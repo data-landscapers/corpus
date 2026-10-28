@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: UGA
 ledger_rows: 77
 not_held: 11
-record: 00f75a4a0a60
+record: b85e91960f98
 ---
 
 # News, Sep – Oct 2026
@@ -214,7 +214,7 @@ The Uganda Communications Commission agreed with mobile operators and licensed i
 
 **[KACITA, UCC Agree to Form Committee on Unlicensed Internet Resellers](https://www.nilepost.co.ug/news/381731/kacita-ucc-agree-to-form-committee-on-unlicensed-internet-resellers)** — Nile Post, 26 October 2026
 
-Traders to register for an operator inventory first; UCC chasing ~4,000 resellers, cites Shs148bn yearly tax loss.
+Kampala traders and the Uganda Communications Commission agreed to form a joint committee, led by the commission, to recommend how unlicensed internet resellers are regulated. Resellers will first register for an inventory. The commission is pursuing about 4,000 unlicensed Wi-Fi resellers and puts potential tax losses at Shs148 billion a year.
 
 </div>
 
@@ -1474,7 +1474,7 @@ The Uganda Bureau of Statistics signed memoranda of understanding with the Samia
 
 **[When Smart cities turn menacing](https://www.independent.co.ug/when-smart-cities-turn-menacing/)** — The Independent (Uganda), 25 October 2026
 
-CIPESA's Wakabi on EPSAuto and ITMS; US$2bn+ surveillance spend in 11 countries; procurement transparency asks.
+A researcher at a digital-rights organisation traces Uganda's EPSAuto traffic-fine system. It was switched on in June 2025 and suspended within days after complaints of wrong fines. On 6 October 2026 the Attorney General declared the 2021 contract for the intelligent transport monitoring system void. The author cites a report finding more than US$2 billion of surveillance spending in 11 countries. The author asks for open procurement.
 
 </div>
 

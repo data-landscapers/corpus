@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: CIV
 ledger_rows: 54
 not_held: 10
-record: 47eb35125ad5
+record: 491cb19d9398
 ---
 
 # News, Sep – Oct 2026
@@ -368,7 +368,7 @@ Côte d'Ivoire's information-systems security agency will run a first national c
 
 **[Cybercriminalité en Côte d’Ivoire : plus de 14 700 plaintes et 23 milliards FCFA de pertes en 2025](https://www.ivoirematin.com/fr/news/Economie/cybercriminalite-en-cote-divoire-plus-de-14-700-plaintes-et-23-milliards-fcfa-de-pertes-en-2025_n_126144.html)** — Ivoirematin, 27 October 2026
 
-Mobile-money fraud, extortion, ID theft lead; cyber in 2026-28 digital roadmap of 7 pillars, 40 projects.
+Côte d'Ivoire's national cybersecurity agency recorded more than 14,700 cybercrime complaints in 2025, according to the digital minister. Losses came to nearly FCFA 23 billion. His Cybersecurity Month statement places security in the 2026-2028 digital roadmap of seven pillars and 40 projects. It also tells firms to comply with the national security framework.
 
 </div>
 
@@ -578,7 +578,7 @@ Côte d'Ivoire's civil registration and identification office, ONECI, is trainin
 
 **[Digitalisation : Trois outils de modernisation de l’état civil](https://digitalmag.ci/digitalisation-trois-outils-de-modernisation-de-letat-civil/)** — Digital Mag Côte d’Ivoire, 27 October 2026
 
-505 centres archived, 3.8m records digitised in 14; up to 62.5% of CityWeb centres idle; EU, World Bank backing.
+Côte d'Ivoire's civil identification office has archived the registers of 505 civil-registry centres. It has begun digitising them in 14, about 3.8 million records so far. Up to 62.5% of centres in Moronou were inactive. Network coverage limits nearly 35% of centres. An online platform for requesting civil-status acts was shown to registrars on 22-24 October 2026. It has EU and World Bank backing.
 
 </div>
 

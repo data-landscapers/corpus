@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: NGA
 ledger_rows: 176
 not_held: 9
-record: 51bcfa8b1872
+record: 8112b92b22dc
 ---
 
 # News, Sep – Oct 2026
@@ -276,7 +276,7 @@ Nigeria's Minister of State for Health, Iziaq Adekunle Salako, told the AI in He
 
 **[NCC, NITDA, AGF, National Assembly demand stronger cybersecurity measures against AI-driven threats](https://dailypost.ng/2026/10/27/ncc-nitda-agf-national-assembly-demand-stronger-cybersecurity-measures-against-ai-driven-threats/)** — Daily Post Nigeria, 27 October 2026
 
-AGF's draft executive cybercrime bill; NITDA-ONSA legislative review; Senate proposes a cyber-resilience index.
+Nigeria's Attorney-General said the Federal Ministry of Justice has advanced a draft executive bill to strengthen the cybercrime legal framework. It covers emerging technologies and the preservation and exchange of electronic evidence. NITDA said it is reviewing cybercrime legislation with the Office of the National Security Adviser and the National Assembly.
 
 </div>
 
@@ -1434,7 +1434,7 @@ Nigeria's national CERT warned of rising Phobos ransomware attacks on cloud serv
 
 **[NCC tasks telcos on stronger defenses against AI cyberattacks](https://guardian.ng/news/ncc-tasks-telcos-on-stronger-defenses-against-ai-cyberattacks/)** — The Guardian Nigeria, 27 October 2026
 
-NCC urges zero-trust and AI model audits on telcos; 700+ registered for second ICSC; NITDA cites sovereign cloud rule.
+The Nigerian Communications Commission spoke at the second International Cybersecurity Conference in Abuja. It urged telecom operators to adopt zero-trust architecture. It also urged them to test their AI systems regularly for weaknesses. The commission said telecoms infrastructure is designated Critical National Information Infrastructure. It said it runs a computer incident response team with mandatory incident reporting.
 
 </div>
 
@@ -1758,7 +1758,7 @@ Nigeria's admissions board launched a service that lets candidates correct their
 
 **[Trust Stamp signs Multi-Year Agreement to provide AI-Powered Identity Solutions for government programs in Nigeria, in a Multi-Year, Multi-Million-Dollar Engagement](https://www.globenewswire.com/news-release/2026/10/26/3388143/0/en/trust-stamp-signs-multi-year-agreement-to-provide-ai-powered-identity-solutions-for-government-programs-in-nigeria-in-a-multi-year-multi-million-dollar-engagement.html)** — Trust Stamp (via GlobeNewswire), 26 October 2026
 
-Company's own release; customer-hosted tokenised biometrics under NDPA 2023; 1m+ enrolments expected in year one.
+Trust Stamp signed a three-year agreement with BLIP Limited, a Nigerian supplier of registration and certification platforms to government, announced on 26 October 2026. It covers tokenised biometric identity tools hosted in the customer's environment, under the Nigeria Data Protection Act 2023. Trust Stamp expects more than one million enrolments in the first year.
 
 </div>
 
@@ -1766,7 +1766,7 @@ Company's own release; customer-hosted tokenised biometrics under NDPA 2023; 1m+
 
 **[Trust Stamp targets Nigerian biometric ID programs with 3-year BLIP deal](https://www.biometricupdate.com/202610/trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-deal)** — Biometric Update, 27 October 2026
 
-Multi-million-dollar, three-year deal; tokenised biometrics hosted in Nigeria; 1m enrolments targeted in year one.
+Trust Stamp signed a three-year technology services and data sovereignty agreement with BLIP Limited, a Nigerian provider of registration platforms for government. Trust Stamp will supply tokenised biometric identity tools, with data hosted in Nigeria. The company expects more than one million enrolments in the first year.
 
 </div>
 
@@ -2556,7 +2556,7 @@ A Nigerian opposition movement called on the electoral commission to abandon its
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 

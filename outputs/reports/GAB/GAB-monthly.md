@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: GAB
 ledger_rows: 64
 not_held: 13
-record: 381c6bc95e39
+record: b886eed84d32
 ---
 
 # News, Sep – Oct 2026
@@ -226,7 +226,7 @@ A delegation from Gabon's digital infrastructure agency, ANINF, attended the Cou
 
 **[African Union Opens 6th Session of Specialized Technical Committee on Communication and ICT](http://www.au.int/en/pressreleases/20261027/au-opens-6th-session-specialized-technical-committee-communication-and-ict)** — African Union Commission, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Ghana chairs new bureau, Kenya and Gabon vice-chairs, Lesotho rapporteur; North Africa seat unconfirmed.
+The African Union's Specialised Technical Committee on Communication and ICT opened its 6th Ordinary Session in Libreville. It elected a bureau chaired by Ghana, with Kenya, Gabon and a North African state still to be confirmed as vice-chairs, and Lesotho as rapporteur. Its recommendations go to AU ministers for decision.
 
 </div>
 
@@ -234,7 +234,7 @@ Ghana chairs new bureau, Kenya and Gabon vice-chairs, Lesotho rapporteur; North 
 
 **[Gabon and African Union Sign Host Country Agreement on Digital Cooperation](https://techafricanews.com/2026/10/27/gabon-african-union-host-country-agreement-digital-cooperation/)** — Tech Africa News, 27 October 2026
 
-Libreville to host AU STC on Communication and ICT; signed by Minister Doumba and Commissioner Mataboge.
+Gabon and the African Union signed a host country agreement for the AU Specialised Technical Committee on Communication and ICT. Gabon's digital economy minister and the AU Commissioner signed it in Libreville at the opening of Digital Week. The signing date is not stated.
 
 </div>
 
@@ -440,7 +440,7 @@ Gabon's digital economy ministry announced a Gabon Digital Week at the Palais de
 
 **[Gabon Digital Week : la 5G officiellement lancée](https://agpgabon.ga/gabon-digital-week-la-5g-officiellement-lancee/)** — Agence Gabonaise de Presse (AGP), 26 October 2026
 
-Launch at Gabon Digital Week; ARCEP frequency nod for Airtel and Moov; masts in Libreville and Port-Gentil first.
+5G networks were launched in Libreville at the opening of Gabon Digital Week. The regulator had given a favourable opinion on assigning frequency bands to Airtel Gabon and Moov Africa Gabon Telecom. Masts are going up in Greater Libreville and Port-Gentil. A gradual national rollout follows.
 
 </div>
 
@@ -816,7 +816,7 @@ The workshop preparing Gabon's national civil-registration conferences closed wi
 
 **[Gabon/Semaine du numérique : lancement officiel du Fichier unique des participations](https://agpgabon.ga/gabon-semaine-du-numerique-lancement-officiel-du-fichier-unique-des-participations/)** — Agence Gabonaise de Presse (AGP), 26 October 2026
 
-Single register of state-held companies at fup.ga; Direction générale des Participations with digital ministry.
+Gabon Digital Week opened with the launch of an online register of the companies in the state's portfolio. The register is built to centralise and secure data on public holdings. The budget minister performed the launch on 26 October 2026. The register runs at www.fup.ga.
 
 </div>
 

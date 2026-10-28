@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: AGO
 ledger_rows: 51
 not_held: 6
-record: 1e9c24bc2005
+record: ec2bf0c53af5
 ---
 
 # News, Sep – Oct 2026
@@ -504,7 +504,7 @@ Angolan company Tech By Tech released a test version of AngolaID, a private digi
 
 **[INFOSI certifica e aprova utilização da plataforma AngolaID](https://pti.ao/infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid/)** — Portal de T.I, 27 October 2026
 
-Private face-match ID wallet cleared for national use; still not a state ID card; banking, health, schooling uses.
+Angola's information society agency INFOSI certified and approved the private AngolaID identity-verification platform, built by Tech by Tech, for use nationwide. This followed an October test release. The company says the platform neither issues nor replaces the state identity card.
 
 </div>
 
@@ -812,7 +812,7 @@ Angola authorised US$6 million of World Bank money for an artificial-intelligenc
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 

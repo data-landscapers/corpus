@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: MDG
 ledger_rows: 38
 not_held: 5
-record: 2513ef27ed9c
+record: 75ec81f4ddc2
 ---
 
 # News, Sep – Oct 2026
@@ -174,7 +174,7 @@ Madagascar's bill on electronic communications and digital infrastructure, submi
 
 **[ACCÈS À INTERNET - Une nouvelle législation en faveur des investissements](https://www.lexpress.mg/2026/10/acces-internet-une-nouvelle-legislation.html)** — L'Express de Madagascar, 27 October 2026
 
-Vote adjourned last session; art. 111 freezes operators' tax and legal regime for licence term; 6% of GDP target by 2028.
+Madagascar's government filed bill 040/2026 on electronic communications and digital infrastructure on 28 August 2026. Its vote was adjourned in the previous session, and it was not yet on the National Assembly's agenda for the new session. Article 111 would guarantee operators stable legal, tax, customs and financial regimes for the term of their licence.
 
 </div>
 

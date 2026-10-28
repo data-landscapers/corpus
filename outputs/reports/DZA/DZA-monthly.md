@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: DZA
 ledger_rows: 52
 not_held: 5
-record: fe21120bff4a
+record: efe48dfd275a
 ---
 
 # News, Sep – Oct 2026
@@ -776,7 +776,7 @@ Algeria's Ministry of National Solidarity launched a digital platform on 20 Octo
 
 **[Plateforme Tawassol : comment signaler un commerçant qui n’affiche pas ses prix ou dépasse les plafonds ?](https://www.algerie360.com/plateforme-tawassol-signalement-commercant-prix/)** — Algérie360, 26 October 2026
 
-Commerce ministry portal for price, cap, hygiene and stock-out complaints; mobile app to follow.
+The Ministry of Internal Trade opened an online consumer portal at tawassol.commerce.gov.dz. Consumers can report unpriced goods, breaches of capped prices, hygiene failures and stock-outs. A mobile app is announced to follow.
 
 </div>
 
@@ -882,7 +882,7 @@ Version 2 of the Algerian Darja Corpus, an open dataset on Zenodo mirrored on Hu
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 

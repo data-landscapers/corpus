@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: KEN
 ledger_rows: 157
 not_held: 7
-record: 16078da6f0dc
+record: 8b3c04fe793c
 ---
 
 # News, Sep – Oct 2026
@@ -938,7 +938,7 @@ The Communications Authority of Kenya published a draft Satellite Frequency Lice
 
 **[Government targets grassroots internet connectivity to open up global digital market for youth](https://www.kenyanews.go.ke/government-targets-grassroots-internet-connectivity-to-open-up-global-digital-market-for-youth/)** — Kenya News Agency (KNA), 18 October 2026
 
-17,000km public-institutions fibre with CA, ICTA, Kenya Power underway; Elgeyo Marakwet to waive fibre-laying charges.
+On 18 October 2026 the ICT Principal Secretary said a 17,000 km fibre project linking all public institutions is underway, run with the Communications Authority, ICT Authority and Kenya Power. A KSh13 billion private build of 27,000 km runs alongside it. The Elgeyo Marakwet governor said the county will waive all charges for companies laying fibre.
 
 </div>
 
@@ -946,7 +946,7 @@ The Communications Authority of Kenya published a draft Satellite Frequency Lice
 
 **[Kenya Plans 44,000km Fiber Expansion to Boost Internet Access](https://techweez.com/2026/10/27/kenya-fiber-optic-network-expansion/)** — Techweez, 27 October 2026
 
-17,000km public-institution fibre plus 27,000km backbone; 64.3m mobile data subscriptions (June 2026); ~37,000km laid.
+Kenya plans a further 44,000km of fibre. One part is a 17,000km project for public institutions. The other is 27,000km of backbone, middle-mile and cross-border links. Government investment of KES 13 billion backs the plan. The plan sits within a Digital Superhighway target of 100,000km. The ICT Principal Secretary's remarks are the source. An earlier account on file describes the 17,000km as already added since 2022.
 
 </div>
 
@@ -1098,7 +1098,7 @@ The Communications Authority of Kenya reported a 43.7% rise in web application a
 
 **[2026-27 Q1 Cyber Security Report - Public Version](https://www.ca.go.ke/sites/default/files/2026-10/Cyber%20Security%20Report%20Q1%202026-2027.pdf)** — Communications Authority of Kenya (National KE-CIRT/CC), 1 October 2026
 
-43rd edition, Jul-Sep 2026; over 2.6 billion threat events, up 14.45%, mainly vulnerability exploits; 20m+ advisories.
+The 43rd edition covers July to September 2026. It records more than 2.6 billion threat events, up 14.45%, mainly exploitation of vulnerabilities, and over 20 million advisories issued.
 
 </div>
 
@@ -1588,7 +1588,7 @@ Safaricom and Pesapal put M-PESA tap-to-pay and QR payment on Pesapal's 30,000 p
 
 **[International Bank for Reconstruction and Development Grant](https://www.gatesfoundation.org/about/committed-grants/2026/10/inv-110666)** — Gates Foundation, 1 October 2026
 
-US$50,000 over nine months, Oct 2026, for World Bank support to Kenya's open-finance policy and guidance.
+The Gates Foundation committed US$50,000 in October 2026 to the World Bank's lending arm. The nine-month grant supports Kenya in drafting open-finance policy and guidance on data sharing, consumer protection and inclusive access to financial services.
 
 </div>
 
@@ -2202,7 +2202,7 @@ Kenya's Konza Technopolis Development Authority has put live a Digital Telematic
 
 **[Kenya and Germany Advance Digital Transformation Partnership Through DTC II](https://techafricanews.com/2026/10/27/kenya-germany-digital-transformation-dtc-ii/)** — TechAfrica News, 27 October 2026
 
-Treasury feedback shapes implementation agreements; tax exemptions unresolved; new GIZ programme director introduced.
+Kenya's State Department for ICT and the Digital Economy and GIZ worked on finalising the implementation agreements for the Digital Transformation Centre II programme, after feedback from National Treasury. Tax exemptions for the programme remain unresolved.
 
 </div>
 
@@ -2484,7 +2484,7 @@ Kenya's President and technology envoy discussed with Cisco the Moran AI Centre 
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 
@@ -2818,7 +2818,7 @@ A second Kenyan cohort of the UNESCO-Oxford course on AI and Digital Transformat
 
 **[Varsity Joins Google-Backed Initiative to Shape Africa’s AI Future](https://sces.strathmore.edu/varsity-joins-google-backed-initiative-to-shape-africas-ai-future/)** — Strathmore University, School of Computing and Engineering Sciences, 27 October 2026
 
-One of six Kenyan universities; 30 across four countries by 2028; first educator workshop 12-16 Oct 2026.
+Strathmore University is one of six Kenyan universities selected for the Google.org-funded Africa AI Upskilling Programme, through its School of Computing and Engineering Sciences. The programme is to reach 30 universities in four countries by 2028. An educator workshop was held on 12-16 October 2026, and Strathmore's own start is set for January 2027.
 
 </div>
 

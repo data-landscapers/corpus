@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: MOZ
 ledger_rows: 54
 not_held: 18
-record: 5df225025999
+record: 2061fcb7b9f0
 ---
 
 # News, Sep – Oct 2026
@@ -266,7 +266,7 @@ Mozambique's parliamentary Standing Commission on 1 October 2026 placed a Person
 
 **[Parlamento alarga calendário de trabalhos para responder à agenda legislativa](https://aimnews.org/2026/10/26/parlamento-alarga-calendario-de-trabalhos-para-responder-a-agenda-legislativa/)** — Agência de Informação de Moçambique (AIM), 26 October 2026
 
-Personal data protection bill on plenary agenda for 6 Nov 2026; session runs 28 Oct to 22 Dec 2026.
+Mozambique's Assembly of the Republic may sit on Fridays and Saturdays during its session from 28 October to 22 December 2026. The reason is the volume of business. The plenary agenda for 6 November includes the bill on personal data protection. It also includes bills on the Highway Code and aeronautical registration.
 
 </div>
 
@@ -500,7 +500,7 @@ Mozambique's regulator validated its Internet for All strategy, which targets 95
 
 **[Le Mozambique veut porter à 1000 le nombre d’écoles connectées à Internet d’ici 2029](https://www.wearetech.africa/fr/fils/actualites/tech/le-mozambique-veut-porter-a-1000-le-nombre-d-ecoles-connectees-a-internet-d-ici-2029)** — wearetech.africa, 27 October 2026
 
-1,000 connected schools by 2029 against 418 now; 19,454 computers to students, 20 digital spaces.
+Mozambique's Communications and Digital Transformation Minister, Américo Muchanga, gave a radio interview broadcast on 26 October 2026. He said the government aims to connect 1,000 schools to the internet by 2029, up from 418. He added that 19,454 computers have been distributed to higher-education students. He added that 20 digital spaces have been created.
 
 </div>
 
@@ -930,7 +930,7 @@ Fees at Mozambique's new Centro Pronto document centre have drawn public anger, 
 
 **[Preços de passaporte, carta de condução e bilhete de identidade continuam inalteráveis](https://aimnews.org/2026/10/25/precos-de-passaporte-carta-de-conducao-e-bilhete-de-identidade-continuam-inalteraveis/)** — Agência de Informação de Moçambique (AIM), 25 October 2026
 
-Public counters keep official fees; premium adds MZN 3,038.89 plus VAT to a MZN 7,200 express passport.
+A private document-services firm said on 25 October 2026 that official fees are unchanged at the public counters. The fees cover identity cards, residence permits, passports and driving licences. Its own service is an optional paid channel. An express passport costs the state fee of MZN 7,200. It adds a MZN 3,038.89 service fee and 16% VAT on that fee. Delivery takes one working day.
 
 </div>
 

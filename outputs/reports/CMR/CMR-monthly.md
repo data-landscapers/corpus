@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: CMR
 ledger_rows: 42
 not_held: 4
-record: 2c6b96b973f9
+record: bda4ef883a28
 ---
 
 # News, Sep – Oct 2026
@@ -72,7 +72,7 @@ The African Development Bank awarded the NC Consulting/Eyra International groupi
 
 **[Cameroon Eyes AI-Led Growth with New Digital Economy Strategy](https://www.businessincameroon.com/public-management/2610-17054-cameroon-eyes-ai-led-growth-with-new-digital-economy-strategy)** — Business in Cameroon, 26 October 2026
 
-Draft strategy being finalised; pillars infrastructure, data governance, skills, research, responsible AI.
+The Minister of Posts and Telecommunications spoke at the World Bank's summit in Seoul on 19-22 October 2026. The Minister said a draft national digital-economy strategy is being finalised. It rests on national AI consultations. Its pillars are digital infrastructure, data governance, skills, research and responsible-AI rules.
 
 </div>
 
@@ -170,7 +170,7 @@ The Yaoundé Declaration on E-Governance and Artificial Intelligence in Africa, 
 
 **[LEADERSHIP NUMÉRIQUE : LE CAMEROUN CHOISI POUR ABRITER LE SIÈGE DE L’ARTAC](https://www.art.cm/fr/article/leadership-num%C3%A9rique-le-cameroun-choisi-pour-abriter-le-si%C3%A8ge-de-l%E2%80%99artac)** — Agence de régulation des télécommunications (ART), Cameroun, 26 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
-Libreville session 20-21 Oct 2026; ART Cameroon designates executive secretary; ICT Observatory resolution.
+Central African telecoms regulators set the headquarters of their regional body, ARTAC, in Cameroon at an extraordinary session in Libreville on 20-21 October 2026. Cameroon's regulator may designate the executive secretary. The session also adopted a resolution on a Central African ICT Observatory for sector data.
 
 </div>
 
@@ -178,7 +178,7 @@ Libreville session 20-21 Oct 2026; ART Cameroon designates executive secretary; 
 
 **[Cameroon to host ARTAC headquarters as Central African regulators deepen digital cooperation](https://techreviewafrica.com/news/7974/cameroon-to-host-artac-headquarters-as-central-african-regulators-deepen-digital-coo)** — Tech Review Africa, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
-Libreville session 20-21 Oct 2026; TRB to name Executive Secretary; Central African ICT Observatory resolution.
+Central African telecoms regulators chose Cameroon as the seat of their association, ARTAC. They gave Cameroon's regulatory board the task of appointing its Executive Secretary. They decided this at their fourth extraordinary session in Libreville on 20-21 October 2026. The session also adopted a resolution on running the regional ICT Observatory.
 
 </div>
 

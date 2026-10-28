@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: DJI
 ledger_rows: 21
 not_held: 11
-record: d0304fc70794
+record: d10791d03167
 ---
 
 # News, Sep – Oct 2026
@@ -68,7 +68,7 @@ Djibouti's President Ismaïl Omar Guelleh set the government's 2026 priorities a
 
 **[Le chef de l’Etat préside les travaux de la 12e séance du Conseil des ministres](https://www.adi.dj/article/139039)** — Agence Djiboutienne d'Information (ADI), 27 October 2026
 
-Draft LOLF in eleven titles; integrated PFM system, e-archiving, digital signature, budget data published online.
+Djibouti's Council of Ministers approved a draft organic law on finance laws with a title on dematerialisation. It provides for an integrated public financial management system, electronic archiving, digital signatures and online publication of budget data.
 
 </div>
 
@@ -168,7 +168,7 @@ Djibouti's minister Mohamed Abdoulkader Moussa reviewed two IDA-funded digital p
 
 **[DJ-CERT - Centre gouvernementale de veille, d'alertes et de réponses aux attaques informatiques (Alertes)](https://cert.gouv.dj/Alertes/)** — DJ-CERT / Autorité Nationale de Cybersécurité, 21 October 2026
 
-DJ-CERT advisory register: 511 vulnerability alerts with severity ratings, January 2023 to October 2026.
+The alert page lists 511 vulnerability alerts with severity ratings, from 2 January 2023 to 21 October 2026. The newest rows, dated 21 October, rate the PHP2Shell flaws in PHP and a GitLab vulnerability as critical.
 
 </div>
 

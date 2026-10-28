@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: XCA
 ledger_rows: 18
 not_held: 0
-record: e5e85c4e260f
+record: 78117f8e4285
 ---
 
 # News, Sep – Oct 2026
@@ -164,7 +164,7 @@ The Central African telecoms regulators' assembly ARTAC closed its 4th extraordi
 
 **[LEADERSHIP NUMÉRIQUE : LE CAMEROUN CHOISI POUR ABRITER LE SIÈGE DE L’ARTAC](https://www.art.cm/fr/article/leadership-num%C3%A9rique-le-cameroun-choisi-pour-abriter-le-si%C3%A8ge-de-l%E2%80%99artac)** — Agence de régulation des télécommunications (ART), Cameroun, 26 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
-Libreville session 20-21 Oct 2026; ART Cameroon designates executive secretary; ICT Observatory resolution.
+Central African telecoms regulators set the headquarters of their regional body, ARTAC, in Cameroon at an extraordinary session in Libreville on 20-21 October 2026. Cameroon's regulator may designate the executive secretary. The session also adopted a resolution on a Central African ICT Observatory for sector data.
 
 </div>
 
@@ -172,7 +172,7 @@ Libreville session 20-21 Oct 2026; ART Cameroon designates executive secretary; 
 
 **[Cameroon to host ARTAC headquarters as Central African regulators deepen digital cooperation](https://techreviewafrica.com/news/7974/cameroon-to-host-artac-headquarters-as-central-african-regulators-deepen-digital-coo)** — Tech Review Africa, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
-Libreville session 20-21 Oct 2026; TRB to name Executive Secretary; Central African ICT Observatory resolution.
+Central African telecoms regulators chose Cameroon as the seat of their association, ARTAC. They gave Cameroon's regulatory board the task of appointing its Executive Secretary. They decided this at their fourth extraordinary session in Libreville on 20-21 October 2026. The session also adopted a resolution on running the regional ICT Observatory.
 
 </div>
 

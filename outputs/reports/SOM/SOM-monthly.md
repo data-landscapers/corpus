@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: SOM
 ledger_rows: 29
 not_held: 1
-record: 68da8c336ed0
+record: 001da50c197d
 ---
 
 # News, Sep – Oct 2026
@@ -372,7 +372,7 @@ Somalia's Ministry of Planning launched a digital system on 8 September 2026 to 
 
 **[Somalia launches digital Ebola travel health pass](https://horneconomicreview.com/2026/10/25/somalia-launches-digital-ebola-travel-health-pass)** — Horn Economic Review, 25 October 2026
 
-Pre-arrival online declaration; Aden Adde airport first, other entry points later; NIH-built, free; no expansion date.
+A digital Ebola travel health pass began on 22 October 2026. Arrivals must file an online health declaration before travel. It was built by the National Institute of Health and starts at Aden Adde International Airport, with extension to other airports, seaports and land borders on no stated timeline.
 
 </div>
 
@@ -496,7 +496,7 @@ Somalia's National Institute of Telecommunications and Technology, part of the c
 
 **[Somalia Opens Fourth National Cybersecurity Forum in Mogadishu](https://sonna.so/en/article/Somalia-Opens-Fourth-National-Cybersecurity-Forum-in-Mogadishu)** — Somali National News Agency (SONNA), 27 October 2026
 
-NCA and Mogadishu University forum; minister flags a National Cybersecurity Academy planned for later in 2026.
+The fourth National Cybersecurity Forum opened in Mogadishu. The National Communications Authority and Mogadishu University organised it over two days under a security-by-design theme. The Minister of Communications and Technology noted that the Somalia Computer Incident Response Team was launched in March 2026. The Minister also noted a planned National Cybersecurity Academy later this year.
 
 </div>
 

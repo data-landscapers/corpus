@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: MAR
 ledger_rows: 41
 not_held: 14
-record: 28d51fa20086
+record: d79bd0adc99e
 ---
 
 # News, Sep – Oct 2026
@@ -74,7 +74,7 @@ King Mohammed VI presided over the swearing-in of Morocco's new government at th
 
 **[Le PLF 2027 veut faire du cloud le choix par défaut des nouveaux projets numériques de l’État — L’Hybride](https://lhybride.ma/briefs/plf-2027-cloud-first-ministere-ia/)** — L'Hybride, 25 October 2026
 
-Full brief: Cloud First circular, 50 MW Jazari-Root data centre, MAD 1.08bn 2027 investment credits for AI ministry.
+The cabinet adopted draft finance law 60-26 for 2027 on 20 October 2026. The finance minister presented it to Parliament on 23 October. Its digital section provides for a Cloud First circular making cloud the default for new public projects. It also provides for a 50 MW sovereign data centre in Rabat over 2027-2029. It remains a draft that Parliament can amend.
 
 </div>
 
@@ -310,7 +310,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[PLF 2027 - IA : Les données stratégiques de l’État auront leur propre datacenter](https://lopinion.ma/fr/actu-maroc/plf-2027---ia--les-donnees-strategiques-de-letat-auront-leur-propre-datacenter_a29710?articleId=1b958255-b43c-4b5e-ae46-c28f85519113)** — L'Opinion, 26 October 2026
 
-MAD 1.34bn for digital sovereignty and AI: government cloud, sovereign Rabat data centre, AI in national languages.
+Morocco's draft 2027 finance bill includes MAD 1.34 billion for digital sovereignty and artificial intelligence. Earlier bills had no such component. It covers cloud services across administrations and a sovereign data centre in Rabat. It also covers AI adapted to national languages and specialised training.
 
 </div>
 
@@ -326,7 +326,7 @@ MAD 1.34bn for digital sovereignty and AI: government cloud, sovereign Rabat dat
 
 **[NCSI :: Morocco](https://ncsi.ega.ee/country/ma/)** — e-Governance Academy, 11 September 2026
 
-NCSI, September 2026: Morocco full marks on critical infrastructure, data protection; 2/9 on crisis management.
+The index version of 11 September 2026 gives Morocco full marks on critical information infrastructure (12 of 12). It also gives full marks on personal data protection (4 of 4). Cybersecurity policy scores 12 of 15. Cyber crisis management scores 2 of 9, and military cyber defence 2 of 6.
 
 </div>
 
@@ -488,7 +488,7 @@ Morocco's digital transition ministry launched a new version of the Idarati port
 
 **[Office des changes: E-Déclarations platform](https://www.lesmre.com/en/actualites/foreign-assets-currency-office-digitizes-compliance-checks)** — LesMRE, 24 October 2026
 
-Open international tender; assets held abroad and company statistical surveys; five phases; 2025-2029 digital strategy.
+The Office des changes opened an international tender for an e-declarations platform. It would digitise declarations of property, assets and funds held abroad by resident Moroccans, and the statistical surveys owed by resident companies. The work runs in five phases under a steering committee, within the Office's 2025-2029 digital strategy.
 
 </div>
 
@@ -606,7 +606,7 @@ Morocco's digital transition ministry and Mistral released the first open-source
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 

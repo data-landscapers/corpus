@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: SWZ
 ledger_rows: 45
 not_held: 3
-record: cc23280946f2
+record: 78de28d628ae
 ---
 
 # News, Sep – Oct 2026
@@ -432,7 +432,7 @@ Eswatini's ICT principal secretary, Prince Mashishimba Andreas Dlamini, said on 
 
 **[ShareSha users can send money to any mobile number](https://times.co.sz/47252/news/sharesha-users-can-send-money-to-any-mobile-number/)** — Times of Eswatini, 27 October 2026
 
-Eswatini Bank wallet works without a bank account; national-ID sign-up by app, USSD *656# or branch.
+Eswatini Bank trained agents and residents in Nhlangano, Shiselweni, on its ShareSha digital wallet. The wallet lets users send money to any mobile number, including recipients not registered on the platform. Sign-up is by national ID, through the app, USSD or a branch, and no bank account is needed.
 
 </div>
 
@@ -778,7 +778,7 @@ The Central Bank of Eswatini's FinTech Working Group became the FinTech Forum Es
 
 **[E15 MILLION UNESWA UNIPOD HUB TO DRIVE YOUTH INNOVATION AND JOB CREATION](https://eswatinipositivenews.online/e15-million-uneswa-unipod-hub-to-drive-youth-innovation-and-job-creation/)** — Eswatini Positive News, 24 October 2026
 
-UNDP-funded innovation pod at UNESWA library; ESCCOM pledges US$150,000; announced at 24 Oct 2026 graduation.
+The University of Eswatini is building a E15 million innovation pod at its library, funded by the UN Development Programme. The vice-chancellor announced it at the 44th graduation on 24 October 2026. The pod will give students from the country's institutions space and equipment to start businesses, and the communications commission pledged US$150,000.
 
 </div>
 

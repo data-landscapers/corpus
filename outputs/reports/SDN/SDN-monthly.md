@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: SDN
 ledger_rows: 37
 not_held: 5
-record: 8bf4b1d9dd74
+record: 531f5bc91ade
 ---
 
 # News, Sep – Oct 2026
@@ -440,7 +440,7 @@ Saudi payments firm EdfaPay and Sudanese IT company GoPravo launched SDPay, an e
 
 **[المدير العام لشركة الخدمات المصرفية الإلكترونية EBS في حوار خاص مع "حواس"](https://hawasmagazine.com/?p=23253)** — Hawas Magazine, 25 October 2026
 
-376 million BBAN transfers, 10 million a month; wartime relocation outside Khartoum; NIPS and unified QR next.
+The general manager of the national payments operator said the account-to-account transfer service has passed 376 million transactions, at about 10 million a month and up 12% in 2026. Operations moved to secured sites outside Khartoum during the war. The next project is an instant payment system with a single national QR code.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: GIN
 ledger_rows: 31
 not_held: 3
-record: 739f934d8c8f
+record: 067d15e5dad2
 ---
 
 # News, Sep – Oct 2026
@@ -50,7 +50,7 @@ record: 739f934d8c8f
 
 **[Guinée : Fana Soumah nommé Ministre de la Communication, de l’économie numérique et de l’Innovation (Décret)](https://agpguinee.com/guinee-fana-soumah-nomme-ministre-de-la-communication-de-leconomie-numerique-et-de-linnovation-decret/)** — AGP Guinée, 26 October 2026
 
-Presidential decree of 26 Oct 2026 names new head of merged communication and digital economy ministry.
+A presidential decree read on 26 October 2026 appointed Fana Soumah as Guinea's Minister of Communication, Digital Economy and Innovation. President Mamadi Doumbouya signed it.
 
 </div>
 
@@ -238,7 +238,7 @@ Guinea's prime minister, Amadou Oury Bah, visited the national data centre at Ko
 
 **[NCSI :: Guinea](https://ncsi.ega.ee/country/gn/)** — e-Governance Academy (NCSI), 4 September 2026
 
-NCSI version 4 Sep 2026: 34 of 120 points; zero on incident response, critical infrastructure, crisis management.
+The National Cyber Security Index version of 4 September 2026 scores Guinea 34 of 120 points. Cybersecurity policy scores 12 of 15 and cybercrime 8 of 16. Critical information infrastructure, incident response and crisis management each score zero.
 
 </div>
 
@@ -478,7 +478,7 @@ Guinea's Ministry of Livestock presented NGAYNAAKO on 22 October 2026, a platfor
 
 **[Lancement officiel du Système intégré de gestion de la pêche et de l'économie maritime à travers la plateforme KONKÖE : la République de Guinée accélère la digitalisation du secteur de la pêche et renforce sa souveraineté sur les ressources halieutiques](https://www.simandou2040.gn/actualites/konkoe-sigpem-lancement-digitalisation-secteur-peche-guinee)** — Programme Simandou 2040, 26 October 2026
 
-Presidency release: fishing licences and certificates go online; first licence signed at 26 Oct 2026 Conakry launch.
+Guinea's fisheries ministry launched KONKÖE, an integrated management system for fishing licences and certificates, in Conakry on 26 October 2026. The first licence was signed through it at the ceremony, which fell under the Simandou 2040 programme.
 
 </div>
 
@@ -486,7 +486,7 @@ Presidency release: fishing licences and certificates go online; first licence s
 
 **[Pêche : la Guinée lance le SIGPEM pour simplifier les démarches administratives](https://guineenews.org/2026/10/26/peche-la-guinee-lance-le-sigpem-pour-simplifier-les-demarches-administratives/)** — Guinéenews, 26 October 2026
 
-Three rollout lots, vessel registry to catch certification; fishers ask local-language help for non-literate users.
+The fisheries platform Konkoé, also called SIGPEM, was launched in Conakry on 26 October 2026 at a ceremony chaired by the presidency's chief of staff. Artisanal and industrial fishers can file applications by phone or computer and follow each step of their file. Fishing representatives asked for local-language help for users who cannot read.
 
 </div>
 
@@ -494,7 +494,7 @@ Three rollout lots, vessel registry to catch certification; fishers ask local-la
 
 **[Djiba Diakité : ‘’Un Etat moderne se mesure à la qualité du service qu’il rend à ses citoyens’’ |](https://www.visionguinee.info/djiba-diakite-un-etat-moderne-se-mesure-a-la-qualite-du-service-quil-rend-a-ses-citoyens/)** — VisionGuinée, 27 October 2026
 
-Launched 26 Oct 2026; licences, landings, vessels and fishing revenue traced; billed as a Simandou 2040 reform.
+The head of the President's cabinet launched the Integrated Fisheries and Maritime Economy Management System, named Konkoé, on 26 October 2026. The platform is to trace fishing licences, landings, vessels and revenue, and to support surveillance of territorial waters. It is presented as part of the Simandou 2040 programme.
 
 </div>
 

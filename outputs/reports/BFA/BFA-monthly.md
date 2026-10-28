@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: BFA
 ledger_rows: 53
 not_held: 7
-record: 25be7a5e77d1
+record: 89e1efa5bfbe
 ---
 
 # News, Sep – Oct 2026
@@ -800,7 +800,7 @@ Burkina Faso's AI centre of excellence, CITADEL, and its Data Lab launched L'Ess
 
 **[Burkina/Intelligence artificielle : Une feuille de route de 30 milliards de FCFA pour créer 5 000 emplois spécialisés d’ici à 2030](https://lefaso.net/?id_article=150234&page=impression)** — LeFaso.net, 25 October 2026
 
-FCFA 30bn to 2030; 23 AI pilots, 80% national data hosting, Moore, Dioula, Fulfulde models; publication still pending.
+The 2026-2030 national AI roadmap was validated on 19 June 2026 but has not been officially published. A ministry official presented it on 23 October with a projected budget of FCFA 30 billion, 23 proofs of concept, 500 experts and 5,000 specialised jobs by 2030. It targets hosting at least 80% of the data concerned inside the country.
 
 </div>
 

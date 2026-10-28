@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: NER
 ledger_rows: 24
 not_held: 1
-record: 267e28a7d012
+record: 680f6367cdee
 ---
 
 # News, Sep – Oct 2026
@@ -50,7 +50,7 @@ record: 267e28a7d012
 
 **[Lancement de l'atelier sur le commerce électronique](https://www.commerce-industrie.gouv.ne/?p=3463)** — Ministère du Commerce et de l'Industrie (Niger), 27 October 2026
 
-Strategy at pre-validation stage; 2035 horizon; financial inclusion among stated aims; ministry release.
+Niger's Ministry of Commerce and Industry opened a three-day pre-validation workshop on 26 October 2026. The workshop concerns its national e-commerce strategy. The strategy aims to use digital means to support financial and social inclusion. It also aims to make Niger a major West African e-commerce actor by 2035.
 
 </div>
 

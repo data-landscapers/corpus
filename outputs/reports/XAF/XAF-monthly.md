@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: XAF
 ledger_rows: 125
 not_held: 3
-record: 46ad2583bbd3
+record: 2ef39d6819a0
 ---
 
 # News, Sep – Oct 2026
@@ -1922,7 +1922,7 @@ The African Telecommunications Union opened applications for the fifth Africa In
 
 **[UNDP and EBN partner to strengthen quality standards for Africa’s incubators](https://www.undp.org/africa/press-releases/undp-and-ebn-partner-strengthen-quality-standards-africas-incubators)** — United Nations Development Programme, 27 October 2026
 
-EU|BIC certification model adapted for timbuktoo incubators; benchmarking data to feed policy dialogue.
+UNDP and the European Business and Innovation Centre Network agreed a partnership to build certification and benchmarking frameworks for incubators in UNDP's timbuktoo Pan-African Incubation Network. The frameworks draw on the network's EU|BIC quality standard. Terms and funding are not stated.
 
 </div>
 
@@ -2456,7 +2456,7 @@ The European Investment Bank and the European Commission launched Boost Ventures
 
 **[Cenfri NPC Grant](https://www.gatesfoundation.org/about/committed-grants/2026/10/inv-087035)** — Gates Foundation, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-US$1,285,123 over 36 months, Oct 2026: arbitrage-detection tool for central banks measuring merchant payments.
+The Gates Foundation committed US$1,285,123 in October 2026 to Cenfri in Cape Town. The grant runs over 36 months. It funds a tool for central banks and financial providers that identifies arbitrage transactions. The aim is to improve the measurement of digital merchant payments and the accuracy of credit scores.
 
 </div>
 

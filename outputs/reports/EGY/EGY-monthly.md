@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: EGY
 ledger_rows: 108
 not_held: 40
-record: a2e7ab930df2
+record: a09f5b155e8d
 ---
 
 # News, Sep – Oct 2026
@@ -302,7 +302,7 @@ Egypt's Ministry of Communications and Information Technology took part in the s
 
 **[«وزارة الاتصالات»: مصر تنفذ أكثر من 760 عملية للدفاع السيبراني خلال 2025](https://www.fintechgate.net/253502)** — بوابة التكنولوجيا المالية, 1 October 2026
 
-MCIT counts 760+ cyber-defence operations in 2025; EG-CERT, youth academy and NTRA awareness drive described.
+Egypt's communications ministry said it carried out more than 760 cyber-defence operations across the country in 2025. It made the statement during Cybersecurity Awareness Month. The statement also describes the national CERT, a youth cybersecurity academy and an awareness drive by the telecoms regulator.
 
 </div>
 
@@ -736,7 +736,7 @@ A digital truck yard at Ain Sokhna port, under an EGP 1bn contract for up to 1,1
 
 **[«التخطيط» تعلن تنفيذ ربط إلكتروني متكامل مع «المالية» وبنك الاستثمار لأول مرة - الوطن](https://www.elwatannews.com/news/details/8384664)** — Al-Watan, 26 October 2026
 
-Planning minister to Senate: link with Finance and National Investment Bank live four months, to track public investment.
+The planning minister told the Senate about an integrated electronic link. It joins the planning ministry, the finance ministry and the National Investment Bank. It was activated over the past four months, a first. It is meant to tighten monitoring of public investment and the allocation of project funding.
 
 </div>
 
@@ -1082,7 +1082,7 @@ Egypt's agriculture ministry spokesman Khaled Gad said on 23 September 2026 that
 
 **[Egypt’s Tax Authority Taps eTax to Operate Digital Platform for Electronic Invoice and Receipt Data](https://www.technotime.net/17974)** — Techno Time, 24 October 2026
 
-eTax to build data warehouse and analytics on e-invoice and e-receipt data to flag audit cases; hosting included.
+The Tax Authority contracted eTax to build and run a platform that analyses electronic-invoice and e-receipt data to select cases for examination. The work covers the data warehouse, integration, hosting and security.
 
 </div>
 
@@ -1454,7 +1454,7 @@ Egypt, with Bangladesh and a cross-regional group, led the UN Human Rights Counc
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 

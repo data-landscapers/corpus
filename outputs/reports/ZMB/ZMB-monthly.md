@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: ZMB
 ledger_rows: 48
 not_held: 32
-record: 60d36b0480ef
+record: 42b93d2dd152
 ---
 
 # News, Sep – Oct 2026
@@ -292,7 +292,7 @@ Airtel Zambia is acquiring about 1,300 km of fibre-optic infrastructure from its
 
 **[Zambia : Zambia Takes First SADC Regional Cybersecurity Chair](https://www.lusakatimes.com/2026/10/27/zambia-takes-first-sadc-regional-cybersecurity-chair/)** — Lusaka Times, 27 October 2026
 
-Chair for 2026-2027 taken 17 Sept 2026; SADC regional cyber framework of 2019 now being operationalised.
+Zambia took the first chair of the SADC Regional Computer Incident Response Team Steering Committee for 2026-2027. The Zambia Cyber Security Agency's director general, Dr Schmidt Chintu, assumed the post on 17 September 2026. The agency says the regional cybersecurity framework adopted in 2019 is now being put into operation.
 
 </div>
 
@@ -580,7 +580,7 @@ The Zambia Revenue Authority set out on 19 October 2026 the next steps in moving
 
 **[393 taxpayers owe ZRA K26m in smart invoicing fines - AG](https://diggers.news/business/2026/10/27/393-taxpayers-owe-zra-k26m-in-smart-invoicing-fines-ag/)** — News Diggers, 27 October 2026
 
-Over K26m in e-invoicing fines uncollected at 31 Aug 2026; 2023 VAT e-invoicing rule quoted; partial capture.
+Zambia's Auditor General reported that the Zambia Revenue Authority fined 393 taxpayers more than K26 million for not using the Smart Invoicing System. As at 31 August 2026 it had collected none of the amount.
 
 </div>
 

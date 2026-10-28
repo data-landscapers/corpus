@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: TZA
 ledger_rows: 85
 not_held: 5
-record: c9e9127bce89
+record: bd42b7e8ea7c
 ---
 
 # News, Sep – Oct 2026
@@ -436,7 +436,7 @@ Tanzania's TCRA gave telecoms providers 30 days to correct faults found in inspe
 
 **[Paratus connects Tanzania to Africa and beyond with new Dar es Salaam PoP](https://paratus.africa/blog/paratus-connects-tanzania-to-africa-and-beyond-with-new-dar-es-salaam-pop/)** — Paratus Africa, 26 October 2026
 
-Company announcement; PoP live since September 2026; IP transit, Layer 2 and wholesale capacity on K2M routes.
+Paratus Tanzania set up a point of presence at the Wingu data centre in Dar es Salaam in September 2026. It sells IP transit, Layer 2 circuits and wholesale capacity. The routes run to Nairobi, Maputo, Johannesburg, Eswatini, Europe and the US. The point of presence is part of its Kigali-Mombasa network strategy.
 
 </div>
 
@@ -444,7 +444,7 @@ Company announcement; PoP live since September 2026; IP transit, Layer 2 and who
 
 **[Paratus expands its African reach with Tanzania PoP](https://www.connectingafrica.com/fiber-networking/paratus-expands-its-african-reach-with-tanzania-pop)** — Connecting Africa, 27 October 2026
 
-Dar es Salaam PoP at Wingu Data Centre; IP transit and wholesale routes to Nairobi, Maputo, Johannesburg.
+Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es Salaam. It links customers to Paratus network routes north to Nairobi via Mombasa and south to Maputo, Johannesburg and Eswatini. The company will offer IP transit, Layer 2 circuits and wholesale capacity to carriers, internet service providers and enterprises.
 
 </div>
 
@@ -1108,7 +1108,7 @@ Tanzania's National Planning Commission has registered 150 development projects 
 
 **[Tanzania moves to e-Delivery System to ensure its development projects meet Vision 2050 goals - Daily News](https://dailynews.co.tz/tanzania-moves-to-e-delivery-system-to-ensure-its-development-projects-meet-vision-2050-goals/)** — Daily News (Tanzania), 27 October 2026
 
-Deputy minister to Parliament: about 940 officers trained; all ongoing projects to register; public dashboards.
+Tanzania's Deputy Minister for Planning and Investment told Parliament about the e-Delivery System. About 940 public servants have been trained on it. Every ongoing development project must be registered in it. Its dashboards are to let Parliament and the public track projects against Vision 2050 targets.
 
 </div>
 
@@ -1448,7 +1448,7 @@ Tanzania's National Bureau of Statistics published the Statistical Abstract 2025
 
 **[NBS, NM-AIST and UDSM: Turning DIRA 2050 into Action](https://nm-aist.ac.tz/nbs-nm-aist-and-udsm-turning-dira-2050-into-action/)** — Nelson Mandela African Institution of Science and Technology, 27 October 2026
 
-Tripartite MoU on AI, statistical modelling and data innovation; talent, data and computing for DIRA 2050.
+Tanzania's National Bureau of Statistics signed a three-party memorandum of understanding with NM-AIST and the University of Dar es Salaam on artificial intelligence, statistical modelling and data innovation. The partners will pool researchers, data and computing to support Vision 2050. The signing date is not stated.
 
 </div>
 

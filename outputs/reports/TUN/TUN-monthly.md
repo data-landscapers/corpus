@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: TUN
 ledger_rows: 66
 not_held: 5
-record: b23232f7e188
+record: f175e0ae2543
 ---
 
 # News, Sep – Oct 2026
@@ -308,7 +308,7 @@ Parliament's own case file for the bill amending Tunisia's 2022 cyber-offences d
 
 **[Amendement du décret-loi 54: Les peines de prison remplacées par des amendes financières](https://www.lapresse.tn/2026/09/30/amendement-du-decret-loi-54-les-peines-de-prison-remplacees-par-des-amendes-financieres/)** — La Presse de Tunisie, 30 September 2026
 
-Decree-law 2026-1 in JORT no. 96: article 24 now fines of 10,000-20,000 dinars; prison only for repeat offences.
+Decree-law 2026-1 appeared in issue 96 of the official gazette on 30 September 2026. It replaces article 24 of decree-law 2022-54, so that spreading false news online is punished by a fine of 10,000 to 20,000 dinars. Prison applies only to repeat offences.
 
 </div>
 
@@ -316,7 +316,7 @@ Decree-law 2026-1 in JORT no. 96: article 24 now fines of 10,000-20,000 dinars; 
 
 **[مرسوم عدد 1 لسنة 2026 مؤرخ في 30 سبتمبر 2026 يتعلق بتنقيح المرسوم عدد 54 لسنة 2022 (Décret-loi n° 2026-1 du 30 septembre 2026 revising décret-loi n° 2022-54, article 24)](https://www.juridoc.tn/ar/document/%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%B9%D8%AF%D8%AF-1-%D9%84%D8%B3%D9%86%D8%A9-2026-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-30-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2026-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%AA%D9%86%D9%82%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%B9%D8%AF%D8%AF-54-%D9%84%D8%B3%D9%86%D8%A9-2022-%D8%A7%D9%84%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-13-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2022-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%B5%D9%84%D8%A9-%D8%A8%D8%A3%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84/235342)** — Présidence de la République tunisienne (text as reproduced by Juridoc), 30 September 2026
 
-New art. 24: fines of TND 10,000-20,000 replace prison; six months and TND 50,000 on reoffence; doubled for officials.
+Decree-law 2026-1 of 30 September 2026 repeals article 24 of decree-law 2022-54. It writes a new article in its place. Deliberately producing or spreading false news, rumours or forged documents to harm others, public security or national defence carries a fine of TND 10,000 to 20,000. A repeat offence brings six months in prison and a TND 50,000 fine. Penalties double where the target is a public official.
 
 </div>
 
@@ -1030,7 +1030,7 @@ A Tunisian finance ministry document on the 2027 draft budget plans to fight tax
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 
@@ -1074,7 +1074,7 @@ Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 th
 
 **[Le hub numérique « The Dot » : 500 startups accompagnées en cinq ans](https://www.lapresse.tn/2026/10/25/le-hub-numerique-the-dot-500-startups-accompagnees-en-cinq-ans/)** — La Presse de Tunisie, 25 October 2026
 
-500+ startups since 2021, 37 diaspora-founded; 140 incubated from ten governorates; 3,000 events.
+The EU-funded hub marked its fifth anniversary on 23 October 2026. It reported support for more than 500 startups since 2021, 37 of them founded by diaspora Tunisians. It has incubated 140 startups from ten governorates. It has hosted over 3,000 events.
 
 </div>
 

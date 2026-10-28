@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: CAF
 ledger_rows: 23
 not_held: 5
-record: 388f38b90fad
+record: 1d3ac7f915cd
 ---
 
 # News, Sep – Oct 2026
@@ -160,7 +160,7 @@ The digital-economy ministers of the Central African Republic and DR Congo agree
 
 **[Vers une diversification de la connectivité en Centrafrique](https://sunvimedia.info/vers-une-diversification-de-la-connectivite-en-centrafrique/)** — Sunvi Media, 26 October 2026
 
-Dependence on 935 km CAB fibre; eastward route via South Sudan under study after March 2026 vandalism.
+The country's international connectivity rests largely on a 935 km fibre segment of the Central African Backbone. Vandalism in March 2026 partly cut telecom services. A ministry official said in late August that a route eastward via South Sudan is under study, with the path and terms still to be set.
 
 </div>
 

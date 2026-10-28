@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: COD
 ledger_rows: 72
 not_held: 7
-record: ebc255fffd09
+record: 6f508a1ac165
 ---
 
 # News, Sep – Oct 2026
@@ -172,7 +172,7 @@ The DRC government adopted on 30 September 2026 a bill to replace the 2010 publi
 
 **[RDC: la diffamation dans les réseaux sociaux, punissable par le code du numérique](https://acp.cd/affaire-judiciare-et-droits-humains/rdc-la-diffamation-dans-les-reseaux-sociaux-punissable-par-le-code-du-numerique/)** — ACP, 6 October 2026
 
-Lawyer: Digital Code art. 360 leaves journalists no immunity for online defamation; TikTok chronicler held Sept 2026.
+A Kinshasa lawyer spoke to the press agency on 6 October 2026. He said the 2023 digital code punishes online defamation, with no immunity for journalists or influencers. He cited the September 2026 arrest of a TikTok chronicler. The arrest followed a broadcast about a singer's private life.
 
 </div>
 
@@ -180,7 +180,7 @@ Lawyer: Digital Code art. 360 leaves journalists no immunity for online defamati
 
 **[RDC : Des personnes poursuivies pour des infractions numériques détenues à Makala, annonce Guillaume Ngefa](https://lepotentiel.cd/2026/10/24/rdc-des-personnes-poursuivies-pour-des-infractions-numeriques-detenues-a-makala-annonce-guillaume-ngefa/)** — LePotentiel, 24 October 2026
 
-Justice minister: social-media offence suspects held at Makala, self-styled presidency communicators among them.
+The justice minister spoke at a press briefing. He said several people prosecuted for social-media offences are held at Makala prison in Kinshasa. He added that some of them presented themselves as communicators for the presidency. He said nobody is exempt from prosecution on grounds of political affiliation.
 
 </div>
 
@@ -984,7 +984,7 @@ DR Congo relaunched its e-visa reform with a new competitive selection of a prov
 
 **[RDC : la stratégie de digitalisation de la gouvernance sécuritaire soumise à validation - Congo Inter](https://congointer.info/2026/10/27/rdc-la-strategie-de-digitalisation-de-la-gouvernance-securitaire-soumise-a-validation/)** — Congo Inter, 27 October 2026
 
-Four-day Kinshasa workshop from 26 Oct 2026; real-time security reporting from village to state, now mostly manual.
+DR Congo's deputy interior minister opened a four-day national workshop in Kinshasa on 26 October 2026. The workshop is to validate a strategy and roadmap for digitalising security governance. The aim is real-time reporting of security information from village to state level. That reporting still relies largely on manual procedures.
 
 </div>
 
@@ -1058,7 +1058,7 @@ DR Congo's Ministry of Digital Economy announced on 22 September that Anthropic'
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 

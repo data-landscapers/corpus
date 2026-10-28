@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: GNQ
 ledger_rows: 22
 not_held: 6
-record: 4d347406d1e0
+record: 2c6d71172a15
 ---
 
 # News, Sep – Oct 2026
@@ -424,7 +424,7 @@ Equatorial Guinea's statistics institute INEGE presented the ninth edition of th
 
 **[INEGE avanza en la validación técnica de los documentos del Quinto Censo de Población y del Primer Censo Agropecuario](https://www.guineaecuatorialpress.com/noticias/inege_avanza_en_la_validacion_tecnica_de_los_documentos_del_quinto_censo_de_poblacion_y_del_primer_censo_agropecuario)** — Página Oficial del Gobierno de la República de Guinea Ecuatorial, 26 October 2026
 
-INEGE, UNDP and FAO validate methods and data-collection tools for fifth population and first agricultural census.
+Equatorial Guinea's statistics institute opened a technical validation workshop on 26 October 2026 with UNDP and FAO. Participants review the methods and data-collection tools for the fifth population census and the first agricultural census. It follows a strategy workshop held on 27-29 July 2026.
 
 </div>
 

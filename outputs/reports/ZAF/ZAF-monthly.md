@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: ZAF
 ledger_rows: 174
 not_held: 19
-record: 9c94c592c6c0
+record: 31daeae750f7
 ---
 
 # News, Sep – Oct 2026
@@ -362,7 +362,7 @@ South Africa's parliamentary justice committee agreed on 23 September 2026 that 
 
 **[Question NW4395 to the Acting Minister of Police](https://pmg.org.za/committee-question/41149/)** — Parliamentary Monitoring Group (Parliament of South Africa), 5 October 2026
 
-SAPS reply: eight cyber-extortion and ransomware cases in three years, one arrest; Weather Service attack unsolved.
+In a reply to a parliamentary question tabled on 5 October 2026, the police service reported eight cyber-extortion, ransomware and related cases registered over three years. One suspect was arrested, for extortion. The attack on the Weather Service remains unsolved.
 
 </div>
 
@@ -418,7 +418,7 @@ South Africa's finance minister said on 21 October 2026, presenting the Medium-T
 
 **[Information Regulator (South Africa), Enforcement Notice (s.95 POPIA) and Infringement Notice (s.109 POPIA) against First National Bank, 21 October 2026](https://inforegulator.org.za/wp-content/uploads/2026/10/FIRST-NATIONAL-BANK-ENFORCEMENT-NOTICE-211026_Redacted.pdf)** — Information Regulator (South Africa), 21 October 2026
 
-R1m fine, section 105 offence; 88 data subjects exposed to 696 people in 2022; POPIA conditions breached; 90-day report.
+The Information Regulator issued an enforcement notice and an infringement notice to First National Bank. Both were signed on 21 October 2026. The infringement notice carries an R1 million administrative fine. The regulator found an offence under section 105 of the data protection act. A 2022 compromise exposed the data of 88 people to 696 unauthorised individuals. The bank must fix its privacy policy, retention and further processing. It must report within 90 days.
 
 </div>
 
@@ -426,7 +426,7 @@ R1m fine, section 105 offence; 88 data subjects exposed to 696 people in 2022; P
 
 **[Information Regulator fines Central Johannesburg TVET College and First National Bank for POPIA contravention](https://inforegulator.org.za/wp-content/uploads/2026/10/MEDIA-STATEMENT-REGULATOR-FINES-CJC-AND-FNB-FOR-POPIA-CONTRAVENTION.pdf)** — Information Regulator (South Africa), 26 October 2026
 
-Regulator's own statement: CJC fined R500,000 for ignoring enforcement notice; FNB R1m for section 105 offence.
+South Africa's Information Regulator fined Central Johannesburg TVET College R500,000 for not complying with an enforcement notice of 22 May 2026. The notice followed the sharing of three complainants' personal information with third parties. The fine was announced on 26 October 2026 together with a R1 million fine on First National Bank.
 
 </div>
 
@@ -434,7 +434,7 @@ Regulator's own statement: CJC fined R500,000 for ignoring enforcement notice; F
 
 **[FNB issued with R1m fine for POPIA violation](https://www.itweb.co.za/article/fnb-issued-with-r1m-fine-for-popia-violation/O2rQGqAEWwBqd1ea)** — ITWeb South Africa, 27 October 2026
 
-88 home-loan applicants exposed via app glitch; section 105 offence, section 19 safeguards failed.
+South Africa's Information Regulator fined First National Bank R1 million after a fault in its mobile app exposed the personal data of 88 home-loan applicants to 696 unauthorised people. The regulator found the bank's safeguards inadequate and its response to repeated security incidents deficient. It issued the notices on 26 October 2026.
 
 </div>
 
@@ -1424,7 +1424,7 @@ The South African Reserve Bank explains how its National Payment System Departme
 
 **[Rand Mutual probes alleged breach of 1.68m claims](https://www.itweb.co.za/article/rand-mutual-probes-alleged-breach-of-168m-claims/G98YdqLGAgXMX2PD)** — ITWeb South Africa, 27 October 2026
 
-Threat actor claims 366GB and 1.68m claims records, US$95,000 ransom by 5 Nov; RMA confirms nothing yet.
+Rand Mutual Assurance said it is investigating a possible systems breach after an alert on 23 October 2026. A threat actor claims to hold 366GB of data, including 1,683,810 compensation claims records, and demands US$95,000 by 5 November. The insurer said no unauthorised access had yet been established.
 
 </div>
 
@@ -2674,7 +2674,7 @@ South Africa's Financial Sector Conduct Authority told Parliament's finance comm
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 

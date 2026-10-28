@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: MUS
 ledger_rows: 35
 not_held: 7
-record: 67d7c133342a
+record: 5f9514ebddbd
 ---
 
 # News, Sep – Oct 2026
@@ -236,7 +236,7 @@ Mauritius's ICT minister, Avinash Ramtohul, told L'Express on 10 October 2026 ab
 
 **[Data Protection Office (Mauritius), Advice to Management Companies (MCs) - registration and Data Protection Officer obligations under the Data Protection Act 2017](https://dataprotection.govmu.org/Documents/Advice%20to%20%20MCs%20on%20Registration.pdf)** — Data Protection Office, Mauritius, 1 September 2026
 
-Management Companies register as controller and processor, appoint own DPO; no blanket exemption for managed entities.
+The Data Protection Office updated its guidance in September 2026. Every Management Company must register as a controller, and also as a processor where it handles personal data for managed entities. Each must name its own Data Protection Officer, and managed entities get no blanket exemption but may ask for a case-by-case assessment.
 
 </div>
 
@@ -244,7 +244,7 @@ Management Companies register as controller and processor, appoint own DPO; no b
 
 **[Mauritius Managed Entities Now Need Their Own Data Protection Registration | Acclime](https://global.acclime.com/news/managed-entities-need-own-data-protection-registration/)** — Acclime, 26 October 2026
 
-DPO guidance of Sept 2026: Management Company registers as controller and processor; each managed entity its own DPO.
+Mauritius's Data Protection Office issued updated guidance in September 2026, as described by an advisory firm. A management company must register as a controller for its own data and separately as a processor for entities it administers. Each managed entity needs its own registration and data protection officer.
 
 </div>
 
@@ -348,7 +348,7 @@ Mauritius runs a central offsite backup service for government electronic media 
 
 **[Mauritius and Meta strengthen cooperation on online safety and digital challenges](https://mitci.govmu.org/mitci/mauritius-and-meta-strengthen-cooperation-on-online-safety-and-digital-challenges/)** — Ministry of Information Technology, Communication and Innovation (Mauritius), 7 October 2026
 
-Cybercrime cases 491 (2024) to 702 (2025), sextortion 178 to 223; about 85% of population on Meta; Acting PM opens.
+The government and Meta held a full-day workshop at Ebene on 7 October 2026, opened by the Acting Prime Minister, on child safety, disinformation, impersonation and AI-generated content. Cybercrime cases rose from 491 in 2024 to 702 in 2025, and sextortion cases from 178 to 223. About 85% of the population uses Meta platforms.
 
 </div>
 
@@ -384,7 +384,7 @@ The Bank of Mauritius is tendering for the supply and implementation of a threat
 
 **[Risque de cyberattaque : 10 à 15 % des services gouvernementaux toujours hors ligne](https://defimedia.info/risque-de-cyberattaque-10-15-des-services-gouvernementaux-toujours-hors-ligne)** — Le Defi Media Group, 25 October 2026
 
-Around 70% of government sites offline; 85-90% restored by 2026-10-24; Mauritius Telecom free exposure checker.
+About 70% of government websites, those running on PHP, were taken offline over the PHP2Shell flaw. The ICT minister said 85 to 90% of services were back by 24 October 2026, and that the delay lay with sites built by outside contractors. Mauritius Telecom put a free exposure-check tool online on 23 October.
 
 </div>
 

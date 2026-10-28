@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: LBY
 ledger_rows: 46
 not_held: 3
-record: 368b0f806254
+record: cd65f23a7c37
 ---
 
 # News, Sep – Oct 2026
@@ -96,7 +96,7 @@ The capital's chamber of commerce met on the economy minister's decision 449 of 
 
 **[الوطني للحريات وحقوق الإنسان يستعرض مسودة قانون حماية البيانات الشخصية مع لجنة النواب](https://lana.gov.ly/post.php?id=368592&lang=ar)** — وكالة الأنباء الليبية (LANA), 26 October 2026
 
-Rights council's draft, Council of Europe-reviewed, adds AI chapter; sent to House of Representatives as first proposal.
+A committee of the House of Representatives and Libya's human rights council began a joint review of a draft personal data protection law on 26 October 2026. The council's committee wrote the draft over two and a half years. It had Council of Europe expert review. It added a chapter on artificial intelligence. It sent the draft to the House as an initial proposal.
 
 </div>
 
@@ -616,7 +616,7 @@ Decree 465 of 2026 makes registration on the unified digital trade system compul
 
 **[وزير الصحة يترأس اجتماعًا تشاوريًا لإعداد خطة التحول الرقمي بالقطاع الصحي في ليبيا 2026–2030](https://ar.libyaobserver.ly/article/39242)** — Libya Observer, 27 October 2026
 
-Consultative meeting on health-sector digitalisation plan 2026-2030; digital maturity analysis, WHO and UNDP present.
+Libya's Health Minister chaired a consultative meeting on a 2026-2030 plan for digitalising the health sector. The Minister of State for Digital Economy and AI and representatives of the WHO and UNDP took part. Participants reviewed the state of digital health, facility readiness, national health information systems and a preliminary digital maturity analysis. The plan is in preparation. Priorities, responsibilities and timetables were still to be set.
 
 </div>
 
@@ -866,7 +866,7 @@ Libya's communications authority and the US State Department signed a cooperatio
 
 **[قنوان وهواوي توقعان اتفاق تعاون لدعم التحول الرقمي في ليبيا](https://w.almustaqbal.ly/news/5894)** — وكالة أنباء المستقبل, 24 October 2026
 
-Signed at Libya's chambers federation; innovation, expertise exchange, knowledge economy; no value or project named.
+The Qanwan investment foundation and Huawei's Libya branch signed a cooperation agreement on investment and technology at the General Union of Chambers of Commerce, Industry and Agriculture. It aims at innovation, expertise exchange and digital transformation. No value or specific project was stated.
 
 </div>
 

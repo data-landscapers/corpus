@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: LBR
 ledger_rows: 40
 not_held: 6
-record: 30abfab001a1
+record: 51033c38e257
 ---
 
 # News, Sep – Oct 2026
@@ -864,7 +864,7 @@ At a Governance Commission policy dialogue, the Press Union of Liberia called fo
 
 **[IIC Proposes Regional Hub -Grand Gedeh survey backs decentralized access - Analyst Liberia](https://analystliberiaonline.com/iic-proposes-regional-hub-grand-gedeh-survey-backs-decentralized-access/)** — The Analyst News, 27 October 2026
 
-87.6% of 1,875 respondents never heard of the 2010 FOI Act; 77.6% online regularly; regional hub proposed.
+A survey of 1,875 people in Grand Gedeh County on 14-17 October 2026 found that 87.6% had never heard of the Freedom of Information Act of 2010. Some 85.3% did not know how to file a request. Some 77.6% said they use the internet regularly. The Independent Information Commission recommended a feasibility assessment for a regional freedom of information hub in the county.
 
 </div>
 

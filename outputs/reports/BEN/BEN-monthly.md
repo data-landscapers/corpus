@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: BEN
 ledger_rows: 42
 not_held: 4
-record: cbcc64ddcf12
+record: a86dd253afed
 ---
 
 # News, Sep – Oct 2026
@@ -612,7 +612,7 @@ Benin's government launched a presidential National Administrative Simplificatio
 
 **[2027 Professional Elections: COSI-Benin Sets Conditions on Electronic Voting and Calls for Lowering Threshold to 10%](https://beninwebtv.bj/en/2027-professional-elections-cosi-benin-sets-conditions-on-electronic-voting-and-calls-for-lowering-threshold-to-10/)** — Benin Web TV, 26 October 2026
 
-Union wants independent audit of e-voting after 2023 proxy-voting flaws; threshold cut from 20% to 10% sought.
+The budget and public service ministry decided to hold the March-April 2027 professional elections by electronic vote. The COSI-Benin union confederation demanded an independent technical audit first. It cited 2023 e-elections in education and health. In those votes, third parties voted for registered voters.
 
 </div>
 
@@ -770,7 +770,7 @@ Benin's identification agency ANIP handed 1,422 equal-opportunity cards for pers
 
 **[À Abou Dhabi, Romuald Wadagni engage le Bénin dans une nouvelle phase de coopération commerciale - LA MARINA BJ](https://lamarina.bj/2026/10/26/a-abou-dhabi-romuald-wadagni-engage-le-benin-dans-une-nouvelle-phase-de-cooperation-commerciale/)** — La Marina BJ, 26 October 2026
 
-Benin-UAE CEPA exchanged 25 Oct 2026 with seven instruments; letter of intent on data hosting, no amounts.
+Benin and the United Arab Emirates exchanged a Comprehensive Economic Partnership Agreement in Abu Dhabi on 25 October 2026, with seven companion instruments. One is a letter of intent on data hosting and information systems. No amounts, scope or timetable were published for it, and the agreement awaits ratification.
 
 </div>
 

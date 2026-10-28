@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: GHA
 ledger_rows: 119
 not_held: 9
-record: 0d3385eb694f
+record: a230ff04f60b
 ---
 
 # News, Sep – Oct 2026
@@ -1638,7 +1638,7 @@ The chief executive of the Ghana Tourism Authority, Maame Efua Houadjeto, said o
 
 **[UNDP Hands Over 90 Laptops to GEA to Strengthen Digital Support for MSMEs](https://www.undp.org/ghana/press-releases/undp-hands-over-90-laptops-gea-strengthen-digital-support-msmes)** — United Nations Development Programme, 26 October 2026
 
-90 laptops for Digital Champions; nationwide gateway rollout under Joint SDG Fund programme with UNCDF, UNCTAD.
+The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They are for the national rollout of the MSME Digital Gateway. Trained Digital Champions will use them to help small businesses reach support, financing information and markets. The work falls under a Joint SDG Fund programme with three other bodies.
 
 </div>
 

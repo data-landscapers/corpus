@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: ETH
 ledger_rows: 39
 not_held: 5
-record: 43df08c9d2b5
+record: ffdee4c84c8b
 ---
 
 # News, Sep – Oct 2026
@@ -538,7 +538,7 @@ Ethiopia's Awash Bank, with Mastercard, and Oromia Bank, with Visa, launched eig
 
 **[Kacha, Mastercard Ink Deal To Expand Card Issuance In Ethiopia](https://www.thereporterethiopia.com/53689/)** — The Reporter Ethiopia, 27 October 2026
 
-Five-year deal; Kacha issues Mastercard cards and serves as issuing platform for banks, MFIs and fintechs.
+Kacha Digital Financial Service signed a five-year agreement with Mastercard. It is the first privately owned payment-instrument issuer licensed by Ethiopia's central bank. It will issue cards to its customers. It will also offer issuing to banks, microfinance institutions and fintechs. All of this is subject to regulatory approval.
 
 </div>
 
@@ -568,7 +568,7 @@ A Dentons alert explains Ethiopia's Regulation No. 592/2026, under which no busi
 
 **[Ethiopia Delivers Over 1 million Digital Business Registration, Licensing Services](https://www.ena.et/web/eng/w/eng_9819771)** — Ethiopian News Agency (ENA), 26 October 2026
 
-1,088,787 online services in three months; trade name clearance 579,785; Oromia leads with 441,550.
+The trade ministry reported 1,088,787 business registration and licensing services delivered online over three months. Trade name clearance led with 579,785, and new business registrations numbered 60,409. Oromia accounted for 441,550.
 
 </div>
 
@@ -582,7 +582,7 @@ A Dentons alert explains Ethiopia's Regulation No. 592/2026, under which no busi
 
 **[Ethiopia Prioritises National Geospatial Data Infrastructure in New Strategy](https://techafricanews.com/2026/10/27/ethiopia-national-geospatial-data-infrastructure-strategy/)** — TechAfrica News, 27 October 2026
 
-SSGI review ahead of next five-year plan; digital addressing to go nationwide; comsat study not yet undertaken.
+Ethiopia's Minister of Innovation and Technology told the Space Science and Geospatial Institute to build an integrated national geospatial data foundation and extend digital addressing, so far started in selected cities, nationwide. The work feeds the next five-year plan. A study of a national communications satellite has not yet been done.
 
 </div>
 
@@ -650,7 +650,7 @@ Ethiopian Shipping and Logistics launched a web and mobile self-service platform
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 

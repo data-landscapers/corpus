@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: MWI
 ledger_rows: 54
 not_held: 31
-record: c95b356fb234
+record: 77f92160814e
 ---
 
 # News, Sep – Oct 2026
@@ -70,7 +70,7 @@ A World Bank mission to the Digital Malawi Acceleration Project, from 31 August 
 
 **[Malawi pushes tough new laws to track, expose and jail online scammers | Nyasa Times](https://www.nyasatimes.com/malawi-pushes-tough-new-laws-to-track-expose-and-jail-online-scammers/)** — Nyasa Times, 27 October 2026
 
-Bill targeted for Feb-Apr 2027 budget session; tracing bank accounts behind fraud; AI-linked threats in scope.
+Malawi's Justice Minister, Charles Mhango, said the government hopes to table a cybercrime bill in the February-April 2027 budget session. Drafted with the ICT Ministry, it is meant to trace fraudulent bank and mobile-money accounts and to address AI-linked threats. He spoke at the National Cyber Drill and Cybersecurity Conference in Lilongwe.
 
 </div>
 
@@ -78,7 +78,7 @@ Bill targeted for Feb-Apr 2027 budget session; tracing bank accounts behind frau
 
 **[Minister Chipungu reveals hackers targeted Malawi’s land database | Nyasa Times](https://www.nyasatimes.com/minister-chipungu-reveals-hackers-targeted-malawis-land-database/)** — Nyasa Times, 27 October 2026
 
-Breach two weeks before disclosure; title deeds allegedly sold; scale undisclosed; five cyber laws up for review.
+Lands Minister Chimwemwe Chipungu said the ministry's Land Information Management System was hacked about two weeks earlier, exposing title deeds and other land data. He alleged the intruders sold title deeds while posing as ministry officials. The ICT Minister announced reviews of two existing acts and three bills: on cybersecurity, cyber crimes and e-evidence, and e-transactions and e-commerce.
 
 </div>
 

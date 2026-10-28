@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: RWA
 ledger_rows: 55
 not_held: 7
-record: 4cc668752b98
+record: a2513ae1be57
 ---
 
 # News, Sep – Oct 2026
@@ -652,7 +652,7 @@ The Rwanda Governance Board's 13th Rwanda Governance Scorecard, published on 22 
 
 **[Why Rwanda is Unhappy with Only 11% of Government Services Fully Digitised](https://www.ktpress.rw/2026/10/why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digitised/)** — KT Press, 27 October 2026
 
-Cabinet reviewed scorecard 26 Oct 2026; RS 600:2025 inventory cuts local services 235 to 60; 12 land services online.
+The latest Rwanda Governance Scorecard finds that 11% of government services are fully digitised from start to finish. Cabinet reviewed the scorecard on 26 October 2026 and directed institutions to take coordinated, measurable action. The report also cites a service inventory that cuts local services from 235 to 60, a consolidation of 22 licences and 12 land services online.
 
 </div>
 
@@ -770,7 +770,7 @@ Summarised under [Technical Capacity](#technical-capacity).
 
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 
@@ -822,7 +822,7 @@ The Internet Society's Rwanda Chapter ran a two-day training in English and Kiny
 
 **[Rwanda Marks Completion of Smart Education Project Phase I and Launches the DigiTruck Initiative](https://www.mineduc.gov.rw/news-detail/rwanda-marks-completion-of-smart-education-project-phase-i-and-launches-the-digitruck-initiative)** — Ministry of Education (Rwanda), 27 October 2026
 
-1,500 schools connected and two data centres built in Phase I; Huawei DigiTruck to train 5,000 across 30 districts.
+The Ministry of Education, with the Ministry of ICT and Innovation and Huawei, marked the end of Phase I of the Smart Education Project. Phase I connected 1,500 schools to high-speed internet and built two data centres. The DigiTruck, a mobile solar-powered classroom, was launched to give free digital skills training to more than 5,000 people across 30 districts over three years. The page carries no date of its own.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-28
 place: ZWE
 ledger_rows: 48
 not_held: 6
-record: 74349cbe81f2
+record: ca289fca5f76
 ---
 
 # News, Sep – Oct 2026
@@ -546,7 +546,7 @@ Afreximbank said Zimbabwe is processing US$5.8 million a month through the pan-A
 
 **[ZINARA rolls out multi-currency e-wallet platform](https://www.heraldonline.co.zw/zinara-rolls-out-multi-currency-e-wallet-platform/)** — The Herald (Zimbabwe), 24 October 2026
 
-Tolls, vehicle and ZBC licences, third-party insurance in one wallet; iOS, Android, web, USSD; KYC upload required.
+The road authority launched a self-service e-wallet that takes toll fees, vehicle licensing, radio licences and third-party insurance payments in several currencies. It runs on iOS, Android, web and USSD, and full access requires uploading an identity document.
 
 </div>
 
