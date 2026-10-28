@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-gnb-guinea-bissau-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "Digital Watch Observatory says Guinea-Bissau has applied blockchain to public administration through a tamper-evident government payroll platform.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "government payroll platform",
+   "class": "core"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

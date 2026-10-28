@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNB,core,finance,coverage,,,,,nothing held
-GNB,core,revenue,coverage,,,,,nothing held
-GNB,core,payroll,coverage,inuse,2024-05,GNB-001,,
+GNB,core,finance,coverage,,,,,nothing found
+GNB,core,revenue,coverage,,,,,nothing found
+GNB,core,payroll,coverage,inuse,2025,GNB-001;GNB-003,,
 GNB,core,renewed,coverage,live,2024-05,GNB-002,,
-GNB,core,architecture,coverage,,,,,nothing held
+GNB,core,architecture,coverage,,,,,nothing found
