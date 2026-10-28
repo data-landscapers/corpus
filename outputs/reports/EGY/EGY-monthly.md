@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: EGY
-ledger_rows: 103
-not_held: 41
-record: 2883d873b297
+ledger_rows: 108
+not_held: 40
+record: a2e7ab930df2
 ---
 
 # News, Sep – Oct 2026
@@ -296,6 +296,20 @@ Egypt's Ministry of Communications and Information Technology took part in the s
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">United Nations Convention against Cybercrime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«وزارة الاتصالات»: مصر تنفذ أكثر من 760 عملية للدفاع السيبراني خلال 2025](https://www.fintechgate.net/253502)** — بوابة التكنولوجيا المالية, 1 October 2026
+
+MCIT counts 760+ cyber-defence operations in 2025; EG-CERT, youth academy and NTRA awareness drive described.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Cairo Document for Trust and African Digital Integration</p>
 
 <div class="bulletin-item" markdown="1">
@@ -354,6 +368,8 @@ An Egyptian technology company has raised US$10 million for payment tools that a
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -586,6 +602,22 @@ Summarised under [Data Storage](#data-storage).
 
 </div>
 
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cyber-defence operations, ministry count</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[«وزارة الاتصالات»: مصر تنفذ أكثر من 760 عملية للدفاع السيبراني خلال 2025](https://www.fintechgate.net/253502)** — بوابة التكنولوجيا المالية, 1 October 2026
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -691,6 +723,20 @@ Egypt's Financial Regulatory Authority ordered licensed consumer-finance compani
 **[Ain Sokhna's new truck yard is already linking with Nafeza](https://enterpriseam.com/egypt/2026/09/28/ain-sokhnas-new-truck-yard-is-already-linking-with-nafeza/)** — Enterprise (EnterpriseAM Egypt), 28 September 2026
 
 A digital truck yard at Ain Sokhna port, under an EGP 1bn contract for up to 1,100 trucks a day, is already linked live to Nafeza, Egypt's foreign-trade single window, so trucks are admitted only for cargo shown as cleared.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Planning, finance and National Investment Bank electronic link</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«التخطيط» تعلن تنفيذ ربط إلكتروني متكامل مع «المالية» وبنك الاستثمار لأول مرة - الوطن](https://www.elwatannews.com/news/details/8384664)** — Al-Watan, 26 October 2026
+
+Planning minister to Senate: link with Finance and National Investment Bank live four months, to track public investment.
 
 </div>
 
@@ -1023,6 +1069,20 @@ Egypt's finance ministry has begun surveying road-freight firms at land ports in
 **[Agriculture ministry spokesman: digital system to register farmland holdings and protect farmers' rights](https://www.youm7.com/story/2026/9/23/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86/7556116)** — Youm7, 23 September 2026
 
 Egypt's agriculture ministry spokesman Khaled Gad said on 23 September 2026 that a digital register of farm holdings, built over several years, links each holding to the crop actually grown across about 4.4 million farmer cards. He said this curbs fictitious holdings and false crop declarations used to obtain subsidised fertiliser.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tax Authority e-invoice and e-receipt case-selection platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s Tax Authority Taps eTax to Operate Digital Platform for Electronic Invoice and Receipt Data](https://www.technotime.net/17974)** — Techno Time, 24 October 2026
+
+eTax to build data warehouse and analytics on e-invoice and e-receipt data to flag audit cases; hosting included.
 
 </div>
 
@@ -1381,6 +1441,20 @@ A draft resolution on the implications of artificial intelligence for human righ
 **[مصر تقود مبادرة لاعتماد أول قرار بمجلس حقوق الإنسان حول الذكاء الاصطناعي](https://www.youm7.com/story/2026/10/6/%D9%85%D8%B5%D8%B1-%D8%AA%D9%82%D9%88%D8%AF-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A3%D9%88%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%AD%D9%88%D9%84/7570270)** — Youm7, 6 October 2026
 
 Egypt, with Bangladesh and a cross-regional group, led the UN Human Rights Council to adopt by consensus its first resolution on the implications of AI for human rights. It stresses the right to development, decent work, linguistic diversity and technology transfer to developing countries, and mandates a Council meeting and a report on AI, human rights and the capacity gap. The adoption date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
 
 </div>
 
