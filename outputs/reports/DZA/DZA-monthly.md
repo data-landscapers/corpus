@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: DZA
-ledger_rows: 50
+ledger_rows: 51
 not_held: 5
-record: bce8f3474ad8
+record: 7190157f681c
 ---
 
 # News, Sep – Oct 2026
@@ -763,6 +763,20 @@ Algeria's national pension fund, the CNR, launched "Takaoudi All in One", a sing
 **[Solidarité nationale : lancement d'une plateforme numérique de suivi des opérations d'investissement](https://algerie54.dz/solidarite-nationale-lancement-d-une-plateforme-numerique-de-suivi-des-operations-d-investissement)** — Algérie54, 20 October 2026
 
 Algeria's Ministry of National Solidarity launched a digital platform on 20 October 2026 that tracks the progress and spending of the sector's investment projects nationwide through a dashboard for the central administration. For 2027 it plans an AI-built national map of persons with special needs and an AI system to detect fraud in solidarity schemes.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tawassol consumer reporting portal (internal trade ministry)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Plateforme Tawassol : comment signaler un commerçant qui n’affiche pas ses prix ou dépasse les plafonds ?](https://www.algerie360.com/plateforme-tawassol-signalement-commercant-prix/)** — Algérie360, 26 October 2026
+
+Commerce ministry portal for price, cap, hygiene and stock-out complaints; mobile app to follow.
 
 </div>
 
