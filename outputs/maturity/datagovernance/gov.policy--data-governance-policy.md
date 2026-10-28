@@ -40,7 +40,7 @@ Algeria set up a national data governance framework by decree in December 2025 a
 
 ### Nigeria: 4 Operating
 
-Nigeria launched a national data policy in 2023 and set up a working group for its data strategy; no source found reports rules issued under them.
+Nigeria launched a national data policy in 2023 and set up a working group for its data strategy; no source reports rules issued under them.
 
 - NITDA's Director-General inaugurated a Technical Working Group on 19 July 2023 for the implementation of the National Data Strategy, to recommend how regulatory agencies implement it ([source, 2023-07-19](https://leadership.ng/nitda-unveils-national-data-strategy-to-drive-nigerias-digital-economy/)).
 - The Permanent Secretary of the Federal Ministry of Communications and Digital Economy said on 19 July 2023 that the government had officially launched the National Data Strategy, built on seven pillars; the article also says it was launched in March of the previous year, so the event date used is the article's ([source, 2023-07-19](https://leadership.ng/nitda-unveils-national-data-strategy-to-drive-nigerias-digital-economy/)).
@@ -68,7 +68,7 @@ Uganda launched a national data strategy in October 2026 with a steering committ
 
 ### Cote d'Ivoire: 3 Established
 
-Côte d'Ivoire has a national data governance strategy to 2030, launched with the Prime Minister's foreword; no body named to carry it out has been found.
+Côte d'Ivoire has a national data governance strategy to 2030, launched with the Prime Minister's foreword; who carries it out is not known.
 
 - The Prime Minister's foreword to the National Data Governance Strategy 2024-2030 (SNGD 2030) speaks of the official launch of the strategy by the government, after a participatory process begun in April 2024 with over 200 experts; the document gives no launch date, so the year is its published date, 2024 ([source, 2024](https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf)).
 
@@ -105,7 +105,7 @@ A July 2026 report says Senegal has adopted a National Data Strategy; no source 
 
 ### Sierra Leone: 3 Established
 
-Sierra Leone published its first National Data Strategy in January 2023 and was updating it in 2025; no body to carry it out has been found.
+Sierra Leone published its first National Data Strategy in January 2023 and was updating it in 2025; who carries it out is not known.
 
 - The report says the Ministry's training of the DSTI technical team is part of its efforts to implement the National Data Strategy, which it describes as treating data as a public asset; no adoption date is given ([source, 2026-08-21](https://techreviewafrica.com/news/6855/sierra-leone-trains-government-technical-team-on-ai-and-data-protection-by-design)).
 - The Ministry of Information and Communications published the National Data Strategy, the country's first, dated January 2023 and carrying the Minister's foreword and the Permanent Secretary's preface; the document gives no end date ([source, 2023-01](https://mocti.gov.sl/wp-content/uploads/2024/12/Sierra-Leone-National-Data-Strategy_2023_v1.pdf)).
