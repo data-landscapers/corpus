@@ -200,7 +200,7 @@ A sea cable has joined Somalia to Djibouti and Kenya since 2021; no source found
 
 ### Tanzania: 4 Operating
 
-A fibre link from Dar es Salaam to Mombasa has been in service since July 2025, with Kenyan companies using it; no source found reports volumes.
+A fibre link from Dar es Salaam to Mombasa has been in service since July 2025, with Kenyan companies using it; no source reports volumes.
 
 - Connecting Africa reports that in July 2025 TTCL and Kenya's ICT Authority launched and implemented a terrestrial fibre link connecting Dar es Salaam in Tanzania to Mombasa in Kenya ([source, 2025-07](https://www.connectingafrica.com/connectivity/east-african-countries-to-launch-regional-satellite)).
 - Connecting Africa reports that in July 2025 TTCL and Kenya's ICT Authority launched and implemented a terrestrial fibre link connecting Dar es Salaam in Tanzania to Mombasa in Kenya ([source, 2025-07](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal)).

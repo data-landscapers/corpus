@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-caf-vers-une-diversification-de-la-connectivite-en-centrafrique",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "Sunvi Media says the 935 km Central African Backbone fibre provides the link with neighbouring countries and that vandalism in March 2026 partly paralysed national telecoms services.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Central African Backbone",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Central African Backbone",
+   "country_label": "Central African Republic",
+   "class": "shared",
+   "platform": "fibre",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The eastward link with South Sudan is under study, with route and terms undefined, so not an agreement."
+}
