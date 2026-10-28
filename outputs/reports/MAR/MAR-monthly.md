@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: MAR
-ledger_rows: 36
+ledger_rows: 40
 not_held: 14
-record: fbbe697531a5
+record: 9463bca3dff9
 ---
 
 # News, Sep – Oct 2026
@@ -61,6 +61,20 @@ King Mohammed VI swore in Ahmed Rahhou on 16 October 2026 as Minister of Artific
 **[SM le Roi préside la cérémonie de nomination des membres du nouveau gouvernement](https://www.maroc.ma/fr/actualites/sm-le-roi-preside-la-ceremonie-de-nomination-des-membres-du-nouveau-gouvernement)** — Maroc.ma (Government of Morocco portal), 16 October 2026
 
 King Mohammed VI presided over the swearing-in of Morocco's new government at the Royal Palace in Rabat on 16 October 2026, according to the government portal. Ahmed Rahhou heads the ministry covering artificial intelligence and digital affairs, with Aicha Guellaa as delegated minister for administration reform.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cloud First policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le PLF 2027 veut faire du cloud le choix par défaut des nouveaux projets numériques de l’État — L’Hybride](https://lhybride.ma/briefs/plf-2027-cloud-first-ministere-ia/)** — L'Hybride, 25 October 2026
+
+Full brief: Cloud First circular, 50 MW Jazari-Root data centre, MAD 1.08bn 2027 investment credits for AI ministry.
 
 </div>
 
@@ -246,6 +260,8 @@ Morocco's Bulletin officiel of 1 October 2026 published decrees approving two Wo
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Data Storage
@@ -273,6 +289,44 @@ Morocco's digital transition minister, Amal El Fallah Seghrouchni, presented the
 **[FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco](https://www.einpresswire.com/article/947923731/fivenines-group-partners-with-nexus-core-systems-to-develop-20mw-data-centre-in-morocco)** — EIN Presswire (FiveNines Group announcement), 7 October 2026
 
 The UK firm FiveNines Group was appointed to lead design management and procurement strategy for a 20MW AI data centre that Nexus Core Systems plans near Casablanca, Morocco, using Nvidia's Vera Rubin reference architecture. The announcement puts the wider Nexus AI Factory platform's target at 180MW on renewable power. No cost, permit or construction start is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sovereign data centre, Rabat</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Le PLF 2027 veut faire du cloud le choix par défaut des nouveaux projets numériques de l’État — L’Hybride](https://lhybride.ma/briefs/plf-2027-cloud-first-ministere-ia/)** — L'Hybride, 25 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PLF 2027 - IA : Les données stratégiques de l’État auront leur propre datacenter](https://lopinion.ma/fr/actu-maroc/plf-2027---ia--les-donnees-strategiques-de-letat-auront-leur-propre-datacenter_a29710?articleId=1b958255-b43c-4b5e-ae46-c28f85519113)** — L'Opinion, 26 October 2026
+
+MAD 1.34bn for digital sovereignty and AI: government cloud, sovereign Rabat data centre, AI in national languages.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cyber Security Index score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCSI :: Morocco](https://ncsi.ega.ee/country/ma/)** — e-Governance Academy, 11 September 2026
+
+NCSI, September 2026: Morocco full marks on critical infrastructure, data protection; 2/9 on crisis management.
 
 </div>
 
@@ -421,6 +475,20 @@ The Moroccan digital transition ministry's own communiqué on the relaunched Ida
 **[Lancement de la nouvelle version du portail national Idarati, pour une administration plus proche et plus intelligente](https://fr.assahafa.com/lancement-de-la-nouvelle-version-du-portail-national-idarati-pour-une-administration-plus-proche-et-plus-intelligente/)** — Assahafa, 18 September 2026
 
 Morocco's digital transition ministry launched a new version of the Idarati portal, giving access to 874 online services organised around user journeys and 2,533 published administrative acts, with a feedback function, an accessibility redesign and a marketplace of AI solutions. The ministry presents it as groundwork for Idarati X.0.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foreign-exchange office E-Declarations platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Office des changes: E-Déclarations platform](https://www.lesmre.com/en/actualites/foreign-assets-currency-office-digitizes-compliance-checks)** — LesMRE, 24 October 2026
+
+Open international tender; assets held abroad and company statistical surveys; five phases; 2025-2029 digital strategy.
 
 </div>
 
