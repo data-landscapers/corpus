@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-26-uga-kacita-ucc-agree-to-form-committee-on-unlicensed-internet-resellers",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:UGX:2000:1",
+   "fact": "UCC says licensed operators charge about Shs2,000 per gigabyte of internet data, against about Shs1,000 from unlicensed Wi-Fi resellers.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "licensed internet operators",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
