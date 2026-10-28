@@ -1,16 +1,17 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "2",
-   "part": "member",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001",
-   "gaps": "No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "3",
+      "part": "active",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-004;CMR-006",
+      "gaps": "No source found says a thing the country agreed has been put into effect.",
+      "note": "ARTAC's regulators fixed its headquarters in Cameroon in October 2026 and gave Cameroon's regulator the appointment of the executive secretary, a seat won. Nothing agreed is reported put into effect.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

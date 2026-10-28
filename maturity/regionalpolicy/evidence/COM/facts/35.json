@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-15-com-presentation-officielle-du-portail-national-de-la-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "ANADEN says the Comoros is part of the Africa Cybersecurity Authority advisory body (ANCA) within the Smart Africa Alliance.",
+   "as_of": "2024-05-15",
+   "date_precision": "day",
+   "system": "ANCA, Smart Africa",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

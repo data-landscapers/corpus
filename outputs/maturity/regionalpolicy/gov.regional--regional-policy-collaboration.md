@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 |---|---|
 | 5 Leading | 5 |
 | 4 Operating | 13 |
-| 3 Established | 23 |
-| 2 Nascent | 12 |
+| 3 Established | 24 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -68,14 +68,14 @@ Uganda chaired an East African e-commerce meeting in 2026 and won a seat on the 
 
 ### Algeria: 4 Operating
 
-Algeria has a joint communications commission with Tunisia, which met for the fourth time in June 2026; no source found reports figures of use or results.
+Algeria has a joint communications commission with Tunisia, which met for the fourth time in June 2026; no source reports figures of use or results.
 
 - The Algerian-Tunisian Joint Technical Commission on communications and ICT cooperation held its fourth session in Tunisia on 9 June 2026: a joint body set up under the two governments' cooperation and meeting ([source, 2026-06-09](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/)).
 - At the fourth session of the Algerian-Tunisian Joint Technical Commission on communications and ICT cooperation, held in Tunisia and led by Algeria's minister, the two governments agreed several joint projects on connectivity, postal and telecom modernisation and digital innovation; no event date is given, so the published date 2026-06-09 is used ([source, 2026-06-09](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/)).
 
 ### Benin: 4 Operating
 
-Benin signed roaming agreements with Senegal and Togo, and free roaming between the three began in April 2026; no source found reports figures of its use.
+Benin signed roaming agreements with Senegal and Togo, and free roaming between the three began in April 2026; no source reports figures of its use.
 
 - ARCEP Bénin, ARCEP Togo and ARTP Senegal officially launched free roaming between the three countries in Lomé on 24 April 2026; data in roaming fell from 10,000 to 2 FCFA per MB and call receipt is free for the first 30 days ([source, 2026-04-24](https://arcep.bj/lancement-officiel-du-free-roaming-entre-le-benin-le-senegal-et-le-togo/)).
 - The free roaming arrangement between Senegal, Togo and Benin took effect on 24 April 2026 in Lomé, with free incoming calls for up to 30 consecutive days ([source, 2026-04-24](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative)).
@@ -98,7 +98,7 @@ Cote d'Ivoire's free roaming with Ghana, launched in 2023, cut charges for its s
 
 ### Gambia: 4 Operating
 
-The Gambia's free roaming with Senegal began in December 2025 and a joint steering committee met in 2026; no source found reports figures of their use.
+The Gambia's free roaming with Senegal began in December 2025 and a joint steering committee met in 2026; no source reports figures of their use.
 
 - The first Steering Committee under the Senegal-Gambia MoU met in Banjul, opened by The Gambia's communications minister, to set a roadmap; the meeting date is not given, so the published date 2026-08-24 is used ([source, 2026-08-24](https://gambiaj.com/economy/policy/gambia-senegal-move-to-implement-digital-cooperation-agreement/)).
 - Senegal-Gambia free roaming was introduced in December 2025: travellers receive calls free and make calls at local rates in the visited country for up to 30 days without changing SIM ([source, 2025-12](https://techreviewafrica.com/news/6078/senegal-and-the-gambia-enhance-digital-integration-through-regulatory-cooperation-agreement)).
@@ -106,7 +106,7 @@ The Gambia's free roaming with Senegal began in December 2025 and a joint steeri
 
 ### Ghana: 4 Operating
 
-Ghana's free roaming with Benin and Togo started in 2024, and it joined a cross-border digital identity pilot; no source found reports figures of their use.
+Ghana's free roaming with Benin and Togo started in 2024, and it joined a cross-border digital identity pilot; no source reports figures of their use.
 
 - Smart Africa's Director General says a cross-border digital identity pilot between Rwanda, Ghana and Benin has already been launched and shown to work; no date of launch is given, so the published date is used ([source, 2026-08-11](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty)).
 - A free roaming agreement involving Ghana, Togo and Benin was launched in October 2024, per the article ([source, 2024-10](https://www.connectingafrica.com/connectivity/ghana-burkina-faso-tackle-cross-border-signal-interference)).
@@ -121,7 +121,7 @@ Liberia's free roaming with Sierra Leone began in August 2025; no source found r
 
 ### Mauritius: 4 Operating
 
-Mauritius hosted southern Africa's first regional cyber drill in 2018 and settles COMESA payments as at July 2026; no source found reports use and joint decisions.
+Mauritius hosted southern Africa's first regional cyber drill in 2018 and settles COMESA payments as at July 2026; no source reports use and joint decisions.
 
 - Bank of Mauritius Governor says the Bank acts as settlement bank for COMESA's REPSS, which facilitates cross-border payments among member states ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
 
@@ -156,7 +156,7 @@ Togo's free roaming with Senegal and Benin began in April 2026; no source found 
 
 ### Tunisia: 4 Operating
 
-Tunisia has a joint communications commission with Algeria, which met for the fourth time in June 2026; no source found reports figures of use or results.
+Tunisia has a joint communications commission with Algeria, which met for the fourth time in June 2026; no source reports figures of use or results.
 
 - The Algerian-Tunisian Joint Technical Commission on communications and ICT cooperation held its fourth session in Tunisia on 9 June 2026: a joint body set up under the two governments' cooperation and meeting ([source, 2026-06-09](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/)).
 - Tunisia's National Frequency Agency hosted the Third African Preparatory Meeting for WRC-27 (APM27-3) in Tunis, coordinated by the African Telecommunications Union, with African governments and regulators attending; the document is dated 2026-09-17 and says the four-day meeting began that September ([source, 2026-09](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/)).
@@ -174,6 +174,13 @@ Burkina Faso signed a convention with Mali and Niger in 2026 creating a council 
 
 - ARCEP Burkina Faso, Mali's AMRTP and ARCEP Niger signed a cooperation convention creating the Conseil des régulateurs du Sahel; the document gives no signing date, so the date is its publication date, 2026-09-26 ([source, 2026-09-26](https://lefaso.net/spip.php?article149528)).
 - Burkina Faso's regulator ARCEP hosted the 4th Working Groups Meeting of WATRA, the West Africa Telecommunications Regulators Assembly (16 member states), in Ouagadougou, concluding on 2026-04-12 (the article of 13 April says 'yesterday'), where the groups finalised reports on 5G, cable resilience, cybersecurity, consumer protection and NGSO satellites ([source, 2026-04-12](https://guardian.ng/news/watra-rallies-africa-for-regions-216b-digital-economy/)).
+
+### Cameroon: 3 Established
+
+Cameroon was chosen in October 2026 to host the Central African regulators' headquarters; nothing agreed is known to be in effect.
+
+- Central African telecoms regulators fixed ARTAC's headquarters in Cameroon and gave Cameroon's regulator the right to appoint the executive secretary, at the 20-21 October 2026 Libreville session, per Tech Review Africa ([source, 2026-10-21](https://techreviewafrica.com/news/7974/cameroon-to-host-artac-headquarters-as-central-african-regulators-deepen-digital-coo)).
+- Central African telecoms regulators fixed ARTAC's headquarters in Cameroon and gave Cameroon's regulator the right to appoint the executive secretary, at the 20-21 October 2026 Libreville session, per ART Cameroon ([source, 2026-10-21](https://www.art.cm/fr/article/leadership-num%C3%A9rique-le-cameroun-choisi-pour-abriter-le-si%C3%A8ge-de-l%E2%80%99artac)).
 
 ### Cape Verde: 3 Established
 
@@ -314,12 +321,6 @@ Zimbabwe's minister chairs Smart Africa's council of ICT ministers, as of 2026; 
 
 - Spiked Media reports Zimbabwe's ICT ministry hosted in Harare a three-day workshop on data policy harmonisation for Southern African governments, co-organised by Smart Africa Alliance, UNESCO and the World Bank; the article gives no day for the event and is dated 2026-08-16 ([source, 2026-08](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/)).
 - Spiked Media reports Zimbabwe's ICT minister currently chairs Smart Africa's Council of ICT Ministers; no date for taking the chair is given, so the article's publication date is used ([source, 2026-08-16](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/)).
-
-### Cameroon: 2 Nascent
-
-Cameroon's regulator took part in the Central African regulators' session in February 2026; no agreement, meeting hosted or seat won is known.
-
-- A delegation of Cameroon's Telecommunications Regulatory Board, led by its Director General, took part in the 10th Ordinary Session of ARTAC, the Conference of Central African Telecommunications Regulators, held in Kinshasa, which adopted a resolution on free roaming across Central Africa by 30 June 2026; the document names no signature by Cameroon ([source, 2026-02-24](https://techreviewafrica.com/news/4133)).
 
 ### Central African Republic: 2 Nascent
 

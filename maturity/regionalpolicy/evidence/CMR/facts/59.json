@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-cmr-artac-le-cameroun-simpose-comme-capitale-numerique-de-lafrique-central",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "At the 4th extraordinary session of the Conference of Regulators in Libreville on 20-21 October 2026, ARTAC's seat was fixed in Cameroon and Cameroon's regulator ART was charged with designating the Executive Secretary, per Journal du Cameroun.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "ARTAC",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARTAC",
+   "country_label": "Cameroon",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "regional regulators' assembly",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

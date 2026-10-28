@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-27-cameroon-to-host-artac-headquarters-as-central-african-regulators-deep",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Cameroon's telecoms regulator took part in the 4th extraordinary session of ARTAC, the Central African regulators' assembly, in Libreville on 20-21 October 2026, per Tech Review Africa.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "ARTAC",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Central African telecoms regulators fixed ARTAC's headquarters in Cameroon and gave Cameroon's regulator the right to appoint the executive secretary, at the 20-21 October 2026 Libreville session, per Tech Review Africa.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "ARTAC",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

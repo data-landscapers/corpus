@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,cooperation,part,coverage,member,2026-08-31,CMR-001;CMR-002,,
-CMR,cooperation,effect,coverage,,,,,nothing held
+CMR,cooperation,part,coverage,active,2026-10-21,CMR-004;CMR-006;CMR-007,CMR-003=member;CMR-005=member;CMR-002=member;CMR-001=member,
+CMR,cooperation,effect,coverage,,,,,nothing found

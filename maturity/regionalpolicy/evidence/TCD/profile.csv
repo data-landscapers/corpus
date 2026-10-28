@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TCD,cooperation,part,coverage,active,2026-10-15,TCD-001;TCD-002;TCD-003;TCD-006,TCD-007=member;TCD-005=member;TCD-004=member,
-TCD,cooperation,effect,coverage,,,,,nothing held
+TCD,cooperation,part,coverage,active,2026-10-15,TCD-001;TCD-002;TCD-003;TCD-006,TCD-008=member;TCD-007=member;TCD-005=member;TCD-004=member,
+TCD,cooperation,effect,coverage,,,,,nothing found
