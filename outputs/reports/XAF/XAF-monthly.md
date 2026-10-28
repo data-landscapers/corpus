@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: XAF
-ledger_rows: 123
+ledger_rows: 125
 not_held: 3
-record: 1cca3b839b2d
+record: 46ad2583bbd3
 ---
 
 # News, Sep – Oct 2026
@@ -1914,6 +1914,20 @@ The African Telecommunications Union opened applications for the fifth Africa In
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Certification and benchmarking framework for timbuktoo incubators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNDP and EBN partner to strengthen quality standards for Africa’s incubators](https://www.undp.org/africa/press-releases/undp-and-ebn-partner-strengthen-quality-standards-africas-incubators)** — United Nations Development Programme, 27 October 2026
+
+EU|BIC certification model adapted for timbuktoo incubators; benchmarking data to feed policy dialogue.
+
+</div>
+
+</div>
+
 ### China activities
 
 <div class="monthly-story" markdown="1">
@@ -2429,6 +2443,20 @@ Cape Town's 22 On Sloane launched KUMii, an AI platform matching startups and sm
 **[Africa's leading venture capital fund managers convene at Oxford to strengthen investment expertise and advance venture investing across Africa](https://www.eib.org/en/press/all/2026-321-africa-s-leading-venture-capital-fund-managers-convene-at-oxford-to-strengthen-investment-expertise-and-advance-venture-investing-across-africa)** — European Investment Bank, 28 September 2026
 
 The European Investment Bank and the European Commission launched Boost Ventures in Africa, backed by a €129 million Commission guarantee covering all fund investments and €4.5 million of initial EFSD+ technical assistance. It was announced at the fifth Africa Venture Finance Programme in Oxford, attended by more than 40 African and Africa-focused venture fund managers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gates Foundation grant to Cenfri (digital merchant payments measurement)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cenfri NPC Grant](https://www.gatesfoundation.org/about/committed-grants/2026/10/inv-087035)** — Gates Foundation, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+US$1,285,123 over 36 months, Oct 2026: arbitrage-detection tool for central banks measuring merchant payments.
 
 </div>
 
