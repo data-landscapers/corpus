@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,power,supply,coverage,secured,2025-04,ETH-002,,
+ETH,power,supply,coverage,secured,2025-12-23,ETH-002;ETH-004,,
 ETH,power,pue,coverage,low,2025-04,ETH-001;ETH-003,,
-ETH,power,water,coverage,,,,,nothing held
+ETH,power,water,coverage,,,,,nothing found

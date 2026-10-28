@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-05-zaf-teraco-releases-fourth-annual-sustainability-report",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "pue",
+   "value": "low",
+   "fact": "Teraco states it achieved an average annual Power Usage Effectiveness (PUE) of 1.47 in 2024 across its data centres.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "power",
+   "aspect": "water",
+   "value": "published",
+   "fact": "Teraco states its data centres used just 0.05 litres of water per kWh in 2024 and that it uses zero-water cooling solutions.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco data centres",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

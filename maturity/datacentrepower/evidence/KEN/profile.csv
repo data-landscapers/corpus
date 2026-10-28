@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,power,supply,coverage,secured,2026-04-13,KEN-003;KEN-004,,
+KEN,power,supply,coverage,reserved,2026-02-12,KEN-006,KEN-007=none;KEN-004=secured;KEN-003=secured,
 KEN,power,pue,coverage,low,2026-09-28,KEN-001;KEN-005,,
-KEN,power,water,coverage,published,2022-11-30,KEN-002,,nothing dated since 2023-10-23
+KEN,power,water,coverage,published,2022-11-30,KEN-002,,nothing dated since 2023-10-28

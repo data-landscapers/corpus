@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "power",
-      "stage": "2",
-      "supply": "secured",
+      "stage": "4",
+      "supply": "reserved",
       "pue": "low",
       "water": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-004",
-      "gaps": "No source found says power is set aside for data centres by a signed contract, a plant built for them or a tariff or zone in force.",
-      "note": "The Konza National Data Centre has dual independent feeds from Kenya Power, a secured supply, and Konza and iXAfrica state PUEs of 1.45 and 1.25 (2026); nothing shows power set aside for data centres, so stage 2.",
-      "as_at": "2026-10-27"
+      "stage_sources": "KEN-006;KEN-001",
+      "gaps": "No source found from the past three years says a data centre in service publishes its water use or cools without water.",
+      "note": "KenGen says the Olkaria green energy park, pre-cleared by EPRA, lets data centres take power direct from the generator (February 2026), which sets power aside for them; with Konza's dual feeds and iXAfrica's PUE of 1.25, stage 4. The only water statement is from 2022, outside the three years.",
+      "as_at": "2026-10-28"
     }
   ]
 }

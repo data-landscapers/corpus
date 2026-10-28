@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-12-ken-kengen-egm-green-energy-park-opens-direct-power-for-tech-ventures",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "reserved",
+   "fact": "KenGen's CEO said on 2026-02-12 that, with EPRA pre-clearance, the Olkaria green energy park now has provisions for data centres to establish operations and receive power directly from the generator.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "Olkaria green energy park direct supply",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COG,power,supply,coverage,reserved,2026-09-22,COG-001,,
-COG,power,pue,coverage,,,,,nothing held
-COG,power,water,coverage,,,,,nothing held
+COG,power,supply,coverage,reserved,2026-09-22,COG-001,COG-002=none,
+COG,power,pue,coverage,,,,,nothing found
+COG,power,water,coverage,,,,,nothing found

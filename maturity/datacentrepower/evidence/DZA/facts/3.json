@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-23-dza-le-mohammadia-datacenter-obtient-la-certification-tier-iii-design-une",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mohammadia Data Center",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Haut-commissariat a la numerisation",
+   "tiers": "Tier III Design"
+  }
+ ],
+ "note": "Dual N+1 power on the Sonelgaz grid is stated, but not that the centre is in service or draws two grid feeds or a dedicated line; no PUE or water figure."
+}

@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,power,pue,low,"Atlas Cloud Services states a PUE of 1.5 for its Benguerir data center, cooled by free cooling.",2024-10-17,day,Atlas Cloud Services Benguerir Data Center,datacentre,2024-10-17-mar-atlas-cloud-services-world-class-data-center-in-morocco,https://atlascloudservices.com/en/our-data-center/

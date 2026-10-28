@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-24-cog-congo-le-nouveau-datacenter-national-livre-d-ici-la-fin-de-l-annee-202",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Congo national data centre (Brazzaville, Bacongo)",
+   "country_label": "Congo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "State of Congo; contractor Sumec",
+   "tiers": "Tier III-equivalent design target, not in service"
+  }
+ ],
+ "note": "Data centre not yet in service; generators alone and a studied grid-solar supply set nothing."
+}

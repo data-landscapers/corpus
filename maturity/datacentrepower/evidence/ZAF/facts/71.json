@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-27-zaf-teraco-unveils-r2bn-solar-backup-plan-for-sa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Teraco 120MW Free State solar plant",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "The solar plant is planned and not yet built; rooftop solar and standby are not a secured supply; no PUE or water figure."
+}

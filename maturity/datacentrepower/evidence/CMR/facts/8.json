@@ -1,0 +1,27 @@
+{
+ "slug": "2024-01-01-cmr-ocp-ready-data-center-site-assessment-st-digital-douala",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "secured",
+   "fact": "ST Digital's OCP Ready self-assessment lists Douala01 with 2 utility feeds, 1 power transformer and 3 backup gensets.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ST Digital Douala01",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "power",
+   "aspect": "pue",
+   "value": "low",
+   "fact": "The operator's OCP Ready self-assessment gives Douala01 a design PUE and a current annualized PUE of under 1.5.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ST Digital Douala01",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "Water: the form marks WUE monitoring 'not applicable (e.g. zero water requirement)', a form option and not a statement that cooling uses no water."
+}

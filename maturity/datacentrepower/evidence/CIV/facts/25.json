@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-03-civ-powering-the-civ1-data-centre-in-cote-d-ivoire",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "secured",
+   "fact": "Raxio Group's CTO says the CIV1 data centre in Abidjan, inaugurated September 2024, is fed by two independent (N+N) 15kV feeders sourced directly from the CIE substation, each able to carry 100% of the load.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "CIV1 data centre (Raxio)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIV1 data centre",
+   "country_label": "Cote d'Ivoire",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "No PUE figure or water use is stated; power set aside for data centres generally is not stated."
+}

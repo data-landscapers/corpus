@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "secured",
+   "fact": "Raxio CTO Rob Saunders says Raxio invests in medium-voltage lines direct from the substation to its facility in each market and always uses two independently sufficient power lines, plus diesel generators.",
+   "as_of": "2025-12-23",
+   "date_precision": "day",
+   "system": "Raxio data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

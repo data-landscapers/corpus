@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-24-ken-can-kenya-s-ai-ambitions-coexist-with-naivasha-s-water-needs",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "none",
+   "fact": "Al Jazeera reports that plans for the Microsoft-G42 data centre at Olkaria stalled in May 2026 over concerns about available power capacity.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Microsoft-G42 Olkaria data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "No PUE or water figure stated; project water use undisclosed."
+}

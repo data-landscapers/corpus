@@ -1,6 +1,7 @@
 iso3,source_slug,read,merged_on
 AGO,2025-07-01-xalam-d4d-data-centre-market-brief-angola-2025,,2026-10-19
 AGO,2025-10-16-mitrelli-hydro-link-angola-drc-power-line,,2026-10-19
+AGO,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 AGO,2026-01-01-xalam-angola-data-center-market-briefing,,2026-10-19
 BDI,2025-08-22-burundi-eco-poste-de-rubirizi,,2026-10-19
 BDI,2025-09-24-pacte-national-pour-energie-compact-republique-du-burundi,,2026-10-19
@@ -17,33 +18,43 @@ BFA,2026-08-07-aib-bobo2-centrale-thermique-264mw,,2026-10-19
 BWA,2026-01-01-xalam-botswana-data-center-market-briefing,,2026-10-19
 BWA,2026-09-07-botswana-bera-bpc-tariff-consultation-paper,,2026-10-19
 CAF,2025-02-10-renewables-boost-sustainable-development-car-gambia,,2026-10-19
+CIV,2025-01-03-civ-powering-the-civ1-data-centre-in-cote-d-ivoire,,2026-10-28
+CIV,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 CIV,2026-01-01-xalam-cote-divoire-data-center-market-briefing,,2026-10-19
 CIV,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
 CIV,2026-06-24-forum-intech-sante-ansut-zones-rurales-fratmat,,2026-10-19
 CIV,2026-09-17-techtrends-africa-green-data-centre-solar-server-farms,,2026-10-19
+CMR,2024-01-01-cmr-ocp-ready-data-center-site-assessment-st-digital-douala,,2026-10-28
 CMR,2026-01-01-cameroon-data-center-market-briefing-xalam,,2026-10-19
 CMR,2026-08-05-minee-kribi-centrale-gaz-maintenance-perturbations,,2026-10-19
 COD,2024-08-15-cod-actualite-oadc-texaf-digital-kinshasa,,2026-10-19
 COD,2025-03-30-are-rapport-annuel-2024,,2026-10-19
 COD,2025-10-16-mitrelli-hydro-link-angola-drc-power-line,,2026-10-19
+COD,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 COD,2026-01-01-xalam-drc-data-center-market-briefing,,2026-10-19
 COG,2024-05-07-world-bank-pasel-project-appraisal-document-congo,,2026-10-19
 COG,2026-01-01-xalam-congo-republic-data-center-market-briefing,,2026-10-19
 COG,2026-08-13-congo-telecom-ministerial-review-connectivity,,2026-10-25
 COG,2026-09-24-cog-aci-data-center-82-pourcent,,2026-10-25
+COG,2026-09-24-cog-congo-le-nouveau-datacenter-national-livre-d-ici-la-fin-de-l-annee-202,,2026-10-28
 COG,2026-09-24-cog-vox-vpm-inspecte-data-center-solaire,,2026-10-25
 COG,2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche,,2026-10-23
+COG,2026-10-27-cog-crise-du-carburant-les-reseaux-telecoms-a-bout-de-souffle,,2026-10-28
 COM,2025-08-27-undp-iawasur-comoros-water,,2026-10-19
 COM,2026-03-09-com-worldbank-wash-mpa-project-appraisal-arsee-feedback,,2026-10-19
 COM,2026-03-24-worldbank-comoros-wash-mpa-project-appraisal,,2026-10-19
 DJI,2026-09-13-ifc-djibouti-country-private-sector-diagnostic,,2026-10-19
+DZA,2026-02-23-dza-le-mohammadia-datacenter-obtient-la-certification-tier-iii-design-une,,2026-10-28
 DZA,2026-07-07-dza-jeune-independant-centre-national-services-numeriques,,2026-10-19
+EGY,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 EGY,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
 EGY,2026-10-07-egy-enterpriseam-data-center-equity-consortium,,2026-10-19
 EGY,2026-10-14-egy-etdatacenters-telecom-egypt-subsea-terrestrial-strategy,,2026-10-19
 EGY,2026-10-20-egy-egypts-play-to-become-an-exporter-of-computing-power,,2026-10-23
 ETH,2021-05-22-samena-ethio-telecom-huawei-tier-iii-modular-data-center-gola-sefer,,2026-10-19
 ETH,2025-04-01-eth-raxio-et1-data-sheet-technical-specifications,,2026-10-19
+ETH,2025-11-01-eth-phoenix-group-brings-30mw-bitcoin-mining-hub-in-ethiopia-online,,2026-10-28
+ETH,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 ETH,2026-01-01-xalam-ethiopia-data-center-market-briefing,,2026-10-19
 ETH,2026-01-12 Bitdeer completes 40 MW Oromia bitcoin-mining site in Ethiopia,,2026-10-19
 ETH,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
@@ -56,6 +67,7 @@ GHA,2026-03-13-purc-gazetted-electricity-tariffs-effective-1-april-2026,,2026-10
 GHA,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
 GHA,2026-10-16-myjoyonline-bold-ambitions-fragile-foundations-ghana-ai-data-centre-risks,,2026-10-19
 GHA,2026-10-22-gha-phase-one-of-ghana-s-first-data-centre-to-be-ready-in-24-months-sam-ge,,2026-10-25
+GHA,2026-10-25-gha-bright-simons-flags-computing-capacity-error-in-ghanas-ai-strategy-and-ques,,2026-10-28
 GIN,2025-05-29-banque-mondiale-gneap-2-pid-appraisal,,2026-10-19
 GMB,2023-06-23-gambia-government-cloud-strategy-2023-2027,,2026-10-19
 GMB,2026-04-08-nawec-admits-crisis-long-term-load-shedding-thepoint,,2026-10-19
@@ -69,9 +81,13 @@ GNQ,2026-08-07-pamfp-amplia-plazo-licitacion-sala-servidores,,2026-10-19
 KEN,2021-02-11-africa-data-centres-nbo1-nairobi-data-sheet,,2026-10-19
 KEN,2022-11-30-africa-data-centres-sameer-nairobi-15mw-expansion,,2026-10-19
 KEN,2023-09-01-geothermal-powered-data-centre-launched-in-olkaria,,2026-10-19
+KEN,2025-03-07-ken-kengen-targets-startups-at-olkaria-green-industrial-park,,2026-10-28
+KEN,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 KEN,2026-01-01-xalam-kenya-data-center-market-briefing,,2026-10-19
+KEN,2026-02-12-ken-kengen-egm-green-energy-park-opens-direct-power-for-tech-ventures,,2026-10-28
 KEN,2026-04-13-konza-cloud-expansion-transaction-advisory-addendum-iii,,2026-10-19
 KEN,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
+KEN,2026-08-24-ken-can-kenya-s-ai-ambitions-coexist-with-naivasha-s-water-needs,,2026-10-28
 KEN,2026-08-30-electricity-tariff-overview,,2026-10-19
 KEN,2026-09-17-techtrends-africa-green-data-centre-solar-server-farms,,2026-10-19
 KEN,2026-09-28-cioafrica-tcs-sovereign-cloud-nairobi,,2026-10-19
@@ -81,7 +97,9 @@ KEN,2026-10-23-ken-konza-data-centre-set-for-expansion-through-public-private-pa
 LBR,2025-12-11-liberia-mopt-wardip-sop2-esmf,,2026-10-19
 LBY,2026-07-18-libya-national-blackout-1350-mw-lost-alwasat,,2026-10-19
 LBY,2026-08-28-gecol-south-tripoli-station-unit-one-first-fire,,2026-10-19
+MAR,2024-10-17-mar-atlas-cloud-services-world-class-data-center-in-morocco,,2026-10-28
 MAR,2025-12-10-vertiv-inwi-technopolis-rabat-cooling-case-study,,2026-10-19
+MAR,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 MDG,2025-06-01-jirama-plan-redressement-financier-2025-2028,,2026-10-19
 MDG,2025-07-01-madagascar-data-center-market-brief-xalam,,2026-10-19
 MDG,2025-09-22-irena-energy-profile-madagascar,,2026-10-19
@@ -89,6 +107,7 @@ MDG,2026-05-06-worldbank-ascent-madagascar-250m-approval,,2026-10-19
 MLI,2023-01-01-edm-sa-rapport-annuel-activites-2023,,2026-10-19
 MLI,2026-07-02-afdb-mali-ratifies-loans-bamako-north-225kv-loop,,2026-10-19
 MOZ,2025-07-01-xalam-mozambique-data-center-market-briefing,,2026-10-19
+MOZ,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 MOZ,2026-08-08-edm-electricity-tariffs-mozambique,,2026-10-19
 MOZ,2026-08-08-raxio-mozambique-mz1-data-centre-specification,,2026-10-19
 MRT,2024-12-01-mauritanie-pacte-national-energie-mission-300,,2026-10-19
@@ -115,6 +134,7 @@ NGA,2024-05-01-rack-centre-spec-sheet,,2026-10-19
 NGA,2024-09-09-nga-businessday-energy-costs-data-centres,,2026-10-19
 NGA,2025-08-06-techpoint-airtel-nigeria-nxtra-38mw-it-load-eko-atlantic,,2026-10-19
 NGA,2025-09-09-techcabal-insights-nigeria-data-centres-ai-future,,2026-10-19
+NGA,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 NGA,2026-01-01-xalam-nigeria-data-center-market-briefing,,2026-10-19
 NGA,2026-05-19-nga-kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-read,,2026-10-23
 NGA,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
@@ -128,6 +148,7 @@ SDN,2019-06-30-sudan-electricity-sector-diagnostic-worldbank,,2026-10-19
 SDN,2024-09-01-sudan-electricity-petroleum-update-worldbank,,2026-10-19
 SDN,2026-05-18-undp-solar-energy-value-chain-study,,2026-10-19
 SEN,2025-07-01-xalam-d4d-data-centre-market-brief-senegal-2025,,2026-10-19
+SEN,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 SEN,2026-01-01-xalam-senegal-data-center-market-briefing,,2026-10-19
 SEN,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
 SLE,2026-04-09-sierra-leone-government-update-national-electricity-status,,2026-10-19
@@ -148,23 +169,30 @@ TGO,2025-09-24-lome-data-centre-home-page-en,,2026-10-19
 TGO,2026-01-01-tgo-ldc-infrastructure,,2026-10-19
 TGO,2026-06-29-togo-ministre-energie-causes-coupures-delestages,,2026-10-19
 TUN,2026-10-21-tun-solecrypt-announces-sovereign-ai-campus-in-bizerte-tunisia,,2026-10-23
+TZA,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 TZA,2026-01-01-xalam-tanzania-data-center-market-briefing,,2026-10-19
 TZA,2026-05-08-ewura-electricity-performance-updates-march-2026,,2026-10-19
 TZA,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
 TZA,2026-06-29-nationwide-blackout-investigation,,2026-10-19
 TZA,2026-10-22-xaf-africa-s-ai-infrastructure-who-pays-and-who-carries-the-risk,,2026-10-25
 UGA,"2025-09-15 Synectics, Schneider to build AI center in Uganda starting 2026",,2026-10-19
+UGA,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 UGA,2026-01-01-xalam-uganda-data-center-market-briefing,,2026-10-19
 UGA,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
 ZAF,2020-09-28-ntt-johannesburg-1-data-center-construction-commences,,2026-10-19
 ZAF,2022-08-30-adc-zaf-samrand-expansion-groundbreaking,,2026-10-19
 ZAF,2023-01-24-adc-zaf-cape-town-second-data-centre-groundbreaking,,2026-10-19
+ZAF,2024-02-27-zaf-teraco-unveils-r2bn-solar-backup-plan-for-sa,,2026-10-28
 ZAF,2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town,,2026-10-19
 ZAF,2024-07-25-adc-zaf-cpt1-6mw-expansion-live-release,,2026-10-19
+ZAF,2025-03-12-zaf-water-scarcity-in-africa,,2026-10-28
 ZAF,2025-08-12-teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating,,2026-10-19
+ZAF,2025-09-05-zaf-teraco-releases-fourth-annual-sustainability-report,,2026-10-28
 ZAF,2025-11-10-teraco-completes-ct2-data-centre-expansion-increasing-cape-towns-hyperscale-capa,,2026-10-19
 ZAF,2025-11-10-teraco-ct2-50mw-cape-town,,2026-10-19
+ZAF,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-10-28
 ZAF,2026-01-01-xalam-south-africa-data-center-market-briefing,,2026-10-19
+ZAF,2026-02-01-zaf-teraco-ct2-expands-cape-town-data-centre-capacity-now,,2026-10-28
 ZAF,"2026-02-09 Major SA data centre expansion plans emerge, set to more than double current power demand",,2026-10-19
 ZAF,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built,,2026-10-19
 ZAF,2026-07-22-sa-data-centre-gold-rush-resource-crunch,,2026-10-19
@@ -174,10 +202,12 @@ ZAF,2026-09-10-zaf-worldbank-strategic-framework-offshore-wind-development,,2026
 ZAF,2026-09-17-techtrends-africa-green-data-centre-solar-server-farms,,2026-10-19
 ZAF,2026-10-16-zaf-thecommonsense-ai-data-centres-low-growth-trap,,2026-10-19
 ZAF,2026-10-22-xaf-africa-s-ai-infrastructure-who-pays-and-who-carries-the-risk,,2026-10-25
+ZAF,2026-10-26-zaf-itweb-steyn-data-centre-inquiry-king-v,,2026-10-28
 ZMB,2025-07-01-data-centre-market-brief-zambia,,2026-10-19
 ZMB,2026-01-01-xalam-zambia-data-center-market-briefing,,2026-10-19
 ZMB,2026-04-21-leopards-hill-250mw-solar-battery-plant-zanis,,2026-10-19
 ZMB,2026-06-19-zesco-ks-eco-solutions-500mw-solar-pact-linkedin,,2026-10-19
 ZWE,2023-06-20-telone-annual-report-2022,,2026-10-19
+ZWE,2025-04-28-zwe-chillmine-energywise-to-develop-solar-powered-data-centers-in-zimbabwe,,2026-10-28
 ZWE,2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025,,2026-10-19
 ZWE,2026-07-21-infraco-expands-ai-powered-towers,,2026-10-19

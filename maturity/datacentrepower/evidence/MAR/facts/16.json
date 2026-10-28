@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-17-mar-atlas-cloud-services-world-class-data-center-in-morocco",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "pue",
+   "value": "low",
+   "fact": "Atlas Cloud Services states a PUE of 1.5 for its Benguerir data center, cooled by free cooling.",
+   "as_of": "2024-10-17",
+   "date_precision": "day",
+   "system": "Atlas Cloud Services Benguerir Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "Date is the page's proxy date."
+}

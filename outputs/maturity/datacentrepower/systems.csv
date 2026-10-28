@@ -5,12 +5,16 @@ CIV,Raxio,Côte d'Ivoire,datacentre,,,,2026-01-01-xalam-cote-divoire-data-center
 CIV,Orange,Côte d'Ivoire,datacentre,,Orange,,2026-01-01-xalam-cote-divoire-data-center-market-briefing
 CIV,ST Digital,Côte d'Ivoire,datacentre,,,,2026-01-01-xalam-cote-divoire-data-center-market-briefing
 CIV,Raxio,Cote d'Ivoire,datacentre,,Raxio,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+CIV,CIV1 data centre,Cote d'Ivoire,datacentre,,Raxio Group,Tier III,2025-01-03-civ-powering-the-civ1-data-centre-in-cote-d-ivoire
 COD,OADC Texaf Digital-Kinshasa,RDC,datacentre,,OADC (WIOCC group) with TEXAF,Tier-III,2024-08-15-cod-actualite-oadc-texaf-digital-kinshasa
+COG,"Congo national data centre (Brazzaville, Bacongo)",Congo,datacentre,,State of Congo; contractor Sumec,"Tier III-equivalent design target, not in service",2026-09-24-cog-congo-le-nouveau-datacenter-national-livre-d-ici-la-fin-de-l-annee-202
 DZA,Centre national des services numériques,Algérie,datacentre,"sovereign cloud, Algiers (Mohammadia) mirrored with Blida",state,Tier III Design,2026-07-07-dza-jeune-independant-centre-national-services-numeriques
+DZA,Mohammadia Data Center,Algeria,datacentre,,Haut-commissariat a la numerisation,Tier III Design,2026-02-23-dza-le-mohammadia-datacenter-obtient-la-certification-tier-iii-design-une
 ETH,Ethio Telecom Gola Sefer modular data center,Ethiopia,datacentre,"Huawei modular Tier III, five PODs",ethio telecom,Tier III,2021-05-22-samena-ethio-telecom-huawei-tier-iii-modular-data-center-gola-sefer
 ETH,Raxio,Ethiopia,datacentre,,Raxio,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
 ETH,Bitdeer Oromia bitcoin-mining site,Ethiopia,other,,Bitdeer Technologies Group,,2026-01-12 Bitdeer completes 40 MW Oromia bitcoin-mining site in Ethiopia
 ETH,Raxio ET1,Raxio Ethiopia ET1,datacentre,,Raxio Group,Tier III,2025-04-01-eth-raxio-et1-data-sheet-technical-specifications
+ETH,Phoenix Group Bole Lemi mining facility,Ethiopia,datacentre,,Phoenix Group,,2025-11-01-eth-phoenix-group-brings-30mw-bitcoin-mining-hub-in-ethiopia-online
 GAB,Gabon sovereign data centre (ST DIGITAL),,datacentre,,ST DIGITAL Gabon,Tier III,2026-07-08-gabon-sovereign-datacenter-technical-spec
 GHA,Equinix,Ghana,other,,Equinix,,2025-07-01-xalam-d4d-data-centre-market-brief-ghana-2025
 GHA,Digital Realty,Ghana,other,,Digital Realty,,2025-07-01-xalam-d4d-data-centre-market-brief-ghana-2025
@@ -105,6 +109,11 @@ ZAF,"Equinix King Air Industria, Cape Town (proposed, rezoning approved 2026-07-
 ZAF,Atlantic Hills Data Centre,South Africa,datacentre,,,,2026-08-20-foxglove-sahrc-data-centre-submission
 ZAF,"AWS 57 MW data centre, Kuils River",South Africa,datacentre,,AWS,,2026-08-20-foxglove-sahrc-data-centre-submission
 ZAF,"Africa Data Centres SA, Midrand (Erf 358)",South Africa,datacentre,,Africa Data Centres,,2026-08-20-foxglove-sahrc-data-centre-submission
+ZAF,King Air Industria 170MW data centre,Cape Town 170MW facility,other,,,,2026-10-26-zaf-itweb-steyn-data-centre-inquiry-king-v
+ZAF,Teraco data centres,South Africa,datacentre,,Teraco,,2025-09-05-zaf-teraco-releases-fourth-annual-sustainability-report
+ZAF,Teraco 120MW Free State solar plant,South Africa,other,,Teraco,,2024-02-27-zaf-teraco-unveils-r2bn-solar-backup-plan-for-sa
+ZAF,Teraco data centres,South Africa,datacentre,,Teraco,,2026-02-01-zaf-teraco-ct2-expands-cape-town-data-centre-capacity-now
+ZAF,Teraco data centres,South Africa,datacentre,,Teraco,,2025-03-12-zaf-water-scarcity-in-africa
 ZMB,National Data Centre,Zambia,datacentre,,"Government of Zambia, run by Infratel",,2025-07-01-data-centre-market-brief-zambia
 ZMB,Liquid/ADC facility,Zambia,other,,Liquid/ADC,,2025-07-01-data-centre-market-brief-zambia
 ZMB,National Data Centre,Zambia,datacentre,,"Government of Zambia, run by Infratel",,2026-01-01-xalam-zambia-data-center-market-briefing
@@ -114,3 +123,4 @@ ZWE,TelOne data centres,Zimbabwe,datacentre,,TelOne (state-owned),,2025-07-01-xa
 ZWE,Econet Wireless data centre (forthcoming),Zimbabwe,other,,Econet Wireless,,2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025
 ZWE,Mazowe Data Centre,Zimbabwe,other,,TelOne,,2023-06-20-telone-annual-report-2022
 ZWE,Econet Tech City data centre,Zimbabwe,datacentre,,InfraCo (Econet),,2026-07-21-infraco-expands-ai-powered-towers
+ZWE,Energywise Runde River Solar Park (planned 100MW),Zimbabwe,other,,Energywise,,2025-04-28-zwe-chillmine-energywise-to-develop-solar-powered-data-centers-in-zimbabwe

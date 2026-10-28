@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-01-zaf-teraco-ct2-expands-cape-town-data-centre-capacity-now",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "pue",
+   "value": "low",
+   "fact": "The article says Teraco's CT2 data centre in Cape Town is designed for a PUE of 1.30, against the company's previous average of 1.47.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Teraco CT2",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco data centres",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "Water use is an aim of 0.05 L/kWh, not a published figure; the 120 MW solar wheeling programme is not a dedicated feed."
+}
