@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: COG
 ledger_rows: 25
 not_held: 5
-record: e8ebc9b8abf4
+record: ef9c59732e9f
 ---
 
 # News, Sep – Oct 2026
@@ -249,6 +249,14 @@ The Republic of Congo's deputy prime minister, Jean-Jacques Bouya, and the telec
 **[Congo/Télécommunications : L’Arpce présente la 2e édition du Livre blanc et le projet d’adressage postal numérique](https://www.aci.cg/congo-telecommunications-larpce-presente-la-2e-edition-du-livre-blanc-et-le-projet-dadressage-postal-numerique/)** — Agence Congolaise d'Information, 17 October 2026
 
 Congo's communications regulator Arpce presented the second edition of its white paper and a digital postal addressing project on 15 October 2026, the state news agency reported. Figures cited include internet penetration of 57%, mobile money use of 55.8% and 22 internet service providers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Crise du carburant : les réseaux télécoms à bout de souffle](https://www.adiac-congo.com/content/crise-du-carburant-les-reseaux-telecoms-bout-de-souffle-172163)** — Les Dépêches de Brazzaville (ADIAC), 27 October 2026
+
+Grid power 9 h a day, batteries 6 h; Helios Towers needs 100,000 l of diesel a week for 550 sites; Mobile Money hit.
 
 </div>
 
