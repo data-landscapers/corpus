@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-11-techcentral-information-regulator-election-probe-google-x",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "TechCentral reports the Information Regulator's executive for PAIA enforcement describing the Promotion of Access to Information Act (PAIA) as an existing, much older law that needs amending to give the regulator more enforcement powers.",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "Promotion of Access to Information Act (PAIA)",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The Information Regulator, chaired by Pansy Tlakula, said it accepted the Campaign for Free Expression's PAIA complaints against Meta, X and Google and has them under investigation.",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "Promotion of Access to Information Act (PAIA)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

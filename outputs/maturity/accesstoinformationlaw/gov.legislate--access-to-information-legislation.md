@@ -196,7 +196,7 @@ Benin's 2015 code gives limited access rights with no request procedure; a new l
 
 ### Botswana: 3 Established
 
-Botswana's Access to Information Act of 2024 is made and starts on a date set by notice; no source found reports that date and any rules.
+Botswana's Access to Information Act of 2024 is made and starts on a date set by notice; no source reports that date and any rules.
 
 - The document is the text of the Access to Information Act, Act 16 of 2024, which creates a general right of access to information held by public authorities; it states commencement is on notice, and the document is dated 2024-07-26 ([source, 2024](https://botswanalaws.com/consolidated-statutes/acts-on-notice/2024/access-to-information-act)).
 
@@ -227,7 +227,7 @@ Mali has no single access to information law; a 2026 study finds the right sprea
 
 ### Niger: 3 Established
 
-Niger's 2011 ordinance on access to public information is in force and was cited by a minister in 2025; no source found reports rules under it.
+Niger's 2011 ordinance on access to public information is in force and was cited by a minister in 2025; no source reports rules under it.
 
 - This document is the text of Ordonnance No. 2011-22 of 23 February 2011 on the Charter of access to public information and administrative documents, an ordinance executed as a law of the State that gives any person a right to ask public bodies for information, entering into force six months after its publication ([source, 2011](https://cyrilla.org/api/files/1566209433658g62junbhzjn.pdf)).
 - Niger's Minister of Communication, speaking on 22 October 2025, cited ordinance no. 2011-22 of 23 February 2011 on the charter of access to public information and administrative documents as an existing initiative to give journalists, researchers, students and citizens reliable information; the date given is the ordinance's, 2011 ([source, 2011](https://anp.ne/le-niger-veut-se-doter-dune-politique-de-communication-et-dune-strategie-nationale-de-lutte-contre-la-desinformation/)).
@@ -331,7 +331,7 @@ Mauritania's government bill on access to public information has been under disc
 
 ### Sao Tome and Principe: 2 Nascent
 
-Sao Tome and Principe had a draft access law before the National Assembly in 2018, still not adopted in 2021; no source found reports later status.
+Sao Tome and Principe had a draft access law before the National Assembly in 2018, still not adopted in 2021; no source reports later status.
 
 - STP Digital reported on 1 December 2021 that civil society organisations were calling during the Quinzena da Cidadania (15-30 November 2021) for the draft access law to be adopted, which says it was not yet adopted ([source, 2021-11](https://stpdigital.net/sociedade/lei-de-acesso-a-documentos-e-informacoes-administrativas)).
 - A draft Lei de Acesso aos Documentos e Informações Administrativas, written by a national consultant under the Pro PALOP project, was submitted to the President of the National Assembly by civil society organisations (CIP-STP, FONG-STP, PDHEG, Wêbeto) in 2018, according to STP Digital ([source, 2018](https://stpdigital.net/sociedade/lei-de-acesso-a-documentos-e-informacoes-administrativas)).
