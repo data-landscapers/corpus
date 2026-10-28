@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: TUN
-ledger_rows: 64
+ledger_rows: 66
 not_held: 5
-record: 964af69bf60c
+record: b23232f7e188
 ---
 
 # News, Sep – Oct 2026
@@ -301,6 +301,22 @@ An analysis of Tunisia's circular of 2 September 2026 on public-sector cybersecu
 **[مقترح قانون عدد 017 / 2024 يتعلق بتنقيح واتمام المرسوم عدد 54 لسنة 2022 المتعلق بمكافحة الجرائم المتصلة بأنظمة المعلومات والاتصال](https://www.arp.tn/loi/project/4139)** — Assemblée des Représentants du Peuple (ARP), 6 September 2026
 
 Parliament's own case file for the bill amending Tunisia's 2022 cyber-offences decree-law puts dates on a revision that has been called a priority: deposited on 20 February 2024, referred to committee on 10 April 2025, carrying 38 sponsors, and still unvoted. The amendments themselves are not published on the page, so what the bill would change remains unstated.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Amendement du décret-loi 54: Les peines de prison remplacées par des amendes financières](https://www.lapresse.tn/2026/09/30/amendement-du-decret-loi-54-les-peines-de-prison-remplacees-par-des-amendes-financieres/)** — La Presse de Tunisie, 30 September 2026
+
+Decree-law 2026-1 in JORT no. 96: article 24 now fines of 10,000-20,000 dinars; prison only for repeat offences.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[مرسوم عدد 1 لسنة 2026 مؤرخ في 30 سبتمبر 2026 يتعلق بتنقيح المرسوم عدد 54 لسنة 2022 (Décret-loi n° 2026-1 du 30 septembre 2026 revising décret-loi n° 2022-54, article 24)](https://www.juridoc.tn/ar/document/%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%B9%D8%AF%D8%AF-1-%D9%84%D8%B3%D9%86%D8%A9-2026-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-30-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2026-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%AA%D9%86%D9%82%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%B9%D8%AF%D8%AF-54-%D9%84%D8%B3%D9%86%D8%A9-2022-%D8%A7%D9%84%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-13-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2022-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%B5%D9%84%D8%A9-%D8%A8%D8%A3%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84/235342)** — Présidence de la République tunisienne (text as reproduced by Juridoc), 30 September 2026
+
+New art. 24: fines of TND 10,000-20,000 replace prison; six months and TND 50,000 on reoffence; doubled for officials.
 
 </div>
 
@@ -956,6 +972,8 @@ The Essaha Aziza programme, run by Tunisia's health ministry with the European U
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -1006,6 +1024,20 @@ A Tunisian finance ministry document on the 2027 draft budget plans to fight tax
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Machine-learning module in the customs selectivity system</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1027,6 +1059,22 @@ Tunisian Customs said on 6 October 2026 that it has used AI in its risk analysis
 **[Douane : l’intelligence artificielle bientôt utilisée pour détecter les fraudes et contrôler les marchandises](https://businessnews.com.tn/2026/10/12/douane-lintelligence-artificielle-bientot-utilisee-pour-detecter-les-fraudes-et-controler-les-marchandises/1422415/)** — Business News (Tunisia), 12 October 2026
 
 Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 that first trials of artificial intelligence for targeting high-risk shipments improved targeting by 20-25%. AI will also be used to analyse container scanner images remotely, and the SINDA 2 customs IT system is due for completion by the end of 2027 as declarations move to paperless processing.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">The Dot digital innovation hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le hub numérique « The Dot » : 500 startups accompagnées en cinq ans](https://www.lapresse.tn/2026/10/25/le-hub-numerique-the-dot-500-startups-accompagnees-en-cinq-ans/)** — La Presse de Tunisie, 25 October 2026
+
+500+ startups since 2021, 37 diaspora-founded; 140 incubated from ten governorates; 3,000 events.
 
 </div>
 
