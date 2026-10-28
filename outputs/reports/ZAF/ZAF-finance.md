@@ -1,6 +1,6 @@
 ---
 title: South Africa: finance
-compiled: 2026-10-27
+compiled: 2026-10-28
 place: ZAF
 ---
 
@@ -14,7 +14,7 @@ place: ZAF
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">174</td><td class="num">205</td><td class="num">219</td><td class="num total">599</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">142</td><td class="num">159</td><td class="num">168</td><td class="num total">470</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">76</td><td class="num">120</td><td class="num">106</td><td class="num total">302</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num">56</td><td class="num">10</td><td class="num">32</td><td class="num zero"></td><td class="num">4</td><td class="num">118</td><td class="num total">220</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">56</td><td class="num">10</td><td class="num">32</td><td class="num zero"></td><td class="num">4</td><td class="num">119</td><td class="num total">221</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">24</td><td class="num">34</td><td class="num">52</td><td class="num total">110</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">29</td><td class="num">27</td><td class="num">21</td><td class="num total">77</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">22</td><td class="num">25</td><td class="num">28</td><td class="num total">75</td></tr>
@@ -30,10 +30,10 @@ place: ZAF
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">5</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,832</td><td class="num">2,318</td><td class="num">2,690</td><td class="num total">11,594</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,832</td><td class="num">2,318</td><td class="num">2,691</td><td class="num total">11,595</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/all-finance.html">Full table &mdash; 292 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/all-finance.html">Full table &mdash; 293 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -75,17 +75,17 @@ place: ZAF
 <tbody>
 <tr><th scope="row">Data Storage</th><td class="num">1,206</td><td class="num">160</td><td class="num">1,700</td><td class="num">846</td><td class="num">1,606</td><td class="num">438</td><td class="num total">5,956</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">809</td><td class="num">700</td><td class="num">27</td><td class="num">417</td><td class="num zero"></td><td class="num">1,417</td><td class="num total">3,370</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num">56</td><td class="num">10</td><td class="num">32</td><td class="num zero"></td><td class="num">4</td><td class="num">118</td><td class="num total">220</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">56</td><td class="num">10</td><td class="num">32</td><td class="num zero"></td><td class="num">4</td><td class="num">119</td><td class="num total">221</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">36</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">36</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">11</td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">18</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num total">6</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">3</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,270</td><td class="num">1,611</td><td class="num">1,979</td><td class="num total">9,615</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,270</td><td class="num">1,611</td><td class="num">1,980</td><td class="num total">9,616</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/finance.html">Full table &mdash; 57 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/finance.html">Full table &mdash; 58 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-nonstate-2026-10-21.csv" download>&darr; Download CSV</a>
 </div>

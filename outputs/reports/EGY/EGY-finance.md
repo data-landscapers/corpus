@@ -1,6 +1,6 @@
 ---
 title: Egypt: finance
-compiled: 2026-10-22
+compiled: 2026-10-28
 place: EGY
 ---
 
@@ -25,7 +25,7 @@ place: EGY
 <tfoot><tr><th scope="row">All topics</th><td class="num">135</td><td class="num">437</td><td class="num">564</td><td class="num">318</td><td class="num">767</td><td class="num total">2,221</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/EGY/all-finance.html">Full table &mdash; 144 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/EGY/all-finance.html">Full table &mdash; 145 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/EGY/EGY-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -66,6 +66,6 @@ place: EGY
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/EGY/finance.html">Full table &mdash; 12 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/EGY/finance.html">Full table &mdash; 13 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/EGY/EGY-nonstate-2026-10-03.csv" download>&darr; Download CSV</a>
 </div>
