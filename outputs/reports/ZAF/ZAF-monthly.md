@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: ZAF
-ledger_rows: 170
+ledger_rows: 174
 not_held: 19
-record: 820790eaa7b8
+record: 9c94c592c6c0
 ---
 
 # News, Sep – Oct 2026
@@ -356,6 +356,20 @@ South Africa's parliamentary justice committee agreed on 23 September 2026 that 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Cybercrimes Act investigations, prosecutions and convictions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Question NW4395 to the Acting Minister of Police](https://pmg.org.za/committee-question/41149/)** — Parliamentary Monitoring Group (Parliament of South Africa), 5 October 2026
+
+SAPS reply: eight cyber-extortion and ransomware cases in three years, one arrest; Weather Service attack unsolved.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National Identification and Registration Bill</p>
 
 <div class="bulletin-item" markdown="1">
@@ -391,6 +405,36 @@ South Africa's ratification of the AfCFTA Protocol on Digital Trade was presente
 **[Minister promises ‘revised’ draft of crypto assets regulation](https://www.itweb.co.za/article/minister-promises-revised-draft-of-crypto-assets-regulation/KA3WwMdzXE3vrydZ)** — ITWeb South Africa, 21 October 2026
 
 South Africa's finance minister said on 21 October 2026, presenting the Medium-Term Budget Policy Statement, that the draft Capital Flow Management Regulations, which cover cross-border crypto assets, need a different approach after Treasury received thousands of comments. Consultations will produce a revised second draft for further comment; no date was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">POPIA enforcement notices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Information Regulator (South Africa), Enforcement Notice (s.95 POPIA) and Infringement Notice (s.109 POPIA) against First National Bank, 21 October 2026](https://inforegulator.org.za/wp-content/uploads/2026/10/FIRST-NATIONAL-BANK-ENFORCEMENT-NOTICE-211026_Redacted.pdf)** — Information Regulator (South Africa), 21 October 2026
+
+R1m fine, section 105 offence; 88 data subjects exposed to 696 people in 2022; POPIA conditions breached; 90-day report.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Information Regulator fines Central Johannesburg TVET College and First National Bank for POPIA contravention](https://inforegulator.org.za/wp-content/uploads/2026/10/MEDIA-STATEMENT-REGULATOR-FINES-CJC-AND-FNB-FOR-POPIA-CONTRAVENTION.pdf)** — Information Regulator (South Africa), 26 October 2026
+
+Regulator's own statement: CJC fined R500,000 for ignoring enforcement notice; FNB R1m for section 105 offence.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[FNB issued with R1m fine for POPIA violation](https://www.itweb.co.za/article/fnb-issued-with-r1m-fine-for-popia-violation/O2rQGqAEWwBqd1ea)** — ITWeb South Africa, 27 October 2026
+
+88 home-loan applicants exposed via app glitch; section 105 offence, section 19 safeguards failed.
 
 </div>
 
@@ -1367,6 +1411,20 @@ MiDO Academy and the UK charity The Cyber Helpline, funded by Amazon Web Service
 **[Regulation (National Payment System Department)](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)** — South African Reserve Bank, 17 October 2026
 
 The South African Reserve Bank explains how its National Payment System Department regulates the payment system for safety, efficiency and stability, including the prevention of fraud and money laundering. It says consumer protection in payments is the job of the Financial Sector Conduct Authority.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rand Mutual Assurance alleged data theft</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rand Mutual probes alleged breach of 1.68m claims](https://www.itweb.co.za/article/rand-mutual-probes-alleged-breach-of-168m-claims/G98YdqLGAgXMX2PD)** — ITWeb South Africa, 27 October 2026
+
+Threat actor claims 366GB and 1.68m claims records, US$95,000 ransom by 5 Nov; RMA confirms nothing yet.
 
 </div>
 
@@ -2603,6 +2661,20 @@ The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Tr
 **[FSCA builds AI guardrails as digital regulation expands](https://www.itweb.co.za/article/fsca-builds-ai-guardrails-as-digital-regulation-expands/kLgB17ezZVkM59N4)** — ITWeb South Africa, 30 September 2026
 
 South Africa's Financial Sector Conduct Authority told Parliament's finance committee that an AI framework for responsible use is being developed, the one outstanding element of its data and technology governance principle. It issued 140 scam warnings in 2025/26, up from 107, and tripled crypto-provider inspections to 30.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
 
 </div>
 
