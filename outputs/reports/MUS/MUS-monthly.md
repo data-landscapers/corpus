@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: MUS
-ledger_rows: 32
+ledger_rows: 35
 not_held: 7
-record: f9dd8f50c6d8
+record: 67d7c133342a
 ---
 
 # News, Sep – Oct 2026
@@ -230,6 +230,28 @@ Mauritius's ICT minister, Avinash Ramtohul, told L'Express on 10 October 2026 ab
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Data Protection Office guidance to management companies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Protection Office (Mauritius), Advice to Management Companies (MCs) - registration and Data Protection Officer obligations under the Data Protection Act 2017](https://dataprotection.govmu.org/Documents/Advice%20to%20%20MCs%20on%20Registration.pdf)** — Data Protection Office, Mauritius, 1 September 2026
+
+Management Companies register as controller and processor, appoint own DPO; no blanket exemption for managed entities.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritius Managed Entities Now Need Their Own Data Protection Registration | Acclime](https://global.acclime.com/news/managed-entities-need-own-data-protection-registration/)** — Acclime, 26 October 2026
+
+DPO guidance of Sept 2026: Management Company registers as controller and processor; each managed entity its own DPO.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Communications interception</p>
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
@@ -322,6 +344,14 @@ Mauritius runs a central offsite backup service for government electronic media 
 
 <p class="monthly-story__name">Reported cyber incidents</p>
 
+<div class="bulletin-item" markdown="1">
+
+**[Mauritius and Meta strengthen cooperation on online safety and digital challenges](https://mitci.govmu.org/mitci/mauritius-and-meta-strengthen-cooperation-on-online-safety-and-digital-challenges/)** — Ministry of Information Technology, Communication and Innovation (Mauritius), 7 October 2026
+
+Cybercrime cases 491 (2024) to 702 (2025), sextortion 178 to 223; about 85% of population on Meta; Acting PM opens.
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **[Atelier Maurice-Meta : Vers une riposte plus rapide face aux dérives du numérique](https://lexpress.mu/node/563366)** — L'Express (Maurice), 8 October 2026
@@ -341,6 +371,34 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[Request for Proposal: Supply and Implementation of a Threat Intelligence Sharing Platform for the Banking sector](https://www.bom.mu/media/media-releases/request-proposal-supply-and-implementation-threat-intelligence-sharing-platform-banking-sector-0)** — Bank of Mauritius, 20 October 2026
 
 The Bank of Mauritius is tendering for the supply and implementation of a threat intelligence sharing platform for the banking sector. Encrypted bids close on 20 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government websites running on PHP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Risque de cyberattaque : 10 à 15 % des services gouvernementaux toujours hors ligne](https://defimedia.info/risque-de-cyberattaque-10-15-des-services-gouvernementaux-toujours-hors-ligne)** — Le Defi Media Group, 25 October 2026
+
+Around 70% of government sites offline; 85-90% restored by 2026-10-24; Mauritius Telecom free exposure checker.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cybersecurity Committee</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Risque de cyberattaque : 10 à 15 % des services gouvernementaux toujours hors ligne](https://defimedia.info/risque-de-cyberattaque-10-15-des-services-gouvernementaux-toujours-hors-ligne)** — Le Defi Media Group, 25 October 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 
