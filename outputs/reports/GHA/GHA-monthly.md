@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: GHA
-ledger_rows: 118
+ledger_rows: 119
 not_held: 9
-record: 001e0942a957
+record: 0d3385eb694f
 ---
 
 # News, Sep – Oct 2026
@@ -1625,6 +1625,20 @@ Ghana's communications minister Samuel Nartey George launched the Integrated Cou
 **[GTA pushes digital reset for tourism sector](https://www.graphic.com.gh/news/general-news/ghana-news-gta-pushes-digital-reset-for-tourism-sector.html)** — Graphic Online, 22 September 2026
 
 The chief executive of the Ghana Tourism Authority, Maame Efua Houadjeto, said on 18 September 2026 that its Ghana Tourism Information System will put registration, licensing and renewal, tourism levy filing and payment, establishment records and public verification into one digital system. No launch date, cost or supplier is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MSME Digital Gateway</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNDP Hands Over 90 Laptops to GEA to Strengthen Digital Support for MSMEs](https://www.undp.org/ghana/press-releases/undp-hands-over-90-laptops-gea-strengthen-digital-support-msmes)** — United Nations Development Programme, 26 October 2026
+
+90 laptops for Digital Champions; nationwide gateway rollout under Joint SDG Fund programme with UNCDF, UNCTAD.
 
 </div>
 
