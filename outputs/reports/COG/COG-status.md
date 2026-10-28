@@ -1,6 +1,6 @@
 ---
 title: Congo: status report
-compiled: 2026-10-24
+compiled: 2026-10-28
 place: COG
 region: XCA
 built_by: STATUS-INIT
@@ -124,7 +124,7 @@ Whatever is not hosted in country sits a long way from it: [no hyperscale cloud 
 ### Energy
 <!-- infra.energy -->
 
-Power failure is the ordinary condition of doing business: [77.1% of formal firms experienced outages in the previous fiscal year, at an average of 9.0 a month, both worse than the sub-Saharan African averages](https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Congo-Rep-2024.pdf) (2024). The regulator said on 15 October 2026 that [operators' sites receive grid power from the national utility for only 10 hours a day, the other 14 covered by generators and other sources](https://www.aci.cg/congo-telecommunications-larpce-presente-la-2e-edition-du-livre-blanc-et-le-projet-dadressage-postal-numerique/).
+Power failure is the ordinary condition of doing business: [77.1% of formal firms experienced outages in the previous fiscal year, at an average of 9.0 a month, both worse than the sub-Saharan African averages](https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Congo-Rep-2024.pdf) (2024). The regulator said on 27 October 2026 that [operators' sites were averaging nine hours of grid power a day against six hours of battery autonomy, and that a diesel shortage had cut voice, internet and mobile-money services across all or part of the country](https://www.adiac-congo.com/content/crise-du-carburant-les-reseaux-telecoms-bout-de-souffle-172163).
 
 [Just over half the population had access to electricity in 2023, at 51.3%, up marginally on the year before](https://tradingeconomics.com/republic-of-the-congo/access-to-electricity-percent-of-population-wb-data.html), and the split inside that figure is the story — [69.4% in urban areas against roughly a tenth of the rural population](https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS) (2023). The Ibrahim Index nonetheless counts [access to energy among Congo's ten most improved indicators over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cg.pdf) (2023), while infrastructure as a whole scores 26.4, 47th of 54.
 
