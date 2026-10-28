@@ -1,12 +1,12 @@
 ---
 title: Benin: status report
-compiled: 2026-10-27
+compiled: 2026-10-28
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 225
+sources_cited: 226
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -166,7 +166,7 @@ The institutional stack is real. [A national digital-security strategy has run s
 
 What none of it yet reaches is the core of government's own estate. [Across the financial management system, the treasury single account and the customs, tax, human resources and payroll systems, the 2025 assessment records no governance arrangements for operations covering compliance, security, registers and audit trails; only e-procurement has them, and they are internal and unpublished](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Meanwhile [more of the state is exposed as public services move online, and ASIN works closely with some forty priority public and private structures](https://www.lanation.bj/numerique/marc-andre-loko-apres-le-lancement-du-rapport-sur-les-vulnerabilites-du-cyberspace-beninois-nous-disposons-aujourdhui-dun-dispositif-solide) (July 2025), and [public agents already use generative AI tools on personal accounts outside any formalised framework](https://asin.bj/doc/137/download), which [ASIN's legal note calls for censusing and moving to secured arrangements](https://asin.bj/doc/137/download).
 
-Cotonou has turned this into a regional position, [hosting the fifth Cyber Africa Forum on 24-25 June 2025](https://fraternite.bj/le-cyber-africa-forum-2025-officiellement-annonce-a-cotonou-un-levier-strategique-pour-la-transformation-numerique-en-afrique/), [making its case as Africa's next cyber security hotspot](https://techcabal.com/2025/06/26/benin-cyber-africa-forum/) and [taking the sixth edition on 16-17 November 2026](https://www.lanation.bj/actualites/cyber-africa-forum-2026-cotonou-au-coeur-des-enjeux-de-cybersecurite-en-afrique). [A club of information-security officers from public and private institutions was constituted on 26 September 2026](https://lanation.bj/actualites/cybersecurite-au-benin-le-club-des-rssi-porte-sur-les-fonts-baptismaux), and [the national digital investigations centre opened complaint points at Porto-Novo, Abomey and Parakou](https://beninwebtv.com/benin-le-cnin-ouvre-trois-points-de-plainte-a-porto-novo-abomey-et-parakou/).
+Cotonou has turned this into a regional position, [hosting the fifth Cyber Africa Forum on 24-25 June 2025](https://fraternite.bj/le-cyber-africa-forum-2025-officiellement-annonce-a-cotonou-un-levier-strategique-pour-la-transformation-numerique-en-afrique/), [making its case as Africa's next cyber security hotspot](https://techcabal.com/2025/06/26/benin-cyber-africa-forum/) and [taking the sixth edition on 16-17 November 2026](https://www.lanation.bj/actualites/cyber-africa-forum-2026-cotonou-au-coeur-des-enjeux-de-cybersecurite-en-afrique). [A club of information-security officers from public and private institutions was constituted on 26 September 2026](https://lanation.bj/actualites/cybersecurite-au-benin-le-club-des-rssi-porte-sur-les-fonts-baptismaux), and [the national digital investigations centre opened complaint points at Porto-Novo, Abomey and Parakou](https://beninwebtv.com/benin-le-cnin-ouvre-trois-points-de-plainte-a-porto-novo-abomey-et-parakou/); [it recorded 6,520 cybercrime complaints and FCFA 6.44bn in declared losses in 2025](https://www.cnin.bj/statistiques).
 
 ## DPI
 
