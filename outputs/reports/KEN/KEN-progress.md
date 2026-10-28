@@ -3,10 +3,10 @@ title: Kenya — progress report, October 2025 – October 2026
 compiled: 2026-10-28
 period: 2025-10-01 to 2026-10-28
 place: KEN
-ledger_rows: 505
+ledger_rows: 506
 not_held: 7
 indicators: 115
-record: f164eed0adf2
+record: 69a2fb6c1bc4
 ---
 
 # Kenya: progress report, October 2025 – October 2026

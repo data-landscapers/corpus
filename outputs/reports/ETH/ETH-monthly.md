@@ -3,9 +3,9 @@ title: Ethiopia — News, Sep – Oct 2026
 compiled: 2026-10-28
 period: 2026-09-01 to 2026-10-28
 place: ETH
-ledger_rows: 38
+ledger_rows: 39
 not_held: 5
-record: 016c0fe5ba40
+record: 43df08c9d2b5
 ---
 
 # News, Sep – Oct 2026
@@ -641,6 +641,20 @@ Ethiopian Shipping and Logistics launched a web and mobile self-service platform
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

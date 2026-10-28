@@ -3,10 +3,10 @@ title: Ethiopia — progress report, October 2025 – October 2026
 compiled: 2026-10-28
 period: 2025-10-01 to 2026-10-28
 place: ETH
-ledger_rows: 254
+ledger_rows: 255
 not_held: 5
 indicators: 115
-record: bc9b5753bb8b
+record: 111911edf427
 ---
 
 # Ethiopia: progress report, October 2025 – October 2026
