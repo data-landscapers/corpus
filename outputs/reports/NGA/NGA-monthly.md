@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: NGA
-ledger_rows: 172
+ledger_rows: 175
 not_held: 9
-record: 5eb7a0d6f070
+record: 53859cd7e5b6
 ---
 
 # News, Sep – Oct 2026
@@ -263,6 +263,20 @@ An NCC survey found only two of 19 licensees fully ready to implement Nigeria's 
 **[FG moves to regulate AI use in healthcare, protect patients’ data](https://tribuneonlineng.com/fg-moves-to-regulate-ai-use-in-healthcare-protect-patients-data/amp/)** — Nigerian Tribune, 21 October 2026
 
 Nigeria's Minister of State for Health, Iziaq Adekunle Salako, told the AI in Health Summit 2026 in Abuja that the government is drafting sector-specific rules for AI in healthcare, building on the Nigeria Data Protection Act 2023 to cover health data, secondary use of clinical information, anonymisation and consent. He pointed to the National Digital Health Architecture endorsed by all 36 states and the FCT, a planned Health Information Exchange, and weak infrastructure, power and broadband as obstacles.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft executive bill on cybercrime and electronic evidence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC, NITDA, AGF, National Assembly demand stronger cybersecurity measures against AI-driven threats](https://dailypost.ng/2026/10/27/ncc-nitda-agf-national-assembly-demand-stronger-cybersecurity-measures-against-ai-driven-threats/)** — Daily Post Nigeria, 27 October 2026
+
+AGF's draft executive cybercrime bill; NITDA-ONSA legislative review; Senate proposes a cyber-resilience index.
 
 </div>
 
@@ -1412,6 +1426,20 @@ Nigeria's national CERT warned of rising Phobos ransomware attacks on cloud serv
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Communications-sector incident response team (NCC-CSIRT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC tasks telcos on stronger defenses against AI cyberattacks](https://guardian.ng/news/ncc-tasks-telcos-on-stronger-defenses-against-ai-cyberattacks/)** — The Guardian Nigeria, 27 October 2026
+
+NCC urges zero-trust and AI model audits on telcos; 700+ registered for second ICSC; NITDA cites sovereign cloud rule.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -1717,6 +1745,28 @@ Summarised under [Data Exchange](#data-exchange).
 **[JAMB Moves to Rescue Graduates Stuck for Years over NIN Data Mismatch, Unveils New Service](https://www.thisdaylive.com/2026/10/18/jamb-moves-to-rescue-graduates-stuck-for-years-over-nin-data-mismatch-unveils-new-service/)** — ThisDay, 18 October 2026
 
 Nigeria's admissions board launched a service that lets candidates correct their records to match their national identity data. It is meant to help graduates who have been barred from national service for years by mismatched records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Trust Stamp tokenised identity tools for BLIP government platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Trust Stamp signs Multi-Year Agreement to provide AI-Powered Identity Solutions for government programs in Nigeria, in a Multi-Year, Multi-Million-Dollar Engagement](https://www.globenewswire.com/news-release/2026/10/26/3388143/0/en/trust-stamp-signs-multi-year-agreement-to-provide-ai-powered-identity-solutions-for-government-programs-in-nigeria-in-a-multi-year-multi-million-dollar-engagement.html)** — Trust Stamp (via GlobeNewswire), 26 October 2026
+
+Company's own release; customer-hosted tokenised biometrics under NDPA 2023; 1m+ enrolments expected in year one.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Trust Stamp targets Nigerian biometric ID programs with 3-year BLIP deal](https://www.biometricupdate.com/202610/trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-deal)** — Biometric Update, 27 October 2026
+
+Multi-million-dollar, three-year deal; tokenised biometrics hosted in Nigeria; 1m enrolments targeted in year one.
 
 </div>
 

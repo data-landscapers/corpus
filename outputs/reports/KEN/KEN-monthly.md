@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: KEN
-ledger_rows: 151
+ledger_rows: 156
 not_held: 7
-record: b89c1d09d2ea
+record: 9f3c9f6626f9
 ---
 
 # News, Sep – Oct 2026
@@ -930,6 +930,28 @@ The Communications Authority of Kenya published a draft Satellite Frequency Lice
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre project to link all public institutions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government targets grassroots internet connectivity to open up global digital market for youth](https://www.kenyanews.go.ke/government-targets-grassroots-internet-connectivity-to-open-up-global-digital-market-for-youth/)** — Kenya News Agency (KNA), 18 October 2026
+
+17,000km public-institutions fibre with CA, ICTA, Kenya Power underway; Elgeyo Marakwet to waive fibre-laying charges.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Plans 44,000km Fiber Expansion to Boost Internet Access](https://techweez.com/2026/10/27/kenya-fiber-optic-network-expansion/)** — Techweez, 27 October 2026
+
+17,000km public-institution fibre plus 27,000km backbone; 64.3m mobile data subscriptions (June 2026); ~37,000km laid.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -1072,6 +1094,14 @@ The Communications Authority of Kenya reported a 43.7% rise in web application a
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[2026-27 Q1 Cyber Security Report - Public Version](https://www.ca.go.ke/sites/default/files/2026-10/Cyber%20Security%20Report%20Q1%202026-2027.pdf)** — Communications Authority of Kenya (National KE-CIRT/CC), 1 October 2026
+
+43rd edition, Jul-Sep 2026; over 2.6 billion threat events, up 14.45%, mainly vulnerability exploits; 20m+ advisories.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1121,6 +1151,20 @@ Kenya's interior cabinet secretary, Kipchumba Murkomen, appointed Lorna Ogolla O
 **[Kenya Appoints Two Members To National Cybersecurity Agency Board](https://cioafrica.co/kenya-appoints-two-members-to-national-cybersecurity-agency-board/)** — CIO Africa, 14 September 2026
 
 Kenya's interior minister Kipchumba Murkomen appointed Lorna Omondi Ogolla and Joy Kibor to the board of the new National Cybersecurity Agency for three years, effective 11 September 2026 under Gazette Notice 14420. Ogolla leads Google Research's machine-learning and AI partnerships in Africa; Kibor heads postgraduate ICT studies at Zetech University.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Computer and Cybercrimes Coordination Committee</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[2026-27 Q1 Cyber Security Report - Public Version](https://www.ca.go.ke/sites/default/files/2026-10/Cyber%20Security%20Report%20Q1%202026-2027.pdf)** — Communications Authority of Kenya (National KE-CIRT/CC), 1 October 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 
@@ -1531,6 +1575,20 @@ The Central Bank of Kenya licensed 29 more digital credit providers, bringing th
 **[Safaricom taps Pesapal’s 30,000 POS terminals to take M-PESA contactless](https://techcabal.com/2026/10/01/safaricom-taps-pesapals-30000-pos-terminals-to-take-m-pesa-contactless/)** — TechCabal, 1 October 2026
 
 Safaricom and Pesapal put M-PESA tap-to-pay and QR payment on Pesapal's 30,000 point-of-sale terminals in Kenya, with no extra fee. Safaricom says scan-to-pay is live at more than 60,000 merchant outlets and targets 500,000 within a year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open finance policy and guidance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[International Bank for Reconstruction and Development Grant](https://www.gatesfoundation.org/about/committed-grants/2026/10/inv-110666)** — Gates Foundation, 1 October 2026
+
+US$50,000 over nine months, Oct 2026, for World Bank support to Kenya's open-finance policy and guidance.
 
 </div>
 
@@ -2136,6 +2194,20 @@ Kenya's Konza Technopolis Development Authority has put live a Digital Telematic
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Transformation Centre II programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya and Germany Advance Digital Transformation Partnership Through DTC II](https://techafricanews.com/2026/10/27/kenya-germany-digital-transformation-dtc-ii/)** — TechAfrica News, 27 October 2026
+
+Treasury feedback shapes implementation agreements; tax exemptions unresolved; new GIZ programme director introduced.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -2719,6 +2791,20 @@ The Kenya School of Government launched an eLearning and Information Technology 
 **[Kenya Expands AI Training to Strengthen Public Services and Digital Governance](https://www.jointsdgfund.org/article/kenya-expands-ai-training-strengthen-public-services-and-digital-governance)** — Joint SDG Fund, 23 October 2026
 
 A second Kenyan cohort of the UNESCO-Oxford course on AI and Digital Transformation in Government opened on 21 October 2026, aimed at 9,000 national and county public servants, after 1,239 of the first cohort's 2,730 learners graduated at the Kenya School of Government on 8 October. The course belongs to DigiKen, a Joint SDG Fund programme led by UNESCO with EU and donor funding.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Upskilling Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Varsity Joins Google-Backed Initiative to Shape Africa’s AI Future](https://sces.strathmore.edu/varsity-joins-google-backed-initiative-to-shape-africas-ai-future/)** — Strathmore University, School of Computing and Engineering Sciences, 27 October 2026
+
+One of six Kenyan universities; 30 across four countries by 2028; first educator workshop 12-16 Oct 2026.
 
 </div>
 
