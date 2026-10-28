@@ -132,7 +132,7 @@ Egypt's Law 15/2004 on e-signatures is in force and has executive regulations, p
 
 ### Ethiopia: 4 Operating
 
-Ethiopia's e-signature Proclamation 1072/2017 is in force and its regulation was approved by the Council of Ministers in 2025; no source found reports publication and use.
+Ethiopia's e-signature Proclamation 1072/2017 is in force and its regulation was approved by the Council of Ministers in 2025; no source reports publication and use.
 
 - The Council of Ministers unanimously approved the Electronic Signature regulation under Proclamation No. 1072/2017, to take effect on publication in the Federal Negarit Gazette; the report does not say it has been published ([source, 2025-11-29](https://www.ena.et/web/eng/w/eng_7816242)).
 - ENA reported that the draft Electronic Signature regulation is a step toward fully operationalizing Proclamation No. 1072/2017 (and its amendment), the existing electronic signature law ([source, 2025-11-29](https://www.ena.et/web/eng/w/eng_7816242)).
@@ -222,7 +222,7 @@ The Central African Republic's regulator lists a 2022 electronic transactions la
 
 ### Chad: 3 Established
 
-Chad has a 2015 law on electronic transactions, and electronic signatures count in finance ministry correspondence from 2026; no source found reports rules under the law.
+Chad has a 2015 law on electronic transactions, and electronic signatures count in finance ministry correspondence from 2026; no source reports rules under the law.
 
 - Article 53 of Loi n° 008/AN/SENAT/2025 (finance law 2026) makes electronic signature compulsory for administrative correspondence in the finance ministry from 1 January 2026 and states it has the same legal value as a handwritten signature ([source, 2026-01-01](https://ecofinances.gouv.td/wp-content/uploads/2026/06/Loi-n008-AN-SENAT-2025-Portant-loi-de-Finances-2026-LF-2026.pdf)).
 - The regulator ARCEP's register of laws lists Loi N°008/PR/2015 on electronic transactions among Chad's laws; the page gives no date of its own, so the date is the law's year, 2015 ([source, 2015](https://arcep.td/lois.html)).
@@ -268,7 +268,7 @@ Libya's 2022 electronic transactions law is in force and covers online sellers; 
 
 ### Madagascar: 3 Established
 
-No source found reports madagascar has had electronic transactions and signature laws since 2014, and a 2025 draft decree on electronic signature to be adopted.
+Madagascar has had electronic transactions and signature laws since 2014, and no source found says a 2025 draft decree on electronic signature has been adopted.
 
 - Decree 2024-1911 of the President (published 2024-11-13) cites law no. 2014-024 of 10 December 2014 on electronic transactions and law no. 2014-025 of 10 December 2014 on electronic signature as the legal basis it is made under, and its Article 10 gives documents signed through a certified electronic signature device the same recognition as paper ([source, 2024-11-13](https://cnlegis.gov.mg/uploads/D2024-1911-VF.pdf)).
 - Newsmada reports that Madagascar has a 2015 law on electronic signatures, which it describes as the legal equivalent of the handwritten signature; the article's date of 2025-09-13 is used for the report, 2015 for the law ([source, 2015](https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/)).

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,law,standing,coverage,in-force,2026-09,NAM-001;NAM-002;NAM-004;NAM-008;NAM-009;NAM-010;NAM-011;NAM-013;NAM-014;NAM-016;NAM-017;NAM-018;NAM-019;NAM-020,,
+NAM,law,standing,coverage,in-force,2026-09,NAM-001;NAM-002;NAM-004;NAM-008;NAM-009;NAM-010;NAM-011;NAM-013;NAM-014;NAM-016;NAM-017;NAM-018;NAM-019;NAM-020;NAM-021,,
 NAM,law,reach,coverage,applied,2026-09,NAM-003;NAM-012,NAM-015=rules;NAM-006=rules;NAM-007=rules;NAM-005=rules,
