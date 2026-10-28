@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-26-gha-ghana-hubs-network-statement-on-the-proposed-national-ai-computing-centre",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ghana Hubs Network statement refers to the National AI Strategy (2025-2035) as the strategy whose implementation the President has committed funds to.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "National AI Strategy (2025-2035)",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "funded",
+   "fact": "The Ghana Hubs Network says the President has committed US$20 million to the short- to medium-term implementation of the National AI Strategy (2025-2035).",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "National AI Strategy (2025-2035)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy (2025-2035)",
+   "country_label": "Ghana",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

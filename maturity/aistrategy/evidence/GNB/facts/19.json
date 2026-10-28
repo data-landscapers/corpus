@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-gnb-guinea-bissau-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Digital Watch Observatory states Guinea-Bissau has no confirmed standalone AI strategy.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

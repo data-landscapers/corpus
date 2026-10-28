@@ -1,16 +1,17 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a national AI strategy, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "unplaced",
+      "standing": "none",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Digital Watch says there is no confirmed standalone AI strategy, but no source says none is being written.",
+      "note": "Digital Watch's statement that no standalone AI strategy is confirmed does not say none is being written, which stage 1 needs, so no stage is set.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

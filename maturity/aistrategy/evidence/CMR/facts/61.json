@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-cmr-cameroon-eyes-ai-led-growth-with-new-digital-economy-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Minister Minette Libom Li Likeng said the government is developing an AI development strategy, with national AI consultations held (Business in Cameroon, relaying Cameroon Tribune).",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "national AI development strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national AI development strategy",
+   "country_label": "Cameroon",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-25-bfa-burkina-intelligence-artificielle-une-feuille-de-route-de-30-milliards",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Burkina Faso's national AI roadmap 2026-2030 was validated on 19 June 2026 after ten months of work, and its official publication is still awaited, according to Dr Yaya Traore of the digital-transition ministry.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "Feuille de route nationale de l'IA 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Feuille de route nationale de l'IA 2026-2030",
+   "country_label": "Feuille de route nationale de l'IA 2026-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry in charge of digital transition",
+   "tiers": ""
+  }
+ ],
+ "note": "No body named for carrying it out (an AI Council is only envisaged) and the FCFA 30 billion budget is projected, not allocated."
+}
