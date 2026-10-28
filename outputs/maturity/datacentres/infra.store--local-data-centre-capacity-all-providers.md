@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that 30 % o
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 18 |
+| 4 Operating | 17 |
 | 3 Established | 15 |
-| 2 Nascent | 13 |
+| 2 Nascent | 14 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 4 |
@@ -106,8 +106,8 @@ Two data centres for hire at Tier III or above in service by 2024.
 
 Two data centres for hire at Tier III or above in service by 2024.
 
-- The French Treasury note says Wingu inaugurated a new Tier 3 data centre at the TO7 technology park in November 2024 ([source, 2024-11](https://www.tresor.economie.gouv.fr/PagesInternationales/Pages/0f39f73e-5050-4335-abba-112c8823fe7d/files/7eec865a-efa2-431e-af9e-961511113d91)).
 - The operator, Wingu.Africa, describes the newly launched T07 Technology Park data centre in Djibouti as a Tier 3 certified data centre; the certifying body is not named ([source, 2024-11-26](https://africa.hyperscalers.news/news/wingu-africa-launches-tier-iii-data-center-in-djibouti/)).
+- Djibouti Telecom's own page, as summarised in the capture's header, describes a Tier-3 data centre (DDC) with colocation, operator-stated rather than certified; the page body shown names the Ras Dika data centre; no opening date, so the page date is used ([source, 2024-07](https://international.djiboutitelecom.dj/)).
 
 ### Ethiopia: 4 Operating
 
@@ -115,13 +115,6 @@ Two data centres for hire at Tier III or above in service by 2026.
 
 - Birr Metrics describes Raxio's carrier-neutral Addis Ababa facility, in operation, as Tier III (stated by the publication, no certification body named); no opening date given, so as_of is the article's publication date (2026-09-16) ([source, 2026-09-16](https://birrmetrics.com/ethiopia-bets-on-hydropower-to-enter-africas-ai-data-centre-race/)).
 - Wingu Africa describes its ICT Park data centre hosting ADDIX as tier III-certified (operator statement; certifying body not named) ([source, 2025-09-04](https://www.wingu.africa/latest-news/transforming-connectivity-ethiopias-first-internet-exchange-hosted-at-wingu-africa)).
-
-### Ghana: 4 Operating
-
-Two data centres for hire at Tier III or above in service by 2026.
-
-- Onix Data Centres says its Accra facility is Tier IV certified by the Uptime Institute ([source, 2026](https://onixdatacentres.com/home/infrastructure/)).
-- The article (2026-06-11) says Onix's Accra facility is certified Tier IV and is Ghana's only Tier IV certified facility; the certifying body and date are not given, so as_of is the article's published month ([source, 2026-06](https://data-landscapers.com/2026/06/11/sovereign-infrastructure/)).
 
 ### Mauritius: 4 Operating
 
@@ -213,6 +206,12 @@ A data centre for hire at Tier III or above in service by 2026; no second one he
 
 - Gabon's digital-economy ministry cites the Nkok Sovereign Tier III Datacenter run by ST Digital as strengthening national hosting capacity; Tier III is stated by the government, with no certifier named and no date, so the date is the article's ([source, 2026-09-03](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/)).
 
+### Ghana: 3 Established
+
+A data centre for hire at Tier III or above in service by 2026; no second one found.
+
+- Onix Data Centres says its Accra facility is Tier IV certified by the Uptime Institute ([source, 2026](https://onixdatacentres.com/home/infrastructure/)).
+
 ### Guinea: 3 Established
 
 A data centre for hire at Tier III or above in service by 2025; no second one held.
@@ -248,12 +247,6 @@ A data centre for hire at Tier III or above in service by 2025; no second one he
 A data centre for hire at Tier III or above in service by 2025; no second one held.
 
 - Paratus states the carrier-neutral Armada Data Center in Windhoek is Tier-III by design (operator statement, no Uptime Institute certification named); the date is the financial year end, the document giving no other ([source, 2025-06-30](https://paratus.africa/docs/Paratus-Annual-Report-2025-online.pdf)).
-
-### Sudan: 3 Established
-
-A data centre for hire at Tier III or above in service by 2024; no second one held.
-
-- Sudatel itself states, on its operator page and with no certification body named, that the Sudatel Data Center (SDC) is a Tier IV data centre with 99.995% availability; the page has no event date, so the 2024-01-01 published date is used ([source, 2024](https://sudani.sd/en/sdc/)).
 
 ### Togo: 3 Established
 
@@ -350,6 +343,13 @@ A data centre for hire in service by 2026, none found at Tier III or above.
 A data centre for hire in service by 2026, none found at Tier III or above.
 
 - Trinity Technologies Limited operates a Tier 2 datacentre in Hai Malakal, Juba, offering colocation and hosting to business customers; the page is undated, so the 2026-08-29 publication date is used ([source, 2026-08-29](https://trinitytechnologies.tech/about.html)).
+
+### Sudan: 2 Nascent
+
+Data centres for hire in service in 2026; the operator of the Tier IV one reported it lost, and none at Tier III is found.
+
+- Sudani's deputy director general says the company restored its core data centre, now fully operational and serving government bodies, private institutions and citizens; the article gives no date of restoration, so as_of is the article date ([source, 2026-01-07](https://newsaf.cgtn.com/news/2026-01-07/Port-Sudan-emerges-as-Sudan-s-digital-lifeline-amid-conflict-1JJT8b4Ofeg/p.html)).
+- Sudani's deputy director general says the company lost its Tier-4 data centre that hosted state government and institutions, along with other assets, in damage exceeding USD 70 million; no date of loss is given, so as_of is the article date ([source, 2026-01-07](https://newsaf.cgtn.com/news/2026-01-07/Port-Sudan-emerges-as-Sudan-s-digital-lifeline-amid-conflict-1JJT8b4Ofeg/p.html)).
 
 ### Central African Republic: No evidence
 

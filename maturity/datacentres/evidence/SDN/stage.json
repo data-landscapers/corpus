@@ -1,16 +1,17 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "datacentre",
-   "stage": "3",
-   "centre": "tier3",
-   "cloud": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-007",
-   "gaps": "No source found names a second data centre for hire at Tier III or above.",
-   "note": "Counted from the four questions by study-ladder-datacentres.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "datacentre",
+      "stage": "2",
+      "centre": "service",
+      "cloud": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-002;SDN-003",
+      "gaps": "No source found says a data centre for hire in service in the country today is Tier III or above.",
+      "note": "Rebuild 2026-10-28: the only Tier rung rests on an undated Sudatel page (SDN-007), and Sudani, its operator, said in January 2026 it lost its Tier-4 data centre (SDN-003). Its restored core data centre and the Khartoum State centre carry no tier, so stage 2, by judgement.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

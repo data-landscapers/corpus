@@ -16,3 +16,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TGO,infra.store--local-data-centre-capacity-all-providers,fact,3,3,TGO-002,Arrivals added TGO-017; stage unchanged.
 2026-10-17,TUN,infra.store--local-data-centre-capacity-all-providers,fact,4,4,TUN-003;TUN-005,Arrivals added TUN-024; stage unchanged.
 2026-10-18,DJI,infra.store--local-data-centre-capacity-all-providers,fact,4,4,DJI-017;DJI-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-28,GHA,infra.store--local-data-centre-capacity-all-providers,review,4,3,GHA-027,"Rebuild: GHA-027 and GHA-024 both name Onix Accra, one Tier IV facility; no second Tier III facility for hire, so 4 -> 3."
+2026-10-28,DJI,infra.store--local-data-centre-capacity-all-providers,review,4,4,DJI-005;DJI-011,"Rebuild: DJI-017 duplicates Wingu TO7 (DJI-005); second Tier III is Djibouti Telecom DDC (DJI-011); stage 4 holds, sources corrected."
+2026-10-28,SDN,infra.store--local-data-centre-capacity-all-providers,review,3,2,SDN-002;SDN-003,"Rebuild: the Tier IV rests on an undated Sudatel page; Sudani said in January 2026 it lost its Tier-4 data centre; restored centres carry no tier, so 3 -> 2 by judgement."

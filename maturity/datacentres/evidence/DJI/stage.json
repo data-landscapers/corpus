@@ -8,10 +8,10 @@
       "cloud": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DJI-017;DJI-005",
+      "stage_sources": "DJI-005;DJI-011",
       "gaps": "No source found says a global cloud provider sells its services from a cloud region in the country.",
-      "note": "Counted from the four questions by study-ladder-datacentres.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-10-28: DJI-017 and DJI-005 both name Wingu's TO7 data centre, one facility; the second at Tier III is Djibouti Telecom's Ras Dika DDC (DJI-011). Stage 4 holds; no cloud region is stated.",
+      "as_at": "2026-10-28"
     }
   ]
 }
