@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: DJI
-ledger_rows: 19
+ledger_rows: 21
 not_held: 11
-record: 72314fbd62dc
+record: d0304fc70794
 ---
 
 # News, Sep – Oct 2026
@@ -37,6 +37,8 @@ record: 72314fbd62dc
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 </nav>
 
@@ -51,6 +53,22 @@ record: 72314fbd62dc
 **[Djibouti – 2026 Government work programme: Omar Guelleh sets out his key priorities](https://africa24tv.com/djibouti-2026-government-work-programme-omar-guelleh-sets-out-his-key-priorities/)** — Africa24 TV, 6 September 2026
 
 Djibouti's President Ismaïl Omar Guelleh set the government's 2026 priorities at the Council of Ministers on 1 September 2026, including action on cybersecurity and disinformation. He named digitalised procedures, paperless public services and interoperability between administrations as means of modernising the state, listed the digital economy for diversification and announced a national forum on artificial intelligence.
+
+</div>
+
+</div>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft organic law on finance laws (LOLF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le chef de l’Etat préside les travaux de la 12e séance du Conseil des ministres](https://www.adi.dj/article/139039)** — Agence Djiboutienne d'Information (ADI), 27 October 2026
+
+Draft LOLF in eleven titles; integrated PFM system, e-archiving, digital signature, budget data published online.
 
 </div>
 
@@ -106,6 +124,8 @@ The World Bank Group's private sector diagnostic for Djibouti, released on 13 Se
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -133,6 +153,22 @@ Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial 
 **[Deux projets numériques de 30 millions de dollars passés en revue, avec un appel à accélérer](https://www.adi.dj/public/article/139032)** — ADI Djibouti, 25 October 2026
 
 Djibouti's minister Mohamed Abdoulkader Moussa reviewed two IDA-funded digital projects with the regulator ARMD and the state information systems agency ANSIE and called for faster implementation. The US$10 million DFN project has completed 26 of 35 activities, with nearly 80% of funds committed and 56% disbursed, before it closes on 30 June 2027; the US$20 million EARDIP's cross-border links, twelve 4G sites and fibre loops to Dikhil, Tadjourah and Obock still await approval of commercial, environmental and social studies.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vulnerability alerts issued by DJ-CERT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DJ-CERT - Centre gouvernementale de veille, d'alertes et de réponses aux attaques informatiques (Alertes)](https://cert.gouv.dj/Alertes/)** — DJ-CERT / Autorité Nationale de Cybersécurité, 21 October 2026
+
+DJ-CERT advisory register: 511 vulnerability alerts with severity ratings, January 2023 to October 2026.
 
 </div>
 
