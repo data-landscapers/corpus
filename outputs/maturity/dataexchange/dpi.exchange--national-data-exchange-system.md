@@ -23,8 +23,8 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 | 5 Leading | 3 |
 | 4 Operating | 3 |
 | 3 Established | 8 |
-| 2 Nascent | 22 |
-| 1 Absent | 5 |
+| 2 Nascent | 24 |
+| 1 Absent | 3 |
 | Unplaced | 3 |
 | No evidence | 10 |
 
@@ -142,6 +142,13 @@ A government data exchange platform was under way in 2026; none in service is on
 - ANADEN's general procurement notice of 12 March 2026 lists the setting up and operation of an interoperability and data-exchange platform under Component B of project COM-1026, financed entirely by an Islamic Development Bank loan of 5,000,000 Islamic Dinars, with its tender documents still to be prepared by a design and supervision consultant ([source, 2026-03-12](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais)).
 - The AfDB board approved EUR 9.51 million for the Project to Support Digitization of the Comorian Economy, which funds an interoperability and data-exchange platform among other components; no build or service status is given ([source, 2024-10-01](https://www.biometricupdate.com/202410/comoros-to-implement-digital-govt-program-with-10m-afdb-grant)).
 
+### Congo: 2 Nascent
+
+Congo committed in 2026 to an X-Road layer linking five ministries; no platform in service is on record.
+
+- The ministry (MPTEN) says Congo is committing to develop a national digital architecture whose interoperability layer, X-Road, is to link the information systems of the Interior, Justice, Finance, Health and Higher Education ministries, with no stated go-live or connection count; the page has no date, so 2026-09 is its published date ([source, 2026-09](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi)).
+- An adviser to the digital economy minister, in an op-ed, says administrations often work with systems that do not communicate with each other and that the government wants to build a data exchange platform between administrations (date is the document's published date, no event date given) ([source, 2026-07-28](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses)).
+
 ### DR Congo: 2 Nascent
 
 A data warehouse linking the three revenue agencies was being loaded in 2026; no source found says whether it is in service across them.
@@ -258,6 +265,12 @@ A government data exchange platform was under way in 2026; none in service is on
 - The NCRA Director-General said the Ministry of Finance is piloting a national Data Exchange Layer based on Estonia's X-Road; no figures given ([source, 2026-08-05](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/)).
 - The Ministry of Finance's 20 May 2026 expression-of-interest notice requires the rollout firm to ensure data exchange between MOPTAX and CGMRS and integration with the Government Service Bus, and refers to emerging national interoperability standards including the GSB ([source, 2026-05-20](https://mof.gov.sl/wp-content/uploads/2026/05/REoI-for-Tax-System_RUSLP.pdf)).
 
+### Somalia: 2 Nascent
+
+Somalia's 2026 finance strategy plans a central data exchange platform; none is built or in service.
+
+- The Ministry of Finance's PFM Reform Strategy 2026-2030 lists developing a central data exchange platform as a priority measure, with piloting and rollout phased after working-group and data-standards stages, and says lack of interoperability between PFM IT systems limits consolidation of financial information ([source, 2026-03-31](https://mof.gov.so/sites/default/files/Publications/Somalia%20Public%20Financial%20Management%20Reform%20Strategy%20-%20March%2031.pdf)).
+
 ### South Africa: 2 Nascent
 
 A government data exchange platform was under way in 2026; none in service is on record.
@@ -284,12 +297,6 @@ A 2026 source says government systems have no data exchange platform.
 
 - Participants at the Cameroon Internet Governance Forum 2026 stressed the urgent need to establish a national interoperability infrastructure, and the posts and telecommunications minister said the country must move beyond isolated platforms ([source, 2026-08](https://www.biometricupdate.com/202608/cameroon-eyes-national-interoperability-infrastructure-to-drive-digital-govt)).
 
-### Congo: 1 Absent
-
-A 2026 source says government systems do not communicate; a planned exchange platform is not yet procured or built.
-
-- An adviser to the digital economy minister, in an op-ed, says administrations often work with systems that do not communicate with each other and that the government wants to build a data exchange platform between administrations (date is the document's published date, no event date given) ([source, 2026-07-28](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses)).
-
 ### Gambia: 1 Absent
 
 A 2025 source says government systems have no data exchange platform.
@@ -301,13 +308,6 @@ A 2025 source says government systems have no data exchange platform.
 A 2026 source says government systems have no data exchange platform.
 
 - The World Bank project information document says the lack of an interoperability layer in Seychelles sustains manual processing of government services ([source, 2026-10-07](http://documents.worldbank.org/curated/en/099100726053521931)).
-
-### Somalia: 1 Absent
-
-A 2026 source says government systems have no data exchange platform.
-
-- The Ministry of Finance's PFM Reform Strategy 2026-2030 lists developing a central data exchange platform as a priority measure, with piloting and rollout phased after working-group and data-standards stages, and says lack of interoperability between PFM IT systems limits consolidation of financial information ([source, 2026-03-31](https://mof.gov.so/sites/default/files/Publications/Somalia%20Public%20Financial%20Management%20Reform%20Strategy%20-%20March%2031.pdf)).
-- GovStack states that an interoperability platform has not yet been developed in Somalia and all agencies have their own systems ([source, 2024-09-29](https://govstack.global/showcase/digital-leaders-spotlight-rwanda/)).
 
 ### Burundi: Unplaced
 

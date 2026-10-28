@@ -67,3 +67,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-28,ZAF,dpi.exchange--national-data-exchange-system,review,2,2,ZAF-008;ZAF-009,"Rebuild: MzansiXchange is a pilot, testing exchanges between four bodies and still largely piloting in October 2026. SARS's single-window link to the border agency is in phased testing, so neither is in service."
 2026-10-28,ZMB,dpi.exchange--national-data-exchange-system,review,4,4,ZMB-010;ZMB-018,"Rebuild: the Accountant General counts more than 400 government services on the Government Service Bus in July 2026, a count of services the ladder accepts. Revenue collected through it is not a count of exchanges (corrections.csv), so no use figure is held."
 2026-10-28,ZWE,dpi.exchange--national-data-exchange-system,review,2,2,ZWE-001,Rebuild: the ICT minister said in May 2026 that a Government Service Bus is being implemented. Nothing says it is live.
+2026-10-28,COG,dpi.exchange--national-data-exchange-system,ladder,1,2,COG-001;COG-002,Bill 2026-10-25: intent reaches stage 2 (method §3.8)
+2026-10-28,SOM,dpi.exchange--national-data-exchange-system,ladder,1,2,SOM-001,Bill 2026-10-25: intent reaches stage 2 (method §3.8)

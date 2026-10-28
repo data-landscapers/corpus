@@ -10,4 +10,4 @@
 
 ***Also on file***. [MOSIP (digital identity layer)](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>). [Mojaloop (national payments switch)](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>). [Data Center National](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>). [Portail e-Citizen](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>). [SIVL (Système informatisé de vérification de la légalité de bois)](<https://www.finances.gouv.cg/fr/articles/le-congo-lance-le-module-fiscalit%C3%A9-du-sivl-pour-renforcer-la-tra%C3%A7abilit%C3%A9-et-la-transparence>).
 
-***Not found***. No source found since October 2023 says a government data exchange platform is procured, being built or piloted.
+***Not found***. No source found since October 2023 says the platform is in service.

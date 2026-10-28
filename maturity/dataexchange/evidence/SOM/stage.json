@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "1",
-      "platform": "none",
+      "stage": "2",
+      "platform": "underway",
       "reach": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-001;SOM-002",
-      "gaps": "No source found since October 2023 says a government data exchange platform is under way.",
-      "note": "Rebuild 2026-10-28: the 2026 PFM strategy plans a central data exchange platform and says finance systems do not interoperate, and GovStack said in 2024 that none had been developed. A plan with nothing procured or built does not meet stage 2.",
+      "stage_sources": "SOM-001",
+      "gaps": "No source found since October 2023 says the platform is in service.",
+      "note": "Ruled 2026-10-28 (Bill, 2026-10-25, method §3.8): the 2026 PFM strategy's plan for a central data exchange platform is intent, which reaches stage 2. Nothing says it is built, and GovStack said in 2024 that none had been developed.",
       "as_at": "2026-10-28"
     }
   ]

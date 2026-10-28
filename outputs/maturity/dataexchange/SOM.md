@@ -10,4 +10,4 @@
 
 ***Also on file***. [SFMIS](<https://mof.gov.so/sites/default/files/Publications/Somalia%20Public%20Financial%20Management%20Reform%20Strategy%20-%20March%2031.pdf>); [Somali Business Registration System](<https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/>); [Electronic Tax Administration System](<https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/>); [Road Transport Tax System](<https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/>); [Rental Income Tax System](<https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/>); [E-Visa](<https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/>).
 
-***Not found***. No source found since October 2023 says a government data exchange platform is under way.
+***Not found***. No source found since October 2023 says the platform is in service.

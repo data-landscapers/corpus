@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "1",
-      "platform": "none",
+      "stage": "2",
+      "platform": "underway",
       "reach": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COG-002",
-      "gaps": "No source found says a government data exchange platform is procured, being built or piloted; the ministry's X-Road layer is a commitment.",
-      "note": "Rebuild 2026-10-28, lowered from 2: the ministry's commitment to an X-Road layer is a plan with nothing procured, built or piloted, so it does not meet stage 2 as worded. A July 2026 op-ed by a ministerial adviser says administrations' systems do not communicate and a platform is still to be built.",
+      "stage_sources": "COG-001;COG-002",
+      "gaps": "No source found since October 2023 says the platform is in service.",
+      "note": "Ruled 2026-10-28 (Bill, 2026-10-25, method §3.8): the ministry's commitment to an X-Road layer linking five ministries is intent, which reaches stage 2. Nothing says a platform is built or in service, and a July 2026 op-ed says administrations' systems do not communicate.",
       "as_at": "2026-10-28"
     }
   ]
