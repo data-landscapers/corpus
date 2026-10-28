@@ -1,6 +1,6 @@
 # Authentication: authentication
 
-*As at 2026-10-22.*
+*As at 2026-10-28.*
 
 ## The norm
 
@@ -20,15 +20,22 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 13 |
+| 5 Leading | 14 |
 | 4 Operating | 14 |
-| 3 Established | 10 |
+| 3 Established | 9 |
 | 2 Nascent | 8 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
 | No evidence | 7 |
 
 ## Countries
+
+### Angola: 5 Leading
+
+A state-certified digital ID wallet for proving identity online was approved nationwide in 2026; how many people use it is not known.
+
+- After face-match verification and proof of life, AngolaID users get a digital identity wallet with authentication and QR-code verification, which INFOSI certified for nationwide use ([source, 2026-10](https://pti.ao/infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid/)).
+- INFOSI, Angola's information-society agency, certified and approved Tech by Tech's AngolaID identity verification and authentication platform for use nationwide, available as a free app ([source, 2026-10](https://pti.ao/infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid/)).
 
 ### Cape Verde: 5 Leading
 
@@ -93,7 +100,7 @@ People could prove who they are online with a digital ID in 2026.
 
 ### Nigeria: 5 Leading
 
-In 2026 people used an identity app to prove who they are for SIM, passport, tax and banking; no source found says how many use it.
+In 2026 people used an identity app to prove who they are for SIM, passport, tax and banking; no source says how many use it.
 
 - NIMC says individuals can use NINAuth to verify identity for SIM registration, immigration and passport processing, tax filings and financial transactions, with consent required before data is shared for KYC (published date used) ([source, 2026-09-23](https://nigeriacommunicationsweek.com.ng/2026/09/23/nimc-unveils-consent-based-nin-verification-to-authenticate-identity)).
 - Arise News reports NIMC encourages Nigerians to download the NIN Authentication (NINAuth) app for secure digital verification ([source, 2026-03-04](https://www.arise.tv/nimc-intensifies-ward-level-nin-enrolment-nationwide/)).
@@ -234,12 +241,6 @@ In 2026 one-time-code login on the ID number served public services and banks; n
 
 - The National Identification Agency's deck says OTP authentication on the unique identification number is fully deployed and actively used, including through the digital one-stop portal for public services ([source, 2026](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
 - The deck says ANID serves as identity service provider to banks and financial institutions for e-KYC and to public services, with verification by QR code, remote API, mobile app and USSD ([source, 2026](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
-
-### Angola: 3 Established
-
-An authentication service was in use in 2026; no source found reports use across services.
-
-- Justice Minister Marcy Lopes says the Interior Ministry, prison services and the migration service are integrated with the ID database to confirm citizens' identity and check the validity of the Bilhete de Identidade for passport issuance ([source, 2026-07-01](https://angop.ao/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/)).
 
 ### Botswana: 3 Established
 

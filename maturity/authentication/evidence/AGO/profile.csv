@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,authentication,service,coverage,inservice,2026-07-01,AGO-003;AGO-004,AGO-002=underway;AGO-001=underway;AGO-006=underway;AGO-005=underway,
-AGO,authentication,reach,coverage,,,,,nothing held
-AGO,authentication,remote,coverage,,,,,nothing held
+AGO,authentication,service,coverage,inservice,2026-10,AGO-003;AGO-004;AGO-007,AGO-002=underway;AGO-001=underway;AGO-006=underway;AGO-005=underway,
+AGO,authentication,reach,coverage,,,,,nothing found
+AGO,authentication,remote,coverage,wallet,2026-10,AGO-008,,

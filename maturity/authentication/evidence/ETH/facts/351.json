@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-19-eth-insa-director-general-highlights-key-achievements-in-national-cybersec",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "INSA's Director General says the Public Key Infrastructure was launched and is fully operational and providing services, in the 2024/25 fiscal year.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "Public Key Infrastructure",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Key Infrastructure",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Information Network Security Administration (INSA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

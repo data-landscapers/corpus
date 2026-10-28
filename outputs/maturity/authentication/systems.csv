@@ -10,6 +10,7 @@ AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,20
 AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade
 AGO,ICP-Angola,Angola,authentication,"Cloud do Governo, Camama",INFOSI,,2026-06-03-ago-a-confianca-digital-em-angola-como-a-icp-angola-vai-mudar-o-dia-a-dia
 AGO,plataforma de identidade digital e assinaturas electrónicas,Digital identity and e-signature platform,authentication,,"Executive, under PADA",,2026-10-23-ago-pr-autoriza-mais-70-milhoes-de-dolares-para-a-transformacao-digital-do
+AGO,AngolaID,Angola,authentication,"mobile app (Google Play, App Store)",Tech by Tech (private),certified by INFOSI,2026-10-27-ago-infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid
 BDI,Bank and mobile money account-opening KYC,Burundi,other,,"commercial banks and mobile money operators (Ecocash, Lumicash)",,2025-04-01-uncdf-payment-infrastructure-assessment-burundi
 BDI,National identity card,Burundi,other,non-biometric card,Republic of Burundi,,2025-04-01-uncdf-payment-infrastructure-assessment-burundi
 BDI,SIM card registration (ARCT),Burundi,other,,ARCT,,2026-06-05-ecofin-burundi-identification-cartes-sim-obligatoire
@@ -227,6 +228,7 @@ ETH,Fayda,Ethiopia,authentication,,National ID Ethiopia,,2026-05-01-eth-sovereig
 ETH,Mesob,Ethiopia,other,,,,2026-05-01-eth-sovereign-dpi-in-action-the-evolution-of-fayda
 ETH,National CSCA,Ethiopia,authentication,,INSA,root certificate authority,2025-12-09-eth-launch-ceremony-held-for-the-digital-certificate-service-ensuring-fayd
 ETH,Fayda digital ID,Ethiopia,other,,National ID Program,,2025-12-09-eth-launch-ceremony-held-for-the-digital-certificate-service-ensuring-fayd
+ETH,Public Key Infrastructure,Ethiopia,authentication,,Information Network Security Administration (INSA),,2025-08-19-eth-insa-director-general-highlights-key-achievements-in-national-cybersec
 GAB,Declaration unique des salaires (DUS),Gabon,other,Gabon Connect (built with Ika Technology),"DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,other,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,other,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
@@ -560,6 +562,7 @@ NGA,NINAuth,Nigeria,authentication,mobile app,National Identity Management Commi
 NGA,NINAuth,NINAuth,authentication,,NIMC,,2025-08-04-nga-nigeria-telcos-eligible-to-offer-nin-verification-for-sim-card-service
 NGA,NINAuth,Nigeria,authentication,,NIMC,NIN authentication platform with single sign-on,2025-07-31-nga-nimc-begins-migration-of-telcos-to-ninauth-for-identity-verification
 NGA,NIMC mobile app and portal,Nigeria,authentication,,NIMC,,2026-10-25-nga-nigerians-recount-frustrating-experiences-with-nimc-over-data-correcti
+NGA,IT2 tokenised biometric identity platform (Trust Stamp/BLIP),Nigeria,other,Trust Stamp IT2,BLIP Limited (deployer),,2026-10-27-trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-de
 RWA,Single Digital ID (SDID) authentication system,Rwanda,other,Irembo account and digital wallet,NIDA,,2026-03-26-govt-sets-2027-deadline-digital-id-newtimes
 RWA,SIM card registration (RURA Regulation 18/2024),Rwanda,other,national-ID database,RURA,,2024-08-09 Regulation Governing SIM Card Registration in Rwanda (RURA No.18-2024)
 RWA,Biometric SIM card registration and verification,Rwanda,other,NIDA database,RURA; telecom operators,,"2024-09-17 Rwanda conducts pilot to implement biometric SIM registration, verification"
@@ -764,6 +767,7 @@ UGA,UgPass,UgPass,authentication,DAES platform (UgPass 1.0),NITA-U,,2025-05-01-u
 UGA,e-KYC platform,Uganda,authentication,,,,2024-11-15-uga-dissemination-of-the-electronic-know-your-customer-evaluation-report
 UGA,Online Business Registration System (OBRS),Uganda,other,,Uganda Registration Services Bureau,,2025-09-02-uga-ursb-s-digital-transformation-enhances-service-access-and-transparency
 UGA,National Electronic Signature Platform,Uganda,authentication,,NITA-U,,2026-07-02-uga-familiarisation-visit-highlights-nita-u-s-digital-progress
+UGA,National ID card authentication,Uganda,authentication,,NIRA,,2026-10-27-uga-new-national-ids-to-be-activated-soon-minister-baryomunsi
 ZAF,NPR identity verification service (OVS),South Africa,other,National Population Register,Department of Home Affairs,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
 ZAF,SASSA grant payments,South Africa,other,,SASSA,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
 ZAF,Online Verification System (OVS),South Africa,other,National Population Register,Department of Home Affairs,,2025-06-23-dha-npr-verification-service-pricing-correction
