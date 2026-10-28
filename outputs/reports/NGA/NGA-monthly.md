@@ -3,9 +3,9 @@ title: Nigeria — News, Sep – Oct 2026
 compiled: 2026-10-28
 period: 2026-09-01 to 2026-10-28
 place: NGA
-ledger_rows: 176
+ledger_rows: 178
 not_held: 9
-record: 8112b92b22dc
+record: 248e301078f6
 ---
 
 # News, Sep – Oct 2026
@@ -1991,6 +1991,42 @@ This TechCabal feature asks why tap-to-pay has not caught on in Nigeria although
 **[EBANX Integrates OPay Direct Debit for Global Subscription Payments in Nigeria](https://techafricanews.com/2026/10/26/ebanx-opay-direct-debit-global-subscription-payments-nigeria/)** — Tech Africa News, 26 October 2026
 
 EBANX became the first international payments provider to offer OPay Direct Debit, so global subscription merchants can collect recurring payments from Nigerian consumers through the OPay wallet. OPay claims 40 million monthly active users.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial institutions' readiness for payments data localisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[22 Financial institutions yet to begin data localisation — NITDA survey](https://www.vanguardngr.com/2026/10/22-financial-institutions-yet-to-begin-data-localisation-nitda-survey/)** — Vanguard, 28 October 2026
+
+Self-reported: 59% on track, 34% at risk; only 18% migrating; 64% want 'payment transaction data' defined.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBN warns banks on cybersecurity risks as cloud dependence grows](https://businessday.ng/news/article/cbn-warns-banks-on-cybersecurity-risks-as-cloud-dependence-grows/)** — BusinessDay Nigeria, 28 October 2026
+
+CBN-NITDA dialogue on sovereign cloud; 1 Jan 2027 payment-data deadline; finance sector first to comply.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google Pay contactless card payments</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria](https://techcabal.com/2026/10/28/mastercard-interswitch-launch-google-pay/)** — TechCabal, 28 October 2026
+
+Tokenised NFC tap-to-pay on Android for FirstBank, GTBank, UBA and Zenith Mastercard cards.
 
 </div>
 
