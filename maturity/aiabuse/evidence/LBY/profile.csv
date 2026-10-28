@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBY,aiharm,rule,coverage,draft,2026-06-01,LBY-001,LBY-002=none,
-LBY,aiharm,authority,coverage,,,,,nothing held
-LBY,aiharm,enforced,coverage,,,,,nothing held
+LBY,aiharm,rule,coverage,draft,2026-10-26,LBY-001;LBY-003,LBY-002=none,
+LBY,aiharm,authority,coverage,,,,,nothing found
+LBY,aiharm,enforced,coverage,,,,,nothing found

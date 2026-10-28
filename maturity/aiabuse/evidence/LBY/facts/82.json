@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-26-lby-national-council-for-human-rights-reviews-draft-personal-data-protection-l",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Libya's National Council for Public Freedoms and Human Rights says its draft personal data protection law, referred to the House of Representatives as an initial proposal, includes a chapter on artificial intelligence covering personal data in training and running AI systems, privacy, transparency, accountability and limiting discrimination.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Draft national personal data protection law (AI chapter)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
