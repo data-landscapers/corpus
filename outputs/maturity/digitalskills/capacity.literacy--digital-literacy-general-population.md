@@ -108,7 +108,7 @@ A national digital-skills programme had trained a stated number of people by 202
 
 ### Malawi: 3 Established
 
-Malawi's national digital project had trained over 19,000 people at ten tech hubs by 2024; no source found reports the share of adults with digital skills.
+Malawi's national digital project had trained over 19,000 people at ten tech hubs by 2024; no source reports the share of adults with digital skills.
 
 - The Secretary for Information and Digitalization says 10 tech hubs under the World Bank-funded Digital Malawi Project have taught digital skills to over 19,000 youths, women and elderly people ([source, 2024-08-09](https://digmap.pppc.mw/digital-malawi-project-a-game-changer-for-malawis-digital-transformation/)).
 
@@ -158,7 +158,7 @@ A national digital-skills programme had trained a stated number of people by 202
 
 ### Uganda: 3 Established
 
-The regulator's fund trained over 13,000 women and 11,000 rural people in digital skills by 2026; no source found reports the share of adults with skills.
+The regulator's fund trained over 13,000 women and 11,000 rural people in digital skills by 2026; no source reports the share of adults with skills.
 
 - UCC, through UCUSAF, reports programme records for 2020-2026 of more than 13,000 women and over 11,000 rural community participants trained in digital skills, and more than 5,000 MSMEs ([source, 2026-10-22](https://pmldaily.com/news/2026/10/ugandas-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc.html)).
 

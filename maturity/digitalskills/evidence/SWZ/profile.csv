@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,publicskills,training,coverage,inservice,2026-08-06,SWZ-003;SWZ-007,SWZ-012=underway;SWZ-002=underway;SWZ-004=underway;SWZ-006=underway;SWZ-005=underway;SWZ-008=underway;SWZ-009=underway;SWZ-010=underway;SWZ-001=underway;SWZ-011=underway,
-SWZ,publicskills,measured,coverage,,,,,nothing held
-SWZ,publicskills,half,coverage,,,,,nothing held
+SWZ,publicskills,training,coverage,inservice,2026-08-06,SWZ-003;SWZ-007,SWZ-012=underway;SWZ-002=underway;SWZ-004=underway;SWZ-006=underway;SWZ-005=underway;SWZ-008=underway;SWZ-009=underway;SWZ-010=underway;SWZ-001=underway;SWZ-011=underway;SWZ-013=underway,
+SWZ,publicskills,measured,coverage,,,,,nothing found
+SWZ,publicskills,half,coverage,,,,,nothing found

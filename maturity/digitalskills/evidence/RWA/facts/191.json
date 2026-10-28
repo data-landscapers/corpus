@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-rwa-rwanda-marks-completion-of-smart-education-project-phase-i-and-launche",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Education with the Ministry of ICT and Huawei launched the DigiTruck, a mobile classroom to give free digital skills training to more than 5,000 youth, women and farmers in all 30 districts over three years, part of a goal to train one million citizens.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Rwanda DigiTruck",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
