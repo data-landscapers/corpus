@@ -1,12 +1,12 @@
 ---
 title: Angola: status report
-compiled: 2026-10-26
+compiled: 2026-10-28
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 271
+sources_cited: 272
 sections_written: 39
 not_established: 0
 acquire_lines: 47
@@ -202,7 +202,7 @@ The credential is [biometric, with ten fingerprints, photograph, signature and h
 
 [Only 39.2% of children aged 0-4 had their birth registered in 2024, up from 24.8% in 2014](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf); the 2023-24 demographic and health survey puts it at [38% of children under five registered and 36% holding a birth certificate](https://dhsprogram.com/pubs/pdf/FR396/FR396.pdf). [Most civil registration and identification records are still held in unindexed paper files](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download). [Nascer com Registo, run by three ministries with EU and UNICEF support, places registry posts inside maternity wards so newborns leave registered, and was formally launched at Mbanza Kongo in March 2026](https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/).
 
-[A private firm released its AngolaID wallet in test mode, reported 9 October 2026, a credential created by video liveness check and verifiable by QR code that the company says neither issues nor replaces the state identity card](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/).
+[A private firm released its AngolaID wallet in test mode, reported 9 October 2026, a credential created by video liveness check and verifiable by QR code that the company says neither issues nor replaces the state identity card](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/). In October 2026 the state information-society agency [certified and approved the platform for use nationwide](https://pti.ao/infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid/).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
