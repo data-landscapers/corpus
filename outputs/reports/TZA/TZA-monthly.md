@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: TZA
-ledger_rows: 83
+ledger_rows: 85
 not_held: 5
-record: 7762d1bcf4eb
+record: c9e9127bce89
 ---
 
 # News, Sep – Oct 2026
@@ -423,6 +423,28 @@ Summarised under [New investments](#new-investments).
 **[Tanzania’s TCRA Gives Telecom Providers 30 Days to Fix Infrastructure Faults](https://techafricanews.com/2026/10/14/tanzania-tcra-telecom-providers-30-days-fix-infrastructure-faults/)** — Tech Africa News, 14 October 2026
 
 Tanzania's TCRA gave telecoms providers 30 days to correct faults found in inspections, among them unsafe cabling, damaged poles and unmarked infrastructure. Some providers must file full GIS maps of their networks, and new fibre installations now need the Authority's prior approval.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Paratus point of presence, Dar es Salaam</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paratus connects Tanzania to Africa and beyond with new Dar es Salaam PoP](https://paratus.africa/blog/paratus-connects-tanzania-to-africa-and-beyond-with-new-dar-es-salaam-pop/)** — Paratus Africa, 26 October 2026
+
+Company announcement; PoP live since September 2026; IP transit, Layer 2 and wholesale capacity on K2M routes.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paratus expands its African reach with Tanzania PoP](https://www.connectingafrica.com/fiber-networking/paratus-expands-its-african-reach-with-tanzania-pop)** — Connecting Africa, 27 October 2026
+
+Dar es Salaam PoP at Wingu Data Centre; IP transit and wholesale routes to Nairobi, Maputo, Johannesburg.
 
 </div>
 
@@ -1082,6 +1104,14 @@ Tanzania's National Planning Commission has registered 150 development projects 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania moves to e-Delivery System to ensure its development projects meet Vision 2050 goals - Daily News](https://dailynews.co.tz/tanzania-moves-to-e-delivery-system-to-ensure-its-development-projects-meet-vision-2050-goals/)** — Daily News (Tanzania), 27 October 2026
+
+Deputy minister to Parliament: about 940 officers trained; all ongoing projects to register; public dashboards.
+
+</div>
+
 </div>
 
 ## Technology
@@ -1405,6 +1435,20 @@ Tanzania's Universal Communications Service Access Fund said on 5 October 2026 i
 **[Statistical Abstract 2025](https://www.nbs.go.tz/uploads/statistics/documents/en-1790933026-Statistical%20Abstract%202025.pdf)** — National Bureau of Statistics, 1 September 2026
 
 Tanzania's National Bureau of Statistics published the Statistical Abstract 2025 in September 2026. It is an annual compendium of official tables, largely drawn from ministry administrative records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics bureau memorandum with NM-AIST and UDSM on AI and data innovation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NBS, NM-AIST and UDSM: Turning DIRA 2050 into Action](https://nm-aist.ac.tz/nbs-nm-aist-and-udsm-turning-dira-2050-into-action/)** — Nelson Mandela African Institution of Science and Technology, 27 October 2026
+
+Tripartite MoU on AI, statistical modelling and data innovation; talent, data and computing for DIRA 2050.
 
 </div>
 
