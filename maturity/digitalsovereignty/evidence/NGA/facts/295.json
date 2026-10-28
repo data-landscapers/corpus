@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-nga-ncc-tasks-telcos-defenses-against-ai-cyberattacks",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "NITDA's Director-General said NITDA has issued the National Sovereign Cloud Regulatory Instrument to address issues relating to data, infrastructure, cloud technology and AI.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "National Sovereign Cloud Regulatory Instrument",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

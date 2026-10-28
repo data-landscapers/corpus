@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-mdg-postponement-of-vote-on-cybercrime-and-digital-communications-bills-wh",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Eu SEE (Hivos) says draft Bill 40 (PL-040/2026) defines digital sovereignty as state surveillance and control of critical data and infrastructure; the vote was postponed.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "PL-040/2026 electronic communications bill",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

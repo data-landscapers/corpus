@@ -41,8 +41,8 @@ Government data or a core system was hosted in the country in 2026; contract ter
 
 Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
 
+- The article says the FasoSign keys, certificates and data stay hosted on national territory under the control of Burkinabe engineers ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
 - The government cloud portal run by ANPTIC (Ministry of Digital Transition) states that the G-Cloud infrastructure, with 4 datacenters and 8 cloud nodes, hosts 139 websites and 622 virtual machines and runs government applications (state messaging, gov.bf directory, Oracle business applications such as SIGASPE and E-conseil des ministres); the page is undated, so as_of is its 2026-08-05 capture date ([source, 2026-08-05](https://www.cloud.gov.bf/)).
-- The ABDI executive director said two public-administration datacentres were recently commissioned in Burkina Faso ([source, 2026-07-31](https://lefaso.net/spip.php?article148413)).
 
 ### Cameroon: 4 Operating
 
@@ -113,7 +113,7 @@ Government data or a core system was hosted in the country in 2026; contract ter
 Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
 
 - Elilam reports the national government cloud now hosts state services under full sovereignty, as stated at the digital ministry training opening ([source, 2026-09-28](https://www.elilam.net/index.php/ar/node/16321)).
-- Ecofin Agency reports Mauritania launched its national cloud on 29 June 2026 at the National Data Center in Nouakchott to host government data and digital public services domestically ([source, 2026-06-29](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty)).
+- Minister of Digital Transformation told the National Assembly that all government servers were moved into a data centre the ministry built to international standards ([source, 2026-07-02](https://www.ami.mr/archives/263232)).
 
 ### Mauritius: 4 Operating
 
@@ -153,6 +153,7 @@ Government data or a core system was hosted in the country in 2024; contract ter
 Government data or a core system was hosted in the country in 2025; contract terms on data are not on record.
 
 - President Mnangagwa said the Zimbabwe Centre for High Performance Computing (ZCHPC) national HPC data center at the University of Zimbabwe, run by ZCHPC as custodian of national HPC infrastructure, already hosts the Ministry of Health and Child Care's Impilo Electronic Health Records and Telemedicine platform, and the Civil Registry is integrated with it (date is the commissioning of Phase 2, 2025-08-15, as the article gives no other) ([source, 2025-08-15](https://developzim.co.zw/news/innovation/president-mnangagwa-commissions-phase-2-of-high-performance-computing-project-at-university-of-zimbabwe/3322/)).
+- Government digital platforms including email and ministry websites run on the government's national cloud and data centre infrastructure, with the Government Internet Service Provider hosting ministry websites, according to the ICT Minister ([source, 2025-01-25](https://www.heraldonline.co.zw/govt-to-boost-online-services-with-new-high-tech-data-centre/)).
 
 ### Botswana: 3 Established
 
@@ -222,6 +223,7 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
 
 - Iwacu reports that Burundi's national AI strategy, validated at a workshop in April 2026, provides for modernising the Setic data center, creating data hubs and developing a sovereign cloud ([source, 2026-04](https://www.iwacu-burundi.org/lia-au-coeur-de-la-strategie-numerique-au-burundi/)).
+- The national AI strategy validated on 22 April 2026 provides for developing sovereign cloud solutions alongside data centre modernisation ([source, 2026-04-22](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-une-strategie-nationale-de-l-ia-adossee-a-six-piliers)).
 
 ### Chad: 2 Nascent
 
@@ -234,8 +236,8 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 
 Keeping state data under national control was a stated goal in 2024; a rule in force is not on record.
 
+- Minister Ibrahim Kalil Konate, visiting the national data centre at VITIB Grand-Bassam (CFA 42.361 billion, over 20% built), said it will securely host the State's strategic data as part of the country's digital sovereignty strategy ([source, 2025-12-09](https://www.ivoirematin.com/fr/news/Societe/grand-bassam-ibrahim-kalil-konate-met-la-pression-pour-accelerer-le-chantier-du-data-center-national_n_125095.html)).
 - The national data governance strategy and AI strategy, handed to the Prime Minister on 13 March 2025 and awaiting government adoption, call for data centres and sovereign clouds to host and secure the country's data locally ([source, 2025-03-13](https://www.digitalbusiness.africa/cote-divoire-les-axes-de-la-strategie-nationale-de-l-ia-et-de-la-strategie-nationale-de-la-gouvernance-des-donnees/)).
-- The Ministry of Digital Transition's national data governance strategy SNGD 2030 sets as a principle that all data classified as critical information infrastructure must be processed and stored inside Côte d'Ivoire, by staff at least 20% Ivorian, with a copy kept in the country for law enforcement; the document gives no date of its own, so its published date of 2024-01-01 is used ([source, 2024-01-01](https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf)).
 
 ### Gabon: 2 Nascent
 
@@ -292,6 +294,7 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
 
 - Sudan's Minister of Communications and Digital Transformation says the alternative national data centre project is meant to restore sovereign national infrastructure and secure and protect all government data ([source, 2026-03-16](https://nabdsudan.net/231651)).
+- The Sudanese Cybersecurity Authority launched Sudan's National Root Key for public key infrastructure on 2026-03-12, said initiatives to secure government communications between state institutions would follow, and stressed regulating encryption in government under approved national frameworks ([source, 2026-03-12](https://sca.gov.sd/en/news)).
 
 ### Tunisia: 2 Nascent
 

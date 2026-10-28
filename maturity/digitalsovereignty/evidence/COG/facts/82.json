@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-24-cog-congo-le-nouveau-datacenter-national-livre-d-ici-la-fin-de-l-annee-202",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Sika Finance reports the state's new national data centre in Brazzaville, due by end 2026, is meant to let Congo host, process and secure all its public and civil data on its own territory.",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "Congo national data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Congo national data centre (Brazzaville, Bacongo)",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Congo; contractor Sumec",
+   "tiers": "Tier III-equivalent design target, not in service"
+  }
+ ],
+ "note": ""
+}

@@ -9,7 +9,7 @@
    "terms": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "MRT-003;MRT-001",
+   "stage_sources": "MRT-003;MRT-008",
    "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
    "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
   }

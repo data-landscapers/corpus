@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-25-mar-plf-2027-au-maroc-cloud-souverain-et-formation-en-ia",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The PLF 2027 presentation note, published by the Ministry of Economy and Finance, commits the government to store Moroccans' data in a sovereign national cloud in 2027, with the scope of data and timetable still to be set.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "cloud national souverain",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "cloud national souverain",
+   "country_label": "MAR",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

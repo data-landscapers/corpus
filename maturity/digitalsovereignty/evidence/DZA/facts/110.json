@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-23-dza-le-mohammadia-datacenter-obtient-la-certification-tier-iii-design-une",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Maghreb Emergent says the Mohammadia national data centre project is part of the national digital transformation strategy, which focuses on data sovereignty and reducing dependence on foreign infrastructure.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Mohammadia Data Center",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

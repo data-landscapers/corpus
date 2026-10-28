@@ -9,7 +9,7 @@
    "terms": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "ZWE-001",
+   "stage_sources": "ZWE-001;ZWE-006",
    "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
    "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
   }

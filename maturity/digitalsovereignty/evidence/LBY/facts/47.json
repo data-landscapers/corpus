@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-15-lby-cabinet-decision-358-2026-cybersecurity-digital-sovereignty-authority",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Cabinet Decision 358 of 2026 charges the new authority with preparing national digital sovereignty policies, classifying national data, regulating hosting of national data and government cloud, setting controls on transferring data abroad, and supporting a sovereign government cloud.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "National Authority for Cybersecurity and Digital Sovereignty",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

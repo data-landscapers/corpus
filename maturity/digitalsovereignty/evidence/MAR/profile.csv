@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,sovereignty,rule,coverage,inservice,2025-06-09,MAR-001;MAR-002,MAR-004=underway;MAR-005=underway;MAR-006=underway;MAR-007=underway,
-MAR,sovereignty,hosted,coverage,,,,,nothing held
-MAR,sovereignty,terms,coverage,,,,,nothing held
+MAR,sovereignty,rule,coverage,inservice,2025-06-09,MAR-001;MAR-002,MAR-009=underway;MAR-010=underway;MAR-008=underway;MAR-004=underway;MAR-005=underway;MAR-006=underway;MAR-007=underway,
+MAR,sovereignty,hosted,coverage,,,,,nothing found
+MAR,sovereignty,terms,coverage,,,,,nothing found

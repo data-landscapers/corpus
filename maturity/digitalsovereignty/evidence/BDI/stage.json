@@ -9,7 +9,7 @@
    "terms": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "BDI-001",
+   "stage_sources": "BDI-001;BDI-002",
    "gaps": "No source found since October 2023 says: is a rule on state data in force.",
    "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
   }

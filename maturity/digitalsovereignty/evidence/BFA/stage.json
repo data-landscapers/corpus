@@ -9,7 +9,7 @@
    "terms": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "BFA-003;BFA-006",
+   "stage_sources": "BFA-010;BFA-003",
    "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
    "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
   }

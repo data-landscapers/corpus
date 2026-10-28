@@ -1,11 +1,11 @@
 iso3,stage,rule,hosted,terms,stage_sources
-AGO,2,underway,,,AGO-002;AGO-003
-BDI,2,underway,,,BDI-001
+AGO,2,underway,,,AGO-002;AGO-004
+BDI,2,underway,,,BDI-001;BDI-002
 BEN,2,underway,,,BEN-002;BEN-001
-BFA,4,inservice,national,,BFA-003;BFA-006
+BFA,4,inservice,national,,BFA-010;BFA-003
 BWA,3,inservice,,,BWA-001
 CAF,1,none,,,CAF-001
-CIV,2,underway,,,CIV-002;CIV-001
+CIV,2,underway,,,CIV-003;CIV-002
 CMR,4,inservice,national,,CMR-001
 COD,4,inservice,national,,COD-002
 COG,4,inservice,national,,COG-006
@@ -27,17 +27,17 @@ LBR,no evidence,,,,
 LBY,3,inservice,,,LBY-001
 LSO,no evidence,,,,
 MAR,3,inservice,,,MAR-002
-MDG,2,underway,,,MDG-001
+MDG,2,underway,,,MDG-002;MDG-001
 MLI,2,underway,,,MLI-003
 MOZ,3,inservice,,,MOZ-001
-MRT,4,inservice,national,,MRT-003;MRT-001
+MRT,4,inservice,national,,MRT-003;MRT-008
 MUS,4,inservice,national,,MUS-001
 MWI,4,inservice,national,,MWI-005;MWI-004
 NAM,2,underway,,,NAM-002
 NER,2,underway,,,NER-001
 NGA,4,inservice,national,,NGA-024
 RWA,3,inservice,,,RWA-001
-SDN,2,underway,,,SDN-003
+SDN,2,underway,,,SDN-003;SDN-004
 SEN,2,underway,,,SEN-002;SEN-003
 SLE,4,inservice,national,,SLE-002
 SOM,2,underway,,,SOM-001
@@ -47,9 +47,9 @@ SWZ,4,inservice,national,,SWZ-001
 SYC,no evidence,,,,
 TCD,2,underway,,,TCD-002;TCD-003
 TGO,no evidence,,,,
-TUN,unplaced,,,,
+TUN,2,underway,,,TUN-002
 TZA,3,inservice,,,TZA-002;TZA-001
 UGA,4,inservice,national,,UGA-002;UGA-001
 ZAF,4,inservice,national,,ZAF-002
 ZMB,unplaced,,,,
-ZWE,4,inservice,national,,ZWE-001
+ZWE,4,inservice,national,,ZWE-001;ZWE-006
