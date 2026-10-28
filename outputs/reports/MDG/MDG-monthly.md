@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: MDG
 ledger_rows: 38
 not_held: 5
-record: 1eba5078f2d1
+record: 2513ef27ed9c
 ---
 
 # News, Sep – Oct 2026
@@ -167,6 +167,14 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[Madagascar Has 80% 4G Coverage, Yet Mobile Internet Remains Out of Reach for Most](https://www.ecofinagency.com/news/0210-59411-madagascar-has-80-4g-coverage-yet-mobile-internet-remains-out-of-reach-for-most)** — Ecofin Agency, 2 October 2026
 
 Madagascar's bill on electronic communications and digital infrastructure, submitted on 28 August, still waits for examination by the National Assembly. The article sets it against a market where 4G covers about 80 per cent of the population while mobile internet use stays low.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ACCÈS À INTERNET - Une nouvelle législation en faveur des investissements](https://www.lexpress.mg/2026/10/acces-internet-une-nouvelle-legislation.html)** — L'Express de Madagascar, 27 October 2026
+
+Vote adjourned last session; art. 111 freezes operators' tax and legal regime for licence term; 6% of GDP target by 2028.
 
 </div>
 
