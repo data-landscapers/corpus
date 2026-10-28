@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-egy-planning-finance-nib-electronic-link",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Planning Minister Ahmed Rostom told the Senate that an integrated electronic link between the Ministries of Planning and Finance and the National Investment Bank was activated over the past four months.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Integrated electronic link (Planning, Finance, National Investment Bank)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated electronic link (Planning, Finance, National Investment Bank)",
+   "country_label": "Egypt",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
