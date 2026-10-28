@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: MWI
-ledger_rows: 50
+ledger_rows: 54
 not_held: 31
-record: f0e455633eda
+record: c95b356fb234
 ---
 
 # News, Sep – Oct 2026
@@ -57,6 +57,42 @@ record: f0e455633eda
 **[Digital Malawi Acceleration Project (DMAP, P505095) Implementation Support Mission Aide-Memoire](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf)** — World Bank, 4 September 2026
 
 A World Bank mission to the Digital Malawi Acceleration Project, from 31 August to 4 September 2026, found 32.3% of funds disbursed and 62 contracts worth USD 28.3 million signed. The 100 rural cell towers were due to go to bidders by the end of September, and the mission warned that Phase 2 funds, which the finance ministry asked to be released on 31 August, are unlikely before July 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cyber Crimes and E-Evidence Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Malawi pushes tough new laws to track, expose and jail online scammers | Nyasa Times](https://www.nyasatimes.com/malawi-pushes-tough-new-laws-to-track-expose-and-jail-online-scammers/)** — Nyasa Times, 27 October 2026
+
+Bill targeted for Feb-Apr 2027 budget session; tracing bank accounts behind fraud; AI-linked threats in scope.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister Chipungu reveals hackers targeted Malawi’s land database | Nyasa Times](https://www.nyasatimes.com/minister-chipungu-reveals-hackers-targeted-malawis-land-database/)** — Nyasa Times, 27 October 2026
+
+Breach two weeks before disclosure; title deeds allegedly sold; scale undisclosed; five cyber laws up for review.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity Bill</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Minister Chipungu reveals hackers targeted Malawi’s land database | Nyasa Times](https://www.nyasatimes.com/minister-chipungu-reveals-hackers-targeted-malawis-land-database/)** — Nyasa Times, 27 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
@@ -416,6 +452,20 @@ Malawi's communications regulator, MACRA, said prisoners are behind up to 90% of
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Transactions and Cyber Security Act 2016 and its enforcement record</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Minister Chipungu reveals hackers targeted Malawi’s land database | Nyasa Times](https://www.nyasatimes.com/minister-chipungu-reveals-hackers-targeted-malawis-land-database/)** — Nyasa Times, 27 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -697,6 +747,20 @@ A cash-transfer organisation working in Malawi since 2019 expanded after a US$15
 **[Malawi tobacco farmers face days in the cold amid registration chaos | Nyasa Times](https://www.nyasatimes.com/malawi-tobacco-farmers-face-days-in-the-cold-amid-registration-chaos/)** — Nyasa Times, 29 September 2026
 
 Registration of Malawi's tobacco growers under the new biometric Know Your Grower system, run by the Tobacco Commission with TAMA Farmers Trust, broke down at centres in Lilongwe, Ntcheu and Rumphi, reported on 29 September 2026. Devices failed to sync with the central server and scanners failed to read elderly farmers' fingerprints, leaving farmers camped for days. Unregistered growers get no quota, inputs or auction access.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Land Information Management System</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Minister Chipungu reveals hackers targeted Malawi’s land database | Nyasa Times](https://www.nyasatimes.com/minister-chipungu-reveals-hackers-targeted-malawis-land-database/)** — Nyasa Times, 27 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
