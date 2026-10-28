@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: GAB
-ledger_rows: 62
+ledger_rows: 64
 not_held: 13
-record: 0689e91adc30
+record: 381c6bc95e39
 ---
 
 # News, Sep – Oct 2026
@@ -218,6 +218,28 @@ A delegation from Gabon's digital infrastructure agency, ANINF, attended the Cou
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Host-country agreement for the AU Specialised Technical Committee on Communication and ICT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Union Opens 6th Session of Specialized Technical Committee on Communication and ICT](http://www.au.int/en/pressreleases/20261027/au-opens-6th-session-specialized-technical-committee-communication-and-ict)** — African Union Commission, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Ghana chairs new bureau, Kenya and Gabon vice-chairs, Lesotho rapporteur; North Africa seat unconfirmed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon and African Union Sign Host Country Agreement on Digital Cooperation](https://techafricanews.com/2026/10/27/gabon-african-union-host-country-agreement-digital-cooperation/)** — Tech Africa News, 27 October 2026
+
+Libreville to host AU STC on Communication and ICT; signed by Minister Doumba and Commissioner Mataboge.
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -411,6 +433,14 @@ Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have 
 **[Numérique : une 'Gabon Digital Week' au coeur de l'innovation](https://www.union.sonapresse.com/fr/numerique-une-gabon-digital-week-au-coeur-de-linnovation)** — L'Union - Sonapresse, 24 October 2026
 
 Gabon's digital economy ministry announced a Gabon Digital Week at the Palais des Congrès in Libreville from 26 to 30 October 2026, under the president's patronage. The programme includes a government seminar on the national digitalisation strategy, presentation of the Gabon Digital programme, the official start of a 5G pilot with Moov Africa Gabon Telecom and Airtel Gabon, and an African Union specialised technical committee where some fifteen ministers are to draft a Libreville Declaration ahead of ITU meetings in Doha.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Digital Week : la 5G officiellement lancée](https://agpgabon.ga/gabon-digital-week-la-5g-officiellement-lancee/)** — Agence Gabonaise de Presse (AGP), 26 October 2026
+
+Launch at Gabon Digital Week; ARCEP frequency nod for Airtel and Moov; masts in Libreville and Port-Gentil first.
 
 </div>
 
@@ -773,6 +803,20 @@ A ten-day inter-ministerial workshop at Ntoum is preparing Gabon's national civi
 **[État civil : le Gabon face au défi de la modernisation](https://www.gabonreview.com/etat-civil-le-gabon-face-au-defi-de-la-modernisation/)** — GabonReview, 9 October 2026
 
 The workshop preparing Gabon's national civil-registration conferences closed with a diagnosis of badly kept archives, irregular data entry and a Civil Code dating from 1972. Its final report goes to the Interior minister, who sets the calendar.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fichier unique des participations (state holdings register)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Semaine du numérique : lancement officiel du Fichier unique des participations](https://agpgabon.ga/gabon-semaine-du-numerique-lancement-officiel-du-fichier-unique-des-participations/)** — Agence Gabonaise de Presse (AGP), 26 October 2026
+
+Single register of state-held companies at fup.ga; Direction générale des Participations with digital ministry.
 
 </div>
 
