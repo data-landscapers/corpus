@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-25-fccpc-tribunal-upholds-220m-fine-meta-whatsapp",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The FCCPC says the Nigeria Data Protection Commission jointly investigated Meta and WhatsApp with it for 38 months over privacy practices.",
+   "as_of": "2025-04-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

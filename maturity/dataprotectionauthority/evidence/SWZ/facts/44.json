@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-25-swz-hacking-on-rise-water-services-halts-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "ESCCOM's chief executive says organisations must report breaches involving personal data to the Eswatini Data Protection Authority under Section 17 of the Data Protection Act, 2022.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Eswatini Data Protection Authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

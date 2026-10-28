@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-26-zaf-information-regulator-fines-central-johannesburg-tvet-college-and-firs",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Information Regulator issued a media statement over its chairperson Adv. FDP Tlakula and named full-time and part-time members and a chief executive officer.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The Information Regulator says it imposed administrative fines of R500,000 on Central Johannesburg TVET College for failing to comply with its 22 May 2026 enforcement notice, and R1 million on First National Bank for a section 105 offence under POPIA.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

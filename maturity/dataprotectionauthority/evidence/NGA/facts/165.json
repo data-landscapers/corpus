@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-03-france24-meta-fighting-nigerian-fines-shut-facebook",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "Meta's spokesperson told AFP it disagrees with the NDPC's decision against it on Facebook and Instagram and has appealed.",
+   "as_of": "2025-05-03",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "AFP reports the FCCPC investigated Meta jointly with the NDPC between May 2021 and December 2023.",
+   "as_of": "2025-05-03",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-27-fnb-issued-with-r1m-fine-for-popia-violation",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ITWeb describes the Information Regulator, chaired by Pansy Tlakula, as South Africa's data privacy enforcer issuing enforcement and infringement notices.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "ITWeb reports the Information Regulator issued First National Bank an infringement notice and a R1 million administrative fine for a POPIA section 105 offence over section 19 safeguards.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

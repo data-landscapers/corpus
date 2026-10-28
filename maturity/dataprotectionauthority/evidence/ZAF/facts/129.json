@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-11-techcentral-information-regulator-election-probe-google-x",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Information Regulator, with chair Pansy Tlakula, is reported holding a press briefing and acting on POPIA and PAIA complaints.",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The report says the Information Regulator, after a 2021 investigation, issued an enforcement notice directing WhatsApp to update its privacy policy and conduct a personal information impact assessment under POPIA; the notice's own date is not given.",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

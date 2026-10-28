@@ -2,10 +2,10 @@
 
 ## Supervisory authority
 
-**Named in law and appointed.** [Law No. 2024/017 of 23 December 2024](<https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web>) defines the Autorité as an independent public body in charge of data protection, with supervision, notification and enforcement functions, and states no appointment of its head or members. A [July 2025 commentary](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>) says the Personal Data Protection Authority the law provides for is yet to be established. The Presidency of the Republic also publishes the [English text of the law](<https://prc.cm/en/multimedia/documents/10271-law-n-2024-017-of-23-12-2024-web>).
+**Named in law and appointed.** [Law No. 2024/017 of 23 December 2024](<https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web>) sets up the Autorité as an independent public body in charge of data protection. The law names no head or members. A [July 2025 commentary](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>) says the Authority was yet to be established. In September 2026 the OBS-CC observatory said [it was still not installed, and the decree to put it in place had not been taken](<https://obs-cc.org/suivi-recommandations-fncc/>). The Presidency also publishes the [English text of the law](<https://prc.cm/en/multimedia/documents/10271-law-n-2024-017-of-23-12-2024-web>).
 
-**Rulings and published figures.** The nearest held fact is what the same [law of 23 December 2024](<https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web>) gives the Autorité to do: supervision, notification and enforcement functions. These are powers written into the text of the law, which carries the date 23 December 2024, and they describe what the body may do under that law, in 2024 terms, as stated by the Presidency.
+**Rulings and published figures.** No ruling or published figure is on record, since the Authority has not yet started work. The nearest fact is its mandate. [The law of 23 December 2024](<https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web>) gives it supervision, notification and enforcement powers.
 
 ***Also on file***. None found.
 
-***Not found***. No source found says the authority's head or members have been appointed, and no ruling or published figures have been found.
+***Not found***. No source says the Authority's head or members have been appointed. No ruling or published figure was found.

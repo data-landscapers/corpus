@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-07-bwa-ministry-implements-cybersecurity-strategy",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Minister said the information and data protection commission was established through the data protection act and became operational in October 2021, and the commissioner was appointed in March 2022.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Information and Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-26-zwe-financial-sector-bears-brunt-of-data-breaches-potraz-calls-for-stronge",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "POTRAZ is doing the data protection supervisory job under the Cyber and Data Protection Act: it received 1,123 data controller licence applications in 2026 and executed over 100 search and seizure warrants, per its Deputy Director Evidence Mazhindu.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "POTRAZ",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ",
+   "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling against a named organisation or published count of rulings."
+}

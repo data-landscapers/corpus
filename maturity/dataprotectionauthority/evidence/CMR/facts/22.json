@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-12-cmr-suivi-des-recommandations-du-forum-national-sur-la-cybersecurite-et-la",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The OBS-CC observatory states that law no. 2024/017 of 23 December 2024 institutes the Personal Data Protection Authority (APDP).",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The OBS-CC observatory states that the APDP is not yet installed and that the implementing decree under article 53 has not been taken.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
