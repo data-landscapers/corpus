@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: UGA
-ledger_rows: 76
+ledger_rows: 77
 not_held: 11
-record: cfdba2d69187
+record: 00f75a4a0a60
 ---
 
 # News, Sep – Oct 2026
@@ -30,6 +30,8 @@ record: cfdba2d69187
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -205,6 +207,14 @@ The Uganda Communications Commission said on 20 October 2026 that commercial Wi-
 **[UCC Moves to Tighten Monitoring of Internet Data Resellers](https://nilepost.co.ug/business/380753/ucc-moves-to-tighten-monitoring-of-internet-data-resellers)** — Nile Post, 22 October 2026
 
 The Uganda Communications Commission agreed with mobile operators and licensed internet providers in ISPAU to tighten tracking of data consumption and billing, aimed at unlicensed resellers of bulk connectivity over public Wi-Fi. Eligible resellers are to be brought into licensing through onboarding guidelines, and illegal access points and routers removed; no date or design for the monitoring was given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[KACITA, UCC Agree to Form Committee on Unlicensed Internet Resellers](https://www.nilepost.co.ug/news/381731/kacita-ucc-agree-to-form-committee-on-unlicensed-internet-resellers)** — Nile Post, 26 October 2026
+
+Traders to register for an operator inventory first; UCC chasing ~4,000 resellers, cites Shs148bn yearly tax loss.
 
 </div>
 
@@ -1443,6 +1453,28 @@ Summarised under [Digital divides](#digital-divides).
 **[UBOS partners with Samia Bugwe and Tieng Adhola to improve community data](https://ubc.go.ug/2026/09/06/ubos-partners-with-samia-bugwe-and-tieng-adhola-to-improve-community-data/)** — Uganda Broadcasting Corporation, 6 September 2026
 
 The Uganda Bureau of Statistics signed memoranda of understanding with the Samia Bugwe and Tieng Adhola cultural institutions to collect and share community data, with a focus on births and deaths. The bureau will help the institutions set up statistics units and train staff. No cost or timetable is given.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#china-activities">China activities</a>
+</nav>
+
+### China activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Huawei-supported safe-city surveillance programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[When Smart cities turn menacing](https://www.independent.co.ug/when-smart-cities-turn-menacing/)** — The Independent (Uganda), 25 October 2026
+
+CIPESA's Wakabi on EPSAuto and ITMS; US$2bn+ surveillance spend in 11 countries; procurement transparency asks.
 
 </div>
 
