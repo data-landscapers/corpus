@@ -128,7 +128,7 @@ Guinea-Bissau's one-stop centre took company files online in 2026, with payment 
 
 ### Kenya: 3 Established
 
-Firms could register online in 2026; no source found reports a number shared with tax, and an online register of beneficial owners ran for private companies.
+Firms could register online in 2026; a number shared with tax is not known, and an online register of beneficial owners ran for private companies.
 
 - Kenyans.co.ke reports the Business Registration Service launched its BRS Version II online portal on eCitizen on 16 February 2026 for company changes, and digital downloadable certificates have replaced physical ones ([source, 2026-02-16](https://www.kenyans.co.ke/news/120891-huduma-kenya-clarifies-end-physical-business-certificates-after-ecitizen-integration)).
 - The Business Registration Service says name reservation and business registration are merged into one step, with three preferred names and the full application submitted online ([source, 2026](https://brs.go.ke)).
@@ -166,7 +166,7 @@ Firms could register online in 2025; no source found reports a number shared wit
 
 ### Mozambique: 3 Established
 
-Firms could register online in 2023; no source found reports a number shared with tax, and beneficial-owner filing was required but no source found reports its coverage.
+Firms could register online in 2023; a number shared with tax is not known, and beneficial-owner filing was required but its coverage is not known.
 
 - Kabum Digital reports that Mozambique's registry and notary service (SRN) launched an online platform, utente.srn.gov.mz, where companies can be registered remotely, with payment by M-Pesa or bank ([source, 2023-11-24](https://kabum.digital/mocambique-lanca-plataforma-para-registo-de-empresas/)).
 
@@ -216,7 +216,7 @@ Firms could register online in 2026; no source found reports a number shared wit
 
 ### Tanzania: 3 Established
 
-Firms could register online in 2026; no source found reports a number shared with tax, and beneficial-owner filing was required but no source found reports its coverage.
+Firms could register online in 2026; a number shared with tax is not known, and beneficial-owner filing was required but its coverage is not known.
 
 - BRELA said in a statement that all new applications for company registration, annual returns, information updates and closures are now handled through its upgraded online system, the BRELA Online Service (BOS) ([source, 2026-05-28](https://dailynews.co.tz/brela-rolls-out-an-upgraded-online-system-to-speed-up-company-registration/)).
 - BRELA's service page sets out a 10-step company registration through its online registration system (ORS), with payment by mobile or bank ([source, 2026](https://www.brela.go.tz/services/registration-of-companies)).
