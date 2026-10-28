@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: ZMB
-ledger_rows: 46
-not_held: 34
-record: 9f37eb0b8ca2
+ledger_rows: 48
+not_held: 32
+record: 60d36b0480ef
 ---
 
 # News, Sep – Oct 2026
@@ -240,6 +240,8 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -275,6 +277,22 @@ Zambia's Ministry of Technology and Science told a visiting Hikvision delegation
 **[Airtel invests K324m in 1,300km optic fibre network](https://zambianbusinesstimes.com/airtel-invests-k324m-in-1300km-optic-fibre-network/)** — Zambian Business Times, 21 September 2026
 
 Airtel Zambia is acquiring about 1,300 km of fibre-optic infrastructure from its related company Airtel Telesonic Zambia for K324.9 million, the Zambian Business Times reported on 21 September 2026. The deal is classed as a small related-party transaction, equal to 1.40% of Airtel Zambia's market value.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Computer Incident Response Team</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia : Zambia Takes First SADC Regional Cybersecurity Chair](https://www.lusakatimes.com/2026/10/27/zambia-takes-first-sadc-regional-cybersecurity-chair/)** — Lusaka Times, 27 October 2026
+
+Chair for 2026-2027 taken 17 Sept 2026; SADC regional cyber framework of 2019 now being operationalised.
 
 </div>
 
@@ -549,6 +567,20 @@ A US$650,000 grant from the British High Commission, routed through TradeMark Af
 **[Zambia Advances Customs System Upgrade to Improve Trade Processing](https://www.ecofinagency.com/news-services/2010-59956-zambia-advances-customs-system-upgrade-to-improve-trade-processing)** — Ecofin Agency, 20 October 2026
 
 The Zambia Revenue Authority set out on 19 October 2026 the next steps in moving its customs system from ASYCUDA World to ASY5: system assessments, pilot testing and officer training. The UNCTAD project is backed by a US$650,000 British grant through TradeMark Africa, and no go-live date has been set.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smart Invoicing System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[393 taxpayers owe ZRA K26m in smart invoicing fines - AG](https://diggers.news/business/2026/10/27/393-taxpayers-owe-zra-k26m-in-smart-invoicing-fines-ag/)** — News Diggers, 27 October 2026
+
+Over K26m in e-invoicing fines uncollected at 31 Aug 2026; 2023 VAT e-invoicing rule quoted; partial capture.
 
 </div>
 
