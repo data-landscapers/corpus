@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,csskills,training,coverage,inservice,2026-09,TZA-002;TZA-003,TZA-001=underway;TZA-004=underway,
-TZA,csskills,reach,coverage,,,,,nothing held
-TZA,csskills,share,coverage,,,,,nothing held
+TZA,csskills,training,coverage,inservice,2026-09,TZA-002;TZA-003,TZA-005=underway;TZA-001=underway,
+TZA,csskills,reach,coverage,,,,,nothing found
+TZA,csskills,share,coverage,,,,,nothing found

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-01-swz-esccom-launches-2025-cybersecurity-awareness-month",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Eswatini's National Cybersecurity Agency enrolled 486 citizens, including 100 civil servants, in free online cybersecurity courses in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NCA free online cybersecurity courses",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
