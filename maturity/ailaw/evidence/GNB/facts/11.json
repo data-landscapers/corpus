@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-gnb-guinea-bissau-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Digital Watch Observatory states Guinea-Bissau has no confirmed comprehensive AI law.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
