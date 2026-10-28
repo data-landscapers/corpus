@@ -42,3 +42,4 @@ GMB,003,access,open,removed,"private operators hold stakes in the ACE segment as
 MRT,006,routes,one,removed,"a later source (MRT-001, May 2026) says ACE remains the only route in service, with no fully operational alternative"
 TZA,012,access,open,removed,"Paratus sells IP transit and wholesale capacity at a Dar es Salaam PoP over its own terrestrial routes: not capacity bought at a landing station or on a cable (stage 4c 2026-10-28)"
 TZA,013,access,open,removed,"the same Paratus PoP offer as TZA-012: IP transit and wholesale capacity at a PoP, not at a landing station or on a cable (stage 4c 2026-10-28)"
+SSD,002,routes,one,removed,"a general line on terrestrial links to neighbours, naming no route beyond the Uganda link SSD-001 holds; counted as a second route it would stage two routes on one"
