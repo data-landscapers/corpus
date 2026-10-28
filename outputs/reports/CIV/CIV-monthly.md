@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: CIV
-ledger_rows: 52
+ledger_rows: 54
 not_held: 10
-record: f4082ec38449
+record: 47eb35125ad5
 ---
 
 # News, Sep – Oct 2026
@@ -360,6 +360,34 @@ Côte d'Ivoire's information-systems security agency will run a first national c
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybercrime complaints and losses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybercriminalité en Côte d’Ivoire : plus de 14 700 plaintes et 23 milliards FCFA de pertes en 2025](https://www.ivoirematin.com/fr/news/Economie/cybercriminalite-en-cote-divoire-plus-de-14-700-plaintes-et-23-milliards-fcfa-de-pertes-en-2025_n_126144.html)** — Ivoirematin, 27 October 2026
+
+Mobile-money fraud, extortion, ID theft lead; cyber in 2026-28 digital roadmap of 7 pillars, 40 projects.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National cybercrime report</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Cybercriminalité en Côte d’Ivoire : plus de 14 700 plaintes et 23 milliards FCFA de pertes en 2025](https://www.ivoirematin.com/fr/news/Economie/cybercriminalite-en-cote-divoire-plus-de-14-700-plaintes-et-23-milliards-fcfa-de-pertes-en-2025_n_126144.html)** — Ivoirematin, 27 October 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -543,6 +571,14 @@ Côte d'Ivoire's cadastre director, Bahi Apollinaire Boua, said at the Abidjan l
 **[Côte d’Ivoire : L’ONECI instruit les officiers d’état civil sur la Plateforme digitale de demande et d’obtention en ligne des actes d’état civil](https://digitalmag.ci/cote-divoire-loneci-instruit-les-officiers-detat-civil-sur-la-plateforme-digitale-de-demande-et-dobtention-en-ligne-des-actes-detat-civil/)** — Digital Mag Côte d'Ivoire, 23 October 2026
 
 Côte d'Ivoire's civil registration and identification office, ONECI, is training municipal civil registrars in Yamoussoukro from 22 to 24 October on its new platform for requesting and obtaining birth, marriage and death certificates online. Its director general told registrars the platform does not replace their legal role.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation : Trois outils de modernisation de l’état civil](https://digitalmag.ci/digitalisation-trois-outils-de-modernisation-de-letat-civil/)** — Digital Mag Côte d’Ivoire, 27 October 2026
+
+505 centres archived, 3.8m records digitised in 14; up to 62.5% of CityWeb centres idle; EU, World Bank backing.
 
 </div>
 
