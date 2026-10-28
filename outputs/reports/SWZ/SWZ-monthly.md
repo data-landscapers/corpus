@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: SWZ
-ledger_rows: 43
+ledger_rows: 45
 not_held: 3
-record: 95f553928123
+record: cc23280946f2
 ---
 
 # News, Sep – Oct 2026
@@ -424,6 +424,20 @@ Eswatini's ICT principal secretary, Prince Mashishimba Andreas Dlamini, said on 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ShareSha digital wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ShareSha users can send money to any mobile number](https://times.co.sz/47252/news/sharesha-users-can-send-money-to-any-mobile-number/)** — Times of Eswatini, 27 October 2026
+
+Eswatini Bank wallet works without a bank account; national-ID sign-up by app, USSD *656# or branch.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -751,6 +765,20 @@ About 150 delegates attended a symposium in Manzini, Eswatini, on 2 September 20
 **[FINTECH WORKING GROUP BECOMES FINTECH FORUM ESWATINI](https://eswatinipositivenews.online/fintech-working-group-becomes-fintech-forum-eswatini/)** — Eswatini Positive News, 23 September 2026
 
 The Central Bank of Eswatini's FinTech Working Group became the FinTech Forum Eswatini on 23 September 2026, Governor Phil Mnisi announced at Indaba X Eswatini, opening it to government, academia, industry, innovators and students. A memorandum of understanding to formalise the forum is the next step.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University Innovation Pod (UNIPOD) at the University of Eswatini</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E15 MILLION UNESWA UNIPOD HUB TO DRIVE YOUTH INNOVATION AND JOB CREATION](https://eswatinipositivenews.online/e15-million-uneswa-unipod-hub-to-drive-youth-innovation-and-job-creation/)** — Eswatini Positive News, 24 October 2026
+
+UNDP-funded innovation pod at UNESWA library; ESCCOM pledges US$150,000; announced at 24 Oct 2026 graduation.
 
 </div>
 
