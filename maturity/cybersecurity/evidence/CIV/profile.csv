@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,readiness,foundation,coverage,body,2026-09-15,CIV-001;CIV-003;CIV-004;CIV-005;CIV-006;CIV-007;CIV-008;CIV-009;CIV-011;CIV-012;CIV-013;CIV-015;CIV-016;CIV-017;CIV-018;CIV-019;CIV-021;CIV-023;CIV-025;CIV-026;CIV-028,CIV-029=strategy;CIV-002=strategy;CIV-010=strategy;CIV-014=strategy;CIV-020=strategy;CIV-027=strategy,
-CIV,readiness,response,coverage,,,,,nothing held
+CIV,readiness,foundation,coverage,body,2026-10-27,CIV-001;CIV-003;CIV-004;CIV-005;CIV-006;CIV-007;CIV-008;CIV-009;CIV-011;CIV-012;CIV-013;CIV-015;CIV-016;CIV-017;CIV-018;CIV-019;CIV-021;CIV-023;CIV-025;CIV-026;CIV-028;CIV-030;CIV-031;CIV-033,CIV-029=strategy;CIV-002=strategy;CIV-010=strategy;CIV-014=strategy;CIV-020=strategy;CIV-027=strategy,
+CIV,readiness,response,coverage,responded,2024-02-15,CIV-032,,
 CIV,readiness,cii,coverage,designated,2026-07,CIV-022;CIV-024,,
-CIV,readiness,figures,coverage,,,,,nothing held
+CIV,readiness,figures,coverage,published,2024,CIV-034,,

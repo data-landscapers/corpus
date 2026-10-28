@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-mitci-mauritius-meta-online-safety-cooperation",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The Acting Prime Minister cited figures published by the Mauritius Digital Promotion Agency, based on data from the ICT Authority and CERT-MU, showing reported security incidents rose from 5,221 in 2024 to 6,073 in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "CERT-MU",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT-MU",
+   "country_label": "CERT-MU",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

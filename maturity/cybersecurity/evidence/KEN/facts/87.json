@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-22-ken-multi-agency-committee-formed-to-coordinate-cybersecurity-matters",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Star reports that the National Computer and Cybercrimes Coordination Committee (NC4) has been established under the Computer Misuse and Cybercrimes Act 2018 to coordinate national cybersecurity matters, chaired by the Interior Principal Secretary.",
+   "as_of": "2025-10-22",
+   "date_precision": "day",
+   "system": "National Computer and Cybercrimes Coordination Committee (NC4)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Computer and Cybercrimes Coordination Committee",
+   "country_label": "NC4",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Interior and National Administration (chair)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

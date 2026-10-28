@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-25-swz-hacking-on-rise-water-services-halts-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ESCCOM, which its chief executive calls the National Cybersecurity Agency, launched investigations into ransomware attacks on public entities including the Eswatini Water Services Corporation, after an alert from its threat intelligence tools.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "ESCCOM",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ESCCOM",
+   "country_label": "Eswatini Communications Commission (National Cybersecurity Agency)",
+   "class": "response",
+   "platform": "",
+   "owner": "ESCCOM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

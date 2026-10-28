@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZMB,readiness,foundation,coverage,body,2026-08-27,ZMB-001;ZMB-002;ZMB-003;ZMB-004;ZMB-005;ZMB-006;ZMB-008;ZMB-010,,
-ZMB,readiness,response,coverage,responded,2026-05-08,ZMB-011,,
-ZMB,readiness,cii,coverage,,,,,nothing held
-ZMB,readiness,figures,coverage,,,,,nothing held
+ZMB,readiness,response,coverage,,,,,nothing found
+ZMB,readiness,cii,coverage,,,,,nothing found
+ZMB,readiness,figures,coverage,,,,,nothing found

@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,readiness,foundation,coverage,body,2026-10-12,MAR-002;MAR-005;MAR-006;MAR-007;MAR-008;MAR-009,MAR-010=strategy;MAR-004=strategy;MAR-003=strategy,
-MAR,readiness,response,coverage,responded,2026-06-21,MAR-001,,
-MAR,readiness,cii,coverage,,,,,nothing held
-MAR,readiness,figures,coverage,,,,,nothing held
+MAR,readiness,foundation,coverage,body,2026-10-12,MAR-002;MAR-005;MAR-006;MAR-007;MAR-008;MAR-009;MAR-011,MAR-010=strategy;MAR-004=strategy;MAR-003=strategy,
+MAR,readiness,response,coverage,responded,2026-06-21,MAR-001;MAR-012;MAR-014,,
+MAR,readiness,cii,coverage,,,,,nothing found
+MAR,readiness,figures,coverage,published,2025,MAR-013;MAR-015,,

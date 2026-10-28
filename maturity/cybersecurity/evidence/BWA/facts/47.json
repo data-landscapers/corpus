@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-07-bwa-ministry-implements-cybersecurity-strategy",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Minister Thulagano Segokgo told Parliament Botswana has developed a National Cybersecurity Strategy that is currently being implemented.",
+   "as_of": "2023-12-07",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Minister said the Communications Computer Incident Response Team (Comm CIRT), which watches threats to critical national information infrastructure 24/7, had been converted into a national team.",
+   "as_of": "2023-12-07",
+   "date_precision": "day",
+   "system": "Comm CIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Comm CIRT",
+   "country_label": "Communications Computer Incident Response Team (Comm CIRT)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Communications, Knowledge and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

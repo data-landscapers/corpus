@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-12-mus-cybercriminalite-837-cas-signales-en-deux-ans-mais-aucune-condamnation",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Mauritius's Prime Minister told Parliament that CERT-MU, under the ministry of ICT, runs MAUCORS+, the national platform for reporting cybersecurity incidents and online offences.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "CERT-MU",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MAUCORS+",
+   "country_label": "Mauritian Cybercrime Online Reporting System",
+   "class": "other",
+   "platform": "online reporting platform",
+   "owner": "CERT-MU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

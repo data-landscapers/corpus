@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-02-mus-escroqueries-et-fraudes-en-ligne-plus-de-900-affaires-traitees-en-3-an",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "Le Mauricien reports, citing MAUCORS+ (run by CERT-MU), 47 phishing cases reported in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "MAUCORS+",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MAUCORS+",
+   "country_label": "CERT-MU",
+   "class": "response",
+   "platform": "",
+   "owner": "CERT-MU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

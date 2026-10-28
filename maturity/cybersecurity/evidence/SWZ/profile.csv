@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,readiness,foundation,coverage,body,2026-10-05,SWZ-001;SWZ-002;SWZ-005,SWZ-006=strategy;SWZ-004=strategy,
-SWZ,readiness,response,coverage,,,,,nothing held
-SWZ,readiness,cii,coverage,,,,,nothing held
-SWZ,readiness,figures,coverage,,,,,nothing held
+SWZ,readiness,foundation,coverage,body,2026-10-05,SWZ-001;SWZ-002;SWZ-005;SWZ-007;SWZ-008;SWZ-010,SWZ-006=strategy;SWZ-011=strategy;SWZ-004=strategy,
+SWZ,readiness,response,coverage,responded,2025-07,SWZ-009,,
+SWZ,readiness,cii,coverage,,,,,nothing found
+SWZ,readiness,figures,coverage,,,,,nothing found

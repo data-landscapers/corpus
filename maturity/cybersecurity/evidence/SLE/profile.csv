@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,readiness,foundation,coverage,body,2026-10-24,SLE-001;SLE-002;SLE-004;SLE-006;SLE-007,,
+SLE,readiness,foundation,coverage,body,2026-10-24,SLE-001;SLE-002;SLE-004;SLE-006;SLE-007;SLE-009,,
 SLE,readiness,response,coverage,responded,2026-10-24,SLE-003;SLE-005;SLE-008,,
-SLE,readiness,cii,coverage,,,,,nothing held
-SLE,readiness,figures,coverage,,,,,nothing held
+SLE,readiness,cii,coverage,,,,,nothing found
+SLE,readiness,figures,coverage,,,,,nothing found

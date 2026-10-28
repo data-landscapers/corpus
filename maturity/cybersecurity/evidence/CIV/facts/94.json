@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-31-civ-cybercriminalite-un-marabout-arrete-pour-arnaque-et-chantage-sur-son-a",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Agence nationale de la sécurité des systèmes d'information (ANSSI)",
+   "country_label": "ANSSI",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Plateforme de lutte contre la cybercriminalité (PLCC)",
+   "country_label": "PLCC",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": ""
+  }
+ ],
+ "note": "PLCC investigated and arrested a fraudster; a criminal investigation, not an incident handled or alert issued, and no creation of ANSSI by law stated."
+}

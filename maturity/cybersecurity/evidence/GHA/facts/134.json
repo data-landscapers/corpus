@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-gha-ghana-launches-national-cybersecurity-policy-and-strategy",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The government launched Ghana's revised National Cybersecurity Policy and Strategy at the opening of the 2024 National Cybersecurity Awareness Month, with a five-year horizon and the Cyber Security Authority leading implementation.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "National Cybersecurity Policy and Strategy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

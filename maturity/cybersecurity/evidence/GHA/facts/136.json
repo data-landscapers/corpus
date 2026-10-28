@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-28-gha-online-shopping-scam-black-friday-deals",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "Ghana's Cyber Security Authority issued a public advisory (ref CSA/CERT/MPA/2025-11/01) warning of Black Friday online shopping scams, citing 266 fraud cases recorded January to October 2025.",
+   "as_of": "2025-11-28",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority (CERT-GH)",
+   "country_label": "Cyber Security Authority",
+   "class": "response",
+   "platform": "",
+   "owner": "Cyber Security Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

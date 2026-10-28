@@ -1,18 +1,19 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "2",
-   "foundation": "body",
-   "response": "",
-   "cii": "",
-   "figures": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-003",
-   "gaps": "No source found says the national body handled an incident or issued a public alert since October 2023.",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "4",
+      "foundation": "body",
+      "response": "",
+      "cii": "designated",
+      "figures": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-004;TZA-003",
+      "gaps": "No source found says the national body published a count of incidents for a period ending since September 2024.",
+      "note": "Government Notice 147 of June 2026 designates 25 categories of critical systems, which answers question 3. No count of incidents handled is held.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

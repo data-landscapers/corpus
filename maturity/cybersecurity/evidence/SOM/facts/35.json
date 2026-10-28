@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-som-somalia-opens-fourth-national-cybersecurity-forum-in-mogadishu",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Minister of Communications and Technology highlighted the launch of the Somalia Computer Incident Response Team (SOMCIRT) in March 2026, run by the National Communications Authority.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "SOMCIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SOMCIRT",
+   "country_label": "Somalia Computer Incident Response Team (SOMCIRT)",
+   "class": "response",
+   "platform": "",
+   "owner": "National Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

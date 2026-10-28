@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-03-zaf-government-urges-vigilance-against-rising-cyber-threats",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Department of Communications and Digital Technologies' Deputy Director described the National Cybersecurity Hub as a Computer Security Incident Response Team hosted by the department.",
+   "as_of": "2025-10-03",
+   "date_precision": "day",
+   "system": "National Cybersecurity Hub",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Hub",
+   "country_label": "National Cybersecurity Hub",
+   "class": "response",
+   "platform": "",
+   "owner": "Department of Communications and Digital Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-20-uga-mass-it-outage-crowdstrike-update",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "Uganda's National CERT.UG/CC published an advisory on the global CrowdStrike-related IT outage, with recommendations and a call to report incidents to it.",
+   "as_of": "2024-07-20",
+   "date_precision": "day",
+   "system": "CERT.UG/CC",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT.UG/CC",
+   "country_label": "National CERT.UG/CC",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

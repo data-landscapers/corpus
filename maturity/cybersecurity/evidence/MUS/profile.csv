@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,readiness,foundation,coverage,body,2026-10-10,MUS-001;MUS-002;MUS-003;MUS-004,,
-MUS,readiness,response,coverage,responded,2026-10-22,MUS-005,,
-MUS,readiness,cii,coverage,,,,,nothing held
-MUS,readiness,figures,coverage,,,,,nothing held
+MUS,readiness,foundation,coverage,body,2026-10-10,MUS-001;MUS-002;MUS-003;MUS-004;MUS-008;MUS-009;MUS-011,,
+MUS,readiness,response,coverage,responded,2026-10,MUS-005;MUS-006,,
+MUS,readiness,cii,coverage,,,,,nothing found
+MUS,readiness,figures,coverage,published,2025,MUS-007;MUS-010,,

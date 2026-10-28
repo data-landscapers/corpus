@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-18-nam-namibia-records-a-decline-in-cyber-threat-activities",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "NAM-CSIRT's fourth-quarter 2025 report counts 195,661 cyber events and 535,204 vulnerabilities detected for October to December 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "NAM-CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Regulatory Authority of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

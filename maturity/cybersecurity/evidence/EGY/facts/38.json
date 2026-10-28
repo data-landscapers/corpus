@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-21-egy-supreme-cybersecurity-council-approves-key-controls",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The Cabinet release says the Supreme Council for Cybersecurity launched the National Cybersecurity Strategy 2023-2027, whose projects it discussed at this meeting.",
+   "as_of": "2024-12-21",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy 2023-2027",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Supreme Council for Cybersecurity",
+   "country_label": "Supreme Council for Cybersecurity",
+   "class": "other",
+   "platform": "",
+   "owner": "MCIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

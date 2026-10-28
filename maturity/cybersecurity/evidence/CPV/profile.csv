@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CPV,readiness,foundation,coverage,body,2025-10-31,CPV-001;CPV-002;CPV-003;CPV-004;CPV-005;CPV-006;CPV-007,,
-CPV,readiness,response,coverage,,,,,nothing held
-CPV,readiness,cii,coverage,,,,,nothing held
-CPV,readiness,figures,coverage,,,,,nothing held
+CPV,readiness,response,coverage,,,,,nothing found
+CPV,readiness,cii,coverage,,,,,nothing found
+CPV,readiness,figures,coverage,,,,,nothing found

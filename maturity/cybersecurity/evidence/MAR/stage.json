@@ -1,18 +1,19 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "3",
-   "foundation": "strategy",
-   "response": "responded",
-   "cii": "",
-   "figures": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001;MAR-010",
-   "gaps": "No source found says the country has designated its critical information infrastructure.",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "5",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "",
+      "figures": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-013;MAR-001;MAR-007",
+      "gaps": "",
+      "note": "The DGSSI's counts for 2024 and 2025, given to Parliament, answer question 4. No designation of critical infrastructure is held.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

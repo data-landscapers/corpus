@@ -1,18 +1,19 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "2",
-   "foundation": "body",
-   "response": "",
-   "cii": "",
-   "figures": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-005",
-   "gaps": "No source found says the national body handled an incident or issued a public alert since October 2023.",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "3",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "",
+      "figures": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-009;SDN-005",
+      "gaps": "No source found says the country has designated its critical information infrastructure.",
+      "note": "Sudan-CERT's ransomware warning of 1 November 2025 answers question 2. No designation of critical infrastructure is held.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-15-cmr-strengthening-cameroon-s-cyber-resilience-through-global-cooperation-a",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANTIC's Director General refers to the national CIRT as existing and says its application to join FIRST is ongoing.",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "national CIRT (ANTIC)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national CIRT",
+   "country_label": "national CIRT (ANTIC)",
+   "class": "response",
+   "platform": "",
+   "owner": "ANTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

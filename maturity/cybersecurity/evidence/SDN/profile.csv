@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,readiness,foundation,coverage,body,2026-07-30,SDN-001;SDN-002;SDN-003;SDN-004;SDN-005;SDN-006,,
-SDN,readiness,response,coverage,,,,,nothing held
-SDN,readiness,cii,coverage,,,,,nothing held
-SDN,readiness,figures,coverage,,,,,nothing held
+SDN,readiness,foundation,coverage,body,2026-07-30,SDN-001;SDN-002;SDN-003;SDN-004;SDN-005;SDN-006;SDN-007;SDN-008,,
+SDN,readiness,response,coverage,responded,2025-11-01,SDN-009,,
+SDN,readiness,cii,coverage,,,,,nothing found
+SDN,readiness,figures,coverage,,,,,nothing found

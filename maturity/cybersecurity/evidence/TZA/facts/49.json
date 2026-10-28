@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-19-tza-the-cybercrimes-protection-of-critical-information-infrastructure-orde",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "Government Notice No. 147 of 19 June 2026, made by the Minister for Communication and Information Technology under section 28 of the Cybercrimes Act (Cap. 443), designates 25 categories of computer systems as critical information infrastructure and requires owners to register them with the Ministry and submit quarterly risk assessments.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "The Cybercrimes (Protection of Critical Information Infrastructure) Order, 2026",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

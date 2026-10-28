@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,readiness,foundation,coverage,body,2026-08-20,GIN-001;GIN-003;GIN-004;GIN-005;GIN-006;GIN-007;GIN-008,,
-GIN,readiness,response,coverage,,,,,nothing held
-GIN,readiness,cii,coverage,,,,,nothing held
-GIN,readiness,figures,coverage,,,,,nothing held
+GIN,readiness,foundation,coverage,body,2026-08-20,GIN-001;GIN-003;GIN-004;GIN-005;GIN-006;GIN-007;GIN-008;GIN-009,,
+GIN,readiness,response,coverage,,,,,nothing found
+GIN,readiness,cii,coverage,,,,,nothing found
+GIN,readiness,figures,coverage,,,,,nothing found

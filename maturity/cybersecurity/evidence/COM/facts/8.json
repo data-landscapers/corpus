@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-15-com-presentation-officielle-du-portail-national-de-la-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The National Digital Development Agency (ANADEN) says Law 21-012/AU, promulgated by decree 22/003/PR, names the national agency as the competent cybersecurity authority and sits within a national cybersecurity strategy.",
+   "as_of": "2024-05-15",
+   "date_precision": "day",
+   "system": "ANADEN",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail National de Cybersécurité",
+   "country_label": "ANADEN",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "ANADEN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

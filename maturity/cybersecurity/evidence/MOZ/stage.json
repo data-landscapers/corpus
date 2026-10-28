@@ -1,18 +1,19 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "5",
-   "foundation": "body",
-   "response": "",
-   "cii": "designated",
-   "figures": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-012;MOZ-016;MOZ-004",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "5",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "designated",
+      "figures": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-012;MOZ-019;MOZ-024",
+      "gaps": "",
+      "note": "Stage held: the 2026 figures and Law 13/2026's reporting duty stand. MOZ-002 is removed, naming sectors without designating them; CSIRT alerts now answer question 2.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

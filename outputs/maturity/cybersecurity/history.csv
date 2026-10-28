@@ -23,3 +23,13 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,ZMB,infra.cybersec--national-cybersecurity-readiness,review,3,2,ZMB-008,Rebuild: ZMB-011 removed as ZMB-007 was; an advisory on misleading and AI-made content is not a cyber incident; no other response held
 2026-10-27,CMR,infra.cybersec--national-cybersecurity-readiness,review,3,3,CMR-006;CMR-005,"Rebuild: stage held; CMR-006, ANTIC's on-site ransomware response of March 2026, sets question 2 in place of undated CMR-008"
 2026-10-27,SLE,infra.cybersec--national-cybersecurity-readiness,review,3,3,SLE-008;SLE-001,Rebuild: stage held; NC3's own alerts SLE-008 (October 2026) and SLE-005 (July 2024) set question 2 in place of the regulator's notice SLE-003
+2026-10-28,CIV,infra.cybersec--national-cybersecurity-readiness,fact,4,5,CIV-034;CIV-024;CIV-032,"ANSSI's count of over 12,100 cybercrime cases in 2024 (CIV-034) answers question 4; CI-CERT alerts of early 2024 (CIV-032) answer question 2"
+2026-10-28,CMR,infra.cybersec--national-cybersecurity-readiness,fact,3,5,CMR-012;CMR-008;CMR-005,"ANTIC's count of 17,500 complaints for 2025 (CMR-012) answers question 4"
+2026-10-28,MAR,infra.cybersec--national-cybersecurity-readiness,fact,3,5,MAR-013;MAR-001;MAR-007,DGSSI counts for 2025 (MAR-013) and 2024 (MAR-015) given to Parliament answer question 4
+2026-10-28,MUS,infra.cybersec--national-cybersecurity-readiness,fact,3,5,MUS-007;MUS-005;MUS-004,Reported-incident counts from CERT-MU data for 2024 and 2025 (MUS-007) and MAUCORS+ phishing cases for 2025 (MUS-010) answer question 4
+2026-10-28,SDN,infra.cybersec--national-cybersecurity-readiness,fact,2,3,SDN-009;SDN-005,Sudan-CERT's ransomware warning of 1 November 2025 (SDN-009) answers question 2
+2026-10-28,SWZ,infra.cybersec--national-cybersecurity-readiness,fact,2,3,SWZ-009;SWZ-001,ESCCOM's investigation of ransomware attacks on public bodies in July 2025 (SWZ-009) answers question 2
+2026-10-28,TZA,infra.cybersec--national-cybersecurity-readiness,fact,2,4,TZA-004;TZA-003,Government Notice 147 of 19 June 2026 designating 25 categories of critical systems (TZA-004) answers question 3
+2026-10-28,ZWE,infra.cybersec--national-cybersecurity-readiness,fact,2,3,ZWE-004;ZWE-002,The POTRAZ response team's 2025 incident caseload (ZWE-004) answers question 2
+2026-10-28,MOZ,infra.cybersec--national-cybersecurity-readiness,fact,5,5,MOZ-012;MOZ-019;MOZ-024,"Stage held; MOZ-002 removed (sectors named, no designation), Lei 13/2026 duty (MOZ-019) carries question 3; CSIRT alerts (MOZ-024, MOZ-025) answer question 2"
+2026-10-28,UGA,infra.cybersec--national-cybersecurity-readiness,fact,4,4,UGA-005;UGA-007;UGA-001,Stage held; CERT.UG advisories of July 2025 (UGA-007) and July 2024 (UGA-008) now answer question 2

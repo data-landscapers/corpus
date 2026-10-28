@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-26-zwe-financial-sector-bears-brunt-of-data-breaches-potraz-calls-for-stronge",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Herald reports a POTRAZ Deputy Director for the Computer Incident Response Team (CIRT) and Enforcement, Evidence Mazhindu, presenting for the regulator, so a CIRT exists inside the telecom regulator.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "POTRAZ Computer Incident Response Team (CIRT)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ Computer Incident Response Team (CIRT)",
+   "country_label": "POTRAZ CIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "Breach reports are counted as received by the regulator, not as incidents the CIRT handled or alerts issued; no designation or published figures."
+}

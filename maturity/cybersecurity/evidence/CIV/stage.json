@@ -1,18 +1,19 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "4",
-   "foundation": "body",
-   "response": "",
-   "cii": "designated",
-   "figures": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-024;CIV-025",
-   "gaps": "No source found says the national body published a count of incidents for a period ending since September 2024.",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "5",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "designated",
+      "figures": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-034;CIV-024;CIV-032",
+      "gaps": "",
+      "note": "ANSSI's count of over 12,100 cybercrime cases in 2024 answers question 4. CI-CERT's alerts of early 2024 and the 2021 critical-sector decree answer 2 and 3.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

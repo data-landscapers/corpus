@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-21-lby-lana-ar-nissa-cybersecurity-strategy-interview",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "LANA reports the National Authority for Information Security and Safety was founded in 2013 by government decision to protect Libya's digital infrastructure.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "National Authority for Information Security and Safety (NISSA)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "A NISSA official says the authority launched the national cybersecurity strategy in February 2023.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "National Cybersecurity Strategy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Authority for Information Security and Safety",
+   "country_label": "NISSA",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

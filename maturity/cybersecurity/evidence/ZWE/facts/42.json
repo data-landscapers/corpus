@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-24-zwe-33-of-zimbabwe-crimes-now-cyber-related",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "POTRAZ's Computer Incident Response Team, described as the national hub for detecting and coordinating responses to cyber incidents, handled incident reports in 2025, broken down as fraud 33%, cyberbullying 27%, hacking 17%, smishing 13% and theft 10%, per its Data Protection Officer.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Computer Incident Response Team (CIRT), POTRAZ",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Computer Incident Response Team (CIRT)",
+   "country_label": "POTRAZ CIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "Figures are shares only, no count of incidents or alerts, so not recorded as published figures."
+}

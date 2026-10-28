@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,readiness,foundation,coverage,body,2026-06-23,ZWE-002,ZWE-001=strategy,
-ZWE,readiness,response,coverage,,,,,nothing held
-ZWE,readiness,cii,coverage,,,,,nothing held
-ZWE,readiness,figures,coverage,,,,,nothing held
+ZWE,readiness,foundation,coverage,body,2026-06-23,ZWE-002;ZWE-003;ZWE-005,ZWE-001=strategy;ZWE-006=strategy,
+ZWE,readiness,response,coverage,responded,2025,ZWE-004,,
+ZWE,readiness,cii,coverage,,,,,nothing found
+ZWE,readiness,figures,coverage,,,,,nothing found

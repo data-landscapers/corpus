@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-15-tun-statistiques-relatives-au-cyberespace-tunisien-2025",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "tunCERT published 563 security advisories and reported 557,793 incidents to national stakeholders in 2025, per the ANCS.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "tunCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The ANCS published tunCERT counts for 2025: 563 advisories and 557,793 incidents reported.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "tunCERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "tunCERT",
+   "country_label": "tunCERT",
+   "class": "response",
+   "platform": "",
+   "owner": "ANCS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

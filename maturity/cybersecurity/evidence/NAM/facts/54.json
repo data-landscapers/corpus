@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-25-nam-php-security-flaws-put-namibian-websites-at-risk-the-namibian",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "Nam-CSIRT issued a notice on 22 October 2026 warning of newly disclosed PHP vulnerabilities and advising upgrades or restricted public access.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Nam-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nam-CSIRT",
+   "country_label": "Nam-CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

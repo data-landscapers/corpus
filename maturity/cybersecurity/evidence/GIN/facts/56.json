@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-13-gin-guinee-consultations-sur-la-revision-du-cadre-juridique-de-la-cybersec",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The document says ANSSI, Guinea's national information systems security agency, ran a national consultation workshop in Conakry, and names a director of its Centre d'alerte et de reponse aux attaques informatiques, Fode Kouyate.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI (Agence nationale de securite des systemes d'information)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-15-mar-hackers-have-launched-644-cyberattacks-against-morocco-in-2024",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "Morocco's Minister Delegate for National Defense told Parliament that of 644 cyberattacks recorded by DGSSI in 2024, 134 required a response by maCERT.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "maCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The minister told Parliament DGSSI recorded 644 attacks, issued 1,050 notifications and 575 security bulletins and 16 vulnerability alerts in 2024 to date.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "DGSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "maCERT",
+   "country_label": "maCERT",
+   "class": "response",
+   "platform": "",
+   "owner": "DGSSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

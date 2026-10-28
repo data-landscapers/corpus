@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-uga-spoofing-and-remote-code-execution-chain-vulnerability",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The Uganda National CERT and Coordination Center (CERT.UG/CC) issued a critical advisory on the SharePoint 'ToolShell' spoofing and remote code execution chain, recommending Microsoft's mitigations and upgrades.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "CERT.UG/CC",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT.UG/CC",
+   "country_label": "Uganda National CERT and Coordination Center",
+   "class": "response",
+   "platform": "cert.ug",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

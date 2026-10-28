@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COG,readiness,foundation,coverage,body,2026-07-28,COG-001;COG-002;COG-003;COG-004;COG-005;COG-006;COG-007;COG-008;COG-009;COG-010;COG-011;COG-012,,
-COG,readiness,response,coverage,,,,,nothing held
-COG,readiness,cii,coverage,,,,,nothing held
-COG,readiness,figures,coverage,,,,,nothing held
+COG,readiness,foundation,coverage,body,2026-07-28,COG-001;COG-002;COG-003;COG-004;COG-005;COG-006;COG-007;COG-008;COG-009;COG-010;COG-011;COG-012;COG-013,,
+COG,readiness,response,coverage,,,,,nothing found
+COG,readiness,cii,coverage,,,,,nothing found
+COG,readiness,figures,coverage,,,,,nothing found

@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,readiness,foundation,coverage,body,2026-09-14,TGO-002;TGO-003;TGO-005;TGO-006;TGO-008;TGO-009;TGO-010;TGO-011;TGO-013;TGO-016;TGO-019;TGO-020;TGO-021,TGO-007=strategy;TGO-001=strategy,
-TGO,readiness,response,coverage,responded,2026-08-20,TGO-004;TGO-012;TGO-015;TGO-018,,
-TGO,readiness,cii,coverage,,,,,nothing held
+TGO,readiness,foundation,coverage,body,2026-09-14,TGO-002;TGO-003;TGO-005;TGO-006;TGO-008;TGO-009;TGO-010;TGO-011;TGO-013;TGO-016;TGO-019;TGO-020;TGO-021,TGO-007=strategy;TGO-001=strategy;TGO-022=strategy,
+TGO,readiness,response,coverage,responded,2026-08-20,TGO-004;TGO-012;TGO-015;TGO-018;TGO-023;TGO-024,,
+TGO,readiness,cii,coverage,,,,,nothing found
 TGO,readiness,figures,coverage,published,2024-12,TGO-014;TGO-017,,

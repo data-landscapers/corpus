@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,readiness,foundation,coverage,body,2024-04,MRT-003;MRT-005,MRT-001=strategy;MRT-004=strategy;MRT-002=strategy,
-MRT,readiness,response,coverage,,,,,nothing held
-MRT,readiness,cii,coverage,,,,,nothing held
-MRT,readiness,figures,coverage,,,,,nothing held
+MRT,readiness,foundation,coverage,body,2024-04,MRT-003;MRT-005;MRT-006,MRT-001=strategy;MRT-004=strategy;MRT-002=strategy;MRT-007=strategy,
+MRT,readiness,response,coverage,,,,,nothing found
+MRT,readiness,cii,coverage,,,,,nothing found
+MRT,readiness,figures,coverage,,,,,nothing found

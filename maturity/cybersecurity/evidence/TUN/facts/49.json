@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-20-tun-statistiques-relatives-au-cyberespace-tunisien-1er-semestre-2026",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "tunCERT published 336 security advisories and reported 657,540 incidents to national stakeholders in the first half of 2026, per the ANCS.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "tunCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The ANCS published tunCERT counts for the first half of 2026: 336 advisories and 657,540 incidents reported.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "tunCERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "tunCERT",
+   "country_label": "tunCERT",
+   "class": "response",
+   "platform": "",
+   "owner": "ANCS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

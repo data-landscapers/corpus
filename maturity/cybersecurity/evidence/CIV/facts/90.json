@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-civ-cybercriminalite-en-cote-divoire-plus-de-14-700-plaintes-et-23-milliar",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Cote d'Ivoire's national information systems security agency (ANSSI) is cited by the digital minister as the source of 2025 cybercrime complaint data, and the government names it as the national agency in its Cybersecurity Month statement.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de la securite des systemes d'information (ANSSI)",
+   "country_label": "ANSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": "Complaint counts (14,700 in 2025) are not incidents handled or alerts issued; CYBER.EX is an exercise."
+}

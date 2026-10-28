@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-nam-namibia-cyber-security-incident-response-team-rfc-2350",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "NAM-CSIRT was established under a Namibian government policy decision of 23 November 2023 and is housed at the Communications Regulatory Authority of Namibia.",
+   "as_of": "2023-11-23",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "NAM-CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Regulatory Authority of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

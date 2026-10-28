@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,readiness,foundation,coverage,body,2026-09-24,LSO-001;LSO-003;LSO-004;LSO-005;LSO-006,LSO-002=none,
-LSO,readiness,response,coverage,,,,,nothing held
-LSO,readiness,cii,coverage,,,,,nothing held
-LSO,readiness,figures,coverage,,,,,nothing held
+LSO,readiness,foundation,coverage,body,2026-09-24,LSO-001;LSO-003;LSO-004;LSO-005;LSO-006;LSO-007,LSO-002=none,
+LSO,readiness,response,coverage,,,,,nothing found
+LSO,readiness,cii,coverage,,,,,nothing found
+LSO,readiness,figures,coverage,,,,,nothing found

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-30-civ-creation-de-l-agence-nationale-de-la-securite-des-systemes-d-informati",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Council of Ministers of 30 October 2024 adopted a decree creating ANSSI, a single national cybersecurity agency for coordination, critical infrastructure protection, incident detection and response, per the digital ministry.",
+   "as_of": "2024-10-30",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "Agence Nationale de la Sécurité des Systèmes d'Information",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

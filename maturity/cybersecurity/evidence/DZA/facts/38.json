@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-03-dza-mdn-le-contenu-de-la-strategie-nationale-de-la-securite-des-systemes-d",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "ASSI, under the defence ministry, unveiled the first National Information Systems Security Strategy 2025-2029, approved by President Tebboune.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "National Information Systems Security Strategy 2025-2029",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASSI",
+   "country_label": "Agence de la sécurité des systèmes d'information",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of National Defence",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-15-lby-cabinet-decision-358-2026-cybersecurity-digital-sovereignty-authority",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Cabinet Decision 358 of 2026, signed by Prime Minister Dbeibah, creates the National Authority for Cybersecurity and Digital Sovereignty as a public body under the Council of Ministers, with duties including threat monitoring, early warning and incident response.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "National Authority for Cybersecurity and Digital Sovereignty",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Authority for Cybersecurity and Digital Sovereignty",
+   "country_label": "الهيئة الوطنية للأمن السيبراني والسيادة الرقمية",
+   "class": "response",
+   "platform": "",
+   "owner": "Council of Ministers, Government of National Unity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-01-mwi-divisive-war-on-cybercrimes",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Macra says it has established the Cyber Security Emergency Response Team as the hub for receiving, detecting and tracking local and international threats.",
+   "as_of": "2024-08-01",
+   "date_precision": "day",
+   "system": "Cyber Security Emergency Response Team",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Macra's director general says Malawi has a National Cyber Security Strategy.",
+   "as_of": "2024-08-01",
+   "date_precision": "day",
+   "system": "National Cyber Security Strategy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Emergency Response Team",
+   "country_label": "Macra CSERT",
+   "class": "response",
+   "platform": "",
+   "owner": "Macra",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

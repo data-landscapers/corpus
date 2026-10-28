@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SSD,readiness,foundation,coverage,body,2026,SSD-001;SSD-003;SSD-004,,
-SSD,readiness,response,coverage,,,,,nothing held
-SSD,readiness,cii,coverage,,,,,nothing held
-SSD,readiness,figures,coverage,,,,,nothing held
+SSD,readiness,foundation,coverage,body,2026,SSD-001;SSD-003;SSD-004;SSD-005,,
+SSD,readiness,response,coverage,,,,,nothing found
+SSD,readiness,cii,coverage,,,,,nothing found
+SSD,readiness,figures,coverage,,,,,nothing found

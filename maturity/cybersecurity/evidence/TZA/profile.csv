@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,readiness,foundation,coverage,body,2026-05-13,TZA-002;TZA-003,TZA-001=strategy,
-TZA,readiness,response,coverage,,,,,nothing held
-TZA,readiness,cii,coverage,,,,,nothing held
-TZA,readiness,figures,coverage,,,,,nothing held
+TZA,readiness,foundation,coverage,body,2026-05-13,TZA-002;TZA-003;TZA-005,TZA-001=strategy;TZA-006=strategy,
+TZA,readiness,response,coverage,,,,,nothing found
+TZA,readiness,cii,coverage,designated,2026-06-19,TZA-004,,
+TZA,readiness,figures,coverage,,,,,nothing found

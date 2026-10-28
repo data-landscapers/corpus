@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-16-gmb-itu-concludes-knowledge-transfer-mission-to-strengthen-gmcsirt-s-cyber",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "gmCSIRT, The Gambia Computer Security Incident Response Team, is described as the national incident response capability, trained by the ITU under the World Bank-funded WARDIP.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "gmCSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "gmCSIRT",
+   "country_label": "gmCSIRT",
+   "class": "response",
+   "platform": "MISP, RTIR, Taranis-NG, T-Pot",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-28-moz-comunicado-sobre-contas-falsas-nas-redes-sociais",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "INTIC's national CSIRT (nCSIRT.mz) issued a public alert on 28 September 2025 about fake Facebook and Instagram profiles impersonating senior officials.",
+   "as_of": "2025-09-28",
+   "date_precision": "day",
+   "system": "nCSIRT.mz",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "nCSIRT.mz",
+   "country_label": "CSIRT Nacional (INTIC)",
+   "class": "response",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-03-gha-minister-launches-2025-national-cyber-security-awareness-month-and-cal",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The Cyber Security Authority's Director-General said reported cyber incidents rose from 1,317 in the first half of 2024 to 2,008 in the first half of 2025.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

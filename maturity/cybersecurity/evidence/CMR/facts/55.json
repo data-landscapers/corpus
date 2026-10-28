@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-27-cmr-understanding-the-hidden-face-of-cybercrime-in-cameroon-a-deep-dive-in",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANTIC, Cameroon's national agency for information and communication, was restructured by Decree No 2019/150 of 22 March 2019 and runs a Computer Incident Response Team focused on cybersecurity, per the ICTAC newsletter relaying ANTIC.",
+   "as_of": "2019-03-22",
+   "date_precision": "day",
+   "system": "ANTIC CIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Computer Incident Response Team (CIRT)",
+   "country_label": "ANTIC",
+   "class": "response",
+   "platform": "",
+   "owner": "ANTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

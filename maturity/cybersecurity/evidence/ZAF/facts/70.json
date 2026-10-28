@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-15-zaf-question-nw4353-to-the-minister-of-communications-and-digital-technolo",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The DCDT reply says that under the 2015 National Cybersecurity Policy Framework it established and in 2016 operationalised a national CSIRT, the Cybersecurity Hub.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "Cybersecurity Hub",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybersecurity Hub",
+   "country_label": "Cybersecurity Hub (national CSIRT)",
+   "class": "response",
+   "platform": "",
+   "owner": "DCDT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

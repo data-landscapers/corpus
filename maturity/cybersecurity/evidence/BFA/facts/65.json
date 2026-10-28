@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-10-bfa-le-burkina-intensifie-ses-efforts-en-faveur-de-la-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Digital Transition Minister Aminata Zerbo/Sabane said in April 2025 that the government has put SOC and CSIRT centres into service to detect threats and coordinate incident response.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSIRT",
+   "country_label": "CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "National cybercrime strategy 2025-2029 is a cybercrime strategy; the 200+ monthly alerts of 2023 are recorded, not stated as issued by the body."
+}

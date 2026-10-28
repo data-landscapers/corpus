@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DJI,readiness,foundation,coverage,body,2026-09-03,DJI-001;DJI-002;DJI-003;DJI-006;DJI-008,DJI-007=strategy;DJI-004=strategy;DJI-009=strategy;DJI-005=strategy,
-DJI,readiness,response,coverage,,,,,nothing held
-DJI,readiness,cii,coverage,,,,,nothing held
-DJI,readiness,figures,coverage,,,,,nothing held
+DJI,readiness,foundation,coverage,body,2026-09-03,DJI-001;DJI-002;DJI-003;DJI-006;DJI-008;DJI-010,DJI-007=strategy;DJI-004=strategy;DJI-009=strategy;DJI-011=strategy;DJI-005=strategy,
+DJI,readiness,response,coverage,,,,,nothing found
+DJI,readiness,cii,coverage,,,,,nothing found
+DJI,readiness,figures,coverage,,,,,nothing found

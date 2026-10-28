@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,readiness,foundation,coverage,body,2026-10-07,KEN-001;KEN-002;KEN-003;KEN-004;KEN-007;KEN-008;KEN-009;KEN-010;KEN-011;KEN-015;KEN-017;KEN-019;KEN-022,,
+KEN,readiness,foundation,coverage,body,2026-10-07,KEN-001;KEN-002;KEN-003;KEN-004;KEN-007;KEN-008;KEN-009;KEN-010;KEN-011;KEN-015;KEN-017;KEN-019;KEN-022;KEN-023,,
 KEN,readiness,response,coverage,responded,2026-07-18,KEN-005;KEN-012;KEN-016;KEN-020,,
-KEN,readiness,cii,coverage,,,,,nothing held
+KEN,readiness,cii,coverage,,,,,nothing found
 KEN,readiness,figures,coverage,published,2026-06-30,KEN-006;KEN-013;KEN-014;KEN-021,,

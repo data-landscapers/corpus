@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-17-nam-cran-and-nam-csirt-tackle-ransomware-attack-on-telecom-operator",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "NAM-CSIRT, housed at CRAN, was established by the Namibian Government as the national focal point for coordinating responses to cybersecurity incidents.",
+   "as_of": "2024-12-17",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "NAM-CSIRT identified a data exfiltration breach at a telecom operator detected on 11 December 2024 and supported the operator in containing it, CRAN says.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "Namibia Cyber Security Incident Response Team (NAM-CSIRT)",
+   "class": "response",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

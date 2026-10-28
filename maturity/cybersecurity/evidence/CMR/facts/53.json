@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-21-cmr-cameroon-strengthens-national-cyber-defense-with-deployment-of-advance",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ANTIC says its CIRT collects and analyses 200 GB of data daily to respond to nearly 200 urgent requisitions and has taken down 6,416 fake online accounts since January 2024.",
+   "as_of": "2026-01-21",
+   "date_precision": "day",
+   "system": "ANTIC CIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANTIC CIRT",
+   "country_label": "Computer Incident Response Team (ANTIC)",
+   "class": "response",
+   "platform": "",
+   "owner": "ANTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-lso-rfc-2350-interim-national-csirt-of-lesotho",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Ls ComCSIRT, a unit of the Lesotho Communications Authority, was elevated to national status by the Ministry of MICSTI, per its RFC 2350 of March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Ls ComCSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ls ComCSIRT",
+   "country_label": "Interim National CSIRT of Lesotho (Ls ComCSIRT)",
+   "class": "response",
+   "platform": "",
+   "owner": "Lesotho Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

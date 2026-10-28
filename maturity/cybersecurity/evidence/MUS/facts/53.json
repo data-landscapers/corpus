@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-25-mus-risque-de-cyberattaque-10-a-15-des-services-gouvernementaux-toujours-hors-ligne",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The National Cyber Security Committee was immediately seized of the PHP2shell vulnerability, and the government took about 70% of its sites offline on its recommendation, per ICT minister Ramtohul.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "National Cyber Security Committee",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

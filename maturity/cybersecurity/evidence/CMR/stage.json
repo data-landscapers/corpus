@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "readiness",
-      "stage": "3",
+      "stage": "5",
       "foundation": "body",
       "response": "responded",
       "cii": "",
-      "figures": "",
+      "figures": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-006;CMR-005",
-      "gaps": "No source found says the country has designated its critical information infrastructure.",
-      "note": "Rebuild: stage held. ANTIC's on-site response to a ransomware case in March 2026 sets question 2, in place of an undated statement that it issues alerts.",
-      "as_at": "2026-10-27"
+      "stage_sources": "CMR-012;CMR-008;CMR-005",
+      "gaps": "",
+      "note": "ANTIC's count of 17,500 complaints for 2025 answers question 4, and a later yes answers the earlier ones. No designation of critical infrastructure is held.",
+      "as_at": "2026-10-28"
     }
   ]
 }

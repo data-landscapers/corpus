@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,readiness,foundation,coverage,body,2026-08-04,ZAF-001;ZAF-002,,
-ZAF,readiness,response,coverage,,,,,nothing held
-ZAF,readiness,cii,coverage,,,,,nothing held
-ZAF,readiness,figures,coverage,,,,,nothing held
+ZAF,readiness,foundation,coverage,body,2026-08-04,ZAF-001;ZAF-002;ZAF-004;ZAF-005;ZAF-006,ZAF-003=none,
+ZAF,readiness,response,coverage,,,,,nothing found
+ZAF,readiness,cii,coverage,,,,,nothing found
+ZAF,readiness,figures,coverage,,,,,nothing found

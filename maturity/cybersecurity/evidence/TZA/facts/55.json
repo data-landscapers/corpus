@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-17-tza-tanzania-granted-global-recognition-for-its-efforts-in-managing-cybers",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "TZ-CERT, the national computer emergency response team, sits within the Tanzania Communications Regulatory Authority, TCRA says.",
+   "as_of": "2024-10-17",
+   "date_precision": "day",
+   "system": "TZ-CERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "TZ-CERT's publication lists a National Cybersecurity Strategy among the things behind Tanzania's ITU GCI 2024 result.",
+   "as_of": "2024-10-17",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TZ-CERT",
+   "country_label": "TZ-CERT",
+   "class": "response",
+   "platform": "",
+   "owner": "TCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

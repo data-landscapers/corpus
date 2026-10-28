@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,readiness,foundation,coverage,body,2026-09-10,GAB-001;GAB-004,,
-GAB,readiness,response,coverage,,,,,nothing held
-GAB,readiness,cii,coverage,,,,,nothing held
-GAB,readiness,figures,coverage,,,,,nothing held
+GAB,readiness,foundation,coverage,body,2026-09-10,GAB-001;GAB-004;GAB-006,,
+GAB,readiness,response,coverage,,,,,nothing found
+GAB,readiness,cii,coverage,,,,,nothing found
+GAB,readiness,figures,coverage,,,,,nothing found

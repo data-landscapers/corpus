@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,readiness,foundation,coverage,body,2026-07-14,GMB-001;GMB-003,GMB-002=strategy,
-GMB,readiness,response,coverage,,,,,nothing held
-GMB,readiness,cii,coverage,,,,,nothing held
-GMB,readiness,figures,coverage,,,,,nothing held
+GMB,readiness,foundation,coverage,body,2026-07-14,GMB-001;GMB-003;GMB-004;GMB-005,GMB-002=strategy,
+GMB,readiness,response,coverage,,,,,nothing found
+GMB,readiness,cii,coverage,,,,,nothing found
+GMB,readiness,figures,coverage,,,,,nothing found

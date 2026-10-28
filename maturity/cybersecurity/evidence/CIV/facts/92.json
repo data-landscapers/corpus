@@ -1,0 +1,34 @@
+{
+ "slug": "2024-02-01-civ-ci-cert-centre-national-de-veille-d-alerte-et-de-reponse-aux-incidents",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "CI-CERT's alert register lists four public security alerts, from 22 January to 15 February 2024, including AnyDesk compromise and a phishing campaign.",
+   "as_of": "2024-02-15",
+   "date_precision": "day",
+   "system": "CI-CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CI-CERT",
+   "country_label": "CI-CERT",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SysMIC",
+   "country_label": "SysMIC",
+   "class": "other",
+   "platform": "monitoring",
+   "owner": "CI-CERT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

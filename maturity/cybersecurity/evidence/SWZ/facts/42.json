@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-06-swz-anyone-can-be-a-victim-of-cyber-crime-sakhile-dlamini",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "A Ministry of ICT engineer says the Ministry established the National Cybersecurity Agency at ESCCOM to coordinate all cybersecurity issues, with the National Computer Incident Response Team (NCIRT) established under it.",
+   "as_of": "2024-02-06",
+   "date_precision": "day",
+   "system": "National Computer Incident Response Team (NCIRT)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "A Ministry of ICT engineer says Government developed the National Cybersecurity Strategy 2022-2027.",
+   "as_of": "2024-02-06",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy 2022-2027",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Computer Incident Response Team (NCIRT)",
+   "country_label": "National Computer Incident Response Team (NCIRT)",
+   "class": "response",
+   "platform": "",
+   "owner": "National Cybersecurity Agency at ESCCOM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

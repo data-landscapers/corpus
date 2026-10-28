@@ -1,0 +1,46 @@
+{
+ "slug": "2024-07-18-nga-nigeria-s-digital-boom-threatened-as-fg-issues-33-alerts",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "BusinessDay states ngCERT, the Nigeria Computer Emergency Response Team, operates as the country's internet police unit under the Office of the National Security Adviser.",
+   "as_of": "2024-07-18",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "BusinessDay states ngCERT issued at least 33 cyberattack advisories since July 2023, including a July 8 2024 advisory on ransomware and a May 27 2024 advisory on the Grandoreiro banking trojan.",
+   "as_of": "2024-07-08",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "BusinessDay reports ngCERT advisories totalled 33 since July 2023, of which 22 were in 2024 up to July 12, by month from three in January to four in July.",
+   "as_of": "2024-07-12",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ngCERT",
+   "country_label": "Nigeria Computer Emergency Response Team (ngCERT)",
+   "class": "response",
+   "platform": "",
+   "owner": "Office of the National Security Adviser",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

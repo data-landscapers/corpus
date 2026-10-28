@@ -3,3 +3,4 @@ NER,"centre national de cyber-sécurité (CNAC), with a Security Operations Cent
 NER,Agence Nigérienne pour la Société de l'Information (ANSI),NER,other,,State,,2025-07-25-africacert-handshake-symposium-niamey-lesahel
 NER,Centre National de Cybersécurité (CNAC),NER,response,,State (public administrative establishment),,2025-10-11-gouv-conseil-ministres-cnac-ance
 NER,Agence Nigérienne de Certification Electronique (ANCE),NER,other,,State,,2025-10-11-gouv-conseil-ministres-cnac-ance
+NER,CNAC,CNAC,response,,Government of Niger,,2026-06-02-ner-la-cybersecurite-au-niger-la-necessite-d-un-espace-numerique-securise

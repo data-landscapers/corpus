@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-01-egy-760-2025",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The Ministry of Communications says the current National Cybersecurity Strategy covers 2023 to 2027 and guides the Supreme Council for Cybersecurity, in place since the first strategy of 2017-2021.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "National Cybersecurity Strategy 2023-2027",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Ministry says the National Computer and Network Emergency Readiness Center leads national cyber incident response, threat monitoring and critical infrastructure protection.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "National Center for Computer and Network Emergency Readiness (EG-CERT)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Center for Computer and Network Emergency Readiness",
+   "country_label": "EGY",
+   "class": "response",
+   "platform": "",
+   "owner": "MCIT",
+   "tiers": ""
+  }
+ ],
+ "note": "The 760 operations are a ministry count of cyber-defence operations, not incidents handled or alerts issued by the national body; no critical infrastructure designation stated."
+}

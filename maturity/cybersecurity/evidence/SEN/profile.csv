@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,readiness,foundation,coverage,body,2026-10-07,SEN-002;SEN-005,SEN-001=strategy,
-SEN,readiness,response,coverage,,,,,nothing held
-SEN,readiness,cii,coverage,designated,2026-08-20,SEN-006,,
-SEN,readiness,figures,coverage,,,,,nothing held
+SEN,readiness,foundation,coverage,body,2026-10-07,SEN-002,SEN-001=strategy,
+SEN,readiness,response,coverage,,,,,nothing found
+SEN,readiness,cii,coverage,,,,,nothing found
+SEN,readiness,figures,coverage,,,,,nothing found

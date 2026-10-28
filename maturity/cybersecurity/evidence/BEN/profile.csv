@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,readiness,foundation,coverage,body,2025-07-02,BEN-001;BEN-002;BEN-004;BEN-006;BEN-008,BEN-003=strategy;BEN-007=strategy,
-BEN,readiness,response,coverage,,,,,nothing held
-BEN,readiness,cii,coverage,,,,,nothing held
+BEN,readiness,foundation,coverage,body,2025-07-02,BEN-001;BEN-002;BEN-004;BEN-006;BEN-008;BEN-009,BEN-003=strategy;BEN-007=strategy,
+BEN,readiness,response,coverage,,,,,nothing found
+BEN,readiness,cii,coverage,,,,,nothing found
 BEN,readiness,figures,coverage,published,2024,BEN-005,,

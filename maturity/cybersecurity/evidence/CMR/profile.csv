@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,readiness,foundation,coverage,body,2026-09-29,CMR-001;CMR-002;CMR-003;CMR-004;CMR-005;CMR-007,,
-CMR,readiness,response,coverage,responded,2026-08-11,CMR-006;CMR-008,,
-CMR,readiness,cii,coverage,,,,,nothing held
-CMR,readiness,figures,coverage,,,,,nothing held
+CMR,readiness,foundation,coverage,body,2026-09-29,CMR-001;CMR-002;CMR-003;CMR-004;CMR-005;CMR-007;CMR-009;CMR-010;CMR-014;CMR-015,,
+CMR,readiness,response,coverage,responded,2026-08-11,CMR-006;CMR-008;CMR-011;CMR-013,,
+CMR,readiness,cii,coverage,,,,,nothing found
+CMR,readiness,figures,coverage,published,2025,CMR-012,,

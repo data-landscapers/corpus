@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,readiness,foundation,coverage,body,2026-09-11,MWI-001;MWI-002;MWI-004,,
+MWI,readiness,foundation,coverage,body,2026-09-11,MWI-001;MWI-002;MWI-004;MWI-005,MWI-006=strategy,
 MWI,readiness,response,coverage,responded,2026-09-11,MWI-003,,
-MWI,readiness,cii,coverage,,,,,nothing held
-MWI,readiness,figures,coverage,,,,,nothing held
+MWI,readiness,cii,coverage,,,,,nothing found
+MWI,readiness,figures,coverage,,,,,nothing found

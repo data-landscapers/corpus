@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-27-nga-ncc-tasks-telcos-defenses-against-ai-cyberattacks",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article refers to ngCERT as the national Computer Emergency Response Team with which the NCC's Cyber Resilience Framework promotes coordination.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "NCC's Executive Vice Chairman said the designation of telecommunications infrastructure as Critical National Information Infrastructure places greater responsibility on operators and regulators.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Critical National Information Infrastructure",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ngCERT",
+   "country_label": "ngCERT",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NCC-CSIRT",
+   "country_label": "NCC-CSIRT",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigerian Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2024-10-29-nam-cybersecurity-strategy-well-on-track-ministry-says",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Namibia's National Cybersecurity Strategy was launched in 2022, the ICT ministry says.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "National Cybersecurity Strategy",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The ICT ministry says a register of Namibia's national critical infrastructure and critical information infrastructure has been developed.",
+   "as_of": "2024-10-29",
+   "date_precision": "day",
+   "system": "CII register",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

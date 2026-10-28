@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-19-eth-insa-director-general-highlights-key-achievements-in-national-cybersec",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "INSA says that in fiscal year 2024/25 it prevented 13,494 cyberattacks and handled 6,193 fraud and digital forensic cases.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "Information Network Security Administration (INSA)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "INSA's Director General reports fiscal year 2024/25 counts: 13,494 cyberattacks prevented, 6,193 fraud and forensic cases handled, 410 institutions audited.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "Information Network Security Administration (INSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Network Security Administration (INSA)",
+   "country_label": "Information Network Security Administration",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2025-10-09-tun-tunisie-ancs-plus-de-20-000-cyberattaques-recensees-sur-un-an",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Ghaith Souissi, an expert with the Agence Nationale de la Cybersecurite (ANCS), spoke for the national cybersecurity agency, which the article says has its own investigation tools.",
+   "as_of": "2025-10-09",
+   "date_precision": "day",
+   "system": "ANCS",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ANCS says it analyses incidents with its own investigation tools and systematically alerts the institutions affected.",
+   "as_of": "2025-10-09",
+   "date_precision": "day",
+   "system": "ANCS",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "ANCS expert Ghaith Souissi announced that more than 20,000 cyberattacks were recorded in Tunisia between 2024 and 2025.",
+   "as_of": "2025-10-09",
+   "date_precision": "day",
+   "system": "ANCS",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCS",
+   "country_label": "Agence Nationale de la Cybersecurite",
+   "class": "response",
+   "platform": "",
+   "owner": "government",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

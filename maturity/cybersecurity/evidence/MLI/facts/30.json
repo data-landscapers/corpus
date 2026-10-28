@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-11-mli-bamako-structure-sa-reponse-aux-menaces-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Mali's National Cybersecurity Strategy and its 2026-2030 Action Plan were adopted by decree on 25 February 2026, per the APAnews account of the 10 June 2026 Council of Ministers.",
+   "as_of": "2026-02-25",
+   "date_precision": "day",
+   "system": "Stratégie nationale de cybersécurité du Mali",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI (Agence nationale de la sécurité des systèmes d'information)",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Mali",
+   "tiers": ""
+  }
+ ],
+ "note": "The Council of Ministers on 10 June 2026 adopted draft texts (projets de textes) creating ANSSI, not stated as a decree issued; no incident handled, designation or figures by a national body."
+}

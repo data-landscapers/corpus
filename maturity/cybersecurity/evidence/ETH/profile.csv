@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ETH,readiness,foundation,coverage,body,2026-09-29,ETH-001;ETH-002;ETH-004;ETH-006;ETH-007;ETH-008;ETH-009;ETH-010;ETH-011;ETH-012;ETH-013;ETH-014,ETH-017=strategy,
-ETH,readiness,response,coverage,responded,2026,ETH-015;ETH-018,,
+ETH,readiness,response,coverage,responded,2026,ETH-015;ETH-018;ETH-019;ETH-021;ETH-023;ETH-026,,
 ETH,readiness,cii,coverage,designated,2026-08-07,ETH-003;ETH-005,,
-ETH,readiness,figures,coverage,published,2026,ETH-016,,
+ETH,readiness,figures,coverage,published,2026,ETH-016;ETH-020;ETH-022;ETH-024;ETH-025,,

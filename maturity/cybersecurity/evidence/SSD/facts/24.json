@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-17-ssd-south-sudan-inaugurates-computer-incident-response-team",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The National Communication Authority launched the South Sudan Computer Incident Response Team (SS-CIRT) on 16 October 2024 as the central hub for cybersecurity coordination across sectors.",
+   "as_of": "2024-10-16",
+   "date_precision": "day",
+   "system": "SS-CIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SS-CIRT",
+   "country_label": "South Sudan Computer Incident Response Team",
+   "class": "response",
+   "platform": "",
+   "owner": "National Communication Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

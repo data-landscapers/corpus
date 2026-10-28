@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-swz-esccom-engages-journalists-on-cybersecurity-scams",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ESCCOM's Assistant Director for Cybersecurity says the Computer Crime and Cybercrime Act of 2022 (s.52) designated the Eswatini Communications Commission as the national cybersecurity agency.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ESCCOM",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Communications Commission (ESCCOM)",
+   "country_label": "ESCCOM",
+   "class": "response",
+   "platform": "",
+   "owner": "ESCCOM",
+   "tiers": ""
+  }
+ ],
+ "note": "Incident response function described but no handled incident or alert stated; critical information infrastructure said not yet declared."
+}

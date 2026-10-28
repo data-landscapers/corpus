@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-31-zaf-sa-s-sluggish-approach-to-cyber-security-regulation-laid-bare",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Analyst Elmarie Biermann says South Africa has the Cybersecurity Hub as its National Computer Security Response Team, which she rates as dysfunctional.",
+   "as_of": "2024-07-31",
+   "date_precision": "day",
+   "system": "Cybersecurity Hub",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybersecurity Hub",
+   "country_label": "Cybersecurity Hub",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

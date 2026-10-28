@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-14-ben-rfc-2350-declaration-english-version",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "bjCSIRT describes itself as the National CSIRT of the Republic of Benin, operational 24/7, serving the government, its institutions and critical information infrastructure operators.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "bjCSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "bjCSIRT",
+   "country_label": "bjCSIRT - National CSIRT of the Republic of Benin",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident handled, designation of infrastructure or figures stated."
+}

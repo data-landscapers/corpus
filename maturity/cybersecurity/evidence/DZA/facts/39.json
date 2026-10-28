@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-29-dza-apres-la-panne-informatique-mondiale-les-recommandations-de-care",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Think tank CARE describes the ASSI, CNOSSI and CNSSI as Algeria's key information-security bodies.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Agence de la Sécurité des Systèmes d'Information (ASSI)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "CARE says Algerian authorities activated their incident response team during the July 2024 CrowdStrike outage.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "incident response team",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNOSSI",
+   "country_label": "Centre National Opérationnel de Sécurité des Systèmes d'Information",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

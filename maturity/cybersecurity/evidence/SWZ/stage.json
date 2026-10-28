@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "readiness",
-      "stage": "2",
+      "stage": "3",
       "foundation": "body",
-      "response": "",
+      "response": "responded",
       "cii": "",
       "figures": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-001",
-      "gaps": "No source found says the national body handled an incident or issued a public alert since October 2023.",
-      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "SWZ-009;SWZ-001",
+      "gaps": "No source found says the country has designated its critical information infrastructure.",
+      "note": "ESCCOM's investigation of ransomware attacks on public bodies in July 2025 answers question 2. No designation of critical infrastructure is held.",
+      "as_at": "2026-10-28"
     }
   ]
 }

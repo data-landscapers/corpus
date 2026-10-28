@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-27-tgo-alerte-cybersecurite-signalement-d-une-campagne-de-phishing-ciblant-le",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "CERT.tg, the Centre National de Réponse aux Incidents de Cybersécurité, issued public alert 202504/AP/09 on 27 April 2025 about a phishing campaign using a fake free-data offer in the names of Yas Togo and Moov Africa Togo.",
+   "as_of": "2025-04-27",
+   "date_precision": "day",
+   "system": "CERT.tg",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT.tg",
+   "country_label": "Centre National de Réponse aux Incidents de Cybersécurité (CERT.tg)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-28-nam-namibia-s-cyber-security-team-warns-of-rising-threats",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "NAM-CSIRT operates under the Communications Regulatory Authority of Namibia (CRAN).",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "NAM-CSIRT issued a warning after the Paratus Namibia breach reported on 19 February 2025, rated Level 3, and CRAN says it is working with Paratus to mitigate it.",
+   "as_of": "2025-02-19",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "Namibia Cyber Security Incident Response Team (NAM-CSIRT)",
+   "class": "response",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

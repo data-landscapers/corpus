@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "readiness",
-      "stage": "3",
+      "stage": "5",
       "foundation": "body",
       "response": "responded",
       "cii": "",
-      "figures": "",
+      "figures": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-005;MUS-004",
-      "gaps": "No source found says the country has designated its critical information infrastructure.",
-      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
-      "as_at": "2026-10-25"
+      "stage_sources": "MUS-007;MUS-005;MUS-004",
+      "gaps": "",
+      "note": "CERT-MU's counts of reported incidents for 2024 and 2025 answer question 4. The 2026 regulations allow a designation; none is stated made.",
+      "as_at": "2026-10-28"
     }
   ]
 }

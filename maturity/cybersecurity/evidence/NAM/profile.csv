@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,readiness,foundation,coverage,body,2026-10-01,NAM-001;NAM-002;NAM-004;NAM-006;NAM-009;NAM-011;NAM-014;NAM-016;NAM-017;NAM-019;NAM-020;NAM-022,NAM-013=strategy,
-NAM,readiness,response,coverage,responded,2026-09-30,NAM-005;NAM-008;NAM-018,,
-NAM,readiness,cii,coverage,,,,,nothing held
-NAM,readiness,figures,coverage,published,2026-06-30,NAM-003;NAM-007;NAM-010;NAM-012;NAM-015;NAM-021,,
+NAM,readiness,foundation,coverage,body,2026-10-01,NAM-001;NAM-002;NAM-004;NAM-006;NAM-009;NAM-011;NAM-014;NAM-016;NAM-017;NAM-019;NAM-020;NAM-022;NAM-025;NAM-028;NAM-030;NAM-031,NAM-013=strategy;NAM-023=strategy,
+NAM,readiness,response,coverage,responded,2026-10-22,NAM-005;NAM-008;NAM-018;NAM-026;NAM-027;NAM-032,,
+NAM,readiness,cii,coverage,designated,2024-10-29,NAM-024,,
+NAM,readiness,figures,coverage,published,2026-06-30,NAM-003;NAM-007;NAM-010;NAM-012;NAM-015;NAM-021;NAM-029,,

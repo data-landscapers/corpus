@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-02-ner-la-cybersecurite-au-niger-la-necessite-d-un-espace-numerique-securise",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Le Sahel reports a panellist at the April 2026 Niger IGF saying Niger 's'est doté' of a National Cybersecurity Strategy for 2023-2027, with four axes, to be implemented by the CNAC.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Stratégie Nationale de Cybersécurité 2023-2027",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNAC",
+   "country_label": "CNAC",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Niger",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

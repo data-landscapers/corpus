@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-01-sdn-sca-ransomware-warning-sme",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The document states Sudan-CERT, the national incident response centre of the national cybersecurity authority, exists and issued the warning.",
+   "as_of": "2025-11-01",
+   "date_precision": "day",
+   "system": "Sudan-CERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The document states Sudan-CERT issued a high-level security warning on 1 November 2025 about a ransomware wave targeting small and medium businesses.",
+   "as_of": "2025-11-01",
+   "date_precision": "day",
+   "system": "Sudan-CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudan-CERT",
+   "country_label": "National Center for Cyber Incident Response (Sudan-CERT)",
+   "class": "response",
+   "platform": "",
+   "owner": "Sudan cybersecurity authority (SCA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

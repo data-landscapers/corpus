@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TUN,readiness,foundation,coverage,body,2026-09,TUN-001;TUN-003;TUN-005;TUN-006;TUN-007;TUN-008;TUN-009;TUN-011;TUN-013;TUN-015,,
-TUN,readiness,response,coverage,responded,2026-07-30,TUN-010,,
-TUN,readiness,cii,coverage,,,,,nothing held
-TUN,readiness,figures,coverage,published,2025-06,TUN-002;TUN-004;TUN-014,,
+TUN,readiness,foundation,coverage,body,2026-09,TUN-001;TUN-003;TUN-005;TUN-006;TUN-007;TUN-008;TUN-009;TUN-011;TUN-013;TUN-015;TUN-020,,
+TUN,readiness,response,coverage,responded,2026-10-21,TUN-010;TUN-016;TUN-018;TUN-021;TUN-023;TUN-024,,
+TUN,readiness,cii,coverage,,,,,nothing found
+TUN,readiness,figures,coverage,published,2026-06,TUN-002;TUN-004;TUN-014;TUN-017;TUN-019;TUN-022,,
