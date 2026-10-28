@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: COD
-ledger_rows: 69
+ledger_rows: 72
 not_held: 7
-record: 4925ae8309ba
+record: ebc255fffd09
 ---
 
 # News, Sep – Oct 2026
@@ -38,6 +38,8 @@ record: 4925ae8309ba
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 </nav>
@@ -155,6 +157,30 @@ The DR Congo Senate declared admissible on 28 September 2026 a bill by Senator Y
 **[DRC Moves to Expand Public Procurement Access for MSMEs and Start-Ups](https://www.ecofinagency.com/news-services/0110-59397-drc-moves-to-expand-public-procurement-access-for-msmes-and-start-ups)** — Ecofin Agency, 1 October 2026
 
 The DRC government adopted on 30 September 2026 a bill to replace the 2010 public procurement law (Law No. 10/010), presented by Budget Minister Adolphe Muzito. It would widen the use of paperless procedures and open public contracts to small businesses and start-ups, and responds to heavy use of direct awards and weak contract monitoring.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Prosecution of offences committed through social media</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC: la diffamation dans les réseaux sociaux, punissable par le code du numérique](https://acp.cd/affaire-judiciare-et-droits-humains/rdc-la-diffamation-dans-les-reseaux-sociaux-punissable-par-le-code-du-numerique/)** — ACP, 6 October 2026
+
+Lawyer: Digital Code art. 360 leaves journalists no immunity for online defamation; TikTok chronicler held Sept 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : Des personnes poursuivies pour des infractions numériques détenues à Makala, annonce Guillaume Ngefa](https://lepotentiel.cd/2026/10/24/rdc-des-personnes-poursuivies-pour-des-infractions-numeriques-detenues-a-makala-annonce-guillaume-ngefa/)** — LePotentiel, 24 October 2026
+
+Justice minister: social-media offence suspects held at Makala, self-styled presidency communicators among them.
 
 </div>
 
@@ -950,6 +976,20 @@ DR Congo relaunched its e-visa reform with a new competitive selection of a prov
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strategy and roadmap for digitalising security governance in territorial administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : la stratégie de digitalisation de la gouvernance sécuritaire soumise à validation - Congo Inter](https://congointer.info/2026/10/27/rdc-la-strategie-de-digitalisation-de-la-gouvernance-securitaire-soumise-a-validation/)** — Congo Inter, 27 October 2026
+
+Four-day Kinshasa workshop from 26 Oct 2026; real-time security reporting from village to state, now mostly manual.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -1005,6 +1045,20 @@ The governor of DR Congo's central bank, André Wameso, told the Central Bank of
 **[RDC : Claude, l'assistant d'IA d'Anthropic, désormais officiellement accessible](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-claude-l-assistant-d-ia-d-anthropic-desormais-officiellement-accessible)** — wearetech.africa, 23 September 2026
 
 DR Congo's Ministry of Digital Economy announced on 22 September that Anthropic's Claude is now officially available in the country, both the consumer service and commercial API access. Users had previously reached it through VPNs; the communiqué gave no terms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
 
 </div>
 
