@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GNB,national,governance,qualifier,finance:donor,2025,GNB-014,GNB-017=finance:donor,not stated: body
-GNB,national,standing,coverage,adopted,2025-03-28,GNB-005;GNB-009;GNB-013,GNB-003=none;GNB-004=announced;GNB-011=validated;GNB-015=drafting;GNB-018=none;GNB-019=none;GNB-020=none,
+GNB,national,standing,coverage,adopted,2025-03-28,GNB-005;GNB-009;GNB-013;GNB-021,GNB-003=none;GNB-004=announced;GNB-011=validated;GNB-015=drafting;GNB-018=none;GNB-019=none;GNB-020=none,
 GNB,national,text,coverage,public,2025-03-28,GNB-008,GNB-002=unpublished,
-GNB,national,period,coverage,to:2030,2025-03-28,GNB-006,,
+GNB,national,period,coverage,to:2030,2025-03-28,GNB-006;GNB-022,,
 GNB,national,plan,coverage,actions,2025-03-28,GNB-007;GNB-010;GNB-012;GNB-016,,
-GNB,national,reporting,coverage,,,,,nothing held
+GNB,national,reporting,coverage,,,,,nothing found
 GNB,national,last12,qualifier,advancing,2026-09-09,GNB-001,,

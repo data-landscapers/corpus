@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CMR,national,governance,qualifier,body:mandated;finance:domestic,2025,CMR-004;CMR-010,CMR-009=body:mandated,
-CMR,national,standing,coverage,adopted,2025,CMR-002;CMR-005,CMR-001=drafting;CMR-046=drafting,
-CMR,national,text,coverage,public,2016-05,CMR-007,,nothing dated since 2023-10-23
+CMR,national,standing,coverage,adopted,2025,CMR-002;CMR-005,CMR-047=drafting;CMR-001=drafting;CMR-046=drafting,
+CMR,national,text,coverage,public,2016-05,CMR-007,,nothing dated since 2023-10-28
 CMR,national,period,coverage,to:2025,2025,CMR-003,CMR-006=to:2020,
-CMR,national,plan,coverage,costed,2016-05,CMR-008,,nothing dated since 2023-10-23
-CMR,national,reporting,coverage,,,,,nothing held
-CMR,national,last12,qualifier,,,,,nothing held
+CMR,national,plan,coverage,costed,2016-05,CMR-008,,nothing dated since 2023-10-28
+CMR,national,reporting,coverage,,,,,nothing found
+CMR,national,last12,qualifier,,,,,nothing found

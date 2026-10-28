@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-mdg-acces-a-internet-une-nouvelle-legislation-en-faveur-des-investissements",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2028",
+   "fact": "The article says the plan strategique numerique (PSN), launched in 2023, targets digital at 6% of GDP by 2028, per the strategic document.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Plan strategique numerique (PSN)",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

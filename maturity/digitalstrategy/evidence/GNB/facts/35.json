@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-gnb-guinea-bissau-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Digital Watch Observatory says Decree No. 10/2025, in force 28 March 2025, approved the National Digital Transformation Strategy 2025-2030 (ENTD.GW).",
+   "as_of": "2025-03-28",
+   "date_precision": "day",
+   "system": "ENTD.GW",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "Digital Watch Observatory gives the National Digital Transformation Strategy (ENTD.GW) as running 2025-2030.",
+   "as_of": "2025-03-28",
+   "date_precision": "day",
+   "system": "ENTD.GW",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Transformation Strategy 2025-2030",
+   "country_label": "ENTD.GW",
+   "class": "national",
+   "platform": "",
+   "owner": "Government of Guinea-Bissau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

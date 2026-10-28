@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-23-mus-highlights-of-cabinet-meeting-friday-23-may-2025",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "Cabinet noted on 23 May 2025 that the Ministry of Information Technology, Communication and Innovation would launch a Digital Transformation Blueprint 2025-2029 digitalising G2B, G2C and G2G services.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2029",
+   "fact": "The Digital Transformation Blueprint is stated as covering 2025-2029.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "country_label": "Mauritius",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
