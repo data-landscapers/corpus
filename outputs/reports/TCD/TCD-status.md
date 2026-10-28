@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-10-24
+compiled: 2026-10-28
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 202
+sources_cited: 203
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -27,7 +27,7 @@ The administration these plans have to work through is thin and getting thinner.
 
 Chad's parliament completed ratification in December 2025 of a change to its telecommunications statute that runs to exactly one article. [Ordonnance n°011/PR/2025 of 5 August 2025 amends article 18 of the 2014 law on the regulation of electronic communications and postal activities, and was ratified by the National Assembly on 22 October 2025 by 105 votes to 31 with 2 abstentions](https://www.toumaiwebmedias.com/assemblee-nationale-adoption-de-la-loi-sur-la-regulation-des-communications-electroniques-et-des-activites-postales/); [the Senate followed on 23 December 2025 by 65 votes of 67, ratifying the ordinance's amendment of article 18 of Loi n°013/PR/2014](https://afriqueitnews.com/tech-media/tchad-parlement-modernise-cadre-juridique-communications-electroniques/). The article it reaches is the statute's enforcement machinery: [it lets the regulator ARCEP serve an operator with a mise en demeure of up to 30 days for breach of national law or of the conditions of its authorisation, or for anticompetitive conduct](https://www.africa-laws.org/Chad/Comercial%20law/Loi%20N%C2%B0%202014%20portant%20r%C3%A9gulation%20des%20communications%20%C3%A9lectroniques%20et%20des%20activit%C3%A9s%20postales.pdf).
 
-The rest of the framework is a decade old. [Law No. 009/PR/2015 on cybersecurity and the fight against cybercrime is the single text carrying the legal basis for cybersecurity, data protection, digital identification, digital payments, digital signatures and e-commerce](https://ansice.td/assets/documents/loi_09.pdf), alongside [Law No. 014/PR/2014, which covers broadband, quality of service, digital identification and digital payments](http://www.droit-afrique.com/upload/doc/tchad/Tchad-Loi-2014-14-communication-electronique.pdf). [The 2015 package of five laws gives a broad digital-economy base but establishes no authority for cross-government data sharing and governs no data exchange system](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Chad-country-diagnostic.pdf). [There is no right to information law, and neither supporting access-to-records measure is in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+The rest of the framework is a decade old. [Law No. 009/PR/2015 on cybersecurity and the fight against cybercrime is the single text carrying the legal basis for cybersecurity, data protection, digital identification, digital payments, digital signatures and e-commerce](https://ansice.td/assets/documents/loi_09.pdf), alongside [Law No. 014/PR/2014, which covers broadband, quality of service, digital identification and digital payments](http://www.droit-afrique.com/upload/doc/tchad/Tchad-Loi-2014-14-communication-electronique.pdf). [The 2015 package of five laws gives a broad digital-economy base but establishes no authority for cross-government data sharing and governs no data exchange system](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Chad-country-diagnostic.pdf). Cybercrime law has a newer layer: [in December 2022 the transitional council ratified ordinances of 31 August 2022 on cybercrime, cyberdefence and cybersecurity, the last amending the 2015 law that created the computer-security agency](https://ndjamenahebdo.net/des-lois-pour-securiser-le-cyberespace/). [There is no right to information law, and neither supporting access-to-records measure is in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 <!-- derived -->
 Of thirty instruments surveyed across identity, cybersecurity, fintech, e-government, artificial intelligence and connectivity, twenty-one have no Chadian counterpart — among them a digital identity law, an interoperability framework, a national cybersecurity strategy, critical-infrastructure protection, cloud and open data policy, an AI strategy, a startup act, a regulatory sandbox and spectrum policy.
