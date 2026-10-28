@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: GNQ
-ledger_rows: 21
+ledger_rows: 22
 not_held: 6
-record: 4ad49fb17a59
+record: 4d347406d1e0
 ---
 
 # News, Sep – Oct 2026
@@ -411,6 +411,20 @@ Equatorial Guinea's statistics institute, INEGE, began a tour of ministries' sta
 **[INEGE presenta la novena edición del Anuario Estadístico y llama a convertir los datos en decisiones](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/)** — AHORAEG, 25 September 2026
 
 Equatorial Guinea's statistics institute INEGE presented the ninth edition of the national Statistical Yearbook in Malabo, covering the last five years. It named stronger administrative registers, digitised processes and interoperable information systems as outstanding challenges, and announced a fifth population and housing census and a first agricultural census, with no dates.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fifth population census and first agricultural census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEGE avanza en la validación técnica de los documentos del Quinto Censo de Población y del Primer Censo Agropecuario](https://www.guineaecuatorialpress.com/noticias/inege_avanza_en_la_validacion_tecnica_de_los_documentos_del_quinto_censo_de_poblacion_y_del_primer_censo_agropecuario)** — Página Oficial del Gobierno de la República de Guinea Ecuatorial, 26 October 2026
+
+INEGE, UNDP and FAO validate methods and data-collection tools for fifth population and first agricultural census.
 
 </div>
 
