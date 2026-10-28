@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 NER,E-Cadastre / NIPU (Numéro d'Identification Parcellaire Unique),Niger,land,NIPU platform,"ANSI (delegated technical lead), Ministère de l'Urbanisme et de l'Habitat",,2025-12-17-ansi-digitalisation-foncier-conpec-nipu
 NER,E-Cadastre,Niger,other,,Ministère de l'Urbanisme et de l'Habitat with ANSI,,2025-11-01-ner-nouvelledafrique-e-cadastre-niger
 NER,E-Cadastre,Niger,land,,Ministere de l'Urbanisme et de l'Habitat,,2026-06-23-ner-lesahel-ministre-urbanisme-bilan-e-cadastre
+NER,mining cadastre,mining cadastre,other,,Ministry of Mines and Industrial Development,national,2026-01-01-ner-niger-eiti

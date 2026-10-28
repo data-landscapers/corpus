@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,land,register,coverage,inservice,2024-02,MWI-002,MWI-001=underway;MWI-004=underway,
-MWI,land,national,coverage,,,,,nothing held
+MWI,land,register,coverage,inservice,2026-10-27,MWI-002;MWI-005,MWI-001=underway;MWI-004=underway,
+MWI,land,national,coverage,,,,,nothing found
 MWI,land,online,coverage,online,2026-08-04,MWI-003,,

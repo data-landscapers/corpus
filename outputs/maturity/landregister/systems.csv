@@ -62,6 +62,7 @@ GAB,ANUTTC land title and cadastre chain,Gabon,other,,"ANUTTC, Housing, Economy 
 GAB,Ogooué,Gabon,land,application,"Ministry of Housing, Habitat, Urbanism and Cadastre",,2026-05-06-agp-gabon-foncier-digitalisation-cadastre-application-ogooue
 GAB,Gargantua,Gabon,land,software,ANUTTC,,2024-07-09-gab-union-anuttc-land-file-digitisation
 GAB,ePropriete,Gabon Connect: ePropriete (livre foncier),other,Gabon Connect,government,,2026-10-22-gab-gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-p
+GAB,ePropriété,Gabon,land,Gabon Connect,Government of Gabon,,2026-10-27-gab-digitalisation-le-gouvernement-annonce-le-deploiement-progressif-de-ga
 GHA,Enterprise Land Information System (ELIS),Ghana,land,,Lands Commission,,2026-06-08-ghana-digitise-land-registry-system-underwhelming
 GHA,Ghana Enterprise Land Information System (GELIS),Ghana,land,,Lands Commission,,2026-06-08-ghana-digitise-land-registry-system-underwhelming
 GHA,Lands Commission Online Services Portal,Ghana,land,,Lands Commission,,2026-06-08-ghana-digitise-land-registry-system-underwhelming
@@ -103,12 +104,14 @@ MRT,EL MOUHAFID,Mauritania,land,,land ministry,,2026-01-23-mrt-ministere-domaine
 MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 MWI,Land Information Management System (LIMS),Malawi,land,web-based,"Ministry of Lands, Housing and Urban Development","Lands, Surveys and Physical Planning departments",2026-08-04-malawi-reviews-digital-land-workflows
 MWI,Land Information Management System (LIMS),Malawi,land,,Ministry of Lands,"Departments of Lands, Surveys and Physical Planning",2025-01-01-land-information-management-system-lims
+MWI,Land Information Management System,Malawi,land,,Ministry of Lands,,2026-10-27-mwi-minister-chipungu-reveals-hackers-targeted-malawis-land-database-nyasa-times
 NAM,NCLAS,NCLAS 2,land,"web-based, server-based","Ministry of Agriculture, Water and Land Reform",Communal Land Boards,2024-05-20-nam-fig-mazambani-communal-land-administration-nclas
 NAM,NCLAS,Namibia,land,ArcGIS,"Ministry of Agriculture, Water and Land Reform",communal land,2023-05-01-nam-fig-land-administration-rural-development-namibia
 NAM,Deeds Registry,Namibia,other,,,"freehold, manual",2023-05-01-nam-fig-land-administration-rural-development-namibia
 NER,E-Cadastre / NIPU (Numéro d'Identification Parcellaire Unique),Niger,land,NIPU platform,"ANSI (delegated technical lead), Ministère de l'Urbanisme et de l'Habitat",,2025-12-17-ansi-digitalisation-foncier-conpec-nipu
 NER,E-Cadastre,Niger,other,,Ministère de l'Urbanisme et de l'Habitat with ANSI,,2025-11-01-ner-nouvelledafrique-e-cadastre-niger
 NER,E-Cadastre,Niger,land,,Ministere de l'Urbanisme et de l'Habitat,,2026-06-23-ner-lesahel-ministre-urbanisme-bilan-e-cadastre
+NER,mining cadastre,mining cadastre,other,,Ministry of Mines and Industrial Development,national,2026-01-01-ner-niger-eiti
 NGA,national digital land information system,NGA,land,,Federal Ministry of Housing and Urban Development,federal,2025-03-20-fg-land-information-system-digitisation
 NGA,Compensation and Valuation System (CVS),NGA,other,,"KADGIS, Kaduna State",state,2025-02-04-kaduna-land-administration-software
 RWA,Irembo,Rwanda,other,portal,,,2026-02-18-rwanda-land-disputes-ease-boundary-errors
@@ -143,6 +146,7 @@ TUN,Géoportail cadastral de la Tunisie,Tunisie,land,Web-SIG,Office de la Topogr
 TUN,unified database of state properties,Tunisia,land,,Ministry of State Domains and Land Affairs,,2025-11-13-tunisie-webdo-biens-publics-carte-fonciere-numerique
 TUN,digital land register,Tunisia,land,,Office de la propriete fonciere,,2025-05-23-tun-webdo-signature-contrat-electroniques-registre-foncier
 TUN,ONPF IT system and cpf.gov.tn site,Tunisia,land,cpf.gov.tn,Office National de la Propriété Foncière,,2025-05-23-tun-mdeaf-transition-numerique-registre-foncier
+TUN,OTC website (otc.nat.tn),Office de la topographie et du cadastre,other,,OTC,,2026-10-23-tun-cybers-curit-plusieurs-organismes-publics-tunisiens-suspendent-temporairement-le
 TZA,e-Ardhi,Tanzania,land,digital land-administration platform,"Ministry of Lands, Housing and Human Settlements Development",national,2026-09-20-tza-tanzaniainvest-e-ardhi-sign-land-titles-any-region
 TZA,Ardhi Kiganjani,Tanzania,other,ILMIS-based mobile platform,"Ministry of Lands, Housing and Human Settlements Development",,2026-09-20-tza-tanzaniainvest-e-ardhi-sign-land-titles-any-region
 TZA,National Land Data Infrastructure (NLDI),Tanzania,land,national land database,"Ministry of Lands, Housing and Human Settlements Development",national,2026-09-11-tanzaniainvest-nldi-national-land-database-digital-land-services

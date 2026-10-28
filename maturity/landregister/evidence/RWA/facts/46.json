@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-rwa-why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digiti",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The scorecard, as reported by KT Press, says the Land Administration Information System has been linked to IFMIS, the Rwanda Revenue Authority and Irembo, bringing 12 land services online.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Land Administration Information System",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
