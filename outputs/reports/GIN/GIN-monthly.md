@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: GIN
-ledger_rows: 27
+ledger_rows: 31
 not_held: 3
-record: 8c5bdeee3d61
+record: 739f934d8c8f
 ---
 
 # News, Sep – Oct 2026
@@ -31,12 +31,30 @@ record: 8c5bdeee3d61
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Communication and digital economy portfolio</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée : Fana Soumah nommé Ministre de la Communication, de l’économie numérique et de l’Innovation (Décret)](https://agpguinee.com/guinee-fana-soumah-nomme-ministre-de-la-communication-de-leconomie-numerique-et-de-linnovation-decret/)** — AGP Guinée, 26 October 2026
+
+Presidential decree of 26 Oct 2026 names new head of merged communication and digital economy ministry.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
@@ -136,6 +154,8 @@ Guinea's media regulator, the Haute Autorité de la Communication, banned four w
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -203,6 +223,36 @@ Guinea's prime minister, Bah Oury, pressed telecoms officials on a visit reporte
 **[Guinée : Amadou Oury Bah exige l’accélération de la mise en service du Data Center national. | Sahel Matin](https://sahelmatin.com/guinee-amadou-oury-bah-exige-lacceleration-de-la-mise-en-service-du-data-center-national/)** — Sahel Matin, 15 September 2026
 
 Guinea's prime minister, Amadou Oury Bah, visited the national data centre at Koloma on 15 September 2026, found it about 90% complete but not operational, and ordered it brought into service. The investment is put at close to $10 million. He asked the digital economy ministry to identify blockages and wants concrete results within two to three weeks.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cyber Security Index score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCSI :: Guinea](https://ncsi.ega.ee/country/gn/)** — e-Governance Academy (NCSI), 4 September 2026
+
+NCSI version 4 Sep 2026: 34 of 120 points; zero on incident response, critical infrastructure, crisis management.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National cybersecurity incident response centre (CERT)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[NCSI :: Guinea](https://ncsi.ega.ee/country/gn/)** — e-Governance Academy (NCSI), 4 September 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 
@@ -415,6 +465,36 @@ Guinea's livestock ministry launched Ngaynaako on 22 October 2026, a one-stop on
 **[Ministère de l’Élevage : Alpha Bacar Barry présente la plateforme NGAYNAAKO pour rapprocher l’administration des acteurs du secteur](https://mediaguinee.com/2026/10/ministere-de-lelevage-alpha-bacar-barry-presente-la-plateforme-ngaynaako-pour-rapprocher-ladministration-des-acteurs-du-secteur/)** — MediaGuinee, 23 October 2026
 
 Guinea's Ministry of Livestock presented NGAYNAAKO on 22 October 2026, a platform through which farmers and other livestock-sector actors can obtain the ministry's documents, regulations and support schemes without travelling to its offices. Minister Alpha Bacar Barry said it will work in national languages with AI assistance and will count the farms operating in the country; the ministry had already moved its mail handling online.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">KONKOE integrated fisheries and maritime economy management system (SIGPEM)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lancement officiel du Système intégré de gestion de la pêche et de l'économie maritime à travers la plateforme KONKÖE : la République de Guinée accélère la digitalisation du secteur de la pêche et renforce sa souveraineté sur les ressources halieutiques](https://www.simandou2040.gn/actualites/konkoe-sigpem-lancement-digitalisation-secteur-peche-guinee)** — Programme Simandou 2040, 26 October 2026
+
+Presidency release: fishing licences and certificates go online; first licence signed at 26 Oct 2026 Conakry launch.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Pêche : la Guinée lance le SIGPEM pour simplifier les démarches administratives](https://guineenews.org/2026/10/26/peche-la-guinee-lance-le-sigpem-pour-simplifier-les-demarches-administratives/)** — Guinéenews, 26 October 2026
+
+Three rollout lots, vessel registry to catch certification; fishers ask local-language help for non-literate users.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djiba Diakité : ‘’Un Etat moderne se mesure à la qualité du service qu’il rend à ses citoyens’’ |](https://www.visionguinee.info/djiba-diakite-un-etat-moderne-se-mesure-a-la-qualite-du-service-quil-rend-a-ses-citoyens/)** — VisionGuinée, 27 October 2026
+
+Launched 26 Oct 2026; licences, landings, vessels and fishing revenue traced; billed as a Simandou 2040 reform.
 
 </div>
 
