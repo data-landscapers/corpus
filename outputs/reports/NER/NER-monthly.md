@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: NER
-ledger_rows: 23
+ledger_rows: 24
 not_held: 1
-record: 33ce34832294
+record: 267e28a7d012
 ---
 
 # News, Sep – Oct 2026
@@ -31,12 +31,30 @@ record: 33ce34832294
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-commerce strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lancement de l'atelier sur le commerce électronique](https://www.commerce-industrie.gouv.ne/?p=3463)** — Ministère du Commerce et de l'Industrie (Niger), 27 October 2026
+
+Strategy at pre-validation stage; 2035 horizon; financial inclusion among stated aims; ministry release.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
