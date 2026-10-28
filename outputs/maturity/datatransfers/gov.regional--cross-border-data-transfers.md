@@ -20,9 +20,9 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Leading | 6 |
 | 4 Operating | 8 |
-| 3 Established | 23 |
+| 3 Established | 22 |
 | 2 Nascent | 3 |
 | 1 Absent | 3 |
 | Unplaced | 0 |
@@ -51,9 +51,16 @@ Mauritius's Data Protection Act 2017 governs sending data abroad, and in 2024 th
 - The Data Protection Office reports for January to December 2024: 179 new complaints (158 on CCTV), 39 complaints closed, 105 personal data breaches notified, 112 cross-border transfers authorised and 12 rejected under section 36, 10 impact assessments received, and four compliance inspections ([source, 2024](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
 - The Data Protection Office reports on its enforcement in 2024 of the Data Protection Act 2017, citing its sections on complaints, transfers, registration, certification and appeals; the report is dated 2024 by year only ([source, 2024](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
 
+### Nigeria: 5 Leading
+
+Nigeria's 2023 data law governs sending data abroad, and in 2025 the regulator ordered Meta to stop unapproved transfers; published model terms are not known.
+
+- Premium Times reports the Commission's 18 February 2025 orders against Meta, including a $32.8 million fine, cited transfer of data abroad without authorisation and directed it to halt such transfers without approval ([source, 2025-02-18](https://www.premiumtimesng.com/news/headlines/832580-32-8-million-fine-dispute-meta-settles-with-nigerian-govt-out-of-court.html)).
+- Premium Times reports the Commission found Meta transferred Nigerians' data abroad without authorisation under the Nigeria Data Protection Act and ordered it to stop transfers without approval ([source, 2025-02-18](https://www.premiumtimesng.com/news/headlines/832580-32-8-million-fine-dispute-meta-settles-with-nigerian-govt-out-of-court.html)).
+
 ### Uganda: 5 Leading
 
-Uganda's 2019 Act sets safeguards for sending data abroad and the regulator applied them in 2025 and 2026; no source found reports published guidance for complying.
+Uganda's 2019 Act sets safeguards for sending data abroad and the regulator applied them in 2025 and 2026; no source reports published guidance for complying.
 
 - The report says the Personal Data Protection Office on 20 February 2026 directed WhatsApp LLC and Meta Platforms Inc. to ensure lawful safeguards are in place for the cross-border transfer of Ugandan users' personal data, finding neither had met these requirements ([source, 2026-02-20](https://www.business-humanrights.org/en/latest-news/uganda-data-regulator-orders-meta-whatsapp-llc-to-comply-with-countrys-cross-border-data-transfer-rules/)).
 - The PDPO's decision of 20 February 2026 partly upheld a complaint against WhatsApp LLC and Meta Platforms, Inc. and ordered, within 90 days, a revised Uganda privacy policy, separation of core and ancillary processing with opt-in, a Regulation 30 adequacy assessment, an intra-group DPIA and a legitimate-interests assessment ([source, 2026-02-20](https://adlegalug.com/wp-content/uploads/2026/02/PDPO-Decision-in-Ad-legal-International-Ltd-v-WhatsApp-LLC-Meta-Platforms-Inc.pdf)).
@@ -118,14 +125,14 @@ Rwanda's 2021 data protection law sets the rule on sending personal data abroad;
 
 ### Tunisia: 4 Operating
 
-Tunisia's 2004 law bars sending personal data abroad without the authority's prior permission; no source found says whether any transfer has been approved, refused or penalised.
+Tunisia's 2004 law bars sending personal data abroad without the authority's prior permission; no source says whether any transfer has been approved, refused or penalised.
 
 - The DIAL article (published 2026-06-15) says Tunisia's 2018 adequacy list of countries for data transfers identified only five African countries ([source, 2018](https://dial.global/africas-digital-future-seamless-data-flows/)).
 - Organic Law 2004-63 of 27 July 2004, arts. 50-52, bars transfer of personal data abroad where it harms public security or Tunisia's vital interests, allows it only to a country with an adequate level of protection, and requires prior authorisation of the data protection authority (INPDP) in every case, decided within one month; the document notes no replacement law had been adopted at its 2026 retrieval ([source, 2004-07-27](https://legislation-securite.tn/latest-laws/loi-organique-n-2004-63-du-27-juillet-2004-portant-sur-la-protection-des-donnees-a-caractere-personnel/)).
 
 ### Algeria: 3 Established
 
-Algeria's 2025 amendment requires an adequacy assessment before data go abroad for criminal-justice purposes; no source found says whether any list, contract terms or procedure exists.
+Algeria's 2025 amendment requires an adequacy assessment before data go abroad for criminal-justice purposes; no source says whether any list, contract terms or procedure exists.
 
 - The Authority adopted Délibération n° 04 on 15 July 2026 extending the law's rules to images published on social platforms, including treating publication on foreign-run platforms as a transfer abroad ([source, 2026-07-15](https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf)).
 - Law 25-11 of 24 July 2025, published in the Journal Officiel that day, adds article 45 bis 13 to Law 18-07, under which the competent authority assesses the adequate level of protection in a foreign State or international organisation before data are transferred there, for transfers for criminal-justice purposes, and allows transfer on insufficient safeguards only in listed cases (vital interests, public security threat, individual criminal cases); the document gives as_of as its publication date and states no separate entry-into-force date ([source, 2025-07-24](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025048.pdf)).
@@ -145,19 +152,19 @@ Cape Verde law since 2013 lets personal data go abroad only to countries judged 
 
 ### Central African Republic: 3 Established
 
-A 2025 source says the law conditions transfers outside CEMAC and ECCAS on sufficient protection in the recipient state; no source found reports means of complying.
+A 2025 source says the law conditions transfers outside CEMAC and ECCAS on sufficient protection in the recipient state; no source reports means of complying.
 
 - Jurist Zengue writes the law conditions transfers to non-CEMAC or non-ECCAS states on a sufficient level of protection in the recipient state, with further requirements for other transfers ([source, 2025-09-16](https://www.village-justice.com/articles/%EF%81%9Bcentrafrique%EF%81%9D-les-huit-forces-loi-relative-protection-des-donnees,54519.html)).
 
 ### Chad: 3 Established
 
-A 2026 source says the data protection law requires safeguards and notification or authorisation to send personal data abroad; no source found reports means of complying.
+A 2026 source says the data protection law requires safeguards and notification or authorisation to send personal data abroad; no source reports means of complying.
 
 - The Cabinet Thomas Dingamgoto analysis says articles 29 to 32 of Loi n°007/PR/2015 require a legal basis, adequate safeguards and notification or prior authorisation by ANSICE for sending personal data out of Chad ([source, 2026-07-06](https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/)).
 
 ### Comoros: 3 Established
 
-No source found reports the 2021 data protection law governs sending personal data abroad on a risk-based model, and it whether the rule has been applied.
+The 2021 data protection law governs sending personal data abroad on a risk-based model, and no source found says whether the rule has been applied.
 
 - TechHive Advisory reports that the Comoros Protection of Personal Data Law, enacted on 29 June 2021, governs international transfers on a risk-based model (adequacy, appropriate safeguards, derogations) ([source, 2021-06-29](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law)).
 
@@ -194,7 +201,7 @@ The Gambia's 2025 data protection Act lets its Commission set conditions on send
 
 ### Guinea: 3 Established
 
-A 2016 law gives the data protection authority a transfer approval function; no source found says whether any procedure or guidance on sending data abroad exists.
+A 2016 law gives the data protection authority a transfer approval function; no source says whether any procedure or guidance on sending data abroad exists.
 
 - The law defines an Autorité de Protection and gives it functions (declarations and authorisations, transfer approval, investigation, guidelines) but has processing declarations go to the competent authority 'designated by regulation' (Art. 5); it names no constituted body or appointed members (document published 2016-07) ([source, 2016-07](https://assembleeguinee.org/loi-ndeg-l-2016-relative-la-cybersecurite-et-la-protection-des-donnees-caractere-personnel-en)).
 
@@ -213,27 +220,20 @@ Malawi's Data Protection Act, in force since 2024, restricts sending personal da
 
 ### Mali: 3 Established
 
-Mali's 2013 data protection law sets the rule on sending data abroad; no source found says whether the authority has published lists, model terms or guidance.
+Mali's 2013 data protection law sets the rule on sending data abroad; no source says whether the authority has published lists, model terms or guidance.
 
 - Law no. 2013-015 of 21 May 2013, adopted by the National Assembly on 9 May 2013 and promulgated, lets a data controller transfer personal data to a foreign state in article 11 when the receiving state's protection is found sufficient by the data protection authority, or by the authority's decision where a transfer is covered by contract clauses or internal rules; the document gives no repeal ([source, 2013-05-21](https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/)).
 
-### Nigeria: 3 Established
-
-Nigeria's 2023 data protection law sets rules on sending personal data abroad; no source found says whether the authority has published lists, contract terms or guidance.
-
-- Vanguard reports the NDPC National Commissioner saying the Nigeria Data Protection Act, enacted in June 2023, mandates the Commission to decide the adequacy of other countries' data protection as a basis for cross-border transfer of personal data, and that the Commission approves binding corporate rules, codes and certification mechanisms for such transfers ([source, 2023-06](https://www.vanguardngr.com/2025/04/nigeria-joins-global-cross-border-privacy-forum/)).
-- The Official Gazette text of the Nigeria Data Protection Act, 2023, signed 12 June 2023, lists in its contents a Part VIII on cross-border transfers of personal data (sections 41 to 43: basis for transfer, adequacy of protection, other bases for transfer outside Nigeria); the captured text stops at the contents and gives no provision wording ([source, 2023-06-12](https://cert.gov.ng/ngcert/resources/Nigeria_Data_Protection_Act_2023.pdf)).
-
 ### Sao Tome and Principe: 3 Established
 
-A 2016 law limits sending personal data abroad to places with adequate protection, in force as of 2022; no source found reports published ways to comply.
+A 2016 law limits sending personal data abroad to places with adequate protection, in force as of 2022; no source reports published ways to comply.
 
 - ALT Advisory's factsheet says Law No. 03/2016 restricts, under Articles 19 and 20, sending personal data outside the national territory, permitted only where the receiving legal system ensures an adequate level of protection, otherwise by notification to the ANPDP with the person's unequivocal authorisation or with ANPDP authorisation backed by contractual clauses; it lists the law as in place with the authority operational; the page gives no date for the rule, so the page's last-updated date of 24 June 2022 is used ([source, 2022-06-24](https://dataprotection.africa/sao-tome-and-principe/)).
 - Law No. 03/2016, passed by the National Assembly on 15 February 2016 and promulgated by the President on 18 March 2016, allows personal data to be sent outside the national territory only where the receiving legal system ensures an adequate level of protection (Article 19, the ANPDP deciding adequacy), with exceptions on notification to the ANPDP for unequivocal consent or contractual necessity and by ANPDP authorisation backed by contractual clauses (Article 20), and fines of 45 to 90 million dobras for breaching Articles 19 and 20 (Article 32); the text says it enters into force 'under the legal terms' and gives no date, so the promulgation date is used ([source, 2016-03-18](https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf)).
 
 ### Senegal: 3 Established
 
-Senegal's 2008 data protection law bars sending data abroad unless the receiving country protects it enough, reported in 2018; no source found reports the authority's practice.
+Senegal's 2008 data protection law bars sending data abroad unless the receiving country protects it enough, reported in 2018; no source reports the authority's practice.
 
 - The article says a data owner cannot transfer data to another country unless the receiving country gives sufficient protection (Article 9 of the Data Protection Act, Law 2008-12), and the CDP must be informed before any transfer and authorisation sought; no date given for the statement, so the document published date 2018-05-11 is used ([source, 2018-05-11](https://www.mondaq.com/data-protection/693598/data-security-and-cybercrime-in-senegal)).
 
@@ -271,13 +271,13 @@ Tanzania's 2023 data protection law sets rules for sending personal data abroad;
 
 ### Ghana: 2 Nascent
 
-Ghana's 2012 law was being amended in 2025 to add transfer rules; no source found says whether any rule on sending data abroad is in force.
+Ghana's 2012 law was being amended in 2025 to add transfer rules; no source says whether any rule on sending data abroad is in force.
 
 - The roundup says amendments to the Data Protection Act 2012 are in process, would add rules on children's and sensitive data, retention limits, international transfers, impact assessments and privacy by design, and that a draft Data Protection Act, 2025 was published requiring domestic storage of certain data; no month is given for the draft, so 2025 is used ([source, 2025](https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup)).
 
 ### Mozambique: 2 Nascent
 
-A bill approved in March 2026 would let personal data leave only where protection is equivalent; no source found says whether any rule is in force.
+A bill approved in March 2026 would let personal data leave only where protection is equivalent; no source says whether any rule is in force.
 
 - INTIC reports the Council of Ministers approved on 3 March 2026 the Personal Data Protection Bill for submission to the Assembly of the Republic, which sets strict rules for international transfers of personal data, allowed only where equivalent protection is assured ([source, 2026-03-03](https://intic.gov.mz/proposta-de-lei-de-proteccao-de-dados-pessoais-segue-para-debate-na-assembleia-da-republica/)).
 
@@ -295,7 +295,7 @@ Eritrea had no rule on sending data abroad as of 2026, and no source found says 
 
 ### Namibia: 1 Absent
 
-Namibia had no rule on sending data abroad in August 2026, according to an opposition MP; no source found says whether a draft would set one.
+Namibia had no rule on sending data abroad in August 2026, according to an opposition MP; no source says whether a draft would set one.
 
 - Opposition MP Rodney Cloete (IPC shadow minister of international relations and trade) told the Windhoek Observer that Namibia has no data protection statute, so no rules govern cross-border transfers of data; this is a named actor's stated position, dated by the article's published date ([source, 2026-08-04](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/)).
 

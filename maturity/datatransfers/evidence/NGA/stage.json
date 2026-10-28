@@ -1,16 +1,17 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-001;NGA-002",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "5",
+      "standing": "in-force",
+      "use": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-005;NGA-004",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-datatransfers.py.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

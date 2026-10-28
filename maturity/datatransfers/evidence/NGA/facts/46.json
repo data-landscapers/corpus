@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-03-premiumtimes-meta-settles-nigerian-govt-out-of-court",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Premium Times reports the Commission found Meta transferred Nigerians' data abroad without authorisation under the Nigeria Data Protection Act and ordered it to stop transfers without approval.",
+   "as_of": "2025-02-18",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "Premium Times reports the Commission's 18 February 2025 orders against Meta, including a $32.8 million fine, cited transfer of data abroad without authorisation and directed it to halt such transfers without approval.",
+   "as_of": "2025-02-18",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

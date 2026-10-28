@@ -7,3 +7,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,RWA,gov.regional--cross-border-data-transfers,fact,no evidence,4,RWA-002;RWA-001,Arrivals added RWA-001; RWA-002; stage no evidence -> 4.
 2026-10-17,SWZ,gov.regional--cross-border-data-transfers,fact,no evidence,4,SWZ-002;SWZ-001,Arrivals added SWZ-001; SWZ-002; stage no evidence -> 4.
 2026-10-17,TCD,gov.regional--cross-border-data-transfers,fact,no evidence,3,TCD-001,Arrivals added TCD-001; stage no evidence -> 3.
+2026-10-28,NGA,gov.regional--cross-border-data-transfers,fact,3,5,NGA-005;NGA-004,Premium Times: on 18 February 2025 the NDPC found Meta sent Nigerians' data abroad without authorisation and ordered it to stop such transfers; the rule applied; 3 -> 5
