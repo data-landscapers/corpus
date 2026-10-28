@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-06-nga-cbn-circular-national-cybersecurity-levy-implementation",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Central Bank of Nigeria circular of 6 May 2024 says the Cybercrimes (Prohibition, Prevention, Etc) (Amendment) Act 2024 has been enacted and directs banks and payment providers to apply its section 44 cybersecurity levy, with deductions starting within two weeks.",
+   "as_of": "2024-05-06",
+   "date_precision": "day",
+   "system": "Cybercrimes (Prohibition, Prevention, Etc) (Amendment) Act 2024",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

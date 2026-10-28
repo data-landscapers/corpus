@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-14-bfa-lutte-contre-la-cybercriminalite-deux-individus-arretes-pour-usurpatio",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "The BCLCC (cybercrime brigade) arrested two people over a TikTok video and referred them to the Ouaga II prosecutor for offences under Penal Code arts 375-2, 375-3 and 524-4 committed via ICT.",
+   "as_of": "2025-08-14",
+   "date_precision": "day",
+   "system": "Code pénal (arts 375-2, 375-3, 524-4)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

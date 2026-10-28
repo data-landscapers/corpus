@@ -1,0 +1,37 @@
+{
+ "slug": "2024-11-27-cmr-understanding-the-hidden-face-of-cybercrime-in-cameroon-a-deep-dive-in",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The document lists Law No 2010/012 relating to cyber criminality in Cameroon as part of the legal framework overseeing cybercrime, with penalties up to 10 years' imprisonment and fines up to 10 million FCFA.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "Law No 2010/012",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Per ANTIC figures given in 2023, its requests from law enforcement led to the apprehension of suspects in 1,836 cases in 2022, with 673 investigation files forwarded to court.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Law No 2010/012",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "reported",
+   "fact": "ANTIC reported for 2022 a count of 1,836 arrests and 673 investigation files sent to court, and 245 cases needing authentication of digital evidence.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Law No 2010/012",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

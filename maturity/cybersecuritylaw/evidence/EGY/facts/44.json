@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-01-egy-egypt-escalates-its-war-on-digital-freedom-of-expression",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "LDSF describes Anti-Cybercrime Law No. 175 of 2018, including Article 25 on family values, as the law under which authorities prosecute content creators.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Anti-Cybercrime Law No. 175 of 2018",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "LDSF reports the Cairo Economic Court on 29 November 2025 sentenced video blogger Mohamed Abdel Aaty to two years and a fine under the Anti-Cybercrime Law, and sentenced Qamar El-Wekala to six months.",
+   "as_of": "2025-11-29",
+   "date_precision": "day",
+   "system": "Anti-Cybercrime Law No. 175 of 2018",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-05-sle-man-arraigned-for-alleged-cyberbullying-in-freetown",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Premier News SL reports a man charged under Section 44(1)(a) of Sierra Leone's Cyber Security and Crime Act, 2021, which the court is applying.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "Cyber Security and Crime Act, 2021",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Joseph Sesay was arraigned at Pademba Road Court on 5 August 2025 on two counts of cyberstalking under Section 44(1)(a) of the Cyber Security and Crime Act, 2021, and granted bail.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "Cyber Security and Crime Act, 2021",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

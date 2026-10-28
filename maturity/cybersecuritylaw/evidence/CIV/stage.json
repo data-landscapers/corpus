@@ -8,7 +8,7 @@
    "use": "used",
    "cap": "",
    "flags": "",
-   "stage_sources": "CIV-002;CIV-001",
+   "stage_sources": "CIV-005;CIV-002;CIV-004",
    "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
    "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
   }

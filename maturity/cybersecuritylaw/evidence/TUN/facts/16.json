@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-15-tun-tunisie-2000-affaires-de-cybercriminalite-sont-recensees-depuis-le-deb",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "as_of": "2025-01-15",
+   "date_precision": "day",
+   "system": "cybercrime law (not named)",
+   "class": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Tunisia's National Guard spokesperson said most of the 2,000 cybercrime cases since the start of 2024 were referred to the courts, leading to detention warrants against several defendants."
+  },
+  {
+   "sub_indicator": "law",
+   "as_of": "2025-01-15",
+   "date_precision": "day",
+   "system": "cybercrime law (not named)",
+   "class": "law",
+   "aspect": "use",
+   "value": "reported",
+   "fact": "Tunisia's National Guard spokesperson said 2,000 electronic-crime cases were recorded since the start of 2024, 800 of them processed through all legal stages."
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

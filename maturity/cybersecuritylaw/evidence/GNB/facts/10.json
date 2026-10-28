@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-gnb-concerns-grow-over-guinea-bissau-s-new-misinformation-law",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Channel Africa reports the National Transitional Council adopted a law against cybercrime, online fraud and false content; it does not say the law is promulgated or in force.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "false information and cybercrime law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

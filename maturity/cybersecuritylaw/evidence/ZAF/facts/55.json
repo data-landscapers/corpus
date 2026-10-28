@@ -1,0 +1,27 @@
+{
+ "slug": "2024-06-10-zaf-calls-for-finalisation-of-cyber-security-bill",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ITWeb says the Cyber Crimes Act, signed into law in May 2021, came into partial operation on 1 December 2021.",
+   "as_of": "2021-12-01",
+   "date_precision": "day",
+   "system": "Cybercrimes Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "ITWeb says the Cyber Security Bill is still in development, with experts including Jacqueline Fick drafting it.",
+   "as_of": "2024-06-10",
+   "date_precision": "day",
+   "system": "Cyber Security Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

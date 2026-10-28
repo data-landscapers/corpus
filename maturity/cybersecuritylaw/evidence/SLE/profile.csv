@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,law,standing,coverage,in-force,2023-01,SLE-002;SLE-003;SLE-004;SLE-005;SLE-006,SLE-001=bill,nothing dated since 2023-10-24
-SLE,law,use,coverage,,,,,nothing held
+SLE,law,standing,coverage,in-force,2025-08-05,SLE-002;SLE-003;SLE-004;SLE-005;SLE-006;SLE-007;SLE-009;SLE-011,SLE-001=bill,
+SLE,law,use,coverage,used,2025-11-25,SLE-008;SLE-010;SLE-012,,

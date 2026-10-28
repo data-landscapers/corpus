@@ -1,0 +1,27 @@
+{
+ "slug": "2024-08-01-mwi-divisive-war-on-cybercrimes",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article cites the Electronic Transaction and Cyber Security Act of 2016 as the law under which cyber offences are charged.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "Electronic Transaction and Cyber Security Act 2016",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Police charged a Mzuzu man with cyber spamming under Section 91 of the 2016 Act, and arrested Kamlepo Kalua and Bon Kalindo over voice notes said to breach the cyber law.",
+   "as_of": "2024-08-01",
+   "date_precision": "day",
+   "system": "Electronic Transaction and Cyber Security Act 2016",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

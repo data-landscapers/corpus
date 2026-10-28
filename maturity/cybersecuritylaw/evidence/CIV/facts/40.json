@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-31-civ-cybercriminalite-un-marabout-arrete-pour-arnaque-et-chantage-sur-son-a",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "AIP reports the suspect was prosecuted in October 2025 under loi n°2013-451 of 19 June 2013 on cybercrime, so the law is in force.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "Loi n°2013-451 du 19 juin 2013 relative à la cybercriminalité",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "AIP reports the PLCC arrested a marabout, who was presented to the prosecutor and prosecuted for threatening to spread sexual images and e-wallet fraud under loi n°2013-451 and the Penal Code.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "Loi n°2013-451 du 19 juin 2013 relative à la cybercriminalité",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

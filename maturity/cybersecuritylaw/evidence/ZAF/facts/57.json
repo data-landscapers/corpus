@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-06-zaf-lack-of-national-cyber-security-strategy-puts-sa-at-risk",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ITWeb reports the Cybercrimes Act 19 of 2020 was signed in June 2021 and remains in partial operation; a Cyber Security Bill is still in development.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Cybercrimes Act 19 of 2020",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

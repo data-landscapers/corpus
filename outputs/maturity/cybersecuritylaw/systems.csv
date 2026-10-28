@@ -75,6 +75,7 @@ DZA,Agence de la sécurité des systèmes d'information,Agence de la sécurité 
 EGY,Law 175 of 2018 on combating information technology crimes,القانون رقم 175 لسنة 2018 بشأن مكافحة جرائم تقنية المعلومات,law,,,,2026-04-22-mashru-qanun-hamayat-al-atfal-min-al-jaraim-al-iliktruniyya
 EGY,Law 175 of 2018 on combating information technology crimes,القانون رقم 175 لسنة 2018 بشأن مكافحة جرائم تقنية المعلومات,law,,,,2026-04-22-tadilat-qanun-175-2018-jaraim-al-dhaka-al-istinai
 EGY,Egypt National Cybersecurity Strategy 2023-2027,National Cybersecurity Strategy,other,,,,2025-10-19-ntra-uae-cybersecurity-council-framework-agreement-gitex
+EGY,Law 175 of 2018,Egypt,law,,,,2025-11-28-egy-om-mekka-economic-court-reasoning-law-175-2018
 ERI,national cybersecurity strategy (none public),,other,,,,2025-01-01-eritrea-digital-watch-country-profile
 ERI,Penal Code of Eritrea,Penal Code,law,,,,2020-05-05-eri-coe-octopus-cybercrime-legal-profile
 ETH,Critical Infrastructure Cybersecurity Proclamation No. 1426/2026,Critical Infrastructure Cybersecurity Proclamation,law,,House of People's Representatives; enforced by INSA,national,2026-08-07-ethiopia-critical-infrastructure-cybersecurity-proclamation-insa
@@ -85,6 +86,7 @@ GIN,loi sur la cybersécurité,loi de la cybersécurité,law,,,,2025-07-26-amina
 GIN,ANSSI Guinée,Agence Nationale de la Sécurité des Systèmes d'Information,other,,"Ministère de la Communication, de l'Économie Numérique et de l'Innovation",,2026-06-12-anssi-campagne-nationale-sensibilisation-cybersecurite
 GMB,African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention),Malabo Convention,other,,African Union,signed by The Gambia on 2022-12-02; ratification and domestication still owed,2022-12-02-mocde-gambia-signs-au-convention-cyber-security-personal-data-protection
 GMB,"Information and Communications Act, 2009","Information and Communications Act, 2009",law,,Government of The Gambia,,2009-05-29-gambia-information-and-communications-act-2009-wipolex
+GMB,Cybercrime Bill 2023,The Gambia,law,,National Assembly,,2025-10-23-gmb-new-criminal-law-and-draft-cybercrime-bill-in-the-gambia-threatens-pre
 GNB,National CSIRT (planned),National CSIRT for Guinea-Bissau,other,,Government of Guinea-Bissau,,2025-09-18-cybil-feasibility-study-guinea-bissau-cybersecurity
 GNB,Lei da Integridade Digital,Lei da Integridade Digital,law,,Conselho Nacional de Transição,,2026-05-21-gnb-maisafrika-lei-integridade-digital
 GNQ,Ley 7/2024,"Ley Num. 7/2024 sobre redes sociales, delitos informaticos y ciberdelincuencia",law,,Government of Equatorial Guinea,,2026-09-17-gnq-gqpress-querellas-ley-7-2024-diario-rombe
@@ -93,6 +95,8 @@ KEN,National Computer and Cybercrimes Coordination Committee,National Computer a
 KEN,National Cybersecurity Agency,National Cybersecurity Agency,other,,Ministry of Interior,,2026-06-22-puzzle-ruto-cybersecurity-unit-nation
 KEN,National Computer and Cybercrimes Co-ordination Committee,National Computer and Cybercrimes Co-ordination Committee,other,,,,2026-06-22-puzzle-ruto-cybersecurity-unit-nation
 KEN,Computer Misuse and Cybercrimes Act,Kenya,law,,,,2026-10-15-ssd-salc-oral-statement-cybercrime-law
+KEN,"Computer Misuse and Cybercrimes Act, Cap. 79C",Kenya,law,,Parliament of Kenya,,2025-10-21-ken-computer-misuse-and-cybercrimes-amendment-act-2025
+KEN,Computer Misuse and Cybercrimes Act 2018,Kenya,law,,,,2026-02-26-ken-kenya-court-due-to-rule-on-cybercrimes-law-as-another-journalist-faces
 LBR,Cybercrime Act of 2025,Cybercrime Act of 2025,law,,Ministry of Posts and Telecommunications (published); Liberia National Police (enforcement),,2026-09-23-lbr-fpa-cdc-cybercrime-law-supreme-court
 LBR,Cybercrime Act of 2025,Cybercrime Act of 2025,law,,Ministry of Posts and Telecommunications (published); Liberia National Police (enforcement),,2026-09-21-lbr-frontpageafrica-cybercrime-act-first-trial-koung-case
 LBR,Cybercrime Act of 2025,Cybercrime Act of 2025,law,,Ministry of Posts and Telecommunications (published); Liberia National Police (enforcement),,2026-09-21-lbr-newdawn-koung-seeks-release-ai-image-suspect
@@ -155,6 +159,8 @@ MUS,National Cybersecurity Committee,National Cybersecurity Committee,other,,Gov
 MUS,CERT-MU,Computer Emergency Response Team of Mauritius,other,,Ministry responsible for information technology (set up under s.38),,2021-11-24-mauritius-cybersecurity-cybercrime-act-2021
 MWI,Malawi CERT (MCERT),Malawi CERT,other,,Malawi Communications Regulatory Authority (unit under the Authority),,2016-11-04-malawi-electronic-transactions-and-cyber-security-act
 NAM,NAM-CSIRT,Namibia Cyber Security Incident Response Team,other,,CRAN,,2026-04-11-nam-csirt-namibia-cybersecurity-landscape-report-2025
+NAM,Cybercrime Bill,Cybercrime Bill,law,,,,2026-03-17-nam-cybercrime-bill-heads-to-parliament
+NAM,Cybercrime Bill,Namibia,law,,Ministry of Information and Communication Technology,,2026-02-18-nam-cybercrime-bill-in-the-pipeline-for-namibia
 NER,cybercrime law,Niger,law,,,,2026-10-08-ner-hrw-junta-tightens-grip-free-expression
 NGA,"Cybercrimes (Prohibition, Prevention, etc.) Act","Cybercrimes (Prohibition, Prevention, etc.) Act, amended 2024",law,,,,2025-08-01-cybercrime-act-misuse-n1-1trn
 NGA,"Cybercrimes (Prohibition, Prevention, etc.) Act","Cybercrimes (Prohibition, Prevention, etc.) Act, amended 2024",law,,,,2026-09-22-nga-vanguard-privacy-leaked-conversations-dataact
@@ -173,6 +179,9 @@ SDN,Cyber Security Act of 2025,Cyber Security Act of 2025,law,,,,2026-05-21-suda
 SDN,SudaPass,Sudanese Digital Identity,other,,National Electronic Authentication Authority,basic; intermediate; high,2026-05-21-sudan-sudapass-terms-and-conditions
 SDN,National Mechanism to Combat Cybercrime,National Mechanism to Combat Cybercrime,other,,Prime Minister's office,,2026-10-23-sdn-sudanese-journalists-syndicate-rejects-criminal-law-amendment-and-cybe
 SDN,"Criminal Act 1991, Article 51(a) amendment",Temporary Decree 7 of 2026 adding publishing by electronic or media platforms as support for waging war against the state,other,,Ministry of Justice,,2026-10-23-sdn-moj-criminal-act-amendment-article-51a
+SDN,Informatics crimes unit,Sudan,other,,Ministry of Justice and competent bodies,,2026-04-16-sdn-moj-informatics-crimes-law-penalties-joint-unit
+SDN,Informatics Crimes Law,Sudan,law,,Ministry of Justice,,2025-10-15-sdn-dabanga-cabinet-approves-informatics-crimes-law-amendment
+SDN,Cybercrimes Act,Sudan,law,,,,2025-10-21-sdn-human-rights-defender-montaser-abdullah-may-face-the-death-penalty
 SEN,National Cybersecurity Authority (proposed),Autorité nationale de cybersécurité,other,,Ministry of Telecommunications and Digital Economy (bill sponsor),,2026-08-17-senegal-critical-infrastructure-bill-ministry-details
 SEN,National CERT and sector CERTs (proposed),,other,,,,2026-08-17-senegal-critical-infrastructure-bill-ministry-details
 SEN,Online cybercrime reporting platform,plateforme numérique de signalement des infractions cybercriminelles,other,built in-house by police engineers,"Police nationale, Division spéciale de lutte contre la cybercriminalité",national,2026-02-12-aps-plateforme-signalement-cybercriminalite-police
@@ -185,6 +194,7 @@ SLE,National Computer Security Incidence Response Coordination Center,National C
 SLE,National Cybersecurity Advisory Council,National Cybersecurity Advisory Council,other,,,,2021-11-25-sierra-leone-cyber-security-and-crime-act-2021
 SLE,National Cyber Security Fund,National Cyber Security Fund,other,,,,2021-11-25-sierra-leone-cyber-security-and-crime-act-2021
 SLE,Cybersecurity Emergency Response Center,Cybersecurity Emergency Response Center,other,,,,2021-10-21-sierra-leone-digital-transformation-project-pid-concept-stage
+SLE,Cybersecurity and Crime Act 2021,Sierra Leone,law,,,,2025-11-25-sle-councillor-charged-to-court-for-alleged-cyberbullying-of-member-of-par
 SOM,SOM-CIRT,Somalia Computer Incident Response Team,other,,National Communications Authority,national,2026-01-26-nca-somalia-cybersecurity-law-approved
 SOM,SOM-CIRT,Somalia Computer Incident Response Team,other,,National Communications Authority,national,2026-03-09-somalia-launches-somcirt
 SOM,SOM-CIRT,Somalia Computer Incident Response Team,other,,National Communications Authority,national,2026-01-29 Somali Parliament approves Cybersecurity Law amid rising threats
@@ -205,6 +215,7 @@ SSD,Cybercrimes and Computer Misuse Act,South Sudan,law,,National Communication 
 SSD,Cybercrimes and Computer Misuse Act,South Sudan,law,,,,2026-05-02-eth-amnesty-east-southern-africa-media-freedom
 SSD,Cybercrime and Computer Misuse Bill 2025,South Sudan,law,,Transitional National Legislative Assembly,,2025-10-23-ssd-south-sudan-mps-advance-cybercrime-bill-to-final-vote
 STP,Ponto de contacto permanente 24/7 (Polícia Judiciária),"ponto de contacto disponível vinte e quatro horas por dia, sete dias por semana",other,,Polícia Judiciária,national,2017-10-06-sao-tome-lei-15-2017-lei-sobre-cibercrime
+STP,Computer Security Incident Response Team (CSIRT/CERT),Sao Tome and Principe,other,,,,2025-04-11-digital-sao-tome-and-principe-p177158-implementation-status-results-report
 SWZ,Computer Crime and Cybercrime Act,Eswatini,law,,,,2026-04-29-swz-swazi24-maziya-national-data-policy
 SYC,"Cybercrimes and other Related Crimes Act, 2021 (Act 59 of 2021)",Cybercrimes and other Related Crimes Act,law,,National Assembly of Seychelles,national,2025-12-22-seychelles-cybercrimes-amendment-act-2025
 SYC,"Cybercrimes and other Related Crimes Act, 2021 (Act 59 of 2021)",Cybercrimes and other Related Crimes Act,law,,National Assembly of Seychelles,national,2021-12-15-seychelles-cybercrimes-and-other-related-crimes-act-2021
@@ -216,6 +227,7 @@ TGO,Agence Nationale de la Cybersécurité (ANCy),ANCy,other,,Togo state,,2022-0
 TGO,Agence nationale de la cybersécurité,Agence nationale de la cybersécurité,other,,Togo state,,2018-12-07-togo-loi-2018-026-cybersecurite-lutte-contre-cybercriminalite-jo
 TUN,Agence nationale de la cybersécurité (ANCS),Agence nationale de la cybersécurité,other,,Ministry of Communication Technologies (supervising ministry),public and private bodies listed in Article 6,2023-03-11-tunisie-decret-loi-2023-17-cybersecurite
 TUN,Agence nationale de la sécurité informatique (ANSI),Agence nationale de la sécurité informatique,other,,State; replaced by ANCS,,2023-03-11-tunisie-decret-loi-2023-17-cybersecurite
+TUN,Decree 54,Decree 54 (2022),law,,President,,2026-10-02-tun-tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now
 TZA,The Cybercrimes Act (Cap. 443),Cybercrimes Act,law,,Office of the Attorney General,,2023-01-01-cybercrimes-act-cap443-re2023
 TZA,The Cybercrimes Act,Cybercrimes Act,law,,Ministry of Information and Communication Technology,,2026-08-19-dailynews-tanzania-critical-ict-infrastructure-vigilance
 TZA,Ministry registration system for critical ICT infrastructure owners and operators,official system established by the Ministry,other,,Ministry of Information and Communication Technology,,2026-08-19-dailynews-tanzania-critical-ict-infrastructure-vigilance
@@ -224,10 +236,12 @@ UGA,Computer Misuse Act,Computer Misuse Act,law,,Parliament of Uganda,,2026-03-1
 UGA,Computer Misuse Act,"Computer Misuse Act, 2011 (amended 2022)",law,,Parliament of Uganda,,2026-09-01-nilepost-arrests-fake-news-personal-data
 UGA,Computer Misuse Act,"Computer Misuse Act, Cap 96",law,,Parliament of Uganda,,2026-07-01-cipesa-apc-wougnet-uganda-fourth-cycle-upr-submission
 ZAF,Cybercrimes Act (2020),Cybercrimes Act,law,,,,2026-09-16-zaf-iol-no-plan-ban-under-16s-social-media
+ZAF,Cybercrimes Act,South Africa,law,,,,2025-06-22-zaf-cybersecurity-bill-in-south-africa-overview
 ZMB,Zambia Cyber Security Agency,Zambia Cyber Security Agency,other,,"Government of Zambia, under the President",,2026-07-30-new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia
 ZMB,Cyber Security and Cybercrimes Act No. 2 of 2021,Zambia,law,,,,2025-03-25-zmb-mots-cyber-bills-amendments
 ZMB,Cyber Crimes Act,Zambia,law,,,,2026-10-15-ssd-salc-oral-statement-cybercrime-law
 ZMB,Cybersecurity and Cybercrime Act of 2025,Zambia,law,,,,2026-10-13-paradigm-initiative-statement-achpr-89th-session-human-rights-situation-africa
+ZMB,Cyber Crimes Act 2025,Zambia,law,,,,2026-07-20-zmb-zambian-journalist-detained-for-audio-leak-under-cyber-laws-weeks-befo
 ZWE,National Cybersecurity Authority of Zimbabwe (proposed),National Cybersecurity Authority,other,,"Ministry of ICT, Postal and Courier Services",national,2026-07-02-zimbabwe-cybersecurity-authority-strategy-finalising
 ZWE,National Cyber Incident Response Team (CIRT),National CIRT,other,,Government,national,2026-07-02-zimbabwe-cybersecurity-authority-strategy-finalising
 ZWE,"Criminal Law (Codification and Reform) Act [Chapter 9:23], Part VIII","Criminal Law (Codification and Reform) Act, Part VIII",law,,Government of Zimbabwe,national,2026-01-25-potraz-no-separate-cyber-crimes-act

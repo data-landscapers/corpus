@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-11-mli-bamako-structure-sa-reponse-aux-menaces-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The document says Mali already has a specific legal framework in the 2019 law on the repression of cybercrime, which sets the offences and prosecution rules.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Loi de 2019 portant répression de la cybercriminalité",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "reported",
+   "fact": "Mali's Pôle national de lutte contre la cybercriminalité handled 1,338 files in 2025, of which 1,130 were complaints and 208 self-referrals, with 834 procedures under investigation.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Pôle national de lutte contre la cybercriminalité",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

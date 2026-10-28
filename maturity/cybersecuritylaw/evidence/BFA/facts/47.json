@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-10-bfa-le-burkina-intensifie-ses-efforts-en-faveur-de-la-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Burkina Faso adopted a law on the security of information systems in July 2024, per Agence Ecofin.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Loi portant securite des systemes d'information",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

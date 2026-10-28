@@ -1,0 +1,27 @@
+{
+ "slug": "2025-06-10-zaf-cybercrime-crackdown-south-african-court-issues-landmark-sentence",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Clyde & Co says the Cybercrimes Act 19 of 2020 was enacted in 2021 and is the legal framework under which cybercriminals are prosecuted.",
+   "as_of": "2025-06-10",
+   "date_precision": "day",
+   "system": "Cybercrimes Act 19 of 2020",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Clyde & Co says the Bellville Specialised Commercial Crimes Court on 3 June 2025 convicted Lucky Erasmus on 17 Cybercrimes Act charges and sentenced him to eight years, three suspended.",
+   "as_of": "2025-06-03",
+   "date_precision": "day",
+   "system": "Cybercrimes Act 19 of 2020",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

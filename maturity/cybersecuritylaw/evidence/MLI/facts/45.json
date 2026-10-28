@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-16-mli-in-mali-2-more-journalists-arrested-under-cybercrime-law-for-criticizi",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CPJ describes Mali's 2019 cybercrime law, applied by a cybercrime unit set up in 2022, as the law under which journalists are prosecuted.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "2019 cybercrime law",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "CPJ reports the National Cybercrime Unit ordered the arrest of journalist Chahana Takiou on 8 June 2026 and detained Abdrahamane Keita on 9 June, both held under the cybercrime law.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "2019 cybercrime law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

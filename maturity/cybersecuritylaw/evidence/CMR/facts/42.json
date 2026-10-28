@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-12-cmr-suivi-des-recommandations-du-forum-national-sur-la-cybersecurite-et-la",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The OBS-CC observatory states that Cameroon's 2010 cyber law (five titles, 97 articles) remains the applicable law, with no new text promulgated.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "2010 cyber law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

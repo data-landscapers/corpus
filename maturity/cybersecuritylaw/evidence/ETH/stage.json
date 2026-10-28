@@ -1,16 +1,17 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "2",
-   "standing": "bill",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-001;ETH-002",
-   "gaps": "No source found says a cybercrime or cybersecurity law is in force.",
-   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "use": "used",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-004;ETH-005;ETH-003",
+      "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
+      "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

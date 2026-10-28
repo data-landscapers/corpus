@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-11-mli-bilan-du-pole-national-de-lutte-contre-la-cybercriminalite-en-2025-834",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Mali prosecutor's report says law no. 2022-058 of 22 December 2022 amending the Code of Penal Procedure gives the national cybercrime pole exclusive competence over offences in article 609 bis.",
+   "as_of": "2022-12-22",
+   "date_precision": "day",
+   "system": "Loi n°2022-058",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "reported",
+   "fact": "The national cybercrime pole reported for 2025 that 834 proceedings were under investigation out of 1,338 referrals, of which 208 were self-initiated and 1,130 complaints.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Pôle national de lutte contre la cybercriminalité",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

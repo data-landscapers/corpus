@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,law,standing,coverage,in-force,2020-01-20,DZA-001,,nothing dated since 2023-10-24
-DZA,law,use,coverage,,,,,nothing held
+DZA,law,standing,coverage,in-force,2020-01-20,DZA-001,DZA-002=bill,
+DZA,law,use,coverage,,,,,nothing found

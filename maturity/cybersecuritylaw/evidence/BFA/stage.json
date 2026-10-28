@@ -1,16 +1,17 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001;BFA-002",
-   "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "use": "used",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-005;BFA-004;BFA-001",
+      "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
+      "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

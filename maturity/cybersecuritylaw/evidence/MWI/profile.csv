@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,law,standing,coverage,in-force,2026-10,MWI-001;MWI-002;MWI-003;MWI-004,,
-MWI,law,use,coverage,,,,,nothing held
+MWI,law,standing,coverage,in-force,2026-10,MWI-001;MWI-002;MWI-003;MWI-004;MWI-006;MWI-009;MWI-011,MWI-005=bill;MWI-007=bill;MWI-008=bill,
+MWI,law,use,coverage,used,2026-09-02,MWI-010;MWI-012,,

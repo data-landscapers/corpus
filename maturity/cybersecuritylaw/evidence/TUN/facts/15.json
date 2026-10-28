@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-02-tun-tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Decree 54 of September 2022 makes spreading falsehoods by electronic means an offence; an amendment replacing jail with fines of 10,000 to 20,000 dinars for first offences took effect on 2026-09-30, per Al Jazeera.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Decree 54",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "The journalists' union SNJT recorded six prosecutions of journalists under Decree 54 between April 2025 and April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Decree 54",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Decree 54",
+   "country_label": "Decree 54 (2022)",
+   "class": "law",
+   "platform": "",
+   "owner": "President",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-22-zaf-cybersecurity-bill-in-south-africa-overview",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Michalsons states the President signed the Cybercrimes Act into law on 26 May 2021, while no separate cybersecurity bill or act exists.",
+   "as_of": "2021-05-26",
+   "date_precision": "day",
+   "system": "Cybercrimes Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrimes Act",
+   "country_label": "South Africa",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

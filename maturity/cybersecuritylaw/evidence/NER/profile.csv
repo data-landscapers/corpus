@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,law,standing,coverage,in-force,2026-09-21,NER-001;NER-003,,
-NER,law,use,coverage,used,2026-09-21,NER-002;NER-004,,
+NER,law,standing,coverage,in-force,2026-10-13,NER-001;NER-003;NER-005;NER-007;NER-009,,
+NER,law,use,coverage,used,2026-10-13,NER-002;NER-004;NER-006;NER-008,,

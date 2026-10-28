@@ -8,7 +8,7 @@
    "use": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "NAM-001;NAM-002",
+   "stage_sources": "NAM-001;NAM-006",
    "gaps": "No source found says a cybercrime or cybersecurity law is in force.",
    "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
   }

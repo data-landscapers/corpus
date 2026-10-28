@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-gha-ghana-launches-national-cybersecurity-policy-and-strategy",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Communications Minister cited the Cybersecurity Act, 2020 (Act 1038) as enshrining the collective responsibility to implement the national strategy.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Cybersecurity Act, 2020 (Act 1038)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-05-zaf-question-nw4395-to-the-acting-minister-of-police",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "reported",
+   "fact": "The Acting Minister of Police's reply says the Directorate for Priority Crime Investigation registered eight cyber fraud, extortion and ransomware cases over the past three years, with one arrest for extortion.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Cybercrimes Regulatory Framework",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-15-gnq-aprobacion-del-proyecto-de-ley-reguladora-del-uso-de-las-redes-sociale",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "The Chamber of Deputies unanimously passed the government's bill regulating social media and punishing cybercrime, and sent it to the Senate for second reading.",
+   "as_of": "2024-04-15",
+   "date_precision": "day",
+   "system": "Proyecto de Ley Reguladora del Uso de las Redes Sociales y el Ciberespacio",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

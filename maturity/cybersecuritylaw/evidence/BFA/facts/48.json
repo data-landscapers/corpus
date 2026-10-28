@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-29-bfa-cybersecurite-les-directeurs-generaux-des-structures-publiques-de-l-et",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The minister cites a law on information systems security adopted on 9 July 2024.",
+   "as_of": "2024-07-09",
+   "date_precision": "day",
+   "system": "Loi portant sécurité des systèmes d'information",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

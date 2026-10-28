@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-16-zmb-women-jailed-under-zambia-s-new-cyber-security-law",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CAJ News says President Hichilema signed Zambia's cyber security bill into law in April 2025.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Cyber Crimes Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "CAJ News reports two Chipata women pleaded guilty and were sentenced to 18 and 24 months by a magistrate for TikTok videos insulting the president, under the Cyber Crimes Act.",
+   "as_of": "2025-07-14",
+   "date_precision": "day",
+   "system": "Cyber Crimes Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

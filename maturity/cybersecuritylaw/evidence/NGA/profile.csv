@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,law,standing,coverage,in-force,2026-10,NGA-001;NGA-003;NGA-004;NGA-006;NGA-008;NGA-009;NGA-013;NGA-015,,
+NGA,law,standing,coverage,in-force,2026-10,NGA-001;NGA-003;NGA-004;NGA-006;NGA-008;NGA-009;NGA-013;NGA-015;NGA-017;NGA-018;NGA-019,NGA-016=bill,
 NGA,law,use,coverage,used,2026-10-15,NGA-002;NGA-005;NGA-007;NGA-010;NGA-011;NGA-012;NGA-014,,

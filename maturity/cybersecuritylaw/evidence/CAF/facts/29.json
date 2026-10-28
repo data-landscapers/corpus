@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-26-caf-face-a-l-explosion-des-crimes-la-centrafrique-approuve-une-loi-sur-la",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "RFI reports Central African deputies voted by acclamation on 25 January 2024 a cybersecurity and cybercrime law, to be promulgated in the following days.",
+   "as_of": "2024-01-25",
+   "date_precision": "day",
+   "system": "Cybersecurity and cybercrime law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,law,standing,coverage,in-force,2026-10-23,SDN-002;SDN-004;SDN-006;SDN-007;SDN-008;SDN-009;SDN-010;SDN-011,,
-SDN,law,use,coverage,used,2026-08-16,SDN-001;SDN-003;SDN-005,,
+SDN,law,standing,coverage,in-force,2026-10-23,SDN-002;SDN-004;SDN-006;SDN-007;SDN-008;SDN-009;SDN-010;SDN-011;SDN-012;SDN-015,SDN-013=bill,
+SDN,law,use,coverage,used,2026-08-16,SDN-001;SDN-003;SDN-005;SDN-014,,

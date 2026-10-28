@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-18-nam-cybercrime-bill-in-the-pipeline-for-namibia",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "A draft Cybercrime Bill was presented at a MICT public stakeholders' engagement in Windhoek, and the article says Namibia has no legislation yet directly governing cyber criminal behaviour.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "Cybercrime Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrime Bill",
+   "country_label": "Namibia",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

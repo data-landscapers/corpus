@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-02-mus-escroqueries-et-fraudes-en-ligne-plus-de-900-affaires-traitees-en-3-an",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Le Mauricien reports Mauritius's Cybercrime Unit handled 930 cases from January 2023 to January 2026, leading to 130 arrests, with 7 cases referred to court and no conviction yet.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Cybercrime Unit",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "reported",
+   "fact": "Le Mauricien reports the Cybercrime Unit's count of 930 cases handled between January 2023 and January 2026, with their outcomes (177 closed, 660 under investigation, 33 awaiting DPP advice, 7 before court).",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Cybercrime Unit",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

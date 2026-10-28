@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-20-ner-lutte-contre-la-cybercriminalite-la-police-judiciaire-face-aux-nouvell",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Le Sahel reports Niger's law no. 2019-33 of 3 July 2019 on the repression of cybercrime, significantly amended on 12 June 2024 to set penalties for online defamation, insults and harmful data.",
+   "as_of": "2024-06-12",
+   "date_precision": "day",
+   "system": "Loi n°2019-33 portant répression de la cybercriminalité",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

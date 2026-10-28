@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-01-eth-meskerem-abera-convicted-computer-crime-proclamation",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "The Federal High Court found Meskerem Abera (Ethio Neqat founder) guilty on two counts under Computer Crime Proclamation No. 958/2016 over two YouTube programmes, per her lawyer to BBC Amharic; sentencing was set for 11 November 2024.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "Computer Crime Proclamation No. 958/2016",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Computer Crime Proclamation No. 958/2016 was applied in a conviction by the Federal High Court.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "Computer Crime Proclamation No. 958/2016",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

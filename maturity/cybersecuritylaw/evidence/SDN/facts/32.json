@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-21-sdn-human-rights-defender-montaser-abdullah-may-face-the-death-penalty",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Front Line Defenders reports that on 20 October 2025 the Criminal Court in Port Sudan convicted lawyer Montaser Abdullah under the Cybercrimes Act and sentenced him to one year and four months in prison and a fine of one million Sudanese pounds.",
+   "as_of": "2025-10-20",
+   "date_precision": "day",
+   "system": "Cybercrimes Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Front Line Defenders reports that on 20 October 2025 the Criminal Court in Port Sudan convicted lawyer Montaser Abdullah under the Cybercrimes Act and sentenced him to one year and four months in prison and a fine of one million Sudanese pounds.",
+   "as_of": "2025-10-20",
+   "date_precision": "day",
+   "system": "Cybercrimes Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrimes Act",
+   "country_label": "Sudan",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

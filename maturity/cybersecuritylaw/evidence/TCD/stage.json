@@ -8,7 +8,7 @@
    "use": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "TCD-001",
+   "stage_sources": "TCD-002;TCD-001",
    "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
    "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
   }

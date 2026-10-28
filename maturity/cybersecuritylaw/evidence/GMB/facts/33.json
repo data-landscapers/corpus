@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-23-gmb-new-criminal-law-and-draft-cybercrime-bill-in-the-gambia-threatens-pre",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "CIVICUS Monitor reports that in March 2024 the National Assembly of The Gambia reintroduced the proposed 2023 Cybercrime Bill for adoption.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Cybercrime Bill 2023",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrime Bill 2023",
+   "country_label": "The Gambia",
+   "class": "law",
+   "platform": "",
+   "owner": "National Assembly",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-09-03-swz-two-alleged-facata-scammers-arrested-for-defrauding-victims-over-e80-0",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "fact": "Eswatini Daily News reports two accused appeared in Manzini Magistrates Court facing 30 fraud charges including under the Computer Crime and Cybercrime Act 6 of 2022.",
+   "as_of": "2025-09-02",
+   "date_precision": "day",
+   "system": "Computer Crime and Cybercrime Act 6 of 2022",
+   "class": "law",
+   "aspect": "standing",
+   "value": "in-force"
+  },
+  {
+   "sub_indicator": "law",
+   "fact": "Eswatini Daily News reports two accused appeared in Manzini Magistrates Court facing 30 fraud charges including under the Computer Crime and Cybercrime Act 6 of 2022.",
+   "as_of": "2025-09-02",
+   "date_precision": "day",
+   "system": "Computer Crime and Cybercrime Act 6 of 2022",
+   "class": "law",
+   "aspect": "use",
+   "value": "used"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

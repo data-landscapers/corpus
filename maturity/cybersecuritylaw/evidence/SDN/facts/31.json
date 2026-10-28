@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-15-sdn-dabanga-cabinet-approves-informatics-crimes-law-amendment",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Sudan's Council of Ministers approved on 13 October 2025 a draft 2025 amendment to the Informatics Crimes Law, submitted by Justice Minister Abdullah Daraf, raising some penalties to seven and up to ten years and allowing electronic search and seizure of devices.",
+   "as_of": "2025-10-13",
+   "date_precision": "day",
+   "system": "Informatics Crimes Law amendment 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Informatics Crimes Law",
+   "country_label": "Sudan",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

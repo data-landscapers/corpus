@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
+      "stage": "4",
       "standing": "in-force",
-      "use": "",
+      "use": "used",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-002;SWZ-001",
-      "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
+      "stage_sources": "SWZ-010;SWZ-011;SWZ-002",
+      "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
       "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-28"
     }
   ]
 }

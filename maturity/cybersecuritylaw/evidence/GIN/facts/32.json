@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-13-gin-guinee-consultations-sur-la-revision-du-cadre-juridique-de-la-cybersec",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Consultant Oumar Camara and ANSSI's alert centre director say Guinea has had a law on cybersecurity and personal data protection since 2016, mainly oriented to cybercrime.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "2016 law on cybersecurity and personal data protection",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "The document says ANSSI held a consultation workshop on draft legal texts on cybersecurity and cybercrime, prepared with SOCSLAWYERS on the ministry's instruction, to update the 2016 framework.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "Draft cybersecurity and cybercrime texts",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

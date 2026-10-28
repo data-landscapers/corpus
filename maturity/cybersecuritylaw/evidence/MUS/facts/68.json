@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-12-mus-cybercriminalite-837-cas-signales-en-deux-ans-mais-aucune-condamnation",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "The Prime Minister said the Cybercrime Unit handled 837 cases from January 2023 to November 2025, with 120 people arrested and five cases sent to court, and no conviction yet.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Cybercrime Unit",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "reported",
+   "fact": "The Prime Minister gave a count of 837 cases handled by the Cybercrime Unit between January 2023 and November 2025, including 167 closed, 640 under investigation and 21 awaiting the DPP.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Cybercrime Unit",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

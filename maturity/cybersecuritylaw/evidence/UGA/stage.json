@@ -8,7 +8,7 @@
    "use": "used",
    "cap": "",
    "flags": "",
-   "stage_sources": "UGA-003;UGA-002",
+   "stage_sources": "UGA-003;UGA-009;UGA-002",
    "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
    "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
   }

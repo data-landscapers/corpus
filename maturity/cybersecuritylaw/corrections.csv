@@ -4,3 +4,16 @@ CIV,001,standing,bill,revalued: in-force,the bill ratifies an ordinance of 2024 
 BWA,005,standing,bill,revalued: in-force,"the 2025 Act awaiting commencement replaces the Cybercrime and Computer Related Crimes Act 2018, which the same text shows is the law in force until then"
 GNB,001,standing,bill,removed,a law against false online content; it makes no attack on computers or data a crime and sets no duty to protect systems
 GNQ,002,use,used,removed,"four private criminal complaints lodged at the investigating court and awaiting it: no arrest, charge, prosecution or conviction yet (rebuild 2026-10-27)"
+CMR,008,use,reported,revalued: used,"ANTIC's count of arrests and files sent to court, with the law not named: files handled by a cybercrime unit are a use of the law, not a published count of cases under it"
+MAR,003,use,reported,revalued: used,"the DGSN's count of cybercrime cases handled, with the law not named: files handled by a cybercrime unit are a use of the law, not a published count of cases under it"
+MLI,014,use,reported,revalued: used,"the cybercrime pole's count of referrals and proceedings: files handled by a cybercrime unit are a use of the law, not a published count of cases under it"
+MLI,018,use,reported,revalued: used,"the cybercrime pole's count of files handled: files handled by a cybercrime unit are a use of the law, not a published count of cases under it"
+MUS,009,use,reported,revalued: used,"the Cybercrime Unit's count of cases handled, with the law not named: a use of the law, not a published count of cases under it"
+MUS,011,use,reported,revalued: used,"the Cybercrime Unit's count of cases handled, with the law not named: a use of the law, not a published count of cases under it"
+SEN,003,use,reported,revalued: used,"the police count of cybercrime complaints and referrals, with the law not named: a use of the law, not a published count of cases under it"
+SEN,006,use,reported,revalued: used,"the police count of cybercrime complaints, with the law not named: a use of the law, not a published count of cases under it"
+TUN,005,use,reported,revalued: used,"the National Guard's count of electronic-crime cases, with the law not named: a use of the law, not a published count of cases under it"
+ZAF,005,use,reported,revalued: used,"the DPCI's count of cyber cases registered, with the law not named: a use of the law, not a published count of cases under it"
+ZAF,011,use,reported,revalued: used,"the police count of cybercrime cases reported and NPA referrals, with the law not named: a use of the law, not a published count of cases under it"
+GNB,002,standing,bill,removed,the same false-information law GNB-001 was removed for: it makes no attack on computers or data a crime and sets no duty to protect systems (stage 4c 2026-10-28)
+ZWE,004,use,used,removed,"police say their cyber laboratory led to several convictions and give no date: question 3 needs a dated arrest, charge, prosecution or conviction (stage 4c 2026-10-28)"

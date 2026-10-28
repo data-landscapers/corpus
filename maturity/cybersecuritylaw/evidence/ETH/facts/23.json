@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-01-eth-assessing-ethiopia-s-readiness-to-combat-computer-focused-crimes-a-leg",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "A Bahir Dar University Journal of Law article treats the 2016 Computer Crime Proclamation as Ethiopia's current cybercrime law, which it says significantly amended earlier offences, and describes a 2019 draft Computer Crime Proclamation as a further proposed reform.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Computer Crime Proclamation 2016",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
