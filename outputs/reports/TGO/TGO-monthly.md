@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: TGO
-ledger_rows: 61
-not_held: 17
-record: 283300dfbf77
+ledger_rows: 62
+not_held: 16
+record: 17fbde75d665
 ---
 
 # News, Sep – Oct 2026
@@ -367,6 +367,28 @@ Togo's energy ministry launched an international tender for 5,200 smart-metering
 </nav>
 
 ### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public map of home fibre networks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Dossier d'appel d'offres ouvert n° 004/ARCEP/PRMP/2026 du 25 septembre 2026 pour la mise en place d'une cartographie des réseaux FTTH](https://arcep.tg/wp-content/uploads/2026/09/AOO_CARTOGRAPHIE_FTTH_RELANCE_02_2026.pdf)** — ARCEP Togo — Autorité de Régulation des Communications Électroniques et des Postes, 25 September 2026
+
+141-page tender dossier; single lot estimated at FCFA 250m; FCFA 7.5m bid bond; bids opened 30 Oct 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fibre à domicile : l’ARCEP prépare une carte pour comparer les opérateurs](https://www.togofirst.com/fr/telecoms/2710-20458-fibre-a-domicile-l-arcep-prepare-une-carte-pour-comparer-les-operateurs)** — Togo First, 27 October 2026
+
+Bids due 30 Oct 2026; FCFA 250m from ARCEP's 2026 budget; 240-day delivery; fault reporting on a map.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
