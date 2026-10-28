@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BWA,harmonisation,accepted,coverage,none,2026-02-02,BWA-001,,
-BWA,harmonisation,effect,coverage,,,,,nothing held
+BWA,harmonisation,accepted,coverage,none,2026-02-02,BWA-001;BWA-002,,
+BWA,harmonisation,effect,coverage,,,,,nothing found
