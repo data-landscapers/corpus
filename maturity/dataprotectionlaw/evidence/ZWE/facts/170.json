@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-24-zwe-33-of-zimbabwe-crimes-now-cyber-related",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "The document says Zimbabwe's Data Protection Act was enacted in 2021 and sets legal standards for handling personal data, with breach notification to POTRAZ within 24 hours.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "POTRAZ is described as the body overseeing compliance under the Act, with powers to investigate breaches, issue enforcement notices and impose penalties, and as acting through its Data Protection Officer.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

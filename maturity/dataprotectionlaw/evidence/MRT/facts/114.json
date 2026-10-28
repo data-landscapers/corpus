@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-12-mrt-ami-cybersecurity-general-framework-workshop-wardip",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "AMI reports the head of the personal data protection authority attended a national cybersecurity workshop in Nouakchott on 12 June 2025.",
+   "as_of": "2025-06-12",
+   "date_precision": "day",
+   "system": "Personal data protection authority",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

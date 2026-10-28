@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GMB,general,authority,qualifier,constituted,2026-08-17,GMB-002,GMB-011=provided;GMB-005=provided;GMB-008=provided,
-GMB,general,standing,coverage,enacted,2026-08-17,GMB-001;GMB-003;GMB-004;GMB-010;GMB-014,GMB-006=passed;GMB-007=passed;GMB-009=passed;GMB-015=announced,
+GMB,general,standing,coverage,enacted,2026-08-17,GMB-001;GMB-003;GMB-004;GMB-010;GMB-014,GMB-006=passed;GMB-007=passed;GMB-016=passed;GMB-009=passed;GMB-015=announced,
 GMB,general,regulations,coverage,none,2026-02,GMB-012,,
-GMB,general,application,coverage,,,,,nothing held
+GMB,general,application,coverage,,,,,nothing found
 GMB,general,last12,qualifier,advancing,2025-11-07,GMB-013,,

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-08-gnb-guine-bissau-anuncia-inicio-do-recenseamento-geral-da-populacao-e-habi",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The Council of Ministers approved the Data Protection Law with amendments and instructed an interministerial commission (Justice, Transport and Digital Economy, Public Works) to introduce the suggested changes, per a government communique.",
+   "as_of": "2026-05-08",
+   "date_precision": "day",
+   "system": "Lei de Protecção de Dados",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

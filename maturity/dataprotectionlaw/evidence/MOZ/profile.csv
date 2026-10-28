@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MOZ,general,authority,qualifier,provided,2025-09-23,MOZ-009,MOZ-013=none;MOZ-011=none,
-MOZ,general,standing,coverage,tabled,2026-10-22,MOZ-001;MOZ-015;MOZ-016,MOZ-003=announced;MOZ-004=drafting;MOZ-005=drafting;MOZ-006=drafting;MOZ-014=drafting;MOZ-007=drafting;MOZ-012=drafting;MOZ-008=drafting;MOZ-010=drafting,
-MOZ,general,regulations,coverage,,,,,nothing held
-MOZ,general,application,coverage,,,,,nothing held
+MOZ,general,standing,coverage,tabled,2026-10-26,MOZ-001;MOZ-015;MOZ-016;MOZ-017,MOZ-003=announced;MOZ-004=drafting;MOZ-005=drafting;MOZ-006=drafting;MOZ-014=drafting;MOZ-007=drafting;MOZ-012=drafting;MOZ-008=drafting;MOZ-010=drafting;MOZ-018=none,
+MOZ,general,regulations,coverage,,,,,nothing found
+MOZ,general,application,coverage,,,,,nothing found
 MOZ,general,last12,qualifier,advancing,2026-10-01,MOZ-002,,

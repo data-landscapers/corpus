@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-12-cmr-suivi-des-recommandations-du-forum-national-sur-la-cybersecurite-et-la",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The OBS-CC observatory states that law no. 2024/017 of 23 December 2024 opened an 18-month transition and that its obligations, including breach notification, have been enforceable since 23 June 2026.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Loi n 2024/017",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The OBS-CC observatory states that the APDP created by the law is not yet installed.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "none",
+   "fact": "The OBS-CC observatory states that the implementing decree provided by article 53 of the law has not been taken.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "Loi n 2024/017",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

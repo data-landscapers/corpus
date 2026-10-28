@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-03-france24-meta-fighting-nigerian-fines-shut-facebook",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "AFP reports an NDPC decision against Meta over Facebook and Instagram user data, which Meta has appealed.",
+   "as_of": "2025-05-03",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission decision",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -8,12 +8,13 @@
       "standing": "drafting",
       "regulations": "",
       "application": "",
-      "last12": "no-change",
+      "last12": "advancing",
       "cap": "",
-      "flags": "",
-      "stage_sources": "NAM-002;NAM-003",
-      "gaps": "No source states the bill tabled, passed or enacted; the newest fact (13 July 2026) says it is being finalised. NAM-001 (4 Aug 2026, an opposition MP) says Namibia has no data protection statute, which agrees with drafting rather than contradicting it. The authority is named only in the 2020 and 2022 drafts and nothing dated since states it constituted; no regulations or application held.",
-      "note": "The bill is still a draft after about 12 years; no source puts it before parliament, so the rung is 2 and the stage 3 test (enacted) is unmet. Stage 1 is not available because a bill is on record in preparation."
+      "flags": "advancing",
+      "stage_sources": "NAM-002;NAM-018",
+      "gaps": "No source states the bill tabled, passed or enacted; the cabinet committee on legislation approved it and sent it to the justice ministry (NAM-018, March 2026), and on 13 July 2026 the minister said it was being finalised (NAM-002). NAM-001 (an opposition MP, August 2026) says no statute exists. The authority is named only in the 2020 and 2022 drafts; no regulations or application held.",
+      "note": "The bill is still a draft; no source puts it before parliament, so the rung is 2 and the stage 3 test (enacted) is unmet. The cabinet committee's approval in March 2026 is the advancing event.",
+      "as_at": "2026-10-28"
     }
   ]
 }

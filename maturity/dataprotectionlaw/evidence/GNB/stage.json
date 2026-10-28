@@ -8,13 +8,13 @@
       "standing": "tabled",
       "regulations": "",
       "application": "",
-      "last12": "no-change",
+      "last12": "advancing",
       "cap": "",
-      "flags": "",
-      "stage_sources": "GNB-004;GNB-003",
-      "gaps": "No law is enacted. The bill's stage is unclear: the 2025 UPR report has it awaiting discussion (tabled), the September 2026 speaker gives it no stage (read as drafting), and nothing shows it advanced since. A February 2025 call for a law (GNB-005) and the September 2026 statement of absence (GNB-001) agree that none exists. Regulations and application: nothing found.",
-      "note": "Strongest standing stated is tabled (GNB-004, 18 Feb 2025), so stage 2; stage 3 needs an enacted law, and GNB-001 and GNB-005 confirm none exists as at 22 Sep 2026. The authority is none (GNB-002) but no cap applies below stage 4.",
-      "as_at": "2026-10-17"
+      "flags": "advancing",
+      "stage_sources": "GNB-004;GNB-006",
+      "gaps": "No law is enacted. The 2025 UPR report had a bill awaiting discussion in the Assembly (GNB-004); on 8 May 2026 the Council of Ministers approved the law with amendments still to be made (GNB-006), and no source says it has since gone to the Assembly. GNB-001 (22 September 2026) says no law exists. Regulations and application: nothing found.",
+      "note": "The strongest standing stated is tabled (GNB-004, 18 February 2025), and the newest a cabinet-approved bill under amendment (GNB-006, 8 May 2026); either is stage 2, and stage 3 needs an enacted law. The Council of Ministers' approval inside the twelve months is the advancing event.",
+      "as_at": "2026-10-28"
     }
   ]
 }

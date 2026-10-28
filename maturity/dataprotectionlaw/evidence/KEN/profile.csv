@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,general,authority,qualifier,constituted,2026-09-30,KEN-001;KEN-007;KEN-011;KEN-014;KEN-017;KEN-019,,
+KEN,general,authority,qualifier,constituted,2026-09-30,KEN-001;KEN-007;KEN-011;KEN-014;KEN-017;KEN-019;KEN-026,,
 KEN,general,standing,coverage,in-force,2026-10-22,KEN-002;KEN-006;KEN-010;KEN-012;KEN-016;KEN-021;KEN-022;KEN-024;KEN-025,,
 KEN,general,regulations,coverage,issued,2026-08-28,KEN-004;KEN-020,,
-KEN,general,application,coverage,reported,2025-03,KEN-018,KEN-003=activity;KEN-005=activity;KEN-008=activity;KEN-013=activity;KEN-015=applied;KEN-023=activity,
+KEN,general,application,coverage,reported,2025-03,KEN-018,KEN-003=activity;KEN-005=activity;KEN-008=activity;KEN-013=activity;KEN-027=activity;KEN-015=applied;KEN-023=activity,
 KEN,general,last12,qualifier,advancing,2026-08-04,KEN-009,,

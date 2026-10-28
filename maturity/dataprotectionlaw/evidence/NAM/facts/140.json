@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-17-nam-cran-and-nam-csirt-tackle-ransomware-attack-on-telecom-operator",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "CRAN says Namibia lacks dedicated cybercrime and data protection legislation.",
+   "as_of": "2024-12-17",
+   "date_precision": "day",
+   "system": "",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

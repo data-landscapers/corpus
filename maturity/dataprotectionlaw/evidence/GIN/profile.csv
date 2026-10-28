@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GIN,general,authority,qualifier,provided,2024-06-20,GIN-002;GIN-005,,
-GIN,general,standing,coverage,in-force,2025-10-14,GIN-007;GIN-009,GIN-006=drafting;GIN-001=announced;GIN-008=drafting;GIN-003=enacted;GIN-004=enacted,
-GIN,general,regulations,coverage,,,,,nothing held
-GIN,general,application,coverage,,,,,nothing held
-GIN,general,last12,qualifier,,,,,nothing held
+GIN,general,standing,coverage,in-force,2025-10-14,GIN-007;GIN-009;GIN-010,GIN-006=drafting;GIN-001=announced;GIN-008=drafting;GIN-003=enacted;GIN-004=enacted,
+GIN,general,regulations,coverage,,,,,nothing found
+GIN,general,application,coverage,,,,,nothing found
+GIN,general,last12,qualifier,,,,,nothing found

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-13-gmb-rising-cyber-threats-alarm-gambians",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "passed",
+   "fact": "The National Assembly passed the Personal Data Protection and Privacy Bill, 2025, which awaits presidential assent, per Foroyaa.",
+   "as_of": "2025-10-13",
+   "date_precision": "day",
+   "system": "Personal Data Protection and Privacy Bill, 2025",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

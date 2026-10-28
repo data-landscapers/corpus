@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 EGY,general,authority,qualifier,constituted,2026-10,EGY-003;EGY-011;EGY-018,EGY-010=provided,
-EGY,general,standing,coverage,in-force,2025-06-21,EGY-013,EGY-014=transition;EGY-015=transition;EGY-001=transition;EGY-009=transition;EGY-016=transition,
+EGY,general,standing,coverage,in-force,2026-04-26,EGY-013;EGY-020,EGY-014=transition;EGY-015=transition;EGY-001=transition;EGY-009=transition;EGY-016=transition,
 EGY,general,regulations,coverage,issued,2025-11,EGY-002;EGY-008;EGY-017,EGY-012=none,
 EGY,general,application,coverage,activity,2026,EGY-004;EGY-006;EGY-019,,
 EGY,general,last12,qualifier,advancing,2026,EGY-005;EGY-007,,

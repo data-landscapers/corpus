@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BWA,general,authority,qualifier,constituted,2026-10,BWA-003;BWA-007;BWA-009;BWA-013;BWA-018,,
+BWA,general,authority,qualifier,constituted,2026-10,BWA-003;BWA-007;BWA-009;BWA-013;BWA-018;BWA-019,,
 BWA,general,standing,coverage,in-force,2026-07-28,BWA-002;BWA-006;BWA-010;BWA-012;BWA-014;BWA-015;BWA-016;BWA-017,,
-BWA,general,regulations,coverage,,,,,nothing held
+BWA,general,regulations,coverage,,,,,nothing found
 BWA,general,application,coverage,applied,2026-07-22,BWA-001;BWA-005,,
 BWA,general,last12,qualifier,advancing,2026-07,BWA-004;BWA-008;BWA-011,,

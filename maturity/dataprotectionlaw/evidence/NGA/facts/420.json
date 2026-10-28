@@ -1,0 +1,37 @@
+{
+ "slug": "2025-11-03-premiumtimes-meta-settles-nigerian-govt-out-of-court",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Premium Times reports the Nigeria Data Protection Act, signed in June 2023, was the basis of the Commission's fine on Meta in February 2025.",
+   "as_of": "2025-02-18",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "Premium Times reports the Commission fined Meta $32.8 million under the Act on 18 February 2025, for unauthorised data transfers abroad, unsolicited advertising and an unfiled audit.",
+   "as_of": "2025-02-18",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Premium Times reports the Nigeria Data Protection Commission issued orders and defended them in the Federal High Court.",
+   "as_of": "2025-11-03",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

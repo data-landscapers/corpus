@@ -6,15 +6,15 @@
       "stage": "3",
       "authority": "provided",
       "standing": "in-force",
-      "regulations": "",
+      "regulations": "none",
       "application": "",
       "last12": "advancing",
       "cap": "",
-      "flags": "advancing",
-      "stage_sources": "CMR-004",
-      "gaps": "No regulation, decree or order made under Loi 2024/017 and no application fact has been found. The Autorite is named in the law (CMR-002) and no source states its head or members appointed.",
-      "note": "Standing is in-force from 23 June 2026 (CMR-004), which is stage 3. Stage 4 needs an applied or reported fact within three years, and none is held.",
-      "as_at": "2026-10-17"
+      "flags": "regulations pending;advancing",
+      "stage_sources": "CMR-004;CMR-009",
+      "gaps": "No decision, sanction or count under Loi 2024/017 has been found. The implementing decree of article 53 had not been taken and the APDP was not yet installed as at 12 September 2026 (CMR-010, CMR-011).",
+      "note": "Standing is in-force from 23 June 2026 (CMR-004, CMR-009), which is stage 3. Stage 4 needs an applied or reported fact within three years, and none is held; the authority is only provided, so the cap would hold it at 3 in any case.",
+      "as_at": "2026-10-28"
     }
   ]
 }

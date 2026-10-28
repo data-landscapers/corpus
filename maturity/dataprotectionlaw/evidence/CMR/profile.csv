@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,general,authority,qualifier,provided,2024-12-23,CMR-002,,
-CMR,general,standing,coverage,in-force,2026-06-23,CMR-004,CMR-001=enacted;CMR-003=enacted;CMR-006=transition;CMR-008=enacted;CMR-007=drafting,
-CMR,general,regulations,coverage,,,,,nothing held
-CMR,general,application,coverage,,,,,nothing held
+CMR,general,authority,qualifier,provided,2026-09-12,CMR-002;CMR-010,,
+CMR,general,standing,coverage,in-force,2026-06-23,CMR-004;CMR-009,CMR-001=enacted;CMR-003=enacted;CMR-006=transition;CMR-008=enacted;CMR-007=drafting,
+CMR,general,regulations,coverage,none,2026-09-12,CMR-011,,
+CMR,general,application,coverage,,,,,nothing found
 CMR,general,last12,qualifier,advancing,2026-06-23,CMR-005,,

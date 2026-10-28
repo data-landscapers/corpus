@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-13-gin-guinee-consultations-sur-la-revision-du-cadre-juridique-de-la-cybersec",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The document says Guinea has had a 2016 law on cybersecurity and personal data protection, adopted ten years ago.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "2016 law on cybersecurity and personal data protection",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -43,7 +43,7 @@ Benin's data protection law is in its 2018 digital code and was applied in 2025;
 
 ### Mali: 5 Leading
 
-Mali has a 2013 data protection law, applied by its authority with fines and complaints handled in 2025; no source found reports the law's commencement date.
+Mali has a 2013 data protection law, applied by its authority with fines and complaints handled in 2025; no source found gives its commencement date.
 
 *Advancing.*
 
@@ -78,7 +78,7 @@ South Africa's Protection of Personal Information Act, 2013 has been in force si
 
 ### Angola: 4 Operating
 
-Angola's 2011 data protection law is in force and its agency fined named companies in 2025 and 2026; no source found reports a count of decisions.
+Angola's 2011 data protection law is in force and its agency fined named companies in 2025 and 2026; no source found counts its decisions.
 
 *Under revision; Advancing.*
 
@@ -109,7 +109,7 @@ Eswatini has a Data Protection Act of 2022, applied through enforcement notices 
 
 ### Gabon: 4 Operating
 
-Gabon has a 2011 data protection law, last amended in 2023, and its authority fined a bank in 2024; no source found says whether regulations exist.
+Gabon has a 2011 data protection law, amended in 2023, and its authority fined a bank in 2024; no source found says regulations exist.
 
 - The APDPVP plenary, by deliberation n°073 of 25 April 2024 on a complaint of 27 November 2023, imposed a pecuniary sanction of 90,000,000 FCFA on Citibank Gabon S.A. for diverting employee data from its declared purpose and processing ethnic-origin data, with a two-month formal notice ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
 - The deliberation applies loi n°025/2023 of 12 July 2023, amending loi n°001/2011 on personal data protection, as law in force, citing its articles 43, 75, 203 and 204 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
@@ -130,7 +130,7 @@ Ghana's 2012 Data Protection Act was applied by a court in 2024 and against name
 
 ### Kenya: 4 Operating
 
-Kenya's 2019 Data Protection Act is in force and its commissioner has fined businesses; no source found reports the number of decisions in any one year.
+Kenya's 2019 Data Protection Act is in force and its commissioner has fined businesses; no source found gives the number of decisions in a year.
 
 *Advancing.*
 
@@ -143,7 +143,7 @@ Kenya's 2019 Data Protection Act is in force and its commissioner has fined busi
 
 ### Nigeria: 4 Operating
 
-Nigeria's Data Protection Act of 2023 is in force and applied through fines and court orders; no source found reports the number of decisions since mid-2024.
+Nigeria's Data Protection Act of 2023 is in force and applied through fines and court orders; no source found counts decisions since mid-2024.
 
 *Under revision; Advancing; Regressing.*
 
@@ -170,7 +170,7 @@ Senegal's 2008 data protection law is in force and applied, with figures publish
 
 ### Tanzania: 4 Operating
 
-Tanzania's Personal Data Protection Act 2022, in force since 2023, was applied in a 2025 ruling; no source found says how many decisions have been made.
+Tanzania's Personal Data Protection Act 2022, in force since 2023, was applied in a 2025 ruling; no source found counts its decisions.
 
 *Advancing.*
 
@@ -195,7 +195,7 @@ Uganda's Data Protection and Privacy Act is in force and was applied in decision
 
 ### Algeria: 3 Established
 
-Algeria's 2018 data protection law has been in force since 2023 and its authority issues rules; no source found says whether any controller has been sanctioned.
+Algeria's 2018 data protection law has been in force since 2023 and its authority issues rules; no source found reports a sanction on a controller.
 
 *Advancing.*
 
@@ -227,15 +227,16 @@ Burundi promulgated its first personal data protection law in March 2026; no sou
 
 ### Cameroon: 3 Established
 
-Cameroon's 2024 data protection law came into force in June 2026; no source found reports no decision under it is recorded, and its authority's appointment.
+Cameroon's 2024 data protection law came into force in June 2026, with its authority not installed; no source found reports a decision under it.
 
-*Advancing.*
+*Regulations pending; Advancing.*
 
 - The Direction Generale du Budget (Ministry of Finance) states that the deadline set for the entry into force of Law No. 2024/017 of 23 December 2024 on personal data protection was reached on 23 June 2026, and that the law is now officially in force ([source, 2026-06-23](https://www.dgb.cm/la-loi-sur-la-protection-des-donnees-personnelles-entre-officiellement-en-vigueur/)).
+- The OBS-CC observatory states that law no. 2024/017 of 23 December 2024 opened an 18-month transition and that its obligations, including breach notification, have been enforceable since 23 June 2026 ([source, 2026-06-23](https://obs-cc.org/suivi-recommandations-fncc/)).
 
 ### Cape Verde: 3 Established
 
-Cabo Verde's 2001 data protection law, last amended in 2021, is in force and cases reach its authority; no source found says whether any was decided.
+Cabo Verde's 2001 data protection law, amended in 2021, is in force and cases reach its authority; no source found says any was decided.
 
 - An opinion piece by Luis Carlos Silva urges Cabo Verde to revisit its existing Data Protection Law (2001/2021) and align it with AI challenges, treating the law as the current one; no date for the stated position beyond the document's published date of 2025-04-07 ([source, 2025-04-07](https://expressodasilhas.cv/opiniao/2025/04/07/revolucao-tecnologica/96431)).
 - CNPD president Faustino Varela says the base law dates from 2001, was amended in 2013 (which led to the CNPD's constitution) and in 2021 (data protection officer obligation), and the CNPD works from the general legal regime since 2015-2016; stated in an interview published 2025-02-02 ([source, 2025-02-02](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448)).
@@ -261,13 +262,13 @@ In 2026 Chad's 2015 personal data law is treated as in force, with a replacement
 
 ### Comoros: 3 Established
 
-Comoros enacted a personal data protection law in 2021; no decision under it is on record, and no source found says whether it is in force.
+Comoros enacted a personal data protection law in 2021; no decision under it is on record, and no source found says it is in force.
 
 - TechHive Advisory states the Union of Comoros enacted its Protection of Personal Data Law on 29 June 2021 as a comprehensive framework; it does not say whether the law has commenced ([source, 2021-06-29](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law)).
 
 ### Congo: 3 Established
 
-Congo has a 2019 personal data protection law with a commission inaugurated in January 2026; no source found says whether decisions have been made under it.
+Congo has a 2019 personal data protection law with a commission inaugurated in January 2026; no source found reports a decision under it.
 
 *Advancing.*
 
@@ -328,7 +329,7 @@ Equatorial Guinea has had a personal data protection law since 2016; no source f
 
 ### Ethiopia: 3 Established
 
-A personal data protection proclamation was published in 2024 and its regulator approved about 10 data transfers by 2025; no source found reports decisions against controllers.
+Ethiopia published a data protection proclamation in 2024 and its regulator approved about 10 data transfers by 2025; no source found reports decisions on controllers.
 
 *Regulations pending; Advancing.*
 
@@ -338,7 +339,7 @@ A personal data protection proclamation was published in 2024 and its regulator 
 
 ### Gambia: 3 Established
 
-The Gambia enacted its first general data protection law in 2025; no source found reports no decision under it is on record and its commencement date.
+The Gambia enacted its first general data protection law in 2025; no source found gives its commencement date or reports a decision under it.
 
 *Regulations pending; Advancing.*
 
@@ -379,7 +380,7 @@ Madagascar has a data protection law of 2015 and an authority seated in 2025; no
 
 ### Malawi: 3 Established
 
-Malawi's Data Protection Act of 2024 is in force and applied through guidance only; no source found says whether any decision or sanction has been made.
+Malawi's Data Protection Act of 2024 is in force and applied through guidance only; no source found reports a decision or sanction under it.
 
 *Regulations pending; Advancing.*
 
@@ -411,7 +412,7 @@ Morocco's 2009 data protection law is in force and its authority issues guidance
 
 ### Niger: 3 Established
 
-Niger's 2022 data protection law is in force, with compliance files and inspections in 2025; no source found says whether any decision was made under it.
+Niger's 2022 data protection law is in force, with compliance files and inspections in 2025; no source found reports a decision under it.
 
 *Regressing.*
 
@@ -431,14 +432,14 @@ Rwanda's 2021 Data Protection Act is in force and the authority registers and tr
 
 ### Sao Tome and Principe: 3 Established
 
-São Tomé and Príncipe enacted a data protection law in 2016; no source found reports no sanction or decision under it is recorded, and its regulations.
+São Tomé and Príncipe enacted a data protection law in 2016; no source found reports a decision or regulations under it.
 
 - The IBA chapter states that the existing data protection framework applies in São Tomé and Príncipe, naming the Personal Data Guarantee and Protection Law (Law 03/2016) as the primary instrument, with scope over processing by controllers headquartered or established in the country; the chapter is undated and its published year 2024 is used ([source, 2024](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Sao-Tome-Principe)).
 - Lei n.º 03/2016 on the protection of personal data of natural persons was published in Diário da República n.º 39 of 10 May 2016; the captured text, which stops inside Article 45, gives no commencement date ([source, 2016-05-10](https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf)).
 
 ### Seychelles: 3 Established
 
-Seychelles' Data Protection Act 2023 is in force and its commission handled 14 cases in 2025; no source found says whether any ended in a decision.
+Seychelles' Data Protection Act 2023 is in force and its commission handled 14 cases in 2025; no source found says any ended in a decision.
 
 *Advancing.*
 
@@ -468,7 +469,7 @@ Togo has a 2019 data protection law; its authority trained correspondents in 202
 
 ### Tunisia: 3 Established
 
-A 2004 data protection law is in force and a replacement has been before parliament since 2025; no source found says whether the law is applied.
+Tunisia's 2004 data protection law is in force and a replacement has been before parliament since 2025; no source found says the law is applied.
 
 *Under revision; Advancing.*
 
@@ -476,7 +477,7 @@ A 2004 data protection law is in force and a replacement has been before parliam
 
 ### Zambia: 3 Established
 
-Zambia's Data Protection Act of 2021 is in force, applied so far through registration and training; no source found says whether any decision has been made.
+Zambia's Data Protection Act of 2021 is in force, applied so far through registration and training; no source found reports a decision under it.
 
 *Advancing.*
 
@@ -500,10 +501,12 @@ Zimbabwe has the Cyber and Data Protection Act of 2021, applied through licensin
 
 ### Guinea-Bissau: 2 Nascent
 
-Guinea-Bissau has no data protection law; a bill was awaiting discussion in parliament in 2025, and no source found says whether it has advanced since.
+Guinea-Bissau has no data protection law; the cabinet approved a bill with amendments in May 2026, and no source found says it has reached parliament.
+
+*Advancing.*
 
 - Guinea-Bissau's national UPR report says the National People's Assembly's inaction blocks key legislation, and that several bills, including one on personal data protection, are awaiting discussion; no date is given, so the document's published date of 18 February 2025 is used ([source, 2025-02-18](https://upr-info.org/sites/default/files/country-document/2025-09/A_HRC_WG.6_49_GNB_1_F.pdf)).
-- The speaker said a bill provides for creating a 'Data Protection Agency', with independence risks in its membership and in leaving its organisation to a decree; the article gives no stage for the bill ([source, 2026-09-22](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/)).
+- The Council of Ministers approved the Data Protection Law with amendments and instructed an interministerial commission (Justice, Transport and Digital Economy, Public Works) to introduce the suggested changes, per a government communique ([source, 2026-05-08](https://forbesafricalusofona.com/guine-bissau-anuncia-inicio-do-recenseamento-geral-da-populacao-e-habitacao-para-junho/)).
 
 ### Libya: 2 Nascent
 
@@ -525,10 +528,12 @@ Mozambique has no data protection law; its bill was on parliament's agenda in Oc
 
 ### Namibia: 2 Nascent
 
-Namibia has a draft Data Protection Bill, still being finalised in July 2026, and no law to apply; no source found says when it reaches Parliament.
+Namibia has no data protection law; a cabinet committee approved the bill in 2026, and no source found says when it reaches Parliament.
+
+*Advancing.*
 
 - ICT minister Emma Theofelus said Namibia is finalising the Data Protection Bill, speaking at the first meeting of the new CRAN board on the Monday before the 14 July 2026 article ([source, 2026-07-13](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A)).
-- Minister Theofelus said the Data Protection Bill had been through consultation and drafting and was ready for resubmission to the Cabinet Committee on Legislation for validation and onward processing by Parliament; she spoke at a staff engagement the day before the 27 January 2026 article ([source, 2026-01-26](https://neweralive.na/data-legislations-under-final-polishing/)).
+- The Windhoek Observer, citing the Ministry of Finance's 2026/27 budget estimates, reports the Data Protection Bill has been approved by the cabinet committee on legislation and forwarded to the Ministry of Justice and Labour Relations for further review ([source, 2026-03](https://observer24.com.na/cybercrime-bill-heads-to-parliament/)).
 
 ### Sierra Leone: 2 Nascent
 
@@ -541,7 +546,7 @@ Sierra Leone has no data protection law, only a bill Cabinet approved in April 2
 
 ### South Sudan: 2 Nascent
 
-South Sudan has no data protection law; a 2025 bill was being reviewed in May 2026, and no source found says whether it has reached parliament.
+South Sudan has no data protection law; a 2025 bill was under review in May 2026, and no source found says it has reached parliament.
 
 *Advancing.*
 
@@ -551,7 +556,7 @@ South Sudan has no data protection law; a 2025 bill was being reviewed in May 20
 
 ### Sudan: 2 Nascent
 
-Sudan had a data and artificial intelligence bill in draft in August 2026, with no law yet to apply; no source found reports the bill's content.
+Sudan had a data and artificial intelligence bill in draft in August 2026, with no law yet to apply; no source found reports its content.
 
 - On 6 August 2026 the Council of Ministers discussed the digital transformation ministry's draft bills, including a data and artificial intelligence bill, and directed further study before approval by the interim parliament, a joint sitting of the Sovereignty and Ministers councils; the article does not describe the bill's content ([source, 2026-08-06](https://sudantribune.net/article/317108)).
 - On 11 August 2026 the Justice Ministry's under-secretary said the ministry is preparing three draft laws with the digital transformation ministry, among them a 2026 Law on Regulating Data and Artificial Intelligence, to provide the legislative framework including data protection ([source, 2026-08-11](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1)).
