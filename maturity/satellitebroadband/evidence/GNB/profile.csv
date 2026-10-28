@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNB,satellite,service,coverage,sale,2026-07-17,GNB-004;GNB-009;GNB-010,GNB-001=licensed;GNB-006=licensed;GNB-007=none;GNB-003=licensed;GNB-008=licensed;GNB-005=licensed;GNB-002=licensed,
-GNB,satellite,counted,coverage,,,,,nothing held
+GNB,satellite,service,coverage,sale,2026-07-17,GNB-004;GNB-009;GNB-010,GNB-001=licensed;GNB-011=licensed;GNB-006=licensed;GNB-007=none;GNB-003=licensed;GNB-008=licensed;GNB-005=licensed;GNB-002=licensed,
+GNB,satellite,counted,coverage,,,,,nothing found

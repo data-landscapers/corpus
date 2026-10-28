@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-03-zwe-digital-solutions-to-power-economic-transformation-cyber-threats-rife",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ICT Minister Tatenda Mavetera listed the licensing of low-earth orbit satellite connectivity among the ICT sector's milestones over the past year.",
+   "as_of": "2025-07-03",
+   "date_precision": "day",
+   "system": "low-earth orbit satellite connectivity",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
