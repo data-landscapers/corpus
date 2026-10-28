@@ -216,7 +216,7 @@ Two or more fibre routes abroad by 2023; no source found says whether two are in
 Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
 
 - TM Africa states Gabon already lands four subsea cable systems (2Africa, ACE, Maroc Telecom's West Africa cable and SAT-3/WASC); landing stations are not named for them ([source, 2026-09-25](https://tmafrica.co.ug/news/gabon-builds-digital-state-shrinking-oil-base)).
-- SPIN's ACE Gabon page states ACE is the second submarine cable operated in Gabon, an alternative to SAT-3 operated by Gabon Telecom; ACE Gabon holds and operates the Libreville landing station (page date 2019-01-24, no event date given) ([source, 2019-01-24](https://spin.ga/nos-activites/ace-gabon/)).
+- Minister Doumba told WTDC-25 that Gabon has four international submarine cables providing its digital opening to the world; landing stations are not named ([source, 2025-11-17](https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/22/31_WTDC-25-HLS-Statement-Doumba-Gabon.pdf)).
 
 ### Ghana: 3 Established
 

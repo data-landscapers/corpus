@@ -16,7 +16,7 @@ DZA,4,independent,,DZA-001
 EGY,5,independent,open,EGY-012;EGY-013
 ERI,1,none,,ERI-001
 ETH,2,one,,ETH-001
-GAB,3,two,,GAB-002;GAB-003
+GAB,3,two,,GAB-002;GAB-005
 GHA,3,two,,GHA-001;GHA-007
 GIN,3,two,,GIN-003;GIN-010
 GMB,4,independent,,GMB-009
@@ -41,7 +41,7 @@ SDN,3,two,,SDN-004;SDN-001
 SEN,3,two,,SEN-004;SEN-005
 SLE,3,two,,SLE-003;SLE-001
 SOM,5,independent,open,SOM-005;SOM-006
-SSD,2,one,,SSD-001
+SSD,3,two,,SSD-002;SSD-001
 STP,2,one,,STP-002;STP-001
 SWZ,3,two,,SWZ-002
 SYC,3,two,,SYC-004;SYC-002

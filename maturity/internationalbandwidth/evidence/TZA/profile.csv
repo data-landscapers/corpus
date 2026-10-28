@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,routes,routes,coverage,independent,2025-07-20,TZA-010,TZA-004=two;TZA-008=two;TZA-005=two;TZA-009=two;TZA-001=two;TZA-002=one;TZA-003=one;TZA-006=one;TZA-007=two,
-TZA,routes,access,coverage,,,,,nothing held
+TZA,routes,routes,coverage,independent,2025-07-20,TZA-010,TZA-011=one;TZA-004=two;TZA-008=two;TZA-005=two;TZA-009=two;TZA-001=two;TZA-002=one;TZA-003=one;TZA-006=one;TZA-007=two,
+TZA,routes,access,coverage,open,2026-10-27,TZA-012;TZA-013,,

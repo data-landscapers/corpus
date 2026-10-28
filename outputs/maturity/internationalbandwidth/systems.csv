@@ -124,6 +124,7 @@ CAF,CAR-South Sudan interconnection (announced May 2026),,other,,ACDD with MTN,,
 CAF,Central African Backbone (CAB),Central African Backbone,route,,,,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight
 CAF,CAR-South Sudan interconnection (planned),,other,,Central African Digital Development Agency with MTN Group,,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight
 CAF,Central African Backbone (CAB),Central African Backbone,route,,,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
+CAF,Central African Backbone,Central African Republic,route,fibre,,,2026-10-26-caf-vers-une-diversification-de-la-connectivite-en-centrafrique
 CIV,2Africa,2Africa,route,,,,2026-08-02-2africa-ivory-coast-branch-live-again-and-wacs-under-repair
 CIV,WACS,WACS,route,,,,2026-08-02-2africa-ivory-coast-branch-live-again-and-wacs-under-repair
 CIV,Via Africa,Via Africa,other,,consortium incl. Orange Cote d'Ivoire,,2026-05-15-via-africa-cable-sous-marin-europe-afrique-fratmat
@@ -1079,6 +1080,8 @@ TZA,Seacom,Seacom,other,,Seacom (75% African-owned),,2026-06-11 Can Africa suppl
 TZA,Seacom,Seacom,other,,Seacom Ltd,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
 TZA,National AI Data Centre,Kituo cha Taifa cha Data za Akili Unde,other,,,,2026-07-24-tanzania-mafanikio-akili-unde-ai-waico-2026-shanghai
 TZA,NICTBB,National ICT Backbone,other,,,,2026-04-10-communications-sector-surges-400pc
+TZA,Paratus Tanzania Dar es Salaam PoP,Tanzania,route,Wingu Data Centre,Paratus,,2026-10-27-paratus-expands-its-african-reach-with-tanzania-pop
+TZA,Paratus Tanzania PoP at Wingu Data Center,Tanzania,other,,Paratus Tanzania,,2026-10-26-tza-paratus-new-dar-es-salaam-pop
 UGA,Seacom Nairobi-Kampala route,Nairobi-Kampala route,route,"DWDM, ASON",Seacom,,2026-06-17 Seacom deploys a new high-capacity Nairobi–Kampala route to strengthen East Africa's digital backbone
 UGA,G2M (Goma-to-Mombasa),G2M,route,,Paratus Group (with Roke Telkom in Uganda),,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb
 UGA,Equiano,Equiano,other,,,,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb

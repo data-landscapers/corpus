@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-27-dza-retour-a-la-normale-cable-sous-marin-algerie-espagne",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The Ministry of Post and Telecommunications said maintenance on the Algeria-Spain submarine cable was completed overnight 26-27 October 2026 and internet service returned to normal.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Algeria-Spain submarine cable",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The ministry said data traffic was switched beforehand to other submarine cables, so main internet services were not affected during the works.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "other submarine cables (unnamed)",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "Cables not named; landing stations not stated, so independence is not shown."
+}

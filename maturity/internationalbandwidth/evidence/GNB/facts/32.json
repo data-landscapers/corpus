@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-gnb-guinea-bissau-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Digital Watch Observatory says the infrastructure linking Guinea-Bissau to the ACE submarine cable was inaugurated in March 2023.",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "ACE submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

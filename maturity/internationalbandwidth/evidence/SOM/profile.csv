@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SOM,routes,routes,coverage,independent,2022-11-02,SOM-005,SOM-010=two;SOM-011=two;SOM-004=one;SOM-012=two;SOM-001=one;SOM-002=one;SOM-003=one,
-SOM,routes,access,coverage,open,2022-11-02,SOM-006;SOM-007,,nothing dated since 2023-09-28
+SOM,routes,routes,coverage,independent,2022-11-02,SOM-005,SOM-010=two;SOM-011=two;SOM-004=one;SOM-013=two;SOM-012=two;SOM-001=one;SOM-002=one;SOM-003=one,
+SOM,routes,access,coverage,open,2022-11-02,SOM-006;SOM-007,,nothing dated since 2023-10-28

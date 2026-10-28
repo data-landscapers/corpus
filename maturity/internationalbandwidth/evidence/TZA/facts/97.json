@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-tza-paratus-new-dar-es-salaam-pop",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Paratus says its new Dar es Salaam PoP offers IP transit, Layer 2 circuits and wholesale capacity to local carriers and ISPs.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Paratus Tanzania PoP",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus Tanzania PoP at Wingu Data Center",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
