@@ -1,0 +1,27 @@
+{
+ "slug": "2024-06-10-lso-big-brother-is-watching-you-bill-raises-dust",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "Public Eye reports a meeting convened in Maseru in June 2023 where media representatives and civic groups gave views on the Computer Crimes and Cyber Security Bill.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "Computer Crimes and Cyber Security Bill",
+   "class": "consultation"
+  },
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "MISA Lesotho says Minister Moorosi met it about three times and took written submissions on the Computer Crimes and Cyber Security Bill, and that none of its recommendations were taken up.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Computer Crimes and Cyber Security Bill",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -78,14 +78,14 @@ In 2026 the telecoms regulator consulted on sharing fibre networks and published
 In 2023 and 2024 the financial regulator consulted on a virtual asset law and published a response; no rule requiring it is known.
 
 - The Ministry of Finance and the Financial Services Authority published an industry consultation response dated 7 March 2024 summarising the consultation on the VASP framework, which drew about 15 detailed written responses ([source, 2024-03-07](https://www.finance.gov.sc/wp-content/uploads/2025/08/Virtual-Asset-Service-Providers-Framework-Response-to-Public-Consultation.pdf)).
-- On 20 December 2023 the Financial Services Authority, for the Ministry of Finance, launched a public consultation on the proposed Virtual Asset Service Providers framework (VASP Act), inviting written responses and a hybrid live session on 9 January 2024 attended by about 50-60 participants, with extra sessions for Securities Act licensees, corporate service providers and operating VASPs ([source, 2023-12-20](https://www.finance.gov.sc/wp-content/uploads/2025/08/Virtual-Asset-Service-Providers-Framework-Response-to-Public-Consultation.pdf)).
+- A consultant on the drafting team says the Seychelles National Digital & AI Strategy 2026-2031 followed consultations with public institutions, the private sector, academia, civil society and development partners, and a national validation workshop concluded in the two weeks before 10 July 2026 ([source, 2026-07](https://www.linkedin.com/posts/baidy-s-91972228_digitaltransformation-ai-digitalgovernment-activity-7481275398413152257-B36W)).
 
 ### Angola: 2 Nascent
 
 The telecommunications ministry put its draft artificial intelligence law out for public comment in 2025; no source found says what the 41 contributions said.
 
 - Angola's telecommunications ministry (MINTTICS) put its draft Proposta de Lei sobre a Inteligencia Artificial out for public consultation on its consultation portal, which on 2026-08-27 showed 18 contributions from companies, 18 from specialists and 5 from the general public (the page is undated, so the date is the retrieval date) ([source, 2026-08-27](https://consultapublica.minttics.gov.ao/)).
-- The Ministry of Telecommunications, Information Technologies and Social Communication (MINTTICS) put its 86-article draft Law on Artificial Intelligence on its public consultation portal in September 2025, and the draft's report says the draft was to go to public consultation open to all public and private entities and interested individuals, and that the consultation was held before the draft goes to the Council of Ministers ([source, 2025-09](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf)).
+- MINTTICS official Hecdiantro Mena said the National Artificial Intelligence Plan, a named AI policy, is in public consultation ([source, 2026-07-14](https://www.menosfios.com/governo-reforca-estrategias-para-o-uso-das-tecnologias/)).
 
 ### Botswana: 2 Nascent
 
@@ -114,7 +114,7 @@ In August 2026 the regulator opened a public consultation on satellite communica
 
 ### Congo: 2 Nascent
 
-In June 2026 a workshop with business, universities and civil society helped draft the data governance strategy; no source found says whether their views were published.
+In June 2026 a workshop with business, universities and civil society helped draft the data governance strategy; no source says whether their views were published.
 
 - The Ministry of Posts, Telecommunications and Digital Economy, with the UN Economic Commission for Africa and GIZ, held a stakeholder workshop in Brazzaville on 8-9 June 2026 with 60 participants to help draft the National Data Governance Strategy, after an assessment mission of 2-6 June consulting 21 institutions from government, regulators, academia, the private sector, civil society and development partners ([source, 2026-06-09](https://www.uneca.org/fr/stories/la-r%C3%A9publique-du-congo-veut-%C3%A9tablir-les-fondements-d%E2%80%99un-%C3%A9cosyst%C3%A8me-de-donn%C3%A9es-fiable)).
 - The UN Economic Commission for Africa, working in close collaboration with the Ministry of Posts, Telecommunications and Digital Economy, announced stakeholder consultations (2-6 June 2026, Brazzaville and Pointe-Noire) with telecom operators, financial institutions, universities and digital economy actors, and a multi-stakeholder workshop on 8 June 2026 including civil society and the private sector, to inform Congo's National Data Governance Strategy; the page is an event announcement dated by the event start ([source, 2026-06-02](https://www.uneca.org/eca-events/eca-supporting-republic-congo-shaping-national-data-governance-strategy-digital-sovereignty-and)).
@@ -131,7 +131,7 @@ In August 2026 the regulator put a draft complaints decision to operators and co
 In August 2026 the minister met digital businesses over a new order on sector taxes; no source found says whether anything they said was published.
 
 - After a public outcry over interministerial arrete no. 015 of 20 July 2026 setting digital-sector duties, taxes and fees, the DRC digital economy minister held a working session with representatives of the digital ecosystem, including the Reseau des acteurs du numerique (RAN), reported by ACP on 7 August 2026 (meeting on the Thursday before, 6 August) ([source, 2026-08-06](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/)).
-- The ARPTC, the DRC's post and telecommunications regulator, opened a public consultation on the introduction of 5G in the DRC, announced in a communique dated 18 March 2025 (only the headline is rendered; who took part is not stated) ([source, 2025-03-18](https://actualite.cd/2025/03/18/larptc-lance-une-consultation-publique-sur-lintroduction-de-la-5g-en-rdc-communique)).
+- Mediacongo reports that the digital economy ministry's validation workshop on the draft national AI strategy, closed on 27 July 2026, included the private sector, academia, civil society and technical partners alongside public institutions ([source, 2026-07-27](https://www.mediacongo.net/article-actualite-166058_economie_numerique_les_participants_a_l_atelier_de_validation_technique_approuvent_le_projet_de_la_strategie_nationale_de_l_intelligence_artificielle.html)).
 
 ### Djibouti: 2 Nascent
 
@@ -149,7 +149,7 @@ In 2025 the communications ministry asked over 70 companies and experts for view
 
 ### Gambia: 2 Nascent
 
-The regulator asked the public to comment on draft broadcasting and online content rules in April 2026; no source found says whether the comments were published.
+The regulator asked the public to comment on draft broadcasting and online content rules in April 2026; no source says whether comments were published.
 
 - PURA issued the draft Broadcasting and Online Content Regulations, 2026 for public consultation on 2 April 2026, one of seven draft instruments released together (date is that of PURA's consultation notice) ([source, 2026-04-02](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf)).
 - The Public Utilities Regulatory Authority (PURA) invited licensees, sector ministries, industry stakeholders, consumer groups, civil society organisations and the general public to comment on draft instruments including the Broadcasting and Online Content Regulations, 2026 and the Journalists Registration Guidelines, 2026, with a consultation window of 1 to 10 April 2026 ([source, 2026-04-01](https://pura.gm/public-consultation-guidelines-and-notice/)).
@@ -196,22 +196,23 @@ The digital ministry put a draft e-commerce strategy to companies, civil society
 
 ### Morocco: 2 Nascent
 
-A minister asked civil society and universities in September 2026 for proposals on an open government plan's digital commitments; no source found says what was published.
+A minister asked civil society and universities in September 2026 for proposals on an open government plan's digital commitments; no source says what was published.
 
 - On 7 September 2026 the minister delegate for digital transition, Amal El Fallah Seghrouchni, held a dialogue in Rabat with more than 100 participants from civil society, administrations, institutions and universities, in three workshops on digital training for youth, digital skills for women and access to digital public services for people with disabilities, whose proposals are to feed the update of the third national Open Government action plan 2024-2028 (LeNew, 8 September 2026) ([source, 2026-09-07](https://lenew.ma/inclusion-numerique-le-gouvernement-mise-sur-les-jeunes-les-femmes-et-les-personnes-en-situation-de-handicap/)).
 
 ### Mozambique: 2 Nascent
 
-The national ICT institute asked the public for comments on a draft artificial intelligence strategy in May 2026; no source found says what it was told.
+The national ICT institute asked the public to comment on a draft artificial intelligence strategy in May 2026; no source says what it was told.
 
 - INTIC, Mozambique's national ICT institute, opened a one-month public consultation on the first version of the draft National Artificial Intelligence Strategy, running until 4 June 2026, seeking contributions from public and private institutions, academia, development partners and citizens, and held provincial consultation sessions with public sector, private sector, civil society and academia representatives ([source, 2026-05](https://www.africaainews.com/p/mozambique-presents-draft-ai-strategy)).
-- The National Institute of Information and Communication Technologies (INTIC) published the first version of the proposed National Artificial Intelligence Strategy and invited comments from public and private institutions, academia, development partners and citizens, by email, from 4 May to 4 June 2026 ([source, 2026-05-04](https://intic.gov.mz/consulta-publica-da-proposta-da-estrategia-nacional-de-inteligencia-artificial/)).
+- INTIC says public consultation sessions and workshops on the draft National AI Strategy are under way in the provinces, with public sector, private sector, civil society and academia taking part ([source, 2026-05-22](https://intic.gov.mz/mocambique-apresenta-draft-da-estrategia-nacional-de-inteligencia-artificial-em-workshop-internacional-da-itu-no-quenia/)).
 
 ### Namibia: 2 Nascent
 
-The regulator asked for written views on a proposed broadband speed directive in 2025; no source found says whether anything it was told was published.
+The ICT ministry held a public meeting on the draft Cybercrime Bill in February 2026; no source found says what it was told.
 
-- The Communications Regulatory Authority of Namibia invited stakeholders to send written submissions by 29 August 2025 on the Minister of ICT's proposed policy directive to raise the minimum broadband speed, following consultations held by the Ministry on 21 May 2025 and by CRAN on 11 July 2025 (the notice gives the 29 August 2025 deadline and no notice date) ([source, 2025-08-29](https://www.cran.na/notices/)).
+- The Windhoek Observer reports that consultations with industry stakeholders on the review of the national broadband framework have been completed, per the 2026/27 budget estimates ([source, 2026-03](https://observer24.com.na/cybercrime-bill-heads-to-parliament/)).
+- The Ministry of Information and Communication Technology held a public stakeholders' engagement in Windhoek on the draft Cybercrime Bill, which drew members of the public ([source, 2026-02-18](https://www.thevillager.com.na/national/2026/cybercrime-bill-in-the-pipeline-for-namibia/)).
 
 ### Niger: 2 Nascent
 
@@ -240,7 +241,7 @@ The national cybersecurity strategy was put out for public comment in 2025; no s
 
 ### Sierra Leone: 2 Nascent
 
-Civil society, media, academia and business gave input to the data protection bill validated in 2025; no source found says whether what they said was published.
+Civil society, media, academia and business gave input to the data protection bill validated in 2025; no source says whether their input was published.
 
 - Sierra Leone's Cabinet approved the National Data Protection Policy and a new Data Protection and Right to Access Information Act, with the report saying the reform builds on years of consultations involving civil society groups, the media, security institutions and development partners; no consultation date is given, so the document's publication date is used ([source, 2026-04-22](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/)).
 - Minister of Information and Civic Education Chernor Bah said the Data Protection and Right to Access Information Bill, 2025 concluded its final national validation, with drafting input from Parliament, local councils, security agencies, the Electoral Commission, civil society, media, academia and the private sector ([source, 2025-11](https://sierraloaded.sl/news/government-data-protection-information-bill)).
@@ -254,7 +255,7 @@ The regulator consulted companies, civil society and consumer representatives on
 
 ### South Africa: 2 Nascent
 
-Parliament, the communications regulator and the Treasury put digital bills and draft rules out for public comment in 2026; no source found says what they heard.
+Parliament, the communications regulator and the Treasury put digital bills and draft rules out for public comment in 2026; no source says what they heard.
 
 - ITWeb reports the draft National AI Policy was presented for public comment before it was withdrawn this year ([source, 2026](https://www.itweb.co.za/article/local-insurers-go-solo-amid-ai-policy-vacuum/o1Jr5MxP36rMKdWL)).
 - The Universal Service and Access Agency of South Africa opened a public consultation on a discussion document on whether to retain, revise or replace the 2010 ministerial determination on universal access and universal service, and said it will use submissions from stakeholders and the public to advise the communications and digital technologies minister; the report is dated 2026-10-10 and gives no opening date ([source, 2026-10-10](https://www.sundaytimes.timeslive.co.za/business/2026-10-10-public-consultation-to-update-universal-access-policy/)).
@@ -264,6 +265,7 @@ Parliament, the communications regulator and the Treasury put digital bills and 
 A workshop on the data protection bill was held with civil society, reported in 2026; no source found says whether what was said was published.
 
 - Digital Rights Frontlines, a civil-society organisation, co-convened with South Sudan's National Communication Authority (the regulator) a two-day consultative workshop on the Data Protection Bill 2025 (Version 1.0), with over 30 stakeholders including MPs, civil society organisations, the UNMISS legal unit and the NCA; the document gives no event date, so the post's published date is used ([source, 2026-05-05](https://www.linkedin.com/posts/digital-rights-frontlines_dataprotection-digitalrights-cybersecurity-activity-7457423027161620480-l2o_)).
+- The Assembly's Information Committee chair said its work on the cybercrime bill included public consultations and workshops supported by UNESCO and UNMISS ([source, 2025-10-23](https://www.radiotamazuj.org/en/news/article/south-sudan-lawmakers-advance-cybercrime-bill-to-final-vote)).
 
 ### Tanzania: 2 Nascent
 
@@ -287,13 +289,13 @@ In 2025 and 2026 the telecommunications regulator put fibre-sharing rules out fo
 
 ### Uganda: 2 Nascent
 
-Industry was consulted on draft ICT infrastructure guidelines in 2025; no source found says whether what they said was published.
+The regulator met traders and Wi-Fi operators on reseller licensing in October 2026; no source found says what was said or published.
 
 - The Ministry of ICT and National Guidance held a validation workshop on 4 June 2025 on draft guidelines for ICT infrastructure in buildings, roads and transport, with private telecom industry and professional bodies taking part, after stakeholder consultations in 2024/25 ([source, 2025-06-04](https://ict.go.ug/media/news/advancing-ict-infrastructure-standards-through-stakeholder-collaboration)).
 
 ### Zimbabwe: 2 Nascent
 
-In 2025 the ICT ministry consulted academia, business and civil society on its draft artificial intelligence strategy; no source found says whether a report was published.
+In 2025 the ICT ministry consulted academia, business and civil society on its draft artificial intelligence strategy; no source says whether a report was published.
 
 - The Ministry of ICT, Postal and Courier Services of Zimbabwe says the Kadoma Draft of the National AI Strategy 2026-2030 was interrogated and validated at a National Multi-Stakeholder Consultation held in Harare on 28 August 2025, Bulawayo on 9 September 2025 and Masvingo on 11 September 2025, and credits input from academia, the private sector, civil society and diaspora representatives alongside government and development partners ([source, 2025-08-28](https://t3n9sm.c2.acecdn.net/wp-content/uploads/2026/03/Zimbabwe-National-Artificial-Intelligence-Strategy.pdf)).
 - The Ministry of ICT, Postal and Courier Services held a National Multi-Stakeholder Consultation in Harare on 28 August 2025, then sessions in Bulawayo on 9 September and Masvingo on 11 September 2025, to interrogate and validate the Kadoma Draft of the National AI Strategy 2026-2030, with academia, the private sector, civil society and diaspora representatives among those whose contributions the Ministry credits ([source, 2025-08-28](https://veritaszim.net/sites/veritas_d/files/Zimbabwe%20National%20Artificial%20Intelligence%20Strategy.pdf)).

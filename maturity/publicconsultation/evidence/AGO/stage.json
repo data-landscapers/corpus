@@ -8,7 +8,7 @@
    "standing": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "AGO-001;AGO-002",
+   "stage_sources": "AGO-001;AGO-005",
    "gaps": "No published report of a consultation on a digital law or policy, comments received or written answer to them from the last three years is held.",
    "note": "Counted from the four questions by study-ladder-publicconsultation.py."
   }

@@ -8,7 +8,7 @@
    "standing": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "SYC-002;SYC-001",
+   "stage_sources": "SYC-002;SYC-003",
    "gaps": "No source from the last three years says a consultation on a digital law or policy was held because a law, decree or published procedure required it.",
    "note": "Counted from the four questions by study-ladder-publicconsultation.py."
   }

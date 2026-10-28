@@ -1,5 +1,5 @@
 iso3,stage,hearing,standing,stage_sources
-AGO,2,held,,AGO-001;AGO-002
+AGO,2,held,,AGO-001;AGO-005
 BDI,2,held,,BDI-001
 BEN,no evidence,,,
 BFA,2,held,,BFA-001;BFA-002
@@ -7,13 +7,13 @@ BWA,2,held,,BWA-001
 CAF,no evidence,,,
 CIV,2,held,,CIV-001;CIV-002
 CMR,no evidence,,,
-COD,2,held,,COD-002;COD-001
+COD,2,held,,COD-002;COD-003
 COG,2,held,,COG-002;COG-001
 COM,no evidence,,,
 CPV,2,held,,CPV-001
 DJI,2,held,,DJI-001;DJI-002
 DZA,no evidence,,,
-EGY,no evidence,,,
+EGY,2,held,,EGY-001;EGY-002
 ERI,no evidence,,,
 ETH,no evidence,,,
 GAB,no evidence,,,
@@ -29,11 +29,11 @@ LSO,2,held,,LSO-001;LSO-002
 MAR,2,held,,MAR-001
 MDG,no evidence,,,
 MLI,no evidence,,,
-MOZ,2,held,,MOZ-004;MOZ-002
+MOZ,2,held,,MOZ-004;MOZ-005
 MRT,2,held,,MRT-001
 MUS,3,answered,,MUS-001;MUS-002
 MWI,2,held,,MWI-001;MWI-003
-NAM,2,held,,NAM-002
+NAM,2,held,,NAM-005;NAM-006
 NER,2,held,,NER-001
 NGA,2,held,,NGA-005;NGA-006
 RWA,2,held,,RWA-001
@@ -41,15 +41,15 @@ SDN,no evidence,,,
 SEN,3,answered,,SEN-002;SEN-001
 SLE,2,held,,SLE-001;SLE-002
 SOM,2,held,,SOM-002;SOM-001
-SSD,2,held,,SSD-001
+SSD,2,held,,SSD-001;SSD-002
 STP,2,held,,STP-001
 SWZ,3,answered,,SWZ-004;SWZ-002
-SYC,3,answered,,SYC-002;SYC-001
+SYC,3,answered,,SYC-002;SYC-003
 TCD,4,answered,required,TCD-006
-TGO,2,held,,TGO-001
+TGO,2,held,,TGO-002;TGO-001
 TUN,2,held,,TUN-003;TUN-001
 TZA,2,held,,TZA-001;TZA-002
-UGA,no evidence,,,
+UGA,2,held,,UGA-002;UGA-001
 ZAF,2,held,,ZAF-023;ZAF-001
 ZMB,no evidence,,,
 ZWE,2,held,,ZWE-001;ZWE-002
