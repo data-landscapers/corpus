@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-08-gnb-guine-bissau-anuncia-inicio-do-recenseamento-geral-da-populacao-e-habi",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The Government of Guinea-Bissau announced that the fourth population and housing census (RGPH4) will run from 1 to 21 June 2026 across the national territory.",
+   "as_of": "2026-05-08",
+   "date_precision": "day",
+   "system": "RGPH4",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH4",
+   "country_label": "RGPH-4 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Government of Guinea-Bissau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

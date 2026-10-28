@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNB,census,census,coverage,taken,2026-07-23,GNB-001;GNB-002;GNB-003;GNB-004,GNB-005=preparing;GNB-006=preparing;GNB-007=preparing,
-GNB,census,results,coverage,,,,,nothing held
-GNB,census,survey,coverage,,,,,nothing held
+GNB,census,census,coverage,taken,2026-07-23,GNB-001;GNB-004,GNB-005=preparing;GNB-008=preparing;GNB-006=preparing;GNB-007=preparing,
+GNB,census,results,coverage,preliminary,2026-07-23,GNB-002;GNB-003,,
+GNB,census,survey,coverage,,,,,nothing found

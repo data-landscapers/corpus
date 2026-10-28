@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNQ,census,census,coverage,taken,2015,GNQ-004,GNQ-001=preparing;GNQ-003=preparing;GNQ-007=preparing;GNQ-005=preparing;GNQ-002=preparing;GNQ-006=preparing;GNQ-008=preparing,
-GNQ,census,results,coverage,,,,,nothing held
-GNQ,census,survey,coverage,,,,,nothing held
+GNQ,census,census,coverage,taken,2015,GNQ-004,GNQ-009=preparing;GNQ-001=preparing;GNQ-003=preparing;GNQ-007=preparing;GNQ-005=preparing;GNQ-002=preparing;GNQ-006=preparing;GNQ-008=preparing,
+GNQ,census,results,coverage,,,,,nothing found
+GNQ,census,survey,coverage,,,,,nothing found
