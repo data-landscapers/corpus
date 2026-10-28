@@ -1,0 +1,37 @@
+{
+ "slug": "2026-03-26-zwe-financial-sector-bears-brunt-of-data-breaches-potraz-calls-for-stronge",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "POTRAZ urged organisations to comply with the Cyber and Data Protection Act and to obtain data controller licences.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "POTRAZ is acting as the authority: it licenses data controllers and executed over 100 search and seizure warrants, per its Deputy Director.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "POTRAZ",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "POTRAZ reports 1,123 data controller licence applications received in 2026, 60+ breaches reported and 1,218 data protection officers trained.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "POTRAZ",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

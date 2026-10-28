@@ -357,7 +357,7 @@ A law was promulgated in March 2026; no source found says whether it is in force
 
 ### Comoros: 1 Absent
 
-No source found reports A data protection law passed in 2021 to be in force; no authority is appointed and no ruling is known.
+Comoros passed a data protection law in 2021; no source found says it is in force, and no appointed authority or ruling is known.
 
 - TechHive Advisory states the Union of Comoros enacted its Protection of Personal Data Law on 29 June 2021 as a comprehensive framework; it does not say whether the law has commenced ([source, 2021-06-29](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law)).
 - Loi n°14-029/AU on protection of personal data (68 articles) was deliberated and adopted by the Assembly in plenary session on 26 June 2014; the text carries no promulgation date or decree ([source, 2014-06-26](https://anaden.org/uploads/media/63076edf43d1e/loi-portant-sur-la-protection-des-donnees-a-caractere-personnel-de-lunion-des-comores.pdf)).

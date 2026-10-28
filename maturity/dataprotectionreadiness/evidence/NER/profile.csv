@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,system,law,coverage,in-force,2026-04,NER-002;NER-005;NER-007,,
-NER,system,treaty,coverage,ratified,2022-02-22,NER-009,,nothing dated since 2023-10-24
+NER,system,law,coverage,in-force,2026-04,NER-002;NER-005;NER-007;NER-011,,
+NER,system,treaty,coverage,ratified,2022-02-22,NER-009,,nothing dated since 2023-10-28
 NER,system,authority,coverage,appointed,2025-11-18,NER-004;NER-006;NER-010,NER-001=none;NER-008=none,
 NER,system,practice,coverage,implementing,2025,NER-003,,

@@ -1,0 +1,27 @@
+{
+ "slug": "2023-12-07-bwa-ministry-implements-cybersecurity-strategy",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Minister said the information and data protection commissioner was appointed in March 2022 after the commission became operational in October 2021.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Information and Data Protection Commission",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "none",
+   "fact": "The Minister said Botswana had not yet ratified or domesticated the Malabo Convention and the ministry had asked government for permission to do so.",
+   "as_of": "2023-12-07",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

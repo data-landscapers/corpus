@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-02-ner-la-cybersecurite-au-niger-la-necessite-d-un-espace-numerique-securise",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Le Sahel reports a panellist citing Niger's law on protection of personal data among the national legal texts in force.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "loi sur la protection des données à caractère personnel",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": "Malabo is named only as a reference framework, no ratification stated; no authority named."
+}
