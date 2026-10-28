@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-23-dza-le-mohammadia-datacenter-obtient-la-certification-tier-iii-design-une",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mohammadia Data Center",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Haut-commissariat a la numerisation",
+   "tiers": "Tier III Design"
+  }
+ ],
+ "note": "State-run, but not stated to be in service or for hire; no state hosting stated."
+}

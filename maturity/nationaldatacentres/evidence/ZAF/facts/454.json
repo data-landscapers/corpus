@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-12-zaf-water-scarcity-in-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Teraco data centres",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "Teraco's ownership is not stated in the document."
+}
