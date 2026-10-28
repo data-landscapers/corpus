@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GMB-001,GMB,shared,service,in-service,"Gamtel's company profile states that, besides its ACE capacity, it holds a 28 Gbps backup link, Cross Gambia (CG2), with the Senegalese operator Free, over which traffic is rerouted automatically when ACE fails; the page is undated, so its capture date is used.",2026-09-21,day,Cross Gambia (CG2) backup link with Free Senegal,shared,2026-09-21-gamtel-company-profile-ace-25-gbps,https://gamtel.gm/about-us/

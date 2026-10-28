@@ -13,3 +13,10 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TGO,gov.regional--shared-regional-infrastructure,fact,no evidence,5,TGO-002,Arrivals added TGO-001; TGO-002; stage no evidence -> 5.
 2026-10-17,TUN,gov.regional--shared-regional-infrastructure,fact,no evidence,2,TUN-001,Arrivals added TUN-001; stage no evidence -> 2.
 2026-10-17,TZA,gov.regional--shared-regional-infrastructure,fact,4,4,TZA-002;TZA-003,Arrivals added TZA-006; stage unchanged.
+2026-10-28,ZAF,gov.regional--shared-regional-infrastructure,review,no evidence,4,ZAF-003;ZAF-002;ZAF-005,Housekeeping 40: held links read by hand; METISS in service since March 2021 and the Mombasa to Johannesburg route since May 2023 set stage 4; no source reports another country's traffic in three years.
+2026-10-28,EGY,gov.regional--shared-regional-infrastructure,review,no evidence,4,EGY-003;EGY-002,"Housekeeping 40: the Egypt to Sudan fibre opened in October 2004 and a 2021 operator agreement describes it as connecting the two; stage 4, no traffic figure in three years."
+2026-10-28,GMB,gov.regional--shared-regional-infrastructure,review,no evidence,4,GMB-001,"Housekeeping 40: Gamtel's profile states a 28 Gbps backup link with the Senegalese operator Free; stage 4, no traffic figure for another country."
+2026-10-28,LSO,gov.regional--shared-regional-infrastructure,review,no evidence,4,LSO-001,Housekeeping 40: Broadband Infraco said in July 2019 its network provides connectivity to Lesotho and its other neighbours; stage 4.
+2026-10-28,MUS,gov.regional--shared-regional-infrastructure,review,no evidence,4,MUS-001,"Housekeeping 40: METISS, linking Mauritius to South Africa, in service since March 2021; stage 4."
+2026-10-28,SYC,gov.regional--shared-regional-infrastructure,review,no evidence,4,SYC-002;SYC-001,"Housekeeping 40: PEACE, joining Seychelles to Kenya and Djibouti, in service from November 2022, and SEAS to Tanzania; stage 4."
+2026-10-28,CPV,gov.regional--shared-regional-infrastructure,review,no evidence,2,CPV-001,"Housekeeping 40: an EIB loan signed in September 2024 finances a branch to a Europe to South Africa cable; stage 2, no building on record in three years."

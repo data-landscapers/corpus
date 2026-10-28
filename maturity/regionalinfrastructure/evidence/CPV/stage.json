@@ -1,16 +1,17 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "no evidence",
-   "built": "",
-   "service": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a digital link or facility the country shares with another African country, or says it has none.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "2",
+      "built": "agreed",
+      "service": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001",
+      "gaps": "No source found says building has started in the last three years.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

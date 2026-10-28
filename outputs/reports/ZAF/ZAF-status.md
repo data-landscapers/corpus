@@ -66,6 +66,9 @@ On 13 November 2025 the Competition Commission [closed its Media and Digital Pla
 
 [On 26 August 2026 the revenue service hosted five customs administrations that adopted a roadmap for customs data exchange](https://trademarkafrica.com/five-southern-african-customs-administrations-agree-on-a-roadmap-for-faster-digitally-connected-trade-corridors/). [The instant payment rail settles across borders through the SADC scheme, with live corridors to Zambia, Zimbabwe, Namibia, Lesotho and Eswatini](https://techcentral.co.za/payshap-cross-border-settlements-sadc/240568/). [South Africa left the Financial Action Task Force grey list in October 2025, having been placed on it in February 2023](https://www.sundaytimes.timeslive.co.za/business/2026-08-04-crackdown-on-crypto-flows-aims-to-keep-sa-off-greylist/).
 
+<!-- absences -->
+<!-- /absences -->
+
 ### Standards
 <!-- gov.standards -->
 

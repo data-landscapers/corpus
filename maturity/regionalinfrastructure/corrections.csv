@@ -27,3 +27,15 @@ KEN,003,built,agreed,removed,"a resolution to pay for a feasibility study of a s
 UGA,001,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
 UGA,002,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
 UGA,004,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
+ZAF,002,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
+ZAF,003,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
+ZAF,004,service,in-use,added: in-use,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
+ZAF,005,built,building,added: building,hand-read under housekeeping 40: a held source the reading list did not reach
+EGY,002,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
+EGY,003,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
+GMB,001,service,in-service,added: in-service,hand-read under housekeeping 40: a held source the reading list did not reach
+LSO,001,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
+MUS,001,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
+SYC,001,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
+SYC,002,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
+CPV,001,built,agreed,added: agreed,hand-read under housekeeping 40: a held source the reading list did not reach

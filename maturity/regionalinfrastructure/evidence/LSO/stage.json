@@ -1,16 +1,17 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "no evidence",
-   "built": "",
-   "service": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a digital link or facility the country shares with another African country, or says it has none.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "4",
+      "built": "",
+      "service": "in-service",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-001",
+      "gaps": "No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }
