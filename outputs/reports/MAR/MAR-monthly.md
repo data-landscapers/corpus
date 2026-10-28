@@ -3,9 +3,9 @@ title: Morocco — News, Sep – Oct 2026
 compiled: 2026-10-28
 period: 2026-09-01 to 2026-10-28
 place: MAR
-ledger_rows: 40
+ledger_rows: 41
 not_held: 14
-record: 9463bca3dff9
+record: 28d51fa20086
 ---
 
 # News, Sep – Oct 2026
@@ -593,6 +593,20 @@ Morocco's digital ministry and Mistral AI released their first open-source tools
 **[Le ministère de la Transition numérique et Mistral annoncent les premières briques d'IA développées | Maroc.ma](https://www.maroc.ma/fr/actualites/le-ministere-de-la-transition-numerique-et-mistral-annoncent-les-premieres-briques-dia-developpees)** — Maroc.ma (Government of Morocco), 30 September 2026
 
 Morocco's digital transition ministry and Mistral released the first open-source tools from their AI partnership: a classifier that distinguishes Arabic dialects including Darija, and a Voxtral speech-recognition model for Darija that handles switching between Arabic, French and English. The ministry says further language and public-service models are in development.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
 
 </div>
 
