@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: SOM
-ledger_rows: 27
+ledger_rows: 29
 not_held: 1
-record: 4ec403a72564
+record: 68da8c336ed0
 ---
 
 # News, Sep – Oct 2026
@@ -364,6 +364,20 @@ Somalia's Ministry of Planning launched a digital system on 8 September 2026 to 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Ebola travel health pass</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia launches digital Ebola travel health pass](https://horneconomicreview.com/2026/10/25/somalia-launches-digital-ebola-travel-health-pass)** — Horn Economic Review, 25 October 2026
+
+Pre-arrival online declaration; Aden Adde airport first, other entry points later; NIH-built, free; no expansion date.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -469,6 +483,20 @@ Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emer
 **[National Institute of Telecommunications Launches Digital Skills Training for Government Employees](https://sonna.so/en/article/National-Institute-of-Telecommunications-Launches-Digital-Skills-Training-for-Government-Employees)** — SONNA, 17 October 2026
 
 Somalia's National Institute of Telecommunications and Technology, part of the communications ministry, launched a programme to build government employees' digital skills, opening with a workshop on data protection, information security and privacy. The ministry says it wants the institute to take the lead in training civil servants and building public institutions' capacity.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cybersecurity Academy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Opens Fourth National Cybersecurity Forum in Mogadishu](https://sonna.so/en/article/Somalia-Opens-Fourth-National-Cybersecurity-Forum-in-Mogadishu)** — Somali National News Agency (SONNA), 27 October 2026
+
+NCA and Mogadishu University forum; minister flags a National Cybersecurity Academy planned for later in 2026.
 
 </div>
 
