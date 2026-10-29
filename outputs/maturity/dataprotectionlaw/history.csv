@@ -19,3 +19,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-28,CMR,gov.legislate--data-protection-legislation,fact,3,3,CMR-004;CMR-009,"OBS-CC (12 Sep 2026): decree under article 53 not taken, APDP not installed; regulations none, regulations pending flagged; stage 3 holds"
 2026-10-28,GNB,gov.legislate--data-protection-legislation,fact,2,2,GNB-006;GNB-004,Council of Ministers approved the data protection law with amendments on 8 May 2026; last twelve months advancing; stage 2 holds
 2026-10-28,NAM,gov.legislate--data-protection-legislation,fact,2,2,NAM-002;NAM-018,"Cabinet committee on legislation approved the Data Protection Bill (2026/27 budget estimates, Mar 2026); last twelve months advancing; stage 2 holds"
+2026-10-29,SSD,gov.legislate--data-protection-legislation,fact,2,2,SSD-016;SSD-001;SSD-006;SSD-008,"8 Sep 2026 Juba workshop: bill still in preparation, deputy minister urged passage; stays drafting"

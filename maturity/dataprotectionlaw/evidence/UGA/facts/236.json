@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-26-fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article describes the Data Protection and Privacy Act, 2019 as regulating the collection and processing of personal information, cited by the FDC against URA access to NIRA records.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act, 2019",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-zaf-south-africa-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The briefing says the Protection of Personal Information Act (POPIA) came into effect in 2020, with companies required to comply by 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Protection of Personal Information Act (POPIA)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

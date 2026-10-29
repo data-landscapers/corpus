@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZAF,general,authority,qualifier,constituted,2026-10-26,ZAF-002;ZAF-018;ZAF-020;ZAF-022;ZAF-024;ZAF-033;ZAF-045;ZAF-048,,
-ZAF,general,standing,coverage,in-force,2026-10-27,ZAF-001;ZAF-006;ZAF-015;ZAF-017;ZAF-021;ZAF-025;ZAF-036;ZAF-037;ZAF-038;ZAF-039;ZAF-040;ZAF-041;ZAF-042;ZAF-044;ZAF-046;ZAF-049,ZAF-012=drafting,
+ZAF,general,standing,coverage,in-force,2026-10-27,ZAF-001;ZAF-006;ZAF-015;ZAF-017;ZAF-021;ZAF-025;ZAF-036;ZAF-037;ZAF-038;ZAF-039;ZAF-040;ZAF-041;ZAF-042;ZAF-044;ZAF-046;ZAF-049;ZAF-051,ZAF-012=drafting,
 ZAF,general,regulations,coverage,issued,2026-03-06,ZAF-019;ZAF-034,,
 ZAF,general,application,coverage,reported,2025-03-31,ZAF-026,ZAF-047=applied;ZAF-050=applied;ZAF-003=activity;ZAF-005=applied;ZAF-035=activity;ZAF-008=activity;ZAF-009=applied;ZAF-010=activity;ZAF-011=activity;ZAF-014=applied;ZAF-016=applied;ZAF-007=activity;ZAF-023=activity;ZAF-030=activity;ZAF-031=activity;ZAF-028=applied;ZAF-027=applied;ZAF-029=applied;ZAF-032=applied;ZAF-013=applied;ZAF-004=applied,
 ZAF,general,last12,qualifier,,,,,nothing found

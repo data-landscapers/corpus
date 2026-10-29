@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-tza-jamii-x-change",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NIDA's deck cites the Personal Data Protection Act 2022 as governing data exchange and says Jamii X-Change complies with it.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Personal Data Protection Act 2022",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

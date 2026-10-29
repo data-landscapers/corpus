@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BEN,general,authority,qualifier,constituted,2026-10-27,BEN-001;BEN-003;BEN-005;BEN-006;BEN-011;BEN-019;BEN-022;BEN-026;BEN-027,BEN-008=provided;BEN-018=provided,
-BEN,general,standing,coverage,in-force,2026-09-05,BEN-002;BEN-007;BEN-009;BEN-010;BEN-021;BEN-024;BEN-025,BEN-017=enacted,
+BEN,general,standing,coverage,in-force,2026-09-05,BEN-002;BEN-007;BEN-009;BEN-010;BEN-021;BEN-024;BEN-025;BEN-028,BEN-017=enacted,
 BEN,general,regulations,coverage,,,,,nothing found
 BEN,general,application,coverage,reported,2025,BEN-004;BEN-012,BEN-020=activity;BEN-015=applied;BEN-016=activity;BEN-023=activity;BEN-014=applied;BEN-013=applied,
 BEN,general,last12,qualifier,,,,,nothing found

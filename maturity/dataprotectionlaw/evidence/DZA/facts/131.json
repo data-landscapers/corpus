@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-14-dza-almostathmir-data-governance-classification-rollout",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The document cites law 18-07, as amended and supplemented, on protection of personal data, among the national legal framework behind the data classification reference.",
+   "as_of": "2026-02-14",
+   "date_precision": "day",
+   "system": "Law 18-07",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

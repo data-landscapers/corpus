@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-rwa-minict-national-data-sharing-policy-annex-7-platform-requirements",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Annex 7 says the Data Protection Office of the National Cyber Security Agency fulfils the supervisory authority role under Law N° 058/2021 on Data Protection and Privacy and enforces it.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Law N° 058/2021 (DPPL)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

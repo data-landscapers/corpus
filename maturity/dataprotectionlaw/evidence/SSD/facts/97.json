@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-ssd-south-sudan-ties-data-rules-to-citizen-trust",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The ministry's undersecretary said a Data Protection Bill is in preparation, and the deputy minister urged the legislature to speed its passage.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Data Protection Bill",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Bill",
+   "country_label": "South Sudan",
+   "class": "general",
+   "platform": "",
+   "owner": "Ministry of Information, Communication Technology and Postal Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -546,10 +546,11 @@ Sierra Leone has no data protection law, only a bill Cabinet approved in April 2
 
 ### South Sudan: 2 Nascent
 
-South Sudan has no data protection law; a 2025 bill was under review in May 2026, and no source found says it has reached parliament.
+South Sudan has no data protection law; a bill was still being prepared in September 2026, and no source found says it has reached parliament.
 
 *Advancing.*
 
+- The ministry's undersecretary said a Data Protection Bill is in preparation, and the deputy minister urged the legislature to speed its passage ([source, 2026-09-08](https://www.kictanet.or.ke/south-sudan-data-governance-workshop-juba/)).
 - Digital Rights Frontlines, with the NCA, convened a two-day workshop of over 30 stakeholders to review and validate the Data Protection Bill, 2025 (Version 1.0) and make recommendations for its finalisation; the post is dated 2026-05-05 and gives no separate event date ([source, 2026-05-05](https://www.linkedin.com/posts/digital-rights-frontlines_dataprotection-digitalrights-cybersecurity-activity-7457423027161620480-l2o_)).
 - Radio Tamazuj reports that in October 2025 digital security experts finalised drafting the country's first Data Protection Policy Bill, facilitated by Koneta and Paradigm Initiative with the NCA and civil society ([source, 2025-10](https://www.radiotamazuj.org/en/news/article/feature-digital-rights-ignorance-puts-south-sudanese-at-risk)).
 - Paradigm Initiative and Koneta Hub held a two-day Juba convening of lawmakers, CSOs and officials to review the draft Data Protection Bill and seek parliamentary commitment to table it; the release is dated 2025-10-17 and gives no separate event date ([source, 2025-10-17](https://paradigmhq.org/press-release-paradigm-initiative-partners-with-koneta-hub-to-drive-dialogue-on-data-protection-law-in-south-sudan)).
