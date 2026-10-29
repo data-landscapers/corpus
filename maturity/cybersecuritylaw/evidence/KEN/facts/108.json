@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-ken-cipesa-kenya-2027-elections-digital-media-rights",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIPESA states the Computer Misuse and Cybercrimes Act was enacted in 2018 and criminalises certain online expression including false publications, with the Court of Appeal in March 2026 leaving its investigative powers largely intact.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Computer Misuse and Cybercrimes Act (CMCA)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Computer Misuse and Cybercrimes Act (CMCA)",
+   "country_label": "Kenya",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
