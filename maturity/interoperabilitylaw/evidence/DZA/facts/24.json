@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-14-dza-almostathmir-data-governance-classification-rollout",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Presidential decree 25-320 of 31 December 2025 set up the national data governance system including the national interoperability system as the backbone of data exchange between ministries and public bodies.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "Presidential decree 25-320",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

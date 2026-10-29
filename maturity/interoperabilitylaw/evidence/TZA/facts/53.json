@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "e-GA says section 48(2) of the e-Government Act No. 10 of 2019 requires it to establish and run a system enabling government ICT systems to exchange data.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "e-Government Act No. 10 of 2019",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "Act binds e-GA; no source says it obliges other bodies to share."
+}
