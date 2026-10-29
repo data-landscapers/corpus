@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Benin's deck lists a payment platform or aggregator for the collection of financial resources among what Benin has.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Payment platform / aggregator",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

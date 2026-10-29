@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-ictd-digital-payments-discussion",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "ICTD says evidence from Eswatini, Senegal and Rwanda has begun to show a link between digital payment of taxes and increased compliance, so taxes are paid digitally there.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "digital tax payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
