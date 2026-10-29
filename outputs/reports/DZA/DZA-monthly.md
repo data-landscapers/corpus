@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: DZA
-ledger_rows: 52
+ledger_rows: 54
 not_held: 5
-record: efe48dfd275a
+record: 8ccccdf50b1b
 ---
 
 # News, Sep – Oct 2026
@@ -34,6 +34,8 @@ record: efe48dfd275a
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -153,6 +155,36 @@ The Algerian account of the Assamaka ceremony, summarised above, says the link w
 **[Niger-Algérie : lancement à Assamaka de l'exploitation de la dorsale transsaharienne à fibre optique](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Agence Nigérienne de Presse, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
 
 Niger and Algeria launched operation of the fibre link between In Guezzam and the Arlit-Agadez region at a ceremony at Assamaka, on the border, on 6 October, chaired by the two communications ministers. Algeria's account gives a starting capacity of 100 Gbps.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Arab agreement on personal data protection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[General Secretariat holds fourth meeting of joint committee to consider the Draft Arab Agreement on Personal Data Protection](http://www.leagueofarabstates.net/en/news/Pages/NewsDetails.aspx?RID=4160)** — League of Arab States, 25 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XNA/XNA-monthly.html" title="XNA">North Africa</a>
+
+Fourth expert meeting, 25-26 Oct 2026, on Algeria-proposed treaty; outcome to justice ministers in Algeria, Nov 2026.
+
+</div>
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet shutdowns during the baccalaureate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+2026 exam season: Algeria confines cuts to exam centres, Sudan orders 10 shutdowns, Tunisia joins offenders.
 
 </div>
 
