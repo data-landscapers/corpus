@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-tza-jamii-x-change",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "NIDA says Jamii Namba is a unique identification number given to all people in Tanzania including newborns.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Jamii Namba",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
