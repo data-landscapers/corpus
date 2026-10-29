@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: RWA
-ledger_rows: 55
+ledger_rows: 57
 not_held: 7
-record: a2513ae1be57
+record: 12eca46e647b
 ---
 
 # News, Sep – Oct 2026
@@ -277,6 +277,20 @@ Rwanda's parliament ratified EUR 17 million of World Bank financing for digital 
 **[Paratus expands East Africa connectivity ahead of ITW Africa](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/)** — TechTrendsKE, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Paratus said its 2,000km Goma-to-Mombasa terrestrial fibre route is live and carrying traffic, announced at the ITW and Datacloud Africa conference in Nairobi. The route links eastern DRC to the Kenyan coast through Kigali, Kampala and Nairobi, with access to subsea capacity landing at Mombasa. Starlink services have launched in Uganda alongside it, and the company is introducing a Layer 2 connectivity service over low-earth-orbit satellite for the East African market.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">LTE network joint venture with KT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda Seeks $386 Million From South Korean Telecom Over 4G Dispute](https://www.ktpress.rw/2026/10/rwanda-seeks-386-million-from-south-korean-telecom-over-4g-dispute/)** — KT Press, 28 October 2026
+
+Counterclaim filed 20 Oct 2026 at the PCA against KT's $152m put-option exit; 4G exclusivity ended by RURA in 2023.
 
 </div>
 
@@ -785,6 +799,20 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Award-winner Ngirinshuti on an AI model that serves Rwanda’s statistical analysis](https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/)** — Cenfri, 1 October 2026
 
 The National Institute of Statistics of Rwanda built a model that assigns industry, occupation and education codes to Labour Force Survey answers in Kinyarwanda, English or French, auto-coding 96% of records in one test. Work that took about four analysts a week now needs one person. The project, which grew from an AIMS and Cenfri training course, won an ITU Innovate for Impact award; a field app awaits further testing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Skills and Compute Africa compute grants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Talent Pipelines Versus Compute Limits: Inside Rwanda’s AI Skills Agreement](https://techafricanews.com/2026/10/28/talent-pipelines-versus-compute-limits-inside-rwandas-ai-skills-agreement/)** — Tech Africa News, 28 October 2026
+
+No new public capital or compute; AISCA grants reach 196,844 GPU-hours by Sep 2026 against a 7m-hour need.
 
 </div>
 
