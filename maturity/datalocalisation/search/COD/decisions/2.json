@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "Article 201 sets the principle that personal data are stored or hosted in the DRC, with transfers abroad needing prior authorisation of the Autorité de protection des données, whose functions the ARPTC exercises provisionally under Decision 039/ARPTC/CLG/2025 of 11 September 2025.",
+ "title": "Guide relatif à la protection des données à caractère personnel en République Démocratique du Congo",
+ "publisher": "Africa Data Protection",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

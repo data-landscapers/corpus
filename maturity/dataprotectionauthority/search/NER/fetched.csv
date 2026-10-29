@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.lesahel.org/haute-autorite-de-protection-des-donnees-a-caractere-personnel-le-president-de-linstitution-prete-serment-devant-la-cour-detat/,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/NER/1.txt,196,html,Haute Autorité de Protection des Données à Caractère Personnel : Le président de l’institution prête serment devant la Cour d’Etat
+2,https://www.hapdp.ne/rapport-annuel-dactivites-2023-de-la-hapdp,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/NER/2.txt,110,html,Rapport Annuel d'Activités 2023 de la HAPDP
+3,https://www.hapdp.ne/uploads/files/ordonnace-2024-29-du-24-juin-2024.pdf,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/NER/3.txt,686,pdf,
+4,https://www.hapdp.ne/uploads/files/ordonnace-2024-16-du-26-avril-2024.pdf,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/NER/4.txt,693,pdf,
+5,https://www.hapdp.ne/uploads/files/Loi%20N%C2%B0%202023-31%20Modifiant%20la%20Loi%20N%C2%B0%202022-59.pdf,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/NER/5.txt,1171,pdf,
+6,https://www.hapdp.ne/uploads/files/Loi-2022-59-consolidee.pdf,held,held as raw/2022/2022-12-16-niger-loi-2022-59-protection-donnees.md,,0,,
+7,https://www.lesahel.org/protection-des-donnees-a-caractere-personnel-la-hapdp-remet-son-rapport-de-lannee-2021-au-premier-ministre/,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/NER/7.txt,402,html,Protection des données à caractère personnel : La HAPDP remet son Rapport de l’année 2021 au Premier ministre
+8,https://www.africadataprotection.org/africadataprotection_report_en_december_2024.pdf,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/NER/8.txt,5730,pdf,

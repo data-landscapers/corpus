@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-29 03:22 · **REBUILD** · 51m · dataprotectionlaw general: 7 cells reassessed, 0 moved; 54 searched, 84 staged; 87.7M tokens - ok
+2026-10-29 03:22 · **REBUILD** · 51m · dataprotectionauthority body: 4 cells reassessed, 0 moved; 54 searched, 146 staged; 87.7M tokens - ok
+2026-10-29 03:22 · **REBUILD** · 51m · datalocalisation rule: 3 cells reassessed, 0 moved; 54 searched, 71 staged; 87.7M tokens - ok
 2026-10-29 02:27 · **BUILD** · 3h14m · catalogue 35,068; 469 sources, 20 moved, 64 minted, 27 status revised; data centres 42 read, 37 changed; maturity 206 facts, 19 moved; bulletin 32; register 9; prose gate 28 fixed; messages 50-52 - ok
 2026-10-28 23:13 · **ANALYTICS** · unclocked · 2026-10-27 written; 27 Oct: dl.io 34 views / 0 clicks, corpus 155 views / 6 clicks
 2026-10-28 05:48 · **RENDER** · 31m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 182 editions pruned, 6,814 objects to R2; deployed 3883829 - ok

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing",
+ "fact": "NITDA's Guidelines for Nigerian Content Development in ICT, as amended August 2019 and effective on signature, require companies to host all sovereign data locally and MDAs to host sovereign data on servers within Nigeria, absent NITDA's express approval.",
+ "title": "Guidelines for Nigerian Content Development in Information and Communications Technology (ICT) (as amended, August 2019)",
+ "publisher": "National Information Technology Development Agency",
+ "published": "2019-08",
+ "date_source": "source",
+ "why_not": ""
+}

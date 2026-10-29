@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "FRA Board Decision No. 139 of 2023 (Egyptian Gazette no. 150 supplement A, 11 July 2023) requires fintech companies licensed by the Financial Regulatory Authority for non-banking financial activities to keep their client database within the geographical boundaries of Egypt.",
+ "title": "Decision of the Board of Directors No. 139 of 2023 Regarding the Facilities and Technology Infrastructure, Information Systems, and Protection and Security Means Necessary for Using Financial Technology to Conduct Non-Banking Financial Activities",
+ "publisher": "General Authority for Financial Supervision (Egyptian Gazette, reproduced by RegAlert)",
+ "published": "2023-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

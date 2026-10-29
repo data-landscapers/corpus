@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing",
+ "fact": "Article 201 of Ordonnance-loi n° 23/010 of 13 March 2023 provides that personal data are stored and or hosted in the DRC, with transfer to a third-State host only where the data protection authority allows it.",
+ "title": "Ordonnance-loi n° 23/010 du 13 mars 2023 portant Code du numérique",
+ "publisher": "République Démocratique du Congo",
+ "published": "2023-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

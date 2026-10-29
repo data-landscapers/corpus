@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing",
+ "fact": "The South African Reserve Bank's National Payment System Department consultation paper of March 2025 recommends, as a directive under section 12 of the NPS Act, that clearing and settlement data of payment system market infrastructures be processed, stored and located within South Africa and that other payment data offshoring need prior SARB approval.",
+ "title": "Cloud computing and data offshoring in the National Payment System: Consultation paper - March 2025",
+ "publisher": "South African Reserve Bank, National Payment System Department",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": ""
+}

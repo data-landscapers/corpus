@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "general",
+ "aspect": "standing",
+ "fact": "The ANSSI page states Loi L/2016/037/AN on cybersecurity and personal data protection was adopted by the National Assembly and promulgated by President Alpha Condé, covering personal data processing by individuals, companies and public institutions.",
+ "title": "Loi relative à la Cybersécurité et la protection des données à caractère personnel",
+ "publisher": "ANSSI Guinée",
+ "published": "2025-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

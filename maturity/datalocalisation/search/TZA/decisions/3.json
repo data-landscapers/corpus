@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "The Bank of Tanzania's Cloud Computing Guidelines for Financial Service Providers, 2023 (December 2023) say a financial service provider shall not host a mission-critical system, or any system whose data the Bank deems critical, in a primary data centre or cloud provider whose infrastructure is outside Tanzania.",
+ "title": "Cloud Computing Guidelines for Financial Service Providers, 2023",
+ "publisher": "Bank of Tanzania",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

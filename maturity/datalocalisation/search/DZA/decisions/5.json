@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "The cloud computing cahier des charges published in Journal Officiel No. 66 of 2 October 2022 obliges licence holders to site infrastructure on national territory and guarantee that customer data are hosted and stored on national territory, under ARPCE authorisation and sanctions up to withdrawal.",
+ "title": "Cahier des charges définissant les conditions et modalités d'établissement et d'exploitation des services d'hébergement et de stockage de données en cloud computing",
+ "publisher": "Journal officiel de la République algérienne démocratique et populaire, n° 66 (ARPCE)",
+ "published": "2022-10-02",
+ "date_source": "source",
+ "why_not": ""
+}

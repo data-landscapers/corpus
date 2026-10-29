@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "body",
+ "aspect": "standing",
+ "fact": "NCSA launched its data protection office on 31 March 2022 to register controllers, investigate complaints and audit compliance.",
+ "title": "NCSA officially launches the Data Protection Office",
+ "publisher": "National Cyber Security Authority",
+ "published": "2022-03-31",
+ "date_source": "source",
+ "why_not": ""
+}

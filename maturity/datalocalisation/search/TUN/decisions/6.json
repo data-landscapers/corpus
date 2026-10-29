@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "Version 1.1 of 27 December 2023 of the ANCS labelling framework requires N-Cloud and G-Cloud providers' main and backup data centres to be located in Tunisia and run by Tunisian-law entities (measure TN-01), with the Agence Nationale de la Cybersécurité awarding the label.",
+ "title": "Référentiel de labélisation des fournisseurs de services d'informatique en nuage (N-Cloud et G-Cloud)",
+ "publisher": "Agence Nationale de la Cybersécurité",
+ "published": "2023-12-27",
+ "date_source": "source",
+ "why_not": ""
+}

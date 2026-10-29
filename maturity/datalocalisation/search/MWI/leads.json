@@ -1,0 +1,10 @@
+[
+{"url":"https://dtri.uneca.org/v1/uploads/country-profile/mwi-country-profile-en.pdf","title":"Malawi country profile (Digital Trade Regulatory Integration Index)","publisher":"UNECA","published":"2022","sub_indicator":"rule","why":"Q1: says Malawi has local storage requirement"},
+{"url":"https://www.mondaq.com/pdf/1661282.pdf","title":"Data Protection (Malawi chapter)","publisher":"Mondaq","published":"2025","sub_indicator":"rule","why":"Q1: states no data localisation requirements"},
+{"url":"https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf","title":"Data Protection Act 2024","publisher":"Government of Malawi","published":"2024-01","sub_indicator":"rule","why":"Q1-3: cross-border transfer conditions; MACRA as authority"},
+{"url":"https://www.datalaw.africa/wp-content/uploads/2024/09/Malawi_country-guide_30-Sept.pdf","title":"Malawi country guide","publisher":"DataLaw Africa","published":"2024-09","sub_indicator":"rule","why":"Q1: cross-border/localisation treatment"},
+{"url":"https://api.pppc.mw/api/download/791","title":"National Digitalization Policy","publisher":"Government of Malawi","published":"","sub_indicator":"rule","why":"Q1: ensure local hosting of all Government systems"},
+{"url":"https://health.gov.mw/storage/resources/Digital%20Health%20Governance%20Framework%20Malawi%20Signed.pdf","title":"Digital Health Governance Framework","publisher":"Ministry of Health Malawi","published":"","sub_indicator":"rule","why":"Q1,3: health system hosted on e-Government data centres"},
+{"url":"https://www.pppc.mw/procurement/reports-notices/reoi-data-migration-and-managed-services","title":"REoI Data Migration and Managed Services","publisher":"Public Private Partnership Commission","published":"","sub_indicator":"rule","why":"Q4: migration of MDA data to National Data Centre"},
+{"url":"https://malawilii.org/akn/mw/act/gn/2019/31/eng@2019-07-05","title":"Financial Services (Transaction Processing Hub) Directive, 2019","publisher":"MalawiLII","published":"2019-07","sub_indicator":"rule","why":"Q1-3: microfinance transaction processing hub requirement"}
+]

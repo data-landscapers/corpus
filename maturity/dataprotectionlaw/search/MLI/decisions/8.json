@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "general",
+ "aspect": "",
+ "fact": "",
+ "title": "Journal officiel du Mali de l'annee 2013",
+ "publisher": "Journal officiel de la République du Mali",
+ "published": "2013",
+ "date_source": "source",
+ "why_not": "already-held: the 2013 law and its promulgation date are in evidence.csv"
+}

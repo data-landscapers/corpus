@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "Article 201 of the Code du numérique makes storage and hosting of personal data in the DRC the default, with export a derogation needing the data protection authority's authorisation; the Code entered into force on 13 March 2023 and the ARPTC exercises the authority's functions in the interim, having issued Decision 039/ARPTC/CLG/2025 of 11 September 2025.",
+ "title": "The Code du numérique is an architecture decision",
+ "publisher": "HKONNECT",
+ "published": "2026-08-12",
+ "date_source": "source",
+ "why_not": ""
+}

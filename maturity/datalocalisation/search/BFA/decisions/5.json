@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "Loi n°001-2021/AN of 30 March 2021 requires health data identifying individuals to be hosted on national territory unless a derogation is granted under article 56, with the Commission de l'informatique et des libertés as supervisory authority.",
+ "title": "LOI N°001-2021/AN portant protection des personnes à l’égard du traitement des données à caractère personnel",
+ "publisher": "Assemblée législative / Commission de l’informatique et des libertés",
+ "published": "2021-03-30",
+ "date_source": "source",
+ "why_not": ""
+}

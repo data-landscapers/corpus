@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "general",
+ "aspect": "application;authority",
+ "fact": "The CIL president handed the 2022 activity report to the Head of State on 23 February 2024, reporting about 190 processing files handled and about a hundred complaints registered in 2022.",
+ "title": "Technologies de l'information : la CIL remet son rapport d'activités 2022 au Chef de l'Etat",
+ "publisher": "Présidence du Faso",
+ "published": "2024-02-23",
+ "date_source": "source",
+ "why_not": ""
+}

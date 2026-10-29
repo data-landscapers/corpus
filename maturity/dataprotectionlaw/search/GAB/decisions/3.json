@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "general",
+ "aspect": "application;authority",
+ "fact": "The APDPVP carried out compliance inspections of twelve companies in Port-Gentil from 12 to 18 September 2025 under law 025/2023, finding many processed personal data without prior declaration.",
+ "title": "APDPVP/MISSION DE CONTROLE PORT-GENTIL",
+ "publisher": "Autorité pour la Protection des Données Personnelles et de la Vie Privée",
+ "published": "2025-10-10",
+ "date_source": "source",
+ "why_not": ""
+}

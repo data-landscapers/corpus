@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "The Bank of Tanzania's Cloud Computing Guidelines for Financial Service Providers, 2025 (signed August 2025) bar hosting mission-critical systems outside Tanzania and put other systems under prior written approval from the Bank.",
+ "title": "Central bank issues new cloud computing guidelines for financial service providers",
+ "publisher": "The Guardian (Tanzania)",
+ "published": "2025-08-26",
+ "date_source": "source",
+ "why_not": ""
+}

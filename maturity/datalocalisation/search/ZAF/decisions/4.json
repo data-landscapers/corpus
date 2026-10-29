@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "Exchange Control Circular No. 10/2020 of 1 October 2020 says offshoring and cloud computing of data by authorised dealers is considered only case by case on formal application to the Financial Surveillance Department, whose stated preference is to keep data within South Africa, and non-compliance may lead to suspension of authorities.",
+ "title": "Exchange Control Circular No. 10/2020: Offshoring and cloud computing",
+ "publisher": "South African Reserve Bank, Financial Surveillance Department",
+ "published": "2020-10-01",
+ "date_source": "source",
+ "why_not": ""
+}

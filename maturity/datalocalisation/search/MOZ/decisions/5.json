@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "Decreto n.º 72/2025 of 31 December 2025 approves the Regulamento de Computação em Nuvem, under which classified information may be processed only in private clouds and its transfer outside national territory needs the express authorisation of the Regulatory Authority.",
+ "title": "Decreto n.º 72/2025 de 31 de Dezembro - Regulamento de Computação em Nuvem",
+ "publisher": "Conselho de Ministros / Boletim da República",
+ "published": "2025-12-31",
+ "date_source": "source",
+ "why_not": ""
+}

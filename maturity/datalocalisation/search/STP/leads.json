@@ -1,0 +1,9 @@
+[
+{"url":"https://dtri.uneca.org/v1/uploads/country-profile/stp-country-profile-en.pdf","title":"São Tomé and Príncipe country profile","publisher":"UNECA Digital Trade Regulatory Integration","published":"","sub_indicator":"rule","why":"Q1: states no provision requires data stored in the country (stated absence)"},
+{"url":"https://inic.gov.st/servicos.php?servico_name=alojamento.php","title":"INIC Portal: Alojamento Web","publisher":"INIC","published":"","sub_indicator":"rule","why":"Q1/Q2: state hosting imperative, national territory"},
+{"url":"https://dataprotection.africa/sao-tome-and-principe/","title":"São Tomé and Príncipe Fact Sheet","publisher":"Data Protection Africa (ALT Advisory)","published":"2022-05-23","sub_indicator":"rule","why":"Q1/Q3: transfer restrictions, ANPDP"},
+{"url":"https://research.lawlab.africa/sao-tome-and-principe/","title":"Data Protection in São Tomé and Príncipe","publisher":"Law Lab Africa","published":"","sub_indicator":"rule","why":"Q3/Q4: regulator, no enforcement found"},
+{"url":"https://extranet.who.int/cpcd/sites/default/files/public_file_repository/STP_Sao-Tome-and-Principe_Lei-No-03-2016-Visa-garantir-e-proteger-os-dados-pessoais-das-pessoas-singulares_2016.pdf","title":"Lei n.º 03/2016 de Proteção de Dados Pessoais","publisher":"Assembleia Nacional","published":"","sub_indicator":"rule","why":"Q1: text of transfer rules"},
+{"url":"https://inic.gov.st/viewdoc.php?id=27","title":"Desenho da Estratégia e Política de Governança de Dados","publisher":"INIC","published":"","sub_indicator":"rule","why":"Q1: sovereign data infrastructure policy being drafted"},
+{"url":"https://www.ager.st/images/estrategia_cyber_.pdf","title":"Estratégia Nacional de Cibersegurança de São Tomé e Príncipe","publisher":"AGER","published":"","sub_indicator":"rule","why":"Q1: hosting dependence"}
+]

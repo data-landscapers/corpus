@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "The National Digital Cloud Policy released by the Federal Ministry of Communications, Innovation and Digital Economy requires Level 4 government data to be hosted exclusively in Nigeria and Level 3 data stored at rest in Nigeria, with NITDA assessing exemptions and breaches drawing remediation directives and sanctions.",
+ "title": "Nigeria mandates cloud storage for government data",
+ "publisher": "HCNTimes",
+ "published": "2026-08-18",
+ "date_source": "source",
+ "why_not": ""
+}

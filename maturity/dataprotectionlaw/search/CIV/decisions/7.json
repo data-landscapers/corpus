@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "general",
+ "aspect": "application;authority",
+ "fact": "ARTCI's 2023 activity report lists 13 sanction decisions, 19 inspections and 305 complaints received in 2023 under Law 2013-450, and states that warnings and formal notices were sent to non-compliant firms.",
+ "title": "ARTCI Infos mars 2024",
+ "publisher": "ARTCI",
+ "published": "2024-03",
+ "date_source": "source",
+ "why_not": ""
+}

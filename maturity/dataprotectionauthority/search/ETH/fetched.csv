@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.eca.et/about/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+2,https://tsegasolomon.com/insights/f/ethiopia%E2%80%99s-data-protection-2026-implementation-status-update,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/ETH/2.txt,118,html,Ethiopia’s Data Protection: 2026 Implementation Status Update
+3,https://mail.techreviewafrica.com/news/3248/ethiopia-advances-digital-governance-with-national-workshop-on-new-data-protection-law,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/ETH/3.txt,313,html,Ethiopia advances digital governance with national workshop on new data protection law
+4,https://www.haymanotbelay.com/ethiopia-personal-data-protection-qa-guide/,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/ETH/4.txt,3669,html,Ethiopia Personal Data Protection Q&A Guide - Haymanot & Advocates
+5,https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement,held,held as raw/2025/2025-11-15-ethiopia-data-protection-law-slow-enforcement.md,,0,,
+6,https://addisfortune.news/eca-launches-digital-portal-to-enforce-data-protection,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/ETH/6.txt,114,html,ECA Launches Digital Portal to Enforce Data Protection
+7,https://justice.gov.et/am/article/personal-data-protection-in-ethiopian-law/,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/ETH/7.txt,2043,html,የግል ዳታ ጥበቃ በኢትዮጵያ ሕግ • Personal Data Protection in Ethiopian Law - Ministry of Justice
+8,https://justice.gov.et/en/law/personal-data-protection-proclamation/,fetched,,scripts/.workroot/study/dataprotectionauthority/cache/ETH/8.txt,125,html,የግል ዳታ ጥበቃ አዋጅ (አዋጅ ቁጥር 1321 /2016) • Personal Data Protection Proclamation (Proclamation No. 1321 /2024) - Ministry of Justice

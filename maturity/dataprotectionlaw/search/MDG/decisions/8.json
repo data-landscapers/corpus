@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "general",
+ "aspect": "authority",
+ "fact": "The first meeting of the CMIL operationalisation committee was held on 28 February 2024 at the PREA office, under décret n°2023-1541, with the authority not yet operational.",
+ "title": "Première réunion du comité d'opérationnalisation de la CMIL",
+ "publisher": "PREA (Programme de Réforme de l'État civil et de l'Identité)",
+ "published": "2024-02-28",
+ "date_source": "source",
+ "why_not": ""
+}

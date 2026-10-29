@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "Law No 058/2021 of 13 October 2021, in force 15 October 2021, Article 50 requires data controllers and processors to store personal data in Rwanda, with storage abroad only under a registration certificate issued by the supervisory authority (NCSA).",
+ "title": "Law relating to the Protection of Personal Data and Privacy",
+ "publisher": "RwandaLII (Law No 058/2021)",
+ "published": "2021-10",
+ "date_source": "source",
+ "why_not": ""
+}

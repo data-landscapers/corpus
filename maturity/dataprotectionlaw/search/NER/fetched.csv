@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.africadataprotection.org/niger-suppression-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel.html,held,held as raw/2026/2026-08-01-ner-niger-suppression-de-la-haute-autorite-de-protection-des-donnees-a-car.md,,0,,
+2,https://www.journalduniger.com/niger-reforme-etat-dissolution-neuf-organismes-publics-decret-tiani/,fetched,,scripts/.workroot/study/dataprotectionlaw/cache/NER/2.txt,492,html,Niger : Le président Tiani dissout 9 organismes d'État par décret - Journal du Niger
+3,https://anp.ne/niger-plusieurs-services-rattaches-ou-sous-tutelle-de-la-presidence-de-la-primature-et-du-secretariat-general-du-gouvernement-supprimes/,held,held as raw/2026/2026-06-12-ner-niger-plusieurs-services-rattaches-ou-sous-tutelle-de-la-presidence-de.md,,0,,
+4,https://www.hapdp.ne/uploads/files/Loi-2022-59-consolidee.pdf,held,held as raw/2022/2022-12-16-niger-loi-2022-59-protection-donnees.md,,0,,
+5,https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/,held,held as raw/2025/2025-07-28-hapdp-president-interview-loi-2022-59-lesahel.md,,0,,
+6,https://www.hapdp.ne/liste-des-responsables-de-traitement-conformes-en-2024,fetched,,scripts/.workroot/study/dataprotectionlaw/cache/NER/6.txt,244,html,LISTE DES RESPONSABLES DE TRAITEMENT CONFORMES EN 2024
+7,https://www.hapdp.ne/uploads/files/ordonnace-2024-29-du-24-juin-2024.pdf,fetched,,scripts/.workroot/study/dataprotectionlaw/cache/NER/7.txt,686,pdf,
+8,https://www.hapdp.ne/uploads/files/ordonnace-2024-16-du-26-avril-2024.pdf,unfetchable,ConnectionError; no usable Wayback capture,,0,,

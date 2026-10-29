@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "On 8 October 2026 the CBN's Payments Systems Supervision Department said the 15 June 2026 circular's 1 January 2027 compliance date for storing payment transaction data in Nigeria had not changed and told institutions still hosting abroad to begin migration.",
+ "title": "CBN commits to data localisation, insists on January deadline",
+ "publisher": "The Guardian Nigeria",
+ "published": "2026-10-09",
+ "date_source": "source",
+ "why_not": ""
+}

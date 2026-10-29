@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "Bank of Namibia Determination on Outsourcing in Banking Institutions and Cloud Computing (BID-34), Government Gazette 7835 of 23 June 2022, says a banking institution must locate the data centres hosting its production core banking systems on local infrastructure, with local IaaS allowed case by case on the Bank's written approval, and does not supersede the Determination on the Localisation of Core Banking Systems (BID-19).",
+ "title": "Determination on Outsourcing in Banking Institutions and Cloud Computing (BID-34)",
+ "publisher": "Bank of Namibia",
+ "published": "2022-06-23",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "The arrêté of 8 April 2024, published in JORT no. 49 of 16 April 2024, requires N-Cloud providers to use primary and backup data centres on Tunisian territory and has the Agence Nationale de la Cybersécurité award the label.",
+ "title": "Tunisie : Publication au Jort d'un arrêté fixant les conditions d'octroi des deux labels G-cloud et N-cloud",
+ "publisher": "WMC (webmanagercenter.com)",
+ "published": "2024-04-19",
+ "date_source": "source",
+ "why_not": ""
+}

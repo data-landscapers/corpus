@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "general",
+ "aspect": "application;authority",
+ "fact": "The APDPVP issued Délibération N° 0147/APDPVP of 8 April 2026 on a complaint by a private individual against the company FANTASIA SARL.",
+ "title": "Journal Officiel de la République Gabonaise: Délibérations APDPVP",
+ "publisher": "Journal Officiel de la République Gabonaise",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "general",
+ "aspect": "application",
+ "fact": "The CNPD report for 2022, delivered 12 April 2023, records 417 decisions, 343 of them authorisations, and 16 complaints about personal data violations.",
+ "title": "CNPD alerta entidades públicas para gestão dos riscos associados ao intercâmbio de dados pessoais",
+ "publisher": "Balai",
+ "published": "2023-04-13",
+ "date_source": "source",
+ "why_not": ""
+}
