@@ -4,7 +4,7 @@
     {
       "sub_indicator": "general",
       "stage": "2",
-      "authority": "provided",
+      "authority": "none",
       "standing": "drafting",
       "regulations": "",
       "application": "",
@@ -13,7 +13,7 @@
       "flags": "advancing",
       "stage_sources": "SSD-016;SSD-001;SSD-006;SSD-008",
       "gaps": "No law is enacted or tabled; on 8 September 2026 the bill was still in preparation (SSD-016). The Dec 2025 'announced' (SSD-003) is superseded by later drafting facts; 'none' facts (SSD-005, SSD-009, SSD-013) state only that no law is in place, which is consistent. No regulations or application held.",
-      "note": "Strongest standing stated is drafting: the bill was still in preparation on 2026-09-08 (SSD-016), after validation in May 2026 (SSD-001), and drafting rungs place at 2. Nothing is enacted or tabled, so stage 3 is not reached; the Data Protection Commission is only provided in the draft.",
+      "note": "Strongest standing stated is drafting: the bill was still in preparation on 2026-09-08 (SSD-016), after validation in May 2026 (SSD-001), and drafting rungs place at 2. Nothing is enacted or tabled, so stage 3 is not reached; the Data Protection Commission exists only in the draft, so authority is none.",
       "as_at": "2026-10-29"
     }
   ]

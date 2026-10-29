@@ -219,7 +219,7 @@ Burkina Faso has a 2021 data protection law; its commission warns and inspects, 
 
 ### Burundi: 3 Established
 
-Burundi promulgated its first personal data protection law in March 2026; no source found reports no decision under it is recorded, and its commencement date.
+Burundi promulgated its first personal data protection law in March 2026; when it took effect, and any decision under it, are unknown.
 
 *Advancing.*
 
@@ -245,7 +245,7 @@ Cabo Verde's 2001 data protection law, amended in 2021, is in force and cases re
 
 ### Central African Republic: 3 Established
 
-A personal data protection law was adopted in 2024; no source found reports no regulation or decision under it is recorded, and its commencement date.
+The Central African Republic adopted a data protection law in 2024; when it took effect, and any regulation or decision under it, are unknown.
 
 *Regulations pending.*
 
@@ -301,7 +301,7 @@ The 2023 Digital Code, in force, covers personal data; a data protection officer
 
 ### Djibouti: 3 Established
 
-Djibouti enacted a data protection law in June 2025; no source found reports no decision under it is recorded, and its start date.
+Djibouti enacted a data protection law in June 2025; when it took effect, and any decision under it, are unknown.
 
 - TechHive Advisory states that Djibouti's 156-article data-protection regime was enacted in June 2025 as part of the Digital Code; it gives no promulgation or commencement date ([source, 2025-06](https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law)).
 
@@ -323,7 +323,7 @@ Egypt's 2020 data protection law is in force and its authority opened a licensin
 
 ### Equatorial Guinea: 3 Established
 
-Equatorial Guinea has had a personal data protection law since 2016; no source found says whether it has been applied, or its supervisory body created,.
+Equatorial Guinea has had a personal data protection law since 2016; whether it has been applied, or its supervisory body created, is unknown.
 
 - Ley Núm. 1/2016 of 22 July 2016, sanctioned and promulgated by the President, sets rules for personal data processing in the public and private sectors and enters into force twenty days after its publication in the Boletín Oficial del Estado (date taken from the law's own date, 22 July 2016) ([source, 2016-07-22](https://blog.africadataprotection.org/wp-content/uploads/2024/10/Guinee-equatoriale-ley-1-2.016-de-proteccion-de-datos.pdf)).
 

@@ -20,3 +20,10 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-28,GNB,gov.legislate--data-protection-legislation,fact,2,2,GNB-006;GNB-004,Council of Ministers approved the data protection law with amendments on 8 May 2026; last twelve months advancing; stage 2 holds
 2026-10-28,NAM,gov.legislate--data-protection-legislation,fact,2,2,NAM-002;NAM-018,"Cabinet committee on legislation approved the Data Protection Bill (2026/27 budget estimates, Mar 2026); last twelve months advancing; stage 2 holds"
 2026-10-29,SSD,gov.legislate--data-protection-legislation,fact,2,2,SSD-016;SSD-001;SSD-006;SSD-008,"8 Sep 2026 Juba workshop: bill still in preparation, deputy minister urged passage; stays drafting"
+2026-10-29,BDI,gov.legislate--data-protection-legislation,review,3,3,BDI-005,"Rebuild: promulgated March 2026, no commencement or decision held; stage 3 holds; short summary rewritten"
+2026-10-29,CAF,gov.legislate--data-protection-legislation,review,3,3,CAF-001;CAF-007,"Rebuild: Loi 24.001 in force, authority unappointed, no decision; stage 3 holds; short summary and two paragraphs rewritten"
+2026-10-29,DJI,gov.legislate--data-protection-legislation,review,3,3,DJI-001,"Rebuild: Digital Code enacted June 2025, no commencement or decision held; stage 3 holds; short summary and four paragraphs rewritten"
+2026-10-29,GNQ,gov.legislate--data-protection-legislation,review,3,3,GNQ-001,"Rebuild: Ley 1/2016 stands unrepealed, nothing since; stage 3 holds as a law in force; short summary and two paragraphs rewritten"
+2026-10-29,NAM,gov.legislate--data-protection-legislation,review,2,2,NAM-002;NAM-018,"Rebuild: authority named only in draft bills, so none rather than provided, as for GNB and MOZ; stage 2 holds"
+2026-10-29,SLE,gov.legislate--data-protection-legislation,review,2,2,SLE-001;SLE-003,"Rebuild: authority exists only in the Bill, so none rather than provided, as for GNB and MOZ; stage 2 holds; three paragraphs rewritten"
+2026-10-29,SSD,gov.legislate--data-protection-legislation,review,2,2,SSD-016;SSD-001;SSD-006;SSD-008,"Rebuild: Data Protection Commission exists only in the draft, so authority none rather than provided; stage 2 holds"

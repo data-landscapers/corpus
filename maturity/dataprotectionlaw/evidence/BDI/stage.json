@@ -1,6 +1,20 @@
 {
   "iso3": "BDI",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "provided", "standing": "enacted", "regulations": "", "application": "", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "BDI-005", "gaps": "No commencement date, regulations or application fact has been found; the authority is named in the law but no appointment is reported.", "note": "Promulgated 10 March 2026 with no commencement stated is enacted, stage 3. Stage 4 needs in-force and a dated decision under the law, and none is held."}
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "provided",
+      "standing": "enacted",
+      "regulations": "",
+      "application": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "BDI-005",
+      "gaps": "No commencement date, regulations or application fact has been found; the authority is named in the law but no appointment is reported.",
+      "note": "Promulgated 10 March 2026 with no commencement stated is enacted, stage 3. Stage 4 needs in-force and a dated decision under the law, and none is held.",
+      "as_at": "2026-10-29"
+    }
   ]
 }

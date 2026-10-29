@@ -1,6 +1,20 @@
 {
   "iso3": "SLE",
   "cells": [
-    {"sub_indicator": "general", "stage": "2", "authority": "provided", "standing": "drafting", "regulations": "", "application": "", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "SLE-001;SLE-003", "gaps": "No law is enacted: the Bill is approved by Cabinet (21 April 2026) but not yet tabled in Parliament. No regulations or application have been found, and no source states they are absent.", "note": "Standing is drafting, a bill the cabinet has approved, which is stage 2; stage 3 needs the law enacted. The single authority the Bill would create is provided, not constituted, and the cap does not bite below stage 4."}
+    {
+      "sub_indicator": "general",
+      "stage": "2",
+      "authority": "none",
+      "standing": "drafting",
+      "regulations": "",
+      "application": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SLE-001;SLE-003",
+      "gaps": "No law is enacted: the Bill is approved by Cabinet (21 April 2026) but not yet tabled in Parliament. No regulations or application have been found, and no source states they are absent.",
+      "note": "Standing is drafting, a bill the cabinet has approved, which is stage 2; stage 3 needs the law enacted. The authority exists only in the Bill, so no law provides it and authority is none.",
+      "as_at": "2026-10-29"
+    }
   ]
 }

@@ -1,6 +1,20 @@
 {
   "iso3": "DJI",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "provided", "standing": "enacted", "regulations": "", "application": "", "last12": "", "cap": "", "flags": "", "stage_sources": "DJI-001", "gaps": "Sources disagree on standing: Jones Day (2025-06-30) says passed, not yet promulgated; TechHive (2025-11-05) says enacted in June 2025 but gives no promulgation or commencement date. No regulations, application or last-twelve-months event held; the CNDP is not stated to be constituted.", "note": "Enacted is the strongest standing stated, and enactment alone places no higher than 3. Stage 4 needs in-force standing and a dated decision under the law, none found."}
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "provided",
+      "standing": "enacted",
+      "regulations": "",
+      "application": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001",
+      "gaps": "Sources disagree on standing: Jones Day (2025-06-30) says passed, not yet promulgated; TechHive (2025-11-05) says enacted in June 2025 but gives no promulgation or commencement date. No regulations, application or last-twelve-months event held; the CNDP is not stated to be constituted.",
+      "note": "Enacted is the strongest standing stated, and enactment alone places no higher than 3. Stage 4 needs in-force standing and a dated decision under the law, none found.",
+      "as_at": "2026-10-29"
+    }
   ]
 }

@@ -1,6 +1,20 @@
 {
   "iso3": "GNQ",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "provided", "standing": "in-force", "regulations": "", "application": "", "last12": "", "cap": "", "flags": "", "stage_sources": "GNQ-001", "gaps": "No regulation, application fact or dated event has been found; the Órgano Rector is named in the law as to be created by decree and nothing says it was constituted. Nothing dated since 2016-07-22.", "note": "Ley 1/2016 is in force (stage 3), but there is no dated application under it, so stage 4 is not reached. The cap does not apply because coverage did not reach stage 4."}
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "provided",
+      "standing": "in-force",
+      "regulations": "",
+      "application": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-001",
+      "gaps": "No regulation, application fact or dated event has been found; the Órgano Rector is named in the law as to be created by decree and nothing says it was constituted. Nothing dated since 2016-07-22.",
+      "note": "Ley 1/2016 is in force (stage 3), but there is no dated application under it, so stage 4 is not reached. The cap does not apply because coverage did not reach stage 4.",
+      "as_at": "2026-10-29"
+    }
   ]
 }
