@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-26-ken-have-your-say-kenya-s-draft-national-data-governance-policy-comments-d",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The ministry posted its draft National Data Governance Policy online and invited public comments by 5 June 2026, by email or post, per KICTANet.",
+   "as_of": "2026-05-26",
+   "date_precision": "day",
+   "system": "National Data Governance Policy comment call",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
