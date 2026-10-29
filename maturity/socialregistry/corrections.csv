@@ -2,3 +2,4 @@ iso3,n,aspect,value,action,why
 AGO,005,programmes,several,removed,First pass: future use read as use
 BFA,002,linked,linked,removed,First pass: an aim of interoperability read as a link
 SWZ,004,registry,inservice,removed,"Stage 4c: an outage notice naming the system among services restored, not a statement that the registry is in service; enumeration still running (SWZ-001)"
+MAR,012,registry,inservice,revalued: inservice,"Stage 4c: a registry carrying 170,000 operations a day is in service, not underway"

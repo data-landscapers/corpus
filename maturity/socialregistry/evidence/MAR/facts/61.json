@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-16-mar-administration-numerique-170-000-operations-rsu-sont-enregistrees-quot",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The minister described the Registre social unifié (RSU) as a project using the common interconnection platform, with about 170,000 operations a day to August 2023.",
+   "as_of": "2023-08",
+   "date_precision": "month",
+   "system": "Registre social unifié (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
