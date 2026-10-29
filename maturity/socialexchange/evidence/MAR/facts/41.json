@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-13-mar-add-silence-on-digitalise",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The ADD says the GISRE platform carries data exchange for operational use cases including the Registre social unifié and AMO Tadamon.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "GISRE interoperability platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

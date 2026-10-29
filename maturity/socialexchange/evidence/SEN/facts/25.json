@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-16-sen-pins-plateforme-interministerielle-x-road-pilote-pnbsf-cmu",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The PINS pilot use case interconnects the RNU, the SIGICMU health-insurance system, civil status databases and the national identity card to enrol PNBSF beneficiary families free in community health insurance run by ANACMU.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "PINS (X-Road)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNU",
+   "country_label": "Registre National Unique",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

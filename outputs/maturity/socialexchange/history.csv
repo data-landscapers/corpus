@@ -8,3 +8,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,MAR,dpi.exchange--interoperability-of-social-protection-systems,fact,4,4,MAR-003;MAR-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,NGA,dpi.exchange--interoperability-of-social-protection-systems,fact,2,3,NGA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-22,KEN,dpi.exchange--interoperability-of-social-protection-systems,fact,4,4,KEN-001;KEN-004,"Health CS (October 2025): SHA sponsors 558,000 indigent households identified through the Enhanced Single Registry; the registry reaches health but no national ID link is held, so stage 4 holds"
+2026-10-29,SEN,dpi.exchange--interoperability-of-social-protection-systems,fact,3,3,SEN-005,"PINS X-Road pilot (Jan 2026) linking RNU to ID, civil status and CMU: underway, stage stays 3"

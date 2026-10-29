@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,exchange,exchange,coverage,inservice,2024-10-23,MAR-004;MAR-007;MAR-009,MAR-002=underway;MAR-006=underway,
+MAR,exchange,exchange,coverage,inservice,2025-04,MAR-004;MAR-007;MAR-009;MAR-011;MAR-012,MAR-002=underway;MAR-006=underway,
 MAR,exchange,registry,coverage,shared,2025-09,MAR-001;MAR-003;MAR-005;MAR-008;MAR-010,,
-MAR,exchange,linked,coverage,,,,,nothing held
+MAR,exchange,linked,coverage,,,,,nothing found
