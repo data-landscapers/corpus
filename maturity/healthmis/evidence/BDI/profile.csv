@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,hmis,system,coverage,inservice,2024,BDI-001;BDI-002;BDI-003,,
-BDI,hmis,linked,coverage,,,,,nothing held
+BDI,hmis,system,coverage,inservice,2026-06-18,BDI-001;BDI-002;BDI-003;BDI-005,,
+BDI,hmis,linked,coverage,linked,2026-06-18,BDI-006,,
 BDI,hmis,completeness,coverage,published,2024,BDI-004,,

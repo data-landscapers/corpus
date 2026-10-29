@@ -14,6 +14,9 @@ BDI,DHIS2,Burundi,hmis,DHIS2,"DSNIS, Ministère de la Santé Publique et de la L
 BDI,"Open Clinic, SidaInfo",Burundi,other,,some hospitals,hospital,2022-01-01-bdi-minisante-guide-analyse-revue-donnees-snis
 BDI,DHIS2,Burundi,hmis,DHIS2,"Ministere de la Sante Publique, DSNIS","community, health centre, district, province, national",2025-08-01-bdi-minisante-annuaire-statistiques-sanitaires-2024
 BDI,SIDA Info,Burundi,other,,,,2025-08-01-bdi-minisante-annuaire-statistiques-sanitaires-2024
+BDI,SIDAInfo,Burundi,other,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,IBIPIMO,Burundi,other,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,DHIS2,Burundi,hmis,DHIS2,MINISANTE,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
 BEN,National Health Management and Information System (NHMIS),Benin,hmis,DHIS2,Ministry of Health,"health zones, facilities",2023-11-22-pshpa-trains-private-health-facilities-rmnch-dhis2
 BEN,LabBook,Benin,other,LabBook 3.6,Fondation Merieux,laboratories,2026-03-26-labbook-3-6-dhis2
 BEN,DHIS2,DHIS2 national (SNIGS),other,DHIS2,,,2026-03-03-ben-iaso-georegistre-carte-sanitaire
@@ -74,6 +77,8 @@ GHA,Lightwave Health Information Management System (LHIMS),Ghana,hmis,Lightwave,
 GHA,Lightwave Health Information Management System (LHIMS),Ghana,hmis,Lightwave,Ministry of Health,"teaching, regional, district, polyclinic and psychiatric hospitals; health centres ongoing",2024-10-31-gha-veep-launches-national-e-health-project-to-transform-ghanas-healthcare
 GHA,Lightwave Health Information Management System (LHIMS),Ghana,other,,,,2024-11-15-gha-gna-moh-health-data-interoperability
 GHA,LHIMS,Lightwave Health Information Management System,other,,,,2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange
+GHA,Lightwave Health Information Management System (LHIMS),LHIMS,other,,"Ministry of Health, with vendor Lightwave",,2026-10-22-gha-ghanaian-clinic-stored-patient-records-on-an-unassessed-syst
+GHA,Ghana Health Information Management System (GHIMS),GHIMS,other,,Ghana Health Service,,2026-10-22-gha-ghanaian-clinic-stored-patient-records-on-an-unassessed-syst
 GIN,DHIS2,national system (DHIS2),hmis,DHIS2,Ministry of Health and Public Hygiene,,2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de
 GIN,OpenClinic,logiciel SIH Openclinic,other,OpenClinic,"five health facilities in Mamou and Dalaba, funded by Enabel",facility,2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de
 GIN,SNIS,Système National d'Information Sanitaire,hmis,,Ministry of Health and Public Hygiene,,2025-11-27 Interoperability - key workshop to modernize Guinea's health information system
