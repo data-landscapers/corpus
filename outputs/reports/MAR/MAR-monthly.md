@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: MAR
-ledger_rows: 41
+ledger_rows: 42
 not_held: 14
-record: d79bd0adc99e
+record: fe49802765dc
 ---
 
 # News, Sep – Oct 2026
@@ -81,6 +81,20 @@ The cabinet adopted draft finance law 60-26 for 2027 on 20 October 2026. The fin
 </div>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">VAT on remote electronic services by non-resident providers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Publicité : Meta applique la TVA au Maroc dès octobre](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)** — Hespress FR, 25 September 2026
+
+20% VAT on Moroccan ad accounts without a tax ID from 1 October 2026; decree 2.25.862 and DGI platform behind it.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
