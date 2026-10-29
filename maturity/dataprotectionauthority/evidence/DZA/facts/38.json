@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-14-dza-almostathmir-data-governance-classification-rollout",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The document describes the national authority for protection of personal data (ANPDP) as the body legally empowered to audit and control personal data processing within the data governance system.",
+   "as_of": "2026-02-14",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

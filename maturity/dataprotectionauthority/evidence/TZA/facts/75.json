@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-tza-jamii-x-change",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "NIDA's deck names a Personal Data Protection Commission under the Personal Data Protection Act 2022, without saying it is appointed.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Personal Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-rwa-minict-national-data-sharing-policy-annex-7-platform-requirements",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Annex 7 says the Data Protection Office of the Rwanda National Cyber Security Agency fulfils the role of Data Protection Commissioner, the supervisory authority under Law N° 058/2021, and enforces its requirements.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Office, National Cyber Security Agency",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
