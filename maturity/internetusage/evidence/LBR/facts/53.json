@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-28-t-l-coms-le-liberia-identifie-les-zones-mal-desservies-pour-tendre-son",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:32.2",
+   "fact": "The article gives the ITU figure that 32.2% of Liberia's population used the internet, with no year stated, and says about 70% did not use it in 2024.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "ITU",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
