@@ -8,10 +8,10 @@
       "rulings": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-016;BFA-015",
-      "gaps": "No ruling of the authority against a named organisation in the last three years has been found. A bill adopted on 3 August 2026 merges the commission into a new regulator whose members are not yet appointed; the commission is counted until a source says it has gone.",
-      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "BFA-017;BFA-016",
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found. A decree of 16 October 2026 named the president of the regulator formed by merging the commission with the communication council; whether its other members are appointed is not known.",
+      "note": "Stage 3: the commission was appointed and at work in 2026, and the merged regulator's president was named by decree on 16 October 2026. No ruling against a named organisation is held, so stage 4 is not met.",
+      "as_at": "2026-10-29"
     }
   ]
 }

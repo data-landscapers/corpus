@@ -1,16 +1,17 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "4",
-   "standing": "constituted",
-   "rulings": "ruled",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-001;NGA-017;NGA-003",
-   "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "4",
+      "standing": "constituted",
+      "rulings": "ruled",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-044;NGA-024;NGA-003",
+      "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.",
+      "note": "Stage 4 on the Commission's Final Order of 18 February 2025 fining Meta and its 2025 fine on Multichoice; the court-approved settlement is not a ruling and does not set the stage. No published count of its rulings is held, so stage 5 is not met.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

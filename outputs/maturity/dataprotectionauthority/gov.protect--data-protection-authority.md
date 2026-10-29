@@ -118,15 +118,14 @@ Kenya has had an authority since 2020 and it has fined businesses; its only publ
 
 Nigeria has a data protection commission that fined Multichoice 766 million naira in 2025; no yearly count of its rulings is known.
 
-- Premium Times reports that the NDPC issued a Final Order against Meta finding violations of the data rights of over 60 million Nigerians and imposing a $32.8 million fine, later set aside when the Federal High Court in Abuja adopted a Meta-NDPC settlement; the settlement date is not given, so the report date 2026-09-28 is used ([source, 2026-09-28](https://www.premiumtimesng.com/news/top-news/913097-court-dismisses-25-million-privacy-suit-against-meta-in-imo.html)).
-- ITWeb Africa reports a court-approved settlement reached in 2025 between the NDPC and Meta after regulatory proceedings over handling of Nigerian users' data, under which Meta funds a two-year programme (M-SIDP); the month is not given ([source, 2025](https://itweb.africa/article/meta-backs-ndpc-in-landmark-privacy-initiative/lwrKxq3Y2W27mg1o)).
+- Premium Times reports the Nigeria Data Protection Commission issued Final Orders on 18 February 2025 fining Meta $32.8 million with eight corrective directives ([source, 2025-02-18](https://www.premiumtimesng.com/news/headlines/832580-32-8-million-fine-dispute-meta-settles-with-nigerian-govt-out-of-court.html)).
+- The NDPC fined Multichoice Nigeria N766,242,500 for violating the NDP Act after an investigation begun in Q2 2024 into subscriber privacy and cross-border transfers ([source, 2025-07-06](https://www.rapdp.org/index.php/en/node/222)).
 - The Nigeria Data Protection Commission is reported as having issued a Final Order and as party to a court-adopted settlement with Meta, so it is acting; the dates are not given, so the report date 2026-09-28 is used ([source, 2026-09-28](https://www.premiumtimesng.com/news/top-news/913097-court-dismisses-25-million-privacy-suit-against-meta-in-imo.html)).
 
 ### Tanzania: 4 Operating
 
 Tanzania has an authority that is working in 2026 and ruled against organisations in 2025; no published figures are known.
 
-- FB Attorneys reports the Commission's ruling of 19 August 2025 in Complaint No. PDPC/CMP/002/2025 against an Instagram business-page respondent (not named in the article): TZS 20 million damages to the complainant, a TZS 5 million fine payable to the Commission, and deletion of a newborn's photos within 14 days ([source, 2025-08-19](https://fbattorneys.co.tz/instagram-photo-triggers-payment-of-fine/)).
 - The Personal Data Protection Commission ruled in Abdul Said Naumanga v. Mi Casa Company Limited, ex parte, awarding TZS 20,000,000 and ordering deletion of the complainant's personal data; the decision date is not given, so the document's published date of 2025-08-03 is used ([source, 2025-08-03](https://www.rive.co.tz/landmark-ruling-first-pdpc-monetary-award-signals-new-era-for-personal-data-in-tanzania/)).
 - The PDPC is acting: it ran the eighth phase of its DPO training programme in Morogoro on 7-8 October 2026 for more than 300 participants ([source, 2026-10-07](https://www.therespondents.co.tz/2026/10/pdpc-bolsters-safeguards-as-personal.html)).
 
@@ -149,8 +148,8 @@ Algeria has a working authority with a named president in 2026; it has issued de
 
 Burkina Faso has an authority, active in 2026; no ruling against an organisation is known, and no figures it publishes are known.
 
+- Burkina Faso named Wendingoudi Louis Modeste Ouédraogo, until then president of the Conseil supérieur de la communication, president of the regulator formed by merging the CSC with the Commission de l'informatique et des libertés, by decree of 16 October 2026, per leFaso.net ([source, 2026-10-16](https://lefaso.net/spip.php?article150089)).
 - The CIL (Commission de l'Informatique et des Libertés) publishes a form for applications to authorise a transfer of personal data to a foreign country ([source, 2026-09](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)).
-- Techhive Advisory reports that the heads of the data protection authorities of 61 countries, including Burkina Faso, signed the Global Privacy Assembly enforcement working group's joint statement on AI-generated imagery on 23 February 2026 ([source, 2026-02-23](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
 
 ### Cape Verde: 3 Established
 

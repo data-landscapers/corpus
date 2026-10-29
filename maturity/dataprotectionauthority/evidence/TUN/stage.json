@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-006;TUN-004",
-      "gaps": "No ruling of the authority against a named organisation in the last three years has been found. The members were appointed in April 2021 for three years and no renewal has been found; a source dated after the as-at says the authority is at a standstill.",
-      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found. The members were appointed in April 2021 for three years and no renewal has been found; an October 2026 source says the authority's activities are at a standstill, and none says its members have all left.",
+      "note": "Stage 3: the members appointed in 2021 stand until a source says they have all left, and the authority was still heard by parliament in February 2026. No ruling against a named organisation is held.",
+      "as_at": "2026-10-29"
     }
   ]
 }

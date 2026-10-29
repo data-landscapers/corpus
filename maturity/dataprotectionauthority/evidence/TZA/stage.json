@@ -8,10 +8,10 @@
       "rulings": "ruled",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-010;TZA-011;TZA-001",
-      "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.",
-      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TZA-011;TZA-001",
+      "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held. The 19 August 2025 ruling does not name its respondent.",
+      "note": "Stage 4 on the Commission's 2025 ruling against Mi Casa Company Limited, a named organisation; the August 2025 ruling against an unnamed Instagram page does not count. No published count of its rulings is held, so stage 5 is not met.",
+      "as_at": "2026-10-29"
     }
   ]
 }
