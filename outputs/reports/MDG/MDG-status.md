@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-10-28
+compiled: 2026-10-29
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 255
+sources_cited: 256
 sections_written: 39
 not_established: 2
 acquire_lines: 25
@@ -202,7 +202,7 @@ Madagascar's national data exchange went live on 28 April 2026: [Rahaka, built o
 
 The architecture is older than the launch. [The UGD's Cadre d'Interopérabilité set the X-Road design for the public sector and gave the unit the coordinating role across every public-sector interoperability project](https://digital.gov.mg/2022/05/05/cadre-dinteroperabilite/), naming [Orinasa — the secure exchange running between the Economic Development Board, the tax directorate, the justice ministry and INSTAT — as the country's first interoperable layer](https://digital.gov.mg/2022/05/05/cadre-dinteroperabilite/). [Company formation has run over that layer for several years, with the tax directorate, the Trade and Companies Registry and the statistics institute exchanging data in real time and registration cut from about two weeks to a matter of hours](https://blogs.worldbank.org/en/governance/madagascars-digital-transformation-helping-deliver-better-and-faster-services).
 
-The stated destination is wider than the five agencies now connected. [The government is building an online single window across administrations, institutions and businesses on Rahaka, with the objective that a single identity document suffices to reach the whole of the information held](https://www.lexpress.mg/2026/04/administration-mise-en-place-dun.html), and [a national performance dashboard drawing on the HR database, civil-registration and passport services and the land-office single window was in preparation as at December 2025](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). The frame around the exchange is the weaker part: [the country's digital readiness assessment concentrates its regulatory recommendations on modernising data-protection, e-commerce and cybersecurity law and on strengthening interoperability between government systems](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf).
+[By the launch 14 institutions were connected and more than 162,000 exchanges recorded, with health, education, civil registration and social security named as next](https://2424.mg/modernisation-de-letat-14-institutions-deja-interconnectees-via-le-systeme-dechange-national-et-extension-vers-des-secteurs-vitaux-en-perspective/). [The government is building an online single window across administrations, institutions and businesses on Rahaka, with the objective that a single identity document suffices to reach the whole of the information held](https://www.lexpress.mg/2026/04/administration-mise-en-place-dun.html), and [a national performance dashboard drawing on the HR database, civil-registration and passport services and the land-office single window was in preparation as at December 2025](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). The frame around the exchange is the weaker part: [the country's digital readiness assessment concentrates its regulatory recommendations on modernising data-protection, e-commerce and cybersecurity law and on strengthening interoperability between government systems](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf).
 
 ### Digital Identity and CRVS
 <!-- dpi.id -->
