@@ -9,10 +9,10 @@
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-004",
+      "stage_sources": "UGA-004;UGA-005",
       "gaps": "No source found since October 2023 says an address register or digital addressing system is in service; the 2021 Kampala city address model is outside the window.",
-      "note": "Reassessed in stage 4c: in February 2025 Kampala was numbering houses, 12,555 of 373,826 plated. Nothing in the window says a register is in service.",
-      "as_at": "2026-10-20"
+      "note": "Kampala was numbering houses in February 2025 (UGA-004), and in October 2026 the communications regulator sought UPU help for a National Addressing System still to be built (UGA-005). Nothing in the window says a register is in service.",
+      "as_at": "2026-10-29"
     }
   ]
 }

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,address,addressing,coverage,inservice,2021-09-27,UGA-003,UGA-004=underway;UGA-001=underway;UGA-002=underway,
-UGA,address,national,coverage,,,,,nothing held
-UGA,address,used,coverage,,,,,nothing held
+UGA,address,addressing,coverage,inservice,2021-09-27,UGA-003,UGA-005=underway;UGA-004=underway;UGA-001=underway;UGA-002=underway,
+UGA,address,national,coverage,,,,,nothing found
+UGA,address,used,coverage,,,,,nothing found

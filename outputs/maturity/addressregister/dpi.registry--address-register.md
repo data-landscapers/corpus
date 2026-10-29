@@ -255,6 +255,7 @@ An addressing system was under way in 2025; none in service is on record.
 Kampala was numbering houses in 2025; no source found reports an address register in service.
 
 - KCCA says house numbering is under way in Kampala, with only 12,555 of 373,826 houses carrying number plates, which owners buy for UGX 50,000 from KCCA-approved providers after notifying KCCA of their number ([source, 2025-02-02](https://www.kcca.go.ug/news/918/geo-sign-and-pack-worth-donates-1000-house-number-plates-to-kcca)).
+- Nile Post reports the Uganda Communications Commission is engaging the Universal Postal Union for technical expertise for Uganda's National Addressing System, to be implemented under NDP IV ([source, 2026-10-28](https://nilepost.co.ug/business/382347/ucc-seeks-digital-upgrade-of-posta-uganda-nationwide-addressing-system)).
 
 ### Comoros: 1 Absent
 
