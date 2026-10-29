@@ -158,6 +158,3 @@ logs/status.md
 # lint-prose.py --open records the commit a run opened on, for its closing gate to diff
 # against. A fact about the run in progress, not history.
 logs/.prose-open
-
-# Excel's lock file while logs/site-analytics.xlsx is open.
-~$*

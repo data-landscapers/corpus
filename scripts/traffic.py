@@ -32,24 +32,27 @@ stored, so a rule can be corrected and the whole history re-read under it:
 - **own** — Bill's own networks (`OWN_FILE`), checked first, so his views and the site
   checks run from this machine are never readers.
 
-**`logs/site-analytics.xlsx` is people only** (Bill, 2026-10-29): *Access*, a row a day of
-users (distinct IPs) and pages viewed; *Pages*, a row a page with its views a month. A page
-is a successful GET of HTML — not an asset, a download or the beacon. `pull` rewrites it
-whenever the database is newer; open in Excel it cannot be replaced, so it waits for the
-next tick. **Only those two tabs are rewritten**, emptied in place: any other tab is Bill's
-and survives, though openpyxl drops charts, images and pivot tables on any tab it saves. It replaced Google Analytics' `site-analytics.csv`, and like it is committed by the
-cycle (`CYCLE.md` 1a) — the one copy of the readers' history that git holds.
+**`logs/site-analytics-access.csv` and `-pages.csv` are people only** (Bill, 2026-10-29):
+*access*, a row a day of users (distinct IPs) and pages viewed; *pages*, a row a page with its
+views a month, a column a month, busiest this month first. A page is a successful GET of HTML
+— not an asset, a download or the beacon. `pull` rewrites them whenever the database is newer,
+and leaves the bytes alone when nothing moved; open in Excel they cannot be replaced, so they
+wait for the next tick. Bill's charts live in a workbook of his own that imports them. They
+replaced Google Analytics' `site-analytics.csv` and are committed by the cycle (`CYCLE.md`
+1a) — the one copy of the readers' history that git holds.
 
 Usage:  python scripts/traffic.py pull              # every complete day not yet held
         python scripts/traffic.py pull --quiet      # print only when a day was added
         python scripts/traffic.py report [YYYY-MM-DD]   # default: the latest day held
-        python scripts/traffic.py xlsx              # rewrite the workbook now
+        python scripts/traffic.py tables            # rewrite the two CSVs now
 """
 from __future__ import annotations
 
 import argparse
 import collections
+import csv
 import datetime as dt
+import io
 import json
 import os
 import re
@@ -59,8 +62,9 @@ import urllib.error
 import urllib.request
 
 DB = os.environ.get("CORPUS_TRAFFIC_DB", r"C:\corpus-traffic\traffic.sqlite")
-XLSX = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                    "logs", "site-analytics.xlsx")
+LOGS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "logs")
+ACCESS = os.path.join(LOGS, "site-analytics-access.csv")
+PAGES = os.path.join(LOGS, "site-analytics-pages.csv")
 API = "https://api.cloudflare.com/client/v4/graphql"
 ZONES = {"data-landscapers.io": "e6663237e18dfc5241e44003a2b1d976",
          "data-landscapers.com": "dacc4524150b875a9d9aca87909eb02f"}
@@ -201,11 +205,11 @@ def pull(quiet: bool) -> int:
         con.execute("VACUUM")
     con.close()
     note = ""
-    if not os.path.exists(XLSX) or os.path.getmtime(XLSX) < os.path.getmtime(DB):
+    if any(not os.path.exists(f) or os.path.getmtime(f) < os.path.getmtime(DB) for f in (ACCESS, PAGES)):
         try:
-            workbook()
+            tables()
         except PermissionError:
-            note = " · site-analytics.xlsx is open in Excel, rewritten next tick"
+            note = " · site-analytics CSV open in Excel, rewritten next tick"
     if added or note or not quiet:
         print(f"traffic: {len(added)} day(s) added" + (" — " + "; ".join(added[-3:]) if added else "") + note)
     return 0
@@ -224,10 +228,8 @@ def page(r: sqlite3.Row) -> str | None:
     return host + re.sub(r"index\.html?$", "", p)
 
 
-def workbook() -> None:
-    """Write XLSX from the person rows: Access a row a day, Pages a row a page by month."""
-    import openpyxl
-    from openpyxl.styles import Font
+def tables() -> None:
+    """Write ACCESS and PAGES from the person rows."""
     con = connect()
     con.row_factory = sqlite3.Row
     users, views = collections.defaultdict(set), collections.Counter()
@@ -245,38 +247,30 @@ def workbook() -> None:
                 by_page[pg][day[:7]] += 1
     con.close()
     months = sorted(months)
-    wb = openpyxl.load_workbook(XLSX) if os.path.exists(XLSX) else openpyxl.Workbook()
-    if not os.path.exists(XLSX):
-        wb.active.title = "Access"
-
-    def sheet(name: str):
-        """The tab emptied in place, so Bill's formulas that point at it keep their target."""
-        if name not in wb.sheetnames:
-            return wb.create_sheet(name)
-        s = wb[name]
-        s.delete_rows(1, s.max_row)
-        return s
-
-    ws = sheet("Access")
-    ws.append(["Date", "Users", "Pages"])
-    for day in days:
-        ws.append([dt.date.fromisoformat(day), len(users[day]), views[day]])
-        ws.cell(ws.max_row, 1).number_format = "yyyy-mm-dd"
-    ws.column_dimensions["A"].width = 12
-    ps = sheet("Pages")
-    ps.append(["Page"] + [dt.date.fromisoformat(m + "-01").strftime("%b %Y") for m in months])
     latest = months[-1] if months else ""
-    for pg, n in sorted(by_page.items(), key=lambda x: (-x[1][latest], -sum(x[1].values()), x[0])):
-        ps.append([pg] + [n[m] for m in months])
-    ps.column_dimensions["A"].width = 70
-    for sheet in (ws, ps):
-        sheet.freeze_panes = "A2"
-        for c in sheet[1]:
-            c.font = Font(bold=True)
-    tmp = XLSX + ".tmp"
-    wb.save(tmp)
+    write(ACCESS, [["Date", "Users", "Pages"]]
+          + [[day, len(users[day]), views[day]] for day in days])
+    write(PAGES, [["Page", *months]]
+          + [[pg, *(n[m] for m in months)] for pg, n in
+             sorted(by_page.items(), key=lambda x: (-x[1][latest], -sum(x[1].values()), x[0]))])
+
+
+def write(path: str, rows: list[list]) -> None:
+    """Replace `path` only when its text changes; otherwise mark it current, so git sees nothing."""
+    buf = io.StringIO()
+    csv.writer(buf, lineterminator="\n").writerows(rows)
     try:
-        os.replace(tmp, XLSX)
+        with open(path, encoding="utf-8", newline="") as fh:
+            if fh.read() == buf.getvalue():
+                os.utime(path)
+                return
+    except FileNotFoundError:
+        pass
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8", newline="") as fh:
+        fh.write(buf.getvalue())
+    try:
+        os.replace(tmp, path)
     except PermissionError:
         os.remove(tmp)
         raise
@@ -341,10 +335,10 @@ def main() -> int:
     p.add_argument("--quiet", action="store_true", help="print only when a day was added")
     r = sub.add_parser("report")
     r.add_argument("day", nargs="?")
-    sub.add_parser("xlsx")
+    sub.add_parser("tables")
     args = ap.parse_args()
-    if args.cmd == "xlsx":
-        workbook()
+    if args.cmd == "tables":
+        tables()
         return 0
     return pull(args.quiet) if args.cmd == "pull" else report(args.day)
 
