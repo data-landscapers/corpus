@@ -28,7 +28,9 @@ stored, so a rule can be corrected and the whole history re-read under it:
 - **person** — anything else that ran the page's JavaScript, i.e. sent the `/cdn-cgi/rum`
   analytics beacon that day; the one sign a browser was really rendering the page;
 - **unknown** — the rest: a residential address that never sent the beacon (a person with
-  a blocker, or a scraper on a residential proxy).
+  a blocker, or a scraper on a residential proxy);
+- **own** — Bill's own networks (`OWN_FILE`), checked first, so his views and the site
+  checks run from this machine are never readers.
 
 **`logs/site-analytics.xlsx` is people only** (Bill, 2026-10-29): *Access*, a row a day of
 users (distinct IPs) and pages viewed; *Pages*, a row a page with its views a month. A page
@@ -78,7 +80,19 @@ CLOUD_ASN = re.compile(r"google|amazon|microsoft|tencent|alibaba|huawei|leaseweb
                        r"latitude|hostroyale|digitalocean|ovh|hetzner|linode|akamai|oracle|"
                        r"cloudflare|contabo|vultr|m247|datacamp|hostinger|scaleway", re.I)
 SCANNER_404S = 20
-CLASSES = ("person", "unknown", "bot", "cloud", "scanner")
+CLASSES = ("person", "unknown", "bot", "cloud", "scanner", "own")
+# Bill's own networks, as address prefixes one a line, kept beside the database rather than in
+# the repository because they locate his home. His browser blocks the beacon, so he would
+# read as unknown anyway; this makes it a rule rather than an accident (Bill, 2026-10-29).
+OWN_FILE = os.path.join(os.path.dirname(DB), "own-networks.txt")
+
+
+def own_networks() -> tuple[str, ...]:
+    try:
+        with open(OWN_FILE, encoding="utf-8") as fh:
+            return tuple(l.split("#")[0].strip() for l in fh if l.split("#")[0].strip())
+    except OSError:
+        return ()
 
 
 def token() -> str:
@@ -250,15 +264,22 @@ def workbook() -> None:
             c.font = Font(bold=True)
     tmp = XLSX + ".tmp"
     wb.save(tmp)
-    os.replace(tmp, XLSX)
+    try:
+        os.replace(tmp, XLSX)
+    except PermissionError:
+        os.remove(tmp)
+        raise
 
 
 def classify(rows: list[sqlite3.Row]) -> list[str]:
     fours = collections.Counter(r["clientIP"] for r in rows if r["edgeResponseStatus"] == "404")
     beacon = {r["clientIP"] for r in rows if r["clientRequestPath"] == "/cdn-cgi/rum"}
+    own = own_networks()
     out = []
     for r in rows:
-        if r["verifiedBotCategory"] or BOT_UA.search(r["userAgent"]):
+        if own and r["clientIP"].startswith(own):
+            out.append("own")
+        elif r["verifiedBotCategory"] or BOT_UA.search(r["userAgent"]):
             out.append("bot")
         elif fours[r["clientIP"]] >= SCANNER_404S:
             out.append("scanner")
