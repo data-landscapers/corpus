@@ -30,9 +30,17 @@ stored, so a rule can be corrected and the whole history re-read under it:
 - **unknown** — the rest: a residential address that never sent the beacon (a person with
   a blocker, or a scraper on a residential proxy).
 
+**`logs/site-analytics.xlsx` is people only** (Bill, 2026-10-29): *Access*, a row a day of
+users (distinct IPs) and pages viewed; *Pages*, a row a page with its views a month. A page
+is a successful GET of HTML — not an asset, a download or the beacon. `pull` rewrites it
+whenever the database is newer; open in Excel it cannot be replaced, so it waits for the
+next tick. It replaced Google Analytics' `site-analytics.csv`, and like it is committed by the
+cycle (`CYCLE.md` 1a) — the one copy of the readers' history that git holds.
+
 Usage:  python scripts/traffic.py pull              # every complete day not yet held
         python scripts/traffic.py pull --quiet      # print only when a day was added
         python scripts/traffic.py report [YYYY-MM-DD]   # default: the latest day held
+        python scripts/traffic.py xlsx              # rewrite the workbook now
 """
 from __future__ import annotations
 
@@ -48,6 +56,8 @@ import urllib.error
 import urllib.request
 
 DB = os.environ.get("CORPUS_TRAFFIC_DB", r"C:\corpus-traffic\traffic.sqlite")
+XLSX = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                    "logs", "site-analytics.xlsx")
 API = "https://api.cloudflare.com/client/v4/graphql"
 ZONES = {"data-landscapers.io": "e6663237e18dfc5241e44003a2b1d976",
          "data-landscapers.com": "dacc4524150b875a9d9aca87909eb02f"}
@@ -174,9 +184,73 @@ def pull(quiet: bool) -> int:
             added.append(f"{name} {day} {len(rows)}")
     if prune(con):
         con.execute("VACUUM")
-    if added or not quiet:
-        print(f"traffic: {len(added)} day(s) added" + (" — " + "; ".join(added[-3:]) if added else ""))
+    con.close()
+    note = ""
+    if not os.path.exists(XLSX) or os.path.getmtime(XLSX) < os.path.getmtime(DB):
+        try:
+            workbook()
+        except PermissionError:
+            note = " · site-analytics.xlsx is open in Excel, rewritten next tick"
+    if added or note or not quiet:
+        print(f"traffic: {len(added)} day(s) added" + (" — " + "; ".join(added[-3:]) if added else "") + note)
     return 0
+
+
+PAGE_PATH = re.compile(r"(/|\.html?|/[^./]+)$")
+
+
+def page(r: sqlite3.Row) -> str | None:
+    """The page a request viewed, as host and path, or None when it was not a page view."""
+    p = r["clientRequestPath"]
+    if (r["clientRequestHTTPMethodName"] != "GET" or r["edgeResponseStatus"] not in ("200", "304")
+            or p.startswith(("/assets/", "/cdn-cgi/")) or not PAGE_PATH.search(p)):
+        return None
+    host = r["clientRequestHTTPHost"].removeprefix("www.")
+    return host + re.sub(r"index\.html?$", "", p)
+
+
+def workbook() -> None:
+    """Write XLSX from the person rows: Access a row a day, Pages a row a page by month."""
+    import openpyxl
+    from openpyxl.styles import Font
+    con = connect()
+    con.row_factory = sqlite3.Row
+    users, views = collections.defaultdict(set), collections.Counter()
+    months, by_page = set(), collections.defaultdict(collections.Counter)
+    days = sorted({d for (d,) in con.execute("SELECT DISTINCT day FROM days")})
+    for day in days:
+        rows = con.execute("SELECT * FROM requests WHERE day=?", (day,)).fetchall()
+        for r, k in zip(rows, classify(rows)):
+            if k != "person":
+                continue
+            users[day].add(r["clientIP"])
+            if (pg := page(r)):
+                views[day] += 1
+                months.add(day[:7])
+                by_page[pg][day[:7]] += 1
+    con.close()
+    months = sorted(months)
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.title = "Access"
+    ws.append(["Date", "Users", "Pages"])
+    for day in days:
+        ws.append([dt.date.fromisoformat(day), len(users[day]), views[day]])
+        ws.cell(ws.max_row, 1).number_format = "yyyy-mm-dd"
+    ws.column_dimensions["A"].width = 12
+    ps = wb.create_sheet("Pages")
+    ps.append(["Page"] + [dt.date.fromisoformat(m + "-01").strftime("%b %Y") for m in months])
+    latest = months[-1] if months else ""
+    for pg, n in sorted(by_page.items(), key=lambda x: (-x[1][latest], -sum(x[1].values()), x[0])):
+        ps.append([pg] + [n[m] for m in months])
+    ps.column_dimensions["A"].width = 70
+    for sheet in (ws, ps):
+        sheet.freeze_panes = "A2"
+        for c in sheet[1]:
+            c.font = Font(bold=True)
+    tmp = XLSX + ".tmp"
+    wb.save(tmp)
+    os.replace(tmp, XLSX)
 
 
 def classify(rows: list[sqlite3.Row]) -> list[str]:
@@ -235,7 +309,11 @@ def main() -> int:
     p.add_argument("--quiet", action="store_true", help="print only when a day was added")
     r = sub.add_parser("report")
     r.add_argument("day", nargs="?")
+    sub.add_parser("xlsx")
     args = ap.parse_args()
+    if args.cmd == "xlsx":
+        workbook()
+        return 0
     return pull(args.quiet) if args.cmd == "pull" else report(args.day)
 
 

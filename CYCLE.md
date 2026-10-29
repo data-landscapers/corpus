@@ -46,7 +46,7 @@ A record arriving between the drain and stage 2 is built like any other. The sou
 ## The run
 
 1. **Drain `notes-for-corpus.md`**, as above. Nothing open, nothing to do — go straight to 2.
-1a. **Run `python scripts/site-analytics.py`** — `documentation/site-analytics.md` → *Where it runs in the cycle* says what to log, commit and escalate. It never holds the cycle.
+1a. **Run `python scripts/traffic.py pull`**, then commit `logs/site-analytics.xlsx` alone if it changed, subject `Analytics: <newest day>`. A failure is a log line, never a hold.
 2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
 3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.
 3a. **Finance upkeep** *(Bill, 2026-10-01; the share's `documentation/finance-upkeep.md` is the rule and is not restated here)*. `python scripts/budget-watch.py poll`, every live library. Then budget readings: `logs/budget-followups.md` and any reading a drained note asked for, oldest first, each by `BUDGET-EXTRACT.md`, **until two hours by the clock are used or nothing is waiting — never stopping early on judgement** *(Bill, 2026-10-02)*. Then judge any deal the finance build printed as `NOT YET ASSESSED` into `lookups/deal-scope.csv`. Rebuild finance if anything moved, commit, and put the number of readings still waiting in the build line.
