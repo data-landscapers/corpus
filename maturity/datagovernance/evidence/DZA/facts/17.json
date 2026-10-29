@@ -1,0 +1,37 @@
+{
+ "slug": "2026-02-14-dza-almostathmir-data-governance-classification-rollout",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Presidential decree 25-320 of 31 December 2025 set up a national data governance system, with data classification and data-source indexing references, launched under the national digital transformation strategy 2025-2030.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "National data governance system",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The National Committee for Data Governance, made up of the heads of the sectoral committees, has been installed to oversee implementation of the national data governance system across all sectors.",
+   "as_of": "2026-02-14",
+   "date_precision": "day",
+   "system": "National Committee for Data Governance",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "issued",
+   "fact": "Mohamed Louail of the High Commission for Digitalisation says the decree and a decision of the High Commissioner put the system in place; its data classification reference sets five levels, every ministry has been written to to start classifying, and technical workshops explained the classification and indexing references (no event date given; published date used).",
+   "as_of": "2026-02-14",
+   "date_precision": "day",
+   "system": "Data classification reference",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

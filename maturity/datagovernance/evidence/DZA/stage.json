@@ -1,16 +1,17 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "4",
-   "standing": "adopted",
-   "use": "body",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-004;DZA-006;DZA-002",
-   "gaps": "No source from the last three years naming a law, regulation, standard or guideline issued under the policy is held.",
-   "note": "Counted from the four questions by study-ladder-datagovernance.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "5",
+      "standing": "adopted",
+      "use": "issued",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-009;DZA-004;DZA-006;DZA-005",
+      "gaps": "The decision issuing the classification and indexing references is described (DZA-009) but its date and text are not held; no count of ministries that have classified their data.",
+      "note": "Decree 25-320 is the policy, a commission and the High Commission are named to carry it out, and the classification reference it called for is in use with ministries told to classify (DZA-009). Every rung is met, so stage 5.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

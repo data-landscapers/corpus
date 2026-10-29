@@ -15,3 +15,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-28,MAR,gov.policy--data-governance-policy,review,2,unplaced,,"Rebuild: the only drafting held is a March 2020 open-data commitment milestone, and a December 2024 article finds no policy formalised; lowered 2 -> unplaced on age, stage 1 not met."
 2026-10-28,CIV,gov.policy--data-governance-policy,review,3,3,CIV-004,"Rebuild: the strategy's text carries the Prime Minister's foreword on its launch, so adopted; a March 2025 report calling it awaiting adoption is noted in gaps; no body held; stays 3."
 2026-10-28,SEN,gov.policy--data-governance-policy,review,3,3,SEN-002,Rebuild: a July 2026 report says the National Data Strategy is adopted; the September 2026 blueprint is a separate draft; no body held; stays 3; short summary repaired.
+2026-10-29,DZA,gov.policy--data-governance-policy,fact,4,5,DZA-009;DZA-004;DZA-006;DZA-005,"Feb 2026 report: five-level classification reference issued by High Commissioner decision, ministries told to classify; rung 5 met"
+2026-10-29,TCD,gov.policy--data-governance-policy,fact,2,2,TCD-002;TCD-001;TCD-007,"7 Oct 2026 validation workshop for the strategy; adoption still to come, stays draft"
+2026-10-29,SLE,gov.policy--data-governance-policy,fact,3,3,SLE-003;SLE-004,"Aug 2025 validation of a separate data governance strategy; 2023 strategy still adopted, unchanged"

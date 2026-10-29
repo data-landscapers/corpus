@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-13-sle-sierra-leone-leads-bringing-the-au-data-policy-framework-to-life",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Sierra Leone validated its National Data Governance Strategy in Freetown on 7-8 August 2025, hosted by MoCTI, with finalising and adopting it listed by KICTANet as a next step.",
+   "as_of": "2025-08-08",
+   "date_precision": "day",
+   "system": "National Data Governance Strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

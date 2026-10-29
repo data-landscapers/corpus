@@ -1,6 +1,6 @@
 # Data governance policy: national data policy
 
-*As at 2026-09-30.*
+*As at 2026-10-29.*
 
 ## The norm
 
@@ -20,8 +20,8 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
-| 4 Operating | 5 |
+| 5 Leading | 1 |
+| 4 Operating | 4 |
 | 3 Established | 7 |
 | 2 Nascent | 20 |
 | 1 Absent | 0 |
@@ -30,13 +30,14 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 
 ## Countries
 
-### Algeria: 4 Operating
+### Algeria: 5 Leading
 
-Algeria set up a national data governance framework by decree in December 2025 and installed a commission to follow it in February 2026.
+Algeria set up a national data governance framework by decree in December 2025, named bodies to run it, and ministries began classifying data in 2026.
 
+- Mohamed Louail of the High Commission for Digitalisation says the decree and a decision of the High Commissioner put the system in place; its data classification reference sets five levels, every ministry has been written to to start classifying, and technical workshops explained the classification and indexing references (no event date given; published date used) ([source, 2026-02-14](https://almostathmir.dz/%D8%AD%D9%88%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7/)).
 - At the 9 February 2026 launch the High Commissioner for Digitalisation installed the national commission charged with following the framework's implementation, made up of representatives of all ministries and national bodies; the High Commission for Digitalisation is named as its author ([source, 2026-02-09](https://www.maghrebinfo.dz/2026/02/09/un-socle-fondamental-pour-ledification-dun-etat-moderne-apte-a-anticiper-les-defis-futurs/)).
 - The decree names the High Commission for Digitalisation to draw up and update the two references and run the interoperability system, the national council for information systems security to rule on the framework's operation, the personal data protection authority to check compliance of cataloguing and classification, and the information systems security agency to set data security levels ([source, 2025-12-30](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf)).
-- The roundup reports that Algeria gazetted the National Data Governance Framework, a public tool with a unified mechanism for organising, managing and exchanging data among public institutions; it gives no event date, so the update's published date of 2026-06-23 is used (it covers January and February 2026) ([source, 2026-06-23](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
+- Presidential Decree 25-320 of 30 December 2025, signed by President Tebboune and published in the Journal Officiel no. 87, sets up a national data governance framework (classification reference, data-source cataloguing reference, national interoperability system) for public institutions and bodies with a public-service task ([source, 2025-12-30](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf)).
 
 ### Nigeria: 4 Operating
 
@@ -130,9 +131,11 @@ Cabo Verde began work on a data strategy for public administration in April 2026
 
 ### Chad: 2 Nascent
 
-Chad was drafting a national data governance strategy in May 2026, with UN support; nothing found to September 2026 says it was approved.
+Chad validated a draft national data governance strategy in October 2026; no source found says the government has adopted it.
 
-- The UN Economic Commission for Africa says Chad's government, through the Ministry of Telecommunications, Digital Economy and Digitalization of Administration with ECA and GIZ, is developing a National Data Governance Strategy, with consultations on 13-15 May 2026 and a stakeholder workshop on 21 May 2026 to validate findings; the page announces these engagements and carries no publication date (its published date is a proxy for their start) ([source, 2026-05](https://www.uneca.org/eca-events/eca-supporting-chad-developing-national-data-governance-strategy-advance-au-data-policy-framework)).
+- UNECA reports that a national workshop in N'Djamena on 7 October 2026 reviewed and validated Chad's National Data Governance Strategy, with 50 participants; no cabinet approval or government launch is stated ([source, 2026-10-07](https://www.uneca.org/stories/chad-validates-national-data-governance-strategy%2C-marking-a-key-milestone-in-its-digital)).
+- The minister opened the national validation workshop on 7 October 2026 for the National Data Governance Strategy, a seven-pillar document with a roadmap to 2030, saying amendments from working groups go to plenary before the strategy is adopted ([source, 2026-10-07](https://camerpressagency.com/transformation-numerique-le-tchad-batit-sa-souverainete-de-la-donnee/)).
+- The telecommunications minister opened a national validation workshop on 7 October 2026 for Chad's draft Stratégie Nationale de Gouvernance des Données, with working-group amendments to go to plenary before adoption ([source, 2026-10-07](https://mten.gouv.td/discours-de-haliki-choua-mahamat-sur-la-gouvernance-des-donnees/)).
 
 ### Comoros: 2 Nascent
 

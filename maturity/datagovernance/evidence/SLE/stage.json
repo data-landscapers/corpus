@@ -1,16 +1,17 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-003;SLE-004",
-   "gaps": "No source found names a body set up or named to carry out the policy: a council, office, agency, committee, chief data officer or ministry unit.",
-   "note": "Counted from the four questions by study-ladder-datagovernance.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-003;SLE-004",
+      "gaps": "No body named to carry out the National Data Strategy. A separate National Data Governance Strategy was validated in August 2025 and is not adopted (SLE-005); it does not displace the 2023 strategy, which carries no end date.",
+      "note": "The 2023 National Data Strategy is adopted and still being carried out in August 2026 (SLE-003). No body is named for it, so stage 3 and not 4.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

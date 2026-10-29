@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,policy,standing,coverage,adopted,2026-06-23,DZA-001;DZA-002;DZA-003;DZA-005,,
-DZA,policy,use,coverage,body,2026-02-09,DZA-004;DZA-006,,
+DZA,policy,standing,coverage,adopted,2026-06-23,DZA-001;DZA-002;DZA-003;DZA-005;DZA-007,,
+DZA,policy,use,coverage,issued,2026-02-14,DZA-009,DZA-008=body;DZA-004=body;DZA-006=body,

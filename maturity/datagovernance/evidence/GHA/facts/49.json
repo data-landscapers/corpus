@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-28-gha-a-two-day-national-data-strategy-validation-workshop-held-in-accra",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Data Protection Commission led a 27-28 June 2024 validation workshop with stakeholders to finalise Ghana's National Data Strategy, reviewing the draft by the national taskforce.",
+   "as_of": "2024-06-28",
+   "date_precision": "day",
+   "system": "National Data Strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Strategy",
+   "country_label": "Ghana",
+   "class": "policy",
+   "platform": "",
+   "owner": "Data Protection Commission / Ministry of Communications and Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

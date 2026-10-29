@@ -1,16 +1,17 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-006",
-   "gaps": "No source found says a national data policy is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-datagovernance.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-002;TCD-001;TCD-007",
+      "gaps": "The strategy was validated on 7 October 2026 (TCD-002) with amendments still to go to plenary before adoption (TCD-007); no source says it is adopted or launched.",
+      "note": "A draft validated at a workshop is still a draft, so the strategy reaches stage 2 and not 3.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }
