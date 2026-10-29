@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-10-28
+compiled: 2026-10-29
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 254
+sources_cited: 255
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -32,7 +32,7 @@ Telecommunications is still governed by the [Information and Communications Act 
 
 PURA [put draft Broadcasting and Online Content Regulations 2026 out for consultation in April 2026 alongside six other drafts](https://pura.gm/public-consultation-guidelines-and-notice/). The drafts are [made by the minister under section 226(1) of the 2009 Act](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf), so the country's online-content rules face no second reading, committee stage or vote. Draft [enforcement regulations](https://pura.gm/wp-content/uploads/2026/04/Enforcement-Regulations-2026.pdf) would build a single compliance, penalty and appeal code across every regulated sector. Draft [unified fees regulations](https://pura.gm/wp-content/uploads/2026/04/PURA-Unified-Fees-Regulations-2026.pdf) would build a single fee code. Draft [complaints and consumer-protection regulations](https://pura.gm/wp-content/uploads/2026/04/Complaints-Investigations-and-Consumer-Protection-Regulations-2026.pdf) would give a consumer right to complain, with timelines, hearings and appeals.
 
-In March 2025 the National Assembly [passed a criminal offences bill replacing colonial-era law and removing the offences of criminal defamation and sedition](https://monitor.civicus.org/explore/new-criminal-law-and-draft-cybercrime-bill-in-the-gambia-threatens-press-freedom-freedom-of-expression-and-digital-rights/); no assent date has been found.
+In March 2025 the National Assembly [passed a criminal offences bill replacing colonial-era law and removing the offence of criminal defamation](https://monitor.civicus.org/explore/new-criminal-law-and-draft-cybercrime-bill-in-the-gambia-threatens-press-freedom-freedom-of-expression-and-digital-rights/). [The assent copy published by the justice ministry keeps offences of inciting to sedition and of false publication and broadcasting](https://moj.gov.gm/wp-content/uploads/2025/07/Assent-Copy-Criminal-Offences-Act-2025-Passed-28th-March-2025.pdf); no assent date has been found.
 
 A [Civil Registration and Vital Statistics Bill received its first reading on 5 March 2026](https://www.voicegambia.com/2026/03/06/civil-registration-bill-2026-receives-first-reading-in-national-assembly/). A [State Intelligence Service Bill had been validated at a workshop by 31 July 2026](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service). The [Statistics Act 2005](https://www.gbosdata.org/downloads-file/167-statistics-act-2005) remains the constitutive statistics law. [No general artificial-intelligence legislation was in force or before the legislature](https://www.techandjustice.bsg.ox.ac.uk/thegambia-3447303d-c9d6-4476-963c-02898588dc35) as at June 2026.
 
