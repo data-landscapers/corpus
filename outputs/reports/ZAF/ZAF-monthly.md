@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: ZAF
-ledger_rows: 174
+ledger_rows: 177
 not_held: 19
-record: 31daeae750f7
+record: 655ffdbe9269
 ---
 
 # News, Sep – Oct 2026
@@ -876,6 +876,20 @@ South Africa's Competition Commission recommended that the Tribunal approve MTN'
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Broadcasting Digital Migration programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Media Statement: Communications Committee Concerned Over Prolonged Delays in Completing Broadcasting Digital Migration Project](https://www.parliament.gov.za/press-releases/media-statement-communications-committee-concerned-over-prolonged-delays-completing-broadcasting-digital-migration-project)** — Parliament of South Africa, 6 October 2026
+
+Analogue switch-off back in court; dual-illumination costs mount; committee to reconvene within three months.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Vodacom Western Cape network investment</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1672,6 +1686,28 @@ South Africa's transport department plans to amend the road traffic regulations 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Passport requirement for foreign nationals' SIM registration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Plans for biometric tracing system to strengthen immigration control](https://www.timeslive.co.za/news/south-africa/2026-10-26-plans-for-biometric-tracing-system-to-strengthen-immigration-control/)** — TimesLIVE (Sunday Times), 26 October 2026
+
+Electronic entry registration, SMS visa-expiry alerts, fingerprints; SIM-registration push with mobile operators.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa plans biometric asylum registration, tighter digital border controls](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)** — Biometric Update, 28 October 2026
+
+Adds planned electronic border systems and Kubayi's proposal that foreigners show passports for SIM registration.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -2423,6 +2459,28 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Citizen services project MyMzansi gets R150m boost](https://www.itweb.co.za/article/citizen-services-project-mymzansi-gets-r150m-boost/lLn14MmQNEYMJ6Aa)** — ITWeb South Africa, 21 October 2026
 
 South Africa's National Treasury is allocating R150 million to the Presidency's digital services unit to develop MyMzansi, a single platform for government services, according to the adjusted estimates released with the 2026 Medium-Term Budget Policy Statement. The first use case will be issuing and verifying digital matric certificates.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic entry registration and biometric tracking at ports of entry</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Plans for biometric tracing system to strengthen immigration control](https://www.timeslive.co.za/news/south-africa/2026-10-26-plans-for-biometric-tracing-system-to-strengthen-immigration-control/)** — TimesLIVE (Sunday Times), 26 October 2026
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[South Africa plans biometric asylum registration, tighter digital border controls](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)** — Biometric Update, 28 October 2026
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 </div>
 
