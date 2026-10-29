@@ -98,6 +98,7 @@ Taxes could be filed online and paid electronically in 2024; no source found rep
 
 Taxes could be filed online and paid electronically in 2025; no source found reports mandatory or majority online filing.
 
+- The Gabon DGI announced on 18 August 2025 a new e-tax portal for online tax declaration, so taxpayers can file returns online ([source, 2025-08-18](http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots)).
 - The Gabon DGI announced on 18 August 2025 that the e-tax portal also takes online payment of taxes ([source, 2025-08-18](http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots)).
 
 ### Ghana: 4 Operating

@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "4",
-   "filing": "inservice",
-   "payment": "electronic",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-002",
-   "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "4",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001;GAB-002",
+      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns; the online salary declaration for the 440 large firms opened on 21 October 2026, its first filing due by 15 November.",
+      "note": "Returns are filed and taxes paid on the e-tax portal (August 2025). The online salary declaration for large firms opened in October 2026 but no filing under it is yet due, so mandatory online filing is not established.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

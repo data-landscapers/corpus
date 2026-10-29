@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-gab-gabon-connect-rencontre-du-gouvernement-avec-la-feg",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "The DGI flyer says eTax is being integrated into Gabon Connect in October 2026, with a single online monthly salary declaration (eEmployeur) opening 21 October for 440 DGE firms.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "eTax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gabon Connect",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "gabon-connect.gouv.ga",
+   "owner": "Direction Générale des Impôts",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
