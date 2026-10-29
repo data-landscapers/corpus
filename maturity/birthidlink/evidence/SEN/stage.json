@@ -9,10 +9,10 @@
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-001;SEN-002",
-      "gaps": "No source found since October 2023 says: is one link in service.",
-      "note": "Rebuild: ANEC and DAF signed a data-exchange protocol (2025) and the form of integration awaits a decision (2026). Nothing found says records pass.",
-      "as_at": "2026-10-22"
+      "stage_sources": "SEN-001;SEN-002;SEN-004",
+      "gaps": "No source found since October 2023 says one link is in service; the January 2026 PINS interconnection of civil status and the ID card is a pilot.",
+      "note": "ANEC and DAF signed a data-exchange protocol (2025), a PINS pilot connected civil status and the ID card system (2026) and the form of integration awaits a decision (2026). Nothing found says records pass in service.",
+      "as_at": "2026-10-29"
     }
   ]
 }

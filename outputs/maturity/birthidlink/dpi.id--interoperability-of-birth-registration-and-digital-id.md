@@ -317,6 +317,7 @@ A link between the civil register and the ID system was under way in 2026.
 
 - The data protection commission (CDP) says it is working with the Direction de l'automatisation des fichiers (DAF) on integrating civil status and identity, with two options (one integrated system or interoperability) reported to the authorities for decision ([source, 2026-09-16](https://aps.sn/identite-numerique-la-cdp-mise-sur-linteroperabilite-entre-letat-civil-et-les-systemes-publics/)).
 - RTS reports that ANEC (civil status agency) and DAF (identity file directorate) signed an interoperability protocol to exchange civil-status and biometric identity data ([source, 2025-07-05](https://www.rts.sn/actualite/detail/a-la-une/vers-une-identite-numerique-fiable-le-senegal-franchit-un-cap-dans-la-digitalisation-de-letat-civil)).
+- The pilot of the PINS X-Road platform interconnects the civil status databases and the national identity card system with the RNU and SIGICMU, per the communications directorate of the ministry ([source, 2026-01-16](https://pins.sn/actualites/2026-01/plateforme-interministerielle-et-interoperable-dechange-de-donnees-du-senegal)).
 
 ### Somalia: 2 Nascent
 
