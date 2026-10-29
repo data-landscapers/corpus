@@ -1,12 +1,12 @@
 ---
 title: Algeria: status report
-compiled: 2026-10-28
+compiled: 2026-10-29
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 242
+sources_cited: 243
 sections_written: 39
 not_established: 2
 acquire_lines: 58
@@ -70,7 +70,7 @@ The room to argue about digital policy has narrowed faster than almost anything 
 
 The participation machinery is being built regardless. Algeria [has a public e-participation platform (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) and [a citizen feedback mechanism for public services, with government responses recorded as reaching back to citizens (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the national police [opened an online public-security perception survey in August 2026](https://www.echoroukonline.com/%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%A7%D8%B3%D8%AA%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7-%D9%84%D9%82%D9%8A%D8%A7%D8%B3), reachable by QR code, asking citizens to rate their sense of security so the force can steer operational priorities.
 
-What is under consideration points the other way. The Council of Government [examined a draft national information-verification system on 23 July 2026](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ), framed as counter-disinformation and intended to protect the integrity of information and strengthen public trust in digital media. A [bill to regulate digital platforms was under examination at the Assemblée populaire nationale in October 2025](https://www.wearetech.africa/fr/fils/actualites/tech/algerie-vers-une-regulation-stricte-de-tiktok-facebook-et-youtube), and would put content-removal duties on covered platforms and create a regulator attached to the Presidency with powers to fine and to block.
+[When the baccalaureate began on 7 June 2026, internet restrictions were confined to exam centres and the rest of the country stayed connected, for the first time in ten years](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/). What is under consideration points the other way. The Council of Government [examined a draft national information-verification system on 23 July 2026](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ), framed as counter-disinformation and intended to protect the integrity of information and strengthen public trust in digital media. A [bill to regulate digital platforms was under examination at the Assemblée populaire nationale in October 2025](https://www.wearetech.africa/fr/fils/actualites/tech/algerie-vers-une-regulation-stricte-de-tiktok-facebook-et-youtube), and would put content-removal duties on covered platforms and create a regulator attached to the Presidency with powers to fine and to block.
 
 On access to records the position is improving from a low base. [Accountability & Transparency is one of Algeria's three worst-scoring governance sub-categories at 30.4 of 100 in 2023, 36th of 54 and below its 2014 level](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf), though [disclosure and accessibility of public records both rose over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). [Published analysis in Le Matin d'Algérie argues that the state digitises its administrative façades faster than it reforms the mechanisms behind them, so duplication persists, data circulates badly and the citizen still bridges administrations that cannot talk to each other](https://lematindalgerie.com/quand-le-digital-masque-limmobilisme-de-letat/).
 
