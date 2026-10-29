@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-06-civ-mainone-an-equinix-company-expands-data-center-footprint-in-cote-d-ivo",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "MainOne, an Equinix Company, announced the launch in November 2023 of its expanded open-access, carrier-neutral AB1.2 data centre at VITIB, Grand Bassam, which it describes as built to 'Uptime Tier III standards' and which sells colocation and interconnection to customers.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "MainOne AB1.2 data centre, VITIB, Grand Bassam",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne AB1.2 data centre",
+   "country_label": "Cote d'Ivoire",
+   "class": "datacentre",
+   "platform": "colocation, carrier-neutral",
+   "owner": "MainOne (Equinix)",
+   "tiers": "Tier III standards (operator claim)"
+  }
+ ],
+ "note": ""
+}

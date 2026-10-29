@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-21-cmr-cameroun-camtel-projette-de-creer-9-datacenters-decentralises-l-esig-i",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Camtel staff say the operator has a Tier III data centre that is available and being promoted to local and international players to host their data.",
+   "as_of": "2025-07-21",
+   "date_precision": "day",
+   "system": "Camtel Tier III data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel Tier III data centre",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

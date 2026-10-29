@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-11-moz-intic-realiza-visita-de-trabalho-a-data-center-business-da-vodacom",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Mozambique's ICT regulator INTIC states that Vodacom Mozambique's Matola data centre, inaugurated on 28 March 2025 to give businesses operating in Mozambique a technology platform, is certified to the Tier III standard.",
+   "as_of": "2025-04-08",
+   "date_precision": "day",
+   "system": "Vodacom Data Center Business, Matola",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodacom Data Center Business, Matola",
+   "country_label": "Mozambique",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vodacom Mozambique",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

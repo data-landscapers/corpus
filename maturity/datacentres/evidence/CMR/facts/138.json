@@ -1,0 +1,50 @@
+{
+ "slug": "2025-06-18-cmr-datacenters-certifies-ecosysteme-delaisse-au-cameroun",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "two",
+   "fact": "Anthony Same, CEO of ST Digital, says Cameroon has four Tier III-standard data centres (Orange, Camtel, MTN and ST Digital), with Camtel's certified Tier III Design by the Uptime Institute.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "Camtel NBN II data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel NBN II data centre",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": "Tier III Design (Uptime Institute)"
+  },
+  {
+   "system": "ST Digital data centre",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": "Tier III standard"
+  },
+  {
+   "system": "Orange data centre",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": "Tier III standard"
+  },
+  {
+   "system": "MTN data centre",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN",
+   "tiers": "Tier III standard"
+  }
+ ],
+ "note": ""
+}

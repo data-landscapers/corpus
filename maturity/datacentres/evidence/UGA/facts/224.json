@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-uga-uganda-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about five live commercial data centre facilities in Uganda in 2024, leasing colocation space to third parties, with Raxio the largest and only carrier-neutral one.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Raxio and other commercial facilities",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio",
+   "country_label": "Uganda",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No Tier rating or cloud region is stated."
+}

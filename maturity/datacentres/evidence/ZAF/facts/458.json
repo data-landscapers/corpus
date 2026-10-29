@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-01-zaf-south-africa-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about 40-50 live commercial data centre facilities in South Africa in 2024 that lease colocation space and power to third-party customers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "South Africa commercial colocation market",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "The briefing says Gauteng is home to 4 of South Africa's cloud regions and the Western Cape hosts at least 2 public cloud regions.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Public cloud regions in Gauteng and Western Cape",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

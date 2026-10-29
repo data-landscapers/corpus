@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-19-ago-certificacao-tier-iii-de-instalacao-construida",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centro Informatico Seguro #2 (CIS II)",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "EMIS",
+   "tiers": "Tier III Constructed Facility (Uptime Institute)"
+  }
+ ],
+ "note": "EMIS announces Uptime Tier III certification of CIS II but does not say it rents space or computing to other organisations."
+}

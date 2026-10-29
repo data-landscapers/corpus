@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-17-moz-raxio-group-s-mozambique-and-ethiopia-data-centres-achieve-uptime-inst",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Raxio Group says its Ethiopia carrier-neutral data centre has achieved Uptime Institute Tier III Certification of Constructed Facility.",
+   "as_of": "2024-12-17",
+   "date_precision": "day",
+   "system": "Raxio Ethiopia",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Ethiopia",
+   "country_label": "Ethiopia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III (constructed facility)"
+  }
+ ],
+ "note": ""
+}

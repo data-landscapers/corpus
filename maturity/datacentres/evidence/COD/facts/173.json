@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-14-cod-drc-bank-sofibanque-moves-to-oadc-data-center-in-kinshasa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "two",
+   "fact": "DatacenterDynamics reports the OADC Texaf Kinshasa colocation facility, live since August 2024, is Uptime Institute Tier III certified, and that Raxio's Kinshasa facility is also Tier III certified.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "OADC Texaf Kinshasa",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC Texaf Kinshasa",
+   "country_label": "DRC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC and Texaf joint venture",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "Raxio Kinshasa",
+   "country_label": "DRC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,datacentre,centre,coverage,tier3,2026,UGA-002;UGA-005;UGA-007;UGA-011;UGA-013;UGA-016;UGA-021;UGA-023;UGA-031;UGA-032,UGA-006=service;UGA-030=service;UGA-026=service;UGA-008=service;UGA-027=service;UGA-028=service;UGA-009=service;UGA-022=service;UGA-029=service;UGA-012=service;UGA-003=service;UGA-025=service;UGA-014=service;UGA-024=service;UGA-015=service;UGA-001=service;UGA-010=service;UGA-017=service;UGA-018=service;UGA-004=service;UGA-019=service;UGA-020=service,
-UGA,datacentre,cloud,coverage,,,,,nothing held
+UGA,datacentre,centre,coverage,tier3,2026,UGA-002;UGA-005;UGA-007;UGA-011;UGA-013;UGA-016;UGA-021;UGA-023;UGA-031;UGA-032,UGA-006=service;UGA-030=service;UGA-026=service;UGA-008=service;UGA-027=service;UGA-028=service;UGA-009=service;UGA-022=service;UGA-029=service;UGA-033=service;UGA-012=service;UGA-003=service;UGA-025=service;UGA-014=service;UGA-024=service;UGA-015=service;UGA-001=service;UGA-010=service;UGA-017=service;UGA-018=service;UGA-004=service;UGA-019=service;UGA-020=service,
+UGA,datacentre,cloud,coverage,,,,,nothing found

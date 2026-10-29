@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Tier 3 Datacenter",
+   "country_label": "National Tier 3 Datacenter and MEF Datacenter",
+   "class": "other",
+   "platform": "",
+   "owner": "state",
+   "tiers": "Tier 3"
+  }
+ ],
+ "note": "A national Tier 3 data centre is listed, but the deck does not say it rents space or computing to others."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-21-raxio-et1-addis-ababa-launch-press-release",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Raxio Group announced on 21 November 2023 the launch of its Tier III-certified carrier-neutral colocation data centre in Addis Ababa, with space for up to 800 racks and 3MW of IT power.",
+   "as_of": "2023-11-21",
+   "date_precision": "day",
+   "system": "Raxio Ethiopia data centre (ET1), Addis Ababa",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Ethiopia data centre, Addis Ababa",
+   "country_label": "Ethiopia",
+   "class": "datacentre",
+   "platform": "carrier-neutral colocation",
+   "owner": "Raxio Group",
+   "tiers": "Tier III (certified, per operator)"
+  }
+ ],
+ "note": ""
+}

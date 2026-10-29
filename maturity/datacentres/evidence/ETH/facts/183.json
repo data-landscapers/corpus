@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about 6-8 live commercial data centre facilities in Ethiopia leasing colocation space and power to third parties, as of 2024, at Tier II standard and above.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Ethiopian commercial data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "No Tier III facility or cloud region stated."
+}
