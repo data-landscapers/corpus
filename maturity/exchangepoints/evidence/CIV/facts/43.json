@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-06-civ-mainone-an-equinix-company-expands-data-center-footprint-in-cote-d-ivo",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "MainOne says customers at its Grand Bassam data centre get access to internet exchanges, including the Amsterdam Internet Exchange (AMS-IX) 'hosted at the data center'.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "AMS-IX at MainOne AB1.2 data centre",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
