@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: GHA
 ledger_rows: 119
 not_held: 9
-record: a230ff04f60b
+record: b75c32e8c6c5
 ---
 
 # News, Sep – Oct 2026
@@ -369,6 +369,14 @@ The governor of the Central Bank of Liberia led a delegation to the Bank of Ghan
 **[Ghana to host UN convention signing on digital cargo documents on October 26](https://www.myjoyonline.com/ghana-to-host-un-convention-signing-on-digital-cargo-documents-on-october-26/)** — MyJoyOnline, 16 October 2026
 
 Ghana will host the signing ceremony for the UN Convention on Negotiable Cargo Documents in Accra on 26 October 2026. The Ghana Shippers' Authority says the convention gives electronic bills of lading and similar documents the legal standing of paper ones, but that the benefits depend on ratification and readiness.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[26 countries sign Accra Convention to boost trade facilitation, digitalisation](https://www.myjoyonline.com/26-countries-sign-accra-convention-to-boost-trade-facilitation-digitalisation/)** — MyJoyOnline, 28 October 2026
+
+Signed 26 Oct 2026; e-cargo documents get paper's legal effect; in force after tenth ratification; Ghana pilot planned.
 
 </div>
 
