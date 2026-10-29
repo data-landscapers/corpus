@@ -1,12 +1,12 @@
 ---
 title: Zambia: status report
-compiled: 2026-10-27
+compiled: 2026-10-29
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 7
-sources_cited: 196
+sources_cited: 197
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -73,7 +73,7 @@ Service standards in telecoms are enforced by announcement rather than instrumen
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
 
-[Deliberative and participatory governance is Zambia's fifth most improved Ibrahim Index indicator, up 32.7 points over 2014-2023 to 79.1 out of 100 and 3rd of 54; the measure assesses whether government consults affected groups and the public before deciding](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). [Civil society space is the third most improved, up 34.0 points to 76.8 and 11th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). The expression measures did not move with them: [media freedom stands at 56.7 out of 100, 22nd of 54 and up 1.3 points over the decade, and freedom of expression and belief at 71.6, 18th of 54 and down 1.1 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). All are expert-coded assessments with a 2023 data year, which precedes the 2025 cyber laws.
+[Deliberative and participatory governance is Zambia's fifth most improved Ibrahim Index indicator, up 32.7 points over 2014-2023 to 79.1 out of 100 and 3rd of 54; the measure assesses whether government consults affected groups and the public before deciding](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). [Civil society space is the third most improved, up 34.0 points to 76.8 and 11th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). The expression measures did not move with them: [media freedom stands at 56.7 out of 100, 22nd of 54 and up 1.3 points over the decade, and freedom of expression and belief at 71.6, 18th of 54 and down 1.1 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). All are expert-coded assessments with a 2023 data year, which precedes the 2025 cyber laws. [A civil-society digital-rights index released on 28 October 2026 scored Zambia 37 of 60 for 2025, down from 40, and sixth of 29 countries](https://paradigmhq.org/press-release-zambia-drops-two-places-to-finish-in-the-6th-position-on-digital-rights/).
 
 The channels exist and are partial. Zambia has [a central citizen feedback and grievance-redress platform for public services, with five of the six mechanisms the GovTech Maturity Index tracks in place (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [a government e-participation platform that also carries citizens' petitions, though three of the five further participation mechanisms the index tracks are absent](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The cyber bills show how far consultation reaches: [deferred at Second Reading in December 2024 for talks with civil society, they returned to the House on 25 March 2025](https://www.parliament.gov.zm/node/12349), the ministry saying [98% of the concerns raised had been resolved](https://www.mots.gov.zm/?p=4873) and civil society that [many of its key recommendations were not adopted](https://tizambia.org.zm/2025/03/joint-civil-society-press-statement-on-the-cyber-bills-26th-march-2025/). Getting at the record is harder than being heard: a [right to information law is in force and rated effective](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), while [the disclosure and accessibility of public records are the weakest part of Zambia's Ibrahim Index accountability score and both fell over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf).
 
