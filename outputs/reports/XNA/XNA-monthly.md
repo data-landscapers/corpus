@@ -1,11 +1,11 @@
 ---
 title: North Africa — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: XNA
-ledger_rows: 5
+ledger_rows: 6
 not_held: 0
-record: 416e5f7736b4
+record: d27393f8446d
 ---
 
 # News, Sep – Oct 2026
@@ -73,8 +73,26 @@ The League of Arab States hosted a meeting in Cairo on 16 September 2026 between
 ## Instruments and harmonisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Arab Agreement on Personal Data Protection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[General Secretariat holds fourth meeting of joint committee to consider the Draft Arab Agreement on Personal Data Protection](http://www.leagueofarabstates.net/en/news/Pages/NewsDetails.aspx?RID=4160)** — League of Arab States, 25 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
+
+Fourth expert meeting, 25-26 Oct 2026, on Algeria-proposed treaty; outcome to justice ministers in Algeria, Nov 2026.
+
+</div>
+
+</div>
 
 ### Standards
 
