@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: AGO
 ledger_rows: 51
 not_held: 6
-record: ec2bf0c53af5
+record: 6e364223952a
 ---
 
 # News, Sep – Oct 2026
@@ -679,6 +679,14 @@ Angola's President João Lourenço authorised spending of 90.5 billion kwanzas, 
 **[Angola: Presidente anuncia lançamento do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH)](https://www.africa-newsroom.com/press/angola-presidente-anuncia-lancamento-do-singerh?lang=pt)** — APO Group, for Ministério da Administração Pública, Trabalho e Segurança Social, 15 October 2026
 
 President João Lourenço said Angola is implementing SINGERH, an integrated human-resources management system for the civil service. He placed it within a digitisation of the administration built on interoperability, digital identity, public key infrastructure and electronic signatures.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mais de 31 mil funcionários públicos suspeitos de serem 'fantasma' terão de provar efectividade, diz MAPTSS](https://www.novojornal.co.ao/sociedade/detalhe/mais-de-31-mil-funcionarios-publicos-suspeitos-de-serem-fantasma-terao-de-provar-efectividade-diz-maptss-75684.html)** — Novo Jornal, 28 October 2026
+
+31,000+ suspected ghost workers flagged; 300,000+ civil servants registered Jan-Sept 2026 as SINGERH goes live.
 
 </div>
 
