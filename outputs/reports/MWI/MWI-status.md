@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-10-28
+compiled: 2026-10-29
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 229
+sources_cited: 230
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -106,7 +106,7 @@ Elsewhere, [Germany's BMZ has an active EUR 28.35 million grant to 2028](https:/
 
 Wholesale bandwidth in Malawi fell from about US$460 per Mbit/s to [under US$10](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) under the World Bank-financed Digital Foundations Project (June 2025), a collapse the regulator says has now reached the retail counter: it puts a gigabyte of mobile data at [US$0.38 in July 2025 against US$27.41 in 2020](https://mwnation.com/data-cost-down-macra/), crediting spectrum-fee cuts and lower transit tariffs negotiated with Tanzania and Zambia, where a mobile broadband basket had [cost far more than the international affordability benchmark](https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_MWI.pdf) in 2022.
 
-Being landlocked, Malawi buys its way to the sea through its neighbours. Airtel [raised its international fibre routes from three to five in November 2025, adding links through Tanzania and through Mozambique via Nacala](https://www.maraviexpress.com/airtel-malawi-plc-brings-new-era-of-digital-connectivity-with-volte-and-5g-services/), after [its primary link through Mozambique went down for long periods over the 2024 festive season](https://techafricanews.com/2025/01/20/airtel-malawi-bolsters-network-with-additional-fiber-providers-to-address-service-disruptions/); TNM [bought three further routes in May 2024, when undersea cable cuts had left it a single link via Zambia](https://malawi24.com/2024/05/21/tnm-invests-mk4-billion-restores-internet-disrupted-by-sea-cable-cuts/).
+Being landlocked, Malawi buys its way to the sea through its neighbours. Airtel [raised its international fibre routes from three to five in November 2025, adding links through Tanzania and through Mozambique via Nacala](https://www.maraviexpress.com/airtel-malawi-plc-brings-new-era-of-digital-connectivity-with-volte-and-5g-services/), after [its primary link through Mozambique went down for long periods over the 2024 festive season](https://techafricanews.com/2025/01/20/airtel-malawi-bolsters-network-with-additional-fiber-providers-to-address-service-disruptions/); TNM [bought three further routes in May 2024, when undersea cable cuts had left it a single link via Zambia](https://malawi24.com/2024/05/21/tnm-invests-mk4-billion-restores-internet-disrupted-by-sea-cable-cuts/). [In October 2026 the competition commission authorised TNM's MK23.5bn purchase of the open-access wholesale fibre network, data centre and contracts of the failing Open Connect Limited](https://www.cftc.mw/2026/10/27/proposed-acquisition-of-assets-of-open-connect-limited-by-telekom-networks-malawi-plc/), [on condition that wholesale and retail run as separate entities under independent board oversight](https://www.cftc.mw/2026/10/27/proposed-acquisition-of-assets-of-open-connect-limited-by-telekom-networks-malawi-plc/).
 
 Signal runs well ahead of use, and the gap has widened in the measuring. An industry association report published in August 2026 [puts fourth-generation coverage at 87 per cent of the population against mobile-internet penetration of 12.5 per cent, with mobile-money adoption described as near universal](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/) — the association's own figures, not a regulator series. The Mo Ibrahim Foundation scored Malawi [9.0 out of 100 on internet and computer access in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf), the second lowest of the 96 indicators it measures for the country.
 
