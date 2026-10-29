@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: CIV
 ledger_rows: 54
 not_held: 10
-record: 491cb19d9398
+record: e9765354213a
 ---
 
 # News, Sep – Oct 2026
@@ -355,6 +355,14 @@ Summarised under [New investments](#new-investments).
 **[Cybersécurité : la Côte d’Ivoire organise sa première simulation nationale de crise cyber - Abidjan.net News](https://news.abidjan.net/articles/749590/cybersecurite-la-cote-divoire-organise-sa-premiere-simulation-nationale-de-crise-cyber)** — Abidjan.net, 13 October 2026
 
 Côte d'Ivoire's information-systems security agency will run a first national cyber-crisis simulation in Abidjan on 28 and 29 October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[CYBER.EX 2026 : l’ANSSI veut préparer la Côte d’Ivoire aux crises numériques](https://www.linfodrome.com/societe/126972-cyber-ex-2026-l-anssi-veut-preparer-la-cote-d-ivoire-aux-crises-numeriques)** — Linfodrome, 28 October 2026
+
+First edition held 28 Oct 2026; simulated attacks test administrations, firms and security forces on crisis response.
 
 </div>
 
