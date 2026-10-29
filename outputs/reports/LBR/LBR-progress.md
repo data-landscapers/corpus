@@ -1,12 +1,12 @@
 ---
 title: Liberia — progress report, October 2025 – October 2026
-compiled: 2026-10-28
-period: 2025-10-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2025-10-01 to 2026-10-29
 place: LBR
 ledger_rows: 205
 not_held: 6
 indicators: 115
-record: 32b36969ace5
+record: 70601a84f84f
 ---
 
 # Liberia: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-28.*
+*The period is 2025-10-01 to 2026-10-29.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -59,7 +59,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation | The [Universal Access Fund](https://lta.gov.lr/wp-content/uploads/2023/11/Regulations-on-the-Universal-Access-Fund-LTA-REG-0006-.pdf) levy of 0.5 per cent of licensee revenue remains the only standing domestic mechanism. <details><summary>Full record</summary>[LTA-REG-0006](https://lta.gov.lr/wp-content/uploads/2023/11/Regulations-on-the-Universal-Access-Fund-LTA-REG-0006-.pdf) sets the licensee contribution at 0.5 per cent of annual gross revenues, allows extraordinary contributions including national-budget allocations, and requires annual legislative approval for disbursement and audited accounts. Its most recent published deployment is a [satellite installation in Vahun District](https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/), Lofa County.<br>The wider fiscal space moved in the window rather than the digital allocation: [the general services tax rose from 12 to 13 per cent](https://revenue.lra.gov.lr/important-revenue-noticeadjustment-to-goods-and-services-tax-gst-rates/) from 1 May 2026 under the Tax Amendment Act, a prior action the [Fund's third review](https://www.imf.org/-/media/files/publications/cr/2026/english/1lbrea2026001.pdf) records as closing a US$10m gap for the 2026 fiscal year. No digital line is identified inside it.</details> | No change |
+| Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation | The [Universal Access Fund](https://lta.gov.lr/wp-content/uploads/2023/11/Regulations-on-the-Universal-Access-Fund-LTA-REG-0006-.pdf) levy of 0.5 per cent of licensee revenue remains the only standing domestic mechanism. <details><summary>Full record</summary>[LTA-REG-0006](https://lta.gov.lr/wp-content/uploads/2023/11/Regulations-on-the-Universal-Access-Fund-LTA-REG-0006-.pdf) sets the licensee contribution at 0.5 per cent of annual gross revenues, allows extraordinary contributions including national-budget allocations, and requires annual legislative approval for disbursement and audited accounts. Its most recent published deployment is a [satellite installation in Vahun District](https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/), Lofa County.<br>The wider fiscal space moved in the window rather than the digital allocation: [the general services tax rose from 12 to 13 per cent](https://revenue.lra.gov.lr/important-revenue-noticeadjustment-to-goods-and-services-tax-gst-rates/) from 1 May 2026 under the Tax Amendment Act, a prior action the [Fund's third review](https://www.imf.org/-/media/files/publications/cr/2026/english/1lbrea2026001.pdf) records as closing a US$10m gap for the 2026 fiscal year. No digital line is identified inside it.<br>2026-10-26 - the regulator [identified sites for 15 new towers under the fund after assessing coverage gaps in 14 of the 15 counties, adding to 15 towers it already supports](https://www.wearetech.africa/fr/fils/actualites/telecom/telecoms-le-liberia-identifie-les-zones-mal-desservies-pour-etendre-son-reseau); no cost or completion date is stated.</details> | No change |
 | New investments | Mobilisation of non-state finance | A [youth entrepreneurship investment bank](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) is put at almost US$18m targeting 30,000 businesses and about 100,000 jobs, with no disbursement stated. <details><summary>Full record</summary>A national coordinator has been recruited and a board is being constituted ([the bank](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html)).<br>It is the only domestic financing instrument in the repository outside the central bank's own regulations, and it is stated by a minister at a town hall rather than in an appropriation or a charter.<br>2026-09-16 - a [US$54.7m build-operate-transfer agreement under which an Austrian supplier finances identity enrolment](https://www.thenewdawnliberia.com/nir-seeks-legislative-approval-for-us54-7m-identity-deal/) is signed and awaits ratification; no signature date, term or payment structure is published.</details> | Movement |
 
 

@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: LBR
-ledger_rows: 40
+ledger_rows: 41
 not_held: 6
-record: 51033c38e257
+record: b13b704f1e5f
 ---
 
 # News, Sep – Oct 2026
@@ -14,6 +14,8 @@ record: 51033c38e257
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -243,6 +245,28 @@ Ten Liberian civil society organisations signed a memorandum founding the Digita
 **[Liberia: Ten Liberian Civil Society Groups Launch Digital Advocacy and Rights Alliance](https://frontpageafricaonline.com/liberia-ten-liberian-civil-society-groups-launch-digital-advocacy-and-rights-alliance/)** — FrontPage Africa, 25 September 2026
 
 Ten Liberian civil society organisations, including CENTAL and the Liberia Equality Network, signed a memorandum establishing the Digital Advocacy and Rights Alliance (DARA). The coalition is to work on digital rights, privacy, online safety and digital freedoms.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+</nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal Access Fund (LTA-REG-0006)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécoms : le Liberia identifie les zones mal desservies pour étendre son réseau](https://www.wearetech.africa/fr/fils/actualites/telecom/telecoms-le-liberia-identifie-les-zones-mal-desservies-pour-etendre-son-reseau)** — wearetech.africa, 28 October 2026
+
+15 new Universal Access Fund tower sites after a gap survey of 14 of 15 counties; 4G reached 93% in 2025 (ITU).
 
 </div>
 
