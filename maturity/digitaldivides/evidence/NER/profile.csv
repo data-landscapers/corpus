@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NER,ruralaccess,programme,coverage,delivering,2025-08-06,NER-003,NER-001=underway;NER-002=underway,
-NER,ruralaccess,measured,coverage,,,,,nothing held
-NER,ruralaccess,narrow,coverage,,,,,nothing held
+NER,ruralaccess,measured,coverage,,,,,nothing found
+NER,ruralaccess,narrow,coverage,,,,,nothing found

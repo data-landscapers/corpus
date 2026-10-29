@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "2",
-   "programme": "underway",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "3",
+      "programme": "delivering",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-002;LBR-001",
+      "gaps": "No source found since October 2023 gives the share of people using the internet in rural and in urban areas.",
+      "note": "The Universal Access Fund already supports 15 towers in areas of limited commercial return and has installed Starlink in Vahun District, so a programme has connected stated sites. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

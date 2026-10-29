@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for universal, equitable and affordable
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 4 |
-| 3 Established | 16 |
-| 2 Nascent | 23 |
+| 3 Established | 17 |
+| 2 Nascent | 22 |
 | 1 Absent | 0 |
 | Unplaced | 5 |
 | No evidence | 5 |
@@ -92,6 +92,13 @@ A rural connectivity programme had connected a stated number of sites or people 
 
 - The minister said about 1,400 Rural Telephony Project sites are carrying traffic, with another 300 complete awaiting connection and about 300 under construction towards a target of 2,016 sites ([source, 2026-09-05](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/)).
 - The NPP says 1,961 rural telephony sites had been constructed by the January 2025 handover, while alleging many are now non-operational ([source, 2025-01](https://www.citinewsroom.com/2026/09/npp-gives-communications-ministry-30-days-to-disclose-rural-telephony-status/)).
+
+### Liberia: 3 Established
+
+The Universal Access Fund supported 15 towers in underserved areas in 2026; the rural and urban shares of internet use are not known.
+
+- The Liberia Telecommunications Authority said on 26 October 2026 it had identified potential sites for 15 new towers under the Universal Access Fund, which already supports 15 towers, to extend services to areas of limited commercial return ([source, 2026-10-26](https://www.wearetech.africa/fr/fils/actualites/telecom/telecoms-le-liberia-identifie-les-zones-mal-desservies-pour-etendre-son-reseau)).
+- The Universal Access Fund says it has installed Starlink in Vahun District, Lofa County, as part of its mission to extend internet connectivity to remote communities and underserved regions of Liberia ([source, 2025-10-20](https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/)).
 
 ### Madagascar: 3 Established
 
@@ -259,12 +266,6 @@ A programme to bring internet to rural areas was under way in 2023; sites connec
 A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
 
 - The Lesotho Communications Authority's annual report 2024/25 states the Universal Service Fund, established under s.33 of the Communications Act 2012, funds telecommunications extension to unserved and underserved areas ([source, 2026-02-25](https://lca.org.ls/wp-content/uploads/filr/4278/Annual-Report-2024-25-2-1.pdf)).
-
-### Liberia: 2 Nascent
-
-A programme to bring internet to rural areas was under way in 2025; sites connected are not counted.
-
-- The Universal Access Fund says it has installed Starlink in Vahun District, Lofa County, as part of its mission to extend internet connectivity to remote communities and underserved regions of Liberia ([source, 2025-10-20](https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/)).
 
 ### Mali: 2 Nascent
 

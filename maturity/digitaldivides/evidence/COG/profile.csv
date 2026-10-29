@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COG,ruralaccess,programme,coverage,delivering,2026-01,COG-002;COG-004;COG-007;COG-010;COG-011,COG-006=underway;COG-001=underway;COG-008=underway;COG-003=underway;COG-009=underway;COG-005=underway,
-COG,ruralaccess,measured,coverage,,,,,nothing held
-COG,ruralaccess,narrow,coverage,,,,,nothing held
+COG,ruralaccess,measured,coverage,,,,,nothing found
+COG,ruralaccess,narrow,coverage,,,,,nothing found

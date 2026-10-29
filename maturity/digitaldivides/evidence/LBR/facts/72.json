@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-t-l-coms-le-liberia-identifie-les-zones-mal-desservies-pour-tendre-son",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The Liberia Telecommunications Authority said on 26 October 2026 it had identified potential sites for 15 new towers under the Universal Access Fund, which already supports 15 towers, to extend services to areas of limited commercial return.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Universal Access Fund",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Access Fund",
+   "country_label": "Liberia",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Liberia Telecommunications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
