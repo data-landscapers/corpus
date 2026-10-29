@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Benin's deck lists reference registers for people (citizens) among what Benin has, and cites Decree No. 2020-100 of 26 February 2020 implementing the National Registry of Natural Persons.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "National Registry of Natural Persons",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "Benin's deck says the ANIP register is accessible by all key government platforms through the PNI (XROAD BJ), and that systems including the Public Services Portal, e-Tax and Insurance for the Poor are integrated with it.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "National Registry of Natural Persons",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Registry of Natural Persons",
+   "country_label": "National Registry of Natural Persons (ANIP)",
+   "class": "population",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

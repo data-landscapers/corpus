@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,population,register,coverage,inservice,2026-09-18,BEN-001;BEN-002;BEN-003;BEN-005;BEN-007;BEN-008;BEN-010;BEN-013;BEN-014;BEN-015;BEN-018;BEN-020,,
+BEN,population,register,coverage,inservice,2026-09-18,BEN-001;BEN-002;BEN-003;BEN-005;BEN-007;BEN-008;BEN-010;BEN-013;BEN-014;BEN-015;BEN-018;BEN-020;BEN-022,,
 BEN,population,vital,coverage,updated,2026-05,BEN-011;BEN-016;BEN-019,,
-BEN,population,used,coverage,source,2026-09-18,BEN-004;BEN-006;BEN-009;BEN-012;BEN-017;BEN-021,,
+BEN,population,used,coverage,source,2026-09-18,BEN-004;BEN-006;BEN-009;BEN-012;BEN-017;BEN-021;BEN-023,,
