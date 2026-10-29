@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-18-bdi-automating-hiv-data-exchange-in-burundi",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "OpenFn workflows automatically exchange data between SIDAInfo, IBIPIMO and DHIS2 for Burundi's HIV programme, on a ministry-managed server, per OpenFn.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "OpenFn",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "breadth",
+   "value": "wide",
+   "fact": "Three systems (SIDAInfo, IBIPIMO, DHIS2) exchange data through OpenFn workflows triggered by webhooks or schedule, per OpenFn.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "OpenFn",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIDAInfo",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "IBIPIMO",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "MINISANTE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

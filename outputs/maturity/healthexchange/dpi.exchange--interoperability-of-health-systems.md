@@ -21,9 +21,9 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 4 |
+| 4 Operating | 5 |
 | 3 Established | 18 |
-| 2 Nascent | 20 |
+| 2 Nascent | 19 |
 | 1 Absent | 2 |
 | Unplaced | 0 |
 | No evidence | 9 |
@@ -36,6 +36,13 @@ Patient records were linked by a national identifier across health systems in 20
 
 - The Tunisian Monitor reports, citing the Tunis Regional Directorate of Health, that over 9,000 patients were enrolled in the first weeks of the National Health Identifier, a lifetime code meant to connect a patient's medical history across providers, piloted from early July 2026 at Habib Thameur University Hospital using the national identity card ([source, 2026-07](https://tmo-mag.com.tn/tunisias-digital-health-revolution-over-9000-patients-registered-in-national-id-pilot-program/)).
 - Ministry adviser Ines Ayadi says the national health identifier (EVAX identifier) is linked to the national ID card, social security number and school and university identifiers, and that medical files of about 100,000 people have been updated and linked to it, in public hospitals ([source, 2026-07-27](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109)).
+
+### Burundi: 4 Operating
+
+Three HIV programme systems exchanged data in routine use in 2026; a national patient identifier linking records is not known.
+
+- OpenFn workflows automatically exchange data between SIDAInfo, IBIPIMO and DHIS2 for Burundi's HIV programme, on a ministry-managed server, per OpenFn ([source, 2026-06-18](https://www.openfn.org/spotlight/automating-national-hiv-health-information-exchange-in-burundi)).
+- Three systems (SIDAInfo, IBIPIMO, DHIS2) exchange data through OpenFn workflows triggered by webhooks or schedule, per OpenFn ([source, 2026-06-18](https://www.openfn.org/spotlight/automating-national-hiv-health-information-exchange-in-burundi)).
 
 ### Niger: 4 Operating
 
@@ -189,12 +196,6 @@ An exchange between health systems was under way in 2026; none in service is on 
 
 - The estimates record P28,934,000 appropriated for MoH Computerisation, and its notes cite the Committee of Supply speech describing a Health Information Exchange and a Client Registry keyed on the Omang or passport number as ready for deployment; dated by the fiscal-year start, 2026/27 ([source, 2026-04](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf)).
 - The Ministry of Health's Committee of Supply speech reports the Health Information Exchange being implemented, with its Client Registry and Facilities Registry ready for deployment and further expansion planned next financial year ([source, 2026-03-05](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/HEALTH-Committee%20of%20Supply%20Speech%20-%20FINAL%2004-03-2026%20Vol%20I.pdf)).
-
-### Burundi: 2 Nascent
-
-An exchange between health systems was under way in 2026; none in service is on record.
-
-- A national technical workshop held 7-10 April 2026 mapped existing health tools, identified priority data-exchange flows, defined common technical standards including HL7 FHIR and explored mediation solutions, as part of the ministry's plan for an interoperable health information system; Agence Ecofin reports that neither timeline nor budget has been made public ([source, 2026-04](https://www.agenceecofin.com/actualites-numerique/1304-137484-sante-le-burundi-veut-mettre-en-place-un-systeme-d-information-interoperable)).
 
 ### Cameroon: 2 Nascent
 

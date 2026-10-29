@@ -9,3 +9,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SWZ,dpi.exchange--interoperability-of-health-systems,fact,3,3,SWZ-005;SWZ-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZAF,dpi.exchange--interoperability-of-health-systems,fact,2,2,ZAF-001;ZAF-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-26,MAR,dpi.exchange--interoperability-of-health-systems,fact,no evidence,2,MAR-001,"Bill 52-26 sets up a shared medical record with interoperability, and the electronic treatment form is to be integrated with it, per TelQuel 22 October 2026 (MAR-001): an exchange being set up, no evidence to 2"
+2026-10-29,BDI,dpi.exchange--interoperability-of-health-systems,fact,2,4,BDI-003;BDI-004,"OpenFn (Jun 2026): SIDAInfo, IBIPIMO and DHIS2 exchange HIV data in production; three systems, 2 to 4"

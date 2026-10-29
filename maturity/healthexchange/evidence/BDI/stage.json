@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-001",
-   "gaps": "No source found since October 2023 says two health systems exchange data in routine use.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "exchange": "inservice",
+      "breadth": "wide",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-003;BDI-004",
+      "gaps": "No source found says patient records are linked through the national ID or a national health identifier. The April 2026 ministry account of DHIS2, SIDAInfo and OpenClinic not communicating predates the June 2026 OpenFn report of exchange in production.",
+      "note": "OpenFn workflows on a ministry server exchange HIV data among SIDAInfo, IBIPIMO and DHIS2 in day-to-day use (BDI-003, BDI-004), three systems. No national patient identifier is held, so the cell stops at 4.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

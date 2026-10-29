@@ -5,3 +5,6 @@ BDI,SIDAInfo,Burundi,other,,,,2026-04-13-burundi-systeme-information-sante-inter
 BDI,OpenClinic,Burundi,other,OpenClinic,,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
 BDI,DataToCare,Burundi,other,DataToCare Desktop and Web laboratory information system,"Ministry of Public Health, Direction Nationale des Laboratoires et Imagerie medicale, with UNDP support","national, nine laboratory sites",2026-05-29-pnud-digitalisation-laboratoires-datatocare
 BDI,DHIS2,Burundi,other,DHIS2,MSPLS,national,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
+BDI,SIDAInfo,Burundi,other,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,IBIPIMO,Burundi,other,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,DHIS2,Burundi,other,DHIS2,MINISANTE,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi

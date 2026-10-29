@@ -14,6 +14,9 @@ BDI,SIDAInfo,Burundi,other,,,,2026-04-13-burundi-systeme-information-sante-inter
 BDI,OpenClinic,Burundi,other,OpenClinic,,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
 BDI,DataToCare,Burundi,other,DataToCare Desktop and Web laboratory information system,"Ministry of Public Health, Direction Nationale des Laboratoires et Imagerie medicale, with UNDP support","national, nine laboratory sites",2026-05-29-pnud-digitalisation-laboratoires-datatocare
 BDI,DHIS2,Burundi,other,DHIS2,MSPLS,national,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
+BDI,SIDAInfo,Burundi,other,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,IBIPIMO,Burundi,other,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,DHIS2,Burundi,other,DHIS2,MINISANTE,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
 BEN,"DHIS2 (National Health Management and Information System, NHMIS)",Benin,other,DHIS2,Ministry of Health,,2023-11-22-pshpa-trains-private-health-facilities-rmnch-dhis2
 BFA,DHIS2/ENDOS,Burkina Faso,other,DHIS2,Ministry of Health,national,2025-09-29-africa-frontline-first-burkina-faso-digital-community-health-roadmap
 BFA,REC-Maternity (Registre Electronique de Consultations-Maternite),Burkina Faso,other,tablet job aid within the IeDA project,Terre des hommes with the Ministry of Health,"primary (CSPS), 14 districts and 556 facilities as of March 2022",2026-01-20-facility-based-digital-intervention-district-data-quality-burkina-faso
