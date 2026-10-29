@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-21-mus-mitci-ramtohul-new-digital-regulations-ict-blueprint",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Minister welcomed ICTA's recent decision to authorise fixed broadband internet services through non-geostationary satellite orbit networks.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "NGSO fixed broadband",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
