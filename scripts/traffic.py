@@ -36,7 +36,8 @@ stored, so a rule can be corrected and the whole history re-read under it:
 users (distinct IPs) and pages viewed; *Pages*, a row a page with its views a month. A page
 is a successful GET of HTML — not an asset, a download or the beacon. `pull` rewrites it
 whenever the database is newer; open in Excel it cannot be replaced, so it waits for the
-next tick. It replaced Google Analytics' `site-analytics.csv`, and like it is committed by the
+next tick. **Only those two tabs are rewritten**, emptied in place: any other tab is Bill's
+and survives, though openpyxl drops charts, images and pivot tables on any tab it saves. It replaced Google Analytics' `site-analytics.csv`, and like it is committed by the
 cycle (`CYCLE.md` 1a) — the one copy of the readers' history that git holds.
 
 Usage:  python scripts/traffic.py pull              # every complete day not yet held
@@ -244,15 +245,25 @@ def workbook() -> None:
                 by_page[pg][day[:7]] += 1
     con.close()
     months = sorted(months)
-    wb = openpyxl.Workbook()
-    ws = wb.active
-    ws.title = "Access"
+    wb = openpyxl.load_workbook(XLSX) if os.path.exists(XLSX) else openpyxl.Workbook()
+    if not os.path.exists(XLSX):
+        wb.active.title = "Access"
+
+    def sheet(name: str):
+        """The tab emptied in place, so Bill's formulas that point at it keep their target."""
+        if name not in wb.sheetnames:
+            return wb.create_sheet(name)
+        s = wb[name]
+        s.delete_rows(1, s.max_row)
+        return s
+
+    ws = sheet("Access")
     ws.append(["Date", "Users", "Pages"])
     for day in days:
         ws.append([dt.date.fromisoformat(day), len(users[day]), views[day]])
         ws.cell(ws.max_row, 1).number_format = "yyyy-mm-dd"
     ws.column_dimensions["A"].width = 12
-    ps = wb.create_sheet("Pages")
+    ps = sheet("Pages")
     ps.append(["Page"] + [dt.date.fromisoformat(m + "-01").strftime("%b %Y") for m in months])
     latest = months[-1] if months else ""
     for pg, n in sorted(by_page.items(), key=lambda x: (-x[1][latest], -sum(x[1].values()), x[0])):
