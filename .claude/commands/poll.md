@@ -31,6 +31,7 @@ one turn.
    > following its unattended rules: never stop to ask, leave anything needing Bill in
    > `C:\corpus-osint-xfer\messages-for-bill.md`. Finish with `python scripts/osint-cycle-ready.py --done`.
    > Then work the oldest open job in `C:\corpus-osint-xfer\corpus-housekeeping.md`, if there is one, once.
+   > Then, alone, run `CYCLE.md` step 8 (Research's index build) — skipped until now so it runs last.
    > Before standing down, check `C:\corpus-osint-xfer` for uncommitted work, commit it
    > naming OSINT in the subject if the work is OSINT's, and push immediately. End on the
    > output of `python scripts/corpus-status.py`.

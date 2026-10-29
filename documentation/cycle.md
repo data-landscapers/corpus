@@ -66,3 +66,7 @@ There is no cycle sentinel. A cycle that dies during the render half has already
 ## Why the seam is the place to hand over
 
 BUILD stage 4 is model authoring across forty-odd units; the render half deserves a session with room to read its own output. There is nothing to hand over but the instruction — a fresh session running `RENDER.md` from Step 0 is in exactly the position the cycle would have been in. Anywhere else an interruption costs something: inside stage 4 it is survivable but invisible; inside the render half it leaves `site/` part-written and undeployed.
+
+## Why Research's index build runs last
+
+The build takes most of the CPU and RAM, so it runs where nothing competes with it: after the render, the R2 pull and, under `/poll`, the housekeeping job. The mirror is current when a cycle starts, so running late costs nothing. It resumes from its last batch, so a failure never holds a cycle.

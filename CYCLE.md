@@ -54,8 +54,9 @@ A record arriving between the drain and stage 2 is built like any other. The sou
 5. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
 6. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
 7. **Run `python scripts/r2-sync.py --mirror-down --weekly`** — the second copy of the editions; it does nothing inside a week of its last clean pull. When it pulls, log its line: `python scripts/log-line.py copy "<the R2 copy line>"`. Exit 1 is a message to Bill.
+8. **Rebuild Research's search index, last and alone** *(Bill, 2026-10-29)* — under `/poll`, after housekeeping. `C:\Research\handovers\index-build-for-corpus.md` is the procedure; log it as `log-line.py index`. Failure: a line to Bill, never a hold.
 
-The cycle has no stage of its own — steps 1 and 4 are jobs with their own runbooks, run at the point that makes them count.
+The cycle has no stage of its own; steps 1, 4 and 8 are jobs run where they count.
 
 ## What does not change
 
@@ -85,10 +86,6 @@ Both halves forbid stopping to ask; the cycle and **every agent it briefs** inhe
 
 **The seam is the right place to stop for context, and the only one** — after the unit review, if one ran; a review is not split across sessions. A fresh session running `RENDER.md` from Step 0 is in exactly the position the cycle would have been in. **Stopping at the seam is a completed build, not an abandoned cycle.** Anywhere else, do not stop deliberately.
 
-## Running the halves separately
+## Running the halves separately, and the boundary
 
-**Unchanged, and this file is not involved.** Each runbook stands alone exactly as written.
-
-## Boundary
-
-Nothing in either half writes to OSINT, and neither does this. `C:\OSINT` is read-only from Corpus without exception — `CLAUDE.md` has the rule.
+Each runbook stands alone exactly as written. Nothing in either half, or here, writes to OSINT — `CLAUDE.md` has the rule.
