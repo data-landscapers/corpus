@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-28-tap-pay-go-mastercard-and-interswitch-bring-google-pay-to-nigeria",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIBSS instant payments",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "national payments switch",
+   "owner": "NIBSS",
+   "tiers": ""
+  },
+  {
+   "system": "Google Pay tap-to-pay",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "tokenised NFC cards",
+   "owner": "Mastercard/Interswitch",
+   "tiers": ""
+  }
+ ],
+ "note": "Card tokenisation and bank-transfer switch only; no mobile money or wallet-bank switch stated."
+}

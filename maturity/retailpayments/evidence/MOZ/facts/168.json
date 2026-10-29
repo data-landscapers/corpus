@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-26-moz-mozambique-fintech-week-26-ausencia-de-interoperabilidade-trava-servic",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Rogério Lam of the Associação dos Bancos de Moçambique said the country has interoperable systems linking banks and e-money institutions that allow faster transfers.",
+   "as_of": "2026-03-26",
+   "date_precision": "day",
+   "system": "bank and e-money institution interoperable transfer systems",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
