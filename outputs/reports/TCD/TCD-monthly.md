@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: TCD
-ledger_rows: 37
+ledger_rows: 38
 not_held: 22
-record: 2f87bbe695e3
+record: 25da205d9429
 ---
 
 # News, Sep – Oct 2026
@@ -769,6 +769,20 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[Politique d'accès — Archive Nationale des Données du Tchad (ANAD)](https://anad.inseed.td/index.php/politique-dacc)** — Institut National de la Statistique, des Études Économiques et Démographiques (INSEED), République du Tchad, 2 September 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Water-resources geoportal and SITEAU-APP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : le CDIG lance des outils numériques pour moderniser la gestion de l’eau](https://lendjampost.com/tchad-le-cdig-lance-des-outils-numeriques-pour-moderniser-la-gestion-de-leau/)** — Le N'Djam Post, 27 October 2026
+
+Water-sector data platforms for ministries, projects and NGOs; validation mechanism; field test at Bongor.
 
 </div>
 
