@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: ZMB
-ledger_rows: 48
+ledger_rows: 49
 not_held: 32
-record: 42b93d2dd152
+record: 34dc49bd59bb
 ---
 
 # News, Sep – Oct 2026
@@ -209,6 +209,20 @@ A Lusaka magistrate sentenced vlogger Joseph Chishimba to nine months on 15 Sept
 **[Police nab TikToker for saying truck drivers steal fuel, have poor hygiene](https://diggers.news/local/2026/09/19/police-nab-tiktoker-for-saying-truck-drivers-steal-fuel-have-poor-hygiene/)** — News Diggers, 19 September 2026
 
 Police in Ndola, Zambia, arrested a 24-year-old TikToker, Natasha Nambeya, for allegedly harassing truck drivers, after a trustee of the Truck Drivers Association of Zambia complained about videos accusing drivers of stealing fuel and poor hygiene.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Londa digital rights and inclusion score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Press Release: Zambia drops two places to finish in the 6th position on digital rights](https://paradigmhq.org/press-release-zambia-drops-two-places-to-finish-in-the-6th-position-on-digital-rights/)** — Paradigm Initiative, 28 October 2026
+
+Londa 2025 ranks Zambia 6th of 29, down two; score put at 37/60 against 40 in 2024; South Africa first, Ghana second.
 
 </div>
 
