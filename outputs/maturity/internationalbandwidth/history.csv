@@ -16,3 +16,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,DJI,infra.connect--international-internet-bandwidth,fact,4,4,DJI-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,SYC,infra.connect--international-internet-bandwidth,fact,3,3,SYC-004;SYC-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-22,GNQ,infra.connect--international-internet-bandwidth,fact,3,3,GNQ-002;GNQ-005,"Ecofin 21 Oct 2026: GNQ relies primarily on ACE; ACE and Ceiba-2 at Bata as held, stage unchanged."
+2026-10-29,GIN,infra.connect--international-internet-bandwidth,fact,3,2,GIN-011;GIN-003,"Ministry secretary general to MPs, 27 Oct 2026: one submarine cable is Guinea's only link; the held two-route count was one cable (ACE) under two names."
+2026-10-29,UGA,infra.connect--international-internet-bandwidth,fact,3,5,UGA-014;UGA-002,"Xalam Analytics, July 2025: Uganda's routes run via Tanzania and Kenya, two neighbours; capacity already sold on Seacom's route."

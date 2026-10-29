@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-uga-uganda-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Xalam Analytics states Uganda's landlocked wholesale connectivity runs through a small number of routes, primarily Seacom and EASSY cables via Tanzania and Kenya.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Seacom and EASSY via Tanzania and Kenya",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "Capacity sold to other operators is not stated."
+}

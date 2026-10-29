@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,routes,routes,coverage,two,2026-05-25,CMR-001;CMR-004;CMR-006,CMR-003=one;CMR-002=one;CMR-005=one,
-CMR,routes,access,coverage,,,,,nothing held
+CMR,routes,routes,coverage,two,2026-05-25,CMR-001;CMR-004;CMR-006;CMR-007;CMR-008,CMR-003=one;CMR-002=one;CMR-005=one,
+CMR,routes,access,coverage,,,,,nothing found

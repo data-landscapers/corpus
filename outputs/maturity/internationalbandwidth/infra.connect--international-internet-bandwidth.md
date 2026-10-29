@@ -20,10 +20,10 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 8 |
 | 4 Operating | 12 |
-| 3 Established | 25 |
-| 2 Nascent | 8 |
+| 3 Established | 23 |
+| 2 Nascent | 9 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -78,6 +78,13 @@ Two independent fibre routes abroad by 2026, and other operators buy capacity on
 
 - The US ITA commercial guide says Tunisie Telecom, the leading international connectivity provider, manages three sub-sea cables, including a Kelibia (Tunisia) to Mazara (Italy) cable; the other two are not named ([source, 2026-02-26](https://www.trade.gov/country-commercial-guides/tunisia-telecommunications-equipment-services)).
 - Medusa describes its system as carrier-neutral, and Tunisie Telecom's CEO says the Bizerte landing raises Tunisie Telecom's international capacity eightfold, while Orange Tunisia hosts the landing ([source, 2025-10-31](https://medusascs.com/news/medusa-submarine-cable-system-lands-in-bizerte/)).
+
+### Uganda: 5 Leading
+
+Two independent fibre routes abroad by 2025, through Kenya and Tanzania, and other operators buy capacity on them.
+
+- Xalam Analytics states Uganda's landlocked wholesale connectivity runs through a small number of routes, primarily Seacom and EASSY cables via Tanzania and Kenya ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Uganda.pdf)).
+- Seacom says the Nairobi-Kampala route offers 1GE to 400GE interfaces to enterprises, service providers and hyperscale customers, i.e. capacity sold to buyers other than the owner ([source, 2026-06-17](https://seacom.co.ke/news/seacom-deploys-a-new-high-capacity-nairobikampala-route-to-strengthen-east-africas-digital-backbone)).
 
 ### Algeria: 4 Operating
 
@@ -225,13 +232,6 @@ Two or more fibre routes abroad by 2026; no source found says whether two are in
 - The NCA states Ghana currently has five submarine cable providers: SAT-3, MainOne, WASC, Glo and ACE (page undated, so as_of is the 2026-08-05 capture date; no landing stations named) ([source, 2026-08](https://nca.org.gh/submarine-cable-landing/)).
 - Computer Weekly states that Meta's 2Africa cable made landfall near Accra in 2025 as the sixth fibre cable to connect Ghana, operated by MTN subsidiary Bayobab; the six cables are not named and the landing stations are not given ([source, 2025](https://www.computerweekly.com/feature/Public-and-private-sector-key-to-Digital-Realty-in-West-Africa)).
 
-### Guinea: 3 Established
-
-Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
-
-- GUILAB's director general said on 2026-05-06 that ACE, the first cable which arrived nearly 13 years ago, is Guinea's only submarine cable and nearing critical load ([source, 2026-05-06](https://mediaguinee.com/2026/05/2e-cable-sous-marin-la-guinee-propulse-sa-souverainete-numerique-avec-la-signature-de-laccord-medusa-africa/)).
-- ECOWAS says the six countries of the Amilcar Cabral project currently have only one landing station ([source, 2024-06-14](https://www.ecowas.int/4th-meeting-of-the-ecowas-ministerial-steering-committee-for-the-amilcar-cabral-submarine-telecom-cable-project/)).
-
 ### Guinea-Bissau: 3 Established
 
 Two or more fibre routes abroad by 2024; no source found says whether two are independent of each other.
@@ -312,13 +312,6 @@ Two or more fibre routes abroad by 2025; no source found says whether two are in
 
 - Lomé Data Centre states its own direct access to four submarine cables, ACE, 2Africa, WACS and Equiano, with no landing stations named; operator self-description, page dated 2025-09-24 ([source, 2025-09](https://lomedatacentre.tg/en/n-home-page-en/)).
 
-### Uganda: 3 Established
-
-Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
-
-- ITWeb Africa reports that Liquid has added a third route between Mombasa and the Uganda border, on top of its previous two-route redundancy, so three Liquid fibre routes run from the Kenyan coast to Uganda via Kenya; no date given beyond the article's publication, 2026-09-10 ([source, 2026-09](https://www.itweb.africa/article/interview-liquid-targets-africas-data-centre-gap/xA9POvNE2Gxqo4J8)).
-- TechTrends KE reports that Liquid has added a third route between Mombasa and the Uganda border, on top of its previous two-route redundancy, so three Liquid fibre routes run from the Kenyan coast to Uganda via Kenya; no date given beyond the article's publication, 2026-09-10 ([source, 2026-09](https://techtrendske.co.ke/2026/09/10/interview-liquid-bets-on-ai-as-next-growth-frontier-for-africas-fibre-network/)).
-
 ### Chad: 2 Nascent
 
 One fibre route abroad in service by 2026; no second route is known.
@@ -330,6 +323,13 @@ One fibre route abroad in service by 2026; no second route is known.
 One fibre route abroad in service by 2026; no second route is known.
 
 - La Nation's Djibouti Telecom profile lists a terrestrial cable between Djibouti and Ethiopia among the operator's network, linking Ethiopia to Djibouti's submarine cable landings; no date is given for the cable, so the published date is used and the profile's figures are flagged as possibly stale ([source, 2026-01-22](https://www.lanation.dj/du-hub-regional-au-catalyseur-continental-la-nouvelle-ere-de-djibouti-telecom/)).
+
+### Guinea: 2 Nascent
+
+One submarine cable is Guinea's only fibre route abroad in 2026; a second cable is planned, not in service.
+
+- The ministry's Secretary General told MPs on 27 October 2026 that Guinea depends on a single submarine cable as its only link, at end of life and at risk of saturation ([source, 2026-10-27](https://mediaguinee.com/2026/10/loi-de-finances-rectificative-medias-publics-en-difficulte-et-risques-de-coupure-dinternet-au-coeur-des-echanges-avec-les-deputes/)).
+- GUILAB's director general said on 2026-05-06 that ACE, the first cable which arrived nearly 13 years ago, is Guinea's only submarine cable and nearing critical load ([source, 2026-05-06](https://mediaguinee.com/2026/05/2e-cable-sous-marin-la-guinee-propulse-sa-souverainete-numerique-avec-la-signature-de-laccord-medusa-africa/)).
 
 ### Libya: 2 Nascent
 

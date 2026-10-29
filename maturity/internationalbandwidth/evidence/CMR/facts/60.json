@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-21-cmr-cameroun-camtel-projette-de-creer-9-datacenters-decentralises-l-esig-i",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Camtel staff say its network is meshed and redundant with 4 submarine cables, giving several exit routes; landing stations are not stated.",
+   "as_of": "2025-07-21",
+   "date_precision": "day",
+   "system": "Camtel submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

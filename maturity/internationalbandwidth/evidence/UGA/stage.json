@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-008;UGA-009",
-   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "5",
+      "routes": "independent",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-014;UGA-002",
+      "gaps": "Only a July 2025 market brief names the route through Tanzania; the 2026 rows describe routes through Kenya.",
+      "note": "Reassessed 2026-10-29: Xalam Analytics' July 2025 brief says Uganda's routes run through both Tanzania and Kenya, links through two neighbours. Seacom sells capacity on its Nairobi-Kampala route to service providers, which answers the fourth question.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

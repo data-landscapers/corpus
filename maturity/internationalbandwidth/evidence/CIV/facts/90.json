@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-06-civ-mainone-an-equinix-company-expands-data-center-footprint-in-cote-d-ivo",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "MainOne says it landed its submarine cable in Cote d'Ivoire before launching its first data centre there in 2019, and delivers connectivity over it.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "MainOne submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
