@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: TUN
-ledger_rows: 66
+ledger_rows: 67
 not_held: 5
-record: f175e0ae2543
+record: e68db9cc3e8b
 ---
 
 # News, Sep – Oct 2026
@@ -325,6 +325,20 @@ Decree-law 2026-1 of 30 September 2026 repeals article 24 of decree-law 2022-54.
 **[من بينها المرسوم 54.. مجلس الوزراء ينظر في تنقيح 3 مراسيم](https://www.alchourouk.com/article/%D9%85%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%88%D9%85-54-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D9%86%D8%B8%D8%B1-%D9%81%D9%8A-%D8%AA%D9%86%D9%82%D9%8A%D8%AD-3-%D9%85%D8%B1%D8%A7%D8%B3%D9%8A%D9%85)** — Al Chourouk, 30 September 2026
 
 Tunisia's Council of Ministers, chaired by President Kais Saied, discussed a draft decree amending Decree 54 of 2022 on crimes involving information and communication systems on 29 September 2026. The content of the amendment was not published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Exam-period connectivity restrictions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+2026 exam season: Algeria confines cuts to exam centres, Sudan orders 10 shutdowns, Tunisia joins offenders.
 
 </div>
 
