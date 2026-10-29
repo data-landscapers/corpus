@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BWA,national,governance,qualifier,body:mandated;finance:donor,2026-02-17,BWA-007;BWA-011,BWA-008=finance:donor;BWA-012=finance:domestic,
 BWA,national,standing,coverage,adopted,2025,BWA-004;BWA-009;BWA-013,BWA-001=announced;BWA-002=announced;BWA-048=drafting;BWA-005=drafting;BWA-003=announced;BWA-047=announced;BWA-006=announced,
-BWA,national,text,coverage,,,,,nothing held
+BWA,national,text,coverage,,,,,nothing found
 BWA,national,period,coverage,to:2026,2025,BWA-010,,
-BWA,national,plan,coverage,,,,,nothing held
-BWA,national,reporting,coverage,,,,,nothing held
-BWA,national,last12,qualifier,,,,,nothing held
+BWA,national,plan,coverage,,,,,nothing found
+BWA,national,reporting,coverage,,,,,nothing found
+BWA,national,last12,qualifier,,,,,nothing found

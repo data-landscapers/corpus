@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CIV,national,governance,qualifier,body:mandated;finance:domestic,2026-09-22,CIV-001;CIV-002,CIV-029=body:mandated;CIV-023=finance:domestic;CIV-024=finance:donor;CIV-034=body:mandated;CIV-035=finance:domestic,
 CIV,national,standing,coverage,adopted,2025,CIV-012;CIV-017;CIV-020;CIV-027;CIV-030,CIV-006=announced;CIV-025=announced;CIV-022=validated;CIV-014=drafting;CIV-016=drafting;CIV-018=drafting,
-CIV,national,text,coverage,public,2022-01-26,CIV-031,,nothing dated since 2023-10-23
+CIV,national,text,coverage,public,2022-01-26,CIV-031,,nothing dated since 2023-10-28
 CIV,national,period,coverage,to:2025,2025,CIV-007;CIV-008;CIV-013;CIV-021;CIV-028;CIV-032,CIV-026=to:2035,
 CIV,national,plan,coverage,costed,2026-09-22,CIV-003;CIV-033,CIV-004=actions;CIV-005=actions;CIV-010=actions;CIV-011=actions,
 CIV,national,reporting,coverage,activity,2025-11-18,CIV-009;CIV-015;CIV-019,,
-CIV,national,last12,qualifier,,,,,nothing held
+CIV,national,last12,qualifier,,,,,nothing found

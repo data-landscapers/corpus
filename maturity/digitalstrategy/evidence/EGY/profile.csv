@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 EGY,national,governance,qualifier,body:mandated,2025,EGY-004,EGY-007=body:mandated;EGY-001=body:mandated,not stated: finance
 EGY,national,standing,coverage,adopted,2025,EGY-002,EGY-006=announced,
-EGY,national,text,coverage,,,,,nothing held
+EGY,national,text,coverage,,,,,nothing found
 EGY,national,period,coverage,open,2025,EGY-003,,
-EGY,national,plan,coverage,,,,,nothing held
+EGY,national,plan,coverage,,,,,nothing found
 EGY,national,reporting,coverage,activity,2024-11-17,EGY-005,,
-EGY,national,last12,qualifier,,,,,nothing held
+EGY,national,last12,qualifier,,,,,nothing found

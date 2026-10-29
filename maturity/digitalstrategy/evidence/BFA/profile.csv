@@ -1,7 +1,7 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BFA,national,governance,qualifier,body:mandated,2026-07-25,BFA-001,,not stated: finance
 BFA,national,standing,coverage,adopted,2018-06-06,BFA-013,BFA-004=announced;BFA-009=announced;BFA-010=announced,
-BFA,national,text,coverage,,,,,nothing held
+BFA,national,text,coverage,,,,,nothing found
 BFA,national,period,coverage,to:2030,2026-03-23,BFA-007,BFA-012=to:2027,
 BFA,national,plan,coverage,actions,2026-06-17,BFA-005;BFA-011;BFA-014,,
 BFA,national,reporting,coverage,results,2026-06-30,BFA-002,,

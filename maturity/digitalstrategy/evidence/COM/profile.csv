@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COM,national,governance,qualifier,body:mandated,2026-08-25,COM-002,COM-004=body:mandated;COM-001=body:mandated;COM-005=body:mandated;COM-010=body:mandated,not stated: finance
-COM,national,standing,coverage,adopted,2018,COM-006,,nothing dated since 2023-10-23
-COM,national,text,coverage,public,2018-12,COM-007,,nothing dated since 2023-10-23
-COM,national,period,coverage,to:2028,2018-12,COM-008,,nothing dated since 2023-10-23
+COM,national,standing,coverage,adopted,2018,COM-006,,nothing dated since 2023-10-28
+COM,national,text,coverage,public,2018-12,COM-007,,nothing dated since 2023-10-28
+COM,national,period,coverage,to:2028,2018-12,COM-008,,nothing dated since 2023-10-28
 COM,national,plan,coverage,costed,2018-12,COM-009,COM-003=actions,
-COM,national,reporting,coverage,,,,,nothing held
-COM,national,last12,qualifier,,,,,nothing held
+COM,national,reporting,coverage,,,,,nothing found
+COM,national,last12,qualifier,,,,,nothing found

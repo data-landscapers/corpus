@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 TCD,national,governance,qualifier,body:mandated,2023,TCD-005,,not stated: finance
 TCD,national,standing,coverage,drafting,2023,TCD-004,TCD-003=none,
-TCD,national,text,coverage,,,,,nothing held
+TCD,national,text,coverage,,,,,nothing found
 TCD,national,period,coverage,to:2030,2026-07,TCD-001;TCD-002;TCD-006;TCD-008,,
 TCD,national,plan,coverage,actions,2026-07,TCD-007,,
-TCD,national,reporting,coverage,,,,,nothing held
-TCD,national,last12,qualifier,,,,,nothing held
+TCD,national,reporting,coverage,,,,,nothing found
+TCD,national,last12,qualifier,,,,,nothing found

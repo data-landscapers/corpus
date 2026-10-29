@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 TUN,national,governance,qualifier,body:mandated,2025,TUN-008,TUN-038=body:mandated,not stated: finance
 TUN,national,standing,coverage,adopted,2025,TUN-003;TUN-006,,
-TUN,national,text,coverage,,,,,nothing held
+TUN,national,text,coverage,,,,,nothing found
 TUN,national,period,coverage,to:2025,2026-03-09,TUN-001;TUN-004;TUN-005;TUN-007,TUN-035=to:2020,
-TUN,national,plan,coverage,actions,2018-10,TUN-036,,nothing dated since 2023-10-23
+TUN,national,plan,coverage,actions,2018-10,TUN-036,,nothing dated since 2023-10-28
 TUN,national,reporting,coverage,results,2018-10,TUN-037,TUN-002=activity,
-TUN,national,last12,qualifier,,,,,nothing held
+TUN,national,last12,qualifier,,,,,nothing found

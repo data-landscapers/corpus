@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,national,governance,qualifier,,,,,nothing held
+ZAF,national,governance,qualifier,,,,,nothing found
 ZAF,national,standing,coverage,drafting,2023,ZAF-004;ZAF-005;ZAF-008,ZAF-002=none;ZAF-003=none,
 ZAF,national,text,coverage,unpublished,2023,ZAF-006,,
 ZAF,national,period,coverage,to:2025,2023,ZAF-007,,
-ZAF,national,plan,coverage,actions,2021-02-22,ZAF-009,,nothing dated since 2023-10-23
+ZAF,national,plan,coverage,actions,2021-02-22,ZAF-009,,nothing dated since 2023-10-28
 ZAF,national,reporting,coverage,activity,2025,ZAF-001,,
-ZAF,national,last12,qualifier,,,,,nothing held
+ZAF,national,last12,qualifier,,,,,nothing found

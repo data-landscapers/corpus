@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CAF,national,governance,qualifier,body:mandated;finance:donor,2023-06-19,CAF-003;CAF-030,,nothing dated since 2023-10-23
-CAF,national,standing,coverage,drafting,2021-11-10,CAF-002;CAF-004,CAF-001=none,nothing dated since 2023-10-23
-CAF,national,text,coverage,,,,,nothing held
-CAF,national,period,coverage,to:2025,2021-11-10,CAF-005,,nothing dated since 2023-10-23
-CAF,national,plan,coverage,,,,,nothing held
-CAF,national,reporting,coverage,,,,,nothing held
-CAF,national,last12,qualifier,,,,,nothing held
+CAF,national,governance,qualifier,body:mandated;finance:donor,2023-06-19,CAF-003;CAF-030,,nothing dated since 2023-10-28
+CAF,national,standing,coverage,drafting,2021-11-10,CAF-002;CAF-004,CAF-001=none,nothing dated since 2023-10-28
+CAF,national,text,coverage,,,,,nothing found
+CAF,national,period,coverage,to:2025,2021-11-10,CAF-005,,nothing dated since 2023-10-28
+CAF,national,plan,coverage,,,,,nothing found
+CAF,national,reporting,coverage,,,,,nothing found
+CAF,national,last12,qualifier,,,,,nothing found

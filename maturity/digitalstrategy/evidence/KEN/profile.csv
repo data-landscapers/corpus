@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,national,governance,qualifier,body:mandated;finance:donor,2023-03-31,KEN-023;KEN-035,,nothing dated since 2023-10-23
-KEN,national,standing,coverage,adopted,2022,KEN-031;KEN-170,KEN-029=announced,nothing dated since 2023-10-23
+KEN,national,governance,qualifier,body:mandated;finance:donor,2023-03-31,KEN-023;KEN-035,,nothing dated since 2023-10-28
+KEN,national,standing,coverage,adopted,2022,KEN-031;KEN-170,KEN-029=announced,nothing dated since 2023-10-28
 KEN,national,text,coverage,public,2026-05-11,KEN-009;KEN-014;KEN-032,,
 KEN,national,period,coverage,to:2032,2026-09-15,KEN-001;KEN-003;KEN-004;KEN-005;KEN-006;KEN-007;KEN-010;KEN-012;KEN-013;KEN-015;KEN-016;KEN-017;KEN-019;KEN-020;KEN-022;KEN-024;KEN-026;KEN-027;KEN-028;KEN-030;KEN-033;KEN-171,KEN-021=to:2022;KEN-008=open,
 KEN,national,plan,coverage,costed,2022,KEN-034,KEN-025=actions;KEN-011=actions;KEN-018=actions;KEN-002=actions,
-KEN,national,reporting,coverage,,,,,nothing held
-KEN,national,last12,qualifier,,,,,nothing held
+KEN,national,reporting,coverage,,,,,nothing found
+KEN,national,last12,qualifier,,,,,nothing found

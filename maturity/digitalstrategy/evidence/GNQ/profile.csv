@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNQ,national,governance,qualifier,,,,,nothing held
+GNQ,national,governance,qualifier,,,,,nothing found
 GNQ,national,standing,coverage,drafting,2026-09-02,GNQ-001,,
 GNQ,national,text,coverage,unpublished,2026-09-02,GNQ-002,,
-GNQ,national,period,coverage,,,,,nothing held
-GNQ,national,plan,coverage,,,,,nothing held
-GNQ,national,reporting,coverage,,,,,nothing held
+GNQ,national,period,coverage,,,,,nothing found
+GNQ,national,plan,coverage,,,,,nothing found
+GNQ,national,reporting,coverage,,,,,nothing found
 GNQ,national,last12,qualifier,advancing,2026-09-02,GNQ-003,,

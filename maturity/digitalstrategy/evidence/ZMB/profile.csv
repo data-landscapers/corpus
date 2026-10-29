@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZMB,national,governance,qualifier,body:mandated;finance:not-stated,2023-10-12,ZMB-010;ZMB-011,,nothing dated since 2023-10-23
+ZMB,national,governance,qualifier,body:mandated;finance:not-stated,2023-10-12,ZMB-010;ZMB-011,,nothing dated since 2023-10-28
 ZMB,national,standing,coverage,adopted,2023,ZMB-002,ZMB-005=announced;ZMB-007=announced,
 ZMB,national,text,coverage,public,2023-10,ZMB-008,,
 ZMB,national,period,coverage,to:2027,2026-09-03,ZMB-001;ZMB-003;ZMB-004;ZMB-006;ZMB-009,,
-ZMB,national,plan,coverage,actions,2023-10-12,ZMB-012,,nothing dated since 2023-10-23
-ZMB,national,reporting,coverage,,,,,nothing held
-ZMB,national,last12,qualifier,,,,,nothing held
+ZMB,national,plan,coverage,actions,2023-10-12,ZMB-012,,nothing dated since 2023-10-28
+ZMB,national,reporting,coverage,,,,,nothing found
+ZMB,national,last12,qualifier,,,,,nothing found

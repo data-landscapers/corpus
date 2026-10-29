@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,national,governance,qualifier,,,,,nothing held
+BDI,national,governance,qualifier,,,,,nothing found
 BDI,national,standing,coverage,adopted,2026-10-14,BDI-003,BDI-001=none;BDI-002=none,
-BDI,national,text,coverage,,,,,nothing held
-BDI,national,period,coverage,,,,,nothing held
-BDI,national,plan,coverage,,,,,nothing held
-BDI,national,reporting,coverage,,,,,nothing held
-BDI,national,last12,qualifier,,,,,nothing held
+BDI,national,text,coverage,,,,,nothing found
+BDI,national,period,coverage,,,,,nothing found
+BDI,national,plan,coverage,,,,,nothing found
+BDI,national,reporting,coverage,,,,,nothing found
+BDI,national,last12,qualifier,,,,,nothing found

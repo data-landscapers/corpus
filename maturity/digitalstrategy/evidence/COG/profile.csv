@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COG,national,governance,qualifier,body:mandated;finance:donor,2025,COG-004;COG-020,COG-008=body:mandated;COG-012=body:mandated;COG-015=body:mandated,
 COG,national,standing,coverage,adopted,2025,COG-007;COG-011;COG-014;COG-018,COG-001=drafting;COG-002=drafting;COG-003=validated;COG-052=validated;COG-016=validated,
-COG,national,text,coverage,,,,,nothing held
+COG,national,text,coverage,,,,,nothing found
 COG,national,period,coverage,to:2025,2025,COG-019;COG-051,COG-017=to:2030,
-COG,national,plan,coverage,none,2022-05,COG-009;COG-013,,nothing dated since 2023-10-24
-COG,national,reporting,coverage,none,2022-05,COG-010,,nothing dated since 2023-10-24
-COG,national,last12,qualifier,advancing,2025-10-13,COG-005;COG-006,,nothing dated since 2025-10-24
+COG,national,plan,coverage,none,2022-05,COG-009;COG-013,,nothing dated since 2023-10-28
+COG,national,reporting,coverage,none,2022-05,COG-010,,nothing dated since 2023-10-28
+COG,national,last12,qualifier,advancing,2025-10-13,COG-005;COG-006,,nothing dated since 2025-10-28

@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,national,governance,qualifier,finance:donor,2022-12,GMB-007,,nothing dated since 2023-10-23
+GMB,national,governance,qualifier,finance:donor,2022-12,GMB-007,,nothing dated since 2023-10-28
 GMB,national,standing,coverage,adopted,2024-09,GMB-011,GMB-013=validated;GMB-015=validated;GMB-004=validated,
 GMB,national,text,coverage,public,2024,GMB-008,GMB-014=unpublished,
 GMB,national,period,coverage,to:2034,2026-10-07,GMB-001;GMB-002;GMB-003;GMB-009;GMB-012,GMB-010=to:2028;GMB-005=to:2028,
 GMB,national,plan,coverage,actions,2024-05-17,GMB-006,,
-GMB,national,reporting,coverage,,,,,nothing held
-GMB,national,last12,qualifier,,,,,nothing held
+GMB,national,reporting,coverage,,,,,nothing found
+GMB,national,last12,qualifier,,,,,nothing found

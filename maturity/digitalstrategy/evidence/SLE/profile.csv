@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,national,governance,qualifier,body:none;finance:donor,2022-12,SLE-008;SLE-014,SLE-015=finance:not-stated;SLE-028=body:mandated;SLE-022=body:none,nothing dated since 2023-10-23
+SLE,national,governance,qualifier,body:none;finance:donor,2022-12,SLE-008;SLE-014,SLE-015=finance:not-stated;SLE-028=body:mandated;SLE-022=body:none,nothing dated since 2023-10-28
 SLE,national,standing,coverage,adopted,2021,SLE-002,SLE-025=announced;SLE-027=drafting;SLE-003=announced;SLE-004=announced;SLE-009=announced;SLE-005=announced;SLE-007=validated;SLE-011=announced;SLE-031=drafting;SLE-024=announced;SLE-029=announced;SLE-018=announced,
-SLE,national,text,coverage,public,2021,SLE-012;SLE-019,,nothing dated since 2023-10-23
+SLE,national,text,coverage,public,2021,SLE-012;SLE-019,,nothing dated since 2023-10-28
 SLE,national,period,coverage,to:2029,2026-01-01,SLE-001;SLE-006;SLE-010;SLE-020;SLE-023;SLE-030,SLE-013=open,
 SLE,national,plan,coverage,actions,2024-10,SLE-021;SLE-026,SLE-016=none,
-SLE,national,reporting,coverage,none,2021,SLE-017,,nothing dated since 2023-10-23
-SLE,national,last12,qualifier,,,,,nothing held
+SLE,national,reporting,coverage,none,2021,SLE-017,,nothing dated since 2023-10-28
+SLE,national,last12,qualifier,,,,,nothing found

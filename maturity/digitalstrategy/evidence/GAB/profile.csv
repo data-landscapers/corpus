@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GAB,national,governance,qualifier,body:mandated;finance:donor,2025,GAB-003;GAB-005,GAB-004=body:mandated,
 GAB,national,standing,coverage,adopted,2025,GAB-001,GAB-063=announced,
-GAB,national,text,coverage,,,,,nothing held
+GAB,national,text,coverage,,,,,nothing found
 GAB,national,period,coverage,to:2025,2025,GAB-002,,
-GAB,national,plan,coverage,,,,,nothing held
-GAB,national,reporting,coverage,,,,,nothing held
+GAB,national,plan,coverage,,,,,nothing found
+GAB,national,reporting,coverage,,,,,nothing found
 GAB,national,last12,qualifier,advancing,2026-04-03,GAB-064,,

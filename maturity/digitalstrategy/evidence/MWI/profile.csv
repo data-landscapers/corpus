@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MWI,national,governance,qualifier,body:none;finance:donor,2026-08-20,MWI-002;MWI-017,,
 MWI,national,standing,coverage,adopted,2025-06,MWI-015;MWI-024;MWI-025;MWI-027,MWI-001=drafting;MWI-004=validated;MWI-006=drafting;MWI-008=drafting;MWI-018=announced;MWI-020=drafting;MWI-023=drafting;MWI-021=announced;MWI-013=drafting;MWI-009=drafting;MWI-016=drafting;MWI-019=none;MWI-005=announced;MWI-026=drafting;MWI-028=validated,
-MWI,national,text,coverage,,,,,nothing held
+MWI,national,text,coverage,,,,,nothing found
 MWI,national,period,coverage,to:2028,2025-06-25,MWI-003;MWI-011;MWI-012;MWI-090,,
-MWI,national,plan,coverage,,,,,nothing held
-MWI,national,reporting,coverage,,,,,nothing held
+MWI,national,plan,coverage,,,,,nothing found
+MWI,national,reporting,coverage,,,,,nothing found
 MWI,national,last12,qualifier,advancing,2026-02-18,MWI-007;MWI-010;MWI-014;MWI-022,,

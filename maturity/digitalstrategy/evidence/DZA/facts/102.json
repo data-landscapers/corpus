@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-14-dza-almostathmir-data-governance-classification-rollout",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "HCN's director of digital governance says the national digital transformation strategy 2025-2030, Algérie numérique 2030, has been launched and adopted, and the data governance system is part of its implementation.",
+   "as_of": "2026-02-14",
+   "date_precision": "day",
+   "system": "Algérie numérique 2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The strategy named Algérie numérique 2030 runs from 2025 to 2030.",
+   "as_of": "2026-02-14",
+   "date_precision": "day",
+   "system": "Algérie numérique 2030",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,national,governance,qualifier,,,,,nothing held
+NER,national,governance,qualifier,,,,,nothing found
 NER,national,standing,coverage,validated,2026-06-17,NER-015;NER-018,NER-001=drafting;NER-005=drafting;NER-008=drafting;NER-011=drafting;NER-013=drafting;NER-014=none;NER-020=drafting,
-NER,national,text,coverage,,,,,nothing held
+NER,national,text,coverage,,,,,nothing found
 NER,national,period,coverage,to:2035,2026-06-17,NER-019,NER-004=to:2030;NER-017=to:2030;NER-021=to:2030,
 NER,national,plan,coverage,actions,2026-03,NER-002;NER-006;NER-009;NER-016,,
-NER,national,reporting,coverage,,,,,nothing held
+NER,national,reporting,coverage,,,,,nothing found
 NER,national,last12,qualifier,advancing,2026-03,NER-003;NER-007;NER-010;NER-012,,

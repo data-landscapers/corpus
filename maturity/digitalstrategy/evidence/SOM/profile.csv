@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SOM,national,governance,qualifier,,,,,nothing held
+SOM,national,governance,qualifier,,,,,nothing found
 SOM,national,standing,coverage,adopted,2025-01-23,SOM-010,SOM-009=drafting;SOM-002=announced;SOM-004=drafting;SOM-006=drafting,
-SOM,national,text,coverage,,,,,nothing held
+SOM,national,text,coverage,,,,,nothing found
 SOM,national,period,coverage,to:2030,2026-08-19,SOM-001;SOM-003;SOM-005;SOM-007;SOM-008,,
-SOM,national,plan,coverage,,,,,nothing held
-SOM,national,reporting,coverage,,,,,nothing held
-SOM,national,last12,qualifier,,,,,nothing held
+SOM,national,plan,coverage,,,,,nothing found
+SOM,national,reporting,coverage,,,,,nothing found
+SOM,national,last12,qualifier,,,,,nothing found

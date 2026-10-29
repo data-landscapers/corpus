@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NGA,national,governance,qualifier,body:mandated;finance:not-stated,2025,NGA-017;NGA-024,NGA-026=body:mandated;NGA-021=body:mandated;NGA-016=body:mandated,
 NGA,national,standing,coverage,adopted,2025,NGA-004;NGA-009;NGA-013;NGA-020;NGA-022,NGA-012=announced;NGA-011=announced;NGA-006=announced,
-NGA,national,text,coverage,public,2019-11-28,NGA-019,,nothing dated since 2023-10-26
+NGA,national,text,coverage,public,2019-11-28,NGA-019,,nothing dated since 2023-10-28
 NGA,national,period,coverage,to:2030,2026-09-21,NGA-001;NGA-002;NGA-003;NGA-005;NGA-007;NGA-008;NGA-014;NGA-025;NGA-178,NGA-023=open,
-NGA,national,plan,coverage,actions,2019-11-28,NGA-015,,nothing dated since 2023-10-26
-NGA,national,reporting,coverage,activity,2022-12-20,NGA-010;NGA-018,,nothing dated since 2023-10-26
-NGA,national,last12,qualifier,,,,,nothing held
+NGA,national,plan,coverage,actions,2019-11-28,NGA-015,,nothing dated since 2023-10-28
+NGA,national,reporting,coverage,activity,2022-12-20,NGA-010;NGA-018,,nothing dated since 2023-10-28
+NGA,national,last12,qualifier,,,,,nothing found

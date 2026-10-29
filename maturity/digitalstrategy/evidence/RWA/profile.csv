@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,national,governance,qualifier,finance:donor,2023-10-26,RWA-006,,not stated: body
-RWA,national,standing,coverage,adopted,2015,RWA-003,RWA-005=drafting;RWA-002=announced,
-RWA,national,text,coverage,,,,,nothing held
+RWA,national,governance,qualifier,finance:donor,2023-10-26,RWA-006,,nothing dated since 2023-10-28
+RWA,national,standing,coverage,adopted,2015,RWA-003,RWA-005=drafting;RWA-002=announced,nothing dated since 2023-10-28
+RWA,national,text,coverage,,,,,nothing found
 RWA,national,period,coverage,to:2025,2025-11-28,RWA-001,RWA-004=to:2020;RWA-007=to:2020,
-RWA,national,plan,coverage,,,,,nothing held
-RWA,national,reporting,coverage,,,,,nothing held
-RWA,national,last12,qualifier,,,,,nothing held
+RWA,national,plan,coverage,,,,,nothing found
+RWA,national,reporting,coverage,,,,,nothing found
+RWA,national,last12,qualifier,,,,,nothing found

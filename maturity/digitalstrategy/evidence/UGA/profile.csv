@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,national,governance,qualifier,body:mandated;finance:not-stated,2022-09,UGA-019;UGA-020,,nothing dated since 2023-10-23
+UGA,national,governance,qualifier,body:mandated;finance:not-stated,2022-09,UGA-019;UGA-020,,nothing dated since 2023-10-28
 UGA,national,standing,coverage,drafting,2022-12,UGA-014,UGA-008=announced;UGA-013=announced;UGA-011=announced;UGA-015=announced,
-UGA,national,text,coverage,public,2022-09,UGA-016,,nothing dated since 2023-10-23
+UGA,national,text,coverage,public,2022-09,UGA-016,,nothing dated since 2023-10-28
 UGA,national,period,coverage,to:2028,2026-09-11,UGA-001;UGA-002;UGA-003;UGA-005;UGA-006;UGA-007;UGA-009;UGA-010;UGA-012;UGA-021;UGA-022;UGA-023,UGA-017=to:2040,
 UGA,national,plan,coverage,costed,2022-09,UGA-018,UGA-004=actions,
-UGA,national,reporting,coverage,,,,,nothing held
-UGA,national,last12,qualifier,,,,,nothing held
+UGA,national,reporting,coverage,,,,,nothing found
+UGA,national,last12,qualifier,,,,,nothing found

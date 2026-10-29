@@ -1,7 +1,7 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COD,national,governance,qualifier,body:mandated;finance:domestic,2026-09-22,COD-002;COD-003,COD-004=finance:donor;COD-005=finance:domestic;COD-011=body:none;COD-023=finance:domestic;COD-032=finance:domestic;COD-027=finance:domestic;COD-063=body:mandated;COD-038=body:mandated;COD-039=finance:not-stated,
 COD,national,standing,coverage,adopted,2019,COD-062,COD-040=announced;COD-001=validated;COD-007=validated;COD-009=validated;COD-014=announced;COD-015=validated;COD-020=drafting;COD-030=announced;COD-026=drafting;COD-058=drafting;COD-059=drafting;COD-033=announced;COD-034=validated;COD-025=validated;COD-031=validated,
-COD,national,text,coverage,public,2019-09,COD-035,,nothing dated since 2023-10-26
+COD,national,text,coverage,public,2019-09,COD-035,,nothing dated since 2023-10-28
 COD,national,period,coverage,to:2030,2026,COD-019;COD-042;COD-060,COD-029=to:2025;COD-043=to:2025;COD-057=to:2025;COD-036=to:2025,
 COD,national,plan,coverage,costed,2026,COD-006;COD-018;COD-021;COD-022;COD-024;COD-041,COD-010=none;COD-016=none;COD-037=actions,
 COD,national,reporting,coverage,results,2025-10-11,COD-028,COD-012=none;COD-061=activity;COD-064=activity,

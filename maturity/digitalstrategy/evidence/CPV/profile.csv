@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CPV,national,governance,qualifier,body:mandated,2026-05-08,CPV-004,CPV-008=body:mandated,not stated: finance
 CPV,national,standing,coverage,adopted,2026-05-08,CPV-003;CPV-013,CPV-001=drafting;CPV-010=drafting,
-CPV,national,text,coverage,,,,,nothing held
+CPV,national,text,coverage,,,,,nothing found
 CPV,national,period,coverage,to:2035,2026-05-06,CPV-011,CPV-014=to:2030;CPV-007=to:2021,
-CPV,national,plan,coverage,,,,,nothing held
-CPV,national,reporting,coverage,activity,2020-03,CPV-009,,nothing dated since 2023-10-23
+CPV,national,plan,coverage,,,,,nothing found
+CPV,national,reporting,coverage,activity,2020-03,CPV-009,,nothing dated since 2023-10-28
 CPV,national,last12,qualifier,advancing,2026-08-06,CPV-002;CPV-005;CPV-006;CPV-012,,
