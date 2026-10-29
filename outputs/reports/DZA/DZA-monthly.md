@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: DZA
 ledger_rows: 54
 not_held: 5
-record: 8ccccdf50b1b
+record: 1fbf9a2d80cc
 ---
 
 # News, Sep – Oct 2026
@@ -168,7 +168,7 @@ Niger and Algeria launched operation of the fibre link between In Guezzam and th
 
 **[General Secretariat holds fourth meeting of joint committee to consider the Draft Arab Agreement on Personal Data Protection](http://www.leagueofarabstates.net/en/news/Pages/NewsDetails.aspx?RID=4160)** — League of Arab States, 25 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XNA/XNA-monthly.html" title="XNA">North Africa</a>
 
-Fourth expert meeting, 25-26 Oct 2026, on Algeria-proposed treaty; outcome to justice ministers in Algeria, Nov 2026.
+The League of Arab States held the fourth meeting of a joint expert committee on a Draft Arab Agreement on Personal Data Protection on 25 and 26 October 2026. The draft stems from an Algerian proposal approved by the Council of Arab Ministers of Justice. The results go to that council's session in Algeria in November 2026.
 
 </div>
 
@@ -184,7 +184,7 @@ Fourth expert meeting, 25-26 Oct 2026, on Algeria-proposed treaty; outcome to ju
 
 **[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
-2026 exam season: Algeria confines cuts to exam centres, Sudan orders 10 shutdowns, Tunisia joins offenders.
+Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: CMR
 ledger_rows: 43
 not_held: 4
-record: c651753beae7
+record: 885116edef0a
 ---
 
 # News, Sep – Oct 2026
@@ -402,7 +402,7 @@ Orange Business Cameroon describes its data centre, open since May 2017, as Tier
 
 **[Uptime Institute Awards in Cameroon](https://uptimeinstitute.com/uptime-institute-awards/country/id/CM)** — Uptime Institute, 28 October 2026
 
-Certifier's register: Camtel NBN II and MTN Yaoundé both Tier III design-only; no built-facility award in Cameroon.
+Uptime Institute's register for Cameroon lists two Tier III design certifications. They cover Cameroon Telecommunications' Camtel NBN II data centre and MTN Cameroon's data centre, both in Yaoundé.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: LBR
 ledger_rows: 41
 not_held: 6
-record: b13b704f1e5f
+record: 7e0b6c518927
 ---
 
 # News, Sep – Oct 2026
@@ -266,7 +266,7 @@ Ten Liberian civil society organisations, including CENTAL and the Liberia Equal
 
 **[Télécoms : le Liberia identifie les zones mal desservies pour étendre son réseau](https://www.wearetech.africa/fr/fils/actualites/telecom/telecoms-le-liberia-identifie-les-zones-mal-desservies-pour-etendre-son-reseau)** — wearetech.africa, 28 October 2026
 
-15 new Universal Access Fund tower sites after a gap survey of 14 of 15 counties; 4G reached 93% in 2025 (ITU).
+The Liberia Telecommunications Authority said on 26 October 2026 that it had chosen sites for 15 new towers under the Universal Access Fund. It had reviewed coverage gaps in 14 of the 15 counties. The fund already supports 15 towers. 4G covered 93% of the population in 2025.
 
 </div>
 

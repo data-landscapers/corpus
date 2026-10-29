@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: XNA
 ledger_rows: 6
 not_held: 0
-record: d27393f8446d
+record: 346f5c631df9
 ---
 
 # News, Sep – Oct 2026
@@ -88,7 +88,7 @@ The League of Arab States hosted a meeting in Cairo on 16 September 2026 between
 
 **[General Secretariat holds fourth meeting of joint committee to consider the Draft Arab Agreement on Personal Data Protection](http://www.leagueofarabstates.net/en/news/Pages/NewsDetails.aspx?RID=4160)** — League of Arab States, 25 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
 
-Fourth expert meeting, 25-26 Oct 2026, on Algeria-proposed treaty; outcome to justice ministers in Algeria, Nov 2026.
+The League of Arab States held the fourth meeting of a joint expert committee on a Draft Arab Agreement on Personal Data Protection on 25 and 26 October 2026. The draft stems from an Algerian proposal approved by the Council of Arab Ministers of Justice. The results go to that council's session in Algeria in November 2026.
 
 </div>
 

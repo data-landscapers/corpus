@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: TCD
 ledger_rows: 38
 not_held: 22
-record: 25da205d9429
+record: 64fda278b0e8
 ---
 
 # News, Sep – Oct 2026
@@ -782,7 +782,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Tchad : le CDIG lance des outils numériques pour moderniser la gestion de l’eau](https://lendjampost.com/tchad-le-cdig-lance-des-outils-numeriques-pour-moderniser-la-gestion-de-leau/)** — Le N'Djam Post, 27 October 2026
 
-Water-sector data platforms for ministries, projects and NGOs; validation mechanism; field test at Bongor.
+Chad's Centre de Documentation et d'Information Géographique presented a water-resources geoportal and the SITEAU-APP mobile application on 27 October 2026. The tools are meant to give ministries, projects, NGOs and partners in the water sector a shared data source with checks on data quality. A field test is planned at Bongor in Mayo-Kebbi Est.
 
 </div>
 

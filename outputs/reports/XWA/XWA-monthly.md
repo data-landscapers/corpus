@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: XWA
 ledger_rows: 37
 not_held: 1
-record: 09f89bed1638
+record: 8cc00b8f0912
 ---
 
 # News, Sep – Oct 2026
@@ -202,7 +202,7 @@ The second session of the UEMOA national digital regulators' committee (CRNN) op
 
 **[ECOWAS moves to boost intra-regional trade to 35% with inclusive e-commerce strategy](https://thenationonlineng.net/ecowas-moves-to-boost-intra-regional-trade-to-35-with-inclusive-e-commerce-strategy/)** — The Nation Newspaper, 27 October 2026
 
-Abuja forum reviews 2023-2027 strategy; intra-regional trade under 15%, 35% target for 2035; e-commerce expert group.
+ECOWAS opened an E-Commerce Community Forum and the second meeting of its Regional E-Commerce Committee in Abuja to review its E-Commerce Strategy 2023-2027. Delegates are to validate an updated action plan and form an expert group on e-commerce intelligence. Intra-regional trade is below 15% of the bloc's trade, against targets rising towards 35%.
 
 </div>
 

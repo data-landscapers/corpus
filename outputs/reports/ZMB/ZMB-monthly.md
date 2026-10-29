@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: ZMB
 ledger_rows: 49
 not_held: 32
-record: 34dc49bd59bb
+record: 7a1411c097cd
 ---
 
 # News, Sep – Oct 2026
@@ -222,7 +222,7 @@ Police in Ndola, Zambia, arrested a 24-year-old TikToker, Natasha Nambeya, for a
 
 **[Press Release: Zambia drops two places to finish in the 6th position on digital rights](https://paradigmhq.org/press-release-zambia-drops-two-places-to-finish-in-the-6th-position-on-digital-rights/)** — Paradigm Initiative, 28 October 2026
 
-Londa 2025 ranks Zambia 6th of 29, down two; score put at 37/60 against 40 in 2024; South Africa first, Ghana second.
+Paradigm Initiative's Londa 2025 report ranks Zambia 6th of 29 African countries on digital rights and inclusion, two places lower than before. Its score fell from 40 to 37 out of 60. The report cites an energy crisis and high sector taxes as limits on access, and new cyber laws that risk rights violations.
 
 </div>
 

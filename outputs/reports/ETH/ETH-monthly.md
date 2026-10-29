@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: ETH
 ledger_rows: 40
 not_held: 5
-record: 133be73cf547
+record: 3ad3d571ec27
 ---
 
 # News, Sep – Oct 2026
@@ -88,7 +88,7 @@ Ethiopia's Council of Ministers unanimously sent a draft national data proclamat
 
 **[Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability](https://techafricanews.com/2026/10/28/ethiopia-telecom-regulator-service-quality-affordability/)** — Tech Africa News, 28 October 2026
 
-ECA five-year review; rural-connectivity targets, spectrum and QoS enforcement, new postal law to replace 1958 E.C. text.
+Ethiopia's Minister of Innovation and Technology, Frehiwot Tamru, told the Ethiopian Communications Authority on 27 October 2026 to judge its work by service quality, affordability, consumer protection and access. The ministry asked for measurable rural connectivity targets, firmer spectrum management and enforcement of quality-of-service rules. New postal legislation is to replace a proclamation of 1958 in the Ethiopian calendar.
 
 </div>
 

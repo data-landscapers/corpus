@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: UGA
 ledger_rows: 78
 not_held: 11
-record: 48af1745bd96
+record: 91d14517d55d
 ---
 
 # News, Sep – Oct 2026
@@ -250,7 +250,7 @@ Ahead of a technology and intellectual property symposium on 22-23 October, Ugan
 
 **[FDC Threatens Court Action Over Proposed URA Access to Bank Accounts](https://nilepost.co.ug/news/381531/fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts)** — Nile Post, 26 October 2026
 
-Opposition seeks PDPO audit of URA's use of NIRA records; cites 2023 ruling against blanket bank-data demands.
+Uganda's Forum for Democratic Change threatened to sue over plans to give the Uganda Revenue Authority wider access to bank accounts. On 15 October 2026 a finance minister told Parliament the government would keep seeking that power. MPs had rejected it. The party also asked the Personal Data Protection Office to audit URA's access to NIRA's national ID records.
 
 </div>
 
@@ -932,7 +932,7 @@ Uganda's parliamentary physical infrastructure committee told Auditor General Ed
 
 **[Presidential Secretary Kakande Bashes Mayanja Over Digital Number Plates Contract](https://nilepost.co.ug/news/382135/presidential-secretary-kakande-bashes-mayanja-over-digital-number-plates-contract)** — Nile Post, 27 October 2026
 
-1,499 of 5,110 government plates dead; 80% revenue share to Russian contractor under committee scrutiny.
+Office of the President Permanent Secretary Yunus Kakande told Parliament's physical infrastructure committee he disputed Attorney General Sam Mayanja's view that the digital number plates contract with Russia's Joint Stock Company Global Security is legally flawed. The committee heard that 1,499 of 5,110 plates made for government vehicles no longer work. MPs questioned the contractor's 80% share of revenue.
 
 </div>
 

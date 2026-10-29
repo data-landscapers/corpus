@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: MWI
 ledger_rows: 55
 not_held: 31
-record: f4e2f7ff3bb1
+record: be97fa4c5687
 ---
 
 # News, Sep – Oct 2026
@@ -342,7 +342,7 @@ The Malawi Communications Regulatory Authority opened an investigation, by notic
 
 **[Proposed acquisition of assets of Open Connect Limited by Telekom Networks Malawi Plc](https://www.cftc.mw/2026/10/27/proposed-acquisition-of-assets-of-open-connect-limited-by-telekom-networks-malawi-plc/)** — Competition and Fair Trading Commission of Malawi, 27 October 2026
 
-MK23.5bn for fibre, data centre and contracts; open-access, structural separation and 3-year MoU conditions.
+Malawi's competition commission approved, with conditions, Telekom Networks Malawi's MK23.5 billion purchase of Open Connect Limited's fibre network, data centre and enterprise contracts. TNM must split wholesale and retail under independent boards. Its fibre must stay open to all on equal terms. The commission accepted the deal as the rescue of a failing firm and set three years of monitoring.
 
 </div>
 

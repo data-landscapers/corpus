@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: XCA
 ledger_rows: 19
 not_held: 0
-record: 521763afb2f6
+record: 6dd8a28be316
 ---
 
 # News, Sep – Oct 2026
@@ -264,7 +264,7 @@ A five-day African Development Bank, CEMAC and UNFPA workshop closed at Librevil
 
 **[CEMAC | SUPTECH : La COBAC se penche sur l’usage de l’intelligence artificielle dans la régulation bancaire](https://droitmediasfinance.com/index.php/actualites/droit-bancaire/1424-cemac-suptech-la-cobac-annonce-lusage-de-lintelligence-artificielle-dans-la-regulation-bancaire)** — Droit Médias Finance, 25 October 2026
 
-2025 annual report signals gradual AI use on prudential data under OWALI 2025-2029; not yet a deployment.
+Central Africa's banking supervisor, COBAC, said in its 2025 annual report that it will begin applying AI and advanced analytics to banks' prudential returns over 2026 and 2027. The plan falls under its OWALI 2025-2029 strategy. No system in use is reported.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: GHA
 ledger_rows: 119
 not_held: 9
-record: b75c32e8c6c5
+record: f29388abf36c
 ---
 
 # News, Sep – Oct 2026
@@ -376,7 +376,7 @@ Ghana will host the signing ceremony for the UN Convention on Negotiable Cargo D
 
 **[26 countries sign Accra Convention to boost trade facilitation, digitalisation](https://www.myjoyonline.com/26-countries-sign-accra-convention-to-boost-trade-facilitation-digitalisation/)** — MyJoyOnline, 28 October 2026
 
-Signed 26 Oct 2026; e-cargo documents get paper's legal effect; in force after tenth ratification; Ghana pilot planned.
+Twenty-six states signed the UN Convention on Negotiable Cargo Documents in Accra on 26 October 2026, with Ghana first. Known as the Accra Convention, it gives electronic cargo documents the legal effect of paper. Road, rail and air documents can serve as documents of title. Ghana's trade minister said it will ratify; the Convention needs ten ratifications.
 
 </div>
 

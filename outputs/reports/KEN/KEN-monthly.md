@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: KEN
 ledger_rows: 158
 not_held: 7
-record: 9885e01599b5
+record: bef0776e1b59
 ---
 
 # News, Sep – Oct 2026
@@ -338,7 +338,7 @@ Kenya's National Assembly Public Petitions committee recommended amending the La
 
 **[MPs scrap IEBC guarantee of access to election servers, tech](https://nation.africa/kenya/news/politics/mps-scrap-iebc-guarantee-of-access-to-election-servers-tech-5646998)** — Daily Nation, 27 October 2026
 
-Kaluma amendments adopted uncontested; IP-vesting and in-country server clauses deleted; Bill back to Senate.
+Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections (Amendment) Bill, 2024. They remove clauses giving the IEBC intellectual property in election technology. They also drop a requirement to keep election servers and data centres in Kenya. The technology must instead stay open to scrutiny. The Bill goes back to the Senate.
 
 </div>
 

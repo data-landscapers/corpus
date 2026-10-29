@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: ZAF
 ledger_rows: 177
 not_held: 19
-record: 655ffdbe9269
+record: 0171b71ca18a
 ---
 
 # News, Sep – Oct 2026
@@ -882,7 +882,7 @@ South Africa's Competition Commission recommended that the Tribunal approve MTN'
 
 **[Media Statement: Communications Committee Concerned Over Prolonged Delays in Completing Broadcasting Digital Migration Project](https://www.parliament.gov.za/press-releases/media-statement-communications-committee-concerned-over-prolonged-delays-completing-broadcasting-digital-migration-project)** — Parliament of South Africa, 6 October 2026
 
-Analogue switch-off back in court; dual-illumination costs mount; committee to reconvene within three months.
+South Africa's parliamentary committee on communications said on 6 October 2026 that delays to the Broadcasting Digital Migration programme leave the state paying for analogue and digital transmission at once. The analogue switch-off is suspended and before the courts for a second time. The programme began in 2008, with switch-off first due on 1 November 2011.
 
 </div>
 
@@ -1694,7 +1694,7 @@ South Africa's transport department plans to amend the road traffic regulations 
 
 **[Plans for biometric tracing system to strengthen immigration control](https://www.timeslive.co.za/news/south-africa/2026-10-26-plans-for-biometric-tracing-system-to-strengthen-immigration-control/)** — TimesLIVE (Sunday Times), 26 October 2026
 
-Electronic entry registration, SMS visa-expiry alerts, fingerprints; SIM-registration push with mobile operators.
+South Africa's inter-ministerial committee on migration said on 26 October 2026 that ports of entry will register arrivals electronically. Visa details and phone numbers would be recorded, with SMS reminders before visas expire. Fingerprints would feed a wider biometric tracking system. Chair Mmamoloko Kubayi said mobile operators are being consulted on tighter SIM registration; no timetable was given.
 
 </div>
 
@@ -1702,7 +1702,7 @@ Electronic entry registration, SMS visa-expiry alerts, fingerprints; SIM-registr
 
 **[South Africa plans biometric asylum registration, tighter digital border controls](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)** — Biometric Update, 28 October 2026
 
-Adds planned electronic border systems and Kubayi's proposal that foreigners show passports for SIM registration.
+South Africa's Department of Home Affairs plans an online booking system for asylum seekers by 10 November 2026. It will collect biometric and identity data. The step follows a July Constitutional Court ruling that struck down Refugees Act barriers to asylum procedures. The government is also building electronic border systems and weighing stricter SIM registration for foreign nationals.
 
 </div>
 

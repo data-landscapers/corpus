@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: TUN
 ledger_rows: 67
 not_held: 5
-record: e68db9cc3e8b
+record: 189e2d985419
 ---
 
 # News, Sep – Oct 2026
@@ -338,7 +338,7 @@ Tunisia's Council of Ministers, chaired by President Kais Saied, discussed a dra
 
 **[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
 
-2026 exam season: Algeria confines cuts to exam centres, Sudan orders 10 shutdowns, Tunisia joins offenders.
+Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: XAF
 ledger_rows: 127
 not_held: 3
-record: 4e49b2367821
+record: 5ab55748b50d
 ---
 
 # News, Sep – Oct 2026
@@ -982,7 +982,7 @@ African public agencies are starting to buy locally built AI tools for welfare, 
 
 **[Unblocking Domestic Resource Mobilization through AI Tools: Introducing the Optimizing African Revenue Authorities for Responsible AI Adoption Project](https://developmentgateway.org/blog/unblocking-domestic-resource-mobilization-through-ai-tools-introducing-the-optimizing-african-revenue-authorities-for-responsible-ai-adoption-project/)** — Development Gateway, 28 October 2026
 
-12-month Hewlett-backed project; AI-readiness benchmark across 45 ATAF members, roadmaps for three authorities.
+The African Tax Administration Forum and Development Gateway launched a 12-month project, backed by the Hewlett Foundation, on responsible use of AI by African revenue authorities. It will survey AI readiness across ATAF's 45 member states to set a continental benchmark. Three selected authorities will get help to draft AI strategies and roadmaps.
 
 </div>
 
@@ -2286,7 +2286,7 @@ The African Telecommunications Union's secretary general, John Omo, called for s
 
 **[AUC Chairperson & H.E. Sergey Lavrov signed the AU Commission–Russian Federation Action Plan 2027–2029](https://www.au.int/en/pressreleases/20261028/signature-au-commission-russian-federation-action-plan-2027-2029)** — African Union Commission, 28 October 2026
 
-Signed 28 Oct 2026 in Moscow; 19 areas incl. AI, digital transformation, cybersecurity; non-binding.
+The AU Commission and Russia signed a non-binding Action Plan for 2027-2029 in Moscow on 28 October 2026, at the third Russia-Africa Summit. It spans 19 areas of cooperation. Its science and technology priorities include AI, digital transformation, cybersecurity and space technology, with joint work on AI-based early-warning systems.
 
 </div>
 

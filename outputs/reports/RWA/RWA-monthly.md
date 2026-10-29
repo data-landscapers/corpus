@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: RWA
 ledger_rows: 57
 not_held: 7
-record: 12eca46e647b
+record: 677bf10e7f9d
 ---
 
 # News, Sep – Oct 2026
@@ -290,7 +290,7 @@ Paratus said its 2,000km Goma-to-Mombasa terrestrial fibre route is live and car
 
 **[Rwanda Seeks $386 Million From South Korean Telecom Over 4G Dispute](https://www.ktpress.rw/2026/10/rwanda-seeks-386-million-from-south-korean-telecom-over-4g-dispute/)** — KT Press, 28 October 2026
 
-Counterclaim filed 20 Oct 2026 at the PCA against KT's $152m put-option exit; 4G exclusivity ended by RURA in 2023.
+Rwanda filed a $386 million counterclaim against South Korea's KT Corporation at the Permanent Court of Arbitration on 20 October 2026. The dispute concerns their 4G joint venture, KT Rwanda Networks. KT had sought about $152 million in March 2026 to exit the venture. RURA ended the venture's 4G wholesale exclusivity in 2023; neither claim has been decided.
 
 </div>
 
@@ -812,7 +812,7 @@ The National Institute of Statistics of Rwanda built a model that assigns indust
 
 **[Talent Pipelines Versus Compute Limits: Inside Rwanda’s AI Skills Agreement](https://techafricanews.com/2026/10/28/talent-pipelines-versus-compute-limits-inside-rwandas-ai-skills-agreement/)** — Tech Africa News, 28 October 2026
 
-No new public capital or compute; AISCA grants reach 196,844 GPU-hours by Sep 2026 against a 7m-hour need.
+Rwanda's ICT ministry signed a memorandum with the AI Skills and Compute Africa Foundation in Kigali in October 2026. It covers AI skills, research and local solutions, and commits no new public money or computing capacity. By September 2026 the foundation had made 42 grants in 14 countries. It uses 50 NVIDIA H200 GPUs given by Cassava Technologies.
 
 </div>
 

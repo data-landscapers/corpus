@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: NGA
 ledger_rows: 178
 not_held: 9
-record: 248e301078f6
+record: c6afb03a8baf
 ---
 
 # News, Sep – Oct 2026
@@ -2004,7 +2004,7 @@ EBANX became the first international payments provider to offer OPay Direct Debi
 
 **[22 Financial institutions yet to begin data localisation — NITDA survey](https://www.vanguardngr.com/2026/10/22-financial-institutions-yet-to-begin-data-localisation-nitda-survey/)** — Vanguard, 28 October 2026
 
-Self-reported: 59% on track, 34% at risk; only 18% migrating; 64% want 'payment transaction data' defined.
+A NITDA survey of 44 financial institutions found 22 had not begun meeting Nigeria's payment data localisation rules. The deadline is 1 January 2027. The survey was presented at a NITDA-CBN dialogue in Lagos. On their own answers, 59% of firms were on track and 34% at risk. Most asked for a definition of payment transaction data.
 
 </div>
 
@@ -2012,7 +2012,7 @@ Self-reported: 59% on track, 34% at risk; only 18% migrating; 64% want 'payment 
 
 **[CBN warns banks on cybersecurity risks as cloud dependence grows](https://businessday.ng/news/article/cbn-warns-banks-on-cybersecurity-risks-as-cloud-dependence-grows/)** — BusinessDay Nigeria, 28 October 2026
 
-CBN-NITDA dialogue on sovereign cloud; 1 Jan 2027 payment-data deadline; finance sector first to comply.
+CBN deputy governor Lamido Abubakar Yuguda spoke at a CBN-NITDA dialogue in Lagos on the National Sovereign Cloud Initiative. He told banks that keeping data in Nigeria does not by itself make it secure. Regulated institutions stay responsible for risks from cloud providers. They must hold critical payment data in Nigeria by 1 January 2027.
 
 </div>
 
@@ -2026,7 +2026,7 @@ CBN-NITDA dialogue on sovereign cloud; 1 Jan 2027 payment-data deadline; finance
 
 **[Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria](https://techcabal.com/2026/10/28/mastercard-interswitch-launch-google-pay/)** — TechCabal, 28 October 2026
 
-Tokenised NFC tap-to-pay on Android for FirstBank, GTBank, UBA and Zenith Mastercard cards.
+Mastercard and Interswitch launched Google Pay contactless payments for eligible Mastercard holders in Nigeria, using Mastercard tokenisation and Interswitch links to issuing banks. Supported cards include those of FirstBank, GTBank, UBA and Zenith. On 26 October 2026 Interswitch announced tap-to-pay tokenisation with five banks.
 
 </div>
 

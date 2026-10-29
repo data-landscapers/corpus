@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: CIV
 ledger_rows: 54
 not_held: 10
-record: e9765354213a
+record: 00f7a0106d12
 ---
 
 # News, Sep – Oct 2026
@@ -362,7 +362,7 @@ Côte d'Ivoire's information-systems security agency will run a first national c
 
 **[CYBER.EX 2026 : l’ANSSI veut préparer la Côte d’Ivoire aux crises numériques](https://www.linfodrome.com/societe/126972-cyber-ex-2026-l-anssi-veut-preparer-la-cote-d-ivoire-aux-crises-numeriques)** — Linfodrome, 28 October 2026
 
-First edition held 28 Oct 2026; simulated attacks test administrations, firms and security forces on crisis response.
+Côte d'Ivoire's cybersecurity agency ANSSI opened CYBER.EX 2026, the country's first national cyber-crisis exercise, on 28 October 2026. It tests how government bodies, companies and the defence and security forces respond to a simulated cyberattack and work together.
 
 </div>
 

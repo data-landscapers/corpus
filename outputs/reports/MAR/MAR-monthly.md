@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: MAR
 ledger_rows: 42
 not_held: 14
-record: fe49802765dc
+record: 20ab59358cbc
 ---
 
 # News, Sep – Oct 2026
@@ -90,7 +90,7 @@ The cabinet adopted draft finance law 60-26 for 2027 on 20 October 2026. The fin
 
 **[Publicité : Meta applique la TVA au Maroc dès octobre](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)** — Hespress FR, 25 September 2026
 
-20% VAT on Moroccan ad accounts without a tax ID from 1 October 2026; decree 2.25.862 and DGI platform behind it.
+Meta told advertisers in Morocco that it will add 20% VAT to ad purchases from 1 October 2026. This applies to accounts that name Morocco as the country of sale but give no tax number. Advertisers who enter their number account for the tax themselves under reverse-charge rules. Morocco set out its VAT regime for foreign digital services in a decree of 27 November 2025.
 
 </div>
 

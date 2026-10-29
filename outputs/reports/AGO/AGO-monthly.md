@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: AGO
 ledger_rows: 51
 not_held: 6
-record: 6e364223952a
+record: d243afce3beb
 ---
 
 # News, Sep – Oct 2026
@@ -686,7 +686,7 @@ President João Lourenço said Angola is implementing SINGERH, an integrated hum
 
 **[Mais de 31 mil funcionários públicos suspeitos de serem 'fantasma' terão de provar efectividade, diz MAPTSS](https://www.novojornal.co.ao/sociedade/detalhe/mais-de-31-mil-funcionarios-publicos-suspeitos-de-serem-fantasma-terao-de-provar-efectividade-diz-maptss-75684.html)** — Novo Jornal, 28 October 2026
 
-31,000+ suspected ghost workers flagged; 300,000+ civil servants registered Jan-Sept 2026 as SINGERH goes live.
+Angola's Ministry of Public Administration, Labour and Social Security launched SINGERH, a single human-resources database for the civil service, on 28 October 2026. Minister Teresa Rodrigues Dias said more than 31,000 staff listed as active could not be validated and are suspected of being 'ghost' workers. Over 300,000 public servants were registered between January and September 2026.
 
 </div>
 

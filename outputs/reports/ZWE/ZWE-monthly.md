@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-29
 place: ZWE
 ledger_rows: 51
 not_held: 6
-record: 79a3931fd8ab
+record: 89423ea2cca9
 ---
 
 # News, Sep – Oct 2026
@@ -276,7 +276,7 @@ Zimbabwe's ICT ministry said its permanent secretary, Beaullah Chirume, has been
 
 **[Press Release: Zimbabwe ranks 14th out of 29 in the latest digital rights and inclusion report](https://paradigmhq.org/press-release-zimbabwe-ranks-14th-out-of-29-in-the-latest-digital-rights-and-inclusion-report/)** — Paradigm Initiative, 26 October 2026
 
-Down four places; no 2025 shutdown, but sedition and false-news arrests; no law on digital IDs or emerging tech.
+Paradigm Initiative's Londa 2025 report ranks Zimbabwe 14th of 29 African countries on digital rights and inclusion. That is four places lower than before. It records no internet shutdown in 2025, but continued arrests of journalists and use of sedition and false-news laws. It urges laws on online gender-based violence and rights assessments before surveillance projects.
 
 </div>
 
@@ -902,7 +902,7 @@ Zimbabwe's internet and data traffic rose 57.28% in the first quarter of 2026, t
 
 **[Zimbabwe to fully operationalise Pangolin AI platform by Q1 2027](https://techreviewafrica.com/news/7993/zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027)** — Tech Review Africa, 28 October 2026
 
-Federated design keeps ministry data local behind privacy-preserving APIs; public datasets pooled.
+Zimbabwe's ICT minister Tatenda Mavetera said the national AI and data platform, Pangolin AI, will be fully operational in the first quarter of 2027. The platform pools public health, agriculture and education data, while sensitive ministry data stays on local servers behind privacy-preserving interfaces. Her address was read at the POTRAZ-NUST Research and Innovation Symposium in Bulawayo.
 
 </div>
 
@@ -918,7 +918,7 @@ Federated design keeps ministry data local behind privacy-preserving APIs; publi
 
 **[Zim to launch a third satellite](https://newsday.co.zw/article/zim-to-launch-a-third-satellite)** — NewsDay, 28 October 2026
 
-Announced at AARSE conference, Harare, week of 26 Oct 2026; shift from foreign imagery to own earth-observation data.
+Zimbabwe is preparing to launch a third satellite, said Fanuel Tagwira, permanent secretary of the higher education, innovation, science and technology ministry. He spoke at the AARSE International Conference in Harare, which opened on 26 October 2026. No launch date was given.
 
 </div>
 
