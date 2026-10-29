@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-13-mar-add-silence-on-digitalise",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "The ADD says the Label JEI, created in 2019, has benefited more than 540 startups out of 1,303 applications, with an international payment card allowance of up to 1 million dirhams a year.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Label JEI",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

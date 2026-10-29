@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MAR,startuppolicy,law,coverage,adopted,2026-08-03,MAR-001;MAR-002,,
-MAR,startuppolicy,labelled,coverage,,,,,nothing held
-MAR,startuppolicy,funded,coverage,,,,,nothing held
+MAR,startuppolicy,labelled,coverage,labelled,2025-04,MAR-003,,
+MAR,startuppolicy,funded,coverage,,,,,nothing found

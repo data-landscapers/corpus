@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "3",
-   "law": "adopted",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001;MAR-002",
-   "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "4",
+      "law": "adopted",
+      "labelled": "labelled",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-003;MAR-001;MAR-002",
+      "gaps": "No source found since October 2023 says a public fund under the law or strategy has financed startups, with investments named or counted.",
+      "note": "Over 540 startups held the JEI label by April 2025, with a payment-card allowance applied to them, and the 2026 decree sets the public startup fund's rules, so stage 4. No investment by the fund is named or counted.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

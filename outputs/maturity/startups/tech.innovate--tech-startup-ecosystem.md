@@ -21,8 +21,8 @@ The Digital Transformation Strategy and the AU Startup Model Law Framework ask f
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 7 |
-| 3 Established | 8 |
+| 4 Operating | 8 |
+| 3 Established | 7 |
 | 2 Nascent | 16 |
 | 1 Absent | 2 |
 | Unplaced | 0 |
@@ -85,6 +85,14 @@ Startups were labelled under the startup law or strategy in 2026; no source foun
 
 - Clyde & Co reports companies apply to MSMEDA for a Startup Classification Certificate, which gives an official Startup Label in 5 days (fast track) or 14 days (regular), qualifying them for the Charter's incentives ([source, 2026-02-18](https://www.clydeco.com/en/insights/2026/02/egypt-launches-first-national-startup-charter)).
 
+### Morocco: 4 Operating
+
+Over 540 startups held the state's innovative-startup label by 2025; investments by the 2026 public startup fund are not known.
+
+- The ADD says the Label JEI, created in 2019, has benefited more than 540 startups out of 1,303 applications, with an international payment card allowance of up to 1 million dirhams a year ([source, 2025-04](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
+- Decree No. 2.26.576 of 3 August 2026 strengthened the regulatory framework of the Startup Catalytic Fund, set up by the Ministry of Digital Transition and Administration Reform and managed by Tamwilcom, with $36 million public money over three years into venture capital funds, per The Morocco Post ([source, 2026-08-03](https://themoroccopost.com/morocco-targets-258-million-in-startup-financing-through-new-venture-capital-mechanism/)).
+- Decree 2.26.576 of 3 August 2026 authorises Tamwilcom to take stakes for the Fonds Catalytique Startups in funds investing in startups, capped at 347 million dirhams over three years, under the Digital Morocco 2030 strategy ([source, 2026-08-03](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/)).
+
 ### Nigeria: 4 Operating
 
 Startups were labelled under the startup law or strategy in 2025; no source found reports a public fund under it.
@@ -127,13 +135,6 @@ A startup law or strategy was adopted by 2024; startups labelled under it are no
 
 - Webmanagercenter states Mauritania has Law No. 2024-002 on technological and innovative startups ([source, 2024](https://www.webmanagercenter.com/2026/09/25/573435/mauritanie-fintech-la-mauritanie-peut-elle-devenir-un-laboratoire-numerique-regional/)).
 - The digital ministry's page lists Loi n° 2024-002 P.R on technological and innovative startups, dated 2 January 2024 ([source, 2024-01-02](https://mtnima.gov.mr/fr/loi-de-startup/)).
-
-### Morocco: 3 Established
-
-A startup law or strategy was adopted by 2026; startups labelled under it are not on record.
-
-- Decree No. 2.26.576 of 3 August 2026 strengthened the regulatory framework of the Startup Catalytic Fund, set up by the Ministry of Digital Transition and Administration Reform and managed by Tamwilcom, with $36 million public money over three years into venture capital funds, per The Morocco Post ([source, 2026-08-03](https://themoroccopost.com/morocco-targets-258-million-in-startup-financing-through-new-venture-capital-mechanism/)).
-- Decree 2.26.576 of 3 August 2026 authorises Tamwilcom to take stakes for the Fonds Catalytique Startups in funds investing in startups, capped at 347 million dirhams over three years, under the Digital Morocco 2030 strategy ([source, 2026-08-03](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/)).
 
 ### Sao Tome and Principe: 3 Established
 
