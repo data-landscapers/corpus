@@ -1,12 +1,12 @@
 ---
 title: Sudan: status report
-compiled: 2026-10-28
+compiled: 2026-10-29
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 173
+sources_cited: 174
 sections_written: 39
 not_established: 7
 acquire_lines: 49
@@ -91,7 +91,7 @@ Those figures sit on a footing better than Sudan's wider governance position wou
 
 International capacity has never been the constraint. [Four submarine systems — EASSy, FALCON, SAS-1 and SAS-2 — land at Port Sudan](https://documents1.worldbank.org/curated/en/099062323175524277/pdf/P176361015e0f50d10b59f0191913079f51.pdf), and the World Bank judged first-mile connectivity sufficient, with [used international bandwidth reaching 245 Gbps for a population of 42.8 million in 2019](https://documents1.worldbank.org/curated/en/099062323175524277/pdf/P176361015e0f50d10b59f0191913079f51.pdf). The [single exchange point, SIXP, carried four members at 1 Gbps each in August 2026, three of them valid under route-origin authorisation, with no network having joined or left in the preceding twelve months](https://pulse.internetsociety.org/en/ixp-tracker/ixp/660/).
 
-What the penetration figures do not show is the terms of access. By March 2026, [shutdowns of land-based internet by the Sudanese Armed Forces had put the online application for humanitarian group cash transfers out of reach across much of the country, with groups in Darfur nominating one member to travel to a town Starlink terminal to file](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf), exposing them to transit risk and to a reseller who may be aligned with a party to the conflict. Getting on the network at all requires the national identity number, since [SIM registration is verified against the national ID platform](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf), and the network itself is [concentrated in Khartoum and a handful of urban centres](https://freedomhouse.org/index.php/country/sudan/freedom-net/2025). [A binding tripartite agreement covers a fibre corridor of about 2,800 km from Djibouti's subsea landings through Ethiopia to Port Sudan](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/), and [the incumbent's group reports over 25,000 km of terrestrial fibre, with 1,586 km added in 2025](https://sudatel.sd/en/fy2025-results/). [An armed group ordered satellite internet services cut off indefinitely in a West Kordofan locality from 26 August 2026](https://sudantribune.net/article/317878).
+What the penetration figures do not show is the terms of access. By March 2026, [shutdowns of land-based internet by the Sudanese Armed Forces had put the online application for humanitarian group cash transfers out of reach across much of the country, with groups in Darfur nominating one member to travel to a town Starlink terminal to file](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf), exposing them to transit risk and to a reseller who may be aligned with a party to the conflict. [The government ordered ten internet shutdowns between 13 and 23 April 2026 during school examinations, the sixth consecutive year it has cut connectivity for exams](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/). Getting on the network at all requires the national identity number, since [SIM registration is verified against the national ID platform](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf), and the network itself is [concentrated in Khartoum and a handful of urban centres](https://freedomhouse.org/index.php/country/sudan/freedom-net/2025). [A binding tripartite agreement covers a fibre corridor of about 2,800 km from Djibouti's subsea landings through Ethiopia to Port Sudan](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/), and [the incumbent's group reports over 25,000 km of terrestrial fibre, with 1,586 km added in 2025](https://sudatel.sd/en/fy2025-results/). [An armed group ordered satellite internet services cut off indefinitely in a West Kordofan locality from 26 August 2026](https://sudantribune.net/article/317878).
 
 ### Data Storage
 <!-- infra.store -->
