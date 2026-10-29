@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: MWI
-ledger_rows: 54
+ledger_rows: 55
 not_held: 31
-record: 77f92160814e
+record: f4e2f7ff3bb1
 ---
 
 # News, Sep – Oct 2026
@@ -334,6 +334,20 @@ The Malawi Communications Regulatory Authority opened an investigation, by notic
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open Connect Limited wholesale fibre network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Proposed acquisition of assets of Open Connect Limited by Telekom Networks Malawi Plc](https://www.cftc.mw/2026/10/27/proposed-acquisition-of-assets-of-open-connect-limited-by-telekom-networks-malawi-plc/)** — Competition and Fair Trading Commission of Malawi, 27 October 2026
+
+MK23.5bn for fibre, data centre and contracts; open-access, structural separation and 3-year MoU conditions.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -395,6 +409,14 @@ Converged Technology Networks' chief executive, Brian Munyao Longwe, wrote on 9 
 **[TNM expands Malawi data infrastructure](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8)** — ITWeb Africa, 11 September 2026
 
 Telekom Networks Malawi bought OpenConnect Limited's Tier 3 data centre at Kanengo, Lilongwe, for K12 billion, about US$6.9 million, unveiling it on 11 September 2026. TNM will link it with its Limbe data centre into one cloud platform to offer data centre as a service and host local AI platforms.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Proposed acquisition of assets of Open Connect Limited by Telekom Networks Malawi Plc](https://www.cftc.mw/2026/10/27/proposed-acquisition-of-assets-of-open-connect-limited-by-telekom-networks-malawi-plc/)** — Competition and Fair Trading Commission of Malawi, 27 October 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
