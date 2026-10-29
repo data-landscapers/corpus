@@ -69,4 +69,4 @@ BUILD stage 4 is model authoring across forty-odd units; the render half deserve
 
 ## Why Research's index build runs last
 
-The build takes most of the CPU and RAM, so it runs where nothing competes with it: after the render, the R2 pull and, under `/poll`, the housekeeping job. The mirror is current when a cycle starts, so running late costs nothing. It resumes from its last batch, so a failure never holds a cycle.
+The build takes most of the CPU and RAM, so it runs where nothing competes with it: after the render, the R2 pull and, under the poll, the housekeeping job. The mirror is current when a cycle starts, so running late costs nothing. It resumes from its last batch, so a failure never holds a cycle.

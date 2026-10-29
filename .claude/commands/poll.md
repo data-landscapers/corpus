@@ -1,46 +1,10 @@
 ---
-description: Watch for a closed sweep cycle and run CYCLE.md when one lands
-argument-hint: "[interval, default 30m]"
+description: Say whether the automatic poll is running; it is never armed by hand
 ---
 
-Arm the sweep-cycle poll for this session. `$ARGUMENTS` is the interval if one was given,
-otherwise use `30m`.
+**The poll is automatic** *(Bill, 2026-10-29)*: `scripts/poll-loop.py` runs in the
+`CORPUS-POLL` terminal tab, which starts it, every 30 minutes from 22:00 to 06:00. It opens
+`/cycle` or `/poll-alert` in a new tab when there is work. Never arm a `/loop` or a cron for it.
 
-Do these three things and nothing else — no exploring the repo, no reading the runbooks,
-no work of your own. This command exists to be typed into a clean session and answered in
-one turn.
-
-1. **Report the state in four lines**: the output of `python scripts/osint-cycle-ready.py`,
-   of `python scripts/osint-cycle-ready.py --status` and of `python scripts/deploy-state.py`,
-   and — if the trigger reads ready — say plainly that arming will start a full BUILD+RENDER
-   now, so Bill can stop you.
-2. **Arm the loop.** Invoke the `loop` skill with the interval, then this prompt verbatim:
-
-   > From C:\CORPUS, first run `python scripts/deploy-state.py --fix --quiet`. On exit 2,
-   > unless `C:\corpus-osint-xfer\messages-for-bill.md` already holds a `· deploy` block quoting the same
-   > line: write that block (replace an older one), commit and push it in the share, and send
-   > the line with the `PushNotification` tool. On exit 0, delete a `· deploy` block if one is
-   > open, commit and push the share. On exit 1 or 3 do nothing.
-   > Then run `python scripts/osint-cycle-ready.py --claim`. On exit 1, run
-   > `python scripts/corpus-status.py --gates`: if it prints anything, show those lines and
-   > nothing else; if it prints nothing, stop the turn and say nothing. On exit 2 — a critical
-   > error, the only thing that stops the loop — write one block in
-   > `C:\corpus-osint-xfer\messages-for-bill.md` quoting the message, send it with
-   > `PushNotification`, then stop the loop. On exit 0, run `CYCLE.md` end to end — every
-   > step of *The run*, in its order, passing `--poll` to `python scripts/unit-review.py next` —
-   > following its unattended rules: never stop to ask, leave anything needing Bill in
-   > `C:\corpus-osint-xfer\messages-for-bill.md`. Finish with `python scripts/osint-cycle-ready.py --done`.
-   > Then work the oldest open job in `C:\corpus-osint-xfer\corpus-housekeeping.md`, if there is one, once.
-   > Then, alone, run `CYCLE.md` step 8 (Research's index build) — skipped until now so it runs last.
-   > Before standing down, check `C:\corpus-osint-xfer` for uncommitted work, commit it
-   > naming OSINT in the subject if the work is OSINT's, and push immediately. End on the
-   > output of `python scripts/corpus-status.py`.
-
-3. **Say what would kill it**: the job is session-only, so a reboot or closing the window
-   ends it — and that a lost poller costs a delay and not a night, because the watermark is
-   not advanced and the close is still waiting when a session next polls.
-
-**What the trigger is and why it reads a closed row rather than a timestamp** is
-`CYCLE.md` -> *What starts a cycle*, and the reasoning is in the head of
-`scripts/osint-cycle-ready.py`. Read either only if something looks wrong; this command
-does not need them to do its job.
+Do one thing: say in one line whether a `python … poll-loop.py` process is running, and if
+it is not, that Bill starts it by opening the `CORPUS-POLL` tab (`scripts\batches\corpus-poll.bat`).

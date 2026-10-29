@@ -35,7 +35,7 @@ A record arriving between the drain and stage 2 is built like any other. The sou
 
 ## The unit review runs at the seam, on unattended cycles only
 
-**Two countries or regions a cycle have all their reports reviewed whole** *(Bill, 2026-09-17)*: `UNIT-REVIEW.md` is the procedure and `scripts/unit-review.py` picks the units and says whether a review is owed — only on a cycle started by `/poll` or between 21:00 and 05:00, so a daytime hand-run cycle skips it. **It runs after the build and before the render** so the render publishes what it repaired; it skips itself if the build half did not finish, and a review that fails restores the unit to `HEAD` and never holds the render.
+**Two countries or regions a cycle have all their reports reviewed whole** *(Bill, 2026-09-17)*: `UNIT-REVIEW.md` is the procedure and `scripts/unit-review.py` picks the units and says whether a review is owed — only on a cycle started by the poll or between 21:00 and 05:00, so a daytime hand-run cycle skips it. **It runs after the build and before the render** so the render publishes what it repaired; it skips itself if the build half did not finish, and a review that fails restores the unit to `HEAD` and never holds the render.
 
 ## The seam is a job boundary, not a joint
 
@@ -54,7 +54,7 @@ A record arriving between the drain and stage 2 is built like any other. The sou
 5. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
 6. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
 7. **Run `python scripts/r2-sync.py --mirror-down --weekly`** — the second copy of the editions; it does nothing inside a week of its last clean pull. When it pulls, log its line: `python scripts/log-line.py copy "<the R2 copy line>"`. Exit 1 is a message to Bill.
-8. **Rebuild Research's search index, last and alone** *(Bill, 2026-10-29)* — under `/poll`, after housekeeping. `C:\Research\handovers\index-build-for-corpus.md` is the procedure; log it as `log-line.py index`. Failure: a line to Bill, never a hold.
+8. **Rebuild Research's search index, last and alone** *(Bill, 2026-10-29)* — under the poll, after housekeeping. `C:\Research\handovers\index-build-for-corpus.md` is the procedure; log it as `log-line.py index`. Failure: a line to Bill, never a hold.
 
 The cycle has no stage of its own; steps 1, 4 and 8 are jobs run where they count.
 
@@ -73,12 +73,12 @@ Both halves forbid stopping to ask; the cycle and **every agent it briefs** inhe
 
 **A cycle is owed when a sweep cycle has closed and Corpus has not built since.** The discriminator is the **closed row** in `cycle-manifest.json`, not the mirror copy. `osint-cycle-ready.py` is that judgement: exit **0** ready, **1** not ready, **2** needs a human.
 
-**`/poll` arms it**; `.claude/commands/poll.md` holds the loop's prompt.
+**`scripts/poll-loop.py` runs it** *(Bill, 2026-10-29)*: half-hourly, 22:00 to 06:00, in the `CORPUS-POLL` tab.
 
-- **Under `/poll`, only a critical error stops a cycle** *(Bill, 2026-10-23)*: exit 2, a message, a push notification, the loop stopped. Uncommitted work is committed first, an open OSINT day is left to the catalogue pin, a dead claim or sentinel is resumed. The trigger's head says what counts as critical.
+- **Under the poll, only a critical error stops a cycle** *(Bill, 2026-10-23)*: exit 2, a message, a push notification, the loop stopped. Uncommitted work is committed first, an open OSINT day is left to the catalogue pin, a dead claim or sentinel is resumed. The trigger's head says what counts as critical.
 - **`logs/.hold-cycle` is Bill's switch, the one hold left.** It defers a close without consuming it, and `scripts/corpus-status.py` reports it as a gate.
-- **A tick that does not fire stays silent unless a gate is open**, which `corpus-status.py --gates` prints.
-- **Every close fires; there is no minimum interval.** Bill starts `/loop` when he initiates `SWEEP-CYCLE`.
+- **A tick that does not fire prints one line**, with any gate `corpus-status.py --gates` reports.
+- **Every close fires; there is no minimum interval.**
 - **`--skip` passes a close over and loses nothing**: for a night not worth a cycle, or one a cycle starting now supersedes.
 - **`--claim` before, `--done` after**; a hand-run cycle need not call `--done`, at the cost of one redundant cycle. `--release` clears a claim by hand.
 

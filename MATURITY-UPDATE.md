@@ -75,7 +75,7 @@ Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival
 **Stage 4c never looks back**: a cell staged on a 2023 figure stays there until a document happens to arrive. The rebuild does.
 
 ```bash
-python scripts/study-update.py next --poll    # from the /poll loop
+python scripts/study-update.py next --poll    # polled
 python scripts/study-update.py next           # any other cycle
 ```
 
