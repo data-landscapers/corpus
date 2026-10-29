@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-10-27
+compiled: 2026-10-29
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 177
+sources_cited: 178
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -141,7 +141,7 @@ There is [no national fibre backbone](https://www.agenceecofin.com/actualites-nu
 
 The national digital strategy plans [a phased Centro Nacional de Dados, beginning at small scale, to end the fragmentation of small processing centres spread across ministries and to serve as a test-bed for private-sector projects — and states that its viability depends on reliable electricity, which the strategy places outside its own scope](http://faolex.fao.org/docs/pdf/gbs235634.pdf).
 
-Nothing commercial fills the gap in the meantime. [No top-five cloud provider had an established or announced public cloud region anywhere in West Africa](https://cms.d4dhub.eu/assets/West-Africa-Data-Center-Markets-Brief.pdf) (early 2025), and [a Tier III colocation data centre positioned to serve the WAEMU bloc broke ground in Abidjan in November 2022](https://www.raxiogroup.com/raxio-group-breaks-ground-for-construction-of-raxio-abidjan-in-cote-divoire/). The effect shows in public data: [the country's national summary data page is hosted on a national Open Data Platform provided by the African Development Bank](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system).
+[A contractor completed a 2,124 square-metre data centre of Tier 3 design for Orange Bissau at Nhacra in February 2025](https://sextant-cpi.com/projects/datacenter-ogb/), and no date of its entry into service has been found. [No top-five cloud provider had an established or announced public cloud region anywhere in West Africa](https://cms.d4dhub.eu/assets/West-Africa-Data-Center-Markets-Brief.pdf) (early 2025), and [a Tier III colocation data centre positioned to serve the WAEMU bloc broke ground in Abidjan in November 2022](https://www.raxiogroup.com/raxio-group-breaks-ground-for-construction-of-raxio-abidjan-in-cote-divoire/). The effect shows in public data: [the country's national summary data page is hosted on a national Open Data Platform provided by the African Development Bank](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system).
 
 ### Energy
 <!-- infra.energy -->
