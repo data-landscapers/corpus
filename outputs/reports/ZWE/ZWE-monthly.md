@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: ZWE
-ledger_rows: 48
+ledger_rows: 51
 not_held: 6
-record: ca289fca5f76
+record: 79a3931fd8ab
 ---
 
 # News, Sep – Oct 2026
@@ -26,6 +26,8 @@ record: ca289fca5f76
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -261,6 +263,20 @@ ZIMRA's acting commissioner general told the continental exchange-of-information
 **[DR. B. Chirume Appointed To Parliamentary Committee Of The Future As Zimbabwe Eyes 30-Year Digital Roadmap](https://technomag.co.zw/dr-b-chirume-appointed-to-parliamentary-committee-of-the-future-as-zimbabwe-eyes-30-year-digital-roadmap/)** — TechnoMag, 4 September 2026
 
 Zimbabwe's ICT ministry said its permanent secretary, Beaullah Chirume, has been appointed to Parliament's Committee of the Future, which plans a 30-year outlook tied to Vision 2056. TechnoMag reports the committee is expected to plan for AI, cybersecurity and rural connectivity, and notes ZIMPOST's 300-plus offices are being repurposed for digital inclusion.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Londa digital rights and inclusion score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Press Release: Zimbabwe ranks 14th out of 29 in the latest digital rights and inclusion report](https://paradigmhq.org/press-release-zimbabwe-ranks-14th-out-of-29-in-the-latest-digital-rights-and-inclusion-report/)** — Paradigm Initiative, 26 October 2026
+
+Down four places; no 2025 shutdown, but sedition and false-news arrests; no law on digital IDs or emerging tech.
 
 </div>
 
@@ -863,6 +879,46 @@ Zimbabwe's telecoms regulator, POTRAZ, held a five-day ICT skills workshop in Ch
 **[Zimbabwe's internet traffic jumps 57%](https://itweb.africa/article/zimbabwes-internet-traffic-jumps-57/KzQenvjyjlgqZd2r)** — ITWeb Africa, 4 September 2026
 
 Zimbabwe's internet and data traffic rose 57.28% in the first quarter of 2026, the regulator reported, attributing it to faster LTE and 5G deployment, rising smartphone adoption and data-hungry applications. Operators added 13 5G base stations in the quarter to reach 379, covering 18.94% of the population, and deployed 161 further LTE sites; mobile internet and data was the largest revenue contributor at 46.34% of quarterly operator revenue.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#open-data">Open data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#use-of-satellite-data">Use of satellite data</a>
+</nav>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National artificial-intelligence and data platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zimbabwe to fully operationalise Pangolin AI platform by Q1 2027](https://techreviewafrica.com/news/7993/zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027)** — Tech Review Africa, 28 October 2026
+
+Federated design keeps ministry data local behind privacy-preserving APIs; public datasets pooled.
+
+</div>
+
+</div>
+
+### Use of satellite data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third national satellite</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zim to launch a third satellite](https://newsday.co.zw/article/zim-to-launch-a-third-satellite)** — NewsDay, 28 October 2026
+
+Announced at AARSE conference, Harare, week of 26 Oct 2026; shift from foreign imagery to own earth-observation data.
 
 </div>
 
