@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: XCA
-ledger_rows: 18
+ledger_rows: 19
 not_held: 0
-record: 78117f8e4285
+record: 521763afb2f6
 ---
 
 # News, Sep – Oct 2026
@@ -204,6 +204,8 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
 <a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ai">AI</a>
 </nav>
 
 ### Standards
@@ -247,6 +249,22 @@ A workshop of the African Development Bank, CEMAC and UNFPA in Libreville on SDM
 **[Statistiques et données : Les pays de l'Afrique Centrale sur la même longueur d'ondes](https://gabonactu.com/blog/2026/09/20/statistiques-et-donnees-les-pays-de-lafrique-centrale-sur-la-meme-longueur-dondes/)** — Gabonactu.com, 20 September 2026
 
 A five-day African Development Bank, CEMAC and UNFPA workshop closed at Libreville with a 2026-2029 calendar for migrating the six member states to SDMX and version 2.0 of the Open Data Platform. The stated aim is not to make the national statistical systems uniform but to define common structures that let them interoperate; 14 recommendations were addressed to the institutes, the Commission, the Bank and the World Bank.
+
+</div>
+
+</div>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COBAC use of artificial intelligence in prudential supervision</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CEMAC | SUPTECH : La COBAC se penche sur l’usage de l’intelligence artificielle dans la régulation bancaire](https://droitmediasfinance.com/index.php/actualites/droit-bancaire/1424-cemac-suptech-la-cobac-annonce-lusage-de-lintelligence-artificielle-dans-la-regulation-bancaire)** — Droit Médias Finance, 25 October 2026
+
+2025 annual report signals gradual AI use on prudential data under OWALI 2025-2029; not yet a deployment.
 
 </div>
 
