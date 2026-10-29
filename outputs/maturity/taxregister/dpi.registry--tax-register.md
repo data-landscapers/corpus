@@ -22,11 +22,11 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 10 |
-| 3 Established | 17 |
+| 3 Established | 18 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 17 |
-| No evidence | 8 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -168,6 +168,13 @@ Taxpayers were registered on computer in 2026; no source found reports a number 
 Taxpayers were registered on computer in 2025; no source found reports a number shared with business registration or customs.
 
 - The Tax Administration (Electronic System) Rules, 2025, made 4 August 2025 by the Commissioner General, require taxpayers to be registered electronically and the Commissioner General to keep an electronic register of taxpayers ([source, 2025-08-04](https://media.malawilii.org/media/legislation/15001/source_file/0deaa96755badce1/tax-administration-electronic-system-rules-2025.pdf)).
+
+### Morocco: 3 Established
+
+Since 2026 a tax platform registers foreign digital-service providers and issues their numbers online; registers for other taxpayers are not known.
+
+- The Direction generale des impots launched in May 2026 the electronic platform 'Taxation on Digital Services' for non-resident foreign providers to register, declare their Moroccan turnover and pay VAT, under decree 2.25.862 of 27 November 2025 ([source, 2026-05](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)).
+- Decree 2.25.862 of 27 November 2025 requires non-resident remote service suppliers to register on an electronic platform set up by the tax administration, which then issues them a tax identification number electronically; it enters into force six months after publication ([source, 2025-11-27](https://ecoactu.ma/wp-content/uploads/2025/12/decret-pour-la-TVA-sur-les-services-a-distance-au-Maroc-fournis-par-des-prestataires-non-residents-Art-115-Bis-du-CGI.pdf)).
 
 ### Seychelles: 3 Established
 
@@ -348,12 +355,6 @@ Nothing found names a computerised taxpayer register or says there is none, so n
 Not established: Nothing found says how taxpayers are registered.
 
 ### Libya: No evidence
-
-Nothing found names a computerised taxpayer register or says there is none, so no stage is set.
-
-Not established: Nothing found says how taxpayers are registered.
-
-### Morocco: No evidence
 
 Nothing found names a computerised taxpayer register or says there is none, so no stage is set.
 

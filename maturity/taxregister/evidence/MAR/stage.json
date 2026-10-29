@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "no evidence",
-   "register": "",
-   "shared": "",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how taxpayers are registered.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "3",
+      "register": "inservice",
+      "shared": "",
+      "nationalid": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-002;MAR-001",
+      "gaps": "No source found since October 2023 shows the register covering taxpayers other than non-resident suppliers, or says the taxpayer number is shared with business registration or customs, or tied to the national ID.",
+      "note": "The tax directorate's online platform, in service since May 2026, registers non-resident suppliers and issues their tax numbers electronically under decree 2.25.862, so stage 3. Nothing on sharing the number with business registration or customs is held.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }
