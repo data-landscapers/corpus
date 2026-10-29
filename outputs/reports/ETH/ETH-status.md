@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 223
+sources_cited: 224
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -85,7 +85,7 @@ On 23 July 2026 the National Bank [defined a virtual asset as any digital repres
 
 [The 2025 GovTech index records government participation platforms in operation, though several tested capabilities are not in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Citizen feedback channels carry complaints to government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A right-to-information regime lets the public obtain public records, with nothing published on how it performs](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In July 2024 the justice ministry launched an online consultation platform and a manual for public participation in lawmaking](https://justice.gov.et/en/news/ministry-of-justice-launches-manual-and-online-consultation-platform-for-public-and-stakeholder-participation-in-lawmaking/).
 
-[By August 2026 draft copyright amendments had been through several rounds of consultation with rights holders and justice institutions](https://www.thereporterethiopia.com/52113/). [The draft would add procedures for blocking websites and a take-down notice obliging platforms to remove content](https://www.thereporterethiopia.com/52113/).
+[By August 2026 draft copyright amendments had been through several rounds of consultation with rights holders and justice institutions](https://www.thereporterethiopia.com/52113/). [The draft would add procedures for blocking websites and a take-down notice obliging platforms to remove content](https://www.thereporterethiopia.com/52113/). [Proclamation No. 1185/2020, in force since March 2020, bans hate speech and disinformation and obliges platforms to act within 24 hours of notice](https://justice.gov.et/wp-content/uploads/2025/02/%E1%8A%A0%E1%8B%8B%E1%8C%85-%E1%89%81%E1%8C%A5%E1%88%AD-1185-2012.pdf).
 
 [Documentation and assessments for the service portal, e-procurement, participation platforms and feedback channels are kept internal](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [An Addis Ababa outlet has argued that the mandatory design of the national digital ID risks surveillance and exclusion](https://addisstandard.com/coercion-over-consent-ethiopias-dangerous-mandatory-digital-id-experiment/). [The European Union committed just under EUR 1 million over 2023–2026 against online hate speech and incitement to violence](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-23737).
 

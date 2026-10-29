@@ -3,9 +3,9 @@ title: Ethiopia — News, Sep – Oct 2026
 compiled: 2026-10-28
 period: 2026-09-01 to 2026-10-28
 place: ETH
-ledger_rows: 39
+ledger_rows: 40
 not_held: 5
-record: ffdee4c84c8b
+record: 133be73cf547
 ---
 
 # News, Sep – Oct 2026
@@ -75,6 +75,20 @@ The state news agency's account of the same Council session names the bill the N
 **[Ethiopia's Council of Ministers Advances New Legal Frameworks for State Institutions, Data Sovereignty, Defence and Economy](https://www.fanamc.com/english/ethiopias-council-of-ministers-advances-new-legal-frameworks-for-state-institutions-data-sovereignty-defence-and-economy/)** — Fana Media Corporation S.C., 28 September 2026
 
 Ethiopia's Council of Ministers unanimously sent a draft national data proclamation to parliament, framed around data security and sovereignty, data sharing and interoperability across government, and support for AI research.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Replacement postal legislation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability](https://techafricanews.com/2026/10/28/ethiopia-telecom-regulator-service-quality-affordability/)** — Tech Africa News, 28 October 2026
+
+ECA five-year review; rural-connectivity targets, spectrum and QoS enforcement, new postal law to replace 1958 E.C. text.
 
 </div>
 
