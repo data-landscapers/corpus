@@ -10,4 +10,4 @@
 
 ***Also on file***. [DHIS2](<https://www.agenceecofin.com/actualites-numerique/1304-137484-sante-le-burundi-veut-mettre-en-place-un-systeme-d-information-interoperable>); [SIDAInfo](<https://www.agenceecofin.com/actualites-numerique/1304-137484-sante-le-burundi-veut-mettre-en-place-un-systeme-d-information-interoperable>); [OpenClinic](<https://www.agenceecofin.com/actualites-numerique/1304-137484-sante-le-burundi-veut-mettre-en-place-un-systeme-d-information-interoperable>); [DataToCare](<https://www.undp.org/fr/burundi/actualites/le-pnud-appui-lacceleration-de-la-digitalisation-des-laboratoires-avec-la-solution-datatocare>); [IBIPIMO](<https://www.openfn.org/spotlight/automating-national-hiv-health-information-exchange-in-burundi>).
 
-***Not found***. No source found since October 2023 says patient records are linked through the national ID or a national health identifier.
+***Not found***. No source found since October 2023 links patient records across systems. Neither the national ID nor a national health identifier is held as doing so.
