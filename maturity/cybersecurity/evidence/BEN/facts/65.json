@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Benin's ID4Africa deck lists a National CERT among what Benin has, alongside a policy for the security of the State's information systems (PSSIE).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "National CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National CERT",
+   "country_label": "National CERT",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

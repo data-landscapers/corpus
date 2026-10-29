@@ -40,6 +40,7 @@ BEN,ASIN alert and incident response centre,Benin,response,,ASIN,,2025-07-02-mar
 BEN,national incident response centre,Benin,response,,,,2025-06-26-caf-5e-edition-assises-cotonou-cybersecurite
 BEN,Centre national d'investigations numeriques (CNIN),CNIN,other,,,,2026-10-22-ben-adex-2026-mtn-benin-plaide-pour-une-cyber-resilience-proactive-a-l-ere
 BEN,bjCSIRT,bjCSIRT - National CSIRT of the Republic of Benin,response,,,,2024-10-14-ben-rfc-2350-declaration-english-version
+BEN,National CERT,National CERT,response,,,,2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2026-02-25-arcep-decision-attribution-oid-anssi
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2026-08-02-100-visages-du-burkina-digital-michael-folane
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2025-12-27-bfa-2026-31-anssi
@@ -120,6 +121,7 @@ CIV,ANSSI,Agence Nationale de la Sécurité des Systèmes d'Information,response
 CIV,Agence nationale de la sécurité des systèmes d'information (ANSSI),ANSSI,other,,,,2025-10-31-civ-cybercriminalite-un-marabout-arrete-pour-arnaque-et-chantage-sur-son-a
 CIV,Plateforme de lutte contre la cybercriminalité (PLCC),PLCC,other,,ANSSI,,2025-10-31-civ-cybercriminalite-un-marabout-arrete-pour-arnaque-et-chantage-sur-son-a
 CIV,ANSSI,ANSSI Côte d'Ivoire,response,,,,2025-08-01-civ-panorama-des-menaces-modes-operatoires-et-menaces
+CIV,ANSSI,Agence nationale de la sécurité des systèmes d'information,other,,,,2026-10-28-linfodrome-cyber-ex-2026-anssi-prepare-crises-numeriques
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-21-antic-cirt-cybersecurity-systems-patnuc-techafricanews
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,"2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust"
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-01-world-bank-cmr-2026-antic-cirt-cybersecurity-patnuc-bw07
@@ -340,6 +342,8 @@ KEN,Banking Sector SOC (BS-SOC),Kenya,other,,Central Bank of Kenya,,2026-07-01-c
 KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,,Government of Kenya (State Corporations Act),,2026-05-15-kenya-state-corporations-national-cybersecurity-agency-order-2026
 KEN,National Cybersecurity Operations Center,Kenya,response,,National Cybersecurity Agency,,2026-05-15-kenya-state-corporations-national-cybersecurity-agency-order-2026
 KEN,National Computer and Cybercrimes Coordination Committee,NC4,response,,Ministry of Interior and National Administration (chair),,2025-10-22-ken-multi-agency-committee-formed-to-coordinate-cybersecurity-matters
+KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,National Cybersecurity Operations Centre,Government of Kenya,,2026-10-28-xaf-kenya-calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime
+KEN,National KE-CIRT/CC,National Kenya Computer Incident Response Team Coordination Centre,response,,Communications Authority of Kenya,,2026-10-28-xaf-kenya-calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime
 LBR,computer security incident response team (Cybaston Digital Fast Track),Liberia,response,,"Cybaston Institute of Technology, handover to Ministry of Posts and Telecommunications in September 2029",,2024-09-24-liberia-cybaston-five-year-digital-fast-track-agreement
 LBR,National Cybersecurity Strategy (2024-2029),Liberia,response,,Ministry of Posts and Telecommunications,,2026-03-01-liberia-national-data-governance-policy
 LBR,Liberia National CERT (proposed),Liberia,other,,,,2026-03-01-liberia-national-data-governance-policy

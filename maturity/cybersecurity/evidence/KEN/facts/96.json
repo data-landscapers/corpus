@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-28-xaf-kenya-calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Cabinet Secretary Kabogo said the government established the National Cybersecurity Agency through a presidential order published in the Kenya Gazette to lead national coordination and run the National Cybersecurity Operations Centre.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "National Cybersecurity Agency",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Agency",
+   "country_label": "National Cybersecurity Agency",
+   "class": "response",
+   "platform": "National Cybersecurity Operations Centre",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  },
+  {
+   "system": "National KE-CIRT/CC",
+   "country_label": "National Kenya Computer Incident Response Team Coordination Centre",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
