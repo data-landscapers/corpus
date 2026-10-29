@@ -12,6 +12,8 @@ opened only for work, in a new tab:
 - **a critical error** — `--claim` exit 2 — runs `/poll-alert critical` and stops the loop,
   the one thing that does.
 
+Each tick also runs `traffic.py pull`, which keeps Cloudflare's request log; it needs no turn.
+
 A cycle already running reads as exit 1 while its claim is younger than the trigger's
 `LIVE_HOURS`, so a tick beside it is a quiet one. What the alert prompt needs to quote goes
 in `ALERT`, outside the repository.
@@ -86,6 +88,12 @@ def tick() -> tuple[str, bool]:
         note = " · deploy cleared, alert opened"
     else:
         note = ""
+
+    # The site's request log: a complete day not yet held is pulled, which the night's first
+    # tick does; every later tick finds it held and costs nothing. Its trouble is a note, not a stop.
+    _, traffic = run("scripts/traffic.py", "pull", "--quiet")
+    if traffic:
+        note += f" · {traffic.splitlines()[-1]}"
 
     code, out = run("scripts/osint-cycle-ready.py", "--claim")
     first = out.splitlines()[0] if out else ""
