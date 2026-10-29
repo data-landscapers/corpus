@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-21-mus-mitci-ramtohul-new-digital-regulations-ict-blueprint",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Minister said a new security layer was added to MauPass, the National Authentication Framework for Mauritius.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "MauPass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauPass",
+   "country_label": "MauPass",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Government of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

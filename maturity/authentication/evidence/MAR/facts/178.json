@@ -1,0 +1,46 @@
+{
+ "slug": "2025-04-13-mar-add-silence-on-digitalise",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The ADD, with the DGSN, runs an identification and authentication platform based on the electronic national ID card (CNIE), launched in 2022, with the ADD acting as national trusted third party.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "CNIE identification and authentication platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The ADD says the CNIE authentication platform has integrated more than 90 service providers from the public and private sectors since 2022.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "CNIE identification and authentication platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Citizens download the app Mon identité numérique to use the CNIE as an NFC card to reach online services, the ADD says.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Mon identité numérique",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mon identité numérique",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "CNIE NFC",
+   "owner": "ADD/DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

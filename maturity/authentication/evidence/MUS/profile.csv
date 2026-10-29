@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,authentication,service,coverage,inservice,2026-09-29,MUS-001;MUS-004;MUS-005;MUS-007;MUS-008;MUS-011;MUS-012;MUS-013;MUS-016;MUS-018;MUS-020,MUS-002=underway;MUS-010=underway;MUS-003=underway,
+MUS,authentication,service,coverage,inservice,2026-09-29,MUS-001;MUS-004;MUS-005;MUS-007;MUS-008;MUS-011;MUS-012;MUS-013;MUS-016;MUS-018;MUS-020;MUS-022,MUS-002=underway;MUS-010=underway;MUS-003=underway,
 MUS,authentication,reach,coverage,several,2025-08-14,MUS-009;MUS-014;MUS-017;MUS-019;MUS-021,,
 MUS,authentication,remote,coverage,wallet,2024,MUS-006;MUS-015,,

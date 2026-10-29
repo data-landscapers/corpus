@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,authentication,service,coverage,inservice,2026-06-11,MAR-002;MAR-005;MAR-008;MAR-013;MAR-018,MAR-007=underway;MAR-010=underway;MAR-012=underway;MAR-016=underway;MAR-017=underway;MAR-001=underway;MAR-021=underway;MAR-004=underway,
-MAR,authentication,reach,coverage,several,2026-06-11,MAR-003;MAR-006;MAR-014;MAR-019,,
-MAR,authentication,remote,coverage,wallet,2026-06-11,MAR-009;MAR-011;MAR-015;MAR-020,,
+MAR,authentication,service,coverage,inservice,2026-06-11,MAR-002;MAR-005;MAR-008;MAR-013;MAR-018;MAR-022;MAR-025,MAR-007=underway;MAR-010=underway;MAR-012=underway;MAR-016=underway;MAR-017=underway;MAR-001=underway;MAR-021=underway;MAR-004=underway,
+MAR,authentication,reach,coverage,several,2026-06-11,MAR-003;MAR-006;MAR-014;MAR-019;MAR-023,,
+MAR,authentication,remote,coverage,wallet,2026-06-11,MAR-009;MAR-011;MAR-015;MAR-020;MAR-024,,

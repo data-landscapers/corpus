@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-16-mar-administration-numerique-170-000-operations-rsu-sont-enregistrees-quot",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Minister Ghita Mezzour said the ministry will help administrations adopt the electronic identification and authentication service developed by the DGSN for users of digital services.",
+   "as_of": "2024-01-15",
+   "date_precision": "day",
+   "system": "service d'identification électronique et d'authentification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "service d'identification électronique et d'authentification",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -48,6 +48,7 @@ BEN,fID card,Benin,other,,,,2025-02-03-ben-wuri-benin-appel-a-manifestation-d-in
 BEN,RNPP,Benin,other,,ANIP,,2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e
 BEN,TrustedX platform,Benin,authentication,TrustedX,,,2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e
 BEN,Preuve de Vie app,Benin,authentication,,Government of Benin,,2026-10-22-ben-benin-15-189-retraites-ont-deja-effectue-leur-preuve-de-vie-la-campagn
+BEN,Public Key Infrastructure (PKI),National PKI system,authentication,,,,2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,other,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office national d'identification,Burkina Faso,other,,ONI,,2026-08-03-niger-mission-technique-burkina-identite-numerique
@@ -372,6 +373,8 @@ MAR,CNIE,Morocco,other,,,,2024-03-24-mar-lematin-bac-2024-cnie-services-electron
 MAR,IDARATI X.0,Morocco,authentication,national digital wallet linked to the electronic national ID card,Ministry of Digital Transition and Administration Reform,,2026-06-11-mar-al3omk-mtnra-ia-idarati-400-procedures
 MAR,DamaneSign Qualified Signature,Morocco,authentication,,Damanesign,qualified e-signature certificates,2025-03-03-mar-decision-n-2-psco-2025-portant-agrement-de-la-societe-damanesign-en-qu
 MAR,DamaneSign Qualified Seal,Morocco,authentication,,Damanesign,qualified e-seal certificates,2025-03-03-mar-decision-n-2-psco-2025-portant-agrement-de-la-societe-damanesign-en-qu
+MAR,Mon identité numérique,Morocco,authentication,CNIE NFC,ADD/DGSN,,2025-04-13-mar-add-silence-on-digitalise
+MAR,service d'identification électronique et d'authentification,Morocco,authentication,,DGSN,,2024-01-16-mar-administration-numerique-170-000-operations-rsu-sont-enregistrees-quot
 MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MLI,SIGRH,Mali,other,,Ministry of Refondation de l'Etat,,2026-02-20-lessor-sigrh-controle-biometrique-agents-etat
 MLI,NINA,Mali,other,,ANSAEC,,2026-02-20-lessor-sigrh-controle-biometrique-agents-etat
@@ -417,6 +420,7 @@ MUS,MauPass,Mauritius,authentication,,"Ministry of Information Technology, Commu
 MUS,MauPass,Mauritius,authentication,,"Ministry of Information Technology, Communication and Innovation",,2025-06-14-mus-maupass-national-campaign
 MUS,Maupass,Mauritius,authentication,,,,2024-10-01-mus-mokloud-plateforme-en-ligne-pour-vos-demarches-sans-deplacement
 MUS,MoKloud,Mauritius,other,web and mobile app,,,2024-10-01-mus-mokloud-plateforme-en-ligne-pour-vos-demarches-sans-deplacement
+MUS,MauPass,MauPass,authentication,,Government of Mauritius,,2025-08-21-mus-mitci-ramtohul-new-digital-regulations-ict-blueprint
 MWI,Biometric SIM registration,Malawi,other,NRB systems integration,Airtel; TNM,,2026-02-01-mwi-undp-idt4m-annual-report-2025
 MWI,Malawi Social Registry (MSR),Malawi,other,NRB integration module,,,2026-02-01-mwi-undp-idt4m-annual-report-2025
 MWI,Biometric KYC pilots,Malawi,other,NRB verification gateway,Standard Bank; First Capital Bank; National Bank; Centenary Bank; Old Mutual,,2026-02-01-mwi-undp-idt4m-annual-report-2025

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-tza-jamii-x-change",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIDA says it has used its Common Interface Gateway since 2018 to share identification data with eligible stakeholders for eKYC and authentication.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Common Interface Gateway",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
