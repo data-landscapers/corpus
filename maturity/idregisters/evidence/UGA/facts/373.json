@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "URA had linked 2,130,814 NINs to existing TINs out of 5,405,148 individual taxpayer records (about 39.4 per cent) by 30 September 2026, per figures Minister Lugoloobi gave Parliament.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "URA taxpayer register (TIN-NIN linkage)",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URA TIN-NIN linkage",
+   "country_label": "Uganda",
+   "class": "register",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

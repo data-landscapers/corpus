@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-28-novojornal-31-mil-funcionarios-fantasma-singerh-maptss",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SINGERH",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "MAPTSS",
+   "tiers": ""
+  }
+ ],
+ "note": "SINGERH is a civil service HR database; the document does not say it is keyed on the national ID number (it mentions duplicated agent numbers)."
+}
