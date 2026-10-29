@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-30-swz-data-center-centralization-iv",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The blogger states Eswatini's National Data Center at the Royal Science and Technology Park, seen on a late-2019 visit, was already at Tier-III level and offered colocation and basic cloud services to clients.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "National Data Center (RSTP)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The blogger says the National Data Center is run more like a state-owned enterprise, encapsulated within the Royal Science and Technology Park.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "National Data Center (RSTP)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Center",
+   "country_label": "Eswatini",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Royal Science and Technology Park",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

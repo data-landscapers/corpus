@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-uga-uganda-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics describes a state agency offering IT services including colocation among Uganda's data centre providers, with facilities in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "State agency data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "Facility is not named; no Tier or state hosting stated."
+}

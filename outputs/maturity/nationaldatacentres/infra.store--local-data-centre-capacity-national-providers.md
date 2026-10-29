@@ -22,8 +22,8 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 3 |
-| 3 Established | 20 |
-| 2 Nascent | 15 |
+| 3 Established | 21 |
+| 2 Nascent | 14 |
 | 1 Absent | 0 |
 | Unplaced | 7 |
 | No evidence | 3 |
@@ -104,6 +104,13 @@ Two nationally owned data centres for hire at Tier III or above by 2025; state h
 A nationally owned data centre for hire at Tier III or above by 2026; no second one held.
 
 - Le Jeune Indépendant says the Mohammadia complex of the Centre national des services numériques, inaugurated 5 July 2026, holds Uptime Institute Tier III Design certification ([source, 2026-07-05](https://www.jeune-independant.net/centre-national-des-services-numeriques-lalgerie-scelle-le-virage-vers-leconomie-2-0/)).
+
+### Angola: 3 Established
+
+The state's own data centre, opened in 2026, sells hosting at Tier III; a second national one at that tier is not known.
+
+- Menos Fios, relaying Expansao no. 878 and Infosi, reports the state-built Government National Data Centre and Cloud at Camama has Tier III certified modules, with the building awaiting Uptime assessment, and it hosts data of public and private institutions ([source, 2026-05-31](https://www.menosfios.com/data-centers-em-angola-quais-tem-certificacao-internacional/)).
+- The Government National Data Centre and Cloud, run by the state institute Infosi, is a state facility inaugurated on 28 April 2026 ([source, 2026-04-28](https://www.menosfios.com/data-centers-em-angola-quais-tem-certificacao-internacional/)).
 
 ### Botswana: 3 Established
 
@@ -218,12 +225,6 @@ A nationally owned data centre for hire at Tier III or above by 2019; no second 
 A nationally owned data centre for hire at Tier III or above by 2026; no second one held.
 
 - TelOne states its own data centre is a Tier 3 environment, 'the best achievable standard in Zimbabwe'; this is an operator claim on an undated page (capture date 2026-08-08), with no certification named ([source, 2026-08-08](https://www.telone.co.zw/products/details/data-centre-cloud-services)).
-
-### Angola: 2 Nascent
-
-A nationally owned data centre for hire in service by 2022, none found at Tier III or above.
-
-- Angola Cables' 2022 commercial catalogue lists the AngoNAP data centre in Luanda, with hosting services (Host2Africa, Clouds2Africa) sold to customers; the document gives no opening date, so as_of is its published date 2022-11 ([source, 2022-11](https://pages.angolacables.com/wp-content/uploads/2022/11/Catalogue-Commercial-2022.pdf)).
 
 ### Benin: 2 Nascent
 

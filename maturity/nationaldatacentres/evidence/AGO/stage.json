@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "national",
-   "stage": "2",
-   "centre": "service",
-   "owner": "national",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-024",
-   "gaps": "No source found says a nationally owned data centre for hire is Tier III or above.",
-   "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "centre": "tier3",
+      "owner": "national",
+      "state": "hosted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-026;AGO-027",
+      "gaps": "No source found names a second nationally owned data centre for hire at Tier III or above.",
+      "note": "Reassessed 2026-10-29: the state's National Data Centre and Cloud at Camama, inaugurated in April 2026 and run by Infosi, hosts public and private institutions' data on Tier III-certified modules. One national facility at Tier III is not two, so stage 4 is not reached.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

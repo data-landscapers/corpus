@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Menos Fios, relaying Expansao no. 878 and Infosi, reports the state-built Government National Data Centre and Cloud at Camama has Tier III certified modules, with the building awaiting Uptime assessment, and it hosts data of public and private institutions.",
+   "as_of": "2026-05-31",
+   "date_precision": "day",
+   "system": "Data Centre e Cloud Nacional do Governo",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The Government National Data Centre and Cloud, run by the state institute Infosi, is a state facility inaugurated on 28 April 2026.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "Data Centre e Cloud Nacional do Governo",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "Menos Fios reports the Government data centre and cloud at Camama hosts data of public institutions.",
+   "as_of": "2026-05-31",
+   "date_precision": "day",
+   "system": "Data Centre e Cloud Nacional do Governo",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

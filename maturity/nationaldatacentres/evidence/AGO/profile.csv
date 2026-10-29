@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,national,centre,coverage,tier3,2026-07-23,AGO-003;AGO-005;AGO-007;AGO-010;AGO-013;AGO-017;AGO-020;AGO-022;AGO-025,AGO-002=service;AGO-004=service;AGO-001=service;AGO-008=service;AGO-019=service;AGO-006=service;AGO-009=service;AGO-011=service;AGO-023=service;AGO-012=service;AGO-021=service;AGO-016=service;AGO-024=service;AGO-018=service;AGO-015=service;AGO-014=service,
-AGO,national,owner,coverage,,,,,nothing held
-AGO,national,state,coverage,,,,,nothing held
+AGO,national,centre,coverage,tier3,2026-07-23,AGO-003;AGO-005;AGO-007;AGO-010;AGO-013;AGO-017;AGO-020;AGO-022;AGO-025;AGO-026,AGO-002=service;AGO-004=service;AGO-001=service;AGO-008=service;AGO-019=service;AGO-006=service;AGO-009=service;AGO-011=service;AGO-023=service;AGO-012=service;AGO-021=service;AGO-016=service;AGO-024=service;AGO-018=service;AGO-015=service;AGO-014=service,
+AGO,national,owner,coverage,national,2026-04-28,AGO-027,,
+AGO,national,state,coverage,hosted,2026-05-31,AGO-028,,

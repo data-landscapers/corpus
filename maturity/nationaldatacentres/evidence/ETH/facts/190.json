@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics lists a state agency among Ethiopia's providers offering IT services including colocation, as of 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "state agency colocation",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The state agency offering colocation is a government provider, per Xalam Analytics.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "state agency colocation",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "Agency unnamed; no Tier or government hosting stated."
+}

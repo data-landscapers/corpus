@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CIV,national,centre,coverage,tier3,2026-08-25,CIV-003;CIV-005;CIV-007;CIV-010;CIV-012;CIV-015;CIV-017;CIV-020;CIV-022;CIV-024;CIV-030;CIV-036;CIV-038;CIV-041,CIV-001=service;CIV-006=service;CIV-004=service;CIV-008=service;CIV-029=service;CIV-034=service;CIV-009=service;CIV-011=service;CIV-013=service;CIV-014=service;CIV-035=service;CIV-002=service;CIV-040=service;CIV-019=service;CIV-037=service;CIV-021=service;CIV-018=service;CIV-032=service;CIV-031=service;CIV-039=service;CIV-033=service;CIV-023=service;CIV-016=service;CIV-025=service;CIV-026=service;CIV-027=service;CIV-028=service,
-CIV,national,owner,coverage,,,,,nothing held
-CIV,national,state,coverage,,,,,nothing held
+CIV,national,owner,coverage,foreign,2023-11,CIV-042,,
+CIV,national,state,coverage,,,,,nothing found
