@@ -1,0 +1,44 @@
+{
+ "slug": "2025-10-31-sle-dfmst-and-stakeholders-conclude-two-day-validation-exercise-on-draft-i",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "Sierra Leone's Principal Deputy Financial Secretary said the government has invested over USD 300 million in standalone PFM systems including IFMIS, which have advanced several operations though they run in isolation.",
+   "as_of": "2025-10-28",
+   "date_precision": "day",
+   "system": "IFMIS",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The same remarks name the ITAX system at the National Revenue Authority among the PFM systems that have advanced operations while functioning in isolation.",
+   "as_of": "2025-10-28",
+   "date_precision": "day",
+   "system": "ITAX",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "Sierra Leone",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "ITAX",
+   "country_label": "Sierra Leone",
+   "class": "core",
+   "platform": "",
+   "owner": "National Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
