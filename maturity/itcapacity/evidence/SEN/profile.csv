@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SEN,inhouse,inhouse,coverage,yes,2026-02-09,SEN-003;SEN-005;SEN-010;SEN-012;SEN-016;SEN-017,SEN-001=outsourced;SEN-013=outsourced,
-SEN,inhouse,agency,coverage,operating,2026-09-03,SEN-002;SEN-004;SEN-006;SEN-007;SEN-009;SEN-011;SEN-014;SEN-015,,
+SEN,inhouse,agency,coverage,operating,2026-09-03,SEN-002;SEN-004;SEN-006;SEN-007;SEN-009;SEN-011;SEN-014;SEN-015;SEN-022,,
 SEN,inhouse,built,coverage,live,2026-03-24,SEN-008,,
-SEN,inhouse,cadre,coverage,,,,,nothing held
+SEN,inhouse,own,coverage,entire,2026-03-24,SEN-018;SEN-019;SEN-020;SEN-021,,

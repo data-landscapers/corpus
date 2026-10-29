@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "e-GA, a public authority, says it built GovESB itself and runs it.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "GovESB",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "e-GA says it built and operates GovESB connecting 109 public institutions' systems.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "GovESB",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovESB",
+   "country_label": "GovESB",
+   "class": "staff",
+   "platform": "",
+   "owner": "e-GA",
+   "tiers": ""
+  }
+ ],
+ "note": "No go-live date or count of systems wholly run by staff."
+}

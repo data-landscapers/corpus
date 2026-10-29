@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-26-civ-modernisation-de-l-administration-le-ministre-kalil-konate-lance-offic",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The Société nationale de Développement informatique (SNDI) is the structure in charge of implementing the interoperability platform linking ministries' information systems.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "SNDI",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

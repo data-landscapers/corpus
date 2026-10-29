@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-16-sen-pins-plateforme-interministerielle-x-road-pilote-pnbsf-cmu",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Sénégal Numérique S.A., under the ministry's supervision, technically operates the X-Road interoperability platform, whose central components and security servers are hosted and run in the national data centre; the ministry is to cover operating costs after the project.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "PINS (X-Road)",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

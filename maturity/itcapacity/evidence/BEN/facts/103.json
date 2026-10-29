@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-ben-uxp-based-public-services-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "Cybernetica says it continues to support Benin in maintaining the citizen portal and the UXP data exchange platform, which it built with eGA as prime contractor.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UXP-based national data exchange platform",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
