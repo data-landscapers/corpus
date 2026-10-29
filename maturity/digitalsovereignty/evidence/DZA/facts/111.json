@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-14-dza-almostathmir-data-governance-classification-rollout",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "Presidential decree 25-320 of 31 December 2025 established a national data governance system with a five-level data classification (public to top secret, the highest not exchangeable) that ministries are now applying, and treats data as a sovereign asset.",
+   "as_of": "2026-02-14",
+   "date_precision": "day",
+   "system": "National data governance system",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

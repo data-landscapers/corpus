@@ -13,3 +13,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,MDG,geopol.sovereignty--digital-sovereignty,review,no evidence,2,MDG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,NAM,geopol.sovereignty--digital-sovereignty,review,unplaced,2,NAM-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-26,TUN,geopol.sovereignty--digital-sovereignty,fact,unplaced,2,TUN-002,"G-Cloud label rule (decree-law 2023-17, decision of 13 Sept 2023, labels from July 2024) states a sovereignty goal for government cloud: unplaced to 2"
+2026-10-29,AGO,geopol.sovereignty--digital-sovereignty,fact,2,4,AGO-006;AGO-004,Government cloud at Camama hosts public institutions' data from Apr 2026; hosted national
+2026-10-29,ERI,geopol.sovereignty--digital-sovereignty,fact,unplaced,5,ERI-002,"ASYCUDA World customs system handed over with full source code Jan 2026; terms carried, later yes"

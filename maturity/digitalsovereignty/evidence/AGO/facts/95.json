@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Menos Fios reports the Government's National Data Centre and Cloud at Camama, inaugurated on 28 April 2026 by President Lourenco, hosts data of public and private institutions.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "Data Centre e Cloud Nacional do Governo",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

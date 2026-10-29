@@ -1,6 +1,6 @@
 # Digital sovereignty: control of state data
 
-*As at 2026-10-17.*
+*As at 2026-10-29.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
-| 4 Operating | 19 |
+| 5 Leading | 1 |
+| 4 Operating | 20 |
 | 3 Established | 8 |
-| 2 Nascent | 15 |
+| 2 Nascent | 14 |
 | 1 Absent | 1 |
-| Unplaced | 4 |
+| Unplaced | 3 |
 | No evidence | 7 |
 
 ## Countries
+
+### Eritrea: 5 Leading
+
+Eritrea's government received the source code of its new customs system in 2026; no rule on where state data is held is on record.
+
+- Eritrea's ASYCUDA World customs system, developed with UNDP, came with a complete transfer of source code to the Eritrean government, per Shabait (Ministry of Information) ([source, 2026-01](https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system)).
 
 ### Algeria: 4 Operating
 
@@ -36,6 +42,13 @@ Government data or a core system was hosted in the country in 2026; contract ter
 
 - Ech-Chaab, citing the High Commission's record for April 2024 to September 2026, lists sovereign cloud computing, the secured government network and national data centres among delivered milestones, and the national digital services centre inaugurated on 5 July 2026 ([source, 2026-09](https://www.ech-chaab.com/new/2026/09/09/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D9%85-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/)).
 - Algeria's sovereign National Digital Services Center, inaugurated days before 15 July 2026, has two Tier III-standard data centres in Algiers and Blida that will host government data, per authorities cited by We Are Tech ([source, 2026-07](https://www.wearetech.africa/en/fils-uk/news/algeria-sets-one-month-deadline-for-government-data-center-integration)).
+
+### Angola: 4 Operating
+
+Angola's government cloud at Camama hosted public institutions' data from April 2026; contract terms on data are not on record.
+
+- Menos Fios reports the Government's National Data Centre and Cloud at Camama, inaugurated on 28 April 2026 by President Lourenco, hosts data of public and private institutions ([source, 2026-04-28](https://www.menosfios.com/data-centers-em-angola-quais-tem-certificacao-internacional/)).
+- INFOSI's director-general says the national PKI root is being installed in the newly inaugurated Government Cloud at Camama, creating a sovereign base controlled in national territory ([source, 2026-06-03](https://pti.ao/a-confianca-digital-em-angola-como-a-icp-angola-vai-mudar-o-dia-a-dia-dos-cidadaos-e-das-empresas/)).
 
 ### Burkina Faso: 4 Operating
 
@@ -204,13 +217,6 @@ A rule on where state data is held was in force in 2026; national hosting of sta
 - The Internet Governance Project says Tanzania has mandates for data localization and local ownership in place, and recommends revoking the data localization mandates ([source, 2026-06-09](https://www.internetgovernance.org/2026/06/09/tanzania-is-getting-online-its-digital-economy-isnt-following/)).
 - The Bank of Tanzania's Cloud Computing Guidelines for Financial Service Providers, 2025 (issued under s.71 Banking and Financial Institutions Act 2006 and s.56(3) National Payment Systems Act 2015) bar a licensed financial service provider from hosting a mission-critical system, or one whose data the Bank deems critical, in a primary data centre or cloud whose hosting infrastructure is outside Tanzania; the document is dated August 2025 ([source, 2025-08](https://www.bot.go.tz/webdocs/Feedback/en/2025082512452979.pdf)).
 
-### Angola: 2 Nascent
-
-Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
-
-- President Lourenço says the National Cloud and Government Data Center have been structured to strengthen digital services and the security of Public Administration systems ([source, 2026-10-16](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)).
-- Angola's national directorate for telecommunications and IT (Matias Borges) announced two new government data centres in Luanda (Camama and a modernised backup at the Centro Nacional de Dados, Rangel) to migrate existing and new government applications to a unified government cloud, a national cloud costing the State USD 89 million ([source, 2024-12-11](https://www.menosfios.com/vii-forum-telecom-angola-aposta-na-construcao-de-dois-centros-de-dados/)).
-
 ### Benin: 2 Nascent
 
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
@@ -309,12 +315,6 @@ A 2024 source says no rule governs where state data is held.
 - Paradigm Initiative's Londa 2023 report says the Central African Republic has no stand-alone data protection law or regulation, none specifically on biometric databases and data localisation, and no officially recognised national cybersecurity strategy ([source, 2024-04](https://paradigmhq.org/wp-content/uploads/2024/06/CAR-Londa-Report.pdf)).
 
 ### Djibouti: Unplaced
-
-Nothing found since 2023 names control of state data, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether control of state data is a stated goal or a rule.
-
-### Eritrea: Unplaced
 
 Nothing found since 2023 names control of state data, so no stage is set.
 

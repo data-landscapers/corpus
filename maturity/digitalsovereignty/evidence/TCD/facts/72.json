@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-tcd-discours-de-haliki-choua-mahamat-sur-la-gouvernance-des-donnees",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The minister said Chad's draft national data governance strategy aims at a sovereign national data system in which the state knows where strategic data is hosted and who manages it.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Stratégie Nationale de Gouvernance des Données",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

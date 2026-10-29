@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 AGO,sovereignty,rule,coverage,inservice,2020-10-21,AGO-001,AGO-002=underway;AGO-004=underway;AGO-005=underway;AGO-003=underway,
-AGO,sovereignty,hosted,coverage,,,,,nothing held
-AGO,sovereignty,terms,coverage,,,,,nothing held
+AGO,sovereignty,hosted,coverage,national,2026-04-28,AGO-006,,
+AGO,sovereignty,terms,coverage,,,,,nothing found
