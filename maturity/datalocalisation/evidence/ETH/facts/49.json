@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Xalam Analytics says the Personal Data Protection Proclamation of 2024 requires companies to host Ethiopian citizen data within the country.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Personal Data Protection Proclamation of 2024",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "No enforcer or application stated."
+}

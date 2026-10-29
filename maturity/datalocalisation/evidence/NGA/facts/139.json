@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-28-nga-cbn-warns-banks-on-cybersecurity-risks-as-cloud-dependence-grows",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CBN expects regulated institutions to ensure critical payment transaction data is stored and managed within Nigeria under applicable regulatory requirements and the 1 January 2027 implementation timeline, said deputy governor Lamido Abubakar Yuguda.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "CBN payment data localisation requirement",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

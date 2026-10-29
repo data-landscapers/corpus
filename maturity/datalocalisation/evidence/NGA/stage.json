@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-023;NGA-011;NGA-009",
-      "gaps": "No source from the last three years naming an organisation ordered, penalised or exempted under the rule, or counting those that have moved data to comply, is held.",
-      "note": "Counted from the four questions by study-ladder-datalocalisation.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No organisation is yet named as ordered, penalised or exempted under the rule; NITDA's October 2026 survey counts 22 of 44 financial institutions that have not begun, not those that have moved data.",
+      "note": "Reassessed 2026-10-29 on NITDA's survey with the CBN: compliance is due on 1 January 2027 and the survey counts institutions yet to begin, so the rule is not yet applied. The CBN is named to enforce it, which holds stage 4.",
+      "as_at": "2026-10-29"
     }
   ]
 }

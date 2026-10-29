@@ -1,0 +1,27 @@
+{
+ "slug": "2025-06-18-cmr-datacenters-certifies-ecosysteme-delaisse-au-cameroun",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Anthony Same, CEO of ST Digital, says laws oblige actors in sensitive sectors to host their data locally.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "none",
+   "fact": "Anthony Same, CEO of ST Digital, says these local hosting provisions are neither checked nor applied in practice.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
