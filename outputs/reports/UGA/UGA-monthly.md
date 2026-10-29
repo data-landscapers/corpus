@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: UGA
-ledger_rows: 77
+ledger_rows: 78
 not_held: 11
-record: b85e91960f98
+record: 48af1745bd96
 ---
 
 # News, Sep – Oct 2026
@@ -237,6 +237,20 @@ Uganda's trade minister Sanjay Tanna told a press conference on 15 October 2026 
 **[Uganda Champions AU single digital market plan to boost cross-border trade](https://www.monitor.co.ug/uganda/news/national/uganda-champions-au-single-digital-market-plan-to-boost-cross-border-trade-5634362)** — Daily Monitor, 16 October 2026
 
 Ahead of a technology and intellectual property symposium on 22-23 October, Uganda's trade minister set out plans to back the AU's single digital market, including a trust mark for vetted online sellers and rules giving online buyers redress, to be rolled out in the EAC first. A Jumia-led e-commerce industry association and a call for a Consumer Protection Act were also presented.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed revenue-authority power to access bank accounts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FDC Threatens Court Action Over Proposed URA Access to Bank Accounts](https://nilepost.co.ug/news/381531/fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts)** — Nile Post, 26 October 2026
+
+Opposition seeks PDPO audit of URA's use of NIRA records; cites 2023 ruling against blanket bank-data demands.
 
 </div>
 
@@ -911,6 +925,14 @@ Uganda's parliamentary Physical Infrastructure Committee ordered two directors o
 **[Audit Russian digital number plate firm – MPs ask Auditor General](https://www.watchdoguganda.com/news/20261016/199568/audit-russian-digital-number-plate-firm-mps-ask-auditor-general.html)** — Watchdog Uganda, 16 October 2026
 
 Uganda's parliamentary physical infrastructure committee told Auditor General Edward Akol on 15 October 2026 to start a preliminary audit of the Intelligent Transport Management System digital number-plate project, run by a Russian firm, and report in writing the following Tuesday. Akol said he received the project agreement only on 13 October, and that the Office of the President calls the project an investor-financed pilot with no public funds spent.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Presidential Secretary Kakande Bashes Mayanja Over Digital Number Plates Contract](https://nilepost.co.ug/news/382135/presidential-secretary-kakande-bashes-mayanja-over-digital-number-plates-contract)** — Nile Post, 27 October 2026
+
+1,499 of 5,110 government plates dead; 80% revenue share to Russian contractor under committee scrutiny.
 
 </div>
 
