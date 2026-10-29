@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-28-gha-a-two-day-national-data-strategy-validation-workshop-held-in-accra",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Ghana championed the Smart Africa Secretariat's Continental Data Governance Blueprint, developed with GIZ, and is an implementation country for the Smart Africa Digital Academy, per the Deputy Minister.",
+   "as_of": "2024-06-28",
+   "date_precision": "day",
+   "system": "Smart Africa",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Africa",
+   "country_label": "Ghana",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Smart Africa Secretariat",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-biometricupdate-cross-border-id",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Smart Africa's Yamfashije says Benin, Ghana and Rwanda were selected for the Smart Africa Data Exchange (SADX) pilot, a federated trust platform owned by member states, based on readiness.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Smart Africa Data Exchange (SADX)",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
