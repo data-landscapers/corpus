@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-ben-uxp-based-public-services-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Cybernetica says the national citizen portal (Portail National des services publics du Benin) offers over 270 digital services as of 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Portail National des services publics du Benin",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail National des services publics du Benin",
+   "country_label": "Portail National des services publics du Benin",
+   "class": "eservices",
+   "platform": "Cybernetica",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": "No sign-in by national ID and no portal user or transaction count is stated."
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "4",
-   "services": "inservice",
-   "gateway": "single",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SSD-003;SSD-005",
-   "gaps": "No source found since October 2023 gives users, applications or transactions through the national portal.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "4",
+      "services": "inservice",
+      "gateway": "single",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-003;SSD-005",
+      "gaps": "No source found since October 2023 gives users, applications or transactions through the national portal.",
+      "note": "One eServices.gov.ss account, opened with the national ID, reaches several agencies' services; the December 2025 order to digitise all institutions adds a mandate, not a published use figure. No count of users or transactions is held, so stage 5 is not reached.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-ssd-rigid-government-institutions-given-ultimatum-to-digitize-by-january-2",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "A Republic Order from President Salva Kiir gave the E-Service Board full authority to digitise all government institutions by January 2026, with the board chair saying e-service rollout is under way across payments, licensing and records.",
+   "as_of": "2025-12-18",
+   "date_precision": "day",
+   "system": "E-Service Board",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Service Board",
+   "country_label": "South Sudan",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Information, Communication Technology and Postal Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

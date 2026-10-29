@@ -101,8 +101,9 @@ A single government gateway with shared sign-in was in service in 2026; its use 
 
 ### Benin: 3 Established
 
-Ten or more government services could be completed online in 2025; a single gateway is not on record.
+About 270 government services from over 50 institutions were online in 2025; how users sign in is not known.
 
+- Over 50 government institutions use the national public services portal and gateway to offer around 270 services, per Cybernetica ([source, 2025-02-19](https://cyber.ee/resources/news/cybernetica-and-benin-continue-enhancing-the-country-s-digitalisation/)).
 - Fraternite reports over 1,000 services digitised in Benin since 2016, more than 210 of them fully paperless, through the official portal service-public.bj ([source, 2025-04-08](https://fraternite.bj/le-benin-a-lere-du-numerique-une-revolution-administrative-en-marche/)).
 
 ### Botswana: 3 Established

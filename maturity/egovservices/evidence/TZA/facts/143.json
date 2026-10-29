@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "e-GA says the Government Mobile Platform (mGov) is linked to all mobile operators to deliver government services by phone; no count of services given.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "mGov",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mGov",
+   "country_label": "Government Mobile Platform",
+   "class": "eservices",
+   "platform": "mobile",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of ten or more services, gateway or usage figures."
+}

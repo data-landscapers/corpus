@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Benin's deck shows the National Public Services Portal with e-services, 'including 120 on PNS', and says the portal is integrated through the PNI.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "National Public Services Portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Public Services Portal",
+   "country_label": "National Public Services Portal (PNS)",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

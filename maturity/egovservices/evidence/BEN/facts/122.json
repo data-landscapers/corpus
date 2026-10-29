@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-19-ben-cybernetica-and-benin-continue-enhancing-the-country-s-digitalisation",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Over 50 government institutions use the national public services portal and gateway to offer around 270 services, per Cybernetica.",
+   "as_of": "2025-02-19",
+   "date_precision": "day",
+   "system": "national public services portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national public services portal",
+   "country_label": "citizen portal and gateway to public digital services",
+   "class": "eservices",
+   "platform": "Cybernetica",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": "No national ID sign-in or portal usage count stated."
+}

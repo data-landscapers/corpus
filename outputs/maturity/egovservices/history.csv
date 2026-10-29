@@ -44,3 +44,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,ETH,dpi.govtech--e-government-services,fact,2,4,ETH-006,"National ID Ethiopia's May 2026 ID4Africa deck describes MESOB as a Fayda-based digital one-stop shop for e-government services (ETH-006), dated inside the window where ETH-001 was not: single gateway, so 2 to 4."
 2026-10-23,TGO,dpi.govtech--e-government-services,fact,3,4,TGO-011;TGO-002;TGO-006,"ANID's May 2026 ID4Africa deck describes service-public.gouv.tg as one integrated portal for public services with sign-in by UIN and OTP (TGO-011): single gateway, so 3 to 4."
 2026-10-27,LBR,dpi.govtech--e-government-services,fact,unplaced,2,LBR-002,"LRA Online Duty-Free Application Platform launched July 2025: services underway, unplaced->2"
+2026-10-29,BEN,dpi.govtech--e-government-services,fact,3,3,BEN-012;BEN-003,"Cybernetica: about 270 services from over 50 institutions on the national portal and gateway (2025); sign-in not stated, stays 3"
+2026-10-29,SSD,dpi.govtech--e-government-services,fact,4,4,SSD-003;SSD-005,"Republic Order of December 2025 to digitise all institutions; no use figure, stays 4"

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,eservices,services,coverage,inservice,2025-04-08,BEN-003;BEN-009,BEN-002=underway;BEN-007=underway;BEN-001=underway;BEN-010=underway;BEN-004=underway;BEN-008=underway;BEN-005=underway,
-BEN,eservices,gateway,coverage,,,,,nothing held
-BEN,eservices,usage,coverage,,,,,nothing held
+BEN,eservices,services,coverage,inservice,2025-05,BEN-003;BEN-009;BEN-011;BEN-012;BEN-013,BEN-002=underway;BEN-007=underway;BEN-001=underway;BEN-010=underway;BEN-004=underway;BEN-008=underway;BEN-005=underway,
+BEN,eservices,gateway,coverage,,,,,nothing found
+BEN,eservices,usage,coverage,,,,,nothing found

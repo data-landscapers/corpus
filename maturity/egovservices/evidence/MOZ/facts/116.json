@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-26-moz-atdi-e-bau-alinham-visao-de-servicos-publicos-digitais-integrados-e-ce",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portal do Cidadao",
+   "country_label": "Mozambique",
+   "class": "eservices",
+   "platform": "",
+   "owner": "ATDI, IP",
+   "tiers": ""
+  }
+ ],
+ "note": "The Portal do Cidadao is a shared vision still to be implemented, not a launched portal."
+}

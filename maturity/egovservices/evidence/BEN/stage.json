@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-003",
-      "gaps": "No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BEN-012;BEN-003",
+      "gaps": "No source found since October 2023 says the national portal signs users in with the national ID or one shared account, or gives users, applications or transactions through it.",
+      "note": "About 270 services from over 50 institutions run through the national portal and gateway (February 2025), so ten or more are online. No source says how users sign in, so the single-gateway rung is not met.",
+      "as_at": "2026-10-29"
     }
   ]
 }
