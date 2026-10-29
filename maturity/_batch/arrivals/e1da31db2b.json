@@ -1,0 +1,10 @@
+{"slug":"2026-10-28-zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027","studies":{
+"aiabuse":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on rules or an authority against AI harms."}}},
+"aigovernment":{"countries":{"ZWE":{"facts":[],"systems":[{"system":"Pangolin AI","country_label":"Zimbabwe","class":"other","platform":"national AI and data platform","owner":"Ministry of ICT, Postal and Courier Services","tiers":""}],"note":"Platform is planned, and is a data and computing platform, not an AI system in administration use."}}},
+"aisectoral":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Health, agriculture and education uses are only potential applications."}}},
+"aistrategy":{"countries":{"ZWE":{"facts":[{"sub_indicator":"strategy","aspect":"standing","value":"adopted","fact":"The article says Pangolin AI is part of Zimbabwe's National AI Strategy 2026-2030, which sets out the country's approach to developing and deploying AI.","as_of":"2026-10-28","date_precision":"day","system":"National AI Strategy 2026-2030","class":"strategy"}],"systems":[],"note":""}}},
+"aisystems":{"countries":{"ZWE":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"underway","fact":"Zimbabwe's ICT minister Tatenda Mavetera said Pangolin AI, the national AI platform giving secure local computing and national data to startups, developers and researchers, will be fully operational by Q1 2027.","as_of":"2026-10-28","date_precision":"day","system":"Pangolin AI","class":"localai"}],"systems":[{"system":"Pangolin AI","country_label":"Zimbabwe","class":"localai","platform":"national AI and data platform","owner":"Ministry of ICT, Postal and Courier Services","tiers":""}],"note":""}}},
+"datalocalisation":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Local data storage is a platform design feature, not a stated rule requiring data to stay in the country."}}},
+"startups":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No startup law, label or fund stated; access to the platform is not a startup scheme."}}},
+"techhubs":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No hub, incubator or park stated."}}}
+}}

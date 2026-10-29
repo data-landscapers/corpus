@@ -1,0 +1,142 @@
+{
+ "slug": "2026-10-28-nga-nitda-woos-us-tech-firms-to-invest-in-nigeria-s-digital-infrastructure",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Cloud-first policy mentioned only as shaped with stakeholders; its standing and any hosting rule are not stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an assurance framework with regulators is being developed; no localisation rule is stated."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "NITDA Director-General Kashifu Inuwa said the agency's sovereign cloud initiative is designed to strengthen national control over critical digital infrastructure and to direct relevant government technology services towards locally hosted sovereign cloud.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "sovereign cloud initiative",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "sovereign cloud initiative",
+       "country_label": "Nigeria",
+       "class": "sovereignty",
+       "platform": "",
+       "owner": "NITDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

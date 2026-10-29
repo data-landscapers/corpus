@@ -1,0 +1,17 @@
+{"slug": "2026-10-28-ken-cipesa-kenya-2027-elections-digital-media-rights", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only AI governance gaps and a media code of conduct are mentioned; no binding rule, draft or authority on AI harms."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No sectoral AI system is stated."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"cybersecuritylaw": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "CIPESA states the Computer Misuse and Cybercrimes Act was enacted in 2018 and criminalises certain online expression including false publications, with the Court of Appeal in March 2026 leaving its investigative powers largely intact.", "as_of": "2018", "date_precision": "year", "system": "Computer Misuse and Cybercrimes Act (CMCA)", "class": "law"}
+], "systems": [{"system": "Computer Misuse and Cybercrimes Act (CMCA)", "country_label": "Kenya", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"ictstrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No ICT sector policy is stated."}}},
+"internationalstandards": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No international standards matter is stated."}}},
+"opendiscussion": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Participants at a KICTANet and Bloggers Association of Kenya dialogue in Nairobi named vague legislation such as the Computer Misuse and Cybercrimes Act as a persistent threat to online expression, per CIPESA.", "as_of": "2026-10-08", "date_precision": "day", "system": "", "class": "discussion"}
+], "systems": [], "note": ""}}},
+"police": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No police station record system is stated."}}},
+"policyresearch": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No local research on digital policy is stated; CIPESA is not a Kenyan institution."}}},
+"publicconsultation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No government consultation on a named digital law or policy is stated."}}}
+}}

@@ -1,0 +1,173 @@
+{
+ "slug": "2025-10-31-sle-dfmst-and-stakeholders-conclude-two-day-validation-exercise-on-draft-i",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "finance",
+       "value": "inuse",
+       "fact": "Sierra Leone's Principal Deputy Financial Secretary said the government has invested over USD 300 million in standalone PFM systems including IFMIS, which have advanced several operations though they run in isolation.",
+       "as_of": "2025-10-28",
+       "date_precision": "day",
+       "system": "IFMIS",
+       "class": "core"
+      },
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "The same remarks name the ITAX system at the National Revenue Authority among the PFM systems that have advanced operations while functioning in isolation.",
+       "as_of": "2025-10-28",
+       "date_precision": "day",
+       "system": "ITAX",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IFMIS",
+       "country_label": "Sierra Leone",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      },
+      {
+       "system": "ITAX",
+       "country_label": "Sierra Leone",
+       "class": "core",
+       "platform": "",
+       "owner": "National Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "framework",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "A two-day workshop on 28-29 October 2025 validated the Ministry of Finance's draft interoperability roadmap for PFM systems, which sets technical standards, infrastructure, data requirements and policies.",
+       "as_of": "2025-10-29",
+       "date_precision": "day",
+       "system": "PFM systems interoperability roadmap",
+       "class": "framework"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The Directorate of Financial Management Systems and Technology held a validation workshop on 28-29 October 2025 on the draft PFM interoperability roadmap with civil society organisations among the participants.",
+       "as_of": "2025-10-29",
+       "date_precision": "day",
+       "system": "PFM systems interoperability roadmap",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

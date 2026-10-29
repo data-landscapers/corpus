@@ -1,0 +1,11 @@
+{"slug": "2024-12-17-moz-raxio-group-s-mozambique-and-ethiopia-data-centres-achieve-uptime-inst", "studies": {
+"datacentres": {"countries": {
+"ETH": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Raxio Group says its Ethiopia carrier-neutral data centre has achieved Uptime Institute Tier III Certification of Constructed Facility.", "as_of": "2024-12-17", "date_precision": "day", "system": "Raxio Ethiopia", "class": "datacentre"}], "systems": [{"system": "Raxio Ethiopia", "country_label": "Ethiopia", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III (constructed facility)"}], "note": ""},
+"MOZ": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Raxio Group says its Mozambique carrier-neutral data centre has achieved Uptime Institute Tier III Certification of Constructed Facility.", "as_of": "2024-12-17", "date_precision": "day", "system": "Raxio Mozambique", "class": "datacentre"}], "systems": [{"system": "Raxio Mozambique", "country_label": "Mozambique", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III (constructed facility)"}], "note": ""}}},
+"internationalstandards": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "A data centre's certificate places nothing."},
+"MOZ": {"facts": [], "systems": [], "note": "A data centre's certificate places nothing."}}},
+"nationaldatacentres": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ownership by country not stated."},
+"MOZ": {"facts": [], "systems": [], "note": "Ownership by country not stated."}}}
+}}

@@ -1,0 +1,52 @@
+{
+ "slug": "2024-02-21-zmb-current-law-doesn-t-support-digitisation-smart-zambia-tells-pac",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "Per the Auditor General's report, on 11 June 2019 the Ministry of Finance with Smart Zambia Institute contracted DotGov Solutions to design, develop and implement a national interoperability platform (Government Service Bus).",
+       "as_of": "2019-06-11",
+       "date_precision": "day",
+       "system": "Government Service Bus",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Service Bus",
+       "country_label": "Government Service Bus",
+       "class": "exchange",
+       "platform": "DotGov Solutions",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions an online payment gateway contract and agency resistance to online services, but no service stated launched or counted."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on who runs or builds systems; the platform was contracted to DotGov Solutions."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-10-28-talent-pipelines-versus-compute-limits-inside-rwanda-s-ai-skills-agree","studies":{
+"aiabuse":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Document states nothing on rules or an authority against AI harms."}}},
+"aigovernment":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No government body's use of AI is stated."}}},
+"aisectoral":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No sectoral AI tool is stated."}}},
+"aistrategy":{"countries":{"RWA":{"facts":[{"sub_indicator":"strategy","aspect":"standing","value":"adopted","fact":"The document says Rwanda's policy framework includes the 2023 National AI Policy.","as_of":"2023","date_precision":"year","system":"National AI Policy","class":"strategy"}],"systems":[{"system":"National AI Agency","country_label":"Rwanda","class":"other","platform":"","owner":"government","tiers":""}],"note":"National AI Agency is not tied to carrying out the policy; no funding stated."}}},
+"aisystems":{"countries":{"RWA":{"facts":[],"systems":[],"note":"AISCA grants and H200 GPUs are not stated to be hosted in Rwanda; MoU commits no compute."}}},
+"datacentrepower":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Power figures are continent-wide; no Rwandan data centre named."}}},
+"datacentres":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No Rwandan data centre stated; MoU builds no facilities."}}},
+"nationaldatacentres":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No Rwandan data centre stated."}}}
+}}

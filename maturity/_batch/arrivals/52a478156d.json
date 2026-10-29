@@ -1,0 +1,144 @@
+{
+ "slug": "2026-10-01-gab-gabon-connect-rencontre-du-gouvernement-avec-la-feg",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "eFournisseur for public procurement is only scheduled for January 2027; a plan, not stated as built."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only planned modules or nothing on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only planned modules or nothing on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only planned modules or nothing on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only planned modules or nothing on this question."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "ePropriété for Libreville land registry is only scheduled for September 2027."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only planned modules or nothing on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only planned modules or nothing on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only planned modules or nothing on this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The DGI flyer says Gabon Connect, launched March 2026, brings eTax and TrésorPay online payment of non-tax revenue (oil, mining, forestry) from October 2026, with Mobile Money, card and transfer, rolling out to December 2027.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "TrésorPay",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Gabon Connect",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "gabon-connect.gouv.ga",
+       "owner": "Direction Générale des Impôts",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "underway",
+       "fact": "The DGI flyer says eTax is being integrated into Gabon Connect in October 2026, with a single online monthly salary declaration (eEmployeur) opening 21 October for 440 DGE firms.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "eTax",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Gabon Connect",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "gabon-connect.gouv.ga",
+       "owner": "Direction Générale des Impôts",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

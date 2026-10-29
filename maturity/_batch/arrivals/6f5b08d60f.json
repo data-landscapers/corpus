@@ -1,27 +1,14 @@
-{"slug": "2026-05-02-eth-amnesty-east-southern-africa-media-freedom", "studies": {
-"cybersecuritylaw": {"countries": {
-"COD": {"facts": [], "systems": [], "note": "Names no cybercrime law for the country."},
-"ETH": {"facts": [], "systems": [], "note": "Names no cybercrime law for the country."},
-"MOZ": {"facts": [], "systems": [], "note": "Names no cybercrime law for the country."},
-"SDN": {"facts": [], "systems": [], "note": "Names no cybercrime law for the country."},
-"SOM": {"facts": [], "systems": [], "note": "Names no cybercrime law for the country."},
-"SSD": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Amnesty International says President Salva Kiir Mayardit signed the Cybercrimes and Computer Misuse Act into law in February 2026.", "as_of": "2026-02", "date_precision": "month", "system": "Cybercrimes and Computer Misuse Act", "class": "law"}], "systems": [{"system": "Cybercrimes and Computer Misuse Act", "country_label": "South Sudan", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""},
-"TZA": {"facts": [], "systems": [{"system": "2020 Online Content Regulations", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "TCRA", "tiers": ""}], "note": "Online content regulations are not named as a cybercrime or cybersecurity law."},
-"UGA": {"facts": [], "systems": [], "note": "Names no cybercrime law for the country."},
-"ZWE": {"facts": [], "systems": [], "note": "A cyberbullying charge is stated but the document does not name the law it is brought under."}
-}},
-"opendiscussion": {"countries": {
-"COD": {"facts": [], "systems": [], "note": "Detentions of journalists are by the M23 armed group, not the government."},
-"ETH": {"facts": [{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Amnesty International says Addis Standard managing editor Million Beyene was abducted by national intelligence agency members on 15 April 2026 and held two weeks without access to his lawyer or family, which it says appears linked to his journalism.", "as_of": "2026-04-15", "date_precision": "day", "system": "", "class": "discussion"}], "systems": [], "note": ""},
-"MOZ": {"facts": [], "systems": [], "note": "Radio suspension and journalist arrests are not stated to be for what was said or published."},
-"SDN": {"facts": [], "systems": [], "note": "Arrests of journalists by both sides in the conflict are not stated to be for what was said about the government."},
-"SOM": {"facts": [{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Amnesty International says journalists in Somalia were subjected to arbitrary arrests and prosecution as the government stepped up attempts to censor reporting on insecurity, corruption and forced evictions.", "as_of": "2026-05-02", "date_precision": "day", "system": "", "class": "discussion"}], "systems": [], "note": ""},
-"SSD": {"facts": [], "systems": [], "note": "Only a warning about a new law; no one is stated charged or any cut."},
-"TZA": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Amnesty International says Tanzania's authorities imposed a partial internet shutdown during the October 2025 general elections.", "as_of": "2025-10", "date_precision": "month", "system": "", "class": "discussion"}, {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Amnesty International says the Tanzania Communications Regulatory Authority imposed a 90-day ban on JamiiForums in September 2025, alleging it published misleading and defamatory content about the government.", "as_of": "2025-09", "date_precision": "month", "system": "", "class": "discussion"}], "systems": [], "note": ""},
-"UGA": {"facts": [], "systems": [], "note": "Attacks and coverage bans are not stated to be punishment for speech about the government; the Anti-Homosexuality Act has no one stated charged."},
-"ZWE": {"facts": [{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Amnesty International says Bulawayo24 journalist Gideon Madzikatidze has been in custody since 18 February 2026, charged with cyberbullying and broadcasting without a licence, after publishing a story alleging corruption involving a waste management company.", "as_of": "2026-02-18", "date_precision": "day", "system": "", "class": "discussion"}], "systems": [], "note": ""}
-}},
-"publicconsultation": {"countries": {
-"SOM": {"facts": [], "systems": [], "note": "Says nothing on consultation on digital law or policy."}
-}}
-}}
+{
+ "slug": "2026-05-02-eth-amnesty-east-southern-africa-media-freedom",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Media freedom crackdowns; no consultation on a digital law stated."
+    }
+   }
+  }
+ }
+}

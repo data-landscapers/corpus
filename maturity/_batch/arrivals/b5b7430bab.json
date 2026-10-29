@@ -1,0 +1,160 @@
+{
+ "slug": "2026-05-26-nga-estonia-and-finland-join-forces-to-implement-eu-digital-governance-pro",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "An EU-funded EUR 23m agreement signed by the European Commission, ESTDEV and HAUS provides for ESTDEV to create a data exchange framework and layer based on Estonia's X-Road in Nigeria, with NITDA, NIMC, NDPC, Galaxy Backbone and FMCIDE collaborating over about three years.",
+       "as_of": "2026-05-26",
+       "date_precision": "day",
+       "system": "X-Road based data exchange layer",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "X-Road based data exchange layer",
+       "country_label": "Nigeria data exchange layer",
+       "class": "exchange",
+       "platform": "X-Road",
+       "owner": "ESTDEV/HAUS with NITDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

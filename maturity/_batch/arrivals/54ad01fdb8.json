@@ -1,19 +1,14 @@
-{"slug": "2026-10-26-ethio-telecom-extends-4g-lte-coverage-to-80-more-towns", "studies": {
-"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document is about 4G coverage; nothing on AI harms."}}},
-"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
-"aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public sector AI tool stated."}}},
-"aisystems": {"countries": {"ETH": {"facts": [], "systems": [], "note": "AI is mentioned only as a possible future application; no AI model, dataset or compute stated."}}},
-"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
-"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Telebirr is mentioned only as an example; no central bank role stated."}}},
-"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No consumer protection rule or body stated."}}},
-"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
-"digitaldivides": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Rural site targets are the operator's own commercial plan, with no government or universal service fund programme or rural/urban survey figures stated."}}},
-"egovservices": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government online service stated."}}},
-"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
-"internationalbandwidth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No international fibre route stated."}}},
-"internetusage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only 4G population coverage is given, which is not a share of people using the internet."}}},
-"mobilepenetration": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No phone ownership share stated; only network coverage and sites."}}},
-"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No survey of adults with accounts stated."}}},
-"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Telebirr is named only as an example ecosystem; no service status, interoperability or switch is stated."}}},
-"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No electronic tax or fee payment stated."}}}
-}}
+{
+ "slug": "2026-10-26-ethio-telecom-extends-4g-lte-coverage-to-80-more-towns",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Mobile coverage story; no exchange point stated."
+    }
+   }
+  }
+ }
+}

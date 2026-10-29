@@ -1,0 +1,34 @@
+{
+ "slug": "2024-07-12-tza-e-ga-yajipanga-kuongeza-ubunifu-katika-mifumo-ya-tehama-ya-taasisi-za",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "e-GA, the Tanzanian e-Government Authority set up by Act No. 10 of 2019 to coordinate ICT use in public institutions, says it has connected 148 public institutions to the government service bus GoVESB (e-GA communications manager Subira Kaswaga).",
+       "as_of": "2024-07-12",
+       "date_precision": "day",
+       "system": "GoVESB",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GoVESB",
+       "country_label": "GoVESB",
+       "class": "staff",
+       "platform": "government service bus",
+       "owner": "e-GA",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

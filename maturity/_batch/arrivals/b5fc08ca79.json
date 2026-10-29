@@ -1,0 +1,10 @@
+{"slug": "2024-05-23-zaf-open-access-data-centres-isando-achieves-tier-iii-design-certification", "studies": {
+"datacentres": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Open Access Data Centres says the Uptime Institute awarded Tier III design certification to its carrier-neutral, open-access Isando facility in Johannesburg, which it describes as offering services to clients.", "as_of": "2024-05-23", "date_precision": "day", "system": "OADC Isando", "class": "datacentre"},
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "two", "fact": "Open Access Data Centres states it has four Tier-III facilities and 30 edge data centres in South Africa, all open-access and carrier-neutral.", "as_of": "2024-05-23", "date_precision": "day", "system": "Open Access Data Centres", "class": "datacentre"}
+], "systems": [{"system": "OADC Isando", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Open Access Data Centres", "tiers": "Tier III design certification (Uptime Institute)"}], "note": ""}}},
+"fibrebackbone": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only an operator's open-access fibre claim; no capital-to-regions backbone stated."}}},
+"internationalstandards": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A company's Uptime certificate; nothing on national standards."}}},
+"nationaldatacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document does not state who owns Open Access Data Centres."}}},
+"regionalinfrastructure": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on links shared with another African country."}}}
+}}

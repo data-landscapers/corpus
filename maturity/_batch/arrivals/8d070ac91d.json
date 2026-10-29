@@ -1,0 +1,25 @@
+{
+ "slug": "2025-09-25-businessdaily-kra-nets-sh2-3bn-tech-giants-without-local-units",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "Treasury Cabinet Secretary John Mbadi has published regulations on the Significant Economic Presence Tax for public participation, per Business Daily.",
+       "as_of": "2025-09-25",
+       "date_precision": "day",
+       "system": "Significant Economic Presence Tax draft regulations",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

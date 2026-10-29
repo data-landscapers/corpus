@@ -1,0 +1,577 @@
+{
+ "slug": "2026-10-27-biometricupdate-cross-border-id",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Nigerian Data Protection Commission's Owa says Nigeria's law applies data protection regulations to NINs wherever stored or processed, so interoperability needs regulatory equivalence or other mechanisms such as binding corporate rules in other jurisdictions.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Nigeria data protection law",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa's Yamfashije says Benin, Ghana and Rwanda were selected for the Smart Africa Data Exchange (SADX) pilot, a federated trust platform owned by member states, based on readiness.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Smart Africa Data Exchange (SADX)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa's Yamfashije says Benin, Ghana and Rwanda were selected for the Smart Africa Data Exchange (SADX) pilot, a federated trust platform owned by member states, based on readiness.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Smart Africa Data Exchange (SADX)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa's Yamfashije says Benin, Ghana and Rwanda were selected for the Smart Africa Data Exchange (SADX) pilot, a federated trust platform owned by member states, based on readiness.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Smart Africa Data Exchange (SADX)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

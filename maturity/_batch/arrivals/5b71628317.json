@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-28-cmr-uptime-institute-awards-cameroon",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Design-document certificates only; no statement of a facility in service or for hire."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Design-document certificates only; ownership and for-hire service not stated."
+    }
+   }
+  }
+ }
+}

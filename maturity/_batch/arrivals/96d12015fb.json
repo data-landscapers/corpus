@@ -1,0 +1,16 @@
+{"slug": "2024-04-11-uga-trusted-data-exchange-is-key-to-driving-africa-s-digital-future-uganda",
+"studies": {
+"civilserviceskills": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No civil-service digital-skills training stated."}}},
+"dataexchange": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "NITA-U's UGhub integration platform is live, enabling data sharing across Uganda government systems and the private sector, per DIAL.", "as_of": "2024-04-11", "date_precision": "day", "system": "UGhub", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "DIAL states 113 public and private entities have been boarded on UGhub.", "as_of": "2024-04-11", "date_precision": "day", "system": "UGhub", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "DIAL reports over 90 million transactions conducted through UGhub, as reported by NITA-U.", "as_of": "2024-04-11", "date_precision": "day", "system": "UGhub", "class": "exchange"}
+], "systems": [{"system": "UGhub", "country_label": "UGhub", "class": "exchange", "platform": "UGhub", "owner": "NITA-U", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No public digital-skills programme or measured share stated."}}},
+"digitalstrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only names a Digital Transformation Roadmap in passing; no standing, text or plan stated."}}},
+"egovservices": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No online government services portal or count stated."}}},
+"feedbackportals": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Grievance mechanisms are for UGhub participants, not public-service feedback."}}},
+"internetusage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only an Africa-wide internet user growth figure; none for Uganda."}}},
+"itcapacity": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Says UGhub is built by Ugandans, but names no government staff running it or a state body building systems."}}},
+"schoolinternet": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

@@ -1,0 +1,115 @@
+{
+ "slug": "2026-10-28-vanguard-22-financial-institutions-yet-to-begin-data-localisation-nitda-survey",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "NITDA's survey, presented with the CBN, treats Nigeria's data localisation requirements for payment transaction data as in force with a compliance deadline of 2027-01-01, with 22 of 44 financial institutions yet to begin implementing.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "Nigeria data localisation requirements (payment transaction data)",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

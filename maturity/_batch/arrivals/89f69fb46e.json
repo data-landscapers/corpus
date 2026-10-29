@@ -1,0 +1,234 @@
+{
+ "slug": "2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "e-GA says its GovESB links public bodies' ICT systems so they exchange data, and 109 public institutions are connected.",
+       "as_of": "2023-12-22",
+       "date_precision": "day",
+       "system": "GovESB",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "e-GA says 109 public institutions are connected to GovESB and 117 systems registered, including NIDA, BRELLA, NECTA, the Judiciary, Police, TAKUKURU and NPS.",
+       "as_of": "2023-12-22",
+       "date_precision": "day",
+       "system": "GovESB",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GovESB",
+       "country_label": "Government Enterprise Service Bus",
+       "class": "exchange",
+       "platform": "",
+       "owner": "e-GA",
+       "tiers": ""
+      }
+     ],
+     "note": "No figure for exchanges through it."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "e-GA says TeSWS phase one (customs procedures, control and inspection agencies, payments) is in use at Dar es Salaam port and Julius Nyerere airport by all 1,496 clearing agents and 246 cargo handlers.",
+       "as_of": "2023-12-22",
+       "date_precision": "day",
+       "system": "TeSWS",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "e-GA says TeSWS lets traders lodge customs and cargo data once for all participating border and regulatory agencies (TRA, TPA, TBS and others), phase one in use.",
+       "as_of": "2023-12-22",
+       "date_precision": "day",
+       "system": "TeSWS",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TeSWS",
+       "country_label": "Tanzania Electronic Single Window System",
+       "class": "customs",
+       "platform": "",
+       "owner": "e-GA with TRA, TPA, Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": "No regional exchange stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "e-GA says the Government Mobile Platform (mGov) is linked to all mobile operators to deliver government services by phone; no count of services given.",
+       "as_of": "2023-12-22",
+       "date_precision": "day",
+       "system": "mGov",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "mGov",
+       "country_label": "Government Mobile Platform",
+       "class": "eservices",
+       "platform": "mobile",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No count of ten or more services, gateway or usage figures."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "e-GA says section 48(2) of the e-Government Act No. 10 of 2019 requires it to establish and run a system enabling government ICT systems to exchange data.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "e-Government Act No. 10 of 2019",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": "Act binds e-GA; no source says it obliges other bodies to share."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "e-GA, a public authority, says it built GovESB itself and runs it.",
+       "as_of": "2023-12-22",
+       "date_precision": "day",
+       "system": "GovESB",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "e-GA says it built and operates GovESB connecting 109 public institutions' systems.",
+       "as_of": "2023-12-22",
+       "date_precision": "day",
+       "system": "GovESB",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GovESB",
+       "country_label": "GovESB",
+       "class": "staff",
+       "platform": "",
+       "owner": "e-GA",
+       "tiers": ""
+      }
+     ],
+     "note": "No go-live date or count of systems wholly run by staff."
+    }
+   }
+  }
+ }
+}

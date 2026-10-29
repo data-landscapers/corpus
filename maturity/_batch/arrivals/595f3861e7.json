@@ -1,0 +1,7 @@
+{"slug": "2025-04-11-moz-intic-realiza-visita-de-trabalho-a-data-center-business-da-vodacom", "studies": {
+"datacentres": {"countries": {"MOZ": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Mozambique's ICT regulator INTIC states that Vodacom Mozambique's Matola data centre, inaugurated on 28 March 2025 to give businesses operating in Mozambique a technology platform, is certified to the Tier III standard.", "as_of": "2025-04-08", "date_precision": "day", "system": "Vodacom Data Center Business, Matola", "class": "datacentre"}], "systems": [{"system": "Vodacom Data Center Business, Matola", "country_label": "Mozambique", "class": "datacentre", "platform": "", "owner": "Vodacom Mozambique", "tiers": "Tier III"}], "note": ""}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not discuss national ID."}}},
+"internationalbandwidth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Names SEACOM, 2Africa and EASSY only as the data centre's connectivity, not as cables landing in service in the country."}}},
+"localgov": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not discuss local government offices."}}},
+"nationaldatacentres": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not state who owns the facility beyond naming Vodacom Mozambique."}}}
+}}

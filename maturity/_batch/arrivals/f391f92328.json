@@ -1,0 +1,25 @@
+{
+ "slug": "2026-10-28-gabon-union-africaine-accord-cooperation-numerique",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Gabon's digital economy minister Mark-Alexandre Doumba and AU Commissioner Lerato Mataboge signed a host country agreement on ICT cooperation in Libreville, per GabonReview.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "Host Country Agreement (Gabon-African Union)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "slug": "2025-12-19-ssd-rigid-government-institutions-given-ultimatum-to-digitize-by-january-2",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "A Republic Order from President Salva Kiir gave the E-Service Board full authority to digitise all government institutions by January 2026, with the board chair saying e-service rollout is under way across payments, licensing and records.",
+       "as_of": "2025-12-18",
+       "date_precision": "day",
+       "system": "E-Service Board",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-Service Board",
+       "country_label": "South Sudan",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Information, Communication Technology and Postal Services",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  }
+ }
+}

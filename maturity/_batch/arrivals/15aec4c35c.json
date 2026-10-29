@@ -1,0 +1,97 @@
+{
+ "slug": "2025-09-25-civ-lancement-officiel-de-la-plateforme-d-interoperabilite-de-l-administra",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "The Ministry of Digital Transition officially launched the Administration Interoperability Platform (Cybernetica UXP, X-Road based) on 25 September 2025, with twelve pilot bodies in its first phase, including the tax directorate, civil status office, social security fund and Abidjan commercial court; led by SNDI.",
+       "as_of": "2025-09-25",
+       "date_precision": "day",
+       "system": "Plateforme d'Interopérabilité de l'Administration (UXP)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Plateforme d'Interopérabilité de l'Administration (UXP)",
+       "country_label": "CIV",
+       "class": "exchange",
+       "platform": "Cybernetica UXP (X-Road based)",
+       "owner": "SNDI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

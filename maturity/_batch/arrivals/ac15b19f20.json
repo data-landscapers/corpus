@@ -1,12 +1,30 @@
 {
  "slug": "2026-07-17-starlink-launches-27th-african-country-ivory-coast",
  "studies": {
-  "metsatellite": {
+  "exchangepoints": {
    "countries": {
-    "ZAF": {
+    "ERI": {
      "facts": [],
      "systems": [],
-     "note": "About Starlink internet availability; nothing on the national weather service."
+     "note": "Only a Starlink launch table row; nothing on exchange points."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Satellite availability only; no fibre route stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "No usage figure stated."
     }
    }
   }

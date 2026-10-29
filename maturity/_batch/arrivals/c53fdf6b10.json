@@ -1,0 +1,118 @@
+{
+ "slug": "2026-06-26-mar-mtnra-un-open-source-week-seghrouchni-seance-inaugurale",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Morocco."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Morocco."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Morocco."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Morocco."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Morocco."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Morocco."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Morocco."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The ministry says Morocco is developing AI models for Arabic, darija and Amazigh and has created a joint laboratory with Mistral AI for co-development of AI models.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "Joint laboratory with Mistral AI",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "The minister says the national interoperability platform has already processed more than 52 million transactions.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "national interoperability platform",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "The ministry gives a figure of more than 52 million transactions processed by the national interoperability platform, with no period stated.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "national interoperability platform",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

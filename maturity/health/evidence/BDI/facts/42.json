@@ -1,0 +1,31 @@
+{
+ "slug": "2026-06-18-bdi-automating-hiv-data-exchange-in-burundi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIDAInfo",
+   "country_label": "Burundi",
+   "class": "tracker",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "IBIPIMO",
+   "country_label": "Burundi",
+   "class": "single-function",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Burundi",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "MINISANTE",
+   "tiers": ""
+  }
+ ],
+ "note": "Only HIV-programme and laboratory systems and a DHIS2 mention; no tiers, digitisation point, governance or clinic coverage stated."
+}

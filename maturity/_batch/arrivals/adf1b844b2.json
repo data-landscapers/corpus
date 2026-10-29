@@ -1,0 +1,15 @@
+{"slug":"2025-05-31-cmr-il-n-y-a-pas-de-datacenters-tier-iii-au-cameroun-le-pr-chantal-mveh-al","studies":{
+"aiabuse":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on AI harms."}}},
+"aigovernment":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on AI in administration."}}},
+"aisectoral":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on sectoral AI."}}},
+"aisystems":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on AI built in the country."}}},
+"datacentres":{"countries":{"CMR":{"facts":[],"systems":[],"note":"States no certified Tier III site, but not that no data centre is for hire or that none exists."}}},
+"dataprotectionlaw":{"countries":{"CMR":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"enacted","fact":"The CENADI director general says a personal data protection law was promulgated in December 2024.","as_of":"2024-12","date_precision":"month","system":"Personal data protection law of December 2024","class":"general"},
+{"sub_indicator":"general","aspect":"regulations","value":"none","fact":"The CENADI director general says the December 2024 data protection law still has no implementing texts, and urges decrees on the regulator's missions, DPOs and control.","as_of":"2025-05-22","date_precision":"day","system":"Personal data protection law of December 2024","class":"general"}],"systems":[],"note":""}}},
+"digitalsovereignty":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Only a CENADI proposal for a Cameroonian cloud, not a government strategy or rule."}}},
+"nationaldatacentres":{"countries":{"CMR":{"facts":[],"systems":[],"note":"No ownership or hosting stated for a data centre for hire."}}},
+"regionalpolicy":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on African regional bodies."}}},
+"satellitebroadband":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on satellite broadband."}}},
+"schoolinternet":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on schools."}}}
+}}

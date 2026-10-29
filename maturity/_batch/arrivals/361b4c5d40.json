@@ -1,0 +1,271 @@
+{
+ "slug": "2026-10-28-xaf-kenya-calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Kenya's ICT Cabinet Secretary William Kabogo said the Kenya Artificial Intelligence Strategy 2025-2030 guides the Government's approach to emerging technologies.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "Kenya Artificial Intelligence Strategy 2025-2030",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "Cabinet Secretary Kabogo said the government established the National Cybersecurity Agency through a presidential order published in the Kenya Gazette to lead national coordination and run the National Cybersecurity Operations Centre.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "National Cybersecurity Agency",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Cybersecurity Agency",
+       "country_label": "National Cybersecurity Agency",
+       "class": "response",
+       "platform": "National Cybersecurity Operations Centre",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      },
+      {
+       "system": "National KE-CIRT/CC",
+       "country_label": "National Kenya Computer Incident Response Team Coordination Centre",
+       "class": "response",
+       "platform": "",
+       "owner": "Communications Authority of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Cabinet Secretary Kabogo cited increasing use of digital government services through Kenya's eCitizen platform, with each service moved online.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "eCitizen",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eCitizen",
+       "country_label": "eCitizen",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  }
+ }
+}

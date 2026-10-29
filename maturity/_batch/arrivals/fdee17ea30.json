@@ -1,0 +1,173 @@
+{
+ "slug": "2025-01-01-rwa-minict-national-data-sharing-policy-annex-7-platform-requirements",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "Annex 7 to the National Data Sharing Policy, issued by the Ministry of ICT and Innovation, says an accredited provider such as RISA will develop and implement a data sharing platform between government entities, possibly based on the Government Enterprise Services Bus or an API gateway.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Data Sharing Platform",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Enterprise Services Bus (GESB)",
+       "country_label": "GESB",
+       "class": "exchange",
+       "platform": "enterprise service bus",
+       "owner": "RISA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Annex 7 says the Data Protection Office of the Rwanda National Cyber Security Agency fulfils the role of Data Protection Commissioner, the supervisory authority under Law N\u00b0 058/2021, and enforces its requirements.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Data Protection Office, National Cyber Security Agency",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Annex 7 says the Data Protection Office of the National Cyber Security Agency fulfils the supervisory authority role under Law N\u00b0 058/2021 on Data Protection and Privacy and enforces it.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Law N\u00b0 058/2021 (DPPL)",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The annex states nothing this study asks about Rwanda."
+    }
+   }
+  }
+ }
+}

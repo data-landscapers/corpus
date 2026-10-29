@@ -1,0 +1,94 @@
+{
+ "slug": "2026-10-28-tap-pay-go-mastercard-and-interswitch-bring-google-pay-to-nigeria",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIBSS instant payments",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "national payments switch",
+       "owner": "NIBSS",
+       "tiers": ""
+      },
+      {
+       "system": "Google Pay tap-to-pay",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "tokenised NFC cards",
+       "owner": "Mastercard/Interswitch",
+       "tiers": ""
+      }
+     ],
+     "note": "Card tokenisation and bank-transfer switch only; no mobile money or wallet-bank switch stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

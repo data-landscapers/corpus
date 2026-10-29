@@ -1,0 +1,4 @@
+{"slug": "2024-04-16-wingu-africa-addis-tier-iii-constructed-facility", "studies": {
+"datacentres": {"countries": {"ETH": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Wingu Africa Group says it fulfilled all eligibility criteria for Uptime Institute Tier III certification of its constructed data centre in the ICT Park, Addis Ababa, following Tier III design certification, and that it serves clients.", "as_of": "2024-04-16", "date_precision": "day", "system": "Wingu Africa data centre, ICT Park Addis Ababa", "class": "datacentre"}], "systems": [{"system": "Wingu Africa data centre, ICT Park Addis Ababa", "country_label": "Ethiopia", "class": "datacentre", "platform": "", "owner": "Wingu Africa Group", "tiers": "Tier III (design and constructed facility)"}], "note": ""}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document does not state the owner's nationality."}}}
+}}

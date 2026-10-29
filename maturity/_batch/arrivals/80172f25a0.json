@@ -1,0 +1,115 @@
+{
+ "slug": "2026-10-26-zwe-paradigm-zimbabwe-14th-digital-rights-inclusion",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Press release states nothing this study asks; it says only that digital ID legislation is not adopted, which is no service or stage fact."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks of Zimbabwe."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks of Zimbabwe."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks of Zimbabwe."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Press release states nothing this study asks; it says only that digital ID legislation is not adopted, which is no service or stage fact."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks of Zimbabwe."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks of Zimbabwe."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Press release states nothing this study asks; it says only that digital ID legislation is not adopted, which is no service or stage fact."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks of Zimbabwe."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks of Zimbabwe."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Paradigm Initiative's Londa 2025 report states that in 2025 arbitrary arrests of journalists and human rights defenders continued in Zimbabwe and that sedition legislation and the criminalisation of false news were applied against freedom of expression.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Londa 2025 Zimbabwe report",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": "Report also says there was no internet shutdown in 2025; that is not a cut or a bar, so no fact."
+    }
+   }
+  }
+ }
+}

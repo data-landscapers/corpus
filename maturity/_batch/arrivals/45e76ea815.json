@@ -1,0 +1,92 @@
+{
+ "slug": "2025-07-21-cmr-cameroun-camtel-projette-de-creer-9-datacenters-decentralises-l-esig-i",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Camtel staff say the operator has a Tier III data centre that is available and being promoted to local and international players to host their data.",
+       "as_of": "2025-07-21",
+       "date_precision": "day",
+       "system": "Camtel Tier III data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Camtel Tier III data centre",
+       "country_label": "Cameroon",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Camtel",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Sovereignty is mentioned only in general; no government data hosting, rule or contract terms stated."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "Camtel staff say an exchange point run by CAMIX brings together several players, but is still embryonic.",
+       "as_of": "2025-07-21",
+       "date_precision": "day",
+       "system": "CAMIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Camtel staff say its network is meshed and redundant with 4 submarine cables, giving several exit routes; landing stations are not stated.",
+       "as_of": "2025-07-21",
+       "date_precision": "day",
+       "system": "Camtel submarine cables",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state who owns the Tier III data centre as a national owner basis beyond Camtel being the operator; no ownership or state hosting stated."
+    }
+   }
+  }
+ }
+}

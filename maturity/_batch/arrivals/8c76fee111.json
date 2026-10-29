@@ -1,0 +1,7 @@
+{"slug": "2025-09-22-ken-draft-income-tax-sep-tax-regulations-2025", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Draft tax regulations list AI services as taxable; no AI harm rule or authority stated."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on AI in a public sector system."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in Kenya."}}},
+"publicconsultation": {"countries": {"KEN": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The National Treasury and Kenya Revenue Authority published the draft Income Tax (Significant Economic Presence Tax) Regulations, 2025 as a draft for public participation.", "as_of": "2025-09-22", "date_precision": "day", "system": "Income Tax (Significant Economic Presence Tax) Regulations, 2025 (draft)", "class": "consultation"}], "systems": [], "note": ""}}}
+}}

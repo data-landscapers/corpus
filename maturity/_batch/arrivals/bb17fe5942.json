@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-28-linfodrome-cyber-ex-2026-anssi-prepare-crises-numeriques",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANSSI",
+       "country_label": "Agence nationale de la sécurité des systèmes d'information",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document describes a simulation exercise run by ANSSI, which is other; no body creation, incident, designation or figures stated."
+    }
+   }
+  }
+ }
+}

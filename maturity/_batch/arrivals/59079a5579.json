@@ -1,0 +1,9 @@
+{"slug": "2026-09-18-eri-martinplaut-new-cash-restrictions", "studies": {
+"businesspayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Document is about cash holding limits; says nothing of e-procurement."}}},
+"consumerprotection": {"countries": {"ERI": {"facts": [], "systems": [], "note": "No consumer-protection rule or complaints body for digital financial services is stated."}}},
+"crossborderpayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "No cross-border digital payment channel is mentioned."}}},
+"g2ppayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "No government payment to people is described."}}},
+"paymentsuptake": {"countries": {"ERI": {"facts": [], "systems": [], "note": "No survey share of adults with accounts is given."}}},
+"retailpayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "States no card or ATM facilities and few electronic alternatives, but names no mobile money or e-money licence status."}}},
+"revenuecollection": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees."}}}
+}}

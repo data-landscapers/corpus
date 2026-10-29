@@ -1,33 +1,12 @@
 {
  "slug": "2025-12-15-eth-hrw-dw-journalists-suspended",
  "studies": {
-  "opendiscussion": {
+  "publicconsultation": {
    "countries": {
     "ETH": {
-     "facts": [
-      {
-       "sub_indicator": "discussion",
-       "aspect": "penalty",
-       "value": "punished",
-       "fact": "Human Rights Watch reports the Ethiopian Media Authority permanently suspended two Deutsche Welle correspondents, alleging noncompliance with media and hate speech laws, after a nine-correspondent suspension from 23 October 2025.",
-       "as_of": "2025-12",
-       "date_precision": "month",
-       "system": "",
-       "class": "discussion"
-      },
-      {
-       "sub_indicator": "discussion",
-       "aspect": "penalty",
-       "value": "punished",
-       "fact": "Human Rights Watch says police arrested at least six Ethiopian journalists in the five months to mid-December 2025, some held without charge.",
-       "as_of": "2025-12",
-       "date_precision": "month",
-       "system": "",
-       "class": "discussion"
-      }
-     ],
+     "facts": [],
      "systems": [],
-     "note": ""
+     "note": "Media suspensions; no digital law consultation stated."
     }
    }
   }

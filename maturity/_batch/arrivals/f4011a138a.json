@@ -1,0 +1,23 @@
+{
+ "slug": "2023-12-03-ncc-maida-promises-support-for-meta-undersea-cable",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Undersea cable plan only; no national backbone stated."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "2Africa landing planned, not stated in service."
+    }
+   }
+  }
+ }
+}

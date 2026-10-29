@@ -1,32 +1,12 @@
 {
  "slug": "2025-10-26-ssd-police-cyber-crime-legislation-will-strengthen-enforcement-and-protect",
  "studies": {
-  "cybersecuritylaw": {
-   "countries": {
-    "SSD": {
-     "facts": [
-      {
-       "sub_indicator": "law",
-       "aspect": "standing",
-       "value": "bill",
-       "fact": "The Transitional National Legislative Assembly passed the Cyber Crime and Computer Misuse Bill to its third reading; police describe it as soon to be enacted.",
-       "as_of": "2025-10-26",
-       "date_precision": "day",
-       "system": "Cyber Crime and Computer Misuse Bill",
-       "class": "law"
-      }
-     ],
-     "systems": [],
-     "note": "No dated arrest or case under a law stated; use not recorded."
-    }
-   }
-  },
-  "internetusage": {
+  "cybersecurity": {
    "countries": {
     "SSD": {
      "facts": [],
      "systems": [],
-     "note": "No internet usage share stated."
+     "note": "Cybercrime law and police unit only; no national cyber body, strategy, alert or designation stated."
     }
    }
   }

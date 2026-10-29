@@ -1,0 +1,298 @@
+{
+ "slug": "2025-04-13-mar-add-silence-on-digitalise",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The ADD, with the DGSN, runs an identification and authentication platform based on the electronic national ID card (CNIE), launched in 2022, with the ADD acting as national trusted third party.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "CNIE identification and authentication platform",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "The ADD says the CNIE authentication platform has integrated more than 90 service providers from the public and private sectors since 2022.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "CNIE identification and authentication platform",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "Citizens download the app Mon identité numérique to use the CNIE as an NFC card to reach online services, the ADD says.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Mon identité numérique",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mon identité numérique",
+       "country_label": "Morocco",
+       "class": "authentication",
+       "platform": "CNIE NFC",
+       "owner": "ADD/DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "The ADD says more than 76 bodies are connected to the GISRE national interoperability platform, exchanging data for more than 12 operational use cases including the RSU, AMO Tadamon, Massar and the civil status register.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "GISRE interoperability platform",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The ADD says more than 76 organisations are connected to GISRE.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "GISRE interoperability platform",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "The ADD says GISRE processed more than 95 million transactions in 2024, affecting 18 million citizens.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "GISRE interoperability platform",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GISRE",
+       "country_label": "Morocco",
+       "class": "exchange",
+       "platform": "GISRE",
+       "owner": "ADD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The document describes the electronic national ID card (CNIE), used as an NFC card with the Mon identité numérique app, in service with the DGSN.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "CNIE",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The ADD says the GISRE platform carries data exchange for operational use cases including the Registre social unifié and AMO Tadamon.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "GISRE interoperability platform",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "The ADD says the Label JEI, created in 2019, has benefited more than 540 startups out of 1,303 applications, with an international payment card allowance of up to 1 million dirhams a year.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Label JEI",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  }
+ }
+}

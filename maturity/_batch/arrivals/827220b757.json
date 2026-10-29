@@ -1,0 +1,189 @@
+{
+ "slug": "2026-03-26-moz-mozambique-fintech-week-26-ausencia-de-interoperabilidade-trava-servic",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "ATDI's Sérgio Mapsanganhe said a national interoperability platform based on X-Road is in development and testing, expected to be functional by October 2026, to integrate public services and talk to the private sector.",
+       "as_of": "2026-03-26",
+       "date_precision": "day",
+       "system": "national interoperability platform (X-Road based)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national interoperability platform",
+       "country_label": "Mozambique",
+       "class": "exchange",
+       "platform": "X-Road",
+       "owner": "ATDI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Rogério Lam of the Associação dos Bancos de Moçambique said the country has interoperable systems linking banks and e-money institutions that allow faster transfers.",
+       "as_of": "2026-03-26",
+       "date_precision": "day",
+       "system": "bank and e-money institution interoperable transfer systems",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Mozambique."
+    }
+   }
+  }
+ }
+}

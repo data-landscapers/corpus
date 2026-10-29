@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-26-zaf-timeslive-imc-migration-biometric-entry-tracking-plans",
+ "studies": {
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Border entry tracking is not the national ID system."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on local government connection."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Plans concern foreign nationals entering, not refugee registration."
+    }
+   }
+  }
+ }
+}

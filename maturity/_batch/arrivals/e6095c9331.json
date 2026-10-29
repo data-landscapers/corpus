@@ -1,0 +1,57 @@
+{
+ "slug": "2026-10-27-accessnow-noexamshutdown-one-step-forward-another-step-back",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Access Now says Algeria's Education Minister Mohamed Seghir Saadaoui explained connectivity would be imposed only inside exam centres from the Baccalaureate start on 7 June 2026.",
+       "as_of": "2026-06-07",
+       "date_precision": "day",
+       "system": "Baccalaureate exam connectivity restrictions",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Access Now says Sudan's government ordered 10 internet shutdowns during exams between 13 and 23 April 2026.",
+       "as_of": "2026-04-13",
+       "date_precision": "day",
+       "system": "Exam internet shutdowns",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Access Now, citing OONI anomaly data, says widespread mobile internet disruptions affecting messaging apps hit Tunisia during the Baccalaureate session from 3 June 2026 and again 29 June to 2 July 2026.",
+       "as_of": "2026-06-03",
+       "date_precision": "day",
+       "system": "Baccalaureate exam mobile disruptions",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

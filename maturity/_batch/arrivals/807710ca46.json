@@ -1,0 +1,35 @@
+{"slug": "2026-10-28-la-mauritanie-explore-l-exp-rience-marocaine-pour-interconnecter-ses-a", "studies": {
+"civilserviceskills": {"countries": {
+ "MAR": {"facts": [], "systems": [], "note": "Academia Raqmya is named as a digital-skills platform with no audience or civil-service training stated."},
+ "MRT": {"facts": [], "systems": [], "note": "Nothing stated on civil-service digital training."}}},
+"cybersecurity": {"countries": {
+ "MAR": {"facts": [], "systems": [], "note": "DGSSI is only named as a body the delegation met; nothing on its response."},
+ "MRT": {"facts": [], "systems": [], "note": "Nothing stated on a Mauritanian cyber body or strategy."}}},
+"digitalskills": {"countries": {
+ "MAR": {"facts": [], "systems": [{"system": "Academia Raqmya", "country_label": "Academia Raqmya (ADD)", "class": "other", "platform": "", "owner": "ADD", "tiers": ""}], "note": "Academia Raqmya is said to strengthen digital skills but the document gives no audience, programme status or numbers trained."},
+ "MRT": {"facts": [], "systems": [], "note": "Nothing stated on public digital-skills training."}}},
+"digitalsovereignty": {"countries": {
+ "MAR": {"facts": [], "systems": [], "note": "Nothing stated on control of state data."},
+ "MRT": {"facts": [
+  {"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Mauritania launched its national cloud in June 2026, which the report says aims to host public applications and strengthen national control of the administration's data and computing resources.", "as_of": "2026-06", "date_precision": "month", "system": "national cloud", "class": "sovereignty"}],
+  "systems": [{"system": "national cloud", "country_label": "Mauritania national cloud", "class": "sovereignty", "platform": "cloud", "owner": "state", "tiers": ""}], "note": ""}}},
+"interoperability": {"countries": {
+ "MAR": {"facts": [], "systems": [], "note": "ADD's interoperability work is named but no framework status is stated."},
+ "MRT": {"facts": [
+  {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "Mauritania is putting in place a common digital architecture for its administrations, and the report says the framework drawn up provides a national library of reusable components, with the digital transformation ministry having begun interconnecting public systems.", "as_of": "2026-10", "date_precision": "month", "system": "common digital architecture", "class": "framework"}],
+  "systems": [{"system": "common digital architecture", "country_label": "Mauritania common digital architecture", "class": "framework", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {
+ "MAR": {"facts": [], "systems": [], "note": "Nothing stated on data centres."},
+ "MRT": {"facts": [], "systems": [], "note": "The national cloud is said to aim to host public applications; no data centre, owner, tier or hosting is stated."}}},
+"opendatapolicy": {"countries": {
+ "MAR": {"facts": [], "systems": [], "note": "Data.gov.ma is named as a portal; no policy is stated."},
+ "MRT": {"facts": [], "systems": [], "note": "Nothing stated on a Mauritanian open data policy."}}},
+"opendatause": {"countries": {
+ "MAR": {"facts": [
+  {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "Morocco's ADD presented the national open data portal Data.gov.ma to a Mauritanian delegation in Rabat, as one of the tools it has developed.", "as_of": "2026-10", "date_precision": "month", "system": "Data.gov.ma", "class": "open"}],
+  "systems": [{"system": "Data.gov.ma", "country_label": "Data.gov.ma (data.gov.ma)", "class": "open", "platform": "portal", "owner": "ADD", "tiers": ""}], "note": ""},
+ "MRT": {"facts": [], "systems": [], "note": "Nothing stated on Mauritanian open data."}}},
+"regionalpolicy": {"countries": {
+ "MAR": {"facts": [], "systems": [], "note": "A partnership between ADD and AN-ETAT is said to be signed but its date and digital-policy content are not given; no joint-project calendar announced."},
+ "MRT": {"facts": [], "systems": [], "note": "A partnership between AN-ETAT and ADD is said to be signed but its date and digital-policy content are not given; no joint-project calendar announced."}}}
+}}

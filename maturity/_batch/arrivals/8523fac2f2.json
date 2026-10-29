@@ -1,0 +1,11 @@
+{"slug": "2025-08-01-moz-mctd-workshop-partes-interessadas-politica-estrategia-governacao-dados", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on rules or authority for AI harms."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is stated."}}},
+"civilserviceskills": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No civil-service digital-skills training is stated."}}},
+"datagovernance": {"countries": {"MOZ": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Minister Americo Muchanga said at the opening of a stakeholder workshop in Maputo that the National Data Governance Policy and Strategy is being prepared, and noted the absence of clear data governance policies.", "as_of": "2025-08", "date_precision": "month", "system": "National Data Governance Policy and Strategy", "class": "policy"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on a data protection law; it only mentions data protection as a challenge."}}},
+"digitaldivides": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No rural connection programme or rural/urban figures stated."}}},
+"digitalskills": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only a mention of low digital literacy; no programme or measured share."}}}
+}}

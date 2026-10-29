@@ -1,0 +1,52 @@
+{"slug": "2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms", "studies": {
+"addressregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states nothing about street addressing or an address register."}}},
+"admindata": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states nothing about statistics drawn from administrative records."}}},
+"authentication": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Benin's ID4Africa deck lists a Public Key Infrastructure among what Benin has, and cites Decree No. 2018-530 of 14 November 2018 on the institutional framework for governance of the national system of public key infrastructures.", "as_of": "2025-05", "date_precision": "month", "system": "Public Key Infrastructure (PKI)", "class": "authentication"}
+], "systems": [{"system": "Public Key Infrastructure (PKI)", "country_label": "National PKI system", "class": "authentication", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck names no link between the civil register and the ID system."}}},
+"businessregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Legal persons appear only as a reference register in a list; nothing on online registration or the register's state."}}},
+"civilregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states nothing about civil registration of births or deaths."}}},
+"cybersecurity": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Benin's ID4Africa deck lists a National CERT among what Benin has, alongside a policy for the security of the State's information systems (PSSIE).", "as_of": "2025-05", "date_precision": "month", "system": "National CERT", "class": "response"}
+], "systems": [{"system": "National CERT", "country_label": "National CERT", "class": "response", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"BEN": {"facts": [], "systems": [{"system": "National Tier 3 Datacenter", "country_label": "National Tier 3 Datacenter and MEF Datacenter", "class": "other", "platform": "", "owner": "state", "tiers": "Tier 3"}], "note": "A national Tier 3 data centre is listed, but the deck does not say it rents space or computing to others."}}},
+"dataexchange": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "Benin's ID4Africa deck describes the National Interoperability Platform (PNI, XROAD BJ), an X-Road based service bus, as in use, with identity services exposed as secure APIs to third-party systems.", "as_of": "2025-05", "date_precision": "month", "system": "PNI (XROAD BJ)", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "Benin's deck reports successful integration of more than 120 systems through the PNI (XROAD BJ), including the Public Services Portal, the ANIP natural persons registry, e-Tax and Insurance for the Poor.", "as_of": "2025-05", "date_precision": "month", "system": "PNI (XROAD BJ)", "class": "exchange"}
+], "systems": [{"system": "PNI (XROAD BJ)", "country_label": "National Interoperability Platform (PNI)", "class": "exchange", "platform": "X-Road", "owner": "ASIN (coordination structure)", "tiers": ""}, {"system": "CatIS", "country_label": "Interoperability Services Catalogue (CatIS)", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"datagovernance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck lists a national AI and big data strategy and next steps on data governance, but no national data policy being written or adopted."}}},
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Benin's ID4Africa deck says its legal framework is strengthened with the law on the protection of personal data, and lists the Code du Numerique as a modern and stable regulatory framework.", "as_of": "2025-05", "date_precision": "month", "system": "Law on the protection of personal data", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A national digitalization strategy is mentioned in passing, with no word on its adoption, text, plan or reporting."}}},
+"egovservices": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Benin's deck shows the National Public Services Portal with e-services, 'including 120 on PNS', and says the portal is integrated through the PNI.", "as_of": "2025-05", "date_precision": "month", "system": "National Public Services Portal", "class": "eservices"}
+], "systems": [{"system": "National Public Services Portal", "country_label": "National Public Services Portal (PNS)", "class": "eservices", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"electoralregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states nothing about a voters' roll."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck gives no count or share of people enrolled."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states nothing about an ID number given at birth."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states nothing about who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Systems are integrated with the ANIP register through the PNI, but the deck does not say any register is keyed on the national ID number."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Benin's deck cites Decree No. 2020-099 of 26 February 2020 on the personal identification number and says the ANIP register of natural persons is accessible to all key government platforms through the PNI.", "as_of": "2025-05", "date_precision": "month", "system": "ANIP natural persons register", "class": "idsystem"}
+], "systems": [{"system": "ANIP natural persons register", "country_label": "National Registry of Natural Persons (ANIP)", "class": "idsystem", "platform": "", "owner": "ANIP", "tiers": ""}], "note": ""}}},
+"interoperability": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "framework", "aspect": "use", "value": "followed", "fact": "Benin's deck shows the PNI governed under an 'XROAD Interoperability Framework' with a National Interoperability Committee, and reports more than 120 systems integrated through it.", "as_of": "2025-05", "date_precision": "month", "system": "XROAD Interoperability Framework", "class": "framework"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A cadastre appears only as a reference register in a list; nothing on its digital state or coverage."}}},
+"localgov": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states nothing about local government office connections."}}},
+"nationaldatacentres": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A national Tier 3 data centre is listed, but not said to be for hire or to host government data."}}},
+"nonstatefinance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states no private money amount."}}},
+"opendatause": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck says only that Benin joined the OGP; no published datasets."}}},
+"populationregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "Benin's deck lists reference registers for people (citizens) among what Benin has, and cites Decree No. 2020-100 of 26 February 2020 implementing the National Registry of Natural Persons.", "as_of": "2025-05", "date_precision": "month", "system": "National Registry of Natural Persons", "class": "population"},
+{"sub_indicator": "population", "aspect": "used", "value": "source", "fact": "Benin's deck says the ANIP register is accessible by all key government platforms through the PNI (XROAD BJ), and that systems including the Public Services Portal, e-Tax and Insurance for the Poor are integrated with it.", "as_of": "2025-05", "date_precision": "month", "system": "National Registry of Natural Persons", "class": "population"}
+], "systems": [{"system": "National Registry of Natural Persons", "country_label": "National Registry of Natural Persons (ANIP)", "class": "population", "platform": "", "owner": "ANIP", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Benin's deck lists a payment platform or aggregator for the collection of financial resources among what Benin has.", "as_of": "2025-05", "date_precision": "month", "system": "Payment platform / aggregator", "class": "revenue"}
+], "systems": [], "note": ""}}},
+"socialregistry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Insurance for the Poor is named as an integrated system, but no social registry is described."}}},
+"taxadmin": {"countries": {"BEN": {"facts": [], "systems": [], "note": "e-Tax is named as an integrated system; the deck does not say what it does for filing or payment."}}},
+"taxregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states nothing about a taxpayer register."}}}
+}}

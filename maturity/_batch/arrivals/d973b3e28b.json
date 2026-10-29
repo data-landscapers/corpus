@@ -1,0 +1,14 @@
+{"slug": "2023-11-06-civ-mainone-an-equinix-company-expands-data-center-footprint-in-cote-d-ivo", "studies": {
+"datacentres": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "MainOne, an Equinix Company, announced the launch in November 2023 of its expanded open-access, carrier-neutral AB1.2 data centre at VITIB, Grand Bassam, which it describes as built to 'Uptime Tier III standards' and which sells colocation and interconnection to customers.", "as_of": "2023-11", "date_precision": "month", "system": "MainOne AB1.2 data centre, VITIB, Grand Bassam", "class": "datacentre"}
+], "systems": [{"system": "MainOne AB1.2 data centre", "country_label": "Cote d'Ivoire", "class": "datacentre", "platform": "colocation, carrier-neutral", "owner": "MainOne (Equinix)", "tiers": "Tier III standards (operator claim)"}], "note": ""}}},
+"exchangepoints": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "MainOne says customers at its Grand Bassam data centre get access to internet exchanges, including the Amsterdam Internet Exchange (AMS-IX) 'hosted at the data center'.", "as_of": "2023-11", "date_precision": "month", "system": "AMS-IX at MainOne AB1.2 data centre", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"internationalbandwidth": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "MainOne says it landed its submarine cable in Cote d'Ivoire before launching its first data centre there in 2019, and delivers connectivity over it.", "as_of": "2019", "date_precision": "year", "system": "MainOne submarine cable", "class": "route"}
+], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "national", "aspect": "owner", "value": "foreign", "fact": "The AB1.2 data centre at Grand Bassam is operated by MainOne, described as an Equinix Company following Equinix's acquisition of it.", "as_of": "2023-11", "date_precision": "month", "system": "MainOne AB1.2 data centre", "class": "datacentre"}
+], "systems": [], "note": ""}}}
+}}

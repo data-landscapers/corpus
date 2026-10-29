@@ -1,0 +1,97 @@
+{
+ "slug": "2024-10-17-swz-eswatini-aims-to-establish-itself-as-hub-for-ai-development-deployment",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such fact for Eswatini."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such fact for Eswatini."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such fact for Eswatini."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such fact for Eswatini."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RSTP Tier 3 Data Center",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "",
+       "owner": "Royal Science and Technology Park",
+       "tiers": "Tier 3"
+      }
+     ],
+     "note": "Tier 3 data centre at RSTP stated, but not that it rents to outside organisations."
+    }
+   }
+  },
+  "ictproduction": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no such fact for Eswatini."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Tier 3 data centre at RSTP stated, but not that it is for hire."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Minister Maziya said the Royal Science and Technology Park has evolved into a hub for innovation, with no programme or tenants described.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "Royal Science and Technology Park (RSTP)",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

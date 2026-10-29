@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-28-gha-26-countries-sign-accra-convention-trade-digitalisation",
+ "studies": {
+  "regionallaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "UN Convention on Negotiable Cargo Documents (Accra Convention)",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "",
+       "owner": "UNCITRAL",
+       "tiers": ""
+      }
+     ],
+     "note": "Signed a UN convention, not an African legal text; Ghana only committed to ratify."
+    }
+   }
+  }
+ }
+}

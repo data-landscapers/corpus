@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-28-guinee-lfr-medias-publics-risques-coupure-internet",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "The ministry's Secretary General told MPs on 27 October 2026 that Guinea depends on a single submarine cable as its only link, at end of life and at risk of saturation.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "submarine cable (unnamed)",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "submarine cable (unnamed)",
+       "country_label": "Guinea",
+       "class": "route",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No cut, punishment, criticism or law stated; a cable-damage warning is not a cut."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-ethiopia-2025",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Ethiopia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Ethiopia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Ethiopia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Ethiopia."
+    }
+   }
+  },
+  "datacentrepower": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a national power price and generation mix; no data centre's supply, PUE or water is stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Xalam Analytics estimates about 6-8 live commercial data centre facilities in Ethiopia leasing colocation space and power to third parties, as of 2024, at Tier II standard and above.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Ethiopian commercial data centres",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": "No Tier III facility or cloud region stated."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Xalam Analytics says the Personal Data Protection Proclamation of 2024 requires companies to host Ethiopian citizen data within the country.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Personal Data Protection Proclamation of 2024",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": "No enforcer or application stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Xalam Analytics describes the Personal Data Protection Proclamation of 2024 as requiring companies to host citizen data in Ethiopia, with strict regulation of cross-border transfers.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Personal Data Protection Proclamation of 2024",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": "No authority, regulations or application stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Xalam Analytics lists a state agency among Ethiopia's providers offering IT services including colocation, as of 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "state agency colocation",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "owner",
+       "value": "national",
+       "fact": "The state agency offering colocation is a government provider, per Xalam Analytics.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "state agency colocation",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": "Agency unnamed; no Tier or government hosting stated."
+    }
+   }
+  }
+ }
+}

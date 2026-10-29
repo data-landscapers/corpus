@@ -1,0 +1,158 @@
+{
+ "slug": "2026-06-18-bdi-automating-hiv-data-exchange-in-burundi",
+ "studies": {
+  "health": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIDAInfo",
+       "country_label": "Burundi",
+       "class": "tracker",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "IBIPIMO",
+       "country_label": "Burundi",
+       "class": "single-function",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "DHIS2",
+       "country_label": "Burundi",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "MINISANTE",
+       "tiers": ""
+      }
+     ],
+     "note": "Only HIV-programme and laboratory systems and a DHIS2 mention; no tiers, digitisation point, governance or clinic coverage stated."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "OpenFn workflows automatically exchange data between SIDAInfo, IBIPIMO and DHIS2 for Burundi's HIV programme, on a ministry-managed server, per OpenFn.",
+       "as_of": "2026-06-18",
+       "date_precision": "day",
+       "system": "OpenFn",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "breadth",
+       "value": "wide",
+       "fact": "Three systems (SIDAInfo, IBIPIMO, DHIS2) exchange data through OpenFn workflows triggered by webhooks or schedule, per OpenFn.",
+       "as_of": "2026-06-18",
+       "date_precision": "day",
+       "system": "OpenFn",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIDAInfo",
+       "country_label": "Burundi",
+       "class": "tracker",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "IBIPIMO",
+       "country_label": "Burundi",
+       "class": "single-function",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "DHIS2",
+       "country_label": "Burundi",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "MINISANTE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "OpenFn states DHIS2 is used for aggregate national health reporting and programme monitoring in Burundi.",
+       "as_of": "2026-06-18",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "hmis"
+      },
+      {
+       "sub_indicator": "hmis",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "OpenFn states a scheduled workflow aggregates HIV indicators from SIDAInfo, the HIV electronic medical record, and pushes them to DHIS2.",
+       "as_of": "2026-06-18",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIDAInfo",
+       "country_label": "Burundi",
+       "class": "tracker",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "IBIPIMO",
+       "country_label": "Burundi",
+       "class": "single-function",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "DHIS2",
+       "country_label": "Burundi",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "MINISANTE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government connection."
+    }
+   }
+  }
+ }
+}

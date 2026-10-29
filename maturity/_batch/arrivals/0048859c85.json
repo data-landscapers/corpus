@@ -1,0 +1,198 @@
+{
+ "slug": "2026-03-03-nga-secondment-diaries-gofore-supports-nigeria-in-digital-public-infrastru",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "Two Gofore consultants seconded through HAUS set up the first X-Road instance in the Nigerian Data Exchange Centre (NGDX) local data centre in Abuja, with MDAs met as potential members and target use cases agreed but not yet live.",
+       "as_of": "2026-03-03",
+       "date_precision": "day",
+       "system": "NGDX X-Road",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NGDX X-Road",
+       "country_label": "Nigeria",
+       "class": "exchange",
+       "platform": "X-Road",
+       "owner": "Nigerian Data Exchange Centre (NGDX)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "The article says the national digital identity is used by about 120 million people, in a country of an estimated 240 million inhabitants.",
+       "as_of": "2026-03-03",
+       "date_precision": "day",
+       "system": "national digital identity",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

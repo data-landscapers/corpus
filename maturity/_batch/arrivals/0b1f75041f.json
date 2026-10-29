@@ -1,0 +1,113 @@
+{
+ "slug": "2025-11-24-egy-efinance-salesforce-collaborate-to-build-egypt-s-agentic-ai-powered-ap",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "national API gateway (MuleSoft Anypoint)",
+       "country_label": "Egypt",
+       "class": "exchange",
+       "platform": "MuleSoft Anypoint Platform",
+       "owner": "eFinance with Salesforce",
+       "tiers": ""
+      }
+     ],
+     "note": "MoU signed to jointly develop a national API gateway; a plan, not a platform built or piloted."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."
+    }
+   }
+  }
+ }
+}

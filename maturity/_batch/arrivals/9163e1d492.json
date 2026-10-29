@@ -1,0 +1,219 @@
+{
+ "slug": "2026-02-14-dza-almostathmir-data-governance-classification-rollout",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this in the document."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this in the document."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this in the document."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this in the document."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement on this in the document."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "HCN's director of digital governance says the national interoperability system, the backbone for data exchange between ministries, public bodies and public-service institutions, is in service and ministries have been feeding it data since 2025, mostly front-end databases.",
+       "as_of": "2026-02-14",
+       "date_precision": "day",
+       "system": "النظام الوطني للتشغيل البيني",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "النظام الوطني للتشغيل البيني",
+       "country_label": "Algeria",
+       "class": "exchange",
+       "platform": "national secured network IRIES",
+       "owner": "High Commission for Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Presidential decree 25-320 of 31 December 2025 set up a national data governance system, with data classification and data-source indexing references, launched under the national digital transformation strategy 2025-2030.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "National data governance system",
+       "class": "policy"
+      },
+      {
+       "sub_indicator": "policy",
+       "aspect": "use",
+       "value": "body",
+       "fact": "The National Committee for Data Governance, made up of the heads of the sectoral committees, has been installed to oversee implementation of the national data governance system across all sectors.",
+       "as_of": "2026-02-14",
+       "date_precision": "day",
+       "system": "National Committee for Data Governance",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "The document describes the national authority for protection of personal data (ANPDP) as the body legally empowered to audit and control personal data processing within the data governance system.",
+       "as_of": "2026-02-14",
+       "date_precision": "day",
+       "system": "ANPDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The document cites law 18-07, as amended and supplemented, on protection of personal data, among the national legal framework behind the data classification reference.",
+       "as_of": "2026-02-14",
+       "date_precision": "day",
+       "system": "Law 18-07",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "inservice",
+       "fact": "Presidential decree 25-320 of 31 December 2025 established a national data governance system with a five-level data classification (public to top secret, the highest not exchangeable) that ministries are now applying, and treats data as a sovereign asset.",
+       "as_of": "2026-02-14",
+       "date_precision": "day",
+       "system": "National data governance system",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "HCN's director of digital governance says the national digital transformation strategy 2025-2030, Algérie numérique 2030, has been launched and adopted, and the data governance system is part of its implementation.",
+       "as_of": "2026-02-14",
+       "date_precision": "day",
+       "system": "Algérie numérique 2030",
+       "class": "national"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2030",
+       "fact": "The strategy named Algérie numérique 2030 runs from 2025 to 2030.",
+       "as_of": "2026-02-14",
+       "date_precision": "day",
+       "system": "Algérie numérique 2030",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Presidential decree 25-320 of 31 December 2025 set up the national data governance system including the national interoperability system as the backbone of data exchange between ministries and public bodies.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "Presidential decree 25-320",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

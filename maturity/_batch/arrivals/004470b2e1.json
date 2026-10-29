@@ -1,0 +1,154 @@
+{
+ "slug": "2026-06-26-mar-a-l-onu-le-maroc-defend-sa-vision-d-une-intelligence-artificielle-souv",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Minister Amal El Fallah Seghrouchni presented projects to develop AI models in Arabic, darija and Amazigh and to create a joint laboratory with Mistral AI.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "AI Made in Morocco",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "The minister said the national interoperability platform has already processed more than 52 million transactions.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "plateforme nationale d'interopérabilité",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "The minister said the national interoperability platform has processed more than 52 million transactions.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "plateforme nationale d'interopérabilité",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "plateforme nationale d'interopérabilité",
+       "country_label": "plateforme nationale d'interopérabilité",
+       "class": "exchange",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

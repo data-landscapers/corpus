@@ -1,0 +1,15 @@
+{"slug":"2026-03-27-observer-uganda-to-maintain-facebook-ban-ict-minister","studies":{
+"businesspayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Not about e-procurement."}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on the central bank or payments."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on digital financial services protection."}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"cybersecuritylaw":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Computer Misuse Act named only as a basis for enforcement; no bill, in-force statement or use stated."}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"opendiscussion":{"countries":{"UGA":{"facts":[
+{"sub_indicator":"discussion","aspect":"connection","value":"cut","fact":"Minister of state for ICT Godfrey Kabbyanga Baluku said the government's suspension of Facebook, in place since January 2021, will be maintained until Meta meets government conditions; the platform is reachable mainly through VPNs.","as_of":"2026-03-27","date_precision":"day","system":"Facebook block","class":"discussion"},
+{"sub_indicator":"discussion","aspect":"debate","value":"criticised","fact":"Rights groups including Unwanted Witness and Amnesty International criticised the continued Facebook suspension, arguing it limits freedom of expression and political participation.","as_of":"2026-03-27","date_precision":"day","system":"Facebook block","class":"discussion"}
+],"systems":[],"note":""}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No account-ownership survey figure."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on mobile money or retail payment services; payment-systems mention is for creators on X and TikTok only."}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

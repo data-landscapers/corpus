@@ -1,0 +1,106 @@
+{
+ "slug": "2026-10-28-guin-e-la-num-risation-s-tend-la-gestion-des-activit-s-de-p-che",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Guinea launched KONKOE (SIGPEM) on 26 October 2026, a digital platform dematerialising fishing licence and vessel-register procedures, with a first licence signed at launch and user service announced from 1 November 2026.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "KONKOE (SIGPEM)",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KONKOE (SIGPEM)",
+       "country_label": "Guinée",
+       "class": "eservices",
+       "platform": "web and phone",
+       "owner": "Ministère de la Pêche et de l'Économie maritime",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this register."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "2025-04-04-zmb-govt-service-bus-handles-k5bn-in-transactions",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "ZNBC reports the Smart Zambia Institute has processed transactions on the Government Service Bus over the past three years.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Government Service Bus",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "Smart Zambia Institute coordinator Percy Chinyama says 4.5 million transactions worth K5 billion were processed on the Government Service Bus over three years.",
+       "as_of": "2025-04-04",
+       "date_precision": "day",
+       "system": "Government Service Bus",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Service Bus",
+       "country_label": "Government Service Bus",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Smart Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": "No count of connected institutions."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "SZI is said to process GSB transactions but the document does not say staff built or run it without a contractor."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "778 government network sites are stated with no local government office said to be on it."
+    }
+   }
+  }
+ }
+}

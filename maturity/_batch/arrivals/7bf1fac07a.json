@@ -1,0 +1,35 @@
+{"slug": "2025-06-18-cmr-datacenters-certifies-ecosysteme-delaisse-au-cameroun", "studies": {
+"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
+"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "AI is mentioned only as a future need; no AI model, dataset or computing is stated."}}},
+"authentication": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on the civil register and ID link."}}},
+"datacentres": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "two", "fact": "Anthony Same, CEO of ST Digital, says Cameroon has four Tier III-standard data centres (Orange, Camtel, MTN and ST Digital), with Camtel's certified Tier III Design by the Uptime Institute.", "as_of": "2025-06-18", "date_precision": "day", "system": "Camtel NBN II data centre", "class": "datacentre"}
+], "systems": [
+{"system": "Camtel NBN II data centre", "country_label": "Cameroon", "class": "datacentre", "platform": "", "owner": "Camtel", "tiers": "Tier III Design (Uptime Institute)"},
+{"system": "ST Digital data centre", "country_label": "Cameroon", "class": "datacentre", "platform": "", "owner": "ST Digital", "tiers": "Tier III standard"},
+{"system": "Orange data centre", "country_label": "Cameroon", "class": "datacentre", "platform": "", "owner": "Orange", "tiers": "Tier III standard"},
+{"system": "MTN data centre", "country_label": "Cameroon", "class": "datacentre", "platform": "", "owner": "MTN", "tiers": "Tier III standard"}
+], "note": ""}}},
+"datalocalisation": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Anthony Same, CEO of ST Digital, says laws oblige actors in sensitive sectors to host their data locally.", "as_of": "2025-06-18", "date_precision": "day", "system": "", "class": "rule"},
+{"sub_indicator": "rule", "aspect": "use", "value": "none", "fact": "Anthony Same, CEO of ST Digital, says these local hosting provisions are neither checked nor applied in practice.", "as_of": "2025-06-18", "date_precision": "day", "system": "", "class": "rule"}
+], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a private operator's opinion that the administration uses foreign clouds; no state data rule, hosting or contract term is stated."}}},
+"domesticfinancing": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Names funds (FST, PATNUC, IT levy) but states no budget amount, statement with act, or spending."}}},
+"idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The national ID card is named only as a service hosted in data centres; nothing on the system."}}},
+"internationalbandwidth": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Anthony Same, CEO of ST Digital, refers to the presence of several submarine cables in Cameroon.", "as_of": "2025-06-18", "date_precision": "day", "system": "", "class": "route"}
+], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Certifications named are for data centres, which place nothing."}}},
+"mobileaffordability": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Says internet tariffs are among the continent's highest but gives no price or share."}}},
+"nationaldatacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document does not state who owns the data centres."}}},
+"qualitystandards": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Certifications named are international and for data centres; no national standards body or standard stated."}}},
+"schoolinternet": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

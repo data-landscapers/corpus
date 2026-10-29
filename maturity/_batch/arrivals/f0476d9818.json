@@ -1,0 +1,4 @@
+{"slug": "2024-02-01-ken-oracle-plans-cloud-region-in-nairobi-kenya", "studies": {
+"datacentres": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Oracle Cloud Infrastructure Nairobi region (planned)", "country_label": "Kenya", "class": "other", "platform": "OCI", "owner": "Oracle", "tiers": ""}], "note": "Oracle's Nairobi cloud region is planned, with no timeline; not in service."}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No nationally owned data centre stated."}}}
+}}

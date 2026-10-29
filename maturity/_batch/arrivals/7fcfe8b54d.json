@@ -1,0 +1,137 @@
+{
+ "slug": "2026-09-17-ben-benin-s-national-interoperability-platform-achieves-205m-secure-reques",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing of civil register and ID exchange."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing of civil registration."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "An ASIN staff member's post says Benin's National Interoperability Platform (XROAD BJ), running since 2020, carries data between institutions' systems, as in a vehicle inspection fee query to the tax authority and road-safety agency.",
+       "as_of": "2026-09-17",
+       "date_precision": "day",
+       "system": "XROAD BJ",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The post gives XROAD BJ counters of 75 public and private members, 193 information systems integrated and 542 active services.",
+       "as_of": "2026-09-17",
+       "date_precision": "day",
+       "system": "XROAD BJ",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "The post reports 205 million secure requests through XROAD BJ, 26.6 million in the last 30 days.",
+       "as_of": "2026-09-17",
+       "date_precision": "day",
+       "system": "XROAD BJ",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "XROAD BJ (National Interoperability Platform)",
+       "country_label": "Benin",
+       "class": "exchange",
+       "platform": "X-Road",
+       "owner": "ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing of ID at birth."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No law or decree on data sharing is stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not say who builds or runs the platform beyond naming ASIN's team as builder, with no staffing statement."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The post says Benin is a pilot country for the Smart Africa Data Exchange (SADX) alongside Ghana and Rwanda.",
+       "as_of": "2026-09-17",
+       "date_precision": "day",
+       "system": "Smart Africa Data Exchange",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing of local civil registration offices."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tax authority is only a queried source; no taxpayer register is described."
+    }
+   }
+  }
+ }
+}

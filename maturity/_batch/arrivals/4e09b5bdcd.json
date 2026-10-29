@@ -1,0 +1,15 @@
+{"slug": "2024-01-01-ben-uxp-based-public-services-in-benin", "studies": {
+"civilserviceskills": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only technical trainings for platform management and maintenance are stated, not digital-skills training for civil servants generally."}}},
+"dataexchange": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "Cybernetica says the UXP-based secure data exchange platform connecting Beninese government registries was built 2019-2021, was fully up and running in one year, and is still maintained.", "as_of": "2024", "date_precision": "year", "system": "UXP-based national data exchange platform", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "Cybernetica says that as of 2024 more than 50 government institutions exchange data digitally through the platform to provide over 270 digital services.", "as_of": "2024", "date_precision": "year", "system": "UXP-based national data exchange platform", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "Cybernetica says the platform carries more than 3 million monthly information exchanges as of 2024.", "as_of": "2024", "date_precision": "year", "system": "UXP-based national data exchange platform", "class": "exchange"}
+], "systems": [{"system": "UXP-based national data exchange platform", "country_label": "UXP-based national data exchange platform", "class": "exchange", "platform": "Cybernetica UXP", "owner": "ASIN", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Cybernetica says the national citizen portal (Portail National des services publics du Benin) offers over 270 digital services as of 2024.", "as_of": "2024", "date_precision": "year", "system": "Portail National des services publics du Benin", "class": "eservices"}
+], "systems": [{"system": "Portail National des services publics du Benin", "country_label": "Portail National des services publics du Benin", "class": "eservices", "platform": "Cybernetica", "owner": "ASIN", "tiers": ""}], "note": "No sign-in by national ID and no portal user or transaction count is stated."}}},
+"interoperability": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Cybernetica says it supported development of a regulatory framework and guidelines, but does not state one was adopted or is being drafted by the government."}}},
+"itcapacity": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "outsourced", "fact": "Cybernetica says it continues to support Benin in maintaining the citizen portal and the UXP data exchange platform, which it built with eGA as prime contractor.", "as_of": "2024", "date_precision": "year", "system": "UXP-based national data exchange platform", "class": "staff"}
+], "systems": [], "note": ""}}}
+}}

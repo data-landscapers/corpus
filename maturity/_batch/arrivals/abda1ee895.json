@@ -1,0 +1,223 @@
+{
+ "slug": "2024-01-16-mar-administration-numerique-170-000-operations-rsu-sont-enregistrees-quot",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Minister Ghita Mezzour said the ministry will help administrations adopt the electronic identification and authentication service developed by the DGSN for users of digital services.",
+       "as_of": "2024-01-15",
+       "date_precision": "day",
+       "system": "service d'identification électronique et d'authentification",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "service d'identification électronique et d'authentification",
+       "country_label": "Morocco",
+       "class": "authentication",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "Minister Mezzour told parliament the common interconnection platform for electronic data exchange is in use, carrying about 170,000 RSU and 307,000 compulsory health insurance operations a day.",
+       "as_of": "2023-08",
+       "date_precision": "month",
+       "system": "plateforme numérique commune d'interconnexion",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "Platform usage statistics to August 2023 show about 170,000 RSU operations and 307,000 compulsory health insurance operations a day, per the minister.",
+       "as_of": "2023-08",
+       "date_precision": "month",
+       "system": "plateforme numérique commune d'interconnexion",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "plateforme numérique commune d'interconnexion",
+       "country_label": "Morocco",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Ministry of Digital Transition",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The minister announced drafting and publication of further draft legal and regulatory texts, including on data exchange between administrations.",
+       "as_of": "2024-01-15",
+       "date_precision": "day",
+       "system": "draft texts on data exchange between administrations",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The common interconnection platform carries about 170,000 RSU operations a day (to August 2023), per the minister.",
+       "as_of": "2023-08",
+       "date_precision": "month",
+       "system": "plateforme numérique commune d'interconnexion",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The minister described the Registre social unifié (RSU) as a project using the common interconnection platform, with about 170,000 operations a day to August 2023.",
+       "as_of": "2023-08",
+       "date_precision": "month",
+       "system": "Registre social unifié (RSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{"slug": "2026-10-27-ictd-digital-payments-discussion", "studies": {
+"businesspayments": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"SEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"SWZ": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Nothing on a central bank role."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on a central bank role."},
+"SEN": {"facts": [], "systems": [], "note": "Nothing on a central bank role."},
+"SWZ": {"facts": [], "systems": [], "note": "Nothing on a central bank role."},
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on a central bank role."}}},
+"consumerprotection": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."},
+"SEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."},
+"SWZ": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."},
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."},
+"SEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."},
+"SWZ": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."},
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."},
+"SEN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."},
+"SWZ": {"facts": [], "systems": [], "note": "Nothing on government payments to people."},
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"mobileaffordability": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No data price or share of income stated."},
+"RWA": {"facts": [], "systems": [], "note": "No data price or share of income stated."},
+"SEN": {"facts": [], "systems": [], "note": "No data price or share of income stated."},
+"SWZ": {"facts": [], "systems": [], "note": "No data price or share of income stated."},
+"ZAF": {"facts": [], "systems": [], "note": "No data price or share of income stated."}}},
+"paymentsuptake": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."},
+"RWA": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."},
+"SEN": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."},
+"SWZ": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."},
+"ZAF": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+"retailpayments": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Only a 30 per cent drop in mobile money use after the e-levy; no service status stated."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on retail payment services."},
+"SEN": {"facts": [], "systems": [], "note": "Nothing on retail payment services."},
+"SWZ": {"facts": [], "systems": [], "note": "Nothing on retail payment services."},
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on retail payment services."}}},
+"revenuecollection": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Only the e-levy tax on mobile money, which is not a channel for paying the state."},
+"RWA": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "ICTD says evidence from Eswatini, Senegal and Rwanda has begun to show a link between digital payment of taxes and increased compliance, so taxes are paid digitally there.", "as_of": "2026-10-27", "date_precision": "day", "system": "digital tax payment", "class": "revenue"}], "systems": [], "note": ""},
+"SEN": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "ICTD says evidence from Eswatini, Senegal and Rwanda has begun to show a link between digital payment of taxes and increased compliance, so taxes are paid digitally there.", "as_of": "2026-10-27", "date_precision": "day", "system": "digital tax payment", "class": "revenue"}], "systems": [], "note": ""},
+"SWZ": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "ICTD says evidence from Eswatini, Senegal and Rwanda has begun to show a link between digital payment of taxes and increased compliance, so taxes are paid digitally there.", "as_of": "2026-10-27", "date_precision": "day", "system": "digital tax payment", "class": "revenue"}], "systems": [], "note": ""},
+"ZAF": {"facts": [], "systems": [], "note": "Only an entry-level smartphone tax exemption; nothing on paying revenue."}}}
+}}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-28-zmb-paradigm-zambia-6th-digital-rights-inclusion",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Names data protection only as a report theme; states nothing on the law, authority or application."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions the UASF only to urge reporting; no amount or statement."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "repealed",
+       "fact": "Paradigm Initiative's Londa 2025 report on Zambia commends the government for repealing the law criminalising defamation of the president.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "law criminalising defamation of the president",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No Zambian research institution is named."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural electricity figure stated."
+    }
+   }
+  }
+ }
+}

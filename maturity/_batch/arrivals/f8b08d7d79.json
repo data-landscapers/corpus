@@ -1,0 +1,7 @@
+{"slug": "2025-11-19-ago-certificacao-tier-iii-de-instalacao-construida", "studies": {
+"datacentres": {"countries": {"AGO": {"facts": [], "systems": [{"system": "Centro Informatico Seguro #2 (CIS II)", "country_label": "Angola", "class": "other", "platform": "", "owner": "EMIS", "tiers": "Tier III Constructed Facility (Uptime Institute)"}], "note": "EMIS announces Uptime Tier III certification of CIS II but does not say it rents space or computing to other organisations."}}},
+"educationexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document is about a data centre certification and states nothing on education systems."}}},
+"educationmis": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document is about a data centre certification and states nothing on an education information system."}}},
+"nationaldatacentres": {"countries": {"AGO": {"facts": [], "systems": [{"system": "Centro Informatico Seguro #2 (CIS II)", "country_label": "Angola", "class": "other", "platform": "", "owner": "EMIS", "tiers": "Tier III Constructed Facility (Uptime Institute)"}], "note": "Document does not state that CIS II is for hire or who owns EMIS, nor that the state hosts its data there."}}},
+"schools": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document is about a data centre certification and states nothing on schools or learner records."}}}
+}}

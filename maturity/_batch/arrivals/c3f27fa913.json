@@ -1,0 +1,32 @@
+{
+ "slug": "2025-10-15-who-vigimobile-eritrea-workshop",
+ "studies": {
+  "health": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "VigiMobile",
+       "country_label": "Eritrea",
+       "class": "single-function",
+       "platform": "smartphone app",
+       "owner": "NMFA",
+       "tiers": ""
+      }
+     ],
+     "note": "VigiMobile is adverse-event reporting, a single function; no HMIS or EMR stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil registration."
+    }
+   }
+  }
+ }
+}

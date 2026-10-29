@@ -1,0 +1,456 @@
+{
+ "slug": "2026-10-28-xaf-iss-africa-has-its-ai-strategy-now-come-the-foundations",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy named but the document does not say it was adopted."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "ISS says Rwanda approved its national AI policy in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "National AI policy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy named but the document does not say it was adopted."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

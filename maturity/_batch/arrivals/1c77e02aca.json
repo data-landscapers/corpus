@@ -1,0 +1,134 @@
+{
+ "slug": "2025-01-01-ben-strengthening-trusted-data-sharing-in-benin-to-drive-positive-impact-f",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "DIAL states Benin's government data exchange framework supports over 550 digitised government services and powers the national service portal.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Benin national data exchange system",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "DIAL states the data exchange system spans 67 government institutions and the private sector.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Benin national data exchange system",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Benin national data exchange system",
+       "country_label": "Benin",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Government of Benin",
+       "tiers": ""
+      }
+     ],
+     "note": "No figure for exchanges or transactions through the platform."
+    }
+   }
+  }
+ }
+}
