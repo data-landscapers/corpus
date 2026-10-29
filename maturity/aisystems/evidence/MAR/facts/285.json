@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-26-mar-mtnra-un-open-source-week-seghrouchni-seance-inaugurale",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The ministry says Morocco is developing AI models for Arabic, darija and Amazigh and has created a joint laboratory with Mistral AI for co-development of AI models.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Joint laboratory with Mistral AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-26-mar-a-l-onu-le-maroc-defend-sa-vision-d-une-intelligence-artificielle-souv",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Amal El Fallah Seghrouchni presented projects to develop AI models in Arabic, darija and Amazigh and to create a joint laboratory with Mistral AI.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "AI Made in Morocco",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
