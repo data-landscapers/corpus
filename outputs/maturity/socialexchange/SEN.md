@@ -6,7 +6,7 @@
 
 **One registry shared by programmes.** No source found since October 2023 says two or more programmes share one registry. The nearest held fact: [the one given above](<https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf>).
 
-**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked in service to the national ID and to another sector. The nearest held fact: [a January 2026 pilot links the RNU to the national identity card, civil status and health insurance](<https://pins.sn/actualites/2026-01/plateforme-interministerielle-et-interoperable-dechange-de-donnees-du-senegal>).
+**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked in service to the ID and another sector. The nearest held fact: [a January 2026 pilot links the RNU to the identity card, civil status and health insurance](<https://pins.sn/actualites/2026-01/plateforme-interministerielle-et-interoperable-dechange-de-donnees-du-senegal>).
 
 ***Also on file***. [Programme national de bourses de sécurité familiale](<https://aps.sn/le-premier-ministre-annonce-un-renforcement-des-initiatives-de-protection-sociale/>); [PNBSF beneficiary-management system](<https://documents1.worldbank.org/curated/en/362331655308211699/pdf/Senegal-Adaptive-Safety-Net-Project.pdf>); [Guichet social unique (planned single social window)](<https://aps.sn/vers-la-creation-dun-guichet-unique-pour-un-meilleur-acces-aux-services-sociaux/>).
 
