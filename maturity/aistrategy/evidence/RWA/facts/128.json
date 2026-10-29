@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-28-xaf-iss-africa-has-its-ai-strategy-now-come-the-foundations",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ISS says Rwanda approved its national AI policy in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "National AI policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

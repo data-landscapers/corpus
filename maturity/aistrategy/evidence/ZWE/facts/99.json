@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-28-zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The article says Pangolin AI is part of Zimbabwe's National AI Strategy 2026-2030, which sets out the country's approach to developing and deploying AI.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "National AI Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

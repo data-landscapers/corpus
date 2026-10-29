@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-zaf-south-africa-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The briefing says South Africa's government released a National AI Policy Framework in late 2024, described as a blueprint for harnessing AI for economic development.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National AI Policy Framework",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

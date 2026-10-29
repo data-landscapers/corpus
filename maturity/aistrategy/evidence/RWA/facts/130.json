@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-24-mandon-world-bank-beyond-the-ai-divide-ai-preparedness",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The World Bank paper (Mandon) cites Rwanda's National AI Policy as a case of overperformance in regulation and ethics.",
+   "as_of": "2025-02-24",
+   "date_precision": "day",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Policy",
+   "country_label": "Rwanda",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Responsible AI Office named but not tied to the policy by the document."
+}

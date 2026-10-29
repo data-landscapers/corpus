@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-talent-pipelines-versus-compute-limits-inside-rwanda-s-ai-skills-agree",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document says Rwanda's policy framework includes the 2023 National AI Policy.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Agency",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": "National AI Agency is not tied to carrying out the policy; no funding stated."
+}
