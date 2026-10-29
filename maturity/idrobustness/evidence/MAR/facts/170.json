@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-13-mar-add-silence-on-digitalise",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The document describes the electronic national ID card (CNIE), used as an NFC card with the Mon identité numérique app, in service with the DGSN.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "CNIE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

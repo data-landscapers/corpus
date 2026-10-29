@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Benin's deck cites Decree No. 2020-099 of 26 February 2020 on the personal identification number and says the ANIP register of natural persons is accessible to all key government platforms through the PNI.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "ANIP natural persons register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANIP natural persons register",
+   "country_label": "National Registry of Natural Persons (ANIP)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

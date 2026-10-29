@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-tza-jamii-x-change",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIDA says Jamii Namba is a unique identification number held by all people in Tanzania.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Jamii Namba",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
