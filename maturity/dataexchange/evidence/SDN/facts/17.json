@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-27-sdn-baladna-first-electronic-export-contract-single-window",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The Sudan government portal says Baladna, a government data and transactions exchange platform, carried the first fully electronic export contract between the Central Bank of Sudan, the Ministry of Trade and Industry, customs, standards, ports, border crossings, tax and Zakat systems.",
+   "as_of": "2025-12-27",
+   "date_precision": "day",
+   "system": "Baladna",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Baladna",
+   "country_label": "Baladna government data and transactions platform",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation and Communications",
+   "tiers": "",
+   "class": "exchange"
+  }
+ ],
+ "note": ""
+}

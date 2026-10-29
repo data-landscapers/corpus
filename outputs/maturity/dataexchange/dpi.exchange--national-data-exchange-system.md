@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
-| 4 Operating | 3 |
-| 3 Established | 8 |
+| 5 Leading | 5 |
+| 4 Operating | 2 |
+| 3 Established | 7 |
 | 2 Nascent | 24 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
@@ -41,8 +41,8 @@ Use of the government data exchange platform was reported in 2026.
 
 Use of the government data exchange platform was reported in 2024.
 
-- The ADD says over 55 million data exchange operations were recorded on Jisr from February 2023 to 31 January 2024, through 46 APIs giving access to 350 types of beneficiary information ([source, 2024-01](https://www.lavieeco.com/au-royaume/plateforme-jisr-55-millions-doperations-dechange-de-donnees-enregistrees-en-une-annee/)).
-- The minister described the E-services reference as complementing the existing national interoperability platform, without naming connected bodies or any usage figure ([source, 2025-10-13](https://leseco.ma/maroc/connectivite-5g-et-e-gouvernement-amal-el-fallah-seghrouchni-fait-le-bilan-de-la-transformation-numerique.html)).
+- The ADD says GISRE processed more than 95 million transactions in 2024, affecting 18 million citizens ([source, 2024](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
+- The ADD says more than 76 organisations are connected to GISRE ([source, 2025-04](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
 
 ### Tunisia: 5 Leading
 
@@ -51,6 +51,20 @@ Use of the government data exchange platform was reported in 2025.
 - A chart in the playbook shows exchanges of citizen register data with state structures rising from 476,052 to 900,125,547, the last of seven yearly values plotted for 2019-2025 ([source, 2025](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - The playbook names the Plateforme Nationale d'Interoperabilite, operated by the Centre National Informatique, carrying exchanges of citizen register data with state structures including civil status, schools, universities, vocational training and health, under decree-law 2020-31 and decree 2020-777 ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
+### Uganda: 5 Leading
+
+Use of the government data exchange platform was reported in 2024.
+
+- DIAL reports over 90 million transactions conducted through UGhub, as reported by NITA-U ([source, 2024-04-11](https://dial.global/data-exchange-key-to-africas-digital-future-uganda-learnings/)).
+- NITA-U reports 168 organisations, 70 public institutions and 98 private sector entities, exchange information through the Government interoperability platform ([source, 2026-07-02](https://ict.go.ug/media/news/familiarisation-visit-highlights-nita-us-digital-progress)).
+
+### Zambia: 5 Leading
+
+Use of the government data exchange platform was reported in 2025.
+
+- Smart Zambia Institute coordinator Percy Chinyama says 4.5 million transactions worth K5 billion were processed on the Government Service Bus over three years ([source, 2025-04-04](https://znbc.co.zm/news/govt-service-bus-handles-k5bn-in-transactions/)).
+- The Accountant General's office says more than 400 government services have been onboarded onto the digital ecosystem of the Government Service Bus, ZamPortal and ZamPay, and plans a rollout to all 116 local authorities ([source, 2026-07-10](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
+
 ### Egypt: 4 Operating
 
 Ten or more bodies or systems were connected to the government exchange platform in 2026; its use is not reported.
@@ -58,19 +72,12 @@ Ten or more bodies or systems were connected to the government exchange platform
 - Minister Hindy said 105 government bodies are connected through the Government Digital Transformer, with integration to more than 100 government databases ([source, 2026-07-27](https://almalnews.com/2126687/)).
 - The ICT minister said 105 government bodies are linked through the government digital switch project, and 100 national databases have been linked under a data integration system in development ([source, 2026-07-19](https://gate.ahram.org.eg/News/5813424.aspx)).
 
-### Uganda: 4 Operating
+### Tanzania: 4 Operating
 
-Ten or more bodies or systems were connected to the government exchange platform in 2025; its use is not reported.
+More than 100 public institutions were connected to the government data exchange platform in 2023; its use is not reported.
 
-- NITA-U reports 168 organisations, 70 public institutions and 98 private sector entities, exchange information through the Government interoperability platform ([source, 2026-07-02](https://ict.go.ug/media/news/familiarisation-visit-highlights-nita-us-digital-progress)).
-- The same NITA-U speaker said UGHub connects NIRA's registry with more than 150 government ministries, departments and agencies, plus banks and telecoms ([source, 2026-10-01](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026)).
-
-### Zambia: 4 Operating
-
-Ten or more bodies or systems were connected to the government exchange platform in 2026; its use is not reported.
-
-- The Accountant General's office says more than 400 government services have been onboarded onto the digital ecosystem of the Government Service Bus, ZamPortal and ZamPay, and plans a rollout to all 116 local authorities ([source, 2026-07-10](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
-- ZamPortal says the Government Service Bus is a national platform that digitally integrates all government institutions, departments and agencies, deployed by the SMART Zambia Institute's Electronic Government Division ([source, 2024-09-11](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/)).
+- e-GA says 109 public institutions are connected to GovESB and 117 systems registered, including NIDA, BRELLA, NECTA, the Judiciary, Police, TAKUKURU and NPS ([source, 2023-12-22](https://www.ega.go.tz/uploads/pressreleases/sw-1703229775-MIFUMO%20YA%20TEHAMA%20YA%20TAASISI%20ZA%20UMMA%20KUBADILISHANA%20TAARIFA%20KIDIJITALI%20.pdf)).
+- Officials cite the Government Enterprise Service Bus (GovESB) as the backbone for secure data exchange across ministries, and the e-Government Authority's Director General urges institutions to ensure systems are connected through it; no count of connected systems or figure for its traffic is given ([source, 2026-01-26](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success)).
 
 ### Algeria: 3 Established
 
@@ -120,13 +127,6 @@ A government data exchange platform was in service in 2026; no source found says
 
 - The Ministry of Digital Transformation and Communications and the National Investment Authority announced the needs-disclosure service live on the Baladna platform, linking the industry, transport and agriculture bodies and passing approved items to the Customs Authority, with data moving between them electronically ([source, 2026-09-03](https://atheernews.net/222149/)).
 - The Ministry of Digital Transformation and Telecommunications is said to offer the UNIVERSAL SECURE (CONSOLEX) unified API gateway, which integrates government systems and enables secure data exchange among institutions; no connected-body count or volume is given ([source, 2026](https://www.sudanembassyberlin.com/index.php/de/news-tt/706-ministry-of-digital-transformation-launches-phase-two-of-the-3-3-digital-transformation-plan)).
-
-### Tanzania: 3 Established
-
-A government data exchange platform was in service in 2026; no source found says how many systems it connects.
-
-- The e-Government Authority's roadmap states that the Government Data Sharing and Exchange Platform, GovESB, was established and that public institutions use it to exchange information between them; it also says the e-Government Act 2019 requires all government systems to exchange data through it ([source, 2024-02](https://www.ega.go.tz/uploads/standarddocuments/sw-1710314957-SIGNED%20e-Government%20Technology%20Roadmap%202024%20(1).pdf)).
-- The Prime Minister ordered all public institutions to join GovESB, built by e-GA so government systems can read each other and exchange information, by 30 July 2025, saying joining is free ([source, 2025-06-23](https://www.mwananchi.co.tz/mw/habari/kitaifa/majaliwa-aagiza-taasisi-za-umma-kujiunga-na-e-ga-atoa-wiki-tano-5092568)).
 
 ### Angola: 2 Nascent
 

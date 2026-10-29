@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-24-egy-efinance-salesforce-collaborate-to-build-egypt-s-agentic-ai-powered-ap",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national API gateway (MuleSoft Anypoint)",
+   "country_label": "Egypt",
+   "class": "exchange",
+   "platform": "MuleSoft Anypoint Platform",
+   "owner": "eFinance with Salesforce",
+   "tiers": ""
+  }
+ ],
+ "note": "MoU signed to jointly develop a national API gateway; a plan, not a platform built or piloted."
+}

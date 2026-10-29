@@ -1,0 +1,46 @@
+{
+ "slug": "2024-01-01-ben-uxp-based-public-services-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Cybernetica says the UXP-based secure data exchange platform connecting Beninese government registries was built 2019-2021, was fully up and running in one year, and is still maintained.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UXP-based national data exchange platform",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "Cybernetica says that as of 2024 more than 50 government institutions exchange data digitally through the platform to provide over 270 digital services.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UXP-based national data exchange platform",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "Cybernetica says the platform carries more than 3 million monthly information exchanges as of 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UXP-based national data exchange platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UXP-based national data exchange platform",
+   "country_label": "UXP-based national data exchange platform",
+   "class": "exchange",
+   "platform": "Cybernetica UXP",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -69,3 +69,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-28,ZWE,dpi.exchange--national-data-exchange-system,review,2,2,ZWE-001,Rebuild: the ICT minister said in May 2026 that a Government Service Bus is being implemented. Nothing says it is live.
 2026-10-28,COG,dpi.exchange--national-data-exchange-system,ladder,1,2,COG-001;COG-002,Bill 2026-10-25: intent reaches stage 2 (method §3.8)
 2026-10-28,SOM,dpi.exchange--national-data-exchange-system,ladder,1,2,SOM-001,Bill 2026-10-25: intent reaches stage 2 (method §3.8)
+2026-10-29,TZA,dpi.exchange--national-data-exchange-system,fact,3,4,TZA-008;TZA-001,e-GA's December 2023 count of 109 institutions on GovESB answers the count of ten: 3 to 4
+2026-10-29,UGA,dpi.exchange--national-data-exchange-system,fact,4,5,UGA-014;UGA-011,DIAL's April 2024 figure of over 90 million UGHub transactions answers the use question: 4 to 5
+2026-10-29,ZMB,dpi.exchange--national-data-exchange-system,fact,4,5,ZMB-021;ZMB-010,Smart Zambia's count of 4.5 million transactions on the bus to April 2025 answers the use question: 4 to 5
+2026-10-29,MAR,dpi.exchange--national-data-exchange-system,fact,5,5,MAR-006;MAR-010,ADD's April 2025 count of 76 bodies on the platform and June 2026 figure of 52 million transactions fill the reach gap; stays 5

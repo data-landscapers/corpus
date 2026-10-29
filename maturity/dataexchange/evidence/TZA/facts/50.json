@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "e-GA says its GovESB links public bodies' ICT systems so they exchange data, and 109 public institutions are connected.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "GovESB",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "e-GA says 109 public institutions are connected to GovESB and 117 systems registered, including NIDA, BRELLA, NECTA, the Judiciary, Police, TAKUKURU and NPS.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "GovESB",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovESB",
+   "country_label": "Government Enterprise Service Bus",
+   "class": "exchange",
+   "platform": "",
+   "owner": "e-GA",
+   "tiers": ""
+  }
+ ],
+ "note": "No figure for exchanges through it."
+}

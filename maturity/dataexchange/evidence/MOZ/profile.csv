@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,exchange,platform,coverage,inservice,2026-08-28,MOZ-002,MOZ-001=underway;MOZ-005=underway;MOZ-003=underway;MOZ-004=underway;MOZ-006=underway;MOZ-007=underway,
-MOZ,exchange,reach,coverage,,,,,nothing held
-MOZ,exchange,usage,coverage,,,,,nothing held
+MOZ,exchange,platform,coverage,inservice,2026-08-28,MOZ-002,MOZ-001=underway;MOZ-005=underway;MOZ-003=underway;MOZ-008=underway;MOZ-004=underway;MOZ-006=underway;MOZ-009=underway;MOZ-007=underway,
+MOZ,exchange,reach,coverage,,,,,nothing found
+MOZ,exchange,usage,coverage,,,,,nothing found

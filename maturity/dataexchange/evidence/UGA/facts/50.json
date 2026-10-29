@@ -1,0 +1,46 @@
+{
+ "slug": "2024-04-11-uga-trusted-data-exchange-is-key-to-driving-africa-s-digital-future-uganda",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "NITA-U's UGhub integration platform is live, enabling data sharing across Uganda government systems and the private sector, per DIAL.",
+   "as_of": "2024-04-11",
+   "date_precision": "day",
+   "system": "UGhub",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "DIAL states 113 public and private entities have been boarded on UGhub.",
+   "as_of": "2024-04-11",
+   "date_precision": "day",
+   "system": "UGhub",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "DIAL reports over 90 million transactions conducted through UGhub, as reported by NITA-U.",
+   "as_of": "2024-04-11",
+   "date_precision": "day",
+   "system": "UGhub",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UGhub",
+   "country_label": "UGhub",
+   "class": "exchange",
+   "platform": "UGhub",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

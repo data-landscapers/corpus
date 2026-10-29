@@ -9,10 +9,10 @@
       "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-003;MAR-004",
-      "gaps": "No source found since October 2023 counts the bodies connected to Jisr.",
-      "note": "Rebuild 2026-10-28: Jisr's 55 million exchange operations to January 2024 are a use figure inside the window, and an October 2025 statement has the platform still running. The use figure answers the count of connections as well (method §3.3).",
-      "as_at": "2026-10-28"
+      "stage_sources": "MAR-011;MAR-010",
+      "gaps": "",
+      "note": "4c 2026-10-29: the ADD counted more than 76 bodies connected to the national interoperability platform in April 2025 and more than 95 million transactions through it in 2024. Every question is answered inside the window.",
+      "as_at": "2026-10-29"
     }
   ]
 }

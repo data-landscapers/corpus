@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-16-sen-pins-plateforme-interministerielle-x-road-pilote-pnbsf-cmu",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The ministry, with JICA, is implementing an interministerial interoperable data exchange platform on X-Road, now in a pilot phase with one use case linking the RNU, SIGICMU, civil status and national identity card systems; extension to more ministries is planned.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "PINS (X-Road)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PINS (X-Road)",
+   "country_label": "Plateforme interministérielle et interopérable d'échange de données",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "Sénégal Numérique S.A. under MCTEN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

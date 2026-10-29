@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,exchange,platform,coverage,inservice,2026-10-17,DZA-002;DZA-004;DZA-008,DZA-001=none;DZA-005=underway;DZA-003=underway;DZA-006=underway;DZA-009=underway;DZA-010=underway;DZA-007=underway,
-DZA,exchange,reach,coverage,,,,,nothing held
-DZA,exchange,usage,coverage,,,,,nothing held
+DZA,exchange,platform,coverage,inservice,2026-10-17,DZA-002;DZA-004;DZA-008;DZA-011,DZA-001=none;DZA-005=underway;DZA-003=underway;DZA-006=underway;DZA-009=underway;DZA-010=underway;DZA-007=underway,
+DZA,exchange,reach,coverage,,,,,nothing found
+DZA,exchange,usage,coverage,,,,,nothing found

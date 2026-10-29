@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-17-ben-benin-s-national-interoperability-platform-achieves-205m-secure-reques",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "An ASIN staff member's post says Benin's National Interoperability Platform (XROAD BJ), running since 2020, carries data between institutions' systems, as in a vehicle inspection fee query to the tax authority and road-safety agency.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "XROAD BJ",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The post gives XROAD BJ counters of 75 public and private members, 193 information systems integrated and 542 active services.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "XROAD BJ",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The post reports 205 million secure requests through XROAD BJ, 26.6 million in the last 30 days.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "XROAD BJ",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "XROAD BJ (National Interoperability Platform)",
+   "country_label": "Benin",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

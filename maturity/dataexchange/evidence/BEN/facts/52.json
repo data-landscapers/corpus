@@ -1,0 +1,44 @@
+{
+ "slug": "2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Benin's ID4Africa deck describes the National Interoperability Platform (PNI, XROAD BJ), an X-Road based service bus, as in use, with identity services exposed as secure APIs to third-party systems.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "PNI (XROAD BJ)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "Benin's deck reports successful integration of more than 120 systems through the PNI (XROAD BJ), including the Public Services Portal, the ANIP natural persons registry, e-Tax and Insurance for the Poor.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "PNI (XROAD BJ)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PNI (XROAD BJ)",
+   "country_label": "National Interoperability Platform (PNI)",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ASIN (coordination structure)",
+   "tiers": ""
+  },
+  {
+   "system": "CatIS",
+   "country_label": "Interoperability Services Catalogue (CatIS)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

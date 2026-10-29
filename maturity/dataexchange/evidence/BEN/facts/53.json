@@ -1,0 +1,46 @@
+{
+ "slug": "2025-02-19-ben-cybernetica-and-benin-continue-enhancing-the-country-s-digitalisation",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Cybernetica's contract with ASIN covers support and maintenance of the interoperability platform that lets government agencies communicate, which over 50 government institutions use.",
+   "as_of": "2025-02-19",
+   "date_precision": "day",
+   "system": "UXP-based interoperability platform",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "Over 50 government institutions use the portal and interoperability platform solutions to offer around 270 services, per Cybernetica.",
+   "as_of": "2025-02-19",
+   "date_precision": "day",
+   "system": "UXP-based interoperability platform",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "Cybernetica states more than 3 million data exchanges are carried out automatically online each month.",
+   "as_of": "2025-02-19",
+   "date_precision": "day",
+   "system": "UXP-based interoperability platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UXP-based interoperability platform",
+   "country_label": "UXP interoperability platform",
+   "class": "exchange",
+   "platform": "Cybernetica Unified eXchange Platform",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-26-mar-a-l-onu-le-maroc-defend-sa-vision-d-une-intelligence-artificielle-souv",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The minister said the national interoperability platform has already processed more than 52 million transactions.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "plateforme nationale d'interopérabilité",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The minister said the national interoperability platform has processed more than 52 million transactions.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "plateforme nationale d'interopérabilité",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plateforme nationale d'interopérabilité",
+   "country_label": "plateforme nationale d'interopérabilité",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

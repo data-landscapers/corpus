@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-rwa-minict-national-data-sharing-policy-annex-7-platform-requirements",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Annex 7 to the National Data Sharing Policy, issued by the Ministry of ICT and Innovation, says an accredited provider such as RISA will develop and implement a data sharing platform between government entities, possibly based on the Government Enterprise Services Bus or an API gateway.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Sharing Platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Enterprise Services Bus (GESB)",
+   "country_label": "GESB",
+   "class": "exchange",
+   "platform": "enterprise service bus",
+   "owner": "RISA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

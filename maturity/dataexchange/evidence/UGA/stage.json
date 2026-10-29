@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "4",
+      "stage": "5",
       "platform": "inservice",
       "reach": "wide",
-      "usage": "",
+      "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-011;UGA-005",
-      "gaps": "No source found since October 2023 gives a figure for the exchanges through the platform.",
-      "note": "Rebuild 2026-10-28: NITA-U counts 168 organisations exchanging data through UGHub in July 2026. No figure for its exchanges is held.",
-      "as_at": "2026-10-28"
+      "stage_sources": "UGA-014;UGA-011",
+      "gaps": "",
+      "note": "4c 2026-10-29: DIAL reports over 90 million transactions through UGHub, per NITA-U, in April 2024, a use figure inside the window. NITA-U counts 168 organisations exchanging data through it in July 2026.",
+      "as_at": "2026-10-29"
     }
   ]
 }

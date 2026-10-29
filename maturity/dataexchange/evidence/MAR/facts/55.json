@@ -1,0 +1,46 @@
+{
+ "slug": "2025-04-13-mar-add-silence-on-digitalise",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The ADD says more than 76 bodies are connected to the GISRE national interoperability platform, exchanging data for more than 12 operational use cases including the RSU, AMO Tadamon, Massar and the civil status register.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "GISRE interoperability platform",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The ADD says more than 76 organisations are connected to GISRE.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "GISRE interoperability platform",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The ADD says GISRE processed more than 95 million transactions in 2024, affecting 18 million citizens.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "GISRE interoperability platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GISRE",
+   "country_label": "Morocco",
+   "class": "exchange",
+   "platform": "GISRE",
+   "owner": "ADD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

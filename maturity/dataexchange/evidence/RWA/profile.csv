@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,exchange,platform,coverage,inservice,2026-10-02,RWA-002;RWA-006,RWA-003=underway;RWA-005=underway;RWA-004=underway;RWA-001=underway,
+RWA,exchange,platform,coverage,inservice,2026-10-02,RWA-002;RWA-006,RWA-003=underway;RWA-005=underway;RWA-008=underway;RWA-004=underway;RWA-001=underway,
 RWA,exchange,reach,coverage,wide,2025-05,RWA-007,,
-RWA,exchange,usage,coverage,,,,,nothing held
+RWA,exchange,usage,coverage,,,,,nothing found

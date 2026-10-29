@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-26-civ-modernisation-de-l-administration-le-ministre-kalil-konate-lance-offic",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Minister Kalil Konaté launched on 25 September 2025 the project to set up the public administration interoperability platform, whose phase 1, running to April 2026, is to interconnect the information systems of 12 ministries.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Plateforme d'interopérabilité de l'administration publique",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme d'interopérabilité de l'administration publique",
+   "country_label": "Côte d'Ivoire",
+   "class": "exchange",
+   "platform": "",
+   "owner": "SNDI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

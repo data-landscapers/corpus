@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-tza-jamii-x-change",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "NIDA states Jamii X-Change, its X-Road-based secure data exchange platform, is operational, with Zan X-Change in testing and Revenue X-Change under implementation.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Jamii X-Change",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jamii X-Change",
+   "country_label": "Tanzania",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

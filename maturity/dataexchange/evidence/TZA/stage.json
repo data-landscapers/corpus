@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "3",
+      "stage": "4",
       "platform": "inservice",
-      "reach": "",
+      "reach": "wide",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-005;TZA-002",
-      "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-      "note": "Rebuild 2026-10-28: e-GA says public institutions exchange information through GovESB, and the Prime Minister ordered all to join by July 2025. No count of connected systems is held.",
-      "as_at": "2026-10-28"
+      "stage_sources": "TZA-008;TZA-001",
+      "gaps": "No source found since October 2023 gives a figure for the exchanges through the platform.",
+      "note": "4c 2026-10-29: e-GA counted 109 public institutions connected to GovESB and 117 systems registered in December 2023, inside the three years. No figure for its exchanges is held.",
+      "as_at": "2026-10-29"
     }
   ]
 }

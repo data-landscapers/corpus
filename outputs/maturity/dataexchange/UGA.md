@@ -6,8 +6,8 @@
 
 **Many systems connected.** [In July 2026 NITA-U reported 168 organisations exchanging information through the platform, 70 public and 98 private](<https://ict.go.ug/media/news/familiarisation-visit-highlights-nita-us-digital-progress>). [Its UGHub page says the platform serves over 150 entities](<https://www.nita.go.ug/services/e-government-services/integration-service-ughub>). [DIAL says over 100 government agencies use it, with banks, insurers and fintech firms](<https://dial.global/research/integrated-national-data-exchange-uganda-case-study>).
 
-**Use reported.** No source found since October 2023 gives a figure for the exchanges through the platform. The nearest held fact: [the one given above](<https://www.nita.go.ug/services/e-government-services/integration-service-ughub>).
+**Use reported.** [In April 2024 DIAL reported over 90 million transactions through UGHub, citing NITA-U](<https://dial.global/data-exchange-key-to-africas-digital-future-uganda-learnings/>). [It counted 113 public and private entities on the platform at the time](<https://dial.global/data-exchange-key-to-africas-digital-future-uganda-learnings/>).
 
 ***Also on file***. [National ICT Infrastructure Spatial Data Store (NISDS)](<https://ict.go.ug/media/news/uganda-to-advance-digital-transformation-with-a-national-ict-infrastructure-platform>).
 
-***Not found***. No source found since October 2023 gives a figure for the exchanges through the platform.
+***Not found***. Nothing further is asked of this indicator.

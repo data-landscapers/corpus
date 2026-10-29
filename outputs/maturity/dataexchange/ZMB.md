@@ -6,8 +6,8 @@
 
 **Many systems connected.** [In July 2026 the Accountant General's office said more than 400 government services had joined the Government Service Bus, ZamPortal and ZamPay](<https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2>). [In 2024 SMART Zambia said 290 services were deployed on the bus in six months](<https://www.szi.gov.zm/?p=2814>).
 
-**Use reported.** No source found since October 2023 gives a figure for the exchanges through the platform. The nearest held fact: [the one given above](<https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2>).
+**Use reported.** [In April 2025 the Smart Zambia Institute said 4.5 million transactions had passed through the Government Service Bus in three years](<https://znbc.co.zm/news/govt-service-bus-handles-k5bn-in-transactions/>). [They were worth K5 billion](<https://znbc.co.zm/news/govt-service-bus-handles-k5bn-in-transactions/>).
 
 ***Also on file***. [ZamConnect](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498>); [ZamPay](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498>); [Digital Data Protection Compliance Management System](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498>); [ZELMIS](<https://www.mlss.gov.zm/?p=5144>); [ZILAS](<https://www.szi.gov.zm/?p=3792>); [Citizen Support Services Portal](<https://efficacynews.africa/2026/08/23/labour-ministry-pushes-digital-services-to-expand-access-across-zambia/>).
 
-***Not found***. No source found since October 2023 gives a figure for the exchanges through the platform.
+***Not found***. Nothing further is asked of this indicator.

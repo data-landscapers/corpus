@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,exchange,platform,coverage,inservice,2026-09-04,SEN-006;SEN-007,SEN-003=underway;SEN-004=underway;SEN-001=underway;SEN-005=underway;SEN-002=underway,
-SEN,exchange,reach,coverage,,,,,nothing held
-SEN,exchange,usage,coverage,,,,,nothing held
+SEN,exchange,platform,coverage,underway,2026-09-24,SEN-001;SEN-002;SEN-003;SEN-004;SEN-005;SEN-006;SEN-007;SEN-008,,
+SEN,exchange,reach,coverage,,,,,nothing found
+SEN,exchange,usage,coverage,,,,,nothing found
