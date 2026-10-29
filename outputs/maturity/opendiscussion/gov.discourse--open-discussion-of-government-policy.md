@@ -23,10 +23,10 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | 5 Leading | 0 |
 | 4 Operating | 2 |
 | 3 Established | 0 |
-| 2 Nascent | 26 |
-| 1 Absent | 12 |
+| 2 Nascent | 25 |
+| 1 Absent | 14 |
 | Unplaced | 8 |
-| No evidence | 6 |
+| No evidence | 5 |
 
 ## Countries
 
@@ -199,14 +199,6 @@ A media body criticised the January 2025 social media block publicly; no source 
 
 - AMDISS, a South Sudanese media body, publicly criticised the Facebook and TikTok blockage as restraining press freedom and public discourse ([source, 2025-01-28](https://www.africafex.org/digital-rights/amdiss-welcomes-lifting-of-the-ban-on-facebook-and-tiktok-and-calls-on-the-authorities-to-keep-the-platforms-accessible)).
 
-### Tunisia: 2 Nascent
-
-Journalists were sentenced to prison in 2026 over what they wrote and said; no source says whether any twelve months pass without such a case.
-
-- The National Union of Tunisian Journalists (SNJT), with Human Rights Watch, Amnesty International and RSF, denounced Decree-Law 2022-54 as a tool of repression, and the SNJT called for the annulment of the El Mekki judgment; the SNJT is inside the country; the criticism is reported in the document dated 2026-07-16 ([source, 2026-07-16](https://nawaat.org/2026/07/16/liberte-dexpression-en-tunisie-recul-alarmant-sous-le-joug-du-decret-54-et-de-larticle-86/)).
-- Journalists Borhen Bsaies and Mourad Zeghidi were sentenced to one year in prison, reduced to eight months, for statements under Decree-Law 54; the document gives no date for the sentence, so the document's publication date 2026-07-16 is used ([source, 2026-07-16](https://nawaat.org/2026/07/16/liberte-dexpression-en-tunisie-recul-alarmant-sous-le-joug-du-decret-54-et-de-larticle-86/)).
-- The Sfax Court of Appeal sentenced journalist Haythem El Mekki to one year in prison on 15 July 2026, requalifying the case from Decree-Law 54 to Article 86 of the Telecommunications Code, over a social-media post on the situation at a Sfax hospital (complaint by the hospital); a first-instance court had dismissed it ([source, 2026-07-15](https://nawaat.org/2026/07/16/liberte-dexpression-en-tunisie-recul-alarmant-sous-le-joug-du-decret-54-et-de-larticle-86/)).
-
 ### Zambia: 2 Nascent
 
 A vlogger got nine months in September 2026 over a post about a presidential aide; whether any year passes without such cases is unknown.
@@ -222,6 +214,12 @@ Journalists were reportedly arrested on cyberbullying charges in 2026 and the da
 - The Media Alliance of Zimbabwe, with International Media Support, held a dialogue criticising the Cyber and Data Protection Act as being used to silence journalists ([source, 2026-10-15](https://hanyani.com/is-the-data-protection-act-meant-to-protect-citizens-or-censor-freedom-of-expression/)).
 - MAZ's coordinator says four journalists were reportedly arrested in 2026 on cyberbullying charges over stories they wrote ([source, 2026](https://hanyani.com/is-the-data-protection-act-meant-to-protect-citizens-or-censor-freedom-of-expression/)).
 - Amnesty International says Bulawayo24 journalist Gideon Madzikatidze has been in custody since 18 February 2026, charged with cyberbullying and broadcasting without a licence, after publishing a story alleging corruption involving a waste management company ([source, 2026-02-18](https://www.amnesty.org/en/latest/news/2026/05/east-and-southern-africa-media-freedom-under-attack-amid-prevailing-impunity/)).
+
+### Algeria: 1 Absent
+
+Algeria confined its exam internet shutdowns to exam centres in June 2026; no source found says whether policy is criticised in public.
+
+- Access Now says that from the start of the Baccalaureate on 7 June 2026 Algeria confined its exam shutdown measures to the inside of exam centres, as the Education Minister Mohamed Seghir Saadaoui explained, leaving the rest of the country connected ([source, 2026-06-07](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)).
 
 ### Cameroon: 1 Absent
 
@@ -294,9 +292,15 @@ The internet was cut nationwide around the 29 October 2025 election; no source f
 - The complaint filed 21 August 2026 states that the Tanzanian government shut down the internet nationwide around the 29 October 2025 election and protests; this is the plaintiff's allegation, with no end date given ([source, 2025-10](https://unicourt.com/case/ca-sm-casebm9eb4fc6d8dcd-1031959)).
 - Amnesty International says Tanzania's authorities imposed a partial internet shutdown during the October 2025 general elections ([source, 2025-10](https://www.amnesty.org/en/latest/news/2026/05/east-and-southern-africa-media-freedom-under-attack-amid-prevailing-impunity/)).
 
+### Tunisia: 1 Absent
+
+Messaging apps were disrupted across Tunisia during the June 2026 exams, and journalists were jailed for speech; whether any law bars cuts is not known.
+
+- Access Now, citing OONI anomaly data, says widespread mobile internet disruptions affecting messaging apps hit Tunisia during the Baccalaureate session from 3 June 2026 and again 29 June to 2 July 2026 ([source, 2026-06-03](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)).
+
 ### Uganda: 1 Absent
 
-The government cut the internet for four days around the January 2026 election and kept social media blocked; no source says when those blocks ended.
+The government cut the internet for four days in January 2026, and Facebook stayed blocked in March; a bar on cuts is not known.
 
 - Access Now's #KeepItOn report describes Uganda's January 2026 blackout as a cut of internet and social media ([source, 2026-01](https://www.accessnow.org/internet-shutdowns-2025/)).
 - A nationwide internet shutdown in January 2026 ahead of the general elections lasted nearly 100 hours; authorities said it was to prevent misinformation and electoral violence ([source, 2026-01](https://www.newvision.co.ug/category/health/csos-raise-alarm-over-digital-violations-affe-NV_229061_092026)).
@@ -348,12 +352,6 @@ Not established: No source dated in the last three years says a newspaper, broad
 Access Now reports 2025 protest throttling in Togo, but not where, who ordered it or when it ended, so no stage is set.
 
 Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
-
-### Algeria: No evidence
-
-The government drafted a national fact-checking system in 2026; no source found says whether criticism, cuts or speech punishments occurred, so no stage is set.
-
-Not established: Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.
 
 ### Central African Republic: No evidence
 

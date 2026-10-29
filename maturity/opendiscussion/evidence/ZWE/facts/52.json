@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-26-zwe-paradigm-zimbabwe-14th-digital-rights-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Paradigm Initiative's Londa 2025 report states that in 2025 arbitrary arrests of journalists and human rights defenders continued in Zimbabwe and that sedition legislation and the criminalisation of false news were applied against freedom of expression.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Londa 2025 Zimbabwe report",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "Report also says there was no internet shutdown in 2025; that is not a cut or a bar, so no fact."
+}

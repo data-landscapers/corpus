@@ -1,17 +1,18 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "discussion",
-   "stage": "2",
-   "debate": "criticised",
-   "connection": "",
-   "penalty": "punished",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-004;TUN-003;TUN-001",
-   "gaps": "A person was arrested, charged or jailed, or an outlet suspended or closed, for what was said or published, inside the last twelve months.",
-   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "discussion",
+      "stage": "1",
+      "debate": "criticised",
+      "connection": "cut",
+      "penalty": "punished",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-012",
+      "gaps": "",
+      "note": "Access Now, citing OONI data, says Tunisia imposed mobile disruptions on messaging apps during both Baccalaureate sessions in June and July 2026, a cut inside the twelve months, which places it at stage 1 whatever else is held.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

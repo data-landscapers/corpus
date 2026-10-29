@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-accessnow-noexamshutdown-one-step-forward-another-step-back",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now, citing OONI anomaly data, says widespread mobile internet disruptions affecting messaging apps hit Tunisia during the Baccalaureate session from 3 June 2026 and again 29 June to 2 July 2026.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Baccalaureate exam mobile disruptions",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

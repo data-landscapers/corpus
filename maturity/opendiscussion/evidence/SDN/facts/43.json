@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-accessnow-noexamshutdown-one-step-forward-another-step-back",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now says Sudan's government ordered 10 internet shutdowns during exams between 13 and 23 April 2026.",
+   "as_of": "2026-04-13",
+   "date_precision": "day",
+   "system": "Exam internet shutdowns",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

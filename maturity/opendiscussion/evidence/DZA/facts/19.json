@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-accessnow-noexamshutdown-one-step-forward-another-step-back",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now says Algeria's Education Minister Mohamed Seghir Saadaoui explained connectivity would be imposed only inside exam centres from the Baccalaureate start on 7 June 2026.",
+   "as_of": "2026-06-07",
+   "date_precision": "day",
+   "system": "Baccalaureate exam connectivity restrictions",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

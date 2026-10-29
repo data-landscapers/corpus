@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-27-observer-uganda-to-maintain-facebook-ban-ict-minister",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Minister of state for ICT Godfrey Kabbyanga Baluku said the government's suspension of Facebook, in place since January 2021, will be maintained until Meta meets government conditions; the platform is reachable mainly through VPNs.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Facebook block",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "Rights groups including Unwanted Witness and Amnesty International criticised the continued Facebook suspension, arguing it limits freedom of expression and political participation.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Facebook block",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
