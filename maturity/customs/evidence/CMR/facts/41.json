@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-11-cmr-cameroon-logistics-bodies-partner-to-accelerate-digital-trade-operatio",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "GUCE, the Single Window for Foreign Trade Operations, is reported by its own director general as having digitalised more than 35 trade procedures and, with the National Shippers' Council, exchanged more than 2 million files and cargo tracking notes between their platforms.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "GUCE (Single Window for Foreign Trade Operations)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE",
+   "country_label": "Cameroon",
+   "class": "customs",
+   "platform": "single window",
+   "owner": "GUCE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

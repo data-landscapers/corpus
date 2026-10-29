@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SDN,customs,system,coverage,inservice,2026-09-30,SDN-001;SDN-003;SDN-005,SDN-002=underway,
-SDN,customs,window,coverage,,,,,nothing held
-SDN,customs,exchange,coverage,,,,,nothing held
+SDN,customs,window,coverage,window,2025-12-27,SDN-006,,
+SDN,customs,exchange,coverage,,,,,nothing found

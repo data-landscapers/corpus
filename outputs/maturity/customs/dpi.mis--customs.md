@@ -21,8 +21,8 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 | Stage | Countries |
 |---|---|
 | 5 Leading | 14 |
-| 4 Operating | 17 |
-| 3 Established | 18 |
+| 4 Operating | 18 |
+| 3 Established | 17 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -220,6 +220,13 @@ A trade single window was in service in 2025; no source found reports exchange o
 - The WTO summary says Sierra Leone introduced the Electronic Single Window in 2020 to streamline import procedures ([source, 2020](https://www.wto.org/english/tratop_e/tpr_e/s470_sum_e.pdf)).
 - The NRA ASYCUDA Unit supervisor says ASYCUDA World connects multiple agencies through digital modules, routing information by each institution's role ([source, 2026-10](https://sierraloaded.sl/local/nra-launch-digital-customs-system-jendema/)).
 
+### Sudan: 4 Operating
+
+A single window joining customs and other border agencies handled its first export in 2025; exchange with neighbours is not known.
+
+- The Sudan government portal says the first foreign-trade export contract was completed fully electronically on the Baladna platform, which links trade, customs, standards, ports, border crossings, tax, Zakat and veterinary and health clearances as a single window for foreign trade ([source, 2025-12-27](https://sudan.gov.sd/%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d8%a7%d9%84%d9%81%d8%b9%d9%84%d9%8a-%d9%84%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1-%d8%a5%d9%84/)).
+- Sudan's Customs Authority says it completed integration of the ASYCUDA customs management system with the civil registry database via the Baladna platform, and that customs risk officers across checkpoints will use it to prevent forged national ID numbers in declarations ([source, 2025-10-04](https://sudanevents.com/index.php/2025/10/04/customs-authority-completes-digital-integration-of-asycuda-with-civil-registry/)).
+
 ### Zambia: 4 Operating
 
 A trade single window joined customs and other agencies in 2026; no source found reports exchange open to the whole regional community.
@@ -343,12 +350,6 @@ Customs declarations were processed electronically in 2026; a single window is n
 Customs declarations were processed electronically by 2022, a 2024 government plan says; a single window is not on record.
 
 - The Ministry of Finance plan says Mogadishu Customs introduced electronic customs systems, SOMCAS implemented in February 2022 alongside the current Port Customs Management Information System (PCMIS) ([source, 2022-02](https://mof.gov.so/sites/default/files/Publications/Somali%20Customs%20Strategic%20Plan2024-2027.pdf)).
-
-### Sudan: 3 Established
-
-Customs declarations were processed electronically in 2025; a single window is not on record.
-
-- Sudan's Customs Authority says it completed integration of the ASYCUDA customs management system with the civil registry database via the Baladna platform, and that customs risk officers across checkpoints will use it to prevent forged national ID numbers in declarations ([source, 2025-10-04](https://sudanevents.com/index.php/2025/10/04/customs-authority-completes-digital-integration-of-asycuda-with-civil-registry/)).
 
 ### Libya: 2 Nascent
 

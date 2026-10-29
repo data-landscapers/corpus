@@ -42,6 +42,7 @@ CAF,SYDONIA,CAF,customs,ASYCUDA,,national,2026-07-03-orange-webb-fontaine-paieme
 CAF,eDouanes,CAF,customs,Webb Fontaine,Webb Fontaine (concessionaire),national,2026-07-03-orange-webb-fontaine-paiement-redevance-dpi
 CAF,Orange Money,CAF,other,,Orange Centrafrique,national,2026-07-03-orange-webb-fontaine-paiement-redevance-dpi
 CAF,Sydonia World,Sydonia World,customs,ASYCUDA World,Douane centrafricaine,national,2024-07-12-digitalisation-finances-publiques-rca-africa24
+CAF,Sydonia World,Sydonia World,customs,ASYCUDA World,Customs,,2024-06-28-caf-centrafrique-digitalisation-des-services-publics-300-milliards-de-fcfa
 CIV,GUCE CI (Guichet Unique du Commerce Extérieur),Côte d'Ivoire,other,,"GUCE CI, state body",,2026-05-12-guce-connect-digitalisation-commerce-exterieur-linfodrome
 CIV,Port Community System (PCS),Côte d'Ivoire,other,GUCE CI platform,GUCE CI,,2026-05-12-guce-connect-digitalisation-commerce-exterieur-linfodrome
 CIV,GUCE-CI platform,Côte d'Ivoire,other,,GUCE-CI,,2025-12-23-guce-ci-dgi-echange-donnees-fratmat
@@ -61,6 +62,7 @@ CMR,CAMCIS,CAMCIS,customs,,Cameroon customs,,2026-10-18-nga-customs-afreximbank-
 CMR,CAMCIS,Cameroon,customs,,Cameroon Customs,,2026-06-04-tcd-on-working-visit-to-yaounde-chad-cameroon-customs-chat-ways-to-fluidif
 CMR,CAMCIS,Cameroon,customs,,Cameroon customs,,2024-06-19-cmr-fongod-edwin-nuvaga-la-reforme-de-camcis-se-poursuit-inexorablement
 CMR,GUCE,Guichet Unique des Operations du Commerce Exterieur,customs,,GUCE-GIE,,2024-11-25-cmr-echanges-commerciaux-le-guichet-unique-de-troisieme-generation-se-devo
+CMR,GUCE,Cameroon,customs,single window,GUCE,,2025-11-11-cmr-cameroon-logistics-bodies-partner-to-accelerate-digital-trade-operatio
 COD,SYDONIA World,COD,customs,SYDONIA World,DGDA,,2026-09-17-cod-desknews-paluku-omc-dematerialisation-commerce-exterieur
 COD,Guichet unique intégral du commerce extérieur,COD,customs,,,,2026-09-17-cod-desknews-paluku-omc-dematerialisation-commerce-exterieur
 COD,SYDONIA World,COD,customs,SYDONIA World,DGDA,,2026-01-09-rdc-guce-dgda-transmission-electronique-obligatoire
@@ -277,6 +279,7 @@ SDN,ASYCUDA,Sudan,customs,ASYCUDA,Sudan Customs,,2025-06-18 ASYCUDA customs syst
 SDN,electronic single window (investment),Sudan,other,,National Investment Authority,,2026-08-04-national-investment-authority-in-the-process-of-electronic-single-window
 SDN,Advance Cargo Declaration (ACD),ACD,customs,,Sudan Customs Forces,,2026-09-30-sdn-customs-expands-advance-cargo-declaration-to-all-ports
 SDN,ASYCUDA,Sudan,customs,ASYCUDA,,,2026-04-11-sdn-mof-pfm-reform-roadmap-isali-integration
+SDN,Baladna,Baladna government data and transactions platform,other,,Ministry of Digital Transformation and Communications,,2025-12-27-sdn-baladna-first-electronic-export-contract-single-window
 SEN,Guichet unique portuaire électronique,Senegal,customs,,Port Autonome de Dakar,,2025-11-07-lesoleil-port-dakar-guichet-unique-bons-a-delivrer
 SEN,GAINDE 2000,Senegal,customs,,Direction générale des Douanes,,2025-11-07-lesoleil-port-dakar-guichet-unique-bons-a-delivrer
 SEN,GAINDE,Senegal,customs,GAINDE,Senegalese Customs,,2026-07-20-thepoint-gra-senegal-customs-ict-transit
@@ -338,6 +341,7 @@ TZA,TECTS,Tanzania,other,,Tanzania Revenue Authority,,2026-09-22-bdi-l-interfaca
 TZA,TANCIS,Customs Integrated System (TANCIS),customs,,Tanzania Revenue Authority,,2025-09-01-tza-port-customs-system-upgrade-speed-up-cargo-clearance
 TZA,TANESW,Tanzania National Electronic Single Window (TANESW),customs,,Tanzania Revenue Authority,,2025-09-01-tza-port-customs-system-upgrade-speed-up-cargo-clearance
 TZA,TOS,Terminal Operating System,other,,Tanzania Ports Authority,,2025-09-01-tza-port-customs-system-upgrade-speed-up-cargo-clearance
+TZA,TeSWS,Tanzania Electronic Single Window System,customs,,"e-GA with TRA, TPA, Ministry of Finance",,2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali
 UGA,ASYCUDA World,Uganda,customs,ASYCUDA World,Uganda Revenue Authority,,2024-06-24-ura-asycudaworld
 UGA,URA customs system,Uganda,customs,,Uganda Revenue Authority,,2026-06-01-uga-ask-ura-commissioner-general-19
 UGA,ASYCUDA,Uganda,customs,,Uganda Revenue Authority,,2025-05-19-uga-ura-trains-customs-agents-ahead-of-export-fiscalisation-roll-out

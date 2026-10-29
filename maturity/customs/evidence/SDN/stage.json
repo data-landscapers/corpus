@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "window": "",
+      "window": "window",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SDN-001",
-      "gaps": "No source found since October 2023 says a trade single window is in service.",
-      "note": "Customs risk officers across checkpoints use ASYCUDA, integrated with the civil registry in October 2025, so stage 3. No source describes a trade single window.",
-      "as_at": "2026-10-26"
+      "stage_sources": "SDN-006;SDN-001",
+      "gaps": "No source found since October 2023 says customs exchanges data through a system open to its whole regional community.",
+      "note": "The government portal says Baladna serves as the single window for foreign trade, joining trade, customs, standards, ports, border crossings and tax, and the first export contract ran fully electronically on it in December 2025, so stage 4. No exchange with the regional community is on record.",
+      "as_at": "2026-10-29"
     }
   ]
 }

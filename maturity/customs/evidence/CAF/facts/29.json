@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-28-caf-centrafrique-digitalisation-des-services-publics-300-milliards-de-fcfa",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Africa24 reports Bangui customs officials working declarations in Sydonia World, which gives access to declarations in all offices including those entered at the single office.",
+   "as_of": "2024-06-28",
+   "date_precision": "day",
+   "system": "Sydonia World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sydonia World",
+   "country_label": "Sydonia World",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Customs",
+   "tiers": ""
+  }
+ ],
+ "note": "A guichet unique is mentioned only as a pre-liquidation step; no trade single window joining agencies is stated."
+}

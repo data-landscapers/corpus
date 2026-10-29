@@ -114,3 +114,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,CIV,dpi.mis--customs,fact,5,5,CIV-012;CIV-005;CIV-011,Arrivals: ECOWAS connected Cote d'Ivoire to SIGMAT in July 2024 and SIGMAT ran on the Abidjan-Bamako corridor in September 2026; GUCE CI takes declarations online in 2024 and 2025. Stage 5 holds.
 2026-10-27,MWI,dpi.mis--customs,fact,4,4,MWI-001,"Arrivals: the MRA's ASYCUDA World processes declarations in 2026 and its data exchange with Zambia is live since November 2025, bilateral and so not a yes to question 4. Stage 4 holds."
 2026-10-27,ZMB,dpi.mis--customs,fact,4,4,ZMB-005,"Arrivals: the ZRA's live data exchange with Malawi since November 2025 is bilateral, not a yes to question 4. Stage 4 holds."
+2026-10-29,SDN,dpi.mis--customs,fact,3,4,SDN-006;SDN-001,"Government portal: Baladna is the foreign-trade single window joining customs, standards, ports, border crossings and tax; first fully electronic export December 2025; 3 to 4"

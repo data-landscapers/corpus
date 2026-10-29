@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "e-GA says TeSWS phase one (customs procedures, control and inspection agencies, payments) is in use at Dar es Salaam port and Julius Nyerere airport by all 1,496 clearing agents and 246 cargo handlers.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "TeSWS",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "e-GA says TeSWS lets traders lodge customs and cargo data once for all participating border and regulatory agencies (TRA, TPA, TBS and others), phase one in use.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "TeSWS",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TeSWS",
+   "country_label": "Tanzania Electronic Single Window System",
+   "class": "customs",
+   "platform": "",
+   "owner": "e-GA with TRA, TPA, Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "No regional exchange stated."
+}
