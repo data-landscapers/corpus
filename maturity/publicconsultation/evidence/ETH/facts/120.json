@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-02-eth-moj-e-consultation-platform-manual",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Online consultation portal (e-consultation)",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": "Manual and portal cover lawmaking generally; no named digital law put to outside people."
+}

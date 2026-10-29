@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-tcd-discours-de-haliki-choua-mahamat-sur-la-gouvernance-des-donnees",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The ministry held a national validation workshop on 7 October 2026 on the draft national data governance strategy, with academics, civil society, the private sector and public institutions invited, and said the relevant actors had been consulted since launch.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Stratégie Nationale de Gouvernance des Données",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

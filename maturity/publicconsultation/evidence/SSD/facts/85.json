@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-11-ssd-south-sudan-ties-data-rules-to-citizen-trust",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "A ministry-hosted workshop in Juba, 8-10 September 2026, with about 50 participants including civil society groups, telecom operators and regulators, covered preparation for the Data Protection Bill.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Data Governance Capacity Building and Engagement Workshop",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
