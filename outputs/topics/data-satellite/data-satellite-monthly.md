@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: data.satellite
-places: COM; COG; CIV; DJI; GNB; LSO; NGA; TGO; ZMB
-record: 848a40f58982
+places: COM; COG; CIV; DJI; GNB; LSO; NGA; TGO; ZMB; ZWE
+record: 4d3f3d6a2311
 ---
 
 # News, Sep – Oct 2026
@@ -27,6 +27,8 @@ record: 848a40f58982
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
 ## Comoros
@@ -190,6 +192,22 @@ Togo's digital minister Cina Lawson announced on 1 October 2026 a space cooperat
 **[Zambian Entrepreneur Thomas Lungu Brings AI and Satellite Data to Farming](https://www.wearetech.africa/fr/fils/tech-stars/zambie-thomas-lungu-optimise-lirrigation-et-les-cultures-grace-au-satellite-et-a-lia)** — wearetech.africa, 22 September 2026
 
 Zambian start-up Mytochondria, co-founded in 2023 by data scientist Thomas Fred Lungu, uses satellite imagery and AI to assess soil quality, moisture and temperature for farmers. The profile presents it as a response to climate shocks hitting harvests in southern Africa.
+
+</div>
+
+</div>
+
+## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third national satellite</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zim to launch a third satellite](https://newsday.co.zw/article/zim-to-launch-a-third-satellite)** — NewsDay, 28 October 2026
+
+Zimbabwe is preparing to launch a third satellite, said Fanuel Tagwira, permanent secretary of the higher education, innovation, science and technology ministry. He spoke at the AARSE International Conference in Harare, which opened on 26 October 2026. No launch date was given.
 
 </div>
 

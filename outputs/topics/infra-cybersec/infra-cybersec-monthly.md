@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: infra.cybersec
 places: BEN; BFA; CMR; CPV; TCD; COM; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f51572844e7f
+record: 02cfdba04fd2
 ---
 
 # News, Sep – Oct 2026
@@ -240,6 +240,14 @@ A Russian embassy delegation visiting the Comoros took up with the telecommunica
 **[Cybersécurité : la Côte d’Ivoire organise sa première simulation nationale de crise cyber - Abidjan.net News](https://news.abidjan.net/articles/749590/cybersecurite-la-cote-divoire-organise-sa-premiere-simulation-nationale-de-crise-cyber)** — Abidjan.net, 13 October 2026
 
 Côte d'Ivoire's information-systems security agency will run a first national cyber-crisis simulation in Abidjan on 28 and 29 October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[CYBER.EX 2026 : l’ANSSI veut préparer la Côte d’Ivoire aux crises numériques](https://www.linfodrome.com/societe/126972-cyber-ex-2026-l-anssi-veut-preparer-la-cote-d-ivoire-aux-crises-numeriques)** — Linfodrome, 28 October 2026
+
+Côte d'Ivoire's cybersecurity agency ANSSI opened CYBER.EX 2026, the country's first national cyber-crisis exercise, on 28 October 2026. It tests how government bodies, companies and the defence and security forces respond to a simulated cyberattack and work together.
 
 </div>
 

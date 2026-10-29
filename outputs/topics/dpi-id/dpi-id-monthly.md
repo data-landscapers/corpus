@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: aea81389810b
+record: 19d866536e37
 ---
 
 # News, Sep – Oct 2026
@@ -1773,6 +1773,28 @@ South Africa's transport minister said 300,000 dormant traffic register numbers 
 **[Government to amend regulations to prevent traffic documents being used as identification](https://www.sanews.gov.za/south-africa/government-amend-regulations-prevent-traffic-documents-being-used-identification)** — SAnews (South African Government News Agency), 11 October 2026
 
 South Africa's transport department plans to amend the road traffic regulations so that traffic register number certificates, learner's licences and driving licences no longer count as identification. A traffic register number would be valid only as long as the passport and permit it was issued on, and the draft is to be gazetted for 30 days of comment.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Passport requirement for foreign nationals' SIM registration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Plans for biometric tracing system to strengthen immigration control](https://www.timeslive.co.za/news/south-africa/2026-10-26-plans-for-biometric-tracing-system-to-strengthen-immigration-control/)** — TimesLIVE (Sunday Times), 26 October 2026
+
+South Africa's inter-ministerial committee on migration said on 26 October 2026 that ports of entry will register arrivals electronically. Visa details and phone numbers would be recorded, with SMS reminders before visas expire. Fingerprints would feed a wider biometric tracking system. Chair Mmamoloko Kubayi said mobile operators are being consulted on tighter SIM registration; no timetable was given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa plans biometric asylum registration, tighter digital border controls](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)** — Biometric Update, 28 October 2026
+
+South Africa's Department of Home Affairs plans an online booking system for asylum seekers by 10 November 2026. It will collect biometric and identity data. The step follows a July Constitutional Court ruling that struck down Refugees Act barriers to asylum procedures. The government is also building electronic border systems and weighing stricter SIM registration for foreign nationals.
 
 </div>
 

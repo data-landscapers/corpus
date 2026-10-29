@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 120b68c14476
+record: 37babaa50054
 ---
 
 # News, Sep – Oct 2026
@@ -132,6 +132,20 @@ The Algerian account of the Assamaka ceremony, summarised above, says the link w
 **[Niger-Algérie : lancement à Assamaka de l'exploitation de la dorsale transsaharienne à fibre optique](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Agence Nigérienne de Presse, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
 
 Niger and Algeria launched operation of the fibre link between In Guezzam and the Arlit-Agadez region at a ceremony at Assamaka, on the border, on 6 October, chaired by the two communications ministers. Algeria's account gives a starting capacity of 100 Gbps.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Arab agreement on personal data protection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[General Secretariat holds fourth meeting of joint committee to consider the Draft Arab Agreement on Personal Data Protection](http://www.leagueofarabstates.net/en/news/Pages/NewsDetails.aspx?RID=4160)** — League of Arab States, 25 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XNA/XNA-monthly.html" title="XNA">North Africa</a>
+
+The League of Arab States held the fourth meeting of a joint expert committee on a Draft Arab Agreement on Personal Data Protection on 25 and 26 October 2026. The draft stems from an Algerian proposal approved by the Council of Arab Ministers of Justice. The results go to that council's session in Algeria in November 2026.
 
 </div>
 
@@ -810,6 +824,14 @@ The governor of the Central Bank of Liberia led a delegation to the Bank of Ghan
 **[Ghana to host UN convention signing on digital cargo documents on October 26](https://www.myjoyonline.com/ghana-to-host-un-convention-signing-on-digital-cargo-documents-on-october-26/)** — MyJoyOnline, 16 October 2026
 
 Ghana will host the signing ceremony for the UN Convention on Negotiable Cargo Documents in Accra on 26 October 2026. The Ghana Shippers' Authority says the convention gives electronic bills of lading and similar documents the legal standing of paper ones, but that the benefits depend on ratification and readiness.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[26 countries sign Accra Convention to boost trade facilitation, digitalisation](https://www.myjoyonline.com/26-countries-sign-accra-convention-to-boost-trade-facilitation-digitalisation/)** — MyJoyOnline, 28 October 2026
+
+Twenty-six states signed the UN Convention on Negotiable Cargo Documents in Accra on 26 October 2026, with Ghana first. Known as the Accra Convention, it gives electronic cargo documents the legal effect of paper. Road, rail and air documents can serve as documents of title. Ghana's trade minister said it will ratify; the Convention needs ten ratifications.
 
 </div>
 

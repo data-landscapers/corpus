@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 78376876fe5c
+record: bc5cb49368a7
 ---
 
 # News, Sep – Oct 2026
@@ -206,6 +206,14 @@ Angola's President João Lourenço authorised spending of 90.5 billion kwanzas, 
 **[Angola: Presidente anuncia lançamento do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH)](https://www.africa-newsroom.com/press/angola-presidente-anuncia-lancamento-do-singerh?lang=pt)** — APO Group, for Ministério da Administração Pública, Trabalho e Segurança Social, 15 October 2026
 
 President João Lourenço said Angola is implementing SINGERH, an integrated human-resources management system for the civil service. He placed it within a digitisation of the administration built on interoperability, digital identity, public key infrastructure and electronic signatures.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mais de 31 mil funcionários públicos suspeitos de serem 'fantasma' terão de provar efectividade, diz MAPTSS](https://www.novojornal.co.ao/sociedade/detalhe/mais-de-31-mil-funcionarios-publicos-suspeitos-de-serem-fantasma-terao-de-provar-efectividade-diz-maptss-75684.html)** — Novo Jornal, 28 October 2026
+
+Angola's Ministry of Public Administration, Labour and Social Security launched SINGERH, a single human-resources database for the civil service, on 28 October 2026. Minister Teresa Rodrigues Dias said more than 31,000 staff listed as active could not be validated and are suspected of being 'ghost' workers. Over 300,000 public servants were registered between January and September 2026.
 
 </div>
 

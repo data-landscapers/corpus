@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 76bbc69fcdcf
+record: 1feff89d598e
 ---
 
 # News, Sep – Oct 2026
@@ -858,6 +858,20 @@ Ethiopia's Council of Ministers unanimously sent a draft national data proclamat
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Replacement postal legislation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability](https://techafricanews.com/2026/10/28/ethiopia-telecom-regulator-service-quality-affordability/)** — Tech Africa News, 28 October 2026
+
+Ethiopia's Minister of Innovation and Technology, Frehiwot Tamru, told the Ethiopian Communications Authority on 27 October 2026 to judge its work by service quality, affordability, consumer protection and access. The ministry asked for measurable rural connectivity targets, firmer spectrum management and enforcement of quality-of-service rules. New postal legislation is to replace a proclamation of 1958 in the Ethiopian calendar.
+
+</div>
+
+</div>
+
 ## Gabon
 
 <div class="monthly-story" markdown="1">
@@ -1196,6 +1210,20 @@ Kenya's Senate finance and budget committee reviewed the draft Statistics Bill 2
 **[Going digital: Why MPs want land succession done digitally through E-Citizen](https://nation.africa/kenya/news/going-digital-why-mps-want-land-succession-done-digitally-through-e-citizen-5640398)** — Daily Nation, 21 October 2026
 
 Kenya's National Assembly Public Petitions committee recommended amending the Law of Succession Act and related laws so that land succession can be handled through e-Citizen and Huduma Centres. It backs a petition to end paper-based trips to land registries and courts.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Election technology ownership and server access provision</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MPs scrap IEBC guarantee of access to election servers, tech](https://nation.africa/kenya/news/politics/mps-scrap-iebc-guarantee-of-access-to-election-servers-tech-5646998)** — Daily Nation, 27 October 2026
+
+Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections (Amendment) Bill, 2024. They remove clauses giving the IEBC intellectual property in election technology. They also drop a requirement to keep election servers and data centres in Kenya. The technology must instead stay open to scrutiny. The Bill goes back to the Senate.
 
 </div>
 
@@ -1547,6 +1575,20 @@ Mauritius's ICT minister, Avinash Ramtohul, told L'Express on 10 October 2026 ab
 </div>
 
 ## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">VAT on remote electronic services by non-resident providers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Publicité : Meta applique la TVA au Maroc dès octobre](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)** — Hespress FR, 25 September 2026
+
+Meta told advertisers in Morocco that it will add 20% VAT to ad purchases from 1 October 2026. This applies to accounts that name Morocco as the country of sale but give no tax number. Advertisers who enter their number account for the tax themselves under reverse-charge rules. Morocco set out its VAT regime for foreign digital services in a decree of 27 November 2025.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -2531,6 +2573,20 @@ Uganda's trade minister Sanjay Tanna told a press conference on 15 October 2026 
 **[Uganda Champions AU single digital market plan to boost cross-border trade](https://www.monitor.co.ug/uganda/news/national/uganda-champions-au-single-digital-market-plan-to-boost-cross-border-trade-5634362)** — Daily Monitor, 16 October 2026
 
 Ahead of a technology and intellectual property symposium on 22-23 October, Uganda's trade minister set out plans to back the AU's single digital market, including a trust mark for vetted online sellers and rules giving online buyers redress, to be rolled out in the EAC first. A Jumia-led e-commerce industry association and a call for a Consumer Protection Act were also presented.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed revenue-authority power to access bank accounts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FDC Threatens Court Action Over Proposed URA Access to Bank Accounts](https://nilepost.co.ug/news/381531/fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts)** — Nile Post, 26 October 2026
+
+Uganda's Forum for Democratic Change threatened to sue over plans to give the Uganda Revenue Authority wider access to bank accounts. On 15 October 2026 a finance minister told Parliament the government would keep seeking that power. MPs had rejected it. The party also asked the Personal Data Protection Office to audit URA's access to NIRA's national ID records.
 
 </div>
 

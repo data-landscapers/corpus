@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: finance.budget
-places: BFA; GAB; LBY; SYC; ZAF; TZA
-record: 1d840f2cb0b8
+places: BFA; GAB; LBR; LBY; SYC; ZAF; TZA
+record: 0a77047b164b
 ---
 
 # News, Sep – Oct 2026
@@ -13,6 +13,8 @@ record: 1d840f2cb0b8
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -50,6 +52,22 @@ Burkina Faso's digital transition ministry approved a 2026 work plan of CFA 61 b
 **[Gabon/Loi de finances 2027 : les budgets de la Communication et de l’Économie numérique examinés à l’Assemblée nationale](https://agpgabon.ga/gabon-loi-de-finances-2027-les-budgets-de-la-communication-et-de-leconomie-numerique-examines-a-lassemblee-nationale/)** — Agence Gabonaise de Presse, 25 October 2026
 
 Gabon's National Assembly examined the 2027 budget requests of the communication and digital economy ministries on 25 October. The digital economy ministry asks for FCFA 37.2 billion in 2027, down about FCFA 16.5 billion from FCFA 53.7 billion in 2026, for connectivity, digital sovereignty and modernising the administration, while the communication ministry's request rises to FCFA 21.5 billion from FCFA 17.5 billion.
+
+</div>
+
+</div>
+
+## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal Access Fund (LTA-REG-0006)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécoms : le Liberia identifie les zones mal desservies pour étendre son réseau](https://www.wearetech.africa/fr/fils/actualites/telecom/telecoms-le-liberia-identifie-les-zones-mal-desservies-pour-etendre-son-reseau)** — wearetech.africa, 28 October 2026
+
+The Liberia Telecommunications Authority said on 26 October 2026 that it had chosen sites for 15 new towers under the Universal Access Fund. It had reviewed coverage gaps in 14 of the 15 counties. The fund already supports 15 towers. 4G covered 93% of the population in 2025.
 
 </div>
 

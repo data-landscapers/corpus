@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 9edd74691f45
+record: 9cfd89f56f1a
 ---
 
 # News, Sep – Oct 2026
@@ -196,6 +196,20 @@ A United States firm plans US$75m, about FCFA 42.25bn, for a Douala data centre 
 **[Mieux nous connaitre | Orange Business Cameroun — Le Data center Orange Tiers III+](https://business.orange.cm/en/mieux-nous-connaitre.html)** — Orange Business Cameroun, 16 October 2026
 
 Orange Business Cameroon describes its data centre, open since May 2017, as Tier III+ with 340 racks in two server rooms. The company claims 99.82% availability and two separate medium-voltage grid feeds; no certification is named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uptime Tier certifications of data centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uptime Institute Awards in Cameroon](https://uptimeinstitute.com/uptime-institute-awards/country/id/CM)** — Uptime Institute, 28 October 2026
+
+Uptime Institute's register for Cameroon lists two Tier III design certifications. They cover Cameroon Telecommunications' Camtel NBN II data centre and MTN Cameroon's data centre, both in Yaoundé.
 
 </div>
 
@@ -723,6 +737,7 @@ Converged Technology Networks' chief executive, Brian Munyao Longwe, wrote on 9 
 Telekom Networks Malawi bought OpenConnect Limited's Tier 3 data centre at Kanengo, Lilongwe, for K12 billion, about US$6.9 million, unveiling it on 11 September 2026. TNM will link it with its Limbe data centre into one cloud platform to offer data centre as a service and host local AI platforms.
 
 </div>
+
 
 </div>
 

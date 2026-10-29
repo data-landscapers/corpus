@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: digital.localgov
 places: BDI; CMR; TCD; COD; EGY; GAB; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 6cccd99fe1bd
+record: 3636835d4dbd
 ---
 
 # News, Sep – Oct 2026

@@ -1,10 +1,10 @@
 ---
 title: Open data — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: data.open
-places: BFA; CPV; CAF; CIV; COD; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MUS; NGA; SEN; SLE; SOM; TZA; TUN; ZMB
-record: 8eca94240942
+places: BFA; CPV; CAF; TCD; CIV; COD; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MUS; NGA; SEN; SLE; SOM; TZA; TUN; ZMB; ZWE
+record: 0b007a590957
 ---
 
 # News, Sep – Oct 2026
@@ -15,6 +15,8 @@ record: 8eca94240942
 <a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#chad">Chad</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -49,6 +51,8 @@ record: 8eca94240942
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
 ## Burkina Faso
@@ -94,6 +98,22 @@ Cabo Verde presented its fisheries transparency work at a Fisheries Transparency
 **[Atelier SDMX-ODP 2.0 : La délégation centrafricaine affirme sa participation active à la dynamique statistique de la CEMAC à Libreville](https://www.icasees.org/index.php/actualites/421-atelier-sdmx-odp-2-0-la-delegation-centrafricaine-affirme-sa-participation-active-a-la-dynamique-statistique-de-la-cemac-a-libreville)** — ICASEES (Institut centrafricain des statistiques et des études économiques et sociales), 20 September 2026
 
 A Central African Republic delegation from the statistics institute ICASEES and the CEMAC Commission took part in a workshop in Libreville, 14–18 September 2026, run by the African Development Bank, CEMAC and UNFPA on the SDMX data standard and Open Data Platform 2.0. ICASEES presented its national plan for moving from ODP 1.0 to 2.0 and demonstrated a locally installed ODP 2.0 system.
+
+</div>
+
+</div>
+
+## Chad
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Water-resources geoportal and SITEAU-APP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : le CDIG lance des outils numériques pour moderniser la gestion de l’eau](https://lendjampost.com/tchad-le-cdig-lance-des-outils-numeriques-pour-moderniser-la-gestion-de-leau/)** — Le N'Djam Post, 27 October 2026
+
+Chad's Centre de Documentation et d'Information Géographique presented a water-resources geoportal and the SITEAU-APP mobile application on 27 October 2026. The tools are meant to give ministries, projects, NGOs and partners in the water sector a shared data source with checks on data quality. A field test is planned at Bongor in Mayo-Kebbi Est.
 
 </div>
 
@@ -394,6 +414,22 @@ Tunisia's national open data portal lists datasets by theme and publisher, with 
 **[Finance Ministry, ZamStats and UNICEF Launch National Research Repository](https://efficacynews.africa/2026/09/17/finance-ministry-zamstats-and-unicef-launch-national-research-repository/)** — Efficacy News, 17 September 2026
 
 Zambia's Ministry of Finance and National Planning, the Zambia Statistics Agency and UNICEF launched the Zambia National Research Repository, a central digital platform for research, evaluations and other knowledge products previously held in hard copy or scattered across institutions. Officials linked it to Vision 2030. No platform address, holdings figure or count of contributing institutions is given.
+
+</div>
+
+</div>
+
+## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National artificial-intelligence and data platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zimbabwe to fully operationalise Pangolin AI platform by Q1 2027](https://techreviewafrica.com/news/7993/zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027)** — Tech Review Africa, 28 October 2026
+
+Zimbabwe's ICT minister Tatenda Mavetera said the national AI and data platform, Pangolin AI, will be fully operational in the first quarter of 2027. The platform pools public health, agriculture and education data, while sensitive ministry data stays on local servers behind privacy-preserving interfaces. Her address was read at the POTRAZ-NUST Research and Innovation Symposium in Bulawayo.
 
 </div>
 

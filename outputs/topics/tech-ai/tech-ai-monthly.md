@@ -1,10 +1,10 @@
 ---
 title: AI — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 87ed2ce5fe4d
+record: 980142fa4465
 ---
 
 # News, Sep – Oct 2026
@@ -2117,6 +2117,20 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Award-winner Ngirinshuti on an AI model that serves Rwanda’s statistical analysis](https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/)** — Cenfri, 1 October 2026
 
 The National Institute of Statistics of Rwanda built a model that assigns industry, occupation and education codes to Labour Force Survey answers in Kinyarwanda, English or French, auto-coding 96% of records in one test. Work that took about four analysts a week now needs one person. The project, which grew from an AIMS and Cenfri training course, won an ITU Innovate for Impact award; a field app awaits further testing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Skills and Compute Africa compute grants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Talent Pipelines Versus Compute Limits: Inside Rwanda’s AI Skills Agreement](https://techafricanews.com/2026/10/28/talent-pipelines-versus-compute-limits-inside-rwandas-ai-skills-agreement/)** — Tech Africa News, 28 October 2026
+
+Rwanda's ICT ministry signed a memorandum with the AI Skills and Compute Africa Foundation in Kigali in October 2026. It covers AI skills, research and local solutions, and commits no new public money or computing capacity. By September 2026 the foundation had made 42 grants in 14 countries. It uses 50 NVIDIA H200 GPUs given by Cassava Technologies.
 
 </div>
 

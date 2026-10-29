@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 108d2c420901
+record: 215a657c61a1
 ---
 
 # News, Sep – Oct 2026
@@ -1954,6 +1954,14 @@ Uganda's parliamentary Physical Infrastructure Committee ordered two directors o
 **[Audit Russian digital number plate firm – MPs ask Auditor General](https://www.watchdoguganda.com/news/20261016/199568/audit-russian-digital-number-plate-firm-mps-ask-auditor-general.html)** — Watchdog Uganda, 16 October 2026
 
 Uganda's parliamentary physical infrastructure committee told Auditor General Edward Akol on 15 October 2026 to start a preliminary audit of the Intelligent Transport Management System digital number-plate project, run by a Russian firm, and report in writing the following Tuesday. Akol said he received the project agreement only on 13 October, and that the Office of the President calls the project an investor-financed pilot with no public funds spent.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Presidential Secretary Kakande Bashes Mayanja Over Digital Number Plates Contract](https://nilepost.co.ug/news/382135/presidential-secretary-kakande-bashes-mayanja-over-digital-number-plates-contract)** — Nile Post, 27 October 2026
+
+Office of the President Permanent Secretary Yunus Kakande told Parliament's physical infrastructure committee he disputed Attorney General Sam Mayanja's view that the digital number plates contract with Russia's Joint Stock Company Global Security is legally flawed. The committee heard that 1,499 of 5,110 plates made for government vehicles no longer work. MPs questioned the contractor's 80% share of revenue.
 
 </div>
 

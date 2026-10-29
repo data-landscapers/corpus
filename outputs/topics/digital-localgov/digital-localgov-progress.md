@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — progress report, October 2025 – October 2026
-compiled: 2026-10-28
-period: 2025-10-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2025-10-01 to 2026-10-29
 subject: digital.localgov
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4081a2198584
+record: bd9d4cf6f9e6
 ---
 
 # Digitalisation of sub-national government: progress report, October 2025 – October 2026

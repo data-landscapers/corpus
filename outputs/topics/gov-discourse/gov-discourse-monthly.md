@@ -1,15 +1,17 @@
 ---
 title: Public debate and participation in policymaking — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: gov.discourse
-places: CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fdb78fa589b4
+places: DZA; CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: e28283b413d4
 ---
 
 # News, Sep – Oct 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#chad">Chad</a>
@@ -56,6 +58,22 @@ record: fdb78fa589b4
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
+
+## Algeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet shutdowns during the baccalaureate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
+
+</div>
+
+</div>
 
 ## Central African Republic
 
@@ -591,6 +609,20 @@ Tunisia's Council of Ministers, chaired by President Kais Saied, discussed a dra
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Exam-period connectivity restrictions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
+
+</div>
+
+</div>
+
 ## Uganda
 
 <div class="monthly-story" markdown="1">
@@ -647,6 +679,20 @@ Police in Ndola, Zambia, arrested a 24-year-old TikToker, Natasha Nambeya, for a
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Londa digital rights and inclusion score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Press Release: Zambia drops two places to finish in the 6th position on digital rights](https://paradigmhq.org/press-release-zambia-drops-two-places-to-finish-in-the-6th-position-on-digital-rights/)** — Paradigm Initiative, 28 October 2026
+
+Paradigm Initiative's Londa 2025 report ranks Zambia 6th of 29 African countries on digital rights and inclusion, two places lower than before. Its score fell from 40 to 37 out of 60. The report cites an energy crisis and high sector taxes as limits on access, and new cyber laws that risk rights violations.
+
+</div>
+
+</div>
+
 ## Zimbabwe
 
 <div class="monthly-story" markdown="1">
@@ -658,6 +704,20 @@ Police in Ndola, Zambia, arrested a 24-year-old TikToker, Natasha Nambeya, for a
 **[DR. B. Chirume Appointed To Parliamentary Committee Of The Future As Zimbabwe Eyes 30-Year Digital Roadmap](https://technomag.co.zw/dr-b-chirume-appointed-to-parliamentary-committee-of-the-future-as-zimbabwe-eyes-30-year-digital-roadmap/)** — TechnoMag, 4 September 2026
 
 Zimbabwe's ICT ministry said its permanent secretary, Beaullah Chirume, has been appointed to Parliament's Committee of the Future, which plans a 30-year outlook tied to Vision 2056. TechnoMag reports the committee is expected to plan for AI, cybersecurity and rural connectivity, and notes ZIMPOST's 300-plus offices are being repurposed for digital inclusion.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Londa digital rights and inclusion score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Press Release: Zimbabwe ranks 14th out of 29 in the latest digital rights and inclusion report](https://paradigmhq.org/press-release-zimbabwe-ranks-14th-out-of-29-in-the-latest-digital-rights-and-inclusion-report/)** — Paradigm Initiative, 26 October 2026
+
+Paradigm Initiative's Londa 2025 report ranks Zimbabwe 14th of 29 African countries on digital rights and inclusion. That is four places lower than before. It records no internet shutdown in 2025, but continued arrests of journalists and use of sedition and false-news laws. It urges laws on online gender-based violence and rights assessments before surveillance projects.
 
 </div>
 

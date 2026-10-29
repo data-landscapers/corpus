@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 834c1f39b319
+record: dc2c153e3f3f
 ---
 
 # News, Sep – Oct 2026
@@ -2043,6 +2043,20 @@ The Malawi Communications Regulatory Authority opened an investigation, by notic
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open Connect Limited wholesale fibre network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Proposed acquisition of assets of Open Connect Limited by Telekom Networks Malawi Plc](https://www.cftc.mw/2026/10/27/proposed-acquisition-of-assets-of-open-connect-limited-by-telekom-networks-malawi-plc/)** — Competition and Fair Trading Commission of Malawi, 27 October 2026
+
+Malawi's competition commission approved, with conditions, Telekom Networks Malawi's MK23.5 billion purchase of Open Connect Limited's fibre network, data centre and enterprise contracts. TNM must split wholesale and retail under independent boards. Its fibre must stay open to all on equal terms. The commission accepted the deal as the rescue of a failing firm and set three years of monitoring.
+
+</div>
+
+</div>
+
 ## Mali
 
 <div class="monthly-story" markdown="1">
@@ -2747,6 +2761,20 @@ Paratus said its 2,000km Goma-to-Mombasa terrestrial fibre route is live and car
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">LTE network joint venture with KT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda Seeks $386 Million From South Korean Telecom Over 4G Dispute](https://www.ktpress.rw/2026/10/rwanda-seeks-386-million-from-south-korean-telecom-over-4g-dispute/)** — KT Press, 28 October 2026
+
+Rwanda filed a $386 million counterclaim against South Korea's KT Corporation at the Permanent Court of Arbitration on 20 October 2026. The dispute concerns their 4G joint venture, KT Rwanda Networks. KT had sought about $152 million in March 2026 to exit the venture. RURA ended the venture's 4G wholesale exclusivity in 2023; neither claim has been decided.
+
+</div>
+
+</div>
+
 ## Sao Tome and Principe
 
 <div class="monthly-story" markdown="1">
@@ -3098,6 +3126,20 @@ South Africa's Competition Commission recommended that the Tribunal approve MTN'
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Broadcasting Digital Migration programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Media Statement: Communications Committee Concerned Over Prolonged Delays in Completing Broadcasting Digital Migration Project](https://www.parliament.gov.za/press-releases/media-statement-communications-committee-concerned-over-prolonged-delays-completing-broadcasting-digital-migration-project)** — Parliament of South Africa, 6 October 2026
+
+South Africa's parliamentary committee on communications said on 6 October 2026 that delays to the Broadcasting Digital Migration programme leave the state paying for analogue and digital transmission at once. The analogue switch-off is suspended and before the courts for a second time. The programme began in 2008, with switch-off first due on 1 November 2011.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Vodacom Western Cape network investment</p>
 
 <div class="bulletin-item" markdown="1">
@@ -3267,6 +3309,20 @@ South Sudan's ICT ministry has invited international bids for about 397km of ter
 **[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
 
 Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial fibre project to Google, Meta, Microsoft, Amazon and other carriers and vendors in Addis Ababa on 7 September 2026. The multi-terabit link would connect cable landing stations in Djibouti and Port Sudan through Ethiopia, reducing reliance on Red Sea submarine cables. No cost or launch date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Exam-period internet shutdowns</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
 
 </div>
 
