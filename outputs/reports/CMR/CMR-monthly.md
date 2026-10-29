@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: CMR
-ledger_rows: 42
+ledger_rows: 43
 not_held: 4
-record: bda4ef883a28
+record: c651753beae7
 ---
 
 # News, Sep – Oct 2026
@@ -389,6 +389,20 @@ A United States firm plans US$75m, about FCFA 42.25bn, for a Douala data centre 
 **[Mieux nous connaitre | Orange Business Cameroun — Le Data center Orange Tiers III+](https://business.orange.cm/en/mieux-nous-connaitre.html)** — Orange Business Cameroun, 16 October 2026
 
 Orange Business Cameroon describes its data centre, open since May 2017, as Tier III+ with 340 racks in two server rooms. The company claims 99.82% availability and two separate medium-voltage grid feeds; no certification is named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uptime Tier certifications of data centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uptime Institute Awards in Cameroon](https://uptimeinstitute.com/uptime-institute-awards/country/id/CM)** — Uptime Institute, 28 October 2026
+
+Certifier's register: Camtel NBN II and MTN Yaoundé both Tier III design-only; no built-facility award in Cameroon.
 
 </div>
 

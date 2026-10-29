@@ -1,12 +1,12 @@
 ---
 title: Cameroon: status report
-compiled: 2026-10-28
+compiled: 2026-10-29
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 245
+sources_cited: 246
 sections_written: 39
 not_established: 1
 acquire_lines: 59
@@ -127,7 +127,7 @@ The regulator [fined Orange and MTN in July 2025 over quality of service and reg
 ### Data Storage
 <!-- infra.store -->
 
-Cameroon's sovereign-hosting ambition rests on a physical base its own government review found wanting: [CENADI's three-year, 269-page study of the country's data centres, presented in May 2025](https://techafricanews.com/2025/05/26/cameroon-unveils-key-study-on-data-center-ecosystem-and-digital-sovereignty/), [found most existing facilities small to medium in size and short of certification](https://itweb.africa/article/cameroon-pursues-digital-independence-via-data-centres/mYZRXM9g6ZzvOgA8), and recommended action on certification, security, connectivity and energy efficiency. A [December 2025 industry workshop at Camtel's data centre heard that storing data offshore exposes it to foreign legislation](https://lavoixdesentreprises.info/2025/12/11/digital-sovereignty-camtel-unveils-the-performance-of-its-zamengoe-datacenter-to-businesses-and-government-agencies/).
+Cameroon's sovereign-hosting ambition rests on a physical base its own government review found wanting: [CENADI's three-year, 269-page study of the country's data centres, presented in May 2025](https://techafricanews.com/2025/05/26/cameroon-unveils-key-study-on-data-center-ecosystem-and-digital-sovereignty/), [found most existing facilities small to medium in size and short of certification](https://itweb.africa/article/cameroon-pursues-digital-independence-via-data-centres/mYZRXM9g6ZzvOgA8), and recommended action on certification, security, connectivity and energy efficiency. [The certifier's register lists two Tier III design-document awards in the country, for Camtel's NBN II and MTN Cameroon's Yaoundé data centres, and no award for a constructed facility](https://uptimeinstitute.com/uptime-institute-awards/country/id/CM) (October 2026). A [December 2025 industry workshop at Camtel's data centre heard that storing data offshore exposes it to foreign legislation](https://lavoixdesentreprises.info/2025/12/11/digital-sovereignty-camtel-unveils-the-performance-of-its-zamengoe-datacenter-to-businesses-and-government-agencies/).
 
 The state's answer is Camtel's Zamengoe facility near Yaoundé, [presented as the national asset on which government data and digital sovereignty rest](https://lejour.cm/stragie-le-cameroun-mise-sur-la-souverainete-numerique/) (June 2026) and [offered to government agencies and businesses as a compliant host in December 2025](https://lavoixdesentreprises.info/2025/12/11/digital-sovereignty-camtel-unveils-the-performance-of-its-zamengoe-datacenter-to-businesses-and-government-agencies/). Alongside it, the Douala operator [ST Digital runs a Tier-3 facility with a sovereign cloud, which the Minister of Posts and Telecommunications, visiting in July 2025, called a potential strategic partner](https://leconomie.info/developpement-de-lia-le-minpostel-visite-le-datacenter-de-st-digital/); it [operates in Gabon, Congo and Côte d'Ivoire as well and aims to keep African data hosted on the continent](https://www.wearetech.africa/en/fils-uk/tech-stars/anthony-same-expands-african-datacenter-network-to-drive-digital-transformation) (May 2026). A further data centre is [under construction in Douala](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters) to hold electricity metering data, and the [national identity database has run from the police directorate's own data centre since 1994](https://documents1.worldbank.org/curated/en/099012324023052410/pdf/P1795471b60b614c14d0214b971aed2105a95cebf79b.pdf). The social insurance fund runs [twin active-active data centres, a primary at Yaoundé and a recovery site at Douala, migrated by the end of 2019](https://e.huawei.com/fr/case-studies/industries/government/2022/digitalisation-public-services-cameroon-social-insurance) on its supplier's account, and Orange's Douala facility [claims 340 racks in two white rooms and 99.82% availability](https://business.orange.cm/en/mieux-nous-connaitre.html) on its own page (October 2026).
 
