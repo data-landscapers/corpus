@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,electoral,roll,coverage,inservice,2026-09-20,KEN-002,,
+KEN,electoral,roll,coverage,inservice,2026-09-20,KEN-002;KEN-004,,
 KEN,electoral,checked,coverage,open,2025-08-28,KEN-001,,
-KEN,electoral,linked,coverage,linked,2022-06,KEN-003,,nothing dated since 2023-10-16
+KEN,electoral,linked,coverage,linked,2022-06,KEN-003,,nothing dated since 2023-10-28

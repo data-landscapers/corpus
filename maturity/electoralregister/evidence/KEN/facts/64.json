@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-ken-nation-mps-scrap-iebc-election-servers-ip-provisions",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The article says Smartmatic supplied KIEMS kits used for biometric voter registration, electronic voter identification and result transmission in Kenya's 2022 general election, and that IEBC is targeting 6.3 million new voters ahead of 2027.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "KIEMS",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KIEMS",
+   "country_label": "Kenya",
+   "class": "electoral",
+   "platform": "Smartmatic kits",
+   "owner": "IEBC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
