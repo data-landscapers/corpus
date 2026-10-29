@@ -8,10 +8,10 @@
       "use": "enforcer",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-003;DZA-004",
+      "stage_sources": "DZA-002;DZA-003",
       "gaps": "No source from the last three years naming an organisation ordered, penalised or exempted under the rule, or counting those that have moved data to comply, is held.",
-      "note": "Counted from the four questions by study-ladder-datalocalisation.py.",
-      "as_at": "2026-10-21"
+      "note": "Reassessed 2026-10-29: the regulator's 2017 cloud rule (DZA-002) was issued for the operators it licenses (DZA-003), which holds stage 4; the sources now name that rule, not the audiovisual law. No order, penalty or exemption in three years, so not stage 5.",
+      "as_at": "2026-10-29"
     }
   ]
 }

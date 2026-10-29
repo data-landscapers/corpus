@@ -1,16 +1,17 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "4",
-   "standing": "in-force",
-   "use": "enforcer",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-002;RWA-004;RWA-001",
-   "gaps": "No source from the last three years naming an organisation ordered, penalised or exempted under the rule, or counting those that have moved data to comply, is held.",
-   "note": "Counted from the four questions by study-ladder-datalocalisation.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "4",
+      "standing": "in-force",
+      "use": "enforcer",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-001;RWA-002",
+      "gaps": "No source from the last three years names an organisation ordered, penalised or exempted under the rule; the one penalty held, MTN Rwanda's fine of May 2017, is older.",
+      "note": "Reassessed 2026-10-29: the National Cyber Security Authority certifies local storage (RWA-002), which holds stage 4. The 2017 fine on MTN Rwanda is outside three years, so not stage 5.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 # Data localisation policies: localisation rule
 
-*As at 2026-10-21.*
+*As at 2026-10-29.*
 
 ## The norm
 
@@ -34,8 +34,8 @@ The African Union's Data Policy Framework, of 2022, asks states to keep only cer
 
 Algeria's telecoms regulator has required public cloud data to be hosted in the country since 2017; no order under the rule is known.
 
+- Digital Policy Alert says the Regulatory Authority of Post and Electronic Communications issued a rule in November 2017 requiring public cloud computing operators to build infrastructure in Algeria and host and store data locally ([source, 2017-11](https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria)).
 - The same cloud localisation rule was issued by the Regulatory Authority of Post and Electronic Communications, which licenses cloud data hosting providers, per Digital Policy Alert ([source, 2017-11](https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria)).
-- Digital Policy Alert says the Law on Audiovisual Activity entered into force in December 2024, requiring online audiovisual services to be hosted on servers physically located in Algeria ([source, 2024-12](https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria)).
 
 ### Angola: 4 Operating
 
@@ -48,8 +48,8 @@ A 2020 decree keeps Angola's credit bureaux' data centres in the country and nam
 
 Ethiopia's communications authority has required telecom data to stay in the country since 2021; no order under the rule is known.
 
+- Digital Policy Alert states that in August 2021 the Ethiopian Communications Authority adopted a consumer rights directive requiring telecom providers to process consumer personal data only on servers or data centres in Ethiopia ([source, 2021-08](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
 - Digital Policy Alert states that the Ethiopian Communications Authority, which issued the telecom localisation directive, oversees compliance with data protection rules; it adds that no official enforcement sources are published ([source, 2024-07](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
-- Digital Policy Alert states that the Personal Data Protection Proclamation, implemented in July 2024, requires controllers and processors to store personal data collected locally on a server or data centre within Ethiopia ([source, 2024-07](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
 
 ### Libya: 4 Operating
 
@@ -82,11 +82,10 @@ Nigeria's central bank ordered in June 2026 payment data be stored in Nigeria fr
 
 ### Rwanda: 4 Operating
 
-Rwanda requires public sector data in the government data centre or approved sites, a 2025 brief says; no source says whether that has been applied.
+Rwanda requires public sector data in the government data centre or approved sites, a 2025 brief says; the last known penalty was in 2017.
 
-- The brief states that local storage of some data in Rwanda depends on certification by the National Cyber Security Authority; no date of the event is given, so the document's July 2025 publication date is used ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Rwanda.pdf)).
-- Digital Policy Alert says the Rwanda Utilities Regulatory Authority fined MTN Rwanda FRW 7.03 billion in May 2017 for hosting its IT services outside the country ([source, 2017-05](https://digitalpolicyalert.org/digest/dpa-digital-digest-rwanda)).
 - The brief (Xalam Analytics for the Digital Investment Facility) states there is no blanket localisation requirement in Rwanda but some data must be stored locally depending on circumstances, and public sector data must be hosted in the government data center or in facilities meeting Rwanda Development Board standards, under the 2021 Law on Data Privacy and Protection; no date of the event is given, so the document's July 2025 publication date is used ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Rwanda.pdf)).
+- The brief states that local storage of some data in Rwanda depends on certification by the National Cyber Security Authority; no date of the event is given, so the document's July 2025 publication date is used ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Rwanda.pdf)).
 
 ### Tanzania: 4 Operating
 
