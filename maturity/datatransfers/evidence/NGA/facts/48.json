@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-biometricupdate-cross-border-id",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Nigerian Data Protection Commission's Owa says Nigeria's law applies data protection regulations to NINs wherever stored or processed, so interoperability needs regulatory equivalence or other mechanisms such as binding corporate rules in other jurisdictions.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Nigeria data protection law",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
