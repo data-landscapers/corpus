@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,coverage,share,coverage,third,2026-09,NGA-001;NGA-002;NGA-003;NGA-004;NGA-005;NGA-006;NGA-007,,
-NGA,coverage,everyone,coverage,,,,,nothing held
-NGA,coverage,births,coverage,,,,,nothing held
+NGA,coverage,share,coverage,third,2026-09,NGA-001;NGA-002;NGA-003;NGA-004;NGA-005;NGA-006;NGA-007;NGA-008,,
+NGA,coverage,everyone,coverage,,,,,nothing found
+NGA,coverage,births,coverage,,,,,nothing found

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-03-nga-secondment-diaries-gofore-supports-nigeria-in-digital-public-infrastru",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The article says the national digital identity is used by about 120 million people, in a country of an estimated 240 million inhabitants.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "national digital identity",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
