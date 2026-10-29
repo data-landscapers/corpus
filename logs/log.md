@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-29 02:27 · **BUILD** · 3h14m · catalogue 35,068; 469 sources, 20 moved, 64 minted, 27 status revised; data centres 42 read, 37 changed; maturity 206 facts, 19 moved; bulletin 32; register 9; prose gate 28 fixed; messages 50-52 - ok
 2026-10-28 23:13 · **ANALYTICS** · unclocked · 2026-10-27 written; 27 Oct: dl.io 34 views / 0 clicks, corpus 155 views / 6 clicks
 2026-10-28 05:48 · **RENDER** · 31m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 182 editions pruned, 6,814 objects to R2; deployed 3883829 - ok
 2026-10-28 05:16 · **REBUILD** · 28m · datagovernance policy: 3 cells reassessed, 1 moved; 54 searched, 29 staged; 55.6M tokens (third of a shared window) - ok
@@ -642,17 +643,6 @@ title: Corpus process log
 2026-09-28 13:39 · **SCAN** · 1h40m · KEN: 50 institutions, 4,747 routable, 11% US hyperscaler. NGA: 51 institutions, 5,747 routable, 24% US hyperscaler. 6 claimable dangling CNAMEs across three countries
 2026-09-28 11:31 · **SCAN** · 53m · ZAF: 51 institutions, 12,666 names, 7,436 routable, 28% US hyperscaler, 8 unattributed
 2026-09-28 09:29 · **RENDER** · 12m · header three-bar menu on every page; reports+home+countries+catalogue rendered, no edition re-cut, 130 unfetched editions pruned, deployed — ok
-2026-09-27 23:59 · **RENDER** · 13m · 251 documents, 0 failed; home, countries, regions, topics, progress, catalogue, alerts, finance 1,399 deals, datasets rendered; R2 1,708 uploaded; deployed - ok
-2026-09-27 23:46 · **REVIEW** · 3m · GNQ: status 3 sections revised, progress 5 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT - ok
-2026-09-27 23:43 · **REVIEW** · 5m · GNB: status 13 sections revised, progress 1 cells, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT - ok
-2026-09-27 23:38 · **BUILD** · 27m · catalogue 25,456; finance 1,399; 53 sources, 12 minted, 8 moved; 7 baselines revised, five dead finance citations cleared; NGA re-read; bulletin 14; 31 register hits stand; MWI Nzika duplicate left to its review - ok
-2026-09-27 23:11 · **ANALYTICS** · 1m · 2026-09-25..2026-09-26 written; 26 Sep: dl.io 22 views / 0 clicks, corpus 26 views / 1 clicks
-2026-09-27 23:10 · **NOTES** · 15m · Note 71 closed: Gambia change-log entry added, and STATUS_SHOWN dropped from build-finance-page.py now that no mirror record carries Closed. Share 3ddd366 - ok
-2026-09-27 03:05 · **RENDER** · 15m · 251 reports + home, countries, topics, catalogue, finance, datasets rendered; 3 editions pruned; R2 synced; deployed — ok
-2026-09-27 02:50 · **REVIEW** · 2m · GMB: status 2 sections revised, progress 0 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
-2026-09-27 02:48 · **REVIEW** · 3m · GIN: status 5 sections revised, progress 2 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-09-27 02:45 · **BUILD** · 31m · catalogue 25,407; finance 1,402 deals; 40 units / 103 sources, 18 minted, 17 moved, 5 baselines revised; data centres 3; topics 76; bulletin 11; 31 register hits stand; check G fails only on unpublished maturity docs — ok
-2026-09-27 02:14 · **ANALYTICS** · unclocked · 2026-09-24..2026-09-26 written; 26 Sep: dl.io 17 views / 0 clicks, corpus 24 views / 1 clicks
 2026-09-20 19:32 · **REGISTER-R58** · unclocked · R58 NER FY2026: Niger publishes, 28th country. The communications ministry gets XOF 191.8m for digital; a compte special for tax-administration digitisation, outside the votes, gets 5.56bn -- 29x. Three exact cross-foots.
 2026-09-20 19:05 · **SHARE-PRUNE** · unclocked · prepared/ pruned: 33 spent handovers out (5.3MB -> 12K), the rule added to the share README, and scripts/lint-prepared.py at BUILD stage 0. Three verdicts -- spent, waiting, unresolved -- so an item naming no closer is reported, not guessed.
 2026-09-20 18:26 · **REGISTER-R56** · unclocked · R56 pilot, moved to GHA FY2026: 11 lines read against the spec, money unchanged at GHS 898m, every row now carrying its scope basis and cross-foot. Four earned absences -- the biggest, GHS 273.7m, is the national broadcaster.
