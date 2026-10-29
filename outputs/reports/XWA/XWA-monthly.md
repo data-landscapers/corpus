@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-29
+period: 2026-09-01 to 2026-10-29
 place: XWA
-ledger_rows: 36
+ledger_rows: 37
 not_held: 1
-record: 2e397a68d345
+record: 09f89bed1638
 ---
 
 # News, Sep – Oct 2026
@@ -185,10 +185,28 @@ The second session of the UEMOA national digital regulators' committee (CRNN) op
 ## Instruments and harmonisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ai">AI</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS E-Commerce Strategy 2023-2027</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ECOWAS moves to boost intra-regional trade to 35% with inclusive e-commerce strategy](https://thenationonlineng.net/ecowas-moves-to-boost-intra-regional-trade-to-35-with-inclusive-e-commerce-strategy/)** — The Nation Newspaper, 27 October 2026
+
+Abuja forum reviews 2023-2027 strategy; intra-regional trade under 15%, 35% target for 2035; e-commerce expert group.
+
+</div>
+
+</div>
 
 ### Data protection
 
