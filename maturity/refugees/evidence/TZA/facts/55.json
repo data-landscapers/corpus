@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-tza-jamii-x-change",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "NIDA says the Jamii Namba unique ID number is given to all people in Tanzania including visitors and refugees.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Jamii Namba",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

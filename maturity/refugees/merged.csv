@@ -7,6 +7,7 @@ BDI,2026-01-01 Burundi's growing social protection system now runs on openIMIS,,
 BDI,2026-05-01-worldbank-building-burundi-national-social-protection-systems,,2026-10-19
 BDI,2026-07-06-onpra-hcr-enregistrement-biometrique-refugies-congolais-busuma,,2026-10-19
 BEN,2025-01-01-ben-unhcr-rimap-benin,,2026-10-19
+BEN,2025-07-31-ben-benin-un-nouveau-portail-en-ligne-pour-les-plaintes-financieres,,2026-10-29
 BEN,2025-11-01 Identification System in Benin Increasing Access to Services,,2026-10-23
 BEN,2026-04-08-anip-voter-identification-scrutin,,2026-10-23
 BEN,2026-05-18-cip-cest-moi-130000-enroles,,2026-10-23
@@ -17,6 +18,7 @@ BFA,2024-05-13-bfa-burkina24-anotel-cnib-carte-sim,,2026-10-19
 BFA,2024-06-02-bfa-burkina24-oni-banfora-cnib,,2026-10-19
 BFA,2024-09-06-bfa-iiep-donnees-esu-sige,,2026-10-19
 BFA,2025-01-01-civil-registration-children-burkina-faso-phase-ii,,2026-10-19
+BFA,2025-05-08-bfa-insd-microdata-catalogue-rgph-2019-study-description,,2026-10-29
 BFA,2025-07-28-saspp-burkina-faso,,2026-10-19
 BFA,2026-02-02-contrat-objectifs-121000-actes-etat-civil-deplaces,,2026-10-19
 BFA,2026-03-12-bfa-implementation-status-results-report-restoring-education-system-perfor,,2026-10-19
@@ -29,7 +31,9 @@ BWA,2026-03-01-mjcs-committee-of-supply-speech-2026,,2026-10-19
 BWA,2026-06-22-botswana-grants-64-refugees-citizenship,,2026-10-19
 CAF,2025-01-01-caf-civipol-modero-etat-civil-rnec,,2026-10-19
 CAF,2025-09-08-jointdatacenter-displaced-stateless-populations-car,,2026-10-19
+CAF,2026-08-10-caf-80-d-informel-ce-que-le-guichet-unique-change-et-ce-qu-il-ne-change-pa,,2026-10-29
 CAF,2026-08-19-unhcr-operational-update-q2-2026,,2026-10-19
+CAF,2026-09-23-caf-centrafrique-rgph-4-l-icasees-presente-les-resultats-provisoires-globa,,2026-10-29
 CIV,2024-01-01-sndeci-strategie-nationale-digitalisation-education-ci-2024-2028,,2026-10-19
 CIV,2024-01-19-civ-aip-centre-relation-usagers-clients,,2026-10-19
 CIV,2025-02-01-gulf-of-guinea-jrp-2024-cote-divoire-report,,2026-10-19
@@ -43,6 +47,7 @@ CMR,2026-03-17-giz-pesop-idp-profiling-west-region,,2026-10-19
 CMR,2026-09-02-cmr-bridging-digital-dividends-safeguarding-disabled-persons-onl,,2026-10-23
 COD,2024-03-31-cod-ecomine-sig-registre-social-unique,,2026-10-19
 COD,2024-11-20-onip-cnr-protocole-identification-refugies,,2026-10-19
+COD,2025-05-10-cod-kinshasa-27-814-actes-de-naissance-enregistres-par-rattrapage-dans-le,,2026-10-29
 COD,2025-11-13-cod-acp-senat-delivrance-carte-identite,,2026-10-19
 COD,2025-12-12-worldbank-icr-step-eastern-recovery-project,,2026-10-19
 COD,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
@@ -56,29 +61,39 @@ COM,2026-01-19-com-unhcr-protection-dashboard-dec2025-comoros-mission,,2026-10-1
 CPV,2026-07-17-cpv-inforpress-acessibilidade-deficiencia-visual,,2026-10-19
 DJI,2024-03-11-djibouti-refugee-protection-response-framework,,2026-10-19
 DJI,2025-03-14-wb-dji-007-djibouti-integrated-community-resilience-project,,2026-10-19
+DJI,2025-03-24-dji-digitizing-civil-registration-and-legal-identity-in-the-arab-countries,,2026-10-29
+DJI,2025-04-07-dji-djibouti-putting-grf-pledges-into-action-through-including-refugees-an,,2026-10-29
 DJI,2025-08-01-dji-usdos-2024-human-rights-report,,2026-10-19
 DJI,2025-09-08-jointdatacenter-displaced-populations-djibouti,,2026-10-19
 DJI,2025-12-09-worldbank-restructuring-djibouti-integrated-slum-upgrading,,2026-10-19
 DJI,2026-04-20-worldbank-djibouti-skills-development-employment,,2026-10-19
 DZA,2024-04-23-dza-dknews-mediature-plateforme-tansik,,2026-10-23
 DZA,2025-02-22-dza-lnr-mpt-portail-requetes-insat,,2026-10-23
+DZA,2025-03-24-dji-digitizing-civil-registration-and-legal-identity-in-the-arab-countries,,2026-10-29
+DZA,2026-10-12-dza-capdz-oran-1-5-million-official-geolocated-addresses,,2026-10-29
+DZA,2026-10-26-dza-plateforme-tawassol-comment-signaler-un-commercant-qui-naffiche-pas-se,,2026-10-29
 EGY,2024-07-03-egypt-foreign-residents-status-regulated,,2026-10-19
 EGY,2025-01-01-unhcr-egypt-cash-assistance,,2026-10-19
+EGY,2025-03-24-dji-digitizing-civil-registration-and-legal-identity-in-the-arab-countries,,2026-10-29
 EGY,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
 EGY,2026-05-01-sudan-unhcr-egypt-fact-sheet-refugee-digital-services,,2026-10-19
 EGY,2026-09-07-egypt-unhcr-mpca-pdm-report-2024,,2026-10-19
+ERI,2025-01-01-eri-united-nations-statistics-division-demographic-yearbook-questionnaire,,2026-10-29
 ERI,2026-01-01-unhcr-rimap-eritrea-country-profile,,2026-10-19
 ERI,2026-04-01-unhcr-guidance-note-eritrea,,2026-10-19
 ERI,2026-07-22-acerwc-concluding-observations-eritrea,,2026-10-19
 ETH,2023-11-20 WB Ethiopia Digital ID for Inclusion and Services Project - project appraisal document,,2026-10-19
 ETH,2023-12-13-wb-eth-001-ethiopia-digital-id-for-inclusion-and,,2026-10-19
 ETH,2025-02-12-eth-biometricupdate-unicef-birth-registration-fayda,,2026-10-19
+ETH,2025-11-09-eth-digital-dreams-invisible-children-ethiopia-s-struggle-to-make-every-bi,,2026-10-29
 ETH,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale,,2026-10-19
 ETH,2026-05-18 WB Ethiopia Digital ID for Inclusion and Services Project - implementation support mission aide-memoire,,2026-10-19
 ETH,2026-05-18-ethiopia-digital-id-isr-seq5,,2026-10-19
 ETH,2026-07-16-fayda-refugee-inclusion-makatet-strategy-biometricupdate,,2026-10-19
 ETH,2026-09-10-gsma-closing-digital-divide-refugee-women-connectivity,,2026-10-19
+ETH,2026-10-09-eth-biometricupdate-fayda-developer-sandbox,,2026-10-29
 ETH,2026-10-17-eth-ombudsman-portal-landing,,2026-10-19
+ETH,2026-10-23-eth-strengthening-digital-rights-for-persons-with-disabilities-and-older-persons,,2026-10-29
 GHA,2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card,,2026-10-19
 GHA,2026-01-25-nia-approved-fees-and-charges-2026,,2026-10-19
 GHA,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
@@ -114,6 +129,7 @@ LSO,2024-08-30-lso-govls-national-contact-centre-pro-workshop,,2026-10-19
 LSO,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan,,2026-10-19
 LSO,2026-08-22-lestimes-refugees-trapped-lesotho-id-freeze,,2026-10-19
 MAR,2024-01-01-mar-crvslaws-birth-registration-id-services,,2026-10-19
+MAR,2025-03-24-dji-digitizing-civil-registration-and-legal-identity-in-the-arab-countries,,2026-10-29
 MAR,2025-11-01-hcp-residents-etrangers-au-maroc,,2026-10-19
 MAR,2026-01-29-unhcr-morocco-country-page,,2026-10-19
 MDG,2025-01-01-unhcr-rimap-madagascar,,2026-10-19
@@ -128,7 +144,9 @@ MOZ,2026-03-03-japan-moz-cabo-delgado-doc-partnership,,2026-10-19
 MOZ,2026-03-03-unhcr-japan-documentacao-cabo-delgado,,2026-10-19
 MOZ,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
 MOZ,2026-06-29-moz-auras-plataforma-reco-reclamacoes,,2026-10-23
+MOZ,2026-08-31-moz-statistics-on-complaints-received-by-banco-de-mocambique-against-finan,,2026-10-29
 MOZ,2026-10-19-moz-altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de,,2026-10-23
+MOZ,2026-10-27-le-mozambique-veut-porter-1000-le-nombre-d-coles-connect-es-internet-d,,2026-10-29
 MRT,2024-03-01-unhcr-mauritania-factsheet-march-2024,,2026-10-19
 MRT,2024-09-05-mauritania-adaptive-social-protection,,2026-10-19
 MRT,2025-02-04-mrt-worldbank-saspp-country-work-mauritania,,2026-10-19
@@ -142,6 +160,7 @@ MUS,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
 MWI,2020-01-01-mwi-unhcr-malawi-fact-sheet-december-2019,,2026-10-19
 MWI,2023-06-23-mwi-malawi24-nrb-confiscates-national-ids-from-refugees,,2026-10-19
 MWI,2025-06-04-mwi-undp-icc-online-complaints-platform,,2026-10-23
+MWI,2025-07-22-mwi-stakeholder-comments-matrix-on-consumer-protection-bill-and-complaint,,2026-10-29
 MWI,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
 MWI,2026-07-02-dzaleka-health-nutrition-population-report,,2026-10-19
 NAM,2023-11-23-namibia-mhaiss-annual-report-2019-2020-ebirth-nprs,,2026-10-19
@@ -149,6 +168,8 @@ NAM,2025-02-01 Cash-Based Interventions provide a ray of hope for refugees in Na
 NAM,2025-03-18-nam-sadc-regional-workshop-on-the-use-of-administrative-data-sources-for-m,,2026-10-23
 NAM,2025-08-28-nam-newera-nampost-grant-payments,,2026-10-19
 NER,2024-09-17-ner-lesahel-interview-coordonnateur-wuri-niger,,2026-10-19
+NER,2024-09-20-ner-lutte-contre-la-cybercriminalite-la-police-judiciaire-face-aux-nouvell,,2026-10-29
+NER,2024-10-28-ner-securing-the-future-of-niger-s-children-digitising-birth-certificates,,2026-10-29
 NER,2025-04-16-ner-wuri-pilote-nui-enfants-moins-5-ans,,2026-10-19
 NER,2025-12-17-ner-lesahel-atelier-risques-sfn,,2026-10-23
 NER,2026-02-01-dtm-niger-enquete-intentions-futures-pdi,,2026-10-19
@@ -188,12 +209,15 @@ SDN,2025-11-11-sudan-welfare-monitoring-survey-round-iv-2025,,2026-10-19
 SDN,2026-03-02-sudan-red-crescent-121-platform-cash,,2026-10-19
 SDN,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
 SDN,2026-05-01-sudan-unhcr-egypt-fact-sheet-refugee-digital-services,,2026-10-19
+SDN,2026-05-05-sdn-exploiting-desperation-inside-the-cruel-humanitarian-aid-scams,,2026-10-29
 SDN,2026-05-24-sudan-refugees-commission-foreign-number-system,,2026-10-19
 SDN,2026-07-30-sudan-unitar-rise-lab-women-idps,,2026-10-19
+SDN,2026-10-27-sdn-democracy-online-can-internet-voting-help-rebuild-sudan-after-conflict,,2026-10-29
 SEN,2026-02-05-cedeao-initiative-aide-humanitaire-refugies-deplaces-senegal,,2026-10-19
 SEN,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
 SEN,2026-09-03-unhcr-senegal-demande-asile-procedure-cne,,2026-10-19
 SLE,2026-01-08-sierra-leone-nacsa-ecowas-persons-of-concern-project-launch,,2026-10-19
+SOM,2025-03-24-dji-digitizing-civil-registration-and-legal-identity-in-the-arab-countries,,2026-10-29
 SOM,2025-04-01-som-somalia-drought-insurance-payout-bulletin-2024-25-deyr-season,,2026-10-23
 SOM,2025-04-15-som-worldpop-geospatial-training-census-readiness,,2026-10-19
 SOM,2025-08-01-somalia-digital-inclusion-policy,,2026-10-19
@@ -204,6 +228,8 @@ SOM,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
 SOM,2026-05-13-undp-somalia-digital-transformation-2025-highlights,,2026-10-19
 SOM,2026-06-25-nira-idp-national-id-registration-initiative,,2026-10-19
 SOM,2026-06-29-somalia-idp-law-42-2025-redss-analysis,,2026-10-19
+SOM,2026-09-14-sjs-spike-online-attacks-somali-journalists,,2026-10-29
+SOM,2026-10-21-som-nira-deputy-director-general-visits-refugee-commission-returnee-registration,,2026-10-29
 SOM,2026-10-22-som-somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-i,,2026-10-23
 SSD,2024-02-23-ssd-ccd-data-stewardship-workshop,,2026-10-19
 SSD,2024-08-21-snsop-additional-financing-project-paper,,2026-10-19
@@ -232,6 +258,7 @@ TCD,2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr,,2026-10-19
 TCD,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad,,2026-10-19
 TCD,2025-10-28-sudan-unhcr-asu-iridimi-digital-learning-center,,2026-10-19
 TCD,2025-11-01-mobile-operator-partnerships-driving-connectivity-for-refugees-and-host-communit,,2026-10-19
+TCD,2025-11-01-tcd-because-exile-should-never-deprive-a-child-of-their-identity,,2026-10-29
 TCD,2025-11-27-unhcr-tchad-lancement-enrolement-biometrique-anats-abeche,,2026-10-19
 TCD,2026-02-10-reaching-the-unreached-chad-ai-detect-tb,,2026-10-19
 TCD,2026-07-24-tchad-reclame-uat-appui-financier-technique-connectivite,,2026-10-19
@@ -243,6 +270,7 @@ TGO,2025-12-11-cnar-togo-atelier-collecte-donnees-socio-economiques-personnes-de
 TGO,2026-03-27-tgo-auxnouvelles-inam-plateforme-plaintes,,2026-10-19
 TGO,2026-08-04-bad-togo-don-urgence-humanitaire-savanes-enregistrement-documentation,,2026-10-19
 TZA,2024-09-30-tza-ega-elimu-serikali-mtandao-kwa-viziwi,,2026-10-23
+TZA,2025-01-01-tza-jamii-x-change,,2026-10-29
 TZA,2025-05-01-tza-nida-id4africa-digital-identity,,2026-10-19
 TZA,2025-05-27 Home Affairs unveils 2.06tri- budget,,2026-10-19
 TZA,2026-03-19-xgl-fcdo-oda-programme-allocations-2026-27-to-2028-29,,2026-10-19
@@ -262,6 +290,8 @@ ZAF,2026-09-08-caribou-dpi-adoption-governance-problem,,2026-10-19
 ZAF,2026-10-11-zaf-sanews-asylum-court-guidance-intention-registration-system,,2026-10-19
 ZAF,2026-10-11-zaf-sanews-home-affairs-biometric-asylum-platform,,2026-10-19
 ZAF,2026-10-12-zaf-ewn-home-affairs-digital-asylum-system-analyst,,2026-10-19
+ZAF,2026-10-26-zaf-timeslive-imc-migration-biometric-entry-tracking-plans,,2026-10-29
+ZAF,2026-10-28-south-africa-plans-biometric-asylum-registration-tighter-digital-borde,,2026-10-29
 ZMB,2024-09-27-world-bank-zambia-refugee-host-communities-grant,,2026-10-19
 ZMB,2025-10-01-digital-id-kenya-zambia-summary,,2026-10-19
 ZMB,2025-10-03 Zambia plans domestic digital ID development with help from international partners,,2026-10-19

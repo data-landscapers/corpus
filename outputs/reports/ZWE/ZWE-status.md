@@ -1,12 +1,12 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-10-28
+compiled: 2026-10-29
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 197
+sources_cited: 198
 sections_written: 39
 not_established: 1
 acquire_lines: 37
@@ -370,7 +370,7 @@ Nor is there [any online facility through which the public can request governmen
 ### Use of satellite data
 <!-- data.satellite -->
 
-Zimbabwe's first national space regime is being written into a telecoms Act rather than a space Act: [Clause 12 of the Postal and Telecommunications (Amendment) Bill](https://www.veritaszim.net/sites/veritas_d/files/Postal%20and%20Telecommunications%20Amendment%20Bill.%20H.B.%2010%2C%202025%20.pdf), published in October 2025, would create a licensing gate over the country's ITU orbital resources and over the launch of space objects in Zimbabwe's name. The Bill is not in force, and no national space or geospatial data policy had been adopted as at August 2026. Satellite data reaches government through programmes rather than policy: [the second phase of the EOSTAT programme, launched with the agriculture ministry in June 2025, scales satellite data into crop-type mapping, drought and flood monitoring and the farmer registry](https://www.fao.org/africa/news-stories/news-detail/zimbabwe-scales-up-satellite-based-agricultural-data-systems-with-launch-of-eostat-phase-ii/en), and [the meteorological services department installed a PUMA 2025 station to receive METEOSAT Third Generation data](https://www.weatherzw.org.zw/documents/776/MSD_Newsletter_February_-_March_2026.pdf) (March 2026).
+Zimbabwe's first national space regime is being written into a telecoms Act rather than a space Act: [Clause 12 of the Postal and Telecommunications (Amendment) Bill](https://www.veritaszim.net/sites/veritas_d/files/Postal%20and%20Telecommunications%20Amendment%20Bill.%20H.B.%2010%2C%202025%20.pdf), published in October 2025, would create a licensing gate over the country's ITU orbital resources and over the launch of space objects in Zimbabwe's name. The Bill is not in force, and no national space or geospatial data policy had been adopted as at August 2026. Satellite data reaches government through programmes rather than policy: [the second phase of the EOSTAT programme, launched with the agriculture ministry in June 2025, scales satellite data into crop-type mapping, drought and flood monitoring and the farmer registry](https://www.fao.org/africa/news-stories/news-detail/zimbabwe-scales-up-satellite-based-agricultural-data-systems-with-launch-of-eostat-phase-ii/en), and [the meteorological services department installed a PUMA 2025 station to receive METEOSAT Third Generation data](https://www.weatherzw.org.zw/documents/776/MSD_Newsletter_February_-_March_2026.pdf) (March 2026). [In October 2026 the higher education and innovation ministry said Zimbabwe is preparing to launch a third satellite, to draw on its own earth-observation data](https://newsday.co.zw/article/zim-to-launch-a-third-satellite).
 
 ## Geopolitics
 

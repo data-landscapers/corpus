@@ -23,9 +23,9 @@ The Kampala Convention asks for registers and documents for internally displaced
 | 5 Leading | 4 |
 | 4 Operating | 6 |
 | 3 Established | 17 |
-| 2 Nascent | 9 |
+| 2 Nascent | 10 |
 | 1 Absent | 5 |
-| Unplaced | 5 |
+| Unplaced | 4 |
 | No evidence | 8 |
 
 ## Countries
@@ -251,6 +251,14 @@ Registration or a digital service for refugees or displaced people was under way
 
 - UNHCR Senegal states that on lodging an asylum application with the Commission Nationale d'Eligibilite in Dakar, the applicant receives a recepisse valid six months and renewable, which lets them move freely in Senegal pending the decision ([source, 2026-09-03](https://help.unhcr.org/senegal/fr/asile/)).
 
+### South Africa: 2 Nascent
+
+Home Affairs planned a biometric online registration system for asylum seekers in 2026; whether any are documented is not known.
+
+- Minister Leon Schreiber said Home Affairs is developing a biometric online platform for asylum applications, expected to be operational by 10 November 2026, requiring applicants to submit biometrics to verify identity and detect earlier rejected claims ([source, 2026-10-11](https://www.sanews.gov.za/south-africa/home-affairs-digitise-asylum-applications-speed-processing)).
+- The Inter-Ministerial Committee on Migration said Home Affairs is expected to introduce a phased online intention-registration and appointment system for asylum applicants by 10 November 2026, issuing a receipt recording personal particulars, biometrics, a reference number and an appointment ([source, 2026-10-11](https://www.sanews.gov.za/south-africa/government-seek-court-guidance-asylum-ruling-introduce-registration-system)).
+- The Department of Home Affairs plans an online intention-registration and appointment system for asylum applicants by 10 November 2026, with biometric and identity information collected to verify applicants and prevent duplicate registrations ([source, 2026-10-28](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)).
+
 ### Zambia: 2 Nascent
 
 Registration or a digital service for refugees or displaced people was under way in 2025; documents issued are not on record.
@@ -308,12 +316,6 @@ Nothing found since 2023 names registration of refugees and displaced people, so
 Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
 
 ### Malawi: Unplaced
-
-Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
-
-### South Africa: Unplaced
 
 Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
 

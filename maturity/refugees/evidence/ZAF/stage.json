@@ -1,17 +1,18 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "unplaced",
-   "registration": "",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "2",
+      "registration": "underway",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-002;ZAF-001;ZAF-004",
+      "gaps": "No source found says refugees or asylum seekers are registered and documented with a number stated, or may use SIM cards, accounts or the digital ID.",
+      "note": "Home Affairs plans a biometric online registration and appointment system for asylum applicants by 10 November 2026 (ZAF-002, ZAF-001, ZAF-004). It is not yet in service and no documented number is held, so the cell stops at 2.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }
