@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 1 |
-| 3 Established | 29 |
+| 4 Operating | 2 |
+| 3 Established | 28 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
@@ -69,6 +69,14 @@ Government payments to people were checked against the national ID or social reg
 
 - The World Bank says payments to recipients' bank accounts are made after validating individuals through the NIN or BVN, and low NIN/BVN coverage among the poor slowed the rollout ([source, 2024-10-08](https://nairametrics.com/2024/10/20/over-4-million-households-benefit-from-fgs-cash-transfer-lowest-in-southeast-report/)).
 - Beneficiaries are matched on NIN and BVN with in-person verification and biometrics, and those without a NIN and BVN are disqualified, says the minister's media aide ([source, 2023-10](https://punchng.com/cash-transfer-fg-disqualifies-nigerians-without-nin-bvn-cbn-begins-payment/)).
+
+### Libya: 4 Operating
+
+Salaries and the children's allowance were paid digitally in 2026; whether payments are checked against the ID is not known.
+
+- The Central Bank of Libya says September 2026 public sector salary authorizations from the Ministry of Finance are being transferred to commercial banks for immediate processing via the Your Salary Instantly system, with about 1.75 million of 2.2 million public employees registered (79%) ([source, 2026-09-28](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/)).
+- Governor Issa said about 1.75 million of 2.2 million public employees have registered for the Ratibak Lahzi instant-salary project, which cut salary disbursement time to under an hour ([source, 2026-09](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
+- GACI chairman Abdul Basit Al-Baour said the children's allowance was disbursed electronically within a short period, through integrated government databases ([source, 2026-06-01](https://lana.gov.ly/post.php?id=358533&lang=en)).
 
 ### Senegal: 4 Operating
 
@@ -165,13 +173,6 @@ A government programme paid people digitally in 2025; no source found reports a 
 A government programme paid people digitally in 2026; no source found reports a second main stream.
 
 - UNICEF says that through the Ntlafatsa Bana programme 25,575 households now receive Child Grants Programme payments through digital mobile cash transfers ([source, 2026-07-28](https://www.unicef.org/lesotho/stories/how-birth-certificate-opened-door-support)).
-
-### Libya: 3 Established
-
-A government programme paid people digitally in 2026; no source found reports a second main stream.
-
-- Governor Issa said about 1.75 million of 2.2 million public employees have registered for the Ratibak Lahzi instant-salary project, which cut salary disbursement time to under an hour ([source, 2026-09](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
-- The Central Bank of Libya says September 2026 public sector salary authorizations from the Ministry of Finance are being transferred to commercial banks for immediate processing via the Your Salary Instantly system, with about 1.75 million of 2.2 million public employees registered (79%) ([source, 2026-09-28](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/)).
 
 ### Mali: 3 Established
 

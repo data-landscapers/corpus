@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-lby-al-baour-libya-possesses-high-digital-readiness-and-internet-penetrati",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "GACI chairman Abdul Basit Al-Baour said the children's allowance was disbursed electronically within a short period, through integrated government databases.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "electronic disbursement of the children's allowance",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

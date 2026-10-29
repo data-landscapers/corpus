@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "3",
-   "payment": "inservice",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-003;LBY-001",
-   "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "4",
+      "payment": "inservice",
+      "streams": "several",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001;LBY-003;LBY-006",
+      "gaps": "No source found since October 2023 says government payments are checked against the national ID or a social registry; pensions are not covered.",
+      "note": "Public sector salaries are paid through the instant-salary system (LBY-001, LBY-003) and the children's allowance was disbursed electronically in 2026 (LBY-006): two main streams. No check of payments against the ID or a registry is held, so the cell stops at 4.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }
