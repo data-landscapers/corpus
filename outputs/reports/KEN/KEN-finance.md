@@ -1,6 +1,6 @@
 ---
 title: Kenya: finance
-compiled: 2026-10-28
+compiled: 2026-10-29
 place: KEN
 ---
 
@@ -97,5 +97,5 @@ place: KEN
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/finance.html">Full table &mdash; 74 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/KEN/KEN-nonstate-2026-10-15.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/KEN/KEN-nonstate-2026-10-28.csv" download>&darr; Download CSV</a>
 </div>
