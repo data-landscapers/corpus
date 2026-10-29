@@ -1,6 +1,6 @@
 # Data interoperability framework / roadmap: government interoperability framework
 
-*As at 2026-09-30.*
+*As at 2026-10-29.*
 
 ## The norm
 
@@ -20,15 +20,22 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Leading | 1 |
 | 4 Operating | 2 |
-| 3 Established | 18 |
+| 3 Established | 17 |
 | 2 Nascent | 17 |
 | 1 Absent | 2 |
 | Unplaced | 4 |
 | No evidence | 11 |
 
 ## Countries
+
+### Benin: 5 Leading
+
+Benin's interoperability framework, instituted by decree in 2020, governed more than 120 connected systems in 2025; no source names who enforces it.
+
+- Benin's deck shows the PNI governed under an 'XROAD Interoperability Framework' with a National Interoperability Committee, and reports more than 120 systems integrated through it ([source, 2025-05](https://www.id4africa.com/2025/files/T1-P2-S1-1_BENIN-final.pdf)).
+- Benin's Cadre d'interopérabilité, published by ASIN, is instituted by décret n° 2020-209 of 18 March 2020 and sets four levels (juridical, organisational, semantic, technical) and five common infrastructure components; the document carries no publication date, so 2020-03-18 is the instituting decree's date ([source, 2020-03-18](https://api.xroad.bj/documents/10/download)).
 
 ### Algeria: 4 Operating
 
@@ -43,13 +50,6 @@ Mozambique's 2017 decree binds all public bodies to its interoperability framewo
 
 - The decree applies to all public administration bodies (central, local, autarquias), obliges them to use a single interoperability platform and integrate their systems, and charges INTIC with inspecting compliance and sanctioning breaches; as_of is the publication date ([source, 2017-12-01](https://www.intic.gov.mz/wp-content/uploads/2021/04/BR_188_I_SERIE_2017.pdf)).
 - INTIC chairman Lourino Chemane said Mozambique has completed a thorough review of the Electronic Government Systems Interoperability Regulation, which sets standards for integrating and managing public information systems; the report is dated 2025-12-05 and gives no other date ([source, 2025-12-05](https://techafricanews.com/2025/12/05/mozambique-prioritizes-data-governance-as-cornerstone-of-digital-sovereignty/)).
-
-### Benin: 3 Established
-
-Benin instituted its interoperability framework by decree in 2020; no source found names the body that enforces it.
-
-- ASIN's July 2026 legal note treats Benin's interoperability framework as in place, setting registration, technical and contractual conditions for connecting to the Xroad-BJ exchange platform, with the Comité national d'interopérabilité supervising; the note's date is the published date, 2026-07-28, no event date being given ([source, 2026-07-28](https://asin.bj/doc/142/download)).
-- Benin's Cadre d'interopérabilité, published by ASIN, is instituted by décret n° 2020-209 of 18 March 2020 and sets four levels (juridical, organisational, semantic, technical) and five common infrastructure components; the document carries no publication date, so 2020-03-18 is the instituting decree's date ([source, 2020-03-18](https://api.xroad.bj/documents/10/download)).
 
 ### Burkina Faso: 3 Established
 
@@ -214,7 +214,7 @@ Kenya's ICT Authority has published a government interoperability framework whos
 
 ### Lesotho: 2 Nascent
 
-Lesotho's finance minister said in February 2025, and a consultancy in March 2026, that a government interoperability framework is being developed; no source found reports adoption.
+Lesotho's finance minister in February 2025 and a consultancy in March 2026 said a government interoperability framework is being developed; adoption is not known.
 
 - Qualisys Consulting says it is supporting Lesotho's Ministry of Information, Communications, Science, Technology and Innovation in developing the e-Government Interoperability Framework (eGIF) alongside a Government Enterprise Architecture (GLEA) ([source, 2026-03-06](https://qualisysconsulting.com/en/blog/news-en-5/advancing-digital-government-in-lesotho-through-enterprise-architecture-and-interoperability-53)).
 

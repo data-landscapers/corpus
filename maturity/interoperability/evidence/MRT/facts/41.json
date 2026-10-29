@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-la-mauritanie-explore-l-exp-rience-marocaine-pour-interconnecter-ses-a",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Mauritania is putting in place a common digital architecture for its administrations, and the report says the framework drawn up provides a national library of reusable components, with the digital transformation ministry having begun interconnecting public systems.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "common digital architecture",
+   "class": "framework"
+  }
+ ],
+ "systems": [
+  {
+   "system": "common digital architecture",
+   "country_label": "Mauritania common digital architecture",
+   "class": "framework",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

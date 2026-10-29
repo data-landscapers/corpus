@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-31-sle-dfmst-and-stakeholders-conclude-two-day-validation-exercise-on-draft-i",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "A two-day workshop on 28-29 October 2025 validated the Ministry of Finance's draft interoperability roadmap for PFM systems, which sets technical standards, infrastructure, data requirements and policies.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "PFM systems interoperability roadmap",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

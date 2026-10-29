@@ -1,16 +1,17 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "framework",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-001;BEN-002",
-   "gaps": "No source found says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.",
-   "note": "Counted from the four questions by study-ladder-interoperability.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "framework",
+      "stage": "5",
+      "standing": "adopted",
+      "use": "followed",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-004;BEN-002",
+      "gaps": "No instrument found names the body that enforces the framework; the count of systems working under it answers that question (method §3).",
+      "note": "4c 2026-10-29: Benin told ID4Africa in May 2025 that more than 120 systems are integrated through the exchange platform its interoperability framework governs, a dated count inside three years. A later yes answers the earlier ones, so the stage is 5.",
+      "as_at": "2026-10-29"
+    }
+  ]
 }
