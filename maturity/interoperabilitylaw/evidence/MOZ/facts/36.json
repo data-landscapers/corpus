@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-03-moz-actual-quadro-legal-e-regulamentar-garante-a-proteccao-de-dados-pessoa",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "INTIC says Decreto n.o 67/2017 approved the interoperability regulation, which sets obligations on public administration institutions and protects data shared between them.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Regulamento do Quadro de Interoperabilidade de Governo Electrónico (Decreto n.o 67/2017)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
