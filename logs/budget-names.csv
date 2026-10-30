@@ -240,7 +240,7 @@ CMR,deal-recipient,Private Sector,,Paysika,no line,
 CMR,deal-recipient,Public Sector,,Cameroon,no line,
 CMR,deal-recipient,Public Sector,,"Ministry of Public Contracts, Cameroon",no line,
 COD,hosting,Presidency,,Présidence de la République Démocratique du Congo,line,cod-2024-10-10310-fi
-COD,hosting,Parliament,,Assemblée nationale,no line,
+COD,hosting,Parliament,,Assemblée nationale,line,cod-2027-16-16261-fi
 COD,hosting,Parliament,,Sénat,line,cod-2025-17-17212-fi
 COD,hosting,Foreign Affairs,,"Ministère des Affaires étrangères, Coopération internationale, Francophonie et Diaspora congolaise",no line,
 COD,hosting,Defence,,Ministère de la Défense nationale et Anciens Combattants,line,cod-2024-27-27208-fm
@@ -258,8 +258,8 @@ COD,hosting,Interior / Home Affairs,,"Ministère de l'Intérieur, Sécurité, D�
 COD,hosting,Central Bank,,Banque Centrale du Congo,no line,
 COD,hosting,Civil registry / National ID authority,civil-registration-id,Office national d'identification de la population (ONIP),line,cod-2024-25-25307-221001
 COD,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante (CENI),no line,
-COD,hosting,Statistics office,statistics,Institut national de la statistique,no line,
-COD,hosting,Immigration / Passports,,Direction générale de migration,no line,
+COD,hosting,Statistics office,statistics,Institut national de la statistique,line,cod-2027-32-32200-271048
+COD,hosting,Immigration / Passports,,Direction générale de migration,line,cod-2027-53-53808-271001
 COD,hosting,Health ministry / National health insurance,,"Ministère de la Santé publique, Hygiène et Prévoyance sociale",line,cod-2024-37-37261-fm
 COD,hosting,Health ministry / National health insurance,,Fonds de solidarité de santé (FSS),no line,
 COD,hosting,Social protection / Social registry,social-registry,Caisse nationale de sécurité sociale des agents publics de l'État (CNSSAP),no line,
@@ -273,7 +273,7 @@ COD,hosting,State-owned telco / National backbone operator,,Société congolaise
 COD,hosting,E-government agency,ict-ministry-egov,Agence pour le développement du numérique (ADN),line,cod-2024-10-10816-rem
 COD,hosting,E-government agency,ict-ministry-egov,Portail gouvernemental (zone parente des ministères),no line,
 COD,hosting,Communications regulator,communications-regulator,Autorité de régulation de la poste et des télécommunications (ARPTC),no line,
-COD,hosting,Audit office,,Cour des comptes,no line,
+COD,hosting,Audit office,,Cour des comptes,line,cod-2027-85-85100-271012
 COD,hosting,Audit office,,Inspection générale des finances,no line,
 COD,deal-recipient,Private Sector,,Eastcastle Infrastructure DRC SARLU,no line,
 COD,deal-recipient,Public Sector,,Democratic Republic of the Congo,no line,
@@ -419,7 +419,6 @@ DZA,hosting,Communications regulator,communications-regulator,Autorité de régu
 DZA,hosting,Audit office,,Cour des comptes,no line,
 DZA,deal-recipient,Public Sector,,Médiateur de la République,no line,
 DZA,deal-recipient,Private Sector,,Talenteo,no line,
-DZA,deal-recipient,Private Sector,,VOLZ,no line,
 EGY,hosting,Presidency,,Presidency of the Arab Republic of Egypt,no line,
 EGY,hosting,Parliament,,House of Representatives,no line,
 EGY,hosting,Foreign Affairs,,Ministry of Foreign Affairs,no line,
@@ -447,6 +446,7 @@ EGY,hosting,Cybersecurity agency / National CERT,cybersecurity,Egypt CERT,no lin
 EGY,hosting,Communications regulator,communications-regulator,National Telecom Regulatory Authority,no line,
 EGY,hosting,Audit office,,Accountability State Authority,no line,
 EGY,hosting,Anti-corruption commission,,Administrative Control Authority,no line,
+EGY,deal-recipient,Private Sector,,Startups in artificial intelligence and advanced technologies,no line,
 EGY,deal-recipient,Private Sector,,Synapse Analytics,no line,
 EGY,deal-recipient,Private Sector,,Tamweely Financial Services,no line,
 EGY,deal-recipient,Private Sector,,Konecta Egypt / Egypt,no line,
@@ -563,6 +563,7 @@ GHA,hosting,Cybersecurity agency / National CERT,cybersecurity,Cyber Security Au
 GHA,hosting,Communications regulator,communications-regulator,National Communications Authority,line,gha-2024-026-02604
 GHA,hosting,Audit office,,Ghana Audit Service,no line,
 GHA,hosting,Anti-corruption commission,,Office of the Special Prosecutor,no line,
+GHA,deal-recipient,Unknown,,"GHA; UK-Ghana Chamber of Commerce (UKGCC), named as transaction receiver; description also names Ghana Cyber Security Authority and Lancaster University as partners",no line,
 GHA,deal-recipient,Private Sector,,FIDO Microcredits Limited,no line,
 GHA,deal-recipient,NGO,,Tony Blair Institute for Global Change,no line,
 GHA,deal-recipient,Private Sector,,MTN Ghana (Scancom PLC) / Ghana,no line,
@@ -625,8 +626,8 @@ GMB,hosting,State-owned telco / National backbone operator,,Gamtel,no line,
 GMB,hosting,E-government agency,ict-ministry-egov,Ministry of Information and Communication Infrastructure,line,gmb-2024-34-3403-340301
 GMB,hosting,Communications regulator,communications-regulator,Public Utilities Regulatory Authority,no line,
 GMB,hosting,Audit office,,National Audit Office,line,gmb-2024-06-0562-001-3112120
-GMB,deal-recipient,Public Sector,,GAMTEL,no line,
 GMB,deal-recipient,Public Sector,,GAMCEL,no line,
+GMB,deal-recipient,Public Sector,,GAMTEL,no line,
 GMB,deal-recipient,NGO,,Institute for Inclusive Digital Africa,no line,
 GNB,hosting,Presidency,,Presidência da República da Guiné-Bissau,line,gnb-2025-3-343920101
 GNB,hosting,Parliament,,Assembleia Nacional Popular,no line,
@@ -698,6 +699,7 @@ KEN,hosting,Communications regulator,communications-regulator,Communications Aut
 KEN,hosting,Audit office,,Office of the Auditor-General,no line,
 KEN,hosting,Anti-corruption commission,,Ethics and Anti-Corruption Commission,no line,
 KEN,hosting,E-government agency,ict-ministry-egov,"Ministry of Information, Communications and the Digital Economy",line,ken-2024-1015-0764030
+KEN,deal-recipient,Multilateral,,"International Bank for Reconstruction and Development (World Bank), for Kenya",no line,
 KEN,deal-recipient,Private Sector,,Co-operative Bank of Kenya,no line,
 KEN,deal-recipient,Research,,"Masakhane Research Foundation (Kilifi, Kenya; region served Africa)",no line,
 KEN,deal-recipient,Private Sector,,Atlas Tower Kenya Limited,no line,
@@ -1534,7 +1536,9 @@ ZAF,hosting,Anti-corruption commission,,Special Investigating Unit,line,zaf-2024
 ZAF,hosting,Anti-corruption commission,,Public Protector,no line,
 ZAF,deal-recipient,Private Sector,,Vodacom Mpumalanga region network,no line,
 ZAF,deal-recipient,Private Sector,,Vodacom KwaZulu-Natal region network,no line,
+ZAF,deal-recipient,Unknown,,"ZAF; University of the Witwatersrand, Johannesburg (transaction receiver)",no line,
 ZAF,deal-recipient,Private Sector,,Vodacom Western Cape region network,no line,
+ZAF,deal-recipient,Research,,"Cenfri NPC (Cape Town, South Africa; region served Africa)",no line,
 ZAF,deal-recipient,Private Sector,,Jem,no line,
 ZAF,deal-recipient,Private Sector,,Moment,no line,
 ZAF,deal-recipient,Private Sector,,Shop2Shop / FintechCo,no line,

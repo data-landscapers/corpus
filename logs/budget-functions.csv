@@ -111,20 +111,20 @@ CMR,land-registry,found,whole,6,cmr-2024-37-026,Ministère des Domaines du Cadas
 CMR,social-registry,absent,,,,,hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. The social affairs ministry's programmes name social protection of groups and no registry.",2026-10-02
 CMR,population-register,absent,,,,,hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. No programme names a population register.",2026-10-02
 CMR,data-exchange,absent,,,,,hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. No programme names interoperability or data exchange.",2026-10-02
-COD,statistics,found,whole,27,cod-2024-32-32305-201001,Institut national de la statistique,rows,,
-COD,civil-registration-id,found,whole,19,cod-2024-25-25307-221001,Office national d'identification de la population (ONIP),rows,,
-COD,communications-regulator,found,partial,3,cod-2024-10-10805-bpo,Autorité de régulation de la poste et des télécommunications (ARPTC),rows,,
-COD,ict-ministry-egov,found,whole,4,cod-2024-31-31200-241018,Agence pour le développement du numérique (ADN); Portail gouvernemental (zone parente des ministères),rows,,
-COD,cybersecurity,found,whole,17,cod-2024-10-10310-fi,,rows,,
+COD,statistics,found,whole,37,cod-2024-32-32305-201001,Institut national de la statistique,rows,,
+COD,civil-registration-id,found,whole,32,cod-2024-25-25307-221001,Office national d'identification de la population (ONIP),rows,,
+COD,communications-regulator,found,partial,4,cod-2024-10-10805-bpo,Autorité de régulation de la poste et des télécommunications (ARPTC),rows,,
+COD,ict-ministry-egov,found,whole,7,cod-2024-31-31200-241018,Agence pour le développement du numérique (ADN); Portail gouvernemental (zone parente des ministères),rows,,
+COD,cybersecurity,found,whole,24,cod-2024-10-10310-fi,,rows,,
 COD,data-protection,absent,,,,,hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: no chapter names data protection",2026-10-02
 COD,revenue-systems,found,partial,1,cod-2024-30-30302-231607,"Direction générale des impôts; Direction générale des recettes administratives, judiciaires, domaniales et de participations (DGRAD)",rows,,
 COD,treasury-fmis,absent,,,,Administration des Finances (Secrétariat général aux Finances); Ministère du Budget,hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: no chapter names a treasury or financial management system; the one hit, SIGMAP, is the procurement system and is held under procurement",2026-10-02
-COD,procurement,found,whole,3,cod-2024-31-31301-241005,Autorité de régulation des marchés publics (ARMP); Système intégré de gestion des marchés publics,rows,,
+COD,procurement,found,whole,4,cod-2024-31-31301-241005,Autorité de régulation des marchés publics (ARMP); Système intégré de gestion des marchés publics,rows,,
 COD,electoral-register,absent,,,,Commission électorale nationale indépendante (CENI),hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: the electoral commission is section 77, printed as one body with no line for the voter register",2026-10-02
-COD,land-registry,found,whole,2,cod-2024-55-55200-231012,Ministère des Affaires foncières,rows,,
+COD,land-registry,found,whole,4,cod-2024-55-55200-231012,Ministère des Affaires foncières,rows,,
 COD,social-registry,found,whole,2,cod-2024-64-64200-231023,Caisse nationale de sécurité sociale des agents publics de l'État (CNSSAP),rows,,
 COD,population-register,absent,,,,,hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: no chapter names a population register",2026-10-02
-COD,data-exchange,found,whole,8,cod-2024-48-48261-231005,,rows,,
+COD,data-exchange,found,whole,10,cod-2024-48-48261-231005,,rows,,
 COG,statistics,absent,,,,Institut national de la statistique,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. The plan ministry (Code 36 in 2025, 88 in 2026) prints steering, planning and regional integration, and no statistics programme; the institute has no line at this grain.",2026-10-02
 COG,civil-registration-id,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. No programme names civil registration or identity; a civil-status fee system appears in the law as a levy key with no amount.",2026-10-02
 COG,communications-regulator,absent,,,,Agence de régulation des postes et des communications électroniques,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. The regulator is funded by levy shares the law prints as percentages with no amount, and has no programme.",2026-10-02

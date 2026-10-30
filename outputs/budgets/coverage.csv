@@ -83,10 +83,10 @@ BFA,2024,implementation-report,released|actual,held,2025-11,7,2026-10-30
 BFA,2025,implementation-report,released|actual,not due,2026-11,0,2026-10-30
 BFA,2026,implementation-report,released|actual,held,2027-11,1,2026-10-30
 BFA,2027,implementation-report,released|actual,not due,2028-11,0,2026-10-30
-BFA,2024,mtef,proposed,held,2023-07,2,2026-10-30
-BFA,2025,mtef,proposed,held,2024-07,1,2026-10-30
-BFA,2026,mtef,proposed,held,2025-07,2,2026-10-30
-BFA,2027,mtef,proposed,absent,2026-07,0,2026-10-30
+BFA,2024,mtef,proposed,held,2023-06,2,2026-10-30
+BFA,2025,mtef,proposed,held,2024-06,1,2026-10-30
+BFA,2026,mtef,proposed,held,2025-06,1,2026-10-30
+BFA,2027,mtef,proposed,held,2026-06,1,2026-10-30
 BWA,2024,appropriation-act,appropriated,held,2024-04,1,2026-10-30
 BWA,2025,appropriation-act,appropriated,held,2025-04,1,2026-10-30
 BWA,2026,appropriation-act,appropriated,held,2026-04,1,2026-10-30
@@ -162,7 +162,7 @@ COD,2027,appropriation-act,appropriated,not due,2027-01,0,2026-10-30
 COD,2024,budget-estimates,proposed|appropriated,held,2023-10,6,2026-10-30
 COD,2025,budget-estimates,proposed|appropriated,held,2024-10,5,2026-10-30
 COD,2026,budget-estimates,proposed|appropriated,held,2025-10,5,2026-10-30
-COD,2027,budget-estimates,proposed|appropriated,absent,2026-10,0,2026-10-30
+COD,2027,budget-estimates,proposed|appropriated,held,2026-10,1,2026-10-30
 COD,2024,implementation-report,released|actual,held,2025-02,6,2026-10-30
 COD,2025,implementation-report,released|actual,held,2026-02,2,2026-10-30
 COD,2026,implementation-report,released|actual,not due,2027-02,0,2026-10-30
@@ -234,7 +234,7 @@ CPV,2027,board-budget,appropriated,not due,2027-02,0,2026-10-30
 CPV,2024,budget-estimates,proposed|appropriated,held,2023-10,16,2026-10-30
 CPV,2025,budget-estimates,proposed|appropriated,held,2024-10,6,2026-10-30
 CPV,2026,budget-estimates,proposed|appropriated,held,2025-10,14,2026-10-30
-CPV,2027,budget-estimates,proposed|appropriated,absent,2026-10,0,2026-10-30
+CPV,2027,budget-estimates,proposed|appropriated,held,2026-10,1,2026-10-30
 CPV,2024,executive-instrument,revised|appropriated,held,2024-02,1,2026-10-30
 CPV,2025,executive-instrument,revised|appropriated,held,2025-02,1,2026-10-30
 CPV,2026,executive-instrument,revised|appropriated,held,2026-02,1,2026-10-30
@@ -383,10 +383,10 @@ GMB,2024,board-budget,appropriated,held,2026-04,1,2026-10-30
 GMB,2025,board-budget,appropriated,not due,2027-04,0,2026-10-30
 GMB,2026,board-budget,appropriated,not due,2028-04,0,2026-10-30
 GMB,2027,board-budget,appropriated,not due,2029-04,0,2026-10-30
-GMB,2024,budget-estimates,proposed|appropriated,held,2024-02,2,2026-10-30
-GMB,2025,budget-estimates,proposed|appropriated,held,2025-02,4,2026-10-30
-GMB,2026,budget-estimates,proposed|appropriated,held,2026-02,4,2026-10-30
-GMB,2027,budget-estimates,proposed|appropriated,not due,2027-02,0,2026-10-30
+GMB,2024,budget-estimates,proposed|appropriated,held,2024-01,2,2026-10-30
+GMB,2025,budget-estimates,proposed|appropriated,held,2025-01,4,2026-10-30
+GMB,2026,budget-estimates,proposed|appropriated,held,2026-01,4,2026-10-30
+GMB,2027,budget-estimates,proposed|appropriated,held,2027-01,1,2026-10-30
 GMB,2024,implementation-report,released|actual,held,2024-10,13,2026-10-30
 GMB,2025,implementation-report,released|actual,held,2025-10,13,2026-10-30
 GMB,2026,implementation-report,released|actual,held,2026-10,4,2026-10-30
@@ -690,7 +690,7 @@ SEN,2027,audited-accounts,audited,not due,2033-03,0,2026-10-30
 SEN,2024,budget-estimates,proposed|appropriated,held,2023-11,2,2026-10-30
 SEN,2025,budget-estimates,proposed|appropriated,held,2024-11,5,2026-10-30
 SEN,2026,budget-estimates,proposed|appropriated,held,2025-11,29,2026-10-30
-SEN,2027,budget-estimates,proposed|appropriated,not due,2026-11,0,2026-10-30
+SEN,2027,budget-estimates,proposed|appropriated,held,2026-11,1,2026-10-30
 SEN,2024,executive-instrument,revised|appropriated,absent,2024-02,0,2026-10-30
 SEN,2025,executive-instrument,revised|appropriated,held,2025-02,3,2026-10-30
 SEN,2026,executive-instrument,revised|appropriated,absent,2026-02,0,2026-10-30
@@ -846,7 +846,7 @@ TUN,2027,audited-accounts,audited,not due,2029-07,0,2026-10-30
 TUN,2024,budget-estimates,proposed|appropriated,held,2023-11,11,2026-10-30
 TUN,2025,budget-estimates,proposed|appropriated,held,2024-11,9,2026-10-30
 TUN,2026,budget-estimates,proposed|appropriated,absent,2025-11,0,2026-10-30
-TUN,2027,budget-estimates,proposed|appropriated,not due,2026-11,0,2026-10-30
+TUN,2027,budget-estimates,proposed|appropriated,held,2026-11,1,2026-10-30
 TUN,2024,implementation-report,released|actual,held,2025-03,2,2026-10-30
 TUN,2025,implementation-report,released|actual,held,2026-03,7,2026-10-30
 TUN,2026,implementation-report,released|actual,not due,2027-03,0,2026-10-30

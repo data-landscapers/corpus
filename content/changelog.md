@@ -1,3 +1,7 @@
+## 30 October 2026
+
+- 2027 budgets now enter the tables as each country's draft is tabled, starting with DR Congo's finance bill of September 2026: 182 lines, CDF 556.5bn whole and 103.8bn partly digital, led by population identification (90.7bn) and the census (45.4bn). The figures are the bill's and give way to the enacted law when it is published.
+
 ## 27 October 2026
 
 - The maturity pages now close on *Not found*, for what was looked for and not found, and *Also on file*, for systems found but not assessed. *Not held* and *Noted, not assessed* are retired, and the map legend reads *evidence found* and *nothing found*.
