@@ -1,11 +1,11 @@
 ---
 title: South Sudan — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: SSD
-ledger_rows: 20
+ledger_rows: 21
 not_held: 8
-record: 58017e84843b
+record: caa6eff93314
 ---
 
 # News, Sep – Oct 2026
@@ -353,8 +353,26 @@ South Sudan scored 0.75 out of 4 on the Africa AI Governance Index 2026, in the 
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media and Information Literacy Centre, Juba Day Secondary School</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Sudan's first dedicated Media and Information Literacy Centre is creating opportunities for young people](https://www.unesco.org/en/articles/south-sudans-first-dedicated-media-and-information-literacy-centre-creating-opportunities-young)** — UNESCO, 28 October 2026
+
+UNESCO-backed Juba centre since 2024; computers, internet, verification training; about 500 users by Oct 2026.
+
+</div>
+
+</div>
 
 ### Training and skills
 
