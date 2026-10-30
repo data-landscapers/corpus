@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: COD
-ledger_rows: 72
+ledger_rows: 73
 not_held: 7
-record: 6f508a1ac165
+record: 90130a773d40
 ---
 
 # News, Sep – Oct 2026
@@ -985,6 +985,20 @@ DR Congo relaunched its e-visa reform with a new competitive selection of a prov
 **[RDC : la stratégie de digitalisation de la gouvernance sécuritaire soumise à validation - Congo Inter](https://congointer.info/2026/10/27/rdc-la-strategie-de-digitalisation-de-la-gouvernance-securitaire-soumise-a-validation/)** — Congo Inter, 27 October 2026
 
 DR Congo's deputy interior minister opened a four-day national workshop in Kinshasa on 26 October 2026. The workshop is to validate a strategy and roadmap for digitalising security governance. The aim is real-time reporting of security information from village to state level. That reporting still relies largely on manual procedures.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-government strategy 2025-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Democratic Republic of Congo seeks consultancy for $500 million digital programme](https://www.consultancy.africa/news/2326/democratic-republic-of-congo-seeks-consultancy-for-500-million-digital-programme)** — Consultancy Africa, 28 October 2026
+
+Eight-month consultancy: e-gov master plan, enterprise architecture, interoperability; WB US$400m plus AFD €100m.
 
 </div>
 
