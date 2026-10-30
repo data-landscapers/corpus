@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBY,exchange,platform,coverage,inservice,2026-04-20,LBY-003,LBY-002=underway;LBY-001=underway,
-LBY,exchange,reach,coverage,,,,,nothing held
-LBY,exchange,usage,coverage,,,,,nothing held
+LBY,exchange,platform,coverage,inservice,2026-06-01,LBY-004,LBY-002=underway;LBY-003=underway;LBY-001=underway,
+LBY,exchange,reach,coverage,,,,,nothing found
+LBY,exchange,usage,coverage,reported,2025,LBY-005,,

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The article says GovESB, the Government Enterprise Service Bus developed by e-GA as the common exchange layer, provides the infrastructure through which separate government systems exchange data.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "GovESB",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovESB",
+   "country_label": "Tanzania",
+   "class": "exchange",
+   "platform": "",
+   "owner": "e-GA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "3",
+      "stage": "5",
       "platform": "inservice",
-      "reach": "",
-      "usage": "",
+      "reach": "wide",
+      "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-005;MDG-007",
-      "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-      "note": "Rebuild 2026-10-28: Rahaka was operational at five bodies at its April 2026 launch. No count of ten is held.",
-      "as_at": "2026-10-28"
+      "stage_sources": "MDG-008;MDG-009;MDG-010",
+      "gaps": "L'Express counted five bodies operational at the April 2026 launch; 2424.mg counts 14 institutions on the same national exchange system.",
+      "note": "2424.mg reports 14 institutions interconnected through the national exchange system at its April 2026 launch and more than 162,000 exchanges recorded, so the count of ten and a figure of use are both met.",
+      "as_at": "2026-10-30"
     }
   ]
 }

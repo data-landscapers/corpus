@@ -1,0 +1,46 @@
+{
+ "slug": "2026-04-29-mdg-modernisation-de-l-etat-14-institutions-deja-interconnectees-via-le-sy",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The Système d'échange national (SEN), run by the Unité de gouvernance digitale, already interconnects 14 institutions and supports services including Orinasa, Lucy, Hetra Online, the RNCS and the SRNE, per the 2424.mg report of the April 2026 launch.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Système d'échange national (SEN)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "14 institutions are connected to the Système d'échange national, according to 2424.mg.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Système d'échange national (SEN)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The Programme de réformes pour l'efficacité de l'administration (PREA) reports more than 162,000 exchanges recorded through the SEN to date.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Système d'échange national (SEN)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système d'échange national (SEN)",
+   "country_label": "Système d'échange national",
+   "class": "exchange",
+   "platform": "SEN",
+   "owner": "Unité de gouvernance digitale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

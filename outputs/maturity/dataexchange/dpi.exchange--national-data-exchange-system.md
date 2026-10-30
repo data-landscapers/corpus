@@ -20,10 +20,10 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Leading | 6 |
 | 4 Operating | 2 |
 | 3 Established | 7 |
-| 2 Nascent | 24 |
+| 2 Nascent | 23 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
 | No evidence | 10 |
@@ -36,6 +36,14 @@ Use of the government data exchange platform was reported in 2026.
 
 - The dashboard reports 138,174,337 total requests and 57,322,278 requests in the last 12 months, statistics updated 11 July 2026 ([source, 2026-07-11](https://statistiques.xroad.bj/)).
 - The dashboard says the instance has 73 members, 176 information systems and 512 services, with ANATT, ANIP and DGI the top providers ([source, 2026-07-11](https://statistiques.xroad.bj/)).
+
+### Madagascar: 5 Leading
+
+Madagascar's national data exchange system connected 14 institutions in April 2026 and had recorded more than 162,000 exchanges.
+
+- The Système d'échange national (SEN), run by the Unité de gouvernance digitale, already interconnects 14 institutions and supports services including Orinasa, Lucy, Hetra Online, the RNCS and the SRNE, per the 2424.mg report of the April 2026 launch ([source, 2026-04](https://2424.mg/modernisation-de-letat-14-institutions-deja-interconnectees-via-le-systeme-dechange-national-et-extension-vers-des-secteurs-vitaux-en-perspective/)).
+- 14 institutions are connected to the Système d'échange national, according to 2424.mg ([source, 2026-04](https://2424.mg/modernisation-de-letat-14-institutions-deja-interconnectees-via-le-systeme-dechange-national-et-extension-vers-des-secteurs-vitaux-en-perspective/)).
+- The Programme de réformes pour l'efficacité de l'administration (PREA) reports more than 162,000 exchanges recorded through the SEN to date ([source, 2026-04](https://2424.mg/modernisation-de-letat-14-institutions-deja-interconnectees-via-le-systeme-dechange-national-et-extension-vers-des-secteurs-vitaux-en-perspective/)).
 
 ### Morocco: 5 Leading
 
@@ -100,12 +108,12 @@ A government data exchange platform was in service in 2026; no source found says
 - The head of SNDI said at the 3 September 2026 workshop that the national interoperability platform is a reality and already improves data exchange between several administrations ([source, 2026-09-03](https://www.fratmat.info/article/2644285/economie/transformation-numerique-la-cote-divoire-priorise-les-services-publics-a-fort-impact)).
 - Digital Mag reports that five public administrations have joined the UXP interoperability platform, to be operational before 31 July 2026, within a phase 1 meant to interconnect 12 bodies of 31 judged mature; the project began in September 2025 ([source, 2026-07](https://digitalmag.ci/cote-divoire-cinq-administrations-publiques-integrent-la-plateforme-dinteroperabilite/)).
 
-### Madagascar: 3 Established
+### Libya: 3 Established
 
-A government data exchange platform was in service in 2026; no source found says how many systems it connects.
+Libya's data exchange platform linked government agencies and banks in 2026 and carried 300 million transactions in 2025; how many it connects is not known.
 
-- L'Express reports that the Rahaka national exchange system is already operational at five bodies, EDBM, CNaPS, Instat, the Ministry of Justice and the Direction generale des Impots, at the 28 April 2026 launch ([source, 2026-04](https://www.lexpress.mg/2026/04/administration-mise-en-place-dun.html)).
-- INSTAT reports the official launch on 28 April 2026 of national interoperability, a shared IT system for ministries and public bodies to exchange data, with the first RAHAKA usage convention signed by UGD, several ministries, private actors and INSTAT; it gives no count of connected systems ([source, 2026-04-28](https://www.instat.mg/p/lancement-officiel-de-linteroperabilite-nationale)).
+- The chairman of the General Authority for Communications and Informatics said on 1 June 2026 that the National Data Distributor is linked to the banking sector, government agencies and service sectors ([source, 2026-06-01](https://lana.gov.ly/post.php?id=358533&lang=en)).
+- The same chairman said the National Data Distributor recorded over 300 million data transactions last year ([source, 2025](https://lana.gov.ly/post.php?id=358533&lang=en)).
 
 ### Mozambique: 3 Established
 
@@ -209,13 +217,6 @@ A government data exchange platform was under way in 2026; none in service is on
 
 - The World Bank's GREAT Project status report lists a new Service Bus for data exchange via APIs among government systems and services including the National Identification Registry, with 0 systems using it at 30 September 2025 against a target of 10 by December 2030 ([source, 2025-09-30](https://documents1.worldbank.org/curated/en/099110625073415416/pdf/P177478-9397c8d1-edb6-4a96-a39d-0222e717f2c4.pdf)).
 - The GREAT Project procurement plan (Ministry of Finance and Development Planning, World Bank) lists a consultancy to design, install and configure a Government Service Bus prototype, the firm package marked cancelled and an individual-consultant package of US$50,000 marked pending implementation with terms of reference planned for 2026-02-25 ([source, 2026-02-13](https://documents1.worldbank.org/curated/en/099021326063510836/txt/P177478-d6a96244-44d6-44c4-855d-bbbd85a9394e.txt)).
-
-### Libya: 2 Nascent
-
-Libya's authority described a national data exchange platform in 2026; no source names two public bodies exchanging data through it.
-
-- The General Information Authority, reporting a 20 April 2026 meeting with the Union of Chambers, describes the National Data Distributor as a sovereign operational platform for interoperability enabling secure exchange of data between entities, and says the Chambers Union's new electronic system is to interoperate with it; it names no connected bodies and gives no counts ([source, 2026-04-20](https://www.gia.gov.ly/en/2026/04/23/enhancing-digital-transformation-in-the-business-sector-joint-meeting-to-launch-the-electronic-system-of-the-chambers-union-and-align-it-with-national-frameworks/)).
-- On 8 July 2026 the General Information Authority said its national projects, the Libyan National Data Exchange (LY-NDEX) among them, are a pillar enabling information exchange between government bodies; the story gives no go-live date, connected bodies or figures ([source, 2026-07-08](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/)).
 
 ### Malawi: 2 Nascent
 

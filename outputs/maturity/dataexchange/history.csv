@@ -73,3 +73,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-29,UGA,dpi.exchange--national-data-exchange-system,fact,4,5,UGA-014;UGA-011,DIAL's April 2024 figure of over 90 million UGHub transactions answers the use question: 4 to 5
 2026-10-29,ZMB,dpi.exchange--national-data-exchange-system,fact,4,5,ZMB-021;ZMB-010,Smart Zambia's count of 4.5 million transactions on the bus to April 2025 answers the use question: 4 to 5
 2026-10-29,MAR,dpi.exchange--national-data-exchange-system,fact,5,5,MAR-006;MAR-010,ADD's April 2025 count of 76 bodies on the platform and June 2026 figure of 52 million transactions fill the reach gap; stays 5
+2026-10-30,LBY,dpi.exchange--national-data-exchange-system,fact,2,3,LBY-004;LBY-005,"GACI chairman, 1 June 2026: National Data Distributor links government agencies and banks, over 300 million transactions in 2025; in service: 2 to 3"
+2026-10-30,MDG,dpi.exchange--national-data-exchange-system,fact,3,5,MDG-008;MDG-009;MDG-010,"2424.mg, April 2026: 14 institutions on the national exchange system and 162,000 exchanges recorded answer the count and use questions: 3 to 5"

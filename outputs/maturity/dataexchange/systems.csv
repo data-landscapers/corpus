@@ -189,6 +189,7 @@ LBY,Libyan Digital National Identity (LY-DNID),Libya,other,,General Information 
 LBY,National Data Distributor,Libya,exchange,,General Information Authority,,2026-04-23-chambers-union-electronic-system-gia
 LBY,Electronic system of the Union of Chambers,Libya,other,,Union of Chambers,,2026-04-23-chambers-union-electronic-system-gia
 LBY,National Data Exchange (LY-NDEX),Libya,exchange,,,,2026-03-29-lby-chairman-of-the-general-authority-for-information-meets-with-the-minis
+LBY,National Data Distributor,Libya,exchange,,General Authority for Communications and Informatics,,2026-06-01-lby-al-baour-libya-possesses-high-digital-readiness-and-internet-penetrati
 LSO,X-Road,Lesotho,exchange,X-Road,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
 LSO,MOSIP,Lesotho,other,MOSIP,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
 LSO,National Data Exchange,National Data Exchange,exchange,X-Road,MICSTI,,2026-10-21-lso-the-government-of-lesotho-remains-committed-to-strengthening-secure-da
@@ -211,6 +212,7 @@ MDG,CNECI civil registration and identification databases,Madagascar,other,,CNEC
 MDG,Rahaka,Madagascar,exchange,PRODIGY (World Bank) support,Unite de Gouvernance Digitale (UGD),,2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress
 MDG,RAHAKA,Madagascar,exchange,,UGD (Unite de Gouvernance Digitale),,2026-04-29-interoperabilite-nationale-instat
 MDG,RAHAKA,Madagascar,exchange,,Unite de Gouvernance Digitale (UGD),,2026-04-28-instat-interoperabilite-nationale
+MDG,Système d'échange national (SEN),Système d'échange national,exchange,SEN,Unité de gouvernance digitale,,2026-04-29-mdg-modernisation-de-l-etat-14-institutions-deja-interconnectees-via-le-sy
 MLI,PKI nationale,Mali,other,,,,2026-08-03-mali-semaine-du-numerique-recommandations-souverainete
 MLI,Intranet gouvernemental,Mali,other,private secured government network,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,Single-window portal of digitalised public services,Mali,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
@@ -399,6 +401,7 @@ TZA,TIPS,Tanzania,other,,,,2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-te
 TZA,Government Enterprise Service Bus (GovESB),Tanzania,exchange,,e-Government Authority,,2024-02-01-e-government-technology-roadmap
 TZA,Jamii X-Change,Tanzania,exchange,X-Road,NIDA,,2025-01-01-tza-jamii-x-change
 TZA,GovESB,Government Enterprise Service Bus,exchange,,e-GA,,2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali
+TZA,GovESB,Tanzania,exchange,,e-GA,,2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do
 UGA,UGHub,Uganda,exchange,,NITA-U,,2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study
 UGA,UgHub,Uganda,exchange,,,,2025-08-25-dci-data-exchange-platforms-interoperability
 UGA,UGHub,Uganda,exchange,WSO2,NITA-U,,2026-10-01-uga-news-nira-to-register-learners-correct-identity-errors-in

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "2",
-      "platform": "underway",
+      "stage": "3",
+      "platform": "inservice",
       "reach": "",
-      "usage": "",
+      "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-003;LBY-002",
-      "gaps": "No source found names two public bodies exchanging data through the National Data Distributor or LY-NDEX.",
-      "note": "Rebuild 2026-10-28, lowered from 3: the authority calls the National Data Distributor operational but names no body whose data passes through it, and the Chambers Union system is still to join. Without data shown moving between two public bodies' systems, the platform stands as under way.",
-      "as_at": "2026-10-28"
+      "stage_sources": "LBY-004;LBY-005",
+      "gaps": "No source found since October 2023 counts ten or more institutions or systems connected; no source names the bodies whose data passes through the platform.",
+      "note": "On 1 June 2026 the communications authority's chairman said the National Data Distributor links government agencies, banks and service sectors and carried over 300 million transactions in 2025, so it is in service between public bodies. No count of ten connected is held, so it is not stage 4.",
+      "as_at": "2026-10-30"
     }
   ]
 }
