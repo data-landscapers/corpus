@@ -153,7 +153,7 @@ python scripts/test_alerts_worker.py          # the Worker's pure core (needs no
 python scripts/rebuild.py --catalogue                 # BUILD stage 2 + 2b: catalogue, then names
 python scripts/build-title-index.py                   # -> outputs/titles/  (no vault needed)
 python scripts/test_title_index.py                    # word-aligned queries find their records
-python scripts/build-names-index.py --stats           # size profile, writes nothing (from .workroot)
+CORPUS_RAW=scripts/.workroot/raw python scripts/build-names-index.py --stats   # size profile, writes nothing
 python scripts/build-title-index.py --stats           # the same for the title shards
 ```
 
