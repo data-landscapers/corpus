@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: SLE
-ledger_rows: 39
+ledger_rows: 41
 not_held: 4
-record: 2ae7575ed500
+record: 45ea9a640b3c
 ---
 
 # News, Sep – Oct 2026
@@ -164,6 +164,20 @@ Sierra Leone's procurement review panel dismissed a bidder's complaint over the 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulator's spectrum, quality-of-service and broadcast monitoring systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NatCA Unveils State-of-the-Art Telecommunications Regulatory Equipments | Sierra Leone Monitor](https://www.sierraleonemonitor.com/natca-unveils-telecommunications-equipments/)** — Sierra Leone Monitor, 29 October 2026
+
+Sierra Leone's National Communications Authority unveiled new systems on 28 October 2026 for spectrum monitoring, quality of service, spectrum management and broadcast monitoring. The World Bank funded them under the Sierra Leone Digital Transformation Project.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -221,6 +235,20 @@ The Sierra Leone Road Safety Authority said in a public notice dated 2 October 2
 **[Sierra Leone: Government confirms cyberattack on 44 websites](https://thisdaysl.com/sierra-leone-government-confirms-cyberattack-on-44-websites/)** — This Day (Salone), 9 October 2026
 
 Sierra Leone's communications ministry confirmed that 44 website addresses, one a government institution's, were hit on 25 September through the system that administers the national internet domain. Service was restored the same day; how the attackers got in has not been made public.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Investigation into the cybercrime network raided in Freetown and Kenema</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[18 Arrested, 40 Detained Aftere Security Forces Raid Suspected International Cybercrime Network | Sierra Leone Monitor](https://www.sierraleonemonitor.com/security-forces-raid-cybercrime-network/)** — Sierra Leone Monitor, 27 October 2026
+
+Freetown and Kenema raids with NatCA; 1,206 phones, 339 SIM cards, 301 passports seized; ministry release.
 
 </div>
 
@@ -761,6 +789,14 @@ Sierra Leone's planning minister, the Statistician-General and UNFPA's country r
 **[UNFPA, Stats-SL train 147 master trainers ahead of census](https://sierraleoneconcordtimes.com/unfpa-stats-sl-train-147-master-trainers-ahead-of-census/)** — Concord Times, 20 October 2026
 
 Statistics Sierra Leone and UNFPA began training 147 master trainers and data-quality managers on 14 October 2026 for the digital census, whose census night is 1 December. The Statistician-General said all 29,000 tablets had arrived and about 22,508 enumeration areas had been mapped; Ireland funds UNFPA's support.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[STATS SL Commences Training of Trainers for 2026 Census - A-Z Multimedia Corporation](https://a-zsl.com/stats-sl-commences-training-of-trainers-for-2026-census/)** — A-Z Multimedia Corporation, 27 October 2026
+
+Began 26 Oct 2026; 30,000 tablets; enumerator training from 7 Nov; census night 1 Dec 2026.
 
 </div>
 

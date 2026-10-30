@@ -3,7 +3,9 @@ gov.policy--broadband-strategy,Movement,"A [National Broadband Strategy 2023-202
 
 The regulator set out its asks on spectrum pricing and management at an international congress in March 2026 ([framework](2026-03-13-natca-spectrum-pricing-mwc-barcelona)). That is a position, not an instrument: no consultation, draft or adopting decision follows it.
 
-The regulator does publish the operators' current network tariffs ([tariffs](2026-03-13-sierra-leone-natca-network-tariffs)). No target, milestone or delivery report under the broadband strategy is held, and its window closes in two years.",SLE-infra.connect-broadband-strategy|SLE-infra.connect-spectrum-framework|SLE-infra.connect-natca-tariff-publication,3,SLE-infra.connect-broadband-strategy,,,,,,,2026-08-31,0,Strategy 2023-2028 published by the ministry; no funding source or progress report on record
+The regulator does publish the operators' current network tariffs ([tariffs](2026-03-13-sierra-leone-natca-network-tariffs)). No target, milestone or delivery report under the broadband strategy is held, and its window closes in two years.
+
+2026-10-28 - [the regulator presented its new spectrum-monitoring, quality-of-service and automated spectrum-management systems funded by the World Bank](2026-10-29-sle-natca-unveils-state-of-the-art-telecommunications-regulatory-equipment).",SLE-infra.connect-broadband-strategy|SLE-infra.connect-spectrum-framework|SLE-infra.connect-natca-tariff-publication|SLE-infra.connect-natca-spectrum-monitoring-systems,3,SLE-infra.connect-broadband-strategy,,,,,,,2026-08-31,0,Strategy 2023-2028 published by the ministry; no funding source or progress report on record
 gov.policy--ai-strategy,Movement,"A [National AI Strategy](2026-05-28-national-ai-strategy-readiness) is in development, with a draft readiness diagnostic produced and consultations run.","The draft diagnostic and the consultations are what the repository holds; no strategy text, timetable or adopting decision is on record ([strategy](2026-05-28-national-ai-strategy-readiness)).
 
 What exists instead is an artificial-intelligence-in-government partnership already delivering training, and a public awareness campaign on deepfakes. Both are recorded separately, and both run ahead of the strategy that would frame them.
@@ -122,10 +124,6 @@ infra.cybersec--national-cybersecurity-readiness,"Mixed, a coordination centre a
 
 A published legal analysis maps six offences under the 2021 Act onto the scam ([offences](2026-07-23-whatsapp-scam-emptying-orange-money-sierra-leone)). No fraud prosecution under them has been found.
 
-The regulator ran a consumer education campaign on online fraud from July 2026 ([education](2026-07-28-natca-consumer-education-online-fraud)).
-
-The coordination centre has its own budget head, voted almost wholly for salaries in FY2026 ([estimates](2025-12-01-sle-fy2026-detailed-budget-estimates-companion)).
-
 2026-10-05 - the road safety authority [disclosed an unauthorised intrusion into the systems used to produce vehicle licences](2026-10-05-sle-slmonitor-slrsa-cyber-intrusion-fake-vehicle-licences).
 
 2026-10-09 - the communications ministry [confirmed that 44 website addresses were hit on 25 September 2026 by unauthorised access to the system that administers the national internet domain](2026-10-09-thisdaysl-sierra-leone-cyberattack-44-websites).
@@ -134,7 +132,9 @@ The coordination centre has its own budget head, voted almost wholly for salarie
 
 2025-01 — the ministry and ECOWAS [launched a national incident response team and digital forensics laboratory in Freetown](2025-01-17-sle-ecowas-and-sierra-leone-launch-national-cybersecurity-incident-respons); no incident statistics have been found.
 
-2025-05 — an Estonian cyber index [scored fighting cybercrime 14 of 16 and incident response 6 of 14, with protection of personal data and crisis management at zero](2025-05-15-sle-sierra-leone-ega-ncsi).",SLE-infra.cybersec-cyber-incident-response|SLE-infra.cybersec-nc3|SLE-infra.cybersec-cybercrime-act-2021|SLE-infra.cybersec-consumer-education|SLE-infra.cybersec-slrsa-licensing-system-intrusion|SLE-infra.cybersec-critical-sector-protection-plans|SLE-infra.cybersec-messaging-account-takeovers|SLE-infra.cybersec-national-domain-registry-compromise|SLE-infra.cybersec-ncs-2021-2025|SLE-infra.cybersec-national-cirt-forensics-lab|SLE-infra.cybersec-ncsi-fulfilment,2,SLE-infra.cybersec-nc3|SLE-infra.cybersec-cybercrime-act-2021,,,,,,,2026-08-31,0,Law in force and centre operating; no adopted strategy or founding instrument on record
+2025-05 — an Estonian cyber index [scored fighting cybercrime 14 of 16 and incident response 6 of 14, with protection of personal data and crisis management at zero](2025-05-15-sle-sierra-leone-ega-ncsi).
+
+2026-10-27 - [security forces and the regulator raided a suspected international cybercrime network in Freetown and Kenema, arresting 18 people](2026-10-27-sle-18-arrested-40-detained-aftere-security-forces-raid-suspected-internat); no charge has been reported.",SLE-infra.cybersec-cyber-incident-response|SLE-infra.cybersec-nc3|SLE-infra.cybersec-cybercrime-act-2021|SLE-infra.cybersec-consumer-education|SLE-infra.cybersec-slrsa-licensing-system-intrusion|SLE-infra.cybersec-critical-sector-protection-plans|SLE-infra.cybersec-messaging-account-takeovers|SLE-infra.cybersec-national-domain-registry-compromise|SLE-infra.cybersec-ncs-2021-2025|SLE-infra.cybersec-national-cirt-forensics-lab|SLE-infra.cybersec-ncsi-fulfilment|SLE-infra.cybersec-cybercrime-network-raid-investigation,2,SLE-infra.cybersec-nc3|SLE-infra.cybersec-cybercrime-act-2021,,,,,,,2026-08-31,0,Law in force and centre operating; no adopted strategy or founding instrument on record
 dpi.exchange--national-data-exchange-system,Movement,"The finance ministry reported [piloting a data exchange layer](2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure) on an open-source exchange platform, above a service bus that reaches the repository only as a prototype terms of reference.","The pilot was reported in August 2026 ([pilot](2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure)), and the service bus above it is held as a prototype terms of reference and nothing further ([prototype](2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank))).
 
 No connected agency count, go-live date or governing instrument is published. The identity agency's own argument, made at the same consultation, is that identity should come first — which is a position on sequencing rather than a description of what exists.
@@ -617,13 +617,13 @@ The 2021 mid-term census was the country's first digital census and its final re
 
 Fieldwork began in the week to 7 September 2026 on the [Global Development Network's five-country DPI Inclusivity Survey](2026-09-07-gdn-dpi-inclusivity-survey-deployment-linkedin), covering more than 5,000 households. No results are published.
 
-2026-09-15 — the census technical committee [received the national mapping completion report for the country's first digital census](2026-09-18-sle-sierraloaded-stats-sl-census-mapping-completion), leaving Census Night on 1 December 2026.
-
 2026-10-07 - the statistics agency [deployed the technology for the digital census, with enumeration by tablet set for 2 to 16 December 2026](2026-10-07-sle-sierraloaded-stats-sl-census-digital-systems-deployed).
 
 2026-10 — [the statistics office said the census budget had risen from an initial US$7 million to nearly US$60 million after the cartographic mapping](2026-10-12-sle-2026-census-budget-rises-from-7-million-to-nearly-60-million), [as the 50-day countdown to the first fully digital enumeration opened](2026-10-13-sle-sierra-leone-counts-down-to-first-fully-digital-census).
 
-2026-10-14 — [training of 147 master trainers opened with all 29,000 census tablets received and about 22,508 enumeration areas mapped](2026-10-20-sle-unfpa-stats-sl-train-147-master-trainers-ahead-of-census).",SLE-data.statistics-census-2026|SLE-data.statistics-dhs-2026|SLE-include.access-dpi-inclusivity-survey,3,SLE-data.statistics-census-2026,,,,,,,2026-08-31,0,Mid-term census final results held; 2026 census not yet enumerated; DHS launched
+2026-10-14 — [training of 147 master trainers opened with all 29,000 census tablets received and about 22,508 enumeration areas mapped](2026-10-20-sle-unfpa-stats-sl-train-147-master-trainers-ahead-of-census).
+
+2026-10-26 - [training of trainers began, with enumerator training from 7 November and census night on 1 December 2026](2026-10-27-sle-stats-sl-commences-training-of-trainers-for-2026-census-a-z-multimedia).",SLE-data.statistics-census-2026|SLE-data.statistics-dhs-2026|SLE-include.access-dpi-inclusivity-survey,3,SLE-data.statistics-census-2026,,,,,,,2026-08-31,0,Mid-term census final results held; 2026 census not yet enumerated; DHS launched
 data.statistics--statistics-from-administrative-data,Movement,Two administrative systems now publish: the [school census](2022-06-01-sierra-leone-mbsse-2021-annual-school-census-final-report) from the education system and the [financial system's annual report](2026-06-01-sierra-leone-accountant-general-department-annual-report-2025).,"The education management information system runs the annual school census and its 2021 final report is published ([census](2022-06-01-sierra-leone-mbsse-2021-annual-school-census-final-report)).
 
 The Accountant General's 2025 annual report records that Phase II of the integrated financial management system reached 56 further ministries, departments and agencies, that 56 subvented agencies were trained on it and on electronic funds transfer, and that those agencies must process all withdrawals and petty cash through it from January 2026 ([report](2026-06-01-sierra-leone-accountant-general-department-annual-report-2025)).
