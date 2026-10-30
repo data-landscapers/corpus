@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: MOZ
-ledger_rows: 54
+ledger_rows: 55
 not_held: 18
-record: 2061fcb7b9f0
+record: deb4535aaec0
 ---
 
 # News, Sep – Oct 2026
@@ -125,6 +125,20 @@ A proposed Internet for All strategy for Mozambique, to be implemented by the co
 **[Mozambique Plans to Integrate AI into Public Finance Management Systems](https://consulting.co.mz/mozambique-plans-to-integrate-ai-into-public-finance-management-systems/)** — Consulting.co.mz, 12 October 2026
 
 Mozambique's government approved a Public Finance Management Strategy for 2026–2035 that includes a digital transformation plan for 2026–2030. It names AI, machine learning, data mining and the Internet of Things for treasury, debt and state-asset management, and puts all major processes on the e-SISTAFE system by 2035. The approval date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Transformation Strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique’s Digital Plan Has 2030 Targets. Its Approval Date Says “XX”.](https://btw.media/en/mozambique-digital-roadmap-2030-targets-approval-xx)** — BTW Media, 27 October 2026
+
+22 Aug 2026 draft still unapproved; US$1.5-2.0bn financing need, six pillars, 14 flagship 2030 commitments.
 
 </div>
 
