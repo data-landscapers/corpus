@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,SEPE (Sistema Electrónico de Serviços Públicos),Angola,eservices,web portal,Public Administration,national,2026-10-01-ago-pti-sepe-online-after-kazu-claim
 AGO,Simplifica 1.0 and 2.0,Angola,eservices,www.sepe.gov.ao,State Reform Program,,2025-05-21-ago-sjasc-new-technologies-public-management-barrier
+AGO,Portal dos Serviços Públicos Electrónicos (SEPE),Angola,eservices,portal,,,2026-10-29-ago-pti-homologacao-diplomas-codigo-qr-inaarees
 BDI,Chatbot WhatsApp OBR,Chatbot WhatsApp OBR,other,WhatsApp,OBR,,2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e
 BEN,eservices.anip.bj,Benin,eservices,web portal,ANIP,national,2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption
 BEN,ANIP BJ mobile app,Benin,eservices,mobile app,ANIP,national,2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption
@@ -107,6 +108,7 @@ GAB,edgdi.dgdi.ga,site de la DGDI,eservices,,DGDI,,2026-10-17-gab-identite-numer
 GAB,portail national de services Gabon Digital,portail national de services,other,,Gabon Digital programme,,2026-10-17-gab-identite-numerique-quand-pourra-t-on-faire-une-demarche-sans-redonner-ses-papier
 GAB,Legislative Work Management Platform (GTLAN),GTLAN,other,,National Assembly,,2026-10-21-gabon-parliament-digital-platform
 GAB,Gabon Connect,GAB,eservices,,Government of Gabon,"tax, employer formalities, non-tax revenue, customs, land registry",2026-10-22-gab-gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-p
+GAB,Gabon Connect,Gabon,eservices,,Ministry of Economy and Finance,,2026-10-29-gab-gabon-connect-le-ministere-de-leconomie-sollicite-lexpertise-de-lapdpv
 GHA,Interior Ministry online digital services portal,Ghana,eservices,,Ministry of the Interior,,2025-12-11-interior-ministry-digital-services-portal-graphic
 GHA,Ghana.gov portal,Ghana,eservices,,,,2024-01-01-ghana-digital-economy-policy-and-strategy
 GHA,e-Payment portal,Ghana,eservices,,,,2024-01-01-ghana-digital-economy-policy-and-strategy
@@ -137,6 +139,7 @@ KEN,e-Citizen,Kenya,eservices,e-Citizen,Government of Kenya,,2024-12-03-ken-ruto
 KEN,eCitizen,Kenya,eservices,,Government of Kenya,,2024-09-29-ken-digital-leaders-spotlight-kenya
 KEN,eCitizen,Kenya,eservices,,,,2026-02-17-ken-huduma-kenya-clarifies-end-of-physical-business-certificates-after-eci
 KEN,eCitizen,eCitizen,eservices,,Government of Kenya,,2026-10-28-xaf-kenya-calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime
+KEN,eCitizen,Kenya,eservices,,National Treasury,,2026-10-28-ken-national-treasury-pushes-new-regulations-plan-to-run-e-citizen
 LBR,LRA eServices,Liberia,other,,Liberia Revenue Authority,,2026-04-07-liberia-lra-adjustment-goods-and-services-tax-rates
 LBR,LITAS,Liberia,other,,,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
 LBR,e-GP,Liberia,other,,PPCC,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
@@ -237,6 +240,8 @@ SOM,National Digital Government Portal,Somalia,eservices,,,,2026-10-19-som-devel
 SOM,Government Single Sign-On (SSO),Somalia,other,,,,2026-10-19-som-developmentaid-eardip-api-gateway-sso-portal-reoi
 SOM,National Digital Government Portal,Somalia,other,,Ministry of Communications and Technology,,2026-10-16-som-wb-op00475480-api-gateway-sso-portal-reoi
 SOM,Electronic Travel Authorization System (eVisa),Somalia,eservices,,Immigration and Citizenship Agency,,2026-10-21-som-somali-federal-government-says-evisa-dispute-with-somaliland-resolved-but-hargeisa-denies-agreement
+SOM,HALMEEL (National Unified Public Service Delivery Centre),Somalia,other,,Government of Somalia,,2026-10-28-som-halmeel-can-somalia-build-a-connected-digital-government
+SOM,NIRA national identity system,Somalia,other,,NIRA,,2026-10-28-som-halmeel-can-somalia-build-a-connected-digital-government
 SSD,NCA e-Services Platform,South Sudan,eservices,,National Communication Authority,,2026-02-13-nca-eservices-platform-revenue-onecitizendaily
 SSD,Business Registration Service (BRS),South Sudan,eservices,,Ministry of Justice and Constitutional Affairs,,2025-01-01-business-registration-service-south-sudan
 SSD,eServices.gov.ss,South Sudan,eservices,,,,2025-01-01-business-registration-service-south-sudan
@@ -294,6 +299,8 @@ TZA,NeST (National e-Procurement System of Tanzania),Tanzania,other,,PPRA,,2024-
 TZA,iNDLS,Integrated National Digital Library System,eservices,web and mobile app,Tanzania Library Services Board,,2026-10-21-tza-tanzania-launches-digital-library-system-as-mkenda-urges-board-to-prio
 TZA,BRELA Online Services (BOS),TZA,eservices,,Business Registrations and Licensing Agency (BRELA),,2026-04-08-tza-taarifa-kwa-umma-matumizi-ya-mfumo-ulioboreshwa-wa-utoaji-huduma
 TZA,mGov,Government Mobile Platform,eservices,mobile,,,2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali
+TZA,Ajira Portal,Tanzania,eservices,,Public Service Recruitment Secretariat,,2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do
+TZA,Government Service Directory,Tanzania,other,,e-GA,,2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do
 UGA,U-Learn Platform,Uganda,eservices,,NITA-U with Ministry of Education and Sports,,2026-08-12-uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cas
 UGA,Uganda Human Rights Commission Case Management System,Uganda,other,,Uganda Human Rights Commission,,2026-08-12-uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cas
 UGA,Electronic Court Case Management Information System (ECCMIS),ECCMIS,eservices,built in-house by Judiciary staff,Judiciary of Uganda,,2026-04-23-uga-nilepost-eccmis-training-42-courts

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-ken-national-treasury-pushes-new-regulations-plan-to-run-e-citizen",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "TNX Africa quotes the Auditor-General's special audit report on eCitizen, tabled 2 April 2025, as noting that the majority of government services are provided through the platform.",
+   "as_of": "2025-04-02",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

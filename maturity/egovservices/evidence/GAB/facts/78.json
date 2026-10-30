@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-gab-gabon-connect-le-ministere-de-leconomie-sollicite-lexpertise-de-lapdpv",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "GabonMediaTime says the Gabon Connect platform was set up in March 2026 to put tax, customs, land and social security procedures online, with a single payroll declaration and TresorPay modules still being prepared.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Gabon Connect",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gabon Connect",
+   "country_label": "Gabon",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
