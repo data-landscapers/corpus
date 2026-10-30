@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: GIN
-ledger_rows: 31
+ledger_rows: 34
 not_held: 3
-record: 067d15e5dad2
+record: 1298e4ef75a3
 ---
 
 # News, Sep – Oct 2026
@@ -261,6 +261,8 @@ Summarised under [Cybersecurity](#cybersecurity).
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -269,6 +271,22 @@ Summarised under [Cybersecurity](#cybersecurity).
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">API/PNR passenger-data system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Données passagers et frontières : la Guinée mise sur l'expertise américaine pour bâtir son dispositif API/PNR](https://newsaero.info/fr/article/institutions/guinee-api-pnr-donnees-passagers-washington)** — NewsAero, 27 October 2026
+
+Arrêté of 25 June 2026 sets airline data duties, six-month retention, ISO 27001 hosting; BOT operator not excluded.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 
@@ -295,6 +313,20 @@ Conakry Terminal, a subsidiary of Africa Global Logistics in Guinea, launched on
 **[Appel à manifestation d'intérêt pour le recrutement d'un cabinet pour la conception et la mise en œuvre d'un scheme national de paiement (SNP) en République de Guinée](https://letravail224.com/appel-a-manifestation-dinteret-pour-le-recrutement-dun-cabinet-pour-la-conception-et-la-mise-en-oeuvre-dun-schema-national-de-paiement-snp-en-republique-de-guinee/)** — WARDIP-Guinée (MCENI), via Le Travail 224, 1 October 2026
 
 Guinea's WARDIP project, under the digital economy ministry, invited expressions of interest on 1 October 2026, due by 23 October, from firms to design and implement a national payment scheme. The nine-month assignment supports the national switch GuiM and the central bank, BCRG, on governance, rules, security and a business model through to a pilot. It is paid from a US$60 million IDA financing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NimbaPay national instant payment system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée : NimbaPay traite 7,6 millions $ de transactions et connecte 7 établissements en 4 mois](https://www.agenceecofin.com/actualites/2610-142742-guinee-nimbapay-traite-7-6-millions-de-transactions-et-connecte-7-etablissements-en-4-mois)** — Agence Ecofin, 26 October 2026
+
+Seven institutions, 67,000 transactions, GNF 68bn by mid-October 2026; BCRG drafting payments bill, 2027–2030 strategy.
 
 </div>
 
@@ -361,6 +393,20 @@ Guinea's procurement regulator opened an operation to build and clean up a datab
 **[MATD-DGE : Djenabou Touré lance l’atelier sur l’extension du Registre national des personnes physiques](https://www.guinee114.com/2026/09/18/matd-dge-djenabou-toure-lance-latelier-sur-lextension-du-registre-national-des-personnes-physiques/)** — Guinee114.com, 18 September 2026
 
 Guinea's territorial administration minister, Djenabou Touré, opened a workshop on 18 September 2026 on extending the national register of natural persons (RNPP), run jointly by the civil registration and identification office ONECI and the elections directorate. She asked that the first phase of an identity verification and validation platform be completed before the end of 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National civil-status register (RENEC) implementation project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée : le MATD lance, via l’ONECI, le projet RENEC pour moderniser et sécuriser l’état civil](https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/)** — GUISTAT, 28 October 2026
+
+Budget-funded register built by Digitech to 2028; first centres in 2026; unique identifier per citizen from birth.
 
 </div>
 
