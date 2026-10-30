@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-14-gin-decret-fixant-les-conditions-de-securite-d-integrite-de-securisation-e",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Decree D/2025/053 provides for the national register of natural persons, with practical implementation measures left to PN-RAVEC (Art. 39).",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "registre national des personnes physiques",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "registre national des personnes physiques",
+   "country_label": "Guinea",
+   "class": "population",
+   "platform": "",
+   "owner": "organe en charge de l'état civil et de l'identification",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

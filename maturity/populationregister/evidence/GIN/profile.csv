@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,population,register,coverage,underway,2026-09-18,GIN-001;GIN-003;GIN-004;GIN-005;GIN-006,,
-GIN,population,vital,coverage,,,,,nothing held
-GIN,population,used,coverage,,,,,nothing held
+GIN,population,register,coverage,underway,2026-09-18,GIN-001;GIN-003;GIN-004;GIN-005;GIN-006;GIN-007,,
+GIN,population,vital,coverage,,,,,nothing found
+GIN,population,used,coverage,,,,,nothing found

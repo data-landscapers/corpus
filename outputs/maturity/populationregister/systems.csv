@@ -23,6 +23,7 @@ CIV,RNPP,Registre national des personnes physiques,population,,,,2026-09-04-civ-
 CIV,ONECI civil status system,Cote d'Ivoire,other,digital civil-status system linked to a national server,ONECI,"civil-status centres, national server, Registre national des personnes physiques",2025-09-17-civ-digitalmag-id-day-2025-oneci-nni
 CIV,RNPP,Registre National des Personnes Physiques,population,,ONECI,,2025-09-10-civ-koaci-nni-reference-demarches-administratives
 CIV,RNPP,RNPP,population,,ONECI,,2026-05-01-civ-la-cote-d-ivoire-vers-une-identite-juridique-et-numerique-integree-au
+CIV,RNPP,National Register of Natural Persons,population,,ONECI,,2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet
 COD,registre de la population de Kinshasa,RD Congo (Kinshasa province),population,compilation server,"Ville-province de Kinshasa, provincial Interior Ministry",provincial,2025-11-04-radiookapi-debut-digitalisation-registre-population-kinshasa
 COD,Fichier general de la population (FGP),RDC,other,,ONIP,,2024-08-11-cod-acp-etat-civil-communication-onip-fgp
 CPV,SNIAC,Sistema Nacional de Identificação e Autenticação Civil,population,central civil identification database with PKI,Conselho de Gestão (coordinated by the registry and identification ministry),,2013-09-17-cpv-bo-lei-43-viii-2013-sniac
@@ -40,6 +41,7 @@ GIN,Registre National des Personnes Physiques (RNPP),Guinea,population,,PN-RAVEC
 GIN,Registre national des personnes physiques (RNPP),Guinee,population,,ONECI,,2026-07-25-guinee-oneci-ng-tech-innovation-identification-etat-civil
 GIN,Registre national des personnes physiques (RNPP),Guinea,population,,ONECI,,2026-03-29-plfi-2026-matd-commission-des-lois-cnt
 GIN,Registre National des Personnes Physiques (RNPP),Guinea,population,,body in charge of civil status and identification,communal and consular registers under a national register,2025-04-14-gin-decret-fixant-les-modalites-d-inscription-et-de-tenue-du-registre-nati
+GIN,registre national des personnes physiques,Guinea,population,,organe en charge de l'état civil et de l'identification,,2025-04-14-gin-decret-fixant-les-conditions-de-securite-d-integrite-de-securisation-e
 KEN,Maisha Integrated Population Register (IPRS),Kenya,population,,"Directorate of Population Registration Services, State Department for Immigration and Citizen Services","Primary, secondary and tertiary registration agencies feed a central repository",2026-08-30-integrated-population-registration-service
 KEN,Integrated Population Register System (IPRS),Kenya,population,,State Department for Immigration and Citizen Services,,2025-08-11-eacc-iprs-integration
 KEN,Integrated Population Registration Services (IPRS),Kenya,population,,,,2026-06-26-ngao-trained-revised-id-registration

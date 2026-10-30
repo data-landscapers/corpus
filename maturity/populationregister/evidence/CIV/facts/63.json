@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Cote d'Ivoire has established the National Register of Natural Persons (RNPP) as a foundational component of its identity infrastructure, managed alongside ONECI's systems.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "National Register of Natural Persons",
+   "class": "population",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
