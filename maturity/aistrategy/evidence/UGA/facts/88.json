@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-uga-egypt-uganda-discuss-cooperation-in-digital-transformation-ai",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Egypt's State Information Service reports that Egyptian expertise is to support Uganda's efforts to develop its national AI strategy, which is being developed.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "National AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

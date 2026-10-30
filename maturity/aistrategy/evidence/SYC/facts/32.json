@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-29-syc-cabinet-business-wednesday-28-october-2026",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Seychelles' Cabinet approved the Seychelles Digital & AI Strategy 2026-2031 on 28 October 2026 as the national framework for digital and AI transformation through 2031.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Seychelles Digital & AI Strategy 2026-2031",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "Cabinet approved establishing an Inter-Ministerial Digital and AI Coordination Committee, chaired by the Minister responsible for ICT, with focal points in Ministries to support implementation of the strategy.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Inter-Ministerial Digital and AI Coordination Committee",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Seychelles Digital & AI Strategy 2026-2031",
+   "country_label": "Seychelles Digital & AI Strategy 2026-2031",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

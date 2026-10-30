@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-28-mar-medias24-decret-2-26-831-attributions-ia-rahhou",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Decree 2-26-831 of 26 October 2026 charges minister Ahmed Rahhou with drawing up the government's AI policy and overseeing its implementation, per Médias24.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Government AI policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

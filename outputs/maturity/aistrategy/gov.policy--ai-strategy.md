@@ -21,9 +21,9 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 7 |
+| 4 Operating | 8 |
 | 3 Established | 11 |
-| 2 Nascent | 24 |
+| 2 Nascent | 23 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
 | No evidence | 5 |
@@ -82,6 +82,13 @@ Rwanda has an adopted national AI policy with an office to carry it out, and app
 - TechTrends Africa says Rwanda approved a National AI Agency as a standalone institution for AI governance; no event date given, so dated by publication (2026-07-28) ([source, 2026-07-28](https://techtrends.africa/how-african-governments-are-regulating-ai-and-who-is-getting-it-right/)).
 - CIPESA states Rwanda's AI policy mandates the Responsible AI office under the Ministry of ICT and Innovation to implement it, with RURA as technical regulator and NCSA overseeing data protection; no date is given, so the document's published date is used ([source, 2026-07-23](https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/)).
 - The Prime Minister said the government has adopted a National AI Policy; the article gives no adoption date, so the published date 2026-09-21 is used ([source, 2026-09-21](https://www.newtimes.co.rw/article/39113/news/rwanda/energy-compute-capacity-the-biggest-constraints-to-rwandas-ai-ambitions-pm)).
+
+### Seychelles: 4 Operating
+
+Seychelles' Cabinet adopted a digital and AI strategy to 2031 in October 2026, with a committee to coordinate it; its funding is not known.
+
+- Seychelles' Cabinet approved the Seychelles Digital & AI Strategy 2026-2031 on 28 October 2026 as the national framework for digital and AI transformation through 2031 ([source, 2026-10-28](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)).
+- Cabinet approved establishing an Inter-Ministerial Digital and AI Coordination Committee, chaired by the Minister responsible for ICT, with focal points in Ministries to support implementation of the strategy ([source, 2026-10-28](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)).
 
 ### Zambia: 4 Operating
 
@@ -260,12 +267,6 @@ Mozambique's draft national AI strategy was in consultation in 2026 and a commis
 Namibia's draft national AI strategy reached national validation in September 2026; it has still to go to Cabinet.
 
 - The Namibian reports NCRST chief executive Anicia Peters saying the National AI Strategy, developed with 215 local experts and stakeholders and UNESCO, UNDP and KAS support, had reached synthesis and national validation, before the minister and then Cabinet ([source, 2026-09-23](https://www.namibian.com.na/national-ai-institute-launched/)).
-
-### Seychelles: 2 Nascent
-
-Seychelles validated a draft national digital and AI strategy for 2026 to 2031 in July 2026; no source found reports its adoption.
-
-- A World Bank-linked consultant writes that the national validation workshop for Seychelles' National Digital & AI Strategy 2026-2031, which covers responsible AI adoption, concluded in the two weeks before 10 July 2026; no adoption is stated ([source, 2026-07](https://www.linkedin.com/posts/baidy-s-91972228_digitaltransformation-ai-digitalgovernment-activity-7481275398413152257-B36W)).
 
 ### Sierra Leone: 2 Nascent
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-nga-naigf-inaugurates-advisory-council-responsible-ai",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The report says the new NAIGF advisory council supports the implementation of Nigeria's national AI strategy, which it treats as an existing strategy being implemented.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Nigeria's national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria's national AI strategy",
+   "country_label": "Nigeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

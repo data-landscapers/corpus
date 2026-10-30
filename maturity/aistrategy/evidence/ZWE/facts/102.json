@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-zwe-it-must-create-jobs-improve-services-minister",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Mavetera said the National AI Strategy 2026-2030 was launched by President Mnangagwa in March and focus should now be on implementing it.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "National AI Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy 2026-2030",
+   "country_label": "Zimbabwe",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

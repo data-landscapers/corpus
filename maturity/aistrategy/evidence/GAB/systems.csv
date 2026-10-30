@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GAB,Comité technique national pour l'Intelligence artificielle (CTN-IA),Gabon,other,,,,2025-03-20-gab-agp-atelier-strategie-nationale-ia
+GAB,MIA (Moov Interactive Assistant),MIA,other,"voice call, USSD, SMS",Moov Africa Gabon Telecom,,2026-08-24-infosgabon-moov-mia-assistant-vocal-sans-internet
+GAB,Missamou,Missamou,other,Facebook Messenger,Government of Gabon,,2025-07-17-gab-wearetech-missamou-chatbot-gouvernemental

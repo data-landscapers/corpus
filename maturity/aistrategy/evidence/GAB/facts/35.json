@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-24-infosgabon-moov-mia-assistant-vocal-sans-internet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MIA (Moov Interactive Assistant)",
+   "country_label": "MIA",
+   "class": "other",
+   "platform": "voice call, USSD, SMS",
+   "owner": "Moov Africa Gabon Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes an operator's voice AI product; no government AI strategy stated."
+}

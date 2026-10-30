@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "strategy",
-      "stage": "2",
-      "standing": "draft",
-      "use": "",
+      "stage": "4",
+      "standing": "adopted",
+      "use": "body",
       "cap": "",
       "flags": "",
-      "stage_sources": "SYC-001",
-      "gaps": "No source found says a national AI strategy is adopted and still running.",
-      "note": "The National Digital and AI Strategy 2026-2031 went through national validation in July 2026, and a validated draft is still a draft; no adoption is stated.",
-      "as_at": "2026-10-22"
+      "stage_sources": "SYC-002;SYC-003",
+      "gaps": "No source found names public money allocated to carrying out the strategy.",
+      "note": "Cabinet approved the Digital & AI Strategy 2026-2031 on 28 October 2026 and, the same day, the establishment of an inter-ministerial committee to coordinate its implementation. No money tied to it is reported, so it is not stage 5.",
+      "as_at": "2026-10-30"
     }
   ]
 }

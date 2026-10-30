@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-17-gab-wearetech-missamou-chatbot-gouvernemental",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Missamou",
+   "country_label": "Missamou",
+   "class": "other",
+   "platform": "Facebook Messenger",
+   "owner": "Government of Gabon",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a government chatbot launched under a wider digital transformation strategy; no national AI strategy stated."
+}
