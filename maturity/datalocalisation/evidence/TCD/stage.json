@@ -1,16 +1,17 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a rule that data must be kept in the country, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-datalocalisation.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "3",
+      "standing": "in-force",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-001",
+      "gaps": "No body is named to check where the data are kept or to grant exemptions; no organisation is named as ordered, penalised or exempted under the order.",
+      "note": "A ministerial order of 27 August 2025 requires Starlink to host its users' connection logs, IP addresses and traffic data in Chad, a rule in force on a named kind of data, so stage 3. The minister issued it and no regulator is named to enforce it, so not stage 4.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

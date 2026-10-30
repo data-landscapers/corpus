@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-26-tza-central-bank-issues-new-cloud-computing-guidelines-for-financial-servi",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Bank of Tanzania issued its 2025 cloud guidelines, signed by Governor Emmanuel Mpawe Tutuba, which bar mission-critical systems of financial service providers (core banking, payments infrastructure, essential databases) from being hosted outside Tanzania.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Bank of Tanzania Cloud Computing Guidelines for Financial Service Providers, 2025",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "Under the guidelines the Bank of Tanzania itself approves cloud arrangements in writing for financial service providers it licenses, and sets sanctions for breach up to licence revocation.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Bank of Tanzania Cloud Computing Guidelines for Financial Service Providers, 2025",
+   "class": "rule"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank of Tanzania Cloud Computing Guidelines for Financial Service Providers, 2025",
+   "country_label": "Tanzania",
+   "class": "rule",
+   "platform": "",
+   "owner": "Bank of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

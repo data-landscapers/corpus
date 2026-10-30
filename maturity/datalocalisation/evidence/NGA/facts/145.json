@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-29-nga-326-mdas-spend-n3-8trn-on-technology-as-nigeria-moves-to-localise-gove",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BusinessDay reports the Central Bank of Nigeria issued a circular requiring payment data to be localised in Nigeria by 1 January 2027.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "CBN payment data localisation circular",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "The CBN's payments system supervision department director said the CBN supervises compliance with the payment data localisation requirement, with sanctions reserved for deliberate non-compliance.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "CBN payment data localisation circular",
+   "class": "rule"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Sovereign Cloud Initiative",
+   "country_label": "National Sovereign Cloud Initiative",
+   "class": "other",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

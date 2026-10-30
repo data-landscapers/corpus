@@ -1,16 +1,17 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a rule that data must be kept in the country, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-datalocalisation.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "3",
+      "standing": "in-force",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-001",
+      "gaps": "No body is named to check compliance with the instruction or grant exemptions from it; no organisation is named as ordered, penalised or exempted under it.",
+      "note": "The Prime Minister's instruction of 23 January 2026 that public platforms and data held by private hosts or abroad be brought back to the two government datacentres is a duty on public bodies to host in a named data centre in the country, so stage 3. No enforcer is named, so not stage 4.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

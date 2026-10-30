@@ -14,6 +14,7 @@ BFA,National datacenter (planned),"datacenter national, FCFA 20 milliards, mise 
 BFA,G-Cloud,Cloud gouvernemental du Burkina Faso,other,,ANPTIC / Ministère de la Transition digitale,national; 354 communes connected,2026-08-05-burkina-g-cloud-portal
 BFA,G-Cloud,G-Cloud,other,,ANPTIC,,2026-08-02-100-visages-du-burkina-digital-michael-folane
 BFA,IKA CLOUD,"IKA CLOUD, hébergeur 100 % local lancé le 2026-07-31",other,,IKA Solution (private company),"businesses, individuals, start-ups, institutions",2026-08-01-burkina-ika-cloud-hebergeur-local-donnees
+BFA,Two modular government datacentres (Cloud gouvernemental),Burkina Faso,other,government cloud,"State, Ministry of Digital Transition",,2026-02-20-bfa-burkina-faso-zoom-sur-les-12-chantiers-strategiques-du-ministere-de-la
 BWA,Data Protection Act,Data Protection Act,rule,,Government of Botswana,,2025-11-25-govt-moves-to-in-house-local-data
 BWA,Delta Digital Data Centre,Bofinet Delta Digital Data Centre,other,Tier 3 certified data centre,Bofinet,government services to migrate from the Department of Shared Digital Services,2025-11-25-govt-moves-to-in-house-local-data
 BWA,Botswana adequacy list,Botswana's list of countries with adequate protection,other,,,,2026-06-15-africas-digital-future-depends-on-seamless-data-flows
@@ -52,6 +53,7 @@ EGY,National data-centre strategy (in preparation),استراتيجية وطني
 ERI,Eritel Nextcloud Private Cloud Services,Eritel Private Cloud,other,Nextcloud,Eritel Telecom Corporation,,2026-08-31-eritel-private-cloud-services
 ETH,Gotera Cloud (G-Cloud),Gotera Cloud (G-Cloud),other,,Information Network Security Administration (INSA),"central government institutions; e-government, digital finance and other sectors",2026-04-06-insa-empowering-ethiopia-digital-sovereignty-gotera-cloud
 ETH,Personal Data Protection Proclamation (Proclamation No. 1321/2024),Personal Data Protection Proclamation,rule,,Parliament of Ethiopia,data controllers and processors,2024-07-24-data-localisation-requirement-proclamation-1321-2024
+ETH,NBE Directive No. SBB/94/2025,Ethiopia,rule,,National Bank of Ethiopia,,2025-11-07-eth-banking-on-data-regulatory-expectations-for-data-storage-protection-an
 GAB,"Datacenter Tier III (Carrier Hotel neutre, ACE II)",Datacenter Tier III / Gabon Datacenter,other,,"ACE Gabon SA, state company under the Ministry of Digital Economy","operators, businesses, administrations",2026-07-31-gabon-datacenter-tier-iii-avancement-chantier
 GAB,"ST Digital national sovereign data centre, Nkok",Data Center National et souverain du Gabon,other,,ST Digital,national,2026-07-08-gabon-sovereign-datacenter-technical-spec
 GAB,"ST Digital national sovereign data centre, Nkok",Data Center National et souverain du Gabon,other,,ST Digital,national,2026-07-07-gabon-datacenter-inauguration-figures
@@ -174,6 +176,9 @@ NGA,OADC Lagos data centre campus,OADC Lagos campus,other,,OADC,private sector,2
 NGA,Nigerian commercial data centre market,"commercial data centres, 50-56 MW live, about 124 MW installed",other,,"OADC, Rack Centre, Kasi Cloud, Galaxy Backbone, Equinix",,2026-07-07 CBN's local data order puts Nigeria's data centres to test
 NGA,MTN Sifiso Dabengwa Data Centre,Sifiso Dabengwa Data Centre,other,,MTN Nigeria,private sector,"2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing"
 NGA,AWS Local Zones Lagos,AWS Local Zones location in Lagos,other,AWS,Amazon Web Services,"private sector; healthcare, financial services and public sector named as possible users",2023-01-26-aws-launches-new-aws-local-zones-location-in-lagos-nigeria-techcabal
+NGA,CBN data localisation circular,CBN circular on data localisation,rule,,CBN,,2026-10-29-nga-cbn-nitda-allay-banks-fears-over-january-2027-data-localisation-deadli
+NGA,CBN circular PSS/DIR/PUB/CIR/001/004,Nigeria,rule,,Central Bank of Nigeria,,2026-06-15-nga-introduction-of-market-structure-requirements-data-localisation-ultima
+NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,other,,NITDA,,2026-10-29-nga-326-mdas-spend-n3-8trn-on-technology-as-nigeria-moves-to-localise-gove
 RWA,AWS Outposts,AWS Outposts Rwanda,other,Amazon Web Services,"Amazon Web Services, with Sand Technologies",government institutions and enterprises,2026-04-17 Amazon Web Services launches Outposts in Rwanda. - Montjalinews
 SDN,Undeclared data localization policy of the Central Bank and other government institutions,,other,,Central Bank of Sudan,national,2023-10-21-advox-sudan-conflict-impact-ict-digital-transformation
 SEN,Diamniadio National Datacenter (DND),Data Center National de Diamniadio,other,Huawei-built,Government of Senegal,state,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
@@ -211,6 +216,7 @@ TCD,National Data Center,national data center,other,,ADETIC,government instituti
 TCD,100 micro data centers,micro data centers,other,,ADETIC,government institutions,2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch
 TCD,National Data Center,National Data Center,other,,"Ministry of Telecommunications, Digital Economy and Digitalization (PMICE)",,2026-01-06 Chad invests 175m in national data center and networks
 TCD,Centre national des données numériques,Centre national des données numériques du Tchad,other,Huawei,Government of Chad (PMICE),,2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation
+TCD,Arrete ministeriel du 27 aout 2025 on Starlink,Chad,rule,,Ministry of Telecommunications,,2025-08-29-tcd-telecoms-ndjamena-accentue-la-pression-sur-airtel-moov-et-starlink
 TGO,Lomé Data Centre,Lomé Data Centre (LDC),other,,"Société d'Infrastructures Numériques (SIN), state-owned",businesses (private cloud via ST DIGITAL partnership),2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive
 TGO,IPDCP international transfer authorisation,demandes d'autorisation de transfert de données personnelles à l'international (IPDCP),other,,Instance de protection des données à caractère personnel (IPDCP),,2026-01-31-togo-ipdcp-donnees-numeriques-nouvelles-exigences-operateurs
 TGO,IPDCP stated aim to require in-country storage of personal data,imposer le stockage des données personnelles des Togolais au Togo,other,,Instance de protection des données à caractère personnel (IPDCP),,2026-01-31-togo-ipdcp-donnees-numeriques-nouvelles-exigences-operateurs
@@ -228,6 +234,7 @@ TZA,AI data centres (planned),AI data centres,other,,Government of Tanzania (Min
 TZA,PDPC approval of personal data transfers abroad,Personal Data Protection Commission transfer approvals,other,,Personal Data Protection Commission (PDPC),,2026-08-15-tanzania-758-towers-world-bank-ucsaf-connectivity
 TZA,Health data stored within the country (proposed measure),health data stored in Tanzania,other,,Ministry of Health,,2026-07-31-tanzania-ai-drive-in-healthcare-amid-data-privacy-push
 TZA,Wingu Cloud Exchange (WCX),Wingu Cloud Exchange,other,"Wingu Compute, Kubernetes",Wingu Africa,,2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview
+TZA,"Bank of Tanzania Cloud Computing Guidelines for Financial Service Providers, 2025",Tanzania,rule,,Bank of Tanzania,,2025-08-26-tza-central-bank-issues-new-cloud-computing-guidelines-for-financial-servi
 UGA,"Cross-border transfer requirement under the Data Protection and Privacy Act, Cap. 97 (WhatsApp/Meta PDPO decision 20 Feb 2026)",,other,,Personal Data Protection Office,,2026-07-29-whatsapp-privacy-updates-uganda-data-protection-enforcement
 UGA,National Data Centre,National Data Centre,other,,NITA-U,"ministries, departments and agencies (utilisation 70 percent, target 83 percent by FY 2029/30)",2026-06-22-nita-u-five-year-digital-strategy
 UGA,National AI Research Cloud,National AI Research Cloud,other,,Makerere University with RENU,innovators and researchers,2026-03-16-musenero-launches-national-ai-research-cloud

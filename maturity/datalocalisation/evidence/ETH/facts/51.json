@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-07-eth-banking-on-data-regulatory-expectations-for-data-storage-protection-an",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The law firm Haymanot & Advocates says National Bank of Ethiopia Directive No. SBB/94/2025 requires all banks, foreign subsidiaries and branches included, to store and process customer and core banking data, primary and backup, within Ethiopia.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "NBE Directive No. SBB/94/2025",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "The same source says the National Bank of Ethiopia issued the Directive for the banks it licenses and that transfers of core banking data abroad need its prior written approval.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "NBE Directive No. SBB/94/2025",
+   "class": "rule"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NBE Directive No. SBB/94/2025",
+   "country_label": "Ethiopia",
+   "class": "rule",
+   "platform": "",
+   "owner": "National Bank of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

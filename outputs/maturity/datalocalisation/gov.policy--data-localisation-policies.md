@@ -22,11 +22,11 @@ The African Union's Data Policy Framework, of 2022, asks states to keep only cer
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 12 |
-| 3 Established | 12 |
+| 3 Established | 14 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 25 |
+| No evidence | 23 |
 
 ## Countries
 
@@ -127,11 +127,23 @@ Botswana's data protection law, in effect since January 2025, requires a copy of
 
 - Mmegi reports that the Data Protection Act, in effect since January 2025, allows data transfers abroad only to approved countries and requires a copy of the data to remain in Botswana; the report is dated 2025-11-25 and gives no other date for the statement ([source, 2025-11-25](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news)).
 
+### Burkina Faso: 3 Established
+
+The Prime Minister ordered public platforms and data brought back to two government datacentres in 2026; no body is named to enforce it.
+
+- The Prime Minister instructed the repatriation of all public administration platforms and digital data hosted in private centres or abroad to the new national datacentres ([source, 2026-01-23](https://digitalmagazine.bf/2026/02/20/burkina-faso-zoom-sur-les-12-chantiers-strategiques-du-ministere-de-la-transition-digitale-focus-sur-le-chantier-zero-donnee-a-lexterieur-souverainete-des-donnees-via-des-datacenters-locaux/)).
+
 ### Cameroon: 3 Established
 
 A 2025 report says Cameroon's personal data protection law imposes local storage requirements; no source found reports the detail and the enforcer.
 
 - Speakers at Camtel's Cloud Days (10 December 2025) recalled that Cameroon's personal data protection law imposes strict requirements on consent, local storage and handlers' responsibilities; the document gives no law date or detail, so the date used is its publication date, 2025-12-11 ([source, 2025-12-11](https://lavoixdesentreprises.info/2025/12/11/digital-sovereignty-camtel-unveils-the-performance-of-its-zamengoe-datacenter-to-businesses-and-government-agencies/)).
+
+### Chad: 3 Established
+
+A 2025 ministerial order requires Starlink to host its users' traffic data in Chad; no body is named to check compliance.
+
+- EcoMatin reports that a ministerial arrete of 27 August 2025 requires Starlink to keep its users' connection logs, IP addresses and traffic data for at least 24 months and to host them locally, on pain of sanctions up to withdrawal of its authorisation ([source, 2025-08-27](https://ecomatin.net/telecoms-ndjamena-accentue-la-pression-sur-airtel-moov-et-starlink)).
 
 ### DR Congo: 3 Established
 
@@ -220,12 +232,6 @@ A 2022 profile says Eritrea does not require data to be stored locally; nothing 
 
 Not established: No rule or draft is on record, and no source dated in the last three years says the country has neither.
 
-### Burkina Faso: No evidence
-
-Nothing found says Burkina Faso has a rule keeping data in the country, or says it has none, so no stage is set.
-
-Not established: Nothing found names a rule that data must be kept in the country, or says there is none.
-
 ### Burundi: No evidence
 
 Nothing found says Burundi has a rule keeping data in the country, or says it has none, so no stage is set.
@@ -241,12 +247,6 @@ Not established: Nothing found names a rule that data must be kept in the countr
 ### Central African Republic: No evidence
 
 Nothing found says Central African Republic has a rule keeping data in the country, or says it has none, so no stage is set.
-
-Not established: Nothing found names a rule that data must be kept in the country, or says there is none.
-
-### Chad: No evidence
-
-Nothing found says Chad has a rule keeping data in the country, or says it has none, so no stage is set.
 
 Not established: Nothing found names a rule that data must be kept in the country, or says there is none.
 

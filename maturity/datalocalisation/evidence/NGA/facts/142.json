@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-29-nga-cbn-nitda-allay-banks-fears-over-january-2027-data-localisation-deadli",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CBN, in a circular on data localisation, requires regulated financial institutions to store and manage critical payment transaction data within Nigeria by 1 January 2027, according to CBN Deputy Governor Lamido Abubakar Yuguda.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "CBN data localisation circular",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "CBN's Director of Payment Systems Supervision, Rakiya Yusuf, says its Payment System Supervision Department, set up in 2025 with trained examiners, monitors compliance with the rule and that sanctions will follow deliberate breaches.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "CBN Payment System Supervision Department",
+   "class": "rule"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CBN data localisation circular",
+   "country_label": "CBN circular on data localisation",
+   "class": "rule",
+   "platform": "",
+   "owner": "CBN",
+   "tiers": ""
+  }
+ ],
+ "note": "No organisation is stated to have moved data, been penalised or been granted an exemption; survey readiness figures are expectations."
+}

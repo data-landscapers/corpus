@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-15-nga-introduction-of-market-structure-requirements-data-localisation-ultima",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "system": "CBN circular PSS/DIR/PUB/CIR/001/004",
+   "class": "rule",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Central Bank of Nigeria issued a circular on 15 June 2026 requiring payments transaction data generated in Nigeria to be stored and managed in Nigeria, with full compliance by 1 January 2027, binding all financial institutions and participants facilitating payments."
+  },
+  {
+   "sub_indicator": "rule",
+   "system": "CBN circular PSS/DIR/PUB/CIR/001/004",
+   "class": "rule",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "The circular states the Central Bank of Nigeria shall monitor compliance and may impose supervisory sanctions."
+  }
+ ],
+ "systems": [
+  {
+   "system": "CBN circular PSS/DIR/PUB/CIR/001/004",
+   "country_label": "Nigeria",
+   "class": "rule",
+   "platform": "",
+   "owner": "Central Bank of Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

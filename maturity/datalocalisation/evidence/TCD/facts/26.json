@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-29-tcd-telecoms-ndjamena-accentue-la-pression-sur-airtel-moov-et-starlink",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "EcoMatin reports that a ministerial arrete of 27 August 2025 requires Starlink to keep its users' connection logs, IP addresses and traffic data for at least 24 months and to host them locally, on pain of sanctions up to withdrawal of its authorisation.",
+   "as_of": "2025-08-27",
+   "date_precision": "day",
+   "system": "Arrete ministeriel du 27 aout 2025 on Starlink",
+   "class": "rule"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Arrete ministeriel du 27 aout 2025 on Starlink",
+   "country_label": "Chad",
+   "class": "rule",
+   "platform": "",
+   "owner": "Ministry of Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
