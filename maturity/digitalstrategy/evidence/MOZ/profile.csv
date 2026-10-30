@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MOZ,national,governance,qualifier,body:mandated;finance:donor,2026-09-22,MOZ-005;MOZ-027,MOZ-026=body:mandated;MOZ-010=body:mandated;MOZ-030=body:mandated;MOZ-024=body:none,
-MOZ,national,standing,coverage,adopted,2019,MOZ-003;MOZ-021,MOZ-006=drafting;MOZ-001=drafting;MOZ-007=drafting;MOZ-008=drafting;MOZ-080=drafting;MOZ-009=drafting;MOZ-028=drafting;MOZ-011=drafting;MOZ-014=drafting;MOZ-016=drafting;MOZ-017=drafting;MOZ-029=none;MOZ-013=announced;MOZ-018=announced;MOZ-019=drafting;MOZ-032=announced,
+MOZ,national,standing,coverage,adopted,2019,MOZ-003;MOZ-021,MOZ-006=drafting;MOZ-001=drafting;MOZ-081=drafting;MOZ-007=drafting;MOZ-008=drafting;MOZ-080=drafting;MOZ-009=drafting;MOZ-028=drafting;MOZ-011=drafting;MOZ-014=drafting;MOZ-016=drafting;MOZ-017=drafting;MOZ-029=none;MOZ-013=announced;MOZ-018=announced;MOZ-019=drafting;MOZ-032=announced,
 MOZ,national,text,coverage,public,2019-10-16,MOZ-022,,nothing dated since 2023-10-28
 MOZ,national,period,coverage,to:2028,2026-09-22,MOZ-004;MOZ-023,MOZ-031=to:2023,
 MOZ,national,plan,coverage,actions,2026-09,MOZ-025,MOZ-002=none,

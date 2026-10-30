@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-moz-mozambique-s-digital-plan-has-2030-targets-its-approval-date-says-xx",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The article reports that Mozambique's National Digital Transformation Strategy draft of 22 August 2026 still shows a blank Council of Ministers approval date (\"xx de xxxx de 2026\"), and that the public pages show no final copy or record of the October launch.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "National Digital Transformation Strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Transformation Strategy",
+   "country_label": "Mozambique",
+   "class": "national",
+   "platform": "",
+   "owner": "MCTD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
