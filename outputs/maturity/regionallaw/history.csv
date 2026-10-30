@@ -4,3 +4,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,MRT,gov.regional--regional-legal-harmonisation,fact,3,3,MRT-004;MRT-001,Arrivals added MRT-004; stage unchanged.
 2026-10-17,RWA,gov.regional--regional-legal-harmonisation,fact,3,3,RWA-004,Arrivals added RWA-005; stage unchanged.
 2026-10-18,GMB,gov.regional--regional-legal-harmonisation,fact,2,3,GMB-004;GMB-001,"Minister to UN CSTD, April 2024: Malabo Convention ratified March 2024; AU list of Feb 2026 shows no deposit: 2 to 3"
+2026-10-30,CAF,gov.regional--regional-legal-harmonisation,fact,no evidence,1,CAF-001,"ACTPOL brief of September 2026, citing the AU register of 2 February 2026, says CAF took no action on the Malabo Convention: stage 1"
+2026-10-30,LSO,gov.regional--regional-legal-harmonisation,fact,3,3,LSO-005,"March 2026 article says Lesotho has yet to ratify; the AU register's ratification of February 2025 stands, stage 3 held"

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-27-lso-exploring-the-data-protection-and-data-governance-challenges-and-oppor",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "signed",
+   "fact": "The article says Lesotho has signed but has yet to ratify the AU Malabo Convention on Cybersecurity and Personal Data Protection.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

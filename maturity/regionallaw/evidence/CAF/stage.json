@@ -1,16 +1,17 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "harmonisation",
-   "stage": "no evidence",
-   "accepted": "",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names an African legal text on a digital matter that the country has signed or is bound by, or says it has signed none.",
-   "note": "Counted from the four questions by study-ladder-regionallaw.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "harmonisation",
+      "stage": "1",
+      "accepted": "none",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001",
+      "gaps": "No other shared African text on a digital matter is recorded for the country.",
+      "note": "A September 2026 brief, citing the African Union's register of 2 February 2026, says the country has taken no action on the Malabo Convention, and no other shared text is on record. That dated statement of no signature is stage 1.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

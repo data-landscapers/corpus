@@ -24,9 +24,9 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | 4 Operating | 0 |
 | 3 Established | 24 |
 | 2 Nascent | 9 |
-| 1 Absent | 20 |
+| 1 Absent | 21 |
 | Unplaced | 0 |
-| No evidence | 1 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -268,6 +268,12 @@ Burundi had not signed the African Union's cyber security and data protection co
 - Participants in the Paradigm Initiative and Dukingire Isi Yacu workshop in Bujumbura on 18-19 February 2026 called on the Government of Burundi to ratify the Malabo Convention, which the article treats as not yet ratified ([source, 2026-02](https://communityvoice.bi/1489-2/)).
 - The African Union Commission's status list of 02/02/2026 shows Burundi with no date of signature, ratification/accession or deposit for the Convention on Cyber Security and Personal Data Protection (21 signatures and 20 deposits across 55 states) ([source, 2026-02-02](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
+### Central African Republic: 1 Absent
+
+The Central African Republic had not signed the African Union's cyber security and data protection convention by February 2026; no other shared text is known.
+
+- ACTPOL, citing the African Union status list of 2 February 2026, says the Central African Republic has taken no action on the Malabo Convention ([source, 2026-02-02](https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon)).
+
 ### Egypt: 1 Absent
 
 Egypt had not signed the African Union's cyber security and data protection convention by February 2026; no other shared digital law is known.
@@ -368,9 +374,3 @@ Uganda had not signed the African Union's cyber security and data protection con
 Zimbabwe had not signed the African Union's cyber security and data protection convention by February 2026; no other shared digital law is known.
 
 - The African Union Commission's status list dated 02/02/2026 shows Zimbabwe with no date of signature, ratification or accession, and no date of deposit, for the Malabo Convention (21 signatures and 20 deposits across 55 countries) ([source, 2026-02-02](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-
-### Central African Republic: No evidence
-
-Nothing is known of a shared African digital law the Central African Republic has signed or is bound by, so no stage is set.
-
-Not established: Nothing found names an African legal text on a digital matter that the country has signed or is bound by, or says it has signed none.

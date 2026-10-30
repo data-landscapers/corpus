@@ -1,16 +1,17 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "harmonisation",
-   "stage": "3",
-   "accepted": "ratified",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-005",
-   "gaps": "No source found says a national law or rule was passed to give effect to a shared text.",
-   "note": "Counted from the four questions by study-ladder-regionallaw.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "harmonisation",
+      "stage": "3",
+      "accepted": "ratified",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-005",
+      "gaps": "No national law giving effect to a shared text is recorded. A March 2026 article says Lesotho has yet to ratify, against the register.",
+      "note": "The African Union's register of 2 February 2026 records ratification on 5 February 2025 and deposit on 16 February 2025; a ratification stands until a source says the country withdrew, so a later article calling it unratified does not lower it. No national law giving effect is recorded.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }
