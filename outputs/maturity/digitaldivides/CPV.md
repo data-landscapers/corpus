@@ -10,4 +10,4 @@
 
 ***Also on file***. [Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI)](<https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says a programme to connect rural areas is under way. Every rung is met in order, so the survey alone places nothing.

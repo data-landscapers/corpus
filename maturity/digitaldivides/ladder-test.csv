@@ -4,26 +4,26 @@ BDI,2,underway,,,BDI-001;BDI-002
 BEN,unplaced,,,,
 BFA,4,delivering,measured,,BFA-003
 BWA,3,delivering,,,BWA-003;BWA-005
-CAF,2,underway,,,CAF-001;CAF-002
+CAF,2,underway,,,CAF-001;CAF-003
 CIV,4,delivering,measured,,CIV-006
 CMR,2,underway,,,CMR-001
-COD,2,underway,,,COD-002;COD-003
+COD,2,underway,,,COD-001;COD-008
 COG,3,delivering,,,COG-002;COG-007
 COM,no evidence,,,,
-CPV,5,delivering,measured,narrow,CPV-002
+CPV,unplaced,,,,
 DJI,2,underway,,,DJI-001
 DZA,2,underway,,,DZA-003;DZA-002
 EGY,3,delivering,,,EGY-001
 ERI,no evidence,,,,
-ETH,2,underway,,,ETH-001;ETH-002
-GAB,2,underway,,,GAB-003;GAB-001
-GHA,3,delivering,,,GHA-009;GHA-004
+ETH,2,underway,,,ETH-003;ETH-001
+GAB,2,underway,,,GAB-006;GAB-003
+GHA,3,delivering,,,GHA-012;GHA-009
 GIN,2,underway,,,GIN-001
 GMB,2,underway,,,GMB-001
 GNB,no evidence,,,,
 GNQ,2,underway,,,GNQ-002
 KEN,2,underway,,,KEN-002
-LBR,2,underway,,,LBR-001
+LBR,3,delivering,,,LBR-002
 LBY,unplaced,,,,
 LSO,2,underway,,,LSO-001
 MAR,4,delivering,measured,,MAR-001
@@ -35,21 +35,21 @@ MUS,unplaced,,,,
 MWI,3,delivering,,,MWI-004
 NAM,3,delivering,,,NAM-005;NAM-007
 NER,3,delivering,,,NER-003
-NGA,3,delivering,,,NGA-004
+NGA,3,delivering,,,NGA-005;NGA-004
 RWA,unplaced,,,,
 SDN,2,underway,,,SDN-001
 SEN,2,underway,,,SEN-003;SEN-001
 SLE,3,delivering,,,SLE-001;SLE-002
-SOM,4,delivering,measured,,SOM-001
+SOM,2,underway,,,SOM-002
 SSD,2,underway,,,SSD-001
 STP,no evidence,,,,
-SWZ,2,underway,,,SWZ-001;SWZ-003
+SWZ,2,underway,,,SWZ-002;SWZ-001
 SYC,no evidence,,,,
-TCD,2,underway,,,TCD-001
+TCD,2,underway,,,TCD-001;TCD-002
 TGO,unplaced,,,,
 TUN,2,underway,,,TUN-001
 TZA,3,delivering,,,TZA-001
 UGA,2,underway,,,UGA-003;UGA-004
-ZAF,2,underway,,,ZAF-003
+ZAF,2,underway,,,ZAF-001;ZAF-002
 ZMB,3,delivering,,,ZMB-005;ZMB-003
 ZWE,3,delivering,,,ZWE-002

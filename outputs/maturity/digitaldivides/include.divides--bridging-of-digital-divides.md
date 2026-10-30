@@ -20,22 +20,15 @@ The Digital Transformation Strategy asks for universal, equitable and affordable
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Leading | 0 |
 | 4 Operating | 2 |
 | 3 Established | 18 |
 | 2 Nascent | 23 |
 | 1 Absent | 0 |
-| Unplaced | 5 |
+| Unplaced | 6 |
 | No evidence | 5 |
 
 ## Countries
-
-### Cape Verde: 5 Leading
-
-Rural internet use was four-fifths or more of urban in 2025.
-
-- INE's 2025 survey implies rural internet use of 68.8% (non-use 31.2%) against 80.0% urban (non-use 20.0%) among people aged 10 and over, and 69.3% of rural households with internet against 68.5% urban ([source, 2025](https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930)).
-- INE's 2025 continuous multi-purpose survey (IMC) shows 22.7% of people aged 10 and over did not use the internet in the previous three months, 31.2% in rural areas against 20.0% in urban areas ([source, 2025](https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -318,6 +311,12 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 ### Benin: Unplaced
 
 Nothing found since 2023 names a programme to connect rural areas, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a programme to connect rural areas is under way.
+
+### Cape Verde: Unplaced
+
+No rural connectivity programme is known; a 2025 survey puts rural internet use at 86% of urban.
 
 Not established: Nothing found since October 2023 says whether a programme to connect rural areas is under way.
 

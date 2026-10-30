@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Measured | Yes to 3 |
 | 5 Gap narrow | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `programme` (`delivering`, `underway`, `none`) for stage 1 and questions 1 and 2, `measured` (`measured`) for 3 and `narrow` (`narrow`) for 4.
+**Every rung is met in order** *(Bill, 2026-10-30, message 49)*: a later yes does not answer an earlier one, so a country with the gap measured but no programme shown delivering stays at 2 (`study.json` → `later_yes: false`). Every question looks back three years. `study.json` holds this as three aspects: `programme` (`delivering`, `underway`, `none`) for stage 1 and questions 1 and 2, `measured` (`measured`) for 3 and `narrow` (`narrow`) for 4.
 
 ## 4. The norm
 

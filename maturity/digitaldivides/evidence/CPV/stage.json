@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "5",
-      "programme": "delivering",
-      "measured": "measured",
-      "narrow": "narrow",
+      "stage": "unplaced",
+      "programme": "",
+      "measured": "",
+      "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-002;CPV-001",
-      "gaps": "",
-      "note": "INE's 2025 survey gives internet use of 68.8% rural against 80.0% urban among people aged 10 and over, rural use 86% of urban. That is the top rung.",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether a programme to connect rural areas is under way.",
+      "note": "Rungs in order (Bill, 2026-10-30, message 49): INE's 2025 survey puts rural use at 86% of urban, but no source shows a programme to connect rural areas, so rung 1 is not met.",
       "as_at": "2026-10-30"
     }
   ]

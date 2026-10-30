@@ -81,3 +81,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-30,ZAF,include.divides--bridging-of-digital-divides,review,2,2,ZAF-003,Rebuild: first-pass cell re-read from every row held; stage 2 holds
 2026-10-30,ZMB,include.divides--bridging-of-digital-divides,review,3,3,ZMB-005;ZMB-003,Rebuild: first-pass cell re-read from every row held; stage 3 holds
 2026-10-30,ZWE,include.divides--bridging-of-digital-divides,review,3,3,ZWE-002,Rebuild: first-pass cell re-read from every row held; stage 3 holds
+2026-10-30,CPV,include.divides--bridging-of-digital-divides,ladder,5,unplaced,,"Rungs met in order (Bill, 2026-10-30): no rural programme on record, so the 2025 survey places nothing"

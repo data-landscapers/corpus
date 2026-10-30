@@ -1,5 +1,6 @@
 ## 30 October 2026
 
+- The rural internet gap's stages are now met in order, each on a source from the last three years: a measured or narrow gap no longer counts without a rural programme shown delivering. Cabo Verde, at stage 5 on its survey alone, is unplaced until a programme is found.
 - International fibre's stages 4 and 5 now need a cable of more than 100 Tbps design capacity, such as 2Africa, Equiano or Medusa, carrying the country's traffic. Uganda drops from 5 and the Central African Republic, Algeria, The Gambia, Liberia, Malawi and Zambia from 4, all to stage 3.
 - Cybercrime law's top stage is now regular use of the law, judged country by country, and a police count that names no law no longer shows the law used. Egypt, Kenya, Mali, Nigeria, South Africa and Tunisia rise to stage 5; Benin, Burkina Faso, Morocco and Mauritius drop to 3.
 - National cyber response's top stage now asks for evidence that the national body dealt with incidents in the past year, not a count of complaints or detections. Benin, Côte d'Ivoire, Cameroon, Mozambique, Mauritius, Namibia and Togo drop from stage 5; five countries stay.

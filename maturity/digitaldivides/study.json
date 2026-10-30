@@ -55,10 +55,10 @@
    "norm_short": "The Digital Transformation Strategy asks for universal, equitable and affordable access for all people wherever they live; the ITU's 2030 targets ask for universal internet use.",
    "criteria": [
     "A source from the past three years says no programme brings internet access to rural areas.",
-    "The government or its universal service fund has launched, funded or is preparing a programme to bring internet access to rural or underserved areas.",
-    "A rural connectivity programme has connected a stated number of rural sites, towers, localities or people.",
-    "The share of people using the internet in rural areas and in urban areas is published, from a household survey or the statistics office.",
-    "Rural internet use is 80 per cent or more of the urban rate, from a household survey."
+    "In the past three years the government or its universal service fund has launched, funded or prepared a programme to bring internet access to rural or underserved areas.",
+    "In the past three years a rural connectivity programme has connected a stated number of rural sites, towers, localities or people.",
+    "The programme is delivering, and the share of people using the internet in rural and in urban areas is published from the past three years, by a household survey or the statistics office.",
+    "The gap is measured, and rural internet use is 80 per cent or more of the urban rate, from a household survey of the past three years."
    ],
    "criteria_of": "ac0df2f4b686"
   }
@@ -111,5 +111,6 @@
   }
  ],
  "flags": [],
- "searched": "2026-10-30"
+ "searched": "2026-10-30",
+ "later_yes": false
 }
