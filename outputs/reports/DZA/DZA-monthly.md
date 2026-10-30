@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: DZA
-ledger_rows: 54
+ledger_rows: 56
 not_held: 5
-record: 1fbf9a2d80cc
+record: 5afb974fedba
 ---
 
 # News, Sep – Oct 2026
@@ -253,6 +253,20 @@ Algeria's Ministry of Post and Telecommunications said on 30 September 2026 that
 **[Algérie : la fibre optique dépasse 4 millions d'abonnements, les tarifs chutent de 76 %](https://www.agenceecofin.com/actualites-numerique/1210-142333-algerie-la-fibre-optique-depasse-4-millions-d-abonnements-les-tarifs-chutent-de-76)** — Agence Ecofin, 12 October 2026
 
 Algeria's fibre-to-the-home subscriptions passed 4 million in early October, from 53,000 in June 2020, on the posts minister's figures. The monthly price of an offer of 100 Mbit/s or more has fallen 76%, and the target is more than 4.4 million by the end of the year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health facilities connected to fibre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérisation du secteur de la santé : Plus de 2.355 structures raccordées à la fibre optique (ministre)](https://lavoiedalgerie.dz/numerisation-du-secteur-de-la-sante-plus-de-2-355-structures-raccordees-a-la-fibre-optique-ministre/2026/29/00/)** — La voix de l’Algérie, 29 October 2026
+
+Algeria's health ministry said on 28 October 2026 that more than 2,355 health facilities had been connected to fibre, working with Algérie Télécom. It said all university hospital centres are due to be digitised by 15 November 2026. A national telemedicine system and teleradiology are being rolled out with the electronic medical record.
 
 </div>
 
@@ -681,6 +695,20 @@ Algeria's Ministry of National Solidarity launched Morafikokoum, a digital platf
 **[12 required fields to update industrial establishments' data on the PRODNAT national-production platform](https://www.echoroukonline.com/12-%D8%B9%D9%86%D8%B5%D8%B1%D9%8B%D8%A7-%D9%81%D9%8A-%D8%AA%D8%AD%D9%8A%D9%8A%D9%86-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7)** — Echorouk Online, 23 September 2026
 
 Algeria's provincial industry directorates kept registration open on the PRODNAT national-production platform after its mid-September 2026 deadline. Goods-producing firms must supply 12 items, including tax and statistical identifiers, the manager's biometric ID card, the geolocation of each production unit, and purchases, stocks and sales for the first half of 2026. Second-half declarations are due between 1 January and 28 February 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National telemedicine and teleradiology system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Numérisation du secteur de la santé : Plus de 2.355 structures raccordées à la fibre optique (ministre)](https://lavoiedalgerie.dz/numerisation-du-secteur-de-la-sante-plus-de-2-355-structures-raccordees-a-la-fibre-optique-ministre/2026/29/00/)** — La voix de l’Algérie, 29 October 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
