@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: CIV
-ledger_rows: 54
+ledger_rows: 56
 not_held: 10
-record: 00f7a0106d12
+record: 5a2c237d7c7e
 ---
 
 # News, Sep – Oct 2026
@@ -391,6 +391,20 @@ Côte d'Ivoire's national cybersecurity agency recorded more than 14,700 cybercr
 **[Cybercriminalité en Côte d’Ivoire : plus de 14 700 plaintes et 23 milliards FCFA de pertes en 2025](https://www.ivoirematin.com/fr/news/Economie/cybercriminalite-en-cote-divoire-plus-de-14-700-plaintes-et-23-milliards-fcfa-de-pertes-en-2025_n_126144.html)** — Ivoirematin, 27 October 2026
 
 Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Major vulnerabilities recorded by the national cyber-security agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[En Côte d’Ivoire, une simulation nationale pour «apprendre à réagir» aux cyberattaques majeures](https://www.rfi.fr/fr/afrique/20261029-en-c%C3%B4te-d-ivoire-une-simulation-nationale-pour-apprendre-%C3%A0-r%C3%A9agir-aux-cyberattaques-majeures)** — RFI, 29 October 2026
+
+Côte d'Ivoire's information-systems security agency, ANSSI, ran a national cyberattack simulation, Cyber.Ex, in Abidjan on 28–29 October 2026. ANSSI names energy, finance and telecommunications as the most targeted sectors. It says it has recorded 147 major vulnerabilities since January 2026, leading to data leaks, outages and ransom demands.
 
 </div>
 
@@ -999,6 +1013,20 @@ Côte d'Ivoire's finance ministry launched a Fintech Sector Support Project in A
 **[Côte d'Ivoire Welcomes Economic Innovation Through Blockchain and Digital Assets](https://cryptoafrica.news/cote-divoire-welcomes-economic-innovation-through-blockchain-and-digital-assets/)** — Crypto Africa, 23 October 2026
 
 An international seminar on blockchain and digital assets in Abidjan, co-organised by the VITIB technology zone and Valoores Africor and attended by digital transition minister Djibril Ouattara, discussed how the technology could support Côte d'Ivoire's economy. The minister said the government aims both to enable innovation and to build supervisory mechanisms and trust frameworks, and VITIB's director-general said it plans a blockchain centre of excellence to train and assist the state and businesses.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AEDIB investment-readiness programme for tech start-ups</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Call for Tenders: Design and Delivery of an Investment Readiness Programme for Tech and Tech-Enabled Startups in Cote d'Ivoire](https://tenders-afd.dgmarket.com/tender/116742536)** — Agence Française de Développement (via dgMarket), 27 October 2026
+
+Expertise France AEDIB tender: 4 support bodies, 16 startups (5+ women-led); 17 months from Feb 2027; bids by 23 Nov.
 
 </div>
 
