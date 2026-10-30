@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-gin-guinee-nimbapay-traite-7-6-millions-de-transactions-et-connecte-7-etab",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Agence Ecofin reports that the central bank BCRG, with World Bank support, is preparing a bill on payment systems and instruments; no text is said to be published.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Payment systems and instruments bill",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "Mojaloop",
+   "owner": "Guineenne de Monetique (GuiM)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

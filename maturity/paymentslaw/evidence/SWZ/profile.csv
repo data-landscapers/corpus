@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,law,standing,coverage,in-force,2025-11,SWZ-002;SWZ-003;SWZ-007,SWZ-001=draft;SWZ-004=draft,
+SWZ,law,standing,coverage,in-force,2025-11,SWZ-002;SWZ-003;SWZ-007,SWZ-010=draft;SWZ-001=draft;SWZ-004=draft,
 SWZ,law,reach,coverage,connect,2025-03-31,SWZ-006;SWZ-009,SWZ-005=non-bank;SWZ-008=non-bank,

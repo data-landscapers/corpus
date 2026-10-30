@@ -415,7 +415,7 @@ Liberia's central bank mobile money regulations were in force in 2024; no source
 
 ### Somalia: 3 Established
 
-Somalia's 2020 mobile money regulations are in force, and both houses had passed a payment system bill by January 2026; no source found reports its signing.
+Somalia's 2020 mobile money regulations are in force, and both houses had passed a payment system bill by January 2026; its signing is not known.
 
 - The Central Bank of Somalia made the Mobile Money Regulations, Amended 2020 (CBS/NBS/REG/06), under the Central Bank of Somalia Act 2012, setting out licensing, conduct of business and supervision of mobile money service providers; the document is dated 2020 and states no end date ([source, 2020](https://centralbank.gov.so/wp-content/uploads/2025/06/Mobile-Money-Regulation-2020_amended_2021.pdf)).
 
