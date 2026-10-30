@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: ZWE
-ledger_rows: 51
+ledger_rows: 54
 not_held: 6
-record: 89423ea2cca9
+record: 6d0849a57606
 ---
 
 # News, Sep – Oct 2026
@@ -408,6 +408,50 @@ Zimbabwe's telecoms regulator is developing a Cybersecurity Framework for Critic
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Coordinated protocol for reported account compromises</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zimbabwe moves to strengthen cybersecurity as National Strategy nears approval](https://www.newziana.co.zw/zimbabwe-moves-to-strengthen-cybersecurity-as-national-strategy-nears-approval/)** — New Ziana, 28 October 2026
+
+Strategy in Cabinet committee; 90-day implementation matrix with quarterly reviews ordered ahead of approval.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[30-day ultimatum to tackle cyber fraud](https://www.heraldonline.co.zw/30-day-ultimatum-to-tackle-cyber-fraud/)** — The Herald (Zimbabwe), 29 October 2026
+
+Zimbabwe's ICT minister gave POTRAZ, operators, police and platforms 30 days to agree a protocol on WhatsApp account takeovers and digital fraud. She set the deadline in Harare on 28 October 2026. She also said the National Cyber Security Strategy is before a Cabinet committee.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cybersecurity Strategy</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Zimbabwe moves to strengthen cybersecurity as National Strategy nears approval](https://www.newziana.co.zw/zimbabwe-moves-to-strengthen-cybersecurity-as-national-strategy-nears-approval/)** — New Ziana, 28 October 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[30-day ultimatum to tackle cyber fraud](https://www.heraldonline.co.zw/30-day-ultimatum-to-tackle-cyber-fraud/)** — The Herald (Zimbabwe), 29 October 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -795,6 +839,20 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Zimbabwe clears drones to deliver vaccines, blood and medicines](https://www.newzimbabwe.com/zimbabwe-clears-drones-to-deliver-vaccines-blood-and-medicines/)** — NewZimbabwe, 22 September 2026
 
 The Civil Aviation Authority of Zimbabwe approved Drone Solutions Zimbabwe to fly beyond-visual-line-of-sight medical deliveries using Kite Aero's KITE aircraft, moving from demonstration flights completed in August 2026 to daily operations. The service carries vaccines, blood, pathology samples and medicines, with deliveries taking about 30 minutes. The date of the approval is not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Innovation Drive Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[POTRAZ says it is now a gateway for investors, not a gatekeeper](https://www.heraldonline.co.zw/potraz-says-it-is-now-a-gateway-for-investors-not-a-gatekeeper/)** — The Herald (Zimbabwe), 29 October 2026
+
+Zimbabwe's regulator POTRAZ now licenses services, not technologies, and uses its Universal Service Fund to fund early-stage ventures, director-general Gift Machengete said in Harare on 29 October 2026. He said the fund's Innovation Drive Programme has backed more than 100 innovations. Its AI for Impact programme drew over 700 applications in 2026 and advanced 16.
 
 </div>
 
