@@ -288,7 +288,7 @@ Not established: Nothing found since October 2023 says whether consumer-protecti
 
 ### Mauritania: Unplaced
 
-A pilot of a financial complaints line was announced in 2026; no source found reports rules and a working complaints body, so no stage is set.
+A pilot financial complaints line was announced in 2026; rules and a working complaints body are not known, so no stage is set.
 
 Not established: A pilot week of the central bank's complaints call centre was announced for April 2026; no source shows it taking complaints, and nothing found names rules for digital finance.
 

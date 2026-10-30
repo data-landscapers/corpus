@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,protection,rules,coverage,inforce,2024-10,SWZ-002;SWZ-005,,
+SWZ,protection,rules,coverage,inforce,2024-10,SWZ-002;SWZ-005,SWZ-007=draft,
 SWZ,protection,redress,coverage,redress,2026,SWZ-001;SWZ-003;SWZ-006,,
 SWZ,protection,enforced,coverage,enforced,2024-10,SWZ-004,,
