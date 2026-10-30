@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-syc-cabinet-business-wednesday-28-october-2026",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Cabinet approved on 28 October 2026 implementation of a sovereign, in-country Government Cloud on two geographically separated datacenters, to reduce reliance on commercial and overseas infrastructure.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Government Cloud and Datacenter Project",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

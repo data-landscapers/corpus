@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-20-bfa-burkina-faso-zoom-sur-les-12-chantiers-strategiques-du-ministere-de-la",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "The Prime Minister instructed that all state platforms and data hosted privately or abroad be repatriated to the two national government datacentres.",
+   "as_of": "2026-01-23",
+   "date_precision": "day",
+   "system": "Zero donnee hebergee a l'exterieur chantier",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Two modular government datacentres (Cloud gouvernemental)",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "government cloud",
+   "owner": "State, Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

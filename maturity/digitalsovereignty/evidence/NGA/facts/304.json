@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-d",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "Tech Africa News says the NITDA Sovereign Data Guidelines mandate that data generated, owned or controlled by the Nigerian government be hosted domestically, permitting foreign hosting only with explicit regulatory approval.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "NITDA Sovereign Data Guidelines",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

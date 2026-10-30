@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "no evidence",
-   "rule": "",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether the state keeps its data and systems under its own control.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-001",
+      "gaps": "No rule in force, national hosting or contract terms on state data are recorded.",
+      "note": "Cabinet approved a sovereign in-country Government Cloud on 28 October 2026, a stated goal of national control. No rule in force classifies government data or says where it is held, so not stage 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

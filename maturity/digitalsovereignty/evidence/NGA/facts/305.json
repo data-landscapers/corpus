@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-nga-326-mdas-spend-n3-8trn-on-technology-as-nigeria-moves-to-localise-gove",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "NITDA's director-general said NITDA's National Sovereign Cloud Initiative framework anchors Nigeria's data localisation policy and that a deadline will be set for ministries, departments and agencies after the financial sector's 1 January 2027 deadline.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "National Sovereign Cloud Initiative",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Sovereign Cloud Initiative",
+   "country_label": "National Sovereign Cloud Initiative",
+   "class": "other",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

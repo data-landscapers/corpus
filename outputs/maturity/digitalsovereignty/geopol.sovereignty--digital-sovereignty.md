@@ -23,10 +23,10 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | 5 Leading | 1 |
 | 4 Operating | 20 |
 | 3 Established | 8 |
-| 2 Nascent | 14 |
+| 2 Nascent | 15 |
 | 1 Absent | 1 |
 | Unplaced | 3 |
-| No evidence | 7 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -283,6 +283,12 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 - Senegal's Presidency confirmed a proposed Cybastion partnership, with $300 million to be mobilised and financing not finalised, that includes a planned sovereign data center to host and manage critical digital systems within Senegal's borders ([source, 2026-09-14](https://panafricanvisions.com/2026/09/cybastion-targets-300-million-investment-to-strengthen-senegals-digital-sovereignty/)).
 - Seneweb reports the National Assembly unanimously adopted bill n° 25/2026, which enshrines the principle of keeping data considered sensitive for the State on national territory (127 votes in favour, none against) ([source, 2026-08-20](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html)).
 
+### Seychelles: 2 Nascent
+
+Seychelles' Cabinet approved a sovereign in-country government cloud in October 2026; no rule on where state data is held is known.
+
+- Cabinet approved on 28 October 2026 implementation of a sovereign, in-country Government Cloud on two geographically separated datacenters, to reduce reliance on commercial and overseas infrastructure ([source, 2026-10-28](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)).
+
 ### Somalia: 2 Nascent
 
 Keeping state data under national control was a stated goal in 2025; a rule in force is not on record.
@@ -357,12 +363,6 @@ Nothing found names control of state data or says there is none, so no stage is 
 Not established: Nothing found says whether the state keeps its data and systems under its own control.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing found names control of state data or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the state keeps its data and systems under its own control.
-
-### Seychelles: No evidence
 
 Nothing found names control of state data or says there is none, so no stage is set.
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-nga-cbn-nitda-allay-banks-fears-over-january-2027-data-localisation-deadli",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "A CBN directive requires regulated institutions to hold critical payment transaction data in Nigeria from 1 January 2027, and CBN and NITDA are pursuing the National Sovereign Cloud Initiative.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "National Sovereign Cloud Initiative",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Sovereign Cloud Initiative",
+   "country_label": "National Sovereign Cloud Initiative (NSCI)",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "NITDA and CBN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

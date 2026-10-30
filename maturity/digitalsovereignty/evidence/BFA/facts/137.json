@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-28-bfa-digitalmagazine-cadre-concertation-dsi-2026-ia-dematerialisation",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Digital Magazine Burkina reports that Burkina Faso's national strategy rests on three imperatives, including accelerating dematerialisation and guaranteeing the sovereignty of public data, as stated at the ministry's IT directors' forum.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "national strategy: sovereignty of public data",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
