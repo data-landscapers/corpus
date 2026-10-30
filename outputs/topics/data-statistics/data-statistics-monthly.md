@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: data.statistics
 places: BWA; BFA; BDI; CMR; CAF; COG; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA
-record: 5fd231d1385f
+record: 32ef4cd85144
 ---
 
 # News, Sep – Oct 2026
@@ -735,6 +735,14 @@ Sierra Leone's planning minister, the Statistician-General and UNFPA's country r
 **[UNFPA, Stats-SL train 147 master trainers ahead of census](https://sierraleoneconcordtimes.com/unfpa-stats-sl-train-147-master-trainers-ahead-of-census/)** — Concord Times, 20 October 2026
 
 Statistics Sierra Leone and UNFPA began training 147 master trainers and data-quality managers on 14 October 2026 for the digital census, whose census night is 1 December. The Statistician-General said all 29,000 tablets had arrived and about 22,508 enumeration areas had been mapped; Ireland funds UNFPA's support.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[STATS SL Commences Training of Trainers for 2026 Census - A-Z Multimedia Corporation](https://a-zsl.com/stats-sl-commences-training-of-trainers-for-2026-census/)** — A-Z Multimedia Corporation, 27 October 2026
+
+Statistics Sierra Leone began training trainers for the 2026 Population and Housing Census on 26 October 2026. Enumerator training starts on 7 November and census night is 1 December 2026. The Statistician-General said the agency holds 30,000 tablets for digital collection.
 
 </div>
 

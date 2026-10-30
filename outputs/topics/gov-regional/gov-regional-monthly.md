@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 37babaa50054
+record: 866de84f59f8
 ---
 
 # News, Sep – Oct 2026
@@ -591,6 +591,20 @@ Representatives of 11 African diplomatic missions in Cairo agreed to draft a joi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egypt-Uganda memorandum on digital transformation and AI</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt, Uganda discuss cooperation in digital transformation, AI](https://sis.gov.eg/en/media-center/news/egypt-uganda-discuss-cooperation-in-digital-transformation-ai/)** — State Information Service (Egypt), 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egypt's ICT minister, Raafat Hindi (reported 29 October 2026). They discussed digital transformation, training and Egyptian support for Uganda's national AI strategy. The two sides agreed to sign a memorandum of understanding later.
+
+</div>
+
+</div>
+
 ## Equatorial Guinea
 
 <div class="monthly-story" markdown="1">
@@ -774,6 +788,22 @@ The AfCFTA Secretariat and Ghanaian technology company Quest Ghana signed a join
 **[Sam George to chair AU ICT committee for two years](https://www.myjoyonline.com/sam-george-to-chair-au-ict-committee-for-two-years/)** — MyJoyOnline, 7 September 2026
 
 Ghana’s communications minister was unanimously confirmed as the next chair of the African Union technical committee on communication and ICT, for two years.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa’s data must benefit its people, not foreign tech firms – Sam George](https://www.citinewsroom.com/2026/10/africas-data-must-benefit-its-people-not-foreign-tech-firms-sam-george/)** — Citi Newsroom, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Ghana's communications minister, Samuel Nartey George, spoke in Libreville on taking the chair of the AU's ICT committee (reported 29 October 2026). He said African data should serve Africans and not be extracted and sold back to them. He said 55 countries negotiating as one market would have more bargaining power on AI and digital trade.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana’s Communications Minister confirmed as Chair of AU Committee on Communication and ICT](https://techreviewafrica.com/news/8032/ghanas-communications-minister-confirmed-as-chair-of-au-committee-on-c)** — Tech Review Africa, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Ghana's communications minister, Samuel Nartey George, was confirmed as chair of the AU Specialised Technical Committee on Communication and ICT at its session in Libreville (reported 29 October 2026). George named connectivity, data governance, cybersecurity and AI as priorities for his two-year term. He called on member states to implement the continental frameworks already adopted.
 
 </div>
 
@@ -1872,6 +1902,20 @@ South Sudan and Uganda's health ministers signed a memorandum of understanding i
 **[South Sudan, Uganda Sign MoU to Strengthen Customs Cooperation](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/)** — Juba Echo TV, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
 The South Sudan Revenue Authority and the Uganda Revenue Authority signed their third memorandum of understanding on customs cooperation, reported on 16 September 2026, covering modernisation, digital interoperability, transit trade and capacity building. New areas include enforcement of the electronic permit system. No commencement date or text is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egypt-Uganda memorandum on digital transformation and AI</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt, Uganda discuss cooperation in digital transformation, AI](https://sis.gov.eg/en/media-center/news/egypt-uganda-discuss-cooperation-in-digital-transformation-ai/)** — State Information Service (Egypt), 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egypt's ICT minister, Raafat Hindi (reported 29 October 2026). They discussed digital transformation, training and Egyptian support for Uganda's national AI strategy. The two sides agreed to sign a memorandum of understanding later.
 
 </div>
 

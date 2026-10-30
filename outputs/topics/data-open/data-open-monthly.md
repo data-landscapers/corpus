@@ -1,10 +1,10 @@
 ---
 title: Open data — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: data.open
 places: BFA; CPV; CAF; TCD; CIV; COD; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MUS; NGA; SEN; SLE; SOM; TZA; TUN; ZMB; ZWE
-record: 0b007a590957
+record: 24a2956e7565
 ---
 
 # News, Sep – Oct 2026
@@ -302,6 +302,20 @@ A Malawi24 investigation published on 16 September 2026 found that 65 per cent o
 **[Bank of Mauritius expands access to official statistics with rollout of BOMStats platform](https://www.bom.mu/media/media-releases/bank-mauritius-expands-access-official-statistics-rollout-bomstats-platform)** — Bank of Mauritius, 3 September 2026
 
 The Bank of Mauritius launched BOMStats, its statistical data platform, on 3 September 2026, with Prime Minister Navinchandra Ramgoolam presiding. The platform offers self-service analytics, an API and SDMX-format data sharing, and the bank says it is the first African central bank to use Open Data Platform 2.0. It was built with support from the African Development Bank and the IMF's Statistics Department.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MauStats platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNDP and Statistics Mauritius Collaborate to Strengthen Mauritius' Statistical Capabilities and Data Management Through Phase 2 of the MauStats Platform](https://www.undp.org/mauritius-seychelles/press-releases/undp-and-statistics-mauritius-collaborate-strengthen-mauritius-statistical-capabilities-and-data-management)** — United Nations Development Programme, 28 October 2026
+
+Statistics Mauritius trained staff on Phase 2 of its MauStats platform, built with UNDP, from 19 to 28 October 2026. Phase 2 adds 14 modules, among them prices, tourism, SDG monitoring and AI-assisted coding. It also adds data exchange through APIs.
 
 </div>
 

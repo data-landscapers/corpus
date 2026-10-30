@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 215a657c61a1
+record: 2438f861cd59
 ---
 
 # News, Sep – Oct 2026
@@ -332,6 +332,22 @@ Burundi's electoral commission CENI expects more than one million new voters on 
 **[Cameroun : 52 milliards FCFA recherchés pour numériser l'état civil](https://ecomatin.net/cameroun-52-milliards-fcfa-recherches-pour-numeriser-letat-civil)** — EcoMatin, 16 September 2026
 
 The director-general of Cameroon's national civil registration office, BUNEC, said on 14 September 2026 that completing the digitisation of civil-status records will cost 52 billion FCFA, against 27 billion estimated in 2018. Since the 2020 pilot, 60 of the country's 432 civil registration centres have been digitised, 13.9%. Completion is targeted for 2029–2030 if the money is found.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon looks to Côte d’Ivoire to advance digital civil registration | Biometric Update](https://www.biometricupdate.com/202610/cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration)** — Biometric Update, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+Cameroon's civil-registration office, BUNEC, sent a study mission to Côte d'Ivoire's ONECI on 26–30 October 2026 on digitisation and interoperability. Cameroon has computerised 60 of its 432 principal civil-registration centres. It aims to computerise all of them by 2029.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[État civil : le Cameroun s’inspire de la Côte d’Ivoire pour interconnecter ses données](https://www.wearetech.africa/fr/fils/actualites/tech/etat-civil-le-cameroun-s-inspire-de-la-cote-d-ivoire-pour-interconnecter-ses-donnees)** — We Are Tech Africa, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abidjan from 26 to 30 October 2026. Cameroon plans to computerise and interconnect 432 main registry centres by 2029. ONECI reported its CityWeb software in every centre, online e-certified birth extracts, and weak connectivity in some centres.
 
 </div>
 
@@ -792,6 +808,14 @@ Gabon Digital Week opened with the launch of an online register of the companies
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[LANCEMENT DU FICHIER UNIQUE DES PARTICIPATIONS (FUP)](https://www.budget.gouv.ga/object.getObject.do?id=2675)** — Ministère de l’Économie, des Finances, de la Dette et des Participations (Gabon), 26 October 2026
+
+Gabon's economy ministry launched the Fichier unique des participations, a digital register of the state's shareholdings, at Gabon Digital Week in Libreville on 26 October 2026. The Direction générale des Participations runs it with the digital economy ministry. It is meant to map state holdings and track their revenues.
+
+</div>
+
 </div>
 
 ## Gambia
@@ -931,6 +955,20 @@ Guinea's procurement regulator opened an operation to build and clean up a datab
 **[MATD-DGE : Djenabou Touré lance l’atelier sur l’extension du Registre national des personnes physiques](https://www.guinee114.com/2026/09/18/matd-dge-djenabou-toure-lance-latelier-sur-lextension-du-registre-national-des-personnes-physiques/)** — Guinee114.com, 18 September 2026
 
 Guinea's territorial administration minister, Djenabou Touré, opened a workshop on 18 September 2026 on extending the national register of natural persons (RNPP), run jointly by the civil registration and identification office ONECI and the elections directorate. She asked that the first phase of an identity verification and validation platform be completed before the end of 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National civil-status register (RENEC) implementation project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée : le MATD lance, via l’ONECI, le projet RENEC pour moderniser et sécuriser l’état civil](https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/)** — GUISTAT, 28 October 2026
+
+Guinea's territorial administration ministry launched RENEC, a national civil-status register, through its agency ONECI on 28 October 2026. The firm Digitech will build it to 2028, with national budget funding. It will give each citizen a unique identifier from birth, with first centres opening in 2026.
 
 </div>
 
@@ -1813,6 +1851,34 @@ Tanzania's Deputy Minister for Industry and Trade Denis Londo said on 11 October
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Jamii Wezeshi registration platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital driver identification in Tanzania](https://stronghold.co.tz/article/digital-driver-identification-in-tanzania)** — Stronghold, 29 October 2026
+
+Officials and motorcycle-taxi associations met in Dodoma to discuss Jamii Wezeshi, a government platform registering drivers for health insurance, social security and loans (reported 29 October 2026). Permanent Secretary Eliakim Chacha Maswi said the data should guide support for drivers. The association CHAMWAPITA proposed a unified database of drivers and loan recipients.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zanzibar Land Registration and Information System (LARIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zanzibar to link identity card with land ownership records to curb disputes](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-to-link-identity-card-with-land-ownership-records-to-curb-disputes-5650378)** — The Citizen (Tanzania), 29 October 2026
+
+Zanzibar plans to link Zan ID card details to land ownership records through LARIS, a land registration system being built by the French firm IGN FI. The project coordinator said on 29 October 2026 that the project runs from June 2026 to May 2028. Its nine components include digitising land documents.
+
+</div>
+
+</div>
+
 ## Tunisia
 
 <div class="monthly-story" markdown="1">
@@ -1854,6 +1920,14 @@ Tunisia's tax directorate announced on 8 September 2026 new functions on its Tej
 **[Fiscalité numérique : la DGI enrichit la plateforme « TEJ »](https://www.leconomistemaghrebin.com/2026/09/08/fiscalite-numerique-la-dgi-enrichit-la-plateforme-tej/)** — L'Economiste Maghrébin, 8 September 2026
 
 Tunisia's tax directorate added functions to its TEJ tax data exchange platform from September 2026, announced on 8 September. Taxpayers can check their filing status in real time and delegate tasks to other users, public enterprises can check suppliers' tax standing, and all withholding-tax certificates now go through TEJ.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : la digitalisation fiscale permet d’économiser 6 000 journées de travail - WMC](https://www.webmanagercenter.com/2026/10/27/575585/tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de-travail/)** — Webmanagercenter, 27 October 2026
+
+More than 85,000 Tunisian taxpayers had filed employer declarations on the TEJ platform by end-July 2026, saving about 6,000 working days. The figure comes from the report on the 2027 budget bill, Webmanagercenter said on 27 October 2026. More than 270 cash registers in sit-in food and drink outlets are now connected.
 
 </div>
 

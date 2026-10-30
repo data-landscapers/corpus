@@ -1,10 +1,10 @@
 ---
 title: Standards — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: gov.standards
 places: BEN; BFA; BDI; CMR; COG; EGY; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; NAM; NGA; RWA; SYC; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 5f06c54d4cd8
+record: a576414285c7
 ---
 
 # News, Sep – Oct 2026
@@ -516,6 +516,14 @@ From 10 October 2026, Nigeria's communications regulator began texting owners of
 **[NCC device verification questions Nigeria's phone imports](https://techcabal.com/2026/10/20/device-verification-phones-nigeria/)** — TechCabal, 20 October 2026
 
 Nigeria's Communications Commission launched a Device Checker on 7 October 2026 that lets buyers dial *315# to see whether a phone is type approved, using its IMEI. An article on 20 October 2026 notes that 99% of smartphones are imported and about 63 million devices are sold each year, and questions how well the NCC can enforce compliance. Buyers of flagged phones have no standard refund route.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Device Checker: Nigeria introduces app to simplify phone verification](https://techcabal.com/2026/10/29/nigeria-device-checker-verification-app/)** — TechCabal, 29 October 2026
+
+Nigeria's communications regulator, the NCC, announced a Device Checker app on 29 October 2026. Authorised manufacturers, importers, distributors and dealers use it to scan handset IMEIs and upload device data. The NCC is also licensing phone dealers in Kano State.
 
 </div>
 

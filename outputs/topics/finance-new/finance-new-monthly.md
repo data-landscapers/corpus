@@ -1,10 +1,10 @@
 ---
 title: New investments — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: finance.new
 places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; GHA; KEN; MWI; MRT; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; TGO; ZMB
-record: a055bd378122
+record: d89b7aa5d040
 ---
 
 # News, Sep – Oct 2026
@@ -389,6 +389,20 @@ A Ghanaian remittance startup moving money from the United States to Ghana raise
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UK FCDO Ghana cyber standards and expertise project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tier 2: Ghana - Ghana Cyber, Standards and Expertise Project (26)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-GOV-1-400101-406)** — UK Foreign, Commonwealth & Development Office (FCDO), 30 September 2026
+
+The UK Foreign, Commonwealth and Development Office committed GBP 200,000 on 30 September 2026 to a Ghana cyber project, its IATI file shows. The project works with the Cyber Security Authority, Lancaster University and the UK-Ghana Chamber of Commerce on the cyber workforce and institutions. It runs to March 2029.
+
+</div>
+
+</div>
+
 ## Kenya
 
 <div class="monthly-story" markdown="1">
@@ -736,6 +750,20 @@ Proparco, the French development finance institution, said on 5 October 2026 tha
 **[US govt agency pouring billions into African digital infrastructure firm with HQ in Joburg](https://www.ewn.co.za/2026/09/17/us-govt-agency-pouring-billions-into-african-digital-infrastructure-firm-with-hq-in-joburg)** — EWN (Eyewitness News), 17 September 2026
 
 The United States development finance corporation approved an equity investment in a Johannesburg-headquartered operator of undersea cables, fibre networks and data centres in more than 30 African countries, naming two investment partners. Its board published no amount; a news organisation puts the investment at around R2.5 billion, up to US$155 million, as a ceiling rather than a committed sum.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UK FCDO grant for cross-regulatory digital governance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Southern Africa Bilateral - Strengthening Cross-Regulatory Digital Governance in South Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-GOV-1-400199-411)** — UK Foreign, Commonwealth & Development Office (FCDO), 7 October 2026
+
+The UK Foreign, Commonwealth and Development Office committed GBP 70,000 on 7 October 2026 through the University of the Witwatersrand, its IATI file shows. The project pairs South African ICT and media regulators with UK peers on AI, online safety and digital platforms. It runs to March 2027.
 
 </div>
 

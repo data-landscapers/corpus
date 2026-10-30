@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 9cfd89f56f1a
+record: 224d2ce270c7
 ---
 
 # News, Sep – Oct 2026
@@ -358,6 +358,28 @@ Egypt's communications minister met INTRO Investment Holding to review the Kemet
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Khazna-Benya hyperscale data centre, Maadi Technology Park</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[بيانات المصريين بين أبوظبي والقاهرة (Al-Pheratz investigation, Benya–Khazna Maadi data centre)](https://alpheratzmag.com/reports/%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%8a%d9%86/)** — Al-Pheratz Magazine (الفراتس), 2 October 2026
+
+An Al-Pheratz investigation found no documented construction start, operating licence or Egyptian operator for the Benya–Khazna data centre at Maadi. The project was announced in May 2023 at 25 MW and over US$250m. The reporter traced the partners to a holding company registered in the Abu Dhabi Global Market.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[How I Mapped a $250 Million Data Center Across Two Jurisdictions](https://pulitzercenter.org/resource/how-i-mapped-250-million-data-center-across-two-jurisdictions)** — Pulitzer Center, 26 October 2026
+
+The reporter behind the Al-Pheratz investigation into the Benya–Khazna data centre at Maadi described the method for the Pulitzer Center on 26 October 2026. The reporter mapped brand names to legal entities across Egyptian records and Abu Dhabi Global Market filings. The investigation's findings are summarised under the Al-Pheratz entry.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">eFinance, Alibaba Cloud and Nuvexa cloud memorandum</p>
 
 <div class="bulletin-item" markdown="1">
@@ -379,6 +401,21 @@ Egypt's eFinance Investment Group, Alibaba Cloud and Nuvexa signed a memorandum,
 **[A consortium is forming to take an equity stake in an Egyptian data center, but the sector’s barriers run deep](https://enterpriseam.com/egypt/2026/10/07/a-consortium-is-forming-to-take-an-equity-stake-in-an-egyptian-data-center-but-the-sectors-barriers-run-deep/)** — EnterpriseAM, 7 October 2026
 
 Egypt has about 15–20 MW of installed data centre IT capacity, and of 400–500 MW announced across four large projects only about 20 MW is committed, Post For Investment's chief executive told the EnterpriseAM Egypt Forum on 5 October 2026. He said his firm is forming a consortium to take an equity stake in a data centre; the four projects would need US$4–5bn.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Raya acquisition of an operating Egyptian data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[“راية” تطلق ذراعها لرأس المال المخاطر وتستثمر في “Pidima”](https://www.alborsaanews.com/2026/10/27/2002153)** — Al Borsa News, 27 October 2026
+
+Raya Holding conditionally approved up to US$60m to buy an unnamed operating data centre in Egypt, it told the Egyptian Exchange. The money would come through a capital increase at Raya Data Center Services. Al Borsa News reported the disclosure on 27 October 2026.
 
 </div>
 
@@ -909,6 +946,14 @@ The US Trade and Development Agency has granted US$1,870,000 to Infragora Global
 **[Nigeria to get two new AI-ready data centres in a $1 billion investment](https://techcabal.com/2026/10/26/infragora-1-billion-data-centres/)** — TechCabal, 26 October 2026
 
 Infragora Global Capital plans to start building two AI-ready AFRIDATA data centres in Nigeria in the second and third quarters of 2027, a project it puts at $650 million to $1 billion, with financial close still to come. The centres would run on a dedicated 160-200 MW gas, renewable and battery plant.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFRIDATA, Agency sign $1.87m grant for Nigerian data centre study](https://nannews.ng/afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study/)** — News Agency of Nigeria, 28 October 2026
+
+USTDA and AFRIDATA signed a US$1.87m grant for a Nigerian data centre feasibility study, the News Agency of Nigeria reported on 28 October 2026. The signing marked AFRIDATA Nigeria's launch in Abuja. The study covers a flagship site in Lagos, possibly in the Lagos Free Zone, and a backup site in Delta.
 
 </div>
 

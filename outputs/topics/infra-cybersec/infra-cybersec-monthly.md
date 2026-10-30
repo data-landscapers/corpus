@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: infra.cybersec
 places: BEN; BFA; CMR; CPV; TCD; COM; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 02cfdba04fd2
+record: c3c6d65b82a1
 ---
 
 # News, Sep – Oct 2026
@@ -248,6 +248,22 @@ Côte d'Ivoire's information-systems security agency will run a first national c
 **[CYBER.EX 2026 : l’ANSSI veut préparer la Côte d’Ivoire aux crises numériques](https://www.linfodrome.com/societe/126972-cyber-ex-2026-l-anssi-veut-preparer-la-cote-d-ivoire-aux-crises-numeriques)** — Linfodrome, 28 October 2026
 
 Côte d'Ivoire's cybersecurity agency ANSSI opened CYBER.EX 2026, the country's first national cyber-crisis exercise, on 28 October 2026. It tests how government bodies, companies and the defence and security forces respond to a simulated cyberattack and work together.
+
+</div>
+
+</div>
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Major vulnerabilities recorded by the national cyber-security agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[En Côte d’Ivoire, une simulation nationale pour «apprendre à réagir» aux cyberattaques majeures](https://www.rfi.fr/fr/afrique/20261029-en-c%C3%B4te-d-ivoire-une-simulation-nationale-pour-apprendre-%C3%A0-r%C3%A9agir-aux-cyberattaques-majeures)** — RFI, 29 October 2026
+
+Côte d'Ivoire's information-systems security agency, ANSSI, ran a national cyberattack simulation, Cyber.Ex, in Abidjan on 28–29 October 2026. ANSSI names energy, finance and telecommunications as the most targeted sectors. It says it has recorded 147 major vulnerabilities since January 2026, leading to data leaks, outages and ransom demands.
 
 </div>
 
@@ -1138,6 +1154,20 @@ The Sierra Leone Road Safety Authority said in a public notice dated 2 October 2
 **[Sierra Leone: Government confirms cyberattack on 44 websites](https://thisdaysl.com/sierra-leone-government-confirms-cyberattack-on-44-websites/)** — This Day (Salone), 9 October 2026
 
 Sierra Leone's communications ministry confirmed that 44 website addresses, one a government institution's, were hit on 25 September through the system that administers the national internet domain. Service was restored the same day; how the attackers got in has not been made public.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Investigation into the cybercrime network raided in Freetown and Kenema</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[18 Arrested, 40 Detained Aftere Security Forces Raid Suspected International Cybercrime Network | Sierra Leone Monitor](https://www.sierraleonemonitor.com/security-forces-raid-cybercrime-network/)** — Sierra Leone Monitor, 27 October 2026
+
+Sierra Leone's security forces and communications regulator raided a suspected international cybercrime network in Freetown and Kenema. They arrested 18 people and seized 1,206 phones, over 500 computers and 301 passports. The information ministry announced the raid on 27 October 2026.
 
 </div>
 

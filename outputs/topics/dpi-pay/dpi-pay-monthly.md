@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2f6812e9f7a8
+record: beddb53db8de
 ---
 
 # News, Sep – Oct 2026
@@ -1380,6 +1380,20 @@ Conakry Terminal, a subsidiary of Africa Global Logistics in Guinea, launched on
 **[Appel à manifestation d'intérêt pour le recrutement d'un cabinet pour la conception et la mise en œuvre d'un scheme national de paiement (SNP) en République de Guinée](https://letravail224.com/appel-a-manifestation-dinteret-pour-le-recrutement-dun-cabinet-pour-la-conception-et-la-mise-en-oeuvre-dun-schema-national-de-paiement-snp-en-republique-de-guinee/)** — WARDIP-Guinée (MCENI), via Le Travail 224, 1 October 2026
 
 Guinea's WARDIP project, under the digital economy ministry, invited expressions of interest on 1 October 2026, due by 23 October, from firms to design and implement a national payment scheme. The nine-month assignment supports the national switch GuiM and the central bank, BCRG, on governance, rules, security and a business model through to a pilot. It is paid from a US$60 million IDA financing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NimbaPay national instant payment system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée : NimbaPay traite 7,6 millions $ de transactions et connecte 7 établissements en 4 mois](https://www.agenceecofin.com/actualites/2610-142742-guinee-nimbapay-traite-7-6-millions-de-transactions-et-connecte-7-etablissements-en-4-mois)** — Agence Ecofin, 26 October 2026
+
+Guinea's central bank said on 22 October 2026 that its instant payment system NimbaPay had seven connected institutions by 15 October. It had handled about 67,000 transactions worth over GNF 68bn. The bank is also drafting a payment-systems bill and a 2027–2030 payments strategy with World Bank support.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: dc2c153e3f3f
+record: bedfe570f4e0
 ---
 
 # News, Sep – Oct 2026
@@ -162,6 +162,20 @@ Algeria's Ministry of Post and Telecommunications said on 30 September 2026 that
 **[Algérie : la fibre optique dépasse 4 millions d'abonnements, les tarifs chutent de 76 %](https://www.agenceecofin.com/actualites-numerique/1210-142333-algerie-la-fibre-optique-depasse-4-millions-d-abonnements-les-tarifs-chutent-de-76)** — Agence Ecofin, 12 October 2026
 
 Algeria's fibre-to-the-home subscriptions passed 4 million in early October, from 53,000 in June 2020, on the posts minister's figures. The monthly price of an offer of 100 Mbit/s or more has fallen 76%, and the target is more than 4.4 million by the end of the year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health facilities connected to fibre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérisation du secteur de la santé : Plus de 2.355 structures raccordées à la fibre optique (ministre)](https://lavoiedalgerie.dz/numerisation-du-secteur-de-la-sante-plus-de-2-355-structures-raccordees-a-la-fibre-optique-ministre/2026/29/00/)** — La voix de l’Algérie, 29 October 2026
+
+Algeria's health ministry said on 28 October 2026 that more than 2,355 health facilities had been connected to fibre, working with Algérie Télécom. It said all university hospital centres are due to be digitised by 15 November 2026. A national telemedicine system and teleradiology are being rolled out with the electronic medical record.
 
 </div>
 
@@ -947,6 +961,21 @@ Vodafone Egypt has started commercial rollout of Ericsson's AI-capable RAN Proce
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulated retail package prices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The NTRA issues order to double Egypt’s base internet package capacity at no extra cost](https://www.egyptindependent.com/the-ntra-issues-order-to-double-egypts-base-internet-package-capacity-at-no-extra-cost/)** — Egypt Independent, 28 October 2026
+
+Egypt's telecoms regulator ordered fixed-line providers to double the EGP 150 base internet package from 50 GB to 100 GB at no extra charge. The change takes effect on 1 November 2026. The package was introduced in May 2026 for low-use subscribers.
+
+</div>
+
+</div>
+
 ## Equatorial Guinea
 
 <div class="monthly-story" markdown="1">
@@ -987,6 +1016,28 @@ Facebook and TikTok have been unreachable in Equatorial Guinea without a VPN sin
 **[GETESA ahorrará 262 millones de francos CFA al mes para reinvertirlos en la mejora de la red nacional](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/)** — AhoraEG, 8 October 2026
 
 Equatorial Guinea's Vice-President Teodoro Nguema Obiang Mangue told the finance ministry on 7 October 2026 to investigate and urgently release financing for state operator GETESA's network expansion agreement with Huawei, which Treasury payment arrears have slowed. GETESA will cancel non-essential maintenance contracts until December, saving over 262 million CFA francs a month for reinvestment in the network.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet and communications blackout on Annobón</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Deliberately forgotten: internet shutdowns with no end](https://www.accessnow.org/indefinite-internet-shutdowns/)** — Access Now, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Access Now published a report on 20 October 2026 on internet shutdowns with no announced end, citing Tigray, Sudan and Annobón. It says the number of such shutdowns has risen each year. It asks states, the Freedom Online Coalition and satellite providers to act; the Annobón entry carries its testimonies.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Annobón without internet: Access Now gathers testimonies and demands an end to the blackout](https://www.ambolegadu.com/en/annobon-sin-internet-access-now-reune-testimonios-y-reclama-el-fin-del-apagon/)** — Ambô Legadu, 27 October 2026
+
+Access Now's report of 20 October 2026 carries testimonies from Annobón, an island of Equatorial Guinea cut off from internet and communications since July 2024. It attributes the blackout to the government, amid protests over detonations affecting homes and land. It demands full restoration of service.
 
 </div>
 
@@ -1224,6 +1275,20 @@ Ahead of the first Gabon Digital Week, digital economy minister Mark-Alexandre D
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile internet usage against coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GSMA Calls for More Affordable Smartphones as Over Half of Gabon’s Population Remains Off Mobile Internet Despite Network Coverage](https://www.gsma.com/newsroom/all-documents/gsma-calls-for-more-affordable-smartphones-as-over-half-of-gabons-population-remains-off-mobile-internet-despite-network-coverage/)** — GSMA, 29 October 2026
+
+A GSMA report on Gabon, reported on 28 October 2026, finds four in ten Gabonese use mobile internet, though 4G reaches 95%. The report proposes removing the 18% VAT on entry-level smartphones and cutting operator charges from 11% to 3% of gross revenue. It estimates these steps could bring about 190,000 more people online by 2031.
+
+</div>
+
+</div>
+
 ## Gambia
 
 <div class="monthly-story" markdown="1">
@@ -1452,6 +1517,14 @@ An Ericsson delegation called on Ghana's National Communications Authority to di
 **[USTDA Advances Secure Digital Access in Ghana](https://ustda.gov/ustda-advances-secure-digital-access-in-ghana/)** — U.S. Trade and Development Agency (USTDA), 9 September 2026
 
 The US Trade and Development Agency signed an agreement on 9 September to fund a feasibility study for open-access fibre laid along Northern Electricity Distribution Company lines, which span more than 60 per cent of Ghana. The study is to assess commercial viability, quantify demand and develop a financing strategy; no grant value is stated.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Northern Ghana Fiber Backbone and Access Networks Feasibility Study](https://ustda.gov/business_opp_oversea/northern-ghana-fiber-backbone-and-access-networks-feasibility-study/)** — U.S. Trade and Development Agency (USTDA), 28 October 2026
+
+CSquared Ghana invited US firms to bid for a feasibility study on fibre strung along NEDCo's electricity network in northern Ghana. A US$660,000 USTDA grant pays for the study. Proposals are due on 1 December 2026.
 
 </div>
 
@@ -2052,6 +2125,20 @@ The Malawi Communications Regulatory Authority opened an investigation, by notic
 **[Proposed acquisition of assets of Open Connect Limited by Telekom Networks Malawi Plc](https://www.cftc.mw/2026/10/27/proposed-acquisition-of-assets-of-open-connect-limited-by-telekom-networks-malawi-plc/)** — Competition and Fair Trading Commission of Malawi, 27 October 2026
 
 Malawi's competition commission approved, with conditions, Telekom Networks Malawi's MK23.5 billion purchase of Open Connect Limited's fibre network, data centre and enterprise contracts. TNM must split wholesale and retail under independent boards. Its fibre must stay open to all on equal terms. The commission accepted the deal as the rescue of a failing firm and set three years of monitoring.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School connectivity under the Digital Malawi Acceleration Project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Msaka discloses plans to connect 2, 000 primary and secondary schools across Malawi](https://www.malawivoice.com/2026/10/29/msaka-discloses-plans-to-connect-2-000-primary-and-secondary-schools-across-malawi/)** — Malawi Voice, 29 October 2026
+
+Malawi's Education Minister Bright Msaka said on 29 October 2026 that 2,000 primary and secondary schools will be connected to the internet. The work falls under the World Bank-supported Digital Malawi Acceleration Project, with the Malawi Research and Education Network central to delivery. He gave no timeline or cost.
 
 </div>
 
@@ -2904,6 +2991,20 @@ Sierra Leone's Independent Procurement Review Panel opened an investigation into
 **[IPRP Vindicates MoCTI](http://blacknews.uk/iprp-vindicates-mocti)** — Black News, 8 October 2026
 
 Sierra Leone's procurement review panel dismissed a bidder's complaint over the evaluation of the World Bank-funded government network contract. It directed the ministry to open financial proposals and proceed to award.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulator's spectrum, quality-of-service and broadcast monitoring systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NatCA Unveils State-of-the-Art Telecommunications Regulatory Equipments | Sierra Leone Monitor](https://www.sierraleonemonitor.com/natca-unveils-telecommunications-equipments/)** — Sierra Leone Monitor, 29 October 2026
+
+Sierra Leone's National Communications Authority unveiled new systems on 28 October 2026 for spectrum monitoring, quality of service, spectrum management and broadcast monitoring. The World Bank funded them under the Sierra Leone Digital Transformation Project.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: digital.localgov
-places: BDI; CMR; TCD; COD; EGY; GAB; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 3636835d4dbd
+places: BDI; CMR; CPV; TCD; COD; EGY; GAB; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
+record: edfc194a4b2c
 ---
 
 # News, Sep – Oct 2026
@@ -13,6 +13,8 @@ record: 3636835d4dbd
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#chad">Chad</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -108,6 +110,22 @@ Cameroon's housing and telecoms ministries and UN-Habitat launched a national ac
 **[Cameroon advances local Governance through digital innovation and Citizen engagement](https://en.journalducameroun.com/cameroon-advances-local-governance-through-digital-innovation-and-citizen-engagement/)** — Journal du Cameroun, 14 October 2026
 
 Cameroon's Ministry of Decentralisation and Local Development presented and handed over a Citizen Participation Guide and the 'Mboa City' municipal app at a national workshop on 13 October 2026, under the Inclusive and Resilient Cities Development Project. The ministry will roll out the guide across councils, and the local government fund FEICOM will run the app.
+
+</div>
+
+</div>
+
+## Cape Verde
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Municipal information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Municípios ganham novas ferramentas para arrecadar mais impostos](https://www.inforpress.cv/en/municipios-ganham-novas-ferramentas-para-arrecadar-mais-impostos)** — Inforpress, 28 October 2026
+
+Cabo Verde began applying the Simpol municipal information system in all 22 municipalities from 28 October 2026. The system supports local finance management. It will support assessment and collection under the new Property Tax Code from 2027.
 
 </div>
 

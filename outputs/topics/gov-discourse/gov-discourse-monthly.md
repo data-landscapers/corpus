@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: gov.discourse
-places: DZA; CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e28283b413d4
+places: DZA; CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; NER; NGA; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 115fa7f96e75
 ---
 
 # News, Sep – Oct 2026
@@ -37,6 +37,8 @@ record: e28283b413d4
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#niger">Niger</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -454,6 +456,22 @@ Niger's communications minister Adji Ali Salatou and the national communication 
 **[Rencontre entre le ministre charge de la Communication, le president de l''ONC et les promoteurs de medias : l''ONC devoile les conclusions d''un monitoring](https://www.lesahel.org/rencontre-entre-le-ministre-charge-de-la-communication-le-president-de-lonc-et-les-promoteurs-de-medias-lonc-devoile-les-conclusions-dun-monitoring-realise-a-la-suit/)** — Le Sahel (ONEP), 3 September 2026
 
 Niger's national communication observatory (ONC) presented its monitoring of coverage of the 28-29 August 2026 events in Niamey to media owners on 2 September, alongside the communications minister. It found intense information demand, an information vacuum, official and international media describing the events differently, and old images and out-of-context video circulating on social networks.
+
+</div>
+
+</div>
+
+## Nigeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nigeria AI Governance Forum advisory council</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NAIGF inaugurates advisory council to guide responsible AI in Nigeria](https://aigovernanceafrica.com/naigf-inaugurates-advisory-council-to-guide-responsible-ai-in-nigeria/)** — AI Governance Africa, 27 October 2026
+
+The Nigeria AI Governance Forum inaugurated a 15-member advisory council chaired by Olusola Teniola, it was reported on 27 October 2026. The council will give policy advice in support of the national AI strategy. It is not a regulator, and its recommendations have no legal force.
 
 </div>
 

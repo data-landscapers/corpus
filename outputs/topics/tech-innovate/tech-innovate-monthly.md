@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: tech.innovate
 places: DZA; AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; KEN; LBR; MWI; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
-record: 5402451bbfa8
+record: 3e23cb509f39
 ---
 
 # News, Sep – Oct 2026
@@ -212,6 +212,20 @@ Côte d'Ivoire's finance ministry launched a Fintech Sector Support Project in A
 **[Côte d'Ivoire Welcomes Economic Innovation Through Blockchain and Digital Assets](https://cryptoafrica.news/cote-divoire-welcomes-economic-innovation-through-blockchain-and-digital-assets/)** — Crypto Africa, 23 October 2026
 
 An international seminar on blockchain and digital assets in Abidjan, co-organised by the VITIB technology zone and Valoores Africor and attended by digital transition minister Djibril Ouattara, discussed how the technology could support Côte d'Ivoire's economy. The minister said the government aims both to enable innovation and to build supervisory mechanisms and trust frameworks, and VITIB's director-general said it plans a blockchain centre of excellence to train and assist the state and businesses.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AEDIB investment-readiness programme for tech start-ups</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Call for Tenders: Design and Delivery of an Investment Readiness Programme for Tech and Tech-Enabled Startups in Cote d'Ivoire](https://tenders-afd.dgmarket.com/tender/116742536)** — Agence Française de Développement (via dgMarket), 27 October 2026
+
+Expertise France opened a tender on 27 October 2026 for an investment readiness programme for tech startups in Côte d'Ivoire. The programme falls under the Africa-Europe Digital Innovation Bridge. It would support four support organisations and 16 startups, at least five women-led, for 17 months from February 2027; bids close on 23 November.
 
 </div>
 
@@ -759,6 +773,21 @@ Tanzania's ICT minister, Angellah Kairuki, launched a TZS 5bn loan programme for
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed Tanzania Venture Capital Fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania plans $50m venture capital fund for startups](https://ippmedia.co.tz/the-guardian/news/local-news/read/tanzania-plans-50m-venture-capital-fund-for-startups-2026-10-26-115005)** — The Guardian (Tanzania), 26 October 2026
+
+The Tanzania Startup Association proposed a $50 million venture capital fund at Tanzania Startup Week 2026 in Dar es Salaam. It wants 15 per cent from government and the rest from private institutional investors. The fund would back 18 local and regional funds and seek $180 million in co-investment.
+
+</div>
+
+</div>
+
 ## Tunisia
 
 <div class="monthly-story" markdown="1">
@@ -816,6 +845,20 @@ The Uganda Communications Commission re-advertised on 29 September 2026 a call f
 **[Zimbabwe clears drones to deliver vaccines, blood and medicines](https://www.newzimbabwe.com/zimbabwe-clears-drones-to-deliver-vaccines-blood-and-medicines/)** — NewZimbabwe, 22 September 2026
 
 The Civil Aviation Authority of Zimbabwe approved Drone Solutions Zimbabwe to fly beyond-visual-line-of-sight medical deliveries using Kite Aero's KITE aircraft, moving from demonstration flights completed in August 2026 to daily operations. The service carries vaccines, blood, pathology samples and medicines, with deliveries taking about 30 minutes. The date of the approval is not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Innovation Drive Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[POTRAZ says it is now a gateway for investors, not a gatekeeper](https://www.heraldonline.co.zw/potraz-says-it-is-now-a-gateway-for-investors-not-a-gatekeeper/)** — The Herald (Zimbabwe), 29 October 2026
+
+Zimbabwe's regulator POTRAZ now licenses services, not technologies, and uses its Universal Service Fund to fund early-stage ventures, director-general Gift Machengete said in Harare on 29 October 2026. He said the fund's Innovation Drive Programme has backed more than 100 innovations. Its AI for Impact programme drew over 700 applications in 2026 and advanced 16.
 
 </div>
 

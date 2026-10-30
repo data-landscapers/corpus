@@ -1,10 +1,10 @@
 ---
 title: Energy — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: infra.energy
 places: BWA; COG; COD; ETH; KEN; LBY; SLE; ZAF; SSD
-record: 262d159bc6e5
+record: f2722db78f51
 ---
 
 # News, Sep – Oct 2026

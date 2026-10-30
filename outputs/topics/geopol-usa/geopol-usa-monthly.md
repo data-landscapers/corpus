@@ -1,10 +1,10 @@
 ---
 title: US / hyperscaler activities — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: geopol.usa
 places: CPV; DJI; EGY; KEN; LBY; MUS; ZAF; ZMB; ZWE
-record: e1b4933bc725
+record: dcc968fc3f62
 ---
 
 # News, Sep – Oct 2026

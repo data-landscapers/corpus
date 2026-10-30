@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9a314721a335
+record: 93c23ee9e31e
 ---
 
 # News, Sep – Oct 2026
@@ -280,6 +280,22 @@ Angola's public e-services portal SEPE remained online after the Kazu ransomware
 
 </div>
 
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Portal SIMPLIFICA single public-services portal platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Executivo anuncia concurso público internacional para modernizar o Portal SIMPLIFICA](https://pti.ao/executivo-anuncia-concurso-publico-internacional-para-modernizar-o-portal-simplifica/)** — Portal de T.I, 29 October 2026
+
+Angola's Institute for Administrative Modernisation (IMA) opened an international tender for a new platform for the SIMPLIFICA public-services portal. A US$300 million World Bank loan for the Angola Digital Acceleration Project pays for it. Bids close on 27 November 2026.
+
+</div>
+
+</div>
+
 ## Benin
 
 <div class="monthly-story" markdown="1">
@@ -534,6 +550,20 @@ Burundi's presidency adopted Gasape Chat, a locally built messaging application,
 **[SERVICEPUBLIC.GOV.CM: MINFOPRA SEEKS HOMEPAGE REDESIGN AND NEW PORTAL IDENTITY](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2395-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-identity)** — MINFOPRA (Cameroun), 20 October 2026
 
 Cameroon's public-service minister Joseph Le reviewed the servicepublic.gov.cm portal on 20 October 2026 before its launch: it lists 1,250 procedures in 25 categories in French and English, with an app for offline use and a proposed 90-day publicity campaign across the ten regions. He asked for a new name and look for the portal and a review of the contract with its provider, ADWA SARL.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric attendance control for civil servants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Aigles: le ministre joseph le motive l'appropriation de l’outil et annonce la généralisation de la biométrie pour lutter contre l'absentéisme chronique des agents publics](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2398-aigles-le-ministre-joseph-le-motive-l-appropriation-de-l-outil-et-annonce-la-generalisation-de-la-biometrie-pour-lutter-contre-l-absenteisme-chronique-des-agents-publics)** — Ministère de la Fonction publique et de la Réforme administrative (MINFOPRA), 27 October 2026
+
+Cameroon's public service ministry will extend biometric attendance checks to all civil servants after a pilot in three ministries. It announced this in Bafoussam on 22 October 2026. The occasion was the launch of nationwide training on AIGLES, its career and payroll system.
 
 </div>
 
@@ -893,6 +923,20 @@ DR Congo's deputy interior minister opened a four-day national workshop in Kinsh
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-government strategy 2025-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Democratic Republic of Congo seeks consultancy for $500 million digital programme](https://www.consultancy.africa/news/2326/democratic-republic-of-congo-seeks-consultancy-for-500-million-digital-programme)** — Consultancy Africa, 28 October 2026
+
+The DRC's telecoms ministry is seeking a firm for an eight-month e-government consultancy, Consultancy Africa reported on 28 October 2026. The work covers a master plan for the 2025–2030 strategy, enterprise architecture and interoperability. The wider programme has US$400m from the World Bank and €100m from the French Development Agency.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -1104,6 +1148,20 @@ Egypt's foreign ministry has started piloting a mobile app for consular services
 **[El Gobierno pone en marcha el Boletín Oficial del Estado digital](https://www.guineaecuatorialpress.com/index.php/noticias/el_gobierno_pone_en_marcha_el_boletin_oficial_del_estado_digital)** — Guinea Ecuatorial Press (Oficina de Información y Prensa), 6 October 2026
 
 Equatorial Guinea's government announced a digital edition of its official gazette at boe.gob.gq, giving free online access to laws, decrees, ministerial orders and circulars with search of past publications.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online visa system operated with VFS Global</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Gobierno analiza el contrato de VFS Global para reforzar el sistema de visados en línea y potenciar la promoción turística](https://www.guineaecuatorialpress.com/noticias/el_gobierno_analiza_el_contrato_de_vfs_global_para_reforzar_el_sistema_de_visados_en_linea_y_potenciar_la_promocion_turistica)** — Guinea Ecuatorial Press, 29 October 2026
+
+Equatorial Guinea's vice-presidency reviewed the VFS Global e-visa contract before formalising it (reported 29 October 2026). About 35,127 e-visas have been processed since launch on 1 July 2023, against an expected 200,000 a year. VFS proposed automated applicant assistance and document data-extraction tools.
 
 </div>
 
@@ -1715,6 +1773,14 @@ Importers, exporters and logistics firms welcomed the Kenya Revenue Authority's 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[KRA Rolls-Out Multi-Vendor Electronic Cargo Seal Framework to Enhance Trade Efficiency](https://www.kra.go.ke/news-center/press-release/2405-kra-rolls-out-multi-vendor-electronic-cargo-seal-framework-to-enhance-trade-efficiency)** — Kenya Revenue Authority, 27 October 2026
+
+The Kenya Revenue Authority began rolling out a multi-vendor electronic cargo seal framework on 27 October 2026. It replaces the single-vendor arrangement in place since 2017. All seals connect to the East African Community's regional cargo tracking system.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1852,6 +1918,34 @@ Kenya's State Department for ICT and the Digital Economy and GIZ worked on final
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic tax invoices issued through M-Pesa under eTIMS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[KRA eyes M-Pesa invoices for small and micro traders](https://www.businessdailyafrica.com/bd/economy/kra-eyes-m-pesa-invoices-for-small-and-micro-traders-5650014)** — Business Daily Africa, 28 October 2026
+
+The Kenya Revenue Authority and Safaricom are in talks to let M-Pesa issue electronic tax invoices for small traders. The plan was reported on 28 October 2026. The invoices would come under eTIMS. They would cover traders paid through M-Pesa tills and paybills.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public Finance Management (e-Citizen) Regulations 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[National Treasury pushes new regulations, plan to run e-Citizen](https://www.tnx.africa/national/article/2001560974/national-treasury-pushes-new-regulations-plan-to-run-e-citizen)** — TNX Africa, 28 October 2026
+
+Kenya's Treasury told the National Assembly Finance Committee on 27 October 2026 that a parliamentary committee had approved the eCitizen regulations. The regulations put the Treasury in charge of the platform. It plans to separate revenue collection from services and cites a revenue assurance system against the Auditor-General's ownership concerns.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -1961,6 +2055,14 @@ Liberia's Office of the Chief Information Officer met ministries and agencies on
 **[مركز خدمة المواطن يبحث دعم منظومة التأشيرة الإلكترونية](https://ar.libyaobserver.ly/article/38605)** — ليبيا أوبزيرفر (Libya Observer, Arabic), 5 September 2026
 
 Libya's Citizen Service Centre and the Passports, Nationality and Foreigners Affairs Authority agreed a joint technical and administrative support mechanism for the national E-Visa system, reported on 5 September 2026. It will receive and process enquiries and complaints from citizens and residents and unify communication between the agencies involved. No date or resources are given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[مصلحة الجوازات تتلقى 773 طلباً للحصول على التأشيرات الإلكترونية خلال أسبوع](https://lana.gov.ly/post.php?id=368841&lang=ar)** — Libyan News Agency (LANA), 29 October 2026
+
+Libya's Passports, Nationality and Foreigners Affairs Authority received 773 e-visa applications from 78 nationalities between 23 and 29 October 2026. It approved 610 and refused 65, and 98 were still pending.
 
 </div>
 
@@ -2813,6 +2915,20 @@ Somalia's civil aviation authority said its dispute with Somaliland over the nat
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-Parliament system of the House of the People</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Parliament Suspends Sessions for Two Weeks to Install E-Parliament System](https://www.dawan.africa/news/somalia-parliament-suspends-sessions-for-two-weeks-to-install-e-parliament-system)** — Dawan Africa, 29 October 2026
+
+Somalia's House of the People will suspend sessions for two weeks from 31 October 2026 to install an E-Parliament system. The Speaker said it would take members' requests online and bring digital attendance and electronic voting.
+
+</div>
+
+</div>
+
 ## South Africa
 
 <div class="monthly-story" markdown="1">
@@ -2928,6 +3044,14 @@ Opening GovTech 2026 in Durban on 21 September 2026, South Africa's communicatio
 **[Local Government Election Results System audit gets underway](https://www.sanews.gov.za/south-africa/local-government-election-results-system-audit-gets-underway)** — SAnews.gov.za, 6 October 2026
 
 South Africa's Electoral Commission opened its Election Results System, which captures and collates results and assigns seats, to audit by ICT experts from the ACDP, ANC, DA and MK Party from 5 to 12 October 2026. The commission said it had already completed an independent external audit of the system ahead of the 2026 local government elections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Elections national results hub opens](https://www.itweb.co.za/article/elections-national-results-hub-opens/8OKdWMDXOpwMbznQ)** — ITWeb South Africa, 29 October 2026
+
+South Africa's Electoral Commission opened its National Results Operations Centre at Gallagher Convention Centre on 28 October 2026. It declared its results system ready after an independent audit. Five political parties audited it on 8–12 October 2026, and 29.2 million voters are registered for the local government elections.
 
 </div>
 
@@ -3081,6 +3205,21 @@ South Africa's Border Management Authority launched its Vehicle Targeting System
 **[Citizen services project MyMzansi gets R150m boost](https://www.itweb.co.za/article/citizen-services-project-mymzansi-gets-r150m-boost/lLn14MmQNEYMJ6Aa)** — ITWeb South Africa, 21 October 2026
 
 South Africa's National Treasury is allocating R150 million to the Presidency's digital services unit to develop MyMzansi, a single platform for government services, according to the adjusted estimates released with the 2026 Medium-Term Budget Policy Statement. The first use case will be issuing and verifying digital matric certificates.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">VAT modernisation consultation paper</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SAAFF calls for customs integration in digital VAT model](https://www.freightnews.co.za/article/saaff-calls-for-customs-integration-in-digital-vat-model)** — Freight News, 26 October 2026
+
+South Africa's revenue service closed consultation on its Digital VAT Model, built on e-invoicing and near-real-time reporting, on 16 October 2026. The freight forwarders' association asked for customs and VAT records to be linked through the Movement Reference Number. It also asked for a phased rollout and an industry pilot.
 
 </div>
 
@@ -3370,6 +3509,20 @@ Togo put ten services of the state broadcasters TVT and Radio Lomé online, from
 **[Togo launches digitalisation of plant import permits to facilitate agricultural trade - Global Alliance for Trade Facilitation](https://www.tradefacilitation.org/2026/10/togo-launches-digitalisation-of-plant-import-permits/)** — Global Alliance for Trade Facilitation, 9 October 2026
 
 The Global Alliance for Trade Facilitation launched a project in Lomé on 9 October 2026 to replace Togo's paper plant import permit with an electronic permit system for the Directorate of Agricultural Production. It is the Alliance's second digitalisation project in Togo after ePhyto, implemented through GIZ and funded by the European Union and the German government. No timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic government procurement system (e-GP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo : 4 consultants recherchés pour préparer la passation électronique des marchés publics](https://www.togofirst.com/fr/gouvernance-economique/2610-20450-togo-4-consultants-recherches-pour-preparer-la-passation-electronique-des-marches-publics)** — Togo First, 26 October 2026
+
+Togo's procurement regulator ARCOP is recruiting four consultants to set up a national e-procurement system, Togo First reported on 26 October 2026. The posts are a functional analyst, a procurement specialist, a change-management expert and a systems administrator. Applications close on 18 November 2026; no go-live date is given.
 
 </div>
 

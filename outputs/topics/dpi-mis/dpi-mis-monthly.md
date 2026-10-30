@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bc5cb49368a7
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: b2ad0a5bdc15
 ---
 
 # News, Sep – Oct 2026
@@ -67,6 +67,8 @@ record: bc5cb49368a7
 <a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -478,6 +480,20 @@ Congo's Minister of Social Affairs, Marie-France Lydie Hélène Pongault, met th
 **[Au Beach Ngobila de Kinshasa, la technologie renforce le bouclier sanitaire entre Kinshasa et Brazzaville](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/au-beach-ngobila-de-kinshasa-la-technologie-renforce-le-bouclier-sanitaire-entre-kinshasa-et)** — OMS, Bureau régional pour l’Afrique, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
 WHO's Regional Director for Africa, Mohamed Janabi, visited passenger screening at Kinshasa's Beach Ngobila river crossing on 18 October 2026, where the WHO-backed Preparedness Data Exchange platform supports Ebola surveillance. He said a similar electronic system would go live in Brazzaville the following week.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Système d'Information Communautaire (community health information app)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TALANGAÏ : LANCEMENT DE LA FORMATION DES RELAIS COMMUNAUTAIRES SUR L’UTILISATION DE L’APPLICATION DU SYSTEME D’INFORMATION COMMUNAUTAIRE (SIC)](https://sante.gouv.cg/talangai-lancement-de-la-formation-des-relais-communautaires-sur-lutilisation-de-lapplication-du-systeme-dinformation-communautaire-sic/)** — Ministère de la Santé et de la Population (Congo), 28 October 2026
+
+Congo's health ministry began training community health workers in Brazzaville's Talangaï district on 28 October 2026. The training covers the Système d'Information Communautaire app. The ministry's IT directorate presents the app as part of digitising the health information system.
 
 </div>
 
@@ -1342,6 +1358,22 @@ Mauritania's education ministry opened pupil registration and transfers for the 
 **[وزيرا الصحة والتحول الرقمي يترأسان اجتماعا لبحث الاجراءات الكفيلة برقمنة المراكز الصحية الجديدة](https://www.ami.mr/archives/271266)** — Agence Mauritanienne d'Information (AMI), 24 October 2026
 
 Mauritania's health minister and minister of digital transformation met in Nouakchott on 24 October 2026 on making the new health centres built under the capital's emergency development programme digitally ready before they open in the coming days. They agreed to form a joint technical team to visit the centres, set out each one's requirements and close the gaps found.
+
+</div>
+
+</div>
+
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-Health electronic medical record</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Dossier médical numérique - E-Health : plus de 150,000 patients déjà enregistrés](https://defimedia.info/dossier-medical-numerique-e-health-plus-de-150000-patients-deja-enregistres)** — Le Defi Media Group, 27 October 2026
+
+Mauritius's electronic medical record had registered more than 150,000 patients in a pilot across about thirty public health facilities, it was reported on 27 October 2026. Patients are identified by national identity card, and data sit on the government intranet. Phase 1 acceptance is planned by December 2026 under a UNDP-managed contract of USD 4.44m.
 
 </div>
 

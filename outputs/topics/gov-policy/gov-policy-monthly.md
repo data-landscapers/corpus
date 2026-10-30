@@ -1,16 +1,18 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: gov.policy
-places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 3d3bcc868302
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: b984840e6cb3
 ---
 
 # News, Sep – Oct 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -84,6 +86,8 @@ record: 3d3bcc868302
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#somalia">Somalia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-sudan">South Sudan</a>
@@ -126,6 +130,22 @@ An El Moudjahid editorial on Algeria's Algérie Numérique 2030 strategy cites t
 **[Portail national des services numériques : Le HCN va assurer des formations](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)** — El Moudjahid, 19 September 2026
 
 Algeria's High Commission for Digitisation trained information system managers from several sectors to use a mechanism it built for verifying electronic documents issued through the Dzair Digital Services portal. Administrative bodies can then accept these documents without asking citizens to obtain them again from the issuing office. The training follows presidential instructions of 12 July 2026 to widen the portal's use.
+
+</div>
+
+</div>
+
+## Angola
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Policy for the Management of Scientific Data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EOI - Angola - Elaboration a new National Policy for Science, Technology and Innovation and the National Policy for Scientific Data Management - STDP](https://www.afdb.org/en/documents/eoi-angola-elaboration-new-national-policy-science-98045)** — African Development Bank, 28 October 2026
+
+The African Development Bank published a call on 28 October 2026 for consultants to draft two Angolan policies. One is a new science, technology and innovation policy; the other is a national policy on scientific data management. Each comes with an implementation and evaluation plan, under the Science and Technology Development Project.
 
 </div>
 
@@ -981,6 +1001,22 @@ King Mohammed VI presided over the swearing-in of Morocco's new government at th
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[مرسوم رقم 2.26.831 صادر في 26 أكتوبر 2026 يتعلق باختصاصات وزير الذكاء الاصطناعي والتحول الرقمي وإصلاح الإدارة](https://adala.justice.gov.ma/api/uploads/2026/10/28/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%B1%D9%82%D9%85%202.26.831%20%D9%8A%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA%20%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-1793190483463.pdf)** — Ministère de la Justice du Maroc — Adala (texte publié au Bulletin officiel / الجريدة الرسمية n° 7555, p. 7881), 26 October 2026
+
+Morocco's decree 2-26-831 of 26 October 2026 sets the remit of Ahmed Rahhou, Minister of AI, Digital Transformation and Administrative Reform. It charges him with drafting and implementing government AI policy. It makes him the authority for telecoms under law 24.96 and places the Digital Development Agency under him.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ahmed Rahhou chargé d’élaborer la politique publique en matière d’IA](https://medias24.com/2026/10/28/ahmed-rahhou-charge-delaborer-la-politique-publique-en-matiere-dia-1785031/)** — Médias24, 28 October 2026
+
+Médias24 reported on 28 October 2026 on Morocco's decree giving Ahmed Rahhou the AI policy mandate. It adds that minister-delegate Aïcha Guellaa takes administrative reform. Rahhou also inherits the Maroc Digital 2030 roadmap and the Nouaceur AI Factory project; the decree is summarised under its own entry.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1080,6 +1116,20 @@ A proposed Internet for All strategy for Mozambique, to be implemented by the co
 **[Mozambique Plans to Integrate AI into Public Finance Management Systems](https://consulting.co.mz/mozambique-plans-to-integrate-ai-into-public-finance-management-systems/)** — Consulting.co.mz, 12 October 2026
 
 Mozambique's government approved a Public Finance Management Strategy for 2026–2035 that includes a digital transformation plan for 2026–2030. It names AI, machine learning, data mining and the Internet of Things for treasury, debt and state-asset management, and puts all major processes on the e-SISTAFE system by 2035. The approval date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Transformation Strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique’s Digital Plan Has 2030 Targets. Its Approval Date Says “XX”.](https://btw.media/en/mozambique-digital-roadmap-2030-targets-approval-xx)** — BTW Media, 27 October 2026
+
+Mozambique's draft National Digital Transformation Strategy of 22 August 2026 still shows a blank Cabinet approval date, BTW Media reported on 27 October 2026. The ITU had scheduled approval for June 2026 and a launch for October. The draft puts financing needs at US$1.5–2.0bn across six pillars.
 
 </div>
 
@@ -1444,6 +1494,22 @@ The communications ministry will take its open-source software agenda to a side 
 **[UNGA81: Sierra Leone unveils Open Source Policy to address digital fragmentation and vendor lock-in](https://techreviewafrica.com/news/7450/)** — Tech Review Africa, 25 September 2026
 
 Sierra Leone's communications ministry presented a new open source policy at a UNICEF event on the sidelines of UNGA81, as its answer to duplicated government systems, rising proprietary costs, systems that cannot interoperate and vendor lock-in. The policy's text, adoption date and instrument were not given.
+
+</div>
+
+</div>
+
+## Somalia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Coordination Framework (NDCF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Dowladda Soomaaliya oo Ansixinaysa Qaab-dhismeedka Qaranka ee Isku-duwidda Dowladda Dijitaalka ah. -](https://hiiraanweyn.net/dowladda-soomaaliya-oo-ansixinaysa-qaab-dhismeedka-qaranka-ee-isku-duwidda-dowladda-dijitaalka-ah/)** — Hiiraan Weyn, 27 October 2026
+
+Somalia's Office of the Prime Minister and communications ministry held a workshop on 27 October 2026 to validate a National Digital Coordination Framework for federal government ICT. Participants reviewed the results of a national ICT baseline assessment.
 
 </div>
 

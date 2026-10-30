@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: gov.protect
-places: AGO; BEN; BFA; CPV; COG; COD; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5fe67a87a490
+places: AGO; BEN; BFA; CMR; CPV; COG; COD; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0aaff104a131
 ---
 
 # News, Sep – Oct 2026
@@ -15,6 +15,8 @@ record: 5fe67a87a490
 <a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -135,15 +137,43 @@ Burkina Faso's data protection authority, the CIL, publishes the form for applyi
 
 </div>
 
+
+
+
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Merged communication and data-protection authority</p>
+
 
 <div class="bulletin-item" markdown="1">
 
 **[Autorité de Régulation de la communication et du traitement des données à caractère personnel : W. Louis Modeste Ouédraogo nommé président](https://lefaso.net/spip.php?article150089)** — leFaso.net, 20 October 2026
 
 Burkina Faso appointed W. Louis Modeste Ouédraogo, previously president of the Conseil supérieur de la communication, to head the new regulator formed by merging that council with the data-protection commission CIL. The decree is dated 16 October 2026.
+
+</div>
+
+</div>
+
+## Cameroon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Personal data protection authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gouvernance des données en Afrique centrale : le Cameroun sans APDP opérationnelle](https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/)** — OBS-CC, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Cameroon's data protection law of December 2024 creates a protection authority, the APDP, but its organising decree has not been found. The OBS-CC observatory checked more than 600 presidential acts on 14 September 2026 and found no such decree. A draft decree on the telecoms ministry's site predates the law and cites the wrong articles.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon’s AI Data Centre: Five Legal Questions Before the First Server Is Installed - CLG Global](https://clgglobal.com/cameroons-ai-data-centre-five-legal-questions-before-the-first-server-is-installed/)** — CLG Global, 29 October 2026
+
+A CLG Global analysis sets out five legal questions for Cybastion's planned US$75 million AI data centre in Douala. Cybastion announced the project in August 2026. The analysis notes that the data protection authority, which must authorise transfers abroad, awaits a presidential decree and is not yet operational.
 
 </div>
 
@@ -1118,6 +1148,28 @@ Togo's personal data protection authority, IPDCP, opened its first evaluation an
 **[Médias et protection des données personnelles : l’IPDCP et la HARC renforcent leur partenariat](https://ipdcp.tg/medias-et-protection-des-donnees-personnelles-lipdcp-et-la-harc-renforcent-leur-partenariat-2/)** — IPDCP (Togo), 20 October 2026
 
 Togo's data protection authority IPDCP has placed a team in the media regulator HARC's monitoring service, under an agreement the two signed on 10 December 2025. The team will check how the press handles personal data and respond with guidance, awareness work or, where needed, legal measures.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection authority's practical guides for media, health and civil registration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Journée Nationale de la Protection des données personnelles : le Togo mise sur la souveraineté numérique | Levisionnaire](https://levisionnaire.tg/journee-nationale-de-la-protection-des-donnees-personnelles-le-togo-mise-sur-la-souverainete-numerique/)** — Le Visionnaire, 29 October 2026
+
+Togo's data-protection authority IPDCP held the country's first national data-protection day in Lomé on 29 October 2026. Its peers from Benin, Mali, Burkina Faso and Senegal attended. IPDCP named three priorities: enforcing the rules, including on biometrics and data transfers abroad; national and regional hosting, including sovereign cloud; and training data-protection correspondents.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Qu’est-ce que la Journée Nationale de la Protection des Données Personnelles (JNPDP) ? - IPDCP](https://ipdcp.tg/quest-ce-que-la-journee-nationale-de-la-protection-des-donnees-personnelles-jnpdp/)** — IPDCP, 29 October 2026
+
+Togo's data-protection authority IPDCP set its national data-protection day on 29 October, the date of Law 2019-014 on personal data protection. The first edition, in 2026, took data governance and digital sovereignty as its theme. The day itself is summarised under the Le Visionnaire report of the same date.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: AI — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 980142fa4465
+record: 43834cad8229
 ---
 
 # News, Sep – Oct 2026
@@ -1235,6 +1235,20 @@ Ghana's communications minister Samuel Nartey George outlined a US$270m AI progr
 **[Ghana appoints AI focal points in all ministries to boost national digital readiness](https://accraposts.com/ghana-ai-focal-points-ministries/)** — Accra Posts, 18 October 2026
 
 Ghana's communications minister Sam George said every ministry now has an AI focal person and Cabinet ministers have been through an AI boot camp. A UNESCO-supported readiness assessment has mapped ministries and agencies, UNDP and UNESCO are training chief directors and directors, and cybersecurity and data protection laws are under review.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bank of Ghana Data Analytics and Artificial Intelligence Department</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoG to introduce AI directive for financial sector](https://www.citinewsroom.com/2026/10/bog-to-introduce-ai-directive-for-financial-sector/)** — Citi Newsroom, 29 October 2026
+
+The Bank of Ghana is setting up a Data Analytics and AI Department, Governor Johnson Asiama said on 29 October 2026. It is also drafting an AI directive for the financial sector. Speaking in Accra at the launch of the Ghana Statistical Service's Ghana in Numbers 2025, he asked for its data in machine-readable formats.
 
 </div>
 
@@ -2592,6 +2606,20 @@ Sudan scored 0.23 out of 4 on the Africa AI Governance Index 2026, in the Nascen
 **[TANESCO modernizes its customer service systems in line with Vision 2050 goals](https://dailynews.co.tz/tanesco-modernizes-its-customer-service-systems-in-line-with-vision-2050-goals/)** — Daily News (Tanzania), 6 October 2026
 
 Tanzania's energy minister launched new customer service systems for the state power utility on 6 October: an AI-powered assistant available round the clock, a portal and a dedicated unit for large customers, and a 185 hotline, with a revised service charter.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bank of Tanzania AI and Data Innovation Hub and AI policies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoT instructs institutions to embrace AI and data analytics for operational efficiency - Daily News](https://dailynews.co.tz/bot-instructs-institutions-to-embrace-ai-and-data-analytics-for-operational-efficiency/)** — Daily News (Tanzania), 29 October 2026
+
+Bank of Tanzania Governor Emmanuel Tutuba said the bank has set up an AI and Data Innovation Hub (reported 29 October 2026). The bank has approved policies on AI adoption with safeguards for privacy and human oversight. It has signed cooperation agreements with five Tanzanian higher-learning and research institutions.
 
 </div>
 

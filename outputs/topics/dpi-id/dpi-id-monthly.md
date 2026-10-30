@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 19d866536e37
+record: 443fdab1c8f4
 ---
 
 # News, Sep – Oct 2026
@@ -1492,6 +1492,20 @@ Trust Stamp signed a three-year technology services and data sovereignty agreeme
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric voter accreditation system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria tests upgraded biometric voter system ahead of 2027 elections](https://www.biometricupdate.com/202610/nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections)** — Biometric Update, 28 October 2026
+
+Nigeria's electoral commission scheduled a six-day stress test of its upgraded voter accreditation devices for 23–28 October 2026. It is preparing 57,000 more devices for the general elections of 16 January 2027. The upgrade authenticates polling-unit result sheets before upload to the results portal.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1795,6 +1809,20 @@ South Africa's inter-ministerial committee on migration said on 26 October 2026 
 **[South Africa plans biometric asylum registration, tighter digital border controls](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)** — Biometric Update, 28 October 2026
 
 South Africa's Department of Home Affairs plans an online booking system for asylum seekers by 10 November 2026. It will collect biometric and identity data. The step follows a July Constitutional Court ruling that struck down Refugees Act barriers to asylum procedures. The government is also building electronic border systems and weighing stricter SIM registration for foreign nationals.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Numbering Plan Fifth Amendment Regulations 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA Publishes Draft Numbering Plan Fifth Amendment Regulations, 2026](https://www.icasa.org.za/news/2026/icasa-publishes-draft-numbering-plan-fifth-amendment-regulations-2026)** — ICASA, 29 October 2026
+
+ICASA published draft Numbering Plan Fifth Amendment Regulations for 30 days' public comment on 29 October 2026. They would require biometric verification of new and existing mobile subscribers when numbers are activated or reactivated and at every SIM swap. They would also cap numbers per subscriber and limit how long visitors' numbers stay active.
 
 </div>
 

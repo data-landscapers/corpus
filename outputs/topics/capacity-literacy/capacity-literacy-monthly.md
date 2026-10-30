@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: capacity.literacy
-places: AGO; BDI; CPV; TCD; COM; EGY; GAB; GHA; KEN; MDG; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; TZA; TGO; TUN; UGA
-record: d1b1b466095b
+places: AGO; BDI; CPV; TCD; COM; EGY; GAB; GHA; KEN; MDG; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SSD; TZA; TGO; TUN; UGA
+record: dbebd9d17d52
 ---
 
 # News, Sep – Oct 2026
@@ -49,6 +49,8 @@ record: d1b1b466095b
 <a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-sudan">South Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -524,6 +526,22 @@ A second cohort of 27 Seychelles civil servants was sent off at the Indian High 
 **[Information Minister Launches National AI, Deepfake Sensitization Campaign](https://nationalistsl.com/2026/09/information-minister-launches-national-ai-deepfake-sensitization-campaign/)** — The Nationalist, 17 September 2026
 
 Sierra Leone launched a national AI and deepfake awareness campaign at a stakeholder meeting organised with the ministries of information and of communication, technology and innovation. Information minister Bah said the government is building info.gov.sl, a site for verifying official content by QR code, and is developing a national AI policy.
+
+</div>
+
+</div>
+
+## South Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media and Information Literacy Centre, Juba Day Secondary School</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Sudan's first dedicated Media and Information Literacy Centre is creating opportunities for young people](https://www.unesco.org/en/articles/south-sudans-first-dedicated-media-and-information-literacy-centre-creating-opportunities-young)** — UNESCO, 28 October 2026
+
+UNESCO profiled South Sudan's first media and information literacy centre, at Juba Day Secondary School, on 28 October 2026. UNESCO set it up in 2024 with the Central Equatoria education ministry. It offers computers, internet and verification training; the head teacher estimates about 500 users.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1feff89d598e
+record: 9a97b1245f3c
 ---
 
 # News, Sep – Oct 2026
@@ -273,6 +273,20 @@ Burkina Faso's Council of Ministers, meeting in Bobo-Dioulasso on 10 September 2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Enforcement decrees under the 2021 law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso : le droit des données personnelles change de visage](https://jupiterinfo.bj/2026/10/04/burkina-faso-protection-donnees-personnelles-arcod/)** — Jupiter Info, 4 October 2026
+
+Burkina Faso adopted two data protection laws on 3 August 2026, Jupiter Info reported. Organic law 038-2026/ALP, promulgated on 22 September, creates a joint media and data regulator, ARCOD. Law 037-2026/ALP repeals the 2021 law, adds impact assessments and data protection officers, and gives controllers six months to comply.
+
+</div>
+
+</div>
+
 ## Burundi
 
 <div class="monthly-story" markdown="1">
@@ -392,6 +406,20 @@ Chad's national statistics institute, INSEED, lists the legal basis of the natio
 **[Travail : le Tchad change les règles entre employé et employeur](https://lendjampost.com/travail-le-tchad-change-les-regles-entre-employe-et-employeur/)** — Le N'Djam Post, 11 September 2026
 
 Chad's Council of Ministers adopted on 3 September 2026 a draft Labour Code replacing the 1996 law. Platform workers are presumed to be employees where at least two criteria of subordination are met, platforms must be more open about the algorithms that direct work, and social security cover is extended. The draft also raises the end-of-contract payment on fixed-term contracts from 5% to 7%.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decree on electronic communication and digitised court procedure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conseil des ministres : Fonction publique, justice et transports au menu](https://lesdepechesdutchad.com/conseil-des-ministres-fonction-publique-justice-et-transports-au-menu/)** — Les Dépêches du Tchad, 29 October 2026
+
+Chad's Council of Ministers examined a draft decree on electronic court procedures on 29 October 2026. It covers electronic communication and the digitisation of civil, commercial, social and administrative cases. The Ministry of Justice and Human Rights submitted it.
 
 </div>
 
@@ -829,6 +857,20 @@ Eswatini's Immigration Bill would set up an information system to vet foreign na
 **[Senators back E5m fines, 10-year jail terms for critical infrastructure offences](https://independentnews.co.sz/49620/news/politics/senators-back-e5m-fines-10-year-jail-terms-for-critical-infrastructure-offences/)** — Independent News Eswatini, 19 October 2026
 
 Eswatini's Senate adopted the ICT portfolio committee's report on the Critical Infrastructure Bill No. 16 of 2025 on 19 October 2026. It backs fines of up to E5 million for companies, and E1 million or up to 10 years' imprisonment for individuals, for offences against telecom towers, fibre and energy lines.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Systems Regulations, 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Finance Minister warns of cryptocurrency dangers](https://eswatinipositivenews.online/finance-minister-warns-of-cryptocurrency-dangers/)** — Eswatini Positive News, 27 October 2026
+
+Eswatini's Senate considered a committee report on the National Payment System Regulations, 2026 on 27 October 2026. The regulations put the 2023 Act into effect. They cover licensing of payment providers, e-money, central bank oversight and consumer protection; the finance minister urged caution on cryptocurrencies.
 
 </div>
 
@@ -2551,6 +2593,14 @@ The Uganda Communications Commission agreed with mobile operators and licensed i
 **[KACITA, UCC Agree to Form Committee on Unlicensed Internet Resellers](https://www.nilepost.co.ug/news/381731/kacita-ucc-agree-to-form-committee-on-unlicensed-internet-resellers)** — Nile Post, 26 October 2026
 
 Kampala traders and the Uganda Communications Commission agreed to form a joint committee, led by the commission, to recommend how unlicensed internet resellers are regulated. Resellers will first register for an inventory. The commission is pursuing about 4,000 unlicensed Wi-Fi resellers and puts potential tax losses at Shs148 billion a year.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government Seeks Two Weeks to Resolve Wi-Fi Hotspot Licensing Dispute](https://www.ugandaradionetwork.net/story/government-seeks-two-weeks-to-resolve-wi-fi-hotspot-licensing-dispute)** — Uganda Radio Network, 28 October 2026
+
+Uganda's ICT minister told Parliament the government needs two weeks to settle a licensing dispute over local Wi-Fi hotspot operators, it was reported on 28 October 2026. The ministry is consulting telecoms firms, internet providers, regulators and operators on a legal framework. The report notes concern that compliance costs could force small operators out.
 
 </div>
 

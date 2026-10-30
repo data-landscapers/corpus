@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, September – October 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 subject: dpi.exchange
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GHA; GNB; KEN; LSO; LBR; MWI; MLI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 78c5c60a274a
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; MWI; MLI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 8f138982afc6
 ---
 
 # News, Sep – Oct 2026
@@ -39,6 +39,8 @@ record: 78c5c60a274a
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#guinea">Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea-bissau">Guinea-Bissau</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -171,6 +173,21 @@ Angola's transport minister Ricardo de Abreu said on 28 September 2026 that a lo
 **[AGT de Angola trabalha na integração de plataformas para facilitar acompanhamento dos processos](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/)** — Forbes África Lusófona, 30 September 2026
 
 Angola's tax and customs administration AGT is linking the commerce ministry's and other trade agencies' platforms to its own, and plans to let importers track customs processes by tax number, with service deadlines such as three days for the commerce ministry.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Direct reporting and QR verification of higher-education qualifications</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ensino: estudantes passam a comprovar diplomas por código QR sem deslocar-se ao INAAREES](https://pti.ao/ensino-estudantes-passam-a-comprovar-diplomas-por-codigo-qr-sem-deslocar-se-ao-inaarees/)** — Portal de T.I, 29 October 2026
+
+Angola's Council of Ministers assessed a presidential decree on recognising higher-education studies on 27 October 2026. Institutions would send records directly to the accreditation institute INAAREES, and diplomas would carry a verification QR code. Earlier graduates keep the current procedure through the SEPE portal for a three-year transition.
 
 </div>
 
@@ -695,6 +712,22 @@ The Bank of Ghana's Credit Reporting Activity Annual Report 2025 counts 25,921,0
 **[Over 25m enquiries conducted by financial institutions for credit appraisals, others in 2025](https://www.myjoyonline.com/over-25m-enquiries-conducted-by-financial-institutions-for-credit-appraisals-others-in-2025/)** — MyJoyOnline, 30 September 2026
 
 The Bank of Ghana's 2025 credit reporting report records just over 25 million credit bureau enquiries by financial institutions and authorised users in 2025, down 12.12% from 29,496,440 in 2024. Monthly enquiries averaged 2,160,089, and banks accounted for 86.28% of the total. The bank attributed the fall mainly to fewer traditional loan enquiries.
+
+</div>
+
+</div>
+
+## Guinea
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">API/PNR passenger-data system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Données passagers et frontières : la Guinée mise sur l'expertise américaine pour bâtir son dispositif API/PNR](https://newsaero.info/fr/article/institutions/guinee-api-pnr-donnees-passagers-washington)** — NewsAero, 27 October 2026
+
+Guinea's transport minister and civil aviation authority held talks in Washington on 17–23 October 2026 on a national passenger-data system. The talks included the border-technology firm Securiport. An order of 25 June 2026 requires airlines to send passenger data, hosted in a state-approved data centre and kept six months before anonymisation.
 
 </div>
 
