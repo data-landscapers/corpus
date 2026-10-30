@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-10-28
+compiled: 2026-10-30
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 179
+sources_cited: 180
 sections_written: 39
 not_established: 2
 acquire_lines: 29
@@ -195,7 +195,7 @@ Land is the standout. [The cadastral database built under the Land Administratio
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-Health has one site under test. [The Ministry of Health and Wellness's e-Health project was under test at the Sir Anerood Jugnauth Hospital from 23 August 2025, with rollout to the remaining regional hospitals to follow a successful test](https://health.govmu.org/health/wp-content/uploads/2025/10/Final-MOHW-Annual-Report-on-Performance-FY-2024-2025.pdf). [The project sits under a Roadmap for Digital Health Transformation prepared with UNDP support](https://digitalhealthfordevelopment.undp.org/upload/documents/Roadmap_for_Digital_Health_Transformation_in_Mauritius.pdf) (2025), and [a Digital Health Architecture Blueprint launched with UNDP on 3 March 2025 is to guide a National Patient Database and an interoperability plan, its final documents due by mid-2025](https://www.undp.org/mauritius-seychelles/news/launch-digital-health-architecture-blueprint).
+[The health ministry's electronic medical record was in pilot at some thirty public facilities in the East and Centre in October 2026, with more than 150,000 patients registered and Phase 1 acceptance planned by December 2026](https://defimedia.info/dossier-medical-numerique-e-health-plus-de-150000-patients-deja-enregistres). [Testing began at the Sir Anerood Jugnauth Hospital on 23 August 2025](https://health.govmu.org/health/wp-content/uploads/2025/10/Final-MOHW-Annual-Report-on-Performance-FY-2024-2025.pdf). [The project sits under a Roadmap for Digital Health Transformation prepared with UNDP support](https://digitalhealthfordevelopment.undp.org/upload/documents/Roadmap_for_Digital_Health_Transformation_in_Mauritius.pdf) (2025), and [a Digital Health Architecture Blueprint launched with UNDP on 3 March 2025 is to guide a National Patient Database and an interoperability plan, its final documents due by mid-2025](https://www.undp.org/mauritius-seychelles/news/launch-digital-health-architecture-blueprint).
 
 The finance and revenue back office is another matter. [A financial management information system on commercial off-the-shelf software is in use across both central and sub-national government, covering treasury, budget and other functions](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [the treasury system is recorded as extensively used by all ministries, departments and agencies, with government payments settled through real-time gross settlement](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Tax administration runs on commercial software connected to other government systems through the Government Service Bus](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [customs on commercial software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [payroll on custom software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [electronic procurement covers online tendering and contract management and is interfaced with other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), though [only 116 of 205 public bodies used the e-Procurement System in 2023-24](https://ppo.govmu.org/Documents/Annual%20Reports/Annual%20Report%202023-2024.pdf) and [an assessment published in June 2024 found its use highly selective, with only a small share of procurement value passing through it](https://www.mapsinitiative.org/content/dam/maps-initiative/en/assessments/mauritius/maps-assessment-mauritius-e-proc-report.pdf). [Social insurance and pensions run on custom software with records fully digitised](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 

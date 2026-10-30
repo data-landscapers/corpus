@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: GHA
-ledger_rows: 119
+ledger_rows: 121
 not_held: 9
-record: f29388abf36c
+record: f964b5ab60f1
 ---
 
 # News, Sep – Oct 2026
@@ -322,6 +322,22 @@ Ghana’s communications minister was unanimously confirmed as the next chair of
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Africa’s data must benefit its people, not foreign tech firms – Sam George](https://www.citinewsroom.com/2026/10/africas-data-must-benefit-its-people-not-foreign-tech-firms-sam-george/)** — Citi Newsroom, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Ghana's communications minister, Samuel Nartey George, spoke in Libreville on taking the chair of the AU's ICT committee (reported 29 October 2026). He said African data should serve Africans and not be extracted and sold back to them. He said 55 countries negotiating as one market would have more bargaining power on AI and digital trade.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana’s Communications Minister confirmed as Chair of AU Committee on Communication and ICT](https://techreviewafrica.com/news/8032/ghanas-communications-minister-confirmed-as-chair-of-au-committee-on-c)** — Tech Review Africa, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Ghana's communications minister, Samuel Nartey George, was confirmed as chair of the AU Specialised Technical Committee on Communication and ICT at its session in Libreville (reported 29 October 2026). George named connectivity, data governance, cybersecurity and AI as priorities for his two-year term. He called on member states to implement the continental frameworks already adopted.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -547,6 +563,20 @@ The UN Capital Development Fund began a second phase of work with Ghana's FIDO M
 **[Ghana's Seevcash Raises $333,000, Launches Visa Card](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/ghana-s-seevcash-raises-333-000-launches-visa-card)** — We are Tech (wearetech.africa), 7 September 2026
 
 A Ghanaian remittance startup moving money from the United States to Ghana raised US$333,000 from a blockchain foundation's community fund, to launch an international payment card usable online and in stores. The commitment date is not stated in the account.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UK FCDO Ghana cyber standards and expertise project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tier 2: Ghana - Ghana Cyber, Standards and Expertise Project (26)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-GOV-1-400101-406)** — UK Foreign, Commonwealth & Development Office (FCDO), 30 September 2026
+
+GBP 200,000 from UK FCDO for Ghana's cyber workforce and CSA capability, committed 2026-09-30; runs to March 2029.
 
 </div>
 
@@ -801,6 +831,14 @@ An Ericsson delegation called on Ghana's National Communications Authority to di
 **[USTDA Advances Secure Digital Access in Ghana](https://ustda.gov/ustda-advances-secure-digital-access-in-ghana/)** — U.S. Trade and Development Agency (USTDA), 9 September 2026
 
 The US Trade and Development Agency signed an agreement on 9 September to fund a feasibility study for open-access fibre laid along Northern Electricity Distribution Company lines, which span more than 60 per cent of Ghana. The study is to assess commercial viability, quantify demand and develop a financing strategy; no grant value is stated.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Northern Ghana Fiber Backbone and Access Networks Feasibility Study](https://ustda.gov/business_opp_oversea/northern-ghana-fiber-backbone-and-access-networks-feasibility-study/)** — U.S. Trade and Development Agency (USTDA), 28 October 2026
+
+US$660,000 USTDA grant to CSquared Ghana; US-firm proposals due 1 December 2026 for the NEDCo fibre study.
 
 </div>
 
@@ -1887,6 +1925,20 @@ Ghana's communications minister Samuel Nartey George outlined a US$270m AI progr
 **[Ghana appoints AI focal points in all ministries to boost national digital readiness](https://accraposts.com/ghana-ai-focal-points-ministries/)** — Accra Posts, 18 October 2026
 
 Ghana's communications minister Sam George said every ministry now has an AI focal person and Cabinet ministers have been through an AI boot camp. A UNESCO-supported readiness assessment has mapped ministries and agencies, UNDP and UNESCO are training chief directors and directors, and cybersecurity and data protection laws are under review.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bank of Ghana Data Analytics and Artificial Intelligence Department</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoG to introduce AI directive for financial sector](https://www.citinewsroom.com/2026/10/bog-to-introduce-ai-directive-for-financial-sector/)** — Citi Newsroom, 29 October 2026
+
+The Bank of Ghana is setting up a Data Analytics and AI Department, Governor Johnson Asiama said on 29 October 2026. It is also drafting an AI directive for the financial sector. Speaking in Accra at the launch of the Ghana Statistical Service's Ghana in Numbers 2025, he asked for its data in machine-readable formats.
 
 </div>
 
