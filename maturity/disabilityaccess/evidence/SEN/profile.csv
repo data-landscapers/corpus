@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SEN,accessibility,rule,coverage,none,2026-09-23,SEN-001,,
-SEN,accessibility,delivered,coverage,,,,,nothing held
-SEN,accessibility,audit,coverage,,,,,nothing held
+SEN,accessibility,delivered,coverage,,,,,nothing found
+SEN,accessibility,audit,coverage,,,,,nothing found

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MUS,accessibility,rule,coverage,inforce,2020-10,MUS-001,MUS-003=none,
-MUS,accessibility,delivered,coverage,delivered,2020-10,MUS-002,,nothing dated since 2023-10-23
-MUS,accessibility,audit,coverage,,,,,nothing held
+MUS,accessibility,delivered,coverage,delivered,2020-10,MUS-002,,nothing dated since 2023-10-28
+MUS,accessibility,audit,coverage,,,,,nothing found

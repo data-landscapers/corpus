@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SOM,accessibility,rule,coverage,underway,2026-01,SOM-001,,
-SOM,accessibility,delivered,coverage,,,,,nothing held
-SOM,accessibility,audit,coverage,,,,,nothing held
+SOM,accessibility,delivered,coverage,,,,,nothing found
+SOM,accessibility,audit,coverage,,,,,nothing found

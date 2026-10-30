@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DJI,accessibility,rule,coverage,inforce,2022-07-18,DJI-002,DJI-001=underway,nothing dated since 2023-10-23
-DJI,accessibility,delivered,coverage,,,,,nothing held
-DJI,accessibility,audit,coverage,,,,,nothing held
+DJI,accessibility,rule,coverage,inforce,2022-07-18,DJI-002,DJI-001=underway,nothing dated since 2023-10-28
+DJI,accessibility,delivered,coverage,,,,,nothing found
+DJI,accessibility,audit,coverage,,,,,nothing found

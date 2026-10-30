@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GHA,accessibility,rule,coverage,inforce,2025-01,GHA-002,GHA-001=underway;GHA-003=underway,
 GHA,accessibility,delivered,coverage,delivered,2024-06-18,GHA-004,,
-GHA,accessibility,audit,coverage,,,,,nothing held
+GHA,accessibility,audit,coverage,,,,,nothing found

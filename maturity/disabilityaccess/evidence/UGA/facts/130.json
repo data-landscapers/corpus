@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-12-uga-the-state-of-data-protection-in-uganda",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Personal Data Protection Office says it has translated the Data Protection and Privacy Act and its regulations into braille.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "braille translation of the Data Protection and Privacy Act",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": "A one-off braille translation is not a rule in force or an accessible digital service."
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BWA,accessibility,rule,coverage,,,,,nothing held
-BWA,accessibility,delivered,coverage,delivered,2023-06-18,BWA-001,,nothing dated since 2023-10-23
-BWA,accessibility,audit,coverage,,,,,nothing held
+BWA,accessibility,rule,coverage,,,,,nothing found
+BWA,accessibility,delivered,coverage,delivered,2023-06-18,BWA-001,,nothing dated since 2023-10-28
+BWA,accessibility,audit,coverage,,,,,nothing found
