@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-21-uga-ugandan-regulator-finds-google-in-breach-of-country-s-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIPESA says section 19 of Uganda's Data Protection and Privacy Act requires that data processed or stored abroad go to a country with equivalent protection, and that the data subject's consent be obtained.",
+   "as_of": "2025-07-21",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act section 19",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "CIPESA reports that on 18 July 2025 the Personal Data Protection Office found Google LLC liable for transferring complainants' data abroad without safeguards and ordered it to show its legal basis within 30 days.",
+   "as_of": "2025-07-18",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act section 19",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-17-ago-apd-ja-aplicou-mais-de-1-milhao-de-dolares-em-multas-este-ano",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "PTI reports the authority fined a company for failing to notify it and obtain authorisation for an international transfer of personal data, so a rule requiring authorisation is in force.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Authorisation for international transfer of personal data",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "PTI reports the authority fined Crescer Tech USD 505,000, its largest 2026 fine, for storing personal data in a cloud outside Angola without notification or authorisation.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Authorisation for international transfer of personal data",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ACTPOL says Egypt's law allows transfers abroad only to destinations with equal protection and with a licence from the Centre, and the regulations of 1 November 2025 add the data subject's consent, with compliance due about 1 November 2026.",
+   "as_of": "2025-11-01",
+   "date_precision": "day",
+   "system": "Law No. 151 of 2020 and Decree No. 816 of 2025",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "none",
+   "fact": "ACTPOL says the regulations provide no standard contractual clauses and Egypt has not published a list of countries with adequate protection.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Personal Data Protection Centre",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

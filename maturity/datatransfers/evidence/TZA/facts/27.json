@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-01-tza-pdpc-tanzania-home",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Commission says the Personal Data Protection Act, Chapter 44, mandates it to regulate transfer of personal data outside the country so that it is given an adequate level of protection, through a cross-border data transfer permit.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Cross-border data transfer permit",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "The Commission reports 121 data transfer permits offered as at August 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Cross-border data transfer permit",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

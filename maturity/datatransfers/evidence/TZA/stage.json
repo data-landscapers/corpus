@@ -1,16 +1,17 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-003;TZA-002",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "5",
+      "standing": "in-force",
+      "use": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-007;TZA-006;TZA-001",
+      "gaps": "No list of countries, model contract terms or guidance on sending data abroad is recorded from the Commission.",
+      "note": "The Commission's own count gives 121 cross-border data transfer permits by August 2026, a published count of permissions inside three years. That answers the earlier questions and is stage 5.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,rule,standing,coverage,in-force,2026-08-28,TZA-001;TZA-002;TZA-003;TZA-004;TZA-005,,
-TZA,rule,use,coverage,,,,,nothing held
+TZA,rule,standing,coverage,in-force,2026-08,TZA-001;TZA-002;TZA-003;TZA-004;TZA-005;TZA-006,,
+TZA,rule,use,coverage,applied,2026-08,TZA-007,,

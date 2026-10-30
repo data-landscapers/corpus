@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "EGY-001;EGY-002",
-      "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
+      "gaps": "No list of countries, model terms, procedure or guidance from the Centre is recorded. No use of the rule is recorded.",
       "note": "Counted from the four questions by study-ladder-datatransfers.py.",
       "as_at": "2026-10-17"
     }

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-07-eth-banking-on-data-regulatory-expectations-for-data-storage-protection-an",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The law firm Haymanot & Advocates says Directive SBB/94/2025 makes transfers abroad of non-customer data by banks conditional on National Bank of Ethiopia prior written approval, disclosure of destinations, adequate protection in the receiving jurisdiction and service level agreements.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "NBE Directive No. SBB/94/2025",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The same source says Proclamation No. 1321/2024 permits transfers of personal data abroad only where the receiving country gives appropriate protection, the person consents explicitly, or the authority approves in advance.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Personal Data Protection Proclamation No. 1321/2024",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ACTPOL says the 2024 law requires the Authority's prior authorisation for every transfer of personal data abroad, with the compliance period ended 23 June 2026 and the Authority not yet created.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Law No. 2024/017 of 23 December 2024",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

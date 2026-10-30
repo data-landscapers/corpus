@@ -20,13 +20,13 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 7 |
 | 4 Operating | 8 |
 | 3 Established | 22 |
 | 2 Nascent | 3 |
 | 1 Absent | 3 |
 | Unplaced | 0 |
-| No evidence | 12 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -57,6 +57,14 @@ Nigeria's 2023 data law governs sending data abroad, and in 2025 the regulator o
 
 - Premium Times reports the Commission's 18 February 2025 orders against Meta, including a $32.8 million fine, cited transfer of data abroad without authorisation and directed it to halt such transfers without approval ([source, 2025-02-18](https://www.premiumtimesng.com/news/headlines/832580-32-8-million-fine-dispute-meta-settles-with-nigerian-govt-out-of-court.html)).
 - Premium Times reports the Commission found Meta transferred Nigerians' data abroad without authorisation under the Nigeria Data Protection Act and ordered it to stop transfers without approval ([source, 2025-02-18](https://www.premiumtimesng.com/news/headlines/832580-32-8-million-fine-dispute-meta-settles-with-nigerian-govt-out-of-court.html)).
+
+### Tanzania: 5 Leading
+
+Tanzania's 2023 law needs a commission permit to send personal data abroad, and 121 permits were given by August 2026; published guidance is not known.
+
+- The Commission reports 121 data transfer permits offered as at August 2026 ([source, 2026-08](https://pdpc.go.tz/)).
+- The Commission says the Personal Data Protection Act, Chapter 44, mandates it to regulate transfer of personal data outside the country so that it is given an adequate level of protection, through a cross-border data transfer permit ([source, 2026-08](https://pdpc.go.tz/)).
+- The Personal Data Protection Act, Chapter 44, published in the Gazette on 13 June 2023 (the document's published date; no commencement date is given in the captured text), contains Part V on transborder data flow: section 31 on transfer of personal data to a state with adequate data protection and section 32 on transfer to a state without adequate protection ([source, 2023-06-13](https://www.pdpc.go.tz/media/media/THE_PERSONAL_DATA_PROTECTION_ACT.pdf)).
 
 ### Uganda: 5 Leading
 
@@ -168,6 +176,12 @@ The 2021 data protection law governs sending personal data abroad on a risk-base
 
 - TechHive Advisory reports that the Comoros Protection of Personal Data Law, enacted on 29 June 2021, governs international transfers on a risk-based model (adequacy, appropriate safeguards, derogations) ([source, 2021-06-29](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law)).
 
+### Congo: 3 Established
+
+Congo's March 2025 law has its data protection commission authorise sending personal data abroad; published guidance and any use are not known.
+
+- Law no. 5-2025 of 29 March 2025, published in the Journal officiel of 10 April 2025, gives the CNPD the power to authorise cross-border transfers of personal data ([source, 2025-03-29](https://www.sgg.cg/JO/2025/congo-jo-2025-15.pdf)).
+
 ### Cote d'Ivoire: 3 Established
 
 Decree 2015-79 of 2015 requires the telecoms regulator's prior authorisation to send personal data abroad; no source found says whether any transfer has been authorised.
@@ -262,13 +276,6 @@ Since July 2020 the law bars sending personal data abroad without adequate prote
 
 - The document states that POPIA prohibits transfers of personal information outside South Africa unless the recipient is under adequate legal protection, or the data subject consents, or a contract or the data subject's interest requires it; POPIA took effect in July 2020 with a grace period to 30 June 2021 (event date taken from the commencement it states) ([source, 2020-07](https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/)).
 
-### Tanzania: 3 Established
-
-Tanzania's 2023 data protection law sets rules for sending personal data abroad; no source found says whether the authority has published guidance or country lists.
-
-- The PDPC found in preliminary assessments limited understanding of obligations, inaccurate registration data and unlawful data transfers abroad, and listed rectification directives, warning letters and fines as remedies; no sanction is named ([source, 2026-08-28](https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710)).
-- A doctrinal study in the East African Journal of Law and Ethics (Josephina John), published 24 August 2026 (no other date given), finds Tanzania's legal framework on cross-border data transfers progressive on paper but incomplete in practice, with institutional capacity and enforcement gaps, and cites the Personal Data Protection Act Cap. 44 R.E. 2023 and the Data Protection (Collection and Processing Personal Data) Regulations, GN No. 349 of 2023 ([source, 2026-08-24](https://journals.eanso.org/index.php/eajle/article/view/5617)).
-
 ### Ghana: 2 Nascent
 
 Ghana's 2012 law was being amended in 2025 to add transfer rules; no source says whether any rule on sending data abroad is in force.
@@ -312,12 +319,6 @@ Nothing found names a rule on sending personal data abroad or says there is none
 Not established: Nothing found names a rule on sending personal data abroad, or says there is none.
 
 ### Burundi: No evidence
-
-Nothing found names a rule on sending personal data abroad or says there is none, so no stage is set.
-
-Not established: Nothing found names a rule on sending personal data abroad, or says there is none.
-
-### Congo: No evidence
 
 Nothing found names a rule on sending personal data abroad or says there is none, so no stage is set.
 

@@ -2,9 +2,9 @@
 
 ## Rule on sending data abroad
 
-**Rule in force.** Cameroon's Law No. 2024/017 relating to personal data protection, dated 23 December 2024, requires all cross-border transfers of personal data to be authorised by the data protection authority, according to [African Law & Business in its account of the law's key features, published on 17 July 2025](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>). The same account says the Act becomes enforceable only after an 18-month grace period. The condition the rule sets on sending personal data out of the country is therefore the authority's authorisation, and it applies to every such transfer.
+**Rule in force.** Cameroon's Law No. 2024/017 on personal data protection is dated 23 December 2024. It requires [the data protection authority to authorise every transfer of personal data abroad](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>), African Law & Business wrote in July 2025. The law became enforceable after an 18-month grace period. [ACTPOL reports](<https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon>) that this period ended on 23 June 2026. The authority that must give the authorisation had not then been created.
 
-**Means of complying published and rule applied.** The nearest held fact is the requirement itself: under the Act of 23 December 2024, [the data protection authority must authorise each cross-border transfer of personal data](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>), and that duty takes effect once the 18-month grace period has run.
+**Means of complying published and rule applied.** No authority yet exists to publish the means of complying or to apply the rule. [ACTPOL's September 2026 brief](<https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon>) says the authority had not been created when the compliance period ended. The nearest held fact is the duty itself: [each transfer abroad needs the authority's authorisation](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>).
 
 ***Also on file***. None found.
 

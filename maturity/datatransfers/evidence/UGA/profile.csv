@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,rule,standing,coverage,in-force,2026-02-20,UGA-001;UGA-004,,
-UGA,rule,use,coverage,applied,2026-02-20,UGA-002;UGA-003;UGA-005,,
+UGA,rule,standing,coverage,in-force,2026-02-20,UGA-001;UGA-004;UGA-006,,
+UGA,rule,use,coverage,applied,2026-02-20,UGA-002;UGA-003;UGA-005;UGA-007,,

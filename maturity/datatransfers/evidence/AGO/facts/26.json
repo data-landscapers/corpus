@@ -1,0 +1,37 @@
+{
+ "slug": "2026-07-29-ago-agencia-de-proteccao-de-dados-ja-aplicou-multas-de-2-5-milhoes-usd-des",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Expansao reports the authority fined a company for failing to notify it and obtain its authorisation for an international transfer of personal data, so a rule requiring authorisation is in force.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Authorisation for international transfer of personal data",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "Expansao reports the authority fined Crescer Tech the equivalent of USD 505,000 in June 2026 for sending personal data to a cloud outside Angola without notifying it or obtaining authorisation.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Authorisation for international transfer of personal data",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "Expansao reports the authority fined Maxam the equivalent of USD 150,000 in April 2024 for illegally transferring a citizen's personal data to the United Kingdom.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Authorisation for international transfer of personal data",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

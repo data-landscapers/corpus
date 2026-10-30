@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COG-001,COG,rule,standing,in-force,"Law no. 5-2025 of 29 March 2025, published in the Journal officiel of 10 April 2025, gives the CNPD the power to authorise cross-border transfers of personal data.",2025-03-29,day,Loi n° 5-2025,rule,2025-03-29-cog-loi-5-2025-creation-commission-nationale-protection-donnees,https://www.sgg.cg/JO/2025/congo-jo-2025-15.pdf
