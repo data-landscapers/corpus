@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: ZAF
-ledger_rows: 177
+ledger_rows: 180
 not_held: 19
-record: 0171b71ca18a
+record: faa2d988d905
 ---
 
 # News, Sep – Oct 2026
@@ -657,6 +657,20 @@ Proparco, the French development finance institution, said on 5 October 2026 tha
 **[US govt agency pouring billions into African digital infrastructure firm with HQ in Joburg](https://www.ewn.co.za/2026/09/17/us-govt-agency-pouring-billions-into-african-digital-infrastructure-firm-with-hq-in-joburg)** — EWN (Eyewitness News), 17 September 2026
 
 The United States development finance corporation approved an equity investment in a Johannesburg-headquartered operator of undersea cables, fibre networks and data centres in more than 30 African countries, naming two investment partners. Its board published no amount; a news organisation puts the investment at around R2.5 billion, up to US$155 million, as a ceiling rather than a committed sum.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UK FCDO grant for cross-regulatory digital governance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Southern Africa Bilateral - Strengthening Cross-Regulatory Digital Governance in South Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-GOV-1-400199-411)** — UK Foreign, Commonwealth & Development Office (FCDO), 7 October 2026
+
+GBP 70,000 from UK FCDO via Wits for ICT and media regulator peer learning on AI and online safety; to Mar 2027.
 
 </div>
 
@@ -1708,6 +1722,20 @@ South Africa's Department of Home Affairs plans an online booking system for asy
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Numbering Plan Fifth Amendment Regulations 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA Publishes Draft Numbering Plan Fifth Amendment Regulations, 2026](https://www.icasa.org.za/news/2026/icasa-publishes-draft-numbering-plan-fifth-amendment-regulations-2026)** — ICASA, 29 October 2026
+
+Mandatory biometric verification for all mobile subscribers and SIM swaps; cap on numbers per person; 30-day comment.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -2282,6 +2310,14 @@ South Africa's Electoral Commission opened its Election Results System, which ca
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Elections national results hub opens](https://www.itweb.co.za/article/elections-national-results-hub-opens/8OKdWMDXOpwMbznQ)** — ITWeb South Africa, 29 October 2026
+
+Results system declared ready after audit; 14,000 more voter devices, virtual results centre; 29.2m registered voters.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -2481,6 +2517,20 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 **[South Africa plans biometric asylum registration, tighter digital border controls](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)** — Biometric Update, 28 October 2026
 
 Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">VAT modernisation consultation paper</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SAAFF calls for customs integration in digital VAT model](https://www.freightnews.co.za/article/saaff-calls-for-customs-integration-in-digital-vat-model)** — Freight News, 26 October 2026
+
+SARS consultation closed 16 Oct 2026; freight forwarders want customs-VAT link via MRN, phased rollout, industry pilot.
 
 </div>
 
