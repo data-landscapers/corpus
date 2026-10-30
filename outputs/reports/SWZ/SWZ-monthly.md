@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: SWZ
-ledger_rows: 45
+ledger_rows: 46
 not_held: 3
-record: 78de28d628ae
+record: 1891fef6c54e
 ---
 
 # News, Sep – Oct 2026
@@ -65,6 +65,20 @@ Eswatini's Immigration Bill would set up an information system to vet foreign na
 **[Senators back E5m fines, 10-year jail terms for critical infrastructure offences](https://independentnews.co.sz/49620/news/politics/senators-back-e5m-fines-10-year-jail-terms-for-critical-infrastructure-offences/)** — Independent News Eswatini, 19 October 2026
 
 Eswatini's Senate adopted the ICT portfolio committee's report on the Critical Infrastructure Bill No. 16 of 2025 on 19 October 2026. It backs fines of up to E5 million for companies, and E1 million or up to 10 years' imprisonment for individuals, for offences against telecom towers, fibre and energy lines.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Systems Regulations, 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Finance Minister warns of cryptocurrency dangers](https://eswatinipositivenews.online/finance-minister-warns-of-cryptocurrency-dangers/)** — Eswatini Positive News, 27 October 2026
+
+Senate debates payment-system regulations under 2023 Act; PSP licensing, e-money, consumer protection; crypto caution.
 
 </div>
 
