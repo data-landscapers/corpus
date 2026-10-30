@@ -28,3 +28,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TUN,gov.standards--adoption-of-international-standards,fact,no evidence,2,TUN-001,Arrivals added TUN-001; stage no evidence -> 2.
 2026-10-17,TZA,gov.standards--adoption-of-international-standards,fact,no evidence,2,TZA-001;TZA-002,Arrivals added TZA-001; TZA-002; stage no evidence -> 2.
 2026-10-17,ZAF,gov.standards--adoption-of-international-standards,fact,no evidence,5,ZAF-002,Arrivals added ZAF-001; ZAF-002; stage no evidence -> 5.
+2026-10-30,GIN,gov.standards--adoption-of-international-standards,fact,no evidence,unplaced,,"Arrêté A/2026/419 requires the API/PNR system to meet ISO/IEC 27001: a one-sector rule places nothing, unplaced"

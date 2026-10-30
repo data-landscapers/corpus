@@ -25,14 +25,14 @@ The African Continental Free Trade Area's annex on technical barriers to trade, 
 | 3 Established | 6 |
 | 2 Nascent | 35 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
-| No evidence | 10 |
+| Unplaced | 1 |
+| No evidence | 9 |
 
 ## Countries
 
 ### Rwanda: 5 Leading
 
-In October 2026 Rwanda's standards board listed participating membership of 28 ISO committees, including IT service management; no source found reports national adoption of any standard.
+In October 2026 Rwanda's standards board listed participating membership of 28 ISO committees, including IT service management; national adoption of any standard is not known.
 
 - The RSB page lists Rwanda as a participating member of ISO/IEC JTC 1/SC 40 on IT service management and IT governance, and an observer on JTC 1 and SC 27 ([source, 2026-10](https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees)).
 
@@ -44,7 +44,7 @@ South Africa's standards body took part in the international information technol
 
 ### Uganda: 4 Operating
 
-Uganda's 2026 information security policy requires public bodies to comply with the international information security standard; no source found reports its part in writing such standards.
+Uganda's 2026 information security policy requires public bodies to meet the international information security standard; its part in writing such standards is not known.
 
 - NITA-U's National Information Security Policy 2026, which says it defines mandatory policy requirements for ministries, departments, agencies and local governments, says cloud, interface, artificial intelligence and industrial control technologies must be deployed and managed in compliance with ISO/IEC 27001:2022, and that organisations must apply ISA/IEC 62443 to industrial control systems; the document gives no exact day, so NITA-U's 15 July 2026 launch date is used ([source, 2026-07-15](https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf)).
 
@@ -300,6 +300,12 @@ Tunisia's standards body, INNORPI, was an ISO member body in 2026; no internatio
 
 - ISO's registry entry lists INNORPI as Tunisia's ISO member body ([source, 2026-10-16](https://www.iso.org/member/2158.html)).
 
+### Guinea: Unplaced
+
+A 2026 aviation order requires one passenger-data system to meet an international security standard; membership of ISO is not known, so no stage is set.
+
+Not established: No source names the standards body as a member of ISO or IEC, or says it belongs to neither. The one row is a transport ministry order requiring the API/PNR system to meet ISO/IEC 27001, a rule for one sector.
+
 ### Botswana: No evidence
 
 Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
@@ -325,12 +331,6 @@ Nothing found names the standards body as a member of ISO or IEC, or says it bel
 Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### Equatorial Guinea: No evidence
-
-Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
-
-Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
-
-### Guinea: No evidence
 
 Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 

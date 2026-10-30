@@ -1,16 +1,17 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "international",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.",
-   "note": "Counted from the four questions by study-ladder-internationalstandards.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "international",
+      "stage": "unplaced",
+      "standing": "",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source names the standards body as a member of ISO or IEC, or says it belongs to neither. The one row is a transport ministry order requiring the API/PNR system to meet ISO/IEC 27001, a rule for one sector.",
+      "note": "The only row is Arrêté A/2026/419 requiring the national API/PNR passenger-data system to meet ISO/IEC 27001; a rule for one sector places nothing, so it sets no rung. Read as a rule on a government system, it would answer question 3 and stage 4.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }
