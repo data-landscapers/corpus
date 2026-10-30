@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-29-tcd-telecoms-ndjamena-accentue-la-pression-sur-airtel-moov-et-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "EcoMatin reports that Starlink services have been authorised in Chad for just two months, and that a ministerial arrete of 27 August 2025 sets conditions on its activity, including identifying customers with the regulator Arcep.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Chad",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

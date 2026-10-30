@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TCD,satellite,service,coverage,sale,2026-07-17,TCD-003;TCD-006;TCD-007;TCD-008,TCD-001=licensed;TCD-002=licensed;TCD-005=licensed;TCD-004=licensed,
-TCD,satellite,counted,coverage,,,,,nothing held
+TCD,satellite,service,coverage,sale,2026-10-26,TCD-003;TCD-006;TCD-007;TCD-008;TCD-010,TCD-001=licensed;TCD-009=licensed;TCD-002=licensed;TCD-005=licensed;TCD-004=licensed,
+TCD,satellite,counted,coverage,,,,,nothing found
