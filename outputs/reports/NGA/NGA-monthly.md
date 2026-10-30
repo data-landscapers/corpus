@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: NGA
-ledger_rows: 178
+ledger_rows: 180
 not_held: 9
-record: c6afb03a8baf
+record: 4867f333f56a
 ---
 
 # News, Sep – Oct 2026
@@ -46,6 +46,8 @@ record: c6afb03a8baf
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -664,6 +666,14 @@ Nigeria's Communications Commission launched a Device Checker on 7 October 2026 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Device Checker: Nigeria introduces app to simplify phone verification](https://techcabal.com/2026/10/29/nigeria-device-checker-verification-app/)** — TechCabal, 29 October 2026
+
+IMEI-scanning app for importers, distributors and dealers; Kano phone dealers being licensed and regularised.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -675,6 +685,22 @@ Nigeria's Communications Commission launched a Device Checker on 7 October 2026 
 **[NITDA Moves to Boost Digital Public Services as MDAs Begin IPv6 Migration Training](https://techeconomy.ng/nitda-moves-to-boost-digital-public-services-as-mdas-begin-ipv6-migration-training)** — Techeconomy, 20 October 2026
 
 Nigeria's NITDA began its first IPv6 migration readiness training for federal ministries, departments and agencies, with AFRINIC and the Nigeria IPv6 Council, as reported on 20 October 2026. It runs in two streams, for management and for technical staff, and NITDA is funding certification for the technical staff. The move is tied to online public services and the National Sovereign Cloud Initiative.
+
+</div>
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nigeria AI Governance Forum advisory council</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NAIGF inaugurates advisory council to guide responsible AI in Nigeria](https://aigovernanceafrica.com/naigf-inaugurates-advisory-council-to-guide-responsible-ai-in-nigeria/)** — AI Governance Africa, 27 October 2026
+
+15-member advisory council, chair Olusola Teniola; advisory only, no legal force; backs national AI strategy.
 
 </div>
 
@@ -1344,6 +1370,14 @@ Infragora Global Capital plans to start building two AI-ready AFRIDATA data cent
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[AFRIDATA, Agency sign $1.87m grant for Nigerian data centre study](https://nannews.ng/afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study/)** — News Agency of Nigeria, 28 October 2026
+
+Grant agreement signed at AFRIDATA Nigeria's Abuja launch; Lagos Free Zone eyed for Tier IV flagship, Delta for backup.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1767,6 +1801,20 @@ Trust Stamp signed a three-year agreement with BLIP Limited, a Nigerian supplier
 **[Trust Stamp targets Nigerian biometric ID programs with 3-year BLIP deal](https://www.biometricupdate.com/202610/trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-deal)** — Biometric Update, 27 October 2026
 
 Trust Stamp signed a three-year technology services and data sovereignty agreement with BLIP Limited, a Nigerian provider of registration platforms for government. Trust Stamp will supply tokenised biometric identity tools, with data hosted in Nigeria. The company expects more than one million enrolments in the first year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric voter accreditation system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria tests upgraded biometric voter system ahead of 2027 elections](https://www.biometricupdate.com/202610/nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections)** — Biometric Update, 28 October 2026
+
+57,000 extra devices; e-EC8A result-sheet authentication; Electoral Act 2026 s.47(2) names BVAS for accreditation.
 
 </div>
 
