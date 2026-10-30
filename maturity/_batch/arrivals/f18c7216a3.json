@@ -1,0 +1,12 @@
+{"slug": "2026-05-29-moz-bootcamp-de-direito-da-tecnologia-destaca-desafios-da-proteccao-de-dad", "studies": {
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "INTIC reports that its data protection department head Rosa Dique said on 28 May 2026 that the Personal Data Protection Law proposal has been submitted to the Assembly of the Republic for appraisal and approval.", "as_of": "2026-05-28", "date_precision": "day", "system": "Proposta de Lei de Protecção de Dados Pessoais", "class": "general"}
+], "systems": [], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "not-yet", "fact": "INTIC reports that Rosa Dique called the approval of the Personal Data Protection Law urgent on 28 May 2026, with the proposal only submitted to the Assembly.", "as_of": "2026-05-28", "date_precision": "day", "system": "Proposta de Lei de Protecção de Dados Pessoais", "class": "system"}
+], "systems": [], "note": ""}}},
+"ecommercelaw": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "INTIC reports that Rosa Dique named the Lei das Transaccoes Electronicas among Mozambique's existing legal bases, with the Constitution, the Labour Law and the Malabo Convention, for protecting privacy and personal data.", "as_of": "2026-05-28", "date_precision": "day", "system": "Lei das Transacções Electrónicas", "class": "law"}
+], "systems": [], "note": ""}}},
+"regionallaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The Malabo Convention is named as a legal basis, but the document does not say Mozambique signed or ratified it."}}}
+}}

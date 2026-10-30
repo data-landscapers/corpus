@@ -1,0 +1,11 @@
+{"slug": "2024-02-23-bfa-technologies-de-l-information-la-cil-remet-son-rapport-d-activites-202", "studies": {
+"dataprotectionauthority": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Presidency says the Commission de l'informatique et des libertes, led by president Dr Halguieta Nassa/Trawina, handed its 2022 activity report to the Head of State on 23 February 2024.", "as_of": "2024-02-23", "date_precision": "day", "system": "Commission de l'informatique et des libertes (CIL)", "class": "authority"}
+], "systems": [{"system": "Commission de l'informatique et des libertes (CIL)", "country_label": "Burkina Faso", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": "About 100 complaints are said to be registered, not settled, and no ruling against a named organisation is stated."}}},
+"dataprotectionlaw": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The CIL, headed by president Dr Halguieta Nassa/Trawina, reported its 2022 activities to the Head of State in February 2024.", "as_of": "2024-02-23", "date_precision": "day", "system": "Commission de l'informatique et des libertes (CIL)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The CIL president reported that in 2022 about 15,000 people were trained, over 190 personal data projects were processed as formalities and about a hundred complaints were registered.", "as_of": "2022", "date_precision": "year", "system": "Commission de l'informatique et des libertes (CIL)", "class": "general"}
+], "systems": [], "note": ""}}},
+"feedbackportals": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The document says nothing of a digital channel for feedback on public services."}}},
+"schoolinternet": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The document gives no school internet figure; digital education is only a planned CIL activity."}}}
+}}

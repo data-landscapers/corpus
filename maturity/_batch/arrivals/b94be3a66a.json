@@ -1,0 +1,140 @@
+{
+ "slug": "2026-10-28-democratic-republic-of-congo-seeks-consultancy-for-500-million-digital-prog",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Qualified electronic signatures only listed among planned DPI components."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo; programme components are planned only."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo; programme components are planned only."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only plans for stronger data protection regulations; no law or bill stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National e-Government Strategy 2025-2030",
+       "country_label": "Democratic Republic of Congo",
+       "class": "government",
+       "platform": "",
+       "owner": "Ministry of Post, Telecommunications and Digital Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Names the National e-Government Strategy 2025-2030 (a government-administration strategy), with no statement of its adoption, text, plan or reporting."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo; programme components are planned only."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo; programme components are planned only."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo; programme components are planned only."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo; programme components are planned only."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo; programme components are planned only."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo; programme components are planned only."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo; programme components are planned only."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Enterprise architecture and interoperability framework for government services (to be designed)",
+       "country_label": "Democratic Republic of Congo",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Post, Telecommunications and Digital Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Consultancy will design an interoperability framework; no drafting stated as begun, so intention only."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "slug": "2026-10-29-mli-mali-l-intelligence-artificielle-nouveau-rempart-contre-les-cybermenac",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Mali."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Mali."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Mali."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Mali."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The 1,338 cybercrime cases of 2025 are a registry count, not a stated use of a named law."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Mali."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Mali."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Mali."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Mali."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "The government approved the national cybersecurity strategy and action plan for 2026-2030 by decree no. 2026-0097/PT-RM, per NafoloNews.",
+       "as_of": "2026-02-25",
+       "date_precision": "day",
+       "system": "Stratégie nationale de cybersécurité 2026-2030",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The Council of Ministers adopted the texts creating, organising and running the national information systems security agency (ANSSI), which is to coordinate response to cyberattacks, per the official communiqué cited by NafoloNews.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Agence nationale de la Sécurité des Systèmes d'Information (ANSSI)",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Agence nationale de la Sécurité des Systèmes d'Information (ANSSI)",
+       "country_label": "ANSSI",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Mali",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

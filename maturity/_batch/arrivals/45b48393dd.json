@@ -1,0 +1,46 @@
+{"slug": "2025-01-01-zwe-zimbabwe-s-data-protection-regime", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The report states nothing on AI harms."}}},
+"businesspayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on the central bank or payment systems."}}},
+"consumerprotection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection in digital financial services."}}},
+"crossborderpayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"cybersecurity": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A CIRT laboratory inside POTRAZ's data protection unit is named, but no national response body is created, no incident handled and no alert issued."}}},
+"dataprotectionauthority": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Cyber and Data Protection Act, 2021 designates the telecom regulator POTRAZ as Data Protection Authority, and it is doing the job, with 721 licensed data controllers as of October 2025 and a 14-person data protection unit, according to POTRAZ-supplied figures.", "as_of": "2025-10", "date_precision": "month", "system": "POTRAZ", "class": "authority"},
+{"sub_indicator": "body", "aspect": "rulings", "value": "reported", "fact": "POTRAZ says it has received 20 formal complaints, of which 15 were investigated and resolved, 3 are under investigation and 2 were dismissed for jurisdiction; it also reports 11 compliance guidance notices and findings and 20 compliance audits in 2025, and no landmark enforcement case.", "as_of": "2025-10", "date_precision": "month", "system": "POTRAZ", "class": "authority"}],
+"systems": [{"system": "POTRAZ", "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe", "class": "authority", "platform": "", "owner": "POTRAZ", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Cyber and Data Protection Act, 2021 is Zimbabwe's comprehensive data protection law and the report describes the legal framework as intact and operational in 2025.", "as_of": "2025", "date_precision": "year", "system": "Cyber and Data Protection Act, 2021", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "POTRAZ is designated as Data Protection Authority under section 5 of the Act and is operating, with a 14-person data protection unit.", "as_of": "2025-10", "date_precision": "month", "system": "POTRAZ", "class": "general"},
+{"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "The 2022 Cyber and Data Protection Regulations and the Licensing of Data Controllers and Appointment of Data Protection Officers Regulations, S.I. 155 of 2024, have been made under the Act.", "as_of": "2024", "date_precision": "year", "system": "Cyber and Data Protection Regulations", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "POTRAZ reports 20 formal complaints under the Act, 15 of them investigated and resolved, with no administrative fines available under the Act and no landmark enforcement case.", "as_of": "2025-10", "date_precision": "month", "system": "Cyber and Data Protection Act, 2021", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "POTRAZ conducted 20 proactive compliance audits in 2025, licensed 721 controllers and issued six implementation guidelines.", "as_of": "2025", "date_precision": "year", "system": "Cyber and Data Protection Act, 2021", "class": "general"},
+{"sub_indicator": "general", "aspect": "last12", "value": "no-change", "fact": "The report says no legislative amendments were made during the review period.", "as_of": "2025", "date_precision": "year", "system": "Cyber and Data Protection Act, 2021", "class": "general"}],
+"systems": [], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "The Cyber and Data Protection Act, 2021 is in force and the report calls the framework operational in 2025.", "as_of": "2025", "date_precision": "year", "system": "Cyber and Data Protection Act, 2021", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "POTRAZ, the telecom regulator, is designated Data Protection Authority and is carrying out the role.", "as_of": "2025-10", "date_precision": "month", "system": "POTRAZ", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "POTRAZ keeps a public register of 721 licensed data controllers as of October 2025, handles complaints, issued six guidelines and ran 20 compliance audits in 2025.", "as_of": "2025-10", "date_precision": "month", "system": "POTRAZ", "class": "system"}],
+"systems": [], "note": ""}}},
+"digitalidlaw": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The National Registration Act is named only as regulating identity data collection; the report does not say it sets up an identity number, register or card."}}},
+"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on online government services beyond a general mention of e-government."}}},
+"electoralregister": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "electoral", "aspect": "roll", "value": "inservice", "fact": "The report says the Zimbabwe Electoral Commission maintains biometric voter databases.", "as_of": "2025", "date_precision": "year", "system": "ZEC biometric voter database", "class": "electoral"}],
+"systems": [{"system": "ZEC biometric voter databases", "country_label": "Zimbabwe", "class": "electoral", "platform": "", "owner": "Zimbabwe Electoral Commission", "tiers": ""}], "note": ""}}},
+"eparticipation": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on an online channel; the draft guidelines are said to be in public consultation without an online channel named."}}},
+"g2ppayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"idrobustness": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on a national ID system."}}},
+"idverification": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "SIM registration is named but the report does not say it is checked against the national ID."}}},
+"internetusage": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "internet penetration reported to Parliament", "country_label": "73.3% (2024, Portfolio Committee on ICT; a penetration rate, not a share of people)", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The 73.3% is a penetration rate, not a stated share of people using the internet."}}},
+"mobilepenetration": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "mobile penetration reported to Parliament", "country_label": "97.5% (2024, Portfolio Committee on ICT; a penetration rate, not a share of people owning a phone)", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The 97.5% is a penetration rate, not a share of people who own a phone."}}},
+"paymentsuptake": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No survey of account ownership is stated."}}},
+"publicconsultation": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "POTRAZ says seven further draft data protection guidelines are undergoing public consultation, expected to be finalised before the end of 2025; the drafts are not named.", "as_of": "2025", "date_precision": "year", "system": "POTRAZ draft guidelines", "class": "consultation"}],
+"systems": [], "note": ""}}},
+"regionalpolicy": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "POTRAZ, as the data protection authority, takes part in the Network of African Data Protection Authorities (NADPA-RAPDP), Africa CIRT and SADC CIRT.", "as_of": "2025", "date_precision": "year", "system": "Network of African Data Protection Authorities", "class": "cooperation"},
+{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "POTRAZ has signed a memorandum of understanding with the Information Regulator of South Africa on cross-border regulatory cooperation in data protection; the signing date is not given.", "as_of": "2025", "date_precision": "year", "system": "POTRAZ-Information Regulator of South Africa MoU", "class": "cooperation"}],
+"systems": [], "note": ""}}},
+"retailpayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on electronic revenue payment."}}}
+}}

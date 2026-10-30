@@ -1,0 +1,33 @@
+{"slug": "2026-10-29-tgo-journee-nationale-de-la-protection-des-donnees-personnelles-le-togo-mi", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Mentions AI training-data risks only as a topic discussed; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "A practical guide on civil registration is in validation; no link between civil register and ID stated."}}},
+"businesspayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only a guide on civil registration in validation; no digital register stated."}}},
+"consumerprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on digital financial services protection."}}},
+"crossborderpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Hosting capacity named only as an IPDCP orientation; no data centre for hire stated."}}},
+"dataprotectionauthority": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Togo's data-protection authority, the IPDCP, headed by its president Colonel BELEI Bedaini, organised the first national data-protection day in Lome on 29 October 2026 and says a first cohort of data-protection correspondents has been trained.", "as_of": "2026-10-29", "date_precision": "day", "system": "Instance de protection des donnees a caractere personnel (IPDCP)", "class": "authority"}
+], "systems": [{"system": "Instance de protection des donnees a caractere personnel (IPDCP)", "country_label": "Togo", "class": "authority", "platform": "", "owner": "state", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Togo's data-protection authority, the IPDCP, headed by its president Colonel BELEI Bedaini, was acting on 29 October 2026, holding the first national data-protection day and training a first cohort of correspondents.", "as_of": "2026-10-29", "date_precision": "day", "system": "Instance de protection des donnees a caractere personnel (IPDCP)", "class": "general"}
+], "systems": [], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "Togo's data-protection authority, the IPDCP, has a sitting president, Colonel BELEI Bedaini, who spoke for it on 29 October 2026, and the body says it has trained a first cohort of data-protection correspondents.", "as_of": "2026-10-29", "date_precision": "day", "system": "Instance de protection des donnees a caractere personnel (IPDCP)", "class": "system"}
+], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Sovereign cloud and national hosting are IPDCP aims, not a government strategy, rule or hosting stated."}}},
+"g2ppayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idrobustness": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Biometric ID mentioned only in general terms; no system stated."}}},
+"nationaldatacentres": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No nationally owned data centre stated."}}},
+"paymentsuptake": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"registry": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only a guide on civil registration in validation; no digital entry at offices stated."}}},
+"retailpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Mobile payments mentioned in general terms only."}}},
+"revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Support for local startups mentioned only as a possible benefit."}}},
+"techhubs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on hubs or parks."}}}
+}}

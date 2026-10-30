@@ -1,0 +1,11 @@
+{"slug": "2026-10-29-en-cote-divoire-une-simulation-nationale-pour-apprendre-a-reagir-aux-cybera", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on the central bank."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"cybersecurity": {"countries": {"CIV": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "RFI describes the Agence nationale de la sécurité des systèmes d'information (Anssi) as the authority responsible for securing Côte d'Ivoire's national digital space, which led the Cyber.Ex national drill in Abidjan on 28-29 October 2026.", "as_of": "2026-10-29", "date_precision": "day", "system": "Anssi", "class": "response"}], "systems": [{"system": "Anssi", "country_label": "Agence nationale de la sécurité des systèmes d'information (Anssi)", "class": "response", "platform": "", "owner": "state", "tiers": ""}], "note": "The count of 147 major vulnerabilities since January is neither an incident handled, an alert issued nor a published count of incidents or alerts; the drill is an exercise."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No survey share of adults with an account stated."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Colonel Aly Samassi of Anssi says people in Côte d'Ivoire pay for energy, both electricity and vehicle fuel, by mobile money.", "as_of": "2026-10-29", "date_precision": "day", "system": "mobile money", "class": "retail"}], "systems": [{"system": "mobile money", "country_label": "mobile money", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on tax or fee payment."}}}
+}}

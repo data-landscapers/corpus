@@ -1,0 +1,81 @@
+{
+ "slug": "2025-03-04-mrt-reunion-de-coordination-entre-la-caisse-nationale-de-securite-sociale",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The president of the Autorité de Protection des Données à Caractère Personnel, Mohamed Lamine Ould Sidi, met the social security fund's director general on 4 March 2025, with the authority's technical director present.",
+       "as_of": "2025-03-04",
+       "date_precision": "day",
+       "system": "Autorité de Protection des Données",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Autorité de Protection des Données à Caractère Personnel",
+       "country_label": "Mauritania",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling or count of rulings is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The president of the Autorité de Protection des Données à Caractère Personnel, Mohamed Lamine Ould Sidi, met the social security fund's director general on 4 March 2025.",
+       "as_of": "2025-03-04",
+       "date_precision": "day",
+       "system": "Autorité de Protection des Données",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The 4 March 2025 meeting covered applying the provisions of law 2017-020 on personal data protection.",
+       "as_of": "2025-03-04",
+       "date_precision": "day",
+       "system": "Law 2017-020",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Law 2017-020",
+       "country_label": "Mauritania",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Autorité de Protection des Données à Caractère Personnel",
+       "country_label": "Mauritania",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No registration, guidance or decision is stated; a partnership proposal is only agreed."
+    }
+   }
+  }
+ }
+}

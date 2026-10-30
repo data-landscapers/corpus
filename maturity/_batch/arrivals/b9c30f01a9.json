@@ -1,0 +1,103 @@
+{
+ "slug": "2026-02-12-sen-collecte-et-traitement-des-donnees-personnelles-la-cdp-publie-son-rapp",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The CDP published its report for the fourth quarter of 2025 on 12 February 2026.",
+       "as_of": "2026-02-12",
+       "date_precision": "day",
+       "system": "CDP",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "reported",
+       "fact": "The CDP's fourth-quarter 2025 report says it handled 165 files, registered 127 declarations, received 41 authorisation requests and granted 39, and logged 14 complaints and 2 reports.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "CDP",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "In its fourth-quarter 2025 report the CDP deferred three video-surveillance files, naming Hotel Novotel Dakar, Clinique Dabia and Senediis Sarl, and set corrective requirements for each.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "CDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CDP",
+       "country_label": "Senegal",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The CDP published its report for the fourth quarter of 2025 on 12 February 2026.",
+       "as_of": "2026-02-12",
+       "date_precision": "day",
+       "system": "CDP",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "reported",
+       "fact": "The CDP's fourth-quarter 2025 report says it handled 165 files, granted 39 of 41 authorisation requests, and logged 14 complaints and 2 reports.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "CDP",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "In its fourth-quarter 2025 report the CDP deferred three video-surveillance files, naming Hotel Novotel Dakar, Clinique Dabia and Senediis Sarl, and set corrective requirements for each.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "CDP",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CDP",
+       "country_label": "Senegal",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

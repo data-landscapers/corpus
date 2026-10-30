@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-26-tza-tanzania-plans-50m-venture-capital-fund-for-startups",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Tanzania Venture Capital Fund (proposed)",
+       "country_label": "Tanzania",
+       "class": "other",
+       "platform": "",
+       "owner": "Tanzania Startup Association",
+       "tiers": ""
+      }
+     ],
+     "note": "A proposed fund with no signed amount."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed fund; no startup law, strategy or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    }
+   }
+  }
+ }
+}

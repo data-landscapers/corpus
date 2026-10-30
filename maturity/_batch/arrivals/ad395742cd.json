@@ -1,0 +1,11 @@
+{"slug": "2026-07-01-dza-personal-data-protection-an-overview-of-algerian-regulations", "studies": {
+"dataprotectionauthority": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Gide says the National Authority for the Protection of Personal Data (ANPDP) has been fully operational since August 2023.", "as_of": "2023-08", "date_precision": "month", "system": "Autorite Nationale de Protection des Donnees a caractere Personnel (ANPDP)", "class": "authority"}
+], "systems": [{"system": "Autorite Nationale de Protection des Donnees a caractere Personnel (ANPDP)", "country_label": "Algeria", "class": "authority", "platform": "ANPDP online platform", "owner": "", "tiers": ""}], "note": "The four deliberations named are general rules on sectors or practices, not rulings on one organisation, and no count is given."}}},
+"dataprotectionlaw": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Gide says Law No. 18-07 of 10 June 2018, amended by Law No. 25-11 of 24 July 2025, is after a compliance phase now being effectively implemented.", "as_of": "2026-07-01", "date_precision": "day", "system": "Law No. 18-07 on personal data protection", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Gide says the ANPDP has been fully operational since August 2023 and receives notifications and authorisation applications through its online platform.", "as_of": "2023-08", "date_precision": "month", "system": "Autorite Nationale de Protection des Donnees a caractere Personnel (ANPDP)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "Gide names four ANPDP deliberations, dated 24 December 2025, 25 February 2026, 4 March 2026 and 6 May 2026, setting rules on data protection officers, health data, workplace video surveillance and biometric attendance control.", "as_of": "2026-05-06", "date_precision": "day", "system": "Autorite Nationale de Protection des Donnees a caractere Personnel (ANPDP)", "class": "general"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing of a national identity system."}}}
+}}

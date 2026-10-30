@@ -1,0 +1,150 @@
+{
+ "slug": "2025-07-01-zwe-potraz-certifies-700-data-protection-officers",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "POTRAZ, led by director-general Gift Machengete, acts as Zimbabwe's data protection regulator under the Cyber and Data Protection Act.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "POTRAZ",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "POTRAZ",
+       "country_label": "Zimbabwe",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "POTRAZ says it favours compliance over fines; no ruling or count of rulings is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "POTRAZ, led by director-general Gift Machengete, acts as the data protection regulator under the Cyber and Data Protection Act.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "POTRAZ",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "POTRAZ said it is running a compliance drive under the Cyber and Data Protection Act.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "Cyber and Data Protection Act",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "issued",
+       "fact": "Statutory Instrument 155 of 2024 required all entities processing personal data to register with POTRAZ by 12 March 2025.",
+       "as_of": "2025-03-12",
+       "date_precision": "day",
+       "system": "Statutory Instrument 155 of 2024",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "POTRAZ said it had issued 570 data controller licences, certified over 700 data protection officers this year and recorded 45 data breach cases.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "POTRAZ",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cyber and Data Protection Act",
+       "country_label": "Zimbabwe",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "POTRAZ",
+       "country_label": "Zimbabwe",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "POTRAZ said it is running a compliance drive under the Cyber and Data Protection Act, with registration required by 12 March 2025.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "Cyber and Data Protection Act",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "POTRAZ, led by director-general Gift Machengete, acts as the data protection regulator.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "POTRAZ",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "POTRAZ said it had issued 570 data controller licences, certified over 700 data protection officers this year and recorded 45 data breach cases.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "POTRAZ",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "POTRAZ",
+       "country_label": "Zimbabwe",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

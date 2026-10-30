@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-28-cog-talangai-lancement-de-la-formation-des-relais-communautaires-sur-lutil",
+ "studies": {
+  "health": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Systeme d'Information Communautaire (SIC)",
+       "country_label": "Congo",
+       "class": "community",
+       "platform": "",
+       "owner": "Ministry of Health and Population",
+       "tiers": ""
+      }
+     ],
+     "note": "SIC is a community system, noted not assessed."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Systeme d'Information Communautaire (SIC)",
+       "country_label": "Congo",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health and Population",
+       "tiers": ""
+      }
+     ],
+     "note": "A community app, not a national HMIS in service or procured."
+    }
+   }
+  }
+ }
+}

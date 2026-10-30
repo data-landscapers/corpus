@@ -1,0 +1,138 @@
+{
+ "slug": "2026-10-29-nga-326-mdas-spend-n3-8trn-on-technology-as-nigeria-moves-to-localise-gove",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "cii",
+       "value": "designated",
+       "fact": "NITDA's director-general linked the localisation drive to President Tinubu's executive order designating digital infrastructure as Critical National Information Infrastructure, BusinessDay reports.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Critical National Information Infrastructure executive order",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "BusinessDay reports the Central Bank of Nigeria issued a circular requiring payment data to be localised in Nigeria by 1 January 2027.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "CBN payment data localisation circular",
+       "class": "rule"
+      },
+      {
+       "sub_indicator": "rule",
+       "aspect": "use",
+       "value": "enforcer",
+       "fact": "The CBN's payments system supervision department director said the CBN supervises compliance with the payment data localisation requirement, with sanctions reserved for deliberate non-compliance.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "CBN payment data localisation circular",
+       "class": "rule"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Sovereign Cloud Initiative",
+       "country_label": "National Sovereign Cloud Initiative",
+       "class": "other",
+       "platform": "",
+       "owner": "NITDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "NITDA's director-general said NITDA's National Sovereign Cloud Initiative framework anchors Nigeria's data localisation policy and that a deadline will be set for ministries, departments and agencies after the financial sector's 1 January 2027 deadline.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "National Sovereign Cloud Initiative",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Sovereign Cloud Initiative",
+       "country_label": "National Sovereign Cloud Initiative",
+       "class": "other",
+       "platform": "",
+       "owner": "NITDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

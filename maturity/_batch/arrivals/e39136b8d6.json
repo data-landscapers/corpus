@@ -1,0 +1,10 @@
+{"slug": "2023-12-06-syc-national-assembly-approves-two-bills-within-two-days", "studies": {
+"accesstoinformationlaw": {"countries": {"SYC": {"facts": [], "systems": [], "note": "The document is about a data protection bill and a citizenship bill and states nothing on an access to information law."}}},
+"dataprotectionlaw": {"countries": {"SYC": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "passed", "fact": "Seychelles Nation reports the National Assembly approved the Data Protection Bill 2023 on 5 December 2023, 22 members voting in favour and seven abstaining.", "as_of": "2023-12-05", "date_precision": "day", "system": "Data Protection Bill 2023", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Seychelles Nation reports Vice-President Ahmed Afif's statement that the Data Protection Bill 2023 will be enforced and implemented by the Information Commission.", "as_of": "2023-12-05", "date_precision": "day", "system": "Data Protection Bill 2023", "class": "general"}
+], "systems": [{"system": "Data Protection Bill 2023", "country_label": "Seychelles", "class": "general", "platform": "", "owner": "National Assembly", "tiers": ""}, {"system": "Information Commission", "country_label": "Seychelles", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"SYC": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "not-yet", "fact": "Seychelles Nation reports the National Assembly approved the Data Protection Bill 2023 on 5 December 2023, and says nothing of it being in force.", "as_of": "2023-12-05", "date_precision": "day", "system": "Data Protection Bill 2023", "class": "system"}
+], "systems": [{"system": "Data Protection Bill 2023", "country_label": "Seychelles", "class": "system", "platform": "", "owner": "National Assembly", "tiers": ""}], "note": ""}}}
+}}

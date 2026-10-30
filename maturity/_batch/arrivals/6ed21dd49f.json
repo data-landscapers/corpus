@@ -1,0 +1,11 @@
+{"slug": "2026-10-29-zwe-potraz-says-it-is-now-a-gateway-for-investors-not-a-gatekeeper", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government body's own use of AI stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "POTRAZ director-general Gift Machengete said the AI for Impact programme drew over 700 applications in 2026 and advanced 16 AI innovations towards commercialisation with private partners such as Econet.", "as_of": "2026-10-29", "date_precision": "day", "system": "AI for Impact programme", "class": "localai"}], "systems": [{"system": "AI for Impact programme", "country_label": "Zimbabwe", "class": "localai", "platform": "", "owner": "POTRAZ", "tiers": ""}], "note": ""}}},
+"digitaldivides": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The Universal Service Fund use stated is for innovation funding, not rural connectivity."}}},
+"domesticfinancing": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No budget amount or statement that digital transformation must be paid from domestic resources."}}},
+"nonstatefinance": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No private amount named."}}},
+"startups": {"countries": {"ZWE": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "funded", "value": "funded", "fact": "POTRAZ director-general Gift Machengete said the Universal Service Fund-backed Innovation Drive Programme has given milestone-based catalytic funding to more than 100 innovations to absorb early-stage risk.", "as_of": "2026-10-29", "date_precision": "day", "system": "Innovation Drive Programme", "class": "startuppolicy"}], "systems": [{"system": "Innovation Drive Programme", "country_label": "Zimbabwe", "class": "startuppolicy", "platform": "Universal Service Fund", "owner": "POTRAZ", "tiers": ""}], "note": ""}}},
+"techhubs": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No hub, incubator or park named."}}}
+}}

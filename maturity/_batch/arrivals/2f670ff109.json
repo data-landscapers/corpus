@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-29-tcd-conseil-des-ministres-fonction-publique-justice-et-transports-au-menu",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about satellite data in weather services."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about tax or fee payment."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about a tax system."
+    }
+   }
+  }
+ }
+}

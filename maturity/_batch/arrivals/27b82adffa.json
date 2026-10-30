@@ -1,0 +1,7 @@
+{"slug": "2026-10-29-tgo-quest-ce-que-la-journee-nationale-de-la-protection-des-donnees-personn", "studies": {
+"dataprotectionlaw": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The IPDCP says Togo's law no. 2019-014 of 29 October 2019 sets the legal framework for collecting, processing and using personal data, and that it was promulgated on that date.", "as_of": "2026-10-29", "date_precision": "day", "system": "Loi n° 2019-014 du 29 octobre 2019", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The IPDCP, Togo's Instance de Protection des Donnees a Caractere Personnel, says it organises the first national data protection day on 29 October 2026.", "as_of": "2026-10-29", "date_precision": "day", "system": "Instance de Protection des Données à Caractère Personnel (IPDCP)", "class": "general"}
+], "systems": [{"system": "Instance de Protection des Données à Caractère Personnel (IPDCP)", "country_label": "Togo", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Sovereignty appears only as the theme of an awareness day; the document states no rule on data hosting or contract terms."}}}
+}}

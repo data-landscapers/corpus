@@ -1,0 +1,81 @@
+{"slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a", "studies": {
+"dataprotectionauthority": {"countries": {
+"EGY": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "ACTPOL says the Personal Data Protection Centre created by Law No. 151 of 2020 had no board constituted as of January 2026 and is led by an acting chief executive who is also an adviser to the Minister of Communications.", "as_of": "2026-01", "date_precision": "month", "system": "Personal Data Protection Centre", "class": "authority"},
+{"sub_indicator": "body", "aspect": "rulings", "value": "none", "fact": "ACTPOL says the Centre had published no decisions on its website when it checked on 25 September 2026.", "as_of": "2026-09-25", "date_precision": "day", "system": "Personal Data Protection Centre", "class": "authority"}
+], "systems": [{"system": "Personal Data Protection Centre", "country_label": "Egypt", "class": "authority", "platform": "", "owner": "Minister of Communications and Information Technology", "tiers": ""}], "note": ""},
+"MAR": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "ACTPOL says Law 09-08 of 2009 is enforced by the CNDP, a seven-member body appointed by the King for five-year terms renewable once.", "as_of": "2026-09-25", "date_precision": "day", "system": "National Commission for the Control of the Protection of Personal Data (CNDP)", "class": "authority"}
+], "systems": [{"system": "National Commission for the Control of the Protection of Personal Data (CNDP)", "country_label": "Morocco", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""},
+"TUN": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "ACTPOL says Organic Law 2004-63 is enforced by Tunisia's national authority, the INPDP.", "as_of": "2026-09-25", "date_precision": "day", "system": "INPDP", "class": "authority"}
+], "systems": [{"system": "INPDP", "country_label": "Tunisia", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}
+}},
+"dataprotectionlaw": {"countries": {
+"EGY": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "transition", "fact": "ACTPOL says Law No. 151 of 2020 was published in July 2020 and, with executive regulations dated 1 November 2025, organisations have one year to comply, bringing the regime into full effect around 1 November 2026.", "as_of": "2025-11-01", "date_precision": "day", "system": "Personal Data Protection Law, Law No. 151 of 2020", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "ACTPOL says the Centre's board was not constituted as of January 2026 and an acting chief executive leads it.", "as_of": "2026-01", "date_precision": "month", "system": "Personal Data Protection Centre", "class": "general"},
+{"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "ACTPOL says the executive regulations were issued as Decree No. 816 of 2025 by the Minister of Communications, dated 1 November 2025 and released publicly on 25 December 2025.", "as_of": "2025-11-01", "date_precision": "day", "system": "Decree No. 816 of 2025", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "ACTPOL says the Centre presented online services for licence applications and data protection officer registration in February 2026 but had published no decisions by 25 September 2026.", "as_of": "2026-02", "date_precision": "month", "system": "Personal Data Protection Centre", "class": "general"},
+{"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "ACTPOL says the executive regulations, dated 1 November 2025, were released publicly on 25 December 2025.", "as_of": "2025-12-25", "date_precision": "day", "system": "Decree No. 816 of 2025", "class": "general"}
+], "systems": [], "note": ""},
+"MAR": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ACTPOL says Morocco's Law 09-08 of 2009 is enforced by the CNDP.", "as_of": "2026-09-25", "date_precision": "day", "system": "Law 09-08", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "ACTPOL says the CNDP is a seven-member body appointed by the King and enforcing Law 09-08.", "as_of": "2026-09-25", "date_precision": "day", "system": "CNDP", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "ACTPOL says the CNDP decided in December 2020 to allow facial recognition only case by case after prior authorisation.", "as_of": "2020-12-30", "date_precision": "day", "system": "CNDP deliberation D-195-EUS/2020", "class": "general"},
+{"sub_indicator": "general", "aspect": "last12", "value": "no-change", "fact": "ACTPOL says the CNDP planned to send the government a draft replacement for Law 09-08 in October 2022 and no definitive text had been adopted by April 2026.", "as_of": "2026-04", "date_precision": "month", "system": "Law 09-08", "class": "general"}
+], "systems": [], "note": ""},
+"TUN": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ACTPOL says Tunisia's Organic Law 2004-63 is enforced by its national authority, the INPDP.", "as_of": "2026-09-25", "date_precision": "day", "system": "Organic Law 2004-63", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "ACTPOL says the INPDP enforces Organic Law 2004-63.", "as_of": "2026-09-25", "date_precision": "day", "system": "INPDP", "class": "general"},
+{"sub_indicator": "general", "aspect": "last12", "value": "no-change", "fact": "ACTPOL says a GDPR-modelled draft law introduced in Tunisia's Parliament in March 2018 has not been passed.", "as_of": "2026-09-25", "date_precision": "day", "system": "Draft data protection law", "class": "general"}
+], "systems": [], "note": ""}
+}},
+"dataprotectionreadiness": {"countries": {
+"EGY": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "ACTPOL says Law No. 151 of 2020 has executive regulations dated 1 November 2025 and organisations have one year to comply, to about 1 November 2026.", "as_of": "2025-11-01", "date_precision": "day", "system": "Law No. 151 of 2020", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "ACTPOL says the Centre is led by an acting chief executive as of January 2026, its board not yet constituted.", "as_of": "2026-01", "date_precision": "month", "system": "Personal Data Protection Centre", "class": "system"}
+], "systems": [], "note": ""},
+"MAR": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "ACTPOL says Law 09-08 of 2009 is enforced by the CNDP.", "as_of": "2026-09-25", "date_precision": "day", "system": "Law 09-08", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "ACTPOL says the CNDP's seven members are appointed by the King.", "as_of": "2026-09-25", "date_precision": "day", "system": "CNDP", "class": "system"}
+], "systems": [], "note": ""},
+"TUN": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "ACTPOL says Organic Law 2004-63 is enforced by the INPDP.", "as_of": "2026-09-25", "date_precision": "day", "system": "Organic Law 2004-63", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "ACTPOL says the INPDP is the national authority enforcing the law.", "as_of": "2026-09-25", "date_precision": "day", "system": "INPDP", "class": "system"}
+], "systems": [], "note": ""}
+}},
+"datatransfers": {"countries": {
+"EGY": {"facts": [
+{"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "ACTPOL says Egypt's law allows transfers abroad only to destinations with equal protection and with a licence from the Centre, and the regulations of 1 November 2025 add the data subject's consent, with compliance due about 1 November 2026.", "as_of": "2025-11-01", "date_precision": "day", "system": "Law No. 151 of 2020 and Decree No. 816 of 2025", "class": "rule"},
+{"sub_indicator": "rule", "aspect": "use", "value": "none", "fact": "ACTPOL says the regulations provide no standard contractual clauses and Egypt has not published a list of countries with adequate protection.", "as_of": "2026-09-25", "date_precision": "day", "system": "Personal Data Protection Centre", "class": "rule"}
+], "systems": [], "note": ""},
+"MAR": {"facts": [], "systems": [], "note": "The document states nothing on Morocco's rule on sending data abroad."},
+"TUN": {"facts": [], "systems": [], "note": "The document states nothing on Tunisia's rule on sending data abroad."}
+}},
+"egovservices": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "The document names no government services portal."},
+"MAR": {"facts": [], "systems": [], "note": "The document states nothing on online government services."},
+"TUN": {"facts": [], "systems": [], "note": "The document states nothing on online government services."}
+}},
+"internationalstandards": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "The document states nothing on international standards bodies."},
+"MAR": {"facts": [], "systems": [], "note": "Convention 108 is a Council of Europe text, not an ISO or IEC standard."},
+"TUN": {"facts": [], "systems": [], "note": "Convention 108 is a Council of Europe text, not an ISO or IEC standard."}
+}},
+"policyresearch": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "The document names no local research institution; the publisher is ACTPOL."},
+"MAR": {"facts": [], "systems": [], "note": "The document names no local research institution."},
+"TUN": {"facts": [], "systems": [], "note": "The document names no local research institution."}
+}},
+"regionallaw": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "The document names no African legal text the country has signed or ratified."},
+"MAR": {"facts": [], "systems": [], "note": "Only Council of Europe Convention 108 is named, which is not an African text."},
+"TUN": {"facts": [], "systems": [], "note": "Only Council of Europe Convention 108 is named, which is not an African text."}
+}},
+"regionalpolicy": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "The document says only that the Centre is pursuing reciprocal adequacy decisions; no agreement or membership is stated."},
+"MAR": {"facts": [], "systems": [], "note": "The document states nothing on membership of an African digital policy body."},
+"TUN": {"facts": [], "systems": [], "note": "The document states nothing on membership of an African digital policy body."}
+}}
+}}

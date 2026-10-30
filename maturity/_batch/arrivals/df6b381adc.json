@@ -1,0 +1,128 @@
+{
+ "slug": "2026-06-10-mrt-apd-aned-data-localisation-nouakchott-data-centre",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Meeting on localising agency data at the Nouakchott data centre; the article states nothing on this study's question."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Meeting discussed mechanisms and accreditation standards for localising data in data centres; no rule drafted or in force is stated."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Meeting on localising agency data at the Nouakchott data centre; the article states nothing on this study's question."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Meeting on localising agency data at the Nouakchott data centre; the article states nothing on this study's question."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Meeting on localising agency data at the Nouakchott data centre; the article states nothing on this study's question."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The head of Mauritania's personal data protection authority, Mohamed Lemine Ould Sidi, chaired a coordination meeting with the state digital agency and Mauritanian telecom company on 10 June 2026, as reported by Ettayar.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Personal Data Protection Authority (APD)",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Personal Data Protection Authority (APD)",
+       "country_label": "Mauritania",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The head of the data protection authority presented the requirements of Law No. 2017-020 on personal data protection and said compliance with it had become necessary, per Ettayar.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Law No. 2017-020 on personal data protection",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The authority's head, Mohamed Lemine Ould Sidi, led a meeting with public bodies on compliance with the data protection law, per Ettayar.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Personal Data Protection Authority (APD)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The authority met the state digital agency and Mauritanian telecom company on compliance requirements and data localisation mechanisms, with no decision reported.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Personal Data Protection Authority (APD)",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Law No. 2017-020 on personal data protection",
+       "country_label": "Mauritania",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

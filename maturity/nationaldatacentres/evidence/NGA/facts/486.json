@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AFRIDATA Nigeria data centres (Lagos, Delta)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "AFRIDATA",
+   "tiers": "Lagos designed to Tier IV"
+  }
+ ],
+ "note": "The document describes a planned data centre in Lagos and Delta funded by a feasibility-study grant; nothing built, in service or governed is stated."
+}

@@ -1,0 +1,184 @@
+{
+ "slug": "2024-10-02-mar-omar-seghrouchni-cndp-l-investissement-n-absout-pas-les-violations-des",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Médias24 interviews the CNDP president Omar Seghrouchni, who says the commission is strengthening its controls and refers non-compliant controllers to the competent prosecutor.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "CNDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNDP (Commission nationale de contrôle de la protection des données à caractère personnel)",
+       "country_label": "Morocco",
+       "class": "authority",
+       "platform": "",
+       "owner": "State",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling against a named organisation is stated; proceedings are still open."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Médias24 interviews the CNDP president Omar Seghrouchni, who says the commission is strengthening its controls and refers non-compliant controllers to the competent prosecutor.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "CNDP",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The CNDP president says the commission is strengthening controls and that disciplinary proceedings against TLS Contact Maroc, VFS GCC Morocco and BLSMOR Services are still in progress, with no decision stated.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "CNDP",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNDP (Commission nationale de contrôle de la protection des données à caractère personnel)",
+       "country_label": "Morocco",
+       "class": "authority",
+       "platform": "",
+       "owner": "State",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "Médias24 interviews the CNDP president Omar Seghrouchni, who says the commission is strengthening its controls and referring non-compliant controllers to the prosecutor.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "CNDP",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "The CNDP president says the commission is strengthening controls and has set up the national data protection register, while proceedings against three visa contractors remain open.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "CNDP",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNDP (Commission nationale de contrôle de la protection des données à caractère personnel)",
+       "country_label": "Morocco",
+       "class": "authority",
+       "platform": "",
+       "owner": "State",
+       "tiers": ""
+      }
+     ],
+     "note": "Convention 108+ ratification is stated as in progress, not Malabo."
+    }
+   }
+  }
+ }
+}

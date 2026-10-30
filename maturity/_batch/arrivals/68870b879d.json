@@ -1,0 +1,11 @@
+{"slug": "2026-10-27-egy-raya-ventures-venture-capital-arm-pidima-data-centre", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No public sector AI system stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing in Egypt stated; Pidima is a UK firm."}}},
+"datacentres": {"countries": {"EGY": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Al Borsa News reports that Raya Data Center Services, founded in 2012 under Raya Systems, provides data centre, cloud computing and managed services to public and private sector customers in Egypt.", "as_of": "2026-10-27", "date_precision": "day", "system": "Raya Data Center Services", "class": "datacentre"}], "systems": [{"system": "Raya Data Center Services", "country_label": "Egypt", "class": "datacentre", "platform": "", "owner": "Raya Holding (via Raya Systems)", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document does not state who owns Raya Data Center Services by nationality; the Tier III centre is only planned."}}},
+"nonstatefinance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a conditional, unsigned approval of up to USD 60m and an undated earlier Africa50 partnership are stated."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Raya Ventures is a private fund with no public scheme."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No hub or technology park stated."}}}
+}}

@@ -1,0 +1,121 @@
+{
+ "slug": "2026-01-26-rwa-what-to-do-after-you-register-with-ncsa",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Cyber Security Authority (NCSA)",
+       "country_label": "NCSA",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document is data protection guidance and states nothing on a cyber body's creation, incident response, designation or figures."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The NCSA's Data Protection and Privacy Office says controllers and processors register with the National Cyber Security Authority under Law No. 058/2021 on the protection of personal data and privacy.",
+       "as_of": "2026-01-26",
+       "date_precision": "day",
+       "system": "Law No. 058/2021",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The NCSA's Data Protection and Privacy Office says controllers and processors register with the National Cyber Security Authority under Law No. 058/2021 on the protection of personal data and privacy.",
+       "as_of": "2026-01-26",
+       "date_precision": "day",
+       "system": "National Cyber Security Authority",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The NCSA's Data Protection and Privacy Office published guidance on what registered controllers and processors must do after registering under Law No. 058/2021.",
+       "as_of": "2026-01-26",
+       "date_precision": "day",
+       "system": "Law No. 058/2021",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Cyber Security Authority (NCSA)",
+       "country_label": "NCSA",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The NCSA's Data Protection and Privacy Office says controllers and processors register with the National Cyber Security Authority under Law No. 058/2021 on the protection of personal data and privacy.",
+       "as_of": "2026-01-26",
+       "date_precision": "day",
+       "system": "Law No. 058/2021",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The NCSA's Data Protection and Privacy Office says controllers and processors register with the National Cyber Security Authority under Law No. 058/2021 on the protection of personal data and privacy.",
+       "as_of": "2026-01-26",
+       "date_precision": "day",
+       "system": "National Cyber Security Authority",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "The NCSA's Data Protection and Privacy Office says controllers and processors register with the National Cyber Security Authority under Law No. 058/2021 on the protection of personal data and privacy. It also published post-registration compliance guidance.",
+       "as_of": "2026-01-26",
+       "date_precision": "day",
+       "system": "National Cyber Security Authority",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Cyber Security Authority (NCSA)",
+       "country_label": "NCSA",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

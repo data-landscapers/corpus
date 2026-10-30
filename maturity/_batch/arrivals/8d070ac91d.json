@@ -1,25 +1,5 @@
-{
- "slug": "2025-09-25-businessdaily-kra-nets-sh2-3bn-tech-giants-without-local-units",
- "studies": {
-  "publicconsultation": {
-   "countries": {
-    "KEN": {
-     "facts": [
-      {
-       "sub_indicator": "consultation",
-       "aspect": "hearing",
-       "value": "held",
-       "fact": "Treasury Cabinet Secretary John Mbadi has published regulations on the Significant Economic Presence Tax for public participation, per Business Daily.",
-       "as_of": "2025-09-25",
-       "date_precision": "day",
-       "system": "Significant Economic Presence Tax draft regulations",
-       "class": "consultation"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  }
- }
-}
+{"slug": "2025-09-25-businessdaily-kra-nets-sh2-3bn-tech-giants-without-local-units", "studies": {
+"ailaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on AI law."}}},
+"ecommercelaw": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Significant Economic Presence Tax", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Kenya Revenue Authority", "tiers": ""}], "note": "Only the digital service and significant economic presence taxes are stated, which are not an e-commerce law."}}},
+"paymentslaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on payments law."}}}
+}}

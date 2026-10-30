@@ -1,0 +1,10 @@
+{"slug":"2026-10-27-bfa-ecofin-ia-langues-locales-defi-donnees","studies":{
+"aiabuse":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Document states no AI harm rule or authority."}}},
+"aigovernment":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No government body use of AI stated; only a roadmap and language-corpus work."}}},
+"aisectoral":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Only targets of 23 experimental solutions in priority sectors; no sectoral tool stated."}}},
+"aistrategy":{"countries":{"BFA":{"facts":[{"sub_indicator":"strategy","aspect":"use","value":"funded","fact":"Agence Ecofin reports the national AI roadmap 2026-2030, validated but not yet officially published, is endowed with a budget of FCFA 30 billion (USD 51.1 million), presented by the digital transition ministry on 2026-10-23.","as_of":"2026-10-23","date_precision":"day","system":"feuille de route nationale de l'IA 2026-2030","class":"strategy"}],"systems":[{"system":"feuille de route nationale de l'IA 2026-2030","country_label":"Burkina Faso","class":"strategy","platform":"","owner":"Ministry in charge of Digital Transition","tiers":""}],"note":""}}},
+"aisystems":{"countries":{"BFA":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"underway","fact":"Agence Ecofin says a workshop at Koudougou on 24-28 March 2026, run by the digital ministry with RTB and CITADEL, worked on language formalisation and corpus building in Moore, Dioula, Fulfulde and Gulmancema for speech recognition, machine translation and speech synthesis tools.","as_of":"2026-03-28","date_precision":"day","system":"local-language corpus for AI tools","class":"localai"}],"systems":[],"note":""}}},
+"digitaldivides":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No rural internet programme or rural/urban figures stated."}}},
+"satellitebroadband":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Satellite broadband not about Burkina Faso in this document."}}},
+"schoolinternet":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No school internet figure or curriculum statement."}}}
+}}

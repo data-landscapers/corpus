@@ -1,0 +1,16 @@
+{"slug": "2025-03-13-gha-arnold-kavaarpuo-appointed-as-acting-executive-director-of-data-protec", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document states nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "It mentions the appointee's past credit work but states no consumer rule or complaints body."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document states nothing on cross-border payments."}}},
+"dataprotectionauthority": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Citi Newsroom reports that President John Dramani Mahama appointed Dr Arnold Kavaarpuo as Acting Executive Director of Ghana's Data Protection Commission; no appointment date is given beyond the article's.", "as_of": "2025-03-13", "date_precision": "day", "system": "Data Protection Commission", "class": "authority"}
+], "systems": [{"system": "Data Protection Commission", "country_label": "Ghana", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Citi Newsroom reports that President Mahama appointed Dr Arnold Kavaarpuo as Acting Executive Director of Ghana's Data Protection Commission.", "as_of": "2025-03-13", "date_precision": "day", "system": "Data Protection Commission", "class": "general"}
+], "systems": [{"system": "Data Protection Commission", "country_label": "Ghana", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "It gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "It names only the appointee's past mobile lending products, which are not payment services."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document states nothing on electronic payment of taxes or fees."}}}
+}}

@@ -1,0 +1,239 @@
+{
+ "slug": "2026-10-28-gin-guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-sec",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "MATD, through ONECI, launched the RENEC national civil-status register project on 28 October 2026 to digitalise civil registration, with first centres in 2026 and the project running to 2028.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "RENEC",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RENEC (Registre national de l'état civil)",
+       "country_label": "Guinée",
+       "class": "civil",
+       "platform": "Digitech",
+       "owner": "MATD / ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The territorial administration ministry MATD, through ONECI, leads the RENEC civil-status register project.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "RENEC",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "governance",
+       "value": "finance:domestic",
+       "fact": "RENEC is financed from the national development budget, according to the article.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "RENEC",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RENEC (Registre national de l'état civil)",
+       "country_label": "Guinée",
+       "class": "civil",
+       "platform": "Digitech",
+       "owner": "MATD / ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The Digitech project lead says RENEC will include identity so each citizen linked to civil status has a unique identifier number, in later phases to 2028.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "RENEC",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RENEC (Registre national de l'état civil)",
+       "country_label": "Guinée",
+       "class": "civil",
+       "platform": "Digitech",
+       "owner": "MATD / ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "The MATD secretary general and Digitech say RENEC is to identify civil-status events from birth, and each citizen linked to civil status is to have a unique identifier number.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "RENEC",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RENEC (Registre national de l'état civil)",
+       "country_label": "Guinée",
+       "class": "civil",
+       "platform": "Digitech",
+       "owner": "MATD / ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-27-ken-kra-rolls-out-multi-vendor-electronic-cargo-seal-framework-to-enhance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Multi-Vendor User-Owned Electronic Seals Framework",
+   "country_label": "KRA electronic cargo seals",
+   "class": "other",
+   "platform": "EAC Regional Electronic Cargo Tracking System (RECTS)",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The release covers electronic cargo seals for tracking, not declaration processing, a single window or regional data exchange."
+}

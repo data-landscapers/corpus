@@ -1,0 +1,100 @@
+{
+ "slug": "2026-10-29-syc-cabinet-business-wednesday-28-october-2026",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Seychelles' Cabinet approved the Seychelles Digital & AI Strategy 2026-2031 on 28 October 2026 as the national framework for digital and AI transformation through 2031.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "Seychelles Digital & AI Strategy 2026-2031",
+       "class": "strategy"
+      },
+      {
+       "sub_indicator": "strategy",
+       "aspect": "use",
+       "value": "body",
+       "fact": "Cabinet approved establishing an Inter-Ministerial Digital and AI Coordination Committee, chaired by the Minister responsible for ICT, with focal points in Ministries to support implementation of the strategy.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "Inter-Ministerial Digital and AI Coordination Committee",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Seychelles Digital & AI Strategy 2026-2031",
+       "country_label": "Seychelles Digital & AI Strategy 2026-2031",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Government of Seychelles",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned Phase 2 expansion of cloud and AI capabilities, with no named builder, funder or site."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Government Cloud and Datacenter Project",
+       "country_label": "Government Cloud and Datacenter Project",
+       "class": "other",
+       "platform": "two geographically separated datacenters",
+       "owner": "Government of Seychelles",
+       "tiers": ""
+      }
+     ],
+     "note": "Government datacentres are approved for implementation, not in service."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Cabinet approved on 28 October 2026 implementation of a sovereign, in-country Government Cloud on two geographically separated datacenters, to reduce reliance on commercial and overseas infrastructure.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "Government Cloud and Datacenter Project",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "No nationally owned data centre for hire in service is stated; the government datacentres are approved only."
+    }
+   }
+  }
+ }
+}

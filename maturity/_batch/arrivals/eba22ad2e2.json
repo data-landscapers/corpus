@@ -1,0 +1,183 @@
+{
+ "slug": "2024-07-19-ago-angola-decision-on-infringement-proceedings",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Angolan Data Protection Agency (APD) published, under article 53(3) of Law 22/11, its Board of Directors' deliberations 004/2024 and 005/2024 of 19 July 2024, showing the Agency acting.",
+       "as_of": "2024-07-19",
+       "date_precision": "day",
+       "system": "Angola Data Protection Law 22/11",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "By deliberations 004/2024 and 005/2024 of 19 July 2024 the APD fined COSAL the equivalent of US$75,000 and ENDE-EP the equivalent of US$225,000 for failing to protect personal data against ransomware attacks of September 2023.",
+       "as_of": "2024-07-19",
+       "date_precision": "day",
+       "system": "Angola Data Protection Law 22/11",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Angolan Data Protection Agency (APD)",
+       "country_label": "Angola",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Angolan Data Protection Agency (APD) published, under article 53(3) of Law 22/11, its Board of Directors' deliberations 004/2024 and 005/2024 of 19 July 2024, showing the Agency acting.",
+       "as_of": "2024-07-19",
+       "date_precision": "day",
+       "system": "Angola Data Protection Law 22/11",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The APD's 19 July 2024 notice fines two organisations for violating the personal data protection rules of Law 22/11 of 17 June, showing the law in force.",
+       "as_of": "2024-07-19",
+       "date_precision": "day",
+       "system": "Angola Data Protection Law 22/11",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "By deliberations 004/2024 and 005/2024 of 19 July 2024 the APD fined COSAL the equivalent of US$75,000 and ENDE-EP the equivalent of US$225,000 for failing to protect personal data against ransomware attacks of September 2023.",
+       "as_of": "2024-07-19",
+       "date_precision": "day",
+       "system": "Angola Data Protection Law 22/11",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Angola Data Protection Law 22/11",
+       "country_label": "Angola",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  }
+ }
+}

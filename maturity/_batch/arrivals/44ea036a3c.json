@@ -1,0 +1,91 @@
+{
+ "slug": "2025-07-24-uga-uganda-s-data-protection-law-takes-effect-with-first-ever-conviction",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Personal Data Protection Office, led by Acting National Data Protection Director Baker Birikujja, referred a registration offence for prosecution and secured a conviction.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "PDPO",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PDPO",
+       "country_label": "Uganda",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The conviction is a court's judgment on a prosecution, not the authority's own ruling; no authority decision or count is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Personal Data Protection Office, led by Acting National Data Protection Director Baker Birikujja, referred a registration offence for prosecution.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "PDPO",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Monitor reports a conviction under the Data Protection and Privacy Act, Cap. 97, for offences committed between 2023 and 2025.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Data Protection and Privacy Act, Cap. 97",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "A Makindye court convicted Ronald Mugulusi of Nano Loans Microfinance, operator of the Quickloan app, for failing to register with the PDPO and fined him Shs300,000, after a guilty plea on 10 July 2025.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Data Protection and Privacy Act, Cap. 97",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection and Privacy Act, Cap. 97",
+       "country_label": "Uganda",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "PDPO",
+       "country_label": "Uganda",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

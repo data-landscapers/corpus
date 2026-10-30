@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-26-zaf-saaff-calls-for-customs-integration-in-digital-vat-model",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The source does not say the SARS consultation was run online."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "SARS confirmed that its public consultation on the proposed Digital VAT Model closed on 16 October 2026 and that it is analysing submissions from businesses and industry bodies, including SAAFF.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "Digital VAT Model",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The Digital VAT Model is a proposal on invoicing and reporting, not stated as electronic payment of tax."
+    }
+   }
+  }
+ }
+}

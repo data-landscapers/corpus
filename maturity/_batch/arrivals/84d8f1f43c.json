@@ -1,0 +1,128 @@
+{
+ "slug": "2026-06-23-mus-communique-data-protection-designation-tasks-and-position-of-data-prot",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Data Protection Office issued a communiqué on 23 June 2026 telling controllers about officer regulations and saying it certifies data protection officers.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Data Protection Office",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Office",
+       "country_label": "Mauritius",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling or count is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Data Protection Office issued a communiqué on 23 June 2026 and said it certifies data protection officers.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Data Protection Office",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The communiqué refers to oversight of compliance with the Data Protection Act.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Data Protection Act",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Act",
+       "country_label": "Mauritius",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Data Protection Office",
+       "country_label": "Mauritius",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026",
+       "country_label": "Mauritius",
+       "class": "regulation",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The 2026 officer regulations come into force on 1 January 2027, so no regulation is yet in force."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The communiqué of 23 June 2026 refers to oversight of compliance with the Data Protection Act.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Data Protection Act",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The Data Protection Office issued a communiqué on 23 June 2026 and said it certifies data protection officers.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Data Protection Office",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Office",
+       "country_label": "Mauritius",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

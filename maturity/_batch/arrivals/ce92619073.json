@@ -1,0 +1,10 @@
+{"slug": "2024-09-07-mli-diffusion-des-donnees-a-caractere-personnel-passible-d-une-amende-de-5", "studies": {
+"dataprotectionauthority": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "L'Essor reports that Mali's Autorite de protection des donnees a caractere personnel (APDP) issued a communique dated 5 September 2024 warning that publishing personal data online risks fines of FCFA 5 to 20 million, so the body is in place and acting.", "as_of": "2024-09-05", "date_precision": "day", "system": "Autorite de protection des donnees a caractere personnel (APDP)", "class": "authority"}
+], "systems": [{"system": "Autorite de protection des donnees a caractere personnel (APDP)", "country_label": "Mali", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": "No ruling against a named organisation or yearly figures: the communique is a general warning."}}},
+"dataprotectionlaw": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "L'Essor reports that the APDP issued a communique dated 5 September 2024 reminding that spreading personal data online is punishable by a fine of FCFA 5 to 20 million.", "as_of": "2024-09-05", "date_precision": "day", "system": "Autorite de protection des donnees a caractere personnel (APDP)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The APDP's 5 September 2024 communique, as reported by L'Essor, is a warning to online pages and web TVs about publishing health and judicial data, with no decision on any named controller.", "as_of": "2024-09-05", "date_precision": "day", "system": "Autorite de protection des donnees a caractere personnel (APDP)", "class": "general"}
+], "systems": [], "note": ""}}},
+"opendiscussion": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The document is a data protection authority warning on publishing personal data; it states no cut, no one punished and no criticism of government."}}}
+}}

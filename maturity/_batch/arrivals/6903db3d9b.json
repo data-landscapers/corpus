@@ -1,0 +1,21 @@
+{"slug": "2026-10-29-nga-cbn-nitda-allay-banks-fears-over-january-2027-data-localisation-deadli", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Oversight of payments is mentioned but not licensing, a switch or PAPSS."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"datacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A survey of hosting providers' readiness does not state a data centre for hire in service, a Tier or a cloud region."}}},
+"datalocalisation": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "The CBN, in a circular on data localisation, requires regulated financial institutions to store and manage critical payment transaction data within Nigeria by 1 January 2027, according to CBN Deputy Governor Lamido Abubakar Yuguda.", "as_of": "2026-10-28", "date_precision": "day", "system": "CBN data localisation circular", "class": "rule"},
+{"sub_indicator": "rule", "aspect": "use", "value": "enforcer", "fact": "CBN's Director of Payment Systems Supervision, Rakiya Yusuf, says its Payment System Supervision Department, set up in 2025 with trained examiners, monitors compliance with the rule and that sanctions will follow deliberate breaches.", "as_of": "2026-10-28", "date_precision": "day", "system": "CBN Payment System Supervision Department", "class": "rule"}
+], "systems": [{"system": "CBN data localisation circular", "country_label": "CBN circular on data localisation", "class": "rule", "platform": "", "owner": "CBN", "tiers": ""}], "note": "No organisation is stated to have moved data, been penalised or been granted an exemption; survey readiness figures are expectations."}}},
+"digitalsovereignty": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "inservice", "fact": "A CBN directive requires regulated institutions to hold critical payment transaction data in Nigeria from 1 January 2027, and CBN and NITDA are pursuing the National Sovereign Cloud Initiative.", "as_of": "2026-10-28", "date_precision": "day", "system": "National Sovereign Cloud Initiative", "class": "sovereignty"}
+], "systems": [{"system": "National Sovereign Cloud Initiative", "country_label": "National Sovereign Cloud Initiative (NSCI)", "class": "sovereignty", "platform": "", "owner": "NITDA and CBN", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"internationalbandwidth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A submarine cable disruption is posed as a hypothetical; no route is stated."}}},
+"nationaldatacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is stated."}}},
+"offsitebackup": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Disaster recovery is urged on institutions; no backup site is stated."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No retail payment service is described."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on tax or fee payment."}}}
+}}

@@ -1,0 +1,139 @@
+{
+ "slug": "2026-10-28-som-halmeel-can-somalia-build-a-connected-digital-government",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HALMEEL (National Unified Public Service Delivery Centre)",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Somalia",
+       "tiers": ""
+      },
+      {
+       "system": "NIRA national identity system",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece describes HALMEEL's planned March 2027 platform and NIRA verification as expected; plans only, no delivered service or figure for this study."
+    }
+   }
+  }
+ }
+}

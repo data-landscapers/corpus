@@ -1,0 +1,12 @@
+{"slug": "2025-08-01-lby-informatics-legal-framework-information-governance-session", "studies": {
+"aiabuse": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only calls for AI laws; no rule, draft or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
+"aisectoral": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only says neighbours have digital identity infrastructure; no Libyan service stated."}}},
+"cybersecuritylaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Cybercrime law is criticised and a framework urged, but its standing is not stated."}}},
+"dataprotectionlaw": {"countries": {"LBY": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The Informatics Governance Forum session record says a personal data protection law is being drafted in Libya under the National Authority for Information Security and Safety and is in its final stages.", "as_of": "2025-08", "date_precision": "month", "system": "Personal data protection law (draft)", "class": "general"}], "systems": [{"system": "National Authority for Information Security and Safety", "country_label": "Libya", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only a recommendation to strengthen digital sovereignty; no policy or rule stated."}}},
+"ecommercelaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Telecoms and informatics law draft is not an e-commerce law; e-commerce rules only called for."}}},
+"internationalstandards": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on international standards."}}}
+}}

@@ -1,0 +1,14 @@
+{"slug": "2026-07-04-sdn-akhbar-alsudan-data-protection-law-legislative-vacuum", "studies": {
+"authentication": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The op-ed states nothing on authentication, e-signature services or digital ID."}}},
+"datacentres": {"countries": {"SDN": {"facts": [], "systems": [], "note": "It names no data centre for hire, tier or cloud region; imported cloud servers are mentioned only in passing."}}},
+"datalocalisation": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The author argues for a law and authority to impose localisation; no rule is stated as drafted or in force, and central bank internal requirements are not described."}}},
+"dataprotectionlaw": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "none", "fact": "The analyst Al-Sadiq Mohamed Ahmed writes that Sudan lacks an independent, comprehensive law on personal data protection, and calls for one to be drafted and adopted.", "as_of": "2026-07-04", "date_precision": "day", "system": "personal data protection law", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "none", "fact": "The analyst writes that Sudan has no independent national commission to monitor compliance with data protection.", "as_of": "2026-07-04", "date_precision": "day", "system": "data protection commission", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"SDN": {"facts": [], "systems": [], "note": "It states no policy, rule, hosting or contract terms on state data; it criticises payment-switch licences to private firms using imported cloud systems."}}},
+"ecommercelaw": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The analyst lists the 2007 Electronic Transactions Act among Sudan's existing sector laws, saying it regulates the electronic signature.", "as_of": "2026-07-04", "date_precision": "day", "system": "Electronic Transactions Act 2007", "class": "law"}
+], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"SDN": {"facts": [], "systems": [], "note": "It names no nationally owned data centre for hire."}}}
+}}

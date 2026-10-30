@@ -1,0 +1,11 @@
+{"slug": "2025-05-03-mwi-macra-engages-with-various-stakeholders-to-sensitise-on-framework-for", "studies": {
+"dataprotectionauthority": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Maravi Express (MANA) reports that the Malawi Communications Regulatory Authority (MACRA), through its Head of Data Protection Daniel Chiwoni, is developing regulations to support the Data Protection Act and will regulate personal data processing as the data protection authority.", "as_of": "2025-05", "date_precision": "month", "system": "Malawi Communications Regulatory Authority (MACRA)", "class": "authority"}
+], "systems": [{"system": "Malawi Communications Regulatory Authority (MACRA)", "country_label": "Malawi", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": "No ruling or yearly figures stated."}}},
+"dataprotectionlaw": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Maravi Express (MANA) reports that MACRA has a Head of Data Protection and is drafting two sets of regulations, on registration and on complaints handling, to support Malawi's Data Protection Act.", "as_of": "2025-05", "date_precision": "month", "system": "Malawi Communications Regulatory Authority (MACRA)", "class": "general"}
+], "systems": [], "note": "Draft regulations only; none stated as issued."}}},
+"publicconsultation": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "Maravi Express (MANA) reports that MACRA held a validation workshop in Lilongwe with stakeholders, including Youth Initiative's executive director Precious Phiri, on its draft data protection registration regulations.", "as_of": "2025-05", "date_precision": "month", "system": "Data protection registration regulations", "class": "consultation"}
+], "systems": [], "note": ""}}}
+}}

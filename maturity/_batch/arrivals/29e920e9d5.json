@@ -1,0 +1,68 @@
+{
+ "slug": "2026-10-28-ssd-south-sudan-s-first-dedicated-media-and-information-literacy-centre-is",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI harms rules."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing built; students only introduced to AI."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Trains students and community, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "A single school centre, not a national programme; no measured share."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on criticism, cuts or punishment."
+    }
+   }
+  }
+ }
+}

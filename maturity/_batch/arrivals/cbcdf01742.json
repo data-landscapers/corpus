@@ -1,0 +1,21 @@
+{"slug": "2026-07-07-civ-cote-d-ivoire-ce-que-certinum-va-changer-pour-les-entreprises-et-les-a", "studies": {
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No link between civil register and ID system stated."}}},
+"civilregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Civil registration is not mentioned."}}},
+"dataprotectionlaw": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Agence Ecofin reports that the 2013 personal data protection law requires organisations processing data in Cote d'Ivoire to declare to ARTCI or obtain prior authorisation, with fines up to 10 million FCFA.", "as_of": "2026-07-07", "date_precision": "day", "system": "loi sur la protection des donnees personnelles de 2013", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "ARTCI is reported as acting as the regulator, having received 210 complaints and made 18 inspections and keeping the national file of data protection correspondents.", "as_of": "2026-07-07", "date_precision": "day", "system": "ARTCI", "class": "general"},
+{"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "An order of August 2024 set the profile and conditions of employment of data protection correspondents, whose designation exempts organisations from some declaration formalities.", "as_of": "2024-08", "date_precision": "month", "system": "arrete on data protection correspondents", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "ARTCI had imposed no financial penalty despite 210 complaints and 18 inspections, ten years after the law.", "as_of": "2026-07-07", "date_precision": "day", "system": "ARTCI", "class": "general"},
+{"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "On 2 July 2026 ARTCI launched Certinum, a platform for online authorisation requests, compliance certificates and video surveillance filings, first tried by ONECI and the Treasury.", "as_of": "2026-07-02", "date_precision": "day", "system": "Certinum", "class": "general"}
+], "systems": [{"system": "Certinum", "country_label": "Certinum", "class": "other", "platform": "certinumapdp.ci", "owner": "ARTCI", "tiers": ""}], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "Agence Ecofin reports that the 2013 data protection law obliges organisations to declare processing to ARTCI or obtain authorisation, with fines for offenders.", "as_of": "2026-07-07", "date_precision": "day", "system": "loi sur la protection des donnees personnelles de 2013", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "ARTCI is reported as the regulator handling complaints and inspections under the law.", "as_of": "2026-07-07", "date_precision": "day", "system": "ARTCI", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "ARTCI received 210 complaints and carried out 18 inspections, keeps the national file of data protection correspondents, and launched the Certinum online compliance platform on 2 July 2026.", "as_of": "2026-07-02", "date_precision": "day", "system": "ARTCI", "class": "system"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"populationregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No population register stated."}}},
+"registry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Civil registration offices are not mentioned."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "It says the duty covers start-ups; no startup law or fund stated."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No hub or technology park stated."}}}
+}}

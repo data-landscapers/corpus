@@ -1,0 +1,7 @@
+{"slug": "2026-03-26-tza-zimesalia-siku-chache-kufikia-ukomo-wa-taasisi-kujisajili-pdpc", "studies": {
+"dataprotectionlaw": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "transition", "fact": "The Personal Data Protection Commission (PDPC) says on 26 March 2026 that voluntary registration ends on 8 April 2026 and enforcement of the Personal Data Protection Act, Chapter 44, begins on 9 April 2026.", "as_of": "2026-03-26", "date_precision": "day", "system": "Personal Data Protection Act, Chapter 44", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The PDPC says its Director General, Dr Emmanuel Lameck Mkilia, addressed the press on 26 March 2026 and that the Commission was launched by the President in April 2024.", "as_of": "2026-03-26", "date_precision": "day", "system": "Tume ya Ulinzi wa Taarifa Binafsi (PDPC)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The PDPC says a registration system for controllers and processors has run since 2024, with the deadline twice extended, and that fines of up to TZS 5 billion for institutions will apply from 9 April 2026.", "as_of": "2026-03-26", "date_precision": "day", "system": "Tume ya Ulinzi wa Taarifa Binafsi (PDPC)", "class": "general"}
+], "systems": [{"system": "Tume ya Ulinzi wa Taarifa Binafsi (PDPC)", "country_label": "Tanzania", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,15 @@
+{"slug": "2026-08-17-ago-apd-ja-aplicou-mais-de-1-milhao-de-dolares-em-multas-este-ano", "studies": {
+"dataprotectionauthority": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "body", "aspect": "rulings", "value": "reported", "fact": "PTI, citing the authority's map of infringement cases, says the Agencia de Protecao de Dados imposed six fines totalling USD 1.107 million equivalent in 2026 to date, three fines totalling USD 250,000 in 2025 and five totalling USD 600,000 in 2024.", "as_of": "2026-08-17", "date_precision": "day", "system": "Agencia de Protecao de Dados (APD)", "class": "authority"},
+{"sub_indicator": "body", "aspect": "rulings", "value": "ruled", "fact": "PTI reports the authority fined Standard Bank de Angola USD 150,000 for inadequate security measures after unauthorised access to data of 51 clients.", "as_of": "2026", "date_precision": "year", "system": "Agencia de Protecao de Dados (APD)", "class": "authority"}
+], "systems": [{"system": "Agencia de Protecao de Dados (APD)", "country_label": "Angola", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "general", "aspect": "application", "value": "reported", "fact": "PTI, citing the authority's map of infringement cases, says the authority imposed three fines totalling USD 250,000 in 2025 and five totalling USD 600,000 in 2024.", "as_of": "2025", "date_precision": "year", "system": "Agencia de Protecao de Dados (APD)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "PTI reports the authority fined Crescer Tech USD 505,000 in 2026 for failing to notify it and obtain authorisation for an international transfer of personal data.", "as_of": "2026", "date_precision": "year", "system": "Agencia de Protecao de Dados (APD)", "class": "general"}
+], "systems": [], "note": ""}}},
+"datatransfers": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "PTI reports the authority fined a company for failing to notify it and obtain authorisation for an international transfer of personal data, so a rule requiring authorisation is in force.", "as_of": "2026", "date_precision": "year", "system": "Authorisation for international transfer of personal data", "class": "rule"},
+{"sub_indicator": "rule", "aspect": "use", "value": "applied", "fact": "PTI reports the authority fined Crescer Tech USD 505,000, its largest 2026 fine, for storing personal data in a cloud outside Angola without notification or authorisation.", "as_of": "2026", "date_precision": "year", "system": "Authorisation for international transfer of personal data", "class": "rule"}
+], "systems": [], "note": ""}}},
+"statisticsstrategy": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document is about data protection fines and says nothing of a statistics strategy."}}}
+}}

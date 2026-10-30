@@ -1,0 +1,81 @@
+{
+ "slug": "2026-05-07-sle-minister-chernor-bah-unveils-plan-to-merge-access-to-information-and-d",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "rules",
+       "fact": "Minister Chernor Bah described the Right to Access Information Commission as one of the most-performing national oversight bodies on access to information in Africa.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "Right to Access Information Commission",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Right to Access Information Commission",
+       "country_label": "Sierra Leone",
+       "class": "other",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a plan to turn the information commission into an authority; no law or appointment stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "announced",
+       "fact": "Minister Bah said Cabinet approved a national Data Protection Policy and a Data Protection and Access to Information Bill will soon go to Parliament.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "Data Protection and Access to Information Bill",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on criticism, cuts or punishment stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a validation workshop on the SLBC Act, a broadcasting law, not a digital one."
+    }
+   }
+  }
+ }
+}

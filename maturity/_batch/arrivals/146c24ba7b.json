@@ -1,0 +1,61 @@
+{
+ "slug": "2025-12-15-tcd-securite-informatique-gal-hissein-gueillet-hemchi-nomme-dg-de-l-ansice",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "By decree 3127/PR/PM/MSPI/2025 of 15 December 2025, General Hissein Gueillet Hemchi was named Director General of Chad's national agency for computer security and electronic certification (ANSICE), replacing Abdelkerim Issa Orozi Batil.",
+       "as_of": "2025-12-15",
+       "date_precision": "day",
+       "system": "ANSICE",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANSICE",
+       "country_label": "Chad",
+       "class": "response",
+       "platform": "",
+       "owner": "Ministry of Public Security and Immigration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

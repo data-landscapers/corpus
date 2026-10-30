@@ -1,0 +1,272 @@
+{
+ "slug": "2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "By April 2026, e-GA reported 723 institutions and service points using NGAO, its multi-factor authentication infrastructure for government systems.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "NGAO",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "By April 2026, e-GA reported 723 institutions and service points using NGAO, its multi-factor authentication infrastructure for government systems.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "NGAO",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NGAO",
+       "country_label": "Tanzania",
+       "class": "authentication",
+       "platform": "",
+       "owner": "e-GA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "By August 2026 the Public Procurement Regulatory Authority said NeST had facilitated 397,395 procurement proceedings worth 40.4tri/-.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "NeST",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "NeST covers registration, tendering, evaluation, contract management, catalogues, auctions and payments, according to the article, and the Ministry of Finance's 2026/27 budget documentation says MUSE is integrated with NeST so procurement payments feed into financial administration.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "NeST",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "By August 2026 the Public Procurement Regulatory Authority said NeST had facilitated 397,395 procurement proceedings worth 40.4tri/-.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "NeST",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NeST",
+       "country_label": "Tanzania",
+       "class": "procurement",
+       "platform": "",
+       "owner": "PPRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "BRELA reported that by April 2026 it had registered 16,864 companies and 30,631 business names, and its online services let applicants register and carry out post-registration transactions without a physical counter.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "BRELA online services",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BRELA online services",
+       "country_label": "Tanzania",
+       "class": "business",
+       "platform": "",
+       "owner": "BRELA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "The article says GovESB, the Government Enterprise Service Bus developed by e-GA as the common exchange layer, provides the infrastructure through which separate government systems exchange data.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "GovESB",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GovESB",
+       "country_label": "Tanzania",
+       "class": "exchange",
+       "platform": "",
+       "owner": "e-GA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The article says BRELA's online services let applicants register businesses and carry out post-registration transactions, and that the Ajira Portal handles public service recruitment.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "BRELA online services; Ajira Portal",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ajira Portal",
+       "country_label": "Tanzania",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Public Service Recruitment Secretariat",
+       "tiers": ""
+      },
+      {
+       "system": "Government Service Directory",
+       "country_label": "Tanzania",
+       "class": "other",
+       "platform": "",
+       "owner": "e-GA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no system checking people against the national ID; it only says such verification is a gain still to come."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "The article says e-GA, the e-Government Authority, developed GovESB as the common exchange layer for government systems, as its Director General Eng Benedict Benny Ndomba described.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "GovESB",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "agency",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "The article says e-GA coordinates government technology initiatives and developed GovESB, the common exchange layer through which separate government institutions' systems exchange data.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "GovESB",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GovESB",
+       "country_label": "Tanzania",
+       "class": "staff",
+       "platform": "",
+       "owner": "e-GA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "digital property-tax and vehicle-parking revenue systems",
+       "country_label": "Ilemela",
+       "class": "application",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Ilemela officials were trained in September 2026 on revenue systems; no office connection is stated."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "digital property-tax and vehicle-parking revenue systems",
+       "country_label": "Ilemela",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Officials in Ilemela were being trained in September 2026 on these systems; the article does not say they are in use or what is recorded."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-15-gha-myjoyonline-knust-epa-national-air-quality-data-hub",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Air Quality Data Hub",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "PostgreSQL/PostGIS hub with map dashboard",
+   "owner": "KNUST, with the EPA to take ownership",
+   "tiers": ""
+  }
+ ],
+ "note": "One sector's air quality hub under a regulation; no national open data policy is stated."
+}

@@ -1,0 +1,165 @@
+{
+ "slug": "2024-06-01-swz-edpa-notice-4-2024-enforcement-notice-in-terms-of-section-41-of-the-es",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The EDPA notice states that section 5 of the Data Protection Act 2022 designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, and the Authority itself issued the notice in June 2024.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Eswatini Data Protection Act 2022",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "The Eswatini Data Protection Authority issued Enforcement Notice 4/2024 under section 41(1)(a) of the Act in June 2024, imposing a warning on Liberty Life Swaziland Limited for breaching sections 14(1)(b) and 14(2) after a misdirected email exposed personal data of about 4,000 members.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Eswatini Data Protection Act 2022",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eswatini Data Protection Authority",
+       "country_label": "Eswatini",
+       "class": "authority",
+       "platform": "",
+       "owner": "Eswatini Communications Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The EDPA notice states that section 5 of the Data Protection Act 2022 designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, and the Authority itself issued the notice in June 2024.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Eswatini Data Protection Act 2022",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The EDPA notice applies the Eswatini Data Protection Act 2022 in a June 2024 enforcement decision under its section 41, showing the Act in force.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Eswatini Data Protection Act 2022",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "The Eswatini Data Protection Authority issued Enforcement Notice 4/2024 under section 41(1)(a) of the Act in June 2024, imposing a warning on Liberty Life Swaziland Limited for breaching sections 14(1)(b) and 14(2) after a misdirected email exposed personal data of about 4,000 members.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Eswatini Data Protection Act 2022",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eswatini Data Protection Act 2022",
+       "country_label": "Eswatini",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Notice says a private insurer relies on Standard Bank's IT; no government system or staff stated."
+    }
+   }
+  }
+ }
+}

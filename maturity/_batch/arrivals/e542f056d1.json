@@ -1,0 +1,192 @@
+{
+ "slug": "2026-02-20-bfa-burkina-faso-zoom-sur-les-12-chantiers-strategiques-du-ministere-de-la",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Burkina Faso."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Prime Minister gave instructions that the two new datacentres become the single base for hosting public platforms, under the ministry's 'Zero donnee hebergee a l'exterieur' chantier.",
+       "as_of": "2026-01-23",
+       "date_precision": "day",
+       "system": "Zero donnee hebergee a l'exterieur chantier",
+       "class": "policy"
+      },
+      {
+       "sub_indicator": "policy",
+       "aspect": "use",
+       "value": "named",
+       "fact": "Two modular government datacentres (about 3,000 TB, about 28,800 CPU cores) inaugurated on 23 January 2026 as the base of the government cloud that public bodies are to use.",
+       "as_of": "2026-01-23",
+       "date_precision": "day",
+       "system": "Cloud gouvernemental datacentres",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Two modular government datacentres (Cloud gouvernemental)",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "government cloud",
+       "owner": "State, Ministry of Digital Transition",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Prime Minister instructed the repatriation of all public administration platforms and digital data hosted in private centres or abroad to the new national datacentres.",
+       "as_of": "2026-01-23",
+       "date_precision": "day",
+       "system": "Zero donnee hebergee a l'exterieur chantier",
+       "class": "rule"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Two modular government datacentres (Cloud gouvernemental)",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "government cloud",
+       "owner": "State, Ministry of Digital Transition",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "inservice",
+       "fact": "The Prime Minister instructed that all state platforms and data hosted privately or abroad be repatriated to the two national government datacentres.",
+       "as_of": "2026-01-23",
+       "date_precision": "day",
+       "system": "Zero donnee hebergee a l'exterieur chantier",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Two modular government datacentres (Cloud gouvernemental)",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "government cloud",
+       "owner": "State, Ministry of Digital Transition",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

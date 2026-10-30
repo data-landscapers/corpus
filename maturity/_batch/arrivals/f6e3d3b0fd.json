@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-26-dji-djibouti-reviews-progress-on-30-million-in-world-bank-funded-digital-p",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "316 trained are not stated to be civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "316 trained under a World Bank project, not stated as a national programme for the public."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Fibre loops are planned; construction cannot start until assessments are approved."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only World Bank project progress; no private money stated."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "EARDIP cross-border links are planned, with no signed agreement or works stated."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on regional digital policy cooperation."
+    }
+   }
+  }
+ }
+}

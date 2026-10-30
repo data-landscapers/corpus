@@ -1,0 +1,11 @@
+{"slug": "2026-10-28-nga-federal-ministry-hosts-first-built-on-nigeria-s-postcode-pitch-session", "studies": {
+"addressregister": {"countries": {"NGA": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "inservice", "fact": "The Federal Ministry of Communications, Innovation & Digital Economy says Nigeria has a National Digital Alphanumeric Postcode System that identifies locations and properties, on which five builders pitched services on 27 October 2026.", "as_of": "2026-10-27", "date_precision": "day", "system": "National Digital Alphanumeric Postcode System", "class": "address"}], "systems": [{"system": "National Digital Alphanumeric Postcode System", "country_label": "Nigeria", "class": "address", "platform": "", "owner": "Federal Ministry of Communications, Innovation & Digital Economy with NIPOST", "tiers": ""}], "note": ""}}},
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing on authentication."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing on civil register and ID links."}}},
+"digitalstrategy": {"countries": {"NGA": {"facts": [], "systems": [], "note": "It mentions a digital economy strategy only in passing, with no standing, text, period, plan or reporting."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The National Identification Number is named only as a comparison, with no register keyed on it."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The National Identification Number is named only as a comparison, with nothing on its operation, checks or certification."}}}
+}}

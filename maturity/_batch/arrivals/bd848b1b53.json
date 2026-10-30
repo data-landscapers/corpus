@@ -1,0 +1,23 @@
+{"slug": "2026-10-28-lbr-senator-cyrus-urges-stronger-cybersecurity-protection-of-citizens-righ", "studies": {
+"aiabuse": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Mentions responsible AI governance only as a priority; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
+"aisystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No AI built or hosted in Liberia stated."}}},
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Not about e-procurement."}}},
+"centralbank": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Not about the central bank or payments."}}},
+"civilserviceskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Calls for digital skills investment in general terms; no civil service training stated."}}},
+"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Not about digital financial services."}}},
+"crossborderpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Not about payments."}}},
+"cybersecurity": {"countries": {"LBR": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "Senator Cyrus cited Liberia's National Cyber Security Strategy for 2025-2029 as a step strengthening its policy framework.", "as_of": "2026-10-27", "date_precision": "day", "system": "National Cyber Security Strategy 2025-2029", "class": "response"}], "systems": [{"system": "National Cyber Security Strategy 2025-2029", "country_label": "Liberia", "class": "response", "platform": "", "owner": "Government of Liberia", "tiers": ""}], "note": ""}}},
+"cybersecuritylaw": {"countries": {"LBR": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Senator Cyrus cited Liberia's Cybercrime Act of 2025 as an important step in its legal framework, warning that legislation alone will not secure the country without funding and capable institutions.", "as_of": "2026-10-27", "date_precision": "day", "system": "Cybercrime Act of 2025", "class": "law"}], "systems": [{"system": "Cybercrime Act of 2025", "country_label": "Liberia", "class": "law", "platform": "", "owner": "Government of Liberia", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Names the AU Convention only as a cooperation framework; no Liberian data protection law stated."}}},
+"dataprotectionreadiness": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No data protection law, authority or ratification stated for Liberia."}}},
+"digitalskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Calls for digital skills investment in general terms; no programme stated."}}},
+"g2ppayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Not about government payments."}}},
+"opendiscussion": {"countries": {"LBR": {"facts": [], "systems": [], "note": "A senator's warning about free expression; no cut, punishment or criticism of a named policy stated."}}},
+"paymentsuptake": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No account-ownership survey stated."}}},
+"regionallaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Mentions the AU Convention and ECOWAS strategy as frameworks; no signature, ratification or national effect stated for Liberia."}}},
+"retailpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Not about retail payments."}}},
+"revenuecollection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Not about revenue collection."}}},
+"schoolinternet": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule stated."}}}
+}}

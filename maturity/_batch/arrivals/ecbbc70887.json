@@ -1,0 +1,5 @@
+{"slug": "2025-04-01-ustr-2025-national-trade-estimate-report-kenya-nigeria-digital-taxes", "studies": {
+"ailaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on AI law."}}},
+"ecommercelaw": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Significant economic presence tax (Tax Laws (Amendment) Act, 2024)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Only a tax on non-residents' digital marketplace revenue is stated, which is not an e-commerce law."}}},
+"paymentslaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on payments law."}}}
+}}

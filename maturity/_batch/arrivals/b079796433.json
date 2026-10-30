@@ -1,0 +1,10 @@
+{"slug": "2026-10-28-ken-kra-eyes-m-pesa-invoices-for-small-and-micro-traders", "studies": {
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Invoicing between traders and big firms, not government e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No survey of account holding."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Business Daily reports that small traders in Kenya receive payments through M-Pesa tills and paybills.", "as_of": "2026-10-28", "date_precision": "day", "system": "M-Pesa", "class": "retail"}], "systems": [{"system": "M-Pesa", "country_label": "Kenya", "class": "retail", "platform": "mobile money tills and paybills", "owner": "Safaricom", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [{"system": "eTIMS", "country_label": "Kenya", "class": "other", "platform": "electronic tax invoice management system", "owner": "Kenya Revenue Authority", "tiers": ""}], "note": "eTIMS is invoicing, and M-Pesa issuing invoices is only in talks; no tax payment stated."}}}
+}}

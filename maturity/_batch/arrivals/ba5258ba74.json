@@ -1,0 +1,7 @@
+{"slug": "2026-10-28-zwe-zimbabwe-moves-to-strengthen-cybersecurity-as-national-strategy-nears", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document states nothing about rules or authorities on AI harms; it only urges early AI risk assessment."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government AI system is named in the document."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No sectoral AI tool is named in the document."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is named."}}},
+"cybersecurity": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "National Cyber Security Strategy", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": "The strategy is still in Cabinet Committee processes, so it is a draft and not adopted; no body, incident, designation or figures are stated."}}}
+}}

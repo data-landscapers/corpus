@@ -1,0 +1,15 @@
+{"slug": "2025-05-14-gab-mission-de-controle-des-traitements-de-donnees-personnelles", "studies": {
+"businesspayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document states nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "It concerns personal data inspections, not consumer rules for digital finance."}}},
+"crossborderpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document states nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "APDPVP's press release acts under article 201 of law no. 025/2023 of 12 July 2023, which amends law no. 001/2011 on personal data protection, and refers to the regulations in force.", "as_of": "2025-05-14", "date_precision": "day", "system": "Law no. 001/2011 as amended by law no. 025/2023", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "APDPVP states that its members and sworn agents are empowered to enter business premises, and that its plenary of permanent commissioners will decide on the measures after the inspections.", "as_of": "2025-05-14", "date_precision": "day", "system": "APDPVP", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "APDPVP states it carried out on-site inspections on 8 and 9 May 2025 at Airtel Gabon, Airtel Money, Royal Air Maroc and Air France, with a report to follow for a decision on possible sanctions; no decision is stated.", "as_of": "2025-05-09", "date_precision": "day", "system": "APDPVP", "class": "general"}
+], "systems": [{"system": "APDPVP", "country_label": "Gabon", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"GAB": {"facts": [], "systems": [], "note": "It gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "It names Airtel Money only as an inspected data controller and says nothing of the service's licensing or operation."}}},
+"revenuecollection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document states nothing on electronic payment of taxes or fees."}}}
+}}

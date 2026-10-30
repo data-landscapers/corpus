@@ -1,0 +1,43 @@
+{
+ "slug": "2026-07-13-mwi-malawi-to-enforce-mandatory-data-protection-fees-from-september",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Nyasa Times reports MACRA, with a named head of data protection, is moving to enforce the Data Protection Act of 2024, with mandatory data controller and processor fees taking effect on 1 September 2026.",
+       "as_of": "2026-07-13",
+       "date_precision": "day",
+       "system": "Malawi Communications Regulatory Authority (MACRA)",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Act of 2024",
+       "country_label": "Malawi",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "A MACRA stakeholder workshop on fees is reported but the source names no one from outside government taking part."
+    }
+   }
+  }
+ }
+}

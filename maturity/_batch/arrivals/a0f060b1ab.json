@@ -1,0 +1,13 @@
+{"slug": "2026-05-25-uga-shaping-uganda-s-data-privacy-landscape-our-submission-to-pdpo", "studies": {
+"dataprotectionauthority": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "DPO Privacy Centre (East Africa) says the Personal Data Protection Office convened a validation workshop on 1 and 2 April 2026 on six draft instruments.", "as_of": "2026-04-01", "date_precision": "day", "system": "Personal Data Protection Office", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "DPO Privacy Centre (East Africa) says the Personal Data Protection Office convened a validation workshop on 1 and 2 April 2026 on six draft instruments.", "as_of": "2026-04-01", "date_precision": "day", "system": "Personal Data Protection Office", "class": "general"},
+{"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "DPO Privacy Centre (East Africa) says six draft instruments, including amendment, retention and breach notification regulations for 2026, were tabled at the Office's validation workshop on 1 and 2 April 2026 and are not yet gazetted.", "as_of": "2026-04-02", "date_precision": "day", "system": "Data Protection and Privacy (Amendment) Regulations, 2026", "class": "general"}
+], "systems": [], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The post states no law status, ratification or authority action beyond a workshop on draft instruments."}}},
+"publicconsultation": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "DPO Privacy Centre (East Africa) says the Personal Data Protection Office held a validation workshop with stakeholders from across sectors on 1 and 2 April 2026 on six named draft instruments, left the window open for written comments, and the Centre filed its comments on 20 May 2026.", "as_of": "2026-04-01", "date_precision": "day", "system": "Personal Data Protection Office validation workshop", "class": "consultation"}
+], "systems": [], "note": ""}}}
+}}

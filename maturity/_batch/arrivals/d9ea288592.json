@@ -1,0 +1,81 @@
+{
+ "slug": "2026-01-16-mus-des-prochains-amendements-au-data-protection-act-2017",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Council of Ministers validated amendments to the Data Protection Act 2017 to strengthen the Data Protection Commissioner and make the Data Protection Office financially independent, so both bodies exist.",
+       "as_of": "2026-01-16",
+       "date_precision": "day",
+       "system": "Data Protection Office",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Office",
+       "country_label": "Mauritius",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling or count is stated; the amendments are only planned."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Council of Ministers validated amendments aimed at the Data Protection Commissioner's powers and the Data Protection Office's finances, so both bodies exist.",
+       "as_of": "2026-01-16",
+       "date_precision": "day",
+       "system": "Data Protection Office",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Council of Ministers validated amendments to the existing Data Protection Act 2017, per maurice-info.",
+       "as_of": "2026-01-16",
+       "date_precision": "day",
+       "system": "Data Protection Act 2017",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Act 2017",
+       "country_label": "Mauritius",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Data Protection Office",
+       "country_label": "Mauritius",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

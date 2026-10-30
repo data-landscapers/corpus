@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-03 Centenary Group set to launch its Green Tier 3 Data Centre in 2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centenary Group Data Centre (Masaka)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Centenary Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "Data centre not yet in service; stated power-saving and redundancy are design plans, no secured supply, PUE or water figure for a facility in service."
+}

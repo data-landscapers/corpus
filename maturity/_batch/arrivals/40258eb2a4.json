@@ -1,10 +1,23 @@
-{"slug": "2025-07-17-gab-wearetech-missamou-chatbot-gouvernemental", "studies": {
-"aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document states no rule or authority on AI harms."}}},
-"aigovernment": {"countries": {"GAB": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The Gabonese government announced on 15 July 2025 the launch of Missamou, an NLP chatbot on Facebook Messenger answering citizens' questions on official news, public services and administrative procedures 24 hours a day from official databases.", "as_of": "2025-07-15", "date_precision": "day", "system": "Missamou", "class": "govai"}], "systems": [{"system": "Missamou", "country_label": "Missamou", "class": "govai", "platform": "Facebook Messenger", "owner": "Government of Gabon", "tiers": ""}], "note": ""}}},
-"aisectoral": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Missamou is a general government communication chatbot, not an AI tool inside a sector's public system."}}},
-"aisystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document does not say Missamou was built in Gabon or name a builder; no model, dataset or AI computing is stated."}}},
-"eparticipation": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Participation is only an stated ambition; no online consultation or channel for policy comment is stated."}}},
-"itcapacity": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document does not say who runs or built Missamou or any government system."}}},
-"opendatause": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Open data is named only as a principle of the strategy; no dataset or portal is stated."}}},
-"publicconsultation": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document states no consultation on a digital law or policy."}}}
-}}
+{
+ "slug": "2025-07-17-gab-wearetech-missamou-chatbot-gouvernemental",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Missamou",
+       "country_label": "Missamou",
+       "class": "other",
+       "platform": "Facebook Messenger",
+       "owner": "Government of Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a government chatbot launched under a wider digital transformation strategy; no national AI strategy stated."
+    }
+   }
+  }
+ }
+}

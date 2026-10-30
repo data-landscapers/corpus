@@ -1,1 +1,23 @@
-{"slug": "2026-10-28-zim-to-launch-a-third-satellite-newsday", "studies": {"agrisatellite": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Article covers a satellite launch and earth-observation programme with no farming use stated."}}}}}
+{
+ "slug": "2026-10-28-zim-to-launch-a-third-satellite-newsday",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "third satellite",
+       "country_label": "Zimbabwe",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Higher and Tertiary Education, Innovation, Science and Technology Development",
+       "tiers": ""
+      }
+     ],
+     "note": "A satellite launch; no weather service use stated."
+    }
+   }
+  }
+ }
+}

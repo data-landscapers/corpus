@@ -1,0 +1,23 @@
+{"slug": "2024-09-12-uga-the-state-of-data-protection-in-uganda", "studies": {
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on the central bank."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A data protection act is not a financial consumer rule."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"dataprotectionauthority": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Personal Data Protection Office, established by the Data Protection and Privacy Regulations 2021, says it oversees and enforces the Data Protection and Privacy Act No. 9 of 2019 and has registered 3,623 data controllers and processors.", "as_of": "2024-09", "date_precision": "month", "system": "Personal Data Protection Office", "class": "authority"}
+], "systems": [{"system": "Personal Data Protection Office", "country_label": "Personal Data Protection Office (PDPO)", "class": "authority", "platform": "", "owner": "state", "tiers": ""}], "note": "No ruling against a named organisation is stated."}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Personal Data Protection Office says Uganda's Data Protection and Privacy Act No. 9 of 2019 is being implemented and enforced, with organisations registered and monitored under it.", "as_of": "2024-09", "date_precision": "month", "system": "Data Protection and Privacy Act No. 9 of 2019", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Personal Data Protection Office, established by the Data Protection and Privacy Regulations 2021, is overseeing the Act and has been active for about three years.", "as_of": "2024-09", "date_precision": "month", "system": "Personal Data Protection Office", "class": "general"},
+{"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "The Data Protection and Privacy Regulations 2021 are stated to have established the Personal Data Protection Office.", "as_of": "2021", "date_precision": "year", "system": "Data Protection and Privacy Regulations 2021", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Office reports 3,623 data controllers and processors registered, more than 300 awareness sessions and sector guidelines for fintechs and MSMEs, with no decision stated.", "as_of": "2024-09", "date_precision": "month", "system": "Personal Data Protection Office", "class": "general"}
+], "systems": [{"system": "Personal Data Protection Office", "country_label": "Personal Data Protection Office (PDPO)", "class": "other", "platform": "", "owner": "state", "tiers": ""}], "note": ""}}},
+"disabilityaccess": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "rule", "value": "underway", "fact": "The Personal Data Protection Office says it has translated the Data Protection and Privacy Act and its regulations into braille.", "as_of": "2024-09", "date_precision": "month", "system": "braille translation of the Data Protection and Privacy Act", "class": "accessibility"}
+], "systems": [], "note": "A one-off braille translation is not a rule in force or an accessible digital service."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Fintech guidelines are named but no payment service is described."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on tax or fee payment."}}},
+"schoolinternet": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on schools or curriculum."}}}
+}}

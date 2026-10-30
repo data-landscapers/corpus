@@ -1,0 +1,91 @@
+{
+ "slug": "2024-02-29-dza-l-anpdp-entame-sa-premiere-mission-de-controle-au-niveau-des-entrepris",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The ANPDP said in a communiqué that it began its first on-site inspection mission at private-sector legal persons in Algiers wilaya, showing the authority is operating.",
+       "as_of": "2024-02-28",
+       "date_precision": "day",
+       "system": "ANPDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANPDP",
+       "country_label": "Algeria",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling, fine or count of decisions is stated; an inspection mission is not a ruling."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The ANPDP, the national personal data protection authority, was acting by starting on-site inspections, per its own communiqué.",
+       "as_of": "2024-02-28",
+       "date_precision": "day",
+       "system": "ANPDP",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The ANPDP said it was acting under Law 18-07 of 10 June 2018 on personal data protection, citing its Article 49 on investigations.",
+       "as_of": "2024-02-28",
+       "date_precision": "day",
+       "system": "Law 18-07",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The ANPDP began its first field inspections of private-sector firms in Algiers wilaya under Article 49 of Law 18-07, with no decision stated.",
+       "as_of": "2024-02-28",
+       "date_precision": "day",
+       "system": "Law 18-07",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Law 18-07",
+       "country_label": "Algeria",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "ANPDP",
+       "country_label": "Algeria",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

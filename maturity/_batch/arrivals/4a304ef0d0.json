@@ -1,12 +1,34 @@
-{"slug": "2026-10-26-fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts", "studies": {
-"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
-"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
-"dataprotectionauthority": {"countries": {"UGA": {"facts": [], "systems": [{"system": "Personal Data Protection Office", "country_label": "Uganda", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The FDC asks the Personal Data Protection Office to audit; the document does not state it is appointed or has ruled."}}},
-"dataprotectionlaw": {"countries": {"UGA": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The article describes the Data Protection and Privacy Act, 2019 as regulating the collection and processing of personal information, cited by the FDC against URA access to NIRA records.", "as_of": "2026-10-26", "date_precision": "day", "system": "Data Protection and Privacy Act, 2019", "class": "general"}], "systems": [], "note": ""}}},
-"egovservices": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only URA online services mentioned, no portal facts."}}},
-"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No share of population holding the ID stated."}}},
-"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
-"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
-"idregisters": {"countries": {"UGA": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "URA had linked 2,130,814 NINs to existing TINs out of 5,405,148 individual taxpayer records (about 39.4 per cent) by 30 September 2026, per figures Minister Lugoloobi gave Parliament.", "as_of": "2026-09-30", "date_precision": "day", "system": "URA taxpayer register (TIN-NIN linkage)", "class": "register"}], "systems": [{"system": "URA TIN-NIN linkage", "country_label": "Uganda", "class": "register", "platform": "", "owner": "Uganda Revenue Authority", "tiers": ""}], "note": ""}}},
-"idrobustness": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on the ID system's issuance, biometrics or certification."}}}
-}}
+{
+ "slug": "2026-10-26-fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts",
+ "studies": {
+  "dataprotectionreadiness": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The FDC, as reported, cites the Data Protection and Privacy Act, 2019, as the law that regulates the collection and processing of personal information in Uganda.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "Data Protection and Privacy Act, 2019",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection and Privacy Act, 2019",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

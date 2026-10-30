@@ -1,0 +1,44 @@
+{"slug": "2026-10-29-etat-civil-le-cameroun-sinspire-de-la-cote-divoire-pour-interconnecter-ses", "studies": {
+"addressregister": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document states nothing on addressing."},
+"CMR": {"facts": [], "systems": [], "note": "Document states nothing on addressing."}}},
+"birthidlink": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "No link between civil register and ID stated for Cote d'Ivoire."},
+"CMR": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "Cameroon's 2025-2029 strategic plan provides for interconnecting the principal civil registration centres with identification services and for the systems to exchange data with the national civil status system by 2029.", "as_of": "2026-10-29", "date_precision": "day", "system": "Plan stratégique 2025-2029 (BUNEC)", "class": "crvslink"}], "systems": [], "note": ""}}},
+"businessregister": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document states nothing on business registration."},
+"CMR": {"facts": [], "systems": [], "note": "Document states nothing on business registration."}}},
+"civilregister": {"countries": {
+"CIV": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "ONECI says CityWeb, the central software for managing civil status events, has been deployed in all the country's centres.", "as_of": "2026-10-29", "date_precision": "day", "system": "CityWeb", "class": "civil"}], "systems": [{"system": "CityWeb", "country_label": "Cote d'Ivoire", "class": "civil", "platform": "CityWeb", "owner": "ONECI", "tiers": "centres"}], "note": ""},
+"CMR": {"facts": [], "systems": [], "note": "Only a 2029 plan to computerise 432 centres; nothing delivered stated."}}},
+"digitalidlaw": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "No identity law stated."},
+"CMR": {"facts": [], "systems": [], "note": "No identity law stated."}}},
+"electoralregister": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document states nothing on the voters' roll."},
+"CMR": {"facts": [], "systems": [], "note": "Document states nothing on the voters' roll."}}},
+"idfrombirth": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "No number at birth stated."},
+"CMR": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idrobustness": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "No national ID system status stated."},
+"CMR": {"facts": [], "systems": [], "note": "No national ID system status stated."}}},
+"landregister": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document states nothing on land."},
+"CMR": {"facts": [], "systems": [], "note": "Document states nothing on land."}}},
+"localgov": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document states nothing on local government office connection."},
+"CMR": {"facts": [], "systems": [], "note": "Document states nothing on local government office connection."}}},
+"populationregister": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Register of natural persons named only as a topic of the mission; no status stated."},
+"CMR": {"facts": [], "systems": [], "note": "Register of natural persons named only as a topic of the mission; no status stated."}}},
+"registry": {"countries": {
+"CIV": {"facts": [{"sub_indicator": "civil", "aspect": "offices", "value": "equipped:100%", "fact": "ONECI says CityWeb, its central software for civil status events, has been deployed in all the country's centres, with connectivity problems reported in some centres.", "as_of": "2026-10-29", "date_precision": "day", "system": "CityWeb", "class": "civil"}], "systems": [{"system": "CityWeb", "country_label": "Cote d'Ivoire", "class": "civil", "platform": "CityWeb", "owner": "ONECI", "tiers": "centres"}], "note": ""},
+"CMR": {"facts": [], "systems": [], "note": "Only a plan to computerise 432 centres by 2029; nothing delivered stated."}}},
+"socialregistry": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document states nothing on social registries."},
+"CMR": {"facts": [], "systems": [], "note": "Document states nothing on social registries."}}},
+"taxregister": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document states nothing on taxpayers."},
+"CMR": {"facts": [], "systems": [], "note": "Document states nothing on taxpayers."}}}
+}}

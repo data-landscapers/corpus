@@ -1,0 +1,71 @@
+{
+ "slug": "2024-05-07-ben-prestation-de-serment-des-conseillers-de-l-apdp",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Five APDP councillors, named by decree 2024-740 of 31 January 2024, took the oath before the Supreme Court on 12 March 2024 and Luciano Hounkponou was elected president, replacing Yvon Detchenou.",
+       "as_of": "2024-03-12",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APDP",
+       "country_label": "Benin",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling or count of decisions is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Five APDP councillors, named by decree 2024-740 of 31 January 2024, took the oath under Article 468 of the digital code on 12 March 2024 and elected a president.",
+       "as_of": "2024-03-12",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APDP",
+       "country_label": "Benin",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Code du numérique",
+       "country_label": "Benin",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

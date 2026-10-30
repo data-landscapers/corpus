@@ -1,0 +1,72 @@
+{
+ "slug": "2026-10-27-aigles-le-ministre-joseph-le-motive-l-appropriation-de-loutil-et-annonce-la",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "MINFOPRA launched on 22 October 2026 a two-day national capacity-building workshop on AIGLES in all ten regions, covering the web portal and payroll management exercises.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "AIGLES capacity-building workshop",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AIGLES capacity-building workshop",
+       "country_label": "Cameroon",
+       "class": "csskills",
+       "platform": "",
+       "owner": "MINFOPRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "payroll",
+       "value": "inuse",
+       "fact": "MINFOPRA's minister launched national training on AIGLES, the career and payroll system, after its initial deployment, with exercises on payroll management.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "AIGLES",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AIGLES",
+       "country_label": "Cameroon",
+       "class": "core",
+       "platform": "",
+       "owner": "MINFOPRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about a national ID system."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "slug": "2026-10-27-gin-donnees-passagers-et-frontieres-la-guinee-mise-sur-l-expertise-america",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions a state-approved hosting data centre only as a requirement; no data centre for hire is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Arrêté sets retention and data subject rights for passenger data; no general data protection law, bill or authority is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on a national ID system."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No nationally owned data centre for hire or state hosting in one is stated."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Possible BOT partnership is only not excluded; no amount is stated."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on a national standards body or national standards."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "use",
+       "value": "required",
+       "fact": "Arrêté A/2026/419/MT/CAB/SGG of 25 June 2026 requires Guinea's national API/PNR system to run in a state-approved data centre with security conforming to ISO/IEC 27001, per NewsAero.",
+       "as_of": "2026-06-25",
+       "date_precision": "day",
+       "system": "Arrêté A/2026/419/MT/CAB/SGG (API/PNR system)",
+       "class": "adoption"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National API/PNR system and IIMS",
+       "country_label": "Guinea",
+       "class": "other",
+       "platform": "",
+       "owner": "AGAC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

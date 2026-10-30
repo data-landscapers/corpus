@@ -1,21 +1,12 @@
 {
  "slug": "2023-11-17-thecitizen-facebook-advertisers-tanzania-18-percent-vat",
  "studies": {
-  "localrecords": {
+  "ecommercelaw": {
    "countries": {
     "TZA": {
      "facts": [],
      "systems": [],
-     "note": "Meta's VAT on ads is not a local government revenue record."
-    }
-   }
-  },
-  "revenuecollection": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Meta adding VAT to ad bills and TRA talks on a digital services tax state no electronic payment channel to the revenue authority."
+     "note": "Concerns VAT on Facebook advertising and a digital services tax, not an electronic transactions law."
     }
    }
   }

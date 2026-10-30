@@ -1,0 +1,72 @@
+{
+ "slug": "2025-03-29-cog-loi-5-2025-creation-commission-nationale-protection-donnees",
+ "studies": {
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The law creates a data protection commission and states nothing on cross-border payments."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "Law no. 5-2025 of 29 March 2025 creates the CNPD as an independent administrative authority of 16 members on five-year terms, whose members are yet to be appointed by decree, and the law says it can sanction controllers under the data protection law.",
+       "as_of": "2025-03-29",
+       "date_precision": "day",
+       "system": "CNPD",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Commission nationale pour la protection des données à caractère personnel (CNPD)",
+       "country_label": "CNPD",
+       "class": "authority",
+       "platform": "",
+       "owner": "Government of Congo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Law no. 5-2025 of 29 March 2025, published in the Journal officiel of 10 April 2025, gives the CNPD the power to authorise cross-border transfers of personal data.",
+       "as_of": "2025-03-29",
+       "date_precision": "day",
+       "system": "Loi n° 5-2025",
+       "class": "rule"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Commission nationale pour la protection des données à caractère personnel (CNPD)",
+       "country_label": "CNPD",
+       "class": "authority",
+       "platform": "",
+       "owner": "Government of Congo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,869 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANTIC",
+       "country_label": "national cybersecurity agency ANTIC",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "ACTPOL says the 2010 cybersecurity law (Law No. 2010/012 of 21 December 2010) continues to require network operators and service providers to retain connection and traffic data for ten years.",
+       "as_of": "2026-09-25",
+       "date_precision": "day",
+       "system": "Law No. 2010/012",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "ACTPOL says Law No. 24.001 of 25 January 2024 gave the digital economy ministry 12 months to establish a supervisory agency, and in January 2026 it was unclear whether an authority had been appointed.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "supervisory agency",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "ACTPOL says the Authority is named in the 2024 law but its creation is left to a presidential decree, and it found none as of July 2026.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Personal Data Protection Authority",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Personal Data Protection Authority",
+       "country_label": "Personal Data Protection Authority",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "ACTPOL says the DRC's Digital Code (Ordinance-Law No. 23/010 of 13 March 2023) created a Data Protection Authority that has not been set up, and a ministerial order of August 2024 gave its functions to the telecommunications regulator meanwhile.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "Data Protection Authority",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Authority",
+       "country_label": "Data Protection Authority",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "ACTPOL says Congo created its supervisory commission by Law No. 5-2025 of 29 March 2025 and found no evidence its members have been appointed.",
+       "as_of": "2025-03-29",
+       "date_precision": "day",
+       "system": "Commission nationale pour la protection des données à caractère personnel",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNPD",
+       "country_label": "Commission nationale pour la protection des données à caractère personnel",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+       "as_of": "2025-12-10",
+       "date_precision": "day",
+       "system": "APDPVP",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+       "as_of": "2025-12-10",
+       "date_precision": "day",
+       "system": "APDPVP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APDPVP",
+       "country_label": "APDPVP",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "ACTPOL says Equatorial Guinea adopted a data protection law in 2016 whose authority was reported as not yet operational in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "data protection authority",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "ACTPOL says Chad entrusted its 2015 data protection law to ANSICE, which a 2022 assessment found was not independently structured.",
+       "as_of": "2015",
+       "date_precision": "year",
+       "system": "ANSICE",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANSICE",
+       "country_label": "cybersecurity and electronic certification agency ANSICE",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "ACTPOL says Law No. 24.001 of 25 January 2024 gave the digital economy ministry 12 months to establish a supervisory agency, and in January 2026 it was unclear whether an authority had been appointed.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "supervisory agency",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "ACTPOL says Cameroon's Law No. 2024/017 of 23 December 2024 gave organisations 18 months to comply, a period that ended on 23 June 2026.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Law No. 2024/017 of 23 December 2024",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "ACTPOL says the law declares the Personal Data Protection Authority an independent public body but leaves its creation to a presidential decree, and it found no decree creating it as of July 2026.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Personal Data Protection Authority",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "ACTPOL says the DRC's Digital Code (Ordinance-Law No. 23/010 of 13 March 2023) created a Data Protection Authority that has not been set up, and a ministerial order of August 2024 gave its functions to the telecommunications regulator meanwhile.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "Data Protection Authority",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "ACTPOL says Congo created its data protection commission by Law No. 5-2025 of 29 March 2025 and found no evidence its members have been appointed.",
+       "as_of": "2025-03-29",
+       "date_precision": "day",
+       "system": "Commission nationale pour la protection des données à caractère personnel",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+       "as_of": "2025-12-10",
+       "date_precision": "day",
+       "system": "Law No. 025/2023",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+       "as_of": "2025-12-10",
+       "date_precision": "day",
+       "system": "APDPVP",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+       "as_of": "2025-12-10",
+       "date_precision": "day",
+       "system": "APDPVP",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "ACTPOL says Equatorial Guinea adopted a data protection law in 2016 whose authority was reported as not yet operational in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "data protection authority",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "ACTPOL says Chad entrusted its 2015 data protection law to ANSICE, which a 2022 assessment found was not independently structured.",
+       "as_of": "2015",
+       "date_precision": "year",
+       "system": "ANSICE",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "none",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says the Central African Republic has taken no action on the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "ACTPOL says Cameroon's Law No. 2024/017 of 23 December 2024 gave organisations 18 months to comply, a period that ended on 23 June 2026.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Law No. 2024/017 of 23 December 2024",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "signed",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Cameroon has signed the Malabo Convention without ratifying it.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "none",
+       "fact": "ACTPOL says it found no decree creating Cameroon's Personal Data Protection Authority as of July 2026.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Personal Data Protection Authority",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says the DRC has ratified the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says the Republic of the Congo has ratified the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+       "as_of": "2025-12-10",
+       "date_precision": "day",
+       "system": "Law No. 025/2023",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+       "as_of": "2025-12-10",
+       "date_precision": "day",
+       "system": "APDPVP",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "ruling",
+       "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+       "as_of": "2025-12-10",
+       "date_precision": "day",
+       "system": "APDPVP",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "none",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Gabon has taken no action on the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "none",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Equatorial Guinea has taken no action on the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "signed",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Chad has signed the Malabo Convention without ratifying it.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "ACTPOL says the 2024 law requires the Authority's prior authorisation for every transfer of personal data abroad, with the compliance period ended 23 June 2026 and the Authority not yet created.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Law No. 2024/017 of 23 December 2024",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "none",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says the Central African Republic has taken no action on the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "signed",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Cameroon has signed the Malabo Convention without ratifying it.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says the DRC has ratified the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says the Republic of the Congo has ratified the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "none",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Gabon has taken no action on the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "none",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Equatorial Guinea has taken no action on the Malabo Convention.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "signed",
+       "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Chad has signed the Malabo Convention without ratifying it.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The brief states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

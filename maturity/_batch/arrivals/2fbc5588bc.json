@@ -1,0 +1,12 @@
+{"slug": "2024-11-09-zwe-misa-zimbabwe-analysis-and-position-on-new-data-regulations", "studies": {
+"dataprotectionlaw": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "MISA Zimbabwe says the Cyber and Data Protection Act [Chapter 12:07] was gazetted on 3 December 2021 and came into force the same day.", "as_of": "2021-12-03", "date_precision": "day", "system": "Cyber and Data Protection Act [Chapter 12:07]", "class": "general"},
+{"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "MISA Zimbabwe says Statutory Instrument 155 of 2024, promulgated on 13 September 2024, requires data controller licences and Data Protection Officers within six months.", "as_of": "2024-09-13", "date_precision": "day", "system": "Statutory Instrument 155 of 2024", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "MISA Zimbabwe says licence applications under SI 155 of 2024 go to the Data Authority, the Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ).", "as_of": "2024-09-13", "date_precision": "day", "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)", "class": "general"}
+], "systems": [{"system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)", "country_label": "Zimbabwe", "class": "authority", "platform": "", "owner": "", "tiers": "4 licence tiers by number of data subjects"}], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "MISA Zimbabwe says the Cyber and Data Protection Act [Chapter 12:07] was gazetted on 3 December 2021 and came into force the same day.", "as_of": "2021-12-03", "date_precision": "day", "system": "Cyber and Data Protection Act [Chapter 12:07]", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "MISA Zimbabwe says POTRAZ is the Data Authority to which data controller licence applications are made under SI 155 of 2024.", "as_of": "2024-09-13", "date_precision": "day", "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)", "class": "system"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document covers data protection regulations and states nothing on a national identity system."}}}
+}}

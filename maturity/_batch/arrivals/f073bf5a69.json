@@ -1,0 +1,31 @@
+{"slug": "2025-02-09-nga-nigeria-s-data-privacy-breaches-surge-amid-regulatory-pressure", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Names AI automated decisions only as an NDPC concern; no AI rule, draft or authority stated."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."}}},
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"dataprotectionauthority": {"countries": {"NGA": {
+ "facts": [
+  {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Punch reports the Nigeria Data Protection Commission is operating under its National Commissioner and CEO, Dr Vincent Olatunji, who spoke at the 2025 Global Privacy Day event in Abuja.", "as_of": "2025-02-09", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "authority"}
+ ],
+ "systems": [{"system": "Nigeria Data Protection Commission", "country_label": "Nigeria", "class": "authority", "platform": "", "owner": "NDPC", "tiers": ""}],
+ "note": ""}}},
+"dataprotectionlaw": {"countries": {"NGA": {
+ "facts": [
+  {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Punch describes the Nigeria Data Protection Act of 2023 as law the NDPC is enforcing, with businesses required to comply.", "as_of": "2025-02-09", "date_precision": "day", "system": "Nigeria Data Protection Act 2023", "class": "general"},
+  {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Punch reports the NDPC, headed by National Commissioner Dr Vincent Olatunji, is regulating and investigating under the Act.", "as_of": "2025-02-09", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "general"},
+  {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "Punch says the NDPC issued in 2024 the General Application and Implementation Directive, covering 42 areas of data protection including audit filing.", "as_of": "2024", "date_precision": "year", "system": "General Application and Implementation Directive", "class": "general"},
+  {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "Punch citing the NDPC 2024 annual report says over 36,052 data controllers and processors of major importance registered, 2,888 data protection officers were certified, and investigations rose to 213 in 2024 from 177 in 2023 and 117 in 2022.", "as_of": "2024", "date_precision": "year", "system": "Nigeria Data Protection Act 2023", "class": "general"}
+ ],
+ "systems": [],
+ "note": ""}}},
+"dataprotectionreadiness": {"countries": {"NGA": {
+ "facts": [
+  {"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "Punch describes the Nigeria Data Protection Act of 2023 as being enforced by the NDPC.", "as_of": "2025-02-09", "date_precision": "day", "system": "Nigeria Data Protection Act 2023", "class": "system"},
+  {"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "Punch reports the NDPC is led by National Commissioner and CEO Dr Vincent Olatunji.", "as_of": "2025-02-09", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "system"},
+  {"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "Punch citing the NDPC 2024 annual report says over 36,052 organisations registered as data controllers and processors of major importance and 2,888 data protection officers were certified.", "as_of": "2024", "date_precision": "year", "system": "Nigeria Data Protection Commission", "class": "system"}
+ ],
+ "systems": [],
+ "note": ""}}},
+"mobileaffordability": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No mobile data price stated."}}}
+}}

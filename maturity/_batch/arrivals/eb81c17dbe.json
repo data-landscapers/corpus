@@ -1,0 +1,13 @@
+{"slug": "2025-11-19-mrt-009-2025", "studies": {
+"birthidlink": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No link between civil register and ID system stated."}}},
+"dataexchange": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No exchange platform; a register-to-register interconnection under one authorisation is not a platform."}}},
+"dataprotectionlaw": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The data protection authority issued deliberation 009/2025 under article 40 of law no. 2017-020 of 22 July 2017 on personal data protection.", "as_of": "2025-11-19", "date_precision": "day", "system": "loi n 2017-020", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The data protection authority met on 19 November 2025 under its named president with seven named members.", "as_of": "2025-11-19", "date_precision": "day", "system": "Autorite de protection des donnees a caractere personnel", "class": "general"},
+{"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "The deliberation cites decree no. 2022/13 of 18 February 2022 on the composition, organisation and functioning of the data protection authority.", "as_of": "2022-02-18", "date_precision": "day", "system": "decret n 2022/13", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "In deliberation 009/2025 the authority gave a favourable opinion on the journalists' professional register of the media regulator HAPA on conditions, refusing to authorise collection of mother tongue as sensitive data.", "as_of": "2025-11-19", "date_precision": "day", "system": "deliberation 009/2025", "class": "general"}
+], "systems": [{"system": "Registre professionnel des journalistes mauritaniens", "country_label": "Registre professionnel des journalistes mauritaniens", "class": "other", "platform": "digital portal", "owner": "HAPA", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"populationregister": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A population register is only named as the one register the journalists' register may link to; its service is not stated."}}},
+"regionalinfrastructure": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No cross-border link or facility stated."}}}
+}}

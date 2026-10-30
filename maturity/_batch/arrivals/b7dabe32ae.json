@@ -1,0 +1,15 @@
+{"slug": "2026-05-17-nam-namibian-boards-need-to-rethink-data-privacy", "studies": {
+"dataprotectionauthority": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "none", "fact": "A governance professional writing in The Namibian says there is currently no dedicated data protection authority in Namibia, and a draft bill expected to create a regulatory authority has not been enacted.", "as_of": "2026-05-17", "date_precision": "day", "system": "", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "A governance professional writing in The Namibian says Namibia has no comprehensive data protection law in force and a draft data protection bill has been proposed but not enacted.", "as_of": "2026-05-17", "date_precision": "day", "system": "Draft data protection bill", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "none", "fact": "The writer says there is currently no dedicated data protection authority in Namibia.", "as_of": "2026-05-17", "date_precision": "day", "system": "", "class": "general"}
+], "systems": [], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "none", "fact": "A governance professional writing in The Namibian says Namibia does not yet have a comprehensive data protection law in force.", "as_of": "2026-05-17", "date_precision": "day", "system": "", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "none", "fact": "The writer says there is currently no dedicated data protection authority in Namibia.", "as_of": "2026-05-17", "date_precision": "day", "system": "", "class": "system"}
+], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The article only urges organisations to align with GDPR and South Africa's POPIA; it states no standards body membership or adopted standard."}}},
+"schools": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The article mentions the NSFAF breach and university data but states nothing on a school management information system."}}}
+}}

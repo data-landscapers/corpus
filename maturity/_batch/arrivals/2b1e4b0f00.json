@@ -1,0 +1,155 @@
+{
+ "slug": "2026-10-29-tza-zanzibar-to-link-identity-card-with-land-ownership-records-to-curb-dis",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Zanzibar government plans to link Zanzibar Identity Card (Zan ID) details to land ownership records through LARIS, said LARIS project coordinator Ibrahim Khalid Mambo on 29 October 2026.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Land Registration and Information System (LARIS)",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Zanzibar Identity Card (Zan ID)",
+       "country_label": "Zanzibar",
+       "class": "other",
+       "platform": "",
+       "owner": "Zanzibar government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "LARIS, an integrated land information system being built by IGN FI for Zanzibar over June 2026 to May 2028, will bring together land ownership, surveying, urban planning, registration and land-use information, per its coordinator.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Land Registration and Information System (LARIS)",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Land Registration and Information System (LARIS)",
+       "country_label": "Zanzibar",
+       "class": "landmis",
+       "platform": "IGN FI",
+       "owner": "Zanzibar government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The LARIS project, running June 2026 to May 2028 in Zanzibar, includes digitising land documents and an integrated land information system, according to the article.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Land Registration and Information System (LARIS)",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Land Registration and Information System (LARIS)",
+       "country_label": "Zanzibar",
+       "class": "land",
+       "platform": "IGN FI",
+       "owner": "Zanzibar government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  }
+ }
+}

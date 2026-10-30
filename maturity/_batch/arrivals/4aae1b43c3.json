@@ -1,0 +1,17 @@
+{"slug": "2026-10-28-ken-national-treasury-pushes-new-regulations-plan-to-run-e-citizen", "studies": {
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document concerns the National Treasury, not the central bank."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document states no consumer rule for digital finance."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document states nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "It only quotes an audit recommendation that a framework cover data protection; no data protection law is stated."}}},
+"egovservices": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "TNX Africa quotes the Auditor-General's special audit report on eCitizen, tabled 2 April 2025, as noting that the majority of government services are provided through the platform.", "as_of": "2025-04-02", "date_precision": "day", "system": "eCitizen", "class": "eservices"}
+], "systems": [{"system": "eCitizen", "country_label": "Kenya", "class": "eservices", "platform": "", "owner": "National Treasury", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document states nothing on government payments to people."}}},
+"localgov": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document states nothing on county or local government office connection."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "It gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "eCitizen is a payment platform for government revenue, and no mobile money or e-money service is stated."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "TNX Africa reports that National Treasury Principal Secretary Chris Kiptoo told the National Assembly Finance Committee on 27 October 2026 that the Treasury manages eCitizen, the government's digital payment platform, as the entity in charge of revenue collection, and the article says it processes billions in public revenue.", "as_of": "2026-10-27", "date_precision": "day", "system": "eCitizen", "class": "revenue"}
+], "systems": [{"system": "eCitizen", "country_label": "Kenya", "class": "revenue", "platform": "", "owner": "National Treasury", "tiers": ""}], "note": ""}}}
+}}

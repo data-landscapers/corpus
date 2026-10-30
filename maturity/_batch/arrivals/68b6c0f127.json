@@ -1,0 +1,15 @@
+{"slug": "2026-05-18-civ-a-abidjan-l-afrique-prend-date-pour-se-doter-enfin-d-une-vision-commun", "studies": {
+"dataprotectionlaw": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ARTCI's press release lists a 2013 data protection law at the start of Cote d'Ivoire's record, followed by compliance checks in 2022 and simplified norms in 2025.", "as_of": "2013", "date_precision": "year", "system": "Loi 2013 relative a la protection des donnees personnelles", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "ARTCI's press release says its new regulatory Council, named on 21 April 2026 and sworn in on 7 May 2026, under president Roger Felix Adom, covers personal data protection among its fields.", "as_of": "2026-05-07", "date_precision": "day", "system": "Autorite de Regulation des Telecommunications/TIC de Cote d'Ivoire (ARTCI)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "ARTCI's press release lists awareness campaigns from 2015, compliance checks in 2022, a national forum in 2023 and a national file of correspondents in 2026 among Cote d'Ivoire's data protection milestones.", "as_of": "2022", "date_precision": "year", "system": "Autorite de Regulation des Telecommunications/TIC de Cote d'Ivoire (ARTCI)", "class": "general"}
+], "systems": [{"system": "Autorite de Regulation des Telecommunications/TIC de Cote d'Ivoire (ARTCI)", "country_label": "Cote d'Ivoire", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Sovereignty is discussed in speeches only; no policy, rule, hosting or contract term on state data is stated."}}},
+"populationregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document says nothing on a population register."}}},
+"regionallaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The conference calls for a continental framework; the document names no signature, ratification or national law under a shared text."}}},
+"regionalpolicy": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "ARTCI's press release says Cote d'Ivoire, through ARTCI, hosted the 9th conference of the African Network of Data Protection Authorities (RAPDP) in Abidjan from 18 May 2026, with 24 African delegations.", "as_of": "2026-05-18", "date_precision": "day", "system": "Reseau Africain des Autorites de Protection des Donnees Personnelles (RAPDP)", "class": "cooperation"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document says only that ARTCI will help start-ups comply; no startup law, strategy or fund is stated."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document says nothing on technology hubs."}}}
+}}

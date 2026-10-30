@@ -1,0 +1,17 @@
+{"slug": "2026-10-26-gin-guinee-nimbapay-traite-7-6-millions-de-transactions-et-connecte-7-etab", "studies": {
+"businesspayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "drafting", "fact": "Agence Ecofin reports that the central bank BCRG, with World Bank support, is preparing a draft law on payment systems and instruments and a 2027-2030 national payments strategy.", "as_of": "2026-10-22", "date_precision": "day", "system": "BCRG payment systems bill", "class": "oversight"}
+], "systems": [{"system": "NimbaPay", "country_label": "Guinea", "class": "other", "platform": "Mojaloop", "owner": "Guineenne de Monetique (GuiM)", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states no consumer-protection rule for digital finance."}}},
+"crossborderpayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "PI-SPI appears only as a comparison and Guinea's participation is not stated."}}},
+"g2ppayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Agence Ecofin reports that the central bank BCRG, with World Bank support, is preparing a bill on payment systems and instruments; no text is said to be published.", "as_of": "2026-10-22", "date_precision": "day", "system": "Payment systems and instruments bill", "class": "law"}
+], "systems": [{"system": "NimbaPay", "country_label": "Guinea", "class": "other", "platform": "Mojaloop", "owner": "Guineenne de Monetique (GuiM)", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"GIN": {"facts": [], "systems": [], "note": "It gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Agence Ecofin reports that NimbaPay, launched in July 2026 and run by Guineenne de Monetique, lets users transfer money between different institutions in real time and pay merchants, with seven institutions connected on 15 October 2026 and about 67,000 transactions worth over GNF 68 billion processed (BCRG, 22 October 2026).", "as_of": "2026-10-15", "date_precision": "day", "system": "NimbaPay", "class": "retail"}
+], "systems": [{"system": "NimbaPay", "country_label": "Guinea", "class": "retail", "platform": "Mojaloop", "owner": "Guineenne de Monetique (GuiM)", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states nothing on electronic payment of taxes or fees."}}}
+}}

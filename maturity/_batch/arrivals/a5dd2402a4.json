@@ -1,0 +1,52 @@
+{
+ "slug": "2024-07-05-cog-congo-numerique-vers-la-protection-des-donnees-a-caractere-personnel",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Commission nationale pour la protection des données à caractère personnel",
+       "country_label": "Congo",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document reports only a cabinet-approved bill to create the commission; a bill is not a law naming a body, and no absence is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "The Council of Ministers approved on 3 July 2024 a draft law creating the national commission for the protection of personal data, submitted by minister Léon Juste Ibombo.",
+       "as_of": "2024-07-03",
+       "date_precision": "day",
+       "system": "Draft law creating the national personal data protection commission",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Commission nationale pour la protection des données à caractère personnel",
+       "country_label": "Congo",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

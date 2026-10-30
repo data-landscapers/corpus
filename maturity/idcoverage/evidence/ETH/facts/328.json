@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-13-eth-ena-eca-personal-data-protection-consultation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National digital ID (National ID Program)",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ethiopian National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": "Document says 42 million citizens have taken the national digital ID but gives no population or share, so no value is recorded."
+}

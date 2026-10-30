@@ -1,0 +1,10 @@
+{"slug": "2026-10-29-tun-thomas-denfer-un-registre-fiable-permet-de-renforcer-lentrepreneuriat", "studies": {
+"addressregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing about addressing."}}},
+"businessregister": {"countries": {"TUN": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "Thomas Denfer, president of the Alliance francophone des registres du commerce, says Tunisia's RNE is digitising and making accessible its historical company records, with a digitisation drive over the last ten years accelerating recently.", "as_of": "2026-10-29", "date_precision": "day", "system": "Registre national des entreprises (RNE)", "class": "business"}], "systems": [{"system": "Registre national des entreprises (RNE)", "country_label": "Tunisia", "class": "business", "platform": "", "owner": "RNE", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing about civil registration."}}},
+"electoralregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing about a voters' roll."}}},
+"landregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing about land registration."}}},
+"populationregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing about a population register."}}},
+"socialregistry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing about a social registry."}}},
+"taxregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing about a taxpayer register."}}}
+}}

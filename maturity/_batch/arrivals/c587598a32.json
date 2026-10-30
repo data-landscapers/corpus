@@ -1,217 +1,39 @@
 {
  "slug": "2025-01-01-tza-jamii-x-change",
  "studies": {
-  "authentication": {
-   "countries": {
-    "TZA": {
-     "facts": [
-      {
-       "sub_indicator": "authentication",
-       "aspect": "service",
-       "value": "inservice",
-       "fact": "NIDA says it has used its Common Interface Gateway since 2018 to share identification data with eligible stakeholders for eKYC and authentication.",
-       "as_of": "2018",
-       "date_precision": "year",
-       "system": "Common Interface Gateway",
-       "class": "authentication"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "birthidlink": {
+  "interoperability": {
    "countries": {
     "TZA": {
      "facts": [],
-     "systems": [],
-     "note": "Mentions an event-based architecture from birth to death but states no link between civil register and ID."
-    }
-   }
-  },
-  "dataexchange": {
-   "countries": {
-    "TZA": {
-     "facts": [
-      {
-       "sub_indicator": "exchange",
-       "aspect": "platform",
-       "value": "inservice",
-       "fact": "NIDA states Jamii X-Change, its X-Road-based secure data exchange platform, is operational, with Zan X-Change in testing and Revenue X-Change under implementation.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "Jamii X-Change",
-       "class": "exchange"
-      }
-     ],
      "systems": [
       {
        "system": "Jamii X-Change",
        "country_label": "Tanzania",
-       "class": "exchange",
-       "platform": "X-Road",
+       "class": "other",
+       "platform": "",
        "owner": "NIDA",
        "tiers": ""
       }
      ],
-     "note": ""
+     "note": "A data exchange platform; no interoperability framework stated."
     }
    }
   },
-  "dataprotectionauthority": {
-   "countries": {
-    "TZA": {
-     "facts": [
-      {
-       "sub_indicator": "body",
-       "aspect": "standing",
-       "value": "provided",
-       "fact": "NIDA's deck names a Personal Data Protection Commission under the Personal Data Protection Act 2022, without saying it is appointed.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "Personal Data Protection Commission",
-       "class": "authority"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "dataprotectionlaw": {
-   "countries": {
-    "TZA": {
-     "facts": [
-      {
-       "sub_indicator": "general",
-       "aspect": "standing",
-       "value": "in-force",
-       "fact": "NIDA's deck cites the Personal Data Protection Act 2022 as governing data exchange and says Jamii X-Change complies with it.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "Personal Data Protection Act 2022",
-       "class": "general"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "digitalstrategy": {
+  "interoperabilitylaw": {
    "countries": {
     "TZA": {
      "facts": [],
-     "systems": [],
-     "note": "Only says a Digital Economy Strategy was launched by the president; no adoption, text or period stated."
-    }
-   }
-  },
-  "idcoverage": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "No enrolment count or share stated."
-    }
-   }
-  },
-  "idfrombirth": {
-   "countries": {
-    "TZA": {
-     "facts": [
+     "systems": [
       {
-       "sub_indicator": "frombirth",
-       "aspect": "number",
-       "value": "inservice",
-       "fact": "NIDA says Jamii Namba is a unique identification number given to all people in Tanzania including newborns.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "Jamii Namba",
-       "class": "birthnumber"
+       "system": "Jamii X-Change",
+       "country_label": "Tanzania",
+       "class": "other",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
       }
      ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "idmaintenance": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on who operates, maintains or owns the ID system."
-    }
-   }
-  },
-  "idregisters": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "No register keyed on the ID number is named."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "TZA": {
-     "facts": [
-      {
-       "sub_indicator": "robustness",
-       "aspect": "system",
-       "value": "inservice",
-       "fact": "NIDA says Jamii Namba is a unique identification number held by all people in Tanzania.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "Jamii Namba",
-       "class": "idsystem"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "idverification": {
-   "countries": {
-    "TZA": {
-     "facts": [
-      {
-       "sub_indicator": "use",
-       "aspect": "use",
-       "value": "inservice",
-       "fact": "NIDA says it has shared personal identification information through its Common Interface Gateway since 2018 with eligible stakeholders for eKYC and authentication alongside service provision.",
-       "as_of": "2018",
-       "date_precision": "year",
-       "system": "Common Interface Gateway",
-       "class": "relying"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "refugees": {
-   "countries": {
-    "TZA": {
-     "facts": [
-      {
-       "sub_indicator": "displaced",
-       "aspect": "access",
-       "value": "open",
-       "fact": "NIDA says the Jamii Namba unique ID number is given to all people in Tanzania including visitors and refugees.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "Jamii Namba",
-       "class": "displaced"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "Identity act with data sharing agreements for NIDA only; no public-body data sharing law stated."
     }
    }
   }

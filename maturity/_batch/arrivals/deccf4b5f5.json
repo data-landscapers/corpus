@@ -1,0 +1,175 @@
+{
+ "slug": "2024-09-03-moz-actual-quadro-legal-e-regulamentar-garante-a-proteccao-de-dados-pessoa",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an intention to draft a national AI strategy is stated; no drafting begun."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "INTIC's chairman Lourino Chemane says the government is drafting a Proposta de Lei de Protecção de Dados Pessoais.",
+       "as_of": "2024-09-03",
+       "date_precision": "day",
+       "system": "Proposta de Lei de Protecção de Dados Pessoais",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "INTIC cites Lei n.o 3/2017 of 9 January, the Lei de Transacções Electrónicas, as setting obligations for processing personal data electronically.",
+       "as_of": "2017-01-09",
+       "date_precision": "day",
+       "system": "Lei de Transacções Electrónicas (Lei n.o 3/2017)",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "framework",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "INTIC says Decreto n.o 67/2017 approved the Regulamento do Quadro de Interoperabilidade de Governo Electrónico.",
+       "as_of": "2017",
+       "date_precision": "year",
+       "system": "Regulamento do Quadro de Interoperabilidade de Governo Electrónico",
+       "class": "framework"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "INTIC says Decreto n.o 67/2017 approved the interoperability regulation, which sets obligations on public administration institutions and protects data shared between them.",
+       "as_of": "2017",
+       "date_precision": "year",
+       "system": "Regulamento do Quadro de Interoperabilidade de Governo Electrónico (Decreto n.o 67/2017)",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

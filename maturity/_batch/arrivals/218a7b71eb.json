@@ -1,0 +1,153 @@
+{
+ "slug": "2026-10-27-mus-dossier-m-dical-num-rique-e-health-plus-de-150-000-patients-d-j-enregi",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "emr",
+       "aspect": "digitised",
+       "value": "shared",
+       "fact": "Le Defi Media reports, quoting Ministry of Health adviser Keshav Jokhun, that E-Health holds one national electronic record per patient, found by national identity card and consulted by staff at any other connected public facility.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "E-Health",
+       "class": "emr"
+      },
+      {
+       "sub_indicator": "emr",
+       "aspect": "clinics",
+       "value": "pilot",
+       "fact": "Le Defi Media reports E-Health is in pilot in about thirty public health facilities of the East and Centre, with over 150,000 patients registered.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "E-Health",
+       "class": "emr"
+      },
+      {
+       "sub_indicator": "emr",
+       "aspect": "last12",
+       "value": "advancing",
+       "fact": "The Ministry of Health says over one million electronic transactions were made from January to September 2026 and Phase 1 operational acceptance is planned by December 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "E-Health",
+       "class": "emr"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-Health",
+       "country_label": "E-Health electronic medical record",
+       "class": "emr",
+       "platform": "Government Intranet Network System hosting",
+       "owner": "Ministry of Health (UNDP-managed contract)",
+       "tiers": "T1;T2"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  }
+ }
+}

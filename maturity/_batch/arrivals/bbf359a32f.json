@@ -1,0 +1,43 @@
+{"slug": "2026-03-27-lso-exploring-the-data-protection-and-data-governance-challenges-and-oppor", "studies": {
+"aiabuse": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not mention AI harms rules or authority; AI appears only as a risk to personal data."}}},
+"aigovernment": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
+"aisystems": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"authentication": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Biometric authentication appears only as a plan in the DPI Framework Concept Note."}}},
+"birthidlink": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No civil register and ID link stated."}}},
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No digital finance consumer rules stated."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Cross-border payments appear only as a plan in the DPI concept note."}}},
+"datagovernance": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Only data governance workshops are stated; no national data policy drafted or adopted."}}},
+"dataprotectionauthority": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "provided", "fact": "The Data Protection Act 2011 mandates a Data Protection Commission, which the article by Letsatsi Lekhooa for Digital Rights Alliance Africa says had still not been established almost fifteen years later.", "as_of": "2026-03-27", "date_precision": "day", "system": "Data Protection Commission", "class": "authority"}
+], "systems": [{"system": "Data Protection Commission", "country_label": "Lesotho", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The article says Lesotho enacted the Data Protection Act in 2011 and that it remains the cornerstone of the data protection framework.", "as_of": "2026-03-27", "date_precision": "day", "system": "Data Protection Act 2011", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The article says the 2011 Act mandated a Data Protection Commission that has not been established, so the Act cannot be effectively enforced.", "as_of": "2026-03-27", "date_precision": "day", "system": "Data Protection Commission", "class": "general"}
+], "systems": [{"system": "Data Protection Act 2011", "country_label": "Lesotho", "class": "general", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "The article says Lesotho enacted the Data Protection Act in 2011, which remains the cornerstone of its data protection framework.", "as_of": "2026-03-27", "date_precision": "day", "system": "Data Protection Act 2011", "class": "system"},
+{"sub_indicator": "system", "aspect": "treaty", "value": "signed", "fact": "The article says Lesotho has signed but not yet ratified the AU Malabo Convention.", "as_of": "2026-03-27", "date_precision": "day", "system": "Malabo Convention", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "none", "fact": "The article says the Data Protection Commission mandated by the 2011 Act has not been established and no independent body exists to enforce the law.", "as_of": "2026-03-27", "date_precision": "day", "system": "Data Protection Commission", "class": "system"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"LSO": {"facts": [], "systems": [{"system": "DPI Framework Concept Note", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "MICSTI", "tiers": ""}], "note": "The DPI Framework Concept Note is a thematic framework, not a national digital strategy."}}},
+"egovservices": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No online government services stated."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "G2P payments appear only as a plan in the DPI concept note."}}},
+"idcoverage": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No ID system operation or ownership stated."}}},
+"idregisters": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No register keyed on an ID number stated."}}},
+"idrobustness": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Digital ID for all Basotho appears only as a plan in the DPI concept note."}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No account ownership survey figure stated."}}},
+"policyresearch": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No local institution research on digital policy stated; the National University of Lesotho Legal Clinic is quoted for comment only."}}},
+"publicconsultation": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The article says the Ministry of Information, Communications, Science, Technology and Innovation held a multi-stakeholder workshop in August 2025, supported by UNDP, to validate Lesotho's DPI Framework Concept Note, with contributions from the financial sector, telecom operators, academia and civil society.", "as_of": "2025-08", "date_precision": "month", "system": "DPI Framework Concept Note validation workshop", "class": "consultation"}
+], "systems": [], "note": ""}}},
+"regionallaw": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The article says Lesotho has signed but has yet to ratify the AU Malabo Convention on Cybersecurity and Personal Data Protection.", "as_of": "2026-03-27", "date_precision": "day", "system": "Malabo Convention", "class": "harmonisation"}
+], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No retail digital payment service stated."}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No electronic tax payment stated."}}}
+}}

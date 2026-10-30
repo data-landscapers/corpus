@@ -1,0 +1,68 @@
+{
+ "slug": "2026-10-08-gha-graphic-gra-real-time-vat-sentinel-digital-services",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Sentinel System (Real-Time VAT, RTVAT)",
+       "country_label": "Sentinel System",
+       "class": "other",
+       "platform": "",
+       "owner": "Ghana Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "The document describes only a VAT collection mechanism for foreign digital services starting 2026-10-15; it states nothing about this study's questions."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes only a VAT collection mechanism for foreign digital services starting 2026-10-15; it states nothing about this study's questions."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes only a VAT collection mechanism for foreign digital services starting 2026-10-15; it states nothing about this study's questions."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes only a VAT collection mechanism for foreign digital services starting 2026-10-15; it states nothing about this study's questions."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes only a VAT collection mechanism for foreign digital services starting 2026-10-15; it states nothing about this study's questions."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes only a VAT collection mechanism for foreign digital services starting 2026-10-15; it states nothing about this study's questions."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "2026-10-29-gin-fratel-2026-a-conakry-la-guinee-au-cur-du-defi-de-la-connectivite-nume",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government AI use."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on sector AI."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI built in Guinea."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Data centres discussed generally at the meeting; none named for Guinea."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a count of 600+ uncovered localities; no programme or rural-urban use figures."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mobile internet users (about 12 million) given, which is not counted."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No Guinean data centre named."
+    }
+   }
+  }
+ }
+}

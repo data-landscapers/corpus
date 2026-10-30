@@ -1,0 +1,7 @@
+{"slug": "2025-06-19-mwi-macra-gears-up-to-enforce-data-protection-act", "studies": {
+"dataprotectionlaw": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "247Malawi reports that a MACRA board director spoke of the Data Protection Act of 2024 as the new law whose enactment created specific mandates for data controllers; the report does not say whether it has commenced.", "as_of": "2025-06-18", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "247Malawi reports that the Malawi Communications Regulatory Authority (MACRA) is intensifying efforts to implement the Data Protection Act.", "as_of": "2025-06-18", "date_precision": "day", "system": "Malawi Communications Regulatory Authority (MACRA)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "247Malawi reports that MACRA held a Data Protection Workshop for ministries, departments and agencies in Lilongwe on Wednesday, where a board director warned non-compliance carries mostly administrative liabilities.", "as_of": "2025-06-18", "date_precision": "day", "system": "Malawi Communications Regulatory Authority (MACRA)", "class": "general"}
+], "systems": [], "note": ""}}}
+}}

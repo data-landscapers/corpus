@@ -1,0 +1,14 @@
+{"slug": "2026-10-29-gab-gabon-connect-le-ministere-de-leconomie-sollicite-lexpertise-de-lapdpv", "studies": {
+"dataprotectionauthority": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "GabonMediaTime reports the Autorite pour la protection des donnees a caractere personnel et de la vie privee, headed by president Joel Dominique Ledaga, received an economy ministry delegation seeking technical support.", "as_of": "2026-10-29", "date_precision": "day", "system": "Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP)", "class": "authority"}
+], "systems": [{"system": "Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP)", "country_label": "Gabon", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": "No ruling or count of rulings is stated."}}},
+"dataprotectionlaw": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "GabonMediaTime reports the APDPVP, led by president Joel Dominique Ledaga, is the authority the economy ministry approached for data protection compliance support.", "as_of": "2026-10-29", "date_precision": "day", "system": "Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP)", "class": "general"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "GabonMediaTime says the Gabon Connect platform was set up in March 2026 to put tax, customs, land and social security procedures online, with a single payroll declaration and TresorPay modules still being prepared.", "as_of": "2026-03", "date_precision": "month", "system": "Gabon Connect", "class": "eservices"}
+], "systems": [{"system": "Gabon Connect", "country_label": "Gabon", "class": "eservices", "platform": "", "owner": "Ministry of Economy and Finance", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document says nothing of local government office connections."}}},
+"police": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document says nothing of police station records."}}},
+"schoolinternet": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document says nothing of school internet or the secondary curriculum."}}}
+}}

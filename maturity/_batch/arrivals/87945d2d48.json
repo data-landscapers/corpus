@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-26-nam-opinion-namibia-s-ai-anti-money-laundering-strategy-needs-governance",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion on AML governance; no business register system stated, only hidden beneficial ownership as a challenge."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece states nothing about a national ID system."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece states nothing about international standards."
+    }
+   }
+  }
+ }
+}

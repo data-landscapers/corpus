@@ -1,22 +1,41 @@
-{"slug": "2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional", "studies": {
-"datacentres": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Menos Fios, relaying Expansao no. 878 and Infosi director-general Andre Mpumba, reports that the 12 container modules of the Government's National Data Centre and Cloud at Camama, inaugurated on 28 April 2026, are certified Tier III (factory Tier-ready), though the building is not yet on Uptime Institute's list, and that it hosts data of public and private institutions.", "as_of": "2026-05-31", "date_precision": "day", "system": "Data Centre e Cloud Nacional do Governo", "class": "datacentre"}
-], "systems": [
-{"system": "Data Centre e Cloud Nacional do Governo", "country_label": "Angola", "class": "datacentre", "platform": "", "owner": "Government of Angola (Infosi)", "tiers": "Tier III modules"},
-{"system": "Paratus Angola data centres, Patriota, Luanda", "country_label": "Angola", "class": "other", "platform": "", "owner": "Paratus", "tiers": "two designed to Tier III"},
-{"system": "Raxio AG1", "country_label": "Angola", "class": "other", "platform": "", "owner": "Raxio Angola", "tiers": "Uptime design certificate"}
-], "note": ""}}},
-"digitalsovereignty": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "sovereignty", "aspect": "hosted", "value": "national", "fact": "Menos Fios reports the Government's National Data Centre and Cloud at Camama, inaugurated on 28 April 2026 by President Lourenco, hosts data of public and private institutions.", "as_of": "2026-04-28", "date_precision": "day", "system": "Data Centre e Cloud Nacional do Governo", "class": "sovereignty"}
-], "systems": [], "note": ""}}},
-"educationexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on education systems."}}},
-"educationmis": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on education systems."}}},
-"internationalstandards": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only company certificates (Paratus PCI-DSS, ISO 9001, ISO/IEC 27001) and Uptime Tier ratings; these place nothing."}}},
-"nationaldatacentres": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "national", "aspect": "centre", "value": "tier3", "fact": "Menos Fios, relaying Expansao no. 878 and Infosi, reports the state-built Government National Data Centre and Cloud at Camama has Tier III certified modules, with the building awaiting Uptime assessment, and it hosts data of public and private institutions.", "as_of": "2026-05-31", "date_precision": "day", "system": "Data Centre e Cloud Nacional do Governo", "class": "datacentre"},
-{"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "The Government National Data Centre and Cloud, run by the state institute Infosi, is a state facility inaugurated on 28 April 2026.", "as_of": "2026-04-28", "date_precision": "day", "system": "Data Centre e Cloud Nacional do Governo", "class": "datacentre"},
-{"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "Menos Fios reports the Government data centre and cloud at Camama hosts data of public institutions.", "as_of": "2026-05-31", "date_precision": "day", "system": "Data Centre e Cloud Nacional do Governo", "class": "datacentre"}
-], "systems": [], "note": ""}}},
-"qualitystandards": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only Uptime Institute and company ISO certificates; no national standards body or national standard is stated."}}},
-"schools": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on school records."}}}
-}}
+{
+ "slug": "2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Data Center e Cloud Nacional do Governo",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "government cloud",
+       "owner": "Government of Angola (Infosi)",
+       "tiers": "modules Tier III certified, building not certified"
+      }
+     ],
+     "note": "Government cloud inaugurated 2026-04-28 but no hosting policy or duty on public bodies is stated."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No localisation rule stated."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No backup site stated."
+    }
+   }
+  }
+ }
+}

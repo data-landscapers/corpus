@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-29-zaf-itweb-iec-national-results-operations-centre-opens",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "ITWeb reports 29.2 million South Africans are on the voters' roll for the local government elections, which the IEC runs on a voters' roll application and voter management devices.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "voters' roll application and voter management devices",
+       "class": "electoral"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Openserve's national fibre is named only as a component of the results centre, with no capital-to-region link stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-26-mar-decret-2-26-831-attributions-ministre-ia-transformation-numerique",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Decree gives the minister AI policy remit only; no harm rule or harm authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI system or rule for government use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Art. 2 gives the minister the job of preparing AI policy; no strategy drafting, adoption, body or funding stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing stated."
+    }
+   }
+  }
+ }
+}

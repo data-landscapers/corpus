@@ -1,0 +1,13 @@
+{"slug": "2026-08-01-mus-designation-and-certification-of-data-protection-officers-dpos", "studies": {
+"dataprotectionauthority": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Data Protection Office issued guidance notes in response to queries on implementing the Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026, and runs the e-DPO Portal and the DPO certification programme.", "as_of": "2026-08", "date_precision": "month", "system": "Data Protection Office", "class": "authority"}
+], "systems": [{"system": "Data Protection Office", "country_label": "Mauritius", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Data Protection Office is acting as the body under the Data Protection Act, issuing guidance notes and running a DPO certification programme and the e-DPO Portal.", "as_of": "2026-08", "date_precision": "month", "system": "Data Protection Office", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Data Protection Office published guidance notes on the designation and certification of data protection officers, and says certification training and a registration communique will follow before the DPO Regulations 2026 come into force on 1 January 2027.", "as_of": "2026-08", "date_precision": "month", "system": "Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026", "class": "general"}
+], "systems": [{"system": "Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026", "country_label": "Mauritius", "class": "regulation", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The Data Protection Office is acting as the supervisory body, answering controllers' queries and issuing guidance notes on the DPO Regulations 2026.", "as_of": "2026-08", "date_precision": "month", "system": "Data Protection Office", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "The Data Protection Office issued guidance on DPO designation and certification and requires controllers to update their designated DPO details through its e-DPO Portal.", "as_of": "2026-08", "date_precision": "month", "system": "Data Protection Office", "class": "system"}
+], "systems": [], "note": ""}}}
+}}

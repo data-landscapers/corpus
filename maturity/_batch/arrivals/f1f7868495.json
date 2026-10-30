@@ -1,0 +1,8 @@
+{"slug": "2026-10-27-nga-naigf-inaugurates-advisory-council-responsible-ai", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The council is advisory with no legal force and is not a regulator; no rule or designated authority on AI harms is stated."}}},
+"aistrategy": {"countries": {"NGA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The report says the new NAIGF advisory council supports the implementation of Nigeria's national AI strategy, which it treats as an existing strategy being implemented.", "as_of": "2026-10-27", "date_precision": "day", "system": "Nigeria's national AI strategy", "class": "strategy"}], "systems": [{"system": "Nigeria's national AI strategy", "country_label": "Nigeria", "class": "strategy", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on digital-skills training for civil servants."}}},
+"digitalskills": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Digital literacy is named only as an enabler; no programme or measured share is stated."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The council was set up by a non-government forum, not by government or a regulator, and has given no view on a named law or policy."}}},
+"schoolinternet": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on school internet or the secondary curriculum."}}}
+}}

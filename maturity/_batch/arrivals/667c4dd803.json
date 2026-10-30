@@ -1,50 +1,21 @@
 {
  "slug": "2026-10-28-south-africa-plans-biometric-asylum-registration-tighter-digital-borde",
  "studies": {
-  "idrobustness": {
+  "egovservices": {
    "countries": {
     "ZAF": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on the national ID system."
+     "note": "An online asylum registration system is only planned for 10 November 2026."
     }
    }
   },
-  "idverification": {
+  "idregisters": {
    "countries": {
     "ZAF": {
      "facts": [],
      "systems": [],
-     "note": "SIM registration is mentioned without saying it is checked against the national ID."
-    }
-   }
-  },
-  "refugees": {
-   "countries": {
-    "ZAF": {
-     "facts": [
-      {
-       "sub_indicator": "displaced",
-       "aspect": "registration",
-       "value": "underway",
-       "fact": "The Department of Home Affairs plans an online intention-registration and appointment system for asylum applicants by 10 November 2026, with biometric and identity information collected to verify applicants and prevent duplicate registrations.",
-       "as_of": "2026-10-28",
-       "date_precision": "day",
-       "system": "online intention-registration and appointment system",
-       "class": "displaced"
-      }
-     ],
-     "systems": [
-      {
-       "system": "online intention-registration and appointment system",
-       "country_label": "South Africa",
-       "class": "displaced",
-       "platform": "",
-       "owner": "Department of Home Affairs",
-       "tiers": ""
-      }
-     ],
-     "note": ""
+     "note": "Asylum biometric registration is not a register keyed on a national ID number."
     }
    }
   }

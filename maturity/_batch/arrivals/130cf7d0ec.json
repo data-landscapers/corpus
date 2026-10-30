@@ -1,0 +1,6 @@
+{"slug": "2025-02-19-ken-zuku-hit-with-sh500-000-fine-for-spamming-customer-with-messages", "studies": {
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "Daily Nation reports that Data Commissioner Immaculate Kassait, in a determination dated 15 February 2025, ordered Wananchi Group (Zuku) to pay a former customer Sh500,000 for ignoring requests to stop promotional messages and erase his data.", "as_of": "2025-02-15", "date_precision": "day", "system": "Office of the Data Protection Commissioner (ODPC)", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Daily Nation reports that Data Commissioner Immaculate Kassait headed the ODPC when it took up the complaint, searched Zuku's premises under a warrant and issued the determination of 15 February 2025.", "as_of": "2025-02-15", "date_precision": "day", "system": "Office of the Data Protection Commissioner (ODPC)", "class": "general"}
+], "systems": [{"system": "Office of the Data Protection Commissioner (ODPC)", "country_label": "Kenya", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

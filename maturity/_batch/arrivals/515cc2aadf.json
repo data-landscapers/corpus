@@ -1,0 +1,6 @@
+{"slug":"2025-09-29-gmb-information-commissioner-ya-amie-touray-profile","studies":{
+"accesstoinformationlaw":{"countries":{"GMB":{"facts":[{"sub_indicator":"law","aspect":"reach","value":"rules","fact":"The Information Commission of The Gambia's own profile page lists Ya Amie Touray as an Information Commissioner appointed 2025-09-29.","as_of":"2025-09-29","date_precision":"day","system":"Information Commission of The Gambia","class":"law"}],"systems":[{"system":"Information Commission of The Gambia","country_label":"The Gambia","class":"law","platform":"","owner":"","tiers":""}],"note":""}}},
+"cybersecuritylaw":{"countries":{"GMB":{"facts":[],"systems":[],"note":"The page says only that the commissioner reviewed a Cyber Security Bill as a consultant, with no date or status."}}},
+"dataprotectionlaw":{"countries":{"GMB":{"facts":[],"systems":[],"note":"The page says only that the commissioner reviewed a Data Protection Bill as a consultant, with no date or status."}}},
+"internationalbandwidth":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on international fibre routes."}}},
+"policyresearch":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on digital policy research institutions."}}}}}

@@ -1,0 +1,15 @@
+{"slug": "2026-10-26-lbr-pul-accuses-boakai-gol-says-csa-pact-upends-foi-demands-nda-rescission", "studies": {
+"accesstoinformationlaw": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Press Union of Liberia president said the Freedom of Information Act was passed more than 15 years ago and is being enforced by the Independent Information Commission, whose audit he cited.", "as_of": "2026-10-23", "date_precision": "day", "system": "Freedom of Information Act", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Press Union of Liberia president described the Independent Information Commission as the state authority legally mandated to enforce the FOI Act, which he said opposed the civil-service confidentiality agreement.", "as_of": "2026-10-23", "date_precision": "day", "system": "Independent Information Commission", "class": "law"}
+], "systems": [{"system": "Freedom of Information Act", "country_label": "Liberia", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on digital-skills training for civil servants."}}},
+"dataprotectionlaw": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The Press Union of Liberia president said Liberia lacks an enforced data protection and privacy law, though a draft law was validated in late 2024.", "as_of": "2024", "date_precision": "year", "system": "Draft data protection law", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "none", "fact": "The Press Union of Liberia president said a national Data Authority has yet to be formally established.", "as_of": "2026-10-23", "date_precision": "day", "system": "Data Authority", "class": "general"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No online government service stated; only that agencies have websites and most Liberians rely on radio."}}},
+"eparticipation": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on online participation in policy."}}},
+"opendatause": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Says almost no agency systematically publishes open data, with MFDP and MOI rare exceptions; no download, portal or licence stated."}}},
+"publicconsultation": {"countries": {"LBR": {"facts": [], "systems": [], "note": "A Governance Commission dialogue on FOI and open data names no digital law or policy put to outside parties."}}}
+}}

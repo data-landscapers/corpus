@@ -1,0 +1,73 @@
+{
+ "slug": "2024-08-04-ben-benin-l-apdp-passe-en-revue-47-dossiers-lors-des-plenieres-de-juillet",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "At its contentious session of 24 July 2024 the APDP fined an unnamed website operator one million CFA francs for processing data without prior declaration, per La Marina BJ.",
+       "as_of": "2024-07-24",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APDP",
+       "country_label": "Benin",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The APDP held contentious and compliance plenary sessions on 24 to 26 July 2024 and examined 47 files.",
+       "as_of": "2024-07-26",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "At its contentious session of 24 July 2024 the APDP fined an unnamed website operator one million CFA francs for failing to declare data processing beforehand.",
+       "as_of": "2024-07-24",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APDP",
+       "country_label": "Benin",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

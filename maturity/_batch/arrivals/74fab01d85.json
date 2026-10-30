@@ -1,0 +1,20 @@
+{"slug": "2024-04-26-zmb-data-protection-compliance-insights-into-the-revised-enforcement-roadm", "studies": {
+"businesspayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on the central bank."}}},
+"consumerprotection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on financial consumer protection."}}},
+"crossborderpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"dataprotectionauthority": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "MMLP states that the Data Protection Commissioner is the regulatory authority under the Data Protection Act, 2021 and that the Commissioner outlined an enforcement roadmap on 31 October 2023, since revised.", "as_of": "2023-10-31", "date_precision": "day", "system": "Data Protection Commissioner", "class": "authority"}
+], "systems": [{"system": "Data Protection Commissioner", "country_label": "Data Protection Commissioner", "class": "authority", "platform": "", "owner": "state", "tiers": ""}], "note": "No ruling against a named organisation is stated."}}},
+"dataprotectionlaw": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "MMLP states that Zambia enacted the Data Protection Act, 2021 in 2021.", "as_of": "2021", "date_precision": "year", "system": "Data Protection Act, 2021", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Data Protection Commissioner, the Act's regulatory authority, set an enforcement roadmap on 31 October 2023 and revised it by April 2024, according to MMLP.", "as_of": "2024-04-26", "date_precision": "day", "system": "Data Protection Commissioner", "class": "general"}
+], "systems": [{"system": "Data Protection Commissioner", "country_label": "Data Protection Commissioner", "class": "other", "platform": "", "owner": "state", "tiers": ""}], "note": "The roadmap's registration, training and audits are scheduled from May 2024 and are not yet activity."}}},
+"dataprotectionreadiness": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "MMLP states that the Data Protection Commissioner, the Act's regulatory authority, issued an enforcement roadmap on 31 October 2023 and revised it by April 2024.", "as_of": "2024-04-26", "date_precision": "day", "system": "Data Protection Commissioner", "class": "system"}
+], "systems": [], "note": "Whether the Act is in force is not stated; the roadmap's steps are scheduled, not done."}}},
+"g2ppayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"paymentsuptake": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Mobile money appears only as a sector selected for audits; no service is described."}}},
+"revenuecollection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Zambia Revenue Authority appears only as a notification channel; no payment is described."}}}
+}}

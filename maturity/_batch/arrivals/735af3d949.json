@@ -1,0 +1,31 @@
+{
+ "slug": "2026-10-29-dza-numerisation-du-secteur-de-la-sante-plus-de-2-355-structures-raccordee",
+ "studies": {
+  "health": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "national telemedicine system",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      },
+      {
+       "system": "teleradiology",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "Fibre connection and plans only; no HMIS or EMR in use at any tier stated."
+    }
+   }
+  }
+ }
+}

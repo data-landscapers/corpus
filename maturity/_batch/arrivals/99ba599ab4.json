@@ -1,0 +1,19 @@
+{"slug": "2026-08-01-tza-pdpc-tanzania-home", "studies": {
+"dataprotectionauthority": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Personal Data Protection Commission, headed by Director General Dr. Emmanuel Mkilia, operates under the Personal Data Protection Act, Chapter 44, registering organisations and receiving complaints.", "as_of": "2026-08", "date_precision": "month", "system": "Personal Data Protection Commission", "class": "authority"}
+], "systems": [{"system": "Personal Data Protection Commission", "country_label": "Tanzania", "class": "authority", "platform": "RCMIS", "owner": "", "tiers": ""}], "note": "The panel gives 6 determinations for August 2026 without saying the period covered or naming any organisation, so no rulings fact is recorded."}}},
+"dataprotectionlaw": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Commission's site says public and private bodies must register under the Personal Data Protection Act, Chapter 44, enacted in 2022.", "as_of": "2026-08", "date_precision": "month", "system": "Personal Data Protection Act, Chapter 44", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Personal Data Protection Commission, led by a Director General, is acting under the Act.", "as_of": "2026-08", "date_precision": "month", "system": "Personal Data Protection Commission", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Commission reports 15,146 registered organisations and 445 complaints received in August 2026, and runs DPO training.", "as_of": "2026-08", "date_precision": "month", "system": "Personal Data Protection Commission", "class": "general"}
+], "systems": [], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "The Commission says organisations must register under the Personal Data Protection Act, Chapter 44, enacted in 2022.", "as_of": "2026-08", "date_precision": "month", "system": "Personal Data Protection Act, Chapter 44", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The Personal Data Protection Commission is headed by Director General Dr. Emmanuel Mkilia.", "as_of": "2026-08", "date_precision": "month", "system": "Personal Data Protection Commission", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "The Commission reports 15,146 registered organisations as at August 2026 and offers a registration system, complaints service and DPO training.", "as_of": "2026-08", "date_precision": "month", "system": "Personal Data Protection Commission", "class": "system"}
+], "systems": [], "note": ""}}},
+"datatransfers": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "The Commission says the Personal Data Protection Act, Chapter 44, mandates it to regulate transfer of personal data outside the country so that it is given an adequate level of protection, through a cross-border data transfer permit.", "as_of": "2026-08", "date_precision": "month", "system": "Cross-border data transfer permit", "class": "rule"},
+{"sub_indicator": "rule", "aspect": "use", "value": "applied", "fact": "The Commission reports 121 data transfer permits offered as at August 2026.", "as_of": "2026-08", "date_precision": "month", "system": "Cross-border data transfer permit", "class": "rule"}
+], "systems": [], "note": ""}}}
+}}
