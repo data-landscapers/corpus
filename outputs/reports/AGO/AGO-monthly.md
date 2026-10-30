@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: AGO
-ledger_rows: 51
+ledger_rows: 54
 not_held: 6
-record: d243afce3beb
+record: c795484ec591
 ---
 
 # News, Sep – Oct 2026
@@ -35,12 +35,30 @@ record: d243afce3beb
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Policy for the Management of Scientific Data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EOI - Angola - Elaboration a new National Policy for Science, Technology and Innovation and the National Policy for Scientific Data Management - STDP](https://www.afdb.org/en/documents/eoi-angola-elaboration-new-national-policy-science-98045)** — African Development Bank, 28 October 2026
+
+AfDB-funded consultancy sought to draft Angola's science policy and first scientific-data management policy.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
@@ -486,6 +504,20 @@ Summarised under [New investments](#new-investments).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Direct reporting and QR verification of higher-education qualifications</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ensino: estudantes passam a comprovar diplomas por código QR sem deslocar-se ao INAAREES](https://pti.ao/ensino-estudantes-passam-a-comprovar-diplomas-por-codigo-qr-sem-deslocar-se-ao-inaarees/)** — Portal de T.I, 29 October 2026
+
+Angola's Council of Ministers assessed a presidential decree on recognising higher-education studies on 27 October 2026. Institutions would send records directly to the accreditation institute INAAREES, and diplomas would carry a verification QR code. Earlier graduates keep the current procedure through the SEPE portal for a three-year transition.
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
 <div class="monthly-story" markdown="1">
@@ -773,6 +805,20 @@ In his State of the Nation address, President João Lourenço said Angola added 
 **[Estado da Nação: Presidente destaca progressos nas telecomunicações e transformação digital](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)** — PTI Angola, 16 October 2026
 
 Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Portal SIMPLIFICA single public-services portal platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Executivo anuncia concurso público internacional para modernizar o Portal SIMPLIFICA](https://pti.ao/executivo-anuncia-concurso-publico-internacional-para-modernizar-o-portal-simplifica/)** — Portal de T.I, 29 October 2026
+
+Angola's Institute for Administrative Modernisation (IMA) opened an international tender for a new platform for the SIMPLIFICA public-services portal. A US$300 million World Bank loan for the Angola Digital Acceleration Project pays for it. Bids close on 27 November 2026.
 
 </div>
 
