@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: SOM
-ledger_rows: 29
+ledger_rows: 31
 not_held: 1
-record: 001da50c197d
+record: 46e436f57439
 ---
 
 # News, Sep – Oct 2026
@@ -33,12 +33,30 @@ record: 001da50c197d
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Coordination Framework (NDCF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Dowladda Soomaaliya oo Ansixinaysa Qaab-dhismeedka Qaranka ee Isku-duwidda Dowladda Dijitaalka ah. -](https://hiiraanweyn.net/dowladda-soomaaliya-oo-ansixinaysa-qaab-dhismeedka-qaranka-ee-isku-duwidda-dowladda-dijitaalka-ah/)** — Hiiraan Weyn, 27 October 2026
+
+National Digital Coordination Framework validation workshop; PM's Office and MoCT; ICT baseline review.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
@@ -403,6 +421,20 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 **[Somali federal government says eVisa dispute with Somaliland resolved, but Hargeisa denies agreement](https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx)** — Hiiraan Online, 21 October 2026
 
 Somalia's civil aviation authority said its dispute with Somaliland over the national eVisa system was resolved and that Hargeisa-based travel agencies could use it. Somaliland's aviation minister denied any agreement, saying travellers arriving at Hargeisa with a Somalia-issued eVisa still need a Somaliland visa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-Parliament system of the House of the People</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Parliament Suspends Sessions for Two Weeks to Install E-Parliament System](https://www.dawan.africa/news/somalia-parliament-suspends-sessions-for-two-weeks-to-install-e-parliament-system)** — Dawan Africa, 29 October 2026
+
+Somalia's House of the People will suspend sessions for two weeks from 31 October 2026 to install an E-Parliament system. The Speaker said it would take members' requests online and bring digital attendance and electronic voting.
 
 </div>
 
