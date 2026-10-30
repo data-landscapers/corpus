@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: LBR
-ledger_rows: 41
+ledger_rows: 42
 not_held: 6
-record: 7e0b6c518927
+record: a6137439f763
 ---
 
 # News, Sep – Oct 2026
@@ -875,6 +875,20 @@ Liberia's Independent Information Commission and the anti-corruption group CENTA
 **[PUL Condemns Government’s Assault on Freedom of Information and Transparency; Calls for Immediate Withdrawal of Confidentiality Policy Undermining the FOI Act - Liberia Public Radio](https://liberiapublicradio.com/2026/10/24/pul-condemns-governments-assault-on-freedom-of-information-and-transparency-calls-for-immediate-withdrawal-of-confidentiality-policy-undermining-the-foi-act/)** — Liberia Public Radio, 24 October 2026
 
 At a Governance Commission policy dialogue, the Press Union of Liberia called for the immediate withdrawal of a confidentiality and non-disclosure agreement the Civil Service Agency has introduced for civil servants, saying it overturns the Freedom of Information Act and strips the Independent Information Commission, which opposed it, of its authority. The union also said most agencies the commission assessed had not appointed public information officers and that Liberia lacks an enforceable data-protection framework.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public bodies with designated public information officers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PUL Accuses Boakai GoL - Says CSA pact upends FOI, demands NDA rescission](https://analystliberiaonline.com/pul-accuses-boakai-gol-says-csa-pact-upends-foi-demands-nda-rescission/)** — Analyst Liberia, 26 October 2026
+
+Speech of 23 October 2026; 78 of 103 agencies without information officers; no Data Authority yet.
 
 </div>
 
