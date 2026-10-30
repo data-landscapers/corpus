@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: TGO
-ledger_rows: 62
+ledger_rows: 64
 not_held: 16
-record: cf13296a9623
+record: 02bee9d15e88
 ---
 
 # News, Sep – Oct 2026
@@ -213,6 +213,28 @@ Togo's personal data protection authority, IPDCP, opened its first evaluation an
 **[Médias et protection des données personnelles : l’IPDCP et la HARC renforcent leur partenariat](https://ipdcp.tg/medias-et-protection-des-donnees-personnelles-lipdcp-et-la-harc-renforcent-leur-partenariat-2/)** — IPDCP (Togo), 20 October 2026
 
 Togo's data protection authority IPDCP has placed a team in the media regulator HARC's monitoring service, under an agreement the two signed on 10 December 2025. The team will check how the press handles personal data and respond with guidance, awareness work or, where needed, legal measures.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection authority's practical guides for media, health and civil registration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Journée Nationale de la Protection des données personnelles : le Togo mise sur la souveraineté numérique | Levisionnaire](https://levisionnaire.tg/journee-nationale-de-la-protection-des-donnees-personnelles-le-togo-mise-sur-la-souverainete-numerique/)** — Le Visionnaire, 29 October 2026
+
+Togo's data-protection authority IPDCP held the country's first national data-protection day in Lomé on 29 October 2026. Its peers from Benin, Mali, Burkina Faso and Senegal attended. IPDCP named three priorities: enforcing the rules, including on biometrics and data transfers abroad; national and regional hosting, including sovereign cloud; and training data-protection correspondents.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Qu’est-ce que la Journée Nationale de la Protection des Données Personnelles (JNPDP) ? - IPDCP](https://ipdcp.tg/quest-ce-que-la-journee-nationale-de-la-protection-des-donnees-personnelles-jnpdp/)** — IPDCP, 29 October 2026
+
+Togo's data-protection authority IPDCP set its national data-protection day on 29 October, the date of Law 2019-014 on personal data protection. The first edition, in 2026, took data governance and digital sovereignty as its theme. The day itself is summarised under the Le Visionnaire report of the same date.
 
 </div>
 
@@ -837,6 +859,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[Togo launches digitalisation of plant import permits to facilitate agricultural trade - Global Alliance for Trade Facilitation](https://www.tradefacilitation.org/2026/10/togo-launches-digitalisation-of-plant-import-permits/)** — Global Alliance for Trade Facilitation, 9 October 2026
 
 The Global Alliance for Trade Facilitation launched a project in Lomé on 9 October 2026 to replace Togo's paper plant import permit with an electronic permit system for the Directorate of Agricultural Production. It is the Alliance's second digitalisation project in Togo after ePhyto, implemented through GIZ and funded by the European Union and the German government. No timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic government procurement system (e-GP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo : 4 consultants recherchés pour préparer la passation électronique des marchés publics](https://www.togofirst.com/fr/gouvernance-economique/2610-20450-togo-4-consultants-recherches-pour-preparer-la-passation-electronique-des-marches-publics)** — Togo First, 26 October 2026
+
+Four 12-month posts, applications to 18 Nov 2026; no go-live date set; part of World Bank-backed reform programme.
 
 </div>
 
