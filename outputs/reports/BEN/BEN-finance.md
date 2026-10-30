@@ -1,13 +1,13 @@
 ---
 title: Benin: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: BEN
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">127</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">215</td><td class="num">64</td><td class="num total">406</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">100</td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">104</td></tr>
@@ -34,7 +34,7 @@ place: BEN
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">15</td><td class="num">16</td><td class="num">15</td><td class="num total">47</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">3</td><td class="num">8</td><td class="num">11</td><td class="num total">22</td></tr>
@@ -60,7 +60,7 @@ place: BEN
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">127</td><td class="num zero"></td><td class="num zero"></td><td class="num">215</td><td class="num">60</td><td class="num total">402</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">100</td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">102</td></tr>

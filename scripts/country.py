@@ -360,9 +360,10 @@ def pivot(rows: list[dict], year_col: str = "start_year", amount=usd_m,
     # **"Topic", not "Sector"** *(Bill, 2026-08-25)*: a reader arriving from the Topics tab reads
     # these rows as topics, and "sector" collides with the economic sense the finance vocabulary
     # uses elsewhere. The CSV column followed on 2026-09-30 and is `primary_topic` (Bill: one word,
-    # topic, across the site); editions before that date carry `sector`.
+    # topic, across the site); editions before that date carry `sector`. The unit rides in the
+    # corner cell, which every copy of the table carries (Bill, 2026-10-30).
     return f"""<div class="table-scroll"><table class="pivot">
-        <thead><tr><th scope="col">Topic</th>{head}<th class="num total">Total</th></tr></thead>
+        <thead><tr><th scope="col">Topic (USDm)</th>{head}<th class="num total">Total</th></tr></thead>
         <tbody>
 {chr(10).join(body)}
         </tbody>

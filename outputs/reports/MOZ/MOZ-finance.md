@@ -1,13 +1,13 @@
 ---
 title: Mozambique: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: MOZ
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">304</td><td class="num">200</td><td class="num zero"></td><td class="num zero"></td><td class="num">202</td><td class="num zero"></td><td class="num total">706</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num">17</td><td class="num">18</td><td class="num">13</td><td class="num total">198</td></tr>
@@ -36,7 +36,7 @@ place: MOZ
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">17</td><td class="num">18</td><td class="num">13</td><td class="num total">48</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num">19</td><td class="num">4</td><td class="num total">23</td></tr>
@@ -62,7 +62,7 @@ place: MOZ
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">304</td><td class="num">200</td><td class="num zero"></td><td class="num">200</td><td class="num zero"></td><td class="num total">704</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">150</td></tr>

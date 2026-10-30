@@ -1,13 +1,13 @@
 ---
 title: Eswatini: finance
-compiled: 2026-10-23
+compiled: 2026-10-30
 place: SWZ
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">4</td><td class="num zero"></td><td class="num">20</td><td class="num total">24</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">10</td><td class="num">3</td><td class="num">4</td><td class="num">3</td><td class="num total">19</td></tr>
@@ -29,7 +29,7 @@ place: SWZ
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">4</td><td class="num">3</td><td class="num">4</td><td class="num total">10</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">2</td><td class="num">3</td><td class="num">5</td><td class="num total">10</td></tr>
@@ -52,7 +52,7 @@ place: SWZ
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">20</td><td class="num total">20</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">10</td><td class="num zero"></td><td class="num total">10</td></tr>

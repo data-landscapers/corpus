@@ -1,13 +1,13 @@
 ---
 title: Burundi: finance
-compiled: 2026-10-27
+compiled: 2026-10-30
 place: BDI
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">43</td><td class="num">8</td><td class="num">15</td><td class="num total">66</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">50</td><td class="num">1</td><td class="num">2</td><td class="num">8</td><td class="num total">60</td></tr>
@@ -32,7 +32,7 @@ place: BDI
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num">8</td><td class="num">15</td><td class="num total">24</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">8</td><td class="num">3</td><td class="num">3</td><td class="num total">14</td></tr>
@@ -56,7 +56,7 @@ place: BDI
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">50</td><td class="num zero"></td><td class="num">6</td><td class="num total">56</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">42</td><td class="num zero"></td><td class="num total">42</td></tr>

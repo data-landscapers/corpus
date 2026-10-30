@@ -1,13 +1,13 @@
 ---
 title: Eritrea: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: ERI
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">National statistics</th><td class="num">2</td><td class="num total">2</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num total">0</td></tr>
@@ -26,7 +26,7 @@ place: ERI
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">National statistics</th><td class="num">2</td><td class="num total">2</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num total">0</td></tr>

@@ -1,13 +1,13 @@
 ---
 title: Côte d'Ivoire: finance
-compiled: 2026-10-23
+compiled: 2026-10-30
 place: CIV
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">588</td><td class="num zero"></td><td class="num">86</td><td class="num">53</td><td class="num">84</td><td class="num">59</td><td class="num total">870</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">44</td><td class="num">208</td><td class="num">59</td><td class="num total">311</td></tr>
@@ -43,7 +43,7 @@ place: CIV
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">44</td><td class="num">58</td><td class="num">59</td><td class="num total">161</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">31</td><td class="num">37</td><td class="num">59</td><td class="num total">127</td></tr>
@@ -80,7 +80,7 @@ place: CIV
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">588</td><td class="num zero"></td><td class="num">86</td><td class="num">22</td><td class="num">47</td><td class="num zero"></td><td class="num total">743</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">66</td><td class="num">104</td><td class="num total">170</td></tr>

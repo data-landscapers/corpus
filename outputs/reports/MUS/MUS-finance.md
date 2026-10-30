@@ -1,13 +1,13 @@
 ---
 title: Mauritius: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: MUS
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">80</td><td class="num">&lt;1</td><td class="num">8</td><td class="num">17</td><td class="num">21</td><td class="num total">125</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num">25</td><td class="num">22</td><td class="num total">59</td></tr>
@@ -38,7 +38,7 @@ place: MUS
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">12</td><td class="num">25</td><td class="num">22</td><td class="num total">59</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">8</td><td class="num">17</td><td class="num">21</td><td class="num total">45</td></tr>
@@ -70,7 +70,7 @@ place: MUS
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">80</td><td class="num">&lt;1</td><td class="num total">80</td></tr>
 </tbody>

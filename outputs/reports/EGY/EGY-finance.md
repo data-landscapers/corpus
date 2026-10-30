@@ -1,13 +1,13 @@
 ---
 title: Egypt: finance
-compiled: 2026-10-29
+compiled: 2026-10-30
 place: EGY
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Data Storage</th><td class="num">135</td><td class="num">337</td><td class="num">315</td><td class="num zero"></td><td class="num">400</td><td class="num total">1,187</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">100</td><td class="num">210</td><td class="num">197</td><td class="num">230</td><td class="num total">737</td></tr>
@@ -32,7 +32,7 @@ place: EGY
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">210</td><td class="num">197</td><td class="num">230</td><td class="num total">637</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">12</td><td class="num">43</td><td class="num">72</td><td class="num total">127</td></tr>
@@ -54,7 +54,7 @@ place: EGY
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Data Storage</th><td class="num">135</td><td class="num">337</td><td class="num">315</td><td class="num zero"></td><td class="num">400</td><td class="num total">1,187</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">100</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">100</td></tr>

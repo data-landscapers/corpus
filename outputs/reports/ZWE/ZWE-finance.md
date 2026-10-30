@@ -1,13 +1,13 @@
 ---
 title: Zimbabwe: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: ZWE
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">527</td><td class="num zero"></td><td class="num">22</td><td class="num">55</td><td class="num">33</td><td class="num total">637</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">17</td><td class="num">28</td><td class="num">26</td><td class="num total">72</td></tr>
@@ -32,7 +32,7 @@ place: ZWE
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">22</td><td class="num">55</td><td class="num">33</td><td class="num total">110</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">17</td><td class="num">28</td><td class="num">26</td><td class="num total">72</td></tr>
@@ -57,7 +57,7 @@ place: ZWE
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">527</td><td class="num zero"></td><td class="num zero"></td><td class="num total">527</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">23</td><td class="num zero"></td><td class="num zero"></td><td class="num total">23</td></tr>

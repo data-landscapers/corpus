@@ -1,13 +1,13 @@
 ---
 title: Botswana: finance
-compiled: 2026-10-24
+compiled: 2026-10-30
 place: BWA
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">72</td><td class="num">80</td><td class="num">118</td><td class="num total">273</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">16</td><td class="num">17</td><td class="num">14</td><td class="num total">47</td></tr>
@@ -34,7 +34,7 @@ place: BWA
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">72</td><td class="num">80</td><td class="num">118</td><td class="num total">270</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">16</td><td class="num">17</td><td class="num">14</td><td class="num total">47</td></tr>
@@ -60,7 +60,7 @@ place: BWA
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num total">5</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>

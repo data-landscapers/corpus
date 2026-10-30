@@ -1,13 +1,13 @@
 ---
 title: Sierra Leone: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: SLE
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">132</td><td class="num">51</td><td class="num zero"></td><td class="num">7</td><td class="num">60</td><td class="num">24</td><td class="num total">273</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">5</td><td class="num">19</td><td class="num total">26</td></tr>
@@ -38,7 +38,7 @@ place: SLE
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">National statistics</th><td class="num">1</td><td class="num">5</td><td class="num">19</td><td class="num total">25</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">7</td><td class="num">10</td><td class="num">9</td><td class="num total">25</td></tr>
@@ -68,7 +68,7 @@ place: SLE
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">132</td><td class="num">51</td><td class="num zero"></td><td class="num">50</td><td class="num">15</td><td class="num total">248</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num">21</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">21</td></tr>

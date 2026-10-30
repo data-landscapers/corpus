@@ -1,13 +1,13 @@
 ---
 title: Madagascar: finance
-compiled: 2026-10-26
+compiled: 2026-10-30
 place: MDG
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">55</td><td class="num zero"></td><td class="num">135</td><td class="num">11</td><td class="num">11</td><td class="num zero"></td><td class="num total">213</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">143</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num zero"></td><td class="num total">149</td></tr>
@@ -30,7 +30,7 @@ place: MDG
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">11</td><td class="num">11</td><td class="num zero"></td><td class="num total">23</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num">1</td><td class="num">5</td><td class="num total">8</td></tr>
@@ -53,7 +53,7 @@ place: MDG
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">55</td><td class="num zero"></td><td class="num">135</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">190</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">143</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">143</td></tr>

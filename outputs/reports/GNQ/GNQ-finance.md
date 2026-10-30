@@ -1,13 +1,13 @@
 ---
 title: Equatorial Guinea: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: GNQ
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">402</td><td class="num">3</td><td class="num zero"></td><td class="num">3</td><td class="num total">408</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">70</td><td class="num">12</td><td class="num">3</td><td class="num">6</td><td class="num total">90</td></tr>
@@ -35,7 +35,7 @@ place: GNQ
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">National statistics</th><td class="num">17</td><td class="num">4</td><td class="num">13</td><td class="num total">34</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">12</td><td class="num">3</td><td class="num">6</td><td class="num total">20</td></tr>
@@ -64,7 +64,7 @@ place: GNQ
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">402</td><td class="num total">402</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">70</td><td class="num total">70</td></tr>

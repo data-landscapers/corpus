@@ -1,13 +1,13 @@
 ---
 title: Togo: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: TGO
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">20</td><td class="num zero"></td><td class="num">162</td><td class="num">7</td><td class="num">7</td><td class="num total">197</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">28</td><td class="num">24</td><td class="num">63</td><td class="num total">114</td></tr>
@@ -33,7 +33,7 @@ place: TGO
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">6</td><td class="num">8</td><td class="num">17</td><td class="num total">31</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">8</td><td class="num">7</td><td class="num">7</td><td class="num total">23</td></tr>
@@ -59,7 +59,7 @@ place: TGO
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">20</td><td class="num zero"></td><td class="num">154</td><td class="num zero"></td><td class="num zero"></td><td class="num total">174</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">22</td><td class="num">16</td><td class="num">46</td><td class="num total">84</td></tr>

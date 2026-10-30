@@ -7,7 +7,7 @@ place: ZAF
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Data Storage</th><td class="num">1,206</td><td class="num">160</td><td class="num">1,700</td><td class="num">846</td><td class="num">1,606</td><td class="num">438</td><td class="num total">5,956</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">809</td><td class="num">700</td><td class="num">27</td><td class="num">458</td><td class="num">71</td><td class="num">1,462</td><td class="num total">3,527</td></tr>
@@ -40,7 +40,7 @@ place: ZAF
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">174</td><td class="num">205</td><td class="num">219</td><td class="num total">599</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">142</td><td class="num">159</td><td class="num">168</td><td class="num total">470</td></tr>
@@ -71,7 +71,7 @@ place: ZAF
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Data Storage</th><td class="num">1,206</td><td class="num">160</td><td class="num">1,700</td><td class="num">846</td><td class="num">1,606</td><td class="num">438</td><td class="num total">5,956</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">809</td><td class="num">700</td><td class="num">27</td><td class="num">417</td><td class="num zero"></td><td class="num">1,417</td><td class="num total">3,370</td></tr>

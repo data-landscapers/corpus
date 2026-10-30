@@ -1,13 +1,13 @@
 ---
 title: Mali: finance
-compiled: 2026-10-25
+compiled: 2026-10-30
 place: MLI
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">277</td><td class="num">80</td><td class="num">&lt;1</td><td class="num total">356</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">187</td><td class="num zero"></td><td class="num">3</td><td class="num">5</td><td class="num">5</td><td class="num total">201</td></tr>
@@ -36,7 +36,7 @@ place: MLI
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">National statistics</th><td class="num">7</td><td class="num">11</td><td class="num">9</td><td class="num total">27</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">4</td><td class="num">8</td><td class="num">11</td><td class="num total">22</td></tr>
@@ -65,7 +65,7 @@ place: MLI
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">256</td><td class="num">79</td><td class="num total">335</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">187</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">187</td></tr>

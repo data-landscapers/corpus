@@ -1,13 +1,13 @@
 ---
 title: Namibia: finance
-compiled: 2026-10-23
+compiled: 2026-10-30
 place: NAM
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">6</td><td class="num">36</td><td class="num">22</td><td class="num total">64</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">8</td><td class="num">10</td><td class="num">26</td><td class="num total">45</td></tr>
@@ -31,7 +31,7 @@ place: NAM
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">8</td><td class="num">10</td><td class="num">12</td><td class="num total">31</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">6</td><td class="num">11</td><td class="num">9</td><td class="num total">25</td></tr>
@@ -56,7 +56,7 @@ place: NAM
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">34</td><td class="num">22</td><td class="num total">56</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">14</td><td class="num total">14</td></tr>

@@ -1,13 +1,13 @@
 ---
 title: Niger: finance
-compiled: 2026-10-24
+compiled: 2026-10-30
 place: NER
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Access to services</th><td class="num">100</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">100</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">16</td><td class="num">12</td><td class="num total">29</td></tr>
@@ -41,7 +41,7 @@ place: NER
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num">16</td><td class="num">12</td><td class="num total">29</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">2</td><td class="num">2</td><td class="num">4</td><td class="num total">8</td></tr>
@@ -75,7 +75,7 @@ place: NER
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Access to services</th><td class="num">100</td><td class="num zero"></td><td class="num total">100</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">8</td><td class="num">2</td><td class="num total">10</td></tr>

@@ -1,13 +1,13 @@
 ---
 title: Nigeria: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: NGA
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">748</td><td class="num">290</td><td class="num zero"></td><td class="num">7</td><td class="num">579</td><td class="num">646</td><td class="num total">2,271</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">307</td><td class="num">56</td><td class="num">15</td><td class="num">110</td><td class="num">44</td><td class="num">9</td><td class="num total">541</td></tr>
@@ -39,7 +39,7 @@ place: NGA
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">National statistics</th><td class="num">18</td><td class="num">30</td><td class="num">27</td><td class="num total">75</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">7</td><td class="num">37</td><td class="num">29</td><td class="num total">73</td></tr>
@@ -71,7 +71,7 @@ place: NGA
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">748</td><td class="num">290</td><td class="num zero"></td><td class="num">2</td><td class="num">564</td><td class="num">635</td><td class="num total">2,239</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">307</td><td class="num">56</td><td class="num">15</td><td class="num">110</td><td class="num">43</td><td class="num">8</td><td class="num total">539</td></tr>

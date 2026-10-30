@@ -1,13 +1,13 @@
 ---
 title: Algeria: finance
-compiled: 2026-10-29
+compiled: 2026-10-30
 place: DZA
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">84</td><td class="num">95</td><td class="num">94</td><td class="num total">273</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">18</td><td class="num">28</td><td class="num">29</td><td class="num total">75</td></tr>
@@ -29,7 +29,7 @@ place: DZA
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">84</td><td class="num">95</td><td class="num">94</td><td class="num total">273</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">18</td><td class="num">28</td><td class="num">29</td><td class="num total">75</td></tr>
@@ -52,7 +52,7 @@ place: DZA
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>

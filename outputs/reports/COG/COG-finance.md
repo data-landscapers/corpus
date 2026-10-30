@@ -1,13 +1,13 @@
 ---
 title: Congo: finance
-compiled: 2026-10-25
+compiled: 2026-10-30
 place: COG
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">249</td><td class="num">100</td><td class="num">2</td><td class="num">4</td><td class="num">27</td><td class="num total">382</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">43</td><td class="num">5</td><td class="num">11</td><td class="num">16</td><td class="num total">74</td></tr>
@@ -24,7 +24,7 @@ place: COG
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">2</td><td class="num">4</td><td class="num">27</td><td class="num total">33</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">5</td><td class="num">11</td><td class="num">16</td><td class="num total">31</td></tr>
@@ -40,7 +40,7 @@ place: COG
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">249</td><td class="num">100</td><td class="num zero"></td><td class="num total">349</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">43</td><td class="num zero"></td><td class="num total">43</td></tr>

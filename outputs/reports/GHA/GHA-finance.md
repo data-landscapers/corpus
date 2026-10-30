@@ -7,7 +7,7 @@ place: GHA
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">262</td><td class="num">421</td><td class="num zero"></td><td class="num">33</td><td class="num">30</td><td class="num">1,335</td><td class="num total">2,080</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">290</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">9</td><td class="num">9</td><td class="num total">308</td></tr>
@@ -36,7 +36,7 @@ place: GHA
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">25</td><td class="num">60</td><td class="num">38</td><td class="num total">123</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">33</td><td class="num">20</td><td class="num">35</td><td class="num total">87</td></tr>
@@ -62,7 +62,7 @@ place: GHA
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">262</td><td class="num">421</td><td class="num zero"></td><td class="num">10</td><td class="num">1,300</td><td class="num total">1,993</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">290</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">290</td></tr>

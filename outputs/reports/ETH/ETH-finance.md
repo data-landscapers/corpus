@@ -1,13 +1,13 @@
 ---
 title: Ethiopia: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: ETH
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">200</td><td class="num">76</td><td class="num">1,257</td><td class="num">263</td><td class="num">15</td><td class="num">212</td><td class="num total">2,022</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">350</td><td class="num">57</td><td class="num">52</td><td class="num">91</td><td class="num total">550</td></tr>
@@ -44,7 +44,7 @@ place: ETH
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">57</td><td class="num">52</td><td class="num">91</td><td class="num total">200</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">51</td><td class="num">16</td><td class="num">9</td><td class="num total">76</td></tr>
@@ -76,7 +76,7 @@ place: ETH
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">200</td><td class="num">76</td><td class="num">1,257</td><td class="num">243</td><td class="num zero"></td><td class="num">174</td><td class="num total">1,950</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">350</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">350</td></tr>

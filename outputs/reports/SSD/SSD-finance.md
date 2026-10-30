@@ -1,13 +1,13 @@
 ---
 title: South Sudan: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: SSD
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">National statistics</th><td class="num">57</td><td class="num">59</td><td class="num total">115</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">3</td><td class="num">8</td><td class="num total">11</td></tr>
@@ -30,7 +30,7 @@ place: SSD
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">National statistics</th><td class="num">57</td><td class="num">59</td><td class="num total">115</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">3</td><td class="num">8</td><td class="num total">11</td></tr>
@@ -53,7 +53,7 @@ place: SSD
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Energy</th><td class="num zero"></td><td class="num">5</td><td class="num total">5</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">5</td><td class="num zero"></td><td class="num total">5</td></tr>

@@ -7,7 +7,7 @@ place: MAR
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1,200</td><td class="num zero"></td><td class="num total">1,200</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">825</td><td class="num">225</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1,051</td></tr>
@@ -35,7 +35,7 @@ place: MAR
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">104</td><td class="num">293</td><td class="num">84</td><td class="num">58</td><td class="num total">539</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">64</td><td class="num">59</td><td class="num">49</td><td class="num">49</td><td class="num total">221</td></tr>
@@ -61,7 +61,7 @@ place: MAR
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1,200</td><td class="num total">1,200</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">825</td><td class="num">225</td><td class="num zero"></td><td class="num">1</td><td class="num total">1,051</td></tr>

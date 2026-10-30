@@ -1,13 +1,13 @@
 ---
 title: Angola: finance
-compiled: 2026-10-27
+compiled: 2026-10-30
 place: AGO
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">66</td><td class="num zero"></td><td class="num">249</td><td class="num">304</td><td class="num">142</td><td class="num">176</td><td class="num total">936</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">80</td><td class="num zero"></td><td class="num zero"></td><td class="num">39</td><td class="num">76</td><td class="num">166</td><td class="num total">361</td></tr>
@@ -35,7 +35,7 @@ place: AGO
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">4</td><td class="num">132</td><td class="num">76</td><td class="num total">211</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">39</td><td class="num">76</td><td class="num">79</td><td class="num total">194</td></tr>
@@ -63,7 +63,7 @@ place: AGO
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">66</td><td class="num zero"></td><td class="num">249</td><td class="num">300</td><td class="num">10</td><td class="num">100</td><td class="num total">725</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">243</td><td class="num zero"></td><td class="num total">243</td></tr>

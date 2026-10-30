@@ -1,13 +1,13 @@
 ---
 title: Rwanda: finance
-compiled: 2026-10-22
+compiled: 2026-10-30
 place: RWA
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">300</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">45</td><td class="num zero"></td><td class="num total">345</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">7</td><td class="num">276</td><td class="num zero"></td><td class="num">9</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">292</td></tr>
@@ -40,7 +40,7 @@ place: RWA
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">15</td><td class="num">13</td><td class="num">11</td><td class="num total">39</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">8</td><td class="num">11</td><td class="num">11</td><td class="num total">30</td></tr>
@@ -72,7 +72,7 @@ place: RWA
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">300</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">44</td><td class="num zero"></td><td class="num total">344</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">7</td><td class="num">276</td><td class="num zero"></td><td class="num">9</td><td class="num zero"></td><td class="num zero"></td><td class="num total">292</td></tr>

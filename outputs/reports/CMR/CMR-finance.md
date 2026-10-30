@@ -1,13 +1,13 @@
 ---
 title: Cameroon: finance
-compiled: 2026-10-26
+compiled: 2026-10-30
 place: CMR
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">720</td><td class="num zero"></td><td class="num zero"></td><td class="num">30</td><td class="num">279</td><td class="num">342</td><td class="num total">1,371</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">172</td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">28</td><td class="num">96</td><td class="num total">303</td></tr>
@@ -35,7 +35,7 @@ place: CMR
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">30</td><td class="num">54</td><td class="num">72</td><td class="num total">156</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">7</td><td class="num">16</td><td class="num">96</td><td class="num total">119</td></tr>
@@ -57,7 +57,7 @@ place: CMR
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">720</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">225</td><td class="num">270</td><td class="num total">1,215</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">42</td><td class="num zero"></td><td class="num zero"></td><td class="num">108</td><td class="num">66</td><td class="num zero"></td><td class="num total">216</td></tr>

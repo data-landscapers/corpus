@@ -7,7 +7,7 @@ place: SEN
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">120</td><td class="num zero"></td><td class="num">150</td><td class="num">67</td><td class="num zero"></td><td class="num">7</td><td class="num">6</td><td class="num total">350</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">134</td><td class="num">31</td><td class="num zero"></td><td class="num">20</td><td class="num">72</td><td class="num">69</td><td class="num">10</td><td class="num total">336</td></tr>
@@ -34,7 +34,7 @@ place: SEN
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">20</td><td class="num">14</td><td class="num">17</td><td class="num">10</td><td class="num total">61</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">6</td><td class="num total">13</td></tr>
@@ -56,7 +56,7 @@ place: SEN
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">120</td><td class="num zero"></td><td class="num">150</td><td class="num">67</td><td class="num zero"></td><td class="num zero"></td><td class="num total">337</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">134</td><td class="num">31</td><td class="num zero"></td><td class="num zero"></td><td class="num">58</td><td class="num">52</td><td class="num total">274</td></tr>

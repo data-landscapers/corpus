@@ -7,7 +7,7 @@ place: COD
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">61</td><td class="num">10</td><td class="num">33</td><td class="num">15</td><td class="num">56</td><td class="num">1,657</td><td class="num">23</td><td class="num total">1,855</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">414</td><td class="num">160</td><td class="num">23</td><td class="num">45</td><td class="num total">648</td></tr>
@@ -36,7 +36,7 @@ place: COD
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Cybersecurity</th><td class="num">13</td><td class="num">17</td><td class="num">59</td><td class="num">52</td><td class="num total">139</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">14</td><td class="num">51</td><td class="num">23</td><td class="num">45</td><td class="num total">133</td></tr>
@@ -66,7 +66,7 @@ place: COD
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">61</td><td class="num">10</td><td class="num">33</td><td class="num zero"></td><td class="num">40</td><td class="num">1,634</td><td class="num total">1,778</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">400</td><td class="num">109</td><td class="num zero"></td><td class="num total">515</td></tr>

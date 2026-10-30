@@ -1,13 +1,13 @@
 ---
 title: Uganda: finance
-compiled: 2026-10-25
+compiled: 2026-10-30
 place: UGA
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">292</td><td class="num zero"></td><td class="num">163</td><td class="num">58</td><td class="num">8</td><td class="num">15</td><td class="num total">537</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">13</td><td class="num zero"></td><td class="num">40</td><td class="num">162</td><td class="num">57</td><td class="num total">272</td></tr>
@@ -36,7 +36,7 @@ place: UGA
 ## Public budgeting and expenditure
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">62</td><td class="num">87</td><td class="num">58</td><td class="num total">207</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">40</td><td class="num">49</td><td class="num">57</td><td class="num total">146</td></tr>
@@ -63,7 +63,7 @@ place: UGA
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">292</td><td class="num zero"></td><td class="num">163</td><td class="num">12</td><td class="num zero"></td><td class="num zero"></td><td class="num total">467</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">13</td><td class="num zero"></td><td class="num zero"></td><td class="num">113</td><td class="num zero"></td><td class="num total">126</td></tr>
