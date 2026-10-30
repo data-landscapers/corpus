@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "AGO-003",
       "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "note": "Conecta Angola had reached more than 300,000 people by October 2024, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-10-30"
     }
   ]
 }

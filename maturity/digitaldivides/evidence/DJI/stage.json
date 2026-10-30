@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "2",
-   "programme": "underway",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001",
-   "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "2",
+      "programme": "underway",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001",
+      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
+      "note": "A draft decree and operations guide for a universal service fund were delivered in April 2026, so a programme is being prepared. Nothing is built, so not 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "2",
-   "programme": "underway",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-001;MLI-002",
-   "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "2",
+      "programme": "underway",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001;MLI-002",
+      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
+      "note": "AGEFAU's revised 2026 programme funds coverage of 162 localities, so a programme is under way. None is counted as connected, so not 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

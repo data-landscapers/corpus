@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "no evidence",
-   "programme": "",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether rural areas are being connected or how far rural internet use lags urban.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "no evidence",
+      "programme": "",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says whether rural areas are being connected or how far rural internet use lags urban.",
+      "note": "No row is held on a rural connectivity programme or on the rural and urban gap.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

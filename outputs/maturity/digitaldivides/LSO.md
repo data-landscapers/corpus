@@ -2,7 +2,7 @@
 
 ## Rural internet gap
 
-**Rural connectivity programme.** [The Lesotho Communications Authority's annual report 2024/25 states the Universal Service Fund, established under s.33 of the Communications Act 2012, funds telecommunications extension to unserved and underserved areas](<https://lca.org.ls/wp-content/uploads/filr/4278/Annual-Report-2024-25-2-1.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Rural connectivity programme.** [The Lesotho Communications Authority's annual report 2024/25 says the Universal Service Fund pays to extend telecommunications](<https://lca.org.ls/wp-content/uploads/filr/4278/Annual-Report-2024-25-2-1.pdf>). [It serves unserved and underserved areas, under section 33 of the Communications Act 2012](<https://lca.org.ls/wp-content/uploads/filr/4278/Annual-Report-2024-25-2-1.pdf>). It is the only fact held on the subject. No news story or official notice read for this study says more about it. The documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Gap measured.** No source found since October 2023 gives internet use in rural and in urban areas. The nearest held fact: [the one given above](<https://lca.org.ls/wp-content/uploads/filr/4278/Annual-Report-2024-25-2-1.pdf>).
 

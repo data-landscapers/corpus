@@ -9,10 +9,10 @@
       "narrow": "narrow",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-002",
+      "stage_sources": "CPV-002;CPV-001",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "note": "INE's 2025 survey gives internet use of 68.8% rural against 80.0% urban among people aged 10 and over, rural use 86% of urban. That is the top rung.",
+      "as_at": "2026-10-30"
     }
   ]
 }

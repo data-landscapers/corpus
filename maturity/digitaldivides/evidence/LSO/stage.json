@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "2",
-   "programme": "underway",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001",
-   "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "2",
+      "programme": "underway",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-001",
+      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
+      "note": "The 2024/25 annual report says the Universal Service Fund funds extension to unserved areas, so a programme is under way. No site is counted, so not 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

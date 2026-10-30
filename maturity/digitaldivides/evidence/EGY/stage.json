@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "EGY-001",
       "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "note": "Decent Life had completed mobile coverage in 901 of 1,164 villages by September 2025, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-10-30"
     }
   ]
 }

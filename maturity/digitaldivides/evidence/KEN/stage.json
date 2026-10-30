@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-002",
-      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a programme has connected a stated number of rural sites; the KDHS 2022 figures predate the window.",
+      "note": "The USF Strategy 2023-2027 plans 2,500 km of fibre for unserved areas, so a programme is under way. The sites counted for 2015-2021 and the 2022 KDHS figures predate the window, so not 3.",
+      "as_at": "2026-10-30"
     }
   ]
 }

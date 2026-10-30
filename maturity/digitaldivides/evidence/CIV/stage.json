@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CIV-006",
       "gaps": "No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "note": "ITU DataHub figures cited in September 2025 give internet use of 52.7% urban and 24.6% rural, so the gap is measured. Rural use is under half the urban rate, so not 5.",
+      "as_at": "2026-10-30"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "4",
-   "programme": "delivering",
-   "measured": "measured",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-003",
-   "gaps": "No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "3",
+      "programme": "delivering",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-013;BFA-011",
+      "gaps": "No household survey or statistics office figure since October 2023 gives the share of people using the internet in rural and in urban areas.",
+      "note": "Over 400 white-zone localities were covered in 2025 and 138 in 2024, so a programme is delivering. The rural and urban figures shown at a justice forum in June 2026 measure access and name no survey, so not 4, as for Kenya's household figures.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

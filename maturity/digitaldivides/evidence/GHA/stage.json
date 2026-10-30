@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GHA-009;GHA-004",
       "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-17"
+      "note": "About 1,400 Rural Telephony Project sites carried traffic in September 2026, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-10-30"
     }
   ]
 }

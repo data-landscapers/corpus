@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "2",
-   "programme": "underway",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "2",
+      "programme": "underway",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001",
+      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
+      "note": "ANSUTEN presented a white-zone feasibility study in July 2025 with a tender to follow, so a programme is being prepared. No site is counted, so not 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

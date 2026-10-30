@@ -9,10 +9,10 @@
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-004",
+      "stage_sources": "NGA-005;NGA-003",
       "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "note": "The first NUCAP base station was serving Bende in October 2026, so a programme is delivering; the UNICEF schools partnership no longer sets the rung. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-10-30"
     }
   ]
 }

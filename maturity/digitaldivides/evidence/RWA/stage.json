@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether a programme to connect rural areas is under way.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "note": "The only row is the EICV5 household figure for 2016/17, before the three-year window, so it sets no rung.",
+      "as_at": "2026-10-30"
     }
   ]
 }

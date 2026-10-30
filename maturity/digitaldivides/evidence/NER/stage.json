@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "3",
-   "programme": "delivering",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-003",
-   "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "3",
+      "programme": "delivering",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-003",
+      "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
+      "note": "Smart Villages had brought mobile broadband to 780 villages by August 2025, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

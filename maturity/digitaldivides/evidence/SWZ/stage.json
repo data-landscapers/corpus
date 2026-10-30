@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "2",
-   "programme": "underway",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001;SWZ-003",
-   "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "2",
+      "programme": "underway",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-003;SWZ-001",
+      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
+      "note": "The Eswatini Digital Project funds last-mile connectivity for underserved rural areas, so a programme is under way. The Macetjeni iHub is a skills centre, not a counted connection, so not 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

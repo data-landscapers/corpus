@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BWA-003;BWA-005",
       "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "note": "The Universal Access and Service Fund had connected 279 villages by March 2025, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-10-30"
     }
   ]
 }

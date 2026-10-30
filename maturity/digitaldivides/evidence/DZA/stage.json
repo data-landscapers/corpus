@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "2",
-   "programme": "underway",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-003;DZA-002",
-   "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "2",
+      "programme": "underway",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-003;DZA-002",
+      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
+      "note": "A tender for 3,000 localities and an award of 201 4G sites followed in September 2026, so a programme is under way. No site is counted as in service, so not 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

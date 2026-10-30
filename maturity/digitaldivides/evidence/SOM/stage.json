@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "4",
-   "programme": "delivering",
-   "measured": "measured",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "2",
+      "programme": "underway",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-002",
+      "gaps": "No source since October 2023 counts sites a rural programme has connected; the 2023 survey figures give access to internet connections, not the share of people using it.",
+      "note": "The 2025 Digital Inclusion Policy budgets a roadmap for underserved areas, but no site is counted as connected, so not 3. The ICT Survey 2023 figures measure access to internet connections, not people using it, so they set no higher rung.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

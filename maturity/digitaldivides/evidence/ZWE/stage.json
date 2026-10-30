@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "3",
-   "programme": "delivering",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-002",
-   "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "3",
+      "programme": "delivering",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-002",
+      "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
+      "note": "The minister said in September 2026 that more than 10,000 remote sites had been connected, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

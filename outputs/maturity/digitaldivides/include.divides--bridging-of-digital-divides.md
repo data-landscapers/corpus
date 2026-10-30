@@ -1,6 +1,6 @@
 # Bridging of digital divides: rural internet gap
 
-*As at 2026-10-18.*
+*As at 2026-10-30.*
 
 ## The norm
 
@@ -21,9 +21,9 @@ The Digital Transformation Strategy asks for universal, equitable and affordable
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 4 |
-| 3 Established | 17 |
-| 2 Nascent | 22 |
+| 4 Operating | 2 |
+| 3 Established | 18 |
+| 2 Nascent | 23 |
 | 1 Absent | 0 |
 | Unplaced | 5 |
 | No evidence | 5 |
@@ -35,12 +35,7 @@ The Digital Transformation Strategy asks for universal, equitable and affordable
 Rural internet use was four-fifths or more of urban in 2025.
 
 - INE's 2025 survey implies rural internet use of 68.8% (non-use 31.2%) against 80.0% urban (non-use 20.0%) among people aged 10 and over, and 69.3% of rural households with internet against 68.5% urban ([source, 2025](https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930)).
-
-### Burkina Faso: 4 Operating
-
-Rural and urban internet use were measured in 2026, rural use below four-fifths of urban.
-
-- Data presented at the National Forum on the Digitalization of Justice showed internet access of about 72% in urban areas and 27% in rural areas ([source, 2026-06-03](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-issues-600-000-criminal-records-online-but-rural-connectivity-gap-persists)).
+- INE's 2025 continuous multi-purpose survey (IMC) shows 22.7% of people aged 10 and over did not use the internet in the previous three months, 31.2% in rural areas against 20.0% in urban areas ([source, 2025](https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -54,12 +49,6 @@ Rural and urban internet use were measured in 2024, rural use below four-fifths 
 
 - HCP reported from the 2024 census that 70.2% of urban and 40.4% of rural residents aged 15 and over used the internet in the three months before the census ([source, 2024-09](https://aljarida24.ma/p/actualites/298884/)).
 
-### Somalia: 4 Operating
-
-Rural and urban internet use were measured in 2023, rural use below four-fifths of urban.
-
-- The Somalia ICT Survey 2023 found internet access of 22.7% in rural areas and 47.1% in urban areas, per the Ministry of Communications and Technology's policy document ([source, 2023](https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf)).
-
 ### Angola: 3 Established
 
 A rural connectivity programme had connected a stated number of sites or people by 2024; rural and urban use is not measured.
@@ -72,6 +61,13 @@ A rural connectivity programme had connected a stated number of sites or people 
 
 - The Universal Access and Service Fund reports 51 more villages given 4G mobile network connectivity in 2024-25, bringing 279 villages connected by March 2025, plus 37 highway sites ([source, 2025-03](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/UASF_Annual_Report_2024_25_WEB.pdf)).
 - Minister Segokgo says the government's village connectivity project, aimed at over 500 villages, had in its first phase connected 1,138 public facilities across 144 villages ([source, 2024-08](https://dailynews.gov.bw/news-detail/81395)).
+
+### Burkina Faso: 3 Established
+
+Over 400 rural white-zone localities were connected in 2025; rural and urban internet use is not measured by a survey.
+
+- The ministry reported covering more than 400 new white-zone localities in 2025 ([source, 2025](https://lefaso.net/spip.php?article145231)).
+- The minister said 138 white zones were covered in 2024, built with a State subsidy via the Fonds d'accès au service universel (FASU) ([source, 2024](https://www.sidwaya.info/couverture-des-zones-blanches-la-ministre-aminata-zerbo-inspecte-des-sites-de-telecommunications/)).
 
 ### Congo: 3 Established
 
@@ -140,9 +136,10 @@ A rural connectivity programme had connected a stated number of sites or people 
 
 ### Nigeria: 3 Established
 
-A rural connectivity programme had connected a stated number of sites or people by 2025; rural and urban use is not measured.
+The first tower of a national programme for unconnected communities was serving Bende in 2026; rural and urban use is not measured.
 
-- UNICEF says the GenU 9JA partnership with the Federal Ministry of Education, Airtel, ATC and IHS has extended internet infrastructure to 1,187 underserved communities ([source, 2025-02-07](https://www.unicef.org/nigeria/stories/connecting-every-child-digital-learning)).
+- Nigeria's first base station under the federal Nigeria Universal Communication Access Project (NUCAP), a 45-metre solar mast of about 8 km radius at Bende, Abia State, was reported by NIGCOMSAT's CEO to be serving a school and community hospital; the project plans 3,700 base stations ([source, 2026-10-16](https://techreviewafrica.com/news/7829/nigcomsat-ceo-highlights-impact-of-nigerias-first-nucap-base-station-o)).
+- Minister Bosun Tijani commissioned the first tower of the National Universal Communications Access Programme (NUCAP) in Bende, Abia State, and said 3,700 towers will connect about 20 million unconnected Nigerians ([source, 2026-10-16](https://www.vanguardngr.com/2026/10/fg-to-deploy-3700-telecom-towers-to-connect-20m-nigerians/)).
 
 ### Sierra Leone: 3 Established
 
@@ -226,8 +223,8 @@ A programme to bring internet to rural areas was under way in 2023; sites connec
 
 A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
 
-- ESCCOM, through the Universal Access Service Fund, co-funded and launched the Macetjeni iHub in rural Lubombo Region on 6 August 2026 with SEDCO and UNDP, giving young people, women and others internet access and digital skills training; it follows a first iHub at Piggs Peak ([source, 2026-08-06](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities)).
 - The Ministry of ICT is implementing the E1.2 billion (US$65 million) Eswatini Digital Project, with E648 million for Affordable Broadband including fibre expansion and last mile connectivity, and says it will extend connectivity to underserved rural areas ([source, 2026-06-23](https://eswatinipositivenews.online/e1-2-billion-digital-project-to-connect-schools-clinics-and-communities/)).
+- ESCCOM, through the Universal Access Service Fund, co-funded and launched the Macetjeni iHub in rural Lubombo Region on 6 August 2026 with SEDCO and UNDP, giving young people, women and others internet access and digital skills training; it follows a first iHub at Piggs Peak ([source, 2026-08-06](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities)).
 
 ### Ethiopia: 2 Nascent
 
@@ -280,6 +277,12 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 
 - Le Soleil reports that the government's New Deal Technologique provided for the State to buy 5,000 Starlink kits at a preferential rate to serve white zones, community wifi networks and the connection of schools and local authorities ([source, 2026-09-09](https://lesoleil.sn/actualites/technologie/internet-par-satellite-la-sonatel-obtient-la-suspension-provisoire-de-la-licence-de-starlink/)).
 - Le Soleil reports that the communications and telecoms minister launched deployment of free Starlink satellite kits in Kolda on 10 April 2026, a government programme to connect 1 million Senegalese free by end 2026 in remote zones, with a first lot of 200 of 1,000 kits ready ([source, 2026-04-10](https://lesoleil.sn/actualites/technologie/new-deal-technologique-alioune-sall-lance-loffensive-contre-la-fracture-numerique-a-kolda/)).
+
+### Somalia: 2 Nascent
+
+A 2025 policy plans broadband for underserved areas; no rural site is counted as connected, and internet use by area is not known.
+
+- The Ministry of Communications and Technology's Digital Inclusion Policy recommends improving broadband connectivity with priority to unserved and underserved areas, with an implementation roadmap budgeted at about $32 million over five years ([source, 2025-08](https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf)).
 
 ### South Africa: 2 Nascent
 

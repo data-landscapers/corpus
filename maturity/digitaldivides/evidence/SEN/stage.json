@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "2",
-   "programme": "underway",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-003;SEN-001",
-   "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "2",
+      "programme": "underway",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-003;SEN-001",
+      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
+      "note": "Starlink kits for white zones began deployment in Kolda in April 2026 and the FDSUT plans 1,550 localities, so a programme is under way. None is counted as connected, so not 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

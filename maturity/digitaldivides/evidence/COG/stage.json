@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COG-002;COG-007",
       "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "note": "FASUCE had deployed 254 sites in 244 localities by January 2026, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-10-30"
     }
   ]
 }

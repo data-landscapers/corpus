@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BDI-001;BDI-002",
       "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-18"
+      "note": "PAFEN and the universal service fund signed contracts in 2026 for 92 rural hills and rural 4G, so a programme is under way. None is counted as connected, so not 3.",
+      "as_at": "2026-10-30"
     }
   ]
 }
