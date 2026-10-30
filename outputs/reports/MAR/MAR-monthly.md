@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: MAR
 ledger_rows: 42
 not_held: 14
-record: 20ab59358cbc
+record: fb9aac1f7f9a
 ---
 
 # News, Sep – Oct 2026
@@ -61,6 +61,22 @@ King Mohammed VI swore in Ahmed Rahhou on 16 October 2026 as Minister of Artific
 **[SM le Roi préside la cérémonie de nomination des membres du nouveau gouvernement](https://www.maroc.ma/fr/actualites/sm-le-roi-preside-la-ceremonie-de-nomination-des-membres-du-nouveau-gouvernement)** — Maroc.ma (Government of Morocco portal), 16 October 2026
 
 King Mohammed VI presided over the swearing-in of Morocco's new government at the Royal Palace in Rabat on 16 October 2026, according to the government portal. Ahmed Rahhou heads the ministry covering artificial intelligence and digital affairs, with Aicha Guellaa as delegated minister for administration reform.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[مرسوم رقم 2.26.831 صادر في 26 أكتوبر 2026 يتعلق باختصاصات وزير الذكاء الاصطناعي والتحول الرقمي وإصلاح الإدارة](https://adala.justice.gov.ma/api/uploads/2026/10/28/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%B1%D9%82%D9%85%202.26.831%20%D9%8A%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA%20%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-1793190483463.pdf)** — Ministère de la Justice du Maroc — Adala (texte publié au Bulletin officiel / الجريدة الرسمية n° 7555, p. 7881), 26 October 2026
+
+Rahhou gets AI policy mandate, telecoms authority under law 24.96 and ADD tutelage; effective 16 October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ahmed Rahhou chargé d’élaborer la politique publique en matière d’IA](https://medias24.com/2026/10/28/ahmed-rahhou-charge-delaborer-la-politique-publique-en-matiere-dia-1785031/)** — Médias24, 28 October 2026
+
+Decree 2-26-831 of 26 Oct 2026 gives the new ministry the AI policy mandate and keeps ADD under its tutelage.
 
 </div>
 
