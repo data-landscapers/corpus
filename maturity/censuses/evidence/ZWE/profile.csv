@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZWE,census,census,coverage,taken,2024-04-17,ZWE-002;ZWE-004,,
-ZWE,census,results,coverage,,,,,nothing held
-ZWE,census,survey,coverage,published,2026-07-20,ZWE-001;ZWE-003,,
+ZWE,census,results,coverage,,,,,nothing found
+ZWE,census,survey,coverage,published,2026-07,ZWE-001;ZWE-003;ZWE-005,,

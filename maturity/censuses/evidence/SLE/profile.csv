@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,census,census,coverage,taken,2021,SLE-010;SLE-011;SLE-014;SLE-015;SLE-018,SLE-019=preparing;SLE-020=preparing;SLE-002=preparing;SLE-003=preparing;SLE-007=preparing;SLE-004=preparing;SLE-012=preparing;SLE-005=preparing;SLE-001=preparing;SLE-008=preparing;SLE-009=preparing;SLE-006=preparing;SLE-017=preparing;SLE-013=preparing,
-SLE,census,results,coverage,final,2022-09,SLE-016,,nothing dated since 2023-10-24
-SLE,census,survey,coverage,,,,,nothing held
+SLE,census,census,coverage,taken,2021,SLE-010;SLE-011;SLE-014;SLE-015;SLE-018,SLE-021=preparing;SLE-019=preparing;SLE-020=preparing;SLE-002=preparing;SLE-003=preparing;SLE-007=preparing;SLE-004=preparing;SLE-012=preparing;SLE-005=preparing;SLE-001=preparing;SLE-008=preparing;SLE-009=preparing;SLE-006=preparing;SLE-017=preparing;SLE-013=preparing,
+SLE,census,results,coverage,final,2022-09,SLE-016,,nothing dated since 2023-10-28
+SLE,census,survey,coverage,,,,,nothing found

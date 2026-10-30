@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-zwe-it-must-create-jobs-improve-services-minister",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The minister said the 2025 ICT Household Survey by ZIMSTAT and POTRAZ, released in July, shows 75.5 percent of households have home internet access and 11.2 percent own a computer.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "2025 ICT Household Survey",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2025 ICT Household Survey",
+   "country_label": "ICT Household Survey 2025",
+   "class": "census",
+   "platform": "",
+   "owner": "ZIMSTAT and POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
