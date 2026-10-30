@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-29-nam-paratus-namibia-continues-to-reshape-the-connectivity-landscape",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Paratus Namibia says it is the landing partner for the Equiano submarine cable in Namibia, also has access to WACS, and runs its own Trans-Kalahari fibre route from Windhoek to Johannesburg as another route out of the country.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Equiano; Trans-Kalahari fibre route",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Namibia",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "Namibia",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Trans-Kalahari fibre route",
+   "country_label": "Namibia",
+   "class": "route",
+   "platform": "terrestrial fibre",
+   "owner": "Paratus",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

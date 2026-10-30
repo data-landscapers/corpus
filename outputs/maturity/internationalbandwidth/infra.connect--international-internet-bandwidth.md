@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
+| 5 Leading | 9 |
 | 4 Operating | 12 |
-| 3 Established | 23 |
+| 3 Established | 22 |
 | 2 Nascent | 9 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
@@ -50,6 +50,15 @@ Two independent fibre routes abroad by 2025, and other operators buy capacity on
 
 - Submarine Networks (31 July 2025) states 2Africa has two Mozambique landing points, Maputo and Nacala, and that EASSy and SEACOM both land in Maputo, so a cable in service at Nacala is separate from those at Maputo ([source, 2025-07](https://www.submarinenetworks.com/en/systems/asia-europe-africa/2africa/wiocc-and-tmcel-partner-to-boost-2africa-connectivity-in-mozambique)).
 - WIOCC and Tmcel signed a framework agreement on 23 July 2025 in Maputo under which WIOCC delivers capacity on the 2Africa East subsea cable and terrestrial routes into South Africa to Tmcel, as reported by Submarine Networks ([source, 2025-07-23](https://www.submarinenetworks.com/en/systems/asia-europe-africa/2africa/wiocc-and-tmcel-partner-to-boost-2africa-connectivity-in-mozambique)).
+
+### Namibia: 5 Leading
+
+Namibia has two submarine cables and a land route to Johannesburg (2026), and other operators buy capacity on the Equiano cable.
+
+- Paratus Namibia says it is the landing partner for the Equiano submarine cable in Namibia, also has access to WACS, and runs its own Trans-Kalahari fibre route from Windhoek to Johannesburg as another route out of the country ([source, 2026-10-29](https://paratus.africa/namibia/news/paratus-namibia-continues-to-reshape-the-connectivity-landscape/)).
+- Telecom Namibia states that Namibia has two subsea cables in service, the existing WACS and Equiano, which it activated on 31 July 2024 at its new Equiano Cable Station in Swakopmund (100G Swakopmund-Johannesburg link); the WACS landing station is not named ([source, 2024-07-31](https://www.telecom.na/media-centre/797-telecom-namibia-celebrates-32-years-with-historic-inauguration-of-the-%E2%80%9Ctelecom-namibia-equiano-cable-station%E2%80%9D-and-activation-of-capacity-on-equiano-subsea-cable)).
+- Telecom Namibia states Equiano was co-landed at Swakopmund alongside Paratus, so a second operator (Paratus) holds its own capacity on the cable (minister's remark on collaborative co-landing) ([source, 2024-07-31](https://www.telecom.na/media-centre/797-telecom-namibia-celebrates-32-years-with-historic-inauguration-of-the-%E2%80%9Ctelecom-namibia-equiano-cable-station%E2%80%9D-and-activation-of-capacity-on-equiano-subsea-cable)).
+- Per Telecom Namibia's own release, Telecom Namibia (landing party at its Swakopmund landing station) will give Angola Telecom, another operator, an initial dedicated 1 Tbps of capacity on the Equiano cable and host Angola Telecom's equipment there, under a master service agreement signed 12 June 2026 ([source, 2026-06-12](https://telecom.na/media-centre/910-telecom-namibia,-angola-telecom,-and-satcab-sign-landmark-sarssy-and-equiano-submarine-cable-systems-master-service-agreement-in-angola)).
 
 ### Nigeria: 5 Leading
 
@@ -270,13 +279,6 @@ Two or more fibre routes abroad by 2026; no source found says whether two are in
 Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
 
 - The Conversation (analysis) states Morocco, the only African country with both Atlantic and Mediterranean coasts, is connected to about ten submarine cables including Africa-1 and 2Africa; landing stations are not named. Dated to the article's publication date as it gives none ([source, 2026-08-09](https://theconversation.com/le-maroc-futur-leader-continental-africain-des-data-centers-et-de-lia-288658)).
-
-### Namibia: 3 Established
-
-Two or more fibre routes abroad by 2024; no source found says whether two are independent of each other.
-
-- Telecom Namibia states that Namibia has two subsea cables in service, the existing WACS and Equiano, which it activated on 31 July 2024 at its new Equiano Cable Station in Swakopmund (100G Swakopmund-Johannesburg link); the WACS landing station is not named ([source, 2024-07-31](https://www.telecom.na/media-centre/797-telecom-namibia-celebrates-32-years-with-historic-inauguration-of-the-%E2%80%9Ctelecom-namibia-equiano-cable-station%E2%80%9D-and-activation-of-capacity-on-equiano-subsea-cable)).
-- Telecom Namibia states that Namibia has two submarine cables landed, WACS (landed February 2011) and Equiano (landed at Swakopmund on 1 July 2022, projected capacity 4 Tbps), both at Swakopmund so not independent stations ([source, 2022-07-01](https://telecom.na/media-centre/650-telecom-namibia-to-leverage-the-potential-for-digital-transformation-of-the-namibian-economy-%E2%80%93-a-reply-to-the-world-bank-group-report)).
 
 ### Senegal: 3 Established
 

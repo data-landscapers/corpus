@@ -1,16 +1,17 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-003;NAM-011",
-   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "5",
+      "routes": "independent",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-015;NAM-003;NAM-004;NAM-006",
+      "gaps": "",
+      "note": "Paratus runs a Trans-Kalahari land route to Johannesburg beside the two cables landed at Swakopmund, so a cable and a land link share no landing station (NAM-015). Operators other than the cable's owner hold capacity on Equiano, and Angola Telecom contracted 1 Tbps on it in June 2026, so stage 5.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }
