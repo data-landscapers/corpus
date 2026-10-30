@@ -8,4 +8,4 @@
 
 ***Also on file***. [Umoja](<https://www.itweb.africa/article/east-africa-shows-why-africas-digital-future-will-be-decided-inland/xA9POvNE2pDqo4J8>); [2Africa](<https://www.itweb.africa/article/east-africa-shows-why-africas-digital-future-will-be-decided-inland/xA9POvNE2pDqo4J8>); [Airtel Malawi Tanzania protection link](<https://techafricanews.com/2025/01/20/airtel-malawi-bolsters-network-with-additional-fiber-providers-to-address-service-disruptions/>).
 
-***Not found***. No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.
+***Not found***. No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.

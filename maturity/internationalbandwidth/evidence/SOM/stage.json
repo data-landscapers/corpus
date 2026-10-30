@@ -1,16 +1,17 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "5",
-   "routes": "independent",
-   "access": "open",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-005;SOM-006",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "5",
+      "routes": "independent",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-005;SOM-010;SOM-006",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-internationalbandwidth.py.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

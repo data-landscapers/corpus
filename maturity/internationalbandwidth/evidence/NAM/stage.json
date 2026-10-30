@@ -10,7 +10,7 @@
       "flags": "",
       "stage_sources": "NAM-015;NAM-003;NAM-004;NAM-006",
       "gaps": "",
-      "note": "Paratus runs a Trans-Kalahari land route to Johannesburg beside the two cables landed at Swakopmund, so a cable and a land link share no landing station (NAM-015). Operators other than the cable's owner hold capacity on Equiano, and Angola Telecom contracted 1 Tbps on it in June 2026, so stage 5.",
+      "note": "Paratus runs a Trans-Kalahari land route to Johannesburg beside the two cables landed at Swakopmund, so a cable and a land link share no landing station (NAM-015). Operators other than the cable's owner hold capacity on Equiano, and Angola Telecom contracted 1 Tbps on it in June 2026, so stage 5. Question 3a: Equiano (NAM-003).",
       "as_at": "2026-10-30"
     }
   ]

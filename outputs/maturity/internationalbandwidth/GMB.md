@@ -8,4 +8,4 @@
 
 ***Also on file***. [Second submarine cable (WARDIP procurement)](<https://www.ecowas.int/ecowas-commission-hosts-evaluation-committee-meeting-for-west-african-submarine-cable-capacity-under-wardip/>); [GAMTEL national backbone upgrade (40 to 800 Gbps)](<https://standard.gm/gamtel-sysroad-sign-50m-ppp-to-modernise-gambias-broadband-network/>); [ACE](<https://gambia.gov.gm/gambia-app/gambia-telecommunication-company-gamtel/>); [Sonatel backup link](<https://gambia.gov.gm/gambia-app/gambia-telecommunication-company-gamtel/>); [Plan to add 10 Gbps](<https://gambia.gov.gm/gambia-app/gambia-telecommunication-company-gamtel/>); [ACE cable station, Sukuta](<https://thepoint.gm/africa/gambia/headlines/nation-hit-by-internet-outage-amid-ongoing-power-cuts>).
 
-***Not found***. No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.
+***Not found***. No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.

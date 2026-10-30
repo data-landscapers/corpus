@@ -11,7 +11,9 @@ does it. The ladder is `maturity-study-internationalbandwidth.md` §2 and §3:
 2. **Two routes**: a `routes` row of `two` or `independent`, or `one` rows naming two
    different routes, "on one source or two".
 3. **Two independent**: a `routes` row of `independent`, of any age.
-4. **Capacity sold**: an `access` of `open`, of any age, where question 3 is a yes.
+3a. **A high-capacity cable**: a row `high-capacity.csv` names for the country, dated by the
+   as-at *(Bill, 2026-10-30)*. Stages 4 and 5 need it; independent routes without it stay at 3.
+4. **Capacity sold**: an `access` of `open`, of any age, where questions 3 and 3a are a yes.
 
 **A yes to a later question answers the earlier ones** (method §3.3); question 4 needs
 question 3. **A later dated `none` reverses** (method §3.5): a `routes` of `none` dated after
@@ -43,6 +45,8 @@ GAPS = {
          "international routes, or that they run on open-access or wholesale terms.",
     "3": "No source found says two of the routes land at different stations, or run through "
          "two different neighbours.",
+    "3a": "No source found says a cable of more than 100 Tbps design capacity carries the "
+          "country's traffic.",
     "2": "No source found names a second international fibre route in service.",
     "1": "",
 }
@@ -82,7 +86,7 @@ def correct(rows: list[dict], fixes: list[dict]) -> tuple[list[dict], int]:
     return out, changed
 
 
-def stage(rows: list[dict], as_at: dt.date) -> dict:
+def stage(rows: list[dict], as_at: dt.date, high: tuple[str, ...] = ()) -> dict:
     # A year alone, in the as-at's own year, stands for the as-at: the source was published by it.
     day = lambda a: as_at if a == str(as_at.year) else last_day(a)  # noqa: E731
     live = [(day(r["as_of"]), r) for r in rows if day(r["as_of"]) <= as_at]
@@ -114,10 +118,14 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     closed = pick("access", ("none",), n=1)
     if opened and closed and closed[0][0] > opened[0][0]:
         opened = []
+    big = [r["row_id"] for _, r in live if r["row_id"] in high][:1]
+    if independent and not big:
+        return {"stage": "3", "sources": ids(independent), "gaps": GAPS["3a"],
+                "routes": "independent", "access": ""}
     if independent and opened:
-        s, src = "5", ids(independent)[:1] + ids(opened)[:1]
+        s, src = "5", ids(independent)[:1] + big + ids(opened)[:1]
     elif independent:
-        s, src = "4", ids(independent)
+        s, src = "4", ids(independent)[:1] + big
     elif two:
         s, src = "3", ids(two)
     elif one:
@@ -144,13 +152,15 @@ def main(argv=None) -> int:
     as_at = dt.date.fromisoformat(a.as_at)
     base = os.path.join(study_lib.study_dir(STUDY), "evidence")
     fixes = study_lib.read_csv(os.path.join(study_lib.study_dir(STUDY), "corrections.csv"))
+    high = study_lib.read_csv(os.path.join(study_lib.study_dir(STUDY), "high-capacity.csv"))
     test, count = [], {}
     for iso in sorted(study_lib.countries()):
         path = os.path.join(base, iso, "evidence.csv")
         rows, changed = correct(study_lib.read_csv(path), [f for f in fixes if f["iso3"] == iso])
         if changed and not a.dry:
             study_lib.write_csv(path, study_lib.EVIDENCE_FIELDS, rows)
-        cell = stage(rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at))
+        cell = stage(rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at),
+                     tuple(h["row_id"] for h in high if h["iso3"] == iso))
         count[cell["stage"]] = count.get(cell["stage"], 0) + 1
         line = {"sub_indicator": "routes", "stage": cell["stage"], "routes": cell["routes"],
                 "access": cell["access"], "cap": "", "flags": "",

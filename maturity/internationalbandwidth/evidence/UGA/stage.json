@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "routes",
-      "stage": "5",
+      "stage": "3",
       "routes": "independent",
-      "access": "open",
+      "access": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-014;UGA-002",
-      "gaps": "Only a July 2025 market brief names the route through Tanzania; the 2026 rows describe routes through Kenya.",
-      "note": "Reassessed 2026-10-29: Xalam Analytics' July 2025 brief says Uganda's routes run through both Tanzania and Kenya, links through two neighbours. Seacom sells capacity on its Nairobi-Kampala route to service providers, which answers the fourth question.",
-      "as_at": "2026-10-29"
+      "stage_sources": "UGA-014",
+      "gaps": "No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.",
+      "note": "Cable rule (Bill, 2026-10-30): two independent routes through Kenya and Tanzania, but no source says a cable of more than 100 Tbps design capacity carries Uganda's traffic; Seacom's Kampala route (UGA-001) names none.",
+      "as_at": "2026-10-30"
     }
   ]
 }

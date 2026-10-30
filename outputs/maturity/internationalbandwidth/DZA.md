@@ -8,4 +8,4 @@
 
 ***Also on file***. [Medusa](<http://news.radioalgerie.dz/fr/node/77708>); [Via Africa](<https://techcabal.com/2026/05/23/orange-backed-subsea-cable-to-connect-nigeria-19-other-countries/>); [Algérie Télécom-Sparkle Italy-Algeria cable](<https://www.connectingafrica.com/connectivity/alg-rie-t-l-com-sparkle-plan-subsea-cable-to-link-italy-to-africa>); [Medusa Africa](<https://www.telecomreviewafrica.com/articles/features/28878-beyond-the-signal-why-africas-next-telecom-era-will-be-built-beneath-the-surface/>); [2Africa](<https://heirstechnologies.com/wp-content/uploads/2025/11/Heirs-Tech-Industry-Report_Africas-Digital-Future_Cloud-Connectivity-AI-in-the-Next-Decade.pdf>); [Equiano](<https://heirstechnologies.com/wp-content/uploads/2025/11/Heirs-Tech-Industry-Report_Africas-Digital-Future_Cloud-Connectivity-AI-in-the-Next-Decade.pdf>).
 
-***Not found***. No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.
+***Not found***. No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.

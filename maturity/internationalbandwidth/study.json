@@ -83,11 +83,11 @@
    "criteria": [
     "A source from the past three years says the country has no international fibre route: satellite or microwave only.",
     "One fibre route carries the country's internet traffic abroad: a submarine cable landing in the country, or a fibre link through a neighbour.",
-    "Two or more international fibre routes are in service, though they share one landing station or one neighbour.",
-    "Two of the routes share no landing station: cables at different stations, a cable and a land link, or for a country without a coast, links through two neighbours.",
-    "Two independent routes, and other operators buy capacity at the landing station or on the cable, or it runs on open-access or regulated wholesale terms."
+    "Two or more international fibre routes are in service, though they share one landing station or one neighbour, or no cable of more than 100 Tbps design capacity carries the country's traffic.",
+    "Two of the routes share no landing station, and a cable of more than 100 Tbps design capacity, such as 2Africa or Equiano, carries the country's traffic.",
+    "Two independent routes and a high-capacity cable, and other operators buy capacity at the landing station or on the cable, or it runs on open-access or regulated wholesale terms."
    ],
-   "criteria_of": "de4224e0da2c"
+   "criteria_of": "b7c890ac104c"
   }
  ],
  "classes": [

@@ -1,16 +1,17 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "4",
-   "routes": "independent",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-001",
-   "gaps": "No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "4",
+      "routes": "independent",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-001",
+      "gaps": "No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.",
+      "note": "Counted from the four questions by study-ladder-internationalbandwidth.py. Question 3a: Equiano (BEN-001).",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

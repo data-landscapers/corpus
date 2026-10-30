@@ -8,4 +8,4 @@
 
 ***Also on file***. [Umoja](<https://developingtelecoms.com/telecom-technology/data-centres-networks/19091-google-plans-to-build-four-subsea-cable-connectivity-hubs-for-africa.html>); [Starlink](<https://techcabal.com/2026/06/26/how-starlinks-growth-is-changing-africa-telcos-playbook/>).
 
-***Not found***. No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.
+***Not found***. No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.

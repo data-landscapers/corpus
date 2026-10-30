@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "routes",
-      "stage": "4",
+      "stage": "3",
       "routes": "independent",
       "access": "",
       "cap": "",
       "flags": "",
       "stage_sources": "GMB-009",
-      "gaps": "No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.",
-      "note": "Counted from the four questions by study-ladder-internationalbandwidth.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.",
+      "note": "Cable rule (Bill, 2026-10-30): two independent routes, but no source says a cable of more than 100 Tbps design capacity carries the country's traffic.",
+      "as_at": "2026-10-30"
     }
   ]
 }

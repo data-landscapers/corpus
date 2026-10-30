@@ -8,10 +8,10 @@
       "access": "open",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-012;TUN-005",
+      "stage_sources": "TUN-012;TUN-002;TUN-005",
       "gaps": "",
-      "note": "Counted from the four questions by study-ladder-internationalbandwidth.py.",
-      "as_at": "2026-10-17"
+      "note": "Counted from the four questions by study-ladder-internationalbandwidth.py. Question 3a: Medusa (TUN-002).",
+      "as_at": "2026-10-30"
     }
   ]
 }

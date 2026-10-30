@@ -8,10 +8,10 @@
       "access": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-003",
+      "stage_sources": "MLI-003;MLI-001",
       "gaps": "No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.",
-      "note": "Counted from the four questions by study-ladder-internationalbandwidth.py.",
-      "as_at": "2026-10-17"
+      "note": "Counted from the four questions by study-ladder-internationalbandwidth.py. Question 3a: 2Africa (MLI-001).",
+      "as_at": "2026-10-30"
     }
   ]
 }

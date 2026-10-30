@@ -1,16 +1,17 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "5",
-   "routes": "independent",
-   "access": "open",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-025;NGA-026",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "5",
+      "routes": "independent",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-025;NGA-010;NGA-026",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-internationalbandwidth.py.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

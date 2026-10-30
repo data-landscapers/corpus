@@ -31,6 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is the country joined to the rest of the world by fibre? | A source states that a submarine cable lands in the country and is in service, or that the country's international traffic runs over fibre to a neighbour |
 | 2 | Does it have two or more such routes? | Two routes, each stated in service, on one source or two |
 | 3 | Are two of them independent of each other? | Two routes that share no landing station: two cables landing at different stations, a cable and a land link through a neighbour, or for a country without a coast, links through two different neighbours |
+| 3a | Does a high-capacity cable carry its traffic? | A source states that a cable of more than 100 Tbps design capacity is in service and lands in the country, or carries its traffic through a neighbour |
 | 4 | Is capacity on them sold to other operators? | A source states that operators other than the owner buy capacity at the landing station or on the cable, or that it runs on open-access or regulated wholesale terms |
 
 ## 3. The ladders
@@ -41,10 +42,12 @@ Asked in order. Each is answered with a date and a link.
 |---|---|
 | 1 Absent | A source from the past three years says the country has no international fibre route: satellite or microwave only |
 | 2 Preparing | Yes to 1: one route |
-| 3 Establishing | Yes to 2: two or more routes, sharing one landing station or one neighbour |
-| 4 Operating | Yes to 3: two independent routes, the minimum the African Union sets |
-| 5 Leading | Yes to 4: two independent routes, and capacity sold to other operators |
+| 3 Establishing | Yes to 2: two or more routes, sharing one landing station or one neighbour, or with no high-capacity cable |
+| 4 Operating | Yes to 3 and 3a: two independent routes, and a high-capacity cable carries the country's traffic |
+| 5 Leading | Yes to 4: two independent routes, a high-capacity cable, and capacity sold to other operators |
 
+- **High-capacity cables** *(Bill, 2026-10-30)*: more than 100 Tbps design capacity, the cable's whole system and not the branch. 2Africa, Equiano and Medusa count; Umoja, Waterworth and Seacom 2.0 count once a source says they carry traffic. Another cable counts where a source states its design capacity above 100 Tbps. `high-capacity.csv` names, per country, the row that shows such a cable carrying its traffic; a stager adds a line when a cell reaches question 3a.
+- **A sale at a point of presence is not question 4** *(Bill, 2026-10-30)*: the capacity must be sold at the landing station, on the cable, or on open-access or regulated terms.
 - **No question has a window.** A route in service stays in service until a later source says it is cut or closed; a cut that is repaired is still in service.
 - **A route counts for the country it lands in, or whose traffic a source says it carries.** A cable that passes offshore does not count.
 - **Question 3 was reworded in the run** to say that a cable and a land link through a neighbour share no landing station; drafters had read it as asking for two landing stations only. Every country was restaged.
