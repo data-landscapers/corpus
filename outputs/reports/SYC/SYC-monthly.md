@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: SYC
-ledger_rows: 15
+ledger_rows: 18
 not_held: 6
-record: 2e53c704092e
+record: 36d99de61fab
 ---
 
 # News, Sep – Oct 2026
@@ -69,6 +69,34 @@ Seychelles' Commission of Inquiry into the border management agreement with Trav
 **[Cabinet Business, Wednesday 09th September 2026](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026)** — State House Seychelles, 9 September 2026
 
 Seychelles' Cabinet, chaired by President Patrick Herminie on 9 September 2026, approved a multi-stakeholder Digital Economic Transformation Forum to agree a national digital architecture, priority pilot projects and an implementation roadmap. The same meeting approved a Hydrographic Office within the Maritime Safety Authority to manage marine data.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Inter-Ministerial Digital and AI Coordination Committee</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet Business - Wednesday 28 October, 2026](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)** — State House Seychelles, Office of the President, 29 October 2026
+
+Seychelles' Cabinet approved the Seychelles Digital & AI Strategy 2026–2031 on 28 October 2026. It also approved a Government Cloud and Datacenter Project on two in-country datacentres, to reduce reliance on overseas infrastructure. The ICT minister will chair a new inter-ministerial digital and AI committee.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital and AI Strategy 2026-2031</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Cabinet Business - Wednesday 28 October, 2026](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)** — State House Seychelles, Office of the President, 29 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
@@ -171,8 +199,26 @@ The World Bank is preparing a Seychelles project to widen internet access, incre
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
+
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government Cloud and Datacenter Project</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Cabinet Business - Wednesday 28 October, 2026](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)** — State House Seychelles, Office of the President, 29 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
 
 ### Cybersecurity
 
