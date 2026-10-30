@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-civ-a-abidjan-l-afrique-prend-date-pour-se-doter-enfin-d-une-vision-commun",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "ARTCI's press release says Cote d'Ivoire, through ARTCI, hosted the 9th conference of the African Network of Data Protection Authorities (RAPDP) in Abidjan from 18 May 2026, with 24 African delegations.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "Reseau Africain des Autorites de Protection des Donnees Personnelles (RAPDP)",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

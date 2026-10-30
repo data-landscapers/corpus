@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-xaf-opening-remarks-lerato-mataboge-6th-au-stc-cict",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Ghana's Minister Samuel Nartey George was named as incoming Chair of the AU STC-CICT Bureau at its sixth session, 29 October 2026.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "AU Specialized Technical Committee on Communication and ICT",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AU Specialized Technical Committee on Communication and ICT",
+   "country_label": "Ghana",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "African Union Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

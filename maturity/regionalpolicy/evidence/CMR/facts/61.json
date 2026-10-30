@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-15-cmr-gouvernance-des-donnees-en-afrique-centrale-le-cameroun-sans-apdp-oper",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "OBS-CC says Douala hosted the ECCAS regional workshop on a common framework for cross-border data governance from 31 August to 4 September 2026.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "ECCAS regional workshop on cross-border data governance",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "OBS-CC says that in September 2025 the UN Economic Commission for Africa and ECCAS validated in Douala a regional digital trade policy with an action plan for 2025-2030 and a framework law.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "ECCAS regional digital trade policy",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

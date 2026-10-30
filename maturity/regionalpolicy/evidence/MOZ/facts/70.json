@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-28-moz-intic-acompanha-avancos-da-rede-africana-de-autoridades-de-proteccao-d",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "none",
+   "fact": "INTIC says Mozambique is not yet a member of the African Network of Data Protection Authorities (RAPDP), as members must have a data protection law, and expects to join after its bill passes.",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "RAPDP",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAPDP",
+   "country_label": "Mozambique",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

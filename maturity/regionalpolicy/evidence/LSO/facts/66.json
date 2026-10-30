@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-04-lso-lesotho-charts-a-progressive-path-on-data-governance",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "CIPESA reports that AUDA-NEPAD and AU-GIZ convened a 28-31 July 2025 workshop in Maseru, with Lesotho's communications ministry, on domesticating the AU Data Policy Framework.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "AU Data Policy Framework domestication workshop",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AU Data Policy Framework domestication workshop",
+   "country_label": "Lesotho",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "AUDA-NEPAD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

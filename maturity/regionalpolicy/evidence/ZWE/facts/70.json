@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-zwe-zimbabwe-s-data-protection-regime",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "POTRAZ, as the data protection authority, takes part in the Network of African Data Protection Authorities (NADPA-RAPDP), Africa CIRT and SADC CIRT.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Network of African Data Protection Authorities",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "POTRAZ has signed a memorandum of understanding with the Information Regulator of South Africa on cross-border regulatory cooperation in data protection; the signing date is not given.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "POTRAZ-Information Regulator of South Africa MoU",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
