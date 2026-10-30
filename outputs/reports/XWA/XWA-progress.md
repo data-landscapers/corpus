@@ -3,18 +3,18 @@ title: West Africa — progress report, October 2025 – October 2026
 compiled: 2026-10-30
 period: 2025-10-01 to 2026-10-30
 place: XWA
-ledger_rows: 118
+ledger_rows: 119
 not_held: 1
-record: a61e40705a6d
+record: 9ca12a26ac19
 ---
 
 # West Africa: progress report, October 2025 – October 2026
 
 *Compiled 2026-10-30 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 118 bodies, instruments and systems on this place's ledger, 74 changed position between 2025-10-01 and 2026-10-30, 20 did not, 23 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 119 bodies, instruments and systems on this place's ledger, 74 changed position between 2025-10-01 and 2026-10-30, 20 did not, 24 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 251 sources for this place in the window — 54 in the earlier half (2025-10 to 2026-03), 197 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 254 sources for this place in the window — 54 in the earlier half (2025-10 to 2026-03), 200 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -281,6 +281,7 @@ West and Central African states [adopted the Cotonou Declaration on 2025-11-18](
 | BCEAO/COFEB certifying programme in digital finance | A second edition run from September 2024 to May 2025, certifying 23 staff of banks, microfinance institutions and the central bank, with eight dissertations defended (2025-06) | [In its fourth edition, run by the monetary union's central bank training centre with Luxembourg's House of Training-ATTF: four modules over about nine months and 84 hours, aimed at senior staff of credit institutions, e-money issuers and microfinance institutions, one candidate per institution, participation fees of FCFA 1.2m, an 80% pass mark per module and a final project defended before a jury at Dakar](https://cofeb.bceao.int/sites/default/files/2026-08/Brochure_Parcours_Finance_Digitale-Edition_2026_V180826_web.pdf) | Movement |
 | Cybersecurity professionals certified as SIM3 auditors | Did not exist | [38 professionals from member states and partner institutions trained at Lomé, 4 to 6 August 2026, to assess the maturity of national computer security incident response teams (2026-08)](https://www.ecowas.int/ecowas-advances-regional-cybersecurity-cooperation-through-sim3-auditor-capacity-building-programme/) | Movement |
 | EU-ECOWAS EPSG support for fact-checking platforms | An EU-funded strand for November 2024 to October 2027 covering Nigeria, Benin and the Gambia, to consolidate fact-checking tools and counter disinformation, with no organisation yet selected (2025-05) | [Two Nigerian organisations selected for in-kind technical support covering digital infrastructure, cybersecurity and verification systems, with training in AI, digital investigations and deepfake detection, and admission to a regional cross-border verification network; no amount, duration or start date is stated](https://guardian.ng/news/dnn-selected-for-eu-ecowas-technical-support-on-fact-checking/) | Movement |
+| COYWA programme (Creating Opportunities for Youth and Women in Africa) | ***Baseline not held*** | [An AUDA-NEPAD programme run with the Spanish development agency, with ECOWAS as regional implementing partner, training young and women entrepreneurs in digital tools, online security, use of AI tools and financial skills; a second cohort began online on 23 September 2026 and met in Accra from 26 to 30 October 2026](https://www.ecowas.int/accra-welcomes-the-second-cohort-of-the-coywa-programme-to-strengthen-the-digital-and-financial-skills-of-young-people-and-women-entrepreneurs/) | ***Baseline not held*** |
 
 ### Access to services
 

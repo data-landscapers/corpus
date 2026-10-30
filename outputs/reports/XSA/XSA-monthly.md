@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: XSA
-ledger_rows: 15
+ledger_rows: 16
 not_held: 2
-record: 06ee453cbd18
+record: b48cdbf4f830
 ---
 
 # News, Sep – Oct 2026
@@ -177,12 +177,30 @@ Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to 
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-exchange">Data Exchange</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 </nav>
+
+### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UbuntuNet Alliance research and education network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UbuntuNet Connect 2026: Shaping Digital Horizons](https://www.eeas.europa.eu/delegations/malawi/ubuntunet-connect-2026-shaping-digital-horizons_en)** — European Union Delegation to Malawi, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
+
+EU at UbuntuNet Alliance's 20th-year conference, Lilongwe 29-30 Oct; AfricaConnect: 3,000+ institutions, 9m users.
+
+</div>
+
+</div>
 
 ### Cybersecurity
 

@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: XWA
-ledger_rows: 37
+ledger_rows: 38
 not_held: 1
-record: 8cc00b8f0912
+record: f0527d534a5a
 ---
 
 # News, Sep – Oct 2026
@@ -759,8 +759,26 @@ The Economic Community of West African States opened the second edition of its S
 ## Capacity and inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity and inclusion">
+<a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#access-to-services">Access to services</a>
 </nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COYWA programme (Creating Opportunities for Youth and Women in Africa)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accra Welcomes the Second Cohort of the COYWA Programme to Strengthen the Digital and Financial Skills of Young People and Women Entrepreneurs](https://www.ecowas.int/accra-welcomes-the-second-cohort-of-the-coywa-programme-to-strengthen-the-digital-and-financial-skills-of-young-people-and-women-entrepreneurs/)** — ECOWAS Commission, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+AUDA-NEPAD and AECID programme; Accra session 26-30 Oct 2026 on digital tools, online security and AI use.
+
+</div>
+
+</div>
 
 ### Access to services
 

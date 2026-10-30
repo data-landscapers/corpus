@@ -3,9 +3,9 @@ title: Africa — News, Sep – Oct 2026
 compiled: 2026-10-30
 period: 2026-09-01 to 2026-10-30
 place: XAF
-ledger_rows: 129
+ledger_rows: 133
 not_held: 3
-record: 1f4e812f7506
+record: 3a74f9db54de
 ---
 
 # News, Sep – Oct 2026
@@ -756,6 +756,28 @@ Summarised under [Standards](#standards).
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">AFRINIC policy proposal AFPUB-2026-GEN-005-DRAFT01 (Update of PDP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Update of PDP (AFPUB-2026-GEN-005-DRAFT01, version 4.0)](https://afrinic.net/afpub-2026-gen-005-draft01.html)** — AFRINIC, 14 October 2026
+
+Proposal text: rough-consensus definition, 8-week list discussion, 4-week impact analysis, 6-month version expiry.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFRINIC's Policy Draft Has More Clocks Than a Station and No Wall Chart](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-pdp-clock-sequence)** — BTW Media, 27 October 2026
+
+GEN-005 v4, submitted 14 Oct 2026: eight-week list discussion, six-month version expiry; sequence left unclear.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">AFRINIC IPv4 policy proposal AFPUB-2026-IPv4-003 (four pools for recovered space and a post-exhaustion queue)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1005,6 +1027,20 @@ African public agencies are starting to buy locally built AI tools for welfare, 
 **[Unblocking Domestic Resource Mobilization through AI Tools: Introducing the Optimizing African Revenue Authorities for Responsible AI Adoption Project](https://developmentgateway.org/blog/unblocking-domestic-resource-mobilization-through-ai-tools-introducing-the-optimizing-african-revenue-authorities-for-responsible-ai-adoption-project/)** — Development Gateway, 28 October 2026
 
 The African Tax Administration Forum and Development Gateway launched a 12-month project, backed by the Hewlett Foundation, on responsible use of AI by African revenue authorities. It will survey AI readiness across ATAF's 45 member states to set a continental benchmark. Three selected authorities will get help to draft AI strategies and roadmaps.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Russia-Africa Summit Declaration on cooperation in the civil application of AI</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Декларация о сотрудничестве в области гражданского применения технологий искусственного интеллекта третьего саммита Россия – Африка](http://kremlin.ru/supplement/6589)** — President of Russia (Kremlin), 29 October 2026
+
+18-point summit text: sovereign AI regulation, equal access to data and compute, AI-content watermarking; civil AI only.
 
 </div>
 
@@ -1866,6 +1902,20 @@ Summarised under [Data Exchange](#data-exchange).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Crypto activity in Sub-Saharan Africa (Chainalysis)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa Leads Sub-Saharan Africa’s 13.4% Crypto Growth](https://www.chainalysis.com/blog/sub-saharan-africa-crypto-adoption-2026/)** — Chainalysis, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
+
+SSA crypto economy USD 101bn Jul 2025–Jun 2026; Nigeria USD 38.1bn, down 3%; P2P stablecoins USD 14.6bn.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -2335,6 +2385,20 @@ The African Telecommunications Union's secretary general, John Omo, called for s
 **[AUC Chairperson & H.E. Sergey Lavrov signed the AU Commission–Russian Federation Action Plan 2027–2029](https://www.au.int/en/pressreleases/20261028/signature-au-commission-russian-federation-action-plan-2027-2029)** — African Union Commission, 28 October 2026
 
 The AU Commission and Russia signed a non-binding Action Plan for 2027-2029 in Moscow on 28 October 2026, at the third Russia-Africa Summit. It spans 19 areas of cooperation. Its science and technology priorities include AI, digital transformation, cybersecurity and space technology, with joint work on AI-based early-warning systems.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Russia-Africa Partnership Forum Action Plan 2027-2029</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[План действий Форума партнерства Россия – Африка на 2027–2029 годы](http://kremlin.ru/supplement/6590)** — President of Russia (Kremlin), 29 October 2026
+
+236-paragraph Forum plan: data protection, AI programme, data centres, sovereign messengers, internet-access rules.
 
 </div>
 

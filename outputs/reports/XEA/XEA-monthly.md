@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: XEA
-ledger_rows: 23
+ledger_rows: 25
 not_held: 0
-record: 430773862636
+record: d0ec6b309f4f
 ---
 
 # News, Sep – Oct 2026
@@ -208,6 +208,20 @@ The East African Community, the Inter-University Council for East Africa and the
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EAC Artificial Intelligence Strategy (regional AI policy roadmap)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EAC states pursue unified AI strategy](https://www.itweb.africa/article/eac-states-pursue-unified-ai-strategy/raYAyMor6Jr7J38N)** — ITWeb Africa, 30 October 2026
+
+21st ESTCS Sectoral Council takes up EAC AI Strategy after national consultations and Kampala validation.
+
+</div>
+
+</div>
+
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
@@ -237,6 +251,20 @@ The East African Community, the Inter-University Council for East Africa and the
 **[Mapping Digital Connectivity Gaps to Guide Infrastructure Investment in East Africa](https://datapartnership.org/updates/mapping-digital-connectivity-gaps-to-guide-infrastructure-investment-in-east-africa/)** — Development Data Partnership, 19 October 2026
 
 The African Development Bank built a digital intelligence platform using Ookla speed-test data to rank district-level connectivity gaps across 11 East African countries, reported on 19 October 2026. It combines 51 months of tests, January 2022 to March 2026, with data on 93,125 health and education facilities in 8,925 administrative areas.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UbuntuNet Alliance research and education network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UbuntuNet Connect 2026: Shaping Digital Horizons](https://www.eeas.europa.eu/delegations/malawi/ubuntunet-connect-2026-shaping-digital-horizons_en)** — European Union Delegation to Malawi, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+EU at UbuntuNet Alliance's 20th-year conference, Lilongwe 29-30 Oct; AfricaConnect: 3,000+ institutions, 9m users.
 
 </div>
 
