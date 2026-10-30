@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: COG
-ledger_rows: 25
+ledger_rows: 26
 not_held: 5
-record: c01a337a85a3
+record: 3f84c3e4e46b
 ---
 
 # News, Sep – Oct 2026
@@ -357,6 +357,20 @@ Congo's Minister of Social Affairs, Marie-France Lydie Hélène Pongault, met th
 **[Au Beach Ngobila de Kinshasa, la technologie renforce le bouclier sanitaire entre Kinshasa et Brazzaville](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/au-beach-ngobila-de-kinshasa-la-technologie-renforce-le-bouclier-sanitaire-entre-kinshasa-et)** — OMS, Bureau régional pour l’Afrique, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
 WHO's Regional Director for Africa, Mohamed Janabi, visited passenger screening at Kinshasa's Beach Ngobila river crossing on 18 October 2026, where the WHO-backed Preparedness Data Exchange platform supports Ebola surveillance. He said a similar electronic system would go live in Brazzaville the following week.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Système d'Information Communautaire (community health information app)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TALANGAÏ : LANCEMENT DE LA FORMATION DES RELAIS COMMUNAUTAIRES SUR L’UTILISATION DE L’APPLICATION DU SYSTEME D’INFORMATION COMMUNAUTAIRE (SIC)](https://sante.gouv.cg/talangai-lancement-de-la-formation-des-relais-communautaires-sur-lutilisation-de-lapplication-du-systeme-dinformation-communautaire-sic/)** — Ministère de la Santé et de la Population (Congo), 28 October 2026
+
+Health ministry IT directorate trains community relays on SIC app to collect and transmit community health data.
 
 </div>
 
