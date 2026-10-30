@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-ago-pti-ima-concurso-internacional-portal-simplifica",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Angola's Administrative Modernisation Institute (IMA) has opened an international tender, financed by a World Bank loan, for the new Portal SIMPLIFICA platform, which includes integrating artificial intelligence into the public services portal.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Portal SIMPLIFICA",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portal SIMPLIFICA",
+   "country_label": "Angola",
+   "class": "govai",
+   "platform": "single window portal for public services",
+   "owner": "Instituto de Modernização Administrativa (IMA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

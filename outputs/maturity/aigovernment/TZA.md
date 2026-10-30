@@ -6,7 +6,7 @@
 
 **Several bodies.** One government platform serves several bodies: the e-Government Authority says [Msaada AI is used by two institutions](<https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2>), as of July 2026. No third user is named.
 
-**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is the [e-Government Authority's account of its AI tools](<https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2>), which states no rules.
+**Rules or register.** In October 2026 the central bank governor said [the Bank of Tanzania has approved policies to guide its own adoption of AI](<https://dailynews.co.tz/bot-instructs-institutions-to-embrace-ai-and-data-analytics-for-operational-efficiency/>). They cover data privacy, accountability and human oversight. They apply to the bank alone. No rules or register for the government's own use of AI are found.
 
 ***Also on file***. None found.
 

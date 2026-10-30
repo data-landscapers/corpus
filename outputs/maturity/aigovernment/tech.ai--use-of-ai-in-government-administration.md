@@ -52,7 +52,7 @@ AI was in service in several government bodies in 2026; no source found reports 
 
 ### Madagascar: 4 Operating
 
-Madagascar's courts and its customs directorate both use AI in service as of 2025-26; no source found reports rules for the government's own use of AI.
+Madagascar's courts and its customs directorate both use AI in service as of 2025-26; no source found reports rules for the government's use of AI.
 
 - We Are Tech Africa reports officials said Madagascar's courts already use AI technologies for certain research and document management functions ([source, 2026-06-02](https://www.wearetech.africa/en/fils-uk/news/public-management/madagascar-develops-digital-criminal-records-platform-to-modernize-justice-system)).
 - Madagascar's customs directorate says on its own site that its AI-based customs chatbot gives instant answers 24 hours a day on the most common customs procedures, and showed it with the e-Tariff portal at the Foire Internationale de Madagascar on 22-26 May 2025 ([source, 2025-05-26](https://www.douanes.gov.mg/la-douane-malagasy-a-la-foire-internationale-de-madagascar-cap-sur-la-digitalisation-et-lintelligence-artificielle-avec-le-tariff-et-le-chatbot-douanier/)).

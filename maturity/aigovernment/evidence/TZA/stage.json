@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TZA-002;TZA-003",
-      "gaps": "No source found says the government has issued rules or a register for its own use of AI.",
-      "note": "Fact 2026-10-21: the e-Government Authority's Msaada AI serves two institutions, one government platform serving several; no rules or register have been found.",
-      "as_at": "2026-10-21"
+      "gaps": "No source found says the government has issued rules or a register for its own use of AI. The Bank of Tanzania's policies of October 2026 govern one public body's own AI use.",
+      "note": "The e-Government Authority's Msaada AI serves two institutions, one government platform serving several. The Bank of Tanzania's own AI policies are one body's rules, not the government's rules for its use of AI, so it is not stage 5.",
+      "as_at": "2026-10-30"
     }
   ]
 }

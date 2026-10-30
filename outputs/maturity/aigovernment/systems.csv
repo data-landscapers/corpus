@@ -2,6 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Public-sector AI platform (PADA),Angola,govai,,Angolan state,,2026-09-08-pti-angola-ai-platform-world-bank-pada
 AGO,SEP360,Angola,govai,AI and Robotic Process Automation,IGAPE,,2026-01-06-ago-igape-considera-em-fase-final-plataforma-de-ia-para-o-sector-publico
 AGO,INACOM portal AI chatbot,Angola,govai,INACOM portal and WhatsApp,INACOM,,2025-06-12-ago-novo-portal-do-inacom-destaca-inovacao-ao-servico-do-cidadao
+AGO,Portal SIMPLIFICA,Angola,govai,single window portal for public services,Instituto de Modernização Administrativa (IMA),,2026-10-29-ago-pti-ima-concurso-internacional-portal-simplifica
 BDI,Chatbot WhatsApp de l'OBR,Burundi,govai,WhatsApp,Office Burundais des Recettes,,2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e
 BEN,"Billet juridique (ASIN, advisory)",Benin,other,,ASIN,,2026-06-01-asin-benin-billet-juridique-ia-generative-agents-publics
 BEN,Seyna,Benin,govai,ANIP BJ app,ANIP,,2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees
@@ -84,6 +85,7 @@ MRT,Commission nationale des concours platform,Mauritania,govai,digital competit
 MRT,Mourchid,Mauritania,govai,,"Ministry of Youth Empowerment, Employment, Sports and Civil Service",,2026-06-26-mrt-erribat-mourchid-ai-government-assistant
 MRT,solution d'IA dédiée à la sécurité routière,Mauritania,govai,"smart cameras, computer vision",Agence numérique de l'État (AN-État) under MTNIMA; operated by DGSN,,2025-12-26-mrt-la-mauritanie-met-en-service-une-solution-dia-dediee-a-la-securite-rou
 MRT,Khidmaty,Mauritanie,govai,,MTNIMA,,2026-03-31-mrt-communique-de-presse-ministere-de-la-transformation-numerique-et-de-la
+MRT,Education legislation archive platform,MRT,other,,Ministry of Education,,2026-10-26-mrt-education-and-digital-transformation-ministers-exam-digitisation
 MUS,Digital Interactive Virtual Assistant (DIVA),Mauritius,govai,chatbot with AI agents,"Ministry of Information Technology, Communication and Innovation",,2026-01-01-prb-report-2026-digitalisation-ai-readiness
 MUS,myt learn,Mauritius,other,AI learning platform for secondary school students and teachers,Mauritius Telecom,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
 MUS,Kevin AI,Mauritius,other,Mauritian Creole-speaking AI,Mauritius Telecom,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
@@ -116,6 +118,8 @@ NGA,CAC AI-enabled registration platform,Nigeria,govai,,Corporate Affairs Commis
 NGA,Service-Wise GPT,Service-Wise GPT,govai,,Office of the Head of the Civil Service of the Federation,,2024-11-21-nga-digitalization-revolution-in-the-federal-civil-service-walson-jack-lau
 NGA,N-ATLAS,N-ATLAS language model,other,,Awarri with government,,2026-10-26-government-ai-adoption-financial-reality
 NGA,GovGuide Nigeria,Nigeria,govai,WhatsApp and web,FMCIDE and NCAIR,,2026-10-22-nga-technext-meta-ndpc-secret-settlement-double-standard
+NGA,GovGuide Nigeria,Nigeria,other,chatbot,not stated,,2026-10-27-nga-meta-google-microsoft-support-inec-false-claims-2027
+NGA,"AFRIDATA Nigeria data centres (Lagos, Delta)",Nigeria,other,,AFRIDATA,Lagos designed to Tier IV,2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study
 RWA,Mbaza,Mbaza,govai,Proto AI agent,MINALOC with RISA,,2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen
 RWA,Intumwa,Intumwa,govai,Proto AI agent,National Bank of Rwanda,,2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen
 RWA,Kubaka AI agent,Rwanda,govai,Kubaka.gov.rw,MININFRA and Rwanda Housing Authority,,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a
@@ -137,6 +141,7 @@ TZA,FAQ chatbot for the Tanzania Ports Authority,Tanzania,govai,,Tanzania Ports 
 TZA,Msaada AI,Tanzania,govai,Tanzania Tourist Board website; e-Mrejesho,e-Government Authority (e-GA),,2026-07-25-tza-e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde
 TZA,Muhtasari AI,Tanzania,govai,,e-Government Authority (e-GA),,2026-07-25-tza-e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde
 TZA,Tafsiri AI,Tanzania,govai,,e-Government Authority (e-GA),,2026-07-25-tza-e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde
+TZA,AI and Data Innovation Hub,Tanzania,other,,Bank of Tanzania,,2026-10-29-tza-bot-instructs-institutions-to-embrace-ai-and-data-analytics-for-operat
 UGA,entervo V3,Uganda,govai,Scheidt & Bachmann,Uganda Civil Aviation Authority,,2026-10-09-uga-monitor-ucaa-entebbe-ai-parking-digital-payments
 UGA,UCC AI content filtering system,Uganda,govai,,Uganda Communications Commission,,2026-09-25-uga-ucc-ai-content-moderation-tool
 UGA,UPF chatbot,Uganda,govai,,Uganda Police Force,,2026-09-03-uga-police-ai-chatbot-announced
@@ -161,3 +166,4 @@ ZMB,ZRA taxpayer nudging system,Zambia,other,,Zambia Revenue Authority,,2026-07-
 ZMB,SMART Zambia AI chatbot,Zambia,other,chatbot,SMART Zambia,planned,2025-01-30-zmb-zambia-to-introduce-ai-power-system-to-tackle-misinformation-disinform
 ZWE,National Budget Automation System (Blue Book System),Zimbabwe,govai,,,,2026-09-23-zwe-sirdc-budget-automation-pilot
 ZWE,Learner's Hub Chatbot,Zimbabwe,govai,UChat Africa,Ministry of Primary and Secondary Education,,2026-04-23-zwe-government-launches-learner-s-hub-chatbot-at-zitf
+ZWE,Pangolin AI,Zimbabwe,other,national AI and data platform,"Ministry of ICT, Postal and Courier Services",,2026-10-28-zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027

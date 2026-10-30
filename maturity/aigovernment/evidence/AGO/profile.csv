@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,govai,use,coverage,inservice,2025-06-12,AGO-004,AGO-001=underway;AGO-003=underway;AGO-002=underway,
-AGO,govai,bodies,coverage,,,,,nothing held
-AGO,govai,rules,coverage,,,,,nothing held
+AGO,govai,use,coverage,inservice,2025-06-12,AGO-004,AGO-005=underway;AGO-001=underway;AGO-003=underway;AGO-002=underway,
+AGO,govai,bodies,coverage,,,,,nothing found
+AGO,govai,rules,coverage,,,,,nothing found
