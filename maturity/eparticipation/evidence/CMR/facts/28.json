@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-cmr-gouvernance-des-donnees-en-afrique-centrale-le-cameroun-sans-apdp-oper",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "OBS-CC says a 13-page draft implementing decree for the data protection authority is online on the Ministry of Posts and Telecommunications site among texts submitted to public consultation under PATNUC.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Ministry of Posts and Telecommunications public consultation (PATNUC)",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

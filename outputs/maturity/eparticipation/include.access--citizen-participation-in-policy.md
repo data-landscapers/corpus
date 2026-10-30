@@ -23,10 +23,10 @@ The African Charter on Democracy, Elections and Governance asks for citizen part
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 3 |
-| 2 Nascent | 18 |
+| 2 Nascent | 19 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
-| No evidence | 24 |
+| No evidence | 23 |
 
 ## Countries
 
@@ -72,6 +72,12 @@ The government asked the public for views online in 2025; a standing online chan
 
 - The Botswana Energy Regulatory Authority invited the public to send written comments by email by 30 January 2026 on BPC's 2026-27 tariff application, with the Public Consultation Paper requesting comments posted on the BERA website ([source, 2025-12-17](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/BERA%2028X5%20KO.pdf)).
 - The notice says the draft Cybersecurity Bill is available on the BOCRA website and that written comments go by email to the ministry by 23 June 2025 ([source, 2025-06](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Preamble_to_the_Cybersecurity_Bill_Revised.pdf)).
+
+### Cameroon: 2 Nascent
+
+Cameroon's posts ministry put a draft data protection decree online for public comment in 2026; a standing online channel is not known.
+
+- OBS-CC says a 13-page draft implementing decree for the data protection authority is online on the Ministry of Posts and Telecommunications site among texts submitted to public consultation under PATNUC ([source, 2026-09-14](https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/)).
 
 ### Cape Verde: 2 Nascent
 
@@ -236,12 +242,6 @@ Nothing found names online participation in making policy or says there is none,
 Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Burundi: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
-
-### Cameroon: No evidence
 
 Nothing found names online participation in making policy or says there is none, so no stage is set.
 

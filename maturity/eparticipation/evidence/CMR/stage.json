@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "eparticipation",
-   "stage": "no evidence",
-   "online": "",
-   "published": "",
-   "required": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether the public takes part in making policy online.",
-   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "eparticipation",
+      "stage": "2",
+      "online": "asked",
+      "published": "",
+      "required": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001",
+      "gaps": "No source found since October 2023 says a standing online channel for comment on drafts is in service, that comments were published, or that a rule requires drafts to be put online.",
+      "note": "In September 2026 the posts ministry had a named draft decree on the data protection authority online for public consultation. Nothing shows a standing channel open for more than one draft, so it is not stage 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }
