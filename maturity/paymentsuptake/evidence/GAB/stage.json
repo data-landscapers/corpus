@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "2",
-   "share": "quarter",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-001",
-   "gaps": "No source found since October 2023 says: do over half hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "3",
+      "share": "half",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-002",
+      "gaps": "No survey puts account holding at four in five adults, or gives the share paying digitally. The GSMA's 62% names no survey, and a Findex 2025 report leaves about 46% with a bank account.",
+      "note": "The newest figure, the GSMA's of October 2026, puts adults with a mobile money account at 62%, over half. Nothing puts account holding at 79% or more, so not stage 4.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

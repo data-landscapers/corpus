@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,uptake,share,coverage,quarter,2025,GAB-001,,
-GAB,uptake,target,coverage,,,,,nothing held
-GAB,uptake,payments,coverage,,,,,nothing held
+GAB,uptake,share,coverage,half,2026-10,GAB-002,GAB-001=quarter,
+GAB,uptake,target,coverage,,,,,nothing found
+GAB,uptake,payments,coverage,,,,,nothing found

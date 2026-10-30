@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-gab-gsma-calls-for-more-affordable-smartphones-gabon-off-mobile-internet",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "GSMA's October 2026 report on Gabon says 62% of adults hold a mobile money account; the document does not name the underlying survey.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "mobile money accounts",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

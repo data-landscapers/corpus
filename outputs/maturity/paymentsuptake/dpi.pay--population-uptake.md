@@ -22,8 +22,8 @@ The World Bank's Global Findex 2025 puts account ownership at 79% of adults worl
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 3 |
-| 3 Established | 13 |
-| 2 Nascent | 6 |
+| 3 Established | 14 |
+| 2 Nascent | 5 |
 | 1 Absent | 1 |
 | Unplaced | 9 |
 | No evidence | 22 |
@@ -77,6 +77,12 @@ Over half of adults held an account in 2024.
 Over half of adults held an account in 2025.
 
 - The World Bank's Global Findex 2025 report puts 63 per cent of adults in Eswatini with an account at a financial institution or a mobile money provider ([source, 2025](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=Mobile+money+drives+financial+inclusion+growth&bvhdgsj=Business+and+Economy&yiphi=435)).
+
+### Gabon: 3 Established
+
+The GSMA put adults with a mobile money account at 62% in 2026; whether four in five hold an account is not known.
+
+- GSMA's October 2026 report on Gabon says 62% of adults hold a mobile money account; the document does not name the underlying survey ([source, 2026-10](https://www.gsma.com/newsroom/all-documents/gsma-calls-for-more-affordable-smartphones-as-over-half-of-gabons-population-remains-off-mobile-internet-despite-network-coverage/)).
 
 ### Malawi: 3 Established
 
@@ -133,12 +139,6 @@ Over half of adults held an account in 2025.
 A quarter of adults or more held an account in 2024.
 
 - The paper, citing Global Findex data, says account ownership among Ethiopian adults rose from 22% in 2014 and 35% in 2017 to 49% in 2024 ([source, 2024](https://doi.org/10.51244/ijrsi.2025.1210000333)).
-
-### Gabon: 2 Nascent
-
-A quarter of adults or more held an account in 2025.
-
-- The article says about 54% of adults in Gabon are unbanked, per the World Bank's Global Findex 2025, which leaves about 46% with an account ([source, 2025](https://www.biometricupdate.com/202512/gabon-pens-deal-with-uncdf-to-accelerate-financial-inclusion)).
 
 ### Liberia: 2 Nascent
 
