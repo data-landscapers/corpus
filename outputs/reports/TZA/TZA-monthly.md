@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: TZA
-ledger_rows: 85
+ledger_rows: 89
 not_held: 5
-record: bd42b7e8ea7c
+record: d605c89a2bd7
 ---
 
 # News, Sep – Oct 2026
@@ -882,6 +882,34 @@ Tanzania's Deputy Minister for Industry and Trade Denis Londo said on 11 October
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Jamii Wezeshi registration platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital driver identification in Tanzania](https://stronghold.co.tz/article/digital-driver-identification-in-tanzania)** — Stronghold, 29 October 2026
+
+Officials and motorcycle-taxi associations met in Dodoma to discuss Jamii Wezeshi, a government platform registering drivers for health insurance, social security and loans (reported 29 October 2026). Permanent Secretary Eliakim Chacha Maswi said the data should guide support for drivers. The association CHAMWAPITA proposed a unified database of drivers and loan recipients.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zanzibar Land Registration and Information System (LARIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zanzibar to link identity card with land ownership records to curb disputes](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-to-link-identity-card-with-land-ownership-records-to-curb-disputes-5650378)** — The Citizen (Tanzania), 29 October 2026
+
+Zanzibar plans to link Zan ID card details to land ownership records through LARIS, a land registration system being built by the French firm IGN FI. The project coordinator said on 29 October 2026 that the project runs from June 2026 to May 2028. Its nine components include digitising land documents.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -1168,6 +1196,20 @@ Tanzania's energy minister launched new customer service systems for the state p
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bank of Tanzania AI and Data Innovation Hub and AI policies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoT instructs institutions to embrace AI and data analytics for operational efficiency - Daily News](https://dailynews.co.tz/bot-instructs-institutions-to-embrace-ai-and-data-analytics-for-operational-efficiency/)** — Daily News (Tanzania), 29 October 2026
+
+Bank of Tanzania Governor Emmanuel Tutuba said the bank has set up an AI and Data Innovation Hub (reported 29 October 2026). The bank has approved policies on AI adoption with safeguards for privacy and human oversight. It has signed cooperation agreements with five Tanzanian higher-learning and research institutions.
+
+</div>
+
+</div>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -1273,6 +1315,20 @@ Tanzania's ICT minister, Angellah Kairuki, launched a TZS 5bn loan programme for
 **[SMZ yatenga Sh53 bilioni kuendesha miradi ya Tehama](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282)** — Mwananchi, 3 October 2026
 
 Summarised under [Data Storage](#data-storage).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed Tanzania Venture Capital Fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania plans $50m venture capital fund for startups](https://ippmedia.co.tz/the-guardian/news/local-news/read/tanzania-plans-50m-venture-capital-fund-for-startups-2026-10-26-115005)** — The Guardian (Tanzania), 26 October 2026
+
+Startup association proposal; 15% public anchor, 18 venture funds, $180m private co-investment targeted.
 
 </div>
 
