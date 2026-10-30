@@ -9,6 +9,7 @@ budget-watch.py — the list of budget-library pages the poll watches (strategic
     python scripts/budget-watch.py refind             # R104: one enumeration per failed library
     python scripts/budget-watch.py followups          # R106: a sitting queued per pulled document
     python scripts/budget-watch.py coverage           # R106: held and absent types, dated
+    python scripts/budget-watch.py stage COD URL --title T --type budget-estimates --found-on PAGE
 
 **One row per library, read from the mirror's `budget-archive/` companions.** A library is a
 country's documents on one host: `(iso3, host)`, `www.` folded. Its URL is the deepest
@@ -692,7 +693,7 @@ def yaml_str(s: str) -> str:
 
 def companion(row: dict, url: str, text: str, doc_type: str, artefact: str, body: bytes,
               published: str, precision: str, source: str, fys: list[str], batch: str,
-              today: dt.date) -> str:
+              today: dt.date, found: str = "") -> str:
     title = link_title(url, text)
     pages = pdf_pages(body) if artefact.endswith(".pdf") else None
     extent = f"{pages} pp, " if pages else ""
@@ -715,12 +716,16 @@ def companion(row: dict, url: str, text: str, doc_type: str, artefact: str, body
         "the fiscal years are read off the link and the date off the file, and the "
         "instrument, scope, currency and printed scale are ingest's to state.", "",
         "## Source", "",
-        f"Listed as \"{text}\" on {row['institution']}'s library page, <{row['library_url']}>, "
-        f"polled {today}.", "",
+        (f"Found by hand on <{found}>, fetched {today}." if found else
+         f"Listed as \"{text}\" on {row['institution']}'s library page, <{row['library_url']}>, "
+         f"polled {today}."), "",
         "## Notes", "",
-        f"Found by CORPUS's budget poll (`budget-watch.py poll`, strategic review R103): new on "
-        f"the page since the last poll and held nowhere by URL or md5. `doc_type` is the "
-        f"keyword match on the link. `published` is {DATE_FROM[source]}.", "",
+        ("Staged by hand by CORPUS (`budget-watch.py stage`) from the FY2027 discovery list, "
+         "`logs/fy2027-discovery.csv`, and held nowhere by URL or md5. `doc_type` is CORPUS's "
+         "reading of the document." if found else
+         "Found by CORPUS's budget poll (`budget-watch.py poll`, strategic review R103): new on "
+         "the page since the last poll and held nowhere by URL or md5. `doc_type` is the "
+         "keyword match on the link.") + f" `published` is {DATE_FROM[source]}.", "",
     ]
     return "\n".join(fm + body_md)
 
@@ -736,7 +741,7 @@ def stage_folder(iso3: str, today: dt.date) -> Path:
 
 
 def stage(folder: Path, row: dict, href: str, text: str, doc_type: str, body: bytes, ext: str,
-          last_mod: str, today: dt.date, slugify) -> str:
+          last_mod: str, today: dt.date, slugify, found: str = "") -> str:
     folder.mkdir(parents=True, exist_ok=True)
     label = f"{text} {up.unquote(os.path.basename(up.urlsplit(href).path))}"
     fys = fy_labels(label, row.get("fy_start_month", ""))
@@ -754,8 +759,47 @@ def stage(folder: Path, row: dict, href: str, text: str, doc_type: str, body: by
     (folder / f"{stem}{ext}").write_bytes(body)
     (folder / f"{stem}-companion.md").write_text(
         companion(row, href, text, doc_type, f"{stem}{ext}", body, published, precision, source,
-                  fys, batch, today), encoding="utf-8", newline="\n")
+                  fys, batch, today, found), encoding="utf-8", newline="\n")
     return stem
+
+
+def stage_one(iso3: str, url: str, title: str, doc_type: str, found_on: str) -> int:
+    """One document found by hand — the FY2027 discovery list (Bill, 2026-10-30) — staged as the
+    poll stages one: refused if its URL or md5 is held, recorded in `links.csv`, `READY` last."""
+    ss = _load("status_stage", "status-stage.py")
+    today = dt.date.today()
+    if doc_type not in doc_stages():
+        print(f"budget-watch stage: {doc_type!r} is not in budget-doc-types.csv", file=sys.stderr)
+        return 1
+    held = set(ss.lookup("raw-url-index.csv")) | set(ss.lookup("rejected-urls.csv"))
+    held |= {ss.norm(frontmatter(f).get("url", "")) for f in ARCHIVE.glob("*/*/*companion.md")}
+    if ss.norm(url) in held:
+        print(f"budget-watch stage: already held: {url}")
+        return 0
+    host = re.sub(r"^www\.", "", up.urlsplit(url).hostname or "")
+    _, rows = read_existing()
+    row = dict(rows.get((iso3, host)) or {"iso3": iso3, "institution": host, "library_url": found_on})
+    row["fy_start_month"] = row.get("fy_start_month") or budgets_fy_month(iso3)
+    body, ext_or_why, last_mod = fetch_document(url)
+    if body is None:
+        print(f"budget-watch stage: fetch failed: {ext_or_why}", file=sys.stderr)
+        return 1
+    with open(LOOKUPS / "artefact-md5-index.csv", encoding="utf-8", newline="") as fh:
+        md5s = {r["md5"]: r["artefact"] for r in csv.DictReader(fh)}
+    digest = hashlib.md5(body).hexdigest()
+    if digest in md5s:
+        outcome = f"held-md5: {md5s[digest]}"
+    else:
+        folder = stage_folder(iso3, today)
+        stem = stage(folder, row, url, title, doc_type, body, ext_or_why, last_mod, today,
+                     ss.slugify, found=found_on)
+        (folder / "READY").touch()          # last, per the share's README
+        outcome = f"staged: {folder.name}/{stem}"
+    append_csv(LINKS, ["iso3", "host", "url", "first_seen", "outcome", "doc_type"],
+               [{"iso3": iso3, "host": host, "url": url, "first_seen": today, "outcome": outcome,
+                 "doc_type": doc_type}])
+    print(f"budget-watch stage: {outcome}")
+    return 0
 
 
 def poll(iso: str | None, force: bool, dry_run: bool, limit: int) -> int:
@@ -1203,11 +1247,19 @@ def main() -> int:
     f.add_argument("--iso", help="one country")
     sub.add_parser("followups", help="R106: queue an extract sitting for each pulled document")
     sub.add_parser("coverage", help="R106: held and absent types per country-year")
+    t = sub.add_parser("stage", help="stage one document found by hand (the FY2027 discovery list)")
+    t.add_argument("iso3")
+    t.add_argument("url")
+    t.add_argument("--title", required=True, help="the title as the document prints it")
+    t.add_argument("--type", required=True, dest="doc_type", help="a type in budget-doc-types.csv")
+    t.add_argument("--found-on", required=True, help="the page the link was found on")
     args = p.parse_args()
     if args.cmd == "followups":
         return followups()
     if args.cmd == "coverage":
         return coverage()
+    if args.cmd == "stage":
+        return stage_one(args.iso3.upper(), args.url, args.title, args.doc_type, args.found_on)
     if args.cmd == "refind":
         return refind(args.iso and args.iso.upper())
     if args.cmd == "poll":
