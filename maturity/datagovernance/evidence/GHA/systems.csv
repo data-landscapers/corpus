@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GHA,National Data Strategy,National Data Strategy,policy,,"Government of Ghana (Ministry of Communications and Digitalisation), with Smart Africa and the EU",national,2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe
 GHA,National Data Strategy,Ghana,policy,,Data Protection Commission / Ministry of Communications and Digitalisation,,2024-06-28-gha-a-two-day-national-data-strategy-validation-workshop-held-in-accra
+GHA,National Air Quality Data Hub,Ghana,other,PostgreSQL/PostGIS hub with map dashboard,"KNUST, with the EPA to take ownership",,2026-09-15-gha-myjoyonline-knust-epa-national-air-quality-data-hub

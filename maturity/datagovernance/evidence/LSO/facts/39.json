@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-04-lso-lesotho-charts-a-progressive-path-on-data-governance",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "A CIPESA account says participants at the 28-31 July 2025 Maseru workshop examined Lesotho's draft Data Management Policy (2025) against African instruments.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Data Management Policy (draft, 2025)",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Management Policy (draft, 2025)",
+   "country_label": "Lesotho",
+   "class": "policy",
+   "platform": "",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

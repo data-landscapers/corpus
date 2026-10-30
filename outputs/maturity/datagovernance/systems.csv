@@ -16,6 +16,7 @@ EGY,"National Artificial Intelligence Strategy, Second Edition",National AI Stra
 GAB,Government interoperability platform,Interoperability platform,other,,ANINF,government information systems,2026-09-09-techafricanews-gabon-four-digital-projects
 GHA,National Data Strategy,National Data Strategy,policy,,"Government of Ghana (Ministry of Communications and Digitalisation), with Smart Africa and the EU",national,2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe
 GHA,National Data Strategy,Ghana,policy,,Data Protection Commission / Ministry of Communications and Digitalisation,,2024-06-28-gha-a-two-day-national-data-strategy-validation-workshop-held-in-accra
+GHA,National Air Quality Data Hub,Ghana,other,PostgreSQL/PostGIS hub with map dashboard,"KNUST, with the EPA to take ownership",,2026-09-15-gha-myjoyonline-knust-epa-national-air-quality-data-hub
 GMB,National Data Policy 2025,National Data Policy 2025 (draft),policy,,Ministry of Communications and Digital Economy,,2025-01-01 National Data Policy 2025 - The Gambia (draft)
 GMB,National Data Policy,National Data Policy,policy,,Ministry of Communications and Digital Economy,,2025-01-01-gambia-national-data-policy-validated-eeas
 GMB,The Gambia national data policy and strategy,The Gambia national data policy and strategy,policy,,,,2026-09-01-xaf-ria-datacipation-data-policy-project
@@ -37,6 +38,7 @@ LBR,National Data Policy,National Data Policy,policy,,Ministry of Posts and Tele
 LBR,National Data Governance Policy,"National Data Governance Policy (Liberia, 2026)",policy,,Ministry of Posts and Telecommunications,,2026-03-01-liberia-national-data-governance-policy
 LBY,National Guide for Government Data Governance,National Guide for Government Data Governance,policy,,General Information Authority,central government; Libyan Zakat Fund,2026-04-23-gia-zakat-fund-data-governance-national-guide
 LBY,LY-NDEX,National Data Distributor (LY-NDEX),other,,General Information Authority,government entities,2026-04-23-gia-zakat-fund-data-governance-national-guide
+LSO,"Data Management Policy (draft, 2025)",Lesotho,policy,,MICSTI,,2025-08-04-lso-lesotho-charts-a-progressive-path-on-data-governance
 MAR,Law 09-08 recast,Loi 09-08,other,,CNDP; Ministry of Justice,,2026-08-04-protection-des-donnees-la-confiance-moteur-de-leconomie-numerique
 MAR,Digital X.0 framework law,Digital X.0,other,,Ministry of Digital Transition and Administrative Reform,,2025-11-04-wearetech-morocco-landmark-law-ai-data-identity
 MAR,Digital Morocco 2030,Digital Morocco 2030,other,,Government of Morocco,,2025-07-31 Morocco Digital Economy — US Country Commercial Guide (Digital Morocco 2030)
@@ -58,11 +60,13 @@ RWA,Data Sharing Platform,Data Sharing Platform,other,,RISA,government instituti
 RWA,Rwanda National Data Sharing Policy,public sector data sharing policy,policy,,Government of Rwanda,national,2026-05-07 What will determine the success of Rwanda’s data governance push
 RWA,Data Governance Unit (NISR),Data Governance Unit,policy,,National Institute of Statistics of Rwanda,national,2026-05-07 What will determine the success of Rwanda’s data governance push
 RWA,Data sharing platform,data sharing platform,other,,Data Governance Unit (NISR),national,2026-05-07 What will determine the success of Rwanda’s data governance push
+RWA,National Data Sharing Policy,Rwanda,policy,,,,2025-09-01-rwa-dpo-newsletter-september-2025
 SEN,Blueprint on Data Valorisation,Blueprint on Data Valorisation,policy,,"Ministry of Telecommunications and Digital, DTIC, with Smart Africa and GIZ",,2026-09-23-sen-validates-national-blueprint-data-valorisation
 SEN,Stratégie nationale des données (SND),Stratégie nationale des données,policy,,,,2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees
 SEN,Stratégie sur l'intelligence artificielle (SNIA),Stratégie sur l'intelligence artificielle,other,,,,2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees
 SEN,Blueprint for Value Creation Through Data,Blueprint for Value Creation Through Data,policy,,"Ministry of Telecommunications and Digital Economy, with Smart Africa and GIZ",,2026-07-06-wearetech-data-ai-governance-blueprint
 SEN,New Deal Technologique,New Deal Technologique,other,,Government of Senegal,,2026-07-06-wearetech-data-ai-governance-blueprint
+SEN,Stratégie Nationale des Données (SND),Senegal,policy,,,,2024-10-03-sen-mise-a-niveau-du-projet-de-loi-sur-la-protection-des-donnees-personnel
 SLE,Data Governance Framework,Data Governance Framework,policy,,"Ministry of Communication, Technology and Innovation",national,2026-09-05-sierra-leone-moctii-un-data-governance-framework
 SLE,National Data Strategy,National Data Strategy,policy,,Government of Sierra Leone,national,2025-01-01 Strengthening Sierra Leones national data strategy (DIAL)
 SLE,National Data Strategy,National Data Strategy,policy,,"Ministry of Communication, Technology and Innovation",national,2026-08-21-techreviewafrica-sierra-leone-dsti-data-protection-by-design

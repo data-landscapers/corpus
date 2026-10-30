@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-03-sen-mise-a-niveau-du-projet-de-loi-sur-la-protection-des-donnees-personnel",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Le Tech Observateur says the authorities have adopted the Stratégie Nationale des Données (SND) among their recent strategies.",
+   "as_of": "2024-10-03",
+   "date_precision": "day",
+   "system": "Stratégie Nationale des Données (SND)",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie Nationale des Données (SND)",
+   "country_label": "Senegal",
+   "class": "policy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

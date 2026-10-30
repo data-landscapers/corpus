@@ -100,8 +100,9 @@ Mauritius launched its National Data Strategy 2025-2029 in January 2026; no body
 
 ### Senegal: 3 Established
 
-A July 2026 report says Senegal has adopted a national data strategy; when it was adopted and who carries it out are not known.
+Senegal had adopted a national data strategy by 2024; who carries it out is not known.
 
+- Le Tech Observateur says the authorities have adopted the Stratégie Nationale des Données (SND) among their recent strategies ([source, 2024-10-03](https://letechobservateur.sn/mise-a-niveau-du-projet-de-loi-sur-la-protection-des-donnees-personnelles-une-avancee-majeure-pour-le-cadre-legal-senegalais/)).
 - The article says Senegal has adopted its National Data Strategy (SND) and AI Strategy (SNIA), without giving the adoption date; the date used is the article's published date, which the file marks as an ingest-date proxy ([source, 2026-07-20](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/)).
 
 ### Sierra Leone: 3 Established

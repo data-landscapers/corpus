@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-rwa-dpo-newsletter-september-2025",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Data Protection and Privacy Office newsletter reports its then head saying on 11 September 2025 that Rwanda's National Data Sharing Policy guides responsible data handling alongside the data protection law.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "National Data Sharing Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Sharing Policy",
+   "country_label": "Rwanda",
+   "class": "policy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

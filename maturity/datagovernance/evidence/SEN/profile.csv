@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,policy,standing,coverage,adopted,2026-07-20,SEN-002,SEN-001=draft;SEN-003=draft,
-SEN,policy,use,coverage,,,,,nothing held
+SEN,policy,standing,coverage,adopted,2026-07-20,SEN-002;SEN-004,SEN-001=draft;SEN-003=draft,
+SEN,policy,use,coverage,,,,,nothing found

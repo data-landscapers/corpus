@@ -8,10 +8,10 @@
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-002",
-      "gaps": "No source found names a body set up to carry out the strategy. The date it was adopted is not given.",
-      "note": "A July 2026 report says the National Data Strategy is adopted, which meets stage 3; the data blueprint validated in September 2026 is a separate draft. No body named to carry out the strategy is held, so stage 4 is not met.",
-      "as_at": "2026-10-28"
+      "stage_sources": "SEN-004;SEN-002",
+      "gaps": "No source found names a body set up to carry out the strategy. The exact date it was adopted is not given.",
+      "note": "Le Tech Observateur lists the National Data Strategy as adopted by October 2024, and a July 2026 report says the same, which meets stage 3. No body named to carry it out is held, so stage 4 is not met.",
+      "as_at": "2026-10-30"
     }
   ]
 }
