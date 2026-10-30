@@ -69,6 +69,9 @@ BDI,Ibipimo,Ibipimo lab management system,single-function,,,,2026-02-06-state-bd
 BDI,eLMIS,eLMIS pharmacy management system,single-function,,,,2026-02-06-state-bdi-afghs-data-systems-2026-record
 BDI,DHIS2 Tracker,DHIS2 Tracker surveillance and outbreak response data system,tracker,DHIS2,,,2026-02-06-state-bdi-afghs-data-systems-2026-record
 BDI,DHIS2,Burundi,hmis,DHIS2,"DSNIS, Ministry of Public Health",,2024-06-25-bdi-undp-verification-donnees-tuberculose-dhis2
+BDI,SIDAInfo,Burundi,tracker,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,IBIPIMO,Burundi,single-function,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,DHIS2,Burundi,hmis,DHIS2,MINISANTE,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
 BEN,DHIS2,National DHIS2,hmis,DHIS2,,aggregate reporting from district level; direct entry in one clinic as a pilot,2026-03-31 Africa we have a data problem
 BEN,carnet de santé digital (dossier patient électronique),carnet de santé digital,emr,,,"none stated; a pledge, not a deployment",2026-03-21-benin-programme-wadagni-talata-2026-2033
 BEN,Alafia.com,plateforme Alafia.com,community,,Ministry of Digital Affairs with the Ministry of Health,"community health workers with tablets, in households and villages; data centralised in real time",2025-11-21-lanouvelletribune-telemedecine-alafia
@@ -356,6 +359,7 @@ COG,surveillance épidémiologique,surveillance épidémiologique,single-functio
 COG,surveillance sentinelle de la grippe,surveillance sentinelle de la grippe,single-function,,"Ministère de la Santé et de la Population, with WHO support","three sentinel sites in Brazzaville and Pointe-Noire, operating since November 2025",2026-04-01-cog-rapport-annuel-2025-oms-au-congo
 COG,eSIGL (Open mSupply),Congo,single-function,Open mSupply,"DPM, Ministry of Health",,2025-11-01-cog-dpm-open-msupply-esigl-validation
 COG,DHIS2,SNIS (DHIS2),hmis,DHIS2,Ministry of Health,,2023-10-25-cog-hispwca-suivi-vaccinal-dhis2
+COG,Systeme d'Information Communautaire (SIC),Congo,community,,Ministry of Health and Population,,2026-10-28-cog-talangai-lancement-de-la-formation-des-relais-communautaires-sur-lutil
 COM,DHIS2 national health management information system (HMIS),national health management information system (HMIS),hmis,DHIS2,"Ministry of Health, with technical assistance from HISP Rwanda",not stated; national,2026-07-01-dhis2-comores-climate-health-country-profile
 COM,DHIS2 disease surveillance,,single-function,DHIS2,Ministry of Health,not stated,2026-07-01-dhis2-comores-climate-health-country-profile
 COM,DHIS2 community health,,community,DHIS2,Ministry of Health,not stated,2026-07-01-dhis2-comores-climate-health-country-profile
@@ -495,6 +499,7 @@ ERI,DHIS-2,District health information system (DHIS); HMIS,hmis,DHIS2,"Ministry 
 ERI,Integrated Disease Surveillance and Response (IDSR),IDSR,single-function,,"Ministry of Health, with WHO support","national and Zoba levels, with focal points in prioritised health facilities",2022-01-01-eri-who-eritrea-annual-report-2022
 ERI,DHIS 2,District Health Information Software (DHIS 2); HMIS,hmis,"DHIS2, offline version",,"all Zobas; HMIS stated as available at all levels, reporting from health facilities",2021-01-01-eri-who-eritrea-biennium-report-2020-2021-consolidating-achievement-of-uhc
 ERI,IDSR,IDSR,single-function,,Ministry of Health,data collected through the HMIS structure at all levels,2021-01-01-eri-who-eritrea-biennium-report-2020-2021-consolidating-achievement-of-uhc
+ERI,VigiMobile,Eritrea,single-function,smartphone app,NMFA,,2025-10-15-who-vigimobile-eritrea-workshop
 ETH,electronic Community Health Information System (eCHIS),eCHIS,community,"three mobile applications: HEW app, Focal Person app, Referral app",Ministry of Health,"Health Extension Workers at health posts and on home visits in rural communities, in eCHIS-implementing woredas; referrals to and from health centres",2026-05-28-plos-one-echis-maternal-child-health-impact-study
 ETH,Community Health Information System (CHIS),CHIS,community,paper,Ministry of Health,"community level, Health Extension Program, introduced 2008",2026-05-28-plos-one-echis-maternal-child-health-impact-study
 ETH,DHIS2,DHIS2,hmis,DHIS2,,"all 30,000+ public health facilities for aggregate reporting; health posts' data entered at district level from paper",2026-03-31 Africa we have a data problem
@@ -1139,6 +1144,7 @@ MUS,Health Information System (Rodrigues),Health Information System (HIS),hmis,,
 MUS,DHIS2,"DHIS2 for case detection and active surveillance of all major notifiable diseases, including vaccine-preventable diseases and HIV",single-function,DHIS2,Ministry of Health and Wellness; in Rodrigues to be developed with MOHW and WHO support,to be established; baseline 0 in Rodrigues in 2019,2020-01-01-mus-health-sector-strategic-plan-2020-2024-caring-for-people-s-health-and
 MUS,Laboratory Management and Information System (LMIS),Laboratory Management and Information System (LMIS),single-function,,,not stated; implementation to be sustained,2020-01-01-mus-health-sector-strategic-plan-2020-2024-caring-for-people-s-health-and
 MUS,inventory management system for medicines (Rodrigues),paper-based inventory management system,single-function,paper,,Rodrigues health facilities,2020-01-01-mus-health-sector-strategic-plan-2020-2024-caring-for-people-s-health-and
+MUS,E-Health,E-Health electronic medical record,emr,Government Intranet Network System hosting,Ministry of Health (UNDP-managed contract),T1;T2,2026-10-27-mus-dossier-m-dical-num-rique-e-health-plus-de-150-000-patients-d-j-enregi
 MWI,Malawi Health Care Information System (Mahis),Mahis,emr,,Ministry of Health and Sanitation,"Queen Elizabeth Central Hospital (Blantyre) and selected health centres nationwide, pilot",2026-09-04-malawi-mahis-digital-health-records-pilot
 MWI,Interoperability layer,interoperability layer,exchange,,Ministry of Health and Sanitation,"links the central server of patient identifiers and records to health facilities across the country, as described by the ministry",2026-09-04-malawi-mahis-digital-health-records-pilot
 MWI,integrated Community Health Information System (iCHIS),iCHIS,community,,Ministry of Health and Sanitation; developed by the University of Malawi Computing Department (HISP UNIMA) with the ministry and partners,"community level: Health Surveillance Assistants in 15 districts, 3,764 HSAs and Senior HSAs trained and using it",2026-06-21-ichis-community-health-information-system

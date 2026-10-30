@@ -311,7 +311,7 @@ District offices enter paper reports from 1,266 facilities into the national sys
 
 ### Mali: 3 Established
 
-Community and referral health centres and hospitals had routine data in the national system in 2019; no source found says how many clinics enter their own.
+Community and referral health centres and hospitals had routine data in the national system in 2019; how many clinics enter their own is not known.
 
 *Community integrated.*
 

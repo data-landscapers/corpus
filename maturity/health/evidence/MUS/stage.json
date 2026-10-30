@@ -20,14 +20,15 @@
       "stage": "2",
       "governance": "owner:partner;owner:ministry;finance:not-stated",
       "tiers": "T2;T3",
-      "digitised": "point-of-care",
+      "digitised": "shared",
       "last12": "advancing",
       "clinics": "pilot",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "MUS-015;MUS-016;MUS-017",
-      "gaps": "The primary structures using e-Health are neither named nor counted and lie in one region, so no share or count of primary clinics is established; the newest clinics fact is the May 2026 pilot (MUS-017), not the 2019 share of 0% the profile carries (MUS-031). Owner is disputed inside the window: UNDP in charge of procurement and overall management (MUS-006, MUS-013) against the ministry and its Digital Health Company (MUS-014, MUS-020). The only plan named ran 2020-2024 and has ended, so no current plan has been found, and the source of the MUR 600 million is not stated; a January 2026 article still describes the system in the future tense (MUS-021) against the April 2026 usage figures (MUS-016). Whether the record is retrievable at another facility is not stated. Rows MUS-001 to MUS-005 are from the excluded source and set nothing.",
-      "note": "e-Health is operational at one regional hospital and several uncounted primary structures of the same region after a test phase begun in August 2025, which is pilot facilities. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and one region's pilot does not carry that."
+      "stage_sources": "MUS-037;MUS-015;MUS-036",
+      "gaps": "About thirty public facilities of the East and Centre run e-Health in pilot (MUS-037, October 2026), but primary clinics are not counted apart from hospitals, so no share or count of primary clinics is established. Owner is disputed inside the window: UNDP in charge of procurement and overall management (MUS-006, MUS-013) against the ministry and its Digital Health Company (MUS-014, MUS-020). The only plan named ran 2020-2024 and has ended, and the source of the MUR 600 million is not stated. Rows MUS-001 to MUS-005 are from the excluded source and set nothing.",
+      "note": "e-Health holds one national record per patient retrievable at any connected facility, but in October 2026 it is still a pilot in about thirty facilities of two regions, which is pilot sites. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts past a pilot, which no row shows.",
+      "as_at": "2026-10-30"
     }
   ]
 }

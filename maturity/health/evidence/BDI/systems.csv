@@ -45,3 +45,6 @@ BDI,Ibipimo,Ibipimo lab management system,single-function,,,,2026-02-06-state-bd
 BDI,eLMIS,eLMIS pharmacy management system,single-function,,,,2026-02-06-state-bdi-afghs-data-systems-2026-record
 BDI,DHIS2 Tracker,DHIS2 Tracker surveillance and outbreak response data system,tracker,DHIS2,,,2026-02-06-state-bdi-afghs-data-systems-2026-record
 BDI,DHIS2,Burundi,hmis,DHIS2,"DSNIS, Ministry of Public Health",,2024-06-25-bdi-undp-verification-donnees-tuberculose-dhis2
+BDI,SIDAInfo,Burundi,tracker,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,IBIPIMO,Burundi,single-function,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
+BDI,DHIS2,Burundi,hmis,DHIS2,MINISANTE,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi

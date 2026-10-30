@@ -183,7 +183,7 @@ An electronic record system ran in 1,254 health facilities of all types in Augus
 
 ### Algeria: 2 Nascent
 
-In September 2026 the electronic medical record ran in pilot facilities, with all public establishments due by November; no source found says how many use it.
+In September 2026 the electronic medical record ran in pilot facilities, with all public establishments due by November; how many use it is not known.
 
 *Advancing.*
 
@@ -246,7 +246,7 @@ The ministry signed a partnership for electronic medical records in its hospital
 
 ### Cote d'Ivoire: 2 Nascent
 
-The ministry's patient record ran throughout one general hospital from 2024 and was deployed at 268 establishments by 2026; no source found reports use across hospitals.
+The ministry's patient record ran in one general hospital from 2024 and was deployed at 268 establishments by 2026; use across hospitals is not known.
 
 *Advancing.*
 
@@ -401,13 +401,13 @@ One pilot health centre, Sebkha, had digitised its patient records in 2022; noth
 
 ### Mauritius: 2 Nascent
 
-An electronic health system runs at one regional hospital and several primary care sites in its region (May 2026); no source found says how many sites.
+A shared electronic patient record was piloted at about thirty public facilities in two regions in 2026; how many are primary clinics is not known.
 
 *Advancing.*
 
+- Le Defi Media reports E-Health is in pilot in about thirty public health facilities of the East and Centre, with over 150,000 patients registered ([source, 2026-10-27](https://defimedia.info/dossier-medical-numerique-e-health-plus-de-150000-patients-deja-enregistres)).
 - L'Express reports the health minister saying the e-Health system is already operational at New Flacq Hospital, where testing began on 23 August 2025, and in several primary health care structures of the same region, which the article neither names nor counts; the statement is undated, so the article's published date is used ([source, 2026-05](https://lexpress.mu/node/557690)).
-- L'Express reports the health minister saying the e-Health system covers the full outpatient cycle from registration through appointments, consultation, laboratory investigations and medication to follow-up, with nursing, doctor and pharmacy modules added to phase 1 towards a paperless patient experience, and that by 30 April 2026 it had recorded more than 126,000 patient registrations, 225,000 visits and 221,000 medical consultations ([source, 2026-04-30](https://lexpress.mu/node/557690)).
-- L'Express reports the health minister saying that, following a test phase begun at New Flacq Hospital on 23 August 2025, the e-Health system is operational in several primary health care structures of that region; no number of clinics and no denominator is given, and the article's published date is used ([source, 2026-05](https://lexpress.mu/node/557690)).
+- Le Defi Media reports, quoting Ministry of Health adviser Keshav Jokhun, that E-Health holds one national electronic record per patient, found by national identity card and consulted by staff at any other connected public facility ([source, 2026-10-27](https://defimedia.info/dossier-medical-numerique-e-health-plus-de-150000-patients-deja-enregistres)).
 
 ### Mozambique: 2 Nascent
 
@@ -460,7 +460,7 @@ The patient record runs only at pilot sites, in 1% of the 102 health centres (Oc
 
 ### Seychelles: 2 Nascent
 
-A ministry system with electronic medical records has run since the end of 2021; no source found says whether clinics record on it or on paper.
+A ministry system with electronic medical records has run since the end of 2021; whether clinics record on it or on paper is not known.
 
 - Seychelles Nation, from a Ministry of Health press release, reports at the ministry's digital health visioning meeting of 22 January 2024 that the Electronic Health Information System has been operational since the end of 2021 and that the ministry is now trying to link it with laboratories and X-ray so doctors get results on their computers ([source, 2024-01-22](https://www.nation.sc/articles/20833/leaders-scrutinize-seychelles-digital-health-transformation)).
 - Seychelles Nation reports the health minister saying on 17 October 2023 that the Ministry of Health is investing in an Electronic Health Information System encompassing Electronic Medical Records, to be accessible to all health professionals throughout the system, is building its capacity to use it, and is working with the ICT department on the security of citizens' health information ([source, 2023-10-17](https://www.nation.sc/articles/19775/digital-maturity-of-seychelles-health-sector-in-the-spotlight--by-sunny-esparon-)).

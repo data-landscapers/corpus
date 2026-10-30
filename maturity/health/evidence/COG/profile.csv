@@ -4,8 +4,8 @@ COG,hmis,tiers,coverage,T2;T3,2024-09-01,COG-012,,
 COG,hmis,digitised,coverage,district,2024,COG-006;COG-011,COG-014=paper,
 COG,hmis,last12,qualifier,advancing,2025,COG-015,,
 COG,hmis,clinics,coverage,none,2024-09-01,COG-013,,
-COG,emr,governance,qualifier,,,,,nothing held
-COG,emr,tiers,coverage,,,,,nothing held
-COG,emr,digitised,coverage,,,,,nothing held
-COG,emr,last12,qualifier,,,,,nothing held
-COG,emr,clinics,coverage,,,,,nothing held
+COG,emr,governance,qualifier,,,,,nothing found
+COG,emr,tiers,coverage,,,,,nothing found
+COG,emr,digitised,coverage,,,,,nothing found
+COG,emr,last12,qualifier,,,,,nothing found
+COG,emr,clinics,coverage,,,,,nothing found
