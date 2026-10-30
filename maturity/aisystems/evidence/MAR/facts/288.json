@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-mar-medias24-decret-2-26-831-attributions-ia-rahhou",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "An agreement was signed on 8 April 2026 with Nexus for an AI Factory at Nouaceur, a project valued at 1.2 billion dollars, per Médias24.",
+   "as_of": "2026-04-08",
+   "date_precision": "day",
+   "system": "AI Factory (Nouaceur)",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Factory",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "Nexus",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-bfa-ecofin-ia-langues-locales-defi-donnees",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Agence Ecofin says a workshop at Koudougou on 24-28 March 2026, run by the digital ministry with RTB and CITADEL, worked on language formalisation and corpus building in Moore, Dioula, Fulfulde and Gulmancema for speech recognition, machine translation and speech synthesis tools.",
+   "as_of": "2026-03-28",
+   "date_precision": "day",
+   "system": "local-language corpus for AI tools",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

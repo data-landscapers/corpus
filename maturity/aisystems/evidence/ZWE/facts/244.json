@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-zwe-potraz-says-it-is-now-a-gateway-for-investors-not-a-gatekeeper",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "POTRAZ director-general Gift Machengete said the AI for Impact programme drew over 700 applications in 2026 and advanced 16 AI innovations towards commercialisation with private partners such as Econet.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "AI for Impact programme",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI for Impact programme",
+   "country_label": "Zimbabwe",
+   "class": "localai",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

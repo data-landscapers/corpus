@@ -10,6 +10,7 @@ BFA,CITADEL Mooré-French translation tool,Burkina Faso,localai,,"CITADEL, Virtu
 BFA,L'Essentiel.bf,Burkina Faso,localai,web and mobile app,CITADEL and Data Lab,,2026-10-15-bfa-l-essentiel-bf-plateforme-numerique-francais-moore
 BFA,LegiChat,Burkina Faso,localai,app,,,2025-11-17-bfa-contribution-by-burkina-faso-to-the-cstd-2025-2026-priority-theme-on-s
 BFA,French-Mooré translation platform,Burkina Faso,localai,platform,,,2025-11-17-bfa-contribution-by-burkina-faso-to-the-cstd-2025-2026-priority-theme-on-s
+BFA,AI agents developed by local structures,Burkina Faso,localai,,,,2026-10-28-bfa-digitalmagazine-cadre-concertation-dsi-2026-ia-dematerialisation
 BWA,Setswana AI,Botswana,localai,,Kitso Speaks and Glen Mokoka,,2025-02-07-bwa-speaks-mokoka-the-brains-behind-setswana-artificial-intelligence
 BWA,Uhuru,Botswana,localai,"WhatsApp, SMS, USSD, web app",Orion X,free; Pro,2025-07-23-bwa-how-uhuru-sets-to-resist-digital-imperialism
 BWA,Lesedi high-density computational facility,Botswana,localai,containerised computing on gas-fired power,Kala Data FZCO (operator) with Tlou Energy,,2025-03-11-bwa-agreement-for-data-centre-development-at-lesedi
@@ -125,6 +126,7 @@ MAR,CNDP LLM platform,Morocco,localai,,CNDP,,2025-09-17-mar-lia-encore-embryonna
 MAR,Atlaset,Atlaset / AlAtlas,localai,Hugging Face,AtlasIA,,2025-01-01-mar-al-atlas-moroccan-darija-pretraining
 MAR,GemMaroc,Morocco,localai,,,,2026-10-25-mar-le-plf-2027-veut-faire-du-cloud-le-choix-par-defaut-des-nouveaux-projets-numeriq
 MAR,IsMa,Morocco,localai,,,,2026-10-25-mar-le-plf-2027-veut-faire-du-cloud-le-choix-par-defaut-des-nouveaux-projets-numeriq
+MAR,AI Factory,Morocco,localai,,Nexus,,2026-10-28-mar-medias24-decret-2-26-831-attributions-ia-rahhou
 MLI,Centre d'intelligence artificielle et de robotique,Mali,other,,,,2026-09-28-mli-ai-robotics-centre-sovereignty-diallo
 MLI,Centre d'Intelligence Artificielle et Robotique du Mali,Mali,other,,,,2026-07-06-mali-discours-dialogue-mondial-gouvernance-ia
 MLI,African Next Voices Bambara dataset (AFVoices) and ASR models,Mali,localai,Hugging Face,RobotsMali AI4D Lab,,2025-11-26-mli-robotsmali-african-next-voices-bambara
@@ -171,6 +173,7 @@ NGA,Nigeria AI Scaling Hub (NAISH),Nigeria,localai,Galaxy Backbone,"Federal Mini
 NGA,N-ATLAS,Nigeria,localai,Meta Llama-3,National Centre for Artificial Intelligence and Robotics; Awarri,,2026-10-24-nga-nigerias-tijani-pitches-fibre-and-skills-drive-for-ai-in-seoul
 NGA,National shared computing facility,Nigeria,localai,,Government with Gates Foundation,,2026-10-24-nga-nigerias-tijani-pitches-fibre-and-skills-drive-for-ai-in-seoul
 NGA,AFRIDATA data centres,Nigeria,other,AI-ready data centres,INFRAGORA Global Capital,Tier III+/IV (planned),2026-10-26-nga-techcabal-infragora-afridata-data-centres
+NGA,"AFRIDATA Nigeria data centres (Lagos, Delta)",Nigeria,other,,AFRIDATA,Lagos designed to Tier IV,2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study
 RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
 RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 RWA,Kinyarwanda voice dataset on Common Voice,Rwanda,localai,Mozilla Common Voice,Digital Umuganda; Mozilla Foundation,,2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in
@@ -248,3 +251,4 @@ ZWE,National Information Access Centre (NIAC),Zimbabwe,localai,Nvidia GPU-powere
 ZWE,High-performance computing facility,Zimbabwe,other,,Government,,2026-02-08-zwe-minister-mavetera-defends-zimbabwe-s-ai-drive-addresses-infrastructure
 ZWE,Chillmine solar-powered data centres (planned),Zimbabwe,localai,AI Infrastructure-as-a-Service and cryptomining hosting,Chillmine,,2025-04-28-zwe-chillmine-energywise-to-develop-solar-powered-data-centers-in-zimbabwe
 ZWE,Pangolin AI,Zimbabwe,localai,national AI and data platform,"Ministry of ICT, Postal and Courier Services",,2026-10-28-zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027
+ZWE,AI for Impact programme,Zimbabwe,localai,,POTRAZ,,2026-10-29-zwe-potraz-says-it-is-now-a-gateway-for-investors-not-a-gatekeeper

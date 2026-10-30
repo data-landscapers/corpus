@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-bfa-digitalmagazine-cadre-concertation-dsi-2026-ia-dematerialisation",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Digital Magazine Burkina reports that AI agents developed by local structures were showcased at the 2026 forum of ministry IT directors opened on 26 October 2026, and that the ministry stresses local ownership of AI solutions.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "AI agents developed by local structures",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI agents developed by local structures",
+   "country_label": "Burkina Faso",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
