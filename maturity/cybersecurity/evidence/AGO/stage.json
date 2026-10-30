@@ -11,7 +11,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "AGO-004;AGO-010",
-      "gaps": "No source found says the national body published a count of incidents for a period ending since September 2024.",
+      "gaps": "No source found says the national body published how it dealt with incidents in the past year.",
       "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
       "as_at": "2026-10-17"
     }

@@ -12,4 +12,4 @@
 
 ***Also on file***. [Agence nationale de certification électronique](<https://depeche.cd/2026/09/29/rdc-augustin-kibassa-detaille-les-avancees-dun-an-dans-la-transformation-numerique/>); [Kidzonet](<https://actualite.cd/2026/07/17/rdc-africell-lance-kidzonet-pour-renforcer-la-protection-des-enfants-sur-internet>).
 
-***Not found***. No source found says the national body published a count of incidents for a period ending since September 2024.
+***Not found***. No source found says the national body published how it dealt with incidents in the past year.

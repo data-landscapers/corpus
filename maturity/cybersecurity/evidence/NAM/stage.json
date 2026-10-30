@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "readiness",
-      "stage": "5",
+      "stage": "4",
       "foundation": "body",
       "response": "responded",
-      "cii": "",
-      "figures": "published",
+      "cii": "designated",
+      "figures": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-003;NAM-018;NAM-001",
-      "gaps": "",
-      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NAM-024;NAM-027;NAM-001",
+      "gaps": "No source found says the national body published how it dealt with incidents in the past year.",
+      "note": "Rung 5 rewritten 2026-10-30 (a count recorded is not incidents dealt with; window one year). NAM-CSIRT's quarterly and annual counts are of events and vulnerabilities detected, not incidents dealt with. The 2024 register of critical infrastructure (NAM-024) answers question 3.",
+      "as_at": "2026-10-30"
     }
   ]
 }

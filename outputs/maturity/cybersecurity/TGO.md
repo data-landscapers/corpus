@@ -12,4 +12,4 @@
 
 ***Also on file***. [TogoCyber+](<https://www.wearetech.africa/fr/fils/actualites/tech/togo-le-luxembourg-renforce-son-appui-a-la-transformation-numerique-et-a-la-cybersecurite>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says the country has designated its critical information infrastructure.

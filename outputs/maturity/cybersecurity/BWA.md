@@ -12,4 +12,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found says the country designated its critical information infrastructure or bound its operators to report incidents, or that the national body published a count of incidents handled.
+***Not found***. No source found says the country designated its critical information infrastructure or bound its operators to report incidents.

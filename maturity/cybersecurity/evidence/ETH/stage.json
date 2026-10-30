@@ -12,8 +12,8 @@
       "flags": "",
       "stage_sources": "ETH-016;ETH-003;ETH-015",
       "gaps": "",
-      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
-      "as_at": "2026-10-18"
+      "note": "Rung 5 rewritten 2026-10-30 (a count recorded is not incidents dealt with; window one year). Ethio-CERT identified and responded to more than 71,000 attacks in 2018 E.C. (ETH-016); INSA neutralised 27,505 of 27,773 in the first half of fiscal 2025/26 (ETH-020).",
+      "as_at": "2026-10-30"
     }
   ]
 }

@@ -1,18 +1,19 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "5",
-   "foundation": "body",
-   "response": "responded",
-   "cii": "",
-   "figures": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-014;TGO-004;TGO-010",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "3",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "",
+      "figures": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-004;TGO-010",
+      "gaps": "No source found says the country has designated its critical information infrastructure.",
+      "note": "Rung 5 rewritten 2026-10-30 (a count recorded is not incidents dealt with; window one year). ANCy's 333,000 incidents handled run to 2024, outside the year. No designation of critical infrastructure is held.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

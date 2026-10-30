@@ -113,9 +113,9 @@
     "The country has adopted a national cybersecurity strategy, or created a national cyber agency or response team by law, decree or order.",
     "The national body has handled a cyber incident or issued a public alert in the past three years.",
     "The country has designated its critical information infrastructure, or bound the operators of critical systems to report incidents to the national body.",
-    "The national body publishes a count of incidents it handled, for a quarter or more ending within the past two years."
+    "The national body publishes evidence of dealing with incidents (responding, containing or notifying, not only recording them) for a quarter or more ending within the past year."
    ],
-   "criteria_of": "13bdab22c286"
+   "criteria_of": "691acc05e015"
   }
  ],
  "classes": [
@@ -168,12 +168,15 @@
    "key": "figures",
    "name": "Published figures",
    "role": "coverage",
-   "defer": [],
+   "defer": [
+    "recorded"
+   ],
    "prefer": [
     "published"
    ],
    "values": [
-    "published"
+    "published",
+    "recorded"
    ]
   }
  ],

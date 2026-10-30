@@ -12,4 +12,4 @@
 
 ***Also on file***. [PLCC](<https://anssi.gouv.ci/documents/90/LE_RAPPORT_2024_SUR_LETAT_DE_LA_CYBERCRIMINALITE_EN_C%C3%94TE_DIVOIRE.pdf>); [CI-CERT](<https://www.fratmat.info/article/2631534/economie/cybersecurite-lanssi-officiellement-lancee-pour-renforcer-la-protection-des-systemes-dinformation>); [Critical Infrastructure Protection Plan (PPIC)](<https://ncsi.ega.ee/country/ci_2022/>); [RN-RSSI](<https://www.linfodrome.com/economie/122307-cyber-securite-le-ministre-djibril-ouattara-lance-les-travaux-du-premier-atelier-du-reseau-national-des-rssi>); [Reseau national des responsables de la securite des systemes d'information (Rn-Rssi)](<https://www.fratmat.info/article/2642473/economie/lutte-contre-la-cybercriminalite-le-ministre-djibril-ouattara-lance-le-reseau-national-des-rssi>); [Plateforme de lutte contre la cybercriminalite (PLCC)](<https://bilan.gouv.ci/actualite/19393>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says the national body published how it dealt with incidents in the past year.

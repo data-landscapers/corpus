@@ -12,4 +12,4 @@
 
 ***Also on file***. [TCRA fraud reporting (SMS 15040)](<https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712>); [TCRA fraud number and domain blocking via short code 15040](<https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/>); [Directorate of Cyber Security and Information Protection, Zanzibar](<https://www.mwananchi.co.tz/mw/zanzibar/wizara-ya-mawasiliano-yawekeza-katika-usalama-wa-mtandao-kuziba-mianya-ya-wahalifu-5492792>).
 
-***Not found***. No source found says the national body published a count of incidents for a period ending since September 2024.
+***Not found***. No source found says the national body published how it dealt with incidents in the past year.

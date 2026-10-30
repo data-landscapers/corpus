@@ -8,7 +8,7 @@
 
 **Critical infrastructure.** No source found says the country designated its critical information infrastructure or required the operators of its critical systems to report incidents to the national body; the stage rests on [the source that sets it](<https://www.challenges.tn/high-tech/cybersecurite-en-tunisie-deux-circulaires-en-trois-semaines-les-entreprises-privees-sont-prevenues>).
 
-**Published figures.** [According to ANCS, Tunisia recorded over 57,000 cyberattacks in the first half of 2025](<https://www.challenges.tn/high-tech/cybersecurite-en-tunisie-deux-circulaires-en-trois-semaines-les-entreprises-privees-sont-prevenues>). [Incidents declared to ANSI rose by over 146% in 2022, from 63,000 in 2021 to over 155,000 (2022, before the three-year window)](<https://www.leconomistemaghrebin.com/2026/08/07/cyberattaques-tunisie-explosion-ransomwares/>).
+**Published figures.** [For the first half of 2026 the ANCS published 336 tunCERT advisories and 657,540 incidents reported to those affected](<https://www.ancs.tn/fr/statistiques/statistiques-relatives-au-cyberespace-tunisien-1er-semestre-2026>). [For 2025 the counts were 563 advisories and 557,793 incidents](<https://www.ancs.tn/fr/statistics>). [According to ANCS, Tunisia recorded over 57,000 cyberattacks in the first half of 2025](<https://www.challenges.tn/high-tech/cybersecurite-en-tunisie-deux-circulaires-en-trois-semaines-les-entreprises-privees-sont-prevenues>). [Incidents declared to ANSI rose by over 146% in 2022, from 63,000 in 2021 to over 155,000 (2022, before the three-year window)](<https://www.leconomistemaghrebin.com/2026/08/07/cyberattaques-tunisie-explosion-ransomwares/>).
 
 ***Also on file***. None found.
 

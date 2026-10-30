@@ -12,4 +12,4 @@
 
 ***Also on file***. [Directorate of Criminal Investigations (CID)](<https://nilepost.co.ug/news/367069/cid-seeks-more-investigators-as-criminals-shift-to-digital-spaces>); [National Information Security Framework (NISF)](<https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf>).
 
-***Not found***. No source found says the national body published a count of incidents for a period ending since September 2024.
+***Not found***. No source found says the national body published how it dealt with incidents in the past year.

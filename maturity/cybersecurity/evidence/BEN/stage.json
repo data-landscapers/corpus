@@ -1,18 +1,19 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "5",
-   "foundation": "body",
-   "response": "",
-   "cii": "",
-   "figures": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-005;BEN-006",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "2",
+      "foundation": "body",
+      "response": "",
+      "cii": "",
+      "figures": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-006",
+      "gaps": "No source found says the national body handled an incident or issued a public alert since October 2023.",
+      "note": "Rung 5 rewritten 2026-10-30 (a count recorded is not incidents dealt with; window one year). ASIN's 2021-2024 report counts vulnerabilities and incidents found, not dealt with, and ends outside the year. No source states bjCSIRT handled an incident or issued an alert.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

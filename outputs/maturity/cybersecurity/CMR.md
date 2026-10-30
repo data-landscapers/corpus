@@ -12,4 +12,4 @@
 
 ***Also on file***. [CSIRT/SOC/PKI platform (planned, feasibility study)](<https://armp.cm/details?id_publication=4499&type_publication=AMI>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says the country has designated its critical information infrastructure.

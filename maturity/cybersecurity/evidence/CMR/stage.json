@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "readiness",
-      "stage": "5",
+      "stage": "3",
       "foundation": "body",
       "response": "responded",
       "cii": "",
-      "figures": "published",
+      "figures": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-012;CMR-008;CMR-005",
-      "gaps": "",
-      "note": "ANTIC's count of 17,500 complaints for 2025 answers question 4, and a later yes answers the earlier ones. No designation of critical infrastructure is held.",
-      "as_at": "2026-10-28"
+      "stage_sources": "CMR-008;CMR-016",
+      "gaps": "No source found says the country has designated its critical information infrastructure.",
+      "note": "Rung 5 rewritten 2026-10-30 (a count recorded is not incidents dealt with; window one year). ANTIC's 17,500 complaints for 2025 is a count recorded. Its 2025 blocking of fraud apps and fake accounts (CMR-011) is action on fraud and content, not incident handling. No designation of critical infrastructure is held.",
+      "as_at": "2026-10-30"
     }
   ]
 }

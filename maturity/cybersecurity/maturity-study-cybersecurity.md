@@ -33,7 +33,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Does the country have a national cybersecurity strategy or a national cyber body? | A source states a strategy was adopted, or a national agency or response team was created by law, decree or order |
 | 2 | Has the national body responded to an incident in the last three years? | A source from October 2023 or later states it handled an incident or issued a public alert |
 | 3 | Has the country named its critical information infrastructure? | A source states the systems that count as critical were designated, or their operators required to report incidents to the national body |
-| 4 | Does the national body publish figures? | A published count of incidents handled or alerts issued, for a period of a quarter or more ending within the last two years |
+| 4 | Does the national body publish evidence of dealing with incidents? | The body's own account of incidents it acted on (responded to, contained, neutralised, investigated or notified to those hit), for a period of a quarter or more ending within the last year. A count of complaints, cases recorded or threats detected is not a yes: recording a case is not acting on it |
 
 ## 3. The ladders
 
@@ -45,16 +45,16 @@ Asked in order. Each is answered with a date and a link.
 | 2 Nascent | Yes to 1: a strategy adopted or a body created |
 | 3 Established | Yes to 2: the body has responded to an incident |
 | 4 Operating | Yes to 3: critical information infrastructure designated |
-| 5 Leading | Yes to 4: the body publishes figures |
+| 5 Leading | Yes to 4: the body publishes evidence of dealing with incidents in the last year |
 
 - **Stage 2 changes.** The row put an announced or drafted strategy at stage 2. Only an adopted strategy or a created body is a yes now; a draft is noted and the cell stays where the rest of its evidence puts it.
 - **Stage 3 changes.** The row asked for a strategy and a law and a constituted body, and no record. A body that has handled an incident or issued an alert is the first fact that shows it works, so that is stage 3. The law moves out: it is its own row.
 - **Stage 4 keeps the row's critical-infrastructure regime** as one fact a notice states. Its enforcement and prosecutions go to the law's row.
-- **Stage 5 keeps the row's "reporting published"** as a count of incidents. Malabo ratification, regional cooperation and a recognised assessment go: the first is noted as on the law's row, and the other two are not a fact a story states.
-- **Windows**: a strategy counts while its period runs, and a body until a source says it was dissolved; question 2 is three years; question 3 has none; question 4 is two years. A statement that there is nothing counts for three years.
+- **Stage 5 keeps the row's "reporting published"** as an account of incidents dealt with *(Bill, 2026-10-30: a count of complaints or detections shows recording, not action)*. Malabo ratification, regional cooperation and a recognised assessment go: the first is noted as on the law's row, and the other two are not a fact a story states.
+- **Windows**: a strategy counts while its period runs, and a body until a source says it was dissolved; question 2 is three years; question 3 has none; question 4 is one year. A statement that there is nothing counts for three years.
 - **A later yes answers the earlier ones**: published figures show a body that responds, and a designation names the body operators report to.
 
-`study.json` holds this as four aspects, which head the long summary's paragraphs: `foundation` (`body`, `strategy`, `none`) for question 1, `response` (`responded`) for question 2, `cii` (`designated`) for question 3 and `figures` (`published`) for question 4. **For the drafter**: a body's name goes in `country_label`; an alert counts only when the national body issued it, not a bank or a ministry.
+`study.json` holds this as four aspects, which head the long summary's paragraphs: `foundation` (`body`, `strategy`, `none`) for question 1, `response` (`responded`) for question 2, `cii` (`designated`) for question 3 and `figures` (`published`, or `recorded` for a count that shows no action, which never stages) for question 4. **For the drafter**: a body's name goes in `country_label`; an alert counts only when the national body issued it, not a bank or a ministry.
 
 ## 4. The norm
 

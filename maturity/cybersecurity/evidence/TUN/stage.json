@@ -1,18 +1,19 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "5",
-   "foundation": "body",
-   "response": "responded",
-   "cii": "",
-   "figures": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-004;TUN-010;TUN-003",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "5",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "",
+      "figures": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-017;TUN-023;TUN-003",
+      "gaps": "",
+      "note": "Rung 5 rewritten 2026-10-30 (a count recorded is not incidents dealt with; window one year). tunCERT's first-half 2026 figures give 336 advisories and 657,540 incidents notified to those affected (TUN-017).",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

@@ -12,4 +12,4 @@
 
 ***Also on file***. [Conselho Nacional de Cibersegurança](<https://pti.ao/minttics-apresenta-estrategia-nacional-de-ciberseguranca-no-cybersecur-summit-2026/>); [National Cybersecurity Council](<https://techafricanews.com/2025/12/09/angola-unveils-national-cybersecurity-strategy-to-strengthen-digital-resilience/>); [Centro Nacional de Cibersegurança](<https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-258-25-de-03-de-dezembro/>); [Conselho Nacional de Cibersegurança (draft decree)](<https://inacom.gov.ao/2025/10/27/proposta-de-lei-da-ciberseguranca-apreciada-pelo-conselho-de-ministros/>).
 
-***Not found***. No source found says the national body published a count of incidents for a period ending since September 2024.
+***Not found***. No source found says the national body published how it dealt with incidents in the past year.

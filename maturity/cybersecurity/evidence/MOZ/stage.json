@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "readiness",
-      "stage": "5",
+      "stage": "4",
       "foundation": "body",
       "response": "responded",
       "cii": "designated",
-      "figures": "published",
+      "figures": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-012;MOZ-019;MOZ-024",
-      "gaps": "",
-      "note": "Stage held: the 2026 figures and Law 13/2026's reporting duty stand. MOZ-002 is removed, naming sectors without designating them; CSIRT alerts now answer question 2.",
-      "as_at": "2026-10-28"
+      "stage_sources": "MOZ-019;MOZ-024;MOZ-004",
+      "gaps": "No source found says the national body published how it dealt with incidents in the past year.",
+      "note": "Rung 5 rewritten 2026-10-30 (a count recorded is not incidents dealt with; window one year). INTIC's 5,654 ransomware attempts for January-July 2026 were detected, not dealt with; the 2024 log (MOZ-025) is older than a year. Lei 13/2026 duty (MOZ-019) carries question 3.",
+      "as_at": "2026-10-30"
     }
   ]
 }

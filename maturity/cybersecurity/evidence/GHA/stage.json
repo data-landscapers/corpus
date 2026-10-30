@@ -10,10 +10,10 @@
       "figures": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-043;GHA-002;GHA-042",
+      "stage_sources": "GHA-011;GHA-002;GHA-046",
       "gaps": "",
-      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
-      "as_at": "2026-10-17"
+      "note": "Rung 5 rewritten 2026-10-30 (a count recorded is not incidents dealt with; window one year). CERT-GH responded to 3,363 incidents in January-June 2026 (GHA-011); counts of incidents recorded are revalued.",
+      "as_at": "2026-10-30"
     }
   ]
 }

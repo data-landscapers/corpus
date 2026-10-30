@@ -12,4 +12,4 @@
 
 ***Also on file***. [Cybersecurity Incident Response Teams (CSIRTs) of critical information infrastructure operators](<https://clubofmozambique.com/news/mozambique-government-updating-national-cybersecurity-strategy>); [Conselho Nacional de Segurança Cibernética](<https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244>); [Lei n.º 14/2026 (Lei dos Crimes Cibernéticos)](<https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says the national body published how it dealt with incidents in the past year.

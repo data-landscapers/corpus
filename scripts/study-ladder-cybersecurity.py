@@ -13,7 +13,8 @@ r"""study-ladder-cybersecurity.py — the national cyber response study's four q
    spent.
 2. **Responding**: a `response` row of `responded` inside three years.
 3. **Critical infrastructure**: a `cii` row of `designated`, no window.
-4. **Figures**: a `figures` row of `published` whose period ends inside two years.
+4. **Figures**: a `figures` row of `published` whose period ends inside a year. A count that shows
+   recording, not action, is `recorded` and stages nothing *(Bill, 2026-10-30)*.
 
 A yes to a later question answers the earlier ones (§3.3). A `foundation` row of `none`
 inside three years places a country at stage 1, and only where nothing answers yes.
@@ -38,10 +39,10 @@ import study_lib  # noqa: E402
 
 STUDY = "cybersecurity"
 QS = (("foundation", ("body", "strategy"), 0), ("response", ("responded",), 36),
-      ("cii", ("designated",), 0), ("figures", ("published",), 24))
+      ("cii", ("designated",), 0), ("figures", ("published",), 12))
 GAPS = {
     "5": "",
-    "4": "No source found says the national body published a count of incidents for a period ending since September 2024.",
+    "4": "No source found says the national body published how it dealt with incidents in the past year.",
     "3": "No source found says the country has designated its critical information infrastructure.",
     "2": "No source found says the national body handled an incident or issued a public alert since October 2023.",
     "1": "",

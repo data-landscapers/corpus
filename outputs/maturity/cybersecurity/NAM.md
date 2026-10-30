@@ -12,4 +12,4 @@
 
 ***Also on file***. [National Cybersecurity Incident Management Guidelines 2026](<https://neweralive.na/namibias-cyber-threats-soar/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says the national body published how it dealt with incidents in the past year.

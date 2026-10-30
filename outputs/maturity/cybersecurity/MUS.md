@@ -12,4 +12,4 @@
 
 ***Also on file***. [National Cybersecurity Committee](<https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students>); [Threat Intelligence Sharing Platform for the Banking sector](<https://www.bom.mu/media/media-releases/request-proposal-supply-and-implementation-threat-intelligence-sharing-platform-banking-sector-0>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says the country has designated its critical information infrastructure.

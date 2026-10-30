@@ -1,18 +1,19 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "5",
-   "foundation": "body",
-   "response": "responded",
-   "cii": "",
-   "figures": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-013;KEN-016;KEN-017",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "5",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "",
+      "figures": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-013;KEN-016;KEN-024",
+      "gaps": "",
+      "note": "Rung 5 rewritten 2026-10-30 (a count recorded is not incidents dealt with; window one year). KE-CIRT/CC's quarterly report to June 2026 counts advisories issued to those affected and 358 digital investigations (KEN-013, KEN-021).",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

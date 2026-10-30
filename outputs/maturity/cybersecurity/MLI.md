@@ -8,7 +8,7 @@
 
 **Critical infrastructure.** No designation of critical information infrastructure is known. Nor is a duty on the operators of critical systems to report incidents. The nearest fact is the [2026-2030 strategy adopted by decree](<https://koulouba.ml/communique-du-conseil-des-ministres-du-mercredi-10-juin-2026-cm-n2026-23-sgg/>).
 
-**Published figures.** No count of incidents handled by a national body is known for any period in the last two years. [The texts creating ANSSI were adopted only in June 2026](<https://koulouba.ml/communique-du-conseil-des-ministres-du-mercredi-10-juin-2026-cm-n2026-23-sgg/>).
+**Published figures.** No account by a national body of incidents it dealt with is known for any period in the last year. [The texts creating ANSSI were adopted only in June 2026](<https://koulouba.ml/communique-du-conseil-des-ministres-du-mercredi-10-juin-2026-cm-n2026-23-sgg/>).
 
 ***Also on file***. [Pole national de lutte contre la cybercriminalite](<https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029>).
 
