@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: TUN
-ledger_rows: 67
+ledger_rows: 68
 not_held: 5
-record: 189e2d985419
+record: 37b14bdea8c0
 ---
 
 # News, Sep – Oct 2026
@@ -660,6 +660,14 @@ Tunisia's tax directorate added functions to its TEJ tax data exchange platform 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : la digitalisation fiscale permet d’économiser 6 000 journées de travail - WMC](https://www.webmanagercenter.com/2026/10/27/575585/tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de-travail/)** — Webmanagercenter, 27 October 2026
+
+85,000-plus TEJ filers by end-July 2026; ~6,000 working days saved; 270-plus connected cash registers.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -793,6 +801,20 @@ Tunisia's health ministry announced an extra 15 million dinars a year for region
 **[Lancement d’une plateforme numérique pour gérer les cadres des mosquées - La Presse de Tunisie](https://www.lapresse.tn/2026/10/10/lancement-dune-plateforme-numerique-pour-gerer-les-cadres-des-mosquees/)** — La Presse de Tunisie, 10 October 2026
 
 Tunisia's religious affairs ministry has launched a platform to manage mosque staff: it follows personnel files, shows vacant posts and links central and regional services.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Connected cash registers in sit-in consumption outlets</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Tunisie : la digitalisation fiscale permet d’économiser 6 000 journées de travail - WMC](https://www.webmanagercenter.com/2026/10/27/575585/tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de-travail/)** — Webmanagercenter, 27 October 2026
+
+Summarised under [Registries](#registries).
 
 </div>
 
