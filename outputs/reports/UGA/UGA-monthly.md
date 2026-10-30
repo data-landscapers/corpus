@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: UGA
-ledger_rows: 78
+ledger_rows: 79
 not_held: 11
-record: 91d14517d55d
+record: b1903eea6816
 ---
 
 # News, Sep – Oct 2026
@@ -218,6 +218,14 @@ Kampala traders and the Uganda Communications Commission agreed to form a joint 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Government Seeks Two Weeks to Resolve Wi-Fi Hotspot Licensing Dispute](https://www.ugandaradionetwork.net/story/government-seeks-two-weeks-to-resolve-wi-fi-hotspot-licensing-dispute)** — Uganda Radio Network, 28 October 2026
+
+ICT minister asks Parliament for two weeks to build a framework letting small hotspot operators trade legally.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -319,6 +327,20 @@ South Sudan and Uganda's health ministers signed a memorandum of understanding i
 **[South Sudan, Uganda Sign MoU to Strengthen Customs Cooperation](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/)** — Juba Echo TV, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
 The South Sudan Revenue Authority and the Uganda Revenue Authority signed their third memorandum of understanding on customs cooperation, reported on 16 September 2026, covering modernisation, digital interoperability, transit trade and capacity building. New areas include enforcement of the electronic permit system. No commencement date or text is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egypt-Uganda memorandum on digital transformation and AI</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt, Uganda discuss cooperation in digital transformation, AI](https://sis.gov.eg/en/media-center/news/egypt-uganda-discuss-cooperation-in-digital-transformation-ai/)** — State Information Service (Egypt), 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Ugandan ICT delegation in Cairo; Egypt to support Uganda's AI strategy; MoU on digital and AI cooperation to follow.
 
 </div>
 
