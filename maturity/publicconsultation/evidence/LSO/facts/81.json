@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-27-lso-exploring-the-data-protection-and-data-governance-challenges-and-oppor",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The article says the Ministry of Information, Communications, Science, Technology and Innovation held a multi-stakeholder workshop in August 2025, supported by UNDP, to validate Lesotho's DPI Framework Concept Note, with contributions from the financial sector, telecom operators, academia and civil society.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "DPI Framework Concept Note validation workshop",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

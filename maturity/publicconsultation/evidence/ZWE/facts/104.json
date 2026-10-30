@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-zwe-zimbabwe-s-data-protection-regime",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "POTRAZ says seven further draft data protection guidelines are undergoing public consultation, expected to be finalised before the end of 2025; the drafts are not named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "POTRAZ draft guidelines",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

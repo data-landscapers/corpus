@@ -1,16 +1,17 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "consultation",
-   "stage": "no evidence",
-   "hearing": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says people outside government were asked for their views on a digital law or policy, or that they were not.",
-   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "consultation",
+      "stage": "2",
+      "hearing": "held",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001",
+      "gaps": "No published report of a consultation on a digital law or policy, comments received or written answer to them from the last three years is held.",
+      "note": "OBS-CC says the posts and telecommunications ministry put a draft decree on the data protection authority out for public consultation in September 2026, a yes to question 1. Nothing is held on a published report, a rule requiring it or a standing body.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

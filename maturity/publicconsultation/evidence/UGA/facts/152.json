@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-25-uga-shaping-uganda-s-data-privacy-landscape-our-submission-to-pdpo",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "DPO Privacy Centre (East Africa) says the Personal Data Protection Office held a validation workshop with stakeholders from across sectors on 1 and 2 April 2026 on six named draft instruments, left the window open for written comments, and the Centre filed its comments on 20 May 2026.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office validation workshop",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

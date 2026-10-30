@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-10-gmb-na-commits-data-protection-privacy-bill-to-committee",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The minister said the bill went through a multi-stakeholder consultation that engaged civil society, private organisations and local authorities, ending in a fourth draft.",
+   "as_of": "2024-12-10",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Bill, 2024",
+   "class": "consultation"
+  },
+  {
+   "sub_indicator": "consultation",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The Data Protection and Privacy Committee, with 12 entities including the Gambia Bar Association and the Gambia Cyber Security Alliance, was tasked to review the bill's quality assurance.",
+   "as_of": "2024-12-10",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Committee",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-04-lso-lesotho-charts-a-progressive-path-on-data-governance",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "CIPESA reports a 28-31 July 2025 Maseru workshop, backed by Lesotho's communications ministry, where government officials, academics, civil society and the private sector examined the draft Data Management Policy and the Data Protection Act.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Data governance workshop, Maseru",
+   "class": "consultation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data governance workshop, Maseru",
+   "country_label": "Lesotho",
+   "class": "consultation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

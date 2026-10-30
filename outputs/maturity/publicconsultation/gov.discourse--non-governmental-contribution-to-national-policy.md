@@ -23,10 +23,10 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 4 |
-| 2 Nascent | 33 |
+| 2 Nascent | 34 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 14 |
+| No evidence | 13 |
 
 ## Countries
 
@@ -105,6 +105,12 @@ In June 2026 a workshop with business, universities and civil society reviewed t
 Government met companies and civil society in 2025 on its national data governance strategy; no source found says what they said.
 
 - The UN Economic Commission for Africa page says a nationwide Stakeholder Engagement Workshop on 18 April 2025 brought together public, private and civil society actors to identify Burundi's data governance priorities for the National Data Governance Strategy, validated on 7 November 2025 by a workshop presided over by the Vice-Minister of Finance, Budget and Digital Economy, with private sector, academia and civil society participating in the process ([source, 2025-04-18](https://www.uneca.org/eca-events/burundi-validates-its-first-national-data-governance-strategy)).
+
+### Cameroon: 2 Nascent
+
+The telecommunications ministry put a draft decree on the data protection authority out for public consultation in 2026; no source says what was received.
+
+- OBS-CC says the Ministry of Posts and Telecommunications put a draft decree on the data protection authority among texts submitted to public consultation under PATNUC ([source, 2026-09-14](https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/)).
 
 ### Cape Verde: 2 Nascent
 
@@ -307,12 +313,6 @@ Nothing found shows people outside government were asked about a digital law or 
 Not established: Nothing found says people outside government were asked for their views on a digital law or policy, or that they were not.
 
 ### Benin: No evidence
-
-Nothing found shows people outside government were asked about a digital law or policy, or that they were not, so no stage is set.
-
-Not established: Nothing found says people outside government were asked for their views on a digital law or policy, or that they were not.
-
-### Cameroon: No evidence
 
 Nothing found shows people outside government were asked about a digital law or policy, or that they were not, so no stage is set.
 
