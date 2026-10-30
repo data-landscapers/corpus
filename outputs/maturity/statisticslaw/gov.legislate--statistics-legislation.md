@@ -161,7 +161,7 @@ Cabo Verde's 2019 statistics law is in force and its statistics institute invoke
 
 ### Central African Republic: 3 Established
 
-The Central African Republic's 2001 statistics law is in force; no source found reports a replacement draft was validated in April 2026, and rules under it.
+Central African Republic's 2001 statistics law is in force, and a replacement draft was validated in April 2026; no source found names rules under it.
 
 - This document is the text of Law No. 01.008 regulating statistical activities, promulgated at Bangui on 16 July 2001 and in force from promulgation (art. 34); it creates the national statistical system, the Conseil National de la Statistique and ICASEES ([source, 2001-07-16](https://unstats.un.org/unsd/dnss/docViewer.aspx?docID=2170)).
 
@@ -225,7 +225,7 @@ The Gambia's 2005 Statistics Act is in force and a 2019 replacement bill has not
 
 ### Ghana: 3 Established
 
-Ghana's 2019 Statistical Service Act is in force; no source found reports a replacement bill went to consultation in July 2026, and rules under the Act.
+Ghana's 2019 Statistical Service Act is in force, and a replacement bill went to consultation in July 2026; no source found names rules under it.
 
 - The Ghana Statistical Service's own page reproduces the operative text of the Statistical Service Act (Act 1003) as the governing law; the page is undated, so the year is the Act's, 2019 ([source, 2019](https://statsghana.gov.gh/about/statistical-service-act)).
 - This is the text of the Statistical Service Act, 2019 (Act 1003), assented to 24 September 2019 and commenced 27 September 2019 ([source, 2019-09-27](https://ghalii.org/akn/gh/act/2019/1003)).
@@ -239,7 +239,7 @@ Kenya's 2006 Statistics Act is in force; a bill to replace the bureau went to a 
 
 ### Lesotho: 3 Established
 
-Lesotho's 2001 statistics act is in force; no source found reports a fourth replacement bill is expected to pass in 2026, and rules under the Act.
+Lesotho's 2001 statistics act is in force, and a fourth replacement bill was expected to pass in 2026; no source found names rules under it.
 
 - The Bureau of Statistics' own About page lists the Statistics Act 2001 first among its current strategic documents and says the 1965 act it followed gave no coordination role; the page carries no date, so the capture date is used ([source, 2026-08-29](http://www.bos.gov.ls/about_bos.htm)).
 - The STATAFRIC peer review says the Statistics Act 2001 established the Bureau of Statistics and the national statistical system and the National Statistical Council, and treats it as the current Act that needs modernising ([source, 2001](https://statafric.au.int/sites/default/files/2025-12/ef_peerreview_lesotho_vf.pdf)).
@@ -324,7 +324,7 @@ São Tomé and Príncipe's 1998 statistics law is in force; no source found repo
 
 ### Seychelles: 3 Established
 
-Seychelles' 2010 statistics act is in force; no source found reports a 2025 peer review urged adoption of a new bill, and rules under the Act.
+Seychelles' 2010 statistics act is in force, and a 2025 peer review urged a new bill; no source found names rules under it.
 
 - The National Bureau of Statistics says that in July 2010 its legal framework was recast and the National Statistics Bureau Act 2005 was repealed and replaced by the National Bureau of Statistics Act 2010 ([source, 2010-07](https://www.nbs.gov.sc/downloads/36-data-acquisition-census/16-population-and-vital-statistics/176-2025)).
 - The document is the text of the National Bureau of Statistics Act, 2010 (Act No. 14 of 2010), which establishes the National Bureau of Statistics as the principal statistics agency and repeals the National Statistics Bureau Act 2005; it was assented to on 9 July 2010 and published in the Official Gazette supplement of 19 July 2010 ([source, 2010-07-09](https://www.nbs.gov.sc/images/Act14-NBS.pdf)).
@@ -386,7 +386,7 @@ Uganda's 1998 statistics act is in force and its board chairman invoked it in Au
 
 ### Zimbabwe: 3 Established
 
-Zimbabwe's Census and Statistics Act has been in force since 2009; the statistics agency called it outdated in 2025; no source found reports rules under it.
+Zimbabwe's Census and Statistics Act has been in force since 2009 and was called outdated in 2025; no source found names rules under it.
 
 - ZimStat's spokesperson said the existing Census and Statistics Act is regarded as outdated and does not adequately support an effective national statistical system or big-data and administrative-data sharing; the Act is in force (no date of the Act given, so the article's published date is used) ([source, 2025-10-22](https://www.newsday.co.zw/local-news/article/200047510/outdated-laws-hinder-delivery-of-statistics-zimstat)).
 - ZIMSTAT states that official statistics in Zimbabwe are carried out on the basis of the Census and Statistics Act from 2007, which sets up the Zimbabwe National Statistics Agency and its Board (no event date given, so the page's published date is used) ([source, 2025-03-25](https://zimstat.co.zw/national-statistical-system/)).
