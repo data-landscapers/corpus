@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-tun-thomas-denfer-un-registre-fiable-permet-de-renforcer-lentrepreneuriat",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Thomas Denfer, president of the Alliance francophone des registres du commerce, says Tunisia's RNE is digitising and making accessible its historical company records, with a digitisation drive over the last ten years accelerating recently.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Registre national des entreprises (RNE)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des entreprises (RNE)",
+   "country_label": "Tunisia",
+   "class": "business",
+   "platform": "",
+   "owner": "RNE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

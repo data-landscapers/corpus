@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,business,registration,coverage,inservice,2026,TZA-001;TZA-002;TZA-003,,
-TZA,business,shared,coverage,,,,,nothing held
-TZA,business,owners,coverage,recorded,2026-01-06,TZA-004,,
+TZA,business,registration,coverage,inservice,2026,TZA-001;TZA-002;TZA-003;TZA-005,,
+TZA,business,shared,coverage,,,,,nothing found
+TZA,business,owners,coverage,partial,2026-01-06,TZA-004,,
