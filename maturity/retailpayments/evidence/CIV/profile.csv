@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,retail,service,coverage,inservice,2026-10-15,CIV-001;CIV-003;CIV-004;CIV-005;CIV-006;CIV-007;CIV-009;CIV-010;CIV-011;CIV-012;CIV-013;CIV-015,,
+CIV,retail,service,coverage,inservice,2026-10-29,CIV-001;CIV-003;CIV-004;CIV-005;CIV-006;CIV-007;CIV-009;CIV-010;CIV-011;CIV-012;CIV-013;CIV-015;CIV-016,,
 CIV,retail,interop,coverage,interop,2026-07-29,CIV-002;CIV-008,,
-CIV,retail,switch,coverage,,,,,nothing held
+CIV,retail,switch,coverage,,,,,nothing found

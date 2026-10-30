@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-gin-guinee-nimbapay-traite-7-6-millions-de-transactions-et-connecte-7-etab",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Agence Ecofin reports that NimbaPay, launched in July 2026 and run by Guineenne de Monetique, lets users transfer money between different institutions in real time and pay merchants, with seven institutions connected on 15 October 2026 and about 67,000 transactions worth over GNF 68 billion processed (BCRG, 22 October 2026).",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "Guineenne de Monetique (GuiM)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

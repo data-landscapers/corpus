@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GIN,retail,service,coverage,inservice,2026-09-18,GIN-001;GIN-004;GIN-011;GIN-013;GIN-014;GIN-015;GIN-017;GIN-019;GIN-021;GIN-022;GIN-023;GIN-026;GIN-027,,
-GIN,retail,interop,coverage,interop,2026-07-26,GIN-002;GIN-005;GIN-007;GIN-009;GIN-012;GIN-016;GIN-018;GIN-020;GIN-024,,
+GIN,retail,interop,coverage,interop,2026-10-15,GIN-002;GIN-005;GIN-007;GIN-009;GIN-012;GIN-016;GIN-018;GIN-020;GIN-024;GIN-028,,
 GIN,retail,switch,coverage,national,2026-07-26,GIN-003;GIN-006;GIN-008;GIN-010;GIN-025,,
