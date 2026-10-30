@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,system,law,coverage,in-force,2026-08-16,SWZ-004;SWZ-006;SWZ-017;SWZ-023;SWZ-026;SWZ-031,SWZ-010=not-yet;SWZ-015=not-yet,
+SWZ,system,law,coverage,in-force,2026-08-16,SWZ-004;SWZ-006;SWZ-017;SWZ-023;SWZ-026;SWZ-031;SWZ-034,SWZ-010=not-yet;SWZ-015=not-yet,
 SWZ,system,treaty,coverage,none,2026-07-10,SWZ-013;SWZ-014,,
-SWZ,system,authority,coverage,appointed,2026,SWZ-001;SWZ-003;SWZ-005;SWZ-008;SWZ-009;SWZ-012;SWZ-020;SWZ-025;SWZ-028;SWZ-029;SWZ-032,SWZ-021=none;SWZ-022=none;SWZ-016=none,
-SWZ,system,practice,coverage,ruling,2025-03,SWZ-018;SWZ-019;SWZ-033,SWZ-027=implementing;SWZ-007=implementing;SWZ-024=implementing;SWZ-002=implementing;SWZ-030=implementing;SWZ-011=implementing,
+SWZ,system,authority,coverage,appointed,2026,SWZ-001;SWZ-003;SWZ-005;SWZ-008;SWZ-009;SWZ-012;SWZ-020;SWZ-025;SWZ-028;SWZ-029;SWZ-032;SWZ-035,SWZ-021=none;SWZ-022=none;SWZ-016=none,
+SWZ,system,practice,coverage,ruling,2025-03,SWZ-018;SWZ-019;SWZ-033;SWZ-036,SWZ-027=implementing;SWZ-007=implementing;SWZ-024=implementing;SWZ-002=implementing;SWZ-030=implementing;SWZ-011=implementing,

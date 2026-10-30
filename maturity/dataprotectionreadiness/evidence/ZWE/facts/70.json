@@ -1,0 +1,37 @@
+{
+ "slug": "2025-01-01-zwe-zimbabwe-s-data-protection-regime",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Cyber and Data Protection Act, 2021 is in force and the report calls the framework operational in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act, 2021",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "POTRAZ, the telecom regulator, is designated Data Protection Authority and is carrying out the role.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "POTRAZ keeps a public register of 721 licensed data controllers as of October 2025, handles complaints, issued six guidelines and ran 20 compliance audits in 2025.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

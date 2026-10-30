@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The FDC, as reported, cites the Data Protection and Privacy Act, 2019, as the law that regulates the collection and processing of personal information in Uganda.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Data Protection and Privacy Act, 2019",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection and Privacy Act, 2019",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

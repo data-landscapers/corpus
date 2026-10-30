@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-02-mar-omar-seghrouchni-cndp-l-investissement-n-absout-pas-les-violations-des",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Médias24 interviews the CNDP president Omar Seghrouchni, who says the commission is strengthening its controls and referring non-compliant controllers to the prosecutor.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The CNDP president says the commission is strengthening controls and has set up the national data protection register, while proceedings against three visa contractors remain open.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDP (Commission nationale de contrôle de la protection des données à caractère personnel)",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "Convention 108+ ratification is stated as in progress, not Malabo."
+}

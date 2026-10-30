@@ -1,0 +1,46 @@
+{
+ "slug": "2026-04-24-cpv-cnpd-cabo-verde-um-percurso-de-onze-anos",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The CNPD says the personal data protection legal regime was amended on 17 March 2021.",
+   "as_of": "2021-03-17",
+   "date_precision": "day",
+   "system": "Data protection regime of Cabo Verde",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The CNPD's members took office on 24 April 2015 and it was declared installed on 10 December 2015.",
+   "as_of": "2015-12-10",
+   "date_precision": "day",
+   "system": "CNPD",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The CNPD says that from 2015 to 2025 it issued thousands of authorisations and hundreds of opinions and received hundreds of complaints.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "CNPD",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNPD",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The Convention 108 accession is not the Malabo Convention, so no treaty fact is recorded."
+}

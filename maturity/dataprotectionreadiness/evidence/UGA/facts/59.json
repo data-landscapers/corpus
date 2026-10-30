@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-03-uga-baker-birikujja-appointed-as-uganda-s-national-personal-data-protectio",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Business Focus reports the ICT Minister made an appointment under the Data Protection and Privacy Act, Cap. 97 and its Regulations.",
+   "as_of": "2025-10-03",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act, Cap. 97",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Business Focus reports the ICT Minister appointed Baker Birikujja as National Personal Data Protection Director.",
+   "as_of": "2025-10-03",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

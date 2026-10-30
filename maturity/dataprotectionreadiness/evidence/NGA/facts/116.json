@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-25-nga-nigerias-data-protection-law-at-three-many-regulators-few-remedies",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "ACTPOL says the Nigeria Data Protection Act, 2023 took effect on 12 June 2023.",
+   "as_of": "2023-06-12",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "ACTPOL says the Nigeria Data Protection Act, 2023 created an independent Nigeria Data Protection Commission, which it describes as an active regulator running registration, audit and investigations.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "fact": "ACTPOL reports the Nigeria Data Protection Commission was reported to have fined MultiChoice Nigeria N766,242,500 in July 2025, in part for unlawful cross-border transfers.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

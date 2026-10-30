@@ -287,7 +287,7 @@ Guinea's 2016 data protection law is in force and the Malabo Convention ratified
 
 A data protection law is in force; the authority it creates has not been appointed, and no ruling against an organisation is known (2026).
 
-- Cenfri says Lesotho's Data Protection Act (which it dates 2011) has been law for over a decade; no date for the statement is given, so the document's published date of 2026-03-23 is used ([source, 2026-03-23](https://cenfri.org/articles/african-data-governance-reform-in-an-era-of-reform/)).
+- The article says Lesotho enacted the Data Protection Act in 2011, which remains the cornerstone of its data protection framework ([source, 2026-03-27](https://digitalrightsalliance.africa/exploring-the-data-protection-and-data-governance-challenges-and-opportunities-in-lesotho/)).
 - The African Union's status list of 2 February 2026 records that Lesotho ratified or acceded to the Malabo Convention on 2025-02-05 and deposited its instrument on 2025-02-16 ([source, 2025-02-05](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
 ### Madagascar: 3 Established

@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,system,law,coverage,in-force,2026-01-20,GAB-001;GAB-005;GAB-008;GAB-012,,
-GAB,system,treaty,coverage,ratified,2026,GAB-010,GAB-011=none,
-GAB,system,authority,coverage,appointed,2026-09-04,GAB-004;GAB-007;GAB-014;GAB-016,GAB-002=none;GAB-009=none,
-GAB,system,practice,coverage,ruling,2024-04-25,GAB-013,GAB-015=implementing;GAB-003=implementing;GAB-006=implementing,
+GAB,system,law,coverage,in-force,2026-01-20,GAB-001;GAB-005;GAB-008;GAB-012;GAB-019,,
+GAB,system,treaty,coverage,ratified,2026,GAB-010,GAB-011=none;GAB-022=none,
+GAB,system,authority,coverage,appointed,2026-09-04,GAB-004;GAB-007;GAB-014;GAB-016;GAB-017;GAB-020,GAB-002=none;GAB-009=none,
+GAB,system,practice,coverage,ruling,2025,GAB-013;GAB-018;GAB-021,GAB-015=implementing;GAB-003=implementing;GAB-006=implementing,

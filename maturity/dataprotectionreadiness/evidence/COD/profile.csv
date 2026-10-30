@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COD,system,law,coverage,in-force,2026-03-17,COD-001;COD-004;COD-014,COD-016=not-yet;COD-011=not-yet,
-COD,system,treaty,coverage,ratified,2025-03-06,COD-010,,
+COD,system,treaty,coverage,ratified,2026-02-02,COD-010;COD-018,,
 COD,system,authority,coverage,none,2026-09-13,COD-003;COD-006;COD-007;COD-008;COD-009;COD-012;COD-013;COD-015;COD-017,,
 COD,system,practice,coverage,implementing,2026-03-17,COD-002;COD-005,,

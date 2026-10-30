@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,system,law,coverage,none,2026-08-04,NAM-001,NAM-002=not-yet;NAM-003=not-yet;NAM-013=not-yet;NAM-004=not-yet;NAM-005=not-yet;NAM-006=not-yet;NAM-007=not-yet;NAM-009=not-yet;NAM-011=not-yet,
+NAM,system,law,coverage,none,2026-08-04,NAM-001;NAM-015,NAM-002=not-yet;NAM-003=not-yet;NAM-013=not-yet;NAM-004=not-yet;NAM-005=not-yet;NAM-006=not-yet;NAM-007=not-yet;NAM-009=not-yet;NAM-011=not-yet,
 NAM,system,treaty,coverage,ratified,2025-09-30,NAM-012;NAM-014,,
-NAM,system,authority,coverage,none,2022-03,NAM-008;NAM-010,,nothing dated since 2023-10-24
-NAM,system,practice,coverage,,,,,nothing held
+NAM,system,authority,coverage,none,2026-05-17,NAM-008;NAM-010;NAM-016,,
+NAM,system,practice,coverage,,,,,nothing found

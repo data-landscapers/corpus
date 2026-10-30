@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-23-mus-communique-data-protection-designation-tasks-and-position-of-data-prot",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The communiqué of 23 June 2026 refers to oversight of compliance with the Data Protection Act.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Data Protection Office issued a communiqué on 23 June 2026 and said it certifies data protection officers.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Data Protection Office",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Office",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

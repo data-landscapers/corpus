@@ -1,18 +1,19 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "3",
-   "law": "in-force",
-   "treaty": "ratified",
-   "authority": "none",
-   "practice": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001;LSO-004",
-   "gaps": "No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "3",
+      "law": "in-force",
+      "treaty": "ratified",
+      "authority": "none",
+      "practice": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-006;LSO-004",
+      "gaps": "No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting; a March 2026 article says the Data Protection Commission is not established (LSO-008). The same article says Lesotho has signed but not ratified the Malabo Convention (LSO-007), against the African Union list recording ratification on 5 February 2025 (LSO-004).",
+      "note": "The law is in force and the African Union depositary list records ratification, so the cell holds stage 3; the article contradicting it gives no date for its claim. No authority is appointed, so stage 4 is not reached.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

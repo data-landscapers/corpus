@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,system,law,coverage,in-force,2026-09,MUS-002;MUS-006;MUS-013;MUS-016,MUS-007=not-yet,
+MUS,system,law,coverage,in-force,2026-09,MUS-002;MUS-006;MUS-013;MUS-016;MUS-021,MUS-007=not-yet,
 MUS,system,treaty,coverage,ratified,2018-03-06,MUS-011,,nothing dated since 2023-10-28
-MUS,system,authority,coverage,appointed,2026-09,MUS-001;MUS-004;MUS-005;MUS-009;MUS-012;MUS-014;MUS-017,,
-MUS,system,practice,coverage,ruling,2024,MUS-010,MUS-015=implementing;MUS-018=implementing;MUS-003=implementing;MUS-008=implementing,
+MUS,system,authority,coverage,appointed,2026-09,MUS-001;MUS-004;MUS-005;MUS-009;MUS-012;MUS-014;MUS-017;MUS-019;MUS-022;MUS-023,,
+MUS,system,practice,coverage,ruling,2024,MUS-010,MUS-015=implementing;MUS-018=implementing;MUS-020=implementing;MUS-003=implementing;MUS-008=implementing,

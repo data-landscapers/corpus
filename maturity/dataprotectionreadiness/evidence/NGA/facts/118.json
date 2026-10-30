@@ -1,0 +1,37 @@
+{
+ "slug": "2025-02-09-nga-nigeria-s-data-privacy-breaches-surge-amid-regulatory-pressure",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Punch describes the Nigeria Data Protection Act of 2023 as being enforced by the NDPC.",
+   "as_of": "2025-02-09",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Punch reports the NDPC is led by National Commissioner and CEO Dr Vincent Olatunji.",
+   "as_of": "2025-02-09",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "Punch citing the NDPC 2024 annual report says over 36,052 organisations registered as data controllers and processors of major importance and 2,888 data protection officers were certified.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Nigeria Data Protection Commission",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

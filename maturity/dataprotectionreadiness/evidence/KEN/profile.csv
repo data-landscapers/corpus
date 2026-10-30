@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,system,law,coverage,in-force,2026-10-22,KEN-005;KEN-010;KEN-014;KEN-017;KEN-021;KEN-025;KEN-026;KEN-030;KEN-034,,
+KEN,system,law,coverage,in-force,2026-10-22,KEN-005;KEN-010;KEN-014;KEN-017;KEN-021;KEN-025;KEN-026;KEN-030;KEN-034;KEN-035,,
 KEN,system,treaty,coverage,none,2026-09-08,KEN-022;KEN-023,,
-KEN,system,authority,coverage,appointed,2026,KEN-003;KEN-004;KEN-007;KEN-011;KEN-013;KEN-016;KEN-019;KEN-027;KEN-028;KEN-029;KEN-031;KEN-032,KEN-002=none,
-KEN,system,practice,coverage,ruling,2025,KEN-012;KEN-015;KEN-018,KEN-008=implementing;KEN-024=implementing;KEN-009=implementing;KEN-001=implementing;KEN-020=implementing;KEN-006=implementing;KEN-033=implementing,
+KEN,system,authority,coverage,appointed,2026,KEN-003;KEN-004;KEN-007;KEN-011;KEN-013;KEN-016;KEN-019;KEN-027;KEN-028;KEN-029;KEN-031;KEN-032;KEN-036,KEN-002=none,
+KEN,system,practice,coverage,ruling,2025,KEN-012;KEN-015;KEN-018;KEN-038,KEN-008=implementing;KEN-024=implementing;KEN-009=implementing;KEN-001=implementing;KEN-020=implementing;KEN-006=implementing;KEN-037=implementing;KEN-033=implementing,

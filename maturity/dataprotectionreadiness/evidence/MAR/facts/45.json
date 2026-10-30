@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "ACTPOL says Law 09-08 of 2009 is enforced by the CNDP.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Law 09-08",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "ACTPOL says the CNDP's seven members are appointed by the King.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,system,law,coverage,in-force,2026-06-23,CMR-001;CMR-006,CMR-002=not-yet;CMR-004=not-yet;CMR-008=none,
-CMR,system,treaty,coverage,signed,2026-02-02,CMR-003;CMR-009,,
-CMR,system,authority,coverage,none,2025-07-17,CMR-005;CMR-007,,
-CMR,system,practice,coverage,,,,,nothing held
+CMR,system,law,coverage,in-force,2026-06-23,CMR-001;CMR-006;CMR-010;CMR-012,CMR-002=not-yet;CMR-004=not-yet;CMR-008=none,
+CMR,system,treaty,coverage,signed,2026-02-02,CMR-003;CMR-009;CMR-013,,
+CMR,system,authority,coverage,none,2026-10-29,CMR-005;CMR-007;CMR-011;CMR-014,,
+CMR,system,practice,coverage,,,,,nothing found

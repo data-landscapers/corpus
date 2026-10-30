@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,system,law,coverage,in-force,2026-10-13,EGY-001;EGY-005;EGY-007;EGY-012,,
+EGY,system,law,coverage,in-force,2026-10-13,EGY-001;EGY-005;EGY-007;EGY-012;EGY-015,,
 EGY,system,treaty,coverage,none,2026-02-02,EGY-009,,
-EGY,system,authority,coverage,appointed,2026-10,EGY-003;EGY-004;EGY-010;EGY-011;EGY-013,EGY-006=none,
+EGY,system,authority,coverage,appointed,2026-10,EGY-003;EGY-004;EGY-010;EGY-011;EGY-013;EGY-016,EGY-006=none,
 EGY,system,practice,coverage,implementing,2026,EGY-002;EGY-008;EGY-014,,

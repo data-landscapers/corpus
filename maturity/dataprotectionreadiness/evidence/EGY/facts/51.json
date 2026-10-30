@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "ACTPOL says Law No. 151 of 2020 has executive regulations dated 1 November 2025 and organisations have one year to comply, to about 1 November 2026.",
+   "as_of": "2025-11-01",
+   "date_precision": "day",
+   "system": "Law No. 151 of 2020",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "ACTPOL says the Centre is led by an acting chief executive as of January 2026, its board not yet constituted.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Personal Data Protection Centre",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

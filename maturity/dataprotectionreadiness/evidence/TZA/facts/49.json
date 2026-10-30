@@ -1,0 +1,37 @@
+{
+ "slug": "2026-08-01-tza-pdpc-tanzania-home",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Commission says organisations must register under the Personal Data Protection Act, Chapter 44, enacted in 2022.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Personal Data Protection Act, Chapter 44",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Personal Data Protection Commission is headed by Director General Dr. Emmanuel Mkilia.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Personal Data Protection Commission",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The Commission reports 15,146 registered organisations as at August 2026 and offers a registration system, complaints service and DPO training.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Personal Data Protection Commission",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

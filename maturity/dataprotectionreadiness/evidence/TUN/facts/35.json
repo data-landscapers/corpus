@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "ACTPOL says Organic Law 2004-63 is enforced by the INPDP.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Organic Law 2004-63",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "ACTPOL says the INPDP is the national authority enforcing the law.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "INPDP",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-01-26-rwa-what-to-do-after-you-register-with-ncsa",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The NCSA's Data Protection and Privacy Office says controllers and processors register with the National Cyber Security Authority under Law No. 058/2021 on the protection of personal data and privacy.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Law No. 058/2021",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The NCSA's Data Protection and Privacy Office says controllers and processors register with the National Cyber Security Authority under Law No. 058/2021 on the protection of personal data and privacy.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "National Cyber Security Authority",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The NCSA's Data Protection and Privacy Office says controllers and processors register with the National Cyber Security Authority under Law No. 058/2021 on the protection of personal data and privacy. It also published post-registration compliance guidance.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "National Cyber Security Authority",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cyber Security Authority (NCSA)",
+   "country_label": "NCSA",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZMB,system,law,coverage,in-force,2026-08-10,ZMB-001;ZMB-004;ZMB-013;ZMB-016,,
-ZMB,system,treaty,coverage,ratified,2020-12-15,ZMB-011;ZMB-012,,nothing dated since 2023-10-24
-ZMB,system,authority,coverage,appointed,2026-08-10,ZMB-002;ZMB-003;ZMB-005;ZMB-006;ZMB-008;ZMB-009;ZMB-010;ZMB-015,,
+ZMB,system,treaty,coverage,ratified,2020-12-15,ZMB-011;ZMB-012,,nothing dated since 2023-10-28
+ZMB,system,authority,coverage,appointed,2026-08-10,ZMB-002;ZMB-003;ZMB-005;ZMB-006;ZMB-008;ZMB-009;ZMB-010;ZMB-015;ZMB-017,,
 ZMB,system,practice,coverage,implementing,2025-04-30,ZMB-007;ZMB-014,,

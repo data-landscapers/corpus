@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COG,system,law,coverage,in-force,2026-01-22,COG-004,,
-COG,system,treaty,coverage,ratified,2020-09-24,COG-002,,nothing dated since 2023-10-24
+COG,system,treaty,coverage,ratified,2026-02-02,COG-002;COG-006,,
 COG,system,authority,coverage,appointed,2026-01,COG-001;COG-003;COG-005,,
-COG,system,practice,coverage,,,,,nothing held
+COG,system,practice,coverage,,,,,nothing found

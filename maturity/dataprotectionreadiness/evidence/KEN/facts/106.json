@@ -1,0 +1,56 @@
+{
+ "slug": "2025-01-27-ken-pre-conference-breakfast-meeting-with-journalists-in-eldoret-ahead-of",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Data Commissioner said the Data Protection Act was enacted in 2019 and is being implemented with its accompanying regulations.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Data Commissioner Immaculate Kassait said the ODPC was operationalised in 2020.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The ODPC said it registered over 8,000 controllers, ran 84 audits and inspections and issued 192 advisories.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "fact": "The ODPC said it issued 195 determinations, 100 enforcement notices and 12 penalty notices, as a cumulative count since 2020.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ODPC",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

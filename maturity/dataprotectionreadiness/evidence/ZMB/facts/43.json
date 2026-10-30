@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-26-zmb-data-protection-compliance-insights-into-the-revised-enforcement-roadm",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "MMLP states that the Data Protection Commissioner, the Act's regulatory authority, issued an enforcement roadmap on 31 October 2023 and revised it by April 2024.",
+   "as_of": "2024-04-26",
+   "date_precision": "day",
+   "system": "Data Protection Commissioner",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": "Whether the Act is in force is not stated; the roadmap's steps are scheduled, not done."
+}

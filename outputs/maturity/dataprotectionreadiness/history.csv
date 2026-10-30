@@ -17,3 +17,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TCD,gov.protect--national-data-protection-readiness,fact,1,3,TCD-004,"The law study holds Loi 007/PR/2015 in force (TCD-004, 2026-07); with an authority appointed the cell takes stage 3, so the three rows agree"
 2026-10-19,GIN,gov.protect--national-data-protection-readiness,fact,1,3,GIN-008;GIN-009,"The law study holds Guinea's 2016 law in force; with the Malabo Convention ratified the cell rises to 3, no authority appointed"
 2026-10-19,LBY,gov.protect--national-data-protection-readiness,fact,no evidence,1,LBY-002,"The law study places Libya with a data protection law still in draft; stage 1, not no evidence"
+2026-10-30,LSO,gov.protect--national-data-protection-readiness,fact,3,3,LSO-006;LSO-004,A March 2026 article says Lesotho signed but has not ratified the Malabo Convention (LSO-007); the AU depositary list records ratification on 5 February 2025 (LSO-004) and stands; stage unchanged

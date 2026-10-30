@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,system,law,coverage,in-force,2026-02-06,SYC-002;SYC-005;SYC-009;SYC-011;SYC-013;SYC-015;SYC-018;SYC-019;SYC-022,,
+SYC,system,law,coverage,in-force,2026-02-06,SYC-002;SYC-005;SYC-009;SYC-011;SYC-013;SYC-015;SYC-018;SYC-019;SYC-022,SYC-025=not-yet,
 SYC,system,treaty,coverage,none,2026-02-02,SYC-017,,
 SYC,system,authority,coverage,appointed,2026-04-13,SYC-001;SYC-004;SYC-007;SYC-008;SYC-021;SYC-024,SYC-012=none;SYC-010=none;SYC-014=none;SYC-016=none,
 SYC,system,practice,coverage,implementing,2026-02-06,SYC-003;SYC-006;SYC-020;SYC-023,,

@@ -1,0 +1,56 @@
+{
+ "slug": "2026-01-29-nga-ndpc-concludes-246-investigations-generates-n5-2bn-revenue-in-show-of",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "BusinessDay reports enforcement-driven oversight under the Nigeria Data Protection Act, 2023.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The NDPC is led by national commissioner Vincent Olatunji.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "NDPC",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The NDPC said 38,677 controllers and processors of major importance had registered and it sent compliance notices to 1,348 entities in August 2025.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "NDPC",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "fact": "The NDPC fined MultiChoice Nigeria N766.2 million in July 2025, and said 246 investigations concluded led to 11 enforcement actions.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NDPC",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NDPC",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

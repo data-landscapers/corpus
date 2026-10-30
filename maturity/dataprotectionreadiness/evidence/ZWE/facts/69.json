@@ -1,0 +1,37 @@
+{
+ "slug": "2026-01-28-zwe-zim-strengthens-personal-data-protection-potraz-licences-880-controlle",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Herald reports that POTRAZ has licensed 880 data controllers under the Cyber and Data Protection Act enacted in 2021.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Herald reports that POTRAZ, led by Director-General Dr Gift Machengete, is the body licensing data controllers under the Act.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The Herald reports that POTRAZ has licensed 880 data controllers and run more than 50 outreach initiatives since 2023.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

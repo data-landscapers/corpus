@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,system,law,coverage,in-force,2026-03-23,LSO-001,,
-LSO,system,treaty,coverage,ratified,2025-02-05,LSO-004,LSO-005=none,
-LSO,system,authority,coverage,none,2026-03-23,LSO-002;LSO-003,,
-LSO,system,practice,coverage,,,,,nothing held
+LSO,system,law,coverage,in-force,2026-03-27,LSO-001;LSO-006,,
+LSO,system,treaty,coverage,ratified,2025-02-05,LSO-004,LSO-007=signed;LSO-005=none,
+LSO,system,authority,coverage,none,2026-03-27,LSO-002;LSO-003;LSO-008,,
+LSO,system,practice,coverage,,,,,nothing found

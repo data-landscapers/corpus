@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "signed",
+   "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Chad has signed the Malabo Convention without ratifying it.",
+   "as_of": "2026-02-02",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

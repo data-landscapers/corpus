@@ -1,0 +1,37 @@
+{
+ "slug": "2026-03-27-lso-exploring-the-data-protection-and-data-governance-challenges-and-oppor",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The article says Lesotho enacted the Data Protection Act in 2011, which remains the cornerstone of its data protection framework.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Data Protection Act 2011",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "signed",
+   "fact": "The article says Lesotho has signed but not yet ratified the AU Malabo Convention.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "The article says the Data Protection Commission mandated by the 2011 Act has not been established and no independent body exists to enforce the law.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

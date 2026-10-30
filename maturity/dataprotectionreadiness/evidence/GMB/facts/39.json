@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-10-gmb-na-commits-data-protection-privacy-bill-to-committee",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "fact": "The Data Protection and Privacy Bill, 2024 was committed to the National Assembly's ICT committee, so no law was yet in force.",
+   "as_of": "2024-12-10",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Bill, 2024",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "signed",
+   "fact": "Minister Ceesay told the Assembly that the Gambia is a signatory to the Malabo Convention.",
+   "as_of": "2024-12-10",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

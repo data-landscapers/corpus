@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,system,law,coverage,not-yet,2026-10-01,MOZ-001;MOZ-002;MOZ-003;MOZ-005;MOZ-007;MOZ-011;MOZ-012;MOZ-014;MOZ-015;MOZ-016,MOZ-009=none,
-MOZ,system,treaty,coverage,ratified,2019-12-02,MOZ-008;MOZ-010,,nothing dated since 2023-10-24
+MOZ,system,law,coverage,not-yet,2026-10-01,MOZ-001;MOZ-002;MOZ-003;MOZ-005;MOZ-007;MOZ-011;MOZ-012;MOZ-014;MOZ-015;MOZ-016;MOZ-017,MOZ-009=none,
+MOZ,system,treaty,coverage,ratified,2019-12-02,MOZ-008;MOZ-010,,nothing dated since 2023-10-28
 MOZ,system,authority,coverage,none,2025-10,MOZ-004;MOZ-006;MOZ-013,,
-MOZ,system,practice,coverage,,,,,nothing held
+MOZ,system,practice,coverage,,,,,nothing found

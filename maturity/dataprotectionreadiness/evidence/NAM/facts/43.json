@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-17-nam-namibian-boards-need-to-rethink-data-privacy",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "none",
+   "fact": "A governance professional writing in The Namibian says Namibia does not yet have a comprehensive data protection law in force.",
+   "as_of": "2026-05-17",
+   "date_precision": "day",
+   "system": "",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "The writer says there is currently no dedicated data protection authority in Namibia.",
+   "as_of": "2026-05-17",
+   "date_precision": "day",
+   "system": "",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

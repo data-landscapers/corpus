@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNQ,system,law,coverage,in-force,2016-07-22,GNQ-002,,nothing dated since 2023-10-24
-GNQ,system,treaty,coverage,signed,2026-07-28,GNQ-004,GNQ-005=none,
-GNQ,system,authority,coverage,none,2022-05-23,GNQ-001;GNQ-003,,nothing dated since 2023-10-24
-GNQ,system,practice,coverage,,,,,nothing held
+GNQ,system,law,coverage,in-force,2016-07-22,GNQ-002,,nothing dated since 2023-10-28
+GNQ,system,treaty,coverage,signed,2026-07-28,GNQ-004,GNQ-005=none;GNQ-006=none,
+GNQ,system,authority,coverage,none,2022-05-23,GNQ-001;GNQ-003,,nothing dated since 2023-10-28
+GNQ,system,practice,coverage,,,,,nothing found

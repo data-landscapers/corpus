@@ -1,0 +1,37 @@
+{
+ "slug": "2025-11-09-uga-your-personal-data-is-the-new-currency-protect-it",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The director says the office enforces the Data Protection and Privacy Act, with a first conviction under it in July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Data Protection and Privacy Act",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Personal Data Protection Office, under NITA-U, is described by its director as the national regulator doing the supervisory job.",
+   "as_of": "2025-11-09",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The director says the office keeps the national register of data controllers, handles complaints, runs compliance clinics, and audits and inspects large data handlers.",
+   "as_of": "2025-11-09",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

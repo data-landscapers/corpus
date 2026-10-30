@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "ACTPOL says Cameroon's Law No. 2024/017 of 23 December 2024 gave organisations 18 months to comply, a period that ended on 23 June 2026.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Law No. 2024/017 of 23 December 2024",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "signed",
+   "fact": "ACTPOL, citing the African Union status list of 2 February 2026, says Cameroon has signed the Malabo Convention without ratifying it.",
+   "as_of": "2026-02-02",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "ACTPOL says it found no decree creating Cameroon's Personal Data Protection Authority as of July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Personal Data Protection Authority",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
