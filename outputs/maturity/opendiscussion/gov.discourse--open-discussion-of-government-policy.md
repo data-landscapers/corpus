@@ -24,8 +24,8 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | 4 Operating | 2 |
 | 3 Established | 0 |
 | 2 Nascent | 25 |
-| 1 Absent | 14 |
-| Unplaced | 8 |
+| 1 Absent | 15 |
+| Unplaced | 7 |
 | No evidence | 5 |
 
 ## Countries
@@ -246,6 +246,13 @@ In February 2026 Egypt was still blocking independent news sites, at least 630 w
 
 - Access Now and co-signatories say Egyptian authorities continue to block independent media sites, with at least 630 websites currently blocked ([source, 2026-02-12](https://www.accessnow.org/press-release/human-rights-abuses-facilitated-by-applogic-networks-in-egypt/)).
 
+### Equatorial Guinea: 1 Absent
+
+The government has kept Annobón island without internet since July 2024; no public criticism of policy from inside the country is known.
+
+- Access Now attributes Annobon's internet and communications blackout, begun in July 2024 and still documented in its 2026-10-20 report, to Equatorial Guinea's government ([source, 2026-10-20](https://www.ambolegadu.com/en/annobon-sin-internet-access-now-reune-testimonios-y-reclama-el-fin-del-apagon/)).
+- Access Now includes Annobon among places with indefinite internet and communications blackouts, documented through testimonies from 2024 to 2026 ([source, 2026-10-20](https://www.accessnow.org/indefinite-internet-shutdowns/)).
+
 ### Eritrea: 1 Absent
 
 In 2026 UNESCO states that the state runs all media and private outlets ended after a 2001 ban; no source found reports cuts and punishments.
@@ -317,17 +324,11 @@ A journalist was jailed over messages in 2024-2025 and a media coalition suspend
 
 Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
 
-### Equatorial Guinea: Unplaced
-
-Equatorial Guinea arrested the author of a viral video about the vice-president in 2026; no source found reports policy criticism, so no stage is set.
-
-Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
-
 ### Ethiopia: Unplaced
 
 Journalists were abducted or suspended in 2025 and 2026; nothing found shows policy criticism or an internet cut, so no stage is set.
 
-Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
+Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public; Access Now reports new shutdowns in Tigray in October 2026 but does not say who ordered them.
 
 ### Mauritania: Unplaced
 

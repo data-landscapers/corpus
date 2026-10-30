@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-xgl-access-now-deliberately-forgotten-internet-shutdowns-with-no-end",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now says new internet shutdowns in Tigray, Ethiopia, are raising fears that the population cut off for over two years during the civil war will be disconnected again.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Tigray internet shutdowns",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

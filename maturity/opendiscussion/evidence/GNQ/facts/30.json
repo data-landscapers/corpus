@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-gnq-annobon-without-internet-access-now-gathers-testimonies-and-demands-an",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now attributes Annobon's internet and communications blackout, begun in July 2024 and still documented in its 2026-10-20 report, to Equatorial Guinea's government.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Annobon internet blackout",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

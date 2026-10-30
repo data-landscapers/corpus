@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-20-xgl-access-now-deliberately-forgotten-internet-shutdowns-with-no-end",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now includes Sudan among places living under indefinite internet and communications blackouts, with testimonies from 2024 to 2026.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Sudan internet blackout",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "barred",
+   "fact": "Access Now says national judiciaries in Sudan, among others, have found internet shutdowns violate rights; the ruling is undated.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Sudan court rulings on shutdowns",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

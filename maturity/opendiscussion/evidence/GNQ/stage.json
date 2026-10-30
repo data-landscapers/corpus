@@ -1,17 +1,18 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "discussion",
-   "stage": "unplaced",
-   "debate": "",
-   "connection": "",
-   "penalty": "punished",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.",
-   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "discussion",
+      "stage": "1",
+      "debate": "",
+      "connection": "cut",
+      "penalty": "punished",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-004;GNQ-003",
+      "gaps": "No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public.",
+      "note": "Access Now attributes the internet and phone blackout on Annobón, begun in July 2024 and still documented in October 2026, to the government: a cut in one province still in force inside the twelve months, so stage 1.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }
