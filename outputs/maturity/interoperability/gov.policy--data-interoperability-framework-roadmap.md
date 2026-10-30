@@ -1,6 +1,6 @@
 # Data interoperability framework / roadmap: government interoperability framework
 
-*As at 2026-10-29.*
+*As at 2026-10-30.*
 
 ## The norm
 
@@ -32,9 +32,10 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 
 ### Benin: 5 Leading
 
-Benin's interoperability framework, instituted by decree in 2020, governed more than 120 connected systems in 2025; no source names who enforces it.
+Benin's interoperability framework, instituted by decree in 2020 and supervised by a national committee, governed more than 120 connected systems in 2025.
 
 - Benin's deck shows the PNI governed under an 'XROAD Interoperability Framework' with a National Interoperability Committee, and reports more than 120 systems integrated through it ([source, 2025-05](https://www.id4africa.com/2025/files/T1-P2-S1-1_BENIN-final.pdf)).
+- ASIN's July 2026 legal note treats Benin's interoperability framework as in place, setting registration, technical and contractual conditions for connecting to the Xroad-BJ exchange platform, with the Comité national d'interopérabilité supervising; the note's date is the published date, 2026-07-28, no event date being given ([source, 2026-07-28](https://asin.bj/doc/142/download)).
 - Benin's Cadre d'interopérabilité, published by ASIN, is instituted by décret n° 2020-209 of 18 March 2020 and sets four levels (juridical, organisational, semantic, technical) and five common infrastructure components; the document carries no publication date, so 2020-03-18 is the instituting decree's date ([source, 2020-03-18](https://api.xroad.bj/documents/10/download)).
 
 ### Algeria: 4 Operating

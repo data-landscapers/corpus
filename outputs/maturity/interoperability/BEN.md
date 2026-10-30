@@ -8,4 +8,4 @@
 
 ***Also on file***. [Xroad-BJ](<https://asin.bj/doc/142/download>); [Politique de développement et d'intégration des applications de l'État (PDAIE)](<https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation>).
 
-***Not found***. No source found names the body that enforces the framework.
+***Not found***. Nothing further is asked of this indicator.

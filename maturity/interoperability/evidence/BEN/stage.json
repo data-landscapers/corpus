@@ -8,10 +8,10 @@
       "use": "followed",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-004;BEN-002",
-      "gaps": "No instrument found names the body that enforces the framework; the count of systems working under it answers that question (method §3).",
-      "note": "4c 2026-10-29: Benin told ID4Africa in May 2025 that more than 120 systems are integrated through the exchange platform its interoperability framework governs, a dated count inside three years. A later yes answers the earlier ones, so the stage is 5.",
-      "as_at": "2026-10-29"
+      "stage_sources": "BEN-004;BEN-001;BEN-002",
+      "gaps": "",
+      "note": "Every rung met on its own evidence (Bill, 2026-10-30, message 50): decree 2020-209 institutes the framework (BEN-002); ASIN's July 2026 legal note sets the conditions bodies must meet to connect, with ASIN governing and the Comité national d'interopérabilité supervising (BEN-001), which answers question 3; more than 120 systems integrated through it in 2025 (BEN-004) answers question 4.",
+      "as_at": "2026-10-30"
     }
   ]
 }
