@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: GAB
-ledger_rows: 64
+ledger_rows: 65
 not_held: 13
-record: b886eed84d32
+record: 82118c06159f
 ---
 
 # News, Sep – Oct 2026
@@ -460,6 +460,20 @@ Ahead of the first Gabon Digital Week, digital economy minister Mark-Alexandre D
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile internet usage against coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GSMA Calls for More Affordable Smartphones as Over Half of Gabon’s Population Remains Off Mobile Internet Despite Network Coverage](https://www.gsma.com/newsroom/all-documents/gsma-calls-for-more-affordable-smartphones-as-over-half-of-gabons-population-remains-off-mobile-internet-despite-network-coverage/)** — GSMA, 29 October 2026
+
+A GSMA report on Gabon, reported on 28 October 2026, finds four in ten Gabonese use mobile internet, though 4G reaches 95%. The report proposes removing the 18% VAT on entry-level smartphones and cutting operator charges from 11% to 3% of gross revenue. It estimates these steps could bring about 190,000 more people online by 2031.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -817,6 +831,14 @@ The workshop preparing Gabon's national civil-registration conferences closed wi
 **[Gabon/Semaine du numérique : lancement officiel du Fichier unique des participations](https://agpgabon.ga/gabon-semaine-du-numerique-lancement-officiel-du-fichier-unique-des-participations/)** — Agence Gabonaise de Presse (AGP), 26 October 2026
 
 Gabon Digital Week opened with the launch of an online register of the companies in the state's portfolio. The register is built to centralise and secure data on public holdings. The budget minister performed the launch on 26 October 2026. The register runs at www.fup.ga.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[LANCEMENT DU FICHIER UNIQUE DES PARTICIPATIONS (FUP)](https://www.budget.gouv.ga/object.getObject.do?id=2675)** — Ministère de l’Économie, des Finances, de la Dette et des Participations (Gabon), 26 October 2026
+
+Ministry's own release; state shareholdings register to track revenues; launched at first Gabon Digital Week.
 
 </div>
 
