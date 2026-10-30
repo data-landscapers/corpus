@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center e Cloud Nacional do Governo",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "government cloud",
+   "owner": "Government of Angola (Infosi)",
+   "tiers": "modules Tier III certified, building not certified"
+  }
+ ],
+ "note": "Government cloud inaugurated 2026-04-28 but no hosting policy or duty on public bodies is stated."
+}

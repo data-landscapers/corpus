@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-20-bfa-burkina-faso-zoom-sur-les-12-chantiers-strategiques-du-ministere-de-la",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Prime Minister gave instructions that the two new datacentres become the single base for hosting public platforms, under the ministry's 'Zero donnee hebergee a l'exterieur' chantier.",
+   "as_of": "2026-01-23",
+   "date_precision": "day",
+   "system": "Zero donnee hebergee a l'exterieur chantier",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "named",
+   "fact": "Two modular government datacentres (about 3,000 TB, about 28,800 CPU cores) inaugurated on 23 January 2026 as the base of the government cloud that public bodies are to use.",
+   "as_of": "2026-01-23",
+   "date_precision": "day",
+   "system": "Cloud gouvernemental datacentres",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Two modular government datacentres (Cloud gouvernemental)",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "government cloud",
+   "owner": "State, Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

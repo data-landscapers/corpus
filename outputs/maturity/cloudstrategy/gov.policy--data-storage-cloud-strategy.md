@@ -62,7 +62,7 @@ Senegal's president instructed in 2021 that all state data move to the Diamniadi
 
 ### Tunisia: 4 Operating
 
-Tunisia's 2024 Cloud First circular sets hosting tiers and a list of labelled providers was published in 2026; no source found says which bodies have moved.
+Tunisia's 2024 Cloud First circular sets hosting tiers, and labelled providers were listed in 2026; which bodies have moved is not known.
 
 - The article says the national cybersecurity agency (ANCS) published a list of labelled providers on 17 September 2026 with six N-Cloud entries, the providers public bodies are directed to ([source, 2026-09-17](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/)).
 - The circular sets four hosting tiers: sensitive internal systems go in a private cloud or national or sectoral government cloud centres, shared G2G systems in government cloud centres, and citizen and business e-services in the body's private cloud, government cloud centres or providers holding the N-Cloud label, with G-Cloud labelled providers as the fallback for the first two tiers ([source, 2024-07-22](https://legislation-securite.tn/latest-laws/circulaire-n-16-du-22-juillet-2024-portant-sur-la-generalisation-de-ladoption-par-les-structures-publiques-des-solutions-de-cloud-computing-pour-lhebergement-des-logiciels-de/)).
@@ -70,7 +70,7 @@ Tunisia's 2024 Cloud First circular sets hosting tiers and a list of labelled pr
 
 ### Uganda: 4 Operating
 
-Cloud-first guidelines from October 2018 require ministries and agencies to host classified information in the government data centre; no source found says how many have moved.
+Cloud-first guidelines of 2018 require ministries and agencies to host classified information in the government data centre; how many have moved is not known.
 
 - The guidelines require all ministries, departments, agencies and local governments to host information assets classed Official, Secret and Top Secret in the Government Cloud (the National Data Center run by NITA-U), to use it when procuring new ICT, and to migrate existing classified services to it at contract expiry or refresh, with offshore exceptions approved by NITA-U ([source, 2018-10](https://oldsite.nita.go.ug/sites/default/files/2022-01/The%20Cloud%20Computing%20Guidelines%20for%20GoU.pdf)).
 - NITA-U issued the National Guidelines on Cloud Computing for Government in October 2018 (version CPG1), requiring all ministries, departments, agencies and local governments to adhere to 'Cloud First' for IT-enabled services; the document gives no end date ([source, 2018-10](https://oldsite.nita.go.ug/sites/default/files/2022-01/The%20Cloud%20Computing%20Guidelines%20for%20GoU.pdf)).
@@ -153,7 +153,7 @@ The Central African Republic was preparing a national data hosting strategy in 2
 
 ### DR Congo: 2 Nascent
 
-A national data hosting strategy was being developed in March 2026, and no adopted policy is known; no source found says where public bodies must host.
+A national data hosting strategy was being developed in March 2026; no adopted policy, or where public bodies must host, is known.
 
 - The Digital Transformation Project terms of reference (March 2026) say the government, helped by UNECA and GIZ, is developing a national data hosting strategy, under way mainly at central level, and seek consultants to define the hosting approach (for example cloud-first or cloud-appropriate) and propose hosting and cloud decrees and directives ([source, 2026-03](https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf)).
 

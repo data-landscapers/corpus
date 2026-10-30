@@ -19,6 +19,7 @@ AGO,"Paratus Angola DC1, DC2 and DC3 (Luanda)",Paratus Angola data centres,other
 AGO,Cloud Nacional de Angola,Cloud Nacional de Angola (Nuvem Governamental Unificada),other,,MINTTICS through INFOSI,ministerial departments; the document says existing applications are to be migrated to it,2023-02-15-angola-minttics-cloud-nacional-ecossistema-digital
 AGO,"Africell Angola data center (Kings Tower, Luanda)",Africell data center,other,,Africell Angola,,2021-10-20 Africell opens high-tech data center in Angola
 AGO,Data Center e Cloud do Governo,Angola,other,,Government of Angola,,2026-09-11-ago-angop-imprensa-nacional-data-center
+AGO,Data Center e Cloud Nacional do Governo,Angola,other,government cloud,Government of Angola (Infosi),"modules Tier III certified, building not certified",2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional
 BDI,data center du Setic (modernisation prevue),data center du Secretariat executif des TIC (Setic),other,,Setic,,2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi
 BDI,cloud souverain (prevu),cloud souverain,other,,,,2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi
 BDI,SETIC virtualisation and backup equipment (tendered),equipements et licences pour la virtualisation et backup du SETIC,other,,SETIC / PAFEN,,2026-04-08-pafen-aao-equipements-additionnels-setic-virtualisation-backup
@@ -34,6 +35,7 @@ BFA,Cloud gouvernemental data centres,deux centres de données,other,,Government
 BFA,National Data Centers,Data Centers nationaux,other,,ANPTIC,administrations and institutions,2026-03-24-bfa-anptic-1ere-session-ordinaire-ca-2026
 BFA,Cloud gouvernemental,Cloud gouvernemental (deux datacenters modulaires),other,,Government of Burkina Faso,public data,2026-01-23-primature-burkina-inauguration-deux-datacenters-cloud-gouvernemental
 BFA,G-Cloud (Government Cloud),G-Cloud,other,,"ANPTIC (Agence Nationale de Promotion des TIC), under the Ministry of Digital Economy",public administrations; growth poles Bagré and Samandéni to have cloud nodes,2024-01-31-bfa-anptic-g-cloud-projet
+BFA,Two modular government datacentres (Cloud gouvernemental),Burkina Faso,other,government cloud,"State, Ministry of Digital Transition",,2026-02-20-bfa-burkina-faso-zoom-sur-les-12-chantiers-strategiques-du-ministere-de-la
 BWA,Digital Delta Data Centre (DDDC),Digital Delta Data Centre,other,,Botswana Fibre Networks (BoFiNet),central government services,2026-05-06-digital-delta-data-centre-improve-public-service-delivery
 BWA,Delta Digital Data Centre,Delta Digital Data Centre,other,,BoFiNet,"core government ICT systems, then applications from various ministries",2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
 BWA,Digital Delta Data Centre (DDDC),Digital Delta Data Centre,other,,"Botswana Fibre Networks (BoFiNet), 100% government-owned",,2025-11-26-digital-delta-data-centre-launch-connectingafrica
@@ -307,6 +309,8 @@ TUN,N-Cloud label register,Tunisia,policy,,Agence Nationale de la Cybersecurite,
 TUN,G-Cloud label,Tunisia,policy,,Agence Nationale de la Cybersecurite,,2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud
 TZA,"Cloud Computing Guidelines for Financial Service Providers, 2025","Cloud Computing Guidelines for Financial Service Providers, 2025",other,,Bank of Tanzania,financial service providers licensed by the Bank,2025-08-01-bot-cloud-computing-guidelines-financial-service-providers
 TZA,Wingu Cloud Exchange (WCX),Wingu Cloud Exchange,other,"Wingu Compute, Kubernetes, Wingu Security",Wingu Africa (commercial operator),,2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview
+TZA,"Bank of Tanzania Cloud Computing Guidelines for Financial Service Providers, 2025",Tanzania,other,,Bank of Tanzania,,2025-08-26-tza-central-bank-issues-new-cloud-computing-guidelines-for-financial-servi
+TZA,"Cloud Computing Guidelines for Financial Service Providers, 2023",Tanzania,other,,Bank of Tanzania,,2023-12-01-tza-cloud-computing-guidelines-for-financial-service-providers-2023
 UGA,National Data Centre,National Data Centre,other,,NITA-U,,2026-06-22-nita-u-five-year-digital-strategy
 UGA,UGHub,UGHub data integration platform,other,,NITA-U,"Ministries, Departments and Agencies (37 percent connected)",2026-06-22-nita-u-five-year-digital-strategy
 UGA,National Data Centre,National Data Centre,other,,NITA-U,,2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30
