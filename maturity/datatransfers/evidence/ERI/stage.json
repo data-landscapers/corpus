@@ -1,16 +1,17 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "1",
-   "standing": "none",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ERI-002",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "unplaced",
+      "standing": "",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held says no rule on sending personal data abroad is being written: the 2026 source says only that Eritrea has no data protection law and no restriction on transfers in its law; the 2022 UNECA profile is outside the three-year window.",
+      "note": "Rebuild 2026-10-30: the June 2026 source says Eritrea has no data protection law and no restriction on cross-border transfer, but not that none is being written, so stage 1's whole row is not met.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

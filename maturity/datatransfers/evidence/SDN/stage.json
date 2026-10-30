@@ -1,16 +1,17 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "1",
-   "standing": "none",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "unplaced",
+      "standing": "",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held says no rule on sending personal data abroad is being written: the July 2026 source says only that no statutory requirement governs cross-border transfer, and proposes localisation as a first law.",
+      "note": "Rebuild 2026-10-30: the July 2026 policy paper says no statutory requirement governs cross-border transfer in Sudan, but not that none is being written, so stage 1's whole row is not met.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

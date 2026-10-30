@@ -24,8 +24,8 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 | 4 Operating | 8 |
 | 3 Established | 22 |
 | 2 Nascent | 3 |
-| 1 Absent | 3 |
-| Unplaced | 0 |
+| 1 Absent | 0 |
+| Unplaced | 3 |
 | No evidence | 11 |
 
 ## Countries
@@ -294,23 +294,23 @@ Zambia's Data Protection Act, passed in 2021, sets conditions for sending person
 
 - Zambia's Data Protection Act No. 3 of 2021, enacted 24 March 2021, sets conditions in Part X (sections 70-71) for sending personal data outside the Republic: data subject consent plus Commissioner-approved standard contracts or intragroup schemes, or a Ministerial prescription of permissible transfers on an adequate-level-of-protection test, or Commissioner approval of a transfer in necessity; sensitive personal data must stay in the Republic; the Act itself says it commences on a date the Minister appoints by statutory instrument, and the document gives no commencement date ([source, 2021-03-24](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf)).
 
-### Eritrea: 1 Absent
+### Eritrea: Unplaced
 
-Eritrea had no rule on sending data abroad as of 2026, and no source found says whether any draft or sector rule exists.
+Eritrea had no rule on sending personal data abroad in 2026, and whether one is being written is not known, so no stage is set.
 
-- Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no data protection legislation and no restriction on cross-border transfer of data in its law ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-eritrea)).
+Not established: Nothing held says no rule on sending personal data abroad is being written: the 2026 source says only that Eritrea has no data protection law and no restriction on transfers in its law; the 2022 UNECA profile is outside the three-year window.
 
-### Namibia: 1 Absent
+### Namibia: Unplaced
 
-Namibia had no rule on sending data abroad in August 2026, according to an opposition MP; no source says whether a draft would set one.
+Namibia had no transfer rule in August 2026, an opposition MP said; whether one is being written is not known, so no stage is set.
 
-- Opposition MP Rodney Cloete (IPC shadow minister of international relations and trade) told the Windhoek Observer that Namibia has no data protection statute, so no rules govern cross-border transfers of data; this is a named actor's stated position, dated by the article's published date ([source, 2026-08-04](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/)).
+Not established: Nothing held says no rule on sending personal data abroad is being written: the August 2026 source, an opposition member of parliament, says only that Namibia has no data protection statute and so no transfer rules.
 
-### Sudan: 1 Absent
+### Sudan: Unplaced
 
-A July 2026 source says Sudan has no statutory rule on sending data abroad; no source found says whether any draft law or guidance exists.
+Sudan had no statutory rule on sending data abroad in July 2026; whether one is being written is not known, so no stage is set.
 
-- The Sudanese Center for Policy Studies says mobile banking data transits infrastructure Sudan neither owns nor regulates, with no statutory requirement governing data localization or cross-border transfer; it only proposes localisation as a first legislative tranche ([source, 2026-07-19](https://sudancps.com/en/2026/07/19/sudans-privacy-gap-balancing-digital-transformation-and-data-laws-intro/)).
+Not established: Nothing held says no rule on sending personal data abroad is being written: the July 2026 source says only that no statutory requirement governs cross-border transfer, and proposes localisation as a first law.
 
 ### Benin: No evidence
 
