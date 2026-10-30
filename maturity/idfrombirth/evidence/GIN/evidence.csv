@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GIN-001,GIN,frombirth,number,underway,"The MATD secretary general and Digitech say RENEC is to identify civil-status events from birth, and each citizen linked to civil status is to have a unique identifier number.",2026-10-28,day,RENEC,birthnumber,2026-10-28-gin-guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-sec,https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/

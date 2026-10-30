@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 | 5 Leading | 0 |
 | 4 Operating | 4 |
 | 3 Established | 8 |
-| 2 Nascent | 9 |
+| 2 Nascent | 10 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
-| No evidence | 28 |
+| No evidence | 27 |
 
 ## Countries
 
@@ -119,6 +119,12 @@ A unique number at birth was provided for or piloted in 2024; none given in serv
 A unique number at birth was provided for or piloted in 2024; none given in service is on record.
 
 - MINDDEVEL's deck says law 2024/016 institutes the attribution of a unique personal identification number (NIPU), without saying it is given at birth registration or in service ([source, 2024-12-23](https://www.id4africa.com/2025/files/PS5A-S1-3-Cameroun_FINAL.pdf)).
+
+### Guinea: 2 Nascent
+
+Guinea launched a civil-status register in October 2026 to give each citizen a number from birth; whether any child has it is unknown.
+
+- The MATD secretary general and Digitech say RENEC is to identify civil-status events from birth, and each citizen linked to civil status is to have a unique identifier number ([source, 2026-10-28](https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/)).
 
 ### Kenya: 2 Nascent
 
@@ -258,12 +264,6 @@ Nothing found names a unique number given at birth or says there is none, so no 
 Not established: Nothing found says whether a birth is given an identity number.
 
 ### Gabon: No evidence
-
-Nothing found names a unique number given at birth or says there is none, so no stage is set.
-
-Not established: Nothing found says whether a birth is given an identity number.
-
-### Guinea: No evidence
 
 Nothing found names a unique number given at birth or says there is none, so no stage is set.
 

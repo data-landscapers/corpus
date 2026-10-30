@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "no evidence",
-   "number": "",
-   "national": "",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether a birth is given an identity number.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "2",
+      "number": "underway",
+      "national": "",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001",
+      "gaps": "No number is yet recorded as given at birth, in part of the country or nationally.",
+      "note": "The RENEC project launched on 28 October 2026 provides for a unique identifier for each citizen from birth, a programme providing for the number. Nothing says children yet receive it, so not stage 3.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

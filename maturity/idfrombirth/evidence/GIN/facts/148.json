@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-gin-guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-sec",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The MATD secretary general and Digitech say RENEC is to identify civil-status events from birth, and each citizen linked to civil status is to have a unique identifier number.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "RENEC",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RENEC (Registre national de l'état civil)",
+   "country_label": "Guinée",
+   "class": "other",
+   "platform": "Digitech",
+   "owner": "MATD / ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

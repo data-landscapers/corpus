@@ -15,3 +15,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,BEN,dpi.id--digital-id-from-birth,fact,2,4,BEN-004;BEN-003;BEN-005,Arrivals BEN-003-005: ANIP's May 2026 deck says every birth declared since April 2021 gives the child an NPI; stage 2 -> 4.
 2026-10-23,KEN,dpi.id--digital-id-from-birth,fact,2,2,KEN-005;KEN-004;KEN-003,"Arrivals KEN-005, KEN-006: May 2026, the birth e-notification issuing the Maisha Number is built but not rolled out; stage unchanged."
 2026-10-23,MDG,dpi.id--digital-id-from-birth,fact,no evidence,2,MDG-001,Arrival MDG-001: the Cneci programme aims at birth certificates carrying a unique ID number; no evidence -> 2.
+2026-10-30,GIN,dpi.id--digital-id-from-birth,fact,no evidence,2,GIN-001,"RENEC launched 28 October 2026 provides a unique identifier from birth: provided for, stage 2"
