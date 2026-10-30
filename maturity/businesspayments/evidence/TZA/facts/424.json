@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "By August 2026 the Public Procurement Regulatory Authority said NeST had facilitated 397,395 procurement proceedings worth 40.4tri/-.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NeST",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "NeST covers registration, tendering, evaluation, contract management, catalogues, auctions and payments, according to the article, and the Ministry of Finance's 2026/27 budget documentation says MUSE is integrated with NeST so procurement payments feed into financial administration.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NeST",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "By August 2026 the Public Procurement Regulatory Authority said NeST had facilitated 397,395 procurement proceedings worth 40.4tri/-.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NeST",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NeST",
+   "country_label": "Tanzania",
+   "class": "procurement",
+   "platform": "",
+   "owner": "PPRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

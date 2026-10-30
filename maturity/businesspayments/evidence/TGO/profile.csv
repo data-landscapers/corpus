@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,business,system,coverage,underway,2025-10-01,TGO-001,,
-TGO,business,endtoend,coverage,,,,,nothing held
-TGO,business,reported,coverage,,,,,nothing held
+TGO,business,system,coverage,underway,2026-10,TGO-001;TGO-002,,
+TGO,business,endtoend,coverage,,,,,nothing found
+TGO,business,reported,coverage,,,,,nothing found

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-tgo-togo-4-consultants-recherches-pour-preparer-la-passation-electronique",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Togo's procurement regulator ARCOP published a call in October 2026 to recruit four individual consultants to help set up the future electronic public procurement system (e-GP), with no go-live date given (Togo First).",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "e-GP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP",
+   "country_label": "Togo",
+   "class": "procurement",
+   "platform": "",
+   "owner": "ARCOP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

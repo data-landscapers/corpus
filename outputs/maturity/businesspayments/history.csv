@@ -109,3 +109,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,TUN,dpi.pay--b2b-and-b2g-functionality,fact,unplaced,5,TUN-010;TUN-012,"Parliament heard in November 2023 that TUNEPS had taken more than 27,700 bids online (TUN-010, TUN-012), inside the window; raised from unplaced to 5."
 2026-10-24,ZAF,dpi.pay--b2b-and-b2g-functionality,fact,3,5,ZAF-005;ZAF-007,"Treasury's September 2026 deck gives eTenders 3,300 tenders and 1,800 awards a month (ZAF-007), a figure for e-procurement; raised from 3 to 5."
 2026-10-24,ZWE,dpi.pay--b2b-and-b2g-functionality,fact,3,4,ZWE-005;ZWE-004,"PRAZ's early-2025 upgrade put e-evaluation, e-award and e-contract management on eGP for all public entities (ZWE-005, ZWE-004); raised from 3 to 4."
+2026-10-30,TZA,dpi.pay--b2b-and-b2g-functionality,fact,5,5,TZA-012;TZA-002,"Daily News, October 2026: PPRA says NeST handled 397,395 proceedings worth 40.4 trillion shillings by August 2026; newer figure, stage unchanged"
+2026-10-30,TGO,dpi.pay--b2b-and-b2g-functionality,fact,unplaced,unplaced,,"Togo First, October 2026: ARCOP recruiting four consultants to prepare the future e-GP system; not a system procured or built, stays unplaced"

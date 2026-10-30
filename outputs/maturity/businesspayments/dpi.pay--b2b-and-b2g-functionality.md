@@ -109,8 +109,9 @@ Figures for tenders through government e-procurement were reported in 2026; no s
 
 ### Tanzania: 5 Leading
 
-Figures for government e-procurement were reported in 2025.
+Tanzania's e-procurement system had handled 397,395 procurement proceedings worth 40.4 trillion shillings by August 2026.
 
+- By August 2026 the Public Procurement Regulatory Authority said NeST had facilitated 397,395 procurement proceedings worth 40.4tri/- ([source, 2026-08](https://dailynews.co.tz/tanzanias-push-toward-paperless-public-services-hits-heights-in-six-document-heavy-functions/)).
 - PPRA director general Dennis Simba said NeST had handled 130,032 tenders worth Sh14.9 trillion ([source, 2025-05](https://www.thecitizen.co.tz/tanzania/news/national/e-procurement-saves-tanzania-4-9-million-in-tender-document-costs-5038796)).
 
 ### Tunisia: 5 Leading
@@ -333,9 +334,9 @@ Not established: Nothing found since October 2023 says whether government e-proc
 
 ### Togo: Unplaced
 
-An e-procurement strategy was discussed in 2025, but no system is known to be built, so no stage is set.
+Togo's procurement regulator sought consultants in 2026 to prepare an e-procurement system; none is known to be built, so no stage is set.
 
-Not established: Nothing found since October 2023 says a Togolese e-procurement system is procured, being built, piloted or in service.
+Not established: Nothing found since October 2023 says a Togolese e-procurement system is procured, being built, piloted or in service; in October 2026 ARCOP was still recruiting consultants to prepare one.
 
 ### Central African Republic: No evidence
 

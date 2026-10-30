@@ -9,10 +9,10 @@
       "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002",
+      "stage_sources": "TZA-012;TZA-002",
       "gaps": "",
-      "note": "Rebuild: NeST had handled 130,032 tenders worth Sh14.9 trillion by May 2025 (TZA-002), and the 2023 Act mandates it for all procurement (TZA-003).",
-      "as_at": "2026-10-23"
+      "note": "NeST had handled 397,395 procurement proceedings worth 40.4 trillion shillings by August 2026 (TZA-012), and the 2023 Act mandates it for all procurement (TZA-003), so stage 5.",
+      "as_at": "2026-10-30"
     }
   ]
 }
