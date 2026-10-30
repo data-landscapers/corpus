@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-30 16:34 · **RENDER** · 18m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; FY2027 GMB, CPV, MAR on the Finance page; prune declined on a 401 from the download record, all editions kept; 89 objects to R2; deployed fccd609 - ok
 2026-10-30 16:15 · **BUDGET-EXTRACT** · unclocked · FY2027 GMB 28 lines (NA estimates), CPV 3 (Anexo Informativo), MAR 4 (PLF Tableaux E and G); all six drafts online now published - ok
 2026-10-30 13:44 · **BUDGET-EXTRACT** · unclocked · FY2027: SEN 2 programmes and TUN 2 lines from their bills; GMB and CPV nil at the held grain, their line volumes staged (housekeeping 45)
 2026-10-30 13:30 · **RENDER** · 22m · reports+home+countries+catalogue rendered, deployed — ok; 301/301 documents, 0 failed, 4 finance editions cut (COD GHA GMB ZAF); COD FY2027 182 lines live
