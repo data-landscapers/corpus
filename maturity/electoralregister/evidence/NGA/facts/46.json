@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "INEC's Bimodal Voter Accreditation System uses fingerprint or facial verification to match voters against the electoral register, and was first used nationwide in the 2023 general elections.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Bimodal Voter Accreditation System (BVAS)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bimodal Voter Accreditation System (BVAS)",
+   "country_label": "Nigeria",
+   "class": "electoral",
+   "platform": "fingerprint or facial verification devices",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

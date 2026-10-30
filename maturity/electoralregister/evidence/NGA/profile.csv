@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,electoral,roll,coverage,inservice,2026-10-05,NGA-001,,
+NGA,electoral,roll,coverage,inservice,2026-10-05,NGA-001;NGA-004,,
 NGA,electoral,checked,coverage,open,2026-10-05,NGA-002,,
 NGA,electoral,linked,coverage,linked,2026-09-15,NGA-003,,

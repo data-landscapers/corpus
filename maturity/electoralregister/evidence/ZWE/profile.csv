@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,electoral,roll,coverage,inservice,2026-08-18,ZWE-001,,
-ZWE,electoral,checked,coverage,,,,,nothing held
+ZWE,electoral,roll,coverage,inservice,2026-08-18,ZWE-001;ZWE-004,,
+ZWE,electoral,checked,coverage,,,,,nothing found
 ZWE,electoral,linked,coverage,linked,2026-07-23,ZWE-003,,

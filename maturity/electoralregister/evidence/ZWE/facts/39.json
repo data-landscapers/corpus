@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-zwe-zimbabwe-s-data-protection-regime",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The report says the Zimbabwe Electoral Commission maintains biometric voter databases.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ZEC biometric voter database",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZEC biometric voter databases",
+   "country_label": "Zimbabwe",
+   "class": "electoral",
+   "platform": "",
+   "owner": "Zimbabwe Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

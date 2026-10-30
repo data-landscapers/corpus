@@ -71,6 +71,7 @@ NAM,Provisional Voters' Register,Namibia,electoral,central server with Automatic
 NAM,Voter Registration Kit (VRK) and voters roll,Namibia,electoral,central server with fingerprint matching,Electoral Commission of Namibia,,2024-01-01-faq-electoral-commission-of-namibia
 NGA,National Register of Voters,Nigeria,electoral,Automated Biometric Identification System (ABIS),INEC,,2026-10-05-nga-vanguard-inec-voter-register-103-million
 NGA,national voter register,Nigeria,electoral,continuous voter registration portal,INEC,,2026-09-15-nga-thecabal-inec-nin-integration-national-voter-register
+NGA,Bimodal Voter Accreditation System (BVAS),Nigeria,electoral,fingerprint or facial verification devices,INEC,,2026-10-28-nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections
 RWA,amatora.nec.gov.rw,Rwanda,electoral,,National Electoral Commission,,2024-05-18-rwa-rwandainnigeria-diaspora-voter-registration
 SEN,ECOWAS biometric ID card,Senegal,other,,,,2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration
 SLE,voter register,Sierra Leone,electoral,,Electoral Commission for Sierra Leone,,2023-01-01-sle-eueom-final-report-general-elections
@@ -112,3 +113,4 @@ ZMB,online pre-registration portal,Zambia,electoral,online portal,Electoral Comm
 ZMB,online pre-registration portal,Zambia,electoral,online portal; digital registration kits,Electoral Commission of Zambia,,2026-08-15-zambia-eu-eom-preliminary-statement-digital-systems
 ZWE,Biometric Voter Registration (BVR),ZWE,electoral,BVR kits,Registrar-General (from ZEC),,2026-08-18-zwe-rg-zec-voter-registration-handover
 ZWE,national population database,Zimbabwe,other,,Registrar-General's Office,,2026-07-23-zimbabwe-registrar-general-to-take-over-voters-roll
+ZWE,ZEC biometric voter databases,Zimbabwe,electoral,,Zimbabwe Electoral Commission,,2025-01-01-zwe-zimbabwe-s-data-protection-regime
