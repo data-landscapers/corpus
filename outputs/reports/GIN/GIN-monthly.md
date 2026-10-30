@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: GIN
 ledger_rows: 34
 not_held: 3
-record: 1298e4ef75a3
+record: 34dc9d1378a3
 ---
 
 # News, Sep – Oct 2026
@@ -282,7 +282,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[Données passagers et frontières : la Guinée mise sur l'expertise américaine pour bâtir son dispositif API/PNR](https://newsaero.info/fr/article/institutions/guinee-api-pnr-donnees-passagers-washington)** — NewsAero, 27 October 2026
 
-Arrêté of 25 June 2026 sets airline data duties, six-month retention, ISO 27001 hosting; BOT operator not excluded.
+Guinea's transport minister and civil aviation authority held talks in Washington on 17–23 October 2026 on a national passenger-data system. The talks included the border-technology firm Securiport. An order of 25 June 2026 requires airlines to send passenger data, hosted in a state-approved data centre and kept six months before anonymisation.
 
 </div>
 
@@ -326,7 +326,7 @@ Guinea's WARDIP project, under the digital economy ministry, invited expressions
 
 **[Guinée : NimbaPay traite 7,6 millions $ de transactions et connecte 7 établissements en 4 mois](https://www.agenceecofin.com/actualites/2610-142742-guinee-nimbapay-traite-7-6-millions-de-transactions-et-connecte-7-etablissements-en-4-mois)** — Agence Ecofin, 26 October 2026
 
-Seven institutions, 67,000 transactions, GNF 68bn by mid-October 2026; BCRG drafting payments bill, 2027–2030 strategy.
+Guinea's central bank said on 22 October 2026 that its instant payment system NimbaPay had seven connected institutions by 15 October. It had handled about 67,000 transactions worth over GNF 68bn. The bank is also drafting a payment-systems bill and a 2027–2030 payments strategy with World Bank support.
 
 </div>
 
@@ -406,7 +406,7 @@ Guinea's territorial administration minister, Djenabou Touré, opened a workshop
 
 **[Guinée : le MATD lance, via l’ONECI, le projet RENEC pour moderniser et sécuriser l’état civil](https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/)** — GUISTAT, 28 October 2026
 
-Budget-funded register built by Digitech to 2028; first centres in 2026; unique identifier per citizen from birth.
+Guinea's territorial administration ministry launched RENEC, a national civil-status register, through its agency ONECI on 28 October 2026. The firm Digitech will build it to 2028, with national budget funding. It will give each citizen a unique identifier from birth, with first centres opening in 2026.
 
 </div>
 

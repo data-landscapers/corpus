@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: TUN
 ledger_rows: 68
 not_held: 5
-record: 37b14bdea8c0
+record: 350b9d0c4cc4
 ---
 
 # News, Sep – Oct 2026
@@ -664,7 +664,7 @@ Tunisia's tax directorate added functions to its TEJ tax data exchange platform 
 
 **[Tunisie : la digitalisation fiscale permet d’économiser 6 000 journées de travail - WMC](https://www.webmanagercenter.com/2026/10/27/575585/tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de-travail/)** — Webmanagercenter, 27 October 2026
 
-85,000-plus TEJ filers by end-July 2026; ~6,000 working days saved; 270-plus connected cash registers.
+More than 85,000 Tunisian taxpayers had filed employer declarations on the TEJ platform by end-July 2026, saving about 6,000 working days. The figure comes from the report on the 2027 budget bill, Webmanagercenter said on 27 October 2026. More than 270 cash registers in sit-in food and drink outlets are now connected.
 
 </div>
 

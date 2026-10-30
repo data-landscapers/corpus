@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: CIV
 ledger_rows: 56
 not_held: 10
-record: 5a2c237d7c7e
+record: a53f6a66f5c5
 ---
 
 # News, Sep – Oct 2026
@@ -1026,7 +1026,7 @@ An international seminar on blockchain and digital assets in Abidjan, co-organis
 
 **[Call for Tenders: Design and Delivery of an Investment Readiness Programme for Tech and Tech-Enabled Startups in Cote d'Ivoire](https://tenders-afd.dgmarket.com/tender/116742536)** — Agence Française de Développement (via dgMarket), 27 October 2026
 
-Expertise France AEDIB tender: 4 support bodies, 16 startups (5+ women-led); 17 months from Feb 2027; bids by 23 Nov.
+Expertise France opened a tender on 27 October 2026 for an investment readiness programme for tech startups in Côte d'Ivoire. The programme falls under the Africa-Europe Digital Innovation Bridge. It would support four support organisations and 16 startups, at least five women-led, for 17 months from February 2027; bids close on 23 November.
 
 </div>
 

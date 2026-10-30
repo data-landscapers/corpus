@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: MOZ
 ledger_rows: 55
 not_held: 18
-record: deb4535aaec0
+record: f06933e27988
 ---
 
 # News, Sep – Oct 2026
@@ -138,7 +138,7 @@ Mozambique's government approved a Public Finance Management Strategy for 2026�
 
 **[Mozambique’s Digital Plan Has 2030 Targets. Its Approval Date Says “XX”.](https://btw.media/en/mozambique-digital-roadmap-2030-targets-approval-xx)** — BTW Media, 27 October 2026
 
-22 Aug 2026 draft still unapproved; US$1.5-2.0bn financing need, six pillars, 14 flagship 2030 commitments.
+Mozambique's draft National Digital Transformation Strategy of 22 August 2026 still shows a blank Cabinet approval date, BTW Media reported on 27 October 2026. The ITU had scheduled approval for June 2026 and a launch for October. The draft puts financing needs at US$1.5–2.0bn across six pillars.
 
 </div>
 

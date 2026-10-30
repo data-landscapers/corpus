@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: COG
 ledger_rows: 26
 not_held: 5
-record: 3f84c3e4e46b
+record: 99669eb662e0
 ---
 
 # News, Sep – Oct 2026
@@ -370,7 +370,7 @@ WHO's Regional Director for Africa, Mohamed Janabi, visited passenger screening 
 
 **[TALANGAÏ : LANCEMENT DE LA FORMATION DES RELAIS COMMUNAUTAIRES SUR L’UTILISATION DE L’APPLICATION DU SYSTEME D’INFORMATION COMMUNAUTAIRE (SIC)](https://sante.gouv.cg/talangai-lancement-de-la-formation-des-relais-communautaires-sur-lutilisation-de-lapplication-du-systeme-dinformation-communautaire-sic/)** — Ministère de la Santé et de la Population (Congo), 28 October 2026
 
-Health ministry IT directorate trains community relays on SIC app to collect and transmit community health data.
+Congo's health ministry began training community health workers in Brazzaville's Talangaï district on 28 October 2026. The training covers the Système d'Information Communautaire app. The ministry's IT directorate presents the app as part of digitising the health information system.
 
 </div>
 

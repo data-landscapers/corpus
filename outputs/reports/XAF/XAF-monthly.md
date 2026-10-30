@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: XAF
 ledger_rows: 129
 not_held: 3
-record: 841192bef1b2
+record: 1f4e812f7506
 ---
 
 # News, Sep – Oct 2026
@@ -1388,7 +1388,7 @@ Ecobank, which operates in 34 African countries, said it would sign an agreement
 
 **[Why Ecobank's new moves in China matter for Africa's cost of capital](https://african.business/2026/10/african-banker/why-ecobanks-new-moves-in-china-matter-for-africas-cost-of-capital)** — African Business, 26 October 2026
 
-CIPS in Africa: 9 direct, 112 indirect participants; Togo-China trade USD 5.43bn (2025); PAPSS as complement.
+African Business analysed Ecobank's October 2026 agreement with China's yuan payment system, CIPS, on 26 October 2026. It reports that CIPS has 9 direct and 112 indirect participants in Africa. It presents the Pan-African Payment and Settlement System as a complement.
 
 </div>
 

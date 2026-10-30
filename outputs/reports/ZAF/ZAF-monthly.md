@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: ZAF
 ledger_rows: 180
 not_held: 19
-record: faa2d988d905
+record: 1caa71668d7a
 ---
 
 # News, Sep – Oct 2026
@@ -670,7 +670,7 @@ The United States development finance corporation approved an equity investment 
 
 **[Southern Africa Bilateral - Strengthening Cross-Regulatory Digital Governance in South Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-GOV-1-400199-411)** — UK Foreign, Commonwealth & Development Office (FCDO), 7 October 2026
 
-GBP 70,000 from UK FCDO via Wits for ICT and media regulator peer learning on AI and online safety; to Mar 2027.
+The UK Foreign, Commonwealth and Development Office committed GBP 70,000 on 7 October 2026 through the University of the Witwatersrand, its IATI file shows. The project pairs South African ICT and media regulators with UK peers on AI, online safety and digital platforms. It runs to March 2027.
 
 </div>
 
@@ -1730,7 +1730,7 @@ South Africa's Department of Home Affairs plans an online booking system for asy
 
 **[ICASA Publishes Draft Numbering Plan Fifth Amendment Regulations, 2026](https://www.icasa.org.za/news/2026/icasa-publishes-draft-numbering-plan-fifth-amendment-regulations-2026)** — ICASA, 29 October 2026
 
-Mandatory biometric verification for all mobile subscribers and SIM swaps; cap on numbers per person; 30-day comment.
+ICASA published draft Numbering Plan Fifth Amendment Regulations for 30 days' public comment on 29 October 2026. They would require biometric verification of new and existing mobile subscribers when numbers are activated or reactivated and at every SIM swap. They would also cap numbers per subscriber and limit how long visitors' numbers stay active.
 
 </div>
 
@@ -2314,7 +2314,7 @@ South Africa's Electoral Commission opened its Election Results System, which ca
 
 **[Elections national results hub opens](https://www.itweb.co.za/article/elections-national-results-hub-opens/8OKdWMDXOpwMbznQ)** — ITWeb South Africa, 29 October 2026
 
-Results system declared ready after audit; 14,000 more voter devices, virtual results centre; 29.2m registered voters.
+South Africa's Electoral Commission opened its National Results Operations Centre at Gallagher Convention Centre on 28 October 2026. It declared its results system ready after an independent audit. Five political parties audited it on 8–12 October 2026, and 29.2 million voters are registered for the local government elections.
 
 </div>
 
@@ -2530,7 +2530,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[SAAFF calls for customs integration in digital VAT model](https://www.freightnews.co.za/article/saaff-calls-for-customs-integration-in-digital-vat-model)** — Freight News, 26 October 2026
 
-SARS consultation closed 16 Oct 2026; freight forwarders want customs-VAT link via MRN, phased rollout, industry pilot.
+South Africa's revenue service closed consultation on its Digital VAT Model, built on e-invoicing and near-real-time reporting, on 16 October 2026. The freight forwarders' association asked for customs and VAT records to be linked through the Movement Reference Number. It also asked for a phased rollout and an industry pilot.
 
 </div>
 

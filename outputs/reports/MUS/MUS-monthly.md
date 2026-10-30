@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: MUS
 ledger_rows: 37
 not_held: 7
-record: f57ac4573057
+record: be2c7aa6e57f
 ---
 
 # News, Sep – Oct 2026
@@ -506,7 +506,7 @@ Mauritius's Civil Status Division, under the Prime Minister's Office, introduces
 
 **[Dossier médical numérique - E-Health : plus de 150,000 patients déjà enregistrés](https://defimedia.info/dossier-medical-numerique-e-health-plus-de-150000-patients-deja-enregistres)** — Le Defi Media Group, 27 October 2026
 
-150,000+ patients in East and Centre pilot; Phase 1 acceptance due Dec 2026; UNICC tests, GINS hosting.
+Mauritius's electronic medical record had registered more than 150,000 patients in a pilot across about thirty public health facilities, it was reported on 27 October 2026. Patients are identified by national identity card, and data sit on the government intranet. Phase 1 acceptance is planned by December 2026 under a UNDP-managed contract of USD 4.44m.
 
 </div>
 
@@ -734,7 +734,7 @@ The Bank of Mauritius launched BOMStats, its statistical data platform, on 3 Sep
 
 **[UNDP and Statistics Mauritius Collaborate to Strengthen Mauritius' Statistical Capabilities and Data Management Through Phase 2 of the MauStats Platform](https://www.undp.org/mauritius-seychelles/press-releases/undp-and-statistics-mauritius-collaborate-strengthen-mauritius-statistical-capabilities-and-data-management)** — United Nations Development Programme, 28 October 2026
 
-Phase 2 adds 14 modules incl. SDG monitoring and AI-assisted coding; staff trained 19-28 October 2026.
+Statistics Mauritius trained staff on Phase 2 of its MauStats platform, built with UNDP, from 19 to 28 October 2026. Phase 2 adds 14 modules, among them prices, tourism, SDG monitoring and AI-assisted coding. It also adds data exchange through APIs.
 
 </div>
 

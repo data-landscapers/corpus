@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: BFA
 ledger_rows: 58
 not_held: 6
-record: 510977bcc161
+record: e32d58717cbc
 ---
 
 # News, Sep – Oct 2026
@@ -88,7 +88,7 @@ Burkina Faso's Council of Ministers, meeting in Bobo-Dioulasso on 10 September 2
 
 **[Burkina Faso : le droit des données personnelles change de visage](https://jupiterinfo.bj/2026/10/04/burkina-faso-protection-donnees-personnelles-arcod/)** — Jupiter Info, 4 October 2026
 
-Laws 037-2026/ALP and 038-2026/ALP: ARCOD created, 2021 law repealed, DPIA and DPO duties, six months to comply.
+Burkina Faso adopted two data protection laws on 3 August 2026, Jupiter Info reported. Organic law 038-2026/ALP, promulgated on 22 September, creates a joint media and data regulator, ARCOD. Law 037-2026/ALP repeals the 2021 law, adds impact assessments and data protection officers, and gives controllers six months to comply.
 
 </div>
 

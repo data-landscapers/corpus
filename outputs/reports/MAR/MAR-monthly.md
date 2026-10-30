@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: MAR
 ledger_rows: 42
 not_held: 14
-record: fb9aac1f7f9a
+record: a676d297b849
 ---
 
 # News, Sep – Oct 2026
@@ -68,7 +68,7 @@ King Mohammed VI presided over the swearing-in of Morocco's new government at th
 
 **[مرسوم رقم 2.26.831 صادر في 26 أكتوبر 2026 يتعلق باختصاصات وزير الذكاء الاصطناعي والتحول الرقمي وإصلاح الإدارة](https://adala.justice.gov.ma/api/uploads/2026/10/28/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%B1%D9%82%D9%85%202.26.831%20%D9%8A%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA%20%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-1793190483463.pdf)** — Ministère de la Justice du Maroc — Adala (texte publié au Bulletin officiel / الجريدة الرسمية n° 7555, p. 7881), 26 October 2026
 
-Rahhou gets AI policy mandate, telecoms authority under law 24.96 and ADD tutelage; effective 16 October 2026.
+Morocco's decree 2-26-831 of 26 October 2026 sets the remit of Ahmed Rahhou, Minister of AI, Digital Transformation and Administrative Reform. It charges him with drafting and implementing government AI policy. It makes him the authority for telecoms under law 24.96 and places the Digital Development Agency under him.
 
 </div>
 
@@ -76,7 +76,7 @@ Rahhou gets AI policy mandate, telecoms authority under law 24.96 and ADD tutela
 
 **[Ahmed Rahhou chargé d’élaborer la politique publique en matière d’IA](https://medias24.com/2026/10/28/ahmed-rahhou-charge-delaborer-la-politique-publique-en-matiere-dia-1785031/)** — Médias24, 28 October 2026
 
-Decree 2-26-831 of 26 Oct 2026 gives the new ministry the AI policy mandate and keeps ADD under its tutelage.
+Médias24 reported on 28 October 2026 on Morocco's decree giving Ahmed Rahhou the AI policy mandate. It adds that minister-delegate Aïcha Guellaa takes administrative reform. Rahhou also inherits the Maroc Digital 2030 roadmap and the Nouaceur AI Factory project; the decree is summarised under its own entry.
 
 </div>
 

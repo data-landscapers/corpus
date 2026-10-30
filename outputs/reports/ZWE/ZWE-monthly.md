@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: ZWE
 ledger_rows: 54
 not_held: 6
-record: 6d0849a57606
+record: b04c49003de2
 ---
 
 # News, Sep – Oct 2026
@@ -416,7 +416,7 @@ Zimbabwe's telecoms regulator is developing a Cybersecurity Framework for Critic
 
 **[Zimbabwe moves to strengthen cybersecurity as National Strategy nears approval](https://www.newziana.co.zw/zimbabwe-moves-to-strengthen-cybersecurity-as-national-strategy-nears-approval/)** — New Ziana, 28 October 2026
 
-Strategy in Cabinet committee; 90-day implementation matrix with quarterly reviews ordered ahead of approval.
+Zimbabwe's ICT minister ordered a 90-day implementation plan for the National Cyber Security Strategy, still before a Cabinet committee, in Harare on 28 October 2026. The plan must name priorities, institutions, resources and indicators, with quarterly reviews. She also asked critical-infrastructure bodies to join a national incident simulation within six months.
 
 </div>
 

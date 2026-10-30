@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: AGO
 ledger_rows: 54
 not_held: 6
-record: c795484ec591
+record: 8e7a983045f2
 ---
 
 # News, Sep – Oct 2026
@@ -54,7 +54,7 @@ record: c795484ec591
 
 **[EOI - Angola - Elaboration a new National Policy for Science, Technology and Innovation and the National Policy for Scientific Data Management - STDP](https://www.afdb.org/en/documents/eoi-angola-elaboration-new-national-policy-science-98045)** — African Development Bank, 28 October 2026
 
-AfDB-funded consultancy sought to draft Angola's science policy and first scientific-data management policy.
+The African Development Bank published a call on 28 October 2026 for consultants to draft two Angolan policies. One is a new science, technology and innovation policy; the other is a national policy on scientific data management. Each comes with an implementation and evaluation plan, under the Science and Technology Development Project.
 
 </div>
 

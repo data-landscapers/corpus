@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: EGY
 ledger_rows: 112
 not_held: 39
-record: 15775e2bd702
+record: dec075f8e0f1
 ---
 
 # News, Sep – Oct 2026
@@ -484,7 +484,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[The NTRA issues order to double Egypt’s base internet package capacity at no extra cost](https://www.egyptindependent.com/the-ntra-issues-order-to-double-egypts-base-internet-package-capacity-at-no-extra-cost/)** — Egypt Independent, 28 October 2026
 
-EGP 150 fixed package doubled from 50 GB to 100 GB at no extra cost from 1 November 2026.
+Egypt's telecoms regulator ordered fixed-line providers to double the EGP 150 base internet package from 50 GB to 100 GB at no extra charge. The change takes effect on 1 November 2026. The package was introduced in May 2026 for low-use subscribers.
 
 </div>
 
@@ -580,7 +580,7 @@ Egypt's communications minister met INTRO Investment Holding to review the Kemet
 
 **[بيانات المصريين بين أبوظبي والقاهرة (Al-Pheratz investigation, Benya–Khazna Maadi data centre)](https://alpheratzmag.com/reports/%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%8a%d9%86/)** — Al-Pheratz Magazine (الفراتس), 2 October 2026
 
-Maadi hyperscale project traced to ADGM vehicle; no Egyptian operator, licence or construction start found.
+An Al-Pheratz investigation found no documented construction start, operating licence or Egyptian operator for the Benya–Khazna data centre at Maadi. The project was announced in May 2023 at 25 MW and over US$250m. The reporter traced the partners to a holding company registered in the Abu Dhabi Global Market.
 
 </div>
 
@@ -588,7 +588,7 @@ Maadi hyperscale project traced to ADGM vehicle; no Egyptian operator, licence o
 
 **[How I Mapped a $250 Million Data Center Across Two Jurisdictions](https://pulitzercenter.org/resource/how-i-mapped-250-million-data-center-across-two-jurisdictions)** — Pulitzer Center, 26 October 2026
 
-Benya-Khazna Maadi project traced to ADGM SPVs; no Egyptian operating company publicly identified.
+The reporter behind the Al-Pheratz investigation into the Benya–Khazna data centre at Maadi described the method for the Pulitzer Center on 26 October 2026. The reporter mapped brand names to legal entities across Egyptian records and Abu Dhabi Global Market filings. The investigation's findings are summarised under the Al-Pheratz entry.
 
 </div>
 
@@ -644,7 +644,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[“راية” تطلق ذراعها لرأس المال المخاطر وتستثمر في “Pidima”](https://www.alborsaanews.com/2026/10/27/2002153)** — Al Borsa News, 27 October 2026
 
-Raya Holding conditionally approves up to USD 60m to buy an unnamed operating Egyptian data centre.
+Raya Holding conditionally approved up to US$60m to buy an unnamed operating data centre in Egypt, it told the Egyptian Exchange. The money would come through a capital increase at Raya Data Center Services. Al Borsa News reported the disclosure on 27 October 2026.
 
 </div>
 

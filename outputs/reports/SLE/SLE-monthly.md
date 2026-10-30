@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: SLE
 ledger_rows: 41
 not_held: 4
-record: 45ea9a640b3c
+record: fbe0ab2071f1
 ---
 
 # News, Sep – Oct 2026
@@ -248,7 +248,7 @@ Sierra Leone's communications ministry confirmed that 44 website addresses, one 
 
 **[18 Arrested, 40 Detained Aftere Security Forces Raid Suspected International Cybercrime Network | Sierra Leone Monitor](https://www.sierraleonemonitor.com/security-forces-raid-cybercrime-network/)** — Sierra Leone Monitor, 27 October 2026
 
-Freetown and Kenema raids with NatCA; 1,206 phones, 339 SIM cards, 301 passports seized; ministry release.
+Sierra Leone's security forces and communications regulator raided a suspected international cybercrime network in Freetown and Kenema. They arrested 18 people and seized 1,206 phones, over 500 computers and 301 passports. The information ministry announced the raid on 27 October 2026.
 
 </div>
 
@@ -796,7 +796,7 @@ Statistics Sierra Leone and UNFPA began training 147 master trainers and data-qu
 
 **[STATS SL Commences Training of Trainers for 2026 Census - A-Z Multimedia Corporation](https://a-zsl.com/stats-sl-commences-training-of-trainers-for-2026-census/)** — A-Z Multimedia Corporation, 27 October 2026
 
-Began 26 Oct 2026; 30,000 tablets; enumerator training from 7 Nov; census night 1 Dec 2026.
+Statistics Sierra Leone began training trainers for the 2026 Population and Housing Census on 26 October 2026. Enumerator training starts on 7 November and census night is 1 December 2026. The Statistician-General said the agency holds 30,000 tablets for digital collection.
 
 </div>
 

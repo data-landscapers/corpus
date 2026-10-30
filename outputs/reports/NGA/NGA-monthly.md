@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: NGA
 ledger_rows: 180
 not_held: 9
-record: 4867f333f56a
+record: fcca8c3ed01c
 ---
 
 # News, Sep – Oct 2026
@@ -670,7 +670,7 @@ Nigeria's Communications Commission launched a Device Checker on 7 October 2026 
 
 **[Device Checker: Nigeria introduces app to simplify phone verification](https://techcabal.com/2026/10/29/nigeria-device-checker-verification-app/)** — TechCabal, 29 October 2026
 
-IMEI-scanning app for importers, distributors and dealers; Kano phone dealers being licensed and regularised.
+Nigeria's communications regulator, the NCC, announced a Device Checker app on 29 October 2026. Authorised manufacturers, importers, distributors and dealers use it to scan handset IMEIs and upload device data. The NCC is also licensing phone dealers in Kano State.
 
 </div>
 
@@ -700,7 +700,7 @@ Nigeria's NITDA began its first IPv6 migration readiness training for federal mi
 
 **[NAIGF inaugurates advisory council to guide responsible AI in Nigeria](https://aigovernanceafrica.com/naigf-inaugurates-advisory-council-to-guide-responsible-ai-in-nigeria/)** — AI Governance Africa, 27 October 2026
 
-15-member advisory council, chair Olusola Teniola; advisory only, no legal force; backs national AI strategy.
+The Nigeria AI Governance Forum inaugurated a 15-member advisory council chaired by Olusola Teniola, it was reported on 27 October 2026. The council will give policy advice in support of the national AI strategy. It is not a regulator, and its recommendations have no legal force.
 
 </div>
 
@@ -1374,7 +1374,7 @@ Infragora Global Capital plans to start building two AI-ready AFRIDATA data cent
 
 **[AFRIDATA, Agency sign $1.87m grant for Nigerian data centre study](https://nannews.ng/afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study/)** — News Agency of Nigeria, 28 October 2026
 
-Grant agreement signed at AFRIDATA Nigeria's Abuja launch; Lagos Free Zone eyed for Tier IV flagship, Delta for backup.
+USTDA and AFRIDATA signed a US$1.87m grant for a Nigerian data centre feasibility study, the News Agency of Nigeria reported on 28 October 2026. The signing marked AFRIDATA Nigeria's launch in Abuja. The study covers a flagship site in Lagos, possibly in the Lagos Free Zone, and a backup site in Delta.
 
 </div>
 
@@ -1814,7 +1814,7 @@ Trust Stamp signed a three-year technology services and data sovereignty agreeme
 
 **[Nigeria tests upgraded biometric voter system ahead of 2027 elections](https://www.biometricupdate.com/202610/nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections)** — Biometric Update, 28 October 2026
 
-57,000 extra devices; e-EC8A result-sheet authentication; Electoral Act 2026 s.47(2) names BVAS for accreditation.
+Nigeria's electoral commission scheduled a six-day stress test of its upgraded voter accreditation devices for 23–28 October 2026. It is preparing 57,000 more devices for the general elections of 16 January 2027. The upgrade authenticates polling-unit result sheets before upload to the results portal.
 
 </div>
 

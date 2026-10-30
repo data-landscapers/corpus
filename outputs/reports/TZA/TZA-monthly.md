@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: TZA
 ledger_rows: 89
 not_held: 5
-record: d605c89a2bd7
+record: e5d69c8098cf
 ---
 
 # News, Sep – Oct 2026
@@ -1328,7 +1328,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[Tanzania plans $50m venture capital fund for startups](https://ippmedia.co.tz/the-guardian/news/local-news/read/tanzania-plans-50m-venture-capital-fund-for-startups-2026-10-26-115005)** — The Guardian (Tanzania), 26 October 2026
 
-Startup association proposal; 15% public anchor, 18 venture funds, $180m private co-investment targeted.
+The Tanzania Startup Association proposed a $50 million venture capital fund at Tanzania Startup Week 2026 in Dar es Salaam. It wants 15 per cent from government and the rest from private institutional investors. The fund would back 18 local and regional funds and seek $180 million in co-investment.
 
 </div>
 

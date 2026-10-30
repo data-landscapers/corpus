@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: CMR
 ledger_rows: 45
 not_held: 4
-record: 29d21a0618e8
+record: 81861838509f
 ---
 
 # News, Sep – Oct 2026
@@ -128,7 +128,7 @@ Cameroon's telecommunications regulator gave operators until 30 September 2026 t
 
 **[Gouvernance des données en Afrique centrale : le Cameroun sans APDP opérationnelle](https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/)** — OBS-CC, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
-No APDP decree among 600+ presidential acts to 31 Aug 2026; 2023 draft decree predates and misnumbers the law.
+Cameroon's data protection law of December 2024 creates a protection authority, the APDP, but its organising decree has not been found. The OBS-CC observatory checked more than 600 presidential acts on 14 September 2026 and found no such decree. A draft decree on the telecoms ministry's site predates the law and cites the wrong articles.
 
 </div>
 
@@ -752,7 +752,7 @@ Cameroon's public-service minister Joseph Le reviewed the servicepublic.gov.cm p
 
 **[Aigles: le ministre joseph le motive l'appropriation de l’outil et annonce la généralisation de la biométrie pour lutter contre l'absentéisme chronique des agents publics](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2398-aigles-le-ministre-joseph-le-motive-l-appropriation-de-l-outil-et-annonce-la-generalisation-de-la-biometrie-pour-lutter-contre-l-absenteisme-chronique-des-agents-publics)** — Ministère de la Fonction publique et de la Réforme administrative (MINFOPRA), 27 October 2026
 
-Biometric attendance to go service-wide after a three-ministry pilot; AIGLES training launched in all ten regions.
+Cameroon's public service ministry will extend biometric attendance checks to all civil servants after a pilot in three ministries. It announced this in Bafoussam on 22 October 2026. The occasion was the launch of nationwide training on AIGLES, its career and payroll system.
 
 </div>
 

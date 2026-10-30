@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: SWZ
 ledger_rows: 46
 not_held: 3
-record: 1891fef6c54e
+record: 7bfbc6504ae6
 ---
 
 # News, Sep – Oct 2026
@@ -78,7 +78,7 @@ Eswatini's Senate adopted the ICT portfolio committee's report on the Critical I
 
 **[Finance Minister warns of cryptocurrency dangers](https://eswatinipositivenews.online/finance-minister-warns-of-cryptocurrency-dangers/)** — Eswatini Positive News, 27 October 2026
 
-Senate debates payment-system regulations under 2023 Act; PSP licensing, e-money, consumer protection; crypto caution.
+Eswatini's Senate considered a committee report on the National Payment System Regulations, 2026 on 27 October 2026. The regulations put the 2023 Act into effect. They cover licensing of payment providers, e-money, central bank oversight and consumer protection; the finance minister urged caution on cryptocurrencies.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: LBR
 ledger_rows: 42
 not_held: 6
-record: a6137439f763
+record: 2bb815d4ae34
 ---
 
 # News, Sep – Oct 2026
@@ -888,7 +888,7 @@ At a Governance Commission policy dialogue, the Press Union of Liberia called fo
 
 **[PUL Accuses Boakai GoL - Says CSA pact upends FOI, demands NDA rescission](https://analystliberiaonline.com/pul-accuses-boakai-gol-says-csa-pact-upends-foi-demands-nda-rescission/)** — Analyst Liberia, 26 October 2026
 
-Speech of 23 October 2026; 78 of 103 agencies without information officers; no Data Authority yet.
+The Press Union of Liberia's president, Julius Kanubah, asked the government on 23 October 2026 to withdraw a non-disclosure agreement imposed on civil servants. He said it overrides the Freedom of Information Act and the Independent Information Commission, which opposed it. He cited 78 of 103 assessed agencies without information officers, and no Data Authority.
 
 </div>
 

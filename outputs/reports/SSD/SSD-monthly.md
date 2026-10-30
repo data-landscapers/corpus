@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: SSD
 ledger_rows: 21
 not_held: 8
-record: caa6eff93314
+record: e7b24facc663
 ---
 
 # News, Sep – Oct 2026
@@ -368,7 +368,7 @@ South Sudan scored 0.75 out of 4 on the Africa AI Governance Index 2026, in the 
 
 **[South Sudan's first dedicated Media and Information Literacy Centre is creating opportunities for young people](https://www.unesco.org/en/articles/south-sudans-first-dedicated-media-and-information-literacy-centre-creating-opportunities-young)** — UNESCO, 28 October 2026
 
-UNESCO-backed Juba centre since 2024; computers, internet, verification training; about 500 users by Oct 2026.
+UNESCO profiled South Sudan's first media and information literacy centre, at Juba Day Secondary School, on 28 October 2026. UNESCO set it up in 2024 with the Central Equatoria education ministry. It offers computers, internet and verification training; the head teacher estimates about 500 users.
 
 </div>
 

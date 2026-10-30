@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: GNQ
 ledger_rows: 24
 not_held: 6
-record: 0a423367e08b
+record: c016f7e537cf
 ---
 
 # News, Sep – Oct 2026
@@ -244,7 +244,7 @@ Equatorial Guinea's Vice-President Teodoro Nguema Obiang Mangue told the finance
 
 **[Deliberately forgotten: internet shutdowns with no end](https://www.accessnow.org/indefinite-internet-shutdowns/)** — Access Now, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Indefinite shutdowns rising yearly; Tigray, Sudan, Annobón cited; calls on states, FOC, satellite providers.
+Access Now published a report on 20 October 2026 on internet shutdowns with no announced end, citing Tigray, Sudan and Annobón. It says the number of such shutdowns has risen each year. It asks states, the Freedom Online Coalition and satellite providers to act; the Annobón entry carries its testimonies.
 
 </div>
 
@@ -252,7 +252,7 @@ Indefinite shutdowns rising yearly; Tigray, Sudan, Annobón cited; calls on stat
 
 **[Annobón without internet: Access Now gathers testimonies and demands an end to the blackout](https://www.ambolegadu.com/en/annobon-sin-internet-access-now-reune-testimonios-y-reclama-el-fin-del-apagon/)** — Ambô Legadu, 27 October 2026
 
-Island cut off since July 2024, blamed on Obiang government; Access Now report of 20 Oct 2026 adds its testimonies.
+Access Now's report of 20 October 2026 carries testimonies from Annobón, an island of Equatorial Guinea cut off from internet and communications since July 2024. It attributes the blackout to the government, amid protests over detonations affecting homes and land. It demands full restoration of service.
 
 </div>
 

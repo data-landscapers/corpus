@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: SOM
 ledger_rows: 31
 not_held: 1
-record: 46e436f57439
+record: bad8839d9e49
 ---
 
 # News, Sep – Oct 2026
@@ -52,7 +52,7 @@ record: 46e436f57439
 
 **[Dowladda Soomaaliya oo Ansixinaysa Qaab-dhismeedka Qaranka ee Isku-duwidda Dowladda Dijitaalka ah. -](https://hiiraanweyn.net/dowladda-soomaaliya-oo-ansixinaysa-qaab-dhismeedka-qaranka-ee-isku-duwidda-dowladda-dijitaalka-ah/)** — Hiiraan Weyn, 27 October 2026
 
-National Digital Coordination Framework validation workshop; PM's Office and MoCT; ICT baseline review.
+Somalia's Office of the Prime Minister and communications ministry held a workshop on 27 October 2026 to validate a National Digital Coordination Framework for federal government ICT. Participants reviewed the results of a national ICT baseline assessment.
 
 </div>
 

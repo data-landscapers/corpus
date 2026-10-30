@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: CPV
 ledger_rows: 22
 not_held: 24
-record: 95b1dd6936f3
+record: 20102b28eb82
 ---
 
 # News, Sep – Oct 2026
@@ -314,7 +314,7 @@ A second evaluation of Cabo Verde's justice information system reports 46,000 cr
 
 **[Municípios ganham novas ferramentas para arrecadar mais impostos](https://www.inforpress.cv/en/municipios-ganham-novas-ferramentas-para-arrecadar-mais-impostos)** — Inforpress, 28 October 2026
 
-Simpol in all 22 municipalities; to back new Property Tax Code collection from 2027; Praia, São Vicente top revenue.
+Cabo Verde began applying the Simpol municipal information system in all 22 municipalities from 28 October 2026. The system supports local finance management. It will support assessment and collection under the new Property Tax Code from 2027.
 
 </div>
 

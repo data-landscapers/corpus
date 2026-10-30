@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: TGO
 ledger_rows: 64
 not_held: 16
-record: 02bee9d15e88
+record: b22be16a2de2
 ---
 
 # News, Sep – Oct 2026
@@ -872,7 +872,7 @@ The Global Alliance for Trade Facilitation launched a project in Lomé on 9 Octo
 
 **[Togo : 4 consultants recherchés pour préparer la passation électronique des marchés publics](https://www.togofirst.com/fr/gouvernance-economique/2610-20450-togo-4-consultants-recherches-pour-preparer-la-passation-electronique-des-marches-publics)** — Togo First, 26 October 2026
 
-Four 12-month posts, applications to 18 Nov 2026; no go-live date set; part of World Bank-backed reform programme.
+Togo's procurement regulator ARCOP is recruiting four consultants to set up a national e-procurement system, Togo First reported on 26 October 2026. The posts are a functional analyst, a procurement specialist, a change-management expert and a systems administrator. Applications close on 18 November 2026; no go-live date is given.
 
 </div>
 

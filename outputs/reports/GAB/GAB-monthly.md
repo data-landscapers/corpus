@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: GAB
 ledger_rows: 65
 not_held: 13
-record: 82118c06159f
+record: 713b552e8408
 ---
 
 # News, Sep – Oct 2026
@@ -838,7 +838,7 @@ Gabon Digital Week opened with the launch of an online register of the companies
 
 **[LANCEMENT DU FICHIER UNIQUE DES PARTICIPATIONS (FUP)](https://www.budget.gouv.ga/object.getObject.do?id=2675)** — Ministère de l’Économie, des Finances, de la Dette et des Participations (Gabon), 26 October 2026
 
-Ministry's own release; state shareholdings register to track revenues; launched at first Gabon Digital Week.
+Gabon's economy ministry launched the Fichier unique des participations, a digital register of the state's shareholdings, at Gabon Digital Week in Libreville on 26 October 2026. The Direction générale des Participations runs it with the digital economy ministry. It is meant to map state holdings and track their revenues.
 
 </div>
 

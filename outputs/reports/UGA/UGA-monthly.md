@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: UGA
 ledger_rows: 79
 not_held: 11
-record: b1903eea6816
+record: 00b513940aa5
 ---
 
 # News, Sep – Oct 2026
@@ -222,7 +222,7 @@ Kampala traders and the Uganda Communications Commission agreed to form a joint 
 
 **[Government Seeks Two Weeks to Resolve Wi-Fi Hotspot Licensing Dispute](https://www.ugandaradionetwork.net/story/government-seeks-two-weeks-to-resolve-wi-fi-hotspot-licensing-dispute)** — Uganda Radio Network, 28 October 2026
 
-ICT minister asks Parliament for two weeks to build a framework letting small hotspot operators trade legally.
+Uganda's ICT minister told Parliament the government needs two weeks to settle a licensing dispute over local Wi-Fi hotspot operators, it was reported on 28 October 2026. The ministry is consulting telecoms firms, internet providers, regulators and operators on a legal framework. The report notes concern that compliance costs could force small operators out.
 
 </div>
 
@@ -340,7 +340,7 @@ The South Sudan Revenue Authority and the Uganda Revenue Authority signed their 
 
 **[Egypt, Uganda discuss cooperation in digital transformation, AI](https://sis.gov.eg/en/media-center/news/egypt-uganda-discuss-cooperation-in-digital-transformation-ai/)** — State Information Service (Egypt), 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Ugandan ICT delegation in Cairo; Egypt to support Uganda's AI strategy; MoU on digital and AI cooperation to follow.
+Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egypt's ICT minister, Raafat Hindi (reported 29 October 2026). They discussed digital transformation, training and Egyptian support for Uganda's national AI strategy. The two sides agreed to sign a memorandum of understanding later.
 
 </div>
 

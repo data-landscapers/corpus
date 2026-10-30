@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: KEN
 ledger_rows: 160
 not_held: 6
-record: e6a0e8f33acd
+record: 76b69216d5bf
 ---
 
 # News, Sep – Oct 2026
@@ -2068,7 +2068,7 @@ Importers, exporters and logistics firms welcomed the Kenya Revenue Authority's 
 
 **[KRA Rolls-Out Multi-Vendor Electronic Cargo Seal Framework to Enhance Trade Efficiency](https://www.kra.go.ke/news-center/press-release/2405-kra-rolls-out-multi-vendor-electronic-cargo-seal-framework-to-enhance-trade-efficiency)** — Kenya Revenue Authority, 27 October 2026
 
-Replaces single-vendor e-seal model held since 2017; all seals linked to EAC RECTS cargo tracking.
+The Kenya Revenue Authority began rolling out a multi-vendor electronic cargo seal framework on 27 October 2026. It replaces the single-vendor arrangement in place since 2017. All seals connect to the East African Community's regional cargo tracking system.
 
 </div>
 
@@ -2238,7 +2238,7 @@ Kenya's State Department for ICT and the Digital Economy and GIZ worked on final
 
 **[KRA eyes M-Pesa invoices for small and micro traders](https://www.businessdailyafrica.com/bd/economy/kra-eyes-m-pesa-invoices-for-small-and-micro-traders-5650014)** — Business Daily Africa, 28 October 2026
 
-Safaricom would issue eTIMS tax invoices for micro traders paid via M-Pesa tills and paybills; talks only.
+The Kenya Revenue Authority and Safaricom are in talks to let M-Pesa issue electronic tax invoices for small traders. The plan was reported on 28 October 2026. The invoices would come under eTIMS. They would cover traders paid through M-Pesa tills and paybills.
 
 </div>
 
@@ -2252,7 +2252,7 @@ Safaricom would issue eTIMS tax invoices for micro traders paid via M-Pesa tills
 
 **[National Treasury pushes new regulations, plan to run e-Citizen](https://www.tnx.africa/national/article/2001560974/national-treasury-pushes-new-regulations-plan-to-run-e-citizen)** — TNX Africa, 28 October 2026
 
-Delegated Legislation committee approved eCitizen regulations; Treasury to split revenue role from services.
+Kenya's Treasury told the National Assembly Finance Committee on 27 October 2026 that a parliamentary committee had approved the eCitizen regulations. The regulations put the Treasury in charge of the platform. It plans to separate revenue collection from services and cites a revenue assurance system against the Auditor-General's ownership concerns.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: GHA
 ledger_rows: 121
 not_held: 9
-record: f964b5ab60f1
+record: d431773489c5
 ---
 
 # News, Sep – Oct 2026
@@ -576,7 +576,7 @@ A Ghanaian remittance startup moving money from the United States to Ghana raise
 
 **[Tier 2: Ghana - Ghana Cyber, Standards and Expertise Project (26)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-GOV-1-400101-406)** — UK Foreign, Commonwealth & Development Office (FCDO), 30 September 2026
 
-GBP 200,000 from UK FCDO for Ghana's cyber workforce and CSA capability, committed 2026-09-30; runs to March 2029.
+The UK Foreign, Commonwealth and Development Office committed GBP 200,000 on 30 September 2026 to a Ghana cyber project, its IATI file shows. The project works with the Cyber Security Authority, Lancaster University and the UK-Ghana Chamber of Commerce on the cyber workforce and institutions. It runs to March 2029.
 
 </div>
 
@@ -838,7 +838,7 @@ The US Trade and Development Agency signed an agreement on 9 September to fund a
 
 **[Northern Ghana Fiber Backbone and Access Networks Feasibility Study](https://ustda.gov/business_opp_oversea/northern-ghana-fiber-backbone-and-access-networks-feasibility-study/)** — U.S. Trade and Development Agency (USTDA), 28 October 2026
 
-US$660,000 USTDA grant to CSquared Ghana; US-firm proposals due 1 December 2026 for the NEDCo fibre study.
+CSquared Ghana invited US firms to bid for a feasibility study on fibre strung along NEDCo's electricity network in northern Ghana. A US$660,000 USTDA grant pays for the study. Proposals are due on 1 December 2026.
 
 </div>
 

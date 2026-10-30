@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-30
 place: COD
 ledger_rows: 73
 not_held: 7
-record: 90130a773d40
+record: 55bff271a134
 ---
 
 # News, Sep – Oct 2026
@@ -998,7 +998,7 @@ DR Congo's deputy interior minister opened a four-day national workshop in Kinsh
 
 **[Democratic Republic of Congo seeks consultancy for $500 million digital programme](https://www.consultancy.africa/news/2326/democratic-republic-of-congo-seeks-consultancy-for-500-million-digital-programme)** — Consultancy Africa, 28 October 2026
 
-Eight-month consultancy: e-gov master plan, enterprise architecture, interoperability; WB US$400m plus AFD €100m.
+The DRC's telecoms ministry is seeking a firm for an eight-month e-government consultancy, Consultancy Africa reported on 28 October 2026. The work covers a master plan for the 2025–2030 strategy, enterprise architecture and interoperability. The wider programme has US$400m from the World Bank and €100m from the French Development Agency.
 
 </div>
 
