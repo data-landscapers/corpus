@@ -12,4 +12,4 @@
 
 ***Also on file***. The [Personal Data Protection Law No. 151 of 2020](<https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update>). The [Executive Regulations of the PDPL (Decree No. 816 of 2025)](<https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl>). The [Personal Data Protection Center (PDPC)](<https://gate.ahram.org.eg/News/5335073.aspx>). The [PDPC electronic portal](<https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update>).
 
-***Not found***. Any ruling by the Centre against an organisation, and any inspection it has carried out.
+***Not found***. Any ruling by the Centre against a named organisation, and any inspection it has carried out.

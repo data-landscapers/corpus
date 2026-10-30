@@ -1,19 +1,19 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "3",
-   "law": "in-force",
-   "treaty": "none",
-   "authority": "appointed",
-   "practice": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-012;EGY-004",
-   "gaps": "No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
-   "as_at": "2026-10-17"
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "4",
+      "law": "in-force",
+      "treaty": "none",
+      "authority": "appointed",
+      "practice": "implementing",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-008;EGY-014;EGY-004",
+      "gaps": "No ruling of the Centre against a named organisation in the last three years has been found. The Centre is led by an acting chief executive, and its board was not constituted in January 2026.",
+      "note": "Rebuild 2026-10-30: the Centre published guidelines and breach-notification templates in January and February 2026 and opened licence applications in October 2026, which is an appointed authority issuing guidance and registering; the count had left out the year-dated row. No ruling against a named organisation is held, so not stage 5.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

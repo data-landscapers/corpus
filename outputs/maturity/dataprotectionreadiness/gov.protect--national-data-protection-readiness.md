@@ -20,9 +20,9 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 13 |
+| 5 Leading | 14 |
 | 4 Operating | 15 |
-| 3 Established | 10 |
+| 3 Established | 9 |
 | 2 Nascent | 4 |
 | 1 Absent | 12 |
 | Unplaced | 0 |
@@ -67,6 +67,14 @@ Gabon's data protection law was published in 2023, its authority is working, and
 
 - The APDPVP plenary, by deliberation n°073 of 25 April 2024 on a complaint of 27 November 2023, imposed a pecuniary sanction of 90,000,000 FCFA on Citibank Gabon S.A. for diverting employee data from its declared purpose and processing ethnic-origin data, with a two-month formal notice ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
 - In an interview published 4 September 2026 the APDPVP's president, Joel Dominique Ledaga, speaks as the sitting head of the authority and describes its powers to give reasoned opinions, self-refer, hear companies and inspect installations ([source, 2026-09-04](https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse)).
+
+### Ghana: 5 Leading
+
+Ghana's commission registered 2,575 data controllers in 2026 and referred a clinic to police in October; no count of its rulings has been found.
+
+- Ghana's Data Protection Commission ran an enforcement operation on 2026-10-12 and directed Nyaho Medical Centre to report to the Police CID over its expired data protection registration certificate, under the Data Protection Act, 2012 (Act 843), per MyJoyOnline. It is a registration compliance check with no decision stated ([source, 2026-10-12](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/)).
+- The Commission said it registered 2,575 data controllers in 2026 and is verifying registration status and running inspections ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
+- Dr Arnold Kavaarpuo is Executive Director of the Data Protection Commission, which is acting under Act 843 ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
 
 ### Kenya: 5 Leading
 
@@ -161,20 +169,20 @@ A data protection law is in force and its authority is working, but no ruling ag
 - ARTCI launched Certinum on 2 July 2026, an online platform for compliance and processing-authorisation requests under the personal data protection regime, replacing about 100 paper files handled each month; the document does not name the law ([source, 2026-07-02](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire)).
 - ARTCI, styling itself the Autorité de Protection des Données Personnelles, issued a communique on 3 August 2026 inviting controllers to use CERTINUM, which it says it launched on 2 July 2026, so the body is acting as the authority ([source, 2026-08-03](https://artci.ci/lartci-invite-les-entreprises-a-privilegier-la-plateforme-certinum/)).
 
+### Egypt: 4 Operating
+
+Egypt's law is in force and its acting-led authority issued guidelines in 2026 and opened licence applications; no ruling against an organisation has been found.
+
+- Tech Hive Advisory says Egypt's Personal Data Protection Centre published guidelines (consent, lawful bases, direct marketing, DPO, ROPA, licences and permits, privacy notice) and breach-notification templates to aid compliance with the law and executive regulations; no sanction is reported (date is January-February 2026, the period covered) ([source, 2026](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
+- The Centre opened its electronic portal for licence, permit and accreditation applications in early October 2026, per Shura Law Firm ([source, 2026-10](https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/)).
+- A 7 August 2026 report says the Personal Data Protection Centre, affiliated to the ICT ministry, is acting under Law 151 of 2020 (executive regulations issued November 2025, compliance deadline November 2026), with an acting chief executive, Susan El-Okbawy, who described its licensing and breach-handling role ([source, 2026-08-07](https://www.youm7.com/story/2026/8/7/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%86%D8%B8%D9%85-%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D8%AD%D9%88%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9/7505610)).
+
 ### Ethiopia: 4 Operating
 
 Ethiopia published a data protection law in 2024 and its communications regulator oversees it; no ruling against an organisation is known.
 
 - The ECA Director General told Shega the Authority had received about 10 requests to transfer data abroad and had approved them as a temporary measure, and officials previewed a forthcoming registration portal for data controllers and processors at a workshop co-hosted with Huawei; the article records no sanction or published count of decisions, noting that as of March 2025 no ECA enforcement actions or guidelines had been publicized ([source, 2025-11](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement)).
 - The Ethiopian Communications Authority, whose mandate was extended from telecom regulation to data protection, is described as enforcing the law, with its Director General Balcha Reba saying data processors and collectors now need the Authority's permission and that staffing and technical capacity are being expanded (date is the article's published date) ([source, 2025-11-15](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement)).
-
-### Ghana: 4 Operating
-
-Ghana's data protection law is in force and its commission was registering controllers and referring organisations to police in October 2026; no ruling is known.
-
-- The Commission said it registered 2,575 data controllers in 2026 and is verifying registration status and running inspections ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
-- The Commission recorded 2,575 controller registrations in 2026 and inspected organisations' registration status and data handling, finding expired certificates ([source, 2026-10-12](https://www.graphic.com.gh/news/general-news/data-protection-commission-clamps-down-on-organisations-breaching-regulations-microfinance-firm-and-health-facility-referred-to-police-for-prosecution.html)).
-- Dr Arnold Kavaarpuo is Executive Director of the Data Protection Commission, which is acting under Act 843 ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
 
 ### Malawi: 4 Operating
 
@@ -268,13 +276,6 @@ Since 2023 a data protection law is in force; no authority is appointed yet and 
 
 - TechAfrica News reports that the government introduced its personal data legal framework in 2023 through Ordinance-Law No. 23/010, the Digital Code, which sets out lawful processing, transparency, data minimisation and system security, and treats it as the framework within which DPOs ensure compliance; the report gives no date for the statement, so the published date of 2026-03-17 is used ([source, 2026-03-17](https://techafricanews.com/2026/03/17/drc-launches-data-protection-officers-network-to-strengthen-digital-governance/)).
 - The African Union's status list of 2 February 2026 records that Democratic Rep. of Congo ratified or acceded to the Malabo Convention on 2025-03-06 and deposited its instrument on 2025-06-27 ([source, 2025-03-06](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-
-### Egypt: 3 Established
-
-The law is in force and an authority is appointed and issuing guidance in 2026; no ruling against an organisation is reported.
-
-- Law No. 151 of 2020 entered into force in October 2020; its regulations' transitional period expires 31 October 2026, per Shura Law Firm ([source, 2026-10-13](https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/)).
-- A 7 August 2026 report says the Personal Data Protection Centre, affiliated to the ICT ministry, is acting under Law 151 of 2020 (executive regulations issued November 2025, compliance deadline November 2026), with an acting chief executive, Susan El-Okbawy, who described its licensing and breach-handling role ([source, 2026-08-07](https://www.youm7.com/story/2026/8/7/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%86%D8%B8%D9%85-%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D8%AD%D9%88%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9/7505610)).
 
 ### Guinea: 3 Established
 
