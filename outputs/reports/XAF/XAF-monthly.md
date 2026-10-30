@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: XAF
-ledger_rows: 127
+ledger_rows: 129
 not_held: 3
-record: 5ab55748b50d
+record: 841192bef1b2
 ---
 
 # News, Sep – Oct 2026
@@ -489,6 +489,28 @@ A BTW Media analysis notes that Forvis Mazars signed an unmodified opinion on AF
 **[AFRINIC’s 2025 surplus fell 65% while income rose](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-2025-surplus-income-operating-cash)** — btw.media, 21 October 2026
 
 BTW Media's reading of AFRINIC's audited 2025 accounts finds income up 2.8% to US$6.289 million while total expenses nearly doubled to US$5.114 million, cutting the surplus of income over expenditure by 65.1% to US$1.175 million. Election costs of about US$1.04 million and legal fees of about US$878,000, against US$27,322 a year earlier, account for some 80% of the rise, and cash generated from operations fell 75.2% to US$856,407.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Declaration of the sixth AU ministerial committee on communication and ICT (STC-CICT-6)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana’s Communications Minister confirmed as Chair of AU Committee on Communication and ICT](https://techreviewafrica.com/news/8032/ghanas-communications-minister-confirmed-as-chair-of-au-committee-on-c)** — Tech Review Africa, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Ghana's communications minister, Samuel Nartey George, was confirmed as chair of the AU Specialised Technical Committee on Communication and ICT at its session in Libreville (reported 29 October 2026). George named connectivity, data governance, cybersecurity and AI as priorities for his two-year term. He called on member states to implement the continental frameworks already adopted.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Opening Remarks by H.E. Lerato D. Mataboge, AUC Commissioner for Infrastructure and Energy at the 6th AU STC on Communication and ICT (STC-CICT)](https://au.int/en/speeches/20261029/auc-commissioner-6th-au-stc-communication-and-ict-stc-cict)** — African Union Commission, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
+
+AU Commissioner Lerato Mataboge opened the ministerial session of the AU's 6th technical committee on communication and ICT in Libreville on 29 October 2026. She asked for a common African voice at the ITU's PP-26 conference in Doha. She also presented the Algiers Declaration on digital platforms in Africa.
 
 </div>
 
@@ -1362,6 +1384,14 @@ Ecobank, which operates in 34 African countries, said it would sign an agreement
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Why Ecobank's new moves in China matter for Africa's cost of capital](https://african.business/2026/10/african-banker/why-ecobanks-new-moves-in-china-matter-for-africas-cost-of-capital)** — African Business, 26 October 2026
+
+CIPS in Africa: 9 direct, 112 indirect participants; Togo-China trade USD 5.43bn (2025); PAPSS as complement.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1991,12 +2021,30 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia completed a t
 ## Capacity and inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity and inclusion">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#access-to-services">Access to services</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-divides">Digital divides</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African Union Media and Information Literacy Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AU Media and Information Literacy Framework to harmonize fragmented standards](https://www.connectingafrica.com/regulation/au-media-and-information-literacy-framework-to-harmonize-fragmented-standards)** — Connecting Africa, 29 October 2026
+
+The African Union Commission's Media and Information Literacy Framework was reported at validation stage on 29 October 2026. Begun in 2025 with UNESCO support, it would set a continental standard for teaching media, information and AI literacy. A Zimbabwean official said about nine of 54 African states include such literacy in national curricula.
+
+</div>
+
+</div>
 
 ### Training and skills
 
