@@ -39,6 +39,7 @@ GHA,GhanaPostGPS,Ghana,address,app and web map,Ghana Post Company Limited,nation
 GHA,GhanaPostGPS,Ghana,address,app and web map,Ghana Post Company Limited,national,2025-10-15-ghanapostgps-mijo-ride-delivery-integration
 GHA,GhanaPostGPS,Ghana,address,app and web map,Ghana Post Company Limited,national,2024-02-19-ghanapostgps-digital-addressing-evaluation
 GHA,Street naming and property addressing system,Ghana,address,,,,2026-08-27-graphic-ayariga-pledges-fully-digital-revenue-system-to-stop
+GHA,National Household Registry,Ghana,other,,"Ministry of Gender, Children and Social Protection",,2026-09-16-gha-myjoyonline-household-registry-11-24-million-social-protection
 GIN,FindMe digital addressing pilot,Guinea,address,FindMe,Government of Guinea with startup FindMe,,2025-08-01-lack-of-digital-addresses-slows-africa-digital-economy
 GIN,Programme national d'adressage,Guinée,address,"geolocation app, Google Maps","Ministry of Urbanism, Housing and Territorial Planning",Kaloum done; other communes planned,2024-10-01-gin-adressage-des-rues-a-kaloum-les-explications-de-mory-conde-ministre-l
 GMB,National Digital Addressing Project,Gambia,address,,Ministry of Communications and Digital Economy,national,2025-10-13-gambia-launch-ndasc-digital-nation-techafricanews
@@ -67,6 +68,8 @@ NER,Géoportail d'Adressage de Niamey,Géoportail de Niamey,address,web geoporta
 NGA,National Digital Alphanumeric Postcode,Nigeria,address,"mobile app, web finder, API; hosted on AWS",NIPOST,"five nested levels, state to building",2026-10-03-nga-spaceinafrica-digital-postcode-gis-satellite-data-aws-hosting
 NGA,National Digital Alphanumeric Postcode System,Nigeria,address,website and app,NIPOST,11-character building-level code,2026-10-02-nga-nairametrics-digital-postcodes-mixed-results
 NGA,National Digital Alphanumeric Postcode System,Nigeria,address,application,NIPOST,"state, LGA, district, area, building",2026-10-02-nga-thecable-nipost-postcode-app-exposes-homeowner-names
+NGA,National Digital Alphanumeric Postcode System (NDAPS),Nigeria,address,Milsat Technologies satellite basemaps and GIS; public lookups resolve to AWS,NIPOST,national,2026-10-29-from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-d
+NGA,National Digital Alphanumeric Postcode System,Nigeria,address,,"Federal Ministry of Communications, Innovation & Digital Economy with NIPOST",,2026-10-28-nga-federal-ministry-hosts-first-built-on-nigeria-s-postcode-pitch-session
 RWA,Iposita grid code addressing,Rwanda,address,Akutari smartphone app,Iposita,,2021-02-17-rwa-abc-iposita-codified-addressing-system
 SDN,Postal addressing and postcode project,Sudan,address,,Ministry of Information and Communications,national,2015-10-29-sdn-alnilin-postal-addressing-project-meeting
 SEN,National Digital Addressing (ANN),Senegal,address,,Ministry of Telecommunications and Digital Affairs,national,2026-08-07-senegal-relaunches-national-digital-addressing-project

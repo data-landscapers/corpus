@@ -21,8 +21,8 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 1 |
-| 3 Established | 9 |
+| 4 Operating | 2 |
+| 3 Established | 8 |
 | 2 Nascent | 25 |
 | 1 Absent | 3 |
 | Unplaced | 9 |
@@ -36,6 +36,14 @@ The addressing system covered the whole country in 2026; no source found reports
 
 - Ghana Post's site says GhanaPostGPS covers every inch of the country and all locations are addressed ([source, 2026-08-29](https://www.ghanapostgps.com/)).
 - The Ghana Post App Store listing says all locations in the country are addressed ([source, 2025-10-15](https://apps.apple.com/us/app/ghanapostgps/id1296627307)).
+
+### Nigeria: 4 Operating
+
+Nigeria's national digital postcode, switched on in October 2026, codes every building in the country; use by other public services is not known.
+
+- Space in Africa states NIPOST switched on the National Digital Alphanumeric Postcode on 1 October 2026, giving each captured addressable building an 11-character code ([source, 2026-10-01](https://spaceinafrica.com/2026/10/03/inside-nigerias-digital-postcode-the-gis-and-satellite-data-behind-11-characters/)).
+- Tech Africa News says NDAPS assigns a code to every addressable building in the country and its database holds structures across the entire country, mapped from satellite imagery and field verification ([source, 2026-10-01](https://techafricanews.com/2026/10/29/from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-digital-postcodes/)).
+- Tech Africa News says Nigeria introduced the National Digital Alphanumeric Postcode System on 1 October 2026, led by NIPOST with Milsat Technologies, and that it assigns an 11-character code to every addressable building ([source, 2026-10-01](https://techafricanews.com/2026/10/29/from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-digital-postcodes/)).
 
 ### Algeria: 3 Established
 
@@ -82,14 +90,6 @@ Kanifing's digital addresses were in service in 2026; no source found reports na
 
 - Kanifing Municipal Council's GIS head says its digital address system, using Google Plus Codes displayed on compound gates, is in place across the municipality ([source, 2026-06-29](https://www.kerrfatou.com/kmc-says-digital-address-codes-will-improve-emergency-response-and-property-tax-collection/)).
 - LoGRI says Kanifing Municipality implemented a Plus Code digital addressing system for 500,000 residents, georeferencing 36,000 properties and creating a municipal address database ([source, 2025-12](https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia)).
-
-### Nigeria: 3 Established
-
-An address register or digital addressing system was in service in 2026; no source found reports national coverage.
-
-- Space in Africa states NIPOST switched on the National Digital Alphanumeric Postcode on 1 October 2026, giving each captured addressable building an 11-character code ([source, 2026-10-01](https://spaceinafrica.com/2026/10/03/inside-nigerias-digital-postcode-the-gis-and-satellite-data-behind-11-characters/)).
-- Nairametrics reports the National Digital Alphanumeric Postcode System launched through NIPOST on 1 October 2026, with users already finding 11-character building postcodes ([source, 2026-10-01](https://nairametrics.com/2026/10/02/nigerians-report-mixed-results-as-new-digital-postcodes-go-live/)).
-- TheCable states NIPOST launched the national digital alphanumeric postcode system, assigning 11-character codes to addressable buildings, and its reporters used the application ([source, 2026-10-01](https://www.thecable.ng/spotted-nipost-digital-postcode-website-exposes-names-of-homeowners)).
 
 ### Tanzania: 3 Established
 

@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 NGA,National Digital Alphanumeric Postcode,Nigeria,address,"mobile app, web finder, API; hosted on AWS",NIPOST,"five nested levels, state to building",2026-10-03-nga-spaceinafrica-digital-postcode-gis-satellite-data-aws-hosting
 NGA,National Digital Alphanumeric Postcode System,Nigeria,address,website and app,NIPOST,11-character building-level code,2026-10-02-nga-nairametrics-digital-postcodes-mixed-results
 NGA,National Digital Alphanumeric Postcode System,Nigeria,address,application,NIPOST,"state, LGA, district, area, building",2026-10-02-nga-thecable-nipost-postcode-app-exposes-homeowner-names
+NGA,National Digital Alphanumeric Postcode System (NDAPS),Nigeria,address,Milsat Technologies satellite basemaps and GIS; public lookups resolve to AWS,NIPOST,national,2026-10-29-from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-d
+NGA,National Digital Alphanumeric Postcode System,Nigeria,address,,"Federal Ministry of Communications, Innovation & Digital Economy with NIPOST",,2026-10-28-nga-federal-ministry-hosts-first-built-on-nigeria-s-postcode-pitch-session

@@ -51,3 +51,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,GMB,dpi.registry--address-register,ladder,5,3,GMB-002;GMB-006,"Bill, 2026-10-23: a later yes no longer answers the earlier ones in this study; no source held says the addressing system covers the whole country, so the cell takes rung 3, in service."
 2026-10-23,TZA,dpi.registry--address-register,ladder,5,3,TZA-002;TZA-003,"Bill, 2026-10-23: a later yes no longer answers the earlier ones in this study; no source held says the addressing system covers the whole country, so the cell takes rung 3, in service."
 2026-10-29,UGA,dpi.registry--address-register,fact,2,2,UGA-004;UGA-005,"UCC seeks UPU expertise for a National Addressing System under NDP IV (Oct 2026): a plan, stage stays 2"
+2026-10-30,NGA,dpi.registry--address-register,fact,3,4,NGA-001;NGA-007;NGA-006,"Tech Africa News, October 2026: NDAPS codes every addressable building in the country, database covers the whole country: nationwide, stage 4"

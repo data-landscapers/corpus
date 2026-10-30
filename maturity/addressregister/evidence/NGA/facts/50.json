@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-29-from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-d",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "Tech Africa News says Nigeria introduced the National Digital Alphanumeric Postcode System on 1 October 2026, led by NIPOST with Milsat Technologies, and that it assigns an 11-character code to every addressable building.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "National Digital Alphanumeric Postcode System (NDAPS)",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "Tech Africa News says NDAPS assigns a code to every addressable building in the country and its database holds structures across the entire country, mapped from satellite imagery and field verification.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "National Digital Alphanumeric Postcode System (NDAPS)",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Alphanumeric Postcode System (NDAPS)",
+   "country_label": "Nigeria",
+   "class": "address",
+   "platform": "Milsat Technologies satellite basemaps and GIS; public lookups resolve to AWS",
+   "owner": "NIPOST",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

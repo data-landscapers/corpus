@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "address",
-      "stage": "3",
+      "stage": "4",
       "addressing": "inservice",
-      "national": "",
+      "national": "nationwide",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001;NGA-003;NGA-005",
-      "gaps": "No source found since October 2023 says the addressing system covers the whole country, or that other services use it.",
-      "note": "Reassessed in the rebuild: NIPOST switched on the national digital postcode on 1 October 2026, so in service; nothing found says it covers the whole country, and NIPOST listing service points against postcodes is the post's own feature, not another service using it.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NGA-001;NGA-007;NGA-006",
+      "gaps": "No use of the postcode by another public service is recorded.",
+      "note": "NIPOST switched on the national digital postcode on 1 October 2026, and an October 2026 report says it codes every addressable building in the country, so nationwide. Nothing says the post, emergency services, utilities or another register use it, so not stage 5.",
+      "as_at": "2026-10-30"
     }
   ]
 }
