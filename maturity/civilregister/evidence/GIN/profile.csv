@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,civil,births,coverage,inservice,2026-09-02,GIN-001,GIN-002=underway;GIN-003=underway,
-GIN,civil,deaths,coverage,,,,,nothing held
-GIN,civil,coverage,coverage,,,,,nothing held
+GIN,civil,births,coverage,inservice,2026-09-02,GIN-001,GIN-004=underway;GIN-002=underway;GIN-003=underway,
+GIN,civil,deaths,coverage,,,,,nothing found
+GIN,civil,coverage,coverage,,,,,nothing found

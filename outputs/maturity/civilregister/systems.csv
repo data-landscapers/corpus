@@ -41,6 +41,7 @@ CIV,Registre national des personnes physiques (RNPP),Côte d'Ivoire,other,,ONECI
 CIV,ONECI civil status system,Cote d'Ivoire,civil,digital civil-status system linked to a national server,ONECI,"civil-status centres, national server, Registre national des personnes physiques",2025-09-17-civ-digitalmag-id-day-2025-oneci-nni
 CIV,Cityweb,Cityweb,civil,,ONECI,,2024-10-27-civ-cni-double-identite-enregistrement-des-naissances-nni-les-clarificatio
 CIV,CityWeb,CityWeb (ONECI),civil,web application,ONECI,"communes, sub-prefectures, prefectures",2026-10-27-civ-digitalisation-trois-outils-de-modernisation-de-letat-civil
+CIV,CityWeb,Cote d'Ivoire,civil,CityWeb,ONECI,centres,2026-10-29-etat-civil-le-cameroun-sinspire-de-la-cote-divoire-pour-interconnecter-ses
 CMR,BUNEC civil registry digitisation,Cameroon,civil,,BUNEC,,2026-09-16-cmr-ecomatin-bunec-52-milliards-numerisation-etat-civil
 CMR,SIGEC,Cameroon,civil,,BUNEC,commune,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
 CMR,SANEC,Cameroon,civil,,BUNEC,commune,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
@@ -49,6 +50,7 @@ CMR,Fichier national de l'état civil,CMR,civil,,MINDDEVEL,,2025-05-01-cmr-mindd
 CMR,NIPU,CMR,other,,,,2025-05-01-cmr-minddevel-id4africa-loi-2024-016-etat-civil-nipu
 CMR,SIGEC,Cameroun,civil,,BUNEC,communes,2026-07-02-cmr-undp-premier-acte-naissance-digitalise-est
 CMR,Fichier national de l'etat civil,Cameroun,civil,,BUNEC,principal civil registration centres,2026-06-30-cmr-socialactu-bunec-fichier-national-etat-civil
+CMR,BUNEC computerised civil registration,BUNEC digital civil status database,civil,,BUNEC,,2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet
 COD,DHIS2,Masina civil status pilot,civil,DHIS2,UN joint project with Masina municipal civil status office,commune,2025-08-18-rdc-masina-digitalisation-etat-civil
 COD,Afritech/Idemia ID card and civil registration contract,RDC,other,,ONIP,,2024-09-04-cod-actualite-contrat-carte-identite-annule
 COG,SIFEC (Système intégré des faits d'état civil),Congo,civil,software built by ACSI,Direction générale de l'administration du territoire / ACSI,,2026-09-23-cog-adiac-sifec-etat-civil-operationnalisation
@@ -107,6 +109,7 @@ GIN,Registre National de l'Etat Civil (RNEC),Guinea,civil,,PN-RAVEC,,2025-01-01-
 GIN,Registre national d'identite (RNPP),Guinee,other,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
 GIN,Registre national de l'Etat civil (RNEC),Guinea,civil,,ONECI,,2026-03-29-plfi-2026-matd-commission-des-lois-cnt
 GIN,RNEC,Registre National de l'Etat Civil,civil,,,,2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census
+GIN,RENEC (Registre national de l'état civil),Guinée,civil,Digitech,MATD / ONECI,,2026-10-28-gin-guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-sec
 GMB,Electronic Civil Registration and Vital Statistics (ECRVS),Gambia,civil,,Government of The Gambia,,2025-06-20-govt-integrate-id-cards-ecrvs-thepoint
 GMB,eCRVS,The Gambia,civil,,Ministry of Health,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
 GMB,eCRVS,The Gambia,civil,,Registrar General CRVS,,2026-07-18-uneca-fatty-overview-of-crvs-in-the-gambia

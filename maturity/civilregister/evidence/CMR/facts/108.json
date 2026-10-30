@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "BUNEC has computerised 60 of Cameroon's 432 principal civil registration centres, with paper dominant and a parallel digital system in selected councils (Biometric Update).",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "BUNEC computerised civil registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BUNEC computerised civil registration",
+   "country_label": "BUNEC digital civil status database",
+   "class": "civil",
+   "platform": "",
+   "owner": "BUNEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

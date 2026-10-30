@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-etat-civil-le-cameroun-sinspire-de-la-cote-divoire-pour-interconnecter-ses",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "ONECI says CityWeb, the central software for managing civil status events, has been deployed in all the country's centres.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "CityWeb",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CityWeb",
+   "country_label": "Cote d'Ivoire",
+   "class": "civil",
+   "platform": "CityWeb",
+   "owner": "ONECI",
+   "tiers": "centres"
+  }
+ ],
+ "note": ""
+}
