@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The article says e-GA, the e-Government Authority, developed GovESB as the common exchange layer for government systems, as its Director General Eng Benedict Benny Ndomba described.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "GovESB",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The article says e-GA coordinates government technology initiatives and developed GovESB, the common exchange layer through which separate government institutions' systems exchange data.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "GovESB",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovESB",
+   "country_label": "Tanzania",
+   "class": "staff",
+   "platform": "",
+   "owner": "e-GA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
