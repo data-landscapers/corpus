@@ -1135,7 +1135,7 @@ def month_index(iso_date: str) -> int | None:
 
 def coverage(docs: list[dict] | None = None) -> int:
     """R106: the coverage table's data. For each country, each type it has published and each
-    fiscal year from `YEARS_BACK` years ago to this one: `held`, or `absent` once the type is
+    fiscal year from `YEARS_BACK` years ago to next year's: `held`, or `absent` once the type is
     due by that country's own calendar, or `not due`. The calendar is the median gap, in months,
     between a fiscal year's start and the type's publication across the documents held, plus
     `GRACE`. Written to `outputs/budgets/coverage.csv`, dated; the absences are review 6's count."""
@@ -1162,7 +1162,7 @@ def coverage(docs: list[dict] | None = None) -> int:
         if stages.get(doc_type, "none") in ("none", "as-stated"):
             continue                    # a statement or a procurement plan is not a budget stage
         gap = sorted(g)[len(g) // 2]
-        for fy in range(today.year - YEARS_BACK, today.year + 1):
+        for fy in range(today.year - YEARS_BACK, today.year + 2):   # next year's proposal is due this autumn
             due = fy * 12 + fsm[iso3] - 1 + gap + GRACE
             slugs = held.get((iso3, doc_type, fy), [])
             status = "held" if slugs else "absent" if due <= now else "not due"
