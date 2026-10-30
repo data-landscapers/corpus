@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-29-syc-cabinet-business-wednesday-28-october-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Cloud and Datacenter Project",
+   "country_label": "Government Cloud and Datacenter Project",
+   "class": "other",
+   "platform": "two geographically separated datacenters",
+   "owner": "Government of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": "Government datacentres are approved for implementation, not in service."
+}

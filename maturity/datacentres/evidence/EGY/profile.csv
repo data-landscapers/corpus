@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,datacentre,centre,coverage,tier3,2026-08-28,EGY-004;EGY-006;EGY-008;EGY-019,EGY-022=service;EGY-020=service;EGY-028=service;EGY-002=service;EGY-007=service;EGY-005=service;EGY-009=service;EGY-027=service;EGY-010=service;EGY-029=service;EGY-003=service;EGY-018=service;EGY-011=service;EGY-015=service;EGY-021=service;EGY-013=service;EGY-014=service;EGY-016=service;EGY-012=service;EGY-017=service;EGY-026=service,
+EGY,datacentre,centre,coverage,tier3,2026-08-28,EGY-004;EGY-006;EGY-008;EGY-019,EGY-030=service;EGY-022=service;EGY-020=service;EGY-028=service;EGY-002=service;EGY-007=service;EGY-005=service;EGY-009=service;EGY-027=service;EGY-010=service;EGY-029=service;EGY-003=service;EGY-018=service;EGY-011=service;EGY-015=service;EGY-021=service;EGY-013=service;EGY-014=service;EGY-016=service;EGY-012=service;EGY-017=service;EGY-026=service,
 EGY,datacentre,cloud,coverage,region,2024,EGY-001;EGY-024;EGY-025,,

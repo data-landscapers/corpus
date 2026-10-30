@@ -55,6 +55,7 @@ AGO,Data Centre e Cloud Nacional do Governo,Angola,datacentre,,Government of Ang
 AGO,"Paratus Angola data centres, Patriota, Luanda",Angola,other,,Paratus,two designed to Tier III,2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional
 AGO,Raxio AG1,Angola,other,,Raxio Angola,Uptime design certificate,2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional
 AGO,Centro Informatico Seguro #2 (CIS II),Angola,other,,EMIS,Tier III Constructed Facility (Uptime Institute),2025-11-19-ago-certificacao-tier-iii-de-instalacao-construida
+AGO,BPC data centre,Angola,other,,"Bravantic (in whose name it is held), hosted by ITA",,2024-09-01-ago-bpc-desafia-bna
 BDI,ADB data center (server room),data center de l'ADB,other,,Agence de Développement du Burundi,,2026-02-18-adb-appel-offres-racks-data-center-stabilisateurs-projecteurs
 BDI,BBS national data center,national data center,datacentre,,Burundi Backbone System (BBS),level-3 (not stated as Uptime or TIA-942),2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,Burundi IXP,Burundi Internet Exchange Point,other,,BBS,,2020-01-01-world-bank-burundi-digital-economy-assessment
@@ -602,6 +603,8 @@ EGY,Africa Data Centres Egypt,EGY,other,,"Vodafone Business, Elsewedy Electric, 
 EGY,mega data centres (planned),Egypt,other,,Government,,2026-10-20-egy-ict-minister-outlines-digital-egypt-strategy-at-egypt-forum-2026
 EGY,Government Data and Cloud Computing Center,Government Data and Cloud Computing Center,datacentre,,Government of Egypt (MCIT),,2024-04-28-egy-president-sisi-inaugurates-egypt-s-1st-government-data-and-cloud-compu
 EGY,Heka Data Alamein data centre,Egypt,other,,US alliance led by Heka Data,,2026-10-06-egy-cairomubasher-alamein-data-centre-power-substation
+EGY,Benya-Khazna Maadi data centre,Egypt,other,,Benya and Khazna,,2026-10-26-egy-how-i-mapped-a-250-million-data-center-across-two-jurisdictions
+EGY,Raya Data Center Services,Egypt,datacentre,,Raya Holding (via Raya Systems),,2026-10-27-egy-raya-ventures-venture-capital-arm-pidima-data-centre
 ERI,National Statistics Office data centre,National Statistics Office data centre,other,,Eritrea National Statistics Office,,2016-07-04-afdb-eri-001-eritrea-pfm-statistics-capacity-building
 ERI,Eritel Datacenters,Eritel's Datacenters,datacentre,,Eritel Telecom Corporation,,2026-08-31-eritel-private-cloud-services
 ERI,Eritel Nextcloud,Eritel Private Cloud Services,other,Nextcloud,Eritel Telecom Corporation,Platinum; Gold; Silver,2026-08-31-eritel-private-cloud-services
@@ -1541,6 +1544,7 @@ NGA,Kasi Cloud Data Centers,Nigeria,other,,Kasi Cloud,,2025-10-21-nga-punch-data
 NGA,"Galaxy Backbone data centre, Abuja",Galaxy Backbone data centre,datacentre,,Federal Government of Nigeria (Galaxy Backbone Limited),Tier 3,2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu
 NGA,Kasi LOS1 (Kasi Lekki campus),Nigeria,datacentre,"carrier-neutral data centre, Lekki, Lagos",Kasi Cloud Datacenters,aligned with TIA 942 Tier III (stated),2026-05-19-nga-kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-read
 NGA,"Cloud Exchange data centre, Ikoyi",Nigeria,datacentre,colocation,Cloud Exchange,Tier IV,2025-05-13-nga-achieving-tier-iv-certification-at-cloud-exchange-data-centre
+NGA,"AFRIDATA Nigeria data centres (Lagos, Delta)",Nigeria,other,,AFRIDATA,Lagos designed to Tier IV,2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study
 RWA,"AOS data centre, Kigali","AOS data centre, Kigali",other,,AOS,,2026-03-19-water-policy-data-centres-newtimes
 RWA,"Africa Data Centres Kigali (2MW, planned)","Africa Data Centres Kigali (2MW, planned)",other,,Africa Data Centres (Cassava Technologies),,2022-11-28-africa-data-centres-kigali-2mw-data-centre
 RWA,Strettch Cloud,Strettch Cloud,other,,Strettch,,2026-08-26-four-african-cloud-startups-to-watch-2026
@@ -1696,6 +1700,7 @@ SYC,Cable & Wireless Seychelles Tier IV data centre,Tier IV data centre,datacent
 SYC,Data Center 1 - Bon Espoir,"Data Center 1 - Bon Espoir, Anse Boileau",datacentre,,Cable & Wireless (Seychelles) Limited,,2025-09-04-uptime-institute-bon-espoir-certification
 SYC,Bon Espoir Data Centre,Bon Espoir Data Centre,datacentre,,Cable & Wireless Seychelles,,2024-11-22-cable-wireless-inaugurates-state-of-the-art-data-centre
 SYC,Airtel Seychelles data center,data center in Seychelles,other,Ericsson hybrid network cloud,Airtel Africa / Airtel Seychelles,,2021-12-09-airtel-africa-and-ericsson-launch-data-center-in-seychelles
+SYC,Government Cloud and Datacenter Project,Government Cloud and Datacenter Project,other,two geographically separated datacenters,Government of Seychelles,,2026-10-29-syc-cabinet-business-wednesday-28-october-2026
 TCD,National Data Center (Centre national des données numériques),Data Center national,other,Huawei-built,State (ADETIC),government,2026-07-01-agenceecofin-tchad-cybastion-finaliser-datacenter
 TCD,National Data Center (Centre national des données numériques),Data Center national,other,Huawei-built,State (ADETIC),government,2026-02-12-adetic-audit-certification-data-center-national
 TCD,National Data Center (Centre national des données numériques),Data Center national,other,Huawei-built,State (ADETIC),government,"2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure"

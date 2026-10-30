@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-egy-raya-ventures-venture-capital-arm-pidima-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Al Borsa News reports that Raya Data Center Services, founded in 2012 under Raya Systems, provides data centre, cloud computing and managed services to public and private sector customers in Egypt.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Raya Data Center Services",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raya Data Center Services",
+   "country_label": "Egypt",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raya Holding (via Raya Systems)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
