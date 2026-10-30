@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: EGY
-ledger_rows: 108
+ledger_rows: 112
 not_held: 39
-record: a265a1386a18
+record: 15775e2bd702
 ---
 
 # News, Sep – Oct 2026
@@ -322,6 +322,20 @@ Representatives of 11 African diplomatic missions in Cairo agreed to draft a joi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egypt-Uganda memorandum on digital transformation and AI</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt, Uganda discuss cooperation in digital transformation, AI](https://sis.gov.eg/en/media-center/news/egypt-uganda-discuss-cooperation-in-digital-transformation-ai/)** — State Information Service (Egypt), 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egypt's ICT minister, Raafat Hindi (reported 29 October 2026). They discussed digital transformation, training and Egyptian support for Uganda's national AI strategy. The two sides agreed to sign a memorandum of understanding later.
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -462,6 +476,20 @@ Summarised under [Connectivity](#connectivity).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulated retail package prices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The NTRA issues order to double Egypt’s base internet package capacity at no extra cost](https://www.egyptindependent.com/the-ntra-issues-order-to-double-egypts-base-internet-package-capacity-at-no-extra-cost/)** — Egypt Independent, 28 October 2026
+
+EGP 150 fixed package doubled from 50 GB to 100 GB at no extra cost from 1 November 2026.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -546,6 +574,28 @@ Egypt's communications minister met INTRO Investment Holding to review the Kemet
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Khazna-Benya hyperscale data centre, Maadi Technology Park</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[بيانات المصريين بين أبوظبي والقاهرة (Al-Pheratz investigation, Benya–Khazna Maadi data centre)](https://alpheratzmag.com/reports/%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%8a%d9%86/)** — Al-Pheratz Magazine (الفراتس), 2 October 2026
+
+Maadi hyperscale project traced to ADGM vehicle; no Egyptian operator, licence or construction start found.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[How I Mapped a $250 Million Data Center Across Two Jurisdictions](https://pulitzercenter.org/resource/how-i-mapped-250-million-data-center-across-two-jurisdictions)** — Pulitzer Center, 26 October 2026
+
+Benya-Khazna Maadi project traced to ADGM SPVs; no Egyptian operating company publicly identified.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">eFinance, Alibaba Cloud and Nuvexa cloud memorandum</p>
 
 <div class="bulletin-item" markdown="1">
@@ -581,6 +631,20 @@ Egypt has about 15–20 MW of installed data centre IT capacity, and of 400–50
 **[Telecom Egypt expands subsea, terrestrial infrastructure for global traffic](https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/telecom-egypt-expands-subsea-terrestrial-infrastructure-for-global-traffic/134930280)** — ETDatacenters, 14 October 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Raya acquisition of an operating Egyptian data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[“راية” تطلق ذراعها لرأس المال المخاطر وتستثمر في “Pidima”](https://www.alborsaanews.com/2026/10/27/2002153)** — Al Borsa News, 27 October 2026
+
+Raya Holding conditionally approves up to USD 60m to buy an unnamed operating Egyptian data centre.
 
 </div>
 
