@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-zwe-potraz-says-it-is-now-a-gateway-for-investors-not-a-gatekeeper",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "POTRAZ director-general Gift Machengete said the Universal Service Fund-backed Innovation Drive Programme has given milestone-based catalytic funding to more than 100 innovations to absorb early-stage risk.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Innovation Drive Programme",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Innovation Drive Programme",
+   "country_label": "Zimbabwe",
+   "class": "startuppolicy",
+   "platform": "Universal Service Fund",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
