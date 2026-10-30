@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NGA,readiness,foundation,coverage,body,2026-10-27,NGA-002;NGA-004;NGA-006;NGA-007;NGA-012;NGA-014;NGA-018;NGA-021;NGA-022;NGA-024;NGA-026,NGA-005=strategy;NGA-008=strategy,
 NGA,readiness,response,coverage,responded,2026-09-30,NGA-001;NGA-003;NGA-011;NGA-013;NGA-017;NGA-027,,
-NGA,readiness,cii,coverage,designated,2026-10-27,NGA-009;NGA-010;NGA-015;NGA-016;NGA-019;NGA-020;NGA-023;NGA-025,,
+NGA,readiness,cii,coverage,designated,2026-10-29,NGA-009;NGA-010;NGA-015;NGA-016;NGA-019;NGA-020;NGA-023;NGA-025;NGA-029,,
 NGA,readiness,figures,coverage,published,2024-07-12,NGA-028,,

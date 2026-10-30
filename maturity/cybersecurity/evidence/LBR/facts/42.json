@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-lbr-senator-cyrus-urges-stronger-cybersecurity-protection-of-citizens-righ",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Senator Cyrus cited Liberia's National Cyber Security Strategy for 2025-2029 as a step strengthening its policy framework.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "National Cyber Security Strategy 2025-2029",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cyber Security Strategy 2025-2029",
+   "country_label": "Liberia",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
