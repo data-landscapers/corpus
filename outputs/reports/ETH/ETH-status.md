@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-10-28
+compiled: 2026-10-30
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 224
+sources_cited: 226
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -40,7 +40,7 @@ On 23 July 2026 the National Bank [defined a virtual asset as any digital repres
 ### Data protection
 <!-- gov.protect -->
 
-[Proclamation No. 1321/2024 was approved on 4 April 2024 and gazetted on 24 July 2024](https://www.aln.africa/ethiopia-new-data-protection-law). [It replaced the country's piecemeal sectoral regulation of personal data](https://www.aln.africa/ethiopia-new-data-protection-law). [As of November 2025 the secondary directives needed to operate it had not been issued](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement). [No enforcement action by the Ethiopian Communications Authority had been made public as of March 2025](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement).
+[Proclamation No. 1321/2024 was approved on 4 April 2024 and gazetted on 24 July 2024](https://www.aln.africa/ethiopia-new-data-protection-law). [It replaced the country's piecemeal sectoral regulation of personal data](https://www.aln.africa/ethiopia-new-data-protection-law). [As of November 2025 the secondary directives needed to operate it had not been issued](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement). [No enforcement action by the Ethiopian Communications Authority had been made public as of March 2025](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement). [In May 2026 its director-general said a portal for reporting breaches to the Authority had been prepared](https://www.ena.et/web/amh/w/amh_8835545).
 
 [The 2024 law defines personal data broadly and claims reach over foreign entities handling Ethiopians' data](https://www.aln.africa/ethiopia-new-data-protection-law). [It requires controllers to notify the Authority and affected people within 72 hours of learning of a breach](https://www.techhiveadvisory.africa/insights/review-of-ethiopias-data-protection-act). [It obliges personal data to be stored locally](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024). [This matches Digital Ethiopia 2030's principle of national anchoring for data, infrastructure and systems](https://www.pmo.gov.et/media/other/Digital_Ethiopia_2030.pdf).
 
@@ -139,7 +139,7 @@ The European Union is the most frequent financier by count, with seven commitmen
 ### Data Storage
 <!-- infra.store -->
 
-[In 2025 no hyperscale cloud provider had a region or edge node in Ethiopia, the nearest regions being in South Africa](https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20054-wingu-africa-brings-wcx-cloud-platform-to-ethiopia.html). [Under the 2024 proclamation, personal data must be stored locally](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024).
+[In 2025 no hyperscale cloud provider had a region or edge node in Ethiopia, the nearest regions being in South Africa](https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20054-wingu-africa-brings-wcx-cloud-platform-to-ethiopia.html). [Under the 2024 proclamation, personal data must be stored locally](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024). [A central-bank directive in force since June 2025 requires every bank, foreign subsidiaries included, to keep customer and core banking data, primary and backup, inside Ethiopia](https://nbe.gov.et/wp-content/uploads/2025/06/REQUIREMENTS-FOR-LICENSING-AND-RENEWAL-OF-BANKING-BUSINESS-AND-REPRESENTATIVE-OFFICE-DIRECTIVE-NO.-SBB942025-1.pdf).
 
 [Raxio opened a Tier III-certified facility at the Addis Ababa ICT Park in November 2023, with room for 800 racks and 3MW of IT power](https://www.datacenterdynamics.com/en/news/raxio-launches-data-center-in-addis-ababa-ethiopia/). [RedFox's first modular data centre went live at the same park in September 2022](https://www.datacenterdynamics.com/en/news/safaricom-to-build-data-center-in-addis-ababa-ethiopia/). [By May 2022 the state operator's Huawei-built data centre at Gola Sefer had close to 90 colocation customers](https://furtherafrica.com/2022/05/24/ethio-telecom-to-lease-data-center-to-5-private-institutions/). [Wingu Africa's WCX platform provides local cloud that interoperates with Azure and AWS](https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20054-wingu-africa-brings-wcx-cloud-platform-to-ethiopia.html) (2025). [Wingu raised commercial finance in 2025 for its rollout across Ethiopia, Djibouti and Tanzania](https://www.biometricupdate.com/202506/60m-to-speed-up-digital-connectivity-infrastructure-in-ethiopia-djibouti-tanzania). [Data centre and hosting services sit among the class licences of Directive 792/2021, with ISP, VSAT and satellite categories](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf).
 
