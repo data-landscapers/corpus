@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "By April 2026, e-GA reported 723 institutions and service points using NGAO, its multi-factor authentication infrastructure for government systems.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "NGAO",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "By April 2026, e-GA reported 723 institutions and service points using NGAO, its multi-factor authentication infrastructure for government systems.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "NGAO",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NGAO",
+   "country_label": "Tanzania",
+   "class": "authentication",
+   "platform": "",
+   "owner": "e-GA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

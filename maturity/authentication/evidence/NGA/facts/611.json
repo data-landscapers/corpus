@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-28-nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bimodal Voter Accreditation System (BVAS)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "fingerprint or facial verification devices",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": "BVAS matches voters against the electoral register, not the national ID, and no authentication service is stated."
+}
