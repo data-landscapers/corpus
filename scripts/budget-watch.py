@@ -1086,7 +1086,8 @@ def budget_documents() -> list[dict]:
 
 def followups(docs: list[dict] | None = None) -> int:
     """R106: a document the poll delivered, now in `raw/`, for a country-year Corpus has
-    already extracted, queues one line in `logs/budget-followups.md` — one BUDGET-EXTRACT
+    already extracted — or any held document for a year newer than every year read, which
+    opens that year — queues one line in `logs/budget-followups.md` — one BUDGET-EXTRACT
     sitting for that country-year, R58's grain. Queued once: a slug already in the file is
     never queued again, and the sitting strikes the line (deletes it) when it settles it.
     **A struck line stays struck because the sitting's row in `logs/budget-extract.csv` names
@@ -1099,13 +1100,18 @@ def followups(docs: list[dict] | None = None) -> int:
     today = dt.date.today().isoformat()
     lines = []
     for d in sorted(docs, key=lambda d: (d["iso3"], d["fy"] or 0, d["slug"])):
-        if not (d["raw"] and d["batch"].startswith("budget-poll-")) or f"[[{d['slug']}]]" in text:
+        if not d["raw"] or f"[[{d['slug']}]]" in text or d["slug"] in settled:
             continue
-        if d["slug"] in settled:
+        rows = country_rows(d["iso3"])
+        latest = max((int(r["fy_start"][:4]) for r in rows if (r.get("fy_start") or "")[:4].isdigit()),
+                     default=None)
+        # A year newer than any read is queued however it arrived: next year's bill is staged by
+        # hand from `logs/fy2027-discovery.csv` as often as the poll finds it (Bill, 2026-10-30).
+        first = latest is not None and d["fy"] is not None and d["fy"] > latest
+        if not (first or d["batch"].startswith("budget-poll-")):
             continue
-        year_rows = [r for r in country_rows(d["iso3"])
-                     if (r.get("fy_start") or "")[:4] == str(d["fy"])]
-        if not year_rows:
+        year_rows = [r for r in rows if (r.get("fy_start") or "")[:4] == str(d["fy"])]
+        if not year_rows and not first:
             continue
         held = set()
         for row in year_rows:
