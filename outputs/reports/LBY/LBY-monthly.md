@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: LBY
 ledger_rows: 46
 not_held: 3
-record: cd65f23a7c37
+record: 5d9efa28bd61
 ---
 
 # News, Sep – Oct 2026
@@ -633,6 +633,14 @@ Libya's Health Minister chaired a consultative meeting on a 2026-2030 plan for d
 **[مركز خدمة المواطن يبحث دعم منظومة التأشيرة الإلكترونية](https://ar.libyaobserver.ly/article/38605)** — ليبيا أوبزيرفر (Libya Observer, Arabic), 5 September 2026
 
 Libya's Citizen Service Centre and the Passports, Nationality and Foreigners Affairs Authority agreed a joint technical and administrative support mechanism for the national E-Visa system, reported on 5 September 2026. It will receive and process enquiries and complaints from citizens and residents and unify communication between the agencies involved. No date or resources are given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[مصلحة الجوازات تتلقى 773 طلباً للحصول على التأشيرات الإلكترونية خلال أسبوع](https://lana.gov.ly/post.php?id=368841&lang=ar)** — Libyan News Agency (LANA), 29 October 2026
+
+Libya's Passports, Nationality and Foreigners Affairs Authority received 773 e-visa applications from 78 nationalities between 23 and 29 October 2026. It approved 610 and refused 65, and 98 were still pending.
 
 </div>
 
