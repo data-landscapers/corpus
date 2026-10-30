@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: CMR
-ledger_rows: 43
+ledger_rows: 45
 not_held: 4
-record: 885116edef0a
+record: 29d21a0618e8
 ---
 
 # News, Sep – Oct 2026
@@ -34,6 +34,8 @@ record: 885116edef0a
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -111,6 +113,30 @@ Cameroon's Telecommunications Regulatory Board is compiling a public directory o
 **[Cameroon TRB Updates Telecom Operators Directory to Strengthen Transparency](https://techafricanews.com/2026/09/17/cameroon-trb-updates-telecom-operators-directory-transparency-3/)** — Tech Africa News, 17 September 2026
 
 Cameroon's telecommunications regulator gave operators until 30 September 2026 to file identification forms for a public directory that is to separate licensed and compliant providers from unlicensed ones. Nothing is yet published and no publication date for the directory itself is stated.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Personal data protection authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gouvernance des données en Afrique centrale : le Cameroun sans APDP opérationnelle](https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/)** — OBS-CC, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+No APDP decree among 600+ presidential acts to 31 Aug 2026; 2023 draft decree predates and misnumbers the law.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon’s AI Data Centre: Five Legal Questions Before the First Server Is Installed - CLG Global](https://clgglobal.com/cameroons-ai-data-centre-five-legal-questions-before-the-first-server-is-installed/)** — CLG Global, 29 October 2026
+
+A CLG Global analysis sets out five legal questions for Cybastion's planned US$75 million AI data centre in Douala. Cybastion announced the project in August 2026. The analysis notes that the data protection authority, which must authorise transfers abroad, awaits a presidential decree and is not yet operational.
 
 </div>
 
@@ -646,6 +672,22 @@ The director-general of Cameroon's national civil registration office, BUNEC, sa
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon looks to Côte d’Ivoire to advance digital civil registration | Biometric Update](https://www.biometricupdate.com/202610/cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration)** — Biometric Update, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+Cameroon's civil-registration office, BUNEC, sent a study mission to Côte d'Ivoire's ONECI on 26–30 October 2026 on digitisation and interoperability. Cameroon has computerised 60 of its 432 principal civil-registration centres. It aims to computerise all of them by 2029.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[État civil : le Cameroun s’inspire de la Côte d’Ivoire pour interconnecter ses données](https://www.wearetech.africa/fr/fils/actualites/tech/etat-civil-le-cameroun-s-inspire-de-la-cote-d-ivoire-pour-interconnecter-ses-donnees)** — We Are Tech Africa, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abidjan from 26 to 30 October 2026. Cameroon plans to computerise and interconnect 432 main registry centres by 2029. ONECI reported its CityWeb software in every centre, online e-certified birth extracts, and weak connectivity in some centres.
+
+</div>
+
 </div>
 
 ### Sectoral management information systems
@@ -697,6 +739,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[SERVICEPUBLIC.GOV.CM: MINFOPRA SEEKS HOMEPAGE REDESIGN AND NEW PORTAL IDENTITY](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2395-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-identity)** — MINFOPRA (Cameroun), 20 October 2026
 
 Cameroon's public-service minister Joseph Le reviewed the servicepublic.gov.cm portal on 20 October 2026 before its launch: it lists 1,250 procedures in 25 categories in French and English, with an app for offline use and a proposed 90-day publicity campaign across the ten regions. He asked for a new name and look for the portal and a review of the contract with its provider, ADWA SARL.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric attendance control for civil servants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Aigles: le ministre joseph le motive l'appropriation de l’outil et annonce la généralisation de la biométrie pour lutter contre l'absentéisme chronique des agents publics](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2398-aigles-le-ministre-joseph-le-motive-l-appropriation-de-l-outil-et-annonce-la-generalisation-de-la-biometrie-pour-lutter-contre-l-absenteisme-chronique-des-agents-publics)** — Ministère de la Fonction publique et de la Réforme administrative (MINFOPRA), 27 October 2026
+
+Biometric attendance to go service-wide after a three-ministry pilot; AIGLES training launched in all ten regions.
 
 </div>
 
