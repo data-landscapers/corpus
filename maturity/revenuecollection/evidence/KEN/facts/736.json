@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-ken-national-treasury-pushes-new-regulations-plan-to-run-e-citizen",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "TNX Africa reports that National Treasury Principal Secretary Chris Kiptoo told the National Assembly Finance Committee on 27 October 2026 that the Treasury manages eCitizen, the government's digital payment platform, as the entity in charge of revenue collection, and the article says it processes billions in public revenue.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "revenue",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
