@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-tza-zanzibar-to-link-identity-card-with-land-ownership-records-to-curb-dis",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Zanzibar government plans to link Zanzibar Identity Card (Zan ID) details to land ownership records through LARIS, said LARIS project coordinator Ibrahim Khalid Mambo on 29 October 2026.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Land Registration and Information System (LARIS)",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zanzibar Identity Card (Zan ID)",
+   "country_label": "Zanzibar",
+   "class": "other",
+   "platform": "",
+   "owner": "Zanzibar government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
