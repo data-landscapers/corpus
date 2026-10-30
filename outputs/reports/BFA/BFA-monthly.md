@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: BFA
-ledger_rows: 53
-not_held: 7
-record: 89e1efa5bfbe
+ledger_rows: 58
+not_held: 6
+record: 510977bcc161
 ---
 
 # News, Sep – Oct 2026
@@ -44,6 +44,8 @@ record: 89e1efa5bfbe
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -78,6 +80,20 @@ Burkina Faso's Council of Ministers, meeting in Bobo-Dioulasso on 10 September 2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Enforcement decrees under the 2021 law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso : le droit des données personnelles change de visage](https://jupiterinfo.bj/2026/10/04/burkina-faso-protection-donnees-personnelles-arcod/)** — Jupiter Info, 4 October 2026
+
+Laws 037-2026/ALP and 038-2026/ALP: ARCOD created, 2021 law repealed, DPIA and DPO duties, six months to comply.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -96,7 +112,57 @@ Burkina Faso's data protection authority, the CIL, publishes the form for applyi
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Data protection commission</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burkina Faso : le droit des données personnelles change de visage](https://jupiterinfo.bj/2026/10/04/burkina-faso-protection-donnees-personnelles-arcod/)** — Jupiter Info, 4 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection law of 2021</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burkina Faso : le droit des données personnelles change de visage](https://jupiterinfo.bj/2026/10/04/burkina-faso-protection-donnees-personnelles-arcod/)** — Jupiter Info, 4 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection law of 2026</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burkina Faso : le droit des données personnelles change de visage](https://jupiterinfo.bj/2026/10/04/burkina-faso-protection-donnees-personnelles-arcod/)** — Jupiter Info, 4 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Merged communication and data-protection authority</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burkina Faso : le droit des données personnelles change de visage](https://jupiterinfo.bj/2026/10/04/burkina-faso-protection-donnees-personnelles-arcod/)** — Jupiter Info, 4 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -171,6 +237,22 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 **[ISO - ABNORM - Agence Burkinabé de Normalisation, de Métrologie et de la Qualité](https://www.iso.org/member/269997.html)** — International Organization for Standardization, 16 October 2026
 
 ISO lists ABNORM as Burkina Faso's member body and sole national standards developer. It participates in 9 ISO technical committees and observes 5.
+
+</div>
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Broadcasting regulator</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burkina Faso : le droit des données personnelles change de visage](https://jupiterinfo.bj/2026/10/04/burkina-faso-protection-donnees-personnelles-arcod/)** — Jupiter Info, 4 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
