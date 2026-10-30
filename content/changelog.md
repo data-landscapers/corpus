@@ -1,5 +1,6 @@
 ## 30 October 2026
 
+- Cybercrime law's top stage is now regular use of the law, judged country by country, and a police count that names no law no longer shows the law used. Egypt, Kenya, Mali, Nigeria, South Africa and Tunisia rise to stage 5; Benin, Burkina Faso, Morocco and Mauritius drop to 3.
 - National cyber response's top stage now asks for evidence that the national body dealt with incidents in the past year, not a count of complaints or detections. Benin, Côte d'Ivoire, Cameroon, Mozambique, Mauritius, Namibia and Togo drop from stage 5; five countries stay.
 - The finance reports' topic-by-year tables now state their unit, USDm, in the corner cell. The figures are unchanged.
 - 2027 budgets now enter the tables as each country's draft is tabled, starting with DR Congo's finance bill of September 2026: 182 lines, CDF 556.5bn whole and 103.8bn partly digital, led by population identification (90.7bn) and the census (45.4bn). The figures are the bill's and give way to the enacted law when it is published.

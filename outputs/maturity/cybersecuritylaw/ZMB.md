@@ -8,4 +8,4 @@
 
 ***Also on file***. [Zambia Cyber Security Agency](<https://eastafricanpolicyobserver.org/commentary/new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia-ictworks/>).
 
-***Not found***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is known.
+***Not found***. No source found shows the law in regular use in the last two years.

@@ -11,9 +11,10 @@ r"""study-ladder-cybersecuritylaw.py — the cybersecurity law study's four ques
 1. **A bill or a law**: a `standing` of `bill` or `in-force`.
 2. **In force**: a `standing` of `in-force`, however old; its year is printed. A later
    `bill` does not undo it: a bill beside a law in force is a revision.
-3. **Used in the last three years**: a `use` of `used` or `reported` dated inside them.
-4. **Yearly figures**: a `use` of `reported` for a period ending inside two years of the
-   as-at and not after it.
+3. **Used in the last three years**: a `use` of `used` or `regular` dated inside them. A count
+   that does not name the law is `unnamed` and stages nothing *(Bill, 2026-10-30)*.
+4. **Regular use**: a `use` of `regular` dated inside two years of the as-at and not after it,
+   set by corrections.csv on the stager's case-by-case reading *(Bill, 2026-10-30)*.
 
 Stage 1 is a `standing` of `none` dated inside three years with no bill or law on record.
 A fact dated after the as-at sets nothing. A year or a month stands for its last day.
@@ -37,8 +38,7 @@ import study_lib  # noqa: E402
 STUDY = "cybersecuritylaw"
 GAPS = {
     "5": "Nothing on the four questions.",
-    "4": "No count of cases investigated, prosecuted or decided under the law, for a period "
-         "ending in the last two years, is held.",
+    "4": "No source found shows the law in regular use in the last two years.",
     "3": "No arrest, charge, prosecution, conviction or penalty under the law in the last three "
          "years is held.",
     "2": "No source found says a cybercrime or cybersecurity law is in force.",
@@ -77,8 +77,8 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] in values
         and (since is None or d >= since)][:n]
     law, bill = pick("standing", ("in-force",)), pick("standing", ("bill",))
-    used = pick("use", ("used", "reported"), three)
-    reported = pick("use", ("reported",), two)
+    used = pick("use", ("used", "regular"), three)
+    reported = pick("use", ("regular",), two)
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
@@ -99,7 +99,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
                         "says the country has neither."}
     return {"stage": s, "sources": list(dict.fromkeys(src)), "gaps": GAPS[s],
             "standing": "in-force" if s in "345" else "bill" if s == "2" else "none",
-            "use": "reported" if s == "5" else "used" if s == "4" else ""}
+            "use": "regular" if s == "5" else "used" if s == "4" else ""}
 
 
 def main(argv=None) -> int:

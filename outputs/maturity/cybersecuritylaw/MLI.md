@@ -8,4 +8,4 @@
 
 ***Also on file***. [Pôle national de lutte contre la cybercriminalité](<https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac>), [ANSSI](<https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029>).
 
-***Not found***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.
+***Not found***. Nothing further is asked of this indicator.

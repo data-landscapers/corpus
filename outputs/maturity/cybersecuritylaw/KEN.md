@@ -8,4 +8,4 @@
 
 ***Also on file***. [National Computer and Cybercrimes Coordination Committee](<https://capitalfm.africa/kenya-moves-to-join-global-cybercrime-treaty-as-parliament-seeks-public-views/>); [National Cybersecurity Agency](<https://nation.africa/kenya/news/puzzle-over-ruto-cybersecurity-unit--5505608>).
 
-***Not found***. No count of cases under the law has been published for a period ending in the last two years.
+***Not found***. Nothing further is asked of this indicator.

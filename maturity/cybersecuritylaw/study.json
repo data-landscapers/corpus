@@ -62,9 +62,9 @@
         "A cybercrime or cybersecurity bill is drafted, before parliament or passed. No law is known to be in force.",
         "A cybercrime or cybersecurity law is in force, as an act of its own or as part of a penal or digital code. No use of it is on record in the past three years.",
         "The law has been used in the past three years: a dated arrest, charge, prosecution or conviction, or a penalty from the body it sets up. Who it was used against is not judged.",
-        "The law is used, and a count of cases investigated, prosecuted or decided under it is published for a period ending within the past two years."
+        "The law is in regular use: sources from the past two years show it used again and again, judged case by case. Two or three cases are not regular use."
       ],
-      "criteria_of": "4bedc12c836a"
+      "criteria_of": "e4261aae569b"
     }
   ],
   "classes": [
@@ -94,15 +94,17 @@
       "name": "Use of the law",
       "role": "coverage",
       "defer": [
+        "unnamed",
         "none"
       ],
       "prefer": [
-        "reported",
+        "regular",
         "used"
       ],
       "values": [
-        "reported",
+        "regular",
         "used",
+        "unnamed",
         "none"
       ]
     }

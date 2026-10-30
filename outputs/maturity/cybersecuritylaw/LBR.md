@@ -8,4 +8,4 @@
 
 ***Also on file***. The [Liberia National Cybersecurity Center (LNCC)](<https://frontpageafricaonline.com/liberia-senator-dopoh-backs-enforcement-of-cybercrimes-law-advances-recommendations-for-smooth-implementation/>) and the [Liberia Cybersecurity Emergency Response Team (LCERT)](<https://frontpageafricaonline.com/liberia-senator-dopoh-backs-enforcement-of-cybercrimes-law-advances-recommendations-for-smooth-implementation/>).
 
-***Not found***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.
+***Not found***. No source found shows the law in regular use in the last two years.

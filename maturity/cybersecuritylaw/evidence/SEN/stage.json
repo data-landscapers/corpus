@@ -8,10 +8,10 @@
       "use": "used",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-003;SEN-006;SEN-002",
-      "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
+      "stage_sources": "SEN-005;SEN-002",
+      "gaps": "No source found shows the law in regular use in the last two years.",
       "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
-      "as_at": "2026-10-28"
+      "as_at": "2026-10-30"
     }
   ]
 }

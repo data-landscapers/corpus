@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.
+***Not found***. No source found shows the law in regular use in the last two years.

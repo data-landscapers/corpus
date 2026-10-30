@@ -8,4 +8,4 @@
 
 ***Also on file***. [Code of Practice for Interactive Computer Service Platforms](<https://www.dataphyte.com/topic/technology/who-protects-nigerias-digital-citizens/>), issued by NITDA.
 
-***Not found***. The number of cases investigated, prosecuted or decided under the law in a period ending in the last two years.
+***Not found***. Nothing further is asked of this indicator.

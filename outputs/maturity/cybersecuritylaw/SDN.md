@@ -8,4 +8,4 @@
 
 ***Also on file***. [SudaPass](<https://sudapass.gov.sd/terms?lang=en>), the Sudanese digital identity run by the National Electronic Authentication Authority.
 
-***Not found***. The number of cases investigated, prosecuted or decided under the law in a period ending in the last two years.
+***Not found***. No source found shows the law in regular use in the last two years.

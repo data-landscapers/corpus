@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "4",
+      "stage": "5",
       "standing": "in-force",
-      "use": "used",
+      "use": "regular",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-004;EGY-003",
-      "gaps": "No published count of cases investigated, prosecuted or decided under the law has been found.",
-      "note": "Stage 4 on 2026-10-21: courts convicted a series of TikTok content creators under Article 25 of Law 175/2018 in November 2025. No count of cases is published, so not 5.",
-      "as_at": "2026-10-21"
+      "stage_sources": "EGY-004;EGY-008;EGY-005",
+      "gaps": "",
+      "note": "Regular use (Bill, 2026-10-30): a series of convictions under Law 175/2018 in November 2025 (EGY-004), beside other Economic Court trials under it that month (EGY-008, EGY-010).",
+      "as_at": "2026-10-30"
     }
   ]
 }

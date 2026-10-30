@@ -8,4 +8,4 @@
 
 ***Also on file***. [Malawi CERT (MCERT)](<https://malawilii.org/akn/mw/act/2016/33/eng@2017-12-31>), a unit under the Malawi Communications Regulatory Authority.
 
-***Not found***. No count of cases under the law has been published for a period ending in the last two years.
+***Not found***. No source found shows the law in regular use in the last two years.

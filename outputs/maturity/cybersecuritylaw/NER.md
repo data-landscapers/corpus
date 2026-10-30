@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No count of cases under the law has been published for a period ending in the last two years.
+***Not found***. No source found shows the law in regular use in the last two years.

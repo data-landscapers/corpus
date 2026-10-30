@@ -30,10 +30,12 @@ Asked in order. Each is answered with a date and a link.
 |---|---|---|
 | 1 | Is there a cybercrime or cybersecurity bill or law? | A bill drafted, before parliament or passed, or a law |
 | 2 | Is the law in force? | A law promulgated and in force, standing alone or as part of a larger code. A bill is not a yes |
-| 3 | Has the law been used in the last three years? | A dated arrest, charge, prosecution or conviction under it, or a penalty or order imposed under it by the body it sets up |
-| 4 | Are yearly figures published? | A published count of cases investigated, prosecuted or decided under the law, for a period of a quarter or more ending within the last two years |
+| 3 | Has the law been used in the last three years? | A dated arrest, charge, prosecution or conviction under it, or a penalty or order imposed under it by the body it sets up. The source must name the law or an offence only it creates |
+| 4 | Is the law in regular use? | Sources from the last two years showing it used again and again: a count of cases under it, a run of cases, or a source stating repeated use. Judged case by case; two or three cases are not regular use |
 
 **A private criminal complaint is not use of the law** *(Bill, 2026-10-27)*: question 3 needs the state to act, by arrest, charge, prosecution, conviction or penalty. Equatorial Guinea's complaint leaves it at 3.
+
+**A count that does not name the law is not use of it** *(Bill, 2026-10-30)*: a police or cybercrime-unit tally of complaints, cases or arrests is valued `unnamed` and stages nothing. **Stage 5 is regular use, not published figures** *(Bill, 2026-10-30)*: no number of cases is set, and the stager judges each country from all its rows.
 
 ## 3. The ladders
 
@@ -45,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a bill, and no law in force |
 | 3 Establishing | Yes to 1 and 2: a law in force |
 | 4 Operating | Yes to 1, 2 and 3: the law has been used |
-| 5 Leading | Yes to all four: the law is used and the figures are published |
+| 5 Leading | Yes to all four: the law is in regular use |
 
 - **A yes to a later question answers the earlier ones**: a conviction under the law shows it is in force.
 - **Questions 1 and 2 have no time limit**; a law stands, with its year, until a dated source says it is repealed or struck down.
@@ -54,7 +56,7 @@ Asked in order. Each is answered with a date and a link.
 - **Ratifying the Budapest or the Malabo Convention is noted and does not change the stage**, as on the data protection law row.
 - **Incidents handled by a response team are not a use of the law**: they belong to the cybersecurity readiness row.
 
-`study.json` holds this as two aspects: `standing` (`in-force`, `bill`, `none`) for questions 1 and 2, and `use` (`reported`, `used`, `none`) for 3 and 4.
+`study.json` holds this as two aspects: `standing` (`in-force`, `bill`, `none`) for questions 1 and 2, and `use` (`regular`, `used`, `unnamed`, `none`) for 3 and 4.
 
 ## 4. The norm
 

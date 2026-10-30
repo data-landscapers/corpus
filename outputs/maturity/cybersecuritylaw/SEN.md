@@ -8,4 +8,4 @@
 
 ***Also on file***. [National Cybersecurity Authority (proposed)](<https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/>); [National CERT and sector CERTs (proposed)](<https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/>); [Cybersecurity National Centre](<https://www.mondaq.com/data-protection/693598/data-security-and-cybercrime-in-senegal>).
 
-***Not found***. No count of cases under the law has been published for a period ending in the last two years.
+***Not found***. No source found shows the law in regular use in the last two years.

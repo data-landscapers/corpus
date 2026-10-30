@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "4",
+      "stage": "5",
       "standing": "in-force",
-      "use": "used",
+      "use": "regular",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-005;NGA-011;NGA-013",
-      "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
-      "note": "Reassessed 2026-10-27: the DSS prosecution of Sowore in 2026 and the December 2024 arrest and charge of Olamide Thomas are dated uses of the Act. No count of cases is published, so not 5.",
-      "as_at": "2026-10-27"
+      "stage_sources": "NGA-007;NGA-005;NGA-013",
+      "gaps": "",
+      "note": "Regular use (Bill, 2026-10-30): SERAP says section 24 is used continually to arrest and charge journalists, bloggers, activists and citizens (NGA-007); named cases in 2024 and 2026 (NGA-002, NGA-005).",
+      "as_at": "2026-10-30"
     }
   ]
 }

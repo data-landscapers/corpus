@@ -8,4 +8,4 @@
 
 ***Also on file***. [Egypt National Cybersecurity Strategy 2023-2027](<https://mcit.gov.eg/en/Media_Center/Latest_News/News/97759>).
 
-***Not found***. No published count of cases investigated, prosecuted or decided under the law has been found.
+***Not found***. Nothing further is asked of this indicator.
