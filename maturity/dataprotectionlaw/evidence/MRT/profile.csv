@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,general,authority,qualifier,constituted,2026-06-30,MRT-001;MRT-003;MRT-007;MRT-009;MRT-014;MRT-016;MRT-017;MRT-020;MRT-024;MRT-029;MRT-032;MRT-037;MRT-038,MRT-036=provided,
-MRT,general,standing,coverage,in-force,2026-03-24,MRT-005;MRT-012;MRT-015;MRT-023;MRT-028;MRT-033,MRT-034=enacted;MRT-035=enacted,
-MRT,general,regulations,coverage,issued,2026-04-29,MRT-006;MRT-011;MRT-025;MRT-026;MRT-030,,
-MRT,general,application,coverage,activity,2026-06-30,MRT-002;MRT-004;MRT-008;MRT-010;MRT-013;MRT-018;MRT-019;MRT-021;MRT-022;MRT-027;MRT-031,,
+MRT,general,authority,qualifier,constituted,2026-06-30,MRT-001;MRT-003;MRT-007;MRT-009;MRT-014;MRT-016;MRT-017;MRT-020;MRT-024;MRT-029;MRT-032;MRT-037;MRT-038;MRT-040;MRT-042;MRT-045;MRT-047,MRT-036=provided,
+MRT,general,standing,coverage,in-force,2026-06-10,MRT-005;MRT-012;MRT-015;MRT-023;MRT-028;MRT-033;MRT-039;MRT-043;MRT-044;MRT-046,MRT-034=enacted;MRT-035=enacted,
+MRT,general,regulations,coverage,issued,2026-04-29,MRT-006;MRT-011;MRT-025;MRT-026;MRT-030;MRT-048,,
+MRT,general,application,coverage,activity,2026-06-30,MRT-002;MRT-004;MRT-008;MRT-010;MRT-013;MRT-018;MRT-019;MRT-021;MRT-022;MRT-027;MRT-031;MRT-041;MRT-049,,
 MRT,general,last12,qualifier,,,,,nothing found

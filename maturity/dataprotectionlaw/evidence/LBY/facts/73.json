@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-lby-informatics-legal-framework-information-governance-session",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The Informatics Governance Forum session record says a personal data protection law is being drafted in Libya under the National Authority for Information Security and Safety and is in its final stages.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Personal data protection law (draft)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

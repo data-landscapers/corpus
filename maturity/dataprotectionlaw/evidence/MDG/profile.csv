@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,general,authority,qualifier,constituted,2026-03-27,MDG-001;MDG-002;MDG-003;MDG-008;MDG-013;MDG-019,MDG-004=provided;MDG-006=provided;MDG-018=provided,
-MDG,general,standing,coverage,in-force,2025-10-17,MDG-007;MDG-012;MDG-020;MDG-022,MDG-021=announced;MDG-005=enacted;MDG-017=passed,
-MDG,general,regulations,coverage,issued,2023-12-06,MDG-014,MDG-009=none,
+MDG,general,authority,qualifier,constituted,2026-03-27,MDG-001;MDG-002;MDG-003;MDG-008;MDG-013;MDG-019,MDG-004=provided;MDG-026=provided;MDG-006=provided;MDG-018=provided,
+MDG,general,standing,coverage,in-force,2025-10-17,MDG-007;MDG-012;MDG-020;MDG-022;MDG-024,MDG-021=announced;MDG-005=enacted;MDG-017=passed,
+MDG,general,regulations,coverage,issued,2025-06-18,MDG-014;MDG-023;MDG-025,MDG-009=none,
 MDG,general,application,coverage,activity,2025-12-03,MDG-015,MDG-010=none,
 MDG,general,last12,qualifier,advancing,2025-12,MDG-011;MDG-016,,

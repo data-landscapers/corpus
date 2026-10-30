@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CAF,general,authority,qualifier,provided,2026-01-28,CAF-002;CAF-004,,
+CAF,general,authority,qualifier,provided,2026-01,CAF-002;CAF-004;CAF-008,,
 CAF,general,standing,coverage,in-force,2026-01-28,CAF-001,CAF-005=transition;CAF-003=enacted;CAF-006=enacted,
 CAF,general,regulations,coverage,none,2024-12-20,CAF-007,,
-CAF,general,application,coverage,,,,,nothing held
-CAF,general,last12,qualifier,,,,,nothing held
+CAF,general,application,coverage,,,,,nothing found
+CAF,general,last12,qualifier,,,,,nothing found

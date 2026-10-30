@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-02-mar-omar-seghrouchni-cndp-l-investissement-n-absout-pas-les-violations-des",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Médias24 interviews the CNDP president Omar Seghrouchni, who says the commission is strengthening its controls and refers non-compliant controllers to the competent prosecutor.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The CNDP president says the commission is strengthening controls and that disciplinary proceedings against TLS Contact Maroc, VFS GCC Morocco and BLSMOR Services are still in progress, with no decision stated.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDP (Commission nationale de contrôle de la protection des données à caractère personnel)",
+   "country_label": "Morocco",
+   "class": "authority",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

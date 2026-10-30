@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-25-som-somalia-s-data-protection-authority-launches-in-mogadishu",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "SONNA reports that the Data Protection Authority was officially opened in Mogadishu with a Director General in post.",
+   "as_of": "2024-02-25",
+   "date_precision": "day",
+   "system": "Data Protection Authority",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "No data protection law is named or its standing stated."
+}

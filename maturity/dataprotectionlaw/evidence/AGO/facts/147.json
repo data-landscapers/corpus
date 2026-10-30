@@ -1,0 +1,37 @@
+{
+ "slug": "2026-07-29-ago-agencia-de-proteccao-de-dados-ja-aplicou-multas-de-2-5-milhoes-usd-des",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Expansao says the Personal Data Protection Law has been in force in Angola since 2011.",
+   "as_of": "2011",
+   "date_precision": "year",
+   "system": "Lei de Proteccao de Dados Pessoais",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Agencia de Proteccao de Dados has operated since October 2019 and fines companies under the data protection rules.",
+   "as_of": "2019-10",
+   "date_precision": "month",
+   "system": "Agencia de Proteccao de Dados (APD)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The authority fined Empresa Publica de Aguas de Luanda the equivalent of USD 150,000 on 14 July 2026 for breaching data protection duties.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Lei de Proteccao de Dados Pessoais",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

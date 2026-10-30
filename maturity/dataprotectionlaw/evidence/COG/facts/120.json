@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-29-cog-loi-5-2025-creation-commission-nationale-protection-donnees",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "Law no. 5-2025 of 29 March 2025 creates the CNPD as an independent administrative authority of 16 members on five-year terms, whose members are yet to be appointed by decree, and the law says it can sanction controllers under the data protection law.",
+   "as_of": "2025-03-29",
+   "date_precision": "day",
+   "system": "CNPD",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission nationale pour la protection des données à caractère personnel (CNPD)",
+   "country_label": "CNPD",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Congo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

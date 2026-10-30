@@ -1,0 +1,47 @@
+{
+ "slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ACTPOL says Morocco's Law 09-08 of 2009 is enforced by the CNDP.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Law 09-08",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "ACTPOL says the CNDP is a seven-member body appointed by the King and enforcing Law 09-08.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "ACTPOL says the CNDP decided in December 2020 to allow facial recognition only case by case after prior authorisation.",
+   "as_of": "2020-12-30",
+   "date_precision": "day",
+   "system": "CNDP deliberation D-195-EUS/2020",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "no-change",
+   "fact": "ACTPOL says the CNDP planned to send the government a draft replacement for Law 09-08 in October 2022 and no definitive text had been adopted by April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Law 09-08",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

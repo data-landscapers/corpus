@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-04-sdn-akhbar-alsudan-data-protection-law-legislative-vacuum",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "The analyst Al-Sadiq Mohamed Ahmed writes that Sudan lacks an independent, comprehensive law on personal data protection, and calls for one to be drafted and adopted.",
+   "as_of": "2026-07-04",
+   "date_precision": "day",
+   "system": "personal data protection law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "The analyst writes that Sudan has no independent national commission to monitor compliance with data protection.",
+   "as_of": "2026-07-04",
+   "date_precision": "day",
+   "system": "data protection commission",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

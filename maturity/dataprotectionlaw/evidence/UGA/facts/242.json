@@ -1,0 +1,46 @@
+{
+ "slug": "2025-07-21-uga-ugandan-regulator-finds-google-in-breach-of-country-s-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIPESA reports that the Personal Data Protection Office applied Uganda's Data Protection and Privacy Act in a decision of 18 July 2025.",
+   "as_of": "2025-07-18",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "CIPESA reports that the Personal Data Protection Office decided a complaint under the Act on 18 July 2025.",
+   "as_of": "2025-07-18",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "CIPESA reports that on 18 July 2025 the Personal Data Protection Office found Google LLC in breach of the Act and ordered it to register within 30 days.",
+   "as_of": "2025-07-18",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection and Privacy Act",
+   "country_label": "Uganda",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

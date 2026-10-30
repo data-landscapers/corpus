@@ -1,0 +1,44 @@
+{
+ "slug": "2025-11-07-mar-la-cndp-consolide-sa-capacite-a-suivre-les-publications-inadequates-de",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CNDP said it is monitoring the dark web for inadequate publication of personal data.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CNDP said it will apply the measures provided by law 09-08, notably for processing not notified to it.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Law 09-08",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law 09-08",
+   "country_label": "Morocco",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CNDP",
+   "country_label": "Morocco",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "2026-09-25-nga-nigerias-data-protection-law-at-three-many-regulators-few-remedies",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ACTPOL says the Nigeria Data Protection Act, 2023 took effect on 12 June 2023.",
+   "as_of": "2023-06-12",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "ACTPOL says the Nigeria Data Protection Act, 2023 created an independent Nigeria Data Protection Commission, which it describes as an active regulator running registration, audit and investigations.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "ACTPOL says the Commission issued its General Application and Implementation Directive on 20 March 2025, in force since 19 September 2025.",
+   "as_of": "2025-09-19",
+   "date_precision": "day",
+   "system": "General Application and Implementation Directive",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "ACTPOL reports the Nigeria Data Protection Commission was reported to have fined MultiChoice Nigeria N766,242,500 in July 2025, in part for unlawful cross-border transfers.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "ACTPOL says the Commission was reported to have fined Fidelity Bank N555.8 million in August 2024, a finding the bank disputed.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

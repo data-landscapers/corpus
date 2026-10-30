@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,general,authority,qualifier,constituted,2026-10-20,GHA-002;GHA-006;GHA-010;GHA-013;GHA-017;GHA-019;GHA-034;GHA-037;GHA-047;GHA-049,GHA-029=provided,
+GHA,general,authority,qualifier,constituted,2026-10-20,GHA-002;GHA-006;GHA-010;GHA-013;GHA-017;GHA-019;GHA-034;GHA-037;GHA-047;GHA-049;GHA-055,GHA-029=provided,
 GHA,general,standing,coverage,in-force,2026-10-20,GHA-001;GHA-005;GHA-009;GHA-012;GHA-016;GHA-022;GHA-026;GHA-027;GHA-030;GHA-032;GHA-035;GHA-038;GHA-040;GHA-041;GHA-042;GHA-043;GHA-045;GHA-046;GHA-050;GHA-052;GHA-054,GHA-023=drafting,
-GHA,general,regulations,coverage,,,,,nothing held
+GHA,general,regulations,coverage,,,,,nothing found
 GHA,general,application,coverage,applied,2026-10-14,GHA-028;GHA-039,GHA-044=activity;GHA-048=activity;GHA-031=activity;GHA-033=activity;GHA-036=activity;GHA-053=activity;GHA-003=activity;GHA-007=activity;GHA-020=activity;GHA-014=activity;GHA-024=activity;GHA-051=activity,
 GHA,general,last12,qualifier,advancing,2026-10-05,GHA-004;GHA-008;GHA-011;GHA-015;GHA-018;GHA-021;GHA-025,,

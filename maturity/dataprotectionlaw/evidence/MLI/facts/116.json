@@ -1,0 +1,37 @@
+{
+ "slug": "2025-06-13-mli-mali-l-apdp-menace-la-saisine-de-100-entreprises-pour-non-conformite",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Croissance Afrique reports that the APDP served formal notices for non-compliance with Law No. 2013-015 on personal data protection, which is therefore being applied.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Law No. 2013-015",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APDP held its first extraordinary session in March 2025 and pronounced sanctions, according to Croissance Afrique.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "APDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "At its March 2025 session the APDP served formal notices on 100 named structures, including schools, hotels, firms and an NGO, for failing to make declarations, threatening fines of 5 to 20 million FCFA.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "APDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

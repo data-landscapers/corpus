@@ -1,0 +1,37 @@
+{
+ "slug": "2024-02-28-mdg-premiere-reunion-du-comite-d-operationnalisation-de-la-cmil",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "PREA states that law no. 2014-038 of 9 January 2015 on personal data protection already provides for the CMIL, and that decree 2023-1541 of 6 December 2023 sets its organisation.",
+   "as_of": "2023-12-06",
+   "date_precision": "day",
+   "system": "loi n 2014-038",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "Decree no. 2023-1541 of 6 December 2023 sets the powers, organisation and functioning of the CMIL and the processing of personal data.",
+   "as_of": "2023-12-06",
+   "date_precision": "day",
+   "system": "decret n 2023-1541",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "PREA says it is high time to make the CMIL operational, and on 28 February 2024 held the first meeting of a committee created to do so.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "CMIL",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-15-cmr-gouvernance-des-donnees-en-afrique-centrale-le-cameroun-sans-apdp-oper",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "OBS-CC says Law No. 2024/017 of 23 December 2024 on personal data protection gave organisations 18 months from promulgation to comply, a deadline reached on 23 June 2026.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Law No. 2024/017 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "OBS-CC says article 53 of the law creates the APDP but the decree installing it and designating its members had not been published by 14 September 2026.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Autorite de protection des donnees a caractere personnel (APDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "none",
+   "fact": "OBS-CC says no implementing decree on data protection or the authority appeared among over 600 acts on the presidency's website on 14 September 2026.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Law No. 2024/017 on personal data protection",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

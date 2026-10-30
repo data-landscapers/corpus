@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-01-mus-designation-and-certification-of-data-protection-officers-dpos",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Office is acting as the body under the Data Protection Act, issuing guidance notes and running a DPO certification programme and the e-DPO Portal.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Data Protection Office",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Data Protection Office published guidance notes on the designation and certification of data protection officers, and says certification training and a registration communique will follow before the DPO Regulations 2026 come into force on 1 January 2027.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026",
+   "country_label": "Mauritius",
+   "class": "regulation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

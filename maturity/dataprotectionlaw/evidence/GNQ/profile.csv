@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNQ,general,authority,qualifier,provided,2016-07-22,GNQ-002,,nothing dated since 2023-10-24
-GNQ,general,standing,coverage,in-force,2016-07-22,GNQ-001,,nothing dated since 2023-10-24
-GNQ,general,regulations,coverage,,,,,nothing held
-GNQ,general,application,coverage,,,,,nothing held
-GNQ,general,last12,qualifier,,,,,nothing held
+GNQ,general,authority,qualifier,provided,2022,GNQ-002;GNQ-003,,nothing dated since 2023-10-28
+GNQ,general,standing,coverage,in-force,2016-07-22,GNQ-001,,nothing dated since 2023-10-28
+GNQ,general,regulations,coverage,,,,,nothing found
+GNQ,general,application,coverage,,,,,nothing found
+GNQ,general,last12,qualifier,,,,,nothing found

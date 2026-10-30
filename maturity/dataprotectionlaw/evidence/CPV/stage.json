@@ -1,6 +1,20 @@
 {
   "iso3": "CPV",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "", "application": "activity", "last12": "", "cap": "", "flags": "", "stage_sources": "CPV-001;CPV-003;CPV-009;CPV-005", "gaps": "No regulation under the law is recorded either way, and no dated decision, sanction or published count under it (CPV-007 says no activity report has been published since 2016). Nothing dated in the twelve months to 2026-09-30 sets last12; CPV-010 (provided, 2024) is older than the constituted facts and yields to them.", "note": "The law is in force (Law 133/V/2001, amended 2013 and 2021), but application is only CNPD cases received with no decision named or counted (CPV-005, activity), so stage 4 is not reached. CPV-007 reads as absence of published counts, not absence of activity, so activity stands."}
+    {
+      "sub_indicator": "general",
+      "stage": "4",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "",
+      "application": "reported",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001;CPV-003;CPV-016;CPV-002",
+      "gaps": "No regulation under the law is recorded either way. The only count is for 2023 (CPV-016), which ends more than two years before the as-at, and no sanction on a named controller is held. Nothing dated in the twelve months sets last12.",
+      "note": "The law is in force and the CNPD's 2023 report counts 297 decisions on 326 requests (CPV-016), a reported count dated within three years, so stage 4, as SEN-001's counts of authorisations granted are read. Not 5: no regulation is held and the count's year ended before October 2024.",
+      "as_at": "2026-10-30"
+    }
   ]
 }

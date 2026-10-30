@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-zwe-it-must-create-jobs-improve-services-minister",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Minister Mavetera said trust requires compliance with the Cyber and Data Protection Act, treating it as a law operating now.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act",
+   "country_label": "Zimbabwe",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

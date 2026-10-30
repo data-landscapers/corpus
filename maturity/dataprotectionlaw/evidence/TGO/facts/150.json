@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-tgo-journee-nationale-de-la-protection-des-donnees-personnelles-le-togo-mi",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Togo's data-protection authority, the IPDCP, headed by its president Colonel BELEI Bedaini, was acting on 29 October 2026, holding the first national data-protection day and training a first cohort of correspondents.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Instance de protection des donnees a caractere personnel (IPDCP)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

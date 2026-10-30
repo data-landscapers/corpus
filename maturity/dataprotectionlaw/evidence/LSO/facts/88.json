@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-27-lso-exploring-the-data-protection-and-data-governance-challenges-and-oppor",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says Lesotho enacted the Data Protection Act in 2011 and that it remains the cornerstone of the data protection framework.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Data Protection Act 2011",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The article says the 2011 Act mandated a Data Protection Commission that has not been established, so the Act cannot be effectively enforced.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 2011",
+   "country_label": "Lesotho",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

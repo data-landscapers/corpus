@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,general,authority,qualifier,,,,,nothing held
-SDN,general,standing,coverage,drafting,2026-08-06,SDN-002,SDN-001=announced,
-SDN,general,regulations,coverage,,,,,nothing held
-SDN,general,application,coverage,,,,,nothing held
-SDN,general,last12,qualifier,,,,,nothing held
+SDN,general,authority,qualifier,none,2026-07-04,SDN-004,,
+SDN,general,standing,coverage,drafting,2026-08-06,SDN-002,SDN-001=announced;SDN-003=none,
+SDN,general,regulations,coverage,,,,,nothing found
+SDN,general,application,coverage,,,,,nothing found
+SDN,general,last12,qualifier,,,,,nothing found

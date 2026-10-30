@@ -1,0 +1,54 @@
+{
+ "slug": "2025-08-06-mli-ouverture-des-travaux-de-la-deuxieme-session-ordinaire-de-2025-de-lapd",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APDP opened its second ordinary session of 2025 on 4 August 2025.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The APDP convened under Article 39 of law 2013-015 of 21 May 2013, as amended.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "Law 2013-015",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The APDP's session of 4 August 2025 had over 1,000 requests and procedures on its agenda, including prior formalities and draft regulatory texts, with no decision stated.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "Law 2013-015",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law 2013-015",
+   "country_label": "Mali",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "APDP",
+   "country_label": "Mali",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

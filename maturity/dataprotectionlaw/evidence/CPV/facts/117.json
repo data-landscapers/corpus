@@ -1,0 +1,54 @@
+{
+ "slug": "2026-04-24-cpv-cnpd-cabo-verde-um-percurso-de-onze-anos",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CNPD's members took office on 24 April 2015 and its president declared it installed on 10 December 2015.",
+   "as_of": "2015-12-10",
+   "date_precision": "day",
+   "system": "CNPD",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CNPD says the personal data protection legal regime was amended on 17 March 2021, adding breach notification and impact assessments.",
+   "as_of": "2021-03-17",
+   "date_precision": "day",
+   "system": "Data protection regime of Cabo Verde",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The CNPD says that from 2015 to 2025 it issued thousands of authorisations and hundreds of opinions and received hundreds of complaints.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "CNPD",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data protection regime of Cabo Verde",
+   "country_label": "Cabo Verde",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CNPD",
+   "country_label": "Cabo Verde",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

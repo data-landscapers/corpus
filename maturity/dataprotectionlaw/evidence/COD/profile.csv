@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,general,authority,qualifier,provided,2024-08-17,COD-010;COD-012;COD-014,COD-003=none;COD-007=none,
+COD,general,authority,qualifier,provided,2024-08,COD-010;COD-012;COD-014;COD-015,COD-003=none;COD-007=none,
 COD,general,standing,coverage,in-force,2026-03-17,COD-002;COD-006;COD-013,COD-001=enacted;COD-011=enacted,
-COD,general,regulations,coverage,,,,,nothing held
+COD,general,regulations,coverage,,,,,nothing found
 COD,general,application,coverage,activity,2026-03-17,COD-004;COD-008,,
 COD,general,last12,qualifier,advancing,2026-03-17,COD-005;COD-009,,

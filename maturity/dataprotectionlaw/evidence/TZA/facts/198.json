@@ -1,0 +1,37 @@
+{
+ "slug": "2026-08-01-tza-pdpc-tanzania-home",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Commission's site says public and private bodies must register under the Personal Data Protection Act, Chapter 44, enacted in 2022.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Personal Data Protection Act, Chapter 44",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Personal Data Protection Commission, led by a Director General, is acting under the Act.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Personal Data Protection Commission",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Commission reports 15,146 registered organisations and 445 complaints received in August 2026, and runs DPO training.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Personal Data Protection Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

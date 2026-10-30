@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-30-gab-protection-des-donnees-l-apdpvp-poursuit-ses-controles-a-libreville",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Gabonreview reports that the Autorite pour la protection des donnees personnelles et de la vie privee (APDPVP), with rapporteur Steeve Singault Ndinga leading, has been on field missions since May 2025.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Autorite pour la protection des donnees personnelles et de la vie privee (APDPVP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "Gabonreview reports that on 30 July 2025 the APDPVP inspected six Libreville firms, none of which held a declaration receipt, and that no sanction was reported, the firms having said they would regularise.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Autorite pour la protection des donnees personnelles et de la vie privee (APDPVP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite pour la protection des donnees personnelles et de la vie privee (APDPVP)",
+   "country_label": "Gabon",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

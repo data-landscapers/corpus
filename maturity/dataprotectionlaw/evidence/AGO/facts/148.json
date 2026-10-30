@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-17-ago-apd-ja-aplicou-mais-de-1-milhao-de-dolares-em-multas-este-ano",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "reported",
+   "fact": "PTI, citing the authority's map of infringement cases, says the authority imposed three fines totalling USD 250,000 in 2025 and five totalling USD 600,000 in 2024.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Agencia de Protecao de Dados (APD)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "PTI reports the authority fined Crescer Tech USD 505,000 in 2026 for failing to notify it and obtain authorisation for an international transfer of personal data.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Agencia de Protecao de Dados (APD)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

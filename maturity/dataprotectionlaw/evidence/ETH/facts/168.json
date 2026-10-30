@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-07-eth-banking-on-data-regulatory-expectations-for-data-storage-protection-an",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The law firm Haymanot & Advocates describes Personal Data Protection Proclamation No. 1321/2024 as providing a comprehensive legal framework for collecting, processing, storing and transferring personal data, with which banks must comply.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Personal Data Protection Proclamation No. 1321/2024",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Proclamation No. 1321/2024",
+   "country_label": "Ethiopia",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

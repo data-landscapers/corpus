@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-10-mrt-apd-aned-data-localisation-nouakchott-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The head of the data protection authority presented the requirements of Law No. 2017-020 on personal data protection and said compliance with it had become necessary, per Ettayar.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "Law No. 2017-020 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The authority's head, Mohamed Lemine Ould Sidi, led a meeting with public bodies on compliance with the data protection law, per Ettayar.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APD)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The authority met the state digital agency and Mauritanian telecom company on compliance requirements and data localisation mechanisms, with no decision reported.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APD)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law No. 2017-020 on personal data protection",
+   "country_label": "Mauritania",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

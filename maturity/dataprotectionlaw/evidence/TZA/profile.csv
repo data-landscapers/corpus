@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,general,authority,qualifier,constituted,2026-10-07,TZA-002;TZA-006;TZA-010;TZA-014;TZA-018;TZA-023;TZA-025;TZA-030,TZA-029=provided,
-TZA,general,standing,coverage,in-force,2026-10-07,TZA-001;TZA-005;TZA-009;TZA-013;TZA-017;TZA-021;TZA-026;TZA-028;TZA-031;TZA-034;TZA-035;TZA-036;TZA-037;TZA-038,,
+TZA,general,authority,qualifier,constituted,2026-10-07,TZA-002;TZA-006;TZA-010;TZA-014;TZA-018;TZA-023;TZA-025;TZA-030;TZA-040;TZA-043,TZA-029=provided,
+TZA,general,standing,coverage,in-force,2026-10-07,TZA-001;TZA-005;TZA-009;TZA-013;TZA-017;TZA-021;TZA-026;TZA-028;TZA-031;TZA-034;TZA-035;TZA-036;TZA-037;TZA-038;TZA-039,TZA-042=transition,
 TZA,general,regulations,coverage,issued,2026-02-09,TZA-022;TZA-032,,
-TZA,general,application,coverage,applied,2025-08-19,TZA-033,TZA-003=activity;TZA-007=activity;TZA-011=activity;TZA-015=activity;TZA-019=activity;TZA-024=activity,
+TZA,general,application,coverage,applied,2025-08-19,TZA-033,TZA-003=activity;TZA-041=activity;TZA-007=activity;TZA-011=activity;TZA-015=activity;TZA-044=activity;TZA-019=activity;TZA-024=activity,
 TZA,general,last12,qualifier,advancing,2026-10-07,TZA-004;TZA-008;TZA-012;TZA-016;TZA-020;TZA-027,,

@@ -1,0 +1,47 @@
+{
+ "slug": "2026-01-28-zwe-zim-strengthens-personal-data-protection-potraz-licences-880-controlle",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Herald reports that POTRAZ has licensed 880 data controllers under the Cyber and Data Protection Act [Chapter 12:07], which it says was enacted in 2021.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The Herald reports that Statutory Instrument 155 of 2024 requires all entities processing personal data to register, obtain licences and appoint certified Data Protection Officers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Statutory Instrument 155 of 2024",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Herald reports that POTRAZ, under Director-General Dr Gift Machengete, is licensing data controllers under the Act.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Herald reports POTRAZ has licensed 880 data controllers and, with the Harare Institute of Technology, trained 1,026 Data Protection Officers, with no decision on a named controller.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

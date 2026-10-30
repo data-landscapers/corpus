@@ -1,0 +1,37 @@
+{
+ "slug": "2024-02-08-mli-mali-l-apdp-examine-le-programme-annuel-de-controle-de-l-institution",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Croissance Afrique reports that Mali's APDP held a board session from 5 February 2024 chaired by its president.",
+   "as_of": "2024-02-05",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The APDP president is quoted as saying the board's files show the complexity of the missions the law on personal data protection gives the authority.",
+   "as_of": "2024-02-05",
+   "date_precision": "day",
+   "system": "Law on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The APDP president said the session of 5 February 2024 had 147 files before it, including 115 declarations on video surveillance systems and 27 authorisation requests.",
+   "as_of": "2024-02-05",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

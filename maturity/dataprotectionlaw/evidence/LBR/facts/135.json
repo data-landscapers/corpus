@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-26-lbr-pul-accuses-boakai-gol-says-csa-pact-upends-foi-demands-nda-rescission",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The Press Union of Liberia president said Liberia lacks an enforced data protection and privacy law, though a draft law was validated in late 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Draft data protection law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "The Press Union of Liberia president said a national Data Authority has yet to be formally established.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Data Authority",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-28-gab-journee-mondiale-de-la-protection-des-donnees-le-gabon-affirme-sa-stra",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Gabonreview reports that the APDPVP, headed by president Joel Dominique Ledaga, gave its 2025 review in a speech of 27 January 2026.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "reported",
+   "fact": "Gabonreview reports the APDPVP president's 2025 tally of 12 administrative and pecuniary sanctions on non-compliant controllers, alongside 178 conformity declarations and 16 opinions on draft government texts.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP)",
+   "country_label": "Gabon",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

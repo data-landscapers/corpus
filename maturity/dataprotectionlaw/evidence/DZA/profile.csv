@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,general,authority,qualifier,constituted,2026,DZA-002;DZA-006;DZA-012;DZA-014;DZA-017;DZA-020;DZA-031;DZA-033,DZA-035=provided;DZA-028=provided,
-DZA,general,standing,coverage,in-force,2026-07,DZA-001;DZA-007;DZA-011;DZA-016;DZA-019;DZA-021;DZA-025;DZA-027;DZA-029;DZA-030;DZA-032;DZA-034;DZA-036,DZA-026=tabled,
+DZA,general,authority,qualifier,constituted,2026,DZA-002;DZA-006;DZA-012;DZA-014;DZA-017;DZA-020;DZA-031;DZA-033;DZA-038;DZA-040;DZA-043;DZA-046,DZA-035=provided;DZA-028=provided,
+DZA,general,standing,coverage,in-force,2026-07,DZA-001;DZA-007;DZA-011;DZA-016;DZA-019;DZA-021;DZA-025;DZA-027;DZA-029;DZA-030;DZA-032;DZA-034;DZA-036;DZA-037;DZA-041;DZA-044;DZA-047,DZA-026=tabled,
 DZA,general,regulations,coverage,issued,2026-07-15,DZA-003;DZA-008;DZA-022,,
-DZA,general,application,coverage,activity,2026,DZA-004;DZA-009;DZA-013;DZA-015;DZA-018;DZA-023,,
+DZA,general,application,coverage,activity,2026,DZA-004;DZA-009;DZA-013;DZA-015;DZA-018;DZA-023;DZA-039;DZA-042;DZA-045;DZA-048,,
 DZA,general,last12,qualifier,advancing,2026-07-15,DZA-005;DZA-010;DZA-024,,

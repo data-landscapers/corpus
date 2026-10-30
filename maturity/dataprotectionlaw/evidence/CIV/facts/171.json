@@ -1,0 +1,57 @@
+{
+ "slug": "2026-07-07-civ-cote-d-ivoire-ce-que-certinum-va-changer-pour-les-entreprises-et-les-a",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Agence Ecofin reports that the 2013 personal data protection law requires organisations processing data in Cote d'Ivoire to declare to ARTCI or obtain prior authorisation, with fines up to 10 million FCFA.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "loi sur la protection des donnees personnelles de 2013",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "ARTCI is reported as acting as the regulator, having received 210 complaints and made 18 inspections and keeping the national file of data protection correspondents.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "ARTCI",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "An order of August 2024 set the profile and conditions of employment of data protection correspondents, whose designation exempts organisations from some declaration formalities.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "arrete on data protection correspondents",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "ARTCI had imposed no financial penalty despite 210 complaints and 18 inspections, ten years after the law.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "ARTCI",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "On 2 July 2026 ARTCI launched Certinum, a platform for online authorisation requests, compliance certificates and video surveillance filings, first tried by ONECI and the Treasury.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Certinum",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

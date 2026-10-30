@@ -1,0 +1,27 @@
+{
+ "slug": "2024-02-23-bfa-technologies-de-l-information-la-cil-remet-son-rapport-d-activites-202",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CIL, headed by president Dr Halguieta Nassa/Trawina, reported its 2022 activities to the Head of State in February 2024.",
+   "as_of": "2024-02-23",
+   "date_precision": "day",
+   "system": "Commission de l'informatique et des libertes (CIL)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The CIL president reported that in 2022 about 15,000 people were trained, over 190 personal data projects were processed as formalities and about a hundred complaints were registered.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Commission de l'informatique et des libertes (CIL)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-29-cameroons-ai-data-centre-five-legal-questions-before-the-first-server-is-in",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CLG Global reports the compliance transition period under Law No. 2024/017 of 23 December 2024 on personal data protection closed on 23 June 2026, and says operators should assume its obligations apply now.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Law No. 2024/017",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "Law No. 2024/017 of 23 December 2024 creates the Autorité de protection des données à caractère personnel, a CLG Global analysis says, but its formal establishment depends on a presidential decree and it is not yet operational.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Autorité de protection des données à caractère personnel",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

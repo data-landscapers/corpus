@@ -1,0 +1,46 @@
+{
+ "slug": "2025-05-14-gab-mission-de-controle-des-traitements-de-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "APDPVP's press release acts under article 201 of law no. 025/2023 of 12 July 2023, which amends law no. 001/2011 on personal data protection, and refers to the regulations in force.",
+   "as_of": "2025-05-14",
+   "date_precision": "day",
+   "system": "Law no. 001/2011 as amended by law no. 025/2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "APDPVP states that its members and sworn agents are empowered to enter business premises, and that its plenary of permanent commissioners will decide on the measures after the inspections.",
+   "as_of": "2025-05-14",
+   "date_precision": "day",
+   "system": "APDPVP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "APDPVP states it carried out on-site inspections on 8 and 9 May 2025 at Airtel Gabon, Airtel Money, Royal Air Maroc and Air France, with a report to follow for a decision on possible sanctions; no decision is stated.",
+   "as_of": "2025-05-09",
+   "date_precision": "day",
+   "system": "APDPVP",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APDPVP",
+   "country_label": "Gabon",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

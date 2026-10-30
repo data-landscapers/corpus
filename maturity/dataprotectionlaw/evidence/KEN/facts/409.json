@@ -1,0 +1,74 @@
+{
+ "slug": "2025-01-27-ken-pre-conference-breakfast-meeting-with-journalists-in-eldoret-ahead-of",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Data Commissioner Immaculate Kassait said the ODPC was operationalised in 2020.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Kassait spoke of the Data Protection Act enacted in 2019 and its accompanying regulations as being implemented.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The ODPC said it audited controllers against the Data Protection Act, 2019 and its accompanying regulations.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The ODPC said it registered over 8,000 controllers, published eight sector guidance notes, ran 84 audits and inspections and issued 192 advisories.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "reported",
+   "fact": "The ODPC said it issued 195 determinations, 100 enforcement notices and 12 penalty notices and resolved 6,516 of 6,817 complaints, as a cumulative count since 2020.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2019",
+   "country_label": "Kenya",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ODPC",
+   "country_label": "Kenya",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

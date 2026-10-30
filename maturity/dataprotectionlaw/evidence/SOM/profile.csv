@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SOM,general,authority,qualifier,constituted,2026-06-02,SOM-001;SOM-011;SOM-014,SOM-018=provided,
-SOM,general,standing,coverage,in-force,2026,SOM-002;SOM-005;SOM-010;SOM-015;SOM-019,SOM-017=enacted,
+SOM,general,authority,qualifier,constituted,2026-06-02,SOM-001;SOM-011;SOM-014;SOM-020;SOM-021;SOM-022,SOM-018=provided,
+SOM,general,standing,coverage,in-force,2026,SOM-002;SOM-005;SOM-010;SOM-015;SOM-019,SOM-023=passed;SOM-017=enacted,
 SOM,general,regulations,coverage,issued,2026-02-06,SOM-006;SOM-008;SOM-012,,
-SOM,general,application,coverage,activity,2026-06-02,SOM-003;SOM-013;SOM-016,,
+SOM,general,application,coverage,activity,2026-06-02,SOM-003;SOM-013;SOM-016;SOM-024,,
 SOM,general,last12,qualifier,advancing,2026-06-02,SOM-004;SOM-007;SOM-009,,

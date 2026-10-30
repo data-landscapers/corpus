@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,general,authority,qualifier,constituted,2026-07-16,MWI-002;MWI-004;MWI-006;MWI-009;MWI-012;MWI-015,MWI-019=provided;MWI-022=provided;MWI-024=provided,
-MWI,general,standing,coverage,in-force,2026-07-16,MWI-001;MWI-007,MWI-016=transition;MWI-021=enacted;MWI-023=enacted;MWI-025=enacted,
-MWI,general,regulations,coverage,,,,,nothing held
-MWI,general,application,coverage,activity,2025-10-22,MWI-013;MWI-017,,
+MWI,general,authority,qualifier,constituted,2026-07-16,MWI-002;MWI-004;MWI-006;MWI-009;MWI-012;MWI-015;MWI-026;MWI-027;MWI-030;MWI-032,MWI-019=provided;MWI-022=provided;MWI-024=provided,
+MWI,general,standing,coverage,in-force,2026-07-16,MWI-001;MWI-007,MWI-016=transition;MWI-029=enacted;MWI-021=enacted;MWI-023=enacted;MWI-025=enacted,
+MWI,general,regulations,coverage,,,,,nothing found
+MWI,general,application,coverage,activity,2026-05-27,MWI-013;MWI-017;MWI-028;MWI-031,,
 MWI,general,last12,qualifier,advancing,2026-07-16,MWI-003;MWI-005;MWI-008;MWI-010;MWI-011;MWI-014;MWI-018;MWI-020,,

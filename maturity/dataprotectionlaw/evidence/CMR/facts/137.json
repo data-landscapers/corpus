@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ACTPOL says Cameroon's Law No. 2024/017 of 23 December 2024 gave organisations 18 months to comply, a period that ended on 23 June 2026.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Law No. 2024/017 of 23 December 2024",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "ACTPOL says the law declares the Personal Data Protection Authority an independent public body but leaves its creation to a presidential decree, and it found no decree creating it as of July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Personal Data Protection Authority",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

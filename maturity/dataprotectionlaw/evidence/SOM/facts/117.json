@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-20-som-somalia-moves-to-tighten-oversight-of-personal-data-handling",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Dawan Africa reports that Somalia's Data Protection Authority, established in 2023, is led by a director, Mohamed Noor Olow, who spoke for it on 20 May 2026.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Data Protection Authority",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "passed",
+   "fact": "Dawan Africa reports that parliament approved a data protection law in 2023, after which the Data Protection Authority was established; it does not say the law was promulgated or commenced.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Somalia data protection law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "Dawan Africa reports that the Data Protection Authority said on 20 May 2026 it had begun registering data controllers and processors, with six-monthly assessments and 72-hour breach reporting announced; no decision is stated.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Data Protection Authority",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Authority",
+   "country_label": "Somalia",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

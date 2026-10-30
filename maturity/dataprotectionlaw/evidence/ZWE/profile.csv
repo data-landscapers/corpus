@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,general,authority,qualifier,constituted,2026-10-23,ZWE-003;ZWE-008;ZWE-010;ZWE-013;ZWE-018;ZWE-022;ZWE-027;ZWE-031;ZWE-034;ZWE-037;ZWE-044;ZWE-047;ZWE-048;ZWE-050;ZWE-054,ZWE-039=provided,
-ZWE,general,standing,coverage,in-force,2026-10-15,ZWE-014;ZWE-019;ZWE-023;ZWE-028;ZWE-040;ZWE-041;ZWE-042;ZWE-043;ZWE-046;ZWE-049;ZWE-052;ZWE-055;ZWE-056,ZWE-057=enacted;ZWE-036=transition;ZWE-038=enacted;ZWE-053=enacted,
-ZWE,general,regulations,coverage,issued,2026-05-14,ZWE-004;ZWE-009;ZWE-011;ZWE-015;ZWE-020;ZWE-024;ZWE-029;ZWE-033;ZWE-035;ZWE-045,,
-ZWE,general,application,coverage,activity,2026-09-23,ZWE-001;ZWE-005;ZWE-007;ZWE-012;ZWE-016;ZWE-021;ZWE-025;ZWE-026;ZWE-030;ZWE-032;ZWE-051,,
-ZWE,general,last12,qualifier,advancing,2026-09-23,ZWE-002;ZWE-006;ZWE-017,,
+ZWE,general,authority,qualifier,constituted,2026-10-23,ZWE-003;ZWE-008;ZWE-010;ZWE-013;ZWE-018;ZWE-022;ZWE-027;ZWE-031;ZWE-034;ZWE-037;ZWE-044;ZWE-047;ZWE-048;ZWE-050;ZWE-054;ZWE-060;ZWE-062;ZWE-067;ZWE-075,ZWE-039=provided,
+ZWE,general,standing,coverage,in-force,2026-10-28,ZWE-014;ZWE-019;ZWE-023;ZWE-028;ZWE-040;ZWE-041;ZWE-042;ZWE-043;ZWE-046;ZWE-049;ZWE-052;ZWE-055;ZWE-056;ZWE-058;ZWE-063;ZWE-066;ZWE-072;ZWE-073,ZWE-057=enacted;ZWE-036=transition;ZWE-038=enacted;ZWE-053=enacted,
+ZWE,general,regulations,coverage,issued,2026-05-14,ZWE-004;ZWE-009;ZWE-011;ZWE-015;ZWE-020;ZWE-024;ZWE-029;ZWE-033;ZWE-035;ZWE-045;ZWE-059;ZWE-064;ZWE-068;ZWE-074,,
+ZWE,general,application,coverage,applied,2025-10,ZWE-069,ZWE-001=activity;ZWE-005=activity;ZWE-007=activity;ZWE-016=activity;ZWE-012=activity;ZWE-021=activity;ZWE-025=activity;ZWE-051=activity;ZWE-061=activity;ZWE-070=activity;ZWE-026=activity;ZWE-065=activity;ZWE-030=activity;ZWE-032=activity,
+ZWE,general,last12,qualifier,advancing,2026-09-23,ZWE-002;ZWE-006;ZWE-017,ZWE-071=no-change,

@@ -1,0 +1,47 @@
+{
+ "slug": "2024-09-12-uga-the-state-of-data-protection-in-uganda",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Personal Data Protection Office says Uganda's Data Protection and Privacy Act No. 9 of 2019 is being implemented and enforced, with organisations registered and monitored under it.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Data Protection and Privacy Act No. 9 of 2019",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Personal Data Protection Office, established by the Data Protection and Privacy Regulations 2021, is overseeing the Act and has been active for about three years.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Personal Data Protection Office",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The Data Protection and Privacy Regulations 2021 are stated to have established the Personal Data Protection Office.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Data Protection and Privacy Regulations 2021",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Office reports 3,623 data controllers and processors registered, more than 300 awareness sessions and sector guidelines for fintechs and MSMEs, with no decision stated.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Personal Data Protection Office",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-21-tgo-communique-de-presse-nomination-du-president-de-linstance-de-protectio",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The press release says decree 2024-047/PR of 30 September 2024 appointed Lt-Col Bediani Belei, as head of the IPDCP, the authority created by law no. 2019-014 of 29 October 2019, marking the start of its operationalisation.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Instance de Protection des Donnees a Caractere Personnel (IPDCP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The press release describes law no. 2019-014 of 29 October 2019 as the law in force in Togo whose compliance the IPDCP oversees.",
+   "as_of": "2024-10-21",
+   "date_precision": "day",
+   "system": "Law no. 2019-014 of 29 October 2019",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPDCP",
+   "country_label": "Togo",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

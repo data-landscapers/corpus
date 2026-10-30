@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-07-mli-diffusion-des-donnees-a-caractere-personnel-passible-d-une-amende-de-5",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "L'Essor reports that the APDP issued a communique dated 5 September 2024 reminding that spreading personal data online is punishable by a fine of FCFA 5 to 20 million.",
+   "as_of": "2024-09-05",
+   "date_precision": "day",
+   "system": "Autorite de protection des donnees a caractere personnel (APDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The APDP's 5 September 2024 communique, as reported by L'Essor, is a warning to online pages and web TVs about publishing health and judicial data, with no decision on any named controller.",
+   "as_of": "2024-09-05",
+   "date_precision": "day",
+   "system": "Autorite de protection des donnees a caractere personnel (APDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

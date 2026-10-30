@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TCD,general,authority,qualifier,provided,2026-07-06,TCD-004,,
+TCD,general,authority,qualifier,provided,2026-07-06,TCD-004;TCD-006,,
 TCD,general,standing,coverage,in-force,2026-07-06,TCD-003,TCD-005=drafting;TCD-001=drafting;TCD-002=drafting,
-TCD,general,regulations,coverage,,,,,nothing held
-TCD,general,application,coverage,,,,,nothing held
-TCD,general,last12,qualifier,,,,,nothing held
+TCD,general,regulations,coverage,,,,,nothing found
+TCD,general,application,coverage,,,,,nothing found
+TCD,general,last12,qualifier,,,,,nothing found

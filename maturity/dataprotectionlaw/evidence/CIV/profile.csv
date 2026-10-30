@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,general,authority,qualifier,constituted,2025-02-03,CIV-011,CIV-008=provided,
-CIV,general,standing,coverage,in-force,2026-05-18,CIV-003;CIV-009;CIV-010,,
-CIV,general,regulations,coverage,issued,2015-02-04,CIV-007,,nothing dated since 2023-10-24
-CIV,general,application,coverage,activity,2026-07-02,CIV-001;CIV-004;CIV-005,,
-CIV,general,last12,qualifier,advancing,2026,CIV-002;CIV-006,,
+CIV,general,authority,qualifier,constituted,2026,CIV-011;CIV-013;CIV-015;CIV-019,CIV-008=provided,
+CIV,general,standing,coverage,in-force,2026,CIV-003;CIV-009;CIV-010;CIV-012;CIV-016;CIV-018,,
+CIV,general,regulations,coverage,issued,2024-08,CIV-007;CIV-020,,
+CIV,general,application,coverage,activity,2026,CIV-001;CIV-004;CIV-005;CIV-014;CIV-017;CIV-021,,
+CIV,general,last12,qualifier,advancing,2026,CIV-002;CIV-006;CIV-022,,

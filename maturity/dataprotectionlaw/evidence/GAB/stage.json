@@ -1,8 +1,20 @@
 {
   "iso3": "GAB",
   "cells": [
-    {"sub_indicator": "general", "stage": "4", "authority": "constituted", "standing": "in-force", "regulations": "", "application": "applied", "last12": "", "cap": "", "flags": "", "stage_sources": "GAB-012;GAB-013;GAB-014",
-     "gaps": "No source states whether regulations under Loi n°025/2023 are issued or not. The only count of authority activity (GAB-002) gives no year or period, so it is activity, and no dated event in the twelve months to 2026-09-30 shows the law advancing or regressing.",
-     "note": "Standing is in-force and the Citibank sanction of 25 April 2024 (GAB-012) is a named, dated decision inside 36 months, so stage 4, with the authority constituted so no cap. Not stage 5: no published count for a stated year and no issued regulations."}
+    {
+      "sub_indicator": "general",
+      "stage": "4",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "",
+      "application": "reported",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-012;GAB-013;GAB-014;GAB-016",
+      "gaps": "No source states whether regulations under Loi n°025/2023 are issued or not. Nothing dated in the twelve months sets last12.",
+      "note": "Standing is in-force, the Citibank sanction (GAB-012) is applied and the president's 2025 review counts 12 sanctions for that year (GAB-016), which meets stage 5's application test. Not 5: no regulation under the law is held.",
+      "as_at": "2026-10-30"
+    }
   ]
 }

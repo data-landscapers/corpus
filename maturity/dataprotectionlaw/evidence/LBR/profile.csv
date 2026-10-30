@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,general,authority,qualifier,provided,2026-03-23,LBR-010,LBR-006=none;LBR-008=none,
-LBR,general,standing,coverage,in-force,2026-09-13,LBR-001,LBR-002=enacted;LBR-013=enacted;LBR-004=tabled;LBR-009=transition;LBR-012=announced;LBR-005=tabled;LBR-007=none,
+LBR,general,authority,qualifier,provided,2026-03-23,LBR-010,LBR-015=none;LBR-006=none;LBR-008=none,
+LBR,general,standing,coverage,in-force,2026-09-13,LBR-001,LBR-002=enacted;LBR-013=enacted;LBR-004=tabled;LBR-009=transition;LBR-012=announced;LBR-005=tabled;LBR-007=none;LBR-014=drafting,
 LBR,general,regulations,coverage,,,,,nothing found
 LBR,general,application,coverage,,,,,nothing found
 LBR,general,last12,qualifier,advancing,2026-08-19,LBR-003;LBR-011,,

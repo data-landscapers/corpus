@@ -1,0 +1,46 @@
+{
+ "slug": "2024-10-03-sen-mise-a-niveau-du-projet-de-loi-sur-la-protection-des-donnees-personnel",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Le Tech Observateur refers to Law No. 2008-12 of 25 January 2008 on data protection as adopted and the law the CDP set out in 2017 to revise.",
+   "as_of": "2008-01-25",
+   "date_precision": "day",
+   "system": "Law No. 2008-12",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "Le Tech Observateur says the updated data protection bill received a favourable Supreme Court opinion in 2022, with adoption by the Council of Ministers still pending in October 2024.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "updated personal data protection bill",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Le Tech Observateur reports the CDP driving the revision of the data protection law and organising the October 2024 workshop on the bill and its implementing decree.",
+   "as_of": "2024-10-03",
+   "date_precision": "day",
+   "system": "Commission de Protection des Données Personnelles (CDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law No. 2008-12",
+   "country_label": "Senegal",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

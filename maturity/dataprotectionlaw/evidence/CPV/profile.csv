@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CPV,general,authority,qualifier,constituted,2025-03-19,CPV-002;CPV-004;CPV-006;CPV-008;CPV-011,CPV-010=provided,
-CPV,general,standing,coverage,in-force,2025-04-07,CPV-001;CPV-003;CPV-009,,
-CPV,general,regulations,coverage,,,,,nothing held
-CPV,general,application,coverage,activity,2025-02-02,CPV-005,CPV-007=none,
-CPV,general,last12,qualifier,,,,,nothing held
+CPV,general,authority,qualifier,constituted,2025-03-19,CPV-002;CPV-004;CPV-006;CPV-008;CPV-011;CPV-012;CPV-015,CPV-010=provided,
+CPV,general,standing,coverage,in-force,2025-04-07,CPV-001;CPV-003;CPV-009;CPV-013,,
+CPV,general,regulations,coverage,,,,,nothing found
+CPV,general,application,coverage,reported,2023,CPV-016,CPV-007=none;CPV-014=activity;CPV-005=activity,
+CPV,general,last12,qualifier,,,,,nothing found

@@ -1,0 +1,67 @@
+{
+ "slug": "2025-01-01-zwe-zimbabwe-s-data-protection-regime",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Cyber and Data Protection Act, 2021 is Zimbabwe's comprehensive data protection law and the report describes the legal framework as intact and operational in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act, 2021",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "POTRAZ is designated as Data Protection Authority under section 5 of the Act and is operating, with a 14-person data protection unit.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The 2022 Cyber and Data Protection Regulations and the Licensing of Data Controllers and Appointment of Data Protection Officers Regulations, S.I. 155 of 2024, have been made under the Act.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Regulations",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "POTRAZ reports 20 formal complaints under the Act, 15 of them investigated and resolved, with no administrative fines available under the Act and no landmark enforcement case.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Cyber and Data Protection Act, 2021",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "POTRAZ conducted 20 proactive compliance audits in 2025, licensed 721 controllers and issued six implementation guidelines.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act, 2021",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "no-change",
+   "fact": "The report says no legislative amendments were made during the review period.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act, 2021",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,general,authority,qualifier,constituted,2026-10-22,AGO-003;AGO-008;AGO-011;AGO-016;AGO-020;AGO-024;AGO-030;AGO-034;AGO-037,AGO-018=provided;AGO-027=provided;AGO-022=provided;AGO-029=provided,
-AGO,general,standing,coverage,in-force,2026-08-10,AGO-002;AGO-004;AGO-007;AGO-009;AGO-013;AGO-015;AGO-023;AGO-028;AGO-033,AGO-010=drafting;AGO-014=tabled;AGO-021=passed,
-AGO,general,regulations,coverage,issued,2021-03-10,AGO-019;AGO-026,,nothing dated since 2023-10-26
-AGO,general,application,coverage,reported,2026,AGO-031,AGO-032=applied;AGO-001=applied;AGO-005=applied;AGO-035=activity;AGO-006=applied;AGO-017=applied,
+AGO,general,authority,qualifier,constituted,2026-10-22,AGO-003;AGO-008;AGO-011;AGO-016;AGO-020;AGO-024;AGO-030;AGO-034;AGO-037;AGO-039;AGO-043,AGO-018=provided;AGO-027=provided;AGO-022=provided;AGO-029=provided,
+AGO,general,standing,coverage,in-force,2026-08-10,AGO-002;AGO-004;AGO-007;AGO-009;AGO-013;AGO-015;AGO-023;AGO-028;AGO-033;AGO-038;AGO-044,AGO-010=drafting;AGO-014=tabled;AGO-021=passed,
+AGO,general,regulations,coverage,issued,2021-03-10,AGO-019;AGO-026,,nothing dated since 2023-10-28
+AGO,general,application,coverage,reported,2026,AGO-031;AGO-041,AGO-032=applied;AGO-042=applied;AGO-001=applied;AGO-040=applied;AGO-005=applied;AGO-035=activity;AGO-006=applied;AGO-045=applied;AGO-017=applied,
 AGO,general,last12,qualifier,advancing,2026-06-17,AGO-012;AGO-025,,

@@ -1,6 +1,6 @@
 # Data protection legislation: general law
 
-*As at 2026-09-30.*
+*As at 2026-10-30.*
 
 ## The norm
 
@@ -20,15 +20,27 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
-| 4 Operating | 10 |
-| 3 Established | 32 |
+| 5 Leading | 5 |
+| 4 Operating | 12 |
+| 3 Established | 29 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
 | No evidence | 0 |
 
 ## Countries
+
+### Angola: 5 Leading
+
+Angola's 2011 data protection law has regulations and its agency counts fines: three in 2025, six by August 2026; no source found dates the revision.
+
+*Under revision; Advancing.*
+
+- The APD's 19 July 2024 notice fines two organisations for violating the personal data protection rules of Law 22/11 of 17 June, showing the law in force ([source, 2024-07-19](https://www.rapdp.org/en/node/215)).
+- The APD's Board sanctioned a controller under the Lei de Protecção de Dados Pessoais by Deliberação n.º 006/2026 of 10 August 2026, applying the law's articles 30 and 31 ([source, 2026-08-10](https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b)).
+- Decreto Presidencial n.º 60/21 of 10 March 2021 approves the Regulamento das Taxas a Cobrar pela APD, made under the legislation on personal data protection, setting fees for registering files and authorising personal data processing, with 60% of receipts to the APD and 40% to the Treasury single account ([source, 2021-03-10](https://lex.ao/docs/presidente-da-republica/2021/decreto-presidencial-n-o-60-21-de-10-de-marco/)).
+- PTI, citing the authority's map of infringement cases, says the authority imposed three fines totalling USD 250,000 in 2025 and five totalling USD 600,000 in 2024 ([source, 2025](https://pti.ao/apd-ja-aplicou-mais-de-1-milhao-de-dolares-em-multas-este-ano/)).
+- The APD's Conselho de Administração took the sanction decision of 10 August 2026, so the authority was acting ([source, 2026-08-10](https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b)).
 
 ### Benin: 5 Leading
 
@@ -76,17 +88,6 @@ South Africa's Protection of Personal Information Act, 2013 has been in force si
 - The Information Regulator's annual report for the year ended 31 March 2025 states it is an independent body established under section 39 of POPIA, with a chairperson and members who held 4 ordinary and 40 special meetings in 2024/25 ([source, 2025-03-31](https://inforegulator.org.za/wp-content/uploads/2025/11/Information-Regulator-Annual-Report-2025-210mm-x-260mm-1.pdf)).
 - The Information Regulator reports that in 2024/25 it received 1355 POPIA complaints, up 30 percent on the year before, and that 745 of them were resolved ([source, 2025-03-31](https://inforegulator.org.za/wp-content/uploads/2025/11/Information-Regulator-Annual-Report-2025-210mm-x-260mm-1.pdf)).
 
-### Angola: 4 Operating
-
-Angola's 2011 data protection law is in force and its agency fined named companies in 2025 and 2026; no source found counts its decisions.
-
-*Under revision; Advancing.*
-
-- Angola's Agência de Protecção de Dados fined Lizíria, Lda. (owner of Hotel Diamante) the kwanza equivalent of USD 115,000 under Deliberação n.º 006/2026 of 10 August 2026 for breaching articles 30 and 31 of the Lei de Protecção de Dados Pessoais ([source, 2026-08-10](https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b)).
-- The APD's Board sanctioned a controller under the Lei de Protecção de Dados Pessoais by Deliberação n.º 006/2026 of 10 August 2026, applying the law's articles 30 and 31 ([source, 2026-08-10](https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b)).
-- The APD's Conselho de Administração took the sanction decision of 10 August 2026, so the authority was acting ([source, 2026-08-10](https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b)).
-- Decreto Presidencial n.º 60/21 of 10 March 2021 approves the Regulamento das Taxas a Cobrar pela APD, made under the legislation on personal data protection, setting fees for registering files and authorising personal data processing, with 60% of receipts to the APD and 40% to the Treasury single account ([source, 2021-03-10](https://lex.ao/docs/presidente-da-republica/2021/decreto-presidencial-n-o-60-21-de-10-de-marco/)).
-
 ### Botswana: 4 Operating
 
 Botswana's Data Protection Act 2024, in force since January 2025, was applied in July 2026; no source found says whether regulations exist under it.
@@ -97,6 +98,15 @@ Botswana's Data Protection Act 2024, in force since January 2025, was applied in
 - Mmegi reports in July 2026 that Botswana continues to implement the Data Protection Act No. 18 of 2024, under which the Commission monitors compliance and issues enforcement orders ([source, 2026-07-28](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news)).
 - In a public notice dated 17 July 2026 the Information and Data Protection Commission issued a Determination and an Enforcement Notice against DPSM for contraventions of the Data Protection Act No. 18 of 2024, ordering the ePayslip portal suspended and a DPIA and revised privacy notice submitted within one month, with an administrative fine possible for non-compliance ([source, 2026-07-17](https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/)).
 - Mmegi reports that the Information and Data Protection Commission issued a determination and enforcement order finding the DPSM E-Payslip portal not fully compliant with the Data Protection Act No. 18 of 2024, and DPSM suspended the portal on 22 July 2026 ([source, 2026-07-22](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news)).
+
+### Cape Verde: 4 Operating
+
+Cabo Verde's data protection law is in force and its commission decided 297 requests in 2023; no source found reports a sanction.
+
+- An opinion piece by Luis Carlos Silva urges Cabo Verde to revisit its existing Data Protection Law (2001/2021) and align it with AI challenges, treating the law as the current one; no date for the stated position beyond the document's published date of 2025-04-07 ([source, 2025-04-07](https://expressodasilhas.cv/opiniao/2025/04/07/revolucao-tecnologica/96431)).
+- CNPD president Faustino Varela says the base law dates from 2001, was amended in 2013 (which led to the CNPD's constitution) and in 2021 (data protection officer obligation), and the CNPD works from the general legal regime since 2015-2016; stated in an interview published 2025-02-02 ([source, 2025-02-02](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448)).
+- The CNPD president said the commission decided 297 processes out of 326 requests during 2023, and received seven complaint processes ([source, 2023](https://tiver.cv/cnpd-apresenta-relatorio-de-atividades-de-2023/)).
+- The CNPD, headed by president Faustino Varela, held an international conference on personal data protection in the AI era for its 10th anniversary, with the Prime Minister opening it ([source, 2025-03-19](https://expressodasilhas.cv/pais/2025/03/19/presidente-da-cnpd-defende-dialogo-entre-os-ecossistemas-de-governanca-de-dados-para-equilibrar-regulacao-da-ia/96153)).
 
 ### Eswatini: 4 Operating
 
@@ -109,11 +119,12 @@ Eswatini has a Data Protection Act of 2022, applied through enforcement notices 
 
 ### Gabon: 4 Operating
 
-Gabon has a 2011 data protection law, amended in 2023, and its authority fined a bank in 2024; no source found says regulations exist.
+Gabon's 2023 data protection law is in force and its authority imposed 12 sanctions in 2025; no source found reports regulations under it.
 
 - The APDPVP plenary, by deliberation n°073 of 25 April 2024 on a complaint of 27 November 2023, imposed a pecuniary sanction of 90,000,000 FCFA on Citibank Gabon S.A. for diverting employee data from its declared purpose and processing ethnic-origin data, with a two-month formal notice ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
 - The deliberation applies loi n°025/2023 of 12 July 2023, amending loi n°001/2011 on personal data protection, as law in force, citing its articles 43, 75, 203 and 204 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
 - The APDPVP sat in plenary on 25 April 2024 with a named president, vice-president and six other permanent commissioners, appointed by a Council of Ministers decision of 12 July 2023 and with a bureau elected on 6 September 2023 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
+- Gabonreview reports the APDPVP president's 2025 tally of 12 administrative and pecuniary sanctions on non-compliant controllers, alongside 178 conformity declarations and 16 opinions on draft government texts ([source, 2025](https://www.gabonreview.com/journee-mondiale-de-la-protection-des-donnees-le-gabon-affirme-sa-strategie-face-aux-defis-du-numerique/)).
 
 ### Ghana: 4 Operating
 
@@ -140,6 +151,18 @@ Kenya's 2019 Data Protection Act is in force and its commissioner has fined busi
 - Cadmus Cyber Solutions states that, as at September 2024, the ODPC had fined at least nine businesses a total of KES 26,275,000 under the Data Protection Act and Regulations, including Oppo Kenya (2022, KES 5m) and SBM Bank (2024, KES 450,000) ([source, 2024-09](https://www.cadmuscyber.com/public/insight/kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations)).
 - The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
 - TechTrends KE reports the Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, with inaugural commissioner Immaculate Kassait in office since 2020 and a Senior Deputy Data Commissioner serving; the Public Service Commission shortlisted 13 of 152 applicants to succeed her ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
+
+### Morocco: 4 Operating
+
+Morocco's 2009 data protection law is in force and courts decided 80 criminal data protection cases in 2024; no source found reports regulations under it.
+
+*Under revision; Advancing.*
+
+- WalawPress reports the CNDP communiqué of 2026-08-28 restating obligations under Law 09-08 'en vigueur', including prior notification (article 12) and explicit consent for political-opinion data (article 21) ([source, 2026-08](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
+- Maroc.ma/MAP reports the CNDP calling on parties to comply with Law 09-08 'dispositions légales en vigueur', citing articles 3, 10, 12, 15, 18, 21, 23, 25, 43 and 44 ([source, 2026-08-29](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere)).
+- The Supreme Council of the Judicial Power said courts handled 153 personal data cases in 2024, 109 of them in criminal courts with 80 decided ([source, 2024](https://madar21.com/315419.html)).
+- The Nador first instance court convicted a person in 2024 for placing a complainant's photo and name on a student group statement without consent ([source, 2024](https://madar21.com/315419.html)).
+- The CNDP issued a communiqué dated 2026-08-28 to political parties and voters on their duties under Law 09-08 for the 23 September 2026 legislative elections, and opened a 3020 information line ([source, 2026-08-28](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
 
 ### Nigeria: 4 Operating
 
@@ -193,6 +216,17 @@ Uganda's Data Protection and Privacy Act is in force and was applied in decision
 - The PDPO's decision of 20 February 2026 partly upheld a complaint against WhatsApp LLC and Meta Platforms, Inc. and ordered, within 90 days, a revised Uganda privacy policy, separation of core and ancillary processing with opt-in, a Regulation 30 adequacy assessment, an intra-group DPIA and a legitimate-interests assessment ([source, 2026-02-20](https://adlegalug.com/wp-content/uploads/2026/02/PDPO-Decision-in-Ad-legal-International-Ltd-v-WhatsApp-LLC-Meta-Platforms-Inc.pdf)).
 - The Personal Data Protection Office, established under the Data Protection and Privacy Act, is headed by director Baker Birikujja, who addressed an ISACA Kampala breakfast on 18 August 2026 ([source, 2026-08-18](https://www.monitor.co.ug/uganda/news/national/over-35-000-entities-unregistered-as-regulator-cracks-down-on-data-privacy-violations-5563326)).
 
+### Zimbabwe: 4 Operating
+
+Zimbabwe's 2021 data protection law has regulations and its regulator had resolved 15 complaints by October 2025; no source found gives a yearly count.
+
+*Advancing.*
+
+- Techzim describes the Act as the law under which POTRAZ will inspect data controllers from 1 September 2026 and under which a licence deadline of 12 March 2025 has already passed; dated by publication ([source, 2026-07-28](https://www.techzim.co.zw/2026/07/potraz-starts-data-protection-inspections-on-1-september-here-is-what-it-means-for-you/)).
+- Business Times states the Act currently provides criminal sanctions, fines up to Level 7 or imprisonment up to seven years for accountable officers; dated by publication ([source, 2026-05-14](https://businesstimes.co.zw/potraz-plots-crackdown-on-firms/)).
+- TechnoMag states the Act establishes the data protection framework and that licensing under it is mandatory and enforced by notice; dated by publication ([source, 2026-03-27](https://technomag.co.zw/potraz-issues-warning-to-unlicensed-data-controllers-as-compliance-deadline-lapses/)).
+- POTRAZ reports 20 formal complaints under the Act, 15 of them investigated and resolved, with no administrative fines available under the Act and no landmark enforcement case ([source, 2025-10](https://privacyscorecardreport.com/privacy-scorecard-report-2025/zimbabwe/zimbabwes-data-protection-regime/)).
+
 ### Algeria: 3 Established
 
 Algeria's 2018 data protection law has been in force since 2023 and its authority issues rules; no source found reports a sanction on a controller.
@@ -233,15 +267,6 @@ Cameroon's 2024 data protection law came into force in June 2026, with its autho
 
 - The Direction Generale du Budget (Ministry of Finance) states that the deadline set for the entry into force of Law No. 2024/017 of 23 December 2024 on personal data protection was reached on 23 June 2026, and that the law is now officially in force ([source, 2026-06-23](https://www.dgb.cm/la-loi-sur-la-protection-des-donnees-personnelles-entre-officiellement-en-vigueur/)).
 - The OBS-CC observatory states that law no. 2024/017 of 23 December 2024 opened an 18-month transition and that its obligations, including breach notification, have been enforceable since 23 June 2026 ([source, 2026-06-23](https://obs-cc.org/suivi-recommandations-fncc/)).
-
-### Cape Verde: 3 Established
-
-Cabo Verde's 2001 data protection law, amended in 2021, is in force and cases reach its authority; no source found says any was decided.
-
-- An opinion piece by Luis Carlos Silva urges Cabo Verde to revisit its existing Data Protection Law (2001/2021) and align it with AI challenges, treating the law as the current one; no date for the stated position beyond the document's published date of 2025-04-07 ([source, 2025-04-07](https://expressodasilhas.cv/opiniao/2025/04/07/revolucao-tecnologica/96431)).
-- CNPD president Faustino Varela says the base law dates from 2001, was amended in 2013 (which led to the CNPD's constitution) and in 2021 (data protection officer obligation), and the CNPD works from the general legal regime since 2015-2016; stated in an interview published 2025-02-02 ([source, 2025-02-02](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448)).
-- The IBA chapter states that Law 133/V/2001 is Cabo Verde's general data protection regime, applying within the country and to processing of data of people located in it; the document gives no event date, so the 2024 publication year is used ([source, 2024](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Cabo-Verde)).
-- The CNPD president says cases have arrived involving AI and Big Data, including two generative-AI image manipulation (deepfake) cases and a first image-manipulation case in 2021, with cases that may be criminal sent to the Ministério Público; no decision or count is given ([source, 2025-02-02](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448)).
 
 ### Central African Republic: 3 Established
 
@@ -396,20 +421,6 @@ Mauritania's 2017 data protection law is applied by its authority through opinio
 - The APD's deliberation 002/2026 of 24 March 2026 applies Loi n° 2017-020 of 22 July 2017, citing articles 7, 11, 27, 37 and 40 ([source, 2026-03-24](https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85002-2026-%d8%aa%d8%aa%d8%b6%d9%85%d9%86-%d8%b1%d8%a3%d9%8a%d8%a7-%d8%a8%d8%ae%d8%b5%d9%88%d8%b5-%d9%85%d9%82%d8%b1%d8%b1-%d9%85/)).
 - On 24 March 2026 the APD issued deliberation 002/2026, a favourable opinion conditional on its remarks, on the joint decision authorising Maaden Mauritanie's Maadeni system, limiting recipients and interconnection to the national population register and GIMTEL CONNECT ([source, 2026-03-24](https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85002-2026-%d8%aa%d8%aa%d8%b6%d9%85%d9%86-%d8%b1%d8%a3%d9%8a%d8%a7-%d8%a8%d8%ae%d8%b5%d9%88%d8%b5-%d9%85%d9%82%d8%b1%d8%b1-%d9%85/)).
 
-### Morocco: 3 Established
-
-Morocco's 2009 data protection law is in force and its authority issues guidance; no source found says whether any controller has been sanctioned.
-
-*Under revision; Advancing.*
-
-- WalawPress reports the CNDP communiqué of 2026-08-28 restating obligations under Law 09-08 'en vigueur', including prior notification (article 12) and explicit consent for political-opinion data (article 21) ([source, 2026-08](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
-- Maroc.ma/MAP reports the CNDP calling on parties to comply with Law 09-08 'dispositions légales en vigueur', citing articles 3, 10, 12, 15, 18, 21, 23, 25, 43 and 44 ([source, 2026-08-29](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere)).
-- CNDP president Omar Seghrouchni, interviewed 2026-08-04, speaks of Law 09-08 as in force for more than fifteen years and its paradigms as still applicable ([source, 2026-08-04](https://fnh.ma/article/actualite-economique/protection-donnes-confiance-moteur-economique-numerique)).
-- The CNDP's 2026-08-28 communiqué is guidance on Law 09-08 for the election campaign, with a 3020 line; the report states no sanction or decision ([source, 2026-08-28](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
-- The CNDP communiqué reported 2026-08-29 gives guidance and a public information line under Law 09-08; it states no sanction or decision ([source, 2026-08-29](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere)).
-- The CNDP president describes the Data-Tika programme with public and private controllers, prior notifications to the CNDP and a possible sanctions step; he gives no sanction, decision or count ([source, 2026-08-04](https://fnh.ma/article/actualite-economique/protection-donnes-confiance-moteur-economique-numerique)).
-- The CNDP published five deliberations dated 28 November 2025 setting model declaration and authorisation forms for cookies, newsletters, patient follow-up, healthcare video surveillance and workplace access control, with no decision on a named controller ([source, 2025-11-28](https://www.cndp.ma/la-cndp-publie-de-nouvelles-deliberations/)).
-
 ### Niger: 3 Established
 
 Niger's 2022 data protection law is in force, with compliance files and inspections in 2025; no source found reports a decision under it.
@@ -487,17 +498,6 @@ Zambia's Data Protection Act of 2021 is in force, applied so far through registr
 - Lusaka Star reports that Zambia's Data Protection Act has strengthened the legal framework for collecting and processing personal data, with enforcement and compliance still a challenge; the article gives no other date, so as_of is its published date ([source, 2026-06-07](https://lusakastar.com/news/data-protection-act-faces-enforcement-hurdles)).
 - Bloggers of Zambia reports a registration deadline of 30 April 2025 under the Data Protection Act for data controllers and processors, with the Commissioner's office operational; no decision or sanction is stated ([source, 2025-04-30](https://bloggersofzambia.org/6th-state-of-digital-rights-report/)).
 - UNDP lists training staff in over 145 offices across 10 provinces on the Data Protection Act as an operational requirement of the digital ID rollout; no date is given, so the published date of 2024-09-17 is used ([source, 2024-09-17](https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration)).
-
-### Zimbabwe: 3 Established
-
-Zimbabwe has the Cyber and Data Protection Act of 2021, applied through licensing and notices; no source found says whether any controller has been sanctioned.
-
-*Advancing.*
-
-- Techzim describes the Act as the law under which POTRAZ will inspect data controllers from 1 September 2026 and under which a licence deadline of 12 March 2025 has already passed; dated by publication ([source, 2026-07-28](https://www.techzim.co.zw/2026/07/potraz-starts-data-protection-inspections-on-1-september-here-is-what-it-means-for-you/)).
-- Business Times states the Act currently provides criminal sanctions, fines up to Level 7 or imprisonment up to seven years for accountable officers; dated by publication ([source, 2026-05-14](https://businesstimes.co.zw/potraz-plots-crackdown-on-firms/)).
-- TechnoMag states the Act establishes the data protection framework and that licensing under it is mandatory and enforced by notice; dated by publication ([source, 2026-03-27](https://technomag.co.zw/potraz-issues-warning-to-unlicensed-data-controllers-as-compliance-deadline-lapses/)).
-- Michalsons describes the Cyber and Data Protection Act, 2021 as Zimbabwe's main data protection law applying to all public and private organisations; dated by publication ([source, 2025-06-30](https://www.michalsons.com/blog/zimbabwes-cyber-and-data-protection-act-overview/78795)).
 
 ### Guinea-Bissau: 2 Nascent
 

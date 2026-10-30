@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,general,authority,qualifier,provided,2026-03-23,LSO-002,,
-LSO,general,standing,coverage,in-force,2026-03-23,LSO-001,,
-LSO,general,regulations,coverage,,,,,nothing held
-LSO,general,application,coverage,,,,,nothing held
-LSO,general,last12,qualifier,,,,,nothing held
+LSO,general,authority,qualifier,provided,2026-03-27,LSO-002;LSO-004,LSO-006=none,
+LSO,general,standing,coverage,in-force,2026-03-27,LSO-001;LSO-003;LSO-005,,
+LSO,general,regulations,coverage,,,,,nothing found
+LSO,general,application,coverage,,,,,nothing found
+LSO,general,last12,qualifier,,,,,nothing found

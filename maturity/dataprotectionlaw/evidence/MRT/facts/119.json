@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-22-mrt-des-membres-de-lautorite-de-protection-des-donnees-personnelles-preten",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Agence mauritanienne d'information reports that members of the data protection authority were sworn on 22 February 2024 under Law No. 020/2017 of 22 July 2017 on personal data protection, which sets the authority's missions, composition and appointment.",
+   "as_of": "2024-02-22",
+   "date_precision": "day",
+   "system": "Law No. 020/2017",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Seven members of the authority took the oath on 22 February 2024 before entering office.",
+   "as_of": "2024-02-22",
+   "date_precision": "day",
+   "system": "Autorite de protection des donnees a caractere personnel",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law No. 020/2017",
+   "country_label": "Mauritania",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

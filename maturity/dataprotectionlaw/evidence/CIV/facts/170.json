@@ -1,0 +1,54 @@
+{
+ "slug": "2026-01-01-civ-communique-relatif-au-recensement-et-a-l-evaluation-de-conformite-des",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "ARTCI, described as the Autorite de Protection, said it initiated a national study of controllers' compliance with Law no. 2013-450.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ARTCI",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ARTCI refers to compliance with the requirements in force under Law no. 2013-450 of 19 June 2013 on personal data protection.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Law no. 2013-450",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "ARTCI mandated OKTO Technologies to collect data from public and private entities from 26 January to 25 May 2026 for a national census and compliance evaluation under the law.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Law no. 2013-450",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law no. 2013-450",
+   "country_label": "Cote d'Ivoire",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ARTCI",
+   "country_label": "Cote d'Ivoire",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

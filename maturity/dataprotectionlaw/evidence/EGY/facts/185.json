@@ -1,0 +1,57 @@
+{
+ "slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "transition",
+   "fact": "ACTPOL says Law No. 151 of 2020 was published in July 2020 and, with executive regulations dated 1 November 2025, organisations have one year to comply, bringing the regime into full effect around 1 November 2026.",
+   "as_of": "2025-11-01",
+   "date_precision": "day",
+   "system": "Personal Data Protection Law, Law No. 151 of 2020",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "ACTPOL says the Centre's board was not constituted as of January 2026 and an acting chief executive leads it.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Personal Data Protection Centre",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "ACTPOL says the executive regulations were issued as Decree No. 816 of 2025 by the Minister of Communications, dated 1 November 2025 and released publicly on 25 December 2025.",
+   "as_of": "2025-11-01",
+   "date_precision": "day",
+   "system": "Decree No. 816 of 2025",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "ACTPOL says the Centre presented online services for licence applications and data protection officer registration in February 2026 but had published no decisions by 25 September 2026.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Personal Data Protection Centre",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "ACTPOL says the executive regulations, dated 1 November 2025, were released publicly on 25 December 2025.",
+   "as_of": "2025-12-25",
+   "date_precision": "day",
+   "system": "Decree No. 816 of 2025",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

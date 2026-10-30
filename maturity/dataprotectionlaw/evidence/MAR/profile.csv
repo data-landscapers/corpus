@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,general,authority,qualifier,constituted,2026-10-21,MAR-002;MAR-005;MAR-011;MAR-013;MAR-017;MAR-019;MAR-025;MAR-027;MAR-030,,
-MAR,general,standing,coverage,in-force,2026-10-21,MAR-001;MAR-004;MAR-007;MAR-008;MAR-014;MAR-016;MAR-021;MAR-022;MAR-023;MAR-024;MAR-028;MAR-029,MAR-009=drafting;MAR-015=drafting,
-MAR,general,regulations,coverage,,,,,nothing held
-MAR,general,application,coverage,activity,2026-10-21,MAR-003;MAR-006;MAR-012;MAR-018;MAR-020;MAR-026;MAR-031,,
-MAR,general,last12,qualifier,advancing,2026-08-04,MAR-010,,
+MAR,general,authority,qualifier,constituted,2026-10-21,MAR-002;MAR-005;MAR-011;MAR-013;MAR-017;MAR-019;MAR-025;MAR-027;MAR-030;MAR-033;MAR-036;MAR-039;MAR-042;MAR-045;MAR-046,,
+MAR,general,standing,coverage,in-force,2026-10-21,MAR-001;MAR-004;MAR-007;MAR-008;MAR-014;MAR-016;MAR-021;MAR-022;MAR-023;MAR-024;MAR-028;MAR-029;MAR-032;MAR-037;MAR-038;MAR-043;MAR-044,MAR-009=drafting;MAR-015=drafting,
+MAR,general,regulations,coverage,,,,,nothing found
+MAR,general,application,coverage,reported,2024,MAR-040,MAR-031=activity;MAR-026=activity;MAR-006=activity;MAR-003=activity;MAR-012=activity;MAR-020=activity;MAR-041=applied;MAR-047=activity;MAR-018=activity;MAR-034=activity,
+MAR,general,last12,qualifier,advancing,2026-08-04,MAR-010,MAR-035=no-change,

@@ -22,6 +22,7 @@ AGO,Lei n.º 22/11 de 17 de Junho - Lei da Protecção de Dados Pessoais,Lei da 
 AGO,Agência de Protecção de Dados,APD,authority,,public-law body created by Lei n.º 22/11,,2011-06-17-angola-lei-22-11-proteccao-de-dados-pessoais
 AGO,Agência de Protecção de Dados,APD,authority,,,,2026-10-11-ago-deliberacao-sobre-processos-contravencionais
 AGO,Lei n.º 22/11 de 17 de Junho - Lei da Protecção de Dados Pessoais,Lei da Protecção de Dados Pessoais,general,,,,2026-10-11-ago-deliberacao-sobre-processos-contravencionais
+AGO,Angola Data Protection Law 22/11,Angola,general,,,,2024-07-19-ago-angola-decision-on-infringement-proceedings
 BDI,Burundi personal data protection law,personal data protection law (bill adopted 15 Jan 2026),general,,"Ministry of Interior, Community Development and Public Security (sponsor); National Assembly",public and private sectors,2026-01-16 Burundi adopts data protection law
 BDI,Independent data-protection authority,independent administrative data-protection authority,authority,,,,2026-01-16 Burundi adopts data protection law
 BDI,Burundi personal data protection law,new bill on personal data protection,general,,Ministry of Interior (sponsor); National Assembly,,2026-01-16-burundi-personal-data-protection-law-techafricanews
@@ -32,6 +33,9 @@ BEN,Loi n° 2017-20 du 20 avril 2018 portant code du numérique en République d
 BEN,Loi n° 2009-09 du 22 mai 2009 portant protection des données à caractère personnel,Loi 2009-09 (replaced by the 2018 Code du numérique),general,,Government of Benin,national,2020-12-01-apdp-rapport-activites-2015-2020
 BEN,Autorité de Protection des Données à caractère Personnel (APDP),APDP,authority,,"Independent administrative authority, State-funded",national,2020-12-01-apdp-rapport-activites-2015-2020
 BEN,Commission Nationale de l'Informatique et des Libertés (CNIL),CNIL Bénin,authority,,Created by Loi 2009-09; renamed APDP in 2018,national,2020-12-01-apdp-rapport-activites-2015-2020
+BEN,APDP,Benin,authority,,,,2024-08-04-ben-benin-l-apdp-passe-en-revue-47-dossiers-lors-des-plenieres-de-juillet
+BEN,APDP,Benin,authority,,,,2024-05-07-ben-prestation-de-serment-des-conseillers-de-l-apdp
+BEN,Code du numérique,Benin,general,,,,2024-05-07-ben-prestation-de-serment-des-conseillers-de-l-apdp
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,CIL,Commission de l'informatique et des libertes,authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-03-burkina-alp-adopte-loi-protection-donnees-surete-aerienne
@@ -75,6 +79,11 @@ CIV,ARTCI,Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoir
 CIV,Certinum,Certinum,authority,Developed in Côte d'Ivoire with technical partner Bmi-Wfs; certinumapdp.ci,ARTCI,national; Treasury and ONECI first users,2026-07-02-certinum-protection-donnees-personnelles-fratmat
 CIV,Loi du 19 juin 2013,loi du 19 juin 2013 encadrant les données à caractère personnel,general,,,national,2026-05-18-protection-donnees-progres-cote-divoire-fratmat
 CIV,ARTCI,Artci,authority,,,national,2026-05-18-protection-donnees-progres-cote-divoire-fratmat
+CIV,Autorite de Regulation des Telecommunications/TIC de Cote d'Ivoire (ARTCI),Cote d'Ivoire,authority,,,,2026-05-18-civ-a-abidjan-l-afrique-prend-date-pour-se-doter-enfin-d-une-vision-commun
+CIV,Law no. 2013-450,Cote d'Ivoire,general,,,,2026-01-01-civ-communique-relatif-au-recensement-et-a-l-evaluation-de-conformite-des
+CIV,ARTCI,Cote d'Ivoire,authority,,,,2026-01-01-civ-communique-relatif-au-recensement-et-a-l-evaluation-de-conformite-des
+CMR,Loi du 23 décembre 2024,Cameroon,general,,,,2026-06-30-cmr-du-regime-de-l-autorisation-inoperant-au-regime-de-l-accountability-ir
+CMR,Autorité de protection des données à caractère personnel,Cameroon,authority,,,,2026-06-30-cmr-du-regime-de-l-autorisation-inoperant-au-regime-de-l-accountability-ir
 COD,Autorité de protection des données,Autorité de protection des données,authority,,,,2026-07-30-rdc-chaine-responsabilite-visible-cybersecurite
 COD,"Digital Code, Book III","Code du numérique, Livre III",general,,,,2026-04-21-ouvrage-protection-donnees-personnelles-actualite
 COD,Code du numérique (Ordonnance-loi n° 23/010),Digital Code,general,,Ministère de l'Économie Numérique,,2026-03-17-drc-launches-data-protection-officers-network-techafricanews
@@ -90,6 +99,8 @@ COD,Autorité de Protection des Données (APD),Autorité de Protection des Donn�
 COD,ARPTIC,"Autorité de Régulation des Postes, des Télécommunications et des Technologies de l'Information et de la Communication",authority,,"Ministry of Posts, Telecommunications and Digital (tutelle)",,2025-03-18-cod-arptic-arptc-investie-des-missions-de-l-autorite-de-protection-des-don
 COG,Commission nationale pour la protection des données à caractère personnel (National Personal Data Protection Commission),National Personal Data Protection Commission,authority,,Republic of Congo (established under Law No. 29-2019),national,2026-01-22-congo-launches-data-protection-commission-techafricanews
 COG,Commission nationale de protection des données à caractère personnel (National Personal Data Protection Commission),National Personal Data Protection Commission,authority,,"Republic of Congo (Ministry of Posts, Telecommunications and Digital Economy presented the bill)",national,2024-07-05 Congo - Council of Ministers approves bill creating National Personal Data Protection Commission
+COG,Commission nationale pour la protection des données à caractère personnel (CNPD),CNPD,authority,,Government of Congo,,2025-03-29-cog-loi-5-2025-creation-commission-nationale-protection-donnees
+COG,Commission nationale pour la protection des données à caractère personnel,Congo,authority,,,,2024-07-05-cog-congo-numerique-vers-la-protection-des-donnees-a-caractere-personnel
 COM,Autorité nationale de protection des données personnelles,Autorité nationale de protection des données personnelles,authority,,,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
 COM,National Authority for the Protection of Personal Data,National Authority for the Protection of Personal Data,authority,,,,2025-07-23 Review of the Comoros Data Protection Law
 COM,National Authority for the Protection of Personal Data and Access to Information,National Authority for the Protection of Personal Data and Access to Information,authority,,,,2024-10-06 Comoros to implement digital govt program with AfDB grant (Digitization of the Comorian Economy)
@@ -100,6 +111,9 @@ CPV,Regime Jurídico Geral de Protecção de Dados,"Regime Jurídico Geral de Pr
 CPV,Comissão Nacional de Protecção de Dados (CNPD),CNPD,authority,,,,2025-02-02-cnpd-faustino-varela-ia-big-data-direitos-expressodasilhas
 CPV,Comissão Nacional de Protecção de Dados (CNPD),CNPD,authority,,Assembleia Nacional (budget vote),,2024-12-30-cpv-2025-cnpd
 CPV,Comissão Nacional de Protecção de Dados (CNPD),CNPD,authority,,Assembleia Nacional (budget vote),,2024-12-30-cpv-lei-45-x-2024-orcamento-do-estado-2025-source
+CPV,Data protection regime of Cabo Verde,Cabo Verde,general,,,,2026-04-24-cpv-cnpd-cabo-verde-um-percurso-de-onze-anos
+CPV,CNPD,Cabo Verde,authority,,,,2026-04-24-cpv-cnpd-cabo-verde-um-percurso-de-onze-anos
+CPV,CNPD,Cabo Verde,authority,,,,2024-04-30-cpv-cnpd-apresenta-relatorio-de-atividades-de-2023
 DJI,"Digital Code (data-protection regime, 156 articles)",Code du numerique,general,,Republic of Djibouti,,2025-11-05 Review of Djibouti Data Protection Law
 DJI,National Commission for the Protection of Personal Data (CNDP),Commission Nationale de Protection des Donnees a caractere personnel,authority,,Created by the Digital Code; independent,,2025-11-05 Review of Djibouti Data Protection Law
 DJI,Digital Code,Code du numerique,general,,Ministry of Digital Economy and Innovation (drafting); National Assembly (adopted),,2025-07-01 Djibouti Digital Code adopted by National Assembly
@@ -117,6 +131,12 @@ DZA,National Data Governance Framework,dispositif national de gouvernance des do
 DZA,Loi n° 18-07 du 10 juin 2018 (as amended by loi n° 25-11),loi 18-07 modifiée par la loi 25-11,general,,,,2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid
 DZA,ANPDP,Autorité nationale de la protection des données,authority,,,,2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid
 DZA,Autorite nationale de protection des donnees a caractere personnel (ANPDP),ANPDP,authority,,,,2025-04-27-dza-maghrebinfo-saadaoui-transformation-numerique
+DZA,Law 18-07,Algeria,general,,,,2026-03-04-dza-anpdp-deliberation-02-2026-video-surveillance-in-the-workplace
+DZA,ANPDP,Algeria,authority,,,,2026-03-04-dza-anpdp-deliberation-02-2026-video-surveillance-in-the-workplace
+DZA,Law 18-07,Algeria,general,,,,2026-02-25-dza-anpdp-deliberation-01-2026-drug-test-results-in-recruitment-as-health-data
+DZA,ANPDP,Algeria,authority,,,,2026-02-25-dza-anpdp-deliberation-01-2026-drug-test-results-in-recruitment-as-health-data
+DZA,Law 18-07,Algeria,general,,,,2024-02-29-dza-l-anpdp-entame-sa-premiere-mission-de-controle-au-niveau-des-entrepris
+DZA,ANPDP,Algeria,authority,,,,2024-02-29-dza-l-anpdp-entame-sa-premiere-mission-de-controle-au-niveau-des-entrepris
 EGY,Personal Data Protection Law No. 151 of 2020,Personal Data Protection Law (PDPL),general,,,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Executive Regulations of the PDPL (Decree No. 816 of 2025),PDPL Executive Regulations,regulation,,Minister of Telecommunications and Information Technology,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Personal Data Protection Center (PDPC),Personal Data Protection Center,authority,,,,2026-10-07-egypt-personal-data-protection-law-update
@@ -131,7 +151,14 @@ ETH,Ethiopian Communications Authority,Ethiopian Communications Authority (ECA),
 ETH,ECA data controller and processor registration portal,digital registration portal,authority,,Ethiopian Communications Authority,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
 ETH,Personal Data Protection Proclamation No. 1321/2024,Personal Data Protection Proclamation (PDPP),general,,Federal Democratic Republic of Ethiopia,,2024-08-30 Ethiopia's Personal Data Protection Proclamation 1321-2024 (overview)
 ETH,Ethiopian Communications Authority,Ethiopian Communications Authority (ECA),authority,,Federal Government of Ethiopia,,2024-08-30 Ethiopia's Personal Data Protection Proclamation 1321-2024 (overview)
+ETH,Personal Data Protection Proclamation 1321/2016 EC (1321/2024),Ethiopia,general,,,,2026-05-13-eth-ena-eca-personal-data-protection-consultation
+ETH,Ethiopian Communications Authority,Ethiopia,authority,,,,2026-05-13-eth-ena-eca-personal-data-protection-consultation
+ETH,Personal Data Protection Proclamation No. 1321/2024,Ethiopia,general,,,,2025-11-07-eth-banking-on-data-regulatory-expectations-for-data-storage-protection-an
 GAB,Loi relative à la protection des données à caractère personnel,loi sur la protection des données à caractère personnel,general,,APDPVP,,2026-09-04-union-sonapresse-gabon-apdpvp-data-protection-interview
+GAB,Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP),Gabon,authority,,,,2026-01-28-gab-journee-mondiale-de-la-protection-des-donnees-le-gabon-affirme-sa-stra
+GAB,Autorite pour la protection des donnees personnelles et de la vie privee (APDPVP),Gabon,authority,,,,2025-07-30-gab-protection-des-donnees-l-apdpvp-poursuit-ses-controles-a-libreville
+GAB,Autorite pour la Protection des Donnees Personnelles et de la Vie Privee (APDPVP),Gabon,authority,,,,2025-10-10-gab-apdpvp-mission-de-controle-port-gentil
+GAB,APDPVP,Gabon,authority,,,,2025-05-14-gab-mission-de-controle-des-traitements-de-donnees-personnelles
 GHA,Data Protection Commission,Data Protection Commission (DPC),authority,,"Data Protection Commission, Ghana",national,2026-10-04-gha-gna-dpc-spot-checks-enforcement-act-843
 GHA,Data Protection Commission,Data Protection Commission (DPC),authority,,"Data Protection Commission, Ghana",national head office; regional offices planned in five regions by end 2026,2026-08-21-ghana-news-data-protection-commission-acquires-vehicles-boost
 GHA,Data Protection Commission,Data Protection Commission - Ghana,authority,,"Data Protection Commission, Ghana",,2026-02-27-minister-data-protection-foundation-techreview
@@ -152,6 +179,7 @@ GHA,"Data Protection Act, 2012 (Act 843)","Data Protection Act, 2012 (Act 843)",
 GHA,Data Protection Commission,Data Protection Commission (DPC),authority,,Government of Ghana,national,2024-09-18-gha-justice-noah-adade-vrs-bolt-ghana-limited-bolt-holdings-ou-suit-no-c11
 GHA,Data Protection Commission,Data Protection Commission,authority,,,,2026-10-20-gha-data-protection-commission-warns-against-exposure-of-evacuated-ghanaians-personal
 GHA,Data Protection Commission,DPC,authority,,Government of Ghana,,2026-10-22-gha-ghanaian-clinic-stored-patient-records-on-an-unassessed-syst
+GHA,Data Protection Commission,Ghana,authority,,,,2025-03-13-gha-arnold-kavaarpuo-appointed-as-acting-executive-director-of-data-protec
 GIN,Autorité de Protection des Données à caractère Personnel (APDP),APDP,authority,,Republic of Guinea (bill before the CNT),,2024-06-21-cnt-autorite-protection-donnees-apdp-en-debat
 GIN,Loi L/2016/037/AN relative à la cybersécurité et la protection des données à caractère personnel,Loi L/2016/037/AN,general,,Assemblée nationale de Guinée,,2016-07-01-loi-l2016-037-an-cybersecurite-protection-donnees
 GIN,Autorité de Protection des données à caractère personnel,Autorité de Protection,authority,,,,2016-07-01-loi-l2016-037-an-cybersecurite-protection-donnees
@@ -191,11 +219,18 @@ KEN,Data Protection Regulations (2021),"Data Protection Regulations, 2021",regul
 KEN,Office of the Data Protection Commissioner (ODPC),ODPC,authority,,Government of Kenya,national,2024-10-03-kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations
 KEN,Office of the Data Protection Commissioner (ODPC),Office of the Data Protection Commissioner,authority,,Government of Kenya,"national; regional offices in Nairobi, Kisumu, Mombasa, Eldoret, Machakos, Nyeri, Nakuru",2025-04-01-odpc-data-bulletin-12th-edition
 KEN,"Data Protection Act, 2019",Kenya,general,,,,2026-10-22-ken-kenya-ict-authority-signs-ai-data-cooperation-agreement-with
+KEN,Data Protection Act,Kenya,general,,,,2026-10-29-kenyas-data-protection-commissioner-engages-eu-call-centre-operators-on-bpo
+KEN,ODPC,Kenya,authority,,,,2026-10-29-kenyas-data-protection-commissioner-engages-eu-call-centre-operators-on-bpo
+KEN,Office of the Data Protection Commissioner (ODPC),Kenya,authority,,,,2025-02-19-ken-zuku-hit-with-sh500-000-fine-for-spamming-customer-with-messages
+KEN,"Data Protection Act, 2019",Kenya,general,,,,2025-01-27-ken-pre-conference-breakfast-meeting-with-journalists-in-eldoret-ahead-of
+KEN,ODPC,Kenya,authority,,,,2025-01-27-ken-pre-conference-breakfast-meeting-with-journalists-in-eldoret-ahead-of
+KEN,"Data Protection Act, 2019",Kenya,general,,,,2024-11-01-ken-odpc-e-bulletin-8th-edition-data-bulletin-week-45-46
 LBR,Independent Information Commission,Independent Information Commission,authority,,Government of Liberia,"national; its executive director, Lorpu Page, sat on the ID4Africa 2026 panel","2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI"
 LBR,"Constitution of Liberia, Article 16",Constitution Article 16,constitutional,,Republic of Liberia,national,2025-02-27 Liberia struggles to enforce privacy and data protection laws
 LBR,Policy to implement the ECOWAS Data Protection Act,,policy,,Ministry of Posts and Telecommunications with the LTA,national; being drafted,2025-02-27 Liberia struggles to enforce privacy and data protection laws
 LBR,Independent Information Commissioner,Independent Information Commissioner,authority,,"Government of Liberia, created by the Freedom of Information Act of 2010",national; designated supervisory authority under the Act,2026-03-23-liberia-data-protection-act-printed-act-mopt
 LSO,Data Protection Commission,Data Protection Commission,authority,,,,2026-03-23 Reassessing the role of data protection authorities in Africa
+LSO,Data Protection Act 2011,Lesotho,general,,,,2026-03-27-lso-exploring-the-data-protection-and-data-governance-challenges-and-oppor
 MAR,Loi 09-08,Loi n° 09-08 (protection des personnes physiques à l'égard du traitement des données à caractère personnel),general,,,,2026-08-31-fr-legislatives-2026-la-cndp-encadre-lusage-des-donnees
 MAR,CNDP,Commission nationale de contrôle de la protection des données à caractère personnel,authority,,,,2026-08-31-fr-legislatives-2026-la-cndp-encadre-lusage-des-donnees
 MAR,Loi 09-08,Loi n° 09-08 (protection des personnes physiques à l'égard du traitement des données à caractère personnel),general,,,,2026-08-29-morocco-cndp-election-data-protection-guidance
@@ -206,6 +241,12 @@ MAR,CNDP,Commission nationale de contrôle de la protection des données à cara
 MAR,CNDP,Commission nationale de contrôle de la protection des données à caractère personnel,authority,,,,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)
 MAR,CNDP,Commission Nationale de contrôle de la protection des Données à caractère Personnel,authority,,,,2025-11-28-morocco-cndp-nouvelles-deliberations
 MAR,CNDP,Morocco,authority,,Government of Morocco,,2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua
+MAR,Law 09-08,Morocco,general,,,,2025-11-07-mar-la-cndp-consolide-sa-capacite-a-suivre-les-publications-inadequates-de
+MAR,CNDP,Morocco,authority,,,,2025-11-07-mar-la-cndp-consolide-sa-capacite-a-suivre-les-publications-inadequates-de
+MAR,Law 09-08,Morocco,general,,,,2025-01-24-mar-nomination-des-nouveaux-membres-de-la-cndp-commission-nationale-de-con
+MAR,CNDP,Morocco,authority,,,,2025-01-24-mar-nomination-des-nouveaux-membres-de-la-cndp-commission-nationale-de-con
+MAR,Loi 09.08,Maroc,general,,,,2026-07-08-mar-donnees-personnelles-le-maroc-prepare-une-reforme
+MAR,CNDP (Commission nationale de contrôle de la protection des données à caractère personnel),Morocco,authority,,State,,2024-10-02-mar-omar-seghrouchni-cndp-l-investissement-n-absout-pas-les-violations-des
 MDG,Loi n° 2014-038 sur la protection des données à caractère personnel,Loi n° 2014-038,general,,,,2026-03-27-ugd-rapport-annuel-confidentialite-protection-donnees
 MDG,Commission Malagasy de l'Informatique et des Libertés (CMIL),CMIL,authority,,,,2026-03-27-ugd-rapport-annuel-confidentialite-protection-donnees
 MDG,Commission Malagasy de l'Informatique et des Libertés (CMIL),CMIL,authority,,,,2025-08-06-cmil-operationalisation
@@ -225,6 +266,7 @@ MDG,Loi n°2014-024 du 10 décembre 2014 sur les transactions électroniques,Loi
 MDG,"Loi n°2014-006 du 17 juillet 2014 sur la lutte contre la cybercriminalité, modifiée par la loi n°2016-031",Loi 2014-006,adjacent,,Parliament of Madagascar,national,2025-12-03-cmil-manuel-procedures-full-text
 MDG,Commission Malagasy de l'Informatique et des Libertés (CMIL),CMIL,authority,,State (data protection authority),,2026-03-27-rapport-annuel-confidentialite-protection-donnees-madagascar
 MDG,Loi n°2024-004 authorising ratification of the Malabo Convention,Loi n°2024-004,treaty,,Parliament of Madagascar,,2024-07-10-hcc-decision-01-hcc-d1-malabo-convention
+MDG,CMIL,Madagascar,authority,,,,2025-06-18-mdg-decret-n2025-696-abrogeant-l-article-90-du-decret-n2023-1541-du-06-dec
 MLI,Personal Data Protection Authority (APDP),APDP Mali,authority,,,,2026-09-25-tgo-togofirst-togo-mali-data-regulators
 MLI,Autorite de Protection des Donnees a caractere Personnel (APDP),APDP,authority,,,"national; regional offices at Kayes, Sikasso, Segou, Mopti",2026-09-21-mli-mali-benin-data-protection-cooperation
 MLI,Loi n2013-015 du 21 mai 2013 (modifiee),Loi n2013-015,general,,,,2026-08-04-mali-lapdp-ouvre-sa-2e-session-2026-avec-1000-dossiers-au-programme
@@ -237,6 +279,8 @@ MLI,Autorité de Protection des Données à Caractère Personnel (APDP),APDP,aut
 MLI,Personal Data Protection Authority (APDP),APDP Mali,authority,,,,2025-08-06-mli-sanction-apdp-amende-de-5-millions-de-f-cfa-prononcee-pour-entrave-a-l
 MLI,Personal Data Protection Authority (APDP),APDP Mali,authority,,,,2025-06-19-mli-sanction-pour-non-respect-des-donnees-personnelles-penalite-de-5-milli
 MLI,Personal Data Protection Authority (APDP),APDP Mali,authority,,,,2024-05-14-mli-decret-n2024-0300-pt-rm-du-14-mai-2024-instituant-le-paiement-des-frai
+MLI,Law 2013-015,Mali,general,,,,2025-08-06-mli-ouverture-des-travaux-de-la-deuxieme-session-ordinaire-de-2025-de-lapd
+MLI,APDP,Mali,authority,,,,2025-08-06-mli-ouverture-des-travaux-de-la-deuxieme-session-ordinaire-de-2025-de-lapd
 MOZ,Personal Data Protection draft law,Personal Data Protection draft law,general,,Assembly of the Republic,,2026-10-02-moz-clubofmozambique-parliament-october-sessions-data-protection-bill
 MOZ,Lei de Proteção de Dados Pessoais (forthcoming),Lei de Proteção de Dados Pessoais (forthcoming),general,,,,2026-09-03-mozambique-misa-data-protection-law-roundtable
 MOZ,Lei de Protecção de Dados Pessoais (proposta),Lei de Protecção de Dados Pessoais (proposta),general,,,,2026-08-28-integritymagazine-cibercidadaos-defende-maior-capacidade-nacional-de-gestao-de
@@ -260,6 +304,7 @@ MOZ,National Data Governance Strategy and National Data Policy (in development),
 MOZ,Data Protection Act (pending),Data Protection Law,general,,Ministry of Communications and Digital Transformation,,2026-01-16-worldbank-mozambique-digital-acceleration-project-second-restructuring-paper
 MOZ,Data Protection Office (DPO),Data Protection Office,authority,,,,2026-01-16-worldbank-mozambique-digital-acceleration-project-second-restructuring-paper
 MOZ,Draft Law on the Protection of Personal Data,Draft Law on the Protection of Personal Data,general,,Assembly of the Republic,,2026-10-22-moz-mozambique-joins-sadc-regional-working-group-on-data-protect
+MOZ,Proposta de Lei de Protecção de Dados,Mozambique,general,,Assembleia da República,,2026-05-28-moz-intic-acompanha-avancos-da-rede-africana-de-autoridades-de-proteccao-d
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2026-06-30-apd-reunion-mensuelle-hebergement-donnees-an-etat-homologation-datacenter
 MRT,Loi n° 2017-020 relative à la protection des données à caractère personnel,Loi 2017-020 of 22 July 2017,general,,,,2026-06-30-apd-reunion-mensuelle-hebergement-donnees-an-etat-homologation-datacenter
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2026-05-06-mauritania-apd-site-institutionnel
@@ -282,6 +327,10 @@ MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,autho
 MRT,Loi n° 2017-020 on personal data protection,Loi n° 2017-020 du 22 juillet 2017 relative à la protection des données à caractère personnel,general,,,,2025-07-14-mauritanie-apd-deliberation-004-2025-transfert-donnees-etranger-liste-pays-adequats
 MRT,Autorité de Protection des Données à Caractère Personnel (APD),APD,authority,,,,2025-07-14-mauritanie-apd-deliberation-004-2025-transfert-donnees-etranger-liste-pays-adequats
 MRT,Autorité de protection des données personnelles,APD,authority,,Prime Minister's office,,2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie
+MRT,Law No. 2017-020 on personal data protection,Mauritania,general,,,,2026-06-10-mrt-apd-aned-data-localisation-nouakchott-data-centre
+MRT,Law 2017-020,Mauritania,general,,,,2025-03-04-mrt-reunion-de-coordination-entre-la-caisse-nationale-de-securite-sociale
+MRT,Autorité de Protection des Données à Caractère Personnel,Mauritania,authority,,,,2025-03-04-mrt-reunion-de-coordination-entre-la-caisse-nationale-de-securite-sociale
+MRT,Law No. 020/2017,Mauritania,general,,,,2024-02-22-mrt-des-membres-de-lautorite-de-protection-des-donnees-personnelles-preten
 MUS,Data Protection Act,Data Protection Act,general,,"Ministry of Information Technology, Communication and Innovation",,2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci
 MUS,Data Protection Act,Data Protection Act,general,,Government of Mauritius,,2026-06-17-mitci-mauritius-data-protection-officer-regulations-2026
 MUS,Data Protection Office,the Office,authority,,Data Protection Commissioner,,2026-06-17-mitci-mauritius-data-protection-officer-regulations-2026
@@ -297,6 +346,12 @@ MUS,Data Protection (Fees) Regulations 2020,Data Protection (Fees) Regulations 2
 MUS,Insurance sector guidelines 2024,Guidelines for the insurance sector,regulation,,Data Protection Commissioner,insurance companies and salespersons,2024-01-01-data-protection-office-annual-report-2024
 MUS,CCTV Code of Practice 2010,Code of Practice for CCTV Systems operated by the Mauritius Police Force (March 2010),regulation,,Data Protection Commissioner,Mauritius Police Force,2024-01-01-data-protection-office-annual-report-2024
 MUS,Draft Data Protection Bill,Draft Data Protection Bill (EU adequacy),general,,"Data Protection Office; Ministry of Information Technology, Communication and Innovation",,2024-01-01-data-protection-office-annual-report-2024
+MUS,"Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026",Mauritius,regulation,,,,2026-08-01-mus-designation-and-certification-of-data-protection-officers-dpos
+MUS,Data Protection Act,Mauritius,general,,,,2026-06-23-mus-communique-data-protection-designation-tasks-and-position-of-data-prot
+MUS,Data Protection Office,Mauritius,authority,,,,2026-06-23-mus-communique-data-protection-designation-tasks-and-position-of-data-prot
+MUS,"Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026",Mauritius,regulation,,,,2026-06-23-mus-communique-data-protection-designation-tasks-and-position-of-data-prot
+MUS,Data Protection Act 2017,Mauritius,general,,,,2026-01-16-mus-des-prochains-amendements-au-data-protection-act-2017
+MUS,Data Protection Office,Mauritius,authority,,,,2026-01-16-mus-des-prochains-amendements-au-data-protection-act-2017
 MWI,"Data Protection Act, 2024","Data Protection Act, 2024",general,,,national,2026-07-16-macra-data-protection-registration-compliance-malawi24
 MWI,Data Protection Authority,Data Protection Authority,authority,,Malawi Communications Regulatory Authority (MACRA),national,2026-07-16-macra-data-protection-registration-compliance-malawi24
 MWI,Data Protection Authority,Data Protection Authority (DPA),authority,,Malawi Communications Regulatory Authority (MACRA),national,2026-07-15-macra-consults-stakeholders-on-proposed-data-protection-registration-fees
@@ -306,6 +361,9 @@ MWI,"Data Protection Act, 2024",Data Protection Act (No. 3 of 2024),general,,,na
 MWI,"Data Protection (Data Processors Engagement) Regulations, 2025","Data Protection (Data Processors Engagement) Regulations, 2025 (draft)",regulation,,Malawi Communications Regulatory Authority (MACRA),national,2025-10-17-data-protection-data-processors-engagement-regulations
 MWI,"Data Protection Act, 2024","Data Protection Act, 2024 (Act No. 3 of 2024)",general,,Parliament of Malawi,,2024-02-02-malawi-data-protection-act-2024-batch2_gov_b_infra
 MWI,Malawi Communications Regulatory Authority,Data Protection Authority (designated under section 4),authority,,Government of Malawi,,2024-02-02-malawi-data-protection-act-2024-batch2_gov_b_infra
+MWI,Data Protection Act of 2024,Malawi,general,,,,2026-07-13-mwi-malawi-to-enforce-mandatory-data-protection-fees-from-september
+MWI,MACRA (Data Protection Authority),Malawi,authority,,,,2026-05-27-mwi-malawi-trains-courier-operators-on-data-protection
+MWI,Data Protection Act,Malawi,general,,,,2026-05-27-mwi-malawi-trains-courier-operators-on-data-protection
 NAM,Constitution Article 13,Article 13 of the Constitution (privacy),constitutional,,,,2026-08-04-namibia-mp-data-control-concerns-china-smart-city-grant
 NAM,Data Protection Bill,Data Protection Bill,general,,Ministry of ICT,,2026-07-14-namibia-pushes-cyber-security-reforms-itweb
 NAM,Cybercrime Bill,Cybercrime Bill,adjacent,,Ministry of ICT,,2026-07-14-namibia-pushes-cyber-security-reforms-itweb
@@ -330,6 +388,7 @@ NER,Haute Autorité de Protection des Données à caractère Personnel (HAPDP),H
 NER,Law no. 2019-71 of 24 December 2019 amending law 2017-28,Loi 2019-71,general,,Republic of Niger,,2019-12-24 Niger Data Protection Law - Loi 2019-71 (amending Loi 2017-28)
 NER,Loi de decembre 2022 sur la protection des donnees,Loi 2022-59,general,,,,2026-08-01-ner-niger-suppression-de-la-haute-autorite-de-protection-des-donnees-a-car
 NER,HAPDP,Haute Autorité de Protection des Données à Caractère Personnel,authority,,,,2026-06-12-ner-niger-plusieurs-services-rattaches-ou-sous-tutelle-de-la-presidence-de
+NER,HAPDP,Niger,authority,,,,2024-09-18-ner-haute-autorite-de-protection-des-donnees-a-caractere-personnel-le-pres
 NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,general,,,,2026-09-28-nga-premiumtimes-court-dismisses-meta-privacy-suit-imo
 NGA,Nigeria Data Protection Commission,NDPC,authority,,,,2026-09-28-nga-premiumtimes-court-dismisses-meta-privacy-suit-imo
 NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,general,,,,2026-09-16-nga-digitalbusiness-etat-reprend-ndpc-recettes-9-millions
@@ -366,8 +425,12 @@ NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,general,,N
 NGA,Nigeria Data Protection Commission (NDPC),Nigeria Data Protection Commission,authority,,Federal Government; National Commissioner and CEO Vincent Olatunji,national,2026-02-23-ndpc-probes-schools-data-privacy
 NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,general,,Nigeria Data Protection Commission,,2024-06-12-nga-seven-firms-pay-n400-million-to-ndpc-as-sanction-for-data-breach
 NGA,Nigeria Data Protection Commission,NDPC,authority,,,,2026-10-20-nigeria-data-protection-commission-hosts-sri-lankan-delegation-for-stu
+NGA,"Nigeria Data Protection Act, 2023",Nigeria,general,,,,2026-01-29-nga-ndpc-concludes-246-investigations-generates-n5-2bn-revenue-in-show-of
+NGA,NDPC,Nigeria,authority,,,,2026-01-29-nga-ndpc-concludes-246-investigations-generates-n5-2bn-revenue-in-show-of
 RWA,Data Protection Act,Data Protection Act (introduced 15 October 2021),general,,,,2026-01-26-year-of-accountability-data-controllers-newtimes
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,authority,,NCSA,,2026-01-26-year-of-accountability-data-controllers-newtimes
+RWA,National Cyber Security Authority (NCSA),NCSA,authority,,,,2026-01-26-rwa-what-to-do-after-you-register-with-ncsa
+RWA,Data Protection and Privacy Office,Rwanda,general,,National Cyber Security Authority,,2025-09-01-rwa-dpo-newsletter-september-2025
 SDN,Sudanese Data and Artificial Intelligence Authority,Sudanese Data and Artificial Intelligence Authority,authority,,Ministry of Digital Transformation and Communications,national,2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt
 SEN,Loi n° 2008-12 du 25 janvier 2008,loi portant sur la protection des données à caractère personnel,general,,,,2026-09-01-seneweb-cdp-donnees-personnelles-t2-2026
 SEN,Commission de protection des Données Personnelles (CDP),CDP,authority,,,,2026-09-01-seneweb-cdp-donnees-personnelles-t2-2026
@@ -378,6 +441,8 @@ SEN,Commission de Protection des Données Personnelles (CDP),CDP,authority,,,,20
 SEN,Commission de Protection des Données Personnelles (CDP),CDP Sénégal,authority,,,,2026-04-17-benin-senegal-apdp-cdp-convention
 SEN,Loi n° 2008-12 du 25 janvier 2008,loi 2008-12 sur les données à caractère personnel,general,,,,2026-03-27-aps-donnees-personnelles-legislation-moderniser
 SEN,Commission de protection des données personnelles (CDP),CDP,authority,,,,2026-03-27-aps-donnees-personnelles-legislation-moderniser
+SEN,Law No. 2008-12,Senegal,general,,,,2024-10-03-sen-mise-a-niveau-du-projet-de-loi-sur-la-protection-des-donnees-personnel
+SEN,CDP,Senegal,authority,,,,2026-02-12-sen-collecte-et-traitement-des-donnees-personnelles-la-cdp-publie-son-rapp
 SLE,Right to Access Information Commission (RAIC),Right to Access Information Commission,authority,,Government of Sierra Leone,national,2026-04-22-cabinet-data-protection-policy
 SLE,National Data Protection Policy,National Data Protection Policy,policy,,"Ministry of Information and Civic Education; Ministry of Communication, Technology and Innovation",national,2026-04-22-cabinet-data-protection-policy
 SOM,Data Protection Act,Data Protection Act,general,,Somalia,,2026-06-02-somalia-dpa-enforces-data-compliance-registration
@@ -393,6 +458,8 @@ SOM,Data Protection Law No. 005 of 2023,Data Protection Law (Law No. 005 of 2023
 SOM,Data Protection Authority,Data Protection Authority,authority,,Federal Government of Somalia,,2024-02-26 Somalia inaugurates its Data Protection Authority
 SOM,Data Protection Act (Law No. 005 of 2023),Data Protection Act,general,,Federal Parliament of Somalia; Minister of Communications and Technology responsible,federal,2023-03-22-somalia-data-protection-act-law-005-2023
 SOM,Data Protection Authority,Data Protection Authority,authority,,Established by Article 6 of the Data Protection Act; General Manager and Board of up to nine members,federal,2023-03-22-somalia-data-protection-act-law-005-2023
+SOM,Data Protection Agency,Somalia,authority,,,,2024-12-05-som-minister-mohamed-soomaali-oversees-handover-ceremony-for-the-new-direc
+SOM,Data Protection Authority,Somalia,authority,,,,2026-05-20-som-somalia-moves-to-tighten-oversight-of-personal-data-handling
 SSD,National Communication Authority (NCA),National Communication Authority,authority,,Government of South Sudan (statutory body under the National Communication Act 2012),national,2026-08-29-nca-overview-of-nca
 SSD,"Data Protection Bill, 2025 (Version 1.0)","Data Protection Bill, 2025",general,,,national,2026-05-05-digital-rights-frontlines-data-protection-bill-workshop
 SSD,National Communication Authority (NCA),National Communication Authority,authority,,Government of South Sudan,national,2026-05-05-digital-rights-frontlines-data-protection-bill-workshop
@@ -414,6 +481,8 @@ STP,Agência Nacional de Protecção de Dados Pessoais,ANPDP,authority,,São Tom
 STP,Agência Nacional de Protecção de Dados Pessoais,ANPDP,authority,,São Tomé and Príncipe,national,2025-06-23-cnpd-portugal-recebeu-anpdp-stp-rede-lusofona
 STP,Agência Nacional de Protecção de Dados Pessoais (ANPDP),Data Protection Agency,authority,,State,national,2024-01-01 São Tomé and Príncipe - Digital Regulations in the Metaverse Era (Data)
 STP,Agência Nacional de Protecção de Dados Pessoais (ANPDP),Agência Nacional de Protecção de Dados Pessoais,authority,,State,national,2016-05-10-sao-tome-lei-03-2016-proteccao-dados-pessoais
+STP,ANPDP,São Tomé e Príncipe,authority,,,,2026-01-28-stp-agencia-nacional-de-protecao-de-dados-destaca-progressos-e-alerta-para
+STP,Agencia Nacional de Protecao de Dados Pessoais (ANPDP),Sao Tome and Principe,authority,,,,2025-04-25-stp-conversa-aberta-com-os-tratadores-de-dados-pessoais
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,general,,Parliament; supervised by ESCCOM as EDPA,,2026-09-17-swz-eswatinipositivenews-edpa-outreach-data-protection-awareness
 SWZ,Eswatini Data Protection Authority (EDPA),EDPA,authority,,Eswatini Communications Commission (ESCCOM),,2026-09-17-swz-eswatinipositivenews-edpa-outreach-data-protection-awareness
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,general,,Parliament; supervised by ESCCOM as EDPA,,2026-08-16-eswatiniobserver-data-protection-act-online-shaming
@@ -427,6 +496,9 @@ SWZ,Eswatini Data Protection Authority (EDPA),EDPA,authority,,Eswatini Communica
 SWZ,Data Protection Office,Data Protection Office,authority,,,,2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth
 SWZ,Eswatini Data Protection Authority,Eswatini Data Protection Authority,authority,,,,2024-01-01-eswatini-dpa-enforcement
 SWZ,Data Protection Commission,Data Protection Commission,authority,,,,2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)
+SWZ,Eswatini Data Protection Act 2022,Eswatini,general,,,,2024-06-01-swz-edpa-notice-4-2024-enforcement-notice-in-terms-of-section-41-of-the-es
+SWZ,Data Protection Act 2022,Eswatini,general,,,,2025-01-01-swz-general-notice-no-8-2025-notice-of-non-compliance-enforcement-actions
+SWZ,EDPA (Eswatini Communications Commission),Eswatini,authority,,,,2025-01-01-swz-general-notice-no-8-2025-notice-of-non-compliance-enforcement-actions
 SYC,"Data Protection Act, 2023","Data Protection Act, 2023",general,,National Assembly of Seychelles (enacting); Information Commission (oversight),all organisations and public bodies,2026-02-06-infocom-seychelles-data-protection-page
 SYC,"Data Protection Act, 2023","Data Protection Act, 2023",general,,National Assembly of Seychelles (enacting); Information Commission (oversight),all organisations and public bodies,2026-01-28-infocom-data-protection-day-2026
 SYC,"Data Protection Act, 2023","Data Protection Act, 2023",general,,National Assembly of Seychelles (enacting); Information Commission (oversight),all organisations and public bodies,2025-11-10-infocom-atia-reform-whitepaper
@@ -434,6 +506,8 @@ SYC,"Data Protection Act, 2023","Data Protection Act, 2023",general,,National As
 SYC,Information Commission,Information Commission,authority,,Republic of Seychelles,national,2023-12-22-seychelles-data-protection-act-2023-act-24
 SYC,Information Commission Seychelles,Information Commission Seychelles,authority,,Information Commission Seychelles,,2026-04-13-nationalassembly-infocom-annual-report-2025
 SYC,Information Commission,Seychelles,authority,,Government of Seychelles,,2026-10-07-syc-worldbank-pid-inclusive-digital-economy
+SYC,Data Protection Bill 2023,Seychelles,general,,National Assembly,,2023-12-06-syc-national-assembly-approves-two-bills-within-two-days
+SYC,Information Commission,Seychelles,authority,,,,2023-12-06-syc-national-assembly-approves-two-bills-within-two-days
 TCD,"Loi encadrant la collecte, conservation, utilisation et destruction des données biométriques dans les procédures judiciaires (projet adopté par le Sénat le 2026-04-28)",Loi sur les données biométriques judiciaires,sectoral,,Ministry of Justice; Ministry of Public Security and Immigration,,2026-04-28-atpe-senat-adopte-projet-loi-donnees-biometriques
 TCD,Loi relative à la gestion des données biométriques dans les procédures judiciaires (adopted by the National Assembly 138 to 1 on 2026-04-10),Loi sur les données biométriques judiciaires,sectoral,,National Assembly; government,,2026-04-11-tchad-loi-donnees-biometriques-judiciaires
 TCD,ANSICE (National Agency for Information Security and Electronic Certification),ANSICE,authority,,"State; reform law ratified by the Senate on 2026-03-13 broadens its mandate to personal data protection, cybersecurity, cybercrime and AI oversight",,2026-03-16-ecofin-ansice-cybersecurity-agency-reform
@@ -451,6 +525,8 @@ TGO,Loi n°2019-014 relative à la protection des données à caractère personn
 TGO,IPDCP,Instance de protection des données à caractère personnel,authority,,State of Togo,,2026-07-29-togofirst-data-protection-forum-lome
 TGO,Loi n°2019-014 relative à la protection des données à caractère personnel,Loi n°2019-014 du 29 octobre 2019,general,,Parliament of Togo,,2026-06-25-ipdcp-forme-premiers-correspondants
 TGO,IPDCP,Instance de protection des données à caractère personnel,authority,,State of Togo,,2026-06-25-ipdcp-forme-premiers-correspondants
+TGO,Instance de Protection des Données à Caractère Personnel (IPDCP),Togo,authority,,,,2026-10-29-tgo-quest-ce-que-la-journee-nationale-de-la-protection-des-donnees-personn
+TGO,IPDCP,Togo,authority,,,,2024-10-21-tgo-communique-de-presse-nomination-du-president-de-linstance-de-protectio
 TUN,Instance nationale de protection des données personnelles (INPDP),Instance nationale de protection des données personnelles,authority,,State (supervisory authority under organic law 63 of 2004),national,2026-10-04-tun-businessnews-forum-chawki-gaddes-donnees-personnelles-mineurs
 TUN,Instance nationale de protection des données personnelles (INPDP),الهيئة الوطنية لحماية المعطيات الشخصية,authority,,State,national,2026-02-25-tunisie-arp-audition-projet-loi-protection-donnees-inpdp
 TUN,Personal Data Protection Authority,Instance nationale de protection des données personnelles,authority,,State,national,2026-02-20-africanmanager-data-protection-law-parliament
@@ -467,11 +543,15 @@ TZA,Personal Data Protection Commission,PDPC,authority,,Ministry of Communicatio
 TZA,"Personal Data Protection Act, 2022","Personal Data Protection Act, Chapter 44",general,,Government of Tanzania,Mainland Tanzania; Zanzibar for union matters,2023-06-13-personal-data-protection-act-2022
 TZA,Personal Data Protection Commission,Personal Data Protection Commission,authority,,Government of Tanzania,,2023-06-13-personal-data-protection-act-2022
 TZA,Personal Data Protection Commission (PDPC),Tanzania,authority,,,,2026-10-17-tza-simu-za-mkopo-zilivyo-mateso-5635672
+TZA,Tume ya Ulinzi wa Taarifa Binafsi (PDPC),Tanzania,authority,,,,2026-03-26-tza-zimesalia-siku-chache-kufikia-ukomo-wa-taasisi-kujisajili-pdpc
 UGA,Personal Data Protection Office,Personal Data Protection Office (PDPO),authority,,National Information Technology Authority-Uganda (per other sources; not in this document),,2026-08-19-monitor-pdpo-35000-unregistered-data-controllers
 UGA,Personal Data Protection Office,Personal Data Protection Office (PDPO),authority,,,,2026-07-29-whatsapp-privacy-updates-uganda-data-protection-enforcement
 UGA,Personal Data Protection Office,Personal Data Protection Office (PDPO),authority,,,,2025-12-11-vuka-africa-prosecuted-data-breach-pdpo
 UGA,Personal Data Protection Office,Personal Data Protection Office (PDPO),authority,,National Information Technology Authority-Uganda,,2025-07-20-pdpo-google-breach-cross-border-data
 UGA,Personal Data Protection Office,Personal Data Protection Office (PDPO),authority,,,,2026-02-20-uganda-pdpo-decision-adlegal-v-whatsapp-meta
+UGA,"Data Protection and Privacy Act, Cap. 97",Uganda,general,,,,2025-07-24-uga-uganda-s-data-protection-law-takes-effect-with-first-ever-conviction
+UGA,PDPO,Uganda,authority,,,,2025-07-24-uga-uganda-s-data-protection-law-takes-effect-with-first-ever-conviction
+UGA,Data Protection and Privacy Act,Uganda,general,,,,2025-07-21-uga-ugandan-regulator-finds-google-in-breach-of-country-s-data-protection
 ZAF,Protection of Personal Information Act (POPIA),POPIA,general,,Information Regulator (enforcer),,2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities
 ZAF,Information Regulator,InfoReg,authority,,Information Regulator,,2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities
 ZAF,Promotion of Access to Information Act (PAIA),PAIA,adjacent,,Information Regulator (enforcer),,2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities
@@ -554,3 +634,7 @@ ZWE,"Cyber and Data Protection (Licensing of Data Controllers and Appointment of
 ZWE,Data Protection Authority (POTRAZ),Data Protection Authority,authority,,POTRAZ,,2024-09-13-zimbabwe-si-155-2024-licensing-data-controllers-dpo-regulations
 ZWE,Cyber and Data Protection Act [Chapter 12:07],Cyber and Data Protection Act (No. 5 of 2021),general,,Government of Zimbabwe; Minister responsible for ICT,national,2022-03-11-zimbabwe-cyber-and-data-protection-act-chapter-12-07
 ZWE,Postal and Telecommunications Regulatory Authority (POTRAZ),Data Protection Authority,authority,,"POTRAZ, established under the Postal and Telecommunications Act [Chapter 12:05]",national,2022-03-11-zimbabwe-cyber-and-data-protection-act-chapter-12-07
+ZWE,Cyber and Data Protection Act,Zimbabwe,general,,,,2025-07-01-zwe-potraz-certifies-700-data-protection-officers
+ZWE,POTRAZ,Zimbabwe,authority,,,,2025-07-01-zwe-potraz-certifies-700-data-protection-officers
+ZWE,Cyber and Data Protection Act,Zimbabwe,general,,,,2026-10-28-zwe-it-must-create-jobs-improve-services-minister
+ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),Zimbabwe,authority,,,4 licence tiers by number of data subjects,2024-11-09-zwe-misa-zimbabwe-analysis-and-position-on-new-data-regulations

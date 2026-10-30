@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,general,authority,qualifier,constituted,2025-11-15,ETH-002,ETH-012=provided;ETH-007=provided,
-ETH,general,standing,coverage,in-force,2026-10-18,ETH-001;ETH-009;ETH-010;ETH-011;ETH-014;ETH-015,ETH-006=enacted;ETH-008=tabled,
+ETH,general,authority,qualifier,constituted,2026-05-13,ETH-002;ETH-016,ETH-012=provided;ETH-007=provided,
+ETH,general,standing,coverage,in-force,2026-10-18,ETH-001;ETH-009;ETH-010;ETH-011;ETH-014;ETH-015;ETH-017;ETH-019,ETH-006=enacted;ETH-008=tabled,
 ETH,general,regulations,coverage,none,2025-11-15,ETH-003,,
-ETH,general,application,coverage,activity,2025-11,ETH-004,ETH-013=none,
+ETH,general,application,coverage,activity,2026-05-13,ETH-004;ETH-018,ETH-013=none,
 ETH,general,last12,qualifier,advancing,2025-11,ETH-005,,

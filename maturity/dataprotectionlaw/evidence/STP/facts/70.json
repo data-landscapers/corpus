@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-25-stp-conversa-aberta-com-os-tratadores-de-dados-pessoais",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The ANPDP's own post says the Agencia Nacional de Protecao de Dados Pessoais marked its seventh anniversary on 22 April 2025 with an open meeting with data controllers in Sao Tome, and that its inspectors carry out inspections.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "Agencia Nacional de Protecao de Dados Pessoais (ANPDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The ANPDP says in its post that it presented the legal mechanisms for personal data processing, especially video surveillance, and told controllers it will no longer issue authorisations with recommendations: controllers must comply with the law first.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "Agencia Nacional de Protecao de Dados Pessoais (ANPDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agencia Nacional de Protecao de Dados Pessoais (ANPDP)",
+   "country_label": "Sao Tome and Principe",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2024-11-01-ken-odpc-e-bulletin-8th-edition-data-bulletin-week-45-46",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Office of the Data Protection Commissioner under Data Commissioner Immaculate Kassait is operating, per its own bulletin.",
+   "as_of": "2024-11-19",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The ODPC marked five years of the Data Protection Act, 2019 at a 19 November 2024 conference, describing its implementation.",
+   "as_of": "2024-11-19",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The Data Commissioner stated the ODPC has issued 68 determinations, 68 enforcement notices and 11 penalty notices under the Act, a cumulative count with no stated year.",
+   "as_of": "2024-11-19",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2019",
+   "country_label": "Kenya",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

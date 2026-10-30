@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-05-som-minister-mohamed-soomaali-oversees-handover-ceremony-for-the-new-direc",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Ministry of Communications and Technology said a newly appointed Director-General took over the Data Protection Agency from an acting head on 5 December 2024.",
+   "as_of": "2024-12-05",
+   "date_precision": "day",
+   "system": "Data Protection Agency",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Agency",
+   "country_label": "Somalia",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

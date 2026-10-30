@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ACTPOL says Tunisia's Organic Law 2004-63 is enforced by its national authority, the INPDP.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Organic Law 2004-63",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "ACTPOL says the INPDP enforces Organic Law 2004-63.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "INPDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "no-change",
+   "fact": "ACTPOL says a GDPR-modelled draft law introduced in Tunisia's Parliament in March 2018 has not been passed.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Draft data protection law",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

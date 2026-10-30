@@ -1,0 +1,27 @@
+{
+ "slug": "2024-04-26-zmb-data-protection-compliance-insights-into-the-revised-enforcement-roadm",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "MMLP states that Zambia enacted the Data Protection Act, 2021 in 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Data Protection Act, 2021",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Commissioner, the Act's regulatory authority, set an enforcement roadmap on 31 October 2023 and revised it by April 2024, according to MMLP.",
+   "as_of": "2024-04-26",
+   "date_precision": "day",
+   "system": "Data Protection Commissioner",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "The roadmap's registration, training and audits are scheduled from May 2024 and are not yet activity."
+}

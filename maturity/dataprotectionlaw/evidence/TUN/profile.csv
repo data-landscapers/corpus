@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TUN,general,authority,qualifier,constituted,2021-04-16,TUN-014,TUN-010=provided;TUN-013=provided,
-TUN,general,standing,coverage,in-force,2026-10-07,TUN-001;TUN-012;TUN-015;TUN-017;TUN-018;TUN-019,TUN-020=tabled;TUN-003=tabled;TUN-005=tabled;TUN-006=tabled;TUN-008=tabled;TUN-016=tabled;TUN-009=tabled,
-TUN,general,regulations,coverage,,,,,nothing held
+TUN,general,authority,qualifier,constituted,2026-09-25,TUN-014;TUN-022,TUN-010=provided;TUN-013=provided,
+TUN,general,standing,coverage,in-force,2026-10-07,TUN-001;TUN-012;TUN-015;TUN-017;TUN-018;TUN-019;TUN-021,TUN-020=tabled;TUN-003=tabled;TUN-005=tabled;TUN-006=tabled;TUN-008=tabled;TUN-016=tabled;TUN-009=tabled,
+TUN,general,regulations,coverage,,,,,nothing found
 TUN,general,application,coverage,none,2026-10-03,TUN-002,,
-TUN,general,last12,qualifier,advancing,2026-02,TUN-004;TUN-007;TUN-011,,
+TUN,general,last12,qualifier,no-change,2026-09-25,TUN-023,TUN-004=advancing;TUN-011=advancing;TUN-007=advancing,

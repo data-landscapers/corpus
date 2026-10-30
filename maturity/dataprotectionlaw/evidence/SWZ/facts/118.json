@@ -1,0 +1,54 @@
+{
+ "slug": "2025-01-01-swz-general-notice-no-8-2025-notice-of-non-compliance-enforcement-actions",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Act designates the Eswatini Communications Commission as the EDPA, which issued notices and runs the data protection register.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "EDPA",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "General Notice 8/2025 says the Data Protection Act, passed in March 2022, requires registration and that processing without it is a violation of the law.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Act 2022",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The EDPA says over 445 organisations have registered, and that formal enforcement against unregistered entities starts on 1 September 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Act 2022",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 2022",
+   "country_label": "Eswatini",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EDPA (Eswatini Communications Commission)",
+   "country_label": "Eswatini",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

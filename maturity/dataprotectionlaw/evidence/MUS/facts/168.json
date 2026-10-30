@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-16-mus-des-prochains-amendements-au-data-protection-act-2017",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Council of Ministers validated amendments aimed at the Data Protection Commissioner's powers and the Data Protection Office's finances, so both bodies exist.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "Data Protection Office",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Council of Ministers validated amendments to the existing Data Protection Act 2017, per maurice-info.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "Data Protection Act 2017",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 2017",
+   "country_label": "Mauritius",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection Office",
+   "country_label": "Mauritius",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

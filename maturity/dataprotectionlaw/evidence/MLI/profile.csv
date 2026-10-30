@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,general,authority,qualifier,constituted,2026-10-23,MLI-001;MLI-003;MLI-006;MLI-007;MLI-009;MLI-015;MLI-019;MLI-022;MLI-026;MLI-029,MLI-017=provided,
-MLI,general,standing,coverage,in-force,2026-10-23,MLI-002;MLI-010;MLI-014;MLI-020;MLI-023;MLI-025;MLI-027;MLI-028,MLI-016=enacted,
+MLI,general,authority,qualifier,constituted,2026-10-23,MLI-001;MLI-003;MLI-006;MLI-007;MLI-009;MLI-015;MLI-019;MLI-022;MLI-026;MLI-029;MLI-030;MLI-032;MLI-036;MLI-038,MLI-017=provided,
+MLI,general,standing,coverage,in-force,2026-10-23,MLI-002;MLI-010;MLI-014;MLI-020;MLI-023;MLI-025;MLI-027;MLI-028;MLI-033;MLI-035;MLI-039,MLI-016=enacted,
 MLI,general,regulations,coverage,issued,2024-05-14,MLI-024,,
-MLI,general,application,coverage,reported,2025,MLI-005;MLI-012,MLI-004=activity;MLI-011=applied;MLI-018=applied;MLI-021=applied,
+MLI,general,application,coverage,reported,2025,MLI-005;MLI-012,MLI-004=activity;MLI-011=applied;MLI-018=applied;MLI-034=activity;MLI-021=applied;MLI-037=applied;MLI-031=activity;MLI-040=activity,
 MLI,general,last12,qualifier,advancing,2025-12-04,MLI-008;MLI-013,,

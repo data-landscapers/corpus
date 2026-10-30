@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-17-moz-mocambique-tera-uma-autoridade-de-proteccao-de-dados-pessoais",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "Carta de Mocambique reports that a 59-article Data Protection Law proposal, which creates a national data protection authority (ANPD), is to go to debate in Parliament within days.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Proposta de Lei de Protecção de Dados",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

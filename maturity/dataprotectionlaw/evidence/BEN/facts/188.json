@@ -1,0 +1,37 @@
+{
+ "slug": "2024-05-07-ben-interview-avec-me-luciano-hounkponou-president-de-l-autorite-de-protec",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The APDP president describes the Digital Code (Law No. 2017-20 of 20 April 2018, amended by Law No. 2020-35 of 6 January 2021) as the law under which the authority receives declarations, handles complaints and requires compliance.",
+   "as_of": "2024-05-07",
+   "date_precision": "day",
+   "system": "Digital Code, Book V (Law No. 2017-20)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APDP president says the authority has eight members who elect a Bureau of a president and a rapporteur.",
+   "as_of": "2024-05-07",
+   "date_precision": "day",
+   "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The APDP president says the authority handles compliance files, trains controllers and data protection delegates yearly since 2021 and takes complaints, without naming a decision on any organisation.",
+   "as_of": "2024-05-07",
+   "date_precision": "day",
+   "system": "Digital Code, Book V (Law No. 2017-20)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

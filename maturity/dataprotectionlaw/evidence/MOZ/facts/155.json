@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-28-moz-intic-acompanha-avancos-da-rede-africana-de-autoridades-de-proteccao-d",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "tabled",
+   "fact": "INTIC says Mozambique's data protection bill, approved by the Council of Ministers this year, is under review in the Assembleia da República in the final stage of the legislative process.",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "Proposta de Lei de Protecção de Dados",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Proposta de Lei de Protecção de Dados",
+   "country_label": "Mozambique",
+   "class": "general",
+   "platform": "",
+   "owner": "Assembleia da República",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

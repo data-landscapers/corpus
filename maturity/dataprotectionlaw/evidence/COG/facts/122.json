@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "ACTPOL says Congo created its data protection commission by Law No. 5-2025 of 29 March 2025 and found no evidence its members have been appointed.",
+   "as_of": "2025-03-29",
+   "date_precision": "day",
+   "system": "Commission nationale pour la protection des données à caractère personnel",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

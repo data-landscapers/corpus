@@ -1,6 +1,20 @@
 {
   "iso3": "ZWE",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "issued", "application": "activity", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "ZWE-014;ZWE-019;ZWE-023;ZWE-028", "gaps": "No named and dated sanction, order or decision on a controller, and no count of decisions for a stated period; ZWE-021 (2026-05-14) says administrative sanctions are not yet in place and ZWE-025, ZWE-030 and ZWE-032 report none.", "note": "Standing is in-force and regulations are issued, but every application fact (licences, training, notices, announced inspections from 1 September 2026) is activity, so stage 4 is not reached. ZWE-026's 721 licences is a count of licences, not of decisions, and amendments to SI 155 on fines (ZWE-001) concern the regulations, not the Act, so no under revision flag."}
+    {
+      "sub_indicator": "general",
+      "stage": "4",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "issued",
+      "application": "applied",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ZWE-014;ZWE-019;ZWE-023;ZWE-069",
+      "gaps": "No count for a stated year: POTRAZ's 15 complaints resolved (ZWE-069) is a running total to October 2025. No named sanction; ZWE-021 (2026-05-14) says administrative sanctions are not yet in place.",
+      "note": "Standing is in-force, regulations are issued, and POTRAZ reports 15 complaints investigated and resolved by October 2025 (ZWE-069), a count without its year and so applied, dated within three years: stage 4. Not 5: no reported count for a stated year.",
+      "as_at": "2026-10-30"
+    }
   ]
 }

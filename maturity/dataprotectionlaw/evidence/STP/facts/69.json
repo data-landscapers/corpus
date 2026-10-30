@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-28-stp-agencia-nacional-de-protecao-de-dados-destaca-progressos-e-alerta-para",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "ANPDP director José Costa Alegre gave a press briefing on the agency's activities and its monitoring of public and private entities' compliance with data protection law.",
+   "as_of": "2026-01-28",
+   "date_precision": "day",
+   "system": "Agência Nacional de Proteção de Dados Pessoais (ANPDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANPDP",
+   "country_label": "São Tomé e Príncipe",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-30-cmr-du-regime-de-l-autorisation-inoperant-au-regime-de-l-accountability-ir",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The Village Justice article says the authority the law of 23 December 2024 provides for did not yet exist.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Autorité de protection des données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The law of 23 December 2024 gave an 18-month grace period that the article says expired on 24 June 2026.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Loi du 23 décembre 2024",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi du 23 décembre 2024",
+   "country_label": "Cameroon",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Autorité de protection des données à caractère personnel",
+   "country_label": "Cameroon",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
