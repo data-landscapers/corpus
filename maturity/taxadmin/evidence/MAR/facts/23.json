@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-hespress-publicite-meta-applique-tva-maroc-octobre",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Hespress reports that the Direction generale des impots launched in May 2026 the electronic platform \"Taxation on Digital Services\" for foreign providers of remote services, under decree 2.25.862 which sets how they register, declare their Moroccan turnover and pay VAT.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Taxation on Digital Services",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Taxation on Digital Services",
+   "country_label": "Morocco",
+   "class": "taxsystem",
+   "platform": "electronic platform",
+   "owner": "Direction Generale des Impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

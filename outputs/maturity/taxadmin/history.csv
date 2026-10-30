@@ -30,3 +30,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,AGO,dpi.mis--tax,fact,no evidence,2,AGO-001;AGO-002,"2025 budget funds AGT's SIGT/SIIAT project; CIAT says SIGT is meant to dematerialise filing and payment: under way, online filing not stated"
 2026-10-27,MDG,dpi.mis--tax,fact,2,4,MDG-002;MDG-003;MDG-004,Finance minister says SAFI and e-Hetra take returns and payments online; DGI says SAFI in production September 2025
 2026-10-29,GAB,dpi.mis--tax,fact,4,4,GAB-001;GAB-002,"DGI flyer: eTax into Gabon Connect, online salary declaration for 440 large firms from 21 Oct 2026; first filing not yet due, stays 4"
+2026-10-30,MAR,dpi.mis--tax,fact,4,5,MAR-007;MAR-006;MAR-002,"Decree 2.25.862 (Nov 2025) makes electronic VAT filing mandatory for non-resident digital suppliers; DGI platform opened May 2026 (MAR-006, MAR-007): online filing mandatory for some taxpayers"

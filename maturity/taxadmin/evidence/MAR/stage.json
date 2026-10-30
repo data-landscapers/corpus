@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "4",
+      "stage": "5",
       "filing": "inservice",
       "payment": "electronic",
-      "uptake": "",
+      "uptake": "most",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-002",
-      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MAR-007;MAR-006;MAR-002",
+      "gaps": "No share of returns filed online is held; the mandate found covers non-resident suppliers of digital services, and the 2017 mandate for all firms is older than three years.",
+      "note": "Decree 2.25.862 makes electronic VAT filing and payment mandatory for non-resident suppliers of digital services, and the DGI platform for it opened in May 2026. Online filing is mandatory for some taxpayers, which is the top rung.",
+      "as_at": "2026-10-30"
     }
   ]
 }

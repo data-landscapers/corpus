@@ -20,8 +20,8 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
-| 4 Operating | 18 |
+| 5 Leading | 5 |
+| 4 Operating | 17 |
 | 3 Established | 9 |
 | 2 Nascent | 11 |
 | 1 Absent | 0 |
@@ -41,6 +41,14 @@ Online filing was mandatory or used by most taxpayers in 2026.
 Online filing was mandatory or used by most taxpayers in 2026.
 
 - The Mauritius Revenue Authority says all VAT returns from foreign digital-service suppliers must be submitted electronically through its systems ([source, 2026-01-01](https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
+
+### Morocco: 5 Leading
+
+Since 2026 foreign digital suppliers must file and pay VAT online, and other taxpayers can too; the share filed online is not known.
+
+- Decree 2.25.862 of 27 November 2025 requires non-resident suppliers of remote digital services to register on the tax administration's electronic platform, file VAT returns electronically each quarter and pay electronically, entering into force six months after publication ([source, 2025-11-27](https://ecoactu.ma/wp-content/uploads/2025/12/decret-pour-la-TVA-sur-les-services-a-distance-au-Maroc-fournis-par-des-prestataires-non-residents-Art-115-Bis-du-CGI.pdf)).
+- Hespress reports that the Direction generale des impots launched in May 2026 the electronic platform "Taxation on Digital Services" for foreign providers of remote services, under decree 2.25.862 which sets how they register, declare their Moroccan turnover and pay VAT ([source, 2026-05](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)).
+- The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel ([source, 2024-09](https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl)).
 
 ### Senegal: 5 Leading
 
@@ -140,12 +148,6 @@ Taxes could be filed online and paid electronically in 2025; no source found rep
 Taxes could be filed online and paid electronically in 2026; no source found reports mandatory or majority online filing.
 
 - The Direction Générale des Impôts says its STT system lets taxpayers pay their taxes online and add their means of payment ([source, 2026-09-16](https://impots.gov.mr/DGI/teleservices.html)).
-
-### Morocco: 4 Operating
-
-Taxes could be filed online and paid electronically in 2024; no source found reports mandatory or majority online filing.
-
-- The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel ([source, 2024-09](https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl)).
 
 ### Nigeria: 4 Operating
 
