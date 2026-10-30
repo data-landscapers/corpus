@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: CPV
-ledger_rows: 21
-not_held: 26
-record: 7df7217c24fc
+ledger_rows: 22
+not_held: 24
+record: 95b1dd6936f3
 ---
 
 # News, Sep – Oct 2026
@@ -20,6 +20,8 @@ record: 7df7217c24fc
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -291,6 +293,28 @@ Cabo Verde's project coordination centre (CCIP) invited consultancy firms on 4 S
 **[Justica digital ja poupa 2,3 milhoes de folhas de papel](https://expressodasilhas.cv/pais/2026/09/17/justica-digital-ja-poupa-23-milhoes-de-folhas-de-papel/104656)** — Expresso das Ilhas, 17 September 2026
 
 A second evaluation of Cabo Verde's justice information system reports 46,000 criminal case files handled digitally across all 17 comarcas and an estimated 2.3 million sheets of paper saved over the 2025/2026 judicial year. It records 95.5 per cent of respondents using the system daily or several times a week, 401 professionals holding qualified digital signatures and 110 judges, prosecutors and court officers trained in artificial intelligence, with civil-process pilots awaiting authorisation.
+
+</div>
+
+</div>
+
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Municipal information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Municípios ganham novas ferramentas para arrecadar mais impostos](https://www.inforpress.cv/en/municipios-ganham-novas-ferramentas-para-arrecadar-mais-impostos)** — Inforpress, 28 October 2026
+
+Simpol in all 22 municipalities; to back new Property Tax Code collection from 2027; Praia, São Vicente top revenue.
 
 </div>
 
