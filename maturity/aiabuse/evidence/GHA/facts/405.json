@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-gha-bog-to-introduce-ai-directive-for-financial-sector",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Bank of Ghana is developing a directive to regulate the use of AI in the financial sector, to address emerging risks, Governor Johnson Asiama said.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Bank of Ghana AI directive for the financial sector",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank of Ghana AI directive for the financial sector",
+   "country_label": "Ghana",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
