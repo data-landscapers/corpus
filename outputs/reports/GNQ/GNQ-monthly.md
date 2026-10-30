@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: GNQ
-ledger_rows: 22
+ledger_rows: 24
 not_held: 6
-record: 2c6d71172a15
+record: 0a423367e08b
 ---
 
 # News, Sep – Oct 2026
@@ -238,6 +238,28 @@ Equatorial Guinea's Vice-President Teodoro Nguema Obiang Mangue told the finance
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Internet and communications blackout on Annobón</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Deliberately forgotten: internet shutdowns with no end](https://www.accessnow.org/indefinite-internet-shutdowns/)** — Access Now, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Indefinite shutdowns rising yearly; Tigray, Sudan, Annobón cited; calls on states, FOC, satellite providers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Annobón without internet: Access Now gathers testimonies and demands an end to the blackout](https://www.ambolegadu.com/en/annobon-sin-internet-access-now-reune-testimonios-y-reclama-el-fin-del-apagon/)** — Ambô Legadu, 27 October 2026
+
+Island cut off since July 2024, blamed on Obiang government; Access Now report of 20 Oct 2026 adds its testimonies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">TELGESA, the second state operator</p>
 
 <div class="bulletin-item" markdown="1">
@@ -337,6 +359,20 @@ An undated page from Equatorial Guinea's public-finance modernisation programme 
 **[El Gobierno pone en marcha el Boletín Oficial del Estado digital](https://www.guineaecuatorialpress.com/index.php/noticias/el_gobierno_pone_en_marcha_el_boletin_oficial_del_estado_digital)** — Guinea Ecuatorial Press (Oficina de Información y Prensa), 6 October 2026
 
 Equatorial Guinea's government announced a digital edition of its official gazette at boe.gob.gq, giving free online access to laws, decrees, ministerial orders and circulars with search of past publications.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online visa system operated with VFS Global</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Gobierno analiza el contrato de VFS Global para reforzar el sistema de visados en línea y potenciar la promoción turística](https://www.guineaecuatorialpress.com/noticias/el_gobierno_analiza_el_contrato_de_vfs_global_para_reforzar_el_sistema_de_visados_en_linea_y_potenciar_la_promocion_turistica)** — Guinea Ecuatorial Press, 29 October 2026
+
+Equatorial Guinea's vice-presidency reviewed the VFS Global e-visa contract before formalising it (reported 29 October 2026). About 35,127 e-visas have been processed since launch on 1 July 2023, against an expected 200,000 a year. VFS proposed automated applicant assistance and document data-extraction tools.
 
 </div>
 
