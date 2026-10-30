@@ -46,7 +46,7 @@ By February 2023, 169 of 184 councils had started using a centrally hosted billi
 
 ### Angola: 3 Established
 
-A finance ministry system recording municipal payers and fees was put in all 164 municipalities by 2021; no source found says how many record in it.
+A finance ministry system recording municipal payers and fees reached all 164 municipalities by 2021; no source found says how many use it.
 
 - The Portal do Munícipe holds the records and management of residents and their households and tracks the whole cycle of fees, licences and fines billed by local administrations; payment is by RUPE ([source, 2021-11-10](https://radionova.co.ao/ministerio-das-financas-lanca-portal-para-aumentar-nivel-de-arrecadacao-de-receitas-das-administracoes-locais/)).
 - The Ministry of Finance describes the Portal as a centralised technological solution, web-accessed, with revenue deposited in a Treasury sub-account (SUB-CUT) ([source, 2021-11-10](https://radionova.co.ao/ministerio-das-financas-lanca-portal-para-aumentar-nivel-de-arrecadacao-de-receitas-das-administracoes-locais/)).
@@ -85,7 +85,7 @@ One council outside the capital keeps a digital tax register, reported in 2024 a
 
 ### Ghana: 3 Established
 
-Some assemblies record payers and bills in a shared national system, nine of 260 using it in 2019; no source found says how many do now.
+Some assemblies record payers and bills in a shared national system, nine of 260 in 2019; no source found says how many do now.
 
 *Advancing.*
 
@@ -204,15 +204,18 @@ Twelve of 77 communes were selected in 2019 for cash-desk software that records 
 
 ### Cameroon: 2 Nascent
 
-A platform for traders to register and pay local tax was presented in 2023 for two councils; no source found says whether any council uses it.
+A platform for traders to register and pay local tax was presented for two councils in 2023; no source found says any council uses it.
 
 - AIMF reports that FEICOM presented Inform'All City on 21 March 2023, a platform on which informal traders register and pay their local tax, against a site the commune assigns them, so that councils collect remotely ([source, 2023-03-21](https://www.aimf.asso.fr/actualite/au-cameroun-une-plateforme-numerique-pour-faciliter-la-collecte-des-taxes-aupres-des-commercants-informels/)).
 - AIMF reports that Inform'All City is to be deployed first in the councils of Yaoundé II and Douala III, the political and economic capitals, with no wider count given ([source, 2023-03-21](https://www.aimf.asso.fr/actualite/au-cameroun-une-plateforme-numerique-pour-faciliter-la-collecte-des-taxes-aupres-des-commercants-informels/)).
 
 ### Cape Verde: 2 Nascent
 
-Terms of reference for a municipal property tax module were issued in 2025; no source found says what municipalities record today.
+A new municipal system was rolled out to all 22 municipalities in October 2026; no source found says it records payments yet.
 
+*Advancing.*
+
+- Cabo Verde's Directorate-General for Decentralisation said Simpol would be applied from 2026-10-28 in all 22 municipalities to manage local finances and to prepare and collect the new property tax ([source, 2026-10-28](https://www.inforpress.cv/en/municipios-ganham-novas-ferramentas-para-arrecadar-mais-impostos)).
 - The finance ministry's special projects unit issued terms of reference for developing the Territory Management modules of SIMple, a planned successor to the municipal system, covering cadastre, property assessment and property tax collection; the document gives its own date as 2025 and no month ([source, 2025](https://www.mf.gov.cv/documents/20126/0/ToR_SIMple_Territory_Management.pdf/fe03f815-0452-ffd6-e948-2b00d5623dc3)).
 
 ### Central African Republic: 2 Nascent
@@ -260,7 +263,7 @@ Tools to track revenue and register taxpayers were being assessed with 20 decent
 
 ### Ethiopia: 2 Nascent
 
-A property tax platform was built for three pilot cities in 2016 and never fully implemented; no source found says whether any city still uses it.
+A property tax platform built for three pilot cities in 2016 was never fully implemented; no source found says any city still uses it.
 
 *Register survey.*
 
@@ -278,7 +281,7 @@ Libreville's mayor said in July 2026 the city runs its own digital revenue syste
 
 ### Guinea: 2 Nascent
 
-A revenue tool was presented in March 2025 for a pilot in communes of Conakry, Coyah and Kindia; no source found says whether the pilot began.
+A revenue tool was presented in March 2025 for a pilot in communes of Conakry, Coyah and Kindia; no source found says the pilot began.
 
 - A revenue-management digitalisation tool proven in Benin was presented on 25 March 2025 for a pilot in Conakry's 13 urban communes plus Coyah and Kindia; the article says the communes will experiment with it, so it is announced, not live ([source, 2025-03-25](https://guineematin.com/2025/03/25/guinee-vers-une-digitalisation-des-services-communaux-de-conakry-coyah-et-kindia/)).
 
@@ -335,7 +338,7 @@ Only Maputo's municipality is shown keeping a taxpayer register, on a 2020 asses
 
 ### Namibia: 2 Nascent
 
-The capital city billed water accounts to named customers in its own system in 2024; no source found says whether any other local authority records revenue.
+The capital billed water accounts to named customers in its own system in 2024; no source found says other local authorities record revenue.
 
 - The Namibian reports that the City of Windhoek bills water accounts for named customers in its Solar billing system, with payments and arrears recorded against each account; a February 2024 internal memo found accounts imported from the financial system with wrong customer information, and a payment history missing from one account ([source, 2024-02](https://www.namibian.com.na/city-in-water-billing-system-cover-up/)).
 - The Namibian reports the City of Windhoek's billing system Solar runs on the city's own servers, with the vendor BCX supplying the financial management software; no reporting to a national system is stated ([source, 2024-02](https://www.namibian.com.na/city-in-water-billing-system-cover-up/)).
@@ -352,7 +355,7 @@ More than 20 communes were equipped with a vendor's municipal software by Novemb
 
 ### Sierra Leone: 2 Nascent
 
-Three of 22 local councils had a property tax system by December 2025, with billing shown only in the capital; no source found reports use elsewhere.
+Three of 22 councils had a property tax system by December 2025, billing only in the capital; no source found reports wider use.
 
 *Register survey; Advancing.*
 
@@ -411,19 +414,19 @@ Not established: The one row is an audit of 22 communes over 2014-2018 finding n
 
 ### Djibouti: Unplaced
 
-In 2020 local authorities could not levy taxes and none collected its own; no source found says how records are kept, so no stage is set.
+In 2020 local authorities could not levy taxes; no source found says how records are kept, so no stage is set.
 
 Not established: The two rows, on 2020 fiscal data, say local authorities are not empowered to levy taxes and none of the nine collects its own; that is no revenue to record, not a dated statement that records are kept on paper, and no system is said to be prepared. Nothing is dated since 2020, and no system is listed.
 
 ### Botswana: No evidence
 
-One city council has an online rates payment channel (2024); no source found says whether any council keeps a digital record, so no stage is set.
+One city council takes rates payments online (2024); no source found says any council keeps a digital record, so no stage is set.
 
 Not established: No evidence row has been found on local government revenue records. What is held instead is the national tax system of the Botswana Unified Revenue Service (Lekgetho Live), which systems.csv does not say collects any council revenue, and PayRates, an online property-rates payment platform for Gaborone City Council classed as a web service. Whether any council keeps a digital revenue register or receipt record is not established.
 
 ### Burkina Faso: No evidence
 
-State tax services run tax billing and collection (2021); no source found says whether any collectivité territoriale keeps a digital record, so no stage is set.
+State tax services run tax billing and collection (2021); no source found says any local authority keeps a digital record, so no stage is set.
 
 *Centrally collected.*
 
@@ -469,13 +472,13 @@ Not established: No evidence row has been found on local government revenue reco
 
 ### Mauritius: No evidence
 
-Permit and document systems run in local authorities (2024); no source found says whether any council keeps a digital revenue record, so no stage is set.
+Local authorities run permit and document systems (2024); no source found says any council keeps a digital revenue record, so no stage is set.
 
 Not established: No evidence row has been found on local government revenue records. What is held instead is the Mauritius Revenue Authority's national Tax Payer Portal, a central system not stated as collecting any council revenue; the National Electronic Licensing System for permits through the local authorities; I-Council, a document and project system in 12 local authorities; and a cashier system of the Judiciary. Whether any council keeps a digital revenue register or receipt record is not established.
 
 ### Rwanda: No evidence
 
-The national revenue authority collects for the districts and keeps their tax register (2024); no source found reports districts' own records, so no stage is set.
+The revenue authority collects for districts and keeps their tax register (2024); no source found reports districts' own records, so no stage is set.
 
 *Centrally collected.*
 

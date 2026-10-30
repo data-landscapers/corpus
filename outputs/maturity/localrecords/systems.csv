@@ -94,6 +94,7 @@ CPV,SIMple,"SIMple (Sistema de Informação Municipal, update of SIM)",accounts,
 CPV,SIMple,SIMple (update of SIM),,,"Ministry of Territorial Cohesion, NOSi, UGPE",municipal councils,2025-02-01-cpv-encontro-de-trabalho-no-ambito-da-implementacao-do-projeto-simple
 CPV,SIM 2.0,SIM 2.0,accounts,,municipalities,every municipality,2024-04-01-cpv-terms-of-reference-technical-assistance-for-the-development-and-implem
 CPV,SIMple administrative and financial modules,SIMple,accounts,IGRPweb on Kubernetes; NOSi hosts,UGPE (Ministry of Finance) with NOSi,all town halls,2024-04-01-cpv-terms-of-reference-technical-assistance-for-the-development-and-implem
+CPV,Sistema de Informação Municipal (Simpol),Cabo Verde,revenue,,"Ministry of State Reform, Local Power and Decentralisation",,2026-10-28-cpv-municipios-ganham-novas-ferramentas-para-arrecadar-mais-impostos
 DZA,Jibayatic,Jibayatic,central,,"General Directorate of Taxes (DGI), Ministry of Finance",national tax centres and inspectorates; online filing and payment of taxes from electronic declarations,2026-08-05-algeria-dgi-jibayatic-electronic-tax-payment-guide
 DZA,Posty Mob,Posty Mob,web,mobile application,Algérie Poste,"national; utility bill payment, with municipal tax payment stated as slated for digital integration by end 2025",2025-07-16-algeria-post-sonelgaz-digital-payments--techreviewafrica
 DZA,Djibayatic,Djibayatic,central,,national tax administration,tax structures nationwide; online declarations and payments,2025-03-11-digital-tax-data-integration--wearetech
@@ -452,6 +453,7 @@ TZA,GoTHOMIS,Government of Tanzania Health Operations Management Information Sys
 TZA,MUSE,Government Expenditure Management System,accounts,,,,2023-06-05-tza-how-usaid-ps3-project-increased-efficiency-in-govt-systems
 TZA,PlanRep,Planning and Reporting System,accounts,,PO-RALG,"local government to ward, village and street levels",2023-06-05-tza-how-usaid-ps3-project-increased-efficiency-in-govt-systems
 TZA,LGRCIS,Local Government Revenue Collection and Information System,revenue,,PO-RALG with participating LGAs,"8 project cities, then reported scaled to 185 mainland LGAs",2021-10-22-tza-implementation-completion-report-icr-review-tz-strategic-cities-projec
+TZA,digital property-tax and vehicle-parking revenue systems,Ilemela,revenue,,,,2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do
 UGA,Instant TIN,Instant TIN,central,,Uganda Revenue Authority,national taxpayer registration linked to NIRA and URSB,2025-11-28-enhancing-taxpayer-registration-data-sharing-uganda
 UGA,EFRIS,Electronic Fiscal Receipting and Invoicing Solution,central,,Uganda Revenue Authority,national; since January 2021,2026-09-14-uga-eagle-ura-data-driven-tax-compliance-strategy
 UGA,TIN system (URA),Taxpayer Identification Number system,central,,Uganda Revenue Authority,national,2026-09-07-nilepost-ura-nin-replace-tin

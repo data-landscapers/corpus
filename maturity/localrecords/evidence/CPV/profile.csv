@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CPV,revenue,governance,qualifier,owner:ministry;finance:donor,2025,CPV-001;CPV-002,,not stated: plan
-CPV,revenue,recorded,coverage,,,,,nothing held
-CPV,revenue,held,coverage,,,,,nothing held
-CPV,revenue,last12,qualifier,,,,,nothing held
-CPV,revenue,authorities,coverage,,,,,nothing held
+CPV,revenue,governance,qualifier,owner:ministry;finance:donor,2026-10-28,CPV-002;CPV-005,CPV-001=owner:ministry,not stated: plan
+CPV,revenue,recorded,coverage,,,,,nothing found
+CPV,revenue,held,coverage,,,,,nothing found
+CPV,revenue,last12,qualifier,advancing,2026-10-28,CPV-003,,
+CPV,revenue,authorities,coverage,equipped:100%,2026-10-28,CPV-004,,

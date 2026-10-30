@@ -7,13 +7,14 @@
       "governance": "owner:ministry;finance:donor",
       "recorded": "",
       "held": "",
-      "last12": "",
-      "authorities": "",
+      "last12": "advancing",
+      "authorities": "equipped:100%",
       "cap": "",
-      "flags": "",
-      "stage_sources": "CPV-001",
-      "gaps": "No coverage fact has been found: what is recorded, where it is held and how many municipalities record are not established. The only rows are governance rows on terms of reference for planned property-tax modules of SIMple; the municipal system in use (SIM 2.0) is classed accounts and places nothing.",
-      "note": "Terms of reference issued in 2025 for a property-tax collection module are a system being prepared, which is stage 2. Nothing is piloted or live, so stage 3 is not met."
+      "flags": "advancing",
+      "stage_sources": "CPV-003;CPV-001",
+      "gaps": "No source says Simpol, launched in all 22 municipalities on 28 October 2026, records payers or payments yet; it is to back property tax collection from 2027. What is recorded and where it is held are not established.",
+      "note": "Simpol was presented to municipal staff and set to apply in all 22 municipalities from 28 October 2026, which is a system being rolled out, not yet shown recording revenue, so stage 2. Stage 3 needs a register or receipts live in some municipalities.",
+      "as_at": "2026-10-30"
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-28-cpv-municipios-ganham-novas-ferramentas-para-arrecadar-mais-impostos",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "Cabo Verde's Directorate-General for Decentralisation said Simpol would be applied from 2026-10-28 in all 22 municipalities to manage local finances and to prepare and collect the new property tax.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Sistema de Informação Municipal (Simpol)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "equipped:100%",
+   "fact": "Municipal staff were trained on Simpol at a two-day event and the Directorate-General said it would be applied in all 22 municipalities.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Sistema de Informação Municipal (Simpol)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Ministry of State Reform, Local Power and Decentralisation, through its Directorate-General for Decentralisation, is introducing Simpol to the municipalities.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Sistema de Informação Municipal (Simpol)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema de Informação Municipal (Simpol)",
+   "country_label": "Cabo Verde",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of State Reform, Local Power and Decentralisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
