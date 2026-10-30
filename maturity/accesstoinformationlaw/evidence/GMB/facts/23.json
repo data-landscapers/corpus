@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-29-gmb-information-commissioner-ya-amie-touray-profile",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The Information Commission of The Gambia's own profile page lists Ya Amie Touray as an Information Commissioner appointed 2025-09-29.",
+   "as_of": "2025-09-29",
+   "date_precision": "day",
+   "system": "Information Commission of The Gambia",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Commission of The Gambia",
+   "country_label": "The Gambia",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

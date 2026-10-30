@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-02-zaf-information-regulator-issues-enforcement-notices-for-the-contravention",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Information Regulator enforced the Promotion of Access to Information Act 2 of 2000 against Sibanye Stillwater.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "Promotion of Access to Information Act 2 of 2000",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "applied",
+   "fact": "The Information Regulator's enforcement notice of 22 May 2026 ordered Sibanye Stillwater to set aside its refusal of access to records requested under PAIA.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "Promotion of Access to Information Act 2 of 2000",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

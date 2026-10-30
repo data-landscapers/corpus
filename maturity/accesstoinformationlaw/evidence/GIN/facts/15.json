@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-14-gin-decret-fixant-les-conditions-de-securite-d-integrite-de-securisation-e",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Decree D/2025/053 of 14 April 2025 cites Law L/2020/027/AN of 19 December 2020 on the right of access to public information among the laws it is made under.",
+   "as_of": "2020-12-19",
+   "date_precision": "day",
+   "system": "Loi L/2020/027/AN portant Droit d'Accès à l'Information Publique",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

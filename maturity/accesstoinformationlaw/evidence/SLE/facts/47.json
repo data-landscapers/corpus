@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-07-sle-minister-chernor-bah-unveils-plan-to-merge-access-to-information-and-d",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "Minister Chernor Bah described the Right to Access Information Commission as one of the most-performing national oversight bodies on access to information in Africa.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "Right to Access Information Commission",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Right to Access Information Commission",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
