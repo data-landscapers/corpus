@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-tza-jamii-x-change",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Jamii X-Change",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": "A data exchange platform; no interoperability framework stated."
+}

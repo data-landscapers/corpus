@@ -63,6 +63,7 @@ COD,Africa Congo Internet Exchange (ACIX),ACIX,other,DE-CIX,"Internet pour Tous,
 COD,Fichier général de la population,Fichier général de la population,other,,ONIP,national,2026-02-19-ceni-transmet-fichier-electoral-onip-actualite
 COD,Biometric civil service registry (ENCORE),ENCORE,other,,Ministry of Civil Service and COREF,national,2025-07-21-dr-congo-public-service-waste-biometric-id-registry-biometricupdate
 COD,DRCPass,DRCPass,other,,,,2025-07-21-dr-congo-public-service-waste-biometric-id-registry-biometricupdate
+COD,Enterprise architecture and interoperability framework for government services (to be designed),Democratic Republic of Congo,other,,"Ministry of Post, Telecommunications and Digital Affairs",,2026-10-28-democratic-republic-of-congo-seeks-consultancy-for-500-million-digital-prog
 COG,Architecture Numérique Nationale,Architecture Numérique Nationale (DPI),framework,,"Ministry of Posts, Telecommunications and Digital Economy",public and private information systems,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,plateforme d'échange de données entre les administrations,inter-administration data exchange platform,other,,"Ministry of Posts, Telecommunications and Digital Economy",national administrations,2026-07-28-cg-feuille-de-route-numerique-tribune
 COG,Fouta,Fouta (switch monétique national),other,,"Ministère des Finances, du Budget et du Portefeuille public","national (taxpayers, Treasury, tax and customs administrations)",2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
@@ -421,6 +422,7 @@ TZA,e-Government Interoperability Framework (e-GIF),"e-GIF, eGA/EXT/GIF/001",fra
 TZA,Government Enterprise Service Bus (GovESB),Mfumo Mkuu wa Ubadilishanaji Taarifa Serikalini,other,,e-Government Authority (e-GA),public institutions,2026-06-23-gsd-ngao-launch
 TZA,Government Service Directory (GSD),Dawati la Huduma za Serikali,other,,President's Office - Public Service Management (UTUMISHI),over 500 public institutions have entered their services,2026-06-23-gsd-ngao-launch
 TZA,NGAO,NGAO,other,,,government systems,2026-06-23-gsd-ngao-launch
+TZA,Jamii X-Change,Tanzania,other,,NIDA,,2025-01-01-tza-jamii-x-change
 UGA,e-Government Interoperability Framework (e-GIF),e-GIF,framework,,NITA-U,government systems across sectors,2026-05-27-ega-uganda-renewed-digital-government-frameworks
 UGA,Government Enterprise Architecture (GEA),GEA,other,,NITA-U,government sectors,2026-05-27-ega-uganda-renewed-digital-government-frameworks
 UGA,e-Government Interoperability Framework (e-GIF),Government Interoperability Framework,framework,,NITA-U,"ministries, departments, agencies and local government",2026-02-18-ega-uganda-launches-renewal-gea-egif
