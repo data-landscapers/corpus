@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: KEN
-ledger_rows: 158
-not_held: 7
-record: bef0776e1b59
+ledger_rows: 160
+not_held: 6
+record: e6a0e8f33acd
 ---
 
 # News, Sep – Oct 2026
@@ -2064,6 +2064,14 @@ Importers, exporters and logistics firms welcomed the Kenya Revenue Authority's 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[KRA Rolls-Out Multi-Vendor Electronic Cargo Seal Framework to Enhance Trade Efficiency](https://www.kra.go.ke/news-center/press-release/2405-kra-rolls-out-multi-vendor-electronic-cargo-seal-framework-to-enhance-trade-efficiency)** — Kenya Revenue Authority, 27 October 2026
+
+Replaces single-vendor e-seal model held since 2017; all seals linked to EAC RECTS cargo tracking.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -2217,6 +2225,34 @@ Kenya's Konza Technopolis Development Authority has put live a Digital Telematic
 **[Kenya and Germany Advance Digital Transformation Partnership Through DTC II](https://techafricanews.com/2026/10/27/kenya-germany-digital-transformation-dtc-ii/)** — TechAfrica News, 27 October 2026
 
 Kenya's State Department for ICT and the Digital Economy and GIZ worked on finalising the implementation agreements for the Digital Transformation Centre II programme, after feedback from National Treasury. Tax exemptions for the programme remain unresolved.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic tax invoices issued through M-Pesa under eTIMS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[KRA eyes M-Pesa invoices for small and micro traders](https://www.businessdailyafrica.com/bd/economy/kra-eyes-m-pesa-invoices-for-small-and-micro-traders-5650014)** — Business Daily Africa, 28 October 2026
+
+Safaricom would issue eTIMS tax invoices for micro traders paid via M-Pesa tills and paybills; talks only.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public Finance Management (e-Citizen) Regulations 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[National Treasury pushes new regulations, plan to run e-Citizen](https://www.tnx.africa/national/article/2001560974/national-treasury-pushes-new-regulations-plan-to-run-e-citizen)** — TNX Africa, 28 October 2026
+
+Delegated Legislation committee approved eCitizen regulations; Treasury to split revenue role from services.
 
 </div>
 
