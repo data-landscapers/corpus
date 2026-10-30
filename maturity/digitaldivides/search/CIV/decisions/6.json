@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "A survey by the Institut national de la statistique, presented on 23 April 2024, found 50% of Ivorians with internet access, 65.7% in towns and 29.4% in rural areas.",
+ "title": "Institut national de la statistique : Une enquête démontre une forte amélioration de l'utilisation des Tic par les ménages et entreprises en Côte d'Ivoire",
+ "publisher": "Fraternité Matin",
+ "published": "2024-05-17",
+ "date_source": "source",
+ "why_not": ""
+}

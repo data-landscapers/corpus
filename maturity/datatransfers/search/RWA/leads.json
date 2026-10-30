@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.theigc.org/sites/default/files/2025-08/Ferracane-Rogaler-Final-Report-August-2025_0.pdf",
+  "title": "Digital trade: An assessment of regulations and practices in Rwanda and Uganda",
+  "publisher": "IGC",
+  "published": "2025-08",
+  "sub_indicator": "rule",
+  "why": "Q1,Q2,Q4: Art 48 conditions, NCSA authorisation in practice"
+ },
+ {
+  "url": "https://dpo.gov.rw/fileadmin/DPO/ComplianceTools/-_Standard_Contractual_Clauses_for_Transfer_Personal_Data_Outside_Rwanda_.pdf",
+  "title": "Standard Contractual Clauses for Personal Data Transfer Outside Rwanda",
+  "publisher": "NCSA Data Protection and Privacy Office",
+  "published": "2024-02",
+  "sub_indicator": "rule",
+  "why": "Q3: model contract terms published Feb 2024"
+ },
+ {
+  "url": "https://dpo.gov.rw/fileadmin/DPO/Services/application-form-for-external-transfer-authorization.pdf",
+  "title": "Application Form: Authorization to Transfer Personal Data Outside Rwanda",
+  "publisher": "NCSA Data Protection and Privacy Office",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3: application procedure for permission"
+ },
+ {
+  "url": "https://dpo.gov.rw/services/authorization-to-transfer-outside-rwanda",
+  "title": "Authorization to Transfer Outside Rwanda",
+  "publisher": "NCSA Data Protection and Privacy Office",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3: authority service page"
+ },
+ {
+  "url": "https://dpo.gov.rw/dpp-law/sharing-transferstorage-and-retention-of-personal-data",
+  "title": "Sharing, transfer, storage and retention of personal data",
+  "publisher": "NCSA Data Protection and Privacy Office",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1-Q2: Art 48-49 rule"
+ },
+ {
+  "url": "https://rwandalii.org/akn/rw/act/law/2021/58/eng@2021-10-15",
+  "title": "Law relating to the Protection of Personal Data and Privacy",
+  "publisher": "RwandaLII",
+  "published": "2021-10-15",
+  "sub_indicator": "rule",
+  "why": "Q1-Q2: Art 48 transfer rule, commenced 15 Oct 2021"
+ },
+ {
+  "url": "https://digitalpolicyalert.org/change/12089-dpo-standard-contractual-clauses-for-personal-data-transfer-outside-rwanda-under-the-law-no-0582021-of-13102021-relating-to-the-protection-of-personal-data-and-privacy",
+  "title": "DPO Standard Contractual Clauses for Personal Data Transfer Outside Rwanda",
+  "publisher": "Digital Policy Alert",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3: SCCs issued 1 Feb 2024"
+ },
+ {
+  "url": "https://research.lawlab.africa/rwanda/",
+  "title": "Data Protection in Rwanda: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "2026-10",
+  "sub_indicator": "rule",
+  "why": "Q1-Q2: transfer routes Art 48-50"
+ }
+]

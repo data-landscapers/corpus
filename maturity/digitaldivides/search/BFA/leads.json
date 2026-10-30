@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.agenceecofin.com/telecom/3008-121145-le-burkina-faso-veut-couvrir-1-000-zones-blanches-en-trois-ans",
+  "title": "Le Burkina Faso veut couvrir 1 000 zones blanches en trois ans",
+  "publisher": "Agence Ecofin",
+  "published": "2024-08",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: FASU programme, 183 white zones connected in 2022"
+ },
+ {
+  "url": "https://www.piaafrica.com/fr/articles/news/le-burkina-faso-veut-couvrir-1-000-zones-blanches-en-trois-ans",
+  "title": "Le Burkina Faso veut couvrir 1 000 zones blanches en trois ans",
+  "publisher": "PIA Africa",
+  "published": "2024-08-30",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2 same story"
+ },
+ {
+  "url": "https://agefaumali.com/archives/visite-a-lautorite-de-regulation-des-communications-electroniques-et-des-postes-du-burkina-faso/",
+  "title": "Visite à l'ARCEP du Burkina Faso",
+  "publisher": "AGEFAU",
+  "published": "2024-07",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: universal service fund and white-zone project"
+ },
+ {
+  "url": "https://www.insd.bf/sites/default/files/2023-03/VOLUME%202_CARACTERISTIQUES%20DES%20MENAGES%20ET%20DE%20LA%20POPULATION%205E%20RGPH.pdf",
+  "title": "5e RGPH Volume 2: caractéristiques des ménages",
+  "publisher": "INSD",
+  "published": "2023",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4: household internet access rural 6.0% vs urban 28.3%"
+ },
+ {
+  "url": "https://www.insd.bf/sites/default/files/2024-10/EHCVM_2021_Rapport_General.pdf",
+  "title": "EHCVM 2021 Rapport général",
+  "publisher": "INSD",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: households connected to internet by milieu"
+ },
+ {
+  "url": "https://dhsprogram.com/pubs/pdf/FR378/FR378e.pdf",
+  "title": "Burkina Faso DHS 2021 Erratum",
+  "publisher": "DHS Program",
+  "published": "2023",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4: internet use urban 39.4 rural 15.2"
+ },
+ {
+  "url": "https://www.arcep.bf/communications-electroniques-un-conclave-pour-lamelioration-de-la-qualite-de-service/",
+  "title": "Conclave pour l'amélioration de la qualité de service",
+  "publisher": "ARCEP",
+  "published": "2024-10-08",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: backbone and coverage"
+ }
+]

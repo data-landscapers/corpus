@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://techfocus24.com/more-than-1600-rural-telephony-sites-reportedly-completed-1400-active-sam-george/",
+  "title": "More than 1,600 rural telephony sites reportedly completed, 1,400 active",
+  "publisher": "TechFocus24",
+  "published": "2026-10-21",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2 sites counted"
+ },
+ {
+  "url": "https://www.myjoyonline.com/rural-telephony-to-see-a-boost-in-connectivity/",
+  "title": "Rural telephony to see a boost in connectivity",
+  "publisher": "MyJoyOnline",
+  "published": "2026-10-18",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2"
+ },
+ {
+  "url": "https://www.newsghana.com.gh/mahama-reports-1144-live-sites-in-rural-connectivity-drive/",
+  "title": "Mahama Reports 1,144 Live Sites in Rural Connectivity Drive",
+  "publisher": "News Ghana",
+  "published": "2026-02-27",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2 sites counted"
+ },
+ {
+  "url": "https://ghanafact.com/fact-check-rashid-computer-understates-2025-allocation-for-rural-telephony-project/",
+  "title": "FACT-CHECK: Rashid-Computer understates 2025 allocation for rural telephony project",
+  "publisher": "Ghana Fact",
+  "published": "2025-08-05",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2 funding and towers"
+ },
+ {
+  "url": "https://gna.org.gh/2024/02/1010-rural-telephony-sites-completed-ursula-ekuful/",
+  "title": "1,010 rural telephony sites completed",
+  "publisher": "Ghana News Agency",
+  "published": "2024-02-19",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2 sites counted"
+ },
+ {
+  "url": "https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/Volume%203%20Highlights.pdf",
+  "title": "Population of Regions and Districts Report, Volume 3 Highlights",
+  "publisher": "Ghana Statistical Service",
+  "published": "",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4 rural vs urban ICT use"
+ },
+ {
+  "url": "https://blogs.worldbank.org/en/africacan/ten-facts-about-digital-technology-adoption-ghana",
+  "title": "Ten Facts About Digital Technology Adoption in Ghana",
+  "publisher": "World Bank",
+  "published": "2023-07-03",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4 rural vs urban internet uptake"
+ },
+ {
+  "url": "https://census2021.statsghana.gov.gh/newspage.php?Release-of-the=&readmorenews=MjUwNzE4NDkzNS43Njc1",
+  "title": "2021 Population and Housing Census release",
+  "publisher": "Ghana Statistical Service",
+  "published": "2023-04-28",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 internet non-use"
+ }
+]

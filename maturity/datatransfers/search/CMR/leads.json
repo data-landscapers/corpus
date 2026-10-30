@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.dlapiperdataprotection.com/?c=CM&t=transfer",
+  "title": "Transfer of personal data in Cameroon",
+  "publisher": "DLA Piper",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2 prior authorisation rule"
+ },
+ {
+  "url": "https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon",
+  "title": "Laws before regulators: Cameroon's missing authority",
+  "publisher": "ACTPOL",
+  "published": "2026-09-25",
+  "sub_indicator": "rule",
+  "why": "Q1-Q3 transfers need authorisation; authority absent"
+ },
+ {
+  "url": "https://www.prc.cm/en/multimedia/documents/10271-law-n-2024-017-of-23-12-2024-web",
+  "title": "Law No. 2024/017 on personal data protection",
+  "publisher": "Presidency of the Republic of Cameroon",
+  "published": "2024-12-23",
+  "sub_indicator": "rule",
+  "why": "Q1 art. 32 text"
+ },
+ {
+  "url": "https://research.lawlab.africa/cameroon/",
+  "title": "Data Protection in Cameroon: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1-Q4 art 32 and enforcement status"
+ },
+ {
+  "url": "https://www.techhiveadvisory.africa/insights/operationalising-cameroons-data-protection-law-a-review-of-key-provisions-and-impacts",
+  "title": "Operationalising Cameroon's Data Protection Law",
+  "publisher": "TechHive Advisory",
+  "published": "2025-02-04",
+  "sub_indicator": "rule",
+  "why": "Q1 art. 32; SCC and adequacy list to come"
+ },
+ {
+  "url": "https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/",
+  "title": "Key features of Cameroon's new data protection law",
+  "publisher": "African Law & Business",
+  "published": "2025-07-17",
+  "sub_indicator": "rule",
+  "why": "Q1 transfers must be authorised"
+ },
+ {
+  "url": "https://www.enonchongchambers.com/insights/cameroon-data-protection-law-2024-017/",
+  "title": "Cameroon Data Protection Law 2024/017",
+  "publisher": "Enonchong Chambers",
+  "published": "2026-09-03",
+  "sub_indicator": "rule",
+  "why": "Q2 conditions on transfers, in force"
+ },
+ {
+  "url": "https://www.village-justice.com/articles/cameroun-comprendre-questions-nouvelle-loi-sur-protection-des-donnees-caractere,52122.html",
+  "title": "Comprendre en 10 questions la nouvelle loi",
+  "publisher": "Village de la Justice",
+  "published": "2025-01-23",
+  "sub_indicator": "rule",
+  "why": "Q1 penalty for transfer without authorisation"
+ }
+]

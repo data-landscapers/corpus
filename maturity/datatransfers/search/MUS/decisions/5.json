@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "use",
+ "fact": "The DPO Portal User Guide of March 2026 describes an online e-form for transfer of personal data abroad, with application statuses including Approved and Rejected and a downloadable approval letter.",
+ "title": "User Guide, DPO Portal for the Data Protection Office (Version 8.1)",
+ "publisher": "Data Protection Office",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

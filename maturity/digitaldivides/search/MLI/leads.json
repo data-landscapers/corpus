@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.wearetech.africa/fr/fils/actualites/telecom/orange-mali-obtient-92-7-millions-de-la-sfi-et-de-la-boad-pour-etendre-son-reseau",
+  "title": "Orange Mali obtient 92,7 millions $ de la SFI et de la BOAD pour étendre son réseau",
+  "publisher": "We Are Tech",
+  "published": "2025-11-19",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: rural towers financing"
+ },
+ {
+  "url": "https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi",
+  "title": "IFC Invests in Orange Mali to Expand Digital Connectivity and Support Women's Digital Inclusion",
+  "publisher": "IFC",
+  "published": "2025-11-17",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: 300 towers, half rural"
+ },
+ {
+  "url": "https://www.ecofinagency.com/telecom/0905-46741-orange-and-intelsat-deliver-satellite-internet-to-over-360-000-in-rural-mali",
+  "title": "Orange and Intelsat Deliver Satellite Internet to Over 360,000 in Rural Mali",
+  "publisher": "Ecofin Agency",
+  "published": "2025-05-09",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: rural sites and people connected"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1703-126707-mali-72-millions-pour-ameliorer-lacces-aux-services-telecoms-en-2025",
+  "title": "Mali : 72 millions $ pour améliorer l'accès aux services télécoms en 2025",
+  "publisher": "Agence Ecofin",
+  "published": "2025-03-17",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: AGEFAU 2025 budget for coverage extension"
+ },
+ {
+  "url": "https://www.orbit.sn/fonds-dacces-universel-le-mali-veut-apprendre-du-burkina-faso/",
+  "title": "Fonds d'accès universel : le Mali veut apprendre du Burkina Faso",
+  "publisher": "Orbit SN",
+  "published": "2024-07-18",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: AGEFAU rural coverage solution"
+ },
+ {
+  "url": "https://amrtp-mali.com/wp-content/uploads/2025/11/AMRTP_Rapport_2024.pdf",
+  "title": "Rapport annuel 2024",
+  "publisher": "AMRTP",
+  "published": "2025",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: regulator annual report, universal access fund"
+ },
+ {
+  "url": "https://microdata.worldbank.org/index.php/catalog/8030",
+  "title": "Mali - Enquête Démographique et de Santé 2023-2024",
+  "publisher": "INSTAT / World Bank Microdata Library",
+  "published": "2025-10-28",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: household survey with urban/rural sample"
+ },
+ {
+  "url": "https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_MLI.pdf",
+  "title": "Digital Development Dashboard: Mali",
+  "publisher": "ITU",
+  "published": "2023",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: rural and urban household internet access"
+ }
+]

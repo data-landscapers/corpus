@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://techafricanews.com/2026/07/31/ethio-telecom-extends-digital-access-to-1-53-million-people-in-rural-ethiopia/",
+  "title": "Ethio Telecom Extends Digital Access to 1.53 Million People in Rural Ethiopia",
+  "publisher": "TechAfrica News",
+  "published": "2026-07-31",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: 195 rural sites, 492 kebeles"
+ },
+ {
+  "url": "https://www.ethiotelecom.et/ethio-telecom-2025-26-fiscal-year-first-half-year-business-performance-report/4/",
+  "title": "Ethio telecom 2025/26 Fiscal Year First Half-Year Business Performance Report",
+  "publisher": "Ethio telecom",
+  "published": "2026-01-29",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: 130 rural sites, 332 kebeles"
+ },
+ {
+  "url": "https://capitalethiopia.com/2026/03/10/new-regulation-approved-mandating-1-5-telecom-revenue-fee-to-bridge-ethiopias-rural-digital-divide/",
+  "title": "New regulation approved mandating 1.5% telecom revenue fee to bridge Ethiopia's rural digital divide",
+  "publisher": "Capital Ethiopia",
+  "published": "2026-03-10",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: Universal Access Fund Regulation 585/2026"
+ },
+ {
+  "url": "https://justice.gov.et/wp-content/uploads/2026/06/%E1%8B%B0%E1%8A%95%E1%89%A5-%E1%89%81%E1%8C%A5%E1%88%AD-585-2018.pdf",
+  "title": "Council of Ministers Regulation No. 585/2026 on the Universal Access Fund",
+  "publisher": "Federal Negarit Gazette",
+  "published": "2026-02-11",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: fund for rural and unserved areas"
+ },
+ {
+  "url": "https://www.telecomreviewafrica.com/articles/reports-and-coverage/13407-ethio-telecom-and-zte-expand-rural-connectivity-for-ethiopias-2025-digital-goals/",
+  "title": "Ethio telecom and ZTE Expand Rural Connectivity for Ethiopia's 2025 Digital Goals",
+  "publisher": "Telecom Review Africa",
+  "published": "2025-11-25",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: 152 rural base stations"
+ },
+ {
+  "url": "https://researchictafrica.net/research/internet-development-in-ethiopia-high-level-findings-from-the-after-access-survey/",
+  "title": "Internet development in Ethiopia: High-level findings from the After Access Survey",
+  "publisher": "Research ICT Africa",
+  "published": "2024-02-05",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3,Q4: urban rural access gap"
+ },
+ {
+  "url": "https://dhsprogram.com/pubs/pdf/SR296/SR296.pdf",
+  "title": "2024-25 Ethiopia Demographic and Health Survey - Summary Report",
+  "publisher": "The DHS Program / Ethiopian Statistics Service",
+  "published": "",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: ICT ownership urban vs rural"
+ }
+]

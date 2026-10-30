@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The 2022 national ICT household survey found 14.6 percent of rural households had internet access, against 59 percent of the urban households, with national household access at 33.4 percent.",
+ "title": "2022 National Survey on Access and Usage of Information and Communication Technologies by Households and Individuals",
+ "publisher": "Ministry of Technology and Science; Zambia Statistics Agency",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

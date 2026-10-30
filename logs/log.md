@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-30 02:51 · **REBUILD** · 12m · digitaldivides ruralaccess: 53 cells reassessed, 2 moved; 54 searched, 152 staged; 55.0M tokens (third of a shared window) - ok
+2026-10-30 02:51 · **REBUILD** · 12m · datatransfers rule: 3 cells reassessed, 3 moved; 54 searched, 56 staged; 55.0M tokens (third of a shared window) - ok
+2026-10-30 02:51 · **REBUILD** · 12m · dataprotectionreadiness system: 2 cells reassessed, 2 moved; 54 searched, 100 staged; 55.0M tokens (third of a shared window) - ok
 2026-10-30 02:32 · **BUILD** · 2h01m · catalogue 35,400; 358 sources, 49 moved, 68 minted, 58 status revised; data centres 40, 11 changed; maturity 659 facts, 22 moved; bulletin 55, monthly 45; register 9; prose gate 38 fixed; messages 55-57 - ok
 2026-10-29 04:11 · **RENDER** · 28m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 84 editions pruned, 6,298 objects to R2; deployed 434025a - ok
 2026-10-29 03:42 · **REVIEW** · unclocked · GHA: status 20 sections revised, 19 trimmed, progress 0 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The 2022 household ICT survey of Cameroon's National Institute of Statistics found 7.0 per cent of rural households with internet access against 13.8 per cent of urban households.",
+ "title": "Enquête sur l'accès et l'utilisation des TIC au Cameroun, Rapport principal",
+ "publisher": "Institut National de la Statistique / PAGIRN-PPTIC",
+ "published": "2022-12",
+ "date_source": "source",
+ "why_not": ""
+}

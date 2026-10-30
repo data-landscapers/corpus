@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.thesedonaconference.org/sites/default/files/meeting_paper/7.4%20Egypt%20Personal%20Data%20Protection%20Law%20-%20Executive%20Regulations.pdf",
+  "title": "Egypt Personal Data Protection Law - Executive Regulations (Decree No. 816 of 2025)",
+  "publisher": "Sedona Conference (translation)",
+  "published": "2025-11-01",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: Articles 16, 23-27 transfer licence rule"
+ },
+ {
+  "url": "https://raqmix.net/insights/egypt-cross-border-data-transfer-licence",
+  "title": "Cross-border data transfer licence in Egypt (PDPC)",
+  "publisher": "Raqmix",
+  "published": "2026-09-14",
+  "sub_indicator": "rule",
+  "why": "Q3/Q4: no adequacy list seen, licence process"
+ },
+ {
+  "url": "https://www.recordinglaw.com/world-laws/world-data-privacy-laws/egypt-data-privacy-laws/",
+  "title": "Egypt Data Privacy Laws: PDPL Law 151/2020 and the 2025 Executive Regulations",
+  "publisher": "Recording Law",
+  "published": "2026-03-21",
+  "sub_indicator": "rule",
+  "why": "Q2/Q3: authorisation required; no adequacy list as of Sept 2026"
+ },
+ {
+  "url": "https://globaldatarules.com/country/EG",
+  "title": "Egypt - Global Data Rules",
+  "publisher": "Global Data Rules",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3: PDPC licences guidelines v1.1 Jan 2026; adequacy list not published"
+ },
+ {
+  "url": "https://chambers.com/articles/a-first-look-at-egypt-s-personal-data-protection-executive-regulations",
+  "title": "A First Look at Egypt's Personal Data Protection Executive Regulations",
+  "publisher": "Chambers",
+  "published": "2026-01-19",
+  "sub_indicator": "rule",
+  "why": "Q2: transfer licence Article 16, fee 50%"
+ },
+ {
+  "url": "https://masaar.net/ar/testing-the-executive-regulations-data-protection-law/",
+  "title": "اللائحة التنفيذية لقانون حماية البيانات الشخصية: اختبار تحويل القواعد العامة إلى التزامات قابلة للمساءلة",
+  "publisher": "Masaar",
+  "published": "2026-02-09",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2 Arabic: Article 16 transfer licence"
+ },
+ {
+  "url": "https://dataprotection.gi/jurisdictions/egypt/",
+  "title": "Egypt Data Protection & Privacy Regulation Monitor",
+  "publisher": "GDPRI",
+  "published": "2026-08-17",
+  "sub_indicator": "rule",
+  "why": "Q2: licensing plus consent sole transfer basis"
+ },
+ {
+  "url": "https://www.dataguidance.com/news/egypt-pdpc-issues-executive-regulations-personal-data",
+  "title": "Egypt: PDPC issues Executive Regulations of Personal Data Protection Law",
+  "publisher": "DataGuidance",
+  "published": "2026-02-10",
+  "sub_indicator": "rule",
+  "why": "Q3: PDPC to issue transfer guidelines"
+ }
+]

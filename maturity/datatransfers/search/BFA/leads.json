@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://cil.bf/wp-content/uploads/2026/09/loi-n%C2%B0001.pdf",
+  "title": "LOI N°001-2021/AN",
+  "publisher": "CIL / Assemblée nationale",
+  "published": "2021-03-30",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: arts 42-44, 56 transfer rule"
+ },
+ {
+  "url": "https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf",
+  "title": "Demande d'autorisation de transfert de données vers un pays étranger",
+  "publisher": "CIL",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3: authority form for permission"
+ },
+ {
+  "url": "https://cil.bf/?page_id=982",
+  "title": "Déclaration préalable – CIL BF",
+  "publisher": "CIL",
+  "published": "2025-01",
+  "sub_indicator": "rule",
+  "why": "Q3: declaration incl. transfer abroad"
+ },
+ {
+  "url": "https://cil.bf/?page_id=1027",
+  "title": "Décret – CIL BF",
+  "publisher": "CIL",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q2: decrees applying the law, 2026 law"
+ },
+ {
+  "url": "https://research.lawlab.africa/burkina-faso/",
+  "title": "Data Protection in Burkina Faso",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q4: cross-border arts. summary"
+ },
+ {
+  "url": "https://www.dlapiperdataprotection.com/?c=BF&t=transfer",
+  "title": "Transfer of personal data in Burkina Faso",
+  "publisher": "DLA Piper",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: transfer rule"
+ },
+ {
+  "url": "https://cil.bf/?cat=3",
+  "title": "Réunion – CIL BF",
+  "publisher": "CIL",
+  "published": "2026-08-25",
+  "sub_indicator": "rule",
+  "why": "Q3/Q4: deliberations incl. transfers"
+ }
+]

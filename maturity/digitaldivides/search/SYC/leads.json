@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://policycommons.net/artifacts/62110371/initial-project-information-document-pid/63008233/",
+  "title": "Initial PID - Seychelles Transformative and Resilient Inclusive Digital Economy P519389",
+  "publisher": "World Bank",
+  "published": "2026-10-07",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 programme to extend broadband access"
+ },
+ {
+  "url": "https://www.nbs.gov.sc/downloads/1555-seychelles-population-and-housing-census-2022/download",
+  "title": "Seychelles Population and Housing Census 2022",
+  "publisher": "National Bureau of Statistics",
+  "published": "",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 household internet access by region/district"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/public/articles/21372/ITU+Seychelles+retains+rd+place+in+Africa+for+highest+levels+of+ICT+development",
+  "title": "ITU: Seychelles retains 3rd place in Africa for ICT development",
+  "publisher": "Seychelles News Agency",
+  "published": "2024-10-28",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 national connectivity figures"
+ }
+]

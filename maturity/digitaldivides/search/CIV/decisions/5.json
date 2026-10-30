@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "ARTCI's 2023 information society survey found household internet access of 74.44% overall, 85.70% in urban areas and 57.66% in rural areas.",
+ "title": "Enquête de la mesure de la société de l'information (Cas de la Côte d'Ivoire)",
+ "publisher": "ARTCI (ITU Expert Group on Household Indicators 2024)",
+ "published": "2024-09-25",
+ "date_source": "source",
+ "why_not": ""
+}

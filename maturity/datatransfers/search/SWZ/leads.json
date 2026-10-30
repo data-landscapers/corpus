@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://edpa.org.sz/assets/documents/APPLICATION%20FORM_%20TRANSFER.pdf",
+  "title": "Application form: authorisation to transfer personal data outside the Kingdom of Eswatini",
+  "publisher": "Eswatini Data Protection Authority",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3: authority procedure for permission"
+ },
+ {
+  "url": "https://www.esccom.org.sz/privacy-policy/The%20ESCCOM%20Privacy%20Statement_Feb%202026.pdf",
+  "title": "The ESCCOM Privacy Statement",
+  "publisher": "ESCCOM",
+  "published": "2026-02",
+  "sub_indicator": "rule",
+  "why": "Q2/Q4: transfers reviewed against Act"
+ },
+ {
+  "url": "https://www.gov.sz/images/ICT/DATA-PROTECTION-ACT.pdf",
+  "title": "Data Protection Act, 2022 (Government Gazette)",
+  "publisher": "Government of Eswatini",
+  "published": "2022",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: Part V sections 32-33"
+ },
+ {
+  "url": "https://dataprotection.africa/eswatini/",
+  "title": "Eswatini fact sheet",
+  "publisher": "Data Protection Africa",
+  "published": "2022-05-23",
+  "sub_indicator": "rule",
+  "why": "Q1: transfer rule summary"
+ },
+ {
+  "url": "https://www.dataguidance.com/jurisdictions/eswatini",
+  "title": "Eswatini jurisdiction",
+  "publisher": "DataGuidance",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q2: Act in force 4 March 2022"
+ },
+ {
+  "url": "https://hlc.com/en/publications/recent-developments-in-african-data-protection-laws-outlook-for-2023",
+  "title": "Recent developments in African data protection laws",
+  "publisher": "HLC",
+  "published": "2023-02-24",
+  "sub_indicator": "rule",
+  "why": "Q1: transborder conditions"
+ }
+]

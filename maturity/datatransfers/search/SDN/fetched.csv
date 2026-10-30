@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dtri.uneca.org/v1/uploads/country-profile/sdn-country-profile-en.pdf,fetched,,scripts/.workroot/study/datatransfers/cache/SDN/1.txt,3612,pdf,
+2,https://dataprotection.africa/sudan/,held,held as raw/2022/2022-05-24-sudan-data-protection-factsheet.md,,0,,
+3,https://tpra.gov.sd/en/regulatory-frameworks/regulations/,held,held as raw/2025/2025-01-01-sudan-tpra-data-center-cloud-computing-regulations.md,,0,,
+4,https://lexlint.io/law/sd,fetched,,scripts/.workroot/study/datatransfers/cache/SDN/4.txt,2401,html,"Sudan: AI, privacy and software law · LexLint"

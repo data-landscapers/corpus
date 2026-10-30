@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing",
+ "fact": "Article 201 of the Code du numérique, in force since 13 March 2023, makes local hosting the rule and allows transfer to a third State only where the data protection authority finds adequate protection and gives prior authorisation.",
+ "title": "The Code du numérique is an architecture decision",
+ "publisher": "HKONNECT",
+ "published": "2026-08-12",
+ "date_source": "source",
+ "why_not": ""
+}

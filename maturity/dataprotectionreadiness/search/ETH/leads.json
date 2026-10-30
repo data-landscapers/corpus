@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ena.et/web/amh/w/amh_8835545",
+  "title": "የግለሰቦችን የግል መረጃ ለታለመለት ዓላማ ብቻ ማዋል የሚያስችል የተጠናከረ የግል ዳታ ጥበቃ እየተከናወነ ነው",
+  "publisher": "ENA",
+  "published": "2026-05",
+  "sub_indicator": "system",
+  "why": "Q3: ECA DG on implementation consultation, breach reporting portal"
+ },
+ {
+  "url": "https://www.lawlab.africa/analysis/ethiopia-enforcement-gap.html",
+  "title": "Ethiopia's enforcement gap: a data protection law with no machinery",
+  "publisher": "Law Lab Africa",
+  "published": "2026-03-01",
+  "sub_indicator": "system",
+  "why": "Q1,Q3,Q4: law in force, authority designated, no enforcement"
+ },
+ {
+  "url": "https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf",
+  "title": "List of countries which have signed, ratified/acceded to the AU Convention on Cyber Security and Personal Data Protection",
+  "publisher": "African Union",
+  "published": "2026-02-02",
+  "sub_indicator": "system",
+  "why": "Q2: Malabo ratification status"
+ },
+ {
+  "url": "https://addisfortune.news/eca-launches-digital-portal-to-enforce-data-protection",
+  "title": "ECA Launches Digital Portal to Enforce Data Protection",
+  "publisher": "Addis Fortune",
+  "published": "2025-11-13",
+  "sub_indicator": "system",
+  "why": "Q3: registration portal for controllers"
+ },
+ {
+  "url": "https://mail.techreviewafrica.com/news/3248/ethiopia-advances-digital-governance-with-national-workshop-on-new-data-protection-law",
+  "title": "Ethiopia advances digital governance with national workshop on new data protection law",
+  "publisher": "TechReviewAfrica",
+  "published": "2025-11-25",
+  "sub_indicator": "system",
+  "why": "Q3: ECA workshop, portal"
+ },
+ {
+  "url": "https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia",
+  "title": "DPA Digital Digest: Ethiopia 2025 Edition",
+  "publisher": "Digital Policy Alert",
+  "published": "2025-03-26",
+  "sub_indicator": "system",
+  "why": "Q1,Q4: law in force, no enforcement"
+ },
+ {
+  "url": "https://addisfortune.news/communications-authority-kicks-off-data-registry-entities",
+  "title": "Communications Authority Kicks Off Data Registry Entities",
+  "publisher": "Addis Fortune",
+  "published": "2024-08-25",
+  "sub_indicator": "system",
+  "why": "Q2: ECA as authority"
+ },
+ {
+  "url": "https://justice.gov.et/en/law/personal-data-protection-proclamation/",
+  "title": "Personal Data Protection Proclamation No. 1321/2024",
+  "publisher": "Ministry of Justice",
+  "published": "2024-07-24",
+  "sub_indicator": "system",
+  "why": "Q1: law in force"
+ }
+]

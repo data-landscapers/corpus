@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://dtri.uneca.org/v1/uploads/country-profile/eri-country-profile-en.pdf",
+  "title": "Eritrea digital trade country profile",
+  "publisher": "UNECA",
+  "published": "2022-01-01",
+  "sub_indicator": "rule",
+  "why": "Q1: no legal regime on data flow, no conditions"
+ },
+ {
+  "url": "https://dataprotection.africa/eritrea/",
+  "title": "Eritrea | Fact Sheet",
+  "publisher": "Data Protection Africa",
+  "published": "2022-05-23",
+  "sub_indicator": "rule",
+  "why": "Q1: no laws restricting cross-border transfer"
+ },
+ {
+  "url": "https://www.levellers.ai/what-is/ai-regulation-eritrea",
+  "title": "AI regulation in Eritrea",
+  "publisher": "Levellers",
+  "published": "2026-06-08",
+  "sub_indicator": "rule",
+  "why": "Q1: no restriction on cross-border transfer"
+ },
+ {
+  "url": "https://anuragverma.co/worldwatch/eritrea/data-privacy",
+  "title": "Data protection & privacy laws in Eritrea (2026)",
+  "publisher": "Anurag Verma",
+  "published": "2026",
+  "sub_indicator": "rule",
+  "why": "Q1: no transfer rules, no draft bill"
+ },
+ {
+  "url": "https://lexlint.io/law/er",
+  "title": "Eritrea: AI, scraping, privacy, cybersecurity law",
+  "publisher": "LexLint",
+  "published": "2026-09-22",
+  "sub_indicator": "rule",
+  "why": "Q1: no cross-border transfer restriction in codes"
+ }
+]

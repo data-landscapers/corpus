@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.apdpvp.ga/autorisations/",
+  "title": "Autorisations - apdpvp",
+  "publisher": "APDPVP",
+  "published": "2024-11-22",
+  "sub_indicator": "rule",
+  "why": "Q4: list of transfer authorisations granted 2023-2024"
+ },
+ {
+  "url": "https://www.apdpvp.ga/wp-content/uploads/2024/11/AUTORISATION-DES-EMPLOYES-ET-DES-CLIENTS-DE-LA-SOCIETE-ECOBANK-2023.pdf",
+  "title": "Délibération N°39/APDPVP du 27 février 2024 transfert Ecobank Gabon vers le Togo",
+  "publisher": "APDPVP",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q2/Q4: art. 171 and 173 quoted, authorisation granted"
+ },
+ {
+  "url": "https://www.apdpvp.ga/wp-content/uploads/2024/11/AUTORISATION-DES-EMPLOYES-DE-LA-COMPAGNIE-MINIERE-DE-LOGOOUE-2023.pdf",
+  "title": "Délibération N°049/APDPVP du 29 février 2024 transfert COMILOG vers la France",
+  "publisher": "APDPVP",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q4: authorisation to transfer to France"
+ },
+ {
+  "url": "https://www.apdpvp.ga/wp-content/uploads/2024/11/AUTORISATION-DES-EMPLOYES-ET-DES-CLIENTS-DE-CITIBANK-GABON-S.A-VERS-ETATS-UNIS-2023.pdf",
+  "title": "Délibération N°066/APDPVP du 14 mars 2024 transfert Citibank Gabon",
+  "publisher": "APDPVP",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q4: authorisation to transfer to Germany and US"
+ },
+ {
+  "url": "https://lexlint.io/l/ga-loi-n-025-2023-articles-168-174-interconnexio",
+  "title": "Law No. 025/2023, interconnection and cross-border transfer of personal data",
+  "publisher": "LexLint",
+  "published": "2026",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: arts 171-174 rule"
+ },
+ {
+  "url": "https://www.dlapiperdataprotection.com/?c=GA&t=transfer",
+  "title": "Transfer of personal data in Gabon",
+  "publisher": "DLA Piper",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3: adequacy list not yet published"
+ },
+ {
+  "url": "https://journal-officiel.ga/20085-025-2023-/",
+  "title": "Loi N° 025/2023 portant modification de la loi n°001/2011",
+  "publisher": "Journal Officiel de la République Gabonaise",
+  "published": "2023",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: transfer rule in law"
+ },
+ {
+  "url": "https://www.apdpvp.ga/textes-et-decisions/",
+  "title": "Textes et Lois - apdpvp",
+  "publisher": "APDPVP",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3: glossary of standard contractual clauses; law text"
+ }
+]

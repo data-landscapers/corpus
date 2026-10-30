@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://news.abidjan.net/articles/743380/connectivite-rurale-la-cote-divoire-etend-le-projet-nos-villages-connectes-aux-zones-les-plus-isolees",
+  "title": "Connectivité rurale : la Côte d'Ivoire étend le projet Nos villages connectés",
+  "publisher": "Abidjan.net News",
+  "published": "2025-07-24",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: PNCR 575 localities target"
+ },
+ {
+  "url": "https://ansut.ci/blog-post/nos-villages-connectes-38-nouvelles-localites-rejoignent-laventure/",
+  "title": "Nos Villages Connectés : 38 nouvelles localités rejoignent l'aventure",
+  "publisher": "ANSUT",
+  "published": "2025-10-02",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: 38 villages connected"
+ },
+ {
+  "url": "https://telecom.gouv.ci/new/actualite/84",
+  "title": "Mise en service de la connectivité de 175 localités rurales",
+  "publisher": "Ministère de la Transition Numérique",
+  "published": "2024-08-02",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: 175 localities, 160 towers"
+ },
+ {
+  "url": "https://infodirecte.net/premiere-phase-du-programme-national-de-connectivite-rurale-160-sites-radioelectriques-construits-dans-175-localites-mis-en-service",
+  "title": "Première phase du PNCR : 160 sites radioélectriques dans 175 localités",
+  "publisher": "Infodirecte",
+  "published": "2024-08-04",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: sites counted"
+ },
+ {
+  "url": "https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/20/18_ITU_EGH2024_CountryExperience_CoteDIvoire_JacquesNguessan.pdf",
+  "title": "Enquête de la mesure de la société de l'information (Côte d'Ivoire)",
+  "publisher": "ARTCI (ITU EGH 2024)",
+  "published": "2024-09-25",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4: household internet access urban vs rural 2023"
+ },
+ {
+  "url": "https://www.fratmat.info/article/239660/economie/institut-national-de-la-statistique/institut-national-de-la-statistique-une-enquete-demontre-une-forte-amelioration-de-lutilisation-des-tic-par-les-menages-et-entreprises-en-cote-divoire",
+  "title": "Enquête INS TIC : forte amélioration de l'utilisation des TIC",
+  "publisher": "Fraternité Matin",
+  "published": "2024-05-17",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: internet access 65.7% urban 29.4% rural"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/2406-139577-connectivite-rurale-la-cote-d-ivoire-cible-300-localites-en-2026",
+  "title": "Connectivité rurale : la Côte d'Ivoire cible 300 localités en 2026",
+  "publisher": "Agence Ecofin",
+  "published": "2026",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q3: 300 localities in 2026; ITU rural 25.4% vs urban 57%"
+ },
+ {
+  "url": "https://www.koaci.com/article/2025/08/28/cote-divoire/technologie/cote-divoire-telecommunications-lansut-et-luat-sunissent-pour-faire-du-service-universel-le-moteur-de-la-transformation-numerique-en-afrique_189742.html",
+  "title": "ANSUT et UAT : service universel",
+  "publisher": "KOACI",
+  "published": "2025-08-28",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: programme to connect 500+ rural localities"
+ }
+]

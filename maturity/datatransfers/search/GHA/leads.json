@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://globaldatarules.com/country/GH",
+  "title": "Ghana",
+  "publisher": "Global Data Rules",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1-Q4 summary"
+ },
+ {
+  "url": "https://www.recordinglaw.com/world-laws/world-data-privacy-laws/ghana-data-privacy-laws/",
+  "title": "Ghana Data Privacy Laws: Data Protection Act 2012 Complete Guide",
+  "publisher": "Recording Law",
+  "published": "2026-03-21",
+  "sub_indicator": "rule",
+  "why": "Q1 draft bill transfer sections"
+ },
+ {
+  "url": "https://gna.org.gh/2026/03/govt-to-introduce-new-data-protection-bill-to-regulate-ai-cross-border-data-flows/",
+  "title": "Govt to introduce new Data Protection Bill to regulate AI, cross-border data flows",
+  "publisher": "Ghana News Agency",
+  "published": "2026-03-02",
+  "sub_indicator": "rule",
+  "why": "Q1 rule being written"
+ },
+ {
+  "url": "https://digitalpolicyalert.org/change/16681-cross-border-data-transfer-regulation-in-data-protection-act-2025",
+  "title": "Cross-border data transfer regulation in Data Protection Act, 2025",
+  "publisher": "Digital Policy Alert",
+  "published": "2025-10-31",
+  "sub_indicator": "rule",
+  "why": "Q1 draft consultation"
+ },
+ {
+  "url": "https://theghanareport.com/navigating-cross-border-data-protection-evaluating-our-legal-framework-against-international-standards/",
+  "title": "Navigating cross-border data protection",
+  "publisher": "The Ghana Report",
+  "published": "2025-03-31",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2 no restriction; DPC clearance practice"
+ },
+ {
+  "url": "https://moc.gov.gh/wp-content/uploads/2023/03/DATA-PROTECTION-BILL.pdf",
+  "title": "Data Protection Bill (Data Protection Act, 2025)",
+  "publisher": "Ministry of Communication, Digital Technology and Innovations",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1 draft ss 96-97"
+ },
+ {
+  "url": "https://www.bog.gov.gh/wp-content/uploads/2024/11/BOG-Outsourcing-Directive.pdf",
+  "title": "Outsourcing Directive",
+  "publisher": "Bank of Ghana",
+  "published": "2024-11",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2 central bank rule on foreign providers"
+ },
+ {
+  "url": "https://practiceguides.chambers.com/practice-guides/cloud-computing-2025/ghana",
+  "title": "Cloud Computing 2025 - Ghana",
+  "publisher": "Chambers and Partners",
+  "published": "2025",
+  "sub_indicator": "rule",
+  "why": "Q3 practice of notifying DPC"
+ }
+]

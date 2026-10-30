@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The 2022 Liberia Malaria Indicator Survey, a LISGIS household survey, found 48 percent of urban women aged 15-49 had used the internet in the last 12 months against 10 percent of rural women.",
+ "title": "Liberia Malaria Indicator Survey 2022",
+ "publisher": "National Malaria Control Program (NMCP) [Liberia] and ICF",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

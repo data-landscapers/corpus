@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://usf.mw/case-study/usf-supports-expansion-of-digital-connectivity-through-digital-malawi-acceleration-project/",
+  "title": "USF Supports Expansion of Digital Connectivity",
+  "publisher": "Universal Service Fund (MACRA)",
+  "published": "2026-03-25",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 programme"
+ },
+ {
+  "url": "https://developingtelecoms.com/telecom-business/vendor-news/20784-malawi-activates-36th-rural-telecom-tower-under-last-mile-project.html",
+  "title": "Malawi activates 36th rural telecom tower under Last Mile project",
+  "publisher": "Developing Telecoms",
+  "published": "2026-09-07",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2 towers counted"
+ },
+ {
+  "url": "https://telecomlead.com/news/telecom-news-o2-ligent-technologies-malawi-127603",
+  "title": "Telecom news: O2, Ligent Technologies, Malawi",
+  "publisher": "TelecomLead",
+  "published": "2026-09-04",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2 36th tower"
+ },
+ {
+  "url": "https://techafricanews.com/2025/10/29/usf-malawi-completes-mobile-network-tower-development-project-to-boost-rural-coverage/",
+  "title": "USF Malawi Completes Mobile Network Tower Development Project",
+  "publisher": "TechAfrica News",
+  "published": "2025-10-29",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2 towers"
+ },
+ {
+  "url": "https://digmap.pppc.mw/usf-tower-site-initiative-set-to-bridge-malawis-digital-divide/",
+  "title": "USF Tower Site Initiative set to bridge Malawi's digital divide",
+  "publisher": "Digital Malawi Project (PPPC)",
+  "published": "2026-01-14",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1"
+ },
+ {
+  "url": "https://freedomhouse.org/country/malawi/freedom-net/2024",
+  "title": "Malawi: Freedom on the Net 2024",
+  "publisher": "Freedom House",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 rural urban 13.5 vs 40.7"
+ },
+ {
+  "url": "https://mwnation.com/hello-malawis-ruralmajority-left-behind/",
+  "title": "Hello, Malawi's rural majority left behind",
+  "publisher": "Nation Online",
+  "published": "2024-07-30",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 2023 survey"
+ },
+ {
+  "url": "https://mbc.mw/malawi-sees-surge-in-internet-usage/",
+  "title": "Malawi sees surge in internet usage",
+  "publisher": "Malawi Broadcasting Corporation",
+  "published": "2024-04-18",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 2023 ICT survey"
+ }
+]

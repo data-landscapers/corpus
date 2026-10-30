@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "Sections 31 and 32 of the Personal Data Protection Act and regulation 20 of the 2023 Regulations require a permit from the Personal Data Protection Commission, applied for on a prescribed form, to transfer personal data outside Tanzania.",
+ "title": "Legal and compliance requirements for cross-border personal data transfers under Tanzania's personal data protection act",
+ "publisher": "Clyde & Co",
+ "published": "2024-10-15",
+ "date_source": "source",
+ "why_not": ""
+}

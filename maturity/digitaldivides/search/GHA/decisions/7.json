@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "Using 2021 census data, internet uptake rose from about 13% to 80% in urban areas and from 2% to 54% in rural areas between 2010 and 2021 (rural about two-thirds of urban).",
+ "title": "Ten Facts About Digital Technology Adoption in Ghana",
+ "publisher": "World Bank (Africa Can End Poverty blog)",
+ "published": "2023-07-03",
+ "date_source": "source",
+ "why_not": ""
+}

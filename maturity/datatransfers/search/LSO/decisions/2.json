@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing",
+ "fact": "Under the Data Protection Act, in effect since 22 February 2012, a data controller may transfer personal data out of Lesotho only if the recipient is subject to substantially similar laws or safeguards, or the data subject consents.",
+ "title": "Data Protection in Lesotho",
+ "publisher": "Mayet & Associates",
+ "published": "2024-04-14",
+ "date_source": "source",
+ "why_not": ""
+}

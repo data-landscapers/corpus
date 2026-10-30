@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://arct.gov.bi/2026/03/18/loi-n1-03-du-10-mars-2026-portant-protection-des-donnees-a-caractere-personnel/",
+  "title": "LOI N°1/03 DU 10 MARS 2026 PORTANT PROTECTION DES DONNEES A CARACTERE PERSONNEL",
+  "publisher": "ARCT",
+  "published": "2026-03-18",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2 transfer rule arts 15-16 in force"
+ },
+ {
+  "url": "https://www.setic.gov.bi/documents?category=x1dh3e5q7dq6hdogrpuo30p3",
+  "title": "SETIC - Documents",
+  "publisher": "SETIC",
+  "published": "2026",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2 law text"
+ },
+ {
+  "url": "https://lexlint.io/l/bi-loi-n-1-03-du-10-mars-2026-articles-15-16-tra",
+  "title": "Law No. 1/03 transfers of personal data abroad",
+  "publisher": "LexLint",
+  "published": "2026-09-04",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2 arts 15-16 reading"
+ },
+ {
+  "url": "https://www.ktaadvocates.com/wp-content/uploads/2026/04/A-STRATEGIC-GUIDE-TO-DATA-PROTECTION-AND-PRIVACY-IN-EAST-AFRICA-1.pdf",
+  "title": "A Strategic Guide to Data Protection & Privacy in East Africa",
+  "publisher": "KTA Advocates",
+  "published": "2026-04",
+  "sub_indicator": "rule",
+  "why": "Q3 no adequacy list published yet"
+ },
+ {
+  "url": "https://research.lawlab.africa/burundi/",
+  "title": "Data Protection in Burundi: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q2-Q4 transfers, authority not set up"
+ },
+ {
+  "url": "https://assemblee.bi/?p=31493",
+  "title": "Analyse et adoption du projet de loi portant protection des données à caractère personnel",
+  "publisher": "Assemblée Nationale du Burundi",
+  "published": "2026-01-30",
+  "sub_indicator": "rule",
+  "why": "Q1 bill adopted"
+ }
+]

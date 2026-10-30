@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.lawlab.africa/analysis/ethiopia-enforcement-gap.html",
+  "title": "Ethiopia's enforcement gap: a data protection law with no machinery, and a central bank moving faster than the regulator",
+  "publisher": "Law Lab Africa",
+  "published": "2026-03-01",
+  "sub_indicator": "rule",
+  "why": "Q1-Q3: transfer rule in force; cross-border directive not issued"
+ },
+ {
+  "url": "https://www.mondaq.com/privacy-protection/1766200/ethiopian-personal-data-protection-law-proclamation-13212024-business-compliance-guide",
+  "title": "Ethiopian Personal Data Protection Law (Proclamation 1321/2024): Business Compliance Guide",
+  "publisher": "Mondaq (Amare Ashenafi)",
+  "published": "2026-03-30",
+  "sub_indicator": "rule",
+  "why": "Q1,Q2: cross-border transfer conditions"
+ },
+ {
+  "url": "https://www.dlapiperdataprotection.com/?c=ET&t=transfer",
+  "title": "Transfer of personal data in Ethiopia",
+  "publisher": "DLA Piper Data Protection Laws of the World",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1,Q2: transfer conditions"
+ },
+ {
+  "url": "https://addisfortune.news/eca-launches-digital-portal-to-enforce-data-protection",
+  "title": "ECA Launches Digital Portal to Enforce Data Protection",
+  "publisher": "Addis Fortune",
+  "published": "2025-11-13",
+  "sub_indicator": "rule",
+  "why": "Q3: portal, directives pending, foreign transfer scrutiny"
+ },
+ {
+  "url": "https://justice.gov.et/am/article/personal-data-protection-in-ethiopian-law/",
+  "title": "የግል ዳታ ጥበቃ በኢትዮጵያ ሕግ",
+  "publisher": "Ministry of Justice",
+  "published": "2025-04-23",
+  "sub_indicator": "rule",
+  "why": "Q1,Q2: Amharic account of transfer rule in force"
+ },
+ {
+  "url": "http://www.mint.gov.et/documents/d/guest/proclamation_no-_1321_-2024personal_data_protection-1?download=true",
+  "title": "Personal Data Protection Proclamation No. 1321/2024",
+  "publisher": "Federal Negarit Gazette / Ministry of Innovation and Technology",
+  "published": "2024-07-24",
+  "sub_indicator": "rule",
+  "why": "Q1,Q2: articles 18-22 on transfers"
+ },
+ {
+  "url": "https://digitalpolicyalert.org/change/12098-data-transfer-regulation-in-personal-data-protection-proclamation-proclamation-no-13212024",
+  "title": "Data transfer regulation in Personal Data Protection Proclamation (Proclamation No. 1321/2024)",
+  "publisher": "Digital Policy Alert",
+  "published": "2024-07-24",
+  "sub_indicator": "rule",
+  "why": "Q1,Q2: in force 24 Jul 2024"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.arcep.ga/pages/detail_actu/44",
+  "title": "Service Universel : L'Arcep remet le matériel de construction à Moov Africa Gabon Telecom",
+  "publisher": "ARCEP",
+  "published": "2025-01-14",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: universal service sites under construction"
+ },
+ {
+  "url": "https://www.arcep.ga/pages/detail_actu/42",
+  "title": "ARCEP Gabon : un bilan 2024 marqué par des avancées stratégiques",
+  "publisher": "ARCEP",
+  "published": "2024-12-19",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: 3 of 20 universal service sites built"
+ },
+ {
+  "url": "https://agpgabon.ga/desserte-en-radio-electrique-et-internet-larcep-a-pied-doeuvre-a-linterieur-du-pays/",
+  "title": "Desserte en radio électrique et internet : l'Arcep à pied d'œuvre",
+  "publisher": "AGP",
+  "published": "2024-08-29",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: 204 villages phase 2"
+ },
+ {
+  "url": "https://www.arcep.ga/public/index.php/pages/detail_actu/30",
+  "title": "L'ARCEP en mission d'inspection dans l'Ogooué Ivindo et l'Ogooué-Lolo",
+  "publisher": "ARCEP",
+  "published": "2024-08-14",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: phase 1 count, phase 2 identification"
+ },
+ {
+  "url": "https://www.gabonreview.com/poste-telediffusion-services-universels-la-trouvaille-du-ctri-contre-la-fracture-numerique/",
+  "title": "Poste Télédiffusion Services Universels : la solution du CTRI contre la fracture numérique",
+  "publisher": "Gabonreview",
+  "published": "2024-02-29",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: new GIE for unserved villages"
+ },
+ {
+  "url": "https://www.arcep.ga/pages/detail_actu/8",
+  "title": "L'ARCEP relance le projet de développement du Service Universel",
+  "publisher": "ARCEP",
+  "published": "2024-02-19",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: phase 2, 200 villages"
+ },
+ {
+  "url": "https://union.sonapresse.com/fr/acces-au-numerique-une-fracture-entre-zones-rurales-et-urbaines",
+  "title": "Accès au numérique : une fracture entre zones rurales et urbaines",
+  "publisher": "L'Union",
+  "published": "2026-05-06",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: survey on rural/urban digital gap"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2025-gabon",
+  "title": "Digital 2025: Gabon",
+  "publisher": "DataReportal",
+  "published": "2025-03-03",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: national figures, check rural split"
+ }
+]

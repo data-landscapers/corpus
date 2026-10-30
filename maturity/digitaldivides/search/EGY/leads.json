@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://gate.ahram.org.eg/News/5702262.aspx",
+  "title": "المصرية للاتصالات شريك الدولة في التحول الرقمي داخل قرى حياة كريمة توصل الألياف الضوئية لأكثر من 1250 قرية",
+  "publisher": "بوابة الأهرام",
+  "published": "2026-06-30",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: fibre to 1,250+ of 1,450 Decent Life villages"
+ },
+ {
+  "url": "https://gate.ahram.org.eg/News/5455405.aspx",
+  "title": "التحول الرقمي في حياة كريمة.. توصيل شبكة الألياف الضوئية إلى 940 قرية",
+  "publisher": "بوابة الأهرام",
+  "published": "2026-01-06",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: fibre to 940 villages, 1,368 towers by end June 2025"
+ },
+ {
+  "url": "https://www.comcec.org/wp-content/uploads/2025/09/4.-Egypt-Presentation-on-Rural-Accessibility.pdf",
+  "title": "Decent Life Project (Egypt presentation on rural accessibility)",
+  "publisher": "COMCEC",
+  "published": "2025-09",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: MCIT/NTRA rural fibre and cell-site targets and progress"
+ },
+ {
+  "url": "https://moic.gov.eg/news/2042",
+  "title": "Minister of Planning Reviews a Report on the Executive Status of the First Phase of Haya Karima",
+  "publisher": "Ministry of International Cooperation",
+  "published": "",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: fibre to 409 villages, 371.6 thousand subscribers"
+ },
+ {
+  "url": "https://www.tra.gov.eg/en/ntras-executive-president-and-itu-bdt-director-visit-some-villages-of-haya-karima-presidential-initiative-in-qalyubiyah/",
+  "title": "NTRA's Executive President and ITU/BDT Director visit some villages of Haya Karima",
+  "publisher": "National Telecom Regulatory Authority",
+  "published": "2024-01-17",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: USF-funded 594 mobile stations in phase 1 villages"
+ },
+ {
+  "url": "https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_EGY.pdf",
+  "title": "Digital Development Dashboard: Egypt",
+  "publisher": "ITU",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4: household internet access rural 64% vs urban 84% (2022)"
+ },
+ {
+  "url": "https://www.itu.int/itu-d/sites/digital-impact-unlocked/from-pledges-to-action-egypts-decent-life-initiative/",
+  "title": "From pledges to action: Egypt's Decent Life initiative",
+  "publisher": "ITU",
+  "published": "2024-01-23",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: rural connectivity programme"
+ },
+ {
+  "url": "https://www.dostor.org/5121794",
+  "title": "مشروعات حياة كريمة.. ربط 850 قرية بالألياف الضوئية لرفع كفاءة الإنترنت",
+  "publisher": "الدستور",
+  "published": "2025-06-28",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: 850+ villages, 3,974 towers"
+ }
+]

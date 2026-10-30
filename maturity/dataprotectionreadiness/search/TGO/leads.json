@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://jo.gouv.tg/sites/default/files/JO/JOS_29_10_2019-64E%20ANNEE-N%C2%B026%20TER.pdf",
+  "title": "Loi n° 2019-014 relative à la protection des données à caractère personnel",
+  "publisher": "Journal officiel de la République togolaise",
+  "published": "2019-10-29",
+  "sub_indicator": "system",
+  "why": "Q1 law in force"
+ },
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/114054/TGO-114054.pdf",
+  "title": "Décret n° 2020-111/PR portant organisation et fonctionnement de l'IPDCP",
+  "publisher": "Journal officiel de la République togolaise",
+  "published": "2020-12-24",
+  "sub_indicator": "system",
+  "why": "Q2 authority set up"
+ },
+ {
+  "url": "https://www.jo.gouv.tg/sites/default/files/JO/JOS_30_09_2024%20-%2069%20E%20ANNEE%20N%C2%B098%20BIS.pdf",
+  "title": "Décret 2024-047/PR portant nomination du président de l'IPDCP",
+  "publisher": "Journal officiel de la République togolaise",
+  "published": "2024-09-30",
+  "sub_indicator": "system",
+  "why": "Q2 authority head appointed"
+ },
+ {
+  "url": "https://www.republiquetogolaise.tg/gestion-publique/2310-9870-numerique-l-instance-de-protection-des-donnees-a-caractere-personnel-entame-son-operationnalisation",
+  "title": "Numérique : l'IPDCP entame son opérationnalisation",
+  "publisher": "Site officiel du Togo (RTG)",
+  "published": "2024-10-23",
+  "sub_indicator": "system",
+  "why": "Q2 appointment"
+ },
+ {
+  "url": "https://afreepress.tg/lassemblee-nationale-autorise-ladhesion-du-togo-a-la-convention-de-malabo-sur-la-cyber-securite-et-renforce-le-fonctionnement-de-la-cndh/",
+  "title": "L'Assemblée nationale autorise l'adhésion du Togo à la Convention de Malabo",
+  "publisher": "Afreepress",
+  "published": "2021-06-30",
+  "sub_indicator": "system",
+  "why": "Q2 Malabo"
+ },
+ {
+  "url": "https://ipdcp.tg/wp-content/uploads/2025/07/Communique-IPDCP-Declaration-de-traitements-1-1.pdf",
+  "title": "Communiqué: lancement du processus de déclaration des dispositifs de vidéosurveillance",
+  "publisher": "IPDCP",
+  "published": "2025-07",
+  "sub_indicator": "system",
+  "why": "Q3 registering"
+ },
+ {
+  "url": "https://ipdcp.tg/document/rapport-annuel-des-activites-2025-de-linstance-de-protection-des-donnees-a-caractere-personnels-ipdcp/",
+  "title": "Rapport annuel des activités 2025 de l'IPDCP",
+  "publisher": "IPDCP",
+  "published": "2026",
+  "sub_indicator": "system",
+  "why": "Q3/Q4 activity"
+ },
+ {
+  "url": "https://ipdcp.tg/protection-des-donnees-personnelles-lipdcp-et-la-ceni-posent-les-bases-dune-collaboration-renforcee/",
+  "title": "Protection des données personnelles : l'IPDCP et la CENI posent les bases d'une collaboration renforcée",
+  "publisher": "IPDCP",
+  "published": "2026-02-10",
+  "sub_indicator": "system",
+  "why": "Q3 guidance"
+ }
+]

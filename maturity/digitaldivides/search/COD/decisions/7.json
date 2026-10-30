@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The EDS-RDC III 2023-24 found 38.3% of urban and 2.4% of rural women aged 15-49, and 59.4% of urban and 8.1% of rural men, used the internet in the previous 12 months.",
+ "title": "Enquête Démographique et de Santé EDS-RDC III 2023–2024, Rapport final",
+ "publisher": "Institut National de la Statistique et École de Santé Publique de Kinshasa",
+ "published": "2025-02",
+ "date_source": "source",
+ "why_not": ""
+}

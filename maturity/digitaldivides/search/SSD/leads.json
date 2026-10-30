@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.connectingafrica.com/connectivity/mtn-south-sudan-expands-its-network-to-rural-abuyong",
+  "title": "MTN South Sudan expands its network to rural Abuyong",
+  "publisher": "Connecting Africa",
+  "published": "2025-07-09",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2 USAF programme launching rural site"
+ },
+ {
+  "url": "https://www.eyeradio.org/s-sudan-first-ever-survey-exposes-gaps-in-women-and-children-services/",
+  "title": "S-Sudan first-ever survey exposes gaps in women and children services",
+  "publisher": "Eye Radio",
+  "published": "2026-04-21",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 MICS 2025 internet access"
+ },
+ {
+  "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/wp-content/uploads/2026/06/GSMA_M4H_Digital-Access-and-Connectivity-in-South-Sudan-Barriers-for-Refugees-and-Host-Communities_06_2026.pdf",
+  "title": "Digital Access and Connectivity in South Sudan",
+  "publisher": "GSMA",
+  "published": "2026-06",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 household survey connectivity"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2025-south-sudan",
+  "title": "Digital 2025: South Sudan",
+  "publisher": "DataReportal",
+  "published": "2025-03-03",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 internet use"
+ },
+ {
+  "url": "https://www.nca.gov.ss/zain-s-telecom-tower-in-akop",
+  "title": "Zain's telecom tower in Akop",
+  "publisher": "National Communication Authority",
+  "published": "2024-01-19",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2 rural tower"
+ },
+ {
+  "url": "https://usaf.gov.ss/",
+  "title": "Home - USAF",
+  "publisher": "Universal Service and Access Fund",
+  "published": "",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 USAF mandate"
+ }
+]

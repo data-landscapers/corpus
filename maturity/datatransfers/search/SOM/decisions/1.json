@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "use",
+ "fact": "The Somalia Data Protection Authority's guidance page of 3 June 2026 states it issues official guidance and advisory opinions including on cross-border data transfers.",
+ "title": "Guidance & Advisory Opinions",
+ "publisher": "Somalia Data Protection Authority",
+ "published": "2026-06-03",
+ "date_source": "source",
+ "why_not": ""
+}

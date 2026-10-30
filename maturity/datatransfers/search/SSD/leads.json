@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://dataprotection.africa/south-sudan/",
+  "title": "South Sudan Fact Sheet",
+  "publisher": "Data Protection Africa",
+  "published": "2022-05-23",
+  "sub_indicator": "rule",
+  "why": "Q1 no law restricting cross-border transfer"
+ },
+ {
+  "url": "https://dtri.uneca.org/v1/uploads/country-profile/ssd-country-profile-en.pdf",
+  "title": "SOUTH SUDAN country profile",
+  "publisher": "UNECA Digital Trade Regulatory Integration Index",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1 no data protection regime"
+ },
+ {
+  "url": "https://www.radiotamazuj.org/en/news/article/explainer-cybercrime-and-computer-misuse-act-2026-chapter-v",
+  "title": "EXPLAINER: Cybercrime and Computer Misuse Act 2026: Chapter V",
+  "publisher": "Radio Tamazuj",
+  "published": "2026-03-24",
+  "sub_indicator": "rule",
+  "why": "Q1 authority guidelines on data transfer within critical infrastructure"
+ },
+ {
+  "url": "https://tanzaniatimes.net/south-sudan-fails-to-endorse-national-data-protection-law/",
+  "title": "South Sudan fails to endorse national data protection law",
+  "publisher": "Tanzania Times",
+  "published": "2024-12-24",
+  "sub_indicator": "rule",
+  "why": "Q1 no national data protection law"
+ }
+]

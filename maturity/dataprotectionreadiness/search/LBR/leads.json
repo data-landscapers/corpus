@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://allafrica.com/stories/202608210322.html",
+  "title": "Liberia: Pres. Boakai Signs Cybercrime, Data Protection Acts Into Law",
+  "publisher": "allAfrica",
+  "published": "2026-08-21",
+  "sub_indicator": "system",
+  "why": "Q1: law signed/in force"
+ },
+ {
+  "url": "https://www.dataguidance.com/news/liberia-government-approves-personal-data-protection",
+  "title": "Liberia: Government approves Personal Data Protection and Privacy Act of 2024",
+  "publisher": "DataGuidance",
+  "published": "2026-10-13",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: Act approved 9 Mar 2026; Commissioner role"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/sites/default/files/documents/An%20Act%20For%20The%20Collection%20Processing%20Transmission%20Storage%20Protection%20%20And%20Use%20Of%20Personal%20Information%20in%20Liberia.pdf",
+  "title": "An Act for the Collection, Processing, Transmission, Storage, Protection, and Use of Personal Information in Liberia",
+  "publisher": "Ministry of Foreign Affairs, Liberia",
+  "published": "2026-03-23",
+  "sub_indicator": "system",
+  "why": "Q1: the Act text, approved 9 March 2026"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/orange-liberia-fined-after-number-recycling-leads-to-data-breach--1572496",
+  "title": "Orange Liberia fined after number recycling leads to data breach",
+  "publisher": "Telecompaper",
+  "published": "2026-05-29",
+  "sub_indicator": "system",
+  "why": "Q4: regulator fine for privacy breach (LTA)"
+ },
+ {
+  "url": "https://lexlint.io/law/lr",
+  "title": "Liberia: AI, privacy and software law",
+  "publisher": "LexLint",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q1: in force since 23 Mar 2026"
+ },
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf",
+  "title": "Draft National Data Governance Policy",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2026",
+  "sub_indicator": "system",
+  "why": "Q2: IIC as authority, no appointment"
+ },
+ {
+  "url": "https://cipesa.org/2025/08/cipesa-submits-report-on-the-state-of-digital-rights-in-liberia-to-the-universal-periodic-review/",
+  "title": "CIPESA Submits Report on the State of Digital Rights in Liberia to the UPR",
+  "publisher": "CIPESA",
+  "published": "2025-08-12",
+  "sub_indicator": "system",
+  "why": "Q2: no authority, Malabo not ratified"
+ },
+ {
+  "url": "https://africanlii.org/en/au/member-state/LR/",
+  "title": "Liberia - AfricanLII",
+  "publisher": "AfricanLII",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q2: AU treaty status, Malabo blank"
+ }
+]

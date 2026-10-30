@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf",
+  "title": "Annual Report 2024 (16th edition)",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2025",
+  "sub_indicator": "rule",
+  "why": "Q4: 112 transfer requests authorised in 2024"
+ },
+ {
+  "url": "https://dataprotection.govmu.org/Documents/DPA_2017.pdf",
+  "title": "The Data Protection Act 2017",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2017",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: section 36 transfer rule, in force 2018"
+ },
+ {
+  "url": "https://dataprotection.govmu.org/Pages/Downloads/Publications%20and%20Guidelines/Guidelines.pdf",
+  "title": "Introductory Guide",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2018",
+  "sub_indicator": "rule",
+  "why": "Q3: guidance on transfers outside Mauritius"
+ },
+ {
+  "url": "https://dataprotection.govmu.org/Documents/Documents%20and%20Forms%20-%20Homepage/Transfer%20of%20Personal%20Data.pdf",
+  "title": "Transfer of Personal Data Form",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2019",
+  "sub_indicator": "rule",
+  "why": "Q3: form for transfer applications"
+ },
+ {
+  "url": "https://dataprotection.govmu.org/Documents/2026/DPO%20Portal%20User%20Guide_V8-1.pdf",
+  "title": "User Guide, DPO Portal",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2026",
+  "sub_indicator": "rule",
+  "why": "Q3/Q4: transfer e-form, approved/rejected"
+ },
+ {
+  "url": "https://www.dentons.com/en/insights/articles/2022/october/14/data-transfer-provisions-and-the-lack-of-data-portability-provisions",
+  "title": "Mauritius: Data transfer provisions and the lack of data portability provisions",
+  "publisher": "Dentons",
+  "published": "2022-10-14",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: rule requires proof of safeguards to Commissioner"
+ }
+]

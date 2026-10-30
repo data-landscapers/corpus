@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "programme",
+ "fact": "The Universal Access Fund is seeking proposals to upgrade its Rural Telephony Program base stations from 2G to 4G, the programme having 15 base station towers and 1 teleport.",
+ "title": "REOI: Proof of Concept 2G - 4G",
+ "publisher": "Universal Access Fund",
+ "published": "2026-07-08",
+ "date_source": "source",
+ "why_not": ""
+}

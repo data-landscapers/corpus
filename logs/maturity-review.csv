@@ -32,9 +32,9 @@ datagovernance,policy,gov.policy--data-governance-policy,2026-10-28,28,55.6,29
 datalocalisation,rule,gov.policy--data-localisation-policies,2026-10-29,51,87.7,71
 dataprotectionauthority,body,gov.protect--data-protection-authority,2026-10-29,51,87.7,146
 dataprotectionlaw,general,gov.legislate--data-protection-legislation,2026-10-29,51,87.7,84
-dataprotectionreadiness,system,gov.protect--national-data-protection-readiness,,,,
-datatransfers,rule,gov.regional--cross-border-data-transfers,,,,
-digitaldivides,ruralaccess,include.divides--bridging-of-digital-divides,,,,
+dataprotectionreadiness,system,gov.protect--national-data-protection-readiness,2026-10-30,12,55.0,100
+datatransfers,rule,gov.regional--cross-border-data-transfers,2026-10-30,12,55.0,56
+digitaldivides,ruralaccess,include.divides--bridging-of-digital-divides,2026-10-30,12,55.0,152
 digitalidlaw,law,gov.legislate--legislation-covering-digital-id,,,,
 digitalskills,publicskills,capacity.literacy--digital-literacy-general-population,,,,
 digitalsovereignty,sovereignty,geopol.sovereignty--digital-sovereignty,,,,

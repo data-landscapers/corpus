@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://dataprotection.africa/eritrea/",
+  "title": "Eritrea | Fact Sheet",
+  "publisher": "Data Protection Africa",
+  "published": "2022-05-23",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: no law, no authority appointed, Malabo not ratified"
+ },
+ {
+  "url": "https://research.lawlab.africa/eritrea/",
+  "title": "Data Protection in Eritrea: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q1/Q4: no law, no regulator, no enforcement"
+ },
+ {
+  "url": "https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION.pdf",
+  "title": "List of countries which have signed, ratified/acceded to the Malabo Convention",
+  "publisher": "African Union",
+  "published": "2024-07-08",
+  "sub_indicator": "system",
+  "why": "Q2: Eritrea no signature or ratification"
+ },
+ {
+  "url": "https://lexlint.io/law/er",
+  "title": "Eritrea: AI, scraping, privacy, cybersecurity law",
+  "publisher": "LexLint",
+  "published": "2026-09-22",
+  "sub_indicator": "system",
+  "why": "Q1: no comprehensive data-protection statute or authority"
+ },
+ {
+  "url": "https://worldwatch.global/eritrea/cybersecurity",
+  "title": "Cybersecurity law & regulation in Eritrea (2026)",
+  "publisher": "World Watch",
+  "published": "2026",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: no DP law, not party to Malabo"
+ },
+ {
+  "url": "https://www.levellers.ai/what-is/ai-regulation-eritrea",
+  "title": "AI regulation in Eritrea",
+  "publisher": "Levellers",
+  "published": "2026-06-08",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: no DP law or authority as of June 2026"
+ }
+]

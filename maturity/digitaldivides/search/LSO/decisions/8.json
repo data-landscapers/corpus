@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "Afrobarometer Round 10 (March 2024) found 35 per cent of urban and 65 per cent of rural adults never use the internet.",
+ "title": "Summary of results, Round 10, Lesotho",
+ "publisher": "Afrobarometer",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

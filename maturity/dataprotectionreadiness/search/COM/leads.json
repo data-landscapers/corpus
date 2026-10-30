@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-may---june-2025",
+  "title": "Bimonthly Update on Privacy in Africa (May - June 2025)",
+  "publisher": "TechHive Advisory",
+  "published": "2025-11-20",
+  "sub_indicator": "system",
+  "why": "Q2/Q4: authority not yet constituted"
+ },
+ {
+  "url": "https://research.lawlab.africa/comoros/",
+  "title": "Data Protection in Comoros: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "2026-10",
+  "sub_indicator": "system",
+  "why": "Q1-Q4: law in force, authority never constituted, no enforcement"
+ },
+ {
+  "url": "https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf",
+  "title": "List of countries which have signed, ratified/acceded to the AU Convention (02/02/2026)",
+  "publisher": "African Union",
+  "published": "2026-02-02",
+  "sub_indicator": "system",
+  "why": "Q2: Comoros signed 2018, not ratified"
+ },
+ {
+  "url": "https://justice.gouv.km/wp-content/uploads/2025/03/loi-du-26-juin-2014-portant-protection-des-donnees-a-caractere-personnel.pdf",
+  "title": "Loi du 26 juin 2014 portant protection des données à caractère personnel",
+  "publisher": "Ministère de la Justice des Comores",
+  "published": "2025-03",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: primary text of the law, creates the CNIL"
+ },
+ {
+  "url": "https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law",
+  "title": "Review of the Comoros Data Protection Law",
+  "publisher": "TechHive Advisory",
+  "published": "2025-08-07",
+  "sub_indicator": "system",
+  "why": "Q1: law enacted"
+ },
+ {
+  "url": "https://earth.privacyposture.com/j/km/",
+  "title": "Comoros: privacy and data protection law",
+  "publisher": "Privacy Map",
+  "published": "2026-10-18",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: law in force, authority not established"
+ },
+ {
+  "url": "https://internews.org/wp-content/uploads/2023/11/ARISA-IEA-CHAPTER-5-Comoros.pdf",
+  "title": "ARISA IEA Chapter 5 Comoros",
+  "publisher": "Internews",
+  "published": "2023-11",
+  "sub_indicator": "system",
+  "why": "Q1: states no dedicated law; Malabo signatory not party"
+ }
+]

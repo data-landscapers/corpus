@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lca.org.ls/wp-content/uploads/filr/4003/The-state-of-ICT-in-Lesotho-2023.pdf",
+  "title": "The state of ICT in Lesotho, 2023",
+  "publisher": "Lesotho Communications Authority",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3-Q4: rural 42.7 vs urban 76.6 internet use"
+ },
+ {
+  "url": "https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf",
+  "title": "Comparative analysis 2016-2023",
+  "publisher": "Lesotho Communications Authority",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3-Q4 trend rural/urban"
+ },
+ {
+  "url": "https://www.diaspora.thepost.co.ls/2024/05/24/new-tower-for-ha-tsepe/",
+  "title": "New tower for Ha-Tsepe",
+  "publisher": "ThePost",
+  "published": "2024-05-24",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1-Q2: USF/AfDB tower connects 10 villages"
+ },
+ {
+  "url": "https://lca.org.ls/wp-content/uploads/filr/3761/2021%20-%202022%20LCA%20Annual%20Report%20-%20Singles%20-%20HR%20-%2028%20April%202024.pdf",
+  "title": "LCA Annual Report 2021/2022",
+  "publisher": "Lesotho Communications Authority",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1-Q2: USF BTS tenders"
+ },
+ {
+  "url": "https://lca.org.ls/wp-content/uploads/filr/3742/2020%20-%2021%20LCA%20Annual%20Report%20-%20Singles%20Pages%20-%20Internet%20File%20-%2017.04.2024.pdf",
+  "title": "LCA Annual Report 2020/21",
+  "publisher": "Lesotho Communications Authority",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1-Q2: 52 USF-funded base stations"
+ },
+ {
+  "url": "https://www.gov.ls/uncategorized/government-increases-access-to-telecommunications/",
+  "title": "Government increases access to telecommunications",
+  "publisher": "Government of Lesotho",
+  "published": "2022-07-18",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: USF towers, 48 AfDB towers"
+ },
+ {
+  "url": "https://pp.itu.int/2022/ar/itu_policy_statements/tsoinyana-rapapa-lesotho/",
+  "title": "Minister, Lesotho - PP-22",
+  "publisher": "ITU",
+  "published": "2022",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: Rural Connect programme"
+ },
+ {
+  "url": "https://www.afrobarometer.org/wp-content/uploads/2024/08/Les_R10-Summary-of-results-6aug24-rev-1nov25.pdf",
+  "title": "Summary of results, Round 10 Lesotho",
+  "publisher": "Afrobarometer",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: internet use by urban/rural"
+ }
+]

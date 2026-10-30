@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf",
+  "title": "Data Protection Act, 2023 s.47",
+  "publisher": "Official Gazette of Seychelles",
+  "published": "2023-12-22",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2 transfer rule in force"
+ },
+ {
+  "url": "https://www.dlapiperdataprotection.com/?c=SC&t=transfer",
+  "title": "Transfer of personal data in Seychelles",
+  "publisher": "DLA Piper",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2 transfer condition"
+ },
+ {
+  "url": "https://www.techhiveadvisory.africa/insights/review-of-seychelles-dpa",
+  "title": "Review of Seychelles DPA",
+  "publisher": "TechHive Advisory",
+  "published": "2024-06-10",
+  "sub_indicator": "rule",
+  "why": "Q1 transfer rule review"
+ },
+ {
+  "url": "https://www.dataguidance.com/news/seychelles-data-protection-act-enters-force",
+  "title": "Seychelles: Data Protection Act enters into force",
+  "publisher": "DataGuidance",
+  "published": "2024-04-26",
+  "sub_indicator": "rule",
+  "why": "Q2 in force, transfers regulated"
+ },
+ {
+  "url": "https://www.infocom.sc/data-protection/",
+  "title": "Data Protection - Information Commission",
+  "publisher": "Information Commission of Seychelles",
+  "published": "2026-02-06",
+  "sub_indicator": "rule",
+  "why": "Q3 any published transfer guidance"
+ }
+]

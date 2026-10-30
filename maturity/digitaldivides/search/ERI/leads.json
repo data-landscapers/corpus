@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.europesays.com/africa/244714/",
+  "title": "Substantial Investment in Expansion of Communication Service",
+  "publisher": "Eritrea Ministry of Information",
+  "published": "2026-05-21",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: 184 towers, 90% coverage, Wi-Fi in remote areas"
+ },
+ {
+  "url": "https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_ERI.pdf",
+  "title": "Digital Development Dashboard: Eritrea",
+  "publisher": "ITU",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: rural/urban household internet NA"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2025-eritrea",
+  "title": "Digital 2025: Eritrea",
+  "publisher": "DataReportal",
+  "published": "2025-03-03",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: national figure only, no rural/urban split"
+ },
+ {
+  "url": "https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-internet-use-in-urban-and-rural-areas/",
+  "title": "Internet use in urban and rural areas",
+  "publisher": "ITU",
+  "published": "2025-10-15",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4: regional only"
+ },
+ {
+  "url": "https://shabait.com/2021/05/05/communications-service-way-forward-from-microwave-to-broadband/",
+  "title": "Communications Service: Way forward from Microwave to Broadband",
+  "publisher": "Eritrea Ministry of Information",
+  "published": "2021-05-05",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: 110 centres, Wi-Fi in remote areas"
+ }
+]

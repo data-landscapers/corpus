@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "use",
+ "fact": "The Data Protection Office issued a Transfer of Personal Data Form (Form QMS 29, revision 01) on 24 May 2019 for applying to transfer personal data outside Mauritius.",
+ "title": "Transfer of Personal Data Form",
+ "publisher": "Data Protection Office",
+ "published": "2019-05-24",
+ "date_source": "source",
+ "why_not": ""
+}

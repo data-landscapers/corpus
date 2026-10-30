@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ruralaccess",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: ITU dashboard reports rural and urban household internet access as NA and carries no publication date"
+}

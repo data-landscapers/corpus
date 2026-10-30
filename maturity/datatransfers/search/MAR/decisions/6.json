@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "The CNDP states that personal data may be transferred abroad only to a country on its list or, for other countries, with express consent, under listed necessity cases, an international agreement, or the CNDP's express authorisation on the basis of contractual clauses or binding corporate rules, applied for on form F118 with a two-month decision period.",
+ "title": "Transfert de données à l'étranger",
+ "publisher": "Commission Nationale de Contrôle de Protection des Données à Caractère Personnel (CNDP)",
+ "published": "2023-01-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

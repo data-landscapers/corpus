@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf",
+  "title": "Data Protection Act, 2023 (Act 24 of 2023)",
+  "publisher": "Official Gazette of Seychelles",
+  "published": "2023-12-22",
+  "sub_indicator": "system",
+  "why": "Q1 law in force, Q2 Information Commission as authority"
+ },
+ {
+  "url": "https://www.infocom.sc/data-protection/",
+  "title": "Data Protection - Information Commission",
+  "publisher": "Information Commission of Seychelles",
+  "published": "2026-02-06",
+  "sub_indicator": "system",
+  "why": "Q1/Q3 authority page, guidance and enforcement role"
+ },
+ {
+  "url": "https://www.dlapiperdataprotection.com/index.html?c=SC&t=law",
+  "title": "Data protection laws in Seychelles",
+  "publisher": "DLA Piper",
+  "published": "2026-03-16",
+  "sub_indicator": "system",
+  "why": "Q1 law in force"
+ },
+ {
+  "url": "https://research.lawlab.africa/seychelles/",
+  "title": "Data Protection in Seychelles: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q1, Q4 enforcement not found"
+ },
+ {
+  "url": "https://www.applebyglobal.com/publications/data-protection-law-now-in-force-in-seychelles/",
+  "title": "Data Protection Law Now In Force In Seychelles",
+  "publisher": "Appleby",
+  "published": "2024-03-25",
+  "sub_indicator": "system",
+  "why": "Q1/Q2"
+ },
+ {
+  "url": "https://www.infocom.sc/decisions/",
+  "title": "Decisions - Information Commission",
+  "publisher": "Information Commission of Seychelles",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q4 decisions (ATI appeals, check for DP)"
+ }
+]

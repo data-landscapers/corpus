@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "system",
+ "aspect": "authority",
+ "fact": "The report states Comoros is a signatory to the Malabo Convention but not a party to it.",
+ "title": "ARISA IEA Chapter 5: Comoros",
+ "publisher": "Internews",
+ "published": "2023-11",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "Citing the National Statistical Office's 2023 report, 40.7 percent of people in urban areas had internet access against 13.5 percent in rural areas.",
+ "title": "Freedom on the Net 2024: Malawi",
+ "publisher": "Freedom House",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

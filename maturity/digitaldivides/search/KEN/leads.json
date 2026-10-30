@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ca.go.ke/sites/default/files/2025-08/ICT%20Analytical%20Report%20Based%20on%202023-2024%20Kenya%20Housing%20Survey_0.pdf",
+  "title": "Analytical Report on ICT based on 2023/24 Kenya Housing Survey",
+  "publisher": "Communications Authority of Kenya / KNBS",
+  "published": "2025",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4 rural vs urban internet use"
+ },
+ {
+  "url": "https://www.ca.go.ke/urban-rural-digital-divide-hinders-ict-uptake-joint-ca-and-knbs-survey-shows",
+  "title": "Urban-Rural Digital Divide Hinders ICT Uptake, Joint CA and KNBS Survey Shows",
+  "publisher": "Communications Authority of Kenya",
+  "published": "2025-08-12",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 measurement"
+ },
+ {
+  "url": "https://www.kictanet.or.ke/major-usf-transparency-update-kenyas-communications-authority-responds-to-public-inquiry/",
+  "title": "Major USF Transparency Update",
+  "publisher": "KICTANet",
+  "published": "2025-08-19",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2 sites counted"
+ },
+ {
+  "url": "https://www.ca.go.ke/ca-launches-ambitious-ksh-40b-universal-service-fund-strategy-boost-digital-inclusion",
+  "title": "CA Launches Ambitious KSh. 40b USF Strategy",
+  "publisher": "Communications Authority of Kenya",
+  "published": "2025-05-20",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2 programme"
+ },
+ {
+  "url": "https://www.kenyanews.go.ke/ca-to-spend-sh3-5bn-to-bridge-digital-divide-in-rural-areas/",
+  "title": "CA to spend Sh3.5bn to bridge digital divide in rural areas",
+  "publisher": "Kenya News Agency",
+  "published": "2025-02-27",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 programme"
+ },
+ {
+  "url": "https://www.ca.go.ke/authority-targets-313-sub-locations-mobile-network-connectivity",
+  "title": "Authority Targets 313 Sub-locations With Mobile Network Connectivity",
+  "publisher": "Communications Authority of Kenya",
+  "published": "2025-01-31",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2 sub-locations connected"
+ },
+ {
+  "url": "https://www.ca.go.ke/ca-lay-2500km-fibre-accross-19-counties",
+  "title": "CA to Lay 2,500km of Fibre Across 19 Counties",
+  "publisher": "Communications Authority of Kenya",
+  "published": "2024-09-14",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2 fibre"
+ },
+ {
+  "url": "https://www.ca.go.ke/sites/default/files/2026-07/Annual%20Report%20FY%202024-2025.pdf",
+  "title": "Annual Report FY 2024-2025",
+  "publisher": "Communications Authority of Kenya",
+  "published": "2026",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2 sub-locations connected"
+ }
+]

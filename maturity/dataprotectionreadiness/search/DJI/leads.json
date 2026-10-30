@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.journalofficiel.dj/wp-content/uploads/2025/09/code-numerique.pdf",
+  "title": "Code Numérique, JO spécial n°04 (Livre I)",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2025",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: data protection law text and CNPDP provisions"
+ },
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-18-an-23-9eme-ll-portant-ratification-de-la-convention-de-lunion-africaine-sur-la-cybersecurite-et-la-protection-de-donnees-a-caractere-personnel/",
+  "title": "Loi n° 18/AN/23/9ème L portant ratification de la Convention de l'Union Africaine sur la Cybersécurité et la Protection de données à caractère personnel",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2024-01-21",
+  "sub_indicator": "system",
+  "why": "Q2: Malabo ratification"
+ },
+ {
+  "url": "https://research.lawlab.africa/djibouti/",
+  "title": "Data Protection in Djibouti: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "2026-10",
+  "sub_indicator": "system",
+  "why": "Q1-Q4: law in force, authority being constituted, no enforcement"
+ },
+ {
+  "url": "https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law",
+  "title": "Review of Djibouti's Data Protection Law",
+  "publisher": "Tech Hive Advisory",
+  "published": "2025-11-10",
+  "sub_indicator": "system",
+  "why": "Q1: law content"
+ },
+ {
+  "url": "https://www.lanation.dj/ceremonie-de-signature-de-la-convention-de-lunion-africaine-sur-la-cyber-securite-et-la-protection-de-donnees-a-caractere-personnel/",
+  "title": "Cérémonie de signature de la Convention de l'Union Africaine sur la Cyber sécurité et la Protection de données à caractère personnel",
+  "publisher": "La Nation",
+  "published": "2023-05-14",
+  "sub_indicator": "system",
+  "why": "Q2: Malabo signature"
+ },
+ {
+  "url": "https://www.lanation.dj/le-code-du-numerique-un-pas-decisif-pour-la-transformation-digitale/",
+  "title": "Le Code du numérique, un pas décisif pour la transformation digitale",
+  "publisher": "La Nation",
+  "published": "2025-07-13",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: Code and planned commission"
+ },
+ {
+  "url": "https://www.dataguidance.com/news/djibouti-personal-data-protection-law-adopted",
+  "title": "Djibouti: Personal Data Protection Law adopted",
+  "publisher": "DataGuidance",
+  "published": "2025-12-05",
+  "sub_indicator": "system",
+  "why": "Q1: law adopted and effective"
+ },
+ {
+  "url": "https://diplomatie.gouv.dj/Articles/DetailArticles/850",
+  "title": "Compte Rendu du Porte Parole du Gouvernement, 9ème séance du Conseil des ministres",
+  "publisher": "MAECI Djibouti",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: cabinet approval of Code, commission"
+ }
+]

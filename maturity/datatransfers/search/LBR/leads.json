@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf",
+  "title": "Draft National Data Governance Policy",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2026",
+  "sub_indicator": "rule",
+  "why": "Q1/Q3: transfer rule policy, IIC registry of adequate jurisdictions, SCCs"
+ },
+ {
+  "url": "https://www.dataguidance.com/news/liberia-government-approves-personal-data-protection",
+  "title": "Liberia: Government approves Personal Data Protection and Privacy Act of 2024",
+  "publisher": "DataGuidance",
+  "published": "2026-10-13",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: Act in force"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/sites/default/files/documents/An%20Act%20For%20The%20Collection%20Processing%20Transmission%20Storage%20Protection%20%20And%20Use%20Of%20Personal%20Information%20in%20Liberia.pdf",
+  "title": "An Act for the Collection, Processing, Transmission, Storage, Protection, and Use of Personal Information in Liberia",
+  "publisher": "Ministry of Foreign Affairs, Liberia",
+  "published": "2026-03-23",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: Act text, transfer provisions"
+ },
+ {
+  "url": "https://sterling-grc.com/standards/liberia-data-protection-law/",
+  "title": "Liberia Data Protection and Privacy Act",
+  "publisher": "Sterling",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: summary of transfer duties"
+ },
+ {
+  "url": "https://dataprotection.africa/liberia/",
+  "title": "Liberia | Fact Sheet | Data Protection Africa",
+  "publisher": "Data Protection Africa",
+  "published": "2026-01-27",
+  "sub_indicator": "rule",
+  "why": "Q1: states no laws restricting transfer (absence)"
+ },
+ {
+  "url": "https://www.dlapiperdataprotection.com/?c=LR&t=transfer",
+  "title": "Transfer of personal data in Liberia",
+  "publisher": "DLA Piper",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: transfer not addressed by Liberian law; ECOWAS Act art 36"
+ },
+ {
+  "url": "https://www.levellers.ai/what-is/ai-regulation-liberia",
+  "title": "AI regulation in Liberia",
+  "publisher": "Levellers",
+  "published": "2026-06-08",
+  "sub_indicator": "rule",
+  "why": "Q1: no domestic transfer statute"
+ },
+ {
+  "url": "https://www.uneca.org/sites/default/files/ATPC/cp/Digital%20trade%20regulatory%20integration%20-%20Country%20profile%20-%20Liberia-%20ENG.pdf",
+  "title": "Digital trade regulatory integration - Country profile - Liberia",
+  "publisher": "UNECA",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: laws silent on cross-border flows"
+ }
+]

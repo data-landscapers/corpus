@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1939/ICT_Yr25_100726.pdf",
+  "title": "Economic and Social Indicators: ICT Statistics 2025",
+  "publisher": "Statistics Mauritius",
+  "published": "2026",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: household internet use survey (no rural split seen)"
+ },
+ {
+  "url": "https://data.govmu.org/dataset/6d676522-55a9-4f56-8b49-3a6e14970126/resource/e57726c6-eb01-41d6-b8ae-ea1aead726a4/download/source-file_4.pdf",
+  "title": "Households by geographical location with internet access - 2022 Housing Census",
+  "publisher": "Statistics Mauritius",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4: urban and rural household internet figures"
+ },
+ {
+  "url": "https://www.lemauricien.com/actualites/societe/internet-gratis-plus-de-5-000-foyers-vulnerables-connectes/704084/",
+  "title": "Internet Gratis: plus de 5 000 foyers vulnerables connectes",
+  "publisher": "Le Mauricien",
+  "published": "2026-04-09",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: programme with households connected incl. Rodrigues"
+ },
+ {
+  "url": "https://www.icta.mu/market-usf/",
+  "title": "Market USF",
+  "publisher": "ICT Authority",
+  "published": "",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: USF programmes for unserved areas"
+ },
+ {
+  "url": "https://data.govmu.org/dataset/private-households-geographical-location-internet-access-and-type-internet-use-mauritius",
+  "title": "Private Households by Geographical Location with Internet Access",
+  "publisher": "Open Data Mauritius",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: census internet by location"
+ }
+]

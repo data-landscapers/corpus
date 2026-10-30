@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://dataprotection.govmu.org/Documents/2026/2699-26-AR.pdf",
+  "title": "Annual Report 2025",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2026",
+  "sub_indicator": "system",
+  "why": "Q3/Q4: office activity and complaints in 2025"
+ },
+ {
+  "url": "https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf",
+  "title": "Annual Report 2024 (16th edition)",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2025",
+  "sub_indicator": "system",
+  "why": "Q3: registration, breach notifications, complaints 2024"
+ },
+ {
+  "url": "https://dataprotection.govmu.org/Pages/Decisions/Decisions-on-Complaints.aspx",
+  "title": "Decisions on Complaints - By Year",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2025",
+  "sub_indicator": "system",
+  "why": "Q4: dated decisions of the Commissioner"
+ },
+ {
+  "url": "https://dataprotection.govmu.org/Documents/Draft%20_Financial_Guide_UpdatedV7.pdf",
+  "title": "Guide on Data Protection in the Mauritian Financial Sector",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2025",
+  "sub_indicator": "system",
+  "why": "Q1/Q2: law in force, Malabo ratification, office"
+ },
+ {
+  "url": "https://africanlii.org/pt/au/member-state/MU/",
+  "title": "Mauritius - AfricanLII",
+  "publisher": "AfricanLII",
+  "published": "2024",
+  "sub_indicator": "system",
+  "why": "Q2: Malabo ratification 2018"
+ },
+ {
+  "url": "https://dataprotection.govmu.org/Pages/The%20Law/Data-Protection-Act-2017.aspx",
+  "title": "Data Protection Act 2017",
+  "publisher": "Data Protection Office, Mauritius",
+  "published": "2018",
+  "sub_indicator": "system",
+  "why": "Q1: law in force 15 January 2018"
+ },
+ {
+  "url": "https://research.lawlab.africa/mauritius/",
+  "title": "Data Protection in Mauritius: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "2026",
+  "sub_indicator": "system",
+  "why": "Q1/Q4: law in force, decisions tracked"
+ }
+]

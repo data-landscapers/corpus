@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.africadataprotection.org/en/actualites/Dissolution-of-the-High-Authority-for-Personal-Data-Protection-and-Transfer-of-Its-Responsibilities.html,fetched,,scripts/.workroot/study/datatransfers/cache/NER/1.txt,45,html,Niger : Dissolution of the High Authority for Personal Data Protection and Transfer of Its Responsibilities
+2,https://www.africadataprotection.org/actualites/Niger-Suppression-de-la-Haute-Autorite-de-Protection-des-Donnees-a-caractere-Personnel-et-transfert-de-ses-competences.html,held,held as raw/2026/2026-06-13-niger-africadataprotection-suppression-hapdp.md,,0,,
+3,https://www.hapdp.ne/uploads/files/Loi-2022-59-consolidee.pdf,held,held as raw/2022/2022-12-16-niger-loi-2022-59-protection-donnees.md,,0,,
+4,https://www.hapdp.ne/uploads/files/ordonnace-2024-16-du-26-avril-2024.pdf,unfetchable,ConnectTimeout; no usable Wayback capture,,0,,
+5,https://www.hapdp.ne/formalites,unfetchable,ConnectTimeout; Wayback ConnectionError,,0,,
+6,https://www.hapdp.ne/uploads/files/demandedautorisationdetransfert.pdf,held,held as raw/2023/2023-01-01-ner-hapdp-formulaire-transfert-pays-tiers.md,,0,,
+7,https://www.hapdp.ne/uploads/files/decret-n-2020-309-fixant-les-modalites-dapplication-de-la-loi.pdf,held,held as raw/2020/2020-04-30-ner-hapdp-decret-2020-309-transfert.md,,0,,
+8,https://www.lesahel.org/mme-sanady-tchimaden-hadatan-durant-ces-cinq-5-mois-dactivites-la-hapdp-a-notamment-delivre-18-autorisations-de-traitement-6-autorisations-de-transfert-de-donnees-vers-un-pays-ti/,fetched,,scripts/.workroot/study/datatransfers/cache/NER/8.txt,2033,html,"Mme Sanady Tchimaden Hadatan : « Durant ces cinq (5) mois d’activités, la HAPDP a notamment délivré 18 autorisations de traitement, 6 autorisations de transfert de données vers un pays tiers et 3 avis », indique Mme Sanady Tchimaden Hadatan, Grand-croix dans l’Ordre National"

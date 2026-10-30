@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.journalofficiel.dj/wp-content/uploads/2025/09/code-numerique.pdf",
+  "title": "Code Numérique, JO spécial n°04 (arts 99-103)",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2025",
+  "sub_indicator": "rule",
+  "why": "Q1-Q3: transfer rule arts 99-103"
+ },
+ {
+  "url": "https://lexlint.io/l/dj-num-rique-livre-premier-99-102-transferts-ver",
+  "title": "Digital Code, Book I: cross-border transfer of personal data",
+  "publisher": "LexLint",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: arts 99-102"
+ },
+ {
+  "url": "https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law",
+  "title": "Review of Djibouti's Data Protection Law",
+  "publisher": "Tech Hive Advisory",
+  "published": "2025-11-10",
+  "sub_indicator": "rule",
+  "why": "Q1: international transfers"
+ },
+ {
+  "url": "https://research.lawlab.africa/djibouti/",
+  "title": "Data Protection in Djibouti: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "2026-10",
+  "sub_indicator": "rule",
+  "why": "Q2/Q4: transfer rule, no enforcement"
+ },
+ {
+  "url": "https://digitalprivacyregs.com/fr/djibouti.html",
+  "title": "Djibouti : lois sur la protection des données personnelles (2026)",
+  "publisher": "Digital Privacy Regs",
+  "published": "2026",
+  "sub_indicator": "rule",
+  "why": "Q2: transfer conditions, commission not set up"
+ },
+ {
+  "url": "https://research.lawlab.africa/transfers/",
+  "title": "Cross-Border Transfer Rules: moving data out of Africa",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: Djibouti row"
+ },
+ {
+  "url": "https://dataprotection.africa/djibouti/",
+  "title": "Djibouti Fact Sheet",
+  "publisher": "Data Protection Africa",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: states no transfer restriction (stated absence)"
+ },
+ {
+  "url": "https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1852&context=iplj",
+  "title": "Cross-Border Data Regulatory Frameworks",
+  "publisher": "Fordham IPLJ",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: stated absence"
+ }
+]

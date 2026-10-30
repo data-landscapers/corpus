@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://justice.gouv.km/wp-content/uploads/2025/03/loi-du-26-juin-2014-portant-protection-des-donnees-a-caractere-personnel.pdf",
+  "title": "Loi du 26 juin 2014 portant protection des données à caractère personnel",
+  "publisher": "Ministère de la Justice des Comores",
+  "published": "2025-03",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: arts 9 and 43(h) transfer condition"
+ },
+ {
+  "url": "https://research.lawlab.africa/comoros/",
+  "title": "Data Protection in Comoros: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "2026-10",
+  "sub_indicator": "rule",
+  "why": "Q1-Q4: transfer regime, no authority, nothing applied"
+ },
+ {
+  "url": "https://lexlint.io/law/km",
+  "title": "Comoros: privacy, cybersecurity and communications law",
+  "publisher": "LexLint",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: arts 9 and 43(h)"
+ },
+ {
+  "url": "https://research.lawlab.africa/transfers/",
+  "title": "Cross-Border Transfer Rules: moving data out of Africa",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: Comoros adequacy and authorisation required"
+ },
+ {
+  "url": "https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law",
+  "title": "Review of the Comoros Data Protection Law",
+  "publisher": "TechHive Advisory",
+  "published": "2025-08-07",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: transfers under law"
+ },
+ {
+  "url": "https://dataprotection.gi/jurisdictions/comoros/",
+  "title": "KM Data Protection & Privacy Regulation",
+  "publisher": "Data Protection Monitor",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: no mechanism identified"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing",
+ "fact": "Section 36 of the Data Protection Act 2017 allows transfer of personal data to another country only where proof of appropriate safeguards is given to the Commissioner, or explicit consent, necessity or another listed ground applies, and the Act was proclaimed in force on 15 January 2018.",
+ "title": "The Data Protection Act 2017 (Act 20/2017)",
+ "publisher": "Government of Mauritius",
+ "published": "2017-12-23",
+ "date_source": "source",
+ "why_not": ""
+}

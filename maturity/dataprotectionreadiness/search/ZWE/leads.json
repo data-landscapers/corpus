@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://veritaszim.net/node/8052",
+  "title": "BILL WATCH 27-2026 [POTRAZ Inspections to Ensure Compliance with Cyber and Data Protection Act]",
+  "publisher": "Veritas",
+  "published": "2026-07-28",
+  "sub_indicator": "system",
+  "why": "Q3 authority inspections from 1 September"
+ },
+ {
+  "url": "https://news.pindula.co.zw/2026/05/19/company-executives-warned-of-jail-time-as-potraz-intensifies-data-law-enforcement/",
+  "title": "Company Executives Warned Of Jail Time As POTRAZ Intensifies Data Law Enforcement",
+  "publisher": "Pindula News",
+  "published": "2026-05-19",
+  "sub_indicator": "system",
+  "why": "Q3 implementation, DPOs trained; Q4 no administrative sanctions"
+ },
+ {
+  "url": "https://www.connectingafrica.com/cybersecurity/zimbabwe-to-guide-southern-africa-in-data-protection-capacity-building",
+  "title": "Zimbabwe to guide Southern Africa on data protection",
+  "publisher": "Connecting Africa",
+  "published": "2025-12-26",
+  "sub_indicator": "system",
+  "why": "Q3 count of compliant organisations"
+ },
+ {
+  "url": "https://gemnation.co.zw/831-licensed-3000-still-at-risk-in-data-law-crackdown/",
+  "title": "831 Licensed, 3000 Still at Risk in Data Law Crackdown",
+  "publisher": "Gemnation",
+  "published": "2025-12-08",
+  "sub_indicator": "system",
+  "why": "Q3 licences, assessments"
+ },
+ {
+  "url": "https://zimlii.org/akn/zw/act/si/2024/155/eng%402024-09-13",
+  "title": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024",
+  "publisher": "ZimLII",
+  "published": "2024-09-13",
+  "sub_indicator": "system",
+  "why": "Q1,Q3 licensing regs"
+ },
+ {
+  "url": "https://doi.org/10.29053/ajpdp.v1i1.0004",
+  "title": "The Cyber and Data Protection Act of Zimbabwe: A critical analysis",
+  "publisher": "African Journal of Privacy and Data Protection",
+  "published": "2024-07-01",
+  "sub_indicator": "system",
+  "why": "Q1,Q2 law, authority, Malabo not ratified"
+ },
+ {
+  "url": "https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11",
+  "title": "Cyber and Data Protection Act, 2021",
+  "publisher": "ZimLII",
+  "published": "2022-03-11",
+  "sub_indicator": "system",
+  "why": "Q1,Q2 law commenced, POTRAZ designated"
+ },
+ {
+  "url": "https://zimbabwe.misa.org/2023/05/09/potraz-to-investigate-alleged-third-party-access-to-personal-data/",
+  "title": "POTRAZ to investigate alleged third-party access to personal data",
+  "publisher": "MISA Zimbabwe",
+  "published": "2023-05-09",
+  "sub_indicator": "system",
+  "why": "Q3 authority opens investigation"
+ }
+]

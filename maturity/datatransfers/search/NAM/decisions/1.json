@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing",
+ "fact": "The Minister of ICT issued a Draft Data Protection Bill for public comment in March 2022 whose Part 6 bars a controller transferring personal data to a foreign recipient unless adequate protection, consent or another listed condition applies.",
+ "title": "Government Gazette: Data Protection Bill (draft)",
+ "publisher": "Ministry of Information and Communication Technology",
+ "published": "2022-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://edpa.org.sz/assets/documents/Notice%208.pdf",
+  "title": "EDPA notice on registration and enforcement",
+  "publisher": "Eswatini Data Protection Authority",
+  "published": "2025",
+  "sub_indicator": "system",
+  "why": "Q3: registration, 445 entities registered"
+ },
+ {
+  "url": "https://edpa.org.sz/uploads/publications/Data_Breach_Guidelines.pdf",
+  "title": "EDPA Guidelines No. 1/2025: managing and notifying data breaches",
+  "publisher": "Eswatini Data Protection Authority",
+  "published": "2025-08",
+  "sub_indicator": "system",
+  "why": "Q3: breach guidance"
+ },
+ {
+  "url": "https://edpa.org.sz/assets/documents/EDPA%20NOTICE%203%202024%20-%20ENFORCEMENT%20NOTICE-MTN%20Eswatini%20Final%20(002).pdf",
+  "title": "EDPA Notice 3/2024 enforcement notice MTN Eswatini",
+  "publisher": "Eswatini Data Protection Authority",
+  "published": "2024",
+  "sub_indicator": "system",
+  "why": "Q4: warning to named organisation"
+ },
+ {
+  "url": "https://edpa.org.sz/assets/documents/RSTP%20ENFORCEMENT.pdf",
+  "title": "Enforcement notice, Royal Science Technology Park",
+  "publisher": "Eswatini Data Protection Authority",
+  "published": "2024",
+  "sub_indicator": "system",
+  "why": "Q4: warning to named organisation"
+ },
+ {
+  "url": "https://edpa.org.sz/assets/documents/SMVA%20EDPA%20FINAL%20DECISION%20-%20AUGUST%202023.pdf",
+  "title": "SMVA EDPA final decision",
+  "publisher": "Eswatini Data Protection Authority",
+  "published": "2023-08",
+  "sub_indicator": "system",
+  "why": "Q4: fine E150,000"
+ },
+ {
+  "url": "https://esccom.org.sz/2023/06/02/esccom-becomes-the-newest-member-of-the-network-of-african-data-protection-authorities/",
+  "title": "ESCCOM becomes the newest member of the Network of African Data Protection Authorities",
+  "publisher": "ESCCOM",
+  "published": "2023-06-02",
+  "sub_indicator": "system",
+  "why": "Q2: authority designated"
+ },
+ {
+  "url": "https://www.dataguidance.com/news/eswatini-data-protection-act-enters-force",
+  "title": "Eswatini: Data Protection Act enters into force",
+  "publisher": "DataGuidance",
+  "published": "2022-04-11",
+  "sub_indicator": "system",
+  "why": "Q1: law in force"
+ },
+ {
+  "url": "https://www.tralac.org/documents/resources/african-union/6915-au-convention-on-cyber-security-and-personal-data-protection-status-1/file.html",
+  "title": "AU Malabo Convention status list",
+  "publisher": "African Union",
+  "published": "2019",
+  "sub_indicator": "system",
+  "why": "Q2: Eswatini not ratified, dated 2019"
+ }
+]

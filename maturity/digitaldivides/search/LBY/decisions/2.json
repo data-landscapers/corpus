@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The Libya MICS 2024-2025 household survey found internet use by women aged 15-49 at 75 per cent in urban and 66 per cent in rural areas, and internet access at home in 92 per cent of urban and 89 per cent of rural households.",
+ "title": "Libya MICS7 2024-25 Statistical Snapshot",
+ "publisher": "Bureau of Statistics and Census, with UNICEF",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

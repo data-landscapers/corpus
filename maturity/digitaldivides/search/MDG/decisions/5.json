@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The household survey reports 2.7% of the population with internet access in rural areas, against 20.4% in the Grand Centre Urbain and 8% in secondary urban centres, and 7.1% nationally.",
+ "title": "Enquête Permanente auprès des Ménages 2021-2022",
+ "publisher": "INSTAT",
+ "published": "2024-03",
+ "date_source": "source",
+ "why_not": ""
+}

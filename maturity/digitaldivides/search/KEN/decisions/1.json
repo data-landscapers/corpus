@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The 2023/24 Kenya Housing Survey (25,000 households, March-May 2024) found 25.0 per cent of rural individuals used the internet against 56.6 per cent of urban individuals, 35.0 per cent nationally.",
+ "title": "Analytical Report on ICT Based on the 2023/24 Kenya Housing Survey",
+ "publisher": "Communications Authority of Kenya and Kenya National Bureau of Statistics",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

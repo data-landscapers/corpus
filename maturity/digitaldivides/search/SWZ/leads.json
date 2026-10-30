@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://uasf.esccom.org.sz/programmes/connectivity-programmes/",
+  "title": "Connectivity Programmes",
+  "publisher": "Universal Access and Service Fund, ESCCOM",
+  "published": "2023-10-03",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1/Q2: 30 rural GSM sites, 50 upgraded"
+ },
+ {
+  "url": "https://uasf.esccom.org.sz/wp-content/uploads/2023/10/2022.23-Universal-Access-Service-Fund-Annual-Report-_.pdf",
+  "title": "Universal Access and Service Fund Annual Report 2022/23",
+  "publisher": "UASF",
+  "published": "2023",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: sites upgraded"
+ },
+ {
+  "url": "https://uasf.esccom.org.sz/wp-content/uploads/2025/03/2024.pdf",
+  "title": "ESCCOM/UASF 2024 report",
+  "publisher": "ESCCOM",
+  "published": "2025-03",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: ICTAUS and rural programmes"
+ },
+ {
+  "url": "https://esccom.org.sz/wp-content/uploads/2026/02/ICTAUS-Survey-2022-Report-Only.pdf",
+  "title": "ICT Access and Use Survey 2022 report",
+  "publisher": "ESCCOM with Central Statistical Office",
+  "published": "2023",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4: rural and urban internet access"
+ },
+ {
+  "url": "https://independentnews.co.sz/9934/business/the-2022-ict-access-and-use-survey-report-has-been-launched/",
+  "title": "The 2022 ICT Access and Use Survey Report has been Launched",
+  "publisher": "Independent News",
+  "published": "2023-11-23",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: survey launched"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-12/dra_report_eswatini.pdf",
+  "title": "Digital Readiness Assessment Eswatini",
+  "publisher": "UNDP",
+  "published": "2024-12",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3: rural share in ICTAUS"
+ }
+]

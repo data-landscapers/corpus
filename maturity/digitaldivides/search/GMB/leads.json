@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://policies.gov.gm/d/472c105c-8628-11ef-b086-029254d29bb1",
+  "title": "Universal Access and Service Policy 2020",
+  "publisher": "Government of The Gambia",
+  "published": "2020",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 UAS fund for rural (older than 3 yrs)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099110923121020104/txt/P1769320b3a0980140827505e38b648bd1d.txt",
+  "title": "World Bank project document (Gambia digital/WARDIP)",
+  "publisher": "World Bank",
+  "published": "2023",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 rural ICT connectivity project"
+ },
+ {
+  "url": "https://www.gbosdata.org/downloads-file/580-communication-statistics-summary-report-2024",
+  "title": "Communication Statistics 2024",
+  "publisher": "Gambia Bureau of Statistics",
+  "published": "2025",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 ICT use stats"
+ },
+ {
+  "url": "https://www.gbosdata.org/downloads-file/545-communication-statistics-summary-report-2023",
+  "title": "Communication Statistics Summary Report 2023",
+  "publisher": "Gambia Bureau of Statistics",
+  "published": "2024-08",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 ICT access"
+ },
+ {
+  "url": "https://www.afrobarometer.org/wp-content/uploads/2023/06/SOR-Gambia-Afrobarometer-R9-ma-bh-17June2023.pdf",
+  "title": "Summary of results, Afrobarometer Round 9 Gambia",
+  "publisher": "Afrobarometer",
+  "published": "2023-06",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3/Q4 urban vs rural internet use"
+ },
+ {
+  "url": "https://freedomhouse.org/country/gambia/freedom-net/2023",
+  "title": "The Gambia: Freedom on the Net 2023",
+  "publisher": "Freedom House",
+  "published": "2023",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 NBN closing digital divide; rural divide"
+ },
+ {
+  "url": "https://paradigmhq.org/wp-content/uploads/2024/06/The-Gambia-Country-Report.pdf",
+  "title": "LONDA 2023 Gambia Country Report",
+  "publisher": "Paradigm Initiative",
+  "published": "2024-06",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 Universal Service Fund being established"
+ }
+]

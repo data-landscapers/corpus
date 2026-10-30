@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.heraldonline.co.zw/zimbabwe-unveils-ict-access-report-at-household-individual-level/",
+  "title": "Zimbabwe unveils ICT Access Report at household, individual level",
+  "publisher": "The Herald",
+  "published": "2026-07-15",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 2025 ICT household survey, rural lagging"
+ },
+ {
+  "url": "https://www.zimbabwesituation.com/news/zimbabwe-hits-record-96-mobile-access-but-high-costs-stifle-rural-internet-growth/",
+  "title": "Zimbabwe hits record 96% mobile access but high costs stifle rural internet growth",
+  "publisher": "Zimbabwe Situation / Herald",
+  "published": "2026-07-15",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3,Q4 rural-urban survey figures"
+ },
+ {
+  "url": "https://www.zimbabwenow.co.zw/articles/23843/cost-keeps-more-than-a-million-zimbabwean-households-offline",
+  "title": "Cost keeps more than a million Zimbabwean households offline",
+  "publisher": "Zimbabwe Now",
+  "published": "2026-09-01",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3 survey barriers"
+ },
+ {
+  "url": "https://www.heraldonline.co.zw/tower-relocation-project-brings-mobile-connectivity-to-marginalised-communities-in-zimbabwe/",
+  "title": "Tower relocation project brings mobile connectivity to marginalised communities in Zimbabwe",
+  "publisher": "The Herald",
+  "published": "2025-09-16",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1,Q2 USF tower relocation, 30 towers"
+ },
+ {
+  "url": "https://technomag.co.zw/understanding-the-potraz-trp-program-with-27-sites-going-live-in-zimbabwe/",
+  "title": "Understanding the Potraz TRP Program, With 27 sites going Live In Zimbabwe",
+  "publisher": "TechnoMag",
+  "published": "2025-09-17",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1,Q2 27 TRP sites on air"
+ },
+ {
+  "url": "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2025/04/POTRAZ-Annual-Sector-Report-2024.pdf",
+  "title": "Annual Postal and Telecommunications Sector Performance Report 2024",
+  "publisher": "POTRAZ",
+  "published": "2025",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 rural vs urban coverage"
+ },
+ {
+  "url": "https://freedomhouse.org/index%2ephp/country/zimbabwe/freedom-net/2024",
+  "title": "Zimbabwe: Freedom on the Net 2024",
+  "publisher": "Freedom House",
+  "published": "2024",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1 rural programmes, disparities"
+ }
+]

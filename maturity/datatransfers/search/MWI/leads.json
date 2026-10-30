@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf",
+  "title": "Data Protection Act 2024",
+  "publisher": "Parliament of Malawi",
+  "published": "2024-02-02",
+  "sub_indicator": "rule",
+  "why": "Q1 sections 38-40 transfer rule"
+ },
+ {
+  "url": "https://malawilii.org/akn/mw/act/gn/2024/40/eng@2024-05-31",
+  "title": "Data Protection Act, 2024: Commencement",
+  "publisher": "MalawiLII / Government Gazette",
+  "published": "2024-05-31",
+  "sub_indicator": "rule",
+  "why": "Q2 in force"
+ },
+ {
+  "url": "https://www.dpa.mw/download/guideline-and-checklist-on-compliance/?wpdmdl=8808",
+  "title": "Guidelines and Checklist on Compliance with the Data Protection Act 2024",
+  "publisher": "Malawi Communications Regulatory Authority",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3 guidance on transfers"
+ },
+ {
+  "url": "https://research.lawlab.africa/malawi/",
+  "title": "Data Protection in Malawi: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q2-Q4 transfers"
+ },
+ {
+  "url": "https://www.datalaw.africa/wp-content/uploads/2024/09/Malawi_country-guide_30-Sept.pdf",
+  "title": "Malawi country guide: cross-border sharing of data",
+  "publisher": "DS-I Africa Law",
+  "published": "2024-09",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2"
+ },
+ {
+  "url": "https://cipit.strathmore.edu/review-of-the-malawi-data-protection-act-2024/",
+  "title": "Review of the Malawi Data Protection Act 2024",
+  "publisher": "CIPIT Strathmore",
+  "published": "2024-06-25",
+  "sub_indicator": "rule",
+  "why": "Q1"
+ },
+ {
+  "url": "https://uubo.org/wp-content/uploads/2025/07/Africa-Guide-Data-Protection-2025_07.pdf",
+  "title": "Africa Guide Data Protection",
+  "publisher": "UUBO",
+  "published": "2025-07",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2"
+ },
+ {
+  "url": "https://www.dpa.mw/download/public-consultation-notice-regulations-and-guidelines/",
+  "title": "Public Consultation Notice - Regulations and Guidelines",
+  "publisher": "Malawi Data Protection Authority",
+  "published": "2025-10-28",
+  "sub_indicator": "rule",
+  "why": "Q3 consultation on guidelines"
+ }
+]

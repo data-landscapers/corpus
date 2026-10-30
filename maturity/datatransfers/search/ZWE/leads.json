@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://potraz.zw/wp-content/uploads/2026/03/Guideline-on-cross-border-transfer-final.pdf",
+  "title": "Guideline on Cross Border Transfer",
+  "publisher": "POTRAZ",
+  "published": "2024-11-13",
+  "sub_indicator": "rule",
+  "why": "Q3 authority guideline on transfers"
+ },
+ {
+  "url": "https://www.veritaszim.net/sites/veritas_d/files/Cyber%20and%20Data%20Protection%20Act%20Implementation%20Guidlines.pdf",
+  "title": "Cyber and Data Protection Implementation Guideline on Cross Border Transfer of Personal Information",
+  "publisher": "POTRAZ (via Veritas)",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3 guideline CDPG 5 of 2024"
+ },
+ {
+  "url": "https://www.connectingafrica.com/cybersecurity/zimbabwe-to-guide-southern-africa-in-data-protection-capacity-building",
+  "title": "Zimbabwe to guide Southern Africa on data protection",
+  "publisher": "Connecting Africa",
+  "published": "2025-12-26",
+  "sub_indicator": "rule",
+  "why": "Q4 24 transfers authorised"
+ },
+ {
+  "url": "https://gemnation.co.zw/831-licensed-3000-still-at-risk-in-data-law-crackdown/",
+  "title": "831 Licensed, 3000 Still at Risk in Data Law Crackdown",
+  "publisher": "Gemnation",
+  "published": "2025-12-08",
+  "sub_indicator": "rule",
+  "why": "Q4 24 cross-border transfers authorised"
+ },
+ {
+  "url": "https://technomag.co.zw/potraz-unveils-2025-26-planned-enforcement-actions-for-data-controllers/",
+  "title": "POTRAZ Unveils 2025/26 Planned Enforcement Actions for Data Controllers",
+  "publisher": "TechnoMag",
+  "published": "2025-06-09",
+  "sub_indicator": "rule",
+  "why": "Q3,Q4 notify POTRAZ before transfers"
+ },
+ {
+  "url": "https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11",
+  "title": "Cyber and Data Protection Act, 2021",
+  "publisher": "ZimLII",
+  "published": "2022-03-11",
+  "sub_indicator": "rule",
+  "why": "Q1,Q2 sections 28-29"
+ },
+ {
+  "url": "https://www.potraz.gov.zw/wp-content/uploads/2025/02/sI-155-of-2024-Cyber-and-Data-Protection-Normal_240913_1250178.pdf",
+  "title": "Cyber and Data Protection (Licensing...) Regulations, 2024",
+  "publisher": "POTRAZ",
+  "published": "2024-09-13",
+  "sub_indicator": "rule",
+  "why": "Q1,Q2 duty to notify transfers"
+ }
+]

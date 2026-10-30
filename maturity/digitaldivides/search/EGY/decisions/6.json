@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "In 2022, 64 per cent of rural households and 84 per cent of urban households in Egypt had internet access at home.",
+ "title": "Digital Development Dashboard: Egypt",
+ "publisher": "International Telecommunication Union",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

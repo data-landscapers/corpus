@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The 2024 census final report states internet use among persons aged 10 and above was 16.6% in urban areas and 4.3% in rural areas.",
+ "title": "National Population and Housing Census 2024, Final Report Volume 1 (Main)",
+ "publisher": "Uganda Bureau of Statistics",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

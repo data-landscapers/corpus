@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing",
+ "fact": "Under Malawi's Data Protection Act, 2024, personal data may not be transferred abroad unless the recipient is subject to a law, binding corporate rule, contractual clause, code or certification affording adequate protection, or a listed consent or contract ground applies, with the Authority assessing adequacy.",
+ "title": "Malawi: Cross-Border Sharing of Data country guide",
+ "publisher": "DS-I Africa Law",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

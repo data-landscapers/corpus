@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The 2023 General Household Survey shows mobile internet use by households at 66.3% in rural areas against 76.1% in urban areas and 74.6% in metropolitan areas.",
+ "title": "South African households have become more connected",
+ "publisher": "Engineering News",
+ "published": "2024-06-14",
+ "date_source": "source",
+ "why_not": ""
+}

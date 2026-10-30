@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://digitalpolicyalert.org/digest/dpa-digital-digest-rwanda",
+  "title": "DPA Digital Digest: Rwanda [2025 Edition]",
+  "publisher": "Digital Policy Alert",
+  "published": "2025-03-12",
+  "sub_indicator": "system",
+  "why": "Q3: NCSA data protection office issuing guidance 2023-2024"
+ },
+ {
+  "url": "https://research.lawlab.africa/rwanda/",
+  "title": "Data Protection in Rwanda: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "2026-10",
+  "sub_indicator": "system",
+  "why": "Q4: no enforcement decisions found"
+ },
+ {
+  "url": "https://paradigmhq.org/wp-content/uploads/2024/06/Rwanda-Country-Report.pdf",
+  "title": "LONDA Rwanda Country Report",
+  "publisher": "Paradigm Initiative",
+  "published": "2024-06",
+  "sub_indicator": "system",
+  "why": "Q1-Q3: law, Malabo party, DPO launched 2022"
+ },
+ {
+  "url": "https://dataprotection.africa/rwanda/",
+  "title": "Rwanda Fact Sheet",
+  "publisher": "Data Protection Africa",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q1-Q2: law in force, Malabo ratified"
+ },
+ {
+  "url": "https://dpo.gov.rw/about-us/who-we-are",
+  "title": "Who we are - Data Protection & Privacy Office",
+  "publisher": "NCSA Data Protection and Privacy Office",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q2: NCSA designated authority, office launched 31 March 2022"
+ },
+ {
+  "url": "https://cyber.gov.rw/updates/article/why-your-institution-needs-a-data-protection-officer-2/",
+  "title": "Why your institution needs a data protection officer",
+  "publisher": "National Cyber Security Authority",
+  "published": "2022-02-18",
+  "sub_indicator": "system",
+  "why": "Q1: law in action since 15 Oct 2021"
+ },
+ {
+  "url": "https://rwandalii.org/akn/rw/act/law/2021/58/eng@2021-10-15",
+  "title": "Law relating to the Protection of Personal Data and Privacy",
+  "publisher": "RwandaLII",
+  "published": "2021-10-15",
+  "sub_indicator": "system",
+  "why": "Q1: law commenced 15 Oct 2021"
+ },
+ {
+  "url": "https://dpo.gov.rw/faqs",
+  "title": "FAQs - Data Protection & Privacy Office",
+  "publisher": "NCSA Data Protection and Privacy Office",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q3: registration and breach notification process"
+ }
+]

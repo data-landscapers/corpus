@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://sppsyrftszniuaicadvk.supabase.co/storage/v1/object/public/public_docs/avis-trimestriels/avis-trimestriel-1788532962200.pdf",
+  "title": "Avis trimestriel N°02-2026",
+  "publisher": "Commission de protection des Données Personnelles (CDP)",
+  "published": "2026",
+  "sub_indicator": "rule",
+  "why": "Q4: authorisation with transfer to third country; request rejected for no consent before transfer"
+ },
+ {
+  "url": "https://sppsyrftszniuaicadvk.supabase.co/storage/v1/object/public/public_docs/avis-trimestriels/avis-trimestriel-1763029761225.pdf",
+  "title": "Avis trimestriel N°03-2025",
+  "publisher": "Commission de protection des Données Personnelles (CDP)",
+  "published": "2025-09",
+  "sub_indicator": "rule",
+  "why": "Q4: video surveillance authorisations with transfer to third country"
+ },
+ {
+  "url": "https://blueprint.ng/paradigm-initiative-senegals-cdp-sign-mou-to-strengthen-data-protection/",
+  "title": "Paradigm Initiative, Senegal's CDP sign MoU to strengthen data protection",
+  "publisher": "Blueprint Newspapers",
+  "published": "2025-05-08",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: CDP president says approval needed before transfer abroad"
+ },
+ {
+  "url": "https://www.cdp.sn/conformite/formalites",
+  "title": "Formalités - CDP",
+  "publisher": "Commission de protection des Données Personnelles (CDP)",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q3: authorisation form for transfers to third country"
+ },
+ {
+  "url": "https://www.lexenegal.sn/code/loi-protection-donnees-personnelles/art-49",
+  "title": "Article 49 de la loi n° 2008-12 du 25 janvier 2008",
+  "publisher": "Lexenegal",
+  "published": "2008-01-25",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: rule on transfers to third countries"
+ },
+ {
+  "url": "https://www.dlapiperdataprotection.com/?c=SN&t=transfer",
+  "title": "Transfer of personal data in Senegal",
+  "publisher": "DLA Piper",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: transfer conditions and information required"
+ },
+ {
+  "url": "https://research.lawlab.africa/senegal/",
+  "title": "Data Protection in Senegal: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: transfers rule, modernization bill pending"
+ }
+]

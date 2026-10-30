@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://arct.gov.bi/2026/03/18/loi-n1-03-du-10-mars-2026-portant-protection-des-donnees-a-caractere-personnel/",
+  "title": "LOI N°1/03 DU 10 MARS 2026 PORTANT PROTECTION DES DONNEES A CARACTERE PERSONNEL",
+  "publisher": "ARCT",
+  "published": "2026-03-18",
+  "sub_indicator": "system",
+  "why": "Q1 law in force"
+ },
+ {
+  "url": "https://www.setic.gov.bi/documents?category=x1dh3e5q7dq6hdogrpuo30p3",
+  "title": "SETIC - Documents",
+  "publisher": "SETIC",
+  "published": "2026",
+  "sub_indicator": "system",
+  "why": "Q1 law text listing"
+ },
+ {
+  "url": "https://assemblee.bi/?p=31493",
+  "title": "Analyse et adoption du projet de loi portant protection des données à caractère personnel",
+  "publisher": "Assemblée Nationale du Burundi",
+  "published": "2026-01-30",
+  "sub_indicator": "system",
+  "why": "Q1 law adopted, body created"
+ },
+ {
+  "url": "https://presidence.gov.bi/wp-content/uploads/2025/11/CMQ-CM-11-DU-22.10.25.pdf",
+  "title": "Communiqué de presse N°11/2025 du Conseil des Ministres du 22 oct 2025",
+  "publisher": "Présidence du Burundi",
+  "published": "2025-10-22",
+  "sub_indicator": "system",
+  "why": "Q1/Q2 bill adopted, independent authority foreseen"
+ },
+ {
+  "url": "http://au.int/sites/default/files/AFRICAN%20UNION%20CONVENTION%20ON%20CYBER%20SECURITY%20AND%20PERSONAL%20DATA%20PROTECTION%20%281%29.pdf",
+  "title": "List of countries which have signed, ratified/acceded to the Malabo Convention",
+  "publisher": "African Union",
+  "published": "2026-02-02",
+  "sub_indicator": "system",
+  "why": "Q2 ratification status"
+ },
+ {
+  "url": "https://research.lawlab.africa/burundi/",
+  "title": "Data Protection in Burundi: Law, Regulator, Enforcement",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "system",
+  "why": "Q2-Q4 authority not established, no enforcement"
+ }
+]

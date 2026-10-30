@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "An Afrobarometer survey of 1,200 adults, fielded 21 November-30 December 2022, found 51.7% of rural and 23.1% of urban respondents never use the internet, and 28.3% of rural against 59.0% of urban respondents use it every day.",
+ "title": "Summary of results, Sudan, Afrobarometer Round 9",
+ "publisher": "Afrobarometer",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

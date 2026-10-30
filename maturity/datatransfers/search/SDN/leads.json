@@ -1,0 +1,6 @@
+[
+{"url":"https://dtri.uneca.org/v1/uploads/country-profile/sdn-country-profile-en.pdf","title":"SUDAN (Digital Trade Regulatory Integration country profile)","publisher":"UN Economic Commission for Africa","published":"","sub_indicator":"rule","why":"Q1: states Sudan has no laws regulating cross-border data flows and no limit on transfers abroad in law"},
+{"url":"https://dataprotection.africa/sudan/","title":"Sudan Fact Sheet","publisher":"Data Protection Africa","published":"2022-05-23","sub_indicator":"rule","why":"Q1: no laws restricting cross-border transfer"},
+{"url":"https://tpra.gov.sd/en/regulatory-frameworks/regulations/","title":"Regulations","publisher":"Telecommunications and Post Regulatory Authority (TPRA)","published":"2025","sub_indicator":"rule","why":"Q1/Q2: lists Regulations for the Organization of Data Center and Cloud Computing Services, 2025"},
+{"url":"https://lexlint.io/law/sd","title":"Sudan: AI, privacy and software law","publisher":"LexLint","published":"2026-09-07","sub_indicator":"rule","why":"Q1: no comprehensive data protection statute"}
+]

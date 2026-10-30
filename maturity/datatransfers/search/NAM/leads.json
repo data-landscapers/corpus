@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.nmt.africa/uploads/6363852044dba/Data-Protection-Draft-Bill-March-2022....pdf",
+  "title": "Draft Data Protection Bill March 2022 (Part 6 transborder flows)",
+  "publisher": "Ministry of Information and Communication Technology",
+  "published": "2022-03",
+  "sub_indicator": "rule",
+  "why": "Q1: draft sets condition for transfers abroad"
+ },
+ {
+  "url": "https://dataprotection.africa/wp-content/uploads/2022/09/Namibia_DPA-Bill.pdf",
+  "title": "Draft Data Protection Bill (clause 24 transfers)",
+  "publisher": "Ministry of Information and Communication Technology",
+  "published": "",
+  "sub_indicator": "rule",
+  "why": "Q1: draft transfer rule"
+ },
+ {
+  "url": "https://digitalpolicyalert.org/change/3805-cross-border-data-transfer-regulation-in-data-protection-act-2021",
+  "title": "Cross-border data transfer regulation in Data Protection Act, 2021",
+  "publisher": "Digital Policy Alert",
+  "published": "2022",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: consultation on draft"
+ },
+ {
+  "url": "https://uubo.org/wp-content/uploads/2025/07/Africa-Guide-Data-Protection-2025_07.pdf",
+  "title": "Africa Guide Data Protection 2025",
+  "publisher": "Mondaq / law firm guide",
+  "published": "2025-07",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: no limits at present; draft bill provisions"
+ },
+ {
+  "url": "https://technews.com.na/2025/04/29/is-namibias-data-protection-bill-good-or-bad/",
+  "title": "Is Namibia's Data Protection Bill good or bad?",
+  "publisher": "TechNews Namibia",
+  "published": "2025-04-29",
+  "sub_indicator": "rule",
+  "why": "Q1: bill regulates cross-border transfers"
+ },
+ {
+  "url": "https://www.phoenix-tech.net/blog/namibia-data-protection-bill/",
+  "title": "Namibia's Data Protection Bill and Your Website",
+  "publisher": "PHOENIX",
+  "published": "2026-10-20",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: draft restricts transfers; bill not introduced"
+ },
+ {
+  "url": "https://lexlint.io/law/na",
+  "title": "Namibia: AI, privacy and software law",
+  "publisher": "LexLint",
+  "published": "2026-09",
+  "sub_indicator": "rule",
+  "why": "Q2: no cross-border transfer regime in force"
+ },
+ {
+  "url": "https://www.dlapiperdataprotection.com/index.html?c=NA&t=about",
+  "title": "Data protection laws in Namibia",
+  "publisher": "DLA Piper",
+  "published": "2026-03-20",
+  "sub_indicator": "rule",
+  "why": "Q1/Q2: draft bill; no transfer restrictions"
+ }
+]

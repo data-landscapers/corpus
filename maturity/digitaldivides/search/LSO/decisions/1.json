@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ruralaccess",
+ "aspect": "measured",
+ "fact": "The 2023 national household ICT survey found 76.6 per cent of urban individuals and 42.7 per cent of rural individuals use the internet, a gap of 33.9 points.",
+ "title": "The state of ICT in Lesotho, 2023",
+ "publisher": "Lesotho Communications Authority",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

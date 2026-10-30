@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rule",
+ "aspect": "standing;use",
+ "fact": "The PDPC's Licenses and Permits Guidelines, version 1.1 of 26 January 2026, set out the cross-border data transfer licence or permit, but its approved-country list and recommended contract clauses had not been published as at 18 August 2026.",
+ "title": "Egypt data governance rules: storage, transfer, enforcement",
+ "publisher": "Global Data Rules",
+ "published": "2026-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

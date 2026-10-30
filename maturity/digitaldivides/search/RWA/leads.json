@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.africa-press.net/rwanda/all-news/rwandas-overall-household-internet-usage-reaches-30",
+  "title": "Rwanda's overall household internet usage reaches 30%",
+  "publisher": "Africa-Press",
+  "published": "2025-06-09",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3,Q4: urban 57%, rural 19% (EICV7); 840 towers planned"
+ },
+ {
+  "url": "https://todayafrica.co/rwanda-hits-38-internet-penetration/",
+  "title": "Rwanda hits 38% internet penetration, but cost still keeps millions offline",
+  "publisher": "Today Africa",
+  "published": "2025-06-12",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3,Q4: urban 57% vs rural 19% EICV7"
+ },
+ {
+  "url": "https://statistics.gov.rw/integrated-household-living-conditions-survey-7-eicv-7/eicv7-thematic-report-utilities-and-amenities-202324",
+  "title": "EICV7 Thematic Report Utilities and Amenities 2023/24",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "",
+  "sub_indicator": "ruralaccess",
+  "why": "Q3,Q4: household internet access urban 56% rural 19%"
+ },
+ {
+  "url": "https://www.africa-press.net/rwanda/economy/airtel-rwanda-expands-connectrwanda-2-0-to-rusizi-district-boosts-digital-access-2",
+  "title": "Airtel Rwanda expands ConnectRwanda 2.0 to Rusizi District",
+  "publisher": "Africa-Press",
+  "published": "2024-05-13",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1,Q2: 700 towers planned, 520,000 phones distributed"
+ },
+ {
+  "url": "https://www.topafricanews.com/2024/03/19/rwanda-launches-connect-rwanda-program-phase-2-encourages-responsible-technology-use/",
+  "title": "Rwanda Launches Connect Rwanda Program Phase 2",
+  "publisher": "TOP AFRICA NEWS",
+  "published": "2024-03-19",
+  "sub_indicator": "ruralaccess",
+  "why": "Q2: 58 towers, 42 km fibre completed in Kirehe"
+ },
+ {
+  "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/wp-content/uploads/2024/05/Connectivity-for-Refugees_Rwanda_R2_Web.pdf",
+  "title": "Connectivity for Refugees: Rwanda Country Profile",
+  "publisher": "GSMA",
+  "published": "2024-05",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: rural connectivity priority, Universal Access Fund"
+ },
+ {
+  "url": "https://minictnew.prod.risa.rw/fileadmin/user_upload/minict_user_upload/Documents/Laws/Presidential_Order_on_Universall_access_Fund.pdf",
+  "title": "Presidential Order n 025/01 of 12/05/2023 on the Universal Access Fund",
+  "publisher": "Republic of Rwanda, Official Gazette",
+  "published": "2023-05-15",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1: fund prioritises under-served areas"
+ },
+ {
+  "url": "https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/The_Rwanda_National_Digital_Inclusion_Strategy.pdf",
+  "title": "The National Digital Inclusion Strategy",
+  "publisher": "MINICT",
+  "published": "",
+  "sub_indicator": "ruralaccess",
+  "why": "Q1,Q3: rural digital inclusion"
+ }
+]
