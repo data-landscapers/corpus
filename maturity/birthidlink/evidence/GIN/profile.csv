@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,link,link,coverage,inservice,2026-03-02,GIN-004;GIN-006,GIN-001=underway;GIN-005=underway;GIN-002=underway;GIN-003=underway;GIN-007=underway,
-GIN,link,events,coverage,,,,,nothing held
-GIN,link,reported,coverage,,,,,nothing held
+GIN,link,link,coverage,inservice,2026-03-02,GIN-004;GIN-006;GIN-009,GIN-008=underway;GIN-001=underway;GIN-005=underway;GIN-002=underway;GIN-003=underway;GIN-007=underway,
+GIN,link,events,coverage,,,,,nothing found
+GIN,link,reported,coverage,,,,,nothing found

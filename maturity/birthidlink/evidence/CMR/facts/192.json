@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-etat-civil-le-cameroun-sinspire-de-la-cote-divoire-pour-interconnecter-ses",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Cameroon's 2025-2029 strategic plan provides for interconnecting the principal civil registration centres with identification services and for the systems to exchange data with the national civil status system by 2029.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Plan stratégique 2025-2029 (BUNEC)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

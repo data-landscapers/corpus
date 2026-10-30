@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-14-gin-decret-fixant-les-conditions-de-securite-d-integrite-de-securisation-e",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Decree D/2025/053 states one body, the organ in charge of civil status and identification, holds both the national civil-status register and the national register of natural persons, keyed by the personal identification number (NPI).",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "registre national de l'état civil and registre national des personnes physiques (NPI)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "registre national de l'état civil",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "organe en charge de l'état civil et de l'identification",
+   "tiers": ""
+  },
+  {
+   "system": "registre national des personnes physiques",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "organe en charge de l'état civil et de l'identification",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
