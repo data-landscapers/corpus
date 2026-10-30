@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-18-ner-haute-autorite-de-protection-des-donnees-a-caractere-personnel-le-pres",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Iro Adamou, named member and president of the HAPDP by decree 4016/P/CNSP of 24 June 2024, took the oath before the Cour d'Etat on 18 September 2024, per Le Sahel.",
+   "as_of": "2024-09-18",
+   "date_precision": "day",
+   "system": "HAPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HAPDP",
+   "country_label": "Niger",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling or count of rulings is stated."
+}

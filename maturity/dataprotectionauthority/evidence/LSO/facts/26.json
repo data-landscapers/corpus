@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-27-lso-exploring-the-data-protection-and-data-governance-challenges-and-oppor",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The Data Protection Act 2011 mandates a Data Protection Commission, which the article by Letsatsi Lekhooa for Digital Rights Alliance Africa says had still not been established almost fifteen years later.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Lesotho",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

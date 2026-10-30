@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-07-ben-interview-avec-me-luciano-hounkponou-president-de-l-autorite-de-protec",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "APDP president Luciano Hounkponou says the Autorite de Protection des Donnees a caractere Personnel is an independent authority established by Book V of the Digital Code (Law No. 2017-20 of 20 April 2018, amended 2021) and made up of eight members.",
+   "as_of": "2024-05-07",
+   "date_precision": "day",
+   "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+   "country_label": "Benin",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The president describes the power to sanction but names no decision against an organisation and gives no count."
+}

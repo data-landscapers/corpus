@@ -1,0 +1,46 @@
+{
+ "slug": "2026-01-29-nga-ndpc-concludes-246-investigations-generates-n5-2bn-revenue-in-show-of",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The NDPC, led by national commissioner Vincent Olatunji, regulates data protection under the Nigeria Data Protection Act, 2023.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "NDPC",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The NDPC fined MultiChoice Nigeria N766.2 million in July 2025 for unlawful cross-border transfers and other data practices.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NDPC",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The NDPC fined Fidelity Bank N555.8 million in 2024 for processing personal data without informed consent and other failings.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NDPC",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NDPC",
+   "country_label": "Nigeria",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

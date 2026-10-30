@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-30-cpv-cnpd-apresenta-relatorio-de-atividades-de-2023",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The CNPD, headed by president Faustino Varela, delivered its 2023 annual activity report to the president of the National Assembly, as the law requires.",
+   "as_of": "2024-04-30",
+   "date_precision": "day",
+   "system": "CNPD",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "fact": "The CNPD president said the commission decided 297 processes out of 326 requests during 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "CNPD",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNPD",
+   "country_label": "Cabo Verde",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

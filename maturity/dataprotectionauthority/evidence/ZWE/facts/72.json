@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-zwe-potraz-certifies-700-data-protection-officers",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "POTRAZ, led by director-general Gift Machengete, acts as Zimbabwe's data protection regulator under the Cyber and Data Protection Act.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "POTRAZ",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ",
+   "country_label": "Zimbabwe",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "POTRAZ says it favours compliance over fines; no ruling or count of rulings is stated."
+}

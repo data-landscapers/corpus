@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-15-cmr-gouvernance-des-donnees-en-afrique-centrale-le-cameroun-sans-apdp-oper",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "OBS-CC says Law No. 2024/017 of 23 December 2024 creates the Autorite de protection des donnees a caractere personnel (APDP) in article 53, but the presidential decree organising it and appointing members had not been published when it checked the presidency's list on 14 September 2026.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Autorite de protection des donnees a caractere personnel (APDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de protection des donnees a caractere personnel (APDP)",
+   "country_label": "Cameroon",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling or count of rulings is stated."
+}

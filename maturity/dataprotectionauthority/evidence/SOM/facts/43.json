@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-25-som-somalia-s-data-protection-authority-launches-in-mogadishu",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "SONNA reports that Somalia's Minister of Communications and Technology officially opened the Data Protection Authority in Mogadishu, with Director General Mohamed Royal setting out its mandate.",
+   "as_of": "2024-02-25",
+   "date_precision": "day",
+   "system": "Data Protection Authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Authority",
+   "country_label": "Somalia",
+   "class": "authority",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

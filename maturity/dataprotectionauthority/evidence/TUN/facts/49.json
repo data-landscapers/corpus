@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ACTPOL says Organic Law 2004-63 is enforced by Tunisia's national authority, the INPDP.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "INPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INPDP",
+   "country_label": "Tunisia",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

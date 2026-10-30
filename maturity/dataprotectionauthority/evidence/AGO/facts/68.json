@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-17-ago-apd-ja-aplicou-mais-de-1-milhao-de-dolares-em-multas-este-ano",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "fact": "PTI, citing the authority's map of infringement cases, says the Agencia de Protecao de Dados imposed six fines totalling USD 1.107 million equivalent in 2026 to date, three fines totalling USD 250,000 in 2025 and five totalling USD 600,000 in 2024.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Agencia de Protecao de Dados (APD)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "PTI reports the authority fined Standard Bank de Angola USD 150,000 for inadequate security measures after unauthorised access to data of 51 clients.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Agencia de Protecao de Dados (APD)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agencia de Protecao de Dados (APD)",
+   "country_label": "Angola",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

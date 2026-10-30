@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,body,standing,coverage,constituted,2026-10,BEN-001;BEN-002;BEN-004;BEN-005;BEN-007;BEN-013;BEN-014;BEN-015;BEN-016;BEN-017;BEN-018;BEN-019;BEN-020;BEN-021;BEN-022;BEN-023;BEN-024,BEN-006=provided;BEN-012=provided,
-BEN,body,rulings,coverage,reported,2025,BEN-003;BEN-008,BEN-011=ruled;BEN-010=ruled;BEN-009=ruled,
+BEN,body,standing,coverage,constituted,2026-10,BEN-001;BEN-002;BEN-004;BEN-005;BEN-007;BEN-013;BEN-014;BEN-015;BEN-016;BEN-017;BEN-018;BEN-019;BEN-020;BEN-021;BEN-022;BEN-023;BEN-024;BEN-025;BEN-027,BEN-006=provided;BEN-012=provided,
+BEN,body,rulings,coverage,reported,2025,BEN-003;BEN-008,BEN-026=ruled;BEN-011=ruled;BEN-010=ruled;BEN-009=ruled,

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-24-cpv-cnpd-cabo-verde-um-percurso-de-onze-anos",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The CNPD's members took office on 24 April 2015 and its president declared it installed on 10 December 2015.",
+   "as_of": "2015-12-10",
+   "date_precision": "day",
+   "system": "CNPD",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNPD",
+   "country_label": "Cabo Verde",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The CNPD says it issued authorisations and opinions and received complaints, with no ruling on a named organisation or count of rulings."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-01-swz-enforcement-notice-in-terms-of-section-41-of-the-data-protection-act-2",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The notice says Section 5 of the Data Protection Act 2022 designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, and its Chief Executive signed the notice.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Eswatini Data Protection Authority (EDPA)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The authority imposed a warning on the Royal Science Technology Park under section 41(2) for an unauthorised email disclosure affecting three data subjects, and directed seven remedial steps.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Eswatini Data Protection Authority (EDPA)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Data Protection Authority (EDPA)",
+   "country_label": "Eswatini",
+   "class": "authority",
+   "platform": "",
+   "owner": "Eswatini Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

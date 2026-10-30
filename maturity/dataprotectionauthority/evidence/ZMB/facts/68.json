@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-26-zmb-data-protection-compliance-insights-into-the-revised-enforcement-roadm",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "MMLP states that the Data Protection Commissioner is the regulatory authority under the Data Protection Act, 2021 and that the Commissioner outlined an enforcement roadmap on 31 October 2023, since revised.",
+   "as_of": "2023-10-31",
+   "date_precision": "day",
+   "system": "Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commissioner",
+   "country_label": "Data Protection Commissioner",
+   "class": "authority",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling against a named organisation is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-mus-the-data-protection-commissioner",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Data Protection Office says Drudeisha Madhub was appointed Data Protection Commissioner of the Data Protection Office of Mauritius in August 2007.",
+   "as_of": "2007-08",
+   "date_precision": "month",
+   "system": "Data Protection Office",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Office",
+   "country_label": "Mauritius",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

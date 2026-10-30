@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "ACTPOL says Law No. 24.001 of 25 January 2024 gave the digital economy ministry 12 months to establish a supervisory agency, and in January 2026 it was unclear whether an authority had been appointed.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "supervisory agency",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

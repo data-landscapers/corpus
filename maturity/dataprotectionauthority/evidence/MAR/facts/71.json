@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-07-mar-la-cndp-consolide-sa-capacite-a-suivre-les-publications-inadequates-de",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The CNDP said it is monitoring the dark web for inadequate publication of personal data, using a tool from DEFENDIS.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDP",
+   "country_label": "Morocco",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Alerting controllers is only announced; no ruling or count is stated."
+}

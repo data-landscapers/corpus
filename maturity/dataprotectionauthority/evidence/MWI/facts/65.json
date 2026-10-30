@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-03-mwi-macra-engages-with-various-stakeholders-to-sensitise-on-framework-for",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Maravi Express (MANA) reports that the Malawi Communications Regulatory Authority (MACRA), through its Head of Data Protection Daniel Chiwoni, is developing regulations to support the Data Protection Act and will regulate personal data processing as the data protection authority.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Malawi Communications Regulatory Authority (MACRA)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Communications Regulatory Authority (MACRA)",
+   "country_label": "Malawi",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling or yearly figures stated."
+}

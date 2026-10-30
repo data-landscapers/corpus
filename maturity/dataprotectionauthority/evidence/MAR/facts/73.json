@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-02-mar-omar-seghrouchni-cndp-l-investissement-n-absout-pas-les-violations-des",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Médias24 interviews the CNDP president Omar Seghrouchni, who says the commission is strengthening its controls and refers non-compliant controllers to the competent prosecutor.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDP (Commission nationale de contrôle de la protection des données à caractère personnel)",
+   "country_label": "Morocco",
+   "class": "authority",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling against a named organisation is stated; proceedings are still open."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ACTPOL says the Personal Data Protection Centre created by Law No. 151 of 2020 had no board constituted as of January 2026 and is led by an acting chief executive who is also an adviser to the Minister of Communications.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Personal Data Protection Centre",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "none",
+   "fact": "ACTPOL says the Centre had published no decisions on its website when it checked on 25 September 2026.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Personal Data Protection Centre",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Centre",
+   "country_label": "Egypt",
+   "class": "authority",
+   "platform": "",
+   "owner": "Minister of Communications and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-03-sen-mise-a-niveau-du-projet-de-loi-sur-la-protection-des-donnees-personnel",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Le Tech Observateur reports that the Commission de Protection des Données Personnelles (CDP) launched the revision of the 2008 data protection law in 2017 and was organising a workshop on the updated bill on 10-11 October 2024 with the communications and digital ministry.",
+   "as_of": "2024-10-03",
+   "date_precision": "day",
+   "system": "Commission de Protection des Données Personnelles (CDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de Protection des Données Personnelles (CDP)",
+   "country_label": "Senegal",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

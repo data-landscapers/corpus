@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-27-mar-madar21-courts-153-data-protection-cases-2024",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The national commission for control of personal data protection (CNDP) organised a Data Protection Week from 27 to 31 January 2025.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "Only courts' rulings are reported, not the authority's."
+}

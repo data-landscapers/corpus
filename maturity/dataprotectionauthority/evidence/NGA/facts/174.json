@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-09-nga-nigeria-s-data-privacy-breaches-surge-amid-regulatory-pressure",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Punch reports the Nigeria Data Protection Commission is operating under its National Commissioner and CEO, Dr Vincent Olatunji, who spoke at the 2025 Global Privacy Day event in Abuja.",
+   "as_of": "2025-02-09",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "Nigeria",
+   "class": "authority",
+   "platform": "",
+   "owner": "NDPC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

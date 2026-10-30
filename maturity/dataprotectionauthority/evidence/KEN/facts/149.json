@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-04-ken-platinum-credit-to-pay-complainant-sh400-000-for-unsolicited-texts-cal",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Data Commissioner Immaculate Kasait issued a final determination in ODPC Complaint No. 1951 of 2024.",
+   "as_of": "2025-12-04",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The ODPC ordered Platinum Credit Limited to pay KES 400,000 compensation and issued it an enforcement notice for unsolicited marketing without consent.",
+   "as_of": "2025-12-04",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

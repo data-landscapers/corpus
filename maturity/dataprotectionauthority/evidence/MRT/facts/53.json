@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-10-mrt-apd-aned-data-localisation-nouakchott-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The head of Mauritania's personal data protection authority, Mohamed Lemine Ould Sidi, chaired a coordination meeting with the state digital agency and Mauritanian telecom company on 10 June 2026, as reported by Ettayar.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APD)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Authority (APD)",
+   "country_label": "Mauritania",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

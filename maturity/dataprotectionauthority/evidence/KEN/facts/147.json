@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-kenyas-data-protection-commissioner-engages-eu-call-centre-operators-on-bpo",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Office of the Data Protection Commissioner hosted a delegation of EU call centre operators, led by Senior Deputy Data Commissioners Oscar Otieno and John Walubengo.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ODPC",
+   "country_label": "Kenya",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling or count is stated."
+}

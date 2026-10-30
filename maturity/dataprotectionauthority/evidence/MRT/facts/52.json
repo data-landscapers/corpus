@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-22-mrt-des-membres-de-lautorite-de-protection-des-donnees-personnelles-preten",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Agence mauritanienne d'information reports that seven members of Mauritania's personal data protection authority took the legal oath in Nouakchott on 22 February 2024 before taking up their posts, under Article 70 of Law No. 020/2017 of 22 July 2017.",
+   "as_of": "2024-02-22",
+   "date_precision": "day",
+   "system": "Autorite de protection des donnees a caractere personnel",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de protection des donnees a caractere personnel",
+   "country_label": "Mauritania",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

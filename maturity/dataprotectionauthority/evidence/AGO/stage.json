@@ -1,16 +1,17 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "4",
-   "standing": "constituted",
-   "rulings": "ruled",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001;AGO-003;AGO-018",
-   "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held. The authority's register of fines by year was captured after the as-at.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "4",
+      "standing": "constituted",
+      "rulings": "ruled",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001;AGO-026;AGO-018",
+      "gaps": "No count the authority itself published, of its decisions, fines or complaints settled for a period ending in the last two years, is held. Its register lists fines by year; the yearly totals held (three fines in 2025) are PTI's tally of it, August 2026.",
+      "note": "Stage 4 on named fines of July and August 2026, among them Hotel Diamante and EPAL. Stage 5 is not met: the 2025 count is a newspaper's tally of the authority's register, not a figure the authority states.",
+      "as_at": "2026-10-30"
+    }
+  ]
 }

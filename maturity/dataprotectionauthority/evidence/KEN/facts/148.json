@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ken-2025-determinations-office-of-the-data-protection-commissioner-odpc",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The ODPC published a register of its 2025 complaint determinations, showing the office acting.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "Register gives parties, not outcomes, so no ruling is recorded."
+}

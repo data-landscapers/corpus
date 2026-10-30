@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-27-ken-pre-conference-breakfast-meeting-with-journalists-in-eldoret-ahead-of",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Data Commissioner Immaculate Kassait said the ODPC was operationalised in 2020 under the Data Protection Act of 2019.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "fact": "The ODPC said it has issued 195 determinations, 100 enforcement notices and 12 penalty notices, and resolved 6,516 of 6,817 complaints, as a cumulative count since 2020.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ODPC",
+   "country_label": "Kenya",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

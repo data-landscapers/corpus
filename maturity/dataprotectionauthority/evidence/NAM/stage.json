@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "body",
-      "stage": "unplaced",
-      "standing": "",
+      "stage": "1",
+      "standing": "none",
       "rulings": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No law held names an authority, and no source dated in the last three years says the country has none. An authority is named only in draft bills of 2020 and 2022.",
-      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "NAM-004",
+      "gaps": "No ruling or published figure is held, as there is no authority to issue them. A draft bill would create one; no enactment date is held.",
+      "note": "Stage 1 on 2026-10-30: The Namibian stated on 17 May 2026 that the country has no dedicated data protection authority and that the bill to create one has not been enacted, and no law held names one. Stage 2 needs a law naming an authority.",
+      "as_at": "2026-10-30"
     }
   ]
 }

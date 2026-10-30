@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-29-dza-l-anpdp-entame-sa-premiere-mission-de-controle-au-niveau-des-entrepris",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The ANPDP said in a communiqué that it began its first on-site inspection mission at private-sector legal persons in Algiers wilaya, showing the authority is operating.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANPDP",
+   "country_label": "Algeria",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling, fine or count of decisions is stated; an inspection mission is not a ruling."
+}

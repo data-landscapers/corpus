@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CPV,body,standing,coverage,constituted,2026-02-23,CPV-001;CPV-002;CPV-003;CPV-005;CPV-007;CPV-008;CPV-009;CPV-010,CPV-006=provided,
-CPV,body,rulings,coverage,none,2026-08-04,CPV-004,,
+CPV,body,standing,coverage,constituted,2026-02-23,CPV-001;CPV-002;CPV-003;CPV-005;CPV-007;CPV-008;CPV-009;CPV-010;CPV-011;CPV-012,CPV-006=provided,
+CPV,body,rulings,coverage,reported,2023,CPV-013,CPV-004=none,

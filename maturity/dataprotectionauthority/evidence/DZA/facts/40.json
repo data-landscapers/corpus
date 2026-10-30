@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-04-dza-anpdp-deliberation-02-2026-video-surveillance-in-the-workplace",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The ANPDP adopted deliberation 02/2026 of 4 March 2026 signed by its president, Bourahil Samir, with its members listed.",
+   "as_of": "2026-03-04",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANPDP",
+   "country_label": "Algeria",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "A general deliberation setting rules is not a ruling against a named organisation."
+}

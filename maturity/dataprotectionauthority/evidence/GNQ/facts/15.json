@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "ACTPOL says Equatorial Guinea adopted a data protection law in 2016 whose authority was reported as not yet operational in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "data protection authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

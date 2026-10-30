@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "ACTPOL says Chad entrusted its 2015 data protection law to ANSICE, which a 2022 assessment found was not independently structured.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "ANSICE",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE",
+   "country_label": "cybersecurity and electronic certification agency ANSICE",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

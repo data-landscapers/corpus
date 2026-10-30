@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-31-lso-data-governance-a-national-asset-ramashamole",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Lesotho's ICT ministry principal secretary said at a closing workshop session that establishing an independent Data Protection Authority must be prioritised.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Data Protection Authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

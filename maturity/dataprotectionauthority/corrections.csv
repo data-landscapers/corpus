@@ -12,3 +12,10 @@ MUS,003,rulings,ruled,removed,"a yearly number quoted with no organisation named
 KEN,007,rulings,reported,revalued: ruled,"a running total to March 2025 with no period stated"
 KEN,013,rulings,reported,revalued: ruled,"a commentator's 'over 110 decisions in 2025', not the authority's published figure"
 NGA,027,rulings,reported,revalued: ruled,"sanctions on seven firms with no period stated"
+BEN,026,rulings,ruled,removed,a fine on an unnamed website operator: no organisation named
+CPV,013,rulings,reported,removed,"counts authorisation processes decided, not rulings or complaints settled"
+KEN,025,rulings,reported,revalued: ruled,a running total since 2020 with no period stated
+KEN,027,rulings,reported,revalued: ruled,a running total since the Act began with no period stated
+NGA,050,rulings,reported,revalued: ruled,246 investigations concluded with no period stated
+ZWE,022,rulings,reported,removed,"a running total to date, no period and no organisation named, supplied to a third-party scorecard"
+AGO,027,rulings,reported,revalued: ruled,"a newspaper's yearly tally from the authority's register of fines, not a count the authority published"

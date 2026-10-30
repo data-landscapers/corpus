@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-23-bfa-technologies-de-l-information-la-cil-remet-son-rapport-d-activites-202",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Presidency says the Commission de l'informatique et des libertes, led by president Dr Halguieta Nassa/Trawina, handed its 2022 activity report to the Head of State on 23 February 2024.",
+   "as_of": "2024-02-23",
+   "date_precision": "day",
+   "system": "Commission de l'informatique et des libertes (CIL)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de l'informatique et des libertes (CIL)",
+   "country_label": "Burkina Faso",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "About 100 complaints are said to be registered, not settled, and no ruling against a named organisation is stated."
+}

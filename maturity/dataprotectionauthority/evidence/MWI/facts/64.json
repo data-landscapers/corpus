@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-27-mwi-malawi-trains-courier-operators-on-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "MACRA, which serves as the Data Protection Authority under head Dan Chiwoni, trained postal and courier operators in Blantyre.",
+   "as_of": "2026-05-27",
+   "date_precision": "day",
+   "system": "MACRA",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MACRA (Data Protection Authority)",
+   "country_label": "Malawi",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Training and warnings are not rulings."
+}

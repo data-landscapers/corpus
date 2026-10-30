@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-uga-uganda-s-data-protection-law-takes-effect-with-first-ever-conviction",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Personal Data Protection Office, led by Acting National Data Protection Director Baker Birikujja, referred a registration offence for prosecution and secured a conviction.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "PDPO",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PDPO",
+   "country_label": "Uganda",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The conviction is a court's judgment on a prosecution, not the authority's own ruling; no authority decision or count is stated."
+}

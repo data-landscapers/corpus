@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-gab-gabon-connect-le-ministere-de-leconomie-sollicite-lexpertise-de-lapdpv",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "GabonMediaTime reports the Autorite pour la protection des donnees a caractere personnel et de la vie privee, headed by president Joel Dominique Ledaga, received an economy ministry delegation seeking technical support.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP)",
+   "country_label": "Gabon",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling or count of rulings is stated."
+}

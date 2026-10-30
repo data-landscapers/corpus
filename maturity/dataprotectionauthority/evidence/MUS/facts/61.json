@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-23-mus-communique-data-protection-designation-tasks-and-position-of-data-prot",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Data Protection Office issued a communiqué on 23 June 2026 telling controllers about officer regulations and saying it certifies data protection officers.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Data Protection Office",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Office",
+   "country_label": "Mauritius",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling or count is stated."
+}

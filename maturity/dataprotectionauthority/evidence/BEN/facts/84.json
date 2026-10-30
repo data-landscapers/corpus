@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-04-ben-benin-l-apdp-passe-en-revue-47-dossiers-lors-des-plenieres-de-juillet",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "At its contentious session of 24 July 2024 the APDP fined an unnamed website operator one million CFA francs for processing data without prior declaration, per La Marina BJ.",
+   "as_of": "2024-07-24",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APDP",
+   "country_label": "Benin",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

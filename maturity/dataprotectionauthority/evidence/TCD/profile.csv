@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TCD,body,standing,coverage,constituted,2026-06-01,TCD-001,TCD-002=provided,
-TCD,body,rulings,coverage,,,,,nothing held
+TCD,body,standing,coverage,constituted,2026-06-01,TCD-001,TCD-002=provided;TCD-003=provided,
+TCD,body,rulings,coverage,,,,,nothing found

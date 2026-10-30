@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-06-mli-ouverture-des-travaux-de-la-deuxieme-session-ordinaire-de-2025-de-lapd",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The APDP opened its second ordinary session of 2025 on 4 August 2025 under Article 39 of law 2013-015 of 21 May 2013, as amended.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APDP",
+   "country_label": "Mali",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The session agenda of over 1,000 files is not a ruling or a count of rulings."
+}

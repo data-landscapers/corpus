@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-25-nga-nigerias-data-protection-law-at-three-many-regulators-few-remedies",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ACTPOL says the Nigeria Data Protection Act, 2023 created an independent Nigeria Data Protection Commission, which it describes as an active regulator running registration, audit and investigations.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "ACTPOL reports the Nigeria Data Protection Commission was reported to have fined MultiChoice Nigeria N766,242,500 in July 2025, in part for unlawful cross-border transfers.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "fact": "ACTPOL cites a January 2026 statement that the Commission's 246 concluded investigations had produced 11 enforcement actions.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "Nigeria Data Protection Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

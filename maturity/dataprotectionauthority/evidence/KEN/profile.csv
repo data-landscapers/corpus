@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,body,standing,coverage,constituted,2026,KEN-001;KEN-002;KEN-003;KEN-004;KEN-006;KEN-008;KEN-009;KEN-010;KEN-012;KEN-014;KEN-015;KEN-016;KEN-017;KEN-018;KEN-019,KEN-011=provided,
-KEN,body,rulings,coverage,ruled,2025,KEN-005;KEN-007;KEN-013,,
+KEN,body,standing,coverage,constituted,2026,KEN-001;KEN-002;KEN-003;KEN-004;KEN-006;KEN-008;KEN-009;KEN-010;KEN-012;KEN-014;KEN-015;KEN-016;KEN-017;KEN-018;KEN-019;KEN-020;KEN-021;KEN-022;KEN-024;KEN-026,KEN-011=provided,
+KEN,body,rulings,coverage,reported,2025-01-27,KEN-025;KEN-027,KEN-013=ruled;KEN-023=ruled;KEN-007=ruled;KEN-005=ruled,

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-tza-pdpc-tanzania-home",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Personal Data Protection Commission, headed by Director General Dr. Emmanuel Mkilia, operates under the Personal Data Protection Act, Chapter 44, registering organisations and receiving complaints.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Personal Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Commission",
+   "country_label": "Tanzania",
+   "class": "authority",
+   "platform": "RCMIS",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The panel gives 6 determinations for August 2026 without saying the period covered or naming any organisation, so no rulings fact is recorded."
+}

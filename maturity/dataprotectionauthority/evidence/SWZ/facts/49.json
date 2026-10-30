@@ -1,0 +1,36 @@
+{
+ "slug": "2024-06-01-swz-edpa-notice-4-2024-enforcement-notice-in-terms-of-section-41-of-the-es",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The EDPA notice states that section 5 of the Data Protection Act 2022 designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, and the Authority itself issued the notice in June 2024.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Eswatini Data Protection Act 2022",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The Eswatini Data Protection Authority issued Enforcement Notice 4/2024 under section 41(1)(a) of the Act in June 2024, imposing a warning on Liberty Life Swaziland Limited for breaching sections 14(1)(b) and 14(2) after a misdirected email exposed personal data of about 4,000 members.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Eswatini Data Protection Act 2022",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Data Protection Authority",
+   "country_label": "Eswatini",
+   "class": "authority",
+   "platform": "",
+   "owner": "Eswatini Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

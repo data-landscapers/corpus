@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-02-zaf-information-regulator-issues-enforcement-notices-for-the-contravention",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Information Regulator, led by Chairperson Adv. FDP Tlakula, issued enforcement notices under POPIA and PAIA.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The Information Regulator issued an enforcement notice dated 22 May 2026 against Central Johannesburg TVET College for contravening POPIA.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-29-nga-nigeria-generated-n12bn-from-data-protection-in-2024",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Nigeria Data Protection Commission, led by National Commissioner and CEO Vincent Olatunji, released its annual report and said it investigated 213 cases under the Nigeria Data Protection Act in 2024.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "Nigeria",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal government",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling against a named organisation or count of settled decisions by the commission is stated; the Meta fine is attributed to the government under consumer and data protection laws, not to the commission."
+}

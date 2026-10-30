@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "APDPVP",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "ACTPOL says Gabon's Law No. 025/2023 of 12 July 2023 created the APDPVP, whose president in December 2025 demanded the immediate suspension of a data-sharing operation between the national social security fund, the national health insurance fund and the national digital infrastructure agency launched without referral to it.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "APDPVP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APDPVP",
+   "country_label": "APDPVP",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

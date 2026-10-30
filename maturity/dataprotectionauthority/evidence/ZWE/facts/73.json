@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-zwe-zimbabwe-s-data-protection-regime",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Cyber and Data Protection Act, 2021 designates the telecom regulator POTRAZ as Data Protection Authority, and it is doing the job, with 721 licensed data controllers as of October 2025 and a 14-person data protection unit, according to POTRAZ-supplied figures.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "fact": "POTRAZ says it has received 20 formal complaints, of which 15 were investigated and resolved, 3 are under investigation and 2 were dismissed for jurisdiction; it also reports 11 compliance guidance notices and findings and 20 compliance audits in 2025, and no landmark enforcement case.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ",
+   "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

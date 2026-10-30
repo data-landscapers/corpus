@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-07-bfa-traitement-des-donnees-a-caractere-personnel-deux-nouveaux-membres-de",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Faso7 reports that two new commissioners of Burkina Faso's Commission de l'informatique et des libertes (CIL), named on 17 April 2025, were sworn in on 7 May 2025 to replace two members who left for other posts.",
+   "as_of": "2025-05-07",
+   "date_precision": "day",
+   "system": "Commission de l'informatique et des libertes (CIL)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de l'informatique et des libertes (CIL)",
+   "country_label": "Burkina Faso",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling or yearly figures stated."
+}

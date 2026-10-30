@@ -24,8 +24,8 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 | 4 Operating | 9 |
 | 3 Established | 21 |
 | 2 Nascent | 10 |
-| 1 Absent | 6 |
-| Unplaced | 3 |
+| 1 Absent | 7 |
+| Unplaced | 2 |
 | No evidence | 0 |
 
 ## Countries
@@ -69,10 +69,10 @@ South Africa has an authority that has fined and ruled against organisations sin
 
 ### Angola: 4 Operating
 
-Angola has an authority, appointed in 2019, that fined companies in 2025 and 2026; no yearly count of its rulings is known at September 2026.
+Angola's authority, appointed in 2019, fined named companies in 2024, 2025 and 2026; no yearly count published by the authority itself is known.
 
 - Angola's Agência de Protecção de Dados fined Lizíria, Lda. (owner of Hotel Diamante) the kwanza equivalent of USD 115,000 under Deliberação n.º 006/2026 of 10 August 2026 for breaching articles 30 and 31 of the Lei de Protecção de Dados Pessoais ([source, 2026-08-10](https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b)).
-- Valor Económico reported on 26 June 2026 that the APD fined Crescer Tech about USD 505,000 (c. 549 million kwanzas) for no notification or prior authorisation and an unauthorised international transfer to foreign cloud servers, and Fast Digital Center USD 112,000 (c. 110 million kwanzas) for inadequate security measures and no notification; deliberation dates are not given, so the publication date is used ([source, 2026-06-26](https://valoreconomico.co.ao/artigo/apd-aplica-multas-milionarias-a-empresas-por-armazenarem-informacoes-pessoais-sem-autorizacao)).
+- Expansao reports the authority fined Empresa Publica de Aguas de Luanda the equivalent of USD 150,000 on 14 July 2026 for inadequate protection of customers' data and failure to notify it ([source, 2026-07-14](https://www.expansao.co.ao/empresas/detalhe/agencia-de-proteccao-de-dados-ja-aplicou-multas-de-25-milhoes-usd-desde-2022-73575.html)).
 - The APD's own FAQ page tells citizens to lodge complaints about breaches of the data protection law with the APD and says it assesses transfer adequacy case by case under art. 33 of Lei 22/11; the page is undated, so the published date is used ([source, 2026-08-27](https://apd.ao/ao/perguntas-frequentes/questoes-sobre-proteccao-de-dados/)).
 
 ### Botswana: 4 Operating
@@ -377,6 +377,12 @@ Mozambique has no data protection authority yet; none has ruled against an organ
 - The World Bank restructuring paper says the Data Protection Office is not yet established, which prevents its operationalisation, and the project envelope for it was cut from US$18m to US$11m; the date is the paper's October 2025 status ([source, 2025-10](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099012626175535228)).
 - The inception report states that Mozambique has no data regulatory authority, though INTIC, INCM, INAGE and CEDSIF impliedly oversee parts of data governance ([source, 2025-06-19](https://www.uneca.org/eca-events/sites/default/files/resources/documents/TICID/data-governance-framework-mozambique/en_project_inception_report_mozambique_data_governance_framework.pdf)).
 
+### Namibia: 1 Absent
+
+Namibia has no data protection authority, a May 2026 source states, and the bill that would create one is not enacted.
+
+- A governance professional writing in The Namibian says there is currently no dedicated data protection authority in Namibia, and a draft bill expected to create a regulatory authority has not been enacted ([source, 2026-05-17](https://www.namibian.com.na/namibian-boards-need-to-rethink-data-privacy/)).
+
 ### Niger: 1 Absent
 
 Niger abolished its data protection authority in June 2026 and repealed the law founding it; no source found says whether the ministries do the job.
@@ -390,12 +396,6 @@ South Sudan has no data protection authority as of 2026, so it has made no rulin
 
 - Digital Rights Frontlines states South Sudan currently lacks a fully operational, independent Data Protection Authority, and that the government intends to introduce a Data Protection Bill; no date given for the statement, so the document's published date is used ([source, 2026-02-04](https://www.digitalrights.ngo/post/an-independent-data-protection-act-a-critical-part-to-south-sudan-s-digital-future)).
 - The East African Community says South Sudan is yet to form a data protection authority ([source, 2024-12-24](https://tanzaniatimes.net/south-sudan-fails-to-endorse-national-data-protection-law/)).
-
-### Namibia: Unplaced
-
-No law names a data protection authority in Namibia; only draft bills of 2020 and 2022 do, and no rulings or figures are known.
-
-Not established: No law held names an authority, and no source dated in the last three years says the country has none. An authority is named only in draft bills of 2020 and 2022.
 
 ### Sierra Leone: Unplaced
 

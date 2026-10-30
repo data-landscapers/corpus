@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-dza-personal-data-protection-an-overview-of-algerian-regulations",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Gide says the National Authority for the Protection of Personal Data (ANPDP) has been fully operational since August 2023.",
+   "as_of": "2023-08",
+   "date_precision": "month",
+   "system": "Autorite Nationale de Protection des Donnees a caractere Personnel (ANPDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite Nationale de Protection des Donnees a caractere Personnel (ANPDP)",
+   "country_label": "Algeria",
+   "class": "authority",
+   "platform": "ANPDP online platform",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The four deliberations named are general rules on sectors or practices, not rulings on one organisation, and no count is given."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-19-ago-angola-decision-on-infringement-proceedings",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Angolan Data Protection Agency (APD) published, under article 53(3) of Law 22/11, its Board of Directors' deliberations 004/2024 and 005/2024 of 19 July 2024, showing the Agency acting.",
+   "as_of": "2024-07-19",
+   "date_precision": "day",
+   "system": "Angola Data Protection Law 22/11",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "By deliberations 004/2024 and 005/2024 of 19 July 2024 the APD fined COSAL the equivalent of US$75,000 and ENDE-EP the equivalent of US$225,000 for failing to protect personal data against ransomware attacks of September 2023.",
+   "as_of": "2024-07-19",
+   "date_precision": "day",
+   "system": "Angola Data Protection Law 22/11",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Angolan Data Protection Agency (APD)",
+   "country_label": "Angola",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

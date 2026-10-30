@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-swz-general-notice-no-8-2025-notice-of-non-compliance-enforcement-actions",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Data Protection Act of March 2022 designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, which opened controller registration in 2024 and says over 445 organisations have registered.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "EDPA",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EDPA (Eswatini Communications Commission)",
+   "country_label": "Eswatini",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The notice announces enforcement from 1 September 2025; no ruling or count of rulings is stated."
+}
