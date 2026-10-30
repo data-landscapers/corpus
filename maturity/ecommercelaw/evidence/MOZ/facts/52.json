@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-03-moz-actual-quadro-legal-e-regulamentar-garante-a-proteccao-de-dados-pessoa",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "INTIC cites Lei n.o 3/2017 of 9 January, the Lei de Transacções Electrónicas, as setting obligations for processing personal data electronically.",
+   "as_of": "2017-01-09",
+   "date_precision": "day",
+   "system": "Lei de Transacções Electrónicas (Lei n.o 3/2017)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-04-sdn-akhbar-alsudan-data-protection-law-legislative-vacuum",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The analyst lists the 2007 Electronic Transactions Act among Sudan's existing sector laws, saying it regulates the electronic signature.",
+   "as_of": "2026-07-04",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act 2007",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

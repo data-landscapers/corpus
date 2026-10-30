@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,law,standing,coverage,in-force,2026-08-25,MOZ-001;MOZ-003;MOZ-004;MOZ-006;MOZ-007;MOZ-010;MOZ-011;MOZ-012;MOZ-013;MOZ-015,,
+MOZ,law,standing,coverage,in-force,2026-08-25,MOZ-001;MOZ-003;MOZ-004;MOZ-006;MOZ-007;MOZ-010;MOZ-011;MOZ-012;MOZ-013;MOZ-015;MOZ-016;MOZ-017,,
 MOZ,law,reach,coverage,applied,2026-06-08,MOZ-009,MOZ-002=rules;MOZ-008=rules;MOZ-005=rules;MOZ-014=rules,
