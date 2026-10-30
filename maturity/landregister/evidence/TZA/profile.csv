@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,land,register,coverage,inservice,2026-09-20,TZA-001,TZA-003=underway;TZA-004=underway,
-TZA,land,national,coverage,,,,,nothing held
+TZA,land,register,coverage,inservice,2026-09-20,TZA-001,TZA-005=underway;TZA-003=underway;TZA-004=underway,
+TZA,land,national,coverage,,,,,nothing found
 TZA,land,online,coverage,online,2026-09-20,TZA-002,,
