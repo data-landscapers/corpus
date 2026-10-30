@@ -21,6 +21,9 @@ file, and what is owed him goes in it. What still binds:
   The `· deploy` block is a state, not a message, and goes unnumbered.
 - **At most one `· deploy` block.** A stuck deploy is a state, not a history: the newer
   replaces the older; `scripts/deploy-state.py` exit 0 is what settles it.
+- **Every indicator id a block names exists** *(Bill, 2026-10-30, message 49)*: in
+  `lookups/indicators.csv` or as a study's sub-indicator. Bill looks an id up; one that
+  resolves nowhere costs him a question.
 
 **Why the strike check refuses an annotation rather than discounting it.** This file is
 read by a person scanning for what is owed him, and a settled block is noise in exactly
@@ -43,8 +46,11 @@ Usage:  python scripts/lint-messages.py
 from __future__ import annotations
 
 import argparse
+import csv
 import datetime as dt
+import glob
 import io
+import json
 import os
 import re
 import sys
@@ -68,6 +74,19 @@ DEPLOY_HEADING = re.compile(r"^## (?:\d+ · )?\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})?
 # body line opening with an assertion that the block is closed. The list is short on
 # purpose — a word like *done* or *answered* opens a perfectly ordinary bullet about what
 # a run did, and a check that fired on those would be one nobody could write a block past.
+INDICATOR = re.compile(r"`([a-z]+\.[a-z0-9.]+--[a-z0-9-]+)`")
+
+
+def known_ids() -> set[str]:
+    """Every indicator id Bill can look up: the lookup's rows and the studies' sub-indicators."""
+    with io.open(os.path.join(ROOT, "lookups", "indicators.csv"), encoding="utf-8") as f:
+        ids = {r["indicator_id"] for r in csv.DictReader(f)}
+    for p in glob.glob(os.path.join(ROOT, "maturity", "*", "study.json")):
+        with io.open(p, encoding="utf-8") as f:
+            ids.update(s["indicator_id"] for s in json.load(f).get("sub_indicators", []))
+    return ids
+
+
 STRUCK_HEADING = re.compile(r"^## .*~~|^## +[x\u00d7]\b", re.I)
 SETTLED_LINE = re.compile(
     r"^\s*(?:[-*]\s+)?(?:~~|\*{1,2}\s*(?:settled|closed|resolved|struck|superseded)\b)",
@@ -152,6 +171,12 @@ def main() -> int:
         failed = True
         print(f"lint-messages: the preamble's 'Next message takes **N**' must exceed the "
               f"highest number in use ({max(numbers)}).")
+
+    ids = known_ids()
+    for bad in sorted({m.group(1) for m in INDICATOR.finditer(text.split(MARKER, 1)[1])} - ids):
+        failed = True
+        print(f"lint-messages: `{bad}` is no indicator id: not in lookups/indicators.csv or "
+              f"any study's sub-indicators. Copy the id from study.json.")
 
     if deploys > 1:
         failed = True
