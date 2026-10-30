@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ONECI manages Cote d'Ivoire's national ID and biometric identification systems, per Biometric Update.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "ONECI national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
