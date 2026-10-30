@@ -1,0 +1,247 @@
+{
+ "schema": 3,
+ "written_utc": "2026-10-30 00:07",
+ "pass": "sweep cycle",
+ "head": "4cd8395429ec966a29cbc95fde1c73e9af11b477",
+ "head_committed_utc": "2026-10-30 00:07",
+ "collection": {
+  "last_admission": "2026-10-29 22:13",
+  "sweep_closed": "2026-10-29 20:27",
+  "ingest_started": "2026-10-29 20:29"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-10-29 20:03",
+   "end": "2026-10-29 23:58",
+   "duration": "3:55",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 534,
+  "admitted": 335,
+  "dropped": 193,
+  "screened": 851,
+  "screen_dropped": 642,
+  "pages_over_line": 364,
+  "awaiting_ingest": 0,
+  "raw_sources": 35400
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-10-29 20:02",
+   "seven_day": 65.0,
+   "five_hour": 0.0
+  },
+  "sweep": {
+   "time_utc": "2026-10-29 20:27",
+   "seven_day": 66.0,
+   "five_hour": 4.0
+  },
+  "ingest": {
+   "time_utc": "2026-10-29 22:15",
+   "seven_day": 72.0,
+   "five_hour": 26.0
+  },
+  "lint": {
+   "time_utc": "2026-10-29 23:58",
+   "seven_day": 76.0,
+   "five_hour": 43.0
+  },
+  "close": {
+   "time_utc": "2026-10-29 23:59",
+   "seven_day": 76.0,
+   "five_hour": 43.0
+  },
+  "backlog": {
+   "time_utc": "2026-10-30 00:05",
+   "seven_day": 76.0,
+   "five_hour": 44.0
+  },
+  "rules": {
+   "time_utc": "2026-10-30 00:07",
+   "seven_day": 76.0,
+   "five_hour": 44.0
+  },
+  "end": {
+   "time_utc": "2026-10-30 00:07",
+   "seven_day": 76.0,
+   "five_hour": 44.0
+  }
+ },
+ "drops": {
+  "night": "2026-10-29",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire-acq-1": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 8,
+    "ingest_drop_rate": 0.0
+   },
+   "acquire-acq-2": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 4,
+    "ingest_drop_rate": 0.0
+   },
+   "acquire-acq-3": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 4,
+    "ingest_drop_rate": 0.0
+   },
+   "corpus-queue": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 2,
+     "off-topic": 1
+    },
+    "admitted": 0,
+    "ingest_drop_rate": 1.0
+   },
+   "country-deep": {
+    "sweep": {
+     "already-seen": 80,
+     "off-topic": 53,
+     "no-development": 22,
+     "out-of-window": 11,
+     "already-held": 9,
+     "fetch-blocked": 5,
+     "fails-record-test": 3,
+     "headline-only-stub": 3,
+     "not-this-slice": 3,
+     "off-place": 2,
+     "syndicated-copy": 2,
+     "date-unestablished": 1,
+     "duplicate-raw-slug": 1,
+     "inadmissible-origin": 1,
+     "url-dead": 1
+    },
+    "ingest": {
+     "already-held": 27,
+     "no-value": 19,
+     "off-topic": 7,
+     "headline-only-stub": 4,
+     "no-development": 4,
+     "inadmissible-origin": 1
+    },
+    "admitted": 84,
+    "ingest_drop_rate": 0.425
+   },
+   "daily": {
+    "sweep": {
+     "no-development": 87,
+     "already-seen": 45,
+     "off-place": 32,
+     "out-of-window": 3,
+     "already-held": 2
+    },
+    "ingest": {
+     "already-held": 10,
+     "no-value": 4,
+     "no-development": 1,
+     "off-topic": 1
+    },
+    "admitted": 14,
+    "ingest_drop_rate": 0.533
+   },
+   "financiers": {
+    "sweep": {
+     "already-seen": 16,
+     "off-topic": 16,
+     "no-development": 10,
+     "already-held": 2,
+     "headline-only-stub": 2,
+     "date-unestablished": 1,
+     "inadmissible-origin": 1,
+     "off-place": 1,
+     "syndicated-copy": 1
+    },
+    "ingest": {
+     "already-held": 7,
+     "off-topic": 6,
+     "no-value": 2,
+     "no-development": 1
+    },
+    "admitted": 6,
+    "ingest_drop_rate": 0.727
+   },
+   "iati": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 2,
+    "ingest_drop_rate": 0.0
+   },
+   "maturity-study-datalocalisation": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 14,
+     "no-development": 12,
+     "already-seen": 1,
+     "inadmissible-origin": 1,
+     "no-value": 1
+    },
+    "admitted": 38,
+    "ingest_drop_rate": 0.433
+   },
+   "maturity-study-dataprotectionauthority": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 24,
+     "no-development": 6,
+     "no-value": 5,
+     "already-seen": 2,
+     "inadmissible-origin": 1,
+     "off-place": 1,
+     "off-topic": 1
+    },
+    "admitted": 102,
+    "ingest_drop_rate": 0.282
+   },
+   "maturity-study-dataprotectionlaw": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 21,
+     "no-development": 3,
+     "no-value": 2,
+     "already-seen": 1
+    },
+    "admitted": 56,
+    "ingest_drop_rate": 0.325
+   },
+   "off-list": {
+    "sweep": {
+     "off-place": 10,
+     "already-held": 2,
+     "already-seen": 2,
+     "no-development": 2,
+     "off-topic": 1
+    },
+    "ingest": {},
+    "admitted": 7,
+    "ingest_drop_rate": 0.0
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 1,
+    "ingest_drop_rate": 0.0
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 1865,
+  "since": "2026-10-29 11:31"
+ }
+}
