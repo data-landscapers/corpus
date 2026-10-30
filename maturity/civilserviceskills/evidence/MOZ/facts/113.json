@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-moz-us-and-mozambican-governments-partner-with-google-to-prepare-the-public",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communications and Digital Transformation and the US Embassy held a one-day Google AI, data-policy and cloud computing training for Mozambican civil servants from several ministries on 29 October 2026, described as the first of its kind in the country.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Google Super Intelligence (SI) & Cloud Computing training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Google Super Intelligence (SI) & Cloud Computing training",
+   "country_label": "Mozambique",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Transformation, US Embassy Maputo, Google",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

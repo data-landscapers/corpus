@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-aigles-le-ministre-joseph-le-motive-l-appropriation-de-loutil-et-annonce-la",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "MINFOPRA launched on 22 October 2026 a two-day national capacity-building workshop on AIGLES in all ten regions, covering the web portal and payroll management exercises.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "AIGLES capacity-building workshop",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AIGLES capacity-building workshop",
+   "country_label": "Cameroon",
+   "class": "csskills",
+   "platform": "",
+   "owner": "MINFOPRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

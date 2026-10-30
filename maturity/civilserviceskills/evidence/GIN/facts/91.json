@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-guinea-launches-ai-open-days-to-train-160-public-administration-officials",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ANSUTEN launched AI Open Days on 28 October 2026 with a session on AI in public administration for 160 officials from four ministries, under the R-CUN programme with Africa Digital Academy.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "AI Open Days (ANSUTEN, R-CUN programme)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Open Days",
+   "country_label": "Guinea",
+   "class": "csskills",
+   "platform": "",
+   "owner": "ANSUTEN with Africa Digital Academy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,csskills,training,coverage,underway,2026-10-13,GIN-001;GIN-002;GIN-003,,
-GIN,csskills,reach,coverage,,,,,nothing held
-GIN,csskills,share,coverage,,,,,nothing held
+GIN,csskills,training,coverage,underway,2026-10-28,GIN-001;GIN-002;GIN-003;GIN-004,,
+GIN,csskills,reach,coverage,,,,,nothing found
+GIN,csskills,share,coverage,,,,,nothing found
