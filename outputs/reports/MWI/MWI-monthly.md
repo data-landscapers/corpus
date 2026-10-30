@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: MWI
-ledger_rows: 55
+ledger_rows: 56
 not_held: 31
-record: be97fa4c5687
+record: 1a981dc708e5
 ---
 
 # News, Sep – Oct 2026
@@ -343,6 +343,20 @@ The Malawi Communications Regulatory Authority opened an investigation, by notic
 **[Proposed acquisition of assets of Open Connect Limited by Telekom Networks Malawi Plc](https://www.cftc.mw/2026/10/27/proposed-acquisition-of-assets-of-open-connect-limited-by-telekom-networks-malawi-plc/)** — Competition and Fair Trading Commission of Malawi, 27 October 2026
 
 Malawi's competition commission approved, with conditions, Telekom Networks Malawi's MK23.5 billion purchase of Open Connect Limited's fibre network, data centre and enterprise contracts. TNM must split wholesale and retail under independent boards. Its fibre must stay open to all on equal terms. The commission accepted the deal as the rescue of a failing firm and set three years of monitoring.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School connectivity under the Digital Malawi Acceleration Project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Msaka discloses plans to connect 2, 000 primary and secondary schools across Malawi](https://www.malawivoice.com/2026/10/29/msaka-discloses-plans-to-connect-2-000-primary-and-secondary-schools-across-malawi/)** — Malawi Voice, 29 October 2026
+
+Malawi's Education Minister Bright Msaka said on 29 October 2026 that 2,000 primary and secondary schools will be connected to the internet. The work falls under the World Bank-supported Digital Malawi Acceleration Project, with the Malawi Research and Education Network central to delivery. He gave no timeline or cost.
 
 </div>
 
