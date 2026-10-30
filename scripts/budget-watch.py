@@ -763,9 +763,12 @@ def stage(folder: Path, row: dict, href: str, text: str, doc_type: str, body: by
     return stem
 
 
-def stage_one(iso3: str, url: str, title: str, doc_type: str, found_on: str) -> int:
+def stage_one(iso3: str, url: str, title: str, doc_type: str, found_on: str,
+              local: str | None = None) -> int:
     """One document found by hand — the FY2027 discovery list (Bill, 2026-10-30) — staged as the
-    poll stages one: refused if its URL or md5 is held, recorded in `links.csv`, `READY` last."""
+    poll stages one: refused if its URL or md5 is held, recorded in `links.csv`, `READY` last.
+    `local` is the file already fetched by hand, for a host the script cannot reach (Senegal's
+    budget site fails TLS verification); `url` is still the address the companion cites."""
     ss = _load("status_stage", "status-stage.py")
     today = dt.date.today()
     if doc_type not in doc_stages():
@@ -780,7 +783,10 @@ def stage_one(iso3: str, url: str, title: str, doc_type: str, found_on: str) -> 
     _, rows = read_existing()
     row = dict(rows.get((iso3, host)) or {"iso3": iso3, "institution": host, "library_url": found_on})
     row["fy_start_month"] = row.get("fy_start_month") or budgets_fy_month(iso3)
-    body, ext_or_why, last_mod = fetch_document(url)
+    if local:
+        body, ext_or_why, last_mod = Path(local).read_bytes(), Path(local).suffix.lower(), ""
+    else:
+        body, ext_or_why, last_mod = fetch_document(url)
     if body is None:
         print(f"budget-watch stage: fetch failed: {ext_or_why}", file=sys.stderr)
         return 1
@@ -1253,13 +1259,15 @@ def main() -> int:
     t.add_argument("--title", required=True, help="the title as the document prints it")
     t.add_argument("--type", required=True, dest="doc_type", help="a type in budget-doc-types.csv")
     t.add_argument("--found-on", required=True, help="the page the link was found on")
+    t.add_argument("--file", help="the document already fetched by hand, where the script cannot")
     args = p.parse_args()
     if args.cmd == "followups":
         return followups()
     if args.cmd == "coverage":
         return coverage()
     if args.cmd == "stage":
-        return stage_one(args.iso3.upper(), args.url, args.title, args.doc_type, args.found_on)
+        return stage_one(args.iso3.upper(), args.url, args.title, args.doc_type, args.found_on,
+                         args.file)
     if args.cmd == "refind":
         return refind(args.iso and args.iso.upper())
     if args.cmd == "poll":
