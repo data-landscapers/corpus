@@ -21,7 +21,9 @@ only; nothing of OSINT's beyond the mirror freshness lint already reads.
 - **held-facts**   `held:` lines across `maturity/*/refused.csv`, facts that would move a stage.
 - **prose**        narrative blocks failing the prose sheet on the newest night of `logs/prose.csv`,
                    every unit but the wiki (`lint-prose.py`, R133). The unit-review rotation clears them.
-- **commits**      uncommitted paths, Corpus plus share. A job commits what it changed.
+- **commits**      uncommitted paths, Corpus plus share. A job commits what it changed. The share's
+                   `new-queue/` is left out: Bill's ad-hoc items sit there uncommitted until OSINT
+                   moves them at the night's start, and `new-queue` already counts them.
 - **unpushed**     commits not on origin, Corpus plus share. A job pushes what it commits.
 
 **Gates are the half-finished states** — reported apart from the tally, in prose, because each
@@ -206,7 +208,7 @@ def tally() -> str:
         ("budget", len(FOLLOWUP.findall(read(os.path.join(ROOT, "logs", "budget-followups.md"))))),
         ("held-facts", held_facts()),
         ("prose", prose()),
-        ("commits", git_count(ROOT, "status", "--porcelain") + git_count(SHARE, "status", "--porcelain")),
+        ("commits", git_count(ROOT, "status", "--porcelain") + git_count(SHARE, "status", "--porcelain", "--", ".", ":!new-queue")),
         ("unpushed", git_count(ROOT, "log", "--oneline", "@{u}..") + git_count(SHARE, "log", "--oneline", "@{u}..")),
     ]
     return " ; ".join(f"{k} - {v}" for k, v in counts)
