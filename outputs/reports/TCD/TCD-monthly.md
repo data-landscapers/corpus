@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+compiled: 2026-10-30
+period: 2026-09-01 to 2026-10-30
 place: TCD
-ledger_rows: 38
+ledger_rows: 39
 not_held: 22
-record: 64fda278b0e8
+record: 09d2bf5b1c88
 ---
 
 # News, Sep – Oct 2026
@@ -171,6 +171,20 @@ Chad's national statistics institute, INSEED, lists the legal basis of the natio
 **[Travail : le Tchad change les règles entre employé et employeur](https://lendjampost.com/travail-le-tchad-change-les-regles-entre-employe-et-employeur/)** — Le N'Djam Post, 11 September 2026
 
 Chad's Council of Ministers adopted on 3 September 2026 a draft Labour Code replacing the 1996 law. Platform workers are presumed to be employees where at least two criteria of subordination are met, platforms must be more open about the algorithms that direct work, and social security cover is extended. The draft also raises the end-of-contract payment on fixed-term contracts from 5% to 7%.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decree on electronic communication and digitised court procedure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conseil des ministres : Fonction publique, justice et transports au menu](https://lesdepechesdutchad.com/conseil-des-ministres-fonction-publique-justice-et-transports-au-menu/)** — Les Dépêches du Tchad, 29 October 2026
+
+Chad's Council of Ministers examined a draft decree on electronic court procedures on 29 October 2026. It covers electronic communication and the digitisation of civil, commercial, social and administrative cases. The Ministry of Justice and Human Rights submitted it.
 
 </div>
 
