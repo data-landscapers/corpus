@@ -2,6 +2,7 @@
 
 - 2027 budgets now enter the tables as each country's draft is tabled, starting with DR Congo's finance bill of September 2026: 182 lines, CDF 556.5bn whole and 103.8bn partly digital, led by population identification (90.7bn) and the census (45.4bn). The figures are the bill's and give way to the enacted law when it is published.
 - Senegal's and Tunisia's 2027 drafts are in the tables too, at the grain each bill prints. Senegal's digital ministry holds CFA 6.1bn and 3.5bn of domestic credit for its two programmes; its activity lines follow when the ministries' programme volumes are published.
+- The Gambia's, Cabo Verde's and Morocco's 2027 drafts are in the tables: The Gambia's 28 lines from the estimates before the National Assembly (D416m whole, D188m partly digital), Cabo Verde's three fee-funded lines and Morocco's four special accounts and services. The Gambia adds public-service software and WARDIP's domestic counterpart; Cabo Verde's and Morocco's finer tables are not yet published.
 
 ## 27 October 2026
 

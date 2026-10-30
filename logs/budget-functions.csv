@@ -279,17 +279,17 @@ GIN,land-registry,found,whole,6,gin-2024-15-264141000000-5-1-2-12-00-cp,"Minist�
 GIN,social-registry,absent,,,,Agence nationale d'inclusion économique et sociale,hand,"keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: the one line naming the unified social registry (265791010000, 1.04bn in 2024, nil in 2025) is the construction of its headquarters, a building line; the inclusion agency that runs it is a mixed-mandate body",2026-10-02
 GIN,population-register,absent,,,,,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names a population register,2026-10-02
 GIN,data-exchange,absent,,,,,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names a data exchange,2026-10-02
-GMB,statistics,found,whole,3,gmb-2024-12-1217-121702,Gambia Bureau of Statistics,rows,,
-GMB,civil-registration-id,found,partial,6,gmb-2024-08-0812-081202,,rows,,
+GMB,statistics,found,whole,4,gmb-2024-12-1217-121702,Gambia Bureau of Statistics,rows,,
+GMB,civil-registration-id,found,partial,8,gmb-2024-08-0812-081202,,rows,,
 GMB,communications-regulator,absent,,,,Public Utilities Regulatory Authority,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: the utilities regulator (PURA) is funded from its own fees and has no budget entity",2026-10-02
-GMB,ict-ministry-egov,found,whole,12,gmb-2024-34-3403-340301,Ministry of Information and Communication Infrastructure,rows,,
+GMB,ict-ministry-egov,found,whole,17,gmb-2024-34-3403-340301,Ministry of Information and Communication Infrastructure,rows,,
 GMB,cybersecurity,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: cyber security appears as posts in the digital ministry's staff list; no programme or line carries it apart from the ministry's held rows",2026-10-02
 GMB,data-protection,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: the Access to Information Commission (7.0m in 2025) administers access to information; no data protection body is funded",2026-10-02
 GMB,revenue-systems,absent,,,,Gambia Revenue Authority,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: tax digitalisation appears in report text only",2026-10-02
-GMB,treasury-fmis,found,whole,3,gmb-2024-12-0845-001,Ministry of Finance and Economic Affairs,rows,,
+GMB,treasury-fmis,found,whole,4,gmb-2024-12-0845-001,Ministry of Finance and Economic Affairs,rows,,
 GMB,procurement,absent,,,,Gambia Public Procurement Authority,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: the procurement authority is funded as a body and no line names a system",2026-10-02
 GMB,electoral-register,absent,,,,Independent Electoral Commission,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: the electoral commission is entity 04, one body (189.1m in 2025), with no line for the voter register",2026-10-02
-GMB,land-registry,found,partial,6,gmb-2024-11-1104-110404,,rows,,
+GMB,land-registry,found,partial,8,gmb-2024-11-1104-110404,,rows,,
 GMB,social-registry,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: a social registry manager is a post in a staff list; no line funds the registry",2026-10-02
 GMB,population-register,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: no line names a population register",2026-10-02
 GMB,data-exchange,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: no line names a data exchange",2026-10-02
@@ -378,9 +378,9 @@ LSO,social-registry,absent,,,,Ministry of Social Development,hand,"FY2024/25 to 
 LSO,population-register,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no line names a population register",2026-10-02
 LSO,data-exchange,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no line names a data exchange",2026-10-02
 MAR,statistics,found,whole,40,mar-2024-31-432-00-23-mdd,Haut-Commissariat au Plan,rows,,
-MAR,civil-registration-id,found,whole,5,mar-2024-08-310-00-45-inv,,rows,,
+MAR,civil-registration-id,found,whole,6,mar-2024-08-310-00-45-inv,,rows,,
 MAR,communications-regulator,absent,,,,Agence Nationale de Réglementation des Télécommunications,hand,FY2024 and FY2025: the telecommunications regulator has no line in the morasses; it is a public establishment outside the general budget. Every chapter searched.,2026-10-02
-MAR,ict-ministry-egov,found,whole,42,mar-2024-05-107-00-20-mdd,Agence de Développement du Digital,rows,,
+MAR,ict-ministry-egov,found,whole,43,mar-2024-05-107-00-20-mdd,Agence de Développement du Digital,rows,,
 MAR,cybersecurity,absent,,,,Direction Générale de la Sécurité des Systèmes d'Information,hand,"FY2024 and FY2025: no project line in the morasses names information-systems security; the directorate sits in the national defence administration's chapter. Every chapter searched, and the finance law.",2026-10-02
 MAR,data-protection,found,whole,14,mar-2024-04-104-00-10-mdd,Commission Nationale de contrôle de la protection des Données à caractère Personnel,rows,,
 MAR,revenue-systems,absent,,,,Direction Générale des Impôts,hand,"FY2024 and FY2025: the finance ministry's block of the morasse prints its programmes by region and project. Programme 118, mobilisation and recovery of tax revenue, carries one project, on the tax base and fraud; every project label in the block was listed and none names an information system. Morasse 2024, chapters 1.2.1.2.0.13.000 and 1.2.2.2.0.13.000; morasse 2025, tome 1.",2026-10-03
