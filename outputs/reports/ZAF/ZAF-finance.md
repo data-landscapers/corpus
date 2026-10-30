@@ -1,6 +1,6 @@
 ---
 title: South Africa: finance
-compiled: 2026-10-29
+compiled: 2026-10-30
 place: ZAF
 ---
 
@@ -33,7 +33,7 @@ place: ZAF
 <tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,832</td><td class="num">2,318</td><td class="num">2,691</td><td class="num total">11,595</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/all-finance.html">Full table &mdash; 293 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/all-finance.html">Full table &mdash; 294 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -80,12 +80,12 @@ place: ZAF
 <tr><th scope="row">Training and skills</th><td class="num">11</td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">18</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num total">6</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">3</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">3</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,270</td><td class="num">1,611</td><td class="num">1,980</td><td class="num total">9,616</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/finance.html">Full table &mdash; 58 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/finance.html">Full table &mdash; 59 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-nonstate-2026-10-28.csv" download>&darr; Download CSV</a>
 </div>
