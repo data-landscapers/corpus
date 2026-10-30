@@ -36,6 +36,12 @@ status" is `cat logs/status.md` without recomputing.
     python scripts/corpus-status.py            # the tally line, then the gates
     python scripts/corpus-status.py --gates    # gates only; prints nothing and exits 0 when none
 
+**It commits the manifest copies its own reading writes** *(Bill, 2026-10-30)*. The cycle gate
+reads OSINT's manifest, and `osint_lib` keeps a dated copy in `logs/manifests/` for every one
+it meets. A daytime OSINT pass therefore leaves a copy no job changed and no job's explicit
+staging picks up, so this commits and pushes new copies itself, those paths and nothing else.
+A refused commit (another session holding the index) is left for the next reading.
+
 Exit 0 no gate open, 1 a gate is open.
 """
 from __future__ import annotations
@@ -158,6 +164,27 @@ def gates() -> list[str]:
     return out
 
 
+def keep_manifests() -> None:
+    """Commit and push the manifest copies the gates' reading left untracked, alone."""
+    code, out = run("git", "-C", ROOT, "status", "--porcelain", "--untracked-files=all",
+                    "--", "logs/manifests")
+    paths = [l[3:].strip() for l in out.splitlines()
+             if code == 0 and l.startswith("?? ") and re.search(r"/cycle-manifest-[^/]+\.json$", l)]
+    if not paths:
+        return
+    stamps = [m.group(1) + ":" + m.group(2) for p in paths
+              if (m := re.search(r"\d{4}-\d\d-\d\d-(\d\d)(\d\d)", p))]
+    noun = "manifest" if len(paths) == 1 else "manifests"
+    msg = (f"Manifest: keep OSINT's {', '.join(stamps)} mirror {noun}\n\n"
+           "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n")
+    if run("git", "-C", ROOT, "add", "--", *paths)[0] != 0:
+        return
+    r = subprocess.run(["git", "-C", ROOT, "commit", "-q", "-F", "-", "--", *paths],
+                       input=msg, capture_output=True, text=True, encoding="utf-8")
+    if r.returncode == 0:
+        run("git", "-C", ROOT, "push", "-q")
+
+
 def prose() -> int:
     """Failing blocks on `prose.csv`'s newest night, the wiki apart; 0 before its first night."""
     rows = list(csv.DictReader(io.StringIO(read(os.path.join(ROOT, "logs", "prose.csv")))))
@@ -191,6 +218,7 @@ def main() -> int:
     args = ap.parse_args()
 
     open_gates = gates()
+    keep_manifests()
     lines = [] if args.gates else [tally()]
     if open_gates:
         lines += [f"gate: {g}" for g in open_gates]
