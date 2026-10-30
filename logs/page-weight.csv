@@ -3650,8 +3650,8 @@ date,page,rows,bytes_gz,elements
 2026-10-30,countries/COM/all-finance.html,42,3525,1111
 2026-10-30,countries/COM/budgets.html,37,6213,923
 2026-10-30,countries/COM/finance.html,5,2847,364
-2026-10-30,countries/CPV/all-finance.html,50,6902,1290
-2026-10-30,countries/CPV/budgets.html,35,8670,887
+2026-10-30,countries/CPV/all-finance.html,53,6960,1354
+2026-10-30,countries/CPV/budgets.html,38,9042,945
 2026-10-30,countries/CPV/finance.html,15,6424,609
 2026-10-30,countries/DJI/all-finance.html,16,5039,575
 2026-10-30,countries/DJI/budgets.html,5,2804,307
@@ -3676,8 +3676,8 @@ date,page,rows,bytes_gz,elements
 2026-10-30,countries/GIN/all-finance.html,321,16299,2341
 2026-10-30,countries/GIN/budgets.html,314,42174,2229
 2026-10-30,countries/GIN/finance.html,7,3517,416
-2026-10-30,countries/GMB/all-finance.html,71,5457,1727
-2026-10-30,countries/GMB/budgets.html,63,13516,1481
+2026-10-30,countries/GMB/all-finance.html,99,5913,2316
+2026-10-30,countries/GMB/budgets.html,91,18059,2042
 2026-10-30,countries/GMB/finance.html,8,3966,440
 2026-10-30,countries/GNB/all-finance.html,18,2516,607
 2026-10-30,countries/GNB/budgets.html,14,4361,483
@@ -3697,8 +3697,8 @@ date,page,rows,bytes_gz,elements
 2026-10-30,countries/LSO/all-finance.html,41,2715,1089
 2026-10-30,countries/LSO/budgets.html,39,8143,986
 2026-10-30,countries/LSO/finance.html,2,1478,271
-2026-10-30,countries/MAR/all-finance.html,326,19985,2346
-2026-10-30,countries/MAR/budgets.html,312,31416,2227
+2026-10-30,countries/MAR/all-finance.html,330,20058,2347
+2026-10-30,countries/MAR/budgets.html,316,31994,2228
 2026-10-30,countries/MAR/finance.html,14,9416,588
 2026-10-30,countries/MDG/all-finance.html,321,14682,2339
 2026-10-30,countries/MDG/budgets.html,311,39590,2131
@@ -3732,8 +3732,8 @@ date,page,rows,bytes_gz,elements
 2026-10-30,countries/RWA/finance.html,31,9458,996
 2026-10-30,countries/SDN/all-finance.html,1,628,225
 2026-10-30,countries/SDN/finance.html,1,810,235
-2026-10-30,countries/SEN/all-finance.html,64,13522,1605
-2026-10-30,countries/SEN/budgets.html,28,10078,773
+2026-10-30,countries/SEN/all-finance.html,66,13575,1647
+2026-10-30,countries/SEN/budgets.html,30,11066,812
 2026-10-30,countries/SEN/finance.html,36,14118,1132
 2026-10-30,countries/SLE/all-finance.html,202,14563,2352
 2026-10-30,countries/SLE/budgets.html,186,31657,2231
@@ -3759,8 +3759,8 @@ date,page,rows,bytes_gz,elements
 2026-10-30,countries/TGO/all-finance.html,137,10105,2340
 2026-10-30,countries/TGO/budgets.html,126,22719,2212
 2026-10-30,countries/TGO/finance.html,11,5556,515
-2026-10-30,countries/TUN/all-finance.html,179,11011,2342
-2026-10-30,countries/TUN/budgets.html,171,25740,2227
+2026-10-30,countries/TUN/all-finance.html,181,11044,2342
+2026-10-30,countries/TUN/budgets.html,173,26658,2228
 2026-10-30,countries/TUN/finance.html,8,5116,445
 2026-10-30,countries/TZA/all-finance.html,447,28554,2375
 2026-10-30,countries/TZA/budgets.html,396,41140,2229
@@ -3785,6 +3785,6 @@ date,page,rows,bytes_gz,elements
 2026-10-30,countries/ZWE/finance.html,8,5242,442
 2026-10-30,datasets/data-centres/index.html,621,475482,2969
 2026-10-30,datasets/institution-hosting/index.html,1830,58327,2695
-2026-10-30,finance/all/index.html,12539,925817,2318
-2026-10-30,finance/budgets/index.html,12043,1121486,2556
+2026-10-30,finance/all/index.html,12578,926664,2318
+2026-10-30,finance/budgets/index.html,12082,1123082,2556
 2026-10-30,finance/index.html,1353,436776,2966
