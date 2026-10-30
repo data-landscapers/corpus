@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-30 02:32 · **BUILD** · 2h01m · catalogue 35,400; 358 sources, 49 moved, 68 minted, 58 status revised; data centres 40, 11 changed; maturity 659 facts, 22 moved; bulletin 55, monthly 45; register 9; prose gate 38 fixed; messages 55-57 - ok
 2026-10-29 04:11 · **RENDER** · 28m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 84 editions pruned, 6,298 objects to R2; deployed 434025a - ok
 2026-10-29 03:42 · **REVIEW** · unclocked · GHA: status 20 sections revised, 19 trimmed, progress 0 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-29 03:25 · **REVIEW** · unclocked · GAB: status 6 sections revised, 33 trimmed, progress 3 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
@@ -641,14 +642,7 @@ title: Corpus process log
 2026-09-29 04:42 · **HYPERSCALER** · 9m · 01 RWA: 44 rows, 40 domains, 8 banks, 4 absent, 0 unconfirmed
 2026-09-29 04:41 · **HYPERSCALER** · 7m · 01 GHA: 48 rows, 44 domains, 10 banks, 4 absent, 0 unconfirmed
 2026-09-29 04:40 · **HYPERSCALER** · 6m · 01 UGA: 42 rows, 36 domains, 6 banks, 6 absent, 0 unconfirmed
-2026-09-28 23:52 · **RENDER** · 14m · 251 documents, home, places, topics, progress, catalogue, finance, datasets (Data Centres 2026-09-28, 577) rendered; R2 2,485 uploaded; deployed — ok
-2026-09-28 23:38 · **REVIEW** · 17m · LBR: status 11 sections revised, progress 15 cells, monthly 15 blocks, finance 1 row; 1 deal queued, 2 notes for OSINT — ok
-2026-09-28 23:38 · **REVIEW** · 17m · KEN: status 11 sections revised, progress 11 cells, monthly 23 blocks, finance 3 rows; 1 deal queued, 3 notes for OSINT — ok
-2026-09-28 23:21 · **BUILD** · 39m · catalogue 25,568; finance 1,401; 40 units / 118 sources, 29 minted, 24 moved; 25 baseline sections revised, ZAF EGY KEN GHA re-read whole; data centres 2; bulletin 56; 31 register hits stand — ok
-2026-09-28 22:42 · **ANALYTICS** · unclocked · 2026-09-27 written; 27 Sep: dl.io 37 views / 1 clicks, corpus 57 views / 0 clicks
 2026-09-28 13:39 · **SCAN** · 1h40m · KEN: 50 institutions, 4,747 routable, 11% US hyperscaler. NGA: 51 institutions, 5,747 routable, 24% US hyperscaler. 6 claimable dangling CNAMEs across three countries
-2026-09-28 11:31 · **SCAN** · 53m · ZAF: 51 institutions, 12,666 names, 7,436 routable, 28% US hyperscaler, 8 unattributed
-2026-09-28 09:29 · **RENDER** · 12m · header three-bar menu on every page; reports+home+countries+catalogue rendered, no edition re-cut, 130 unfetched editions pruned, deployed — ok
 2026-09-20 19:32 · **REGISTER-R58** · unclocked · R58 NER FY2026: Niger publishes, 28th country. The communications ministry gets XOF 191.8m for digital; a compte special for tax-administration digitisation, outside the votes, gets 5.56bn -- 29x. Three exact cross-foots.
 2026-09-20 19:05 · **SHARE-PRUNE** · unclocked · prepared/ pruned: 33 spent handovers out (5.3MB -> 12K), the rule added to the share README, and scripts/lint-prepared.py at BUILD stage 0. Three verdicts -- spent, waiting, unresolved -- so an item naming no closer is reported, not guessed.
 2026-09-20 18:26 · **REGISTER-R56** · unclocked · R56 pilot, moved to GHA FY2026: 11 lines read against the spec, money unchanged at GHS 898m, every row now carrying its scope basis and cross-foot. Four earned absences -- the biggest, GHS 273.7m, is the national broadcaster.
