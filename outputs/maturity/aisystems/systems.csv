@@ -174,6 +174,7 @@ NGA,N-ATLAS,Nigeria,localai,Meta Llama-3,National Centre for Artificial Intellig
 NGA,National shared computing facility,Nigeria,localai,,Government with Gates Foundation,,2026-10-24-nga-nigerias-tijani-pitches-fibre-and-skills-drive-for-ai-in-seoul
 NGA,AFRIDATA data centres,Nigeria,other,AI-ready data centres,INFRAGORA Global Capital,Tier III+/IV (planned),2026-10-26-nga-techcabal-infragora-afridata-data-centres
 NGA,"AFRIDATA Nigeria data centres (Lagos, Delta)",Nigeria,other,,AFRIDATA,Lagos designed to Tier IV,2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study
+NGA,awarri language models,Nigeria,localai,,awarri,,2026-10-29-inside-nigeria-s-7-5m-gates-backed-ai-scaling-hub
 RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
 RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 RWA,Kinyarwanda voice dataset on Common Voice,Rwanda,localai,Mozilla Common Voice,Digital Umuganda; Mozilla Foundation,,2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in
@@ -188,6 +189,7 @@ SEN,centre de transformation par l'intelligence artificielle,Sénégal,localai,,
 SEN,Taouey supercalculateur,Senegal,localai,"Atos, 537.6 teraflops, Cite du savoir Diamniadio","State of Senegal, administered by CINERI",,2025-05-27-sen-le-supercalculateur-taouey-un-outil-au-service-de-la-recherche-et-la-s
 SEN,Taouey supercomputer,Senegal,localai,HPC with GPU cell,CINERI under MESRI,,2026-06-05-sen-pr-ousmane-thiare-directeur-general-de-la-cineri-le-niveau-d-utilisati
 SEN,Oolel-v0.1,Senegal,localai,Hugging Face,Soynade,,2026-02-18-sen-soynade-s-open-source-month
+SEN,SENEGAL-AI,Senegal,localai,CINERI Taouey supercomputer,"LITA, ESP, UCAD",,2026-10-30-sen-le-senegal-se-dote-d-un-hub-pour-transformer-les-projets-d-ia-en-appli
 SLE,"Krio language model, Darli AI and Krio AI Agronomist",Sierra Leone,other,IVR and WhatsApp,Farmerline Group,,2024-07-01-sle-farmerline-mocti-mou-krio-language-model
 SLE,AI-EVA,Sierra Leone,localai,voice assistant,Africell,,2025-06-01-sle-africell-unveils-ai-eva-and-afrogpt-at-summit
 SLE,AfroGPT,Sierra Leone,localai,offline language model,Africell,,2025-06-01-sle-africell-unveils-ai-eva-and-afrogpt-at-summit

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-inside-nigeria-s-7-5m-gates-backed-ai-scaling-hub",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "TechCabal reports that awarri is developing AI models supporting Igbo, Yoruba, Hausa and Nigerian Pidgin, for translation and transcription.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "awarri language models",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "awarri language models",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "awarri",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

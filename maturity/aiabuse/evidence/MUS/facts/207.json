@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-mus-lexpress-pq-reseaux-sociaux-nouveau-cadre-contre-les-abus",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Mauritius's ICT minister Avinash Ramtohul told the National Assembly that draft amendments to the Cyber Security and Cybercrime Act 2021 have been prepared, covering deepfakes and harmful AI-generated content and providing for a Cybersecurity and Cybercrime Agency of Mauritius.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Cyber Security and Cybercrime Act 2021 draft amendments",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

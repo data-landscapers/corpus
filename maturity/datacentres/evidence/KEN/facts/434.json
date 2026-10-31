@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-workonline-communications-brings-its-african-network-to-ixafrica-s-nbo",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data Centres Africa reports iXAfrica's NBOX1 campus in Nairobi is a carrier-neutral data centre where customers connect, with Workonline Communications opening a point of presence there.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "iXAfrica NBOX1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iXAfrica NBOX1",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

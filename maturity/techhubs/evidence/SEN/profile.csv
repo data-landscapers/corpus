@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,hub,hubs,coverage,underway,2025-11-03,SEN-001,,
-SEN,hub,cities,coverage,,,,,nothing held
-SEN,hub,park,coverage,,,,,nothing held
+SEN,hub,hubs,coverage,underway,2026-10-29,SEN-001;SEN-002,,
+SEN,hub,cities,coverage,,,,,nothing found
+SEN,hub,park,coverage,,,,,nothing found

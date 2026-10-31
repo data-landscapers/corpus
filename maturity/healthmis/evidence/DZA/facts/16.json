@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-11-dz-aps-plateforme-suivi-distance-dossiers-medicaux",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Plateforme numerique de suivi a distance des dossiers medicaux",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Patient-record monitoring platform, not stated to carry routine facility reporting to the ministry."
+}

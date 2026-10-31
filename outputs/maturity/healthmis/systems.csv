@@ -47,6 +47,7 @@ COD,DHIS2 EVD Tracker,DRC,other,DHIS2 Tracker,Ministry of Health with HISP DRC a
 COD,eIDSR on national DHIS2 platform,DRC,hmis,DHIS2,"Ministry of Public Health, DSNIS and Directorate of Disease Surveillance","health centre, health zone, province",2024-07-01-rti-real-time-disease-surveillance-drc
 COD,DHIS2,DRC,hmis,DHIS2,Ministry of Health,,2025-10-15-cod-path-snapiform-ai-health-data-reporting
 COG,DHIS-2,Congo,hmis,DHIS2,Ministère de la Santé et de la Population,52 health districts to central,2022-08-12-cog-santetropicale-formation-cadres-dhis2
+COG,Systeme d'Information Communautaire (SIC),Congo,other,,Ministry of Health and Population,,2026-10-28-cog-talangai-lancement-de-la-formation-des-relais-communautaires-sur-lutil
 COM,DHIS2,Comoros national HMIS,hmis,DHIS2,Ministry of Health,national,2026-07-01-dhis2-comores-climate-health-country-profile
 COM,DHIS2 Climate & Health instance,Comoros,other,DHIS2,Ministry of Health,testing instance,2026-07-01-dhis2-comores-climate-health-country-profile
 COM,DHIS2,Comoros national DHIS2 platform,hmis,DHIS2,Ministry of Health,facility,2025-10-31-dhis2-comores-supply-chain-management-open-msupply
@@ -54,11 +55,15 @@ COM,Open mSupply,eLMIS warehouses,other,Open mSupply,Ministry of Health,central 
 COM,DHIS2,Comoros,hmis,DHIS2,,,2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros
 COM,Registre Électronique de Vaccination (REV),Electronic vaccination registry,other,,Ministère de la Santé et de la Protection Sociale,,2026-06-17-com-hisp-rwanda-tot-vaccination-surveillance
 COM,Plateforme de Surveillance des Maladies Évitables par la Vaccination (MEV),Vaccine-preventable disease surveillance platform,other,,Ministère de la Santé et de la Protection Sociale,,2026-06-17-com-hisp-rwanda-tot-vaccination-surveillance
+COM,DHIS2,DHIS2,hmis,DHIS2,,,2026-10-30-com-lagazette-sante-et-numerique-onze-projets
+COM,registre electronique de vaccination,registre electronique de vaccination,other,,,,2026-10-30-com-lagazette-sante-et-numerique-onze-projets
 CPV,SIS/PORTAL,Cabo Verde,hmis,,,,2026-09-04-cabo-verde-ida-health-digital-tools-tender
 CPV,DHIS2,Cabo Verde,hmis,DHIS2,,,2026-09-04-cabo-verde-ida-health-digital-tools-tender
 DJI,National Health Information System (DHIS2),Djibouti,hmis,DHIS2,"Ministry of Health, Health Information Directorate",,2026-02-08-dji-strengthening-the-governance-of-gender-based-violence-data-integrating
 DJI,GBVIMS-Health,Djibouti,other,,Ministry of Health with UNFPA,,2026-02-08-dji-strengthening-the-governance-of-gender-based-violence-data-integrating
 DJI,DHIS2,Djibouti,hmis,DHIS2,Ministry of Health,primary health care,2025-04-14-who-management-response-djibouti-evaluation
+DZA,Plateforme numerique de suivi a distance des dossiers medicaux,Algeria,other,,Ministry of Health,,2026-04-11-dz-aps-plateforme-suivi-distance-dossiers-medicaux
+DZA,Plateforme numerique de transfert des patients,Algeria,other,,Ministry of Health,,2025-12-11-aps-plateforme-transferts-patients
 EGY,DHIS2,Egypt,hmis,DHIS2,Ministry of Health and Population,,2026-01-27 Egypt launches DHIS2 in its national health information system
 ERI,DHIS2,Eritrea national DHIS2,hmis,DHIS2,Ministry of Health,"zones, sub-zones, national",2024-03-13-dhis2-eritrea-connectivity
 ERI,DHIS-2,Eritrea,hmis,DHIS2,,,2024-01-01-eritrea-who-uhc-dhis2-rollout

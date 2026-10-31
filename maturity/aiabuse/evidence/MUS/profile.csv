@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,aiharm,rule,coverage,inforce,2026-09-28,MUS-001;MUS-002,,
-MUS,aiharm,authority,coverage,,,,,nothing held
-MUS,aiharm,enforced,coverage,,,,,nothing held
+MUS,aiharm,rule,coverage,inforce,2026-09-28,MUS-001;MUS-002,MUS-003=draft,
+MUS,aiharm,authority,coverage,,,,,nothing found
+MUS,aiharm,enforced,coverage,,,,,nothing found

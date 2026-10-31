@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-30-vanguardngr-inec-blames-registration-officers-for-ai-generated-photos",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "INEC's ICT director Lawrence Bayode said the Automated Biometric Identification System was run on the registration records of the preliminary voters' register, finding irregular entries.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "INEC preliminary register of voters / Automated Biometric Identification System",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The preliminary register of voters was uploaded to INEC's website on 26 October 2026, where the public could view it and complain of missing details.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "INEC preliminary register of voters",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INEC preliminary register of voters",
+   "country_label": "Nigeria",
+   "class": "electoral",
+   "platform": "Automated Biometric Identification System",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

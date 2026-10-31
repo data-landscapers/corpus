@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-vanguardngr-nigeria-integral-to-50trn-ai-value-chain-needs-dedicated-minister",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Vanguard reports an NIIA lecture speaker acknowledging Nigeria's National AI Strategy 2025, which aims to train 70 percent of the workforce aged 16-35 and develop the M-Atlas language model.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National AI Strategy 2025",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy 2025",
+   "country_label": "Nigeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

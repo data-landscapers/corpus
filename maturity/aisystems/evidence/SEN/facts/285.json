@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-sen-le-senegal-se-dote-d-un-hub-pour-transformer-les-projets-d-ia-en-appli",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Senegal told the ITU in August 2026 of SENEGAL-AI, a language-model architecture being developed by the LITA laboratory of ESP, Cheikh Anta Diop University, resting on the CINERI Taouey supercomputer.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "SENEGAL-AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SENEGAL-AI",
+   "country_label": "Senegal",
+   "class": "localai",
+   "platform": "CINERI Taouey supercomputer",
+   "owner": "LITA, ESP, UCAD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
