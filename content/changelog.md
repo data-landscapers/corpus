@@ -1,5 +1,6 @@
 ## 31 October 2026
 
+- Data protection law now reads an authority's cases handled as decisions under the law. Seychelles rises from stage 3 to 4 on the 14 cases its commission handled in 2025.
 - Digital skills of the public's top stage now accepts a survey share of the whole population, not only of adults. Botswana (59.2 per cent of individuals with e-skills, 2024) and Mauritius (62.2 per cent aged five and over, 2024) rise from stage 4 to 5.
 - Digital skills of the public now counts a government training programme shown in more than one place, without evidence that it covers the whole country. Kenya, Eswatini and Burundi rise from stage 2 to 3.
 - Control of state data now counts only a rule that covers government or state data: personal data laws and banking rules no longer count. Botswana, Ethiopia, Libya, Morocco, Mozambique and Tanzania drop from stage 3 to 2, and Cameroon and Zimbabwe from 4 to 2.

@@ -21,8 +21,8 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 | Stage | Countries |
 |---|---|
 | 5 Leading | 9 |
-| 4 Operating | 8 |
-| 3 Established | 29 |
+| 4 Operating | 9 |
+| 3 Established | 28 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
@@ -190,6 +190,16 @@ Nigeria's Data Protection Act of 2023 is in force and applied through fines and 
 - The NDPC fined Multichoice Nigeria N766,242,500 for violating the NDP Act after an investigation begun in Q2 2024 into subscriber privacy and cross-border transfers ([source, 2025-07-06](https://www.rapdp.org/index.php/en/node/222)).
 - At a press session on 11 June 2024, the NDPC National Commissioner said the Commission had earned N400 million in remediation fees from sanctions on seven firms for data breaches, with four major investigations finalised, out of over 1,000 breach reports received since it started about a year earlier ([source, 2024-06-11](https://nairametrics.com/2024/06/12/seven-firms-pay-n400-million-to-ndpc-as-sanction-for-data-breach/)).
 - The Nigeria Data Protection Commission is reported as having issued a Final Order and as party to a court-adopted settlement with Meta, so it is acting; the dates are not given, so the report date 2026-09-28 is used ([source, 2026-09-28](https://www.premiumtimesng.com/news/top-news/913097-court-dismisses-25-million-privacy-suit-against-meta-in-imo.html)).
+
+### Seychelles: 4 Operating
+
+Seychelles' Data Protection Act 2023 is in force and its commission handled 14 cases in 2025; no yearly count of decisions is published.
+
+*Advancing.*
+
+- The Commission received and handled 14 cases under the Act in 2025 (6 data transfers, 5 breaches, 2 refused deletion requests, 1 consultation), described as guidance, assessment and corrective advice, with no decision or sanction on a named controller and no count of cases settled ([source, 2025](https://www.infocom.sc/wp-content/uploads/Annual-Report-2025.pdf)).
+- The report states the Commission administered the Data Protection Act 2023 during 2025, handling 14 cases under it, and that implementation continued to gain momentum ([source, 2025](https://www.infocom.sc/wp-content/uploads/Annual-Report-2025.pdf)).
+- The Information Commission, with a Chief Information Commissioner, two Information Commissioners and a CEO in post, administers and oversees the Data Protection Act 2023 and reports annually under its section 12(2) ([source, 2025](https://www.infocom.sc/wp-content/uploads/Annual-Report-2025.pdf)).
 
 ### Tanzania: 4 Operating
 
@@ -447,17 +457,6 @@ São Tomé and Príncipe enacted a data protection law in 2016; no source found 
 
 - The IBA chapter states that the existing data protection framework applies in São Tomé and Príncipe, naming the Personal Data Guarantee and Protection Law (Law 03/2016) as the primary instrument, with scope over processing by controllers headquartered or established in the country; the chapter is undated and its published year 2024 is used ([source, 2024](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Sao-Tome-Principe)).
 - Lei n.º 03/2016 on the protection of personal data of natural persons was published in Diário da República n.º 39 of 10 May 2016; the captured text, which stops inside Article 45, gives no commencement date ([source, 2016-05-10](https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf)).
-
-### Seychelles: 3 Established
-
-Seychelles' Data Protection Act 2023 is in force and its commission handled 14 cases in 2025; no source found says any ended in a decision.
-
-*Advancing.*
-
-- The report states the Commission administered the Data Protection Act 2023 during 2025, handling 14 cases under it, and that implementation continued to gain momentum ([source, 2025](https://www.infocom.sc/wp-content/uploads/Annual-Report-2025.pdf)).
-- The Commission received and handled 14 cases under the Act in 2025 (6 data transfers, 5 breaches, 2 refused deletion requests, 1 consultation), described as guidance, assessment and corrective advice, with no decision or sanction on a named controller and no count of cases settled ([source, 2025](https://www.infocom.sc/wp-content/uploads/Annual-Report-2025.pdf)).
-- The Information Commission, with a Chief Information Commissioner, two Information Commissioners and a CEO in post, administers and oversees the Data Protection Act 2023 and reports annually under its section 12(2) ([source, 2025](https://www.infocom.sc/wp-content/uploads/Annual-Report-2025.pdf)).
-- The National Assembly of Seychelles lists the Information Commission Seychelles' Annual Report 2025 as published on 13 April 2026, showing the Commission as an existing body acting; the page gives no content of the report ([source, 2026-04-13](https://www.nationalassembly.sc/publications/reports/information-commission-seychelles-annual-report-2025)).
 
 ### Somalia: 3 Established
 

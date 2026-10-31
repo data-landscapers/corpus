@@ -91,6 +91,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 - **`reported` counts decisions, sanctions or complaints settled**, for a stated period of a quarter or more. Complaints or breaches received are `activity`.
 - **Stage 5 needs no regulation** *(Bill, 2026-10-31, messages-for-bill 55)*: a law that allows enough action without regulations is rewarded. Benin's count of complaints treated is enough for 5, and so are authorisation decisions. GAB, MAR and SEN 4→5.
 - **A regular publication of decisions is `reported`** *(Bill, 2026-10-31, messages-for-bill 54)*: a numbered bulletin counts even where its figures are running totals, and the cell returns to 4 if no later edition is found. KEN 4→5.
+- **Cases handled imply decisions** *(Bill, 2026-10-31, messages-for-bill 63)*: an authority's statement that it handled a number of cases is `applied`, not `reported`. SYC 3→4.
 
 ## 5. The norm
 

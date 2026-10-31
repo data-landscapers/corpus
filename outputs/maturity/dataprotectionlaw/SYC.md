@@ -14,4 +14,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No decision or sanction on a named controller and no count of cases settled has been found, only cases received and handled. Whether regulations have been made under the Act is not held.
+***Not found***. No yearly count of cases settled has been published. No source found says whether regulations have been made under the Act.

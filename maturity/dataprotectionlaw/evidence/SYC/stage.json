@@ -3,17 +3,18 @@
   "cells": [
     {
       "sub_indicator": "general",
-      "stage": "3",
+      "stage": "4",
       "authority": "constituted",
       "standing": "in-force",
       "regulations": "",
-      "application": "activity",
+      "application": "applied",
       "last12": "advancing",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "SYC-018;SYC-019;SYC-017;SYC-016",
-      "gaps": "No decision or sanction on a named controller and no count of cases settled is reported, only cases received and handled (2024: 4; 2025: 14). No source states whether regulations are issued or none exist.",
-      "note": "The Act is in force (administered through 2025) and the Commission is acting, but application is activity: the 2025 count is cases received, handled by guidance and advice, which is not decisions settled. Stage 4 needs an applied or reported fact."
+      "stage_sources": "SYC-019;SYC-018;SYC-017",
+      "gaps": "No published count of decisions, sanctions or complaints settled for a stated year. No source states whether regulations are issued.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 63: handling cases implies decisions): the Act is in force with a constituted Commission, and the 14 cases it handled in 2025 by assessment and corrective advice (SYC-019) are read as applied, so stage 4. They are not a published count of cases settled, so not 5.",
+      "as_at": "2026-10-31"
     }
   ]
 }
