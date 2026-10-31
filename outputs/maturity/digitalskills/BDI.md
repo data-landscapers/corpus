@@ -10,4 +10,4 @@
 
 ***Also on file***. [PAFEN (Project to Support the Foundations of the Digital Economy)](<https://en.abpinfo.bi/official-launch-of-the-project-to-support-the-foundations-of-the-digital-economy-in-burundi/>).
 
-***Not found***. No source found since October 2023 says: is one in service and counted.
+***Not found***. No source found since October 2023 gives a measured share of people with basic digital skills.

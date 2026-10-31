@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "2",
-      "training": "underway",
+      "stage": "3",
+      "training": "inservice",
       "measured": "",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-003",
-      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people. The 330 who completed the DigiTruck course were in one sub-county.",
-      "note": "The State Department of ICT, with Huawei, delivered DigiTruck digital-skills training in 2026, a programme under way. Its only count is 330 people in Keiyo South, one locality, which does not show a national programme counted, so not stage 3.",
+      "stage_sources": "KEN-004;KEN-003;KEN-001",
+      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills, from a survey.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 61: a programme shown in more than one location counts; national evidence is not needed): the State Department of ICT's DigiTruck trained 330 young people in Keiyo South (KEN-003, KEN-004), and Garissa County's programme with partners had over 700 enrolled in Garissa and Turkana (KEN-001), so stage 3.",
       "as_at": "2026-10-31"
     }
   ]

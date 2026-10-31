@@ -123,3 +123,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-31,ZAF,capacity.literacy--digital-literacy-general-population,review,3,3,ZAF-007,Rebuild: held at 3 on ZAF-007; first-pass staging re-read against the ladder.
 2026-10-31,ZMB,capacity.literacy--digital-literacy-general-population,review,2,2,ZMB-001;ZMB-003,Rebuild: held at 2 on ZMB-001;ZMB-003; first-pass staging re-read against the ladder.
 2026-10-31,ZWE,capacity.literacy--digital-literacy-general-population,review,4,4,ZWE-001,Rebuild: held at 4 on ZWE-001; first-pass staging re-read against the ladder.
+2026-10-31,KEN,capacity.literacy--digital-literacy-general-population,ladder,2,3,KEN-004;KEN-003;KEN-001,"More than one location counts (Bill, messages-for-bill 61, 2026-10-31)"
+2026-10-31,SWZ,capacity.literacy--digital-literacy-general-population,ladder,2,3,SWZ-003;SWZ-006;SWZ-013,"More than one location counts (Bill, messages-for-bill 61, 2026-10-31)"
+2026-10-31,BDI,capacity.literacy--digital-literacy-general-population,ladder,2,3,BDI-001,"More than one location counts (Bill, messages-for-bill 61, 2026-10-31)"

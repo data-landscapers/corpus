@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No national count of people trained has been found; the counts found are of one hub. No survey share of people with basic digital skills has been found.
+***Not found***. No survey share of people with basic digital skills has been found.

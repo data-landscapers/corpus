@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "2",
-      "training": "underway",
+      "stage": "3",
+      "training": "inservice",
       "measured": "",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-001;BDI-002",
-      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
-      "note": "The digital economy ministry launched a third phase of coding camps for 102 girls in September 2025, and the PAFEN project of 2024 includes public digital skills. No count of a national programme's trainees has been found, so not stage 3.",
+      "stage_sources": "BDI-001",
+      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills, from a survey.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 61: a programme shown in more than one location counts; national evidence is not needed): the digital economy ministry's AGCCI coding camps trained 102 girls from all provinces in 2025, with telecentres at Bubanza, Kirundo and Ruyigi (BDI-001), so stage 3.",
       "as_at": "2026-10-31"
     }
   ]

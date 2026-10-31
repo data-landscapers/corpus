@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 11 |
-| 2 Nascent | 27 |
+| 3 Established | 14 |
+| 2 Nascent | 24 |
 | 1 Absent | 1 |
 | Unplaced | 4 |
 | No evidence | 6 |
@@ -61,12 +61,26 @@ A 2025 household survey found 43.7 per cent of people had basic digital skills; 
 
 - The 2025 ZIMSTAT and POTRAZ ICT household survey found 43.7 percent of Zimbabweans have basic digital skills ([source, 2025](https://www.newzimbabwe.com/ai-gains-ground-as-zimbabweans-turn-to-digital-learning/)).
 
+### Burundi: 3 Established
+
+Burundi's digital ministry trained 102 girls from all provinces in digital skills in 2025; no survey measures the share.
+
+- The ministry in charge of the digital economy, with UN Women Burundi and Belgian funding, launched phase III of the AGCCI coding camps on 25 September 2025, training 102 girls aged 17-25 from all provinces in digital literacy and coding, with telecentres supported at Bubanza, Kirundo and Ruyigi ([source, 2025-09-25](https://abpinfo.bi/2025/09/30/la-promotion-des-competences-numeriques-des-jeunes-filles-burundaises-une-priorite/)).
+
 ### Egypt: 3 Established
 
 The communications ministry's programmes had trained about 277,000 people by 2025; no survey of the share with digital skills has been found.
 
 - The Ministry of Communications and Information Technology says its "Digital Egypt Generations" initiatives (Cubs, Juniors, Pioneers, Builders) trained about 156,000 people in 2025 and about 277,000 since launch through the end of 2025 ([source, 2025-12](https://egyptinnovate.com/en/news/eng-raafat-hendy-277000-trainees-empowered-through-digital-egypt-generations-initiatives)).
 - MCIT's Decent Life digital knowledge and competencies programme has improved the digital skills of 164,840 citizens of a 218,155 target (85.80%) ([source, 2025-09](https://www.comcec.org/wp-content/uploads/2025/09/4.-Egypt-Presentation-on-Rural-Accessibility.pdf)).
+
+### Eswatini: 3 Established
+
+Eswatini's government trains people in digital skills through hubs and online courses, over 100 at Macetjeni in 2026; no survey measures the share.
+
+- More than 100 participants completed computer literacy, Microsoft Office and AI training in the Macetjeni iHub pilot phase before the official launch ([source, 2026-08-06](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/)).
+- The Government of Eswatini and UNDP launched the Macetjeni iHub on 6 August 2026, a centre offering digital skills training to young people, women, small business owners and persons with disabilities ([source, 2026-08-06](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities)).
+- Eswatini's National Cybersecurity Agency ran the 'Asiphepheni, Secure Our World' campaign in 2024, reaching over 3,700 pupils and enrolling 486 citizens in free online cybersecurity courses ([source, 2024](https://www.insidebiz.co.sz/esccom-launches-2025-cybersecurity-awareness-month/)).
 
 ### Ethiopia: 3 Established
 
@@ -80,6 +94,14 @@ The government's coding programme recorded over 12,000 course completions in 202
 
 - More than 12,000 course completions were recorded in the early weeks of Phase Two of the One Million Coders Programme, per Sukparu ([source, 2026-08-17](https://techafricanews.com/2026/08/20/ghana-opens-2026-national-ict-week-ai-digital-skills/)).
 - Minister Samuel Nartey George said the One Million Coders Programme had recorded 5,812 course completions and 11,683 cumulative attendances across 118 reporting centres between 1 June and 15 August 2026 ([source, 2026-08-15](https://www.myjoyonline.com/one-million-coders-programme-records-141954-registrations-27782-active-learners/)).
+
+### Kenya: 3 Established
+
+Kenya's government trained people in digital skills in several counties in 2026, among them 330 in Keiyo South; no survey measures the share.
+
+- 330 young people in Keiyo South completed the DigiTruck digital skills programme ([source, 2026-09](https://techafricanews.com/2026/09/11/kenya-trains-330-young-people-in-digital-skills-through-huawei-digitruck/)).
+- Kenya's State Department of ICT and Digital Economy, with Huawei TECH4ALL and Computers for Schools Kenya, delivered digital skills training through the Huawei DigiTruck, as stated by the Principal Secretary ([source, 2026-09](https://techafricanews.com/2026/09/11/kenya-trains-330-young-people-in-digital-skills-through-huawei-digitruck/)).
+- Power Learn Project, ILO, Microsoft and the Garissa County Government, with Netherlands support, are implementing a 25-week digital skills programme for about 1,700 refugee and host-community youth in Garissa and Turkana, with over 700 enrolled ([source, 2026-09-11](https://allafrica.com/stories/202609110285.html)).
 
 ### Liberia: 3 Established
 
@@ -159,13 +181,6 @@ A World Bank-financed digital project includes digital-skills training from 2023
 - The World Bank appraisal document (2023-12-22) for PACTDIGITAL includes a US$22.00m component on developing digital skills and a project aim to increase access to digital skills programs ([source, 2023-12-22](https://projects.worldbank.org/en/projects-operations/project-detail/P177022)).
 - Agence Ecofin reports that the digital ministry's 2025 results included strengthening the digital skills of 169 young girls ([source, 2025](https://www.agenceecofin.com/actualites-numerique/3112-134607-le-burkina-faso-prevoit-109-millions-de-dollars-au-developpement-du-numerique-en-2026)).
 
-### Burundi: 2 Nascent
-
-The digital ministry ran coding camps for 102 girls in 2025; a national programme's count of people trained has not been found.
-
-- The ministry in charge of the digital economy, with UN Women Burundi and Belgian funding, launched phase III of the AGCCI coding camps on 25 September 2025, training 102 girls aged 17-25 from all provinces in digital literacy and coding, with telecentres supported at Bubanza, Kirundo and Ruyigi ([source, 2025-09-25](https://abpinfo.bi/2025/09/30/la-promotion-des-competences-numeriques-des-jeunes-filles-burundaises-une-priorite/)).
-- The PAFEN project launched 12 September 2024 includes development of digital skills for the population among its priority components, per its coordinator ([source, 2024-09-12](https://en.abpinfo.bi/official-launch-of-the-project-to-support-the-foundations-of-the-digital-economy-in-burundi/)).
-
 ### Cape Verde: 2 Nascent
 
 The government launched a digital-skills programme for 3,000 young people in 2026; a count of people trained has not been found.
@@ -200,13 +215,6 @@ A national digital-skills programme was under way in 2026; how many it trained i
 - The government launched a feasibility study (statement of 13 May 2026) for Digital Houses in five inland regions under the E-SKILLS programme, which aims to train at least 3,000 young people and women by 2029 for about EUR 7 million ([source, 2026-05-13](https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative)).
 - The Ministry of Digital Economy and Innovation launched work on École 42 Djibouti, a project-based coding school for young people in software development, cybersecurity and data, with EU E-Skills programme and Expertise France support, per Tech Review Africa ([source, 2026-04-06](https://techreviewafrica.com/public/news/4771/djibouti-launches-ecole-42-project-to-promote-technological-innovation)).
 
-### Eswatini: 2 Nascent
-
-The government announced a coding programme for 300,000 people in 2026; a national count of people trained has not been found.
-
-- The ICT minister said Coders Eswatini, implemented through cooperation with the UAE, aims to equip 300,000 emaSwati with internationally recognised digital skills, at least half women ([source, 2026-07-23](https://times.co.sz/39456/news/eswatini-launches-africas-first-womens-digital-academy/)).
-- The Government of Eswatini and UNDP launched the Macetjeni iHub on 6 August 2026, a centre offering digital skills training to young people, women, small business owners and persons with disabilities ([source, 2026-08-06](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities)).
-
 ### Gabon: 2 Nascent
 
 The digital ministry launched free online digital-skills courses in 2024; a count of people trained has not been found.
@@ -233,12 +241,6 @@ The cabinet approved a national digital-skills policy in 2026; a count of people
 
 - The Council of Ministers approved a draft decree on a National Digital Skills Policy whose purpose is to train Guinean citizens in digital skills, per the cabinet communique reported by ANG ([source, 2026-07](https://ang.gw/conselho-de-ministros-aprova-diplomas-sobre-concorrencia-estrategia-para-desenvolvimento-do-caju-e-politica-de-competencias-digitais/)).
 - The Council of Ministers approved, with amendments, a draft decree on the National Digital Skills Policy, aimed at equipping national citizens with digital skills ([source, 2026-05-19](https://wardip.gw/wp-content/uploads/2026/05/scan_20260519162259.pdf)).
-
-### Kenya: 2 Nascent
-
-The ICT department ran mobile digital-skills training in 2026; a national count of people trained has not been found.
-
-- Kenya's State Department of ICT and Digital Economy, with Huawei TECH4ALL and Computers for Schools Kenya, delivered digital skills training through the Huawei DigiTruck, as stated by the Principal Secretary ([source, 2026-09](https://techafricanews.com/2026/09/11/kenya-trains-330-young-people-in-digital-skills-through-huawei-digitruck/)).
 
 ### Madagascar: 2 Nascent
 
