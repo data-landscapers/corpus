@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is a national digital-skills programme under way? | A source from the last three years says the government, alone or with partners, has launched, piloted or is preparing a programme to teach digital skills to the public |
 | 2 | Is one in service and counted? | A source from the last three years says a government digital-skills programme for the public, alone or with partners, is in service in more than one location and has trained a stated number of people |
 | 3 | Is the share of people with digital skills measured? | A source from the last three years gives a measured share of adults or of the population with basic digital skills, from a survey |
-| 4 | Is that share half or more? | A source from the last three years gives a measured share of half or more of adults with basic digital skills |
+| 4 | Is that share half or more? | A source from the last three years gives a measured share of half or more of adults, or of the population, with basic digital skills |
 
 ## 3. The ladders
 
@@ -44,6 +44,8 @@ Asked in order. Each is answered with a date and a link.
 | 3 Programme | Yes to 2 |
 | 4 Measured | Yes to 3 |
 | 5 Half skilled | Yes to 4 |
+
+**A share of the population counts at question 4** *(Bill, 2026-10-31, messages-for-bill 62, borderline)*: a survey share of individuals, or of everyone above a stated age, of half or more is a yes. BWA, MUS 4→5.
 
 **A programme need not be shown national** *(Bill, 2026-10-31, messages-for-bill 61)*: question 2 is met by a government programme, alone or with partners, with a stated count, shown in more than one location. KEN, SWZ, BDI 2→3; a count from one site (MOZ's Matola pilot) or with no location (BFA) is not enough.
 

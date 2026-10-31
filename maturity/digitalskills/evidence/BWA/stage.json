@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "4",
+      "stage": "5",
       "training": "inservice",
       "measured": "measured",
-      "half": "",
+      "half": "half",
       "cap": "",
       "flags": "",
       "stage_sources": "BWA-002",
-      "gaps": "The 2024 survey's 59.2 per cent is of individuals; no source found gives the share of adults with basic digital skills.",
-      "note": "Statistics Botswana's 2024 ICT household survey found 59.2 per cent of individuals with e-skills, a measured share. The figure is of individuals, not adults, and does not separate basic skills, so not stage 5.",
+      "gaps": "Nothing on the four questions.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 62: a measured share of the population counts, borderline): Statistics Botswana's 2024 ICT household survey found 59.2 per cent of individuals with e-skills (BWA-002), half or more, so stage 5.",
       "as_at": "2026-10-31"
     }
   ]

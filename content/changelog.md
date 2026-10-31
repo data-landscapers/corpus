@@ -1,5 +1,6 @@
 ## 31 October 2026
 
+- Digital skills of the public's top stage now accepts a survey share of the whole population, not only of adults. Botswana (59.2 per cent of individuals with e-skills, 2024) and Mauritius (62.2 per cent aged five and over, 2024) rise from stage 4 to 5.
 - Digital skills of the public now counts a government training programme shown in more than one place, without evidence that it covers the whole country. Kenya, Eswatini and Burundi rise from stage 2 to 3.
 - Control of state data now counts only a rule that covers government or state data: personal data laws and banking rules no longer count. Botswana, Ethiopia, Libya, Morocco, Mozambique and Tanzania drop from stage 3 to 2, and Cameroon and Zimbabwe from 4 to 2.
 - Cross-border data transfers is rescored on a new ladder: it now rewards countries that let data cross borders while protecting it, and marks down rules that keep data at home or make every transfer wait on a regulator's permission. Mauritania alone reaches stage 5, with a published list of safe countries and the Malabo Convention ratified; most countries now sit at stage 2.

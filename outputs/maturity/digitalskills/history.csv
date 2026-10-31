@@ -126,3 +126,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-31,KEN,capacity.literacy--digital-literacy-general-population,ladder,2,3,KEN-004;KEN-003;KEN-001,"More than one location counts (Bill, messages-for-bill 61, 2026-10-31)"
 2026-10-31,SWZ,capacity.literacy--digital-literacy-general-population,ladder,2,3,SWZ-003;SWZ-006;SWZ-013,"More than one location counts (Bill, messages-for-bill 61, 2026-10-31)"
 2026-10-31,BDI,capacity.literacy--digital-literacy-general-population,ladder,2,3,BDI-001,"More than one location counts (Bill, messages-for-bill 61, 2026-10-31)"
+2026-10-31,BWA,capacity.literacy--digital-literacy-general-population,ladder,4,5,BWA-002,"Population share counts (Bill, messages-for-bill 62, 2026-10-31)"
+2026-10-31,MUS,capacity.literacy--digital-literacy-general-population,ladder,4,5,MUS-001;MUS-002,"Population share counts (Bill, messages-for-bill 62, 2026-10-31)"

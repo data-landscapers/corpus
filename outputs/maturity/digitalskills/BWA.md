@@ -6,8 +6,8 @@
 
 **Share measured.** [Statistics Botswana's 2024 ICT household survey found 59.2 per cent of individuals had e-skills](<https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf>). [Basic skills were more common than advanced ones](<https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf>).
 
-**Half or more.** [The 2024 survey's 59.2 per cent is a share of all individuals](<https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf>). No survey since October 2023 has been found that gives a share of adults. [Statistics Botswana presented the survey to an ITU expert group in 2026](<https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf>).
+**Half or more.** [In the 2024 survey, 59.2 per cent of individuals had e-skills](<https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf>), more than half. Basic skills were more common than advanced ones. [Statistics Botswana presented the survey to an ITU expert group in 2026](<https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf>).
 
 ***Also on file***. [EU Support to Digital Transformation in Botswana](<https://smartbots.org.bw/projects/eu-digital-transformation>).
 
-***Not found***. The 2024 survey gives a share of individuals, not of adults with basic digital skills.
+***Not found***. The 2024 survey gives a share of all individuals; a share for adults alone has not been found.

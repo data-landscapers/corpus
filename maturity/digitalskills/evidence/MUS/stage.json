@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "4",
+      "stage": "5",
       "training": "inservice",
       "measured": "measured",
-      "half": "",
+      "half": "half",
       "cap": "",
       "flags": "",
       "stage_sources": "MUS-001;MUS-002",
-      "gaps": "The 62.2 per cent is of persons aged 5 and over able to use a computer; no source found gives the share of adults with basic digital skills.",
-      "note": "The digital promotion agency's 2024 household indicators give 62.2 per cent of persons aged 5 and over able to use a computer, a measured share. It is not a share of adults with basic digital skills, so not stage 5.",
+      "gaps": "Nothing on the four questions.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 62: a measured share of the population counts, borderline): the digital promotion agency's 2024 household indicators give 62.2 per cent of persons aged 5 and over able to use a computer (MUS-001, MUS-002), half or more, so stage 5.",
       "as_at": "2026-10-31"
     }
   ]

@@ -20,8 +20,8 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
-| 4 Operating | 5 |
+| 5 Leading | 2 |
+| 4 Operating | 3 |
 | 3 Established | 14 |
 | 2 Nascent | 24 |
 | 1 Absent | 1 |
@@ -30,24 +30,24 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 
 ## Countries
 
-### Botswana: 4 Operating
+### Botswana: 5 Leading
 
-A 2024 household survey found 59.2 per cent of individuals had e-skills; the share of adults with basic skills has not been found.
+Statistics Botswana's 2024 household survey found 59.2 per cent of individuals with e-skills.
 
 - Statistics Botswana's 2024 Household Access and Individual Use of ICTs Survey found 59.2% of individuals reported having e-skills, basic skills more prevalent than advanced ([source, 2024](https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf)).
+
+### Mauritius: 5 Leading
+
+In 2024, 62.2 per cent of people aged five and over in Mauritius could use a computer.
+
+- The Mauritius Digital Promotion Agency ICT household indicators table gives a digital literacy rate, persons aged 5 and above who can use a computer, of 62.2 percent for 2024 ([source, 2024](https://indicators.govmu.org/ictindicators/?page_id=3218)).
+- The same table gives 62.2 percent of persons aged 5 and above able to use a computer in 2024, above half ([source, 2024](https://indicators.govmu.org/ictindicators/?page_id=3218)).
 
 ### Lesotho: 4 Operating
 
 A 2023 household survey found 35.1 per cent of people had ICT skills; no survey share of half or more has been found.
 
 - The LCA and Bureau of Statistics household survey of 2023 found that 35.1% of individuals in Lesotho had ICT skills, against 58.4% who use the internet ([source, 2023](https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf)).
-
-### Mauritius: 4 Operating
-
-In 2024, 62.2 per cent of people aged five and over could use a computer; a share for adults has not been found.
-
-- The Mauritius Digital Promotion Agency ICT household indicators table gives a digital literacy rate, persons aged 5 and above who can use a computer, of 62.2 percent for 2024 ([source, 2024](https://indicators.govmu.org/ictindicators/?page_id=3218)).
-- The same table gives 62.2 percent of persons aged 5 and above able to use a computer in 2024, above half ([source, 2024](https://indicators.govmu.org/ictindicators/?page_id=3218)).
 
 ### Sierra Leone: 4 Operating
 
