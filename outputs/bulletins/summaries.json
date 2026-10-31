@@ -1,39 +1,4 @@
 {
-  "2026-08-29-bbc-arabic-egypt-ai-huawei-us-competition": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "A tender to build artificial-intelligence data centres for the Egyptian government is reported as a contest between American and Chinese suppliers rather than a procurement. The piece is analyst commentary on the bid already recorded on 26 August, in which more than two thousand advanced Chinese chips were proposed for a training cloud and two inference clusters."
-  },
-  "2026-08-29-cameroon-cybastion-douala-ai-data-centre": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "A United States company announced an intention to invest US$75m in an artificial-intelligence data centre and an accompanying power plant at Douala, at the inaugural United States-Cameroon economic and commercial dialogue on 27 August. It is one project among an estimated US$7bn of investment and trade opportunities floated at the meeting, and no agreement, site, capacity or date is on record."
-  },
-  "2026-08-29-equatorial-guinea-starlink-available": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "The satellite operator confirmed on 29 August that its internet service is now available in Equatorial Guinea, on its own and its owner's social-media accounts. That follows the government's opening of negotiations on national digital transformation in March and a July authorisation that covered only North American companies' offshore operations inside jurisdictional waters. No licence, tariff or subscriber figure accompanies the confirmation."
-  },
-  "2026-08-29-senegal-gambie-feuille-route-numerique-commune": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "Senegal and Gambia held the first steering-committee session of their bilateral digital-cooperation agreement at Banjul on 29 August, eleven weeks after signing it at Dakar. The two sides settled four priorities: infrastructure and interoperability, cyber resilience, capacity building and regulatory harmonisation, with rural access to electronic government named among the work. No timetable, budget or named deliverable is attached to any of the four."
-  },
-  "2026-08-29-somalia-senate-cybersecurity-bill-first-reading": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "The Upper House gave a six-chapter, 33-article cybersecurity bill its first reading on 29 August, at the first sitting of its eighth term, alongside a separate bill establishing a national meteorological agency. Both are short of the second and third readings the chamber requires. The House of the People approved a cybersecurity law in January, and nothing on record states whether the bill now before the Senate is that instrument."
-  },
-  "2026-08-29-southafrica-vexa-coega-ai-data-hub-power": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "A metropolitan council approved a developer's request on 27 August to connect a proposed hyperscale artificial-intelligence and cloud campus at the Coega special economic zone directly to the national utility rather than the municipal grid, for up to 556MW. The developer offered R3bn of municipal and community infrastructure investment against councillor objections. What was approved is the connection; the campus has no capacity in service or completion date on record."
-  },
-  "2026-08-29-thisday-tinubu-ippis-forensic-audit": {
-    "published": "2026-08-29",
-    "written": "2026-08-29",
-    "summary": "The President directed the finance minister on 28 August to coordinate a forensic audit of the federal payroll system and the payroll, pension and financial-management platforms around it, tracing how ineligible people were enrolled and examining the interfaces with the government financial management system and the Treasury Single Account. A second component is a definitive inventory of every federal agency and its legal basis. No auditor, budget or reporting date is stated."
-  },
   "2026-08-30-electricity-tariff-overview": {
     "published": "2026-08-30",
     "written": "2026-08-30",
@@ -17849,6 +17814,11 @@
     "written": "2026-10-14",
     "summary": "Meta removed more than 3.7 million Facebook and Instagram accounts, Pages and Groups linked to West African scam networks, in an operation led by the UK National Crime Agency with the US DOJ and FBI. Nigerian police arrested nine people and seized 53 devices; Ghanaian police arrested 19 near Accra and identified 117 trafficking victims made to work in scam operations."
   },
+  "2026-10-14-xaf-afrinic-afpub-2026-gen-005-draft01-update-of-pdp": {
+    "published": "2026-10-14",
+    "written": "2026-10-31",
+    "summary": "Jordi Palet Martinez of The IPv6 Company submitted version 4.0 of a proposal to update AFRINIC's policy development process on 14 October 2026. It would define rough consensus, require eight weeks of mailing-list discussion and an impact analysis within four weeks, and expire each version after six months. The proposal is under discussion."
+  },
   "2026-10-14-xwa-bceao-guide-candidat-lif": {
     "published": "2026-10-14",
     "written": "2026-10-18",
@@ -20844,6 +20814,11 @@
     "written": "2026-10-29",
     "summary": "Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April."
   },
+  "2026-10-27-afrinic-pdp-draft-clocks": {
+    "published": "2026-10-27",
+    "written": "2026-10-31",
+    "summary": "BTW Media reviewed version 4 of AFRINIC's proposal to update its policy development process, submitted on 14 October 2026. It sets separate deadlines for impact analysis, list discussion, the chair's decision, Last Call and expiry. The article says the draft does not state how the decision window and Last Call fit together."
+  },
   "2026-10-27-ago-infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid": {
     "published": "2026-10-27",
     "written": "2026-10-28",
@@ -21694,6 +21669,16 @@
     "written": "2026-10-30",
     "summary": "Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egypt's ICT minister, Raafat Hindi (reported 29 October 2026). They discussed digital transformation, training and Egyptian support for Uganda's national AI strategy. The two sides agreed to sign a memorandum of understanding later."
   },
+  "2026-10-29-xaf-kremlin-russia-africa-action-plan-2027-2029-ru": {
+    "published": "2026-10-29",
+    "written": "2026-10-31",
+    "summary": "Russia and African states adopted the Russia–Africa Partnership Forum Action Plan for 2027–2029 at the third Russia–Africa Summit in Moscow on 29 October 2026. Its ICT and security chapters cover personal and biometric data protection, an AI capacity programme, compute and data-centre infrastructure, and sovereign communications platforms. The plan states what the parties intend to do."
+  },
+  "2026-10-29-xaf-kremlin-russia-africa-ai-declaration-ru": {
+    "published": "2026-10-29",
+    "written": "2026-10-31",
+    "summary": "Russia and African states adopted an 18-point declaration on civil uses of AI at the third Russia–Africa Summit in Moscow on 29 October 2026. It affirms each state's right to set its own AI rules and calls for non-discriminatory access to data and compute. It also calls for common rules on labelling AI-generated content, and excludes military AI."
+  },
   "2026-10-29-xaf-opening-remarks-lerato-mataboge-6th-au-stc-cict": {
     "published": "2026-10-29",
     "written": "2026-10-30",
@@ -21703,6 +21688,11 @@
     "published": "2026-10-29",
     "written": "2026-10-30",
     "summary": "British International Investment published a Responsible AI Due Diligence Toolkit for investors in emerging markets, developed with Reframe Venture. It sets due-diligence questions on discrimination, privacy, security and accountability risks in companies that build or use AI."
+  },
+  "2026-10-29-xss-chainalysis-sub-saharan-africa-crypto-adoption-2026": {
+    "published": "2026-10-29",
+    "written": "2026-10-31",
+    "summary": "Chainalysis reported on 29 October 2026 that Sub-Saharan Africa's crypto economy grew 13.4% to USD 101 billion between July 2025 and June 2026. South Africa's grew 52% to USD 39.3 billion, and Nigeria recorded USD 38.1 billion, down 3%. The two countries account for more than three-quarters of regional activity."
   },
   "2026-10-29-zaf-icasa-publishes-draft-numbering-plan-fifth-amendment-regulations-2026": {
     "published": "2026-10-29",
@@ -21743,5 +21733,135 @@
     "published": "2026-10-29",
     "written": "2026-10-30",
     "summary": "ZIMSTAT is listing households and businesses across all ten provinces, from 19 October to 13 November 2026, to select samples for the FinScope Consumer and MSME surveys. The surveys will measure use of banking, savings, credit, insurance and digital payments. The agency said responses stay confidential under the Census and Statistics Act."
+  },
+  "2026-10-30-africa-seeks-control-of-ai-safety-eswatini-standards-centre": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "The Eswatini Standards Authority and AICE Africa launched an AI Safety and Standards Centre of Excellence on 27 October 2026. It will train standards officers, auditors and regulators, and work towards an AI testing laboratory and an African AI standards baseline report. An AI safety summit is planned for Mbabane in July 2027."
+  },
+  "2026-10-30-ai-exacerbates-election-disinformation-say-experts": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "The CSIR and GCIS held an online media roundtable on AI and elections in the week of 26 October 2026, ahead of South Africa's municipal elections. A Centre for Analytics and Behavioural Change researcher said its monitoring had found AI-generated videos, including one of Nelson Mandela. The CSIR asked partners to join a network against misinformation."
+  },
+  "2026-10-30-airtel-uganda-840-sites-starlink": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Airtel Uganda's managing director, Soumendra Sahu, said the company has built 840 new sites in two years, enlarging its network by about 25%. Starlink's direct-to-phone service went live through Airtel in September 2026. Sahu put smartphone penetration at 42–43% and asked for duty and VAT relief on low-cost phones."
+  },
+  "2026-10-30-cmr-itweb-cameroon-warns-of-rising-fintech-cyberthreats": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Cameroon's ICT agency ANTIC said it has audited 108 fintech companies and found 3,914 vulnerabilities. Its director-general spoke at the Digitize Cameroon forum in Mbankomo, which opened on 28 October 2026. Since an April 2025 ministry decision, platforms need ANTIC-verified security compliance to reach the national aggregation platform."
+  },
+  "2026-10-30-cmr-techafricanews-cameroon-100-fintech-firms-digital-security": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "About 100 fintech firms met in Mbankomo for a three-day forum on security and regulation, opened on 28 October 2026 by ANTIC's director-general. The forum is part of Digitise Cameroon 2026, run by ANTIC and The Change Engine. Digital payment services earned over FCFA 1,022 billion in 2024, 3.16% of GDP."
+  },
+  "2026-10-30-com-lagazette-sante-et-numerique-onze-projets": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Comoros's health statistics directorate said on 27 October 2026 that only one of eleven projects in the 2022 digital health plan has been substantially implemented. It cited lack of funds. DHIS2 is in use with an electronic vaccination register, and malaria forecasting is being piloted in five Ngazidja districts."
+  },
+  "2026-10-30-eac-states-pursue-unified-ai-strategy": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "The 21st EAC Sectoral Council on Education, Science, Technology, Culture and Sports, meeting in Uganda, took up the draft EAC AI Strategy. The strategy has been through national consultations in all partner states and a regional validation in Kampala in 2026. No council decision on it has been reported."
+  },
+  "2026-10-30-ecowas-coywa-second-cohort-accra": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "ECOWAS, AUDA-NEPAD and the Spanish development agency AECID held the second COYWA training session in Accra from 26 to 30 October 2026. Young and women entrepreneurs were trained in digital tools, online security, financial skills and the use of AI. The session followed an online phase that began on 23 September."
+  },
+  "2026-10-30-ecowas-e-commerce-forum-abuja": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "The ECOWAS Commission and the West African Regional Digital Integration Project held an e-commerce forum in Abuja on 27 and 28 October 2026. It worked on implementing the ECOWAS E-Commerce Strategy 2023–2027 and a draft action plan. The plan covers women, young people, people with disabilities and small cross-border traders."
+  },
+  "2026-10-30-gambia-eco-papss-finance-minister": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "The Gambia's finance minister told the National Assembly on 28 October 2026 that the central bank has committed to implementing PAPSS. He said the bank is integrating the country's payment systems with it. He also said The Gambia should meet three of the four ECOWAS convergence criteria in 2026 and all four in 2027."
+  },
+  "2026-10-30-gcis-warns-of-information-breach": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "South Africa's GCIS told applicants that its e-recruitment system had been compromised, possibly exposing ID numbers, phone numbers and e-mail addresses. Suspicious activity on its web systems was identified on 24 October 2026. GCIS reported the incident to the Information Regulator, the police and the State Security Agency."
+  },
+  "2026-10-30-gha-nia-arrests-6-sacks-7-others-over-extortion-at-galaka-ghana-card-registration-centre": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Ghana's National Identification Authority arrested six staff and dismissed seven over alleged extortion of parents at the Galaka Ghana Card centre in the Upper East Region. The demands were made during the free registration of children aged 6 to 14. The seven dismissed had known of them and not reported them."
+  },
+  "2026-10-30-itu-ai-transforming-our-future-who-will-benefit": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "ITU Deputy Secretary-General Tomas Lamanauskas wrote on 30 October 2026 on who gains from AI investment, drawing on his World Investment Forum remarks. He cited World Bank figures giving Latin America and Africa 3.3% of data-centre capacity. He said ITU, UNCTAD and eight development banks had launched a Digital Infrastructure Investment Catalyser."
+  },
+  "2026-10-30-kenya-rolls-out-30-000-kilometres-of-fibre-infrastructure-since-2022": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "ICT Principal Secretary John Tanui said Kenya has laid more than 30,000 km of fibre since 2022. He spoke at the second national-county ICT consultative forum in Naivasha. The forum took up a proposed County Digital Maturity Index, the National AI Agenda and the draft National DPI Roadmap."
+  },
+  "2026-10-30-mus-lexpress-protection-des-donnees-23-000-entreprises-enregistrees-sur-60-000": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Mauritius launched a guide on data protection in the financial sector on 29 October 2026. The ICT minister said about 23,000 of some 60,000 entities required to register under the Data Protection Act 2017 had done so. He announced training for data protection officers and a review of the Cybersecurity and Cybercrime Act 2021."
+  },
+  "2026-10-30-mwi-eeas-ubuntunet-connect-2026-shaping-digital-horizons": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "The EU took part in UbuntuNet Connect 2026 in Lilongwe on 29 and 30 October, marking the UbuntuNet Alliance's 20th year. The EU says AfricaConnect has connected over 3,000 institutions and reached over 9 million students and researchers. It also funds Malawi work on digital identity, governance, skills and ICT regulation."
+  },
+  "2026-10-30-sen-le-senegal-se-dote-d-un-hub-pour-transformer-les-projets-d-ia-en-appli": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Senegal and the Gates Foundation launched the Senegal AI Scaling Hub in Dakar on 29 October 2026. It is to take AI pilots into use in health, agriculture and education. The hub implements a September 2025 agreement worth over USD 10 million, which also covers digital identity and a delivery unit."
+  },
+  "2026-10-30-sen-senegal-and-brazil-strengthen-digital-cooperation-to-advance-public-se": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Senegal's digital minister, Samba Diouf, met Brazil's ambassador, Daniella Xavier Cesar, on 26 October 2026. They discussed Brazil's experience digitising public services and skills transfer under Senegal's New Deal Technologique. Brazil's part in the next Dakar International Fair was also discussed."
+  },
+  "2026-10-30-tcd-lendjampost-education-nationale-le-numerique-pour-mieux-gerer-les-agents": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Chad's education ministry gave biometric staff cards to academy rectors on 30 October 2026. It ordered its HR directorate to have the Mirador staff-management platform running by the end of November 2026. Personnel acts are to require the card, and deceased, retired and absent staff are to be removed from the active list."
+  },
+  "2026-10-30-thales-cyshield-join-forces-on-egypt-s-biometric-border-and-passport-p": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Thales and the Egyptian firm Cyshield signed a memorandum on biometric border management and electronic passports for Egypt, reported on 30 October 2026. It covers biometric e-gates across more than 32 air, land and sea border points. It also covers issuance systems for a planned national e-passport rollout."
+  },
+  "2026-10-30-vanguardngr-inec-blames-registration-officers-for-ai-generated-photos": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Nigeria's electoral commission said some registration officers used their own logins to add suspected AI-generated photos to the preliminary voters' register. Its biometric identification system found the records. ICT director Lawrence Bayode said the register, uploaded on 26 October 2026, is being cleaned within the 90-day statutory period."
+  },
+  "2026-10-30-workonline-communications-brings-its-african-network-to-ixafrica-s-nbo": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "Workonline Communications opened a point of presence at iXAfrica's NBOX1 data-centre campus in Nairobi, reported on 30 October 2026. It offers IP transit, Ethernet and remote peering to networks in the facility. The company already had a presence in Nairobi and Mombasa."
+  },
+  "2026-10-30-xaf-africanenda-mensah-regulatory-fragmentation": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "AfricaNenda deputy CEO Sabine F. Mensah told Business in Cameroon that differing identity, compliance and licensing rules slow cross-border payments in Africa. She called for an African Union framework and licence passporting for fintechs. AfricaNenda's SIIPS 2026 report is due on 19 November 2026."
+  },
+  "2026-10-30-xaf-au-ministers-digital-strategies-to-delivery": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "The African Union's ICT ministerial committee opened its sixth session in Libreville on 29 October 2026, with Ghana taking the chair from Lesotho. AU Commissioner Lerato Mataboge asked ministers for financing and implementation, not new strategies. She called for investment in cross-border fibre, data centres and internet exchange points."
+  },
+  "2026-10-30-xaf-brusselstimes-au-eu-ai-in-science-high-level-event": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "The AU and EU held an online high-level event on AI in science on 26 October 2026, the EEAS said. Participants named shared datasets, computing capacity and data governance as priorities. The European Commission said AU–EU research cooperation had supported about EUR 6 billion of activity."
+  },
+  "2026-10-30-zmb-techafricanews-smart-zambia-huawei-ai-training-government-officials": {
+    "published": "2026-10-30",
+    "written": "2026-10-31",
+    "summary": "SMART Zambia Institute and Huawei announced a five-day AI training programme for government officials, opening on 2 November 2026. Huawei will provide it free, with trainers from China. It covers national AI strategy, large language models, AI data centres and AI agents."
   }
 }
