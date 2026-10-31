@@ -15,3 +15,111 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,MWI,capacity.literacy--digital-literacy-general-population,fact,2,3,MWI-004,"Digital Malawi Project (Aug 2024): 10 tech hubs trained over 19,000 youths, women and elderly in digital skills; programme in service and counted, stage 2 to 3."
 2026-10-24,DJI,capacity.literacy--digital-literacy-general-population,fact,2,2,DJI-004;DJI-005,"World Bank ISR (Jun 2025): 226 people given improved digital skills under DDFP by Aug 2024, skills activities not started; not a public programme in service, stage 2 holds."
 2026-10-26,UGA,capacity.literacy--digital-literacy-general-population,fact,2,3,UGA-003,"UCC's UCUSAF reports over 13,000 women and 11,000 rural community members trained in digital skills 2020-2026: a counted national programme, 2 to 3"
+2026-10-31,AGO,capacity.literacy--digital-literacy-general-population,review,2,2,AGO-002;AGO-004,Rebuild: held at 2 on AGO-002;AGO-004; first-pass staging re-read against the ladder.
+2026-10-31,BDI,capacity.literacy--digital-literacy-general-population,review,2,2,BDI-001;BDI-002,Rebuild: held at 2 on BDI-001;BDI-002; first-pass staging re-read against the ladder.
+2026-10-31,BEN,capacity.literacy--digital-literacy-general-population,review,2,2,BEN-001,Rebuild: held at 2 on BEN-001; first-pass staging re-read against the ladder.
+2026-10-31,BFA,capacity.literacy--digital-literacy-general-population,review,2,2,BFA-001;BFA-002,Rebuild: held at 2 on BFA-001;BFA-002; first-pass staging re-read against the ladder.
+2026-10-31,BWA,capacity.literacy--digital-literacy-general-population,review,4,4,BWA-002,Rebuild: held at 4 on BWA-002; first-pass staging re-read against the ladder.
+2026-10-31,CAF,capacity.literacy--digital-literacy-general-population,review,2,unplaced,,Rebuild: 2 to unplaced: the only row is a UNESCO project with no government named.
+2026-10-31,CIV,capacity.literacy--digital-literacy-general-population,review,2,2,CIV-001;CIV-003,Rebuild: held at 2 on CIV-001;CIV-003; first-pass staging re-read against the ladder.
+2026-10-31,CMR,capacity.literacy--digital-literacy-general-population,review,2,unplaced,,Rebuild: 2 to unplaced: the only row is a UNESCO project with no government named.
+2026-10-31,COD,capacity.literacy--digital-literacy-general-population,review,3,unplaced,,Rebuild: 3 to unplaced: Femintech with Unicef and a UNESCO project; neither names the government.
+2026-10-31,COG,capacity.literacy--digital-literacy-general-population,review,2,2,COG-003,Rebuild: held at 2 on COG-003; first-pass staging re-read against the ladder.
+2026-10-31,COM,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,CPV,capacity.literacy--digital-literacy-general-population,review,2,2,CPV-002;CPV-004,Rebuild: held at 2 on CPV-002;CPV-004; first-pass staging re-read against the ladder.
+2026-10-31,DJI,capacity.literacy--digital-literacy-general-population,review,2,2,DJI-004;DJI-005,Rebuild: held at 2 on DJI-004;DJI-005; first-pass staging re-read against the ladder.
+2026-10-31,DZA,capacity.literacy--digital-literacy-general-population,review,2,2,DZA-001,Rebuild: held at 2 on DZA-001; first-pass staging re-read against the ladder.
+2026-10-31,EGY,capacity.literacy--digital-literacy-general-population,review,3,3,EGY-003;EGY-004,Rebuild: held at 3 on EGY-003;EGY-004; first-pass staging re-read against the ladder.
+2026-10-31,ERI,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,ETH,capacity.literacy--digital-literacy-general-population,review,3,3,ETH-004,Rebuild: held at 3 on ETH-004; first-pass staging re-read against the ladder.
+2026-10-31,GAB,capacity.literacy--digital-literacy-general-population,review,2,2,GAB-003;GAB-002,Rebuild: held at 2 on GAB-003;GAB-002; first-pass staging re-read against the ladder.
+2026-10-31,GHA,capacity.literacy--digital-literacy-general-population,review,3,3,GHA-009;GHA-007,Rebuild: held at 3 on GHA-009;GHA-007; first-pass staging re-read against the ladder.
+2026-10-31,GIN,capacity.literacy--digital-literacy-general-population,review,2,2,GIN-001,Rebuild: held at 2 on GIN-001; first-pass staging re-read against the ladder.
+2026-10-31,GMB,capacity.literacy--digital-literacy-general-population,review,2,2,GMB-001;GMB-003,Rebuild: held at 2 on GMB-001;GMB-003; first-pass staging re-read against the ladder.
+2026-10-31,GNB,capacity.literacy--digital-literacy-general-population,review,2,2,GNB-002;GNB-003,Rebuild: held at 2 on GNB-002;GNB-003; first-pass staging re-read against the ladder.
+2026-10-31,GNQ,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,KEN,capacity.literacy--digital-literacy-general-population,review,3,2,KEN-003,Rebuild: 3 to 2: the only count is 330 in one sub-county; no national count of the DigiTruck programme.
+2026-10-31,LBR,capacity.literacy--digital-literacy-general-population,review,3,3,LBR-006;LBR-003,Rebuild: held at 3 on LBR-006;LBR-003; first-pass staging re-read against the ladder.
+2026-10-31,LBY,capacity.literacy--digital-literacy-general-population,review,2,unplaced,,Rebuild: 2 to unplaced: the only row is an EU4Skills platform with no government named.
+2026-10-31,LSO,capacity.literacy--digital-literacy-general-population,review,4,4,LSO-001,Rebuild: held at 4 on LSO-001; first-pass staging re-read against the ladder.
+2026-10-31,MAR,capacity.literacy--digital-literacy-general-population,review,3,3,MAR-003;MAR-005,Rebuild: held at 3 on MAR-003;MAR-005; first-pass staging re-read against the ladder.
+2026-10-31,MDG,capacity.literacy--digital-literacy-general-population,review,2,2,MDG-003;MDG-002,Rebuild: held at 2 on MDG-003;MDG-002; first-pass staging re-read against the ladder.
+2026-10-31,MLI,capacity.literacy--digital-literacy-general-population,review,2,2,MLI-001;MLI-002,Rebuild: held at 2 on MLI-001;MLI-002; first-pass staging re-read against the ladder.
+2026-10-31,MOZ,capacity.literacy--digital-literacy-general-population,review,2,2,MOZ-001;MOZ-003,Rebuild: held at 2 on MOZ-001;MOZ-003; first-pass staging re-read against the ladder.
+2026-10-31,MRT,capacity.literacy--digital-literacy-general-population,review,3,2,MRT-001;MRT-003,"Rebuild: 3 to 2: the 5,000 count is Simplon's with the French embassy, no government programme named."
+2026-10-31,MUS,capacity.literacy--digital-literacy-general-population,review,4,4,MUS-001;MUS-002,Rebuild: held at 4 on MUS-001;MUS-002; first-pass staging re-read against the ladder.
+2026-10-31,MWI,capacity.literacy--digital-literacy-general-population,review,3,3,MWI-004,Rebuild: held at 3 on MWI-004; first-pass staging re-read against the ladder.
+2026-10-31,NAM,capacity.literacy--digital-literacy-general-population,review,2,2,NAM-004;NAM-003,Rebuild: held at 2 on NAM-004;NAM-003; first-pass staging re-read against the ladder.
+2026-10-31,NER,capacity.literacy--digital-literacy-general-population,review,3,2,NER-002;NER-004,"Rebuild: 3 to 2: the 300 count is Niger Digital Day's founders' caravan under ministerial patronage, not a government programme."
+2026-10-31,NGA,capacity.literacy--digital-literacy-general-population,review,3,3,NGA-008;NGA-007,Rebuild: held at 3 on NGA-008;NGA-007; first-pass staging re-read against the ladder.
+2026-10-31,RWA,capacity.literacy--digital-literacy-general-population,review,2,2,RWA-001;RWA-002,Rebuild: held at 2 on RWA-001;RWA-002; first-pass staging re-read against the ladder.
+2026-10-31,SDN,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,SEN,capacity.literacy--digital-literacy-general-population,review,3,3,SEN-002,Rebuild: held at 3 on SEN-002; first-pass staging re-read against the ladder.
+2026-10-31,SLE,capacity.literacy--digital-literacy-general-population,review,4,4,SLE-002,Rebuild: held at 4 on SLE-002; first-pass staging re-read against the ladder.
+2026-10-31,SOM,capacity.literacy--digital-literacy-general-population,review,2,2,SOM-001,Rebuild: held at 2 on SOM-001; first-pass staging re-read against the ladder.
+2026-10-31,SSD,capacity.literacy--digital-literacy-general-population,review,2,2,SSD-006;SSD-005,Rebuild: held at 2 on SSD-006;SSD-005; first-pass staging re-read against the ladder.
+2026-10-31,STP,capacity.literacy--digital-literacy-general-population,review,2,1,STP-002,Rebuild: 2 to 1: AGER (Nov 2025) finds no digital-literacy action in the policy; the Principe project is one island.
+2026-10-31,SWZ,capacity.literacy--digital-literacy-general-population,review,3,2,SWZ-008;SWZ-006,"Rebuild: 3 to 2: the only counts are of one hub, the Macetjeni iHub."
+2026-10-31,SYC,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,TCD,capacity.literacy--digital-literacy-general-population,review,2,2,TCD-004;TCD-003,Rebuild: held at 2 on TCD-004;TCD-003; first-pass staging re-read against the ladder.
+2026-10-31,TGO,capacity.literacy--digital-literacy-general-population,review,3,3,TGO-006;TGO-002,Rebuild: held at 3 on TGO-006;TGO-002; first-pass staging re-read against the ladder.
+2026-10-31,TUN,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,TZA,capacity.literacy--digital-literacy-general-population,review,2,2,TZA-001;TZA-002,Rebuild: held at 2 on TZA-001;TZA-002; first-pass staging re-read against the ladder.
+2026-10-31,UGA,capacity.literacy--digital-literacy-general-population,review,3,3,UGA-003,Rebuild: held at 3 on UGA-003; first-pass staging re-read against the ladder.
+2026-10-31,ZAF,capacity.literacy--digital-literacy-general-population,review,3,3,ZAF-007,Rebuild: held at 3 on ZAF-007; first-pass staging re-read against the ladder.
+2026-10-31,ZMB,capacity.literacy--digital-literacy-general-population,review,2,2,ZMB-001;ZMB-003,Rebuild: held at 2 on ZMB-001;ZMB-003; first-pass staging re-read against the ladder.
+2026-10-31,ZWE,capacity.literacy--digital-literacy-general-population,review,4,4,ZWE-001,Rebuild: held at 4 on ZWE-001; first-pass staging re-read against the ladder.
+2026-10-31,AGO,capacity.literacy--digital-literacy-general-population,review,2,2,AGO-002;AGO-004,Rebuild: held at 2 on AGO-002;AGO-004; first-pass staging re-read against the ladder.
+2026-10-31,BDI,capacity.literacy--digital-literacy-general-population,review,2,2,BDI-001;BDI-002,Rebuild: held at 2 on BDI-001;BDI-002; first-pass staging re-read against the ladder.
+2026-10-31,BEN,capacity.literacy--digital-literacy-general-population,review,2,2,BEN-001,Rebuild: held at 2 on BEN-001; first-pass staging re-read against the ladder.
+2026-10-31,BFA,capacity.literacy--digital-literacy-general-population,review,2,2,BFA-001;BFA-002,Rebuild: held at 2 on BFA-001;BFA-002; first-pass staging re-read against the ladder.
+2026-10-31,BWA,capacity.literacy--digital-literacy-general-population,review,4,4,BWA-002,Rebuild: held at 4 on BWA-002; first-pass staging re-read against the ladder.
+2026-10-31,CAF,capacity.literacy--digital-literacy-general-population,review,2,unplaced,,Rebuild: 2 to unplaced: the only row is a UNESCO project with no government named.
+2026-10-31,CIV,capacity.literacy--digital-literacy-general-population,review,2,2,CIV-001;CIV-003,Rebuild: held at 2 on CIV-001;CIV-003; first-pass staging re-read against the ladder.
+2026-10-31,CMR,capacity.literacy--digital-literacy-general-population,review,2,unplaced,,Rebuild: 2 to unplaced: the only row is a UNESCO project with no government named.
+2026-10-31,COD,capacity.literacy--digital-literacy-general-population,review,3,unplaced,,Rebuild: 3 to unplaced: Femintech with Unicef and a UNESCO project; neither names the government.
+2026-10-31,COG,capacity.literacy--digital-literacy-general-population,review,2,2,COG-003,Rebuild: held at 2 on COG-003; first-pass staging re-read against the ladder.
+2026-10-31,COM,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,CPV,capacity.literacy--digital-literacy-general-population,review,2,2,CPV-002;CPV-004,Rebuild: held at 2 on CPV-002;CPV-004; first-pass staging re-read against the ladder.
+2026-10-31,DJI,capacity.literacy--digital-literacy-general-population,review,2,2,DJI-004;DJI-005,Rebuild: held at 2 on DJI-004;DJI-005; first-pass staging re-read against the ladder.
+2026-10-31,DZA,capacity.literacy--digital-literacy-general-population,review,2,2,DZA-001,Rebuild: held at 2 on DZA-001; first-pass staging re-read against the ladder.
+2026-10-31,EGY,capacity.literacy--digital-literacy-general-population,review,3,3,EGY-003;EGY-004,Rebuild: held at 3 on EGY-003;EGY-004; first-pass staging re-read against the ladder.
+2026-10-31,ERI,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,ETH,capacity.literacy--digital-literacy-general-population,review,3,3,ETH-004,Rebuild: held at 3 on ETH-004; first-pass staging re-read against the ladder.
+2026-10-31,GAB,capacity.literacy--digital-literacy-general-population,review,2,2,GAB-003;GAB-002,Rebuild: held at 2 on GAB-003;GAB-002; first-pass staging re-read against the ladder.
+2026-10-31,GHA,capacity.literacy--digital-literacy-general-population,review,3,3,GHA-009;GHA-007,Rebuild: held at 3 on GHA-009;GHA-007; first-pass staging re-read against the ladder.
+2026-10-31,GIN,capacity.literacy--digital-literacy-general-population,review,2,2,GIN-001,Rebuild: held at 2 on GIN-001; first-pass staging re-read against the ladder.
+2026-10-31,GMB,capacity.literacy--digital-literacy-general-population,review,2,2,GMB-001;GMB-003,Rebuild: held at 2 on GMB-001;GMB-003; first-pass staging re-read against the ladder.
+2026-10-31,GNB,capacity.literacy--digital-literacy-general-population,review,2,2,GNB-002;GNB-003,Rebuild: held at 2 on GNB-002;GNB-003; first-pass staging re-read against the ladder.
+2026-10-31,GNQ,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,KEN,capacity.literacy--digital-literacy-general-population,review,3,2,KEN-003,Rebuild: 3 to 2: the only count is 330 in one sub-county; no national count of the DigiTruck programme.
+2026-10-31,LBR,capacity.literacy--digital-literacy-general-population,review,3,3,LBR-006;LBR-003,Rebuild: held at 3 on LBR-006;LBR-003; first-pass staging re-read against the ladder.
+2026-10-31,LBY,capacity.literacy--digital-literacy-general-population,review,2,unplaced,,Rebuild: 2 to unplaced: the only row is an EU4Skills platform with no government named.
+2026-10-31,LSO,capacity.literacy--digital-literacy-general-population,review,4,4,LSO-001,Rebuild: held at 4 on LSO-001; first-pass staging re-read against the ladder.
+2026-10-31,MAR,capacity.literacy--digital-literacy-general-population,review,3,3,MAR-003;MAR-005,Rebuild: held at 3 on MAR-003;MAR-005; first-pass staging re-read against the ladder.
+2026-10-31,MDG,capacity.literacy--digital-literacy-general-population,review,2,2,MDG-003;MDG-002,Rebuild: held at 2 on MDG-003;MDG-002; first-pass staging re-read against the ladder.
+2026-10-31,MLI,capacity.literacy--digital-literacy-general-population,review,2,2,MLI-001;MLI-002,Rebuild: held at 2 on MLI-001;MLI-002; first-pass staging re-read against the ladder.
+2026-10-31,MOZ,capacity.literacy--digital-literacy-general-population,review,2,2,MOZ-001;MOZ-003,Rebuild: held at 2 on MOZ-001;MOZ-003; first-pass staging re-read against the ladder.
+2026-10-31,MRT,capacity.literacy--digital-literacy-general-population,review,3,2,MRT-001;MRT-003,"Rebuild: 3 to 2: the 5,000 count is Simplon's with the French embassy, no government programme named."
+2026-10-31,MUS,capacity.literacy--digital-literacy-general-population,review,4,4,MUS-001;MUS-002,Rebuild: held at 4 on MUS-001;MUS-002; first-pass staging re-read against the ladder.
+2026-10-31,MWI,capacity.literacy--digital-literacy-general-population,review,3,3,MWI-004,Rebuild: held at 3 on MWI-004; first-pass staging re-read against the ladder.
+2026-10-31,NAM,capacity.literacy--digital-literacy-general-population,review,2,2,NAM-004;NAM-003,Rebuild: held at 2 on NAM-004;NAM-003; first-pass staging re-read against the ladder.
+2026-10-31,NER,capacity.literacy--digital-literacy-general-population,review,3,2,NER-002;NER-004,"Rebuild: 3 to 2: the 300 count is Niger Digital Day's founders' caravan under ministerial patronage, not a government programme."
+2026-10-31,NGA,capacity.literacy--digital-literacy-general-population,review,3,3,NGA-008;NGA-007,Rebuild: held at 3 on NGA-008;NGA-007; first-pass staging re-read against the ladder.
+2026-10-31,RWA,capacity.literacy--digital-literacy-general-population,review,2,2,RWA-001;RWA-002,Rebuild: held at 2 on RWA-001;RWA-002; first-pass staging re-read against the ladder.
+2026-10-31,SDN,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,SEN,capacity.literacy--digital-literacy-general-population,review,3,3,SEN-002,Rebuild: held at 3 on SEN-002; first-pass staging re-read against the ladder.
+2026-10-31,SLE,capacity.literacy--digital-literacy-general-population,review,4,4,SLE-002,Rebuild: held at 4 on SLE-002; first-pass staging re-read against the ladder.
+2026-10-31,SOM,capacity.literacy--digital-literacy-general-population,review,2,2,SOM-001,Rebuild: held at 2 on SOM-001; first-pass staging re-read against the ladder.
+2026-10-31,SSD,capacity.literacy--digital-literacy-general-population,review,2,2,SSD-006;SSD-005,Rebuild: held at 2 on SSD-006;SSD-005; first-pass staging re-read against the ladder.
+2026-10-31,STP,capacity.literacy--digital-literacy-general-population,review,2,1,STP-002,Rebuild: 2 to 1: AGER (Nov 2025) finds no digital-literacy action in the policy; the Principe project is one island.
+2026-10-31,SWZ,capacity.literacy--digital-literacy-general-population,review,3,2,SWZ-008;SWZ-006,"Rebuild: 3 to 2: the only counts are of one hub, the Macetjeni iHub."
+2026-10-31,SYC,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,TCD,capacity.literacy--digital-literacy-general-population,review,2,2,TCD-004;TCD-003,Rebuild: held at 2 on TCD-004;TCD-003; first-pass staging re-read against the ladder.
+2026-10-31,TGO,capacity.literacy--digital-literacy-general-population,review,3,3,TGO-006;TGO-002,Rebuild: held at 3 on TGO-006;TGO-002; first-pass staging re-read against the ladder.
+2026-10-31,TUN,capacity.literacy--digital-literacy-general-population,review,no evidence,no evidence,,Rebuild: held at no evidence on no row; first-pass staging re-read against the ladder.
+2026-10-31,TZA,capacity.literacy--digital-literacy-general-population,review,2,2,TZA-001;TZA-002,Rebuild: held at 2 on TZA-001;TZA-002; first-pass staging re-read against the ladder.
+2026-10-31,UGA,capacity.literacy--digital-literacy-general-population,review,3,3,UGA-003,Rebuild: held at 3 on UGA-003; first-pass staging re-read against the ladder.
+2026-10-31,ZAF,capacity.literacy--digital-literacy-general-population,review,3,3,ZAF-007,Rebuild: held at 3 on ZAF-007; first-pass staging re-read against the ladder.
+2026-10-31,ZMB,capacity.literacy--digital-literacy-general-population,review,2,2,ZMB-001;ZMB-003,Rebuild: held at 2 on ZMB-001;ZMB-003; first-pass staging re-read against the ladder.
+2026-10-31,ZWE,capacity.literacy--digital-literacy-general-population,review,4,4,ZWE-001,Rebuild: held at 4 on ZWE-001; first-pass staging re-read against the ladder.

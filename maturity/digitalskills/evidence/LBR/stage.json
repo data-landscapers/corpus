@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "3",
-   "training": "inservice",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-004",
-   "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "3",
+      "training": "inservice",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-006;LBR-003",
+      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "The government's Liberia Digital Transformation Project trained 10,000 young Liberians in digital skills by March 2026, a programme in service and counted. No survey share has been found, so not stage 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

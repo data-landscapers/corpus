@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BDI-001;BDI-002",
-      "gaps": "No source found since October 2023 says: is one in service and counted.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
+      "note": "The digital economy ministry launched a third phase of coding camps for 102 girls in September 2025, and the PAFEN project of 2024 includes public digital skills. No count of a national programme's trainees has been found, so not stage 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }

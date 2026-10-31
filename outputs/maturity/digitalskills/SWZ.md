@@ -2,12 +2,12 @@
 
 ## Digital skills of the public
 
-**Training for the public.** [More than 100 participants completed computer literacy, Microsoft Office and AI training in the Macetjeni iHub pilot phase before the official launch](<https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/>). [The hub enrolled a first cohort of 15 in a basic computer skills programme in June 2026 and completed the two-month course by end of July, per its manager](<https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities>). [The Government of Eswatini and UNDP launched the Macetjeni iHub on 6 August 2026, a centre offering digital skills training to young people, women, small business owners and persons with disabilities](<https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities>). [The ICT ministry told a summit in Seoul in October 2026 that Eswatini is pursuing digital skills training for 500,000 people: 300,000 through a partnership with the United Arab Emirates and 200,000 through a World Bank-supported initiative](<https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/>).
+**Training for the public.** [In July 2026 the ICT minister said Coders Eswatini aims to train 300,000 people](<https://times.co.sz/39456/news/eswatini-launches-africas-first-womens-digital-academy/>). It is run with the United Arab Emirates. [In October 2026 the ICT ministry said it is pursuing training for 500,000 people](<https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/>). [The government and UNDP opened the Macetjeni iHub on 6 August 2026](<https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities>). [Over 100 people completed its pilot courses](<https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/>).
 
-**Share measured.** No source found since October 2023 gives a measured share of people with basic digital skills. The nearest held fact: [the one given above](<https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/>).
+**Share measured.** No survey since October 2023 has been found that gives the share of people with basic digital skills. The nearest fact found is [the Macetjeni iHub pilot of 2026](<https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/>).
 
-**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/>).
+**Half or more.** No survey since October 2023 has been found that gives the share of adults with basic digital skills, so none shows half or more. The nearest fact found is [the Macetjeni iHub pilot of 2026](<https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 gives a measured share of people with basic digital skills.
+***Not found***. No national count of people trained has been found; the counts found are of one hub. No survey share of people with basic digital skills has been found.

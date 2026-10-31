@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "2",
-   "training": "underway",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-002;MDG-003",
-   "gaps": "No source found since October 2023 says: is one in service and counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "2",
+      "training": "underway",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-003;MDG-002",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
+      "note": "The technical education ministry and the OIF launched a D-CLIC phase in January 2026 to train 1,000 young people, within a target of 40,000 by 2028. No count of people trained has been found, so not stage 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

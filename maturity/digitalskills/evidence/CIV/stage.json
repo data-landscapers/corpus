@@ -9,10 +9,10 @@
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-001;CIV-002",
-      "gaps": "No source found since October 2023 says: is one in service and counted.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "CIV-001;CIV-003",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
+      "note": "The digital ministry set out digital-training investments in the 2026-2030 national plan, and an IDA loan of October 2025 funds digital skills for young people and women. No count of people trained has been found, so not stage 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GHA-009;GHA-007",
       "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "note": "The government's One Million Coders Programme recorded more than 12,000 course completions by August 2026, a national programme in service and counted. No survey share has been found, so not stage 4.",
+      "as_at": "2026-10-31"
     }
   ]
 }

@@ -9,10 +9,10 @@
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COG-001",
-      "gaps": "No source found since October 2023 says: is one in service and counted.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "COG-003",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
+      "note": "The Prime Minister's representative launched the EU part of the digital transformation project, which aims to develop the population's digital skills, in June 2025. No count of people trained has been found, so not stage 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }

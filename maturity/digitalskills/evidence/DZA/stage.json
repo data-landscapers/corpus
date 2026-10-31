@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "2",
-   "training": "underway",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-001",
-   "gaps": "No source found since October 2023 says: is one in service and counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "2",
+      "training": "underway",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-001",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
+      "note": "The vocational training ministry launched a national 12-week AI training programme in April 2026, a programme under way. No count of people trained has been found, so not stage 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

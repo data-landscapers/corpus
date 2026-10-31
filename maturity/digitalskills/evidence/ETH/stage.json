@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "3",
-   "training": "inservice",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-004",
-   "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "3",
+      "training": "inservice",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-004",
+      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "The Ministry of Education's nationwide digital-literacy certification had trained about 200,000 students, 12,000 staff and 3,000 community members by June 2025, a government programme in service and counted. No survey share has been found, so not stage 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "3",
-   "training": "inservice",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-002",
-   "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "2",
+      "training": "underway",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-001;MRT-003",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people. The 5,000 trained is Simplon's count from its partnership with the French embassy.",
+      "note": "The vocational training minister launched a France-funded digital-employability project for 2,150 young people in July 2026, a programme under way. The only count, nearly 5,000, is Simplon's from its partnership with the French embassy, with no government programme named, so not stage 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

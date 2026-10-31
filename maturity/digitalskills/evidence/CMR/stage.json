@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "2",
-   "training": "underway",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001",
-   "gaps": "No source found since October 2023 says: is one in service and counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "unplaced",
+      "training": "",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one row held is UNESCO's project for several countries, with no government named, so it does not show a government programme.",
+      "note": "The only row is a UNESCO project on digital skills with a 35 per cent allocation to the country, and no government is named in it. A government programme is not shown, so no stage is set.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

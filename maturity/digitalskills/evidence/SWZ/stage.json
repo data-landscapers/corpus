@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "3",
-   "training": "inservice",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-003;SWZ-007",
-   "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "2",
+      "training": "underway",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-008;SWZ-006",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people. The counts held are of one hub, the Macetjeni iHub.",
+      "note": "The ICT minister said in July 2026 that Coders Eswatini aims to train 300,000 people, and the government and UNDP opened the Macetjeni iHub in August 2026, programmes under way. The only counts are of that one hub, which does not show a national programme counted, so not stage 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

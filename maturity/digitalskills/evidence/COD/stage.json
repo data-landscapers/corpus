@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "3",
-   "training": "inservice",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "unplaced",
+      "training": "",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The rows held are Femintech's own training with Unicef and a UNESCO project, and neither names the government.",
+      "note": "Femintech, with Unicef, has trained about a thousand girls since 2017, and a UNESCO project allocates 20 per cent to the country; neither names the government. A government programme is not shown, so no stage is set.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SEN-002",
       "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "note": "The FORCE-N programme of the public Université numérique Cheikh Hamidou Kane had trained more than 100,000 young people across the 14 regions by June 2026, a programme in service and counted. No survey share has been found, so not stage 4.",
+      "as_at": "2026-10-31"
     }
   ]
 }

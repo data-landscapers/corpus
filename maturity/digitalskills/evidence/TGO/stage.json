@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "3",
-   "training": "inservice",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-002",
-   "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "3",
+      "training": "inservice",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-006;TGO-002",
+      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "The government's Togo Data Lab had trained 993 people by February 2026, and 244 young people were certified under D-CLIC in four cities in April 2025. No survey share has been found, so not stage 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

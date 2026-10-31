@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "2",
-      "training": "underway",
+      "stage": "1",
+      "training": "none",
       "measured": "",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "STP-003",
-      "gaps": "No source found since October 2023 says: is one in service and counted.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "STP-002",
+      "gaps": "No source found since October 2023 shows a national programme teaching the public digital skills. The one project found, for Principe island, covers one region.",
+      "note": "The regulator AGER found in November 2025 that the digital policy holds no specific action on digital literacy, and listed a national programme only as a recommendation. The Principe project covers one island and the 2016 centre is outside the window, so neither sets stage 2.",
+      "as_at": "2026-10-31"
     }
   ]
 }

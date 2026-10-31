@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "EGY-003;EGY-004",
       "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "note": "The communications ministry's Digital Egypt Generations initiatives had trained about 277,000 people by the end of 2025, a government programme in service and counted. No survey share of adults with digital skills has been found, so not stage 4.",
+      "as_at": "2026-10-31"
     }
   ]
 }

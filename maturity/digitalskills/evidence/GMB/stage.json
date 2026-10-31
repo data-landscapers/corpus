@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GMB-001;GMB-003",
-      "gaps": "No source found since October 2023 says: is one in service and counted.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
+      "note": "The trade ministry signed agreements in September 2026 for a three-year WARDIP digital-skills programme for thousands of Gambians. No count of people trained has been found, so not stage 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }

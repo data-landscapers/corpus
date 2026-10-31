@@ -1,17 +1,18 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "2",
-   "training": "underway",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNB-002;GNB-001",
-   "gaps": "No source found since October 2023 says: is one in service and counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "2",
+      "training": "underway",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-002;GNB-003",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
+      "note": "The Council of Ministers approved a draft decree on a National Digital Skills Policy to train citizens in 2026, a programme in preparation. No count of people trained by a national programme has been found, so not stage 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

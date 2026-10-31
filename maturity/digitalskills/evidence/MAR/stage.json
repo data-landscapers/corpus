@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "3",
-   "training": "inservice",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-003",
-   "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "3",
+      "training": "inservice",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-003;MAR-005",
+      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "The digital transition ministry's JobIntech programme had trained 1,000 people by August 2024, and youth-centre workshops had reached over 740 children by January 2026. No survey share has been found, so not stage 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

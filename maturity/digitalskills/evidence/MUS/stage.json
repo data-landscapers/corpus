@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "4",
-   "training": "inservice",
-   "measured": "measured",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-001;MUS-002",
-   "gaps": "No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "4",
+      "training": "inservice",
+      "measured": "measured",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001;MUS-002",
+      "gaps": "The 62.2 per cent is of persons aged 5 and over able to use a computer; no source found gives the share of adults with basic digital skills.",
+      "note": "The digital promotion agency's 2024 household indicators give 62.2 per cent of persons aged 5 and over able to use a computer, a measured share. It is not a share of adults with basic digital skills, so not stage 5.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

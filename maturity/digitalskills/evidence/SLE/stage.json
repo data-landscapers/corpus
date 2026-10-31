@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "4",
-   "training": "inservice",
-   "measured": "measured",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-002",
-   "gaps": "No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "4",
+      "training": "inservice",
+      "measured": "measured",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-002",
+      "gaps": "No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.",
+      "note": "UNCDF's 2025 national baseline survey measured adult digital literacy, with 25 per cent of adults able to save or delete phone contacts. That is under half, so not stage 5.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

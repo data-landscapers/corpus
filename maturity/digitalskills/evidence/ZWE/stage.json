@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ZWE-001",
       "gaps": "No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "note": "The 2025 ZIMSTAT and POTRAZ household survey found 43.7 per cent of Zimbabweans with basic digital skills, a measured share. That is under half, so not stage 5.",
+      "as_at": "2026-10-31"
     }
   ]
 }

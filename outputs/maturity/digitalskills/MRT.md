@@ -2,12 +2,12 @@
 
 ## Digital skills of the public
 
-**Training for the public.** [Simplon Mauritania's country director says over three years of partnership with the French embassy strengthened basic digital skills for nearly 5,000 beneficiaries](<https://www.ami.mr/archives/264918>). [Mauritania's vocational training minister launched the France-funded, Simplon-implemented project to support youth employability in digital, training 2,150 beneficiaries in six cities](<https://www.ami.mr/archives/264918>). [In November 2024 the digital ministry said it was preparing a public campaign on the safe and responsible use of digital tools](<https://mtnima.gov.mr/fr/education-numerique-lancement-prochain-dune-campagne-de-sensibilisation/>).
+**Training for the public.** [In July 2026 the vocational training minister launched a digital-skills project for 2,150 young people](<https://www.ami.mr/archives/264918>). France funds it and Simplon runs it, in six cities. [Simplon said its earlier work with the French embassy gave basic digital skills to nearly 5,000 people](<https://www.ami.mr/archives/264918>). [In November 2024 the digital ministry said it was preparing a public campaign on safe use of digital tools](<https://mtnima.gov.mr/fr/education-numerique-lancement-prochain-dune-campagne-de-sensibilisation/>).
 
-**Share measured.** No source found since October 2023 gives a measured share of people with basic digital skills. The nearest held fact: [the one given above](<https://www.ami.mr/archives/264918>).
+**Share measured.** No survey since October 2023 has been found that gives the share of people with basic digital skills. The nearest fact found is [the July 2026 project launch](<https://www.ami.mr/archives/264918>).
 
-**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://www.ami.mr/archives/264918>).
+**Half or more.** No survey since October 2023 has been found that gives the share of adults with basic digital skills, so none shows half or more. The nearest fact found is [the July 2026 project launch](<https://www.ami.mr/archives/264918>).
 
 ***Also on file***. [Temekoun](<https://mtnima.gov.mr/fr/atelier-de-presentation-de-la-plateforme-nationale-tamekoun-pour-la-formation-sur-les-competences-numeriques-essentielles/>).
 
-***Not found***. No source found since October 2023 gives a measured share of people with basic digital skills.
+***Not found***. No count of people trained by a government programme has been found; the 5,000 is Simplon's count from its partnership with the French embassy. No survey share of people with basic digital skills has been found.

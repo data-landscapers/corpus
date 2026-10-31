@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "3",
-   "training": "inservice",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-003",
-   "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "2",
+      "training": "underway",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-002;NER-004",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people. The 300 trained in 2025 are counted by Niger Digital Day, a founders' caravan under a minister's patronage.",
+      "note": "Niger Digital Day's 2026 tour, under the communications minister's patronage, trains young people in all eight regions, a programme under way with government backing. Its count of 300 trained in 2025 is the founders' caravan, not a government programme, so not stage 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

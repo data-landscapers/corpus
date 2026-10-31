@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "no evidence",
-   "training": "",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether the public is taught digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "no evidence",
+      "training": "",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says whether the public is taught digital skills.",
+      "note": "No row on digital skills of the public is held for the country, so no stage is set.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

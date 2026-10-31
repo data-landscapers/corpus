@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "4",
-   "training": "inservice",
-   "measured": "measured",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001",
-   "gaps": "No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "4",
+      "training": "inservice",
+      "measured": "measured",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-001",
+      "gaps": "No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.",
+      "note": "The 2023 household survey by the regulator and the Bureau of Statistics found 35.1 per cent of individuals with ICT skills, a measured share. That is under half, so not stage 5.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

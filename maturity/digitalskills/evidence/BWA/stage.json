@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BWA-002",
-      "gaps": "No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The 2024 survey's 59.2 per cent is of individuals; no source found gives the share of adults with basic digital skills.",
+      "note": "Statistics Botswana's 2024 ICT household survey found 59.2 per cent of individuals with e-skills, a measured share. The figure is of individuals, not adults, and does not separate basic skills, so not stage 5.",
+      "as_at": "2026-10-31"
     }
   ]
 }

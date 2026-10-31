@@ -9,10 +9,10 @@
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-007;ZAF-004",
+      "stage_sources": "ZAF-007",
       "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-17"
+      "note": "The Collective X, which coordinates the National Digital Skills Plan, reported 4,000 beneficiaries across all nine provinces in October 2026, a national programme in service and counted. No survey share has been found, so not stage 4.",
+      "as_at": "2026-10-31"
     }
   ]
 }

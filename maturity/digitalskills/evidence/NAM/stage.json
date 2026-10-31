@@ -9,10 +9,10 @@
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-001;NAM-002",
-      "gaps": "No source found since October 2023 says: is one in service and counted.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NAM-004;NAM-003",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
+      "note": "The national development plan of August 2025 includes digital training programmes, and the ICT minister cited Project 1000 for young people in October 2026. No count of people trained has been found, so not stage 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }
