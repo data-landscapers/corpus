@@ -67,7 +67,7 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 - [x] **D1. Read**, 2026-10-16: Sonnet drafters, self-contained calls; corrections in `corrections.csv`.
 - [x] **D2. Staged** as at 2026-09-30: 16 at 4, 10 at 3, 10 at 2; unplaced 9, no evidence 9. Every cell is a first pass; no second drafter.
 - [x] **D3. Written, rendered and linted**; on the soft-launch map. Reported to Bill.
-- [x] **D4. Second drafter**, 2026-10-31, after the rebuild (housekeeping 46): 20 of 44 staged cells drawn, restaged from `evidence.csv` with no stage open; the drafter had read the long summaries that day while rewriting them. 20 of 20 agree; `agreement.csv`.
+- [x] **D4. Second drafter**, 2026-10-31, after the rebuild (housekeeping 46): 20 of 44 staged cells drawn, restaged blind from `evidence.csv` and `study.json` alone by a drafter who had read no page (the first restage, by the drafter who had just rewritten the pages, was not blind and is replaced). 17 of 20 agree; `agreement.csv`. The three splits stand at the first stage: SEN 2 against 3, SEN-001's 2021 instruction is outside the window and cites no instrument; SLE 2 against 4, SLE-002 shows the data centre but no state system hosted in it; TUN 2 against 3, TUN-001 binds credit bureaux' data, not state data.
 
 **Decided in the run**: Removed at the top-stage check: BWA-003, the data centre's owner is not stated; EGY-002, a plan for an AI model to run in Egypt, not state data hosted; MAR-003, an AI marketplace, not state data or a core system hosted; MLI-001, what the data centre will host, not what it hosts; MOZ-002, a university's data centre, not a core government system.
 
