@@ -1,32 +1,21 @@
 {
  "slug": "2026-04-11-dz-aps-plateforme-suivi-distance-dossiers-medicaux",
  "studies": {
-  "health": {
+  "healthmis": {
    "countries": {
     "DZA": {
-     "facts": [
-      {
-       "sub_indicator": "emr",
-       "aspect": "last12",
-       "value": "advancing",
-       "fact": "Algeria's Health Minister said on 11 April 2026 that a digital platform for remote monitoring of patients' medical records was 'recently set up' to speed information exchange between health structures nationwide; no coverage figure or facilities are given.",
-       "as_of": "2026-04-11",
-       "date_precision": "day",
-       "system": "plateforme numérique de suivi à distance des dossiers médicaux des patients",
-       "class": "emr"
-      }
-     ],
+     "facts": [],
      "systems": [
       {
-       "system": "plateforme numérique de suivi à distance des dossiers médicaux des patients",
-       "country_label": "Remote patient-record monitoring platform",
-       "class": "emr",
+       "system": "Plateforme numerique de suivi a distance des dossiers medicaux",
+       "country_label": "Algeria",
+       "class": "other",
        "platform": "",
-       "owner": "ministry",
+       "owner": "Ministry of Health",
        "tiers": ""
       }
      ],
-     "note": ""
+     "note": "Patient-record monitoring platform, not stated to carry routine facility reporting to the ministry."
     }
    }
   }

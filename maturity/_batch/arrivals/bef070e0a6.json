@@ -1,0 +1,155 @@
+{
+ "slug": "2026-10-28-vanguardngr-nigeria-integral-to-50trn-ai-value-chain-needs-dedicated-minister",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Vanguard reports an NIIA lecture speaker acknowledging Nigeria's National AI Strategy 2025, which aims to train 70 percent of the workforce aged 16-35 and develop the M-Atlas language model.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National AI Strategy 2025",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National AI Strategy 2025",
+       "country_label": "Nigeria",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Vanguard reports speaker Femi Ojumu acknowledging Nigeria's Cybercrimes Act 2015 as amended in 2024, saying implementation remains weak.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Cybercrimes Act 2015 (amended 2024)",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Vanguard reports speaker Femi Ojumu acknowledging Nigeria's Data Protection Act 2023, saying implementation remains weak.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Data Protection Act 2023",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "ictproduction": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

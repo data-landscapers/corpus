@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-30-mus-lexpress-protection-des-donnees-23-000-entreprises-enregistrees-sur-60-000",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Citizen Data Hub",
+   "country_label": "MUS",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": "Citizen Data Hub for KYC is only intended as a reference; no service in use or being built is stated."
+}

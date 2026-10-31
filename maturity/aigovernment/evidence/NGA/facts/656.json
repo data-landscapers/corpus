@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-29-inside-nigeria-s-7-5m-gates-backed-ai-scaling-hub",
+ "facts": [],
+ "systems": [
+  {
+   "system": "VoiceAgent",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "conversational voice platform",
+   "owner": "Data Science Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "VoiceAgent is offered to agencies; no government body is said to use it."
+}

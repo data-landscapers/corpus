@@ -1,0 +1,171 @@
+{
+ "slug": "2026-10-30-sen-le-senegal-se-dote-d-un-hub-pour-transformer-les-projets-d-ia-en-appli",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Senegal told the ITU in August 2026 of SENEGAL-AI, a language-model architecture being developed by the LITA laboratory of ESP, Cheikh Anta Diop University, resting on the CINERI Taouey supercomputer.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "SENEGAL-AI",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SENEGAL-AI",
+       "country_label": "Senegal",
+       "class": "localai",
+       "platform": "CINERI Taouey supercomputer",
+       "owner": "LITA, ESP, UCAD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Senegal and the Gates Foundation launched the Senegal AI Scaling Hub in Dakar on 29 October 2026 to bring together researchers, startups, firms and students; no programme or cohort is stated.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Senegal AI Scaling Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Senegal AI Scaling Hub",
+       "country_label": "Senegal",
+       "class": "hub",
+       "platform": "",
+       "owner": "Senegal and Gates Foundation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

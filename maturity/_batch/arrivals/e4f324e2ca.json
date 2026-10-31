@@ -1,32 +1,21 @@
 {
  "slug": "2026-10-29-ago-pti-homologacao-diplomas-codigo-qr-inaarees",
  "studies": {
-  "egovservices": {
+  "educationexchange": {
    "countries": {
     "AGO": {
-     "facts": [
-      {
-       "sub_indicator": "eservices",
-       "aspect": "services",
-       "value": "underway",
-       "fact": "The article says requests for homologation of higher-education studies currently go through the Portal dos Serviços Públicos Electronicos (SEPE), and that this stays for three years while a new QR-code procedure approved by the Council of Ministers on 27 October 2026 begins.",
-       "as_of": "2026-10-27",
-       "date_precision": "day",
-       "system": "Portal dos Serviços Públicos Electrónicos (SEPE)",
-       "class": "eservices"
-      }
-     ],
+     "facts": [],
      "systems": [
       {
-       "system": "Portal dos Serviços Públicos Electrónicos (SEPE)",
+       "system": "INAAREES diploma verification (QR code)",
        "country_label": "Angola",
-       "class": "eservices",
-       "platform": "portal",
-       "owner": "",
+       "class": "exchange",
+       "platform": "",
+       "owner": "INAAREES",
        "tiers": ""
       }
      ],
-     "note": ""
+     "note": "A decree only assessed by the Council of Ministers; no link between education systems is stated as contracted, built or in service."
     }
    }
   }

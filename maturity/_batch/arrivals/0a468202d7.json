@@ -1,39 +1,21 @@
 {
  "slug": "2026-03-04-gin-judicalex-ministre-visite-tribunal-commerce",
  "studies": {
-  "health": {
+  "schools": {
    "countries": {
     "GIN": {
      "facts": [],
      "systems": [],
-     "note": "Court digitisation article; no health system stated."
+     "note": "Commercial court digitisation; nothing on school records or tax filing."
     }
    }
   },
-  "healthexchange": {
+  "taxadmin": {
    "countries": {
     "GIN": {
      "facts": [],
      "systems": [],
-     "note": "Court digitisation article; no health system stated."
-    }
-   }
-  },
-  "healthmis": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "Court digitisation article; no health system stated."
-    }
-   }
-  },
-  "police": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "Court digitisation article; no police station records stated."
+     "note": "Commercial court digitisation; nothing on school records or tax filing."
     }
    }
   }

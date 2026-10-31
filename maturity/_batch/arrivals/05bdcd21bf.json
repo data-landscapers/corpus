@@ -1,12 +1,32 @@
 {
  "slug": "2026-10-27-som-dowladda-soomaaliya-oo-ansixinaysa-qaab-dhismeedka-qaranka-ee-isku-duw",
  "studies": {
-  "publicconsultation": {
+  "interoperability": {
    "countries": {
     "SOM": {
-     "facts": [],
-     "systems": [],
-     "note": "Validation workshop of federal government ICT officials only; no one outside government named."
+     "facts": [
+      {
+       "sub_indicator": "framework",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Somalia's Office of the Prime Minister and Ministry of Communications and Technology held a national workshop on 27 October 2026 to validate the National Digital Coordination Framework for federal government digital systems.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "National Digital Coordination Framework (NDCF)",
+       "class": "framework"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Digital Coordination Framework (NDCF)",
+       "country_label": "Somalia",
+       "class": "framework",
+       "platform": "",
+       "owner": "Office of the Prime Minister; Ministry of Communications and Technology",
+       "tiers": ""
+      }
+     ],
+     "note": ""
     }
    }
   }

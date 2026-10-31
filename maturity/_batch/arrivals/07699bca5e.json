@@ -1,21 +1,12 @@
 {
  "slug": "2025-10-18-dz-aps-dossier-electronique-patient",
  "studies": {
-  "health": {
+  "healthmis": {
    "countries": {
     "DZA": {
      "facts": [],
-     "systems": [
-      {
-       "system": "dossier \u00e9lectronique du patient",
-       "country_label": "Algeria",
-       "class": "emr",
-       "platform": "",
-       "owner": "Ministry of Health",
-       "tiers": ""
-      }
-     ],
-     "note": "The ministry names the electronic patient record an objective for end-2025; no dated act, tier or clinic coverage is stated."
+     "systems": [],
+     "note": "A ministerial goal for an electronic patient record; a pledge, not a system under way or in service."
     }
    }
   }

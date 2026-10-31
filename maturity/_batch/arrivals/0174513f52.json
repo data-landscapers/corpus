@@ -1,0 +1,237 @@
+{
+ "slug": "2025-09-10-xss-chainalysis-sub-saharan-africa-crypto-adoption-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers crypto on-chain value only; states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

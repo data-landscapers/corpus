@@ -1,10 +1,14 @@
-{"slug": "2026-10-29-ghanas-communications-minister-confirmed-as-chair-of-au-committee-on-commun", "studies": {
-"aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on AI harms rules for Gabon."}, "GHA": {"facts": [], "systems": [], "note": "AI is named only as an area for coordinated action; no rule stated."}}},
-"aigovernment": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated."}, "GHA": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
-"aisectoral": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated."}, "GHA": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
-"aisystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated."}, "GHA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
-"digitalskills": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated."}, "GHA": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Tech Review Africa reports minister Samuel Nartey George citing Ghana's One Million Coders Programme as an example of what young people can achieve, with no number trained given.", "as_of": "2026-10-29", "date_precision": "day", "system": "One Million Coders Programme", "class": "publicskills"}], "systems": [{"system": "One Million Coders Programme", "country_label": "Ghana", "class": "publicskills", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
-"regionalpolicy": {"countries": {
-"GAB": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Tech Review Africa reports that the 6th Ordinary Session of the African Union Specialised Technical Committee on Communication and ICT was held in Libreville, Gabon.", "as_of": "2026-10-29", "date_precision": "day", "system": "AU Specialised Technical Committee on Communication and ICT (STC-ICT)", "class": "cooperation"}], "systems": [{"system": "AU Specialised Technical Committee on Communication and ICT (STC-ICT)", "country_label": "Gabon", "class": "cooperation", "platform": "", "owner": "African Union", "tiers": ""}], "note": ""},
-"GHA": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Tech Review Africa reports that Ghana's communications minister Samuel Nartey George was confirmed as Chair of the African Union STC-ICT at its 6th Ordinary Session in Libreville.", "as_of": "2026-10-29", "date_precision": "day", "system": "AU Specialised Technical Committee on Communication and ICT (STC-ICT)", "class": "cooperation"}], "systems": [{"system": "AU Specialised Technical Committee on Communication and ICT (STC-ICT)", "country_label": "Ghana", "class": "cooperation", "platform": "", "owner": "African Union", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-10-29-ghanas-communications-minister-confirmed-as-chair-of-au-committee-on-commun",
+ "studies": {
+  "regionallaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Chairmanship of an AU committee; no signature, ratification or national law on a shared text."
+    }
+   }
+  }
+ }
+}

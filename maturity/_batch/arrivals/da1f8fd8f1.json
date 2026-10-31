@@ -1,0 +1,187 @@
+{
+ "slug": "2026-10-29-tgo-jnpdp-2026-ipdcp-souverainete-numerique",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The IPDCP states that law no. 2019-014 on personal data protection, promulgated on 29 October 2019, is the legal framework for data protection in Togo.",
+       "as_of": "2019-10-29",
+       "date_precision": "day",
+       "system": "Loi n° 2019-014",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The IPDCP, headed by its president Colonel Bédiani Belei, held Togo's first national data protection day in Lomé.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "IPDCP",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Loi n° 2019-014",
+       "country_label": "Togo",
+       "class": "general",
+       "platform": "",
+       "owner": "Togo",
+       "tiers": ""
+      },
+      {
+       "system": "IPDCP",
+       "country_label": "Togo",
+       "class": "authority",
+       "platform": "",
+       "owner": "IPDCP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  }
+ }
+}

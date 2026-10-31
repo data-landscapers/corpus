@@ -1,100 +1,23 @@
 {
  "slug": "2025-01-27-mar-madar21-courts-153-data-protection-cases-2024",
  "studies": {
-  "consumerprotection": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Consumer protection law is named only in a list of laws; no digital finance rules stated."
-    }
-   }
-  },
-  "dataprotectionauthority": {
+  "dataprotectionreadiness": {
    "countries": {
     "MAR": {
      "facts": [
       {
-       "sub_indicator": "body",
-       "aspect": "standing",
-       "value": "constituted",
-       "fact": "The national commission for control of personal data protection (CNDP) organised a Data Protection Week from 27 to 31 January 2025.",
-       "as_of": "2025-01-27",
-       "date_precision": "day",
-       "system": "CNDP",
-       "class": "authority"
-      }
-     ],
-     "systems": [],
-     "note": "Only courts' rulings are reported, not the authority's."
-    }
-   }
-  },
-  "dataprotectionlaw": {
-   "countries": {
-    "MAR": {
-     "facts": [
-      {
-       "sub_indicator": "general",
-       "aspect": "standing",
+       "sub_indicator": "system",
+       "aspect": "law",
        "value": "in-force",
-       "fact": "Law 08-09 on protection of persons regarding personal data processing is named as the main law, marking 15 years since its implementation.",
+       "fact": "Madar21 reports the CNDP marked the 15th anniversary of the implementation of Law 08-09 on personal data protection, with Moroccan courts handling 153 cases under it in 2024.",
        "as_of": "2025-01-27",
        "date_precision": "day",
        "system": "Law 08-09",
-       "class": "general"
-      },
-      {
-       "sub_indicator": "general",
-       "aspect": "authority",
-       "value": "constituted",
-       "fact": "The CNDP organised a Data Protection Week from 27 to 31 January 2025.",
-       "as_of": "2025-01-27",
-       "date_precision": "day",
-       "system": "CNDP",
-       "class": "general"
-      },
-      {
-       "sub_indicator": "general",
-       "aspect": "application",
-       "value": "reported",
-       "fact": "The Supreme Council of the Judicial Power said courts handled 153 personal data cases in 2024, 109 of them in criminal courts with 80 decided.",
-       "as_of": "2024",
-       "date_precision": "year",
-       "system": "Law 08-09",
-       "class": "general"
-      },
-      {
-       "sub_indicator": "general",
-       "aspect": "application",
-       "value": "applied",
-       "fact": "The Nador first instance court convicted a person in 2024 for placing a complainant's photo and name on a student group statement without consent.",
-       "as_of": "2024",
-       "date_precision": "year",
-       "system": "Law 08-09",
-       "class": "general"
+       "class": "system"
       }
      ],
      "systems": [],
      "note": ""
-    }
-   }
-  },
-  "interoperabilitylaw": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on public bodies sharing data."
-    }
-   }
-  },
-  "police": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on police station records."
     }
    }
   }

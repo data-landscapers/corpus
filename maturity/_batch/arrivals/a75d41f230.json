@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-07-guinee-des-reseaux-sociaux-coupes-alors-que-mamadi-doumbouya-est-a-letranger",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "About a social-media block; no backbone stated."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "About a social-media block; no international route stated."
+    }
+   }
+  }
+ }
+}

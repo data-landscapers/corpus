@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-03-syc-travizory-commission-of-inquiry-opens",
+ "studies": {
+  "digitalsovereignty": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Travizory",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "",
+       "owner": "Department of Immigration and Civil Status",
+       "tiers": ""
+      }
+     ],
+     "note": "Inquiry into a border contract; no data terms or state data control stated."
+    }
+   }
+  }
+ }
+}

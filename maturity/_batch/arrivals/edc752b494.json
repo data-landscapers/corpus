@@ -1,0 +1,10 @@
+{"slug": "2026-10-30-gambia-eco-papss-finance-minister", "studies": {
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not mention e-procurement."}}},
+"centralbank": {"countries": {"GMB": {"facts": [{"sub_indicator": "centralbank", "aspect": "regional", "value": "joined", "fact": "Finance Minister Seedy Keita told the National Assembly that the Central Bank of The Gambia has formally committed to implementing PAPSS and is working to integrate the country's payment systems with it, and that The Gambia took part in the early stages of PAPSS implementation.", "as_of": "2026-10-28", "date_precision": "day", "system": "PAPSS", "class": "oversight"}], "systems": [{"system": "PAPSS", "country_label": "The Gambia", "class": "oversight", "platform": "Afreximbank", "owner": "Afreximbank", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not mention consumer protection."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "PAPSS integration is stated as a commitment in progress, not a corridor or system in service."}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not mention government payments to people."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not mention retail or mobile money payments."}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

@@ -1,0 +1,224 @@
+{
+ "slug": "2026-10-30-mus-lexpress-protection-des-donnees-23-000-entreprises-enregistrees-sur-60-000",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "A Cybersecurity Agency is only envisaged and critical-infrastructure audits are only planned; no body created or sector designated."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Citizen Data Hub",
+       "country_label": "MUS",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Mauritius",
+       "tiers": ""
+      }
+     ],
+     "note": "Citizen Data Hub for KYC is only intended as a reference; no service in use or being built is stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The government plans to review the existing Cybersecurity and Cybercrime Act 2021, according to the L'Express report of the minister's announcements.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Cybersecurity and Cybercrime Act 2021",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Data Protection Commissioner, Drudeisha Madhub, and the Data Protection Office took part in launching the financial-sector guide, and her office is to run DPO training.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Data Protection Office",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Guide helps financial institutions meet obligations under the Data Protection Act 2017, which requires entities to register as controllers, processors or collectors.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Data Protection Act 2017",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Data Protection Commissioner, Drudeisha Madhub, attended the launch and her office will run DPO training.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Data Protection Office",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "Minister Avinash Ramtohul said on 29 October 2026 that only 23,000 of some 60,000 entities required to register under the Data Protection Act 2017 had done so.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Data Protection Act 2017",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The guide concerns obligations under the Data Protection Act 2017, with registration required of some 60,000 entities.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Data Protection Act 2017",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The Data Protection Commissioner, Drudeisha Madhub, and the Data Protection Office are named as running registration and DPO training.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Data Protection Office",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "Minister Avinash Ramtohul said on 29 October 2026 that only 23,000 of some 60,000 entities required to register under the Data Protection Act 2017 had done so.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "Data Protection Office",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

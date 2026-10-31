@@ -1,0 +1,68 @@
+{
+ "slug": "2026-10-30-thales-cyshield-join-forces-on-egypt-s-biometric-border-and-passport-p",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers border e-gates and e-passport issuance MoU; states nothing on the national ID system, so no fact for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers border e-gates and e-passport issuance MoU; states nothing on the national ID system, so no fact for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers border e-gates and e-passport issuance MoU; states nothing on the national ID system, so no fact for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers border e-gates and e-passport issuance MoU; states nothing on the national ID system, so no fact for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers border e-gates and e-passport issuance MoU; states nothing on the national ID system, so no fact for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers border e-gates and e-passport issuance MoU; states nothing on the national ID system, so no fact for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers border e-gates and e-passport issuance MoU; states nothing on the national ID system, so no fact for this study."
+    }
+   }
+  }
+ }
+}

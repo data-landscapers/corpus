@@ -1,0 +1,7 @@
+{"slug": "2026-10-30-ai-exacerbates-election-disinformation-say-experts", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "IEC partnership with Google, Meta, Microsoft, TikTok and Moxii Africa on election disinformation", "country_label": "South Africa", "class": "other", "platform": "", "owner": "Electoral Commission (IEC)", "tiers": ""}], "note": "Describes AI election disinformation and a voluntary IEC-platform partnership; no rule, designated authority or enforcement action on AI harms is stated."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government body's use of AI in its own work or services is stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
+"localgov": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Article concerns municipal election disinformation; nothing on local government office connection."}}}
+}}

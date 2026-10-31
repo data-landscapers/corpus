@@ -1,7 +1,35 @@
-{"slug": "2025-10-10-gab-apdpvp-mission-de-controle-port-gentil", "studies": {
-"dataprotectionlaw": {"countries": {"GAB": {"facts": [
-{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The APDPVP's own release says its September 2025 inspections were carried out under law no. 025/2023 of 12 July 2023 on personal data protection, citing its articles 201 and 78.", "as_of": "2025-09", "date_precision": "month", "system": "Law no. 025/2023 of 12 July 2023", "class": "general"},
-{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The APDPVP says in its release that its sworn agents carried out compliance inspections on 12 to 18 September 2025 in Port-Gentil.", "as_of": "2025-09", "date_precision": "month", "system": "Autorite pour la Protection des Donnees Personnelles et de la Vie Privee (APDPVP)", "class": "general"},
-{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The APDPVP says its agents checked ten oil firms in Port-Gentil from 12 to 18 September 2025 and found they run processing without the declarations the law requires, with no sanction mentioned.", "as_of": "2025-09", "date_precision": "month", "system": "Autorite pour la Protection des Donnees Personnelles et de la Vie Privee (APDPVP)", "class": "general"}
-], "systems": [{"system": "Autorite pour la Protection des Donnees Personnelles et de la Vie Privee (APDPVP)", "country_label": "Gabon", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2025-10-10-gab-apdpvp-mission-de-controle-port-gentil",
+ "studies": {
+  "dataprotectionreadiness": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The APDPVP says it inspected companies under law no. 025/2023 of 12 July 2023 on personal data protection, citing its articles 78 and 201.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Law 025/2023",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "The APDPVP says it carried out compliance inspection missions on 12-18 September 2025 at ten oil companies in Port-Gentil, finding many processed data without the required declarations.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "APDPVP",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

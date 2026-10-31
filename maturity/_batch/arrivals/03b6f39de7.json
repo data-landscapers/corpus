@@ -1,13 +1,13 @@
 {
  "slug": "2025-12-11-aps-plateforme-transferts-patients",
  "studies": {
-  "health": {
+  "healthmis": {
    "countries": {
     "DZA": {
      "facts": [],
      "systems": [
       {
-       "system": "patient transfer platform",
+       "system": "Plateforme numerique de transfert des patients",
        "country_label": "Algeria",
        "class": "other",
        "platform": "",
@@ -15,7 +15,7 @@
        "tiers": ""
       }
      ],
-     "note": "A forthcoming patient-transfer platform is neither HMIS nor EMR."
+     "note": "Announces a coming patient-transfer platform; not routine national health reporting."
     }
    }
   }

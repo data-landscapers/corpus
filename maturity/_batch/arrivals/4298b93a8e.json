@@ -1,1 +1,14 @@
-{"slug": "2025-12-09-gmb-fao-gambia-geolab-geo-for-good", "studies": {"agrisatellite": {"countries": {"GMB": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "FAO says the Gambia GeoLab, a national geospatial platform on Google Earth Engine developed under the ROOTS project, translates satellite data into indicators for monitoring land cover, rice production, mangroves and forests.", "as_of": "2025-09", "date_precision": "month", "system": "Gambia GeoLab", "class": "agrisat"}], "systems": [{"system": "Gambia GeoLab", "country_label": "Gambia", "class": "agrisat", "platform": "Google Earth Engine", "owner": "FAO, ROOTS project", "tiers": ""}], "note": ""}}}, "aiabuse": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority on AI harms."}}}, "aigovernment": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document names no AI system in government administration."}}}, "aisectoral": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document names no AI model in a public sector system for Gambia."}}}, "aisystems": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document names no AI model, dataset or AI computing built in Gambia."}}}}}
+{
+ "slug": "2025-12-09-gmb-fao-gambia-geolab-geo-for-good",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a geospatial platform for agriculture, not the national weather service."
+    }
+   }
+  }
+ }
+}

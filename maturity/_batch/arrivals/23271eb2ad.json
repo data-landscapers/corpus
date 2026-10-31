@@ -1,0 +1,10 @@
+{"slug": "2026-10-29-tgo-togo-ai-lab-studies-european-best-practices-to-strengthen-public-servi", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "A study mission to Europe; no rule, authority or enforcement on AI harms is stated."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [{"system": "Togo AI Lab", "country_label": "Togo", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "A study mission; no government AI system in use, tested or ruled on is stated."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No sectoral AI tool is mentioned."}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No Togolese AI model, dataset or computing is stated as built; the visits were to European sites."}}},
+"dataprotectionlaw": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The delegation met the European Data Protection Supervisor; nothing is stated on Togo's law."}}},
+"policyresearch": {"countries": {"TGO": {"facts": [], "systems": [], "note": "A delegation's study mission; no research publication or policy input is stated."}}},
+"startups": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated."}}},
+"techhubs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Djanta Tech Hub is named only as a mission participant; no programme or cohort is stated."}}}
+}}

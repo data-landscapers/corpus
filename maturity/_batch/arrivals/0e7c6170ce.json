@@ -1,187 +1,39 @@
 {
  "slug": "2026-05-28-moz-intic-acompanha-avancos-da-rede-africana-de-autoridades-de-proteccao-d",
  "studies": {
-  "aiabuse": {
+  "ailaw": {
    "countries": {
     "MOZ": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
+     "note": "Document covers a data protection bill and a DPA network; states nothing on this study's law."
     }
    }
   },
-  "aigovernment": {
+  "cybersecuritylaw": {
    "countries": {
     "MOZ": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
+     "note": "Document covers a data protection bill and a DPA network; states nothing on this study's law."
     }
    }
   },
-  "aisectoral": {
+  "interoperabilitylaw": {
    "countries": {
     "MOZ": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
+     "note": "Document covers a data protection bill and a DPA network; states nothing on this study's law."
     }
    }
   },
-  "aisystems": {
+  "paymentslaw": {
    "countries": {
     "MOZ": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "businesspayments": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "centralbank": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "consumerprotection": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "crossborderpayments": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "dataprotectionauthority": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "dataprotectionlaw": {
-   "countries": {
-    "MOZ": {
-     "facts": [
-      {
-       "sub_indicator": "general",
-       "aspect": "standing",
-       "value": "tabled",
-       "fact": "INTIC says Mozambique's data protection bill, approved by the Council of Ministers this year, is under review in the Assembleia da República in the final stage of the legislative process.",
-       "as_of": "2026-05-28",
-       "date_precision": "day",
-       "system": "Proposta de Lei de Protecção de Dados",
-       "class": "general"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Proposta de Lei de Protecção de Dados",
-       "country_label": "Mozambique",
-       "class": "general",
-       "platform": "",
-       "owner": "Assembleia da República",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "datatransfers": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "g2ppayments": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "paymentsuptake": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "regionalpolicy": {
-   "countries": {
-    "MOZ": {
-     "facts": [
-      {
-       "sub_indicator": "cooperation",
-       "aspect": "part",
-       "value": "none",
-       "fact": "INTIC says Mozambique is not yet a member of the African Network of Data Protection Authorities (RAPDP), as members must have a data protection law, and expects to join after its bill passes.",
-       "as_of": "2026-05-28",
-       "date_precision": "day",
-       "system": "RAPDP",
-       "class": "cooperation"
-      }
-     ],
-     "systems": [
-      {
-       "system": "RAPDP",
-       "country_label": "Mozambique",
-       "class": "cooperation",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "retailpayments": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
-    }
-   }
-  },
-  "revenuecollection": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks about Mozambique."
+     "note": "Document covers a data protection bill and a DPA network; states nothing on this study's law."
     }
    }
   }

@@ -1,0 +1,10 @@
+{"slug":"2026-10-29-momo-and-ubipharm-partner-to-digitise-pharmaceutical-payments-in-congo","studies":{
+"businesspayments":{"countries":{"COG":{"facts":[],"systems":[],"note":"Private pharmacy-to-distributor payments by mobile money; no government e-procurement stated."}}},
+"centralbank":{"countries":{"COG":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"COG":{"facts":[],"systems":[],"note":"No consumer protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"COG":{"facts":[],"systems":[],"note":"Domestic payments only; nothing cross-border stated."}}},
+"g2ppayments":{"countries":{"COG":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"COG":{"facts":[],"systems":[],"note":"No survey share of adults with an account stated."}}},
+"retailpayments":{"countries":{"COG":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"MTN Congo's MoMo mobile money is in service, with customers paying pharmacy purchases and pharmacies paying distributor UbiPharm through it, per MoMo from MTN Congo.","as_of":"2026-10-29","date_precision":"day","system":"MoMo","class":"retail"}],"systems":[{"system":"MoMo","country_label":"Congo","class":"retail","platform":"mobile money","owner":"MTN Congo","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"COG":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

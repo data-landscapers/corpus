@@ -1,0 +1,11 @@
+{"slug": "2026-10-30-vanguardngr-inec-blames-registration-officers-for-ai-generated-photos", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "INEC finds AI-generated photos in its register, but the document names no rule, authority or dated enforcement on AI harms."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI system used by a government body for its work or services is stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
+"electoralregister": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "electoral", "aspect": "roll", "value": "inservice", "fact": "INEC's ICT director Lawrence Bayode said the Automated Biometric Identification System was run on the registration records of the preliminary voters' register, finding irregular entries.", "as_of": "2026-10-30", "date_precision": "day", "system": "INEC preliminary register of voters / Automated Biometric Identification System", "class": "electoral"},
+{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "The preliminary register of voters was uploaded to INEC's website on 26 October 2026, where the public could view it and complain of missing details.", "as_of": "2026-10-26", "date_precision": "day", "system": "INEC preliminary register of voters", "class": "electoral"}
+], "systems": [{"system": "INEC preliminary register of voters", "country_label": "Nigeria", "class": "electoral", "platform": "Automated Biometric Identification System", "owner": "INEC", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document concerns the voters' register, not a national ID system."}}}
+}}

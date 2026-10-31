@@ -1,1 +1,68 @@
-{"slug": "2026-10-26-tgo-togo-4-consultants-recherches-pour-preparer-la-passation-electronique", "studies": {"businesspayments": {"countries": {"TGO": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "Togo's procurement regulator ARCOP published a call in October 2026 to recruit four individual consultants to help set up the future electronic public procurement system (e-GP), with no go-live date given (Togo First).", "as_of": "2026-10", "date_precision": "month", "system": "e-GP", "class": "procurement"}], "systems": [{"system": "e-GP", "country_label": "Togo", "class": "procurement", "platform": "", "owner": "ARCOP", "tiers": ""}], "note": ""}}}}}
+{
+ "slug": "2026-10-26-tgo-togo-4-consultants-recherches-pour-preparer-la-passation-electronique",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "ARCOP",
+       "tiers": ""
+      }
+     ],
+     "note": "The document covers only an e-procurement platform, which this study does not ask about."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers only an e-procurement platform, which this study does not ask about."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers only an e-procurement platform, which this study does not ask about."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers only an e-procurement platform, which this study does not ask about."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers only an e-procurement platform, which this study does not ask about."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers only an e-procurement platform, which this study does not ask about."
+    }
+   }
+  }
+ }
+}

@@ -1,3 +1,14 @@
-{"slug": "2026-10-21-gin-signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier", "studies": {
-"localgov": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document covers draft e-signature texts; nothing on local government office connection."}}}
-}}
+{
+ "slug": "2026-10-21-gin-signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier",
+ "studies": {
+  "paymentslaw": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Electronic signature workshop; nothing on payments or e-money rules."
+    }
+   }
+  }
+ }
+}

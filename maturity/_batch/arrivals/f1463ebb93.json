@@ -1,103 +1,12 @@
 {
  "slug": "2026-10-20-xgl-access-now-deliberately-forgotten-internet-shutdowns-with-no-end",
  "studies": {
-  "mobileaffordability": {
+  "internetusage": {
    "countries": {
-    "ETH": {
-     "facts": [],
-     "systems": [],
-     "note": "No price figure stated."
-    },
     "GNQ": {
      "facts": [],
      "systems": [],
-     "note": "No price figure stated."
-    },
-    "SDN": {
-     "facts": [],
-     "systems": [],
-     "note": "No price figure stated."
-    }
-   }
-  },
-  "satellitebroadband": {
-   "countries": {
-    "ETH": {
-     "facts": [],
-     "systems": [],
-     "note": "No satellite broadband licence or sale stated."
-    },
-    "GNQ": {
-     "facts": [],
-     "systems": [],
-     "note": "No satellite broadband licence or sale stated."
-    },
-    "SDN": {
-     "facts": [],
-     "systems": [],
-     "note": "No satellite broadband licence or sale stated."
-    }
-   }
-  },
-  "opendiscussion": {
-   "countries": {
-    "ETH": {
-     "facts": [
-      {
-       "sub_indicator": "discussion",
-       "aspect": "connection",
-       "value": "cut",
-       "fact": "Access Now says new internet shutdowns in Tigray, Ethiopia, are raising fears that the population cut off for over two years during the civil war will be disconnected again.",
-       "as_of": "2026-10-20",
-       "date_precision": "day",
-       "system": "Tigray internet shutdowns",
-       "class": "discussion"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    },
-    "GNQ": {
-     "facts": [
-      {
-       "sub_indicator": "discussion",
-       "aspect": "connection",
-       "value": "cut",
-       "fact": "Access Now includes Annobon among places with indefinite internet and communications blackouts, documented through testimonies from 2024 to 2026.",
-       "as_of": "2026-10-20",
-       "date_precision": "day",
-       "system": "Annobon internet blackout",
-       "class": "discussion"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    },
-    "SDN": {
-     "facts": [
-      {
-       "sub_indicator": "discussion",
-       "aspect": "connection",
-       "value": "cut",
-       "fact": "Access Now includes Sudan among places living under indefinite internet and communications blackouts, with testimonies from 2024 to 2026.",
-       "as_of": "2026-10-20",
-       "date_precision": "day",
-       "system": "Sudan internet blackout",
-       "class": "discussion"
-      },
-      {
-       "sub_indicator": "discussion",
-       "aspect": "connection",
-       "value": "barred",
-       "fact": "Access Now says national judiciaries in Sudan, among others, have found internet shutdowns violate rights; the ruling is undated.",
-       "as_of": "2026-10-20",
-       "date_precision": "day",
-       "system": "Sudan court rulings on shutdowns",
-       "class": "discussion"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "States no internet user share; only a shutdown."
     }
    }
   }

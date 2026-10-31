@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-29-som-somalia-parliament-suspends-sessions-for-two-weeks-to-install-e-parlia",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "E-Parliament",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "House of the People",
+       "tiers": ""
+      }
+     ],
+     "note": "E-Parliament is a legislative-internal system, not a citizen or business government service."
+    }
+   }
+  }
+ }
+}

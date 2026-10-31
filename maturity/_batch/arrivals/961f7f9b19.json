@@ -1,30 +1,12 @@
 {
  "slug": "2026-09-21-gin-agenceecofin-donnees-agricoles-financement",
  "studies": {
-  "health": {
+  "schools": {
    "countries": {
     "GIN": {
      "facts": [],
      "systems": [],
-     "note": "Agricultural producer registry; nothing on health."
-    }
-   }
-  },
-  "police": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "Agricultural producer registry; nothing on police."
-    }
-   }
-  },
-  "registry": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "Farmer registry and cards, not civil registration."
+     "note": "Farmer registry; nothing on schools."
     }
    }
   }

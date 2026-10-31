@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-28-egy-the-ntra-issues-order-to-double-egypts-base-internet-package-capacity",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a fixed-line package allowance; no exchange point stated."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No international fibre route stated."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Fixed-line package, not mobile data; no mobile price stated."
+    }
+   }
+  }
+ }
+}

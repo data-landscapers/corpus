@@ -1,7 +1,23 @@
-{"slug": "2026-10-29-ago-pti-ima-concurso-internacional-portal-simplifica", "studies": {
-"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority against AI harms."}}},
-"aigovernment": {"countries": {"AGO": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Angola's Administrative Modernisation Institute (IMA) has opened an international tender, financed by a World Bank loan, for the new Portal SIMPLIFICA platform, which includes integrating artificial intelligence into the public services portal.", "as_of": "2026-10-29", "date_precision": "day", "system": "Portal SIMPLIFICA", "class": "govai"}], "systems": [{"system": "Portal SIMPLIFICA", "country_label": "Angola", "class": "govai", "platform": "single window portal for public services", "owner": "Instituto de Modernização Administrativa (IMA)", "tiers": ""}], "note": ""}}},
-"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The AI named is in the general public services portal, not a sector's system."}}},
-"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
-"ecommercelaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states no e-commerce or electronic transactions law."}}}
-}}
+{
+ "slug": "2026-10-29-ago-pti-ima-concurso-internacional-portal-simplifica",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Portal SIMPLIFICA",
+       "country_label": "Angola",
+       "class": "eservices",
+       "platform": "",
+       "owner": "IMA",
+       "tiers": ""
+      }
+     ],
+     "note": "A tender notice for a new platform; no count of services, sign-in or use is stated."
+    }
+   }
+  }
+ }
+}

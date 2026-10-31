@@ -1,41 +1,32 @@
 {
  "slug": "2025-06-18-mdg-decret-n2025-696-abrogeant-l-article-90-du-decret-n2023-1541-du-06-dec",
  "studies": {
-  "dataprotectionlaw": {
+  "dataprotectionauthority": {
    "countries": {
     "MDG": {
      "facts": [
       {
-       "sub_indicator": "general",
-       "aspect": "regulations",
-       "value": "issued",
-       "fact": "Decree 2025-696 of 18 June 2025 repeals article 90 of decree 2023-1541 of 6 December 2023 on the CMIL and personal data processing, which the decree cites as an existing decree beside law 2014-038.",
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "Decree 2025-696 of 18 June 2025 repeals article 90 of Decree 2023-1541, which sets the attributions, organisation and operation of the CMIL, under Law 2014-038.",
        "as_of": "2025-06-18",
        "date_precision": "day",
-       "system": "Decree 2023-1541 of 6 December 2023",
-       "class": "general"
-      }
-     ],
-     "systems": [
-      {
        "system": "CMIL",
-       "country_label": "Madagascar",
-       "class": "authority",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
+       "class": "authority"
       }
      ],
+     "systems": [],
      "note": ""
     }
    }
   },
-  "schoolinternet": {
+  "datatransfers": {
    "countries": {
     "MDG": {
      "facts": [],
      "systems": [],
-     "note": "Nothing stated that this study asks."
+     "note": "Decree only repeals an article, not stated to concern transfers abroad."
     }
    }
   }

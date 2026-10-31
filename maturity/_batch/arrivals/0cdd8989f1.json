@@ -1,68 +1,21 @@
 {
  "slug": "2026-10-05-gin-ucep-attribution-informatisation-tcc",
  "studies": {
-  "health": {
+  "schools": {
    "countries": {
     "GIN": {
      "facts": [],
      "systems": [],
-     "note": "Court computerisation notice; no health system stated."
+     "note": "Commercial court computerisation contract; nothing on school records or tax filing."
     }
    }
   },
-  "healthexchange": {
+  "taxadmin": {
    "countries": {
     "GIN": {
      "facts": [],
      "systems": [],
-     "note": "Court computerisation notice; no health system stated."
-    }
-   }
-  },
-  "healthmis": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "Court computerisation notice; no health system stated."
-    }
-   }
-  },
-  "justice": {
-   "countries": {
-    "GIN": {
-     "facts": [
-      {
-       "sub_indicator": "justice",
-       "aspect": "cases",
-       "value": "underway",
-       "fact": "Guinea's UCEP published the award on 5 October 2026 of a 12-month, USD 26,400 consultancy, signed 7 September 2026, to set up, manage and optimise the Tribunal de Commerce de Conakry's integrated management, archiving and digital communication system, with its website, case-law database and IT estate.",
-       "as_of": "2026-09-07",
-       "date_precision": "day",
-       "system": "système intégré de gestion, d'archivage et de communication numérique du Tribunal de Commerce de Conakry",
-       "class": "justice"
-      }
-     ],
-     "systems": [
-      {
-       "system": "système intégré de gestion, d'archivage et de communication numérique du TCC",
-       "country_label": "TCC integrated system",
-       "class": "justice",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "police": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "Court computerisation notice; no police station records stated."
+     "note": "Commercial court computerisation contract; nothing on school records or tax filing."
     }
    }
   }

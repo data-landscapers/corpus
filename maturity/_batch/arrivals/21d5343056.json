@@ -1,0 +1,8 @@
+{"slug":"2026-10-28-youm7-egypt-justice-property-registry-digital","studies":{
+"aiabuse":{"countries":{"EGY":{"facts":[],"systems":[],"note":"The document states nothing on rules or an authority against AI harms."}}},
+"aigovernment":{"countries":{"EGY":{"facts":[],"systems":[],"note":"AI in real estate registration is only a stated future aim, not a system in use or being tested."}}},
+"aisectoral":{"countries":{"EGY":{"facts":[],"systems":[],"note":"AI for real estate is named only as a future aim of the Ministry of Justice; no tool is piloted or in service."}}},
+"aisystems":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No AI model, dataset or AI computing built or hosted in Egypt is stated."}}},
+"authentication":{"countries":{"EGY":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"Egypt's Ministry of Justice says it has activated a unified digital platform on which citizens complete property registration remotely from application through payment to e-signature.","as_of":"2026-10-28","date_precision":"day","system":"unified digital property registration platform","class":"authentication"}],"systems":[{"system":"unified digital property registration platform","country_label":"Egypt","class":"authentication","platform":"online platform with e-signature","owner":"Ministry of Justice","tiers":""},{"system":"Digital Egypt portal","country_label":"Egypt","class":"other","platform":"government services portal","owner":"Government of Egypt","tiers":""}],"note":""}}},
+"ecommercelaw":{"countries":{"EGY":{"facts":[],"systems":[],"note":"The document names no e-commerce or electronic transactions law, draft or rules."}}}
+}}

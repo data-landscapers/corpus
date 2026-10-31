@@ -1,0 +1,73 @@
+{
+ "slug": "2026-10-30-gcis-warns-of-information-breach",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "ITWeb reports the Information Regulator received 788 data breach notifications from 1 January to 31 March, and that GCIS reported its breach to it.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Information Regulator",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "GCIS says it acted in line with the Protection of Personal Information Act in notifying a breach.",
+       "as_of": "2026-10-30",
+       "date_precision": "day",
+       "system": "POPIA",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "ITWeb reports the Information Regulator received 788 data breach notifications from 1 January to 31 March.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "POPIA",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on local government office connection."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on police station records."
+    }
+   }
+  }
+ }
+}

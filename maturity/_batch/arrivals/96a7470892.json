@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-30-africa-seeks-control-of-ai-safety-eswatini-standards-centre",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Centre and planned lab are not a rule, authority or enforcement on AI harms."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on digital financial services rules, redress or enforcement."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "ISO/IEC 42001 and 23894 are drawn on, not adopted nationally; no ISO membership or committee role stated."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Authority named but no standard issued or certification stated; no law establishing it mentioned."
+    }
+   }
+  }
+ }
+}

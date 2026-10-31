@@ -1,32 +1,12 @@
 {
  "slug": "2026-10-13-gmb-gambiana-gid-denies-losing-id-card-data",
  "studies": {
-  "accesstoinformationlaw": {
+  "registry": {
    "countries": {
     "GMB": {
-     "facts": [
-      {
-       "sub_indicator": "law",
-       "aspect": "standing",
-       "value": "in-force",
-       "fact": "The Gambia Immigration Department, in a press release reported by Gambiana, reaffirmed its commitment to the Access to Information Act, 2021.",
-       "as_of": "2026-10-13",
-       "date_precision": "day",
-       "system": "Access to Information Act, 2021",
-       "class": "law"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Access to Information Act, 2021",
-       "country_label": "Gambia",
-       "class": "law",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
-      }
-     ],
-     "note": "No decision, rules or oversight body stated, so no reach fact."
+     "facts": [],
+     "systems": [],
+     "note": "Concerns national ID card data servers, not civil registration offices."
     }
    }
   }

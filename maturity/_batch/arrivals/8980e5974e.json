@@ -1,0 +1,119 @@
+{
+ "slug": "2026-10-27-sen-cdp-senegal-tiktok-rapdp",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Senegal's CDP, headed by President Ousmane Thiongane, received TikTok's francophone-Africa regulatory lead on 2026-10-27 and pressed it on complaints, acting as the data protection authority.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Commission de Protection des Données Personnelles (CDP)",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Senegal's CDP, headed by President Ousmane Thiongane, is described as the authority for regulation and protection of personal data and acted on 2026-10-27 in receiving TikTok.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Commission de Protection des Données Personnelles (CDP)",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Senegal's CDP president Ousmane Thiongane holds the office of president in charge of cooperation of the African Network of Data Protection Authorities (RAPDP), as stated on 2026-10-27.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "RAPDP",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

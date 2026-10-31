@@ -1,0 +1,209 @@
+{
+ "slug": "2026-10-30-ecowas-e-commerce-forum-abuja",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional ECOWAS consultation, not a named national digital law or policy."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional ECOWAS consultation, not a named national digital law or policy."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Nigeria's Federal Ministry of Industry, Trade and Investment was represented at the ECOWAS Commission's E-Commerce Community Forum (27-28 October 2026) on implementing the ECOWAS E-Commerce Strategy.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "ECOWAS E-Commerce Community Forum",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Senegal's Ministry of Industry and Trade was represented at the ECOWAS Commission's E-Commerce Community Forum (27-28 October 2026) on implementing the ECOWAS E-Commerce Strategy.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "ECOWAS E-Commerce Community Forum",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

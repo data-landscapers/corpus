@@ -1,21 +1,57 @@
 {
  "slug": "2026-10-23-iec-chairman-declares-final-voter-register-will-be-released-only-after",
  "studies": {
-  "electoralregister": {
+  "addressregister": {
    "countries": {
     "GMB": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
     }
    }
   },
-  "publicconsultation": {
+  "businessregister": {
    "countries": {
     "GMB": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
     }
    }
   }

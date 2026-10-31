@@ -1,1 +1,23 @@
-{"slug": "2025-12-11-mar-decret-2-25-862-tva-services-electroniques-non-residents", "studies": {"taxadmin": {"countries": {"MAR": {"facts": [{"sub_indicator": "taxsystem", "aspect": "filing", "value": "underway", "fact": "Decree 2.25.862 of 27 November 2025 requires non-resident suppliers of remote digital services to register on the tax administration's electronic platform, file VAT returns electronically each quarter and pay electronically, entering into force six months after publication.", "as_of": "2025-11-27", "date_precision": "day", "system": "Tax administration electronic platform for non-resident VAT", "class": "taxsystem"}], "systems": [{"system": "Tax administration electronic platform for non-resident suppliers", "country_label": "Morocco", "class": "taxsystem", "platform": "", "owner": "Direction Generale des Impots", "tiers": ""}], "note": ""}}}}}
+{
+ "slug": "2025-12-11-mar-decret-2-25-862-tva-services-electroniques-non-residents",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "VAT decree for non-resident digital suppliers; states nothing on this study's law."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "VAT decree for non-resident digital suppliers; states nothing on this study's law."
+    }
+   }
+  }
+ }
+}

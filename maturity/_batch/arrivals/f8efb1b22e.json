@@ -1,0 +1,59 @@
+{
+ "slug": "2026-08-07-gambia-iec-voter-register-discrepancies",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral voter register only; no address, business, civil, land or social registry stated."
+    }
+   }
+  }
+ }
+}

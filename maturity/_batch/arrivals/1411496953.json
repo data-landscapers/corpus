@@ -1,21 +1,21 @@
 {
  "slug": "2026-10-28-mus-undp-and-statistics-mauritius-maustats-platform-phase-2",
  "studies": {
-  "digitalskills": {
+  "opendatapolicy": {
    "countries": {
     "MUS": {
      "facts": [],
      "systems": [],
-     "note": "Training is for statistics office staff on a statistical platform, not a public digital-skills programme."
+     "note": "No open data policy stated."
     }
    }
   },
-  "schoolinternet": {
+  "opendatause": {
    "countries": {
     "MUS": {
      "facts": [],
      "systems": [],
-     "note": "Nothing stated that this study asks."
+     "note": "Describes platform modules and training; no downloadable datasets or publishing bodies stated."
     }
    }
   }

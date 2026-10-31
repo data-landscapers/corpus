@@ -1,240 +1,48 @@
 {
  "slug": "2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet",
  "studies": {
-  "admindata": {
+  "businessregister": {
    "countries": {
-    "CIV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
     "CMR": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
+     "note": "Document covers civil registration (BUNEC) only; it states nothing on this register."
     }
    }
   },
-  "authentication": {
+  "electoralregister": {
    "countries": {
-    "CIV": {
-     "facts": [],
-     "systems": [],
-     "note": "Only a feasibility study for an authentication platform and wallet is stated; nothing authorised, contracted or piloted."
-    },
     "CMR": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
+     "note": "Document covers civil registration (BUNEC) only; it states nothing on this register."
     }
    }
   },
-  "birthidlink": {
+  "landregister": {
    "countries": {
-    "CIV": {
+    "CMR": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "CMR": {
-     "facts": [
-      {
-       "sub_indicator": "link",
-       "aspect": "link",
-       "value": "underway",
-       "fact": "Cameroon's 2025-2029 plan aims to connect civil registration centres with identification services and to achieve interoperability by 2029 (We Are Tech Africa, via Biometric Update).",
-       "as_of": "2026-10-29",
-       "date_precision": "day",
-       "system": "national civil registration database",
-       "class": "crvslink"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "Document covers civil registration (BUNEC) only; it states nothing on this register."
     }
    }
   },
-  "civilregister": {
+  "socialregistry": {
    "countries": {
-    "CIV": {
+    "CMR": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "CMR": {
-     "facts": [
-      {
-       "sub_indicator": "civil",
-       "aspect": "births",
-       "value": "underway",
-       "fact": "BUNEC has computerised 60 of Cameroon's 432 principal civil registration centres, with paper dominant and a parallel digital system in selected councils (Biometric Update).",
-       "as_of": "2026-10-29",
-       "date_precision": "day",
-       "system": "BUNEC computerised civil registration",
-       "class": "civil"
-      }
-     ],
-     "systems": [
-      {
-       "system": "BUNEC computerised civil registration",
-       "country_label": "BUNEC digital civil status database",
-       "class": "civil",
-       "platform": "",
-       "owner": "BUNEC",
-       "tiers": ""
-      }
-     ],
-     "note": ""
+     "note": "Document covers civil registration (BUNEC) only; it states nothing on this register."
     }
    }
   },
-  "idcoverage": {
+  "taxregister": {
    "countries": {
-    "CIV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
     "CMR": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    }
-   }
-  },
-  "idfrombirth": {
-   "countries": {
-    "CIV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "CMR": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    }
-   }
-  },
-  "idmaintenance": {
-   "countries": {
-    "CIV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "CMR": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    }
-   }
-  },
-  "idregisters": {
-   "countries": {
-    "CIV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "CMR": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "CIV": {
-     "facts": [
-      {
-       "sub_indicator": "robustness",
-       "aspect": "system",
-       "value": "inservice",
-       "fact": "ONECI manages Cote d'Ivoire's national ID and biometric identification systems, per Biometric Update.",
-       "as_of": "2026-10-29",
-       "date_precision": "day",
-       "system": "ONECI national ID",
-       "class": "idsystem"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    },
-    "CMR": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    }
-   }
-  },
-  "populationregister": {
-   "countries": {
-    "CIV": {
-     "facts": [
-      {
-       "sub_indicator": "population",
-       "aspect": "register",
-       "value": "inservice",
-       "fact": "Cote d'Ivoire has established the National Register of Natural Persons (RNPP) as a foundational component of its identity infrastructure, managed alongside ONECI's systems.",
-       "as_of": "2026-10-29",
-       "date_precision": "day",
-       "system": "RNPP",
-       "class": "population"
-      }
-     ],
-     "systems": [
-      {
-       "system": "RNPP",
-       "country_label": "National Register of Natural Persons",
-       "class": "population",
-       "platform": "",
-       "owner": "ONECI",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    },
-    "CMR": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    }
-   }
-  },
-  "registry": {
-   "countries": {
-    "CIV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "CMR": {
-     "facts": [
-      {
-       "sub_indicator": "civil",
-       "aspect": "governance",
-       "value": "plan:current",
-       "fact": "Cameroon's Strategic Plan for modernising CRVS 2025-2029 aims to computerise all 432 principal civil registration centres by 2029, per BUNEC.",
-       "as_of": "2026-10-29",
-       "date_precision": "day",
-       "system": "BUNEC computerised civil registration",
-       "class": "civil"
-      },
-      {
-       "sub_indicator": "civil",
-       "aspect": "offices",
-       "value": "equipped:13.9%",
-       "fact": "60 of 432 principal civil registration centres are computerised, BUNEC says.",
-       "as_of": "2026-10-29",
-       "date_precision": "day",
-       "system": "BUNEC computerised civil registration",
-       "class": "civil"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "Document covers civil registration (BUNEC) only; it states nothing on this register."
     }
    }
   }

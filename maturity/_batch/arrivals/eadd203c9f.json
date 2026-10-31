@@ -1,11 +1,23 @@
-{"slug": "2026-06-26-moz-atdi-e-bau-alinham-visao-de-servicos-publicos-digitais-integrados-e-ce", "studies": {
-"authentication": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Digital Identity is named only as an ongoing ATDI initiative, with nothing on what it does."}}},
-"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system is stated."}}},
-"dataexchange": {"countries": {"MOZ": {"facts": [{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "ATDI's chair said INATRO, the national civil identification directorate (DNIC) and the Ministry of Justice are in the process of integrating through the Plataforma Nacional de Interoperabilidade, with gradual extension to other bodies including BAU.", "as_of": "2026-06-19", "date_precision": "day", "system": "Plataforma Nacional de Interoperabilidade", "class": "exchange"}], "systems": [{"system": "Plataforma Nacional de Interoperabilidade", "country_label": "Mozambique", "class": "exchange", "platform": "", "owner": "ATDI, IP", "tiers": ""}], "note": ""}}},
-"egovservices": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "Portal do Cidadao", "country_label": "Mozambique", "class": "eservices", "platform": "", "owner": "ATDI, IP", "tiers": ""}], "note": "The Portal do Cidadao is a shared vision still to be implemented, not a launched portal."}}},
-"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
-"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
-"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
-"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
-"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The ID system itself is not described."}}}
-}}
+{
+ "slug": "2026-06-26-moz-atdi-e-bau-alinham-visao-de-servicos-publicos-digitais-integrados-e-ce",
+ "studies": {
+  "interoperability": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Plataforma Nacional de Interoperabilidade",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "ATDI, IP",
+       "tiers": ""
+      }
+     ],
+     "note": "Names an interoperability platform being integrated, no framework."
+    }
+   }
+  }
+ }
+}

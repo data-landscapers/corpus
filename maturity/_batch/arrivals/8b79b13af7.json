@@ -1,80 +1,23 @@
 {
  "slug": "2026-09-01-bfa-cil-formulaire-autorisation-transfert-etranger",
  "studies": {
-  "dataprotectionauthority": {
+  "dataprotectionreadiness": {
    "countries": {
     "BFA": {
      "facts": [
       {
-       "sub_indicator": "body",
-       "aspect": "standing",
-       "value": "constituted",
-       "fact": "The CIL (Commission de l'Informatique et des Libertés) publishes a form for applications to authorise a transfer of personal data to a foreign country.",
-       "as_of": "2026-09",
-       "date_precision": "month",
-       "system": "CIL",
-       "class": "authority"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Commission de l'Informatique et des Libertés",
-       "country_label": "Burkina Faso",
-       "class": "authority",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
-      }
-     ],
-     "note": "No ruling stated."
-    }
-   }
-  },
-  "dataprotectionlaw": {
-   "countries": {
-    "BFA": {
-     "facts": [],
-     "systems": [],
-     "note": "Form names no law and states no standing, regulation or application."
-    }
-   }
-  },
-  "datatransfers": {
-   "countries": {
-    "BFA": {
-     "facts": [
-      {
-       "sub_indicator": "rule",
-       "aspect": "standing",
-       "value": "in-force",
-       "fact": "The CIL's annex form is an application for authorisation to transfer personal data to a foreign country, asking about the recipient, destination authority, consent and security measures.",
-       "as_of": "2026-09",
-       "date_precision": "month",
-       "system": "CIL transfer authorisation",
-       "class": "rule"
-      },
-      {
-       "sub_indicator": "rule",
-       "aspect": "use",
-       "value": "means",
-       "fact": "The CIL published a blank application form for authorisation of a transfer of personal data abroad.",
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "The CIL publishes an application form to authorise transfers of personal data to a foreign country, undated beyond its September 2026 upload.",
        "as_of": "2026-09",
        "date_precision": "month",
        "system": "CIL transfer authorisation form",
-       "class": "rule"
+       "class": "system"
       }
      ],
      "systems": [],
      "note": ""
-    }
-   }
-  },
-  "schoolinternet": {
-   "countries": {
-    "BFA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document is not about schools."
     }
    }
   }

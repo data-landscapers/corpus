@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-30-com-lagazette-sante-et-numerique-onze-projets",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "registre electronique de vaccination",
+   "country_label": "registre electronique de vaccination",
+   "class": "tracker",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No owner, tiers, digitisation point, clinics share or dated change for a system is stated."
+}

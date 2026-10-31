@@ -1,0 +1,379 @@
+{
+ "slug": "2026-10-30-xaf-africanenda-mensah-regulatory-fragmentation",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states no fact this study asks for this country."
+    }
+   }
+  }
+ }
+}
