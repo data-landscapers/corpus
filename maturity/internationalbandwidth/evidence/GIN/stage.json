@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "GIN-011;GIN-003",
       "gaps": "No source found names a second international fibre route in service; the Medusa cable is planned, and no land link through a neighbour is stated.",
-      "note": "Reassessed 2026-10-29: the ministry's secretary general told MPs on 27 October 2026 that one submarine cable is Guinea's only link, as every held row says of ACE. The script's count of two routes came from two names for that one cable, so the cell takes stage 2.",
-      "as_at": "2026-10-29"
+      "note": "Reassessed 2026-10-29: the ministry's secretary general told MPs on 27 October 2026 that one submarine cable is Guinea's only link, as every held row says of ACE. Re-read 2026-10-31: GIN-010, ECOWAS's single landing station, is ACE's and is now filed under ACE, so the ladder also counts one route and the cell stays at stage 2.",
+      "as_at": "2026-10-31"
     }
   ]
 }
