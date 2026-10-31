@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "4",
-      "rule": "inservice",
-      "hosted": "national",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-005;MWI-004",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "The Department of e-Government's National Data Centre in Lilongwe hosts ministries' systems (MWI-005, June 2026), so stage 4. No contract with data terms is on file, so not 5.",
+      "stage_sources": "MWI-002",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country; the national data centre (MWI-005) does not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): the Government Data Centre in Lilongwe was built to consolidate government systems (MWI-002, 2024), so stage 2. It now hosts ministries' systems (MWI-005, June 2026), but no rule on state data is in force in the window, so hosting no longer lifts the cell to 4; the 2022 UNECA note on health data (MWI-003) is outside it.",
       "as_at": "2026-10-31"
     }
   ]

@@ -2,6 +2,7 @@
  "id": "digitalsovereignty",
  "study_file": "maturity-study-digitalsovereignty.md",
  "pass": "first",
+ "later_yes": false,
  "window_from": "2023-10-01",
  "story_cap": 20,
  "subjects": [

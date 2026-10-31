@@ -10,4 +10,4 @@
 
 ***Also on file***. [Mauritius Telecom Rose-Belle data centre](<https://lexpress.mu/node/552966>); [Government Online Centre (GOC), Ebene](<https://lexpress.mu/node/552966>).
 
-***Not found***. No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country. None says a government contract carries terms on data jurisdiction, portability or exit.

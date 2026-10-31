@@ -10,4 +10,4 @@
 
 ***Also on file***. [Blantyre Data Centre (disaster recovery site)](<https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf>); [Bomalathu Digital Services Platform](<https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf>).
 
-***Not found***. No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country. None says a government contract carries terms on data jurisdiction, portability or exit.

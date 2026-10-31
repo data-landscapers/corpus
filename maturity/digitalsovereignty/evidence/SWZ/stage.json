@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "4",
-      "rule": "inservice",
-      "hosted": "national",
+      "stage": "unplaced",
+      "rule": "",
+      "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-001",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "A September 2026 outage at the RSTP National Data Centre stopped at least twelve government services, so they are hosted there (SWZ-001) and the stage is 4. No contract with data terms is on file, so not 5.",
+      "stage_sources": "",
+      "gaps": "No source found since October 2023 says control of state data is a stated goal or a rule in force; the RSTP National Data Centre (SWZ-001) does not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): a September 2026 outage at the RSTP National Data Centre stopped at least twelve government services (SWZ-001), but no source in the window states a goal or a rule on state data, so the hosting fact no longer places the country.",
       "as_at": "2026-10-31"
     }
   ]

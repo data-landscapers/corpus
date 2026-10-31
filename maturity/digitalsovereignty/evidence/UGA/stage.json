@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "4",
-      "rule": "inservice",
-      "hosted": "national",
+      "stage": "unplaced",
+      "rule": "",
+      "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-002;UGA-001",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "NITA-U's National Data Centre hosted 305 applications from 100 government entities by 2024 (UGA-002, UGA-001), so stage 4. No contract with data terms is on file, so not 5.",
+      "stage_sources": "",
+      "gaps": "No source found since October 2023 says control of state data is a stated goal or a rule in force; NITA-U's National Data Centre (UGA-001, UGA-002) does not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): NITA-U's National Data Centre hosted 305 applications from 100 government entities by 2024 (UGA-002, UGA-001), but no source in the window states a goal or a rule on state data, so the hosting fact no longer places the country.",
       "as_at": "2026-10-31"
     }
   ]

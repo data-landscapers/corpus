@@ -8,17 +8,17 @@ CAF,1,none,,,CAF-001
 CIV,2,underway,,,CIV-003;CIV-002
 CMR,4,inservice,national,,CMR-001
 COD,4,inservice,national,,COD-002
-COG,4,inservice,national,,COG-006
-COM,4,inservice,national,,COM-002;COM-003
-CPV,4,inservice,national,,CPV-003
+COG,2,underway,,,COG-010;COG-007
+COM,2,underway,,,COM-001
+CPV,unplaced,,,,
 DJI,unplaced,,,,
 DZA,4,inservice,national,,DZA-008;DZA-005
 EGY,3,inservice,,,EGY-001
 ERI,unplaced,,,,
 ETH,3,inservice,,,ETH-001
 GAB,2,underway,,,GAB-001;GAB-006
-GHA,4,inservice,national,,GHA-002
-GIN,4,inservice,national,,GIN-001;GIN-002
+GHA,2,underway,,,GHA-001
+GIN,2,underway,,,GIN-003
 GMB,unplaced,,,,
 GNB,no evidence,,,,
 GNQ,no evidence,,,,
@@ -30,26 +30,26 @@ MAR,3,inservice,,,MAR-002
 MDG,2,underway,,,MDG-002;MDG-001
 MLI,2,underway,,,MLI-003
 MOZ,3,inservice,,,MOZ-001
-MRT,4,inservice,national,,MRT-003;MRT-008
-MUS,4,inservice,national,,MUS-001
-MWI,4,inservice,national,,MWI-005;MWI-004
+MRT,2,underway,,,MRT-012;MRT-004
+MUS,2,underway,,,MUS-002;MUS-003
+MWI,2,underway,,,MWI-002
 NAM,2,underway,,,NAM-002
 NER,2,underway,,,NER-001
 NGA,4,inservice,national,,NGA-024
 RWA,3,inservice,,,RWA-001
 SDN,2,underway,,,SDN-003;SDN-004
 SEN,2,underway,,,SEN-002;SEN-003
-SLE,4,inservice,national,,SLE-002
+SLE,2,underway,,,SLE-001
 SOM,2,underway,,,SOM-001
 SSD,2,underway,,,SSD-001
 STP,no evidence,,,,
-SWZ,4,inservice,national,,SWZ-001
-SYC,no evidence,,,,
-TCD,2,underway,,,TCD-002;TCD-003
+SWZ,unplaced,,,,
+SYC,2,underway,,,SYC-001
+TCD,2,underway,,,TCD-004;TCD-002
 TGO,no evidence,,,,
 TUN,2,underway,,,TUN-002
 TZA,3,inservice,,,TZA-002;TZA-001
-UGA,4,inservice,national,,UGA-002;UGA-001
+UGA,unplaced,,,,
 ZAF,4,inservice,national,,ZAF-002
 ZMB,unplaced,,,,
 ZWE,4,inservice,national,,ZWE-001;ZWE-006

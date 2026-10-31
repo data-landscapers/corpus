@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "4",
-      "rule": "inservice",
-      "hosted": "national",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-006;AGO-004",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. No rule in force on state data is stated; the hosting yes answers that question.",
-      "note": "The government cloud at Camama, opened 28 April 2026, hosts public institutions' data (AGO-006), which answers questions 1 to 3. No contract with data terms is held, so stage 4 and not 5.",
-      "as_at": "2026-10-29"
+      "stage_sources": "AGO-002;AGO-004",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country; the Camama government cloud (AGO-006) does not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): the President and INFOSI describe the national cloud and government data centre as keeping public systems under national control (AGO-002, AGO-004, 2026), so stage 2. The Camama government cloud hosts public institutions' data (AGO-006), but no rule on state data is in force, so hosting no longer lifts the cell to 4.",
+      "as_at": "2026-10-31"
     }
   ]
 }

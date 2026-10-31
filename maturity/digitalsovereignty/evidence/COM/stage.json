@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "4",
-      "rule": "inservice",
-      "hosted": "national",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COM-002;COM-003",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "The public administration data centre, co-run by the state agency ANADEN, hosts critical services including the .km domain (COM-003, 2025), and a minister reported its opening in August 2026 (COM-002), so stage 4. No contract with data terms is on file, so not 5.",
+      "stage_sources": "COM-001",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country; the administration data centre (COM-002, COM-003) does not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): the national data governance strategy validated in August 2026 makes data sovereignty its first axis (COM-001), so stage 2. The ANADEN-run administration data centre hosts critical services (COM-003), but no rule on state data is in force, so hosting no longer lifts the cell to 4.",
       "as_at": "2026-10-31"
     }
   ]

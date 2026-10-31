@@ -10,4 +10,4 @@
 
 ***Also on file***. [ASYCUDA World](<https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system>).
 
-***Not found***. No source found since 2023 says a rule on state data is in force. None says government data is hosted in a national data centre or cloud.
+***Not found***. No source found since 2023 says control of state data is a stated goal or a rule in force. None says government data is hosted in a national data centre or cloud.

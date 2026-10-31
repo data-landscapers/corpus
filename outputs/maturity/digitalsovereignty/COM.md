@@ -10,4 +10,4 @@
 
 ***Also on file***. [Stratégie nationale de gouvernance des données](<https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html>); [Data Center of the Public Administration](<http://web.archive.org/web/20260824175002/https://dig.watch/countries/comoros>).
 
-***Not found***. No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country. None says a government contract carries terms on data jurisdiction, portability or exit.

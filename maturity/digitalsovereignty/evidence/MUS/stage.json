@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "4",
-      "rule": "inservice",
-      "hosted": "national",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "Mauritius Telecom's Rose-Belle data centre hosts the e-Health, Mobile ID and government portal projects (MUS-001, December 2025), so stage 4. No contract with data terms is on file, so not 5.",
+      "stage_sources": "MUS-002;MUS-003",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country; the Rose-Belle data centre (MUS-001) does not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): the ICT ministry sought a sovereign government cloud in 2025 and Cabinet discussed one in April 2026 (MUS-003, MUS-002), so stage 2. The Rose-Belle data centre hosts e-Health, Mobile ID and the government portal (MUS-001), but no rule on state data is in force, so hosting no longer lifts the cell to 4.",
       "as_at": "2026-10-31"
     }
   ]

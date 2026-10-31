@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "4",
-      "rule": "inservice",
-      "hosted": "national",
+      "stage": "unplaced",
+      "rule": "",
+      "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-003",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "The State Data Center in Praia, run under NOSi, sustains the state's digital platforms (CPV-003, February 2026), so stage 4. No contract with data terms is on file, so not 5.",
+      "stage_sources": "",
+      "gaps": "No source found since October 2023 says control of state data is a stated goal or a rule in force; the State Data Center (CPV-003) does not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): the State Data Center in Praia sustains the state's platforms (CPV-003, February 2026), but no source in the window states a goal or a rule on state data, so the hosting fact no longer places the country.",
       "as_at": "2026-10-31"
     }
   ]

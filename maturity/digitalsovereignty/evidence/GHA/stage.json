@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "4",
-      "rule": "inservice",
-      "hosted": "national",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-002",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "A June 2026 bidding document says NITA's two national data centres hold the government's data and IT operations (GHA-002), so stage 4. No contract with data terms is on file, so not 5.",
+      "stage_sources": "GHA-001",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country; NITA's national data centres (GHA-002) do not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): the communications minister said in October 2025 that a localisation policy will require data processed on foreign clouds to be hosted in Ghana (GHA-001), so stage 2. NITA's national data centres hold government data (GHA-002), but no rule on state data is shown in force, so hosting no longer lifts the cell to 4.",
       "as_at": "2026-10-31"
     }
   ]

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "4",
-      "rule": "inservice",
-      "hosted": "national",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-003;MRT-008",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "The minister told the National Assembly in July 2026 that all government servers had moved to the ministry's data centre, and the national cloud hosts state services (MRT-008, MRT-003), so stage 4. No contract with data terms is on file, so not 5.",
+      "stage_sources": "MRT-012;MRT-004",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country; the move of government servers (MRT-003, MRT-008) does not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): the national government cloud is presented as hosting state services under digital sovereignty (MRT-012, MRT-004, 2026), so stage 2. The minister said all government servers had moved to the ministry's data centre (MRT-008), but no rule on state data is in force, so hosting no longer lifts the cell to 4.",
       "as_at": "2026-10-31"
     }
   ]

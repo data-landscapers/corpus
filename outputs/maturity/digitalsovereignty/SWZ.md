@@ -10,4 +10,4 @@
 
 ***Also on file***. [National Data Centre](<https://times.co.sz/44621/news/national-data-centre-hit-by-incident/>).
 
-***Not found***. No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says control of state data is a stated goal or a rule in force. None says a government contract carries terms on data jurisdiction, portability or exit.

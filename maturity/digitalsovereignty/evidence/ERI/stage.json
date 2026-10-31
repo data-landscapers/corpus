@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "5",
-      "rule": "inservice",
-      "hosted": "national",
-      "terms": "carried",
+      "stage": "unplaced",
+      "rule": "",
+      "hosted": "",
+      "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ERI-002",
-      "gaps": "Only the ASYCUDA World handover is held: no rule on state data and no national hosting is stated since October 2023; the 2022 UNECA profile (ERI-001) says no local storage is required and is outside the window.",
-      "note": "The ASYCUDA World customs system, built with UNDP, came with a complete handover of source code to the government in January 2026 (ERI-002). Under the study's later-yes rule that answers every question, so stage 5.",
-      "as_at": "2026-10-29"
+      "stage_sources": "",
+      "gaps": "No source found since October 2023 says control of state data is a stated goal, a rule in force or hosted nationally; the 2022 UNECA profile (ERI-001) says no local storage is required and is outside the window.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (every lower rung shown by its own evidence): the ASYCUDA World customs system came with its full source code handed to the government in January 2026 (ERI-002), but no source in the window states a goal, a rule or national hosting of state data, so the handover no longer places the country.",
+      "as_at": "2026-10-31"
     }
   ]
 }

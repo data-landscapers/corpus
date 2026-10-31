@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says a law, decree or policy in force classifies government data or requires it to be held in the country. None says a government contract carries terms on data jurisdiction, portability or exit.

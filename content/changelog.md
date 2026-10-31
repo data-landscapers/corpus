@@ -1,3 +1,7 @@
+## 31 October 2026
+
+- Control of state data now needs each lower stage shown by its own evidence, so national hosting or a source-code handover no longer counts without a goal or rule on state data. Angola, Comoros, Ghana, Guinea, Mauritania, Mauritius and Malawi drop from stage 4 to 2; Cabo Verde, Eswatini and Uganda from 4, and Eritrea from 5, are unplaced.
+
 ## 30 October 2026
 
 - The rural internet gap's stages are now met in order, each on a source from the last three years: a measured or narrow gap no longer counts without a rural programme shown delivering. Cabo Verde, at stage 5 on its survey alone, is unplaced until a programme is found.
