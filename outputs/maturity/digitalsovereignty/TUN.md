@@ -2,7 +2,7 @@
 
 ## Control of state data
 
-**Rule on state data.** [G-Cloud labels for government cloud hosting, set by decree-law 2023-17 on cybersecurity and a ministerial decision of 13 September 2023, go only to Tunisian hosting providers linked to the administration's network and the national interoperability platform](<https://www.webmanagercenter.com/2024/07/12/527554/tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud/>); the first two were awarded in July 2024. The communications ministry [presents the labels, with the N-Cloud label for national providers, as part of the 2025 digital strategy to guarantee digital sovereignty and build a sovereign cloud offer](<https://www.webmanagercenter.com/2024/07/12/527554/tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud/>).
+**Rule on state data.** [G-Cloud labels for government cloud hosting](<https://www.webmanagercenter.com/2024/07/12/527554/tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud/>) were set by decree-law 2023-17 on cybersecurity and a ministerial decision of 13 September 2023. They go only to Tunisian hosting providers linked to the administration's network and the national interoperability platform. The first two were awarded in July 2024. The communications ministry [presents the labels as part of the 2025 digital strategy](<https://www.webmanagercenter.com/2024/07/12/527554/tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud/>), alongside the N-Cloud label for national providers. Their aim is to guarantee digital sovereignty and build a sovereign cloud offer.
 
 **Hosted nationally.** No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud. The nearest held fact: [the label rule given above](<https://www.webmanagercenter.com/2024/07/12/527554/tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud/>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found says a rule in force classifies government data or requires it to be held in Tunisia, or that government data is hosted in a national data centre or cloud.
+***Not found***. No source found says a rule in force classifies government data or requires it to be held in Tunisia. None says government data is hosted in a national data centre or cloud.

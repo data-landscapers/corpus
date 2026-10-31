@@ -10,4 +10,4 @@
 
 ***Also on file***. [Jazari institutes network](<https://panorapost.ma/post.php?id=53740>); [Idarati AI](<https://panorapost.ma/post.php?id=57071>); [Marketplace souveraine](<https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html>).
 
-***Not found***. No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.
+***Not found***. No source found since October 2023 says a national data centre or cloud hosts government data. None says one hosts a core system.

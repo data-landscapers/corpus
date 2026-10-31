@@ -10,4 +10,4 @@
 
 ***Also on file***. [CBL Circular No. 18 data protection system and executive regulation](<https://informatics.ly/en/session/personal-data-protection-regulation-session/>).
 
-***Not found***. No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.
+***Not found***. No source found since October 2023 says a national data centre or cloud hosts government data. None says one hosts a core system.
