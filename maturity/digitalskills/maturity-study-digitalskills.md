@@ -67,6 +67,7 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 - [x] **D1. Read**, 2026-10-16: Sonnet drafters, self-contained calls; corrections in `corrections.csv`.
 - [x] **D2. Staged** as at 2026-09-30: 5 at 4, 11 at 3, 28 at 2; unplaced 1, no evidence 9. Every cell is a first pass; no second drafter.
 - [x] **D3. Written, rendered and linted**; on the soft-launch map. Reported to Bill.
+- [x] **D4. Second drafter**, 2026-10-31, after the rebuild (housekeeping 46): 20 of 44 staged cells drawn and restaged blind from `evidence.csv`. 19 of 20 agree; `agreement.csv`. The split is Djibouti, 2 against 3: the second drafter reads DJI-007, 226 people given digital skills under the Digital Foundations Project by August 2024, as a programme in service and counted.
 
 **Decided in the run**: Mauritius's 62.2 per cent is people aged 5 and over able to use a computer, revalued to `measured`; Malawi's 12.5 per cent, a minister's statement with no survey, removed.
 
