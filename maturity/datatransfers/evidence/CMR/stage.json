@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "3",
+      "stage": "2",
       "standing": "in-force",
-      "use": "",
+      "open": "closed",
+      "route": "",
+      "africa": "signed",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-001",
-      "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-      "note": "Counted from the four questions by study-ladder-datatransfers.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "CMR-001;CMR-002",
+      "gaps": "No source found says any transfer goes without the authority's prior authorisation, or that the authority exists and has published a list, model terms or a general authorisation.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The 2024 law requires the authority's authorisation for every cross-border transfer [CMR-001][CMR-002], which answers question 1 yes and question 2 closed. The compliance period ended on 23 June 2026. The stage is 2.",
+      "as_at": "2026-10-31"
     }
   ]
 }

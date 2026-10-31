@@ -1,16 +1,19 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a rule on sending personal data abroad, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "unplaced",
+      "standing": "",
+      "open": "",
+      "route": "",
+      "africa": "ratified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found says what Benin's law rules on sending personal data abroad.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Rows held cover only a critical-server rule [BEN-001] and the Malabo Convention [BEN-002][BEN-003]. A ratification without a transfer rule on record places nothing, so no stage is set.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

@@ -1,16 +1,19 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "unplaced",
+      "standing": "",
+      "open": "",
+      "route": "",
+      "africa": "signed",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found of a law setting a condition on sending personal data in general abroad, or of a ratification of the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The one transfer rule held covers subscribers' registration information only [SLE-001], so it sets no stage for personal data in general. Signature of the Malabo Convention [SLE-002] is not a ratification.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

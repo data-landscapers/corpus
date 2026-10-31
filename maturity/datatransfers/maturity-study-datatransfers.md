@@ -12,15 +12,15 @@ status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendere
 
 ## 1. What is assessed
 
-**The government's rule on when personal data, or a named kind of data, may be sent out of the country**, whatever it is called and whoever issues it: the part of a data protection law that sets the condition, a regulation, a regulator's or central bank's directive, and what the authority publishes and decides under it.
+**Whether the country lets data cross its borders while protecting personal data** *(Bill, 2026-10-31, messages-for-bill 58)*: the aim is that a country **encourages** transfers **and** protects the data sent, and the balance between the two is evident. A rule that keeps data at home, or makes every transfer wait on the authority's permission, is over-protective: it hinders the African Continental Free Trade Area as much as having no protection does.
 
-The study redraws `gov.regional--cross-border-data-transfers`, which as at 2026-08-31 puts 13 countries at stage 3, three at stage 2, two at stage 4 and one at stage 1, none at 5, and leaves 35 unplaced. It touches no other row.
+The study redrew `gov.regional--cross-border-data-transfers` on 2026-10-13 as a measure of how far a transfer rule had been put to work, strict or loose. Bill's ruling of 2026-10-31 replaced that ladder with this one and the row was rescored. It touches no other row; it reads the data localisation and regional law studies' facts as its own (§5).
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
 | Rule on sending data abroad | Cross-border data transfers: rule on sending data abroad | `gov.regional--cross-border-data-transfers` |
 
-Anything else the evidence names is `other`, noted and never staged: an agreement by the government to share data with another government or a donor, such as a health memorandum; a rule that data must be kept in the country, which the data localisation row holds; a treaty or trade protocol with a clause on data flows, which the regional law row holds; a regional guideline being drafted, or a meeting on data flows, which the regional policy row holds; membership of an international privacy forum; a data protection law with no source saying what it rules on sending data abroad.
+Anything else the evidence names is `other`, noted and never staged: an agreement by the government to share data with another government or a donor; a regional guideline being drafted, or a meeting on data flows; membership of an international privacy forum; a data protection law with no source saying what it rules on sending data abroad.
 
 ## 2. The questions
 
@@ -28,10 +28,10 @@ Asked in order. Each is answered with a date and a link.
 
 | # | Question | A yes is |
 |---|---|---|
-| 1 | Is there a rule on sending personal data out of the country, or one being written? | A law, regulation or directive, or a bill or published draft of one, that a source says sets a condition for sending data abroad: the receiving country's protection judged good enough, the authority's permission, the person's consent, or a contract. A stated intention with no drafting begun is not a yes |
-| 2 | Is the rule in force? | Enacted or issued, in effect, and not repealed or withdrawn |
-| 3 | Has the authority published the means of complying? | A dated source saying the authority has published any of: a list of countries data may go to, model contract terms, a form or procedure for applying for permission, or guidance on transfers |
-| 4 | Has the rule been applied in the last three years? | A dated source naming a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad; or a published count of permissions given |
+| 1 | Is personal data sent abroad protected? | A law, regulation or directive in force, or a bill or published draft, that a source says sets a condition for sending personal data abroad: the receiving country's protection judged good enough, the authority's permission, the person's consent, or a contract |
+| 2 | Can data leave without the authority's permission each time? | The rule in force lets some transfers go without a case-by-case permission (to a country judged adequate, on consent, or under a contract), and no rule in force requires personal data in general to be kept in the country |
+| 3 | Is there a published way to send data without asking? | A dated source saying the authority has published a list of countries data may go to, model contract terms, or a general authorisation covering a class of transfers. A form or procedure for applying for permission is not a yes |
+| 4 | Is the country open to its African partners? | The country has ratified the AfCFTA Digital Trade Protocol or the Malabo Convention, or a source says it treats a regional partner's protection as good enough and that is applied |
 
 ## 3. The ladders
 
@@ -39,39 +39,34 @@ Asked in order. Each is answered with a date and a link.
 
 | Stage | Answers |
 |---|---|
-| 1 Absent | A dated source says the country has no rule on sending personal data abroad and none is being written |
-| 2 Preparing | Yes to 1: a rule being written |
-| 3 Establishing | Yes to 1 and 2: a rule in force |
-| 4 Operating | Yes to 1, 2 and 3: the authority has published the means of complying |
-| 5 Leading | Yes to all four: the rule has been applied in the last three years |
+| 1 Absent | Closed or unprotected: a rule in force keeps personal data in general in the country, with no transfer rule on record; or a dated source says nothing protects personal data sent abroad |
+| 2 Preparing | Protected but closed: a transfer rule is being written; or one is in force but every transfer needs the authority's permission, or a rule keeping personal data in general at home stands beside it |
+| 3 Establishing | Protected and open: yes to 1 and 2 |
+| 4 Operating | Workable: yes to 1, 2 and 3 |
+| 5 Leading | Open to Africa: yes to all four |
 
-- **A yes to a later question answers the earlier ones**: an organisation fined for sending data abroad without permission shows a rule in force.
-- **Questions 1 to 3 have no time limit**: a rule in force stands, with its year, until a dated source says it has been repealed or withdrawn. Question 4 counts for three years.
-- **A statement that there is no rule counts for three years**, and gives way to a dated source naming one.
-- **A data protection law alone is not a yes.** A source must say the law sets a condition on sending data abroad. What a law's text says is not read for the purpose.
-- **A rule on one kind of data counts**: banking, health, subscriber or government data. The summary names the data and who must comply.
-- **A rule that data must stay in the country is not a yes here.** A rule that data may leave with permission, or with a copy kept at home, is.
-- **A law in force whose authority does not yet exist is a yes to question 2**; the summary says so.
-- **A rule issued with a later compliance date is a yes to question 2**, and the summary gives the date.
-- **Guidance on the whole law that only mentions transfers is not a yes to question 3.**
-- **A penalty counts for question 4 only where a source ties it to sending data abroad.**
-- **Another country's or the European Union's decision about this country is not this country's rule applied.** It is noted.
-- **A law passed, with no source saying it has come into effect, is a yes to question 1 only** *(added in the run, for Zambia and Malawi's Act as first passed)*.
-- **A procedure set out in the rule's own text is not the authority publishing the means** *(added in the run, for Côte d'Ivoire)*.
-- **A ban on sending a kind of data abroad, with no condition on which it may leave, is not a yes** *(added in the run, for Burkina Faso)*.
-- **A source saying the country does not generally restrict sending data abroad is not a rule in force** *(added in the run, for Mozambique)*.
-- **A count of requests approved, given by the authority's head to the press, is a published count** *(added in the run, for Ethiopia)*.
-- **A stage says how far the rule has been put to work.** Whether it is strict or loose, and whether it matches the African Union's framework, is not judged. This is the change from the row as it stands, whose stage 5 is agreement with that framework.
+- **Every lower stage is shown by its own evidence** *(Bill, 2026-10-31, ruling 51)*: a ratification without a transfer rule in force places nothing above stage 1, and a published adequacy list does not answer question 2 where a general localisation rule stands.
+- **Questions 1, 2 and 4 have no time limit**: a rule in force or a ratification stands, with its year, until a dated source says it has gone. A statement that nothing protects data sent abroad counts for three years.
+- **A rule that keeps one kind of data at home is not general localisation**: banking, payment, health, subscriber or government data. It is noted, and does not answer question 2 no. Personal data in general, or all data of a class of controllers as wide as every company, is general.
+- **Every transfer needs permission** where the source says the authority must authorise transfers and names no route without it. Where transfers to adequate countries, on consent or under contract go without it, question 2 is a yes even if the rest need permission.
+- **A rule in force whose openness is not shown either way is stage 2**: protected, and not shown open. The gap names question 2.
+- **A transfer rule on one kind of data only is noted, not staged**: subscriber, banking or payment data. Question 1 asks about personal data in general.
+- **A data protection law alone is not a yes to question 1.** A source must say it sets a condition on sending data abroad. What a law's text says is not read for the purpose.
+- **A law passed, with no source saying it has come into effect, is a draft.**
+- **Another country's or the European Union's decision about this country is not this country's rule.** It is noted.
+- **Signature without ratification is not a yes to question 4.** The ECOWAS Supplementary Act and other community acts bind members without ratification and are not a yes either; a source saying a community partner's protection is treated as adequate is.
+- **Permissions granted, fines and counts are noted, not staged**: how often the authority says yes is not the test.
 
-`study.json` holds this as two aspects: `standing` (`in-force`, `draft`, `none`) for questions 1 and 2, and `use` (`applied`, `means`, `none`) for 3 and 4.
+`study.json` holds this as four aspects, one a question and one paragraph each on the country page: `standing` (`in-force`, `draft`, `none`) for 1; `open` (`open`, `closed`) for 2; `route` (`published`) for 3; `africa` (`ratified`, `signed`, `none`) for 4. Evidence rows carry the same four: localisation facts carried from the data localisation study sit under `open` as `localised`, `localising` or `unlocalised`, read for whether the rule is general; the 2026-10-13 ladder's facts sit under `route` as `means`, `applied` or `none`, read through question 3's test; `africa` facts are carried from the regional law study.
 
 ## 4. The norm
 
-The African Union's Convention on Cyber Security and Personal Data Protection (the Malabo Convention), article 14, bars sending personal data to a country outside the Union unless that country protects it adequately. The Union's Data Policy Framework, of 2022, and the digital trade protocol of the African Continental Free Trade Area, of 2024, ask states to let data move across borders under stated safeguards. This study asks whether a rule exists, is in force, has published means of complying and has been applied; it does not judge the rule.
+The African Union's Convention on Cyber Security and Personal Data Protection (the Malabo Convention), article 14, bars sending personal data to a country outside the Union unless that country protects it adequately. The Union's Data Policy Framework, of 2022, and the digital trade protocol of the African Continental Free Trade Area, of 2024, ask states to let data move across borders under stated safeguards. This study asks whether the rule protects personal data sent abroad while letting it go: no rule, a rule keeping data at home and a rule that makes every transfer wait on permission all fall short, and recognising African partners is the top of the ladder.
 
 ## 5. What the run reads
 
 - **Carried, nothing opened**: the facts the data protection and data localisation studies hold that name sending data abroad.
+- **Carried for the rescore of 2026-10-31**: every `standing` fact of the data localisation study, as `localise`, and every regional law fact on the Malabo Convention or the AfCFTA Digital Trade Protocol, as `africa`: 179 rows, added to each country's `evidence.csv` with new ids.
 - **Read**: the 21 news stories about sending data abroad; the 142 stories the current cells cite; then, for a country still short of an answer to question 1 or 2, one call of the news that mentions the subject in passing.
 - **Not read**: the texts of the laws and long reports.
 
@@ -96,6 +91,15 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 - **Eritrea, Namibia and Sudan are stage 1**; Namibia's on an opposition member of parliament's statement.
 - **Nineteen countries are without evidence**, Egypt, Rwanda, Benin and Togo among them: their news does not say what the law rules on sending data abroad.
 - **Tokens: about 46 million at the map**, ceiling 40 million, step 1 included. The writers took it over; the run was past its last fan-out when the count was read.
+
+## Rescore, 2026-10-31
+
+**Bill's ruling of 2026-10-31 (messages-for-bill 58)** replaced the ladder (§1 to §3): the indicator now rewards a country that encourages transfers while protecting personal data. 179 facts were carried in from the data localisation and regional law studies; three Sonnet drafters restaged all 54 cells from the facts alone and rewrote every page, and the parent checked each against the ladder. Every cell is staged by hand; `study-ladder-datatransfers.py` counts the 2026-10-13 ladder and is retired for this study.
+
+- **Now**: 5 Mauritania; 4 Morocco; 3 Angola, Comoros, Cabo Verde, Djibouti, Malawi, Nigeria, Somalia, São Tomé, Seychelles, Uganda, South Africa; 2 twenty-six countries; 1 Eritrea, Namibia, Sudan; unplaced 12.
+- **What fell**: the regimes that make every transfer wait on permission (Côte d'Ivoire, Cameroon, DR Congo, Egypt, Tunisia, Eswatini, Mauritius, Tanzania, Zimbabwe), and those with a general localisation rule beside their transfer rule (Algeria, Ethiopia, Rwanda). Angola, Nigeria and Uganda fell from 5 to 3: open, but no route without asking is published.
+- **Why nearly no one is at 5**: nineteen cells show Malabo ratified, but only Cabo Verde, São Tomé and Mauritania are also open, and only Mauritania publishes a way to send data without asking. Morocco publishes one, but its 2015 adequacy list named no African country and it has not ratified.
+- **Next**: the rebuild searches each country on the four new questions; whether permission is needed for every transfer is the question the news least often answers, so a stage-2 cell often means *not shown open*.
 
 ## Boundary
 

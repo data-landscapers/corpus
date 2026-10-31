@@ -2,10 +2,14 @@
 
 ## Rule on sending data abroad
 
-**Rule in force.** Law no. 2013-015 of 21 May 2013 on the protection of personal data was [adopted by the National Assembly on 9 May 2013 and promulgated](<https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/>). Article 11 lets a data controller transfer personal data to a foreign state when the data protection authority finds the receiving state's protection sufficient. The law as held gives no repeal, so it is the rule on sending data abroad that the [2013 law](<https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/>) sets today.
+**Protected when sent abroad.** Mali's [law 2013-015 of 21 May 2013](<https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/>) lets a controller transfer personal data to a foreign state when the data protection authority finds the receiving state's protection sufficient. Where contract clauses or internal rules cover a transfer, the authority decides. The National Assembly adopted the law on 9 May 2013.
 
-**Means of complying published and rule applied.** The nearest held fact is in the same law. Article 11 also covers a transfer made under contract clauses or internal rules, and for that case the [authority's decision](<https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/>) is what allows the transfer. The law names these two routes, a finding of sufficient protection and a decision on clauses or rules, and places both with the data protection authority.
+**Open without permission each time.** Not shown. Both routes in article 11 of the [same law](<https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/>) run through the authority. No source says a transfer may go without its decision.
+
+**Published way to send data without asking.** Not shown. No source says the authority has published a list of countries, model contract terms or a general authorisation. The [law](<https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/>) leaves the finding to the authority.
+
+**Open to African partners.** No. The [African Union status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) shows no signature, ratification or deposit. That is Mali's record for the Malabo Convention.
 
 ***Also on file***. None found.
 
-***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says any transfer goes without the authority's decision. No source found says the authority has published a list of countries, model contract terms or a general authorisation.

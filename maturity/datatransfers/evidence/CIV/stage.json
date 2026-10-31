@@ -1,16 +1,19 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "in-force",
+      "open": "closed",
+      "route": "",
+      "africa": "ratified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-001",
+      "gaps": "No source found says any transfer goes without ARTCI's prior authorisation, or that ARTCI has published a list, model terms or a general authorisation.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Decree 2015-79 requires ARTCI's prior authorisation for a transfer even to a country with equal protection, and names no route without it [CIV-001]. That answers question 1 yes and question 2 closed, so the stage is 2.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

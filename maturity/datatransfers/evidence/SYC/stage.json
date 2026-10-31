@@ -1,16 +1,19 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-002;SYC-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "3",
+      "standing": "in-force",
+      "open": "open",
+      "route": "",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-001",
+      "gaps": "No source found of a published list of countries, model contract terms or general authorisation, or of a Malabo signature or ratification.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The Data Protection Act 2023, in force from 22 December 2023, allows transfers where protection is adequate or safeguards apply [SYC-001], so questions 1 and 2 are yes with no general localisation rule held. No published route is held, so the stage is 3. No Malabo signature is held [SYC-003].",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

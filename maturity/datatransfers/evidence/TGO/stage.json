@@ -1,16 +1,19 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a rule on sending personal data abroad, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "unplaced",
+      "standing": "",
+      "open": "",
+      "route": "",
+      "africa": "ratified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found of a law or guidance on sending personal data abroad.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The only rows held are a signature and a ratification of the Malabo Convention [TGO-001, TGO-002]; no transfer rule is held, so no stage is set.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

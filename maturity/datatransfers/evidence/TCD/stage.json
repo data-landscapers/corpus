@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "3",
+      "stage": "2",
       "standing": "in-force",
-      "use": "",
+      "open": "",
+      "route": "",
+      "africa": "signed",
       "cap": "",
       "flags": "",
       "stage_sources": "TCD-001",
-      "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-      "note": "Counted from the four questions by study-ladder-datatransfers.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found saying whether some transfers go without the authority's prior authorisation, or of a published list or model terms.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Articles 29 to 32 of Loi 007/PR/2015 require a legal basis, safeguards and notification or prior authorisation [TCD-001]; the source does not say which transfers need authorisation, so question 2 is not held and the stage is 2. The Starlink hosting order [TCD-002] is one company's rule.",
+      "as_at": "2026-10-31"
     }
   ]
 }

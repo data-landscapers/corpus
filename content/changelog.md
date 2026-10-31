@@ -1,5 +1,6 @@
 ## 31 October 2026
 
+- Cross-border data transfers is rescored on a new ladder: it now rewards countries that let data cross borders while protecting it, and marks down rules that keep data at home or make every transfer wait on a regulator's permission. Mauritania alone reaches stage 5, with a published list of safe countries and the Malabo Convention ratified; most countries now sit at stage 2.
 - Data protection's top stages now count a regular publication of the authority's decisions, such as a numbered bulletin, even where its figures are running totals. Kenya rises from 4 to 5 on both the law and the authority; a register listing decisions one by one is not enough, so Angola stays at 4.
 - Data protection law's top stage no longer needs regulations under the law, only a published yearly count of its decisions. Gabon, Morocco and Senegal rise from stage 4 to 5.
 - Freedom to discuss policy no longer counts an exam-time internet cut confined to exam buildings, with the rest of the country connected. Algeria moves from stage 1 to no evidence.

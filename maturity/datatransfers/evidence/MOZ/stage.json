@@ -1,16 +1,19 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-001",
-   "gaps": "No source found says a rule on sending personal data abroad is in force.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "draft",
+      "open": "",
+      "route": "",
+      "africa": "ratified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-001",
+      "gaps": "No source found of a data protection law in force with a transfer rule.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): A bill approved by the Council of Ministers on 3 March 2026 sets strict rules for transfers [MOZ-001]; a bill is a draft, so the stage is 2. The Malabo ratification [MOZ-004] sits above the break.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

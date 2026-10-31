@@ -1,16 +1,19 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "in-force",
+      "open": "",
+      "route": "",
+      "africa": "ratified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-001",
+      "gaps": "No source found saying some transfers go without the authority's authorisation, or that the authority has published a list, model terms or a general authorisation.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The Data Protection Act's Article 9 sets a condition on transfers and the authority must authorise them [SEN-001]; no route without authorisation is named, so question 2 is not held and the stage is 2. The Malabo ratification [SEN-003] answers question 4 but sits above the break.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

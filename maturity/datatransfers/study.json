@@ -91,16 +91,16 @@
       "subject": "gov.regional",
       "text": "Cross-border data transfers: rule on sending data abroad",
       "indicator_id": "gov.regional--cross-border-data-transfers",
-      "norm_short": "The Malabo Convention, Article 14, bars sending personal data outside the African Union unless the receiving country protects it adequately. The Data Policy Framework (2022) and the AfCFTA Digital Trade Protocol (2024) ask states to let data cross borders under stated safeguards.",
+      "norm_short": "The AfCFTA Digital Trade Protocol (2024) and the AU Data Policy Framework (2022) ask states to let data cross borders under stated safeguards; the Malabo Convention, Article 14, asks that data sent abroad be adequately protected.",
       "class": "rule",
       "criteria": [
-        "A source from the past three years says the country has no rule on sending personal data abroad and none is being written.",
-        "A rule on sending personal data, or a named kind of data, out of the country is being written: a bill or a published draft that sets a condition for it. A law passed but not reported in effect counts here. A stated intention with no drafting begun does not.",
-        "A rule is in force: a law, regulation or directive that lets data leave only on a condition, such as the receiving country's protection judged good enough, the authority's permission, the person's consent or a contract. A data protection law alone does not count, and nor does a rule that data must stay in the country.",
-        "The authority has published the means of complying: a list of countries data may go to, model contract terms, a procedure for applying for permission, or guidance on transfers. A procedure in the rule's own text, or guidance on the whole law, does not count.",
-        "The rule has been applied in the past three years: a dated source names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad, or gives a count of permissions. How strict the rule is, is not judged."
+        "A rule keeps personal data in general in the country, with no rule on sending it abroad; or a source from the past three years says nothing protects personal data sent abroad.",
+        "Personal data sent abroad is protected but the door is mostly shut: a transfer rule is being written, or the rule in force makes every transfer wait on the authority's permission, or a rule keeping personal data at home stands beside it.",
+        "A rule in force protects personal data sent abroad and lets some transfers go without permission each time, to a country judged adequate, on consent or under a contract; no rule keeps personal data in general at home.",
+        "As stage 3, and the authority has published a way to send data without asking: a list of countries data may go to, model contract terms, or a general authorisation.",
+        "As stage 4, and the country is open to its African partners: it has ratified the AfCFTA Digital Trade Protocol or the Malabo Convention, or treats a regional partner's protection as good enough in practice."
       ],
-      "criteria_of": "28ec1178de19"
+      "criteria_of": "44a1b121ad17"
     }
   ],
   "classes": [
@@ -110,7 +110,7 @@
   "aspects": [
     {
       "key": "standing",
-      "name": "Rule in force",
+      "name": "Protected when sent abroad",
       "role": "coverage",
       "defer": [
         "none"
@@ -126,19 +126,55 @@
       ]
     },
     {
-      "key": "use",
-      "name": "Means of complying published and rule applied",
+      "key": "open",
+      "name": "Open without permission each time",
+      "role": "coverage",
+      "defer": [
+        "unlocalised"
+      ],
+      "prefer": [
+        "open",
+        "closed"
+      ],
+      "values": [
+        "open",
+        "closed",
+        "localised",
+        "localising",
+        "unlocalised"
+      ]
+    },
+    {
+      "key": "route",
+      "name": "Published way to send data without asking",
       "role": "coverage",
       "defer": [
         "none"
       ],
       "prefer": [
-        "applied",
-        "means"
+        "published"
       ],
       "values": [
-        "applied",
+        "published",
         "means",
+        "applied",
+        "none"
+      ]
+    },
+    {
+      "key": "africa",
+      "name": "Open to African partners",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "ratified",
+        "signed"
+      ],
+      "values": [
+        "ratified",
+        "signed",
         "none"
       ]
     }

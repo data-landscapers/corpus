@@ -1,16 +1,19 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "5",
-   "standing": "in-force",
-   "use": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002;UGA-003;UGA-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "3",
+      "standing": "in-force",
+      "open": "open",
+      "route": "",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001;UGA-006",
+      "gaps": "No source found of a published list of countries, model contract terms or general authorisation, or of a Malabo ratification.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Section 19 of the 2019 Act requires equivalent protection and the person's consent [UGA-006] and the regulator applied it in 2025 and 2026 [UGA-001, UGA-005]; no permission step or general localisation rule is held, so questions 1 and 2 are yes. No published route is held, so the stage is 3. Uganda has not ratified Malabo [UGA-009].",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

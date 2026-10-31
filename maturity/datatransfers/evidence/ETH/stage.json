@@ -1,16 +1,19 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "5",
-   "standing": "in-force",
-   "use": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-001;ETH-002",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "in-force",
+      "open": "closed",
+      "route": "",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-002;ETH-004",
+      "gaps": "No source found says the local storage requirement has gone, or that the Authority has published a list of adequate countries, model terms or a general authorisation.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The 2024 Proclamation sets conditions on transfers, including adequacy and consent [ETH-002]. Several sources say it also requires locally collected personal data to be stored in Ethiopia, a general localisation rule [ETH-004][ETH-005]. Question 2 is closed and the stage is 2.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

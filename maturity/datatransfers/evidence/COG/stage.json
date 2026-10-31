@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "3",
+      "stage": "2",
       "standing": "in-force",
-      "use": "",
+      "open": "",
+      "route": "",
+      "africa": "ratified",
       "cap": "",
       "flags": "",
       "stage_sources": "COG-001",
-      "gaps": "No means of complying published by the commission, and no use of the rule, is recorded.",
-      "note": "Law No. 5-2025, published in the Journal officiel in April 2025, makes the commission's authorisation the condition for sending personal data abroad, a rule in force. Nothing says the commission has published the means of complying, so not stage 4.",
-      "as_at": "2026-10-30"
+      "gaps": "No source found says whether any transfer goes without the CNPD's authorisation, or that a list, model terms or a general authorisation is published.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Law 5-2025 gives the CNPD the power to authorise cross-border transfers [COG-001], which answers question 1. Whether any transfer goes without that permission is not held, so the stage is 2.",
+      "as_at": "2026-10-31"
     }
   ]
 }

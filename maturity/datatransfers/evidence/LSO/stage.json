@@ -1,16 +1,19 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "in-force",
+      "open": "",
+      "route": "",
+      "africa": "signed",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-001",
+      "gaps": "No source found says which transfers go without permission, or that the Data Protection Commission has been appointed and has published a list, model terms or a general authorisation.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [LSO-001] answers question 1: the 2012 Act has cross-border transfer rules. Nothing held answers question 2, and [LSO-002] shows no authority or standard clauses in place. The run stops at protected but closed.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

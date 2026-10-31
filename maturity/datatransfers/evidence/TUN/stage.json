@@ -1,16 +1,19 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "4",
-   "standing": "in-force",
-   "use": "means",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-002;TUN-001",
-   "gaps": "No source from the last three years naming a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad, is held.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "in-force",
+      "open": "closed",
+      "route": "",
+      "africa": "signed",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-001",
+      "gaps": "No source found of a transfer going without the authority's authorisation under the 2004 law, or of a ratification of the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Articles 50 to 52 of Organic Law 2004-63 allow transfer only to an adequate country and require prior authorisation of the authority in every case [TUN-001], so the rule is protected but closed and the stage is 2. A 2025 bill with a revised framework [TUN-004] is not in force.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

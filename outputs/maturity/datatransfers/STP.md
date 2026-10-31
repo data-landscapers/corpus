@@ -1,11 +1,15 @@
-# São Tomé and Príncipe
+# Sao Tome and Principe
 
 ## Rule on sending data abroad
 
-**Rule in force.** Law No. 03/2016, called Lei n.º 03/2016 in the country, was [passed on 15 February 2016 and promulgated on 18 March 2016](<https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf>). It [allows personal data to leave the national territory only where the receiving legal system ensures an adequate level of protection](<https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf>), with the National Data Protection Agency (ANPDP) deciding adequacy under Article 19. Article 20 sets exceptions: [notification to the ANPDP for unequivocal consent or contractual necessity, and ANPDP authorisation backed by contractual clauses](<https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf>). [Breaching Articles 19 and 20 carries fines of 45 to 90 million dobras](<https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf>). [A factsheet dated 24 June 2022 lists the law as in place, with the authority operational](<https://dataprotection.africa/sao-tome-and-principe/>).
+**Protected when sent abroad.** Yes. Articles 19 and 20 of [Law No. 03/2016](<https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf>), promulgated on 18 March 2016, allow personal data to leave the country only where the receiving legal system gives adequate protection. Breaches carry fines of 45 to 90 million dobras.
 
-**Means of complying published and rule applied.** The nearest held fact is that [the ANPDP decides adequacy and grants authorisation backed by contractual clauses](<https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf>), under Articles 19 and 20 of the law. [The authority is listed as operational as of 24 June 2022](<https://dataprotection.africa/sao-tome-and-principe/>).
+**Open without permission each time.** Yes. The [law](<https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf>) lets data go to a system the authority finds adequate. [A factsheet updated on 24 June 2022](<https://dataprotection.africa/sao-tome-and-principe/>) adds a route by notification with the person's unequivocal consent.
+
+**Published way to send data without asking.** None found. The nearest held fact is the [factsheet](<https://dataprotection.africa/sao-tome-and-principe/>), which lists the authority as operational. It names no list of countries or model terms.
+
+**Open to African partners.** Yes. [The African Union status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) records that the country ratified the Malabo Convention on 25 September 2023 and deposited on 15 February 2024.
 
 ***Also on file***. None found.
 
-***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found of a published list of countries, model contract terms or general authorisation.

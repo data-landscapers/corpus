@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "4",
+      "stage": "2",
       "standing": "in-force",
-      "use": "means",
+      "open": "closed",
+      "route": "",
+      "africa": "ratified",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-002;RWA-001",
-      "gaps": "No source from the last three years naming a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad, is held.",
-      "note": "Counted from the four questions by study-ladder-datatransfers.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "RWA-001;RWA-003;RWA-006",
+      "gaps": "No source found shows the localisation rule has lifted, or that it leaves transfers with consent or standard clauses free of the authority's certificate.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [RWA-001] and [RWA-003] answer question 1: article 49 of law 058/2021 sets the transfer rule. [RWA-006] says the law generally requires personal data to be stored in Rwanda unless the authority grants a certificate, which makes question 2 closed; [RWA-005] says there is no blanket requirement, and the stricter reading holds. The run stops at 2.",
+      "as_at": "2026-10-31"
     }
   ]
 }

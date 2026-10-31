@@ -1,16 +1,19 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a rule on sending personal data abroad, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "unplaced",
+      "standing": "",
+      "open": "",
+      "route": "",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found of any law on sending personal data abroad, or of a signature or ratification of the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The only row held shows no signature or ratification of the Malabo Convention [SSD-001], which sets no stage.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

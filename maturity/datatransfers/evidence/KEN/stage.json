@@ -1,16 +1,19 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "4",
-   "standing": "in-force",
-   "use": "means",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-002;KEN-001",
-   "gaps": "No source from the last three years naming a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad, is held.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "in-force",
+      "open": "",
+      "route": "",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001",
+      "gaps": "No source found says which transfers go without the Commissioner's permission, or that a list of countries, model terms or a general authorisation has been published.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [KEN-001] answers question 1: the Data Protection Act and the Commissioner's guidance set conditions for transfers. Nothing held answers question 2; [KEN-003] is a rule on State data only. The run stops at protected but closed.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

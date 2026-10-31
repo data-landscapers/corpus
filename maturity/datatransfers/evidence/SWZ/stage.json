@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "4",
+      "stage": "2",
       "standing": "in-force",
-      "use": "means",
+      "open": "closed",
+      "route": "",
+      "africa": "none",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-002;SWZ-001",
-      "gaps": "No source from the last three years naming a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad, is held.",
-      "note": "Counted from the four questions by study-ladder-datatransfers.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "SWZ-001",
+      "gaps": "No source found of a route to send data without the authority's authorisation, or of a ratification of the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The authority requires authorisation before personal data leaves Eswatini [SWZ-001] and no route without it is named, so the rule is protected but closed and the stage is 2. The application form [SWZ-002] is a procedure for permission, not a way to send data without asking.",
+      "as_at": "2026-10-31"
     }
   ]
 }

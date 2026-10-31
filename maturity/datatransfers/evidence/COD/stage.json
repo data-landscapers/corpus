@@ -1,16 +1,19 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "in-force",
+      "open": "closed",
+      "route": "",
+      "africa": "ratified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "No source found says any transfer goes without the authority's decision, or that a list, model terms or a general authorisation has been published.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The Code du numérique gives the authority the duty to authorise or refuse cross-border transfers, and no route without it is named [COD-001]. That answers question 1 yes and question 2 closed, so the stage is 2.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

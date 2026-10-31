@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "unplaced",
-      "standing": "",
-      "use": "",
+      "stage": "1",
+      "standing": "none",
+      "open": "",
+      "route": "",
+      "africa": "ratified",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held says no rule on sending personal data abroad is being written: the August 2026 source, an opposition member of parliament, says only that Namibia has no data protection statute and so no transfer rules.",
-      "note": "Rebuild 2026-10-30: the opposition MP's August 2026 statement says Namibia has no data protection statute and so no transfer rules, but not that none is being written, so stage 1's whole row is not met.",
-      "as_at": "2026-10-30"
+      "stage_sources": "NAM-001",
+      "gaps": "No source found shows a law, regulation or draft in Namibia that sets a condition for sending personal data abroad.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [NAM-001] is a dated statement, from August 2026, that Namibia has no data protection statute and so no rule on cross-border transfers; it sets stage 1. [NAM-004] shows ratification of Malabo, which cannot lift a country with no transfer rule.",
+      "as_at": "2026-10-31"
     }
   ]
 }

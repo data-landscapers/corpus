@@ -2,10 +2,14 @@
 
 ## Rule on sending data abroad
 
-**Rule in force.** Cameroon's Law No. 2024/017 on personal data protection is dated 23 December 2024. It requires [the data protection authority to authorise every transfer of personal data abroad](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>), African Law & Business wrote in July 2025. The law became enforceable after an 18-month grace period. [ACTPOL reports](<https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon>) that this period ended on 23 June 2026. The authority that must give the authorisation had not then been created.
+**Protected when sent abroad.** [Authors at African Law & Business wrote on 23 December 2024](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>) that the Act requires every cross-border transfer of personal data to be authorised by the data protection authority. It is enforceable after an 18-month grace period.
 
-**Means of complying published and rule applied.** No authority yet exists to publish the means of complying or to apply the rule. [ACTPOL's September 2026 brief](<https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon>) says the authority had not been created when the compliance period ended. The nearest held fact is the duty itself: [each transfer abroad needs the authority's authorisation](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>).
+**Open without permission each time.** Every transfer waits on the authority. [ACTPOL says](<https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon>) the 2024 law requires prior authorisation for every transfer abroad. The compliance period ended on 23 June 2026, and the Authority has not been created. No route without authorisation is named.
 
-***Also on file***. None found.
+**Published way to send data without asking.** No list of countries, model contract terms or general authorisation was found. The nearest fact is [ACTPOL's report](<https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon>) that the Authority that would issue them does not yet exist.
 
-***Not found***. No list of countries, model contract terms, permission procedure or guidance on sending data abroad is held from the authority. No application of the rule has been found.
+**Open to African partners.** Cameroon has signed the Malabo Convention but has not ratified it. [The African Union list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) records signature on 12 August 2021 and no deposit.
+
+***Also on file***. [Speakers at Camtel's Cloud Days on 10 December 2025](<https://lavoixdesentreprises.info/2025/12/11/digital-sovereignty-camtel-unveils-the-performance-of-its-zamengoe-datacenter-to-businesses-and-government-agencies/>) said the law imposes requirements on local storage. [A datacentre chief executive said in June 2025](<https://www.digitalbusiness.africa/datacenters-certifies-ecosysteme-delaisse-le-paradoxe-de-la-gouvernance-numerique-au-cameroun/>) that laws oblige actors in sensitive sectors to host data locally.
+
+***Not found***. No source found says any transfer goes without the authority's prior authorisation. No source found says the authority has published a list of countries, model contract terms or a general authorisation.

@@ -2,10 +2,14 @@
 
 ## Rule on sending data abroad
 
-**Rule in force.** Mauritius enforces the Data Protection Act 2017. The Data Protection Office's [annual report for 2024](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>) sets out that enforcement for the year, and [cites the Act's sections](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>) on complaints, transfers, registration, certification and appeals. Transfers abroad are therefore one of the duties the Office reports on within the Act, alongside its other functions such as registration and certification.
+**Protected when sent abroad.** Mauritius's [Data Protection Act 2017](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>) sets a rule on transfers in section 36. The Data Protection Office reports enforcing it in 2024, citing its sections on complaints, transfers, registration, certification and appeals.
 
-**Means of complying published and rule applied.** For January to December 2024 the Data Protection Office [reports 112 cross-border transfers authorised and 12 rejected](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>) under section 36 of the Act. In the same year it [reports 179 new complaints](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>), 158 of them on CCTV, and 39 complaints closed. It also reports 105 personal data breaches notified, 10 impact assessments received and four compliance inspections during 2024.
+**Open without permission each time.** Not shown. No source says which transfers, if any, go without authorisation. The nearest fact is the [Office's report for 2024](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>): 112 cross-border transfers authorised and 12 rejected under section 36.
+
+**Published way to send data without asking.** Not shown. No source says the Office has published a list of countries, model contract terms or a general authorisation. [Section 36](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>) is the only transfer provision cited, and it rests on authorisation by the Commissioner's office.
+
+**Open to African partners.** Mauritius has ratified the Malabo Convention. The [African Union status list](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) records ratification on 6 March 2018 and deposit on 14 March 2018.
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is held on the rule beyond the Office's 2024 report, so the wider framework for sending data abroad is not described here.
+***Not found***. No source found says which transfers go without authorisation. No source found says the authority has published a list of countries, model contract terms or a general authorisation.

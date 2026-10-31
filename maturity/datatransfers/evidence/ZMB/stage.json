@@ -1,16 +1,19 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001",
-   "gaps": "No source found says a rule on sending personal data abroad is in force.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "draft",
+      "open": "",
+      "route": "",
+      "africa": "ratified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001",
+      "gaps": "No source found saying the Data Protection Act has come into effect, or saying whether transfers go without the Commissioner's approval once it does.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The Data Protection Act 2021 sets conditions on transfers in sections 70 and 71 [ZMB-001], but it starts on a date the Minister appoints and none is held, so it counts as a draft and the stage is 2. The 2020 Malabo ratification [ZMB-003, ZMB-005] sits above the break.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

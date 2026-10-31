@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "unplaced",
-      "standing": "",
-      "use": "",
+      "stage": "1",
+      "standing": "none",
+      "open": "",
+      "route": "",
+      "africa": "none",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held says no rule on sending personal data abroad is being written: the 2026 source says only that Eritrea has no data protection law and no restriction on transfers in its law; the 2022 UNECA profile is outside the three-year window.",
-      "note": "Rebuild 2026-10-30: the June 2026 source says Eritrea has no data protection law and no restriction on cross-border transfer, but not that none is being written, so stage 1's whole row is not met.",
-      "as_at": "2026-10-30"
+      "stage_sources": "ERI-002",
+      "gaps": "No source found says Eritrea has a rule in force or in draft on sending personal data abroad.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): A source reviewed on 8 June 2026 says Eritrea has no data protection law and no restriction on cross-border transfer [ERI-002]. That is a dated statement that nothing protects data sent abroad, so the stage is 1.",
+      "as_at": "2026-10-31"
     }
   ]
 }

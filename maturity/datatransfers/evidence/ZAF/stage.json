@@ -1,16 +1,19 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "3",
+      "standing": "in-force",
+      "open": "open",
+      "route": "",
+      "africa": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-001",
+      "gaps": "No source found of a published list of countries, model contract terms or general authorisation, or of a Malabo signature or ratification.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): POPIA bars transfers abroad unless the recipient is adequately protected or the person consents or a contract requires it [ZAF-001], so questions 1 and 2 are yes; the localisation rules held cover government data or are drafts [ZAF-003, ZAF-004]. The regulator publishes no list [ZAF-002], so the stage is 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

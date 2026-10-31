@@ -2,10 +2,14 @@
 
 ## Rule on sending data abroad
 
-**Rule in force.** South Africa's Protection of Personal Information Act (POPIA) [prohibits transfers of personal information outside the country](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>) unless the recipient is under adequate legal protection, the data subject consents, or a contract or the data subject's interest requires the transfer. The Act [took effect in July 2020, with a grace period to 30 June 2021](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>), so the rule has applied in full since mid-2021. It is a single statutory rule covering every responsible party that sends personal information out of South Africa, and the conditions for a lawful transfer are set out in the Act itself.
+**Protected when sent abroad.** Yes. [POPIA took effect in July 2020](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>) with a grace period to 30 June 2021. It bars transfers of personal information outside South Africa unless the recipient is under adequate legal protection.
 
-**Means of complying published and rule applied.** An article published on 17 January 2024 [states that POPIA does not name the countries with adequate protection](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>) and creates no mechanism for the regulator to recognise such countries. On that account the party sending the data has to judge adequacy for itself, case by case, since the Act supplies no approved list to rely on.
+**Open without permission each time.** Yes. The [same source](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>) says transfers may also go on the person's consent or where a contract requires it. No authorisation step is described.
 
-***Also on file***. None found.
+**Published way to send data without asking.** No. [The source, published on 17 January 2024](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>), says POPIA names no countries with adequate protection and creates no way to recognise them. The sender must judge adequacy itself.
 
-***Not found***. No source found says the Information Regulator has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+**Open to African partners.** Not answered. The nearest held fact is [the 2024 source on POPIA](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>), which says South Africa names no adequate countries and so recognises no partner.
+
+***Also on file***. [A department presentation of 24 February 2026](<http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf>) says the data and cloud policy keeps government data on national security stored in South Africa. A 2021 draft of the policy would have required a copy kept in the country.
+
+***Not found***. No source found of a published list of countries, model contract terms or general authorisation. No signature or ratification of the Malabo Convention is on record.

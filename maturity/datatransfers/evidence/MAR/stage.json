@@ -1,16 +1,19 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "4",
-   "standing": "in-force",
-   "use": "means",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001;MAR-002",
-   "gaps": "No source from the last three years naming a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad, is held.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "4",
+      "standing": "in-force",
+      "open": "open",
+      "route": "published",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-002;MAR-001",
+      "gaps": "No source found says Morocco has ratified the Malabo Convention or the AfCFTA Digital Trade Protocol, or that it treats an African partner's protection as adequate.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [MAR-002] answers question 1: law 09-08 protects transfers, with the adequacy test. [MAR-001] shows a published list of countries data may go to, which answers questions 2 and 3; [MAR-003] and [MAR-004] are rules on sensitive data, not general localisation. [MAR-005] shows no ratification, so the run stops at 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

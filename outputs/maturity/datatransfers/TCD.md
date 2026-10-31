@@ -2,10 +2,14 @@
 
 ## Rule on sending data abroad
 
-**Rule in force.** Chad has a rule in force on sending personal data out of the country. [The law firm Cabinet Thomas Dingamgoto wrote on 6 July 2026](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>) that articles 29 to 32 of Loi n°007/PR/2015 require a legal basis and adequate safeguards for sending personal data out of Chad. [Its analysis adds](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>) that the sender must either notify or obtain prior authorisation from ANSICE, the national agency named in the law. The rule is therefore a condition on each transfer, set in the data protection law itself, and it applies to organisations sending data from Chad to a head office or other recipient abroad.
+**Protected when sent abroad.** Yes. [A Cabinet Thomas Dingamgoto analysis of 6 July 2026](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>) says articles 29 to 32 of Loi 007/PR/2015 apply. They require a legal basis and adequate safeguards for sending personal data out of Chad.
 
-**Means of complying published and rule applied.** The nearest held fact is the same [2026 analysis of the law](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>), which describes the conditions that articles 29 to 32 set and the notification and authorisation steps they require. It says nothing of a published list of countries, model contract terms, a permission procedure or guidance from the authority, or of the rule being applied to a named organisation.
+**Open without permission each time.** Not answered. The [same analysis](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>) says transfers need notification or prior authorisation by the authority, ANSICE. It does not say which transfers need which.
 
-***Also on file***. None found.
+**Published way to send data without asking.** None found. The nearest held fact is the [analysis of the notification and authorisation step](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>). No list of countries or model terms is on file.
 
-***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+**Open to African partners.** Not yet. [ACTPOL, citing the African Union list of 2 February 2026](<https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon>), says Chad signed the Malabo Convention without ratifying it.
+
+***Also on file***. [EcoMatin reports](<https://ecomatin.net/telecoms-ndjamena-accentue-la-pression-sur-airtel-moov-et-starlink>) a ministerial order of 27 August 2025. It requires Starlink to host its users' connection logs in Chad.
+
+***Not found***. No source found saying which transfers go without prior authorisation. No list of countries, model terms or general authorisation is on record.

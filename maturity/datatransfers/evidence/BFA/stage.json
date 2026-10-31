@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "4",
+      "stage": "2",
       "standing": "in-force",
-      "use": "means",
+      "open": "",
+      "route": "",
+      "africa": "none",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-003;BFA-002",
-      "gaps": "No source from the last three years naming a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad, is held.",
-      "note": "Counted from the four questions by study-ladder-datatransfers.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "BFA-002",
+      "gaps": "No source found says whether any transfer goes without the CIL's authorisation, or that the CIL has published a list, model terms or a general authorisation.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The CIL's authorisation form shows transfers abroad are conditioned on its permission [BFA-002]. Whether any transfer goes without it is not held, so the stage is 2. The form is a way to ask, not a way to send without asking [BFA-003].",
+      "as_at": "2026-10-31"
     }
   ]
 }

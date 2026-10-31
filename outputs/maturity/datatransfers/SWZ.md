@@ -2,10 +2,14 @@
 
 ## Rule on sending data abroad
 
-**Rule in force.** The Eswatini Data Protection Authority (EDPA) [requires authorisation before personal data leaves Eswatini](<https://edpa.org.sz/assets/documents/APPLICATION%20FORM_%20TRANSFER.pdf>), according to its application form for transfers, dated 2024. The form asks the applicant to supply the law of the recipient country, the contracts that govern the transfer and a data protection impact assessment. Sending personal data abroad is therefore a matter for the regulator's prior permission, and not for the sender alone to decide.
+**Protected when sent abroad.** Yes. [The Eswatini Data Protection Authority](<https://edpa.org.sz/assets/documents/APPLICATION%20FORM_%20TRANSFER.pdf>) requires authorisation before personal data leaves the country. The applicant supplies the recipient country's law, contracts and an impact assessment.
 
-**Means of complying published and rule applied.** The EDPA has [published an application form and a procedure for authorisation to transfer personal data outside Eswatini](<https://edpa.org.sz/assets/documents/APPLICATION%20FORM_%20TRANSFER.pdf>), in 2024. An organisation that wants to send personal data abroad has a document to complete and a stated route to the regulator, set out in the same 2024 form. The form is the means of complying that the authority itself makes available to controllers and processors.
+**Open without permission each time.** No. The [authority's 2024 form](<https://edpa.org.sz/assets/documents/APPLICATION%20FORM_%20TRANSFER.pdf>) makes authorisation the only route held. No transfer is shown to go without it.
+
+**Published way to send data without asking.** None found. The authority has published [an application form and procedure](<https://edpa.org.sz/assets/documents/APPLICATION%20FORM_%20TRANSFER.pdf>) for authorisation, which is a way to ask. No list of countries or model terms is on file.
+
+**Open to African partners.** Not yet. [The Ministry of ICT reported on 10 July 2026](<https://www.linkedin.com/posts/ministry-of-ict-eswatini_the-minister-of-information-communications-activity-7481421459043770369-IcuH>) a workshop with senators on ratifying the Malabo Convention. [The African Union status list](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) shows no signature or ratification.
 
 ***Also on file***. None found.
 
-***Not found***. No source from the last three years names a country approved to receive data. None names an organisation given or refused permission, ordered to comply or penalised for sending data abroad.
+***Not found***. No source found of any transfer going without authorisation, or of a published list of countries or model terms.

@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "unplaced",
-      "standing": "",
-      "use": "",
+      "stage": "1",
+      "standing": "none",
+      "open": "",
+      "route": "",
+      "africa": "signed",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held says no rule on sending personal data abroad is being written: the July 2026 source says only that no statutory requirement governs cross-border transfer, and proposes localisation as a first law.",
-      "note": "Rebuild 2026-10-30: the July 2026 policy paper says no statutory requirement governs cross-border transfer in Sudan, but not that none is being written, so stage 1's whole row is not met.",
-      "as_at": "2026-10-30"
+      "stage_sources": "SDN-001",
+      "gaps": "No source found of a law on sending personal data abroad, or of a ratification of the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): A source of 19 July 2026 says no statute governs cross-border transfer of data [SDN-001], which sets stage 1. No transfer rule is held, so questions 2 and 3 are unanswered. Signature of the Malabo Convention [SDN-003] is not a ratification.",
+      "as_at": "2026-10-31"
     }
   ]
 }

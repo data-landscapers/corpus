@@ -1,16 +1,19 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a rule on sending personal data abroad, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "unplaced",
+      "standing": "",
+      "open": "",
+      "route": "",
+      "africa": "signed",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found says whether Equatorial Guinea has a law, regulation or draft that sets a condition for sending personal data abroad, or that an instrument of ratification has been deposited.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Only Malabo Convention rows are held [GNQ-001 to GNQ-006]: parliament approved ratification in March 2026 with no deposit shown, and a signature is dated July 2026. None sets a transfer rule.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

@@ -1,16 +1,19 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a rule on sending personal data abroad, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "unplaced",
+      "standing": "",
+      "open": "",
+      "route": "",
+      "africa": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found says what Gabon's law rules on sending personal data abroad, or settles whether Gabon has ratified the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Rows held cover a localisation rule for confidential or sensitive data only [GAB-001] and conflicting Malabo status [GAB-002][GAB-003][GAB-004]. None sets a stage.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

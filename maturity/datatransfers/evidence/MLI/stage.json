@@ -1,16 +1,19 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "in-force",
+      "open": "",
+      "route": "",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001",
+      "gaps": "No source found says whether any transfer goes without a decision of the authority, or that the authority has published a list, model terms or a general authorisation.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [MLI-001] answers question 1: law 2013-015, article 11, conditions transfers on the authority's finding of sufficient protection. Both routes it names run through the authority, so question 2 is not shown and the stage is protected but closed. [MLI-002] shows no Malabo action.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

@@ -1,16 +1,19 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a rule on sending personal data abroad, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "unplaced",
+      "standing": "",
+      "open": "",
+      "route": "",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found says what Burundian law rules on sending personal data abroad, or that Burundi has ratified the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The only rows held show no action on the Malabo Convention [BDI-001][BDI-002]. Neither answers question 1, 2 or 3, so no stage is set.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

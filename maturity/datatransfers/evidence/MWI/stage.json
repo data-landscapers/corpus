@@ -1,16 +1,19 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-005;MWI-002",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "3",
+      "standing": "in-force",
+      "open": "open",
+      "route": "",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-002;MWI-004",
+      "gaps": "No source found says the authority has published a list of countries, model contract terms or a general authorisation, or that Malawi has ratified the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [MWI-002] answers question 1: the Act has been in force since 3 June 2024 and restricts transfers. [MWI-002] and [MWI-004] answer question 2: adequate law, binding corporate rules, contract or consent permit a transfer, and the only local storage rule held is for health data [MWI-006]. No published way is held, so the run stops at 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

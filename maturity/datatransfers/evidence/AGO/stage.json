@@ -1,16 +1,19 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "5",
-   "standing": "in-force",
-   "use": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-005;AGO-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "3",
+      "standing": "in-force",
+      "open": "open",
+      "route": "",
+      "africa": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-003",
+      "gaps": "No source found says the APD has published a list of adequate countries, model contract terms or a general authorisation, or that Angola has ratified the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Law 22/11 sets a condition on transfers abroad [AGO-003], which answers question 1. Transfers to adequate countries need only notice, no general localisation rule is held, and so question 2 is a yes [AGO-003][AGO-011]. No published way to send data without asking is held, so the run stops at 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

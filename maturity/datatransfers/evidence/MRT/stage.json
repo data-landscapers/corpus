@@ -1,16 +1,19 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "4",
-   "standing": "in-force",
-   "use": "means",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-002;MRT-005;MRT-003",
-   "gaps": "No source from the last three years naming a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad, is held.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "5",
+      "standing": "in-force",
+      "open": "open",
+      "route": "published",
+      "africa": "ratified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-007;MRT-001;MRT-006;MRT-008",
+      "gaps": "",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [MRT-007] answers question 1: law 2017-020 bars transfers without sufficient protection. It allows one-off transfers on consent, and [MRT-001] sets an authorisation request only for hosts off the authority's list, so question 2 is open. [MRT-006] gives the published list, and [MRT-008] the ratification.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

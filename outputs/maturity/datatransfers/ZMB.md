@@ -2,10 +2,14 @@
 
 ## Rule on sending data abroad
 
-**Rule in force.** Zambia's [Data Protection Act No. 3 of 2021](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>), enacted on 24 March 2021, sets the conditions for sending personal data outside the Republic in Part X, sections 70 and 71. The Act says it commences on a date the Minister appoints by statutory instrument, and the [published text](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>) gives no date.
+**Protected when sent abroad.** Not yet in force. [The Data Protection Act No. 3 of 2021](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>), enacted on 24 March 2021, sets conditions in sections 70 and 71 for sending personal data out of Zambia. It starts on a date the Minister appoints.
 
-**Means of complying published and rule applied.** The [Act](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>) sets out three routes. The first is the data subject's consent together with standard contracts or intragroup schemes approved by the Commissioner. The second is a transfer to a country the Minister has prescribed, on a test of an adequate level of protection. The third is a transfer the Commissioner approves where it is necessary, case by case.
+**Open without permission each time.** Not answered. The [Act](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>) offers routes on consent with approved standard contracts, or on a ministerial adequacy prescription. It also requires Commissioner approval of some transfers.
 
-***Also on file***. The same [Act](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>) requires sensitive personal data to stay in the Republic, a localisation rule. No systems have been found.
+**Published way to send data without asking.** None found. The nearest held fact is the [Act's provision](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>) for Commissioner-approved standard contracts. No approved contract or list is on file.
 
-***Not found***. No source found says a rule on sending personal data abroad is in force.
+**Open to African partners.** Yes. [The African Union status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) records that Zambia ratified the Malabo Convention on 15 December 2020 and deposited on 24 March 2021.
+
+***Also on file***. [A D4D Hub paper](<https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Data-Policies-and-Regulations/Examining-Sensitive-Personal-Data-Protection-and-Data-Sovereignty-in-Zambia.pdf>) says the Act requires sensitive personal data to be stored in Zambia.
+
+***Not found***. No source found saying the Act has come into effect. No source found on which transfers go without approval, or of a published list or approved contract terms.

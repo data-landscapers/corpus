@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "5",
+      "stage": "3",
       "standing": "in-force",
-      "use": "applied",
+      "open": "open",
+      "route": "",
+      "africa": "signed",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-005;NGA-004",
-      "gaps": "Nothing on the four questions.",
-      "note": "Counted from the four questions by study-ladder-datatransfers.py.",
-      "as_at": "2026-10-28"
+      "stage_sources": "NGA-001;NGA-002",
+      "gaps": "No source found says the Commission has published a list of adequate countries, model contract terms or a general authorisation, or that Nigeria has ratified the Malabo Convention.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [NGA-002] and [NGA-001] answer question 1: Part VIII of the 2023 Act sets the transfer rule, with adequacy decisions and approved binding corporate rules. Those routes make question 2 a yes; the localisation rules held cover payment or government data only. No published way is held, so the run stops at 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }

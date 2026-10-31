@@ -3,15 +3,17 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "3",
+      "stage": "2",
       "standing": "in-force",
-      "use": "",
+      "open": "",
+      "route": "",
+      "africa": "none",
       "cap": "",
       "flags": "",
       "stage_sources": "CAF-001",
-      "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-      "note": "Counted from the four questions by study-ladder-datatransfers.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found says whether any transfer goes without the authority's permission, or that a list, model terms or a general authorisation is published.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The law conditions transfers outside CEMAC and ECCAS on sufficient protection in the recipient state [CAF-001], which answers question 1. Whether any transfer goes without permission is not held, so the stage is 2.",
+      "as_at": "2026-10-31"
     }
   ]
 }

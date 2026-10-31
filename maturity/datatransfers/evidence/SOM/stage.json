@@ -1,16 +1,19 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "3",
+      "standing": "in-force",
+      "open": "open",
+      "route": "",
+      "africa": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source found of a published list of countries, model terms or general authorisation, or of a Malabo ratification.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): Articles 30 and 31 of the 2023 law allow transfers on adequacy, binding rules, contract or consent [SOM-001], which answers questions 1 and 2 with no general localisation rule on file. No published route is held, so the stage is 3. Somalia is not a Malabo state party [SOM-002, SOM-003].",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

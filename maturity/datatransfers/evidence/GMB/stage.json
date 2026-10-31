@@ -1,16 +1,19 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-001",
-   "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
-   "note": "Counted from the four questions by study-ladder-datatransfers.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "in-force",
+      "open": "",
+      "route": "",
+      "africa": "ratified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-001",
+      "gaps": "No source found says which transfers go without the Commission's permission, or that the Commission is constituted and has published a list, model terms or a general authorisation.",
+      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): [GMB-001] answers question 1: the Act's Commission assesses cross-border transfers and may set conditions. Nothing held answers question 2, so the run stops at protected but closed. [GMB-004] is a ratification, which is question 4 and is not reached.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }
