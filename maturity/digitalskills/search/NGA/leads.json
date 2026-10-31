@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://statehouse.gov.ng/president-tinubu-we-are-laying-the-foundation-for-a-digital-workforce-to-power-nigerias-economic-transformation/",
+  "title": "President Tinubu: We are laying the foundation for a digital workforce",
+  "publisher": "State House, Abuja",
+  "published": "2025-12-12",
+  "sub_indicator": "publicskills",
+  "why": "Q1-2: 3MTT programme"
+ },
+ {
+  "url": "https://nitda.gov.ng/nitda-launches-capacity-building-programme-to-boost-digital-literacy-in-civil-service/9139/",
+  "title": "NITDA Launches Capacity-Building Programme to Boost Digital Literacy in Civil Service",
+  "publisher": "NITDA",
+  "published": "2025-09-23",
+  "sub_indicator": "publicskills",
+  "why": "Q2,Q3: Digital Literacy for All, 300,000 reached, literacy targets"
+ },
+ {
+  "url": "https://fmcide.gov.ng/3mtt-and-data-science-nigeria-launch-first-cohort-of-deeptech_ready-upskilling-programme-supported-by-google-org/",
+  "title": "3MTT and Data Science Nigeria launch first cohort of DeepTech_Ready",
+  "publisher": "Federal Ministry of Communications, Innovation and Digital Economy",
+  "published": "2025-01-31",
+  "sub_indicator": "publicskills",
+  "why": "Q1-2: programme"
+ },
+ {
+  "url": "https://doi.org/10.1596/43657",
+  "title": "Digital Skills in Nigeria: A Summary of the Population's Skills",
+  "publisher": "World Bank",
+  "published": "2024-12-31",
+  "sub_indicator": "publicskills",
+  "why": "Q3: survey-based skill shares"
+ },
+ {
+  "url": "https://www.weforum.org/stories/2024/09/nigeria-digital-transformation-3mtt-technical-talent/",
+  "title": "Nigeria seeks digital transformation for a stronger economy",
+  "publisher": "World Economic Forum (Bosun Tijani)",
+  "published": "2024-09-18",
+  "sub_indicator": "publicskills",
+  "why": "Q2: 3MTT trained numbers"
+ },
+ {
+  "url": "https://fmcide.gov.ng/minister-kicks-off-phase-2-of-3mtt-initiative-270000-new-fellows-selected/",
+  "title": "Minister Kicks Off Phase 2 of 3MTT Initiative",
+  "publisher": "Federal Ministry of Communications, Innovation and Digital Economy",
+  "published": "2024-02-29",
+  "sub_indicator": "publicskills",
+  "why": "Q1-2: phase 2"
+ },
+ {
+  "url": "https://fmcide.gov.ng/federal-ministry-of-communications-innovation-digital-economy-launches-3mtt-learning-community-in-partnership-with-ihs-nigeria-2/",
+  "title": "Launches 3MTT Learning Community in Partnership With IHS Nigeria",
+  "publisher": "Federal Ministry of Communications, Innovation and Digital Economy",
+  "published": "2023-10-23",
+  "sub_indicator": "publicskills",
+  "why": "Q1: programme launch"
+ },
+ {
+  "url": "https://nairametrics.com/2023/10/13/bosun-tijani-unveils-implementation-plans-for-3-million-technical-skills-program/",
+  "title": "Bosun Tijani unveils implementation plans for 3 million technical skills program",
+  "publisher": "Nairametrics",
+  "published": "2023-10-13",
+  "sub_indicator": "publicskills",
+  "why": "Q1: programme plan"
+ }
+]

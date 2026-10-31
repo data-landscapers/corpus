@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://teleasu.tv/souverainete-numerique-le-data-center-de-zamengoe-se-devoile-au-sago/",
+  "title": "SOUVERAINETÉ NUMÉRIQUE - Le data center de Zamengoé se dévoile au SAGO",
+  "publisher": "Télé'Asu",
+  "published": "2026-06-18",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: Zamengoe centre for public data hosting"
+ },
+ {
+  "url": "https://camtel.cm/news/camtel-signs-agreement-with-baccalaureat-board",
+  "title": "CAMTEL signs agreement with Baccalaureat Board",
+  "publisher": "CAMTEL",
+  "published": "2026-01",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: exam data hosted at Zamengoe national cloud"
+ },
+ {
+  "url": "https://bluetechchallenge.camtel.cm/documentation/download/17",
+  "title": "CAMTEL et ETHIO TELECOM unissent leurs forces",
+  "publisher": "CAMTEL",
+  "published": "2025-12-05",
+  "sub_indicator": "sovereignty",
+  "why": "Q2/Q4: MSA incl. sovereign Government Cloud"
+ },
+ {
+  "url": "https://www.dgb.cm/datacenters-au-cameroun-une-etude-revelatrice-pour-la-souverainete-numerique/",
+  "title": "Datacenters au Cameroun : Une Étude Révélatrice pour la Souveraineté Numérique",
+  "publisher": "Direction Générale du Budget",
+  "published": "2025",
+  "sub_indicator": "sovereignty",
+  "why": "Q1-Q2: CENADI study, no national strategy, data classification"
+ },
+ {
+  "url": "https://obs-cc.org/suivi-fncc/a-02-doter-letat-dun-centre-de-donnees-souverain/",
+  "title": "Doter l'État d'un centre de données souverain",
+  "publisher": "Obs-cc",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: Zamengoe sovereign data centre presented May 2025"
+ },
+ {
+  "url": "https://www.digitalbusiness.africa/cameroun-le-sigipes-ii-et-les-services-numeriques-du-minfopra-seront-desormais-heberges-dans-le-datacenter-de-camtel-a-zamengoue/",
+  "title": "Le Sigipes II et les services numériques du MINFOPRA seront hébergés dans le datacenter de Camtel",
+  "publisher": "Digital Business Africa",
+  "published": "2022-06-14",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: ministry systems hosted in state data centre"
+ },
+ {
+  "url": "https://camtel.cm/news/igf-cameroon-2026-camtel-at-the-heart-of-interoperability-and-digital-inclusion",
+  "title": "IGF Cameroon 2026: CAMTEL at the heart of interoperability and digital inclusion",
+  "publisher": "CAMTEL",
+  "published": "2026-08-21",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: state data must stay under national jurisdiction"
+ },
+ {
+  "url": "https://www.prc.cm/files/9b/df/2c/e818fedc7d5568778f884ea2886bea7d.pdf",
+  "title": "Law No. 2024/017 of 23 December 2024 relating to personal data protection in Cameroon",
+  "publisher": "Presidency of the Republic of Cameroon",
+  "published": "2024-12-23",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: transfer restrictions on data"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "publicskills",
+ "aspect": "training",
+ "fact": "An INS household survey of November 2022 reports 99,931 people enrolled in digital and financial education programmes under the PVI project.",
+ "title": "Enquête sur l'accès des ménages aux TIC au Niger",
+ "publisher": "Institut National de la Statistique",
+ "published": "2022-11",
+ "date_source": "source",
+ "why_not": ""
+}

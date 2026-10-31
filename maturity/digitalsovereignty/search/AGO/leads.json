@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://inacom.gov.ao/2026/04/28/primeiro-data-center-e-cloud-nacional-entra-em-servico/",
+  "title": "Primeiro Data Center e Cloud Nacional entra em serviço",
+  "publisher": "INACOM",
+  "published": "2026-04-28",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: government data centre in service"
+ },
+ {
+  "url": "https://angop.ao/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/",
+  "title": "Presidente da República inaugura novo Centro de Dados do Governo",
+  "publisher": "Angop",
+  "published": "2026-04-28",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: mandatory migration to national cloud"
+ },
+ {
+  "url": "https://angop.ao/noticias/tecnologia/centro-de-dados-do-governo-representa-afirmacao-da-soberania-digital-de-angola-ministro/",
+  "title": "Centro de Dados do Governo representa afirmação da soberania digital de Angola",
+  "publisher": "Angop",
+  "published": "2026-04-28",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: data under national jurisdiction"
+ },
+ {
+  "url": "https://minttics.gov.ao/ao/noticias/data-center-e-cloud-nacional-acelera-transformacao-digital-de-angola/",
+  "title": "Data Center e Cloud Nacional acelera transformação digital de Angola",
+  "publisher": "MINTTICS",
+  "published": "2026-04-27",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: national cloud"
+ },
+ {
+  "url": "https://angop.ao/en/noticias/economia/governo-angolano-investe-usd-89-milhoes-no-projecto-cloud-nacional/",
+  "title": "Angolan government invests USD 89 mln in national cloud project",
+  "publisher": "Angop",
+  "published": "2023-02-16",
+  "sub_indicator": "sovereignty",
+  "why": "Q2/Q4: cloud project, MoU with Presight"
+ },
+ {
+  "url": "https://angolex.com/paginas/avisos/politica-de-seguranca-cibernetica-e-adopcao-de-computacao-na-nuvem.html",
+  "title": "Aviso n.º 08/2020 - Política de Segurança Cibernética e Adopção de Computação em Nuvem",
+  "publisher": "BNA",
+  "published": "2020",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: cloud/data classification rule for banks"
+ }
+]

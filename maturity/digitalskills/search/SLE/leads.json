@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://mocti.gov.sl/sierra-leone-launches-digital-skills-training-programme-for-civil-servants/",
+  "title": "Sierra Leone Launches Digital Skills Training Programme for Civil Servants",
+  "publisher": "MoCTI",
+  "published": "2026-07-10",
+  "sub_indicator": "publicskills",
+  "why": "Q1: government programme launched (civil servants, pipeline target 3,000)"
+ },
+ {
+  "url": "https://academy.itu.int/about/news/bdd-sl-scales-and-extends-basic-digital-skills-training-600-sierra-leonean-citizens-underserved",
+  "title": "BDD-SL scales up basic digital skills training to 600 Sierra Leonean citizens",
+  "publisher": "ITU Academy",
+  "published": "2025",
+  "sub_indicator": "publicskills",
+  "why": "Q2: 600 citizens trained Jul-Sep 2025"
+ },
+ {
+  "url": "https://sierraloaded.sl/technology/youths-graduate-dsti-tech-101-training/",
+  "title": "DSTI Graduates First Cohort of Tech 101 Digital Literacy Training",
+  "publisher": "Sierraloaded",
+  "published": "2025-09-25",
+  "sub_indicator": "publicskills",
+  "why": "Q2: DSTI programme first cohort"
+ },
+ {
+  "url": "https://sldtp.gov.sl/project-components/",
+  "title": "Project Components - Sierra Leone Digital Transformation Project",
+  "publisher": "SLDTP",
+  "published": "2025",
+  "sub_indicator": "publicskills",
+  "why": "Q1: digital skills training for youth, women, 3,000 target"
+ },
+ {
+  "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/wp-content/uploads/2024/10/Delivering-digital-skills-training-for-impact-Learnings-and-insights-from-Sierra-Leone.pdf",
+  "title": "Delivering digital skills training",
+  "publisher": "GSMA",
+  "published": "2024-10",
+  "sub_indicator": "publicskills",
+  "why": "Q1: operator-led training 2024"
+ }
+]

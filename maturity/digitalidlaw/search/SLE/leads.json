@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda",
+  "title": "Sierra Leone putting digital ID at the center of its digital transformation agenda",
+  "publisher": "Biometric Update",
+  "published": "2024-04-11",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: NIN mandatory under NCR Act 2016"
+ },
+ {
+  "url": "https://ncra.gov.sl/biometric-civil-registration-process-to-get-your-national-identification-number-nin/",
+  "title": "Biometric Civil Registration process to get your NIN",
+  "publisher": "NCRA",
+  "published": "2023-03-02",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: registration mandated by NCR Act 2016, biometrics and NIN"
+ },
+ {
+  "url": "https://ncra.gov.sl/h-e-president-bio-launched-first-ever-securitized-and-multipurpose-biometric-id-cards-in-sierra-leone/",
+  "title": "President Bio launched first-ever securitized multipurpose biometric ID cards",
+  "publisher": "NCRA",
+  "published": "2023-02-06",
+  "sub_indicator": "law",
+  "why": "Q3/Q4: ID verification platform for banks eKYC"
+ },
+ {
+  "url": "https://ncra.gov.sl/ncra-engages-commercial-banks-on-digital-identity-inclusion-in-sierra-leone-2/",
+  "title": "NCRA Engages Commercial Banks on Digital Identity Inclusion",
+  "publisher": "NCRA",
+  "published": "2022-06-30",
+  "sub_indicator": "law",
+  "why": "Q4: eKYC check against NIN by banks"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202303/how-sierra-leone-joined-forces-for-national-digital-id-id4africa-livecast",
+  "title": "How Sierra Leone joined forces for national digital ID",
+  "publisher": "Biometric Update",
+  "published": "2023-03-23",
+  "sub_indicator": "law",
+  "why": "Q1/Q2: civil registration laws adopted, NCRA formed"
+ },
+ {
+  "url": "https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf",
+  "title": "Sierra Leone's Digital Identity",
+  "publisher": "ID4Africa",
+  "published": "2024",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: NCR Act 2016, NIN unique"
+ }
+]

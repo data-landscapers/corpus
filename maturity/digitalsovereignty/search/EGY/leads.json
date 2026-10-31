@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mcit.gov.eg/en/Publication/Publication_Summary/10525",
+  "title": "Cloud First Policy Egypt 2024",
+  "publisher": "Ministry of Communications and Information Technology",
+  "published": "2024-08",
+  "sub_indicator": "sovereignty",
+  "why": "Q1-2: policy with data classification and localisation"
+ },
+ {
+  "url": "https://www.sis.gov.eg/Story/192611/President-El-Sisi-Witnesses-Inauguration-of-Government-Data,-Cloud-Computing-Center?lang=en-us",
+  "title": "President El-Sisi Witnesses Inauguration of Government Data, Cloud Computing Center",
+  "publisher": "State Information Service",
+  "published": "2024-04-28",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: government data centre hosts ministry data"
+ },
+ {
+  "url": "https://www.al-safir.com/archives/732610",
+  "title": "10 ضوابط لتعاقد الجهات الحكومية مع مقدمى الخدمات السحابية",
+  "publisher": "السفير",
+  "published": "2024-09-16",
+  "sub_indicator": "sovereignty",
+  "why": "Q2,Q4: contract controls incl. localisation, portability, data recovery"
+ },
+ {
+  "url": "https://www.elwatannews.com/news/details/7296670",
+  "title": "السيسي يشهد افتتاح مركز البيانات الرئيسي للدولة",
+  "publisher": "الوطن",
+  "published": "2024-04-28",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: G Cloud serving 114 government entities"
+ },
+ {
+  "url": "https://cabinet.gov.eg/News/Details/75421",
+  "title": "رئيس الوزراء يترأس الاجتماع الأول للمجلس الأعلى للمجتمع الرقمي بعد إعادة تشكيله",
+  "publisher": "رئاسة مجلس الوزراء",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: cloud policy and data classification law draft"
+ },
+ {
+  "url": "https://shehatalaw.com/wp-content/uploads/2026/01/Shehata-Partners-Publications-Data-Protection-Executive-Regulations-English.pdf",
+  "title": "Data Protection Executive Regulations - Translation",
+  "publisher": "Shehata & Partners",
+  "published": "2026-01",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: cross-border transfer licensing rules in force Nov 2025"
+ },
+ {
+  "url": "https://gate.ahram.org.eg/News/4614720.aspx",
+  "title": "التنفيذى للمجتمع الرقمى: إقرار سياسة الحوسبة السحابية أولًا",
+  "publisher": "بوابة الأهرام",
+  "published": "2023-11-13",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: cloud first policy approved, data classification law urged"
+ },
+ {
+  "url": "https://gate.ahram.org.eg/News/4794129.aspx",
+  "title": "وزير الاتصالات: كل منصات مصر الرقمية مخزنة داخل مراكز بيانات جديدة",
+  "publisher": "بوابة الأهرام",
+  "published": "2024-04-28",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: Digital Egypt platforms hosted in new data centres"
+ }
+]

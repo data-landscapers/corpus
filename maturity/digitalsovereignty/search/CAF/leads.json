@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://e-gov.africa/centrafrique-bangui-accelere-la-modernisation-numerique-de-ladministration-avec-lappui-de-huawei/",
+  "title": "Bangui accélère la modernisation numérique de l'administration avec l'appui de Huawei",
+  "publisher": "E-Gov Africa",
+  "published": "2026-05-28",
+  "sub_indicator": "sovereignty",
+  "why": "Tier III national data centre with Huawei"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/2705-138800-la-centrafrique-modernise-l-infrastructure-numerique-de-son-administration-avec-huawei",
+  "title": "La Centrafrique modernise l'infrastructure numérique de son administration avec Huawei",
+  "publisher": "Agence Ecofin",
+  "published": "2026-05",
+  "sub_indicator": "sovereignty",
+  "why": "Data centre for sovereignty of public data"
+ },
+ {
+  "url": "https://oubanguimedias.com/2025/01/22/centrafrique-le-gouvernement-signe-un-memorandum-dentente-avec-la-societe-aial-pour-la-construction-dun-centre-de-donnees-numeriques/",
+  "title": "Le gouvernement signe un mémorandum d'entente avec la société AIAL ... Centre de données",
+  "publisher": "Oubangui Médias",
+  "published": "2025-01-22",
+  "sub_indicator": "sovereignty",
+  "why": "MoU for state data centre"
+ },
+ {
+  "url": "https://acdd.gouv.cf/",
+  "title": "Accélérer la transformation numérique de la Centrafrique",
+  "publisher": "ACDD",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Public data centre mandate, law 23.008"
+ },
+ {
+  "url": "https://menpt.cf/pgnsp.html",
+  "title": "PGNSP",
+  "publisher": "MENPT",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Data governance strategy and sovereignty aims"
+ },
+ {
+  "url": "https://menpt.cf/documents/telecoms/Loi%2024.001-sur-la-protection-des-donnees-a-caractere-personnel.PDF",
+  "title": "Loi n° 24.001 sur la protection des données à caractère personnel",
+  "publisher": "Ministère de l'Économie numérique",
+  "published": "2024",
+  "sub_indicator": "sovereignty",
+  "why": "Transfer rules"
+ },
+ {
+  "url": "https://research.lawlab.africa/central-african-republic/",
+  "title": "Data Protection in Central African Republic",
+  "publisher": "Law Lab Africa",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Cross-border transfer rules"
+ }
+]

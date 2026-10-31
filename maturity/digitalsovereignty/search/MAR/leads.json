@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.anrt.ma/sites/default/files/2025-03/D%C3%A9cret%202.24.921-%20Prestataires%20Cloud-FR.pdf",
+  "title": "Décret n° 2-24-921 relatif au recours aux prestataires de services Cloud",
+  "publisher": "ANRT / Bulletin officiel",
+  "published": "2024-10-22",
+  "sub_indicator": "sovereignty",
+  "why": "Sensitive data must be held in country"
+ },
+ {
+  "url": "https://www.anrt.ma/sites/default/files/2022-02/loi_05-20_cybersecurite_fr.pdf",
+  "title": "Loi n° 05-20 relative à la cybersécurité",
+  "publisher": "ANRT",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Art. 11 sensitive data hosted nationally; Art. 12 contract terms"
+ },
+ {
+  "url": "https://www.cese.ma/media/2023/09/14-09-2023-Synthese-avis-cloud-VFV2-1.pdf",
+  "title": "Synthèse de l'avis sur le cloud",
+  "publisher": "CESE",
+  "published": "2023-08-31",
+  "sub_indicator": "sovereignty",
+  "why": "Data classification delay, sovereign cloud recommendation"
+ },
+ {
+  "url": "https://logicsoftcreation.com/bibliotheque-dgssi/Le-referentiel-des-exigences-de-qualification-des-prestataires-de-services-Cloud.pdf",
+  "title": "Arrêté 3-17-25 fixant le référentiel des exigences de qualification des prestataires de services Cloud",
+  "publisher": "Chef du gouvernement",
+  "published": "2025-08-01",
+  "sub_indicator": "sovereignty",
+  "why": "Qualification framework for cloud providers"
+ },
+ {
+  "url": "https://lematin.ma/economie/um6p-accord-pour-la-localisation-des-donnees-au-maroc-et-en-afrique/213765",
+  "title": "L'UM6P et HCLSoftware s'allient pour la localisation des données",
+  "publisher": "Le Matin",
+  "published": "2024-02-16",
+  "sub_indicator": "sovereignty",
+  "why": "Data localisation partnership"
+ }
+]

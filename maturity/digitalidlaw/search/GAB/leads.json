@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.journal-officiel.ga/12122-027-2020-/",
+  "title": "Loi N° 027/2020 du 24/12/2020 relative au numéro d'identification personnel",
+  "publisher": "Journal Officiel de la République Gabonaise",
+  "published": "2020-12-24",
+  "sub_indicator": "law",
+  "why": "Q1-Q3: NIP law promulgated, biometric data"
+ },
+ {
+  "url": "https://journal-officiel.ga/18873-008-2022-/",
+  "title": "Loi N° 008/2022 du 15/06/2022 portant organisation de l'état civil",
+  "publisher": "Journal Officiel de la République Gabonaise",
+  "published": "2022-06-15",
+  "sub_indicator": "law",
+  "why": "Q2-Q3: digital biometric centralised register"
+ },
+ {
+  "url": "https://agpgabon.ga/cnie-la-campagne-de-delivrance-du-numero-didentification-personnel-souvre-le-3-avril-prochain/",
+  "title": "CNIE : la campagne de délivrance du numéro d'identification personnel s'ouvre le 3 Avril prochain",
+  "publisher": "AGP",
+  "published": "2024-03-28",
+  "sub_indicator": "law",
+  "why": "Q2-Q3: law 027/2020 applied, NIP campaign"
+ },
+ {
+  "url": "https://www.interieur.gouv.ga/9-actualites/559-carte-nationale-didentite-electronique-cnie",
+  "title": "Carte nationale d'identité électronique (CNIE)",
+  "publisher": "Ministère de l'Intérieur",
+  "published": "2024-04-01",
+  "sub_indicator": "law",
+  "why": "Q2-Q3: law obliges NIP, biometric"
+ },
+ {
+  "url": "https://presidence.ga/2024/06/25/communique-final-du-conseil-des-ministres-du-mardi-25-juin-2024/",
+  "title": "Communiqué final du Conseil des ministres du mardi 25 juin 2024",
+  "publisher": "Présidence de la République Gabonaise",
+  "published": "2024-06-25",
+  "sub_indicator": "law",
+  "why": "Q4: CNIE issuance launched"
+ },
+ {
+  "url": "https://www.apdpvp.ga/wp-content/uploads/2024/11/AVIS-MOTIVE-MINISTRE-DELEGUE-A-LINTERIEUR-14-NOVEMBRE-2023.pdf",
+  "title": "Délibération N°026/APDPVP du 14 novembre 2023 portant avis motivé (IBOGA / CNIE)",
+  "publisher": "APDPVP",
+  "published": "2023-11-14",
+  "sub_indicator": "law",
+  "why": "Q4: draft decree on CNIE enrolment"
+ },
+ {
+  "url": "https://www.gabonreview.com/identification-legale-et-digitale-le-gabon-enclenche-la-mise-en-oeuvre-de-trois-projets-strategiques/",
+  "title": "Identification légale et digitale : le Gabon enclenche la mise en œuvre de trois projets stratégiques",
+  "publisher": "Gabonreview",
+  "published": "2025-06-23",
+  "sub_indicator": "law",
+  "why": "Q3: national digital identity system project"
+ },
+ {
+  "url": "https://journal-officiel.ga/20085-025-2023-/",
+  "title": "Loi N° 025/2023 portant modification de la loi 001/2011 (protection des données)",
+  "publisher": "Journal Officiel de la République Gabonaise",
+  "published": "2023-07-12",
+  "sub_indicator": "law",
+  "why": "Q4-related: rules on national identification file processing"
+ }
+]

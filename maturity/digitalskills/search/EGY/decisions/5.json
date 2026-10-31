@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "publicskills",
+ "aspect": "measured",
+ "fact": "The ELMPS 2023 survey found 13 percent of working-age men and 9 percent of working-age women reporting strong or very strong computer skills, and 70 percent of the labour force reporting none.",
+ "title": "The Use of Information and Communication Technology in the Workplace in Egypt",
+ "publisher": "Economic Research Forum",
+ "published": "2024-11",
+ "date_source": "source",
+ "why_not": ""
+}

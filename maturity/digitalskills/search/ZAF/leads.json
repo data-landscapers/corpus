@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://static.pmg.org.za/RNW1084-2025-06-23_removed.pdf",
+  "title": "PQ 1084 Minister of Communications and Digital Technologies",
+  "publisher": "PMG",
+  "published": "2025-06-23",
+  "sub_indicator": "publicskills",
+  "why": "Q1/Q2: NEMISA digital literacy numbers trained"
+ },
+ {
+  "url": "https://static.pmg.org.za/NEMISA_AR_2025.pdf",
+  "title": "NEMISA Annual Report 2024/2025",
+  "publisher": "NEMISA",
+  "published": "2025",
+  "sub_indicator": "publicskills",
+  "why": "Q2: 60,070 trained in digital literacy 2024/25"
+ },
+ {
+  "url": "https://biblio.ugent.be/publication/01K88AJ092NWC9859C2K028BGP",
+  "title": "Digital engagement in South Africa: current landscape and readiness outlook in four provinces",
+  "publisher": "Ghent University / HSRC et al.",
+  "published": "2025",
+  "sub_indicator": "publicskills",
+  "why": "Q3: measured digital skills survey, four provinces"
+ },
+ {
+  "url": "https://www.gov.za/news/speeches/deputy-minister-mondli-gungubele-digital-academies-africa-summit-23-oct-2024",
+  "title": "Deputy Minister Mondli Gungubele: Digital Academies in Africa Summit",
+  "publisher": "South African Government",
+  "published": "2024-10-23",
+  "sub_indicator": "publicskills",
+  "why": "Q2: 60,000 trained via NEMISA since 2023"
+ },
+ {
+  "url": "https://researchictafrica.net/wp-content/uploads/2024/05/AfterAccess_South-Africa-Policy-Paper_AP.pdf",
+  "title": "Digital Africa Post the Pandemic: South Africa",
+  "publisher": "Research ICT Africa",
+  "published": "2024-05",
+  "sub_indicator": "publicskills",
+  "why": "Q3: survey digital literacy proficiency shares"
+ },
+ {
+  "url": "https://www.sanews.gov.za/south-africa/government-accelerates-programme-connect-citizens-internet",
+  "title": "Government accelerates programme to connect citizens to internet",
+  "publisher": "SAnews",
+  "published": "2024-04-05",
+  "sub_indicator": "publicskills",
+  "why": "Q2: Ya Rona programme, 20,000 trained"
+ },
+ {
+  "url": "https://www.gov.za/news/speeches/minster-mondli-gungubele-launch-national-digital-skills-forum-01-mar-2024",
+  "title": "Minister Mondli Gungubele: Launch of National Digital Skills Forum",
+  "publisher": "South African Government",
+  "published": "2024-03-01",
+  "sub_indicator": "publicskills",
+  "why": "Q1/Q2: National Digital Skills Programme"
+ },
+ {
+  "url": "https://www.gov.za/news/speeches/minister-mondli-gungubele-ya-rona-digital-ambassadors-programme-launch-10-aug-2023",
+  "title": "Minister Gungubele: Ya-Rona Digital Ambassadors' Programme launch",
+  "publisher": "South African Government",
+  "published": "2023-08-10",
+  "sub_indicator": "publicskills",
+  "why": "Q1: programme launch"
+ }
+]

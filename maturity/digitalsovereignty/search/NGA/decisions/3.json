@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sovereignty",
+ "aspect": "rule;terms",
+ "fact": "The National Cloud Computing Guideline 2026, approved 4 August 2026 and mandatory from 1 January 2027, classifies government data in four levels with hosting in Nigeria for Level 2 and above and requires every cloud contract to carry an exit strategy of at most 90 days.",
+ "title": "National Guideline for Cloud Computing in Nigeria 2026",
+ "publisher": "National Information Technology Development Agency",
+ "published": "2026-08-04",
+ "date_source": "source",
+ "why_not": ""
+}

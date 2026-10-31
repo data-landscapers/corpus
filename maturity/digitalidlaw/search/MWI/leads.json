@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mwnation.com/making-national-id-work-beyond-voter-registration/",
+  "title": "Making national ID work beyond voter registration",
+  "publisher": "Nation Online",
+  "published": "2024-07-20",
+  "sub_indicator": "law",
+  "why": "Q3/Q4: NRB verification service used by banks"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T3-P3-S2-3-Malawi_FINAL.pdf",
+  "title": "Malawi digital identity and the financial sector",
+  "publisher": "Reserve Bank of Malawi / ID4Africa",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q1-3: Act No.13 of 2010 as legal foundation for digital ID"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/PS1-S1-5-Malawi-final.pdf",
+  "title": "National Registration Bureau",
+  "publisher": "NRB / ID4Africa",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q1-4: Act amendment, digital ID"
+ },
+ {
+  "url": "https://unstats.un.org/legal-identity-agenda/documents/M-presentation/webinar03-presentation1.pdf",
+  "title": "The United Nations Legal Identity Agenda: Legal Framework for Identity in Malawi",
+  "publisher": "UN Legal Identity Agenda",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1-2: Act 2010, regulations 2015, draft new law"
+ },
+ {
+  "url": "https://www.nrb.gov.mw/",
+  "title": "NRB - The National Registration Bureau",
+  "publisher": "National Registration Bureau",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2-3: Act 2010, digital ID"
+ },
+ {
+  "url": "https://citizenshiprightsafrica.org/wp-content/uploads/2019/11/Malawi-National-Registration-Act-No-13-of-2010.pdf",
+  "title": "National Registration Act No. 13 of 2010",
+  "publisher": "Government of Malawi",
+  "published": "2010-01-14",
+  "sub_indicator": "law",
+  "why": "Q1-2: the law, fingerprint register"
+ },
+ {
+  "url": "https://malawilaws.com/StatutesActpdf/2015subsidiarypdf/038.pdf",
+  "title": "National Registration Regulations",
+  "publisher": "Government of Malawi",
+  "published": "2015",
+  "sub_indicator": "law",
+  "why": "Q4: regulations under the Act"
+ },
+ {
+  "url": "https://www.maravipost.com/macra-dares-digital-financial-services-players-on-security-reinforcement/",
+  "title": "MACRA dares digital financial services players on security reinforcement",
+  "publisher": "The Maravi Post / MANA",
+  "published": "2024-04-12",
+  "sub_indicator": "law",
+  "why": "Q4: SIM rules linked to national ID"
+ }
+]

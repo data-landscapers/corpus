@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing;cover",
+ "fact": "The World Bank's May 2026 ID4D diagnostic says the Civil Registry Act (2018) and the Civil Registration and National Identification Regulations (2024) are in place, and that the Regulations authorise the directorate to issue a digital identity linked to a Personal Identification Number, though no digital ID has yet been implemented.",
+ "title": "Country Diagnostic: South Sudan",
+ "publisher": "The World Bank",
+ "published": "2026-05",
+ "date_source": "source",
+ "why_not": ""
+}

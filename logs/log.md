@@ -12,6 +12,10 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-31 01:18 · **REBUILD** · 46m · digitalsovereignty sovereignty: 49 cells reassessed, 3 moved; 54 searched, 50 staged; 47.4M tokens (third of a shared window) - ok
+2026-10-31 01:18 · **REBUILD** · 46m · digitalskills publicskills: 54 cells reassessed, 9 moved; 54 searched, 119 staged; 47.4M tokens (third of a shared window) - ok
+2026-10-31 01:18 · **REBUILD** · 46m · digitalidlaw law: 54 cells reassessed, 0 moved; 54 searched, 76 staged; 47.4M tokens (third of a shared window) - ok
+2026-10-31 01:15 · **REVIEW** · 44m · GNB: status 0 sections revised, 37 trimmed, progress 5 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-31 00:31 · **BUILD** · 1h01m · catalogue 35,462; 68 sources, 7 moved, 20 minted, 6 status revised; data centres 1 changed; maturity 47 facts, 4 moved; bulletin 26; finance 0 waiting; register 9; prose gate 5 fixed - ok
 2026-10-30 16:34 · **RENDER** · 18m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; FY2027 GMB, CPV, MAR on the Finance page; prune declined on a 401 from the download record, all editions kept; 89 objects to R2; deployed fccd609 - ok
 2026-10-30 16:15 · **BUDGET-EXTRACT** · unclocked · FY2027 GMB 28 lines (NA estimates), CPV 3 (Anexo Informativo), MAR 4 (PLF Tableaux E and G); all six drafts online now published - ok

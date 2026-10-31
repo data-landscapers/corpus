@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu",
+  "title": "Tanzania na Huawei watia saini makubaliano ya kuimarisha ushirikiano",
+  "publisher": "Wizara ya Mawasiliano na Teknolojia ya Habari",
+  "published": "2026-07-24",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: government MoU with foreign provider"
+ },
+ {
+  "url": "https://www.ega.go.tz/uploads/standarddocuments/sw-1773257204-FINAL%20Reviewed_Data%20Center%20Standards%20and%20Guidelines%20for%20Public%20Institutions-18.2.2026.pdf",
+  "title": "Data Center Standards and Guidelines for Public Institutions",
+  "publisher": "e-Government Authority",
+  "published": "2026-02",
+  "sub_indicator": "sovereignty",
+  "why": "Q2-3: public institutions must host in government approved environment, not non-Government cloud"
+ },
+ {
+  "url": "https://www.tcra.go.tz/tcra-tovuti/2026/mamlaka-website/documents/rules/Public_Data_Centre_Rules_2026_f330bf0a2b.pdf",
+  "title": "Public Data Centre Rules, 2026",
+  "publisher": "TCRA",
+  "published": "2026",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: rules on data centres"
+ },
+ {
+  "url": "https://www.bot.go.tz/webdocs/Feedback/en/2025082512452979.pdf",
+  "title": "Cloud computing guidelines for financial service providers",
+  "publisher": "Bank of Tanzania",
+  "published": "2025",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: mission-critical systems not hosted outside Tanzania"
+ },
+ {
+  "url": "https://tanzlii.org/sw/akn/tz/act/2019/10/eng@2024-10-11",
+  "title": "e-Government Act",
+  "publisher": "TanzLII",
+  "published": "2024-10-11",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: hosting in government approved environment, data management"
+ },
+ {
+  "url": "https://www.ega.go.tz/uploads/standarddocuments/en-1666867136-Final%20Guidelines%20and%20Criteria%20for%20Deployment%20of%20e-Government%20Shared%20Systems.pdf",
+  "title": "Guidelines and Criteria for Deployment of e-Government Shared Systems",
+  "publisher": "e-Government Authority",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: DR site in National Internet Data Center or Government Data Center"
+ },
+ {
+  "url": "https://pdpc.go.tz/services/cross-border-data-transfer-permit/",
+  "title": "Cross-border data transfer permit",
+  "publisher": "Personal Data Protection Commission",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: permit for transfer of personal data abroad"
+ }
+]

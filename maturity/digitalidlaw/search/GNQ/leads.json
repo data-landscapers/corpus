@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/el_vicepresidente_de_la_republica_impulsa_la_modernizacion_del_sistema_informatico_de_cnedoge",
+  "title": "Modernizacion del sistema informatico de CNEDOGE",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2026-10-16",
+  "sub_indicator": "law",
+  "why": "Q3: state of the biometric ID issuing system"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/el_gobierno_quiere_implementar_un_mecanismo_riguroso_de_control_para_la_adquisicion_del_certificado_literal",
+  "title": "Mecanismo de control para el certificado literal",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2025-04-04",
+  "sub_indicator": "law",
+  "why": "Q1-2: DIP issuance and nationality law basis"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202407/world-bank-identifies-priority-actions-for-dpi-in-equatorial-guinea",
+  "title": "World Bank identifies priority actions for DPI in Equatorial Guinea",
+  "publisher": "Biometric Update",
+  "published": "2024-07-15",
+  "sub_indicator": "law",
+  "why": "Q3: digital identity system absent per World Bank"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_implementa_un_codigo_de_identificacion_para_personas_y_entidades",
+  "title": "Guinea Ecuatorial implementa un codigo de identificacion para personas y entidades",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2023-08-28",
+  "sub_indicator": "law",
+  "why": "Q1: unique identification code for persons"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/orden_ministerial_sobre_el_pasaporte_biometrico",
+  "title": "Orden ministerial sobre el pasaporte biometrico",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2022-06-28",
+  "sub_indicator": "law",
+  "why": "Q4: rule under identity number system"
+ },
+ {
+  "url": "https://cndesge.org/wp-content/uploads/2025/03/decreto-por-el-por-el-que-se-autoriza-la-expedicion-y-puesta.pdf",
+  "title": "Decreto 111/2019 Pasaporte Biometrico-CEMAC",
+  "publisher": "CNDESGE",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1-2: decree linking passport number to DNI number"
+ },
+ {
+  "url": "https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emisi%C3%B3n-de-documentos-oficia",
+  "title": "Sobre el funcionamiento del CNEDOGE",
+  "publisher": "Hay Derecho en Guinea",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1-2: Decree 24/2010 creating CNEDOGE, no law on timelines"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/0202-135390-le-mali-inaugure-un-data-center-tier-iii-et-renforce-sa-souverainete-numerique",
+  "title": "Le Mali inaugure un data center Tier III et renforce sa souveraineté numérique",
+  "publisher": "Agence Ecofin",
+  "published": "2026-02-02",
+  "sub_indicator": "sovereignty",
+  "why": "National data centre inaugurated 31 Jan 2026"
+ },
+ {
+  "url": "https://itweb.africa/article/mali-unveils-modern-tier-iii-data-centre/KA3WwMdzGamvrydZ",
+  "title": "Mali unveils modern Tier III data centre",
+  "publisher": "ITWeb Africa",
+  "published": "2026-02-02",
+  "sub_indicator": "sovereignty",
+  "why": "State data hosting"
+ },
+ {
+  "url": "https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako/",
+  "title": "Government of Mali launches data center in Bamako",
+  "publisher": "DCD",
+  "published": "2026-02-05",
+  "sub_indicator": "sovereignty",
+  "why": "Repatriation of data"
+ },
+ {
+  "url": "https://www.digitalbusiness.africa/mali-un-datacenter-tier-iii-inaugure-pour-heberger-les-donnees-de-laes/",
+  "title": "Mali : Un datacenter Tier III inauguré pour héberger les données de l'AES",
+  "publisher": "Digital Business Africa",
+  "published": "2026-02-02",
+  "sub_indicator": "sovereignty",
+  "why": "Sovereign hosting of government databases"
+ },
+ {
+  "url": "https://gouvernement.gov.bf/a-e-s/aes-le-mali-renforce-sa-souverainete-numerique-par-linauguration-dun-datercentre-de-derniere-generation/",
+  "title": "AES: le Mali renforce sa souveraineté numérique par l'inauguration d'un datacenter",
+  "publisher": "SIG Burkina Faso",
+  "published": "2026-02",
+  "sub_indicator": "sovereignty",
+  "why": "Data hosted under own regulation"
+ },
+ {
+  "url": "https://www.malipages.com/appel-offre/recrutement-dun-cabinet-detudes-informatiques/",
+  "title": "Recrutement d'un cabinet d'études informatiques (Cloud, deux nouveaux datacenters nationaux)",
+  "publisher": "SMTD-SA via Malipages",
+  "published": "2026-10-07",
+  "sub_indicator": "sovereignty",
+  "why": "National cloud on two new national datacentres"
+ },
+ {
+  "url": "https://www.itu.int/dms_pub/itu-d/opb/pref/D-PREF-THEM.29-2022-PDF-F.pdf",
+  "title": "Cadre de mise en place de l'infrastructure à clés publiques du Gouvernement du Mali",
+  "publisher": "UIT",
+  "published": "2022",
+  "sub_indicator": "sovereignty",
+  "why": "Government data centres of SMTD and AGETIC"
+ }
+]

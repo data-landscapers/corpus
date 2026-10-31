@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf",
+  "title": "Draft National Data Governance Policy",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2026",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: draft data classification and localisation rules, national data centre"
+ },
+ {
+  "url": "https://mot.gov.gm/wp-content/uploads/2025/11/Liberia-National-Digital-Strategy.pdf",
+  "title": "Liberia National Digital Strategy 2025-2029",
+  "publisher": "Government of Liberia",
+  "published": "2025",
+  "sub_indicator": "sovereignty",
+  "why": "Q1,Q3: national data centre, NIR hosting, cloud policy absent"
+ },
+ {
+  "url": "https://www.mfdp.gov.lr/index.php/component/edocman/reoi-consultancy-for-the-development-of-requirements-and-bidding-documents-consultancy-for-the-development-of-requirements-and-bidding-documents-for-the-establishment-of-a-shared-digital-infrastructure-at-the-national-data-center",
+  "title": "REOI: Shared Digital Infrastructure at the National Data Center",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "2025-02-26",
+  "sub_indicator": "sovereignty",
+  "why": "Q1,Q3: national data centre upgrade"
+ },
+ {
+  "url": "https://www.developmentaid.org/tenders/view/1445139/governance-reform-and-accountability-transformation-great-project-consultancy-to-develop-requirement",
+  "title": "GREAT Project: Shared Digital Infrastructure at the National Data Center",
+  "publisher": "DevelopmentAid",
+  "published": "2025-02-27",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: NDC as hub for e-government"
+ },
+ {
+  "url": "https://www.thenewdawnliberia.com/jepujef/2026/03/Specific-Procurement-Notice-for-e-Liberia.pdf",
+  "title": "Specific Procurement Notice: e-Liberia Portal",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "2026-03",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: sovereign data management requirement"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202610/liberian-mps-begin-scrutinizing-ppp-concession-deal-for-new-national-id",
+  "title": "Liberian MPs begin scrutinizing PPP concession deal for new national ID",
+  "publisher": "Biometric Update",
+  "published": "2026-10-19",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: contract with provider, data terms"
+ },
+ {
+  "url": "https://www.moci.gov.lr/sites/default/files/documents/Final%20Final%20ToR%20for%20for%20the%20Hiring%20of%20ICT%20Firm%20to%20Develop%20OBRS%20for%20LBR%2007222024.pdf",
+  "title": "ToR Online Business Registration System",
+  "publisher": "Ministry of Commerce and Industry",
+  "published": "2024-07",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: source code handed to LBR"
+ }
+]

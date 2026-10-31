@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://chat.esheria.ai/statutes/zm/zm-akn-akn-zm-act-si-2023-43/electronic-government-general-regulations-2023",
+  "title": "Electronic Government (General) Regulations, 2023 (SI 43 of 2023)",
+  "publisher": "Government of Zambia",
+  "published": "2023",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: public bodies must store personal data in the Republic"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025,%20The%20Cyber%20Security_0.pdf",
+  "title": "The Cyber Security Act, No. 3 of 2025",
+  "publisher": "National Assembly of Zambia",
+  "published": "2025",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: critical information incl. public bodies hosted within Republic"
+ },
+ {
+  "url": "https://api.oecdai.org/storage/policy-initiatives/Jul2025/fu_c5qdvrhsmxejmep.pdf",
+  "title": "National Electronic Government Plan 2023-2026",
+  "publisher": "Government of Zambia (Smart Zambia)",
+  "published": "2023",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3: government cloud at Tier 3 National Data Centre"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%2041%20OF%202021%2C%20THE%20ELECTRONIC%20GOVERNMENT%20ACT%2C%202021_0.pdf",
+  "title": "The Electronic Government Act, 2021",
+  "publisher": "National Assembly of Zambia",
+  "published": "2021",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: public data preserved in government designated area"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/documents/committee_reports/Report%20of%20the%20Committee%20on%20Cabinet%20Affairs%20on%20the%20Review%20of%20the%20Operations%20and%20Managementof%20%20SMART%20Zambia%20for%20the%20Third%20Session%20of%20the%20Thirteenth%20National%20Assembly.pdf",
+  "title": "Report of the Committee on Cabinet Affairs on the Review of SMART Zambia",
+  "publisher": "National Assembly of Zambia",
+  "published": "2024",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: Infratel data centre storing government data"
+ },
+ {
+  "url": "https://infratel.co.zm/zicta-and-infratel-are-driving-digital-transformation-through-technology/",
+  "title": "ZICTA and INFRATEL are Driving Digital Transformation",
+  "publisher": "Infratel Corporation",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: ZICTA systems hosted at national data centre"
+ },
+ {
+  "url": "https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Data-Policies-and-Regulations/Examining-Sensitive-Personal-Data-Protection-and-Data-Sovereignty-in-Zambia.pdf",
+  "title": "Examining Sensitive Personal Data Protection and Data Sovereignty in Zambia",
+  "publisher": "D4D Hub",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: localisation under Data Protection Act 2021"
+ }
+]

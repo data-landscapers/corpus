@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sovereignty",
+ "aspect": "rule;hosted",
+ "fact": "The e-Government Authority's guidelines (version 1.0, July 2022) require that one of the disaster recovery sites for a shared e-Government system sit in a Government approved data centre, the National Internet Data Center or a Government Data Center.",
+ "title": "Guidelines and Criteria for Deployment of e-Government Shared Systems",
+ "publisher": "e-Government Authority",
+ "published": "2022-07",
+ "date_source": "source",
+ "why_not": ""
+}

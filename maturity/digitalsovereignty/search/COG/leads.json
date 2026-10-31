@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://numerique.gouv.cg/actualites/data-center-national",
+  "title": "Data Center National",
+  "publisher": "MPTEN - République du Congo",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: national data centre hosts state data"
+ },
+ {
+  "url": "https://www.aci.cg/congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informatique/",
+  "title": "Congo/Numérique : Le pays déterminé à renforcer sa souveraineté informatique",
+  "publisher": "Agence Congolaise d'information",
+  "published": "2026-08-04",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: sovereign cloud goal"
+ },
+ {
+  "url": "https://www.capmad.com/article/frederic-nze-sonde-en-chine-un-nouveau-datacenter-et-un-cloud-souverain-pour-le-congo",
+  "title": "Frédéric Nze sonde en Chine un nouveau datacenter et un cloud souverain pour le Congo",
+  "publisher": "Capmad",
+  "published": "2026-07-30",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3: hosting state databases nationally"
+ },
+ {
+  "url": "https://www.afdb.org/en/news-and-events/congo-new-data-centre-funded-african-development-bank-will-cement-national-and-subregional-digital-sovereignty-70847",
+  "title": "Congo: New data centre funded by African Development Bank will cement national and subregional digital sovereignty",
+  "publisher": "African Development Bank",
+  "published": "2024-05-17",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3"
+ },
+ {
+  "url": "https://fr.allafrica.com/stories/202503010125.html",
+  "title": "Congo-Brazzaville: Infrastructures numériques - Le siège du Datacenter national sera inauguré au mois de novembre",
+  "publisher": "allAfrica",
+  "published": "2025-03-01",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: data centre progress"
+ },
+ {
+  "url": "https://www.journaldebrazza.com/infrastructures-numeriques-le-datacenter-national-du-congo-sera-inaugure-en-novembre/",
+  "title": "Infrastructures numériques : le Datacenter national du Congo sera inauguré en novembre",
+  "publisher": "Journal de Brazza",
+  "published": "2025-08-07",
+  "sub_indicator": "sovereignty",
+  "why": "Q3"
+ },
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/110224/COG-110224.pdf",
+  "title": "Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel",
+  "publisher": "Journal officiel de la République du Congo",
+  "published": "2019-10",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: transfer rule (personal data only)"
+ },
+ {
+  "url": "https://hdl.handle.net/10855/60340",
+  "title": "Building the foundations of a trusted data ecosystem in the Republic of the Congo",
+  "publisher": "UN Economic Commission for Africa",
+  "published": "2026-06-09",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: national data governance strategy"
+ }
+]

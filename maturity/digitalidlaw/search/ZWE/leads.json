@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform",
+  "title": "Zimbabwe looks forward to digital ID rollout after population registry reform",
+  "publisher": "Biometric Update",
+  "published": "2025-07-15",
+  "sub_indicator": "law",
+  "why": "Q1/Q3 digital ID and registry reform"
+ },
+ {
+  "url": "https://zimbabwenow.co.zw/articles/15536/zimbabwes-promised-july-digital-id-rollout-not-yet-announced",
+  "title": "Zimbabwe's promised July digital ID rollout not yet announced",
+  "publisher": "Zimbabwe Now",
+  "published": "2025-07-16",
+  "sub_indicator": "law",
+  "why": "Q1/Q3 digital ID rollout status"
+ },
+ {
+  "url": "https://zimbabwe.misa.org/2024/11/09/misa-zimbabwe-analysis-and-position-on-new-data-regulations/",
+  "title": "MISA Zimbabwe analysis and position on new data regulations",
+  "publisher": "MISA Zimbabwe",
+  "published": "2024-11-09",
+  "sub_indicator": "law",
+  "why": "Q4 regulations under Cyber and Data Protection Act, biometric data"
+ },
+ {
+  "url": "https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11",
+  "title": "Cyber and Data Protection Act, 2021",
+  "publisher": "ZimLII",
+  "published": "2022-03-11",
+  "sub_indicator": "law",
+  "why": "Q2/Q3 law in force covering biometric data"
+ },
+ {
+  "url": "https://greaterinternetfreedom.org/wp-content/uploads/2023/08/Biometrics-and-Digital-ID-in-Zimbabwe_FINAL-APPROVED-30.06.2023.pdf",
+  "title": "Country Report: Biometrics and Digital Identity in Zimbabwe",
+  "publisher": "Greater Internet Freedom",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q1-Q3 National Registration Act, no digital ID law"
+ },
+ {
+  "url": "https://www.law.co.zw/download/1744/",
+  "title": "National Registration Act [Chapter 10:17]",
+  "publisher": "law.co.zw",
+  "published": "2020-07-24",
+  "sub_indicator": "law",
+  "why": "Q2 identity law in force"
+ }
+]

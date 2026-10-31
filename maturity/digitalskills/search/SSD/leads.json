@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://techafricanews.com/2026/06/30/mtn-south-sudan-launches-zero-rated-junub-academy-to-expand-digital-learning-nationwide/",
+  "title": "MTN South Sudan Launches Zero-Rated Junub Academy",
+  "publisher": "TechAfrica News",
+  "published": "2026-06-30",
+  "sub_indicator": "publicskills",
+  "why": "Q1: national e-learning platform with digital skills training"
+ },
+ {
+  "url": "https://radioyei.org/news/technology/data-free-junub-academy-brings-ai-supported-education-to-south-sudan/",
+  "title": "Data Free Junub Academy Brings AI Supported Education to South Sudan",
+  "publisher": "Radio Yei",
+  "published": "2026-06-29",
+  "sub_indicator": "publicskills",
+  "why": "Q1"
+ },
+ {
+  "url": "https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/",
+  "title": "Central Equatoria to launch digital skills programme for over 8,000 people",
+  "publisher": "Eye Radio",
+  "published": "2026-07-30",
+  "sub_indicator": "publicskills",
+  "why": "Q1: state digital skills programme"
+ },
+ {
+  "url": "https://mictps.gov.ss/mictps-launches-financial-digital-literacy-campaign-in-mangateen-idps-camp/",
+  "title": "MICTPS launches financial digital literacy campaign in Mangateen IDPs camp",
+  "publisher": "Ministry of ICT and Postal Services",
+  "published": "2025-06-02",
+  "sub_indicator": "publicskills",
+  "why": "Q1-2"
+ },
+ {
+  "url": "https://techafricanews.com/2025/11/06/mtn-partners-with-government-to-launch-bor-ict-hub-and-online-learning-programs/",
+  "title": "MTN Partners with Government to Launch Bor ICT Hub",
+  "publisher": "TechAfrica News",
+  "published": "2025-11-06",
+  "sub_indicator": "publicskills",
+  "why": "Q1-2"
+ },
+ {
+  "url": "https://mogei.gov.ss/news_details?title=10",
+  "title": "Inauguration of National Conference on ICT in Education",
+  "publisher": "Ministry of General Education and Instruction",
+  "published": "2024-09-22",
+  "sub_indicator": "publicskills",
+  "why": "Q1"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Digital-Economy-SouthSudan-jun22.pdf",
+  "title": "South Sudan Digital Economy Assessment",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "publicskills",
+  "why": "Q3: share with skills not known"
+ },
+ {
+  "url": "https://digitalfinance.worldbank.org/topics/digital-financial-literacy/inadequate-ict-and-digital-infrastructure",
+  "title": "Inadequate ICT and digital infrastructure",
+  "publisher": "World Bank Digital Finance Inclusion",
+  "published": "2024",
+  "sub_indicator": "publicskills",
+  "why": "Q3: skills lack among non-users"
+ }
+]

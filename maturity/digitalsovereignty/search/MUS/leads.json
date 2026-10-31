@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://mitci.govmu.org/mitci/wp-content/uploads/2025/10/Clarification-No.-2.pdf",
+  "title": "RFI for a Sovereign Cloud for the Government of Mauritius, Clarification No. 2",
+  "publisher": "MITCI",
+  "published": "2025-10",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q4: data within Mauritius, exclusive jurisdiction"
+ },
+ {
+  "url": "https://mitci.govmu.org/mitci/wp-content/uploads/2025/05/Blueprint-for-Mauritius-2025.pdf",
+  "title": "A Blueprint for Mauritius: Digital Transformation 2025-2029",
+  "publisher": "MITCI",
+  "published": "2025-05",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: sovereign cloud government data centre; data strategy"
+ },
+ {
+  "url": "https://dataprotection.govmu.org/Documents/NDS_final.pdf",
+  "title": "Mauritius National Data Strategy",
+  "publisher": "Data Protection Office",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: proposes government data hosted locally"
+ },
+ {
+  "url": "https://lexpress.mu/node/552966",
+  "title": "Sécurité et souveraineté des données : un data centre tier IV",
+  "publisher": "L'Express",
+  "published": "2025-12-31",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: state systems hosted in national data centre"
+ },
+ {
+  "url": "https://mitci.govmu.org/mitci/government-online-centre/",
+  "title": "Government Online Centre",
+  "publisher": "MITCI",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: government data centre and g-Cloud"
+ },
+ {
+  "url": "https://mof.govmu.org/Documents/Budget2025_26/2025_26_MITCI.pdf",
+  "title": "Budget 2025-26: MITCI programme estimates",
+  "publisher": "Ministry of Finance",
+  "published": "2025",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: GOC data centre capital spend"
+ }
+]

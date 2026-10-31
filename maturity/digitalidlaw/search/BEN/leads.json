@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sgg.gouv.bj/doc/loi-2025-12/",
+  "title": "Loi N° 2025-12 du 02 juillet 2025 portant modification de la loi n° 2017-08",
+  "publisher": "Secrétariat général du Gouvernement du Bénin",
+  "published": "2025-07-02",
+  "sub_indicator": "law",
+  "why": "Q1-2 identity law amended in force"
+ },
+ {
+  "url": "https://sgg.gouv.bj/doc/decret-2025-678/",
+  "title": "Décret N° 2025-678 du 29 octobre 2025 portant conditions et modalités d'établissement des documents d'identification",
+  "publisher": "Secrétariat général du Gouvernement du Bénin",
+  "published": "2025-10-29",
+  "sub_indicator": "law",
+  "why": "Q4 rule made under identity law"
+ },
+ {
+  "url": "https://sgg.gouv.bj/doc/decret-2025-364/",
+  "title": "Décret N° 2025-364 du 02 juillet 2025 niveaux de garantie des schémas d'identification électronique",
+  "publisher": "Secrétariat général du Gouvernement du Bénin",
+  "published": "2025-07-02",
+  "sub_indicator": "law",
+  "why": "Q3-4 electronic identification rules"
+ },
+ {
+  "url": "https://sgg.gouv.bj/cm/2025-07-02/",
+  "title": "Compte rendu du Conseil des Ministres du 02 juil. 2025",
+  "publisher": "Secrétariat général du Gouvernement du Bénin",
+  "published": "2025-07-02",
+  "sub_indicator": "law",
+  "why": "Q4 implementing decrees adopted"
+ },
+ {
+  "url": "https://sgg.gouv.bj/doc/decret-2020-396/download",
+  "title": "Décret N° 2020-396 du 29 juillet 2020 carte nationale d'identité biométrique",
+  "publisher": "Présidence de la République du Bénin",
+  "published": "2020-07-29",
+  "sub_indicator": "law",
+  "why": "Q3 biometric card under the law"
+ },
+ {
+  "url": "https://sgg.gouv.bj/doc/decret-2020-100/download",
+  "title": "Décret N° 2020-100 du 26 février 2020 portant mise en oeuvre du Registre national des personnes physiques",
+  "publisher": "Présidence de la République du Bénin",
+  "published": "2020-02-26",
+  "sub_indicator": "law",
+  "why": "Q3 register and NPI under the law"
+ },
+ {
+  "url": "https://eservices.anip.bj/reglementation",
+  "title": "ANIP Bénin - Réglementation",
+  "publisher": "ANIP",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1-4 list of texts"
+ },
+ {
+  "url": "https://sgg.gouv.bj/doc/decret-2020-099/download",
+  "title": "Décret N° 2020-099 du 26 février 2020 relatif au Numéro personnel d'Identification",
+  "publisher": "Présidence de la République du Bénin",
+  "published": "2020-02-26",
+  "sub_indicator": "law",
+  "why": "Q3 unique number, e-authentication"
+ }
+]

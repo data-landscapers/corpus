@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099083025102027538/pdf/P505095-7a647ee6-33d5-44b5-97c1-1c135c16efd2.pdf",
+  "title": "Construction and operation of a government data centre",
+  "publisher": "World Bank Group",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: national data centre hosting government systems"
+ },
+ {
+  "url": "https://digmap.pppc.mw/ministry-pppc-take-stock-of-digital-malawi-project/",
+  "title": "Ministry, PPPC take stock of Digital Malawi Project",
+  "publisher": "Digital Malawi Project (PPPC)",
+  "published": "2025-10-08",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: government systems under one roof"
+ },
+ {
+  "url": "https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities",
+  "title": "Digitalizing Malawi",
+  "publisher": "World Bank",
+  "published": "2025-06-23",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: National Data Center for government"
+ },
+ {
+  "url": "https://www.pppc.mw/procurement/reports-notices/reoi-data-migration-and-managed-services",
+  "title": "REoI Data Migration and Managed Services",
+  "publisher": "Public Private Partnership Commission",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3: data classification, migration to national data centre"
+ },
+ {
+  "url": "https://digmap.pppc.mw/government-data-center-making-progress/",
+  "title": "Government Data Center making progress",
+  "publisher": "Digital Malawi Project (PPPC)",
+  "published": "2024-03-01",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: government data centre"
+ },
+ {
+  "url": "https://api.pppc.mw/api/download/791",
+  "title": "National Digitalization Policy",
+  "publisher": "Government of Malawi",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: cloud storage policy gap"
+ },
+ {
+  "url": "https://digmap.pppc.mw/wp-content/uploads/2022/01/THE-INFORMATION-TECHNOLOGY-REGULATIONS-Final.pdf",
+  "title": "The Information Technology Regulations, 2021",
+  "publisher": "Government of Malawi",
+  "published": "2021",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: national data centre, government backbone"
+ }
+]

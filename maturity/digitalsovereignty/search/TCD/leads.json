@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mten.gouv.td/discours-de-haliki-choua-mahamat-sur-la-gouvernance-des-donnees/",
+  "title": "Discours de Haliki Choua Mahamat sur la gouvernance des données",
+  "publisher": "Ministère des Télécommunications du Tchad",
+  "published": "2026-10-07",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: national data governance strategy, sovereign data"
+ },
+ {
+  "url": "https://techafricanews.com/2026/10/14/chad-national-data-governance-strategy-digital-sovereignty/",
+  "title": "Chad Validates National Data Governance Strategy to Advance Digital Sovereignty",
+  "publisher": "TechAfrica News",
+  "published": "2026-10-14",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: strategy validated"
+ },
+ {
+  "url": "https://journaldutchad.com/tchad-un-accord-tripartite-pour-laudit-du-data-center-signe/",
+  "title": "Tchad : un accord tripartite pour l'audit du Data center signé",
+  "publisher": "Journal du Tchad",
+  "published": "2026-02-06",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: national data centre for sovereign hosting of state data"
+ },
+ {
+  "url": "https://www.digitalbusiness.africa/pmice-le-tchad-accelere-les-verifications-autour-du-data-center-et-des-infrastructures-numeriques/",
+  "title": "PMICE : le Tchad avance vers un Data Center national",
+  "publisher": "Digital Business Africa",
+  "published": "2026-05-21",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: data centre built, micro data centres installed"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/chad-govt-seeks-cybastion-support-for-launch-of-data-centre--1576016",
+  "title": "Chad govt seeks Cybastion support for launch of data centre",
+  "publisher": "Telecompaper",
+  "published": "2026-07-03",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: proposed agreement with foreign firm"
+ },
+ {
+  "url": "https://www.digitalbusiness.africa/tchad-laudit-de-securite-du-datacenter-national-avant-son-inauguration/",
+  "title": "Tchad : L'audit de sécurité du datacenter national avant son inauguration",
+  "publisher": "Digital Business Africa",
+  "published": "2026-02-09",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: data centre"
+ },
+ {
+  "url": "https://www.tchadhub.com/blog/strategie-nationale-gouvernance-des-donnees-tchad",
+  "title": "Stratégie nationale de gouvernance des données",
+  "publisher": "TchadHub",
+  "published": "2026-10-08",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: strategy"
+ },
+ {
+  "url": "https://dlapiperdataprotection.com/guide.pdf?c=TD",
+  "title": "Data Protection Laws of the World: Chad",
+  "publisher": "DLA Piper",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: transfer rules in 2015 law"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "law",
+ "aspect": "cover",
+ "fact": "The Central Bank of Tunisia's Circular to Banks No. 2025-06 of 28 February 2025 requires banks doing electronic client onboarding to verify identity documents against the issuing authorities' electronic systems where connected and to match biometric data, at a level at least equal to physical presence.",
+ "title": "Circular to Banks No. 2025-06 of February 28, 2025",
+ "publisher": "Central Bank of Tunisia",
+ "published": "2025-02-28",
+ "date_source": "source",
+ "why_not": "off-topic: a central bank onboarding circular, not a rule made under the identity law"
+}

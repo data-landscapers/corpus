@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sovereignty",
+ "aspect": "terms",
+ "fact": "SARS's answers to bidders on RFP07/2026 require the cloud component to be deployed in a South African region for data residency and sovereignty, hosted in a SARS-controlled tenancy to preserve key management and exit rights, and refuse off-shore SaaS tenancies storing SARS data.",
+ "title": "RFP07/2026 The Procurement of a Master Data Management and Data Governance Solution: Questions & Answers, Communication 3/3",
+ "publisher": "South African Revenue Service",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

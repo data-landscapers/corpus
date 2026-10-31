@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "publicskills",
+ "aspect": "measured",
+ "fact": "Only 17% of Djibouti's population has basic ICT skills, according to the Technology Needs Assessment.",
+ "title": "Technology Needs Assessment - Republic of Djibouti",
+ "publisher": "United Nations for the Least Developed Countries (UN Technology Bank)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

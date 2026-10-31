@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.onecitizendaily.com/index.php/2024/10/05/govt-to-construct-resilient-data-center/",
+  "title": "Gov't to construct Resilient Data Center",
+  "publisher": "One Citizen Daily Newspaper",
+  "published": "2024-10-05",
+  "sub_indicator": "sovereignty",
+  "why": "Q1,Q3: national data centre for full control of data"
+ },
+ {
+  "url": "https://www.nca.gov.ss/nca-strengthens-regional-partnerships-and-data-governance-at-africa-tech-festival-2025",
+  "title": "NCA Strengthens Regional Partnerships and Data Governance at Africa Tech Festival 2025",
+  "publisher": "National Communication Authority",
+  "published": "2025-11-10",
+  "sub_indicator": "sovereignty",
+  "why": "Q1"
+ },
+ {
+  "url": "https://www.kictanet.or.ke/south-sudan-data-governance-workshop-juba/",
+  "title": "South Sudan Ties Data Rules to Citizen Trust",
+  "publisher": "KICTANet",
+  "published": "2026-09-11",
+  "sub_indicator": "sovereignty",
+  "why": "Q1-2: data governance, classification, bill"
+ },
+ {
+  "url": "https://media.eusl.eu/wp-content/uploads/sites/82/2025/07/01.-Strategic-Framework-for-the-Digital-Transformation-of-South-Sudan.pdf",
+  "title": "SUDESA: Strategic Framework for the Digital Transformation of South Sudan",
+  "publisher": "EUSL",
+  "published": "2025-07",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: sovereign data centres, localisation"
+ },
+ {
+  "url": "http://www.xinhuanet.com/english/2019-05-28/c_138097789.htm",
+  "title": "South Sudan launches state-of-art data center",
+  "publisher": "Xinhua",
+  "published": "2019-05-28",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: Juba data centre hosting national payment systems"
+ },
+ {
+  "url": "https://dataprotection.africa/south-sudan/",
+  "title": "South Sudan Fact Sheet",
+  "publisher": "Data Protection Africa",
+  "published": "2022-05-23",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: no data law; 2021 order"
+ },
+ {
+  "url": "https://dig.watch/countries/south-sudan",
+  "title": "South Sudan | Digital Watch Observatory",
+  "publisher": "Digital Watch Observatory",
+  "published": "2026",
+  "sub_indicator": "sovereignty",
+  "why": "Q1"
+ },
+ {
+  "url": "https://computecompute.org/law/ss",
+  "title": "Data-center law in South Sudan",
+  "publisher": "computecompute.org",
+  "published": "2026",
+  "sub_indicator": "sovereignty",
+  "why": "Q2"
+ }
+]

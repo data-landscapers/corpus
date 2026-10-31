@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://emansion.gov.lr/sites/default/files/documents/Executive%20Order%20147%20%20-%20Mandatory%20Enrollment%20of%20all%20Citizens%20and%20the%20use%20of%20NBIC_0.pdf",
+  "title": "Executive Order 147: Mandatory Enrollment of all Citizens and the use of NBIC",
+  "publisher": "Executive Mansion, Republic of Liberia",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q2-4: order under NIR Act 2011, e-verification, KYC"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202505/liberia-makes-national-id-enrollment-mandatory-for-citizens-residents",
+  "title": "Liberia makes national ID enrollment mandatory for citizens, residents",
+  "publisher": "Biometric Update",
+  "published": "2025-05-01",
+  "sub_indicator": "law",
+  "why": "Q4: rules under the NIR law"
+ },
+ {
+  "url": "https://liberianinvestigator.com/liberia-biometric-id-enrollment-executive-order-147/",
+  "title": "President Boakai mandates biometric ID for all Liberians and foreign residents",
+  "publisher": "The Liberian Investigator",
+  "published": "2025-04-30",
+  "sub_indicator": "law",
+  "why": "Q4: EO 147 under NIR Act"
+ },
+ {
+  "url": "https://liblaw.org/document/amended-subscribers-identification-module-sim-cards-removable-user-identity-module-2020/",
+  "title": "Amended SIM Card Registration Regulations LTA-REG-008",
+  "publisher": "Liberia Telecommunications Authority",
+  "published": "2020",
+  "sub_indicator": "law",
+  "why": "Q4: rule requiring NIR verification"
+ },
+ {
+  "url": "https://lawsofliberia.org/nir/",
+  "title": "National Identification Registry (NIR) Act of 2011",
+  "publisher": "Republic of Liberia",
+  "published": "2011",
+  "sub_indicator": "law",
+  "why": "Q1-3: the law, biometric register, unique number"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/281811489660798714/pdf/113549-WP-P156810-PUBLIC-Liberia-ID4D-Web.pdf",
+  "title": "Liberia ID4D Diagnostic",
+  "publisher": "World Bank Group",
+  "published": "2017",
+  "sub_indicator": "law",
+  "why": "Q2-3: NIR Act enacted 2011, digital identity not defined"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202610/liberian-mps-begin-scrutinizing-ppp-concession-deal-for-new-national-id",
+  "title": "Liberian MPs begin scrutinizing PPP concession deal for new national ID",
+  "publisher": "Biometric Update",
+  "published": "2026-10-19",
+  "sub_indicator": "law",
+  "why": "Q1: legislature scrutiny of ID system concession"
+ }
+]

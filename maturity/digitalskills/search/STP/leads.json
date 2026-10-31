@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.learningpassport.org/stories/teachers-becoming-digital-learning-champions-learning-passport-s%C3%A3o-tom%C3%A9-and-pr%C3%ADncipe",
+  "title": "Teachers becoming digital learning champions with the Learning Passport in Sao Tome and Principe",
+  "publisher": "UNICEF Learning Passport",
+  "published": "2024-10-07",
+  "sub_indicator": "publicskills",
+  "why": "Q1: National Programme for Digital Learning"
+ },
+ {
+  "url": "https://www.glebatv.st/todas-noticias/formacao-em-aprendizagem-digital-capacita-mais-de-200-professores-e-reforca-ensino-misto-em-sao-tome-e-principe",
+  "title": "Formacao em Aprendizagem Digital capacita mais de 200 professores",
+  "publisher": "Gleba TV",
+  "published": "",
+  "sub_indicator": "publicskills",
+  "why": "Q2: numbers trained"
+ },
+ {
+  "url": "https://www.unicef.org/innocenti/stories/reimagining-education-through-digital-learning-s%C3%A3o-tom%C3%A9-and-pr%C3%ADncipe",
+  "title": "Reimagining education through digital learning in Sao Tome and Principe",
+  "publisher": "UNICEF Innocenti",
+  "published": "2022-04-21",
+  "sub_indicator": "publicskills",
+  "why": "Q1: digital learning programme"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099629206252642011/pdf/IDU-286a281b-5c4d-4a64-b69a-afbc39f190c2.pdf",
+  "title": "Tecnologias da Informacao e Comunicacao (TIC) programa 10 classe",
+  "publisher": "Ministerio da Educacao STP / World Bank",
+  "published": "",
+  "sub_indicator": "publicskills",
+  "why": "Q1: school digital literacy curriculum"
+ },
+ {
+  "url": "https://inic.gov.st/viewdoc.php?id=21",
+  "title": "Estrategia Nacional de Ciberseguran\u00e7a (literacia digital programme)",
+  "publisher": "INIC",
+  "published": "",
+  "sub_indicator": "publicskills",
+  "why": "Q1: digital literacy programme in strategy"
+ },
+ {
+  "url": "https://akelius-foundation.org/files/v2/assets/2023_09_28_UNICEF_Sao_Tome_e_Principe_698f8bf474.pdf",
+  "title": "UNICEF Sao Tome e Principe: National Digital Learning Program",
+  "publisher": "Akelius Foundation",
+  "published": "2023-09-28",
+  "sub_indicator": "publicskills",
+  "why": "Q1: PNAD"
+ },
+ {
+  "url": "https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2025/11/Dia-3-Sao-Tome-e-Principe.pdf",
+  "title": "Instituto Nacional de Estatistica de Sao Tome e Principe (UMC)",
+  "publisher": "INE STP / ITU",
+  "published": "2025-11",
+  "sub_indicator": "publicskills",
+  "why": "Q3: what is measured on ICT"
+ },
+ {
+  "url": "https://afi-global.org/wp-content/uploads/2026/02/Relatorio_lado_da_procura-Final-PT.pdf",
+  "title": "Relatorio inquerito lado da procura",
+  "publisher": "AFI",
+  "published": "2026-02",
+  "sub_indicator": "publicskills",
+  "why": "Q3: survey on digital access"
+ }
+]

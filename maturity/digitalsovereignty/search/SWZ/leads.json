@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.eswatiniobserver.com/government-has-not-signed-google-deal/",
+  "title": "Government has not signed Google deal",
+  "publisher": "Eswatini Observer",
+  "published": "2025-07-28",
+  "sub_indicator": "geopol.sovereignty--digital-sovereignty",
+  "why": "Q4/Q1: data hosting and Google MoU"
+ },
+ {
+  "url": "https://www.africa-press.net/eswatini/all-news/eswatini-google-deal-wont-affect-compromise-national-data",
+  "title": "Eswatini-Google Deal Won't Affect Compromise National Data",
+  "publisher": "Africa-Press",
+  "published": "2025-04-02",
+  "sub_indicator": "geopol.sovereignty--digital-sovereignty",
+  "why": "Q4: data terms in Google partnership"
+ },
+ {
+  "url": "https://www.eswatiniobserver.com/minister-getting-threats/",
+  "title": "Minister Getting Threats",
+  "publisher": "Eswatini Observer",
+  "published": "2025-04-13",
+  "sub_indicator": "geopol.sovereignty--digital-sovereignty",
+  "why": "Q3: RSTP mandate for government ICT and data centre"
+ },
+ {
+  "url": "https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20ICT%202025.pdf",
+  "title": "Annual Report ICT 2025",
+  "publisher": "Parliament of Eswatini",
+  "published": "2025",
+  "sub_indicator": "geopol.sovereignty--digital-sovereignty",
+  "why": "Q1/Q3: national data centre, Google partnership"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-12/dra_report_eswatini.pdf",
+  "title": "Digital Readiness Assessment Eswatini",
+  "publisher": "UNDP",
+  "published": "2024-12",
+  "sub_indicator": "geopol.sovereignty--digital-sovereignty",
+  "why": "Q3: National Data Centre at RSTP"
+ },
+ {
+  "url": "https://smartafrica.org/wp-content/uploads/2025/07/RFP-Eswatini-Data-Policy.pdf",
+  "title": "Terms of Reference: Eswatini National Data Policy",
+  "publisher": "Smart Africa",
+  "published": "2025-07",
+  "sub_indicator": "geopol.sovereignty--digital-sovereignty",
+  "why": "Q1: national data policy with sovereignty principles"
+ },
+ {
+  "url": "https://edpa.org.sz/assets/documents/Data%20Mapping%20Guideline.pdf",
+  "title": "EDPA General Notice No 2/2025",
+  "publisher": "Eswatini Data Protection Authority",
+  "published": "2025",
+  "sub_indicator": "geopol.sovereignty--digital-sovereignty",
+  "why": "Q2: directive on data mapping"
+ },
+ {
+  "url": "https://www.gov.sz/images/ICT/DATA-PROTECTION-ACT.pdf",
+  "title": "Data Protection Act 2022",
+  "publisher": "Government of Eswatini",
+  "published": "2022",
+  "sub_indicator": "geopol.sovereignty--digital-sovereignty",
+  "why": "Q2: transfer restrictions"
+ }
+]

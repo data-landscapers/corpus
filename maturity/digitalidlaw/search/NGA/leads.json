@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.mondaq.com/nigeria/constitutional-administrative-law/1829270/the-national-identity-management-commission-establishment-act-2026-key-new-provisions",
+  "title": "The National Identity Management Commission (Establishment) Act, 2026 - Key New Provisions",
+  "publisher": "Mondaq (Rotimi Akapo)",
+  "published": "2026-08-11",
+  "sub_indicator": "law",
+  "why": "Q1-3: 2026 Act repeals 2007 Act, digital identity provisions"
+ },
+ {
+  "url": "https://statehouse.gov.ng/president-tinubu-signs-nimc-act-2026-into-law-as-minister-reveals-the-arrest-of-terrorists-with-nimc-database/",
+  "title": "President Tinubu signs NIMC Act 2026 into law",
+  "publisher": "State House, Abuja",
+  "published": "2026-06-26",
+  "sub_indicator": "law",
+  "why": "Q1-2: law signed"
+ },
+ {
+  "url": "https://thesun.ng/senate-recommits-national-identity-management-bill-passes-five-others-for-concurrence/",
+  "title": "Senate recommits National Identity Management Bill",
+  "publisher": "The Sun",
+  "published": "2025-10-15",
+  "sub_indicator": "law",
+  "why": "Q1: bill before Senate"
+ },
+ {
+  "url": "https://www.ncc.gov.ng/sites/default/files/2025-07/Business-Rules-for-the-Registration-of-Communications-Subscribers-Regulations-2025.pdf",
+  "title": "Business Rules for the Registration of Communications Subscribers Regulations",
+  "publisher": "Nigerian Communications Commission",
+  "published": "2025-07",
+  "sub_indicator": "law",
+  "why": "Q4: NIN mandatory for SIM activation, July 2025 amendment"
+ },
+ {
+  "url": "https://newtelegraphng.com/senate-passes-natl-identity-mgt-commission-repeal-re-enactment-bill/",
+  "title": "Senate Passes Nat'l Identity Mgt Commission Repeal, Re-Enactment Bill",
+  "publisher": "New Telegraph",
+  "published": "2025-03-26",
+  "sub_indicator": "law",
+  "why": "Q1: bill passed Senate"
+ },
+ {
+  "url": "https://old.ncc.gov.ng/media-centre/news-headlines/1468-press-statement-ncc-announces-final-deadline-for-nin-sim-linkage-compliance-september-14-2024",
+  "title": "NCC Announces Final Deadline for NIN-SIM Linkage Compliance",
+  "publisher": "Nigerian Communications Commission",
+  "published": "2024-08-28",
+  "sub_indicator": "law",
+  "why": "Q4: NIN-SIM rule"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202407/nigeria-undertakes-reforms-to-strengthen-national-digital-id-legal-framework",
+  "title": "Nigeria undertakes reforms to strengthen national digital ID legal framework",
+  "publisher": "Biometric Update",
+  "published": "2024-07-29",
+  "sub_indicator": "law",
+  "why": "Q1,Q3: repeal bill"
+ },
+ {
+  "url": "https://www.cbn.gov.ng/Out/2023/PSMD/Circular%20on%20Tier%201%20Wallets%20&%20Accounts,%20Guidance%20Note%20&%20Profiling%20of%20Customers'%20Accounts%20&%20Wallets.pdf",
+  "title": "Circular on Tier-1 Wallets and Accounts: mandatory use of BVN or NIN",
+  "publisher": "Central Bank of Nigeria",
+  "published": "2023-12-01",
+  "sub_indicator": "law",
+  "why": "Q4: banks must check NIN"
+ }
+]

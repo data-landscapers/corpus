@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://journal-officiel.ga/20087-027-2023-/",
+  "title": "Loi N° 027/2023 portant réglementation de la cybersécurité et de la lutte contre la cybercriminalité",
+  "publisher": "Journal Officiel de la République Gabonaise",
+  "published": "2023-07-12",
+  "sub_indicator": "sovereignty",
+  "why": "Q2,Q4: classification of state data, in-country hosting, contract reversibility"
+ },
+ {
+  "url": "https://presidence.ga/2026/07/03/infrastructures-numeriques-le-chef-de-letat-inaugure-le-data-center-du-gabon/",
+  "title": "Infrastructures numériques : Le Chef de l'État inaugure le Data Center du Gabon",
+  "publisher": "Présidence de la République Gabonaise",
+  "published": "2026-07-03",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: national sovereign data centre inaugurated"
+ },
+ {
+  "url": "https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz",
+  "title": "Gabon launches sovereign data centre",
+  "publisher": "ITWeb Africa",
+  "published": "2026-07-08",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: hosting government data nationally"
+ },
+ {
+  "url": "https://www.apdpvp.ga/gabon-digital-lapdpvp-et-le-ministere-de-leconomie-numerique-preparent-linauguration-du-nouveau-data-center-national/",
+  "title": "Gabon Digital : l'APDPVP et le Ministère de l'Économie Numérique préparent l'inauguration du nouveau Data Center national",
+  "publisher": "APDPVP",
+  "published": "2026-06-12",
+  "sub_indicator": "sovereignty",
+  "why": "Q1,Q3: localising critical data"
+ },
+ {
+  "url": "https://presidence.ga/2025/06/29/le-chef-de-letat-officialise-la-signature-de-la-convention-pour-la-creation-du-data-center-national-de-laninf-avec-le-groupe-cybastion/",
+  "title": "Le Chef de l'État officialise la signature de la convention pour la création du Data Center national de l'ANINF avec le groupe Cybastion",
+  "publisher": "Présidence de la République Gabonaise",
+  "published": "2025-06-29",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: sovereignty policy, national data centre convention"
+ },
+ {
+  "url": "https://diplomatie.gouv.ga/gabon-le-gabon-renforce-sa-souverainete-numerique-avec-linauguration-de-son-premier-datacenter/",
+  "title": "Le Gabon renforce sa souveraineté numérique avec l'inauguration de son premier Datacenter",
+  "publisher": "Ministère des Affaires Etrangères",
+  "published": "2026-09-22",
+  "sub_indicator": "sovereignty",
+  "why": "Q1,Q3: public data hosting nationally"
+ },
+ {
+  "url": "https://gabonofficiel.com/plateforme-numerique-cnss-cnamgs-clikafrik-sort-du-silence-et-retablit-les-faits/",
+  "title": "Plateforme numérique CNSS–CNAMGS : CLIKAFRIK sort du silence et rétablit les faits",
+  "publisher": "Gabon Officiel",
+  "published": "2026-02-12",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: contract milestone of source-code transfer"
+ },
+ {
+  "url": "https://www.economie-numerique.gouv.ga/9-actualites/2165-un-nouveau-protocole-d-accord-pour-renforcer-la-souverainete-numerique-du-gabon/",
+  "title": "Un nouveau protocole d'Accord pour renforcer la souveraineté numérique du Gabon",
+  "publisher": "Ministère de l'Economie Numérique",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: MoU with PreSight, government data centre"
+ }
+]

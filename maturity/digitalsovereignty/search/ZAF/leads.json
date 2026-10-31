@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.itweb.co.za/article/sovereignty-at-the-forefront-of-govt-digital-transformation-strategy/nWJad7bN32m7bjO1",
+  "title": "Sovereignty at the forefront of govt digital transformation strategy",
+  "publisher": "ITWeb",
+  "published": "2026-09-23",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: sovereignty in government strategy"
+ },
+ {
+  "url": "https://www.gov.za/news/speeches/minister-solly-malatsi-national-digital-sovereignty-agenda-21-sep-2026",
+  "title": "Minister Solly Malatsi: National Digital Sovereignty Agenda",
+  "publisher": "South African Government",
+  "published": "2026-09-21",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: national digital sovereignty agenda"
+ },
+ {
+  "url": "https://www.sanews.gov.za/%69%6E%64%65%78.%70%68%70/south-africa/south-africa-building-secure-and-inclusive-digital-future",
+  "title": "South Africa is building a secure and inclusive digital future",
+  "publisher": "SAnews",
+  "published": "2026-07-06",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3: government cloud via CSIR"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/39450/",
+  "title": "Question to the Minister of Home Affairs - NO481",
+  "publisher": "PMG",
+  "published": "2026-05-27",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: ID infrastructure migrated to SARS-supported data centre"
+ },
+ {
+  "url": "https://www.gov.za/news/speeches/director-general-duncan-pieterse-mzansixchange-pilot-launch-09-oct-2025",
+  "title": "Director-General Duncan Pieterse: MzansiXchange pilot launch",
+  "publisher": "South African Government",
+  "published": "2025-10-09",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: data exchange, departmental data sovereignty"
+ },
+ {
+  "url": "https://nationalgovernment.co.za/entity_annual/4319/2025-state-information-technology-agency-(sita)-annual-report.pdf",
+  "title": "SITA Annual Report 2024/25",
+  "publisher": "SITA",
+  "published": "2025",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: government sovereign cloud"
+ },
+ {
+  "url": "https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf",
+  "title": "Electronic Communications Act: National Data and Cloud Policy",
+  "publisher": "Government Gazette 50741",
+  "published": "2024-06",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q2: government data classification and in-country storage"
+ },
+ {
+  "url": "https://www.etenders.gov.za/home/Download/?blobName=8c39da88-e19c-4ae2-9ba4-5e77fadba4d1.pdf&downloadedFileName=SARS+RFP+07-2026++Questions+and+Answers+3.pdf",
+  "title": "RFP07/2026 Questions and Answers 3",
+  "publisher": "SARS",
+  "published": "2026",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: SARS contract data residency, key management, exit rights"
+ }
+]

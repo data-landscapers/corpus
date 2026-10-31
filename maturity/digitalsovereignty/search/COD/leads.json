@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ugptn.cd/en/components/c2",
+  "title": "Component 2 — Digital foundations (Sovereign Cloud, public data governance)",
+  "publisher": "UGPTN",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: sovereign cloud and data governance plan"
+ },
+ {
+  "url": "https://sgptntic.gouv.cd/transition-numerique-le-ministre-augustin-kibassa-maliba-visite-le-data-center-du-gouvernement/",
+  "title": "Transition Numérique : Le Ministre Augustin Kibassa Maliba visite le Data center du Gouvernement",
+  "publisher": "Secrétariat Général des PTNTIC",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q2/Q3: telecom law requires public data hosted in government data centre"
+ },
+ {
+  "url": "https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf",
+  "title": "Termes de référence pour une assistance technique relative à la gouvernance et la gestion des données publiques en RDC",
+  "publisher": "UGPTN",
+  "published": "2026-04",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3: data classification and hosting strategy; hosting fragmented"
+ },
+ {
+  "url": "https://bankable.africa/en/numerique/1803-2589-data-centers-fintech-cloud-tenus-d-obtenir-un-agrement-avant-le-30-juin-2026",
+  "title": "Data centers, fintech, cloud… tenus d'obtenir un agrément avant le 30 juin 2026",
+  "publisher": "Bankable",
+  "published": "2026-03-18",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: authorisation rules for data centres and hosting"
+ },
+ {
+  "url": "https://acp.cd/economie/le-gouvernement-adopte-le-projet-de-decret-portant-gestion-des-data-center-nationaux-en-rdc/",
+  "title": "Le gouvernement adopte le projet de décret portant gestion des Data Center nationaux en RDC",
+  "publisher": "ACP",
+  "published": "2022-07-18",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3: national data centre decree"
+ },
+ {
+  "url": "https://droitnumerique.cd/le-transfert-des-donnees-personnelles-hors-de-la-rd-congo/",
+  "title": "Le transfert des données personnelles hors de la RD Congo",
+  "publisher": "Droit-Numérique.cd",
+  "published": "2025-03-27",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: Digital Code art. 201 localisation principle"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident",
+  "title": "DRC launches RDC-Pass digital ID platform under 20-year PPP with Trident",
+  "publisher": "Biometric Update",
+  "published": "2026-06-15",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: PPP data sovereignty questions"
+ },
+ {
+  "url": "https://acp.cd/economie/rdc-loperationnalisation-des-autorites-competentes-recommandee-pour-le-projet-rdc-pass/",
+  "title": "RDC : l'opérationnalisation des autorités compétentes recommandée pour le projet RDC-PASS",
+  "publisher": "ACP",
+  "published": "2026-07-07",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: contract data sovereignty concerns"
+ }
+]

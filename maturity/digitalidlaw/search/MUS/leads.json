@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://supremecourt.govmu.org/downloadPDF/legislation/10054120",
+  "title": "National Identity Card (Mobile ID) Regulations 2024",
+  "publisher": "Government of Mauritius (Gazette)",
+  "published": "2024-02-17",
+  "sub_indicator": "law",
+  "why": "Q3/Q4: rules under the NIC Act for electronic Mobile ID"
+ },
+ {
+  "url": "https://mnis.govmu.org/wp-content/uploads/2025/05/29_The-National-IC-Reg-2024-.pdf",
+  "title": "Government Notice No. 29 of 2024, National Identity Card Regulations 2024",
+  "publisher": "Government of Mauritius (MNIS)",
+  "published": "2024-02",
+  "sub_indicator": "law",
+  "why": "Q4: regulations under NIC Act, biometric/chip card"
+ },
+ {
+  "url": "https://pmo.govmu.org/CabinetDecision/2024/FINAL_Highlights%20of%20Cabinet%20Meeting%20-%20%20Friday%2002%20February%2024_1%20%281%29.pdf",
+  "title": "Highlights of Cabinet Meeting, 2 February 2024",
+  "publisher": "Prime Minister's Office",
+  "published": "2024-02-02",
+  "sub_indicator": "law",
+  "why": "Q4: promulgation of three NIC regulations"
+ },
+ {
+  "url": "https://pmo.govmu.org/CabinetDecision/2024/Highlights_Cabinet_Meeting-27_Sept_24.pdf",
+  "title": "Highlights of Cabinet Meeting, 27 September 2024",
+  "publisher": "Prime Minister's Office",
+  "published": "2024-09-27",
+  "sub_indicator": "law",
+  "why": "Q4: Card Usage Regulations 2024, electronic reading"
+ },
+ {
+  "url": "https://www.lemauricien.com/le-mauricien/632461/632461/",
+  "title": "Motion of Disallowance: Shakeel Mohamed",
+  "publisher": "Le Mauricien",
+  "published": "2024-04-26",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: NIC Act and Mobile ID regulations debated"
+ },
+ {
+  "url": "https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=&doctitle=TmF0aW9uYWwgSWRlbnRpdHkgQ2FyZCBBY3Q%3D&doctype=act",
+  "title": "National Identity Card Act (Act 60 of 1985, amended)",
+  "publisher": "Laws of Mauritius",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: Act in force, amended 2023 for Mobile ID"
+ }
+]

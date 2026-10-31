@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://actualite.cd/2026/06/12/assemblee-nationale-venance-eyanga-et-patrick-namazihana-deposent-une-proposition-de-loi",
+  "title": "Assemblée nationale : Venance Eyanga et Patrick Namazihana déposent une proposition de loi pour doter le pays d'un système national d'identification fiable",
+  "publisher": "Actualite.cd",
+  "published": "2026-06-12",
+  "sub_indicator": "law",
+  "why": "Q1: identification bill tabled 12 June 2026"
+ },
+ {
+  "url": "https://kivuinfo.com/rdc-le-depute-national-patrick-baka-wa-bana-depose-une-proposition-de-loi-visant-a-moderniser-lidentification-des-personnes-physiques/",
+  "title": "RDC : le député national Patrick Baka wa Bana dépose une proposition de loi visant à moderniser l'identification des personnes physiques",
+  "publisher": "Kivu Info",
+  "published": "2026-06-12",
+  "sub_indicator": "law",
+  "why": "Q1/Q3: bill with unique identifier and biometrics"
+ },
+ {
+  "url": "https://leganews.pro/articles/019f0ae7-a391-766c-8bfa-9e6d33fbf99d",
+  "title": "Décret n° 25/037 du 17 novembre 2025 modifiant et complétant le Décret n° 22/08 portant création d'une carte d'identité nationale",
+  "publisher": "Leganews Pro",
+  "published": "2026-06-27",
+  "sub_indicator": "law",
+  "why": "Q4: decree amending ID card decree, biometric"
+ },
+ {
+  "url": "https://leganet.cd/Legislation/Droit%20Public/Identification/decret%2022.04.02.03.2022.html",
+  "title": "Décret n° 22/07 du 02 mars 2022 portant création d'un fichier général de la population",
+  "publisher": "Leganet.cd",
+  "published": "2022-03-02",
+  "sub_indicator": "law",
+  "why": "Q1/Q3: decree-based biometric population file and national ID number, no law"
+ },
+ {
+  "url": "https://droitnumerique.cd/code-du-numerique-congolais-rdc-pdf/livre-iii-titre-i/",
+  "title": "Code du numérique, Livre III Titre I et II (articles 168-175)",
+  "publisher": "Droit-Numérique.cd",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: law in force providing electronic identification and unique-ID card"
+ },
+ {
+  "url": "https://beto.cd/onip-rgph2-deux-comptages-population-autorite-protection-donnees/",
+  "title": "Identification et recensement : deux comptages à la fois",
+  "publisher": "Beto.cd",
+  "published": "2026-09-13",
+  "sub_indicator": "law",
+  "why": "Q2/Q4: legal basis of identification, mass identification Dec 2026"
+ },
+ {
+  "url": "https://acp.cd/nation/rdc-le-senat-informe-de-la-delivrance-lannee-prochaine-de-la-carte-didentite/",
+  "title": "RDC : le Sénat informé de la délivrance l'année prochaine de la carte d'identité",
+  "publisher": "ACP",
+  "published": "2025-11-13",
+  "sub_indicator": "law",
+  "why": "Q1/Q4: ID process relaunch"
+ },
+ {
+  "url": "https://acp.cd/economie/rdc-loperationnalisation-des-autorites-competentes-recommandee-pour-le-projet-rdc-pass/",
+  "title": "RDC : l'opérationnalisation des autorités compétentes recommandée pour le projet RDC-PASS",
+  "publisher": "ACP",
+  "published": "2026-07-07",
+  "sub_indicator": "law",
+  "why": "Q3/Q4: Digital Code articles 173 etc. awaiting implementing texts"
+ }
+]

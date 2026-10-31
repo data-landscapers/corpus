@@ -35,9 +35,9 @@ dataprotectionlaw,general,gov.legislate--data-protection-legislation,2026-10-29,
 dataprotectionreadiness,system,gov.protect--national-data-protection-readiness,2026-10-30,12,55.0,100
 datatransfers,rule,gov.regional--cross-border-data-transfers,2026-10-30,12,55.0,56
 digitaldivides,ruralaccess,include.divides--bridging-of-digital-divides,2026-10-30,12,55.0,152
-digitalidlaw,law,gov.legislate--legislation-covering-digital-id,,,,
-digitalskills,publicskills,capacity.literacy--digital-literacy-general-population,,,,
-digitalsovereignty,sovereignty,geopol.sovereignty--digital-sovereignty,,,,
+digitalidlaw,law,gov.legislate--legislation-covering-digital-id,2026-10-31,46,47.4,76
+digitalskills,publicskills,capacity.literacy--digital-literacy-general-population,2026-10-31,46,47.4,119
+digitalsovereignty,sovereignty,geopol.sovereignty--digital-sovereignty,2026-10-31,46,47.4,50
 digitalstrategy,national,gov.policy--digital-transformation-strategy,,,,
 disabilityaccess,accessibility,include.access--inclusion-of-persons-with-disabilities,,,,
 domesticfinancing,financing,finance.budget--sustainable-domestic-financing-of-digital-transformation,,,,

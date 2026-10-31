@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/decret-n2022-263-pr-mi-modifiant-et-completant-le-decret-n2021-017-pr-mi-fixant-les-modalites-de-financement-du-registre-national-des-personnes-physiques/",
+  "title": "Décret n° 2022-263/PR/MI modifiant le décret n° 2021-017/PR/MI (financement du RNPP)",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2022-10",
+  "sub_indicator": "law",
+  "why": "rules under the ID law"
+ },
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/decret-n2020-150-pr-mi-portant-composition-caracteristique-et-champ-dapplication-lies-au-numero-national-didentification-nni/",
+  "title": "Décret n° 2020-150/PR/MI portant composition, caractéristique et champ d'application du NNI",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2020-07",
+  "sub_indicator": "law",
+  "why": "rules under law: NNI mandated for telecoms, banks-private bodies"
+ },
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/decret-n2020-146-pr-mi-portant-modalites-dacces-dexploitation-et-de-communication-du-registre-national-des-personnes-physiques/",
+  "title": "Décret n° 2020-146/PR/MI modalités d'accès au RNPP",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2020-07",
+  "sub_indicator": "law",
+  "why": "rules under law; digital ID"
+ },
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n39-an-19-8eme-l-portant-identification-des-personnes-physiques-en-republique-de-djibouti-creation-du-numero-national-didentification-et-etablissement-dun-registre-national/",
+  "title": "Loi n° 39/AN/19/8ème L portant identification des personnes physiques",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2019-01",
+  "sub_indicator": "law",
+  "why": "ID law in force, biometric register and NNI"
+ }
+]

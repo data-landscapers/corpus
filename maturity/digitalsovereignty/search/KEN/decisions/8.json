@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "sovereignty",
+ "aspect": "rule;terms",
+ "fact": "The ICT Authority Government Cloud Computing Standard ICTA-8.003:2023, approved 3 May 2023 and effective 1 July 2023, requires ministry, department and agency data to be stored and processed within Kenya and cloud contracts to carry an exit plan and a data-location clause.",
+ "title": "Government ICT Standards: Cloud Computing Standard ICTA-8.003:2023",
+ "publisher": "ICT Authority, Kenya",
+ "published": "2023-05-03",
+ "date_source": "source",
+ "why_not": "off-topic: dated 2023-05-03, before the three-year window; the cloud policy of 2024 is selected instead"
+}

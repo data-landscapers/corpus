@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.gov.cv/documents/d/guest/bo_05-06-2025_45_i85809",
+  "title": "Boletim Oficial n.º 45, I Série (Resolução 45/2025, Microsoft DDP)",
+  "publisher": "Boletim Oficial",
+  "published": "2025-06-05",
+  "sub_indicator": "sovereignty",
+  "why": "Q4 contract with foreign provider; government cloud"
+ },
+ {
+  "url": "https://nosi.cv/documents/20121/3002157/PAO_2025.pdf.pdf/af80ba78-d208-5551-1171-6b5a7609b71a",
+  "title": "Plano de Atividades e Orçamento 2025",
+  "publisher": "NOSi",
+  "published": "2025",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3 government cloud, Data Center, data sovereignty"
+ },
+ {
+  "url": "https://www.governo.cv/aquisicao-de-bens-e-servicos-no-dominio-das-tics-na-ap-passa-a-estar-vinculada-ao-dever-de-informacao-e-do-parecer-previo/",
+  "title": "DL 47/2022 parecer prévio TIC",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2022-11-25",
+  "sub_indicator": "sovereignty",
+  "why": "Q2 rule in force on state ICT"
+ },
+ {
+  "url": "https://boe.incv.cv/Bulletins/Download/4570",
+  "title": "Boletim Oficial (Resolução 121/2022, Oracle e-procurement cloud)",
+  "publisher": "Boletim Oficial",
+  "published": "2022-12-29",
+  "sub_indicator": "sovereignty",
+  "why": "Q3/Q4 state data centre hosts e-government"
+ },
+ {
+  "url": "https://backend-ugpe.gov.cv/wp-content/uploads/2024/09/011-IFB_BD-DC-DataCom-20240909.pdf",
+  "title": "IFB Technology Park Data Center DC3",
+  "publisher": "UGPE",
+  "published": "2024-09-09",
+  "sub_indicator": "sovereignty",
+  "why": "Q3 government data centre"
+ },
+ {
+  "url": "https://boe.incv.cv/Bulletins/Download/4308",
+  "title": "Portaria CMDCV (Boletim Oficial)",
+  "publisher": "Boletim Oficial",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1 off-ladder fallback"
+ }
+]

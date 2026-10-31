@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "publicskills",
+ "aspect": "measured",
+ "fact": "The Lesotho Communications Authority's 2023 household survey of people aged 15 and over found 35.1 percent had basic or above basic ICT skills (19 percent basic, almost 16 percent above basic).",
+ "title": "The State of ICT in Lesotho: a demand side assessment of access and usage of ICTs by households and individuals",
+ "publisher": "Lesotho Communications Authority",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

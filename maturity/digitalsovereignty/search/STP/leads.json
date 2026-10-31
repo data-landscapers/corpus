@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf",
+  "title": "World Bank mission aide-memoire, Digital STP project",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: data centre hosting options, cloud"
+ },
+ {
+  "url": "https://inic.gov.st/servicos.php?servico_name=alojamento.php",
+  "title": "INIC servico de alojamento",
+  "publisher": "INIC",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q2/Q3: state hosting nationally"
+ },
+ {
+  "url": "https://inic.gov.st/viewdoc.php?id=27",
+  "title": "Desenho da Estrategia e Politica de Governanca de Dados",
+  "publisher": "INIC",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: data classification, sovereign infrastructure"
+ },
+ {
+  "url": "https://inic.gov.st/docs/EstrGovDigital-STP-Jan2020.pdf",
+  "title": "Estrategia Nacional para a Governacao Digital em STP",
+  "publisher": "INIC",
+  "published": "2020-01",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: government data centre"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/779811655323104127/pdf/Sao-Tome-and-Principe-Digital-Sao-Tome-and-Principe-Project.pdf",
+  "title": "Digital Sao Tome and Principe Project appraisal",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3: national data center"
+ },
+ {
+  "url": "https://afap.st/wp-content/uploads/2025/04/ToRs_EN_Data-Governance-Policy_final.pdf",
+  "title": "ToR Data Governance Policy",
+  "publisher": "Government of STP",
+  "published": "2025-04",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: data governance policy"
+ },
+ {
+  "url": "https://pt.innovando.news/S%C3%A3o-Tom%C3%A9-digitaliza-a-cidadania-com-registros-verific%C3%A1veis/",
+  "title": "Sao Tome digitaliza a cidadania com registros verificaveis",
+  "publisher": "Innovando News",
+  "published": "2026-07-10",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: foreign provider contract"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099032824212523838/pdf/P171592-effa7cbb-e47a-4467-bd3c-4bf28f84f93f.pdf",
+  "title": "World Bank civil registration and ID assessment",
+  "publisher": "World Bank",
+  "published": "2024",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: ID system hosted in-country"
+ }
+]

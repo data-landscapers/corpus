@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "publicskills",
+ "aspect": "measured",
+ "fact": "A national survey on financial and digital skills by UNCDF, conducted July-August 2025 among 1,601 respondents, was presented in Libreville in May 2026; it finds urban people more skilled than rural.",
+ "title": "Fracture numérique : seulement 14% de la population rurale connectée à internet",
+ "publisher": "Gabonmediatime",
+ "published": "2026-05-12",
+ "date_source": "proxy",
+ "why_not": "off-topic: a skills index score from a 1,601-person survey, not a measured share of adults with basic digital skills"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "law",
+ "aspect": "cover",
+ "fact": "Financial Regulatory Authority board decision 140 of 2023 (21 June 2023, amended 26 March 2025) sets digital identity controls, requiring non-bank financial firms to verify identity with the national number and biometrics.",
+ "title": "قرار مجلس إدارة الهيئة العامة للرقابة المالية رقم 140 لسنة 2023 بشأن الهوية الرقمية والعقود الرقمية والسجل الرقمي",
+ "publisher": "الهيئة العامة للرقابة المالية",
+ "published": "2025-03-26",
+ "date_source": "source",
+ "why_not": "off-topic: a financial regulator's KYC decision under the fintech law, not a rule made under an identity law"
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://monidentite.anid.gouv.tg/web/anid_pub/lois-r%C3%A9glements",
+  "title": "Lois / Réglements - mon identité",
+  "publisher": "ANID",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1-Q4: lists Law 2020-009, amending Law 2022-010, Decree 2022-094"
+ },
+ {
+  "url": "https://anid.gouv.tg/wp-content/uploads/2024/11/Loi-2020-009_E-Id_Togo.pdf",
+  "title": "Loi relative à l'identification biométrique des personnes physiques au Togo",
+  "publisher": "Assemblée nationale / ANID",
+  "published": "2020",
+  "sub_indicator": "law",
+  "why": "Q1-Q3: law text, unique number and biometric register"
+ },
+ {
+  "url": "https://assemblee-nationale.tg/lois_adoptees/loi-portant-modification-de-la-loi-n2020-009-du-10-septembre-2020-relative-a-lidentification-biometrique-des-personnes-physiques-au-togo/",
+  "title": "Loi portant modification de la loi n°2020-009",
+  "publisher": "Assemblée Nationale Togolaise",
+  "published": "2022-06-16",
+  "sub_indicator": "law",
+  "why": "Q1-Q2: amending law adopted 16 June 2022"
+ },
+ {
+  "url": "https://monidentite.anid.gouv.tg/documents/d/anid_pub/decret-portant-attributions-organisation-et-fonctionnement-de-l-agence-nationale-d-identification",
+  "title": "Décret n° 2020-093/PR portant attributions, organisation et fonctionnement de l'ANID",
+  "publisher": "Présidence de la République",
+  "published": "2020-11-12",
+  "sub_indicator": "law",
+  "why": "Q2: decree applying the law"
+ },
+ {
+  "url": "https://anid.gouv.tg/en/e-id-togo-2/",
+  "title": "e-ID Togo",
+  "publisher": "ANID",
+  "published": "2024-12-20",
+  "sub_indicator": "law",
+  "why": "Q3: e-ID unique number from biometric data"
+ },
+ {
+  "url": "https://www.republiquetogolaise.tg/gestion-publique/0106-8099-identification-biometrique-le-gouvernement-confie-le-projet-a-atos-et-idemia",
+  "title": "Identification biométrique : le gouvernement confie le projet à ATOS et IDEMIA",
+  "publisher": "République Togolaise (RTG)",
+  "published": "2023-06-01",
+  "sub_indicator": "law",
+  "why": "Q3: system built under the law"
+ },
+ {
+  "url": "https://anid.gouv.tg/faq/",
+  "title": "FAQ - Agence Nationale d'Identification",
+  "publisher": "ANID",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3-Q4: NIU use obligations under the law"
+ },
+ {
+  "url": "https://intercom.tg/reglementations/textes/decret-2024-071-identification-abonnes",
+  "title": "Décret n° 2024-071/PR portant identification systématique et obligatoire des abonnés",
+  "publisher": "InterCom Togo",
+  "published": "2024-12-26",
+  "sub_indicator": "law",
+  "why": "Q4 check: SIM subscriber ID decree (likely other)"
+ }
+]

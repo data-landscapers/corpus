@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202501/mandatory-digital-id-for-banking-policy-goes-into-effect-in-ethiopia",
+  "title": "Mandatory digital ID for banking policy goes into effect in Ethiopia",
+  "publisher": "Biometric Update",
+  "published": "2025-01-06",
+  "sub_indicator": "law",
+  "why": "Q4: rule requiring ID check by banks"
+ },
+ {
+  "url": "https://www.ena.et/web/amh/w/amh_5943245",
+  "title": "ብሔራዊ የዲጂታል መታወቂያ አካታች የኢኮኖሚና ማህበራዊ አገልግሎት ስርዓትን በማፋጠን ነዋሪዎችን ተጠቃሚ ያደርጋል",
+  "publisher": "ENA",
+  "published": "2025-02",
+  "sub_indicator": "law",
+  "why": "Q2: ID established under Proclamation 1284/2015 and operating"
+ },
+ {
+  "url": "https://nbe.gov.et/nbe_news/the-national-bank-of-ethiopia-and-the-national-id-program-jointly-announce-new-initiative/",
+  "title": "The National Bank of Ethiopia and the National ID Program jointly announce new initiative",
+  "publisher": "National Bank of Ethiopia",
+  "published": "2023-07-10",
+  "sub_indicator": "law",
+  "why": "Q4: bank ID/KYC rule"
+ },
+ {
+  "url": "https://justice.gov.et/en/law/ethiopian-digital-identification-proclamation/",
+  "title": "Ethiopian Digital Identification Proclamation (Proclamation No. 1284/2023)",
+  "publisher": "Ministry of Justice",
+  "published": "2023-04-18",
+  "sub_indicator": "law",
+  "why": "Q1-3: the law text"
+ }
+]

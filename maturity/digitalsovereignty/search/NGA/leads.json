@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.legal500.com/intelligence/nigeria/media-telecoms-it-entertainment/a-review-of-nigerias-national-digital-cloud-policy-new-direction-and-implication-for-businesses",
+  "title": "A Review Of Nigeria's National Digital Cloud Policy",
+  "publisher": "Legal 500",
+  "published": "2026-10-05",
+  "sub_indicator": "sovereignty",
+  "why": "Q1-2: sovereign data rule"
+ },
+ {
+  "url": "https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/",
+  "title": "Federal Government Unveils National Digital Cloud Policy",
+  "publisher": "Federal Ministry of Communications, Innovation and Digital Economy",
+  "published": "2026-08-17",
+  "sub_indicator": "sovereignty",
+  "why": "Q1-2: policy unveiled"
+ },
+ {
+  "url": "https://nitda.gov.ng/wp-content/uploads/2026/08/NCCG-Final-signed.pdf",
+  "title": "National Guideline for Cloud Computing in Nigeria 2026",
+  "publisher": "NITDA",
+  "published": "2026-08",
+  "sub_indicator": "sovereignty",
+  "why": "Q2,Q4: classification, residency, exit terms"
+ },
+ {
+  "url": "https://nitda.gov.ng/wp-content/uploads/2025/10/National-Cloud-Policy-2025-Oct2-2025.pdf",
+  "title": "National Cloud Policy 2025",
+  "publisher": "NITDA",
+  "published": "2025-10",
+  "sub_indicator": "sovereignty",
+  "why": "Q2,Q4: classification, residency, exit"
+ },
+ {
+  "url": "https://itweb.africa/article/nigerias-1gov-cloud-helps-reduce-reliance-on-foreign-digital-systems/WnpNgq21aogMVrGd",
+  "title": "Nigeria's 1Gov cloud helps reduce reliance on foreign digital systems",
+  "publisher": "ITWeb Africa",
+  "published": "2025-09-10",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: 1Gov sovereign platform"
+ },
+ {
+  "url": "https://technologytimes.ng/fg-orders-mdas-to-host-with-galaxy-backbone/",
+  "title": "FG orders MDAs to migrate foreign hosting to Galaxy Backbone",
+  "publisher": "Technology Times",
+  "published": "2025-08-19",
+  "sub_indicator": "sovereignty",
+  "why": "Q2-3: circular on hosting"
+ },
+ {
+  "url": "https://www.nigerianewsdigest.com/nigerian-government-ensures-data-sovereignty-with-local-cloud-hosting/",
+  "title": "Nigerian Government Ensures Data Sovereignty with Local Cloud Hosting",
+  "publisher": "Nigeria News Digest",
+  "published": "2024-10-02",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: GSP hosted in Galaxy cloud"
+ }
+]

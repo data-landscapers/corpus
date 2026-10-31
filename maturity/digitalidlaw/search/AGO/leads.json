@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.rna.ao/pages/new.php?uid=236573",
+  "title": "Proposta de Lei da Identificação Civil e Criminal é discutida hoje nas comissões especializadas da Assembleia Nacional",
+  "publisher": "RNA",
+  "published": "2026-10-26",
+  "sub_indicator": "law",
+  "why": "Q2: bill before parliament committees"
+ },
+ {
+  "url": "https://rna.ao/rna.ao/2026/06/25/deputados-aprovam-na-generalidade-propostas-de-lei-da-identificacao-civil-e-criminal-e-de-alteracao-da-lei-sobre-a-designacao-e-execucao-de-atos-juridicos-internacionais/",
+  "title": "Deputados aprovam na generalidade propostas de lei da identificação civil e criminal",
+  "publisher": "RNA",
+  "published": "2026-06-25",
+  "sub_indicator": "law",
+  "why": "Q2: bill approved in general"
+ },
+ {
+  "url": "https://angop.ao/noticias/politica/bi-passa-ser-documento-unico-valido-para-identificacao/",
+  "title": "BI passará a ser documento único válido para identificação",
+  "publisher": "Angop",
+  "published": "2026-04-29",
+  "sub_indicator": "law",
+  "why": "Q2/Q5: bill makes BI mandatory for banks, telecoms"
+ },
+ {
+  "url": "https://lex.ao/docs/presidente-da-republica/2024/decreto-presidencial-n-o-267-24-de-28-de-novembro/",
+  "title": "Decreto Presidencial n.º 267/24 - Plano Estratégico para a Universalização do Bilhete de Identidade",
+  "publisher": "Diário da República / LEX.AO",
+  "published": "2024-11-28",
+  "sub_indicator": "law",
+  "why": "Q3: Law 4/09 as amended in force; plan"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099062824094544617/pdf/P179485-40c865ab-d980-432a-acf1-940f22b02d4c.pdf",
+  "title": "Angola ID4D Diagnostic",
+  "publisher": "World Bank Group",
+  "published": "2024-07",
+  "sub_indicator": "law",
+  "why": "Q3/Q4: civil ID law, unique citizen number, chip card"
+ },
+ {
+  "url": "https://regalert.today/document/instruction-no-05-2023-of-may-29-payment-system-electronic-money-accounts-bca18987-d7e1-43cb-8676-a66b067c38c1",
+  "title": "Instruction No. 05/2023 Payment System - Electronic Money Accounts",
+  "publisher": "BNA",
+  "published": "2023-05-29",
+  "sub_indicator": "law",
+  "why": "Q5: rule on identity checks by payment providers"
+ },
+ {
+  "url": "https://lex.ao/docs/assembleia-nacional/2021/lei-n-o-3-21-de-25-de-janeiro/",
+  "title": "Lei n.º 3/21 de 25 de janeiro",
+  "publisher": "Assembleia Nacional / LEX.AO",
+  "published": "2021-01-25",
+  "sub_indicator": "law",
+  "why": "Q3: amends identity law, Número Único do Cidadão"
+ }
+]

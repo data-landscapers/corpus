@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://stat-niger.org/wp-content/uploads/rapport_enquete/RAPPORT_FINAL_ENQUETE_TIC_2025_Validation_09_04_2026.pdf",
+  "title": "Rapport d'analyse des donnees de l'enquete sur l'acces des menages et des individus aux TIC au Niger en 2025",
+  "publisher": "Institut National de la Statistique",
+  "published": "2026",
+  "sub_indicator": "publicskills",
+  "why": "Q3: measured ICT skills shares from survey"
+ },
+ {
+  "url": "https://anp.ne/niger-apres-5-ans-de-mise-en-oeuvre-le-projet-villages-intelligents-evalue-les-activites-de-ses-124-centres-numeriques-multiservices/",
+  "title": "Niger : Apres 5 ans de mise en oeuvre, le Projet Villages Intelligents evalue ses 124 centres numeriques",
+  "publisher": "Agence Nigerienne de Presse",
+  "published": "2025-09-02",
+  "sub_indicator": "publicskills",
+  "why": "Q2: digital centres programme"
+ },
+ {
+  "url": "https://www.lesahel.org/atelier-de-formation-et-de-recyclage-lancement-de-la-deuxieme-phase-de-la-campagne-nationale-dalphabetisation-numerique-et-deducation-financiere-des-populations-en-milieu-rura/",
+  "title": "Atelier de formation et de recyclage : Lancement de la deuxieme phase de la campagne nationale d'Alphabetisation numerique",
+  "publisher": "Le Sahel",
+  "published": "2024-06-25",
+  "sub_indicator": "publicskills",
+  "why": "Q2: about 38,000 trained"
+ },
+ {
+  "url": "https://numericacenter.com/2023/02/16/lancement-de-la-campagne-nationale-dalphabetisation-numerique-et-deducation-financiere-des-population-en-milieu-rural/",
+  "title": "Lancement de la campagne nationale d'alphabetisation numerique",
+  "publisher": "Numerica Center",
+  "published": "2023-02-16",
+  "sub_indicator": "publicskills",
+  "why": "Q1: campaign launch"
+ },
+ {
+  "url": "https://www.stat-niger.org/wp-content/uploads/rapport_enquete/RAPPORT_FINAL_ENQUETE_INS_PVI_09112022.pdf",
+  "title": "Enquete sur l'acces des menages aux TIC au Niger",
+  "publisher": "Institut National de la Statistique",
+  "published": "2022-11",
+  "sub_indicator": "publicskills",
+  "why": "Q2-3: 99,931 enrolled"
+ }
+]

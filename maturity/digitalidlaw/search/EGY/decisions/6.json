@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "law",
+ "aspect": "cover",
+ "fact": "Financial Regulatory Authority board decision 186 of 2024 (28 August 2024, amended 28 January 2025) obliges non-bank financial firms to check customers' national number and phone ownership through the Authority's electronic link.",
+ "title": "قرار مجلس إدارة الهيئة رقم (186) لسنة 2024 بشأن الالتزام بالاستعلام عن صحة بيانات العملاء",
+ "publisher": "الهيئة العامة للرقابة المالية",
+ "published": "2025-01-28",
+ "date_source": "source",
+ "why_not": "off-topic: a financial regulator's KYC decision under the fintech law, not a rule made under an identity law"
+}

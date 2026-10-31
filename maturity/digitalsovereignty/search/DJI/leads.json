@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n195-an-25-9eme-l-portant-creation-de-lautorite-nationale-de-cybersecurite/",
+  "title": "Loi n° 195/AN/25/9ème L portant création de l'Autorité Nationale de Cybersécurité",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2026-01-08",
+  "sub_indicator": "sovereignty",
+  "why": "sovereignty mandate of ANC"
+ },
+ {
+  "url": "https://www.presidence.dj/conseil-des-ministres/2023-11-14",
+  "title": "Travaux de la 18ième séance 14/11/2023",
+  "publisher": "Présidence de la République de Djibouti",
+  "published": "2023-11-14",
+  "sub_indicator": "sovereignty",
+  "why": "ANSIE national data centre hosting tariff"
+ },
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/decret-n2015-287-pre-portant-organisation-et-fonctionnement-de-lagence-nationale-des-systemes-dinformation-de-letat-ansie/",
+  "title": "Décret n° 2015-287/PRE organisation de l'ANSIE",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2015-10-23",
+  "sub_indicator": "sovereignty",
+  "why": "government data centre run by ANSIE"
+ },
+ {
+  "url": "https://diplomatie.gouv.dj/Articles/DetailArticles/850",
+  "title": "Projet de Code du Numérique",
+  "publisher": "MAECI Djibouti",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Digital Code adopted by Council"
+ },
+ {
+  "url": "https://www.presidence.dj/conseil-des-ministres/2025-11-04",
+  "title": "Travaux de la 16ième séance 04/11/2025",
+  "publisher": "Présidence de la République de Djibouti",
+  "published": "2025-11-04",
+  "sub_indicator": "sovereignty",
+  "why": "bill creating cybersecurity authority"
+ }
+]

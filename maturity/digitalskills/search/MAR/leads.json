@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.wearetech.africa/secteurs/fils/actualites/gestion-publique/le-maroc-renforce-les-competences-numeriques-de-la-population",
+  "title": "Le Maroc renforce les compétences numériques de la population",
+  "publisher": "We Are Tech Africa",
+  "published": "2024-09-17",
+  "sub_indicator": "publicskills",
+  "why": "e-TAMKEEN trained participants"
+ },
+ {
+  "url": "https://www.anrt.ma/sites/default/files/2024-10/Enqu%C3%AAte%20usage%20des%20TIC%20-%202023-2024.pdf",
+  "title": "Enquête de collecte des indicateurs TIC auprès des ménages et des individus 2023-2024",
+  "publisher": "ANRT",
+  "published": "2024-10",
+  "sub_indicator": "publicskills",
+  "why": "Measured digital skills share from survey"
+ },
+ {
+  "url": "https://www.anrt.ma/sites/default/files/2025-10/Synth%C3%A8se-Brochure_Eng.pdf",
+  "title": "ICT Equipment and Uses",
+  "publisher": "ANRT",
+  "published": "2025-10",
+  "sub_indicator": "publicskills",
+  "why": "Survey digital skills share"
+ },
+ {
+  "url": "https://leseco.ma/business/coding-100-000-eleves-marocains-formes-par-orange-maroc-et-le-menps.html",
+  "title": "Coding : 100.000 élèves marocains formés par Orange Maroc et le MENPS",
+  "publisher": "LesEco.ma",
+  "published": "2024-06-12",
+  "sub_indicator": "publicskills",
+  "why": "Coding programme with trained numbers"
+ },
+ {
+  "url": "https://jobintech.academy/about",
+  "title": "JobInTech - about",
+  "publisher": "JobInTech / MTNRA",
+  "published": "",
+  "sub_indicator": "publicskills",
+  "why": "National programme with trained numbers"
+ },
+ {
+  "url": "https://www.stfoundation.org/morocco-2/",
+  "title": "Morocco - ST Foundation",
+  "publisher": "ST Foundation",
+  "published": "2026-04-29",
+  "sub_indicator": "publicskills",
+  "why": "Digital skills programme trained numbers"
+ }
+]

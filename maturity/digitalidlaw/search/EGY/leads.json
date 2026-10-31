@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://masaar.net/en/digital-identity-in-egypt-and-fundamental-rights/",
+  "title": "Digital Identity in Egypt: Between Enhancing Access to Services and Threatening Fundamental Rights",
+  "publisher": "Masaar",
+  "published": "2026-07-13",
+  "sub_indicator": "law",
+  "why": "Q1-3: states no specific digital ID law exists; steps via secondary decisions"
+ },
+ {
+  "url": "https://www.elwatannews.com/news/details/8346387",
+  "title": "10 معلومات تهمك عن منظومة الهوية الرقمية الجديدة",
+  "publisher": "الوطن",
+  "published": "2026-08-26",
+  "sub_indicator": "law",
+  "why": "Q4: NTRA launches biometric e-verification system"
+ },
+ {
+  "url": "https://doi.org/10.19088/ids.2025.057",
+  "title": "Digital-ID in Egypt: Country Report",
+  "publisher": "Institute of Development Studies",
+  "published": "2025-12-03",
+  "sub_indicator": "law",
+  "why": "Q1-3: legal framework for biometric digital ID"
+ },
+ {
+  "url": "https://newdemo.elwatannews.com/news/details/8174547",
+  "title": "وزير الاتصالات: إطلاق منظومة بطاقتي الرقمية لتسهيل التحقق من الهوية عن بُعد",
+  "publisher": "الوطن",
+  "published": "2025-11-16",
+  "sub_indicator": "law",
+  "why": "Q3: remote identity verification system with Interior Ministry"
+ },
+ {
+  "url": "https://fra.gov.eg/wp-content/uploads/2025/06/140_2023-%D9%88%D9%81%D9%82%D8%A7-%D9%84%D8%A7%D8%AE%D8%B1-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84.pdf",
+  "title": "قرار مجلس إدارة الهيئة العامة للرقابة المالية رقم 140 لسنة 2023 بشأن الهوية الرقمية",
+  "publisher": "الهيئة العامة للرقابة المالية",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q4: rule requiring digital identity checks by non-bank financial firms, amended 2025-03-26"
+ },
+ {
+  "url": "https://fra.gov.eg/wp-content/uploads/2025/02/186-2024-......%d9%88%d9%81%d9%82%d8%a7-%d9%84%d8%a7%d8%ae%d8%b1-%d8%aa%d8%b9%d8%af%d9%8a%d9%84-%d9%81%d9%89-28-1-2025.pdf",
+  "title": "قرار مجلس إدارة الهيئة رقم 186 لسنة 2024 بشأن الالتزام بالاستعلام عن صحة بيانات العملاء",
+  "publisher": "الهيئة العامة للرقابة المالية",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q4: firms must verify national number and phone ownership"
+ },
+ {
+  "url": "https://gate.ahram.org.eg/News/4803765.aspx",
+  "title": "نائب وزير الاتصالات: الدولة تسعى لإعداد هوية رقمية موحدة للمواطنين",
+  "publisher": "بوابة الأهرام",
+  "published": "2024-05-12",
+  "sub_indicator": "law",
+  "why": "Q3: unified digital identity from national number, phone, e-signature"
+ },
+ {
+  "url": "https://dpimap.org/egypt/",
+  "title": "Egypt - DPI Map",
+  "publisher": "DPI Map",
+  "published": "2025-02-10",
+  "sub_indicator": "law",
+  "why": "Q1-3: national digital ID pilot under Interior Ministry; legal status"
+ }
+]

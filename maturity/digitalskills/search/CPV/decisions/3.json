@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "publicskills",
+ "aspect": "measured",
+ "fact": "The Análise Nacional de Competências Digitais, a survey of 1,019 working-age respondents scored on the European DigComp framework, put the national average at 3.75 on a 6-point scale (reported August 2025); it gives a score, not a share with basic skills.",
+ "title": "Estudo alerta para desigualdades nas competências digitais",
+ "publisher": "Expresso das Ilhas",
+ "published": "2025-08-17",
+ "date_source": "source",
+ "why_not": ""
+}

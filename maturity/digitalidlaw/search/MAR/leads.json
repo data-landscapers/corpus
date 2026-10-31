@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.mmsp.gov.ma/fr/actualites/accord-cadre-de-partenariat-pour-le-d%C3%A9veloppement-de-l%E2%80%99e-gouvernement-et-la-g%C3%A9n%C3%A9ralisation-de-l%E2%80%99usage-de-l%E2%80%99identit%C3%A9-num%C3%A9rique",
+  "title": "Accord-cadre de partenariat pour le développement de l'e-gouvernement et la généralisation de l'usage de l'identité numérique",
+  "publisher": "Ministère de la Transition numérique et de la Réforme de l'administration",
+  "published": "2025-05-02",
+  "sub_indicator": "law",
+  "why": "Digital ID use by public bodies via identity verification service"
+ },
+ {
+  "url": "https://adala.justice.gov.ma/api/uploads/2025/02/27/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%B1%D9%82%D9%85%202.20.521%20%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A3%20%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-1740673016703.pdf",
+  "title": "مرسوم رقم 2.20.521 لتطبيق القانون 04.20 المتعلق بالبطاقة الوطنية للتعريف الإلكترونية",
+  "publisher": "Adala (Ministry of Justice)",
+  "published": "2020-08-12",
+  "sub_indicator": "law",
+  "why": "Decree applying the electronic national identity card law"
+ },
+ {
+  "url": "https://maloi.ma/fr/law/cnie",
+  "title": "Loi n° 04-20 relative à la carte nationale d'identité électronique",
+  "publisher": "Ma Loi",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Law in force: unique national identity number, digital identity"
+ },
+ {
+  "url": "https://www.leconomiste.com/1065749-carte-d-identite-electronique-ce-que-prevoit-le-decret-d-application/",
+  "title": "Carte d'identité électronique: Ce que prévoit le décret d'application",
+  "publisher": "L'Economiste",
+  "published": "2020-08-10",
+  "sub_indicator": "law",
+  "why": "Application decree for CNIE law"
+ },
+ {
+  "url": "https://www.cndp.ma/wp-content/uploads/2023/01/CNDP_Deliberation-n-D-120-2020_08-07-2020.pdf",
+  "title": "Délibération n°D-120-2020 relative à l'architecture des identifiants",
+  "publisher": "CNDP",
+  "published": "2020-07-08",
+  "sub_indicator": "law",
+  "why": "Identifier architecture; context for identity law"
+ }
+]

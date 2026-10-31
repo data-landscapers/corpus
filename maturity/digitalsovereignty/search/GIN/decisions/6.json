@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sovereignty",
+ "aspect": "rule",
+ "fact": "A September 2026 early market engagement notice by the digital ministry's WARDIP-GN project seeks a sovereign cloud for state platforms across two data centres, designed for reversibility and no vendor lock-in.",
+ "title": "Avis d'engagement précoce du marché (WARDIP-GN)",
+ "publisher": "MCENI, Projet WARDIP-GN",
+ "published": "2026-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

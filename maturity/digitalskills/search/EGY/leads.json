@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://gate.ahram.org.eg/Massai/News/5591990.aspx",
+  "title": "وزير الاتصالات: تدريب 277 ألف متدرب ومتدربة في مبادرات أجيال مصر الرقمية منذ إطلاقها",
+  "publisher": "بوابة الأهرام",
+  "published": "2026-04-07",
+  "sub_indicator": "publicskills",
+  "why": "Q2: programme in service, 277,000 trained to end 2025"
+ },
+ {
+  "url": "https://www.egyptke.com/232829",
+  "title": "وزارة الاتصالات: تخريج 156 ألف متدرب في 2025 ضمن مبادرة أجيال مصر الرقمية",
+  "publisher": "egyptke",
+  "published": "2026-04-04",
+  "sub_indicator": "publicskills",
+  "why": "Q2: numbers trained 2025"
+ },
+ {
+  "url": "https://www.fintechgate.net/217158",
+  "title": "مستشار وزير الاتصالات: 997 خريجًا من بناة مصر الرقمية",
+  "publisher": "بوابة التكنولوجيا المالية",
+  "published": "2026-04-04",
+  "sub_indicator": "publicskills",
+  "why": "Q2: DEBI graduates"
+ },
+ {
+  "url": "https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/68119",
+  "title": "Digital Egypt Generations graduation 2024",
+  "publisher": "Ministry of Communications and Information Technology",
+  "published": "2024-12-13",
+  "sub_indicator": "publicskills",
+  "why": "Q2: over 220,000 trained in 2024"
+ },
+ {
+  "url": "https://erf.org.eg/app/uploads/2024/11/1732019278_512_3380903_1754.pdf",
+  "title": "The Use of Information and Communication Technology in the Workplace in Egypt",
+  "publisher": "Economic Research Forum",
+  "published": "2024-11",
+  "sub_indicator": "publicskills",
+  "why": "Q3: ELMPS 2023 survey shares with computer skills"
+ },
+ {
+  "url": "https://www.cairo24.com/2050225",
+  "title": "مستشار وزير الاتصالات: توظيف 55% من خريجي مبادرة بناة مصر الرقمية",
+  "publisher": "cairo24",
+  "published": "2024-07-27",
+  "sub_indicator": "publicskills",
+  "why": "Q2: DEBI graduates 2023-24"
+ },
+ {
+  "url": "https://itida.gov.eg/English/Programs/Talent-Landscape/Pages/default.aspx",
+  "title": "ITIDA - Tech-Competent Cost-Effective Multilingual Talent",
+  "publisher": "ITIDA",
+  "published": "",
+  "sub_indicator": "publicskills",
+  "why": "Q1-2: trainee numbers 2022/23"
+ },
+ {
+  "url": "https://science-tech.statizoid.com/stat/proportion-of-youth-and-adults-with-information-and-communications-technology-ict-skills/egypt-arab-rep/",
+  "title": "Proportion of youth and adults with ICT skills, Egypt (2022)",
+  "publisher": "statizoid",
+  "published": "",
+  "sub_indicator": "publicskills",
+  "why": "Q3: SDG 4.4.1 share 15.2% in 2022"
+ }
+]

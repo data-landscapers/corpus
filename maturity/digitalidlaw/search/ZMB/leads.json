@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration",
+  "title": "DPI Safeguards come online in Zambia's next phase of digital integration",
+  "publisher": "UNDP",
+  "published": "2024-09-17",
+  "sub_indicator": "law",
+  "why": "Q3: INRIS biometric ID and update of National Registration Act"
+ },
+ {
+  "url": "http://www.zambialaws.com/consolidated-statutes/subsidiary-legislation/568-chapter-126-national-registration-act",
+  "title": "National Registration Act: Subsidiary Legislation (Chapter 126)",
+  "publisher": "Zambia Laws",
+  "published": "2019",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: SI 83 of 2019 biometrics regulations under the Act"
+ },
+ {
+  "url": "https://api.oecdai.org/storage/policy-initiatives/Jul2025/fu_c5qdvrhsmxejmep.pdf",
+  "title": "National Electronic Government Plan 2023-2026",
+  "publisher": "Government of Zambia (Smart Zambia)",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q1-3: National Registration Act key to digital ID; INRIS"
+ },
+ {
+  "url": "https://www.boz.zm/sites/default/files/2026-01/National_Payment_Systems_Vision_Strategy_2023_2027.pdf",
+  "title": "National Payment System Vision and Strategy 2023-2027",
+  "publisher": "Bank of Zambia",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q4: centralised KYC leveraging INRIS"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/node/10065",
+  "title": "Thursday, 10th March, 2022",
+  "publisher": "National Assembly of Zambia",
+  "published": "2022-03-10",
+  "sub_indicator": "law",
+  "why": "Q1/Q3: ministerial statement on INRIS, biometric NRC under NRA Cap 126"
+ },
+ {
+  "url": "https://diggers.news/guest-diggers/2023/06/05/is-the-new-sim-card-registration-process-in-zambia-a-security-measure-or-surveillance-tool/",
+  "title": "Is the New SIM Card Registration Process in Zambia a Security Measure or Surveillance Tool?",
+  "publisher": "News Diggers",
+  "published": "2023-06-05",
+  "sub_indicator": "law",
+  "why": "Q4: ZICTA directive requiring SIM identity check with NRC"
+ }
+]

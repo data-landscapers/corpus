@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://cio-mag.com/souverainete-et-cloud-le-benin-face-aux-enjeux-de-lhebergement-des-donnees/",
+  "title": "Souveraineté et Cloud : le Bénin face aux enjeux de l'hébergement des données",
+  "publisher": "CIOMAG",
+  "published": "2026-04-14",
+  "sub_indicator": "sovereignty",
+  "why": "Q1,Q3 data classification policy, national data centres"
+ },
+ {
+  "url": "https://www.datacenterdynamics.com/en/news/benin-wants-to-establish-a-secondary-national-data-center/",
+  "title": "Benin wants to establish a secondary national data center",
+  "publisher": "DCD",
+  "published": "2026-03-27",
+  "sub_indicator": "sovereignty",
+  "why": "Q3 national data centre"
+ },
+ {
+  "url": "https://asin.bj/doc/137/download",
+  "title": "BULLETIN TRIMESTRIEL - JUIN 2026",
+  "publisher": "ASIN",
+  "published": "2026-06",
+  "sub_indicator": "sovereignty",
+  "why": "Q4 contract terms reversibility, Cloud Act"
+ },
+ {
+  "url": "https://www.asin.bj/doc/92/download",
+  "title": "STRATEGIE NATIONALE DE SECURITE NUMERIQUE 2023-2026",
+  "publisher": "ASIN",
+  "published": "2023",
+  "sub_indicator": "sovereignty",
+  "why": "Q1 sovereignty goal"
+ },
+ {
+  "url": "https://innovation.gouv.bj/assets/documents/strategie-nationale-d'intelligence-artificielle-et-des-megadonnees-2023-2027.pdf",
+  "title": "Stratégie nationale d'intelligence artificielle et des mégadonnées 2023-2027",
+  "publisher": "Gouvernement du Bénin",
+  "published": "2023",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3 hosting in national data centre"
+ },
+ {
+  "url": "https://www.asin.bj/doc/113/download",
+  "title": "Contrats informatiques et propriété intellectuelle : protéger le patrimoine numérique de l'État béninois",
+  "publisher": "ASIN",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q4 reversibility, source code"
+ },
+ {
+  "url": "https://projects.bancomundial.org/es/projects-operations/procurement-detail/OP00432980",
+  "title": "WARDIP 2 - feasibility study redundancy of national data centre",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "sovereignty",
+  "why": "Q3 national data centre"
+ }
+]

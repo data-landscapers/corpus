@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center",
+  "title": "SIN, ST Digital to deploy cloud services at Lomé data center",
+  "publisher": "Connecting Africa",
+  "published": "2026-06-02",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: state data centre sovereign cloud"
+ },
+ {
+  "url": "https://ipdcp.tg/lipdcp-echange-avec-les-ministeres-et-institutions-sur-la-protection-des-donnees-a-caractere-personnel/",
+  "title": "L'IPDCP échange avec les ministères et institutions sur la protection des données",
+  "publisher": "IPDCP",
+  "published": "2026-09-15",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: state data hosting as sovereignty issue"
+ },
+ {
+  "url": "https://datalab.gouv.tg/projets/la-gouvernance-des-donnees-au-togo",
+  "title": "La gouvernance des données au Togo",
+  "publisher": "Togo AI Lab",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: public data classification framework"
+ },
+ {
+  "url": "https://jo.gouv.tg/node/15642",
+  "title": "Décret 2023-011/PR portant transfert de l'activité de data centre de la SIN",
+  "publisher": "Journal Officiel",
+  "published": "2023-01-18",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: state data centre ownership"
+ },
+ {
+  "url": "https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Togo.pdf",
+  "title": "Data Center Market Brief Togo",
+  "publisher": "D4D Hub / Xalam",
+  "published": "2025-07",
+  "sub_indicator": "sovereignty",
+  "why": "Q2-Q3: transfer authorisation, LDC state-owned"
+ },
+ {
+  "url": "https://ancy.gouv.tg/wp-content/uploads/2024/09/ANCy-NATIONAL-CYBERSECURITY-STRATEGY_PUBLIC.pdf",
+  "title": "National Cybersecurity Strategy",
+  "publisher": "ANCy",
+  "published": "2024-09",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: digital sovereignty goal"
+ },
+ {
+  "url": "https://www.developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20327-partnership-to-drive-private-cloud-service-offer-at-togolese-data-centre.html",
+  "title": "Partnership to drive private cloud service offer at Togolese data centre",
+  "publisher": "Developing Telecoms",
+  "published": "2026-06-01",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: cloud at state data centre"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://prc.cm/en/multimedia/documents/10320-decree-2025-059-of-28-02-2025",
+  "title": "Decree No.2025/059 of 28 February 2025 to lay down the features of and conditions for making and issuing identification documents",
+  "publisher": "Presidency of the Republic of Cameroon",
+  "published": "2025-02-28",
+  "sub_indicator": "law",
+  "why": "Q3-Q5: decree applying identity card law; biometric card, unique ID number"
+ },
+ {
+  "url": "https://www.prc.cm/files/e7/0f/3b/6ccd45456387ac207b4797c196318209.pdf",
+  "title": "Décret 2025/059 du 28 février 2025 fixant les caractéristiques et les modalités d'établissement et de délivrance des titres identitaires",
+  "publisher": "Présidence de la République du Cameroun",
+  "published": "2025-02-28",
+  "sub_indicator": "law",
+  "why": "Q2-Q5: French text, cites law 90/042, biometric card, identifiant unique"
+ },
+ {
+  "url": "https://www.prc.cm/files/7f/4b/5b/2ce7f303c8e3bd44fa83c05acf9ddbf9.pdf",
+  "title": "Décret modifiant le décret 2016/374 sur le Centre National de Production des Titres Identitaires",
+  "publisher": "Présidence de la République du Cameroun",
+  "published": "2025-02-28",
+  "sub_indicator": "law",
+  "why": "Q4-Q5: national identity file, interoperability, PKI"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202503/unhcr-praises-cameroons-move-towards-inclusive-legal-identity",
+  "title": "UNHCR praises Cameroon's move towards inclusive legal identity",
+  "publisher": "Biometric Update",
+  "published": "2025-03-28",
+  "sub_indicator": "law",
+  "why": "Q3-Q5: decree issuing biometric ID cards"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202411/cameroon-introduces-draft-laws-on-civil-registration-reform-data-protection",
+  "title": "Cameroon introduces draft laws on civil registration reform, data protection",
+  "publisher": "Biometric Update",
+  "published": "2024-11-19",
+  "sub_indicator": "law",
+  "why": "Q2: bill introducing unique personal identification number"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099012324023052410/pdf/P1795471b60b614c14d0214b971aed2105a95cebf79b.pdf",
+  "title": "World Bank document: Cameroon identification system assessment",
+  "publisher": "World Bank Group",
+  "published": "2024",
+  "sub_indicator": "law",
+  "why": "Q2-Q4: ID legal basis, draft legislation, no digital verification"
+ },
+ {
+  "url": "https://lobservateur.info/article/110716/afrique/le-cameroun-numerise-les-services-dedies-aux-citoyens",
+  "title": "Le Cameroun numérise les services dédiés aux citoyens",
+  "publisher": "L'Observateur",
+  "published": "2024-05-20",
+  "sub_indicator": "law",
+  "why": "Q3-Q5: contract for new secure identification system"
+ },
+ {
+  "url": "https://dig.watch/countries/cameroon",
+  "title": "Cameroon | Digital Watch Observatory",
+  "publisher": "Digital Watch Observatory",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2: data protection law touching digital ID"
+ }
+]

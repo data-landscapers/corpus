@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "publicskills",
+ "aspect": "measured",
+ "fact": "The 2022 national ICT survey measured that 11.5 percent of individuals aged 10 and over could use a desktop computer, up from 6.8 percent in 2018, and 27.3 percent could use a smartphone.",
+ "title": "2022 National Survey on Access and Usage of Information and Communication Technologies by Households and Individuals",
+ "publisher": "Zambia Information and Communications Technology Authority (ZICTA)",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.heraldonline.co.zw/government-to-expand-national-data-centre/",
+  "title": "Government to expand National Data Centre",
+  "publisher": "The Herald",
+  "published": "2025-08-11",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3 data sovereignty, national data centre"
+ },
+ {
+  "url": "https://www.heraldonline.co.zw/govt-to-boost-online-services-with-new-high-tech-data-centre/",
+  "title": "Govt to boost online services with new high-tech data centre",
+  "publisher": "The Herald",
+  "published": "2025-01-25",
+  "sub_indicator": "sovereignty",
+  "why": "Q3 national cloud hosting government services"
+ },
+ {
+  "url": "https://technomag.co.zw/zimbabwe-targets-digital-transformation-with-national-data-centre-upgrade/",
+  "title": "Zimbabwe Targets Digital Transformation with National Data Centre Upgrade",
+  "publisher": "TechnoMag",
+  "published": "2025-01-08",
+  "sub_indicator": "sovereignty",
+  "why": "Q3 systems migrated to National Data Centre"
+ },
+ {
+  "url": "https://zim.gov.zw/index.php/government-documents/category/7-goz-ict-specifications-standards?download=11%3Agoz-ict-specification-standards-version-2",
+  "title": "Government ICT Specifications Standards (Version 2)",
+  "publisher": "Government of Zimbabwe",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q2 binding government ICT standards"
+ },
+ {
+  "url": "https://aiskillsnetwork.co.zw/wp-content/uploads/2025/01/National-ICT-Policy-2022-2027.pdf",
+  "title": "National ICT Policy 2022-2027",
+  "publisher": "Ministry of ICT",
+  "published": "2022",
+  "sub_indicator": "sovereignty",
+  "why": "Q1 data sovereignty, national data centre legal framework"
+ },
+ {
+  "url": "https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11",
+  "title": "Cyber and Data Protection Act, 2021 (s.28 transfers)",
+  "publisher": "ZimLII",
+  "published": "2022-03-11",
+  "sub_indicator": "sovereignty",
+  "why": "Q2 cross-border transfer rule"
+ }
+]

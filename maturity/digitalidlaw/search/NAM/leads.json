@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mhaiss.gov.na/documents/292728/5692036/Media+Release+Civil+Registration+and+Identification+Act+23+January+2025.pdf/791e69c7-ca02-c65a-9797-d97de83081cb?download=true&t=1737966037855",
+  "title": "Media Release: Gazetting of the Civil Registration and Identification Act, 2024",
+  "publisher": "Ministry of Home Affairs, Immigration, Safety and Security",
+  "published": "2025-01-23",
+  "sub_indicator": "law",
+  "why": "Q1,Q2: Act 13 of 2024 gazetted, not yet in force"
+ },
+ {
+  "url": "https://informante.web.na/?p=369228",
+  "title": "Namibia has a new Civil Registration and Identification law",
+  "publisher": "Informanté",
+  "published": "2025-01-29",
+  "sub_indicator": "law",
+  "why": "Q1,Q2: Act gazetted 30 Dec 2024, commencement pending"
+ },
+ {
+  "url": "https://www.undp.org/namibia/blog/season-3-namibias-digital-identity-journey-vision-reality",
+  "title": "Namibia's Digital Identity Journey",
+  "publisher": "UNDP Namibia",
+  "published": "2025-09-03",
+  "sub_indicator": "law",
+  "why": "Q3: Act and e-ID launch 2026"
+ },
+ {
+  "url": "https://paradigmhq.org/londa2025/countries/namibia.html",
+  "title": "Namibia - LONDA 2025",
+  "publisher": "Paradigm Initiative",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q2,Q3: Act awaits commencement, biometric ID"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202505/namibia-to-step-up-civil-registration-efforts-with-9m-budget",
+  "title": "Namibia to step up civil registration efforts with $9M budget",
+  "publisher": "Biometric Update",
+  "published": "2025-05-12",
+  "sub_indicator": "law",
+  "why": "Q1,Q3: Act passed, digital ID rollout"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202409/namibias-new-crvs-national-id-system-reflects-key-data-protection-aspects",
+  "title": "Namibia's new CRVS, national ID system reflects key data protection aspects",
+  "publisher": "Biometric Update",
+  "published": "2024-09-09",
+  "sub_indicator": "law",
+  "why": "Q1,Q3: bill before parliament"
+ },
+ {
+  "url": "https://www.parliament.na/wp-content/uploads/2023/06/Speech_by_Hon_Kashikola_on_the_Civil_Registration_and_Identitifcation.pdf",
+  "title": "Introduction of the Civil Registration and Identification Bill",
+  "publisher": "Parliament of Namibia / MHAISS",
+  "published": "2023-06-14",
+  "sub_indicator": "law",
+  "why": "Q1,Q3: bill introduced, unique identifier"
+ },
+ {
+  "url": "https://www.parliament.na/wp-content/uploads/2024/04/Vote-39-MHAISS-Budget-Motivation.pdf",
+  "title": "Vote 39 MHAISS Budget Motivation",
+  "publisher": "MHAISS",
+  "published": "2024-04-03",
+  "sub_indicator": "law",
+  "why": "Q3: Cabinet approved eIDs Aug 2023"
+ }
+]

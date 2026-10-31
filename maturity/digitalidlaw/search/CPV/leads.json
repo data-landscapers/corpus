@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://boe.incv.cv/Bulletins/Download/3323",
+  "title": "Portaria regulating the Chave Móvel Digital de Cabo Verde",
+  "publisher": "Boletim Oficial / Imprensa Nacional",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q4 rule made under Decreto-Legislativo 5/2020 on electronic authentication"
+ },
+ {
+  "url": "https://portal-autentika.gov.cv/-/chave-movel-de-cabo-verde",
+  "title": "Chave Móvel Digital de Cabo Verde",
+  "publisher": "Autentika / NOSi",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3 digital identity created by Decreto-Legislativo 5/2020"
+ },
+ {
+  "url": "https://boe.incv.cv/Bulletins/Download/5945",
+  "title": "Boletim Oficial I Série n.º 84, 3 Sept 2024 (Decreto-lei 42/2024 IMIJ, SNIAC)",
+  "publisher": "Boletim Oficial",
+  "published": "2024-09-03",
+  "sub_indicator": "law",
+  "why": "Q4 decree giving institute powers over SNIAC"
+ },
+ {
+  "url": "https://www.vpqadvogados.com/xms/files/RECURSOS/Newsletters/2023/Cabo_Verde_-_Regulamento_da_Chave_Movel_Digital_-_Legal_Alert_VPQ_-PT-.pdf",
+  "title": "Regulamento da Chave Móvel Digital",
+  "publisher": "MLGTS / VPQ Advogados",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q4 regulation of CMDCV (law firm summary)"
+ },
+ {
+  "url": "https://www.governo.cv/wp-content/uploads/2026/04/economiadigital.pdf",
+  "title": "Governo em Ação: Economia Digital",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2026-04",
+  "sub_indicator": "law",
+  "why": "Q3 mentions Lei da Identidade Eletrónica"
+ },
+ {
+  "url": "https://www.gov.cv/legislacao",
+  "title": "Legislação - Portal Único",
+  "publisher": "Governo de Cabo Verde",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2 list of identity decrees"
+ },
+ {
+  "url": "https://www.governo.cv/aquisicao-de-bens-e-servicos-no-dominio-das-tics-na-ap-passa-a-estar-vinculada-ao-dever-de-informacao-e-do-parecer-previo/",
+  "title": "Aquisição de bens e serviços TIC na AP ... parecer prévio (DL 47/2022)",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2022-11-25",
+  "sub_indicator": "law",
+  "why": "Q4 decree requiring Autentika and SNIAC integration"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "publicskills",
+ "aspect": "measured",
+ "fact": "The 2022 ICT Access and Use Survey (March-May 2022) found an average 29.63 percent of individuals reported ICT skills, 9.2 percent in programming or coding.",
+ "title": "Information and Communication Technology Access and Use Survey Report 2022",
+ "publisher": "Eswatini Communications Commission",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.uneca.org/stories/burundi-validates-national-data-governance-strategy",
+  "title": "Burundi Validates National Data Governance Strategy",
+  "publisher": "UNECA",
+  "published": "2025-11-07",
+  "sub_indicator": "sovereignty",
+  "why": "data strategy validated"
+ },
+ {
+  "url": "https://www.digitalbusiness.africa/burundi-la-strategie-nationale-de-gouvernance-des-donnees-devoilee/",
+  "title": "Burundi : La Stratégie nationale de Gouvernance des Données dévoilée",
+  "publisher": "Digital Business Africa",
+  "published": "2025-11-11",
+  "sub_indicator": "sovereignty",
+  "why": "sovereign national data centres"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/burundi-takes-ai-ambitions-to-seoul-as-it-seeks-infrastructure-investment",
+  "title": "Burundi takes AI ambitions to Seoul",
+  "publisher": "We are Tech",
+  "published": "2026-09-10",
+  "sub_indicator": "sovereignty",
+  "why": "sovereign cloud in AI strategy"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/burundi-bujumbura-seeks-south-korean-support-for-digital-identity-infrastructure",
+  "title": "Bujumbura Seeks South Korean Support for Digital Identity Infrastructure",
+  "publisher": "We are Tech",
+  "published": "2026-10-21",
+  "sub_indicator": "sovereignty",
+  "why": "secure hosting, data centres"
+ },
+ {
+  "url": "https://presidence.gov.bi/wp-content/uploads/2025/11/CMQ-CM-11-DU-22.10.25.pdf",
+  "title": "Communiqué de presse N°11/2025 du Conseil des Ministres",
+  "publisher": "Présidence du Burundi",
+  "published": "2025-10-22",
+  "sub_indicator": "sovereignty",
+  "why": "data protection bill adopted"
+ },
+ {
+  "url": "https://setic.gov.bi/recrutement-dun-bureau-detudes-pourrealiser-une-etude-complete-sur-la-gestion-et-lhebergement-des-donnees-inventaire-strategie-analyse-politique-plan-operationnelbusiness-plan-et-modele-de/",
+  "title": "Recrutement d'un bureau d'études: gestion et hébergement des données",
+  "publisher": "SETIC",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "government data hosting study"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program",
+  "title": "World Bank Reviews Burundi's PAFEN Reform Program",
+  "publisher": "We are Tech",
+  "published": "2026-03-27",
+  "sub_indicator": "sovereignty",
+  "why": "national data center planned"
+ },
+ {
+  "url": "https://presidence.gov.bi/wp-content/uploads/2026/10/CMQ-CM-13DU-14.10.26.pdf",
+  "title": "Communiqué de presse N°13/2026 du Conseil des Ministres",
+  "publisher": "Présidence du Burundi",
+  "published": "2026-10-14",
+  "sub_indicator": "sovereignty",
+  "why": "national digital policy adopted"
+ }
+]

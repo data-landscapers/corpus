@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://mbc.mw/1-4-malawians-possess-digital-expertise-nso-macra/",
+  "title": "1.4% Malawians possess digital expertise",
+  "publisher": "Malawi Broadcasting Corporation",
+  "published": "2024-05-29",
+  "sub_indicator": "publicskills",
+  "why": "Q3: measured share"
+ },
+ {
+  "url": "https://www.uncdf.org/article/9319/assessing-digital-and-financial-literacy-in-malawi",
+  "title": "Assessing digital and financial literacy in Malawi",
+  "publisher": "UNCDF",
+  "published": "2026-09-17",
+  "sub_indicator": "publicskills",
+  "why": "Q3: survey index"
+ },
+ {
+  "url": "https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities",
+  "title": "Digitalizing Malawi",
+  "publisher": "World Bank",
+  "published": "2025-06-23",
+  "sub_indicator": "publicskills",
+  "why": "Q2: 19,000 youth trained"
+ },
+ {
+  "url": "https://mbc.mw/govt-advocates-for-improved-digital-service-delivery/",
+  "title": "Govt advocates for improved digital service delivery",
+  "publisher": "Malawi Broadcasting Corporation",
+  "published": "2024-09-20",
+  "sub_indicator": "publicskills",
+  "why": "Q2: 19,000 youths trained"
+ },
+ {
+  "url": "https://digmap.pppc.mw/digital-malawi-project-a-game-changer-for-malawis-digital-transformation/",
+  "title": "Digital Malawi Project: A game-changer",
+  "publisher": "Digital Malawi Project (PPPC)",
+  "published": "2024-08-13",
+  "sub_indicator": "publicskills",
+  "why": "Q1-2: tech hubs, DMAP skills"
+ },
+ {
+  "url": "https://digmap.pppc.mw/digmap-luntha-ndi-chuma-initiative-for-human-capital-development/",
+  "title": "DIGMAP Luntha ndi Chuma initiative",
+  "publisher": "Digital Malawi Project (PPPC)",
+  "published": "2024-01-16",
+  "sub_indicator": "publicskills",
+  "why": "Q2: programme trainees"
+ },
+ {
+  "url": "https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=2505-malawi-ides-report---designpdf&id=19003",
+  "title": "Malawi Inclusive Digital Economy Report",
+  "publisher": "UNCDF",
+  "published": "",
+  "sub_indicator": "publicskills",
+  "why": "Q3: digital literacy score"
+ }
+]

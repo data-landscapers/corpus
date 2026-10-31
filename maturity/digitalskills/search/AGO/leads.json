@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://pti.ao/executivo-mobiliza-5-milhoes-de-dolares-para-formacao-e-inclusao-digital/",
+  "title": "Executivo mobiliza 5 milhões de dólares para formação e inclusão digital",
+  "publisher": "PTI",
+  "published": "2026-08-22",
+  "sub_indicator": "publicskills",
+  "why": "Q2: programme being launched"
+ },
+ {
+  "url": "https://pti.ao/formacao-de-agentes-locais-o-passo-seguinte-ao-investimento-em-infra-estrutura-digital/",
+  "title": "Formação de agentes locais: o passo seguinte ao investimento em Infra-estrutura digital",
+  "publisher": "PTI",
+  "published": "2026-08-27",
+  "sub_indicator": "publicskills",
+  "why": "Q2: Despacho 324/26 programme"
+ },
+ {
+  "url": "https://www.menosfios.com/projeto-cidadao-digital-alcancou-mais-de-600-mil-pessoas-revela-emis/",
+  "title": "Projeto Cidadão Digital alcançou mais de 600 mil pessoas, revela EMIS",
+  "publisher": "Menos Fios",
+  "published": "2024-12-24",
+  "sub_indicator": "publicskills",
+  "why": "Q3: programme trained stated number"
+ },
+ {
+  "url": "https://www.angop.ao/noticias/tecnologia/programa-cidadao-digital-investe-mais-de-400-milhoes-de-kwanzas/",
+  "title": "ANGOTIC2024: Mais de 500 mil pessoas beneficiam",
+  "publisher": "Angop",
+  "published": "2024-06-13",
+  "sub_indicator": "publicskills",
+  "why": "Q3: 500,000 trained"
+ },
+ {
+  "url": "https://www.fadcom.gov.ao/noticia/PROJECTO+%22NGOLA+DIGITAL%22+J%C3%81+CONTEMPLA+MAIS+DE+70+ESCOLAS+EM+TODO+O+PA%C3%8DS+COM+SALAS+DE+INFORM%C3%81TICA",
+  "title": "Projecto Ngola Digital já contempla mais de 70 escolas",
+  "publisher": "FADCOM",
+  "published": "2024-08-16",
+  "sub_indicator": "publicskills",
+  "why": "Q2/Q3: Ngola Digital literacy programme"
+ },
+ {
+  "url": "https://c2a.portais.gov.ao/uploads/PADA_Td_R_Especialista_em_Competencias_Digitais_7e9f57a73b.pdf",
+  "title": "Projecto de Aceleração Digital de Angola - TdR Especialista em Competências Digitais",
+  "publisher": "PADA",
+  "published": "",
+  "sub_indicator": "publicskills",
+  "why": "Q2: national digital skills strategy planned"
+ }
+]

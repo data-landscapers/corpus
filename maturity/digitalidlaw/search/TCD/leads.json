@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.atpe.td/conseil-des-ministres-le-gouvernement-adopte-un-projet-de-loi-et-un-projet-de-decret/",
+  "title": "Conseil des Ministres : Le gouvernement adopte un projet de loi et un projet de décret",
+  "publisher": "ATPE",
+  "published": "2026-02-12",
+  "sub_indicator": "law",
+  "why": "Q1: bill on biometric data in judicial procedures adopted by cabinet"
+ },
+ {
+  "url": "https://www.atpe.td/donnees-biometriques-les-senateurs-adoptent-un-projet-de-loi/",
+  "title": "Données biométriques : Les sénateurs adoptent un projet de loi",
+  "publisher": "ATPE",
+  "published": "2026-04-28",
+  "sub_indicator": "law",
+  "why": "Q1/Q2: Senate adopts biometric data bill"
+ },
+ {
+  "url": "https://www.ialtchad.com/index.php/journal/item/3752-les-deputes-examinent-le-projet-de-loi-relatif-a-l-encadrement-de-l-usage-des-donnees-biometriques-dans-les-enquetes-criminelles",
+  "title": "Les Députés examinent le projet de loi relatif à l'encadrement de l'usage des données biométriques",
+  "publisher": "Ialtchad Presse",
+  "published": "2026-04-11",
+  "sub_indicator": "law",
+  "why": "Q1: Assembly examines biometric bill"
+ },
+ {
+  "url": "https://tchadinfos.com/2023/01/07/loi-des-finances-2023-le-nni-la-nouvelle-exigence-dans-les-etablissements-bancaires-et-publics-de-protection-sociale/",
+  "title": "Loi des finances 2023 : le NNI, la nouvelle exigence dans les établissements bancaires et publics",
+  "publisher": "Tchadinfos",
+  "published": "2023-01-07",
+  "sub_indicator": "law",
+  "why": "Q4: finance law requires NNI for banks and public bodies"
+ },
+ {
+  "url": "https://www.letchadanthropus-tribune.com/tchad-securite-larcep-sonnera-lalerte-sur-lappartenance-des-cartes-sim/",
+  "title": "L'ARCEP sonnera l'alerte sur l'appartenance des cartes SIM",
+  "publisher": "Le Tchadanthropus-tribune",
+  "published": "2025-04-30",
+  "sub_indicator": "law",
+  "why": "Q4: SIM must be tied to NNI under rules in force"
+ },
+ {
+  "url": "http://jafbase.fr/docAfrique/Tchad/Tchad-Ordonnance%20Etat-Civil%202020.pdf",
+  "title": "Ordonnance portant organisation de l'Etat Civil en République du Tchad",
+  "publisher": "Présidence de la République du Tchad",
+  "published": "2020",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: ordinance setting up biometric population register and unique NNI"
+ },
+ {
+  "url": "https://citizenshiprightsafrica.org/fr/tchad-lanats-lance-lidentification-biometrique/",
+  "title": "Tchad: L'Anats lance l'identification biométrique",
+  "publisher": "Initiative sur le droit à la nationalité en Afrique",
+  "published": "2020-01-04",
+  "sub_indicator": "law",
+  "why": "Q3: SIGPTS launch, unique NNI"
+ },
+ {
+  "url": "https://ansice.td/publications",
+  "title": "ANSICE publications (textes)",
+  "publisher": "ANSICE",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Laws list; no ID law"
+ }
+]

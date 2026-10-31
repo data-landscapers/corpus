@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117585/COG-117585.pdf",
+  "title": "Décret n° 2024-2692 du 13 novembre 2024 modifiant le décret n° 2009-57 portant création de la carte nationale d'identité informatisée et sécurisée",
+  "publisher": "Journal officiel de la République du Congo",
+  "published": "2024-11-21",
+  "sub_indicator": "law",
+  "why": "Q3/Q4: rule made under the ID regime, biometric card"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202301/congo-to-hire-consultants-for-legal-frameworks-of-digitized-identity-civil-register",
+  "title": "Congo to hire consultants for legal frameworks of digitized identity, civil register",
+  "publisher": "Biometric Update",
+  "published": "2023-01-09",
+  "sub_indicator": "law",
+  "why": "Q1: legal review of ID framework"
+ },
+ {
+  "url": "https://www.finances.gouv.cg/fr/articles/num%C3%A9ro-didentification-unique-niu",
+  "title": "Numéro d'Identification Unique (NIU)",
+  "publisher": "Ministère des finances, du budget et du portefeuille public",
+  "published": "2023-06-20",
+  "sub_indicator": "law",
+  "why": "Q3/Q4: arrêté 25550 makes NIU mandatory for banks, telecoms"
+ },
+ {
+  "url": "https://niu.cg/fr/a-propos/medias/documentation",
+  "title": "Documents | Numéro d'Identification Unique",
+  "publisher": "Projet NIU",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q4: dated NIU decrees and arrêtés"
+ },
+ {
+  "url": "https://brazzavillois.com/2026/03/31/etat-civil-au-congo-la-loi-entre-en-relecture/",
+  "title": "Congo : la loi sur l'état civil en relecture",
+  "publisher": "Brazzavillois",
+  "published": "2026-03-31",
+  "sub_indicator": "law",
+  "why": "Q1: draft civil status law"
+ },
+ {
+  "url": "https://www.sgg.cg/JO/2022/congo-jo-2022-22.pdf",
+  "title": "Journal officiel 2022 n° 22: arrêtés 1888 et 1889 sur la direction de l'identification civile",
+  "publisher": "Journal officiel de la République du Congo",
+  "published": "2022",
+  "sub_indicator": "law",
+  "why": "Q3: biometric ID card centres"
+ },
+ {
+  "url": "https://www.sofrecom.com/news-insights/le-congo-bientot-dote-dun-systeme-national-didentification-numerique.html",
+  "title": "Numérique: le Congo bientôt doté d'un système national d'identification digitale",
+  "publisher": "Sofrecom",
+  "published": "2025-03-17",
+  "sub_indicator": "law",
+  "why": "Q3: national digital ID system feasibility"
+ },
+ {
+  "url": "https://www.finances.gouv.cg/en/node/4803",
+  "title": "Relance des opérations de production de la carte NIU",
+  "publisher": "Ministère des finances, du budget et du portefeuille public",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3: NIU decree and biometric arrêté 2020"
+ }
+]

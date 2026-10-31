@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://nida.go.tz/Habari-Maelezo?value=31",
+  "title": "Waziri Masauni: Vitambulisho vya Taifa havitakuwa na muda ukomo",
+  "publisher": "NIDA",
+  "published": "2024-11-13",
+  "sub_indicator": "law",
+  "why": "Q4: 2023 amendment regulations under the Act, GN 96 of 17 Feb 2023"
+ },
+ {
+  "url": "https://tanzlii.org/akn/tz/act/gn/2023/96/eng@2023-02-17",
+  "title": "Registration and Identification of Persons (General) (Amendment) Regulations, 2023",
+  "publisher": "TanzLII",
+  "published": "2023-02-17",
+  "sub_indicator": "law",
+  "why": "Q4: dated regulation made under the Act"
+ },
+ {
+  "url": "https://tmc.co.tz/wp-content/uploads/2025/03/ADVOCACY-BRIEF-The-Promise-of-Jamii-Namba-Enabling-Integration-for-Efficiency-Security-and-Inclusion-for-a-Digital-Tanzania.pdf?download=10454",
+  "title": "Advocacy Brief: The Promise of Jamii Namba",
+  "publisher": "Media Convergency Catalyst",
+  "published": "2025-03",
+  "sub_indicator": "law",
+  "why": "Q1-3: legal framework status of national ID law"
+ },
+ {
+  "url": "https://www.nps.go.tz/uploads/documents/sw-1751397740-THE%20REGISTRATION%20AND%20IDENTIFICATION%20OF%20PERSONS%20ACT.pdf",
+  "title": "The Registration and Identification of Persons Act, Cap. 36 R.E. 2023",
+  "publisher": "Government of Tanzania / OAG",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q1-3: law in force, NIN, National Identification Database"
+ },
+ {
+  "url": "https://nida.go.tz/Habari-Maelezo?value=1",
+  "title": "NIDA Habari",
+  "publisher": "NIDA",
+  "published": "2024-11-01",
+  "sub_indicator": "law",
+  "why": "Q2-3: NIDA mandate, electronic register, online registration"
+ }
+]

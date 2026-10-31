@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/",
+  "title": "Burundi unveils Biometric National ID system, awaits law before full rollout",
+  "publisher": "Burundi Times",
+  "published": "2026-05-07",
+  "sub_indicator": "law",
+  "why": "bill/decree status of biometric ID"
+ },
+ {
+  "url": "https://burundifacts.org/burundi-la-carte-biometrique-est-elle-vraiment-techniquement-prete/",
+  "title": "Burundi : la carte biométrique est-elle vraiment techniquement prête ?",
+  "publisher": "Burundi Facts",
+  "published": "2026-07-26",
+  "sub_indicator": "law",
+  "why": "legal basis for biometric ID"
+ },
+ {
+  "url": "https://burundi-eco.com/la-carte-didentite-biometrique-en-marche-entre-ambitions-et-defis/",
+  "title": "La carte d'identité biométrique en marche, entre ambitions et défis",
+  "publisher": "Burundi Eco",
+  "published": "2026-05-08",
+  "sub_indicator": "law",
+  "why": "texts to be revised for biometric ID"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative",
+  "title": "Burundi Launches Digital Civil Registry and Biometric ID Initiative",
+  "publisher": "We are Tech",
+  "published": "2026-05-08",
+  "sub_indicator": "law",
+  "why": "awaiting decree governing the system"
+ },
+ {
+  "url": "https://assemblee.bi/?p=31493",
+  "title": "Analyse et adoption du projet de loi portant protection des données à caractère personnel",
+  "publisher": "Assemblée Nationale du Burundi",
+  "published": "2026-01",
+  "sub_indicator": "law",
+  "why": "minister on biometric ID legal timing"
+ },
+ {
+  "url": "https://www.rtnb.bi/?mypost%3Fid=161",
+  "title": "RTNB: adoption du projet de loi sur la protection des données",
+  "publisher": "RTNB",
+  "published": "2026-01-16",
+  "sub_indicator": "law",
+  "why": "biometric ID delayed awaiting law"
+ },
+ {
+  "url": "https://mininterinfos.gov.bi/vers-une-identification-sure-et-securisee/",
+  "title": "Vers une identification sure et sécurisée",
+  "publisher": "MININTER",
+  "published": "2024-07-10",
+  "sub_indicator": "law",
+  "why": "ID ecosystem diagnostic, unique ID"
+ },
+ {
+  "url": "https://isoko.gov.bi/?procedures=fichier-national-de-lidentification-carte-nationale-didentite",
+  "title": "Fichier National de l'Identification/Carte Nationale d'Identité",
+  "publisher": "isoko.gov.bi",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "texts currently applied to ID card"
+ }
+]

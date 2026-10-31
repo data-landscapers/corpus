@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.ena.et/web/eng/w/eng_8021907",
+  "title": "Ethiopia Anchors Digital Sovereignty in New Digital Ethiopia 2030 Strategy: Ministry Says",
+  "publisher": "ENA",
+  "published": "2025-12-29",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: sovereign national cloud in strategy"
+ },
+ {
+  "url": "http://www.mint.gov.et/documents/d/guest/proclamation_no-_1321_-2024personal_data_protection?download=true",
+  "title": "Personal Data Protection Proclamation No. 1321/2024 (Art. 22 Data Sovereignty)",
+  "publisher": "Federal Negarit Gazette",
+  "published": "2024-07-24",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: local storage and critical data rule"
+ },
+ {
+  "url": "https://dial.global/wp-content/uploads/2025/10/Summary_Ethiopia-National-Data-Governance-Strategy.pdf",
+  "title": "Ethiopia National Data Governance Strategy (EDGS) Summary",
+  "publisher": "DIAL",
+  "published": "2025-10",
+  "sub_indicator": "sovereignty",
+  "why": "Q1: data classification, sovereign data strategy"
+ },
+ {
+  "url": "https://www.huaweicloud.com/intl/en-us/cases/ethiotelecomcloud.html",
+  "title": "Ethio Telecom-Huawei Cloud Stack",
+  "publisher": "Huawei Cloud",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: national sovereign cloud hosting ministries and national ID"
+ }
+]

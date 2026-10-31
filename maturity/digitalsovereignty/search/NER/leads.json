@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://ansi.ne/?p=1698",
+  "title": "Visite technique du chantier du Datacenter National",
+  "publisher": "ANSI",
+  "published": "2026-10-29",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: national data centre hosting state data"
+ },
+ {
+  "url": "https://www.sofrecom.com/news-insights/etude-de-faisabilite-pour-la-construction-d-un-data-center-national.html",
+  "title": "Etude de faisabilite : construction d'un data center",
+  "publisher": "Sofrecom",
+  "published": "2026-02-11",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: national data centre"
+ },
+ {
+  "url": "https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/",
+  "title": "Entretien accorde a la RTN par le ministre Sidi Mohamed Raliou",
+  "publisher": "Le Sahel",
+  "published": "2025-03-04",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: national data centre to store all data"
+ },
+ {
+  "url": "https://fr.apanews.net/news/niger-digitalisation-et-datacenter-les-priorites-du-ministre-du-numerique/",
+  "title": "Niger : Digitalisation et Datacenter, les priorites du Numerique",
+  "publisher": "APAnews",
+  "published": "2025-02-27",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: datacenter priority"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/rapport_definitif_eies_datacenter_pk5_niamey_vp.pdf",
+  "title": "Etude de l'Impact Environnemental et Social du sous projet DATACENTER national au PK5",
+  "publisher": "African Development Bank",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: government zone in data centre"
+ },
+ {
+  "url": "https://www.hapdp.ne/uploads/files/Loi-2022-59-consolidee.pdf",
+  "title": "Loi n 2022-59 du 16 decembre 2022",
+  "publisher": "HAPDP",
+  "published": "2022-12-16",
+  "sub_indicator": "sovereignty",
+  "why": "Q1/Q3: data protection law, transfers"
+ }
+]
