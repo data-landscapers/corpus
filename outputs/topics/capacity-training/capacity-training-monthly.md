@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: d5e3fad6c4a1
+record: e8fa7d3a96a4
 ---
 
 # News, Sep – Oct 2026

@@ -1,10 +1,10 @@
 ---
 title: Standards — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: gov.standards
-places: BEN; BFA; BDI; CMR; COG; EGY; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; NAM; NGA; RWA; SYC; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB
-record: a576414285c7
+places: BEN; BFA; BDI; CMR; COG; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; NAM; NGA; RWA; SYC; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB
+record: fd2b59ddefdb
 ---
 
 # News, Sep – Oct 2026
@@ -21,6 +21,8 @@ record: a576414285c7
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -156,6 +158,22 @@ ISO lists ACONOQ, created by a 2015 law, as the Republic of Congo's national sta
 **[تنظيم الاتصالات: منظومة لتقييم المدن الذكية والمستدامة وفق معايير دولية](https://www.youm7.com/story/2026/10/15/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%88%D9%81%D9%82-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A%D8%A9/7580488)** — Youm7, 15 October 2026
 
 Egypt's telecoms regulator described an online system that scores new cities against its smart and sustainable cities code and issues conformity certificates. It is applied with the housing ministry to cities including the New Administrative Capital and New Alamein.
+
+</div>
+
+</div>
+
+## Eswatini
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Safety and Standards Centre of Excellence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa seeks control of AI safety as Eswatini launches standards centre](https://www.standardmedia.co.ke/business/article/2001561221/africa-seeks-control-of-ai-safety-as-eswatini-launches-standards-centre)** — The Standard, 30 October 2026
+
+The Eswatini Standards Authority and AICE Africa launched an AI Safety and Standards Centre of Excellence on 27 October 2026. It will train standards officers, auditors and regulators, and work towards an AI testing laboratory and an African AI standards baseline report. An AI safety summit is planned for Mbabane in July 2027.
 
 </div>
 

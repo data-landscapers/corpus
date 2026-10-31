@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: b984840e6cb3
+record: 1682c921bdeb
 ---
 
 # News, Sep – Oct 2026
@@ -398,6 +398,20 @@ The Comoros' digital development agency and UNDP signed a memorandum on 16 Septe
 **[Conseil des ministres I Approbation d’un projet d’électrification complète de la région de Mledjele à Mwali](https://alwatwan.net/politique/conseil-des-ministres-i-approbation-d%E2%80%99un-projet-d%E2%80%99%C3%A9lectrification-compl%C3%A8te-de-la-r%C3%A9gion-de-mledjele-%C3%A0-mwali.html)** — Al-watwan, 22 October 2026
 
 Comoros' telecoms minister presented a national data-governance and data-centre strategy for 2027-2031 to the Council of Ministers on 21 October 2026, along with the takeover and hosting of the State data centre. The Council approved the national postal-code booklet in principle, asking that the island governors be involved.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strategie nationale de sante numerique 2022-2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé et numérique : Onze projets pour accélérer la transformation du système sanitaire](https://www.lagazettedescomores.com/sant%C3%A9/sant%C3%A9-et-num%C3%A9rique-onze-projets-pour-acc%C3%A9l%C3%A9rer-la-transformation-du-syst%C3%A8me-sanitaire-.html)** — La Gazette des Comores, 30 October 2026
+
+Comoros's health statistics directorate said on 27 October 2026 that only one of eleven projects in the 2022 digital health plan has been substantially implemented. It cited lack of funds. DHIS2 is in use with an electronic vaccination register, and malaria forecasting is being piloted in five Ngazidja districts.
 
 </div>
 
@@ -1014,6 +1028,20 @@ Morocco's decree 2-26-831 of 26 October 2026 sets the remit of Ahmed Rahhou, Min
 **[Ahmed Rahhou chargé d’élaborer la politique publique en matière d’IA](https://medias24.com/2026/10/28/ahmed-rahhou-charge-delaborer-la-politique-publique-en-matiere-dia-1785031/)** — Médias24, 28 October 2026
 
 Médias24 reported on 28 October 2026 on Morocco's decree giving Ahmed Rahhou the AI policy mandate. It adds that minister-delegate Aïcha Guellaa takes administrative reform. Rahhou also inherits the Maroc Digital 2030 roadmap and the Nouaceur AI Factory project; the decree is summarised under its own entry.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government programme 2026-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[البرنامج الحكومي، الولاية التشريعية 2026-2031، طبقا لأحكام الفصل 88 من الدستور](https://article19.ma/accueil/wp-content/uploads/2026/10/PG-2026-2031.pdf)** — Chef du Gouvernement, Royaume du Maroc, 19 October 2026
+
+Arabic text: sovereign national cloud, IA Maroc, 5,000 AI specialists, under-15 social-media ban, 80% fibre to homes.
 
 </div>
 

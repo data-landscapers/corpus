@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: include.access
 places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: a6b425bb16cf
+record: 3e0dd0ae4bcd
 ---
 
 # News, Sep – Oct 2026

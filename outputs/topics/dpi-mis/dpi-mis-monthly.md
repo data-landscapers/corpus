@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b2ad0a5bdc15
+record: cac9a91e0f46
 ---
 
 # News, Sep – Oct 2026
@@ -450,6 +450,20 @@ Chad's livestock ministry took delivery on 21 October 2026 of seven digital syst
 **[Éducation : le PAREAB lance la distribution de 39 000 tablettes numériques et Power bank aux enseignants du primaire](https://lendjampost.com/education-le-pareab-lance-la-distribution-de-39-000-tablettes-numeriques-et-power-bank-aux-enseignants-du-primaire/)** — Le N'Djam Post, 23 October 2026
 
 Chad's education ministry and the World Bank-funded PARAEB project began distributing 39,000 tablets with power banks to primary teachers, preloaded with curricula, teacher guides and the Teach and Coach classroom tools. The first phase covers four academies and 9,375 teachers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Teacher-management software</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Éducation nationale : le numérique pour mieux gérer les agents de l’État](https://lendjampost.com/education-nationale-le-numerique-pour-mieux-gerer-les-agents-de-letat/)** — Le N'Djam Post, 30 October 2026
+
+Chad's education ministry gave biometric staff cards to academy rectors on 30 October 2026. It ordered its HR directorate to have the Mirador staff-management platform running by the end of November 2026. Personnel acts are to require the card, and deceased, retired and absent staff are to be removed from the active list.
 
 </div>
 

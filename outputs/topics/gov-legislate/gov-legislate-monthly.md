@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9a97b1245f3c
+record: fb24729af543
 ---
 
 # News, Sep – Oct 2026
@@ -1611,6 +1611,14 @@ Mauritius's ICT ministry and Meta held a workshop at Ebene on 7 October 2026 on 
 **[Avinash Ramtohul : «Il faut apporter un peu de discipline dans les réseaux sociaux»](https://lexpress.mu/s/avinash-ramtohul-il-faut-apporter-un-peu-de-discipline-dans-les-reseaux-sociaux-563444)** — L'Express (Maurice), 10 October 2026
 
 Mauritius's ICT minister, Avinash Ramtohul, told L'Express on 10 October 2026 about a two-day working session with Meta on content moderation, reporting and takedown requests. He cited about 20 abuse cases reported a day, a takedown agreement involving the national computer emergency team CERT-MU and Meta verification of MPs' identities, and said Meta could open an office in Mauritius.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PQ | Réseaux sociaux : Le gouvernement prépare un nouveau cadre contre les abus](https://lexpress.mu/node/564170)** — L'Express (Maurice), 29 October 2026
+
+Draft Act 2021 amendments: deepfakes, doxxing, fake profiles; new Cybercrime Agency; takedown duties on platforms.
 
 </div>
 

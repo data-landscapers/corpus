@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; MWI; MLI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8f138982afc6
+record: 02de6284e066
 ---
 
 # News, Sep – Oct 2026
@@ -576,6 +576,20 @@ A digital truck yard at Ain Sokhna port, under an EGP 1bn contract for up to 1,1
 **[«التخطيط» تعلن تنفيذ ربط إلكتروني متكامل مع «المالية» وبنك الاستثمار لأول مرة - الوطن](https://www.elwatannews.com/news/details/8384664)** — Al-Watan, 26 October 2026
 
 The planning minister told the Senate about an integrated electronic link. It joins the planning ministry, the finance ministry and the National Investment Bank. It was activated over the past four months, a first. It is meant to tighten monitoring of public investment and the allocation of project funding.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Real estate registry network with ministries and survey bodies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[العدل تواصل تطوير منظومة تسجيل الملكية العقارية بربط شبكى مع الوزارات المعنية](https://www.youm7.com/story/2026/10/28/%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B1%D8%A8%D8%B7-%D8%B4%D8%A8%D9%83%D9%89-%D9%85%D8%B9/7597491)** — Youm7, 28 October 2026
+
+Registry linked to five ministries and survey bodies; unified platform for remote registration to e-signature.
 
 </div>
 

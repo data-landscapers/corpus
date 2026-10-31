@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — progress report, October 2025 – October 2026
-compiled: 2026-10-30
-period: 2025-10-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2025-10-01 to 2026-10-31
 subject: data.satellite
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5839c9600bf1
+record: 9db4d7434e00
 ---
 
 # Use of satellite data: progress report, October 2025 – October 2026

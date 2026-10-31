@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 443fdab1c8f4
+record: a5650007cfe3
 ---
 
 # News, Sep – Oct 2026
@@ -513,6 +513,20 @@ Telecom Egypt's mobile brand WE launched an electronic know-your-customer servic
 **[إطلاق منظومة التحقق البيومتري الإلكتروني (الهوية الرقمية) لتيسير حصول المواطنين على الخدمات الرقمية عن بُعد](https://www.elmydannews.com/251837)** — Elmydan News, 18 September 2026
 
 Egypt's communications and interior ministries launched a platform for remote biometric identity verification and electronic signature, which licensed telecom operators can offer inside their own smartphone applications so users need not visit a branch. It was built by the telecom regulator with the IT industry development agency, a local developer and licensed signature providers; no user count or list of relying services is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic passport</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Thales, Cyshield join forces on Egypt’s biometric border and passport plans](https://www.biometricupdate.com/202610/thales-cyshield-join-forces-on-egypts-biometric-border-and-passport-plans)** — Biometric Update, 30 October 2026
+
+Thales and the Egyptian firm Cyshield signed a memorandum on biometric border management and electronic passports for Egypt, reported on 30 October 2026. It covers biometric e-gates across more than 32 air, land and sea border points. It also covers issuance systems for a planned national e-passport rollout.
 
 </div>
 

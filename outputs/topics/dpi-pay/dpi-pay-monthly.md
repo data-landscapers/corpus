@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: beddb53db8de
+record: 4f9135e602f6
 ---
 
 # News, Sep – Oct 2026
@@ -632,6 +632,20 @@ Comoros began a new phase of its World Bank-funded social cash transfers on 20 S
 **[Fintech : Yano se positionne dans la structuration des transactions financières mobiles](https://www.aci.cg/fintech-yano-se-positionne-dans-la-structuration-des-transactions-financieres-mobiles/)** — Agence Congolaise d'Information, 29 September 2026
 
 Yano, a Congolese fintech launched on 14 September 2026, lets groups, traders and individuals collect contributions and take mobile payments by QR code or link, regardless of mobile operator, its co-founder Elwin Gomo told the Congolese news agency. It holds no cash itself. It is backed by the Bantulab programme through a 655 million CFA franc investment vehicle.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MoMo payments in the pharmaceutical supply chain (UbiPharm)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MoMo and UbiPharm partner to digitise pharmaceutical payments in Congo](https://techreviewafrica.com/news/8034/momo-and-ubipharm-partner-to-digitise-pharmaceutical-payments-in-congo)** — Tech Review Africa, 29 October 2026
+
+Signed in Pointe-Noire; pharmacies pay distributor and customers pay pharmacies by MoMo; no volumes or fees.
 
 </div>
 

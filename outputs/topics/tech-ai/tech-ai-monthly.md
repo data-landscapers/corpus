@@ -1,10 +1,10 @@
 ---
 title: AI — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 43834cad8229
+record: ccfce209bfab
 ---
 
 # News, Sep – Oct 2026
@@ -2241,6 +2241,20 @@ Senegal scored 1.27 out of 4 on the Africa AI Governance Index 2026, in the Emer
 **[Kiriku Voice Challenge : des modèles d’IA développés pour les langues nationales](https://lesoleil.sn/actualites/technologie/kiriku-voice-challenge-des-modeles-dia-developpes-pour-les-langues-nationales/)** — Le Soleil, 16 October 2026
 
 AI Hub Senegal and the French embassy presented the results of the Kiriku Voice Challenge. It produced 210 hours of annotated Wolof, Pulaar and Serer speech and two openly published models, one for speech recognition and one for speech synthesis.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Senegal AI Scaling Hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Sénégal se dote d’un hub pour transformer les projets d’IA en applications concrètes](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-se-dote-dun-hub-pour-transformer-les-projets-d-ia-en-applications-concretes)** — wearetech.africa, 30 October 2026
+
+Senegal and the Gates Foundation launched the Senegal AI Scaling Hub in Dakar on 29 October 2026. It is to take AI pilots into use in health, agriculture and education. The hub implements a September 2025 agreement worth over USD 10 million, which also covers digital identity and a delivery unit.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 93c23ee9e31e
+record: 2974068532fa
 ---
 
 # News, Sep – Oct 2026
@@ -1941,6 +1941,20 @@ The Kenya Revenue Authority and Safaricom are in talks to let M-Pesa issue elect
 **[National Treasury pushes new regulations, plan to run e-Citizen](https://www.tnx.africa/national/article/2001560974/national-treasury-pushes-new-regulations-plan-to-run-e-citizen)** — TNX Africa, 28 October 2026
 
 Kenya's Treasury told the National Assembly Finance Committee on 27 October 2026 that a parliamentary committee had approved the eCitizen regulations. The regulations put the Treasury in charge of the platform. It plans to separate revenue collection from services and cites a revenue assurance system against the Auditor-General's ownership concerns.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya DPI Roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Rolls Out 30,000 Kilometres of Fibre Infrastructure Since 2022](https://techafricanews.com/2026/10/30/kenya-rolls-out-30000-kilometres-fibre-infrastructure/)** — Tech Africa News, 30 October 2026
+
+ICT Principal Secretary John Tanui said Kenya has laid more than 30,000 km of fibre since 2022. He spoke at the second national-county ICT consultative forum in Naivasha. The forum took up a proposed County Digital Maturity Index, the National AI Agenda and the draft National DPI Roadmap.
 
 </div>
 

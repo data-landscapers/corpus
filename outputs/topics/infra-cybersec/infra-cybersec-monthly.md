@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 subject: infra.cybersec
 places: BEN; BFA; CMR; CPV; TCD; COM; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c3c6d65b82a1
+record: 1bf551ca7f71
 ---
 
 # News, Sep – Oct 2026
@@ -176,6 +176,28 @@ Burkina Faso's information systems security agency ANSSI launched a national net
 **[Lutte contre la cybercriminalité: La riposte nationale s'organise](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise)** — Cameroon Tribune, 30 September 2026
 
 Cameroon's ICT agency ANTIC reported 17,500 cybercrime complaints in 2025 with declared losses of 5.8 billion FCFA, at a cyberspace-security forum it co-hosts with the Russian embassy in Yaoundé. Since January it has counted 21,280 compromised machines and 39 attacks on government websites.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Security-audit condition for access to the national aggregation platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon Brings Together 100 Fintech Firms to Strengthen Digital Security](https://techafricanews.com/2026/10/30/cameroon-100-fintech-firms-digital-security/)** — Tech Africa News, 30 October 2026
+
+About 100 fintech firms met in Mbankomo for a three-day forum on security and regulation, opened on 28 October 2026 by ANTIC's director-general. The forum is part of Digitise Cameroon 2026, run by ANTIC and The Change Engine. Digital payment services earned over FCFA 1,022 billion in 2024, 3.16% of GDP.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon warns of rising fintech cyberthreats](https://www.itweb.africa/article/cameroon-warns-of-rising-fintech-cyberthreats/JN1gPvOAQJrMjL6m)** — ITWeb Africa, 30 October 2026
+
+Cameroon's ICT agency ANTIC said it has audited 108 fintech companies and found 3,914 vulnerabilities. Its director-general spoke at the Digitize Cameroon forum in Mbankomo, which opened on 28 October 2026. Since an April 2025 ministry decision, platforms need ANTIC-verified security compliance to reach the national aggregation platform.
 
 </div>
 
@@ -921,6 +943,20 @@ Mozambique's ICT institute INTIC was elected to the management committee of ANCA
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric SIM registration and the unique telecommunications number</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Detidos por fraude no registo de cartões de telemóveis](https://www.jornalnoticias.co.mz/destaque/detidos-por-fraude-no-registo-de-cartoes-de-telemoveis/)** — Jornal Notícias, 29 October 2026
+
+Five operator staff held in Zambézia; third parties' voter cards used to register SIMs for commissions.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -1406,6 +1442,20 @@ The South African Reserve Bank explains how its National Payment System Departme
 **[Rand Mutual probes alleged breach of 1.68m claims](https://www.itweb.co.za/article/rand-mutual-probes-alleged-breach-of-168m-claims/G98YdqLGAgXMX2PD)** — ITWeb South Africa, 27 October 2026
 
 Rand Mutual Assurance said it is investigating a possible systems breach after an alert on 23 October 2026. A threat actor claims to hold 366GB of data, including 1,683,810 compensation claims records, and demands US$95,000 by 5 November. The insurer said no unauthorised access had yet been established.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GCIS e-recruitment system breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GCIS warns of information breach](https://www.itweb.co.za/article/gcis-warns-of-information-breach/wbrpO7g2ea3vDLZn)** — ITWeb South Africa, 30 October 2026
+
+South Africa's GCIS told applicants that its e-recruitment system had been compromised, possibly exposing ID numbers, phone numbers and e-mail addresses. Suspicious activity on its web systems was identified on 24 October 2026. GCIS reported the incident to the Information Regulator, the police and the State Security Agency.
 
 </div>
 
