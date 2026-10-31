@@ -9,10 +9,10 @@
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001;NGA-004;NGA-024",
+      "stage_sources": "NGA-025;NGA-024",
       "gaps": "No source found since October 2023 says a government contract with a foreign provider carries terms on data jurisdiction, portability, exit or source code. The national hosting fact covers the identity database only.",
-      "note": "The CBN data localisation rule is in force and NIMC states the national identity database is hosted and run in Nigeria (NGA-024), so stage 4. Stage 5 needs a contract carrying data terms, and none is held.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 60): the National Cloud Policy 2025 mandates in-country hosting of sensitive government data (NGA-025), and NIMC states the national identity database is hosted and run in Nigeria (NGA-024), so stage 4. The Central Bank's payment-data circular binds financial institutions, not state data, and is noted. Stage 5 needs a contract carrying data terms, and none is held.",
+      "as_at": "2026-10-31"
     }
   ]
 }

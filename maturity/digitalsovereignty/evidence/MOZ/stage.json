@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "3",
-      "rule": "inservice",
+      "stage": "2",
+      "rule": "underway",
       "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-001",
-      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-      "note": "A 2025 report says Banco de Moçambique Notice 4/GGBM/2003, not repealed, requires data centres to be in Mozambique (MOZ-001), so stage 3. No source says government data is hosted in a national data centre, so not 4.",
+      "stage_sources": "MOZ-003",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires state data to be held in the country; the central bank's notice covers banks.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 60: a rule must include government or state data): Banco de Moçambique's Notice 4/GGBM/2003 binds banks' data centres, not state data (MOZ-001). INTIC's draft cloud regulation, out for consultation in 2025 (MOZ-003), is a draft rule, so stage 2.",
       "as_at": "2026-10-31"
     }
   ]

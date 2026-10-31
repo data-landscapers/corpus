@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "3",
-      "rule": "inservice",
+      "stage": "2",
+      "rule": "underway",
       "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-001",
-      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-      "note": "Proclamation 1321/2024, in force from July 2024, requires personal data collected in Ethiopia to be stored there (ETH-001), so stage 3. No source says government data is hosted in a national data centre, so not 4.",
+      "stage_sources": "ETH-002",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires state data to be held in the country; the 2024 personal data proclamation covers personal data in general.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 60: a rule must include government or state data): Proclamation 1321/2024's local-storage rule binds personal data held by any controller, not state data (ETH-001). Digital Ethiopia 2030 sets a sovereign national cloud as a goal (ETH-002), so stage 2.",
       "as_at": "2026-10-31"
     }
   ]

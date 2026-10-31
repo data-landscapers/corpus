@@ -89,7 +89,7 @@
    "criteria": [
     "A source from the past three years says no policy or law governs where state data is held or who may process it.",
     "The government adopted, published or announced a strategy, plan or draft rule to keep government data or systems under national control.",
-    "A law, decree or policy in force classifies government data or requires named categories of data to be held in the country.",
+    "A law, decree or policy in force classifies government data or requires government or state data to be held in the country.",
     "Government data or a core system is hosted in a government or nationally owned data centre or cloud in the country.",
     "A government contract or agreement with a foreign provider or partner includes terms on data jurisdiction, portability, exit or handing over source code."
    ],

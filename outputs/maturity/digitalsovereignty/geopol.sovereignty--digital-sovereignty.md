@@ -21,9 +21,9 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 8 |
-| 3 Established | 8 |
-| 2 Nascent | 23 |
+| 4 Operating | 6 |
+| 3 Established | 2 |
+| 2 Nascent | 31 |
 | 1 Absent | 1 |
 | Unplaced | 8 |
 | No evidence | 6 |
@@ -44,12 +44,6 @@ Government data or a core system was hosted in the country in 2026; contract ter
 - The article says the FasoSign keys, certificates and data stay hosted on national territory under the control of Burkinabe engineers ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
 - The government cloud portal run by ANPTIC (Ministry of Digital Transition) states that the G-Cloud infrastructure, with 4 datacenters and 8 cloud nodes, hosts 139 websites and 622 virtual machines and runs government applications (state messaging, gov.bf directory, Oracle business applications such as SIGASPE and E-conseil des ministres); the page is undated, so as_of is its 2026-08-05 capture date ([source, 2026-08-05](https://www.cloud.gov.bf/)).
 
-### Cameroon: 4 Operating
-
-Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
-
-- CAMTEL said at the SAGO conference of 9 June 2026 that its Zamengoe Data Centre is a critical national asset ensuring the security, continuity and local control of government data; the document does not list the specific systems hosted ([source, 2026-06-09](https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde)).
-
 ### DR Congo: 4 Operating
 
 Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
@@ -65,10 +59,9 @@ Government data or a core system was hosted in the country in 2026; contract ter
 
 ### Nigeria: 4 Operating
 
-A rule on state data was in force and the identity database was hosted nationally in 2026; no source found reports contract data terms.
+Nigeria's 2025 cloud policy keeps sensitive government data at home and its identity database is hosted nationally; no contract data terms are on record.
 
-- Stakeholders at the GrowthX forum said the Central Bank of Nigeria's six-month deadline for full data localisation, January 2027, was too short and asked for an extension, treating the directive as issued; the article gives its own published date ([source, 2026-09-29](https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/)).
-- Business AM reports the Central Bank of Nigeria's directive requires financial institutions and payment system participants (banks, mobile money operators, switching and processing companies, payment service providers) to store and manage payment transaction data generated in Nigeria on servers in the country from 1 January 2027 ([source, 2026-09-28](https://businessamlive.com/data-localisation-opens-new-investment-window-for-nigerias-data-centres/)).
+- The Nigeria Sovereign Investment Authority's release says the National Cloud Policy 2025 mandates in-country hosting for sensitive government and financial data ([source, 2026-05-19](https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/)).
 - The director of NIMC's Strategic Programme Office said the national identity database is hosted entirely in Nigeria, maintained internally and managed by NIMC employees, has never been hosted abroad and does not use cloud hosting for its core database; the date is the article's published date ([source, 2026-10-16](https://guardian.ng/business-services/nimc-onboards-63-biometric-agents-reaffirms-local-hosting-of-national-database/)).
 
 ### South Africa: 4 Operating
@@ -77,61 +70,17 @@ Government data or a core system was hosted in the country in 2026; contract ter
 
 - The DCDT states SITA, the State IT Agency, operates the Centurion data centre (primary of two national facilities) hosting mission-critical systems and sensitive government data; both are National Key Points ([source, 2026-02-24](http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf)).
 
-### Zimbabwe: 4 Operating
-
-Government data or a core system was hosted in the country in 2025; contract terms on data are not on record.
-
-- President Mnangagwa said the Zimbabwe Centre for High Performance Computing (ZCHPC) national HPC data center at the University of Zimbabwe, run by ZCHPC as custodian of national HPC infrastructure, already hosts the Ministry of Health and Child Care's Impilo Electronic Health Records and Telemedicine platform, and the Civil Registry is integrated with it (date is the commissioning of Phase 2, 2025-08-15, as the article gives no other) ([source, 2025-08-15](https://developzim.co.zw/news/innovation/president-mnangagwa-commissions-phase-2-of-high-performance-computing-project-at-university-of-zimbabwe/3322/)).
-- Government digital platforms including email and ministry websites run on the government's national cloud and data centre infrastructure, with the Government Internet Service Provider hosting ministry websites, according to the ICT Minister ([source, 2025-01-25](https://www.heraldonline.co.zw/govt-to-boost-online-services-with-new-high-tech-data-centre/)).
-
-### Botswana: 3 Established
-
-A rule on where state data is held was in force in 2025; national hosting of state systems is not on record.
-
-- Mmegi reports that the Data Protection Act, in effect since January 2025, allows data transfers abroad only to approved countries and requires a copy of the data to remain in Botswana; the report is dated 2025-11-25 and gives no other date for the statement ([source, 2025-11-25](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news)).
-
 ### Egypt: 3 Established
 
 A rule on where state data is held was in force in 2024; national hosting of state systems is not on record.
 
 - Digital Policy Alert records that Egypt's Cloud First Policy, adopted by the Supreme Council of Digital Society on 13 March 2024, entered into force on 22 August 2024 and requires data classified top secret or secret to be hosted exclusively within Egypt ([source, 2024-08-22](https://digitalpolicyalert.org/change/12346-data-localisation-requirement-in-cloud-first-policy-2024)).
 
-### Ethiopia: 3 Established
-
-A rule on where state data is held was in force in 2024; national hosting of state systems is not on record.
-
-- Digital Policy Alert records that Personal Data Protection Proclamation No. 1321/2024, adopted by Parliament on 4 April 2024, entered into force on 24 July 2024 and requires data controllers and processors to store locally collected personal data on servers in Ethiopia ([source, 2024-07-24](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024)).
-
-### Libya: 3 Established
-
-A rule on where state data is held was in force in 2025; national hosting of state systems is not on record.
-
-- The Central Bank of Libya issued Circular No. 18 (dated 1 June 2025 in this write-up) whose data protection regulation states it is prohibited to store personal, financial, credit or sensitive data outside Libya, binding on banks, foreign bank branches, fintechs, payment providers, exchange and leasing companies from 1 July 2026; the document is an undated workshop write-up, published 2025-01-01 as a year-only placeholder ([source, 2025-06-01](https://informatics.ly/en/session/personal-data-protection-regulation-session/)).
-
-### Morocco: 3 Established
-
-A rule on where state data is held was in force in 2025; national hosting of state systems is not on record.
-
-- Hespress English, citing a Global Finance report, states that a 2021 law mandates sensitive data be stored locally in Morocco; the date is the article's published date, and the article gives no law name ([source, 2025-06-09](https://en.hespress.com/112805-morocco-overtakes-south-africa-as-africas-top-data-center-hub.html)).
-
-### Mozambique: 3 Established
-
-A rule on where state data is held was in force in 2025; national hosting of state systems is not on record.
-
-- The UNECA/GIZ/AU inception report says Banco de Moçambique Notice 4/GGBM/2003 requires data centres to be located in Mozambique, with replicas abroad allowed only with prior approval; it gives no repeal, and no date other than the 2003 notice and the report's publication of 2025-06-19 ([source, 2025-06-19](https://www.uneca.org/eca-events/sites/default/files/resources/documents/TICID/data-governance-framework-mozambique/en_project_inception_report_mozambique_data_governance_framework.pdf)).
-
 ### Rwanda: 3 Established
 
 A rule on where state data is held was in force in 2025; national hosting of state systems is not on record.
 
 - The brief (Xalam Analytics for the Digital Investment Facility) states there is no blanket localisation requirement in Rwanda but some data must be stored locally depending on circumstances, and public sector data must be hosted in the government data center or in facilities meeting Rwanda Development Board standards, under the 2021 Law on Data Privacy and Protection; no date of the event is given, so the document's July 2025 publication date is used ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Rwanda.pdf)).
-
-### Tanzania: 3 Established
-
-A rule on where state data is held was in force in 2026; national hosting of state systems is not on record.
-
-- The Internet Governance Project says Tanzania has mandates for data localization and local ownership in place, and recommends revoking the data localization mandates ([source, 2026-06-09](https://www.internetgovernance.org/2026/06/09/tanzania-is-getting-online-its-digital-economy-isnt-following/)).
-- The Bank of Tanzania's Cloud Computing Guidelines for Financial Service Providers, 2025 (issued under s.71 Banking and Financial Institutions Act 2006 and s.56(3) National Payment Systems Act 2015) bar a licensed financial service provider from hosting a mission-critical system, or one whose data the Bank deems critical, in a primary data centre or cloud whose hosting infrastructure is outside Tanzania; the document is dated August 2025 ([source, 2025-08](https://www.bot.go.tz/webdocs/Feedback/en/2025082512452979.pdf)).
 
 ### Angola: 2 Nascent
 
@@ -147,12 +96,25 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 - Decree 2026-579 of 2 September 2026 created a National Digital Committee under the President, with protection of strategic data among its priorities and a mandate to give a prior opinion on technology partnerships that could engage national digital sovereignty ([source, 2026-09-02](https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree)).
 - Benin's digital agency ASIN, in a June 2026 bulletin, proposes a governance framework for generative-AI use in public administration, including sovereign hosting of data on national infrastructure or equivalent, contractual reversibility and full data return, and a ban on transfers to Cloud Act or FISA jurisdictions ([source, 2026-06](https://www.lanation.bj/actualites/usages-de-lia-dans-ladministration-publique-un-cadre-de-gouvernance-envisage)).
 
+### Botswana: 2 Nascent
+
+Botswana is moving government systems to a national data centre; no rule in force covers state data.
+
+- Communications and Innovation Minister David Tshere said the whole government system is being migrated to a secure government cloud at the Delta Digital Data Centre in Gaborone, certified in 2025 ([source, 2026-09-21](https://dailynews.gov.bw/news-detail/93395)).
+- BoFiNet CEO Geoffrey Seleka says government has taken a strategic decision to migrate its critical services to the Digital Delta Data Centre to improve national data sovereignty ([source, 2026-04-29](https://businessweekly.co.bw/news/bofinet-pushes-for-local-data-hosting-to-strengthen-security)).
+
 ### Burundi: 2 Nascent
 
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
 
 - Iwacu reports that Burundi's national AI strategy, validated at a workshop in April 2026, provides for modernising the Setic data center, creating data hubs and developing a sovereign cloud ([source, 2026-04](https://www.iwacu-burundi.org/lia-au-coeur-de-la-strategie-numerique-au-burundi/)).
 - The national AI strategy validated on 22 April 2026 provides for developing sovereign cloud solutions alongside data centre modernisation ([source, 2026-04-22](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-une-strategie-nationale-de-l-ia-adossee-a-six-piliers)).
+
+### Cameroon: 2 Nascent
+
+Cameroon hosts government data at Camtel's Zamengoe data centre; no rule in force covers state data.
+
+- Le Jour reports that the state, through Camtel, is building the Tier III Zamengoe data centre as a tool for a sovereign digital ecosystem, with the aim of producing and preserving data generated on national territory, as presented by Camtel director general Judith Yah Sunday at SAGO 2026 ([source, 2026-06](https://lejour.cm/stragie-le-cameroun-mise-sur-la-souverainete-numerique/)).
 
 ### Chad: 2 Nascent
 
@@ -181,6 +143,12 @@ Keeping state data under national control was a stated goal in 2024; a rule in f
 - Minister Ibrahim Kalil Konate, visiting the national data centre at VITIB Grand-Bassam (CFA 42.361 billion, over 20% built), said it will securely host the State's strategic data as part of the country's digital sovereignty strategy ([source, 2025-12-09](https://www.ivoirematin.com/fr/news/Societe/grand-bassam-ibrahim-kalil-konate-met-la-pression-pour-accelerer-le-chantier-du-data-center-national_n_125095.html)).
 - The national data governance strategy and AI strategy, handed to the Prime Minister on 13 March 2025 and awaiting government adoption, call for data centres and sovereign clouds to host and secure the country's data locally ([source, 2025-03-13](https://www.digitalbusiness.africa/cote-divoire-les-axes-de-la-strategie-nationale-de-l-ia-et-de-la-strategie-nationale-de-la-gouvernance-des-donnees/)).
 
+### Ethiopia: 2 Nascent
+
+Ethiopia's digital strategy aims at a sovereign national cloud; no rule in force covers state data.
+
+- The Ministry of Innovation and Technology says the Digital Ethiopia 2030 strategy is grounded in digital sovereignty, with a sovereign national cloud and strict enforcement of data sovereignty laws as its backbone ([source, 2025-12-29](https://www.ena.et/web/eng/w/eng_8021907)).
+
 ### Gabon: 2 Nascent
 
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
@@ -199,6 +167,12 @@ Ghana's minister announced a data localisation policy in 2025; no rule on state 
 Guinea plans a sovereign cloud and holds state data in its national data centre; no rule on state data is in force.
 
 - At a 19 December 2025 validation workshop, consultant Emmanuel Elolo said Guinea's AI roadmap proposes a national data hub and a national sovereign cloud because state data are fragmented ([source, 2025-12-19](https://guineematin.com/2025/12/20/intelligence-artificielle-guinee-rapport-national-feuille-de-route/)).
+
+### Libya: 2 Nascent
+
+Libya set up an authority in 2026 to classify national data; no rule in force covers state data.
+
+- Cabinet Decision 358 of 2026 charges the new authority with preparing national digital sovereignty policies, classifying national data, regulating hosting of national data and government cloud, setting controls on transferring data abroad, and supporting a sovereign government cloud ([source, 2026-07-15](https://lawsociety.ly/legislation/%d9%82%d8%b1%d8%a7%d8%b1-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%b1%d9%82%d9%85-358-%d9%84%d8%b3%d9%86%d8%a9-2026-%d9%85-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a5%d9%86%d8%b4/)).
 
 ### Madagascar: 2 Nascent
 
@@ -231,6 +205,19 @@ Mauritius plans a sovereign government cloud; no rule on state data is in force.
 
 - The Cabinet meeting of 24 April 2026 discussed exploring a National Sovereign Cloud under the Digital Transformation Blueprint 2025-2029 to ensure data sovereignty and jurisdictional control, per ION News ([source, 2026-04-24](https://ionnews.mu/maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donnees/)).
 - The Ministry of ICT issued RFI MITCI/RFI/01/2025-26 to suppliers to implement a Sovereign Cloud for the Government of Mauritius, governed by Mauritian law, covering data residency and privacy ([source, 2025-09-05](https://publicnotice.govmu.org/publicnotice/?p=28880)).
+
+### Morocco: 2 Nascent
+
+Morocco plans a sovereign data centre for state data from 2027; no rule in force is shown covering it.
+
+- L'Opinion reports Morocco's draft 2027 finance bill announces, within a MAD 1.34 billion envelope, cloud generalisation across administrations and a sovereign data centre in Rabat for the state's strategic data ([source, 2026-10-26](https://lopinion.ma/fr/actu-maroc/plf-2027---ia--les-donnees-strategiques-de-letat-auront-leur-propre-datacenter_a29710?articleId=1b958255-b43c-4b5e-ae46-c28f85519113)).
+- The draft 2027 finance bill's presentation note, presented to Parliament on 2026-10-23, provides for a Cloud First circular, the Jazari-Root sovereign data centre in Rabat (50 MW, 2027-2029) for the state's strategic data, and a national sovereign cloud for Moroccans' data ([source, 2026-10-23](https://lhybride.ma/briefs/plf-2027-cloud-first-ministere-ia/)).
+
+### Mozambique: 2 Nascent
+
+Mozambique consulted on a draft cloud regulation in 2025; no rule in force covers state data.
+
+- INTIC's draft Regulamento dos Servicos de Computacao em Nuvem, in public consultation from 2025-02-24 (day inferred from the consultation window, the document's published date), says in Art. 11(2) that classified information may be handled only in private clouds and must always stay in national territory unless the regulator expressly authorises otherwise ([source, 2025-02-24](https://intic.gov.mz/wp-content/uploads/2025/02/INTIC-Regulamento-dos-Provedores-de-Servic%CC%A7os-de-Computac%CC%A7a%CC%83o-em-Nuvem-23-12-2024-versa%CC%83o-consulta-pu%CC%81blica-1.pdf)).
 
 ### Namibia: 2 Nascent
 
@@ -276,11 +263,24 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 - Sudan's Minister of Communications and Digital Transformation says the alternative national data centre project is meant to restore sovereign national infrastructure and secure and protect all government data ([source, 2026-03-16](https://nabdsudan.net/231651)).
 - The Sudanese Cybersecurity Authority launched Sudan's National Root Key for public key infrastructure on 2026-03-12, said initiatives to secure government communications between state institutions would follow, and stressed regulating encryption in government under approved national frameworks ([source, 2026-03-12](https://sca.gov.sd/en/news)).
 
+### Tanzania: 2 Nascent
+
+Tanzania aims to own and control its government systems; no rule in force covers state data.
+
+- Daily News reports the minister said government is expanding open-source technology across public institutions so that it owns and controls its digital infrastructure and protects critical government information ([source, 2026-08](https://dailynews.co.tz/govt-expands-open-source-technology-use/)).
+
 ### Tunisia: 2 Nascent
 
 Government cloud labels from 2024 make control of state data a stated goal; no source found reports a rule keeping state data in the country.
 
 - The communications ministry says G-Cloud labels, awarded in July 2024 under decree-law 2023-17 and a ministerial decision of 13 September 2023, go only to Tunisian hosting providers linked to the administration's network, as part of the 2025 digital strategy to guarantee digital sovereignty ([source, 2024-07](https://www.webmanagercenter.com/2024/07/12/527554/tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud/)).
+
+### Zimbabwe: 2 Nascent
+
+Zimbabwe hosts government platforms nationally and proposed a rule for state data in 2026; none is in force.
+
+- Minister Mavetera announced a Zimbabwe Government Cloud and proposed a Data Sovereignty Statutory Instrument requiring all critical government data to be hosted within Zimbabwe's borders ([source, 2026-05-07](https://spikedmedia.co.zw/minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-directors-workshop/)).
+- Deputy ICT Minister Dingumuzi Phuti said the government is mooting expansion of the National Data Centre to at least Tier four, framed as keeping Zimbabwean data processed, stored and protected locally ([source, 2025-08](https://www.heraldonline.co.zw/government-to-expand-national-data-centre/)).
 
 ### Central African Republic: 1 Absent
 

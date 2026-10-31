@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "3",
-      "rule": "inservice",
+      "stage": "2",
+      "rule": "underway",
       "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002;TZA-001",
-      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-      "note": "The Bank of Tanzania's 2025 cloud guidelines bar financial providers from hosting mission-critical systems outside Tanzania (TZA-001), so stage 3. No source says government data is hosted in a national data centre, so not 4.",
+      "stage_sources": "TZA-003",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires state data to be held in the country; the Bank of Tanzania's guidelines cover financial providers.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 60: a rule must include government or state data): the Bank of Tanzania's 2025 cloud guidelines bind financial providers (TZA-001), and the 2026 report of localisation mandates does not say they cover state data (TZA-002). The government's stated aim to own and control its digital infrastructure (TZA-003) is stage 2.",
       "as_at": "2026-10-31"
     }
   ]

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "3",
-      "rule": "inservice",
+      "stage": "2",
+      "rule": "underway",
       "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-001",
-      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-      "note": "Central Bank of Libya Circular 18 bars banks and payment firms from storing sensitive data outside Libya from July 2026 (LBY-001), so stage 3. No source says government data is hosted in a national data centre, so not 4.",
+      "stage_sources": "LBY-002",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires state data to be held in the country; the Central Bank's Circular 18 covers banks and payment firms.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 60: a rule must include government or state data): Central Bank Circular 18 binds banks and payment firms, not state data (LBY-001). Cabinet Decision 358 of 2026 charges a new authority with classifying national data and regulating its hosting (LBY-002), so stage 2.",
       "as_at": "2026-10-31"
     }
   ]

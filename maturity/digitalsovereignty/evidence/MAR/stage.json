@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "3",
-      "rule": "inservice",
+      "stage": "2",
+      "rule": "underway",
       "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-002",
-      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-      "note": "A 2025 source says a 2021 law requires sensitive data to be stored in Morocco (MAR-002), so stage 3; Law 05-20 of 2020 (MAR-001) is older than the window. The sovereign data centre for state data is planned for 2027 to 2029 (MAR-010), so not 4.",
+      "stage_sources": "MAR-009;MAR-010",
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires state data to be held in the country; the 2021 law reported in 2025 is not said to cover state data.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 60: a rule must include government or state data): the 2025 report of a 2021 law (MAR-002) names sensitive data without saying it is the state's, and Law 05-20 (MAR-001) is older than the window. The draft 2027 finance bill plans a sovereign data centre for the state's strategic data (MAR-009, MAR-010), so stage 2.",
       "as_at": "2026-10-31"
     }
   ]

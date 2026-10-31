@@ -29,7 +29,7 @@ Asked in order. Each is answered with a date and a link.
 | # | Question | A yes is |
 |---|---|---|
 | 1 | Is control of state data a stated goal? | A source from the last three years says the government adopted, published or announced a strategy, plan or draft rule to keep government data or systems under national control: a national or government cloud, a data classification, or a rule on where state data is held |
-| 2 | Is a rule on state data in force? | A source from the last three years says a law, decree or policy in force classifies government data or requires named categories of data to be held in the country |
+| 2 | Is a rule on state data in force? | A source from the last three years says a law, decree or policy in force classifies government data or requires government or state data to be held in the country |
 | 3 | Are state data and systems hosted nationally? | A source from the last three years says government data or a core system (ID, payments, data exchange, government services) is hosted in a government or nationally owned data centre or cloud in the country |
 | 4 | Do contracts carry data terms? | A source from the last three years says a government contract or agreement with a foreign provider or partner includes terms on data jurisdiction, portability, exit or handing over source code |
 
@@ -46,6 +46,8 @@ Asked in order. Each is answered with a date and a link.
 | 5 Contract terms | Yes to 4 |
 
 **Every lower stage is shown by its own evidence** *(Bill, 2026-10-31, messages-for-bill 51)*: a later yes does not answer the earlier ones (`study.json` → `"later_yes": false`). Hosting or contract terms without a goal or rule on state data place nothing. `study.json` holds this as three aspects: `rule` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `hosted` (`national`) for 3 and `terms` (`carried`) for 4.
+
+**A rule on state data must include government or state data** *(Bill, 2026-10-31, messages-for-bill 60)*: a rule binding personal data in general, banks or payment firms answers no question here. BWA, ETH, LBY, MAR, MOZ, TZA 3→2; CMR, ZWE 4→2; NGA keeps 4 on its 2025 cloud policy for government data.
 
 ## 4. The norm
 
