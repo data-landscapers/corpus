@@ -47,6 +47,8 @@ Asked in order. Each is answered with a date and a link.
 
 **Every rung is met in order** *(Bill, 2026-10-30, message 49)*: a later yes does not answer an earlier one, so a country with the gap measured but no programme shown delivering stays at 2 (`study.json` → `later_yes: false`). Every question looks back three years. `study.json` holds this as three aspects: `programme` (`delivering`, `underway`, `none`) for stage 1 and questions 1 and 2, `measured` (`measured`) for 3 and `narrow` (`narrow`) for 4.
 
+**Kenya stays at 2** *(Bill, 2026-10-31, message 59)*: what lifts a country past 2 is evidence that a named programme is delivering; a survey of the gap, however recent, does not. The three-year window runs from the survey year, as staged.
+
 ## 4. The norm
 
 The Digital Transformation Strategy asks for universal, equitable and affordable access for all people wherever they live; the ITU's 2030 targets ask for universal internet use. This study asks the four questions above; it does not measure a country against the norm.
