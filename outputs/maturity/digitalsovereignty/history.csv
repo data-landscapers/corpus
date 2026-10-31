@@ -16,3 +16,52 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-29,AGO,geopol.sovereignty--digital-sovereignty,fact,2,4,AGO-006;AGO-004,Government cloud at Camama hosts public institutions' data from Apr 2026; hosted national
 2026-10-29,ERI,geopol.sovereignty--digital-sovereignty,fact,unplaced,5,ERI-002,"ASYCUDA World customs system handed over with full source code Jan 2026; terms carried, later yes"
 2026-10-30,SYC,geopol.sovereignty--digital-sovereignty,fact,no evidence,2,SYC-001,"Cabinet approved a sovereign in-country Government Cloud on 28 October 2026: stated goal, stage 2"
+2026-10-31,BDI,geopol.sovereignty--digital-sovereignty,review,2,2,BDI-001;BDI-002,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,BEN,geopol.sovereignty--digital-sovereignty,review,2,2,BEN-002;BEN-001,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,BFA,geopol.sovereignty--digital-sovereignty,review,4,4,BFA-010;BFA-003,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,BWA,geopol.sovereignty--digital-sovereignty,review,3,3,BWA-001,Rebuild: first-pass cell re-read against the ladder; stage 3 stands.
+2026-10-31,CAF,geopol.sovereignty--digital-sovereignty,review,1,1,CAF-001,Rebuild: first-pass cell re-read against the ladder; stage 1 stands.
+2026-10-31,CIV,geopol.sovereignty--digital-sovereignty,review,2,2,CIV-003;CIV-002,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,CMR,geopol.sovereignty--digital-sovereignty,review,4,4,CMR-001,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,COD,geopol.sovereignty--digital-sovereignty,review,4,4,COD-002,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,COG,geopol.sovereignty--digital-sovereignty,review,4,2,COG-010;COG-007,Rebuild: lowered from 4; the newest source says the national data centre is due by end 2026.
+2026-10-31,COM,geopol.sovereignty--digital-sovereignty,review,4,4,COM-002;COM-003,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,CPV,geopol.sovereignty--digital-sovereignty,review,4,4,CPV-003,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,DJI,geopol.sovereignty--digital-sovereignty,review,unplaced,unplaced,,Rebuild: first-pass cell re-read against the ladder; stage unplaced stands.
+2026-10-31,DZA,geopol.sovereignty--digital-sovereignty,review,4,4,DZA-008;DZA-005,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,EGY,geopol.sovereignty--digital-sovereignty,review,3,3,EGY-001,Rebuild: first-pass cell re-read against the ladder; stage 3 stands.
+2026-10-31,ETH,geopol.sovereignty--digital-sovereignty,review,3,3,ETH-001,Rebuild: first-pass cell re-read against the ladder; stage 3 stands.
+2026-10-31,GAB,geopol.sovereignty--digital-sovereignty,review,2,2,GAB-001;GAB-006,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,GHA,geopol.sovereignty--digital-sovereignty,review,4,4,GHA-002,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,GIN,geopol.sovereignty--digital-sovereignty,review,4,4,GIN-001;GIN-002,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,GMB,geopol.sovereignty--digital-sovereignty,review,unplaced,unplaced,,Rebuild: first-pass cell re-read against the ladder; stage unplaced stands.
+2026-10-31,GNB,geopol.sovereignty--digital-sovereignty,review,no evidence,no evidence,,Rebuild: first-pass cell re-read against the ladder; stage no evidence stands.
+2026-10-31,GNQ,geopol.sovereignty--digital-sovereignty,review,no evidence,no evidence,,Rebuild: first-pass cell re-read against the ladder; stage no evidence stands.
+2026-10-31,KEN,geopol.sovereignty--digital-sovereignty,review,4,4,KEN-003;KEN-002,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,LBR,geopol.sovereignty--digital-sovereignty,review,no evidence,no evidence,,Rebuild: first-pass cell re-read against the ladder; stage no evidence stands.
+2026-10-31,LBY,geopol.sovereignty--digital-sovereignty,review,3,3,LBY-001,Rebuild: first-pass cell re-read against the ladder; stage 3 stands.
+2026-10-31,LSO,geopol.sovereignty--digital-sovereignty,review,no evidence,no evidence,,Rebuild: first-pass cell re-read against the ladder; stage no evidence stands.
+2026-10-31,MAR,geopol.sovereignty--digital-sovereignty,review,3,3,MAR-002,Rebuild: first-pass cell re-read against the ladder; stage 3 stands.
+2026-10-31,MDG,geopol.sovereignty--digital-sovereignty,review,2,2,MDG-001,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,MLI,geopol.sovereignty--digital-sovereignty,review,2,2,MLI-003,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,MOZ,geopol.sovereignty--digital-sovereignty,review,3,3,MOZ-001,Rebuild: first-pass cell re-read against the ladder; stage 3 stands.
+2026-10-31,MRT,geopol.sovereignty--digital-sovereignty,review,4,4,MRT-003;MRT-008,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,MUS,geopol.sovereignty--digital-sovereignty,review,4,4,MUS-001,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,MWI,geopol.sovereignty--digital-sovereignty,review,4,4,MWI-005;MWI-004,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,NAM,geopol.sovereignty--digital-sovereignty,review,2,2,NAM-002,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,NER,geopol.sovereignty--digital-sovereignty,review,2,2,NER-001,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,RWA,geopol.sovereignty--digital-sovereignty,review,3,3,RWA-001,Rebuild: first-pass cell re-read against the ladder; stage 3 stands.
+2026-10-31,SDN,geopol.sovereignty--digital-sovereignty,review,2,2,SDN-003;SDN-004,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,SEN,geopol.sovereignty--digital-sovereignty,review,2,2,SEN-002;SEN-003,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,SLE,geopol.sovereignty--digital-sovereignty,review,4,2,SLE-001,Rebuild: lowered from 4; the Government Data Centre fact names nothing it hosts.
+2026-10-31,SOM,geopol.sovereignty--digital-sovereignty,review,2,unplaced,,"Rebuild: lowered from 2; the only fact is Somaliland's, which does not carry the country."
+2026-10-31,SSD,geopol.sovereignty--digital-sovereignty,review,2,2,SSD-001,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,STP,geopol.sovereignty--digital-sovereignty,review,no evidence,no evidence,,Rebuild: first-pass cell re-read against the ladder; stage no evidence stands.
+2026-10-31,SWZ,geopol.sovereignty--digital-sovereignty,review,4,4,SWZ-001,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,TCD,geopol.sovereignty--digital-sovereignty,review,2,2,TCD-002;TCD-003,Rebuild: first-pass cell re-read against the ladder; stage 2 stands.
+2026-10-31,TGO,geopol.sovereignty--digital-sovereignty,review,no evidence,no evidence,,Rebuild: first-pass cell re-read against the ladder; stage no evidence stands.
+2026-10-31,TZA,geopol.sovereignty--digital-sovereignty,review,3,3,TZA-002;TZA-001,Rebuild: first-pass cell re-read against the ladder; stage 3 stands.
+2026-10-31,UGA,geopol.sovereignty--digital-sovereignty,review,4,4,UGA-002;UGA-001,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,ZAF,geopol.sovereignty--digital-sovereignty,review,4,4,ZAF-002,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.
+2026-10-31,ZMB,geopol.sovereignty--digital-sovereignty,review,unplaced,unplaced,,Rebuild: first-pass cell re-read against the ladder; stage unplaced stands.
+2026-10-31,ZWE,geopol.sovereignty--digital-sovereignty,review,4,4,ZWE-001;ZWE-006,Rebuild: first-pass cell re-read against the ladder; stage 4 stands.

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NAM-002",
       "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py.",
-      "as_at": "2026-10-18"
+      "note": "NDP6 plans a national data centre to keep critical government data in Namibia (NAM-002, 2025), so stage 2. The Bank of Namibia's 2008 core banking rule (NAM-001) is older than the window, so not 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }

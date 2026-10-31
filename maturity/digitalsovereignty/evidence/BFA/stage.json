@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "4",
-   "rule": "inservice",
-   "hosted": "national",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-010;BFA-003",
-   "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "4",
+      "rule": "inservice",
+      "hosted": "national",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-010;BFA-003",
+      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
+      "note": "Two government-cloud data centres opened in January 2026 and FasoSign's keys and data are hosted on national territory (BFA-010, BFA-003), so stage 4. No contract with data terms is on file, so not 5.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

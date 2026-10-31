@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "3",
-   "rule": "inservice",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-001",
-   "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "3",
+      "rule": "inservice",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-001",
+      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
+      "note": "The Data Protection Act, in effect since January 2025, requires a copy of personal data to stay in Botswana (BWA-001), so stage 3. The move of government systems to the Delta data centre is described as under way, not done (BWA-002), so not 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

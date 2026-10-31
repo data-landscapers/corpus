@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "DZA-008;DZA-005",
       "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py.",
-      "as_at": "2026-10-17"
+      "note": "The National Centre for Digital Services, opened in July 2026, hosts the public services portal and the national database (DZA-005, DZA-008), so stage 4. No contract with data terms is on file, so not 5.",
+      "as_at": "2026-10-31"
     }
   ]
 }

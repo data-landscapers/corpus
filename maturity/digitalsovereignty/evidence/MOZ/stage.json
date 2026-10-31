@@ -1,17 +1,18 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "3",
-   "rule": "inservice",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-001",
-   "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "3",
+      "rule": "inservice",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-001",
+      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
+      "note": "A 2025 report says Banco de Moçambique Notice 4/GGBM/2003, not repealed, requires data centres to be in Mozambique (MOZ-001), so stage 3. No source says government data is hosted in a national data centre, so not 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "3",
-   "rule": "inservice",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-001",
-   "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "3",
+      "rule": "inservice",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001",
+      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
+      "note": "Central Bank of Libya Circular 18 bars banks and payment firms from storing sensitive data outside Libya from July 2026 (LBY-001), so stage 3. No source says government data is hosted in a national data centre, so not 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

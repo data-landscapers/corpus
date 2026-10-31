@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "unplaced",
-   "rule": "",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether control of state data is a stated goal or a rule.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "unplaced",
+      "rule": "",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether control of state data is a stated goal or a rule.",
+      "note": "The 2021 Data Protection Act and the 2019 consolidation of government hosting (ZMB-001, ZMB-002) both date from before the window. No later source states either, so no rung is set.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

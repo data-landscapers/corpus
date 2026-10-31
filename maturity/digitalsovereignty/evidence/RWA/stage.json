@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "3",
-   "rule": "inservice",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-001",
-   "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "3",
+      "rule": "inservice",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-001",
+      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
+      "note": "A July 2025 brief says the 2021 data protection law requires public sector data to be hosted in the government data centre or approved facilities (RWA-001), so stage 3. No source says what that centre hosts, so not 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

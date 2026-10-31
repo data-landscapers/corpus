@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "2",
-   "rule": "underway",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "unplaced",
+      "rule": "",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one fact is Somaliland's plan for a government data centre (SOM-001); nothing found since October 2023 covers the federal government.",
+      "note": "The only fact is Somaliland's groundbreaking of a government data centre in September 2025 (SOM-001), which does not carry the country. No rung is set, so the cell is lowered from 2 to unplaced.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

@@ -21,11 +21,11 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 20 |
+| 4 Operating | 18 |
 | 3 Established | 8 |
-| 2 Nascent | 15 |
+| 2 Nascent | 16 |
 | 1 Absent | 1 |
-| Unplaced | 3 |
+| Unplaced | 4 |
 | No evidence | 6 |
 
 ## Countries
@@ -75,12 +75,6 @@ Government data or a core system was hosted in the country in 2026; contract ter
 
 - Al-Watwan reports the recent opening of the first data centre of the public administration, which minister Oumouri Mmadi Hassani calls an important advance for digital sovereignty ([source, 2026-08](https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html)).
 - The Data Center of the Public Administration, co-managed by state agency ANADEN and Comores Câbles, hosts critical services that allowed the national .km domain's technical management to be transferred to ANADEN; the page also says it is meant to host public platforms and secure administrative data ([source, 2025-05-19](http://web.archive.org/web/20260824175002/https://dig.watch/countries/comoros)).
-
-### Congo: 4 Operating
-
-Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
-
-- The ministry's programme page says the Data Center National hosts, stores and backs up critical data and applications of public institutions on Congolese soil ([source, 2026-09-02](https://numerique.gouv.cg/actualites/data-center-national)).
 
 ### DR Congo: 4 Operating
 
@@ -141,12 +135,6 @@ A rule on state data was in force and the identity database was hosted nationall
 - Stakeholders at the GrowthX forum said the Central Bank of Nigeria's six-month deadline for full data localisation, January 2027, was too short and asked for an extension, treating the directive as issued; the article gives its own published date ([source, 2026-09-29](https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/)).
 - Business AM reports the Central Bank of Nigeria's directive requires financial institutions and payment system participants (banks, mobile money operators, switching and processing companies, payment service providers) to store and manage payment transaction data generated in Nigeria on servers in the country from 1 January 2027 ([source, 2026-09-28](https://businessamlive.com/data-localisation-opens-new-investment-window-for-nigerias-data-centres/)).
 - The director of NIMC's Strategic Programme Office said the national identity database is hosted entirely in Nigeria, maintained internally and managed by NIMC employees, has never been hosted abroad and does not use cloud hosting for its core database; the date is the article's published date ([source, 2026-10-16](https://guardian.ng/business-services/nimc-onboards-63-biometric-agents-reaffirms-local-hosting-of-national-database/)).
-
-### Sierra Leone: 4 Operating
-
-Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
-
-- The Minister and team walked the UN delegation through the Government Data Centre at NatCA Tower, with plans outlined for a redundancy site at State House, as reported by Sierra Loaded ([source, 2026-09-05](https://sierraloaded.sl/news/communication-strengthens-partnership/)).
 
 ### South Africa: 4 Operating
 
@@ -238,6 +226,13 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 - ADETIC says the national data centre is to be security-audited and certified by TECHSO-GROUP before official operation, as the secure host for public data and the state's digital services ([source, 2026-02-10](https://adetic.td/audit-et-certification-du-data-center-national-ladetic-lansice-et-techso-group-en-mission-conjointe/)).
 - Ecofin reports Chadian authorities say the PMICE forms part of a broader digital sovereignty strategy, with state control over fibre-optic networks and data storage capacity as a key lever, and that Phase I, including a National Data Center, was provisionally accepted on 2025-12-20 ([source, 2025-12-20](https://www.ecofinagency.com/news-digital/2212-51602-chad-completes-first-phase-of-205mln-digital-connectivity-project)).
 
+### Congo: 2 Nascent
+
+Congo's national data centre for state data was due by the end of 2026; no rule on state data has been found.
+
+- Sika Finance reports the state's new national data centre in Brazzaville, due by end 2026, is meant to let Congo host, process and secure all its public and civil data on its own territory ([source, 2026-09-23](https://www.sikafinance.com/marches/congo-le-nouveau-datacenter-national-livre-dici-la-fin-de-l-annee-2026_64496)).
+- The ministry page says the Data Center National is meant to keep strategic state data in the national territory and reduce dependence on foreign hosting platforms ([source, 2026-09-02](https://numerique.gouv.cg/actualites/data-center-national)).
+
 ### Cote d'Ivoire: 2 Nascent
 
 Keeping state data under national control was a stated goal in 2024; a rule in force is not on record.
@@ -289,11 +284,11 @@ Seychelles' Cabinet approved a sovereign in-country government cloud in October 
 
 - Cabinet approved on 28 October 2026 implementation of a sovereign, in-country Government Cloud on two geographically separated datacenters, to reduce reliance on commercial and overseas infrastructure ([source, 2026-10-28](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)).
 
-### Somalia: 2 Nascent
+### Sierra Leone: 2 Nascent
 
-Keeping state data under national control was a stated goal in 2025; a rule in force is not on record.
+Sierra Leone's ICT ministry was drafting a framework to classify government data in 2026; what its government data centre hosts has not been found.
 
-- TaiwanICDF reports that Somaliland's Ministry of ICT and the Taiwan Technical Mission held a groundbreaking on 22 September 2025 for a Government Data and Cybersecurity Center, described as the country's first government data center, to manage key government data once completed ([source, 2025-09-22](https://www.icdf.org.tw/wSite/ct?ctNode=31572&mp=2&xItem=74053)).
+- The Ministry of Communication, Technology and Innovation says it is developing a comprehensive Data Governance Framework to establish how government data is classified, shared and used across institutions ([source, 2026-09-05](https://sierraloaded.sl/news/communication-strengthens-partnership/)).
 
 ### South Sudan: 2 Nascent
 
@@ -331,6 +326,12 @@ Not established: Nothing found since October 2023 says whether control of state 
 Nothing found since 2023 names control of state data, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether control of state data is a stated goal or a rule.
+
+### Somalia: Unplaced
+
+The only fact found is Somaliland's 2025 start on a government data centre, which does not cover Somalia, so no stage is set.
+
+Not established: The one fact is Somaliland's plan for a government data centre (SOM-001); nothing found since October 2023 covers the federal government.
 
 ### Zambia: Unplaced
 

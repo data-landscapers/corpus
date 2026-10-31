@@ -1,17 +1,18 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "2",
-   "rule": "underway",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SSD-001",
-   "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-001",
+      "gaps": "No source found since October 2023 says: is a rule on state data in force.",
+      "note": "An opinion writer said in September 2026 that the ICT ministry will centralise data hosting in the National Data Centre (SSD-001), so stage 2. No rule in force is on file, so not 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

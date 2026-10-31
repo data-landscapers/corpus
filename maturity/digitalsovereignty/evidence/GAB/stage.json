@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GAB-001;GAB-006",
       "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py.",
-      "as_at": "2026-10-18"
+      "note": "The minister said in May and June 2026 that state data should be held only in Gabon and that a national data centre would open (GAB-006, GAB-001), so stage 2. Law 027/2023 (GAB-005) keeps sensitive data in Gabon but dates from July 2023, before the window, and no later source states it, so not 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }

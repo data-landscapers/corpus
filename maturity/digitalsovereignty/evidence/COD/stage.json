@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COD-002",
       "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py.",
-      "as_at": "2026-10-17"
+      "note": "The social affairs ministry says the Registre Social Unique's data are hosted nationally on infrastructure it controls (COD-002, 2026), so stage 4. No contract with data terms is on file, so not 5.",
+      "as_at": "2026-10-31"
     }
   ]
 }

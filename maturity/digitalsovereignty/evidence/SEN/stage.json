@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-002;SEN-003",
-      "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found since October 2023 says the law adopted in August 2026 is in force, or that government data is hosted in the national data centres; the 2021 migration order (SEN-001) is older than the window.",
+      "note": "The National Assembly adopted bill 25/2026 in August 2026 to keep sensitive state data on national territory (SEN-003), and the Prime Minister said cloud services are being set up in the national data centres (SEN-005), so stage 2. No source says the law is in force or that state data is hosted there now, so not 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }

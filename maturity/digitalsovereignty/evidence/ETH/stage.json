@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "3",
-   "rule": "inservice",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-001",
-   "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "3",
+      "rule": "inservice",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-001",
+      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
+      "note": "Proclamation 1321/2024, in force from July 2024, requires personal data collected in Ethiopia to be stored there (ETH-001), so stage 3. No source says government data is hosted in a national data centre, so not 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

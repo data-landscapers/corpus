@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "2",
-   "rule": "underway",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-001;BDI-002",
-   "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001;BDI-002",
+      "gaps": "No source found since October 2023 says: is a rule on state data in force.",
+      "note": "The national AI strategy validated in April 2026 provides for a sovereign cloud (BDI-001, BDI-002), so stage 2. No rule in force on state data is on file, so not 3.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

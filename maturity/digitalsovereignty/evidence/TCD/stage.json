@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "TCD-002;TCD-003",
       "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py.",
-      "as_at": "2026-10-17"
+      "note": "The national data centre was provisionally accepted in December 2025 and awaits certification before it operates (TCD-003, TCD-002), so stage 2. No rule in force is on file, so not 3.",
+      "as_at": "2026-10-31"
     }
   ]
 }

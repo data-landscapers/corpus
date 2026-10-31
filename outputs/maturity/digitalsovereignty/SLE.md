@@ -2,12 +2,12 @@
 
 ## Control of state data
 
-**Rule on state data.** [The Ministry of Communication, Technology and Innovation says it is developing a comprehensive Data Governance Framework to establish how government data is classified, shared and used across institutions](<https://sierraloaded.sl/news/communication-strengthens-partnership/>). A later answer places the country above that step. 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Rule on state data.** In September 2026 the Ministry of Communication, Technology and Innovation [said it is developing a Data Governance Framework](<https://sierraloaded.sl/news/communication-strengthens-partnership/>). The framework is to set how government data is classified, shared and used across institutions. The ministry set out the work during a visit by a UN delegation.
 
-**Hosted nationally.** [The Minister and team walked the UN delegation through the Government Data Centre at NatCA Tower, with plans outlined for a redundancy site at State House, as reported by Sierra Loaded](<https://sierraloaded.sl/news/communication-strengthens-partnership/>).
+**Hosted nationally.** In September 2026 the minister and team [took the UN delegation through the Government Data Centre at NatCA Tower](<https://sierraloaded.sl/news/communication-strengthens-partnership/>) in Freetown. They outlined plans for a second, redundancy site at State House. The two sites are to back each other up.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://sierraloaded.sl/news/communication-strengthens-partnership/>).
+**Contract terms.** No government contract with terms on data jurisdiction, portability or exit has been found since October 2023. The nearest fact is the [September 2026 visit by a UN delegation](<https://sierraloaded.sl/news/communication-strengthens-partnership/>) to the ministry.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says which government systems the Government Data Centre hosts, or that a rule in force governs where state data is held. No government contract with data terms has been found.

@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "4",
-   "rule": "inservice",
-   "hosted": "national",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-003;MRT-008",
-   "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "4",
+      "rule": "inservice",
+      "hosted": "national",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-003;MRT-008",
+      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
+      "note": "The minister told the National Assembly in July 2026 that all government servers had moved to the ministry's data centre, and the national cloud hosts state services (MRT-008, MRT-003), so stage 4. No contract with data terms is on file, so not 5.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

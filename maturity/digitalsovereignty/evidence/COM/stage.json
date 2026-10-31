@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "4",
-   "rule": "inservice",
-   "hosted": "national",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-002;COM-003",
-   "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "4",
+      "rule": "inservice",
+      "hosted": "national",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-002;COM-003",
+      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
+      "note": "The public administration data centre, co-run by the state agency ANADEN, hosts critical services including the .km domain (COM-003, 2025), and a minister reported its opening in August 2026 (COM-002), so stage 4. No contract with data terms is on file, so not 5.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

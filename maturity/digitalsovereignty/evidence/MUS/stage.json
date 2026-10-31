@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "4",
-   "rule": "inservice",
-   "hosted": "national",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-001",
-   "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "4",
+      "rule": "inservice",
+      "hosted": "national",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001",
+      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.",
+      "note": "Mauritius Telecom's Rose-Belle data centre hosts the e-Health, Mobile ID and government portal projects (MUS-001, December 2025), so stage 4. No contract with data terms is on file, so not 5.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

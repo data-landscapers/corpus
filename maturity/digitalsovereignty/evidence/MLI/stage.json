@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MLI-003",
       "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py.",
-      "as_at": "2026-10-17"
+      "note": "The government presented its biometric ID system in February 2024 as keeping identity data under national control (MLI-003), so stage 2. AGETIC's hosting of public administration systems (MLI-002) is dated 2022, before the window, so not 4.",
+      "as_at": "2026-10-31"
     }
   ]
 }

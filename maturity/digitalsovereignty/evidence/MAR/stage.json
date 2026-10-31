@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "3",
-   "rule": "inservice",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-002",
-   "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "3",
+      "rule": "inservice",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-002",
+      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
+      "note": "A 2025 source says a 2021 law requires sensitive data to be stored in Morocco (MAR-002), so stage 3; Law 05-20 of 2020 (MAR-001) is older than the window. The sovereign data centre for state data is planned for 2027 to 2029 (MAR-010), so not 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }
