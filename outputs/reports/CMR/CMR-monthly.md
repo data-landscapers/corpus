@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: CMR
-ledger_rows: 45
+ledger_rows: 46
 not_held: 4
-record: 81861838509f
+record: d0ef856fe45c
 ---
 
 # News, Sep – Oct 2026
@@ -461,6 +461,28 @@ Cameroon's Ministry of Posts and Telecommunications launched train.patnucelearni
 **[Lutte contre la cybercriminalité: La riposte nationale s'organise](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise)** — Cameroon Tribune, 30 September 2026
 
 Cameroon's ICT agency ANTIC reported 17,500 cybercrime complaints in 2025 with declared losses of 5.8 billion FCFA, at a cyberspace-security forum it co-hosts with the Russian embassy in Yaoundé. Since January it has counted 21,280 compromised machines and 39 attacks on government websites.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Security-audit condition for access to the national aggregation platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon Brings Together 100 Fintech Firms to Strengthen Digital Security](https://techafricanews.com/2026/10/30/cameroon-100-fintech-firms-digital-security/)** — Tech Africa News, 30 October 2026
+
+About 100 fintech firms met in Mbankomo for a three-day forum on security and regulation, opened on 28 October 2026 by ANTIC's director-general. The forum is part of Digitise Cameroon 2026, run by ANTIC and The Change Engine. Digital payment services earned over FCFA 1,022 billion in 2024, 3.16% of GDP.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon warns of rising fintech cyberthreats](https://www.itweb.africa/article/cameroon-warns-of-rising-fintech-cyberthreats/JN1gPvOAQJrMjL6m)** — ITWeb Africa, 30 October 2026
+
+Cameroon's ICT agency ANTIC said it has audited 108 fintech companies and found 3,914 vulnerabilities. Its director-general spoke at the Digitize Cameroon forum in Mbankomo, which opened on 28 October 2026. Since an April 2025 ministry decision, platforms need ANTIC-verified security compliance to reach the national aggregation platform.
 
 </div>
 

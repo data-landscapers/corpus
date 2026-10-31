@@ -585,13 +585,15 @@ dpi.registry--electoral-register,"Mixed, the roll approaches 100 million while t
 
 The bar association's election working group recorded devices failing to boot and delaying a poll's opening, fingerprint and facial capture failing on some voters — elderly voters recurrently — so that they could not vote at all, slow processing at units of over 1,100 registered voters, an export failure and a complete device stoppage at one unit ([report](2026-08-16-nba-election-working-group-osun-governorship-election-preliminary-report)).
 
-It recommends comprehensive pre-election testing of biometric capture, network connectivity, battery performance and volume handling, and an upgrade before the general election ([upgrade](2026-08-18-dailytrust-nba-osun-bvas-upgrade)); a second observer mission separately called for a full post-election technical audit ([audit](2026-08-16-nigeria-osun-yiaga-africa-bvas-audit)).
+It recommends pre-election testing of the devices and an upgrade before the general election ([upgrade](2026-08-18-dailytrust-nba-osun-bvas-upgrade)); a second observer mission separately called for a full post-election technical audit ([audit](2026-08-16-nigeria-osun-yiaga-africa-bvas-audit)).
 
-No test result, failure rate or audit commitment is on record.
+No audit has been found.
 
 2026-10-05 - [the register stands at more than 103 million after the final biometric clean-up](2026-10-05-nga-vanguard-inec-voter-register-103-million).
 
-2026-10-28 - [the commission scheduled a six-day nationwide stress test of upgraded accreditation devices for 23-28 October and is preparing 57,000 more for the January 2027 general elections](2026-10-28-nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections).",NGA-dpi.id-biometric-voter-accreditation|NGA-dpi.registry-voter-register,,,,,,,,,2026-08-31,0,Only the biometric accreditation devices mapped; the register itself and public access to it not on record
+2026-10-28 - [the commission scheduled a six-day nationwide stress test of upgraded accreditation devices for 23-28 October and is preparing 57,000 more for the January 2027 general elections](2026-10-28-nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections).
+
+2026-10-30 - [the commission said some officers had put suspected AI-generated photographs into the preliminary register](2026-10-30-vanguardngr-inec-blames-registration-officers-for-ai-generated-photos).",NGA-dpi.id-biometric-voter-accreditation|NGA-dpi.registry-voter-register,,,,,,,,,2026-08-31,0,Only the biometric accreditation devices mapped; the register itself and public access to it not on record
 dpi.registry--tax-register,Movement,"A [central tax identification portal went live on 1 January 2026](2026-01-01-fctirs-nigerian-tax-id-portal-goes-live), linking tax identifiers to the national identification number.","The [portal went live nationwide on 1 January 2026](2026-01-01-fctirs-nigerian-tax-id-portal-goes-live), run jointly by the revenue board and the revenue service, linking tax identifiers to the national identification number for individuals and to corporate registration numbers for businesses, and replacing previously issued taxpayer identification numbers.
 
 The revenue service [briefed federal bodies in July 2026 on the platform that replaced its predecessor and consolidates taxpayer registration, returns filing, payment and communications on one system](2026-07-14-nrs-sensitises-mdas-rev360-digital-tax-platform).

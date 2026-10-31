@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: MAR
-ledger_rows: 42
+ledger_rows: 44
 not_held: 14
-record: a676d297b849
+record: dbe64ad5d277
 ---
 
 # News, Sep – Oct 2026
@@ -84,6 +84,20 @@ Médias24 reported on 28 October 2026 on Morocco's decree giving Ahmed Rahhou th
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Government programme 2026-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[البرنامج الحكومي، الولاية التشريعية 2026-2031، طبقا لأحكام الفصل 88 من الدستور](https://article19.ma/accueil/wp-content/uploads/2026/10/PG-2026-2031.pdf)** — Chef du Gouvernement, Royaume du Maroc, 19 October 2026
+
+Arabic text: sovereign national cloud, IA Maroc, 5,000 AI specialists, under-15 social-media ban, 80% fibre to homes.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Cloud First policy</p>
 
 <div class="bulletin-item" markdown="1">
@@ -143,6 +157,20 @@ Morocco's Bulletin officiel of 5 October 2026 carries interministerial arrêté 
 **[غياب البريد الإلكتروني يعرقل مساطر تحصيل الديون أمام المحاكم التجارية](https://www.hespress.com/%d8%ba%d9%8a%d8%a7%d8%a8-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%8a%d8%b9%d8%b1%d9%82%d9%84-%d9%85%d8%b3%d8%a7%d8%b7%d8%b1-%d8%aa%d8%ad-1820848.html)** — Hespress, 13 October 2026
 
 Casablanca's commercial court of first instance rejected a payment-order application for MAD 376,552 because it omitted the debtor company's email address, applying Article 234 of Morocco's Civil Procedure Code, which requires an email for any legal-person party, Hespress reported on 13 October 2026. Creditors without debtors' email addresses face similar refusals. The order's date is not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Law protecting children from social-media risks</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[البرنامج الحكومي، الولاية التشريعية 2026-2031، طبقا لأحكام الفصل 88 من الدستور](https://article19.ma/accueil/wp-content/uploads/2026/10/PG-2026-2031.pdf)** — Chef du Gouvernement, Royaume du Maroc, 19 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 

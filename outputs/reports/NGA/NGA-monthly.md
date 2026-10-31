@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: NGA
 ledger_rows: 180
 not_held: 9
-record: fcca8c3ed01c
+record: 9424e8465fdc
 ---
 
 # News, Sep – Oct 2026
@@ -2129,6 +2129,14 @@ An African Union pre-election mission, in Nigeria from 13 to 19 September 2026, 
 **[Nigeria voters’ register now stands at 103 million – INEC](https://www.vanguardngr.com/2026/10/nigeria-voters-register-now-stands-at-103-million-inec/)** — Vanguard, 5 October 2026
 
 Nigeria's electoral commission chairman said the national register of voters stands at more than 103 million after the final biometric clean-up. Three phases of continuous registration added 10,772,421 voters, and card collection begins nationwide on 9 October.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEC blames registration officers for AI-generated photos in voters’ register](https://www.vanguardngr.com/2026/10/inec-blames-registration-officers-for-ai-generated-photos-in-voters-register/)** — Vanguard, 30 October 2026
+
+Nigeria's electoral commission said some registration officers used their own logins to add suspected AI-generated photos to the preliminary voters' register. Its biometric identification system found the records. ICT director Lawrence Bayode said the register, uploaded on 26 October 2026, is being cleaned within the 90-day statutory period.
 
 </div>
 

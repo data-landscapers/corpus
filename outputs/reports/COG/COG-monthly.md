@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: COG
-ledger_rows: 26
+ledger_rows: 27
 not_held: 5
-record: 99669eb662e0
+record: 44b0d839895d
 ---
 
 # News, Sep – Oct 2026
@@ -303,6 +303,20 @@ The Republic of Congo's digital economy ministry set out a national digital publ
 **[Fintech : Yano se positionne dans la structuration des transactions financières mobiles](https://www.aci.cg/fintech-yano-se-positionne-dans-la-structuration-des-transactions-financieres-mobiles/)** — Agence Congolaise d'Information, 29 September 2026
 
 Yano, a Congolese fintech launched on 14 September 2026, lets groups, traders and individuals collect contributions and take mobile payments by QR code or link, regardless of mobile operator, its co-founder Elwin Gomo told the Congolese news agency. It holds no cash itself. It is backed by the Bantulab programme through a 655 million CFA franc investment vehicle.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MoMo payments in the pharmaceutical supply chain (UbiPharm)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MoMo and UbiPharm partner to digitise pharmaceutical payments in Congo](https://techreviewafrica.com/news/8034/momo-and-ubipharm-partner-to-digitise-pharmaceutical-payments-in-congo)** — Tech Review Africa, 29 October 2026
+
+Signed in Pointe-Noire; pharmacies pay distributor and customers pay pharmacies by MoMo; no volumes or fees.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: COM
-ledger_rows: 15
+ledger_rows: 16
 not_held: 24
-record: b9ae21b46ef2
+record: 60347222b263
 ---
 
 # News, Sep – Oct 2026
@@ -59,6 +59,20 @@ The Comoros' digital development agency and UNDP signed a memorandum on 16 Septe
 **[Conseil des ministres I Approbation d’un projet d’électrification complète de la région de Mledjele à Mwali](https://alwatwan.net/politique/conseil-des-ministres-i-approbation-d%E2%80%99un-projet-d%E2%80%99%C3%A9lectrification-compl%C3%A8te-de-la-r%C3%A9gion-de-mledjele-%C3%A0-mwali.html)** — Al-watwan, 22 October 2026
 
 Comoros' telecoms minister presented a national data-governance and data-centre strategy for 2027-2031 to the Council of Ministers on 21 October 2026, along with the takeover and hosting of the State data centre. The Council approved the national postal-code booklet in principle, asking that the island governors be involved.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strategie nationale de sante numerique 2022-2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé et numérique : Onze projets pour accélérer la transformation du système sanitaire](https://www.lagazettedescomores.com/sant%C3%A9/sant%C3%A9-et-num%C3%A9rique-onze-projets-pour-acc%C3%A9l%C3%A9rer-la-transformation-du-syst%C3%A8me-sanitaire-.html)** — La Gazette des Comores, 30 October 2026
+
+Comoros's health statistics directorate said on 27 October 2026 that only one of eleven projects in the 2022 digital health plan has been substantially implemented. It cited lack of funds. DHIS2 is in use with an electronic vaccination register, and malaria forecasting is being piloted in five Ngazidja districts.
 
 </div>
 

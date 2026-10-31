@@ -1,12 +1,12 @@
 ---
 title: Comoros: status report
-compiled: 2026-10-27
+compiled: 2026-10-31
 place: COM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 10
-sources_cited: 169
+sources_cited: 170
 sections_written: 39
 not_established: 1
 acquire_lines: 24
@@ -196,7 +196,7 @@ The computerised national population register, the land and cadastre registry un
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-Health is the one sector with a national management information system that works. [DHIS2 has been the national health management information system since 2022](https://dhis2.org/climate/country-profiles/comoros/), [almost 99% of public health facilities use it for routine reporting, and a World Bank-funded electronic logistics project launched in 2024 put an Android Real-Time Stock tool into 58 of the country's 74 facilities, 78%, within three months of going live (November 2025)](https://dhis2.org/supply-chain-management-dhis2-open-msupply-comoros/). A [formal memorandum with the meteorological agency ANACM brings climate data into the same system](https://dhis2.org/climate/country-profiles/comoros/) (July 2026), and the country [used ODK digital capture feeding real-time dashboards for the first time in a national campaign, the October 2025 measles-rubella drive targeting 101,000 children](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-goes-digital-in-measles-rubella-drive-to-vaccinate-101-000-children). The World Bank-financed safety-nets project runs its own system: [by April 2025 every technical operation from targeting to payment statements was digitised on its management information system, with further modules due that July](https://pfss-comores.org/ressources/download/8). Health insurance gained its first digital claims and enrolment layer when the [openIMIS-based Assurance Maladie Généralisée pilot began enrolling beneficiaries in Mohéli in December 2025](https://core-mis.org/blog/advancing-universal-health-coverage-comoros-openimis).
+Health is the one sector with a national management information system that works. [DHIS2 has been the national health management information system since 2022](https://dhis2.org/climate/country-profiles/comoros/), [almost 99% of public health facilities use it for routine reporting, and a World Bank-funded electronic logistics project launched in 2024 put an Android Real-Time Stock tool into 58 of the country's 74 facilities, 78%, within three months of going live (November 2025)](https://dhis2.org/supply-chain-management-dhis2-open-msupply-comoros/). [The health statistics directorate told a coordination meeting on 27 October 2026 that one of the eleven projects in the 2022 digital health plan had seen significant implementation, citing financial constraints](https://www.lagazettedescomores.com/sant%C3%A9/sant%C3%A9-et-num%C3%A9rique-onze-projets-pour-acc%C3%A9l%C3%A9rer-la-transformation-du-syst%C3%A8me-sanitaire-.html). A [formal memorandum with the meteorological agency ANACM brings climate data into the same system](https://dhis2.org/climate/country-profiles/comoros/) (July 2026), and the country [used ODK digital capture feeding real-time dashboards for the first time in a national campaign, the October 2025 measles-rubella drive targeting 101,000 children](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-goes-digital-in-measles-rubella-drive-to-vaccinate-101-000-children). The World Bank-financed safety-nets project runs its own system: [by April 2025 every technical operation from targeting to payment statements was digitised on its management information system, with further modules due that July](https://pfss-comores.org/ressources/download/8). Health insurance gained its first digital claims and enrolment layer when the [openIMIS-based Assurance Maladie Généralisée pilot began enrolling beneficiaries in Mohéli in December 2025](https://core-mis.org/blog/advancing-universal-health-coverage-comoros-openimis).
 
 Education got its first individual-level systems when the Ministry of Education and ANADEN [launched e-Msomo for online grade entry, automated report cards and unique student identifiers, and e-Shiyo, a digital textbook library, on 5 June 2025](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/digitalisation-de-l%E2%80%99enseignement-les-comores-passent-%C3%A0-l%E2%80%99%C3%A8re-du-num%C3%A9rique-avec-e-msomo-et-e-shiyo-.html); [by February 2026 every public secondary school and 45% of public primaries were on e-Msomo, and its digital report card had become the only document accepted for university enrolment](https://alwatwan.net/education/bulletin-unique-i-le-minist%C3%A8re-de-l%E2%80%99%C3%A9ducation-donne-encore-une-semaine-aux-%C3%A9coles.html).
 
