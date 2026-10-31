@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: MUS
-ledger_rows: 37
+ledger_rows: 39
 not_held: 7
-record: be2c7aa6e57f
+record: aa3c988ac553
 ---
 
 # News, Sep – Oct 2026
@@ -224,6 +224,14 @@ Mauritius's ICT minister, Avinash Ramtohul, told L'Express on 10 October 2026 ab
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[PQ | Réseaux sociaux : Le gouvernement prépare un nouveau cadre contre les abus](https://lexpress.mu/node/564170)** — L'Express (Maurice), 29 October 2026
+
+Draft Act 2021 amendments: deepfakes, doxxing, fake profiles; new Cybercrime Agency; takedown duties on platforms.
+
+</div>
+
 </div>
 
 ### Data protection
@@ -259,6 +267,34 @@ Mauritius's Data Protection Office issued updated guidance in September 2026, as
 **[The National Crime Agency Bill (No. ..... of 2026) — bill text as published by the National Assembly of Mauritius](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2026/09/The-National-Crime-Agency-Bill-2026.pdf)** — National Assembly of Mauritius, 12 September 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guide on Data Protection in the Mauritian Financial Sector</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Protection des données : Seules 23 000 entreprises enregistrées sur 60 000](https://lexpress.mu/node/564216)** — L'Express (Maurice), 30 October 2026
+
+Mauritius launched a guide on data protection in the financial sector on 29 October 2026. The ICT minister said about 23,000 of some 60,000 entities required to register under the Data Protection Act 2017 had done so. He announced training for data protection officers and a review of the Cybersecurity and Cybercrime Act 2021.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registration of controllers and processors</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Protection des données : Seules 23 000 entreprises enregistrées sur 60 000](https://lexpress.mu/node/564216)** — L'Express (Maurice), 30 October 2026
+
+Summarised under [Data protection](#data-protection).
 
 </div>
 

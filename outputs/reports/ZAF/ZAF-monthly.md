@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: ZAF
-ledger_rows: 180
+ledger_rows: 181
 not_held: 19
-record: 1caa71668d7a
+record: 6a25a7656ea3
 ---
 
 # News, Sep – Oct 2026
@@ -1453,6 +1453,20 @@ The South African Reserve Bank explains how its National Payment System Departme
 **[Rand Mutual probes alleged breach of 1.68m claims](https://www.itweb.co.za/article/rand-mutual-probes-alleged-breach-of-168m-claims/G98YdqLGAgXMX2PD)** — ITWeb South Africa, 27 October 2026
 
 Rand Mutual Assurance said it is investigating a possible systems breach after an alert on 23 October 2026. A threat actor claims to hold 366GB of data, including 1,683,810 compensation claims records, and demands US$95,000 by 5 November. The insurer said no unauthorised access had yet been established.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GCIS e-recruitment system breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GCIS warns of information breach](https://www.itweb.co.za/article/gcis-warns-of-information-breach/wbrpO7g2ea3vDLZn)** — ITWeb South Africa, 30 October 2026
+
+South Africa's GCIS told applicants that its e-recruitment system had been compromised, possibly exposing ID numbers, phone numbers and e-mail addresses. Suspicious activity on its web systems was identified on 24 October 2026. GCIS reported the incident to the Information Regulator, the police and the State Security Agency.
 
 </div>
 

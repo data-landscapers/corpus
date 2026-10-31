@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: KEN
-ledger_rows: 160
+ledger_rows: 162
 not_held: 6
-record: 76b69216d5bf
+record: 226a5a7e679a
 ---
 
 # News, Sep – Oct 2026
@@ -2258,6 +2258,20 @@ Kenya's Treasury told the National Assembly Finance Committee on 27 October 2026
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya DPI Roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Rolls Out 30,000 Kilometres of Fibre Infrastructure Since 2022](https://techafricanews.com/2026/10/30/kenya-rolls-out-30000-kilometres-fibre-infrastructure/)** — Tech Africa News, 30 October 2026
+
+ICT Principal Secretary John Tanui said Kenya has laid more than 30,000 km of fibre since 2022. He spoke at the second national-county ICT consultative forum in Naivasha. The forum took up a proposed County Digital Maturity Index, the National AI Agenda and the draft National DPI Roadmap.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -2305,6 +2319,20 @@ Kenya's Controller of Budget reported that county governments paid at least Sh8.
 **[Mombasa tuk-tuk fines: Who is watching the watchers?](https://nation.africa/kenya/counties/mombasa/mombasa-tuk-tuk-fines-who-is-watching-the-watchers--5634070)** — Daily Nation, 16 October 2026
 
 Two Mombasa tuk-tuk associations went to the High Court against the county's camera-based instant traffic fines, which block operators' stickers on the county portal until they are paid. They argue that no published law authorises the system or its capture of passengers' images; the case returns on 9 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">County Digital Maturity Index</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Kenya Rolls Out 30,000 Kilometres of Fibre Infrastructure Since 2022](https://techafricanews.com/2026/10/30/kenya-rolls-out-30000-kilometres-fibre-infrastructure/)** — Tech Africa News, 30 October 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 

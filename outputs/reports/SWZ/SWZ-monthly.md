@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: SWZ
-ledger_rows: 46
+ledger_rows: 47
 not_held: 3
-record: 7bfbc6504ae6
+record: 1128b226b61a
 ---
 
 # News, Sep – Oct 2026
@@ -38,6 +38,8 @@ record: 7bfbc6504ae6
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Legislation and regulation
@@ -125,6 +127,22 @@ The Digital Cooperation Organization's secretary-general, Deemah AlYahya, met Es
 **[Eswatini, Lesotho Join Forces to Tackle Cyber Threats](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/)** — Eswatini Positive News, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
 
 The Eswatini Communications Commission and the Lesotho Communications Authority signed a memorandum of understanding on 3 October 2026 covering information exchange, joint research, staff development and cybersecurity cooperation, including coordinated incident response, awareness campaigns, training and audits. No budget or timetable is given.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Safety and Standards Centre of Excellence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa seeks control of AI safety as Eswatini launches standards centre](https://www.standardmedia.co.ke/business/article/2001561221/africa-seeks-control-of-ai-safety-as-eswatini-launches-standards-centre)** — The Standard, 30 October 2026
+
+The Eswatini Standards Authority and AICE Africa launched an AI Safety and Standards Centre of Excellence on 27 October 2026. It will train standards officers, auditors and regulators, and work towards an AI testing laboratory and an African AI standards baseline report. An AI safety summit is planned for Mbabane in July 2027.
 
 </div>
 

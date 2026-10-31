@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: MOZ
-ledger_rows: 55
+ledger_rows: 56
 not_held: 18
-record: f06933e27988
+record: 3dfb605f718f
 ---
 
 # News, Sep – Oct 2026
@@ -559,6 +559,20 @@ Mozambique's communications minister said the national cybersecurity strategy fo
 **[Moçambique eleito para o Comité de Gestão da ANCA-CERT em representação da África Austral](https://intic.gov.mz/mocambique-eleito-para-o-comite-de-gestao-da-anca-cert-em-representacao-da-africa-austral/)** — Instituto Nacional de Tecnologias de Informação e Comunicação (Moçambique), 19 October 2026
 
 Mozambique's ICT institute INTIC was elected to the management committee of ANCA-CERT, Africa's network of cyber incident-response teams, for Southern Africa at the African Network of Cybersecurity Authorities meeting in Rabat on 12 October 2026. ANCA admitted five new members, taking it from 28 to 33 states, and Mozambique reported its cybersecurity and cybercrime laws in force since 29 September.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric SIM registration and the unique telecommunications number</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Detidos por fraude no registo de cartões de telemóveis](https://www.jornalnoticias.co.mz/destaque/detidos-por-fraude-no-registo-de-cartoes-de-telemoveis/)** — Jornal Notícias, 29 October 2026
+
+Five operator staff held in Zambézia; third parties' voter cards used to register SIMs for commissions.
 
 </div>
 

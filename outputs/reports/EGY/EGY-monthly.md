@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: EGY
-ledger_rows: 112
+ledger_rows: 115
 not_held: 39
-record: dec075f8e0f1
+record: b02d99224a56
 ---
 
 # News, Sep – Oct 2026
@@ -806,6 +806,20 @@ The planning minister told the Senate about an integrated electronic link. It jo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Real estate registry network with ministries and survey bodies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[العدل تواصل تطوير منظومة تسجيل الملكية العقارية بربط شبكى مع الوزارات المعنية](https://www.youm7.com/story/2026/10/28/%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B1%D8%A8%D8%B7-%D8%B4%D8%A8%D9%83%D9%89-%D9%85%D8%B9/7597491)** — Youm7, 28 October 2026
+
+Registry linked to five ministries and survey bodies; unified platform for remote registration to e-signature.
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
 <div class="monthly-story" markdown="1">
@@ -831,6 +845,20 @@ Telecom Egypt's mobile brand WE launched an electronic know-your-customer servic
 **[إطلاق منظومة التحقق البيومتري الإلكتروني (الهوية الرقمية) لتيسير حصول المواطنين على الخدمات الرقمية عن بُعد](https://www.elmydannews.com/251837)** — Elmydan News, 18 September 2026
 
 Egypt's communications and interior ministries launched a platform for remote biometric identity verification and electronic signature, which licensed telecom operators can offer inside their own smartphone applications so users need not visit a branch. It was built by the telecom regulator with the IT industry development agency, a local developer and licensed signature providers; no user count or list of relying services is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic passport</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Thales, Cyshield join forces on Egypt’s biometric border and passport plans](https://www.biometricupdate.com/202610/thales-cyshield-join-forces-on-egypts-biometric-border-and-passport-plans)** — Biometric Update, 30 October 2026
+
+Thales and the Egyptian firm Cyshield signed a memorandum on biometric border management and electronic passports for Egypt, reported on 30 October 2026. It covers biometric e-gates across more than 32 air, land and sea border points. It also covers issuance systems for a planned national e-passport rollout.
 
 </div>
 
@@ -1147,6 +1175,20 @@ Egypt's agriculture ministry spokesman Khaled Gad said on 23 September 2026 that
 **[Egypt’s Tax Authority Taps eTax to Operate Digital Platform for Electronic Invoice and Receipt Data](https://www.technotime.net/17974)** — Techno Time, 24 October 2026
 
 The Tax Authority contracted eTax to build and run a platform that analyses electronic-invoice and e-receipt data to select cases for examination. The work covers the data warehouse, integration, hosting and security.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric border management system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Thales, Cyshield join forces on Egypt’s biometric border and passport plans](https://www.biometricupdate.com/202610/thales-cyshield-join-forces-on-egypts-biometric-border-and-passport-plans)** — Biometric Update, 30 October 2026
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 </div>
 
