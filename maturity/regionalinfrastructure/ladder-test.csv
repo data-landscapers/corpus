@@ -10,46 +10,46 @@ CMR,4,building,in-service,CMR-002;CMR-004
 COD,4,agreed,in-service,COD-005;COD-004
 COG,4,building,in-service,COG-003;COG-004;COG-002
 COM,no evidence,,,
-CPV,no evidence,,,
+CPV,2,agreed,,CPV-001
 DJI,4,agreed,in-service,DJI-020;DJI-021
 DZA,4,building,in-service,DZA-001;DZA-002;DZA-003
-EGY,no evidence,,,
+EGY,4,,in-service,EGY-003;EGY-002
 ERI,1,,,ERI-002
 ETH,3,building,,ETH-003;ETH-002
 GAB,4,agreed,in-service,GAB-004
 GHA,4,agreed,in-service,GHA-001
 GIN,2,agreed,,GIN-002;GIN-001
-GMB,no evidence,,,
+GMB,4,,in-service,GMB-001
 GNB,unplaced,,,
 GNQ,4,agreed,in-service,GNQ-001
 KEN,4,agreed,in-service,KEN-009;KEN-011
 LBR,4,,in-service,LBR-002
 LBY,4,agreed,in-service,LBY-001
-LSO,no evidence,,,
+LSO,4,,in-service,LSO-001
 MAR,4,,in-service,MAR-001
-MDG,unplaced,,,
+MDG,4,,in-service,MDG-004
 MLI,4,agreed,in-service,MLI-002;MLI-001
 MOZ,4,,in-service,MOZ-002
 MRT,4,,in-service,MRT-001
-MUS,no evidence,,,
+MUS,4,,in-service,MUS-001
 MWI,4,,in-service,MWI-002
-NAM,2,agreed,,NAM-002;NAM-001
+NAM,4,agreed,in-service,NAM-006
 NER,4,building,in-service,NER-009;NER-012
 NGA,4,agreed,in-service,NGA-003
 RWA,unplaced,,,
-SDN,2,agreed,,SDN-003;SDN-004
-SEN,4,,in-service,SEN-001
+SDN,4,agreed,in-service,SDN-016;SDN-015
+SEN,5,,in-use,SEN-003;SEN-001
 SLE,2,agreed,,SLE-003;SLE-002
 SOM,4,agreed,in-service,SOM-003
 SSD,2,agreed,,SSD-004;SSD-006
 STP,4,,in-service,STP-003
-SWZ,2,agreed,,SWZ-001
-SYC,no evidence,,,
+SWZ,4,agreed,in-service,SWZ-002
+SYC,4,,in-service,SYC-002;SYC-001
 TCD,3,building,,TCD-001;TCD-002;TCD-007
 TGO,5,agreed,in-use,TGO-002
 TUN,2,agreed,,TUN-001
 TZA,4,agreed,in-service,TZA-002;TZA-003
 UGA,4,,in-service,UGA-003;UGA-005
-ZAF,no evidence,,,
+ZAF,4,building,in-service,ZAF-003;ZAF-002;ZAF-005
 ZMB,4,,in-service,ZMB-003
 ZWE,4,building,in-service,ZWE-002;ZWE-010;ZWE-003

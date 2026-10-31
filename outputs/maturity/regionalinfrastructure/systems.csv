@@ -160,6 +160,7 @@ MDG,2Africa,2Africa (Mahajanga landing),shared,"submarine cable, Alcatel Submari
 MDG,EASSy,EASSy,other,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
 MDG,LION,LION,other,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
 MDG,METISS,METISS,other,submarine cable,Telma,,2023-02-10-axian-telma-2africa-landing-madagascar
+MDG,METISS submarine cable,METISS,shared,submarine cable,METISS consortium (Telma among six operators),,2021-03-17-mus-cebfibernet-metiss-mise-en-service
 MLI,Mali IX (MLIX),"Mali IX (MLIX), Bamako",other,,,,2026-09-03-ecowas-sigtel-regional-fiber-infrastructure
 MLI,Transafrican terrestrial fibre cable (Maroc Telecom),Transafrican terrestrial cable,shared,fibre,Maroc Telecom / Moov Africa,operator,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
 MLI,Senegal-Mali national backbone interconnection (Kidira-Diboli),interconnexion des backbones du Senegal et du Mali,shared,fibre optic,SENUM SA (Senegal); SMTD-SA (Mali),,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira
@@ -190,6 +191,7 @@ NAM,SARSSy,Southern African Regional Submarine System,shared,submarine cable sys
 NAM,Equiano,Equiano Cable System,shared,submarine cable,,1.0 Tbps dedicated to Angola Telecom,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps
 NAM,Angosat-2,Angosat-2,shared,satellite platform,GGPEN (Angola),"Telecom Namibia, for remote and underserved areas",2026-06-12-namibia-angola-ink-satellite-deal-itweb
 NAM,Angosat-2,Angosat-2,shared,"high-throughput geostationary satellite, C, Ku and Ka band",Angola (GGPEN),"Telecom Namibia, for remote areas and backhaul",2025-10-14-namibia-taps-angosat-2-to-boost-connectivity
+NAM,Broadband Infraco regional network,Broadband Infraco,shared,terrestrial fibre,"Broadband Infraco (South Africa, state-owned)",,2019-07-03-lso-itweb-broadband-infraco-border-connectivity
 NER,dorsale transsaharienne à fibre optique,dorsale transsaharienne à fibre optique (In-Guezzam to Arlit-Agadez),shared,fibre optic,Algérie Télécom and Niger Télécom,,2026-10-06-dza-algerieeco-aps-assamaka-exploitation-dorsale-transsaharienne
 NER,dorsale transsaharienne à fibre optique,dorsale transsaharienne à fibre optique,shared,fibre optic,,,2026-10-06-ner-anp-assamaka-dorsale-transsaharienne-fibre
 NER,interconnexion par fibre optique Niger-Algérie,interconnexion de la fibre optique entre le Niger et l'Algérie,shared,fibre optic,,,2026-10-06-ner-mcnti-niger-algerie-interconnexion-fibre-agadez
@@ -236,10 +238,12 @@ SDN,Horizon Fiber,Horizon Fiber Initiative,shared,terrestrial multi-terabit opti
 SDN,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Ethio Telecom, Djibouti Telecom, Sudatel Group",,2026-02-11-dcd-horizon-fiber-agreement
 SDN,"Port Sudan to Douala Corridor, fiber optic connectivity component (Sudan section)",Sudan Section of the Fiber Optic Connectivity Component of the Port Sudan to Douala Corridor,shared,,African Union PIDA project record,,2023-09-11-pida-port-sudan-douala-fibre-corridor
 SDN,Horizon Fiber Initiative,Sudan,shared,terrestrial fibre,"Ethio Telecom, Djibouti Telecom, Sudatel",,2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to
+SDN,Egypt-Sudan terrestrial fibre cable,,shared,terrestrial fibre,Telecom Egypt (Egyptian Telecommunications Company); Sudatel,,2004-10-28-egy-sudantribune-egypt-sudan-fibre-launch
 SEN,Phase3-Sonatel Lagos-Dakar terrestrial fibre route,Senegal;Nigeria;Benin;Togo;Ghana,shared,terrestrial fibre,Phase3 Telecom and Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre
 SEN,Djoliba,Djoliba network,shared,terrestrial fibre,Phase3 Telecom,,2025-05-09-techafricanews-phase3-sonatel-fibre
 SEN,Ikasira,Ikasira,other,,Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre
 SEN,interconnexion des backbones du Senegal et du Mali (Kidira-Diboli),Interconnexion des reseaux dorsaux en fibre optique,shared,fibre optic,Senegal Numerique SA (SENUM SA) and Societe malienne de transmission et de diffusion (SMTD-SA),national backbone operators of Senegal and Mali,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira
+SEN,Cross Gambia (CG2) backup link with Free Senegal,Cross Gambia (CG2),shared,terrestrial link,Free (Senegal); Gamtel (Gambia),Gamtel holds 28 Gbps,2026-09-21-gamtel-company-profile-ace-25-gbps
 SLE,TRANSCO CLSG fibre network,TRANSCO CLSG transmission network fibre,shared,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
 SLE,Sierra Leone-Guinea national backbone interconnection,Sierra Leone-Guinea backbone interconnection,shared,,,,2025-11-17-natca-guinea-free-roaming
 SLE,SOGEB-Leoncom fibre interconnection at Pamelap,Guinea-Sierra Leone fibre interconnection,shared,"fibre optic, IP/MPLS",SOGEB (Guinea); Leoncom (Sierra Leone),,2025-06-23-sogeb-leonecom-fibre-interconnection
@@ -261,6 +265,7 @@ STP,STP-Cabo SARL,STP-Cabo,shared,,"special purpose vehicle of the Government, C
 STP,Internet Exchange Point (planned),IXP,other,,,dropped at the mid-term review as low priority,2015-06-17-world-bank-icr-central-african-backbone-apl2-sao-tome
 STP,cabo submarino ACE,cabo submarino ACE,other,submarine cable,STP-Cabo SARL (State holds 25.5%),,2012-11-12-sao-tome-decreto-38-2012-concurso-segunda-licenca-stp-cabo-ace
 SWZ,Backbone Network project (MOTRACO powerline fibre route via Maputo),Backbone Network,shared,MOTRACO powerline fibre,UASF with EPTC,"national backbone, redundancy route to Maputo and onward to undersea cable at Cape Town",2023-10-03-uasf-connectivity-programmes
+SWZ,Broadband Infraco regional network,Broadband Infraco,shared,terrestrial fibre,"Broadband Infraco (South Africa, state-owned)",,2019-07-03-lso-itweb-broadband-infraco-border-connectivity
 SYC,AfCFTA Digital Trade Corridor,AfCFTA Digital Trade Corridor,other,PAPSS-based payment rails; minerals and commodities exchange,AfCFTA Secretariat and Quest Ghana joint venture,Seychelles hosts the joint venture headquarters,2026-08-31-afcfta-quest-ghana-digital-trade-corridor
 SYC,AfCFTA digital trade hub,digital trade hub of the African Continental Free Trade Area,other,,"AfCFTA secretariat, Quest Ghana Limited and the government of Seychelles (MoU parties)",,2026-03-17-seychelles-nation-digital-trade-hub-afcfta
 SYC,PEACE submarine cable,PEACE,shared,submarine cable,Seychelles Cable Systems (branch),,2023-01-06-nation-sc-peace-operational-seychelles

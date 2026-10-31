@@ -1,16 +1,17 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "4",
-   "built": "",
-   "service": "in-service",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "5",
+      "built": "",
+      "service": "in-use",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-003;SEN-001",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

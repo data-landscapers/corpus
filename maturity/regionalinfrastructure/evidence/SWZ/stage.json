@@ -1,16 +1,17 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "2",
-   "built": "agreed",
-   "service": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001",
-   "gaps": "No source found says building has started in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "4",
+      "built": "agreed",
+      "service": "in-service",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-002",
+      "gaps": "No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

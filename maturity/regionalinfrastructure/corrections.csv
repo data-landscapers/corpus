@@ -39,3 +39,9 @@ MUS,001,service,in-service,added: in-service,"hand-read under housekeeping 40: a
 SYC,001,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
 SYC,002,service,in-service,added: in-service,"hand-read under housekeeping 40: a link in service stands with its year, so a source older than three years still answers question 3"
 CPV,001,built,agreed,added: agreed,hand-read under housekeeping 40: a held source the reading list did not reach
+MDG,004,service,in-service,added: in-service,"hand-read under housekeeping 42: a link in service stands with its year, so a source older than three years still answers question 3"
+SDN,015,service,in-service,added: in-service,"hand-read under housekeeping 42: a link in service stands with its year, so a source older than three years still answers question 3"
+SDN,016,service,in-service,added: in-service,"hand-read under housekeeping 42: a link in service stands with its year, so a source older than three years still answers question 3"
+NAM,006,service,in-service,added: in-service,"hand-read under housekeeping 42: a link in service stands with its year, so a source older than three years still answers question 3"
+SWZ,002,service,in-service,added: in-service,"hand-read under housekeeping 42: a link in service stands with its year, so a source older than three years still answers question 3"
+SEN,003,service,in-use,added: in-use,hand-read under housekeeping 42: a named operator of the other country holds capacity on the link

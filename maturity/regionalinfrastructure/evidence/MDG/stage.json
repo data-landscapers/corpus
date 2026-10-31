@@ -1,16 +1,17 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "unplaced",
-   "built": "",
-   "service": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No shared link or facility agreed or being built in the last three years, or in service, is on record, and no source dated in the last three years says the country has none.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "4",
+      "built": "",
+      "service": "in-service",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-004",
+      "gaps": "No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }
