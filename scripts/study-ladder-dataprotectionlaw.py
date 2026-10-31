@@ -103,14 +103,13 @@ def rung(v: dict) -> tuple[str, str]:
         if not v["recent"]:
             return "3", ("activity under the law, and no decision" if v["application"] == "activity"
                          else "no dated decision under the law inside three years")
-        top = v["reported"] and v["regulations"] == "issued"
+        top = v["reported"]   # Bill, 2026-10-31 (messages 55): no regulation needed for 5
         if v["authority"] != "constituted":
             v["flags"].append("no authority")
             return "3", f"capped from {'5' if top else '4'}"
         if top:
             return "5", ""
-        return "4", ("no published year of figures inside two years" if not v["reported"]
-                     else "no regulation under the law on record")
+        return "4", "no published year of figures inside two years"
     if s == "none":
         return "1", "a dated statement that there is none"
     if v["sectoral"]:

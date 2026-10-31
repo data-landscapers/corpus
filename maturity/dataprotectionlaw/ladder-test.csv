@@ -1,55 +1,55 @@
 iso3,sub_indicator,rung,instrument,standing,regulations,application,application_as_of,authority,flags,stopped_by
 AGO,general,5,Lei de Protecção de Dados Pessoais,in-force,issued,reported,2026,constituted,advancing,
-BDI,general,3,Burundi personal data protection law,enacted,,,,provided,advancing,enacted: not yet in force in full
-BEN,general,4,Code du numérique,in-force,,reported,2025,constituted,,no regulation under the law on record
-BFA,general,3,Loi n°001-2021/AN du 30 mars 2021 portant protection des personnes à l'égard du traitement des données à caractère personnel,in-force,,activity,2025-07-01,provided,under revision;advancing,"activity under the law, and no decision"
+BDI,general,3,Burundi personal data protection law,enacted,,,,provided,under revision;advancing,enacted: not yet in force in full
+BEN,general,5,Code du numérique,in-force,,reported,2025,constituted,,
+BFA,general,3,Loi sur la protection des donnees a caractere personnel,in-force,,activity,2025-07-01,provided,under revision;advancing,"activity under the law, and no decision"
 BWA,general,4,Data Protection Act No. 18 of 2024,in-force,,applied,2026-07-22,constituted,advancing,no published year of figures inside two years
-CAF,general,3,Loi n° 24.001 portant protection des données à caractère personnel,in-force,,,,provided,,no dated decision under the law inside three years
-CIV,general,3,Loi du 19 juin 2013 sur les données à caractère personnel,in-force,issued,activity,2026-07-02,provided,advancing,"activity under the law, and no decision"
-CMR,general,3,Loi n° 2024/017 du 23 décembre 2024 relative à la protection des données à caractère personnel,in-force,,,,provided,advancing,no dated decision under the law inside three years
+CAF,general,3,Loi n° 24.001 portant protection des données à caractère personnel,in-force,none,,,provided,regulations pending,no dated decision under the law inside three years
+CIV,general,3,Law no. 2013-450,in-force,issued,activity,2026,constituted,advancing,"activity under the law, and no decision"
+CMR,general,3,Loi du 23 décembre 2024,in-force,none,,,provided,regulations pending;advancing,no dated decision under the law inside three years
 COD,general,3,Code du numérique (Ordonnance-loi n° 23/010),in-force,,activity,2026-03-17,provided,advancing,"activity under the law, and no decision"
 COG,general,3,Law No. 29-2019 of 10 October 2019 on personal data protection,in-force,,,,constituted,advancing,no dated decision under the law inside three years
 COM,general,3,Protection of Personal Data Law,enacted,,,,provided,,enacted: not yet in force in full
-CPV,general,3,Lei de Proteção de Dados (2001/2021),in-force,,none,2026-08-04,constituted,,no dated decision under the law inside three years
+CPV,general,4,Lei de Proteção de Dados (2001/2021),in-force,,reported,2023,constituted,,no published year of figures inside two years
 DJI,general,3,Digital Code,enacted,,,,provided,,enacted: not yet in force in full
 DZA,general,3,Loi n° 18-07 du 10 juin 2018 (as amended by loi n° 25-11),in-force,issued,activity,2026,constituted,advancing,"activity under the law, and no decision"
-EGY,general,3,Law 151/2020 (Personal Data Protection Law),in-force,issued,activity,2026,constituted,advancing,"activity under the law, and no decision"
+EGY,general,3,Personal data protection law,in-force,issued,activity,2026,constituted,advancing,"activity under the law, and no decision"
 ERI,general,1,,none,,none,2026-08-01,none,,a dated statement that there is none
-ETH,general,3,Personal Data Protection Proclamation,in-force,none,activity,2025-11,constituted,regulations pending;advancing,"activity under the law, and no decision"
-GAB,general,4,Loi relative à la protection des données à caractère personnel,in-force,,applied,2024-04-25,constituted,,no published year of figures inside two years
-GHA,general,4,"Data Protection Act, 2012 (Act 843)",in-force,,applied,2024-09-18,constituted,advancing,no published year of figures inside two years
-GIN,general,3,Loi L/2016/037/AN,enacted,,,,provided,under revision,enacted: not yet in force in full
+ETH,general,3,Personal Data Protection Act,in-force,none,activity,2026-05-13,constituted,regulations pending;advancing,"activity under the law, and no decision"
+GAB,general,5,Loi relative à la protection des données à caractère personnel,in-force,,reported,2025,constituted,,
+GHA,general,4,Data Protection Act (Act 843),in-force,,applied,2026-10-14,constituted,advancing,no published year of figures inside two years
+GIN,general,3,Law on cybersecurity and protection of personal data,in-force,,,,provided,under revision,no dated decision under the law inside three years
 GMB,general,3,Personal Data Protection and Privacy Act 2025,enacted,none,,,constituted,regulations pending;advancing,enacted: not yet in force in full
 GNB,general,2,Data protection bill (Agência de protecção de dados),drafting,,,,none,,"drafting, not enacted"
 GNQ,general,3,"Ley Núm. 1/2016, de Protección de Datos Personales",in-force,,,,provided,,no dated decision under the law inside three years
-KEN,general,5,"Data Protection Act, 2019",in-force,issued,reported,2025-03,constituted,advancing,
+KEN,general,5,Data Protection Act,in-force,issued,reported,2025-03,constituted,advancing,
 LBR,general,3,Data Protection Act 2026,in-force,,,,provided,advancing,no dated decision under the law inside three years
-LBY,general,2,Draft Personal Data Protection Law (law no. ___ of 2026),drafting,,,,,advancing,"drafting, not enacted"
-LSO,general,3,Data Protection Act,in-force,,,,provided,,no dated decision under the law inside three years
-MAR,general,3,Loi 09-08,in-force,,activity,2026-08-29,constituted,advancing,"activity under the law, and no decision"
-MDG,general,3,Loi n°2014-038 du 9 janvier 2015 relative à la protection des données à caractère personnel,in-force,issued,none,2026-01,constituted,advancing,no dated decision under the law inside three years
-MLI,general,5,Loi n2013-015 du 21 mai 2013,in-force,issued,reported,2025,constituted,advancing,
-MOZ,general,2,Personal Data Protection draft law,tabled,,,,provided,advancing,"tabled, not enacted"
-MRT,general,3,Loi n° 2017-020 relative à la protection des données à caractère personnel,in-force,issued,activity,2026-06-30,constituted,,"activity under the law, and no decision"
-MUS,general,5,Data Protection Act,in-force,issued,reported,2024,constituted,advancing,
-MWI,general,3,"Data Protection Act, 2024",in-force,,activity,2025-10-22,constituted,advancing,"activity under the law, and no decision"
-NAM,general,2,Data Protection Bill,drafting,,,,provided,,"drafting, not enacted"
+LBY,general,2,Draft national personal data protection law,drafting,,,,none,advancing,"drafting, not enacted"
+LSO,general,3,Data Protection Act 2011,in-force,,,,provided,,no dated decision under the law inside three years
+MAR,general,5,Law No. 09-08,in-force,,reported,2024,constituted,advancing,
+MDG,general,3,Loi n°2014-038 du 9 janvier 2015 relative à la protection des données à caractère personnel,in-force,issued,none,2026-01,constituted,under revision;advancing,no dated decision under the law inside three years
+MLI,general,5,2013 personal data law,in-force,issued,reported,2025,constituted,advancing,
+MOZ,general,2,personal data protection bill,tabled,,,,provided,advancing,"tabled, not enacted"
+MRT,general,3,Law No. 2017-020 on personal data protection,in-force,issued,activity,2026-06-30,constituted,,"activity under the law, and no decision"
+MUS,general,5,Data Protection Act 2017,in-force,issued,reported,2024,constituted,advancing,
+MWI,general,3,"Data Protection Act, 2024",in-force,,activity,2026-05-27,constituted,advancing,"activity under the law, and no decision"
+NAM,general,2,data protection law,announced,,,,provided,,"announced, not enacted"
 NER,general,3,Loi n° 2022-59 du 16 décembre 2022 relative à la protection des données à caractère personnel,in-force,,activity,2025,constituted,,"activity under the law, and no decision"
 NGA,general,4,Nigeria Data Protection Act 2023,in-force,issued,reported,2024-06-11,constituted,advancing,no published year of figures inside two years
-RWA,general,3,Data Protection Act,in-force,,activity,2026-01-26,constituted,advancing,"activity under the law, and no decision"
-SDN,general,2,Law on Regulating Data and Artificial Intelligence 2026 (draft),announced,,,,,,"announced, not enacted"
-SEN,general,4,Loi n° 2008-12 du 25 janvier 2008,in-force,,reported,2026-06,constituted,advancing,no regulation under the law on record
-SLE,general,2,Data Protection and Right to Access Information Bill,drafting,,,,provided,advancing,"drafting, not enacted"
+RWA,general,3,Law No. 058/2021,in-force,,activity,2026-01-26,constituted,advancing,"activity under the law, and no decision"
+SDN,general,2,Law on Regulating Data and Artificial Intelligence 2026 (draft),announced,,,,none,,"announced, not enacted"
+SEN,general,5,Loi n° 2008-12 du 25 janvier 2008,in-force,,reported,2026-06,constituted,advancing,
+SLE,general,2,data protection framework (Bill),drafting,,,,provided,advancing,"drafting, not enacted"
 SOM,general,3,Data Protection Act,in-force,issued,activity,2026-06-02,constituted,advancing,"activity under the law, and no decision"
-SSD,general,2,"Data Protection Bill, 2025",drafting,,,,provided,advancing,"drafting, not enacted"
-STP,general,3,Personal Data Guarantee and Protection Law (Law 03/2016),in-force,,none,2024,constituted,,no dated decision under the law inside three years
+SSD,general,2,Data Protection Bill,announced,,,,provided,advancing,"announced, not enacted"
+STP,general,3,Personal Data Guarantee and Protection Law (Law 03/2016),in-force,,activity,2025-04-22,constituted,,"activity under the law, and no decision"
 SWZ,general,4,"Data Protection Act, 2022",in-force,issued,applied,2025-03,constituted,,no published year of figures inside two years
 SYC,general,3,"Data Protection Act, 2023",in-force,,activity,2026-02-06,constituted,advancing,"activity under the law, and no decision"
-TCD,general,2,Digital Code,drafting,,,,,,"drafting, not enacted"
-TGO,general,3,Loi n°2019-014 relative à la protection des données à caractère personnel,in-force,,activity,2026-09-30,constituted,advancing,"activity under the law, and no decision"
-TUN,general,3,Loi organique n° 63 de 2004,in-force,,none,2026-10-03,provided,advancing,no dated decision under the law inside three years
+TCD,general,3,Loi n°007/PR/2015,in-force,,,,provided,,no dated decision under the law inside three years
+TGO,general,3,Loi n° 2019-014 du 29 octobre 2019,in-force,,activity,2026-10-23,constituted,advancing,"activity under the law, and no decision"
+TUN,general,3,Organic Law No. 2004-63,in-force,,none,2026-10-03,constituted,advancing,no dated decision under the law inside three years
 TZA,general,4,"Personal Data Protection Act, Cap 44",in-force,issued,applied,2025-08-19,constituted,advancing,no published year of figures inside two years
-UGA,general,4,Data Protection and Privacy Act,in-force,issued,applied,2026-07-17,constituted,advancing,no published year of figures inside two years
-ZAF,general,5,"Protection of Personal Information Act, 2013 (POPIA)",in-force,issued,reported,2025-03-31,constituted,under revision,
+UGA,general,4,"Data Protection and Privacy Act, 2019",in-force,issued,applied,2026-07-17,constituted,advancing,no published year of figures inside two years
+ZAF,general,5,POPIA,in-force,issued,reported,2025-03-31,constituted,,
 ZMB,general,3,Data Protection Act No. 3 of 2021,in-force,,activity,2025-04-30,constituted,advancing,"activity under the law, and no decision"
-ZWE,general,3,Cyber and Data Protection Act [Chapter 12:07],in-force,issued,activity,2026-09-23,constituted,advancing,"activity under the law, and no decision"
+ZWE,general,4,Cyber and Data Protection Act,in-force,issued,applied,2025-10,constituted,advancing,no published year of figures inside two years

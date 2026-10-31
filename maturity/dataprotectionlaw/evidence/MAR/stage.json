@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "general",
-      "stage": "4",
+      "stage": "5",
       "authority": "constituted",
       "standing": "in-force",
       "regulations": "",
@@ -13,8 +13,8 @@
       "flags": "under revision;advancing",
       "stage_sources": "MAR-001;MAR-004;MAR-040;MAR-041;MAR-002",
       "gaps": "No regulation under Law 09-08 has been found either way; the CNDP's model-form deliberations are its own and are not read as regulations. No sanction by the CNDP on a named controller is held; the 2024 count is of court cases.",
-      "note": "Law 09-08 is in force and the Supreme Council of the Judicial Power counts 80 criminal data protection cases decided in 2024 (MAR-040), with a named 2024 conviction (MAR-041), so stage 4. Stage 5 needs regulations issued, which no row shows.",
-      "as_at": "2026-10-30"
+      "note": "Restaged under Bill's ruling of 2026-10-31 (stage 5 needs no regulation): Law 09-08 is in force and the Supreme Council of the Judicial Power counts 80 criminal data protection cases decided in 2024 (MAR-040), with a named 2024 conviction (MAR-041), a reported year inside two years, so stage 5. No regulation under the law is held, which no longer bars it.",
+      "as_at": "2026-10-31"
     }
   ]
 }

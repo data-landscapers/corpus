@@ -32,3 +32,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-30,MAR,gov.legislate--data-protection-legislation,fact,3,4,MAR-001;MAR-004;MAR-040;MAR-041;MAR-002,"Courts decided 80 criminal data protection cases in 2024, with a named Nador conviction; stage 4, not 5 for no regulation"
 2026-10-30,ZWE,gov.legislate--data-protection-legislation,fact,3,4,ZWE-014;ZWE-019;ZWE-023;ZWE-069,"POTRAZ resolved 15 complaints by October 2025, a count without its year read as applied; stage 4"
 2026-10-30,GAB,gov.legislate--data-protection-legislation,fact,4,4,GAB-012;GAB-013;GAB-014;GAB-016,"APDPVP 2025 review counts 12 sanctions for the year; application reported, stage 4 holds for no regulation"
+2026-10-31,GAB,gov.legislate--data-protection-legislation,ladder,4,5,GAB-012;GAB-013;GAB-014;GAB-016,"Stage 5 needs no regulation (Bill, messages-for-bill 55, 2026-10-31)"
+2026-10-31,MAR,gov.legislate--data-protection-legislation,ladder,4,5,MAR-001;MAR-004;MAR-040;MAR-041;MAR-002,"Stage 5 needs no regulation (Bill, messages-for-bill 55, 2026-10-31)"
+2026-10-31,SEN,gov.legislate--data-protection-legislation,ladder,4,5,SEN-003;SEN-001;SEN-002,"Stage 5 needs no regulation (Bill, messages-for-bill 55, 2026-10-31)"

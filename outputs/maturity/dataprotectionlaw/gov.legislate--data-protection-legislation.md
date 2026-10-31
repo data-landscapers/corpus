@@ -14,14 +14,14 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 | 2 Preparing | `announced`, `drafting`, `tabled` or `passed` | Any | Any |
 | 3 Establishing | `enacted`, `transition` or `in-force` | Any | Any |
 | 4 Operating | `in-force` | Any | `applied` or `reported`, dated within three years |
-| 5 Leading | `in-force` | `issued` | `reported`, for a year ending within two years |
+| 5 Leading | `in-force` | Any | `reported`, for a year ending within two years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 12 |
+| 5 Leading | 8 |
+| 4 Operating | 9 |
 | 3 Established | 29 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
@@ -53,6 +53,15 @@ Benin's data protection law is in its 2018 digital code and was applied in 2025;
 - The decree of 16 February 2022 is taken under the code du numérique, law n° 2017-20 of 20 April 2018 as amended by law n° 2020-35 of 6 January 2021, which it cites as its legal basis and applies to the processing it authorises ([source, 2022-02-16](https://sgg.gouv.bj/doc/decret-2022-107/)).
 - Seventeen officers of Benin's data protection authority (APDP) were sworn in before the Court of First Instance of Cotonou on 14 September 2026 under Article 468(2) of the Digital Code, on the instruction of the APDP president ([source, 2026-09-14](https://techreviewafrica.com/news/7230/17-apdp-benin-officers-sworn-in-to-strengthen-commitment-to-personal-data-protection)).
 
+### Gabon: 5 Leading
+
+Gabon's 2023 data protection law is in force and its authority reported 12 sanctions in 2025.
+
+- The APDPVP plenary, by deliberation n°073 of 25 April 2024 on a complaint of 27 November 2023, imposed a pecuniary sanction of 90,000,000 FCFA on Citibank Gabon S.A. for diverting employee data from its declared purpose and processing ethnic-origin data, with a two-month formal notice ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
+- The deliberation applies loi n°025/2023 of 12 July 2023, amending loi n°001/2011 on personal data protection, as law in force, citing its articles 43, 75, 203 and 204 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
+- The APDPVP sat in plenary on 25 April 2024 with a named president, vice-president and six other permanent commissioners, appointed by a Council of Ministers decision of 12 July 2023 and with a bureau elected on 6 September 2023 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
+- Gabonreview reports the APDPVP president's 2025 tally of 12 administrative and pecuniary sanctions on non-compliant controllers, alongside 178 conformity declarations and 16 opinions on draft government texts ([source, 2025](https://www.gabonreview.com/journee-mondiale-de-la-protection-des-donnees-le-gabon-affirme-sa-strategie-face-aux-defis-du-numerique/)).
+
 ### Mali: 5 Leading
 
 Mali has a 2013 data protection law, applied by its authority with fines and complaints handled in 2025; no source found gives its commencement date.
@@ -74,6 +83,28 @@ Mauritius has the Data Protection Act 2017, and its office reported complaints c
 - The Data Protection Office reports on its enforcement in 2024 of the Data Protection Act 2017, citing its sections on complaints, transfers, registration, certification and appeals; the report is dated 2024 by year only ([source, 2024](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
 - Registration of controllers and processors is carried out under the Data Protection (Fees) Regulations 2020; the report says registrations since 01 August 2020 reached 21,219 controllers and 1,157 processors by 31 December 2024 ([source, 2020](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
 - The Data Protection Office reports for January to December 2024: 179 new complaints (158 on CCTV), 39 complaints closed, 105 personal data breaches notified, 112 cross-border transfers authorised and 12 rejected under section 36, 10 impact assessments received, and four compliance inspections ([source, 2024](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
+
+### Morocco: 5 Leading
+
+Morocco's 2009 data protection law is in force and courts decided 80 criminal data protection cases in 2024.
+
+*Under revision; Advancing.*
+
+- WalawPress reports the CNDP communiqué of 2026-08-28 restating obligations under Law 09-08 'en vigueur', including prior notification (article 12) and explicit consent for political-opinion data (article 21) ([source, 2026-08](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
+- Maroc.ma/MAP reports the CNDP calling on parties to comply with Law 09-08 'dispositions légales en vigueur', citing articles 3, 10, 12, 15, 18, 21, 23, 25, 43 and 44 ([source, 2026-08-29](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere)).
+- The Supreme Council of the Judicial Power said courts handled 153 personal data cases in 2024, 109 of them in criminal courts with 80 decided ([source, 2024](https://madar21.com/315419.html)).
+- The Nador first instance court convicted a person in 2024 for placing a complainant's photo and name on a student group statement without consent ([source, 2024](https://madar21.com/315419.html)).
+- The CNDP issued a communiqué dated 2026-08-28 to political parties and voters on their duties under Law 09-08 for the 23 September 2026 legislative elections, and opened a 3020 information line ([source, 2026-08-28](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
+
+### Senegal: 5 Leading
+
+Senegal's 2008 data protection law is in force and its authority publishes quarterly counts of decisions, most recently April to June 2026.
+
+*Under revision; Advancing.*
+
+- The CDP issued receipts, authorisations and a rejection under law 2008-12 in April-June 2026, so the law is applied and in force ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
+- The CDP published its quarterly opinion for April-June 2026: 195 files handled (154 declarations, 41 authorisation requests), 153 declaration receipts and 39 authorisations issued, 2 decisions deferred, 1 processing rejected, 2 controllers heard, and 8 complaints and 1 report received and handled ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
+- The CDP, created by law 2008-12, is described as the acting independent administrative authority, holding two plenary sessions in April-June 2026 and issuing decisions ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
 
 ### South Africa: 5 Leading
 
@@ -117,15 +148,6 @@ Eswatini has a Data Protection Act of 2022, applied through enforcement notices 
 - The Authority lists enforcement notices under section 41 of the Act issued in June 2024 to MTN Eswatini and to Liberty Life Swaziland Limited ([source, 2024-06](https://www.edpa.org.sz/enforcement.html)).
 - EDPA Notice No. 1/2024, a final decision on registration of data controllers and processors, was issued in February 2024 under the Act and took effect on 1 March 2024 ([source, 2024-02](https://edpa.org.sz/assets/documents/EDPA%20NOTICE%201%202024%20-%20FINAL%20DECISION%20ON%20THE%20REGISTRATION%20OF%20DATA%20CONTROLLERS%20AND%20DATA%20PROCESSORS.pdf)).
 
-### Gabon: 4 Operating
-
-Gabon's 2023 data protection law is in force and its authority imposed 12 sanctions in 2025; no source found reports regulations under it.
-
-- The APDPVP plenary, by deliberation n°073 of 25 April 2024 on a complaint of 27 November 2023, imposed a pecuniary sanction of 90,000,000 FCFA on Citibank Gabon S.A. for diverting employee data from its declared purpose and processing ethnic-origin data, with a two-month formal notice ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
-- The deliberation applies loi n°025/2023 of 12 July 2023, amending loi n°001/2011 on personal data protection, as law in force, citing its articles 43, 75, 203 and 204 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
-- The APDPVP sat in plenary on 25 April 2024 with a named president, vice-president and six other permanent commissioners, appointed by a Council of Ministers decision of 12 July 2023 and with a bureau elected on 6 September 2023 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
-- Gabonreview reports the APDPVP president's 2025 tally of 12 administrative and pecuniary sanctions on non-compliant controllers, alongside 178 conformity declarations and 16 opinions on draft government texts ([source, 2025](https://www.gabonreview.com/journee-mondiale-de-la-protection-des-donnees-le-gabon-affirme-sa-strategie-face-aux-defis-du-numerique/)).
-
 ### Ghana: 4 Operating
 
 Ghana's 2012 Data Protection Act was applied by a court in 2024 and against named companies in 2026; no source found reports regulations under it.
@@ -152,18 +174,6 @@ Kenya's 2019 Data Protection Act is in force and its commissioner has fined busi
 - The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
 - TechTrends KE reports the Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, with inaugural commissioner Immaculate Kassait in office since 2020 and a Senior Deputy Data Commissioner serving; the Public Service Commission shortlisted 13 of 152 applicants to succeed her ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
 
-### Morocco: 4 Operating
-
-Morocco's 2009 data protection law is in force and courts decided 80 criminal data protection cases in 2024; no source found reports regulations under it.
-
-*Under revision; Advancing.*
-
-- WalawPress reports the CNDP communiqué of 2026-08-28 restating obligations under Law 09-08 'en vigueur', including prior notification (article 12) and explicit consent for political-opinion data (article 21) ([source, 2026-08](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
-- Maroc.ma/MAP reports the CNDP calling on parties to comply with Law 09-08 'dispositions légales en vigueur', citing articles 3, 10, 12, 15, 18, 21, 23, 25, 43 and 44 ([source, 2026-08-29](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere)).
-- The Supreme Council of the Judicial Power said courts handled 153 personal data cases in 2024, 109 of them in criminal courts with 80 decided ([source, 2024](https://madar21.com/315419.html)).
-- The Nador first instance court convicted a person in 2024 for placing a complainant's photo and name on a student group statement without consent ([source, 2024](https://madar21.com/315419.html)).
-- The CNDP issued a communiqué dated 2026-08-28 to political parties and voters on their duties under Law 09-08 for the 23 September 2026 legislative elections, and opened a 3020 information line ([source, 2026-08-28](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
-
 ### Nigeria: 4 Operating
 
 Nigeria's Data Protection Act of 2023 is in force and applied through fines and court orders; no source found counts decisions since mid-2024.
@@ -180,16 +190,6 @@ Nigeria's Data Protection Act of 2023 is in force and applied through fines and 
 - The NDPC fined Multichoice Nigeria N766,242,500 for violating the NDP Act after an investigation begun in Q2 2024 into subscriber privacy and cross-border transfers ([source, 2025-07-06](https://www.rapdp.org/index.php/en/node/222)).
 - At a press session on 11 June 2024, the NDPC National Commissioner said the Commission had earned N400 million in remediation fees from sanctions on seven firms for data breaches, with four major investigations finalised, out of over 1,000 breach reports received since it started about a year earlier ([source, 2024-06-11](https://nairametrics.com/2024/06/12/seven-firms-pay-n400-million-to-ndpc-as-sanction-for-data-breach/)).
 - The Nigeria Data Protection Commission is reported as having issued a Final Order and as party to a court-adopted settlement with Meta, so it is acting; the dates are not given, so the report date 2026-09-28 is used ([source, 2026-09-28](https://www.premiumtimesng.com/news/top-news/913097-court-dismisses-25-million-privacy-suit-against-meta-in-imo.html)).
-
-### Senegal: 4 Operating
-
-Senegal's 2008 data protection law is in force and applied, with figures published for April to June 2026; whether regulations exist under it is unknown.
-
-*Under revision; Advancing.*
-
-- The CDP issued receipts, authorisations and a rejection under law 2008-12 in April-June 2026, so the law is applied and in force ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
-- The CDP published its quarterly opinion for April-June 2026: 195 files handled (154 declarations, 41 authorisation requests), 153 declaration receipts and 39 authorisations issued, 2 decisions deferred, 1 processing rejected, 2 controllers heard, and 8 complaints and 1 report received and handled ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
-- The CDP, created by law 2008-12, is described as the acting independent administrative authority, holding two plenary sessions in April-June 2026 and issuing decisions ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
 
 ### Tanzania: 4 Operating
 

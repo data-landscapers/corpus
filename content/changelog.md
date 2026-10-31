@@ -1,5 +1,6 @@
 ## 31 October 2026
 
+- Data protection law's top stage no longer needs regulations under the law, only a published yearly count of its decisions. Gabon, Morocco and Senegal rise from stage 4 to 5.
 - Freedom to discuss policy no longer counts an exam-time internet cut confined to exam buildings, with the rest of the country connected. Algeria moves from stage 1 to no evidence.
 - Control of state data now needs each lower stage shown by its own evidence, so national hosting or a source-code handover no longer counts without a goal or rule on state data. Angola, Comoros, Ghana, Guinea, Mauritania, Mauritius and Malawi drop from stage 4 to 2; Cabo Verde, Eswatini and Uganda from 4, and Eritrea from 5, are unplaced.
 

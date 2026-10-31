@@ -1,6 +1,20 @@
 {
   "iso3": "SEN",
   "cells": [
-    {"sub_indicator": "general", "stage": "4", "authority": "constituted", "standing": "in-force", "regulations": "", "application": "reported", "last12": "advancing", "cap": "", "flags": "under revision;advancing", "stage_sources": "SEN-003;SEN-001;SEN-002", "gaps": "No row states whether implementing regulations under law 2008-12 are issued or not; regulations is empty. A replacement bill is reported as drafting or in the circuit, with no stage given.", "note": "Law 2008-12 is in force (SEN-003, dated April-June 2026) and SEN-001 reports a quarter's counts of files, authorisations and complaints handled (period ending 2026-06), so stage 4 is met. Stage 5 needs regulations issued, which no row shows; SEN-014 (named controller notice, 2024-04-20) is applied and is a second stage 4 fact."}
+    {
+      "sub_indicator": "general",
+      "stage": "5",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "",
+      "application": "reported",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "under revision;advancing",
+      "stage_sources": "SEN-003;SEN-001;SEN-002",
+      "gaps": "No row states whether implementing regulations under law 2008-12 are issued or not; regulations is empty. A replacement bill is reported as drafting or in the circuit, with no stage given.",
+      "note": "Restaged under Bill's ruling of 2026-10-31 (stage 5 needs no regulation): Law 2008-12 is in force (SEN-003) and the CDP's quarterly reports count files, authorisations and complaints handled (SEN-001, April-June 2026; SEN-021, fourth quarter 2025), so stage 5; SEN-014 (named controller notice, 2024-04-20) is applied. Whether regulations exist under the law no longer bars it.",
+      "as_at": "2026-10-31"
+    }
   ]
 }

@@ -76,7 +76,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 | 2 Preparing | `announced`, `drafting`, `tabled` or `passed` | Any | Any |
 | 3 Establishing | `enacted`, `transition` or `in-force` | Any | Any |
 | 4 Operating | `in-force` | Any | `applied` or `reported`, dated within three years |
-| 5 Leading | `in-force` | `issued` | `reported`, for a year ending within two years |
+| 5 Leading | `in-force` | Any | `reported`, for a year ending within two years |
 
 **A noted class never places a country.** A country holding sectoral or constitutional provisions and no general law or bill is unplaced and flagged *sectoral only*, unless a dated source states the absence.
 
@@ -89,6 +89,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 - **The country is placed, not the instrument**: the strongest standing stated is the country's, and authority, regulations and application are the law's, whatever body the source names.
 - **`applied` is an identified decision on one controller's conduct**, named or not. A general deliberation, rule, opinion or authorisation, an investigation opened or a referral is `activity`.
 - **`reported` counts decisions, sanctions or complaints settled**, for a stated period of a quarter or more. Complaints or breaches received are `activity`.
+- **Stage 5 needs no regulation** *(Bill, 2026-10-31, messages-for-bill 55)*: a law that allows enough action without regulations is rewarded. Benin's count of complaints treated is enough for 5, and so are authorisation decisions. GAB, MAR and SEN 4→5.
 
 ## 5. The norm
 
