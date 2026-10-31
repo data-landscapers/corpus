@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "body",
-      "stage": "4",
+      "stage": "5",
       "standing": "constituted",
-      "rulings": "ruled",
+      "rulings": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-013;KEN-007;KEN-016",
-      "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held. A count of 215 determinations runs to March 2025 with no period, and a commentator's 'over 110 decisions in 2025' is not the authority's own figure.",
-      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "KEN-007;KEN-016",
+      "gaps": "No edition of the ODPC bulletin after March 2025 is held; without one the cell returns to 4. A commentator's 'over 110 decisions in 2025' is not the authority's own figure.",
+      "note": "Restaged under Bill's ruling of 2026-10-31: the ODPC's data bulletin, a numbered regular publication (12th edition, March 2025), counts its determinations, penalties and complaints resolved (KEN-007), so stage 5 though the figures are running totals. If no later edition is found, the cell returns to 4.",
+      "as_at": "2026-10-31"
     }
   ]
 }

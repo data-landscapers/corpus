@@ -8,4 +8,4 @@
 
 ***Also on file***. [Data Protection Act, 2019](<https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/>); [Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021](<https://www.the-star.co.ke/news/2026-08-28-odpc-gives-data-handlers-14-days-to-renew-expired-certificates>); [Data Protection Regulations (2021)](<https://www.cadmuscyber.com/public/insight/kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations>).
 
-***Not found***. No count of decisions, fines or complaints settled covers a period ending in the last two years. The 215 determinations carry no period.
+***Not found***. No edition of the bulletin after March 2025. Its 215 determinations are a running total, not a yearly figure.

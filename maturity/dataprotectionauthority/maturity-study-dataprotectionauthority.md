@@ -49,6 +49,7 @@ Asked in order. Each is answered with a date and a link.
 - **An authority whose members have all left and not been replaced is a no to question 2**, from the date a source says so.
 - **A country with a bill and no law is stage 1 only if a source states the absence**; otherwise it has no evidence, and the long summary notes the bill.
 - **Only the authority's own rulings count.** A court's judgment belongs to the law row.
+- **Question 4 is a regular publication of the authority's decisions** *(Bill, 2026-10-31, messages-for-bill 54)*: a numbered bulletin counts even where its figures are running totals, and the cell returns to 4 if no later edition is found. A register listing decisions one by one is not a count; Angola stays at 4.
 - **Questions 1 and 2 have no time limit**: an appointment stands, with its year, until a dated source says the authority has gone. A later source that only describes the law does not undo it.
 - **A statement that there is no authority counts for three years.**
 - **The stage is counted by `scripts/study-ladder-dataprotectionauthority.py`**; what the parent's reading of the ruling facts changed is in `corrections.csv`.

@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "general",
-      "stage": "4",
+      "stage": "5",
       "authority": "constituted",
       "standing": "in-force",
       "regulations": "issued",
@@ -12,9 +12,9 @@
       "cap": "",
       "flags": "advancing",
       "stage_sources": "KEN-022;KEN-002;KEN-004;KEN-015;KEN-018;KEN-001",
-      "gaps": "No count of decisions or sanctions for a stated year: the March 2025 bulletin figures are cumulative, so stage 5 is not met. No commencement date for the Act is given, and the 2026 application facts are activity only.",
-      "note": "In force with a constituted authority and regulations issued, and named sanctions (KEN-015, September 2024) plus a cumulative count to March 2025 (KEN-018) fall within 36 months, so stage 4. Stage 5 needs a count for a stated year ending within 24 months, and none is held. KEN-018 carries the value reported but its count has no stated period, so it is read as applied under D3; the last12 event (KEN-009) is a draft ODPC guidance note, read as advancing.",
-      "as_at": "2026-10-17"
+      "gaps": "No edition of the ODPC bulletin after March 2025 is held; without one the cell returns to 4. No commencement date for the Act is given, and the 2026 application facts are activity only.",
+      "note": "Restaged under Bill's ruling of 2026-10-31 (messages-for-bill 54): in force with a constituted authority, named sanctions (KEN-015, September 2024), and the ODPC's numbered data bulletin counts its determinations and penalties to March 2025 (KEN-018), a regular publication of decisions, so stage 5 though its figures are running totals. If no later edition is found, the cell returns to 4. The last12 event (KEN-009) is a draft ODPC guidance note, read as advancing.",
+      "as_at": "2026-10-31"
     }
   ]
 }

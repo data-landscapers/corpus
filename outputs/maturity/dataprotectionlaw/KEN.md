@@ -14,4 +14,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No count of decisions or sanctions for a single stated year: the figures to March 2025 are cumulative. The date the Act commenced is not given.
+***Not found***. No edition of the bulletin after March 2025, whose figures are running totals. The date the Act commenced is not given.

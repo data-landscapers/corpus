@@ -20,8 +20,8 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 9 |
+| 5 Leading | 6 |
+| 4 Operating | 8 |
 | 3 Established | 21 |
 | 2 Nascent | 10 |
 | 1 Absent | 7 |
@@ -36,6 +36,13 @@ Benin has an authority with a sitting president in 2026, and it published figure
 
 - The APDP's published 2025 report, as relayed by La Nation, gives 907 files examined and 793 validated (606 authorisations, 187 declarations), 782 cases handled by its control and litigation service, 64 inspection missions, 20 complaints treated and 75 compliance certificates issued ([source, 2025](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite)).
 - La Nation reports the APDP held open days at Kandi on 6-7 October 2026, presided by the prefect of Alibori, presenting its missions ([source, 2026-10-06](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-les-populations-de-kandi-sensibilisees-aux-bonnes-pratiques)).
+
+### Kenya: 5 Leading
+
+Kenya's authority, set up in 2020, fines businesses and publishes a regular bulletin counting its decisions, last seen March 2025.
+
+- The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
+- Kenya's Office of the Data Protection Commissioner, headed by Data Commissioner Immaculate Kassait, hosted a Sri Lankan authority delegation for a three-day study visit covering compliance, complaints, investigations and enforcement ([source, 2026-10-14](https://techreviewafrica.com/news/7696/x)).
 
 ### Mali: 5 Leading
 
@@ -105,14 +112,6 @@ Ghana's data protection commission directed named unregistered companies to repo
 - The Data Protection Commission directed named companies including Menkish Impex Ltd, Polytex Ghana Limited and JA Biney Packaging to report to the CID and the Commission and regularise their registration, for operating unregistered or with expired certificates ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
 - Ghana's Data Protection Commission, through its Director of Regulatory and Compliance Quintin Akrobotu, ran compliance checks and a week-long enforcement exercise under Section 81 of the Data Protection Act ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
 - Ghana's Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, said it registered 2,575 data controllers in 2026 and is adding spot checks, inspections and complaint investigations under Act 843 ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
-
-### Kenya: 4 Operating
-
-Kenya has had an authority since 2020 and it has fined businesses; its only published count is a running total, not a yearly figure.
-
-- The update states Kenya's data protection authority had over 110 decisions in 2025 and began 2026 with a firm stance against violations ([source, 2025](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
-- The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
-- Kenya's Office of the Data Protection Commissioner, headed by Data Commissioner Immaculate Kassait, hosted a Sri Lankan authority delegation for a three-day study visit covering compliance, complaints, investigations and enforcement ([source, 2026-10-14](https://techreviewafrica.com/news/7696/x)).
 
 ### Nigeria: 4 Operating
 

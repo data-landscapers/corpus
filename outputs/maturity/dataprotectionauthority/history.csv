@@ -30,3 +30,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-29,TUN,gov.protect--data-protection-authority,review,3,3,TUN-006;TUN-004,"Rebuild: stays 3; the October 2026 standstill report does not say the members have all left, so the 2021 appointment stands; gap reworded, the report being inside the as-at."
 2026-10-30,NAM,gov.protect--data-protection-authority,fact,unplaced,1,NAM-004,"The Namibian, 17 May 2026, states there is no dedicated data protection authority and the bill to create one is not enacted: a dated absence, so stage 1"
 2026-10-30,AGO,gov.protect--data-protection-authority,fact,4,4,AGO-001;AGO-026;AGO-018,"PTI, August 2026, tallies the authority's register of fines by year (three in 2025); a newspaper's count, not the authority's, so stage 4 holds"
+2026-10-31,KEN,gov.protect--data-protection-authority,ladder,4,5,KEN-007;KEN-016,"Regular bulletin counts (Bill, messages-for-bill 54, 2026-10-31)"

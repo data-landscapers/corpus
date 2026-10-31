@@ -9,7 +9,6 @@ UGA,006,rulings,ruled,removed,"a magistrate's conviction, not the authority's ru
 ZAF,006,rulings,ruled,removed,"the authority's court applications refused, not a ruling of its own"
 ZAF,033,rulings,reported,removed,"counts breaches reported to the authority, not its decisions or complaints settled"
 MUS,003,rulings,ruled,removed,"a yearly number quoted with no organisation named and no period stated"
-KEN,007,rulings,reported,revalued: ruled,"a running total to March 2025 with no period stated"
 KEN,013,rulings,reported,revalued: ruled,"a commentator's 'over 110 decisions in 2025', not the authority's published figure"
 NGA,027,rulings,reported,revalued: ruled,"sanctions on seven firms with no period stated"
 BEN,026,rulings,ruled,removed,a fine on an unnamed website operator: no organisation named
@@ -19,3 +18,4 @@ KEN,027,rulings,reported,revalued: ruled,a running total since the Act began wit
 NGA,050,rulings,reported,revalued: ruled,246 investigations concluded with no period stated
 ZWE,022,rulings,reported,removed,"a running total to date, no period and no organisation named, supplied to a third-party scorecard"
 AGO,027,rulings,reported,revalued: ruled,"a newspaper's yearly tally from the authority's register of fines, not a count the authority published"
+KEN,007,rulings,ruled,revalued: reported,"the ODPC bulletin, a regular publication of its decisions; a running total counts (Bill, 2026-10-31, messages-for-bill 54)"

@@ -20,8 +20,8 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 9 |
+| 5 Leading | 9 |
+| 4 Operating | 8 |
 | 3 Established | 29 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
@@ -61,6 +61,19 @@ Gabon's 2023 data protection law is in force and its authority reported 12 sanct
 - The deliberation applies loi n°025/2023 of 12 July 2023, amending loi n°001/2011 on personal data protection, as law in force, citing its articles 43, 75, 203 and 204 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
 - The APDPVP sat in plenary on 25 April 2024 with a named president, vice-president and six other permanent commissioners, appointed by a Council of Ministers decision of 12 July 2023 and with a bureau elected on 6 September 2023 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
 - Gabonreview reports the APDPVP president's 2025 tally of 12 administrative and pecuniary sanctions on non-compliant controllers, alongside 178 conformity declarations and 16 opinions on draft government texts ([source, 2025](https://www.gabonreview.com/journee-mondiale-de-la-protection-des-donnees-le-gabon-affirme-sa-strategie-face-aux-defis-du-numerique/)).
+
+### Kenya: 5 Leading
+
+Kenya's 2019 Data Protection Act is in force; its commissioner fines businesses and publishes a regular bulletin counting decisions.
+
+*Advancing.*
+
+- TechTrendsKE reports organisations in Kenya face growing compliance demands under the Data Protection Act, 2019, which requires those handling personal data to put safeguards in place ([source, 2026-10-15](https://techtrendske.co.ke/2026/10/15/dama-kenya-launch-train-10000-data-professionals/)).
+- TechTrends KE describes the Data Protection Act, 2019 as the framework under which the ODPC regulates the processing of personal information, without giving a commencement date; dated by the article's published date ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
+- The Star reports the Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021 are in force under the Act, setting 24-month registration certificates and making processing on an expired certificate an offence ([source, 2026-08-28](https://www.the-star.co.ke/news/2026-08-28-odpc-gives-data-handlers-14-days-to-renew-expired-certificates)).
+- Cadmus Cyber Solutions states that, as at September 2024, the ODPC had fined at least nine businesses a total of KES 26,275,000 under the Data Protection Act and Regulations, including Oppo Kenya (2022, KES 5m) and SBM Bank (2024, KES 450,000) ([source, 2024-09](https://www.cadmuscyber.com/public/insight/kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations)).
+- The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
+- TechTrends KE reports the Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, with inaugural commissioner Immaculate Kassait in office since 2020 and a Senior Deputy Data Commissioner serving; the Public Service Commission shortlisted 13 of 152 applicants to succeed her ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
 
 ### Mali: 5 Leading
 
@@ -160,19 +173,6 @@ Ghana's 2012 Data Protection Act was applied by a court in 2024 and against name
 - The Data Protection Commission is acting under the Data Protection Act, conducting compliance checks and enforcement, as its Director of Regulatory and Compliance said ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
 - The court found Bolt Holdings OU, a named data processor and controller, in breach of sections 20, 21, 28 and 30 of Act 843 over a driver profile registered with the plaintiff's stolen identity, and awarded GHC1,900,000 compensation under section 43(1) plus GHC20,000 costs ([source, 2024-09-18](https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/)).
 - Circuit Court 2, Adentan, Accra applied the Data Protection Act, 2012 (Act 843) in a judgment of 18 September 2024, treating its sections 17 to 30 and 43 as binding on a data processor ([source, 2024-09-18](https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/)).
-
-### Kenya: 4 Operating
-
-Kenya's 2019 Data Protection Act is in force and its commissioner has fined businesses; no source found gives the number of decisions in a year.
-
-*Advancing.*
-
-- TechTrendsKE reports organisations in Kenya face growing compliance demands under the Data Protection Act, 2019, which requires those handling personal data to put safeguards in place ([source, 2026-10-15](https://techtrendske.co.ke/2026/10/15/dama-kenya-launch-train-10000-data-professionals/)).
-- TechTrends KE describes the Data Protection Act, 2019 as the framework under which the ODPC regulates the processing of personal information, without giving a commencement date; dated by the article's published date ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
-- The Star reports the Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021 are in force under the Act, setting 24-month registration certificates and making processing on an expired certificate an offence ([source, 2026-08-28](https://www.the-star.co.ke/news/2026-08-28-odpc-gives-data-handlers-14-days-to-renew-expired-certificates)).
-- Cadmus Cyber Solutions states that, as at September 2024, the ODPC had fined at least nine businesses a total of KES 26,275,000 under the Data Protection Act and Regulations, including Oppo Kenya (2022, KES 5m) and SBM Bank (2024, KES 450,000) ([source, 2024-09](https://www.cadmuscyber.com/public/insight/kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations)).
-- The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
-- TechTrends KE reports the Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, with inaugural commissioner Immaculate Kassait in office since 2020 and a Senior Deputy Data Commissioner serving; the Public Service Commission shortlisted 13 of 152 applicants to succeed her ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
 
 ### Nigeria: 4 Operating
 
