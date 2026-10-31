@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is AI in administration under way? | A source from the last three years says a government body has tendered, piloted or is testing an AI system for its own work or its services |
 | 2 | Is an AI system in service in administration? | A source from the last three years says a government body uses an AI system in service, such as a chatbot for a public service or AI processing documents |
 | 3 | Is AI in service in several bodies? | A source from the last three years says AI systems are in service in two or more government bodies, or one government-wide AI platform serves several |
-| 4 | Are rules or a register for government AI published? | A source from the last three years says the government has issued rules for its own use or purchase of AI, or published a register of its AI systems |
+| 4 | Are rules or a register for government AI published? | A source from the last three years says the government's authority for cross-government digital governance has issued rules for government bodies' use or purchase of AI, or published a register of the government's AI systems |
 
 ## 3. The ladders
 
@@ -44,6 +44,8 @@ Asked in order. Each is answered with a date and a link.
 | 3 In service | Yes to 2 |
 | 4 Several bodies | Yes to 3 |
 | 5 Rules or register | Yes to 4 |
+
+**Question 4 is the central authority's** *(Bill, 2026-10-31, messages-for-bill 57)*: rules issued by one public body for its own AI use, such as the Bank of Tanzania's, place nothing; TZA stays at 4.
 
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `use` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `bodies` (`several`) for 3 and `rules` (`rules`) for 4.
 
