@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: XSA
 ledger_rows: 16
 not_held: 2
-record: b48cdbf4f830
+record: 41245029b609
 ---
 
 # News, Sep – Oct 2026
@@ -196,7 +196,7 @@ Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to 
 
 **[UbuntuNet Connect 2026: Shaping Digital Horizons](https://www.eeas.europa.eu/delegations/malawi/ubuntunet-connect-2026-shaping-digital-horizons_en)** — European Union Delegation to Malawi, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
-EU at UbuntuNet Alliance's 20th-year conference, Lilongwe 29-30 Oct; AfricaConnect: 3,000+ institutions, 9m users.
+The EU took part in UbuntuNet Connect 2026 in Lilongwe on 29 and 30 October, marking the UbuntuNet Alliance's 20th year. The EU says AfricaConnect has connected over 3,000 institutions and reached over 9 million students and researchers. It also funds Malawi work on digital identity, governance, skills and ICT regulation.
 
 </div>
 

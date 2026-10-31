@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: XAF
 ledger_rows: 133
 not_held: 3
-record: 3a74f9db54de
+record: a66421ce2744
 ---
 
 # News, Sep – Oct 2026
@@ -762,7 +762,7 @@ Summarised under [Standards](#standards).
 
 **[Update of PDP (AFPUB-2026-GEN-005-DRAFT01, version 4.0)](https://afrinic.net/afpub-2026-gen-005-draft01.html)** — AFRINIC, 14 October 2026
 
-Proposal text: rough-consensus definition, 8-week list discussion, 4-week impact analysis, 6-month version expiry.
+Jordi Palet Martinez of The IPv6 Company submitted version 4.0 of a proposal to update AFRINIC's policy development process on 14 October 2026. It would define rough consensus, require eight weeks of mailing-list discussion and an impact analysis within four weeks, and expire each version after six months. The proposal is under discussion.
 
 </div>
 
@@ -770,7 +770,7 @@ Proposal text: rough-consensus definition, 8-week list discussion, 4-week impact
 
 **[AFRINIC's Policy Draft Has More Clocks Than a Station and No Wall Chart](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-pdp-clock-sequence)** — BTW Media, 27 October 2026
 
-GEN-005 v4, submitted 14 Oct 2026: eight-week list discussion, six-month version expiry; sequence left unclear.
+BTW Media reviewed version 4 of AFRINIC's proposal to update its policy development process, submitted on 14 October 2026. It sets separate deadlines for impact analysis, list discussion, the chair's decision, Last Call and expiry. The article says the draft does not state how the decision window and Last Call fit together.
 
 </div>
 
@@ -1040,7 +1040,7 @@ The African Tax Administration Forum and Development Gateway launched a 12-month
 
 **[Декларация о сотрудничестве в области гражданского применения технологий искусственного интеллекта третьего саммита Россия – Африка](http://kremlin.ru/supplement/6589)** — President of Russia (Kremlin), 29 October 2026
 
-18-point summit text: sovereign AI regulation, equal access to data and compute, AI-content watermarking; civil AI only.
+Russia and African states adopted an 18-point declaration on civil uses of AI at the third Russia–Africa Summit in Moscow on 29 October 2026. It affirms each state's right to set its own AI rules and calls for non-discriminatory access to data and compute. It also calls for common rules on labelling AI-generated content, and excludes military AI.
 
 </div>
 
@@ -1910,7 +1910,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[South Africa Leads Sub-Saharan Africa’s 13.4% Crypto Growth](https://www.chainalysis.com/blog/sub-saharan-africa-crypto-adoption-2026/)** — Chainalysis, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
-SSA crypto economy USD 101bn Jul 2025–Jun 2026; Nigeria USD 38.1bn, down 3%; P2P stablecoins USD 14.6bn.
+Chainalysis reported on 29 October 2026 that Sub-Saharan Africa's crypto economy grew 13.4% to USD 101 billion between July 2025 and June 2026. South Africa's grew 52% to USD 39.3 billion, and Nigeria recorded USD 38.1 billion, down 3%. The two countries account for more than three-quarters of regional activity.
 
 </div>
 
@@ -2398,7 +2398,7 @@ The AU Commission and Russia signed a non-binding Action Plan for 2027-2029 in M
 
 **[План действий Форума партнерства Россия – Африка на 2027–2029 годы](http://kremlin.ru/supplement/6590)** — President of Russia (Kremlin), 29 October 2026
 
-236-paragraph Forum plan: data protection, AI programme, data centres, sovereign messengers, internet-access rules.
+Russia and African states adopted the Russia–Africa Partnership Forum Action Plan for 2027–2029 at the third Russia–Africa Summit in Moscow on 29 October 2026. Its ICT and security chapters cover personal and biometric data protection, an AI capacity programme, compute and data-centre infrastructure, and sovereign communications platforms. The plan states what the parties intend to do.
 
 </div>
 

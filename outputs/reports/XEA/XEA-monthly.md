@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: XEA
 ledger_rows: 25
 not_held: 0
-record: d0ec6b309f4f
+record: 4a96fea460d8
 ---
 
 # News, Sep – Oct 2026
@@ -216,7 +216,7 @@ The East African Community, the Inter-University Council for East Africa and the
 
 **[EAC states pursue unified AI strategy](https://www.itweb.africa/article/eac-states-pursue-unified-ai-strategy/raYAyMor6Jr7J38N)** — ITWeb Africa, 30 October 2026
 
-21st ESTCS Sectoral Council takes up EAC AI Strategy after national consultations and Kampala validation.
+The 21st EAC Sectoral Council on Education, Science, Technology, Culture and Sports, meeting in Uganda, took up the draft EAC AI Strategy. The strategy has been through national consultations in all partner states and a regional validation in Kampala in 2026. No council decision on it has been reported.
 
 </div>
 
@@ -264,7 +264,7 @@ The African Development Bank built a digital intelligence platform using Ookla s
 
 **[UbuntuNet Connect 2026: Shaping Digital Horizons](https://www.eeas.europa.eu/delegations/malawi/ubuntunet-connect-2026-shaping-digital-horizons_en)** — European Union Delegation to Malawi, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
-EU at UbuntuNet Alliance's 20th-year conference, Lilongwe 29-30 Oct; AfricaConnect: 3,000+ institutions, 9m users.
+The EU took part in UbuntuNet Connect 2026 in Lilongwe on 29 and 30 October, marking the UbuntuNet Alliance's 20th year. The EU says AfricaConnect has connected over 3,000 institutions and reached over 9 million students and researchers. It also funds Malawi work on digital identity, governance, skills and ICT regulation.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+compiled: 2026-10-31
+period: 2026-09-01 to 2026-10-31
 place: XWA
 ledger_rows: 38
 not_held: 1
-record: f0527d534a5a
+record: 095603c3f597
 ---
 
 # News, Sep – Oct 2026
@@ -774,7 +774,7 @@ The Economic Community of West African States opened the second edition of its S
 
 **[Accra Welcomes the Second Cohort of the COYWA Programme to Strengthen the Digital and Financial Skills of Young People and Women Entrepreneurs](https://www.ecowas.int/accra-welcomes-the-second-cohort-of-the-coywa-programme-to-strengthen-the-digital-and-financial-skills-of-young-people-and-women-entrepreneurs/)** — ECOWAS Commission, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-AUDA-NEPAD and AECID programme; Accra session 26-30 Oct 2026 on digital tools, online security and AI use.
+ECOWAS, AUDA-NEPAD and the Spanish development agency AECID held the second COYWA training session in Accra from 26 to 30 October 2026. Young and women entrepreneurs were trained in digital tools, online security, financial skills and the use of AI. The session followed an online phase that began on 23 September.
 
 </div>
 
