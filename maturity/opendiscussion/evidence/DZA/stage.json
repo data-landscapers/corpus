@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "discussion",
-      "stage": "1",
+      "stage": "no evidence",
       "debate": "",
-      "connection": "cut",
+      "connection": "",
       "penalty": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-001",
-      "gaps": "No source found says government policy is criticised in public inside the country, or that anyone was punished for what they said.",
-      "note": "Access Now says Algeria kept its exam shutdown measures inside exam centres from 7 June 2026, a cut inside the twelve months, which places the country at stage 1 whatever else is held.",
-      "as_at": "2026-10-29"
+      "stage_sources": "",
+      "gaps": "Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.",
+      "note": "Reassessed under Bill's ruling of 2026-10-31: the June 2026 exam measures were confined to exam centres with the rest of the country connected (DZA-001), which is not a cut, so nothing places the country.",
+      "as_at": "2026-10-31"
     }
   ]
 }

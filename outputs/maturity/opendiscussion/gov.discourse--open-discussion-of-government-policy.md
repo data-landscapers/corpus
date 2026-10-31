@@ -24,9 +24,9 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | 4 Operating | 2 |
 | 3 Established | 0 |
 | 2 Nascent | 25 |
-| 1 Absent | 15 |
+| 1 Absent | 14 |
 | Unplaced | 7 |
-| No evidence | 5 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -215,12 +215,6 @@ Journalists were reportedly arrested on cyberbullying charges in 2026 and the da
 - MAZ's coordinator says four journalists were reportedly arrested in 2026 on cyberbullying charges over stories they wrote ([source, 2026](https://hanyani.com/is-the-data-protection-act-meant-to-protect-citizens-or-censor-freedom-of-expression/)).
 - Amnesty International says Bulawayo24 journalist Gideon Madzikatidze has been in custody since 18 February 2026, charged with cyberbullying and broadcasting without a licence, after publishing a story alleging corruption involving a waste management company ([source, 2026-02-18](https://www.amnesty.org/en/latest/news/2026/05/east-and-southern-africa-media-freedom-under-attack-amid-prevailing-impunity/)).
 
-### Algeria: 1 Absent
-
-Algeria confined its exam internet shutdowns to exam centres in June 2026; no source found says whether policy is criticised in public.
-
-- Access Now says that from the start of the Baccalaureate on 7 June 2026 Algeria confined its exam shutdown measures to the inside of exam centres, as the Education Minister Mohamed Seghir Saadaoui explained, leaving the rest of the country connected ([source, 2026-06-07](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)).
-
 ### Cameroon: 1 Absent
 
 In October 2025 Cameroon restricted internet access during its presidential election; no source found says who ordered the cuts and when they ended.
@@ -353,6 +347,12 @@ Not established: No source dated in the last three years says a newspaper, broad
 Access Now reports 2025 protest throttling in Togo, but not where, who ordered it or when it ended, so no stage is set.
 
 Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
+
+### Algeria: No evidence
+
+Algeria confined its exam internet measures to exam centres in 2026, which is not a cut; no stage is set.
+
+Not established: Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.
 
 ### Central African Republic: No evidence
 

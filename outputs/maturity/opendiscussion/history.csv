@@ -34,3 +34,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-29,TUN,gov.discourse--open-discussion-of-government-policy,fact,2,1,TUN-012,"Access Now, citing OONI, says Tunisia imposed messaging-app disruptions during both 2026 Baccalaureate sessions (TUN-012); a cut inside the twelve months moves it to stage 1."
 2026-10-30,GNQ,gov.discourse--open-discussion-of-government-policy,fact,unplaced,1,GNQ-004;GNQ-003,"Access Now / Ambo Legadu: government-attributed internet and phone blackout on Annobon since July 2024, still in force October 2026; a cut inside the twelve months"
 2026-10-30,ETH,gov.discourse--open-discussion-of-government-policy,fact,unplaced,unplaced,,"Access Now, October 2026: new internet shutdowns in Tigray, no one named as ordering them; places nothing, stays unplaced"
+2026-10-31,DZA,gov.discourse--open-discussion-of-government-policy,ladder,1,no evidence,,"Exam-building cut is not a cut (Bill, messages-for-bill 52, 2026-10-31)"

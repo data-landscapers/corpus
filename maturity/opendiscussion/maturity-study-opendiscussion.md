@@ -52,6 +52,7 @@ Asked in order. Each is answered with a date and a link.
 - **A block still in force inside the twelve months counts, wherever the act of blocking fell** *(settled as worded, Bill, 2026-10-23)*.
 - **A cut inside the twelve months places a country at stage 1 whatever else is held.** The row as it stands puts Uganda and Tanzania at stage 2.
 - **A cut in one province, a slowed service, and a cut for school examinations are cuts.**
+- **A cut confined to exam buildings, the rest of the country connected, is not a cut** *(Bill, 2026-10-31, messages-for-bill 52)*.
 - **A no to question 2 stops the count whatever comes after it.** A later yes answers an earlier question nothing held answers, and never one a dated arrest has answered no.
 - **Cuts and punishments count for twelve months; every other answer for three years.**
 - **A cut or a punishment dated only to a year that began before the twelve months places nothing**: the year does not show it inside them. *(Added in the run.)*
