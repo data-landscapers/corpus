@@ -1,16 +1,17 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "cover": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-001;TZA-005",
-   "gaps": "No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "cover": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-001;TZA-005",
+      "gaps": "No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
+      "note": "Rebuild 2026-10-31: The 1986 Act is in force (TZA-001, TZA-005); the infant registration bill of January 2026 neither raises nor lowers it. Stage 3 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

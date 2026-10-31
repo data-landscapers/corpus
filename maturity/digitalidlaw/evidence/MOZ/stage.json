@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "MOZ-001",
       "gaps": "No source found says a national identity law is in force.",
-      "note": "Counted from the four questions by study-ladder-digitalidlaw.py.",
-      "as_at": "2026-10-13"
+      "note": "Rebuild 2026-10-31: The only row is a bill passed at first reading in March 2022 (MOZ-001); its age does not lower it, since stage 1 needs a dated statement of absence. Stage 2 holds.",
+      "as_at": "2026-10-31"
     }
   ]
 }

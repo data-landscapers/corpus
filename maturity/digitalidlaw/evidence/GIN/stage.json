@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "GIN-006;GIN-005;GIN-001",
       "gaps": "Nothing on the four questions.",
-      "note": "Decree D/2025/052 of 14 April 2025, in effect on signature, applies Law L/2023/019/CNT and sets up a biometric register with a personal identification number required for any service, so the law covers digital identity and rules are made under it.",
-      "as_at": "2026-10-23"
+      "note": "Rebuild 2026-10-31: Decree D/2025/052 of 14 April 2025 applies the 2023 identification law and sets up a biometric register with an identification number (GIN-005, GIN-006). Stage 5 holds.",
+      "as_at": "2026-10-31"
     }
   ]
 }

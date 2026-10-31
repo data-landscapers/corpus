@@ -1,16 +1,17 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "cover": "digital",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-002;DJI-005;DJI-008",
-   "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "cover": "digital",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-002;DJI-005;DJI-008",
+      "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
+      "note": "Rebuild 2026-10-31: Law 39/AN/19 creates a unique NNI and a biometric register (DJI-005); its decrees of 2020 fall outside three years. Stage 4 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

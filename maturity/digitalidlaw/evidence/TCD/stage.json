@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "TCD-002;TCD-001",
       "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
-      "note": "Counted from the four questions by study-ladder-digitalidlaw.py.",
-      "as_at": "2026-10-13"
+      "note": "Rebuild 2026-10-31: Ordinance 002/PR/2020, ratified by law in May 2020, sets up a biometric register and a unique NNI (TCD-002); no rule made under it is held. Stage 4 holds.",
+      "as_at": "2026-10-31"
     }
   ]
 }

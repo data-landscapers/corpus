@@ -1,16 +1,17 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "cover": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-010;GHA-012;GHA-015;GHA-009",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "cover": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-010;GHA-012;GHA-015;GHA-009",
+      "gaps": "Nothing on the four questions.",
+      "note": "Rebuild 2026-10-31: L.I. 2523, gazetted 27 March 2026 under the 2008 Act, requires real-time biometric checks against the register (GHA-012, GHA-015), so questions 3 and 4 are yes. Stage 5 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

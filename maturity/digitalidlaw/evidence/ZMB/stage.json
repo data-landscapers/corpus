@@ -1,16 +1,17 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "cover": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001",
-   "gaps": "No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "cover": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001",
+      "gaps": "No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
+      "note": "Rebuild 2026-10-31: The National Registration Act is in force with 2019 regulations under it (ZMB-001); fingerprint capture on application does not show a digital register, as for Botswana. Stage 3 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

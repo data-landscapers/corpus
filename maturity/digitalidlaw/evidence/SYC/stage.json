@@ -1,16 +1,17 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "cover": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-001",
-   "gaps": "No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "cover": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-001",
+      "gaps": "No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
+      "note": "Rebuild 2026-10-31: The National Identity Cards Act, amended in November 2023, is in force (SYC-001); no source says it provides for a digital identity. Stage 3 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

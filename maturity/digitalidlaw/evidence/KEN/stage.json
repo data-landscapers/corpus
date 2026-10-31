@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "KEN-001",
       "gaps": "No source found says a national identity law is in force.",
-      "note": "Counted from the four questions by study-ladder-digitalidlaw.py.",
-      "as_at": "2026-10-12"
+      "note": "Rebuild 2026-10-31: NIIMS rests on an executive order (KEN-001), under Bill's ruling of 12 October 2026 that the 1947 Act is not its law. Stage 2 holds.",
+      "as_at": "2026-10-31"
     }
   ]
 }

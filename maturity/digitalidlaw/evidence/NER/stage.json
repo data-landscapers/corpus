@@ -1,16 +1,17 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "2",
-   "standing": "bill",
-   "cover": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-001",
-   "gaps": "No source found says a national identity law is in force.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "2",
+      "standing": "bill",
+      "cover": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-001",
+      "gaps": "No source found says a national identity law is in force.",
+      "note": "Rebuild 2026-10-31: The cabinet adopted a draft ordinance in April 2026 amending the 2019 civil status law (NER-001); no source says that law sets up the identity number, register or card. Stage 2 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

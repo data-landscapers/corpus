@@ -1,6 +1,6 @@
 # Legislation covering digital id: national identity law
 
-*As at 2026-09-30.*
+*As at 2026-10-31.*
 
 ## The norm
 
@@ -270,7 +270,7 @@ Seychelles' identity cards law, amended in 2023, is in force. No source found sa
 
 ### South Africa: 3 Established
 
-South Africa's 1997 Identification Act is in force; a replacement bill is due in 2027 or 2028. No source found says whether it covers digital identity.
+South Africa's 1997 Identification Act is in force, with a replacement bill due in 2027 or 2028. No source found says it covers digital identity.
 
 - The Department of Transport states that the Identification Act, 1997 (Act No. 68 of 1997) designates Home Affairs as the sole authority maintaining the National Population Register and issuing identification documents, and treats it as current law (document published 2026-10-11, no other date given) ([source, 2026-10-11](https://www.sanews.gov.za/south-africa/government-amend-regulations-prevent-traffic-documents-being-used-identification)).
 - The Citizen reports the Department of Transport saying the Identification Act, 1997 (Act No. 68 of 1997) makes Home Affairs the sole authority to maintain the National Population Register and issue identification documents, and treats it as current law (document published 2026-10-10, no other date given) ([source, 2026-10-10](https://www.citizen.co.za/news/proposed-drivers-licence-rule-changes-to-affect-south-africans-and-foreigners/)).
@@ -342,7 +342,7 @@ A civil identification and identity card bill passed first reading in March 2022
 
 ### Niger: 2 Nascent
 
-Niger's cabinet adopted a draft ordinance in April 2026 adding a unique identifier and biometrics to its registers. No source found says whether it was signed.
+Niger's cabinet adopted a draft ordinance in April 2026 adding a unique identifier and biometrics to its registers. No source found says it was signed.
 
 - The Council of Ministers of 22 April 2026 adopted a draft ordonnance on the civil status regime of Niger, amending Loi n° 2019-29 of 1 July 2019 to clarify the national civil status register and the national population register and to add biometric parameters and a unique identifier; it is a draft adopted by cabinet, with no promulgation stated ([source, 2026-04-22](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1143-conclusions-du-conseil-des-ministres-du-mercredi-22-avril-2026)).
 

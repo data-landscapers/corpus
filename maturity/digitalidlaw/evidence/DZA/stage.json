@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "DZA-005;DZA-007;DZA-004",
       "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
-      "note": "Counted from the four questions by study-ladder-digitalidlaw.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild 2026-10-31: Law 26-02 of February 2026 sets the rules for electronic identification, and the stories on its draft say it sets up the national digital identity (DZA-004, DZA-005); no rule under it is held. Stage 4 holds.",
+      "as_at": "2026-10-31"
     }
   ]
 }

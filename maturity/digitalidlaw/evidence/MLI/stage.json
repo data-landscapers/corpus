@@ -1,16 +1,17 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "cover": "digital",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-006;MLI-001",
-   "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "cover": "digital",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-006;MLI-001",
+      "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
+      "note": "Rebuild 2026-10-31: Law 06-040 of 2006 gives each person a unique NINA (MLI-006); the last rule held under it, decree 2022-0639 of November 2022, falls outside three years. Stage 4 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

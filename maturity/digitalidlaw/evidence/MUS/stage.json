@@ -1,16 +1,17 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "cover": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-003;MUS-004;MUS-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "cover": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-003;MUS-004;MUS-001",
+      "gaps": "Nothing on the four questions.",
+      "note": "Rebuild 2026-10-31: The 2024 regulations made under the 1985 Act set a card with a digital seal and fingerprints (MUS-003, MUS-004), inside three years. Stage 5 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "cover": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002;UGA-007;UGA-005",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "cover": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-002;UGA-007;UGA-005",
+      "gaps": "Nothing on the four questions.",
+      "note": "Rebuild 2026-10-31: The 2015 Act sets a unique number and biometric register (UGA-004), and S.I. 67 of August 2024 amends the regulations on card validity, read as Cabo Verde's validity order was (UGA-002). Stage 5 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

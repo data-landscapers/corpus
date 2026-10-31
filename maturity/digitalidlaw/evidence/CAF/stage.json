@@ -1,16 +1,17 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "cover": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a national identity law or bill, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "no evidence",
+      "standing": "",
+      "cover": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found names a national identity law or bill, or says there is none.",
+      "note": "Rebuild 2026-10-31: No row on the sub-indicator is held. No evidence holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

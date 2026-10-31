@@ -1,16 +1,17 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "cover": "digital",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-002;MAR-001",
-   "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "cover": "digital",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-002;MAR-001",
+      "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
+      "note": "Rebuild 2026-10-31: Law 72-18 of 2020 creates the national population register against which identity is checked online (MAR-002); no rule made under it is held. Stage 4 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

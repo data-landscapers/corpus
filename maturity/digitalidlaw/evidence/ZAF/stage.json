@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "ZAF-003;ZAF-004",
       "gaps": "No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
-      "note": "Counted from the four questions by study-ladder-digitalidlaw.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild 2026-10-31: The 1997 Act is in force, with regulations made under it in June 2025 (ZAF-001); no source says it provides for a digital identity, and the May 2026 regulations were drafts. Stage 3 holds.",
+      "as_at": "2026-10-31"
     }
   ]
 }

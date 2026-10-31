@@ -1,16 +1,17 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "cover": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-003;SOM-002;SOM-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "cover": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-003;SOM-002;SOM-001",
+      "gaps": "Nothing on the four questions.",
+      "note": "Rebuild 2026-10-31: Regulation 158 of June 2024 applies Law 009 of 2023, with a unique number, biometrics and rules for relying parties (SOM-002, SOM-003). Stage 5 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

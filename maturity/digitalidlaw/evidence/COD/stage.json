@@ -1,16 +1,17 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "2",
-   "standing": "bill",
-   "cover": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-002;COD-001",
-   "gaps": "No source found says a national identity law is in force.",
-   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "2",
+      "standing": "bill",
+      "cover": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-002;COD-001",
+      "gaps": "No source found says a national identity law is in force.",
+      "note": "Rebuild 2026-10-31: The population file rests on decree 22/07 of 2022 (COD-001), and a private member's bill was tabled in June 2026 (COD-002). Stage 2 holds.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }
