@@ -27,11 +27,3 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
-- **COD FY2027** — budget-estimates adds appropriated: [[2026-09-01-cod-developpement-par-titre-de-l-estimation-des-credits-de-l-exercice-2027-companion]] (queued 2026-10-30).
-- **CPV FY2027** — budget-estimates adds proposed or appropriated: [[2026-10-02-cpv-proposta-de-lei-orcamento-do-estado-2027-companion]] (queued 2026-10-30).
-- **GMB FY2027** — budget-estimates adds proposed or appropriated: [[2026-10-20-gmb-appropriation-bill-2027-companion]] (queued 2026-10-30).
-- **SEN FY2027** — budget-estimates adds proposed or appropriated: [[2026-10-01-sen-projet-de-loi-de-finances-pour-l-annee-2027-companion]] (queued 2026-10-30).
-- **TUN FY2027** — budget-estimates adds proposed or appropriated: [[2026-10-14-tun-projet-loi-finances-2027-063-2026-companion]] (queued 2026-10-30).
-- **CPV FY2027** — budget-estimates adds appropriated: [[2026-10-02-cpv-anexo-informativo-orcamento-do-estado-2027-companion]] (queued 2026-10-30).
-- **GMB FY2027** — budget-estimates adds appropriated: [[2026-09-20-gmb-fy2027-budget-estimates-national-assembly-version-companion]] (queued 2026-10-30).
-- **MAR FY2027** — budget-estimates adds proposed or appropriated: [[2026-10-20-mar-projet-de-loi-de-finances-2027-n-60-26-companion]] (queued 2026-10-30).
