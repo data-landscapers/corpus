@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-tgo-quest-ce-que-la-journee-nationale-de-la-protection-des-donnees-personn",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "IPDCP says it chose 29 October, the date of Law 2019-014, for a national day it organises, with its president speaking and 400-plus volunteers mobilised.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "IPDCP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

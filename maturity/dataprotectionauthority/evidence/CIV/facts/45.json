@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-civ-communique-relatif-au-recensement-et-a-l-evaluation-de-conformite-des",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ARTCI, styled the protection authority, announced a national census and compliance assessment under Law 2013-450, with OKTO Technologies collecting data from 26 January to 25 May 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ARTCI",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

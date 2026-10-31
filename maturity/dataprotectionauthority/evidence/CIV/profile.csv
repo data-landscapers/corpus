@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,body,standing,coverage,constituted,2026-08-03,CIV-002;CIV-003,CIV-001=provided,
-CIV,body,rulings,coverage,,,,,nothing held
+CIV,body,standing,coverage,constituted,2026,CIV-002;CIV-003;CIV-004;CIV-006,CIV-001=provided,
+CIV,body,rulings,coverage,none,2026-07-07,CIV-005,,

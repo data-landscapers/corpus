@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-30-mus-lexpress-protection-des-donnees-23-000-entreprises-enregistrees-sur-60-000",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The guide concerns obligations under the Data Protection Act 2017, with registration required of some 60,000 entities.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Data Protection Act 2017",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Data Protection Commissioner, Drudeisha Madhub, and the Data Protection Office are named as running registration and DPO training.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Data Protection Office",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "Minister Avinash Ramtohul said on 29 October 2026 that only 23,000 of some 60,000 entities required to register under the Data Protection Act 2017 had done so.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Data Protection Office",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

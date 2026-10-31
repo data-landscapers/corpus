@@ -1,18 +1,19 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "4",
-   "law": "in-force",
-   "treaty": "none",
-   "authority": "appointed",
-   "practice": "implementing",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-016;BFA-013;BFA-001",
-   "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "4",
+      "law": "in-force",
+      "treaty": "none",
+      "authority": "appointed",
+      "practice": "implementing",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-016;BFA-013;BFA-028",
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found. ARCOD, which succeeds the CIL, has a president named on 16 October 2026; no promulgation of the August 2026 bills and no act of ARCOD have been found.",
+      "note": "The 2021 law is in force and the CIL has implemented it through communiques, reports and awareness sessions, with ARCOD's president named on 16 October 2026 to succeed it. No ruling against a named organisation is on record, so the cell stops at 4.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

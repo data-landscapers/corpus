@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-gcis-warns-of-information-breach",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ITWeb reports the Information Regulator received 788 data breach notifications from 1 January to 31 March, and that GCIS reported its breach to it.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

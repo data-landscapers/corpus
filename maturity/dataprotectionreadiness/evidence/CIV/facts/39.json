@@ -1,0 +1,37 @@
+{
+ "slug": "2026-01-01-civ-communique-relatif-au-recensement-et-a-l-evaluation-de-conformite-des",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "ARTCI's communique assesses entities' compliance with Law 2013-450 of 19 June 2013.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Law 2013-450",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "ARTCI acts as the protection authority, running a national compliance census.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ARTCI",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "ARTCI mandated OKTO Technologies to collect compliance information from entities between 26 January and 25 May 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ARTCI",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

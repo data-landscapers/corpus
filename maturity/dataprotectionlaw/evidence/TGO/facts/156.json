@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-29-tgo-jnpdp-2026-ipdcp-souverainete-numerique",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The IPDCP states that law no. 2019-014 on personal data protection, promulgated on 29 October 2019, is the legal framework for data protection in Togo.",
+   "as_of": "2019-10-29",
+   "date_precision": "day",
+   "system": "Loi n° 2019-014",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The IPDCP, headed by its president Colonel Bédiani Belei, held Togo's first national data protection day in Lomé.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "IPDCP",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 2019-014",
+   "country_label": "Togo",
+   "class": "general",
+   "platform": "",
+   "owner": "Togo",
+   "tiers": ""
+  },
+  {
+   "system": "IPDCP",
+   "country_label": "Togo",
+   "class": "authority",
+   "platform": "",
+   "owner": "IPDCP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-bfa-cil-formulaire-autorisation-transfert-etranger",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The CIL publishes an application form to authorise transfers of personal data to a foreign country, undated beyond its September 2026 upload.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "CIL transfer authorisation form",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

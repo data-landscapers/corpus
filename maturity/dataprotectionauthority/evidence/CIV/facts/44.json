@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-07-civ-cote-d-ivoire-ce-que-certinum-va-changer-pour-les-entreprises-et-les-a",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Agence Ecofin reports ARTCI is the regulator receiving data protection complaints and running inspections under the 2013 law, and keeps the national register of data protection correspondents.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "ARTCI",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "none",
+   "fact": "Agence Ecofin reports ARTCI had pronounced no financial sanction despite 210 complaints and 18 inspections.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "ARTCI",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Certinum",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "certinumapdp.ci",
+   "owner": "ARTCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

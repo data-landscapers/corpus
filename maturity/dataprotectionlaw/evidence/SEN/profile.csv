@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,general,authority,qualifier,constituted,2026-07,SEN-002;SEN-006;SEN-008;SEN-009;SEN-012;SEN-019;SEN-020,,
+SEN,general,authority,qualifier,constituted,2026-10-27,SEN-002;SEN-006;SEN-008;SEN-009;SEN-012;SEN-019;SEN-020;SEN-023,,
 SEN,general,standing,coverage,in-force,2026-10-11,SEN-003;SEN-007;SEN-010;SEN-013;SEN-015;SEN-016;SEN-017,SEN-004=drafting;SEN-011=drafting;SEN-018=drafting,
 SEN,general,regulations,coverage,,,,,nothing found
 SEN,general,application,coverage,reported,2026-06,SEN-001;SEN-021,SEN-022=applied;SEN-014=applied,

@@ -149,11 +149,11 @@ The law is in force and the authority is working in 2026; no ruling against an o
 
 ### Burkina Faso: 4 Operating
 
-Law in force since 2021; authority appointed and working; no ruling against an organisation is known.
+Law in force since 2021; authority working, its merged successor given a president in October 2026; no ruling against an organisation is known.
 
 - On 1 July 2025 the Prime Minister launched a series of CIL awareness sessions on personal data protection for ministries and public institutions, starting at the Primature, following the third national data protection day of 25-30 March 2025 ([source, 2025-07-01](https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-le-premier-ministre-sonne-la-mobilisation-au-sein-de-ladministration/)).
 - At that session the CIL validated its public report for 2024, described as covering outreach on law n°001-2021/AN, compliance controls, and the handling of complaints and authorisation requests, with no counts given ([source, 2025-06-26](https://cil.bf/?p=1506)).
-- Techhive Advisory reports that the heads of the data protection authorities of 61 countries, including Burkina Faso, signed the Global Privacy Assembly enforcement working group's joint statement on AI-generated imagery on 23 February 2026 ([source, 2026-02-23](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
+- leFaso.net reports that by decree of 16 October 2026 Wendingoudi Louis Modeste Ouedraogo, until then president of the CSC, was named president of the new authority formed by merging the CSC and the data-protection commission CIL ([source, 2026-10-16](https://lefaso.net/spip.php?article150089)).
 
 ### Cape Verde: 4 Operating
 
