@@ -56,6 +56,7 @@ Asked in order. Each is answered with a date and a link.
 - **A certificate places nothing**, whoever holds it: certification is the national standards row's.
 - **A rule that is modelled on a standard is not a rule to meet it.** Question 3 needs the source to say public bodies must comply with, or be certified to, the named standard.
 - **A regulator's rule for one sector places nothing**, and is noted: a central bank requiring a security standard of banks.
+- **A rule binding one government system places nothing** *(settled as worded, Bill, 2026-10-31, messages-for-bill 56)*: Guinea's transport order requiring its passenger-data system to meet ISO/IEC 27001 is insufficient; GIN stays unplaced.
 - **A national committee that follows an international one is a yes to question 4 only where the source says it takes part as a participating member.**
 - **A seat on, or a candidature for, a board of the International Telecommunication Union places nothing.**
 - **How many standards are adopted, and whether the country favours open or technology-neutral ones, is not judged.**
