@@ -23,9 +23,9 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 | 5 Leading | 4 |
 | 4 Operating | 7 |
 | 3 Established | 13 |
-| 2 Nascent | 23 |
+| 2 Nascent | 24 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 6 |
 | No evidence | 0 |
 
 ## Countries
@@ -213,6 +213,12 @@ Government services were going online in 2025; ten or more online are not on rec
 
 - The document says the e-Justice platform already accepts online applications for nationality certificates, on which a June 2025 decree to digitise the certificate builds ([source, 2025-06](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-strengthens-e-services-with-digital-nationality-certificate)).
 
+### Equatorial Guinea: 2 Nascent
+
+Equatorial Guinea has run an online e-visa since 2023; ten or more services online are not known.
+
+- Equatorial Guinea's vice-presidency says its VFS Global-run e-visa service, launched 2023-07-01, has processed about 35,127 e-visas ([source, 2026-10-28](https://www.guineaecuatorialpress.com/noticias/el_gobierno_analiza_el_contrato_de_vfs_global_para_reforzar_el_sistema_de_visados_en_linea_y_potenciar_la_promocion_turistica)).
+
 ### Eritrea: 2 Nascent
 
 Government services were going online in 2024; ten or more online are not on record.
@@ -348,12 +354,6 @@ Nothing found since 2023 names government services online, so no stage is set.
 Not established: Nothing found since October 2023 says whether government services can be used online.
 
 ### Djibouti: Unplaced
-
-Nothing found since 2023 names government services online, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether government services can be used online.
-
-### Equatorial Guinea: Unplaced
 
 Nothing found since 2023 names government services online, so no stage is set.
 

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "unplaced",
-      "register": "",
+      "stage": "4",
+      "register": "inservice",
       "shared": "shared",
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether taxpayers are registered on computer.",
-      "note": "The national firm register uses the tax number as each firm's identifier (2026), but nothing found says the tax register is computerised, and a later yes no longer answers the earlier ones (Bill, 2026-10-23).",
-      "as_at": "2026-10-23"
+      "stage_sources": "TUN-002;TUN-001",
+      "gaps": "No source found since October 2023 says the tax number is the national ID number or is checked against it.",
+      "note": "The 2027 budget report says taxpayers can register and obtain a tax identification card online (2026), and the national firm register uses the tax number as each firm's identifier (2026). Nothing ties the tax number to the national ID, so stage 5 is not reached.",
+      "as_at": "2026-10-31"
     }
   ]
 }

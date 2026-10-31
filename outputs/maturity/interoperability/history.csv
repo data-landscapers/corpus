@@ -13,3 +13,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,ZAF,gov.policy--data-interoperability-framework-roadmap,fact,2,3,ZAF-003,"DPSA reply (Aug 2025): Minimum Interoperability Standards published; adopted, 2->3"
 2026-10-29,BEN,gov.policy--data-interoperability-framework-roadmap,fact,3,5,BEN-004;BEN-002,"Benin's May 2025 ID4Africa deck counts more than 120 systems integrated through the platform its framework governs: use followed, 3 to 5"
 2026-10-30,BEN,gov.policy--data-interoperability-framework-roadmap,review,5,5,BEN-004;BEN-001;BEN-002,"Rung 4 on its own evidence (Bill, 2026-10-30, message 50): decree 2020-209 with ASIN governing and the national committee supervising; held at 5"
+2026-10-31,SOM,gov.policy--data-interoperability-framework-roadmap,fact,1,2,SOM-002,"Validation workshop for the National Digital Coordination Framework, 27 October 2026: a framework being written; 1 to 2."

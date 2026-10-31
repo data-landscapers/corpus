@@ -2,6 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,SEPE (Sistema Electrónico de Serviços Públicos),Angola,eservices,web portal,Public Administration,national,2026-10-01-ago-pti-sepe-online-after-kazu-claim
 AGO,Simplifica 1.0 and 2.0,Angola,eservices,www.sepe.gov.ao,State Reform Program,,2025-05-21-ago-sjasc-new-technologies-public-management-barrier
 AGO,Portal dos Serviços Públicos Electrónicos (SEPE),Angola,eservices,portal,,,2026-10-29-ago-pti-homologacao-diplomas-codigo-qr-inaarees
+AGO,Portal SIMPLIFICA,Angola,eservices,,IMA,,2026-10-29-ago-pti-ima-concurso-internacional-portal-simplifica
 BDI,Chatbot WhatsApp OBR,Chatbot WhatsApp OBR,other,WhatsApp,OBR,,2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e
 BEN,eservices.anip.bj,Benin,eservices,web portal,ANIP,national,2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption
 BEN,ANIP BJ mobile app,Benin,eservices,mobile app,ANIP,national,2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption
@@ -37,6 +38,7 @@ CIV,e-Justice platform,Cote d'Ivoire,eservices,,Ministry of Justice,,2025-06-19 
 CMR,Tresor Pay,Cameroon,eservices,www.tresorpublic.cm,Ministry of Finance,,2023-08-08-cmr-cna-tresor-pay-platform
 CMR,Cameroon Online E-Procurement System (Coleps),Coleps,other,,Ministry of Public Contracts,,2025-12-04-cmr-ecomatin-coleps-attribution-en-ligne
 CMR,servicepublic.gov.cm,Cameroon,other,web portal and mobile app,MINFOPRA,,2026-10-20-cmr-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-id
+CMR,AIGLES,Cameroun,other,,MINFOPRA,,2026-10-27-aigles-le-ministre-joseph-le-motive-l-appropriation-de-loutil-et-annonce-la
 COD,DRCPass,DRC,other,blockchain digital ID,government with Trident,,2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate
 COD,DRCPass,DRC,other,blockchain digital ID,"Ministry of Posts, Telecommunications and Digital Affairs",,2025-05-06 DRC e-government initiative makes bold blockchain bet
 COD,eCitizen,Kenya,other,,Pesaflow (cited),,2026-08-12-drc-digital-registries-pesaflow-recommendation
@@ -129,6 +131,7 @@ GNQ,Experta,Equatorial Guinea,other,e-government platform,CNIAPGE with Munitecni
 GNQ,Secure anti-corruption portal,Equatorial Guinea,other,web portal,CNIAPGE,,2025-08-21-cniapge-drives-digital-shift-in-equatorial-guineas-public-services
 GNQ,Digital platform to manage administrative files,Equatorial Guinea,other,,CNIAPGE,,2025-08-21-cniapge-drives-digital-shift-in-equatorial-guineas-public-services
 GNQ,One-Stop Shop for Business Creation (VUE),GNQ,other,,Ministry of Finance,,2024-05-29-gnq-equatorial-guinea-s-investment-climate-reforms-facilitating-growth-ami
+GNQ,E-Visa,Equatorial Guinea,eservices,VFS Global,Government of Equatorial Guinea,,2026-10-29-gnq-el-gobierno-analiza-el-contrato-de-vfs-global-para-reforzar-el-sistema
 KEN,eCitizen,Kenya,eservices,eCitizen,National Treasury,,2026-09-24-ken-cross-border-digital-public-service-pilot
 KEN,eCitizen,Kenya,eservices,eCitizen,National Treasury,,2026-09-02-kenya-ecitizen-sh36-5bn-collections-gap-scrutiny
 KEN,eTIMS,Kenya,other,,Kenya Revenue Authority,,2026-08-31-nation-kra-etims-invoice-outage
@@ -140,6 +143,7 @@ KEN,eCitizen,Kenya,eservices,,Government of Kenya,,2024-09-29-ken-digital-leader
 KEN,eCitizen,Kenya,eservices,,,,2026-02-17-ken-huduma-kenya-clarifies-end-of-physical-business-certificates-after-eci
 KEN,eCitizen,eCitizen,eservices,,Government of Kenya,,2026-10-28-xaf-kenya-calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime
 KEN,eCitizen,Kenya,eservices,,National Treasury,,2026-10-28-ken-national-treasury-pushes-new-regulations-plan-to-run-e-citizen
+KEN,eTIMS,Kenya,other,,KRA,,2026-10-28-ken-kra-eyes-m-pesa-invoices-for-small-and-micro-traders
 LBR,LRA eServices,Liberia,other,,Liberia Revenue Authority,,2026-04-07-liberia-lra-adjustment-goods-and-services-tax-rates
 LBR,LITAS,Liberia,other,,,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
 LBR,e-GP,Liberia,other,,PPCC,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
@@ -147,6 +151,7 @@ LBR,eLiberia National ePortal,Liberia,eservices,,Ministry of Posts and Telecommu
 LBR,e-Liberia Platform,e-Liberia Platform,other,,Office of the Chief Information Officer,,2026-10-20-lbr-liberia-to-digitalize-16-key-government-services-with-world-bank-s
 LBR,Online Duty-Free Application Platform,Online Duty-Free Application Platform,eservices,,Liberia Revenue Authority,,2025-07-06-lbr-lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platfor
 LBY,e-government portal,Libya,eservices,,"Ministry of Interior, GNU",,2024-03-03-lby-alwasat-e-services-package-launch
+LBY,Electronic visa unit,Libya,eservices,,"Passports, Nationality and Foreigners Affairs Authority",,2026-10-29-lby-lana-passports-authority-773-evisa-applications-week
 LSO,RSL eServices (eForms),Lesotho,eservices,,Revenue Services Lesotho,,2026-10-16-lso-rsl-individual-taxpayer-registration-form
 LSO,integrated online services platform,Lesotho,eservices,,"Ministry of Information, Communications, Science, Technology and Innovation",,2026-05-14-lso-lestimes-moorosi-digitisation-interview
 LSO,E-Service Outlet Model,Lesotho,eservices,internet and print shops and mobile money agents,"Ministry of Information, Communications, Science, Technology and Innovation with UNDP",,2024-06-03-lso-undp-e-service-outlet-model
@@ -242,6 +247,7 @@ SOM,National Digital Government Portal,Somalia,other,,Ministry of Communications
 SOM,Electronic Travel Authorization System (eVisa),Somalia,eservices,,Immigration and Citizenship Agency,,2026-10-21-som-somali-federal-government-says-evisa-dispute-with-somaliland-resolved-but-hargeisa-denies-agreement
 SOM,HALMEEL (National Unified Public Service Delivery Centre),Somalia,other,,Government of Somalia,,2026-10-28-som-halmeel-can-somalia-build-a-connected-digital-government
 SOM,NIRA national identity system,Somalia,other,,NIRA,,2026-10-28-som-halmeel-can-somalia-build-a-connected-digital-government
+SOM,E-Parliament,Somalia,other,,House of the People,,2026-10-29-som-somalia-parliament-suspends-sessions-for-two-weeks-to-install-e-parlia
 SSD,NCA e-Services Platform,South Sudan,eservices,,National Communication Authority,,2026-02-13-nca-eservices-platform-revenue-onecitizendaily
 SSD,Business Registration Service (BRS),South Sudan,eservices,,Ministry of Justice and Constitutional Affairs,,2025-01-01-business-registration-service-south-sudan
 SSD,eServices.gov.ss,South Sudan,eservices,,,,2025-01-01-business-registration-service-south-sudan
@@ -281,6 +287,7 @@ TGO,Portail des services en ligne du TGI de Lomé,Togo,eservices,,Ministère de 
 TGO,cfetogo.tg,Togo,eservices,CFE website,Centre de Formalites des Entreprises (CFE),,2025-03-14-tgo-fullnews-cfetogo-online-business-registration
 TGO,Ministry digitalisation programme,Togo,eservices,,Ministry of Public Service Efficiency and Digital Transformation; Agence Togo Digital,,2025-11-05-tgo-togopresse-digitalisation-ministeres-ia
 TGO,service-public.gouv.tg,Togo,eservices,,,,2026-05-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza
+TGO,e-GP,Togo,other,,ARCOP,,2026-10-26-tgo-togo-4-consultants-recherches-pour-preparer-la-passation-electronique
 TUN,E-Bawaba,Tunisia,eservices,,,,2026-03-09-telecomreviewafrica-north-africa-digital-generation
 TUN,Madrassati,Tunisia,other,,Ministry of Education,primary,2023-12-01-tun-cnte-strategie-ministere-education-transformation-numerique
 TUN,EduservPlus,Tunisia,other,,Ministry of Education,preparatory and secondary,2023-12-01-tun-cnte-strategie-ministere-education-transformation-numerique

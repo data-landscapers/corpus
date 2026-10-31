@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "unplaced",
-      "filing": "",
+      "stage": "3",
+      "filing": "inservice",
       "payment": "",
       "uptake": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether tax returns can be filed online.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "TUN-003",
+      "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax administration, or gives the share of returns filed online.",
+      "note": "More than 85,000 taxpayers filed the employer's declaration on the TEJ platform by July 2026, a core return filed online. The 2023 tele-payment guide is older than three years, so stage 4 is not reached.",
+      "as_at": "2026-10-31"
     }
   ]
 }

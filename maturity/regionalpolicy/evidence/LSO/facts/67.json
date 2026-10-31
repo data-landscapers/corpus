@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-xaf-au-ministers-digital-strategies-to-delivery",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Lesotho, through its minister Nthati Moorosi, was the outgoing chair of the African Union's STC-CICT and was acknowledged for its stewardship, per the African Union Commission.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "AU STC-CICT",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AU STC-CICT",
+   "country_label": "Lesotho",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "African Union",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

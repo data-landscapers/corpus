@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-26-moz-atdi-e-bau-alinham-visao-de-servicos-publicos-digitais-integrados-e-ce",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Plataforma Nacional de Interoperabilidade",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "ATDI, IP",
+   "tiers": ""
+  }
+ ],
+ "note": "Names an interoperability platform being integrated, no framework."
+}

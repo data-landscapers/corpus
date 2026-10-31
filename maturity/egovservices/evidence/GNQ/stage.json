@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "unplaced",
-      "services": "",
+      "stage": "2",
+      "services": "underway",
       "gateway": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether government services can be used online.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GNQ-002",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online, or names a single national portal.",
+      "note": "The e-visa run for the government by VFS Global since July 2023 is a service applied for online, a yes to question 1. Nothing found counts ten or more services online, so stage 3 is not reached.",
+      "as_at": "2026-10-31"
     }
   ]
 }

@@ -1,16 +1,17 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "framework",
-   "stage": "1",
-   "standing": "none",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-interoperability.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "framework",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-002",
+      "gaps": "No framework adopted or published; the NDCF text has not been found, and no source says public bodies must follow it.",
+      "note": "A national workshop on 27 October 2026 met to validate the National Digital Coordination Framework for the coordination and interoperability of federal digital systems, so a framework is being written; this supersedes the August 2025 statement that there was none. Stage 3 needs it adopted and published.",
+      "as_at": "2026-10-31"
+    }
+  ]
 }

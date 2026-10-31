@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-28-ken-kra-eyes-m-pesa-invoices-for-small-and-micro-traders",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eTIMS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "KRA",
+   "tiers": ""
+  }
+ ],
+ "note": "Talks only on M-Pesa issuing tax invoices; no service launched or counted."
+}

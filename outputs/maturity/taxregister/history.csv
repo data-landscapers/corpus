@@ -47,3 +47,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,NAM,dpi.registry--tax-register,fact,unplaced,4,NAM-002;NAM-001,"NamRA notice of 1 April 2026: TINs applied for online through ITAS; with the TIN mandatory on customs declarations, stage 4"
 2026-10-27,TCD,dpi.registry--tax-register,fact,3,4,TCD-002;TCD-003;TCD-005;TCD-001,"Customs directorate 2025: valid NIF from E-Tax required on every declaration, SYDONIA blocks without one; stage 4"
 2026-10-29,MAR,dpi.registry--tax-register,fact,no evidence,3,MAR-002;MAR-001,Decree 2.25.862 and the DGI platform launched May 2026 register non-resident suppliers and issue tax numbers online; no evidence to 3
+2026-10-31,TUN,dpi.registry--tax-register,fact,unplaced,4,TUN-002;TUN-001,"Online declaration-of-existence platform issues the tax identification card (2027 budget report): register in service; with the shared firm number, unplaced to 4."

@@ -23,8 +23,8 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 | 5 Leading | 1 |
 | 4 Operating | 2 |
 | 3 Established | 17 |
-| 2 Nascent | 17 |
-| 1 Absent | 2 |
+| 2 Nascent | 18 |
+| 1 Absent | 1 |
 | Unplaced | 4 |
 | No evidence | 11 |
 
@@ -249,6 +249,12 @@ Sierra Leone's ICT ministry said in October 2025 it had developed a government e
 
 - MoCTI states that a Government Enterprise Architecture Framework it developed will serve as a national guide for digital integration, after training over 100 ICT officers from MDAs in Enterprise Architecture; no adoption or issue is stated, so recorded as not yet adopted (as_of is the document's published date, 2025-10-31) ([source, 2025-10-31](https://mocti.gov.sl/mocti-trains-over-100-ict-professionals-to-strengthen-digital-skills-to-design-develop-and-maintain-robust-enterprise-architecture/)).
 
+### Somalia: 2 Nascent
+
+Somalia held a workshop in October 2026 to validate a national framework for coordinating government systems; its adoption is not known.
+
+- Somalia's Office of the Prime Minister and Ministry of Communications and Technology held a national workshop on 27 October 2026 to validate the National Digital Coordination Framework for federal government digital systems ([source, 2026-10-27](https://hiiraanweyn.net/dowladda-soomaaliya-oo-ansixinaysa-qaab-dhismeedka-qaranka-ee-isku-duwidda-dowladda-dijitaalka-ah/)).
+
 ### Togo: 2 Nascent
 
 Togo's digital agency holds its common interoperability framework as a draft guide, version 1.0, as at September 2026.
@@ -267,12 +273,6 @@ A 2024 World Bank diagnostic says Equatorial Guinea has no national interoperabi
 
 - The World Bank diagnostic states that the government has no national interoperability framework and no government enterprise architecture framework, and that the enterprise architecture is inadequate and incomplete; the document gives only a 2024 publication year, so 2024 is used ([source, 2024](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt)).
 - Biometric Update reports that the World Bank diagnostic recommends a national interoperability framework for Equatorial Guinea, describing it as currently absent; the date is the article's published date, 2024-07-15 ([source, 2024-07-15](https://www.biometricupdate.com/202407/world-bank-identifies-priority-actions-for-dpi-in-equatorial-guinea)).
-
-### Somalia: 1 Absent
-
-Somalia's e-government strategy of August 2025 says the federal government has no interoperability framework; none is reported as being written.
-
-- The Ministry of Communications and Technology's e-Government Strategy 2025-2029 states that the Federal Government of Somalia still has no enterprise architecture or interoperability framework, leaving digital government initiatives fragmented in silos; the statement carries no day, so the document's published date (2025-08) is used ([source, 2025-08](https://moct.gov.so/en/wp-content/uploads/2025/08/eGovernment-Strategy-2025-2029.pdf)).
 
 ### Chad: Unplaced
 

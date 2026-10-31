@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-sen-cdp-senegal-tiktok-rapdp",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Senegal's CDP president Ousmane Thiongane holds the office of president in charge of cooperation of the African Network of Data Protection Authorities (RAPDP), as stated on 2026-10-27.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "RAPDP",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

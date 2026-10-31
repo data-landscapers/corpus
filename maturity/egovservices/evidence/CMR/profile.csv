@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,eservices,services,coverage,underway,2023-08-07,CMR-001,,nothing dated since 2023-10-26
-CMR,eservices,gateway,coverage,,,,,nothing held
-CMR,eservices,usage,coverage,,,,,nothing held
+CMR,eservices,services,coverage,underway,2023-08-07,CMR-001,,nothing dated since 2023-10-28
+CMR,eservices,gateway,coverage,,,,,nothing found
+CMR,eservices,usage,coverage,,,,,nothing found

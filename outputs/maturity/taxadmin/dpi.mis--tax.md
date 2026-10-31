@@ -22,10 +22,10 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 |---|---|
 | 5 Leading | 5 |
 | 4 Operating | 17 |
-| 3 Established | 9 |
+| 3 Established | 10 |
 | 2 Nascent | 11 |
 | 1 Absent | 0 |
-| Unplaced | 9 |
+| Unplaced | 8 |
 | No evidence | 3 |
 
 ## Countries
@@ -227,6 +227,12 @@ Tax returns could be filed online in 2026; no source found reports electronic pa
 - ITWeb reports SARS's 2026 filing season ran auto assessments from 1 to 12 July, with non-provisional taxpayers submitting returns from 13 July to 23 October and some completing a manual eFiling submission ([source, 2026-07](https://www.itweb.co.za/article/ai-becomes-taxmans-little-helper/KA3Wwqdzpgb7rydZ)).
 - SARS says individual taxpayers file returns via eFiling and the SARS MobiApp from 21 July to 20 October 2025, with an outcome in under five seconds for most online returns ([source, 2025-07-21](https://www.sanews.gov.za/south-africa/over-5-million-taxpayers-auto-assessed-2025-filing-season-gets-underway)).
 
+### Tunisia: 3 Established
+
+Tunisian employers filed declarations online in 2026; recent electronic payment through the tax system is not known.
+
+- The report on the 2027 State budget bill says more than 85,000 taxpayers filed the employer's declaration through the TEJ e-platform by end-July 2026, having previously filed on magnetic media ([source, 2026-07](https://www.webmanagercenter.com/2026/10/27/575585/tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de-travail/)).
+
 ### Zimbabwe: 3 Established
 
 Tax returns could be filed online in 2025; no source found reports electronic payment.
@@ -341,12 +347,6 @@ Nothing found since 2023 names online tax filing and payment, so no stage is set
 Not established: Nothing found since October 2023 says whether tax returns can be filed online.
 
 ### Sao Tome and Principe: Unplaced
-
-Nothing found since 2023 names online tax filing and payment, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether tax returns can be filed online.
-
-### Tunisia: Unplaced
 
 Nothing found since 2023 names online tax filing and payment, so no stage is set.
 

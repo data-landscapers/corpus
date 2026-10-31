@@ -21,11 +21,11 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 10 |
+| 4 Operating | 11 |
 | 3 Established | 18 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 17 |
+| Unplaced | 16 |
 | No evidence | 7 |
 
 ## Countries
@@ -102,6 +102,13 @@ Taxpayer numbers were issued online and required on customs declarations in 2026
 The taxpayer number was shared with business registration or customs in 2025; no source found reports a tie to the national ID.
 
 - OTR says article 7 of the tax procedures book requires one unique NIF per taxpayer, and the individual NIF is required for customs clearance of personal goods and for property registration ([source, 2025](https://www.otr.tg/index.php/fr/blog/otr-actu/598-magazine-otr-actu-n-18-janvier-juin-2025/file.html)).
+
+### Tunisia: 4 Operating
+
+Tunisians could obtain a tax card online in 2026, and the tax number identifies firms; a link to the national ID is not known.
+
+- The report on the 2027 State budget bill says an online declaration-of-existence platform has been launched, allowing a tax identification card to be obtained online ([source, 2026-10-27](https://www.webmanagercenter.com/2026/10/27/575585/tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de-travail/)).
+- The Registre National des Entreprises says the unique identifier of each registered firm is its matricule fiscal, the tax number ([source, 2026-09-01](https://home.registre-entreprises.tn/le-registre-national-des-entreprises-vers-le-full-digital/)).
 
 ### Angola: 3 Established
 
@@ -321,12 +328,6 @@ Not established: Nothing found since October 2023 says whether taxpayers are reg
 ### Sudan: Unplaced
 
 One taxpayer number served all taxes and customs in 2026, but nothing found says the register is computerised, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
-
-### Tunisia: Unplaced
-
-The tax number identified firms in the business register in 2026, but nothing found says the tax register is computerised; no stage is set.
 
 Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
 

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 TGO,eservices,services,coverage,inservice,2026-09,TGO-002;TGO-006,TGO-001=underway;TGO-010=underway;TGO-004=underway;TGO-003=underway;TGO-009=underway;TGO-005=underway;TGO-007=underway;TGO-008=underway,
 TGO,eservices,gateway,coverage,single,2026-05,TGO-011,,
-TGO,eservices,usage,coverage,,,,,nothing held
+TGO,eservices,usage,coverage,,,,,nothing found

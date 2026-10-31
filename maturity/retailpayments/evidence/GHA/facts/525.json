@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-29-acet-unlocking-africas-digital-potential",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana Interbank Payment and Settlement Systems",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "GhIPSS is named as an interoperability example; no in-service wallet or bank switch is stated."
+}

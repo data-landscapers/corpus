@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-xaf-au-ministers-digital-strategies-to-delivery",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Gabon hosted the Ministerial Session of the African Union's STC-CICT sixth session in Libreville, which opened on 29 October 2026, per the African Union Commission.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "AU STC-CICT",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AU STC-CICT",
+   "country_label": "Gabon",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "African Union",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

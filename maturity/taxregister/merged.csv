@@ -1,4 +1,5 @@
 iso3,source_slug,read,merged_on
+AGO,2024-07-19-ago-angola-decision-on-infringement-proceedings,,2026-10-31
 AGO,2025-09-18-ago-ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplif,,2026-10-23
 AGO,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt,,2026-10-19
 AGO,2026-08-05-angola-sepe-catalogo-eservicos,,2026-10-19
@@ -40,11 +41,14 @@ CIV,2025-09-17-civ-digitalmag-id-day-2025-oneci-nni,,2026-10-19
 CIV,2026-05-01-civ-la-cote-d-ivoire-vers-une-identite-juridique-et-numerique-integree-au,,2026-10-23
 CIV,2026-08-13-civ-cote-d-ivoire-digitalisation-de-l-etat-civil-la-tele-declaration-des-n,,2026-10-27
 CIV,2026-10-27-civ-digitalisation-trois-outils-de-modernisation-de-letat-civil,,2026-10-29
+CIV,2026-10-29-etat-civil-le-cameroun-sinspire-de-la-cote-divoire-pour-interconnecter-ses,,2026-10-31
 CMR,2025-01-01-immatriculation-taxpayer-registration-directorate-general-taxation-cameroon,,2026-10-19
 CMR,2025-12-23-cmr-yaounde-ii-digitalise-l-etat-civil-un-poste-avance-100-informatise-ope,,2026-10-27
 CMR,2026-06-04-cmr-armp-sif-yaounde-douala-prequalification,,2026-10-19
 CMR,2026-07-16-lefisk-atom-dgi-immatriculation-fiscale-guide,,2026-10-19
 CMR,2026-09-16-cmr-ecomatin-bunec-52-milliards-numerisation-etat-civil,,2026-10-22
+CMR,2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet,,2026-10-31
+CMR,2026-10-29-etat-civil-le-cameroun-sinspire-de-la-cote-divoire-pour-interconnecter-ses,,2026-10-31
 COD,2023-12-01-cod-cartographie-des-systemes-et-services-de-paiement-des-prestataires-des,,2026-10-27
 COD,2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans,,2026-10-19
 COD,2024-10-18-cod-penurie-de-registres-d-acte-de-naissance-au-nord-kivu-en-rdc,,2026-10-27
@@ -94,6 +98,7 @@ GIN,2019-07-24-gin-guineelex-arrete-nifp,,2026-10-19
 GIN,2025-01-01-pn-ravec-site-officiel,,2026-10-19
 GIN,2025-01-14-tcd-rwanda-leads-africa-s-digital-public-finance-transformation,,2026-10-27
 GIN,2025-02-17-gin-apip-guichet-unique-creation-entreprise,,2026-10-19
+GIN,2025-04-14-gin-decret-fixant-les-conditions-de-securite-d-integrite-de-securisation-e,,2026-10-31
 GIN,2025-04-14-gin-decret-fixant-les-modalites-d-inscription-et-de-tenue-du-registre-nati,,2026-10-23
 GIN,2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census,,2026-10-23
 GIN,2025-06-22-gin-guinee360-immatriculation-fiscale-en-ligne,,2026-10-19
@@ -103,6 +108,7 @@ GIN,2026-03-29-plfi-2026-matd-commission-des-lois-cnt,,2026-10-19
 GIN,2026-07-25-guinee-oneci-ng-tech-innovation-identification-etat-civil,,2026-10-19
 GIN,2026-09-18-gin-guinee114-atelier-extension-rnpp,,2026-10-19
 GIN,2026-10-26-gin-peche-la-guinee-lance-le-sigpem-pour-simplifier-les-demarches-administrati,,2026-10-29
+GIN,2026-10-28-gin-guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-sec,,2026-10-31
 GIN,2026-10-28-guin-e-la-num-risation-s-tend-la-gestion-des-activit-s-de-p-che,,2026-10-29
 GMB,2024-07-23-gmb-gra-tin-e-registration-brochure,,2026-10-19
 GNB,2025-12-03-dgci-instrucao-servico-25-2025-nif-kontaktu,,2026-10-19
@@ -122,6 +128,7 @@ LSO,2024-05-06-lso-newsday-rsl-implements-e-taxation,,2026-10-19
 LSO,2025-06-01-lso-rsl-guide-on-tax-registration,,2026-10-19
 LSO,2026-08-30-prnewswire-lesotho-launches-national-farmers-portal-giving-every-farmer,,2026-10-19
 LSO,2026-10-16-lso-rsl-individual-taxpayer-registration-form,,2026-10-19
+MAR,2024-10-02-mar-omar-seghrouchni-cndp-l-investissement-n-absout-pas-les-violations-des,,2026-10-31
 MAR,2024-10-29-aujourdhui-registre-national-etat-civil-digital,,2026-10-19
 MAR,2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting,,2026-10-19
 MAR,2025-09-17-marocma-generalisation-protection-sociale-rnp-rsu,,2026-10-19
@@ -235,6 +242,9 @@ TUN,2026-07-16-tun-depot-immatriculation-mise-a-jour-le-registre-national-des-en
 TUN,2026-07-23-tunisie-registre-national-des-societes-communautaires-alahlia,,2026-10-19
 TUN,2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique,,2026-10-19
 TUN,2026-09-26-tun-rne-rejoint-ebra,,2026-10-19
+TUN,2026-10-27-tun-tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de,,2026-10-31
+TUN,2026-10-29-tun-adel-chouari-dici-2027-fini-les-copies-conformes-dans-les-administrati,,2026-10-31
+TUN,2026-10-29-tun-thomas-denfer-un-registre-fiable-permet-de-renforcer-lentrepreneuriat,,2026-10-31
 TZA,2025-03-16-tza-dailynews-idras-driver-licence-digital,,2026-10-19
 TZA,2025-05-01-tza-nida-id4africa-digital-identity,,2026-10-19
 TZA,2025-12-31-tza-tra-idras-transform-operational-efficiency,,2026-10-19

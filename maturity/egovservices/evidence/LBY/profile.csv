@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBY,eservices,services,coverage,underway,2024-03-03,LBY-001,,
-LBY,eservices,gateway,coverage,,,,,nothing held
-LBY,eservices,usage,coverage,,,,,nothing held
+LBY,eservices,services,coverage,underway,2026-10-29,LBY-001;LBY-002,,
+LBY,eservices,gateway,coverage,,,,,nothing found
+LBY,eservices,usage,coverage,,,,,nothing found
