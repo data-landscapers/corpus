@@ -188,6 +188,7 @@ GHA,Ghana Electronic Document Wallet (GEDW),Ghana Electronic Document Wallet Eco
 GHA,National Identification System,National Identification System (Ghana Card),staff,,National Identification Authority,,2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt
 GHA,National Identification System,"National Identification System (Ghana Card, National Identity Register)",staff,,National Identification Authority,,2021-10-05-nia-about-us-mandate-act-707
 GHA,G-Cloud,Government Cloud,other,,NITA,,2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange
+GHA,LHIMS,Lightwave Health Information Management System,staff,,Ministry of Health (vendor Lightwave),,2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system
 GIN,FUGAS (fichier unique de gestion administrative et de la solde),FUGAS,other,,Direction generale de la Fonction publique,,2026-08-26-africaguinee-ministere-modernisation-nominations-ande
 GIN,State intranet,State intranet,other,,ANDE,,2022-04-12-ande-missions-et-attributions
 GIN,Integrated financial and administrative management system,Integrated state financial/administrative system,other,,ANDE,,2022-04-12-ande-missions-et-attributions
@@ -292,6 +293,7 @@ NGA,Huawei-built data centre (Nigeria),Nigeria,other,Huawei,,,2025-09-18-bagwand
 NGA,Galaxy Backbone,Galaxy Backbone,staff,,Federal Government of Nigeria,,2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu
 NGA,1Government Cloud,Nigeria,staff,,Galaxy Backbone Limited,,2025-12-18-nga-fg-says-31-ministries-now-fully-digital-ahead-of-paperless-deadline
 NGA,GOVMail,Nigeria,other,,OHCSF / Galaxy Backbone,,2025-12-18-nga-fg-says-31-ministries-now-fully-digital-ahead-of-paperless-deadline
+NGA,Galaxy Backbone,Galaxy Backbone Limited,staff,,Government of Nigeria (state-owned company),,2025-08-19-nga-fg-orders-mdas-to-migrate-foreign-hosting-to-galaxy-backbone-in-digita
 RWA,Irembo,Irembo,other,,,,2026-10-09-cybersecurity-rwandans-urged-to-protect-private-data
 RWA,Data Sharing Platform,Data Sharing Platform,other,,RISA,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
 RWA,Shared Government Data Hub,Shared Government Data Hub,other,,RISA,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
@@ -378,6 +380,8 @@ TUN,Subsidies Compensation Platform,Subsidies Compensation Platform,other,,,nati
 TUN,Centre National de Backup,Centre National de Backup (CNBU),staff,datacenter,Centre National de l'Informatique,national,2016-01-01-tunisie-cni-centre-national-backup-continuite-activite
 TUN,RNIA and government Intranet,RNIA / Intranet gouvernemental,staff,,Centre National de l'Informatique,,2026-06-18-cni-historique-missions
 TUN,National applications backup centre,centre de backup,staff,,Centre National de l'Informatique,,2026-06-18-cni-historique-missions
+TUN,CNI,Tunisia,staff,,Ministry of Communication Technologies,,2026-01-06-tun-tunisie-le-centre-national-de-l-informatique-celebre-50-ans-au-cur-de
+TUN,Centre national de l'informatique (Ministry of Health),Tunisia,staff,,Ministry of Health,,2026-02-24-tun-webdo-arp-audition-sante-protection-donnees
 TZA,M-Kilimo,M-Kilimo,staff,,e-Government Authority with Ministry of Agriculture,,2026-08-04-ega-tanzania-digital-farming-cooperatives
 TZA,MUVU Cooperative Management System,MUVU,staff,,e-Government Authority with Cooperative Development Commission,,2026-08-04-ega-tanzania-digital-farming-cooperatives
 TZA,Fertiliser Information System,FIS,staff,,e-Government Authority with Tanzania Fertiliser Regulatory Authority,,2026-08-04-ega-tanzania-digital-farming-cooperatives

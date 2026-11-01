@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-19-nga-fg-orders-mdas-to-migrate-foreign-hosting-to-galaxy-backbone-in-digita",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Galaxy Backbone, the government-owned technology company, is mandated by the circular to deliver IP-network connectivity, data centre hosting and other digital infrastructure for ministries, departments and agencies.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "Galaxy Backbone",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone",
+   "country_label": "Galaxy Backbone Limited",
+   "class": "staff",
+   "platform": "",
+   "owner": "Government of Nigeria (state-owned company)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

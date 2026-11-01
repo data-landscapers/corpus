@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "Health Minister Kwabena Mintah Akandoh says the Ministry of Health's LHIMS, under a 2019 $100 million contract, was built and run by India's Lightwave with Ghana's health data hosted on servers in India, outside state control.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "LHIMS",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LHIMS",
+   "country_label": "Lightwave Health Information Management System",
+   "class": "staff",
+   "platform": "",
+   "owner": "Ministry of Health (vendor Lightwave)",
+   "tiers": ""
+  }
+ ],
+ "note": "The locally developed GHIMS replacement is ordered, not delivered."
+}
