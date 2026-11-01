@@ -1,12 +1,12 @@
 ---
 title: Rwanda: status report
-compiled: 2026-10-29
+compiled: 2026-11-01
 place: RWA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 248
+sources_cited: 249
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -307,6 +307,8 @@ On the public side, government runs [a public-sector innovation programme with a
 <!-- capacity.literacy -->
 
 Almost every Rwandan school has a computer and only a minority teach with one: [97.4% of schools held at least one computer in the 2023/24 school year and the teacher-to-computer ratio had improved to 2:1, but just under two-thirds had internet connectivity and only around a third reported actively using ICT in teaching and learning](https://www.mineduc.gov.rw/fileadmin/user_upload/Mineduc/Publications/REPORTS/Education_Statistics/Education_statistical_yearbook/Final_Education_Statistical_Yearbook_23_24.pdf).
+
+[In 2023/24, 12.8% of Rwandans aged 15 and over could use a computer with confidence, up from 8.9% in 2016/17, with 27.5% in urban areas against 6.6% in rural](https://statistics.gov.rw/sites/default/files/documents/2025-04/EICV7_Thematic%20Report%20Education_N.pdf).
 
 The school system underneath is better staffed than it is finished. [Rwanda's human resources in education score reached 91.7 of 100 in 2023, 13th of 54 in Africa and up 7.3 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf), but [the Education sub-category as a whole scored 59.1, 18th of 54 and up only 1.4 points across the same ten years, with enrolment at 40.2 and completion at 41.3 its two weakest components](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf). The direction of travel on the other two measures is downward: [education quality fell 3.8 points over the decade to 50.5 and equality in education fell 6.2 points to 71.7 (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf). A country that has solved teacher supply has not yet solved whether children stay, whether what they get is good, or whether it reaches everyone equally.
 
