@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The deck lists Decree No. 67/2017 of 1 December regulating the Interoperability Framework for Electronic Government Systems.",
+   "as_of": "2017-12-01",
+   "date_precision": "day",
+   "system": "Decree 67/2017",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Decree 67/2017",
+   "country_label": "Mozambique",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
