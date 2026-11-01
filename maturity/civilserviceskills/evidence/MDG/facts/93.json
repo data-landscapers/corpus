@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Minister Delmotte says the ministry is training civil servants to handle the new digital identity systems.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "civil servant training for the digital identity systems",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
