@@ -1,6 +1,22 @@
 {
   "iso3": "TCD",
   "cells": [
-    {"sub_indicator": "national", "stage": "unplaced", "governance": "body:mandated", "standing": "", "text": "", "period": "to:2030", "plan": "actions", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "No row on this instrument says it was approved, adopted, launched or drafted; sources only name it as existing, with period 2020-2030, and text public is not stated, so standing is not established. The World Bank (2023) both cites the strategy and says there is no comprehensive national digital strategy (TCD-003), and recommends adopting 'Chad Digital Strategy Horizon 2030' (TCD-004, drafting), which may be the same document but is a different named instrument. Tchad Connexion 2030 (national development plan and economic strategy) is also held. Needed for stage 3: a source word of adoption and a public text; no reporting row.", "note": "Instrument: Stratégie nationale de transformation numérique 2020-2030. Its rows give period, a roadmap of undated targets and a mandated body, but none sets a standing, so no rung is reached."}
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "",
+      "standing": "drafting",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-004",
+      "gaps": "Staged on the Chad Digital Strategy Horizon 2030, which the World Bank's 2023 diagnostic recommends adopting (TCD-004); no adoption, text, period, plan or reporting is held for it. The Stratégie nationale de transformation numérique 2020-2030, which ADETIC and others name to 2026 (TCD-001, TCD-006, TCD-008), has no row on its standing or text and may be the same document. The same report's statement of absence (TCD-003) is answered by its own recommendation, so stage 1 does not hold.",
+      "note": "Raised on review from unplaced: a national strategy in preparation is stage 2, as Djibouti's and South Sudan's are on one row of similar age. Stage 3 needs a source's word of adoption and a public text.",
+      "as_at": "2026-11-01"
+    }
   ]
 }

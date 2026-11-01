@@ -139,6 +139,8 @@ In 2019 Mozambique approved a national information society plan running to 2028,
 
 Namibia launched its National Digital Strategy 2025-2029 in August 2025 with a public text; no source found reports any delivery plan or progress report.
 
+*Advancing.*
+
 - The Namibian reports that the Minister of Information and Communication Technology 'officially launched' the National Digital Strategy (NDS) on Tuesday (5 August 2025, the day before the 6 August report); no Cabinet or other adopting act is named. The NDS is described as a framework for Namibia's holistic digital advancement supporting socio-economic and environmental development, which the minister addressed to youth, entrepreneurs, educators, health workers, farmers and labourers ([source, 2025-08-05](https://www.namibian.com.na/govt-launches-new-digital-emergency-telecommunications-plans/)).
 - NAMPA reports that the Minister of Information and Communication Technology, Emma Theofelus, 'officially launched' the National Digital Strategy (NDS) on Tuesday (5 August 2025, the day before the 6 August report); no Cabinet or other adopting act is named. The NDS is described as a framework for Namibia's holistic digital advancement supporting socio-economic and environmental development through technological innovation ([source, 2025-08-05](https://www.nampa.org/text/22703648)).
 - The document cites the strategy's text at the ministry's site (mict.gov.na) ([source, 2026-02-16](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf)).
@@ -274,12 +276,11 @@ Cabo Verde approved a digital economy strategy to 2030 in 2024; no source found 
 - The Resolution lists the Estratégia de Economia Digital (EEDCV) 2025-2030 as 'aprovada em setembro de 2024', its focus being competitiveness, innovation and the digital economy ([source, 2024-09](https://boe.incv.cv/Bulletins/DownloadAct?id=101313)).
 - The Resolution gives the Estratégia de Economia Digital (EEDCV) as covering 2025-2030 ([source, 2024-09](https://boe.incv.cv/Bulletins/DownloadAct?id=101313)).
 
-### Central African Republic: 2 Nascent
+### Chad: 2 Nascent
 
-The Central African Republic had a national digital plan in drafting in 2021, for 2020 to 2025, and no source says whether it was adopted.
+Chad had a new national digital strategy in preparation in 2023; no source found reports its adoption or a public text.
 
-- A workshop on 10-11 November 2021, opened by the chief of staff of the Ministry of Digital Economy, Posts and Telecommunications, presented the studies for the Plan National Stratégique Centrafrique Digitale 2025; no adoption is stated ([source, 2021-11-10](https://oubanguimedias.com/2021/11/12/centrafrique-restitution-des-etudes-relatives-au-plan-national-strategique-centrafrique-digitale-2025-et-au-snid/)).
-- The document gives the plan's period as 2020-2025 ([source, 2021-11-10](https://oubanguimedias.com/2021/11/12/centrafrique-restitution-des-etudes-relatives-au-plan-national-strategique-centrafrique-digitale-2025-et-au-snid/)).
+- The World Bank diagnostic, published 2023, recommends as a high-priority action (R1) to 'Adopt the new "Chad Digital Strategy Horizon 2030"' through an inclusive process convening ministries, industry, civil society and development partners, and that the strategy carry an implementation roadmap and a monitoring and evaluation framework; it does not say the strategy has been adopted, validated or by whom it was drafted; as_of is the document's published year ([source, 2023](https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt)).
 
 ### Congo: 2 Nascent
 
@@ -426,6 +427,8 @@ Morocco has Maroc Digital 2030, listed as adopted in 2025, with MAD 11 billion f
 
 Niger's digital development policy for 2026 to 2035 was validated in March 2026 and awaits an approving decree; no source found reports its text.
 
+*Advancing.*
+
 - In a 17 June 2026 television interview the Minister of Communication and New Information Technologies lists, among the coming months' prospects, 'l'adoption du décret portant approbation' of the PNDN 2026-2035 and the PSDN 2026-2030, so the policy is complete and awaiting its approving decree ([source, 2026-06-17](https://www.lesahel.org/entretien-exclusif-sur-la-rtn-le-ministre-m-adji-ali-salatou-edifie-lopinion-nationale-sur-les-actions-de-son-departement-ministeriel/)).
 - The minister names the PNDN as running 2026-2035, alongside a PSDN 2026-2030, in the interview of 17 June 2026 ([source, 2026-06-17](https://www.lesahel.org/entretien-exclusif-sur-la-rtn-le-ministre-m-adji-ali-salatou-edifie-lopinion-nationale-sur-les-actions-de-son-departement-ministeriel/)).
 - The article states the PNDN is accompanied by a Plan d'Action Sectoriel 2026-2030 whose "actions prévues" the workshop was to enrich; it gives no cost ([source, 2026-03-11](https://www.lesahel.org/atelier-sur-la-politique-nationale-de-developpement-du-numerique-2026-2035-pour-un-document-strategique-refletant-les-aspirations-et-les-priorites-du-niger/)).
@@ -507,11 +510,16 @@ Eritrea has no national digital transformation strategy, according to a June 202
 
 - Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no national digital transformation strategy, alongside no published national AI strategy ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-eritrea)).
 
-### Chad: Unplaced
+### Central African Republic: Unplaced
 
-Chad has a 2020 to 2030 digital transformation strategy, but no source found reports its adoption and public text, so no stage is set.
+The Central African Republic's 2020-2025 digital plan was last in drafting in 2021 and has ended, with no successor found, so no stage is set.
 
-Not established: No row on this instrument says it was approved, adopted, launched or drafted; sources only name it as existing, with period 2020-2030, and text public is not stated, so standing is not established. The World Bank (2023) both cites the strategy and says there is no comprehensive national digital strategy (TCD-003), and recommends adopting 'Chad Digital Strategy Horizon 2030' (TCD-004, drafting), which may be the same document but is a different named instrument. Tchad Connexion 2030 (national development plan and economic strategy) is also held. Needed for stage 3: a source word of adoption and a public text; no reporting row.
+*Lapsed.*
+
+- A workshop on 10-11 November 2021, opened by the chief of staff of the Ministry of Digital Economy, Posts and Telecommunications, presented the studies for the Plan National Stratégique Centrafrique Digitale 2025; no adoption is stated ([source, 2021-11-10](https://oubanguimedias.com/2021/11/12/centrafrique-restitution-des-etudes-relatives-au-plan-national-strategique-centrafrique-digitale-2025-et-au-snid/)).
+- The document gives the plan's period as 2020-2025 ([source, 2021-11-10](https://oubanguimedias.com/2021/11/12/centrafrique-restitution-des-etudes-relatives-au-plan-national-strategique-centrafrique-digitale-2025-et-au-snid/)).
+
+Not established: The Plan National Stratégique Centrafrique Digitale 2025 was last heard of at a November 2021 workshop (CAF-004); no row says it was adopted or published, and its 2020-2025 period has ended (CAF-005). No successor national strategy is on record: the government-class strategies validated in August 2026 and the PND 2024-2028 are noted classes. CAF-030 (June 2023) names the ACDD's mission as implementing a national strategy for the digital ecosystem, but falls before the 36-month window and sets no standing.
 
 ### Tunisia: Unplaced
 
