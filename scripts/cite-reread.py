@@ -6,7 +6,7 @@
     python scripts/cite-reread.py status             # what the progress file says is left
     python scripts/cite-reread.py apply AGO          # patch, gate, render, record, commit one unit
 
-`CITE-REREAD.md` is the procedure. This script does the mechanical half: for every inline link in a
+`documentation/archived/CITE-REREAD.md` (closed 2026-09-16) is the procedure. This script does the mechanical half: for every inline link in a
 `built_by: STATUS-INIT` baseline it writes the claim the link sits on, what the link resolves to, and
 the passages of the held evidence most likely to settle it, so the reader judges a claim from a page
 of text instead of opening a hundred source bodies whole.
