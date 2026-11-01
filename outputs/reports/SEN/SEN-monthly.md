@@ -1,14 +1,14 @@
 ---
-title: Senegal — News, Sep – Oct 2026
-compiled: 2026-10-31
-period: 2026-09-01 to 2026-10-31
+title: Senegal — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: SEN
-ledger_rows: 71
+ledger_rows: 28
 not_held: 2
-record: 25416ee4c093
+record: a6a7196ac244
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
@@ -21,17 +21,11 @@ record: 25416ee4c093
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digitalisation">Digitalisation</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -39,118 +33,12 @@ record: 25416ee4c093
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#legislation-and-regulation">Legislation and regulation</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National interoperability platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Accueil - Plateforme Interopérabilité | Jokkoo](https://pins.sn/)** — Plateforme d'Interopérabilité du Sénégal (PINS / e-Jokkoo), 3 September 2026
-
-Senegal's national interoperability platform, branded e-Jokkoo, describes itself as the backbone connecting state information systems for secure data exchange between administrations. It is built on X-Road and offers an API gateway, digital identity and data exchange services. Its counters for connected administrations, active APIs and monthly transactions show no figures.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Termes de références pour les services de Consultant (cabinet) pour l'étude des besoins en infrastructure technique de la Plateforme d'Interopérabilité Nationale du Sénégal (PINS) basée sur X-Road (SN-MCTN-567507-CS-QCBS)](https://paens.sn/termes-de-references-pour-les-services-de-consultant-cabinet-pour-letude-des-besoins-en-infrastructure-technique-de-la-plateforme-dinteroperabilite-nationale-du-senegal-pins-base/)** — Projet d'Accélération de l'Économie Numérique au Sénégal (PAENS) / Ministère des Télécommunications et du Numérique, 22 September 2026
-
-Senegal's digital economy acceleration project, PAENS, financed by the World Bank, posted terms of reference on 22 September 2026 for a consultancy firm to study the technical infrastructure needed by the X-Road-based national interoperability platform, PINS. The four-month study covers hosting at the state digital infrastructure company SENUM or sectoral sites and integration with the national PKI. PAENS totals EUR 144.9 million over 2023-2028.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Appel à manifestation d'intérêt : Étude des besoins en infrastructure de la Plateforme d'Interopérabilité Nationale (PINS)](https://guindima.sn/news/article/appel-a-manifestation-dinteret-etude-des-besoins-en-infrastructure-de-la-plateforme-dinteroperabilite-nationale-pins/)** — GuindiMa, 24 September 2026
-
-Senegal's Ministry of Telecommunications and Digital Economy invited firms on 24 September 2026 to bid for a study of infrastructure needs for the national interoperability platform PINS, based on X-Road, under the World Bank-financed PAENS project. The consultant is to design an architecture that starts small and grows across national and sectoral data centres, integrated with the national PKI. Bids closed on 7 October.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Universal digital access programme</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[PANU — Le Programme d'Accès Numérique Universel](https://fdsut.sn/panu-programme-dacces-numerique-universel/)** — Fonds de Développement du Service Universel des Télécommunications (FDSUT), 3 September 2026
-
-Senegal's universal telecoms service fund (FDSUT) runs the Universal Digital Access Programme (PANU), which aims by 2028 to cover 1,550 localities with at least 4G, equip 200 public bodies with digital tools, develop five digital services or applications and train 500 people in digital trades. The page's progress counters show zero against each target.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">New Deal Technologique 2034</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[New Technological Deal, or how a Global South Digital strategy for impactful ICT Transformation](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation)** — Digital Watch Observatory (DiploFoundation), session record of a WSIS Forum 2026 panel, 4 September 2026
-
-Senegalese officials presented the country's New Deal Technologique digital strategy at a WSIS Forum 2026 session, covering digital sovereignty, digital public infrastructure and skills. Speakers described free satellite kits to connect one million people over two years and a digital ID, X-Road interoperability and e-payments roadmap targeting 2030. The record gives the plan as USD 2bn over ten years, USD 700m of it unallocated.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Sénégal : priorités numériques recentrées sur le cloud souverain et l’IA](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-priorites-numeriques-recentrees-sur-le-cloud-souverain-et-l-ia)** — wearetech.africa, 9 September 2026
-
-Senegal put a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy at the centre of its digital priorities, in the prime minister's general policy statement of 8 September. The refocus sits within the New Deal technologique and narrows selection to initiatives that are feasible, financed and able to produce measurable results.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Prime Minister's general policy declaration, September 2026</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Declaration de politique generale du Premier ministre Ahmadou Alhaminou Mohamed Lo, seance extraordinaire de l'Assemblee nationale, mardi 08 septembre 2026](https://droit-et-politique-en-afrique.info/wp-content/uploads/2026/09/Declaration-de-politique-generale-du-Premier-ministre-Ahamadou-Alhaminou-Mohamed-Lo-8-septembre-2026.pdf)** — Primature, Republique du Senegal, 8 September 2026
-
-Senegal's prime minister, Ahmadou Alhaminou Mohamed Lo, delivered his general policy statement to the National Assembly on 8 September 2026. On digital matters it commits to securing public data and digital identities, a sovereign cloud to host the state's sensitive data on Senegalese soil, and an accelerated strategy for sectoral uses of artificial intelligence.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[DPG : cloud souverain, IA… le gouvernement veut passer des annonces à l’exécution du New Deal technologique](https://www.socialnetlink.org/2026/09/08/dpg-cloud-souverain-ia-le-gouvernement-veut-passer-des-annonces-a-lexecution-du-new-deal-technologique/)** — Socialnetlink, 8 September 2026
-
-Senegal's prime minister, Ahmadou Alhaminou Mohamed Lo, set out the government's digital priorities in his general policy statement of 8 September 2026, naming a sovereign cloud to host sensitive state data on national territory and artificial intelligence as main strands of the New Deal Technologique. Digital projects must now show feasibility, financing and impact before implementation.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Blueprint for value creation through data</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Senegal Validates National Blueprint to Unlock Value From Data](https://techafricanews.com/2026/09/23/senegal-validates-national-blueprint-data-valorisation/)** — Tech Africa News, 23 September 2026
-
-Senegal's digital ministry validated a draft national Blueprint on Data Valorisation at a workshop on 21 and 22 September, run with Smart Africa's Data Governance in Africa programme and GIZ. Senegal is a pilot alongside Kenya and Lesotho; the workshop refined the roadmap's implementation and monitoring framework, with no finalisation date given.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -194,89 +82,21 @@ Senegal's Prime Minister installed the Comité de gouvernance du numérique (Gou
 
 </div>
 
-### Legislation and regulation
-
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Critical-infrastructure protection legal framework</p>
+<p class="monthly-story__name">State data localisation directive</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[Cyberattaques récurrentes : le Sénégal se dote d'une Autorité nationale de Cybersécurité](https://atlanticactu.com/cyberattaques-recurrentes-le-senegal-se-dote-dune-autorite-nationale-de-cybersecurite/)** — AtlanticActu, 1 September 2026
+**[Données publiques : Jusqu'à 20 % des données sénégalaises encore hébergées hors du pays](https://senego.com/donnees-publiques-jusqua-20-des-donnees-senegalaises-encore-hebergees-hors-du-pays_2015891.html)** — Senego, 21 October 2026
 
-Senegal's National Assembly adopted the bill on protecting critical information infrastructure and digital security, creating a national cybersecurity authority with legal personality and a special status, backed by a national response team. Adopted is not promulgated.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Extension of the validity of the 2016 ECOWAS biometric identity cards</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cartes d'identité biométriques de 2016 : vers une prorogation de la validité](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html)** — Seneweb, 24 September 2026
-
-Senegal's Interior Ministry has begun a legislative process to extend the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, the head of the file automation directorate, Ibrahima Dieng, said on 24 September 2026. The text has been in committee at the National Assembly. The length of the extension and the cards covered are not yet set, and normal renewal remains open.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Assemblée : Coup de Théâtre, le projet de loi sur la carte d’identité retourne en commission](https://senego.com/assemblee-coup-de-theatre-le-projet-de-loi-sur-la-carte-didentite-retourne-en-commission_2007288.html)** — Senego, 29 September 2026
-
-Senegal's National Assembly sent bill 21-2026, amending the law on the ECOWAS biometric identity card, back to committee on 29 September 2026 on a motion by the Law Committee chair, Abdoulaye Tall. He raised the bill's effect on voter cards, the financing and procurement of card renewal, and the custody of citizens' data held by foreign operators.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cartes d’identité : Mouhamadou Moukhtar Cissé explique la prorogation exceptionnelle](https://senegaldirect.com/cartes-didentite-mouhamadou-moukhtar-cisse-explique-la-prorogation-exceptionnelle/)** — Senegal Direct, 29 September 2026
-
-Senegal's Interior Minister Mouhamadou Moukhtar Cissé told the National Assembly's law committee that a bill extending the validity of some biometric ECOWAS identity cards is needed because the contract with Malaysian supplier Iris expires on 21 May 2027, before all cards can be renewed. About 700,000 cards are due for renewal. Card production resumed on 1 April 2026 after a cyberattack.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Passeports et cartes d'identité : Vers la fin du contrat avec l'opérateur malaisien et le recours à l'expertise nationale](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html)** — vipeoples.net, 30 September 2026
-
-Senegal's National Assembly took in plenary on 29 September a bill amending the ECOWAS biometric identity card law. In committee the interior minister confirmed an attack on the directorate that runs identity files, announced a security audit and a national data centre for civil-status and identity data, and said card and passport production would pass to Senegalese firms as the Malaysian contract runs out.
+10-20% of Senegal's public data still hosted abroad; ten-year hosting contracts slow repatriation.
 
 </div>
 
 </div>
 
 ### Data protection
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Data protection commission caseload</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Données personnelles : Plus de 190 dossiers traités par la CDP entre avril et juin](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)** — Seneweb, 1 September 2026
-
-Senegal's personal data protection commission (CDP) handled 195 files between April and June 2026, 154 declarations and 41 authorisation requests, and issued 153 declaration receipts and 39 authorisations. It deferred two files, rejected one processing operation, heard two data controllers, and dealt with eight complaints and one report.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Seminar of African data-protection authorities</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gouvernance des données : la CDP réunit plusieurs autorités africaines à Dakar](https://aps.sn/gouvernance-des-donnees-la-cdp-reunit-plusieurs-autorites-africaines-a-dakar/)** — Agence de Presse Sénégalaise, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
-
-Senegal's personal data protection commission (CDP) opened a seminar in Dakar for African and international data protection authorities, running from 7 to 10 September 2026. It is meant to strengthen cooperation and share experience on data governance, digital transformation and artificial intelligence.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -308,47 +128,23 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 
 </div>
 
-### Public debate and participation in policymaking
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Parliamentary questions on the siting of telecommunications masts</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Pylones de telecommunications a proximite des habitations : Thierno Alassane Sall alerte sur les risques](https://www.seneweb.com/fr/news/Societe/pylones-de-telecommunications-a-proximite-des-habitations-thierno-alassane-sall-alerte-sur-les-risques_n_503519.html)** — Seneweb, 6 September 2026
-
-Senegalese MP Thierno Alassane Sall sent written questions to several ministers about telecoms masts being built close to homes, citing a mast under construction in Ngaparou, Mbour department. Residents say they complained to the regulator ARTP, the commune and the sub-prefect without reply. He asks whether safety and health impact studies were carried out and permits issued.
-
-</div>
-
-</div>
-
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
-<a href="#new-investments">New investments</a>
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
 </nav>
 
-### New investments
+### MoUs and other agreements
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Cybastion US$300m investment announcement</p>
+<p class="monthly-story__name">Visa digital payments memorandum</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[Transformation numérique : Cybastion annonce un investissement de 300 millions de dollars au Sénégal](https://lesoleil.sn/actualites/economie/transformation-numerique-cybastion-annonce-un-investissement-de-300-millions-de-dollars-au-senegal/)** — Le Soleil, 14 September 2026
+**[Visa et le Sénégal s’allient pour accélérer la transformation numérique et le développement des paiements digitaux](https://visa-inc.africa-newsroom.com/press/visa-and-senegal-join-forces-to-accelerate-digital-transformation-and-the-development-of-digital-payments?lang=fr)** — Visa Inc. / Ministère des Télécommunications et du Numérique, 30 October 2026
 
-US company Cybastion announced a US$300 million investment in Senegal's digital infrastructure, data security and sovereignty, in Washington. No date, instrument, projects or timetable are given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Senegal Secures $300m Cybastion Commitment for Digitalisation Projects](https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/)** — Tech Africa News, 16 September 2026
-
-US cybersecurity company Cybastion committed to mobilise about US$300 million for digital projects in Senegal, presented to President Bassirou Diomaye Faye in Washington on 14 September 2026. The money is named for cybersecurity, data centres, technology transfer and capacity building; no instrument or timetable was given.
+Two-year Visa MoU with the telecoms ministry; P2G and G2P payments, cybersecurity; first Visa-government deal in Senegal.
 
 </div>
 
@@ -360,75 +156,9 @@ US cybersecurity company Cybastion committed to mobilise about US$300 million fo
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">HubSIX internet exchange point</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[IXP Tracker — HubSIX](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/)** — Internet Society Pulse, 1 September 2026
-
-The Internet Society's IXP tracker records HubSIX, an internet exchange point in Dakar, Senegal, with 260 Gbps of capacity and six member networks as of September 2026, all six having joined in the previous 12 months. The figures are self-declared in PeeringDB; no traffic volumes are given, and the exchange does not take part in the MANRS routing-security programme.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SENIX exchange point association</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Les Statuts — SENIX, Le Point d’Echange Internet du Sénégal](https://www.senix.sn/statuts.html)** — Association SENIX, 3 September 2026
-
-The statutes of SENIX, Senegal's internet exchange point, constitute it as an association with its registered office at the telecommunications ministry in Dakar. Its stated purpose is to exchange local internet traffic directly, encouraging local services and reducing the cost of international bandwidth. The page is undated and names no members, traffic figures or operating site.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Starlink fixed satellite internet licence</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Internet par satellite : la Sonatel obtient la suspension provisoire de la licence de Starlink](https://lesoleil.sn/actualites/technologie/internet-par-satellite-la-sonatel-obtient-la-suspension-provisoire-de-la-licence-de-starlink/)** — Le Soleil, 9 September 2026
-
-Senegal's Supreme Court on 7 September 2026 provisionally suspended the licence granted to Starlink Senegal for fixed satellite internet, on an application by the incumbent operator Sonatel. Sonatel is challenging ministerial order no. 038974 of 6 November 2025, which authorised the SpaceX subsidiary for five years, arguing that its own concession obligations and investments were not taken into account.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">School broadband connection plan</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Le numérique à l'école : 6 888 écoles et établissements à connecter à un internet haut débit](https://lesoleil.sn/actualites/le-numerique-a-lecole-6-888-ecoles-et-etablissements-a-connecter-a-un-internet-haut-debit/)** — Le Soleil, 26 September 2026
-
-Senegal's government plans to connect 6,888 schools to broadband internet, with satellite links for more than 2,000 others, it said at an interministerial council on the 2026–27 school year on 25 September 2026. Under the 2025–2029 education digital strategy, 6,547 tablets have been distributed and 12,385 teachers certified in digital skills and AI. No cost or timetable for the connections is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Sénégal : 6888 établissements scolaires ciblés par un vaste plan de connexion haut débit](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-6888-etablissements-scolaires-cibles-par-un-vaste-plan-de-connexion-haut-debit)** — wearetech.africa, 28 September 2026
-
-Senegal plans to connect 6,888 schools to broadband, with satellite for more than 2,000 others, against education-ministry figures showing 19.7% of public elementary schools online in 2023 and 15.4% in rural areas. The plan sits under the 2025-2029 digital education strategy.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -462,20 +192,6 @@ At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">National data centre for civil-status and identity-document data</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Passeports et cartes d'identité : Vers la fin du contrat avec l'opérateur malaisien et le recours à l'expertise nationale](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html)** — vipeoples.net, 30 September 2026
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Stellarix data centre, Diamniadio</p>
 
 <div class="bulletin-item" markdown="1">
@@ -488,29 +204,9 @@ STELLARIX Senegal, part of the AXIAN Group, said it has expanded its data-centre
 
 </div>
 
-### Cybersecurity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">General security audit of the identity-file directorate's systems</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Passeports et cartes d'identité : Vers la fin du contrat avec l'opérateur malaisien et le recours à l'expertise nationale](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html)** — vipeoples.net, 30 September 2026
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
-</div>
-
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -520,139 +216,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
-### Data Exchange
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Interoperability between the civil registry and public-service identification systems</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Protection des données : la CDP et la DAF s'unissent pour sécuriser les données d'identité des Sénégalais](https://www.pressafrik.com/Protection-des-donnees-la-CDP-et-la-DAF-s-unissent-pour-securiser-les-donnees-d-identite-des-Senegalais_a311700.html)** — PressAfrik, 17 September 2026
-
-Senegal's data protection commission and the state file-automation directorate have finished work on interoperability between the civil registry and public-service identification systems. Two strategic options are now before the authorities for a decision.
-
-</div>
-
-</div>
-
-### Digital Identity and CRVS
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Civil-status software deployment across centres</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Etat civil : 77 % des centres couverts par le processus de modernisation (DG ANEC) - APS](https://aps.sn/etat-civil-77-des-centres-couverts-par-le-processus-de-modernisation-dg-anec/)** — Agence de Presse Senegalaise, 17 September 2026
-
-Senegal's civil registration agency ANEC said on 16 September 2026 that 77% of the country's 629 civil registry centres are covered by its modernisation programme, with Tambacounda next and the southern regions in the last quarter. Director-general Matar Ndao said records are held in three state data centres in Senegal and that maternity units can now register births directly in ANEC's system.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Exam candidates without a civil-status record</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Etat civil : 58 462 enfants sans acte au CFEE, l'alerte de l'ONPEC](https://www.seneweb.com/fr/news/Video/etat-civil-58-462-enfants-sans-acte-au-cfee-lalerte-de-lonpec_n_505072.html)** — Seneweb, 23 September 2026
-
-Senegal's first national forum on civil registration opened in Dakar on 23 September 2026. The National Organisation for the Promotion of Civil Registration (ONPEC) said 58,462 children sat the CFEE primary exam without a birth record, with 7,823 at the BFEM and 98 at the baccalaureate; the exam year is not stated. A report to the authorities is to follow.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Transfer of identity-document production to national firms</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Passeports et cartes d'identité : Vers la fin du contrat avec l'opérateur malaisien et le recours à l'expertise nationale](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html)** — vipeoples.net, 30 September 2026
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
-</div>
-
 ### Digital Payments and Fintech
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Share of monetary-union electronic money and microfinance assets</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Monnaie électronique dans l'UEMOA – le Sénégal concentre 29,7 % des actifs et occupe la première place](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/)** — Digital Mag Côte d'Ivoire, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
-
-Senegal held 29.7% of electronic money outstanding in the West African Economic and Monetary Union at the end of 2025, and 26.5% of large microfinance institutions' assets, according to the union's Banking Commission. E-money outstanding across the union rose 35.2% to CFAF 1,923.2 billion, and 64.9% of its 172.9 million e-money accounts were inactive.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Development bank and telecoms group digital finance programme for women-led businesses</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
-
-The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a>
-
-The African Development Bank and AXIAN launched a programme to reach 34,000 women-led small businesses in Madagascar, Tanzania and Senegal with loans and financial services through AXIAN's Mixx and MVola mobile-money platforms, with training for 25,000 women in five countries. It follows a US$160m AfDB loan to AXIAN Telecom approved in January 2025, alongside a US$2.5m grant.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SenTrésor state payments platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[La CSS annonce le paiement des prestations sociales par un opérateur de monnaie électronique](https://aps.sn/la-css-annonce-le-paiement-des-prestations-sociales-par-un-operateur-de-monnaie-electronique/)** — Agence de Presse Sénégalaise (APS), 2 September 2026
-
-Senegal's social security fund (Caisse de Sécurité Sociale) announced on 2 September 2026 that beneficiaries can receive social benefits directly into a Wave mobile-money account. Recipients sign up with a form available at CSS branches or on its website. No beneficiary numbers or start date are given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[La Caisse de Sécurité Sociale ouvre la voie au paiement via Wave](https://www.socialnetlink.org/2026/09/19/ipres-la-caisse-de-securite-sociale-ouvre-la-voie-au-paiement-via-wave/)** — Socialnetlink, 19 September 2026
-
-Senegal's Social Security Fund, CSS, began paying several benefits through the Wave mobile money service, including family allowances, prenatal and postnatal allowances, and maternity and pension payments below 100,000 FCFA. Beneficiaries must enrol using a form available at agencies or online. The fund also opened a customer contact centre with a free number, 800 222 222.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Licensed payment institutions</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Mobile money : Pourquoi le duel Orange Money – Wave ne résume plus le marché](https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html)** — Seneweb, 23 September 2026
-
-Seneweb argues Senegal's digital-payments market is no longer an Orange Money-Wave duopoly: under the BCEAO's January 2024 payment-services instruction, licensed payment institutions can now run payment services without being banks or e-money issuers. Of 31 such institutions licensed in the WAEMU by end-February 2026, 11 were in Senegal.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -686,34 +250,6 @@ Le Soleil reports from the BCEAO's 2025 financial inclusion report that Senegal'
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">National education identifier</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GREEN](https://senprof.education.sn/GUIDES%20ET%20DOCUMENTATIONS/GUIDE%20GREEN)** — SIMEN — Système d'Information et de Management de l'Éducation nationale, Ministère de l'Éducation nationale du Sénégal, 3 September 2026
-
-Senegal's education ministry says it has completed nationwide rollout of the education identifier (IEN), a unique alphanumeric number for every teacher and pupil, issued at enrolment through the GREEN module of its SIMEN information system. Head teachers enrol staff and pupils. The guide is undated and describes Excel import and export rather than links to other systems.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Civil-registry digitisation system (LGEC)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[État civil : 77 % de centres digitalisés, selon le DG de l'ANEC](https://aps.sn/etat-civil-77-de-centres-digitalises-selon-le-dg-de-lanec/)** — APS, 24 September 2026
-
-Senegal's civil registration agency, ANEC, has digitised 483 of the 629 civil registry centres it targets outside Dakar, 77 per cent, its director general Matar Ndao said, and aims for all of them by 31 December 2026 with its management software and the SAMA État civil platform. He said a complete national civil register and common tools across communes, some of which run other software, were still needed.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">e-OSC platform for NGOs and associations</p>
 
 <div class="bulletin-item" markdown="1">
@@ -741,34 +277,6 @@ Senegal's civil-service minister said the physical and biometric audit of state 
 </div>
 
 ### Sectoral management information systems
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Tax administration digital platforms</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[e-DGID — Plateformes des télé-procédures de la DGID](https://www.dgid.sn/service/e-services/)** — Direction générale des Impôts et des Domaines (DGID), 3 September 2026
-
-Senegal's tax and lands directorate lists five separate online services on its website: ETAX for filing and paying taxes, Mon Espace Perso for individuals and firms with turnover under 100 million FCFA, SEN-ETAFI for financial statements, PCF, and a taxpayer e-services form. Each runs on its own subdomain; the page is undated.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Agricultural market information system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[L'Agence de régulation des marchés et Enabel conjuguent leurs forces pour renforcer les systèmes d'information](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/)** — Le Soleil, 6 September 2026
-
-Senegal's market regulation agency (ARM) and the Belgian development agency Enabel held a workshop in Dakar on 4 September 2026 on rebuilding the agricultural market information system. ARM's director-general, Babacar Sembène, said the new system should show production, harvests, stocks and areas of need so that price movements can be anticipated.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -830,42 +338,6 @@ Senegal's pharmaceutical regulator, the Agence sénégalaise de réglementation 
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">e-Justice court digitisation programme</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Le Sénégal mise sur le numérique pour rapprocher les citoyens des tribunaux](https://lesoleil.sn/justice/le-senegal-mise-sur-le-numerique-pour-rapprocher-les-citoyens-des-tribunaux/)** — Le Soleil, 4 September 2026
-
-Senegal's justice ministry is to launch two digital platforms on 10 September 2026, Le Soleil reported on 4 September. e-Justice, backed by the UN Development Programme and piloted at the Pikine-Guédiawaye high court, puts case registration, prosecution, registry and appeals work online; Jokkoo ak Yoon takes citizens' complaints by free phone line, SMS, USSD and audio or video messages in national languages.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Modernisation de la justice : Les plateformes e-Justice et Jokko Ak Yoon officiellement lancees](https://www.seneweb.com/fr/news/Justice/modernisation-de-la-justice-les-plateformes-e-justice-et-jokko-ak-yoon-officiellement-lancees_n_503904.html)** — Seneweb, 10 September 2026
-
-Senegal officially launched two judicial digital platforms at the Lat Dior courthouse in Dakar, in a ceremony chaired by the justice minister's chief of staff. The launch is presented as a turning point in the modernisation and citizen accessibility of the judicial system.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Single public services centre on the ASAN model</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Senegal sets sights on Azerbaijan's ASAN Khidmet model rollout](https://www.trend.az/azerbaijan/society/4220630.html)** — Trend News Agency, 4 September 2026
-
-Senegal plans to open a single public-services centre on Azerbaijan's ASAN Khidmet model within three to four months, its civil service minister Mamadou Lamine Diante said in Baku on 4 September 2026. He spoke at the signing of a memorandum between his ministry and the Organisation of Islamic Cooperation's Islamic Labour Centre.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Public procurement platform APPEL</p>
 
 <div class="bulletin-item" markdown="1">
@@ -878,63 +350,15 @@ Senegal's procurement regulator ARCOP told contracting authorities to load their
 
 </div>
 
-## Digitalisation
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
-<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#rural-digital-data-capture">Rural digital data capture</a>
-</nav>
-
-### Digitalisation of sub-national government
-
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Building-permit and administrative-acts platform</p>
+<p class="monthly-story__name">National strategy for reception and orientation of public-service users (Snao)</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[TeleDAc](https://www.adie.sn/projets/teledac)** — Société Sénégal Numérique S.A., 3 September 2026
+**[Validation de la Snao : L'interopérabilité des services publics lancée pour supprimer les navettes administratives](https://www.seneweb.com/fr/news/Societe/validation-de-la-snao-linteroperabilite-des-services-publics-lancee-pour-supprimer-les-navettes-administratives_n_999002104.html)** — Seneweb, 29 October 2026
 
-Senegal's state digital company Sénégal Numérique SA describes TeleDAc, its online building-permit platform for the Dakar region, now extended to many other administrative procedures. It says more than 200,000 building-permit files were digitised after Dakar's urbanism archives were rehabilitated. The page is undated.
-
-</div>
-
-</div>
-
-### Rural digital data capture
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Connectivity and equipment at the deconcentrated service centres</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Dématérialisation : “Sans connectivité, pas de déconcentration des services publics”, selon le directeur de Sénégal Services - APS](https://aps.sn/dematerialisation-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/)** — APS - Agence de Presse Sénégalaise, 3 September 2026
-
-The director of Senegal Services, Isidore Diouf, said in Matam on 3 September 2026 that public services cannot be decentralised without connectivity, after touring the agency's service centres in Matam, Louga, Saint-Louis and Dagana. He listed connectivity, equipment, archiving and communications security among the problems found and said civil registration will be added to the national online services platform.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Sénégal Services : Isidore Diouf érige la connectivité en priorité absolue pour réussir la dématérialisation](https://www.socialnetlink.org/2026/09/04/senegal-services-isidore-diouf-erige-la-connectivite-en-priorite-absolue-pour-reussir-la-dematerialisation/)** — Socialnetlink, 4 September 2026
-
-Isidore Diouf, director general of Senegal's state digital company Senum SA, said after a tour of Louga, Saint-Louis, Dagana and Matam reported on 4 September 2026 that poor connectivity is blocking the Espaces Sénégal Services one-stop public offices. The tour also found shortfalls in computers, records management and information-system security; Diouf said civil registration will be added to the national online services platform.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online civil-status certificate platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Senegal Digitizes 77% of Civil Registry Centers, but Data Security and Fraud Remain Challenges](https://www.ecofinagency.com/news-digital/2109-59111-senegal-digitizes-77-of-civil-registry-centers-but-data-security-and-fraud-remain-challenges)** — Ecofin Agency, 21 September 2026
-
-Senegal's National Civil Registry Agency (ANEC) has digitised 77% of the country's 629 civil registry centres, its director general Matar Ndao said in September 2026. As of August the Sama État Civil platform for requesting certificates online ran in 189 municipalities and the management software in 74% of centres. ANEC plans authenticity checks, and the data are hosted on government-owned sites in Senegal.
+Simplify first, digitise second: health and security pilot interoperable document exchange between services.
 
 </div>
 
@@ -946,39 +370,9 @@ Senegal's National Civil Registry Agency (ANEC) has digitised 77% of the country
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-industry">ICT Industry</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Place in an AI readiness index</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Préparation à l'IA : Le Sénégal leader dans l'UEMOA, mais la région reste en deçà de la moyenne mondiale](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html)** — Seneweb, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
-
-The West African Economic and Monetary Union Commission presented a draft regional artificial intelligence strategy at a press session in Ouagadougou, with Oxford Insights' 2025 government AI readiness figures placing Senegal first of the union's eight states on a score of 46.10. The draft covers a common regulatory framework, data governance, skills, computing infrastructure and phased adoption in health, education and agriculture. The rankings as reported are internally inconsistent.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Parliamentary work on artificial-intelligence regulation</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Atelier régional sur l'IA : le Sénégal appelle à «anticiper les évolutions technologiques»](https://www.pressafrik.com/Atelier-regional-sur-l-IA-le-Senegal-appelle-a-anticiper-les-evolutions-technologiques_a311677.html)** — PressAfrik, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
-
-Senegal's National Assembly hosted a regional workshop on regulating artificial intelligence in Dakar from 16 to 18 September 2026, with members of parliament from Senegal, Benin, Burkina Faso and Côte d'Ivoire. The chair of the assembly's digital committee, Aliou Sène, called for an African approach to AI regulation based on regional cooperation and protection of citizens.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1048,20 +442,6 @@ Senegal and the Gates Foundation launched the Senegal AI Scaling Hub in Dakar on
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Acquisition of a Senegalese health-technology company</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Alan acquires Senegal's Tanel in rare Francophone healthtech exit](https://techcabal.com/2026/09/02/alan-tanel/)** — TechCabal, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
-
-French health insurer Alan acquired Dakar-based Tanel in a deal that closed in June 2026 for an undisclosed sum, its first move into Africa and a full exit for Ventures Platform, AAIC Investment and a group of angels. Tanel is a licensed insurer carrying its own risk rather than administering another underwriter's cover, selling employer health plans in Senegal and Côte d'Ivoire across a contracted network of more than 1,200 pharmacies and providers, covering about 70,000 lives and profitable in 2025. Alan had backed Tanel's $2.1 million seed round in 2024, giving it two years of visibility before it approached the founders, who stay on as general managers.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Sénégal Digital Factory pooled procurement for local assembly</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1088,102 +468,6 @@ Senegal's telecommunications ministry signed a US$150 million partnership conven
 
 </div>
 
-### Innovation ecosystem
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Africa-Europe Digital Innovation Bridge 2.0 (AEDIB 2.0)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Tender Specifications: Consultancy for Development of a Women in Tech (WiT) Community Platform, and EU-Africa Venture Sourcing (TZA25001-10031)](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf)** — Enabel (Belgian Development Agency), 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
-
-Enabel, the Belgian development agency, issued tender specifications for a consultancy to build a Women in Tech community platform and source 12 EU-Africa ventures under its AEDIB 2.0 programme in Tanzania, Uganda and Senegal for 2026 to 2028. The procedure is negotiated without prior publication; bids close on 23 October 2026. No contract value is stated.
-
-</div>
-
-</div>
-
-## Capacity
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
-<a href="#literacy">Literacy</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#training-and-skills">Training and skills</a>
-</nav>
-
-### Literacy
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Recentrer le civisme numerique project</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Kaolack: les acteurs communautaires à l'école des enjeux du numérique](https://lesoleil.sn/actualites/technologie/kaolack-les-acteurs-communautaires-a-lecole-des-enjeux-du-numerique/)** — Le Soleil, 25 September 2026
-
-The Forum Civil held a two-day regional workshop in Kaolack for civil society and community leaders on digital issues, under an EU-funded project, Recentrer le civisme numérique. It aims to equip young people and community leaders to understand and use digital tools.
-
-</div>
-
-</div>
-
-### Training and skills
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital training plan for state employees</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Formation au numerique des agents de l'Etat : Le plan elabore en cours de validation](https://www.seneweb.com/fr/news/Technologie/formation-au-numerique-des-agents-de-letat-le-plan-elabore-en-cours-de-validation_n_503901.html)** — Seneweb, 10 September 2026
-
-Senegal's civil service ministry held a national workshop in Dakar to validate the digital training plan for state employees, which is now in validation. The one-day session was co-chaired by the civil service director-general and the telecommunications and digital minister's chief of staff.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Le Sénégal adopte son plan de formation numérique des agents de l'État](https://www.force-n.sn/articles/le-senegal-adopte-son-plan-de-formation-numerique-des-agents-de-letat)** — FORCE-N, 11 September 2026
-
-Ministries and partners meeting in Dakar on 10 September validated Senegal's 2026-2029 national plan for state employees' digital skills, which aims to train all 183,502 state agents through a 25-module common core, ten sectoral programmes of 150 modules and an acculturation track for the 35,857 least digitally prepared, backed by 500 ambassadors. A survey of 1,878 agents found 57% at beginner level and 15% advanced; in a pilot with 583 agents early in 2026, 88 to 92% of those who sat the certification passed but 70% of those enrolled did not sit it. The FORCE-N programme, run by the Université numérique Cheikh Hamidou Kane with the Mastercard Foundation, designed the plan and supplies its online platform.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Senegal boosts public sector digital skills](https://www.itweb.africa/article/senegal-boosts-public-sector-digital-skills/RgeVDqPRxnp7KJN3)** — ITWeb Africa, 11 September 2026
-
-Senegal launched a digital skills programme for civil servants, led by the public service ministry with Cheikh Hamidou Kane Digital University through the Mastercard Foundation-backed Force-N programme. Training covers data, artificial intelligence, cybersecurity and digital public services. Results will be tracked by completion rates, certifications and the inclusion of women. No cost, start date or number of trainees is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Senegal Validates National Digital Training Plan for Civil Servants](https://techafricanews.com/2026/09/11/senegal-validates-national-digital-training-plan-civil-servants/)** — Tech Africa News, 11 September 2026
-
-Senegal validated a national digital training plan for civil servants at a workshop on 10 September 2026, run by the public service ministry with the telecoms and digital ministry. Cheikh Hamidou Kane Digital University provides technical support through the FORCE-N programme, backed by the Mastercard Foundation; topics include data, AI, cybersecurity and digital public services.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Sénégal : un plan national de formation pour adapter l’administration à l’ère numérique](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique)** — wearetech.africa, 11 September 2026
-
-Senegal validated a national digital training plan for civil servants on 10 September 2026, setting common training content graded by role and responsibility. It covers digital tools, data management, information systems, online public services, artificial intelligence and cybersecurity, and is to be assessed by skills acquired and certifications obtained. No budget or timetable is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[IA - Administration publique : Le Sénégal refuse de subir le diktat du numérique](https://lequotidien.sn/ia-administration-publique-le-senegal-refuse-de-subir-le-diktat-du-numerique/)** — Le Quotidien, 12 September 2026
-
-Senegal's public service and telecommunications ministries, with the FORCE-N programme, validated a national training plan to give state employees digital and AI skills, with priority training for more than 35,000 agents. A first programme of five modules is ready to deploy, covering grades A, B and C plus modules for managers, and the plan targets at least 70% participation in exams and a 75% pass rate. A pilot early in 2026 trained 583 staff from the industry, digital and public service ministries and showed heavy drop-out at the exam stage.
-
-</div>
-
-</div>
-
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
@@ -1191,34 +475,6 @@ Senegal's public service and telecommunications ministries, with the FORCE-N pro
 </nav>
 
 ### Access to services
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Asylum application and documentation route</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Demande d’asile au Sénégal](https://help.unhcr.org/senegal/fr/asile/)** — UNHCR Sénégal, 3 September 2026
-
-The UN refugee agency's Senegal office describes how to claim asylum: applications go to the National Eligibility Commission (CNE) in Dakar with a form, a signed request and four photographs. Applicants receive a renewable six-month receipt allowing free movement while the claim is decided, followed by two interviews. Refusals can be appealed. The page is undated.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Information system for monitoring and handling citizens' concerns</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Le communiqué du Conseil des ministres du jeudi 10 septembre 2026](https://aps.sn/le-communique-du-conseil-des-ministres-du-jeudi-10-septembre-2026/)** — Agence de Presse Sénégalaise, 10 September 2026
-
-Senegal's Council of Ministers on 10 September 2026 instructed the state digital company Sénégal Numérique SA, under the Prime Minister's office, to set up a national system for gathering and handling citizens' concerns, fed by ministries, local authorities and dialogue mechanisms. The meeting also set 15 September for the 2026 supplementary finance bill and 30 September for the 2027 finance bill.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1238,39 +494,9 @@ Senegal's parliamentary commission of inquiry into the One Student, One Computer
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#open-data">Open data</a>
 </nav>
 
 ### National statistics
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Civil-status agency statistical mandate</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Accueil - Agence nationale de l'Etat civil](https://anec.sn/)** — Agence nationale de l'État civil (ANEC), Sénégal, 3 September 2026
-
-Senegal's National Civil Registration Agency, ANEC, states its mandate on its website, including producing an annual statistical yearbook of civil-status data and passing those data to the statistics services. It is also charged with running a centralised national and consular civil-status database, linking it to other databases, and digitising and indexing the registers. The page carries no reliable publication date.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Report on the observance of standards and codes for macroeconomic statistics</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[IMF calls for stronger coordination of Senegal's economic data](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/)** — channelafrica.co.za, 3 September 2026
-
-An International Monetary Fund report on standards and codes found Senegal's macroeconomic statistics generally reliable but its statistical system running at two speeds, with sector agencies short of staff and money, Channel Africa reported on 3 September 2026. The IMF recommended a permanent inter-agency committee chaired by the national statistics agency ANSD and wider public-debt reporting; the authorities broadly accepted the recommendations.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1281,44 +507,6 @@ An International Monetary Fund report on standards and codes found Senegal's mac
 **[L’ANSD envisage de faciliter l’accès à distance aux données anonymisées (DG)](https://aps.sn/lansd-envisage-de-faciliter-lacces-a-distance-aux-donnees-anonymisees-dg/)** — Agence de Presse Sénégalaise, 13 October 2026
 
 Senegal's statistics agency is working towards remote access for authorised researchers to the anonymised detailed data now consulted on site in its data-access centres. Its director-general named personal-data protection, access security and conditions of use as the questions to settle.
-
-</div>
-
-</div>
-
-### Open data
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National data archive catalogue</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Catalogue de données — Archivage national des données du Sénégal (ANADS)](http://anads.ansd.sn/index.php/catalog)** — Agence nationale de la Statistique et de la Démographie (ANSD), Sénégal, 3 September 2026
-
-The national data archive catalogue of Senegal's statistics agency, ANSD, publishes view counts for each dataset: 4,808,203 for the 2013 census, 19,910 for the 2023 census and 24,422 for the 2024–2025 annual agricultural survey. Each dataset is marked either as licensed files or as microdata not available.
-
-</div>
-
-</div>
-
-## Geopolitics
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
-<a href="#eu-activities">EU activities</a>
-</nav>
-
-### EU activities
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">European Union digital cooperation with Senegal</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Global Gateway | EEAS — Stratégie Global Gateway au Sénégal](https://www.eeas.europa.eu/delegations/senegal/global-gateway_fr)** — Service européen pour l'action extérieure (SEAE) — Délégation de l'Union européenne au Sénégal, 3 September 2026
-
-The EU delegation in Senegal sets out its Global Gateway strategy there, under which Team Europe (the EU, France and Germany) supports digital services and narrowing the urban-rural digital divide. The EU says it helped Senegal draft its data and artificial intelligence strategies and will support their priority actions. The page is undated and names no digital memorandum or amounts specific to Senegal.
 
 </div>
 
