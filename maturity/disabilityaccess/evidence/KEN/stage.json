@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "4",
-   "rule": "inforce",
-   "delivered": "delivered",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "4",
+      "rule": "inforce",
+      "delivered": "delivered",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001;KEN-003",
+      "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+      "note": "Reassessed 2026-11-01: the Communications Authority's USF funds assistive devices for learners with print disabilities, and Nakuru County runs an online disability module for assistive-device applications. The website audits announced in October 2026 have no results yet, so not 5.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

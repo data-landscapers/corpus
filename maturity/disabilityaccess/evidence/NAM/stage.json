@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-002",
-      "gaps": "No source found since October 2023 says: is digital accessibility under way.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says digital accessibility is under way.",
+      "note": "Reassessed 2026-11-01: a 2024 report says nothing addresses digital inclusion of persons with disabilities beyond a vague broadband-policy reference. The website tests date from 2021, before the window, so not higher.",
+      "as_at": "2026-11-01"
     }
   ]
 }

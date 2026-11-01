@@ -1,6 +1,6 @@
 # Inclusion of persons with disabilities: digital accessibility
 
-*As at 2026-09-30.*
+*As at 2026-11-01.*
 
 ## The norm
 
@@ -22,10 +22,10 @@ The AU Disability Protocol asks for public information in accessible formats and
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 13 |
-| 3 Established | 4 |
-| 2 Nascent | 12 |
-| 1 Absent | 4 |
-| Unplaced | 7 |
+| 3 Established | 5 |
+| 2 Nascent | 11 |
+| 1 Absent | 5 |
+| Unplaced | 6 |
 | No evidence | 12 |
 
 ## Countries
@@ -85,6 +85,7 @@ Accessible digital services or assistive technology were delivered to persons wi
 Accessible digital services or assistive technology were delivered to persons with disabilities in 2026; no audit is published.
 
 - Nakuru County Government put into operation a digital platform whose disability module lets residents apply online or by mobile phone for assistive devices, empowerment programmes and tax relief, with 216 applications submitted so far ([source, 2026-09-22](https://www.nakuru.go.ke/new-digital-platform-launched-in-nakuru-county-to-improve-support-for-survivors-of-gender-based-violence-and-persons-with-disabilities/)).
+- The USF portfolio listed by the Communications Authority includes an Education Cloud and Assistive Tech project providing content and devices for learners with print disabilities ([source, 2025-08](https://www.kictanet.or.ke/major-usf-transparency-update-kenyas-communications-authority-responds-to-public-inquiry/)).
 
 ### Lesotho: 4 Operating
 
@@ -121,13 +122,20 @@ Accessible digital services or assistive technology were delivered to persons wi
 
 Accessible digital services or assistive technology were delivered to persons with disabilities in 2026; no audit is published.
 
-- Harare Institute of Technology hosted a two-day Zimbabwe University Libraries Consortium workshop training librarians from more than 22 state universities on assistive technologies (screen reader, Braille and reading devices), with equipment funded by a USD 220,000 grant secured by the consortium for its member libraries (HIT, 2026-06-10) ([source, 2026-06-30](https://www.hit.ac.zw/2026/06/10/opening-doors-to-every-learner-inside-hits-national-assistive-technologies-training-workshop/)).
+- The Herald reports the government-commissioned National Information Access Centre at Zimbabwe Open University includes an inclusive library with assistive technologies, and the vice chancellor says it has smart boards and assistive devices for students with disabilities ([source, 2026-03-20](https://www.heraldonline.co.zw/minister-shava-launches-ai-hub-at-zimbabwe-open-university/)).
 
 ### Algeria: 3 Established
 
 A rule in force required accessible information or digital services in 2026; delivery is not on record.
 
 - Executive decree 26-98 of 31 January 2026 (Arts 15-18, Journal officiel no. 13) requires ministries and bodies to take measures for access to information and communication for persons with specific needs, using braille press, adapted computing tools, sign language and subtitling, and to provide adapted ICT equipment and technical aids to pupils, students and trainees ([source, 2026-01-31](https://www.joradp.dz/FTP/jo-francais/2026/F2026013.pdf)).
+
+### Chad: 3 Established
+
+A 2007 law, reported in force in 2025, requires public bodies to adapt information systems for persons with disabilities; delivery is not on record.
+
+- Chad's State report to the CRPD Committee says article 32 of Act No. 007/PR/2007 requires the State, local authorities and public and private bodies to work to adapt the environment and communication and information systems so persons with disabilities can access services ([source, 2007-05-09](https://documents.un.org/doc/undoc/gen/g25/194/41/pdf/g2519441.pdf)).
+- Chad's State report says Decree No. 1521/PR/MFPPESN/2019 (articles 21-22) requires public transport agencies to provide sign language support for hard-of-hearing persons and information in Braille for persons with visual impairments ([source, 2019-09-11](https://documents.un.org/doc/undoc/gen/g25/194/41/pdf/g2519441.pdf)).
 
 ### Malawi: 3 Established
 
@@ -197,12 +205,6 @@ Work to make information and digital services accessible to persons with disabil
 - Digital transition minister Amal El Fallah Seghrouchni chaired a civil-society consultation with a workshop on access of persons with disabilities to digital public services, whose proposals are to feed the update of the third Open Government action plan 2024-2028, per LeNew ([source, 2026-09-07](https://lenew.ma/inclusion-numerique-le-gouvernement-mise-sur-les-jeunes-les-femmes-et-les-personnes-en-situation-de-handicap/)).
 - H24Info reports the digital transition minister held a workshop on improving access of persons with disabilities to digital public services, with recommendations for the update of the third Open Government action plan 2024-2028 ([source, 2026-09-07](https://h24info.ma/economie/inclusion-numerique-amal-seghrouchni-societe/)).
 
-### Sao Tome and Principe: 2 Nascent
-
-Work to make information and digital services accessible to persons with disabilities was under way in 2025; a rule in force is not on record.
-
-- The African Disability Rights Yearbook report says an ongoing process of adopting a five-year National Strategy for the Inclusion and Participation of People with Disabilities, developed with the UN Country Team, which prioritises accessibility among its legal reforms ([source, 2025](https://www.adry.up.ac.za/country-reports-2025/sao-tome-and-principe)).
-
 ### Somalia: 2 Nascent
 
 Work to make information and digital services accessible to persons with disabilities was under way in 2026; a rule in force is not on record.
@@ -214,6 +216,7 @@ Work to make information and digital services accessible to persons with disabil
 Work to make information and digital services accessible to persons with disabilities was under way in 2026; a rule in force is not on record.
 
 - The Minister in the Presidency for Women, Youth and Persons with Disabilities proposed an approach with South Africa and China that includes accessible websites and mobile applications, captioning, Braille, Easy Read and South African Sign Language services, within a seven-point action plan on accessibility and assistive technology ([source, 2026-08-11](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion)).
+- USAASA opened a public consultation on updating the 2010 ministerial determination on universal access and service, with a review of accessibility for people with disabilities among its issues ([source, 2026-10-10](https://www.sundaytimes.timeslive.co.za/business/2026-10-10-public-consultation-to-update-universal-access-policy/)).
 
 ### South Sudan: 2 Nascent
 
@@ -239,6 +242,13 @@ A 2024 source says no law or policy addresses digital access for persons with di
 
 - Paradigm Initiative's LONDA 2023 report says explicit details on digital inclusion of persons with disabilities are not available beyond a vague reference in the 2019 Broadband Policy, and that the National Disability Act of 2004 does not mention the internet or digitisation ([source, 2024-04](https://paradigmhq.org/wp-content/uploads/2024/06/Namibia-Country-Report.pdf)).
 
+### Sao Tome and Principe: 1 Absent
+
+A 2025 source says no law or policy addresses digital access for persons with disabilities.
+
+- AGER observes an absence of specific actions on accessibility in São Tomé and Príncipe's digital policy actions ([source, 2025-11](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2025/11/Dia-3-Sao-Tome-e-Principe-AGER.pdf)).
+- The report says the 2012 Basic Law for Persons with Disabilities excludes accessibility among its rights, and that the Labour Code (Law 6/2019) has no specific provisions on accessibility measures ([source, 2025](https://www.adry.up.ac.za/country-reports-2025/sao-tome-and-principe)).
+
 ### Senegal: 1 Absent
 
 A 2026 source says no law or policy addresses digital access for persons with disabilities.
@@ -252,12 +262,6 @@ Nothing found since 2023 names digital accessibility for persons with disabiliti
 Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Burundi: Unplaced
-
-Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
-
-### Chad: Unplaced
 
 Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 

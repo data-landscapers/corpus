@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "TZA-005",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-01: a 2025 WCAG evaluation of 42 e-government websites publishes its results, which answers every earlier question. TCRA's assistive website and the Tanzania accessibility standard sit beneath it.",
+      "as_at": "2026-11-01"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "2",
-   "rule": "underway",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found since October 2023 says: is a rule in force.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "2",
+      "rule": "underway",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source found since October 2023 says: is a rule in force.",
+      "note": "Reassessed 2026-11-01: the communications ministry's project unit committed in January 2026 to a grievance mechanism accessible whatever a person's disability. No rule in force is held, so not 3.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

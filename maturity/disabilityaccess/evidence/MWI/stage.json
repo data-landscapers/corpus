@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MWI-003",
       "gaps": "No source found since October 2023 says accessible digital services or assistive technology were delivered.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-01: section 30 of the Persons with Disabilities Act 2024 requires information published to the public in accessible formats. No delivery by a government body is held, so not 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }

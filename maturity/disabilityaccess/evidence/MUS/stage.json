@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MUS-003",
-      "gaps": "No source found since October 2023 says: is digital accessibility under way.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says digital accessibility is under way.",
+      "note": "Reassessed 2026-11-01: the CRPD Committee said in 2024 that the new disability Act does not cover information in accessible formats and recommended accessibility standards. The disability website and copyright exception are reported in 2020, before the window, so not 2.",
+      "as_at": "2026-11-01"
     }
   ]
 }

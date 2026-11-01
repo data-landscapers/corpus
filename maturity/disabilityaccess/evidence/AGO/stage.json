@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "no evidence",
-   "rule": "",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether information and digital services are made accessible to persons with disabilities.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "no evidence",
+      "rule": "",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says whether information and digital services are made accessible to persons with disabilities.",
+      "note": "Reassessed 2026-11-01: no row on this sub-indicator is held, so no stage is set.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

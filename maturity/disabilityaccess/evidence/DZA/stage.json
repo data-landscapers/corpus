@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "DZA-002",
       "gaps": "No source found since October 2023 says accessible digital services or assistive technology were delivered.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-01: executive decree 26-98 of January 2026 requires ministries to make information accessible through braille, sign language, subtitling and adapted computing. The software contests date from 2021-22, before the window, so no delivery sets 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }

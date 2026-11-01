@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CIV-003",
       "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-01: the Ministry of Employment received in 2025 a job site for job-seekers with disabilities and multimedia rooms at the School for the Deaf, built under its convention with the MTN Foundation. No audit result is held, so not 5.",
+      "as_at": "2026-11-01"
     }
   ]
 }

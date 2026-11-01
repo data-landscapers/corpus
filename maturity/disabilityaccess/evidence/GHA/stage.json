@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GHA-004",
       "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-01: Ghana told the CRPD Committee in 2024 that the NCA made GTV news broadcasts accessible to deaf viewers, a public broadcast made accessible. No audit result is held, so not 5.",
+      "as_at": "2026-11-01"
     }
   ]
 }

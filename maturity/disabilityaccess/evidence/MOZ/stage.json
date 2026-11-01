@@ -1,17 +1,18 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "3",
-   "rule": "inforce",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-001",
-   "gaps": "No source found since October 2023 says accessible digital services or assistive technology were delivered.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "3",
+      "rule": "inforce",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-001",
+      "gaps": "No source found since October 2023 says accessible digital services or assistive technology were delivered.",
+      "note": "Reassessed 2026-11-01: Lei 10/2024 gives a right of access to ICT and asks public services for information in accessible formats. The ITU assessment reports no results and no government delivery is held, so not 4.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

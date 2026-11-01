@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "4",
-   "rule": "inforce",
-   "delivered": "delivered",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-001;EGY-003",
-   "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "4",
+      "rule": "inforce",
+      "delivered": "delivered",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-001;EGY-003",
+      "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+      "note": "Reassessed 2026-11-01: the transport and ICT ministries put accessibility tools on their websites in 2026. No audit result is held, so not 5.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

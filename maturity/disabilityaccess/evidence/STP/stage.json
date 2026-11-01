@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "2",
-      "rule": "underway",
+      "stage": "1",
+      "rule": "none",
       "delivered": "",
       "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "STP-001",
-      "gaps": "No source found since October 2023 says: is a rule in force.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "STP-003;STP-002",
+      "gaps": "A 2025 report says a national disability strategy prioritising accessibility is being adopted, without saying it covers information or digital services; the 2025 statement of absence is newer.",
+      "note": "Reassessed 2026-11-01, 2 to 1: the regulator AGER observed in November 2025 no specific action on accessibility in digital policy, and the 2012 disability law excludes accessibility. The strategy under adoption names accessibility only in general, so it does not set 2.",
+      "as_at": "2026-11-01"
     }
   ]
 }

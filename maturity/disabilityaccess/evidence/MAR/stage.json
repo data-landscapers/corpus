@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "2",
-   "rule": "underway",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001;MAR-002",
-   "gaps": "No source found since October 2023 says: is a rule in force.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "2",
+      "rule": "underway",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001;MAR-002",
+      "gaps": "No source found since October 2023 says: is a rule in force.",
+      "note": "Reassessed 2026-11-01: the digital transition minister held a 2026 consultation on access of persons with disabilities to digital public services, for the Open Government plan. No rule in force is held, so not 3.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

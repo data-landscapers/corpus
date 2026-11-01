@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "4",
-   "rule": "inforce",
-   "delivered": "delivered",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001;UGA-002",
-   "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "4",
+      "rule": "inforce",
+      "delivered": "delivered",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001;UGA-002",
+      "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+      "note": "Reassessed 2026-11-01: the National Council for Persons with Disabilities opened an ICT hub with accessible facilities in Kasese in 2026. No audit result is held, so not 5.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

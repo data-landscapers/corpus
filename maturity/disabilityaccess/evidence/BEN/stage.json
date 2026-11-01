@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BEN-001",
       "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-01: the government set up digital classrooms with screen readers and braille displays for visually impaired pupils in 2023-24, a delivery that names its numbers. No audit result is held, so not 5.",
+      "as_at": "2026-11-01"
     }
   ]
 }

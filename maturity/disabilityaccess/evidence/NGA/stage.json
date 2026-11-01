@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "5",
-   "rule": "inforce",
-   "delivered": "delivered",
-   "audit": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-001;NGA-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "5",
+      "rule": "inforce",
+      "delivered": "delivered",
+      "audit": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-001;NGA-003",
+      "gaps": "",
+      "note": "Reassessed 2026-11-01: a 2026 assessment of about 30 government platforms, presented to NITDA, publishes its result, which answers every earlier question. NITDA's website guidelines requiring WCAG are the rule beneath it.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

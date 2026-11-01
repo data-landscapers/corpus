@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CMR-003",
-      "gaps": "No source found since October 2023 says: is a rule in force.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a rule is in force; a 2025 legal analysis says no specific law or policy governs access to ICT by persons with disabilities.",
+      "note": "Reassessed 2026-11-01: MINPOSTEL's PATNUC unit sought a consultant in 2024 to add accessibility to the digital plan, preparation that the 2025 finding of no specific law does not contradict. Marrakesh Treaty ratification permits accessible copies and requires nothing, so not 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

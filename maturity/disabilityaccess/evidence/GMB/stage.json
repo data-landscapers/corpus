@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "2",
-   "rule": "underway",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-001",
-   "gaps": "No source found since October 2023 says: is a rule in force.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "2",
+      "rule": "underway",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-001",
+      "gaps": "No source found since October 2023 says: is a rule in force.",
+      "note": "Reassessed 2026-11-01: PURA's draft Broadcasting and Online Content Regulations of 2026 carry mandatory sign language and aids. A draft is not in force, so not 3.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

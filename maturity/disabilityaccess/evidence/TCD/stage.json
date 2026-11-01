@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "unplaced",
-      "rule": "",
+      "stage": "3",
+      "rule": "inforce",
       "delivered": "",
       "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.",
-      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "TCD-001;TCD-002",
+      "gaps": "No source found since October 2023 says accessible digital services or assistive technology were delivered.",
+      "note": "Reassessed 2026-11-01, unplaced to 3: Chad's 2025 report to the CRPD Committee states that Act 007/PR/2007 requires public bodies to adapt communication and information systems, and a 2019 decree requires braille and sign language in public transport, so a source from the last three years says a rule is in force. No delivery is held, so not 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }

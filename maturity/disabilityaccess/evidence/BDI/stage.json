@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "unplaced",
-   "rule": "",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "unplaced",
+      "rule": "",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.",
+      "note": "Reassessed 2026-11-01: the only row is G3ict's 2020 survey data, dated by its own year, so it neither states an absence nor answers a question inside the last three years.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

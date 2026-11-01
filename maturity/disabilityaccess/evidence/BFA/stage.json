@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "2",
-   "rule": "underway",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001",
-   "gaps": "No source found since October 2023 says: is a rule in force.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "2",
+      "rule": "underway",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-001",
+      "gaps": "No source found since October 2023 says: is a rule in force.",
+      "note": "Reassessed 2026-11-01: the Ministry of Secondary Education launched with Light for the World a 2025 project for accessible digital teaching content for visually impaired pupils. No rule in force is held, so not 3.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

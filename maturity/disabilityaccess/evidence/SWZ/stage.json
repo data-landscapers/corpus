@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "4",
-   "rule": "inforce",
-   "delivered": "delivered",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001",
-   "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "4",
+      "rule": "inforce",
+      "delivered": "delivered",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001",
+      "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+      "note": "Reassessed 2026-11-01: ESCCOM's Universal Access Fund handed 13 assistive devices to the education ministry in 2026. No audit result is held, so not 5.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

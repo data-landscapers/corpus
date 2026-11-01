@@ -1,17 +1,18 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "2",
-   "rule": "underway",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001",
-   "gaps": "No source found since October 2023 says: is a rule in force.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "2",
+      "rule": "underway",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-001;ZAF-002",
+      "gaps": "No source found since October 2023 says: is a rule in force.",
+      "note": "Reassessed 2026-11-01: the disability minister proposed in 2026 an action plan with accessible websites, captioning and sign language, and USAASA is reviewing accessibility in universal service. No rule in force is held, so not 3.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

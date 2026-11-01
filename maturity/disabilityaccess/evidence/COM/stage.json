@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "1",
-   "rule": "none",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-001",
-   "gaps": "No source found since October 2023 says: is digital accessibility under way.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "1",
+      "rule": "none",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001",
+      "gaps": "No source found since October 2023 says digital accessibility is under way.",
+      "note": "Reassessed 2026-11-01: a 2026 civil-society submission says the 2014 disability law takes up neither accessibility nor access to information. Nothing since says work is under way, so not 2.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }
