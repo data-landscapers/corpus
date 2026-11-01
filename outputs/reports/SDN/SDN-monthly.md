@@ -1,14 +1,14 @@
 ---
-title: Sudan — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+title: Sudan — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: SDN
-ledger_rows: 38
+ledger_rows: 19
 not_held: 5
-record: 60d9d55076ff
+record: 47f460500e09
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
@@ -24,35 +24,13 @@ record: 60d9d55076ff
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#capacity">Capacity</a>
 </nav>
 
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
-<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#standards">Standards</a>
 </nav>
-
-### Strategies, plans and policies
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Central Bank of Sudan five-year strategic plan 2026-2030</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Bank of Sudan’s banking sector reform strategy faces range of challenges, led by digital transformation - Dabanga Radio TV Online](https://www.dabangasudan.org/en/all-news/article/bank-of-sudans-banking-sector-reform-strategy-faces-range-of-challenges-led-by-digital-transformation)** — Radio Dabanga, 21 September 2026
-
-An analysis of the Central Bank of Sudan's 2026–2030 strategic plan, published in December 2025, which includes speeding up digital transformation in the banking system. Banker Omar Sid Ahmed argues that with about 98% of the money supply outside the banks and branches lost to the war, the plan needs a 12-month emergency programme with budgets and measurable targets. He adds that digital projects depend on infrastructure that is not yet in place.
-
-</div>
-
-</div>
 
 ### Legislation and regulation
 
@@ -94,22 +72,6 @@ Rights groups and activists warn that a temporary decree issued by army commande
 
 </div>
 
-### Standards
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic payment of standards-certification fees</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[المواصفات بالنيل الأبيض تدشن التحصيل الإلكتروني عبر برنامج «إيصالي»](https://alradarnews.net/?p=28749)** — الرادار نيوز (Al Radar News), 15 September 2026
-
-The standards and metrology body's White Nile branch began collecting fees electronically, issuing a receipt at the moment of payment, presented as enforcement of a state-wide electronic collection decision.
-
-</div>
-
-</div>
-
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
@@ -144,20 +106,6 @@ The Arab Monetary Fund agreed to include Sudan in its technical assistance on di
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Horizon Fiber Initiative (Djibouti-Ethiopia-Sudan corridor)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
-
-Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial fibre project to Google, Meta, Microsoft, Amazon and other carriers and vendors in Addis Ababa on 7 September 2026. The multi-terabit link would connect cable landing stations in Djibouti and Port Sudan through Ethiopia, reducing reliance on Red Sea submarine cables. No cost or launch date is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Exam-period internet shutdowns</p>
 
 <div class="bulletin-item" markdown="1">
@@ -189,58 +137,16 @@ Sudan's prime minister issued a decision on 19 October 2026 forming a National M
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
-### Data Exchange
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic single window (National Investment Authority)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Investment Authority Launches Service to Activate Requirements Lists via Electronic One-Stop Platform](https://sudanhorizon.com/investment-authority-launches-service-to-activate-requirements-lists-via-electronic-one-stop-platform/)** — Sudan Horizon, 1 September 2026
-
-Sudan's National Investment Authority activated a service on its electronic One-Stop Platform that lets investors submit and track project requirements lists online without attending in person. Secretary-General Ahlam Madani said it implements government directives on digital transformation and is being integrated with other institutions. No launch date, user numbers or supplier is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[خدمة جديدة عبر بلدنا لتسهيل إجراءات المستثمرين](https://atheernews.net/222149/)** — Atheer News (reproducing Ministry of Digital Transformation and Communications / National Investment Authority statement), 3 September 2026
-
-Sudan's Ministry of Digital Transformation and Communications and the National Investment Authority launched a service on the Baladna platform, reported on 3 September 2026, through which licensed investors submit lists of goods and equipment to be imported. The service exchanges data electronically with industry, transport and agriculture bodies, and passes approved items to the Customs Authority.
-
-</div>
-
-</div>
-
 ### Digital Identity and CRVS
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SUDAPASS (national digital identity)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[بنك أم درمان الوطني أول بنك يتيح تحديث بيانات العملاء رقمياً باستخدام سوداباس](https://www.suna.sd/posts/bnk-am-drman-alotny-aol-bnk-ytyh-thdyth-byanat-alaamlaaa-rkmya-bastkhdam-sodabas)** — Sudan News Agency (SUNA), 26 September 2026
-
-Omdurman National Bank became the first bank in Sudan to link to the national digital identity SudaPass on 26 September 2026, letting customers inside and outside the country update their data through its digital channels without visiting a branch. The digital transformation ministry and the Central Bank of Sudan are connecting other banks as each becomes technically ready.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -260,103 +166,7 @@ The prime minister of Sudan's TASIS-backed administration announced plans for a 
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Outage of the dominant mobile payment application</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Sudan pound hits 7,000 as banking system falters - The Sudan Times](https://thesudantimes.com/sudan/sudan-pound-hits-7000-as-banking-system-falters/)** — The Sudan Times, 3 September 2026
-
-Bankak, Sudan's main mobile payment app run by the Bank of Khartoum, failed with other digital banking platforms on 2 September 2026 as the pound reached 7,000 to the US dollar on the parallel market. The bank apologised and said its teams were restoring service. Bakeries, petrol stations and other businesses turned away customers who could not pay electronically.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[حملة لمقاطعة تطبيق بنكك.. دعوات لسحب الأموال وتحويل العملاء إلى بنوك سودانية أخرى](https://akher-khabar.com/archives/63864)** — Akher Khabar, 9 September 2026
-
-A social-media campaign in Sudan urged Bank of Khartoum customers to boycott its Bankak app, withdraw their money and move to Family Bank, Savings Bank or Omdurman National Bank, citing repeated app outages. Posts also claimed the bank had stopped transfers to other banks and alleged Emirati shareholding; the report notes neither claim carries independent documentation or official confirmation.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Bankak outages disrupt Sudan's digital payments and markets](https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets)** — Dabanga Radio TV Online, 10 September 2026
-
-Repeated outages on Bank of Khartoum's Bankak app and Faisal Islamic Bank's Fawry service disrupted transfers, payments and trade in Sudan between late August and early September 2026, pushing demand back to cash, Radio Dabanga reported on 10 September. A banking expert said some traders now accept only cash; an IT consultant called on the Central Bank of Sudan to lead a national interoperable payment system.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**["لا وصول للأموال".. عندما يتعطل أهم تطبيق "بنكي" بالسودان](https://www.alarabiya.net/arab-and-world/sudan/2026/10/09/%D9%84%D8%A7-%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%84%D8%A7%D9%85%D9%88%D8%A7%D9%84-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%AA%D8%B9%D8%B7%D9%84-%D8%A7%D9%87%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D9%86%D9%83%D9%8A-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86)** — Al Arabiya, 9 October 2026
-
-Outages of Bank of Khartoum's Bankak app left Sudanese customers unable to reach or transfer money during cash and fuel shortages, Al Arabiya reported on 9 October 2026. Sudan's energy and oil ministry blamed fuel-station queues partly on slow banking apps, and a speaker warned of losses to government collection through the Eesaly system. The bank apologised and said its teams were working round the clock.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Framework agreement for mobile POS revenue-collection devices</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[اتفاق جديد لتوريد أجهزة تحصيل إلكتروني محمولة](https://suda.news/51307)** — Suda News, 11 September 2026
-
-Sudan's Federal Ministry of Finance signed a framework agreement with 11 companies to bid in restricted tenders to supply mobile point-of-sale devices for collecting public revenue in state institutions. IT director-general Lamia Mohamed Nour described the devices as a secure way to collect revenue. No contract value, signing date or delivery schedule is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Commission charged to convert transfers into cash</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cash crisis eats into humanitarian aid in East Darfur](https://thesudantimes.com/sudan/cash-crisis-eats-into-humanitarian-aid-in-east-darfur/)** — The Sudan Times, 14 September 2026
-
-Families receiving humanitarian aid in Sudan's East Darfur are losing 40% to 45% of payments to fees for converting Bankak app transfers into cash, amid a banknote shortage and traders' refusal of electronic payment. A displaced mother in El Daein received 780,000 Sudanese pounds and collected 468,000.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[أزمة في الكاش بالخرطوم وارتفاع نسبة التبديل عبر التطبيقات البنكية](https://www.sudanindependent.com/news/economic/2026/09/16/%D8%A3%D8%B2%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%A7%D8%B4-%D8%A8%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9)** — Sudan Independent, 16 September 2026
-
-The commission for exchanging bank-app balances such as Bankak for cash has risen to as much as 10% in Sudan's Khartoum State amid a cash shortage and restrictions on several banking apps, Sudan Independent reported on 16 September 2026, citing Darfur24. Most dealers charge 5%. Locals said the dollar rose from about 6,150 Sudanese pounds in early September to about 8,000.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Single-price directive for cash and app payments in RSF-held areas</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Dagalo orders unified cash, digital payment prices in Darfur](https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/)** — The Sudan Times, 15 September 2026
-
-Rapid Support Forces commander Mohamed Hamdan Dagalo ordered traders in RSF-held areas of Sudan to charge one price whether customers pay in cash or through the Bankak app, a Future Bank manager in East Darfur said. The gap between cash and electronic prices had reached about 40% in some markets. Government bodies in those areas were told to stop collecting payments through Bankak and use Future Bank instead.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Isali / Eisali (electronic government-collection system)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Finance Ministry Signs SMS Service Agreement with MTN Sudan](https://sudanhorizon.com/finance-ministry-signs-sms-service-agreement-with-mtn-sudan/)** — Sudan Horizon, 27 September 2026
-
-Sudan's Ministry of Finance signed an agreement with MTN Sudan to provide SMS services for Eesaly, the state electronic collection and payment system, the ministry said on 27 September 2026. Citizens with MTN SIM cards will be able to use Eesaly services and track their transactions by text message. No cost or start date is given.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -378,20 +188,6 @@ Sudan's Ministry of Finance signed a contract with Sudani Telecom on 8 October 2
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Sudan Pay Digital mobile-payment and switching licence</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[CBoS Revokes Sudan Pay Digital’s Mobile Payment License](https://sudanhorizon.com/cbos-revokes-sudan-pay-digitals-mobile-payment-license/)** — Sudan Horizon, 28 September 2026
-
-The Central Bank of Sudan's governor, Amna Mirghani Hassan Al-Tom, revoked Sudan Pay Digital's licence for mobile payments and financial transaction switching by Administrative Decision No. 65 of 2026, issued on 28 September. The decision cites the Banking Business Regulation Act of 2026 and payment regulations; no reason is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Baladna Bibasata USSD banking service</p>
 
 <div class="bulletin-item" markdown="1">
@@ -399,6 +195,20 @@ The Central Bank of Sudan's governor, Amna Mirghani Hassan Al-Tom, revoked Sudan
 **[مصرف البلد يطلق “بلدنا ببساطة” بالتعاون مع MTN .. خدمة مصرفية بلا إنترنت](https://alwijha24.com/83548)** — Al-Wijha 24, 6 October 2026
 
 Sudan's Albalad Bank launched "Baladna Bibasata" in Khartoum, a USSD banking service built with MTN Sudan that needs neither internet nor a smartphone. It is aimed in particular at letting humanitarian organisations pay beneficiaries. Its technical partner, Smart Solutions, said it is the first step towards a services platform modelled on M-Pesa. The launch date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Outage of the dominant mobile payment application</p>
+
+<div class="bulletin-item" markdown="1">
+
+**["لا وصول للأموال".. عندما يتعطل أهم تطبيق "بنكي" بالسودان](https://www.alarabiya.net/arab-and-world/sudan/2026/10/09/%D9%84%D8%A7-%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%84%D8%A7%D9%85%D9%88%D8%A7%D9%84-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%AA%D8%B9%D8%B7%D9%84-%D8%A7%D9%87%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D9%86%D9%83%D9%8A-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86)** — Al Arabiya, 9 October 2026
+
+Outages of Bank of Khartoum's Bankak app left Sudanese customers unable to reach or transfer money during cash and fuel shortages, Al Arabiya reported on 9 October 2026. Sudan's energy and oil ministry blamed fuel-station queues partly on slow banking apps, and a speaker warned of losses to government collection through the Eesaly system. The bank apologised and said its teams were working round the clock.
 
 </div>
 
@@ -498,129 +308,7 @@ The Global Survivors Fund opened a tender for a secure, offline-capable digital 
 
 </div>
 
-### Sectoral management information systems
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Zakat chamber integrated resource-planning system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[ديوان الزكاة يوقّع عقداً لاستكمال نظام المصارف والموارد البشرية والمالية - صحيفة الفجر](https://alfjrnews.net/29666/)** — صحيفة الفجر, 2 September 2026
-
-Sudan's Zakat Chamber signed a contract with the National Technical Company, formerly the Nile Centre, to complete an enterprise resource planning system linking its disbursement, human-resources and finance functions. Work on the system had stopped because of the war. No cost or timetable is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Bayan (national civil-service HR platform)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[السماني عوض الله يكتب: "بيان" وديوان شؤون الخدمة المدنية](https://alhakim.net/142125)** — Al-Hakim News, 6 September 2026
-
-Columnist Al-Samani Awadallah, writing in Al-Hakim News on 6 September 2026, backs Sudan's Bayan digital platform for the civil service, which is to hold state employees' records from appointment to retirement, including promotions, transfers and leave. He presents it as a remedy for job manipulation and favouritism. The piece gives no launch date, cost or supplier.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Advance cargo declaration</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[الجمارك تتوسع في تطبيق الإقرار المسبق للشحنات وتستعد لتعميمه بكافة المنافذ](https://www.sudanindependent.com/news/politics/2026/09/30/%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%AA%D8%AA%D9%88%D8%B3%D8%B9-%D9%81%D9%8A-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A5%D9%82%D8%B1%D8%A7%D8%B1)** — Sudan Independent (SUNA), 30 September 2026
-
-Sudan's customs said it would extend its Advance Cargo Declaration system from early October to every port and border crossing, after a trial at Port Sudan's southern port. The system lets importers file shipment data and documents before arrival to shorten clearance.
-
-</div>
-
-</div>
-
 ### Other GovTech and e-Gov
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Animal resources ministry website</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Animal Resources Ministry Launches Official Website](https://www.suna.sd/posts/animal-resources-ministry-launches-official-website)** — Sudan News Agency (SUNA), 7 September 2026
-
-Sudan’s animal resources and fisheries ministry launched an official website for producers, breeders and investors, presented as a step in digital transformation.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Police public service complexes for identity and civil documents</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[من الرماد إلى الرقمنة.. مجمعات الجمهور تعود](https://sudan4news.com/?p=35463)** — Sudan4News, 9 September 2026
-
-The head of Sudan's police public service complexes, Major General Tariq al-Rih, said on 9 September 2026 that the Omdurman and Bahri complexes, which house passport, civil registry and traffic services, are fully running and Khartoum's will partly reopen. Transactions rose from 206,362 in 2025 to 522,225 in 2026, and he set a three-month plan to put all complexes online.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Police Forum (5): Digital Transformation and Identity Protection Take Center Stage in the Battle of Dignity](https://fjajpress.net/en/police-forum-5-digital-transformation-and-identity-protection-take-center-stage-in-the-battle-of-dignity/)** — Fjaj Press, 10 September 2026
-
-Sudan's police leadership said at the fifth Police Forum in Khartoum that passports, national ID cards and driving licences will be obtainable online by phone or computer. Public service complexes have abolished cash through a partnership with seven banks, and completed transactions rose from 206,162 in 2025 to 522,225 in 2026; services are to extend to five more states.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Baladna government platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[National Committee for Managing the Economy: Closing Loopholes Behind Currency Value Erosion](https://sudanhorizon.com/national-committee-for-managing-the-economy-closing-loopholes-behind-currency-value-erosion/)** — Sudan Horizon, 14 September 2026
-
-Sudan's National Economic Management Committee, chaired by Prime Minister Kamil Idris, met in Khartoum on 13 September 2026 and called for electronic connectivity and coordination among ministries and training in digital transformation. It backed the Tax Chamber to widen the tax base and directed that imports be regulated through the Baladna platform.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Itzan national budget system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[وزير الدولة بالمالية يعلن بدء نظام إتزان للموازنة](https://www.suna.sd/posts/ozyr-aldol-almaly-yaaln-bday-antlak-ntham-atzan-llmoazn)** — Sudan News Agency (SUNA), 16 September 2026
-
-Sudan's minister of state for finance, Mohamed Nour Abdeldaim, announced on 16 September 2026 that the ministry has begun launching Itzan, a national budget system covering estimates, execution and analysis. It is in its final stages and is planned for use in the 2027 budget and in full from 2028, with support from UNDP, the IMF and the World Bank.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online application and payment for the Sudan School Certificate</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[التربية تدشن التقديم والدفع الإلكتروني لاستخراج الشهادة السودانية - الحاكم نيوز](https://www.alhakim.net/142777)** — Alhakim News, 29 September 2026
-
-Sudan's Ministry of Education and National Education launched online application and electronic fee payment for the Sudan School Certificate on 29 September 2026. Students can apply, pay and choose where to collect the certificate, inside or outside Sudan; the minister, Al-Tuhami Al-Zein Hajar, thanked the Ministry of Digital Transformation and Communications. No fee is stated.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -712,20 +400,6 @@ A joint meeting of Khartoum locality and two Khartoum State councils agreed that
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">University admissions chatbot</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Soudan: Un assistant automatisé pour répondre immédiatement aux questions concernant les candidatures universitaires en ligne](https://fr.allafrica.com/stories/202609250240.html)** — allAfrica.com, 25 September 2026
-
-Sudan's Ministry of Higher Education and Scientific Research launched a chatbot on its online admissions portal, reported on 25 September 2026. It answers general admission questions in Arabic and refers complex or personal-data requests to a human support centre reachable on the number 2511, as part of the 2026-2027 registration campaign.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
 
 <div class="bulletin-item" markdown="1">
@@ -733,28 +407,6 @@ Sudan's Ministry of Higher Education and Scientific Research launched a chatbot 
 **[Country Profile on AI Governance: Sudan](https://www.aipolicy.africa/country-profiles/sudan)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Sudan scored 0.23 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 52 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Governance and Regulation (0.50); the profile finds no AI strategy or data protection law, and a Data and AI Authority created by decree in 2025.
-
-</div>
-
-</div>
-
-## Capacity
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
-<a href="#training-and-skills">Training and skills</a>
-</nav>
-
-### Training and skills
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">E-learning and Blended Learning Regulation 2026</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[بروفيسور بكري موسي عبد الكريم يكتب : على خُطى الجامعة الوطنية: قرار تاريخي باعتماد لائحة التعليم الإلكتروني في السودان](https://aswatnews.net/?p=62393)** — Aswat News, 13 September 2026
-
-The president of Sudan's National Council for Higher Education and Scientific Research approved the E-learning and Blended Learning Regulation 2026 by decision 138, signed and in force from 12 September 2026. An academic's commentary says it gives e-learning in higher-education institutions a formal legal basis rather than treating it as a wartime stopgap.
 
 </div>
 
