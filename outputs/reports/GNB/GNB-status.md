@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-10-31
+compiled: 2026-11-01
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 173
+sources_cited: 174
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -138,6 +138,8 @@ Five commitments bear on Guinea-Bissau as at September 2026 — four distinct op
 [A feasibility study assessed what a national government cloud would require and prepared terms of reference and tender documents for it](https://cybilportal.org/projects/feasibility-study-of-guinea-bissaus-cybersecurity-landscape/) (2025).
 
 [The national digital strategy plans a phased Centro Nacional de Dados, beginning at small scale](http://faolex.fao.org/docs/pdf/gbs235634.pdf). [It would end the fragmentation of small processing centres spread across ministries and serve as a test-bed for private-sector projects](http://faolex.fao.org/docs/pdf/gbs235634.pdf). [The strategy states that its viability depends on reliable electricity, which it places outside its own scope](http://faolex.fao.org/docs/pdf/gbs235634.pdf).
+
+In March 2026 the UN Development Programme [began building the national data centre at Alto Bandim in Bissau, with completion planned for July](http://conosaba.blogspot.com/2026/03/pnud-inicia-construcao-do-centro.html). [The Japan-funded project, put at about US$762,000, also houses the state IT institute and the data protection and cybersecurity agencies](http://conosaba.blogspot.com/2026/03/pnud-inicia-construcao-do-centro.html). No completion has been found.
 
 [A contractor completed a 2,124 square-metre data centre of Tier 3 design for Orange Bissau at Nhacra in February 2025](https://sextant-cpi.com/projects/datacenter-ogb/). No date of its entry into service has been found. [No top-five cloud provider had an established or announced public cloud region anywhere in West Africa](https://cms.d4dhub.eu/assets/West-Africa-Data-Center-Markets-Brief.pdf) (early 2025). [A Tier III colocation data centre positioned to serve the WAEMU bloc broke ground in Abidjan in November 2022](https://www.raxiogroup.com/raxio-group-breaks-ground-for-construction-of-raxio-abidjan-in-cote-divoire/). The effect shows in public data. [The country's national summary data page is hosted on a national Open Data Platform provided by the African Development Bank](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system).
 
