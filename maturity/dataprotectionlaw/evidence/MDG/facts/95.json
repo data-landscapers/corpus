@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Minister Delmotte says Madagascar now has the CMIL, the Commission Malagasy des Informations et des Libertés, which oversees personal data protection and can enforce rules and impose penalties.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "CMIL",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CMIL",
+   "country_label": "Commission Malagasy des Informations et des Libertés",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

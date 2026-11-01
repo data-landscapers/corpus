@@ -1,6 +1,20 @@
 {
   "iso3": "TUN",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "", "application": "", "last12": "advancing", "cap": "", "flags": "under revision;advancing", "stage_sources": "TUN-012", "gaps": "No regulation under organic law 2004-63 and no dated sanction, decision or count under it has been found; TUN-001 and TUN-002 (3 October 2026, including the INPDP standstill) post-date the as-at and set nothing. The 2021 members' three-year term has run out and no later appointment has been found.", "note": "Organic law 2004-63 is the operative statute, in force, so stage 3; stage 4 needs a dated applied or reported fact within three years and none is held. Authority is constituted (TUN-014, newest fact on the body) so no cap applies; the 123-article bill before the ARP (TUN-003, -005, -006, -009) is the under revision flag and its committee work in February 2026 the advancing flag."}
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "provided",
+      "standing": "in-force",
+      "regulations": "",
+      "application": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "under revision;advancing",
+      "stage_sources": "TUN-012",
+      "gaps": "No regulation under organic law 2004-63 and no dated sanction, decision or count under it has been found. A health ministry official told the Assembly in February 2026 that the INPDP has ceased its activities since 2024 (TUN-025), so the authority is provided and not acting.",
+      "note": "Organic law 2004-63 is in force, so stage 3; stage 4 needs a dated applied or reported fact within three years and none is held. The bill before the Assembly (TUN-024, February 2026) is the under revision flag and its committee hearing the advancing flag; the INPDP's standstill would cap any higher stage.",
+      "as_at": "2026-11-01"
+    }
   ]
 }

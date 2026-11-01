@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-13-cod-allocution-du-president-du-college-de-l-arptc-a-l-occasion-de-la-confe",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The ARPTC president marks two years of application of Ordonnance-Loi No 23/010 of 13 March 2023 on the Digital Code, which the speech says governs personal data protection.",
+   "as_of": "2025-03-13",
+   "date_precision": "day",
+   "system": "Code du numerique (Ordonnance-Loi No 23/010)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The ARPTC president says the ministerial order of 17 August 2024 provisionally entrusted the regulator with personal data protection and that it will pursue awareness, controls and sanctions.",
+   "as_of": "2024-08-17",
+   "date_precision": "day",
+   "system": "ARPTC",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARPTC",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "authority",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-13-gmb-gambia-has-ecowas-s-most-advanced-data-protection-law-minister-jabbi-s",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Minister Lamin Jabbi said in a radio interview that The Gambia 'already ha[s] a law in place', a 2025 data protection law.",
+   "as_of": "2026-05-13",
+   "date_precision": "day",
+   "system": "Gambia data protection law 2025",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "Minister Jabbi said oversight of data protection has been assigned to the Access to Information Authority's commissioners so one commission regulates both, and that the commissioners were being trained.",
+   "as_of": "2026-05-13",
+   "date_precision": "day",
+   "system": "Access to Information Authority",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Access to Information Authority (commissioners)",
+   "country_label": "The Gambia",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

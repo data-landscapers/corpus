@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-12-gab-gabon-digital-l-apdpvp-et-le-ministere-de-l-economie-numerique-prepare",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The APDPVP cites law n°025/2023 of 12 July 2023 amending law n°001/2011 of 25 September 2011 on personal data protection as the Gabonese legal framework.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Law n°001/2011 as amended by law n°025/2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APDPVP, an independent administrative authority led by president Joël Dominique Ledaga, held a working session on 9 June 2026 and says it oversees the rules on collecting, processing, storing and securing data.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "APDPVP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

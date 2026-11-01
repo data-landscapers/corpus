@@ -1,0 +1,37 @@
+{
+ "slug": "2025-01-20-mar-evenements-significatifs-de-controle",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CNDP refers to enforcing compliance with law 09-08 and says the legislation in force imposes no public register of complaints and controls.",
+   "as_of": "2025-01-20",
+   "date_precision": "day",
+   "system": "Law 09-08",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CNDP is acting, publishing a log of control events it follows, with contact made with controllers and cases under study.",
+   "as_of": "2025-01-20",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The CNDP's table lists press-reported cases such as visa centres, Avito and Tawjihi.ma with contact made, infractions noted for some and status 'en cours d'etude', but states no sanction or decision.",
+   "as_of": "2025-01-20",
+   "date_precision": "day",
+   "system": "CNDP control events log",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "2025-08-31-uga-uganda-data-protection-office-decision-data-controllers-held-liable",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The PDPO decided Complaint PDPO 061/2024 against Chipper Technologies Uganda Limited on 12 March 2025, finding no infringement but directing it to amend its privacy notice to require explicit consent beyond regulatory compliance, as summarised by DRAA on 31 August 2025.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act, Cap. 97",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The PDPO applied the Data Protection and Privacy Act, Cap. 97 to a complaint in a decision of 12 March 2025.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act, Cap. 97",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The PDPO issued a dated decision in Complaint PDPO 061/2024 on 12 March 2025.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office (PDPO)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection and Privacy Act, Cap. 97",
+   "country_label": "Uganda",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Personal Data Protection Office (PDPO)",
+   "country_label": "Uganda",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "2025-07-01-tgo-communique-lancement-du-processus-de-declaration-des-dispositifs-de-vi",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The IPDCP, Togo's data protection instance, issued a communique opening the declaration process for CCTV devices.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Instance de Protection des Donnees a Caractere Personnel (IPDCP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The IPDCP says declaration of CCTV devices is launched under law 2019-014 of 29 October 2019, articles 6, 8 and 10.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Law 2019-014 of 29 October 2019",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The IPDCP launched the declaration and authorisation process for CCTV, with a standard form and a compliance pictogram, and no decision on a controller.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "IPDCP CCTV declaration process",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

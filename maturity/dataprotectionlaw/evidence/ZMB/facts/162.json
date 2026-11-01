@@ -1,0 +1,44 @@
+{
+ "slug": "2024-02-23-zmb-data-protection-commission-to-initiate-inspections-and-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Data Protection Act's implementation process commenced in February 2024, in phases from self-assessment in March to inspections and enforcement in April 2024.",
+   "as_of": "2024-02-23",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Commissioner, Likando Luywa, presented the Commission's enforcement roadmap on 23 February 2024, with inspections and enforcement to start in April 2024.",
+   "as_of": "2024-02-23",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Zambia",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Zambia",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Regulations and enforcement are stated as still to come."
+}

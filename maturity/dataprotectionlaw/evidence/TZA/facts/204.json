@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The report cites the Personal Data Protection Act (2022) as enacted and part of the legal foundation.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Personal Data Protection Act (2022)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Act (2022)",
+   "country_label": "Tanzania",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

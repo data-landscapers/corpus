@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-01-cod-rdc-publication-au-journal-officiel-de-la-decision-fixant-la-procedure",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Africa Data Protection reports the ARPTC has exercised the data protection authority's missions provisionally since March 2023, while the authority the Digital Code provides for is not yet installed.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "ARPTC",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "Africa Data Protection reports ARPTC Decision n° 039/ARPTC/CLG/2025 on prior formalities was published in the Journal officiel special issue of 23 April 2026, making it enforceable.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "Décision n° 039/ARPTC/CLG/2025",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

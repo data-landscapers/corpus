@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-20-stp-rede-lusofona-de-protecao-de-dados",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The authority's head signed the statutes of the Lusophone Data Protection Network on 20 March 2025 as a founding member, so Sao Tome and Principe's authority is in post.",
+   "as_of": "2025-03-20",
+   "date_precision": "day",
+   "system": "Agencia Nacional de Protecao de Dados de Sao Tome e Principe",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agencia Nacional de Protecao de Dados de Sao Tome e Principe",
+   "country_label": "Sao Tome and Principe",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only the authority is stated; the document says nothing of the law's standing, regulations or application."
+}

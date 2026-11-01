@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-29-mus-financial-sector-urged-to-strengthen-data-protection-and-cybersecurity",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Commissioner, Mrs Drudeisha Madhub, is in post and spoke at the launch of the Guide on Data Protection in the Mauritian Financial Sector.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Data Protection Commissioner",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Minister said only around 23,000 of an estimated 60,000 entities required to register as data controllers, processors or collectors had completed registration.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Data controller registration",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "No decision, sanction or count of settled cases stated."
+}

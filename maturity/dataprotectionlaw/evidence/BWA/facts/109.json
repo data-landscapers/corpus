@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-17-bwa-new-botswana-data-protection-act-progressive-step-to-a-more-secure-dig",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "MISA says Data Protection Act 18 of 2024, published 29 October 2024, came into effect on 14 January 2025, replacing the 2018 Act.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Data Protection Act 18 of 2024",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Act, in effect from 14 January 2025, keeps the Information and Data Protection Commission, whose commissioners the President appoints, as the national authority.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Information and Data Protection Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 18 of 2024",
+   "country_label": "Botswana",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Information and Data Protection Commission",
+   "country_label": "Botswana",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No regulations or application are stated."
+}

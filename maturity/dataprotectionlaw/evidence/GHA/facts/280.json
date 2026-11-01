@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-23-gha-one-million-coders-programme-government-targets-400-000-beneficiaries",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The minister said 15 new and amended bills, including on data protection, were at various stages and would soon go to Cabinet after stakeholder consultations.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "data protection bill",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

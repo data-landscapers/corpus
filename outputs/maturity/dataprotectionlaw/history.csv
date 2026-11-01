@@ -37,3 +37,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-31,SEN,gov.legislate--data-protection-legislation,ladder,4,5,SEN-003;SEN-001;SEN-002,"Stage 5 needs no regulation (Bill, messages-for-bill 55, 2026-10-31)"
 2026-10-31,KEN,gov.legislate--data-protection-legislation,ladder,4,5,KEN-022;KEN-002;KEN-004;KEN-015;KEN-018;KEN-001,"Regular bulletin counts (Bill, messages-for-bill 54, 2026-10-31)"
 2026-10-31,SYC,gov.legislate--data-protection-legislation,ladder,3,4,SYC-019;SYC-018;SYC-017,"Cases handled imply decisions (Bill, messages-for-bill 63, 2026-10-31)"
+2026-11-01,CIV,gov.legislate--data-protection-legislation,fact,3,4,CIV-003;CIV-009;CIV-025;CIV-023;CIV-024;CIV-026,"The authority's register lists decision 2024-0996 of January 2024 on named controllers: applied, so 3 to 4"
+2026-11-01,COD,gov.legislate--data-protection-legislation,fact,3,3,COD-002;COD-006;COD-013;COD-018;COD-017,"ARPTC acting as authority since 2024 and its prior-formalities decision gazetted April 2026; application still activity, stays 3"
+2026-11-01,GMB,gov.legislate--data-protection-legislation,fact,3,3,GMB-010;GMB-012;GMB-014;GMB-019,Minister says in May 2026 the 2025 law is in place; oversight assigned to the access to information commissioners; stays 3
+2026-11-01,STP,gov.legislate--data-protection-legislation,fact,3,3,STP-005;STP-007;STP-013;STP-016,"ANPDP's 2026 complaints and compliance warnings are activity, no decision named; stays 3"
+2026-11-01,TUN,gov.legislate--data-protection-legislation,fact,3,3,TUN-012,"INPDP reported inactive since 2024 and the replacement bill before the Assembly; no decision under the law, stays 3"

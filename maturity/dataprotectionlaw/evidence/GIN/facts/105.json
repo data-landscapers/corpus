@@ -1,0 +1,27 @@
+{
+ "slug": "2025-09-27-gin-protection-des-donnees-personnelles-en-guinee-mamadou-alpha-diallo-ale",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Mamadou Alpha Diallo says a legal framework exists in the 2016 law on cybersecurity and personal data protection, whose personal-data part is little respected and largely not implemented.",
+   "as_of": "2025-09-27",
+   "date_precision": "day",
+   "system": "2016 law on cybersecurity and protection of personal data",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "Mamadou Alpha Diallo says the law provides for an independent data protection authority that has not yet been set up in Guinea.",
+   "as_of": "2025-09-27",
+   "date_precision": "day",
+   "system": "Personal data protection authority",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

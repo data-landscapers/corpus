@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-26-gha-moc-keynote-national-data-protection-conference-2026",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The minister called for compliance with the Data Protection Act 2012 (Act 843), which he treated as the law in force, while a new Data Protection Bill is being developed.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Data Protection Act 2012 (Act 843)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The minister said organisations should register with the Data Protection Commission, which he said must be central to the SIM registration's data protection.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 2012 (Act 843)",
+   "country_label": "Ghana",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

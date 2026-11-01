@@ -21,8 +21,8 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 | Stage | Countries |
 |---|---|
 | 5 Leading | 9 |
-| 4 Operating | 9 |
-| 3 Established | 28 |
+| 4 Operating | 10 |
+| 3 Established | 27 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
@@ -151,6 +151,19 @@ Cabo Verde's data protection law is in force and its commission decided 297 requ
 - CNPD president Faustino Varela says the base law dates from 2001, was amended in 2013 (which led to the CNPD's constitution) and in 2021 (data protection officer obligation), and the CNPD works from the general legal regime since 2015-2016; stated in an interview published 2025-02-02 ([source, 2025-02-02](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448)).
 - The CNPD president said the commission decided 297 processes out of 326 requests during 2023, and received seven complaint processes ([source, 2023](https://tiver.cv/cnpd-apresenta-relatorio-de-atividades-de-2023/)).
 - The CNPD, headed by president Faustino Varela, held an international conference on personal data protection in the AI era for its 10th anniversary, with the Prime Minister opening it ([source, 2025-03-19](https://expressodasilhas.cv/pais/2025/03/19/presidente-da-cnpd-defende-dialogo-entre-os-ecossistemas-de-governanca-de-dados-para-equilibrar-regulacao-da-ia/96153)).
+
+### Cote d'Ivoire: 4 Operating
+
+Côte d'Ivoire's 2013 data protection law is applied, with a formal notice to named controllers in 2024; no yearly count of decisions is known.
+
+*Advancing.*
+
+- On 18 May 2026 the digital minister cited the law of 19 June 2013 on personal data as the country's existing framework; the document does not give its number or say in terms that it is in force ([source, 2026-05-18](https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire)).
+- The decree, made under law no. 2013-450 of 19 June 2013 on personal data protection, treats the law as operating, with filing fees, prior authorisations and fines up to FCFA 500 million on repeat breach ([source, 2015-02-04](https://www.artci.ci/wp-content/uploads/2024/05/decret_2015_79.pdf)).
+- Authority decisions of 2017 and 2021 are made in application of loi n 2013-450 of 19 June 2013 on personal data protection ([source, 2024-01-16](https://www.autoritedeprotection.ci/decisions/)).
+- The Autorite de protection's register lists decision 2024-0996 of 16 January 2024 giving a warning and formal notice to the METFPA ministry and the company Kaydan Groupe ([source, 2024-01-16](https://www.autoritedeprotection.ci/decisions/)).
+- The Autorite de protection de la Republique de Cote d'Ivoire lists its own dated decisions from 2016 to January 2024 ([source, 2024-01-16](https://www.autoritedeprotection.ci/decisions/)).
+- The authority's register lists normative decisions, including 2021-0676 of 4 August 2021 setting the control procedure and 2023-0920 of 20 July 2023 approving the 2023 controls list ([source, 2023-07-20](https://www.autoritedeprotection.ci/decisions/)).
 
 ### Eswatini: 4 Operating
 
@@ -309,21 +322,6 @@ Congo has a 2019 personal data protection law with a commission inaugurated in J
 
 - TechAfrica News states that Decree No. 2025-538 completes the institutional framework established by Law No. 29-2019 of 10 October 2019, and the Commission under it was inaugurated; the article gives no commencement date, so the date is the article's publication date of 22 January 2026 ([source, 2026-01-22](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/)).
 
-### Cote d'Ivoire: 3 Established
-
-Côte d'Ivoire has a 2013 personal data protection law, with compliance checks made in 2022; no source found says whether any controller has been sanctioned.
-
-*Advancing.*
-
-- On 18 May 2026 the digital minister cited the law of 19 June 2013 on personal data as the country's existing framework; the document does not give its number or say in terms that it is in force ([source, 2026-05-18](https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire)).
-- The decree, made under law no. 2013-450 of 19 June 2013 on personal data protection, treats the law as operating, with filing fees, prior authorisations and fines up to FCFA 500 million on repeat breach ([source, 2015-02-04](https://www.artci.ci/wp-content/uploads/2024/05/decret_2015_79.pdf)).
-- Decree no. 2015-79 of 4 February 2015, signed by the President, sets the filing, authorisation, withdrawal and fine-recovery procedures under law no. 2013-450 of 19 June 2013 on personal data protection ([source, 2015-02-04](https://www.artci.ci/wp-content/uploads/2024/05/decret_2015_79.pdf)).
-- ARTCI launched Certinum on 2 July 2026, an online platform for compliance and processing-authorisation requests under the personal data protection regime, replacing about 100 paper files handled each month; the document does not name the law ([source, 2026-07-02](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire)).
-- The minister listed compliance control operations carried out in 2022 under the framework, with no count or sanction given ([source, 2022](https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire)).
-- The minister listed national awareness campaigns launched from 2015 as an advance under the framework ([source, 2015](https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire)).
-- The decree names ARTCI as the body that receives declarations, rules on authorisation requests within one month, and imposes withdrawals and fines under the 2013 law; it shows no appointment of members or acting decisions ([source, 2015-02-04](https://www.artci.ci/wp-content/uploads/2024/05/decret_2015_79.pdf)).
-- The ONECI director general says the convention with Orange Bank Africa is legally framed by personal data protection rules, with the authorisation of ARTICI ([source, 2025-02-03](https://www.koaci.com/article/2025/02/03/cote-divoire/economie/cote-divoire-signature-dune-convention-entre-oba-et-loneci-pour-renforcer-la-securite-des-transactions_184218.html)).
-
 ### DR Congo: 3 Established
 
 The 2023 Digital Code, in force, covers personal data; a data protection officers' network launched in 2026; no source found reports any decision under it.
@@ -333,6 +331,8 @@ The 2023 Digital Code, in force, covers personal data; a data protection officer
 - TechAfrica News reports that the government introduced its personal data legal framework in 2023 through Ordinance-Law No. 23/010, the Digital Code, which sets out lawful processing, transparency, data minimisation and system security, and treats it as the framework within which DPOs ensure compliance; the report gives no date for the statement, so the published date of 2026-03-17 is used ([source, 2026-03-17](https://techafricanews.com/2026/03/17/drc-launches-data-protection-officers-network-to-strengthen-digital-governance/)).
 - We Are Tech Africa reports that the DPO network comes three years after adoption of ordonnance-loi n°23/010 on the Digital Code, which sets the principles of lawful, transparent and secure processing of personal data and under which DPOs operate; the report gives no separate date for the statement, so the published date of 2026-03-16 is used ([source, 2026-03-16](https://www.wearetech.africa/fr/fils/actualites/tech/numerique-la-rdc-met-en-place-un-reseau-de-responsables-de-la-protection-des-donnees)).
 - The Droit-Numérique.cd analysis states that Ordonnance-loi n° 23/010 of 13 March 2023 on the Digital Code, which provides for the Autorité de Protection des Données, entered into force in 2023; the document gives no more exact date for entry into force, so the year is recorded ([source, 2023](https://droitnumerique.cd/arptic-arptc-investie-des-missions-de-lautorite-de-protection-des-donnees-en-rd-congo/)).
+- The ARPTC president marks two years of application of Ordonnance-Loi No 23/010 of 13 March 2023 on the Digital Code, which the speech says governs personal data protection ([source, 2025-03-13](https://arptc.gouv.cd/app/uploads/2025/03/Discours-Pr-Katende-2-ans-du-Code-Numerique.pdf)).
+- Africa Data Protection reports ARPTC Decision n° 039/ARPTC/CLG/2025 on prior formalities was published in the Journal officiel special issue of 23 April 2026, making it enforceable ([source, 2026-04-23](https://www.africadataprotection.org/rdc-publication-au-journal-officiel-de-la-decision-fixant-la-procedure-des-formalites-prealables.html)).
 
 ### Djibouti: 3 Established
 
@@ -381,6 +381,7 @@ The Gambia enacted its first general data protection law in 2025; no source foun
 - The document states that President Barrow assented the Personal Data Protection and Privacy Act, 2025 on 7 November 2025, the country's first comprehensive data protection law, and that it has no grace period before it becomes enforceable; it gives no commencement date ([source, 2025-11-07](https://www.africanlawbusiness.com/expert-views/key-features-of-the-gambian-personal-data-protection-and-privacy-act/)).
 - The document refers to regulations and guidance still to be issued under the Act, on research purposes, the income base for fines and transfers, so none were in force; undated, so the publication date of 2026-02-09 is used ([source, 2026-02](https://www.africanlawbusiness.com/expert-views/key-features-of-the-gambian-personal-data-protection-and-privacy-act/)).
 - The Personal Data Protection and Privacy Act, 2025 (Act No. 11 of 2025) was assented to by the President on 7 November 2025; the excerpt shows no commencement provision ([source, 2025-11-07](https://media2.mofo.com/v3/assets/blt5775cc69c999c255/blt7a10e6071e9d3fad/69d554b553df724b615c685d/personal-data-protection-and-privacy-act-2025.pdf)).
+- Minister Lamin Jabbi said in a radio interview that The Gambia 'already ha[s] a law in place', a 2025 data protection law ([source, 2026-05-13](https://www.kerrfatou.com/gambia-has-ecowass-most-advanced-data-protection-law-minister-jabbi-says/)).
 
 ### Guinea: 3 Established
 
@@ -457,6 +458,8 @@ São Tomé and Príncipe enacted a data protection law in 2016; no source found 
 
 - The IBA chapter states that the existing data protection framework applies in São Tomé and Príncipe, naming the Personal Data Guarantee and Protection Law (Law 03/2016) as the primary instrument, with scope over processing by controllers headquartered or established in the country; the chapter is undated and its published year 2024 is used ([source, 2024](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Sao-Tome-Principe)).
 - Lei n.º 03/2016 on the protection of personal data of natural persons was published in Diário da República n.º 39 of 10 May 2016; the captured text, which stops inside Article 45, gives no commencement date ([source, 2016-05-10](https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf)).
+- RSTP states that São Tomé and Príncipe approved its general personal data protection law in 2016 and the law on the authority's organisation in 2017, and the ANPDP president says institutions process data in obedience to the law ([source, 2026-04-24](https://rstp.st/2026/04/24/agencia-nacional-de-protecao-de-dados-pessoais-celebra-8o-aniversario/)).
+- The ANPDP director complains of some public institutions' lack of proactivity in complying with the Personal Data Protection Law, which the agency polices ([source, 2026-01-28](https://glebatv.st/todas-noticias/28-de-janeiro-sao-tome-e-principe-assinala-o-dia-internacional-da-privacidade-e-protecao-de-dados-pessoais)).
 
 ### Somalia: 3 Established
 

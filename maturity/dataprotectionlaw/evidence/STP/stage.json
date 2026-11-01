@@ -7,14 +7,14 @@
       "authority": "constituted",
       "standing": "in-force",
       "regulations": "",
-      "application": "none",
+      "application": "activity",
       "last12": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "STP-005;STP-007",
-      "gaps": "No regulation made under Law 03/2016 is on record and no commencement date appears in the captured text. No named sanction, decision or count under the law is on record, and the 2024 IBA chapter is the only source for standing. No dated event in the twelve months to 2026-09-30 bears on the law itself.",
-      "note": "Law 03/2016 is in force (STP-005, 2024; STP-007 enacted 2016), but STP-006 names no sanction, decision or count, so application is none and stage 4 is not reached. Authority is constituted (STP-001 to STP-004), so no cap applies.",
-      "as_at": "2026-10-13"
+      "stage_sources": "STP-005;STP-007;STP-013;STP-016",
+      "gaps": "No regulation made under Law 03/2016 is on record. No named sanction, decision or count under the law is on record: in 2026 the ANPDP reports rising complaints and an intention to publish non-compliant entities and fine them (STP-015, STP-018), with none named.",
+      "note": "Law 03/2016 is in force and the ANPDP is acting in 2026 (STP-013, STP-016), but its application is activity only, so stage 4 is not reached. Authority is constituted, so no cap applies.",
+      "as_at": "2026-11-01"
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+ "slug": "2025-04-23-eth-personal-data-protection-in-ethiopian-law",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Ministry of Justice explainer says the Personal Data Protection Proclamation No. 1321/2016 EC was approved and is in force.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "Personal Data Protection Proclamation 1321/2016",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The proclamation names the Ethiopian Communication Authority as its main enforcer, with the power to take administrative measures; nothing says it is constituted for the task.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "Ethiopian Communication Authority",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "none",
+   "fact": "The explainer says the regulation listing the acts subject to administrative measures had not been issued at the time of writing.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "Personal Data Protection Proclamation 1321/2016",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Proclamation 1321/2016",
+   "country_label": "Ethiopia",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Ethiopian Communication Authority",
+   "country_label": "Ethiopia",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

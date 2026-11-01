@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-zaf-dha-identity-regulatory-framework-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Department of Home Affairs describes the Protection of Personal Information Act (POPIA) as prescribing the grounds for lawful processing of personal information by public and private actors.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

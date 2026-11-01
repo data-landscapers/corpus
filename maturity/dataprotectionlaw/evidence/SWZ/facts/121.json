@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-28-swz-government-has-not-signed-google-deal",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Eswatini Observer quotes cybersecurity experts as saying the Data Protection Act, under the oversight of the Eswatini Communications Commission, sets requirements on data handling, residency, consent and cross-border transfers.",
+   "as_of": "2025-07-28",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Eswatini Observer quotes cybersecurity experts as saying the Data Protection Act, under the oversight of the Eswatini Communications Commission, sets requirements on data handling, residency, consent and cross-border transfers.",
+   "as_of": "2025-07-28",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

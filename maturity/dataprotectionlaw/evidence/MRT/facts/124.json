@@ -1,0 +1,54 @@
+{
+ "slug": "2025-04-29-mrt-l-autorite-de-protection-des-donnees-a-caractere-personnel-entame-le-d",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APD, the body supervising Law 2017-020, was acting in April 2025 by diagnosing the education ministry's and the social security fund's processing.",
+   "as_of": "2025-04-29",
+   "date_precision": "day",
+   "system": "Autorite de Protection des Donnees a Caractere Personnel (APD)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "Under its Bayanat-Protection compliance programme the APD began diagnosing personal data processing at the education ministry and the social security fund, with no decision stated.",
+   "as_of": "2025-04-29",
+   "date_precision": "day",
+   "system": "Bayanat-Protection programme",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The programme helps data controllers comply with Law 2017-020 on personal data protection, which the APD supervises.",
+   "as_of": "2025-04-29",
+   "date_precision": "day",
+   "system": "Law 2017-020",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law 2017-020",
+   "country_label": "Mauritania",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Autorite de Protection des Donnees a Caractere Personnel (APD)",
+   "country_label": "Mauritania",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -4,16 +4,17 @@
     {
       "sub_indicator": "general",
       "stage": "3",
-      "authority": "provided",
+      "authority": "constituted",
       "standing": "in-force",
-      "regulations": "",
+      "regulations": "issued",
       "application": "activity",
       "last12": "advancing",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "COD-002;COD-006;COD-013",
-      "gaps": "No decision, sanction or count under the Digital Code is reported, so application stops at activity. Authority: the newest rows (COD-003, COD-007, March 2026) carry value none but their text says the Data Protection Authority is planned and not yet created, which fits provided (Articles 262 to 270 name it, COD-012); no source shows it constituted, and the 2024 ministerial transfer of its missions to ARPTIC (COD-014) is not shown to have been acted on. No regulation made under the Code has been found.",
-      "note": "Standing is in-force (2023, restated March 2026), but application is only DPO-network activity (COD-004, COD-008), so stage 4 is not met. Stage 3 is reached, so the cap is not engaged."
+      "stage_sources": "COD-002;COD-006;COD-013;COD-018;COD-017",
+      "gaps": "No decision, sanction or count under the Digital Code is reported, so application stops at activity. The authority the Code provides (COD-012) is not installed; the ARPTC has exercised its missions provisionally since the ministerial order of 17 August 2024 (COD-019, COD-016).",
+      "note": "The Digital Code is in force and the ARPTC's decision on prior formalities was published in the Journal officiel on 23 April 2026 (COD-017), but application is only activity, so stage 4 is not met. The ARPTC is acting as the authority, so no cap is engaged.",
+      "as_at": "2026-11-01"
     }
   ]
 }

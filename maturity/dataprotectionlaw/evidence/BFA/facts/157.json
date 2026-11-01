@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-13-bfa-11eme-session-ordinaire",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CIL's commissioners met in December 2024 and adopted a deliberation requiring prior free and informed consent before personal data goes to third parties.",
+   "as_of": "2024-12-13",
+   "date_precision": "day",
+   "system": "Commission de l'informatique et des libertes (CIL)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The CIL says it adopted a general deliberation on communication of personal data to third parties, with sanctions for breach; no decision on a controller.",
+   "as_of": "2024-12-13",
+   "date_precision": "day",
+   "system": "CIL deliberation on communication to third parties",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

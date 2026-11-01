@@ -1,0 +1,46 @@
+{
+ "slug": "2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Data Protection Commission says its probe into hospital patient data will test compliance with the Data Protection Act, 2012 (Act 843).",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Commission is conducting the investigation under Act 843, with the Cyber Security Authority and NITA.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Commission opened an investigation into how health data held by Lightwave eHealthCare Solutions is stored and managed; no decision or sanction is stated.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "country_label": "Data Protection Act, 2012 (Act 843)",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

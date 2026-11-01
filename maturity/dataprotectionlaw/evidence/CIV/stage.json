@@ -3,18 +3,18 @@
   "cells": [
     {
       "sub_indicator": "general",
-      "stage": "3",
+      "stage": "4",
       "authority": "constituted",
       "standing": "in-force",
       "regulations": "issued",
-      "application": "activity",
+      "application": "applied",
       "last12": "advancing",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "CIV-003;CIV-009;CIV-007;CIV-001;CIV-004;CIV-005;CIV-008;CIV-011",
-      "gaps": "No named decision on a controller and no published count of decisions, sanctions or complaints settled for a stated year; the 2022 control operations (CIV-004) have no count or sanction. CIV-003 does not say in terms that the law is in force, but CIV-009 treats it as operating.",
-      "note": "Law 2013-450 is in force with Decree 2015-79 issued and ARTCI designated by the decree and acting in 2026 (Certinum), but every application fact is activity, so stage 4 is not met. Authority is constituted, so no cap applies.",
-      "as_at": "2026-10-23"
+      "stage_sources": "CIV-003;CIV-009;CIV-025;CIV-023;CIV-024;CIV-026",
+      "gaps": "No published count of decisions, sanctions or complaints settled for a stated year, so application is not reported. The newest named decision on record is of 16 January 2024 (CIV-023).",
+      "note": "Law 2013-450 is in force with regulations issued and the authority acting, and its register lists decision 2024-0996 of 16 January 2024, a warning and formal notice to a named ministry and company (CIV-023), so stage 4. Stage 5 needs a reported year's count, and none is held.",
+      "as_at": "2026-11-01"
     }
   ]
 }
