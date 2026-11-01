@@ -1,34 +1,4 @@
 {
-  "2026-08-30-electricity-tariff-overview": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The energy regulator's tariff page sets out its mandate to set and review retail and bulk electricity tariffs. It names no data-centre or large-load category, which dates an absence Corpus had previously recorded only as unsearched: the country is building data centres against a tariff schedule that does not distinguish them."
-  },
-  "2026-08-30-government-digital-payments-and-ecitizen": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The Treasury's Government Digital Payments Unit sets out the origin of the country's payments-into-government programme: a 2013 survey found more than a third of receipts still cash-based, a presidential directive that November ordered all payments into government digitised, and a taskforce was gazetted in April 2014. The unit's stated mandate is to digitise every payment into government, raising collection and cutting its cost."
-  },
-  "2026-08-30-integrated-financial-management-information-system": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The National Treasury's financial management system, which moves public money from budget to payment, publishes its own site. It sets out six components spanning budgeting, procurement, revenue, reporting and support, alongside a supplier portal and a training academy; no coverage of ministries and counties, transaction volume or audit finding against it appears there."
-  },
-  "2026-08-30-integrated-population-registration-service": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The State Department for Immigration and Citizen Services publishes a page for the service that holds the country's population register, the one queried when an agency needs to confirm who someone is. What the register holds, which bodies may query it and on what basis are not stated on it — a gap that matters more now that the electoral commission has confirmed it verifies voter data against the registration bureau."
-  },
-  "2026-08-30-rdc-strategie-protection-espace-informationnel": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The Council of Ministers adopted a government-wide strategy against abusive content on social media and digital platforms at its 97th session on 28 August. It sets up an interministerial task force chaired by the communication ministry, a citizen alert mechanism and the integration of media literacy into the school curriculum, and commissions a technical and legal review of how the sector is regulated. The strategy text is not published with the readout, so what counts as abusive content, and what follows an alert, are not stated."
-  },
-  "2026-08-30-rwanda-business-registration": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "Rwanda's registrar general describes company registration as wholly online and free of charge, completed within six working hours on the issue of a certificate of incorporation. There is no minimum share capital, shareholding may be entirely foreign, and a support unit at the board's Kigali offices assists applicants who cannot complete the form unaided."
-  },
   "2026-08-31-africa-smartphone-market-2026-decline-omdia": {
     "published": "2026-08-31",
     "written": "2026-08-31",
@@ -21863,5 +21833,80 @@
     "published": "2026-10-30",
     "written": "2026-10-31",
     "summary": "SMART Zambia Institute and Huawei announced a five-day AI training programme for government officials, opening on 2 November 2026. Huawei will provide it free, with trainers from China. It covers national AI strategy, large language models, AI data centres and AI agents."
+  },
+  "2026-10-31-cod-rdc-lancement-dun-numero-d-acces-aux-services-clients-des-operateurs-d": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "DR Congo's telecom regulator ARPTC put the short code 1515 into service nationwide on 30 October 2026 to reach the customer service of any mobile operator. The operators' own short codes stay in use. ARPTC said the number is part of a mechanism to monitor customer-service quality."
+  },
+  "2026-10-31-eth-ethiopia-moves-to-deepen-digital-partnership-with-huawei-as-it-advance": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Ethiopia's Deputy Prime Minister Temesgen Tiruneh and Eric Yuan, the new chief executive of Huawei Ethiopia, agreed to deepen cooperation on ICT infrastructure and the digital economy (reported October 2026). Temesgen stressed national ownership, security and local value creation under the Digital Ethiopia 2030 strategy. No agreement, value or project was named."
+  },
+  "2026-10-31-gin-plateforme-de-la-dgecs-des-parents-guineens-alertent-sur-des-notes-non": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Parents in Koundara, Conakry, Gaoual and Léro reported missing marks, unregistered pupils and registration numbers at the wrong grade on Guinea's DGECS school-records platform (reported October 2026). They fear pupils will have to repeat years. DGECS director general Mamady 49 Keïta defended the platform, in use since 2024, and told schools how to correct files."
+  },
+  "2026-10-31-gmb-senegalese-fintech-intouch-signs-10-year-partnership-with-gambia-to-st": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year agreement with Senegalese fintech InTouch on 30 October 2026, after an international tender with three bidders. InTouch will run a platform that monitors transactions and processes government payments, giving the state real-time revenue data. Online gaming is the first sector targeted."
+  },
+  "2026-10-31-ken-government-to-partner-with-counties-to-implement-ict-related-projects-acr": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Kenya's ICT Cabinet Secretary William Kabogo said at a forum in Naivasha that the national government will work with county governors on ICT projects (reported October 2026). These include a cybersecurity policy, a review of the Digital Master Plan and monitoring of the national fibre backbone. The ministry will present a draft policy to harmonise wayleave charges across counties."
+  },
+  "2026-10-31-ken-state-plans-digital-accessibility-audits-to-improve-services-for-perso": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Kenya's Cabinet Secretary for Gender, Hannah Cheptumo, said public institutions are to audit their websites and online platforms and plan to remove barriers for persons with disabilities. She spoke on 30 October 2026 at a forum validating a roadmap on digital and ICT accessibility. The Office of Diversity, Inclusion and Disability Rights is drafting inclusive communication guidelines."
+  },
+  "2026-10-31-mdg-lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-nu": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Madagascar's anti-corruption bureau BIANCO launched i-Fanagna, a platform for filing asset and economic-interest declarations remotely (reported October 2026). BIANCO will also use it to track illicit financial flows. The African Development Bank financed it through the PREGODI governance-by-digitalisation project."
+  },
+  "2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "The Consumers Association of Malawi (CAMA) complained to the regulator MACRA about network quality on Airtel Malawi and TNM (reported October 2026). It cited dropped calls, poor data connections, unexplained data losses and delays on Mo626, Airtel Money and Mpamba transfers. It asked MACRA to publish operator performance reports, run independent drive tests and impose penalties."
+  },
+  "2026-10-31-rwa-irembo-appoints-ceo-and-cto": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Irembo, which runs Rwanda's government-services platform, appointed Noella Dushime chief executive and Ngabe Rutagarama chief technical officer (reported October 2026). Dushime was formerly its Director of Business and Partnerships. She succeeds Israel Bimpe."
+  },
+  "2026-10-31-rwa-rwandas-first-voice-ai-companion-miss-baza-launched-by-mtn-and-viamo": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "MTN Rwanda and Viamo launched Miss Baza on 29 October 2026, a voice AI assistant reached by dialling 845 on an ordinary phone without internet. It answers in Kinyarwanda, English, French and Kiswahili, with 30 free minutes a month and Rwf45 a minute after that. MTN said it had more than 500,000 users."
+  },
+  "2026-10-31-ssd-juba-city-council-launches-digital-payment-system-to-improve-transpare": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Juba City Council's caretaker mayor said on 30 October 2026 that all revenue collection had moved from paper forms to a digital payment system. The council also launched a website, jccgov.ss, with its budget, tax schedules and bylaws. An investigation had found half of council resources lost to malpractice, and 32 rate collectors were arrested."
+  },
+  "2026-10-31-tun-lotfi-gabsi-sans-data-centers-pas-d-internet-pas-d-ia": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Lotfi Gabsi, president of the Tunisian IT group Advences, said in an October 2026 interview that Tunisia's data centres remain small. He said telecom operators have blocked carrier-neutral sites since an attempt in 2005, and that power cuts raise hosting costs. He named heat recovery, energy and water savings and cybersecurity as conditions for an AI industry."
+  },
+  "2026-10-31-tza-tanzania-expresses-interest-in-angosat-2": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Angola and Tanzania signed a memorandum of understanding on telecommunications and ICT in Dar es Salaam during Angolan President João Lourenço's state visit (reported October 2026). Tanzania seeks access to ANGOSAT-2 satellite services and to Angolan Earth-observation and geospatial applications for mining, agriculture and logistics. No value was published."
+  },
+  "2026-10-31-uga-exim-bank-terrapay-cross-border-remittance-costs": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "Exim Bank Uganda launched Exim Global Pay, a cross-border payment platform built on TerraPay's network (reported October 2026). The bank said it had cut prices on individual corridors to keep fees low. TerraPay said its fees are disclosed upfront, so recipients get the full amount sent."
+  },
+  "2026-10-31-xea-eac-ministers-adopt-ai-and-digital-transformation-strategies": {
+    "published": "2026-10-31",
+    "written": "2026-11-01",
+    "summary": "East African Community ministers adopted regional strategies on artificial intelligence, digital transformation and biotechnology at a sectoral council in Kampala, 27 to 31 October 2026. They approved an AI foundational module for undergraduates in all disciplines and a regional AI network of universities. They also directed that AI certification benchmarks be developed for Kiswahili."
   }
 }
