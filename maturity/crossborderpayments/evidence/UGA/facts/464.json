@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-31-uga-exim-bank-terrapay-cross-border-remittance-costs",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Exim Bank Uganda launched Exim Global Pay, a cross-border payment platform on TerraPay's network, for individuals and businesses in Uganda.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Exim Global Pay",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Exim Global Pay",
+   "country_label": "Uganda",
+   "class": "crossborder",
+   "platform": "TerraPay network",
+   "owner": "Exim Bank Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
