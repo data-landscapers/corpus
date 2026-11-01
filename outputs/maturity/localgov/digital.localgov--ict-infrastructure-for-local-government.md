@@ -101,7 +101,7 @@ Twelve more communes' town halls joined the state's administration network in 20
 
 ### Burkina Faso: 3 Established
 
-Town halls are on the state's network and 78 civil status centres were networked in 2025; no source found reports the share of the 351 communes.
+Town halls are on the state's network and 78 civil status centres were networked in 2025; nothing found reports the share of the 351 communes.
 
 *On the government network; Advancing.*
 
@@ -122,7 +122,7 @@ A commune began keeping its accounts in a national financial platform in 2026; n
 
 ### Cameroon: 3 Established
 
-Two commune offices in the East Region had an internet connection in August 2026; no source found says how many of the 360 communes are connected.
+Two commune offices in the East Region had an internet connection in August 2026; nothing found says how many of the 360 communes are connected.
 
 *Advancing.*
 
@@ -177,7 +177,7 @@ All councils had the government's finance system by late 2024 and most used it; 
 
 ### Ghana: 3 Established
 
-The government network connected all 274 planned sites of metropolitan, municipal and district assemblies in 2024; no source found says how many of the 261 assemblies.
+The government network connected all 274 planned sites of metropolitan, municipal and district assemblies in 2024; nothing found says how many of the 261 assemblies.
 
 *On the government network; Advancing.*
 
@@ -199,7 +199,7 @@ All 47 counties were on the government network by 2017 and work in national syst
 
 ### Libya: 3 Established
 
-The mayors of 21 municipalities were given access to the ministry's online systems in October 2025; no source found says how many municipal offices are connected.
+The mayors of 21 municipalities were given access to the ministry's online systems in October 2025; nothing found says how many municipal offices are connected.
 
 *Advancing.*
 
@@ -211,7 +211,7 @@ The mayors of 21 municipalities were given access to the ministry's online syste
 
 ### Madagascar: 3 Established
 
-About 10 per cent of communes had a secure connection to a State finance system, on a 2024 plan; no source found reports the figure's year.
+About 10 per cent of communes had a secure connection to a State finance system, on a 2024 plan; nothing found reports the figure's year.
 
 *Advancing.*
 
@@ -233,7 +233,7 @@ District and city councils used internet on the government network in 2024; no s
 
 ### Mauritania: 3 Established
 
-Communes run budgets in a national finance system, deployed in 90% of 232 regions and communes in 2023; no source found says how offices are connected.
+Communes run budgets in a national finance system, deployed in 90% of 232 regions and communes in 2023; nothing found says how offices are connected.
 
 - The PEFA assessment of January 2025 says the local authorities (13 regions and 219 communes) ran their budgets in the off-line system El Khazin until 2022 and from 2022 began using SIGeL, the integrated local finance management system, for revenue and expenditure, assets, general accounting and reporting, giving the supervising directorates faster and timely access to their financial data; it does not say how the authorities' offices are connected ([source, 2022](https://finances.gov.mr/sites/default/files/2025-01/PEFA%20MAURITANIE%20RAPPORT%20FINAL%20Version%20d%C3%A9finitive-janvier%202025.pdf)).
 - The PEFA assessment says the local finance directorate and the directorate-general of local authorities were in the final phase of deploying SIGeL in all local authorities, at 90 per cent at the end of 2023, against 232 authorities (13 regions and 219 communes) at the end of 2022; the share is of authorities with the system deployed, regions included, and no connection is stated ([source, 2023-12](https://finances.gov.mr/sites/default/files/2025-01/PEFA%20MAURITANIE%20RAPPORT%20FINAL%20Version%20d%C3%A9finitive-janvier%202025.pdf)).
@@ -267,7 +267,7 @@ Broadband was reported extended to 266 communes in 2026; the total of communes a
 
 ### Nigeria: 3 Established
 
-510 local government administration offices were counted on broadband in December 2025; no source found says how many offices there are, and what they do online,.
+510 local government administration offices were counted on broadband in December 2025; nothing found says how many offices there are, and what they do online,.
 
 *Advancing.*
 
@@ -355,7 +355,7 @@ Four councils had partnerships to deploy office Wi-Fi in 2022/23; no source foun
 
 ### Central African Republic: 2 Nascent
 
-A fund meant to bring broadband to town halls was still being set up in April 2026; no source found says how many communes are connected.
+A fund meant to bring broadband to town halls was still being set up in April 2026; nothing found says how many communes are connected.
 
 *Advancing.*
 
@@ -364,7 +364,7 @@ A fund meant to bring broadband to town halls was still being set up in April 20
 
 ### Chad: 2 Nascent
 
-Internet kits and subscriptions were handed to 23 communes in 2026; no source found says whether the links are in service and the total of communes.
+Internet kits and subscriptions were handed to 23 communes in 2026; nothing found says whether the links are in service and the total of communes.
 
 *Advancing.*
 
@@ -423,7 +423,7 @@ In 2024 one governorate was the pilot for linking districts and local units; no 
 
 ### Ethiopia: 2 Nascent
 
-Addis Ababa piloted a connection from the centre to its woredas in 2025; no source found says whether any woreda office outside the capital is connected.
+Addis Ababa piloted a connection from the centre to its woredas in 2025; nothing found says whether any woreda office outside the capital is connected.
 
 *Advancing.*
 
@@ -488,7 +488,7 @@ A 2022 report says finance systems are implemented in all municipalities; no sou
 
 ### Togo: 2 Nascent
 
-A birth-records platform was at pilot in four communes in 2026 and town hall fibre had not begun; no source found says how town halls connect.
+A birth-records platform was at pilot in four communes in 2026 and town hall fibre had not begun; nothing found says how town halls connect.
 
 *Advancing.*
 
@@ -510,7 +510,7 @@ Government handed over 250 satellite kits for local authorities in 2025; no sour
 
 ### Equatorial Guinea: 1 Absent
 
-In 2024 the government's network did not reach local government offices, which worked largely on manual systems; no source found says whether any has another connection.
+In 2024 the government's network did not reach local government offices, which worked largely on manual systems; nothing found says whether any has another connection.
 
 - The World Bank's digital economy diagnostic states that the central network of the government, partly hosted by CNIAPGE, does not extend to local government branches; it gives no date, so the document's published year is used ([source, 2024](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt)).
 - The World Bank states that many ministries at the centre operate on manual systems and that this is more pronounced at the local level, for want of funds and adequate infrastructure, with data shared between ministries by hand, USB drive or e-mail; no date is given, so the document's published year is used ([source, 2024](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt)).
@@ -535,7 +535,7 @@ Not established: No coverage fact has been found: no source puts a locality offi
 
 ### Comoros: No evidence
 
-Only civil-status and central systems are held, the latest from 2026; no source found says whether the communes' offices are connected, so no stage is set.
+Only civil-status and central systems are held, the latest from 2026; nothing found says whether the communes' offices are connected, so no stage is set.
 
 Not established: Nothing found states whether any of the 54 communes' offices is connected; the search found no published count and its likeliest source could not be fetched.
 

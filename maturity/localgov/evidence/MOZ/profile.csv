@@ -3,4 +3,4 @@ MOZ,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,20
 MOZ,connection,use,coverage,none,2026-06-17,MOZ-003,,
 MOZ,connection,connected,coverage,institutional,2026-06-17,MOZ-001;MOZ-009,,
 MOZ,connection,last12,qualifier,advancing,2026-06-17,MOZ-007,,
-MOZ,connection,authorities,coverage,pilot,2020-02-21,MOZ-008,MOZ-002=not-published,
+MOZ,connection,authorities,coverage,count:141,2024-06,MOZ-066,MOZ-002=not-published;MOZ-008=pilot,

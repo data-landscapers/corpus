@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-31-ssd-juba-city-council-launches-digital-payment-system-to-improve-transpare",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Juba City Council digital payment system",
+   "country_label": "South Sudan",
+   "class": "application",
+   "platform": "",
+   "owner": "Juba City Council",
+   "tiers": "city council"
+  },
+  {
+   "system": "jccgov.ss website",
+   "country_label": "South Sudan",
+   "class": "web",
+   "platform": "website",
+   "owner": "Juba City Council",
+   "tiers": "city council"
+  }
+ ],
+ "note": "No connection at the council's office is stated."
+}

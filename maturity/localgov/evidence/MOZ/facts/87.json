@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-27-moz-governo-defende-que-o-projecto-vamoz-digital-vai-contribuir-para-a-ope",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "count:141",
+   "fact": "Mozambique's science and technology minister says the government electronic network GovNet now covers 932 public administration institutions and 141 district seats.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "GovNet",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovNet",
+   "country_label": "Mozambique",
+   "class": "connection",
+   "platform": "government electronic network",
+   "owner": "Government",
+   "tiers": "district seats"
+  }
+ ],
+ "note": ""
+}
