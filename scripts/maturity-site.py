@@ -194,13 +194,29 @@ def last_change(history: list[dict], iid: str, iso: str) -> tuple[str | None, st
             month(changes[-1]["date"]) if changes and changes[-1]["kind"] != "fact" else None)
 
 
+def reviewed_on() -> dict[str, str]:
+    """{indicator_id: last_reviewed} from the rebuild rotation, reviewed indicators only.
+
+    TEMPORARY (Bill, 2026-11-01): until every indicator has had its rebuild, the changes box shows
+    an indicator's moves only if it has been rebuilt, and only moves dated after that rebuild.
+    **Remove this, and its use in `recent_moves`, once every row of `logs/maturity-review.csv`
+    carries a date** — `main()` prints a reminder when that happens."""
+    path = ROOT / "logs" / "maturity-review.csv"
+    return {r["indicator_id"]: r["last_reviewed"] for r in read_csv(path) if r["last_reviewed"]}
+
+
+REVIEWED = reviewed_on()
+
+
 def recent_moves(history: list[dict], iid: str, today: date) -> list[dict]:
     """The changes box: stage moves on evidence in the past six months, newest first."""
+    if iid not in REVIEWED:
+        return []
     since = max((today - timedelta(days=183)).isoformat(), CHANGES_FROM)
     return [dict(iso3=h["iso3"], month=month(h["date"]), **{"from": h["from"], "to": h["to"]})
             for h in sorted(history, key=lambda h: h["date"], reverse=True)
             if h["indicator_id"] == iid and h["kind"] == "fact" and h["from"] != h["to"]
-            and h["date"] >= since]
+            and h["date"] >= since and h["date"] > REVIEWED[iid]]
 
 
 def country_sections(issued: Path, iso3: str, labels: dict[str, str]) -> dict[str, str]:
@@ -869,6 +885,9 @@ def main() -> int:
     indicators = read_csv(ROOT / "lookups" / "indicators.csv")
     countries = read_csv(ROOT / "lookups" / "countries.csv")
     data = build_data(studies, indicators, countries)
+    if all(i in REVIEWED for i in data["indicators"]):
+        print("maturity: every indicator has been reviewed - remove the temporary review gate "
+              "(reviewed_on/REVIEWED) from the changes box")
     geo = africa_geo()
 
     live = OUT / "data" / "maturity.json"

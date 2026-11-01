@@ -1,3 +1,7 @@
+## 1 November 2026
+
+- The maturity map's *Changes in the past six months* box now lists only moves made after an indicator's latest full review, and stays empty for indicators not yet reviewed. Earlier moves came from the first pass and are not changes on the ground.
+
 ## 31 October 2026
 
 - Data protection law now reads an authority's cases handled as decisions under the law. Seychelles rises from stage 3 to 4 on the 14 cases its commission handled in 2025.
