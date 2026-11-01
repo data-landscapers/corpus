@@ -63,6 +63,17 @@ DEAL_TOPIC_SECTOR = {"dpi.pay": "finance", "data.statistics": "statistics",
 DEAL_NO_DEFAULT = {"dpi.registry", "dpi.mis", "data.satellite", "data.open", "capacity.research",
                    "digital.localgov", "digital.rural"}
 PUBLIC = {"Public Sector", "Multilateral", "PPP"}
+# Sector information systems are split by the sector they serve, so a health system can be found
+# by sub-topic alone (Bill, 2026-11-01). Rules place a system by its own words first; a system
+# whose words name only a function (`dpi.mis.other`) or nothing (`.unspecified`) takes the
+# sub-topic of its row's sector.
+MIS_BY_SECTOR = {"health": "dpi.mis.health", "education": "dpi.mis.education", "security": "dpi.mis.justice",
+                 "defence": "dpi.mis.justice", "agriculture": "dpi.mis.agriculture", "social": "dpi.mis.social",
+                 "environment": "dpi.mis.land", "housing": "dpi.mis.land", "energy": "dpi.mis.land",
+                 "trade": "dpi.mis.economy", "finance": "dpi.mis.economy", "transport": "dpi.mis.transport"}
+# Topics that take no sub-topic: China is a financier, not a topic (Bill, 2026-11-01). A row
+# still filed under one is left blank and counted until its topic is corrected at source.
+NO_SUBTOPICS = {"geopol.china"}
 BLANK = re.compile(r"\b(commercial|concessional|interest-free|syndicated) loan|(preferential )?buyer.?s credit"
                    r"|additional financing|bank of china|china (eximbank|development bank|construction bank)"
                    r"|world bank|exim ?bank|development bank"
@@ -127,13 +138,20 @@ def first(pairs, text):
     return next((sid for sid, rx in pairs if rx.search(text)), None)
 
 
+def by_sector(sub, sector):
+    if sub in ("dpi.mis.other", "dpi.mis.unspecified"):
+        return MIS_BY_SECTOR.get(sector, "dpi.mis.other" if sub == "dpi.mis.other" or sector != "unattributed"
+                                 else sub)
+    return sub
+
+
 def place_line(x, by_topic, sec_rules):
     ns, shared, catch = by_topic.get(x["primary_topic_id"], ([], [], None))
     sub = first(shared, f"{x['purpose']} | {x['line_name']}") or catch
     shared_sec = [(s, rx) for _, _, s, rx, a in sec_rules if not a]
     sector = next((h for h in (first(shared_sec, x[f]) for f in ("admin_head", "spending_entity")) if h),
                   "unattributed")
-    return sub, sector
+    return by_sector(sub, sector), sector
 
 
 def place_deal(x, topic, by_topic, sec_rules):
@@ -154,10 +172,9 @@ def place_deal(x, topic, by_topic, sec_rules):
                 and not first([p for p in deal_only if p[0] == "finance"], value):
             hit = None              # the finance ministry as borrower of record
         if hit:
-            return sub, hit
-    if topic in DEAL_NO_DEFAULT:
-        return sub, "unattributed"
-    return sub, DEAL_TOPIC_SECTOR.get(topic, "digital")
+            return by_sector(sub, hit), hit
+    sector = "unattributed" if topic in DEAL_NO_DEFAULT else DEAL_TOPIC_SECTOR.get(topic, "digital")
+    return by_sector(sub, sector), sector
 
 
 def summary(label, rows, subs):
@@ -185,7 +202,9 @@ def main():
         deals.append((t, *place_deal(x, t, by_topic, sec_rules), x))
     for side, rows, idf in (("budget", lines, "deal_id"), ("non-state", deals, "deal_id")):
         for t, sub, _, x in rows:
-            if sub is None:
+            if sub is None and t in NO_SUBTOPICS:
+                print(f"{side} {x[idf]}: filed under {t}, which takes no sub-topic; awaiting re-topic")
+            elif sub is None:
                 errors.append(f"{side} {x[idf]}: no rule placed it in {t or '(no topic)'} (no catch-all)")
 
     print(f"{len(subs)} sub-topics, {len(sectors)} sectors")
