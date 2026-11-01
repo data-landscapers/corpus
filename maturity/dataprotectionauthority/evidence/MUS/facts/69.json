@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-mus-financial-sector-urged-to-strengthen-data-protection-and-cybersecurity",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Data Protection Commissioner, Mrs Drudeisha Madhub, attended the 29 October 2026 launch of the financial-sector data protection guide and addressed institutions on their duties.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commissioner",
+   "country_label": "Data Protection Office, Mauritius",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling or published figures stated."
+}

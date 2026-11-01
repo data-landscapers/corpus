@@ -1,16 +1,17 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "2",
-   "standing": "provided",
-   "rulings": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-008;COD-006",
-   "gaps": "No source found says the authority's head or members have been appointed.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "3",
+      "standing": "constituted",
+      "rulings": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-013;COD-005",
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found. The authority the Digital Code creates is not installed; the regulator ARPTC does its work meanwhile.",
+      "note": "Stage 3: the regulator ARPTC, given the authority's missions pending its installation, set the procedure for prior formalities by a decision of September 2025, published in April 2026. No ruling against a named organisation is held, so stage 4 is not met.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

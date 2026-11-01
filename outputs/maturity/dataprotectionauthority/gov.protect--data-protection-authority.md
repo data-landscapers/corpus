@@ -22,8 +22,8 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 8 |
-| 3 Established | 21 |
-| 2 Nascent | 10 |
+| 3 Established | 22 |
+| 2 Nascent | 9 |
 | 1 Absent | 7 |
 | Unplaced | 2 |
 | No evidence | 0 |
@@ -177,6 +177,13 @@ In 2026 Côte d'Ivoire's telecoms regulator acts as its data protection authorit
 - ARTCI, styling itself the Autorité de Protection des Données Personnelles, issued a communique on 3 August 2026 inviting controllers to use CERTINUM, which it says it launched on 2 July 2026, so the body is acting as the authority ([source, 2026-08-03](https://artci.ci/lartci-invite-les-entreprises-a-privilegier-la-plateforme-certinum/)).
 - The ALT Advisory fact sheet says Law No. 2013-450 gives enforcement responsibilities to ARTCI, that a data protection authority is appointed, with 7 members serving up to 6 years; the page gives no date for the facts, so its published date is used ([source, 2022-05-23](https://dataprotection.africa/cote-divoire/)).
 
+### DR Congo: 3 Established
+
+The DRC's authority is not set up in 2026; the telecoms regulator does its work. No ruling against an organisation or published figures are known.
+
+- Africa Data Protection reports the ARPTC has exercised the data protection authority's missions provisionally since March 2023, while the authority the Digital Code provides for is not yet installed ([source, 2026-04](https://www.africadataprotection.org/rdc-publication-au-journal-officiel-de-la-decision-fixant-la-procedure-des-formalites-prealables.html)).
+- The analysis states that Articles 262 to 270 of the Digital Code provide for the Autorité de Protection des Données, to be set up by Prime Ministerial decree, and that a ministerial order of 17 August 2024 (n° CAB/MIN/PT&N/AKIM/KL/KBS/051/2024) provisionally transferred its missions to ARPTIC pending its establishment; the document does not say ARPTIC has acted in that role ([source, 2024-08-17](https://droitnumerique.cd/arptic-arptc-investie-des-missions-de-lautorite-de-protection-des-donnees-en-rd-congo/)).
+
 ### Egypt: 3 Established
 
 Egypt has a data protection authority in 2026, still led by an acting chief; no ruling against an organisation or published figures are known.
@@ -307,13 +314,6 @@ Comoros law creates a data protection authority, but it was not yet operating in
 
 - TechHive Advisory states the law establishes a National Authority for the Protection of Personal Data but that as of mid-2024 it had not been formally constituted or made operational ([source, 2024](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law)).
 - Article 19 of the law institutes a Commission nationale de l'informatique et des libertés (CNIL) whose nine members are named by decree under Article 24; the text records no appointment ([source, 2014-06-26](https://anaden.org/uploads/media/63076edf43d1e/loi-portant-sur-la-protection-des-donnees-a-caractere-personnel-de-lunion-des-comores.pdf)).
-
-### DR Congo: 2 Nascent
-
-In 2026 the DRC's data protection authority is still not set up; no ruling against an organisation or published figures are known.
-
-- Beto.cd reports that the Autorité de protection des données is not installed, as the ONIP identification and the census are announced ([source, 2026-09-13](https://beto.cd/onip-rgph2-deux-comptages-population-autorite-protection-donnees/)).
-- The Digital Code provides in articles 262 to 270 for creating the Autorité de protection des données, which the source says has not yet been set up; the source's date is 2025 and no event date is given ([source, 2025](https://droitnumerique.cd/autorite-de-protection-des-donnees/)).
 
 ### Djibouti: 2 Nascent
 

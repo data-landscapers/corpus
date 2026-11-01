@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-23-mar-morocco-enforces-data-privacy-law-warns-companies-of-penalties",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The CNDP was acting in May 2025, issuing formal compliance notices to businesses.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+   "country_label": "Morocco",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The notices are warnings; no dated decision, fine or order against a named organisation is stated."
+}

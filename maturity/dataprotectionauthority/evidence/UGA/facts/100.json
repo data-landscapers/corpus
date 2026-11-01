@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-12-uga-pdpo-decision-061-2024-simbwa-v-chipper",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The PDPO decided Complaint PDPO 061/2024 against Chipper Technologies Uganda Limited on 12 March 2025, finding no infringement but directing it to amend its privacy notice to require explicit consent beyond regulatory compliance.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office (PDPO)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The PDPO issued a dated decision in Complaint PDPO 061/2024 on 12 March 2025, so it is in post and acting.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office (PDPO)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Office (PDPO)",
+   "country_label": "Uganda",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-23-eth-personal-data-protection-in-ethiopian-law",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The Ministry of Justice explainer says Proclamation 1321/2016 EC gives the Ethiopian Communication Authority the main power to enforce the personal data protection law.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "Ethiopian Communication Authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ethiopian Communication Authority",
+   "country_label": "Ethiopia",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

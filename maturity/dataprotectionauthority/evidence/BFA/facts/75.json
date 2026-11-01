@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-13-bfa-11eme-session-ordinaire",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The CIL says its commissioners met in their 11th ordinary session in December 2024 and adopted a deliberation on communication of personal data to third parties.",
+   "as_of": "2024-12-13",
+   "date_precision": "day",
+   "system": "Commission de l'informatique et des libertes (CIL)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de l'informatique et des libertes (CIL)",
+   "country_label": "Burkina Faso",
+   "class": "authority",
+   "platform": "",
+   "owner": "CIL",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling on a named organisation; the deliberation is general."
+}

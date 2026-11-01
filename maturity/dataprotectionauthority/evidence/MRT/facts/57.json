@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-29-mrt-l-autorite-de-protection-des-donnees-a-caractere-personnel-entame-le-d",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The APD began diagnosing the personal data processing of the education ministry and the social security fund under its Bayanat-Protection programme, as AMI reported on 29 April 2025.",
+   "as_of": "2025-04-29",
+   "date_precision": "day",
+   "system": "Autorite de Protection des Donnees a Caractere Personnel (APD)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de Protection des Donnees a Caractere Personnel (APD)",
+   "country_label": "Mauritania",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No dated decision, fine or order against a named organisation is stated; a diagnosis is not a ruling."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-23-zaf-infringement-notice-with-r5-million-administrative-fine-issued-to-the",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The Information Regulator issued an infringement notice with an R5 million administrative fine to the Department of Basic Education on 23 December 2024 for failing to comply with its enforcement notice under POPIA.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Information Regulator, chaired by Adv Pansy Tlakula, issued the enforcement notice of 18 November 2024 and the infringement notice of 23 December 2024.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Regulator",
+   "country_label": "South Africa",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

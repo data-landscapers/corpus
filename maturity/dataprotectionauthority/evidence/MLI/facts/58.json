@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-03-mli-protection-des-donnees-l-apdp-ouvre-sa-premiere-session-ordinaire-de-2",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The APDP opened its first ordinary session of 2026 on 2 February 2026, examining more than 500 compliance files, sanction procedures and its annual inspection programme.",
+   "as_of": "2026-02-02",
+   "date_precision": "day",
+   "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+   "country_label": "Mali",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Sanction procedures are only to be examined; no decision against a named organisation is stated."
+}

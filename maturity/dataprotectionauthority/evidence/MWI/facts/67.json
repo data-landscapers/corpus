@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-12-mwi-detectives-cashing-in-on-search-warrants",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Nation Online reports the Data Protection Act, in force from 3 June 2024, designates Macra as the data protection authority.",
+   "as_of": "2024-06-03",
+   "date_precision": "day",
+   "system": "Data Protection Act 2024",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Nation Online reports a DPA data protection enforcement officer replied to a complaint, saying the authority could not investigate a matter that predated the Act's commencement.",
+   "as_of": "2025-07-12",
+   "date_precision": "day",
+   "system": "Data Protection Agency",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Agency",
+   "country_label": "Data Protection Agency (Macra)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Macra",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

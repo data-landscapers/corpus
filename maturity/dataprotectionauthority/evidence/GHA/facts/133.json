@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-26-gha-moc-keynote-national-data-protection-conference-2026",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The minister urged organisations not yet registered with the Data Protection Commission to register, and said the Commission must be central to protecting data in the new SIM registration, treating it as a working body.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Ghana",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Data Protection Commission is acting as supervisor under the Data Protection Act, 2012 (Act 843), launching a probe into health data managed by Lightwave eHealthCare Solutions; an investigation opened is not a ruling.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

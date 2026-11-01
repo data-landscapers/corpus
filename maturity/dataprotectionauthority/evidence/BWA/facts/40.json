@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-17-bwa-new-botswana-data-protection-act-progressive-step-to-a-more-secure-dig",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Act, in effect from 14 January 2025, keeps the Information and Data Protection Commission, whose commissioners the President appoints, as the national authority.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Information and Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information and Data Protection Commission",
+   "country_label": "Botswana",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling is stated."
+}
