@@ -1,12 +1,12 @@
 ---
 title: South Sudan: status report
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: SSD
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 203
+sources_cited: 204
 sections_written: 39
 not_established: 3
 acquire_lines: 51
@@ -242,7 +242,7 @@ South Sudan's integrated financial management information system [covers central
 
 Where the local tier touches the digital state at all it does so as a transcription point rather than a user — county health departments key paper returns from the clinics below them [into the national health platform](https://www.afro.who.int/sites/default/files/2025-03/Knowledge%20Management%20Series%20for%20Health%20Maturity%20of%20the%20Health%20Information%20System%20of%20South%20Sudan%20_%20progress,%20gaps%20and%20priorities%20for%20investment.pdf) (2025), and the registers a local administration would draw on, the civil registry among them, [reach the towns and stop](https://www.eyeradio.org/eu-envoy-urges-south-sudan-to-make-nationality-registration-affordable-for-citizens/) (2024). Rural populations were scored at [the lowest assessed level for representation and participation](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ss.pdf) in 2023, where they had been for the decade before.
 
-[The capital's council ordered an end to manual payments in October 2022 and told businesses to register on a vendor-built revenue system](https://www.onecitizendaily.com/index.php/2022/10/21/advertisement-by-juba-city-council-jcc/). [Its first executive meeting under a caretaker mayor, reported 8 October 2026, put the move to digital collection at the centre of its priorities, after the state government launched a digital revenue system and e-services for the council in September](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/).
+[The capital's council ordered an end to manual payments in October 2022 and told businesses to register on a vendor-built revenue system](https://www.onecitizendaily.com/index.php/2022/10/21/advertisement-by-juba-city-council-jcc/). [The state government launched a digital revenue system and e-services for the council in September 2026](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/), and [on 30 October 2026 the mayor said all council revenue had moved to digital collection](https://www.radiotamazuj.org/en/news/article/juba-city-council-launches-digital-payment-system-to-improve-transparency).
 
 ### Rural digital data capture
 <!-- digital.rural -->
