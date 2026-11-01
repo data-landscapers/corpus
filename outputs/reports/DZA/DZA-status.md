@@ -1,12 +1,12 @@
 ---
 title: Algeria: status report
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 244
+sources_cited: 247
 sections_written: 39
 not_established: 2
 acquire_lines: 58
@@ -280,7 +280,7 @@ Above school level the intake is unusually technical. [Science and engineering a
 
 That record does not carry across into the systems people are asked to use: [digital-skills gaps remain a recognised challenge](https://www.trade.gov/country-commercial-guides/algeria-digital-economy) (2024). Where schooling has itself been digitised, the 2024-25 programme [moved first-grade enrolment to an online portal for parents and put tablets and digital textbooks into a limited number of selected schools, chosen partly on whether their electricity supply was reliable](https://www.agenceecofin.com/formation/1104-117776-algerie-numerisation-des-documents-scolaires-des-la-rentree-2024-2025), rather than digitising day-to-day record capture inside them.
 
-The state's answer for adults is the ["7.77" national digital empowerment programme, open to citizens aged 7 to 77 and aimed at raising basic digital skills across the population](https://techreviewafrica.com/news/5502/algeria-launches-national-digital-empowerment-programme-targeting-citizens-aged-7-to-77) (May 2026). Digital skills provision for citizens is [recorded as fee-based on the World Bank's GovTech Maturity Index 2025 update](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+The state's answer for adults is the ["7.77" national digital empowerment programme, open to citizens aged 7 to 77 and aimed at raising basic digital skills across the population](https://techreviewafrica.com/news/5502/algeria-launches-national-digital-empowerment-programme-targeting-citizens-aged-7-to-77) (May 2026). [More than 150,000 had registered by August 2026, when Algérie Télécom opened its first in-person sessions](https://lechiffredaffaires.dz/algerie-telecom-lance-les-premieres-sessions-presentielles-du-programme-national-7-77/). Digital skills provision for citizens is [recorded as fee-based on the World Bank's GovTech Maturity Index 2025 update](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 ### Training and skills
 <!-- capacity.training -->
@@ -312,7 +312,7 @@ Algeria ranks fourth in Africa on [the Ibrahim Index's assessment of how evenly 
 ### Digital divides
 <!-- include.divides -->
 
-Algeria's divide is geographic before it is anything else: [digital services are concentrated in urban areas, connectivity across the Sahara and other remote areas lags, and the Digital Algeria 2030 strategy acknowledges the rural access gap](https://asjp.cerist.dz/en/downArticle/196/11/3/278914) (2025). The state has instruments pointed straight at it — [a universal-service programme for low-density zones](https://www.echoroukonline.com/%D8%B2%D8%B1%D9%88%D9%82%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85), [a satellite-ISP market opened on the stated rationale of reaching remote and isolated areas](https://techreviewafrica.com/news/4840/algeria-opens-satellite-communications-market-to-boost-connectivity-in-remote-areas), and [a state-operator 4G build extending coverage to remote areas](https://www.ecofinagency.com/news-digital/1802-53004-algeria-s-state-owned-telecom-plans-345-new-4g-stations-nationwide). A ministerial order of 3 September 2026 [fixed the calendar of the universal-service tender for mobile coverage of low-density localities](https://www.arpce.dz/fr/pub/d3m9m8), [3,000 of them in lots open to licensed mobile operators](https://techafricanews.com/2026/09/09/algeria-tender-mobile-coverage-3000-underserved-areas/).
+Algeria's divide is geographic before it is anything else: [digital services are concentrated in urban areas, connectivity across the Sahara and other remote areas lags, and the Digital Algeria 2030 strategy acknowledges the rural access gap](https://asjp.cerist.dz/en/downArticle/196/11/3/278914) (2025). The state has instruments pointed straight at it — [a universal-service programme for low-density zones](https://www.echoroukonline.com/%D8%B2%D8%B1%D9%88%D9%82%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85), [a satellite-ISP market opened on the stated rationale of reaching remote and isolated areas](https://techreviewafrica.com/news/4840/algeria-opens-satellite-communications-market-to-boost-connectivity-in-remote-areas), and [a state-operator 4G build extending coverage to remote areas](https://www.ecofinagency.com/news-digital/1802-53004-algeria-s-state-owned-telecom-plans-345-new-4g-stations-nationwide). [Two ministerial arrêtés of 6 June 2024 awarded mobile coverage of localities under 2,000 inhabitants to Ooredoo and Djezzy](https://www.joradp.dz/FTP/jo-francais/2024/F2024045.pdf), and [4G coverage of 1,400 such zones was launched in October 2024](https://www.ooredoo.dz/w/tout-sur-ooredoo/communiques-de-presse/ooredoo-etend-son-reseau-dans-le-cadre-du-service-universel). A ministerial order of 3 September 2026 [fixed the calendar of the universal-service tender for mobile coverage of low-density localities](https://www.arpce.dz/fr/pub/d3m9m8), [3,000 of them in lots open to licensed mobile operators](https://techafricanews.com/2026/09/09/algeria-tender-mobile-coverage-3000-underserved-areas/).
 
 The older infrastructure divide has already closed. [Electricity reaches urban and rural households alike](https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=DZ) (2023), and [most of the population uses the internet](https://datareportal.com/reports/digital-2025-algeria) (2025). What has not closed is the divide inside the state: [most municipalities still have no functioning website](https://imcra-az.org/uploads/public_files/2025-10/81246.pdf) (2025), which leaves a resident of an interior commune further from an online administration than the connection figures imply, whatever the network reaches.
 
