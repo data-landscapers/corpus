@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
       "stage_sources": "EGY-002",
-      "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says the digital land register covers the whole country; online registration is stated, but question 3 must be shown by its own evidence.",
+      "note": "The registry is linked to the new-cities authority and, from October 2026, to four ministries, and registration can be completed online. National coverage is not shown, so the cell stays at stage 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

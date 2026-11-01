@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-28-youm7-egypt-justice-property-registry-digital",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Egypt's Ministry of Justice says it has launched a network linking the Real Estate Registry with the communications, planning, housing and awqaf ministries and the survey bodies, with an electronic audit centre, for property registration.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Real Estate Registry network and unified digital platform",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The Ministry of Justice says a unified digital platform lets a citizen complete the whole property registration cycle remotely, from application to payment and e-signature.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Real Estate Registry network and unified digital platform",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Real Estate Registry network and unified digital platform",
+   "country_label": "Egypt",
+   "class": "land",
+   "platform": "unified digital platform with electronic audit centre",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

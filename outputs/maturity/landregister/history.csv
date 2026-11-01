@@ -38,3 +38,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,ZMB,dpi.registry--land-register,ladder,5,3,ZMB-001;ZMB-003,"Nationwide must be shown by its own evidence (Bill, 2026-10-23): nothing held says the digital land register covers the whole country, so online services no longer answer it."
 2026-10-23,ZWE,dpi.registry--land-register,ladder,5,3,ZWE-008,"Nationwide must be shown by its own evidence (Bill, 2026-10-23): nothing held says the digital land register covers the whole country, so online services no longer answer it."
 2026-10-23,MAR,dpi.registry--land-register,ladder,5,5,MAR-002;MAR-008,"Nationwide must be shown by its own evidence (Bill, 2026-10-23): ANCFCC says its digital cadastral maps cover the whole national territory; held at 5."
+2026-11-01,EGY,dpi.registry--land-register,fact,3,3,EGY-002,"Arrival added EGY-004 and EGY-005, a registry network and online registration; national coverage not shown, stage unchanged."
