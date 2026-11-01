@@ -1,6 +1,6 @@
 ---
 title: Côte d'Ivoire: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: CIV
 ---
 
@@ -36,7 +36,7 @@ place: CIV
 <tfoot><tr><th scope="row">All topics</th><td class="num">785</td><td class="num">66</td><td class="num">87</td><td class="num">167</td><td class="num">491</td><td class="num">358</td><td class="num total">1,954</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/all-finance.html">Full table &mdash; 743 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/all-finance.html">Full table &mdash; 744 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -91,11 +91,12 @@ place: CIV
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">7</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">785</td><td class="num">66</td><td class="num">87</td><td class="num">26</td><td class="num">263</td><td class="num">104</td><td class="num total">1,331</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/finance.html">Full table &mdash; 28 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/finance.html">Full table &mdash; 29 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-nonstate-2026-10-22.csv" download>&darr; Download CSV</a>
 </div>

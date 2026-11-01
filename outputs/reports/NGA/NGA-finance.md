@@ -1,6 +1,6 @@
 ---
 title: Nigeria: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: NGA
 ---
 
@@ -27,12 +27,13 @@ place: NGA
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">6</td><td class="num">5</td><td class="num total">14</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Legislation and regulation</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Standards</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">1,808</td><td class="num">460</td><td class="num">68</td><td class="num">278</td><td class="num">1,262</td><td class="num">921</td><td class="num total">4,796</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/NGA/all-finance.html">Full table &mdash; 3,167 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/NGA/all-finance.html">Full table &mdash; 3,168 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/NGA/NGA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -85,13 +86,14 @@ place: NGA
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">13</td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">14</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">7</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Legislation and regulation</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">1,808</td><td class="num">460</td><td class="num">68</td><td class="num">174</td><td class="num">1,040</td><td class="num">732</td><td class="num total">4,282</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">1,808</td><td class="num">460</td><td class="num">68</td><td class="num">174</td><td class="num">1,040</td><td class="num">733</td><td class="num total">4,282</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/NGA/finance.html">Full table &mdash; 82 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/NGA/finance.html">Full table &mdash; 83 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/NGA/NGA-nonstate-2026-10-13.csv" download>&darr; Download CSV</a>
 </div>
