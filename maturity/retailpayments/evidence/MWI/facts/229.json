@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Consumers Association of Malawi complained to MACRA of delays on Mo626, Airtel Money and Mpamba mobile money transactions, which shows those services running.",
+   "as_of": "2026-10-31",
+   "date_precision": "day",
+   "system": "Airtel Money; Mpamba; Mo626",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "Airtel Malawi",
+   "tiers": ""
+  },
+  {
+   "system": "Mpamba",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "TNM",
+   "tiers": ""
+  },
+  {
+   "system": "Mo626",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-tza-mobile-money-transaction-limit-review",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Citizen reports MPs and the Deputy Finance Minister discussing mobile money wallets and Lipa Namba accounts in use, with a Sh5 million daily limit.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "mobile money; Lipa Namba",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

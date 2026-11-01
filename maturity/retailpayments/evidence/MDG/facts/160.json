@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Minister Delmotte says the postal service provides mobile money services, still largely manual.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "postal mobile money service",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

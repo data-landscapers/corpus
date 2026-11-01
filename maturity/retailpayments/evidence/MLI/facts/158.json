@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-mli-recouvrement-digital-des-taxes-et-redevances-communales-la-mairie-de-l",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Malijet calls Sama Money the leader of mobile payment in Mali.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Sama Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-12-cmr-businessincameroon-telecom-sector-1022bn-2024-art-observatoire",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ART data cited by Business in Cameroon show 11.4 million active mobile financial services subscriptions in 2024, and MTN Mobile Money and Orange Money revenue of 135.8 billion FCFA.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "MTN Mobile Money; Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN Cameroon",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange Cameroun",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

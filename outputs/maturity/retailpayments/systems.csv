@@ -132,6 +132,9 @@ CMR,MTN Mobile Money,Cameroon,retail,mobile money,MTN Cameroon,,2026-10-13-cmr-f
 CMR,Orange Money,Cameroon,retail,mobile money,Orange Cameroun,,2026-10-13-cmr-fraude-mobile-money-au-cameroun-pourquoi-la-sensibilisation-ne-suffira
 CMR,MTN Mobile Money,MTN MoMo,retail,,MTN,,2026-09-25-cmr-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-mo
 CMR,Orange Money,Orange Money,retail,,Orange,,2026-09-25-cmr-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-mo
+CMR,MTN Mobile Money,Cameroon,retail,,MTN Cameroon,,2025-12-12-cmr-businessincameroon-telecom-sector-1022bn-2024-art-observatoire
+CMR,Orange Money,Cameroon,retail,,Orange Cameroun,,2025-12-12-cmr-businessincameroon-telecom-sector-1022bn-2024-art-observatoire
+CMR,Blue Money,Blue Money,retail,,CAMTEL,,2025-12-05-cmr-camtel-et-ethio-telecom-unissent-leurs-forces-pour-accelerer-la-transf
 COD,FlashApp,DRC,retail,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
 COD,MainMoney,COD,retail,Keyo palm biometrics,AI.Tech,,2026-05-11-mainmoney-palm-biometrics-financial-inclusion-drc-biometricupdate
 COD,MainMoney,DR Congo,retail,palm-vein payment terminal,MainMoney,,2026-04-30-mainmoney-palm-vein-lancement-actualite
@@ -247,6 +250,7 @@ ETH,telebirr,Ethiopia,retail,mobile money,Ethio Telecom,,2025-07-24-sdn-telebirr
 ETH,M-Pesa Ethiopia,Ethiopia,retail,mobile money,Safaricom Ethiopia,,2024-10-14-ken-safaricom-enables-m-pesa-transfers-between-kenya-ethiopia
 ETH,M-PESA,Ethiopia,retail,,Safaricom Ethiopia,,2024-03-19-eth-m-pesa-onafriq-partner-to-send-remittances-to-ethiopia
 ETH,telebirr,telebirr,retail,,Ethio telecom,,2024-08-19-eth-ethio-telecom-in-collaboration-with-visa-inc-has-launched-the-first-wa
+ETH,CBEBirr and TeleBirr,Ethiopia,retail,,,,2025-04-13-eth-ethiopia-accelerates-digital-transformation-workforce-development
 GAB,MADIGIPAIE,Gabon,retail,QR code,,,2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability
 GAB,Madigipaie,Gabon,retail,QR code,Ministry of Digital Economy,,2026-07-07-gabon-lunion-madigipaie-libreville
 GAB,Madigipaie,GAB,retail,GIMAC QR code,Ministry of Digital Economy,,2026-03-01-gabon-madigipaie-taxigab
@@ -349,6 +353,7 @@ KEN,Hustler Fund,Kenya,other,*254#,,,2026-08-18-star-ruto-4-hustler-fund-has-bui
 KEN,mobile money,Kenya,retail,,,,2026-08-18-star-ruto-4-hustler-fund-has-built
 KEN,M-PESA,M-PESA,retail,Huawei Cloud,,,2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit
 KEN,M-Pesa,Kenya,retail,mobile money tills and paybills,Safaricom,,2026-10-28-ken-kra-eyes-m-pesa-invoices-for-small-and-micro-traders
+KEN,M-Pesa,M-Pesa,retail,mobile money,Safaricom,,2025-02-27-ken-ca-to-spend-sh3-5bn-to-bridge-digital-divide-in-rural-areas
 LBR,Inclusive Instant Payment System,Liberia,retail,instant payment,Central Bank of Liberia,Lonestar MTN Mobile Money; Orange Money Liberia,2026-10-01-liberian-observer-liberia-instant-payment-system-5-3m-transactions
 LBR,Inclusive Instant Payment System (IIPS),Liberia,retail,Mojaloop,Central Bank of Liberia,,2026-09-26-lbr-finance-minister-washington-diaspora-payments
 LBR,National Electronic Payment Switch,Liberia,retail,,Government of Liberia,planned,2026-09-26-lbr-finance-minister-washington-diaspora-payments
@@ -471,6 +476,7 @@ MOZ,National Payments System law,Mozambique,other,,,,2026-04-15-national-payment
 MOZ,M-Pesa,Mozambique,retail,mobile money,Vodacom,,2023-11-24-moz-kabum-plataforma-registo-empresas
 MOZ,Emola,Mozambique,retail,mobile money,Movitel,,2023-11-24-moz-kabum-plataforma-registo-empresas
 MOZ,Mkesh,Mozambique,retail,mobile money,TMcel,,2023-11-24-moz-kabum-plataforma-registo-empresas
+MOZ,METIX,Mozambique,retail,,,,2026-10-28-moz-governor-felisberto-navalha-delivers-opening-address-at-51st-banco-de
 MRT,QR code payment,Mauritania,retail,,,,2026-04-13-bad-pamif-mauritanie-secteur-financier-telecompensation-paiement-qr
 MRT,QR code payment,Mauritania,retail,,,,2026-04-13-pamif-financial-inclusion-afdb
 MRT,GIMTEL interconnection,Mauritania,retail,interbank switch for bank apps and e-wallets,GIMTEL,,2024-10-14-gimtel-interbank-transactions-launch
@@ -498,6 +504,9 @@ MWI,TNM Mpamba,TNM Mpamba,retail,,,,2025-04-16 Mobile money deals hit K19.5tn in
 MWI,Social cash transfer programmes,MWI,other,,,,2026-09-04-mwi-macra-digital-scams-alert
 MWI,mobile money,Malawi,retail,,,,2026-07-25-malawi-cash-reliance-banknote-costs-digital-payment-uptake
 MWI,National Switch,Malawi,retail,,,,2025-07-21-mwi-nation-banks-respond-digital-services-findex
+MWI,Airtel Money,Malawi,retail,,Airtel Malawi,,2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes
+MWI,Mpamba,Malawi,retail,,TNM,,2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes
+MWI,Mo626,Malawi,retail,,,,2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes
 NAM,NamQR,Namibia,retail,,Payments Association of Namibia,,2026-07-29-namibia-instant-payments-namqr-open-banking
 NAM,Instant Payment Solution (IPS),Namibia,retail,,Bank of Namibia,,2026-07-29-namibia-launches-instant-payments-system
 NAM,Instant Payments Namibia,Namibia,retail,,Bank of Namibia (initiative),,2025-07-01-namibia-weighs-biometrics-instant-payment-biometricupdate

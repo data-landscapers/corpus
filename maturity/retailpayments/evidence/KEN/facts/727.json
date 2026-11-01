@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-27-ken-ca-to-spend-sh3-5bn-to-bridge-digital-divide-in-rural-areas",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Kenya News Agency reports traders at Baolala Market, Kilifi County, operate M-Pesa accounts and make payments by mobile phone.",
+   "as_of": "2025-02-27",
+   "date_precision": "day",
+   "system": "M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "M-Pesa",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
