@@ -10,4 +10,4 @@
 
 ***Also on file***. [NIU (numero d'identification unique)](<https://www.adiac-congo.com/content/administration-lancement-de-la-campagne-de-distribution-de-proximite-des-cni-et-niu-166913>); [CNI (carte nationale d'identite)](<https://www.adiac-congo.com/content/administration-lancement-de-la-campagne-de-distribution-de-proximite-des-cni-et-niu-166913>).
 
-***Not found*** No source found says the online NIU check is in service.
+***Not found***. No source found says the online NIU check is in service.
