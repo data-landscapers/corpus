@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-10-27
+compiled: 2026-11-01
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 179
+sources_cited: 181
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -291,7 +291,7 @@ Inside government, innovation is an institution with no public record of what it
 
 [Equality in education ranks 34th of 54 African countries and has slid over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf), one of Namibia's ten worst governance measures in a country that sits 6th on the continent overall. The weakness is not in the teaching workforce, which is [one of the ten best measures Namibia has, 6th of 54 and sharply improved since 2014, while the quality of the education it delivers ranks 13th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). Nor is it enrolment, [up 11.4 points in an education score that ranked 12th of 54 in 2023 and was otherwise flat across the decade, with completion also up](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). What the country has built is a school system that reaches and staffs itself well and distributes what it teaches unevenly.
 
-The floor beneath any digital system is still a paper one. Rural primary schools [keep attendance, enrolment and learning outcomes on paper registers](https://www.moe.gov.na/index.php/dep/dep-fa/dir-pad/emis) and send them twice yearly on forms to regional offices for the ministry to digitise centrally (January 2024), and [many rural schools have no electricity at all](https://energypedia.info/wiki/Electrification_of_Rural_Primary_Schools_in_Namibia), which alongside thin rural mobile coverage and few devices keeps computers out of those classrooms (2023). [No government digital skills programme reaches schools or citizens](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), so a pupil's exposure to the systems the state is digitising depends on where the school is. The first AI tutoring labs in a government school, [privately funded, opened at a Lüderitz secondary school in September 2026, with six more schools in the region scheduled for 2027](https://aitsafrika.com/education/namibias-first-ai-tutoring-labs-launched-in-lderitz-nmh018656-3014-22949-22972).
+The floor beneath any digital system is still a paper one. Rural primary schools [keep attendance, enrolment and learning outcomes on paper registers](https://www.moe.gov.na/index.php/dep/dep-fa/dir-pad/emis) and send them twice yearly on forms to regional offices for the ministry to digitise centrally (January 2024), and [many rural schools have no electricity at all](https://energypedia.info/wiki/Electrification_of_Rural_Primary_Schools_in_Namibia), which alongside thin rural mobile coverage and few devices keeps computers out of those classrooms (2023). Outside school, [the ICT ministry's free digital literacy programme had certified more than 900 people across all 14 regions by January 2025, eighteen months after its launch](https://techafricanews.com/2025/01/27/mict-empowers-over-900-namibians-through-free-digital-literacy-programme/), and [its regional offices were running two-week courses for 20 people at a time in July 2026](https://neweralive.na/maltahohe-participants-urged-to-embrace-digital-learning/). The first AI tutoring labs in a government school, [privately funded, opened at a Lüderitz secondary school in September 2026, with six more schools in the region scheduled for 2027](https://aitsafrika.com/education/namibias-first-ai-tutoring-labs-launched-in-lderitz-nmh018656-3014-22949-22972).
 
 ### Training and skills
 <!-- capacity.training -->
