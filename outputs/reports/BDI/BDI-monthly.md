@@ -1,19 +1,21 @@
 ---
-title: Burundi — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+title: Burundi — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: BDI
-ledger_rows: 24
+ledger_rows: 16
 not_held: 10
-record: 4be7c416215d
+record: 2c7f4855a401
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -22,8 +24,6 @@ record: 4be7c416215d
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -39,20 +39,6 @@ record: 4be7c416215d
 </nav>
 
 ### Strategies, plans and policies
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Draft law on access to public information</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Burundi adopts Right-to-Information Law, with broad exceptions](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/)** — Burundi Times, 30 September 2026
-
-Burundi's Senate unanimously adopted a bill on 29 September 2026 creating a legal right of access to public information. It sets up a National Commission on Access to Public Information to hear appeals and requires covered bodies to publish some information proactively, with exceptions for national security, private life and ongoing judicial investigations. The bill sets no ceiling on access fees.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -86,20 +72,6 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Access to information bill</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Burundi adopts Right-to-Information Law, with broad exceptions](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/)** — Burundi Times, 30 September 2026
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Ordonnance ministerielle n 540/906/2026 on SIM registration</p>
 
 <div class="bulletin-item" markdown="1">
@@ -128,33 +100,37 @@ ISO's member page lists the Bureau Burundais de Normalisation et Contrôle de la
 
 </div>
 
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+</nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital identity cooperation talks with the Republic of Korea</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi: Bujumbura Seeks South Korean Support for Digital Identity Infrastructure](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-bujumbura-seeks-south-korean-support-for-digital-identity-infrastructure)** — We are Tech, 21 October 2026
+
+Seoul talks explore KOICA and EDCF financing for digital ID, data centres and government interconnection.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technical-capacity">Technical Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
-
-### Connectivity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">International capacity through neighbouring landings</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[TTCL and BBS Increase Tanzania-Burundi Connectivity Capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/)** — Tech Africa News, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
-
-Tanzania's state operator agreed with Burundi Backbone System to raise cross-border capacity from 4Gbps to 10Gbps through the National ICT Broadband Backbone, framed as a response to demand for cross-border digital services and enterprise connectivity.
-
-</div>
-
-</div>
 
 ### Energy
 
@@ -223,8 +199,6 @@ Summarised under [Cybersecurity](#cybersecurity).
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#registries">Registries</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -246,37 +220,7 @@ The East African Legislative Assembly's accounts committee reported that Burundi
 
 </div>
 
-### Registries
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">2027 electoral register preparation</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[2027 presidential election : more than one million new voters, CENI accelerates preparations - SOS Médias Burundi](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/)** — SOS Medias Burundi, 3 September 2026
-
-Burundi's electoral commission CENI expects more than one million new voters on the register for the 2027 presidential election, its president Prosper Ntahorwamiye said on 28 August 2026. Partial registration is planned for October 2026 in more than 4,000 centres, aimed at those under 18 in 2025 and returnees. Exact dates have not been set.
-
-</div>
-
-</div>
-
 ### Sectoral management information systems
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic cargo tracking system and regional command centre</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[L'interfaçage des Systèmes de Suivi Electronique des Cargos pour la sécurité et la sûreté des Biens ou des Marchandises](https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises)** — Office Burundais des Recettes, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
-
-Tanzanian and Burundian revenue officials met at the OBR on 22 September 2026 to work on linking their electronic cargo tracking systems on the Northern Corridor. Burundi's system, in use since 2014, can track goods only from its own border posts, and the aim is to follow them from Dar es Salaam or Mombasa to destination.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -293,34 +237,6 @@ Burundi is preparing an E-Justice platform to link the penal chain from the judi
 </div>
 
 ### Other GovTech and e-Gov
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Revenue office WhatsApp chatbot</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[L'OBR lance officiellement son Chatbot WhatsApp : l'assistance fiscale et douanière dans la dynamique digitale à portée de main !](https://www.obr.bi/index.php/actualites/2597-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-et-douaniere-dans-la-dynamique-digitale-a-portee-de-main)** — Office Burundais des Recettes, 1 September 2026
-
-Burundi's revenue office, the OBR, launched a WhatsApp chatbot for tax and customs questions on 1 September 2026. It answers in French, Kirundi, English and Swahili, is available around the clock, and refers cases needing an officer to the relevant OBR service.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic government procurement system (e-GP)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Demande de Propositions No : Bl-PAFEN-PIU-549116-NC-RFB Relative à la Conception, développement sur mesure et déploiement d’un Système Électronique de Passation des Marchés Publics (e-GP) de bout en bout entièrement personnalisé pour la République du Burundi.](https://armp.gov.bi/archives/12100)** — Projet d'Appui aux Fondations de l'Economie Numérique (PAFEN), posted by the Autorité de Régulation des Marchés Publics (ARMP Burundi), 23 September 2026
-
-Burundi's World Bank-funded digital foundations project has issued an international tender for a custom electronic government procurement system covering the whole contract cycle. It is to be open source, built over 18 months with the procurement regulator's staff, installed first at the finance ministry, and owned outright by the government; bids close on 13 November 2026.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -372,31 +288,9 @@ Butihinda commune in Burundi held a practical session on 24 and 25 October 2026 
 
 <div class="bulletin-item" markdown="1">
 
-**[Intelligence artificielle : à Séoul, le Burundi présente ses ambitions](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions)** — wearetech.africa, 10 September 2026
-
-Burundi presented the ambitions of its national artificial intelligence strategy at the Korea-Africa economic cooperation ministerial in Seoul, seeking the financing and partnerships to turn it into concrete projects. The strategy, validated in April, provides for strengthening connectivity, data infrastructure and local skills; the country's digital capacity remains limited.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
 **[Country Profile on AI Governance: Burundi](https://www.aipolicy.africa/country-profiles/burundi)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Burundi scored 0.70 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 45 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.40) and its weakest is Innovation and Ecosystem (0.20); the profile records an AI strategy validated in April 2026 but not adopted.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Ijwi ry'Ikirundi AI Kirundi speech and text dataset</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Ijwi-ry-Ikirundi-AI/Kirundi_Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — Ijwi ry'Ikirundi AI, 28 September 2026
-
-The Ijwi ry'Ikirundi AI project's GitHub repository publishes 1,813 Kirundi sentences awaiting translation, each with a machine draft, under CC BY-NC 4.0 for its contribution app. The full dataset, kept private and available on request including for commercial licences, holds 4,809 Kirundi sentences of which 2,996 are complete Kirundi-French-English pairs, but only one validated three-second recording.
 
 </div>
 
@@ -411,28 +305,6 @@ The Ijwi ry'Ikirundi AI project's GitHub repository publishes 1,813 Kirundi sent
 **[Country Profile on AI Governance: Burundi](https://www.aipolicy.africa/country-profiles/burundi)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Summarised under [AI](#ai).
-
-</div>
-
-</div>
-
-## Capacity
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
-<a href="#literacy">Literacy</a>
-</nav>
-
-### Literacy
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital skills of public officials</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[La transformation numérique ne se résume pas aux infrastructures (post de Bienvenu Irakoze, coordonnateur du PAFEN)](https://www.linkedin.com/feed/update/urn:li:activity:7509922575322566656)** — Bienvenu Irakoze, PAFEN coordinator (LinkedIn), 27 September 2026
-
-Bienvenu Irakoze, coordinator of Burundi's World Bank-backed PAFEN digital programme, wrote that the project will soon start a basic digital skills programme to train 5,000 civil servants and 10,000 young people within 12 months. He said the project also works with innovation hubs and startups, and set the training alongside its spending on infrastructure and platforms.
 
 </div>
 
