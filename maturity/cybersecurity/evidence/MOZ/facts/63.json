@@ -1,0 +1,46 @@
+{
+ "slug": "2024-06-27-moz-proteccao-de-dados-e-fundamental-para-o-respeito-a-soberania-e-a-integ",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "INTIC's chair lists Resolution 69/2021 of 31 December, approving the Cyber Security Policy and its implementation strategy, among the instruments in force.",
+   "as_of": "2021-12-31",
+   "date_precision": "day",
+   "system": "Política de Segurança Cibernética e Estratégia de sua implementação",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "INTIC's chair says the national CSIRT has been established under INTIC.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "CSIRT Nacional",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "INTIC's chair says the national CSIRT's technicians watch for cyber attacks, respond to them and have alerted institutions to risks and attempted attacks on their systems.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "CSIRT Nacional",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSIRT Nacional",
+   "country_label": "CSIRT Nacional",
+   "class": "response",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -291,6 +291,7 @@ GHA,CERT-GH,Ghana,response,,Cyber Security Authority,,2026-09-03-gha-online-frau
 GHA,Cyber Security Authority (CERT-GH),Cyber Security Authority,response,,Cyber Security Authority,,2025-11-28-gha-online-shopping-scam-black-friday-deals
 GHA,Cyber Security Authority,Cyber Security Authority,response,,,,2025-09-03-gha-minister-launches-2025-national-cyber-security-awareness-month-and-cal
 GHA,Cyber Security Authority,Ghana Cyber Security Authority,other,,,,2026-09-30-iati-gb-gov-1-400101-406-ghana-cyber-standards-and-expertise-project
+GHA,Cyber Security Authority,Cyber Security Authority,response,,Government of Ghana,,2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministry of Posts, Telecommunications and the Digital Economy",,2025-09-12-anssi-guinee-alerte-manipulations-par-ia
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministry of Posts, Telecommunications and the Digital Economy",,2025-04-18-anssi-atelier-validation-pssie
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministry of Posts, Telecommunications and the Digital Economy",,2016-01-01-guinea-loi-l2016-037-an-cybersecurite-protection-donnees
@@ -348,6 +349,7 @@ KEN,National Cybersecurity Operations Center,Kenya,response,,National Cybersecur
 KEN,National Computer and Cybercrimes Coordination Committee,NC4,response,,Ministry of Interior and National Administration (chair),,2025-10-22-ken-multi-agency-committee-formed-to-coordinate-cybersecurity-matters
 KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,National Cybersecurity Operations Centre,Government of Kenya,,2026-10-28-xaf-kenya-calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime
 KEN,National KE-CIRT/CC,National Kenya Computer Incident Response Team Coordination Centre,response,,Communications Authority of Kenya,,2026-10-28-xaf-kenya-calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime
+KEN,Cyber Security Operations Centre for the ICT and Telecommunications Sector,Cyber Security Operations Centre (ICT and telecoms sector),other,,Communications Authority of Kenya,,2024-09-14-ken-ca-to-lay-2-500km-of-fibre-accross-19-counties
 LBR,computer security incident response team (Cybaston Digital Fast Track),Liberia,response,,"Cybaston Institute of Technology, handover to Ministry of Posts and Telecommunications in September 2029",,2024-09-24-liberia-cybaston-five-year-digital-fast-track-agreement
 LBR,National Cybersecurity Strategy (2024-2029),Liberia,response,,Ministry of Posts and Telecommunications,,2026-03-01-liberia-national-data-governance-policy
 LBR,Liberia National CERT (proposed),Liberia,other,,,,2026-03-01-liberia-national-data-governance-policy
@@ -393,6 +395,7 @@ MDG,CIRT (Computer Incident Response Team),Madagascar,response,,,,2025-12-16-mad
 MDG,CIRT,Madagascar,response,,,,2025-12-15-cybersecurite-strategie-nationale-midi
 MDG,Computer Incident Response Team (CIRT),Madagascar,response,,"Ministry of Digital Development, Posts and Telecommunications",,2026-06-26-cybersecurity-symposium-antananarivo
 MDG,Centre de lutte contre la cybercriminalite (CLCC),MDG,other,,Ministry of Communication and Culture,24 regions,2026-10-22-mdg-la-prevention-de-la-cybercriminalite-se-renforce
+MDG,CIRT,CIRT (Computer Incident Response Team),response,,Ministry of Digital Development,,2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development
 MLI,Agence nationale de la Sécurité des Systèmes d'Information (ANSSI),ANSSI,response,,Government of Mali,national,2026-07-01-maliactuel-anssi-agence-cybersecurite-creee
 MLI,Agence nationale de la Sécurité des Systèmes d'Information (ANSSI),ANSSI,response,,Government of Mali,national,2026-06-10-mali-conseil-des-ministres-creation-anssi
 MLI,Pole national de lutte contre la cybercriminalite,Mali,other,,Ministry of Justice,,2026-05-21-lessor-cybercrime-chamber-operational
@@ -418,6 +421,7 @@ MOZ,CSIRT Nacional (nCSIRT.mz),INTIC,response,,INTIC,,2026-10-19-moz-intic-eleit
 MOZ,CSIRT Nacional,CSIRT Nacional,response,,INTIC,,2026-01-09-moz-relatorio-do-banco-mundial-destaca-avancos-significativos-na-seguranca
 MOZ,nCSIRT.mz,CSIRT Nacional (INTIC),response,,INTIC,,2025-09-28-moz-comunicado-sobre-contas-falsas-nas-redes-sociais
 MOZ,C-Sirt Nacional,Equipa Nacional de Resposta a Incidentes de Seguranca Cibernetica,response,,,,2025-04-29-moz-mocambique-regista-centenas-de-burlas-de-pagamentos-eletronicos
+MOZ,CSIRT Nacional,CSIRT Nacional,response,,INTIC,,2024-06-27-moz-proteccao-de-dados-e-fundamental-para-o-respeito-a-soberania-e-a-integ
 MRT,CSIRT national and SOC RIAD (tendered),MRT,response,,"WARDIP-Mauritanie project unit, Ministry of Digital Transformation",,2026-10-09-mrt-wardip-csirt-soc-riad-tender
 MRT,CSIRT national and SOC RIAD (tendered),MRT,response,,"WARDIP-Mauritanie project unit, Ministry of Digital Transformation",,2025-09-01-wardip-appel-offres-csirt-national-soc-riad-additif-2
 MRT,Planned national CERT/CSIRT,MRT,response,,,,2026-06-30-national-cloud-launch-ecofin
@@ -582,6 +586,7 @@ SWZ,Eswatini Communications Commission (ESCCOM),ESCCOM,response,,ESCCOM,,2026-10
 SWZ,National Cybersecurity Agency,National Cybersecurity Agency (NCA),response,,government,,2025-10-01-swz-esccom-launches-2025-cybersecurity-awareness-month
 SWZ,ESCCOM,Eswatini Communications Commission (National Cybersecurity Agency),response,,ESCCOM,,2025-07-25-swz-hacking-on-rise-water-services-halts-digital-payments
 SWZ,National Computer Incident Response Team (NCIRT),National Computer Incident Response Team (NCIRT),response,,National Cybersecurity Agency at ESCCOM,,2024-02-06-swz-anyone-can-be-a-victim-of-cyber-crime-sakhile-dlamini
+SWZ,National Computer Incident Response Team,National Computer Incident Response Team,response,,Ministry of ICT,,2026-10-29-swz-eswatini-s-cybersecurity-score-quadruples
 SYC,CERT-SC,Seychelles,response,,Department of Information and Communication Technology,,2026-10-06-cert-sc-takes-the-lead-in-third-seychelles-national-cyberdri
 SYC,CERT-SC,Seychelles,response,,Department of ICT,,2019-01-01-ict-gov-sc-national-cybersecurity-strategy
 SYC,National Cybersecurity Coordination Committee (NCCC),Seychelles,other,,,,2025-05-13-nation-ai-nccc-amps-media
@@ -646,6 +651,7 @@ TZA,TCRA fraud reporting (SMS 15040),Tanzania,other,SMS,Tanzania Communications 
 TZA,TCRA fraud number and domain blocking via short code 15040,Tanzania,other,,TCRA,,2026-08-14-tanzania-39000-numbers-blocked-fraud-tcra
 TZA,"Directorate of Cyber Security and Information Protection, Zanzibar",Tanzania (Zanzibar),other,,"Zanzibar Ministry of Communication, IT and Innovation",,2026-06-11-zanzibar-wizara-yawekeza-usalama-mtandao
 TZA,TZ-CERT,TZ-CERT,response,,TCRA,,2024-10-17-tza-tanzania-granted-global-recognition-for-its-efforts-in-managing-cybers
+TZA,TZ-CERT,Tanzania,response,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 UGA,UgCERT (Uganda Computer Emergency Response Team),Uganda,response,,Uganda Communications Commission,,2026-09-23-uga-ugcert-cybersecurity-training-drill
 UGA,National CERT,Uganda,response,,,,2026-09-13-techreviewafrica-world-bank-mission-uganda-digital-acceleration-project
 UGA,Directorate of Criminal Investigations (CID),Uganda,other,,Uganda Police,,2026-08-27-nilepost-cid-digital-crime-investigators

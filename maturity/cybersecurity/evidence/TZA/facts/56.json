@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The report says TZ-CERT, the Tanzania Computer Emergency Response Team, is functioning and coordinates national cybersecurity efforts, alongside a National Cybersecurity Strategy.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "TZ-CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TZ-CERT",
+   "country_label": "Tanzania",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Minister Delmotte says laws were enacted to create an official national body, the CIRT (Computer Incident Response Team), which the ministry is piloting this year.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "CIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIRT",
+   "country_label": "CIRT (Computer Incident Response Team)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

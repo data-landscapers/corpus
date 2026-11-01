@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-29-swz-eswatini-s-cybersecurity-score-quadruples",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Minister Maziya cited Eswatini's National Cybersecurity Strategy 2022-2027 at the Africa Cybersecurity Indaba.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy 2022-2027",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Minister Maziya cited an operational National Computer Incident Response Team as part of the national cybersecurity arrangements.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "National Computer Incident Response Team",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Computer Incident Response Team",
+   "country_label": "National Computer Incident Response Team",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
