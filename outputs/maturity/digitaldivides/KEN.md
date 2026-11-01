@@ -10,4 +10,4 @@
 
 ***Also on file***. [Universal Service Fund](<https://www.ictworks.org/fcdo-promises-to-halve-the-digital-divide-where-is-the-money/>).
 
-***Not found***. No source found since October 2023 gives the share of people using the internet in rural and in urban areas; the KDHS 2022 figures predate the window.
+***Not found***. No source found since October 2023 gives the share of people using the internet in rural and in urban areas. The KDHS 2022 figures predate the window.
