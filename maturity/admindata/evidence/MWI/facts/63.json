@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-01-iati-xm-dac-47066-da0113-strengthening-migration-data-governance-malawi",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "IOM's IATI record shows a USD 300,000 project, in implementation from 2026-10-01 to 2028-09-30, supporting Malawi's National Statistical Office and government institutions with harmonized administrative data standards for migration data.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Strengthening Migration Data Governance for Evidence-Based Policymaking in Malawi",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

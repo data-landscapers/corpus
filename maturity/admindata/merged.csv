@@ -24,6 +24,7 @@ BDI,2026-08-12-bdi-burundi-extends-biometric-civil-registration-toward-national-
 BDI,2026-10-15-bdi-primature-rgeb-2026-recensement-entreprises-lancement,,2026-10-20
 BEN,2023-07-01-ben-annuaire-des-statistiques-sanitaires-2022,,2026-10-19
 BEN,2024-03-23-ben-banouto-rgph5-cartographie-74-communes,,2026-10-19
+BEN,2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms,,2026-11-01
 BEN,2025-11-01-ben-instad-annuaire-statistiques-etat-civil-2024,,2026-10-19
 BEN,2026-01-01-xwa-harmonized-improved-population-statistics-west-and-central-africa-hisw,,2026-10-26
 BEN,2026-03-11 The evolving role of National Statistics Offices (NSOs) as data custodians in the digital age,,2026-10-19
@@ -31,6 +32,7 @@ BEN,2026-09-08-fraternite-dividende-demographique-harmonisation-donnees,,2026-10
 BEN,2026-10-17-ben-ecofin-preuve-de-vie-pensioners-app,,2026-10-19
 BFA,2025-04-01-bfa-annuaire-statistique-2024,,2026-10-19
 BFA,2025-09-23-systeme-information-localites-analyse-geospatiale,,2026-10-19
+BFA,2025-11-05-bfa-burkina-faso-projets-et-programmes-du-ministere-en-charge-de-la-transi,,2026-11-01
 BFA,2025-12-01-bfa-insd-annuaire-statistique-national-2024,,2026-10-19
 BFA,2026-01-01-xwa-harmonized-improved-population-statistics-west-and-central-africa-hisw,,2026-10-26
 BFA,2026-09-24-bfa-sidwaya-ia-secretaires-generaux-formation,,2026-10-19
@@ -56,6 +58,8 @@ CIV,2026-01-01-xwa-harmonized-improved-population-statistics-west-and-central-af
 CIV,2026-04-15-oft-stad-plateforme-transports-fratmat,,2026-10-19
 CIV,2026-06-23-cote-divoire-lancement-simt,,2026-10-19
 CIV,2026-10-15-can-africas-new-crvs-decade-close-the-death-registration-gap,,2026-10-19
+CIV,2026-10-27-civ-digitalisation-trois-outils-de-modernisation-de-letat-civil,,2026-11-01
+CIV,2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet,,2026-11-01
 CMR,2020-07-20-loi-2020-010-activite-statistique-cameroun,,2026-10-19
 CMR,2021-12-02-cameroun-decret-2021-690-activite-statistique-modalites,,2026-10-19
 CMR,2022-10-14-ins-manuel-lignes-directrices-statistiques-source-administrative,,2026-10-19
@@ -72,6 +76,7 @@ CMR,2026-08-10-cameroon-cdhc-civil-registry-interoperability,,2026-10-19
 CMR,2026-08-27-cmr-etat-civil-au-cameroun-9-deces-sur-10-non-declares-par-an,,2026-10-26
 CMR,2026-09-15-cmr-journalducameroun-4e-rgph-couverture-75-pourcent,,2026-10-23
 CMR,2026-10-20-cmr-donnees-modelisation-geomatique-onacc,,2026-10-23
+CMR,2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet,,2026-11-01
 COD,2023-12-01-itu-drc-digital-development-dashboard,,2026-10-19
 COD,2023-12-26-cod-enregistrement-des-faits-d-etat-civil-et-production-de-statistiques-vi,,2026-10-20
 COD,2024-01-01 CRVS Systems - DR Congo civil registration snapshot,,2026-10-19
@@ -98,6 +103,7 @@ COM,2025-07-10-com-rapport-annuel-performances-et-perspectives-2024,,2026-10-19
 COM,2026-03-27-com-wearetech-numerisation-etat-civil-nip,,2026-10-19
 COM,2026-06-17-com-hisp-rwanda-tot-vaccination-surveillance,,2026-10-19
 COM,2026-08-31-unsd-datas-in-comoros,,2026-10-19
+COM,2026-10-30-com-lagazette-sante-et-numerique-onze-projets,,2026-11-01
 CPV,2017-11-01-cpv-crvs-birth-marriage-and-death-registration-in-cabo-verde,,2026-10-19
 CPV,2024-12-01-cpv-coopstat-26-master-data-visita-ine-portugal,,2026-10-20
 CPV,2025-05-28-cabo-verde-mortality-management-who-portugal,,2026-10-19
@@ -133,6 +139,7 @@ DZA,2026-09-07-aps-algeria-second-meeting-unified-digital-mechanism-market-regul
 DZA,2026-09-09-dza-aps-government-meeting-penal-code-digitisation,,2026-10-19
 DZA,2026-09-23-dza-echorouk-prodnat-industrial-data-platform,,2026-10-19
 EGY,2019-10-14-uneca-electronic-birth-and-death-registration-system-in-egypt,,2026-10-19
+EGY,2024-01-01-egy-digital-development-dashboard-egypt,,2026-11-01
 EGY,2024-01-01-egypt-unsd-vital-statistics-questionnaire-2024,,2026-10-19
 EGY,2025-01-01-egy-emis-moete-statistical-yearbook-2024-2025,,2026-10-19
 EGY,2025-01-27-egy-ahram-capmas-statistical-yearbook-2024,,2026-10-20
@@ -246,6 +253,7 @@ LBR,2026-10-16-lbr-newdawn-house-scrutinizes-52m-national-id-deal,,2026-10-19
 LBR,2026-10-16-lbr-womenvoices-house-scrutinizes-52m-national-id-deal,,2026-10-19
 LBR,2026-10-16-liberianobserver-house-reviews-national-digital-id-overhaul,,2026-10-19
 LBR,2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession,,2026-10-20
+LBR,2026-10-30-lbr-house-halts-review-of-us-52m-national-id-deal-over-missing-signatures,,2026-11-01
 LBY,2022-01-01-libya-moh-vital-statistics-report-2020,,2026-10-19
 LBY,2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi,,2026-10-19
 LBY,2026-01-01-lby-bsc-statistical-book-2023,,2026-10-19
@@ -275,6 +283,7 @@ MAR,2026-09-15-crvs-laws-morocco-coordination-technology,,2026-10-19
 MAR,2026-10-16-mar-crvslaws-vital-statistics-agency,,2026-10-19
 MDG,2018-04-18-loi-2018-004-activites-statistiques,,2026-10-19
 MDG,2018-11-27-loi-2018-027-etat-civil-who-int,,2026-10-19
+MDG,2025-09-01-mdg-interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-fi,,2026-11-01
 MDG,2025-12-01-decret-2025-1959-cadre-institutionnel-interoperabilite,,2026-10-19
 MDG,2026-01-30-national-biometric-enrolment-begins,,2026-10-19
 MDG,2026-02-25-instat-livret-genre-2026,,2026-10-19
@@ -284,6 +293,7 @@ MDG,2026-03-23-madagascar-acceleration-normes-internationales-statistiques-fmi,,
 MDG,2026-04-28-instat-interoperabilite-nationale,,2026-10-19
 MDG,2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress,,2026-10-19
 MDG,2026-04-29-interoperabilite-nationale-instat,,2026-10-19
+MDG,2026-04-29-mdg-modernisation-de-l-etat-14-institutions-deja-interconnectees-via-le-sy,,2026-11-01
 MDG,2026-04-29-newsmada-rahaka-interoperability-platform-launch,,2026-10-19
 MDG,2026-05-11-presentation-prodoc-rgph-4,,2026-10-19
 MDG,2026-05-13-decision-hcc-loi-2026-001-enregistrement-naissances-derogatoire,,2026-10-19
@@ -310,7 +320,9 @@ MLI,2026-08-10-mali-instat-microdata-catalogue,,2026-10-19
 MLI,2026-08-14-instat-mali-17e-session-revue-annuelle-schema-directeur-statistique,,2026-10-19
 MLI,2026-08-31-iati-xm-dac-41301-762022-benin-agricultural-census,,2026-10-20
 MLI,2026-09-03-mali-snisi-a-propos-de-ce-systeme,,2026-10-19
+MLI,2026-10-07-iati-gb-gov-1-400199-411-cross-regulatory-digital-governance-south-africa,,2026-11-01
 MLI,2026-10-10-mli-icimali-conseil-des-ministres-2026-10-09,,2026-10-20
+MLI,2026-10-29-iati-xm-dac-6-4-013531-01-0-agbledu-smart-agri-markets-digitally-enabled-agriculture-ghana,,2026-11-01
 MOZ,2017-01-01-gac-moz-vital-stats-mnch-2017-vital-statistics-in-support-of-maternal,,2026-10-19
 MOZ,2018-12-04-lei-12-2018-revisao-codigo-registo-civil,,2026-10-19
 MOZ,2021-01-01-gac-moz-vital-stats-mnch-2021-vital-statistics-in-support-of-maternal,,2026-10-19
@@ -327,6 +339,7 @@ MOZ,2026-10-13-moz-ine-enfrenta-defice-de-45-milhoes-de-dolares-para-financiar-o
 MRT,2023-12-01-itu-digital-development-dashboard-mauritania-infrastructure-access,,2026-10-19
 MRT,2024-01-01-afd-reg-002-gender-statistics-support-senegal-mauritania-and,,2026-10-20
 MRT,2025-06-23-mrt-la-population-totale-de-la-mauritanie-a-atteint-environ-5-millions-d-h,,2026-10-26
+MRT,2025-10-15-mrt-cybersecurite-en-mauritanie-entre-strategies-sur-papier-et-urgences-op,,2026-11-01
 MRT,2026-01-01-xwa-harmonized-improved-population-statistics-west-and-central-africa-hisw,,2026-10-26
 MRT,2026-07-29-lequotidien-indice-national-autonomisation-jeunes,,2026-10-19
 MRT,2026-09-03-mauritania-imf-public-finance-statistics-standards,,2026-10-19
@@ -334,6 +347,7 @@ MUS,2024-10-01-mus-statsmauritius-annual-report-2023-2024,,2026-10-19
 MUS,2026-04-15-mus-statsmauritius-annual-survey-schools-methodology,,2026-10-20
 MUS,2026-08-21-lexpress-mu-systeme-information-integre-peches-cotieres,,2026-10-19
 MUS,2026-08-28-mus-statsmauritius-pop-vital-jan-jun-2026,,2026-10-19
+MUS,2026-10-27-mus-dossier-m-dical-num-rique-e-health-plus-de-150-000-patients-d-j-enregi,,2026-11-01
 MWI,2024-08-12-mwi-health-information-systems-in-malawi,,2026-10-26
 MWI,2024-11-06-mwi-egpaf-value-of-a-birth-certificate,,2026-10-19
 MWI,2025-01-01-mwi-building-legal-identity-from-birth-good-practices-and-digital-innovati,,2026-10-26
@@ -350,7 +364,9 @@ MWI,2026-01-13-ict-sector-2025-implementation-woes-times,,2026-10-19
 MWI,2026-01-22-mwi-introducing-the-malawi-voice-data-commons,,2026-10-23
 MWI,2026-03-30-mobile-money-k38tn-2025-nps-report-times,,2026-10-19
 MWI,2026-08-04-malawi24-cosoma-cd-burning-data-royalty-payouts,,2026-10-19
+MWI,2026-10-01-iati-xm-dac-47066-da0113-strengthening-migration-data-governance-malawi,,2026-11-01
 MWI,2026-10-14-mwi-building-stronger-foundations-for-malawi-s-2028-census,,2026-10-26
+MWI,2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet,,2026-11-01
 NAM,2024-01-01-education-management-information-system-emis,,2026-10-19
 NAM,2024-04-01-namibia-vital-statistics-report-births-marriages-deaths-2018-2021,,2026-10-19
 NAM,2025-03-18-nam-sadc-regional-workshop-on-the-use-of-administrative-data-sources-for-m,,2026-10-20
@@ -410,6 +426,8 @@ RWA,2026-10-15-rwa-nisr-data-catalog-home,,2026-10-19
 RWA,2026-10-16-rwa-how-to-apply-for-single-digital-id-adult-self-pre-enrollment,,2026-10-23
 RWA,2026-10-21-xaf-opening-remarks-by-mr-claver-gatete-at-the-tenth-session-of-statcom-an,,2026-10-23
 RWA,2026-10-23-rwa-rwandans-report-lower-satisfaction-with-public-services-new-scorecard,,2026-10-26
+RWA,2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet,,2026-11-01
+RWA,2026-10-29-rwa-rwanda-secures-17-million-world-bank-loan-to-expand-digital-identity-a,,2026-11-01
 SDN,2011-09-01-sudan-emis-final-evaluation-unicef,,2026-10-19
 SDN,2012-09-01-sudan-nsds-2012-2016,,2026-10-19
 SDN,2022-01-01-sudan-health-information-system-assessment-2020,,2026-10-19
@@ -465,7 +483,9 @@ SOM,2026-01-01-som-id4africa-somali-digital-identity-playbook,,2026-10-19
 SOM,2026-05-11-world-bank-somalia-economic-update-edition-11,,2026-10-19
 SOM,2026-06-07-somalia-interior-minister-crvs-update,,2026-10-19
 SOM,2026-09-08-som-dawan-digital-system-national-transformation-plan-tracking,,2026-10-19
+SOM,2026-10-07-iati-gb-gov-1-400199-411-cross-regulatory-digital-governance-south-africa,,2026-11-01
 SOM,2026-10-14-som-opinion-ai-public-administration,,2026-10-19
+SOM,2026-10-29-iati-xm-dac-6-4-013531-01-0-agbledu-smart-agri-markets-digitally-enabled-agriculture-ghana,,2026-11-01
 SSD,2023-01-01-mogei-national-education-census-report-2023,,2026-10-19
 SSD,2024-01-01-ssd-health-statistics,,2026-10-20
 SSD,2024-05-11-ssd-eyeradio-census-impossible-before-polls,,2026-10-19
