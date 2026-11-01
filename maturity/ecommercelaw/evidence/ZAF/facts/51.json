@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-zaf-dha-identity-regulatory-framework-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Department of Home Affairs lists the Electronic Communications and Transactions Act 25 of 2002, which facilitates and regulates electronic communications and transactions and applies to all persons using them.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "Electronic Communications and Transactions Act 25 of 2002",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

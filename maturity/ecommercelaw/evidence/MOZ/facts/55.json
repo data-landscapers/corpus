@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The deck lists Law No. 3/2017 of 9 January, the Electronic Transactions Law, among Mozambique's laws.",
+   "as_of": "2017-01-09",
+   "date_precision": "day",
+   "system": "Electronic Transactions Law (Law 3/2017)",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The deck lists Decree No. 59/2019 of 3 July, the Regulation of the Digital Certification System, beside the Electronic Transactions Law.",
+   "as_of": "2019-07-03",
+   "date_precision": "day",
+   "system": "Decree 59/2019 Digital Certification System regulation",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Transactions Law (Law 3/2017)",
+   "country_label": "Mozambique",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
