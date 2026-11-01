@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-17-civ-institut-national-de-la-statistique-une-enquete-demontre-une-forte-ame",
+ "facts": [],
+ "systems": [
+  {
+   "system": "INS household and enterprise ICT survey (Datafid)",
+   "country_label": "households owning a mobile phone 89% (2023)",
+   "class": "other",
+   "platform": "",
+   "owner": "INS",
+   "tiers": ""
+  }
+ ],
+ "note": "The 89% is a share of households owning a phone, not of people aged 10 and over."
+}

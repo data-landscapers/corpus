@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-20-nam-n-120m-to-bridge-digital-divide",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "survey:52",
+   "fact": "The 2023 census report is cited as showing about 52% of the population above age three own a mobile phone.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "2023 Population and Housing Census",
+   "class": "ownership"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

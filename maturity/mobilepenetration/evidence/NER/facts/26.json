@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-14-ner-le-niger-intensifie-ses-efforts-pour-generaliser-l-acces-aux-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ARCEP mobile penetration rate",
+   "country_label": "59.73% at end-March 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "ARCEP",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a regulator's mobile penetration rate, a subscription measure."
+}

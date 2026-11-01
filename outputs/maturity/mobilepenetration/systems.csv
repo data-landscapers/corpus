@@ -1,5 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BWA,FinScope Consumer Survey Botswana 2024 mobile phone ownership,"94% (adults, 2024)",other,,FinMark Trust (as cited by TechCabal),,2026-09-16-techcabal-botswana-mukuru-companion-card-financial-inclusion
+CIV,INS household and enterprise ICT survey (Datafid),households owning a mobile phone 89% (2023),other,,INS,,2024-05-17-civ-institut-national-de-la-statistique-une-enquete-demontre-une-forte-ame
 COD,Mobile-cellular subscriptions per 100 inhabitants,"50 per 100 inhabitants, 2022 (ITU)",other,,ITU,,2023-12-01-itu-drc-digital-development-dashboard
 COD,Active mobile-broadband subscriptions per 100 inhabitants,"26 per 100 inhabitants, 2022 (ITU)",other,,ITU,,2023-12-01-itu-drc-digital-development-dashboard
 COD,Population covered by a mobile-cellular network,"75%, 2022 (ITU)",other,,ITU,,2023-12-01-itu-drc-digital-development-dashboard
@@ -25,11 +26,15 @@ LSO,Smartphone ownership,"individuals owning a smartphone, 2023 figures by urban
 MLI,EMOP 2025 (INSTAT) household phone ownership,"88.1% of households own a mobile phone, 2025 (66.7% in 2011)",other,,INSTAT,,2026-06-25-instat-mali-rapport-annuel-emop-2025
 MLI,ITU mobile-cellular subscriptions,"114 mobile-cellular subscriptions per 100 inhabitants, 2022",other,,ITU,,2023-12-01-itu-digital-development-dashboard-mali
 MLI,ITU mobile network coverage,"100% population covered by mobile-cellular network, 70% 3G, 53% 4G, 2022",other,,ITU,,2023-12-01-itu-digital-development-dashboard-mali
+MOZ,Mobile telephony penetration (ITU),78.2% in 2023,other,,ITU,,2025-10-21-moz-mozambique-expands-rural-telecom-network-to-bridge-digital-divide
 MRT,Mobile-cellular subscriptions per 100 inhabitants,"113 per 100 inhabitants (2022), ITU Digital Development Dashboard",other,,ITU,,2023-12-01-itu-digital-development-dashboard-mauritania-infrastructure-access
 NAM,"Global Findex Database 2025 (Namibia, 2024 fieldwork)","Adult (15+) mobile phone ownership series, no figure given in this catalogue page; survey of adults aged 15 or older, 2024",other,,World Bank Development Research Group (fieldwork by Gallup),,2026-01-05-namibia-global-findex-2025-connectivity-financial-inclusion
+NAM,Budget estimates mobile subscribers,71.35 subscribers per 100 people (2023),other,,Ministry of Finance,,2026-03-17-nam-cybercrime-bill-heads-to-parliament
+NER,ARCEP mobile penetration rate,59.73% at end-March 2025,other,,ARCEP,,2025-10-14-ner-le-niger-intensifie-ses-efforts-pour-generaliser-l-acces-aux-services
 NGA,GSMA Mobile Gender Gap Report 2024: phone ownership by sex,93% of men and 88% of women have phones (2024 report; survey year not stated),other,,GSMA,,2024-05-17-two-in-three-nigerian-women-missing-mobile-internet
 NGA,GSMA Mobile Gender Gap Report 2024: smartphone ownership by sex,32% of women and 51% of men own smartphones (2024 report; survey year not stated),other,,GSMA,,2024-05-17-two-in-three-nigerian-women-missing-mobile-internet
 NGA,Mobile internet subscriptions,"163.89 million mobile internet subscriptions, March 2024",other,,,,2024-05-17-two-in-three-nigerian-women-missing-mobile-internet
+NGA,Adult mobile phone penetration,"84% of adults (World Bank Global Findex, per EBANX)",other,,,,2026-10-26-ebanx-integrates-opay-direct-debit-for-global-subscription-p
 RWA,Mobile-cellular subscriptions per 100 inhabitants,"80 per 100 inhabitants (2022), ITU",other,,ITU,,2024-01-01-digital-development-dashboard-rwanda
 RWA,Population covered by a mobile-cellular network,"99% (2022), ITU",other,,ITU,,2024-01-01-digital-development-dashboard-rwanda
 SLE,"Adults owning a mobile phone of any type, UNCDF National Digital and Financial Literacy Baseline Survey (adult population only; 48.7%)","48.7% of adults, survey published 2025-10-08 (survey year not stated)",other,,UNCDF,,2025-10-08-sierra-leone-uncdf-national-digital-financial-literacy-baseline-survey
@@ -38,3 +43,4 @@ SSD,mobile phone penetration 22 percent (2.3 million people),"22 percent, 2.3 mi
 STP,mobile phone penetration,71%,other,,,,2026-01-01-stp-digitising-a-nation-s-public-service-delivery
 TCD,Mobile telephony penetration rate (ARCEP Observatoire du marche des telecommunications 2020),"taux de penetration de la telephonie mobile 53.5% in 2020; sector customers 8.7 million in 2020 (+13.3% on 2019); derived from subscriber counts, not a survey of people owning a phone",other,,ARCEP Tchad,,2021-12-06-arcep-rend-public-observatoire-marche-telecommunications-tchad
 UGA,FinScope 2023 mobile phone ownership,72% overall mobile phone ownership (2023),other,,,,2024-08-05-uga-navigating-the-pitfalls-3-consumer-challenges-in-uganda-s-financial-co
+ZWE,mobile penetration reported to Parliament,"97.5% (2024, Portfolio Committee on ICT; a penetration rate, not a share of people owning a phone)",other,,,,2025-01-01-zwe-zimbabwe-s-data-protection-regime

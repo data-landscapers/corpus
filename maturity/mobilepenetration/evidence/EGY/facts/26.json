@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-egy-digital-development-dashboard-egypt",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:97",
+   "fact": "The ITU Digital Development Dashboard gives 97% of individuals in Egypt as owning a mobile phone in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU Digital Development Dashboard: Egypt",
+   "class": "ownership"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

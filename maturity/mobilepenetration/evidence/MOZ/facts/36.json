@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-21-moz-mozambique-expands-rural-telecom-network-to-bridge-digital-divide",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mobile telephony penetration (ITU)",
+   "country_label": "78.2% in 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "ITU",
+   "tiers": ""
+  }
+ ],
+ "note": "The 78.2% is mobile telephony penetration, a subscription measure, not the share of people owning a phone."
+}
