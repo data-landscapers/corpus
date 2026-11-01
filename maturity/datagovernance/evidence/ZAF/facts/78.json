@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-zaf-dha-identity-regulatory-framework-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Department of Home Affairs lists a Draft National Data and Cloud Policy aimed at moving towards a data intensive and data driven South Africa.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "Draft National Data and Cloud Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

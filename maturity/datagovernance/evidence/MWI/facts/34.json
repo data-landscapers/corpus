@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-01-iati-xm-dac-47066-da0113-strengthening-migration-data-governance-malawi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Migration data governance framework",
+   "country_label": "Migration data governance framework (planned, IOM project)",
+   "class": "other",
+   "platform": "",
+   "owner": "National Statistical Office / IOM",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a migration-specific data governance framework is planned under a project; no national data policy is stated."
+}
