@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-28-cmr-decret-modifiant-et-completant-certaines-dispositions-du-decret-n2016",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Decree 2025/058 of 28 February 2025 gives the head of the national identity-title production centre (CNPTI, attached to the national police) the administration of the system, network, databases, applications and security of the identity-title production system.",
+   "as_of": "2025-02-28",
+   "date_precision": "day",
+   "system": "CNPTI identity-title production system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

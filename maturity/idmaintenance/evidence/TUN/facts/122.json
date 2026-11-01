@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-tun-tunisie-le-centre-national-de-l-informatique-celebre-50-ans-au-cur-de",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The CNI, a national operator, is in charge of the national unique identifier register and the citizen's digital identity, per its own communique.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "registre national de l'identifiant unique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "registre national de l'identifiant unique",
+   "country_label": "Tunisia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Centre national de l'informatique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

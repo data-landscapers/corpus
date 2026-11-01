@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-26-som-maxay-dadka-soomaaliyeed-uga-dhigan-tahay-inay-helaan-kaar-aqoonsi-kad",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIRA's director general says NIRA holds the national identity system and the people's data itself, with the World Bank funding the card and Pakistan supporting the system (BBC Somali).",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "NIRA national ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
