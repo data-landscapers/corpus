@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "financing",
-   "stage": "5",
-   "budget": "spent",
-   "commitment": "acted",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-011;UGA-002;UGA-003;UGA-010",
-   "gaps": "All four questions are answered.",
-   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "financing",
+      "stage": "5",
+      "budget": "spent",
+      "commitment": "acted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-016;UGA-002;UGA-003;UGA-010",
+      "gaps": "All four questions are answered.",
+      "note": "Stage 5: the digital ministry's vote rose for 2026/27, the access fund is fed by a 2% operator levy and paying, and the Auditor General's report on that fund gives what it spent in FY 2024/25. The estimates' own actual column is not taken: it was published before the year ended.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

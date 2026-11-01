@@ -1,6 +1,6 @@
 # Sustainable domestic financing of digital transformation: state money for digital programmes
 
-*As at 2026-09-30.*
+*As at 2026-11-01.*
 
 ## The norm
 
@@ -77,7 +77,7 @@ The digital and postal access budget rises for 2026/27 and the universal service
 
 In 2026/27 the ICT ministry's budget rises to 144.7 billion shillings and a levy-funded universal access fund pays out; nothing further is unknown.
 
-- Budget tables: 669,937,000,000 UGX is published as actually spent on digital lines for 2024/25. Dated by the document that gives the figure ([source, 2024-07-26](https://budget.finance.go.ug/sites/default/files/National%20Budget%20docs/Approved%20Budget%20Estimates%20for%20Central%20Governments%2C%20Vol.%201%20FY%202024-25.pdf)).
+- Budget tables: 68,070,000,000 UGX is published as actually spent on digital lines for FY 2024/25, in a document published after that year ended. Dated by the document that gives the figure ([source, 2025-12-22](https://www.oag.go.ug/storage/reports/ICT_FIIT_AGCY_2024_25_1775882812.pdf)).
 - The Uganda Communications Commission re-advertised on 2026-09-29, through UCUSAF, which draws on levies paid by telecom operators, a call for one implementing partner to run Phase III of the National e-Booster Programme planned for FY2026/27; the document does not name the law that sets up the levy ([source, 2026-09-29](https://pmldaily.com/news/2026/09/ucc-seeks-partner-to-accelerate-local-ict-innovations-under-third-e-booster-phase.html)).
 - ATC Uganda paid UGX 20.9 billion to the Uganda Communications Commission as its statutory 2% of gross annual revenue under the Uganda Communications Act, 2013, to finance UCUSAF; the UCC Executive Director said half goes to the Consolidated Fund and half is retained by UCC for UCUSAF; no event date is given, so the document's published date is used ([source, 2026-08-05](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/)).
 - The Ministry of ICT and National Guidance vote total (GoU, excluding arrears) is UGX 144.696 billion for FY2026/27 against an approved UGX 105.963 billion for FY2025/26, which is higher; both figures are the ministry's own and external financing is zero in both years ([source, 2026](https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/Ministry%20of%20ICT%20and%20National%20Guidance_26.pdf)).
@@ -149,7 +149,7 @@ Ethiopia's digital budget lines rose 48.2% in 2026/27 over 2025/26; no fund, lev
 
 ### Gambia: 3 Established
 
-The Gambia's digital lines rose 5 per cent in the 2026 budget, and 75 million dalasi is published as spent for 2025; any fund unknown.
+The Gambia's digital lines rose 5 per cent in the 2026 budget; no source found gives what was spent or any fund paying.
 
 - Budget tables: the 20 digital line(s) held in both years total 537,355,897 GMD for 2026 against 511,618,456 for 2025, +5.0 per cent; 24 lines are held for 2026. Dated by the budget document ([source, 2026-01-05](https://mofea.gov.gm/wp-content/uploads/2026/01/Final-Approved-2026-Budget-5.1.26-V2.pdf)).
 - Budget tables: the budget for 2026 gives 661,855,897 GMD to 24 digital line(s). Dated by the budget document ([source, 2026-01-05](https://mofea.gov.gm/wp-content/uploads/2026/01/Final-Approved-2026-Budget-5.1.26-V2.pdf)).
@@ -198,14 +198,14 @@ Niger's 2026 budget raised its comparable digital lines by 60.7 per cent; no sou
 
 ### Rwanda: 3 Established
 
-The 2026/27 budget gives digital lines 4.1 per cent more; spending is published for 2024/25 only, and no fund acting now is known.
+The 2026/27 budget gives digital lines 4.1 per cent more; no fund acting now is known.
 
 - Budget tables: the 34 digital line(s) held in both years total 90,624,439,159 RWF for 2026/27 against 87,083,989,612 for 2025/26, +4.1 per cent; 38 lines are held for 2026/27. Dated by the budget document ([source, 2026-06-30](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf)).
 - Budget tables: the budget for 2026/27 gives 92,074,979,130 RWF to 38 digital line(s). Dated by the budget document ([source, 2026-06-30](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf)).
 
 ### Senegal: 3 Established
 
-Senegal's digital sector budget rose from 16.1 to 31.1 billion CFA francs in 2025; 2025 spending is published; no source reports the universal fund's payments.
+Senegal's digital sector budget rose from 16.1 to 31.1 billion CFA francs in 2025; no source reports the universal fund's payments.
 
 - The digital sector's budget rose 93.2% from CFA 16.1bn in 2024 to CFA 31.1bn in 2025 ([source, 2024-12-17](https://www.digitalbusiness.africa/senegal-le-ministere-charge-du-numerique-a-un-budget-de-584-milliards-fcfa-en-2025-contre-427-milliards-fcfa-en-2024/)).
 - Senegal's 2026 Digital Ministry budget was set at CFA 81.06bn, of which CFA 58.2bn (about 60%) goes to investment in digital and telecom projects; the document gives no date for the event, so its published date 2026-01 is used ([source, 2026-01](https://www.ecofinagency.com/news-digital/0912-51246-senegal-allocates-60-of-2026-digital-ministry-budget-to-investment)).
@@ -226,7 +226,7 @@ Somalia's 2026 budget gives the digital lines held in both years 5.7 per cent mo
 
 ### Zambia: 3 Established
 
-The digital lines in Zambia's 2026 budget total more than in 2025, with 843.4 million kwacha spent in 2025; no fund or levy is known.
+The digital lines in Zambia's 2026 budget total more than in 2025; no fund or levy is known.
 
 - Budget tables: the 44 digital line(s) held in both years total 1,792,946,905 ZMW for 2026 against 1,594,453,467 for 2025, +12.4 per cent; 45 lines are held for 2026. Dated by the budget document ([source, 2025-09-26](https://www.mofnp.gov.zm/?wpdmpro=2026-national-budget)).
 - Minister Mutati announced that government approved K255 million to upgrade digital infrastructure and Quality of Service, particularly in rural areas; the report does not say whether this is an appropriation, and gives no budget year (2026 inferred from the in-year announcement) ([source, 2026-05-15](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/)).
@@ -343,7 +343,7 @@ Madagascar's digital budget lines fell 2.0 percent in 2026, while a telecoms fun
 
 ### Morocco: 2 Nascent
 
-Morocco's digital budget lines fell 8.1 percent in 2026 and 1.63 billion dirhams was spent in 2024; no source says whether any fund pays now.
+Morocco's digital budget lines fell 8.1 percent in 2026; no source says whether any fund pays now.
 
 - Budget tables: the budget for 2026 gives 2,263,927,000 MAD to 4 digital line(s). Dated by the budget document ([source, 2025-12-16](https://www.finances.gov.ma/Publication/db/2025/BO_7465-bis_Ar.pdf)).
 - Budget tables: the 4 digital line(s) held in both years total 2,263,927,000 MAD for 2026 against 2,463,927,000 for 2025, -8.1 per cent; 4 lines are held for 2026. Dated by the budget document ([source, 2025-12-16](https://www.finances.gov.ma/Publication/db/2025/BO_7465-bis_Ar.pdf)).

@@ -1,16 +1,17 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "financing",
-   "stage": "5",
-   "budget": "spent",
-   "commitment": "acted",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-004;ZAF-003;ZAF-007",
-   "gaps": "All four questions are answered.",
-   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "financing",
+      "stage": "5",
+      "budget": "spent",
+      "commitment": "acted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-004;ZAF-003;ZAF-007",
+      "gaps": "All four questions are answered.",
+      "note": "Counted from the four questions by study-ladder-domesticfinancing.py.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

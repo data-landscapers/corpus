@@ -14,7 +14,16 @@ questions are answered for most countries with no document opened:
 - `budget` = `rose` or `fell`: the lines held in both of the last two budget years, added
   up and compared, in the country's own currency. Flat is `fell`: question 2 asks for
   higher. A country with no line in both years gets neither;
-- `budget` = `spent`: the latest budget year with an amount actually spent or audited.
+- `budget` = `spent`: the latest budget year with an amount actually spent or audited, **read
+  only from a document dated after that year ended** (an outturn, audit or execution report, or
+  a later year's estimates giving it as a past year). An estimates volume or finance law prints
+  an "actual" column for an earlier year, and the tables file it under the year being budgeted,
+  so a figure from a document published before the year closed is not an outturn and is passed
+  over *(housekeeping 47, 2026-11-01)*. The year ends the day before `fy_start_month` in
+  `lookups/budget-watch.csv` comes round after the first year in the label; a label naming two
+  years, or a start month other than January, carries it into the next calendar year. Its
+  `system` is `State budget outturn, {fy}`, so it is not taken for a pre-year row a correction
+  removed.
 
 A transfer line is left out of every sum: it is counted again where it lands. A budget year
 is ordered by the first four-digit number in its label, and a label with none is passed
@@ -45,7 +54,27 @@ import vault_lib  # noqa: E402
 STUDY = "domesticfinancing"
 SUB, CLASS = "financing", "financing"
 BUDGETS = os.path.join(study_lib.CORPUS, "outputs", "budgets")
+WATCH = os.path.join(study_lib.CORPUS, "lookups", "budget-watch.csv")
 YEAR = re.compile(r"\d{4}")
+TWO_YEARS = re.compile(r"\d{4}\s*[/-]\s*\d{2,4}")
+
+
+def fy_months() -> dict[str, int]:
+    """`{ISO3: month the fiscal year starts}`, January where the lookup has none."""
+    out: dict[str, int] = {}
+    for r in study_lib.read_csv(WATCH):
+        m = (r.get("fy_start_month") or "").strip()
+        if m.isdigit() and r["iso3"] not in out:
+            out[r["iso3"]] = int(m)
+    return out
+
+
+def year_closed(fy: str, start_month: int) -> str:
+    """The first day after budget year `fy` ends, `YYYY-MM-DD`."""
+    y = int(YEAR.search(fy).group())
+    if start_month > 1 or TWO_YEARS.search(fy):
+        return f"{y + 1:04d}-{max(start_month, 1):02d}-01"
+    return f"{y + 1:04d}-01-01"
 
 
 def num(s: str) -> float | None:
@@ -60,7 +89,7 @@ def key(r: dict) -> tuple:
             r["programme_line"])
 
 
-def facts(rows: list[dict], held: set[str]) -> dict[str, list[dict]]:
+def facts(rows: list[dict], held: set[str], start_month: int = 1) -> dict[str, list[dict]]:
     """`{slug: facts}` for one country's table."""
     given: dict[str, dict] = collections.defaultdict(dict)       # fy -> line -> amount
     spent: dict[str, float] = collections.defaultdict(float)
@@ -75,7 +104,7 @@ def facts(rows: list[dict], held: set[str]) -> dict[str, list[dict]]:
             given[r["fy"]][key(r)] = given[r["fy"]].get(key(r), 0) + amount
             source[("given", r["fy"])][r["source_slug"]] += amount
         out = num(r["audited"]) or num(r["actual"])
-        if out:
+        if out and r["source_slug"][:10] >= year_closed(r["fy"], start_month):
             spent[r["fy"]] += out
             source[("spent", r["fy"])][r["source_slug"]] += out
     order = lambda fy: (int(YEAR.search(fy).group()), fy)  # noqa: E731
@@ -83,9 +112,10 @@ def facts(rows: list[dict], held: set[str]) -> dict[str, list[dict]]:
 
     def add(kind: str, fy: str, value: str, text: str) -> None:
         slug = source[(kind, fy)].most_common(1)[0][0]
+        system = f"State budget outturn, {fy}" if kind == "spent" else f"State budget, {fy}"
         out[slug].append({"sub_indicator": SUB, "aspect": "budget", "value": value, "fact": text,
                           "as_of": slug[:10], "date_precision": "day",
-                          "system": f"State budget, {fy}", "class": CLASS})
+                          "system": system, "class": CLASS})
 
     years = sorted(given, key=order)
     if years:
@@ -107,7 +137,8 @@ def facts(rows: list[dict], held: set[str]) -> dict[str, list[dict]]:
         fy = sorted(spent, key=order)[-1]
         add("spent", fy, "spent",
             f"Budget tables: {spent[fy]:,.0f} {cur} is published as actually spent on digital "
-            f"lines for {fy}. Dated by the document that gives the figure.")
+            f"lines for {fy}, in a document published after that year ended. Dated by the "
+            f"document that gives the figure.")
     return out
 
 
@@ -122,13 +153,14 @@ def main(argv=None) -> int:
         print(f"study-budget-carry: {e}")
         return 2
     base = os.path.join(study_lib.study_dir(STUDY), "evidence")
+    months = fy_months()
     count: collections.Counter = collections.Counter()
     for iso in sorted(study_lib.countries()):
         table = os.path.join(BUDGETS, f"{iso}-budget.csv")
         if not os.path.exists(table):
             continue
         with open(table, encoding="utf-8-sig", newline="") as fh:
-            by_slug = facts(list(csv.DictReader(fh)), set(index))
+            by_slug = facts(list(csv.DictReader(fh)), set(index), months.get(iso, 1))
         path = os.path.join(base, iso, "readlist.csv")
         mine = study_lib.read_csv(path)
         n_of = {r["slug"]: str(r["n"]) for r in mine if r.get("kind") == "raw"}

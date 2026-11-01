@@ -1,5 +1,6 @@
 ## 1 November 2026
 
+- Domestic financing of digital transformation no longer reads a budget's "actual" column as spending unless the document was published after the year ended. Spending figures are withdrawn from 25 countries' evidence and 20 country texts; no stage moves, and Uganda stays at 5 on the Auditor General's audit of its universal service fund.
 - The maturity map's *Changes in the past six months* box now lists only moves made after an indicator's latest full review, and stays empty for indicators not yet reviewed. Earlier moves came from the first pass and are not changes on the ground.
 
 ## 31 October 2026
