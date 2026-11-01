@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "The report names Tanzania a member of the African Telecommunications Union (ATU), alongside SADC, EAC and RASCOM.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "African Telecommunications Union (ATU)",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "African Telecommunications Union (ATU)",
+   "country_label": "Tanzania",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

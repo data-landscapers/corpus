@@ -1,16 +1,17 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "2",
-   "part": "member",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-001;COM-002",
-   "gaps": "No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "3",
+      "part": "active",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-007",
+      "gaps": "No source found says a thing the country agreed has been put into effect; the regulator agreements are reported in July 2025 without signing dates.",
+      "note": "The regulator ANRTIC reported in July 2025 cooperation agreements signed with the regulators of Madagascar, Senegal, Morocco and Mauritius, so an agreement is on record. Nothing agreed is reported in effect, so not 4.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

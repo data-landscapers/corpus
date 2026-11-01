@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-01-com-best-practice-guidelines-contribution-anrtic-union-of-the-comoros",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "ANRTIC says it regularly and actively takes part in meetings organised by the African Union, Smart Africa and SADC.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Smart Africa",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "ANRTIC says it has signed cooperation agreements with the regulators of Madagascar, Senegal, Morocco and Mauritius for technical collaboration and skills exchange; signing dates not given.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Bilateral regulator cooperation agreements",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

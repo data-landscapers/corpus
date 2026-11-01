@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 13 |
+| 4 Operating | 14 |
 | 3 Established | 24 |
-| 2 Nascent | 11 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -95,6 +95,13 @@ Cote d'Ivoire's free roaming with Ghana, launched in 2023, cut charges for its s
 
 - Smart Africa said its 8th CMICT on 2026-03-24 elected Cote d'Ivoire's minister Djibril Ouattara Vice Chair of the Council for a two-year term ([source, 2026-03-24](https://smartafrica.org/zimbabwe-elected-chair-of-cmict-as-smart-africa-welcomes-new-member-states/)).
 - Ecofin Agency reports on 26 October 2026 that Cote d'Ivoire's regulator says the roaming agreement with Ghana, launched 14 June 2023, cut charges for Ivorian subscribers in Ghana by as much as 90 per cent ([source, 2023-06-14](https://www.ecofinagency.com/news-digital/2610-60121-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regional-agreement)).
+
+### Gabon: 4 Operating
+
+Gabon launched the Smart Africa Digital Academy it had agreed to host in 2026; how far it is used is not known.
+
+- Gabon's Minister of Digital Economy signed an MoU with the Smart Africa secretariat on 2 March 2026 in Barcelona to deploy the Smart Africa Digital Academy in Gabon, a digital-skills agreement ([source, 2026-03-02](https://www.gabonreview.com/le-gabon-sallie-a-smart-africa-pour-former-les-talents-du-numerique/)).
+- Gabonactu reports the Smart Africa Digital Academy programme was officially launched in Gabon on 2 May 2026, with an online platform and the Centre gabonais de l'innovation as national hub ([source, 2026-05-02](https://gabonactu.com/blog/2026/05/04/lancement-du-programme-smart-africa-youth-chapter-gabon-sayc-gabon-en-faveur-de-la-jeunesse/)).
 
 ### Gambia: 4 Operating
 
@@ -195,6 +202,12 @@ Chad hosted a regional internet governance forum in October 2026 and initialled 
 - Chad hosted the closing of the 2026 Central Africa Internet Governance Forum in N'Djamena on 15 October 2026, where the Declaration of N'Djamena was adopted with ARTAC regulators taking part, per the Secretary of State for Telecommunications ([source, 2026-10-15](https://dari-infos.com/numerique-cloture-de-ledition-2026-du-forum-sur-la-gouvernance-de-linternet-afrique-centrale/)).
 - Chad's and Nigeria's communications ministers initialled a final communique outlining the digital cooperation framework between the two countries after talks in N'Djamena on 16 September 2026 ([source, 2026-09-16](https://techafricanews.com/2026/09/17/chad-nigeria-advance-digital-cooperation-fibre-connectivity-ai/)).
 
+### Comoros: 3 Established
+
+The regulator reported cooperation agreements with four African regulators in 2025; nothing agreed is known to be in effect.
+
+- ANRTIC says it has signed cooperation agreements with the regulators of Madagascar, Senegal, Morocco and Mauritius for technical collaboration and skills exchange; signing dates not given ([source, 2025-07](https://www.itu.int/itu-d/meetings/gsr-25/wp-content/uploads/sites/33/2025/07/GSR-25_Contribution_Best-practice-Guidelines_ANRTIC-Comoros2_E.pdf)).
+
 ### Congo: 3 Established
 
 Congo won a seat on the African telecommunications union's council in July 2026; nothing agreed is known to be in effect.
@@ -227,13 +240,6 @@ Ethiopia signed a three-year digital identity memorandum with Mozambique in Apri
 
 - Prime Minister Abiy Ahmed was recently named African Union Champion for AI and Digital Health; the article gives no exact date, so its published date (April 2026) is used ([source, 2026-04](https://www.biometricupdate.com/202604/mozambique-taps-ethiopias-digital-id-expertise-in-dpi-partnership)).
 - Ethiopia's National ID Program and its business arm FaydaVerse signed a three-year digital identity and DPI memorandum of understanding with Mozambique's Digital Transformation and Innovation Agency in Addis Ababa on 27 April 2026. Biometric Update reports it ([source, 2026-04-27](https://www.biometricupdate.com/202604/mozambique-taps-ethiopias-digital-id-expertise-in-dpi-partnership)).
-
-### Gabon: 3 Established
-
-Gabon hosted the Central African regulators' assembly in October 2026; nothing it agreed is known to be in effect.
-
-- Gabon hosted the fourth extraordinary session of the ARTAC regulators' conference in Libreville on 20-21 October 2026, opened by its digital economy minister with ARCEP Gabon's support, per GabonReview ([source, 2026-10-20](https://www.gabonreview.com/afrique-centrale-lartac-veut-harmoniser-les-regles-du-jeu-numerique/)).
-- Agence Gabonaise de Presse reports that the 4th extraordinary session of the Conference of Regulators of ARTAC, the Central African telecoms regulators' assembly, was held in Libreville on 20 October 2026, hosted by ARCEP Gabon, and set up six permanent technical working groups ([source, 2026-10-20](https://agpgabon.ga/gabon-artac-six-groupes-de-travail-permanents-crees-pour-harmoniser-la-reglementation-en-afrique-centrale/)).
 
 ### Guinea: 3 Established
 
@@ -327,13 +333,6 @@ Zimbabwe's minister chairs Smart Africa's council of ICT ministers, as of 2026; 
 The Central African Republic joined Smart Africa by 2026 and signed Africa's 2025 declaration on artificial intelligence; no agreement of its own is known.
 
 - The Central African Republic is listed among the 49 countries that signed the Africa Declaration on Artificial Intelligence at Kigali on 4 April 2025, alongside the African Union and Smart Africa ([source, 2025-04-04](https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf)).
-
-### Comoros: 2 Nascent
-
-Comoros took part in a southern African data governance workshop in 2026; no agreement or role of its own is known.
-
-- ITWeb Africa reports delegates from Comoros, with South Africa, Eswatini and Botswana, took part in the SADC Regional Workshop on Data Governance in Harare on data policy harmonisation; no event date is given, so the article's published date is used ([source, 2026-08-13](https://itweb.africa/article/sadc-puts-spotlight-on-ai-data-governance/JN1gP7OAw5wqjL6m)).
-- AUDA-NEPAD launched its Programme for African Developing Island Economies on 24 July 2026 at the STC-TTIM Ministerial Segment in Abidjan, with the Comoros named among the seven member island states joining a framework that has digital transformation as one of six pillars ([source, 2026-07-24](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies)).
 
 ### Egypt: 2 Nascent
 

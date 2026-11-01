@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-04-gab-lancement-du-programme-smart-africa-youth-chapter-gabon-sayc-gabon-en",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Gabonactu reports the SAYC Gabon programme follows an agreement signed recently in Barcelona between Gabon and Smart Africa, and runs on the Smart Africa Digital Academy with the Centre gabonais de l'innovation as national hub.",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Smart Africa Youth Chapter Gabon (SAYC Gabon)",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "Gabonactu reports the Smart Africa Digital Academy programme was officially launched in Gabon on 2 May 2026, with an online platform and the Centre gabonais de l'innovation as national hub.",
+   "as_of": "2026-05-02",
+   "date_precision": "day",
+   "system": "Smart Africa Youth Chapter Gabon (SAYC Gabon)",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

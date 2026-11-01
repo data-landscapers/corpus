@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "cooperation",
-      "stage": "3",
+      "stage": "4",
       "part": "active",
-      "effect": "",
+      "effect": "in-effect",
       "cap": "",
       "flags": "",
-      "stage_sources": "GAB-006;GAB-007",
-      "gaps": "No source found says a thing the country agreed has been put into effect.",
-      "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
-      "as_at": "2026-10-21"
+      "stage_sources": "GAB-013;GAB-023",
+      "gaps": "No source found gives figures of the Digital Academy's use, a decision of a joint body or a review of what an agreement delivered.",
+      "note": "The Smart Africa Digital Academy, agreed in March 2026, was launched in Gabon on 2 May 2026, so something agreed is in effect. No figures of its use or review are held, so not 5.",
+      "as_at": "2026-11-01"
     }
   ]
 }

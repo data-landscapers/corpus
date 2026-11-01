@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COM,cooperation,part,coverage,member,2026-10-20,COM-001;COM-002;COM-003;COM-004;COM-005,,
+COM,cooperation,part,coverage,active,2025-07,COM-007,COM-003=member;COM-001=member;COM-002=member;COM-004=member;COM-006=member;COM-005=member,
 COM,cooperation,effect,coverage,,,,,nothing found
