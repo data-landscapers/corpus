@@ -9,6 +9,8 @@ AGO,Data Center e Cloud do Governo (Camama),Government Data Center and Cloud,oth
 AGO,Data Center e Cloud do Governo (Camama),Government Data Center and Cloud,other,government data centre and cloud,MINTTICS / INFOSI,,2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo
 AGO,SINGERH,SINGERH,other,,"Ministerio da Administracao Publica, Trabalho e Seguranca Social",,2026-10-15-ago-angola-presidente-anuncia-lancamento-do-sistema-integrado-de-gestao-de
 AGO,SIGT,Integrated Tax Management System,core,,AGT,,2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t
+AGO,SINGERH,SINGERH,core,,MAPTSS,,2026-10-29-ago-sistema-integrado-de-gestao-de-recursos-humanos-da-funcao-publica-sing
+AGO,SIGFE,SIGFE,core,,Ministry of Finance,,2026-10-29-ago-sistema-integrado-de-gestao-de-recursos-humanos-da-funcao-publica-sing
 BDI,SIGFP_BI,Burundi,other,"custom-built open-source modules, Microsoft Server 2019 or later","Ministere des Finances, du Budget et de l'Economie Numerique (via PAFEN)","central and deconcentrated administration; tendered, not in use",2026-03-25-pafen-aao-sigfp-systeme-integre-gestion-finances-publiques
 BDI,SIGFP_BI,Burundi,other,Microsoft Server 2019 or later,"Ministere des Finances, du Budget et de l'Economie Numerique","all ministries and constitutional institutions; contract awarded, not in use",2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre
 BDI,SIGFP,Burundi,other,,"Ministere des Finances, du Budget et de l'Economie Numerique","public administrations; deployment being prepared, not in use",2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp
@@ -58,6 +60,7 @@ COG,e-LMIS (Open mSupply),e-Lmis,other,Open mSupply,Ministere de la Sante et de 
 COG,Systeme integre de gestion de l'information financiere,Systeme integre de gestion de l'information financiere,other,,"Ministere du Budget, des Comptes publics et du Portefeuille public",,2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie
 COG,Systeme integre de la paie des agents de l'Etat,Systeme integre de la paie des agents de l'Etat,other,,"Ministere du Budget, des Comptes publics et du Portefeuille public",,2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie
 COG,SIGHRE,Système intégré de gestion des ressources humaines de l'État,other,,Ministère de la fonction publique,,2024-05-15-cog-voxcongo-sighre-fonction-publique
+COG,SIGFIP,Congo,other,,,,2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu
 COM,Portail Unique du Citoyen (PUC),Portail Unique du Citoyen,other,,ANADEN / Union des Comores,,2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle
 COM,E-Government Modernisation Project (COM 1026) digital platforms,COM,other,,ANADEN,,2026-07-30-isdb-anaden-eoi-digitalisation-supervision-cabinet
 COM,plateforme d'administration numérique (portail gouvernemental),COM,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
@@ -523,6 +526,7 @@ TCD,EBM,EBM,other,,DGI Tchad,,2025-01-14-tcd-rwanda-leads-africa-s-digital-publi
 TCD,SIGFiP,Chad,core,,Ministry of Finance,,2025-01-08-tcd-le-systeme-informatique-de-gestion-des-finances-publiques-officielleme
 TCD,SIGFiP,Chad,core,,Ministry of Finance and Budget,,2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene
 TCD,E-Tax,Chad,other,,,,2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene
+TCD,Mirador,Mirador,other,,Ministry of National Education,,2026-10-30-tcd-lendjampost-education-nationale-le-numerique-pour-mieux-gerer-les-agents
 TGO,SIGFiP,SIGFiP,core,,Ministry of Finance and Budget,,2024-09-18-tgo-mfb-formation-solaf-execution-budget
 TGO,SOLAF,SOLAF,other,web-based,Ministry of Finance and Budget,,2024-09-18-tgo-mfb-formation-solaf-execution-budget
 TGO,SIGFiP,SIGFiP,core,,Ministère des Finances et du Budget,,2026-02-25-tgo-renforcement-de-la-gestion-des-finances-publiques-au-togo

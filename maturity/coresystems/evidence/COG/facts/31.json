@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGFIP",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "ETAX, SIGFIP are named only as systems being interfaced with the NIU; their use is not stated."
+}
