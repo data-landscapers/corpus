@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The NIU project coordinator says the NIU file is the taxpayer file of the tax directorate (DGID), and the NIU database holds over 28,000 legal persons beside natural persons.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "NIU (Numero d'identification unique)",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The ministry says the NIU is compulsory for customs duty declarations and payments, and commercial firms request it through the business creation agency ACPCE.",
+   "as_of": "2022-10-12",
+   "date_precision": "day",
+   "system": "NIU (Numero d'identification unique)",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

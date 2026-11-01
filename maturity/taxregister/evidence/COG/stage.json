@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "unplaced",
-      "register": "",
-      "shared": "",
+      "stage": "4",
+      "register": "inservice",
+      "shared": "shared",
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether taxpayers are registered on computer.",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "COG-003;COG-004",
+      "gaps": "No source found says the NIU is the national ID number or is checked against the national ID.",
+      "note": "The NIU file is the tax directorate's computerised taxpayer file, and in October 2025 firms obtained the NIU through the business creation agency and used it for customs declarations. Nothing ties it to the national ID, so not stage 5.",
+      "as_at": "2026-11-01"
     }
   ]
 }

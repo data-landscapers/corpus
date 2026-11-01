@@ -21,11 +21,11 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 11 |
+| 4 Operating | 12 |
 | 3 Established | 18 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 16 |
+| Unplaced | 15 |
 | No evidence | 7 |
 
 ## Countries
@@ -59,6 +59,13 @@ Taxpayer numbers were issued through the tax platform and required on customs de
 - Chad's customs directorate says a valid NIF is required for every customs declaration, and SYDONIA blocks declarations without one ([source, 2025-09](https://douanes.td/e-douane/e-paiement/)).
 - The Ministry of Finance and Budget's circular of 10 January 2024 requires each bidder's tax identification number (NIF) to be active in E-Tax before public contracts are awarded ([source, 2024-01-10](https://fen.finances.gouv.td/assets/landing/documents/Circulaire002_2024.pdf)).
 - PwC states that on the E.Tax platform taxpayers can apply online or manually for a certificate of tax identification number, which is not conditional on taxes being paid, among developments of 2023 ([source, 2023](https://taxsummaries.pwc.com/chad/corporate/significant-developments)).
+
+### Congo: 4 Operating
+
+One taxpayer number served tax, business registration and customs in 2025; whether it is tied to the national ID is not known.
+
+- The NIU project coordinator says the NIU file is the taxpayer file of the tax directorate (DGID), and the NIU database holds over 28,000 legal persons beside natural persons ([source, 2025-10-23](https://www.finances.gouv.cg/en/node/4803)).
+- The NIU project coordinator says commercial firms request the NIU through the business creation agency ACPCE, and an order of 12 October 2022 makes it compulsory for customs duty declarations and payments ([source, 2025-10-23](https://www.finances.gouv.cg/en/node/4803)).
 
 ### DR Congo: 4 Operating
 
@@ -242,12 +249,6 @@ Nothing found since 2023 names a computerised taxpayer register, so no stage is 
 Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
 
 ### Central African Republic: Unplaced
-
-Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
-
-### Congo: Unplaced
 
 Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
 
