@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-02-gha-govt-to-introduce-new-data-protection-bill-to-regulate-ai-cross-border",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Minister Samuel Nartey George said a new Data Protection Bill to regulate AI systems is being developed, and an Emerging Technologies Bill is being developed to give structured oversight of AI systems.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Emerging Technologies Bill; Data Protection Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
