@@ -1,14 +1,14 @@
 ---
-title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+title: Somalia — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: SOM
-ledger_rows: 31
+ledger_rows: 18
 not_held: 1
-record: bad8839d9e49
+record: 582d11c66b16
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
@@ -19,15 +19,11 @@ record: bad8839d9e49
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digitalisation">Digitalisation</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -36,10 +32,6 @@ record: bad8839d9e49
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#regional-collaboration">Regional collaboration</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -88,46 +80,6 @@ Somalia's House of the People passed the Digital Transactions Bill on 21 October
 
 </div>
 
-### Regional collaboration
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Peer-learning cooperation with Pakistan on digital identity and public infrastructure</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Somalia and Pakistan deepen cooperation on digital identity and public infrastructure](https://www.undp.org/pakistan/press-releases/somalia-and-pakistan-deepen-cooperation-digital-identity-and-public-infrastructure)** — UNDP Pakistan, 16 September 2026
-
-A Somali delegation led by the director-general of the National Identification and Registration Authority, Abdiwali Ali Abdulle, ended a ten-day UNDP-convened mission to Pakistan on 16 September 2026. It studied Pakistan's identity authority, data-exchange layer, social registry and Raast instant payments, and validated a joint action matrix on digital identity and public infrastructure.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Peer Learning to Collaboration: Somalia & Pakistan Deepen Partnership on Digital Infrastructure](https://somalistream.com/peer-learning-to-collaboration-somalia-pakistan-deepen-partnership-on-digital-infrastructure/)** — Somali Stream, 19 September 2026
-
-A 15-member Somali delegation completed a ten-day peer-learning programme on digital identity and public infrastructure in Islamabad and Lahore, designed by UNDP and the two countries' identity authorities. A Somali official said the national identity authority registers only about 2,000 people a day, far below capacity, and that Somalia has no national data exchange layer.
-
-</div>
-
-</div>
-
-### Public debate and participation in policymaking
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">State takedown of social media pages</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Somali government closes 82,000 extremist-linked social media pages in 2026](https://www.hiiraan.com/security4/2026/Sep/206174/somali_government_closes_82000_extremistlinked_social_media_pages_in_2026.aspx)** — Hiiraan Online, 4 September 2026
-
-Somalia's federal government has shut 82,000 social media pages in 2026 that it says armed groups used for extremist propaganda, Ministry of Information director general Abdullahi Hayir Duale said in Mogadishu on 3 September 2026. He named Facebook, TikTok and Telegram among the platforms and said closures will continue. No figures on appeals or oversight are given.
-
-</div>
-
-</div>
-
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -137,20 +89,6 @@ Somalia's federal government has shut 82,000 social media pages in 2026 that it 
 </nav>
 
 ### Connectivity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Berbera international gateway route</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Somaliland fibre route tests Kenya’s regional digital edge](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496)** — Business Daily, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
-
-Berbera is being positioned as an alternative digital gateway for landlocked Ethiopia and South Sudan, offering providers, businesses and governments another route to global data connections beside the established Mombasa gateway.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -224,70 +162,6 @@ Somalia invited expressions of interest on 19 October 2026 for the design, deplo
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Proposed national ID requirement for social media accounts</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[The Ministry of Information Wants a Name Behind Every Somali Account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/)** — The Somali Digest, 9 September 2026
-
-Somalia's deputy prime minister, Jibril Abdirashid Abdi, asked the information ministry on 7 September 2026 to require social media accounts to carry the holder's NIRA identity number in the media regulations being drafted. He spoke at a communication forum in Mogadishu; the report also records dozens of disputed takedowns of Puntland broadcasters' posts between January and August.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Opinion: My Reflections on the Strategic and Communication Forum 2026](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026)** — Dawan Africa, 11 September 2026
-
-An opinion piece on Somalia's Strategic and Communication Forum 2026 in Mogadishu, organised by the information ministry, notes that Deputy Prime Minister Jibril Abdi Rashid Haji Abdi proposed requiring NIRA national identification to open accounts, citing security and misinformation. The author calls for the proposal to be weighed against privacy and free expression, and for a mechanism to follow up the forum's recommendations.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Biometric passport and travel-data exchange</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Somali immigration agency, AU discuss border security and counterterrorism cooperation](https://www.hiiraan.com/security4/2026/Sep/206283/somali_immigration_agency_au_discuss_border_security_and_counterterrorism_cooperation.aspx)** — Hiiraan Online, 16 September 2026
-
-Somalia's Immigration and Citizenship Agency met the African Union Counter Terrorism Centre in Mogadishu on 16 September 2026 to discuss border security and the exchange of security and travel information. The agency briefed the delegation on its digital systems for migration data and document verification, including biometric passports and an e-Visa system. No agreement was reported.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National ID requirement for SIM cards</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[National Identification Week 2026 Concludes in Mogadishu](https://sonna.so/en/article/National-Identification-Week-2026-Concludes-in-Mogadishu)** — SONNA, 19 September 2026
-
-Somalia's National Identification Week closed in Mogadishu, reported on 19 September 2026. The National Identification and Registration Authority said it has registered 1.5 million citizens through 59 registration centres, 17 mobile teams and 31 centres at embassies.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National identity enrolment</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Somalia registers 1.5 million citizens under national ID system](https://www.hiiraan.com/news4/2026/Sep/206316/somalia_registers_15_million_citizens_under_national_id_system.aspx)** — Hiiraan Online, 20 September 2026
-
-Somalia's identity authority has registered more than 1.5 million citizens since 2023, against a target of 15 million citizens and residents by 2029. The interior minister said issuance would extend to embassies abroad, with priority for persons with disabilities and displaced communities.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">National identity requirement for domestic travel</p>
 
 <div class="bulletin-item" markdown="1">
@@ -326,20 +200,6 @@ Somalia's Unified Public Service Delivery Center, known as Halmeel, plans to lau
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Somaliland credit registry</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Somaliland oo Dardargelinaysa Horumarinta iyo Hir-gelinta Nidaamka Xogta Daymaha](https://wargeyskadawan.com/2026/09/12/somaliland-oo-dardargelinaysa-horumarinta-iyo-hir-gelinta-nidaamka-xogta-daymaha/)** — Wargeyska Dawan, 12 September 2026
-
-The Bank of Somaliland met the country's banks and mobile money operators, including ZAAD, eDahab and KaashPlus, in Hargeisa on 11 September 2026 to plan a national credit information system. They discussed each party's role, the data required and how it will be shared, and agreed the central bank will lead the credit information bureau.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">IOM and Netherlands COMPASS migration management programme</p>
 
 <div class="bulletin-item" markdown="1">
@@ -367,20 +227,6 @@ Somalia's justice ministry issued guidelines requiring officiants of Islamic mar
 </div>
 
 ### Sectoral management information systems
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Transformation Plan digital monitoring system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Somalia Launches Digital System to Track National Transformation Plan](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan)** — Dawan Africa, 8 September 2026
-
-Somalia's Ministry of Planning launched a digital system on 8 September 2026 to monitor the National Transformation Plan across all 26 federal ministries, inaugurated by Deputy Prime Minister Salah Ahmed Jama. Planning Minister Mahmoud Abdirahman Beenebeene said every project will be assessed against performance indicators. The plan has so far reviewed 153 donor-funded projects.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -440,28 +286,6 @@ Somalia's House of the People will suspend sessions for two weeks from 31 Octobe
 
 </div>
 
-## Digitalisation
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
-<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
-</nav>
-
-### Digitalisation of sub-national government
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Financial Management Information System rollout to member states</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[PFM Smart Signs Contract with the Federal Government of Somalia to Enhance and Roll Out the SFMIS Across Federal Member States](https://pfmsmartsys.com/en/news/pfm_smart_signs_contract_with_the_federal_government_of_somalia_to_enhance_and_roll_out_the_sfmis_across_federal_member_states)** — PFM Smart Systems, 8 September 2026
-
-PFM Smart signed a contract with Somalia's finance ministry to upgrade the SFMIS financial management system and roll it out to Jubbaland, South West, Galmudug and Hirshabelle, migrating them off the BISAN platform. The upgrade covers budgeting, commitments, procurement, treasury, revenue and reporting, and links SFMIS to the HRMIS and the ITAS tax system.
-
-</div>
-
-</div>
-
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -469,20 +293,6 @@ PFM Smart signed a contract with Somalia's finance ministry to upgrade the SFMIS
 </nav>
 
 ### AI
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SAADAAL climate early-warning system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Somalia Participates in Africa Food Systems Forum in Rwanda](https://shabellemedia.com/somalia-participates-in-africa-food-systems-forum-in-rwanda/)** — Shabelle Media Network, 5 September 2026
-
-A Somali government adviser, Mohamed Mukhtar Ali, told a data panel at the Africa Food Systems Forum 2026 in Kigali that Somalia's National Disaster Management Agency is building systems to give the government full ownership and control of disaster-management data. He said the agency is working with government bodies and international partners. No system, cost or timetable is named.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -538,8 +348,6 @@ The fourth National Cybersecurity Forum opened in Mogadishu. The National Commun
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
 <a href="#access-to-services">Access to services</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-divides">Digital divides</a>
 </nav>
 
 ### Access to services
@@ -553,44 +361,6 @@ The fourth National Cybersecurity Forum opened in Mogadishu. The National Commun
 **[Somalia enrolls citizens returning from Yemen for biometric national IDs](https://www.biometricupdate.com/202610/somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-ids)** — Biometric Update, 22 October 2026
 
 Somalia's National Identification and Registration Authority began enrolling citizens returning from Yemen for biometric national ID cards, working with the National Commission for Refugees and IDPs at its reception camp. NIRA puts national enrolment at about two million against a target of 15 million by 2029, and the Halmeel unified government services platform, covering about 70 services, is due by the end of March 2027.
-
-</div>
-
-</div>
-
-### Digital divides
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Smartphone financing programme</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Hormuud and GetPhone expand smartphone finance into four new Somali states due to high demand](https://sokodirectory.com/2026/09/hormuud-and-getphone-expand-smartphone-finance-into-four-new-somali-states-due-to-high-demand/)** — Soko Directory, 25 September 2026
-
-Hormuud Telecom and GetPhone said their smartphone financing programme in Somalia has sold more than 2,500 phones since its launch in May 2026 and is expanding through 15 more branches in Jubaland, South West, Hirshabelle and Galmudug. In nearly 1,700 contracts signed in August, borrowers with credit scores under 500 had repaid 89.7% of amounts due, against 90.5% for those scoring 650 or above.
-
-</div>
-
-</div>
-
-## Data
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
-<a href="#open-data">Open data</a>
-</nav>
-
-### Open data
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">DataCite national consortium</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[SomaliREN oo Soomaaliya ka hirgelisay dalladdii ugu horreysay ee qaran ee DataCite](https://www.dawan.so/news/somaliren-oo-soomaaliya-ka-hirgelisay-dalladdii-ugu-horreysay-ee-qaran-ee-datacite)** — Dawan TV, 10 September 2026
-
-Somalia's research and education network, SomaliREN, joined DataCite and set up the country's first DataCite national consortium as its lead. Somali universities and research centres can now issue persistent identifiers (DOIs) for more than 30 types of research output, including theses, datasets and journal articles. No cost to members is given.
 
 </div>
 

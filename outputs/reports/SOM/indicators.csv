@@ -30,7 +30,9 @@ gov.protect--data-protection-authority,Movement,"The [Data Protection Authority 
 
 Its independence is qualified by executive appointment and override powers, which is the standing limit on everything it does and is stated in the record rather than inferred.
 
-No registration count, penalty or completed investigation is published.",SOM-gov.protect-dpa,3,SOM-gov.protect-dpa,,,,,,,2026-08-31,0,constituted 2024 and running registration; no sanction on record and independence qualified by executive powers
+No registration count, penalty or completed investigation is published.
+
+2026-06-03 - the authority [opened an online channel for controllers to report notifiable breaches](2026-06-03-som-data-breach-notification). No count of notifications is published.",SOM-gov.protect-dpa|SOM-gov.protect-breach-notification-channel,3,SOM-gov.protect-dpa,,,,,,,2026-08-31,0,constituted 2024 and running registration; no sanction on record and independence qualified by executive powers
 gov.protect--national-data-protection-readiness,Movement,"The regulator [asked a messaging platform to delay usernames](2026-07-22-somalia-whatsapp-usernames), on grounds of impersonation risk to mobile money and loss of phone-number traceability.","The request was made in a regulator statement in July 2026 and restated by the minister later that month ([request](2026-07-22-somalia-whatsapp-usernames)).
 
 The stated grounds are impersonation risk against the mobile-money system and loss of phone-number traceability in the campaign against an armed group. Both are traceability arguments, which is a state asking a platform not to reduce the identifiability of its users.
