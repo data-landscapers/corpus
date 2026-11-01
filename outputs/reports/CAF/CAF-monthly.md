@@ -1,21 +1,19 @@
 ---
-title: Central African Republic — News, Sep – Oct 2026
-compiled: 2026-10-28
-period: 2026-09-01 to 2026-10-28
+title: Central African Republic — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: CAF
-ledger_rows: 23
+ledger_rows: 13
 not_held: 5
-record: 1d3ac7f915cd
+record: c8a850a70854
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -34,8 +32,6 @@ record: 1d3ac7f915cd
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -70,68 +66,10 @@ The Central African Republic's statistics institute ICASEES held a mid-term revi
 
 </div>
 
-### Public debate and participation in policymaking
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Government spokesperson's communication-monitoring cell (CVC-PG)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Centrafrique : le gouvernement se dote d'une Cellule de veille communicationnelle pour contrer les rumeurs](https://www.alwihdainfo.com/centrafrique-le-gouvernement-se-dote-dune-cellule-de-veille-communicationnelle-pour-contrer-les-rumeurs/)** — Alwihda Info, 17 September 2026
-
-The Central African Republic's President Faustin Archange Touadéra signed a decree creating a communication-monitoring cell under the government spokesperson, reported on 17 September 2026. One of its three units handles crisis communication and rumours, monitoring broadcast, print, online and social media at home and abroad. It is funded from the state budget; the decree's date is not given.
-
-</div>
-
-</div>
-
-## Finance
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
-<a href="#mous-and-other-agreements">MoUs and other agreements</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#new-investments">New investments</a>
-</nav>
-
-### MoUs and other agreements
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Memorandum with AMINI on data, AI and security infrastructure</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[RCA : Touadéra mise sur l’IA et les données pour accélérer la transformation numérique](https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/)** — Journal de Bangui, 29 September 2026
-
-The Central African Republic's internet and security agency (CCIS) signed a cooperation memorandum with the data and AI company AMINI after President Faustin-Archange Touadéra met its founder Kate Kallot at the 81st UN General Assembly, Journal de Bangui reported on 29 September 2026. It provides for a National Data Centre, a security operations centre and a national CERT, and in mining for digitised geological data and a digital twin of the subsoil. No cost is given.
-
-</div>
-
-</div>
-
-### New investments
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Central Africa digital integration programme component</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Centrafrique : connectivité, services publics, données – les chantiers du CARDIP de la Banque mondiale](https://www.agenceecofin.com/actualites-numerique/1509-141566-centrafrique-connectivite-services-publics-donnees-les-chantiers-du-cardip-de-la-banque-mondiale)** — Agence Ecofin, 15 September 2026
-
-The country's component of the Central Africa digital integration programme is to launch in April 2027, after a week of work in Bangui by a financier mission covering connectivity, public services, data and cybersecurity.
-
-</div>
-
-</div>
-
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-storage">Data Storage</a>
 </nav>
 
 ### Connectivity
@@ -139,14 +77,6 @@ The country's component of the Central Africa digital integration programme is t
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Routes to submarine cable capacity beyond the current transit country</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Accès aux câbles sous-marins : quelles options pour la Centrafrique au-delà du Cameroun](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/)** — Camerounlink (source: Agence Ecofin), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-A fibre cut in Cameroon disrupted internet service in the Central African Republic last week, prompting an assessment of the landlocked country's options for reaching submarine cable capacity by another route.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -166,50 +96,6 @@ The country's international connectivity rests largely on a 935 km fibre segment
 
 </div>
 
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Internet use rate</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
-
-The Central African Republic's telecoms regulator, ARCEP, reported 1.56 million internet clients at the end of June 2026, up 22.9% in a year, and 3.9 million mobile clients. Starlink, licensed in March 2026, held over 70% of fixed-wireless internet clients and carried 22.89 million of the 36.11 million GB of traffic in the half. Operator revenue exceeded 41.68 billion CFA francs.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Satellite broadband service</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
-
-Summarised under [Connectivity](#connectivity).
-
-</div>
-
-</div>
-
-### Data Storage
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electoral authority data-processing centre</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[RCA : une enquête ouverte après l'incendie du centre de données de l'ANE](https://www.journaldebangui.com/rca-une-enquete-ouverte-apres-lincendie-du-centre-de-donnees-de-lane/)** — Journal de Bangui, 24 September 2026
-
-A fire damaged part of the data-processing centre of the Central African Republic's National Elections Authority in the week before 24 September 2026, and the government opened an investigation. Territorial administration minister Bruno Yapandé said the residual elections scheduled for October 2026 will go ahead. No cause or estimate of damage is given.
-
-</div>
-
-</div>
-
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -221,20 +107,6 @@ A fire damaged part of the data-processing centre of the Central African Republi
 </nav>
 
 ### Digital Payments and Fintech
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Active mobile-money clients</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
-
-Summarised under [Connectivity](#connectivity).
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -316,8 +188,6 @@ The Central African Republic launched a national portal for online government se
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ict-industry">ICT Industry</a>
 </nav>
 
 ### AI
@@ -331,22 +201,6 @@ The Central African Republic launched a national portal for online government se
 **[Country Profile on AI Governance: Central African Republic](https://www.aipolicy.africa/country-profiles/central-african-republic)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 The Central African Republic scored 0.25 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 51 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Governance and Regulation (0.70); four pillars score 0.00.
-
-</div>
-
-</div>
-
-### ICT Industry
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">ICT sector size, revenue, employment or operator financials</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
-
-Summarised under [Connectivity](#connectivity).
 
 </div>
 
@@ -378,37 +232,13 @@ The Central African Republic signed a five-year digital governance partnership w
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#open-data">Open data</a>
 </nav>
 
 ### National statistics
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Independent measurement of internet penetration</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
-
-Summarised under [Connectivity](#connectivity).
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Fourth general population and housing census (RGPH-4)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[CENTRAFRIQUE : RGPH-4, l'ICASEES présente les résultats provisoires globaux et préliminaires au CTIR](https://www.icasees.org/index.php/actualites/423-centrafrique-rgph-4-licasees-presente-les-resultats-provisoires-globaux-et-preliminaires-au-ctir)** — ICASEES, 23 September 2026
-
-The Central African Republic's statistics institute, ICASEES, put the provisional global and preliminary results of the fourth general population and housing census (RGPH-4) before the intersectoral census technical committee in Bangui on 23 September 2026. It is the country's first count since 2003; the operation mapped 7,591 enumeration areas and mobilised more than eleven thousand people, and seven of them died during it.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -465,22 +295,6 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[ICASEES : Lancement de la deuxième vague de collecte de l'EHCVM2 en République centrafricaine](https://www.icasees.org/index.php/actualites/430-icasees-lancement-de-la-deuxieme-vague-de-collecte-de-lehcvm2-en-republique-centrafricaine)** — ICASEES, 17 October 2026
 
 ICASEES launched the second collection wave of the Central African Republic's second harmonised household living-conditions survey (EHCVM2) at a press briefing in Bangui on 17 October 2026. The wave extends the survey to the Fertit region (Haute-Kotto, Vakaga and Bamingui-Bangoran), which the July-to-September first wave had left out for security reasons, and steps up household sensitisation; the survey runs under the World Bank-backed HISWACA-SOP2 project.
-
-</div>
-
-</div>
-
-### Open data
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National open government data portal or catalogue</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Atelier SDMX-ODP 2.0 : La délégation centrafricaine affirme sa participation active à la dynamique statistique de la CEMAC à Libreville](https://www.icasees.org/index.php/actualites/421-atelier-sdmx-odp-2-0-la-delegation-centrafricaine-affirme-sa-participation-active-a-la-dynamique-statistique-de-la-cemac-a-libreville)** — ICASEES (Institut centrafricain des statistiques et des études économiques et sociales), 20 September 2026
-
-A Central African Republic delegation from the statistics institute ICASEES and the CEMAC Commission took part in a workshop in Libreville, 14–18 September 2026, run by the African Development Bank, CEMAC and UNFPA on the SDMX data standard and Open Data Platform 2.0. ICASEES presented its national plan for moving from ODP 1.0 to 2.0 and demonstrated a locally installed ODP 2.0 system.
 
 </div>
 
