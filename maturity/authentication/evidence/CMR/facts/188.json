@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-28-cmr-decret-modifiant-et-completant-certaines-dispositions-du-decret-n2016",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Decree 2025/058 of 28 February 2025 makes the Security Auditor of the national identity-title production centre (CNPTI, under the national police) responsible for managing the digital certificates issued by the Public Key Infrastructure.",
+   "as_of": "2025-02-28",
+   "date_precision": "day",
+   "system": "CNPTI PKI",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNPTI PKI",
+   "country_label": "Cameroon",
+   "class": "authentication",
+   "platform": "Public Key Infrastructure",
+   "owner": "CNPTI / DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

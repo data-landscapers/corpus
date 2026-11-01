@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The NIU project coordinator says the development team is building a platform to verify NIU numbers online, to tell real from false numbers.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "NIU online verification platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIU (Numero d'identification unique)",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere des finances, du budget et du portefeuille public",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

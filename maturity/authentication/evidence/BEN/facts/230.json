@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-ben-e-gouvernance-le-benin-et-la-mauritanie-a-l-ecole-estonienne-et-vice-v",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "A Benin official lists an electronic certificate among the foundations of the national platform, beside identity, data exchange, single portal and payment.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "certificat electronique",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

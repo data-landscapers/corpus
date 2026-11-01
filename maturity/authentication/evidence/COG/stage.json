@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "no evidence",
-      "service": "",
+      "stage": "2",
+      "service": "underway",
       "reach": "",
       "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names a digital authentication service, or says there is none.",
-      "note": "Rebuild: no evidence row has been found on authentication.",
-      "as_at": "2026-10-22"
+      "stage_sources": "COG-001",
+      "gaps": "No source found says the online NIU check is in service, or that any authentication service is in use.",
+      "note": "The NIU project team was building a platform to verify NIU numbers online in October 2025, a service under way. Nothing shows it in use, so not stage 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

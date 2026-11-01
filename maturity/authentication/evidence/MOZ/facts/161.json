@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The deck lists Decree No. 59/2019 regulating the Mozambique Digital Certification System, with a trust structure of public and private certification entities, and states no service in use.",
+   "as_of": "2019-07-03",
+   "date_precision": "day",
+   "system": "Mozambique Digital Certification System",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mozambique Digital Certification System",
+   "country_label": "Mozambique",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

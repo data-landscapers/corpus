@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-06-tun-tunisie-le-centre-national-de-l-informatique-celebre-50-ans-au-cur-de",
+ "facts": [],
+ "systems": [
+  {
+   "system": "identite numerique du citoyen",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "CNI",
+   "tiers": ""
+  }
+ ],
+ "note": "The CNI is in charge of citizen digital identity, but the document states no authentication service in use."
+}

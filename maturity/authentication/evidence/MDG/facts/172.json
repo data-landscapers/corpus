@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development",
+ "facts": [],
+ "systems": [
+  {
+   "system": "digital identity card",
+   "country_label": "Madagascar digital identity",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Development",
+   "tiers": ""
+  }
+ ],
+ "note": "Only enrolment for an ID card is described; no authentication service."
+}

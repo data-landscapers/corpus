@@ -23,10 +23,10 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 | 5 Leading | 14 |
 | 4 Operating | 14 |
 | 3 Established | 9 |
-| 2 Nascent | 8 |
+| 2 Nascent | 9 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 7 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -313,6 +313,12 @@ An authentication or e-signature service was under way in 2026; none in service 
 
 - ANATS and Airtel Tchad signed a partnership on 8 May 2026 under which ANATS will verify Airtel's customer data and interconnect the two systems to identify mobile subscribers, with the enrolment campaign due to start in the following days (Tchadinfos report) ([source, 2026-05-08](https://tchadinfos.com/2026/05/09/securisation-des-donnees-lanats-et-airtel-tchad-signent-un-partenariat-strategique/)).
 
+### Congo: 2 Nascent
+
+A platform to check ID numbers online was being built in 2025; whether it is in use is not known.
+
+- The NIU project coordinator says the development team is building a platform to verify NIU numbers online, to tell real from false numbers ([source, 2025-10-23](https://www.finances.gouv.cg/en/node/4803)).
+
 ### DR Congo: 2 Nascent
 
 An authentication or e-signature service was under way in 2026; none in service is on record.
@@ -366,12 +372,6 @@ Nothing found since 2023 names a digital authentication service, so no stage is 
 Not established: Nothing found since October 2023 names a digital authentication service.
 
 ### Central African Republic: No evidence
-
-Nothing found names a digital authentication service or says there is none, so no stage is set.
-
-Not established: Nothing found names a digital authentication service, or says there is none.
-
-### Congo: No evidence
 
 Nothing found names a digital authentication service or says there is none, so no stage is set.
 

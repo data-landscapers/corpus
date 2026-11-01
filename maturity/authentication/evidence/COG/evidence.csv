@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COG-001,COG,authentication,service,underway,"The NIU project coordinator says the development team is building a platform to verify NIU numbers online, to tell real from false numbers.",2025-10-23,day,NIU online verification platform,authentication,2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu,https://www.finances.gouv.cg/en/node/4803

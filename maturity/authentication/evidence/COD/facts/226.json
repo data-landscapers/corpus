@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-13-cod-allocution-du-president-du-college-de-l-arptc-a-l-occasion-de-la-confe",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "ARPTC's president says a ministerial order of 17 August 2024 provisionally entrusted the regulator with electronic certification and that it is called to act as the national certification issuing authority; no operating service is described.",
+   "as_of": "2024-08-17",
+   "date_precision": "day",
+   "system": "Autorite Nationale d'emission de Certification Electronique (ARPTC)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National electronic certification authority (ARPTC)",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ARPTC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
