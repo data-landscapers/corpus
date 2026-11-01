@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The Ministry says Tanzania operates six Internet Exchange Points.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Internet Exchange Points",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Internet Exchange Points",
+   "country_label": "Tanzania",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

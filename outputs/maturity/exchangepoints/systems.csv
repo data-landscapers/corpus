@@ -27,6 +27,7 @@ CIV,CIVIX Grand-Bassam PoP (Raxio),third PoP of Civix,exchange,,ARTCI / Raxio,,2
 CIV,Raxio CIV1,Raxio CIV1,other,,Raxio Group,,2026-08-25-raxio-civ1-data-centre-cote-divoire
 CIV,MainOne Abidjan data centre,MainOne data centre in Abidjan,other,,MainOne,,2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks
 CIV,MainOne cable Cote d'Ivoire branch,MainOne cable branch,other,,MainOne,,2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks
+CIV,CIVIX,Cote d'Ivoire,exchange,,,,2025-05-21-civ-la-cote-d-ivoire-prepare-le-lancement-de-son-datacenter-national-souve
 CMR,CAMIX Douala,Cameroon Internet Exchange Point - CAMIX Douala,exchange,,CAMIX,,2026-08-01-isoc-pulse-camix-douala-tracker
 CMR,CAMIX,Cameroon Internet Exchange Point (CAMIX),exchange,,CAMIX,,2026-04-07-camix-troisieme-pop-st-digital
 CMR,CAMIX,CAMIX,exchange,,CAMIX,,2026-03-16-camix-site-officiel
@@ -189,6 +190,7 @@ TZA,MIXP,MIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
 TZA,ZIXP,ZIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
 TZA,TIX,Tanzania Internet eXchange,exchange,,TISPA,,2025-09-24-stellarix-joins-tispa
 TZA,Raxio Tanzania data centre (planned),,other,,Raxio Group,,2026-07-13-raxio-380-million-capital-tanzania-expansion
+TZA,Internet Exchange Points,Tanzania,exchange,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 UGA,NIPX (National IP Peering Exchange),National IP Peering Exchange,other,,NITA-U with Ministry of ICT; described as neutrally owned,,2026-04-14-nipx-launch
 UGA,NIPX (National IP Peering Exchange),National IP Peering Exchange,other,,NITA-U,,2025-10-17-nipx-establishment-peering-policy
 UGA,UIXP,Uganda Internet eXchange Point,exchange,route servers,UIXP (own executive director),,2025-01-13-uixp-2024-status-report
