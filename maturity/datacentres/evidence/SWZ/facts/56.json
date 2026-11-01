@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-28-swz-government-has-not-signed-google-deal",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Eswatini Observer reports cybersecurity experts as saying that using Google Workspace would sideline the country's own Tier 4 National Data Centre.",
+   "as_of": "2025-07-28",
+   "date_precision": "day",
+   "system": "National Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre (Tier 4)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "government",
+   "tiers": "Tier 4"
+  }
+ ],
+ "note": ""
+}

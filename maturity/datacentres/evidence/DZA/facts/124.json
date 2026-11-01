@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-17-dza-algerie-le-president-ordonne-la-connexion-des-services-publics-au-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centre national des services numeriques",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": "Tier III Design (first data centre)"
+  }
+ ],
+ "note": "The two state data centres are said to host administrations' data; renting to outside organisations is not stated."
+}

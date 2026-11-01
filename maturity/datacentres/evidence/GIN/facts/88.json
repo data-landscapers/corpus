@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-05-gin-lancement-en-grande-pompe-du-programme-de-connectivite-de-plus-de-2000",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national data centre TI3 at Koloma",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "state",
+   "tiers": "Tier III (planned)"
+  }
+ ],
+ "note": "The Koloma national data centre is stated as under construction, not in service."
+}

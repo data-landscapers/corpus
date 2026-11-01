@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-03-civ-hebergement-des-donnees-publiques-a-raxio-la-cote-d-ivoire-a-t-elle-re",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Digital Mag reports that on 26 June 2025 the Ministry of Digital Transition signed an agreement with RAXIO Data Centres to host public services' data in its CIV1 data centre at VITIB, Grand-Bassam.",
+   "as_of": "2025-06-26",
+   "date_precision": "day",
+   "system": "RAXIO CIV1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAXIO CIV1 data centre",
+   "country_label": "Cote d'Ivoire",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "RAXIO Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

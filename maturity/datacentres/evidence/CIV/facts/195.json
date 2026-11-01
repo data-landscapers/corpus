@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-21-civ-la-cote-d-ivoire-prepare-le-lancement-de-son-datacenter-national-souve",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Digital Transition Minister Ibrahim Kalil Konate said on 20 May 2025 that Cote d'Ivoire has several Tier III data centres, mainly owned by private operators.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "Tier III data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tier III data centres",
+   "country_label": "Cote d'Ivoire",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "private operators (mainly)",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "national sovereign data centre",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-29-ner-visite-technique-du-chantier-du-datacenter-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Datacenter National",
+   "country_label": "Datacenter National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Niger",
+   "tiers": ""
+  }
+ ],
+ "note": "The data centre is under construction."
+}

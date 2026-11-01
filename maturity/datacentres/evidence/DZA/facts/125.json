@@ -1,0 +1,52 @@
+{
+ "slug": "2024-04-22-dza-un-data-center-pour-heberger-et-centraliser-les-donnees-nationales",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Algerie Telecom inaugurated its own data centre in Constantine wilaya in February 2023, with a cloud platform to process and store businesses' data, according to the operator as reported by La Nouvelle Republique.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "Algerie Telecom data centre, Constantine",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Private internet provider Icosnet deployed its second data centre, in Oran, in 2021 to meet market demand, after obtaining a cloud operating authorisation.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Icosnet data centre, Oran",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algerie Telecom data centre, Constantine",
+   "country_label": "Constantine",
+   "class": "datacentre",
+   "platform": "cloud platform",
+   "owner": "Algerie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Icosnet data centre, Oran",
+   "country_label": "Oran",
+   "class": "datacentre",
+   "platform": "cloud",
+   "owner": "Icosnet",
+   "tiers": ""
+  },
+  {
+   "system": "Centre national algerien des prestations numeriques (Data Center)",
+   "country_label": "National digital services data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

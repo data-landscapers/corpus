@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-21-sen-donnees-publiques-jusqu-a-20-des-donnees-senegalaises-encore-hebergees",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center national de Diamniadio",
+   "country_label": "Data Center national de Diamniadio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": "The Diamniadio national data centre is named; nothing says it rents to outside customers or gives its tier."
+}

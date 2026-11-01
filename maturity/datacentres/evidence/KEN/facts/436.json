@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-12-ken-cs-kabogo-outlines-plans-to-accelerate-digital-transformation-and-cons",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Ministry said it has embarked on enhanced marketing of services offered by the Konza Technopolis Development Authority, including Data Centre cloud services.",
+   "as_of": "2025-09-12",
+   "date_precision": "day",
+   "system": "KoTDA Data Centre cloud services",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KoTDA Data Centre cloud services",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Konza Technopolis Development Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

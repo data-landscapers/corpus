@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-04-cog-congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data centre of Brazzaville",
+   "country_label": "Brazzaville national data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "The Tier III centre is not yet in service; due to open in November per the African Development Bank."
+}
