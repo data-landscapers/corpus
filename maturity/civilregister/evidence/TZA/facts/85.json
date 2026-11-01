@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The report says electronic civil registration services were implemented under e-government, without saying where or for which events.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "electronic civil registration services",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic civil registration services",
+   "country_label": "Tanzania",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

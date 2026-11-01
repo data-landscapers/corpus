@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-rwa-rwanda-secures-17-million-world-bank-loan-to-expand-digital-identity-a",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The article says efforts to digitise civil registration and vital statistics in Rwanda had reached 89%, with no statement of births registered digitally nationally.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "civil registration and vital statistics digitisation",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
