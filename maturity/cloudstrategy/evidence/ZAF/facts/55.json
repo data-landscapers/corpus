@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-zaf-dha-identity-regulatory-framework-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Department of Home Affairs lists a Draft National Data and Cloud Policy that seeks an enabling environment for data and cloud services, covering cloud computing infrastructure.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "Draft National Data and Cloud Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
