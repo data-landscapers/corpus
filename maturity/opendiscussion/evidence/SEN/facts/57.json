@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-25-sen-senegal-s-digital-skills-initiatives-should-have-equity-in-mind",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "ECDPM says Senegal's government shut down mobile internet twice while trying to control the uproar over the postponed presidential election.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "mobile internet shutdown",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
