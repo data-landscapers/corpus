@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-30-gcis-warns-of-information-breach",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "South Africa's Information Regulator told ITWeb it received 788 data breach notifications from organisations from 1 January to 31 March 2026, and GCIS reported its breach to it.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Information Regulator",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "ITWeb describes the Information Regulator as the data privacy law enforcer, receiving breach notifications under the Protection of Personal Information Act.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Regulator",
+   "country_label": "South Africa",
+   "class": "system",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

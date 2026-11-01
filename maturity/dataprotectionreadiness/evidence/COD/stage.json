@@ -1,18 +1,19 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "3",
-   "law": "in-force",
-   "treaty": "ratified",
-   "authority": "none",
-   "practice": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001;COD-010",
-   "gaps": "No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting. Activity under the law is on record, with no authority appointed to carry it out.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "4",
+      "law": "in-force",
+      "treaty": "ratified",
+      "authority": "appointed",
+      "practice": "implementing",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-002;COD-005;COD-019",
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

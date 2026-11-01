@@ -1,18 +1,19 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "1",
-   "law": "not-yet",
-   "treaty": "signed",
-   "authority": "none",
-   "practice": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001;DJI-003",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "1",
+      "law": "not-yet",
+      "treaty": "ratified",
+      "authority": "none",
+      "practice": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001;DJI-003;DJI-006",
+      "gaps": "The country has ratified the Malabo Convention and has no data protection law in force.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "signed",
+   "fact": "Minister Delmotte says Madagascar signed the Malabo Convention in July 2023.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "Malabo Convention",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Minister Delmotte says the CMIL exists to oversee personal data protection and can enforce rules and impose penalties.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "CMIL",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

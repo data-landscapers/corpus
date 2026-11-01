@@ -1,0 +1,54 @@
+{
+ "slug": "2025-05-23-mar-morocco-enforces-data-privacy-law-warns-companies-of-penalties",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Hespress reported on 23 May 2025 that the CNDP had begun issuing formal notices with multi-month action plans to businesses, starting with healthcare, to comply with Law 09.08, and that about 3,000 pharmacists had taken steps to align.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "Law 09-08",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The CNDP was acting in May 2025, issuing formal compliance notices to businesses.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "Hespress reported on 23 May 2025 that the CNDP had begun issuing formal notices with multi-month action plans to businesses, starting with healthcare, to comply with Law 09.08, and that about 3,000 pharmacists had taken steps to align.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law 09-08",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

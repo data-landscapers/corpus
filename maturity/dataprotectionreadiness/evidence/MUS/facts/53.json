@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-29-mus-financial-sector-urged-to-strengthen-data-protection-and-cybersecurity",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Data Protection Commissioner, Mrs Drudeisha Madhub, is in post and addressed the 29 October 2026 launch of the financial-sector data protection guide.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Data Protection Commissioner",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The Minister said around 23,000 of an estimated 60,000 entities required to register as data controllers, processors or collectors had completed registration.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Data controller registration",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

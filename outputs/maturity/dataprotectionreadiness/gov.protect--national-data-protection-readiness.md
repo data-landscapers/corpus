@@ -21,8 +21,8 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 14 |
-| 4 Operating | 15 |
-| 3 Established | 9 |
+| 4 Operating | 16 |
+| 3 Established | 8 |
 | 2 Nascent | 4 |
 | 1 Absent | 12 |
 | Unplaced | 0 |
@@ -97,7 +97,7 @@ Law 2013-015 is in force and its authority works; it fined a Bamako clinic and a
 A law is in force and the authority is working; in 2024 it reported rejecting 12 cross-border transfers and closing 39 complaints.
 
 - The Data Protection Office reports for January to December 2024: 179 new complaints (158 on CCTV), 39 complaints closed, 105 personal data breaches notified, 112 cross-border transfers authorised and 12 rejected under section 36, 10 impact assessments received, and four compliance inspections ([source, 2024](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
-- The regulations were made after consultation with the Data Protection Commissioner, and give the Office (Data Protection Office) roles in receiving DPO notifications within 14 days, certifying DPOs and approving training institutions ([source, 2026-06-17](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf)).
+- The Data Protection Office, with a Commissioner who takes registrations, issued the guidance itself in September 2026 ([source, 2026-09](https://dataprotection.govmu.org/Documents/Advice%20to%20%20MCs%20on%20Registration.pdf)).
 
 ### Nigeria: 5 Leading
 
@@ -169,6 +169,14 @@ A data protection law is in force and its authority is working, but no ruling ag
 - ARTCI launched Certinum on 2 July 2026, an online platform for compliance and processing-authorisation requests under the personal data protection regime, replacing about 100 paper files handled each month; the document does not name the law ([source, 2026-07-02](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire)).
 - ARTCI, styling itself the Autorité de Protection des Données Personnelles, issued a communique on 3 August 2026 inviting controllers to use CERTINUM, which it says it launched on 2 July 2026, so the body is acting as the authority ([source, 2026-08-03](https://artci.ci/lartci-invite-les-entreprises-a-privilegier-la-plateforme-certinum/)).
 
+### DR Congo: 4 Operating
+
+The telecoms regulator has acted as data protection authority since 2023 and set declaration rules in 2026; no ruling against an organisation is known.
+
+- The Ministry of Digital Economy launched a national Data Protection Officers (DPO) network in Kinshasa to build professional capacity and promote best practice in personal data protection, with Minister Augustin Kibassa Maliba presiding; no sanction or decision is reported; the report gives no event date, so the published date of 2026-03-17 is used ([source, 2026-03-17](https://techafricanews.com/2026/03/17/drc-launches-data-protection-officers-network-to-strengthen-digital-governance/)).
+- On Thursday 12 March 2026 in Kinshasa the Ministry of Digital Economy launched the national network of data protection officers, to standardise personal data practice and support compliance in the public and private sectors, backed by RUDI International and Droit-Numérique.cd; no sanction or decision is reported ([source, 2026-03-12](https://www.wearetech.africa/fr/fils/actualites/tech/numerique-la-rdc-met-en-place-un-reseau-de-responsables-de-la-protection-des-donnees)).
+- Africa Data Protection reports the ARPTC has exercised the data protection authority's missions provisionally since March 2023, while the authority the Digital Code provides for is not yet installed ([source, 2026-04](https://www.africadataprotection.org/rdc-publication-au-journal-officiel-de-la-decision-fixant-la-procedure-des-formalites-prealables.html)).
+
 ### Egypt: 4 Operating
 
 Egypt's law is in force and its acting-led authority issued guidelines in 2026 and opened licence applications; no ruling against an organisation has been found.
@@ -206,7 +214,7 @@ Law 09-08 is in force and the CNDP authority is working, issuing guidance in 202
 
 - The CNDP communiqué reported 2026-08-29 gives guidance and a public information line under Law 09-08; it states no sanction or decision ([source, 2026-08-29](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere)).
 - The CNDP's 2026-08-28 communiqué is guidance on Law 09-08 for the election campaign, with a 3020 line; the report states no sanction or decision ([source, 2026-08-28](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
-- The CNDP informed political parties and then citizens of the personal-data rules for the 23 September 2026 elections and opened a 3020 public line (MAP, 2026-08-29) ([source, 2026-08-29](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere)).
+- ACTPOL says the CNDP's seven members are appointed by the King ([source, 2026-09-25](https://www.actpol.org/research/egypt-data-protection-deadline-north-africa)).
 
 ### Rwanda: 4 Operating
 
@@ -228,9 +236,9 @@ A data protection law is in force and the authority is working, handling 14 case
 
 Somalia's data protection law is in force and an authority is appointed and taking registrations since 2026; no ruling against an organisation is known.
 
+- The Authority's breach notification page, dated 3 June 2026, says organisations are required to notify it of personal data breaches without undue delay, and offers a way to report one ([source, 2026-06-03](https://dpa.gov.so/services/data-breach-notification/)).
 - The Authority began accepting registration applications and said it will issue certificates only to those meeting the conditions; no count of registrations or decision is given (date is the article's published date) ([source, 2026-06-02](https://techafricanews.com/2026/06/02/somalia-data-protection-authority-enforces-nationwide-data-compliance-rules/)).
-- The review describes mandatory registration of controllers of major importance within six months and annual audit reports under the Authority's guidance, with no decision or count reported (date is the article's published date) ([source, 2024-06-11](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations)).
-- The Data Protection Authority issued an official notice and said it had begun accepting registration applications from controllers and processors, so it was acting by 2 June 2026 ([source, 2026-06-02](https://techafricanews.com/2026/06/02/somalia-data-protection-authority-enforces-nationwide-data-compliance-rules/)).
+- The Data Protection Authority runs a breach notification service, which it published on its site on 3 June 2026 ([source, 2026-06-03](https://dpa.gov.so/services/data-breach-notification/)).
 
 ### Togo: 4 Operating
 
@@ -269,13 +277,6 @@ A data protection law is in force and an authority was appointed in 2025; no rul
 - TechAfrica News states that Decree No. 2025-538 completes the institutional framework established by Law No. 29-2019 of 10 October 2019, and the Commission under it was inaugurated; the article gives no commencement date, so the date is the article's publication date of 22 January 2026 ([source, 2026-01-22](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/)).
 - The African Union's status list of 2 February 2026 records that Congo ratified or acceded to the Malabo Convention on 2020-09-24 and deposited its instrument on 2020-10-23 ([source, 2020-09-24](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 - TechAfrica News reports that the National Personal Data Protection Commission was inaugurated after its members were appointed under Decree No. 2025-538 of 31 December 2025, and that its President, Vice President and Rapporteur were elected at the inaugural meeting ([source, 2026-01](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/)).
-
-### DR Congo: 3 Established
-
-Since 2023 a data protection law is in force; no authority is appointed yet and no ruling against an organisation is known.
-
-- TechAfrica News reports that the government introduced its personal data legal framework in 2023 through Ordinance-Law No. 23/010, the Digital Code, which sets out lawful processing, transparency, data minimisation and system security, and treats it as the framework within which DPOs ensure compliance; the report gives no date for the statement, so the published date of 2026-03-17 is used ([source, 2026-03-17](https://techafricanews.com/2026/03/17/drc-launches-data-protection-officers-network-to-strengthen-digital-governance/)).
-- The African Union's status list of 2 February 2026 records that Democratic Rep. of Congo ratified or acceded to the Malabo Convention on 2025-03-06 and deposited its instrument on 2025-06-27 ([source, 2025-03-06](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
 ### Guinea: 3 Established
 
@@ -369,6 +370,7 @@ A data protection law was passed in 2025 but is not in force; no authority is ap
 
 - TechHive Advisory states that Djibouti's 156-article data-protection regime was enacted in June 2025 as part of the Digital Code; it gives no promulgation or commencement date ([source, 2025-06](https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law)).
 - Jones Day reports that the National Assembly passed Djibouti's first Digital Code, with an embedded data-protection regime, on 30 June 2025, still to be promulgated by the President and published in the Journal Officiel ([source, 2025-06-30](https://www.jonesday.com/en/insights/2025/07/national-assembly-of-the-republic-of-djibouti-approves-digital-code)).
+- Loi n°18/AN/23/9ème L, adopted by the National Assembly on 9 November 2023, ratifies the African Union Convention on cybersecurity and personal data protection ([source, 2023-11-09](https://www.journalofficiel.dj/texte-juridique/loi-n-18-an-23-9eme-ll-portant-ratification-de-la-convention-de-lunion-africaine-sur-la-cybersecurite-et-la-protection-de-donnees-a-caractere-personnel/)).
 
 ### Eritrea: 1 Absent
 
@@ -403,7 +405,7 @@ No law is in force and no authority is appointed; a draft law is on parliament's
 
 - A roundtable in Maputo reported on 2026-09-03 (held the previous week) discussed a forthcoming Personal Data Protection Law; the report gives no stage of the bill and no submission date ([source, 2026-08](https://ikweli.co.mz/2026/09/03/protecao-de-dados-nao-pode-travar-liberdade-de-imprensa-alerta-misa/)).
 - Cibercidadãos spoke at a round table on the proposed Personal Data Protection Law (a bill text exists, since it urged the bill clarify CEDIMO's role); no date for submission or approval is stated; the event date is not given, so the published date 2026-08-28 is used ([source, 2026-08-28](https://integritymagazine.co.mz/arquivos/68263)).
-- The African Union's status list of 2 February 2026 records that Mozambique ratified or acceded to the Malabo Convention on 2019-12-02 and deposited its instrument on 2020-01-21 ([source, 2019-12-02](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
+- The deck says Mozambique has ratified the Malabo Convention ([source, 2025-05](https://www.id4africa.com/2025/files/PS5A-S1-4-Mozambique_FINAL.pdf)).
 
 ### Namibia: 1 Absent
 

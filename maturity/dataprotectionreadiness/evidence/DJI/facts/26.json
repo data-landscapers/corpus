@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-09-dji-loi-18-an-23-ratification-convention-malabo",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "ratified",
+   "fact": "Loi n°18/AN/23/9ème L, adopted by the National Assembly on 9 November 2023, ratifies the African Union Convention on cybersecurity and personal data protection.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malabo Convention",
+   "country_label": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)",
+   "class": "other",
+   "platform": "",
+   "owner": "African Union",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
