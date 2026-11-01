@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Comprehensive Assessment Management Information System",
+   "country_label": "CAMIS",
+   "class": "other",
+   "platform": "Apache Superset dashboards",
+   "owner": "National Examination and School Inspection Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "CAMIS is an assessment system of the examinations authority, not the ministry's EMIS."
+}

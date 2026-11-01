@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Malawi's Ministry of Education says it is moving from fragmented reporting towards a more connected EMIS and has developed a five-pillar EMIS governance framework including a national data warehouse.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Malawi EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi EMIS",
+   "country_label": "Malawi EMIS governance framework",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
