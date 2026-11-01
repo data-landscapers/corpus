@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-lbr-ecowas-parliament-calls-for-expansion-of-sigmat-across-west-africa-cit",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "Gambian MP Maimuna Cessay said SIGMAT implementation, limited to a number of countries, includes Guinea.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "SIGMAT",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGMAT",
+   "country_label": "SIGMAT",
+   "platform": "",
+   "owner": "ECOWAS",
+   "tiers": "",
+   "class": "customs"
+  }
+ ],
+ "note": ""
+}

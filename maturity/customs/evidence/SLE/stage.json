@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-009;SLE-003",
-      "gaps": "No source found since October 2023 says customs exchanges data through a system open to its whole regional community.",
-      "note": "The WTO's 2025 review says Sierra Leone runs the Electronic Single Window it introduced in 2020, and in October 2026 the NRA said ASYCUDA World connects several agencies through its modules, so stage 4. SIGMAT was still in testing in November 2024.",
-      "as_at": "2026-10-27"
+      "gaps": "SIGMAT was in testing in November 2024; in October 2026 one ECOWAS MP listed Sierra Leone among countries implementing it while the delegation urged it to advance implementation. No source shows transit data exchanged in service.",
+      "note": "The WTO says Sierra Leone runs the Electronic Single Window it introduced in 2020, and the NRA says ASYCUDA World connects several agencies, so stage 4. SIGMAT is still being implemented, not shown exchanging data, so not stage 5.",
+      "as_at": "2026-11-01"
     }
   ]
 }
