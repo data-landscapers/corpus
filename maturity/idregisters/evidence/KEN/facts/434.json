@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-02-ken-state-revs-up-maisha-namba-digital-id-awareness-drive",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Kibaara says the Maisha Namba will serve as the registration number for school, NHIF, KRA and other government services.",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "Maisha Namba",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Namba / Maisha Card",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

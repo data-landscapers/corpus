@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-26-som-maxay-dadka-soomaaliyeed-uga-dhigan-tahay-inay-helaan-kaar-aqoonsi-kad",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "NIRA's director general says the electoral commission is responsible for using the ID card to verify people registering to vote (BBC Somali).",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Voter registration",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
