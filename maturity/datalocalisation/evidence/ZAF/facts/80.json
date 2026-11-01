@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-zaf-dha-identity-regulatory-framework-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Department of Home Affairs says the Draft National Data and Cloud Policy proposal relates to data protection, data localization and cross-border transfers.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "Draft National Data and Cloud Policy",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
