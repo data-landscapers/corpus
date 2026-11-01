@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The report names e-procurement among the e-government platforms implemented through the e-Government Authority.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "e-procurement",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-procurement",
+   "country_label": "Tanzania",
+   "class": "procurement",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
