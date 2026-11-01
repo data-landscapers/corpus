@@ -1,29 +1,25 @@
 ---
-title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-31
-period: 2026-09-01 to 2026-10-31
+title: Congo — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: COG
-ledger_rows: 27
+ledger_rows: 12
 not_held: 5
-record: 44b0d839895d
+record: b36d5899895b
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#finance">Finance</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -36,8 +32,6 @@ record: 44b0d839895d
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
@@ -59,28 +53,6 @@ Congo's regulator ARPCE presented the second edition of its Livre Blanc and a di
 </div>
 
 ### Legislation and regulation
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Law No. 8-2001 on freedom of information and communication</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Sicom 2026 : nécessité de faire progresser le cadre juridique des médias au Congo](https://www.adiac-congo.com/content/sicom-2026-necessite-de-faire-progresser-le-cadre-juridique-des-medias-au-congo-171648)** — Les Dépêches de Brazzaville, 17 September 2026
-
-Opening the first Sicom media fair in Brazzaville on 17 September 2026, the Republic of Congo's prime minister, Anatole Collinet Makosso, said the 2001 law on freedom of information and communication must be updated for social networks, disinformation and artificial intelligence. No draft bill or timetable was announced.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Sicom 2026 : un bilan et des engagements pour l'avenir](https://www.adiac-congo.com/content/sicom-2026-un-bilan-et-des-engagements-pour-lavenir-171694)** — Les Dépêches de Brazzaville, 21 September 2026
-
-Congo's first information, communication and media fair closed at Kintélé on 19 September 2026 with 23 resolutions from participants. They call for rewriting the three core media laws to take account of digital broadcasting, online platforms and AI, and cover digital content, advertising and tax. These are recommendations from the profession, not government decisions.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -120,36 +92,6 @@ Opening the National Assembly's budget session on 15 October 2026, its president
 
 </div>
 
-### Regional collaboration
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Brazzaville Declaration on Congo-DRC cross-border mobility</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Congo-RDC : mobilite transfrontaliere, Brazzaville jette les bases d'un nouvel espace commun](https://www.groupecongomedias.com/congo-rdc-mobilite-transfrontaliere-brazzaville-jette-les-bases-dun-nouvel-espace-commun/)** — Groupe Congo Medias, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
-
-A workshop in Brazzaville from 8 September 2026, run by the association Avenir NEPAD Congo with funding from the Konrad Adenauer Foundation, examined movement and trade between the Republic of Congo and the DRC, which share a border of about 2,400km. It closed with a 'Brazzaville Declaration' proposing measures to ease crossings, secure the border and increase trade.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Regional framework for national emergency telecommunications plans</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Télécoms : l'Afrique centrale renforce ses dispositifs face aux catastrophes naturelles](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621)** — Les Dépêches de Brazzaville, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
-
-A regional workshop in Brazzaville on 15 and 16 September worked towards a common framework for national emergency telecommunications plans across central Africa, convened by the international telecommunications union with the regional regulators' assembly and the economic community.
-
-</div>
-
-</div>
-
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -166,77 +108,11 @@ ISO lists ACONOQ, created by a 2015 law, as the Republic of Congo's national sta
 
 </div>
 
-## Finance
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
-<a href="#new-investments">New investments</a>
-</nav>
-
-### New investments
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National data centre financing</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Congo/Infrastructures : le data center opérationnel d'ici fin 2026](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/)** — Agence Congolaise d'Information, 24 September 2026
-
-The Republic of Congo's vice-prime minister, Jean-Jacques Bouya, said on 22 September 2026 that the African Development Bank-funded national data centre at Bacongo, Brazzaville, will be operational by the end of 2026, with works at 82%. He inspected it with digital minister Frédéric Nzé alongside the 12 MW Kintélé solar farm meant to back its power supply.
-
-</div>
-
-</div>
-
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-storage">Data Storage</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
 </nav>
-
-### Connectivity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Universal access and service fund</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Le Congo et l'Afrique centrale s'organisent pour mieux résister aux catastrophes](https://labreveonline.com/le-congo-et-lafrique-centrale-sorganisent-pour-mieux-rsister-aux-catastrophes/)** — La Brève Online, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
-
-Experts from eight Central African countries met in Brazzaville on 15–17 September 2026 to review a model national emergency telecommunications plan for keeping communications running in disasters. Figures presented there credit Congo's universal service fund FASUCE with connecting more than 380,000 people in isolated areas and over 250 localities.
-
-</div>
-
-</div>
-
-### Data Storage
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National data centre</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[Congo/Infrastructures : le data center opérationnel d'ici fin 2026](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/)** — Agence Congolaise d'Information, 24 September 2026
-
-Summarised under [New investments](#new-investments).
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Le Vice-Premier ministre inspecte l'état d'avancement de la ferme solaire et du Data center](https://www.vox.cg/le-vice-premier-ministre-inspecte-letat-davancement-de-la-ferme-solaire-et-du-data-center/)** — Vox Congo, 24 September 2026
-
-The Republic of Congo's deputy prime minister, Jean-Jacques Bouya, and the telecoms and digital economy minister, Frédéric Nzé, inspected the national data centre at Bacongo, Brazzaville, and the Kintélé solar farm on 22 September 2026. Bouya said the data centre, built with the African Development Bank, should be operational by the end of 2026 or early 2027, after energy tests and then two to three months of data-centre tests.
-
-</div>
-
-</div>
 
 ### Energy
 
@@ -265,48 +141,14 @@ Congo's telecoms regulator reported voice, internet and mobile-money outages on 
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
-### Data Exchange
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National digital public infrastructure architecture</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Architecture et Digital Public Infrastructure (DPI)](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi)** — Ministère des Postes, des Télécommunications et de l'Économie numérique (MPTEN), République du Congo, 2 September 2026
-
-The Republic of Congo's digital economy ministry set out a national digital public infrastructure architecture built on MOSIP for digital identity, X-Road for data exchange between ministries, and Mojaloop for a payments switch linking MTN MoMo, Airtel Money, banks and the Treasury. Services would run through an e-Citizen portal hosted at the national data centre. The page describes plans; no adopting decree, cost or timetable is given.
-
-</div>
-
-</div>
-
 ### Digital Payments and Fintech
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Yano payment aggregation platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Fintech : Yano se positionne dans la structuration des transactions financières mobiles](https://www.aci.cg/fintech-yano-se-positionne-dans-la-structuration-des-transactions-financieres-mobiles/)** — Agence Congolaise d'Information, 29 September 2026
-
-Yano, a Congolese fintech launched on 14 September 2026, lets groups, traders and individuals collect contributions and take mobile payments by QR code or link, regardless of mobile operator, its co-founder Elwin Gomo told the Congolese news agency. It holds no cash itself. It is backed by the Bantulab programme through a 655 million CFA franc investment vehicle.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -322,45 +164,7 @@ Signed in Pointe-Noire; pharmacies pay distributor and customers pay pharmacies 
 
 </div>
 
-### Registries
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Integrated civil-status system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[État civil au Congo-Brazzaville : fini le temps des actes « bricolés » !](https://lesechos-congobrazza.com/societe/12368-etat-civil-au-congo-brazzaville-fini-le-temps-des-actes-bricoles)** — Les Echos du Congo-Brazzaville, 6 September 2026
-
-Congo-Brazzaville's territorial administration issued a circular on 1 September 2026 tightening control of civil registration. It bars antedating records, altering identity, parentage or date of birth without a court decision, and issuing several records for one person, and requires agents to check each document against the original register. Agents involved in document fraud face administrative and judicial sanctions.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Digitalisation de l'état civil : l'administration du territoire réceptionne les documents techniques (SIFEC)](https://www.adiac-congo.com/content/digitalisation-de-letat-civil-ladministration-du-territoire-receptionne-les-documents)** — Les Dépêches de Brazzaville (ADIAC), 23 September 2026
-
-The Republic of Congo's information systems agency ACSI handed the interior ministry's territorial administration directorate, on 22 September 2026 in Kintélé, the technical documents for SIFEC, a civil registration software it designed and built. Next steps include an inventory, data centralisation, user training, finalising the civil-status law and deployment. No cost or deployment date is given.
-
-</div>
-
-</div>
-
 ### Sectoral management information systems
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Children First Software for children in care</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Affaires sociales : BEB réaffirme son engagement en faveur de la protection de l’enfance](https://www.adiac-congo.com/content/affaires-sociales-beb-reaffirme-son-engagement-en-faveur-de-la-protection-de-lenfance-171580)** — Les Dépêches de Brazzaville (ADIAC), 11 September 2026
-
-Congo's Minister of Social Affairs, Marie-France Lydie Hélène Pongault, met the US NGO Both Ends Believing in Brazzaville on 10 September 2026 about the Children First Software, a tool to monitor children in care institutions and help return them to their families. The NGO, a partner since 2023, said it would help build the platform, train ministry staff and supply equipment.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -391,20 +195,6 @@ Congo's health ministry began training community health workers in Brazzaville's
 </div>
 
 ### Other GovTech and e-Gov
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National e-procurement platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[La République du Congo s'active à réformer la gestion des marchés publics par la mise en place du système dématérialisé des procédures de passations des marchés publics (e-GP)](https://www.armp.cg/news-detail.php?id=11)** — Autorité de régulation des marchés publics (ARMP), 22 September 2026
-
-Congo's procurement regulator ARMP reports that a tender file for recruiting the firm to build and deploy an electronic procurement (e-GP) system was drafted by a consultant, reworked by a commission in June 2026 and adopted at a workshop in Brazzaville on 21-22 July. The World Bank-supported file now awaits validation by the project steering committee.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -456,48 +246,10 @@ The Republic of the Congo scored 1.75 out of 4 on the Africa AI Governance Index
 
 </div>
 
-## Inclusion
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
-<a href="#access-to-services">Access to services</a>
-</nav>
-
-### Access to services
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Irregularity reporting channel</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[KO FUNDA — Signaler une irrégularité](https://www.controle-etat.gouv.cg/signaler)** — Ministère du Contrôle d'État, de la Qualité du Service public et de la Lutte contre les Antivaleurs — République du Congo, 2 September 2026
-
-The Republic of Congo's Ministry of State Control runs KO FUNDA, an online portal where citizens can report corruption, embezzlement, favouritism, absent officials, poor public service and excessive delays. The ministry says reports are handled confidentially and each is examined before any decision. The page carries no publication date.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Women in digital programmes</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Promotion de la femme : des étudiantes formées aux métiers du numérique](https://www.adiac-congo.com/content/promotion-de-la-femme-des-etudiantes-formees-aux-metiers-du-numerique-171593)** — Les Dépêches de Brazzaville (ADIAC), 12 September 2026
-
-Congo-Brazzaville's Women's Advisory Council signed a partnership on 11 September 2026 with Hoz Fablab, a Brazzaville technology training centre, to train selected women students in digital skills for six months. The scholarship programme centres on designing, building and hosting websites.
-
-</div>
-
-</div>
-
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#use-of-satellite-data">Use of satellite data</a>
 </nav>
 
 ### National statistics
@@ -511,36 +263,6 @@ Congo-Brazzaville's Women's Advisory Council signed a partnership on 11 Septembe
 **[Commerce transfrontalier : l'INS cible l'informel](https://brazzavillois.com/2026/10/06/du-fleuve-au-marche-lins-veut-compter-linformel)** — Brazzavillois, 6 October 2026
 
 Congo's statistics institute held a workshop in Brazzaville on 2 October to set up a permanent statistical system for informal cross-border trade. A mapping of border crossings is under way, a baseline survey is planned for 2027 and quarterly collection is to feed the balance of payments, with World Bank support.
-
-</div>
-
-</div>
-
-### Use of satellite data
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National position on space technologies</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Technologies spatiales : le Congo mise sur l’innovation pour accélérer son développement](https://www.adiac-congo.com/content/technologies-spatiales-le-congo-mise-sur-linnovation-pour-accelerer-son-developpement-171569)** — Les Depeches de Brazzaville, 10 September 2026
-
-Congo-Brazzaville presents space technologies as a strategic lever for development - forest observation, agriculture, telecommunications and scientific training - with a delegation led by the head of state at the international space summit in Paris. No agency, programme or budget is named.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">First Earth-observation satellite, with Kazakhstan</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Technologies spatiales : le Congo se prépare à lancer son premier satellite d’observation](https://www.adiac-congo.com/content/technologies-spatiales-le-congo-se-prepare-lancer-son-premier-satellite-dobservation-171586)** — Les Dépêches de Brazzaville (ADIAC), 12 September 2026
-
-Congo-Brazzaville and Kazakhstan are working to build and launch Congo's first Earth-observation satellite, Kazakh deputy prime minister Zhaslan Madiyev said after meeting President Denis Sassou N'Guesso in Paris, reported on 12 September 2026. The satellite is to monitor forests, farming, mining and flood-prone areas, and the talks also covered AI training for Congolese officials. No cost or launch date is given.
 
 </div>
 
