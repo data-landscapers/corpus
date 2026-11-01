@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-egy-digital-development-dashboard-egypt",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:72",
+   "fact": "The ITU Digital Development Dashboard gives 72% of Egypt's population as individuals using the internet in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU Digital Development Dashboard: Egypt",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

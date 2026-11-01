@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-17-civ-institut-national-de-la-statistique-une-enquete-demontre-une-forte-ame",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:50",
+   "fact": "The INS survey presented on 23 April 2024, carried out at the end of 2023, found that 50% of Ivorians have access to the internet, 65.7% in towns and 29.4% in rural areas.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "INS household and enterprise ICT survey (Datafid)",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

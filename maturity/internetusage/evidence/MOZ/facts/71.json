@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-21-moz-mozambique-expands-rural-telecom-network-to-bridge-digital-divide",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:19.8",
+   "fact": "Ecofin Agency, citing ITU data, gives Mozambique's internet penetration as 19.8% in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ITU internet penetration",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
