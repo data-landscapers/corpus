@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-tza-mobile-money-transaction-limit-review",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Deputy Finance Minister told Parliament on 29 October 2026 that the Electronic Money Regulations of 2015 empower the Bank of Tanzania to set and review transaction limits by customer category and risk.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Electronic Money Regulations 2015",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
