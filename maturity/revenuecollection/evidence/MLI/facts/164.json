@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-mli-recouvrement-digital-des-taxes-et-redevances-communales-la-mairie-de-l",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Bamako's Commune V town hall and Sama Money signed a partnership convention on 29 October 2026 for digital collection of communal taxes and fees by app or USSD code.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Sama Money",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sama Money (app and USSD)",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "mobile app, USSD",
+   "owner": "Sama Money",
+   "tiers": "Commune V, Bamako"
+  }
+ ],
+ "note": ""
+}
