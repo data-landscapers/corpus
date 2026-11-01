@@ -1,12 +1,12 @@
 ---
 title: Mozambique: status report
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 250
+sources_cited: 251
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -214,7 +214,7 @@ The system is run under contract, with donor money behind its expansion. [Muhlba
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-The instant payment rail is live and still small. [METIX launched in March 2026 with interbank person-to-person transfers free for individuals and access over USSD](https://clubofmozambique.com/news/central-bank-launches-mozambique-instant-payment-system-metix-watch/), and, [operated by SIMO, it was carrying more than 11,000 transfers a day by 30 July 2026, roughly triple its March volume](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/). [Participation is mandatory for mobile wallet operators](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/), which makes it a national rail and not a bank-sector product; it was [established as a 24/7 retail instant payments mechanism by Notice No. 1/GBM/2026](https://www.bancomoc.mz/en/media/highlights/notice-no-1-gbm-2026-establishes-the-mozambique-instant-payment-system-and-approves-its-regulation/). The market underneath it holds [15 commercial banks, 12 microbanks, three e-money institutions and more than 25 million mobile wallet accounts open in early 2026](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/).
+The instant payment rail is live and still small. [METIX launched in March 2026 with interbank person-to-person transfers free for individuals and access over USSD](https://clubofmozambique.com/news/central-bank-launches-mozambique-instant-payment-system-metix-watch/). It is operated by SIMO, and [the central bank governor put its volume at about 12,000 transactions a day in October 2026, from about 3,000 at launch](https://www.bancomoc.mz/en/media/highlights/governor-felisberto-navalha-delivers-opening-address-at-51st-banco-de-mocambique-advisory-board-meeting-in-tete/). [Participation is mandatory for mobile wallet operators](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/), which makes it a national rail and not a bank-sector product; it was [established as a 24/7 retail instant payments mechanism by Notice No. 1/GBM/2026](https://www.bancomoc.mz/en/media/highlights/notice-no-1-gbm-2026-establishes-the-mozambique-instant-payment-system-and-approves-its-regulation/). The market underneath it holds [15 commercial banks, 12 microbanks, three e-money institutions and more than 25 million mobile wallet accounts open in early 2026](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/).
 
 Accounts have outrun use. [Electronic money accounts reached 130.9 per 100 adults in the second quarter of 2026, against 33.8 for traditional bank accounts, with 144.7 per 100 men against 118.5 per 100 women](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/). [E-money accounts reached the equivalent of 109.8% of the adult population by the first quarter of 2025, up from 28.6% in 2015](https://clubofmozambique.com/news/mozambique-e-money-accounts-have-grown-to-109-8-of-the-total-adult-population-government/), while [46% of adults held an active mobile money account in 2024](https://www.africanenda.org/uploads/files/siips2025/siips_2025_SIMO-Mozambique_CaseStudy_en.pdf), and [access to banking services is among Mozambique's ten worst-scoring governance indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mz.pdf) (2023).
 
