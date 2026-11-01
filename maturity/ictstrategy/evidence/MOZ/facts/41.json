@@ -1,0 +1,27 @@
+{
+ "slug": "2024-06-27-moz-proteccao-de-dados-e-fundamental-para-o-respeito-a-soberania-e-a-integ",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "INTIC's chair names the Strategic Plan for the Information Society 2019-2028 and its Operational Plan among the instruments in force.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2028",
+   "fact": "The Strategic Plan for the Information Society runs 2019-2028, per INTIC's chair.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+   "class": "sector"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
