@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-08-mwi-ministry-pppc-take-stock-of-digital-malawi-project",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The Department of e-Government's Principal Secretary says a new National Data Centre built in Lilongwe hosts all government systems under one roof.",
+   "as_of": "2025-10-08",
+   "date_precision": "day",
+   "system": "National Data Centre Lilongwe",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre Lilongwe",
+   "country_label": "Malawi",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

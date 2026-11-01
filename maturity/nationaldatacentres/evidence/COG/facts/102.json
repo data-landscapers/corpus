@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-04-cog-congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data centre of Brazzaville",
+   "country_label": "Brazzaville national data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "The centre is a future one, not in service; nothing in service stated."
+}

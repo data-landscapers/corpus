@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-tun-tunisie-le-centre-national-de-l-informatique-celebre-50-ans-au-cur-de",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The CNI, a state body, hosts national and sectoral platforms on its own data centres, including the national vaccination platform and social aid systems during Covid-19, per its own communique.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "CNI data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNI data centres",
+   "country_label": "Tunisia",
+   "class": "datacentre",
+   "platform": "sovereign cloud",
+   "owner": "Centre national de l'informatique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

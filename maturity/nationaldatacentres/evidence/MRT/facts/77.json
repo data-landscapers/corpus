@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-04-mrt-aned-data-localisation-agreement-nouakchott-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nouakchott data centre",
+   "country_label": "Mauritania",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "The document does not state the data centre's ownership, so nothing on national ownership or the state's hosting with a national provider is recorded."
+}

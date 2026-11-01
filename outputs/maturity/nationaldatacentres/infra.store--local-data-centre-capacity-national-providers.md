@@ -20,8 +20,8 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
-| 4 Operating | 3 |
+| 5 Leading | 7 |
+| 4 Operating | 2 |
 | 3 Established | 21 |
 | 2 Nascent | 14 |
 | 1 Absent | 0 |
@@ -78,6 +78,14 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - BCX states its two operating Midrand data centres were developed to tier-4 specifications as rated by the Uptime Institute; this is a design specification stated by the operator, with no certification mentioned ([source, 2010-12-14](https://techcentral.co.za/bcx-puts-its-head-in-the-cloud/183285/)).
 - The DCDT states SITA, the State IT Agency, operates the Centurion data centre (primary of two national facilities) hosting mission-critical systems and sensitive government data; both are National Key Points ([source, 2026-02-24](http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf)).
 
+### Tunisia: 5 Leading
+
+Two nationally owned data centres for hire are Tier III or above by 2025, and the state's CNI hosts national platforms in 2026.
+
+- Orange Tunisie describes its Kalaa Kebira data centre as Tier III (operator statement, no certification named) ([source, 2025-05-06](https://www.datacenterdynamics.com/en/news/orange-launches-data-center-outside-sousse-tunisia/)).
+- DataXion states it is the only Tunisian data centre certified Tier IV by the Uptime Institute (operator claim, undated beyond the page date 2024-05-31) ([source, 2024-05-31](https://dataxion.com/en/our-certifications/)).
+- The CNI, a state body, hosts national and sectoral platforms on its own data centres, including the national vaccination platform and social aid systems during Covid-19, per its own communique ([source, 2026-01](https://www.thd.tn/tunisie-le-centre-national-de-linformatique-celebre-50-ans-au-coeur-de-la-transformation-numerique-de-letat/)).
+
 ### Morocco: 4 Operating
 
 Two nationally owned data centres for hire at Tier III or above by 2025; state hosting with them not known.
@@ -91,13 +99,6 @@ Two nationally owned data centres for hire at Tier III or above by 2021; state h
 
 - ADIE states that the Diamniadio national Datacenter, inaugurated 22 June 2021 and in service, is the state's first Tier 3 data centre (operator's own statement, no certifier named) ([source, 2021-06-22](https://www.adie.sn/actualites/le-datacenter-de-diamniadio-lieu-d%E2%80%99impulsion-de-la-transformation-digitale-du-s%C3%A9n%C3%A9gal)).
 - Sonatel reports its Rufisque (Senegal) Datacenter holds Uptime Institute Tier III Design certification and obtained Tier Certification of Constructed Facility (TCCF) in December 2019, renewed in 2020 until 4 December 2021; the passage does not say whether it sells space to outside customers ([source, 2019-12](https://sonatel.sn/wp-content/uploads/2022/09/Sonatel-Groups-2020-annual-report.pdf)).
-
-### Tunisia: 4 Operating
-
-Two nationally owned data centres for hire at Tier III or above by 2025; state hosting with them not known.
-
-- Orange Tunisie describes its Kalaa Kebira data centre as Tier III (operator statement, no certification named) ([source, 2025-05-06](https://www.datacenterdynamics.com/en/news/orange-launches-data-center-outside-sousse-tunisia/)).
-- DataXion states it is the only Tunisian data centre certified Tier IV by the Uptime Institute (operator claim, undated beyond the page date 2024-05-31) ([source, 2024-05-31](https://dataxion.com/en/our-certifications/)).
 
 ### Algeria: 3 Established
 

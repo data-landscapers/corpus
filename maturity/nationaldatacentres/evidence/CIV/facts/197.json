@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-21-civ-la-cote-d-ivoire-prepare-le-lancement-de-son-datacenter-national-souve",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national sovereign data centre",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": "The national data centre is announced as coming soon, not in service; the Tier III centres named are mainly private with ownership not stated by nationality."
+}

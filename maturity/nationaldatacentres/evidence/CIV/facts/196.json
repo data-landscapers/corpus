@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-03-civ-hebergement-des-donnees-publiques-a-raxio-la-cote-d-ivoire-a-t-elle-re",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data center national (Abidjan-Marcory)",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "State, with Cybastion",
+   "tiers": "Tier III (promoters' claim)"
+  }
+ ],
+ "note": "The national data centre is stated as unbuilt and stalled; RAXIO ownership not stated."
+}

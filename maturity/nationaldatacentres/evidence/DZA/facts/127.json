@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-17-dza-algerie-le-president-ordonne-la-connexion-des-services-publics-au-data",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Agence Ecofin reports the first national Data Center obtained Uptime Institute Tier III Design certification in February 2026, and that the Centre national des services numeriques with data centres in Algiers and Blida was inaugurated days before 12 July 2026; hire to outside organisations is not stated.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Data Center national",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Agence Ecofin presents the Centre national des services numeriques as the country's first sovereign digital infrastructure, run by the state.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Centre national des services numeriques",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre national des services numeriques",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "State",
+   "tiers": "Tier III Design (first data centre)"
+  }
+ ],
+ "note": "The centre is said only to be expected to host administrations' data, so no hosting fact."
+}
