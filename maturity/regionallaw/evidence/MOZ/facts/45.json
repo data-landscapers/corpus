@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "ratified",
+   "fact": "The deck says Mozambique has ratified the Malabo Convention.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Malabo Convention",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malabo Convention",
+   "country_label": "Mozambique",
+   "class": "harmonisation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
