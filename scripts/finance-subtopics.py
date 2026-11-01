@@ -34,9 +34,10 @@ sovereign loans, so it settles a deal's sector only when it is a tax, customs or
 body; and financier names and loan words ("World Bank", "concessional loan", "additional
 financing") are blanked before matching, since every loan title carries them.
 
-**Status: draft for Bill's review.** Nothing reads these assignments yet. When the scheme is
-approved, `budget_source.py --update` and `build-finance-page.py` should derive `subtopic_id`
-and `sector_id`, and this script becomes their check.
+**Status: in use, still changing** *(Bill, 2026-11-01)*. Bill reviewed the first draft and
+expects to revise it for weeks as he works with the data, so the assignments are not stored
+anywhere: `finance.py` calls `tags()` when it builds `/finance/all/`, and a change to a lookup
+shows on the next render. Run this script after any lookup edit to see what moved.
 
 Exit 1 when a lookup is inconsistent: a rule naming an unknown id, a pattern that does not
 compile, an `indicator_overlap` naming no indicator, or a topic with rows and no catch-all.
@@ -175,6 +176,29 @@ def place_deal(x, topic, by_topic, sec_rules):
             return by_sector(sub, hit), hit
     sector = "unattributed" if topic in DEAL_NO_DEFAULT else DEAL_TOPIC_SECTOR.get(topic, "digital")
     return by_sector(sub, sector), sector
+
+
+def tags(budget_rows, deal_rows):
+    """What `finance.py` adds to `/finance/all/`: {(side, deal_id): (sub-topic label, sector
+    label)}, side being `budget` or `nonstate`. Raises on an inconsistent lookup, so a broken
+    rule stops the render instead of publishing blanks."""
+    subs, sectors, by_topic, sec_rules, errors = load()
+    if errors:
+        raise SystemExit("finance-subtopics: " + "; ".join(errors[:5]))
+    topic_key = {r["Level 2"]: r["Key"] for r in read(os.path.join(LOOK, "taxonomy.csv"))}
+    label = lambda sid: subs[sid]["label"] if sid else ""
+    out = {}
+    for x in budget_rows:
+        x = collections.defaultdict(str, x)     # a field a caller's row lacks reads as blank
+        x["primary_topic_id"] = x["primary_topic_id"] or topic_key.get(x["primary_topic"], "")
+        sub, sec = place_line(x, by_topic, sec_rules)
+        out[("budget", x["deal_id"])] = (label(sub), sectors[sec]["label"])
+    for x in deal_rows:
+        x = collections.defaultdict(str, x)
+        t = topic_key.get(x["primary_topic"], "")
+        sub, sec = place_deal(x, t, by_topic, sec_rules)
+        out[("nonstate", x["deal_id"])] = (label(sub), sectors[sec]["label"])
+    return out
 
 
 def summary(label, rows, subs):

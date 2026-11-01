@@ -31,7 +31,7 @@ code in the data and shown as a country name in the table, through the `data-lab
 map built from `outputs/vocab/countries.csv`.
 
 **All finance is the two tables in one** *(Bill, 2026-10-01)*: `/finance/all/`, every
-non-state commitment from 2024 and every budget line in the twelve columns of `ALL_COLUMNS`, joined
+non-state commitment from 2024 and every budget line in the columns of `ALL_COLUMNS`, joined
 here at render from the two files the other pages publish. `documentation/joined-up-finance-spec.csv`
 is Bill's mapping; `lookups/all-finance-metadata.csv` is the dictionary. It follows
 `BUDGETS_DATED`, because half of it is the budget table.
@@ -47,7 +47,7 @@ nothing here reads it. The budgets page reads `budgets/budgets-all-countries.csv
 is Corpus's own source, not a compile of OSINT's, so there is no `outputs/` copy to read.
 """
 from __future__ import annotations
-import csv, html, io, json, sys
+import csv, html, importlib.util, io, json, sys
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -90,16 +90,17 @@ BUDGETS_METADATA_CSV = "budgets-metadata.csv"
 BUDGET_TABLE_CSV = "budgets-all-countries-table.csv"
 
 # All finance: the joined table's columns, in the spec's order, and its dictionary.
-ALL_COLUMNS = ("country", "year", "primary_topic", "type", "financier", "recipient", "title",
-               "description", "value_usd", "deal_id", "scope", "scope_basis")
+# `subtopic` and `sector` are derived at render by `finance-subtopics.py` (its docstring).
+ALL_COLUMNS = ("country", "year", "primary_topic", "subtopic", "sector", "type", "financier",
+               "recipient", "title", "description", "value_usd", "deal_id", "scope", "scope_basis")
 ALL_META = CORPUS / "lookups" / "all-finance-metadata.csv"
 # **Both sides from 2024** *(Bill, 2026-10-01)*: the budget lines start there, and a joined
 # table that set eleven years of commitments beside three of budgets would compare nothing.
 # Earlier non-state commitments stay in the non-state table.
 ALL_FIRST_YEAR = 2024
 ALL_METADATA_CSV = "all-finance-metadata.csv"
-ALL_TABLE_COLS = ("country", "year", "primary_topic", "type", "value_usd", "financier",
-                  "recipient", "title", "description")
+ALL_TABLE_COLS = ("country", "year", "primary_topic", "subtopic", "sector", "type", "value_usd",
+                  "financier", "recipient", "title", "description")
 
 
 def indent(html_block: str, spaces: int = 4) -> str:
@@ -525,7 +526,7 @@ ALL_PAGE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{csv_src}"
       data-cols="{cols}"
-      data-filters="country, year, primary_topic, type, scope"
+      data-filters="country, year, primary_topic, subtopic, sector, type, scope"
       data-numeric="year, value_usd"
       data-thousands="value_usd"
       data-labels="{labels}"
@@ -592,24 +593,31 @@ def all_finance_rows(nonstate: list[dict], budget: list[dict]) -> list[dict]:
     `documentation/joined-up-finance-spec.csv`, plus `scope` and `scope_basis`, which both
     sides carry. `value_usd` is whole dollars on both sides, and already at half on a row
     whose scope is partial or unclear: each source table halves its own."""
+    spec = importlib.util.spec_from_file_location("finance_subtopics",
+                                                  Path(__file__).resolve().parent / "finance-subtopics.py")
+    fs = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(fs)
+    tag = fs.tags(budget, nonstate)
     out = []
     for r in nonstate:
         year = (r.get("start_year") or "").strip()[:4]
         if not year.isdigit() or int(year) < ALL_FIRST_YEAR:
             continue
         m = r.get("commitment_usd_m") or ""
+        sub, sec = tag[("nonstate", r["deal_id"])]
         out.append({
             "country": r["recipient"], "year": year,
-            "primary_topic": r["primary_topic"],
+            "primary_topic": r["primary_topic"], "subtopic": sub, "sector": sec,
             "type": finance_type(r),
             "financier": r["financier"], "recipient": r["recipient_organisation"],
             "title": r["title"], "description": r["description"],
             "value_usd": f"{float(m) * 1e6:.0f}" if m else "",
             "deal_id": r["deal_id"], "scope": r["scope"], "scope_basis": r["scope_basis"]})
     for r in budget:
+        sub, sec = tag[("budget", r["deal_id"])]
         out.append({
             "country": r["country"], "year": r["report_year"],
-            "primary_topic": r["primary_topic"], "type": "budget",
+            "primary_topic": r["primary_topic"], "subtopic": sub, "sector": sec, "type": "budget",
             "financier": r["admin_head"], "recipient": r["spending_entity"],
             "title": budget_title(r), "description": r["purpose"],
             "value_usd": r["budget_usd"], "deal_id": r["deal_id"],

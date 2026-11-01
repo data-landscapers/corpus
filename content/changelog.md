@@ -1,5 +1,6 @@
 ## 1 November 2026
 
+- The all-finance table has two new columns and filters: *Sub-topic*, what the money buys within its topic, and *Sector*, the field it serves, on both budget lines and non-state commitments. Both are new and will change as they are refined.
 - Budget spending on digital ministries and national digital agencies as bodies, $657 million across 307 lines, now counts under *Strategies, plans and policies* instead of *Other GovTech and e-Gov*. Ministries' own data collection moves from *Open data* to *National statistics*, and their records digitisation to *Other GovTech and e-Gov*.
 - Domestic financing of digital transformation no longer reads a budget's "actual" column as spending unless the document was published after the year ended. Spending figures are withdrawn from 25 countries' evidence and 20 country texts; no stage moves, and Uganda stays at 5 on the Auditor General's audit of its universal service fund.
 - The maturity map's *Changes in the past six months* box now lists only moves made after an indicator's latest full review, and stays empty for indicators not yet reviewed. Earlier moves came from the first pass and are not changes on the ground.
