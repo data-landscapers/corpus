@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-10-28
+compiled: 2026-11-01
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 207
+sources_cited: 209
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -153,7 +153,7 @@ Mascom [has turned its Tier III-certified data centre from an internal facility 
 <!-- derived -->
 Botswana's operating data centre estate now runs on three distinct models: the state-owned Digital Delta, the commercial Mascom and Orange facilities, and the gas-anchored Kala.
 
-[In May 2026 Liquid Intelligent Technologies brought its cloud and cybersecurity portfolio into the market](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r). There is [no in-country AWS, Azure or Google region; the nearest availability zones are in South Africa](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html). A statute [requires a copy of personal data transferred abroad to remain in Botswana for the period of processing](https://www.datalaw.africa/wp-content/uploads/2024/12/Extraordinary-Gazette-29-10-2024.pdf). Every regulated communications operator must [file business continuity and disaster recovery plans with the regulator](https://www.bocra.org.bw/sites/default/files/documents/APPROVED%20SECTOR%20GUIDELINES%20ON%20BUSINESS%20CONTINUITY%20AND%20DISASTER%20RECOVERY.pdf).
+[In May 2026 Liquid Intelligent Technologies brought its cloud and cybersecurity portfolio into the market](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r). There is [no in-country AWS, Azure or Google region; the nearest availability zones are in South Africa](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html). [In March 2024 the communications minister told Parliament that a sovereign government cloud to be called GovCloud would be implemented](https://dailynews.gov.bw/news-detail/78421); no later account of it has been found. A statute [requires a copy of personal data transferred abroad to remain in Botswana for the period of processing](https://www.datalaw.africa/wp-content/uploads/2024/12/Extraordinary-Gazette-29-10-2024.pdf). Every regulated communications operator must [file business continuity and disaster recovery plans with the regulator](https://www.bocra.org.bw/sites/default/files/documents/APPROVED%20SECTOR%20GUIDELINES%20ON%20BUSINESS%20CONTINUITY%20AND%20DISASTER%20RECOVERY.pdf).
 
 ### Energy
 <!-- infra.energy -->
@@ -330,7 +330,7 @@ Measured against comparators, the position is mid-table and unspectacular: Botsw
 
 Schooling is strong where it finishes and weak where it starts. [Education Completion scored 96.1 out of 100, third of 54 African states, and Education Quality rose 14.4 points over 2014-2023 to 73.2 (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf); [Education Enrolment, the weakest of the education measures at 50.5 and fifteenth of 54, fell 3.4 points across the same decade, and nothing at all is reported for Human Resources in Education (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf).
 
-Adult skills work outside the school system is attached to commercial rollouts rather than run as a programme: [financial-literacy training is bundled into the Absa and Yellow Light Taxi Association scheme alongside its payment terminals and credit offer (August 2026)](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators).
+[In November 2023 a non-governmental organisation launched the regulator-funded eBotho Digital Literacy Roadshow, four months of workshops at public libraries with librarians trained as trainers](https://itweb.africa/article/botswana-launches-national-digital-skills-roadshow/mQwkoq6YEL4M3r9A). Later adult skills work has come attached to commercial rollouts: [financial-literacy training is bundled into the Absa and Yellow Light Taxi Association scheme alongside its payment terminals and credit offer (August 2026)](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators).
 
 ### Training and skills
 <!-- capacity.training -->
