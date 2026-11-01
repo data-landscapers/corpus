@@ -1,21 +1,19 @@
 ---
-title: Sao Tome and Principe — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+title: Sao Tome and Principe — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: STP
-ledger_rows: 3
+ledger_rows: 2
 not_held: 5
-record: c082ac73074c
+record: 4047eda5713f
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 </nav>
@@ -37,28 +35,6 @@ record: c082ac73074c
 **[ARTAC : Libreville acte une réforme importante et accueille São Tomé-et-Príncipe](https://www.gabonreview.com/artac-libreville-acte-une-reforme-importante-et-accueille-sao-tome-et-principe/)** — GabonReview, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
 A second account of the ARTAC closing session, adding that São Tomé and Príncipe's admission brings membership from seven countries to eight.
-
-</div>
-
-</div>
-
-## ICT Infrastructure
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
-<a href="#connectivity">Connectivity</a>
-</nav>
-
-### Connectivity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Internet Resilience Index score</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Internet Society Pulse: Sao Tome and Principe internet resilience](https://pulse.internetsociety.org/en/resilience/ST)** — Internet Society, 18 September 2026
-
-The Internet Society's resilience index scores São Tomé and Príncipe at 33 out of 100, below the Middle Africa average of 38 and the Africa average of 44, across infrastructure, market readiness, performance and security.
 
 </div>
 
