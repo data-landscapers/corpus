@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 | 5 Leading | 11 |
 | 4 Operating | 0 |
 | 3 Established | 6 |
-| 2 Nascent | 5 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 5 |
-| No evidence | 27 |
+| No evidence | 26 |
 
 ## Countries
 
@@ -136,6 +136,12 @@ A population register was in service in 2026; no source found reports updating f
 
 - MINALOC says the new civil registration system is interoperable with the National Population Registry, which it names among the databases linked ([source, 2026-06-03](https://www.minaloc.gov.rw/news-detail/rwanda-launches-new-integrated-civil-registration-system)).
 
+### Botswana: 2 Nascent
+
+In 2025 the registration law was being amended to introduce a population register; whether the amendment has passed is not known.
+
+- The minister said the National Registration Act was undergoing amendment to introduce a population register for Botswana (Daily News/BOPA) ([source, 2025-03-09](https://dailynews.gov.bw/news-detail/85066)).
+
 ### Burkina Faso: 2 Nascent
 
 A population register was under way in 2024; none in service is on record.
@@ -199,12 +205,6 @@ Nothing found since 2023 names a population register, so no stage is set.
 Not established: Nothing found since October 2023 says whether a population register is under way or in service.
 
 ### Angola: No evidence
-
-Nothing found names a population register or says there is none, so no stage is set.
-
-Not established: Nothing found names a population register, or says there is none.
-
-### Botswana: No evidence
 
 Nothing found names a population register or says there is none, so no stage is set.
 

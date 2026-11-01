@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-02-ken-state-revs-up-maisha-namba-digital-id-awareness-drive",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Kibaara says the Maisha Namba, Maisha Card and Maisha Digital ID will be consolidated into a population register, the Maisha Integrated Database.",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "Maisha Integrated Database",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Namba / Maisha Card",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
