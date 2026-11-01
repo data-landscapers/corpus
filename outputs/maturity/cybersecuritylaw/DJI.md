@@ -8,4 +8,4 @@
 
 ***Also on file***. [Autorité Nationale de Cybersécurité](<https://www.journalofficiel.dj/texte-juridique/loi-n195-an-25-9eme-l-portant-creation-de-lautorite-nationale-de-cybersecurite/>); [DJ-CERT](<https://www.journalofficiel.dj/texte-juridique/loi-n195-an-25-9eme-l-portant-creation-de-lautorite-nationale-de-cybersecurite/>); [National Cybersecurity Strategy](<https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-moves-toward-launch-of-national-cybersecurity-authority>).
 
-***Not found***. No arrest, charge, prosecution, conviction or penalty under the 2014 law or the Digital Code in the last three years is on record.
+***Not found***. Nothing in the last three years shows the 2014 law or the Digital Code in use. No arrest, charge, prosecution, conviction or penalty is on record.
