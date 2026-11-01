@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ministry's WSIS+20 report lists the Tanzania Digital Economy Strategic Framework (2024-2034) as an in-place plan guiding the country's digital transformation.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Tanzania Digital Economy Strategic Framework (2024-2034)",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2034",
+   "fact": "The report gives the Tanzania Digital Economy Strategic Framework a period of 2024-2034.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Tanzania Digital Economy Strategic Framework (2024-2034)",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tanzania Digital Economy Strategic Framework (2024-2034)",
+   "country_label": "Tanzania",
+   "class": "national",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

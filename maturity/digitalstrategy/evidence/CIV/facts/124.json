@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-03-civ-hebergement-des-donnees-publiques-a-raxio-la-cote-d-ivoire-a-t-elle-re",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Digital Mag says the national data centre is a pillar of the National Digital Development Strategy, adopted on 21 December 2021.",
+   "as_of": "2021-12-21",
+   "date_precision": "day",
+   "system": "Stratégie nationale de développement du numérique",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
