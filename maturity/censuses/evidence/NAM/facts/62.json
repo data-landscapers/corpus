@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-20-nam-n-120m-to-bridge-digital-divide",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The article cites the 2023 housing and population census report for household and phone figures, so a census was counted in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "2023 Population and Housing Census",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "The 2023 housing and population census report is cited as stating household internet and phone ownership figures, so results are published.",
+   "as_of": "2025-01-20",
+   "date_precision": "day",
+   "system": "2023 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2023 Population and Housing Census",
+   "country_label": "Census 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

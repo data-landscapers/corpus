@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-17-civ-institut-national-de-la-statistique-une-enquete-demontre-une-forte-ame",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The national statistics institute (INS) said results of its household and enterprise ICT survey, run at the end of 2023 with Expertise France and Afristat under the Datafid project, were presented on 23 April 2024.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "INS household and enterprise ICT survey (Datafid)",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INS household and enterprise ICT survey (Datafid)",
+   "country_label": "ICT survey 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "INS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
