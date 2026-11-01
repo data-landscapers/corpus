@@ -2,7 +2,7 @@
 
 ## Consultation on digital law and policy
 
-**Consultation and what was published of it.** The Ministry of Posts and Telecommunications [put a draft decree on the personal data protection authority out for public consultation](<https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/>) by September 2026, the observatory OBS-CC reports. The draft was one of several texts consulted on under PATNUC, the government's digital acceleration project. The decree is to set up the authority that Cameroon's data protection law provides for. No date for the end of the consultation is given.
+**Consultation and what was published of it.** The Ministry of Posts and Telecommunications [put a draft decree on the personal data protection authority out for public consultation](<https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/>) by September 2026, the observatory OBS-CC reports. The draft was one of several texts consulted on under PATNUC, the government's digital acceleration project. The decree is to set up the authority that Cameroon's data protection law provides for. No date for the end of the consultation is given. [In July 2025 a validation workshop in Yaoundé on the national universal digital service strategy included civil society and operators](<https://patnuc.cm/2025/07/11/numerique-pour-tous-le-cameroun-valide-sa-strategie-nationale-de-service-universel/>).
 
 **Required consultation and standing body.** The nearest fact is the same [consultation on the draft decree](<https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/>), run by the ministry under PATNUC. It is not said to have been held because a rule required it. No standing body with outside members is said to have given a view on it.
 

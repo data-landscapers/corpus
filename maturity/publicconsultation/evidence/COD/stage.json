@@ -1,16 +1,17 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "consultation",
-   "stage": "2",
-   "hearing": "held",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-002;COD-003",
-   "gaps": "No published report of a consultation on a digital law or policy, comments received or written answer to them from the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "consultation",
+      "stage": "2",
+      "hearing": "held",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-002;COD-003",
+      "gaps": "No published report, comments or written answer from a consultation on a digital law or policy; no rule-required consultation or standing body. ACEDH says communities were not consulted on RDC-PASS, which does not unsay the consultations held on other texts.",
+      "note": "Counted from the four questions by study-ladder-publicconsultation.py.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-07-cod-rdc-l-operationnalisation-des-autorites-competentes-recommandee-pour-l",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "none",
+   "fact": "ACEDH says rural communities, indigenous peoples and defenders were not consulted on the RDC-PASS digital identification project and that public information and citizen participation are lacking.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "RDC-PASS",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
