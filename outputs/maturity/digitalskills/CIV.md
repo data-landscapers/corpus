@@ -10,4 +10,4 @@
 
 ***Also on file***. [PND 2026-2030 digital strategy (seven pillars, 40 structuring projects)](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>).
 
-***Not found*** No location has been found for the 51,601 trained under the government's youth programme. No survey share of people with basic digital skills has been found.
+***Not found***. No location has been found for the 51,601 trained under the government's youth programme. No survey share of people with basic digital skills has been found.

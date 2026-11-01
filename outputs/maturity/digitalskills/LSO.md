@@ -10,4 +10,4 @@
 
 ***Also on file***. [Universal Service Fund](<https://lca.org.ls/wp-content/uploads/2026/07/STRATEGIC-PLAN-2026-2029.pdf>).
 
-***Not found*** No survey has been found that shows half or more of adults with basic digital skills.
+***Not found***. No survey has been found that shows half or more of adults with basic digital skills.

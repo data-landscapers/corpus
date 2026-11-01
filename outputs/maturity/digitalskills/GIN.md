@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found*** No location has been found for the 450 trained in R-CUN's earlier editions. No survey share of people with basic digital skills has been found.
+***Not found***. No location has been found for the 450 trained in R-CUN's earlier editions. No survey share of people with basic digital skills has been found.

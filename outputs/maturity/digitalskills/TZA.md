@@ -10,4 +10,4 @@
 
 ***Also on file***. [ICT Competency Standards for Teachers in Tanzania (ICT-CSTT)](<https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/>).
 
-***Not found*** No source places the Zanzibar count in more than one location, and the club figures are members, not people trained. No survey share of people with basic digital skills has been found.
+***Not found***. No source places the Zanzibar count in more than one location, and the club figures are members, not people trained. No survey share of people with basic digital skills has been found.

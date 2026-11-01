@@ -10,4 +10,4 @@
 
 ***Also on file***. [ICBVI](<https://www.undp.org/malawi/news/beyond-access-advancing-digital-agency-people-visual-impairments-malawi>).
 
-***Not found*** No survey has been found that shows half or more of adults with basic digital skills.
+***Not found***. No survey has been found that shows half or more of adults with basic digital skills.

@@ -10,4 +10,4 @@
 
 ***Also on file***. [Rwanda Coding Academy](<http://d-portal.org/q.html?aid=KR-GOV-010-KR-GOV-051-2021010100100>); [Rwanda Coding Academy (RCA)](<https://www.yna.co.kr/view/AKR20261010043700371>).
 
-***Not found*** No survey share of people with basic digital skills has been found.
+***Not found***. No survey share of people with basic digital skills has been found.

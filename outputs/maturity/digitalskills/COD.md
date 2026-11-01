@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found*** No count of young people trained by the national programme has been found; the 500 counted are its trainers. No survey share of people with basic digital skills has been found.
+***Not found***. No count of young people trained by the national programme has been found; the 500 counted are its trainers. No survey share of people with basic digital skills has been found.

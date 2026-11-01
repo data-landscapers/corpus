@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found*** No count has been found for a government programme; the Cidadão Digital figures are reported by EMIS, an interbank company. No survey share of people with basic digital skills has been found.
+***Not found***. No count has been found for a government programme; the Cidadão Digital figures are reported by EMIS, an interbank company. No survey share of people with basic digital skills has been found.

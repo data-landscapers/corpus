@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found*** No count of people trained by a government programme has been found. No survey share of people with basic digital skills has been found.
+***Not found***. No count of people trained by a government programme has been found. No survey share of people with basic digital skills has been found.

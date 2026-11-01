@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found*** The only count found, 1,166 people in online sessions of the 7-77 programme, is not tied to more than one location. No survey share of people with basic digital skills has been found.
+***Not found***. The only count found, 1,166 people in online sessions of the 7-77 programme, is not tied to more than one location. No survey share of people with basic digital skills has been found.

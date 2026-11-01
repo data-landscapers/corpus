@@ -10,4 +10,4 @@
 
 ***Also on file***. [MTN Skills Academy](<https://afrikeye.com/tech/mtn-zambia-foundation-nachiyaba-ict-hub/>).
 
-***Not found*** No survey share of people with basic digital skills has been found.
+***Not found***. No survey share of people with basic digital skills has been found.

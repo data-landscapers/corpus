@@ -10,4 +10,4 @@
 
 ***Also on file***. [GovNet](<https://www.gtai.de/resource/blob/2006980/32b32750cfcf0c9bab9747e7b5c49ebc/PRO202606172006968%20-%20Annex%202.PDF>).
 
-***Not found*** The counts found come from a pilot in Matola, an incubator in Nampula and an association's school project. No survey share of people with basic digital skills has been found.
+***Not found***. The counts found come from a pilot in Matola, an incubator in Nampula and an association's school project. No survey share of people with basic digital skills has been found.

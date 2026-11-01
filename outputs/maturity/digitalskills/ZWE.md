@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found*** No survey has been found that shows half or more of adults with basic digital skills.
+***Not found***. No survey has been found that shows half or more of adults with basic digital skills.
