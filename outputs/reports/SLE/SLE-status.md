@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-10-28
+compiled: 2026-11-01
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 191
+sources_cited: 193
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -189,7 +189,7 @@ Fewer than half a million eID cards had been issued in Sierra Leone as of 2024 a
 
 Registration itself is free and [compulsory for citizens and residents alike](https://ncra.gov.sl/wp-content/uploads/2022/04/The-National-Civil-Registration-Act-2016.pdf) under the National Civil Registration Act 2016, and is [open from birth](https://ncra.gov.sl/biometric-civil-registration-process-to-get-your-national-identification-number-nin/). The card is not: it costs [NLe140 plus a NLe5 application fee](https://ncra.gov.sl/information-about-the-securitised-and-multipurpose-e-identity-cards-in-sierra-leone/) for nationals aged 12 and over, more for ECOWAS and non-national cards.
 
-The number does much of the work. [A Cabinet Directive ratified by Parliament in March 2022](https://dubawa.org/sierra-leone-announces-mandatory-national-id-cards-what-you-need-to-know/) makes it a condition of financial services, education, healthcare, SIM registration, immigration and employment, with enforcement strengthened from January 2025 including identity checks at checkpoints; it has been mandatory for [passports and work and residence permits since June 2022](https://ncra.gov.sl/passports-work-resident-permits-now-tied-to-nin/) and for [driving licences and vehicle registration](https://thecalabashnewspaper.com/38027-2/) since the Road Safety Authority gained platform access in October 2023. The card is [ECOWAS-compliant and serves as a regional travel document, though cross-border authentication is not established](https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf).
+The number does much of the work. [A Cabinet Directive ratified by Parliament in March 2022](https://dubawa.org/sierra-leone-announces-mandatory-national-id-cards-what-you-need-to-know/) makes it a condition of financial services, education, healthcare, SIM registration, immigration and employment, with enforcement strengthened from January 2025 including identity checks at checkpoints; it has been mandatory for [passports and work and residence permits since June 2022](https://ncra.gov.sl/passports-work-resident-permits-now-tied-to-nin/) and for [driving licences and vehicle registration](https://thecalabashnewspaper.com/38027-2/) since the Road Safety Authority gained platform access in October 2023. The card is [ECOWAS-compliant and serves as a regional travel document, though cross-border authentication is not established](https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf). In April 2022 the registration authority [offered commercial banks real-time eKYC and credit-reference checks against the number, at USD 10,000 a bank a month](https://ncra.gov.sl/ncra-engages-commercial-banks-on-digital-identity-inclusion-in-sierra-leone-2/).
 
 The register is being [migrated onto the open-source MOSIP platform](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids), begun with a pilot in early 2024; that [pilot is complete and full implementation is unfunded (August 2026)](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/), and the authority's head has warned against parallel identity systems being built alongside its own.
 
@@ -289,7 +289,7 @@ New things do reach the market. [An open-access 5G standalone network launched i
 ### Literacy
 <!-- capacity.literacy -->
 
-Adult digital and financial literacy in Sierra Leone scores [26 out of 100 (2025)](https://www.uncdf.org/article/8994/national-digital-financial-literacy-baseline-survey-sierra-leone), the composite from the first national baseline survey of the two together, and that is the floor every digital service in the country is being designed against.
+Adult digital and financial literacy in Sierra Leone scores [26 out of 100 (2025)](https://www.uncdf.org/article/8994/national-digital-financial-literacy-baseline-survey-sierra-leone), the composite from the first national baseline survey of the two together, and that is the floor every digital service in the country is being designed against. In September 2025 the Directorate of Science, Technology and Innovation [graduated the first cohort of Tech 101, a two-week foundational course at two university digital learning hubs](https://sierraloaded.sl/technology/youths-graduate-dsti-tech-101-training/).
 
 Schooling itself has improved sharply, and unevenly in a particular direction. Education is [the single largest driver of the country's decade of governance improvement](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sl.pdf), rising 15.4 points over 2014–2023 to 60.6 out of 100 and 15th of 54 African states, and enrolment reached 62.1 and 6th of 54 (2023) after a 23.7-point rise that is among the country's ten most improved measures. What happens after a child is enrolled is a different story: completion scored 48.1 and 21st of 54, and education quality 44.5 and 26th of 54 (2023) — both up over the decade, both far below the number of children getting through the door.
 
