@@ -1,12 +1,12 @@
 ---
 title: Guinea: status report
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 216
+sources_cited: 219
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -203,9 +203,11 @@ Guinea [scored 56.55 of 100 on the ITU Global Cybersecurity Index, up from 20.53
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-[In November 2025 a biometric audit had confirmed only about 130,000 of roughly 277,000 registered civil servants](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce). [The government puts savings since 2024 at 233 billion Guinean francs](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce). [The prime minister said the register "must integrate a unique personal identification number"](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce).
+[In October 2026 the public service ministry said biometrics had removed 64,000 fictitious payroll numbers and stabilised the workforce at 128,000 civil servants and contract staff](https://www.visionguinee.info/le-gouvernement-lance-la-digitalisation-des-cadres-organiques-et-le-referentiel-des-metiers-pour-moderniser-la-fonction-publique/). [The government puts savings since 2024 at 233 billion Guinean francs](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce). [The prime minister said the register "must integrate a unique personal identification number"](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce).
 
 [DHIS2 has run in all health districts since 2022, but data quality and server security remain weak](https://pasa2.sante.gov.gn/domaines/monitoring-de-la-qualite-des-soins-et-services/renforcement-snis-validation-donnees-dhis2/). [Cross-system exchange is not operational](https://pasa2.sante.gov.gn/domaines/monitoring-de-la-qualite-des-soins-et-services/renforcement-snis-validation-donnees-dhis2/). [In 2024 routine reporting into it was 99.8% complete, but only 83 of 1,325 approved private facilities reported](https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/ANNUAIRE_DES_STATISTIQUES_2024_VF1.pdf). [In 2025 rural community health workers recorded visits on paper, for typing up at the district office](https://cseaafrica.org/images/posts/47281988.pdf). [In March 2022 only 59 of 444 health centres used the electronic vaccine-stock system](https://www.gavi.org/sites/default/files/evaluations/Decentralised/Report_eLMIS-evaluation_Guinea.pdf). [A workshop on health information system interoperability was held in November 2025](https://guineenews.org/2025/11/27/interoperabilite-tenue-dun-atelier-cle-pour-la-modernisation-du-systeme-dinformation-sanitaire-en-guinee).
+
+[Since 2024 the education directorate's platform has held pupil records; in October 2026 parents reported missing marks and registration numbers stuck at the wrong grade](https://educationactu.com/11224-2/).
 
 [The tax authority has run the eTax portal for online filing and payment since September 2020](https://dgi.gov.gn/2020/09/16/portail-etax-guinee-la-direction-nationale-des-impots-au-coeur-du-lancement-preside-par-le-premier-ministre/). [The social security fund launched an online contributions platform in July 2025](https://mediaguinee.com/2025/07/modernisation-de-la-gestion-des-cotisations-sociales-la-cnss-lance-la-plateforme-ecnss/). [In August 2023 the treasury presented an integrated state accounting system replacing manually kept accounts](https://www.mef.gov.gn/mef-tresor-public-loutil-digital-systeme-comptable-integre-de-letat-scie-presente-au-ministre-moussa-cisse-et-a-son-cabinet/). [It sends payment orders to the bank electronically and links to the tax, customs and central bank systems](https://www.mef.gov.gn/mef-tresor-public-loutil-digital-systeme-comptable-integre-de-letat-scie-presente-au-ministre-moussa-cisse-et-a-son-cabinet/).
 
@@ -275,7 +277,7 @@ Guinea [ranked 133rd of 139 economies in the 2025 Global Innovation Index](https
 
 [Guinea's education score stood at 40.4 of 100 in 2023, 42nd of 54, up only 1.5 points across the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gn.pdf). [In 2023 equality in education scored 24.8, 50th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gn.pdf). [Enrolment scored 29.4 in 2023 after a fall of 3.2 points, and quality 28.7](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gn.pdf). [Human resources in education reached 89.1 in 2023, 18th of 54, almost twenty points above 2014](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gn.pdf). [That measure counts staff numbers and qualifications](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gn.pdf).
 
-[By 2025, 585 schools had been connected to the internet under the GIGA programme, with 2,200 targeted for 2026](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026). [In 2024 a World Bank-financed result to put data from 90 per cent of schools into a national database was cancelled](https://documents1.worldbank.org/curated/en/099021025115512289/pdf/BOSIB-e98530da-4262-4114-a3b8-9e4daa06717a.pdf).
+[In October 2026 the universal-service agency reported more than 3,200 people trained under its digital skills programme since 2022, about 40 per cent of them women](https://horoya.net/2026/10/07/renforcement-des-capacites-a-lusage-du-numerique-lansuten-lance-la-quatrieme-edition-du-programme-r-cun/). [By 2025, 585 schools had been connected to the internet under the GIGA programme, with 2,200 targeted for 2026](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026). [In 2024 a World Bank-financed result to put data from 90 per cent of schools into a national database was cancelled](https://documents1.worldbank.org/curated/en/099021025115512289/pdf/BOSIB-e98530da-4262-4114-a3b8-9e4daa06717a.pdf).
 
 ### Training and skills
 <!-- capacity.training -->
