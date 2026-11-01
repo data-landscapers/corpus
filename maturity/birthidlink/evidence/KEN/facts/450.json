@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-02-ken-state-revs-up-maisha-namba-digital-id-awareness-drive",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Nakuru County Commissioner Loyford Kibaara says newborns will be issued a Maisha Namba for use in their birth certificates, with draft Birth and Death Registration Amendment Rules 2024 anchoring the rollout.",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "Maisha Namba",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Namba / Maisha Card",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
