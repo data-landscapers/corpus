@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-05-gha-fact-check-rashid-computer-understates-2025-allocation-for-rural-telep",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Ghana's communications minister told Parliament that GH¢147 million was allocated in the 2025 budget to complete 539 outstanding rural telephony sites.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Rural Telephony Project",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

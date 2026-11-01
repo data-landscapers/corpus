@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-17-mli-mali-72-millions-pour-ameliorer-l-acces-aux-services-telecoms-en-2025",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "AGEFAU, Mali's universal access fund agency, disclosed a 2025 budget of FCFA 43.35bn for universal access projects at its 9th ordinary board session, March 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "AGEFAU universal access fund budget",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Agence Ecofin reports AGEFAU's 2025 budget at FCFA 43.35bn (USD 72.06m) against USD 41.37m allocated to universal access projects in 2024 (Ecofin's own conversion).",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "AGEFAU universal access fund budget",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

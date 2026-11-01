@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-08-cod-rdc-le-fdsu-passe-du-diagnostic-a-l-action-avec-les-premieres-conventi",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "FDSU signed subsidy conventions worth USD 4,182,998 in total with four mobile operators for 40 pilot sites.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "FDSU subsidy conventions",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -20,9 +20,9 @@ Agenda 2063, Goal 20, asks that Africa take full responsibility for financing it
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 8 |
 | 4 Operating | 2 |
-| 3 Established | 19 |
+| 3 Established | 18 |
 | 2 Nascent | 24 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -47,6 +47,14 @@ Côte d'Ivoire's 2026 digital ministry budget rose 37 per cent and a telecom lev
 - Programme 23237 is a compte d'affectation spécial funded by an earmarked levy on telecom operators; the 2026 finance law appropriates FCFA 33,000,000,000 to rural technology support. The FY2025 programme was titled as a tax for digital development; the enabling law is not named ([source, 2025-12-19](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf)).
 - In 2024 an earmarked levy on telecom operators funded the ANSUT rural-technology special account (FCFA 32.3bn voted); collection fell short, so the appropriation was cut by FCFA 8,793,791,458 to FCFA 27,676,208,542, the law or decree creating the levy is not cited ([source, 2024](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf)).
 - The 2026 ministry budget of 83.275 billion FCFA is described as a 37% increase; the comparison year is not named (the preceding budget year, 2025, is implied) and the 2025 figure is not given ([source, 2026-03-19](https://techafricanews.com/2026/03/19/cote-divoire-unveils-83-275bn-fcfa-digital-budget-with-37-increase-for-2026/)).
+
+### DR Congo: 5 Leading
+
+The universal service fund signed its first rural subsidies in 2026 and 2025 digital spending is published; how much was paid out is not known.
+
+- The Situation provisoire de l'exécution du budget au 31 décembre 2025 shows Section 71 paid (paiements) FC 31,358,784,468 against a voted credit of FC 60,627,481,411 (51.7%), with FC 68,278,687,329 ordonnanced; the ministry's line, no collections ([source, 2026-04-01](https://www.budget.gouv.cd/wp-content/uploads/budget2025/budget2025_rect/lf_2025_depenses.pdf)).
+- The FDSU signed its first subsidy conventions with Vodacom, Airtel, Africell and Orange on 8 August 2026, mobilising universal service resources to fund 40 pilot sites in underserved areas ([source, 2026-08-08](https://www.fdsu.cd/blog/rdc-le-fdsu-passe-du-diagnostic-a-laction-avec-les-premieres-conventions-de-subvention-pour-la-connectivite-universelle)).
+- Section 71 rose from FC 60,627,481,411 in 2025 to FC 226,713,223,741 in 2026 (+274%), which the document says is substantially a transfer of the ICT mandate from section 52, not new money ([source, 2025-12-29](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf)).
 
 ### Eswatini: 5 Leading
 
@@ -126,13 +134,6 @@ Digital lines in the 2026 budget total 541.6 million Comorian francs against 444
 
 - The same service rose from KMF 0 in the 2025 rectificative finance law to KMF 277 128 000 in the 2026 finance law (budget years 2025 and 2026) ([source, 2026-01-16](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf)).
 - The 2026 finance law (decree 26-003/PR of 16 January 2026) appropriates KMF 277 128 000 to the Direction Générale de Système d'Information et de Communication (service 08 0825, finance ministry), of which KMF 70 000 000 is investment, funded from domestic revenue ([source, 2026-01-16](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf)).
-
-### DR Congo: 3 Established
-
-The 2026 budget gives the digital section 81.7 billion Congolese francs, up from 60.6 billion; no working fund is known.
-
-- Section 71 rose from FC 60,627,481,411 in 2025 to FC 226,713,223,741 in 2026 (+274%), which the document says is substantially a transfer of the ICT mandate from section 52, not new money ([source, 2025-12-29](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf)).
-- Loi de finances n°25/060 appropriates FC 53,840,917,417 of domestic state money to section 52 Postes et Télécommunications for 2026 (section total FC 55,095,958,006 less FC 1,255,040,589 external investment); the section is multi-purpose and the NTIC mandate was moved out of it ([source, 2025-12-29](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf)).
 
 ### Egypt: 3 Established
 
@@ -353,7 +354,7 @@ Morocco's digital budget lines fell 8.1 percent in 2026 and 1.63 billion dirhams
 
 Namibia's comparable digital budget fell 10.1 per cent for 2026/27, while the Universal Service Fund paid subsidies from 2025; no source found reports levy income.
 
-- The Ministry of Information and Communication Technology's 2026/27 budget is N$639.2 million (N$625.7 million operational, N$13.6 million development projects), as presented by its Acting Executive Director; no event date given, so the published date is used ([source, 2026-08-06](https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/)).
+- Ecofin reports the Ministry of ICT allocated an additional N$78 million for telecom sites and public Wi-Fi for the 2026/2027 fiscal year ([source, 2026](https://www.ecofinagency.com/news-digital/1704-54785-namibia-pours-6-5-million-into-universal-access-fund-expansion)).
 - Budget tables: the 15 digital line(s) held in both years total 931,625,000 NAD for 2026/27 against 1,035,870,355 for 2025/26, -10.1 per cent; 35 lines are held for 2026/27. Dated by the budget document ([source, 2026-02-01](https://economy.com.na/wp-content/uploads/ESTIMATE-OF-REVENUE-AND-EXPENDITURE-2026-2027.pdf)).
 
 ### Nigeria: 2 Nascent

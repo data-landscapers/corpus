@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-22-ago-fadcom-anuncia-lancamento-de-internet-no-ucua",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "FADCOM, the public fund fed by contributions equal to 1 per cent from electronic communications operators, said in April 2024 it is financing the Cogumelo internet project in Ucua, an investment of about ten million kwanzas.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "FADCOM universal service fund",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

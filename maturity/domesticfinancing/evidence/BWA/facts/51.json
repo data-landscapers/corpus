@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The minister presented 2024/25 ministry budget proposals of P2,705,766,587, of which the ICT programme takes P736,601,447 (42.62 percent of the development budget).",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "Ministry of Communications, Knowledge and Technology budget 2024/25",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

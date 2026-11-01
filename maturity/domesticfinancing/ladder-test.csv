@@ -6,8 +6,8 @@ BFA,2,spent,,BFA-001;BFA-016
 BWA,2,spent,acted,BWA-003;BWA-005
 CAF,3,rose,,CAF-007;CAF-001
 CIV,5,spent,acted,CIV-013;CIV-010;CIV-015;CIV-002
-CMR,3,spent,,CMR-006;CMR-001
-COD,3,spent,,COD-004;COD-002
+CMR,3,spent,stated,CMR-006;CMR-001
+COD,5,spent,acted,COD-012;COD-020;COD-004
 COG,5,spent,acted,COG-013;COG-004;COG-005;COG-007
 COM,3,spent,,COM-002;COM-001
 CPV,2,spent,acted,CPV-006;CPV-007
@@ -16,7 +16,7 @@ DZA,2,allocated,acted,DZA-003
 EGY,3,rose,,EGY-005;EGY-004
 ERI,no evidence,,,
 ETH,3,spent,,ETH-005;ETH-004
-GAB,3,rose,,GAB-004;GAB-003
+GAB,2,fell,,GAB-005;GAB-006
 GHA,3,rose,,GHA-008;GHA-001
 GIN,4,rose,acted,GIN-001;GIN-003
 GMB,3,spent,,GMB-002;GMB-001
@@ -33,7 +33,7 @@ MOZ,5,spent,acted,MOZ-003;MOZ-002;MOZ-001;MOZ-005
 MRT,3,spent,abolished,MRT-004;MRT-003
 MUS,3,spent,,MUS-004;MUS-001
 MWI,3,rose,,MWI-002;MWI-001
-NAM,2,spent,acted,NAM-008;NAM-015
+NAM,2,spent,acted,NAM-019;NAM-015
 NER,3,rose,,NER-002;NER-001
 NGA,2,fell,acted,NGA-002;NGA-003
 RWA,3,spent,,RWA-003;RWA-002
