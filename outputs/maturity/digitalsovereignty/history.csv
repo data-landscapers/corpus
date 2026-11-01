@@ -85,3 +85,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-31,TZA,geopol.sovereignty--digital-sovereignty,ladder,3,2,TZA-003,"Rule must include government or state data (Bill, messages-for-bill 60, 2026-10-31)"
 2026-10-31,ZWE,geopol.sovereignty--digital-sovereignty,ladder,4,2,ZWE-003;ZWE-004,"Rule must include government or state data (Bill, messages-for-bill 60, 2026-10-31)"
 2026-10-31,NGA,geopol.sovereignty--digital-sovereignty,ladder,4,4,NGA-025;NGA-024,"Rule must include government or state data (Bill, messages-for-bill 60, 2026-10-31)"
+2026-11-01,TUN,geopol.sovereignty--digital-sovereignty,fact,2,2,TUN-002,"CNI, January 2026: hosts sensitive national platforms on its own sovereign cloud; hosting held, but no rule on state data in force, so stays 2"
+2026-11-01,BEN,geopol.sovereignty--digital-sovereignty,fact,2,2,BEN-002;BEN-001,"Official, October 2026: Beninese data stays in Benin; hosting held, but no rule on state data in force, so stays 2"

@@ -17,16 +17,19 @@ BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),other,,BoFiNet (1
 BWA,Delta Digital Data Centre,Botswana,sovereignty,government cloud,Government of Botswana,,2026-09-23-bwa-dailynews-digital-services-act-cloud-migration-digital-id
 BWA,Digital Delta Data Centre,Botswana,other,data centre,BoFiNet,,2026-08-17-newsandall-bofinet-agm-digital-delta-data-centre
 BWA,Digital Delta Data Centre,BWA,other,,,,2026-05-06-digital-delta-data-centre-improve-public-service-delivery
+BWA,GovCloud,GovCloud,other,,Government of Botswana,,2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo
 CAF,Matrix,Central African Republic,other,Matrix protocol,University of Bangui,institution,2026-05-14-iraset-matrix-digital-sovereignty-univ-bangui
 CIV,Data Center National / Cloud National,Data Center ou Cloud National,other,,State,government and state entities (non-critical classified data),2024-01-01-cote-divoire-strategie-nationale-gouvernance-donnees-sngd-2030
 CIV,National PKI (root certification authority),Cote d Ivoire,other,,ANSSI-CI,,2026-07-28-cote-divoire-launches-national-pki
 CIV,PKI nationale (PKI Racine),Cote d Ivoire,other,,ANSSI CI,,2026-07-25-cote-divoire-anssi-pki-nationale
 CIV,Sovereign and Secure Cloud in Côte d'Ivoire (DataConnect Africa / Clever Cloud Africa),Côte d'Ivoire,other,"PaaS cloud, TIER III datacenter",DataConnect Africa (New Digital Africa) with Clever Cloud,,2024-11-28-clever-cloud-dataconnect-africa-sovereign-cloud-civ
 CIV,Data Center national,Cote d'Ivoire,other,,"State (builders CYBASTION, BNETD, APL)",,2025-12-01-civ-grand-bassam-ibrahim-kalil-konate-met-la-pression-pour-accelerer-le-ch
+CIV,national sovereign data centre,Cote d'Ivoire,sovereignty,,state,,2025-05-21-civ-la-cote-d-ivoire-prepare-le-lancement-de-son-datacenter-national-souve
 CMR,Zamengoe Data Centre,Zamengoe Data Centre,other,,CAMTEL,,2026-06-12-camtel-zamengoe-data-centre-sovereignty-sago-techreviewafrica
 CMR,Zamengoé Datacenter,Zamengoé Datacenter,other,,Camtel,government agencies and businesses,2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter
 CMR,Zamengoe Datacenter,Zamengoe Datacenter,other,,Camtel,,2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter
 CMR,Camtel Zamengoe data centre,Cameroon,sovereignty,"data centre, Tier III certified",Camtel (state),Tier III,2026-06-12-lejour-camtel-zamengoe-datacenter-digital-sovereignty
+CMR,Government Cloud,Government Cloud,sovereignty,,CAMTEL,,2025-12-05-cmr-camtel-et-ethio-telecom-unissent-leurs-forces-pour-accelerer-la-transf
 COD,Data center du Gouvernement,Data center du Gouvernement,other,,"Government (Kinshasa-Gombe, Government building)",public administration,2025-07-24-sgptntic-visite-data-center-gouvernement
 COD,ANCE (Autorité nationale de certification électronique),COD,other,,state,,2026-07-31-drc-tribune-digital-sovereignty-ance-ancy-x-road-proposal
 COD,ANCY (Agence nationale de la cybersécurité),COD,other,,state,,2026-07-31-drc-tribune-digital-sovereignty-ance-ancy-x-road-proposal
@@ -144,6 +147,7 @@ MWI,Lilongwe data centre,another facility being constructed in Lilongwe,other,,,
 MWI,National Data Centre (Lilongwe),MWI,other,"private cloud, hyper-converged, Paul Kagame Road, Lilongwe",Government of Malawi (Department of e-Government),Tier III (stated),2026-06-11-pppc-expansion-of-national-data-centre-rfb
 NER,carte nationale d identite biometrique AES,Niger,other,,Ministere de l Interieur,,2026-05-07-cnib-aes-mass-enrolment-launch-lesahel
 NER,AES-aligned biometric national ID card,Niger,other,,"Ministry of Interior, Security and Territorial Administration",,2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card
+NER,Datacenter National,Datacenter National,sovereignty,,ANSI Niger,,2026-10-29-ner-visite-technique-du-chantier-du-datacenter-national
 NGA,CBN data localisation directive,CBN data localisation directive,other,,Central Bank of Nigeria,national; banks and fintechs,2026-09-29-growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to
 NGA,NIP (NIBSS Instant Payment),NIP,other,,Nigeria Inter-Bank Settlement System,national; banks,2026-09-29-growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to
 NGA,CBN data localisation directive,CBN data localisation directive,other,,Central Bank of Nigeria,"national; banks, fintechs, mobile money operators, switches, payment service providers",2026-09-29-nga-businessday-cbn-data-localisation-deadline-too-short
@@ -190,6 +194,8 @@ NGA,National Sovereign Cloud Initiative,Nigeria,other,,NITDA,,2026-10-28-nga-cbn
 NGA,sovereign cloud initiative,Nigeria,sovereignty,,NITDA,,2026-10-28-nga-nitda-woos-us-tech-firms-to-invest-in-nigeria-s-digital-infrastructure
 NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative (NSCI),sovereignty,,NITDA and CBN,,2026-10-29-nga-cbn-nitda-allay-banks-fears-over-january-2027-data-localisation-deadli
 NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,other,,NITDA,,2026-10-29-nga-326-mdas-spend-n3-8trn-on-technology-as-nigeria-moves-to-localise-gove
+NGA,Galaxy Backbone,Galaxy Backbone Limited,sovereignty,,Government of Nigeria (state-owned company),,2025-08-19-nga-fg-orders-mdas-to-migrate-foreign-hosting-to-galaxy-backbone-in-digita
+NGA,"Galaxy platform (Nigerian government cloud, data centres in Abuja and Kano)",Nigeria,other,,Galaxy Backbone Ltd,,2024-10-02-nga-nigerian-government-ensures-data-sovereignty-with-local-cloud-hosting
 RWA,Africa Data Centres,,other,,,,2025-07-01-data-center-market-brief-rwanda
 RWA,PAIX,,other,,,,2025-07-01-data-center-market-brief-rwanda
 RWA,"Cross-border digital identity pilot (Rwanda, Ghana, Benin)",Rwanda,other,,Smart Africa,,2026-08-11-giz-smart-africa-digital-sovereignty-interview
@@ -202,15 +208,19 @@ SEN,"sovereign data center (planned, Cybastion)",Senegal,sovereignty,,Cybastion 
 SEN,Data Center de Sénégal Numérique (SENUM),Senegal,sovereignty,,Sénégal Numérique (SENUM),,2026-08-20-seneweb-loi-securite-numerique-adoption
 SEN,Datacenter national (SENUM SA),Datacenter national,other,,SENUM SA,,2024-02-02-sen-osiris-dossier-patient-unique-partage
 SEN,Stellarix sovereign cloud,Senegal,other,cloud,Stellarix,,2026-10-15-sen-stellarix-sen-startup-cloud-souverain
+SEN,Data Center national de Diamniadio,Data Center national de Diamniadio,other,,Government of Senegal,,2026-10-21-sen-donnees-publiques-jusqu-a-20-des-donnees-senegalaises-encore-hebergees
 SLE,Government Data Centre,Sierra Leone,sovereignty,NatCA Tower,"Ministry of Communication, Technology and Innovation",redundancy site planned at State House,2026-09-05-sierra-leone-moctii-un-data-governance-framework
 SOM,Government Data and Cybersecurity Center,Somaliland,sovereignty,government data centre (under construction),Ministry of Information and Communication Technology,,2025-10-20-taiwanicdf-somaliland-government-data-center
 SOM,S-Road,Somaliland,other,e-governance system,,,2025-10-20-taiwanicdf-somaliland-government-data-center
 SSD,National Data Centre,South Sudan,sovereignty,,"Ministry of Information, Communication Technology, and Postal Services",,2026-09-15-ssd-radiotamazuj-oped-china-ai-path-digital-divide
 SWZ,National Data Centre,National Data Centre,other,,Royal Science and Technology Park (RSTP),central government,2026-09-24-swz-times-national-data-centre-incident
 SWZ,National Data Centre,National Data Centre (NDC),other,,Royal Science and Technology Park (RSTP),,2026-09-24-swz-times-national-data-centre-incident
+SYC,Travizory,Seychelles,other,,Department of Immigration and Civil Status,,2026-09-03-syc-travizory-commission-of-inquiry-opens
+SYC,ASP Connect,Seychelles,other,,Agency for Social Protection,,2026-03-05-asp-connect-cabinet-stabilisation
 TCD,Centre National des Données Numériques (Data Center),Chad,sovereignty,,,,2025-01-08-data-center-national-souverainete-numerique
 TCD,Data Center national,Chad,sovereignty,Huawei,,,2026-02-12-adetic-audit-certification-data-center-national
 TCD,National Data Center (PMICE Phase I),Chad,other,,State,,2025-12-22-tcd-ecofin-pmice-phase-i-national-data-center
+TUN,CNI sovereign cloud,Tunisia,sovereignty,cloud,Centre national de l'informatique,,2026-01-06-tun-tunisie-le-centre-national-de-l-informatique-celebre-50-ans-au-cur-de
 UGA,existing data center (UDAP-GovNet),Uganda,other,government data center,,,2025-06-27-worldbank-udap-govnet-p171305-restructuring-paper
 UGA,Third national data center,Uganda,other,"planned, removed from project scope",,,2025-06-27-worldbank-udap-govnet-p171305-restructuring-paper
 UGA,National Data Centre,Uganda,other,government hosting and co-location,NITA-U (Government of Uganda),,2026-03-17-uga-nita-u-strategic-plan-fy2025-26-2029-30

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-21-civ-la-cote-d-ivoire-prepare-le-lancement-de-son-datacenter-national-souve",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The minister announced on 20 May 2025 the coming launch of a first national sovereign data centre to host the state's critical platforms and e-government services.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "national sovereign data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national sovereign data centre",
+   "country_label": "Cote d'Ivoire",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

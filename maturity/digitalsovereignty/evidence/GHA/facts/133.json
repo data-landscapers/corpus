@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-01-gha-nita-engages-stakeholders-for-effective-data-centre-cloud-regulations",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The Minister of Communications and Digitalization said the Government Cloud (G Cloud) provides cloud services to governmental institutions.",
+   "as_of": "2024-02-20",
+   "date_precision": "day",
+   "system": "Government Cloud (G Cloud)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

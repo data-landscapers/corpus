@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-tun-tunisie-le-centre-national-de-l-informatique-celebre-50-ans-au-cur-de",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The CNI, under the Ministry of Communication Technologies, hosts sensitive national and sectoral platforms on its own sovereign cloud infrastructure backed by secure data centres, per a CNI communique relayed by THD.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "CNI sovereign cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNI sovereign cloud",
+   "country_label": "Tunisia",
+   "class": "sovereignty",
+   "platform": "cloud",
+   "owner": "Centre national de l'informatique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-sen-donnees-publiques-jusqu-a-20-des-donnees-senegalaises-encore-hebergees",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Ousmane Bop, manager of the Diamniadio national data centre, says Senegal intends to repatriate public data, of which 10 to 20 per cent is still held abroad, with options of paying off ten-year hosting contracts early or waiting for expiry, and legal solutions under study.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Repatriation of public data",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center national de Diamniadio",
+   "country_label": "Data Center national de Diamniadio",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-ner-visite-technique-du-chantier-du-datacenter-national",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The National Agency for the Information Society (ANSI) says Niger's national data centre, under construction as its director-general inspected the site on 29 October 2026, is meant to host and secure the public administration's data and applications as strategic infrastructure for digital sovereignty.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Datacenter National",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Datacenter National",
+   "country_label": "Datacenter National",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "ANSI Niger",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

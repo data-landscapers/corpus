@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The minister said a sovereign cloud infrastructure to be called GovCloud would be implemented, and that critical government services were being migrated to the Digital Delta Data Centre.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "GovCloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovCloud",
+   "country_label": "GovCloud",
+   "platform": "",
+   "owner": "Government of Botswana",
+   "tiers": "",
+   "class": "other"
+  }
+ ],
+ "note": ""
+}

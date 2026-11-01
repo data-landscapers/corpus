@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-02-nga-nigerian-government-ensures-data-sovereignty-with-local-cloud-hosting",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Galaxy Backbone's managing director and the Ministry of Communications' permanent secretary say the Government Service Portal will be hosted in the Nigerian government-owned cloud to keep data under national control, with no cloud outside Nigeria.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "Government Service Portal hosting in Nigerian cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy platform (Nigerian government cloud, data centres in Abuja and Kano)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": "Hosting is a decision for a portal not yet live, so no hosted fact."
+}

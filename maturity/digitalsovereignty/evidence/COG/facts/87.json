@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-04-cog-congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informat",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Talks at the 2026 Xi'an forum covered developing a national data centre, including energy and sovereign cloud aspects, and the future Brazzaville centre is dedicated to public services, to be inaugurated in November according to the African Development Bank.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National data centre of Brazzaville",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

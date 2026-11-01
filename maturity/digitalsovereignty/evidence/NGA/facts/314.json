@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-19-nga-fg-orders-mdas-to-migrate-foreign-hosting-to-galaxy-backbone-in-digita",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "A circular issued through the Office of the Secretary to the Government of the Federation orders ministries, departments and agencies hosting official data on foreign platforms to migrate to government-owned Galaxy Backbone, under a policy to safeguard digital sovereignty, as Galaxy Backbone's chief executive says.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "OSGF circular on migration of MDA hosting to Galaxy Backbone",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone",
+   "country_label": "Galaxy Backbone Limited",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "Government of Nigeria (state-owned company)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

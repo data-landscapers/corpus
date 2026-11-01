@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-22-dza-un-data-center-pour-heberger-et-centraliser-les-donnees-nationales",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The High Commissioner for Digitalisation, Meriem Benmouloud, said on 20 April 2024 that the national digital services data centre, contracted to a Huawei consortium and approved by the Council of Ministers, will host and centralise national data inside the country to strengthen digital sovereignty.",
+   "as_of": "2024-04-20",
+   "date_precision": "day",
+   "system": "Centre national algerien des prestations numeriques (Data Center)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

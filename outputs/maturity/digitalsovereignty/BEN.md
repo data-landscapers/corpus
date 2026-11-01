@@ -4,7 +4,7 @@
 
 **Rule on state data.** [Decree 2026-579 of 2 September 2026](<https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree>) created a National Digital Committee under the President. Protection of strategic data is among its priorities. It gives a prior opinion on technology partnerships that could engage national digital sovereignty. In a June 2026 bulletin, [Benin's digital agency ASIN proposed a governance framework](<https://www.lanation.bj/actualites/usages-de-lia-dans-ladministration-publique-un-cadre-de-gouvernance-envisage>) for generative-AI use in public administration. It calls for sovereign hosting of data on national infrastructure or equivalent. It also calls for contractual reversibility and full data return, and bars transfers to Cloud Act or FISA jurisdictions.
 
-**Hosted nationally.** No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud. The nearest held fact: [the one given above](<https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree>).
+**Hosted nationally.** In October 2026 a Benin official [said Beninese data stays in Benin](<https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne>). He said the country's systems ran for two years without a maintenance contract and without a break in service.
 
 **Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree>).
 

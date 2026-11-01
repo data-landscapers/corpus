@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-03-civ-hebergement-des-donnees-publiques-a-raxio-la-cote-d-ivoire-a-t-elle-re",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Minister Ibrahim Kalil Konaté said at the 14 December 2023 first-stone ceremony that the national data centre, to host the data of national administrative bodies, symbolises the quest for digital sovereignty; Digital Mag says it has since stalled past its December 2024 delivery date.",
+   "as_of": "2023-12-14",
+   "date_precision": "day",
+   "system": "Data center national",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
