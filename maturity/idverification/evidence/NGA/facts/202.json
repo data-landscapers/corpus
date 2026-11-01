@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-28-nga-press-statement-ncc-announces-final-deadline-for-nin-sim-linkage-compl",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Nigerian Communications Commission says mobile operators verify and link SIMs to National Identity Numbers under a 2020 policy, with a final deadline of 14 September 2024.",
+   "as_of": "2024-08-28",
+   "date_precision": "day",
+   "system": "NIN-SIM linkage",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The NCC says over 153 million SIMs have been linked to a NIN, a 96 per cent compliance rate, up from 69.7 per cent in January 2024.",
+   "as_of": "2024-08-28",
+   "date_precision": "day",
+   "system": "NIN-SIM linkage",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN-SIM linkage",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

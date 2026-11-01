@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-30-tcd-tchad-securite-larcep-sonnera-lalerte-sur-lappartenance-des-cartes-sim",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ARCEP says SIM cards must be linked to an NNI issued by ANATS and that some are still sold pre-activated with no identity check, so operators Moov Africa and Airtel face possible sanctions for not verifying identities.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "SIM registration against the NNI",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

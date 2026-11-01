@@ -1,0 +1,46 @@
+{
+ "slug": "2026-02-26-gha-moc-keynote-national-data-protection-conference-2026",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The minister said the Ghana Card is used for identity verification when opening a bank account online or applying for government healthcare.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The minister named banking and government healthcare as services verifying identity against the Ghana Card.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The minister said Cabinet decided to begin a new SIM card registration with live verification against the National Identification Authority database.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "SIM re-registration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM card re-registration",
+   "country_label": "Ghana",
+   "class": "relying",
+   "platform": "",
+   "owner": "National Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

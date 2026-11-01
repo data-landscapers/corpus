@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001",
-   "gaps": "No source found since October 2023 says a service in use checks people against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "use": "underway",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-001",
+      "gaps": "No source found since October 2023 shows a service checking people against the ID system: the 2025 rule makes operators link each SIM to an NNI, and ANATS began verifying a mobile operator's customer data only under a May 2026 partnership.",
+      "note": "ANATS and Airtel signed in May 2026 to interconnect their systems and verify subscribers (TCD-001), so stage 2. ARCEP's 2025 statement that SIMs must be linked to an NNI (TCD-002) is a rule, often unmet, not a check against the system, so not 3.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }
