@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-19-lso-undp-powers-lesotho-s-digital-leap",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Public Eye reports the Community Digital Inclusion Model was launched with 40 newly trained digital ambassadors tasked to train at least 1,500 community members in the first week, in school labs opened to communities.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Community Digital Inclusion Model",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

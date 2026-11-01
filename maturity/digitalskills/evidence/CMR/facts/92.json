@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-20-cmr-at-launch-of-cameroon-digital-skills-campaign-antic-dg-calls-for-inves",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ANTIC launched the sixth edition of the Cameroon Digital Skills Campaign in Douala, a three-day event with over 100 students.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Cameroon Digital Skills Campaign",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cameroon Digital Skills Campaign",
+   "country_label": "Cameroon Digital Skills Campaign 2024 (6th edition)",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "ANTIC with The Change Engine",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

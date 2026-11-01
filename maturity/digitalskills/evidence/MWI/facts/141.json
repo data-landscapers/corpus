@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-29-mwi-1-4-malawians-possess-digital-expertise-nso-macra",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "A study by Malawi's National Statistical Office with MACRA found only 1.4% of Malawians possess digital skills.",
+   "as_of": "2024-05-29",
+   "date_precision": "day",
+   "system": "NSO and MACRA digital skills study",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

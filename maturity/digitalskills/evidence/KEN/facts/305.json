@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-30-ken-youth-urged-to-utilize-jitume-program-to-acquire-online-jobs",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Government Spokesperson Isaac Mwaura says the Jitume and Ajira digital skills programmes had 182,568 beneficiaries in 2025, up from 41,382 in 2022, with over 280 digital hubs and labs at TVET institutions countrywide, per Kenya News Agency.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Jitume and Ajira Digital programmes",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jitume",
+   "country_label": "Kenya",
+   "class": "publicskills",
+   "platform": "digital labs at TVET institutions",
+   "owner": "Government of Kenya (ICT Authority)",
+   "tiers": ""
+  },
+  {
+   "system": "Ajira Digital",
+   "country_label": "Kenya",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-moz-mctd-aposta-no-polo-digital-de-nampula",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The communications and digital transformation ministry's permanent secretary visited the Nampula technology incubator on 9 July 2026, which trained about 1,300 young people and startups in the first half of 2026, including 140 girls in Coding Girl; all figures are from one province.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "Incubadora Tecnologica e Inclusiva da ATDI (Nampula)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Incubadora Tecnologica e Inclusiva da ATDI, Nampula",
+   "country_label": "Mozambique",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "ATDI under the Ministry of Communications and Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

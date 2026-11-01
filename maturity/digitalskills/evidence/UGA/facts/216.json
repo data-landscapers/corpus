@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-10-uga-in-amuria-digital-lessons-on-wheels-offer-new-hope-for-ugandans",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Gender, Labour and Social Development ministry, with Huawei, runs the Digi-Truck mobile classroom project launched in March 2023, which had benefited 8,192 Ugandans by September 2025, including 350 graduating in Amuria district on 5 September 2025.",
+   "as_of": "2025-09-05",
+   "date_precision": "day",
+   "system": "Digi-Truck",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digi-Truck",
+   "country_label": "Uganda",
+   "class": "publicskills",
+   "platform": "mobile classroom",
+   "owner": "Ministry of Gender, Labour and Social Development with Huawei",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "AGO-002;AGO-004",
-      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
-      "note": "A presidential order of August 2026 authorised a World Bank-financed national programme in basic digital skills, and a US$20 million training programme was authorised in October 2026. No count of people trained has been found, so not stage 3.",
-      "as_at": "2026-10-31"
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and counted; the Cidadão Digital counts are those of EMIS, an interbank company, with no government body named.",
+      "note": "Presidential orders of August and October 2026 authorised World Bank-financed digital-skills programmes, not yet counted. The only counts, over 600,000 by December 2024, are for EMIS's Cidadão Digital project, which no source ties to a government body, so not stage 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

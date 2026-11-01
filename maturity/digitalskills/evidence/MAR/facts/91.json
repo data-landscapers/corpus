@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-29-mar-morocco-st-foundation",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The ST Foundation says its Digital Unify programme, run in Morocco since 2004 in partnership with the Ministry of Youth, operates 45 labs in 17 cities, trained 25,765 people in 2025 and has reached over 270,000 since launch.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Digital Unify programme (ST Foundation)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Unify programme",
+   "country_label": "Morocco",
+   "class": "publicskills",
+   "platform": "45 labs in 17 cities",
+   "owner": "ST Foundation with Ministry of Youth",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

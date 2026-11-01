@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "2",
-      "training": "underway",
+      "stage": "3",
+      "training": "inservice",
       "measured": "",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-001;ZMB-003",
-      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
-      "note": "SMART Zambia Institute, with the ITU and the youth ministry, runs Digital Transformation Centres for digital skills in 2026, and a World Bank project funds basic digital literacy. No count of people trained has been found, so not stage 3.",
-      "as_at": "2026-10-31"
+      "stage_sources": "ZMB-006",
+      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "The SMART Zambia Institute's digital literacy programme trained 243 citizens in six localities in 2024, a government programme in service and counted. No survey share has been found, so not stage 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }

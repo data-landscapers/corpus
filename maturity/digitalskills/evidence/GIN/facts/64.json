@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-07-gin-3e-edition-r-cun-ansuten-insere-plus-de-1-500-beneficiaires-dont-60-de",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "ANSUTEN, under the Ministry of Posts, Telecommunications and Digital Economy, launched on 7 October 2025 the third edition of its R-CUN digital capacity programme for over 1,500 participants, with 30-day trainings across the country after two earlier editions of 450.",
+   "as_of": "2025-10-07",
+   "date_precision": "day",
+   "system": "R-CUN",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "R-CUN",
+   "country_label": "R-CUN (programme de renforcement des capacites a l'usage du numerique)",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "ANSUTEN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

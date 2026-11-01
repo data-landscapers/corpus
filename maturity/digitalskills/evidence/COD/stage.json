@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "unplaced",
-      "training": "",
+      "stage": "2",
+      "training": "underway",
       "measured": "",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The rows held are Femintech's own training with Unicef and a UNESCO project, and neither names the government.",
-      "note": "Femintech, with Unicef, has trained about a thousand girls since 2017, and a UNESCO project allocates 20 per cent to the country; neither names the government. A government programme is not shown, so no stage is set.",
-      "as_at": "2026-10-31"
+      "stage_sources": "COD-003;COD-004;COD-005",
+      "gaps": "The national programme has counted only the 500 trainees of its first train-the-trainer phase in Kinshasa; no count of the public trained. No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "The youth ministry signed with Cisco and Cybastion in October 2025 to train 250,000 young people, and its trainers were certified in February 2026. No count of the public trained has been found, so not stage 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

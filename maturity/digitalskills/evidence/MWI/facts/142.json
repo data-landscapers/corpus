@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-16-mwi-digmap-luntha-ndi-chuma-initiative-for-human-capital-development",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Public Private Partnership Commission's DIGMAP 'Luntha ndi Chuma' digital skills initiative, World Bank-funded and run through 9 tech hubs, reports that NXTGen Labs alone has trained 3,371 youths and women in Mzimba, Mzuzu, Lilongwe, Blantyre and Zomba.",
+   "as_of": "2024-01-16",
+   "date_precision": "day",
+   "system": "Luntha ndi Chuma",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Luntha ndi Chuma",
+   "country_label": "Malawi",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "PPPC under the Digital Malawi Project",
+   "tiers": "9 tech hubs"
+  }
+ ],
+ "note": ""
+}

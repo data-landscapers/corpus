@@ -2,7 +2,7 @@
 
 ## Digital skills of the public
 
-**Training for the public.** [Algeria's Ministry of Vocational Training and Education launched a national 12-week artificial intelligence training programme to develop advanced digital skills](<https://techreviewafrica.com/news/5172/algeria-launches-artificial-intelligence-training-programme-to-enhance-digital-skills>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Training for the public.** [In April 2026 the vocational training ministry launched a national 12-week training programme in artificial intelligence](<https://techreviewafrica.com/news/5172/algeria-launches-artificial-intelligence-training-programme-to-enhance-digital-skills>). [The national 7-77 digital inclusion programme opened in July 2026](<https://lechiffredaffaires.dz/algerie-telecom-lance-les-premieres-sessions-presentielles-du-programme-national-7-77/>). [By August its 40 online sessions had reached 1,166 people](<https://lechiffredaffaires.dz/algerie-telecom-lance-les-premieres-sessions-presentielles-du-programme-national-7-77/>). [Algérie Télécom began in-person sessions for 600 people at Sétif on 9 August 2026](<https://lechiffredaffaires.dz/algerie-telecom-lance-les-premieres-sessions-presentielles-du-programme-national-7-77/>). [Further sessions in Annaba and Saïda were scheduled next](<https://lechiffredaffaires.dz/algerie-telecom-lance-les-premieres-sessions-presentielles-du-programme-national-7-77/>).
 
 **Share measured.** No source found since October 2023 gives a measured share of people with basic digital skills. The nearest held fact: [the one given above](<https://techreviewafrica.com/news/5172/algeria-launches-artificial-intelligence-training-programme-to-enhance-digital-skills>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is one in service and counted.
+***Not found*** The only count found, 1,166 people in online sessions of the 7-77 programme, is not tied to more than one location. No survey share of people with basic digital skills has been found.

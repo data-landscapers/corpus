@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-23-zaf-deputy-minister-mondli-gungubele-digital-academies-in-africa-summit",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Deputy Minister Gungubele says NEMISA, a department entity, has trained 60,000 people in entry-level digital skills including literacy since 2023, with a National Digital Skills Forum launched in March 2024; no locations are named.",
+   "as_of": "2024-10-23",
+   "date_precision": "day",
+   "system": "NEMISA digital skills training",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NEMISA",
+   "country_label": "NEMISA",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Department of Communications and Digital Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

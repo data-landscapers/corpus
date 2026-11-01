@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,publicskills,training,coverage,underway,2025-11,GIN-001,,
-GIN,publicskills,measured,coverage,,,,,nothing held
-GIN,publicskills,half,coverage,,,,,nothing held
+GIN,publicskills,training,coverage,inservice,2025-10-07,GIN-004,GIN-003=underway;GIN-001=underway;GIN-002=underway,
+GIN,publicskills,measured,coverage,,,,,nothing found
+GIN,publicskills,half,coverage,,,,,nothing found

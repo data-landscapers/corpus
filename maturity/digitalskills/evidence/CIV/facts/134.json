@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-27-civ-cote-d-ivoire-projet-genie-installation-de-35-centres-numeriques-dans",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Prime Minister launched the GENIE project on 26 February 2025, under which 35 DigiGreen centres in schools, universities and town halls in Abidjan and Grand-Bassam are to train over 45,000 young people in digital skills, co-financed at 5.5 billion FCFA by the government, KOICA and GGGI.",
+   "as_of": "2025-02-26",
+   "date_precision": "day",
+   "system": "GENIE / DigiGreen centres",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GENIE (DigiGreen centres)",
+   "country_label": "Cote d'Ivoire",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Government with KOICA and GGGI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

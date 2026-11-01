@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-23-gha-one-million-coders-programme-government-targets-400-000-beneficiaries",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Government set a target to train 400,000 Ghanaians in 2026 under the One Million Coders Programme, after a 2025 pilot that trained 859, with 20,000 laptops procured and training planned in 100 constituencies by end of the first quarter of 2026.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders Programme",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Communications, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": "The 859 pilot trainees' locations are not stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-moz-intic-e-vodacom-juntam-se-para-implementacao-do-programa-de-literacia",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "INTIC and Vodacom Moçambique signed a memorandum on 24 June 2026 to implement a Privacy and Data Protection Literacy Programme teaching digital safety to students, to be expanded progressively to other provinces.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Programa de Literacia em Privacidade e Protecção de Dados",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programa de Literacia em Privacidade e Protecção de Dados",
+   "country_label": "Privacy and Data Protection Literacy Programme 2026",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "INTIC with Vodacom Moçambique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

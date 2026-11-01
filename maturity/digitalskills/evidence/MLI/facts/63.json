@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-05-mli-malian-youth-take-up-the-challenge-of-digitalization",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The International Trade Centre's NTF V FastTrackTech project, with the government technology agency AGETIC and the Complexe Numérique de Bamako, trained two cohorts of 60 young Malians in digital skills in 2023 and 2024; no location beyond Bamako is stated.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NTF V FastTrackTech",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NTF V FastTrackTech",
+   "country_label": "Mali",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "International Trade Centre with AGETIC",
+   "tiers": "two cohorts of 60"
+  }
+ ],
+ "note": ""
+}

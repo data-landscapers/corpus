@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,publicskills,training,coverage,inservice,2025-11-04,COD-001,COD-002=underway,
-COD,publicskills,measured,coverage,,,,,nothing held
-COD,publicskills,half,coverage,,,,,nothing held
+COD,publicskills,training,coverage,inservice,2025-11-04,COD-001,COD-003=underway;COD-004=underway;COD-006=underway;COD-002=underway;COD-005=underway,
+COD,publicskills,measured,coverage,,,,,nothing found
+COD,publicskills,half,coverage,,,,,nothing found

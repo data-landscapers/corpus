@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-27-nam-mict-empowers-over-900-namibians-through-free-digital-literacy-program",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Namibia's Ministry of Information and Communication Technology says its free nationwide Digital Literacy Programme, launched July 2023, had certified over 900 participants across the fourteen regions by January 2025.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "MICT Digital Literacy Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MICT Digital Literacy Programme",
+   "country_label": "Namibia",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

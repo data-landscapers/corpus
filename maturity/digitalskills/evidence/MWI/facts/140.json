@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-08-mwi-ministry-pppc-take-stock-of-digital-malawi-project",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The DIGMAP project, run by the Ministry with the PPPC and World Bank funding, equipped over 19,000 youths, women and the elderly with digital skills; locations are not stated.",
+   "as_of": "2025-10-08",
+   "date_precision": "day",
+   "system": "DIGMAP digital skills",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

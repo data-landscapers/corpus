@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-17-rwa-digital-literacy-day-2025-celebrating-rwanda-s-journey-toward-universa",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "RISA says the Digital Ambassadors Programme, run since 2017 with over 2,000 ambassadors and 60 supervisors in every district and backed by KOICA and the World Bank, has trained more than 4.5 million Rwandans in digital skills.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "Digital Ambassadors Programme (DAP)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": "The over 75% literacy rate is stated with no survey named, so not recorded as measured."
+}

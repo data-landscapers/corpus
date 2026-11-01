@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-24-ago-menosfios-emis-cidadao-digital-600-mil",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Menos Fios reports, from a report by the interbank services company EMIS, that its Cidadao Digital project, run with public-private partnerships, has reached over 600,000 Angolans since 2022 with free digital literacy training in several provinces at community centres and schools, including rural areas.",
+   "as_of": "2024-12-24",
+   "date_precision": "day",
+   "system": "Cidadao Digital (EMIS)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cidadao Digital",
+   "country_label": "Angola",
+   "class": "publicskills",
+   "platform": "community centres, schools, public spaces",
+   "owner": "EMIS (Empresa Interbancaria de Servicos) with public-private partners",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

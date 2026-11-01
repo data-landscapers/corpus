@@ -2,7 +2,7 @@
 
 ## Digital skills of the public
 
-**Training for the public.** [Minister Angellah Kairuki said the government, through TCRA, has established 800 Digital Clubs aimed at developing ICT skills among citizens](<https://dailynews.co.tz/tanzania-tells-wtpf-session-how-its-citizens-enjoy-access-to-inclusive-secure-communication-services/>). [TCRA's Director General says the government, through TCRA, has established 800 digital clubs across the country, promoted from nursery school to university to build digital literacy and practical ICT skills](<https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Training for the public.** [The government, through the regulator TCRA, has set up 800 digital clubs across the country](<https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/>), from nursery school to university. [The 2025 WSIS country report counts 711 clubs with 766 teachers and 1,878 students](<https://www.itu.int/net/wsis/review/inc/docs/reports/country/Tanzania__20YearCountryReport_WSISOutcomes.pdf>). [Zanzibar's ministry trained 1,015 citizens in digital skills between July 2025 and March 2026](<https://www.eastafricanherald.com/business/2026/6/2/tanzania-isles-sets-ambitious-digital-agenda-with-5339bn-ict-budget>). [It will continue ICT training through community centres](<https://www.eastafricanherald.com/business/2026/6/2/tanzania-isles-sets-ambitious-digital-agenda-with-5339bn-ict-budget>). [In September 2026 the ICT minister cited the same 800 clubs](<https://dailynews.co.tz/tanzania-tells-wtpf-session-how-its-citizens-enjoy-access-to-inclusive-secure-communication-services/>).
 
 **Share measured.** No source found since October 2023 gives a measured share of people with basic digital skills. The nearest held fact: [the one given above](<https://dailynews.co.tz/tanzania-tells-wtpf-session-how-its-citizens-enjoy-access-to-inclusive-secure-communication-services/>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. [ICT Competency Standards for Teachers in Tanzania (ICT-CSTT)](<https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/>).
 
-***Not found***. No source found since October 2023 says: is one in service and counted.
+***Not found*** No source places the Zanzibar count in more than one location, and the club figures are members, not people trained. No survey share of people with basic digital skills has been found.

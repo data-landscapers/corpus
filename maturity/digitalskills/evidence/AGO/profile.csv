@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,publicskills,training,coverage,underway,2026-10,AGO-001;AGO-002;AGO-003;AGO-004;AGO-005,,
-AGO,publicskills,measured,coverage,,,,,nothing held
-AGO,publicskills,half,coverage,,,,,nothing held
+AGO,publicskills,training,coverage,inservice,2024-12-24,AGO-006;AGO-007,AGO-003=underway;AGO-004=underway;AGO-002=underway;AGO-001=underway;AGO-005=underway,
+AGO,publicskills,measured,coverage,,,,,nothing found
+AGO,publicskills,half,coverage,,,,,nothing found

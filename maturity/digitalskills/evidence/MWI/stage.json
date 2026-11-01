@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "3",
+      "stage": "4",
       "training": "inservice",
-      "measured": "",
+      "measured": "measured",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-004",
-      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-      "note": "The government's World Bank-funded Digital Malawi Project had trained over 19,000 youths, women and elderly people in digital skills at 10 tech hubs by August 2024, so a national programme is in service and counted. No survey share has been found, so not stage 4.",
-      "as_at": "2026-10-31"
+      "stage_sources": "MWI-008;MWI-004",
+      "gaps": "The 2024 NSO and MACRA study puts the share at 1.4 per cent; no measured share of half or more.",
+      "note": "A 2024 study by the National Statistical Office and MACRA measured 1.4 per cent of Malawians with digital skills, and the Digital Malawi Project had trained over 19,000 people. The share is far below half, so not stage 5.",
+      "as_at": "2026-11-01"
     }
   ]
 }

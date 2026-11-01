@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-03-cod-250-000-jeunes-vises-pour-le-programme-national-de-formation-numerique",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ZolaNews reports the Digital Economy minister handed certificates to trainers of the national digital training programme for 250,000 young people on 28 February 2026, marking its operational launch, with trainers to be deployed nationwide over five years.",
+   "as_of": "2026-02-28",
+   "date_precision": "day",
+   "system": "Programme national de formation numerique des 250 000 jeunes",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme national de formation numerique des 250 000 jeunes",
+   "country_label": "DR Congo",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Youth and Patriotic Awakening",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

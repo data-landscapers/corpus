@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-07-swz-closing-the-digital-divide-a-nationwide-success-story",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Eswatini Communications Commission concluded the 2025/2026 National Digital Skills Training Program with partners, training over 2,700 young people, with enrolments at Lavumisa, Ezulwini, Siteki and Simunye.",
+   "as_of": "2026-03-07",
+   "date_precision": "day",
+   "system": "National Digital Skills Training Program",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Skills Training Program",
+   "country_label": "National Digital Skills Training Program 2025/2026",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "ESCCOM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

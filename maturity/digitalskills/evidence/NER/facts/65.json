@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-03-ner-tic-le-projet-villages-intelligents-ambitionne-d-assurer-l-inclusion-n",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The PVI coordinator says the project has trained 350,000 beneficiaries, a majority women, in digital skills through its digital literacy and financial education campaign, with digital centres open in the 8 regions.",
+   "as_of": "2025-02-03",
+   "date_precision": "day",
+   "system": "Projet Villages Intelligents (PVI) digital literacy campaign",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-12-zwe-zimbabwe-steps-up-digital-literacy-drive",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The ICT minister said the Digital Skills Ambassadors Programme has reached thousands of people across the country, including more than 2,300 trained in one district in a week.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "Digital Skills Ambassadors Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Skills Ambassadors Programme",
+   "country_label": "Zimbabwe",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  },
+  {
+   "system": "digital centres / digital hubs",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

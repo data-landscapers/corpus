@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "DZA-001",
-      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
-      "note": "The vocational training ministry launched a national 12-week AI training programme in April 2026, a programme under way. No count of people trained has been found, so not stage 3.",
-      "as_at": "2026-10-31"
+      "gaps": "The 7-77 programme counts 1,166 people in online sessions, with in-person sessions only beginning at Sétif; no count shown in more than one location. No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "The national 7-77 programme opened in July 2026 and had reached 1,166 people online by August, with in-person sessions just begun at Sétif. A count shown in more than one location has not been found, so not stage 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

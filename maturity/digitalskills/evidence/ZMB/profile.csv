@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZMB,publicskills,training,coverage,underway,2026-08-10,ZMB-001;ZMB-002;ZMB-003,,
-ZMB,publicskills,measured,coverage,,,,,nothing held
-ZMB,publicskills,half,coverage,,,,,nothing held
+ZMB,publicskills,training,coverage,inservice,2024-09,ZMB-006,ZMB-002=underway;ZMB-001=underway;ZMB-004=underway;ZMB-003=underway,
+ZMB,publicskills,measured,coverage,,,,,nothing found
+ZMB,publicskills,half,coverage,,,,,nothing found

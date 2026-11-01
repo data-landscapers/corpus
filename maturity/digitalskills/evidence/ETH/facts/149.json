@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-11-eth-over-900-000-citizens-trained-in-oromia-region-under-ethio-coders-init",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "ENA reports the Oromia Science and Technology Authority says 956,000 residents of Oromia had completed training under the national Ethio-Coders initiative, which aims to train five million citizens, across the region's zones and cities.",
+   "as_of": "2025-12-11",
+   "date_precision": "day",
+   "system": "Ethio-Coders initiative",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ethio-Coders initiative",
+   "country_label": "Ethiopia",
+   "class": "publicskills",
+   "platform": "online coding and digital skills training",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

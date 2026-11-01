@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-001;MOZ-003",
-      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
-      "note": "The youth ministry signed an agreement in June 2026 for a national programme to train about 40,000 young people, piloting in five provinces. The only count, 50 youths, is from a pilot in Matola, so not stage 3.",
-      "as_at": "2026-10-31"
+      "gaps": "The counts held are a Matola pilot, a Nampula incubator and the Machel Fidus Association's DiGi school project, which the education ministry joined only to expand it; no counted government programme for the public in more than one location. No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "The youth ministry signed for a national programme for 40,000 young people in June 2026, and the education ministry joined the DiGi school project in May 2025. The counts held are a one-province pilot and incubator and an association's project, so not stage 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

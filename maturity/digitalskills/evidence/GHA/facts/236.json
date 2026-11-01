@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-02-gha-communications-and-digitalisation-ministry-trains-22-000-people-in-ict",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The communications minister says more than 22,000 people had been trained in basic and intermediate digital skills under the ministry's Digital Transformation Centre project, run with ITU and Cisco since January 2020, including over 3,000 in the Ashanti Region.",
+   "as_of": "2024-07-01",
+   "date_precision": "day",
+   "system": "Digital Transformation Centre project",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Transformation Centre project",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Communications and Digitalisation with ITU and Cisco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

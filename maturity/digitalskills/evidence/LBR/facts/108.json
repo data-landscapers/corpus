@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-21-lbr-cyber-liberia-2030-national-digital-skills-artificial-intelligence-and",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Liberia Development Dashboard lists Cyber Liberia 2030, led by the Liberia Cyber Crime Prevention and Mitigation Agency, as a pipeline project to train at least 20,000 Liberians in digital literacy, cybersecurity and AI between October 2026 and October 2027.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "Cyber Liberia 2030",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Liberia 2030",
+   "country_label": "Liberia",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Liberia Cyber Crime Prevention and Mitigation Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

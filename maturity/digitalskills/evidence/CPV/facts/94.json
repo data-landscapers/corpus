@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-07-cpv-brava-como-piloto-nacional-de-inclusao-digital-com-implementacao-do-te",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Cabo Verde's digital economy and education ministries opened a 15-station TechLab in Brava in April 2026 as a national pilot under the Skodji Digital programme and National Digital Literacy Programme, within a plan to expand the network, with no number trained stated.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "Skodji Digital TechLab",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Skodji Digital (TechLab)",
+   "country_label": "Cabo Verde",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Digital Economy with Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,publicskills,training,coverage,inservice,2026-03-29,LBR-004;LBR-006,LBR-001=underway;LBR-002=underway;LBR-003=underway;LBR-005=underway,
-LBR,publicskills,measured,coverage,,,,,nothing held
-LBR,publicskills,half,coverage,,,,,nothing held
+LBR,publicskills,training,coverage,inservice,2026-03-29,LBR-004;LBR-006,LBR-007=underway;LBR-001=underway;LBR-002=underway;LBR-008=underway;LBR-003=underway;LBR-005=underway;LBR-009=underway,
+LBR,publicskills,measured,coverage,,,,,nothing found
+LBR,publicskills,half,coverage,,,,,nothing found

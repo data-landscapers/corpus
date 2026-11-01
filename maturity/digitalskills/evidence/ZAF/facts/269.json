@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-01-zaf-minster-mondli-gungubele-launch-of-national-digital-skills-forum",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Minister Gungubele said the Ya Rona Digital Skills Massification Drive, run by the department with NEMISA, had been rolled out in North West, KwaZulu-Natal, Limpopo and Free State, was under way in Eastern Cape, and had trained over 20,000 citizens in basic digital literacy.",
+   "as_of": "2024-03-01",
+   "date_precision": "day",
+   "system": "Ya Rona Digital Skills Massification Drive",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ya Rona Digital Skills Massification Drive",
+   "country_label": "South Africa",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "DCDT with NEMISA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

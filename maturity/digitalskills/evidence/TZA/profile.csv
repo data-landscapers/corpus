@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,publicskills,training,coverage,underway,2026-09-04,TZA-001;TZA-002,,
-TZA,publicskills,measured,coverage,,,,,nothing held
-TZA,publicskills,half,coverage,,,,,nothing held
+TZA,publicskills,training,coverage,inservice,2025-06,TZA-004,TZA-002=underway;TZA-001=underway;TZA-003=underway,
+TZA,publicskills,measured,coverage,,,,,nothing found
+TZA,publicskills,half,coverage,,,,,nothing found

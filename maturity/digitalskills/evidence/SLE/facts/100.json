@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-25-sle-dsti-graduates-first-cohort-of-tech-101-digital-literacy-training",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Directorate of Science, Technology and Innovation graduated the first cohort of its two-week Tech 101 digital literacy programme at the IPAM and Fourah Bay College digital learning hubs, with expansion to other hubs planned, and no number trained stated.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Tech 101",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tech 101",
+   "country_label": "Sierra Leone",
+   "class": "publicskills",
+   "platform": "Digital Learning Hubs",
+   "owner": "Directorate of Science, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

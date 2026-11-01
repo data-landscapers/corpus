@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,publicskills,training,coverage,underway,2026-10,NAM-001;NAM-002;NAM-003;NAM-004,,
-NAM,publicskills,measured,coverage,,,,,nothing held
-NAM,publicskills,half,coverage,,,,,nothing held
+NAM,publicskills,training,coverage,inservice,2025-01,NAM-005,NAM-004=underway;NAM-006=underway;NAM-001=underway;NAM-002=underway;NAM-003=underway,
+NAM,publicskills,measured,coverage,,,,,nothing found
+NAM,publicskills,half,coverage,,,,,nothing found

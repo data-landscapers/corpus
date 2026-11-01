@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-26-gha-moc-keynote-national-data-protection-conference-2026",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The minister said the government has launched the One Million Coders Programme to equip young Ghanaians with skills in coding, AI, data protection and digital engineering; no trained count is given.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders Programme",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

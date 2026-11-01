@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-lso-tech-initiative-graduates-first-cohort",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Public Eye reports that Community Digital Learning Centres in Mafeteng district, sponsored by UNDP, Econet and the Lesotho Communications Authority, have trained 77 participants at Kolo High School, 44 at Makaota High School and 43 at Tsakholo High School.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Community Digital Inclusion Model",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Community Digital Inclusion Model",
+   "country_label": "Community Digital Learning Centres",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "UNDP, Econet and Lesotho Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

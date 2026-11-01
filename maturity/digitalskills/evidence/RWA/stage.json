@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "2",
-      "training": "underway",
+      "stage": "3",
+      "training": "inservice",
       "measured": "",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-001;RWA-002",
-      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
-      "note": "RISA told lawmakers in July 2025 that the Digital Ambassadors Programme will expand to all 2,148 cells, and the government launched the DigiTruck in October 2026. No count of people trained has been found, so not stage 3.",
-      "as_at": "2026-10-31"
+      "stage_sources": "RWA-003",
+      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "RISA reported in October 2025 that the Digital Ambassadors Programme, in every district since 2017, had trained more than 4.5 million Rwandans, a government programme in service and counted. No survey share has been found, so not stage 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }

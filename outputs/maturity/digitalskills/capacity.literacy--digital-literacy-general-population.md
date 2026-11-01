@@ -21,11 +21,11 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 3 |
-| 3 Established | 14 |
-| 2 Nascent | 24 |
+| 4 Operating | 4 |
+| 3 Established | 17 |
+| 2 Nascent | 22 |
 | 1 Absent | 1 |
-| Unplaced | 4 |
+| Unplaced | 2 |
 | No evidence | 6 |
 
 ## Countries
@@ -48,6 +48,13 @@ In 2024, 62.2 per cent of people aged five and over in Mauritius could use a com
 A 2023 household survey found 35.1 per cent of people had ICT skills; no survey share of half or more has been found.
 
 - The LCA and Bureau of Statistics household survey of 2023 found that 35.1% of individuals in Lesotho had ICT skills, against 58.4% who use the internet ([source, 2023](https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf)).
+
+### Malawi: 4 Operating
+
+A 2024 statistics office study found 1.4 per cent of Malawians had digital skills, while government hubs trained over 19,000 people.
+
+- A study by Malawi's National Statistical Office with MACRA found only 1.4% of Malawians possess digital skills ([source, 2024-05-29](https://mbc.mw/1-4-malawians-possess-digital-expertise-nso-macra/)).
+- The Secretary for Information and Digitalization says 10 tech hubs under the World Bank-funded Digital Malawi Project have taught digital skills to over 19,000 youths, women and elderly people ([source, 2024-08-09](https://digmap.pppc.mw/digital-malawi-project-a-game-changer-for-malawis-digital-transformation/)).
 
 ### Sierra Leone: 4 Operating
 
@@ -110,12 +117,6 @@ A government project had trained 10,000 young people in digital skills by 2026; 
 - Oracle News Daily says the Liberia Digital Transformation Project, chaired by Abdullah Kamara, trained 10,000 young Liberians in digital skills as promised by President Joseph Boakai ([source, 2026-03-29](https://oraclenewsdaily.com/2026/03/29/liberia-tech-expert-issues-early-warning-as-ai-threatens-liberias-job-market-security/)).
 - FrontPage Africa reports that field teams for the Nimba property valuation will include youth from the recent '10,000 Digital Skills Training Program', which names the programme but gives no trained count or operator ([source, 2026-02-23](https://frontpageafricaonline.com/liberia-land-authority-launches-real-property-valuation-training-in-nimba-ushering-in-digital-era-for-land-governance/)).
 
-### Malawi: 3 Established
-
-Malawi's national digital project had trained over 19,000 people at ten tech hubs by 2024; no survey of digital skills has been found.
-
-- The Secretary for Information and Digitalization says 10 tech hubs under the World Bank-funded Digital Malawi Project have taught digital skills to over 19,000 youths, women and elderly people ([source, 2024-08-09](https://digmap.pppc.mw/digital-malawi-project-a-game-changer-for-malawis-digital-transformation/)).
-
 ### Morocco: 3 Established
 
 The digital ministry's programme had trained 1,000 people by 2024; no survey of the share with digital skills has been found.
@@ -123,12 +124,31 @@ The digital ministry's programme had trained 1,000 people by 2024; no survey of 
 - The MTNRA brochure states that 1000 talents had been trained through the JobIntech programme by the end of August 2024 ([source, 2024-08](https://mmsp.gov.ma/sites/default/files/2024-09/BrochureTalentNum%C3%A9rique_24092024_Fra.pdf)).
 - The minister said two national digital-skills and AI training programmes for ages 8 to 18 were launched: one aimed at nearly 200,000 young people through the football federation, and youth-centre workshops that have reached over 740 children since October 2025 ([source, 2026-01](https://fr.alyaoum24.com/numerique-et-innovation/53166.html)).
 
+### Namibia: 3 Established
+
+The ICT ministry's literacy programme had certified over 900 people in all regions by 2025; the share with digital skills is not known.
+
+- Namibia's Ministry of Information and Communication Technology says its free nationwide Digital Literacy Programme, launched July 2023, had certified over 900 participants across the fourteen regions by January 2025 ([source, 2025-01](https://techafricanews.com/2025/01/27/mict-empowers-over-900-namibians-through-free-digital-literacy-programme/)).
+
+### Niger: 3 Established
+
+A government rural digital literacy campaign had trained 350,000 people in all regions by 2025; the share with digital skills is not known.
+
+- The PVI coordinator says the project has trained 350,000 beneficiaries, a majority women, in digital skills through its digital literacy and financial education campaign, with digital centres open in the 8 regions ([source, 2025-02-03](https://anp.ne/tic-le-projet-villages-intelligents-ambitionne-dassurer-linclusion-numerique-et-financiere-des-ruraux/)).
+- Le Sahel reports that the national digital and financial literacy campaign for rural populations, part of the World Bank-funded PVI project under the national information society agency ANSI, trained nearly 38,000 people nationwide in phase one against a 65,000 target, with phase two launched at a trainers' workshop in Niamey on 20-24 June 2024 ([source, 2024-06](https://www.lesahel.org/atelier-de-formation-et-de-recyclage-lancement-de-la-deuxieme-phase-de-la-campagne-nationale-dalphabetisation-numerique-et-deducation-financiere-des-populations-en-milieu-rura/)).
+
 ### Nigeria: 3 Established
 
 A national digital-literacy programme had counted about 2.76 million people trained by 2026; no survey of the share with digital skills has been found.
 
 - NITDA's National Digital Literacy Dashboard records about 2.76 million training achievements from 248 reporting organisations since January 2022, across all 36 states and the FCT, per the NITDA Director-General ([source, 2026-10-20](https://von.gov.ng/agency-unveils-dashboard-to-track-national-digital-literacy-progress/)).
 - NITDA's National Digital Literacy Dashboard records 2,769,512 reported digital-literacy training achievements from 252 reporting organisations over three years, across all 774 local government areas, per Tech Africa News ([source, 2026-10-21](https://techafricanews.com/2026/10/21/nitda-digital-literacy-dashboard-2-7-million-training-achievements/)).
+
+### Rwanda: 3 Established
+
+The Digital Ambassadors Programme had trained over 4.5 million people in every district by 2025; the share with digital skills is not known.
+
+- RISA says the Digital Ambassadors Programme, run since 2017 with over 2,000 ambassadors and 60 supervisors in every district and backed by KOICA and the World Bank, has trained more than 4.5 million Rwandans in digital skills ([source, 2025-10-17](https://www.risa.gov.rw/news-detail/digital-literacy-day-2025-celebrating-rwandas-journey-toward-universal-digital-empowerment)).
 
 ### Senegal: 3 Established
 
@@ -154,6 +174,12 @@ The government's data lab had trained 993 people by 2026; no survey of the share
 The regulator's fund trained over 13,000 women and 11,000 rural people in digital skills by 2026; no survey of digital skills has been found.
 
 - UCC, through UCUSAF, reports programme records for 2020-2026 of more than 13,000 women and over 11,000 rural community participants trained in digital skills, and more than 5,000 MSMEs ([source, 2026-10-22](https://pmldaily.com/news/2026/10/ugandas-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc.html)).
+
+### Zambia: 3 Established
+
+A government digital literacy programme trained 243 citizens in six localities in 2024; the share with digital skills is not known.
+
+- The SMART Zambia Institute's digital literacy programme for citizens, funded by ITU and Norway, trained 243 people (56 per cent women) across six localities (Mongu, Mumbwa, Chipata, Chibombo, Kafue, Choma) from 15 July to 26 September 2024, per ITU Academy ([source, 2024-09](https://academy.itu.int/about/news/itu-and-norway-support-dtc-zambia-equip-more-240-cooperative-members-across-6-localities-basic-and)).
 
 ### Algeria: 2 Nascent
 
@@ -181,6 +207,13 @@ A World Bank-financed digital project includes digital-skills training from 2023
 - The World Bank appraisal document (2023-12-22) for PACTDIGITAL includes a US$22.00m component on developing digital skills and a project aim to increase access to digital skills programs ([source, 2023-12-22](https://projects.worldbank.org/en/projects-operations/project-detail/P177022)).
 - Agence Ecofin reports that the digital ministry's 2025 results included strengthening the digital skills of 169 young girls ([source, 2025](https://www.agenceecofin.com/actualites-numerique/3112-134607-le-burkina-faso-prevoit-109-millions-de-dollars-au-developpement-du-numerique-en-2026)).
 
+### Cameroon: 2 Nascent
+
+The ICT agency and posts ministry launched digital-skills campaigns for young people in 2024 and 2025; how many were trained is not known.
+
+- MINPOSTEL reports the minister launched on 11 June 2025 a Digital Citizenship Festival, organised by CODAM Technologies under ministry patronage within the national cybersecurity campaign, aiming to train 50,000 young people through regional and national events with hands-on workshops; no number trained is stated ([source, 2025-06-11](https://www.minpostel.gov.cm/index.php/en/actualites/508-national-campaign-to-promote-cybersecurity)).
+- ANTIC launched the sixth edition of the Cameroon Digital Skills Campaign in Douala, a three-day event with over 100 students ([source, 2024-07](https://theguardianpostcameroon.com/post/3519/en/homeat-launch-of-cameroon-digital-skills-campaign-antic-dg-calls-for-investments-in-digital-education-of-youth)).
+
 ### Cape Verde: 2 Nascent
 
 The government launched a digital-skills programme for 3,000 young people in 2026; a count of people trained has not been found.
@@ -207,6 +240,14 @@ The government planned and funded digital-skills training in 2025 and 2026; a co
 
 - The Ministry of Digital Transition presented digital-training infrastructure investments in the PND 2026-2030, with an estimated budget of 95 billion FCFA, aiming to train tens of thousands of digital talents across the territory, under a strategy pillar on developing digital skills ([source, 2026-09-15](https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/)).
 - The Conseil des ministres communique of 4 February 2026 says the IDA-financed PADCI phase 1 loan, concluded 17 October 2025, provides for developing advanced and intermediate digital skills, targeting young people and women in particular (US$5m component per the appraisal document) ([source, 2025-10-17](https://www.bilan.gouv.ci/actualite/19406)).
+
+### DR Congo: 2 Nascent
+
+A national programme to train 250,000 young people certified its first trainers in 2026; how many have been trained is not known.
+
+- ZolaNews reports the Digital Economy minister handed certificates to trainers of the national digital training programme for 250,000 young people on 28 February 2026, marking its operational launch, with trainers to be deployed nationwide over five years ([source, 2026-02-28](https://www.zolanews.net/250-000-jeunes-vises-pour-le-programme-national-de-formation-numerique-augustin-kibassa-maliba-remet-les-brevets-aux-formateurs/)).
+- The government said on 16 February 2026 it had completed the first train-the-trainer phase in Kinshasa, with 500 trainees and 200 to be selected as trainers, as part of a national plan to train 250,000 young people, with rollout to the provinces next ([source, 2026-02-16](https://www.ecofinagency.com/news-digital/1802-53044-facing-youth-job-pressures-congo-launches-plan-to-train-250-000-in-digital-skills)).
+- ACP reports the Ministry of Youth signed an accord on 11 October 2025 with Cisco and Cybastion, joined by Airtel RDC, for a national digital training programme for 250,000 young people; no number trained is stated ([source, 2025-10-11](https://acp.cd/nation/rdc-le-programme-national-de-formation-numerique-vecteur-dautonomisation-de-la-jeunesse-congolaise-ministre-de-la-jeunesse/)).
 
 ### Djibouti: 2 Nascent
 
@@ -270,27 +311,6 @@ The youth ministry agreed a national digital-skills programme for 40,000 young p
 - The Ministry of Youth and Sports signed an MoU with MyRide Technologies and SoulCode for a national digital-capacity programme to train about 40,000 young people (36,000 in digital literacy, 3,660 in advanced-technology bootcamps), piloting in five provinces ([source, 2026-06-17](https://mznews.co.mz/en/governo-lanca-programa-para-capacitar-40-mil-jovens-em-competencias-digitais/)).
 - The ITU-EU VaMoz Digital project, sponsored by Mozambique's Ministry of Communications and Digital Transformation, ran a Matola pilot training programme that trained 50 youth and 5 teachers, after a National Digital Skills Assessment ([source, 2026-08-08](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx)).
 
-### Namibia: 2 Nascent
-
-The national plan includes digital training programmes from 2025; a count of people trained has not been found.
-
-- ICT Minister Emma Theofelus highlighted Project 1000, which aims to develop young people's digital skills and connect beneficiaries with employment opportunities ([source, 2026-10](https://www.thevillager.com.na/national/2026/digital-infrastructure-investment-a-path-to-new-opportunities/)).
-- NDP6 includes gender-responsive and youth-focused digital training programmes as part of its digital package ([source, 2025-08](https://neweralive.na/namibia-targets-full-digital-transformation/)).
-
-### Niger: 2 Nascent
-
-A digital-skills caravan under the communications minister's patronage toured the regions in 2026; a government programme's count has not been found.
-
-- Governor of Tahoua launched a free digital training for 140 young people on 25 August 2026 as part of the Niger Digital Day national tour, sponsored by the Minister of Communication and New Information Technologies ([source, 2026-08-25](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/)).
-- The Niger Digital Day 2026 caravan, launched in Maradi on 18 August 2026 by the region's delegated administrator, is a youth digital-skills programme the organisers say will run in all eight regions and reach over 800 young people ([source, 2026-08-18](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/)).
-
-### Rwanda: 2 Nascent
-
-The government is expanding a programme to train citizens in digital skills from 2025; a count of people trained has not been found.
-
-- The New Times reports the World Bank-funded Digital Acceleration Project will expand the Digital Ambassadors Programme to all 2,148 cells to train citizens to use digital devices and services, per RISA's briefing to lawmakers ([source, 2025-07-07](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026)).
-- The Ministry of Education with the Ministry of ICT and Huawei launched the DigiTruck, a mobile classroom to give free digital skills training to more than 5,000 youth, women and farmers in all 30 districts over three years, part of a goal to train one million citizens ([source, 2026-10-27](https://www.mineduc.gov.rw/news-detail/rwanda-marks-completion-of-smart-education-project-phase-i-and-launches-the-digitruck-initiative)).
-
 ### Somalia: 2 Nascent
 
 The communications ministry began a project to train 1,000 young people in 2025; a count of people trained has not been found.
@@ -311,36 +331,17 @@ The regulator had set up 800 digital clubs by 2026; a count of people trained ha
 - TCRA's Director General says the government, through TCRA, has established 800 digital clubs across the country, promoted from nursery school to university to build digital literacy and practical ICT skills ([source, 2026-08-04](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/)).
 - Minister Angellah Kairuki said the government, through TCRA, has established 800 Digital Clubs aimed at developing ICT skills among citizens ([source, 2026-09-04](https://dailynews.co.tz/tanzania-tells-wtpf-session-how-its-citizens-enjoy-access-to-inclusive-secure-communication-services/)).
 
-### Zambia: 2 Nascent
-
-A government institute runs digital-skills centres for young people in 2026; a count of people trained has not been found.
-
-- SMART Zambia Institute, with the ITU and the Ministry of Youth, Sport and Arts, runs the Digital Transformation Centres Initiative to equip young people and women with digital skills, and has handed ICT equipment to the Mpika Youth Resource Centre with more handovers planned ([source, 2026-08-05](https://techafricanews.com/2026/08/05/smart-zambia-and-itu-equip-mpika-youth-resource-centre-to-boost-digital-skills/)).
-- The Smart Zambia Institute's procurement notice for the World Bank-financed Digital Zambia Acceleration Project includes a component on enhancing basic digital literacy, targeting underserved citizens ([source, 2024-12-11](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00327850)).
-
 ### Sao Tome and Principe: 1 Absent
 
 The regulator found in 2025 that the digital policy has no digital-literacy action, and recommended a national programme.
 
 - AGER observes an absence of specific actions on digital literacy in São Tomé and Príncipe's digital policy, and lists a national digital literacy programme only as a 1-5 year recommendation ([source, 2025-11](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2025/11/Dia-3-Sao-Tome-e-Principe-AGER.pdf)).
 
-### Cameroon: Unplaced
-
-A UNESCO digital-skills project allocates funds to the country; no government programme has been found, so no stage is set.
-
-Not established: The one row held is UNESCO's project for several countries, with no government named, so it does not show a government programme.
-
 ### Central African Republic: Unplaced
 
 A UNESCO digital-skills project allocates funds to the country; no government programme has been found, so no stage is set.
 
 Not established: The one row held is UNESCO's project for several countries, with no government named, so it does not show a government programme.
-
-### DR Congo: Unplaced
-
-A private institute and a UNESCO project train people in digital skills; no government programme has been found, so no stage is set.
-
-Not established: The rows held are Femintech's own training with Unicef and a UNESCO project, and neither names the government.
 
 ### Libya: Unplaced
 

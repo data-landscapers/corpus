@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-25-ner-atelier-de-formation-et-de-recyclage-lancement-de-la-deuxieme-phase-de",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Le Sahel reports that the national digital and financial literacy campaign for rural populations, part of the World Bank-funded PVI project under the national information society agency ANSI, trained nearly 38,000 people nationwide in phase one against a 65,000 target, with phase two launched at a trainers' workshop in Niamey on 20-24 June 2024.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Campagne nationale d'alphabetisation numerique (PVI)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Campagne nationale d'alphabetisation numerique et d'education financiere",
+   "country_label": "Niger",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "ANSI (PVI project), executed by Numerica Center",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-13-cod-rdc-grace-kutino-veut-transformer-la-jeunesse-en-moteur-de-la-revoluti",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The youth minister launched the operational phase of the national digital training programme for 250,000 young Congolese on 12 February 2026, with 200 trainers in session in Kinshasa from 12 to 15 February.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "Programme national de formation numerique",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme national de formation numerique",
+   "country_label": "DR Congo",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Youth and Patriotic Awakening",
+   "tiers": "base, intermediaire, avance"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-09-gin-government-of-guinea-kicks-off-3rd-r-cun-program-to-boost-digital-skil",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "TechAfrica News reports the Ministry of Posts, Telecommunications and the Digital Economy and ANSUTEN launched the third edition of the R-CUN digital capacity building programme on 7 October 2025, after two editions that trained 450 young people, aiming to train 1,500 students; no second location is named for the programme.",
+   "as_of": "2025-10-07",
+   "date_precision": "day",
+   "system": "R-CUN (Digital Capacity Building Program)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "R-CUN Digital Capacity Building Program",
+   "country_label": "Guinea",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "ANSUTEN and Ministry of Posts, Telecommunications and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

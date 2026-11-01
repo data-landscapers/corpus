@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-27-gha-mahama-reports-1-144-live-sites-in-rural-connectivity-drive",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "President Mahama said the One Million Coders programme, launched in March 2025, completed a pilot in four centres (Accra, Kumasi, Sunyani, Bolgatanga) and expanded to a second phase with virtual sessions, projecting 400,000 trained by the end of 2026; no number trained is given.",
+   "as_of": "2026-02-27",
+   "date_precision": "day",
+   "system": "One Million Coders",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders",
+   "country_label": "One Million Coders",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

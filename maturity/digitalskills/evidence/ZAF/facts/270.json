@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-23-zaf-pq-1084-hon-mr-s-k-sithole-ifp-to-ask-the-minister-of-communications-a",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The communications department says a Digital Skills Programme implemented through NEMISA has trained 296,203 learners in basic digital literacy from 2020/21 to the third quarter of 2024/25, with delivery in all 9 provinces for teacher assistants and community training via Ya Rona.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "NEMISA Digital Skills Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NEMISA Digital Skills Programme",
+   "country_label": "South Africa",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "NEMISA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

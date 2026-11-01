@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-02-moz-machel-fidus-vodacom-foundation-and-huawei-sign-protocol-with-governme",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "A memorandum signed on 2 May 2025 by the Ministry of Education and partners to expand the DiGi project, led by the Machel Fidus Association, which is already running in 24 public secondary schools across all provinces and has trained more than 900 students.",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "DiGi Project",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DiGi Project",
+   "country_label": "Mozambique",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Machel Fidus Association with Ministry of Education and Culture, Vodacom Foundation, Huawei",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

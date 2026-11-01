@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "unplaced",
-      "training": "",
+      "stage": "2",
+      "training": "underway",
       "measured": "",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The one row held is UNESCO's project for several countries, with no government named, so it does not show a government programme.",
-      "note": "The only row is a UNESCO project on digital skills with a 35 per cent allocation to the country, and no government is named in it. A government programme is not shown, so no stage is set.",
-      "as_at": "2026-10-31"
+      "stage_sources": "CMR-003;CMR-002",
+      "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
+      "note": "The ICT agency ANTIC ran its sixth Digital Skills Campaign in July 2024, and the posts minister launched a Digital Citizenship Festival to train 50,000 young people in June 2025. No count of people trained has been found, so not stage 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

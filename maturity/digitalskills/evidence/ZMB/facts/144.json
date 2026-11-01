@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-24-zmb-smart-zambia-institute-launches-national-learn-a-thon-to-equip-girls-w",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Zambia's Government Chief Technology Officer launched the Girls in ICT Learn-A-Thon 2025, a three-week course with Cisco Networking Academy in cybersecurity, AI and data science, designed to reach girls in all provinces.",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "Girls in ICT Learn-A-Thon 2025",
+   "class": "publicskills"
+  },
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "The article says only 35% of Zambia's population currently possess basic digital skills, with no survey or source named.",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Girls in ICT Learn-A-Thon 2025",
+   "country_label": "Girls in ICT Learn-A-Thon 2025",
+   "class": "publicskills",
+   "platform": "Cisco Networking Academy",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

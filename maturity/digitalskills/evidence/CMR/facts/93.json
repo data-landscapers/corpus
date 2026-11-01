@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-11-cmr-national-campaign-to-promote-cybersecurity",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "MINPOSTEL reports the minister launched on 11 June 2025 a Digital Citizenship Festival, organised by CODAM Technologies under ministry patronage within the national cybersecurity campaign, aiming to train 50,000 young people through regional and national events with hands-on workshops; no number trained is stated.",
+   "as_of": "2025-06-11",
+   "date_precision": "day",
+   "system": "Digital Citizenship Festival",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Citizenship Festival",
+   "country_label": "Cameroon",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "CODAM Technologies under MINPOSTEL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

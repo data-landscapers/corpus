@@ -1,5 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,"Programa Nacional de Formação de Agentes Locais em Competências Digitais Básicas, Inclusão e Cidadania Digital",Angola,publicskills,,Instituto de Modernização Administrativa,national,2026-08-27-ago-formacao-agentes-locais-pada
+AGO,Cidadão Digital,Angola,publicskills,,EMIS (Empresa Interbancária de Serviços),"Luanda, Benguela; Huambo planned",2024-06-13-ago-angop-emis-cidadao-digital-500-mil-formados-angotic2024
+AGO,Cidadao Digital,Angola,publicskills,"community centres, schools, public spaces",EMIS (Empresa Interbancaria de Servicos) with public-private partners,,2024-12-24-ago-menosfios-emis-cidadao-digital-600-mil
 BDI,African Girls Can Code Initiative (AGCCI),Burundi,publicskills,coding camps and telecentres,UN Women Burundi with the ministry in charge of the digital economy,,2025-09-30-bdi-abp-competences-numeriques-jeunes-filles-agcci
 BDI,PAFEN (Project to Support the Foundations of the Digital Economy),Burundi,other,,"Ministry of Communication, Information Technologies and Media; World Bank financed",,2024-09-20-bdi-abp-pafen-digital-economy-launch
 BEN,D-CLIC,D-CLIC,publicskills,,OIF with Ecole des Metiers du Numerique,,2025-10-20-techafricanews-benin-oif-d-clic-training
@@ -7,22 +9,33 @@ BFA,Orange Digital Center,Burkina Faso,other,,Orange Burkina Faso,,2026-08-04-bu
 BFA,PACTDIGITAL,Burkina Faso,publicskills,,"Ministry of Digital Transition, Posts and Electronic Communications",,2024-01-23-wb-bfa-001-burkina-faso-digital-acceleration-project
 BWA,2024 Botswana Household Access and Individual Use of ICTs Survey,Botswana,publicskills,,Statistics Botswana,,2026-09-09-bwa-itu-statsbots-ict-data-collection
 BWA,EU Support to Digital Transformation in Botswana,Botswana,other,SmartBots,"Expertise France with HAUS and ESTDEV, funded by the EU and the French Ministry for Europe and Foreign Affairs",,2024-01-01-bwa-smartbots-eu-support-digital-transformation
+BWA,eBotho Digital Literacy Roadshow,Botswana,publicskills,public libraries,Cybersmart Botswana with BOCRA,,2023-11-08-bwa-botswana-launches-national-digital-skills-roadshow
 CAF,UNESCO MIL digital skills project 3210652071,CAF,publicskills,,UNESCO,,2025-12-31-unesco-mil-digital-skills-project-status
 CIV,"PND 2026-2030 digital strategy (seven pillars, 40 structuring projects)",Cote d'Ivoire,other,,Ministere de la Transition Numerique et de l'Innovation Technologique,,2026-09-15-civ-afriqueeconomie-pnd-2026-2030-541-milliards-numerique
 CIV,Digital Acceleration Project (PADCI / RAPID-CI) phase 1,CIV,publicskills,,Ministry of Digital Transition and Digitalization,,2025-10-17-wb-civ-004-rapid-ci-padci-phase-1
+CIV,Programme jeunesse du gouvernement (PJGouv),Cote d'Ivoire,publicskills,,Ministry of Youth Promotion with 21 ministries,,2025-07-17-civ-journee-mondiale-des-competences-des-jeunes-51601-jeunes-formes-aux-me
+CIV,GENIE (DigiGreen centres),Cote d'Ivoire,publicskills,,Government with KOICA and GGGI,,2025-02-27-civ-cote-d-ivoire-projet-genie-installation-de-35-centres-numeriques-dans
 CMR,UNESCO MIL digital skills project 3210652071,CMR,publicskills,,UNESCO,,2025-12-31-unesco-mil-digital-skills-project-status
+CMR,Cameroon Digital Skills Campaign,Cameroon Digital Skills Campaign 2024 (6th edition),publicskills,,ANTIC with The Change Engine,,2024-07-20-cmr-at-launch-of-cameroon-digital-skills-campaign-antic-dg-calls-for-inves
+CMR,Digital Citizenship Festival,Cameroon,publicskills,,CODAM Technologies under MINPOSTEL,,2025-06-11-cmr-national-campaign-to-promote-cybersecurity
 COD,UNESCO MIL digital skills project 3210652071,COD,publicskills,,UNESCO,,2025-12-31-unesco-mil-digital-skills-project-status
+COD,Programme national de formation numerique des 250 000 jeunes,DR Congo,publicskills,,Ministry of Youth and Patriotic Awakening,,2026-03-03-cod-250-000-jeunes-vises-pour-le-programme-national-de-formation-numerique
+COD,national digital skills plan (train-the-trainer),DR Congo,publicskills,,Ministry of Youth and Civic Education,"Basic, Intermediate, Advanced",2026-02-18-cod-facing-youth-job-pressures-congo-launches-plan-to-train-250-000-in-dig
+COD,Programme national de formation numerique,Democratic Republic of the Congo,publicskills,,"Ministry of Youth with Cisco, Cybastion, Airtel RDC",,2025-10-11-cod-rdc-le-programme-national-de-formation-numerique-vecteur-d-autonomisat
+COD,Programme national de formation numerique,DR Congo,publicskills,,Ministry of Youth and Patriotic Awakening,"base, intermediaire, avance",2026-02-13-cod-rdc-grace-kutino-veut-transformer-la-jeunesse-en-moteur-de-la-revoluti
 COG,UNESCO MIL digital skills project 3210652071,COG,publicskills,,UNESCO,,2025-12-31-unesco-mil-digital-skills-project-status
 COG,Projet de transformation numerique du Congo,Projet de transformation numerique du Congo,other,,Government of Congo,,2024-03-14-cog-wearetech-aden-regalli-portail
 CPV,Skodji Digital,Skodji Digital,publicskills,online application platform,Government of Cabo Verde,,2026-02-02-skodji-digital-skills-wearetech
 CPV,Code the Future – Cabo Verde Rising,Cape Verde,other,,SheCode.ai,,2025-09-09-nigeria-cape-verde-digital-corridor-wearetech
 CPV,WebLab,Cabo Verde,publicskills,,NOSi with Huawei,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,Skodji Digital (TechLab),Cabo Verde,publicskills,,Ministry of Digital Economy with Ministry of Education,,2026-04-07-cpv-brava-como-piloto-nacional-de-inclusao-digital-com-implementacao-do-te
 DJI,E-SKILLS,DJI,publicskills,Campus 42 Djibouti; Digital Houses,"Government of Djibouti, EU-financed",,2025-11-25-ecofin-e-skills-campus-42-launch
 DJI,E-SKILLS,Djibouti,publicskills,,Ministry of Digital Economy and Innovation,,2025-11-24-eu-dji-e-skills-programme
 DJI,E-SKILLS,Djibouti,publicskills,,Ministry of Digital Economy and Innovation,,2025-11-24-rtd-lancement-projet-e-skills
 DJI,TechKid 2026,Djibouti,other,,Centre de Technologie et d'Innovation pour le Developpement (CTID),,2026-09-10-lanation-djibouti-cloture-techkid-2026-techleaders
 DJI,E-SKILLS programme,Djibouti,publicskills,Digital Houses (planned regional centres),Ministry Delegate for the Digital Economy and Innovation,,2026-05-16-digital-houses-e-skills-wearetech
 DJI,École 42 Djibouti,Djibouti,publicskills,,Ministry of Digital Economy and Innovation; Djibouti Code Campus Association,,2026-04-06-ecole-42-djibouti-techreviewafrica
+DZA,programme national 7-77,Algeria,publicskills,dedicated online platform plus Algerie Telecom Skills Centers,national programme with Algerie Telecom,,2026-08-09-dza-algerie-telecom-lance-les-premieres-sessions-presentielles-du-programm
 EGY,MCIT-Labour MoU digital literacy programmes,Egypt,publicskills,,MCIT and Ministry of Labour,,2026-10-12-egy-techreviewafrica-mcit-labour-mou-digital-skills
 EGY,3C Coding School,Egypt,other,,3C Coding School (private company),,2026-09-07-wearetech-3c-coding-school-egypte-3m
 EGY,Digital Egypt Generations,Digital Egypt Generations,publicskills,,Ministry of Communications and Information Technology,"Cubs, Juniors, Pioneers, Builders",2026-04-05-egy-egyptinnovate-deg-277000-trainees
@@ -32,9 +45,15 @@ EGY,Digital Pioneers initiative,Egypt,publicskills,,Ministry of Communications a
 ETH,DESTA,ETH,publicskills,,"Ministry of Labor and Skills with GIZ, KfW, EDUFI",,2025-11-28-giz-desta-launch-digitalised-tvet
 ETH,International Certification of Digital Literacy,Ethiopia,publicskills,,Ministry of Education,,2025-06-30-wb-empowering-ethiopians-digital-foundations
 ETH,5 Million Ethiopian Coders,Ethiopia,publicskills,,,,2025-08-05-eth-pps-leadership-and-staff-successfully-complete-5-million-coders-traini
+ETH,Ethio-Coders initiative,Ethiopia,publicskills,online coding and digital skills training,Government of Ethiopia,,2025-12-11-eth-over-900-000-citizens-trained-in-oromia-region-under-ethio-coders-init
+ETH,5-Million Coders' Training Program,Ethiopia,publicskills,,Ministry of Innovation and Technology,,2025-07-18-eth-some-1-6-million-ethiopians-participating-in-coders-training-program
 GAB,UNESCO MIL digital skills project 3210652071,GAB,publicskills,,UNESCO,,2025-12-31-unesco-mil-digital-skills-project-status
 GAB,National Health Information System (NHIS),Gabon,other,,Ministry of the Digital Economy,,2025-05-21-gab-implementation-status-results-report-egabon-p132824-seq-no-16
 GAB,Académie mondiale des compétences,Gabon,publicskills,"UNESCO, Microsoft, IBM courses",Ministry of Digital Economy,,2024-10-18-gab-gabon-lancement-officiel-de-la-campagne-academie-mondiale-des-competen
+GAB,Africa DigiEmpower,Gabon,publicskills,ANINF Academy,ANINF with Cybastion,three levels,2026-01-29-gab-gabon-launches-digital-skills-program-for-1-000-youths-with-u-s-firm-c
+GAB,Smart Africa Youth Chapter Gabon (SAYC Gabon),Gabon,publicskills,"Smart Africa Digital Academy, formation.cgi.ga",Ministry of Digital Economy with Smart Africa and CGI,,2026-05-04-gab-lancement-du-programme-smart-africa-youth-chapter-gabon-sayc-gabon-en
+GAB,DigiEmpower,Gabon,publicskills,,ANINF with Cybastion,three levels,2026-04-13-gab-gabon-numerique-ouverture-de-formations-gratuites-pour-150-jeunes-gabo
+GAB,D-CLIC,Gabon,other,,OIF with Ecole 241,,2025-07-01-gab-gabon-316-jeunes-formes-aux-metiers-du-numerique-avec-d-clic
 GHA,Digital Champions Programme,Ghana,other,EduSpots App,EduSpots,"Champion, Ambassador, Fellow",2026-09-01-eduspots-digital-champions-mastercard-foundation-ghana
 GHA,One Million Coders Programme,Ghana,publicskills,,"Ministry of Communication, Digital Technology and Innovation",,2026-10-14-tra-ghana-sam-george-2000-laptops-knust-one-million-coders
 GHA,One Million Coders Programme,Ghana,publicskills,Community Information Centres,"Ministry of Communication, Digital Technology and Innovations",,2026-10-13-gha-techafricanews-one-million-coders-review
@@ -45,24 +64,41 @@ GHA,One Million Coders Programme,Ghana,publicskills,,Government of Ghana,,2026-0
 GHA,One Million Coders Programme,Ghana,publicskills,,"Ministry of Communication, Digital Technology and Innovation",national,2026-09-13-gha-ghana-needs-tech-builders-not-just-digital-consumers-sam
 GHA,One Million Coders Programme,Ghana,publicskills,,"Ministry of Communication, Digital Technology and Innovations",,2025-12-03-gha-nca-idpd-2025-assistive-technology
 GHA,One Million Coders Programme,Ghana,publicskills,,,,2026-10-29-ghanas-communications-minister-confirmed-as-chair-of-au-committee-on-commun
+GHA,One Million Coders Programme,Ghana,publicskills,,"Ministry of Communications, Digital Technology and Innovations",,2026-01-23-gha-one-million-coders-programme-government-targets-400-000-beneficiaries
+GHA,One Million Coders,One Million Coders,publicskills,,Government of Ghana,,2026-02-27-gha-mahama-reports-1-144-live-sites-in-rural-connectivity-drive
+GHA,One Million Coders Programme,Ghana,publicskills,,Government of Ghana,,2026-02-26-gha-moc-keynote-national-data-protection-conference-2026
+GHA,Digital Transformation Centre project,Ghana,publicskills,,Ministry of Communications and Digitalisation with ITU and Cisco,,2024-07-02-gha-communications-and-digitalisation-ministry-trains-22-000-people-in-ict
 GIN,Simandou Academy,Guinea,publicskills,,,,2025-11-18-smart-africa-ai-dpi-initiatives-single-market
+GIN,R-CUN Digital Capacity Building Program,Guinea,publicskills,,"ANSUTEN and Ministry of Posts, Telecommunications and the Digital Economy",,2025-10-09-gin-government-of-guinea-kicks-off-3rd-r-cun-program-to-boost-digital-skil
+GIN,National Digital Academy,Guinea,publicskills,,"Ministry of Higher Education, Scientific Research and Innovation",feasibility study approved,2026-09-27-gin-guinea-advances-plans-for-national-digital-academy
+GIN,R-CUN,R-CUN (programme de renforcement des capacites a l'usage du numerique),publicskills,,ANSUTEN,,2025-10-07-gin-3e-edition-r-cun-ansuten-insere-plus-de-1-500-beneficiaires-dont-60-de
 GMB,WE-Elevate Project,The Gambia,publicskills,,Ministry of Communications and Digital Economy,,2025-10-28-kerrfatou-we-elevate-project-women-digital-economy
 GNB,Justiça pa Tudu Djintis and Empoderamento da Mulher projects,Guinea-Bissau,publicskills,,UNDP and Government of Guinea-Bissau,,2026-07-03-guinebissau-ang-impact-hub-competencias-digitais-50-mulheres
 GNB,Política Nacional de Competências Digitais,Guinea-Bissau,publicskills,,Conselho de Ministros,,2026-07-01-ang-conselho-ministros-aprova-politica-nacional-competencias-digitais
 GNB,Política Nacional de Competências Digitais,Guiné-Bissau,publicskills,,Conselho de Ministros,,2026-05-19-guine-bissau-comunicado-conselho-ministros-politica-nacional-competencias-digitais
+GNB,STARTOCODE,Guinea-Bissau,publicskills,online learning platform and local centres,Telecel Group with the government,,2026-04-23-gnb-startocode-vai-formar-4-000-jovens-em-programacao-e-competencias-digit
 KEN,Power Learn Project digital skills programme,Kenya,publicskills,,"Power Learn Project, ILO, Microsoft, Garissa County Government",,2026-09-11-capitalfm-allafrica-plp-netherlands-digital-skills-garissa
 KEN,Power Learn Project digital skills programme,Kenya,publicskills,,"Power Learn Project, ILO, Microsoft, Garissa County Government",,2026-09-11-cioafrica-garissa-refugee-youth-digital-skills-plp
 KEN,Huawei DigiTruck,Kenya,publicskills,solar-powered mobile classroom,Huawei with Computers for Schools Kenya,local,2026-09-11-techafricanews-kenya-huawei-digitruck-digital-skills
 KEN,SheConnects Digital Accelerator,Kenya,publicskills,,KICTANet,county,2026-08-26-kictanet-sheconnects-nyandarua-usaid-funding-cut
+KEN,National Digital Literacy Skills Curriculum,National Digital Literacy Skills Curriculum,publicskills,,"Ministry of Information, Communications and the Digital Economy","foundation, basic, intermediate, advanced",2025-05-28-ken-kenya-launches-digital-literacy-curriculum-at-connected-africa-summit
+KEN,digital literacy program (digital hubs),Kenya,publicskills,,Ministry of ICT and the Digital Economy,,2024-06-04-ken-governments-digital-literacy-program-creates-149-000-online-jobs
+KEN,Jitume,Kenya,publicskills,digital labs at TVET institutions,Government of Kenya (ICT Authority),,2025-03-30-ken-youth-urged-to-utilize-jitume-program-to-acquire-online-jobs
+KEN,Ajira Digital,Kenya,publicskills,,Government of Kenya,,2025-03-30-ken-youth-urged-to-utilize-jitume-program-to-acquire-online-jobs
 LBR,"10,000 Digital Skills Training Program",Liberia,publicskills,,,,2026-02-23-liberia-lla-lra-real-property-valuation-software-nimba-fpa
 LBR,Orange Digital Center Liberia,Orange Digital Center Liberia,publicskills,,Orange Liberia,,2026-02-02-liberia-orange-digital-center-2025-report
 LBR,Liberia Digital Transformation Project,Liberia,publicskills,,,,2026-03-29-lbr-oraclenews-kamara-ai-taskforce-memorandum
+LBR,Youth Digital Skills Hubs,Youth Digital Skills Hubs,publicskills,,Liberia Telecommunications Authority and Ministry of Youth & Sports,,2026-09-01-lbr-lta-ministry-of-youth-sports-launch-nationwide-digital-skills-initiati
+LBR,Cyber Liberia 2030,Liberia,publicskills,,Liberia Cyber Crime Prevention and Mitigation Agency,,2026-07-21-lbr-cyber-liberia-2030-national-digital-skills-artificial-intelligence-and
+LBR,10k Youth Digital Transformation Project,10k Youth Digital Transformation Project 2024,publicskills,,Ministry of Posts and Telecommunications,,2024-05-01-lbr-official-launch-of-the-10k-youth-digital-transformation-project
 LBY,Qudurat,Libya,publicskills,digital skills assessment platform,Libyan Innovation Digital Lab,,2026-04-14-eu4skills-qudurat-digital-skills-assessment-platform
 LSO,LCA/BoS national ICT household survey,Lesotho,publicskills,,Lesotho Communications Authority with Bureau of Statistics,,2025-01-01-lca-ict-access-use-households-comparative-2016-2023
 LSO,Universal Service Fund,Lesotho,other,,Lesotho Communications Authority,,2026-07-01-lca-strategic-plan-2026-2029
 LSO,Digital ambassadors,Lesotho,publicskills,,"Ministry of Information, Communications, Science, Technology and Innovation",local councils,2026-04-01-lena-un-rc-digital-ambassadors
 LSO,Digital Skills Learning Labs,Lesotho,publicskills,,UNDP Lesotho Country Office,,2026-03-30-lesotho-undp-intel-ai-for-citizens
 LSO,Community Digital Inclusion Model,Lesotho,publicskills,,Universal Service Fund,,2025-11-19-lesotho-schools-connectivity-wtdc25-statement
+LSO,Community Digital Inclusion Model,Community Digital Learning Centres,publicskills,,"UNDP, Econet and Lesotho Communications Authority",,2025-09-16-lso-tech-initiative-graduates-first-cohort
+LSO,digital inclusion and digital literacy initiative,Lesotho,publicskills,,"Ministry of Information, Communications, Science, Technology and Innovation with UNDP",,2025-08-06-lso-lesotho-moves-forward-with-digital-inclusion
 MAR,Classes Connectées Dir iddik,Morocco,publicskills,diriddik.ma,"Fondation Al Mada with inwi, Managem, Nareva, Injaz Al Maghrib and the Ministry of National Education",national,2026-02-23-lematin-classes-connectees-dir-iddik-benevolat
 MAR,Coding pour Tous,Morocco,other,,Ministry of National Education,national,2026-02-23-lematin-classes-connectees-dir-iddik-benevolat
 MAR,JobIntech,Morocco,publicskills,,Ministry of Digital Transition and Administration Reform (MTNRA),national,2024-09-24-mtnra-brochure-digital-talents
@@ -70,11 +106,15 @@ MAR,Oracle online certifying digital training platform,Morocco,other,Oracle,Mini
 MAR,Al-Jazari institutes,Morocco,publicskills,,Government of Morocco,,2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua
 MAR,national digital and AI training programme,Morocco,publicskills,,several ministries with UM6P and UNESCO,,2025-10-24-mar-amal-el-fallah-seghrouchni-le-maroc-prepare-un-cadre-legal-et-une-dire
 MAR,Academia Raqmya,Academia Raqmya (ADD),other,,ADD,,2026-10-28-la-mauritanie-explore-l-exp-rience-marocaine-pour-interconnecter-ses-a
+MAR,Super Codeur,Morocco,other,Scratch online training,"Ministry of National Education, Preschool and Sports with Orange Maroc",,2024-06-12-mar-coding-100-000-eleves-marocains-formes-par-orange-maroc-et-le-menps
+MAR,Digital Unify programme,Morocco,publicskills,45 labs in 17 cities,ST Foundation with Ministry of Youth,,2026-04-29-mar-morocco-st-foundation
 MDG,Pix certification partnership,Madagascar,publicskills,Pix,METFP and GIP Pix,,2026-09-11-mdg-moov-metfp-gip-pix-competences-numeriques
 MDG,D-CLIC,Madagascar,publicskills,online learning platform,OIF with Ministry of Technical Education and Vocational Training,,2026-01-22-d-clic-training-launch
 MDG,DECIM (P178701),Madagascar,publicskills,,MNDPT,,2025-11-20-worldbank-decim-madagascar-supervision-digital-nov-2025
+MDG,Skills4Job,Madagascar,publicskills,,"Ministry of Digital Development, Posts and Telecommunications",,2025-10-06-mdg-skills4job-madagascar-mise-sur-le-digital-pour-renforcer-l-employabili
 MLI,Kabakoo Academies and DNEN digital skills programme,Mali,publicskills,,MCENMA/DNEN with Kabakoo Academies,,2026-09-09-mli-maliweb-dnen-kabakoo-premiere-cohorte
 MLI,African Girls Can Code Initiative (AGCCI),Mali,publicskills,,"Ministry of Communication, Digital Economy and Modernisation of Administration with UN Women Mali",,2025-10-05-malijet-mali-phase-iii-les-filles-africaines-peuvent-coder
+MLI,NTF V FastTrackTech,Mali,publicskills,,International Trade Centre with AGETIC,two cohorts of 60,2024-11-05-mli-malian-youth-take-up-the-challenge-of-digitalization
 MOZ,Programa nacional de capacitação digital,Mozambique,publicskills,,Ministry of Youth and Sports,national,2026-06-18-programa-40-mil-jovens-competencias-digitais
 MOZ,Mozambique Digital Acceleration Project,Mozambique,publicskills,,Government of Mozambique with the World Bank,,2026-08-10-mozambique-national-broadband-map-incm-portal
 MOZ,VaMoz Digital!,Mozambique,publicskills,,MCTD with ITU and EU,,2026-08-08-itu-vamoz-digital-project-mozambique
@@ -82,20 +122,28 @@ MOZ,Multimedia Community Centres (CMCs),Mozambique,publicskills,,,,2026-06-17-eu
 MOZ,VaMoz Digital!,Mozambique,publicskills,two tech hubs in Nampula and Zambezia,,,2026-06-17-eu-team-europe-digital-transformation-mozambique
 MOZ,GovNet,Mozambique,other,government network,Government of Mozambique,central and 141 districts,2026-06-17-eu-team-europe-digital-transformation-mozambique
 MOZ,INAGE ICT training of civil servants,Mozambique,other,,Instituto Nacional do Governo Electrónico (INAGE),,2024-01-08-moz-noticias-funcionarios-publicos-formados-tic
+MOZ,"Incubadora Tecnologica e Inclusiva da ATDI, Nampula",Mozambique,publicskills,,ATDI under the Ministry of Communications and Digital Transformation,,2026-07-10-moz-mctd-aposta-no-polo-digital-de-nampula
+MOZ,Programa de Literacia em Privacidade e Protecção de Dados,Privacy and Data Protection Literacy Programme 2026,publicskills,,INTIC with Vodacom Moçambique,,2026-06-26-moz-intic-e-vodacom-juntam-se-para-implementacao-do-programa-de-literacia
+MOZ,DiGi Project,Mozambique,publicskills,,"Machel Fidus Association with Ministry of Education and Culture, Vodacom Foundation, Huawei",,2025-05-02-moz-machel-fidus-vodacom-foundation-and-huawei-sign-protocol-with-governme
 MRT,Temekoun,Mauritania,other,national platform,MTNIMA,,2024-06-10-mtnima-plateforme-nationale-temekoun-competences-numeriques-fonction-publique
 MRT,Tech pour la Mauritanie,Mauritania,publicskills,,"Simplon, funded by France",,2026-07-23-ami-projet-employabilite-jeunes-numerique
 MUS,ICT Penetration in Private Households indicators,Mauritius,publicskills,indicators.govmu.org,Mauritius Digital Promotion Agency,,2024-01-01-ict-households-digital-literacy-rate
+MUS,Community Digital Empowerment Programme,Community Digital Empowerment Programme,publicskills,,Mauritius Digital Promotion Agency,,2025-05-01-mus-community-digital-empowerment-programme
 MWI,Nzeru Hub,Malawi,publicskills,online learning platform,ICT Association of Malawi and UNDP,,2026-02-19-lilongwe-to-lupaso-digital-literacy-advocates
 MWI,Nzeru Hub,Nzeru Hub,publicskills,online learning platform,University of Malawi with UNDP,,2025-10-13-unima-undp-launch-nzeru-hub
 MWI,ICBVI,Malawi,other,,UNDP Malawi,,2026-08-31-undp-malawi-digital-agency-visual-impairments
 MWI,Ministry digital literacy training,Malawi,publicskills,,Ministry of Information and Digitalisation,,2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery
+MWI,Luntha ndi Chuma,Malawi,publicskills,,PPPC under the Digital Malawi Project,9 tech hubs,2024-01-16-mwi-digmap-luntha-ndi-chuma-initiative-for-human-capital-development
 NAM,Women in Tech Namibia initiative,Namibia,publicskills,,Huawei,,2026-05-15-namibia-huawei-women-in-tech-digital-skills
 NAM,Women in Tech Namibia National Talent Cultivation Programme,Namibia,publicskills,,Huawei and partners,,2026-05-13-namibia-huawei-ict-congress-talent-programme
 NAM,Project 1000,Namibia,publicskills,,Ministry of Information and Communication Technology,,2026-10-20-nam-digital-infrastructure-investment-a-path-to-new-opportunities-the-vill
+NAM,MICT Digital Literacy Programme,Namibia,publicskills,,Ministry of Information and Communication Technology,,2025-01-27-nam-mict-empowers-over-900-namibians-through-free-digital-literacy-program
+NAM,Digital Computer Literacy Programme,Namibia,publicskills,,Ministry of Information and Communication Technology,,2026-07-29-nam-maltahohe-participants-urged-to-embrace-digital-learning
 NER,Niger Digital Day,Niger,publicskills,,Niger Digital Day founders with Universite de Diffa,,2026-09-03-niger-digital-day-youth-skills-diffa
 NER,Niger Digital Day,Niger,publicskills,,Niger Digital Day (non-profit),,2026-08-25-anp-niger-digital-day-tahoua
 NER,Niger Digital Day caravan,Niger Digital Day (NDD) 2026,publicskills,,Niger Digital Day organisers,,2026-08-18-anp-niger-digital-day-caravane-maradi
 NER,Skills Center (planned),Niger,publicskills,,ESCEP with Algerie Telecom,,2026-09-10-lesahel-delegation-algerienne-escep-partenariat-numerique
+NER,Campagne nationale d'alphabetisation numerique et d'education financiere,Niger,publicskills,,"ANSI (PVI project), executed by Numerica Center",,2024-06-25-ner-atelier-de-formation-et-de-recyclage-lancement-de-la-deuxieme-phase-de
 NGA,Digital Training Academy,Nigeria,publicskills,"Coursera, Pluralsight",Federal Ministry of Education,,2026-09-14-thisday-fg-n10-5bn-digital-training-academy
 NGA,Digital Training Academy (DTA),Nigeria,publicskills,"Coursera, Pluralsight",Federal Ministry of Education,national,2026-09-09-thisday-fg-digital-training-academy-16000-first-cohort
 NGA,Microsoft Nigeria AI skills initiative,Nigeria,publicskills,,Microsoft Nigeria,national,2025-02-19-microsoft-pledges-1m-ai-training
@@ -105,22 +153,28 @@ NGA,GATEWAY Program,Nigeria,other,online/mobile,Mastercard Foundation and CcHUB,
 NGA,National Digital Literacy Dashboard,National Digital Literacy Dashboard,publicskills,,NITDA,,2026-10-21-nitda-digital-literacy-dashboard
 NGA,National Digital Literacy Dashboard,National Digital Literacy Dashboard,publicskills,,NITDA,,2026-10-20-nga-agency-unveils-dashboard-to-track-national-digital-literacy-progress
 NGA,Digital Literacy for All (DL4ALL),Nigeria,publicskills,Cisco-powered online programme,NITDA,,2025-09-23-nga-nitda-launches-capacity-building-programme-to-boost-digital-literacy-i
+NGA,3 Million Technical Talent (3MTT),Nigeria,publicskills,,"Ministry of Communications, Innovation and Digital Economy",,2025-12-12-nga-president-tinubu-we-are-laying-the-foundation-for-a-digital-workforce
 RWA,Digital Ambassadors Programme,Rwanda,publicskills,,Rwanda Information Society Authority,cell,2025-07-09-rdap-fast-track-2026-newtimes
 RWA,Rwanda Coding Academy,Rwanda,other,,,,2026-05-31-rwa-iati-koica-rwanda-coding-academy-activity
 RWA,Rwanda Coding Academy (RCA),Rwanda,other,,Rwanda TVET Board (RTB),,2026-10-13-rwa-yonhap-koica-rwanda-coding-academy
 RWA,Future Path Programme,Airtel Rwanda Future Path Programme,other,,Airtel Rwanda,,2026-10-26-rwa-connectingafrica-ncsa-airtel-mtn-cyberhub-partnerships
 SEN,"Vacances citoyennes numeriques (Dev4NDT, Cyber4NDT)",Senegal,publicskills,18 Espaces numeriques ouverts and online,Universite numerique Cheikh Hamidou Kane,,2025-09-10-sen-aitn-vacances-citoyennes-numeriques
 SEN,FORCE-N,Senegal,publicskills,,Universite numerique Cheikh Hamidou Kane with Mastercard Foundation,,2026-06-16-sen-aps-force-n-100000-jeunes-formes-numerique
+SEN,Digital Senegal 2025,Digital Senegal 2025 human capital action plan,publicskills,,government,,2024-03-25-sen-senegal-s-digital-skills-initiatives-should-have-equity-in-mind
+SEN,Concept (ITU Digital Transformation Centre),Senegal,other,65 ICT training centres,"Concept, a national NGO funded by ITU and Norway",,2026-03-31-sen-spotlight-on-concept-the-itu-digital-transformation-centre-in-senegal
 SLE,BDD-SL Digital Transformation Centre,Bridge the Digital Divide Sierra Leone,publicskills,,BDD-SL,,2025-10-15-sierra-leone-itu-bdd-sl-basic-digital-skills-600-citizens
 SLE,Digital Learning Hubs,Sierra Leone,publicskills,,MoCTI Directorate of Innovation,,2024-04-17-sierra-leone-mocti-directorate-of-innovation
+SLE,Tech 101,Sierra Leone,publicskills,Digital Learning Hubs,"Directorate of Science, Technology and Innovation",,2025-09-25-sle-dsti-graduates-first-cohort-of-tech-101-digital-literacy-training
 SOM,Enhancing SDG Localization and Digital Transformation project,Somalia,other,,UNDP Somalia and Ministry of Communications and Technology,,2025-09-03-undp-somalia-digital-skills-training-youth
 SSD,Rumbek ICT Hub,South Sudan,publicskills,,MTN South Sudan with Lakes State Government,,2026-09-09-techafricanews-mtn-south-sudan-rumbek-ict-hub
 SSD,Aweil ICT Hub,South Sudan,publicskills,,MTN South Sudan,,2026-08-31-techafricanews-mtn-south-sudan-aweil-ict-hub
 SSD,Digital Innovation for Skills and Knowledge (DISK) programme,South Sudan (Central Equatoria State),publicskills,,Central Equatoria State Ministry of Information and Communication,state,2026-07-30-central-equatoria-digital-skills-programme-8000
 SSD,Girls in ICT,South Sudan,publicskills,,"Ministry of Information, Communication Technology and Postal Services",national,2026-08-29-mictps-projects-government-enterprise-architecture
 SSD,Junub Academy National E-Learning Platform,South Sudan,publicskills,"MTN network, zero-rated",MTN South Sudan; Educare Organization South Sudan; Ministry of General Education and Instruction; Ministry of ICT and Postal Services,,2026-06-29-data-free-junub-academy-brings-ai-supported-education-to-south-sudan
+SSD,Bor ICT Hub,South Sudan,publicskills,,"Ministry of ICT and Postal Services, financed by MTN",,2025-11-06-ssd-mtn-partners-with-government-to-launch-bor-ict-hub-and-online-learning
 STP,Kitembu Digital,Sao Tome and Principe,publicskills,digital literacy centres,Ministry of Education with INIC and Taiwan,,2016-05-29-stp-rstp-reinauguracao-centro-kitembu-digital
 STP,Triangular Cooperation project for Principe digitalisation,Sao Tome and Principe,publicskills,,"Autonomous Government of Principe with Portugal (Camoes), Argentina (IPDAL, PAD), SEGIB",island,2025-06-24-stp-segib-cooperacao-triangular-digitalizacao-principe
+STP,Learning Passport STP,Sao Tome and Principe,other,Learning Passport,"Ministry of Education, Culture and Science with UNICEF",,2024-10-07-stp-teachers-becoming-digital-learning-champions-with-the-learning-passpor
 SWZ,nationwide coding program,Eswatini,publicskills,,Ministry of ICT,,2025-08-04-eswatini-ramps-up-tech-reform-legislation-5g
 SWZ,Macetjeni iHub,Eswatini,publicskills,,SEDCO,,2026-08-08-govt-launches-macetjeni-ihub-to-drive-digital-innovation
 SWZ,Macetjeni iHub,Eswatini,publicskills,,"ESCCOM, SEDCO and UNDP",,2026-08-07-eswatini-macetjeni-ihub-launch
@@ -130,23 +184,35 @@ SWZ,Coders Eswatini,Eswatini,publicskills,,Government of Eswatini with UAE,,2026
 SWZ,National Fourth Industrial Revolution Strategy,Eswatini,publicskills,,Government of Eswatini,,2026-07-06-eswatini-champions-human-centred-ai
 SWZ,National Fourth Industrial Revolution Strategy,Eswatini,publicskills,,Government of Eswatini,,2026-07-06-eswatini-pm-ai-rules-protect-children
 SWZ,Digital Eswatini (P508948),Eswatini,publicskills,,"Ministry of Information, Communication and Technology",,2025-06-28-digital-eswatini-project-pid
+SWZ,Udacity Coding Programme,Eswatini,publicskills,coderseswatini.gov.sz,Ministry of ICT with UAE,,2025-08-19-swz-300-000-emaswati-to-benefit-from-free-coding-programme
+SWZ,National Digital Skills Training Program,National Digital Skills Training Program 2025/2026,publicskills,,ESCCOM,,2026-03-07-swz-closing-the-digital-divide-a-nationwide-success-story
 TCD,UNESCO MIL digital skills project 3210652071,TCD,publicskills,,UNESCO,,2025-12-31-unesco-mil-digital-skills-project-status
 TCD,Iridimi Digital Learning Center,Chad,publicskills,ASU online learning platform,UNHCR and Government of Chad,,2025-10-28-sudan-unhcr-asu-iridimi-digital-learning-center
 TCD,Chad Digital Transformation Project,Chad,publicskills,,,,2024-09-25-worldbank-chad-digital-transformation-project-broadband
+TGO,D-CLIC,Togo,other,,OIF,,2025-05-15-tgo-francophonie-togo-244-jeunes-et-femmes-formes-avec-d-clic
 TZA,TCRA digital clubs,Tanzania,publicskills,,Tanzania Communications Regulatory Authority,national,2026-08-04-tcra-ups-support-for-mathematics-digital-clubs
 TZA,ICT Competency Standards for Teachers in Tanzania (ICT-CSTT),Tanzania,other,,"UNESCO, MoEST, TIE, PMO-RALG","Beginner, Intermediate, Advanced",2026-09-05-dailynews-tanzania-digital-education-teacher-training
 TZA,Digital Clubs,Tanzania,publicskills,,TCRA,,2026-09-04-tza-wtpf-session-ict-priorities
+TZA,Tanzania Digital Club,Tanzania,publicskills,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 UGA,MTN Ace,Uganda,other,,MTN Uganda,,2026-08-31-techafricanews-mtn-uganda-digital-skills
 UGA,Kasese ICT Hub,Uganda,other,,National Council for Persons with Disabilities with IDI Uganda,,2026-08-01-new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills
 UGA,MTN ACE Spark Innovation Hub programme,Uganda,publicskills,"regional digital innovation hubs at Kabale, Busitema, Gulu and Soroti universities and Nakawa Kampala",MTN Foundation Uganda with Ministry of ICT and National Guidance and Centenary Technology Services,national,2026-09-16-uga-nilepost-digital-hubs-must-equip-youth-for-jobs-ps-zawedde
 UGA,UCUSAF digital skills programmes,Uganda,publicskills,,Uganda Communications Commission,,2026-10-22-uga-uganda-s-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc
+UGA,DigiTruck,DigiTruck,publicskills,,Ministry of ICT and National Guidance,,2025-10-13-uga-digital-skilling-powering-uganda-s-future
+UGA,ICDL Africa partnership,ICDL Africa five-year agreement,publicskills,ICDL,Ministry of ICT and National Guidance,,2025-10-13-uga-digital-skilling-powering-uganda-s-future
+UGA,Digi-Truck,Uganda,publicskills,mobile classroom,"Ministry of Gender, Labour and Social Development with Huawei",,2025-09-10-uga-in-amuria-digital-lessons-on-wheels-offer-new-hope-for-ugandans
 ZAF,Digital Skills for Digital Jobs (DS4DJ),South Africa,other,,MTN South Africa,,2026-07-30-mtn-south-africa-graduates-80-youth-in-digital-skills-programme
 ZAF,Microsoft Skills for Jobs,South Africa,publicskills,,Microsoft,national,2025-03-06-microsoft-zar-5-4bn-south-africa
 ZAF,Digital Skills 4 Jobs and Income II,South Africa,publicskills,,BMZ / GIZ,,2024-01-01-bmz-zaf-001-beschaftigungsperspektiven-in-der-digitalen-welt-ii
 ZAF,National Digital Skills Plan,South Africa,publicskills,Digital Skills Impact Fund,The Collective X,,2026-10-16-techcabal-south-africa-digital-skills-jobs-152m
+ZAF,Ya Rona Digital Skills Massification Drive,South Africa,publicskills,,DCDT with NEMISA,,2024-03-01-zaf-minster-mondli-gungubele-launch-of-national-digital-skills-forum
+ZAF,NEMISA Digital Skills Programme,South Africa,publicskills,,NEMISA,,2025-06-23-zaf-pq-1084-hon-mr-s-k-sithole-ifp-to-ask-the-minister-of-communications-a
+ZAF,NEMISA,NEMISA,publicskills,,Department of Communications and Digital Technologies,,2024-10-23-zaf-deputy-minister-mondli-gungubele-digital-academies-in-africa-summit
 ZMB,Digital Transformation Centres Initiative,Zambia,publicskills,Youth Resource Centres,"SMART Zambia Institute with ITU and Ministry of Youth, Sport and Arts",national,2026-08-05-smart-zambia-itu-mpika-digital-skills
 ZMB,MTN Skills Academy,Zambia,other,mobile-friendly learning platform,MTN Zambia Foundation,,2026-09-30-zmb-afrikeye-mtn-zambia-foundation-nachiyaba-ict-hub
 ZMB,"Digital Transformation Centre, Mukwela",Zambia,publicskills,,SMART Zambia Institute,,2026-08-12-zambia-itu-kalomo-youth-centre-digital-inclusion
+ZMB,Girls in ICT Learn-A-Thon 2025,Girls in ICT Learn-A-Thon 2025,publicskills,Cisco Networking Academy,Smart Zambia Institute,,2025-04-24-zmb-smart-zambia-institute-launches-national-learn-a-thon-to-equip-girls-w
+ZMB,SMART Zambia Institute digital literacy programme,Zambia,publicskills,Digital Transformation Centre,SMART Zambia Institute,,2024-10-15-zmb-itu-and-norway-support-dtc-zambia-to-equip-more-than-240-cooperative-m
 ZWE,digital skills programme,Zimbabwe,publicskills,,"Ministry of ICT, Postal and Courier Services",,2026-07-17-zimbabwe-digital-roadmap-msme-growth
 ZWE,digital centres,Zimbabwe,publicskills,,government,,2026-07-17-zimbabwe-digital-roadmap-msme-growth
 ZWE,Potraz and Internet Society basic ICT skills training,Zimbabwe,publicskills,,Potraz; Internet Society Zimbabwe Chapter,,2026-06-23-potraz-internet-society-disability-digital-skills
@@ -157,3 +223,5 @@ ZWE,Nzwisiso.ai,Zimbabwe,publicskills,,Government of Zimbabwe,national,2026-06-2
 ZWE,Nzwisiso.ai,Zimbabwe,publicskills,,Government of Zimbabwe,national,2026-06-23-misa-ai-strategy-implications
 ZWE,Smart Zimbabwe 2030,Zimbabwe,publicskills,,"Ministry of ICT, Postal and Courier Services",,2025-03-26-zwe-technomag-ict-innovation-fund
 ZWE,Digital Villages,Zimbabwe,publicskills,,FAO with the Government of Zimbabwe,rural farmers,2025-07-11-zwe-from-soil-to-systems-how-zimbabwe-is-scaling-innovation-for-food-secur
+ZWE,Digital Skills Ambassadors Programme,Zimbabwe,publicskills,,"Ministry of ICT, Postal and Courier Services",,2026-03-12-zwe-zimbabwe-steps-up-digital-literacy-drive
+ZWE,digital centres / digital hubs,Zimbabwe,other,,"Ministry of ICT, Postal and Courier Services",,2026-03-12-zwe-zimbabwe-steps-up-digital-literacy-drive

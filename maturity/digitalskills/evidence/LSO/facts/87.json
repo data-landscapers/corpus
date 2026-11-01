@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-06-lso-lesotho-moves-forward-with-digital-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The government and UNDP launched a digital inclusion and digital literacy initiative in Maseru in August 2025, with 40 community digital ambassadors trained, said the information ministry's deputy principal secretary.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "digital inclusion and digital literacy initiative",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital inclusion and digital literacy initiative",
+   "country_label": "Lesotho",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Information, Communications, Science, Technology and Innovation with UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

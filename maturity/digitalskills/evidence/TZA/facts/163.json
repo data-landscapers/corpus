@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The report says the Tanzania Digital Club has 711 clubs with 766 teachers and 1,878 students, and 3,798 teachers were trained on ICT equipment.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Tanzania Digital Club",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tanzania Digital Club",
+   "country_label": "Tanzania",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
