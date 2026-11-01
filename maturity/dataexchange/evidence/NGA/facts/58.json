@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-19-nga-fg-orders-mdas-to-migrate-foreign-hosting-to-galaxy-backbone-in-digita",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Galaxy Backbone",
+   "country_label": "Galaxy Backbone Limited",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Nigeria (state-owned company)",
+   "tiers": ""
+  }
+ ],
+ "note": "Galaxy Backbone is named by directive as the government data exchange platform, but the document does not say it is live, being built or piloted, or what it links."
+}

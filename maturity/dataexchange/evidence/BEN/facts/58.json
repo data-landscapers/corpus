@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-ben-e-gouvernance-le-benin-et-la-mauritanie-a-l-ecole-estonienne-et-vice-v",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "A Benin official names a data exchange platform among the foundations of its digital state, beside identity, single portal, e-certificate and payment.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "plateforme d'echange de donnees",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
