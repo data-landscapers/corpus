@@ -4,16 +4,16 @@
     {
       "sub_indicator": "rule",
       "stage": "2",
-      "standing": "draft",
-      "open": "",
+      "standing": "in-force",
+      "open": "localised",
       "route": "",
       "africa": "ratified",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-001",
-      "gaps": "No source found saying the Data Protection Act has come into effect, or saying whether transfers go without the Commissioner's approval once it does.",
-      "note": "Rescored under Bill's ruling of 2026-10-31 (messages-for-bill 58): The Data Protection Act 2021 sets conditions on transfers in sections 70 and 71 [ZMB-001], but it starts on a date the Minister appoints and none is held, so it counts as a draft and the stage is 2. The 2020 Malabo ratification [ZMB-003, ZMB-005] sits above the break.",
-      "as_at": "2026-10-31"
+      "stage_sources": "ZMB-006;ZMB-007",
+      "gaps": "No source found says what exceptions the Minister has set to the rule keeping data in the Republic, or that the Commissioner has published a way to send data abroad.",
+      "note": "The Commissioner said in February 2024 that the Act's implementation began that month, with section 71 setting transfer conditions [ZMB-006]. Section 70(1) keeps processing and storage in the Republic save for exceptions the Minister sets [ZMB-007], so a rule keeping data at home stands beside the transfer rule and the stage is 2.",
+      "as_at": "2026-11-01"
     }
   ]
 }

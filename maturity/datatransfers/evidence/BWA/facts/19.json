@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-17-bwa-new-botswana-data-protection-act-progressive-step-to-a-more-secure-dig",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "MISA says sections 74 to 78 of the Act, in effect from 14 January 2025, restrict transfers abroad unless the recipient is adequate or safeguards apply.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Data Protection Act 18 of 2024",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "open",
+   "value": "open",
+   "fact": "MISA says transfers may go on an adequacy decision, safeguards such as standard clauses, or derogations including explicit consent, though a copy must be kept in Botswana and contract-based safeguards need the Commission's authorisation.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Data Protection Act 18 of 2024",
+   "class": "rule"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 18 of 2024",
+   "country_label": "Botswana",
+   "class": "rule",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

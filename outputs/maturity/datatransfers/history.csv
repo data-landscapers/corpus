@@ -67,3 +67,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-31,ZAF,gov.regional--cross-border-data-transfers,ladder,3,3,ZAF-001,"Rescored on the new ladder (Bill, messages-for-bill 58, 2026-10-31)"
 2026-10-31,ZMB,gov.regional--cross-border-data-transfers,ladder,2,2,ZMB-001,"Rescored on the new ladder (Bill, messages-for-bill 58, 2026-10-31)"
 2026-10-31,ZWE,gov.regional--cross-border-data-transfers,ladder,5,2,ZWE-001,"Rescored on the new ladder (Bill, messages-for-bill 58, 2026-10-31)"
+2026-11-01,ZMB,gov.regional--cross-border-data-transfers,fact,2,2,ZMB-006;ZMB-007,"Commissioner, Feb 2024: Act implementation began; s.71 transfer conditions and s.70(1) storage in the Republic. Standing draft -> in-force, open localised; stage 2 holds."

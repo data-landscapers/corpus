@@ -1,3 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZMB,rule,standing,coverage,in-force,2021-03-24,ZMB-001,,nothing dated since 2023-09-28
-ZMB,rule,use,coverage,,,,,nothing held
+ZMB,rule,standing,coverage,in-force,2024-02-23,ZMB-006,ZMB-001=draft,
+ZMB,rule,open,coverage,localised,2024-02-23,ZMB-002;ZMB-007,,
+ZMB,rule,route,coverage,,,,,nothing found
+ZMB,rule,africa,coverage,ratified,2020-12-15,ZMB-003;ZMB-005,ZMB-004=signed,nothing dated since 2023-11-01

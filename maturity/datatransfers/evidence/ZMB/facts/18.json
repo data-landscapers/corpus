@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-23-zmb-data-protection-commission-to-initiate-inspections-and-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Commissioner said Section 71 of the Data Protection Act sets conditions for cross-border data transfers.",
+   "as_of": "2024-02-23",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "open",
+   "value": "localised",
+   "fact": "The Commissioner said Section 70(1) mandates data processing and storage within the Republic, with exceptions set by the Minister.",
+   "as_of": "2024-02-23",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "rule"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Zambia",
+   "class": "rule",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

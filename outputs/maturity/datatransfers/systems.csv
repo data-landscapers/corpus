@@ -1,12 +1,14 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BFA,Loi relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel,Burkina Faso personal data protection law (2026 bill),rule,,ARCOD (Autorité de régulation de la communication et de la protection des données à caractère personnel),,2026-08-03-burkina-alp-adopte-loi-protection-donnees-surete-aerienne
 BWA,Agricultural Information Management System (AIMS),AIMS,other,,SADC Secretariat with FAO and EU; Ministry of Lands and Agriculture for Botswana,national,2026-06-15-botswana-agricultural-data-integration-sadc-aims
+BWA,Data Protection Act 18 of 2024,Botswana,rule,,,,2025-01-17-bwa-new-botswana-data-protection-act-progressive-step-to-a-more-secure-dig
 COD,Code du numerique,Code du numerique congolais,rule,,ARPTIC (data protection authority duties),,2025-01-01-autorite-protection-donnees-rdc
 COG,Commission nationale pour la protection des données à caractère personnel (CNPD),CNPD,other,,Government of Congo,,2025-03-29-cog-loi-5-2025-creation-commission-nationale-protection-donnees
 CPV,Data Protection Law (Law 133/V/2001 as amended by Law 41/VIII/2013 and Law 121/IX/2021),Lei de Protecção de Dados Pessoais,rule,,Comissão Nacional de Proteção de Dados Pessoais (CNPD),,2025-01-16-cape-verde-data-protection-law-dla-piper
 DJI,"Loi n° 019/AN/23/9ème L portant Code Numérique, Livre premier, art. 99-103",Code Numérique,rule,,Commission Nationale de Protection des Données à Caractère Personnel,,2025-09-18-djibouti-loi-019-code-numerique
 ETH,Personal Data Protection Proclamation,Personal Data Protection Proclamation (2024),rule,,Ethiopian Communications Authority,,2024-11-18-review-ethiopia-data-protection-act
 MAR,Act 09-08,Loi n° 09-08,rule,,Morocco; supervisory authority CNPD,,2012-10-18-coe-tpd-2012-09rev-avis-adhesion-maroc-convention-108
+MLI,Autorite de Protection des Donnees a caractere Personnel (APDP),Mali,other,,,,2026-02-03-mli-protection-des-donnees-l-apdp-ouvre-sa-premiere-session-ordinaire-de-2
 MWI,"Data Protection (Data Processors Engagement) Regulations, 2025 (draft)","Data Protection (Data Processors Engagement) Regulations, 2025",rule,,Malawi Communications Regulatory Authority (author); Minister of Information and Digitalization (maker),,2025-10-17-data-protection-data-processors-engagement-regulations
 MWI,Data Protection Act 2024,Data Protection Act 2024,rule,,Malawi Communications Regulatory Authority (data protection authority),,2024-01-01-malawi-data-protection-act-2024-overview
 MWI,Data Protection Handbook (MACRA),Data Protection Handbook,rule,,Malawi Communications Regulatory Authority,,2024-01-01-malawi-data-protection-act-2024-overview
@@ -20,3 +22,4 @@ TCD,Loi n°007/PR/2015 arts 29-32,Loi n°007/PR/2015,rule,,ANSICE,,2026-07-06-tc
 TUN,Loi organique n° 2004-63 du 27 juillet 2004,Loi organique n° 2004-63,rule,,Instance Nationale de Protection des Données à Caractère Personnel (INPDP),,2004-07-27-tunisie-loi-organique-2004-63-protection-donnees-transfert
 TUN,Tunisia adequacy list (2018),adequacy list,rule,,,,2026-06-15-africas-digital-future-depends-on-seamless-data-flows
 ZAF,Protection of Personal Information Act (POPIA),PoPIA,rule,,South African Information Regulator (SAIR),,2024-01-17-popia-protection-personal-information-act
+ZMB,Data Protection Act,Zambia,rule,,,,2024-02-23-zmb-data-protection-commission-to-initiate-inspections-and-enforcement

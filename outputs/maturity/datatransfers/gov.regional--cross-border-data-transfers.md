@@ -272,9 +272,10 @@ Tunisia's 2004 law makes every transfer abroad wait on the authority's prior aut
 
 ### Zambia: 2 Nascent
 
-Zambia enacted a data protection law in 2021 with transfer conditions, but no start date is on file; it ratified the Malabo Convention in 2020.
+The data law has been in force since 2024 but keeps personal data in Zambia unless the Minister allows otherwise; the exceptions are not known.
 
-- Zambia's Data Protection Act No. 3 of 2021, enacted 24 March 2021, sets conditions in Part X (sections 70-71) for sending personal data outside the Republic: data subject consent plus Commissioner-approved standard contracts or intragroup schemes, or a Ministerial prescription of permissible transfers on an adequate-level-of-protection test, or Commissioner approval of a transfer in necessity; sensitive personal data must stay in the Republic; the Act itself says it commences on a date the Minister appoints by statutory instrument, and the document gives no commencement date ([source, 2021-03-24](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf)).
+- The Commissioner said Section 71 of the Data Protection Act sets conditions for cross-border data transfers ([source, 2024-02-23](https://zambia24.com/2024/02/23/data-protection-commission-to-initiate-inspections-and-enforcement/)).
+- The Commissioner said Section 70(1) mandates data processing and storage within the Republic, with exceptions set by the Minister ([source, 2024-02-23](https://zambia24.com/2024/02/23/data-protection-commission-to-initiate-inspections-and-enforcement/)).
 
 ### Zimbabwe: 2 Nascent
 
