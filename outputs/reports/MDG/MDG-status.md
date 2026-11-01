@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 257
+sources_cited: 258
 sections_written: 39
 not_established: 2
 acquire_lines: 25
@@ -376,7 +376,7 @@ Digital delivery reaches few — [buying anything online remains marginal](https
 
 Around four in five Malagasy [did not use the internet in 2024](https://www.ecofinagency.com/news-digital/0707-57146-madagascar-s-parliament-calls-for-faster-network-rollout-in-underserved-areas), and internet use sits far below mobile-phone penetration of 44.4%, so network reach is not the whole of it. [Mobile internet costs several times the UN affordability benchmark](https://www.ecofinagency.com/news-digital/2410-49797-madagascar-presses-telecoms-to-slash-high-mobile-data-prices), and in December 2025 the state and the operators [announced an agreement to bring tariffs down gradually](https://www.lexpress.mg/2025/12/connectivite-baisse-annoncee-des-tarifs.html), the state offering excise-duty relief against reinvestment in network quality. The Ibrahim Index records the same split from the other side: [internet and computer access has barely moved over the decade while mobile telephony has advanced far faster](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mg.pdf).
 
-The divide is geographic before it is anything else. [Rural electricity access runs far below urban](https://tradingeconomics.com/madagascar/access-to-electricity-rural-percent-of-rural-population-wb-data.html), and the regulator ARTEC published [the country's first region-level 4G coverage figures](https://fr.linkedin.com/posts/autorit%C3%A9-de-r%C3%A9gulation-des-technologies-de-communication_artecvousinforme-artecleschiffres-cartor%C3%A9seau-activity-7374409542408855552-38_A) in September 2025, covering the four regions of the deep south and none of the rest.
+The divide is geographic before it is anything else. [The statistics institute's 2021-2022 household survey found 7.1% of the population with internet access, 2.7% in rural areas against 20.4% in the capital's urban area](https://www.instat.mg/documents/upload/main/INSTAT_Epm21-22_06-2024.pdf). [Rural electricity access runs far below urban](https://tradingeconomics.com/madagascar/access-to-electricity-rural-percent-of-rural-population-wb-data.html), and the regulator ARTEC published [the country's first region-level 4G coverage figures](https://fr.linkedin.com/posts/autorit%C3%A9-de-r%C3%A9gulation-des-technologies-de-communication_artecvousinforme-artecleschiffres-cartor%C3%A9seau-activity-7374409542408855552-38_A) in September 2025, covering the four regions of the deep south and none of the rest.
 
 Where the state digitises, the exclusion follows the same contours. The e-Facturation decree [phases electronic invoicing in with large enterprises first and acknowledges that many small and medium firms have neither the computer tools nor a stable connection to comply](http://mail.mfb.gov.mg/assets/file/communique/31674.pdf), promising training rather than exemption. In payments, [registered mobile money accounts outnumber active ones several times over](https://fred.stlouisfed.org/series/MDGFCMAANUM). Launching the 2025–2026 school digital-kit deployment in May 2026, the president of Orange Solidarité Madagascar [named the gap on the record](https://gasikaranews.com/analamanga-le-ceg-nanisana-au-coeur-du-deploiement-des-ecoles-numeriques/), framing the equipment as a response to it rather than a pedagogical upgrade.
 
