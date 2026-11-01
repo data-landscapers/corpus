@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-moz-mctd-aposta-no-polo-digital-de-nampula",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The ATDI technology and inclusive incubator in Nampula runs a 45-day pre-incubation programme with a current cohort of seven startups, and has supported 66 startups from four hackathons (33 pre-incubation, 13 incubation, 20 acceleration), while the Tech Hub building is being rehabilitated.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "Incubadora Tecnologica e Inclusiva da ATDI (Nampula)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Incubadora Tecnologica e Inclusiva da ATDI, Nampula",
+   "country_label": "Mozambique",
+   "class": "hub",
+   "platform": "",
+   "owner": "ATDI under the Ministry of Communications and Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

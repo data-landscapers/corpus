@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-16-mwi-digmap-luntha-ndi-chuma-initiative-for-human-capital-development",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The DIGMAP 'Luntha ndi Chuma' initiative, funded by the World Bank, runs through 9 tech hubs, including NXTGen Labs-Mpemba Training Centre in Blantyre, which teaches digital and entrepreneurship courses; no startup incubation cohort is described.",
+   "as_of": "2024-01-16",
+   "date_precision": "day",
+   "system": "NXTGen Labs-Mpemba Training Centre",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NXTGen Labs-Mpemba Training Centre",
+   "country_label": "Malawi",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": "Blantyre"
+  }
+ ],
+ "note": ""
+}

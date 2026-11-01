@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-05-mli-malian-youth-take-up-the-challenge-of-digitalization",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The International Trade Centre names the Complexe Numérique de Bamako as a digital innovation hub that collaborated on its 2023 and 2024 youth digital-skills training; no incubation programme for startups is described.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Complexe Numérique de Bamako",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Complexe Numérique de Bamako",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": "Bamako"
+  }
+ ],
+ "note": ""
+}

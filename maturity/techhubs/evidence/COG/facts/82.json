@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-04-cog-congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informat",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Unesco-Codemao Youth Coding Initiative in the Republic of Congo led to the creation of an incubator, per the Shenzhen forum results reported by the Agence Congolaise d'information, with no programme or cohort stated.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Incubator (Unesco-Codemao Youth Coding Initiative)",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
