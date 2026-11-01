@@ -1,13 +1,13 @@
 ---
-title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-31
-period: 2026-09-01 to 2026-10-31
+title: Cybersecurity — News, October – November 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 subject: infra.cybersec
-places: BEN; BFA; CMR; CPV; TCD; COM; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1bf551ca7f71
+places: BEN; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; ZMB; ZWE
+record: 368323a564f4
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#benin">Benin</a>
@@ -15,12 +15,6 @@ record: 1bf551ca7f71
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#cape-verde">Cape Verde</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#chad">Chad</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -46,13 +40,9 @@ record: 1bf551ca7f71
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#malawi">Malawi</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -70,34 +60,12 @@ record: 1bf551ca7f71
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#tanzania">Tanzania</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#togo">Togo</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#tunisia">Tunisia</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#uganda">Uganda</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
 ## Benin
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Club of information-security officers (Club des RSSI)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cybersécurité au Bénin: Le club des Rssi porté sur les fonts baptismaux](https://lanation.bj/actualites/cybersecurite-au-benin-le-club-des-rssi-porte-sur-les-fonts-baptismaux)** — La Nation Bénin, 29 September 2026
-
-Benin's information security officers founded a professional club at a constituent general assembly on 26 September 2026, adopting statutes and electing an 11-member board chaired by Athanase Atchome. The club plans training, workshops, experience sharing and promotion of international security standards across public and private institutions.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -117,29 +85,7 @@ Benin's National Centre for Digital Investigations, CNIN, which reports to the P
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Cybercrime brigade awareness studio</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Lutte contre les fake news : La BCLCC se dote d’un studio pour renforcer la sensibilisation des internautes](https://lefaso.net/spip.php?article149120)** — leFaso.net, 8 September 2026
-
-Burkina Faso's central anti-cybercrime brigade, the BCLCC, has set up an audiovisual studio to produce public awareness content on online risks. Short videos will debunk false information and explain how to verify it, and other content will cover protecting personal data and accounts. No cost or launch date is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Reported financial loss to cybercrime</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[\[Interview\] cybercriminalité au Burkina, un préjudice de 1,7 milliards de FCFA enregistré en 2025, (Lieutenant Napougba Julien Legma)](https://libreinfo.net/cybercriminalite-au-burkina-2/)** — Libreinfo.net, 14 September 2026
-
-Burkina Faso recorded FCFA 906,123,245 in cybercrime losses in the first half of 2026, against FCFA 1.7 billion for the whole of 2025, Lieutenant Napougba Julien Legma of the central anti-cybercrime brigade said in an interview published on 14 September 2026. More than 1,000 complaints have been lodged so far this year.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -169,20 +115,6 @@ Burkina Faso's information systems security agency ANSSI launched a national net
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Cybercrime complaints and incidents recorded by the ICT agency</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Lutte contre la cybercriminalité: La riposte nationale s'organise](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise)** — Cameroon Tribune, 30 September 2026
-
-Cameroon's ICT agency ANTIC reported 17,500 cybercrime complaints in 2025 with declared losses of 5.8 billion FCFA, at a cyberspace-security forum it co-hosts with the Russian embassy in Yaoundé. Since January it has counted 21,280 compromised machines and 39 attacks on government websites.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Security-audit condition for access to the national aggregation platform</p>
 
 <div class="bulletin-item" markdown="1">
@@ -198,54 +130,6 @@ About 100 fintech firms met in Mbankomo for a three-day forum on security and re
 **[Cameroon warns of rising fintech cyberthreats](https://www.itweb.africa/article/cameroon-warns-of-rising-fintech-cyberthreats/JN1gPvOAQJrMjL6m)** — ITWeb Africa, 30 October 2026
 
 Cameroon's ICT agency ANTIC said it has audited 108 fintech companies and found 3,914 vulnerabilities. Its director-general spoke at the Digitize Cameroon forum in Mbankomo, which opened on 28 October 2026. Since an April 2025 ministry decision, platforms need ANTIC-verified security compliance to reach the national aggregation platform.
-
-</div>
-
-</div>
-
-## Cape Verde
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Impersonation phishing against the postal operator</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Correios de Cabo Verde alertam para mensagens fraudulentas](https://expressodasilhas.cv/pais/2026/09/08/correios-de-cabo-verde-alertam-para-mensagens-fraudulentas/104509)** — Expresso das Ilhas, 8 September 2026
-
-Cabo Verde's postal operator, Correios de Cabo Verde, warned on 8 September 2026 that people impersonating its staff are sending messages asking recipients to click a link named 'Correios.ink/cv'. The operator said the link is not its own and advised the public not to click it or share personal or banking details.
-
-</div>
-
-</div>
-
-## Chad
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Ministry circular banning official documents on messaging apps</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Tchad : le ministère de la Femme durcit le ton contre la fuite de documents sur les réseaux sociaux](https://alwihdainfo.com/tchad-le-ministere-de-la-femme-durcit-le-ton-contre-la-fuite-de-documents-sur-les-reseaux-sociaux/)** — Alwihda Info, 25 September 2026
-
-Chad's Ministry of Women and Early Childhood banned the sending of official documents over WhatsApp, Messenger and other mobile apps, in a circular signed by Minister of State Kitoko Gata Ngoulol and reported on 25 September 2026. It found that officials, including senior staff, routinely shared correspondence and decisions this way; breaches are now disciplinary faults. The circular's date is not given.
-
-</div>
-
-</div>
-
-## Comoros
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Information-security memorandum with Russia</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Comores-Russie I Une cooperation bilaterale appelee a «franchir un nouveau cap»](https://alwatwan.net/politique/comores-russie-i-une-coop%C3%A9ration-bilat%C3%A9rale-appel%C3%A9e-%C3%A0-%C2%ABfranchir-un-nouveau-cap%C2%BB.html)** — Al-Watwan, 17 September 2026
-
-A Russian embassy delegation visiting the Comoros took up with the telecommunications minister the information-security memorandum the two governments had already initialled, covering professional training, skills-building and action against cybercrime. The Comorian side proposed a further document on training Comorian trainers; the same visit prepared the opening of a Russian embassy in Moroni.
 
 </div>
 
@@ -355,21 +239,21 @@ Eswatini held its first national cyber drill on 5 October: a multi-sector ransom
 
 </div>
 
-## Ethiopia
-
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Financial Sector Cybersecurity Forum</p>
+<p class="monthly-story__name">Score on the ITU Global Cybersecurity Index</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[Ethiopia establishes financial sector cybersecurity forum to improve digital resilience](https://techreviewafrica.com/news/7510/ethiopia-establishes-financial-sector-cybersecurity-forum-to-improve-digital-resilience)** — Tech Review Africa, 30 September 2026
+**[Eswatini's cybersecurity score quadruples](https://eswatinipositivenews.online/eswatinis-cybersecurity-score-quadruples/)** — Eswatini Positive News, 29 October 2026
 
-Ethiopia set up a Financial Sector Cybersecurity Forum on 29 September, chaired jointly by the cyber agency INSA and the National Bank, for threat sharing and coordinated incident response across financial institutions.
+Eswatini's ICT minister told a cybersecurity conference in Sandton in October 2026 that parliament is considering ratification of the AU Malabo Convention. The minister cited a cybercrime law, a data protection law and an operational national CIRT. Eswatini's ITU Global Cybersecurity Index score rose from 18.23 to 79.43 in the 2024 edition.
+
+</div>
 
 </div>
 
-</div>
+## Ethiopia
 
 <div class="monthly-story" markdown="1">
 
@@ -389,28 +273,6 @@ CIPESA marks Global Encryption Day with a commentary on Global Partners Digital'
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Recorded intrusion alerts</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cybermenaces : 900 000 alertes en 60 jours, le Gabon passe en vigilance renforcée](https://www.gabonreview.com/cybermenaces-900-000-alertes-en-60-jours-le-gabon-passe-en-vigilance-renforcee/)** — GabonReview, 8 September 2026
-
-More than 900,000 intrusion alerts were recorded in Gabon over 60 days, some rated very critical, after several attacks on national bodies. Digital economy minister Mark-Alexandre Doumba said on 7 September 2026 that the government had raised its vigilance level and called on administrations, firms and citizens to treat cybersecurity as a permanent duty.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cybermenaces : ce que l’ANINF dit vraiment des 900 000 alertes qui font polémique](https://www.gabonreview.com/cybermenaces-ce-que-laninf-dit-vraiment-des-900-000-alertes-qui-font-polemique/)** — GabonReview, 10 September 2026
-
-Gabon's national agency pushed back against reading its 900,000 intrusion alerts as evidence of a vulnerable national digital system, saying the figure shows a system capable of seeing threats rather than one already submerged by them. In a dossier seen by the publication it addresses the confusions in the public reaction and the controversy over firewalls.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">ANINF-Kaspersky cybersecurity competence centre, Libreville</p>
 
 <div class="bulletin-item" markdown="1">
@@ -427,21 +289,13 @@ At a Kaspersky seminar in Libreville on 7 October 2026, an agreement between Gab
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Reported cybercrime losses and incident reports</p>
+<p class="monthly-story__name">Central bank fraud intelligence hub</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[AI now enables 55% of cybercrime in Africa as losses hit $484m – CID](https://www.gbcghanaonline.com/general/ai-now-enables-55-of-cybercrime-in-africa-as-losses-hit-484m-cid/2026/)** — GBC Ghana Online (Ghana Broadcasting Corporation), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[BoG to strengthen fraud control as digital finance grows](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751)** — GhanaWeb, 1 October 2026
 
-Ghana's police CID put Interpol's 2026 African Cyber Threat Assessment on the record at the awareness month launch: AI now enables 55% of reported cybercrime in Africa, with related losses of $484 million. CID director-general COP Lydia Yaako Donkor described generative AI supplying convincing phishing messages, cloned voices and synthetic images and video, with cryptocurrency, mule accounts and fraudulent investment schemes moving the proceeds — an industrialised, borderless ecosystem rather than isolated offending. She tied Ghana's exposure directly to the spread of mobile money, internet banking and instant transfers.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Ghana records GH¢209m in cybercrime losses in nine months](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-records-ghc209m-in-cybercrime-losses-in-nine-months.html)** — Graphic Online, 15 October 2026
-
-Ghana's Cyber Security Authority recorded GH¢209.7m in losses from 4,938 reported cyber incidents in the first nine months of 2026, against GH¢22.5m for the whole of 2025. Online fraud made up 48% of cases, and the authority says it works with Meta and TikTok to take down child sexual exploitation material.
+The Bank of Ghana said on 1 October 2026 that it is building a fraud intelligence hub for financial institutions to share emerging fraud patterns, and has revised its Cyber and Information Security Directive for AI, cloud and data-security risks. Its information security director put mobile money flows above GH¢40 billion in June 2026.
 
 </div>
 
@@ -451,54 +305,11 @@ Ghana's Cyber Security Authority recorded GH¢209.7m in losses from 4,938 report
 
 <p class="monthly-story__name">National computer emergency response team</p>
 
-
 <div class="bulletin-item" markdown="1">
 
 **[Cyber Security Authority (CSA) Ghana opens NCSAM 2026 with call for stronger cybersecurity collaboration](https://techreviewafrica.com/news/7574/x)** — Tech Review Africa, 5 October 2026
 
 Ghana's Cyber Security Authority opened its 2026 awareness month with a call for banks, fintechs and telecoms operators to share threat information as routine. The national response team recorded 3,876 incidents between January and July 2026, about 47% of them online fraud.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital fraud incidents</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Digital fraud incidents rise 98% between 2022 and 2025 – BoG](https://www.myjoyonline.com/digital-fraud-incidents-rise-98-between-2022-and-2025-bog/)** — MyJoyOnline, 10 September 2026
-
-Ghana's central bank says digital fraud incidents rose 98 per cent between 2022 and 2025 as financial criminals exploited the growth in digital transactions. Its second deputy governor said fraudsters increasingly targeting digital platforms, as more people pay and transfer electronically, requires a significant change in how financial crime is tackled.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Ghana Cybersecurity Industry Forum</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GCIF cautions public as criminals deploy AI in phishing attacks](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/)** — MyJoyOnline, 25 September 2026
-
-The Ghana Cybersecurity Industry Forum, the industry body provided for under the Cybersecurity Act, 2020, warned at an Accra news conference that criminals are using AI to make phishing messages convincing. It named a skills shortage as its main challenge and set out student engagement, a virtual assets workshop and community roadshows for October to December 2026.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Central bank fraud intelligence hub</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[BoG to strengthen fraud control as digital finance grows](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751)** — GhanaWeb, 1 October 2026
-
-The Bank of Ghana said on 1 October 2026 that it is building a fraud intelligence hub for financial institutions to share emerging fraud patterns, and has revised its Cyber and Information Security Directive for AI, cloud and data-security risks. Its information security director put mobile money flows above GH¢40 billion in June 2026.
 
 </div>
 
@@ -550,6 +361,20 @@ A second account of the Ghana Cyber Security Authority's statement on Operation 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Reported cybercrime losses and incident reports</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana records GH¢209m in cybercrime losses in nine months](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-records-ghc209m-in-cybercrime-losses-in-nine-months.html)** — Graphic Online, 15 October 2026
+
+Ghana's Cyber Security Authority recorded GH¢209.7m in losses from 4,938 reported cyber incidents in the first nine months of 2026, against GH¢22.5m for the whole of 2025. Online fraud made up 48% of cases, and the authority says it works with Meta and TikTok to take down child sexual exploitation material.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Government Digital Assurance Programme (GovDAP)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -563,74 +388,6 @@ Ghana's Cyber Security Authority and NITA issued a joint alert on 22 October 202
 </div>
 
 ## Kenya
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Cyber threat events recorded by the communications regulator</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Web attacks up 44pc as hackers target State, ISP systems](https://nation.africa/kenya/business/web-attacks-up-44pc-as-hackers-target-state-isp-systems-5581506)** — Daily Nation, 3 September 2026
-
-The Communications Authority of Kenya reported a 43.7% rise in web application attacks in the quarter to June 2026, with government systems and internet service providers the main targets. Total cyber threat events fell 30% to 2.36 billion. The regulator advised organisations to disable SSL 3.0, replace end-of-life products and apply patches promptly.
-
-</div>
-
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Guide to the investigation and prosecution of cybercrime</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Investigation and Prosecution of Offences Under the Computer Misuse and Cybercrimes Act, Cap 79C: A Rapid Reference Guide](https://nc4.go.ke/regulations/rapid-reference-guide/)** — National Computer and Cybercrimes Coordination Committee (NC4), with the Office of the Director of Public Prosecutions and the National Police Service, Kenya, 3 September 2026
-
-Kenya's National Computer and Cybercrimes Coordination Committee, with the Director of Public Prosecutions and the National Police Service, launched a 140-page guide to investigating and prosecuting offences under the Computer Misuse and Cybercrimes Act on 3 September 2026. It covers 29 offences with 30 sample charges and seven court application templates, and omits sections 22 and 23, which the Court of Appeal declared unconstitutional.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Kenya unveils guide to standardise cybercrime investigation and prosecution](https://www.the-star.co.ke/news/2026-09-03-kenya-rolls-out-new-cybercrime-playbook-as-digital-threats-grow)** — The Star (Kenya), 3 September 2026
-
-Kenya launched a guide to investigating and prosecuting cybercrime under the Computer Misuse and Cybercrimes Act on 3 September 2026, listing 76 offences with sample cases. Internal Security Principal Secretary Raymond Omollo said it also covers cross-border cooperation and evidence preservation as Kenya pursues accession to the Budapest Convention. Cybercrime is put at about Sh29 billion a year.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Cybersecurity Agency</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Safer cyberspace beckons as State firms up oversight agency](https://www.the-star.co.ke/news/2026-09-11-kenya-steps-up-push-to-get-new-cyber-agency-running)** — The Star, 11 September 2026
-
-Kenya's National Cybersecurity Agency has a Director General in post but is not yet fully operational, according to a government implementation committee communiqué reported on 11 September 2026. Recruitment of technical and administrative staff and board appointments are still under way. Parliament received the memorandum for Legal Notice No. 89 of 2026, the order establishing the agency, in June.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[CSs, CJ Koome Make New Appointments as Lorna Ogolla Joins NCA](https://www.kenyans.co.ke/news/127007-css-cj-koome-make-new-appointments-lorna-ogolla-joins-nca)** — Kenyans.co.ke, 12 September 2026
-
-Kenya's interior cabinet secretary, Kipchumba Murkomen, appointed Lorna Ogolla Omondi and Jerop Joy Kibor to the board of the National Cybersecurity Agency for three-year terms, in a gazette notice dated 11 September 2026. The same round of notices named a chair and four members of the Kenya National Innovation Agency board.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Kenya Appoints Two Members To National Cybersecurity Agency Board](https://cioafrica.co/kenya-appoints-two-members-to-national-cybersecurity-agency-board/)** — CIO Africa, 14 September 2026
-
-Kenya's interior minister Kipchumba Murkomen appointed Lorna Omondi Ogolla and Joy Kibor to the board of the new National Cybersecurity Agency for three years, effective 11 September 2026 under Gazette Notice 14420. Ogolla leads Google Research's machine-learning and AI partnerships in Africa; Kibor heads postgraduate ICT studies at Zetech University.
-
-</div>
-
-</div>
-
 
 <div class="monthly-story" markdown="1">
 
@@ -654,54 +411,6 @@ Kenya's ICT minister told the Senate that the national incident response centre'
 
 <div class="bulletin-item" markdown="1">
 
-**[Liberia's Free-Speech Balancing Act and What the Cybercrime Law Actually Changed](https://frontpageafricaonline.com/liberias-free-speech-balancing-act-and-what-the-cybercrime-law-actually-changed/)** — FrontPageAfrica, 11 September 2026
-
-A FrontPageAfrica commentary compares Liberia's Cybercrime Act of 2025, whose printed text is marked approved on 3 July 2026, with the 2019 Kamara Abdullah Kamara Act that decriminalised sedition and criminal libel of the President. It sets out the Act's speech-related offences, including cyberstalking and harmful data messages, and a judge-ordered interception power. It also notes a pending amendment, introduced in March 2026, to criminalise insulting language online.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Liberia's New Cybercrime Law: The New Digital Police Power and the Fight Over Free Speech](https://smartnewsliberia.com/liberias-new-cybercrime-law-the-new-digital-police-power-and-the-fight-over-free-speech/)** — Smart News Liberia, 19 September 2026
-
-Liberia's Cybercrime Act of 2025 has been published as approved law, and its first public test is a warning by the Executive Protection Service director, Sam Gaye, that makers of manipulated material meant to insult or harass could be prosecuted. It followed an arrest over a doctored video of Vice-President Jeremiah Kpan Koung. The article weighs this against the constitution's free-expression guarantee.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Koung Seeks Release of AI Image Suspect](https://www.thenewdawnliberia.com/koung-seeks-release-of-ai-image-suspect/)** — The New Dawn Liberia, 21 September 2026
-
-Liberia's vice-president Jeremiah Koung asked for the release of Jerry Nyantee Wrotto, whom police detained under the Cybercrime Act over AI-made images and videos of Koung, and said he would not press charges. It is one of the first high-profile uses of the Act, signed on 19 August 2026 with the Data Protection Act. The head of the Executive Protection Service defended the arrest, while critics including former finance minister Samuel Tweah said the Act's cyberbullying clauses cover protected speech.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Liberia's Cybercrime Law Faces Its First Real Trial as VP Koung case exposes Liberia's widening fault lines](https://frontpageafricaonline.com/liberias-cybercrime-law-faces-its-first-real-trial-as-vp-koung-case-exposes-liberias-widening-fault-lines/)** — FrontPage Africa, 21 September 2026
-
-A second account of the Wrotto arrest, summarised under the New Dawn report. It adds a justice ministry prosecutor's view that the state, not the vice-president, decides whether a prosecution goes ahead, and notes that the Act does not mention AI or deepfakes.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Liberia: CDC Prepares to Take Cybercrime Law Fight to Supreme Court After Wrato Release](https://frontpageafricaonline.com/liberia-cdc-prepares-to-take-cybercrime-law-fight-to-supreme-court-after-wrato-release/)** — FrontPage Africa, 23 September 2026
-
-Liberia's opposition CDC says it will ask the Supreme Court to rule on the constitutionality of the Cybercrime Act of 2025. The move follows the court-ordered release on 22 September of commentator Jerry Nyantee Wrato, whom police intended to prosecute under the Act over AI-generated images of the Vice President.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Liberia: Judge Gives Police 'Last Opportunity' in Cybercrime Suspect's Detention Case](https://frontpageafricaonline.com/liberia-judge-gives-police-last-opportunity-in-cybercrime-suspects-detention-case/)** — FrontPage Africa, 25 September 2026
-
-A Monrovia criminal court gave the police a last opportunity to justify holding Jerry Nyantee Wrato, a suspect under the Cybercrime Act, after no officer appeared for the second time. The judge found the state had not shown the case was lawfully before the court and postponed the habeas corpus hearing to 25 September.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
 **[Senator Dopoh Accuses Executive of Prematurely Enforcing Cybercrime Law, Demands Key Safeguards](https://liberianinvestigator.com/dopoh-liberia-cybercrime-law-enforcement-safeguards/)** — The Liberian Investigator, 16 October 2026
 
 Liberian Senator Francis Dopoh, chair of the Senate Committee on Posts and Telecommunications, told the Senate on 15 October 2026 that the Executive is enforcing the new Cybercrime Law before setting up the Cybersecurity Council and specialised cybercrime team it requires. He asked the Senate to notify the Executive and demand corrective measures, following the reported arrest of a man accused of posting AI-generated images of the Vice President.
@@ -711,20 +420,6 @@ Liberian Senator Francis Dopoh, chair of the Senate Committee on Posts and Telec
 </div>
 
 ## Libya
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Integrated national cybersecurity plan</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[مناقشة وضع خطة وطنية متكاملة للأمن السيبراني](https://lana.gov.ly/post.php?id=365878&lang=ar)** — وكالة الأنباء الليبية (وال), 20 September 2026
-
-Libya's minister of state Mohammed bin Ghalboun chaired a meeting in Tripoli on 20 September 2026 on drawing up an integrated national cybersecurity plan, with the heads of the cybersecurity authority, the General Information Authority and the national information security authority. It covered cyber emergency plans, early warning, incident response and a joint mechanism to monitor compliance. No plan text or deadline was published.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -770,73 +465,7 @@ Madagascar's digital development ministry handed computers on 21 October 2026 to
 
 </div>
 
-## Malawi
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Consumer exposure to online scams</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[MACRA sounds alarm over rising digital scams](https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/)** — Malawi24, 4 September 2026
-
-The Malawi Communications Regulatory Authority issued a public warning about rising fraud against mobile money users, reported on 4 September 2026. It listed fake social cash transfer messages, spoofed transaction alerts, fake prizes and hijacked WhatsApp accounts. It said government bodies and charities running cash transfers do not ask beneficiaries for money by SMS or WhatsApp.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Regulator's social media monitoring system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Questions grow over Malawi's social media monitoring system amid oversight concerns](https://www.nyasatimes.com/questions-grow-over-malawis-social-media-monitoring-system-amid-oversight-concerns/)** — Nyasa Times, 8 September 2026
-
-The Malawi Communications Regulatory Authority installed a social media monitoring system in January 2025 under a $1.5 million contract awarded to Hashcom Ghana Limited 15 days earlier. More than a year on, no published document shows whether it ran during the September 2025 election, what data it collected or who had access. MACRA declined to comment pending an audit.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[PART 2: A Ghanaian contractor, a $1.5 million contract, and a surveillance system that remains unexplained](https://moz24h.co.mz/part-2-a-ghanaian-contractor-a-1-5-million-contract-and-a-surveillance-system-that-remains-unexplained/)** — Moz24h, 10 September 2026
-
-Malawi's communications regulator MACRA bought a $1.5 million social-media monitoring system from Ghana's Hashcom, and more than a year on no institution has said publicly what it collects or who can access it. Civil society letters to MACRA's board, Parliament and the President in early 2025 did not halt it. The human rights commission abandoned a planned inspection, citing a lack of technical expertise.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Mobile-money scams traced to prisons</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[90% of scams linked to prisons](https://malawi24.com/2026/09/15/90-of-scams-linked-to-prisons/)** — Malawi24, 15 September 2026
-
-Malawi's communications regulator, MACRA, said prisoners are behind up to 90% of reported mobile money scams, with Zomba Maximum Security Prison a major source. Methods include SIM swaps, fake promotions, calls demanding border clearance fees for non-existent parcels, and WhatsApp account takeovers. No measures by the prison service or network operators are reported.
-
-</div>
-
-</div>
-
 ## Mauritania
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Internet resilience score</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Mauritania — Internet Society Pulse country report](https://pulse.internetsociety.org/en/reports/mr/)** — Internet Society Pulse, 16 September 2026
-
-The Internet Society rates Mauritania's internet resilience at 43%, with 3% of the 1,000 most-visited websites served from local servers or caches against a 50% target. About 46% of the population uses the internet.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -878,22 +507,6 @@ The government and Meta held a full-day workshop at Ebene on 7 October 2026, ope
 **[Request for Proposal: Supply and Implementation of a Threat Intelligence Sharing Platform for the Banking sector](https://www.bom.mu/media/media-releases/request-proposal-supply-and-implementation-threat-intelligence-sharing-platform-banking-sector-0)** — Bank of Mauritius, 20 October 2026
 
 The Bank of Mauritius is tendering for the supply and implementation of a threat intelligence sharing platform for the banking sector. Encrypted bids close on 20 November 2026.
-
-</div>
-
-</div>
-
-## Morocco
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Cyber Security Index score</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[NCSI :: Morocco](https://ncsi.ega.ee/country/ma/)** — e-Governance Academy, 11 September 2026
-
-The index version of 11 September 2026 gives Morocco full marks on critical information infrastructure (12 of 12). It also gives full marks on personal data protection (4 of 4). Cybersecurity policy scores 12 of 15. Cyber crisis management scores 2 of 9, and military cyber defence 2 of 6.
 
 </div>
 
@@ -951,71 +564,13 @@ Mozambique's ICT institute INTIC was elected to the management committee of ANCA
 
 **[Detidos por fraude no registo de cartões de telemóveis](https://www.jornalnoticias.co.mz/destaque/detidos-por-fraude-no-registo-de-cartoes-de-telemoveis/)** — Jornal Notícias, 29 October 2026
 
-Five operator staff held in Zambézia; third parties' voter cards used to register SIMs for commissions.
+Mozambique's criminal investigation service detained five mobile operator staff in Zambézia province on 29 October 2026. They are accused of registering SIM cards with other people's voter cards, and the SIM cards were then used for cybercrime. One suspect said he did it to meet monthly registration targets and earn commission.
 
 </div>
 
 </div>
 
 ## Namibia
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Regulator as root certification authority</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Government told to stop making citizens carry ID copies](https://observer24.com.na/government-told-to-stop-making-citizens-carry-id-copies/)** — observer24.com.na, 1 September 2026
-
-Namibia's National Root Certification Authority, operated by the communications regulator at the top of the country's digital trust chain, is technically live after a key-signing ceremony; the electronic signature provisions of the transactions act took effect on 15 June 2026.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Home Affairs becomes Namibia's first certification service provider](https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/)** — New Era, 3 September 2026
-
-Namibia's communications regulator, CRAN, accredited the Ministry of Home Affairs, Immigration, Safety and Security as the country's first certification service provider under the Electronic Transactions Act of 2019, announced in Windhoek in the week of 3 September 2026. The four-year accreditation lets the ministry issue digital certificates and encryption keys for government services, following a key signing ceremony on 28 August.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Global Cybersecurity Initiative</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Global Cybersecurity Initiative: Unifying Africa via Cybersecurity](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/)** — The Villager Newspaper, 4 September 2026
-
-DS Tech Namibia launched the Global Cybersecurity Initiative, a private pan-African platform to connect businesses, governments and innovators on cybersecurity, in Windhoek on 3 September 2026. Chaired by Paulinus Sheehama, it starts in Namibia, Kenya, Botswana, Ghana, Nigeria, Zambia and South Africa and aims to cover 52 African countries by 2029.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Ransomware attack on the Namibian Defence Force</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Hackers hit NDF: RansomHouse threatens state secrets](https://www.namibian.com.na/hackers-hit-ndf-ransomhouse-threatens-state-secrets/)** — The Namibian, 20 September 2026
-
-A ransomware group listed the Namibian Defence Force among its victims and published an evidence pack it says shows access to the force's systems, with a message accusing its IT department of concealing the incident. No confirmation or response from the force is on record, and the defence minister said he had not heard of it.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Namibia’s Defence Ministry hit by double-extortion ransomware attack](https://technews.com.na/2026/09/20/namibias-defence-ministry-hit-by-double-extortion-ransomware-attack/)** — Tech News Namibia, 20 September 2026
-
-Namibia's national cyber incident response team, NAM-CSIRT, confirmed unauthorised activity on the Ministry of Defence and Veterans Affairs network and attributed it to the RansomHouse ransomware group, reported on 20 September 2026. It is coordinating investigation and recovery. It did not say what data was accessed, stolen or encrypted.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1046,70 +601,6 @@ Namibia's communications regulator launched DigiNam in Windhoek on 31 August as 
 </div>
 
 ## Nigeria
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Nigeria Police Force National Cybercrime Centre</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Nigeria's police Vigilant app raises questions about cycle of duplicate fraud reporting platforms](https://techcabal.com/2026/09/07/nigerias-police-vigilant-app-raises-questions-duplicate-fraud-reporting/)** — TechCabal, 7 September 2026
-
-The police fraud-reporting app launched on 1 September is the fourth police reporting platform in a decade, and it arrives over a cybercrime centre already logging about 146,000 reports and about ₦58bn in recovered assets. Nothing published says how the new channel routes against the centre already running, or what became of the earlier platforms.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Commercial bank spending on cybersecurity</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[First Bank spends N6bn annually to fight Cyber threats - Alebiosu](https://www.vanguardngr.com/2026/09/first-bank-spends-n6bn-annually-to-fight-cyber-threats-alebiosu/)** — Vanguard, 9 September 2026
-
-First Bank of Nigeria spends more than N6 billion a year on cybersecurity, its chief executive Olusegun Alebiosu said at the Chartered Institute of Bankers of Nigeria's annual conference. He said the bank monitors its systems around the clock, has set up a command centre and blocks millions of threats each month.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Cyber Resilience Framework for communications</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[CBN Demands Collective Defence Against Cyber, Technology Risks in Financial Sector](https://www.thisdaylive.com/2026/09/10/cbn-demands-collective-defence-against-cyber-technology-risks-in-financial-sector/)** — ThisDay, 10 September 2026
-
-Nigeria's central bank warned that cybersecurity can no longer be treated as each bank's internal responsibility, because a vulnerability in one institution or technology provider can cascade through an increasingly interconnected financial system. Banks' growing reliance on fintechs, payment service providers and cloud operators has widened the channels through which incidents spread, it said, calling for a collective defence.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National CERT threat advisories</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[ngCERT: Security Advisory on Escalating Cybersecurity Threats and Ongoing Attacks Targeting Organizations in Nigeria](https://csirt.ncc.gov.ng/index.php/resources/security-advisories/420-ngcert-security-advisory-on-escalating-cybersecurity-threats-and-ongoing-attacks-targeting-organisations-in-nigeria)** — ngCERT (Nigerian Communications Commission), 15 September 2026
-
-The national computer emergency response team issued an advisory recording a significant rise in high-impact incidents across multiple sectors, driven by phishing, ransomware, business email compromise and data breaches, enabled by cybercrime-as-a-service models and AI-driven techniques.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Escalation of Ransomware Attacks in Nigeria](https://csirt.ncc.gov.ng/index.php/resources/security-advisories/261-escalation-of-ransomware-attacks-in-nigeria)** — ngCERT (Nigerian Communications Commission), 22 September 2026
-
-Nigeria's national CERT warned of rising Phobos ransomware attacks on cloud service providers whose clients include government agencies, banks and telecoms operators. It rates the damage critical and the probability high, and sets out mitigations.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1213,163 +704,7 @@ Sierra Leone's security forces and communications regulator raided a suspected i
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Hungry Lion customer credential exposure</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Hungry Lion customer creds online for months](https://www.itweb.co.za/article/hungry-lion-customer-creds-online-for-months/6GxRKqYQEDZqb3Wj)** — ITWeb, 1 September 2026
-
-Customer credentials for the fast-food chain Hungry Lion were exposed for about nine months through its consumer-facing web portals, on analysis of stealer-log data finding 23 records tied to its South African domain, 13 of them customer accounts.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Bulk water utility cyber security incident</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Hackers breach Rand Water's defences](https://www.itweb.co.za/article/hackers-breach-rand-waters-defences/Gb3BwMWaO4ov2k6V)** — ITWeb South Africa, 4 September 2026
-
-Rand Water, Africa's largest bulk water utility and supplier to more than 16 million people, disclosed a cyber security incident on 3 September and is operating from its Centurion disaster-recovery site while it establishes the extent of the damage. Its debt officer said intruders reached some servers at night before IT staff could block them and that some servers were damaged; water treatment, quality control and bulk supply are stated to remain fully operational.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Third-party service provider breaches affecting a telecom operator, an investment platform, a bank and a financial services group</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[SA's Cell C, EasyEquities and Bidvest Bank warn customers of data leak](https://www.connectingafrica.com/cybersecurity/sa-s-cell-c-easyequities-and-bidvest-bank-warn-customers-of-data-leak)** — Connecting Africa, 14 September 2026
-
-Cell C, EasyEquities and Bidvest Bank notified South African customers of a breach at an unnamed third-party provider, reported on 9 September. Cell C Fiber customers' names, emails, numbers and account numbers were exposed; Bidvest Bank's exposure awaits a forensic investigation.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Third-party cyber breaches rock SA firms](https://www.itweb.co.za/article/third-party-cyber-breaches-rock-sa-firms/KWEBb7yLe1NvmRjO)** — ITWeb South Africa, 17 September 2026
-
-Four South African financial and telecommunications names disclosed customer-data exposure that began at third-party suppliers rather than in their own systems, and a separate supplier breach is said to have compromised information held for about 45 insurers. One financial services group suspended data sharing with its screening supplier and reinstated the service only after forensic sign-off and credential replacement.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Commercial security operations centre, Cape Town</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Integrity360 invests R55m in CT base and its largest SOC](https://www.itweb.co.za/article/integrity360-invests-r55m-in-ct-base-and-its-largest-soc/8OKdWMDXLoYMbznQ)** — ITWeb South Africa, 15 September 2026
-
-A 40-desk security operations centre opened in Cape Town on 14 September under a R55m investment, providing monitoring and incident response for customers across Africa and internationally, and stated to create about 100 jobs over three years.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">MIP Holdings insurance-technology breach</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Hollard rejects hacking claim, points to MIP cyber breach](https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m)** — ITWeb South Africa, 16 September 2026
-
-An extortion attack on insurance technology provider MIP Holdings, detected on 14 June 2026, exposed personal data linked to customers of about 45 South African insurers. Hollard said a ransomware group's claim against it traced to that incident, not to its own systems.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Hackers turn on insurers after MIP paid the ransom](https://techcentral.co.za/hackers-extort-insurers-mip-ransom-hollard/286251/)** — TechCentral, 18 September 2026
-
-The group behind the June breach at an insurance software supplier is now extorting South African insurers directly, after the supplier paid a ransom for an undertaking to destroy the data. Material on a leak site includes policyholders' names, their children's names, identity numbers and email addresses; about 45 insurers' customers were exposed.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Hollard data hits dark web after MIP hack](https://www.itweb.co.za/article/hollard-data-hits-dark-web-after-mip-hack/wbrpOqg2J5oMDLZn)** — ITWeb South Africa, 18 September 2026
-
-Data allegedly stolen from a South African insurer appeared on the dark web, a researcher confirming it is public, after the June attack on its software supplier. The criminal group had demanded a ransom from the insurer to keep it private.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Suspected breach of the eNaTIS vehicle database</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Inside the fake AARTO fine scam](https://www.itweb.co.za/article/inside-the-fake-aarto-fine-scam/DZQ58vV8BazMzXy2)** — ITWeb South Africa, 18 September 2026
-
-South Africa's road traffic infringement agency is considering an investigation into whether the national vehicle database was accessed, after fake traffic-fine messages began quoting motorists' correct number plates. The fines platform being impersonated says its own system was not breached.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Gauteng e-Panic Button app data exposure</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gauteng panic app exposed crime reports and your locations](https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/)** — GroundUp, 23 September 2026
-
-GroundUp reported on 23 September 2026 that the database behind the Gauteng Department of e-Government's e-Panic Button app was unsecured, exposing users' names, crime reports with images, GPS location histories and login PINs. Contractor Evolve VAS, which holds a R10 million contract, fixed the flaws after GroundUp's alert on 21 September; the provincial government did not respond.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gauteng spending R269 million for app downloaded 15,000 times in 10 months](https://mybroadband.co.za/news/gadgets/668550-gauteng-spending-r269-million-for-app-downloaded-15000-times-in-10-months.html)** — MyBroadband, 25 September 2026
-
-Gauteng's Department of e-Government said in replies to DA questions, reported on 25 September 2026, that its e-Panic Button contract with Evolve Value Added Services is worth R269 million in total and runs to 10 March 2027. It has paid R131.3 million over three years, and the app gained only 15,000 new downloads between October 2025 and August 2026, out of more than 180,000 overall.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[DA to report e-Panic button data breach to Information Regulator of South Africa](https://dagauteng.org.za/2026/09/da-to-report-e-panic-button-data-breach-to-information-regulator-of-south-africa)** — Democratic Alliance Gauteng, 28 September 2026
-
-South Africa's opposition DA in Gauteng will ask the Information Regulator to investigate the exposure of data from the provincial e-Panic Button app, including crime reporters' names, reports, photos and locations. It says the department did not inform the legislature's oversight committee.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[DA to report e-Panic data breach to Information Regulator](https://groundup.news/article/people-exposed-by-gauteng-panic-app-data-breach-still-not-informed/)** — GroundUp, 28 September 2026
-
-South Africa's Democratic Alliance said it will report a data breach in the Gauteng government's e-Panic Button app to the Information Regulator, reported on 28 September 2026. An unsecured database exposed crime reports with the names, phone numbers and locations of those who filed them. Nearly a week after the disclosure, the province had not commented or told affected users; the contract is reported at R269m.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gauteng e-government assures panic button app data is secure despite security breach](https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/)** — The Citizen, 29 September 2026
-
-Gauteng's e-government department said the flaw in its e-Panic Button app is patched and no personal data was compromised, and put active users at 288,307. The student who reported the flaw disputes that account, saying ID numbers, addresses and crime details were exposed unencrypted.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Information Regulator to engage Gauteng over e-Panic Button data breach](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/)** — Mail & Guardian, 30 September 2026
-
-South Africa's Information Regulator said it had received no breach notification from Gauteng's e-government department over the exposed e-Panic Button database and would engage the department, noting it can issue an information notice.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -1477,107 +812,6 @@ Sudan's prime minister issued a decision on 19 October 2026 forming a National M
 
 </div>
 
-## Tanzania
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Reported mobile fraud and online scam cases</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[TCRA steps up fight against mobile fraud in Morogoro](https://www.thecitizen.co.tz/tanzania/news/national/tcra-steps-up-fight-against-mobile-fraud-in-morogoro-5590074)** — The Citizen, 10 September 2026
-
-Tanzania's communications regulator ran a three-day awareness campaign in Morogoro against mobile phone fraud and online scams. It put the national caseload at 7,334 reported cases, of which 2,495 or 34 per cent came from Rukwa and 2,079 or 28.4 per cent from Morogoro.
-
-</div>
-
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SIM-registration fraud enforcement</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[New push for tighter SIM registration to curb cyber fraud](https://www.thecitizen.co.tz/tanzania/news/national/new-push-for-tighter-sim-registration-to-curb-cyber-fraud-5590718)** — The Citizen, 10 September 2026
-
-Communications stakeholders in Rukwa have proposed tighter SIM card registration controls, including a 24-hour waiting period before a person may register another line, as the region records a high number of reported cyber-fraud cases. They also want the communications regulator to work more closely with other agencies on enforcement.
-
-</div>
-
-</div>
-
-## Togo
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National pool of cybersecurity professionals</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Togo Builds Cybersecurity Talent Pool as Digital Threats Intensify](https://www.ecofinagency.com/news-digital/0309-58604-togo-builds-cybersecurity-talent-pool-as-digital-threats-intensify)** — Ecofin Agency, 3 September 2026
-
-Togo's National Cybersecurity Agency (ANCy) issued a call for expressions of interest, dated 27 August 2026 and published on 2 September, to build a national pool of cybersecurity professionals it can call on. Applications close on 30 October 2026. The pool covers fields from incident response and digital forensics to data protection, in support of the 2024–2028 National Cybersecurity Strategy.
-
-</div>
-
-</div>
-
-## Tunisia
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Circular requiring a common security baseline for public digital systems</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cybersécurité : la Cheffe du gouvernement tunisienne appelle les organismes publics à appliquer les bonnes pratiques](https://www.thd.tn/cybersecurite-la-cheffe-du-gouvernement-tunisienne-appelle-les-organismes-publics-a-appliquer-les-bonnes-pratiques/)** — Tunisie Haut Débit, 3 September 2026
-
-Tunisia's head of government Sarra Zaafrani Zenzri issued circular no. 5 on 2 September 2026, setting security rules for public bodies' digital systems based on a technical note by the cybersecurity agency ANSI. It requires approved hosting, HTTPS on all pages, multi-factor authentication, an ANSI-accredited audit before launch and yearly after, DDoS protection and .tn domains.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cybersécurité : le grand tournant pour l''administration ?](https://www.lapresse.tn/2026/09/05/cybersecurite-le-grand-tournant-pour-ladministration-2/)** — La Presse de Tunisie, 5 September 2026
-
-An analysis of the head of government's circular of 2 September sets out what it requires of the administration: encrypted connections, mandatory renewal of security certificates, two-factor verification for administrator access, protection against traffic-saturation attacks and hosting on state-approved servers, with messaging apps and social media banned for official documents and shared credentials ended. It binds the administration rather than the wider economy, and carries no compliance deadline.
-
-</div>
-
-</div>
-
-## Uganda
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Central bank internal security systems</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Bank of Uganda strengthens security measures](https://www.itweb.africa/article/bank-of-uganda-strengthens-security-measures/rW1xL75nyAeMRk6m)** — ITWeb Africa, 9 September 2026
-
-Bank of Uganda's governor told Parliament's Public Accounts Committee that the central bank has strengthened its internal security systems after a physical break-in and allegations of system manipulation at its headquarters. He said the incidents involved a physical breach and fraudulent payments rather than an external cyberattack.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Financial-sector cyber and fraud incidents</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Uganda Records 6,533 Cyber and Fraud Incidents, Losses Hit Shs24bn](https://nilepost.co.ug/news/372865/uganda-records-6533-cyber-and-fraud-incidents-losses-hit-shs24bn)** — Nile Post, 23 September 2026
-
-The Uganda Bankers' Association counted 6,533 cyber and fraud incidents in the financial sector from January to August 2026, with UGX 24 billion lost and a further UGX 68 billion estimated at risk. At the same forum the Deputy Chief Justice said the judiciary is open to specialised handling of cyber and financial crime.
-
-</div>
-
-</div>
-
 ## Zambia
 
 <div class="monthly-story" markdown="1">
@@ -1595,20 +829,6 @@ Zambia took the first chair of the SADC Regional Computer Incident Response Team
 </div>
 
 ## Zimbabwe
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Cybersecurity of industrial control networks at a platinum mine</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Rockwell secures Mimosa Mine control networks in Zimbabwe](https://tech.africa/rockwell-mimosa-mine-ot-security/)** — Tech Africa, 2 September 2026
-
-Rockwell Automation said on 1 September 2026 that it had completed a cybersecurity and modernisation project at Zimbabwe's Mimosa platinum mine with local distributor Mine Elect. The work covered network architecture, segmentation of control systems, and controls on system access, data transfer, monitoring and recovery. No contract value, timeline or prompting incident is given.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 

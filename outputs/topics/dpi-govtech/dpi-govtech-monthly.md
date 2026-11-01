@@ -1,13 +1,13 @@
 ---
-title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-31
-period: 2026-09-01 to 2026-10-31
+title: Other GovTech and e-Gov — News, October – November 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2974068532fa
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 1923c35618c1
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#algeria">Algeria</a>
@@ -42,8 +42,6 @@ record: 2974068532fa
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ethiopia">Ethiopia</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gambia">Gambia</a>
@@ -53,8 +51,6 @@ record: 2974068532fa
 <a href="#guinea">Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -74,8 +70,6 @@ record: 2974068532fa
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#niger">Niger</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
@@ -89,10 +83,6 @@ record: 2974068532fa
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#south-sudan">South Sudan</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -111,67 +101,13 @@ record: 2974068532fa
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Public works sector digital portal</p>
+<p class="monthly-story__name">Solidarity sector investment-project tracking platform</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[بوابة وزارة الأشغال العمومية تطلق خدمة جديدة لصالح مهنيي القطاع ومكاتب الدراسات الخاصة](https://www.echoroukonline.com/بوابة-وزارة-الأشغال-العمومية-تطلق-خدم)** — Echorouk El Yawmi, 1 September 2026
+**[Solidarité nationale : lancement d'une plateforme numérique de suivi des opérations d'investissement](https://algerie54.dz/solidarite-nationale-lancement-d-une-plateforme-numerique-de-suivi-des-operations-d-investissement)** — Algérie54, 20 October 2026
 
-Algeria's Ministry of Public Works began taking online filings on 1 September 2026 through its sector portal, for firms' professional qualification and classification and for the accreditation of private design offices. Applicants can submit and track files remotely instead of visiting the central administration or wilaya directorates. Minister Abdelkader Djellaoui announced the step after a meeting on the sector's digitalisation.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Dzair Digital Services national portal (single window)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Portail national des services numériques : trois nouveaux services dédiés au secteur des ressources en eau](https://algerie-eco.com/2026/09/03/portail-national-des-services-numeriques-trois-nouveaux-services-dedies-au-secteur-des-ressources-en-eau/)** — Algerie Eco, 3 September 2026
-
-Algeria's High Commission for Digitalisation added three water-sector services to the national government digital services portal, announced on 3 September 2026 with the water ministry. Citizens can apply for drinking-water and sanitation connections and track them online, and firms can file and track requests for professional qualification certificates.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Dzair Digital Services / impots : Integration de cinq nouveaux services numeriques](https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/)** — El Watan, 10 September 2026
-
-Algeria's High Commission for Digitisation added five tax services to the national Dzair Digital Services portal on 9 September 2026, launched with the tax directorate at Tipasa. They are the tax roll extract, the non-taxation certificate, the C20 certificate of existence and tax registration attestations for individuals and companies.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Hydraulique : lancement de trois nouveaux services via le portail national des services numeriques](https://algerie54.dz/hydraulique-lancement-de-trois-nouveaux-services-via-le-portail-national-des-services-numeriques)** — Algerie 54, 10 September 2026
-
-Algeria's water ministry and the digitisation high commission launched three services on the national digital services portal on 9 September 2026: remote applications for drinking-water and sewerage connections, and Hydro-Qualif, a qualification certificate for contractors bidding for public works. The portal now offers 150 services, up from 21 at launch, and runs on state data centres and a sovereign cloud.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[La jeunesse algérienne dispose enfin de son portail numérique dédié](https://www.algerie360.com/la-jeunesse-algerienne-dispose-enfin-de-son-portail-numerique-dedie/)** — Algérie360, 14 September 2026
-
-Algeria's High Commission for Digitalisation and the Ministry of Youth added seven youth services to the national government services portal, announced on 14 September 2026. They include Inkhirati for registering at youth centres, Charaka for youth associations to register and apply for project funding, and Moukhayami for holiday camp enrolment.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Dzair Digital Services : intégration du service «WADHIFATI» relevant du secteur des Sports](https://algeriebrevesnews.dz/dzair-digital-services-integration-du-service-wadhifati-relevant-du-secteur-des-sports/)** — ABNews, 17 September 2026
-
-Algeria's national digital services portal, Dzair Digital Services, added the Ministry of Sports' WADIFATI employment service, the High Commission for Digitalisation said, as reported on 17 September 2026. Candidates can view job offers and entrance competitions for the sector's training schools, apply online, track applications and see results.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Dzair Digital Services: one million registered users, five million visitors, two and a half months after launch](https://www.jeune-independant.net/dzair-digital-services-un-million-dutilisateurs-inscrits-sur-la-plateforme/)** — Le Jeune Indépendant, 22 September 2026
-
-Algeria's national portal for government digital services, Dzair Digital Services, passed one million registered users and five million visitors two and a half months after its launch on 5 July 2026, the High Commission for Digitalisation said, reported on 22 September. The figures are the commission's own.
+Algeria's Ministry of National Solidarity launched a digital platform on 20 October 2026 that tracks the progress and spending of the sector's investment projects nationwide through a dashboard for the central administration. For 2027 it plans an AI-built national map of persons with special needs and an AI system to detect fraud in solidarity schemes.
 
 </div>
 
@@ -183,39 +119,9 @@ Algeria's national portal for government digital services, Dzair Digital Service
 
 <div class="bulletin-item" markdown="1">
 
-**[La CNR lance un nouveau service numérique](https://algerie-eco.com/2026/09/24/la-cnr-lance-un-nouveau-service-numerique/)** — Algerie Eco, 24 September 2026
-
-Algeria's national pension fund, the Caisse nationale des retraites, launched a virtual assistant chatbot on its website cnr.dz, announced on 24 September 2026. It answers questions about the pension system around the clock from a database of pre-set replies, to reduce visits to local offices.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[La CNR lance un nouveau service pour les retraités algériens](https://observalgerie.com/2026/09/24/economie/la-cnr-lance-un-nouveau-service-pour-les-retraites-algeriens/)** — ObservAlgérie, 24 September 2026
-
-Algeria's National Pensions Fund, CNR, launched a 24-hour online virtual assistant on its website on 24 September 2026 to answer pensioners' routine questions. In July 2026 the labour ministry set a target of cutting visits to CNR offices by at least 50% by the end of 2026. Some pensioners can already confirm they are alive through the R-FACE facial recognition system in the RetraiteDz app.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
 **[La CNR lance le projet du guichet numérique unique](https://algeriebrevesnews.dz/la-cnr-lance-le-projet-du-guichet-numerique-unique/)** — Algérie Brèves News, 23 October 2026
 
 Algeria's national pension fund, the CNR, launched "Takaoudi All in One", a single digital desk in every local agency where a staff member helps retirees and beneficiaries install the Takaoudi app, open accounts and use online services. The fund has more than 19 e-services and plans more in the last quarter of 2026.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Solidarity sector investment-project tracking platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Solidarité nationale : lancement d'une plateforme numérique de suivi des opérations d'investissement](https://algerie54.dz/solidarite-nationale-lancement-d-une-plateforme-numerique-de-suivi-des-operations-d-investissement)** — Algérie54, 20 October 2026
-
-Algeria's Ministry of National Solidarity launched a digital platform on 20 October 2026 that tracks the progress and spending of the sector's investment projects nationwide through a dashboard for the central administration. For 2027 it plans an AI-built national map of persons with special needs and an AI system to detect fraud in solidarity schemes.
 
 </div>
 
@@ -236,35 +142,6 @@ The Ministry of Internal Trade opened an online consumer portal at tawassol.comm
 </div>
 
 ## Angola
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital platform for public-sector internship applications</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[INFOSI disponibiliza site para candidaturas a estágios](https://pti.ao/infosi-disponibiliza-site-para-candidaturas-a-estagios/)** — Portal de T.I, 3 September 2026
-
-Angola's information society institute, INFOSI, launched an online platform for applications to its internship programme on 3 September 2026 at the FITITEL forum in Luanda. Applicants no longer submit in person and receive a tracking code and QR code. Placements cover telecommunications, information technology and cybersecurity, under a partnership with the communications development fund FADCOM.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SIAC integrated citizen service network</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Angola: Governante anuncia a construção de mais oito subunidades do SIAC até 2027](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt)** — Ministério da Administração Pública, Trabalho e Segurança Social (Angola), via Africa Newsroom/APO Group, 4 September 2026
-
-Angola will build eight more units of its SIAC citizen one-stop-shop network by 2027, with Kilamba in Luanda and Cuito in Bié due to open this year, the secretary of state for public administration said on 4 September 2026. The network has 16 units in 12 provinces, recorded 1,490,921 visits in the first half of 2026 and has paid about 2.47 billion kwanzas to the treasury this year.
-
-</div>
-
-</div>
-
 
 <div class="monthly-story" markdown="1">
 
@@ -297,20 +174,6 @@ Angola's Institute for Administrative Modernisation (IMA) opened an internationa
 </div>
 
 ## Benin
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">UnivServices.bj national university services platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Bénin : UnivServices.bj centralise les services destinés aux étudiants](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/)** — Chic Infos, 18 September 2026
-
-Benin launched UnivServices.bj, a national portal for students at four public universities, with transport as its first live service and catering, housing and health to follow.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -354,6 +217,20 @@ The budget and public service ministry decided to hold the March-April 2027 prof
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Portail national des services publics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-gouvernance : le Bénin et la Mauritanie à l'école estonienne, et vice versa](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)** — TransContinents Africa, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a>
+
+Benin and Mauritania compared their digital government programmes at Estonia's embassy in Paris on 28 October 2026. Benin reported more than 210 end-to-end online services, up from five at launch in March 2020, and digital identity for over 99% of the population. Mauritania reported about 40 transactional services out of nearly 900 targeted.
+
+</div>
+
+</div>
+
 ## Botswana
 
 <div class="monthly-story" markdown="1">
@@ -374,114 +251,6 @@ Botswana's Ministry of Transport and Infrastructure announced interim manual mea
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Automated traffic enforcement</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Sécurité routière à Ouagadougou : Naissance de la BRICIR pour en finir avec l'incivisme sur les routes](https://burkina24.com/2026/09/03/securite-routiere-a-ouagadougou-naissance-de-la-bricir-pour-en-finir-avec-lincivisme-sur-les-routes/)** — Burkina24, 3 September 2026
-
-Burkina Faso's security minister, Mahamadou Sana, launched a motorised police brigade, the BRICIR, in Ouagadougou on 2 September 2026. It is to identify and intercept drivers recorded by the city's video-ticketing cameras who evade their fines, a system in service since 1 August, and to enforce rules on red lights, speeding and helmets.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Burkina Faso : 260 000 $ d'amendes générés par la vidéo verbalisation en un mois](https://www.agenceecofin.com/actualites-numerique/0709-141342-burkina-faso-260-000-d-amendes-generes-par-la-video-verbalisation-en-un-mois)** — Agence Ecofin, 7 September 2026
-
-Burkina Faso's video-verbalisation cameras recorded 19,910 road offences over August 2026, generating CFA146.559m in fines of which CFA16.1m had been recovered at the 4 September review. A motorised police brigade was created on 2 September specifically to trace drivers who evade the camera-issued fines.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Loss of scanned scripts in automated marking of the 2026 recruitment competitions</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Incidents dans les résultats de certains concours de la session 2026: « Il s’agit d’une erreur humaine », rassure le SG, Rodrigue Oboulbiga](https://www.sidwaya.info/incidents-dans-les-resultats-de-certains-concours-de-la-session-2026-il-sagit-dune-erreur-humaine-rassure-le-sg-rodrigue-oboulbiga/)** — Sidwaya, 3 September 2026
-
-Burkina Faso's civil service ministry said on 3 September 2026 that some exam scripts from the Koudougou centre were left out of automated marking in two 2026 recruitment competitions whose results were published on 25 August. Secretary general Rodrigue Oboulbiga called it human error; after re-marking, 35 and 39 candidates were added to the two lists, and disciplinary measures were announced.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online claims platform for seized property companies</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Burkina Faso : Lancement d’une plateforme pour le recensement du passif de trois sociétés immobilières](https://burkina24.com/2026/09/03/burkina-faso-lancement-dune-plateforme-pour-le-recensement-du-passif-de-trois-societes-immobilieres/)** — Burkina24, 3 September 2026
-
-Burkina Faso's seized-asset agency ANAGRASC launched passif-immobilier.anagrasc.gov.bf on 3 September 2026, built with the ICT agency ANPTIC. Buyers of plots or buildings from three seized property companies, SOCOGIB SA, AZIMO SA and SATMO, can register claims remotely and upload identity and title documents.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic signature in administrative procedures</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Burkina Faso : l’administration passe à la signature électronique](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-l-administration-passe-a-la-signature-electronique)** — wearetech.africa, 14 September 2026
-
-Burkina Faso's digital transition ministry set the official launch of electronic signature in administrative procedures for 15 September in Ouagadougou, under the 2009 electronic-transactions law. More than 250 procedures were dematerialised in 2025, 95 of them on the Service Public BF portal.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Administration publique : « Faso Sign » pour accélérer la dématérialisation des procédures](https://lefaso.net/spip.php?article149243)** — leFaso.net, 15 September 2026
-
-Burkina Faso's digital transition ministry launched Faso Sign, a national electronic signature platform for the public administration, in Ouagadougou on 15 September 2026. It is built into three existing platforms: CIMEXT for mission orders, SIGEG for administrative mail and SYCAD for land and property records. The prime minister told ministries to set a timetable for adopting it, calling its use an obligation.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Burkina : L'administration publique entre dans l'ère de la signature électronique avec FasoSign](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/)** — Libreinfo, 16 September 2026
-
-Burkina Faso launched FasoSign, a national electronic signature platform for the public administration, on 15 September 2026. It is already built into the mission-order, mail and cadastre systems, and the government says its keys and certificates are held under state responsibility.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SACOS airport certification and operations platform pilot</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Burkina Faso : vers des aéroports intelligents grâce à la numérisation des opérations](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-vers-des-aeroports-intelligents-grace-a-la-numerisation-des-operations)** — wearetech.africa, 25 September 2026
-
-Burkina Faso's state airports company SAFA signed a memorandum with ACI Africa and Germany's Barthauer Software to pilot the SACOS airport certification and operations platform. The pilot covers runway inspections, certification, document management and safety tracking, before any wider roll-out.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Diplomatic and consular service platforms</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Modernisation des services consulaires : Le Burkina Faso lance YORI ID aux États-Unis](https://lefaso.net/spip.php?article149615)** — leFaso.net, 29 September 2026
-
-Burkina Faso's embassy in the United States launched YORI ID, a consular platform for cards, passports and administrative acts with online payment, as a one-year pilot. About 10,000 nationals are registered, most of them migrated from the previous system.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Administrative procedures live online</p>
 
 <div class="bulletin-item" markdown="1">
@@ -495,34 +264,6 @@ Burkina Faso's digital ministry reports 46.70% average physical execution of its
 </div>
 
 ## Burundi
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Revenue office WhatsApp chatbot</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[L'OBR lance officiellement son Chatbot WhatsApp : l'assistance fiscale et douanière dans la dynamique digitale à portée de main !](https://www.obr.bi/index.php/actualites/2597-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-et-douaniere-dans-la-dynamique-digitale-a-portee-de-main)** — Office Burundais des Recettes, 1 September 2026
-
-Burundi's revenue office, the OBR, launched a WhatsApp chatbot for tax and customs questions on 1 September 2026. It answers in French, Kirundi, English and Swahili, is available around the clock, and refers cases needing an officer to the relevant OBR service.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic government procurement system (e-GP)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Demande de Propositions No : Bl-PAFEN-PIU-549116-NC-RFB Relative à la Conception, développement sur mesure et déploiement d’un Système Électronique de Passation des Marchés Publics (e-GP) de bout en bout entièrement personnalisé pour la République du Burundi.](https://armp.gov.bi/archives/12100)** — Projet d'Appui aux Fondations de l'Economie Numérique (PAFEN), posted by the Autorité de Régulation des Marchés Publics (ARMP Burundi), 23 September 2026
-
-Burundi's World Bank-funded digital foundations project has issued an international tender for a custom electronic government procurement system covering the whole contract cycle. It is to be open source, built over 18 months with the procurement regulator's staff, installed first at the finance ministry, and owned outright by the government; bids close on 13 November 2026.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -589,31 +330,21 @@ The Central African Republic launched a national portal for online government se
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">e-Visa platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Chad: e-Visa platform 'continues to gain momentum'](https://visasnews.com/en/chad-e-visa-platform-continues-to-gain-momentum/)** — VisasNews, 1 October 2026
+
+Chad's National Police said on 1 October 2026 that its e-Visa platform receives more than 100 applications a day, against fewer than 10 at its launch on 11 December 2024. Express applications take 24 to 72 hours and standard ones 10 to 15 days. The e-Visa has been mandatory since 11 May 2026, and visas for all African nationals are to be waived from 1 January 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">e-BNFT land freight bureau platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Tchad-Cameroun : le BNFT forme les usagers à l’utilisation de sa plateforme e-BNFT à Douala](https://lendjampost.com/tchad-cameroun-le-bnft-forme-les-usagers-a-lutilisation-de-sa-plateforme-e-bnft-a-douala/)** — Le N'Djam Post, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Chad's national land freight bureau (BNFT) began training transporters, freight forwarders and drivers in Douala, Cameroon, on 1 September 2026 to use its e-BNFT digital platform, covering account creation, file entry and tracking. The bureau says it has been extending digitised procedures since February 2026 to offices including Douala, Kribi, Ngaoundéré, Moundou, Bongor and N'Djamena.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Ngaoundéré : le BNFT forme les transporteurs et transitaires à l'utilisation de la plateforme e-BNFT](https://lendjampost.com/ngaoundere-le-bnft-forme-les-transporteurs-et-transitaires-a-lutilisation-de-la-plateforme-e-bnft/)** — Le N'Djam Post, 4 September 2026
-
-Chad's national land-freight bureau (BNFT) opened training for hauliers, freight forwarders and drivers on its e-BNFT digital platform at Ngaoundéré, Cameroon, on 3 September 2026. The local agency head said BNFT staff there have used the platform daily for eight months. TradeLink Solutions and the firm SERVOO delivered the training.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Logone Occidental : le BNFT dévoile sa plateforme e-BNFT aux acteurs du fret](https://lendjampost.com/logone-occidental-le-bnft-devoile-sa-plateforme-e-bnft-aux-acteurs-du-fret/)** — Le N'Djam Post, 5 September 2026
-
-The steering committee digitising procedures at Chad's national land freight bureau (BNFT) presented its e-BNFT platform to authorities, hauliers and freight forwarders in Logone Occidental province on 4 September 2026. The platform covers issuing the mandatory consignment note and paying the axle tax. No launch date or cost is given.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -633,35 +364,7 @@ Chad's national land freight bureau BNFT signed an agreement with Konoom Mobile 
 
 </div>
 
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">e-Visa platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Chad: e-Visa platform 'continues to gain momentum'](https://visasnews.com/en/chad-e-visa-platform-continues-to-gain-momentum/)** — VisasNews, 1 October 2026
-
-Chad's National Police said on 1 October 2026 that its e-Visa platform receives more than 100 applications a day, against fewer than 10 at its launch on 11 December 2024. Express applications take 24 to 72 hours and standard ones 10 to 15 days. The e-Visa has been mandatory since 11 May 2026, and visas for all African nationals are to be waived from 1 January 2027.
-
-</div>
-
-</div>
-
 ## Congo
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National e-procurement platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[La République du Congo s'active à réformer la gestion des marchés publics par la mise en place du système dématérialisé des procédures de passations des marchés publics (e-GP)](https://www.armp.cg/news-detail.php?id=11)** — Autorité de régulation des marchés publics (ARMP), 22 September 2026
-
-Congo's procurement regulator ARMP reports that a tender file for recruiting the firm to build and deploy an electronic procurement (e-GP) system was drafted by a consultant, reworked by a commission in June 2026 and adopted at a workshop in Brazzaville on 21-22 July. The World Bank-supported file now awaits validation by the project steering committee.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -695,79 +398,13 @@ Officials of the Republic of Congo's tax directorate briefed Pointe-Noire busine
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Priority list of digital public services</p>
+<p class="monthly-story__name">Senate digitised procedures and electronic voting</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[AIP/ La Côte d''Ivoire envisage une gouvernance unifiée des projets numériques de l''État (Ministre)](https://www.aip.ci/aip-la-cote-divoire-envisage-une-gouvernance-unifiee-des-projets-numeriques-de-letat-ministre/)** — Agence Ivoirienne de Presse (AIP), 4 September 2026
+**[Yamoussoukro : Le Sénat modernise sa 2e session, le vote électronique activé](https://www.linfodrome.com/politique/126379-yamoussoukro-le-senat-modernise-sa-2e-session-le-vote-electronique-active)** — Linfodrome, 12 October 2026
 
-Côte d'Ivoire's national workshop on digital public services closed in Abidjan on 4 September 2026 with 59 of 620 surveyed services prioritised and ten quick wins due by year-end, including diploma authentication and digital proof of life for pensioners. Minister Djibril Ouattara announced three draft governance decrees and extra validation for digital projects above XOF 1 billion.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Transformation numérique : Les neuf groupes de travail s'accordent sur des infrastructures publiques communes](https://afriksoir.net/transformation-numerique-les-neuf-groupes-de-travail-saccordent-sur-des-infrastructures-publiques-communes/)** — Afrik Soir, 4 September 2026
-
-Nine working groups at Côte d'Ivoire's national workshop on prioritising digital public services reported on 4 September 2026, the second and final day, with 47 of 49 invited bodies taking part. They found procedures still largely paper-based and data requested repeatedly, and converged on a single national sign-on linked to the national population register. The aim is a portfolio of about 100 priority e-services.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Côte d'Ivoire : Djibril Ouattara veut en finir avec les projets numériques de l'État menés en ordre dispersé](https://www.koaci.com/article/2026/09/05/cote-divoire/technologie/cote-divoire-djibril-ouattara-veut-en-finir-avec-les-projets-numeriques-de-letat-menes-en-ordre-disperse_200214.html)** — KOACI, 5 September 2026
-
-The same workshop's other conclusion was that the state lacks a common direction: the digital transition minister put a governance framework ahead of the service list as the first priority, against ministries each building their own tools, platforms and systems. No such framework is on the record.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Transformation numérique : Les travaux retiennent 59 services prioritaires et dix « quick wins » attendus pour la fin 2026](https://afriksoir.net/transformation-numerique-les-travaux-retiennent-59-services-prioritaires-et-dix-quick-wins-attendus-pour-la-fin-2026/)** — AFRIK SOIR, 5 September 2026
-
-A national prioritisation workshop closed having examined 140 of 620 inventoried public services through nine working groups, retaining 59 for immediate priority and expecting ten quick wins by the end of 2026 - among them diploma authentication, digital proof of life for pensioners and the computerised patient record. The list itself is not published.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">e-Licences platform for investor permits</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Côte d'Ivoire : le CEPICI mise sur le numérique pour fluidifier le parcours des investisseurs](https://www.linfodrome.com/economie/125162-cote-d-ivoire-le-cepici-mise-sur-le-numerique-pour-fluidifier-le-parcours-des-investisseurs)** — Linfodrome, 7 September 2026
-
-Côte d’Ivoire’s investment promotion centre is taking investor licences, permits and authorisations onto an online platform, with ministry focal points trained to keep it current.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Comexmap trade mapping platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Commerce extérieur : La Côte d’Ivoire actualise sa cartographie numérique pour renforcer sa compétitivité](https://www.fratmat.info/article/2644411/economie/commerce-exterieur-la-cote-divoire-actualise-sa-cartographie-numerique-pour-renforcer-sa-competitivite)** — Fraternite Matin, 10 September 2026
-
-Cote d'Ivoire opened a two-day workshop in Abidjan to update the trade data behind its digital mapping of trade agreements and flows. The session updates the collection of agreements, the statistics and the flow data on a platform the government treats as strategic for its position in international trade.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic signature for public administration</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cote d'Ivoire Expands Electronic Signature Use to Support Paperless Administration](https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/)** — Tech Africa News, 18 September 2026
-
-Côte d'Ivoire's civil service ministry enrolled the mayor and secretary-general of Marcory in the administration's electronic signature system on 15 September, extending it to local government. No count of enrolled officials is published.
+Côte d'Ivoire's Senate opened its second ordinary session of 2026 with attendance recorded in real time instead of a roll call, amendments filed online and proceedings archived automatically. Electronic voting was trialled the same day, with training for senators on 13 to 16 October.
 
 </div>
 
@@ -779,31 +416,9 @@ Côte d'Ivoire's civil service ministry enrolled the mayor and secretary-general
 
 <div class="bulletin-item" markdown="1">
 
-**[Banque mondiale : le PAGDS présente ses réalisations dans la digitalisation des services publics](https://www.aip.ci/cote-divoire-aip-banque-mondiale-le-pagds-presente-ses-realisations-dans-la-digitalisation-des-services-publics/)** — Agence Ivoirienne de Presse (AIP), 21 September 2026
-
-Côte d'Ivoire's World Bank-funded PAGDS project, approved in April 2019, reported its digitalisation results on 21 September 2026, and its coordinator said a second phase has started. The results include digital allocation and tracking of pupils in private schools, patient tracking under universal health coverage, electronic payment of state transfers and online company registration. World Bank figures cited put average growth in non-oil tax revenue at 12.4% against a 5% target, and customs revenue at 19.2% against 6%.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
 **[Côte d'Ivoire | Administration : Ouattara fixe le cap d'une économie numérique d'ici 2029](https://afrimag.net/cote-divoire-administration-ouattara-fixe-le-cap-dune-economie-numerique-dici-2029/)** — Afrimag, 16 October 2026
 
 Afrimag reported on Côte d'Ivoire's digital administration plans to 2029. It cites a USD 195 million government digital services programme with 23 platforms, whose first phase closed in June 2026, and health information systems in 268 facilities. The figures are the outlet's own and are not sourced.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Senate digitised procedures and electronic voting</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Yamoussoukro : Le Sénat modernise sa 2e session, le vote électronique activé](https://www.linfodrome.com/politique/126379-yamoussoukro-le-senat-modernise-sa-2e-session-le-vote-electronique-active)** — Linfodrome, 12 October 2026
-
-Côte d'Ivoire's Senate opened its second ordinary session of 2026 with attendance recorded in real time instead of a roll call, amendments filed online and proceedings archived automatically. Electronic voting was trialled the same day, with training for senators on 13 to 16 October.
 
 </div>
 
@@ -834,44 +449,6 @@ Djibouti's second regional public-procurement colloquium, in Dikhil, heard plans
 </div>
 
 ## DR Congo
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SYGREM multimodal freight-charge management platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Lancement officiel de la plateforme SYGREM par le VPM Jean Pierre Bemba fruit du partenariat entre l’OGEFREM et PADS Corporation](https://transports.gouv.cd/lancement-officiel-de-la-plateforme-sygrem-par-le-vpm-jean-pierre-bemba-fruit-du-partenariat-entre-logefrem-et-pads-corporation/)** — Ministere des Transports RDC, 2 September 2026
-
-DR Congo's transport minister Jean-Pierre Bemba launched SYGREM, a freight-charge management platform built by the freight office Ogefrem with PADS Corporation, in Kinshasa on 1 September 2026. It digitises the FERI, AD and FERE freight-tracking documents and adds geolocation and online payment, with receipts paid into dedicated Ogefrem bank accounts.
-
-</div>
-
-</div>
-
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Guichet Unique Integral du Commerce Exterieur (GUICE)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[RDC : Julien Paluku vante la dématérialisation des procédures commerciales pour lutter contre la corruption](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/)** — DeskNews, 17 September 2026
-
-DR Congo's foreign trade minister Julien Paluku Kahongya told the WTO Public Forum in Geneva on 17 September 2026 that 93 of the 98 documents needed for foreign trade have been digitised, with the rest due by end-2026. He said the foreign-trade single window is now linked to the customs authority's SYDONIA World system.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[SEGUCE RDC poursuit le deploiement du GUICE et rapproche les services du commerce exterieur des operateurs economiques du Kasai Oriental](https://actualite.cd/2026/09/17/seguce-rdc-poursuit-le-deploiement-du-guice-et-rapproche-les-services-du-commerce)** — ACTUALITE.CD, 17 September 2026
-
-The concessionaire running DR Congo's integrated foreign-trade single window took it to Mbuji-Mayi in Kasai Oriental, presenting its services to provincial authorities, the administrations concerned and local traders and hearing their concerns. Its director general framed provincial establishment as territorial equity, the window being a national instrument.
-
-</div>
-
-</div>
-
 
 <div class="monthly-story" markdown="1">
 
@@ -941,155 +518,13 @@ The DRC's telecoms ministry is seeking a firm for an eight-month e-government co
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Electronic assignment-modification system for medical professionals</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Electronic System Activated to Expedite Assignment Modification Procedures for Medical Professionals](https://www.cairo.gov.eg/en/news/2026/septemper/1/79dcfae1e4954588996b61d80eacfb4d)** — Cairo Governorate Electronic Portal (Akhbar El Youm News Portal), 1 September 2026
-
-Egypt's Ministry of Health and Population put an electronic system for medical professionals' assignment-modification requests into full use at the start of September 2026, after a pilot from mid-August. Requests linked to a staff member's health previously meant repeated trips between offices and results sent by post; documents and examination results are now exchanged electronically between the bodies involved.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic enquiry service for family cases</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[النيابة العامة تتيح خدمة الاستعلام الإلكترونى عن دعاوى الأسرة والأحكام](https://www.youm7.com/story/2026/9/1/النيابة-العامة-تتيح-خدمة-الاستعلام-الإلكترونى-عن-دعاوى-الأسرة-والأحكام/7533251)** — Youm7, 1 September 2026
-
-Egypt's Public Prosecution opened an online service on 1 September 2026 for looking up family-case data and the judgments issued in them, through its electronic portal. Working with the communications ministry, it restricts access to users verified by the Digital Egypt portal's digital identity, so that only the parties concerned can see their records.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Integrated digital environmental impact assessment system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[وزيرة البيئة تطلق منظومة تقييم التأثير البيئي الرقمية المتكاملة "IDEIA"](https://www.youm7.com/story/2026/9/1/وزيرة-البيئة-تطلق-منظومة-تقييم-التأثير-البيئي-الرقمية-المتكاملة-IDEIA/7532879)** — Youm7, 1 September 2026
-
-Egypt's Minister of Local Development and Environment, Manal Awad, launched IDEIA, a digital system for environmental impact assessments, on 1 September 2026. It moves applications, review, approval and follow-up off paper and lets applicants track their files. It is the digital component of the Green Sustainable Industry programme, financed by the EIB, the EU, AFD and the Egyptian government at a total of EUR 271 million.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Unified electricity billing platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[رئيس الوزراء لـ اليوم السابع: سأعقد اجتماعا مع وزير الكهرباء لمتابعة ملف الفواتير](https://www.youm7.com/story/2026/9/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%84%D9%80-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D8%B3%D8%A3%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1/7535176)** — Youm7, 3 September 2026
-
-Egypt's prime minister Mostafa Madbouly told Youm7 on 3 September 2026 that faults on the unified electricity platform and mismatches between prepaid-meter top-ups and readings are a government priority. He said he would hold an expanded meeting with the electricity minister the following week and that the state's remedial steps would be announced publicly.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
 **["قطاع النظم" يضع الكهرباء فى أزمة بسبب شكاوى المواطنين من توقف الخدمات](https://m2.youm7.com/story/2026/10/4/%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D8%B8%D9%85-%D9%8A%D8%B6%D8%B9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%81%D9%89-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%B4%D9%83%D8%A7%D9%88%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%85%D9%86/7567255)** — Youm7, 4 October 2026
 
 Egypt's electricity distribution companies lost sight of citizens' service requests after the holding company's systems sector replaced the unified e-services platform with an untested system and switched the old one off, a ministry source told Youm7. The minister ordered the fault fixed and those responsible held to account.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Unified Government Services Card</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Everything you need to know about the Unified Card, a new alternative to the Ration Card](https://www.egyptindependent.com/everything-you-need-to-know-about-the-unified-card-a-new-alternative-to-the-ration-card/)** — Egypt Independent (Al-Masry Al-Youm), 5 September 2026
-
-Egypt's Supply and Internal Trade Ministry is gradually rolling out a free Unified Card, issued through Egypt Post, to replace the paper ration card. The fingerprint-enabled prepaid card carries subsidised bread and rations, comprehensive health insurance and payments, and is collected against a national ID and a mobile number in the holder's name. Payment services work on issue; no activation date is given for the subsidy and health insurance functions.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital Egypt users and transactions</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Minassat Misr al-raqmiyya tatahhal lil-qaima al-nihaiyya li-jawaiz al-Umam al-Muttahida (Digital Egypt platform reaches UN digital award shortlist)](https://www.maspero.eg/economy/2026/09/09/987902/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A)** — Egyptian National Media Authority (Maspero), 9 September 2026
-
-Egypt's Digital Egypt platform was shortlisted among the top 15 entries in the digital government category of the ITU and UNDP Digital@UNGA 2026 awards, announced on 9 September 2026. The communications ministry says the platform offers more than 240 services to 12.9 million registered users and is linked to 109 government bodies, with 270 services targeted by the end of 2026.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">E-Court platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Fees for E-Court platform revive debate over commodifying justice](https://manassa.news/en/news/33836)** — Al Manassa, 9 September 2026
-
-Egypt's justice ministry launched an E-Court platform on 31 August 2026 that lets lawyers and litigants attend first-instance criminal hearings remotely. Lawyers must pay 500 pounds a year to register, 500 more per remote felony hearing and 10 pounds a page for case-file copies. The Egyptian Lawyers Syndicate says the fees have no legal basis.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Prosecution portal for personal-status documents</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[النيابة العامة تطلق خدمات استخراج وثائق الحالة الشخصية عبر بوابتها الإلكترونية](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763)** — Youm7, 10 September 2026
-
-Egypt's Public Prosecution said on 10 September 2026 that official copies of five kinds of personal-status record, including Muslim and non-Muslim marriage and divorce certificates, can now be obtained through its online portal, built with the communications ministry. Users must verify their identity with the Digital Egypt portal's digital ID.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Capital-increase services platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Investment ministry aide: digital platform for capital increases links 8 government entities](https://www.youm7.com/story/2026/9/22/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A4%D9%88%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%AA%D8%B1%D8%A8%D8%B7-8-%D8%AC%D9%87%D8%A7%D8%AA/7554140)** — Youm7, 22 September 2026
-
-Egypt's assistant investment minister for digital transformation, Sherif Yehia, said a platform for company capital increases now links eight government bodies digitally. Investors and their agents log in with digital ID and sign documents remotely through a service run with ITIDA, and the ministry is using e-passports to verify foreign investors. He spoke at the FDC Summit on 22 September 2026.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Real Estate Tax Authority property-tax registration app</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[وزير المالية: رصدنا مشاكل تطبيق الضرائب العقارية ومد التسجيل قيد الدراسة](https://www.egyptke.com/294431)** — Egyptke, 27 September 2026
-
-The head of Egypt's Real Estate Tax Authority, Rami Youssef, acknowledged faults in the property tax registration app and said he had asked the finance minister to extend the registration deadline, which the minister said was under study. About one million citizens had registered with two days left. The authority is working with the app's contractor to fix outages.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Complaints mount over “difficult” real estate tax app as taxpayers press for deadline extension](https://enterpriseam.com/egypt/2026/09/28/complaints-mount-over-difficult-real-estate-tax-app-as-taxpayers-press-for-deadline-extension/)** — Enterprise (EnterpriseAM Egypt), 28 September 2026
-
-Egypt's finance ministry is reviewing an extension to the property-tax filing deadline after complaints about its new app, which the deputy finance minister said had about 1.2m users against 10m registrations expected.
 
 </div>
 
@@ -1171,39 +606,6 @@ Equatorial Guinea's vice-presidency reviewed the VFS Global e-visa contract befo
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Auditor-General strategic plan 2026-2030</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Auditors Embrace AI to Protect Public Funds](https://eswatinipositivenews.online/auditors-embrace-ai-to-protect-public-funds/)** — Eswatini Positive News, 7 September 2026
-
-Eswatini's audit office hosted a week-long peer programme at which supreme audit institutions across the region weighed the use of artificial intelligence in government audit. No tool, pilot, audit methodology or procurement is named.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">e-Visa platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[PM CALLS FOR DISRUPTION TO FIX TOURISM BOTTLENECKS - Eswatini Positive News](https://eswatinipositivenews.online/pm-calls-for-disruption-to-fix-tourism-bottlenecks/)** — Eswatini Positive News, 17 September 2026
-
-Eswatini's prime minister, Russell Mmiso Dlamini, told a tourism conference in Mbabane on 17 September 2026 that the e-Visa platform suffers delays and payment failures, worst at peak periods, with no manual fallback. He said the Eswatini Payment Switch already handles fast payments and will add open banking and card switching.
-
-</div>
-
-
-
-
-</div>
-
-
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">AI-enabled government services platform</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1216,97 +618,7 @@ Eswatini's ICT ministry presented a proposed platform for reaching government se
 
 </div>
 
-## Ethiopia
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Commodity exchange digital service portal</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[ECX Launches Digital Portal to Cut Red Tape for Traders](https://capitalethiopia.com/2026/09/06/ecx-launches-digital-portal-to-cut-red-tape-for-traders)** — Capital (Ethiopia), 6 September 2026
-
-The Ethiopia Commodity Exchange launched a digital portal, built by its own IT staff, so traders no longer have to visit its offices to open accounts, renew licences or obtain reference prices and market data. Each request gets a tracking PIN and a 30-minute service commitment. An official launch is due within a month.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">State logistics self-service platforms</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Digital logistics overhaul aims to boost regional trade competitiveness](https://capitalethiopia.com/2026/09/13/digital-logistics-overhaul-aims-to-boost-regional-trade-competitiveness/)** — Capital Newspaper, 13 September 2026
-
-Ethiopian Shipping and Logistics launched a web and mobile self-service platform on 4 September 2026 for shipment orders, cargo tracking, freight payment and documents. The Ethio-Djibouti Railway has introduced its own customer portal for booking, tracking and payment.
-
-</div>
-
-</div>
-
 ## Gabon
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Public Wi-Fi and driving-licence enrolment centre, Makokou</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gabon Expands Digital Access With Public Wi-Fi and Digital Driving Licence in Makokou](https://techafricanews.com/2026/09/01/gabon-digital-access-public-wifi-driving-licence-makokou/)** — Tech Africa News, 1 September 2026
-
-Gabon's national digital infrastructure and frequencies agency, ANINF, installed two public Wi-Fi spaces in Makokou, at the Place de l'Indépendance and the Alexandre Sambat Stadium. It also fitted the town's digitised driving-licence enrolment centre with a local network, dedicated internet connection and backup power equipment, as part of Liberation Day activities.
-
-</div>
-
-</div>
-
-
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Government electronic document management (GED) project</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Numérique : le Gabon lance son projet GED ce 16 septembre](https://agpgabon.ga/numerique-le-gabon-lance-son-projet-ged-ce-16-septembre/)** — Agence Gabonaise de Presse, 13 September 2026
-
-Gabon's digital economy ministry announced the launch on 16 September 2026 of an electronic document management project for the administration, to modernise document handling and improve traceability. It falls under Ordonnance 0006/PR/2025 on digitalisation; no scope, supplier or cost is stated.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gabon : la GED amorce le basculement de l’administration vers le numérique](https://www.gabonreview.com/gabon-la-ged-amorce-le-basculement-de-ladministration-vers-le-numerique/)** — GabonReview, 16 September 2026
-
-Gabon's digital economy ministry launched a pilot electronic document management system in Libreville on 16 September 2026 at the government's general secretariat and the examinations directorate. The system is developed by the national digital infrastructure agency ANINF with support from partners including the World Bank, and sits alongside an ordinance on electronic archiving (0003/PR/2026). No cost or rollout date is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gabon Launches Electronic Document Management Platform to Modernise Public Administration](https://techafricanews.com/2026/09/17/gabon-launches-electronic-document-management-platform/)** — Tech Africa News, 17 September 2026
-
-Gabon launched an electronic document management platform at the General Secretariat of the Government on 16 September, developed with the national digital infrastructure and frequencies agency. It lets administrations register, classify, search, share and preserve documents, reducing reliance on paper.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Camera enforcement of road offences (video-verbalisation)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Infractions routières : le Gabon s’apprête à franchir le pas de la vidéo-verbalisation](https://www.gabonreview.com/infractions-routieres-le-gabon-sapprete-a-franchir-le-pas-de-la-video-verbalisation/)** — GabonReview, 29 September 2026
-
-Gabon's road-safety directorate inspected the first cameras for automated enforcement of speeding, red-light and parking offences across Grand Libreville, ahead of going live. How notices will be served and fines collected has not been published.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1390,70 +702,6 @@ Gabon's National Assembly launched a Legislative Work Management Platform (GTLAN
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">MyGov digital services platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gov't steps up to tackle ID card, passport delays](https://thepoint.gm/africa/gambia/headlines/govt-steps-up-to-tackle-id-card-passport-delays)** — The Point, 1 September 2026
-
-The Gambia's Ministry of Public Service said on 28 August it has cut steps from ID card and passport procedures and built their workflows into the MyGov platform, developed with JICA and partners in Bangladesh. MyGov has not launched because of contractual issues over passport issuance; rollout is hoped for before the end of 2026. A mass registration drive, including mobile teams in Spain and Italy, is issuing 10-year ID cards.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Objections to the supplementary voter roll</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GAMBIA: IEC Revising Courts Open Voter Register Disputes as Election Credibility Comes Under Scrutiny](https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/)** — Askani Gambia, 3 September 2026
-
-Revising courts set up by The Gambia's Chief Justice began hearing objections to the 2026 supplementary voter registration, the Independent Electoral Commission said on 31 August 2026. Hearings in nine magistrates' courts are due to finish within 60 days. The Commission received about 1,600 objections and earlier deleted 14,334 duplicate registrations ahead of the 5 December presidential election.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Gambia Revenue Authority revenue collection dashboard</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GRA and Liberia Revenue Authority sign deal to deepen digital cooperation](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)** — The Point, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
-
-The Gambian account of the Liberia–Gambia revenue dashboard agreement, summarised under the GNN Liberia report. It adds that the LRA pays the expert's airfare while the GRA covers lodging and local transport.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[LRA to Provide Technical Support for Gambia’s Revenue Collection Dashboard](https://gnnliberia.com/lra-to-provide-technical-support-for-gambias-revenue-collection-dashboard/)** — Global News Network Liberia, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
-
-The Liberia Revenue Authority signed a memorandum of engagement to help the Gambia Revenue Authority build a dashboard that tracks revenue collection; it was announced from Accra on 20 September 2026 and signed during meetings of the West African Tax Administration Forum. The help covers a review of GRA's data sources, choice of indicators, design, a prototype, integration and staff training. The LRA will send the developer of its own dashboard to Banjul for an initial three weeks.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Duty Waiver Application System</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gov’t promises duty waiver decision in 72 hrs with new digital system](https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system)** — The Point, 30 September 2026
-
-The Gambia's finance ministry, with the Gambia Revenue Authority and the Gambia National Single Window, introduced a digital Duty Waiver Application System that replaces a paper process. Applicants are promised a decision within 72 hours when all requirements are met, with SMS updates.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Three-year biometric driving licence</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1480,63 +728,21 @@ The Gambia Public Procurement Authority held training from 8 to 10 October 2026 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">InTouch revenue-monitoring partnership with the Gambia Revenue Authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegalese Fintech InTouch Signs 10-Year Partnership With Gambia To Strengthen Tax Revenue Collection](https://gambiaj.com/economy/finance/senegalese-fintech-intouch-signs-10-year-partnership-with-gambia-to-strengthen-tax-revenue-collection/)** — The Gambia Journal, 31 October 2026
+
+The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year agreement with Senegalese fintech InTouch on 30 October 2026, after an international tender with three bidders. InTouch will run a platform that monitors transactions and processes government payments, giving the state real-time revenue data. Online gaming is the first sector targeted.
+
+</div>
+
+</div>
+
 ## Ghana
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Public records and archives digitisation</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Government begins digitisation of 3.5 million public records – Sam George](https://www.myjoyonline.com/government-begins-digitisation-of-3-5-million-public-records-sam-george/)** — MyJoyOnline, 7 September 2026
-
-Ghana signed a contract to digitise 3.5 million public records held by the archives department, presented as records-management modernisation and better access to official information.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Rent Control Department digitisation programme</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Heads must roll; there is nothing to show for NPP's $1.7m digitisation - Rent Control boss - Adomonline.com](https://www.adomonline.com/heads-must-roll-there-is-nothing-to-show-for-npps-1-7m-digitisation-rent-control-boss/)** — Adomonline.com, 18 September 2026
-
-Ghana's acting rent control commissioner called for an investigation into a digitisation programme on which US$1.7 million was reportedly spent under the previous government, saying he found only four computers at the facility. No audit finding is yet on record.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Integrated Courier and Logistics Management System (iCOLMS-GH)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Ghana launches digital platform to regulate the courier sector](https://www.worldports.org/ghana-launches-digital-platform-to-regulate-the-courier-sector/)** — World Ports Organization, 20 September 2026
-
-Ghana's communications minister Samuel Nartey George launched the Integrated Courier and Logistics Management System (iCOLMS-GH), a paperless licensing platform for courier companies and delivery riders linked to Ghana.GOV and the National Identification Authority. A compliance grace period ran from 12 to 31 March 2026, with police and regulator enforcement from 1 April; the report appeared on 20 September 2026 and gives no launch date.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Ghana Tourism Information System (GTIS)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GTA pushes digital reset for tourism sector](https://www.graphic.com.gh/news/general-news/ghana-news-gta-pushes-digital-reset-for-tourism-sector.html)** — Graphic Online, 22 September 2026
-
-The chief executive of the Ghana Tourism Authority, Maame Efua Houadjeto, said on 18 September 2026 that its Ghana Tourism Information System will put registration, licensing and renewal, tourism levy filing and payment, establishment records and public verification into one digital system. No launch date, cost or supplier is given.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1556,13 +762,13 @@ The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They 
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">E-FONIJ youth insertion platform</p>
+<p class="monthly-story__name">Guichet Unique des Services Publics (GUSP)</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[E-FONIJ : le FONIJ lance une mobilisation nationale pour fédérer les acteurs de l'insertion autour d'un écosystème numérique au service de la jeunesse](https://guineenews.org/wp-content/uploads/2026/09/communique-de-press-FONIJ-2.pdf)** — FONIJ (Fonds National pour l'Insertion des Jeunes), 3 September 2026
+**[Guichet unique des services publics : le ministre Bourouno mobilise les maires de Conakry pour rapprocher l'administration des citoyens](https://mediaguinee.com/2026/10/guichet-unique-des-services-publics-le-ministre-bourouno-mobilise-les-maires-de-conakry-pour-rapprocher-ladministration-des-citoyens/)** — Mediaguinee, 6 October 2026
 
-Guinea's National Youth Insertion Fund (FONIJ) launched E-FONIJ, a digital platform for youth information, orientation, training and job placement, in a communiqué dated 3 September 2026. It is live at efonij.gn and on Google Play, with an iOS version to follow; FONIJ invited public bodies, companies, banks, training bodies and NGOs to join.
+Guinea's minister of administrative modernisation and the civil service, Faya François Bourouno, presented the government's one-stop public service counter project to the mayors of Conakry's 13 communes on 6 October 2026. The next step is to choose the first pilot sites with the communes. No cost or timetable is given.
 
 </div>
 
@@ -1574,31 +780,9 @@ Guinea's National Youth Insertion Fund (FONIJ) launched E-FONIJ, a digital platf
 
 <div class="bulletin-item" markdown="1">
 
-**[À Vienne, la Guinée porte sa voix contre la corruption et plaide pour une gouvernance plus transparente](https://guineenews.org/2026/09/04/a-vienne-la-guinee-porte-sa-voix-contre-la-corruption-et-plaide-pour-une-gouvernance-plus-transparente/)** — Guinéenews©, 4 September 2026
-
-Guinea's National Anti-Corruption Agency sent a delegation led by its executive secretary, Mohamed Bérété, to the UN Convention against Corruption review group in Vienna from 31 August to 4 September 2026. It cited the DAMANDA digital mining cadastre and the TELEMO public procurement platform as transparency measures linked to the Simandou 2040 programme.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
 **[Commande publique : l'ARMP, la DGCMP et la Banque mondiale font le point sur l'évolution Télémo](https://armpguinee.org/commande-publique-larmp-la-dgcmp-et-la-banque-mondiale-font-le-point-sur-levolution-telemo/)** — ARMP Guinée, 8 October 2026
 
 Guinea's procurement regulator, the control directorate and the World Bank reviewed the Télémo e-procurement platform, in a new phase of use since September. The price reference list and public-private partnerships are not yet integrated, and a new procurement law is being drafted.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Guichet Unique des Services Publics (GUSP)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Guichet unique des services publics : le ministre Bourouno mobilise les maires de Conakry pour rapprocher l'administration des citoyens](https://mediaguinee.com/2026/10/guichet-unique-des-services-publics-le-ministre-bourouno-mobilise-les-maires-de-conakry-pour-rapprocher-ladministration-des-citoyens/)** — Mediaguinee, 6 October 2026
-
-Guinea's minister of administrative modernisation and the civil service, Faya François Bourouno, presented the government's one-stop public service counter project to the mayors of Conakry's 13 communes on 6 October 2026. The next step is to choose the first pilot sites with the communes. No cost or timetable is given.
 
 </div>
 
@@ -1661,209 +845,6 @@ The head of the President's cabinet launched the Integrated Fisheries and Mariti
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">iTax</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[MONARI: When iTax fails, the taxpayer still pays](https://www.the-star.co.ke/opinion/star-blogs/2026-09-01-monari-when-itax-fails-the-taxpayer-still-pays)** — The Star, 1 September 2026
-
-A column on Kenya's tax portal failing on the evening of the 30 June filing deadline, when the revenue authority itself notified a traffic surge and intermittent delays. The penalties for late filing continued to run.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Unreconciled gap in the service platform's reported collections</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[eCitizen under scrutiny over Sh36.5bn collections gap](https://radiogeneration.co.ke/news/110840/ecitizen-under-scrutiny-over-sh365bn-collections-gap)** — Radio Generation Kenya, 2 September 2026
-
-Kiambu gubernatorial aspirant Bonnie Mwangi called on 2 September 2026 for Parliament to investigate Kenya's eCitizen payment platform, citing Auditor-General findings for 2023/24. Reported collections were about Sh100.84 billion but bank statements supported only Sh64.30 billion, a gap of Sh36.5 billion, and four transfers worth Sh127.85 million went from the government paybill to private entities without supporting approvals.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Integrated Elections Management System procurement</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[2027 elections technology: IEBC ordered to review tender rules](https://nation.africa/kenya/news/2027-elections-technology-iebc-ordered-to-review-tender-rules-5583270)** — Daily Nation, 4 September 2026
-
-Kenya's Public Procurement Administrative Review Board ordered the electoral commission, IEBC, to correct and re-issue its tender for 2027 election technology, reported on 4 September 2026, finding that it did not disclose how technical scores would be awarded. The board told IEBC to seek advice from the procurement regulator and give bidders at least seven days, and rejected a claim that the specifications favoured Miru Systems.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[PPARB Application No. 192 of 2026: Leading Edge Limited v Accounting Officer, IEBC & IEBC — Tender No. IEBC/OIT/001A/2026-2027, Integrated Elections Management System (IEMS)](https://ppra.go.ke/?mdocs-file=15510)** — Public Procurement Administrative Review Board (Kenya), 14 October 2026
-
-Kenya's procurement review board dismissed Leading Edge Limited's challenge to the electoral commission's tender for an Integrated Elections Management System. It ordered the commission to proceed and the applicant to pay KSh 2 million in costs.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[IEBC cleared to proceed with Sh6.5bn election technology tender](https://nation.africa/kenya/news/iebc-cleared-to-proceed-with-sh6-5bn-election-technology-tender-5633132)** — Daily Nation, 15 October 2026
-
-Kenya's procurement review board cleared the electoral commission to continue its KSh 6.5 billion tender for election technology for 2027. The board upheld the tender's device and turnover thresholds and rejected a bidder's challenge.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Government Vehicle Management System</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[West African Governments Are Finally Tracking Their Own Vehicles](https://www.liberianobserver.com/business/tech/west-african-governments-are-finally-tracking-their-own-vehicles/article_18727049-497e-4084-9c65-2a736a62ebc2.html)** — Liberian Observer, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
-
-A named analyst's column in the Liberian Observer contrasts Kenya's Government Vehicle Management System, announced on 6 August 2026 by head of public service Felix Koskei to track every state vehicle's driver, fuel, mileage and maintenance, with Liberia's handover of 56 untracked vehicles and motorbikes to agriculture officers.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Citizen adoption of and satisfaction with digital government services</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Kenyans among world's heaviest AI users, survey shows](https://techtrendske.co.ke/2026/09/10/kenyans-among-worlds-heaviest-ai-users-survey-shows/)** — TechTrends Media Ltd, 10 September 2026
-
-Boston Consulting Group's eighth biennial Digital Government Citizen Survey found 87% of Kenyan respondents use AI at least weekly, against a global average of 64%. Kenya's adoption of digital government services is 49%, net satisfaction fell five points since 2024 to 64%, and only 12% of users reported no problems, the lowest share of any market surveyed.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Multi-vendor electronic seals under the regional cargo tracking system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Approved vendors for the electronic monitoring and tracking of goods under customs control and transition to the multi-vendor user-owned framework](https://www.kra.go.ke/news-center/public-notices/2393-approved-vendors-for-the-electronic-monitoring-and-tracking-of-goods-under-customs-control-and-transition-to-the-multi-vendor-user-owned-framework)** — Kenya Revenue Authority, 11 September 2026
-
-The Kenya Revenue Authority has approved 15 vendors to provide electronic tracking of goods under customs control, moving the Regional Electronic Cargo Tracking System to a multi-vendor, user-owned model for dry-cargo and fuel seals. KRA-owned seals will be phased out by 26 October 2026. The notice does not list the vendors.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[KRA's unveils new system to boost cargo security and risk management](https://www.standardmedia.co.ke/business/article/2001557851/kra-s-unveils-new-system-to-boost-cargo-security-and-risk-management)** — The Standard, 15 September 2026
-
-The Kenya Revenue Authority is replacing its government-owned electronic cargo seal system with a multi-vendor framework from 26 October 2026, under the Regional Electronic Cargo Monitoring System. Importers, exporters, agents and transporters will choose among 15 approved private vendors for dry cargo and fuel seals; the authority says this brings GPS tracking and geofencing.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Traders support revenue agency’s multi-vendor cargo tracking system](https://www.the-star.co.ke/business/markets/2026-09-16-traders-support-revenue-agencys-multi-vendor-cargo-tracking-system)** — The Star (Kenya), 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
-
-Importers, exporters and logistics firms welcomed the Kenya Revenue Authority's decision to open the regional electronic cargo tracking system to private seal vendors. The Shippers Council of Eastern Africa expects competition to end seal shortages that have delayed transit cargo at Mombasa.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[KRA Rolls-Out Multi-Vendor Electronic Cargo Seal Framework to Enhance Trade Efficiency](https://www.kra.go.ke/news-center/press-release/2405-kra-rolls-out-multi-vendor-electronic-cargo-seal-framework-to-enhance-trade-efficiency)** — Kenya Revenue Authority, 27 October 2026
-
-The Kenya Revenue Authority began rolling out a multi-vendor electronic cargo seal framework on 27 October 2026. It replaces the single-vendor arrangement in place since 2017. All seals connect to the East African Community's regional cargo tracking system.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online driving-licence renewal and application service</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[NTSA Clarifies System Hitch Affecting Driving Licenses](https://www.kenyans.co.ke/news/126973-ntsa-confirms-system-hitch-affecting-driving-licence-renewals)** — Kenyans.co.ke, 11 September 2026
-
-Kenya's National Transport and Safety Authority said on 11 September 2026 that a fault on its side was blocking online driving-licence renewals and first-time applications, which showed a blank page. It gave no date for a fix. The outage came a day after the authority began a nationwide document-compliance crackdown with the police.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">DigiKen programme</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Kenya’s DigiKen Programme Mobilises $4.26 Million for Digital Transformation](https://techafricanews.com/2026/09/15/kenya-digiken-programme-4-26-million-digital-transformation/)** — Tech Africa News, 15 September 2026
-
-A multi-stakeholder digital programme carrying about US$4.26m in funding and co-financing supports fifteen innovation hubs in media and information literacy, digital skills, platform entrepreneurship and sustainable agriculture. Its steering committee reviewed progress.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Huduma Centres</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Mwea residents get government services closer home with new Huduma Centre](https://www.kbc.co.ke/mwea-residents-get-government-services-closer-home-with-new-huduma-centre/)** — Kenya Broadcasting Corporation, 18 September 2026
-
-Kenya's Deputy President, Kithure Kindiki, commissioned the Mwea Huduma Centre at Ngurubani on 18 September 2026; it has operated since July. It is Kenya's 61st Huduma Centre and offers identity documents, birth and death certificates and Kenya Revenue Authority services under one roof, with a Jitume ICT hub for youth digital skills.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Huduma Centres face legal test after 12 years without framework](https://nation.africa/kenya/news/huduma-centres-face-legal-test-after-12-years-without-framework-5633076)** — Daily Nation, 15 October 2026
-
-Kenya's Auditor-General found that the secretariat running the Huduma Centres has worked since 2014 without the policy and legal framework its founding notice requires, so the legality of its operations could not be confirmed. The Public Service principal secretary told MPs a draft framework is with the Cabinet Secretary.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Party and observer access to the voter registration system's source code and audit logs</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Political parties, election observers to access IEBC voter register](https://www.standardmedia.co.ke/politics/article/2001558186/political-parties-election-observers-to-access-iebc-voter-register)** — The Standard, 20 September 2026
-
-Kenyan political parties and election observers are to be given access to the source code and audit logs of the electoral commission's continuous voter registration system, following a court directive. The account is a free lede behind a paywall and names neither the court, the case nor the date of the directive.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Kenya Diaspora Impact Platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Kenya, UN and Equity Sign Joint Declaration of Intent for the Kenya Diaspora Impact Platform Initiative](https://diaspora.go.ke/news-details.php?nid=253)** — State Department for Diaspora Affairs, Kenya, 21 September 2026
-
-Kenya's government, the United Nations in Kenya and Equity Group Holdings signed a joint declaration of intent in New York on 20 September 2026 to work on the Kenya Diaspora Impact Platform, a digital gateway linking diaspora investors to verified investment and development projects in Kenya. No budget, operator or launch date is given.
-
-</div>
-
-</div>
-
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Electronic Travel Authorisation (eTA) system</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1892,6 +873,42 @@ Kenya's Senate ICT committee questioned National Transport and Safety Authority 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Integrated Elections Management System procurement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PPARB Application No. 192 of 2026: Leading Edge Limited v Accounting Officer, IEBC & IEBC — Tender No. IEBC/OIT/001A/2026-2027, Integrated Elections Management System (IEMS)](https://ppra.go.ke/?mdocs-file=15510)** — Public Procurement Administrative Review Board (Kenya), 14 October 2026
+
+Kenya's procurement review board dismissed Leading Edge Limited's challenge to the electoral commission's tender for an Integrated Elections Management System. It ordered the commission to proceed and the applicant to pay KSh 2 million in costs.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IEBC cleared to proceed with Sh6.5bn election technology tender](https://nation.africa/kenya/news/iebc-cleared-to-proceed-with-sh6-5bn-election-technology-tender-5633132)** — Daily Nation, 15 October 2026
+
+Kenya's procurement review board cleared the electoral commission to continue its KSh 6.5 billion tender for election technology for 2027. The board upheld the tender's device and turnover thresholds and rejected a bidder's challenge.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Huduma Centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Huduma Centres face legal test after 12 years without framework](https://nation.africa/kenya/news/huduma-centres-face-legal-test-after-12-years-without-framework-5633076)** — Daily Nation, 15 October 2026
+
+Kenya's Auditor-General found that the secretariat running the Huduma Centres has worked since 2014 without the policy and legal framework its founding notice requires, so the legality of its operations could not be confirmed. The Public Service principal secretary told MPs a draft framework is with the Cabinet Secretary.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Speed-limiter telematics platform for the transport authority</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1913,6 +930,20 @@ Kenya's Konza Technopolis Development Authority has put live a Digital Telematic
 **[Kenya and Germany Advance Digital Transformation Partnership Through DTC II](https://techafricanews.com/2026/10/27/kenya-germany-digital-transformation-dtc-ii/)** — TechAfrica News, 27 October 2026
 
 Kenya's State Department for ICT and the Digital Economy and GIZ worked on finalising the implementation agreements for the Digital Transformation Centre II programme, after feedback from National Treasury. Tax exemptions for the programme remain unresolved.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Multi-vendor electronic seals under the regional cargo tracking system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[KRA Rolls-Out Multi-Vendor Electronic Cargo Seal Framework to Enhance Trade Efficiency](https://www.kra.go.ke/news-center/press-release/2405-kra-rolls-out-multi-vendor-electronic-cargo-seal-framework-to-enhance-trade-efficiency)** — Kenya Revenue Authority, 27 October 2026
+
+The Kenya Revenue Authority began rolling out a multi-vendor electronic cargo seal framework on 27 October 2026. It replaces the single-vendor arrangement in place since 2017. All seals connect to the East African Community's regional cargo tracking system.
 
 </div>
 
@@ -1960,75 +991,7 @@ ICT Principal Secretary John Tanui said Kenya has laid more than 30,000 km of fi
 
 </div>
 
-## Lesotho
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Data Value Creation Blueprint</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[The Government of Lesotho tabled a National Data Value Creation Blueprint draft to position Lesotho competitively on the international digital landscape](https://www.gov.ls/ict/the-government-of-lesotho-tabled-a-national-data-value-creation-blueprint-draft-to-position-lesotho-competitively-on-the-international-digital-landscape/)** — Government of Lesotho (sourced from Lesotho News Agency, LENA), 16 September 2026
-
-Lesotho's Ministry of Information, Communications, Science, Technology and Innovation presented a draft National Data Value Creation Blueprint for validation at a workshop in Maseru, reported on 16 September 2026. Participants reviewed its strategic framework, priority use cases and required infrastructure, with three to five flagship use cases to be selected. The Smart Africa Digital Academy is guiding the work; the draft itself is not published.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Lesotho makes history](https://lestimes.com/?p=91596)** — Lesotho Times, 17 September 2026
-
-Lesotho became the first country to validate a Smart Africa Data Value Creation Blueprint, at a workshop in Maseru convened by its ICT ministry with Smart Africa and GIZ. An accompanying diagnostic calls the country's data ecosystem emerging but fragmented, rates data quality, access and interoperability weakest of five dimensions, and lists 11 priority gaps.
-
-</div>
-
-</div>
-
 ## Liberia
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">iSoft public sector internal audit management system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[IAA Goes Digital](https://www.thenewdawnliberia.com/iaa-goes-digital/)** — The New Dawn Liberia, 9 September 2026
-
-Liberia's Internal Audit Agency was due to launch its own custom software for planning, running and tracking internal audits across government on 10 September 2026 at Monrovia City Hall, Information Minister Jerolinmek Matthew Piah announced. It is the agency's first in-house digital system. No cost is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[IAA Launches Digital System to Strengthen Public Sector Audits](https://www.liberianobserver.com/business/iaa-launches-digital-system-to-strengthen-public-sector-audits/article_401f3132-cbd4-4d00-bd3c-1bc92b0d0412.html)** — Liberian Observer, 11 September 2026
-
-Liberia's Internal Audit Agency launched the iSoft Public Sector Internal Audit Management System in Monrovia, reported on 11 September 2026. Director General David Kermah said it replaces paper-based auditing and lets auditors plan audits, track findings and management responses, and produce reports from a central dashboard. No cost is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Liberia: IAA Launches Digital Platform To Improve Audit Processes](https://frontpageafricaonline.com/liberia-iaa-launches-digital-platform-to-improve-audit-processes/)** — FrontPageAfrica, 11 September 2026
-
-Liberia's Internal Audit Agency launched iSoft, a public-sector audit management system, in Monrovia on 10 September 2026 to replace paper-based audits. Director General David Kemah said auditors can plan audits, track findings and management responses, and produce real-time reports, with an audit trail for every government institution. No cost or supplier is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">General Auditing Commission audit automation system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GAC Automates Public Audits](https://www.thenewdawnliberia.com/gac-automates-public-audits/)** — The New Dawn Liberia, 23 September 2026
-
-Liberia's General Auditing Commission has begun automating public-sector audits, with KPMG contracted to build audit software under a World Bank-supported project, deputy information minister Daniel Sanoe said at a press briefing on 22 September 2026. No contract value or timetable is given.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -2062,56 +1025,6 @@ Liberia's Office of the Chief Information Officer met ministries and agencies on
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Electronic visa applications and approvals</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[مركز خدمة المواطن يبحث دعم منظومة التأشيرة الإلكترونية](https://ar.libyaobserver.ly/article/38605)** — ليبيا أوبزيرفر (Libya Observer, Arabic), 5 September 2026
-
-Libya's Citizen Service Centre and the Passports, Nationality and Foreigners Affairs Authority agreed a joint technical and administrative support mechanism for the national E-Visa system, reported on 5 September 2026. It will receive and process enquiries and complaints from citizens and residents and unify communication between the agencies involved. No date or resources are given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[مصلحة الجوازات تتلقى 773 طلباً للحصول على التأشيرات الإلكترونية خلال أسبوع](https://lana.gov.ly/post.php?id=368841&lang=ar)** — Libyan News Agency (LANA), 29 October 2026
-
-Libya's Passports, Nationality and Foreigners Affairs Authority received 773 e-visa applications from 78 nationalities between 23 and 29 October 2026. It approved 610 and refused 65, and 98 were still pending.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Customs automated inspection and coastal monitoring contracts</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[‘‘Leading international companies’’ discuss with Customs Authority activating automated inspection contracts & projects](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/)** — Libya Herald, 16 September 2026
-
-Libya's Customs Authority met foreign contractors on 15 September 2026 to revive automated inspection, container scanning and coastal monitoring contracts signed in earlier years but never completed. The meeting reviewed what had been delivered and what had blocked the rest; no contract values or dates were given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Unified national database for international support</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[«المركزي» يبحث إنشاء منظومة إلكترونية وقاعدة بيانات موحدة للدعم الدولي](https://alwasat.ly/news/478765)** — بوابة الوسط, 21 September 2026
-
-Libya's central bank governor, Naji Issa, put forward an electronic system and a single national database for recording and following up international grants, projects and support. He made the proposal on 21 September 2026 at the second meeting of the committee set up under prime-ministerial decision 422 of 2026. The idea is still under discussion and has not been adopted.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Athar audit-task platform</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2124,21 +1037,21 @@ Libya's Audit Bureau presented its Athar platform for managing and following up 
 
 </div>
 
-## Madagascar
-
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Alalana export-authorisation platform</p>
+<p class="monthly-story__name">Electronic visa applications and approvals</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[COMMERCE - Les démarches d'exportation simplifiées](https://www.lexpress.mg/2026/09/commerce-les-demarches-dexportation.html)** — L'Express de Madagascar, 22 September 2026
+**[مصلحة الجوازات تتلقى 773 طلباً للحصول على التأشيرات الإلكترونية خلال أسبوع](https://lana.gov.ly/post.php?id=368841&lang=ar)** — Libyan News Agency (LANA), 29 October 2026
 
-Madagascar's Ministry of Commerce and Consumption began two days of training for its regional directorates on Alalana, a platform for handling export authorisation requests, at Mahamasina on 21 September 2026. Minister Andriamadison Haingotiana said it speeds up processing and makes it more transparent; vanilla and cloves are among the products covered. No launch date, cost or supplier is given.
+Libya's Passports, Nationality and Foreigners Affairs Authority received 773 e-visa applications from 78 nationalities between 23 and 29 October 2026. It approved 610 and refused 65, and 98 were still pending.
+
+</div>
 
 </div>
 
-</div>
+## Madagascar
 
 <div class="monthly-story" markdown="1">
 
@@ -2163,6 +1076,20 @@ Madagascar's tax directorate launched Torohy on 9 October, a platform for the pu
 **[ADMINISTRATION – Le site de demande de passeport en ligne en cours de test, selon le ministère en charge du Développement numérique](https://www.2424.mg/administration-le-site-de-demande-de-passeport-en-ligne-en-cours-de-test-selon-le-ministere-en-charge-du-developpement-numerique/)** — 2424.mg, 11 October 2026
 
 Madagascar's digital ministry said its online passport application portal is being tested. Applicants will be able to file, pay and track a first application, renewal or replacement online, while biometric capture and signature remain in person; no launch date was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">i-Fanagna asset declaration platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lutte contre la corruption: le Bianco lance i-Fanagna, une plateforme numérique de déclaration de patrimoine](https://www.2424.mg/news/lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-numerique-de-declaration-de-patrimoine)** — 2424.mg, 31 October 2026
+
+Madagascar's anti-corruption bureau BIANCO launched i-Fanagna, a platform for filing asset and economic-interest declarations remotely (reported October 2026). BIANCO will also use it to track illicit financial flows. The African Development Bank financed it through the PREGODI governance-by-digitalisation project.
 
 </div>
 
@@ -2228,21 +1155,21 @@ Mauritania's national solidarity agency launched Sanad, a single digital platfor
 
 </div>
 
-## Mauritius
-
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Online Waste Carrier Licence applications (Economic Development Board platform)</p>
+<p class="monthly-story__name">Transactional online public services</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[Ile Maurice: Les demandes de «Waste Carrier Licence» en ligne à partir d'octobre](https://fr.allafrica.com/stories/202609220486.html)** — Le Mauricien (via allAfrica), 22 September 2026
+**[E-gouvernance : le Bénin et la Mauritanie à l'école estonienne, et vice versa](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)** — TransContinents Africa, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
-Mauritius's environment ministry announced on 21 September 2026 that applications for a Waste Carrier Licence must be made online through the Economic Development Board platform from October. The rule covers individuals, companies, parastatals, local authorities and ministries, who must upload scanned identity and vehicle documents.
+Benin and Mauritania compared their digital government programmes at Estonia's embassy in Paris on 28 October 2026. Benin reported more than 210 end-to-end online services, up from five at launch in March 2020, and digital identity for over 99% of the population. Mauritania reported about 40 transactional services out of nearly 900 targeted.
+
+</div>
 
 </div>
 
-</div>
+## Mauritius
 
 <div class="monthly-story" markdown="1">
 
@@ -2290,42 +1217,6 @@ Mauritius's Cabinet noted on 16 October 2026 that 162 Safe City cameras on 75 si
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Electronic filing of election candidacies</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[انتخاب أعضاء مجلس النواب.. إيداع التصريحات بالترشيح إلى غاية 9 شتنبر (بلاغ للداخلية)](https://assabah.ma/947667.html)** — Assabah, 4 September 2026
-
-Morocco's interior ministry said candidacies for the 23 September 2026 House of Representatives election must first be filed online on elections.ma, open from 31 August until noon on 8 September, before original files are lodged with the authorities by noon on 9 September. Equipped rooms are provided at prefectures and provinces, and campaigning runs from 10 to 22 September.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Idarati national portal, new version</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Idarati : vers une administration plus proche, proactive et centrée sur le citoyen](https://www.mmsp.gov.ma/fr/actualites/idarati-vers-une-administration-plus-proche-proactive-et-centr%C3%A9e-sur-le-citoyen)** — Ministère de la Transition Numérique et de la Réforme de l'Administration (MTNRA), 18 September 2026
-
-The Moroccan digital transition ministry's own communiqué on the relaunched Idarati portal presents it as a proactive, user-centred single access point to administrations' digital services.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Lancement de la nouvelle version du portail national Idarati, pour une administration plus proche et plus intelligente](https://fr.assahafa.com/lancement-de-la-nouvelle-version-du-portail-national-idarati-pour-une-administration-plus-proche-et-plus-intelligente/)** — Assahafa, 18 September 2026
-
-Morocco's digital transition ministry launched a new version of the Idarati portal, giving access to 874 online services organised around user journeys and 2,533 published administrative acts, with a feedback function, an accessibility redesign and a marketplace of AI solutions. The ministry presents it as groundwork for Idarati X.0.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Foreign-exchange office E-Declarations platform</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2339,109 +1230,6 @@ The Office des changes opened an international tender for an e-declarations plat
 </div>
 
 ## Mozambique
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Road transport digital licensing system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[INATRO lança sistema de licenciamento digital](https://jornalnoticias.co.mz/destaque/inatro-lanca-sistema-de-licenciamento-digital/)** — Jornal Notícias, 1 September 2026
-
-Mozambique's road transport institute, INATRO, launched a digital licensing system at the Maputo International Fair on 1 September 2026. Applications for special transit licences for oversize and overweight vehicles, and certificates for emergency lights and sirens, can now be made and issued fully online.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Citizen Portal</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[ATDI apresenta Portal do Cidadão e coloca serviços públicos à distância de um clique](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp)** — Agência de Transformação Digital e Inovação, IP (ATDI), 3 September 2026
-
-Mozambique's digital transformation agency ATDI presented its Citizen Portal at the Maputo International Fair on 3 September 2026, a single site for checking requirements, submitting and tracking requests and receiving documents. ATDI listed supporting projects including interoperability, digital identity, the GovNET state network, a state e-payments system and the CloudGov government cloud. No launch date or cost is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[ATDI lanca Portal do Cidadao na FACIM 2026 para digitalizar mais de 140 servicos publicos em Mocambique](https://mznews.co.mz/atdi-lanca-portal-do-cidadao-na-facim-2026-para-digitalizar-mais-de-140-servicos-publicos-em-mocambique/)** — MZNews, 4 September 2026
-
-Mozambique's digital transformation agency formally presented the Portal do Cidadao at the 61st Maputo international fair, a platform to centralise and digitise about 140 public services nationwide and remove the need to travel to different state institutions.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[ATDI lança Portal do Cidadao na FACIM 2026 para digitalizar mais de 140 servicos publicos em Mocambique](https://mznews.co.mz/atdi-lanca-portal-do-cidadao-na-facim-2026-para-digitalizar-mais-de-140-servicos-publicos-em-mocambique/)** — MZNews, 4 September 2026
-
-Mozambique's digital transformation agency unveiled the Portal do Cidadao at the Maputo international fair, a single virtual counter for about 140 public services where citizens check requirements, submit applications, track case status, receive notifications and obtain official documents remotely. The agency named two supporting pillars - interoperability between public bodies so citizens are not asked twice for the same data, and a digital identity for secure authentication.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Moçambique acelera modernização do Estado para colocar serviços básicos na palma do cidadão](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/)** — Brasil 247, 8 September 2026
-
-An official of Mozambique's Agency for Digital Transformation and Innovation (ATDI), set up in March 2026, said 23 million of the country's 35 million people are unidentified and only about 200,000 of some 2 million annual births are registered. He said the single public services portal already offers 21 services, including identity cards, driving licences and passports.
-
-</div>
-
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">State digital certification system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Mozambique PM urges INTIC to expand digital certification across state institutions](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions)** — TechReviewAfrica, 11 September 2026
-
-Mozambique's prime minister, Benvinda Levi, told the national ICT institute INTIC on 5 September 2026, at the Maputo International Fair (FACIM 2026), to speed up and extend its digital certification system to all state institutions. She was briefed on INTIC's work on cybersecurity, certification and licensing. No timetable or budget is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Government email service (CorreioGOV)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Governo restabelece Serviço de Correio Electrónico após intervenção técnica](https://mznews.co.mz/governo-restabelece-servico-de-correio-electronico-apos-intervencao-tecnica/)** — MZNews, 14 September 2026
-
-Mozambique's Digital Transformation and Innovation Agency said the government email service, CorreioGOV, had been fully restored after a technical intervention. Some services that had been unavailable remained partly restricted, with a return to normal expected during 14 September. No cause or duration of the outage is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Mozambique: Government email service restored after maintenance work](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/)** — Club of Mozambique, 14 September 2026
-
-Mozambique's digital transformation agency said the government email service CorreioGOV was restored after maintenance, with some peripheral services still restricted. Neither the start of the outage nor its cause was given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Central purchasing body (CAE)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Estado Centraliza Compras Públicas E Coloca Nova Estrutura Sob Auditoria Externa Anual](https://www.oeconomico.com/estado-centraliza-compras-publicas-e-coloca-nova-estrutura-sob-auditoria-externa-anual/)** — O Económico, 24 September 2026
-
-Mozambique has created a central purchasing body, the Central de Aquisições do Estado, by Decree 22/2026 of 8 June, to run certain purchases of works, goods and services for the State, subject to annual external audit. Decree 46/2026 adds framework agreements, dynamic purchasing systems and joint purchasing, with electronic contracting meant to improve traceability.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -2521,34 +1309,6 @@ A private document-services firm said on 25 October 2026 that official fees are 
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Digital disability assessment system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Digital disability system faces rural roadblocks](https://www.namibian.com.na/digital-disability-system-faces-rural-roadblocks/)** — The Namibian, 8 September 2026
-
-Namibia's health ministry has launched a digital disability assessment system. On 8 September 2026 the Namibian Organisation of Youth with Disabilities welcomed the change but warned that poor rural connectivity, inadequate equipment and limited digital skills could make the system a new barrier outside the main towns.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Government pension fund integrated administration system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GIPF to invest N$40m in new pension administration system](https://thebrief.com.na/2026/09/gipf-to-invest-n40m-in-new-pension-administration-system/)** — The Brief (Namibia), 23 September 2026
-
-Namibia's Government Institutions Pension Fund plans to spend about N$40m on a new pension administration system built by Kenyan firm Cystech, its chief operating officer, Elvis Nashilongo, said, reported on 23 September 2026. Less than N$5m has been spent and the build should take about 16 months. The fund has signed data-sharing agreements with the revenue agency, the finance and home affairs ministries and financial institutions.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Standardised reporting template for online government services</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2561,38 +1321,7 @@ Namibia's Cabinet directed the ICT ministry to develop a standard template for r
 
 </div>
 
-## Niger
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Secure government intranet</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Ministère de la Communication et des NTI : le nouveau ministre Hamani Kargné officiellement installé](https://www.actuniger.com/politique/22383-ministere-de-la-communication-et-des-nti-le-nouveau-ministre-hamani-kargne-officiellement-installe.html)** — ActuNiger, 24 September 2026
-
-Hamani Kargné took office as Niger's Minister of Communication and New Information Technologies at a handover ceremony on 22 September 2026, succeeding Adji Ali Salatou. His stated priorities include digitising public services through a secure government intranet, narrowing the digital divide between rural areas and towns, supporting start-ups and cybersecurity.
-
-</div>
-
-</div>
-
 ## Nigeria
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">NPF Vigilant fraud reporting app</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Police Launch Vigilant App for Public Reporting of Financial Fraud](https://www.nigeriainfo.fm/news/homepagelagos/police-launch-vigilant-app-for-public-reporting-of-financial-fraud/)** — Nigeria Info FM, 2 September 2026
-
-The Nigeria Police Force launched the NPF Vigilant App on 1 September at its conference centre in Jabi, Abuja, a public channel for reporting suspected financial fraud, uploading evidence and tracking a case through to feedback. It was built by the Force ICT Department with financial-sector stakeholders and is meant to coordinate police handling with banks; the Central Bank of Nigeria, NIBSS, banks and fintechs attended. Inspector-General Olatunji Disu said the technology must be deployed lawfully and ethically, with respect for privacy and data protection.
-
-</div>
-
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -2600,129 +1329,9 @@ The Nigeria Police Force launched the NPF Vigilant App on 1 September at its con
 
 <div class="bulletin-item" markdown="1">
 
-**[BPP moves to digitalise procurement, tighten oversight of government spending](https://www.thepointng.com/bpp-moves-to-digitalise-procurement-tighten-oversight-of-government-spending/)** — ThePointNG, 3 September 2026
-
-Nigeria's Bureau of Public Procurement told the 2026 BAVCCA/BPP Procurement Performance Conference in Abuja that its reform programme centres on an electronic government procurement system and an online platform for compliance and oversight. The bureau says the system will cut manual handling and give better data on how public money is spent.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
 **[BPP to end physical bidding for govt contracts](https://dailytrust.com/bpp-to-end-physical-bidding-for-govt-contracts/)** — Daily Trust, 9 October 2026
 
 Nigeria's Bureau of Public Procurement plans to move federal bidding fully online through its e-GP system, so that contractors submit bids without meeting officials, its director-general said in Abuja. Submissions from the education ministry and federal universities already go through the PCOMS platform, and the bureau plans electronic audits of procuring agencies.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Ondo Pay state payroll and human resources platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Aiyedatiwa Ushers in New Era of Digital Governance with Ondo Pay](https://www.thisdaylive.com/2026/09/04/aiyedatiwa-ushers-in-new-era-of-digital-governance-with-ondo-pay/)** — ThisDay, 4 September 2026
-
-Nigeria's Ondo State government launched Ondo Pay, an AI-enabled human resources and payroll platform for its civil service, combining employee records, salary computation, approvals and pension migration. A mobile app gives staff access to payslips and deductions. The state says linking records to Bank Verification Number data will remove duplicate and non-genuine records and unauthorised payments.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">112 national emergency number</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Shettima urges swift action as Nigeria prepares for nationwide rollout of 112 emergency line](https://www.naltf.gov.ng/shettima-urges-swift-action-as-nigeria-prepares-for-nationwide-rollout-of-112-emergency-line)** — NALTF (Federal Government of Nigeria), 9 September 2026
-
-Nigeria's Vice-President Kashim Shettima directed a committee of the police, the Nigerian Communications Commission, the National Emergency Management Agency and the Federal Road Safety Corps to finalise a roadmap and operating procedures for the nationwide 112 emergency number, at a meeting in Abuja on 8 September 2026. The plan goes to the National Economic Council, which has approved 112 as the single emergency number. No budget is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Bureau of Public Procurement Digital Submission Portal</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[As Nigeria's procurement goes digital, why can't citizens see the contracts?](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/)** — Development Diaries, 9 September 2026
-
-Nigeria's Bureau of Public Procurement has made its Digital Submission Portal mandatory for procurement requests from federal ministries, departments and agencies, Development Diaries reports. The outlet notes that the government has not said it will publish contract awards, amounts or delivery records, and cites duties under the Public Procurement Act 2007 to maintain a contractor database and keep procurement records.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Citizen adoption of and satisfaction with digital government services</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Nigeria's digital government adoption now 50%, weekly usage hits 91%](https://techeconomy.ng/report-nigerias-digital-government-adoption-now-50-weekly-usage-hits-91)** — Techeconomy, 9 September 2026
-
-Boston Consulting Group's eighth biennial Digital Government Citizen Survey, covering 44 countries, found 91% of Nigerian respondents use AI weekly, the highest of any market surveyed. Nigeria's adoption of digital government services stands at 50%, and net satisfaction with them fell five points since 2024 to 64%.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Academic credential authentication portal</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Nigeria fully digitizes academic credential verification](https://www.biometricupdate.com/202609/nigeria-fully-digitizes-academic-credential-verification)** — Biometric Update, 10 September 2026
-
-Nigeria's education ministry says academic certificate authentication is now fully digitalised, with the whole credential evaluation and authentication process completed online through a dedicated government portal. The minister described it as capping several months of coordinated work.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Processing time for AfCFTA Certificates of Origin</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Nigeria Cuts AfCFTA Export Certificate to 24 Hours As Trade with Africa Grows](https://www.thisdaylive.com/2026/09/10/nigeria-cuts-afcfta-export-certificate-to-24-hours-as-trade-with-africa-grows)** — THISDAY, 10 September 2026
-
-Nigeria has cut the processing time for continental free-trade certificates of origin to 24 hours from more than five days, the trade minister announced in Abuja. She disclosed it at the third-quarter meeting of the free trade area's central coordination committee, presenting it as easing business for exporters.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Ondo AI civil-service and pension platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Ondo Launches AI System to Automate Civil Service, Pension](https://www.thisdaylive.com/2026/09/25/ondo-launches-ai-system-to-automate-civil-service-pension/)** — ThisDay, 25 September 2026
-
-Ondo State launched Ondo AI, a platform built by SmartApps IT Limited that automates civil-service personnel records, payroll, retirement processing and pension migration. It flags workers nearing retirement and gives staff self-service payslips.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Assembly legislative information systems</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[NASS to digitise records, translate laws into local languages](https://www.premiumtimesng.com/news/top-news/913159-nass-to-digitise-records-translate-laws-into-local-languages.html)** — Premium Times, 29 September 2026
-
-Nigeria's National Assembly Library Trust Fund said on 28 September 2026 that it is building electronic repositories, a legislative mobile app and a Bills Tracker, and plans to translate federal laws into Hausa, Yoruba, Igbo and other Nigerian languages. Executive secretary Henry Nwawuba announced the plans at the opening of the 2026 National Assembly Library Week. No cost or timetable is given.
 
 </div>
 
@@ -2818,42 +1427,6 @@ The latest Rwanda Governance Scorecard finds that 11% of government services are
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">e-Justice court digitisation programme</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Le Sénégal mise sur le numérique pour rapprocher les citoyens des tribunaux](https://lesoleil.sn/justice/le-senegal-mise-sur-le-numerique-pour-rapprocher-les-citoyens-des-tribunaux/)** — Le Soleil, 4 September 2026
-
-Senegal's justice ministry is to launch two digital platforms on 10 September 2026, Le Soleil reported on 4 September. e-Justice, backed by the UN Development Programme and piloted at the Pikine-Guédiawaye high court, puts case registration, prosecution, registry and appeals work online; Jokkoo ak Yoon takes citizens' complaints by free phone line, SMS, USSD and audio or video messages in national languages.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Modernisation de la justice : Les plateformes e-Justice et Jokko Ak Yoon officiellement lancees](https://www.seneweb.com/fr/news/Justice/modernisation-de-la-justice-les-plateformes-e-justice-et-jokko-ak-yoon-officiellement-lancees_n_503904.html)** — Seneweb, 10 September 2026
-
-Senegal officially launched two judicial digital platforms at the Lat Dior courthouse in Dakar, in a ceremony chaired by the justice minister's chief of staff. The launch is presented as a turning point in the modernisation and citizen accessibility of the judicial system.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Single public services centre on the ASAN model</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Senegal sets sights on Azerbaijan's ASAN Khidmet model rollout](https://www.trend.az/azerbaijan/society/4220630.html)** — Trend News Agency, 4 September 2026
-
-Senegal plans to open a single public-services centre on Azerbaijan's ASAN Khidmet model within three to four months, its civil service minister Mamadou Lamine Diante said in Baku on 4 September 2026. He spoke at the signing of a memorandum between his ministry and the Organisation of Islamic Cooperation's Islamic Labour Centre.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Public procurement platform APPEL</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2861,6 +1434,20 @@ Senegal plans to open a single public-services centre on Azerbaijan's ASAN Khidm
 **[GÉNÉRALISATION APPEL ET ACCÈS AUX OPPORTUNITÉS DE LA PLATEFORME :L’ARCOP accélère la préparation des entreprises](https://arcop.sn/2026/10/16/generalisation-appel-et-acces-aux-opportunites-de-la-plateforme-larcop-accelere-la-preparation-des-entreprises/)** — Autorité de Régulation de la Commande Publique (ARCOP), 16 October 2026
 
 Senegal's procurement regulator ARCOP told contracting authorities to load their 2027 procurement plans onto its APPEL e-procurement platform by 1 December 2026, ahead of general use from January 2027. It is training more than 325 contracting authorities and briefed ICT firms on the platform's electronic signature, encryption and timestamping.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National strategy for reception and orientation of public-service users (Snao)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Validation de la Snao : L'interopérabilité des services publics lancée pour supprimer les navettes administratives](https://www.seneweb.com/fr/news/Societe/validation-de-la-snao-linteroperabilite-des-services-publics-lancee-pour-supprimer-les-navettes-administratives_n_999002104.html)** — Seneweb, 29 October 2026
+
+Senegal began technical validation of its national strategy for receiving and directing users of public services in October 2026. The strategy simplifies procedures before digitising them and has administrations exchange civil status, court and police records directly. Health and security are the pilot sectors.
 
 </div>
 
@@ -2884,20 +1471,6 @@ Seychelles' Vice-President, Sebastien Pillay, said on 14 October 2026, at a Stat
 </div>
 
 ## Sierra Leone
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SierraSeat audit management information system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Audit Service Sierra Leone Advances Digital Transformation with SierraSeat Post-Configuration Training](https://afrosai-e.org.za/articles/audit-service-sierra-leone-advances-digital-transformation-with-sierraseat-post-configuration-training/)** — AFROSAI-E, 3 September 2026
-
-Audit Service Sierra Leone trained 25 staff on SierraSeat, its audit management information system, from 3 to 5 August 2026, completing the final stage of user acceptance testing. The system is a localised version of AFROSAI-E's A-SEAT, funded by the World Bank. The service intends to declare it operational subject to testing and management approval.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -2947,141 +1520,7 @@ Somalia's House of the People will suspend sessions for two weeks from 31 Octobe
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">eTender Publication Portal</p>
-
-
-<div class="bulletin-item" markdown="1">
-
-**[South Africa: National Treasury](https://data.open-contracting.org/en/publication/143)** — Open Contracting Partnership Data Registry, 1 September 2026
-
-The Open Contracting Partnership's data registry lists the National Treasury's eTenders feed in the Open Contracting Data Standard, covering February 2017 to September 2026 under a public-domain licence and retrieved monthly. It holds 35,309 tenders, 9,551 awards and 1,691 contracts, and excludes municipalities and state-owned entities unless they share data voluntarily.
-
-</div>
-
-</div>
-
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online candidate nomination system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[IEC shoots down ANC's glitch claims ahead of election](https://www.timeslive.co.za/politics/2026-09-02-iec-shoots-down-ancs-glitch-claims-ahead-of-election/)** — TimesLIVE, 2 September 2026
-
-South Africa's Electoral Commission rejected claims that a system failure blocked a party's candidate submissions for the November local elections, its chief electoral officer saying the commission held no reports of a non-functional online nomination system on deadline day. More than 140,000 candidates have been nominated for about 10,500 council seats, to be scrutinised between 4 and 16 September.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Inaccurate and unverified ID numbers found on ANC election candidate lists](https://www.citizen.co.za/news/south-africa/elections/inaccurate-and-unverified-id-numbers-found-on-anc-election-candidate-lists/)** — The Citizen, 8 September 2026
-
-South Africa's ANC secretary-general Fikile Mbalula said on 8 September 2026 that some branch-submitted candidate lists for the local government elections carried inaccurate and unverified identity numbers. The party has opened an internal review of its nomination process, and has gone to the Electoral Court over the Electoral Commission's refusal to reopen list submissions.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[IEC says ANC had zero system activity in two councils during alleged final-hour 'glitches'](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/)** — Daily Maverick, 11 September 2026
-
-South Africa's Electoral Commission told the Electoral Court on 11 September 2026 that its audit trail shows no ANC activity on the online candidate nomination system in two of the six municipalities where the party blames glitches for missing the 28 August deadline. The commission says its servers had no downtime, and that 2,274 candidates from 45 parties were captured but never submitted.
-
-</div>
-
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SITA procurement from small and designated suppliers</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[SITA spends big on procurement from SMMEs](https://www.itweb.co.za/article/sita-spends-big-on-procurement-from-smmes/nWJad7bN35N7bjO1)** — ITWeb South Africa, 3 September 2026
-
-South Africa's state IT procurement agency spent R183 million with small, medium and micro enterprises and designated groups between 1 April and 31 July, 49% of its available procurement spend against a 45% annual target.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Border Management Authority Port Health Management System</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[BMA replaces e-mail with digital port system](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1)** — ITWeb South Africa, 15 September 2026
-
-South Africa's Border Management Authority launched a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online inspections, free pratique applications, endorsements, invoicing and payment. Durban is the pilot; no date is set for other ports.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Social security agency messaging self-service channel</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Sassa takes grant services online with WhatsApp, kiosks and Wi-Fi](https://www.citizen.co.za/news/south-africa/sassa-takes-grant-services-online-with-whatsapp-kiosks-and-wi-fi/)** — The Citizen, 18 September 2026
-
-South Africa's social security agency set out a modernisation programme taking grant services online: applications and payment-detail changes, electronic life certification, messaging support, self-service kiosks and free Wi-Fi at its offices. Its systems are being integrated with other government institutions, which the agency says will help detect fraud and speed processing; no uptake figure is published for any of it.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital Transformation of Government Roadmap</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Minister Solly Malatsi: National Digital Sovereignty Agenda](https://www.gov.za/news/speeches/minister-solly-malatsi-national-digital-sovereignty-agenda-21-sep-2026)** — South African Government (gov.za), 21 September 2026
-
-Opening GovTech 2026 in Durban on 21 September 2026, South Africa's communications minister Solly Malatsi said government digital systems are still fragmented and that the first phase of the Digital Transformation Roadmap ends in February 2027. He presented digital sovereignty as a matter of development rather than security. He also said he had discussed with Operation Vulindlela and the Digital Council making the country a hub for submarine cables and digital infrastructure.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electoral Commission results system</p>
-
-
-<div class="bulletin-item" markdown="1">
-
-**[Local Government Election Results System audit gets underway](https://www.sanews.gov.za/south-africa/local-government-election-results-system-audit-gets-underway)** — SAnews.gov.za, 6 October 2026
-
-South Africa's Electoral Commission opened its Election Results System, which captures and collates results and assigns seats, to audit by ICT experts from the ACDP, ANC, DA and MK Party from 5 to 12 October 2026. The commission said it had already completed an independent external audit of the system ahead of the 2026 local government elections.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Elections national results hub opens](https://www.itweb.co.za/article/elections-national-results-hub-opens/8OKdWMDXOpwMbznQ)** — ITWeb South Africa, 29 October 2026
-
-South Africa's Electoral Commission opened its National Results Operations Centre at Gallagher Convention Centre on 28 October 2026. It declared its results system ready after an independent audit. Five political parties audited it on 8–12 October 2026, and 29.2 million voters are registered for the local government elections.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Smart ID and bank-branch channel</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Good news for South Africans who want to get a smart ID from their bank](https://mybroadband.co.za/news/government/669076-good-news-for-south-africans-who-want-to-get-a-smart-id-from-their-bank.html)** — MyBroadband, 27 September 2026
-
-South Africa's Home Affairs smart ID service is available at more than 500 bank branches: Capitec 247, Standard Bank 144, FNB 96 and Absa 15. Minister Leon Schreiber has said it will reach 750 branches, add first-time ID and passport applications and offer home delivery by the end of 2026. A deputy director-general said the green ID book will be phased out within two years; no invalidation date is set.
-
-</div>
 
 
 
@@ -3105,20 +1544,6 @@ Minister Leon Schreiber hailed more than one million replacement Smart ID applic
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Structural review to repurpose the State IT Agency</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[State IT agency faces fork in the road on rehabilitation journey](https://www.dailymaverick.co.za/article/2026-09-28-state-it-agency-faces-fork-in-the-road-on-rehabilitation-journey/)** — Daily Maverick, 28 September 2026
-
-South Africa's communications department has formally begun a structural review of what the State IT Agency should be responsible for, the minister said at GovTech 2026. The agency's managing director set out a move from custom development to shared platforms and the retirement of legacy systems.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">State IT agency audit outcome</p>
 
 <div class="bulletin-item" markdown="1">
@@ -3126,6 +1551,28 @@ South Africa's communications department has formally begun a structural review 
 **[Question to the Minister of Communications and Digital Technologies - NW5099](https://pmg.org.za/committee-question/41100/)** — Parliamentary Monitoring Group, 5 October 2026
 
 South Africa's communications minister told Parliament in a written reply that the State Information Technology Agency (SITA) moved from a qualified audit opinion in 2024/25 to an unqualified one for 2025/26, after Cabinet approved an interim board in February 2025 and a permanent board on 6 May 2026. SITA delivered 117 e-services through 35 digital products to more than 30 public bodies and met 80.66% of procurement requests on time.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral Commission results system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Local Government Election Results System audit gets underway](https://www.sanews.gov.za/south-africa/local-government-election-results-system-audit-gets-underway)** — SAnews.gov.za, 6 October 2026
+
+South Africa's Electoral Commission opened its Election Results System, which captures and collates results and assigns seats, to audit by ICT experts from the ACDP, ANC, DA and MK Party from 5 to 12 October 2026. The commission said it had already completed an independent external audit of the system ahead of the 2026 local government elections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Elections national results hub opens](https://www.itweb.co.za/article/elections-national-results-hub-opens/8OKdWMDXOpwMbznQ)** — ITWeb South Africa, 29 October 2026
+
+South Africa's Electoral Commission opened its National Results Operations Centre at Gallagher Convention Centre on 28 October 2026. It declared its results system ready after an independent audit. Five political parties audited it on 8–12 October 2026, and 29.2 million voters are registered for the local government elections.
 
 </div>
 
@@ -3222,6 +1669,7 @@ South Africa's National Treasury is allocating R150 million to the Presidency's 
 
 </div>
 
+
 </div>
 
 
@@ -3239,131 +1687,7 @@ South Africa's revenue service closed consultation on its Digital VAT Model, bui
 
 </div>
 
-## South Sudan
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic tax audit module</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[SSRA Launches Digital Tax Audit System to Strengthen Revenue Administration](https://jubaechotv.com.ss/ssra-launches-digital-tax-audit-system-to-strengthen-revenue-administration/)** — Juba Echo TV, 22 September 2026
-
-The South Sudan Revenue Authority launched an electronic tax audit module in Juba on 21 September 2026 to replace paper-based audits, backed by a directive from Commissioner General Moun Deng Ajuet banning manual audits. The platform, supported by the company Crawford Capital Pay, centralises audit cases, findings, correspondence and taxpayer records.
-
-</div>
-
-</div>
-
-## Sudan
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Animal resources ministry website</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Animal Resources Ministry Launches Official Website](https://www.suna.sd/posts/animal-resources-ministry-launches-official-website)** — Sudan News Agency (SUNA), 7 September 2026
-
-Sudan’s animal resources and fisheries ministry launched an official website for producers, breeders and investors, presented as a step in digital transformation.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Police public service complexes for identity and civil documents</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[من الرماد إلى الرقمنة.. مجمعات الجمهور تعود](https://sudan4news.com/?p=35463)** — Sudan4News, 9 September 2026
-
-The head of Sudan's police public service complexes, Major General Tariq al-Rih, said on 9 September 2026 that the Omdurman and Bahri complexes, which house passport, civil registry and traffic services, are fully running and Khartoum's will partly reopen. Transactions rose from 206,362 in 2025 to 522,225 in 2026, and he set a three-month plan to put all complexes online.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Police Forum (5): Digital Transformation and Identity Protection Take Center Stage in the Battle of Dignity](https://fjajpress.net/en/police-forum-5-digital-transformation-and-identity-protection-take-center-stage-in-the-battle-of-dignity/)** — Fjaj Press, 10 September 2026
-
-Sudan's police leadership said at the fifth Police Forum in Khartoum that passports, national ID cards and driving licences will be obtainable online by phone or computer. Public service complexes have abolished cash through a partnership with seven banks, and completed transactions rose from 206,162 in 2025 to 522,225 in 2026; services are to extend to five more states.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Baladna government platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[National Committee for Managing the Economy: Closing Loopholes Behind Currency Value Erosion](https://sudanhorizon.com/national-committee-for-managing-the-economy-closing-loopholes-behind-currency-value-erosion/)** — Sudan Horizon, 14 September 2026
-
-Sudan's National Economic Management Committee, chaired by Prime Minister Kamil Idris, met in Khartoum on 13 September 2026 and called for electronic connectivity and coordination among ministries and training in digital transformation. It backed the Tax Chamber to widen the tax base and directed that imports be regulated through the Baladna platform.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Itzan national budget system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[وزير الدولة بالمالية يعلن بدء نظام إتزان للموازنة](https://www.suna.sd/posts/ozyr-aldol-almaly-yaaln-bday-antlak-ntham-atzan-llmoazn)** — Sudan News Agency (SUNA), 16 September 2026
-
-Sudan's minister of state for finance, Mohamed Nour Abdeldaim, announced on 16 September 2026 that the ministry has begun launching Itzan, a national budget system covering estimates, execution and analysis. It is in its final stages and is planned for use in the 2027 budget and in full from 2028, with support from UNDP, the IMF and the World Bank.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online application and payment for the Sudan School Certificate</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[التربية تدشن التقديم والدفع الإلكتروني لاستخراج الشهادة السودانية - الحاكم نيوز](https://www.alhakim.net/142777)** — Alhakim News, 29 September 2026
-
-Sudan's Ministry of Education and National Education launched online application and electronic fee payment for the Sudan School Certificate on 29 September 2026. Students can apply, pay and choose where to collect the certificate, inside or outside Sudan; the minister, Al-Tuhami Al-Zein Hajar, thanked the Ministry of Digital Transformation and Communications. No fee is stated.
-
-</div>
-
-</div>
-
 ## Tanzania
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Zanzibar automated road-safety cameras</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Kamera za barabarani Zanzibar zaibua mjadala kila kona](https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252)** — Mwananchi, 16 September 2026
-
-Zanzibar's automated road cameras, which catch speeding, phone use and red-light running, drew criticism in the House of Representatives over the 50 km/h limit, the Sh230,000 fine and the absence of action against government drivers. The deputy works minister said raising the limit would be examined.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National e-Procurement System (NeST)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Tanzania's Digital Procurement System Cuts Processing Time and Costs](https://thebusinesswiz.co.tz/2026/09/25/tanzanias-digital-procurement-system-cuts-processing-time-and-costs/)** — The Business Wiz, 25 September 2026
-
-Tanzania's National e-Procurement System (NeST), launched by the Public Procurement Regulatory Authority in 2023, has cut procurement processing time from 234 to 79 days and links 21 government systems, according to World Bank figures reported on 25 September 2026. Savings on printing and transport are put at US$12.5m over two years. The World Bank is providing US$15m over four years for the wider reform.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -3397,45 +1721,7 @@ Tanzania's education minister Adolf Mkenda launched the Integrated National Digi
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Electronic System for the Monitoring and Security of Goods in Transit (SESS)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Togo Pilots Electronic Tracking for Petroleum Transit Cargo](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo)** — Togo First, 2 September 2026
-
-Togo's Revenue Office began a pilot in Lomé on 1 September 2026 to track trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger. It extends the SESS transit-monitoring system, running since October 2022, using new devices watched from a round-the-clock command centre. Industry will help evaluate the pilot before any wider rollout.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Guichet National du Service Public</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Digitalisation : le portail des services publics se modernise](https://www.republiquetogolaise.tg/services-publics/0309-12242-digitalisation-le-portail-des-services-publics-se-modernise)** — Site officiel du Togo (RTG), 3 September 2026
-
-Togo's public services portal moved to a new version at new.service-public.gouv.tg, the government's official site announced on 3 September 2026. Existing logins remain valid and users keep access to earlier requests without resubmitting them. The government says more than 400,000 requests were processed on the portal in 2024.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Modernisation du portail des services publics togolais](https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/)** — Lomebougeinfo, 10 September 2026
-
-Togo launched a new version of its public-services portal at new.service-public.gouv.tg. Existing logins remain valid and users can see their earlier requests without re-filing; the portal handled more than 400,000 requests in 2024. No launch date or cost is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Togo Adds More Administrative Procedures to Online Public Services Portal](https://www.togofirst.com/en/public-services/2909-20205-togo-adds-more-administrative-procedures-to-online-public-services-portal)** — Togo First, 29 September 2026
-
-Togo's national public services portal added building-permit applications and the certification of the architect on a permit, along with services of the state broadcaster and public radio.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -3450,63 +1736,6 @@ Togo's foreign ministry put 10 administrative procedures and six consular servic
 **[Togo Adds Building Material and Geospatial Map Requests to National Digital Portal](https://www.togofirst.com/en/public-works/2310-20439-togo-adds-building-material-and-geospatial-map-requests-to-national-digital-portal)** — Togo First, 23 October 2026
 
 Togo's Ministry of Territorial Planning and Urban Development put two new services on the Service Public portal: ordering compressed stabilised earth blocks and requesting geospatial maps. The portal lists 155 procedures, according to the national digital observatory, and handled more than 400,000 requests in 2024 against 100,000 in 2023.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online nationality-certificate platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Citoyenneté : 300 élèves filles reçoivent gratuitement leur certificat de nationalité](https://atop.tg/citoyennete-300-eleves-filles-recoivent-gratuitement-leur-certificat-de-nationalite/)** — Agence Togolaise de Presse (ATOP), 11 September 2026
-
-Togo's directorate for nationality and identity said on 11 September 2026 that its online nationality-certificate platform has received 241,617 applications and processed 179,690, or 74%, with average processing now about four months. The figures were given in Lomé as 300 final-year schoolgirls received free certificates under a programme for 4,200 girls nationwide.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">e-TPU single business tax platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Faciliter l'accès aux services administratifs et le paiement en ligne : La plateforme e-TPU de l'OTR lancée](https://togopresse.tg/faciliter-lacces-aux-services-administratifs-et-le-paiement-en-ligne-la-plateforme-e-tpu-de-lotr-lancee/)** — Togo-Presse, 17 September 2026
-
-Togo's revenue office launched its single business tax platform in Lome, automating declaration and assessment, tracking deadlines, securing payment and generating tax documents, available at any hour from a phone, tablet or computer. The finance minister directed the office to run a change-management plan so taxpayers who struggle with the technology are not cut out.
-
-</div>
-
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SME financing portal</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Togo Plans New Portal to Link SMEs With Banks and Microfinance Firms](https://www.togofirst.com/en/economic-governance/1809-20091-togo-plans-new-portal-to-link-smes-with-banks-and-microfinance-firms)** — Togo First, 18 September 2026
-
-Togo's credit information bureau presented a portal on which small businesses will submit financing requests that banks and microfinance institutions review directly, guiding applicants through the documents a complete loan file needs. It is to launch by the end of 2026 with development-finance support, and Togo was chosen as the pilot country because of existing public programmes to strengthen small-business financing.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online services of the public broadcasters TVT and Radio Lome</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Togo : TVT et Radio Lomé numérisent 10 services administratifs](https://www.journaldutogo.com/togo-digitalisation-services-tvt-radio-lome-2026/)** — Journal du Togo, 28 September 2026
-
-Togo put ten services of the state broadcasters TVT and Radio Lomé online, from death-notice broadcast requests to event coverage and advertising orders, under the programme to digitalise public services.
 
 </div>
 
@@ -3546,78 +1775,6 @@ Togo's procurement regulator ARCOP is recruiting four consultants to set up a na
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Khadamet mobile portal for administrative services</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Khadamet : l'administration en un clic ?](https://www.leconomistemaghrebin.com/2026/09/02/khadamet-ladministration-en-un-clic/)** — L'Économiste Maghrébin, 2 September 2026
-
-L'Économiste Maghrébin reviews Khadamet, the Tunisian communication technologies ministry's single app for public services, presented on Express FM on 2 September 2026. The app uses digital identity and covers health-insurance refunds, vehicle tax, traffic fines, bill payment and children's birth certificates; the outlet argues its value depends on government back offices being interconnected. A web version is planned for people without smartphones.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[«خدمات»: تطبيقة جديدة لتبسيط الإجراءات الإدارية ورقمنتها في تونس](https://radioexpressfm.com/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/)** — Radio Express FM, 2 September 2026
-
-Tunisia's communications technology ministry has released Khadamet, a mobile app giving access to administrative services through digital identity, including bill and fee payments, health and social security claims, and civil-status documents. Its wallet holds documents such as the vehicle registration card and passport and warns before they expire. An official said about 70% of Tunisians use mobile phones to reach services; a second version is expected in the coming months.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Application « Khadamet » : 50.000 utilisateurs en dix jours](https://www.lapresse.tn/2026/09/13/application-khadamet-50-000-utilisateurs-en-dix-jours/)** — La Presse de Tunisie, 13 September 2026
-
-Tunisia's Khadamet app for online public services registered 50,000 users in its first ten days, Ahmed Megdich of the Directorate-General for Information Technology said, reported on 13 September 2026. Social security, civil status, education, bill payment and road-traffic services were among the most used.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Taamir building permit platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Tunisie : lancement de la plateforme numérique « Taamir »](https://www.webmanagercenter.com/2026/09/14/572745/tunisie-lancement-de-la-plateforme-numerique-taamir/)** — Webmanagercenter, 14 September 2026
-
-The municipality of Tunis launched Taamir, a digital platform for filing and tracking building-permit applications, announced on 14 September 2026. The municipality said the existing paper procedure stays in force for now. The national platform was announced on 24 June for 16 municipalities.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Elfatoora electronic invoicing portal</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Tunisie TradeNet annonce le lancement du portail web de la facturation électronique](https://www.tunisienumerique.com/tunisie-tradenet-annonce-le-lancement-a-partir-daujourdhui-du-portail-web-de-la-facturation-electronique/)** — Tunisie Numérique, 15 September 2026
-
-The trade network opened a web portal for electronic invoicing from 15 September, aimed at businesses and professionals with low invoicing volumes, letting them configure their environment and prepare and track invoices.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Vocational training online registration platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[السنة التكوينية الجديدة: حوالي 112 ألف ترشح عبر المنصة الجديدة للتسجيل عن بعد](https://www.radiosfax.tn/article/6aad029387879074d59b0799/%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-112-%D8%A3%D9%84%D9%81-%D8%AA%D8%B1%D8%B4%D8%AD-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF)** — Radio Sfax, 18 September 2026
-
-Tunisia's new online registration platform for vocational training received about 112,000 applications by 17 September 2026, the start of the training year, against 70,000 in 2025, the Tunisian Vocational Training Agency said. A second platform handles hostel and canteen applications and fee payments.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">INNORPI digitalised industrial-property system</p>
 
 <div class="bulletin-item" markdown="1">
@@ -3645,34 +1802,6 @@ Tunisia's communication technologies ministry released its Khadamat public-servi
 </div>
 
 ## Uganda
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic Government Procurement system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Musasizi Tasks Accountants on Fiscal Discipline, Accountability](https://www.finance.go.ug/media-center/news-and-updates/musasizi-tasks-accountants-fiscal-discipline-accountability)** — Ministry of Finance, Planning and Economic Development (Uganda), 3 September 2026
-
-Uganda's finance minister, Henry Musasizi, told the 31st annual seminar of the Institute of Certified Public Accountants of Uganda in Entebbe that accountants must support fiscal discipline and evidence-based decisions. He said the government is implementing reforms including electronic government procurement to improve budget outcomes.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Police artificial-intelligence chatbot</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Uganda: UPF Set to Launch AI Chatbot to Improve Access to Police Services](https://allafrica.com/stories/202609030622.html)** — Nile Post, syndicated by allAfrica, 3 September 2026
-
-The Uganda Police Force said it will introduce an AI chatbot giving the public guidance on emergencies and police services, demonstrated at its ICT facility at Kikandwa in Wakiso District. Officers said it will be rolled out across the country and will not replace the 999 emergency line. No launch date is given.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -3706,71 +1835,6 @@ Uganda's National Bureau for NGOs plans to move registration, document submissio
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">SMART Office Management System</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[SC encourages Smart Office platform utilisation](https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/)** — Lusaka Times, 4 September 2026
-
-Zambia's Secretary to the Cabinet, Patrick Kangwa, directed all government institutions to adopt the Smart Office Platform and told the Smart Zambia Institute to report on onboarding by the end of October 2026. He spoke at the handover of the system to Zambia Airports Corporation at Chongwe; officials said it automates workflows and electronic records.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[ZACL Becomes First State-Owned Enterprise to Adopt SMART Office](https://efficacynews.africa/2026/09/05/zacl-becomes-first-state-owned-enterprise-to-adopt-smart-office/)** — Efficacy News, 5 September 2026
-
-Zambia Airports Corporation became the first state-owned enterprise onboarded onto the government's SMART Office Management System, handed over by Secretary to Cabinet Patrick Kangwa on 4 September 2026 at Kenneth Kaunda International Airport. All head-office staff have been trained, and a further 406 employees at other stations are to be trained by the end of November 2026.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Tenders published through electronic procurement</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Zambia's 103,326 Tenders Reveal the Scale of the Government Procurement Market](https://www.solwezitoday.com/zambias-103326-tenders-reveal-the-scale-of-the-government-procurement-market/)** — Solwezi Today, 14 September 2026
-
-Zambia published 103,326 tenders on its electronic government procurement system in 2025, up from 45,724 in 2024, according to the Zambia Public Procurement Authority's annual report. The system has recorded 173,428 tenders since 2016. An economist attributes much of the rise to electronic procurement becoming mandatory from April 2025.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Public service funeral scheme digital platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Funeral Scheme Digital Platform To Be Rolled Out In October](https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/)** — Lusaka Times, 24 September 2026
-
-Zambia's Public Service Management Division said its funeral scheme for public servants, run with Madison Life Insurance, will move to a digital platform in the first week of October 2026, reported on 24 September. Members will be able to update details, register family members and track claims by phone or computer, with Chinsali among the first districts for awareness meetings. No cost is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Integrated Media Reporting System (IMRS)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Govt. Launches Integrated Media Reporting System](https://www.lusakatimes.com/2026/09/25/govt-launches-integrated-media-reporting-system/)** — Lusaka Times, 25 September 2026
-
-Zambia's Ministry of Information and Media launched an Integrated Media Reporting System, built in-house, to bring its institutions' reporting onto one platform, reported on 25 September 2026. It will track the eight presidential priorities for the Presidential Delivery Unit and El Niño-related matters. No cost or rollout date is given.
-
-</div>
-
-</div>
-
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Digital Climate Advisory Service</p>
 
 <div class="bulletin-item" markdown="1">
@@ -3784,20 +1848,6 @@ Zambia's meteorological department and Ministry of Agriculture began building a 
 </div>
 
 ## Zimbabwe
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National budget automation system (Blue Book System)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[The 2nd National Budget Automation System Piloting Workshop](https://sirdc.ac.zw/the-2nd-national-budget-automation-system-piloting-workshop/)** — Scientific and Industrial Research and Development Centre (SIRDC), 23 September 2026
-
-Zimbabwe held the second pilot workshop of its National Budget Automation System, known as the Blue Book System, in Kwekwe from 21 to 25 September 2026. The research centre SIRDC, which took part, presents it as automating public finance management for more accurate and transparent budgets.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 

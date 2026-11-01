@@ -1,13 +1,13 @@
 ---
-title: Digital sovereignty — News, September – October 2026
-compiled: 2026-10-31
-period: 2026-09-01 to 2026-10-31
+title: Digital sovereignty — News, October – November 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 subject: geopol.sovereignty
 places: NGA
-record: fd9122ea7ea8
+record: 2127502f065e
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#nigeria">Nigeria</a>
