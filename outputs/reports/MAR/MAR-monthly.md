@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: MAR
 ledger_rows: 20
 not_held: 14
-record: 7c324c81b4a3
+record: 506742351137
 ---
 
 # News, Oct – Nov 2026
@@ -84,7 +84,7 @@ Médias24 reported on 28 October 2026 on Morocco's decree giving Ahmed Rahhou th
 
 **[البرنامج الحكومي، الولاية التشريعية 2026-2031، طبقا لأحكام الفصل 88 من الدستور](https://article19.ma/accueil/wp-content/uploads/2026/10/PG-2026-2031.pdf)** — Chef du Gouvernement, Royaume du Maroc, 19 October 2026
 
-Arabic text: sovereign national cloud, IA Maroc, 5,000 AI specialists, under-15 social-media ban, 80% fibre to homes.
+Morocco's new government presented its 2026–2031 programme to parliament on 19 October 2026. It commits to a platform and legal framework for data exchange between public bodies, and a law barring under-15s from social media. It also promises 5,000 trained AI specialists, fibre to 80% of homes, 4G everywhere and a sovereign national cloud.
 
 </div>
 

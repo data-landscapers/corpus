@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: MOZ
 ledger_rows: 28
 not_held: 18
-record: 577fe85bddcb
+record: 9d2810310747
 ---
 
 # News, Oct – Nov 2026
@@ -278,7 +278,7 @@ Mozambique's ICT institute INTIC was elected to the management committee of ANCA
 
 **[Detidos por fraude no registo de cartões de telemóveis](https://www.jornalnoticias.co.mz/destaque/detidos-por-fraude-no-registo-de-cartoes-de-telemoveis/)** — Jornal Notícias, 29 October 2026
 
-Five operator staff held in Zambézia; third parties' voter cards used to register SIMs for commissions.
+Mozambique's criminal investigation service detained five mobile operator staff in Zambézia province on 29 October 2026. They are accused of registering SIM cards with other people's voter cards, and the SIM cards were then used for cybercrime. One suspect said he did it to meet monthly registration targets and earn commission.
 
 </div>
 
@@ -370,7 +370,7 @@ The Bank of Mozambique licensed payments aggregator PawaPay as a payment service
 
 **[Governor Felisberto Navalha delivers opening address at 51st Banco de Moçambique Advisory Board Meeting in Tete](https://www.bancomoc.mz/en/media/highlights/governor-felisberto-navalha-delivers-opening-address-at-51st-banco-de-mocambique-advisory-board-meeting-in-tete/)** — Banco de Moçambique, 28 October 2026
 
-METIX at ~12,000 transactions a day by Oct 2026; bank AI Policy; card-use-abroad monitoring; FX platform by Dec.
+The governor of Banco de Moçambique said on 28 October 2026 that the METIX instant payment system handles about 12,000 transactions a day. It handled about 3,000 a day at its launch in March 2026. He also said a central foreign-exchange platform will operate by December 2026, alongside a digital transformation strategy and an internal AI policy.
 
 </div>
 

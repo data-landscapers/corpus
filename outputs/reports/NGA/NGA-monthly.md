@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: NGA
 ledger_rows: 74
 not_held: 9
-record: 79e7c144fea6
+record: ad31ca1db8bc
 ---
 
 # News, Oct – Nov 2026
@@ -370,7 +370,7 @@ The Central Bank of Nigeria signed a memorandum of understanding with the Global
 
 **[Enhancing eXpression and Protection of Rights in the Evolving Digital Space Project (EXPRESS)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-7-PPR-260001129)** — Ministry of Foreign Affairs of the Netherlands, 20 October 2026
 
-EUR 450,000 Dutch grant to ASF; Cybercrimes Act barometer, legal aid and strategic litigation; runs to Sep 2029.
+The Netherlands foreign ministry committed EUR 450,000 on 20 October 2026 to a digital rights project in Nigeria, running to September 2029. The grant funds a barometer on how the Cybercrimes Act is applied, legal aid and strategic litigation. It also trains lawyers, judges and journalists.
 
 </div>
 
@@ -522,7 +522,7 @@ Nigeria's House of Representatives summoned the chief executives of MTN Nigeria,
 
 **[INVESTIGATION: How Nigeria borrowed over $300m from China for telecoms projects that never delivered](https://www.ripplesnigeria.com/investigation-how-nigeria-borrowed-over-300m-from-china-for-telecoms-projects-that-never-delivered/)** — Ripples Nigeria, 30 October 2026
 
-Chinese telecom loans 2002-2010: rural telephony never delivered, NigComSat-1 lost in orbit; FOI and DMO records.
+Ripples Nigeria published an investigation in October 2026 into Chinese loans for Nigerian telecoms between 2002 and 2010. It reports that the rural telephony project funded by China Exim Bank never delivered, and that the NigComSat-1 satellite failed in orbit. Nigeria repaid the loans, according to debt office records and a ministry response to a freedom of information request.
 
 </div>
 

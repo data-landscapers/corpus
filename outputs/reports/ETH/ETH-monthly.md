@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: ETH
 ledger_rows: 22
 not_held: 5
-record: 7b81047eb386
+record: 0dcbd1245872
 ---
 
 # News, Oct – Nov 2026
@@ -82,7 +82,7 @@ Ethiopia's Minister of Innovation and Technology, Frehiwot Tamru, told the Ethio
 
 **[DSRV Signs MOU with Ethiopian State-Owned Enterprise: "Blockchain-Based Financial and Public Services Cooperation"](https://www.asiae.co.kr/en/article/2026102909031800756)** — The Asia Business Daily, 29 October 2026
 
-MoU of 26 Oct 2026 with Korean blockchain firm; verifiable-credentials wallet and ID-based e-vouchers explored.
+Faydaverse, the state enterprise created from Ethiopia's national digital ID programme, signed a memorandum with South Korean blockchain firm DSRV on 26 October 2026. A joint working group will study turning its digital wallet into a verifiable-credentials wallet with a blockchain layer. The two also plan to explore public assistance based on digital ID, such as e-vouchers.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: RWA
 ledger_rows: 29
 not_held: 7
-record: d984e006ac25
+record: 9f93d2441150
 ---
 
 # News, Oct – Nov 2026
@@ -304,7 +304,7 @@ The National Bank of Rwanda's governor told the IMF-World Bank annual meetings t
 
 **[How can education systems build education data systems that enable better decisions?](https://unlockingdata.africa/2026/10/29/how-can-education-systems-build-education-data-systems-that-enable-better-decisions/)** — Unlocking Data Initiative, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
 
-Malawi EMIS governance framework, five pillars; Rwanda exam dashboards moved to Apache Superset on government servers.
+The Unlocking Data Initiative reported in October 2026 on a session about education data systems held on 14 October. Malawi presented an education management information system governance framework with five pillars. In Rwanda, exam assessment dashboards moved from a commercial platform to open-source Apache Superset on government servers.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: COD
 ledger_rows: 36
 not_held: 6
-record: 92b92a8d9b03
+record: 7627166b954f
 ---
 
 # News, Oct – Nov 2026
@@ -58,7 +58,7 @@ The DR Congo Senate declared admissible on 28 September 2026 a bill by Senator Y
 
 **[RDC : le Sénat examine une réforme du Code du numérique prévoyant de limiter les réseaux sociaux aux moins de 13 ans](https://gazetteducontinent.cd/rdc-le-senat-examine-une-reforme-du-code-du-numerique-prevoyant-de-limiter-les-reseaux-sociaux-aux-moins-de-13-ans/)** — Gazette du Continent, 30 October 2026
 
-Joint committee closed 28 Oct 2026; under-13 social-platform ban, age verification; plenary set for 31 Oct.
+A joint committee of the DRC Senate finished examining a bill amending the 2023 digital code on 28 October 2026. The bill bars children under 13 from social platforms and requires age verification and stronger parental controls. It goes to the Senate plenary, then to the National Assembly.
 
 </div>
 
@@ -296,7 +296,7 @@ DR Congo's digital economy minister Augustin Kibassa Maliba appointed Serge Kaoz
 
 **[RDC-Pass : les agents d’enregistrement bientôt déployés dans les quartiers de Kinshasa](https://numerico.cd/fr/article/rdc-pass-les-agents-d-enregistrement-bientot-deployes-dans-les-quartiers-de-kins)** — Numerico.cd, 30 October 2026
 
-DG Grady Malobo, 29 Oct 2026: trained enrolment agents into Kinshasa pilot neighbourhoods from early November.
+The director general of RDC-Pass, the DRC's unique digital identifier, said on 29 October 2026 that trained enrolment agents will go into Kinshasa neighbourhoods from early November. Kinshasa is the pilot city. President Tshisekedi launched RDC-Pass on 13 June 2026, and the first agents were trained in September.
 
 </div>
 

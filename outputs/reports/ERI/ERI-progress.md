@@ -1,21 +1,21 @@
 ---
-title: Eritrea — progress report, October 2025 – October 2026
-compiled: 2026-10-28
-period: 2025-10-01 to 2026-10-28
+title: Eritrea — progress report, November 2025 – November 2026
+compiled: 2026-11-01
+period: 2025-11-01 to 2026-11-01
 place: ERI
 ledger_rows: 106
 not_held: 22
 indicators: 115
-record: 781f474b7b24
+record: 93d35c1e0b22
 ---
 
-# Eritrea: progress report, October 2025 – October 2026
+# Eritrea: progress report, November 2025 – November 2026
 
 This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance across the subjects the repository tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-28.*
+*The period is 2025-11-01 to 2026-11-01.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 

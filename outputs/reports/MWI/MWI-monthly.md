@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: MWI
 ledger_rows: 22
 not_held: 30
-record: 45f9c5c71516
+record: 0485c52922f1
 ---
 
 # News, Oct – Nov 2026
@@ -290,7 +290,7 @@ Summarised under [Sectoral management information systems](#sectoral-management-
 
 **[How can education systems build education data systems that enable better decisions?](https://unlockingdata.africa/2026/10/29/how-can-education-systems-build-education-data-systems-that-enable-better-decisions/)** — Unlocking Data Initiative, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
-Malawi EMIS governance framework, five pillars; Rwanda exam dashboards moved to Apache Superset on government servers.
+The Unlocking Data Initiative reported in October 2026 on a session about education data systems held on 14 October. Malawi presented an education management information system governance framework with five pillars. In Rwanda, exam assessment dashboards moved from a commercial platform to open-source Apache Superset on government servers.
 
 </div>
 
@@ -304,7 +304,7 @@ Malawi EMIS governance framework, five pillars; Rwanda exam dashboards moved to 
 
 **[From digital records to intelligent primary health care systems](https://www.path.org/our-impact/articles/from-digital-records-to-intelligent-primary-health-care-systems/)** — PATH, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
-Five-country EMR convening, Aug 2026; Malawi designates 11 core systems; Mozambique leaves donor HIV EMR.
+PATH reported in October 2026 on a Gates Foundation convening on electronic medical records held in Johannesburg in August. Malawi, Mozambique, Rwanda, Zambia and Zimbabwe took part. Malawi has designated 11 core national systems for government stewardship, and Mozambique is replacing a donor-funded HIV records system with a national platform.
 
 </div>
 
@@ -396,7 +396,7 @@ The Reserve Bank of Malawi issued fintech PayChangu payment service provider lic
 
 **[Strengthening Migration Data Governance for Evidence-Based Policymaking in Malawi](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-47066-DA0113)** — International Organization for Migration (IOM), 1 October 2026
 
-USD 300,000 from IOM Development Fund; NSO-led migration data framework, standards and indicator compendium; to Sep 2028.
+IOM committed US$300,000 from its Development Fund on 1 October 2026 to a project on migration data governance in Malawi, running to September 2028. It supports the National Statistical Office and other government bodies. Planned outputs are a technical working group, a governance framework, common administrative data standards and a compendium of migration indicators.
 
 </div>
 

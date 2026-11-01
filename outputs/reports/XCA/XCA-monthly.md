@@ -1,14 +1,14 @@
 ---
-title: Central Africa — News, Sep – Oct 2026
-compiled: 2026-10-29
-period: 2026-09-01 to 2026-10-29
+title: Central Africa — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: XCA
-ledger_rows: 19
+ledger_rows: 12
 not_held: 0
-record: 6dd8a28be316
+record: e67114d278ae
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
@@ -31,44 +31,6 @@ record: 6dd8a28be316
 </nav>
 
 ### Regional collaboration
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Regional framework on cross-border data governance</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Atelier régional d'engagement des parties prenantes pour l'élaboration d'un cadre régional de la CEEAC en matière de gouvernance transfrontalière des données](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/)** — 7 jours info, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Experts from the Economic Community of Central African States (ECCAS) met in Douala, Cameroon, from 31 August to 4 September 2026 to review member states' readiness and agree the pillars of a regional framework on cross-border data governance. GIZ, AUDA-NEPAD, the UN Economic Commission for Africa and the African Union Commission supported the workshop technically and financially.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[ECA and partners advance ECCAS regional data governance framework](https://www.uneca.org/stories/eca-and-partners-advance-eccas-regional-data-governance-framework)** — United Nations Economic Commission for Africa (ECA), 4 September 2026
-
-The UN Economic Commission for Africa, the Economic Community of Central African States, AUDA-NEPAD, the European Union and GIZ held consultations in Douala from 31 August to 4 September 2026 on an ECCAS regional data governance framework. The 27 participants included member-state focal points. The process is to produce a framework and an implementation roadmap aligned with the AU Data Policy Framework.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Afrique centrale : la CEEAC avance vers un cadre commun de gouvernance des donnees transfrontalieres](https://journaldesnations.net/afrique-centrale-la-ceeac-avance-vers-un-cadre-commun-de-gouvernance-des-donnees-transfrontalieres/)** — Journal des Nations, 8 September 2026
-
-Experts from member states of the Economic Community of Central African States met in Douala, Cameroon, from 31 August to 4 September 2026 to draft a common framework for cross-border data governance. They reviewed countries' readiness and worked to harmonise technical contributions; GIZ, AUDA-NEPAD, UNECA and the African Union Commission were involved.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[ECCAS validates regional data governance framework to advance digital integration in Central Africa](https://www.uneca.org/stories/eccas-validates-regional-data-governance-framework-to-advance-digital-integration-in-central)** — United Nations Economic Commission for Africa, 20 October 2026
-
-ECCAS member states validated a Regional Data Governance Framework at a workshop in Brazzaville on 19-20 October 2026, organised by ECA with ECCAS. It rests on six pillars, including cross-border data flows and common interoperability standards, with a 36-month roadmap in three phases.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -180,6 +142,20 @@ Central African telecoms regulators chose Cameroon as the seat of their associat
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Regional framework on cross-border data governance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ECCAS validates regional data governance framework to advance digital integration in Central Africa](https://www.uneca.org/stories/eccas-validates-regional-data-governance-framework-to-advance-digital-integration-in-central)** — United Nations Economic Commission for Africa, 20 October 2026
+
+ECCAS member states validated a Regional Data Governance Framework at a workshop in Brazzaville on 19-20 October 2026, organised by ECA with ECCAS. It rests on six pillars, including cross-border data flows and common interoperability standards, with a 36-month roadmap in three phases.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Central African ICT Observatory</p>
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
@@ -203,56 +179,8 @@ Summarised under [Regional collaboration](#regional-collaboration).
 ## Instruments and harmonisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
-<a href="#standards">Standards</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ai">AI</a>
 </nav>
-
-### Standards
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SDMX standard and open data platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gabon : ouverture de l'atelier BAD-CEMAC sur la mise en œuvre du SDMX et l'implémentation de l'Open Data Platform](https://agpgabon.ga/gabon-ouverture-de-latelier-bad-cemac-sur-la-mise-en-oeuvre-du-sdmx-et-limplementation-de-lopen-data-platform/)** — Agence Gabonaise de Presse, 14 September 2026
-
-Gabon's planning minister, Louise Pierrette Mvono, opened a CEMAC workshop in Libreville on 14 September 2026 on adopting the SDMX statistical data exchange standard and moving the six member states to version 2.0 of the Open Data Platform. The CEMAC Commission organised it with World Bank financing through the HISWACA statistics project.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[CEMAC: accélération de la modernisation des systèmes statistiques avec l'adoption du SDMX et la migration vers l'ODP 2.0](https://7joursinfo.com/actualites/cemac-acceleration-de-la-modernisation-des-systemes-statistiques-avec-ladoption-du-sdmx-et-la-migration-vers-lodp-2-0/)** — 7 jours info, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
-
-The Central African Economic and Monetary Community (CEMAC) held a workshop in Libreville from 14 to 18 September 2026, backed by the African Development Bank and UNFPA, to train experts from its six member states in the SDMX data-exchange standard. It is preparing national statistics sites to move to Open Data Platform 2.0 and a regional platform, CEMAC-Data.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">CEMAC statistical harmonisation on SDMX and the Open Data Platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gabon/Atelier BAD-CEMAC-UNFPA: 14 recommandations formulées](https://agpgabon.ga/gabon-atelier-bad-cemac-14-recommandations-formulees/)** — Agence Gabonaise de Presse (AGP), 18 September 2026
-
-A workshop of the African Development Bank, CEMAC and UNFPA in Libreville on SDMX and the Open Data Platform closed on 18 September 2026 with 14 recommendations for moving Central African statistical systems to ODP 2.0. National statistics institutes are asked for costed migration roadmaps; the World Bank is asked to issue no-objection notices faster, and HISWACA project units to cut disbursement delays.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Statistiques et données : Les pays de l'Afrique Centrale sur la même longueur d'ondes](https://gabonactu.com/blog/2026/09/20/statistiques-et-donnees-les-pays-de-lafrique-centrale-sur-la-meme-longueur-dondes/)** — Gabonactu.com, 20 September 2026
-
-A five-day African Development Bank, CEMAC and UNFPA workshop closed at Libreville with a 2026-2029 calendar for migrating the six member states to SDMX and version 2.0 of the Open Data Platform. The stated aim is not to make the national statistical systems uniform but to define common structures that let them interoperate; 14 recommendations were addressed to the institutes, the Commission, the Bank and the World Bank.
-
-</div>
-
-</div>
 
 ### AI
 
@@ -273,46 +201,10 @@ Central Africa's banking supervisor, COBAC, said in its 2025 annual report that 
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#national-statistics">National statistics</a>
 </nav>
-
-### Connectivity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Common framework for national emergency telecommunications plans</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Afrique Centrale: Télécoms - La région renforce ses dispositifs face aux catastrophes naturelles](https://fr.allafrica.com/stories/202609150543.html)** — Les Dépêches de Brazzaville (via allAfrica), 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
-
-About 50 officials from eight Central African states met in Brazzaville on 15–16 September 2026 to draft a model national emergency telecommunications plan for floods, storms and other disasters. The workshop was organised by the ITU, the region's telecoms regulators' assembly and Congo's regulator, ARPCE.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Le Congo et l'Afrique centrale s'organisent pour mieux résister aux catastrophes](https://labreveonline.com/le-congo-et-lafrique-centrale-sorganisent-pour-mieux-rsister-aux-catastrophes/)** — La Brève Online, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
-
-Experts from eight Central African countries met in Brazzaville on 15–17 September 2026 to review a model national emergency telecommunications plan for keeping communications running in disasters. Figures presented there credit Congo's universal service fund FASUCE with connecting more than 380,000 people in isolated areas and over 250 localities.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Télécoms : l'Afrique centrale renforce ses dispositifs face aux catastrophes naturelles](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621)** — Les Dépêches de Brazzaville, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
-
-A regional workshop in Brazzaville on 15 and 16 September worked towards a common framework for national emergency telecommunications plans across central Africa, convened by the international telecommunications union with the regional regulators' assembly and the economic community.
-
-</div>
-
-</div>
 
 ### Data Storage
 
@@ -331,72 +223,6 @@ The governor of the Bank of Central African States, closing the CEMAC Bankers' D
 </div>
 
 ### Digital Payments and Fintech
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">BEAC accession to PAPSS</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Intégration financière : la BEAC et le PAPSS mobilisent les banques de la CEMAC](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/)** — Journal du Cameroun, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-The Bank of Central African States (BEAC) and the Pan-African Payment and Settlement System (PAPSS) held a webinar on 9 September 2026 to bring commercial banks of the CEMAC zone onto the continental payment system, following BEAC's own accession. The session covered terms of participation and next steps; no timetable or number of banks is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Central Africa: Instant Payments Outpace Central Africa's Anti-Money Laundering Controls](https://allafrica.com/stories/202609170180.html)** — Institute for Security Studies (Tshwane/Pretoria), via allAfrica.com, 17 September 2026
-
-A think-tank analysis sets Central Africa's instant-payment rail against the zone's exchange and anti-money-laundering rules: settlement takes seconds where the rules expect documentary checks before a transfer, and fewer than 13 per cent of adults hold an account.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Instant payments outpace Central Africa's anti-money laundering controls](https://issafrica.org/iss-today/instant-payments-outpace-central-africa-s-anti-money-laundering-controls)** — Institute for Security Studies (ISS Africa), 17 September 2026
-
-An analysis sets the pan-African settlement rail against Central Africa's exchange and anti-money-laundering rules: the rail settles in seconds where the rules expect documentary checks before a transfer, and fewer than 13 per cent of adults in the zone hold an account. The supervisory model and the instrument are not on the same clock.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">BEAC central bank digital currency</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[La BEAC accélère sa réforme bancaire en Afrique centrale](https://www.lepaystchad.com/46551-2/)** — Journal Le Pays (Tchad), 15 September 2026
-
-The Bank of Central African States governor, Yvon Sana Bangui, met the IMF's Africa director on 14 September 2026 to define a new banking model for the CEMAC zone. Priorities include a central bank digital currency, stronger powers for the regional banking commission COBAC, mobile money and secure cross-border payments. The IMF has warned about the effect of the bank's special refinancing window on foreign exchange reserves.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Regional money market and central depository platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[BEAC - Sélection internationale ouverte n°150/BEAC/DGEFRI-CRCT/SIO/Ser/2026 pour l'acquisition et la mise en œuvre d'une plateforme couvrant les activités du marché monétaire de la CEMAC et du Dépositaire Central Unique](https://www.beac.int/wp-content/uploads/2016/10/Avis-de-sélection-n°-150_26_plateforme-marché-monétaire-CEMAC.pdf)** — Banque des Etats de l'Afrique Centrale (BEAC), 28 September 2026
-
-The Bank of Central African States opened international tender no. 150 on 28 September 2026 for a platform covering the CEMAC money market and the Single Central Depository, funded from its own resources. Entry costs a non-refundable XAF 2 million, a mandatory briefing is set for 21 October and bids are due on 19 November 2026.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Six-Nation CEMAC Bloc Plans New Platform for Bank Liquidity and Securities Transactions](https://www.ecofinagency.com/news-finances/0210-59421-six-nation-cemac-bloc-plans-new-platform-for-bank-liquidity-and-securities-transactions)** — Ecofin Agency, 2 October 2026
-
-The Bank of Central African States (BEAC) published an international tender on 30 September 2026 for a single platform to run the CEMAC money market and the Single Central Depository for securities. The tender does not disclose the platform's settlement or processing features, and no budget is given.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -435,46 +261,6 @@ Central Africa's seven licensed payment institutions processed 4.6 billion opera
 **[Développement des paiements interopérables en Afrique : Le Gimac et Papss Card posent les bases de leur futur partenariat](https://lefinancierdafrique.com/open/2026/10/19/developpement-des-paiements-interoperables-en-afrique-le-gimac-et-papss-card-posent-les-bases-de-leur-futur-partenariat/)** — Le Financier d’Afrique, 19 October 2026
 
 GIMAC, the Central African interbank card network, and PAPSS Card agreed the practical terms of a partnership at working sessions in Yaoundé on 13 and 14 October 2026, with a convention to be signed in the following days. The plan would let GIMAC cards issued by CEMAC banks be accepted across the PAPSS network and PAPSS cards be used in the CEMAC zone, and the sessions produced a roadmap of priority actions, owners and deadlines. GIMAC's interim director general Guy Noël Londongo tied the move to the BEAC joining the AU-backed PAPSS system.
-
-</div>
-
-</div>
-
-### National statistics
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Common CEMAC energy information system (SIE-CEMAC) and national energy information systems</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Énergie : la CEMAC prépare un système d'information commun](https://www.gabonreview.com/energie-la-cemac-prepare-un-systeme-dinformation-commun/)** — GabonReview, 21 September 2026
-
-Experts from six CEMAC member states met in Libreville on 21 September 2026 to prepare national energy information systems and a common regional system, with support from the African Energy Commission. They examined a draft community regulation on collecting, validating and disseminating energy data ahead of a ministerial meeting on 25 September.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gabon/CEMAC: experts formulate recommendations for the regional energy-information system ahead of the ministerial meeting](https://agpgabon.ga/gabon-cemac-atelier-sie-les-experts-formulent-des-recommandations-avant-la-reunion-ministerielle/)** — Agence Gabonaise de Presse (AGP), 23 September 2026
-
-Energy experts from the Central African Economic and Monetary Community, meeting in Libreville, validated on 23 September 2026 a draft regulation creating a regional energy information system and its roadmap. They recommended that member states give national units a dedicated recurring budget and permanent qualified staff. The proposals go to the energy ministers' meeting of 25 September.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Données énergétiques : la CEMAC veut parler d'une même voix](https://www.gabonreview.com/donnees-energetiques-la-cemac-veut-parler-dune-meme-voix/)** — GabonReview, 25 September 2026
-
-CEMAC energy ministers met in Libreville on a draft regulation creating a community energy information system (SIE-CEMAC), setting rules for collecting, processing, keeping and sharing energy data. Gabon's energy minister asked the African Energy Commission for technical and financial support and said the sharing of some energy data must be limited because it falls under national sovereignty.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gabon/CEMAC/Énergie : validation du règlement portant création du SIE](https://agpgabon.ga/gabon-cemac-energie-validation-du-reglement-portant-creation-du-sie/)** — AGP - Agence Gabonaise de Presse, 25 September 2026
-
-Energy ministers of the Central African Economic and Monetary Community (CEMAC), meeting in Libreville on 25 September 2026, validated a regulation creating a community energy information system, SIE-CEMAC, and adopted a roadmap for it. The regulation sets rules for collecting, processing, sharing and archiving energy data. Both texts go to the UEAC Council of Ministers for adoption.
 
 </div>
 

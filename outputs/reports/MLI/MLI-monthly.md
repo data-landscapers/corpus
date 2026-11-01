@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: MLI
 ledger_rows: 6
 not_held: 2
-record: 3c7b8fcbf7c6
+record: 21335e354c91
 ---
 
 # News, Oct – Nov 2026
@@ -86,7 +86,7 @@ Senegal's and Mali's state fibre operators inaugurated the interconnection of th
 
 **[Recouvrement digital des taxes et redevances communales : la mairie de la Commune V et Sama Money signent une convention de partenariat](https://malijet.com/actualite_economique_du_mali/312590-recouvrement-digital-des-taxes-et-redevances-communales-la.html)** — Malijet, 30 October 2026
 
-Convention of 29 Oct 2026; municipal taxes payable by app or USSD; aim of revenue traceability.
+Commune V of Bamako signed an agreement with mobile payment operator Sama Money on 29 October 2026 to collect municipal taxes and fees digitally. Residents can pay through the Sama Money app or a USSD code. The commune says this will make revenue easier to trace.
 
 </div>
 

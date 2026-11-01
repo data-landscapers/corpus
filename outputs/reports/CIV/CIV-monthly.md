@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: CIV
 ledger_rows: 26
 not_held: 10
-record: 3bbd91166f8b
+record: 348a9a2754ee
 ---
 
 # News, Oct – Nov 2026
@@ -82,7 +82,7 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 
 **[Feasibility Studies executive document on Climate-Resilient Agriculture and Digital Innovation in Côte d'Ivoire](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-6-4-013528-01-0)** — AICS - Italian Agency for Cooperation and Development, 14 October 2026
 
-EUR 2.695m disbursed via UNDP; Mattei Plan feasibility studies for AI and irrigated rice, tender-ready; to June 2027.
+Italy's development agency AICS disbursed EUR 2.695 million through UNDP on 14 October 2026 for feasibility studies in Côte d'Ivoire. The studies cover artificial intelligence and climate-smart irrigated rice under Italy's Mattei Plan for Africa. They are to produce investment-ready designs by June 2027.
 
 </div>
 
@@ -224,7 +224,7 @@ Côte d'Ivoire launched a feasibility study in Abidjan on 5 October 2026 for a n
 
 **[L’ONECI se déploie aux États-Unis](https://www.oneci.ci/actualites/1793360607)** — ONECI, 30 October 2026
 
-Ivorian embassy in the US becomes a national ID card enrolment centre; pilot phase from 30 Oct 2026.
+Côte d'Ivoire's identification office ONECI began a pilot of national identity card enrolment at the Ivorian embassy in the United States on 30 October 2026. It installed equipment and trained embassy staff first. The aim is to serve the diaspora.
 
 </div>
 

@@ -1,14 +1,14 @@
 ---
-title: Seychelles — News, Sep – Oct 2026
-compiled: 2026-10-30
-period: 2026-09-01 to 2026-10-30
+title: Seychelles — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: SYC
-ledger_rows: 18
+ledger_rows: 10
 not_held: 6
-record: 36d99de61fab
+record: 9c5e4767caca
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
@@ -30,49 +30,9 @@ record: 36d99de61fab
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-protection">Data protection</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#standards">Standards</a>
 </nav>
 
 ### Strategies, plans and policies
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Commission of Inquiry into the border management service agreement</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Commission of Inquiry opens into Travizory border agreement](https://www.nation.sc/articles/32150/commission-of-inquiry-opens-into-travizory-border-agreement)** — Seychelles Nation, 3 September 2026
-
-A presidential Commission of Inquiry into the border management agreement between Seychelles and Travizory Border Security SA opened at the Palais de Justice on Mahé on 2 September 2026. The immigration department uses Travizory's system for digital border control, including visitors' electronic travel authorisation. The commission's terms of reference are not given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Former ministers detail early border system options before Travizory](https://www.nation.sc/articles/32161/former-ministers-detail-early-border-system-options-before-travizory)** — Seychelles Nation, 4 September 2026
-
-Seychelles' Commission of Inquiry into the border management agreement with Travizory Border Security heard testimony from two former ministers on how the country initially explored established international providers before Travizory entered the picture. The report is paywalled beyond that point.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital Economic Transformation Forum</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cabinet Business, Wednesday 09th September 2026](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026)** — State House Seychelles, 9 September 2026
-
-Seychelles' Cabinet, chaired by President Patrick Herminie on 9 September 2026, approved a multi-stakeholder Digital Economic Transformation Forum to agree a national digital architecture, priority pilot projects and an implementation roadmap. The same meeting approved a Hydrographic Office within the Maritime Safety Authority to manage marine data.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -97,38 +57,6 @@ Seychelles' Cabinet approved the Seychelles Digital & AI Strategy 2026–2031 on
 **[Cabinet Business - Wednesday 28 October, 2026](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)** — State House Seychelles, Office of the President, 29 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-</div>
-
-### Data protection
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Information Commission (data-protection authority)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Information Commission trains newly appointed IOs](https://nation.sc/articles/32125/information-commission-trains-newly-appointed-ios)** — Seychelles Nation, 2 September 2026
-
-Seychelles' Information Commission held its second 2026 induction session for information officers newly appointed by public bodies, led by chief executive Diana Benoit. The commission runs two such sessions a year.
-
-</div>
-
-</div>
-
-### Standards
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Government-wide interoperability standards (DICT Policy, Standards and Research Section)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Policy, Standards & Research Section](https://ict.gov.sc/Sections/PolicySection)** — Department of Information Communications Technology (DICT), Government of Seychelles, 1 September 2026
-
-Seychelles' Department of Information Communications Technology sets out the mandate of its Policy, Standards and Research Section: technical and coding standards for interoperable e-government services, integration of government applications and databases, and management of Gov Mail, the government intranet and the e-services portal. The page is undated.
 
 </div>
 
@@ -159,28 +87,6 @@ Seychelles plans to begin implementing a digital human resource management syste
 </div>
 
 ### New investments
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">AfDB Economic Resilience and Green Recovery Support Programme, phase III (ERGRSP-III)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[African Development Bank Group — Seychelles, Economic Resilience and Green Recovery Support Programme phase III, 2026](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998)** — African Development Bank Group, 22 September 2026
-
-The African Development Bank's board approved a US$34 million loan to Seychelles on 22 September 2026 for the third and final phase of its Economic Resilience and Green Recovery Support Programme. Reforms include electronic invoicing for tax compliance, a national e-procurement system and a one-stop investment portal; the bank's financing across the three phases totals US$84 million.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Seychelles: African Development Bank approves $34 million loan to strengthen public services, private sector growth and climate resilience](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998)** — African Development Bank Group, 23 September 2026
-
-The African Development Bank approved a US$34 million loan to Seychelles on 22 September 2026 for the third and final phase of its Economic Resilience and Green Recovery Support Programme. The phase supports electronic invoicing for tax, a national e-procurement system and a one-stop investment portal, and brings the bank's financing across the three phases to US$84 million.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -239,58 +145,8 @@ Seychelles' national computer emergency response team designed and delivered the
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
-
-### Data Exchange
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National health information exchange interoperability framework</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[HIRING OF INDIVIDUAL CONSULTANTS TO DEVELOP A NATIONAL INTEROPERABILITY FRAMEWORK FOR HEALTH INFORMATION EXCHANGE IN TWO MEMBER STATES (Tunisia and Seychelles)](https://africacdc.org/opportunity/hiring-of-individual-consultants-to-develop-a-national-interoperability-framework-for-health-information-exchange-in-two-member-states-tunisia-and-seychelles/)** — Africa CDC, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
-
-Africa CDC is recruiting individual consultants to draft national interoperability frameworks for health information exchange in Tunisia and Seychelles, funded by a World Bank grant. Each assignment runs for up to six months.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Seychelles Hydrographic Office</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Beneath Our Waters: Why Seychelles Needs a Hydrographic Office](https://statehouse.gov.sc/news/7258/beneath-our-waters-why-seychelles-needs-a-hydrographic-office)** — State House Seychelles, 15 September 2026
-
-Cabinet approved a hydrographic office inside the maritime safety authority, to bring hydrographic information together from across government and international partners for navigation, search and rescue, marine planning and the blue economy.
-
-</div>
-
-</div>
-
-### Digital Payments and Fintech
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Pre-arranged post-disaster cash transfers on the social protection registry</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Seychelles signs cash transfer pact to boost climate preparedness](https://nation.sc/articles/32242/seychelles-signs-cash-transfer-pact-to-boost-climate-preparedness)** — Seychelles Nation, 9 September 2026
-
-Seychelles' finance ministry and the Agency for Social Protection signed a performance agreement under the regional REPAIR programme, reported on 9 September 2026, to make rapid cash transfers to households after floods, landslides or tsunamis. The agency will pay through its existing beneficiary registry and payment systems and add newly affected households. No value is stated.
-
-</div>
-
-</div>
 
 ### Other GovTech and e-Gov
 

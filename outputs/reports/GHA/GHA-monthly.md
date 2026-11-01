@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: GHA
 ledger_rows: 53
 not_held: 9
-record: 7084e723218d
+record: 14ac9a4cf120
 ---
 
 # News, Oct – Nov 2026
@@ -344,7 +344,7 @@ Summarised under [Standards](#standards).
 
 **[Agbledu Smart-Agri Markets (ASAM): Digitally-Enabled Agriculture across Ghana](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-6-4-013531-01-0)** — AICS - Italian Agency for Cooperation and Development, 29 October 2026
 
-EUR 20m AICS grant via UNDP, 2026-29; digital hubs, advisory and traceability for Bono, Volta and Savannah farmers.
+Italy's development agency AICS committed EUR 20 million through UNDP on 29 October 2026 to digital agriculture in Ghana, running from 2026 to 2029. The project sets up physical and digital service hubs in the Bono, Volta and Savannah regions. It offers smallholders and agribusinesses digital advisory services, traceability, training and market links.
 
 </div>
 

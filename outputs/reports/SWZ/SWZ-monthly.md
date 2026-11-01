@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: SWZ
 ledger_rows: 26
 not_held: 3
-record: b0110f62dc8f
+record: 275ef023e605
 ---
 
 # News, Oct – Nov 2026
@@ -234,7 +234,7 @@ Eswatini held its first national cyber drill on 5 October: a multi-sector ransom
 
 **[Eswatini's cybersecurity score quadruples](https://eswatinipositivenews.online/eswatinis-cybersecurity-score-quadruples/)** — Eswatini Positive News, 29 October 2026
 
-Malabo Convention before Parliament; GCI 2024 score 18.23 to 79.43; strategy 2022-2027 and a national CIRT.
+Eswatini's ICT minister told a cybersecurity conference in Sandton in October 2026 that parliament is considering ratification of the AU Malabo Convention. The minister cited a cybercrime law, a data protection law and an operational national CIRT. Eswatini's ITU Global Cybersecurity Index score rose from 18.23 to 79.43 in the 2024 edition.
 
 </div>
 

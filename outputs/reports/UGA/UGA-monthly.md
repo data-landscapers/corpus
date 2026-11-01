@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: UGA
 ledger_rows: 29
 not_held: 12
-record: 08665b01c8f6
+record: 6d9431511549
 ---
 
 # News, Oct – Nov 2026
@@ -264,7 +264,7 @@ The Uganda Bureau of Statistics signed a memorandum with Statistics Denmark and 
 
 **[Annual Communications Sector Report 2025](https://www.ucc.co.ug/wp-content/uploads/2026/10/UCC-Annual-Communications-Sector-Report-2025.pdf)** — Uganda Communications Commission, 1 October 2026
 
-2025: addressable mobile penetration 73.7%, mobile-internet GPI 0.82; 53 of 64 subsidised towers live; 62,941 km fibre.
+The Uganda Communications Commission published its communications sector report for 2025 in October 2026. It puts addressable mobile penetration at 73.7% and the gender parity index for mobile internet at 0.82. It reports 53 of 64 subsidised towers live and 62,941 km of fibre.
 
 </div>
 
@@ -432,7 +432,7 @@ Office of the President Permanent Secretary Yunus Kakande told Parliament's phys
 
 **[State House meeting unveils Shs578b storm in digital plates](https://www.monitor.co.ug/uganda/news/national/state-house-meeting-unveils-shs578b-storm-in-digital-plates-5651832)** — Daily Monitor (Uganda), 30 October 2026
 
-Six-hour meeting, 29 Oct 2026; $134m questioned; Global Security JSC directors summoned over plate security.
+Uganda's President questioned a US$134 million (Shs578 billion) item in the digital number plate deal at a State House meeting on 29 October 2026. He also questioned the plates' security features. He summoned the directors of the contractor, Joint Stock Company Global Security.
 
 </div>
 

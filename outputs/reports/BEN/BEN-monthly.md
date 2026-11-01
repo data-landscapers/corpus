@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: BEN
 ledger_rows: 18
 not_held: 4
-record: 869f8673b7f5
+record: dee997555f0e
 ---
 
 # News, Oct – Nov 2026
@@ -292,7 +292,7 @@ Benin's identification agency said 50,109 children received a first birth certif
 
 **[Promotion du droit à l’identité des enfants : 8.500 actes de naissance délivrés aux apprenants | Gouvernement de la République du Bénin](https://www.gouv.bj/article/3725/promotion-droit-identite-enfants-8.500-actes-naissance-delivres-apprenants/)** — Gouvernement de la République du Bénin, 29 October 2026
 
-8,500 free birth certificates for CM1-CM2 pupils in ten communes; OIF-backed RNPP enrolment pilot.
+Benin's interior ministry began issuing about 8,500 free birth certificates to primary pupils in ten communes of the Centre and South on 28 October 2026. The pilot also enrols the children in the national register of natural persons. The OIF provided technical and financial support.
 
 </div>
 
@@ -350,7 +350,7 @@ The budget and public service ministry decided to hold the March-April 2027 prof
 
 **[E-gouvernance : le Bénin et la Mauritanie à l'école estonienne, et vice versa](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)** — TransContinents Africa, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a>
 
-Benin: 210-plus e-services, 99% with digital ID, data kept at home; Mauritania: 40 of 900 services online.
+Benin and Mauritania compared their digital government programmes at Estonia's embassy in Paris on 28 October 2026. Benin reported more than 210 end-to-end online services, up from five at launch in March 2020, and digital identity for over 99% of the population. Mauritania reported about 40 transactional services out of nearly 900 targeted.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: SEN
 ledger_rows: 28
 not_held: 2
-record: a6a7196ac244
+record: c64c49f88e66
 ---
 
 # News, Oct – Nov 2026
@@ -90,7 +90,7 @@ Senegal's Prime Minister installed the Comité de gouvernance du numérique (Gou
 
 **[Données publiques : Jusqu'à 20 % des données sénégalaises encore hébergées hors du pays](https://senego.com/donnees-publiques-jusqua-20-des-donnees-senegalaises-encore-hebergees-hors-du-pays_2015891.html)** — Senego, 21 October 2026
 
-10-20% of Senegal's public data still hosted abroad; ten-year hosting contracts slow repatriation.
+The manager of Senegal's national data centre at Diamniadio said 10% to 20% of the country's public data is still hosted abroad (reported October 2026). Some hosting contracts run for ten years, which delays moving the data home. Paying off the contracts early or waiting for them to expire are both under study, and no date has been set.
 
 </div>
 
@@ -144,7 +144,7 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 
 **[Visa et le Sénégal s’allient pour accélérer la transformation numérique et le développement des paiements digitaux](https://visa-inc.africa-newsroom.com/press/visa-and-senegal-join-forces-to-accelerate-digital-transformation-and-the-development-of-digital-payments?lang=fr)** — Visa Inc. / Ministère des Télécommunications et du Numérique, 30 October 2026
 
-Two-year Visa MoU with the telecoms ministry; P2G and G2P payments, cybersecurity; first Visa-government deal in Senegal.
+Visa and Senegal's ministry of telecommunications and digital affairs signed a two-year memorandum of understanding in October 2026. It covers payments between people and government, financial innovation, cybersecurity and regulation. The release calls it Visa's first partnership framework with a Senegalese government institution.
 
 </div>
 
@@ -358,7 +358,7 @@ Senegal's procurement regulator ARCOP told contracting authorities to load their
 
 **[Validation de la Snao : L'interopérabilité des services publics lancée pour supprimer les navettes administratives](https://www.seneweb.com/fr/news/Societe/validation-de-la-snao-linteroperabilite-des-services-publics-lancee-pour-supprimer-les-navettes-administratives_n_999002104.html)** — Seneweb, 29 October 2026
 
-Simplify first, digitise second: health and security pilot interoperable document exchange between services.
+Senegal began technical validation of its national strategy for receiving and directing users of public services in October 2026. The strategy simplifies procedures before digitising them and has administrations exchange civil status, court and police records directly. Health and security are the pilot sectors.
 
 </div>
 

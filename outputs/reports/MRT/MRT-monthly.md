@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: MRT
 ledger_rows: 10
 not_held: 3
-record: 6cec49037db2
+record: 87b854a943fc
 ---
 
 # News, Oct – Nov 2026
@@ -196,7 +196,7 @@ Mauritania's national solidarity agency launched Sanad, a single digital platfor
 
 **[E-gouvernance : le Bénin et la Mauritanie à l'école estonienne, et vice versa](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)** — TransContinents Africa, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
-Benin: 210-plus e-services, 99% with digital ID, data kept at home; Mauritania: 40 of 900 services online.
+Benin and Mauritania compared their digital government programmes at Estonia's embassy in Paris on 28 October 2026. Benin reported more than 210 end-to-end online services, up from five at launch in March 2020, and digital identity for over 99% of the population. Mauritania reported about 40 transactional services out of nearly 900 targeted.
 
 </div>
 

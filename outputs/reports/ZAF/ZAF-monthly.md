@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: ZAF
 ledger_rows: 80
 not_held: 19
-record: 764de32fcaa8
+record: 1504544de600
 ---
 
 # News, Oct – Nov 2026
@@ -656,7 +656,7 @@ Works have begun on a one-stop border post at Ressano Garcia on the Mozambique-S
 
 **[Operation Vulindlela implementation continues to make strides](https://www.sanews.gov.za/south-africa/operation-vulindlela-implementation-continues-make-strides)** — SAnews (South African Government News Agency), 30 October 2026
 
-MyMzansi prototype in controlled testing; MzansiXchange pilot due December 2026; Gov.za platform in testing.
+Operation Vulindlela's progress report for the second quarter of 2026, released on 30 October, put South Africa's MyMzansi digital ID at a working prototype in testing. The Gov.za shared website platform opened for departmental testing. The MzansiXchange data-sharing pilot is due to finish in December 2026.
 
 </div>
 

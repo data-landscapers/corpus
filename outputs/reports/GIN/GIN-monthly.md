@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: GIN
 ledger_rows: 20
 not_held: 3
-record: a53dcae727f5
+record: bdf9ae9b60f9
 ---
 
 # News, Oct – Nov 2026
@@ -128,7 +128,7 @@ Guinea's transport minister and civil aviation authority held talks in Washingto
 
 **[Le gouvernement lance la digitalisation des cadres organiques et le Référentiel des métiers pour moderniser la fonction publique |](https://www.visionguinee.info/le-gouvernement-lance-la-digitalisation-des-cadres-organiques-et-le-referentiel-des-metiers-pour-moderniser-la-fonction-publique/)** — VisionGuinee, 28 October 2026
 
-Biometrics cut 64,000 ghost payroll numbers, workforce 128,000; 1965 job framework replaced; appraisals from 2027.
+Guinea's public service ministry presented digitised organisational frameworks for the administration and a new jobs and skills framework on 28 October 2026. The framework replaces one dating from 1965. Officials said biometric checks had removed 64,000 fictitious payroll numbers, leaving 128,000 staff, and that performance evaluation of civil servants starts in 2027.
 
 </div>
 
@@ -374,7 +374,7 @@ Guinea's Prime Minister, Amadou Oury Bah, said the government will digitise publ
 
 **[Renforcement des capacités à l'usage du numérique : l'ANSUTEN lance la quatrième édition du programme R-CUN](https://horoya.net/2026/10/07/renforcement-des-capacites-a-lusage-du-numerique-lansuten-lance-la-quatrieme-edition-du-programme-r-cun/)** — Journal Horoya, 7 October 2026
 
-ANSUTEN reports 3,200+ trained since 2022, about 40% women, as fourth R-CUN edition targets 2,000 beneficiaries.
+Guinea's universal service agency ANSUTEN launched the fourth edition of its digital skills programme, R-CUN, on 7 October 2026. Its director general said more than 3,200 people had been trained since 2022, about 40% of them women. He also cited 80 professional ICT certifications and nearly 2,000 computer kits distributed.
 
 </div>
 

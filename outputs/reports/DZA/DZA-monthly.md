@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: DZA
 ledger_rows: 29
 not_held: 5
-record: e4fcdd879b4b
+record: 6188a1f4c714
 ---
 
 # News, Oct – Nov 2026
@@ -334,7 +334,7 @@ Algeria's housing minister told the National Assembly's finance committee that e
 
 **[Visa et Mastercard : l’encaissement international reste coûteux pour les webmarchands algériens](https://twala.info/fr/fil-actualite/visa-mastercard-algerie-webmarchands-paiement-international-cout/)** — Twala, 29 October 2026
 
-Card personalisation and data processing brought onshore in pilot; online card acceptance costs DZD 1.01m in year one.
+Algeria's card operator SATIM received Visa and Mastercard certification to personalise and process their cards locally in October 2026. A pilot with two public banks aims to cut card issuance from weeks to 48 hours. Online merchants accepting international cards through BDL still pay 1.01 million dinars in fixed fees in year one, plus 5% a transaction.
 
 </div>
 

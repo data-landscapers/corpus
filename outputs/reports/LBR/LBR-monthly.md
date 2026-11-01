@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: LBR
 ledger_rows: 16
 not_held: 6
-record: ec16915e2a3f
+record: 8257b04a95f0
 ---
 
 # News, Oct – Nov 2026
@@ -232,7 +232,7 @@ Liberia's House of Representatives referred a proposed $52 million build-operate
 
 **[House Halts Review of US$52M National ID Deal Over Missing Signatures, No-Show Agencies](https://liberianinvestigator.com/liberia-national-id-concession-house-review-paused/)** — The Liberian Investigator, 30 October 2026
 
-Hearing of 28 Oct 2026 halted: contract unsigned by OeSD CEO and LTA chair; three agencies absent; reset to 4 Nov.
+A committee of Liberia's House suspended its review of a US$52 million concession with OeSD International for a national digital ID and civil registry system on 28 October 2026. The agreement before it lacked the signatures of OeSD's chief executive and the telecoms regulator's chairman. Three government agencies sent no one, and the hearing moved to 4 November.
 
 </div>
 
@@ -278,7 +278,7 @@ Liberia's Ministry of Gender, Children and Social Protection launched an upgrade
 
 **[Louisville group helps Liberia track and restore water access](https://spectrumnews1.com/ky/louisville/news/2026/10/30/waterstep-liberia-app)** — Spectrum News 1, 30 October 2026
 
-MoU of 30 Oct 2026 with the WASH Commission; national water-point catalogue; pump-diagnosis app; hundreds of pumps fixed.
+Liberia's national water, sanitation and hygiene commission signed a memorandum with US nonprofit WaterStep and the Kijani Group in October 2026. They will build a management information system cataloguing the country's water points and the ministries responsible for them. WaterStep's pump diagnosis app will feed data from several agencies into one national system.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: MUS
 ledger_rows: 30
 not_held: 7
-record: 1904f92ad0c1
+record: c7a82bbd421e
 ---
 
 # News, Oct – Nov 2026
@@ -120,7 +120,7 @@ Mauritius's ICT minister, Avinash Ramtohul, told L'Express on 10 October 2026 ab
 
 **[PQ | Réseaux sociaux : Le gouvernement prépare un nouveau cadre contre les abus](https://lexpress.mu/node/564170)** — L'Express (Maurice), 29 October 2026
 
-Draft Act 2021 amendments: deepfakes, doxxing, fake profiles; new Cybercrime Agency; takedown duties on platforms.
+Mauritius's ICT minister told the National Assembly in October 2026 that draft amendments to the Cybersecurity and Cybercrime Act 2021 are ready. They cover cyberharassment, doxxing, fake profiles, deepfakes and disinformation, and create a national cybersecurity agency. Platforms such as Facebook and TikTok would carry duties to take down content, keep evidence and report.
 
 </div>
 
@@ -134,7 +134,7 @@ Draft Act 2021 amendments: deepfakes, doxxing, fake profiles; new Cybercrime Age
 
 **[Highlights of Cabinet Meeting - Friday 30 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20-%20Friday%2030%20October%202026.pdf)** — Office of the Prime Minister, Mauritius, 30 October 2026
 
-Online fines payment live 30 Oct; 50,000-person AI training; CII framework; World Bank help drafting an AI Act.
+Mauritius's Cabinet noted on 30 October 2026 that fines for minor offences could now be paid online through the Supreme Court website. A unified government web portal is in development, and an AI training programme for 50,000 people is being designed. The World Bank discussed helping Mauritius draft an AI Act.
 
 </div>
 
@@ -164,7 +164,7 @@ Mauritius's Data Protection Office issued updated guidance in September 2026, as
 
 **[Financial sector urged to strengthen data protection and cybersecurity](https://mitci.govmu.org/mitci/financial-sector-urged-to-strengthen-data-protection-and-cybersecurity/)** — Ministry of Information Technology, Communication and Innovation (Mauritius), 29 October 2026
 
-Ministry's own account; ~23,000 of 60,000 registered; dedicated Cybersecurity Agency proposed, 2021 Act under review.
+Mauritius launched a guide on data protection in the financial sector on 29 October 2026. The ICT minister said only about 23,000 of an estimated 60,000 entities had registered as data controllers or processors. He called for better training and certification of data protection officers.
 
 </div>
 

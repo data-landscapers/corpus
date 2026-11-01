@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: GNB
 ledger_rows: 5
 not_held: 2
-record: 52f21fe82ea2
+record: 04056d107a7b
 ---
 
 # News, Oct – Nov 2026
@@ -38,7 +38,7 @@ record: 52f21fe82ea2
 
 **[ARN Lança Consulta Pública sobre Regulamento das Redes e Serviços de Comunicações por Satélite](https://arn.gw/arn-lanca-consulta-publica-sobre-regulamento-das-redes-e-servicos-de-comunicacoes-por-satelite/)** — ARN-TIC, 30 October 2026
 
-Aviso 03/CA/ARN/2026; responses due 29 Nov 2026; licensing for LEO/GEO systems, gateways, terminals; ARTAO-modelled.
+Guinea-Bissau's ICT regulator ARN-TIC opened a public consultation on a draft regulation of satellite communications networks and services in October 2026. It sets licensing for satellite networks, gateways, earth stations and terminals, with a decision within 60 working days. Responses are due by 29 November 2026.
 
 </div>
 

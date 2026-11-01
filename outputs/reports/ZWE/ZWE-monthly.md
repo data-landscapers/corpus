@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: ZWE
 ledger_rows: 29
 not_held: 6
-record: a1e2d15f371a
+record: ace3cffbd196
 ---
 
 # News, Oct – Nov 2026
@@ -176,7 +176,7 @@ Paradigm Initiative's Londa 2025 report ranks Zimbabwe 14th of 29 African countr
 
 **[Funding Gaps Could Undermine Digital Transformation: Mavetera](https://www.263chat.com/funding-gaps-could-undermine-digital-transformation-mavetera/)** — 263Chat, 30 October 2026
 
-ZWG1.03bn for 2027 against a ZWG12.72bn bid (8.09%); 45% of revised 2026 allocation released by 30 Sept.
+Zimbabwe's ICT minister said in October 2026 that her ministry was allocated ZWG1.03 billion for 2027 against a bid of ZWG12.72 billion, or 8.09%. She said the ministry's share of the national budget fell from 0.46% in 2021 to a proposed 0.28% in 2027. The 2027 allocation is 34.7% above the revised 2026 budget.
 
 </div>
 

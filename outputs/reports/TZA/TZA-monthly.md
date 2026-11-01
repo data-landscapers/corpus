@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: TZA
 ledger_rows: 35
 not_held: 5
-record: 231310ad8fd4
+record: 1538dff7f99e
 ---
 
 # News, Oct – Nov 2026
@@ -328,7 +328,7 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 
 **[Tanzania ponders reviewing Sh5 million mobile money transaction limit](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-ponders-reviewing-sh5-million-mobile-money-transaction-limit-5650372)** — The Citizen (Tanzania), 30 October 2026
 
-Deputy Finance Minister Munde to Parliament, 29 Oct 2026; BoT reviewing limits under E-Money Regulations 2015.
+Tanzania's deputy finance minister told Parliament on 29 October 2026 that the Bank of Tanzania is assessing whether to raise mobile money transaction limits. An MP had said the daily limit of Sh5 million is too low. The minister said the central bank sets limits by customer category and risk, and warned against raising them without safeguards.
 
 </div>
 

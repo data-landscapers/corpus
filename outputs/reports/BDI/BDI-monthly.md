@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: BDI
 ledger_rows: 16
 not_held: 10
-record: 2c7f4855a401
+record: c6ed75d749ad
 ---
 
 # News, Oct – Nov 2026
@@ -116,7 +116,7 @@ ISO's member page lists the Bureau Burundais de Normalisation et Contrôle de la
 
 **[Burundi: Bujumbura Seeks South Korean Support for Digital Identity Infrastructure](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-bujumbura-seeks-south-korean-support-for-digital-identity-infrastructure)** — We are Tech, 21 October 2026
 
-Seoul talks explore KOICA and EDCF financing for digital ID, data centres and government interconnection.
+Burundi's finance and digital economy minister met South Korea's science and ICT ministry in Seoul in October 2026. They discussed cooperation on digital identity, data centres, secure hosting of public data and links between government agencies. Financing through KOICA and Korea's EDCF fund was explored, with training and cybersecurity support.
 
 </div>
 

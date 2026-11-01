@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: NER
 ledger_rows: 8
 not_held: 1
-record: 0012e6052f41
+record: 5f958670efa1
 ---
 
 # News, Oct – Nov 2026
@@ -112,7 +112,7 @@ Niger and Algeria launched operation of the fibre link between In Guezzam and th
 
 **[Visite technique du chantier du datacenter national](https://ansi.ne/?p=1698)** — Agence Nationale pour la Société de l'Information, 29 October 2026
 
-ANSI director-general's site visit 29 Oct 2026; works under way; no completion date, cost or contractor stated.
+Niger's national information society agency ANSI inspected the site of the national data centre on 29 October 2026, which was still under construction. ANSI says the centre will host and secure the public administration's data and applications. No completion date, cost or contractor was published.
 
 </div>
 

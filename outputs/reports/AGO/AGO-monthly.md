@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: AGO
 ledger_rows: 24
 not_held: 6
-record: 1ba2a7075d7a
+record: 057051b5af46
 ---
 
 # News, Oct – Nov 2026
@@ -268,7 +268,7 @@ Angola's information society agency INFOSI certified and approved the private An
 
 **[Proposta de Lei da Identificação Civil e Criminal é discutida hoje nas comissões especializadas da Assembleia Nacional](https://www.rna.ao/pages/new.php?uid=236573)** — RNA, 26 October 2026
 
-Government bill makes the Bilhete de Identidade the sole valid ID document; committee stage on 26 Oct 2026.
+Committees of Angola's National Assembly examined the government's bill on civil and criminal identification on 26 October 2026. The bill makes the Bilhete de Identidade the only valid identity document. It also simplifies issuing that card and the criminal record certificate.
 
 </div>
 
@@ -276,7 +276,7 @@ Government bill makes the Bilhete de Identidade the sole valid ID document; comm
 
 **[Deputados aprovam regras sobre registo criminal e protecção de dados de menores](https://parlamento.ao/Noticia_72422)** — Assembleia Nacional de Angola, 30 October 2026
 
-Detailed vote on criminal-record and minors' registers; certificates purpose-bound and valid 90 days.
+Angola's National Assembly approved in detail on 30 October 2026 two chapters of the civil and criminal identification bill. They set purpose-specific criminal record certificates valid for 90 days and a confidential register for minors. The justice minister said access to identification data must serve defined legal purposes, with no open access for the President or the Executive.
 
 </div>
 

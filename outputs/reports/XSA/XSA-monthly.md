@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: XSA
 ledger_rows: 7
 not_held: 2
-record: 8c8ed2bea43b
+record: 7bec7b720438
 ---
 
 # News, Oct – Nov 2026
@@ -166,7 +166,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[PRE - EVENT PRESS STATEMENT - Digitalization in Eastern and Southern Africa (IDEA)](https://idea.comesa.int/pre-event-press-statement/)** — COMESA IDEA Programme, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
-Chongwe meeting 3-5 Nov 2026 to validate draft regional digital inclusion strategy and action plan; ~64 participants.
+COMESA announced on 30 October 2026 a regional meeting in Chongwe, Zambia, from 3 to 5 November. Member states will review a draft regional digital inclusion strategy, action plan and situational analysis. The work is funded by the World Bank under the IDEA programme.
 
 </div>
 

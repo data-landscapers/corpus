@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: COG
 ledger_rows: 12
 not_held: 5
-record: b36d5899895b
+record: e3cdb7f03c79
 ---
 
 # News, Oct – Nov 2026
@@ -158,7 +158,7 @@ Congo's telecoms regulator reported voice, internet and mobile-money outages on 
 
 **[MoMo and UbiPharm partner to digitise pharmaceutical payments in Congo](https://techreviewafrica.com/news/8034/momo-and-ubipharm-partner-to-digitise-pharmaceutical-payments-in-congo)** — Tech Review Africa, 29 October 2026
 
-Signed in Pointe-Noire; pharmacies pay distributor and customers pay pharmacies by MoMo; no volumes or fees.
+MTN Congo's mobile money service MoMo signed a partnership with drug distributor UbiPharm in Pointe-Noire (reported October 2026). Pharmacies can pay UbiPharm, and customers can pay pharmacies, by mobile money. No volumes, fees or number of pharmacies were published.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-01
 place: EGY
 ledger_rows: 39
 not_held: 38
-record: 5c8993dff91d
+record: 2e2eb9596772
 ---
 
 # News, Oct – Nov 2026
@@ -392,7 +392,7 @@ The planning minister told the Senate about an integrated electronic link. It jo
 
 **[العدل تواصل تطوير منظومة تسجيل الملكية العقارية بربط شبكى مع الوزارات المعنية](https://www.youm7.com/story/2026/10/28/%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B1%D8%A8%D8%B7-%D8%B4%D8%A8%D9%83%D9%89-%D9%85%D8%B9/7597491)** — Youm7, 28 October 2026
 
-Registry linked to five ministries and survey bodies; unified platform for remote registration to e-signature.
+Egypt's Ministry of Justice said it has linked the real estate registry by network to the communications, planning, housing and awqaf ministries and survey bodies (reported October 2026). A unified platform lets owners complete property registration remotely, from application through payment to electronic signature. The ministry gave no launch date.
 
 </div>
 
