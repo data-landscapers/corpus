@@ -1,6 +1,6 @@
 ---
 title: Mali: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: MLI
 ---
 
@@ -10,12 +10,12 @@ place: MLI
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">277</td><td class="num">80</td><td class="num">&lt;1</td><td class="num total">356</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">187</td><td class="num zero"></td><td class="num">3</td><td class="num">5</td><td class="num">5</td><td class="num total">201</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">187</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">189</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">5</td><td class="num zero"></td><td class="num">7</td><td class="num">11</td><td class="num">9</td><td class="num total">32</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">8</td><td class="num">11</td><td class="num total">22</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">14</td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">21</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">4</td><td class="num">3</td><td class="num">5</td><td class="num">5</td><td class="num total">17</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">5</td><td class="num total">10</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">4</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">5</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">2</td><td class="num total">3</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num zero"></td><td class="num total">2</td></tr>
@@ -41,13 +41,13 @@ place: MLI
 <tr><th scope="row">National statistics</th><td class="num">7</td><td class="num">11</td><td class="num">9</td><td class="num total">27</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">4</td><td class="num">8</td><td class="num">11</td><td class="num total">22</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">21</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">21</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">3</td><td class="num">5</td><td class="num">5</td><td class="num total">14</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">3</td><td class="num">5</td><td class="num">5</td><td class="num total">13</td></tr>
 <tr><th scope="row">Data protection</th><td class="num">2</td><td class="num">3</td><td class="num">5</td><td class="num total">10</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">2</td><td class="num total">3</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num">1</td><td class="num">2</td><td class="num zero"></td><td class="num total">2</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>

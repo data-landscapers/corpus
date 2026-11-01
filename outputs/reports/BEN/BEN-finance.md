@@ -1,6 +1,6 @@
 ---
 title: Benin: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: BEN
 ---
 
@@ -11,10 +11,10 @@ place: BEN
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">127</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">215</td><td class="num">64</td><td class="num total">406</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">100</td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">104</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num">16</td><td class="num">47</td><td class="num total">79</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">8</td><td class="num">5</td><td class="num">47</td><td class="num total">60</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">7</td><td class="num zero"></td><td class="num">9</td><td class="num">12</td><td class="num">&lt;1</td><td class="num total">28</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">8</td><td class="num">12</td><td class="num total">22</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num">10</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">10</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">7</td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num zero"></td><td class="num total">10</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">1</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">4</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num total">3</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
@@ -36,12 +36,12 @@ place: BEN
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">15</td><td class="num">16</td><td class="num">15</td><td class="num total">47</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">8</td><td class="num">5</td><td class="num">15</td><td class="num total">28</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">3</td><td class="num">8</td><td class="num">11</td><td class="num total">22</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">9</td><td class="num">12</td><td class="num">&lt;1</td><td class="num total">21</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num total">4</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num total">3</td></tr>
 <tr><th scope="row">Data protection</th><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num">1</td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num total">2</td></tr>
 <tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>

@@ -1,6 +1,6 @@
 ---
 title: Mozambique: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: MOZ
 ---
 
@@ -10,11 +10,11 @@ place: MOZ
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">304</td><td class="num">200</td><td class="num zero"></td><td class="num zero"></td><td class="num">202</td><td class="num zero"></td><td class="num total">706</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num">17</td><td class="num">18</td><td class="num">13</td><td class="num total">198</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num">16</td><td class="num">12</td><td class="num total">193</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">89</td><td class="num zero"></td><td class="num total">89</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">62</td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num">6</td><td class="num">7</td><td class="num total">81</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">19</td><td class="num">7</td><td class="num total">47</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">24</td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">27</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">24</td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">32</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">9</td><td class="num total">9</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
@@ -38,14 +38,14 @@ place: MOZ
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">17</td><td class="num">18</td><td class="num">13</td><td class="num total">48</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">15</td><td class="num">16</td><td class="num">12</td><td class="num total">43</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num">19</td><td class="num">4</td><td class="num total">23</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">6</td><td class="num">6</td><td class="num">7</td><td class="num total">19</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>

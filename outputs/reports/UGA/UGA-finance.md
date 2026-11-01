@@ -1,6 +1,6 @@
 ---
 title: Uganda: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: UGA
 ---
 
@@ -12,16 +12,16 @@ place: UGA
 <tr><th scope="row">Connectivity</th><td class="num">292</td><td class="num zero"></td><td class="num">163</td><td class="num">58</td><td class="num">8</td><td class="num">15</td><td class="num total">537</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">13</td><td class="num zero"></td><td class="num">40</td><td class="num">162</td><td class="num">57</td><td class="num total">272</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">62</td><td class="num">87</td><td class="num">58</td><td class="num total">207</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">17</td><td class="num zero"></td><td class="num zero"></td><td class="num">30</td><td class="num">58</td><td class="num">53</td><td class="num total">158</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">40</td><td class="num">37</td><td class="num">41</td><td class="num total">117</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">17</td><td class="num zero"></td><td class="num zero"></td><td class="num">24</td><td class="num">39</td><td class="num">37</td><td class="num total">117</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">4</td><td class="num">71</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">75</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">19</td><td class="num">25</td><td class="num">14</td><td class="num total">58</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num">19</td><td class="num">16</td><td class="num total">43</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">16</td><td class="num">5</td><td class="num total">24</td></tr>
 <tr><th scope="row">Access to services</th><td class="num">15</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">15</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">5</td><td class="num">1</td><td class="num total">13</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">3</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
@@ -40,17 +40,17 @@ place: UGA
 <tbody>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">62</td><td class="num">87</td><td class="num">58</td><td class="num total">207</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">40</td><td class="num">49</td><td class="num">57</td><td class="num total">146</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">30</td><td class="num">58</td><td class="num">53</td><td class="num total">141</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">40</td><td class="num">37</td><td class="num">41</td><td class="num total">117</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">24</td><td class="num">39</td><td class="num">37</td><td class="num total">100</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">46</td><td class="num">8</td><td class="num">15</td><td class="num total">70</td></tr>
 <tr><th scope="row">Registries</th><td class="num">19</td><td class="num">25</td><td class="num">14</td><td class="num total">58</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">6</td><td class="num">19</td><td class="num">16</td><td class="num total">41</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">3</td><td class="num">4</td><td class="num">5</td><td class="num total">12</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">1</td><td class="num">5</td><td class="num">1</td><td class="num total">6</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">2</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num">2</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Data protection</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">245</td><td class="num">275</td><td class="num">245</td><td class="num total">765</td></tr></tfoot>
 </table></div>

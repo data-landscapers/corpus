@@ -1,6 +1,6 @@
 ---
 title: Central African Republic: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: CAF
 ---
 
@@ -17,6 +17,7 @@ place: CAF
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
@@ -41,6 +42,7 @@ place: CAF
 <tr><th scope="row">National statistics</th><td class="num">1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>

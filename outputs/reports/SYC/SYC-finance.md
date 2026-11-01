@@ -1,6 +1,6 @@
 ---
 title: Seychelles: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: SYC
 ---
 
@@ -10,15 +10,15 @@ place: SYC
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">50</td><td class="num">50</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">101</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">6</td><td class="num">6</td><td class="num total">18</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">5</td><td class="num">6</td><td class="num total">15</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">5</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">&lt;1</td><td class="num total">4</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">3</td><td class="num total">3</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
@@ -34,8 +34,9 @@ place: SYC
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">7</td><td class="num">6</td><td class="num">6</td><td class="num total">18</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">5</td><td class="num">5</td><td class="num">6</td><td class="num total">15</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">5</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num">2</td><td class="num">&lt;1</td><td class="num total">4</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">3</td><td class="num total">3</td></tr>
 <tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
@@ -43,7 +44,6 @@ place: SYC
 <tr><th scope="row">Connectivity</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">10</td><td class="num">11</td><td class="num">14</td><td class="num total">35</td></tr></tfoot>

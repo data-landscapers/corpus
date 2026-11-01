@@ -16,15 +16,15 @@ place: NGA
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">16</td><td class="num">225</td><td class="num">24</td><td class="num total">265</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">90</td><td class="num zero"></td><td class="num">33</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">52</td><td class="num total">175</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">34</td><td class="num">12</td><td class="num">19</td><td class="num">54</td><td class="num">17</td><td class="num">11</td><td class="num total">148</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">13</td><td class="num zero"></td><td class="num">1</td><td class="num">20</td><td class="num">26</td><td class="num">19</td><td class="num total">79</td></tr>
-<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num">18</td><td class="num">30</td><td class="num">27</td><td class="num total">77</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">13</td><td class="num zero"></td><td class="num">1</td><td class="num">21</td><td class="num">26</td><td class="num">20</td><td class="num total">81</td></tr>
+<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num">19</td><td class="num">31</td><td class="num">28</td><td class="num total">79</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">37</td><td class="num">29</td><td class="num total">73</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">13</td><td class="num">22</td><td class="num">21</td><td class="num total">56</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">35</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">36</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">8</td><td class="num">11</td><td class="num">13</td><td class="num total">32</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num">26</td><td class="num total">27</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">10</td><td class="num">8</td><td class="num total">22</td></tr>
-<tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">6</td><td class="num">5</td><td class="num total">14</td></tr>
+<tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">5</td><td class="num">4</td><td class="num total">11</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Legislation and regulation</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
@@ -42,17 +42,17 @@ place: NGA
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">National statistics</th><td class="num">18</td><td class="num">30</td><td class="num">27</td><td class="num total">75</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">19</td><td class="num">31</td><td class="num">28</td><td class="num total">77</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">7</td><td class="num">37</td><td class="num">29</td><td class="num total">73</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">16</td><td class="num">29</td><td class="num">24</td><td class="num total">69</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">20</td><td class="num">26</td><td class="num">19</td><td class="num total">65</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">21</td><td class="num">26</td><td class="num">20</td><td class="num total">66</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num">13</td><td class="num">22</td><td class="num">21</td><td class="num total">56</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">10</td><td class="num">24</td><td class="num">22</td><td class="num total">56</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">5</td><td class="num">15</td><td class="num">11</td><td class="num total">32</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">1</td><td class="num">11</td><td class="num">13</td><td class="num total">25</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">4</td><td class="num">10</td><td class="num">8</td><td class="num total">22</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">5</td><td class="num">8</td><td class="num">7</td><td class="num total">20</td></tr>
-<tr><th scope="row">Open data</th><td class="num">3</td><td class="num">6</td><td class="num">5</td><td class="num total">14</td></tr>
+<tr><th scope="row">Open data</th><td class="num">2</td><td class="num">5</td><td class="num">4</td><td class="num total">11</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
@@ -95,5 +95,5 @@ place: NGA
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/NGA/finance.html">Full table &mdash; 83 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/NGA/NGA-nonstate-2026-10-13.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/NGA/NGA-nonstate-2026-11-01.csv" download>&darr; Download CSV</a>
 </div>

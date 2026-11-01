@@ -1,6 +1,6 @@
 ---
 title: Djibouti: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: DJI
 ---
 
@@ -11,10 +11,11 @@ place: DJI
 <tbody>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">675</td><td class="num total">675</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">66</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">66</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">8</td><td class="num">3</td><td class="num">23</td><td class="num zero"></td><td class="num total">33</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">20</td><td class="num">3</td><td class="num">3</td><td class="num">3</td><td class="num total">28</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">8</td><td class="num zero"></td><td class="num">20</td><td class="num zero"></td><td class="num total">28</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">6</td><td class="num zero"></td><td class="num">8</td><td class="num zero"></td><td class="num total">14</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">3</td><td class="num">3</td><td class="num zero"></td><td class="num total">6</td></tr>
 <tr><th scope="row">Energy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">119</td><td class="num">5</td><td class="num">34</td><td class="num">678</td><td class="num total">836</td></tr></tfoot>
@@ -30,7 +31,7 @@ place: DJI
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">National statistics</th><td class="num">3</td><td class="num">3</td><td class="num">3</td><td class="num total">8</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">3</td><td class="num">3</td><td class="num zero"></td><td class="num total">6</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">3</td><td class="num">3</td><td class="num zero"></td><td class="num total">6</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">5</td><td class="num">6</td><td class="num">3</td><td class="num total">14</td></tr></tfoot>
 </table></div>

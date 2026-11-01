@@ -11,7 +11,7 @@ place: GHA
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">262</td><td class="num">421</td><td class="num zero"></td><td class="num">33</td><td class="num">30</td><td class="num">1,335</td><td class="num total">2,080</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">290</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">9</td><td class="num">9</td><td class="num total">308</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">224</td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">1</td><td class="num">4</td><td class="num total">236</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">224</td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num">2</td><td class="num total">231</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num">25</td><td class="num">60</td><td class="num">38</td><td class="num total">128</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">100</td><td class="num">4</td><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">118</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">22</td><td class="num">10</td><td class="num">19</td><td class="num total">51</td></tr>
@@ -21,6 +21,7 @@ place: GHA
 <tr><th scope="row">National statistics</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">9</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">2</td><td class="num total">8</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">7</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">2</td><td class="num total">5</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Standards</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
@@ -43,9 +44,10 @@ place: GHA
 <tr><th scope="row">Registries</th><td class="num">22</td><td class="num">10</td><td class="num">19</td><td class="num total">51</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">14</td><td class="num">4</td><td class="num">5</td><td class="num total">23</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">1</td><td class="num">9</td><td class="num">9</td><td class="num total">18</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">7</td><td class="num">1</td><td class="num">4</td><td class="num total">12</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">8</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">2</td><td class="num">3</td><td class="num">2</td><td class="num total">7</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">5</td><td class="num zero"></td><td class="num">2</td><td class="num total">7</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num">1</td><td class="num">2</td><td class="num total">5</td></tr>
 <tr><th scope="row">Open data</th><td class="num">2</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Data protection</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
@@ -82,5 +84,5 @@ place: GHA
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/finance.html">Full table &mdash; 25 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GHA/GHA-nonstate-2026-10-30.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GHA/GHA-nonstate-2026-11-01.csv" download>&darr; Download CSV</a>
 </div>

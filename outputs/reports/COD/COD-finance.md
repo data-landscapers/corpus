@@ -1,6 +1,6 @@
 ---
 title: DR Congo: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: COD
 ---
 
@@ -11,11 +11,12 @@ place: COD
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">61</td><td class="num">10</td><td class="num">33</td><td class="num">15</td><td class="num">56</td><td class="num">1,657</td><td class="num">23</td><td class="num total">1,855</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">414</td><td class="num">160</td><td class="num">23</td><td class="num">45</td><td class="num total">648</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num">21</td><td class="num">21</td><td class="num">27</td><td class="num">42</td><td class="num total">261</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num">14</td><td class="num">16</td><td class="num">17</td><td class="num">27</td><td class="num total">224</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">20</td><td class="num">45</td><td class="num">63</td><td class="num">28</td><td class="num total">155</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">13</td><td class="num">17</td><td class="num">59</td><td class="num">52</td><td class="num total">139</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">30</td><td class="num">17</td><td class="num">9</td><td class="num">11</td><td class="num">13</td><td class="num total">80</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">40</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">40</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">8</td><td class="num">5</td><td class="num">10</td><td class="num">15</td><td class="num total">37</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">26</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">27</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num">5</td><td class="num total">12</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">5</td></tr>
@@ -41,9 +42,10 @@ place: COD
 <tr><th scope="row">Cybersecurity</th><td class="num">13</td><td class="num">17</td><td class="num">59</td><td class="num">52</td><td class="num total">139</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">14</td><td class="num">51</td><td class="num">23</td><td class="num">45</td><td class="num total">133</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">20</td><td class="num">45</td><td class="num">23</td><td class="num">28</td><td class="num total">115</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">21</td><td class="num">21</td><td class="num">27</td><td class="num">42</td><td class="num total">111</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">15</td><td class="num">16</td><td class="num">23</td><td class="num">23</td><td class="num total">77</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">14</td><td class="num">16</td><td class="num">17</td><td class="num">27</td><td class="num total">74</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">17</td><td class="num">9</td><td class="num">11</td><td class="num">13</td><td class="num total">50</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">8</td><td class="num">5</td><td class="num">10</td><td class="num">15</td><td class="num total">37</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num">5</td><td class="num total">12</td></tr>
 <tr><th scope="row">Access to services</th><td class="num">3</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">5</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">5</td></tr>

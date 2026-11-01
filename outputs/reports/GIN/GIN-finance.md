@@ -1,6 +1,6 @@
 ---
 title: Guinea: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: GIN
 ---
 
@@ -10,13 +10,14 @@ place: GIN
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">60</td><td class="num">380</td><td class="num">8</td><td class="num">12</td><td class="num total">461</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">16</td><td class="num">69</td><td class="num">15</td><td class="num total">100</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">15</td><td class="num">68</td><td class="num">14</td><td class="num total">97</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">27</td><td class="num zero"></td><td class="num">2</td><td class="num total">29</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num">7</td><td class="num">12</td><td class="num">5</td><td class="num total">24</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num">1</td><td class="num zero"></td><td class="num">2</td><td class="num total">17</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">4</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
@@ -24,7 +25,6 @@ place: GIN
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">74</td><td class="num">436</td><td class="num">96</td><td class="num">47</td><td class="num total">654</td></tr></tfoot>
 </table></div>
@@ -38,12 +38,13 @@ place: GIN
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">16</td><td class="num">15</td><td class="num">15</td><td class="num total">46</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">15</td><td class="num">14</td><td class="num">14</td><td class="num total">43</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">7</td><td class="num">8</td><td class="num">12</td><td class="num total">28</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">7</td><td class="num">12</td><td class="num">5</td><td class="num total">24</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Registries</th><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">4</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num">2</td><td class="num total">3</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num total">2</td></tr>
@@ -52,7 +53,6 @@ place: GIN
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">36</td><td class="num">42</td><td class="num">47</td><td class="num total">125</td></tr></tfoot>
 </table></div>

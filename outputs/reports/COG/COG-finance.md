@@ -1,6 +1,6 @@
 ---
 title: Congo: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: COG
 ---
 
@@ -10,7 +10,8 @@ place: COG
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">249</td><td class="num">100</td><td class="num">2</td><td class="num">4</td><td class="num">27</td><td class="num total">382</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">43</td><td class="num">5</td><td class="num">11</td><td class="num">16</td><td class="num total">74</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">43</td><td class="num zero"></td><td class="num">6</td><td class="num">6</td><td class="num total">55</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">5</td><td class="num">10</td><td class="num total">19</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">6</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 </tbody>
@@ -27,7 +28,8 @@ place: COG
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">2</td><td class="num">4</td><td class="num">27</td><td class="num total">33</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">5</td><td class="num">11</td><td class="num">16</td><td class="num total">31</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">5</td><td class="num">5</td><td class="num">10</td><td class="num total">19</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">6</td><td class="num">6</td><td class="num total">12</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">6</td><td class="num">15</td><td class="num">43</td><td class="num total">64</td></tr></tfoot>
 </table></div>

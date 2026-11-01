@@ -1,6 +1,6 @@
 ---
 title: Mauritius: finance
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: MUS
 ---
 
@@ -9,8 +9,9 @@ place: MUS
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">80</td><td class="num">&lt;1</td><td class="num">8</td><td class="num">17</td><td class="num">21</td><td class="num total">125</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">80</td><td class="num">&lt;1</td><td class="num">3</td><td class="num">10</td><td class="num">12</td><td class="num total">106</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num">25</td><td class="num">22</td><td class="num total">59</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">6</td><td class="num">9</td><td class="num total">20</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">7</td><td class="num">7</td><td class="num total">19</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">8</td><td class="num">5</td><td class="num total">16</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">5</td><td class="num">5</td><td class="num total">15</td></tr>
@@ -25,7 +26,6 @@ place: MUS
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Research institutions</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">80</td><td class="num">&lt;1</td><td class="num">41</td><td class="num">74</td><td class="num">78</td><td class="num total">272</td></tr></tfoot>
@@ -41,7 +41,8 @@ place: MUS
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">12</td><td class="num">25</td><td class="num">22</td><td class="num total">59</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">8</td><td class="num">17</td><td class="num">21</td><td class="num total">45</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">3</td><td class="num">10</td><td class="num">12</td><td class="num total">26</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">4</td><td class="num">6</td><td class="num">9</td><td class="num total">20</td></tr>
 <tr><th scope="row">Registries</th><td class="num">5</td><td class="num">7</td><td class="num">7</td><td class="num total">19</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">3</td><td class="num">8</td><td class="num">5</td><td class="num total">16</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">5</td><td class="num">5</td><td class="num">5</td><td class="num total">15</td></tr>
@@ -56,7 +57,6 @@ place: MUS
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Research institutions</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">41</td><td class="num">74</td><td class="num">78</td><td class="num total">192</td></tr></tfoot>

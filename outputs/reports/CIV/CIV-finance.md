@@ -9,7 +9,7 @@ place: CIV
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">588</td><td class="num zero"></td><td class="num">86</td><td class="num">53</td><td class="num">84</td><td class="num">59</td><td class="num total">870</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">588</td><td class="num zero"></td><td class="num">86</td><td class="num">52</td><td class="num">83</td><td class="num">58</td><td class="num total">866</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">44</td><td class="num">208</td><td class="num">59</td><td class="num total">311</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">69</td><td class="num">107</td><td class="num total">180</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">74</td><td class="num">43</td><td class="num zero"></td><td class="num">5</td><td class="num">31</td><td class="num">26</td><td class="num total">178</td></tr>
@@ -21,8 +21,8 @@ place: CIV
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">20</td><td class="num total">23</td></tr>
 <tr><th scope="row">Legislation and regulation</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">5</td><td class="num">3</td><td class="num total">13</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">3</td><td class="num">3</td><td class="num">2</td><td class="num total">11</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num total">11</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">3</td><td class="num">3</td><td class="num total">8</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">3</td><td class="num">3</td><td class="num total">6</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num">3</td><td class="num total">6</td></tr>
@@ -46,7 +46,7 @@ place: CIV
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">44</td><td class="num">58</td><td class="num">59</td><td class="num total">161</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">31</td><td class="num">37</td><td class="num">59</td><td class="num total">127</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">30</td><td class="num">36</td><td class="num">58</td><td class="num total">123</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">5</td><td class="num">31</td><td class="num">26</td><td class="num total">61</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">14</td><td class="num">26</td><td class="num">21</td><td class="num total">61</td></tr>
 <tr><th scope="row">Registries</th><td class="num">15</td><td class="num">23</td><td class="num">14</td><td class="num total">53</td></tr>
@@ -54,9 +54,9 @@ place: CIV
 <tr><th scope="row">Training and skills</th><td class="num">6</td><td class="num">8</td><td class="num">11</td><td class="num total">25</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">1</td><td class="num">2</td><td class="num">20</td><td class="num total">23</td></tr>
 <tr><th scope="row">Legislation and regulation</th><td class="num">5</td><td class="num">5</td><td class="num">3</td><td class="num total">13</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num total">11</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">3</td><td class="num">3</td><td class="num">3</td><td class="num total">10</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num">1</td><td class="num">3</td><td class="num">3</td><td class="num total">8</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Access to services</th><td class="num">&lt;1</td><td class="num">3</td><td class="num">3</td><td class="num total">6</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num">2</td><td class="num">3</td><td class="num total">6</td></tr>
@@ -98,5 +98,5 @@ place: CIV
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/finance.html">Full table &mdash; 29 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-nonstate-2026-10-22.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-nonstate-2026-11-01.csv" download>&darr; Download CSV</a>
 </div>
