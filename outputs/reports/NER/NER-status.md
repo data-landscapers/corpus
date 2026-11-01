@@ -1,12 +1,12 @@
 ---
 title: Niger: status report
-compiled: 2026-10-28
+compiled: 2026-11-01
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 181
+sources_cited: 182
 sections_written: 39
 not_established: 1
 acquire_lines: 33
@@ -125,11 +125,11 @@ The measured position remains among Africa's weakest. [Infrastructure is Niger's
 ### Data Storage
 <!-- infra.store -->
 
-[A Tier III data centre is being built at Niamey as the second component of the Trans-Saharan backbone project, its commissioning still ahead when the fibre sections were received in November 2025](https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/), presented by the government as securing the sovereignty of state data. It had been [announced in March 2025 as a national data centre to hold and secure all of the state's data, built with African Development Bank support at 9.5 billion CFA francs, 13 per cent executed, and promised for delivery by 30 September that year](https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/), a project [put at about US$14.3 million](https://www.wearetech.africa/en/fils-uk/news/public-management/nigers-14-3m-data-center-reaches-13-completion-on-track-for-september-finish).
+On 29 October 2026 the national information-society agency's director-general [inspected the national data centre, still under construction in Niamey](https://ansi.ne/?p=1698). [The agency presents it as strategic infrastructure for digital sovereignty, to host and secure the administration's data and applications](https://ansi.ne/?p=1698). [In March 2025 the government had announced it as a 9.5 billion CFA franc build with African Development Bank support, 13 per cent executed and due by 30 September that year](https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/). The project is [put at about US$14.3 million](https://www.wearetech.africa/en/fils-uk/news/public-management/nigers-14-3m-data-center-reaches-13-completion-on-track-for-september-finish). [It is the second component of the Trans-Saharan backbone project, whose fibre sections were received in November 2025](https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/).
 
-Nothing obliges data to stay in the country. [Niger imposes no data localisation requirement](https://www.hapdp.ne/uploads/files/loi_relativea%CC%80laprotectiondesdonne%CC%81esa%CC%80caracte%CC%80repersonnel.pdf), so personal, government, financial and critical-infrastructure data may be held abroad, subject only to the data protection law's conditions that cross-border transfers go to countries offering equivalent protection and be authorised by the HAPDP.
+[Niger's 2022 data protection law imposes no data localisation requirement](https://www.hapdp.ne/uploads/files/loi_relativea%CC%80laprotectiondesdonne%CC%81esa%CC%80caracte%CC%80repersonnel.pdf), so personal, government, financial and critical-infrastructure data may be held abroad. [Transfers abroad must go to countries offering equivalent protection and be authorised](https://www.hapdp.ne/uploads/files/loi_relativea%CC%80laprotectiondesdonne%CC%81esa%CC%80caracte%CC%80repersonnel.pdf). [The authorising authority was abolished in June 2026 and its powers passed to the justice and interior ministries](https://www.africadataprotection.org/actualites/Niger-Suppression-de-la-Haute-Autorite-de-Protection-des-Donnees-a-caractere-Personnel-et-transfert-de-ses-competences.html).
 
-Shared hosting beyond the state's own estate is already in use in finance, where [a mutualised processing centre sited in Côte d'Ivoire and Niger did the work that brought twelve microfinance institutions into the UEMOA clearing system through partner banks](https://www.bceao.int/sites/default/files/2025-06/Rapport_2022-2023_sur_les_IMF-Moyens-Services_de_Paiement-VF_compressed.pdf) (2023).
+In 2023 [a mutualised processing centre sited in Côte d'Ivoire and Niger brought twelve microfinance institutions into the UEMOA clearing system through partner banks](https://www.bceao.int/sites/default/files/2025-06/Rapport_2022-2023_sur_les_IMF-Moyens-Services_de_Paiement-VF_compressed.pdf).
 
 ### Energy
 <!-- infra.energy -->
