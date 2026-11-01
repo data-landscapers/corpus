@@ -1,6 +1,6 @@
 ---
 title: Mali: status report
-compiled: 2026-10-27
+compiled: 2026-11-01
 place: MLI
 region: XWA
 built_by: STATUS-INIT
@@ -182,7 +182,7 @@ The identity system is not yet joined to the new platforms: [the health ministry
 
 Mali's identity system enables no digital authentication at all: it [supports neither digital know-your-customer nor authentication through a government portal, and identity is verified by physical inspection of the document](https://dpimap.org/mali/) (2025). Behind it sits a biometric register of national scale — [5,733,428 biometric national identity cards produced against 8,463,084 people listed as eligible in the RAVEC database](https://bamada.net/situation-de-la-carte-didentite-nationale-biometrique-au-mali-5-733-428-cartes-disponible-sur-les-8-463-084-personnes-aptes-dans-la-base-de-donnees-du-ravec), roughly two-thirds, by August 2023.
 
-The credential rests on [Decree No. 2022-0639/PT-RM of 3 November 2022, which made the Carte Nationale d'Identité Biométrique Sécurisée the certified proof of identity in place of the NINA card, the ordinary identity card and the consular card](https://www.irb-cisr.gc.ca/en/country-information/rir/Pages/index.aspx?doc=457155). Enrolment [captures fingerprints and a facial photograph, with no iris, a practice unchanged from the 2009-2011 RAVEC census to the 2025 biometric passport](https://dpimap.org/mali/). Malians nonetheless [rate the ease of obtaining an identity document at 69.9 out of 100, 8th of 54 African states and up 5.7 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), against a collapsing civil registration score.
+The credential rests on [Decree 2025-0509 of 25 July 2025, which instituted the Sahel confederation biometric identity card, valid five years and carrying the national identification number, and repealed the 2022 decree on the secure biometric card](https://sgg-mali.ml/JO/2025/mali-jo-2025-23.pdf). Enrolment [captures fingerprints and a facial photograph, with no iris, a practice unchanged from the 2009-2011 RAVEC census to the 2025 biometric passport](https://dpimap.org/mali/). Malians nonetheless [rate the ease of obtaining an identity document at 69.9 out of 100, 8th of 54 African states and up 5.7 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), against a collapsing civil registration score.
 
 Ownership has been pulled home in one direction and pushed abroad in another. Mali [migrated the register in February 2024 to Mali Kura Biométrie, a sovereign platform built and maintained by Malian engineers, after a 2023 dispute in which IDEMIA was accused of withholding access to the RAVEC/NINA database](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/), and card production [is carried out by the Malian company M-SI, with Germany's Dermalog supplying equipment and training](https://www.maliweb.net/societe/carte-didentite-biometrique-du-mali-la-confection-est-assuree-par-une-societe-malienne-et-non-une-entreprise-allemande-3005191.html) (2024). Passport production went the other way, [moving from IDEMIA to China's Emptech in October 2025](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move/), presented as a sovereignty measure.
 
