@@ -12,4 +12,4 @@
 
 ***Also on file***. [A D4D Hub paper](<https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Data-Policies-and-Regulations/Examining-Sensitive-Personal-Data-Protection-and-Data-Sovereignty-in-Zambia.pdf>) says the Act requires sensitive personal data to be stored in Zambia.
 
-***Not found***. No source found on the exceptions the Minister has set to the rule keeping data in Zambia, or of a published list or approved contract terms.
+***Not found***. No source found gives the exceptions the Minister has set to the rule keeping data in Zambia. No published list or approved contract terms are on file.
