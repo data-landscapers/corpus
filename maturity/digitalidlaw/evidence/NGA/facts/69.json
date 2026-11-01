@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-26-nga-senate-passes-nat-l-identity-mgt-commission-repeal-re-enactment-bill",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "The Senate passed a bill repealing and re-enacting the 2007 NIMC Act to set up a National Identity Database and strengthen the legal framework for national and digital identity, per the Senate committee chairman.",
+   "as_of": "2025-03-26",
+   "date_precision": "day",
+   "system": "NIMC Act repeal and re-enactment bill",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Management Commission Act 2007",
+   "country_label": "Nigeria",
+   "class": "law",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

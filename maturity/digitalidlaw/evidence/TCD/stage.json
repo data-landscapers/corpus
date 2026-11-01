@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TCD-002;TCD-001",
-      "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
-      "note": "Rebuild 2026-10-31: Ordinance 002/PR/2020, ratified by law in May 2020, sets up a biometric register and a unique NNI (TCD-002); no rule made under it is held. Stage 4 holds.",
-      "as_at": "2026-10-31"
+      "gaps": "No regulation or decree applying the law, dated in the last three years, is held. ARCEP said in April 2025 that the texts in force require every SIM card sold to be linked to an NNI, but no source gives the rule or its date.",
+      "note": "Ordinance 002/PR/2020, ratified by law in May 2020, sets up a biometric register and a unique NNI (TCD-002), so stage 4. The SIM-to-NNI rule ARCEP cites (TCD-003) is undated, so it is not shown to have been made in the last three years, and stage 5 is not met.",
+      "as_at": "2026-11-01"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-ago-proposta-de-lei-da-identificacao-civil-e-criminal-e-discutida-hoje-nas",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "RNA reports that the Government's Proposta de Lei da Identificacao Civil e Criminal, which makes the Bilhete de Identidade the only valid document for personal identification, was discussed on 26 October 2026 in the National Assembly's specialised committees.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Proposta de Lei da Identificacao Civil e Criminal",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

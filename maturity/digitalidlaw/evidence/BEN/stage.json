@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-002;BEN-001",
-      "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
-      "note": "Rebuild 2026-10-31: Law 2017-08, amended by law 2025-12, provides a biometric register and the NPI (BEN-002); no rule made under it since September 2023 is held. Stage 4 holds.",
-      "as_at": "2026-10-31"
+      "gaps": "No regulation or decree applying the identification law, and no rule made under it that others must check identity against the system, dated in the last three years, is held. A July 2025 decree on assurance levels for electronic identification applies the digital code, not the identification law.",
+      "note": "Law 2017-08, amended by law 2025-12, provides a biometric register and the NPI (BEN-002), so stage 4. The July 2025 decree on electronic identification assurance levels (BEN-007) is made under the Code du numérique, not the identification law, so stage 5 is not met.",
+      "as_at": "2026-11-01"
     }
   ]
 }

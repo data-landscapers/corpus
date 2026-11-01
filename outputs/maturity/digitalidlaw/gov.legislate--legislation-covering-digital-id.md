@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 24 |
-| 3 Established | 6 |
-| 2 Nascent | 10 |
+| 3 Established | 7 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 8 |
@@ -262,6 +262,13 @@ Botswana's 1986 National Registration Act, amended in 2025, is in force. No sour
 - The Minister of Labour and Home Affairs told Parliament that the National Registration (Amendment) Act, 2025, an Act of Parliament amending the law governing the national identity card (Omang), provides that a passport or driving licence is used as identification while a defaced, lost or expired identity card awaits replacement ([source, 2026-07-29](https://dailynews.gov.bw/news-detail/92439)).
 - The Minister of Labour and Home Affairs said the National Registration (Amendment) Act of 2025 now allows passports and driving licences as valid identification while identity cards (Omang) are being replaced; it is an Act of Parliament amending the national registration law ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90334)).
 
+### Mozambique: 3 Established
+
+Mozambique's 2022 civil identification and identity card law is in force; whether it provides for a digital identity is not known.
+
+- The deck lists Law No. 6/2022 as the Legal Regime for Civil Identification and the National Citizen Identity Card ([source, 2022](https://www.id4africa.com/2025/files/PS5A-S1-4-Mozambique_FINAL.pdf)).
+- Mozambique's Assembly of the Republic approved in first reading, by consensus, on 16 March 2022 the Council of Ministers' bill setting the legal regime for civil identification and the national citizen identity card (Bilhete de Identidade), to replace colonial-era legislation; the item does not say the bill was later promulgated ([source, 2022-03-16](https://www.parlamento.mz/?p=1695)).
+
 ### Seychelles: 3 Established
 
 Seychelles' identity cards law, amended in 2023, is in force. No source found says whether it provides for a digital identity.
@@ -333,12 +340,6 @@ Kenya's digital identity system rests on a 2018 executive order and 2020 regulat
 Madagascar's parliament passed an identification law in July 2025 and the constitutional court cleared it. No source found says whether it has been promulgated.
 
 - The High Constitutional Court ruled on 26 August 2025 that law no. 2025-019 on the identification of natural persons, adopted by the National Assembly on 3 July and the Senate on 4 July 2025, conforms to the Constitution; the President had referred it on 28 July 2025 for review before promulgation, and the decision does not state that it was promulgated ([source, 2025-08-26](https://www.hcc.gov.mg/?p=9621)).
-
-### Mozambique: 2 Nascent
-
-A civil identification and identity card bill passed first reading in March 2022; no source found says whether it became law.
-
-- Mozambique's Assembly of the Republic approved in first reading, by consensus, on 16 March 2022 the Council of Ministers' bill setting the legal regime for civil identification and the national citizen identity card (Bilhete de Identidade), to replace colonial-era legislation; the item does not say the bill was later promulgated ([source, 2022-03-16](https://www.parlamento.mz/?p=1695)).
 
 ### Niger: 2 Nascent
 

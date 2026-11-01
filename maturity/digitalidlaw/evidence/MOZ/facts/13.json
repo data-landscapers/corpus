@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The deck lists Law No. 6/2022 as the Legal Regime for Civil Identification and the National Citizen Identity Card.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Law 6/2022 Civil Identification and National Citizen Identity Card",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law 6/2022 Civil Identification and National Citizen Identity Card",
+   "country_label": "Mozambique",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

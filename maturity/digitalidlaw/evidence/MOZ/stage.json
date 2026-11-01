@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "2",
-      "standing": "bill",
+      "stage": "3",
+      "standing": "in-force",
       "cover": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-001",
-      "gaps": "No source found says a national identity law is in force.",
-      "note": "Rebuild 2026-10-31: The only row is a bill passed at first reading in March 2022 (MOZ-001); its age does not lower it, since stage 1 needs a dated statement of absence. Stage 2 holds.",
-      "as_at": "2026-10-31"
+      "stage_sources": "MOZ-002;MOZ-001",
+      "gaps": "No source found says whether Law 6/2022 provides for a biometric register, an identity number unique to each person or an identity that can be checked electronically.",
+      "note": "Stage 3: the ICT regulator's May 2025 framework lists Law 6/2022, the legal regime for civil identification and the citizen identity card, among the laws in force (MOZ-002); it is the 2022 bill, enacted. Nothing held says what the law provides, so not 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }
