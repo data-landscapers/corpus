@@ -1,12 +1,12 @@
 ---
 title: Angola: status report
-compiled: 2026-10-29
+compiled: 2026-11-01
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 274
+sources_cited: 275
 sections_written: 39
 not_established: 0
 acquire_lines: 47
@@ -33,7 +33,7 @@ The statute before it punishes what people post: [Lei n.º 6/26 was gazetted in 
 
 Angola [has no dedicated legal regime for electronic signatures, digital certification or public key infrastructure](https://angop.ao/noticias/politica/secretario-de-estado-reafirma-importancia-da-transformacao-digital/), and [Lei de Autorização Legislativa n.º 12/26 of 2 October 2026 gives the President 90 days to legislate the electronic signature and digital certification regime](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/).
 
-Three further texts are in the pipeline. [A complete draft artificial-intelligence law went out for public consultation in September 2025](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf), [a digital government law entered public consultation on 6 May 2026](https://angop.ao/noticias/economia/especialista-defende-fim-da-dispersao-legislativa-no-sector-tecnologico-em-angola/), and [a bill setting the legal regime for collecting and processing identity-card and criminal-record data was cleared by the Council of Ministers for the Assembly on 29 April 2026](https://angop.ao/noticias/economia/estado-angolano-encaixa-receitas-de-9-36-bilioes-de-kwanzas-para-oge-2026/). What binds meanwhile is [Law 23/11 on electronic communications, 2/20 on video-surveillance, 11/20 on cellular location and electronic surveillance, and the Criminal Code 38/20](https://cms.law/en/int/expert-guides/cms-expert-guide-to-data-protection-and-cyber-security-laws/angola).
+Three further texts are in the pipeline. [A complete draft artificial-intelligence law went out for public consultation in September 2025](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf), [a digital government law entered public consultation on 6 May 2026](https://angop.ao/noticias/economia/especialista-defende-fim-da-dispersao-legislativa-no-sector-tecnologico-em-angola/), and [a bill setting the legal regime for collecting and processing identity-card and criminal-record data was cleared by the Council of Ministers for the Assembly on 29 April 2026](https://angop.ao/noticias/economia/estado-angolano-encaixa-receitas-de-9-36-bilioes-de-kwanzas-para-oge-2026/), and [the National Assembly approved its criminal-record and minors' register chapters in detail on 30 October 2026](https://parlamento.ao/Noticia_72422). What binds meanwhile is [Law 23/11 on electronic communications, 2/20 on video-surveillance, 11/20 on cellular location and electronic surveillance, and the Criminal Code 38/20](https://cms.law/en/int/expert-guides/cms-expert-guide-to-data-protection-and-cyber-security-laws/angola).
 
 ### Data protection
 <!-- gov.protect -->
