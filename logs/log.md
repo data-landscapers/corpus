@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-01 03:40 · **BUILD** · 2h09m · catalogue 35,879; 432 sources, 41 moved, 151 minted, 94 status revised; data centres 27 read, 17 changed; maturity 562 facts, 54 reassessed, 30 moved; bulletin 15, monthly 42; finance 0 waiting; register 9; prose gate 66 fixed - ok
 2026-10-31 01:55 · **INDEX** · 1m · research index: 78 added or changed, 1 removed, 646 chunks, 0.8 min - ok
 2026-10-31 01:48 · **RENDER** · 26m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; prune declined on a 401 from the download record, 1 edition pruned; 1,649 objects to R2; deployed 7b477fc - ok
 2026-10-31 01:22 · **REVIEW** · 51m · GNQ: status 6 sections revised, 32 trimmed, progress 2 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
@@ -441,8 +442,6 @@ title: Corpus process log
 2026-10-01 00:24 · **RENDER** · 15m · 251 documents, home, countries, topics, catalogue, finance, datasets rendered; 10 editions pruned, 2,566 objects to R2; deployed — ok
 2026-10-01 00:08 · **REVIEW** · 13m · MDG: status 11 sections revised, progress 7 cells, monthly 8 blocks, finance 0 rows; 1 deal queued, 1 note for OSINT — ok
 2026-10-01 00:06 · **REVIEW** · 11m · MAR: status 9 sections revised, progress 21 cells, monthly 11 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-09-30 23:54 · **BUILD** · 1h20m · catalogue 25,732; finance 2,027; 35 units / 117 sources, 54 minted, 23 moved; NGA and UGA re-read whole; COD duplicate cyber-agency row merged; data centres 1 row; bulletin 36; 30 register hits stand — ok
-2026-09-30 22:34 · **ANALYTICS** · unclocked · 2026-09-28..2026-09-29 written; 29 Sep: dl.io 50 views / 0 clicks, corpus 26 views / 1 clicks
 2026-09-29 16:02 · **HYPERSCALER** · unclocked · 04 GNQ: institutions 18 · US 30% · shield 8% · rank 4/54 · dangling 0
 2026-09-28 13:39 · **SCAN** · 1h40m · KEN: 50 institutions, 4,747 routable, 11% US hyperscaler. NGA: 51 institutions, 5,747 routable, 24% US hyperscaler. 6 claimable dangling CNAMEs across three countries
 2026-09-20 19:32 · **REGISTER-R58** · unclocked · R58 NER FY2026: Niger publishes, 28th country. The communications ministry gets XOF 191.8m for digital; a compte special for tax-administration digitisation, outside the votes, gets 5.56bn -- 29x. Three exact cross-foots.
