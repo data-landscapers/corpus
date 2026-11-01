@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-10-31
+compiled: 2026-11-01
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 204
+sources_cited: 205
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -41,7 +41,7 @@ Chad's newest data law regulates the state's use of biometrics rather than citiz
 
 The general regime is [Act No. 007/PR/2015 of 10 February 2015, implemented by Decree No. 075/PR/2019, which governs the collection, processing, storage and transmission of personal data, including the biometric and identity data processed under the national ID system](https://www.dlapiperdataprotection.com/index.html?t=law&c=TD). It sits with [ANSICE, created under Act No. 006/PR/2015 and operational since 2020, with powers to investigate complaints, authorise cross-border transfers and sanction violations](https://www.dlapiperdataprotection.com/?c=TD&t=authority) — a body whose mandate the Senate ratified an ordinance to widen on [13 March 2026, from cybersecurity to personal-data protection, electronic-transaction security, cybercrime, protection of the national information space and the regulation of video-surveillance and drones](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency). [The World Bank's assessment is that the framework in place is not yet fully applied, the government not yet able to manage security breaches in key public systems or to provide digital trust services including authentication and certification](https://documents1.worldbank.org/curated/en/099102502282341480/pdf/P180000048eed6040a13200ddaf8abe650.pdf) (2023).
 
-Two gaps are structural. [No statutory duty obliges any data controller to notify users, regulators or the authority of a breach or unauthorised access, though breaches of the Act carry one to five years' imprisonment and fines of XAF 1-10 million](https://www.dlapiperdataprotection.com/index.html?c=TD&t=breach-notification), and [the general consumer protection law, No. 005/PR/2015, carries no payment-specific rules on error resolution, chargebacks or e-money disputes](https://www.africa-laws.org/Chad/Consumer%20Law/Loi%202015%20portant%20protection%20du%20Consommateur%20au%20Tchad.pdf). Meanwhile identification duties keep widening: [SIM registration against a national ID card or passport is compulsory, operators must maintain customer identification databases and give the government access to them](https://cipesa.org/wp-content/files/State-of-Internet-Freedom-in-Chad-2019.pdf), and [an arrêté of August 2025 requires every Starlink user — individual, company or public institution — to be formally identified with ARCEP or a licensed operator, supplying identity, address, legal references and the serial numbers of modems, routers and antennas](https://tchadinfos.com/2025/08/28/tchad-le-gouvernement-fixe-les-conditions-dutilisation-des-services-starlink/).
+Two gaps are structural. [No statutory duty obliges any data controller to notify users, regulators or the authority of a breach or unauthorised access, though breaches of the Act carry one to five years' imprisonment and fines of XAF 1-10 million](https://www.dlapiperdataprotection.com/index.html?c=TD&t=breach-notification), and [the general consumer protection law, No. 005/PR/2015, carries no payment-specific rules on error resolution, chargebacks or e-money disputes](https://www.africa-laws.org/Chad/Consumer%20Law/Loi%202015%20portant%20protection%20du%20Consommateur%20au%20Tchad.pdf). Meanwhile identification duties keep widening: [SIM registration against a national ID card or passport is compulsory, operators must maintain customer identification databases and give the government access to them](https://cipesa.org/wp-content/files/State-of-Internet-Freedom-in-Chad-2019.pdf), and [an arrêté of August 2025 requires every Starlink user — individual, company or public institution — to be formally identified with ARCEP or a licensed operator, supplying identity, address, legal references and the serial numbers of modems, routers and antennas](https://tchadinfos.com/2025/08/28/tchad-le-gouvernement-fixe-les-conditions-dutilisation-des-services-starlink/). [In April 2025 the regulator convened the identity agency, security services and operators over SIMs still sold pre-activated without the national identification number check the rules require](https://www.letchadanthropus-tribune.com/tchad-securite-larcep-sonnera-lalerte-sur-lappartenance-des-cartes-sim/).
 
 ### Regional collaboration
 <!-- gov.regional -->
