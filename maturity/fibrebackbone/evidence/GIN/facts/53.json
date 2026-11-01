@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-gin-lancement-en-grande-pompe-du-programme-de-connectivite-de-plus-de-2000",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "The pre-university education minister listed the extension of the national fibre-optic backbone among the major works the ministry has engaged, at the 5 November 2025 launch.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "national fibre-optic backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national fibre-optic backbone",
+   "country_label": "Guinea",
+   "class": "backbone",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

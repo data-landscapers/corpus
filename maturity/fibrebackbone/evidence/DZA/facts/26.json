@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-23-dza-zerrouki-devoile-la-feuille-de-route-de-la-5g-et-les-avancees-du-servi",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Algerie360 reports Algeria has a national fibre optic network of 260,000 km covering 95% of the territory.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "National fibre optic network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "2",
-   "reach": "building",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-001",
-   "gaps": "No source found says any of the backbone is in service between the capital and another region.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "3",
+      "reach": "in-service",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-002",
+      "gaps": "A 260,000 km network covering 95 per cent of the territory is reported, but no source says it reaches every province; nothing on other operators buying capacity.",
+      "note": "Algérie360 reported in April 2025 a national fibre network of 260,000 km covering 95 per cent of the territory, backbone in service beyond the capital. No source says it reaches every province, so not stage 4.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

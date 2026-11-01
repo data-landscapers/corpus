@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 7 |
-| 3 Established | 28 |
-| 2 Nascent | 5 |
+| 3 Established | 29 |
+| 2 Nascent | 4 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
 | No evidence | 11 |
@@ -79,6 +79,12 @@ Backbone fibre reached every province or region by 2026; no source found says wh
 
 - Nairametrics, from NCC data, says the 101,148.36 km of fibre is deployed across all 36 states and the FCT, though concentrated in Lagos and Abuja; article date used as no other is given ([source, 2026-08-09](https://nairametrics.com/2026/08/09/fg-incorporates-company-to-deliver-90000km-nationwide-fibre-network/)).
 - Article says the 101,000 km network stretches across all 36 states and the FCT; NCC state data lists fibre in every state (lowest Ebonyi 586.92 km, Bayelsa 656.87 km). Date is the article's publication date ([source, 2026-07](https://businessday.ng/technology/article/how-nigeria-built-101000km-of-fibre-that-bypasses-130m-nigerians/)).
+
+### Algeria: 3 Established
+
+A national fibre network of 260,000 km covered most of the territory in 2025; whether it reaches every province is not known.
+
+- Algerie360 reports Algeria has a national fibre optic network of 260,000 km covering 95% of the territory ([source, 2025-04-23](https://www.algerie360.com/zerrouki-devoile-la-feuille-de-route-de-la-5g-et-les-avancees-du-service-universel/)).
 
 ### Botswana: 3 Established
 
@@ -263,12 +269,6 @@ Backbone fibre linked the capital to other regions by 2026; no source found says
 
 - Consultant Willard Shoko says Liquid Intelligent Technologies operates over 26,000 km of fibre in Zimbabwe as the core long-haul terrestrial routing layer; no places named. Dated by the article (2026-09-12) ([source, 2026-09-12](https://cleantechnica.com/2026/09/12/integrating-starlink-leo-infrastructure-with-zimbabwes-terrestrial-fibre-networks/)).
 - Information minister Soda Zhemu said at a post-Cabinet briefing that the total fibre backbone grew 33.83 percent to surpass 19,000 km in Q1 2026, and fibre coverage rose from 4,046 km to 8,500 km; no places named ([source, 2026-03](https://www.newsday.co.zw/local-news/article/200058335/internet-traffic-surges-57)).
-
-### Algeria: 2 Nascent
-
-A national fibre backbone was being built in 2025; none is known to be in service.
-
-- Algerie Telecom and Huawei announced the official launch of the national 400G WDM project, building an all-optical transmission foundation covering the whole country (vendor/PR-wire copy; as_of is the article's published date as it gives none) ([source, 2025-02-25](https://techafricanews.com/2025/02/25/algeria-telecom-and-huawei-ignite-a-new-era-of-high-speed-connectivity/)).
 
 ### Congo: 2 Nascent
 

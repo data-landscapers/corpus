@@ -8,3 +8,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,BFA,infra.connect--national-fibre-backbone,fact,3,4,BFA-008,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,GAB,infra.connect--national-fibre-backbone,fact,3,3,GAB-001;GAB-012,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,TZA,infra.connect--national-fibre-backbone,fact,5,5,TZA-012;TZA-010,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-11-01,DZA,infra.connect--national-fibre-backbone,fact,2,3,DZA-002,"Arrival added DZA-002, a 260,000 km national fibre network covering 95 per cent of the territory: backbone in service."

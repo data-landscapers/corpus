@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The minister referred to the existing national backbone network, which has aged, and said segments would be upgraded to give 45 major villages reliable high-speed internet.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "National ICT Backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "The minister said seven new optical fibre links would be implemented in 2024/25 by BoFiNet; the Sebina-Nshakashokwe-Tutume link was complete and Takatokwane-Morwamosu was due that month.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "National ICT Backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Backbone",
+   "country_label": "National ICT Backbone",
+   "platform": "",
+   "owner": "BoFiNet",
+   "tiers": "",
+   "class": "backbone"
+  }
+ ],
+ "note": ""
+}

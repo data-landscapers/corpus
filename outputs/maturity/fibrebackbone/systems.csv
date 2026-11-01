@@ -57,6 +57,7 @@ BWA,Village Connectivity Project,Village Connectivity Project,other,,Ministry of
 BWA,"national fibre network (about 16,000 km)",fibre optic cable laid across the country,backbone,,,,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
 BWA,Delta Digital Data Centre,Tier III National Data Centre,other,,government,,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
 BWA,ICT Roadmap 2030,ICT Roadmap 2030 (prioritises nationwide broadband expansion and fibre connectivity; a plan),other,,Ministry of Communications and Innovation,,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
+BWA,National ICT Backbone,National ICT Backbone,backbone,,BoFiNet,,2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo
 CAF,"Central African Backbone (CAB), CAR component",Dorsale optique nationale de la RCA,backbone,,"Government of CAR, financed by EU and AfDB",,2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca
 CAF,"Central African Backbone (CAB), CAR component",CAB - CAR Component,backbone,,"Government of CAR, financed by EU and AfDB",,2017-01-01-afdb-caf-001-central-african-republic---central-africa
 CAF,Project East2West,East2West,other,,Bayobab (MTN) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
@@ -154,12 +155,14 @@ GAB,Backbone national gabonais,Backbone national gabonais,backbone,,ANINF,,2024-
 GHA,CSquared/NEDCo northern fibre project,,other,,CSquared Ghana Ltd; NEDCo power lines,,2026-09-09-ustda-csquared-ghana-fibre-feasibility
 GHA,Dig Once policy (road fibre chambers),Dig Once,other,,"Ministry of Communication, Digital Technology and Innovations",,2026-05-14-dig-once-policy-fibre-cost-cut-myjoy
 GHA,MTN Ghana fibre network,MTN fibre network,other,,MTN Ghana,,2026-04-18-mtn-fibre-cable-sabotage-157-sites-myjoy
+GHA,CSquared Ghana fibre,Ghana,other,fibre,CSquared Ghana,,2026-10-28-gha-northern-ghana-fiber-backbone-and-access-networks-feasibility-study
 GIN,Backbone national,dorsale nationale de fibre optique,backbone,Huawei technical support,SOGEB,,2026-05-22-guinee-backbone-capacite-400-gbs-huawei
 GIN,National backbone,national backbone,backbone,,,,"2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026"
 GIN,Guinea national data centre (Tier 3),,other,,,,"2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026"
 GIN,Internet Exchange Point,IXP,other,,,,"2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026"
 GIN,Backbone national,Backbone national,backbone,,SOGEB,,2025-12-26-mediaguinee-univ-connect-17-universities
 GIN,Réseau métropolitain de Conakry,,other,,,,2025-12-26-mediaguinee-univ-connect-17-universities
+GIN,national fibre-optic backbone,Guinea,backbone,,,,2025-11-05-gin-lancement-en-grande-pompe-du-programme-de-connectivite-de-plus-de-2000
 GMB,National Broadband Network (NBN),National Broadband Network (NBN),backbone,,GAMTEL,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
 GMB,ECOWAN,ECOWAN,backbone,,GAMTEL,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
 GMB,Cross Gambia Fiber Cable network (CG2),Cross Gambia Fiber Cable network (CG2),backbone,,GAMTEL,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
@@ -206,6 +209,7 @@ KEN,LuLu Coastal Cable System,LuLu,other,,INDOI Ltd with partners,,2026-09-09-te
 KEN,Paratus Goma-to-Mombasa (G2M) route,G2M,backbone,,Paratus Group,,2026-09-09-techtrendske-paratus-east-africa-connectivity-itw
 KEN,"KDEAP Extending National Backbone and Cross Border Links framework agreement (RFB KE-ICTA-538567-NC-RFB, Lot 1 National Backbone Links, Lot 2 Cross Border and Metro Links)","National Backbone Expansion (middle mile), KDEAP subcomponent 1.1",other,,"ICT Authority (ICTA), World Bank financed",,2026-09-15-ken-icta-rfb-538567-national-backbone-cross-border-links
 KEN,"17,000km public institutions fibre project",Kenya,backbone,fibre,"State Department for ICT with CA, ICTA and Kenya Power",,2026-10-18-ken-kna-tanui-iten-17000km-public-institutions-fibre-project-underway
+KEN,NOFBI II,Kenya,other,,Ministry of ICT,,2025-09-12-ken-cs-kabogo-outlines-plans-to-accelerate-digital-transformation-and-cons
 LBR,expanded fiber-optic connectivity (planned),,other,,Ministry of Posts and Telecommunications,,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
 LBR,fiber-optic network Monrovia-Buchanan-Loguatuo,,backbone,,,,2026-01-29-liberia-verge-5g-revolution-observer
 LBR,second submarine cable landing at Buchanan (planned),,other,,,,2026-01-29-liberia-verge-5g-revolution-observer
@@ -452,6 +456,7 @@ TZA,Mkongo wa Taifa wa Mawasiliano,Mkongo wa Taifa wa Mawasiliano (National ICT 
 TZA,National Optic Fibre Cable (NOFBI),Tanzania,backbone,fibre,TTCL,,2025-07-20-tza-dailynews-horohoro-fibre-redundancy-route
 TZA,National ICT Broadband Backbone (NICTBB),NICTBB,backbone,,Tanzania Telecommunications Company Limited (TTCL),,2024-02-24-bdi-dailynews-nictbb-ttcl-bbs-agreement
 TZA,National ICT Backbone,Tanzania,backbone,,,,2025-06-28-tza-tanzaniainvest-president-samia-performance-speech
+TZA,National ICT Broadband Backbone (NICTBB),Tanzania,backbone,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 UGA,National Backbone Infrastructure (NBI),National Backbone Infrastructure,backbone,,Government of Uganda,public institutions,2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal
 UGA,Uganda Telecom revival (RCC agreement),UTel,other,,Government of Uganda / Rowad Capital Commercial,,2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal
 UGA,National Backbone Infrastructure (NBI),National Backbone Infrastructure,backbone,,NITA-U,"MDAs, local governments, schools",2023-12-06-uganda-parliament-hansard-nbi-egi-phase-v-loan
