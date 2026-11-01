@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-30-gin-guinea-launch-of-lonnin-fanka-to-bridge-digital-divide-and-train-youth",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Guinea's Ministry of Planning launched the Lonnin Fanka programme on 27 June 2025, which aims to give every Guinean, including people with disabilities, a computer, internet access and certified training.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "Lonnin Fanka",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lonnin Fanka",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

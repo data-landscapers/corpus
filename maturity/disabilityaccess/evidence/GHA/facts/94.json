@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-02-gha-communications-and-digitalisation-ministry-trains-22-000-people-in-ict",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The minister says the Digital Transformation Centre project partners extended the digital skills programme to visually impaired persons in 2023; no rule, count reached or audit is stated.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Digital Transformation Centre project",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-19-ken-major-usf-transparency-update-kenya-s-communications-authority-respond",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "The USF portfolio listed by the Communications Authority includes an Education Cloud and Assistive Tech project providing content and devices for learners with print disabilities.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Education Cloud and Assistive Tech (USF)",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

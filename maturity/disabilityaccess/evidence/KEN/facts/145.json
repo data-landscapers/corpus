@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-31-ken-state-plans-digital-accessibility-audits-to-improve-services-for-perso",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "At a forum on 30 October 2026 validating a Digital and ICT Accessibility Maturity roadmap, Kenyan officials said public institutions are to audit their websites and online platforms and draw up plans to remove barriers for persons with disabilities, and the disability office is drafting inclusive communication guidelines on sign language, captioning and accessible documents, per The Star.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Digital and ICT Accessibility Maturity roadmap",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Accessibility Standards",
+   "country_label": "Kenya",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "Government of Kenya, launched May 2022 with UK support",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

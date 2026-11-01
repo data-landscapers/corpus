@@ -2,7 +2,7 @@
 
 ## Digital accessibility
 
-**Accessibility rule.** [The ECOWAS Commission, with Guinean authorities and disability organisations, met in Conakry in June 2026 on implementing the third phase of its assistive-devices programme for children with disabilities, which covers specialised tablets among other devices and has USD 300,000 committed](<https://www.guinee7.com/2026/06/25/inclusion-la-cedeao-renforce-son-engagement-en-faveur-des-enfants-en-situation-de-handicap-en-guinee/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Accessibility rule.** In June 2025 the Ministry of Planning [launched the Lonnin Fanka programme](<https://africa-news-agency.com/guinea-launch-of-lonnin-fanka-to-bridge-digital-divide-and-train-youth/>). It aims to give every Guinean, people with disabilities among them, a computer, internet access and certified training. In June 2026 the ECOWAS Commission [met Guinean authorities and disability groups in Conakry](<https://www.guinee7.com/2026/06/25/inclusion-la-cedeao-renforce-son-engagement-en-faveur-des-enfants-en-situation-de-handicap-en-guinee/>). They discussed the third phase of its assistive-devices programme for children with disabilities. It covers specialised tablets among other devices, with USD 300,000 committed.
 
 **Delivered.** No source found since October 2023 says accessible digital services or assistive technology were delivered. The nearest held fact: [the one given above](<https://www.guinee7.com/2026/06/25/inclusion-la-cedeao-renforce-son-engagement-en-faveur-des-enfants-en-situation-de-handicap-en-guinee/>).
 
