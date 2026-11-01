@@ -1,12 +1,12 @@
 ---
 title: Burkina Faso: status report
-compiled: 2026-10-30
+compiled: 2026-11-01
 place: BFA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 211
+sources_cited: 212
 sections_written: 39
 not_established: 0
 acquire_lines: 62
@@ -338,7 +338,7 @@ Where the channel is digital it is thin. The [national government service portal
 ### Digital divides
 <!-- include.divides -->
 
-Geography divides hardest: [grid electricity reaches most urban households and almost no rural ones](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=BF) (2023), and [the state had to put more than 3 billion CFA francs into restoring networks in areas destabilised by insecurity](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-invests-30-million-in-digital-infrastructure-amid-challenges) (March 2025). The universal-service response has been slow against the size of the problem: ARCEP's programme [cleared several hundred mobile white zones in its first phase, through 183 new sites](https://www.sidwaya.info/couverture-du-burkina-faso-en-reseau-mobile-environ-300-zones-blanches-rayees-de-la-carte/) (2022), [connectivity was extended to 370 additional localities during 2025](https://www.biometricupdate.com/202602/burkina-faso-expands-connectivity-and-data-infrastructure-digital-public-services), and [the regulator still counted about 3,514 localities with no operator present, nearly 40% of the country's localities and some 4.7 million people](https://lefaso.net/spip.php?article150068) (October 2026). Price draws the second line: [mobile internet costs a substantially higher share of income here than the African average](https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-tightens-telecom-regulations-but-affordability-concerns-persist) (2025).
+Geography divides hardest: [grid electricity reaches most urban households and almost no rural ones](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=BF) (2023), and [the state had to put more than 3 billion CFA francs into restoring networks in areas destabilised by insecurity](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-invests-30-million-in-digital-infrastructure-amid-challenges) (March 2025). The universal-service response has been slow against the size of the problem: ARCEP's programme [cleared several hundred mobile white zones in its first phase, through 183 new sites](https://www.sidwaya.info/couverture-du-burkina-faso-en-reseau-mobile-environ-300-zones-blanches-rayees-de-la-carte/) (2022), [connectivity was extended to 370 additional localities during 2025](https://www.biometricupdate.com/202602/burkina-faso-expands-connectivity-and-data-infrastructure-digital-public-services), and [the regulator still counted about 3,514 localities with no operator present, nearly 40% of the country's localities and some 4.7 million people](https://lefaso.net/spip.php?article150068) (October 2026). Price draws the second line: [mobile internet costs a substantially higher share of income here than the African average](https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-tightens-telecom-regulations-but-affordability-concerns-persist) (2025). [In 2021, 39.4% of urban and 15.2% of rural people aged 15 to 49 had used the internet in the past year](https://dhsprogram.com/pubs/pdf/FR378/FR378e.pdf).
 
 Burkinabè rate the infrastructure around them markedly better than they did a decade ago: the [Ibrahim Index's Public Perception of Infrastructure score rose 9.3 points over 2014-2023 to 30.5 out of 100, 26th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf) (2023). That is movement off a floor rather than arrival anywhere, and it is the pattern across the whole set: the same index's [Internet & Computers measure is among the country's most improved indicators while its score stays at 24.3 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf) (2023).
 
