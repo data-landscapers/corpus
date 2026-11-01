@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-06-uga-ucc-ucusaf-telecom-infrastructure-program-launched-in-agago",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "UCC launched its UCUSAF Access Infrastructure Program in Agago: of 63 subsidised sites for sub-counties under 30% 3G coverage, 7 are built and 4 operational.",
+   "as_of": "2024-02-06",
+   "date_precision": "day",
+   "system": "Access Infrastructure Program",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Access Infrastructure Program",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "UCUSAF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

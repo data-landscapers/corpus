@@ -82,3 +82,11 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-30,ZMB,include.divides--bridging-of-digital-divides,review,3,3,ZMB-005;ZMB-003,Rebuild: first-pass cell re-read from every row held; stage 3 holds
 2026-10-30,ZWE,include.divides--bridging-of-digital-divides,review,3,3,ZWE-002,Rebuild: first-pass cell re-read from every row held; stage 3 holds
 2026-10-30,CPV,include.divides--bridging-of-digital-divides,ladder,5,unplaced,,"Rungs met in order (Bill, 2026-10-30): no rural programme on record, so the 2025 survey places nothing"
+2026-11-01,KEN,include.divides--bridging-of-digital-divides,fact,2,3,KEN-008;KEN-010,"USF connection counts for 2024-2025 arrived (155 sub-locations, 1,300 km fibre); stage 2 -> 3."
+2026-11-01,DZA,include.divides--bridging-of-digital-divides,fact,2,3,DZA-007;DZA-008,Universal-service 4G lit in two Ain Defla localities in October 2024; stage 2 -> 3.
+2026-11-01,LSO,include.divides--bridging-of-digital-divides,fact,2,3,LSO-003;LSO-001,"USF tower at Ha-Tsepe connecting 10 villages, May 2024; stage 2 -> 3."
+2026-11-01,SSD,include.divides--bridging-of-digital-divides,fact,2,3,SSD-002,"USAF and MTN site launched at Abuyong, July 2025; stage 2 -> 3."
+2026-11-01,UGA,include.divides--bridging-of-digital-divides,fact,2,3,UGA-006;UGA-007,"UCUSAF counts arrived: 85+ base stations by April 2026, 4 sites operational in Agago 2024; stage 2 -> 3."
+2026-11-01,ZAF,include.divides--bridging-of-digital-divides,fact,2,3,ZAF-005;ZAF-004,"SA Connect reached 361,000 rural and township households by March 2024; stage 2 -> 3."
+2026-11-01,GNB,include.divides--bridging-of-digital-divides,fact,no evidence,2,GNB-001,WARDIP strategic plan for the universal access fund delivered October 2025; no evidence -> 2.
+2026-11-01,GAB,include.divides--bridging-of-digital-divides,fact,2,2,GAB-003;GAB-001;GAB-010,"Phase-two equipment and phase-one counts arrived; phase one predates the window, stage 2 holds."

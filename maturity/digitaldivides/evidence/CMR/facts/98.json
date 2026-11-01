@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-11-cmr-connectivite-rurale-le-cameroun-engage-la-phase-operationnelle-de-plus",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "PATNUC says a strategic meeting in Yaounde on 8 July 2025 prepared World Bank-financed 3G coverage for 328 rural white-zone localities, with a tender for 120 firm sites and 208 conditional sites targeted before 30 December 2026.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "PATNUC rural connectivity project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

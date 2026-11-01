@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-23-zaf-pq-1084-hon-mr-s-k-sithole-ifp-to-ask-the-minister-of-communications-a",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The communications department says Sentech and Broadband Infraco, set to deploy 32,055 Wi-Fi hotspots, have already installed more than 11,500, focusing also on rural and underserved areas.",
+   "as_of": "2025-06-23",
+   "date_precision": "day",
+   "system": "Sentech and Broadband Infraco Wi-Fi hotspots",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sentech and Broadband Infraco Wi-Fi hotspots",
+   "country_label": "South Africa",
+   "class": "ruralaccess",
+   "platform": "Wi-Fi hotspots",
+   "owner": "Sentech and Broadband Infraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

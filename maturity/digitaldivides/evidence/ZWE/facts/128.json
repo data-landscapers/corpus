@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-zwe-tower-relocation-project-brings-mobile-connectivity-to-marginalised-co",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "POTRAZ's USF-funded Tower Relocation Project had relocated and switched on 30 towers to underserved rural and border communities by September 2025, with 14 more due.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Tower Relocation Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tower Relocation Project",
+   "country_label": "Tower Relocation Project (TRP)",
+   "class": "ruralaccess",
+   "platform": "Universal Services Fund",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

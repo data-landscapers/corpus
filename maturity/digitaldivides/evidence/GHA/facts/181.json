@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-27-gha-mahama-reports-1-144-live-sites-in-rural-connectivity-drive",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "President Mahama told Parliament that under GIFEC's Rural Telephony and Digital Inclusion Project 1,561 of 2,016 planned sites had been constructed and 1,144 were transmitting live, with 417 awaiting activation and 455 at procurement.",
+   "as_of": "2026-02-27",
+   "date_precision": "day",
+   "system": "Rural Telephony and Digital Inclusion Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rural Telephony and Digital Inclusion Project",
+   "country_label": "Rural Telephony and Digital Inclusion Project",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "GIFEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

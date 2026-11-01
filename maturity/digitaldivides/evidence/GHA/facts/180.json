@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-21-gha-more-than-1-600-rural-telephony-sites-reportedly-completed-1-400-activ",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Minister Samuel Nartey George says more than 1,600 of about 2,016 rural telephony sites under Ghana's project, run with GIFEC, have reportedly been completed and about 1,400 are active and carrying traffic.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Rural telephony project (GIFEC)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

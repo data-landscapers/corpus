@@ -9,10 +9,10 @@
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GAB-003;GAB-001",
+      "stage_sources": "GAB-003;GAB-001;GAB-010",
       "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-      "note": "Phase two for 200 villages was launched in 2024 and the minister spoke of speeding it up in 2026, so a programme is under way. Three sites built in December 2024 were not yet in service and nothing since counts sites, so not 3.",
-      "as_at": "2026-10-30"
+      "note": "Phase two for 200 villages was relaunched in 2024 and the minister spoke of speeding it up in 2026, so a programme is under way. The villages counted belong to phase one, before October 2023, and the ten phase-two sites of January 2025 were still being built, so not 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

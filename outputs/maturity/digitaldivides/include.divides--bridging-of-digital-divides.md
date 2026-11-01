@@ -22,11 +22,11 @@ The Digital Transformation Strategy asks for universal, equitable and affordable
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 18 |
-| 2 Nascent | 23 |
+| 3 Established | 24 |
+| 2 Nascent | 18 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
-| No evidence | 5 |
+| No evidence | 4 |
 
 ## Countries
 
@@ -41,6 +41,13 @@ Rural and urban internet use were measured in 2025, rural use below four-fifths 
 Rural and urban internet use were measured in 2024, rural use below four-fifths of urban.
 
 - HCP reported from the 2024 census that 70.2% of urban and 40.4% of rural residents aged 15 and over used the internet in the three months before the census ([source, 2024-09](https://aljarida24.ma/p/actualites/298884/)).
+
+### Algeria: 3 Established
+
+Universal-service 4G reached its first rural localities in 2024; rural and urban use is not measured.
+
+- The minister launched the universal-service project on 21 October 2024 with 4G networks lit in Djelida and El Amra (Ain Defla), part of 91 Ain Defla localities in Ooredoo's share of 1,400 zones, 760 new antennas ([source, 2024-10-21](https://www.ooredoo.dz/w/tout-sur-ooredoo/communiques-de-presse/ooredoo-etend-son-reseau-dans-le-cadre-du-service-universel)).
+- Two ministerial arretes of 6 June 2024, published in JO no. 45, award the universal-service mobile coverage lots for low-density localities to Wataniya Telecom Algerie (83 lots) and Optimum Telecom Algerie (13 lots) ([source, 2024-06-06](https://www.joradp.dz/FTP/jo-francais/2024/F2024045.pdf)).
 
 ### Angola: 3 Established
 
@@ -81,6 +88,20 @@ A rural connectivity programme had connected a stated number of sites or people 
 
 - The minister said about 1,400 Rural Telephony Project sites are carrying traffic, with another 300 complete awaiting connection and about 300 under construction towards a target of 2,016 sites ([source, 2026-09-05](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/)).
 - The NPP says 1,961 rural telephony sites had been constructed by the January 2025 handover, while alleging many are now non-operational ([source, 2025-01](https://www.citinewsroom.com/2026/09/npp-gives-communications-ministry-30-days-to-disclose-rural-telephony-status/)).
+
+### Kenya: 3 Established
+
+The Universal Service Fund had connected 155 sub-locations by 2025; rural and urban use is not measured.
+
+- Kenya's Communications Authority says its Universal Service Fund mobile infrastructure phases 1-4 targeted 369 sub-locations and 155 are connected to date, within a KES 17.674 billion, 11-project portfolio with an estimated 1.6 million beneficiaries ([source, 2025-08](https://www.kictanet.or.ke/major-usf-transparency-update-kenyas-communications-authority-responds-to-public-inquiry/)).
+- The Communications Authority says its Sh5 billion programme to lay 2,500 km of fibre across 19 counties for rural internet access is 50 per cent complete with 1,300 km laid, and that over five years it deployed base stations across over 130 sub-locations covering over 750,000 people in 24 counties ([source, 2024-09](https://www.ca.go.ke/ca-lay-2500km-fibre-accross-19-counties)).
+
+### Lesotho: 3 Established
+
+A fund-financed tower connected 10 villages in 2024; rural and urban use is not measured.
+
+- A Vodacom Lesotho tower at Ha-Tsepe, Leribe, funded by the Universal Service Fund and the AfDB, was inaugurated and connects 10 villages ([source, 2024-05](https://www.diaspora.thepost.co.ls/2024/05/24/new-tower-for-ha-tsepe/)).
+- The Lesotho Communications Authority's annual report 2024/25 states the Universal Service Fund, established under s.33 of the Communications Act 2012, funds telecommunications extension to unserved and underserved areas ([source, 2026-02-25](https://lca.org.ls/wp-content/uploads/filr/4278/Annual-Report-2024-25-2-1.pdf)).
 
 ### Liberia: 3 Established
 
@@ -141,11 +162,31 @@ A rural connectivity programme had connected a stated number of sites or people 
 - The Universal Access Development Fund's managing director Marie Momoh told parliament's committee that the fund has built five towers since 2018 with three more nearing completion, to bring ICT services to underserved rural communities, and is upgrading towers from 2G to 4G with World Bank support ([source, 2025-08-26](https://www.premiermedia-sl.com/uadf-proposes-1-levy-to-accelerate-rural-ict-expansion/)).
 - The Universal Access Development Fund's CEO says its Rural Telephony Project, launched across five rural communities, has connected approximately 47,700 people across 114 rural and remote localities, with over 30 schools and about 10 health centres served ([source, 2024-07](https://uadf.gov.sl/launch-of-the-rural-telephony-project/)).
 
+### South Africa: 3 Established
+
+SA Connect had reached 361,000 rural and township households by 2024; rural and urban use is not measured.
+
+- Minister Gungubele said the SA Connect flagship, which aims to connect 5 million rural and township households, had to date reached 361,000 households through 2,502 Wi-Fi hotspots ([source, 2024-03-01](https://www.gov.za/news/speeches/minster-mondli-gungubele-launch-national-digital-skills-forum-01-mar-2024)).
+- The communications department says Sentech and Broadband Infraco, set to deploy 32,055 Wi-Fi hotspots, have already installed more than 11,500, focusing also on rural and underserved areas ([source, 2025-06-23](https://static.pmg.org.za/RNW1084-2025-06-23_removed.pdf)).
+
+### South Sudan: 3 Established
+
+The universal service fund opened a rural network site in 2025; rural and urban use is not measured.
+
+- MTN South Sudan and the Universal Service and Access Fund launched a network site at Abuyong, Lakes State, with three more sites planned in Greater Pibor and Cueibet after the rainy season ([source, 2025-07-09](https://www.connectingafrica.com/connectivity/mtn-south-sudan-expands-its-network-to-rural-abuyong)).
+
 ### Tanzania: 3 Established
 
 A rural connectivity programme had connected a stated number of sites or people by 2026; rural and urban use is not measured.
 
 - Helios Towers completed 133 telecom sites under Tanzania's government-led Universal Communications Service Access Fund (UCSAF) programme to extend connectivity to rural and underserved communities, per Tech Review Africa ([source, 2026-04-13](https://techreviewafrica.com/news/4919/)).
+
+### Uganda: 3 Established
+
+The universal service fund had paid for more than 85 base stations by 2026; rural and urban use is not measured.
+
+- The Uganda Communications Commission says the universal service fund UCUSAF has invested in more than 85 base stations in underserved areas and connected over 1,300 schools, 65 health centres and 100 public access centres ([source, 2026-04-24](https://www.ucc.co.ug/kampala-hosts-itu-workshop-to-strengthen-national-broadband-mapping/)).
+- UCC launched its UCUSAF Access Infrastructure Program in Agago: of 63 subsidised sites for sub-counties under 30% 3G coverage, 7 are built and 4 operational ([source, 2024-02-06](https://www.ucc.co.ug/wp-content/uploads/2024/03/UCC-UCUSAF-TELECOM-INFRASTRUCTURE-LAUNCHED-IN-AGAGO-06.FEB_.2024.pdf)).
 
 ### Zambia: 3 Established
 
@@ -159,13 +200,6 @@ A rural connectivity programme had connected a stated number of sites or people 
 A rural connectivity programme had connected a stated number of sites or people by 2026; rural and urban use is not measured.
 
 - ICT Minister Mavetera said at Digital UNGA that more than 10,000 remote sites have been connected under Zimbabwe's digital inclusion initiatives ([source, 2026-09-22](https://techreviewafrica.com/news/7395/unga81-zimbabwe-highlights-digital-inclusion-drive-at-unga81-outlines-ai-roadmap)).
-
-### Algeria: 2 Nascent
-
-A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
-
-- Algerian Business reports a universal service programme for 201 4G sites given to ATM Mobilis, funded by the State through the universal service support fund at over DZD 27.3bn, for under-covered zones ([source, 2026-09-30](https://algerian-business.com/mobilis-4g-algerie-201-sites-27-milliards/)).
-- ARPCE launched a competitive tender announced 7 September 2026 to extend mobile coverage to 3,000 sparsely populated areas under its universal service mandate, to improve internet access ([source, 2026-09-07](https://techafricanews.com/2026/09/09/algeria-tender-mobile-coverage-3000-underserved-areas/)).
 
 ### Burundi: 2 Nascent
 
@@ -232,6 +266,7 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 
 - Minister Marc Alexandre Doumba said the government intends to accelerate deployment of the universal service to open up rural zones and improve connectivity in the interior ([source, 2026-05-27](https://legabonais.com/bilan-des-100-jours-internet-cybersecurite-administration-numerique-marc-alexandre-doumba-deroule-la-strategie-digitale/)).
 - Arcep announced on 16 February 2024 the launch of phase 2 of the Universal Service of electronic communications, funded by a telecom-operator fund, to extend coverage to 200 villages in all nine provinces ([source, 2024-02-16](https://www.gabonreview.com/fracture-numerique-au-gabon-plus-de-117-000-habitants-nont-pas-acces-a-internet-en-2024/)).
+- ARCEP relaunched universal service phase two to cover 200 white-zone villages through Airtel Gabon and Moov Africa, on the head of state's instruction ([source, 2024-02](https://www.arcep.ga/pages/detail_actu/8)).
 
 ### Gambia: 2 Nascent
 
@@ -245,17 +280,11 @@ A programme to bring internet to rural areas was under way in 2025; sites connec
 
 - ANSUTEN, the national universal service agency, presented on 22 July 2025 a feasibility study (with SFM Technologies, since 2023) mapping white zones and aiming at coverage of 90% of the rural population by 2030, with an international tender for technical and financial partners to follow ([source, 2025-07-22](https://mediaguinee.com/2025/07/guinee-vers-une-couverture-a-90-des-zones-rurales-dici-2030-une-initiative-de-lansuten/)).
 
-### Kenya: 2 Nascent
+### Guinea-Bissau: 2 Nascent
 
-A programme to bring internet to rural areas was under way in 2023; sites connected are not counted.
+A plan to extend the network to rural centres was prepared in 2025; sites connected are not counted.
 
-- The Communications Authority's USF Strategy 2023-2027 says the Authority will give direct financial support to roll out 2,500 km of fibre in unserved and underserved areas, with a Ksh 40.037 billion plan for the period ([source, 2023](http://www.ca.go.ke/sites/default/files/CA/USF%20Strategy/Universal%20Service%20Fund%20Strategy%202023-2027.pdf)).
-
-### Lesotho: 2 Nascent
-
-A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
-
-- The Lesotho Communications Authority's annual report 2024/25 states the Universal Service Fund, established under s.33 of the Communications Act 2012, funds telecommunications extension to unserved and underserved areas ([source, 2026-02-25](https://lca.org.ls/wp-content/uploads/filr/4278/Annual-Report-2024-25-2-1.pdf)).
+- The WARDIP consultants' final report delivered a strategic plan for Guinea-Bissau's Universal Access and Service Fund (FAU), including fibre links extending the national backbone to less-served rural centres and a pilot to subsidise phones ([source, 2025-10-30](https://wardip.gw/wp-content/uploads/2026/05/Documento-Final-de-Validacao-do-Workshop.pdf)).
 
 ### Mali: 2 Nascent
 
@@ -277,18 +306,6 @@ A 2025 policy plans broadband for underserved areas; no rural site is counted as
 
 - The Ministry of Communications and Technology's Digital Inclusion Policy recommends improving broadband connectivity with priority to unserved and underserved areas, with an implementation roadmap budgeted at about $32 million over five years ([source, 2025-08](https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf)).
 
-### South Africa: 2 Nascent
-
-A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
-
-- The Witness reports the British High Commission launched on 25 August 2026 a multi-million-rand project supporting community network operators to extend affordable internet to rural and township KwaZulu-Natal, welcomed by the provincial Cogta MEC ([source, 2026-08-25](https://witness.co.za/news/2026/08/27/multi-million-rand-british-investment-to-bring-affordable-internet-access-to-rural-kzn/)).
-
-### South Sudan: 2 Nascent
-
-A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
-
-- The National Communication Authority announced a 2026 agenda to accelerate rollout of digital infrastructure extending reliable connectivity to rural and under-connected areas ([source, 2026-01-05](https://www.onecitizendaily.com/index.php/2026/01/05/south-sudan-targets-rural-connectivity-child-online-safety-in-2026-digital-transformation-push/)).
-
 ### Sudan: 2 Nascent
 
 A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
@@ -300,13 +317,6 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 A programme to bring internet to rural areas was under way in 2025; sites connected are not counted.
 
 - Webdo reports that the Ministry of Communication Technologies launched national tender 02/2025 to extend telecom and broadband coverage to 103 white zones in 15 governorates ([source, 2025-06-27](https://www.webdo.tn/fr/actualite/national/internet-pour-tous-letat-relance-la-couverture-des-zones-blanches/378539/)).
-
-### Uganda: 2 Nascent
-
-A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
-
-- TechReviewAfrica reports the UCUSAF Programme, funded by statutory 2% contributions handed to the Uganda Communications Commission, finances projects extending telecommunications infrastructure and connectivity in underserved and hard-to-reach communities ([source, 2026-07-31](https://techreviewafrica.com/news/6536/atc-uganda-contributes-to-universal-service-fund-to-expand-digital-access-across-uganda)).
-- The article says Uganda operates the Uganda Communications Universal Service and Access Fund (formerly the Rural Communications Development Fund), financed by a 2 per cent operator revenue levy to support digital inclusion ([source, 2026-06](https://observer.ug/technology/digital-inclusion-what-ugandan-telecoms-can-learn-from-kenyas-safaricom-and-south-africas-vodacom/)).
 
 ### Benin: Unplaced
 
@@ -351,12 +361,6 @@ Nothing found names a programme to connect rural areas or says there is none, so
 Not established: Nothing found says whether rural areas are being connected or how far rural internet use lags urban.
 
 ### Eritrea: No evidence
-
-Nothing found names a programme to connect rural areas or says there is none, so no stage is set.
-
-Not established: Nothing found says whether rural areas are being connected or how far rural internet use lags urban.
-
-### Guinea-Bissau: No evidence
 
 Nothing found names a programme to connect rural areas or says there is none, so no stage is set.
 

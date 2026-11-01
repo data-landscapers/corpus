@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-24-sen-fdsut-igf-2025-connectivite-inclusive-1550-villages-2029",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The FDSUT coordinator said at IGF 2025 on 24 June 2025 that the universal service fund aims to connect 1,550 villages by 2029, reaching nearly 2 million Senegalese, notably in rural areas.",
+   "as_of": "2025-06-24",
+   "date_precision": "day",
+   "system": "FDSUT village connection programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FDSUT (Fonds de Developpement du Service Universel des Telecommunications)",
+   "country_label": "Senegal",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

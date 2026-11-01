@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-31-ken-government-to-partner-with-counties-to-implement-ict-related-projects-acr",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Principal Secretary Stephen Isaboke says the government continues, through the Universal Service Fund, to support connectivity expansion in underserved areas with mobile coverage gaps, and asks counties to name priority unconnected wards for targeted interventions.",
+   "as_of": "2026-10-31",
+   "date_precision": "day",
+   "system": "Universal Service Fund",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund",
+   "country_label": "Universal Service Fund",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "State Department for Broadcasting and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

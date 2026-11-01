@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-27-ken-ca-to-spend-sh3-5bn-to-bridge-digital-divide-in-rural-areas",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Kenya News Agency quotes the USF deputy director saying the first three phases of the BTS project covered more than 500 sub-locations, at Sh4 billion.",
+   "as_of": "2025-02-27",
+   "date_precision": "day",
+   "system": "USF base transceiver stations project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund mobile network connectivity project",
+   "country_label": "USF mobile network connectivity project",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

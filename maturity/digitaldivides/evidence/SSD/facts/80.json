@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-09-ssd-mtn-south-sudan-expands-its-network-to-rural-abuyong",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "MTN South Sudan and the Universal Service and Access Fund launched a network site at Abuyong, Lakes State, with three more sites planned in Greater Pibor and Cueibet after the rainy season.",
+   "as_of": "2025-07-09",
+   "date_precision": "day",
+   "system": "Universal Service and Access Fund",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service and Access Fund",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "USAF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

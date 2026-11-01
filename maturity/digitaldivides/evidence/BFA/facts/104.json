@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-30-bfa-le-burkina-faso-veut-couvrir-1-000-zones-blanches-en-trois-ans",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Minister Aminata Zerbo/Sabane said 183 of 1,700 identified white zones without mobile or internet service were connected in 2022 through the universal access fund FASU, which invested FCFA 6.2bn.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "FASU white-zone coverage",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "On 27 August 2024 the minister announced that the government will itself invest to cover 1,000 more white zones without mobile and internet service over the next three years.",
+   "as_of": "2024-08-27",
+   "date_precision": "day",
+   "system": "FASU white-zone coverage",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FASU (Fonds pour l'acces et le service universels)",
+   "country_label": "Burkina Faso",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

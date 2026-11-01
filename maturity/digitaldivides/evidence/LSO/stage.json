@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "2",
-      "programme": "underway",
+      "stage": "3",
+      "programme": "delivering",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-001",
-      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-      "note": "The 2024/25 annual report says the Universal Service Fund funds extension to unserved areas, so a programme is under way. No site is counted, so not 3.",
-      "as_at": "2026-10-30"
+      "stage_sources": "LSO-003;LSO-001",
+      "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
+      "note": "A Universal Service Fund tower at Ha-Tsepe connecting 10 villages was inaugurated in May 2024, so a programme has connected stated sites. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }

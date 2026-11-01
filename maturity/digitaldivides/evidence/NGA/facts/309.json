@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-29-nga-honourable-minister-dr-bosun-tijani-unveils-digital-village-with-free",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The Federal Ministry of Communications, Innovation and Digital Economy says its Innovation Village pilot, with Huawei, Glo and the Universal Service Provision Fund, delivers free public Wi-Fi at 100 Mbps to over 12,000 residents of the rural settlement of Ibwa 2, Kura, Gwagwalada.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "Innovation Village",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Innovation Village",
+   "country_label": "Innovation Village, Ibwa 2",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Federal Ministry of Communications, Innovation and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

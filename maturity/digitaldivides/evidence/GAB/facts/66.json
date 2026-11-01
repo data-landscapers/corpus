@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-29-gab-poste-telediffusion-services-universels-la-solution-du-ctri-contre-la",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Gabonreview reports the transition authorities created the Poste Telediffusion Services Universels GIE between La Poste SA and TDG to extend coverage and phone and internet access to uncovered zones, starting with 18 villages in March 2024.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Poste Telediffusion Services Universels",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

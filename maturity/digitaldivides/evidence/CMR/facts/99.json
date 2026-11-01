@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-11-cmr-numerique-pour-tous-le-cameroun-valide-sa-strategie-nationale-de-servi",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "MINPOSTEL, with World Bank support under PATNUC, validated a national universal digital service strategy on 8 July 2025 whose deployment axis aims at full coverage of underserved areas by 2030.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "National universal digital service strategy",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fonds special des telecommunications",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Cameroon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

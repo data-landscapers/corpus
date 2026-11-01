@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-05-mar-morocco-partners-with-elon-musk-s-starlink-to-expand-rural-internet-ac",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Minister Amal El Fallah Seghrouchni told parliament that the first phase of the National High and Very High Speed Plan gave 2G, 3G and 4G coverage to more than 10,640 rural areas between 2018 and 2024.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "National High and Very High Speed Plan (PNHD)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PNHD (National High and Very High Speed Plan)",
+   "country_label": "Morocco",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": "second phase funded by the Universal Telecommunications Service Fund"
+  }
+ ],
+ "note": ""
+}

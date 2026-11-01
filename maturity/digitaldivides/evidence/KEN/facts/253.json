@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-19-ken-major-usf-transparency-update-kenya-s-communications-authority-respond",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Kenya's Communications Authority says its Universal Service Fund mobile infrastructure phases 1-4 targeted 369 sub-locations and 155 are connected to date, within a KES 17.674 billion, 11-project portfolio with an estimated 1.6 million beneficiaries.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Universal Service Fund mobile infrastructure phases 1-4",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

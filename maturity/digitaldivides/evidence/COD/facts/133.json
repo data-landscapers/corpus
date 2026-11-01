@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-22-cod-phase-pilote-d-itinerance-et-d-acquisition-de-sites-au-kongo-central",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The FDSU, the universal service fund, says on 22 Oct 2025 it is selecting sites for antennas in six Kongo Central territories under a pilot roaming and site-acquisition programme, with installation to follow.",
+   "as_of": "2025-10-22",
+   "date_precision": "day",
+   "system": "FDSU pilot roaming and site acquisition programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FDSU pilot roaming and site acquisition programme",
+   "country_label": "COD",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Fonds de Développement du Service Universel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

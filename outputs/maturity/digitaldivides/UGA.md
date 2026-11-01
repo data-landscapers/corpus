@@ -2,7 +2,7 @@
 
 ## Rural internet gap
 
-**Rural connectivity programme.** [The Uganda Communications Commission says its universal service fund, UCUSAF, supports services in unserved and underserved areas](<https://www.ucc.co.ug/mtn-contributes-ugx-54-27bn-to-support-digital-inclusion/>). [It is financed by a 2% levy on operator revenue](<https://www.ucc.co.ug/mtn-contributes-ugx-54-27bn-to-support-digital-inclusion/>). [The fund will be used to expand ICT infrastructure there](<https://www.ucc.co.ug/mtn-contributes-ugx-54-27bn-to-support-digital-inclusion/>). [In July 2026 TechReviewAfrica reported that it finances projects in hard-to-reach communities](<https://techreviewafrica.com/news/6536/atc-uganda-contributes-to-universal-service-fund-to-expand-digital-access-across-uganda>). [It was formerly the Rural Communications Development Fund](<https://observer.ug/technology/digital-inclusion-what-ugandan-telecoms-can-learn-from-kenyas-safaricom-and-south-africas-vodacom/>). [Between 2016 and 2023 the commission ran the fund to promote broadband access, Parliament reports](<https://www.parliament.go.ug/news/3634/mps-advocate-better-funding-improve-ict-access>).
+**Rural connectivity programme.** [The Uganda Communications Commission says its universal service fund, UCUSAF, supports services in unserved and underserved areas](<https://www.ucc.co.ug/mtn-contributes-ugx-54-27bn-to-support-digital-inclusion/>). [It is financed by a 2% levy on operator revenue](<https://www.ucc.co.ug/mtn-contributes-ugx-54-27bn-to-support-digital-inclusion/>). [In February 2024 the commission launched its Access Infrastructure Program in Agago](<https://www.ucc.co.ug/wp-content/uploads/2024/03/UCC-UCUSAF-TELECOM-INFRASTRUCTURE-LAUNCHED-IN-AGAGO-06.FEB_.2024.pdf>). [Of 63 subsidised sites for sub-counties under 30% 3G coverage, 7 were built and 4 operational](<https://www.ucc.co.ug/wp-content/uploads/2024/03/UCC-UCUSAF-TELECOM-INFRASTRUCTURE-LAUNCHED-IN-AGAGO-06.FEB_.2024.pdf>). [By April 2026 the fund had invested in more than 85 base stations in underserved areas](<https://www.ucc.co.ug/kampala-hosts-itu-workshop-to-strengthen-national-broadband-mapping/>). [It had connected over 1,300 schools, 65 health centres and 100 public access centres](<https://www.ucc.co.ug/kampala-hosts-itu-workshop-to-strengthen-national-broadband-mapping/>).
 
 **Gap measured.** No source found since October 2023 gives internet use in rural and in urban areas. The nearest held fact: [the one given above](<https://techreviewafrica.com/news/6536/atc-uganda-contributes-to-universal-service-fund-to-expand-digital-access-across-uganda>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is one delivering, with sites counted.
+***Not found***. No source found since October 2023 gives internet use in rural and in urban areas.

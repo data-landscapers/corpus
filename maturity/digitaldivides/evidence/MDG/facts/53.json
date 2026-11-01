@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Minister Delmotte says she launched a USD 55 million subsidy under the World Bank-financed DECIM project to connect remote areas through private-sector towers, fibre and network expansion.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "DECIM remote-area connectivity subsidy",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DECIM",
+   "country_label": "DECIM",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

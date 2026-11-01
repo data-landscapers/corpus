@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-24-nam-mtc-telecom-win-universal-service-fund-bid",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "CRAN launched the first phase of the USF tower at Epinga, Ohangwena, on 19 November 2025, and says phase one will give over 9,000 Namibians 4G access.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Universal Service Fund",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "CRAN awarded phase-two USF subsidies of N$42.1 million to MTC (eight sites) and Telecom Namibia (three sites) for rural and underserved regions.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Universal Service Fund",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

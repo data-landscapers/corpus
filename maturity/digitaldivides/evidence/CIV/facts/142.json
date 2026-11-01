@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-02-civ-mtnd-psndea-175-localites-rurales-connectees",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The digital transition minister officially commissioned connectivity for 175 rural localities on 2 August 2024 under the World Bank-financed PSNDEA, with 160 pylons erected; the programme targets 575 rural localities in all.",
+   "as_of": "2024-08-02",
+   "date_precision": "day",
+   "system": "PSNDEA",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PSNDEA (Projet de Solutions Numeriques et de Desenclavement des Zones Rurales et de l'E-Agriculture)",
+   "country_label": "Cote d'Ivoire",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": "World Bank financed, FCFA 38bn"
+  }
+ ],
+ "note": ""
+}

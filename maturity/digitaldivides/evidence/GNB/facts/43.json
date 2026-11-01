@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-02-gnb-relatorio-final-sobre-o-projeto-wardip-revisao-do-quadro-legal-para-o",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The WARDIP consultants' final report delivered a strategic plan for Guinea-Bissau's Universal Access and Service Fund (FAU), including fibre links extending the national backbone to less-served rural centres and a pilot to subsidise phones.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "Fundo de Acesso e Servico Universal (FAU)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fundo de Acesso e Servico Universal (FAU)",
+   "country_label": "Guinea-Bissau",
+   "class": "other",
+   "platform": "",
+   "owner": "ARN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

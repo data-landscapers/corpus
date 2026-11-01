@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-22-ago-fadcom-anuncia-lancamento-de-internet-no-ucua",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "FADCOM, Angola's communications development fund, announced in April 2024 its 'Cogumelo' project to bring internet within two months to the commune of Ucua in Bengo province, through a solar-powered community centre.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Cogumelo project (FADCOM)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FADCOM (Fundo de Apoio ao Desenvolvimento das Comunicacoes)",
+   "country_label": "Angola",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Telecommunications and Information Technologies",
+   "tiers": "funded by 1 per cent of operator revenues"
+  }
+ ],
+ "note": ""
+}

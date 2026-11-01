@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-23-dza-zerrouki-devoile-la-feuille-de-route-de-la-5g-et-les-avancees-du-servi",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Minister Zerrouki said a project of 1,400 new mobile sites was launched for low-profitability zones, with the state subsidising operators in areas under 2,000 inhabitants.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "Universal service programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal service programme",
+   "country_label": "Universal service programme",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Post and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

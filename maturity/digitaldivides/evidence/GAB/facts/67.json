@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-19-gab-l-arcep-relance-le-projet-de-developpement-du-service-universel-des-co",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ARCEP relaunched universal service phase two to cover 200 white-zone villages through Airtel Gabon and Moov Africa, on the head of state's instruction.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Service Universel des communications electroniques",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "ARCEP says phase one (2016-2018) installed 18 radio stations providing mobile and internet services in 33 villages.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Service Universel des communications electroniques",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Service Universel des communications electroniques",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "ARCEP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

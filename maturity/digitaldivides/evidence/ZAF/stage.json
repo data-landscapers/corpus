@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "2",
-      "programme": "underway",
+      "stage": "3",
+      "programme": "delivering",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-003",
-      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-      "note": "SA Connect expands broadband in underserved communities in 2026, so a programme is under way. No rural site is counted, so not 3.",
-      "as_at": "2026-10-30"
+      "stage_sources": "ZAF-005;ZAF-004",
+      "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
+      "note": "SA Connect had reached 361,000 rural and township households through 2,502 Wi-Fi hotspots by March 2024, and more than 11,500 hotspots were installed by June 2025, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }

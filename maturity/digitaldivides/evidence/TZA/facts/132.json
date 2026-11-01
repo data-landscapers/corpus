@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The report says the Universal Communications Service Access Fund (UCSAF, since 2006) has expanded ICT access to rural and underserved areas, with no sites counted.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "UCSAF",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UCSAF",
+   "country_label": "Tanzania",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

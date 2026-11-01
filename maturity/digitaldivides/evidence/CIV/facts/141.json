@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-civ-cote-d-ivoire-telecommunications-l-ansut-et-l-uat-s-unissent-pour-fair",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ANSUT's director-general said President Ouattara launched the 'nos villages connectes' programme to connect more than 500 rural localities, adding that many areas remain to be connected; no count of localities connected is given.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "Nos villages connectes",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSUT (Agence nationale du service universel des telecommunications et des TIC)",
+   "country_label": "Cote d'Ivoire",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

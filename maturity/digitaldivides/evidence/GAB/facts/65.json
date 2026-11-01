@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-14-gab-service-universel-l-arcep-remet-le-materiel-de-construction-a-moov-afr",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ARCEP handed Huawei equipment to Moov Africa Gabon Telecom for 10 universal-service sites in rural areas, with about 20 village clusters planned for coverage in 2025 and works due near Mouila.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Service Universel",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Moov Africa Gabon Telecom's director general says phase 1 of the universal service covered about thirty villages with 3G and 4G.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Service Universel",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Service Universel",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "ARCEP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

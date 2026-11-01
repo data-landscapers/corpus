@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "2",
-      "programme": "underway",
+      "stage": "3",
+      "programme": "delivering",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-003;DZA-002",
-      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-      "note": "A tender for 3,000 localities and an award of 201 4G sites followed in September 2026, so a programme is under way. No site is counted as in service, so not 3.",
-      "as_at": "2026-10-30"
+      "stage_sources": "DZA-007;DZA-008",
+      "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
+      "note": "Universal-service 4G was switched on in two Ain Defla localities in October 2024, under lots awarded in June 2024 for 1,400 low-density zones, so a programme has connected stated localities. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }

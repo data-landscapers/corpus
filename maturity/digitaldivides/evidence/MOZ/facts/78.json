@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-05-moz-mozambique-launches-rural-connectivity-pilot-under-internet-for-all-by",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The government, through regulator INCM, and operators launched a rural connectivity pilot under 'Internet for All by 2030' on 28 April 2025 in Xinavane; two satellite-backed antennas are installed, in Xinavane and Pessene, each able to reach around 15,000 people.",
+   "as_of": "2025-04-28",
+   "date_precision": "day",
+   "system": "Internet for All by 2030 rural pilot",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Internet for All by 2030",
+   "country_label": "Mozambique",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "INCM with BDQ Mobile, Movitel, VANU and Spacecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

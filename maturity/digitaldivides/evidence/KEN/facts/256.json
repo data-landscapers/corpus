@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-14-ken-ca-to-lay-2-500km-of-fibre-accross-19-counties",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The Communications Authority says its Sh5 billion programme to lay 2,500 km of fibre across 19 counties for rural internet access is 50 per cent complete with 1,300 km laid, and that over five years it deployed base stations across over 130 sub-locations covering over 750,000 people in 24 counties.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Communications Authority rural fibre and BTS programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Communications Authority rural fibre and BTS programme",
+   "country_label": "CA fibre and mobile connectivity programme",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-04-dza-jo-45-arretes-service-universel-localites-faible-densite",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Two ministerial arretes of 6 June 2024, published in JO no. 45, award the universal-service mobile coverage lots for low-density localities to Wataniya Telecom Algerie (83 lots) and Optimum Telecom Algerie (13 lots).",
+   "as_of": "2024-06-06",
+   "date_precision": "day",
+   "system": "Service universel des communications electroniques",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Service universel des communications electroniques",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Post and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

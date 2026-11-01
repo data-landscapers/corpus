@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-07-sen-engagement-precoce-de-marche-paens-pour-le-lancement-de-la-constructio",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "FDSUT says its Programme d'Acces Numerique Universel aims to cover 1,550 universal-service localities with mobile broadband by 2029, 492 new to 4G and 1,058 migrating from 2G.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Programme d'Acces Numerique Universel",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme d'Acces Numerique Universel",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "FDSUT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

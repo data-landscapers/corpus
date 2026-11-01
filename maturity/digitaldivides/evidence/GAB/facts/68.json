@@ -1,0 +1,27 @@
+{
+ "slug": "2024-08-14-gab-l-arcep-en-mission-d-inspection-dans-l-ogooue-ivindo-et-l-ogooue-lolo",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ARCEP missions identified uncovered villages for phase two of the universal service, with 204 villages identified nationally and Airtel Gabon to build 10 sites.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Service Universel des communications electroniques",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "ARCEP says phase one affected 27 villages and over 17,000 people in 2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Service Universel des communications electroniques",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-28-tza-tanzania-nears-universal-rural-connectivity-as-741-of-758-masts-go-liv",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The Universal Communications Service Access Fund programme had activated 741 of 758 planned masts by 23 October 2025, connecting about 1,300 of 1,407 target villages across 713 wards, with a Sh126 billion government subsidy to operators.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "UCSAF mast subsidy programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UCSAF rural mast programme",
+   "country_label": "UCSAF",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "UCSAF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

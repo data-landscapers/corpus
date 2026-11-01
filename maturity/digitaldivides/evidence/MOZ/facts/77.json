@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-21-moz-mozambique-expands-rural-telecom-network-to-bridge-digital-divide",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The regulator INCM said on 17 October 2025 it would deploy 60 new mobile base stations in nine provinces under the Universal Access Service Fund with Vodacom Mozambique, to bring mobile and internet service to communities without coverage; no site is yet reported connected.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "Rural Connectivity Project (FSAU, INCM with Vodacom Mozambique)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

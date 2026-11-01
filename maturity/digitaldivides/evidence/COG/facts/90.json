@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-20-cog-plus-d-un-milliard-de-fcfa-pour-ameliorer-les-services-numeriques-dans",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Tribune Eco reports 76 rural 2G sites were deployed under the Fasuce universal service project, and on 19 November 2024 MTN Congo and the World Bank-financed PATN signed a contract of over 1 billion FCFA to upgrade them to 3G.",
+   "as_of": "2024-11-19",
+   "date_precision": "day",
+   "system": "Fasuce",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

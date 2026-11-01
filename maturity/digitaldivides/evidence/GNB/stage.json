@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "no evidence",
-      "programme": "",
+      "stage": "2",
+      "programme": "underway",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether rural areas are being connected or how far rural internet use lags urban.",
-      "note": "No row is held on a rural connectivity programme or on the rural and urban gap.",
-      "as_at": "2026-10-30"
+      "stage_sources": "GNB-001",
+      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
+      "note": "A strategic plan for the Universal Access and Service Fund, with fibre links to less-served rural centres, was delivered in October 2025, so a programme is being prepared. Nothing is counted as connected, so not 3.",
+      "as_at": "2026-11-01"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-14-mwi-usf-tower-site-initiative-set-to-bridge-malawi-s-digital-divide",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The Public Private Partnership Commission's chief executive said the Universal Service Fund Tower Site Initiative, supported by the World Bank-funded Digital Malawi Acceleration Project, will build 98 towers in underserved communities nationwide.",
+   "as_of": "2026-01-14",
+   "date_precision": "day",
+   "system": "USF Tower Site Initiative",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "USF Tower Site Initiative",
+   "country_label": "USF Tower Site Initiative (98 towers)",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "PPPC with MACRA and MoICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

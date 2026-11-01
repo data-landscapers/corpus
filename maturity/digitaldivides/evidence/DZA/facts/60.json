@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-21-dza-ooredoo-etend-son-reseau-dans-le-cadre-du-service-universel",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The minister launched the universal-service project on 21 October 2024 with 4G networks lit in Djelida and El Amra (Ain Defla), part of 91 Ain Defla localities in Ooredoo's share of 1,400 zones, 760 new antennas.",
+   "as_of": "2024-10-21",
+   "date_precision": "day",
+   "system": "Service Universel des Communications Electroniques",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Service Universel des Communications Electroniques",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Post and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

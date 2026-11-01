@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-19-lso-undp-powers-lesotho-s-digital-leap",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Public Eye reports the Community Digital Inclusion Model was launched with UNDP and the Ministries of Education and Communications to turn school computer labs into centres giving underserved and remote communities digital access, skills training and e-government services.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Community Digital Inclusion Model",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Community Digital Inclusion Model",
+   "country_label": "Community Digital Learning Centres",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Communications and Ministry of Education with UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

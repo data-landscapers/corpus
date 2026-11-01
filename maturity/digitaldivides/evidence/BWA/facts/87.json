@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-08-bwa-botswana-launches-national-digital-skills-roadshow",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The article says the government has launched the SmartBots Village Connectivity Project, which is bringing internet access to over 500 communities across Botswana; no connected count is stated.",
+   "as_of": "2023-11-08",
+   "date_precision": "day",
+   "system": "SmartBots Village Connectivity Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SmartBots Village Connectivity Project",
+   "country_label": "Botswana",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

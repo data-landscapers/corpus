@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "2",
-      "programme": "underway",
+      "stage": "3",
+      "programme": "delivering",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-003;UGA-004",
-      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-      "note": "UCUSAF funds infrastructure in unserved and underserved areas in 2026, so a programme is under way. No site is counted, so not 3.",
-      "as_at": "2026-10-30"
+      "stage_sources": "UGA-006;UGA-007",
+      "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
+      "note": "UCUSAF had invested in more than 85 base stations in underserved areas by April 2026, and 4 of 63 subsidised sites were operational in February 2024, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-11-01"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-05-lbr-liberia-launches-national-effort-to-restore-mobile-service-in-remote-a",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The government, through the Universal Access Fund with the telecom ministry and the LTA, announced on 5 May 2025 a project to restore rural mobile sites, after an assessment found nine of twelve UAF-funded towers inactive for almost two years; restoration starts in Bomi, Gbarpolu and Grand Cape Mount.",
+   "as_of": "2025-05-05",
+   "date_precision": "day",
+   "system": "UAF rural tower restoration project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-16-sen-senegal-expands-network-with-774-towers-to-reach-436-000-people",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Ecofin Agency, citing a 12 September 2025 statement of the Universal Telecommunications Service Development Fund (FDSUT), reports Senegal plans to deploy 774 sites under its Universal Access Program (PAU) in four zones to benefit about 436,000 residents, after a study of 250 uncovered localities.",
+   "as_of": "2025-09-12",
+   "date_precision": "day",
+   "system": "Universal Access Program (PAU)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Access Program (PAU)",
+   "country_label": "Senegal",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "FDSUT",
+   "tiers": ""
+  },
+  {
+   "system": "Universal Digital Access Program (PANU)",
+   "country_label": "Senegal",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "FDSUT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
