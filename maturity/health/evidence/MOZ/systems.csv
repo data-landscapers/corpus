@@ -32,3 +32,5 @@ MOZ,routine health information system (district management information system),,
 MOZ,DHIS,,hmis,DHIS / DHIS2,,"aggregated data recorded at facility, district and regional levels",2021-08-04 Health information systems in developing countries case of African countries
 MOZ,SISMA,SISMA,hmis,DHIS2,Ministry of Health,"scaled up nationwide in 2016; data entered at the district health office (SDSMAS) from health facilities' monthly paper forms; used at district, provincial and central levels",2021-01-01-moz-reflections-learnings-and-proposed-interventions-on-data-validation-an
 MOZ,SISMA (DHIS2),Mozambique,hmis,DHIS2,Ministry of Health,,2026-08-03-moz-mocambique-dhis2-clima-e-saude
+MOZ,Donor-funded HIV electronic medical record,Mozambique,tracker,,partner,,2026-10-30-xss-path-digital-records-intelligent-primary-health-care
+MOZ,Government-designed national platform (in transition),Mozambique,emr,,ministry,,2026-10-30-xss-path-digital-records-intelligent-primary-health-care
