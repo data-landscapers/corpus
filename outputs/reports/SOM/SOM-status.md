@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-10-23
+compiled: 2026-11-01
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 196
+sources_cited: 197
 sections_written: 39
 not_established: 3
 acquire_lines: 38
@@ -38,7 +38,7 @@ Personal data is the one field with a settled regime, a [cross-sector Data Prote
 
 [In June 2026 Somalia's Data Protection Authority issued a notice under Article 32 of the Data Protection Act requiring all data controllers and processors to complete mandatory registration, and began accepting applications and issuing compliance certificates](https://techafricanews.com/2026/06/02/somalia-data-protection-authority-enforces-nationwide-data-compliance-rules/) — the regulator's first nationwide compliance step.
 
-The statute behind it, [Law No. 005 of 2023, has been in force since 23 March 2023 and is grounded in Article 19 of the 2012 Provisional Constitution](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations). It is a general cross-sector instrument, setting out [lawful bases for processing, data-subject rights, data-protection impact assessment and data-protection-officer duties, and a registration requirement for "controllers of major importance"](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations), alongside [cross-border transfer restrictions and breach notification duties](https://dpa.gov.so/assets/legal/act/Somalia%20Data%20Protection%20Act-2.pdf). [Article 25 gives controllers 72 hours from becoming aware of a breach likely to risk rights and freedoms to notify the Authority, and requires notice to affected individuals where the risk is high](https://www.dataguidance.com/sites/default/files/somalia_data_protection_act-2.pdf), and breaches carry [fines of 2 to 4 per cent of worldwide annual turnover](https://blog.africadataprotection.org/en/2024/02/26/somalia-inauguration-of-the-data-protection-authority/).
+The statute behind it, [Law No. 005 of 2023, has been in force since 23 March 2023 and is grounded in Article 19 of the 2012 Provisional Constitution](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations). It is a general cross-sector instrument, setting out [lawful bases for processing, data-subject rights, data-protection impact assessment and data-protection-officer duties, and a registration requirement for "controllers of major importance"](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations), alongside [cross-border transfer restrictions and breach notification duties](https://dpa.gov.so/assets/legal/act/Somalia%20Data%20Protection%20Act-2.pdf). [Article 25 gives controllers 72 hours from becoming aware of a breach likely to risk rights and freedoms to notify the Authority, and requires notice to affected individuals where the risk is high](https://www.dataguidance.com/sites/default/files/somalia_data_protection_act-2.pdf), and breaches carry [fines of 2 to 4 per cent of worldwide annual turnover](https://blog.africadataprotection.org/en/2024/02/26/somalia-inauguration-of-the-data-protection-authority/). The Authority [opened an online channel for reporting breaches in June 2026](https://dpa.gov.so/services/data-breach-notification/).
 
 The Authority was [inaugurated on 24 February 2024](https://blog.africadataprotection.org/en/2024/02/26/somalia-inauguration-of-the-data-protection-authority/) with [power to issue regulations, investigate, impose fines and register controllers and processors of major importance, and has since issued implementation guidance and an alternative dispute resolution procedure](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations). Its leadership is [appointed by the executive](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations). The [Council of Ministers approved the regulatory framework operationalising the Act on 8 January 2026](https://techafricanews.com/2026/01/08/somalia-advances-digital-governance-with-approval-of-public-data-protection-regulation/).
 
