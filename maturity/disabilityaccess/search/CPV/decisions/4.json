@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "accessibility",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: an aggregator indicator with no date or stated fact"
+}

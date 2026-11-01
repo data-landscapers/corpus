@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.gov.sz/images/FinanceDocuments/2026BudgetSpeech.pdf",
+  "title": "Budget Speech 2026",
+  "publisher": "Ministry of Finance, Eswatini",
+  "published": "2026",
+  "sub_indicator": "financing",
+  "why": "E413.9m to MICT"
+ },
+ {
+  "url": "https://www.gov.sz/images/FinanceDocuments/Budget%20Speech%202025%20final%20Draft_14%20feb%2025%20final%20_PRINT.pdf",
+  "title": "Budget Speech 2025",
+  "publisher": "Ministry of Finance, Eswatini",
+  "published": "2025-02-14",
+  "sub_indicator": "financing",
+  "why": "E354.53m to MICT"
+ },
+ {
+  "url": "https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20ICT%202025.pdf",
+  "title": "Annual Performance Report of the Ministry of ICT 2025",
+  "publisher": "Parliament of Eswatini",
+  "published": "2025",
+  "sub_indicator": "financing",
+  "why": "expenditure E246m, request E354m"
+ },
+ {
+  "url": "https://www.gov.sz/images/FinanceDocuments/BUDGET_ESTIMATES_BOOK_202526_V1%20Final%20Print-compressed.pdf",
+  "title": "Estimates for the years 2025/26-2027/28",
+  "publisher": "Ministry of Finance, Eswatini",
+  "published": "2025",
+  "sub_indicator": "financing",
+  "why": "ICT head 43 allocation"
+ },
+ {
+  "url": "https://www.esccom.org.sz/publications/reports/docs/ANNUAL%20REPORT%202025.pdf",
+  "title": "ESCCOM Annual Report 2025",
+  "publisher": "ESCCOM",
+  "published": "2025",
+  "sub_indicator": "financing",
+  "why": "universal access programme"
+ },
+ {
+  "url": "https://uasf.esccom.org.sz/wp-content/uploads/2023/10/2022.23-Universal-Access-Service-Fund-Annual-Report-_.pdf",
+  "title": "Universal Access and Service Fund Annual Report 2022/23",
+  "publisher": "UASF, ESCCOM",
+  "published": "2023",
+  "sub_indicator": "financing",
+  "why": "fund account of activity"
+ },
+ {
+  "url": "https://uasf.esccom.org.sz/wp-content/uploads/2023/10/Universal_Service_Operational_Manual.pdf",
+  "title": "Universal Service Obligation Fund Operational Manual",
+  "publisher": "ESCCOM",
+  "published": "",
+  "sub_indicator": "financing",
+  "why": "levy 0.5% of net income"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.sendemarches.com/accessibilite",
+  "title": "Accessibilité — senDemarches",
+  "publisher": "Ministère de la Fonction publique et de la Transformation du Secteur public",
+  "published": "2026-02",
+  "sub_indicator": "accessibility",
+  "why": "audit of platform accessibility (Q4)"
+ },
+ {
+  "url": "https://pins.sn/accessibilite",
+  "title": "Accessibilité | PINS (Jokkoo)",
+  "publisher": "MCTN",
+  "published": "2024",
+  "sub_indicator": "accessibility",
+  "why": "commitment to WCAG, law 2010-15 (Q1/Q2)"
+ },
+ {
+  "url": "https://cipesa.org/wp-content/files/Legal_Analysis_of_Technology_and_DisabilityinAfrica.pdf",
+  "title": "TRF Disability Legal Analysis Africa Report",
+  "publisher": "CIPESA",
+  "published": "2024",
+  "sub_indicator": "accessibility",
+  "why": "legal framework for ICT access (Q2)"
+ },
+ {
+  "url": "https://www.opengovpartnership.org/members/senegal/commitments/SN0018/",
+  "title": "Access to Services for People with Disabilities (SN0018)",
+  "publisher": "Open Government Partnership",
+  "published": "2024",
+  "sub_indicator": "accessibility",
+  "why": "government commitment under way (Q1)"
+ },
+ {
+  "url": "https://www.intracen.org/fr/nouvelles-et-evenements/nouvelles/les-entreprises-senegalaises-voient-dans-le-besoin-daccessibilite",
+  "title": "Les entreprises sénégalaises voient dans le besoin d'accessibilité une opportunité",
+  "publisher": "ITC",
+  "published": "2025-04-09",
+  "sub_indicator": "accessibility",
+  "why": "state of accessibility policy (Q1)"
+ },
+ {
+  "url": "https://upr-info.org/sites/default/files/country-document/2024-06/A_HRC_WG.6_45_SEN_3_e.pdf",
+  "title": "UPR stakeholder submission, Senegal",
+  "publisher": "United Nations",
+  "published": "2024-06",
+  "sub_indicator": "accessibility",
+  "why": "implementing decrees missing (Q2)"
+ },
+ {
+  "url": "https://www.dgid.sn/accessibilite",
+  "title": "Déclaration d'accessibilité | DGID Sénégal",
+  "publisher": "DGID",
+  "published": "2025",
+  "sub_indicator": "accessibility",
+  "why": "declaration of RGAA conformity (Q3/Q4)"
+ },
+ {
+  "url": "https://fdsut.sn/",
+  "title": "FDSUT | Service Universel",
+  "publisher": "FDSUT",
+  "published": "2024-08-22",
+  "sub_indicator": "accessibility",
+  "why": "universal service fund mission for disabled users (Q3)"
+ }
+]

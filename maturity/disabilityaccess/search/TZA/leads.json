@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.kazi.go.tz/uploads/documents/en-1734703693-NATIONAL%20ASSISTIVE%20TECHNOLOGY%20STRATEGY-2024-2027%20SIGNED%2021-11-2024.pdf",
+  "title": "National Assistive Technology Strategy 2024-2027",
+  "publisher": "Prime Minister's Office (Disability)",
+  "published": "2024-11",
+  "sub_indicator": "accessibility",
+  "why": "Programme; TZS 8.7bn allocated 2023"
+ },
+ {
+  "url": "https://doi.org/10.61538/huria.v32i1.1737",
+  "title": "Accessibility Analysis of e-Government Websites in Tanzania using WCAG 2.2",
+  "publisher": "Huria Journal of the Open University of Tanzania",
+  "published": "2025-08-27",
+  "sub_indicator": "accessibility",
+  "why": "Audit of 42 government websites"
+ },
+ {
+  "url": "https://www.ega.go.tz/uploads/standarddocuments/en-1666862599-Final%20Reviewed_Technical%20Standards%20and%20Guidelines%20for%20Public%20Institutions%20Website.pdf",
+  "title": "Technical Standards and Guidelines for Public Institutions' Website v2.0",
+  "publisher": "e-Government Authority",
+  "published": "2022-07",
+  "sub_indicator": "accessibility",
+  "why": "Standard requiring WCAG 2.1"
+ },
+ {
+  "url": "https://www.ega.go.tz/uploads/publications/sw-1581504659-THE%20e-GOVERNMENT%20GENERAL%20REGULATIONS,%202020.pdf",
+  "title": "The e-Government General Regulations, 2020",
+  "publisher": "e-Government Authority",
+  "published": "2020",
+  "sub_indicator": "accessibility",
+  "why": "Regulation 41 on persons with disabilities"
+ },
+ {
+  "url": "https://dailynews.co.tz/remarkable-strides-in-communication-towers-project/",
+  "title": "Remarkable strides in communication towers project",
+  "publisher": "Daily News",
+  "published": "2025-03-28",
+  "sub_indicator": "accessibility",
+  "why": "UCSAF TZS 1.8bn ICT equipment to 22 special-needs schools"
+ },
+ {
+  "url": "https://thebizlens.co.tz/2025/05/26/tanzania-invests-over-sh140-billion-to-bridge-communication-divide/",
+  "title": "Tanzania invests over Sh140 billion to bridge communication divide",
+  "publisher": "The BizLens",
+  "published": "2025-05-26",
+  "sub_indicator": "accessibility",
+  "why": "UCSAF special-needs ICT support"
+ },
+ {
+  "url": "https://www.who.int/publications/i/item/B09462",
+  "title": "Improving access to assistive technology in United Republic of Tanzania (2022-2023): project report",
+  "publisher": "WHO",
+  "published": "2025-10-06",
+  "sub_indicator": "accessibility",
+  "why": "14,700 assistive products distributed by Ministry of Health"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "audit",
+ "fact": "A cross-sectional survey of 482 persons with disabilities in Nairobi's 11 sub-counties (published 2026) found 23.4% had ever used digital government services despite 99.6% ICT and internet access.",
+ "title": "Baseline Survey on Digital Accessibility of Government Services for Persons with Disabilities in Nairobi County, Kenya, 2021",
+ "publisher": "East African Journal of Arts and Social Sciences",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

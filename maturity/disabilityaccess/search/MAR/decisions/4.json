@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "rule",
+ "fact": "A 2024 study of Moroccan public-sector web teams found no legal framework or national web accessibility guideline, and one ministry intends to draft a national guideline.",
+ "title": "Factors influencing the integration of web accessibility in Moroccan public e-services",
+ "publisher": "Indonesian Journal of Electrical Engineering and Computer Science / IJICT",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

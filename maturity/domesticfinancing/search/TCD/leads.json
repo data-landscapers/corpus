@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.cabri-sbo.org/uploads/bia/Chad_2025_Approval_External_EnactedBudget_Institution_ECCASCEN-SAD_French_8c0b93.pdf",
+  "title": "Budget général de l'Etat, gestion 2025",
+  "publisher": "Ministère des Finances, du Budget, de l'Economie, du Plan",
+  "published": "2025",
+  "sub_indicator": "budget",
+  "why": "Digital ministry LFI 2025 26.28bn FCFA, with 2024 comparison"
+ },
+ {
+  "url": "https://ecomatin.net/tchad-les-grandes-lignes-du-budget-de-letat-pour-2025",
+  "title": "Tchad : les grandes lignes du budget de l'État pour 2025",
+  "publisher": "EcoMatin",
+  "published": "2025-01-15",
+  "sub_indicator": "budget",
+  "why": "2025 budget overview"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099090624105035738/txt/BOSIB11f328ad50eb187841edfbfe2299dc.txt",
+  "title": "Project Appraisal Document, Chad Digital Transformation Project",
+  "publisher": "World Bank",
+  "published": "2024-06",
+  "sub_indicator": "budget",
+  "why": "Financing, USF governance, government counterpart"
+ },
+ {
+  "url": "https://www.reuters.com/world/africa/chads-development-plan-targets-30-billion-over-6-years-finance-minister-says-2025-06-03/",
+  "title": "Chad seeks $30 billion investment for development plan",
+  "publisher": "Reuters",
+  "published": "2025-06-03",
+  "sub_indicator": "commitment",
+  "why": "Minister on plan incl. digitalisation"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/chads-arcep-in-talks-with-itu-to-advance-digital-transformation--1547447",
+  "title": "Chad's Arcep in talks with ITU",
+  "publisher": "Telecompaper",
+  "published": "2025-09-09",
+  "sub_indicator": "budget",
+  "why": "Plans USD 1.5bn through 2030"
+ },
+ {
+  "url": "https://www.atpe.td/souverainete-numerique-ladetic-au-coeur-dun-dispositif-strategique/",
+  "title": "Souveraineté numérique : l'ADETIC",
+  "publisher": "ATPE",
+  "published": "2026-08-12",
+  "sub_indicator": "commitment",
+  "why": "ADETIC runs universal service"
+ }
+]

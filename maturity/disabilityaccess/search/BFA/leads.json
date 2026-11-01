@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.femininactu.com/actualite/accessibilite-et-inclusion-numerique-amm-plaide-pour-les-personnes-handicapees-du-burkina-faso-bf/",
+  "title": "Accessibilité et inclusion numérique : AMM plaide pour les personnes handicapées",
+  "publisher": "Feminin Actu",
+  "published": "2026-03-08",
+  "sub_indicator": "accessibility",
+  "why": "advocacy to digital minister; asks WCAG adoption (no rule yet)"
+ },
+ {
+  "url": "https://www.sidwaya.info/2025/08/10/promotion-de-leducation-inclusive-un-projet-lance-pour-optimiser-lapprentissage-des-eleves-handicapes-visuels-par-le-numerique/",
+  "title": "Promotion de l'éducation inclusive : un projet lancé",
+  "publisher": "Sidwaya",
+  "published": "2025-08-10",
+  "sub_indicator": "accessibility",
+  "why": "Q3 delivery of accessible digital content with ministry"
+ },
+ {
+  "url": "https://www.unesco.org/en/articles/empowering-teachers-technology-inclusive-learning-pilot-initiative-burkina-faso",
+  "title": "Empowering Teachers with Technology for Inclusive Learning: A Pilot",
+  "publisher": "UNESCO",
+  "published": "2024-04-24",
+  "sub_indicator": "accessibility",
+  "why": "Q3 pilot with Ministry of Education"
+ },
+ {
+  "url": "https://burkina-faso.news-pravda.com/burkina-faso/2024/05/02/2939.html",
+  "title": "Un atelier pour l'accessibilité des ressources pédagogiques numériques adaptées",
+  "publisher": "Pravda Burkina Faso",
+  "published": "2024-05-02",
+  "sub_indicator": "accessibility",
+  "why": "Q3 adapted digital resources, devices"
+ },
+ {
+  "url": "https://service-public.gov.bf/accessibilite",
+  "title": "Accessibilité",
+  "publisher": "Gouvernement du Burkina Faso",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q2 government portal accessibility commitment WCAG 2.1 AA"
+ },
+ {
+  "url": "https://g3ict.org/country-profile/burkina-faso",
+  "title": "Burkina Faso - G3ict country profile",
+  "publisher": "G3ict",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q1/Q2 ICT accessibility policy scores"
+ },
+ {
+  "url": "https://fr.wikipedia.org/wiki/Accessibilit%C3%A9_num%C3%A9rique_pour_les_personnes_handicap%C3%A9es_visuelles_au_Burkina_Faso",
+  "title": "Accessibilité numérique pour les personnes handicapées visuelles au Burkina Faso",
+  "publisher": "Wikipédia",
+  "published": "2026-09-07",
+  "sub_indicator": "accessibility",
+  "why": "Q2 law 012-2010 overview (secondary)"
+ },
+ {
+  "url": "https://www.presidencedufaso.bf/wp-content/uploads/2024/04/CONSEIL-DES-MINISTRES-N%C2%B0013-DU-11-AVRIL-2024.pdf",
+  "title": "Conseil des ministres n°013 du 11 avril 2024",
+  "publisher": "Présidence du Faso",
+  "published": "2024-04",
+  "sub_indicator": "accessibility",
+  "why": "PACTDIGITAL beneficiaries include persons with disabilities"
+ }
+]

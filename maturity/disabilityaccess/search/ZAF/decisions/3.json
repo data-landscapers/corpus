@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "rule",
+ "fact": "GCIS's government website guidelines recommend that departments conform to at least WCAG 2.2 Level A and cite the WCAG 2.1 updates of 6 May 2025, so the page post-dates May 2025.",
+ "title": "Website accessibility",
+ "publisher": "Government Communication and Information System (GCIS)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

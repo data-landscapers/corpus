@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "accessibility",
+ "aspect": "",
+ "fact": "",
+ "title": "Accessibility - National Assembly of The Gambia",
+ "publisher": "National Assembly of The Gambia",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: undated site statement of aim to conform to WCAG 2.1 AA; its \"last updated\" stamp is the fetch date"
+}

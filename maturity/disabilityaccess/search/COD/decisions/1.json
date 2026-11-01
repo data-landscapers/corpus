@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "rule;audit",
+ "fact": "On 19 October 2026 the CNDH launched a nationwide mission to check public services' accessibility for persons with disabilities under the disability protection law and a decree on access to infrastructure and technical aids; a report is to follow.",
+ "title": "La CNDH lance une mission de contrôle de l'accessibilité des services publics aux personnes vivant avec handicap",
+ "publisher": "Radio Okapi",
+ "published": "2026-10-20",
+ "date_source": "source",
+ "why_not": ""
+}

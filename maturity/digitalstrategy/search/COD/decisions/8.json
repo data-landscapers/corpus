@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "standing;text;period;plan",
+ "fact": "The Plan National du Numérique « Horizon 2025 », validated by stakeholders on 5 September 2019, has a public text with four pillars and 60 priority actions and a 2025 horizon.",
+ "title": "Plan National du Numérique - Horizon 2025",
+ "publisher": "Cabinet du Chef de l'État, République démocratique du Congo",
+ "published": "2019-09",
+ "date_source": "source",
+ "why_not": ""
+}

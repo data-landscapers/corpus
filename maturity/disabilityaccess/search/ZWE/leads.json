@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.heraldonline.co.zw/digital-inclusion-the-next-frontier-for-disability-rights-in-zimbabwe/",
+  "title": "Digital inclusion: The next frontier for disability rights in Zimbabwe",
+  "publisher": "The Herald",
+  "published": "2026-07-13",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Q2: rules in force; 2027 accessibility target"
+ },
+ {
+  "url": "https://zimlii.org/akn/zw/act/2025/3/eng@2026-02-06/source.pdf",
+  "title": "Persons with Disabilities Act",
+  "publisher": "Parliament of Zimbabwe",
+  "published": "2025",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Q2: Act s17 and s30 accessibility and accessible information"
+ },
+ {
+  "url": "https://technomag.co.zw/government-urges-telecom-operators-to-prioritise-accessibility-standards/",
+  "title": "Government Urges Telecom Operators to Prioritise Accessibility Standards",
+  "publisher": "TechnoMag",
+  "published": "2025-05-19",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Q1: policy review for WCAG; braille at digital centres"
+ },
+ {
+  "url": "https://www.masvingomirror.com/potraz-trains-visually-impaired-professionals-in-masvingo/",
+  "title": "Potraz trains visually impaired professionals in Masvingo",
+  "publisher": "Masvingo Mirror",
+  "published": "2025-07-08",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Q3: 549 trained, 567 computers donated"
+ },
+ {
+  "url": "http://www.businessdaily.co.zw/index-id-home-zk-51057.html",
+  "title": "Potraz rolls out digital inclusion programme",
+  "publisher": "Business Daily",
+  "published": "2025-08-09",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Q3: programme for PWD after nationwide ICT survey"
+ },
+ {
+  "url": "https://www.heraldonline.co.zw/digital-inclusivity-leaving-no-place-no-person-behind/",
+  "title": "Digital inclusivity: leaving no place, no person behind",
+  "publisher": "The Herald",
+  "published": "2025-05-22",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Q3: 35 PWD trained by POTRAZ"
+ },
+ {
+  "url": "https://vaz.org.zw/government-launches-national-assistive-technology-strategy-and-assistive-products-priority-list-for-people-with-disabilities/",
+  "title": "Government Launches National Assistive Technology Strategy",
+  "publisher": "Vision Ability Zimbabwe",
+  "published": "2024-05-28",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Q1: AT strategy launched 24 May 2024"
+ },
+ {
+  "url": "https://www.mines.gov.zw/wp-content/uploads/2025/05/National-Disability-Policy.pdf",
+  "title": "National Disability Policy",
+  "publisher": "Government of Zimbabwe",
+  "published": "2021",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Q1/Q2: policy 3.14 accessible ICT"
+ }
+]

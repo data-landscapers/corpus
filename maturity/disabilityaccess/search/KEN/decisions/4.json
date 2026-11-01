@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "audit",
+ "fact": "KICTANet's June 2023 scorecard scanned 46 public websites for accessibility to persons with disabilities: 71.1% scored 50-59 out of 100, about 20% scored 70-100 and 8.9% scored below average; the NCPWD site scored highest at 80.",
+ "title": "Scorecard: Accessibility of Government Websites to Persons with Disabilities",
+ "publisher": "Kenya ICT Action Network (KICTANet)",
+ "published": "2023-06",
+ "date_source": "source",
+ "why_not": ""
+}

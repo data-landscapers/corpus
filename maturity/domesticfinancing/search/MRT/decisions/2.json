@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "financing",
+ "aspect": "budget",
+ "fact": "The 2025 Finance Law, dated January 2025, carries a special-account line of MRU 233,805,000 for the Universal Access Fund to services and a budget title for the digital transformation ministry.",
+ "title": "Loi de finances pour l'année 2025",
+ "publisher": "Ministère de l'Economie et des Finances",
+ "published": "2025-01",
+ "date_source": "source",
+ "why_not": ""
+}

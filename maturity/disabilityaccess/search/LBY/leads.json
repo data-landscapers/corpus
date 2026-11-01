@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.gia.gov.ly/en/2026/02/04/the-general-authority-for-information-launches-the-actual-implementation-path-of-the-national-digital-accessibility-policy-in-collaboration-with-escwa/",
+  "title": "The General Authority for Information launches the actual implementation path of the national digital accessibility policy",
+  "publisher": "General Information Authority (GIA)",
+  "published": "2026-02-04",
+  "sub_indicator": "accessibility",
+  "why": "Policy adopted April 2025; implementation workshop Jan 2026"
+ },
+ {
+  "url": "https://ajost.journals.ly/ojs/index.php/1/article/view/69",
+  "title": "Compliance of Libyan Government Websites with WCAG Standards",
+  "publisher": "Academic Journal of Science and Technology",
+  "published": "2024-10-23",
+  "sub_indicator": "accessibility",
+  "why": "Audit of government websites"
+ },
+ {
+  "url": "https://doi.org/10.21608/qarts.2026.506234.2485",
+  "title": "قابلية الاستخدام وإمكانية الوصول الرقمي لمواقع الإنترنت للمستفيدين ذوي الإعاقة: البوابة الإلكترونية لصندوق التضامن الاجتماعي",
+  "publisher": "Journal article",
+  "published": "2026",
+  "sub_indicator": "accessibility",
+  "why": "WCAG audit of a government portal"
+ },
+ {
+  "url": "https://journal.utripoli.edu.ly/index.php/Alqalam/article/download/1972/1479/4024",
+  "title": "Lack of Digital Accessibility and its Impact on Persons with Disabilities in Libya",
+  "publisher": "University of Tripoli journal",
+  "published": "2026",
+  "sub_indicator": "accessibility",
+  "why": "Survey of 20+ platforms; policy dates"
+ },
+ {
+  "url": "https://www.gia.gov.ly/en/2024/06/26/the-public-information-authority-organizes-a-national-consultative-workshop-on-the-preparation-of-the-national-policy-for-digital-accessibility-for-persons-with-disabilities/",
+  "title": "Public Information Authority organizes national consultative workshop on national policy for digital accessibility",
+  "publisher": "General Information Authority (GIA)",
+  "published": "2024-06-26",
+  "sub_indicator": "accessibility",
+  "why": "Draft policy consultation"
+ },
+ {
+  "url": "https://www.gia.gov.ly/wp-content/uploads/2024/06/Digital-Cash-2024-First-Edition.pdf",
+  "title": "مقترح المسودة الأولى للسياسة الوطنية للنفاذية الرقمية في دولة ليبيا",
+  "publisher": "General Information Authority (GIA)",
+  "published": "2024-06",
+  "sub_indicator": "accessibility",
+  "why": "Draft policy text: WCAG 2.1 AA"
+ },
+ {
+  "url": "https://www.gia.gov.ly/en/2024/03/12/a-workshop-at-the-general-information-authority-on-preparing-and-implementing-the-national-policy-for-digital-accessibility-in-the-state-of-libya/",
+  "title": "A workshop at the GIA on preparing the national policy for digital accessibility",
+  "publisher": "General Information Authority (GIA)",
+  "published": "2024-03-06",
+  "sub_indicator": "accessibility",
+  "why": "Policy under preparation"
+ },
+ {
+  "url": "https://g3ict.org/country-profile/libya",
+  "title": "Libya - G3ict",
+  "publisher": "G3ict",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Country ICT accessibility audit scores"
+ }
+]

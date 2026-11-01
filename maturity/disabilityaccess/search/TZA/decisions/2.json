@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "audit",
+ "fact": "A 2025 Huria journal study evaluated the WCAG 2.2 accessibility of 42 Tanzanian e-government websites, finding an average of 3.64 of the first ten pages per site with errors, mostly Level A.",
+ "title": "Accessibility Analysis of e-Government Websites in Tanzania using Web Content Accessibility Guidelines 2.2",
+ "publisher": "Huria: Journal of the Open University of Tanzania",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

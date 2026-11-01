@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "standing;period",
+ "fact": "The September 2024 appraisal report says the national digital strategy (Stratégie Nationale du Numérique 2028, elaborated in 2018) is the framework for the AfDB-supported PADEC project executed by ANADEN.",
+ "title": "Rapport d'évaluation de projet: Projet d'appui à la digitalisation de l'économie comorienne (PADEC)",
+ "publisher": "Groupe de la Banque africaine de développement",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

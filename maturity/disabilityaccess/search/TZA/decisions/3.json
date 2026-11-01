@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "rule",
+ "fact": "The e-Government Authority's Technical Standards and Guidelines for Public Institutions' Website, version 2.0 of July 2022, requires public institution websites to adopt WCAG 2.1 so content is accessible to people with disabilities.",
+ "title": "Technical Standards and Guidelines for Public Institutions' Website, Version 2.0",
+ "publisher": "e-Government Authority, President's Office - Public Service Management and Good Governance",
+ "published": "2022-07",
+ "date_source": "source",
+ "why_not": ""
+}

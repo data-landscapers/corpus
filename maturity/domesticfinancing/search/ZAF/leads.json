@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.treasury.gov.za/documents/National%20Budget/2026/ene/Vote%2030%20Communications%20and%20Digital%20Technologies.pdf",
+  "title": "Estimates of National Expenditure 2026 Vote 30 Communications and Digital Technologies",
+  "publisher": "National Treasury",
+  "published": "2026",
+  "sub_indicator": "finance.budget--sustainable-domestic-financing-of-digital-transformation",
+  "why": "Q1/Q2 budget amounts"
+ },
+ {
+  "url": "https://www.gov.za/news/speeches/minister-solly-malatsi-communications-and-digital-technologies-dept-budget-vote",
+  "title": "Communications and Digital Technologies Dept Budget Vote 2025/26",
+  "publisher": "South African Government",
+  "published": "2025-07-11",
+  "sub_indicator": "finance.budget--sustainable-domestic-financing-of-digital-transformation",
+  "why": "Q1 allocation, USAF"
+ },
+ {
+  "url": "https://nationalgovernment.co.za/department_annual/564/2025-department-of-communications-and-digital-technologies-(dcdt)-annual-report.pdf",
+  "title": "DCDT Annual Report 2024/25",
+  "publisher": "DCDT",
+  "published": "2025-09-30",
+  "sub_indicator": "finance.budget--sustainable-domestic-financing-of-digital-transformation",
+  "why": "Q4 spending, Q2 comparison"
+ },
+ {
+  "url": "https://www.treasury.gov.za/documents/mtbps/2025/aene/FullAENE.pdf",
+  "title": "Adjusted Estimates of National Expenditure 2025",
+  "publisher": "National Treasury",
+  "published": "2025",
+  "sub_indicator": "finance.budget--sustainable-domestic-financing-of-digital-transformation",
+  "why": "Q1/Q2 adjusted appropriation"
+ },
+ {
+  "url": "https://www.parliament.gov.za/storage/app/media/Docs/ann_pln/01dx3n75dw4ozo2cc4lfhyzwx2gppnz6mf.pdf",
+  "title": "Universal Service and Access Fund Annual Performance Plan",
+  "publisher": "USAASA",
+  "published": "2026",
+  "sub_indicator": "finance.budget--sustainable-domestic-financing-of-digital-transformation",
+  "why": "Q3 fund collecting, Q1"
+ },
+ {
+  "url": "https://www.parliament.gov.za/storage/app/media/Docs/ann_rep/01dx3n75fzghdlhysukjel7gyrptqtcdbk.pdf",
+  "title": "USAASA Annual Report 2024/25",
+  "publisher": "USAASA",
+  "published": "2025",
+  "sub_indicator": "finance.budget--sustainable-domestic-financing-of-digital-transformation",
+  "why": "Q4 fund account"
+ }
+]

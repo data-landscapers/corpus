@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://doi.org/10.5281/zenodo.8092032",
+  "title": "Accesibilidad web en Guinea Ecuatorial: Evaluación de la accesibilidad de los sitios webs del gobierno y los actores sociales",
+  "publisher": "Nso-Mangue and Luján-Mora (Zenodo)",
+  "published": "2023-06-28",
+  "sub_indicator": "accessibility",
+  "why": "Audit of web accessibility of 63 sites"
+ },
+ {
+  "url": "https://upr-info.org/sites/default/files/country-document/2025-04/A_HRC_WG.6_47_GNQ_1_1.pdf",
+  "title": "Informe nacional A/HRC/WG.6/47/GNQ/1",
+  "publisher": "Gobierno de Guinea Ecuatorial (UPR)",
+  "published": "2025",
+  "sub_indicator": "accessibility",
+  "why": "Agenda Nacional para las discapacidades validated 2022"
+ },
+ {
+  "url": "https://www.unicef.org/equatorialguinea/comunicados-prensa/presentaci%C3%B3n-del-pasaporte-de-aprendizaje-y-los-libros-de-textos-digitales",
+  "title": "Presentación del pasaporte de aprendizaje y los libros de textos digitales accesibles",
+  "publisher": "UNICEF Guinea Ecuatorial",
+  "published": "2023-01-17",
+  "sub_indicator": "accessibility",
+  "why": "Delivered accessible digital textbooks"
+ },
+ {
+  "url": "https://www.undp.org/es/equatorial-guinea/noticias/las-personas-con-discapacidad-de-malabo-alzan-sus-voces-por-sus-derechos",
+  "title": "Las personas con discapacidad de Malabo alzan sus voces por sus derechos",
+  "publisher": "PNUD",
+  "published": "2022-12-03",
+  "sub_indicator": "accessibility",
+  "why": "Access to new technologies as challenge"
+ },
+ {
+  "url": "https://www.adry.up.ac.za/images/adry/volume12_2024/Equatorial%20Guinea%20Country%20Report%202024.pdf",
+  "title": "Equatorial Guinea Country Report 2024",
+  "publisher": "African Disability Rights Yearbook",
+  "published": "2024",
+  "sub_indicator": "accessibility",
+  "why": "Legal framework: no rule on ICT accessibility"
+ },
+ {
+  "url": "https://www.ohchr.org/sites/default/files/2022-05/Equatorial-Guinea-3rd-cycle-mid-term-report.pdf",
+  "title": "Informe intermedio de Guinea Ecuatorial para el 3º Ciclo del EPU",
+  "publisher": "Gobierno de Guinea Ecuatorial (OHCHR)",
+  "published": "2022",
+  "sub_indicator": "accessibility",
+  "why": "National disability agenda in preparation"
+ }
+]

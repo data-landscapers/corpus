@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "financing",
+ "aspect": "budget",
+ "fact": "Table 12 of the 2026 Finance Law summary gives the Ministry of Posts and Telecommunications FCFA 29.6 billion in 2026 against 18.5 billion in 2025.",
+ "title": "Citizen Budget 2026",
+ "publisher": "Direction Générale du Budget",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

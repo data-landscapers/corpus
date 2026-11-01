@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/113314/DJI-113314.pdf",
+  "title": "Loi n°151/AN/22/8ème L relative aux droits des personnes handicapées",
+  "publisher": "Journal officiel / ILO NATLEX",
+  "published": "2022",
+  "sub_indicator": "accessibility",
+  "why": "Rule in force: ICT accessibility"
+ },
+ {
+  "url": "https://nwm.unescwa.org/sites/default/files/2023-06/concluding-observations-crpd-djibouti-en.pdf",
+  "title": "CRPD Concluding observations Djibouti",
+  "publisher": "UN CRPD Committee",
+  "published": "2023",
+  "sub_indicator": "accessibility",
+  "why": "Audit/gaps on accessible websites"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-07/undp_djibouti_annual_report_en_v2.pdf",
+  "title": "UNDP Djibouti 2024 Annual Report",
+  "publisher": "UNDP",
+  "published": "2025-07",
+  "sub_indicator": "accessibility",
+  "why": "Sign language app on ANPH website"
+ },
+ {
+  "url": "https://www.presidence.dj/conseil-des-ministres/2024-04-02",
+  "title": "Travaux de la 6ième séance 02/04/2024",
+  "publisher": "Présidence de la République",
+  "published": "2024-04-02",
+  "sub_indicator": "accessibility",
+  "why": "Disability strategy implementation"
+ },
+ {
+  "url": "https://www.lanation.dj/anph-mieux-comprendre-lusage-et-la-connaissance-des-langues-des-signes-parmi-les-personnes-malentendantes/",
+  "title": "ANPH : sondage langues des signes",
+  "publisher": "La Nation",
+  "published": "2024-07-03",
+  "sub_indicator": "accessibility",
+  "why": "Digitisation of sign-language dictionary"
+ },
+ {
+  "url": "https://evenement.anph.dj/pdf/note.pdf",
+  "title": "Note conceptuelle - Lancement du Mobile ID",
+  "publisher": "ANPH",
+  "published": "2024-10",
+  "sub_indicator": "accessibility",
+  "why": "Accessible Mobile ID hackathon"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/e3b093b92e0531dcb5994e53e1b0733d-0460012022/original/Cadre-d-Interop-rabilit-de-Djibouti.pdf",
+  "title": "Cadre d'Interopérabilité de Djibouti",
+  "publisher": "ANSIE",
+  "published": "2022",
+  "sub_indicator": "accessibility",
+  "why": "WCAG AA requirement"
+ },
+ {
+  "url": "https://blog.africadataprotection.org/wp-content/uploads/2025/09/Djibouti-Loi-n-019-AN-23-9eme-L-Portant-Code-Numerique.pdf",
+  "title": "Loi n°019/AN/23/9ème L portant Code Numérique",
+  "publisher": "Journal officiel",
+  "published": "2025",
+  "sub_indicator": "accessibility",
+  "why": "Digital Code accessibility provisions"
+ }
+]

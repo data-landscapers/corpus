@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://botswanalaws.com/consolidated-statutes/acts-on-notice/persons-with-disability-act",
+  "title": "Persons with Disability Act (Act 6 of 2024)",
+  "publisher": "Botswana Laws",
+  "published": "2024",
+  "sub_indicator": "accessibility",
+  "why": "Rule: Act on equal access to goods, services; commencement on notice"
+ },
+ {
+  "url": "https://globaldisabilityfund.org/new/wp-content/uploads/2025/07/SITAN-Botswana-full-report.pdf",
+  "title": "Country Report on the rights of persons with disabilities in Botswana",
+  "publisher": "Global Disability Fund",
+  "published": "2025-07",
+  "sub_indicator": "accessibility",
+  "why": "Rule, audit: 2022 audit of government website WCAG compliance"
+ },
+ {
+  "url": "https://www.unwomen.org/sites/default/files/2024-09/b30_report_botswana_en.pdf",
+  "title": "Beijing+30 national report, Botswana",
+  "publisher": "Government of Botswana / UN Women",
+  "published": "2024-09",
+  "sub_indicator": "accessibility",
+  "why": "Rule: Disability Act 2024"
+ },
+ {
+  "url": "https://www.undp.org/botswana/rights-persons-disabilities",
+  "title": "Rights of Persons with Disabilities",
+  "publisher": "UNDP Botswana",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Underway: national disability policy and law"
+ },
+ {
+  "url": "https://fretum.org.bw/latest-news-fretum-optimistic-about-coming-into-force-of-pda-no-6-of-2024/",
+  "title": "FRETUM optimistic about coming into force of PDA No.6 of 2024",
+  "publisher": "FRETUM",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Underway: minister announced imminent commencement, regulations"
+ },
+ {
+  "url": "https://journals.flvc.org/sal/article/view/134105",
+  "title": "Improving access to Radio and Television for Deaf and Hard of Hearing people in Botswana",
+  "publisher": "Studies in African Linguistics",
+  "published": "2023-12-17",
+  "sub_indicator": "accessibility",
+  "why": "Delivered: BTV BSL interpretation"
+ },
+ {
+  "url": "https://www.disabilityworld.org/regulations/bw/",
+  "title": "Botswana: Accessibility law",
+  "publisher": "Disability World",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Rule: no web accessibility statute"
+ }
+]

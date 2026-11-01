@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.gov.za/sites/default/files/gcis_document/202511/53629rg-11903gon6802.pdf",
+  "title": "Seventh Annual Progress Report on Implementation of White Paper on the Rights of Persons with Disabilities 2022-2023",
+  "publisher": "DWYPD",
+  "published": "2025-11-07",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Delivery of accessible communication"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/deputy-minister-nomalungelo-gina-innovations-assist-people-disabilities-south",
+  "title": "Deputy Minister Gina on innovations to assist people with disabilities",
+  "publisher": "Department of Science, Technology and Innovation",
+  "published": "2025-08-05",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Delivery of assistive tech"
+ },
+ {
+  "url": "https://www.gcis.gov.za/guidelines/website/website-accessibility",
+  "title": "Website accessibility",
+  "publisher": "GCIS",
+  "published": "",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Rule: WCAG recommendation"
+ },
+ {
+  "url": "https://www.dpsa.gov.za/dpsa2g/documents/egov/2024/DETERMINATION%20AND%20DIRECTIVE%20ON%20DIGITAL%20SERVICES.pdf",
+  "title": "Determination and Directive on digital services",
+  "publisher": "DPSA",
+  "published": "2024",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Rule in force on digital services inclusion"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/30727/",
+  "title": "Question NW3161 to Minister in the Presidency for Women, Youth and Persons with Disabilities",
+  "publisher": "PMG",
+  "published": "2025-06-20",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Rule/underway"
+ },
+ {
+  "url": "https://researchictafrica.net/research/the-use-of-access-to-and-accessibility-of-icts-for-persons-with-disabilities-in-south-africa/",
+  "title": "The use of, access to, and accessibility of ICTs for persons with disabilities in South Africa",
+  "publisher": "Research ICT Africa",
+  "published": "2024-04-03",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Audit/survey of ICT accessibility"
+ },
+ {
+  "url": "https://www.education.gov.za/ArchivedDocuments/ArchivedArticles/ProgressinInclusiveEducation.aspx",
+  "title": "Progress in Inclusive Education",
+  "publisher": "Department of Basic Education",
+  "published": "",
+  "sub_indicator": "include.access--inclusion-of-persons-with-disabilities",
+  "why": "Assistive devices delivered to special schools"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "delivered",
+ "fact": "UNICEF's 2024 situation analysis states that tricycles for persons with disabilities are produced nationally at the National Prosthetics and Rehabilitation Centre with funding from the Ministry of Social Affairs, while hearing aids are unavailable and no legal foundation governs assistive technologies.",
+ "title": "Situation Analysis of children with disabilities",
+ "publisher": "UNICEF Burundi",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

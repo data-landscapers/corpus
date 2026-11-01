@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://presidence.gov.bi/wp-content/uploads/2026/10/CMQ-CM-13DU-14.10.26.pdf",
+  "title": "Communiqué de presse N°13/2026 du Conseil des Ministres du 14 octobre 2026",
+  "publisher": "Présidence de la République du Burundi",
+  "published": "2026-10-14",
+  "sub_indicator": "national",
+  "why": "Council adopts national digital policy; asks for action plans"
+ },
+ {
+  "url": "https://vision-burundi.gov.bi/uploads/documents_download/new/PND%20Re%CC%81vise%CC%81%20(1).pdf",
+  "title": "Plan National de Développement du Burundi 2018-2027 révisé et son Plan d'Actions Prioritaires 2023-2027",
+  "publisher": "Gouvernement du Burundi",
+  "published": "2023",
+  "sub_indicator": "national",
+  "why": "Costed digital programmes; budget lines"
+ },
+ {
+  "url": "https://dig.watch/resource/master-plan-for-the-digitalization-of-public-services-in-burundi",
+  "title": "Master Plan for the Digitalization of Public Services in Burundi (PDDSP 2023-2033)",
+  "publisher": "Digital Watch Observatory",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "Standing, period, evaluation plan of the digital master plan"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099051325173027359/pdf/P176396-1693ec36-a849-41ac-b581-2c8bbf74a9e7.pdf",
+  "title": "Aide-mémoire PAFEN (mission 2025)",
+  "publisher": "World Bank Group",
+  "published": "2025",
+  "sub_indicator": "national",
+  "why": "PNDTIC update and broadband strategy delivered"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/207441655916156350/pdf/Burundi-Digital-Foundations-Project.pdf",
+  "title": "Burundi Digital Foundations Project (project appraisal document)",
+  "publisher": "World Bank Group",
+  "published": "2022",
+  "sub_indicator": "national",
+  "why": "Draft policy, mandate and financing for digital strategy"
+ },
+ {
+  "url": "https://vision-burundi.gov.bi/uploads/documents_download/Vision_BPE2040&PD2060_Anglais.pdf",
+  "title": "Burundi Vision: an Emerging Country by 2040 and a Developed Country by 2060",
+  "publisher": "Gouvernement du Burundi",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "Long-range vision; digital transition"
+ }
+]

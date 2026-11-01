@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://droitsdelhomme.gouv.tg/le-rapport-initial-du-togo-sur-les-droits-des-personnes-handicapees-examine-a-geneve/",
+  "title": "Le rapport initial du Togo sur les droits des personnes handicapées examiné à Genève",
+  "publisher": "Ministère des Droits de l'Homme",
+  "published": "2023-03-17",
+  "sub_indicator": "accessibility",
+  "why": "Rule: government report on measures for access to information and services"
+ },
+ {
+  "url": "https://droitsdelhomme.gouv.tg/wp-content/uploads/2023/03/Discours-de-Madame-la-Ministre-de-lAction-sociale.pdf",
+  "title": "Discours de Madame la Ministre de l'Action sociale",
+  "publisher": "Ministère des Droits de l'Homme",
+  "published": "2023-03",
+  "sub_indicator": "accessibility",
+  "why": "Delivered: national TV news interpreted live in sign language; accessibility measures"
+ },
+ {
+  "url": "https://documents.un.org/doc/undoc/gen/g19/065/30/pdf/g1906530.pdf",
+  "title": "Initial report of Togo under the CRPD",
+  "publisher": "United Nations",
+  "published": "2019",
+  "sub_indicator": "accessibility",
+  "why": "Rule: legal framework on accessibility; assistive technology"
+ },
+ {
+  "url": "https://commonwealthdpf.org/wp-content/uploads/2024/02/Togo_FETAPH.pdf",
+  "title": "Togo FETAPH DPO survey",
+  "publisher": "Commonwealth Disabled People's Forum",
+  "published": "2024-02",
+  "sub_indicator": "accessibility",
+  "why": "Rule/delivery: DPO account of actions on accessibility"
+ },
+ {
+  "url": "https://g3ict.org/country-profile/togo",
+  "title": "Togo - G3ict country profile",
+  "publisher": "G3ict",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Rule/audit: ICT accessibility policy scoring"
+ }
+]

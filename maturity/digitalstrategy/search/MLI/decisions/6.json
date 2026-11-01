@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "governance;plan;standing",
+ "fact": "The World Bank diagnostic says Digital Mali 2020 (policy document of 2016) lacked a clear roadmap, financing and governance, and that an interministerial committee under the digital ministry was established by Decision n°00039/MCEN-SG of 22 April 2021 but was not yet operational.",
+ "title": "Mali Country Diagnostic (Digital Economy)",
+ "publisher": "World Bank Group",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

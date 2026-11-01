@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.algerialawlibrary.com/laws/dcret-excutif-n-26-98-du-12-chabane-1447-correspondant-au",
+  "title": "Décret exécutif n° 26-98 du 31 janvier 2026 fixant les modalités d'accessibilité des personnes ayant des besoins spécifiques",
+  "publisher": "Journal officiel de la République algérienne",
+  "published": "2026-02",
+  "sub_indicator": "accessibility",
+  "why": "rule: decree in force on accessibility of information and communication, ICT"
+ },
+ {
+  "url": "https://lechodalgerie.dz/de-nouvelles-dispositions-pour-ameliorer-laccessibilite-des-personnes-a-besoins-specifiques-le-decret-26-98-fixe-les-normes-applicables-aux-batiments-logements-et-services-publics/",
+  "title": "Le décret 26-98 fixe les normes applicables aux bâtiments, logements et services publics",
+  "publisher": "L'Echo d'Algérie",
+  "published": "2026-02-22",
+  "sub_indicator": "accessibility",
+  "why": "rule: decree 26-98 chapter 3 on information and communication"
+ },
+ {
+  "url": "https://algeriatech.news/digital-accessibility-in-algeria-why-government-websites-fail-screen-readers-and-what-the-law-should-say/",
+  "title": "Digital Accessibility in Algeria: The Inclusion Gap",
+  "publisher": "ALGERIATECH",
+  "published": "2026-01-14",
+  "sub_indicator": "accessibility",
+  "why": "audit, rule: government sites fail WCAG; no digital accessibility law"
+ },
+ {
+  "url": "https://lalgerieaujourdhui.dz/ce-que-prevoit-la-nouvelle-loi-pour-les-handicapes/",
+  "title": "Ce que prévoit la nouvelle loi pour les handicapés",
+  "publisher": "L'Algérie Aujourd'hui",
+  "published": "2025-02-26",
+  "sub_indicator": "accessibility",
+  "why": "rule: law 25-01 on access to ICT and new technologies"
+ },
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117750/DZA-117750.pdf",
+  "title": "Loi n° 25-01 du 20 février 2025 relative à la protection et à la promotion des personnes ayant des besoins spécifiques",
+  "publisher": "Journal officiel de la République algérienne n° 12",
+  "published": "2025-02-23",
+  "sub_indicator": "accessibility",
+  "why": "rule: law text, chapter 5 accessibility incl. ICT"
+ },
+ {
+  "url": "https://www.mpt.gov.dz/coordination-qualitative-avec-differents-secteurs/autonomisation-des-personnes-a-besoins-specifiques/",
+  "title": "Autonomisation des personnes à besoins spécifiques",
+  "publisher": "Ministère de la Poste et des Télécommunications",
+  "published": "2023-12-19",
+  "sub_indicator": "accessibility",
+  "why": "delivered: apps contest, post office access, digital services"
+ },
+ {
+  "url": "https://www.mpt.gov.dz/electronic-communications-universal-service/",
+  "title": "Electronic communications universal service",
+  "publisher": "Ministère de la Poste et des Télécommunications",
+  "published": "2023-12-24",
+  "sub_indicator": "accessibility",
+  "why": "rule: universal service includes measures for users with specific needs"
+ }
+]

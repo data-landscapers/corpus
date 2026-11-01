@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "audit",
+ "fact": "A 2024 audit of five Moroccan e-government portals against WCAG found none fully conformant, with failures at levels A and AA.",
+ "title": "Accessibility Evaluation Of Five Moroccan E-government Portals",
+ "publisher": "IWSM-MENSURA'24",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

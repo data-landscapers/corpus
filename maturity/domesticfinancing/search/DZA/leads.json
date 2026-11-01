@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.mf.gov.dz/images/pdf/loidefinance/Loi_de_Finances_2026_FR.pdf",
+  "title": "Loi n° 25-17 du 14 décembre 2025 portant loi de finances pour 2026",
+  "publisher": "Journal officiel de la République algérienne n° 88",
+  "published": "2025-12-31",
+  "sub_indicator": "financing",
+  "why": "budget: amounts for Poste et télécommunications and Economie de la connaissance"
+ },
+ {
+  "url": "https://kanonix.app/documents/decret-executif-26-43-fr",
+  "title": "Décret exécutif n° 26-43 du 7 janvier 2026 portant répartition des crédits du ministre de la poste et des télécommunications",
+  "publisher": "Journal officiel de la République algérienne",
+  "published": "2026-01-07",
+  "sub_indicator": "financing",
+  "why": "budget: 2026 credits for post and telecom ministry"
+ },
+ {
+  "url": "https://dgpp.mf.gov.dz/wp-content/uploads/2026/01/RPLF-2026_APN_FR.pdf",
+  "title": "Rapport sur le projet de loi de finances pour 2026",
+  "publisher": "Direction générale de la prévision et des politiques",
+  "published": "2026",
+  "sub_indicator": "financing",
+  "why": "budget: 2026 budget framework"
+ },
+ {
+  "url": "https://www.mpt.gov.dz/service-universel-des-communications-electroniques/",
+  "title": "Service universel des communications électroniques",
+  "publisher": "Ministère de la Poste et des Télécommunications",
+  "published": "",
+  "sub_indicator": "financing",
+  "why": "commitment: Universal Service Fund financed projects"
+ },
+ {
+  "url": "https://elmassar-elarabi.dz/140263",
+  "title": "مشروع قانون المالية 2026: مؤشرات اقتصادية إيجابية ومشاريع الرقمنة",
+  "publisher": "El Massar El Arabi",
+  "published": "2025-11-12",
+  "sub_indicator": "financing",
+  "why": "commitment: finance minister on digitalisation in budget"
+ },
+ {
+  "url": "https://www.elmoudjahid.dz/fr/actualite/a-l-aube-d-une-nouvelle-ere-numerique-l-algerie-se-reinvente-245931",
+  "title": "A l'aube d'une nouvelle ère numérique : L'Algérie se réinvente",
+  "publisher": "El Moudjahid",
+  "published": "",
+  "sub_indicator": "financing",
+  "why": "budget: 2026 allocations to knowledge economy ministry"
+ }
+]

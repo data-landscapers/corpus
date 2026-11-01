@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.bloomberg.com/news/articles/2025-11-17/south-sudan-cabinet-approves-68-jump-for-delayed-2025-26-budget",
+  "title": "South Sudan Cabinet Approves 68% Jump for Delayed 2025-26 Budget",
+  "publisher": "Bloomberg",
+  "published": "2025-11-16",
+  "sub_indicator": "financing",
+  "why": "Total budget context"
+ },
+ {
+  "url": "https://www.onecitizendaily.com/index.php/2025/08/04/nca-launches-strategic-plan-approves-2025-26-budget-at-10th-board-meeting/",
+  "title": "NCA launches strategic plan, approves 2025/26 budget at 10th board meeting",
+  "publisher": "One Citizen Daily",
+  "published": "2025-08-04",
+  "sub_indicator": "financing",
+  "why": "NCA budget for ICT access"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099120225134529047/txt/P176181-10a2aeb5-d3fb-4c67-bc53-da109b62a9de.txt",
+  "title": "EA-RDIP implementation support mission aide-memoire",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "financing",
+  "why": "Donor-funded digital project execution, USAF participation"
+ },
+ {
+  "url": "https://paradigmhq.org/wp-content/uploads/2023/06/South-Sudan-Londa-2022.pdf",
+  "title": "Londa: Digital Rights and Inclusion in Africa, South Sudan 2022",
+  "publisher": "Paradigm Initiative",
+  "published": "2023-06",
+  "sub_indicator": "financing",
+  "why": "USAF operational since 2019, 2% levy, amounts not public"
+ },
+ {
+  "url": "https://usaf.gov.ss/about-usaf/",
+  "title": "About USAF",
+  "publisher": "Universal Service and Access Fund",
+  "published": "",
+  "sub_indicator": "financing",
+  "why": "Fund established by law"
+ },
+ {
+  "url": "https://mictps.gov.ss/finance-proposes-ssp-5-2-trillion-budget-for-2025-2026-fiscal-year/",
+  "title": "Finance proposes SSP 5.2 trillion budget for 2025/2026 fiscal year",
+  "publisher": "Ministry of ICT and Postal Services",
+  "published": "2025-06-11",
+  "sub_indicator": "financing",
+  "why": "Budget proposal"
+ }
+]

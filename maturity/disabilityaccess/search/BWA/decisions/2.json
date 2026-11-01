@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "rule;audit",
+ "fact": "The situational analysis, dated January 2025, reports that the Persons with Disability Act was passed in December 2023 and assented on 30 January 2024, and that a 2022 audit found less than 15% of government websites meet WCAG accessibility guidelines.",
+ "title": "Situational Analysis on the Rights of Persons with Disabilities in Botswana: Country Full Report",
+ "publisher": "Global Disability Fund",
+ "published": "2025-01",
+ "date_source": "source",
+ "why_not": ""
+}

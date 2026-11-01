@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://inic.gov.st/docs/DRn60_2021_Resolu35-2020CM_Aprova%20Estrategia%20de%20GovernaDigitaleCGD.pdf",
+  "title": "Resolução n.º 35/2020 (Diário da República n.º 60)",
+  "publisher": "Presidência do Conselho de Ministros",
+  "published": "2021-08-09",
+  "sub_indicator": "gov.policy--digital-transformation-strategy",
+  "why": "adoption, body and period of the 2020-2024 digital governance strategy"
+ },
+ {
+  "url": "https://doi.org/10.1145/3560107.3560316",
+  "title": "EGOV strategy formulation taking into account international rankings",
+  "publisher": "ACM",
+  "published": "2022-10-04",
+  "sub_indicator": "gov.policy--digital-transformation-strategy",
+  "why": "approval and 2020-2024 period"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf",
+  "title": "STP Digital implementation support mission",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "gov.policy--digital-transformation-strategy",
+  "why": "progress against digital government plan"
+ },
+ {
+  "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099031726142522373",
+  "title": "Fiscal Sustainability, Energy Access and Digital Connectivity DPO",
+  "publisher": "World Bank",
+  "published": "2026",
+  "sub_indicator": "gov.policy--digital-transformation-strategy",
+  "why": "national digital transformation strategy launch"
+ },
+ {
+  "url": "https://cdpi.dev/blog/sao-tome-and-principe-launches-citizen-portal/",
+  "title": "São Tomé and Príncipe Launches Citizen Portal",
+  "publisher": "CDPI",
+  "published": "2026-04-07",
+  "sub_indicator": "gov.policy--digital-transformation-strategy",
+  "why": "recent implementation event"
+ },
+ {
+  "url": "https://inic.gov.st/estrategia_planos.php",
+  "title": "Estratégias & Planos",
+  "publisher": "INIC",
+  "published": "",
+  "sub_indicator": "gov.policy--digital-transformation-strategy",
+  "why": "strategy text published"
+ }
+]

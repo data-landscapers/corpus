@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sonsaplatform.org/policy-brief-advancing-digital-inclusion-within-somalias-national-disability-strategy-2025-2028",
+  "title": "Policy Brief: Advancing Digital Inclusion within Somalia's National Disability Strategy 2025-2028",
+  "publisher": "SONSA Platform",
+  "published": "2025-12-31",
+  "sub_indicator": "accessibility",
+  "why": "rule: no accessibility standards yet"
+ },
+ {
+  "url": "https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf",
+  "title": "Digital Inclusion Policy for Advancing Access to ICT Services for Marginalised Groups",
+  "publisher": "Ministry of Communications and Technology",
+  "published": "2025",
+  "sub_indicator": "accessibility",
+  "why": "rule: policy on accessible websites and services"
+ },
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=118274",
+  "title": "Somali Disability Rights Protection Law (Law No. 29 of 2024)",
+  "publisher": "ILO NATLEX",
+  "published": "2024-12",
+  "sub_indicator": "accessibility",
+  "why": "rule: law in force"
+ },
+ {
+  "url": "https://www.osagsomalia.com/media/documents/bulletins-contents/cabinet-decisions/2025/Siyaasadda_Qaran_ee_Dhijitaalka_loo_Dhanyahay.pdf",
+  "title": "Siyaasadda Qaran ee Dhijitaalka loo Dhan yahay",
+  "publisher": "Xafiiska Garyaqaanka Guud ee Dawladda (Official Gazette)",
+  "published": "2025-04-07",
+  "sub_indicator": "accessibility",
+  "why": "rule: gazetted digital inclusion policy"
+ },
+ {
+  "url": "https://www.undp.org/somalia/stories/somalia-for-all",
+  "title": "A Somalia for all",
+  "publisher": "UNDP Somalia",
+  "published": "2025-02-12",
+  "sub_indicator": "accessibility",
+  "why": "delivered: assistive devices, Digital Disability Lab"
+ },
+ {
+  "url": "https://www.undp.org/somalia/news/somalia-marks-international-day-persons-disabilities",
+  "title": "Somalia marks the International Day of Persons with Disabilities",
+  "publisher": "UNDP Somalia",
+  "published": "2024-12-04",
+  "sub_indicator": "accessibility",
+  "why": "delivered: assistive equipment via NDA"
+ },
+ {
+  "url": "https://sonna.so/en/article/ministry-of-family-receives-disability-equipment-donated-by-king-salman-relief-agency",
+  "title": "Ministry of Family receives disability equipment donated by King Salman Relief Agency",
+  "publisher": "SONNA",
+  "published": "2025-03-02",
+  "sub_indicator": "accessibility",
+  "why": "delivered: devices distributed by NDA"
+ },
+ {
+  "url": "https://erc.undp.org/evaluation/managementresponses/detail/16129",
+  "title": "Management Response: Capacity Development and Empowerment for Persons with Disabilities Project in Somalia",
+  "publisher": "UNDP Evaluation Resource Centre",
+  "published": "2025-12-17",
+  "sub_indicator": "accessibility",
+  "why": "underway: action to adopt minimum accessibility standards for ICT systems"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "text;period;plan;standing",
+ "fact": "The Roadmap for the Digital Transformation of the South African Government, endorsed by Cabinet, sets Phase 1 (2025-2027) and Phase 2 (2028-2030), says each project will be costed after scoping, and is published on gov.za.",
+ "title": "South Africa's Roadmap for the Digital Transformation of Government",
+ "publisher": "Republic of South Africa",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

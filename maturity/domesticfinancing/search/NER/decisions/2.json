@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "financing",
+ "aspect": "commitment",
+ "fact": "ARCEP's 2023 annual report says it invoiced licensed operators 4,968,166,937 FCFA for the universal access fund for 2023, at 2% of their net turnover.",
+ "title": "RAPPORT ANNUEL 2023",
+ "publisher": "ARCEP (Autorité de Régulation des Communications Electroniques et de la Poste)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "standing;text;period",
+ "fact": "The National Digital Economy Policy and Strategy (2020-2030) was unveiled by President Buhari on 28 November 2019 as an eight-pillar national strategy.",
+ "title": "National Digital Economy Policy and Strategy (2020-2030)",
+ "publisher": "Federal Ministry of Communications and Digital Economy",
+ "published": "2019-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

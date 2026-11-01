@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.finance.gov.sc/wp-content/uploads/2026/02/2026-Budget-Speech-English-Version.pdf",
+  "title": "Budget 2026 Government of Seychelles (Budget Speech)",
+  "publisher": "Ministry of Finance, Economic Planning, Trade and Investment",
+  "published": "2026-02-12",
+  "sub_indicator": "financing",
+  "why": "Q1-Q2: SCR 325m for digitalisation 2026-2028; IFMIS allocations"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/articles/22616/seychelles-adopts-national-digital-and-ai-strategy-plans-sovereign-government-cloud-with-2-datacentres",
+  "title": "Seychelles adopts national digital and AI strategy, plans sovereign government cloud with 2 datacentres",
+  "publisher": "Seychelles News Agency",
+  "published": "2026-10-29",
+  "sub_indicator": "financing",
+  "why": "Q1: budget allocation for digitalisation"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/articles/22631/lia-pour-faciliter-les-permis-les-soins-de-sante-et-la-detection-des-fraudes-dans-le-cadre-du-plan-numerique-de-50-millions-de-dollars-des-seychelles",
+  "title": "L'IA pour faciliter les permis ... plan numerique de 50 millions de dollars des Seychelles",
+  "publisher": "Seychelles News Agency",
+  "published": "2026-10-30",
+  "sub_indicator": "financing",
+  "why": "Q1/Q3: strategy cost funded by state allocations and partners (French)"
+ },
+ {
+  "url": "https://www.gazette.sc/sites/default/files/2023-04/Act%203%20-%202023%20-%20Communications%20Act%202023.pdf",
+  "title": "Communications Act 2023",
+  "publisher": "Official Gazette of Seychelles",
+  "published": "2023-04-18",
+  "sub_indicator": "financing",
+  "why": "Q3: universal access and service fund, operator contributions"
+ },
+ {
+  "url": "https://www.gazette.sc/sites/default/files/2026-03/Act%201%202026%20-%20Appropriation%20Act%202026.pdf",
+  "title": "Act 1 of 2026 - Appropriation Act 2026",
+  "publisher": "Official Gazette of Seychelles",
+  "published": "2026",
+  "sub_indicator": "financing",
+  "why": "Q1/Q2: appropriation for ICT department 2026"
+ },
+ {
+  "url": "https://www.gazette.sc/sites/default/files/2024-10/Bill%2016%202024%20-%20Appropriation%20Bill%202025.pdf",
+  "title": "Bill 16 2024 - Appropriation Bill 2025",
+  "publisher": "Official Gazette of Seychelles",
+  "published": "2024",
+  "sub_indicator": "financing",
+  "why": "Q1/Q2: DICT allocation 2025 vs 2024"
+ },
+ {
+  "url": "https://www.nationalassembly.sc/sites/default/files/2025-12/AR24_final_document.pdf",
+  "title": "Report of the Auditor General 2024",
+  "publisher": "Office of the Auditor General",
+  "published": "2025",
+  "sub_indicator": "financing",
+  "why": "Q4: audited 2024 accounts"
+ },
+ {
+  "url": "https://www.finance.gov.sc/wp-content/uploads/2025/08/2024-Budget-Estimates-of-Revenue-and-Expenditure-for-the-Fiscal-Year-2024-Part-2.pdf",
+  "title": "2024 Budget Estimates of Revenue and Expenditure Part 2",
+  "publisher": "Ministry of Finance, National Planning and Trade",
+  "published": "2023",
+  "sub_indicator": "financing",
+  "why": "Q1: DICT allocation 2024"
+ }
+]

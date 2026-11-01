@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=BfwrWuEzhriBqanYJUyc9gqx1cynT1TCK3ee7JBtXQjRDub%2BWA%2BUNrs8Glp%2Fddg2iNKtkSf6yrFcJ72d0mysfA%3D%3D",
+  "title": "Convention relative aux droits des personnes handicapées (rapport de l'Etat)",
+  "publisher": "Mali / OHCHR",
+  "published": "2025-03-13",
+  "sub_indicator": "accessibility",
+  "why": "government delivery: sign language on ORTM news, braille computers"
+ },
+ {
+  "url": "https://globaldisabilityfund.org/new/wp-content/uploads/2025/10/sitan-mali-brief.pdf",
+  "title": "Situational Analysis on the rights of persons with disabilities in Mali (brief)",
+  "publisher": "Global Disability Fund",
+  "published": "2025",
+  "sub_indicator": "accessibility",
+  "why": "digital accessibility rules and audit absent"
+ },
+ {
+  "url": "https://globaldisabilityfund.org/new/wp-content/uploads/2025/10/sitan-mali-full-report.pdf",
+  "title": "Situational Analysis on the Rights of Persons with Disabilities in Mali",
+  "publisher": "Global Disability Fund",
+  "published": "2025",
+  "sub_indicator": "accessibility",
+  "why": "legal framework on accessibility of ICT"
+ },
+ {
+  "url": "https://www.accessibilityatlas.org/_files/ugd/77066e_6a677739a7ec450e83a70c23b76f0258.pdf",
+  "title": "OPD Report on the Implementation Gaps in Accessibility in Mali",
+  "publisher": "AccessibilityAtlas",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "2018 law right to adapted information; no website guidelines"
+ },
+ {
+  "url": "https://www.maliweb.net/societe/loi-n2018-027-relative-aux-droits-des-personnes-vivant-avec-un-handicap-le-remapsen-mali-et-jdh-sengagent-en-faveur-de-lapplication-du-decret-fixant-ses-modalites-3037967.html",
+  "title": "Loi N°2018-027 : application du décret",
+  "publisher": "maliweb",
+  "published": "2023-10-02",
+  "sub_indicator": "accessibility",
+  "why": "2021 implementing decree of the 2018 disability law"
+ }
+]

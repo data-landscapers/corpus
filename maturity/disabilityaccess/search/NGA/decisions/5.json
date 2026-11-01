@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "accessibility",
+  "aspect": "rule;audit",
+  "fact": "NITDA's Standard and Guidelines for websites of government institutions mandate WCAG and inclusivity for people with disabilities, and an FIJ analysis found 14 of 36 state websites lacked text alternatives for images.",
+  "title": "ANALYSIS: 26 of 36 States - and FCT - Have Substandard Websites. 14 Are Unusable for PLWDs",
+  "publisher": "Foundation for Investigative Journalism",
+  "published": "2024-07-31",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/eritrea_interim_country_strategy_paper_2025-2027.pdf",
+  "title": "Eritrea Interim Country Strategy Paper 2025-2027",
+  "publisher": "African Development Bank",
+  "published": "2025",
+  "sub_indicator": "national",
+  "why": "States Eritrea has no formal ICT policy"
+ },
+ {
+  "url": "https://africa24tv.com/eritrea-ministry-of-information-holds-annual-activity-assessment-meeting/",
+  "title": "Eritrea: Ministry of Information Holds Annual Activity Assessment Meeting",
+  "publisher": "Africa24 TV",
+  "published": "2026-02-06",
+  "sub_indicator": "national",
+  "why": "Ministry 2026-2030 strategic plan; ministry-plan class"
+ },
+ {
+  "url": "https://digitalidentityindex.com/countries/eritrea/govtech/",
+  "title": "Eritrea - The Global Digital Identity Index",
+  "publisher": "Global Digital Identity Index",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "No GovTech/digital transformation strategy"
+ },
+ {
+  "url": "https://digitaldevelopmentcompass.undp.org/country/ERI",
+  "title": "UNDP Digital Development Compass | Eritrea",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "No national digital strategy scored"
+ },
+ {
+  "url": "https://dig.watch/countries/eritrea",
+  "title": "Eritrea | Digital Watch Observatory",
+  "publisher": "Diplo",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "Sector foundations, no national strategy"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-06/undp-eritrea-annual-report-2025.pdf",
+  "title": "UNDP Eritrea Annual Report 2025",
+  "publisher": "UNDP",
+  "published": "2026",
+  "sub_indicator": "national",
+  "why": "Digitalization progress in ministries"
+ }
+]

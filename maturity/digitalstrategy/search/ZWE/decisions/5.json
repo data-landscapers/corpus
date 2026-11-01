@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "standing;governance",
+ "fact": "Cabinet approved the National ICT Policy review, with a National ICT Policy Advisory Council and a secretariat to track implementation to be established.",
+ "title": "National Information Communication Technology Policy approved by Cabinet",
+ "publisher": "The Herald",
+ "published": "2022-06-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

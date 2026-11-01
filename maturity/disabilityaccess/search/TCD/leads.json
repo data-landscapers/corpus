@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://tchadvision.com/tchad-les-handicapes-invites-a-sepanouir-et-realiser-leur-plein-potentiel/",
+  "title": "Tchad : les handicapés invités à s'épanouir et réaliser leur plein potentiel",
+  "publisher": "Tchad Vision",
+  "published": "2024-02-07",
+  "sub_indicator": "accessibility",
+  "why": "Legal framework: law 007, 2023 agency law"
+ },
+ {
+  "url": "https://documents.un.org/doc/undoc/gen/g25/194/41/pdf/g2519441.pdf",
+  "title": "UN CRPD document on Chad (Act 007/PR/2007 art 32)",
+  "publisher": "United Nations",
+  "published": "2025",
+  "sub_indicator": "accessibility",
+  "why": "Law requires adapting communication and information systems"
+ },
+ {
+  "url": "https://www.worldbank.org/en/news/press-release/2024/09/25/world-bank-increases-access-to-broadband-connectivity-in-chad",
+  "title": "World Bank Increases Access to Broadband Connectivity in Chad",
+  "publisher": "World Bank",
+  "published": "2024-09-25",
+  "sub_indicator": "accessibility",
+  "why": "Digital training for 2,000 persons with disabilities"
+ },
+ {
+  "url": "https://tchadinfos.com/2025/01/15/tchad-des-personnes-handicapees-outillees-en-infographie-et-informatique/",
+  "title": "Tchad : des personnes handicapées outillées en infographie et informatique",
+  "publisher": "Tchadinfos",
+  "published": "2025-01-15",
+  "sub_indicator": "accessibility",
+  "why": "NGO-run training, recommendations to government"
+ },
+ {
+  "url": "https://tchadinfos.com/2025/07/10/les-medias-tchadiens-invites-a-jouer-un-role-moteur-dans-la-promotion-des-droits-des-personnes-handicapees/",
+  "title": "Les médias tchadiens invités à jouer un rôle moteur",
+  "publisher": "Tchadinfos",
+  "published": "2025-07-10",
+  "sub_indicator": "accessibility",
+  "why": "Public media sign language gap"
+ },
+ {
+  "url": "https://ialtchad.com/index.php/journal/item/3304-droits-des-handicapes-la-stigmatisation-un-obstacle-pour-l-inclusion",
+  "title": "Droits des handicapés : La stigmatisation, un obstacle pour l'inclusion",
+  "publisher": "Ialtchad Presse",
+  "published": "2024-08-26",
+  "sub_indicator": "accessibility",
+  "why": "Law 007 not respected"
+ },
+ {
+  "url": "https://g3ict.org/country-profile/Chad",
+  "title": "Chad country profile",
+  "publisher": "G3ict",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Web policy but no implementation"
+ }
+]

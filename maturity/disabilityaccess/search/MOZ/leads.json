@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://intic.gov.mz/intic-reforca-compromisso-com-a-inclusao-digital-na-conferencia-sobre-deficiencia-e-transformacao-digital/",
+  "title": "INTIC reforça compromisso com a inclusão digital na Conferência sobre Deficiência e Transformação Digital",
+  "publisher": "INTIC",
+  "published": "2026-07-10",
+  "sub_indicator": "accessibility",
+  "why": "No national WCAG norm; planned standards"
+ },
+ {
+  "url": "https://forbesafricalusofona.com/mocambique-enfrenta-desafios-relacionados-com-infra-estruturas-tecnologicas/",
+  "title": "Moçambique enfrenta desafios relacionados com infra-estruturas tecnológicas",
+  "publisher": "Forbes África Lusófona",
+  "published": "2026-07-13",
+  "sub_indicator": "accessibility",
+  "why": "Digital inclusion strategy being drafted"
+ },
+ {
+  "url": "https://www.famod.org/publicacoes/reflexo-sobre-acessibilidade-digital-para-pessoas-com-deficincia-desperta-para-a-necessidade-de-regulamentao-das-tics-em-moambique",
+  "title": "Reflexão sobre Acessibilidade Digital para Pessoas com Deficiência",
+  "publisher": "FAMOD",
+  "published": "2024-06-07",
+  "sub_indicator": "accessibility",
+  "why": "Disability law approved 3 April 2024 recognises ICT access"
+ },
+ {
+  "url": "https://faolex.fao.org/docs/pdf/moz228091.pdf",
+  "title": "Boletim da República: Lei de Promoção e Protecção dos Direitos das Pessoas com Deficiência",
+  "publisher": "Imprensa Nacional",
+  "published": "2024",
+  "sub_indicator": "accessibility",
+  "why": "Law arts 16-17 accessibility, information formats"
+ },
+ {
+  "url": "https://www.famod.org/acessso-as-tic",
+  "title": "Acesso às TIC",
+  "publisher": "FAMOD",
+  "published": "2023-06",
+  "sub_indicator": "accessibility",
+  "why": "FAMOD-INTIC audits of digital platform accessibility"
+ },
+ {
+  "url": "https://cipesa.org/2023/03/boosting-web-accessibility-for-persons-with-disabilities-in-mozambique/",
+  "title": "Boosting Web Accessibility for Persons with Disabilities in Mozambique",
+  "publisher": "CIPESA",
+  "published": "2023-03-09",
+  "sub_indicator": "accessibility",
+  "why": "Web accessibility audit and resources"
+ }
+]

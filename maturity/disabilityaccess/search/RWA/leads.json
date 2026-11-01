@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.minaloc.gov.rw/fileadmin/user_upload/Minaloc/National_Policy_on_Disability_and_Inclusion_final.pdf",
+  "title": "National Policy on Disability and Inclusion",
+  "publisher": "MINALOC",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q1/Q2: digital inclusion, assistive technology, sign language objectives"
+ },
+ {
+  "url": "https://guidelines.risa.gov.rw/books/government-of-rwanda-websites-guideline/page/accessibility",
+  "title": "Accessibility, Government of Rwanda Websites Guideline",
+  "publisher": "RISA",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q2: government websites must meet WCAG 2.2"
+ },
+ {
+  "url": "https://www.africa-press.net/rwanda/all-news/rwanda-starts-distributing-sign-language-dictionary",
+  "title": "Rwanda starts distributing sign language dictionary",
+  "publisher": "Africa-Press / The New Times",
+  "published": "2024-09-29",
+  "sub_indicator": "accessibility",
+  "why": "Q3: NCPD delivery"
+ },
+ {
+  "url": "https://www.unicef.org/rwanda/press-releases/children-and-adolescents-ear-and-hearing-disabilities-will-receive-improved-health",
+  "title": "Children and adolescents with ear and hearing disabilities will receive improved health care and services closer to home",
+  "publisher": "UNICEF Rwanda",
+  "published": "2023-12-07",
+  "sub_indicator": "accessibility",
+  "why": "Q3: RBC programme with digital hearing aids"
+ },
+ {
+  "url": "https://atscalepartnership.org/news-stories/unlocking-potential-through-assistive-technology-rwanda",
+  "title": "Unlocking potential through assistive technology in Rwanda",
+  "publisher": "ATscale",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q3: hearing aids fitted under government programme"
+ },
+ {
+  "url": "https://www.springerprofessional.de/a-comparative-study-of-automated-accessibility-checker-tools-and/52957214",
+  "title": "A Comparative Study of Automated Accessibility Checker Tools and Manual Evaluation on Rwanda's E-Government Portals",
+  "publisher": "Springer CCIS",
+  "published": "2026",
+  "sub_indicator": "accessibility",
+  "why": "Q4: audit of five government portals"
+ },
+ {
+  "url": "https://doi.org/10.1145/3614321.3614343",
+  "title": "The challenge of web accessibility: an evaluation of selected government websites and service portals",
+  "publisher": "ACM",
+  "published": "2023-09-26",
+  "sub_indicator": "accessibility",
+  "why": "Q4: tests Rwandan sites; no national standard"
+ },
+ {
+  "url": "https://www.globalpartnership.org/results/country-journeys/rwanda-education-goes-digital",
+  "title": "Rwanda: Education goes digital",
+  "publisher": "Global Partnership for Education",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q3: sign language embedded in REB episodes"
+ }
+]

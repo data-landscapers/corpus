@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "audit",
+ "fact": "FIJ audited the websites of four government disability agencies with WAVE and Lighthouse and reported accessibility barriers on each, including the NCPWD site.",
+ "title": "FIJ Tested 4 Govt Disability Agency Websites for PWD Accessibility. We Found Barriers",
+ "publisher": "Foundation for Investigative Journalism",
+ "published": "2026-03-13",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "governance;standing",
+ "fact": "Senegal's WSIS 20-year report states the President launched the New Technological Deal, a national digital strategy of 12 programmes and over 50 projects, in February 2025, and that GouvNum under the Prime Minister's authority strengthened digital project governance.",
+ "title": "20-Years SENEGAL Reporting (WSIS)",
+ "publisher": "Senegal National WSIS Committee, for ITU",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://cipesa.org/wp-content/files/Legal_Analysis_of_Technology_and_DisabilityinAfrica.pdf",
+  "title": "Legal Analysis of Technology and Disability in Africa",
+  "publisher": "CIPESA / TRF",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q2: rule in force; no ICT-specific law"
+ },
+ {
+  "url": "https://unprpd.org/new/wp-content/uploads/2023/12/CR_Cameroon_2021-33b.pdf",
+  "title": "Situational analysis Cameroon (UNPRPD)",
+  "publisher": "UNPRPD",
+  "published": "2023-12",
+  "sub_indicator": "accessibility",
+  "why": "Q2/Q3: accessibility of information"
+ },
+ {
+  "url": "https://theguardianpostcameroon.com/post/4718/fr/social-affairs-minister-drums-need-for-inclusive-education",
+  "title": "Social affairs minister drums need for inclusive education",
+  "publisher": "The Guardian Post",
+  "published": "2025-05-15",
+  "sub_indicator": "accessibility",
+  "why": "Q1/Q3: assistive education technology campaign"
+ },
+ {
+  "url": "https://www.itu.int/md/D22-SG01.RGQ-C-0196",
+  "title": "Web accessibility for the hearing impaired in Cameroon",
+  "publisher": "ITU-D",
+  "published": "2024-04-04",
+  "sub_indicator": "accessibility",
+  "why": "Q4: survey of digital accessibility"
+ },
+ {
+  "url": "https://thepostnpcameroon.com/minas-partner-donates-assistive-equipment-to-disabled-persons/",
+  "title": "MINAS, Partner Donates Assistive Equipment",
+  "publisher": "The Post",
+  "published": "2026-01-11",
+  "sub_indicator": "accessibility",
+  "why": "Q3: assistive devices"
+ },
+ {
+  "url": "https://cmicjarc.com/en/",
+  "title": "CMICJARC inclusive multimedia center",
+  "publisher": "CJARC",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q3: ICT centre with MINPOSTEL support"
+ },
+ {
+  "url": "https://g3ict.org/country-profile/cameroon",
+  "title": "Cameroon country profile",
+  "publisher": "G3ict",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q2/Q4: DARE index"
+ },
+ {
+  "url": "https://armp.cm/details?id_publication=11002&type_publication=DC",
+  "title": "Avis de consultation appareillages",
+  "publisher": "ARMP",
+  "published": "2024-04-06",
+  "sub_indicator": "accessibility",
+  "why": "Q3: procurement of devices"
+ }
+]

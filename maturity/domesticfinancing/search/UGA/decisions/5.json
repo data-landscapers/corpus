@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "financing",
+ "aspect": "budget",
+ "fact": "UNDP reports government resource allocation to the Digital Transformation Roadmap rose from USD 67.1 million in 2023/24 to USD 80.5 million in 2024/25.",
+ "title": "UNDP Uganda Annual Report 2024",
+ "publisher": "UNDP Uganda",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

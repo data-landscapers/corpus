@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "accessibility",
+  "aspect": "rule",
+  "fact": "Kenya Standard KS 2952-1:2022 (first edition) sets functional accessibility requirements, including WCAG 2.1 AA for web pages, for ICT products and services usable in public procurement, issued in response to the 2019 National ICT Policy.",
+  "title": "Kenya Standard KS 2952-1:2022 Accessibility - ICT products and services, Part 1: Requirements",
+  "publisher": "Kenya Bureau of Standards",
+  "published": "2022",
+  "date_source": "source",
+  "why_not": ""
+}

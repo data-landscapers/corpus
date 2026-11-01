@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mocde.gov.gm/wp-content/uploads/2024/05/National-Digital-Economy-Masterplan.pdf",
+  "title": "National Digital Economy Master Plan 2024 - 2034",
+  "publisher": "Ministry of Communications and Digital Economy",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "text, period, delivery plan"
+ },
+ {
+  "url": "https://www.uneca.org/stories/gambian-national-digital-transformation-strategy",
+  "title": "Gambian National Digital Transformation Strategy",
+  "publisher": "UN Economic Commission for Africa",
+  "published": "2023-11-30",
+  "sub_indicator": "national",
+  "why": "standing: validated"
+ },
+ {
+  "url": "https://mocde.gov.gm/the-ministry-of-communications-and-digital-economy-in-collaboration-with-uneca-conducts-a-two-day-validation-workshop-on-digital-id-and-digital-transformation-strategy/",
+  "title": "Validation workshop on Digital ID and Digital Transformation Strategy",
+  "publisher": "Ministry of Communications and Digital Economy",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "standing, body"
+ },
+ {
+  "url": "https://policies.gov.gm/f/a5b0aeb7-80ce-11ef-b086-029254d29bb1",
+  "title": "Digital Transformation Strategy for The Gambia (Draft)",
+  "publisher": "Government Policy Repository",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "text published as draft"
+ },
+ {
+  "url": "https://repository.uneca.org/entities/publication/9a9cf6a0-e010-482c-a7c1-a1c35ad4a1e3",
+  "title": "Gambian National Digital Transformation Strategy",
+  "publisher": "UN Economic Commission for Africa",
+  "published": "2023-11-30",
+  "sub_indicator": "national",
+  "why": "standing"
+ },
+ {
+  "url": "https://gamna.gov.gm/mocde-highlights-strides-made-towards-growth-gambias-digital-economy",
+  "title": "MoCDE Highlights Strides Made Towards Growth of Gambia's Digital Economy",
+  "publisher": "GAMNA",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "reporting/activity"
+ },
+ {
+  "url": "https://mofea.gov.gm/wp-content/uploads/2024/12/Ministers-Final-Budget-Speech-2025-14th-Dec.pdf",
+  "title": "Minister's Budget Speech 2025",
+  "publisher": "Ministry of Finance and Economic Affairs",
+  "published": "2024-12-14",
+  "sub_indicator": "national",
+  "why": "budget tied to digital programmes"
+ },
+ {
+  "url": "https://mocde.gov.gm/downloads/",
+  "title": "Downloads - Ministry of Communications & Digital Economy",
+  "publisher": "Ministry of Communications and Digital Economy",
+  "published": "",
+  "sub_indicator": "national",
+  "why": "text listing: draft strategy"
+ }
+]

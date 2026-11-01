@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.gov.sz/images/justice/GAZETTES/Extra-Ord-No.-109---Persons-with-Disabilities.pdf",
+  "title": "The Persons with Disabilities Act, 2018",
+  "publisher": "Government of Eswatini",
+  "published": "2018",
+  "sub_indicator": "accessibility",
+  "why": "s.36 right to accessible ICT"
+ },
+ {
+  "url": "https://www.unicef.org/eswatini/media/1951/file/Eswatini_National_Disability_Plan_of_Action_2024-2028%20%28Final%29.pdf",
+  "title": "Eswatini National Disability Plan of Action 2024-2028",
+  "publisher": "Government of Eswatini / UNICEF",
+  "published": "2024",
+  "sub_indicator": "accessibility",
+  "why": "ICT accessibility standards planned"
+ },
+ {
+  "url": "https://uasf.esccom.org.sz/programmes/access-programmes/",
+  "title": "Access Programmes",
+  "publisher": "Universal Access Service Fund, ESCCOM",
+  "published": "2023-10-05",
+  "sub_indicator": "accessibility",
+  "why": "assistive devices delivered"
+ },
+ {
+  "url": "https://swazi24.com/22093/news/health/eswatini-receives-assistive-devices-for-learners-with-disabilities/",
+  "title": "Eswatini receives assistive devices for learners with disabilities",
+  "publisher": "Swazi24",
+  "published": "2025-08-18",
+  "sub_indicator": "accessibility",
+  "why": "devices received via UNICEF/EU"
+ },
+ {
+  "url": "https://www.adry.up.ac.za/images/adry/volume13_2025/Eswatini_Country_report_2025.pdf",
+  "title": "Eswatini Country report 2025",
+  "publisher": "African Disability Rights Yearbook",
+  "published": "2025",
+  "sub_indicator": "accessibility",
+  "why": "UASF assistive devices"
+ },
+ {
+  "url": "https://uasf.esccom.org.sz/media-hub/",
+  "title": "Media Hub",
+  "publisher": "Universal Access Service Fund, ESCCOM",
+  "published": "2023-10-09",
+  "sub_indicator": "accessibility",
+  "why": "procurement of assistive devices 2022/23"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-12/dra_report_eswatini.pdf",
+  "title": "Digital Readiness Assessment",
+  "publisher": "UNDP / MICT",
+  "published": "2024-12",
+  "sub_indicator": "accessibility",
+  "why": "recommends accessibility standards"
+ }
+]

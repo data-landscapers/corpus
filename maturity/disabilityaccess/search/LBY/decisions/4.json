@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "rule;audit",
+ "fact": "A survey of designers and observation of more than 20 government, bank and telecom platforms found the National Digital Accessibility Policy (adopted December 2024, six-year timeline 2025-2030) not generalised and the platforms lacking accessibility standards.",
+ "title": "Lack of Digital Accessibility and its Impact on Persons with Disabilities in Libya",
+ "publisher": "Alqalam Journal of Medical and Applied Sciences",
+ "published": "2026-09-23",
+ "date_source": "source",
+ "why_not": ""
+}

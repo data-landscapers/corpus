@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.unesco.org/ru/articles/assessing-internet-development-republic-congo",
+  "title": "Assessing Internet Development Republic of Congo",
+  "publisher": "UNESCO",
+  "published": "2026-04-23",
+  "sub_indicator": "accessibility",
+  "why": "Assessment notes barriers for persons with disabilities"
+ },
+ {
+  "url": "https://affaires-sociales.gouv.cg/2025/12/05/le-congo-a-celebre-la-journee-internationale-des-personnes-handicapees-sous-le-signe-de-linclusion/",
+  "title": "Le Congo a célébré la Journée Internationale des Personnes Handicapées",
+  "publisher": "Ministère des Affaires sociales",
+  "published": "2025-12-05",
+  "sub_indicator": "accessibility",
+  "why": "Mobility aids handed over; law 18/2025"
+ },
+ {
+  "url": "https://www.sgg.cg/textes-officiels/lois/2025/congo-loi-2025-18.pdf",
+  "title": "Loi n° 18-2025 du 25 juillet 2025 portant protection et promotion des droits de la personne vivant avec handicap",
+  "publisher": "Journal officiel / SGG",
+  "published": "2025-07-25",
+  "sub_indicator": "accessibility",
+  "why": "Rule in force: accessible information and digital technologies"
+ },
+ {
+  "url": "https://affaires-sociales.gouv.cg/2024/12/13/une-ere-nouvelle-pour-les-personnes-vivant-avec-handicap-au-congo/",
+  "title": "Une ère nouvelle pour les personnes vivant avec handicap au Congo",
+  "publisher": "Ministère des Affaires sociales",
+  "published": "2024-12-13",
+  "sub_indicator": "accessibility",
+  "why": "Forum; assistive technology plan; law under preparation"
+ },
+ {
+  "url": "https://www.adiac-congo.com/content/numerique-le-congo-veut-accelerer-la-connexion-de-ses-zones-enclavees-147297",
+  "title": "Numérique : le Congo veut accélérer la connexion de ses zones enclavées",
+  "publisher": "ADIAC",
+  "published": "2023-04-12",
+  "sub_indicator": "accessibility",
+  "why": "PATN beneficiaries incl. disabled"
+ },
+ {
+  "url": "https://g3ict.org/country-profile/congo-republic",
+  "title": "Congo, Republic - G3ict",
+  "publisher": "G3ict",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "ICT accessibility policy profile"
+ },
+ {
+  "url": "https://numerique.gouv.cg/accessibilite",
+  "title": "MPTEN - Accessibilité",
+  "publisher": "Ministère des Postes, Télécommunications et Économie Numérique",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Ministry site accessibility page"
+ }
+]

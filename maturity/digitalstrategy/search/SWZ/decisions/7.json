@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "governance;period",
+ "fact": "The World Bank's Digital Eswatini appraisal document of 8 June 2026 states the Government in Your Hand Digitalization Strategy (2024-2028) positions the Ministry of ICT as lead coordinator, with a new team at the Royal Science and Technology Park, and that implementation lacks clear roles and staffing.",
+ "title": "Project Appraisal Document (PAD): Digital Eswatini Project",
+ "publisher": "World Bank",
+ "published": "2026-06-08",
+ "date_source": "source",
+ "why_not": ""
+}

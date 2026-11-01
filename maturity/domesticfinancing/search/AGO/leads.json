@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://pti.ao/governo-reduz-verba-do-programa-de-expansao-e-modernizacao-das-comunicacoes/",
+  "title": "Governo reduz verba do programa de expansão e modernização das comunicações",
+  "publisher": "Portal de TI",
+  "published": "2025-12-19",
+  "sub_indicator": "financing",
+  "why": "OGE 2026 vs 2025 programme amount"
+ },
+ {
+  "url": "https://pti.ao/governo-aposta-fichas-nas-comunicacoes-e-tecnologias-de-informacao-com-injeccao-de-226-mil-milhoes-kz-no-sector/",
+  "title": "Governo aposta fichas nas comunicações e tecnologias de informação",
+  "publisher": "Portal de TI",
+  "published": "2025-01-21",
+  "sub_indicator": "financing",
+  "why": "OGE 2025 vs 2024 ICT allocation"
+ },
+ {
+  "url": "https://cms.minfin.gov.ao/api/assets/portal-minfin/c2c17bf5-e261-4c9f-84ac-e09a87e1bd97/",
+  "title": "OGE 2026 Dotação Orçamental por Programa",
+  "publisher": "MINFIN / SIGFE",
+  "published": "2025-12-19",
+  "sub_indicator": "financing",
+  "why": "programme line for communications expansion"
+ },
+ {
+  "url": "https://www.ucm.minfin.gov.ao/cs/groups/public/documents/document/aw41/mje2/~edisp/minfin5216784.pdf",
+  "title": "Lei do Orçamento Geral do Estado 2026, Diário da República",
+  "publisher": "Diário da República",
+  "published": "2025-12-30",
+  "sub_indicator": "financing",
+  "why": "budget law"
+ },
+ {
+  "url": "https://pti.ao/pr-aprova-investimento-de-150-milhoes-de-dolares-para-infra-estruturas-digitais-do-estado/",
+  "title": "PR aprova investimento de 150 milhões de dólares para infra-estruturas digitais do Estado",
+  "publisher": "Portal de TI",
+  "published": "2026-02-05",
+  "sub_indicator": "financing",
+  "why": "state-budget PIP project, Despacho 38/26"
+ },
+ {
+  "url": "https://ima.gov.ao/web/noticias/ima-e-tis-tech-angola-assinam-contrato-para-projecto-de-infra-estruturas-digitais-publicas",
+  "title": "IMA e TIS Tech Angola assinam contrato para Projecto de Infra-estruturas Digitais Públicas",
+  "publisher": "IMA",
+  "published": "2026-06-19",
+  "sub_indicator": "financing",
+  "why": "contract under OGE 2026"
+ },
+ {
+  "url": "https://zango.co.ao/index.php/2026/09/01/estado-investe-mais-de-210-milhoes-de-dolares-na-transformacao-digital-da-administracao-publica/",
+  "title": "Estado investe mais de 210 milhões de dólares na transformação digital da Administração Pública",
+  "publisher": "Zango/ANGOP",
+  "published": "2026-09-01",
+  "sub_indicator": "financing",
+  "why": "presidential decrees authorising digital spending"
+ }
+]

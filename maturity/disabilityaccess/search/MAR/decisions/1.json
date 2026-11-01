@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "audit",
+ "fact": "An institutional study of Moroccan administrations, reported 31 March 2026, found only 47.5% offer inclusive digital solutions and 26% have formal accessibility rules.",
+ "title": "Personnes en situation de handicap. Seules 25% des administrations marocaines sont inclusives",
+ "publisher": "le360",
+ "published": "2026-03-31",
+ "date_source": "source",
+ "why_not": ""
+}

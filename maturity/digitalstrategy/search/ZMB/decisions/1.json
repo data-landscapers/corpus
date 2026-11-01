@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "standing;text;period;plan;governance",
+ "fact": "The National Digital Transformation Strategy 2023-2027 is published as a public text with five pillars, an implementation framework and results framework with 2026 targets, coordinated by the Ministry of Technology and Science and financed mainly by budget allocation.",
+ "title": "National Digital Transformation Strategy 2023-2027",
+ "publisher": "Republic of Zambia",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

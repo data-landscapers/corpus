@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://gate.ahram.org.eg/News/5882651.aspx",
+  "title": "الاتصالات تُطلق مجموعة من أدوات الإتاحة المتطورة على موقعها الرسمي لتعزيز الشمول الرقمي",
+  "publisher": "بوابة الأهرام",
+  "published": "2026-08-04",
+  "sub_indicator": "accessibility",
+  "why": "Q3 delivered - accessibility tools on ministry site under presidential initiative"
+ },
+ {
+  "url": "https://gate.ahram.org.eg/News/4339350.aspx",
+  "title": "إيمان كريم تستعرض جهود مصر في مجال انتفاع الأشخاص ذوي الإعاقة بالوسائل الرقمية بالأمم المتحدة",
+  "publisher": "بوابة الأهرام",
+  "published": "2023-06-22",
+  "sub_indicator": "accessibility",
+  "why": "Q1/Q2 under way, rule in force - Law 10/2018 ICT access; national tech empowerment strategy in preparation"
+ },
+ {
+  "url": "https://www.tra.gov.eg/ar/%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%8A%D8%B5%D8%AF%D8%B1-%D9%82/",
+  "title": "الجهاز القومي لتنظيم الاتصالات يصدر قواعد تقديم خدمات الاتصالات للمستخدمين من ذوي الهمم",
+  "publisher": "National Telecom Regulatory Authority",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q2 rule in force - NTRA rules on accessible telecom services and websites"
+ },
+ {
+  "url": "https://mcit.gov.eg/ar/Digital_Citizenship/NAID",
+  "title": "الأكاديمية الوطنية لتكنولوجيا المعلومات للأشخاص ذوي الإعاقة",
+  "publisher": "Ministry of Communications and Information Technology",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q3 delivered - assistive technology centre and technical centre services"
+ },
+ {
+  "url": "https://sjdr.se/articles/10.16993/sjdr.1357",
+  "title": "The Evolution of Legislative Policy on the Rights of Persons with Disabilities in Egypt",
+  "publisher": "Scandinavian Journal of Disability Research",
+  "published": "2025-08-24",
+  "sub_indicator": "accessibility",
+  "why": "Q2 rule in force - Law 10/2018 accessibility provisions"
+ },
+ {
+  "url": "https://doi.org/10.21608/jsos.2025.418136.1797",
+  "title": "إمكانية الوصول الرقمي في المواقع الحكومية: دراسة مقارنة مصر وألمانيا",
+  "publisher": "Journal",
+  "published": "2025-09-20",
+  "sub_indicator": "accessibility",
+  "why": "Q4 audited - WCAG test of Egyptian government websites"
+ },
+ {
+  "url": "https://doi.org/10.21608/ijlis.2025.371248.1285",
+  "title": "Web Accessibility of Egyptian Academic Libraries' Websites: WCAG 2.2",
+  "publisher": "Journal",
+  "published": "2025-09-17",
+  "sub_indicator": "accessibility",
+  "why": "Q4 audited - WCAG 2.2 evaluation of university library sites"
+ },
+ {
+  "url": "https://g3ict.org/country-profile/egypt-arab-republic-of",
+  "title": "Egypt, Arab Republic of - G3ict country profile",
+  "publisher": "G3ict",
+  "published": "",
+  "sub_indicator": "accessibility",
+  "why": "Q2/Q4 - ICT accessibility law and implementation scores"
+ }
+]

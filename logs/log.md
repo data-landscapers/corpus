@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-01 03:54 · **REBUILD** · 14m · domesticfinancing financing: 2 cells reassessed, 2 moved; 54 searched, 79 staged; 52.6M tokens (third of a shared window) - ok
+2026-11-01 03:54 · **REBUILD** · 14m · disabilityaccess accessibility: 54 cells reassessed, 2 moved; 54 searched, 110 staged; 52.6M tokens (third of a shared window) - ok
+2026-11-01 03:54 · **REBUILD** · 14m · digitalstrategy national: 4 cells reassessed, 2 moved; 54 searched, 90 staged; 52.6M tokens (third of a shared window) - ok
 2026-11-01 03:40 · **BUILD** · 2h09m · catalogue 35,879; 432 sources, 41 moved, 151 minted, 94 status revised; data centres 27 read, 17 changed; maturity 562 facts, 54 reassessed, 30 moved; bulletin 15, monthly 42; finance 0 waiting; register 9; prose gate 66 fixed - ok
 2026-10-31 01:55 · **INDEX** · 1m · research index: 78 added or changed, 1 removed, 646 chunks, 0.8 min - ok
 2026-10-31 01:48 · **RENDER** · 26m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; prune declined on a 401 from the download record, 1 edition pruned; 1,649 objects to R2; deployed 7b477fc - ok

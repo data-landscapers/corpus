@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf",
+  "title": "Ley Número 9/2025 de los Presupuestos Generales del Estado, Ejercicio 2026",
+  "publisher": "República de Guinea Ecuatorial",
+  "published": "2025-12-09",
+  "sub_indicator": "financing",
+  "why": "Budget allocation: section 51 Transportes, Telecomunicaciones y Sistema de IA, 2026 vs 2025"
+ },
+ {
+  "url": "https://ortelge.com/wp-content/uploads/2024/03/LEY-PGE-2024-1.pdf",
+  "title": "Ley Número 3/2023 de los Presupuestos Generales del Estado, Ejercicio 2024",
+  "publisher": "República de Guinea Ecuatorial",
+  "published": "2023-12-06",
+  "sub_indicator": "financing",
+  "why": "Budget allocation 2024 telecom lines"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/continuan_las_comparecencias_de_los_miembros_del_gobierno_en_la_comision_parlamentaria_que_analiza_los_presupuestos_generales",
+  "title": "Continúan las comparecencias de los miembros del Gobierno en la comisión parlamentaria",
+  "publisher": "Guinea Ecuatorial Press (Gobierno)",
+  "published": "2026-10-08",
+  "sub_indicator": "financing",
+  "why": "2027 budget hearing digital items"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/adopcion_de_los_presupuestos_de_ortel_y_la_paz_de_bata",
+  "title": "Adopción de los presupuestos de ORTEL",
+  "publisher": "Guinea Ecuatorial Press (Gobierno)",
+  "published": "2024-11-05",
+  "sub_indicator": "financing",
+  "why": "ORTEL budget 2025"
+ },
+ {
+  "url": "https://diariobata.com/gecotel-reclama-inversiones-para-mejorar-su-eficiencia-y-preve-gastos-de-mas-de-2-477-millones-de-francos-cfa-en-2027/",
+  "title": "GECOTEL reclama inversiones y prevé gastos de más de 2.477 millones de francos CFA en 2027",
+  "publisher": "Diario Bata",
+  "published": "2026-10-11",
+  "sub_indicator": "financing",
+  "why": "2027 budget for e-government centre"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/camara_de_diputados_presentacion_de_los_presupuestos_generales_del_estado_2027",
+  "title": "Presentación de los Presupuestos Generales del Estado 2027",
+  "publisher": "Guinea Ecuatorial Press (Gobierno)",
+  "published": "2026-09-24",
+  "sub_indicator": "financing",
+  "why": "2027 budget presentation"
+ }
+]

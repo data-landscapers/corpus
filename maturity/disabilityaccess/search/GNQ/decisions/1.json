@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "accessibility",
+ "aspect": "audit",
+ "fact": "An audit of 63 Equatorial Guinea websites against WCAG 2.0 with Siteimprove found most do not comply.",
+ "title": "Accesibilidad web en Guinea Ecuatorial: Evaluación de la accesibilidad de los sitios webs del gobierno y los actores sociales",
+ "publisher": "Nso-Mangue, P. and Luján-Mora, S. (Zenodo)",
+ "published": "2023-06-28",
+ "date_source": "source",
+ "why_not": ""
+}

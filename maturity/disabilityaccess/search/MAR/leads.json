@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://fr.le360.ma/societe/personnes-en-situation-de-handicap-seules-25-des-administrations-marocaines-sont-inclusives-le_IH7JZFEDLJHUTK5V2MM3YSNIFY/",
+  "title": "Seules 25% des administrations marocaines sont inclusives",
+  "publisher": "le360",
+  "published": "2026-03-31",
+  "sub_indicator": "accessibility",
+  "why": "Institutional survey incl. digital inclusion of administrations (audit)"
+ },
+ {
+  "url": "https://www.leconomiste.com/1132017-inclusion-numerique-une-strategie-nationale-de-l-accessibilite-amorcee/",
+  "title": "Inclusion numérique: Une stratégie nationale de l'accessibilité amorcée",
+  "publisher": "L'Economiste",
+  "published": "2025-02-18",
+  "sub_indicator": "accessibility",
+  "why": "National digital accessibility strategy started (underway)"
+ },
+ {
+  "url": "https://www.lematin.ma/nation/services-publics-numeriques-le-maroc-avance-mais-le-peloton-seloigne/277880",
+  "title": "Services publics numériques : le Maroc avance, mais le peloton s'éloigne",
+  "publisher": "Le Matin",
+  "published": "2025-05-06",
+  "sub_indicator": "accessibility",
+  "why": "Low WCAG conformance of public services"
+ },
+ {
+  "url": "https://doi.org/10.11591/ijict.v14i1.pp77-90",
+  "title": "Factors influencing the integration of web accessibility in Moroccan public e-services",
+  "publisher": "IJICT",
+  "published": "2024-12-22",
+  "sub_indicator": "accessibility",
+  "why": "No legal framework or guidelines for web accessibility"
+ },
+ {
+  "url": "https://www.unescwa.org/news/concepts-and-policies-digital-accessibility-morocco",
+  "title": "Concepts and policies of digital accessibility in Morocco",
+  "publisher": "UN ESCWA",
+  "published": "2024-08-08",
+  "sub_indicator": "accessibility",
+  "why": "National e-accessibility plan being developed with ADD"
+ },
+ {
+  "url": "https://espace2.etsmtl.ca/id/eprint/30430/1/Abran-A-2024-30430.pdf",
+  "title": "Accessibility evaluation of five Moroccan e-government portals",
+  "publisher": "ETS Montréal",
+  "published": "2024",
+  "sub_indicator": "accessibility",
+  "why": "Audit of portals against WCAG"
+ },
+ {
+  "url": "https://cnej.ma/uploads/documentActualite/66f45611e2807.pdf",
+  "title": "المغرب الرقمي 2030",
+  "publisher": "Ministère de la Transition Numérique",
+  "published": "2024",
+  "sub_indicator": "accessibility",
+  "why": "Strategy measure: services usable by persons with disabilities"
+ },
+ {
+  "url": "https://aujourdhui.ma/societe/un-referentiel-sur-laccessibilite-web-en-cours-delaboration",
+  "title": "Un référentiel sur l'accessibilité web en cours d'élaboration",
+  "publisher": "Aujourd'hui le Maroc",
+  "published": "2023-04-06",
+  "sub_indicator": "accessibility",
+  "why": "National web accessibility reference being drafted"
+ }
+]

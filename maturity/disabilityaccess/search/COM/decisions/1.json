@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "accessibility",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: accessibility statement carries no date in the fetched text; Exa stamp is a live-page date, not an imprint"
+}

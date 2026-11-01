@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf",
+  "title": "Loi de finances n°25/060 du 29 décembre 2025",
+  "publisher": "Ministère du Budget, RDC",
+  "published": "2025-12-29",
+  "sub_indicator": "financing",
+  "why": "Q2/Q3: 2026 budget expenditures"
+ },
+ {
+  "url": "https://budget.gouv.cd/wp-content/uploads/budget2026/plf2026/document_num_7_cbmt_26_28.pdf",
+  "title": "Cadre budgétaire à moyen terme 2026-2028",
+  "publisher": "Ministère du Budget, RDC",
+  "published": "2025",
+  "sub_indicator": "financing",
+  "why": "Q2: digital programmes budgeted 2026-2028"
+ },
+ {
+  "url": "https://numerico.cd/2025/10/10/rdc-ladn-presente-le-bilan-de-la-mise-en-oeuvre-du-plan-national-du-numerique-horizon-2025/",
+  "title": "L'ADN présente le bilan du PNN Horizon 2025",
+  "publisher": "Numerico",
+  "published": "2025-10-10",
+  "sub_indicator": "financing",
+  "why": "Q1/Q4: Treasury financing deficit; $1bn treasury pledge"
+ },
+ {
+  "url": "https://actualite.cd/index.php/2025/12/28/rdc-la-loi-de-reddition-des-comptes-2024-promulguee-sur-fond-de-surconsommations",
+  "title": "Loi de reddition des comptes 2024 promulguée",
+  "publisher": "Actualite.cd",
+  "published": "2025-12-28",
+  "sub_indicator": "financing",
+  "why": "Q5: 2024 execution"
+ },
+ {
+  "url": "https://courdescomptes.cd/wp-content/uploads/2026/01/RAPPORT-GENERAL-2024-1.pdf",
+  "title": "Rapport général sur le contrôle de l'exécution de la loi de finances 2024",
+  "publisher": "Cour des comptes",
+  "published": "2025",
+  "sub_indicator": "financing",
+  "why": "Q5: audited 2024 execution"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099110325064528000/pdf/P180495-98d264b4-d6be-4959-8f1f-7cae4c909c9b.pdf",
+  "title": "Aide-mémoire Mission d'appui PTN RDC, juillet 2025",
+  "publisher": "World Bank Group",
+  "published": "2025-07",
+  "sub_indicator": "financing",
+  "why": "Q4: FDSU activities, donor financing"
+ },
+ {
+  "url": "https://www.leganet.cd/Legislation/Droit%20Public/EPub/Decret.22.51.30.12.2022.html",
+  "title": "Décret n°22/51 du 30 décembre 2022 portant création du FDSU",
+  "publisher": "République démocratique du Congo",
+  "published": "2022-12-30",
+  "sub_indicator": "financing",
+  "why": "Q4: FDSU funded by 3% levy"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20240412-rdc-les-zones-d%C3%A9favoris%C3%A9es-dans-l-attente-d-investissement-de-l-%C3%A9tat-dans-les-t%C3%A9l%C3%A9coms",
+  "title": "RDC : les zones défavorisées dans l'attente d'investissement de l'État dans les télécoms",
+  "publisher": "RFI",
+  "published": "2024-04-12",
+  "sub_indicator": "financing",
+  "why": "Q4: USF levy diverted to treasury since 2008"
+ }
+]
