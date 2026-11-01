@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "no evidence",
-   "exchange": "",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names health systems exchanging data, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001",
+      "gaps": "No source found shows three or more health systems exchanging data: the vaccination register and medicines system are named as integrated in DHIS2 or interoperable with it, not which. No national health identifier linking records is reported.",
+      "note": "Stage 3: in October 2026 the health ministry said DHIS2 works with the electronic vaccination register and the medicines management system in routine use (COM-001). Whether these are modules of DHIS2 or separate systems exchanging with it is not stated, so three-way exchange, and stage 4, is not shown.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

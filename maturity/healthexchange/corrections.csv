@@ -1,2 +1,3 @@
 iso3,n,aspect,value,action,why
 CIV,002,identifier,linked,removed,"First pass: a decree naming the health identifier, not records linked in service"
+COM,002,breadth,wide,removed,4c: DHIS2 named with the vaccination register and medicines system as integrated or interoperable; modules inside DHIS2 are not three systems exchanging

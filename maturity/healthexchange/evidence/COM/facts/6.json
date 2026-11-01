@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-30-com-lagazette-sante-et-numerique-onze-projets",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The health ministry's statistics directorate told a 27 October 2026 meeting that DHIS2 has the electronic vaccination register and the medicines and inputs management system integrated or interoperable with it.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "breadth",
+   "value": "wide",
+   "fact": "DHIS2, the electronic vaccination register and the medicines and inputs management system are named together as integrated or interoperable.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "",
+   "class": "exchange"
+  },
+  {
+   "system": "Electronic vaccination register",
+   "country_label": "Electronic vaccination register",
+   "platform": "",
+   "owner": "",
+   "tiers": "",
+   "class": "other"
+  },
+  {
+   "system": "Medicines and inputs management system",
+   "country_label": "Medicines and inputs management system",
+   "platform": "",
+   "owner": "",
+   "tiers": "",
+   "class": "other"
+  }
+ ],
+ "note": ""
+}

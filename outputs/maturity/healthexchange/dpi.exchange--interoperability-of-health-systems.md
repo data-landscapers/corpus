@@ -22,11 +22,11 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 5 |
-| 3 Established | 18 |
+| 3 Established | 19 |
 | 2 Nascent | 19 |
 | 1 Absent | 2 |
 | Unplaced | 0 |
-| No evidence | 9 |
+| No evidence | 8 |
 
 ## Countries
 
@@ -80,6 +80,12 @@ Two health systems exchanged data in 2026; no source found reports exchange acro
 Two health systems exchanged data in 2026; no source found reports exchange across the health system.
 
 - HISP Rwanda says clinical data collected in the e-SENI hospital EMR is automatically structured and integrated into national health information systems, including DHIS2-powered platforms, with a central EMR server synchronising data from facilities ([source, 2026-03-18](https://hisprwanda.org/hisp-emr-digitizing-hospital-care-in-the-central-african-republic/)).
+
+### Comoros: 3 Established
+
+DHIS2 worked with the vaccination register and medicines system in 2026; whether three systems exchange data is not known.
+
+- The health ministry's statistics directorate told a 27 October 2026 meeting that DHIS2 has the electronic vaccination register and the medicines and inputs management system integrated or interoperable with it ([source, 2026-10-27](https://www.lagazettedescomores.com/sant%C3%A9/sant%C3%A9-et-num%C3%A9rique-onze-projets-pour-acc%C3%A9l%C3%A9rer-la-transformation-du-syst%C3%A8me-sanitaire-.html)).
 
 ### Cote d'Ivoire: 3 Established
 
@@ -316,12 +322,6 @@ A 2026 source says the country's health systems do not exchange data.
 - At the policy launch the health minister said many systems still operate in isolation, giving the example that a system managing HIV services may not connect with patient records or pharmaceutical supply systems ([source, 2026-02-06](https://www.afro.who.int/countries/namibia/news/namibia-launches-national-digital-health-policy-advance-equitable-people-centred-healthcare)).
 
 ### Benin: No evidence
-
-Nothing found names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing found names health systems exchanging data, or says there is none.
-
-### Comoros: No evidence
 
 Nothing found names health systems exchanging data or says there is none, so no stage is set.
 
