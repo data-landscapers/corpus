@@ -56,10 +56,13 @@ def in_window(t: dt.time) -> bool:
 
 
 def open_claude(title: str, prompt: str) -> None:
-    """A new tab in the main Terminal window, running an interactive session on `prompt`."""
+    """A new tab in the main Terminal window, running an interactive session on `prompt`.
+
+    The session name carries the start time, so /resume tells one night's cycle from another."""
+    name = f"{title.lower()}-{dt.datetime.now():%m%d-%H%M}"
     subprocess.Popen(["wt.exe", "-w", "main", "new-tab", "--title", title, "-d", ROOT,
                       "pwsh", "-NoExit", "-Command",
-                      f"claude -n {title.lower()} --dangerously-skip-permissions '{prompt}'"])
+                      f"claude -n {name} --dangerously-skip-permissions '{prompt}'"])
 
 
 def alert(kind: str, line: str) -> None:
