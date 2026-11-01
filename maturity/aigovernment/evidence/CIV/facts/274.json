@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-17-civ-journee-mondiale-des-competences-des-jeunes-51601-jeunes-formes-aux-me",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "A youth ministry adviser said that at the early-2025 launch of the national apprenticeship placement programme the ministry presented a new digital platform that will be helped by AI to process CVs in recruiting young people and job seekers.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "national apprenticeship placement platform",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national apprenticeship placement platform",
+   "country_label": "Cote d'Ivoire",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Youth Promotion, Professional Integration and Civic Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
