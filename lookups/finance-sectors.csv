@@ -1,6 +1,6 @@
 sector_id,cofog,label,definition
 exec,01.1,Executive and legislature,"Presidency, prime minister, cabinet and government secretariat, parliament, and oversight bodies (audit, ombudsman, anti-corruption, electoral commission)."
-finance,01.1,"Finance, revenue and planning","Finance, budget, treasury, tax and customs administration, economic planning and public investment, state portfolio."
+finance,01.1,"Finance, revenue and financial services","Finance, budget, treasury, tax and customs administration, economic planning and public investment, state portfolio; and the financial sector: central banks, banks, payment providers and fintech firms."
 foreign,01.1,Foreign affairs,"Foreign affairs, diplomatic missions and regional integration ministries."
 publicservice,01.3,Public service and administration,"Civil service management, public-sector HR and pensions, administrative reform and modernisation, central government services."
 statistics,01.3,National statistics office,The national statistics office or bureau as a vote of its own; statistics units inside a ministry take that ministry's sector.
@@ -13,7 +13,7 @@ trade,04.1,"Trade, industry, labour and tourism","Trade, commerce, industry, inv
 agriculture,04.2,"Agriculture, fisheries and rural development","Agriculture, livestock, fisheries and blue economy, irrigation, food security and rural development."
 energy,04.3,"Energy, mining and petroleum","Energy and power, mines, petroleum and solid minerals."
 transport,04.5,Transport and public works,"Transport, aviation, maritime, roads and public works, national infrastructure and construction."
-digital,04.6,"Digital, ICT and telecoms","Ministries, agencies and funds for ICT, the digital economy, telecommunications and posts, including the communications regulator, universal-service funds and the data-protection authority."
+digital,04.6,"Digital, ICT and telecoms","Ministries, agencies and funds for ICT, the digital economy, telecommunications and posts, including the communications regulator, universal-service funds and the data-protection authority; and the digital sector itself: telecom operators, tower and data-centre companies, tech firms and the funds that invest in them."
 environment,05,Environment,"Environment, climate, forestry and sanitation."
 housing,06,"Housing, land, water and urban development","Housing, lands and land registry, urban planning, spatial planning, water supply."
 health,07,Health,"Health ministries, hospitals, health insurance and public health agencies."
