@@ -83,7 +83,13 @@ BOT_UA = re.compile(r"bot|crawl|spider|slurp|fetch|scan|preview|python|curl|wget
                     r"java/|okhttp|axios|headless|httpclient|libwww|monitor|uptime", re.I)
 CLOUD_ASN = re.compile(r"google|amazon|microsoft|tencent|alibaba|huawei|leaseweb|constant|"
                        r"latitude|hostroyale|digitalocean|ovh|hetzner|linode|akamai|oracle|"
-                       r"cloudflare|contabo|vultr|m247|datacamp|hostinger|scaleway", re.I)
+                       r"cloudflare|contabo|vultr|m247|datacamp|hostinger|scaleway|"
+                       # Hosting and proxy networks seen sending the beacon (2026-11-01): a
+                       # scraper that renders pages runs the beacon too. VPNs and corporate
+                       # gateways (Proton, Forcepoint) stay out — people browse through them.
+                       r"hostpapa|oxylabs|frantech|logicweb|zenlayer|sprious|byteplus|"
+                       r"blazing seo|fastly|advin|g-core|tzulo|psychz|trafficforce|"
+                       r"data cent(?:er|re)|\bIDC\b", re.I)
 SCANNER_404S = 20
 CLASSES = ("person", "unknown", "bot", "cloud", "scanner", "own")
 # Bill's own networks, as address prefixes one a line, kept beside the database rather than in
