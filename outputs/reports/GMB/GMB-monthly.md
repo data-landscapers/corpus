@@ -1,162 +1,34 @@
 ---
-title: Gambia — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+title: Gambia — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: GMB
-ledger_rows: 50
+ledger_rows: 11
 not_held: 2
-record: 2bcaf933d315
+record: 4d183df5ce96
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
-<a href="#governance">Governance</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#capacity">Capacity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#geopolitics">Geopolitics</a>
 </nav>
-
-## Governance
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
-<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#legislation-and-regulation">Legislation and regulation</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#standards">Standards</a>
-</nav>
-
-### Strategies, plans and policies
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Science, technology and innovation policy 2027-2035</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[MOHERST moves to strengthen science, technology and innovation](https://standard.gm/moherst-moves-to-strengthen-science-technology-and-innovation/)** — The Standard Newspaper (Gambia), 3 September 2026
-
-The Gambia's Ministry of Higher Education, Research, Science and Technology held a validation workshop on the draft National Science, Technology and Innovation Policy 2027–2035 and the STI Bill 2026. Minister Pierre Gomez said none of the previous policy's 12 core objectives was fully met; the new one proposes an STI secretariat and a National Research and Innovation Fund.
-
-</div>
-
-</div>
-
-### Legislation and regulation
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Competition and Consumer Protection Commission Bill 2026</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Parliament Commits Bill to Prohibit Anti-Competitive Practices - Mansa Banko Online](https://mansabanko.gm/parliament-commits-bill-to-prohibit-anti-competitive-practices/)** — Mansa Banko Online, 15 September 2026
-
-The Gambia's National Assembly took the Competition and Consumer Protection Commission Bill 2026 through second reading on 15 September and sent it to committee. Tabled by trade minister Mod K. Ceesay, it replaces the 2007 competition and 2014 consumer protection Acts, creates an independent commission with powers to investigate and impose penalties, and extends consumer protection to distance selling and digital content.
-
-</div>
-
-</div>
-
-### Standards
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">The Gambia Standards Bureau</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[ISO - TGSB - The Gambia Standards Bureau](https://www.iso.org/member/576505.html)** — International Organization for Standardization, 3 September 2026
-
-The Gambia Standards Bureau holds Correspondent, non-voting status at the international standards and electrotechnical organisations, and is the country's technical-barriers enquiry point. A correspondent member may adopt standards; it does not help make them.
-
-</div>
-
-</div>
 
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 </nav>
-
-### Connectivity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Nine-digit mobile numbering plan</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[The Gambia National Numbering Plan Migration Governance and Go-Live Framework, 2026](https://pura.gm/wp-content/uploads/2026/09/The-Gambia-National-Numbering-Plan-Migration-Governance-and-Go-Live-framework-2026-1-1.pdf)** — Public Utilities Regulatory Authority (PURA), The Gambia, 3 September 2026
-
-The Gambia's Public Utilities Regulatory Authority adopted on 3 September 2026 a framework governing the switch of phone numbers from seven to nine digits under the National Numbering Plan 2026. It sets up a migration control centre within the regulator, eight readiness checks that default to no-go, and decision stages from go to rollback, with the final decision left to the Director General.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[The Gambia National Numbering Plan, 2026](https://pura.gm/wp-content/uploads/2026/09/scan0001_compressed.pdf)** — Public Utilities Regulatory Authority (PURA), The Gambia, 3 September 2026
-
-The Gambia's Public Utilities Regulatory Authority adopted the National Numbering Plan, 2026 on 3 September 2026, effective the same day under the Information and Communications Act, 2009. It sets a nine-digit structure for numbers under country code +220 and brings short codes, emergency numbers and USSD codes under the regulator. A separate framework governs migration from seven-digit numbers.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Africell begins major numbering update](https://standard.gm/africell-begins-major-numbering-update/)** — The Standard, 4 September 2026
-
-Africell Gambia's chief executive Hussein Diab Ghanem said on 4 September 2026 that the country's move to a new numbering system will raise national capacity to about 100 million numbers, with Africell subscribers getting the prefix 87. Old and new numbers will run in parallel at first, and an app feature will update saved contacts.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gamcel to join the 9-digits migration in second phase](https://standard.gm/gamcel-to-join-the-9-digits-migration-in-second-phase/)** — The Standard, 7 September 2026
-
-Three Gambian operators moved to nine-digit mobile numbers at midnight, with the fourth to follow in a second phase on a reserved prefix, the regulator confirmed.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gambia opens new chapter in digital growth with nine-digit numbering system](https://thepoint.gm/africa/gambia/headlines/gambia-opens-new-chapter-in-digital-growth-with-nine-digit-numbering-system)** — The Point, 9 September 2026
-
-The Gambia's regulator PURA has moved telephone numbers from seven to nine digits, with old and new numbers running in parallel until the seven-digit format is retired on 28 February 2027. PURA worked with Meta and the ITU so systems abroad recognise the new format, and monitored Africell, QCell and Comium networks during the switch.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">International capacity on the ACE submarine cable</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Profile – GAMTEL](https://gamtel.gm/about-us/)** — Gambia Telecommunications Company Limited (GAMTEL), 21 September 2026
-
-The Gambian state operator's undated company profile. It says Gamtel has four international gateways on the ACE submarine cable giving 25 Gbps, and a 28 Gbps backup link through Senegal's Free that traffic switches to if ACE fails.
-
-</div>
-
-</div>
 
 ### Data Storage
 
@@ -180,8 +52,6 @@ Gambian operator GAMTEL offers ISPs and small businesses space for servers and n
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
@@ -228,28 +98,6 @@ An opinion piece argues that the Gambia's contract with Securiport for civil-avi
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">National Land Administration System and Land Information System</p>
-
-<div class="bulletin-item" markdown="1">
-
-**['Land Disputes Consume Major Share of Gambia's Judicial Resources,' reveals Minister Bah](https://www.voicegambia.com/land-disputes-consume-major-share-of-gambias-judicial-resources-reveals-minister-bah/)** — The Voice Gambia, 4 September 2026
-
-The Gambia's lands minister, Hamat N.K. Bah, said on 4 September 2026 that World Bank-supported consultants are building a Land Information System to hold digital records of all landholdings, with a draft due by the end of September. He said land disputes make up about 62% of court cases, and a dedicated land High Court is being set up.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gov't promises 3-day land lease under new digital system](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system)** — The Point, 23 September 2026
-
-The Gambia's Lands Minister told the National Assembly that lease documents will be issued within three days once the ministry's World Bank-supported digital system is fully running, with contracts already awarded. The ministry is clearing about 50 lease files a week from a backlog in which some had waited three to five years.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Supplementary voter registration records</p>
 
 <div class="bulletin-item" markdown="1">
@@ -270,87 +118,7 @@ The Gambia's electoral commission will give parties the final voter register, co
 
 </div>
 
-### Sectoral management information systems
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Red Cross Volunteer and Membership Management System</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GRCS launches digital system to professionalise volunteer, membership management](https://standard.gm/grcs-launches-digital-system-to-professionalise-volunteer-membership-management/)** — The Standard, 2 September 2026
-
-The Gambia Red Cross Society launched a digital Volunteer and Membership Management System at its Kanifing headquarters on 31 August 2026, replacing branch paper registers. It handles registration, profiling, branch assignment, validation and deployment of volunteers, which officials say cuts mobilisation from days to minutes. No cost, supplier or volunteer count is given.
-
-</div>
-
-</div>
-
 ### Other GovTech and e-Gov
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">MyGov digital services platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gov't steps up to tackle ID card, passport delays](https://thepoint.gm/africa/gambia/headlines/govt-steps-up-to-tackle-id-card-passport-delays)** — The Point, 1 September 2026
-
-The Gambia's Ministry of Public Service said on 28 August it has cut steps from ID card and passport procedures and built their workflows into the MyGov platform, developed with JICA and partners in Bangladesh. MyGov has not launched because of contractual issues over passport issuance; rollout is hoped for before the end of 2026. A mass registration drive, including mobile teams in Spain and Italy, is issuing 10-year ID cards.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Objections to the supplementary voter roll</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GAMBIA: IEC Revising Courts Open Voter Register Disputes as Election Credibility Comes Under Scrutiny](https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/)** — Askani Gambia, 3 September 2026
-
-Revising courts set up by The Gambia's Chief Justice began hearing objections to the 2026 supplementary voter registration, the Independent Electoral Commission said on 31 August 2026. Hearings in nine magistrates' courts are due to finish within 60 days. The Commission received about 1,600 objections and earlier deleted 14,334 duplicate registrations ahead of the 5 December presidential election.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Gambia Revenue Authority revenue collection dashboard</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[GRA and Liberia Revenue Authority sign deal to deepen digital cooperation](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)** — The Point, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
-
-The Gambian account of the Liberia–Gambia revenue dashboard agreement, summarised under the GNN Liberia report. It adds that the LRA pays the expert's airfare while the GRA covers lodging and local transport.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[LRA to Provide Technical Support for Gambia’s Revenue Collection Dashboard](https://gnnliberia.com/lra-to-provide-technical-support-for-gambias-revenue-collection-dashboard/)** — Global News Network Liberia, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
-
-The Liberia Revenue Authority signed a memorandum of engagement to help the Gambia Revenue Authority build a dashboard that tracks revenue collection; it was announced from Accra on 20 September 2026 and signed during meetings of the West African Tax Administration Forum. The help covers a review of GRA's data sources, choice of indicators, design, a prototype, integration and staff training. The LRA will send the developer of its own dashboard to Banjul for an initial three weeks.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Duty Waiver Application System</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gov’t promises duty waiver decision in 72 hrs with new digital system](https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system)** — The Point, 30 September 2026
-
-The Gambia's finance ministry, with the Gambia Revenue Authority and the Gambia National Single Window, introduced a digital Duty Waiver Application System that replaces a paper process. Applicants are promised a decision within 72 hours when all requirements are met, with SMS updates.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -375,6 +143,20 @@ The Gambia began issuing a biometric driving licence valid for three years on 7 
 **[GPPA trains procurement cadre on new act, regulations & standard documents](https://thepoint.gm/africa/gambia/national-news/gppa-trains-procurement-cadre-on-new-act-regulations-and-standard-documents)** — The Point, 8 October 2026
 
 The Gambia Public Procurement Authority held training from 8 to 10 October 2026 for procurement officers on the Public Procurement Act 2022, the 2024 Regulations, new standard documents and the rollout of the electronic government procurement system. Officials said use of the new instruments becomes mandatory from January 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">InTouch revenue-monitoring partnership with the Gambia Revenue Authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegalese Fintech InTouch Signs 10-Year Partnership With Gambia To Strengthen Tax Revenue Collection](https://gambiaj.com/economy/finance/senegalese-fintech-intouch-signs-10-year-partnership-with-gambia-to-strengthen-tax-revenue-collection/)** — The Gambia Journal, 31 October 2026
+
+The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year agreement with Senegalese fintech InTouch on 30 October 2026, after an international tender with three bidders. InTouch will run a platform that monitors transactions and processes government payments, giving the state real-time revenue data. Online gaming is the first sector targeted.
 
 </div>
 
@@ -411,42 +193,6 @@ The Gambia scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 **[UNDP Launches e-Monitor Plus Platform to Safeguard Electoral Information Integrity in The Gambia — Askanwi](https://www.askanwi.com/news/undp-launches-e-monitor-plus-platform-to-safeguard-electoral-information-integrity-in-the-gambia)** — Askanwi, 18 October 2026
 
 UNDP and The Gambia's Independent Electoral Commission launched e-Monitor Plus at Kololi on 13-15 October 2026, a platform pairing AI with human checking to track online misinformation, disinformation and hate speech before the 5 December 2026 presidential election. Civil society speakers warned that monitoring must not turn into censorship.
-
-</div>
-
-</div>
-
-## Capacity
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
-<a href="#training-and-skills">Training and skills</a>
-</nav>
-
-### Training and skills
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">University ICT provision</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Information, Technology & Communications – University Of The Gambia](https://www.utg.edu.gm/schools-faculties/itc/)** — University of The Gambia, 3 September 2026
-
-The University of The Gambia's technology school offers three bachelor's degrees plus six-month diplomas in artificial intelligence, cybersecurity and data science. It is the widest named domestic provision the repository holds for the country.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Labour Digital Skill programme</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[MoTIE Signs MoUs to Boost Digital Labour Skills](https://newglobalmedia.net/motie-signs-mous-to-boost-digital-labour-skills/)** — New Global Media, 29 September 2026
-
-The Gambia's trade and employment ministry signed memoranda of understanding with the University of Applied Science, Engineering and Technology, the Civil Service University and the Indian Institute of Hardware Technology Gambia to deliver digital skills training under the World Bank-backed WARDIP programme. The three-year programme targets youth, women and persons with disabilities. No budget or participant figure is given.
 
 </div>
 
@@ -507,64 +253,6 @@ Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to devel
 **[Downloads - GBoS](https://www.gbosdata.org/downloads)** — Gambia Bureau of Statistics, 16 October 2026
 
 The Gambia Bureau of Statistics' downloads page indexes its GDP, price and trade series up to 2025 and its household, health, labour-force and SDG survey reports. Microdata are offered for several surveys, including the DHS and MICS.
-
-</div>
-
-</div>
-
-## Geopolitics
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
-<a href="#china-activities">China activities</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#eu-activities">EU activities</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#gulfuae-activities">Gulf/UAE activities</a>
-</nav>
-
-### China activities
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Gambia-Guizhou data cooperation initiatives</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Ambassador Kah delivers keynote address at China's Big Data Expo 2026, secures landmark cooperation with Guizhou University](https://thepoint.gm/africa/gambia/headlines/ambassador-kah-delivers-keynote-address-at-chinas-big-data-expo-2026-secures-landmark-cooperation-with-guizhou-university)** — The Point, 4 September 2026
-
-The Gambia's ambassador in Geneva, Muhammadou Kah, vice-chair of the UN Commission on Science and Technology for Development, gave a keynote at China's Big Data Expo in Guiyang on 28 August 2026. The next day at Guizhou University he announced plans for a Gambian national data laboratory, a UN research centre in Guizhou, scholarships and a joint summer school. No funding is stated.
-
-</div>
-
-</div>
-
-### EU activities
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">European Union digital cooperation with The Gambia</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[The Gambia - International Partnerships - European Commission](https://international-partnerships.ec.europa.eu/countries/gambia_en)** — European Commission, Directorate-General for International Partnerships, 3 September 2026
-
-The European Commission programmes EUR 193m of grants for The Gambia over 2021-2027, with digitalisation named only as one clause under jobs and growth. The digital share is not stated, against delivered items that are smaller and specific.
-
-</div>
-
-</div>
-
-### Gulf/UAE activities
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Gulf state digital investment in The Gambia</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Information & Communications Technology | Sectors | IsDB](https://www.isdb.org/sectors/ict)** — Islamic Development Bank, 3 September 2026
-
-The Islamic Development Bank records financing the regional fibre backbone reaching The Gambia, alongside two other lenders. No date or sum is given, so the scale of the contribution cannot be stated.
 
 </div>
 
