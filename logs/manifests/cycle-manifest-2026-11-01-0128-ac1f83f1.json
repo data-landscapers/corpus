@@ -1,0 +1,225 @@
+{
+ "schema": 3,
+ "written_utc": "2026-11-01 01:28",
+ "pass": "sweep cycle",
+ "head": "ac1f83f1393651d557853a66801803c7629b132c",
+ "head_committed_utc": "2026-11-01 01:28",
+ "collection": {
+  "last_admission": "2026-10-31 23:12",
+  "sweep_closed": "2026-10-31 21:21",
+  "ingest_started": "2026-10-31 21:24"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-10-31 21:02",
+   "end": "2026-11-01 01:14",
+   "duration": "4:12",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 690,
+  "admitted": 422,
+  "dropped": 265,
+  "screened": 597,
+  "screen_dropped": 461,
+  "pages_over_line": 361,
+  "awaiting_ingest": 0,
+  "raw_sources": 35879
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-10-31 21:00",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "sweep": {
+   "time_utc": "2026-10-31 21:22",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "ingest": {
+   "time_utc": "2026-10-31 23:12",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "lint": {
+   "time_utc": "2026-11-01 01:13",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "close": {
+   "time_utc": "2026-11-01 01:14",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "rules": {
+   "time_utc": "2026-11-01 01:27",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "end": {
+   "time_utc": "2026-11-01 01:27",
+   "seven_day": null,
+   "five_hour": null
+  }
+ },
+ "drops": {
+  "night": "2026-10-31",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 6,
+    "ingest_drop_rate": 0.0
+   },
+   "corpus-queue": {
+    "sweep": {},
+    "ingest": {
+     "already-seen": 2
+    },
+    "admitted": 0,
+    "ingest_drop_rate": 1.0
+   },
+   "country-deep": {
+    "sweep": {
+     "off-topic": 56,
+     "already-seen": 45,
+     "no-development": 37,
+     "already-held": 33,
+     "out-of-window": 8,
+     "headline-only-stub": 3,
+     "syndicated-copy": 2,
+     "url-dead": 2,
+     "date-unestablished": 1,
+     "fails-record-test": 1,
+     "fetch-blocked": 1,
+     "inadmissible-origin": 1,
+     "not-this-slice": 1
+    },
+    "ingest": {
+     "already-held": 34,
+     "no-value": 17,
+     "no-development": 9,
+     "off-topic": 4,
+     "inadmissible-origin": 1
+    },
+    "admitted": 47,
+    "ingest_drop_rate": 0.58
+   },
+   "daily": {
+    "sweep": {
+     "already-seen": 33,
+     "no-development": 20,
+     "already-held": 10,
+     "off-topic": 7,
+     "no-value": 2,
+     "off-place": 2
+    },
+    "ingest": {
+     "already-held": 1
+    },
+    "admitted": 2,
+    "ingest_drop_rate": 0.333
+   },
+   "financiers": {
+    "sweep": {
+     "off-topic": 17,
+     "already-seen": 16,
+     "no-development": 5,
+     "already-held": 2,
+     "syndicated-copy": 2,
+     "date-unestablished": 1,
+     "headline-only-stub": 1,
+     "out-of-window": 1
+    },
+    "ingest": {
+     "off-topic": 3,
+     "already-held": 2,
+     "inadmissible-origin": 2,
+     "no-development": 2,
+     "no-value": 2
+    },
+    "admitted": 1,
+    "ingest_drop_rate": 0.917
+   },
+   "iati": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 4,
+    "ingest_drop_rate": 0.0
+   },
+   "maturity-study-digitalidlaw": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 18,
+     "no-development": 1,
+     "no-value": 1
+    },
+    "admitted": 54,
+    "ingest_drop_rate": 0.27
+   },
+   "maturity-study-digitalskills": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 14,
+     "no-value": 8,
+     "no-development": 3,
+     "already-seen": 1,
+     "inadmissible-origin": 1
+    },
+    "admitted": 92,
+    "ingest_drop_rate": 0.227
+   },
+   "maturity-study-digitalsovereignty": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 18,
+     "no-development": 4,
+     "already-seen": 2,
+     "inadmissible-origin": 1,
+     "no-value": 1
+    },
+    "admitted": 23,
+    "ingest_drop_rate": 0.531
+   },
+   "off-list": {
+    "sweep": {
+     "no-development": 5,
+     "off-topic": 3,
+     "date-unestablished": 2,
+     "already-seen": 1
+    },
+    "ingest": {
+     "already-held": 2
+    },
+    "admitted": 2,
+    "ingest_drop_rate": 0.5
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 4,
+    "ingest_drop_rate": 0.0
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 2077,
+  "housekeeping_registered": 0,
+  "words_trimmed": 0,
+  "pages_rewritten": 0,
+  "since": "2026-11-01 01:27"
+ }
+}
