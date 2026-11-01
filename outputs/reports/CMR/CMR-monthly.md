@@ -1,39 +1,31 @@
 ---
-title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-31
-period: 2026-09-01 to 2026-10-31
+title: Cameroon — News, Oct – Nov 2026
+compiled: 2026-11-01
+period: 2026-10-01 to 2026-11-01
 place: CMR
-ledger_rows: 46
+ledger_rows: 22
 not_held: 4
-record: d0ef856fe45c
+record: 2fea5018edd5
 ---
 
-# News, Sep – Oct 2026
+# News, Oct – Nov 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#finance">Finance</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digitalisation">Digitalisation</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#inclusion">Inclusion</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data">Data</a>
 </nav>
 
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -43,28 +35,6 @@ record: d0ef856fe45c
 </nav>
 
 ### Strategies, plans and policies
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Master plan for digitising the public-procurement information system</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Le Cameroun prépare un plan directeur pour numériser ses marchés publics](https://www.camerounlink.com/news/cameroon/2026/9/2/le-cameroun-prepare-un-plan-directeur-pour-numeriser-ses-marches-publics-156516/)** — Camerounlink, 2 September 2026
-
-Cameroon is commissioning a national master plan to digitise its public-procurement information system; the African Development Bank published the contract award on 31 August 2026. The six-month study went to the NC Consulting and Eyra International grouping for FCFA 241.36 million, funded under the AfDB-backed public-finance governance project PAGFIP.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cameroun : Un plan directeur pour achever la digitalisation des marchés publics](https://leconomie.info/article/cameroun-un-plan-directeur-pour-achever-la-digitalisation-des-marches-publics)** — Le quotidien L'Economie, 8 September 2026
-
-The African Development Bank awarded the NC Consulting/Eyra International grouping a six-month, FCFA 241.36 million contract to draw up Cameroon's master plan for digitalising public procurement. The plan is to cover the whole procurement cycle and the gaps that limit use of COLEPS, the e-procurement platform run since 2018. No award date is given.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -80,57 +50,11 @@ The Minister of Posts and Telecommunications spoke at the World Bank's summit in
 
 </div>
 
-### Legislation and regulation
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Loi n. 2010/012 on cybercrime and cybersecurity</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cybersecurity as Industrial Policy: Protecting Cameroon's Digital Economy](https://nkafu.org/cybersecurity-as-industrial-policy-protecting-cameroons-digital-economy/)** — Nkafu Policy Institute, 4 September 2026
-
-A Nkafu Policy Institute brief argues that Cameroon should treat cybersecurity as industrial policy under its 2020–2030 development strategy. It cites a 156% rise in cyberattacks between 2020 and 2023, over $45m in fraud losses, 333,930 vulnerability-exploiting attacks in 2024, and 32,500 cybercrime legal requests handled by the ICT agency ANTIC in 2025. It describes the 2010 cyber law as outdated.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Public directory of licensed telecommunications operators</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cameroon tightens grip on telecoms](https://www.itweb.africa/article/cameroon-tightens-grip-on-telecoms/KPNG878NaEyq4mwD)** — ITWeb Africa, 17 September 2026
-
-Cameroon's Telecommunications Regulatory Board is compiling a public directory of licensed operators and has told every operator to complete an identification form on its website. The board says the directory will let consumers verify which companies are licensed, expose fraudulent operators and help agencies identify legitimate players.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cameroon TRB Updates Telecom Operators Directory to Strengthen Transparency](https://techafricanews.com/2026/09/17/cameroon-trb-updates-telecom-operators-directory-transparency-3/)** — Tech Africa News, 17 September 2026
-
-Cameroon's telecommunications regulator gave operators until 30 September 2026 to file identification forms for a public directory that is to separate licensed and compliant providers from unlicensed ones. Nothing is yet published and no publication date for the directory itself is stated.
-
-</div>
-
-</div>
-
 ### Data protection
 
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Personal data protection authority</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Gouvernance des données en Afrique centrale : le Cameroun sans APDP opérationnelle](https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/)** — OBS-CC, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
-
-Cameroon's data protection law of December 2024 creates a protection authority, the APDP, but its organising decree has not been found. The OBS-CC observatory checked more than 600 presidential acts on 14 September 2026 and found no such decree. A draft decree on the telecoms ministry's site predates the law and cites the wrong articles.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -143,20 +67,6 @@ A CLG Global analysis sets out five legal questions for Cybastion's planned US$7
 </div>
 
 ### Regional collaboration
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Central African regional framework on cross-border data flows</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Atelier régional d'engagement des parties prenantes pour l'élaboration d'un cadre régional de la CEEAC en matière de gouvernance transfrontalière des données](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/)** — 7 jours info, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
-
-Experts from the Economic Community of Central African States (ECCAS) met in Douala, Cameroon, from 31 August to 4 September 2026 to review member states' readiness and agree the pillars of a regional framework on cross-border data governance. GIZ, AUDA-NEPAD, the UN Economic Commission for Africa and the African Union Commission supported the workshop technically and financially.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -226,28 +136,6 @@ ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body
 
 </div>
 
-## Finance
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
-<a href="#new-investments">New investments</a>
-</nav>
-
-### New investments
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">EU financing for Digital Business Boost for Africa and Digital Acceleration in Cameroon</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cameroon, EU Shape New SME Agenda Around Finance and Digitalization](https://www.businessincameroon.com/cooperation/1109-16730-cameroon-eu-shape-new-sme-agenda-around-finance-and-digitalization)** — Business in Cameroon, 11 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
-
-Cameroon's SME minister, Achille Bassilekin III, and the new EU ambassador agreed in Yaoundé on 11 September 2026 to focus cooperation on finance, digitalisation and value chains for small businesses. Financing agreements signed on 16 June 2026 total about CFAF37.16bn, including CFAF9.83bn each for Digital Business Boost for Africa and Digital Acceleration in Cameroon. The EU says MyBusiness.cm has helped formalise more than 25,000 businesses.
-
-</div>
-
-</div>
-
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -255,68 +143,10 @@ Cameroon's SME minister, Achille Bassilekin III, and the new EU ambassador agree
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#technical-capacity">Technical Capacity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Transit role for a landlocked neighbour's cable capacity</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Accès aux câbles sous-marins : quelles options pour la Centrafrique au-delà du Cameroun](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/)** — Camerounlink (source: Agence Ecofin), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a>
-
-A fibre cut in Cameroon disrupted internet service in the Central African Republic last week, prompting an assessment of the landlocked country's options for reaching submarine cable capacity by another route.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">State operator fibre connectivity for schools</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Camtel Expands Fibre Connectivity to Schools Across Cameroon](https://techafricanews.com/2026/09/10/camtel-expands-fibre-connectivity-schools-cameroon/)** — Tech Africa News, 10 September 2026
-
-Cameroon's state telecommunications operator is extending fibre connectivity to schools, covering communities from the northern to the southern and the eastern to the western regions. It presents the programme as digital inclusion in education, aimed at improving school internet access and pupils' reach to digital educational resources.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Camtel Mobile Network Expansion project</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Camtel Plans 245 New Mobile Sites to Narrow Network Gap With Rivals](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals)** — Business in Cameroon, 18 September 2026
-
-Cameroon's state operator plans 245 new mobile sites, taking its declared network from 473 to 718, with decongestion of 122 existing sites and a new billing system; a second shipment of equipment from China arrived on 17 September. No cost or completion date is stated.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">E-National Higher Education Network</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Coopération universitaire : le MINESUP et China Exim Bank évaluent le projet ENHEN](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen)** — C24 Infos, 25 September 2026
-
-Cameroon's higher education minister, Jacques Fame Ndongo, and a China Exim Bank delegation led by Wang Chunying reviewed the E-National Higher Education Network project in Yaoundé on 24 September 2026. The ministry listed its outputs as 500,000 computers for students, ten university digital centres, campus interconnection and e-learning and administrative applications. No usage figures or new financing were given.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -386,28 +216,6 @@ Cameroon's Camtel and electricity utility Socadel signed a memorandum of underst
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Douala artificial-intelligence data centre and power plant</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cybastion backs Cameroon digital sovereignty with $75M infrastructure project](https://www.biometricupdate.com/202609/cybastion-backs-cameroon-digital-sovereignty-with-75m-infrastructure-project)** — Biometric Update, 4 September 2026
-
-Cybastion, a US digital ID and cybersecurity firm, confirmed a US$75 million commitment to build a data centre and a dedicated power plant in Douala, Cameroon, reported on 4 September 2026. The figure was first announced by the US embassy at the US–Cameroon Bilateral Economic and Commercial Dialogue at the end of August. No construction timetable is given.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[US Firm Cybastion Plans $75 Million AI Data Center and Power Plant in Douala](https://www.businessincameroon.com/public-management/0709-16693-us-firm-cybastion-plans-75-million-ai-data-center-and-power-plant-in-douala)** — Business in Cameroon, 7 September 2026
-
-A United States firm plans US$75m, about FCFA 42.25bn, for a Douala data centre designed in part for artificial-intelligence workloads with dedicated power generation. The planning ministry describes it as an intention presented at the first bilateral economic forum rather than a commitment; the same vendor's Ivorian project was underwritten by a US$66.14m export-credit guarantee.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Orange Cameroun data centre, Douala</p>
 
 <div class="bulletin-item" markdown="1">
@@ -434,37 +242,7 @@ Uptime Institute's register for Cameroon lists two Tier III design certification
 
 </div>
 
-### Technical Capacity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital transformation training for public agents</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cameroun : train.patnucelearning.cm, la plateforme numérique lancée pour former 15 000 agents publics à l'IA, la blockchain et la transformation digitale](https://www.digitalbusiness.africa/cameroun-train-patnucelearning-cm-la-plateforme-numerique-lancee-pour-former-15-000-agents-publics-a-lia-la-blockchain-et-la-transformation-digitale/)** — Digital Business Africa, 24 September 2026
-
-Cameroon's Ministry of Posts and Telecommunications launched train.patnucelearning.cm in Yaoundé on 21 September 2026, an online platform to train 15,000 civil servants and public-enterprise staff over 50 days in AI and blockchain, digital project management and electronic records. It runs under PATNUC, the digital transformation project financed by a 42 billion CFA franc World Bank loan.
-
-</div>
-
-</div>
-
 ### Cybersecurity
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Cybercrime complaints and incidents recorded by the ICT agency</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Lutte contre la cybercriminalité: La riposte nationale s'organise](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise)** — Cameroon Tribune, 30 September 2026
-
-Cameroon's ICT agency ANTIC reported 17,500 cybercrime complaints in 2025 with declared losses of 5.8 billion FCFA, at a cyberspace-security forum it co-hosts with the Russian embassy in Yaoundé. Since January it has counted 21,280 compromised machines and 39 attacks on government websites.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -499,48 +277,10 @@ Cameroon's ICT agency ANTIC said it has audited 108 fintech companies and found 
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
 ### Data Exchange
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Mfum-Ekok Border Modernisation Initiative</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Nigeria, Cameroon launch border modernisation project to ease trade barriers](https://nairametrics.com/2026/09/10/nigeria-cameroon-launch-border-modernisation-project-to-ease-trade-barriers)** — Nairametrics, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Nigeria and Cameroon launched a border modernisation initiative for the Mfum-Ekok corridor during a joint assessment by their customs administrations. It covers border infrastructure, technology-driven solutions and the reduction of trade bottlenecks, and is presented as supporting the continental free trade area.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
-**[Nigeria, Cameroon Bilateral Customs Coalition Set to Streamline Mfum-Ekok Trade](https://khal-el.com.ng/nigeria-cameroon-bilateral-customs-coalition-set-to-streamline-mfum-ekok-trade/)** — Khal-El, 12 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-The Nigeria Customs Service and Cameroon's customs administration began a joint assessment of the Ekok-Mfum one-stop border post on 8 September 2026 and launched a border modernisation initiative to digitise customs workflows. Cameroon's customs director general Fongod Nuvaga called for real-time data sharing and joint risk management; a joint operational agreement is being drafted. No cost or completion date is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">State payroll checked against border-movement data</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Fichier solde : 5 971 agents publics dans le viseur du MINFI, leurs salaires bloqués pendant deux mois](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/)** — Cameroon Press, 17 September 2026
-
-Cameroon's finance ministry has identified 5,971 state employees as no longer living in the country by matching the payroll against border-movement data. Their September and October 2026 salaries are held at a Yaoundé treasury office until they produce a passport copy, the reason for travel and proof of presence at post. Those who do not by 31 October 2026 will be removed from the payroll.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -574,20 +314,6 @@ Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè�
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Youth biometric card and employment platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cameroun : le MINJEC et Nera Pulse en accord pour digitaliser l'insertion professionnelle des jeunes](https://fr.journalducameroun.com/cameroun-le-minjec-et-nera-pulse-en-accord-pour-digitaliser-linsertion-professionnelle-des-jeunes/)** — Journalducameroun.com, 15 September 2026
-
-The youth ministry signed a three-year renewable partnership with a company on 14 September to digitise, unify and speed access to employment and training for 15- to 35-year-olds, across six areas including socio-economic integration.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">AIGLES biometric payroll system</p>
 
 <div class="bulletin-item" markdown="1">
@@ -612,62 +338,6 @@ At the first e-Gov Africa Summit in Yaoundé, Cameroon's public service ministry
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Availability of PAPSS to Cameroonian businesses</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Intégration financière : la BEAC et le PAPSS mobilisent les banques de la CEMAC](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/)** — Journal du Cameroun, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
-
-The Bank of Central African States (BEAC) and the Pan-African Payment and Settlement System (PAPSS) held a webinar on 9 September 2026 to bring commercial banks of the CEMAC zone onto the continental payment system, following BEAC's own accession. The session covered terms of participation and next steps; no timetable or number of banks is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Max it super app carrying Orange Money</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Max it : Orange Cameroun peut-il transformer sa Super App en référence du numérique ?](https://kamer-android.com/2026/09/10/max-it-orange-cameroun-super-app-bugs-orange-money/)** — KamerAndroid, 10 September 2026
-
-Orange Cameroon has closed its Orange Money Afrique app and moved its mobile money services into Max it, an app that also handles line management, bill payments, a marketplace and entertainment. On 24 August the Max it team apologised to users for system errors that blocked some operations after an update. The app carries a 3.7 out of 5 rating on Google Play from about 47,800 reviews.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Konoom mobile money payment institution</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cameroun : Konoom obtient son agrément et se lance sur le marché du paiement mobile](https://www.agenceecofin.com/actualites-finance/1709-141667-cameroun-konoom-obtient-son-agrement-et-se-lance-sur-le-marche-du-paiement-mobile)** — Agence Ecofin, 17 September 2026
-
-Cameroon has licensed Konoom Cameroun as its third payment institution, after Orange Money and MTN's Mobile Money Corporation, by finance ministry order 681 of 21 July 2026, announced on 17 September. Konoom plans transfers, bill and tax payments and merchant payments by phone. It has operated in Chad since December 2025.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Inbound international transfers to mobile wallets</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Nigerian Fintech Grey Opens Direct Transfers to MTN MoMo and Orange Money in Cameroon](https://www.businessincameroon.com/finance/2509-16831-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-money-in-cameroon)** — Business in Cameroon, 25 September 2026
-
-Nigerian fintech Grey opened a corridor sending CFA francs from dollar, euro or sterling balances straight to MTN Mobile Money and Orange Money wallets in Cameroon, at $1.80 a transfer. BEAC figures put Cameroon at 30.99 million of CEMAC's 51.28 million mobile money accounts in 2024.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">REasy and AGL payment and logistics pilot for imports from China</p>
 
 <div class="bulletin-item" markdown="1">
@@ -688,14 +358,6 @@ Cameroonian fintech REasy and Africa Global Logistics presented to Douala trader
 
 <div class="bulletin-item" markdown="1">
 
-**[Cameroun : 52 milliards FCFA recherchés pour numériser l'état civil](https://ecomatin.net/cameroun-52-milliards-fcfa-recherches-pour-numeriser-letat-civil)** — EcoMatin, 16 September 2026
-
-The director-general of Cameroon's national civil registration office, BUNEC, said on 14 September 2026 that completing the digitisation of civil-status records will cost 52 billion FCFA, against 27 billion estimated in 2018. Since the 2020 pilot, 60 of the country's 432 civil registration centres have been digitised, 13.9%. Completion is targeted for 2029–2030 if the money is found.
-
-</div>
-
-<div class="bulletin-item" markdown="1">
-
 **[Cameroon looks to Côte d’Ivoire to advance digital civil registration | Biometric Update](https://www.biometricupdate.com/202610/cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration)** — Biometric Update, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 Cameroon's civil-registration office, BUNEC, sent a study mission to Côte d'Ivoire's ONECI on 26–30 October 2026 on digitisation and interoperability. Cameroon has computerised 60 of its 432 principal civil-registration centres. It aims to computerise all of them by 2029.
@@ -707,22 +369,6 @@ Cameroon's civil-registration office, BUNEC, sent a study mission to Côte d'Ivo
 **[État civil : le Cameroun s’inspire de la Côte d’Ivoire pour interconnecter ses données](https://www.wearetech.africa/fr/fils/actualites/tech/etat-civil-le-cameroun-s-inspire-de-la-cote-d-ivoire-pour-interconnecter-ses-donnees)** — We Are Tech Africa, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abidjan from 26 to 30 October 2026. Cameroon plans to computerise and interconnect 432 main registry centres by 2029. ONECI reported its CityWeb software in every centre, online e-certified birth extracts, and weak connectivity in some centres.
-
-</div>
-
-</div>
-
-### Sectoral management information systems
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Smart water meters and metering platform</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cameroon’s Water Utility Turns to Smart Meters to Recover More Revenue - Business in Cameroon](https://www.businessincameroon.com/public-management/0109-16648-cameroon-s-water-utility-turns-to-smart-meters-to-recover-more-revenue)** — Business in Cameroon, 1 September 2026
-
-Cameroon's state water utility Camwater awarded China's Hangzhou Laison Technology a CFA721.76 million contract on 17 August 2026 for 3,000 smart water meters, an IT platform and a payment-system interface, in pilot areas of Douala and Yaoundé. The offer is 27.8% below Camwater's CFA1 billion estimate, and the meters are the first 7.5% of 40,000 planned under the World Bank-backed IMPACT programme.
 
 </div>
 
@@ -792,34 +438,6 @@ Cameroon's public service ministry will extend biometric attendance checks to al
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Smart water meters</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Camwater confie à une entreprise chinoise le déploiement de 3 000 compteurs intelligents pour 721,76 millions de FCFA](https://leconomie.info/article/camwater-confie-a-une-entreprise-chinoise-le-deploiement-de-3-000-compteurs-intelligents-pour-72176-millions-de-fcfa)** — L'Economie, 4 September 2026
-
-Cameroon's water utility, Camwater, awarded China's Hangzhou Laison Technology a FCFA 721.76 million contract on 17 August 2026 to supply and install 3,000 smart water meters, with a software platform and payment integration, in Douala and Yaoundé. The order is the first 7.5% of 40,000 meters planned under the World Bank-funded IMPACT programme for commercial customers.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Action Plan for Smart City Development</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Plan national villes intelligentes : ce que le Cameroun va changer dans ses villes](https://fr.journalducameroun.com/plan-national-villes-intelligentes-ce-que-le-cameroun-va-changer-dans-ses-villes/)** — Journal du Cameroun, 9 September 2026
-
-Cameroon's housing and telecoms ministries and UN-Habitat launched a national action plan for smart cities on 8 September 2026. It rests on three pillars: digital tools for urban management, innovation and inclusion, and stronger municipal and regional governance with dedicated funding. Orange, MTN and CAMTEL are named for infrastructure, FEICOM for municipal finance and ANTIC for regulation; no cost is given.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
 <p class="monthly-story__name">Mboa City municipal app</p>
 
 <div class="bulletin-item" markdown="1">
@@ -843,50 +461,6 @@ Cameroon's Ministry of Decentralisation and Local Development presented and hand
 **[Minette Libom Li Likeng : « La transformation numérique s’impose aujourd’hui comme un levier de modernisation de l’action publique »](https://leconomie.info/article/minette-libom-li-likeng-la-transformation-numerique-simpose-aujourdhui-comme-un-levier-de-modernisation-de-laction-publique)** — Le quotidien L'Economie, 5 October 2026
 
 Cameroon's posts and telecommunications minister handed four platforms built under the World Bank-financed digital transformation project to the agriculture ministry on 1 October. They cover e-learning for training schools, a soil-fertility map and agro-pastoral statistics, and soil sampling was launched the same day.
-
-</div>
-
-</div>
-
-## Inclusion
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
-<a href="#access-to-services">Access to services</a>
-</nav>
-
-### Access to services
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Disability Card and its entitlements</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Bridging Digital Dividends: Safeguarding Disabled Persons Online, Offline](https://mail.cameroon-tribune.cm/article.html/80235/en.html/details_2)** — Cameroon Tribune, 2 September 2026
-
-Civic Watch and the Club des Jeunes Aveugles Réhabilités du Cameroun held a workshop in Yaoundé on 2 September 2026, with German Embassy support, on protecting disabled people online and offline. Cameroon's Ministry of Social Affairs described national disability cards carrying tax exemptions under the 2026 Finance Law and a 50% higher-education fee waiver. Civic Watch's founder warned of targeted cyberbullying on TikTok and Snapchat.
-
-</div>
-
-</div>
-
-## Data
-
-<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
-<a href="#national-statistics">National statistics</a>
-</nav>
-
-### National statistics
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Fourth population and agriculture census</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Cameroun : le 4e Recensement général de la population et de l'habitat s'achève](https://fr.journalducameroun.com/cameroun-le-4e-recensement-general-de-la-population-et-de-lhabitat-sacheve/)** — Journalducameroun.com, 15 September 2026
-
-Counting closed on 15 September for the fourth population and housing census, coupled with the agriculture and livestock census, after a start on 24 April and extensions in May and July. Coverage remained below expectation.
 
 </div>
 
