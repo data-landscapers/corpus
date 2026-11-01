@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-02-gha-govt-to-introduce-new-data-protection-bill-to-regulate-ai-cross-border",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Communication Minister Samuel Nartey George said the government is developing a new Data Protection Bill to regulate AI systems and automated decision-making.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Data Protection Bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
