@@ -525,6 +525,8 @@ GNQ,Gabon-GNQ terrestrial backbone link (Ebebeyin),,route,,SPIN (Gabon side),,20
 GNQ,"Gabon-Equatorial Guinea fibre-optic network interconnection (agreed 2025-11-10, Mongomo)",GNQ-GAB fibre interconnection,other,,,,2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews
 GNQ,Africa Coast to Europe (ACE),Equatorial Guinea,route,submarine cable,,,2026-10-21-ecofin-equatorial-guinea-telgesa-operator
 GNQ,MEDUSA connection,Equatorial Guinea (expected 2029-2031),other,submarine cable,,,2026-10-21-ecofin-equatorial-guinea-telgesa-operator
+GNQ,Starlink,Equatorial Guinea,other,satellite,Starlink,,2026-08-29-equatorial-guinea-starlink-available
+GNQ,CAB-4,Equatorial Guinea,other,"fibre optic interconnection with Gabon, part of the CEMAC ring",,,2025-11-18-guinea-ecuatorial-gabon-acuerdos-telecomunicaciones-roaming-cero-cab4
 KEN,Daraja,Daraja,other,,Meta / Safaricom,,2026-08-05-kenya-to-get-two-new-undersea-fibre-optic-cables-in-ai-race
 KEN,Africa-1,Africa-1,other,,,,2026-08-05-kenya-to-get-two-new-undersea-fibre-optic-cables-in-ai-race
 KEN,Daraja,Daraja,other,,Meta (Edge Network Services); Safaricom operates Kenyan segment,,2025-10-30-meta-safaricom-daraja-subsea-cable-telecomreviewafrica
@@ -1086,6 +1088,7 @@ TZA,National AI Data Centre,Kituo cha Taifa cha Data za Akili Unde,other,,,,2026
 TZA,NICTBB,National ICT Backbone,other,,,,2026-04-10-communications-sector-surges-400pc
 TZA,Paratus Tanzania Dar es Salaam PoP,Tanzania,route,Wingu Data Centre,Paratus,,2026-10-27-paratus-expands-its-african-reach-with-tanzania-pop
 TZA,Paratus Tanzania PoP at Wingu Data Center,Tanzania,other,,Paratus Tanzania,,2026-10-26-tza-paratus-new-dar-es-salaam-pop
+TZA,"SEACOM, EASSy and 2Africa cables",Tanzania,route,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 UGA,Seacom Nairobi-Kampala route,Nairobi-Kampala route,route,"DWDM, ASON",Seacom,,2026-06-17 Seacom deploys a new high-capacity Nairobi–Kampala route to strengthen East Africa's digital backbone
 UGA,G2M (Goma-to-Mombasa),G2M,route,,Paratus Group (with Roke Telkom in Uganda),,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb
 UGA,Equiano,Equiano,other,,,,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-29-equatorial-guinea-starlink-available",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "satellite",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite service only; no fibre route stated."
+}
