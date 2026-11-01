@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 7 |
-| 3 Established | 13 |
-| 2 Nascent | 24 |
+| 3 Established | 14 |
+| 2 Nascent | 23 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
 | No evidence | 0 |
@@ -135,6 +135,13 @@ Ten or more government services could be completed online in 2026; a single gate
 Ten or more government services could be completed online in 2025; a single gateway is not on record.
 
 - DIAL reports Ghana.gov is the portal where users discover, consume and pay for government services, and most of renewing a driver's license or passport can be done online ([source, 2025-05](https://dial.global/modern-governments-run-on-data-exemplars/)).
+
+### Mauritania: 3 Established
+
+About forty government services could be completed online in 2026; whether one portal with a shared sign-in carries them is not known.
+
+- A Mauritanian official claims about forty transactional online services, of nearly 900 targeted ([source, 2026-10-28](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)).
+- Ecofin Agency, citing Mauritanian authorities, reports that services including driver's licence applications, the road traffic digital system, criminal record issuance, vehicle registration documents and loss certificates for official documents have already been digitised, and that national electricity company services were integrated into the "Khdamati" digital platform ([source, 2026-03-27](https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services)).
 
 ### Morocco: 3 Established
 
@@ -283,13 +290,6 @@ Government services were going online in 2025; ten or more online are not on rec
 
 - APAnews reports the Prime Minister said on 27 May 2025 that the land information system SIF/GUF, being finalised, would from July offer fully dematerialised land procedures including registration, transfers, mortgages and online payments, with a pilot planned in Bamako's seven arrondissements ([source, 2025-05-27](https://fr.apanews.net/technologies/mali-quatre-nouvelles-plateformes-accelerent-la-digitalisation-de-ladministration/)).
 - The Bamada.net report says that on 19 July 2024 the President launched digitalisation of public services in Mali, so that ID card fees, police fines and civil-status acts can be paid by mobile phone, first in Bamako, with extension to the regions and embassies and later to taxes and public procurement ([source, 2024-07-19](https://bamada.net/nouvelles-technologies-le-president-de-la-transition-lance-la-digitalisation-des-moyens-de-paiement-et-des-services-publics-de-letat)).
-
-### Mauritania: 2 Nascent
-
-Government services were going online in 2026; ten or more online are not on record.
-
-- The tax directorate (DGI) states taxpayers can declare and pay taxes online through its STT system and consult their tax file through its teleservices portal ([source, 2026-09-16](https://impots.gov.mr/DGI/teleservices.html)).
-- Ecofin Agency, citing Mauritanian authorities, reports that services including driver's licence applications, the road traffic digital system, criminal record issuance, vehicle registration documents and loss certificates for official documents have already been digitised, and that national electricity company services were integrated into the "Khdamati" digital platform ([source, 2026-03-27](https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services)).
 
 ### Mauritius: 2 Nascent
 

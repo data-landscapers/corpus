@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-ben-e-gouvernance-le-benin-et-la-mauritanie-a-l-ecole-estonienne-et-vice-v",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "A Benin official says the national platform, launched in March 2020 with five services, now has over 210 services digitalised end to end.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "plateforme nationale de services publics",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

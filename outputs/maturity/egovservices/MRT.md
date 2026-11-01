@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The tax directorate (DGI) states taxpayers can declare and pay taxes online through its STT system and consult their tax file through its teleservices portal](<https://impots.gov.mr/DGI/teleservices.html>). [Ecofin Agency, citing Mauritanian authorities, reports that services including driver's licence applications, the road traffic digital system, criminal record issuance, vehicle registration documents and loss certificates for official documents have already been digitised, and that national electricity company services were integrated into the "Khdamati" digital platform](<https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services>). [The government launched on 4 April 2025 the 'Mes services' portal and app with two services, online company creation and investment-code accreditation requests](<https://ami.mr/fr/archives/268316>).
+**Services online.** In October 2026 a Mauritanian official [put the transactional services online at about forty, of nearly 900 targeted](<https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne>). [Taxpayers can declare and pay taxes online through the tax directorate's STT system](<https://impots.gov.mr/DGI/teleservices.html>). Ecofin Agency reports that [driving licences, criminal records, vehicle papers and loss certificates have been digitised](<https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services>). The national electricity company's services joined the Khdamati platform. On 4 April 2025 the government [launched the Mes services portal and app with two services](<https://ami.mr/fr/archives/268316>), company creation and investment-code accreditation.
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://impots.gov.mr/DGI/teleservices.html>).
+**Single gateway.** The [Mes services portal and app](<https://ami.mr/fr/archives/268316>) opened in April 2025 with two services, both for businesses. In 2024 the [Houwiyeti digital identity app was launched to give access to e-services](<https://idtechwire.com/mauritania-launches-digital-id-for-e-services-built-on-tech5-platform>), with a biometric login piloted in 2023.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://impots.gov.mr/DGI/teleservices.html>).
+**Use published.** The tax directorate's [teleservices portal lets taxpayers consult their tax file](<https://impots.gov.mr/DGI/teleservices.html>). It gives no count of users.
 
 ***Also on file***. [Digital-Y](<https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services>).
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether one national portal carries several ministries' services with shared sign-in. How many people use the online services.

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,eservices,services,coverage,underway,2026-10-25,NGA-001;NGA-002,,
-NGA,eservices,gateway,coverage,,,,,nothing held
-NGA,eservices,usage,coverage,,,,,nothing held
+NGA,eservices,services,coverage,underway,2026-10-25,NGA-001;NGA-002;NGA-003,,
+NGA,eservices,gateway,coverage,,,,,nothing found
+NGA,eservices,usage,coverage,,,,,nothing found

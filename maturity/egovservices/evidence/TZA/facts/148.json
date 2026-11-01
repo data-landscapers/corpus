@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The report says the e-Government Authority, set up in 2012, led to e-government platforms such as online tax systems, e-procurement and electronic civil registration, with no count of services given.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "e-Government platforms (eGA)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Government platforms (eGA)",
+   "country_label": "Tanzania",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-30-ken-youth-urged-to-utilize-jitume-program-to-acquire-online-jobs",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Government Spokesperson Isaac Mwaura says the number of digitised government services grew from 350 in 2022 to 20,985 in 2025, integrated with e-Citizen and mobile platforms, per Kenya News Agency.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "e-Citizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Citizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "web and mobile",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

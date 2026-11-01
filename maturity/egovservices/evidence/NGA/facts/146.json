@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-02-nga-nigerian-government-ensures-data-sovereignty-with-local-cloud-hosting",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "A stakeholders' workshop in Abuja prepared 12 named pilot agencies to integrate with the Government Service Portal, which KOICA expects to be fully active in the first half of 2025.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "Government Service Portal (GSP)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Portal (GSP)",
+   "country_label": "Nigeria",
+   "class": "eservices",
+   "platform": "Galaxy Backbone government-owned cloud",
+   "owner": "Galaxy Backbone / KOICA",
+   "tiers": ""
+  }
+ ],
+ "note": "Portal not yet live; no gateway or usage fact."
+}
