@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-mus-financial-sector-urged-to-strengthen-data-protection-and-cybersecurity",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Minister of ICT outlined the Government's intention to review the Cybersecurity and Cybercrime Act 2021 to address emerging threats, treating it as the existing law.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Cybersecurity and Cybercrime Act 2021",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybersecurity and Cybercrime Act 2021",
+   "country_label": "Mauritius",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

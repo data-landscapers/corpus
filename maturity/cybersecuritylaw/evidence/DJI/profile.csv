@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DJI,law,standing,coverage,bill,2025-07-02,DJI-001;DJI-002,,
+DJI,law,standing,coverage,in-force,2014-07-20,DJI-003,DJI-001=bill;DJI-002=bill,
 DJI,law,use,coverage,,,,,nothing found

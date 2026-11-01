@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-09-dji-loi-18-an-23-ratification-convention-malabo",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The ratification law cites Law n°66/AN/14/7ème L of 20 July 2014 on cybersecurity and the fight against cybercrime as part of Djibouti's legal framework.",
+   "as_of": "2014-07-20",
+   "date_precision": "day",
+   "system": "Loi n°66/AN/14/7ème L relative à la cyber sécurité et à la lutte contre la cybercriminalité",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malabo Convention",
+   "country_label": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)",
+   "class": "other",
+   "platform": "",
+   "owner": "African Union",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

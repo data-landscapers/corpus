@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-zaf-dha-identity-regulatory-framework-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Department of Home Affairs describes the Cybercrimes Act 19 of 2020 as an Act of Parliament creating twenty cybercrime offences and the overarching legal authority on cybercrime.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "Cybercrimes Act 19 of 2020",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

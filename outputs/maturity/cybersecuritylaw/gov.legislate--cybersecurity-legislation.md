@@ -22,8 +22,8 @@ The Malabo Convention's third chapter commits each party to legal measures again
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 12 |
-| 3 Established | 30 |
-| 2 Nascent | 5 |
+| 3 Established | 31 |
+| 2 Nascent | 4 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -254,6 +254,12 @@ A digital code has been in force since 2023, and in August 2026 police were told
 - The Attorney General at the Court of Cassation told judicial police officers on 17 August 2026 to take up offences under the Digital Code on their own initiative, treating the Code as in force ([source, 2026-08-17](https://acp.cd/anglais/drc-judicial-police-officers-advised-to-prosecute-perpetrators-of-digital-offences/)).
 - ACP states that the Code du numérique, promulgated in 2023, makes non-consensual sharing of intimate content, privacy breaches and cyberharassment criminal offences in the DRC ([source, 2023](https://acp.cd/genre/violence-numerique-une-proposition-de-loi-de-protection-des-victimes-annoncee-a-kinshasa/)).
 
+### Djibouti: 3 Established
+
+A cybersecurity and cybercrime law has been in force since 2014; whether it has been used is not known.
+
+- The ratification law cites Law n°66/AN/14/7ème L of 20 July 2014 on cybersecurity and the fight against cybercrime as part of Djibouti's legal framework ([source, 2014-07-20](https://www.journalofficiel.dj/texte-juridique/loi-n-18-an-23-9eme-ll-portant-ratification-de-la-convention-de-lunion-africaine-sur-la-cybersecurite-et-la-protection-de-donnees-a-caractere-personnel/)).
+
 ### Equatorial Guinea: 3 Established
 
 Ley 7/2024 is in force; in September 2026 the vice-president's lawyers filed four complaints under it, which await the court. No charge is known.
@@ -367,13 +373,6 @@ Cybercrime offences in the criminal code, amended 2021, are in force, and offici
 
 - A POTRAZ official said Zimbabwe's Cybersecurity Act incorporates cybercrime definitions alongside cybersecurity provisions in one piece of legislation ([source, 2026-10-15](https://www.heraldonline.co.zw/potraz-moves-to-tighten-cybersecurity-for-critical-infrastructure/)).
 - POTRAZ's Director General stated on 24 January 2026 that Zimbabwe has no standalone cyber crimes act, and that cybercrime offences (hacking, data interference, cyber-bullying, child abuse material and others, ss.163-168) are in force in Part VIII of the Criminal Law (Codification and Reform) Act [Chapter 9:23], as amended in 2021 ([source, 2026-01-24](https://news.pindula.co.zw/2026/01/25/there-is-no-separate-cyber-crimes-act-in-zimbabwe-potraz/)).
-
-### Djibouti: 2 Nascent
-
-A digital code with a cybercrime book passed parliament in 2025 but is only a bill so far; no use of it is known.
-
-- TechAfrica News reports Djibouti's National Assembly passed its first Digital Code in plenary, eight books and nearly 800 articles including Book VI on Cybersecurity and Cybercrime, with no mention of promulgation or entry into force; no event date given, so the published date of 2025-07-02 is used ([source, 2025-07-02](https://techafricanews.com/2025/07/02/a-first-for-east-africa-djibouti-enacts-comprehensive-digital-code/)).
-- Jones Day reports the National Assembly passed the Digital Code, covering cybersecurity and cybercrime and punishable online offences, on 30 June 2025, with the legislative section still to be promulgated by the President and published in the Journal Officiel ([source, 2025-06-30](https://www.jonesday.com/en/insights/2025/07/national-assembly-of-the-republic-of-djibouti-approves-digital-code)).
 
 ### Lesotho: 2 Nascent
 
