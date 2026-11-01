@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-gha-kessben-nia-mandate-biometric-verification-amendments",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Identification Authority reports 18,955,360 Ghanaians registered, 18,853,779 cards printed and 17,855,708 cards issued; ISO certification is only being initiated.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "National Identification Authority national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA national ID",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

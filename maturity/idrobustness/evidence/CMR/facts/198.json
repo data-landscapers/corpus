@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-28-cmr-decret-modifiant-et-completant-certaines-dispositions-du-decret-n2016",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Decree 2025/058 of 28 February 2025 has the CNPTI produce the national identity card and keep the national identity file, with regional, departmental and post identification centres enrolling and distributing cards through enrolment stations.",
+   "as_of": "2025-02-28",
+   "date_precision": "day",
+   "system": "CNPTI national identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNPTI",
+   "country_label": "Cameroon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": "regional, departmental and post identification centres"
+  },
+  {
+   "system": "Fichier national de l'identite",
+   "country_label": "Cameroon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "CNPTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

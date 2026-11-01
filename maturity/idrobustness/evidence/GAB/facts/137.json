@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-28-gab-agp-campagne-delivrance-nip-cnie",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Interior minister Hermann Immongault announced the personal identification number (NIP) campaign opening 3 April 2024 in Greater Libreville, the first phase before the chip-based electronic national ID card (CNIE), for Gabonese aged 16 and over.",
+   "as_of": "2024-03-28",
+   "date_precision": "day",
+   "system": "NIP / CNIE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIP / CNIE",
+   "country_label": "Gabon",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

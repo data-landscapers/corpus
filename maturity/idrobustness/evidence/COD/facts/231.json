@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-cod-rdc-l-operationnalisation-des-autorites-competentes-recommandee-pour-l",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ACP, reporting a communique by the rights group ACEDH, describes RDC-PASS as the national digital identification system whose deployment, under a 20-year, USD 97.1 million public-private contract with Trident Digital Tech Holdings, ACEDH asks to suspend.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "RDC-PASS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-PASS",
+   "country_label": "DRC",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government with Trident Digital Tech Holdings (PPP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

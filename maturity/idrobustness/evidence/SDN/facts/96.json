@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-16-sdn-national-id-card-resumes-in-safe-states",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Passports and Civil Registry Authority says national numbers have been issued to all age groups above 12 through civil registry centres, and national ID card issuance resumed in safe states from 15 February 2026.",
+   "as_of": "2026-02-15",
+   "date_precision": "day",
+   "system": "National identity card and civil fingerprint system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National identity card and civil fingerprint system",
+   "country_label": "Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Passports and Civil Registry Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

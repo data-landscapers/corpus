@@ -21,8 +21,8 @@ The African Union's interoperability framework asks that a national ID system ha
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 12 |
-| 3 Established | 39 |
+| 4 Operating | 13 |
+| 3 Established | 38 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -47,6 +47,13 @@ The national ID system's security was certified or audited in 2026.
 The national ID system checked people by biometrics in 2026; no certification or audit is known.
 
 - The Ministry of the Interior says delivery of identity and travel documents is conditional on fingerprint matching and that the issuance system is connected to AFIS for fingerprint identification ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
+
+### Congo: 4 Operating
+
+The national ID system took iris and fingerprints to stop duplicates in 2025; no certification or audit is known.
+
+- The ministry says enrolment in the new NIU takes iris and fingerprint data in person, and the finance minister says the aim is to limit duplicates and fraud ([source, 2025-10-23](https://www.finances.gouv.cg/en/node/4803)).
+- The finance ministry says the modernised biometric NIU launched in August 2020 is issued to residents from age 6, with a database of over 600,000 natural persons, and card production relaunched in September 2025 ([source, 2025-10-23](https://www.finances.gouv.cg/en/node/4803)).
 
 ### Djibouti: 4 Operating
 
@@ -178,13 +185,6 @@ The national ID system was issuing unique numbers in 2026; no source found repor
 
 - Al-Watwan reports that GenKey took over production of Comorian biometric documents, passports and national identity cards, on 31 March 2026 after Semlex held the concession from 2007 ([source, 2026-03-31](https://alwatwan.net/societe/production-de-documents-biom%C3%A9triques-genkey-succ%C3%A8de-officiellement-%C3%A0-semlex.html)).
 - Biometric Update reports Comoros selected GenKey to produce biometric passports and national ID cards, replacing Semlex, which produced biometric IDs from 2007; issuance suspended until 26 March 2026 during the change ([source, 2026-03](https://www.biometricupdate.com/202603/genkey-takes-over-biometric-passport-national-id-card-production-in-comoros)).
-
-### Congo: 3 Established
-
-The national ID system was issuing unique numbers in 2025; no source found reports biometric checks.
-
-- The Finance Ministry says the NIU is issued to every foreign resident and Congolese citizen from age 6, valid 10 years, free for individuals ([source, 2025-10-23](https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu)).
-- Les Depeches de Brazzaville reports that 25,549 NIU (unique identification number) cards issued from 2020 to 2024 were uncollected in Pointe-Noire ([source, 2024](https://www.adiac-congo.com/content/administration-lancement-de-la-campagne-de-distribution-de-proximite-des-cni-et-niu-166913)).
 
 ### Cote d'Ivoire: 3 Established
 

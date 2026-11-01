@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-26-som-maxay-dadka-soomaaliyeed-uga-dhigan-tahay-inay-helaan-kaar-aqoonsi-kad",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "BBC Somali reports NIRA began registration under a new system in September 2023 and has started printing cards carrying a unique 11-digit number, with 13 centres open.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "NIRA national ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA national ID system",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-29-rwa-rwanda-secures-17-million-world-bank-loan-to-expand-digital-identity-a",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The National Identification Agency reported Rwanda's digital identity system was 76% complete as of the October 2026 report, with additional World Bank financing supporting its development.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "digital identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

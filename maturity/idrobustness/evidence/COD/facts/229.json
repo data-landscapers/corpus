@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-cod-decret-n-25-037-du-17-novembre-2025-modifiant-et-completant-le-decret",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Decree 25/037 of 17 November 2025 amends the 2022 decree creating the national identity card, adding a high-security substrate with devices digitised from biometric data collected by ONIP, and a five-year validity.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "National identity card (ONIP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte d'identite nationale",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

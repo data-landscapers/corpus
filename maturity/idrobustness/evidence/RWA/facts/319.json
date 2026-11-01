@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-09-rwa-ministry-of-ict-gives-roadmap-for-issuance-of-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "MINICT Permanent Secretary Yves Iradukunda told Parliament's Public Accounts Committee that two of four phases of the USD 40 million digital ID project are done, the core ID system tender is out, and no digital ID card had been issued by May 2024.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "Single digital ID system (SDID)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single digital ID system (SDID)",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA / MINICT / RISA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-06-tun-tunisie-le-centre-national-de-l-informatique-celebre-50-ans-au-cur-de",
+ "facts": [],
+ "systems": [
+  {
+   "system": "registre national de l'identifiant unique",
+   "country_label": "Tunisia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Centre national de l'informatique",
+   "tiers": ""
+  }
+ ],
+ "note": "The register is named but the document does not say it issues unique credentials, checks biometrics or is certified."
+}

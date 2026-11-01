@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The finance ministry says the modernised biometric NIU launched in August 2020 is issued to residents from age 6, with a database of over 600,000 natural persons, and card production relaunched in September 2025.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "NIU (Numero d'identification unique)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The ministry says enrolment in the new NIU takes iris and fingerprint data in person, and the finance minister says the aim is to limit duplicates and fraud.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "NIU (Numero d'identification unique)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-02-ken-state-revs-up-maisha-namba-digital-id-awareness-drive",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Registration Bureau has issued 972,630 Maisha Cards since the November 2023 launch, each carrying a unique personal identifier, the Maisha Namba.",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "Maisha Namba / Maisha Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Namba / Maisha Card",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

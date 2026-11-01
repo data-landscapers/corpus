@@ -1,17 +1,18 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "3",
-   "system": "inservice",
-   "biometric": "",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-002;COG-004",
-   "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "4",
+      "system": "inservice",
+      "biometric": "checked",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-006;COG-005",
+      "gaps": "No source found since October 2023 reports a certification, audit or assurance level for the system.",
+      "note": "Stage 4: in October 2025 the finance ministry said NIU enrolment captures iris and fingerprints in person, so that each taxpayer has one identity and duplicates are limited. No certification, audit or assurance level is held, so stage 5 is not met.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

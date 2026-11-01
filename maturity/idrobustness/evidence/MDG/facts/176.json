@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-21-mdg-adoption-du-projet-de-loi-relatif-a-l-enrolement-biometrique-de-masse",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The National Assembly says a mass biometric census project has been set up alongside bill 023/2025, with the digital system to be strengthened to prevent duplicates.",
+   "as_of": "2026-04-21",
+   "date_precision": "day",
+   "system": "mass biometric enrolment (recensement biométrique de masse)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mass biometric enrolment",
+   "country_label": "Madagascar",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

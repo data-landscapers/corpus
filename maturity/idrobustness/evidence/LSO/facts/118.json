@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-31-lso-bid-to-make-ids-valid-for-life",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Post reports that Lesotho's national ID is valid for ten years, with IDs issued in 2014 due for renewal and the government producing IDs for new applicants.",
+   "as_of": "2024-10-31",
+   "date_precision": "day",
+   "system": "Lesotho national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lesotho national ID",
+   "country_label": "Lesotho",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

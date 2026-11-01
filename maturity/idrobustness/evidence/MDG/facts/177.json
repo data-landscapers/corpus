@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Minister Delmotte says the national digital identity initiative began in 2020, tenders are awarded and enrolment, linking biometric and biographic data, is to begin in August.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "national digital identity",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-26-gha-moc-keynote-national-data-protection-conference-2026",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The minister said the Ghana Card is the key unique identifier for all Ghanaians today and the single source of truth for identity verification.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

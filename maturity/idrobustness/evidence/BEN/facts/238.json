@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-ben-e-gouvernance-le-benin-et-la-mauritanie-a-l-ecole-estonienne-et-vice-v",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A Benin official says over 99% of the population has a digital identity, assigned from birth.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "digital identity",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
