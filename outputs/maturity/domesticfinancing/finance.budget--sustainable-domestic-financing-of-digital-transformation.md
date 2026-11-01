@@ -20,9 +20,9 @@ Agenda 2063, Goal 20, asks that Africa take full responsibility for financing it
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 2 |
-| 3 Established | 18 |
+| 5 Leading | 6 |
+| 4 Operating | 3 |
+| 3 Established | 19 |
 | 2 Nascent | 24 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -56,14 +56,6 @@ The universal service fund signed its first rural subsidies in 2026 and 2025 dig
 - The FDSU signed its first subsidy conventions with Vodacom, Airtel, Africell and Orange on 8 August 2026, mobilising universal service resources to fund 40 pilot sites in underserved areas ([source, 2026-08-08](https://www.fdsu.cd/blog/rdc-le-fdsu-passe-du-diagnostic-a-laction-avec-les-premieres-conventions-de-subvention-pour-la-connectivite-universelle)).
 - Section 71 rose from FC 60,627,481,411 in 2025 to FC 226,713,223,741 in 2026 (+274%), which the document says is substantially a transfer of the ICT mandate from section 52, not new money ([source, 2025-12-29](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf)).
 
-### Eswatini: 5 Leading
-
-Eswatini raised its digital budget by 14.8 per cent for 2026/27 and a universal service fund paid for a project in 2023.
-
-- Budget tables: 200,945,813 SZL is published as actually spent on digital lines for 2024/25. Dated by the document that gives the figure ([source, 2024-02-23](https://www.gov.sz/images/FinanceDocuments/Budget-Estimates-2024-25-Final-Print-Version.pdf)).
-- The Universal Access and Service Fund (UASF) paid for a backbone redundancy project with EPTC, procuring the equipment to connect to the MOTRACO powerline fibre route to Maputo; the page names no law or decree and gives no amounts, and the date is the page's published date ([source, 2023-10-03](https://uasf.esccom.org.sz/programmes/connectivity-programmes/)).
-- Budget tables: the 13 digital line(s) held in both years total 408,074,106 SZL for 2026/27 against 355,552,868 for 2025/26, +14.8 per cent; 14 lines are held for 2026/27. Dated by the budget document ([source, 2026-02-01](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf)).
-
 ### Mali: 5 Leading
 
 The state's digital lines rose 4.1 per cent for 2026, and the universal access fund published its collections and spending for early 2026.
@@ -72,15 +64,6 @@ The state's digital lines rose 4.1 per cent for 2026, and the universal access f
 - An opinion piece by a named analyst says Mali's universal access fund is fed by a legal levy of 1% to 2% of operators' turnover, run by AGEFAU under the Prime Minister's office, and that the fund is collected today with chronic delays and operator arrears; no amount is given, and the date is the document's publication date ([source, 2026-07-27](https://www.maliweb.net/contributions/deviations-institutionnelles-et-oligopole-du-numerique-en-afrique-de-louest-la-manne-sequestree-aux-origines-de-la-captation-du-fonds-dacces-universel-au-mali-3118719.html)).
 - The fund agency collected FCFA 23.18bn in the first half of 2026 and is financing network extension, access centres, school computer rooms and training of 1,000 young people from its revised 2026 budget ([source, 2026-07-23](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/)).
 - Budget tables: the 7 digital line(s) held in both years total 10,339,800,000 XOF for 2026 against 9,935,715,000 for 2025, +4.1 per cent; 103 lines are held for 2026. Dated by the budget document ([source, 2025-10-02](https://finances.ml/sites/default/files/2025-10/DPPD-PAP2026-2028_27-09-2025.pdf)).
-
-### Mozambique: 5 Leading
-
-Digital lines in the 2026 budget rose 20.8 per cent and a 1% operator levy funds universal access; nothing is unknown.
-
-- Budget tables: 1,819,266,720 MZN is published as actually spent on digital lines for 2025. Dated by the document that gives the figure ([source, 2025-06-05](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2025/mapas-acompanhantes)).
-- Decree 11/2025 of 16 May 2025 (Council of Ministers, approved 22 April 2025) approves a new regulation of the Universal Access Service Fund (FSAU), repealing Decree 62/2017, and fixes the levy at 1% of each licensed telecom operator's prior-year gross revenue, with the money applied to rural infrastructure (up to 55%), digital inclusion, broadcasting, running costs and innovation; it also assigns 60% of fines under the regulation to the fund and names state budget allocations as a revenue source, but states no amount collected or paid out ([source, 2025-05-16](https://www.incm.gov.mz/?sdm_process_download=1&download_id=3536)).
-- INCM's 2024 annual regulation report states that each licensed telecom operator pays 1% of its prior-year gross revenue into the Fundo de Serviço de Acesso Universal (FSAU) under the law in force (instrument not named), and that the fund financed Praças Digitais, school computer rooms, Internet nas Escolas, a rural digital-TV pilot and rural mobile network expansion in 2024; the report carries no date, so its reference year is used ([source, 2024](https://www.incm.gov.mz/wp-content/uploads/2026/05/Relatorio-de-Regulacao-das-Comunicacoes_2024.pdf)).
-- Budget tables: the 15 digital line(s) held in both years total 1,075,518,250 MZN for 2026 against 890,407,150 for 2025, +20.8 per cent; 31 lines are held for 2026. Dated by the budget document ([source, 2025-12-01](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais)).
 
 ### South Africa: 5 Leading
 
@@ -114,6 +97,14 @@ Guinea's digital lines nearly doubled in the 2025 budget, and a May 2026 decree 
 - A decree signed by President Doumbouya on 21 May 2026 created the Digital Sovereignty Fund (FSN), to be financed primarily by revenue from the new 3% Digital Compliance Fee (RCN) on foreign digital services, to fund technology infrastructure, cybersecurity, training and innovation; the story reports creation, not yet any money collected or paid, and enforcement follows a six-month transition ([source, 2026-05-21](https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services)).
 - Budget tables: the 4 digital line(s) held in both years total 13,441,441,299 GNF for 2025 against 6,758,097,055 for 2024, +98.9 per cent; 113 lines are held for 2025. Dated by the budget document ([source, 2024-12-31](https://mbudget.gov.gn/wp-content/uploads/loi-de-finance-2025.pdf)).
 
+### Mozambique: 4 Operating
+
+Mozambique's digital budget rose 20.8 per cent for 2026 and a 1% operator levy funds universal access; what was actually spent is not known.
+
+- Decree 11/2025 of 16 May 2025 (Council of Ministers, approved 22 April 2025) approves a new regulation of the Universal Access Service Fund (FSAU), repealing Decree 62/2017, and fixes the levy at 1% of each licensed telecom operator's prior-year gross revenue, with the money applied to rural infrastructure (up to 55%), digital inclusion, broadcasting, running costs and innovation; it also assigns 60% of fines under the regulation to the fund and names state budget allocations as a revenue source, but states no amount collected or paid out ([source, 2025-05-16](https://www.incm.gov.mz/?sdm_process_download=1&download_id=3536)).
+- INCM's 2024 annual regulation report states that each licensed telecom operator pays 1% of its prior-year gross revenue into the Fundo de Serviço de Acesso Universal (FSAU) under the law in force (instrument not named), and that the fund financed Praças Digitais, school computer rooms, Internet nas Escolas, a rural digital-TV pilot and rural mobile network expansion in 2024; the report carries no date, so its reference year is used ([source, 2024](https://www.incm.gov.mz/wp-content/uploads/2026/05/Relatorio-de-Regulacao-das-Comunicacoes_2024.pdf)).
+- Budget tables: the 15 digital line(s) held in both years total 1,075,518,250 MZN for 2026 against 890,407,150 for 2025, +20.8 per cent; 31 lines are held for 2026. Dated by the budget document ([source, 2025-12-01](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais)).
+
 ### Cameroon: 3 Established
 
 Cameroon's tabled 2026 budget raises the digital lines held in both years 1.9 per cent; no source found says whether any fund pays.
@@ -141,6 +132,13 @@ Egypt's digital budget lines rose 24.4% in 2026/27 over 2025/26; no fund, levy o
 
 - Budget tables: the 39 digital line(s) held in both years total 30,224,315,000 EGP for 2026/27 against 24,302,193,000 for 2025/26, +24.4 per cent; 44 lines are held for 2026/27. Dated by the budget document ([source, 2026-09-14](https://assets.mof.gov.eg/files/75b68ce0-b031-11f1-9534-032ecbc6b98c.pdf)).
 - Budget tables: the budget for 2026/27 gives 30,512,114,000 EGP to 44 digital line(s). Dated by the budget document ([source, 2026-09-14](https://assets.mof.gov.eg/files/75b68ce0-b031-11f1-9534-032ecbc6b98c.pdf)).
+
+### Eswatini: 3 Established
+
+Eswatini raised its digital budget by 14.8 per cent for 2026/27; whether its universal service fund has paid for anything since 2023 is not known.
+
+- Budget tables: the 13 digital line(s) held in both years total 408,074,106 SZL for 2026/27 against 355,552,868 for 2025/26, +14.8 per cent; 14 lines are held for 2026/27. Dated by the budget document ([source, 2026-02-01](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf)).
+- Budget tables: the budget for 2026/27 gives 416,824,106 SZL to 14 digital line(s). Dated by the budget document ([source, 2026-02-01](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf)).
 
 ### Ethiopia: 3 Established
 

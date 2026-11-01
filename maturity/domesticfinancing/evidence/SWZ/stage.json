@@ -1,16 +1,17 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "financing",
-   "stage": "5",
-   "budget": "spent",
-   "commitment": "acted",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-005;SWZ-001;SWZ-004",
-   "gaps": "All four questions are answered.",
-   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "financing",
+      "stage": "3",
+      "budget": "rose",
+      "commitment": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-004;SWZ-003",
+      "gaps": "No source from the last three years shows the universal service fund collecting money or paying for a project: its last held project is on a page of 3 October 2023. The 2024/25 spending figure comes from estimates published before that year began.",
+      "note": "Stage 3 because the digital lines held for both years rose 14.8% for 2026/27. Not stage 4, because the fund's only evidence of paying, a page of 3 October 2023, is now past three years and no longer shows it acting.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }

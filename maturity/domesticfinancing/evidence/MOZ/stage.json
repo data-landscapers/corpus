@@ -1,16 +1,17 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "financing",
-   "stage": "5",
-   "budget": "spent",
-   "commitment": "acted",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-003;MOZ-002;MOZ-001;MOZ-005",
-   "gaps": "All four questions are answered.",
-   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "financing",
+      "stage": "4",
+      "budget": "rose",
+      "commitment": "acted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-002;MOZ-001;MOZ-005",
+      "gaps": "No budget execution report, settlement law, audited accounts or fund account gives what was actually spent for a year from 2024: the 2025 spending figure is read from the 2025 budget maps, published before that year ended.",
+      "note": "Stage 4 because the digital lines rose 20.8% for 2026 and the universal access fund, regulated anew by Decree 11/2025, is fed by a 1% operator levy and paid for projects in 2024. Not stage 5, because the only spending figure comes from budget documents that cannot give 2025's actual spending.",
+      "as_at": "2026-11-01"
+    }
+  ]
 }
