@@ -1,12 +1,12 @@
 ---
 title: Comoros: status report
-compiled: 2026-10-31
+compiled: 2026-11-01
 place: COM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 10
-sources_cited: 170
+sources_cited: 171
 sections_written: 39
 not_established: 1
 acquire_lines: 24
@@ -316,7 +316,7 @@ Money does reach people digitally where a register exists to find them. [Vulnera
 ### Digital divides
 <!-- include.divides -->
 
-The deepest split in Comoros runs between its own islands: [electricity access on Anjouan, at 49%, is roughly half Ngazidja's 95% and well behind Mohéli's 87%](https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/Comoros-National-Energy-Compact-Mission-300.pdf) (2025). The mobile networks are uneven too — [the regulator's 2024 quality-of-service audit found coverage gaps and told both operators to redouble their efforts](https://lagazettedescomores.com/société/présentation-de-l’audit-2024-de-l’anrtic-l’anrtic-évalue-la-qualité-des-services-mobiles-.html), ANRTIC's director-general restating the authority's power to sanction and putting the difficulty down to the archipelago's relief.
+The deepest split in Comoros runs between its own islands: [electricity access on Anjouan, at 49%, is roughly half Ngazidja's 95% and well behind Mohéli's 87%](https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/Comoros-National-Energy-Compact-Mission-300.pdf) (2025). The mobile networks are uneven too — [the regulator's 2024 quality-of-service audit found coverage gaps and told both operators to redouble their efforts](https://lagazettedescomores.com/société/présentation-de-l’audit-2024-de-l’anrtic-l’anrtic-évalue-la-qualité-des-services-mobiles-.html), ANRTIC's director-general restating the authority's power to sanction and putting the difficulty down to the archipelago's relief. [The regulator states that the ICT law established a universal service fund for digital-inclusion projects that are not immediately profitable](https://www.itu.int/itu-d/meetings/gsr-25/wp-content/uploads/sites/33/2025/07/GSR-25_Contribution_Best-practice-Guidelines_ANRTIC-Comoros2_E.pdf) (July 2025); no levy, accounts or project of the fund has been found.
 
 Within each island rural areas are worst served, and schools show it: [most Comorian primary schools had no internet connection in 2021, and around half no electricity](https://download.uis.unesco.org/SDG4/SDG4-Profile-Comoros.pdf), rural schools furthest behind. It is not only a matter of wires — [rural representation and participation is among the most sharply deteriorated of Comoros's ninety-six measures in the Ibrahim Index over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-km.pdf), so the rural population has been losing voice in the arrangements that decide where investment goes.
 
