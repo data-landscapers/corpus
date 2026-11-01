@@ -1,0 +1,93 @@
+{
+ "slug": "2024-12-23-zaf-infringement-notice-with-r5-million-administrative-fine-issued-to-the",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "The Information Regulator issued an infringement notice with an R5 million administrative fine to the Department of Basic Education on 23 December 2024 for failing to comply with its enforcement notice under POPIA.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Information Regulator",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Information Regulator, chaired by Adv Pansy Tlakula, issued the enforcement notice of 18 November 2024 and the infringement notice of 23 December 2024.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Information Regulator",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Information Regulator",
+       "country_label": "South Africa",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "The Information Regulator fined the Department of Basic Education R5 million on 23 December 2024 under POPIA for ignoring an enforcement notice on publishing matric results.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Protection of Personal Information Act (POPIA)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Information Regulator, chaired by Adv Pansy Tlakula, enforces POPIA and issued both notices against the Department of Basic Education.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Information Regulator",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Regulator applied POPIA's enforcement and offence provisions (sections 97 and 109) to the Department of Basic Education in December 2024.",
+       "as_of": "2024-12-23",
+       "date_precision": "day",
+       "system": "Protection of Personal Information Act (POPIA)",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Protection of Personal Information Act (POPIA)",
+       "country_label": "South Africa",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

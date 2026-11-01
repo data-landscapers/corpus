@@ -1,0 +1,44 @@
+{
+ "slug": "2026-02-24-ago-apenas-6-dos-agregados-familiares-em-benguela-dispoem-de-servicos-de-i",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The INE's Population and Housing Census 2024 (RGPH 2024) was counted, with definitive results reported by the statistics institute.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "RGPH 2024",
+       "class": "census"
+      },
+      {
+       "sub_indicator": "census",
+       "aspect": "results",
+       "value": "final",
+       "fact": "INE published definitive RGPH 2024 results, including the Benguela provincial report issued on 11 February 2026.",
+       "as_of": "2026-02-11",
+       "date_precision": "day",
+       "system": "RGPH 2024",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RGPH 2024",
+       "country_label": "RGPH 2024",
+       "class": "census",
+       "platform": "",
+       "owner": "INE Angola",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

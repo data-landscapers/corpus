@@ -1,0 +1,190 @@
+{
+ "slug": "2026-06-02-tza-tanzania-isles-sets-ambitious-digital-agenda-with-53-39bn-ict-budget",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "inservice",
+       "fact": "The Zanzibar ministry reports issuing 29,475 digital introduction letters through the addressing system between July 2025 and March 2026.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Zanzibar addressing system",
+       "class": "address"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training named is for citizens, not civil servants."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "The Zanzibar ministry reports drafting the Personal Data Protection Act, 2026 and plans to finalise it in 2026/27.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Personal Data Protection Act, 2026",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The Zanzibar ministry reports approving construction of 27 communication towers and plans towers in underserved areas of Unguja and Pemba with the Universal Communications Service Access Fund.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Universal Communications Service Access Fund towers",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Zanzibar ministry says it trained 1,015 citizens in digital skills (639 women, 376 men) between July 2025 and March 2026 and will continue ICT training through community centres.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "ICT training through community centres",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a Zanzibar Digital Policy 2026 is named, with no adoption or scope stated."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "allocated",
+       "fact": "The Zanzibar Minister for Communication, Information Technology and Innovation presented a 53.39bn/- ministry budget for 2026/27 to the House of Representatives.",
+       "as_of": "2026-06-02",
+       "date_precision": "day",
+       "system": "Zanzibar ICT ministry budget 2026/27",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Names e-government systems but states no online services completed."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Connects public institutions to the national fibre network; no capital-to-region link stated."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact for Tanzania in this document."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "The Zanzibar ministry plans to draft the Startups and Innovation Act in 2026/27.",
+       "as_of": "2026-06-02",
+       "date_precision": "day",
+       "system": "Startups and Innovation Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Zanzibar ministry will advance construction of the Fumba ICT Innovation and Entrepreneurship Hub under the Digital Tanzania Project.",
+       "as_of": "2026-06-02",
+       "date_precision": "day",
+       "system": "Fumba ICT Innovation and Entrepreneurship Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

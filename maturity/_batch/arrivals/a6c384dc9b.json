@@ -1,0 +1,12 @@
+{"slug": "2025-03-17-mli-mali-72-millions-pour-ameliorer-l-acces-aux-services-telecoms-en-2025", "studies": {
+"digitaldivides": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "AGEFAU, Mali's universal access fund agency, plans to spend FCFA 43.35bn in 2025 on improving population access to telecom services, continuing network coverage extension and universal access centres, per its communiqu\u00e9 of 13 March 2025.", "as_of": "2025-03-13", "date_precision": "day", "system": "AGEFAU universal access projects", "class": "ruralaccess"}
+], "systems": [{"system": "AGEFAU (Agence de gestion du fonds d'acces universel)", "country_label": "Mali", "class": "ruralaccess", "platform": "", "owner": "Government of Mali", "tiers": ""}], "note": ""}}},
+"domesticfinancing": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "AGEFAU, Mali's universal access fund agency, disclosed a 2025 budget of FCFA 43.35bn for universal access projects at its 9th ordinary board session, March 2025.", "as_of": "2025-03", "date_precision": "month", "system": "AGEFAU universal access fund budget", "class": "financing"},
+{"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "Agence Ecofin reports AGEFAU's 2025 budget at FCFA 43.35bn (USD 72.06m) against USD 41.37m allocated to universal access projects in 2024 (Ecofin's own conversion).", "as_of": "2025-03", "date_precision": "month", "system": "AGEFAU universal access fund budget", "class": "financing"}
+], "systems": [], "note": ""}}},
+"internetusage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only a 2023 ITU-cited 'penetration' of 33.1%, a year before the window and not clearly a share of people."}}},
+"paymentsuptake": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No account or digital payment survey figure stated."}}},
+"satellitebroadband": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Satellite broadband not mentioned for Mali."}}}
+}}

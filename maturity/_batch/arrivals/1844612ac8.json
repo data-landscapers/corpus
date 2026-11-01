@@ -1,0 +1,10 @@
+{"slug": "2025-07-18-eth-some-1-6-million-ethiopians-participating-in-coders-training-program", "studies": {
+"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "AI is a training topic only."}}},
+"aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"ETH": {"facts": [], "systems": [], "note": "AI is a training topic only; no model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Training is for the public and youth, not civil servants."}}},
+"digitalskills": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "The Ministry of Innovation and Technology said the national 5-Million Coders' Training Program, launched in July 2024, had 1.6 million Ethiopians enrolled and 900,000 youth certified, with regional states and city administrations taking part.", "as_of": "2025-07-18", "date_precision": "day", "system": "5-Million Coders' Training Program", "class": "publicskills"}
+], "systems": [{"system": "5-Million Coders' Training Program", "country_label": "Ethiopia", "class": "publicskills", "platform": "", "owner": "Ministry of Innovation and Technology", "tiers": ""}], "note": ""}}}
+}}

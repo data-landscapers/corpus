@@ -1,0 +1,7 @@
+{"slug": "2025-12-12-nga-president-tinubu-we-are-laying-the-foundation-for-a-digital-workforce", "studies": {
+"civilserviceskills": {"countries": {"NGA": {"facts": [], "systems": [], "note": "3MTT trains young Nigerians; no civil-service training stated."}}},
+"digitalskills": {"countries": {"NGA": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "President Tinubu said on 11 December 2025 that the 3MTT programme, launched in 2023 by the communications ministry, had drawn over 1.8 million applications from every local government, reached all 36 states and the FCT, and trained 30,000 young Nigerians.", "as_of": "2025-12-11", "date_precision": "day", "system": "3 Million Technical Talent (3MTT)", "class": "publicskills"}], "systems": [{"system": "3 Million Technical Talent (3MTT)", "country_label": "Nigeria", "class": "publicskills", "platform": "", "owner": "Ministry of Communications, Innovation and Digital Economy", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"startups": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated."}}},
+"techhubs": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No hub, incubator or park is described."}}}
+}}

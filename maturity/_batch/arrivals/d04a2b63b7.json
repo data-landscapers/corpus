@@ -1,0 +1,13 @@
+{"slug": "2025-05-05-lbr-liberia-launches-national-effort-to-restore-mobile-service-in-remote-a", "studies": {
+"aiabuse": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No AI matter in the document."}}},
+"aigovernment": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No AI matter in the document."}}},
+"aisectoral": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No AI matter in the document."}}},
+"aisystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No AI matter in the document."}}},
+"digitaldivides": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The government, through the Universal Access Fund with the telecom ministry and the LTA, announced on 5 May 2025 a project to restore rural mobile sites, after an assessment found nine of twelve UAF-funded towers inactive for almost two years; restoration starts in Bomi, Gbarpolu and Grand Cape Mount.", "as_of": "2025-05-05", "date_precision": "day", "system": "UAF rural tower restoration project", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"domesticfinancing": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No budget amount or levy stated; the UAF's income and spending are not given."}}},
+"regionalpolicy": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No African body or agreement named."}}},
+"ruralelectrification": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The 7.6% rural access figure is a GOGLA report's, not the World Bank series the study uses."}}},
+"satellitebroadband": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No satellite broadband stated."}}}
+}}

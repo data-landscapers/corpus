@@ -1,0 +1,10 @@
+{"slug": "2026-03-03-cod-250-000-jeunes-vises-pour-le-programme-national-de-formation-numerique", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "AI is a training track only."}}},
+"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "AI is a training track only."}}},
+"civilserviceskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "Programme is for young people, not civil servants."}}},
+"digitalskills": {"countries": {"COD": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "ZolaNews reports the Digital Economy minister handed certificates to trainers of the national digital training programme for 250,000 young people on 28 February 2026, marking its operational launch, with trainers to be deployed nationwide over five years.", "as_of": "2026-02-28", "date_precision": "day", "system": "Programme national de formation numerique des 250 000 jeunes", "class": "publicskills"}
+], "systems": [{"system": "Programme national de formation numerique des 250 000 jeunes", "country_label": "DR Congo", "class": "publicskills", "platform": "", "owner": "Ministry of Youth and Patriotic Awakening", "tiers": ""}], "note": ""}}}
+}}

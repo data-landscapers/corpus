@@ -1,0 +1,6 @@
+{"slug": "2026-10-16-nga-fg-launches-first-nucap-tower-in-abia-state-to-bring-connectivity-clos", "studies": {
+"digitaldivides": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "The federal communications minister commissioned the first NUCAP tower in Bende, Abia State, on 16 October 2026, the start of a rollout of 3,700 sites meant to connect nearly 20 million Nigerians in unserved and underserved communities.", "as_of": "2026-10-16", "date_precision": "day", "system": "Nigeria Universal Communication Access Project (NUCAP)", "class": "ruralaccess"}
+], "systems": [{"system": "NUCAP", "country_label": "Nigeria", "class": "ruralaccess", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Towers serve communities, not local government offices."}}}
+}}

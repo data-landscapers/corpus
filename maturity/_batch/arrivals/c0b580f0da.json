@@ -1,0 +1,11 @@
+{"slug": "2025-07-11-cmr-numerique-pour-tous-le-cameroun-valide-sa-strategie-nationale-de-servi", "studies": {
+"digitaldivides": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "MINPOSTEL, with World Bank support under PATNUC, validated a national universal digital service strategy on 8 July 2025 whose deployment axis aims at full coverage of underserved areas by 2030.", "as_of": "2025-07-08", "date_precision": "day", "system": "National universal digital service strategy", "class": "ruralaccess"}
+], "systems": [{"system": "Fonds special des telecommunications", "country_label": "Cameroon", "class": "other", "platform": "", "owner": "Government of Cameroon", "tiers": ""}], "note": ""}}},
+"domesticfinancing": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "financing", "aspect": "commitment", "value": "stated", "fact": "The universal service strategy validated on 8 July 2025 calls for relaunching the Fonds special des telecommunications and financing from public resources, sector contributions and private partnerships; no act or amount is reported.", "as_of": "2025-07-08", "date_precision": "day", "system": "National universal digital service strategy", "class": "financing"}
+], "systems": [], "note": ""}}},
+"publicconsultation": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "A validation workshop in Yaounde on 8 July 2025 on the national universal digital service strategy brought together administrations, partners, operators, civil society representatives and experts.", "as_of": "2025-07-08", "date_precision": "day", "system": "Validation workshop on the universal digital service strategy", "class": "consultation"}
+], "systems": [], "note": ""}}}
+}}

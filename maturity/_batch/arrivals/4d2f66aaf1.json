@@ -1,0 +1,52 @@
+{
+ "slug": "2024-05-01-lbr-official-launch-of-the-10k-youth-digital-transformation-project",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service training stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural connectivity programme or measurement stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Liberia's Minister of Posts and Telecommunications took part in the launch of the 10k Youth Digital Transformation Project and unveiled a space to train over 10,000 young people in digital technology.",
+       "as_of": "2024-05-01",
+       "date_precision": "day",
+       "system": "10k Youth Digital Transformation Project",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "10k Youth Digital Transformation Project",
+       "country_label": "10k Youth Digital Transformation Project 2024",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Ministry of Posts and Telecommunications",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

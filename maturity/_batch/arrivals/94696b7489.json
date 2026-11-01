@@ -1,0 +1,16 @@
+{"slug": "2024-05-17-civ-institut-national-de-la-statistique-une-enquete-demontre-une-forte-ame", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"censuses": {"countries": {"CIV": {"facts": [{"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The national statistics institute (INS) said results of its household and enterprise ICT survey, run at the end of 2023 with Expertise France and Afristat under the Datafid project, were presented on 23 April 2024.", "as_of": "2024-04-23", "date_precision": "day", "system": "INS household and enterprise ICT survey (Datafid)", "class": "census"}], "systems": [{"system": "INS household and enterprise ICT survey (Datafid)", "country_label": "ICT survey 2023", "class": "census", "platform": "", "owner": "INS", "tiers": ""}], "note": ""}}},
+"cybersecurity": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on cybersecurity in the article body."}}},
+"dataprotectionlaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on data protection law."}}},
+"dataprotectionreadiness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on data protection readiness."}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on digital sovereignty."}}},
+"internetusage": {"countries": {"CIV": {"facts": [{"sub_indicator": "use", "aspect": "users", "value": "survey:50", "fact": "The INS survey presented on 23 April 2024, carried out at the end of 2023, found that 50% of Ivorians have access to the internet, 65.7% in towns and 29.4% in rural areas.", "as_of": "2023", "date_precision": "year", "system": "INS household and enterprise ICT survey (Datafid)", "class": "use"}], "systems": [], "note": ""}}},
+"mobilepenetration": {"countries": {"CIV": {"facts": [], "systems": [{"system": "INS household and enterprise ICT survey (Datafid)", "country_label": "households owning a mobile phone 89% (2023)", "class": "other", "platform": "", "owner": "INS", "tiers": ""}], "note": "The 89% is a share of households owning a phone, not of people aged 10 and over."}}},
+"police": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on police systems; the commissariat list is only a sidebar link."}}},
+"regionallaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on regional law."}}},
+"schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

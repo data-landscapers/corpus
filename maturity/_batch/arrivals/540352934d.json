@@ -1,0 +1,15 @@
+{"slug": "2024-03-01-zaf-minster-mondli-gungubele-launch-of-national-digital-skills-forum", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government body using AI stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "Artificial Intelligence Institute", "country_label": "South Africa", "class": "other", "platform": "", "owner": "DCDT with University of Johannesburg and Tshwane University of Technology", "tiers": ""}], "note": "The 2022 AI Institute is described by aim only; no model, dataset or AI computing stated."}}},
+"civilserviceskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Training described is for citizens and youth, not civil servants."}}},
+"digitaldivides": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "Minister Gungubele said the SA Connect flagship, which aims to connect 5 million rural and township households, had to date reached 361,000 households through 2,502 Wi-Fi hotspots.", "as_of": "2024-03-01", "date_precision": "day", "system": "SA Connect", "class": "ruralaccess"}
+], "systems": [{"system": "SA Connect", "country_label": "South Africa", "class": "ruralaccess", "platform": "Wi-Fi hotspots", "owner": "DCDT", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "Minister Gungubele said the Ya Rona Digital Skills Massification Drive, run by the department with NEMISA, had been rolled out in North West, KwaZulu-Natal, Limpopo and Free State, was under way in Eastern Cape, and had trained over 20,000 citizens in basic digital literacy.", "as_of": "2024-03-01", "date_precision": "day", "system": "Ya Rona Digital Skills Massification Drive", "class": "publicskills"}
+], "systems": [{"system": "Ya Rona Digital Skills Massification Drive", "country_label": "South Africa", "class": "publicskills", "platform": "", "owner": "DCDT with NEMISA", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No school internet figure or compulsory curriculum stated."}}},
+"schools": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on learner record systems."}}}
+}}

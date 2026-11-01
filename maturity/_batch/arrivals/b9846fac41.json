@@ -1,0 +1,17 @@
+{"slug": "2025-09-16-sen-senegal-expands-network-with-774-towers-to-reach-436-000-people", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about telecom coverage; nothing on AI."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about telecom coverage; nothing on AI."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about telecom coverage; nothing on AI."}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about telecom coverage; nothing on AI."}}},
+"civilserviceskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"digitaldivides": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Ecofin Agency, citing a 12 September 2025 statement of the Universal Telecommunications Service Development Fund (FDSUT), reports Senegal plans to deploy 774 sites under its Universal Access Program (PAU) in four zones to benefit about 436,000 residents, after a study of 250 uncovered localities.", "as_of": "2025-09-12", "date_precision": "day", "system": "Universal Access Program (PAU)", "class": "ruralaccess"}
+], "systems": [{"system": "Universal Access Program (PAU)", "country_label": "Senegal", "class": "ruralaccess", "platform": "", "owner": "FDSUT", "tiers": ""}, {"system": "Universal Digital Access Program (PANU)", "country_label": "Senegal", "class": "ruralaccess", "platform": "", "owner": "FDSUT", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a target of training 500 people inside an access programme that still needs funding; no programme stated as launched."}}},
+"domesticfinancing": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document names CFA64bn needed for PANU but no budget line, fund act or spending."}}},
+"internetusage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "ITU 'about 40% did not use the Internet' is for 2023, before the 2024 window."}}},
+"mobilepenetration": {"countries": {"SEN": {"facts": [], "systems": [], "note": "'Nearly 20% did not own a mobile phone' is for 2023, before the 2024 window, and not a stated share."}}},
+"regionalpolicy": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on African regional bodies."}}},
+"ruralelectrification": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on rural electricity access."}}},
+"satellitebroadband": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."}}}
+}}

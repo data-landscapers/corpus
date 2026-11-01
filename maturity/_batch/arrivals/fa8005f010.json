@@ -1,0 +1,19 @@
+{"slug": "2024-04-22-dza-un-data-center-pour-heberger-et-centraliser-les-donnees-nationales", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "AI is only named as a future use of the planned data centre; no system tested or in service."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "AI is only named as a future use of the planned data centre; no AI computing stated."}}},
+"datacentres": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Algerie Telecom inaugurated its own data centre in Constantine wilaya in February 2023, with a cloud platform to process and store businesses' data, according to the operator as reported by La Nouvelle Republique.", "as_of": "2023-02", "date_precision": "month", "system": "Algerie Telecom data centre, Constantine", "class": "datacentre"},
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Private internet provider Icosnet deployed its second data centre, in Oran, in 2021 to meet market demand, after obtaining a cloud operating authorisation.", "as_of": "2021", "date_precision": "year", "system": "Icosnet data centre, Oran", "class": "datacentre"}
+], "systems": [
+{"system": "Algerie Telecom data centre, Constantine", "country_label": "Constantine", "class": "datacentre", "platform": "cloud platform", "owner": "Algerie Telecom", "tiers": ""},
+{"system": "Icosnet data centre, Oran", "country_label": "Oran", "class": "datacentre", "platform": "cloud", "owner": "Icosnet", "tiers": ""},
+{"system": "Centre national algerien des prestations numeriques (Data Center)", "country_label": "National digital services data centre", "class": "datacentre", "platform": "", "owner": "High Commission for Digitalisation", "tiers": ""}
+], "note": ""}}},
+"digitalsovereignty": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The High Commissioner for Digitalisation, Meriem Benmouloud, said on 20 April 2024 that the national digital services data centre, contracted to a Huawei consortium and approved by the Council of Ministers, will host and centralise national data inside the country to strengthen digital sovereignty.", "as_of": "2024-04-20", "date_precision": "day", "system": "Centre national algerien des prestations numeriques (Data Center)", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"DZA": {"facts": [], "systems": [{"system": "Centre national algerien des prestations numeriques (Data Center)", "country_label": "National digital services data centre", "class": "datacentre", "platform": "", "owner": "High Commission for Digitalisation", "tiers": ""}], "note": "The state data centre is under contract, not in service; the document does not say who owns Algerie Telecom's centre."}}},
+"police": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on police stations."}}}
+}}

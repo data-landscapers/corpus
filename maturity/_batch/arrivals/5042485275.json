@@ -1,0 +1,18 @@
+{"slug": "2025-10-21-moz-mozambique-expands-rural-telecom-network-to-bridge-digital-divide", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI matter in the document."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI matter in the document."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI matter in the document."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI matter in the document."}}},
+"digitaldivides": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The regulator INCM said on 17 October 2025 it would deploy 60 new mobile base stations in nine provinces under the Universal Access Service Fund with Vodacom Mozambique, to bring mobile and internet service to communities without coverage; no site is yet reported connected.", "as_of": "2025-10-17", "date_precision": "day", "system": "Rural Connectivity Project (FSAU, INCM with Vodacom Mozambique)", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"domesticfinancing": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The fund pays for a project but no amount, budget line or statement on paying from own resources is given."}}},
+"fibrebackbone": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Extending the fibre backbone is only a plan; no contract or works stated."}}},
+"internetusage": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "use", "aspect": "users", "value": "estimate:19.8", "fact": "Ecofin Agency, citing ITU data, gives Mozambique's internet penetration as 19.8% in 2023.", "as_of": "2023", "date_precision": "year", "system": "ITU internet penetration", "class": "use"}
+], "systems": [], "note": ""}}},
+"mobilepenetration": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "Mobile telephony penetration (ITU)", "country_label": "78.2% in 2023", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}], "note": "The 78.2% is mobile telephony penetration, a subscription measure, not the share of people owning a phone."}}},
+"regionalpolicy": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No African body, agreement or meeting is named."}}},
+"ruralelectrification": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No rural electricity access figure is given."}}},
+"satellitebroadband": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Attracting low-orbit satellite operators is only a plan; no licence or sale stated."}}}
+}}

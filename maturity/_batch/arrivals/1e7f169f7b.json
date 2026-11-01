@@ -1,0 +1,120 @@
+{
+ "slug": "2026-02-03-mli-protection-des-donnees-l-apdp-ouvre-sa-premiere-session-ordinaire-de-2",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The APDP opened its first ordinary session of 2026 on 2 February 2026, examining more than 500 compliance files, sanction procedures and its annual inspection programme.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+       "country_label": "Mali",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Sanction procedures are only to be examined; no decision against a named organisation is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The APDP session was convened under article 39 of Law 2013-015 of 21 May 2013, as amended.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Loi n2013-015 du 21 mai 2013 (modifiee)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The APDP opened its first ordinary session of 2026 on 2 February 2026, examining more than 500 compliance files, sanction procedures and its annual inspection programme.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The APDP is deliberating on more than 500 compliance files submitted by public and private bodies in a session opened 2 February 2026.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Loi n2013-015 du 21 mai 2013 (modifiee)",
+       "country_label": "Mali",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+       "country_label": "Mali",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The APDP session was to examine a draft norm fixing the list of states with an adequate level of protection, for international data transfers.",
+       "as_of": "2026-02-02",
+       "date_precision": "day",
+       "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+       "class": "rule"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)",
+       "country_label": "Mali",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

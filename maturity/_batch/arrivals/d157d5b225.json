@@ -1,0 +1,124 @@
+{
+ "slug": "2026-10-29-eth-dsrv-signs-mou-with-ethiopian-state-owned-enterprise-blockchain-based",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "DSRV says Pythaverse (Faydaverse), a state-owned enterprise from Ethiopia's national digital ID programme, is expanding identity verification methods based on decentralised identifiers, including eKYC.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "Faydaverse identity verification",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "DSRV and Pythaverse (Faydaverse) agreed on 26 October 2026 to work on upgrading PhaidaPass, the existing digital wallet, into a verifiable-credentials wallet.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "PhaidaPass",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PhaidaPass",
+       "country_label": "Ethiopia",
+       "class": "authentication",
+       "platform": "digital wallet",
+       "owner": "Faydaverse",
+       "tiers": ""
+      },
+      {
+       "system": "PhaidaChain",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "blockchain",
+       "owner": "Faydaverse",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a vague mention of expanding e-government services; no portal or service stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "eKYC is mentioned but no service is said to check people against the national ID; e-vouchers are only explored."
+    }
+   }
+  }
+ }
+}

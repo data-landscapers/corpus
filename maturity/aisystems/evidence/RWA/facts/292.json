@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-31-rwa-rwandas-first-voice-ai-companion-miss-baza-launched-by-mtn-and-viamo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Miss Baza",
+   "country_label": "Miss Baza voice AI companion",
+   "class": "other",
+   "platform": "Google Gemini, dial 845",
+   "owner": "MTN Rwanda and Viamo",
+   "tiers": ""
+  }
+ ],
+ "note": "Built by MTN and Viamo on Google's Gemini with a contribution from Rwandan firm Pindo; no model, dataset or AI computing built or hosted in Rwanda is stated."
+}

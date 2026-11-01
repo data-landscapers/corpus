@@ -1,0 +1,13 @@
+{"slug": "2024-10-23-zaf-deputy-minister-mondli-gungubele-digital-academies-in-africa-summit", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a stated intent to regulate AI; no draft or rule named."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "AI mentioned as a skills topic only."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Skills talk only; no AI model, data or computing."}}},
+"broadbandstrategy": {"countries": {"ZAF": {"facts": [{"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "Deputy Minister Gungubele cites the department's South African National Broadband Policy, with the Digital Economy Master Plan, as aiming to provide infrastructure for digital education and skills.", "as_of": "2024-10-23", "date_precision": "day", "system": "South African National Broadband Policy", "class": "plan"}], "systems": [], "note": ""}}},
+"civilserviceskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Training described is for the public and workers, not civil servants."}}},
+"digitaldivides": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A general pledge to work with provinces on rural access; no programme or figures."}}},
+"digitalskills": {"countries": {"ZAF": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Deputy Minister Gungubele says NEMISA, a department entity, has trained 60,000 people in entry-level digital skills including literacy since 2023, with a National Digital Skills Forum launched in March 2024; no locations are named.", "as_of": "2024-10-23", "date_precision": "day", "system": "NEMISA digital skills training", "class": "publicskills"}], "systems": [{"system": "NEMISA", "country_label": "NEMISA", "class": "publicskills", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The National Digital and Future Skills Strategy is a thematic strategy; the Digital Economy Master Plan is named without standing."}}},
+"localgov": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on local government office connections."}}},
+"schoolinternet": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on school internet or a compulsory subject."}}}
+}}

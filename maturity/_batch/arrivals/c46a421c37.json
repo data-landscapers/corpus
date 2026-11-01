@@ -1,0 +1,74 @@
+{
+ "slug": "2024-02-06-uga-ucc-ucusaf-telecom-infrastructure-program-launched-in-agago",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "UCC launched its UCUSAF Access Infrastructure Program in Agago: of 63 subsidised sites for sub-counties under 30% 3G coverage, 7 are built and 4 operational.",
+       "as_of": "2024-02-06",
+       "date_precision": "day",
+       "system": "Access Infrastructure Program",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Access Infrastructure Program",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "",
+       "owner": "UCUSAF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "UCC says UCUSAF runs an ICT for Persons with Disabilities programme among its programmes.",
+       "as_of": "2024-02-06",
+       "date_precision": "day",
+       "system": "ICT for Persons with Disabilities",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "allocated",
+       "fact": "UCC states the anticipated UCUSAF subsidy cost of constructing the 63 sites is Shs 12 billion.",
+       "as_of": "2024-02-06",
+       "date_precision": "day",
+       "system": "UCUSAF Access Infrastructure Program",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

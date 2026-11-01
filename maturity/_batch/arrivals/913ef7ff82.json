@@ -1,0 +1,126 @@
+{
+ "slug": "2024-11-05-mli-malian-youth-take-up-the-challenge-of-digitalization",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The International Trade Centre's NTF V FastTrackTech project, with the government technology agency AGETIC and the Complexe Num\u00e9rique de Bamako, trained two cohorts of 60 young Malians in digital skills in 2023 and 2024; no location beyond Bamako is stated.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "NTF V FastTrackTech",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NTF V FastTrackTech",
+       "country_label": "Mali",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "International Trade Centre with AGETIC",
+       "tiers": "two cohorts of 60"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "AGETIC is named only as a training partner; nothing on who runs government systems."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The International Trade Centre names the Complexe Num\u00e9rique de Bamako as a digital innovation hub that collaborated on its 2023 and 2024 youth digital-skills training; no incubation programme for startups is described.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Complexe Num\u00e9rique de Bamako",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Complexe Num\u00e9rique de Bamako",
+       "country_label": "Mali",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": "Bamako"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

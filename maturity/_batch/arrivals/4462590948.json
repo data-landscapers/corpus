@@ -1,0 +1,10 @@
+{"slug": "2025-09-16-gha-kessben-nia-mandate-biometric-verification-amendments", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Biometric verification for public services is a proposed amendment, not a service in operation."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "A count of 18,955,360 registered is given but no population or share."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Registration of children aged 0-5 is mentioned but no number at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The National Identification Authority reports 18,955,360 Ghanaians registered, 18,853,779 cards printed and 17,855,708 cards issued; ISO certification is only being initiated.", "as_of": "2025-09-16", "date_precision": "day", "system": "National Identification Authority national ID", "class": "idsystem"}], "systems": [{"system": "NIA national ID", "country_label": "Ghana", "class": "idsystem", "platform": "", "owner": "National Identification Authority", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Mandatory biometric verification for public services is proposed only; no other system checking against the ID is stated."}}}
+}}

@@ -1,0 +1,22 @@
+{"slug": "2026-06-03-caf-roger-andjalandji-takes-charge-of-car-s-digital-agenda-makes-digital-i", "studies": {
+"aiabuse": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aigovernment": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisectoral": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisystems": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"businesspayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilserviceskills": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"consumerprotection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"CAF": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Ecofin reports that making the Universal Service Fund fully operational, to finance telecom infrastructure in underserved areas, is under way and scheduled for completion in 2026, with about 70% of the population offline per official sources.", "as_of": "2026-06-03", "date_precision": "day", "system": "Universal Service Fund", "class": "ruralaccess"}], "systems": [{"system": "Universal Service Fund", "country_label": "Universal Service Fund", "class": "ruralaccess", "platform": "", "owner": "Ministry of Digital Economy, Posts and Telecommunications", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Low digital literacy is named as a barrier only; no programme or survey share."}}},
+"digitalstrategy": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No strategy named."}}},
+"domesticfinancing": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No amount, budget year or dated act stated."}}},
+"g2ppayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"internationalbandwidth": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Landlocked status and limited bandwidth are named as a barrier, with no route stated."}}},
+"paymentsuptake": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"regionalpolicy": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No regional body or agreement named."}}},
+"retailpayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Mobile solutions named only as a priority; no service stated."}}},
+"revenuecollection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}},
+"schoolinternet": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

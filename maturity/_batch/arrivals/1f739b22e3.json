@@ -1,0 +1,79 @@
+{
+ "slug": "2026-10-21-sen-donnees-publiques-jusqu-a-20-des-donnees-senegalaises-encore-hebergees",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Data Center national de Diamniadio",
+       "country_label": "Data Center national de Diamniadio",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Government of Senegal",
+       "tiers": ""
+      }
+     ],
+     "note": "The Diamniadio national data centre is named; nothing says it rents to outside customers or gives its tier."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Repatriation of public data held abroad is a goal; no rule requiring it is stated."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Ousmane Bop, manager of the Diamniadio national data centre, says Senegal intends to repatriate public data, of which 10 to 20 per cent is still held abroad, with options of paying off ten-year hosting contracts early or waiting for expiry, and legal solutions under study.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Repatriation of public data",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Center national de Diamniadio",
+       "country_label": "Data Center national de Diamniadio",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Government of Senegal",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Data Center national de Diamniadio",
+       "country_label": "Data Center national de Diamniadio",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Government of Senegal",
+       "tiers": ""
+      }
+     ],
+     "note": "No statement that the centre is for hire, its tier, or that ministries' data is hosted in it."
+    }
+   }
+  }
+ }
+}

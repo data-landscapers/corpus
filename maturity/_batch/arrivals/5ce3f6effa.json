@@ -1,0 +1,11 @@
+{"slug": "2025-05-28-ken-kenya-launches-digital-literacy-curriculum-at-connected-africa-summit", "studies": {
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Curriculum targets citizens, not civil servants."}}},
+"digitaldivides": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No rural connectivity programme or rural and urban figure stated."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Cabinet Secretary William Kabogo Gitau launched the National Digital Literacy Skills Curriculum, developed with KICTANet, ACWICT and the British Council, at the Connected Africa Summit in Diani, targeting 20 million digitally empowered citizens by 2032.", "as_of": "2025-05-28", "date_precision": "day", "system": "National Digital Literacy Skills Curriculum", "class": "publicskills"},
+{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "KICTANet says its Strengthening Digital Communities pilot, in regions such as Mandera and Busia, has benefited over 600,000 citizens and the national curriculum builds on it.", "as_of": "2025-05-28", "date_precision": "day", "system": "Strengthening Digital Communities", "class": "publicskills"}],
+"systems": [{"system": "National Digital Literacy Skills Curriculum", "country_label": "National Digital Literacy Skills Curriculum", "class": "publicskills", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "foundation, basic, intermediate, advanced"}], "note": ""}}},
+"digitalstrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Kenya National Digital Master Plan is named only as home of the curriculum target; nothing on its standing."}}},
+"policyresearch": {"countries": {"KEN": {"facts": [], "systems": [], "note": "KICTANet's work is a skills curriculum and pilot, not research on digital policy."}}},
+"schoolinternet": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on school internet or a compulsory secondary subject."}}}
+}}

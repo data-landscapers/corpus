@@ -1,0 +1,6 @@
+{"slug": "2025-10-11-cod-rdc-le-programme-national-de-formation-numerique-vecteur-d-autonomisat", "studies": {
+"civilserviceskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "Training is for young people, not civil servants."}}},
+"digitalskills": {"countries": {"COD": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "ACP reports the Ministry of Youth signed an accord on 11 October 2025 with Cisco and Cybastion, joined by Airtel RDC, for a national digital training programme for 250,000 young people; no number trained is stated.", "as_of": "2025-10-11", "date_precision": "day", "system": "Programme national de formation numerique", "class": "publicskills"}], "systems": [{"system": "Programme national de formation numerique", "country_label": "Democratic Republic of the Congo", "class": "publicskills", "platform": "", "owner": "Ministry of Youth with Cisco, Cybastion, Airtel RDC", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only a general remark about digital sovereignty; no rule or goal on state data."}}},
+"schoolinternet": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on secondary schools."}}}
+}}

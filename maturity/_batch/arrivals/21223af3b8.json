@@ -1,0 +1,23 @@
+{"slug": "2026-10-29-mus-financial-sector-urged-to-strengthen-data-protection-and-cybersecurity", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a call for a risk-based approach to AI governance; no rule, draft or body stated."}}},
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No AI built or hosted in the country stated."}}},
+"cybersecurity": {"countries": {"MUS": {"facts": [], "systems": [], "note": "A dedicated Cybersecurity Agency is only an intention to propose; critical infrastructure is only called on to meet stricter requirements, not designated."}}},
+"cybersecuritylaw": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Minister of ICT outlined the Government's intention to review the Cybersecurity and Cybercrime Act 2021 to address emerging threats, treating it as the existing law.", "as_of": "2026-10-29", "date_precision": "day", "system": "Cybersecurity and Cybercrime Act 2021", "class": "law"}
+], "systems": [{"system": "Cybersecurity and Cybercrime Act 2021", "country_label": "Mauritius", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionauthority": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Data Protection Commissioner, Mrs Drudeisha Madhub, attended the 29 October 2026 launch of the financial-sector data protection guide and addressed institutions on their duties.", "as_of": "2026-10-29", "date_precision": "day", "system": "Data Protection Commissioner", "class": "authority"}
+], "systems": [{"system": "Data Protection Commissioner", "country_label": "Data Protection Office, Mauritius", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": "No ruling or published figures stated."}}},
+"dataprotectionlaw": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Data Protection Commissioner, Mrs Drudeisha Madhub, is in post and spoke at the launch of the Guide on Data Protection in the Mauritian Financial Sector.", "as_of": "2026-10-29", "date_precision": "day", "system": "Data Protection Commissioner", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Minister said only around 23,000 of an estimated 60,000 entities required to register as data controllers, processors or collectors had completed registration.", "as_of": "2026-10-29", "date_precision": "day", "system": "Data controller registration", "class": "general"}
+], "systems": [], "note": "No decision, sanction or count of settled cases stated."}}},
+"dataprotectionreadiness": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The Data Protection Commissioner, Mrs Drudeisha Madhub, is in post and addressed the 29 October 2026 launch of the financial-sector data protection guide.", "as_of": "2026-10-29", "date_precision": "day", "system": "Data Protection Commissioner", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "The Minister said around 23,000 of an estimated 60,000 entities required to register as data controllers, processors or collectors had completed registration.", "as_of": "2026-10-29", "date_precision": "day", "system": "Data controller registration", "class": "system"}
+], "systems": [], "note": ""}}},
+"idverification": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No check against the national ID stated."}}},
+"internationalstandards": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a call for compliance with international standards; no membership, adopted standard or rule stated."}}}
+}}

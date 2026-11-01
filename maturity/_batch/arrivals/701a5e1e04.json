@@ -1,0 +1,162 @@
+{
+ "slug": "2025-02-03-ner-tic-le-projet-villages-intelligents-ambitionne-d-assurer-l-inclusion-n",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No e-procurement stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No central bank role stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Capacity building of parliamentarians and senior officials is on digital economy issues, not stated as digital-skills training."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer protection rules or redress stated for digital finance."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No cross-border payments stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "The coordinator of Niger's Projet Villages Intelligents (PVI), financed by the State and World Bank/IDA, says 3G/4G coverage has reached 657 of 2,175 rural localities in the 8 regions, with a target of 1,400 by end 2025 (the stated date of 31/12/2025 is as given).",
+       "as_of": "2025-02-03",
+       "date_precision": "day",
+       "system": "Projet Villages Intelligents pour la Croissance Rurale et l'Inclusion Numerique (PVI)",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PVI",
+       "country_label": "Niger",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "ANSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "The PVI coordinator says the project has trained 350,000 beneficiaries, a majority women, in digital skills through its digital literacy and financial education campaign, with digital centres open in the 8 regions.",
+       "as_of": "2025-02-03",
+       "date_precision": "day",
+       "system": "Projet Villages Intelligents (PVI) digital literacy campaign",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The project's funding is stated as a joint State and World Bank/IDA total with no state budget line."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No government payments to people stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The 16.7% financial inclusion rate (BCEAO, 2022) is not an adult account share from a survey in the window."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Mobile money is named only as a target of the project; no service in use stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No tax or fee payment stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "A fintech challenge prize of March 2022 is stated, with no startup law or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital centres for financial transactions are stated, not tech hubs or incubators."
+    }
+   }
+  }
+ }
+}

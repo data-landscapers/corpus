@@ -1,0 +1,15 @@
+{"slug": "2026-05-04-gab-lancement-du-programme-smart-africa-youth-chapter-gabon-sayc-gabon-en", "studies": {
+"aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"GAB": {"facts": [], "systems": [], "note": "AI is a training module only."}}},
+"aisectoral": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "AI is a training module only."}}},
+"civilserviceskills": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Programme is for young people aged 18 to 35, not civil servants."}}},
+"digitalskills": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Gabonactu reports the Digital Economy ministry, with Smart Africa, SPIN and the Centre gabonais de l'innovation, officially launched the Smart Africa Youth Chapter Gabon on 2 May 2026, an online five-module programme with more than 2,000 young people already enrolled in phase one.", "as_of": "2026-05-02", "date_precision": "day", "system": "Smart Africa Youth Chapter Gabon (SAYC Gabon)", "class": "publicskills"}
+], "systems": [{"system": "Smart Africa Youth Chapter Gabon (SAYC Gabon)", "country_label": "Gabon", "class": "publicskills", "platform": "Smart Africa Digital Academy, formation.cgi.ga", "owner": "Ministry of Digital Economy with Smart Africa and CGI", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"GAB": {"facts": [], "systems": [], "note": "A national digital transformation strategy is mentioned without being named or described."}}},
+"regionalpolicy": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Gabonactu reports the SAYC Gabon programme follows an agreement signed recently in Barcelona between Gabon and Smart Africa, and runs on the Smart Africa Digital Academy with the Centre gabonais de l'innovation as national hub.", "as_of": "2026-05-04", "date_precision": "day", "system": "Smart Africa Youth Chapter Gabon (SAYC Gabon)", "class": "cooperation"},
+{"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Gabonactu reports the Smart Africa Digital Academy programme was officially launched in Gabon on 2 May 2026, with an online platform and the Centre gabonais de l'innovation as national hub.", "as_of": "2026-05-02", "date_precision": "day", "system": "Smart Africa Youth Chapter Gabon (SAYC Gabon)", "class": "cooperation"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,16 @@
+{"slug": "2026-10-21-bdi-burundi-bujumbura-seeks-south-korean-support-for-digital-identity-infr", "studies": {
+"aiabuse": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
+"aisectoral": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on AI models, data or computing."}}},
+"authentication": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only talks with South Korea on digital authentication; no service authorised, contracted or piloted."}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No civil register link mentioned."}}},
+"datacentres": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Data centres are only a topic of talks; none stated in service."}}},
+"digitalsovereignty": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Bilateral cooperation talks; the PAFEN data-hosting strategy is a project component, not a stated state-data rule or goal."}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No enrolment count."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No operating arrangement stated."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No register keyed on an ID number; only data-exchange plans."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only a 2020 World Bank finding of no central digital ID and a planned ID strategy under PAFEN; no system procured or built."}}},
+"nationaldatacentres": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No national data centre stated."}}}
+}}

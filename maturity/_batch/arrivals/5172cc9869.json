@@ -1,0 +1,135 @@
+{
+ "slug": "2024-03-25-sen-senegal-s-digital-skills-initiatives-should-have-equity-in-mind",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service training stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only remarks on weak data protection; no law, authority or decision stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Rural 16% and urban one-third internet access figures are given without a survey or statistics-office source; no rural connectivity programme stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "ECDPM says Senegal's government human-capital action plan includes programmes to equip rural populations with specific digital skills such as e-commerce, under the Digital Senegal 2025 strategy.",
+       "as_of": "2024-03-25",
+       "date_precision": "day",
+       "system": "Digital Senegal 2025",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Senegal 2025",
+       "country_label": "Digital Senegal 2025 human capital action plan",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a government action plan on inclusive data collection and an ITU course, not a rule or accessibility programme."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says the digital skills budget is limited; no amount stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 42% without access and 8 million users with no survey source or year; not a stated use share."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "ECDPM says Senegal's government shut down mobile internet twice while trying to control the uproar over the postponed presidential election.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "mobile internet shutdown",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No school connectivity or curriculum figure stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, strategy or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or incubator programme stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-10-29-sen-validation-de-la-snao-l-interoprabilit-des-services-publics-lance-pour", "studies": {
+"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document-sharing between administrations is stated, but no civil register to ID link."}}},
+"civilregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Civil status is named only as a source of supporting documents."}}},
+"civilserviceskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The strategy covers counter staff skills in reception, not digital skills."}}},
+"digitalskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No public digital-skills programme stated."}}},
+"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}}},
+"police": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Police records are named only as supporting documents to be exchanged; no station records."}}},
+"publicconsultation": {"countries": {"SEN": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "Senegal's Ministry of Public Service held a technical validation workshop on the national reception and orientation strategy (Snao), which includes interoperability of public services, with administration, private sector and civil society actors taking part, reported by Seneweb.", "as_of": "2026-10-29", "date_precision": "day", "system": "Strategie nationale d'accueil et d'orientation des usagers du service public (Snao)", "class": "consultation"}], "systems": [], "note": ""}}},
+"registry": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No registry office digital entry of births or deaths stated."}}}
+}}

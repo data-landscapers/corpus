@@ -1,0 +1,43 @@
+{
+ "slug": "2024-05-24-lso-new-tower-for-ha-tsepe",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "A Vodacom Lesotho tower at Ha-Tsepe, Leribe, funded by the Universal Service Fund and the AfDB, was inaugurated and connects 10 villages.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Universal Service Fund tower",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Universal Service Fund",
+       "country_label": "Lesotho",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "USF named as funder with no amount."
+    }
+   }
+  }
+ }
+}

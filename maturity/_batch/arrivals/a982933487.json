@@ -1,0 +1,11 @@
+{"slug": "2026-01-28-stp-28-de-janeiro-sao-tome-e-principe-assinala-o-dia-internacional-da-priv", "studies": {
+"aiabuse": {"countries": {"STP": {"facts": [], "systems": [], "note": "Mentions deepfake and AI risks to personal data only as warnings by the ANPDP director; no rule, draft, designation or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"STP": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"aisectoral": {"countries": {"STP": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+"aisystems": {"countries": {"STP": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
+"dataprotectionlaw": {"countries": {"STP": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The ANPDP director complains of some public institutions' lack of proactivity in complying with the Personal Data Protection Law, which the agency polices.", "as_of": "2026-01-28", "date_precision": "day", "system": "Lei de Proteção de Dados Pessoais", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The ANPDP, installed about eight years ago, acts through prior control, with José Manuel Costa Alegre speaking as its director.", "as_of": "2026-01-28", "date_precision": "day", "system": "Agência Nacional de Proteção de Dados Pessoais (ANPDP)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The ANPDP requires authorisation before personal data are processed, especially sensitive data, and announced it will publish a list of non-compliant entities and apply the law's fines; no sanction is named.", "as_of": "2026-01-28", "date_precision": "day", "system": "Agência Nacional de Proteção de Dados Pessoais (ANPDP)", "class": "general"}
+], "systems": [{"system": "Agência Nacional de Proteção de Dados Pessoais (ANPDP)", "country_label": "São Tomé and Príncipe", "class": "authority", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}}
+}}

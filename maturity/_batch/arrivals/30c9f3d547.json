@@ -1,0 +1,86 @@
+{
+ "slug": "2025-03-01-uga-nita-u-launches-data-center-market-study-report-to-guide-expansion-of",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Third National Data Centre",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "",
+       "owner": "state (NITA-U)",
+       "tiers": ""
+      }
+     ],
+     "note": "The release names no data centre for hire in service, a Tier or a cloud region."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A market study report launch and a sovereignty remark; no strategy, rule, hosting or contract terms on state data."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general aim of aligning with international standards; no membership, adoption or requirement stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No system run or built by government staff is named, and no statement that NITA-U hosts systems for ministries."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Local government connection is not mentioned."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Third National Data Centre",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "",
+       "owner": "state (NITA-U)",
+       "tiers": ""
+      }
+     ],
+     "note": "A third national data centre is only being prepared; no nationally owned data centre in service or Tier is stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A stakeholder event launched a data centre market study; no consultation on a named digital law or policy is described."
+    }
+   }
+  }
+ }
+}

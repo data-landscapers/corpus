@@ -1,0 +1,108 @@
+{
+ "slug": "2026-01-14-mwi-usf-tower-site-initiative-set-to-bridge-malawi-s-digital-divide",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service digital-skills training stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Data Centre, Lilongwe",
+       "country_label": "National Data Centre Lilongwe",
+       "class": "other",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": "The new National Data Centre in Lilongwe is only said to get technical and financial support; not stated as in service or for hire."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The Public Private Partnership Commission's chief executive said the Universal Service Fund Tower Site Initiative, supported by the World Bank-funded Digital Malawi Acceleration Project, will build 98 towers in underserved communities nationwide.",
+       "as_of": "2026-01-14",
+       "date_precision": "day",
+       "system": "USF Tower Site Initiative",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "USF Tower Site Initiative",
+       "country_label": "USF Tower Site Initiative (98 towers)",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "PPPC with MACRA and MoICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Public Private Partnership Commission listed digital skills training for 10,000 Malawians among initiatives under the World Bank-funded Digital Malawi Acceleration Project.",
+       "as_of": "2026-01-14",
+       "date_precision": "day",
+       "system": "Digital Malawi Acceleration Project",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Initiatives are World Bank-funded; no state budget amount, own-resources commitment or execution figure stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The new National Data Centre in Lilongwe is only said to receive support; not stated as in service, for hire or hosting state data."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only World Bank project funding mentioned; no private amount stated."
+    }
+   }
+  }
+ }
+}

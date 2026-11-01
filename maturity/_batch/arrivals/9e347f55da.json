@@ -1,0 +1,10 @@
+{"slug": "2025-10-15-nga-senate-recommits-national-identity-management-bill-passes-five-others", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"digitalidlaw": {"countries": {"NGA": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Senate Leader said the National Identity Management Commission (Repeal and Enactment) Bill, 2025, passed by both chambers, was recommitted to the Committee of the Whole to fix legal and technical gaps before presidential assent.", "as_of": "2025-10-15", "date_precision": "day", "system": "National Identity Management Commission (Repeal and Enactment) Bill, 2025", "class": "law"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No system status, biometrics or certification stated."}}}
+}}

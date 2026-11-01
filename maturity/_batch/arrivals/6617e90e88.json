@@ -1,0 +1,11 @@
+{"slug": "2026-08-09-dza-algerie-telecom-lance-les-premieres-sessions-presentielles-du-programm", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states no government body using AI; AI is only a training topic."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states no sectoral AI tool."}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states no AI model, dataset or computing built in the country."}}},
+"civilserviceskills": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Programme is for the general public, not civil servants."}}},
+"dataprotectionlaw": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Data protection is only a course topic; no law is stated."}}},
+"digitalskills": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "Le Chiffre d'Affaires reports that the national 7-77 digital inclusion programme, launched in July 2026 with Algerie Telecom taking part, had held 40 online sessions for 1,166 participants and began in-person sessions for 600 people at Setif on 9 August 2026, with Annaba and Saida scheduled next.", "as_of": "2026-08-09", "date_precision": "day", "system": "programme national 7-77", "class": "publicskills"}
+], "systems": [{"system": "programme national 7-77", "country_label": "Algeria", "class": "publicskills", "platform": "dedicated online platform plus Algerie Telecom Skills Centers", "owner": "national programme with Algerie Telecom", "tiers": ""}], "note": ""}}}
+}}

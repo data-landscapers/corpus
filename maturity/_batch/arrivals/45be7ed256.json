@@ -1,0 +1,81 @@
+{
+ "slug": "2025-05-08-sen-paradigm-initiative-senegal-s-cdp-sign-mou-to-strengthen-data-protecti",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The CDP, with president Ousmane Thiongawe, signed an MoU with Paradigm Initiative in Abuja in May 2025 and is described as the authority for authorising data collection and transfers.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Commission de Protection des Donnees Personnelles (CDP)",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Commission de Protection des Donnees Personnelles (CDP)",
+       "country_label": "Senegal",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The CDP, with president Ousmane Thiongawe, signed an MoU with Paradigm Initiative in May 2025 and is described as the authority for authorising data collection and transfers.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Commission de Protection des Donnees Personnelles (CDP)",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Commission de Protection des Donnees Personnelles (CDP)",
+       "country_label": "Senegal",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The article names no law and states no application."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Paradigm Initiative is described as a pan-African body operating in six countries, and no Senegalese research institution is named."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "An MoU on awareness and redress is not a consultation on a named digital law or policy."
+    }
+   }
+  }
+ }
+}

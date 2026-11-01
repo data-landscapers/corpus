@@ -1,0 +1,110 @@
+{
+ "slug": "2025-01-26-som-maxay-dadka-soomaaliyeed-uga-dhigan-tahay-inay-helaan-kaar-aqoonsi-kad",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The number registered is not known; four million is only a 2025 card target."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "NIRA's director general says NIRA holds the national identity system and the people's data itself, with the World Bank funding the card and Pakistan supporting the system (BBC Somali).",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "NIRA national ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "NIRA's director general says the electoral commission is responsible for using the ID card to verify people registering to vote (BBC Somali).",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "Voter registration",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "BBC Somali reports NIRA began registration under a new system in September 2023 and has started printing cards carrying a unique 11-digit number, with 13 centres open.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "NIRA national ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIRA national ID system",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

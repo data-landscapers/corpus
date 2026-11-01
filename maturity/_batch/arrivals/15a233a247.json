@@ -1,0 +1,137 @@
+{
+ "slug": "2024-03-01-gha-nita-engages-stakeholders-for-effective-data-centre-cloud-regulations",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Government Cloud (G Cloud)",
+       "country_label": "Government Cloud (G Cloud)",
+       "platform": "",
+       "owner": "Government of Ghana",
+       "tiers": "",
+       "class": "other"
+      }
+     ],
+     "note": "G Cloud is named but no hosting or cloud policy is stated; the framework discussed regulates data centre and cloud operators."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The 4-tier National Data Center is named but the document does not say it rents to other organisations."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "The Minister of Communications and Digitalization said the Government Cloud (G Cloud) provides cloud services to governmental institutions.",
+       "as_of": "2024-02-20",
+       "date_precision": "day",
+       "system": "Government Cloud (G Cloud)",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The document names the Electronic Transactions Act, 2008 (Act 772) as a law under which NITA is mandated as national IT regulator, speaking of it as existing law.",
+       "as_of": "2024-02-20",
+       "date_precision": "day",
+       "system": "Electronic Transactions Act, 2008 (Act 772)",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "G Cloud is said to serve government institutions but the document does not say government staff build or run it."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The National Data Center is not stated to be for hire, nor government data stated hosted in it."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "NITA cohosted with Smart Africa a three-day workshop on a data centre and cloud regulatory framework, where a Ghana and Djibouti pilot project was unveiled.",
+       "as_of": "2024-02-20",
+       "date_precision": "day",
+       "system": "Smart Africa",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa",
+       "country_label": "Smart Africa",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": "",
+       "class": "cooperation"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

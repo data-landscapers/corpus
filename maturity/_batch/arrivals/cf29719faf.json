@@ -1,0 +1,86 @@
+{
+ "slug": "2025-08-17-cpv-estudo-alerta-para-desigualdades-nas-competencias-digitais",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI harms rules."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions no government AI system."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions no sectoral AI system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions no AI built in the country."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says public departments rarely offer digital training; no programme stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Reports a mean skills score (3.75 of 6), not a share with basic digital skills; no programme stated."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives a skills score for people with disabilities, nothing on accessibility law or services."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-02-24-tun-webdo-arp-audition-sante-protection-donnees", "studies": {
+"dataprotectionlaw": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "The Assembly's Rights and Freedoms Committee held a hearing on organic-law proposal 095/2025 on personal data protection, which is before parliament, per webdo relaying TAP.", "as_of": "2026-02", "date_precision": "month", "system": "Organic-law proposal 095/2025 on personal data protection", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "A Ministry of Health representative told the committee that the Instance de protection des donnees personnelles has ceased its activities since 2024.", "as_of": "2026-02", "date_precision": "month", "system": "Instance de protection des donnees personnelles (INPDP)", "class": "general"}
+], "systems": [{"system": "Instance de protection des donnees personnelles (INPDP)", "country_label": "Tunisia", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Health-data hosting is stated as a bill's restriction and a ministry claim; no rule on state data in force is stated."}}},
+"itcapacity": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Health Ministry's representative said its Centre national de l'informatique, set up by legislation, manages and develops the ministry's digital health systems and oversees data processing, transfer and infrastructure security.", "as_of": "2026-02", "date_precision": "month", "system": "Centre national de l'informatique (Ministry of Health)", "class": "staff"}
+], "systems": [{"system": "Centre national de l'informatique (Ministry of Health)", "country_label": "Tunisia", "class": "staff", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document is not about schools."}}}}}

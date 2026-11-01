@@ -1,0 +1,54 @@
+{
+ "slug": "2026-08-08-cod-rdc-le-fdsu-passe-du-diagnostic-a-l-action-avec-les-premieres-conventi",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "FDSU signed first subsidy conventions with Vodacom, Airtel, Africell and Orange for 40 pilot sites in underserved zones, planning 300 sites next and at least 3,000 by 2030.",
+       "as_of": "2026-08-08",
+       "date_precision": "day",
+       "system": "FDSU universal connectivity programme",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "FDSU universal connectivity programme",
+       "country_label": "DR Congo",
+       "class": "other",
+       "platform": "",
+       "owner": "FDSU",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "allocated",
+       "fact": "FDSU signed subsidy conventions worth USD 4,182,998 in total with four mobile operators for 40 pilot sites.",
+       "as_of": "2026-08-08",
+       "date_precision": "day",
+       "system": "FDSU subsidy conventions",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

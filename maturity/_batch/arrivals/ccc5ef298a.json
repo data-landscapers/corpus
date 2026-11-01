@@ -1,0 +1,81 @@
+{
+ "slug": "2025-11-02-gnb-relatorio-final-sobre-o-projeto-wardip-revisao-do-quadro-legal-para-o",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The WARDIP consultants' final report delivered a strategic plan for Guinea-Bissau's Universal Access and Service Fund (FAU), including fibre links extending the national backbone to less-served rural centres and a pilot to subsidise phones.",
+       "as_of": "2025-10-30",
+       "date_precision": "day",
+       "system": "Fundo de Acesso e Servico Universal (FAU)",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fundo de Acesso e Servico Universal (FAU)",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "ARN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No budget amount, levy or spending stated."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "A physical dissemination workshop only; no online channel."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Backbone expansion is a law commitment and a WARDIP project to come; no contract or works stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "A dissemination workshop on 30 October 2025 presented Guinea-Bissau's draft universal access and service law, decree, policy and FAU plan to stakeholders, whose twelve comments the consultants answered in the final report.",
+       "as_of": "2025-10-30",
+       "date_precision": "day",
+       "system": "Universal access and service law and policy review",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

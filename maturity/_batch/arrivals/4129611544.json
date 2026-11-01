@@ -1,0 +1,6 @@
+{"slug": "2026-01-29-gab-gabon-launches-digital-skills-program-for-1-000-youths-with-u-s-firm-c", "studies": {
+"civilserviceskills": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Programme is for young Gabonese, not civil servants; ANINF only may recruit top trainees."}}},
+"digitalskills": {"countries": {"GAB": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "ANINF and Cybastion launched the free Africa DigiEmpower digital and cybersecurity training programme for 1,000 young Gabonese on 27 January 2026, with three levels hosted at the ANINF Academy.", "as_of": "2026-01-27", "date_precision": "day", "system": "Africa DigiEmpower", "class": "publicskills"}], "systems": [{"system": "Africa DigiEmpower", "country_label": "Gabon", "class": "publicskills", "platform": "ANINF Academy", "owner": "ANINF with Cybastion", "tiers": "three levels"}], "note": ""}}},
+"itcapacity": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Training programme only; no government-run system is stated."}}},
+"schoolinternet": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

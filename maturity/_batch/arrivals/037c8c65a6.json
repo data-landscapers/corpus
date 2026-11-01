@@ -1,0 +1,124 @@
+{
+ "slug": "2024-06-13-ago-angop-emis-cidadao-digital-500-mil-formados-angotic2024",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "EMIS (Empresa Interbanc\u00e1ria de Servi\u00e7os) board chair Jos\u00e9 Marcos said more than 500,000 young people in Luanda and Benguela provinces had received digital-literacy training in two years under the Cidad\u00e3o Digital project, costing about 400 million kwanzas, to be extended to Huambo this year.",
+       "as_of": "2024-06-13",
+       "date_precision": "day",
+       "system": "Cidad\u00e3o Digital",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cidad\u00e3o Digital",
+       "country_label": "Angola",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "EMIS (Empresa Interbanc\u00e1ria de Servi\u00e7os)",
+       "tiers": "Luanda, Benguela; Huambo planned"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

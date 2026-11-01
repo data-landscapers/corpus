@@ -1,0 +1,7 @@
+{"slug": "2025-10-01-civ-former-1-000-jeunes-aux-metiers-du-numerique-une-ambition-concrete-pre", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government body's AI system stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Hub national d'Intelligence Artificielle", "country_label": "Hub national d'Intelligence Artificielle", "class": "other", "platform": "", "owner": "UNDP-supported", "tiers": ""}], "note": "The hub is named only in a list of UNDP-supported projects with training in prototyping; no model, dataset or AI computing is stated."}}},
+"businessregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on a business register."}}}
+}}

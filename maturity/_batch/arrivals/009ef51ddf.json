@@ -1,0 +1,97 @@
+{
+ "slug": "2026-10-31-gmb-senegalese-fintech-intouch-signs-10-year-partnership-with-gambia-to-st",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The Finance Ministry and Gambia Revenue Authority signed a 10-year agreement with InTouch, chosen in an international tender, for a digital platform to monitor transactions and process government payments, with taxpayers paying through several channels; the system is described as to be implemented.",
+       "as_of": "2026-10-30",
+       "date_precision": "day",
+       "system": "InTouch revenue monitoring and payments platform",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "InTouch revenue monitoring and payments platform",
+       "country_label": "Gambia",
+       "class": "revenue",
+       "platform": "InTouch",
+       "owner": "Gambia Revenue Authority / Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

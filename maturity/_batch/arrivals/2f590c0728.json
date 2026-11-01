@@ -1,0 +1,11 @@
+{"slug": "2026-10-30-civ-oneci-se-deploie-aux-etats-unis", "studies": {
+"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No register link stated."}}},
+"civilregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No statement on operation or ownership."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ONECI says that from 30 October 2026 the Ivorian embassy in the United States becomes an enrolment centre for issuing national identity cards (CNI), in a pilot phase.", "as_of": "2026-10-30", "date_precision": "day", "system": "Carte Nationale d'Identité (ONECI)", "class": "idsystem"}], "systems": [{"system": "Carte Nationale d'Identité (ONECI)", "country_label": "Côte d'Ivoire", "class": "idsystem", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

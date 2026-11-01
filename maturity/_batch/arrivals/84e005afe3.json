@@ -1,0 +1,123 @@
+{
+ "slug": "2026-10-31-ssd-juba-city-council-launches-digital-payment-system-to-improve-transpare",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Juba City Council digital payment system",
+       "country_label": "South Sudan",
+       "class": "application",
+       "platform": "",
+       "owner": "Juba City Council",
+       "tiers": "city council"
+      },
+      {
+       "system": "jccgov.ss website",
+       "country_label": "South Sudan",
+       "class": "web",
+       "platform": "website",
+       "owner": "Juba City Council",
+       "tiers": "city council"
+      }
+     ],
+     "note": "No connection at the council's office is stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Juba City Council's caretaker mayor said that in the last ten days the council moved all its revenue operations from manual forms to a digital payment system.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Juba City Council digital payment system",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Juba City Council digital payment system",
+       "country_label": "South Sudan",
+       "class": "application",
+       "platform": "",
+       "owner": "Juba City Council",
+       "tiers": "city council"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

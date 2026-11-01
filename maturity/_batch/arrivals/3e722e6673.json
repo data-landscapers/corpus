@@ -1,0 +1,8 @@
+{"slug": "2025-05-01-mus-community-digital-empowerment-programme", "studies": {
+"civilserviceskills": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Programme is for neighbourhood residents, not civil servants."}}},
+"digitaldivides": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Skills outreach; no internet access programme for rural areas or figures stated."}}},
+"digitalskills": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The Mauritius Digital Promotion Agency says the Minister of Information Technology, Communication and Innovation launched the inaugural Community Digital Empowerment Programme in Bel Air on 10-11 May 2025, with similar events planned in other regions.", "as_of": "2025-05-11", "date_precision": "day", "system": "Community Digital Empowerment Programme", "class": "publicskills"}],
+"systems": [{"system": "Community Digital Empowerment Programme", "country_label": "Community Digital Empowerment Programme", "class": "publicskills", "platform": "", "owner": "Mauritius Digital Promotion Agency", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"MUS": {"facts": [], "systems": [], "note": "E-services are mentioned only as something trainees learn to use; no portal or service named."}}}
+}}

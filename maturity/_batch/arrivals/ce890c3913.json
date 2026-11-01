@@ -1,0 +1,106 @@
+{
+ "slug": "2025-03-01-egy-minister-of-planning-economic-development-and-international-cooperatio",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "The Ministry of Planning reported that under Haya Karima phase one fibre-optic network had been extended to 409 villages and the first-phase villages had 371,600 internet subscribers, at end-December 2024.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "Haya Karima",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Haya Karima",
+       "country_label": "Decent Life / Haya Karima rural development initiative",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "Ministry of Planning, Economic Development and International Cooperation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  }
+ }
+}

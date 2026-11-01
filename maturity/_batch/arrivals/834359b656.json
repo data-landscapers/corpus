@@ -1,0 +1,113 @@
+{
+ "slug": "2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The complaint concerns telecoms Quality of Service rules, not digital financial services conduct rules."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Consumers Association of Malawi complained to MACRA of delays on Mo626, Airtel Money and Mpamba mobile money transactions, which shows those services running.",
+       "as_of": "2026-10-31",
+       "date_precision": "day",
+       "system": "Airtel Money; Mpamba; Mo626",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Malawi",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel Malawi",
+       "tiers": ""
+      },
+      {
+       "system": "Mpamba",
+       "country_label": "Malawi",
+       "class": "retail",
+       "platform": "",
+       "owner": "TNM",
+       "tiers": ""
+      },
+      {
+       "system": "Mo626",
+       "country_label": "Malawi",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  }
+ }
+}

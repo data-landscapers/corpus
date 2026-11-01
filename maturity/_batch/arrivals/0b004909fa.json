@@ -1,0 +1,61 @@
+{
+ "slug": "2026-06-04-mrt-aned-data-localisation-agreement-nouakchott-data-centre",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "The state digital agency signed a three-year renewable agreement to host its data in the Nouakchott data centre, which the ministry's statement says holds a Tier III accreditation under international standards.",
+       "as_of": "2026-06-04",
+       "date_precision": "day",
+       "system": "Nouakchott data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nouakchott data centre",
+       "country_label": "Mauritania",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Mauritanian International Telecommunications company (as the agreement's counterparty)",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The Tier III accreditation of a data centre is a certificate and places nothing; no membership, adoption or rule is stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Nouakchott data centre",
+       "country_label": "Mauritania",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": "The document does not state the data centre's ownership, so nothing on national ownership or the state's hosting with a national provider is recorded."
+    }
+   }
+  }
+ }
+}

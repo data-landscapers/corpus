@@ -1,0 +1,11 @@
+{"slug": "2025-05-29-nga-honourable-minister-dr-bosun-tijani-unveils-digital-village-with-free", "studies": {
+"civilserviceskills": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil servants."}}},
+"digitaldivides": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "The Federal Ministry of Communications, Innovation and Digital Economy says its Innovation Village pilot, with Huawei, Glo and the Universal Service Provision Fund, delivers free public Wi-Fi at 100 Mbps to over 12,000 residents of the rural settlement of Ibwa 2, Kura, Gwagwalada.", "as_of": "2025-05-29", "date_precision": "day", "system": "Innovation Village", "class": "ruralaccess"}],
+"systems": [{"system": "Innovation Village", "country_label": "Innovation Village, Ibwa 2", "class": "ruralaccess", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The Federal Ministry says the Innovation Village pilot in Ibwa 2 includes community training sessions on digital literacy and device maintenance, with scaling to more rural communities planned after a quarter's evaluation.", "as_of": "2025-05-29", "date_precision": "day", "system": "Innovation Village", "class": "publicskills"}],
+"systems": [], "note": ""}}},
+"domesticfinancing": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The Universal Service Provision Fund is named as a partner with no amount, budget year or statement."}}},
+"schoolinternet": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Classrooms at one pilot site only; no share or curriculum statement."}}}
+}}

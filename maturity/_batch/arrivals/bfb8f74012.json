@@ -1,0 +1,43 @@
+{
+ "slug": "2024-05-29-mwi-1-4-malawians-possess-digital-expertise-nso-macra",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service training stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an urban-rural gap in school ICT labs is mentioned; no rural internet use shares or programme with counts."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "measured",
+       "value": "measured",
+       "fact": "A study by Malawi's National Statistical Office with MACRA found only 1.4% of Malawians possess digital skills.",
+       "as_of": "2024-05-29",
+       "date_precision": "day",
+       "system": "NSO and MACRA digital skills study",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

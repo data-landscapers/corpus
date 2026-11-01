@@ -1,0 +1,112 @@
+{
+ "slug": "2026-06-03-som-data-breach-notification",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Data Protection Authority runs a breach notification service, which it published on its site on 3 June 2026.",
+       "as_of": "2026-06-03",
+       "date_precision": "day",
+       "system": "Data Protection Authority",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Authority",
+       "country_label": "Somalia",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling against a named organisation is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Data Protection Authority runs a breach notification service, which it published on its site on 3 June 2026.",
+       "as_of": "2026-06-03",
+       "date_precision": "day",
+       "system": "Data Protection Authority",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The Authority's breach notification page, dated 3 June 2026, says organisations are required to notify it of personal data breaches without undue delay, and offers a way to report one.",
+       "as_of": "2026-06-03",
+       "date_precision": "day",
+       "system": "Data Protection Authority",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Authority",
+       "country_label": "Somalia",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The page names no law, so no standing or regulations are recorded."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The Data Protection Authority runs a breach notification service, which it published on its site on 3 June 2026.",
+       "as_of": "2026-06-03",
+       "date_precision": "day",
+       "system": "Data Protection Authority",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "The Authority's breach notification page, dated 3 June 2026, says organisations are required to notify it of personal data breaches without undue delay, and offers a way to report one.",
+       "as_of": "2026-06-03",
+       "date_precision": "day",
+       "system": "Data Protection Authority",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Authority",
+       "country_label": "Somalia",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The page names no law, so the law aspect is not recorded."
+    }
+   }
+  }
+ }
+}

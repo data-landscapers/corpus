@@ -1,0 +1,10 @@
+{"slug": "2026-09-01-lbr-lta-ministry-of-youth-sports-launch-nationwide-digital-skills-initiati", "studies": {
+"civilserviceskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Programme is for young people, not civil servants."}}},
+"digitaldivides": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Hubs are youth skills centres; no rural or underserved areas stated."}}},
+"digitalskills": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The Liberia Telecommunications Authority and the Ministry of Youth & Sports signed an MOU to set up 15 Youth Digital Skills Hubs, with LTA funding a three-month training expected to benefit about 750 young people.", "as_of": "2026-09", "date_precision": "month", "system": "Youth Digital Skills Hubs", "class": "publicskills"}],
+"systems": [{"system": "Youth Digital Skills Hubs", "country_label": "Youth Digital Skills Hubs", "class": "publicskills", "platform": "", "owner": "Liberia Telecommunications Authority and Ministry of Youth & Sports", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No strategy named beyond a general digital transformation agenda."}}},
+"satellitebroadband": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Starlink equipment is supplied to the hubs, not sold to households or businesses."}}},
+"schoolinternet": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on school internet or a compulsory subject."}}}
+}}

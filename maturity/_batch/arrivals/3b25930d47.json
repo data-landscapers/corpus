@@ -1,0 +1,64 @@
+{
+ "slug": "2025-08-05-gha-fact-check-rashid-computer-understates-2025-allocation-for-rural-telep",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "Ghana's communications minister told Parliament that 1,477 rural telephony towers were completed between 2022 and 2025 (1,010 in Phase 1A, 467 in Phase 1B), per the Hansard of 24 March 2025.",
+       "as_of": "2025-03-24",
+       "date_precision": "day",
+       "system": "Rural Telephony Project",
+       "class": "ruralaccess"
+      },
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The Ministry allocated GH¢147 million in 2025 to complete the 539 outstanding rural telephony sites.",
+       "as_of": "2025-03-24",
+       "date_precision": "day",
+       "system": "Rural Telephony Project",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Rural Telephony Project",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "",
+       "owner": "GIFEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "allocated",
+       "fact": "Ghana's communications minister told Parliament that GH¢147 million was allocated in the 2025 budget to complete 539 outstanding rural telephony sites.",
+       "as_of": "2025-03-24",
+       "date_precision": "day",
+       "system": "Rural Telephony Project",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

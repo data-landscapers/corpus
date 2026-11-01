@@ -1,0 +1,110 @@
+{
+ "slug": "2023-11-09-dji-loi-18-an-23-ratification-convention-malabo",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The ratification law cites Law n\u00b066/AN/14/7\u00e8me L of 20 July 2014 on cybersecurity and the fight against cybercrime as part of Djibouti's legal framework.",
+       "as_of": "2014-07-20",
+       "date_precision": "day",
+       "system": "Loi n\u00b066/AN/14/7\u00e8me L relative \u00e0 la cyber s\u00e9curit\u00e9 et \u00e0 la lutte contre la cybercriminalit\u00e9",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malabo Convention",
+       "country_label": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)",
+       "class": "other",
+       "platform": "",
+       "owner": "African Union",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Malabo Convention",
+       "country_label": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)",
+       "class": "other",
+       "platform": "",
+       "owner": "African Union",
+       "tiers": ""
+      }
+     ],
+     "note": "The document is a Malabo Convention ratification law, a treaty; it names no general data protection law."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "Loi n\u00b018/AN/23/9\u00e8me L, adopted by the National Assembly on 9 November 2023, ratifies the African Union Convention on cybersecurity and personal data protection.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malabo Convention",
+       "country_label": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)",
+       "class": "other",
+       "platform": "",
+       "owner": "African Union",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "Djibouti's Loi n\u00b018/AN/23/9\u00e8me L, adopted by the National Assembly on 9 November 2023, ratifies the African Union Convention on cybersecurity and personal data protection adopted at Malabo on 27 June 2014.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malabo Convention",
+       "country_label": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)",
+       "class": "harmonisation",
+       "platform": "",
+       "owner": "African Union",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

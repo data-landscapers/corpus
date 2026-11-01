@@ -1,0 +1,7 @@
+{"slug": "2024-06-04-ken-governments-digital-literacy-program-creates-149-000-online-jobs", "studies": {
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Training described is for youths, not civil servants."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "The ICT Cabinet Secretary said in mid-2024 that the government's free digital-skills programme had trained 490,000 youths over the past year, with digital hubs being set up in all wards across the country.", "as_of": "2024-06-04", "date_precision": "day", "system": "digital literacy program", "class": "publicskills"}], "systems": [{"system": "digital literacy program (digital hubs)", "country_label": "Kenya", "class": "publicskills", "platform": "", "owner": "Ministry of ICT and the Digital Economy", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a target to raise uptake of government services online; no service is described."}}},
+"police": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Police stations are only named as a connectivity target; no record system."}}},
+"schoolinternet": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Schools named only as a connectivity target; no figure or curriculum statement."}}}
+}}

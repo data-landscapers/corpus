@@ -1,0 +1,11 @@
+{"slug": "2026-04-24-stp-agencia-nacional-de-protecao-de-dados-pessoais-celebra-8o-aniversario", "studies": {
+"aiabuse": {"countries": {"STP": {"facts": [], "systems": [], "note": "AI-related manipulation in elections is named only as a challenge by the electoral commission president; no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"STP": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"aisectoral": {"countries": {"STP": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+"aisystems": {"countries": {"STP": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
+"dataprotectionlaw": {"countries": {"STP": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "RSTP states that São Tomé and Príncipe approved its general personal data protection law in 2016 and the law on the authority's organisation in 2017, and the ANPDP president says institutions process data in obedience to the law.", "as_of": "2026-04-24", "date_precision": "day", "system": "Lei geral de proteção de dados pessoais (2016)", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The ANPDP marked its eighth anniversary with a workshop on data in the electoral period, led by its director José Costa Alegre.", "as_of": "2026-04-24", "date_precision": "day", "system": "Agência Nacional de Proteção de Dados Pessoais (ANPDP)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The ANPDP director reports an increase in complaints of personal data violations on social networks; no decision or count settled is given.", "as_of": "2026-04-24", "date_precision": "day", "system": "Agência Nacional de Proteção de Dados Pessoais (ANPDP)", "class": "general"}
+], "systems": [{"system": "Agência Nacional de Proteção de Dados Pessoais (ANPDP)", "country_label": "São Tomé and Príncipe", "class": "authority", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}}
+}}

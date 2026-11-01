@@ -1,0 +1,115 @@
+{
+ "slug": "2025-09-17-zmb-airtel-ihs-build-152-telecom-towers-in-zambia",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "ZICTA's director of universal access said 43 of 51 remote-area towers were complete in September 2025, within a government rollout of 152 towers with Airtel and IHS Zambia, 40 of them operational.",
+       "as_of": "2025-09-17",
+       "date_precision": "day",
+       "system": "ZICTA remote-area tower programme",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ZICTA remote-area tower programme",
+       "country_label": "152-tower rollout with Airtel and IHS Zambia",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "ZICTA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives no rural electricity access figure."
+    }
+   }
+  }
+ }
+}

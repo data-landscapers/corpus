@@ -1,0 +1,126 @@
+{
+ "slug": "2026-10-31-uga-exim-bank-terrapay-cross-border-remittance-costs",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Exim Bank Uganda launched Exim Global Pay, a cross-border payment platform on TerraPay's network, for individuals and businesses in Uganda.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Exim Global Pay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Exim Global Pay",
+       "country_label": "Uganda",
+       "class": "crossborder",
+       "platform": "TerraPay network",
+       "owner": "Exim Bank Uganda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions internet shutdowns freezing mobile money with no date, order or actor."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "The Daily Monitor reports that research by the Economic Policy Research Centre finds high upfront digital fees give households a burden of cost and digital exclusion.",
+       "as_of": "2026-10-31",
+       "date_precision": "day",
+       "system": "Economic Policy Research Centre",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

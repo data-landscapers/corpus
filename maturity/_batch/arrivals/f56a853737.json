@@ -1,0 +1,136 @@
+{
+ "slug": "2026-06-12-gab-gabon-digital-l-apdpvp-et-le-ministere-de-l-economie-numerique-prepare",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The APDPVP cites law n°025/2023 of 12 July 2023 amending law n°001/2011 of 25 September 2011 on personal data protection as the Gabonese legal framework.",
+       "as_of": "2026-06-09",
+       "date_precision": "day",
+       "system": "Law n°001/2011 as amended by law n°025/2023",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The APDPVP, an independent administrative authority led by president Joël Dominique Ledaga, held a working session on 9 June 2026 and says it oversees the rules on collecting, processing, storing and securing data.",
+       "as_of": "2026-06-09",
+       "date_precision": "day",
+       "system": "APDPVP",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "The APDPVP says its cooperation with the Ministry of Digital Economy on the national Data Centre includes favouring Gabon's digital sovereignty by localising critical data on the territory; inauguration was set for 30 June 2026.",
+       "as_of": "2026-06-09",
+       "date_precision": "day",
+       "system": "Gabon Digital national Data Centre",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

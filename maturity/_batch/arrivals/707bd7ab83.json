@@ -1,0 +1,11 @@
+{"slug": "2024-06-21-ago-angola-decision-on-infringement-proceedings", "studies": {
+"dataprotectionauthority": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "body", "aspect": "rulings", "value": "ruled", "fact": "Angola's Data Protection Agency (APD) board of directors says it fined MAXAM US$150,000-equivalent for an illegal transfer to the UK, and Banco Comercial do Huambo and UNITEL US$75,000-equivalent each, by deliberations 001-003 of 30 April and 19 June 2024.", "as_of": "2024-06-19", "date_precision": "day", "system": "Angolan Data Protection Agency (APD)", "class": "authority"},
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The APD's Board of Directors, acting under article 53 of Law 22/11 of 17 June, issued the fining deliberations, so the authority is in post.", "as_of": "2024-06-21", "date_precision": "day", "system": "Angolan Data Protection Agency (APD)", "class": "authority"}
+], "systems": [{"system": "Angolan Data Protection Agency (APD)", "country_label": "Angola", "class": "authority", "platform": "", "owner": "APD", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The APD says it fined MAXAM, Banco Comercial do Huambo and UNITEL for breaching personal data protection rules under Law 22/11, by deliberations 001-003/2024 of 30 April and 19 June 2024.", "as_of": "2024-06-19", "date_precision": "day", "system": "Law 22/11 of 17 June", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Board of Directors of the Angolan Data Protection Agency issued fining deliberations under article 53(3) of Law 22/11.", "as_of": "2024-06-21", "date_precision": "day", "system": "Angolan Data Protection Agency (APD)", "class": "general"},
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Fines imposed on three entities under Law 22/11 of 17 June, cited by the APD as the basis of its deliberations.", "as_of": "2024-06-19", "date_precision": "day", "system": "Law 22/11 of 17 June", "class": "general"}
+], "systems": [], "note": ""}}},
+"regionalpolicy": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states nothing on regional digital cooperation."}}}}}

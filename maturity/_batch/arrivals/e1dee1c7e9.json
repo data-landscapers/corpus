@@ -1,0 +1,91 @@
+{
+ "slug": "2025-06-02-mar-al3omk-cndp-seghrouchni-media-compliance-deadline",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The CNDP, headed by president Omar Seghrouchni, was acting in June 2025 by writing to media outlets to comply with Law 09-08.",
+       "as_of": "2025-06-02",
+       "date_precision": "day",
+       "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+       "country_label": "Morocco",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No dated ruling against a named organisation is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "CNDP president Omar Seghrouchni circulated a letter to national media on 2 June 2025 asking them to notify and seek authorisations to align their personal data processing with Law 09-08 before 31 July 2025.",
+       "as_of": "2025-06-02",
+       "date_precision": "day",
+       "system": "Law 09-08",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The CNDP, headed by president Omar Seghrouchni, was acting in June 2025 by writing to media outlets to comply with Law 09-08.",
+       "as_of": "2025-06-02",
+       "date_precision": "day",
+       "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "CNDP president Omar Seghrouchni circulated a letter to national media on 2 June 2025 asking them to notify and seek authorisations to align their personal data processing with Law 09-08 before 31 July 2025.",
+       "as_of": "2025-06-02",
+       "date_precision": "day",
+       "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Law 09-08",
+       "country_label": "Morocco",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "National Commission for the Control of the Protection of Personal Data (CNDP)",
+       "country_label": "Morocco",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

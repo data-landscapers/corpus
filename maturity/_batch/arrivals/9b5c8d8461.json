@@ -1,14 +1,1 @@
-{
- "slug": "2025-10-31-inege-octava-edicion-anuario-estadistico-nacional",
- "studies": {
-  "fibrebackbone": {
-   "countries": {
-    "GNQ": {
-     "facts": [],
-     "systems": [],
-     "note": "Yearbook figures on subscriptions and civil service; no fibre backbone stated."
-    }
-   }
-  }
- }
-}
+{"slug": "2025-10-31-inege-octava-edicion-anuario-estadistico-nacional", "studies": {"internationalbandwidth": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Yearbook launch; internet subscription growth only, no international fibre route stated."}}}}}

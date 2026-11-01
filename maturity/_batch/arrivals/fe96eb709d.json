@@ -1,0 +1,12 @@
+{"slug": "2025-05-20-ken-ca-launches-ambitious-ksh-40b-universal-service-fund-strategy-to-boost", "studies": {
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on civil-servant digital training."}}},
+"digitaldivides": {"countries": {"KEN": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "The Communications Authority's Director General says the Universal Service Fund has connected nearly 800,000 people in underserved areas, 886 secondary schools, 56 public libraries and 42 law courts.", "as_of": "2025-05-20", "date_precision": "day", "system": "Universal Service Fund", "class": "ruralaccess"}], "systems": [{"system": "Universal Service Fund", "country_label": "Universal Service Fund (USF)", "class": "ruralaccess", "platform": "", "owner": "Communications Authority of Kenya", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Digital skilling is named only as a planned focus, with no programme or count."}}},
+"digitalstrategy": {"countries": {"KEN": {"facts": [], "systems": [{"system": "USF Strategy 2023-2027", "country_label": "Universal Service Fund Strategy 2023-2027", "class": "other", "platform": "", "owner": "Communications Authority of Kenya", "tiers": ""}], "note": "The strategy is the regulator's universal service fund strategy, not a national digital strategy."}}},
+"disabilityaccess": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Persons with disabilities are named only as a target of planned skilling."}}},
+"domesticfinancing": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The KSh 40 billion figure is a strategy size, with no budget year, line or statement of own-resource financing."}}},
+"itcapacity": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government staff running systems."}}},
+"publicconsultation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Says only broad stakeholder input, with no named consultation, hearing or opinion given."}}},
+"schoolinternet": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A count of 886 schools connected, not a share of secondary schools; no curriculum statement."}}},
+"schools": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Teacher uploading school records is an illustration, not a described system."}}}
+}}

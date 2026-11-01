@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lightwave Health Information Management System (LHIMS)",
+   "country_label": "LHIMS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health (vendor Lightwave, India)",
+   "tiers": ""
+  },
+  {
+   "system": "Ghana Health Information Management System (GHIMS)",
+   "country_label": "GHIMS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "LHIMS is described as an electronic medical records and patient management system with 450 of 950 facilities connected; routine reporting to the ministry is not stated, so it is not recorded as the national health information system. GHIMS is an ordered replacement, not delivered."
+}

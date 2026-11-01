@@ -1,0 +1,81 @@
+{
+ "slug": "2026-04-15-nam-n-42-1m-boost-for-rural-networks-as-cran-advances-phase-ii-connectivit",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "CRAN committed N$42.1 million under USF Phase II for rural and underserved networks, with MTC building nine RAN sites, 39% of the rollout complete by March 2026, and Phase 3 of about N$65 million in preparation.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Universal Service Fund",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Universal Service Fund",
+       "country_label": "Namibia",
+       "class": "other",
+       "platform": "",
+       "owner": "CRAN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "allocated",
+       "fact": "CRAN committed N$42.1 million under USF Phase II in 2026 and says about N$65 million is to be allocated to USF Phase 3.",
+       "as_of": "2026-04-15",
+       "date_precision": "day",
+       "system": "Universal Service Fund",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions e-government platforms only as a use of connectivity."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States a 53% internet penetration target base without saying it is a survey or ITU share of people."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural electricity access figure stated."
+    }
+   }
+  }
+ }
+}

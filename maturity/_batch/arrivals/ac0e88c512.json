@@ -1,1 +1,87 @@
-{"slug": "2026-10-30-com-lagazette-sante-et-numerique-onze-projets", "studies": {"admindata": {"countries": {"COM": {"facts": [], "systems": [], "note": "The article states nothing on statistics drawn from administrative records."}}}, "health": {"countries": {"COM": {"facts": [], "systems": [{"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}, {"system": "registre electronique de vaccination", "country_label": "registre electronique de vaccination", "class": "tracker", "platform": "", "owner": "", "tiers": ""}], "note": "No owner, tiers, digitisation point, clinics share or dated change for a system is stated."}}}, "healthmis": {"countries": {"COM": {"facts": [{"sub_indicator": "hmis", "aspect": "linked", "value": "linked", "fact": "La Gazette des Comores reports that the electronic vaccination register and the medicines and supplies management system are integrated with or interoperable with DHIS2, as presented at a 27 October 2026 coordination meeting.", "as_of": "2026-10-27", "date_precision": "day", "system": "DHIS2", "class": "hmis"}], "systems": [{"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}, {"system": "registre electronique de vaccination", "country_label": "registre electronique de vaccination", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The article does not say DHIS2 is national with facilities across the country reporting, nor give a reporting rate."}}}}}
+{
+ "slug": "2026-10-30-com-lagazette-sante-et-numerique-onze-projets",
+ "studies": {
+  "customs": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on customs."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The health ministry's statistics directorate told a 27 October 2026 meeting that DHIS2 has the electronic vaccination register and the medicines and inputs management system integrated or interoperable with it.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "breadth",
+       "value": "wide",
+       "fact": "DHIS2, the electronic vaccination register and the medicines and inputs management system are named together as integrated or interoperable.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "DHIS2",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": "",
+       "class": "exchange"
+      },
+      {
+       "system": "Electronic vaccination register",
+       "country_label": "Electronic vaccination register",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "other"
+      },
+      {
+       "system": "Medicines and inputs management system",
+       "country_label": "Medicines and inputs management system",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "other"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on land administration."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on tax administration."
+    }
+   }
+  }
+ }
+}

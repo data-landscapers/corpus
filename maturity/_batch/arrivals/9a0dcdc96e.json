@@ -1,0 +1,142 @@
+{
+ "slug": "2025-12-05-cmr-camtel-et-ethio-telecom-unissent-leurs-forces-pour-accelerer-la-transf",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The Zamengoe data centre is only named as visited; not stated to rent capacity to others."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The Zamengoe data centre is only named as visited; no hire or ownership stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Blue Money",
+       "country_label": "Blue Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "CAMTEL",
+       "tiers": ""
+      }
+     ],
+     "note": "Blue Money is stated only as an area for development under the agreement; no licence, pilot or service stated."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "CAMTEL's press release says its agreement with Ethio Telecom, signed 4 December 2025, covers establishing a sovereign Government Cloud to support digitalising public services.",
+       "as_of": "2025-12-04",
+       "date_precision": "day",
+       "system": "Government Cloud",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Cloud",
+       "country_label": "Government Cloud",
+       "class": "sovereignty",
+       "platform": "",
+       "owner": "CAMTEL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

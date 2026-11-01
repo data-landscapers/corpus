@@ -1,0 +1,4 @@
+{"slug": "2026-04-15-egy-egypt-s-data-watchdog-to-be-fully-operational-by-november-2026", "studies": {
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Amwal Al Ghad reports Suzanne El Akabaoui as acting chief executive of Egypt's Personal Data Protection Centre, speaking in Cairo.", "as_of": "2026-04-15", "date_precision": "day", "system": "Personal Data Protection Centre (PDPC)", "class": "general"}
+], "systems": [{"system": "Personal Data Protection Centre (PDPC)", "country_label": "Egypt", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": "Licensing from November 2026 is stated as a plan; no decision or count."}}}}}

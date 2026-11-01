@@ -1,0 +1,115 @@
+{
+ "slug": "2024-05-09-rwa-ministry-of-ict-gives-roadmap-for-issuance-of-digital-id",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "A civil registry records phase is named but no digital civil registration system is described."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only zero digital ID cards issued is stated, with no count or share of people enrolled in the national ID."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "MINICT Permanent Secretary Yves Iradukunda told Parliament's Public Accounts Committee that two of four phases of the USD 40 million digital ID project are done, the core ID system tender is out, and no digital ID card had been issued by May 2024.",
+       "as_of": "2024-05-09",
+       "date_precision": "day",
+       "system": "Single digital ID system (SDID)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Single digital ID system (SDID)",
+       "country_label": "Rwanda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA / MINICT / RISA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "RISA is named as an implementer with no statement of who builds or runs systems."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

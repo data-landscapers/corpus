@@ -1,0 +1,138 @@
+{
+ "slug": "2025-01-20-nam-n-120m-to-bridge-digital-divide",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The article cites the 2023 housing and population census report for household and phone figures, so a census was counted in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "2023 Population and Housing Census",
+       "class": "census"
+      },
+      {
+       "sub_indicator": "census",
+       "aspect": "results",
+       "value": "final",
+       "fact": "The 2023 housing and population census report is cited as stating household internet and phone ownership figures, so results are published.",
+       "as_of": "2025-01-20",
+       "date_precision": "day",
+       "system": "2023 Population and Housing Census",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "2023 Population and Housing Census",
+       "country_label": "Census 2023",
+       "class": "census",
+       "platform": "",
+       "owner": "Namibia Statistics Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The information ministry says government allocated N$120 million over 2024/25 to 2026/27 to roll out network and transmission towers nationwide to bridge the digital divide, through Universal Access.",
+       "as_of": "2025-01-20",
+       "date_precision": "day",
+       "system": "Universal Access tower programme",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Universal Access tower programme",
+       "country_label": "Namibia",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "MICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "ownership",
+       "aspect": "owners",
+       "value": "survey:52",
+       "fact": "The 2023 census report is cited as showing about 52% of the population above age three own a mobile phone.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "2023 Population and Housing Census",
+       "class": "ownership"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "slug": "2024-01-16-mwi-digmap-luntha-ndi-chuma-initiative-for-human-capital-development",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "The Public Private Partnership Commission's DIGMAP 'Luntha ndi Chuma' digital skills initiative, World Bank-funded and run through 9 tech hubs, reports that NXTGen Labs alone has trained 3,371 youths and women in Mzimba, Mzuzu, Lilongwe, Blantyre and Zomba.",
+       "as_of": "2024-01-16",
+       "date_precision": "day",
+       "system": "Luntha ndi Chuma",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Luntha ndi Chuma",
+       "country_label": "Malawi",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "PPPC under the Digital Malawi Project",
+       "tiers": "9 tech hubs"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "World Bank funding to a government project is not private money to a digital business."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The DIGMAP 'Luntha ndi Chuma' initiative, funded by the World Bank, runs through 9 tech hubs, including NXTGen Labs-Mpemba Training Centre in Blantyre, which teaches digital and entrepreneurship courses; no startup incubation cohort is described.",
+       "as_of": "2024-01-16",
+       "date_precision": "day",
+       "system": "NXTGen Labs-Mpemba Training Centre",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NXTGen Labs-Mpemba Training Centre",
+       "country_label": "Malawi",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": "Blantyre"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

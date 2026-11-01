@@ -1,0 +1,12 @@
+{"slug": "2024-08-20-bwa-ministry-to-digitise-national-registration", "studies": {
+"authentication": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on civil register link."}}},
+"digitalidlaw": {"countries": {"BWA": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Minister of Labour and Home Affairs Annah Mokgethi presented the National Registration Amendment Bill 2024 to amend the existing National Registration Act, which provides for the Omang identity card.", "as_of": "2024-08", "date_precision": "month", "system": "National Registration Act", "class": "law"}], "systems": [{"system": "National Registration Act (Omang)", "country_label": "Botswana", "class": "law", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No enrolment count or share; only 641 cards uncollected at one office."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Omang card mentioned; no unique number, biometrics or certification stated."}}},
+"localgov": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+"registry": {"countries": {"BWA": {"facts": [], "systems": [], "note": "National registration is identity, not civil registration of births or deaths."}}}
+}}

@@ -1,0 +1,6 @@
+{"slug": "2026-03-08-sdn-suna-digital-ministry-4g-plan-200-villages", "studies": {
+"digitaldivides": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Sudan's minister of digital transformation and communications said the ministry plans to extend 4G coverage to about 200 villages across the states during 2026 to narrow the urban-rural digital gap.", "as_of": "2026-03-08", "date_precision": "day", "system": "200-village 4G coverage project", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No government online service stated."}}}
+}}

@@ -1,0 +1,9 @@
+{"slug": "2024-12-13-bfa-11eme-session-ordinaire", "studies": {
+"dataprotectionauthority": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The CIL says its commissioners met in their 11th ordinary session in December 2024 and adopted a deliberation on communication of personal data to third parties.", "as_of": "2024-12-13", "date_precision": "day", "system": "Commission de l'informatique et des libertes (CIL)", "class": "authority"}
+], "systems": [{"system": "Commission de l'informatique et des libertes (CIL)", "country_label": "Burkina Faso", "class": "authority", "platform": "", "owner": "CIL", "tiers": ""}], "note": "No ruling on a named organisation; the deliberation is general."}}},
+"dataprotectionlaw": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The CIL's commissioners met in December 2024 and adopted a deliberation requiring prior free and informed consent before personal data goes to third parties.", "as_of": "2024-12-13", "date_precision": "day", "system": "Commission de l'informatique et des libertes (CIL)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The CIL says it adopted a general deliberation on communication of personal data to third parties, with sanctions for breach; no decision on a controller.", "as_of": "2024-12-13", "date_precision": "day", "system": "CIL deliberation on communication to third parties", "class": "general"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The document is not about schools."}}}}}

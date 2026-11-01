@@ -1,0 +1,60 @@
+{
+ "slug": "2026-10-29-ago-sistema-integrado-de-gestao-de-recursos-humanos-da-funcao-publica-sing",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service digital-skills training stated."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "renewed",
+       "value": "live",
+       "fact": "Angola's public-administration ministry officially launched SINGERH, described as the new integrated human-resources system for the civil service, in Luanda, with its database already holding some 426,000 records transferred from SIGFE.",
+       "as_of": "2026-10-29",
+       "date_precision": "day",
+       "system": "SINGERH",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SINGERH",
+       "country_label": "SINGERH",
+       "class": "core",
+       "platform": "",
+       "owner": "MAPTSS",
+       "tiers": ""
+      },
+      {
+       "system": "SIGFE",
+       "country_label": "SIGFE",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No land register stated."
+    }
+   }
+  }
+ }
+}

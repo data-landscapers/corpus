@@ -1,0 +1,115 @@
+{
+ "slug": "2025-10-28-tza-tanzania-nears-universal-rural-connectivity-as-741-of-758-masts-go-liv",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "The Universal Communications Service Access Fund programme had activated 741 of 758 planned masts by 23 October 2025, connecting about 1,300 of 1,407 target villages across 713 wards, with a Sh126 billion government subsidy to operators.",
+       "as_of": "2025-10-23",
+       "date_precision": "day",
+       "system": "UCSAF mast subsidy programme",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UCSAF rural mast programme",
+       "country_label": "UCSAF",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "UCSAF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Subsidy named without a budget year or digital line."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  }
+ }
+}

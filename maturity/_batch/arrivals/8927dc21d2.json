@@ -1,0 +1,7 @@
+{"slug": "2024-11-04-zmb-usaf-inadequate-to-finance-major-rollout-of-mobile-towers-ps", "studies": {
+"digitaldivides": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The Ministry of Science and Technology's permanent secretary said in November 2024 that the Universal Access and Services Fund has been reaching unserved and underserved areas and can finance only about 30 towers a year against a deficit of about 900.", "as_of": "2024-11-04", "date_precision": "day", "system": "Universal Access and Services Fund (USAF)", "class": "ruralaccess"}
+], "systems": [{"system": "Universal Access and Services Fund (USAF)", "country_label": "Zambia", "class": "ruralaccess", "platform": "", "owner": "Government of Zambia", "tiers": "funded by a 1.5 per cent operator contribution"}], "note": ""}}},
+"domesticfinancing": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The fund's 1.5 per cent operator contribution and its roughly 30 towers a year are stated, but no statement that digital transformation must be paid at home, no budget amount and no spending report."}}},
+"ruralelectrification": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Electricity not mentioned."}}}
+}}

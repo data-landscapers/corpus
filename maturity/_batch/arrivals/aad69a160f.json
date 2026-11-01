@@ -1,0 +1,144 @@
+{
+ "slug": "2026-02-16-sdn-national-id-card-resumes-in-safe-states",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Passports and Civil Registry Authority's circular grounds the national ID card on Article 27 of the Civil Registry Act 2011, which obliges every citizen aged 16 to obtain one.",
+       "as_of": "2026-02-15",
+       "date_precision": "day",
+       "system": "Civil Registry Act 2011",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National identity card and civil fingerprint system",
+       "country_label": "Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Passports and Civil Registry Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing states the law provides a digital identity."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Passports and Civil Registry Authority says national numbers have been issued to all age groups above 12 through civil registry centres, and national ID card issuance resumed in safe states from 15 February 2026.",
+       "as_of": "2026-02-15",
+       "date_precision": "day",
+       "system": "National identity card and civil fingerprint system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National identity card and civil fingerprint system",
+       "country_label": "Sudan",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Passports and Civil Registry Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

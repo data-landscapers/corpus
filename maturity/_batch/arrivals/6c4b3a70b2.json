@@ -1,0 +1,33 @@
+{"slug": "2026-10-30-ben-e-gouvernance-le-benin-et-la-mauritanie-a-l-ecole-estonienne-et-vice-v", "studies": {
+"authentication": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "A Benin official lists an electronic certificate among the foundations of the national platform, beside identity, data exchange, single portal and payment.", "as_of": "2026-10-28", "date_precision": "day", "system": "certificat electronique", "class": "authentication"}], "systems": [], "note": ""},
+"MRT": {"facts": [], "systems": [], "note": "The 2021 e-wallet law concerns payments; no authentication service stated."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No register link stated."}, "MRT": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"civilserviceskills": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}, "MRT": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"cybersecurity": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "A Benin official says no platform is delivered without a battery of tests by the national cybersecurity centre.", "as_of": "2026-10-28", "date_precision": "day", "system": "centre national de cybersecurite", "class": "response"}], "systems": [], "note": ""},
+"MRT": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "A Mauritanian official says a national cybersecurity certification agency came into being in 2025.", "as_of": "2025", "date_precision": "year", "system": "agence nationale de certification en cybersecurite", "class": "response"}], "systems": [], "note": ""}}},
+"dataexchange": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "A Benin official names a data exchange platform among the foundations of its digital state, beside identity, single portal, e-certificate and payment.", "as_of": "2026-10-28", "date_precision": "day", "system": "plateforme d'echange de donnees", "class": "exchange"}], "systems": [], "note": ""},
+"MRT": {"facts": [], "systems": [], "note": "Nothing on a data exchange platform."}}},
+"digitalsovereignty": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "sovereignty", "aspect": "hosted", "value": "national", "fact": "A Benin official says Beninese data stays in Benin, and the country ran two years without a maintenance contract with no service interruption.", "as_of": "2026-10-28", "date_precision": "day", "system": "", "class": "sovereignty"}], "systems": [], "note": ""},
+"MRT": {"facts": [], "systems": [], "note": "A planned law to open public data is not a rule on state data hosting."}}},
+"egovservices": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "A Benin official says the national platform, launched in March 2020 with five services, now has over 210 services digitalised end to end.", "as_of": "2026-10-28", "date_precision": "day", "system": "plateforme nationale de services publics", "class": "eservices"}], "systems": [], "note": ""},
+"MRT": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "A Mauritanian official claims about forty transactional online services, of nearly 900 targeted.", "as_of": "2026-10-28", "date_precision": "day", "system": "", "class": "eservices"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "coverage", "aspect": "share", "value": "twothirds", "fact": "A Benin official says more than 99% of the population has a digital identity.", "as_of": "2026-10-28", "date_precision": "day", "system": "digital identity", "class": "idsystem"}], "systems": [], "note": ""},
+"MRT": {"facts": [], "systems": [], "note": "No identity coverage stated."}}},
+"idfrombirth": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "A Benin official says the digital identity is now assigned from birth.", "as_of": "2026-10-28", "date_precision": "day", "system": "digital identity", "class": "birthnumber"}], "systems": [], "note": ""},
+"MRT": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The two years without a maintenance contract is not tied to the ID system."}, "MRT": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}, "MRT": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idrobustness": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "A Benin official says over 99% of the population has a digital identity, assigned from birth.", "as_of": "2026-10-28", "date_precision": "day", "system": "digital identity", "class": "idsystem"}], "systems": [], "note": ""},
+"MRT": {"facts": [], "systems": [], "note": "No national ID system stated."}}},
+"opendatapolicy": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}, "MRT": {"facts": [], "systems": [], "note": "A law to open public data is announced as intention; no drafting reported."}}},
+"opendatause": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}, "MRT": {"facts": [], "systems": [], "note": "No data published; a law to open data is announced."}}},
+"paymentsuptake": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}, "MRT": {"facts": [], "systems": [], "note": "Banking rate over 50% is an official's claim, not a survey of adults with accounts."}}}
+}}

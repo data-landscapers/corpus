@@ -1,21 +1,48 @@
 {
  "slug": "2026-10-27-gnq-annobon-without-internet-access-now-gathers-testimonies-and-demands-an",
  "studies": {
-  "internetusage": {
+  "broadbandstrategy": {
    "countries": {
     "GNQ": {
      "facts": [],
      "systems": [],
-     "note": "States no internet user share; only a blackout on Annobon."
+     "note": "The Annobon blackout is described as a government shutdown; nothing here states this subject."
     }
    }
   },
-  "refugees": {
+  "exchangepoints": {
    "countries": {
     "GNQ": {
      "facts": [],
      "systems": [],
-     "note": "Says nothing on refugees or displaced people."
+     "note": "The Annobon blackout is described as a government shutdown; nothing here states this subject."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The Annobon blackout is described as a government shutdown; nothing here states this subject."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The Annobon blackout is described as a government shutdown; nothing here states this subject."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The Annobon blackout is described as a government shutdown; nothing here states this subject."
     }
    }
   }

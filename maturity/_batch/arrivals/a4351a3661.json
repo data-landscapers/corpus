@@ -1,0 +1,148 @@
+{
+ "slug": "2025-07-28-swz-government-has-not-signed-google-deal",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service training stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Eswatini Observer reports cybersecurity experts as saying that using Google Workspace would sideline the country's own Tier 4 National Data Centre.",
+       "as_of": "2025-07-28",
+       "date_precision": "day",
+       "system": "National Data Centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Data Centre",
+       "country_label": "National Data Centre (Tier 4)",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "government",
+       "tiers": "Tier 4"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Eswatini Observer quotes cybersecurity experts as saying the Data Protection Act, under the oversight of the Eswatini Communications Commission, sets requirements on data handling, residency, consent and cross-border transfers.",
+       "as_of": "2025-07-28",
+       "date_precision": "day",
+       "system": "Data Protection Act",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Eswatini Observer quotes cybersecurity experts as saying the Data Protection Act, under the oversight of the Eswatini Communications Commission, sets requirements on data handling, residency, consent and cross-border transfers.",
+       "as_of": "2025-07-28",
+       "date_precision": "day",
+       "system": "Data Protection Act",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a minister's and director's claim of skills benefits from the Google MoU; no programme launched or measured."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Residency rule is the experts' reading of the Act, not a stated rule on state data; Google deal is an MoU only."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Government in Your Hand is mentioned only as a launch framing; no services or portal stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Eswatini Observer reports cybersecurity experts as saying that using Google Workspace would sideline the country's own Tier 4 National Data Centre.",
+       "as_of": "2025-07-28",
+       "date_precision": "day",
+       "system": "National Data Centre",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "owner",
+       "value": "national",
+       "fact": "Eswatini Observer calls the Tier 4 National Data Centre the country's own.",
+       "as_of": "2025-07-28",
+       "date_precision": "day",
+       "system": "National Data Centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Data Centre",
+       "country_label": "National Data Centre (Tier 4)",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "government",
+       "tiers": "Tier 4"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No school connectivity or curriculum stated."
+    }
+   }
+  }
+ }
+}

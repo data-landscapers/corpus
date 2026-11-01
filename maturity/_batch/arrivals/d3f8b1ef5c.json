@@ -1,0 +1,4 @@
+{"slug": "2024-02-27-mdg-intelsat-amn-expand-rural-connectivity-in-madagascar", "studies": {
+"digitaldivides": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Connecting Africa says the government's Digital and Energy Connectivity for Inclusion in Madagascar (DECIM) project, launched in 2023, focuses on deploying infrastructure in underserved areas.", "as_of": "2023", "date_precision": "year", "system": "DECIM", "class": "ruralaccess"}
+], "systems": [{"system": "Intelsat and AMN rural sites", "country_label": "Madagascar", "class": "other", "platform": "", "owner": "Africa Mobile Networks", "tiers": ""}], "note": ""}}}}}

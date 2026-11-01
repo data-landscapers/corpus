@@ -1,0 +1,106 @@
+{
+ "slug": "2025-09-16-zwe-tower-relocation-project-brings-mobile-connectivity-to-marginalised-co",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "POTRAZ's USF-funded Tower Relocation Project had relocated and switched on 30 towers to underserved rural and border communities by September 2025, with 14 more due.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Tower Relocation Project",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tower Relocation Project",
+       "country_label": "Tower Relocation Project (TRP)",
+       "class": "ruralaccess",
+       "platform": "Universal Services Fund",
+       "owner": "POTRAZ",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions."
+    }
+   }
+  }
+ }
+}

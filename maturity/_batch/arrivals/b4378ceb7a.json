@@ -1,0 +1,163 @@
+{
+ "slug": "2025-02-28-cmr-decret-modifiant-et-completant-certaines-dispositions-du-decret-n2016",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Decree 2025/058 of 28 February 2025 makes the Security Auditor of the national identity-title production centre (CNPTI, under the national police) responsible for managing the digital certificates issued by the Public Key Infrastructure.",
+       "as_of": "2025-02-28",
+       "date_precision": "day",
+       "system": "CNPTI PKI",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNPTI PKI",
+       "country_label": "Cameroon",
+       "class": "authentication",
+       "platform": "Public Key Infrastructure",
+       "owner": "CNPTI / DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree only has the centre produce a national disability card; nothing on information or digital services."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "Decree 2025/058 of 28 February 2025 gives the head of the national identity-title production centre (CNPTI, attached to the national police) the administration of the system, network, databases, applications and security of the identity-title production system.",
+       "as_of": "2025-02-28",
+       "date_precision": "day",
+       "system": "CNPTI identity-title production system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Decree 2025/058 of 28 February 2025 has the CNPTI produce the national identity card and keep the national identity file, with regional, departmental and post identification centres enrolling and distributing cards through enrolment stations.",
+       "as_of": "2025-02-28",
+       "date_precision": "day",
+       "system": "CNPTI national identity system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNPTI",
+       "country_label": "Cameroon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": "regional, departmental and post identification centres"
+      },
+      {
+       "system": "Fichier national de l'identite",
+       "country_label": "Cameroon",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "CNPTI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A national identity file is named but not said to serve as a population register."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree only assigns production of refugee cards, with no registration figure or number."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

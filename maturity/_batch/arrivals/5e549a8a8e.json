@@ -1,0 +1,11 @@
+{"slug": "2024-07-10-bfa-code-des-personnes-et-de-la-famille-le-gouvernement-apporte-des-innova", "studies": {
+"authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "States nothing on an authentication service."}}},
+"birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "ANCI is a coordination body for identification initiatives; no record link or shared responsibility for both registers is stated."}}},
+"civilregister": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Family code bill only recognises customary and religious marriages in the civil register; no digital register is stated."}}},
+"idcoverage": {"countries": {"BFA": {"facts": [], "systems": [{"system": "Autorité nationale de coordination de l'identification (ANCI)", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "Présidence du Faso", "tiers": ""}], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No statement on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No public register keyed on an ID number is stated."}}},
+"idrobustness": {"countries": {"BFA": {"facts": [], "systems": [], "note": "A decree creates ANCI to accompany a strategic plan for the unique identifier; a plan and a coordinating body, no system built or piloted."}}},
+"registry": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}}
+}}

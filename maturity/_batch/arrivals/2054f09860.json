@@ -1,0 +1,717 @@
+{
+ "slug": "2025-06-01-tza-wsis-20-country-report-tanzania",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "AI strategy named only as a future priority."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The report says Tanzania has implemented the National Public Key Infrastructure (NPKI).",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "National Public Key Infrastructure (NPKI)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Public Key Infrastructure (NPKI)",
+       "country_label": "Tanzania",
+       "class": "authentication",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "broadbandstrategy": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "plan",
+       "aspect": "standing",
+       "value": "ended",
+       "fact": "The report lists the Tanzania Broadband Strategy (2013-2018) among its strategic documents, a period that has ended.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Tanzania Broadband Strategy (2013-2018)",
+       "class": "plan"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tanzania Broadband Strategy (2013-2018)",
+       "country_label": "Tanzania",
+       "class": "plan",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The report names e-procurement among the e-government platforms implemented through the e-Government Authority.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "e-procurement",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-procurement",
+       "country_label": "Tanzania",
+       "class": "procurement",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The report says electronic civil registration services were implemented under e-government, without saying where or for which events.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "electronic civil registration services",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "electronic civil registration services",
+       "country_label": "Tanzania",
+       "class": "civil",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The report says TZ-CERT, the Tanzania Computer Emergency Response Team, is functioning and coordinates national cybersecurity efforts, alongside a National Cybersecurity Strategy.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "TZ-CERT",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TZ-CERT",
+       "country_label": "Tanzania",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The report cites the Cybercrimes Act (2015) among the instruments behind the country's cybersecurity standing.",
+       "as_of": "2015",
+       "date_precision": "year",
+       "system": "Cybercrimes Act (2015)",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cybercrimes Act (2015)",
+       "country_label": "Tanzania",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The report cites the Personal Data Protection Act (2022) as enacted and part of the legal foundation.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Personal Data Protection Act (2022)",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Personal Data Protection Act (2022)",
+       "country_label": "Tanzania",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The report says the Universal Communications Service Access Fund (UCSAF, since 2006) has expanded ICT access to rural and underserved areas, with no sites counted.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "UCSAF",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UCSAF",
+       "country_label": "Tanzania",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "The report says the Tanzania Digital Club has 711 clubs with 766 teachers and 1,878 students, and 3,798 teachers were trained on ICT equipment.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Tanzania Digital Club",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tanzania Digital Club",
+       "country_label": "Tanzania",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Ministry's WSIS+20 report lists the Tanzania Digital Economy Strategic Framework (2024-2034) as an in-place plan guiding the country's digital transformation.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Tanzania Digital Economy Strategic Framework (2024-2034)",
+       "class": "national"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2034",
+       "fact": "The report gives the Tanzania Digital Economy Strategic Framework a period of 2024-2034.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Tanzania Digital Economy Strategic Framework (2024-2034)",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tanzania Digital Economy Strategic Framework (2024-2034)",
+       "country_label": "Tanzania",
+       "class": "national",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The report cites the Electronic Transactions Act (2022) among the laws in place.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Electronic Transactions Act (2022)",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic Transactions Act (2022)",
+       "country_label": "Tanzania",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The report says the e-Government Authority, set up in 2012, led to e-government platforms such as online tax systems, e-procurement and electronic civil registration, with no count of services given.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "e-Government platforms (eGA)",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Government platforms (eGA)",
+       "country_label": "Tanzania",
+       "class": "eservices",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The Ministry says Tanzania operates six Internet Exchange Points.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Internet Exchange Points",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Internet Exchange Points",
+       "country_label": "Tanzania",
+       "class": "exchange",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "every-region",
+       "fact": "The Ministry says the National ICT Backbone (NICTBB) has expanded to 13,820 km, reaching all 25 regional headquarters (26 in section 4.1) and 109 of 139 districts.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "country_label": "Tanzania",
+       "class": "backbone",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "sector",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The report says the National ICT Policy of 2016, revised in 2025, sets goals and measures for ICT development.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "National ICT Policy 2025",
+       "class": "sector"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ICT Policy 2025",
+       "country_label": "Tanzania",
+       "class": "sector",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "The Ministry says three submarine cables are active in Tanzania: SEACOM, EASSy and 2Africa.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "SEACOM, EASSy and 2Africa cables",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SEACOM, EASSy and 2Africa cables",
+       "country_label": "Tanzania",
+       "class": "route",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The report names Tanzania a member of the African Telecommunications Union (ATU), alongside SADC, EAC and RASCOM.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "African Telecommunications Union (ATU)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "African Telecommunications Union (ATU)",
+       "country_label": "Tanzania",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The report says the Government Electronic Payment Gateway (GePG) has been implemented since 2017 and names online tax systems among e-government platforms.",
+       "as_of": "2017",
+       "date_precision": "year",
+       "system": "Government Electronic Payment Gateway (GePG)",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Electronic Payment Gateway (GePG)",
+       "country_label": "Tanzania",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The report states nothing this study asks."
+    }
+   }
+  }
+ }
+}

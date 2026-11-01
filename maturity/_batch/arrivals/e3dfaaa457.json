@@ -1,0 +1,13 @@
+{"slug": "2025-10-13-uga-digital-skilling-powering-uganda-s-future", "studies": {
+"civilserviceskills": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The Ministry of ICT and National Guidance's Permanent Secretary says communication officers from the Health, Defence, Lands & Housing, ICT & NG and Works ministries completed professional ICDL training in digital media and online publishing.", "as_of": "2025-10-13", "date_precision": "day", "system": "ICDL Africa partnership", "class": "csskills"}],
+"systems": [{"system": "ICDL Africa partnership", "country_label": "ICDL Africa five-year agreement", "class": "csskills", "platform": "ICDL", "owner": "Ministry of ICT and National Guidance", "tiers": ""}], "note": ""}}},
+"digitaldivides": {"countries": {"UGA": {"facts": [], "systems": [], "note": "DigiTruck is a training classroom, not stated as a programme bringing internet access."}}},
+"digitalskills": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "The Ministry of ICT and National Guidance's Permanent Secretary says over 10,000 Ugandans have learned digital skills through government programmes, including the DigiTruck mobile classroom in Kasese, Kabale, Lira, Soroti and Hoima.", "as_of": "2025-10-13", "date_precision": "day", "system": "DigiTruck", "class": "publicskills"}],
+"systems": [{"system": "DigiTruck", "country_label": "DigiTruck", "class": "publicskills", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""}, {"system": "ICDL Africa partnership", "country_label": "ICDL Africa five-year agreement", "class": "publicskills", "platform": "ICDL", "owner": "Ministry of ICT and National Guidance", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"UGA": {"facts": [], "systems": [{"system": "Digital Transformation Roadmap 2023/24-2027/28", "country_label": "Digital Transformation Roadmap 2023/24-2027/28", "class": "other", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""}], "note": "Roadmap is named only as listing training as a goal; nothing on its standing, text or reporting."}}},
+"qualitystandards": {"countries": {"UGA": {"facts": [], "systems": [], "note": "ICDL deal aims at national digital skills standards but names no issued standard, body or certifier."}}},
+"refugees": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Refugee training counts are skills training, not registration, documents or digital services."}}},
+"schoolinternet": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on school internet or a compulsory subject."}}}
+}}

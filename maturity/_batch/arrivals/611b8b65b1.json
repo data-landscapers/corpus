@@ -1,0 +1,106 @@
+{
+ "slug": "2025-08-19-swz-300-000-emaswati-to-benefit-from-free-coding-programme",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Courses in AI are training, not AI built in the country."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "ICT minister Savannah Maziya launched the Udacity Coding Programme, a Government of Eswatini and UAE partnership offering free certified courses in AI fundamentals, data science, programming and Android development, targeting 300,000 emaSwati, with registration open; no number trained is stated.",
+       "as_of": "2025-08-18",
+       "date_precision": "day",
+       "system": "Udacity Coding Programme",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Udacity Coding Programme",
+       "country_label": "Eswatini",
+       "class": "publicskills",
+       "platform": "coderseswatini.gov.sz",
+       "owner": "Ministry of ICT with UAE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug": "2026-03-31-sen-spotlight-on-concept-the-itu-digital-transformation-centre-in-senegal", "studies": {
+"civilserviceskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Training is for the public, not civil servants."}}},
+"digitalskills": {"countries": {"SEN": {"facts": [], "systems": [{"system": "Concept (ITU Digital Transformation Centre)", "country_label": "Senegal", "class": "other", "platform": "65 ICT training centres", "owner": "Concept, a national NGO funded by ITU and Norway", "tiers": ""}], "note": "The programme is an NGO's, funded by ITU and Norway; no government body is stated as running it."}}},
+"disabilityaccess": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Training of visually impaired people is by an NGO; no government law, policy or delivery stated."}}},
+"egovservices": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a general remark on access to online services; no service or portal named."}}},
+"schoolinternet": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on secondary school internet or compulsory curriculum."}}}
+}}

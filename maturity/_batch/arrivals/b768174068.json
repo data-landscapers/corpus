@@ -1,0 +1,156 @@
+{
+ "slug": "2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Cyber Security Authority",
+       "country_label": "Cyber Security Authority",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": "The Cyber Security Authority is named as collaborating on a data probe; no incident response, alert or designation is stated."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Data Protection Commission is acting as supervisor under the Data Protection Act, 2012 (Act 843), launching a probe into health data managed by Lightwave eHealthCare Solutions; an investigation opened is not a ruling.",
+       "as_of": "2025-10-30",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Commission",
+       "country_label": "Data Protection Commission",
+       "class": "authority",
+       "platform": "",
+       "owner": "Government of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Data Protection Commission says its probe into hospital patient data will test compliance with the Data Protection Act, 2012 (Act 843).",
+       "as_of": "2025-10-30",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Data Protection Commission is conducting the investigation under Act 843, with the Cyber Security Authority and NITA.",
+       "as_of": "2025-10-30",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The Commission opened an investigation into how health data held by Lightwave eHealthCare Solutions is stored and managed; no decision or sanction is stated.",
+       "as_of": "2025-10-30",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "country_label": "Data Protection Act, 2012 (Act 843)",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Lightwave Health Information Management System (LHIMS)",
+       "country_label": "LHIMS",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health (vendor Lightwave, India)",
+       "tiers": ""
+      },
+      {
+       "system": "Ghana Health Information Management System (GHIMS)",
+       "country_label": "GHIMS",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "LHIMS is described as an electronic medical records and patient management system with 450 of 950 facilities connected; routine reporting to the ministry is not stated, so it is not recorded as the national health information system. GHIMS is an ordered replacement, not delivered."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "outsourced",
+       "fact": "Health Minister Kwabena Mintah Akandoh says the Ministry of Health's LHIMS, under a 2019 $100 million contract, was built and run by India's Lightwave with Ghana's health data hosted on servers in India, outside state control.",
+       "as_of": "2025-10-29",
+       "date_precision": "day",
+       "system": "LHIMS",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LHIMS",
+       "country_label": "Lightwave Health Information Management System",
+       "class": "staff",
+       "platform": "",
+       "owner": "Ministry of Health (vendor Lightwave)",
+       "tiers": ""
+      }
+     ],
+     "note": "The locally developed GHIMS replacement is ordered, not delivered."
+    }
+   }
+  }
+ }
+}

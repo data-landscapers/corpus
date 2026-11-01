@@ -1,0 +1,12 @@
+{"slug": "2025-08-19-ken-major-usf-transparency-update-kenya-s-communications-authority-respond", "studies": {
+"digitaldivides": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "Kenya's Communications Authority says its Universal Service Fund mobile infrastructure phases 1-4 targeted 369 sub-locations and 155 are connected to date, within a KES 17.674 billion, 11-project portfolio with an estimated 1.6 million beneficiaries.", "as_of": "2025-08", "date_precision": "month", "system": "Universal Service Fund mobile infrastructure phases 1-4", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national digital strategy is named."}}},
+"disabilityaccess": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "delivered", "value": "delivered", "fact": "The USF portfolio listed by the Communications Authority includes an Education Cloud and Assistive Tech project providing content and devices for learners with print disabilities.", "as_of": "2025-08", "date_precision": "month", "system": "Education Cloud and Assistive Tech (USF)", "class": "accessibility"}
+], "systems": [], "note": ""}}},
+"domesticfinancing": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A USF levy and portfolio total are given, but no budget year, budget line or published spending account from 2024."}}},
+"eparticipation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No online consultation or channel is stated."}}},
+"policyresearch": {"countries": {"KEN": {"facts": [], "systems": [], "note": "KICTANet is described as a multi-stakeholder platform; no research publication is stated."}}},
+"publicconsultation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Consultation is stated as a USF principle and 'limited' in evidence; no named digital law or policy consultation."}}}}}

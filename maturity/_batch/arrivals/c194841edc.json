@@ -1,0 +1,61 @@
+{
+ "slug": "2025-10-29-mwi-usf-malawi-completes-mobile-network-tower-development-project-to-boost",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "Malawi's Universal Service Fund, implemented by MACRA, announced completion of its Mobile Network Tower Development Project in four districts (Nkhotakota, Balaka, Dedza, Ntcheu) to extend coverage to rural, unserved and underserved communities, under the World Bank-funded DMAP 2024-2030.",
+       "as_of": "2025-10-29",
+       "date_precision": "day",
+       "system": "Mobile Network Tower Development Project",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Universal Service Fund",
+       "country_label": "Malawi",
+       "class": "other",
+       "platform": "",
+       "owner": "MACRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names DMAP, a financed programme, and no national digital strategy."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Project sits in World Bank-funded DMAP; no state budget amount or own-resource statement."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "No private money amount stated."
+    }
+   }
+  }
+ }
+}

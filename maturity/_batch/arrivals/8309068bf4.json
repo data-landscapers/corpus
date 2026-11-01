@@ -1,0 +1,463 @@
+{
+ "slug": "2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The deck lists Decree No. 59/2019 regulating the Mozambique Digital Certification System, with a trust structure of public and private certification entities, and states no service in use.",
+       "as_of": "2019-07-03",
+       "date_precision": "day",
+       "system": "Mozambique Digital Certification System",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mozambique Digital Certification System",
+       "country_label": "Mozambique",
+       "class": "authentication",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "The ICT regulator's deck lists the Data Protection Law as in preparation.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Data Protection Law",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Law",
+       "country_label": "Mozambique",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "The deck says Mozambique has ratified the Malabo Convention.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malabo Convention",
+       "country_label": "Mozambique",
+       "class": "system",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The deck lists Law No. 6/2022 as the Legal Regime for Civil Identification and the National Citizen Identity Card.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Law 6/2022 Civil Identification and National Citizen Identity Card",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Law 6/2022 Civil Identification and National Citizen Identity Card",
+       "country_label": "Mozambique",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The deck lists Law No. 3/2017 of 9 January, the Electronic Transactions Law, among Mozambique's laws.",
+       "as_of": "2017-01-09",
+       "date_precision": "day",
+       "system": "Electronic Transactions Law (Law 3/2017)",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "rules",
+       "fact": "The deck lists Decree No. 59/2019 of 3 July, the Regulation of the Digital Certification System, beside the Electronic Transactions Law.",
+       "as_of": "2019-07-03",
+       "date_precision": "day",
+       "system": "Decree 59/2019 Digital Certification System regulation",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic Transactions Law (Law 3/2017)",
+       "country_label": "Mozambique",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "framework",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The deck lists Decree No. 67/2017 of 1 December as the Regulation of the Interoperability Framework for Electronic Government Systems.",
+       "as_of": "2017-12-01",
+       "date_precision": "day",
+       "system": "Interoperability Framework for Electronic Government Systems (Decree 67/2017)",
+       "class": "framework"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Interoperability Framework for Electronic Government Systems (Decree 67/2017)",
+       "country_label": "Mozambique",
+       "class": "framework",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The deck lists Decree No. 67/2017 of 1 December regulating the Interoperability Framework for Electronic Government Systems.",
+       "as_of": "2017-12-01",
+       "date_precision": "day",
+       "system": "Decree 67/2017",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Decree 67/2017",
+       "country_label": "Mozambique",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "The deck says Mozambique has ratified the Malabo Convention.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malabo Convention",
+       "country_label": "Mozambique",
+       "class": "harmonisation",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

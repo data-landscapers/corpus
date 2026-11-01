@@ -1,0 +1,126 @@
+{
+ "slug": "2025-08-19-nga-fg-orders-mdas-to-migrate-foreign-hosting-to-galaxy-backbone-in-digita",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Galaxy Backbone",
+       "country_label": "Galaxy Backbone Limited",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Nigeria (state-owned company)",
+       "tiers": ""
+      }
+     ],
+     "note": "Galaxy Backbone's data centre hosting is described for government bodies only; no hire to outside customers is stated."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Galaxy Backbone",
+       "country_label": "Galaxy Backbone Limited",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Nigeria (state-owned company)",
+       "tiers": ""
+      }
+     ],
+     "note": "Galaxy Backbone is named by directive as the government data exchange platform, but the document does not say it is live, being built or piloted, or what it links."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "inservice",
+       "fact": "A circular issued through the Office of the Secretary to the Government of the Federation orders ministries, departments and agencies hosting official data on foreign platforms to migrate to government-owned Galaxy Backbone, under a policy to safeguard digital sovereignty, as Galaxy Backbone's chief executive says.",
+       "as_of": "2025-08-19",
+       "date_precision": "day",
+       "system": "OSGF circular on migration of MDA hosting to Galaxy Backbone",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Galaxy Backbone",
+       "country_label": "Galaxy Backbone Limited",
+       "class": "sovereignty",
+       "platform": "",
+       "owner": "Government of Nigeria (state-owned company)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an expectation that e-government rollout will accelerate; no service is stated online."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "Galaxy Backbone, the government-owned technology company, is mandated by the circular to deliver IP-network connectivity, data centre hosting and other digital infrastructure for ministries, departments and agencies.",
+       "as_of": "2025-08-19",
+       "date_precision": "day",
+       "system": "Galaxy Backbone",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Galaxy Backbone",
+       "country_label": "Galaxy Backbone Limited",
+       "class": "staff",
+       "platform": "",
+       "owner": "Government of Nigeria (state-owned company)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Galaxy Backbone",
+       "country_label": "Galaxy Backbone Limited",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Government of Nigeria (state-owned company)",
+       "tiers": ""
+      }
+     ],
+     "note": "Government bodies are ordered to migrate to Galaxy Backbone, but the document does not state their data is already hosted there or that it sells hosting to outside customers."
+    }
+   }
+  }
+ }
+}

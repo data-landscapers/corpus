@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-gq-gobierno-cnedoge-modernizacion-sistema-informatico",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNEDOGE",
+   "country_label": "Equatorial Guinea",
+   "class": "identity",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "About identity documents and passports; nothing on civil registration of births or deaths."
+}

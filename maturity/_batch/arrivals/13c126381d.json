@@ -1,0 +1,59 @@
+{
+ "slug": "2026-07-29-ahoraeg-licitacion-tdt-diagnostico",
+ "studies": {
+  "broadbandstrategy": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is about a digital terrestrial television tender and states nothing on this subject."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is about a digital terrestrial television tender and states nothing on this subject."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is about a digital terrestrial television tender and states nothing on this subject."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is about a digital terrestrial television tender and states nothing on this subject."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is about a digital terrestrial television tender and states nothing on this subject."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is about a digital terrestrial television tender and states nothing on this subject."
+    }
+   }
+  }
+ }
+}

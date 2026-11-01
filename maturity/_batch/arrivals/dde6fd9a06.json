@@ -1,0 +1,114 @@
+{
+ "slug": "2025-12-12-cmr-businessincameroon-telecom-sector-1022bn-2024-art-observatoire",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only internet subscriptions (15.09 million active) are given, not a share of the population."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Counts mobile money subscriptions, not a survey share of adults with an account."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "ART data cited by Business in Cameroon show 11.4 million active mobile financial services subscriptions in 2024, and MTN Mobile Money and Orange Money revenue of 135.8 billion FCFA.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "MTN Mobile Money; Orange Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Cameroon",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN Cameroon",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Money",
+       "country_label": "Cameroon",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange Cameroun",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

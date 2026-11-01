@@ -1,0 +1,12 @@
+{"slug": "2025-07-02-ben-compte-rendu-du-conseil-des-ministres-du-02-juil-2025", "studies": {
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A decree on assurance levels of electronic identification schemes is adopted; no service is stated in use or contracted."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on civil register link."}}},
+"digitalidlaw": {"countries": {"BEN": {"facts": [{"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "The Council of Ministers adopted eight implementing decrees of the Code du numerique law, including one fixing technical specifications and minimum procedures for assurance levels of electronic identification schemes and their interoperability framework.", "as_of": "2025-07-02", "date_precision": "day", "system": "Code du numerique", "class": "law"}], "systems": [{"system": "Code du numerique", "country_label": "Benin", "class": "other", "platform": "", "owner": "Government of Benin", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Assurance-level decree covers identification schemes generally; no national ID system or certification stated."}}},
+"interoperability": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The interoperability framework mentioned is for electronic identification schemes only, not government systems generally."}}},
+"localgov": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}}
+}}

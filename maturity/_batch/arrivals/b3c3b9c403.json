@@ -1,0 +1,133 @@
+{
+ "slug": "2025-10-17-rwa-digital-literacy-day-2025-celebrating-rwanda-s-journey-toward-universa",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No e-procurement stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No central bank role stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for citizens, not civil servants."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer protection for digital finance stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No cross-border payments stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "RISA says the Digital Ambassadors Programme, run since 2017 with over 2,000 ambassadors and 60 supervisors in every district and backed by KOICA and the World Bank, has trained more than 4.5 million Rwandans in digital skills.",
+       "as_of": "2025-10-17",
+       "date_precision": "day",
+       "system": "Digital Ambassadors Programme (DAP)",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": "The over 75% literacy rate is stated with no survey named, so not recorded as measured."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Online access to government services is mentioned without naming a service, portal or count."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government payments to people stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who runs or builds government systems."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital payments are mentioned but no survey share of adults with accounts or digital payments."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital payments are mentioned without naming a service in use."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No tax or fee payment stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on secondary schools' internet or curriculum."
+    }
+   }
+  }
+ }
+}

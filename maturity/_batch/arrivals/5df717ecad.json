@@ -1,0 +1,5 @@
+{"slug": "2025-10-06-mdg-skills4job-madagascar-mise-sur-le-digital-pour-renforcer-l-employabili", "studies": {
+"civilserviceskills": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document is about training for young people, not civil servants."}}},
+"digitalskills": {"countries": {"MDG": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The government launched the first cohort of the free Skills4Job digital-skills programme on 2 October 2025 in Toamasina with 51 participants, to extend progressively to the rest of the country, said the digital development minister.", "as_of": "2025-10-02", "date_precision": "day", "system": "Skills4Job", "class": "publicskills"}], "systems": [{"system": "Skills4Job", "country_label": "Madagascar", "class": "publicskills", "platform": "", "owner": "Ministry of Digital Development, Posts and Telecommunications", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No online government service is described."}}}
+}}

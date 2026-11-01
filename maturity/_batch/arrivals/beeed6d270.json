@@ -1,0 +1,20 @@
+{"slug": "2026-01-23-gha-one-million-coders-programme-government-targets-400-000-beneficiaries", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI harm rule or authority stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"GHA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Minister Samuel Nartey George said the ministry is advancing Ghana's AI strategy with the KNUST Responsible AI Lab and local industry partners, to be launched by the end of the first quarter of 2026.", "as_of": "2026-01-22", "date_precision": "day", "system": "national AI strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"civilserviceskills": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Training named is for the public, not civil servants."}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The minister said 15 new and amended bills, including on data protection, were at various stages and would soon go to Cabinet after stakeholder consultations.", "as_of": "2026-01-22", "date_precision": "day", "system": "data protection bill", "class": "general"}], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"GHA": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Government set a target to train 400,000 Ghanaians in 2026 under the One Million Coders Programme, after a 2025 pilot that trained 859, with 20,000 laptops procured and training planned in 100 constituencies by end of the first quarter of 2026.", "as_of": "2026-01-22", "date_precision": "day", "system": "One Million Coders Programme", "class": "publicskills"}], "systems": [{"system": "One Million Coders Programme", "country_label": "Ghana", "class": "publicskills", "platform": "", "owner": "Ministry of Communications, Digital Technology and Innovations", "tiers": ""}], "note": "The 859 pilot trainees' locations are not stated."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment figure stated."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only biometric passports stated, which are not the national ID."}}},
+"itcapacity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "NITA is named only as consulted on IT procurement, not as building or running systems."}}},
+"publicconsultation": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Stakeholder consultations on the bills are mentioned only in passing, with no named participants."}}},
+"schoolinternet": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

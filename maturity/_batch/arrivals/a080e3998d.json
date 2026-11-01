@@ -1,0 +1,68 @@
+{
+ "slug": "2024-10-18-gab-cybersecurite-10-ans-apres-le-gabon-va-ratifier-la-convention-de-malab",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the Malabo Convention ratification bill is stated; no national cybercrime law, bill or use."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the Malabo Convention ratification bill is stated; no national data protection law."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Malabo Convention",
+       "country_label": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)",
+       "class": "other",
+       "platform": "",
+       "owner": "African Union",
+       "tiers": ""
+      }
+     ],
+     "note": "The transitional government adopted a ratification bill on 2024-10-17; ratification is not done and signing is not stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Malabo Convention",
+       "country_label": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)",
+       "class": "other",
+       "platform": "",
+       "owner": "African Union",
+       "tiers": ""
+      }
+     ],
+     "note": "The government adopted a bill to ratify the Malabo Convention on 2024-10-17; a bill is not a ratification and no signature is stated."
+    }
+   }
+  }
+ }
+}

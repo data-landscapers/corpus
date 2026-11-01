@@ -1,0 +1,12 @@
+{"slug": "2025-03-26-nga-senate-passes-nat-l-identity-mgt-commission-repeal-re-enactment-bill", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only says the bill must comply with data protection regulations; no law, standing or application stated."}}},
+"digitalidlaw": {"countries": {"NGA": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Senate passed a bill repealing and re-enacting the 2007 NIMC Act to set up a National Identity Database and strengthen the legal framework for national and digital identity, per the Senate committee chairman.", "as_of": "2025-03-26", "date_precision": "day", "system": "NIMC Act repeal and re-enactment bill", "class": "law"}], "systems": [{"system": "National Identity Management Commission Act 2007", "country_label": "Nigeria", "class": "law", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Bill is for a database; no system status, biometric check or certification stated."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Senate committee chairman said the national identity bill received overwhelming support from stakeholders at the public hearing.", "as_of": "2025-03-26", "date_precision": "day", "system": "NIMC repeal and re-enactment bill", "class": "consultation"}], "systems": [], "note": ""}}}
+}}

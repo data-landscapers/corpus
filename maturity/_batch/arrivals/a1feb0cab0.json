@@ -1,0 +1,11 @@
+{"slug": "2025-06-11-dza-decision-n-20-pc-arpce-2025-du-11-juin-2025-portant-procedure-de-contr", "studies": {
+"authentication": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Regulator audit of SIM subscriber identification; no authentication service stated."}}},
+"birthidlink": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"dataprotectionlaw": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Cites law 18-07 only in the preamble; states no standing, authority, regulations or application."}}},
+"idcoverage": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"DZA": {"facts": [], "systems": [], "note": "SIM subscriber database is not a public register keyed on the ID."}}},
+"idrobustness": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on the national ID system's status, biometrics or certification."}}},
+"idverification": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Operators keep a NIN or ID-document number and an ID copy per subscriber; no check against the national ID database stated."}}}
+}}

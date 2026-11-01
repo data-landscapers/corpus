@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-30-mli-recouvrement-digital-des-taxes-et-redevances-communales-la-mairie-de-l",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sama Money (app and USSD)",
+   "country_label": "Mali",
+   "class": "web",
+   "platform": "mobile app, USSD",
+   "owner": "Sama Money",
+   "tiers": "Commune V, Bamako"
+  }
+ ],
+ "note": "The convention is for a payment channel by app or USSD; no record of payers kept by the commune is stated."
+}

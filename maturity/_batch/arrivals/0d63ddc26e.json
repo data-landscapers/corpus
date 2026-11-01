@@ -1,0 +1,157 @@
+{
+ "slug": "2026-08-01-cod-rdc-publication-au-journal-officiel-de-la-decision-fixant-la-procedure",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Africa Data Protection reports the ARPTC has exercised the data protection authority's missions provisionally since March 2023, while the authority the Digital Code provides for is not yet installed.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "ARPTC",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Africa Data Protection reports the ARPTC has exercised the data protection authority's missions provisionally since March 2023, while the authority the Digital Code provides for is not yet installed.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "ARPTC",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "issued",
+       "fact": "Africa Data Protection reports ARPTC Decision n° 039/ARPTC/CLG/2025 on prior formalities was published in the Journal officiel special issue of 23 April 2026, making it enforceable.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "Décision n° 039/ARPTC/CLG/2025",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "Africa Data Protection reports the ARPTC has exercised the data protection authority's missions provisionally since March 2023, while the authority the Digital Code provides for is not yet installed.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "ARPTC",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "Africa Data Protection reports the Digital Code's prior-formalities regime was set by ARPTC Decision n° 039/ARPTC/CLG/2025, published in the Journal officiel on 23 April 2026.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "Code du numérique",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

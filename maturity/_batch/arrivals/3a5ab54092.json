@@ -1,0 +1,271 @@
+{
+ "slug": "2024-09-02-ken-state-revs-up-maisha-namba-digital-id-awareness-drive",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The Kenya News Agency report says the government has been piloting the Maisha Digital ID, a virtual ID for smartphone users, since November 2023.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "Maisha Digital ID",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba / Maisha Card",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Nakuru County Commissioner Loyford Kibaara says newborns will be issued a Maisha Namba for use in their birth certificates, with draft Birth and Death Registration Amendment Rules 2024 anchoring the rollout.",
+       "as_of": "2024-09-02",
+       "date_precision": "day",
+       "system": "Maisha Namba",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba / Maisha Card",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital civil registration system is described."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only draft amendment rules are mentioned; no law is named or said to provide digital identity."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A count of cards issued is given, not people enrolled as a share of the population."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "underway",
+       "fact": "Kibaara says all newborns will be issued a lifetime Maisha Namba for use in birth certificates and government services.",
+       "as_of": "2024-09-02",
+       "date_precision": "day",
+       "system": "Maisha Namba",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba / Maisha Card",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who operates or maintains the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Kibaara says the Maisha Namba will serve as the registration number for school, NHIF, KRA and other government services.",
+       "as_of": "2024-09-02",
+       "date_precision": "day",
+       "system": "Maisha Namba",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba / Maisha Card",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The National Registration Bureau has issued 972,630 Maisha Cards since the November 2023 launch, each carrying a unique personal identifier, the Maisha Namba.",
+       "as_of": "2024-09-02",
+       "date_precision": "day",
+       "system": "Maisha Namba / Maisha Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba / Maisha Card",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "ICAO compliance of the card is a system built to a standard, which places nothing."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Kibaara says the Maisha Namba, Maisha Card and Maisha Digital ID will be consolidated into a population register, the Maisha Integrated Database.",
+       "as_of": "2024-09-02",
+       "date_precision": "day",
+       "system": "Maisha Integrated Database",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba / Maisha Card",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "Kibaara says the introduction of the Maisha Card was preceded by over 820 public and stakeholder engagements with civil society, religious leaders, the private sector, media and the public.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "Maisha Card consultations",
+       "class": "consultation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba / Maisha Card",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Refugees are mentioned only as data to be integrated later, not registered or given access."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No local civil registration office entry is described."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,6 @@
+{"slug": "2026-07-29-nam-maltahohe-participants-urged-to-embrace-digital-learning", "studies": {
+"civilserviceskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Training is for rural community members, not civil servants."}}},
+"digitalskills": {"countries": {"NAM": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The Ministry of ICT's Hardap office launched a two-week digital literacy course in Maltahohe for 20 participants from 27 July 2026, under its Digital Computer Literacy Programme launched in 2023 for rural communities.", "as_of": "2026-07-27", "date_precision": "day", "system": "Digital Computer Literacy Programme", "class": "publicskills"}], "systems": [{"system": "Digital Computer Literacy Programme", "country_label": "Namibia", "class": "publicskills", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No government online service is described."}}},
+"schoolinternet": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

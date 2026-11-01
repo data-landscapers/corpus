@@ -1,0 +1,10 @@
+{"slug": "2026-10-31-tun-lotfi-gabsi-sans-data-centers-pas-d-internet-pas-d-ia", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on AI harms."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on government use of AI."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on sectoral AI."}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Interviewee's opinion on AI as an export industry; no AI built or hosted stated."}}},
+"datacentres": {"countries": {"TUN": {"facts": [], "systems": [], "note": "An interviewee says Tunisia has a few small data centres; none is stated to rent to others, with no name, Tier or cloud region."}}},
+"gridreliability": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Recurrent power cuts mentioned with no count of outages."}}},
+"nationaldatacentres": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No owner of any data centre stated."}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on schools."}}}
+}}

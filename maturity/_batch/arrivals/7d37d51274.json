@@ -1,0 +1,253 @@
+{
+ "slug": "2025-05-21-zaf-dha-identity-regulatory-framework-id4africa-2025",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Department of Home Affairs lists a Draft National Data and Cloud Policy that seeks an enabling environment for data and cloud services, covering cloud computing infrastructure.",
+       "as_of": "2025-05-21",
+       "date_precision": "day",
+       "system": "Draft National Data and Cloud Policy",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Department of Home Affairs describes the Cybercrimes Act 19 of 2020 as an Act of Parliament creating twenty cybercrime offences and the overarching legal authority on cybercrime.",
+       "as_of": "2025-05-21",
+       "date_precision": "day",
+       "system": "Cybercrimes Act 19 of 2020",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Department of Home Affairs lists a Draft National Data and Cloud Policy aimed at moving towards a data intensive and data driven South Africa.",
+       "as_of": "2025-05-21",
+       "date_precision": "day",
+       "system": "Draft National Data and Cloud Policy",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Department of Home Affairs says the Draft National Data and Cloud Policy proposal relates to data protection, data localization and cross-border transfers.",
+       "as_of": "2025-05-21",
+       "date_precision": "day",
+       "system": "Draft National Data and Cloud Policy",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Department of Home Affairs describes the Protection of Personal Information Act (POPIA) as prescribing the grounds for lawful processing of personal information by public and private actors.",
+       "as_of": "2025-05-21",
+       "date_precision": "day",
+       "system": "Protection of Personal Information Act",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Department of Home Affairs lists the Electronic Communications and Transactions Act 25 of 2002, which facilitates and regulates electronic communications and transactions and applies to all persons using them.",
+       "as_of": "2025-05-21",
+       "date_precision": "day",
+       "system": "Electronic Communications and Transactions Act 25 of 2002",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The Department of Home Affairs says its Identity Management Policy was published for public comment in 2021 after a consultative process with civil society, academia, legal experts and the ICT sector.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Identity Management Policy",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

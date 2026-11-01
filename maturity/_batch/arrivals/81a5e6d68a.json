@@ -1,0 +1,11 @@
+{"slug": "2025-06-24-sen-fdsut-igf-2025-connectivite-inclusive-1550-villages-2029", "studies": {
+"digitaldivides": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The FDSUT coordinator said at IGF 2025 on 24 June 2025 that the universal service fund aims to connect 1,550 villages by 2029, reaching nearly 2 million Senegalese, notably in rural areas.", "as_of": "2025-06-24", "date_precision": "day", "system": "FDSUT village connection programme", "class": "ruralaccess"}
+], "systems": [{"system": "FDSUT (Fonds de Developpement du Service Universel des Telecommunications)", "country_label": "Senegal", "class": "ruralaccess", "platform": "", "owner": "Government of Senegal", "tiers": ""}], "note": ""}}},
+"domesticfinancing": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a call for earmarked public funds in a hybrid financing model; no amount, law or act stated."}}},
+"nonstatefinance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Private and donor financing mentioned as an approach only; no amount."}}},
+"publicconsultation": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No consultation on a named digital law or policy; the IGF panel is a convening."}}},
+"regionalpolicy": {"countries": {"SEN": {"facts": [], "systems": [], "note": "A panel at the global IGF alongside Smart Africa's CEO is attendance at a global forum, not a regional agreement or membership."}}},
+"startups": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Start-ups named only as partners for networks; no law, label or fund."}}},
+"techhubs": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No hub, incubator or park stated."}}}
+}}
