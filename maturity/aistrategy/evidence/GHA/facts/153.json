@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-02-gha-govt-to-introduce-new-data-protection-bill-to-regulate-ai-cross-border",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Minister Samuel Nartey George announced that Ghana's Artificial Intelligence Strategy is under development.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Ghana's Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

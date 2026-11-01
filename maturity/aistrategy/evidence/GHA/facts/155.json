@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-23-gha-one-million-coders-programme-government-targets-400-000-beneficiaries",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Minister Samuel Nartey George said the ministry is advancing Ghana's AI strategy with the KNUST Responsible AI Lab and local industry partners, to be launched by the end of the first quarter of 2026.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
