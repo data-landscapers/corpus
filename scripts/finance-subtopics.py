@@ -64,6 +64,9 @@ DEAL_TOPIC_SECTOR = {"dpi.pay": "finance", "data.statistics": "statistics",
 DEAL_NO_DEFAULT = {"dpi.registry", "dpi.mis", "data.satellite", "data.open", "capacity.research",
                    "digital.localgov", "digital.rural"}
 PUBLIC = {"Public Sector", "Multilateral", "PPP"}
+# Bill's rulings on single deals the rules misread, from lookups/finance-sector-overrides.csv: a
+# ruling beats every rule. Filled by load(). A pattern that would fix a class belongs in the rules.
+OVERRIDES: dict[str, str] = {}
 # Sector information systems are split by the sector they serve, so a health system can be found
 # by sub-topic alone (Bill, 2026-11-01). Rules place a system by its own words first; a system
 # whose words name only a function (`dpi.mis.other`) or nothing (`.unspecified`) takes the
@@ -116,6 +119,12 @@ def load():
 
     sub_rules = rules("finance-subtopic-rules.csv", "subtopic_id", subs)
     sec_rules = rules("finance-sector-rules.csv", "sector_id", sectors)
+    OVERRIDES.clear()
+    for i, r in enumerate(read(os.path.join(LOOK, "finance-sector-overrides.csv"))):
+        if r["sector_id"] not in sectors:
+            errors.append(f"finance-sector-overrides.csv row {i + 2}: unknown sector_id {r['sector_id']!r}")
+        else:
+            OVERRIDES[r["deal_id"]] = r["sector_id"]
     for sid, r in subs.items():
         if r["topic_id"] not in topics:
             errors.append(f"finance-subtopics.csv: {sid} names unknown topic {r['topic_id']!r}")
@@ -160,6 +169,8 @@ def place_deal(x, topic, by_topic, sec_rules):
     ns, shared, catch = by_topic.get(topic, ([], [], None))
     text = f"{x['title']} | {x['description']} | {x['recipient_organisation']}"
     sub = first(ns, text) or first(shared, text) or catch
+    if x["deal_id"] in OVERRIDES:
+        return by_sector(sub, OVERRIDES[x["deal_id"]]), OVERRIDES[x["deal_id"]]
     deal_only = [(s, rx) for _, _, s, rx, a in sec_rules if a]
     ordered = sorted(sec_rules, key=lambda t: (t[4] != "nonstate", t[0], t[1]))   # deal rules first
     every = [(s, rx) for _, _, s, rx, a in ordered]
