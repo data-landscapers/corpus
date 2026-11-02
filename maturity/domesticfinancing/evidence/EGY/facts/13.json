@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-24-egy-govt-targets-egp-138-9-bn-in-ict-investment-mostly-from-private-capita",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Public ICT investment fell to EGP 13 bn in FY 2025/26 from EGP 85 bn a year earlier, according to a government document seen by EnterpriseAM.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "public ICT investment",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Figure is public ICT sector investment, not stated as the digital ministry's budget lines."
+}

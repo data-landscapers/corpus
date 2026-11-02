@@ -15,3 +15,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-20,AGO,dpi.mis--education,fact,2,3,AGO-003,"GEPE yearbook 2022/2023: data collected through SIGE, in operation though unfinished; school census through it, stage 3"
 2026-10-20,CMR,dpi.mis--education,fact,2,3,CMR-003,"INS, Jun 2024: education yearbook published with detailed data on the online EMIS platform; stage 3"
 2026-10-20,LBR,dpi.mis--education,fact,3,3,LBR-006;LBR-008,"EMIS portal: 2024-25 census live and a unique learner ID claimed; claim contradicted by 2025-26 ministry statements, stays 3"
+2026-11-02,GIN,dpi.mis--education,fact,2,4,GIN-002;GIN-001,"Educationactu, October 2026: DGECS platform gives each pupil a matricule and holds marks, nationwide since 2024-25; learner records, 2 to 4"

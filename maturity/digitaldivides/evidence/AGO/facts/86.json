@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-24-ago-apenas-6-dos-agregados-familiares-em-benguela-dispoem-de-servicos-de-i",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "INE's final 2024 census data for Benguela province put households with internet at 3.5% in rural areas and 8% in urban areas (6.1% overall).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Recenseamento Geral da Populacao e Habitacao 2024",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": "Province-level household figures from a census, not national."
+}

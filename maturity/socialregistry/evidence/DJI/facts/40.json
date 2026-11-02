@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-14-dji-travaux-de-la-2ieme-seance-du-mardi-14-janvier-2025",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The Council of Ministers communique of 14 January 2025 lists ANSIE support to the social registry among its 2025 projects, with no registry status, programmes or ID link stated.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "registre social",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "registre social",
+   "country_label": "DJI",
+   "class": "social",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

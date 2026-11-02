@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-21-cod-actualitecd-bcc-adhesion-papss-eac-convertibilite",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "signed",
+   "fact": "The Banque Centrale du Congo says its governor signed, on 2026-09-18 in Nairobi, the agreement for DR Congo's accession to the Pan-African Payment and Settlement System (PAPSS), a cross-border digital payment system.",
+   "as_of": "2026-09-18",
+   "date_precision": "day",
+   "system": "PAPSS accession agreement",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The EAC central banks' convertibility MoU is a currency matter, not digital law, so not recorded."
+}

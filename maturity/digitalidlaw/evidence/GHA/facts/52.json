@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-gha-kessben-nia-mandate-biometric-verification-amendments",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article names Act 707 of 2006, Act 750 of 2008 and LI 211 as the National Identification Authority's governing laws, which the NIA proposes to amend.",
+   "as_of": "2006",
+   "date_precision": "year",
+   "system": "National Identification Authority Act 707 (2006)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Authority",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Proposed amendments to mandate biometric verification are not yet before Parliament."
+}

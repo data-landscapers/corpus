@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "unplaced",
-      "programme": "",
+      "stage": "3",
+      "programme": "delivering",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a programme to connect rural areas is under way.",
-      "note": "The only row is the EICV5 household figure for 2016/17, before the three-year window, so it sets no rung.",
-      "as_at": "2026-10-30"
+      "stage_sources": "RWA-002",
+      "gaps": "No source found since October 2023 gives internet use in rural and in urban areas; the EICV5 figures (RWA-001) date from 2016/17.",
+      "note": "The ICT ministry announced 58 towers and 42 km of fibre completed in Kirehe District in March 2024, at the national launch of Connect Rwanda phase 2, so a programme is delivering. No rural and urban internet use figures since October 2023 are held, so not 4.",
+      "as_at": "2026-11-02"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-16-tza-tanzania-plans-to-erect-telecom-towers-in-280-villages",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Minister Jerry Silaa told the National Assembly that UCSAF plans to build telecom towers in 280 villages with mobile access difficulties in 2025/26.",
+   "as_of": "2025-05-16",
+   "date_precision": "day",
+   "system": "UCSAF tower programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UCSAF tower programme",
+   "country_label": "Tanzania",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Universal Communications Service Access Fund",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -87,6 +87,7 @@ DJI,CatIS,Djibouti,other,,ANSIE,,2021-12-31-ega-public-administration-modernisat
 DJI,système d'interopérabilité (DGPF),Djibouti,exchange,,Direction générale de la Population et de la Famille,"public administrations, banks, social protection bodies",2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
 DJI,"Plate-forme d'échange des données (art. 38, to be set up by the Direction de l'Exécution Budgétaire with all central-administration departments)",Djibouti,exchange,,Direction de l'Exécution Budgétaire (Ministry of the Budget),,2025-12-31-djibouti-loi-de-finances-203-an-25-budget-initial-2026
 DJI,Sydonia World / e-Guichet,Djibouti,other,Sydonia World,Direction Générale des Douanes et Droits Indirects,,2025-12-31-djibouti-loi-de-finances-203-an-25-budget-initial-2026
+DJI,X-Road,DJI,exchange,X-Road,ANSIE,,2025-01-14-dji-travaux-de-la-2ieme-seance-du-mardi-14-janvier-2025
 DZA,Système national d'interopérabilité,Algeria,exchange,secure interconnection network,Haut commissariat à la numérisation,public institutions and administrations; bodies and enterprises with a public service on need,2025-12-30-joradp-decret-25-320-gouvernance-donnees
 DZA,Secure data exchange platform,Algeria,exchange,,,,2026-08-20-elmasdar-algeria-new-phase-digital-transformation
 DZA,National data platform (المنصة الوطنية للبيانات),Algeria,other,,Haut commissariat à la numérisation,,2026-08-20-elmasdar-algeria-new-phase-digital-transformation
@@ -106,6 +107,8 @@ DZA,Notaries' online access to cadastral and land databases of the Direction gen
 DZA,IRIES,IRIES,exchange,,High Commission for Digitalisation,,2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe
 DZA,plateforme nationale d'interopérabilité,Algeria,exchange,,Haut-Commissariat à la numérisation,,2024-07-25-dza-elwatan-strategie-transformation-numerique-ateliers
 DZA,النظام الوطني للتشغيل البيني,Algeria,exchange,national secured network IRIES,High Commission for Digitalisation,,2026-02-14-dza-almostathmir-data-governance-classification-rollout
+DZA,plateforme nationale d'interopérabilité,DZA,exchange,,High Commission for Digitalisation,,2025-05-12-dza-algerie-numerique-2030-une-strategie-ambitieuse-pour-un-virage-digital
+DZA,plateforme nationale d'interoperabilite,Algeria,exchange,Centre national algerien des prestations numeriques,Haut-commissariat a la numerisation,,2024-08-25-dza-transformation-numerique-la-strategie-nationale-adoptee
 EGY,Unified environmental data registry for the industrial sector (سجل البيانات البيئية الموحد),Egypt,other,Green Sustainable Industries (GSI) programme,Egyptian Environmental Affairs Agency,,2026-09-01-egypt-masrawy-environmental-data-registry-protocol
 EGY,المحول الرقمي الحكومي (Government Digital Transformer),Egypt,exchange,,Ministry of Communications and Information Technology,,2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing
 EGY,منصة مصر الرقمية (Digital Egypt platform),Egypt,other,,Ministry of Communications and Information Technology,,2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing
@@ -424,6 +427,7 @@ ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2025-09-27-mzansixch
 ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2026-01-01-operation-vulindlela-phase-ii-progress-report-q3-2025-26
 ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2026-10-21-sa-mymzansi-citizen-services-r150m
 ZAF,National Single Window,South Africa,other,,SARS,,2026-09-08-zaf-no-completion-date-for-sa-s-single-window
+ZAF,MzansiXchange,South Africa,exchange,,National Treasury and Presidency (Operation Vulindlela),,2026-10-30-zaf-operation-vulindlela-implementation-continues-to-make-strides
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2024-09-10-szi-rtsa-government-service-bus
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2026-08-10-zambia-dzap-data-protection-compliance-system
 ZMB,ZamConnect,Zambia,other,,,,2026-08-10-zambia-dzap-data-protection-compliance-system

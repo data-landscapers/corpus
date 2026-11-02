@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-31-mar-personnes-en-situation-de-handicap-seules-25-des-administrations-maroc",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "le360 cites data from the 2024 General Population and Housing Census (RGPH 2024) showing about 1.73 million Moroccans, 4.8% of the population, live with a disability.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RGPH 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

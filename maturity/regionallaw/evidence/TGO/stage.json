@@ -1,16 +1,17 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "harmonisation",
-   "stage": "3",
-   "accepted": "ratified",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-002",
-   "gaps": "No source found says a national law or rule was passed to give effect to a shared text.",
-   "note": "Counted from the four questions by study-ladder-regionallaw.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "harmonisation",
+      "stage": "4",
+      "accepted": "ratified",
+      "effect": "in-law",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-004;TGO-003;TGO-002",
+      "gaps": "No source found reports a shared digital text applied across a border in the last three years beyond the start of a customs pilot.",
+      "note": "Togo ratified the Malabo Convention in 2021 (TGO-002), and in March 2025 the revenue office issued a notice applying its 2024 protocol with the Sahel States on linking customs IT systems (TGO-003, TGO-004). The notice starts a pilot, which is not yet a reported use across a border, so not 5.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

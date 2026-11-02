@@ -20,9 +20,9 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 8 |
 | 4 Operating | 13 |
-| 3 Established | 20 |
+| 3 Established | 19 |
 | 2 Nascent | 9 |
 | 1 Absent | 1 |
 | Unplaced | 3 |
@@ -78,6 +78,14 @@ A national household survey published results in 2026, after final census result
 
 - ZamStats presented highlights of the 2025 National Survey on Access and Usage of ICTs, a household survey of 32,500 individuals targeted in 325 enumeration areas ([source, 2026-03-24](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/03/Zambia_2025-ICT-Survey.pdf)).
 - The Zambia Statistics Agency's Population Summary Report Volume Two, dated June 2024, gives final population figures of the 2022 census (total 19,693,423) ([source, 2024-06](https://www.zamstats.gov.zm/wp-content/uploads/2024/09/2022-Census-of-Population-and-Housing-Summary-Report-Part-2.pdf)).
+
+### Zimbabwe: 5 Leading
+
+The 2022 census was counted and preliminary results published, and a household survey was published in 2026; final census results are not known.
+
+- Former ZIMSTAT director-general Taguma Mahonde presented the 2022 census preliminary report on functional difficulties, which counts 1.2 million people with difficulties performing physical activities and 192,000 with permanent disabilities ([source, 2022](https://www.heraldonline.co.zw/digital-inclusivity-leaving-no-place-no-person-behind/)).
+- The Herald says the Population and Housing Census was taken in April 2022 in Zimbabwe ([source, 2022-04](https://www.heraldonline.co.zw/digital-inclusivity-leaving-no-place-no-person-behind/)).
+- The minister said the 2025 ICT Household Survey by ZIMSTAT and POTRAZ, released in July, shows 75.5 percent of households have home internet access and 11.2 percent own a computer ([source, 2026-07](https://www.heraldonline.co.zw/it-must-create-jobs-improve-services-minister/)).
 
 ### Angola: 4 Operating
 
@@ -284,12 +292,6 @@ The Population and Housing Census 2022 was counted in 2022; no results of it are
 
 - The ILFS 2025 sampling frame was derived from the inventory of enumeration areas compiled during the 2022 Population and Housing Census; the document gives no enumeration date, so the year 2022 is used ([source, 2022](https://microdata.nbs.go.tz/index.php/catalog/65)).
 - The article refers to voter-eligibility estimates derived from the 2022 Population and Housing Census, showing a census was counted in 2022; it gives no enumeration date, so the year is used ([source, 2022](https://thechanzo.com/2025/08/04/inec-tanzania-responds-to-concerns-over-voter-register-numbers/)).
-
-### Zimbabwe: 3 Established
-
-The 2022 Population and Housing Census was counted in 2022; no results of it are known to be out.
-
-- UNICEF Zimbabwe and ZIMSTAT announced in April 2024 a rollout of provincial and district data profiles derived from analysis of the 2022 Population and Housing Census ([source, 2024-04-17](https://www.unicef.org/zimbabwe/press-releases/unicef-zimbabwe-and-zimstat-launch-provincial-and-district-data-profiles-nationwide)).
 
 ### Benin: 2 Nascent
 

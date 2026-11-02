@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 24 |
-| 3 Established | 7 |
+| 3 Established | 8 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 8 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -262,6 +262,12 @@ Botswana's 1986 National Registration Act, amended in 2025, is in force. No sour
 - The Minister of Labour and Home Affairs told Parliament that the National Registration (Amendment) Act, 2025, an Act of Parliament amending the law governing the national identity card (Omang), provides that a passport or driving licence is used as identification while a defaced, lost or expired identity card awaits replacement ([source, 2026-07-29](https://dailynews.gov.bw/news-detail/92439)).
 - The Minister of Labour and Home Affairs said the National Registration (Amendment) Act of 2025 now allows passports and driving licences as valid identification while identity cards (Omang) are being replaced; it is an Act of Parliament amending the national registration law ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90334)).
 
+### Gambia: 3 Established
+
+A law in force gives citizens aged 18 or over the right to an identity card, reported 2026; digital identity in it is not known.
+
+- Jollof News says Section 17 of the Nationality and Citizenship Act guarantees Gambian citizens aged 18 or over the right to a national identity card ([source, 2026-06-30](https://jollofnews.gm/barrows-call-for-16-year-olds-to-register-for-national-id-sparks-legal-questions/)).
+
 ### Mozambique: 3 Established
 
 Mozambique's 2022 civil identification and identity card law is in force; whether it provides for a digital identity is not known.
@@ -392,12 +398,6 @@ Not established: Nothing found names a national identity law or bill, or says th
 ### Gabon: No evidence
 
 Nothing found names a national identity law or bill for Gabon, or says there is none, so no stage is set.
-
-Not established: Nothing found names a national identity law or bill, or says there is none.
-
-### Gambia: No evidence
-
-Nothing found names a national identity law or bill for The Gambia, or says there is none, so no stage is set.
 
 Not established: Nothing found names a national identity law or bill, or says there is none.
 

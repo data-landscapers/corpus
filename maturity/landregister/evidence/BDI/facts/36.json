@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-18-bdi-le-budget-de-l-etat-exercice-2026-2027-fixe-a-7-020-6-milliards-de-bif",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Agence Burundaise de Presse reports that the 2026/27 budget of the Ministry of Finance, Budget and Digital Economy funds the digitisation of land titles.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "digitalisation des titres fonciers",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

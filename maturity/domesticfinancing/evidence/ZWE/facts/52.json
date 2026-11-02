@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-zwe-funding-gaps-could-undermine-digital-transformation-mavetera",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "ICT Minister Tatenda Mavetera said the ICT ministry's proposed 2027 allocation of ZWG1.03 billion is a 34.7 percent increase on its revised 2026 budget, against a bid of ZWG12.72 billion.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Ministry of ICT, Postal and Courier Services budget 2027",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Spending by 30 September 2026 is a minister's statement, not a budget execution report, so no spent value is recorded."
+}

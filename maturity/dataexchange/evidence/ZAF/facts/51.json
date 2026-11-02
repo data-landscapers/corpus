@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-zaf-operation-vulindlela-implementation-continues-to-make-strides",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "SAnews, citing Operation Vulindlela's 2026 Q2 progress report, says the MzansiXchange data-sharing pilot is progressing towards completion in December 2026.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "MzansiXchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MzansiXchange",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "",
+   "owner": "National Treasury and Presidency (Operation Vulindlela)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

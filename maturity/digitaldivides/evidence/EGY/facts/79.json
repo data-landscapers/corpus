@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-04-egy-aldawlanews-ntra-budget-2026-27-revenue-usf",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "NTRA chief Mohamed Shamrokh told parliament's committee, as reported on 4 June 2026, that about EGP 5.7 billion of the 2026/27 budget goes to the Universal Service Fund for telecom infrastructure in remote and rural areas, with new mobile stations planned under its projects.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "Universal Service Fund",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund",
+   "country_label": "EGY",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "NTRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-cod-validation-de-la-snia-et-du-psen-l-adn-promet-d-accompagner-la-mise-en",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The ADN's first deputy coordinator spoke at the closing of a workshop on 4 August 2026 in Kinshasa that validated the Stratégie nationale de l'Intelligence artificielle (SNIA), with four pillars; no adoption by the government is stated.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'Intelligence artificielle (SNIA)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie nationale de l'Intelligence artificielle (SNIA)",
+   "country_label": "SNIA",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministère de l'Économie numérique",
+   "tiers": ""
+  }
+ ],
+ "note": "No body or funding tied to the strategy is stated; the ADN says it is not the executing body."
+}

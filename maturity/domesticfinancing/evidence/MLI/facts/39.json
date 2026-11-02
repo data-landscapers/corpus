@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-30-mli-agetic-le-ministre-de-la-communication-felicite-l-agence-pour-la-bonne",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The draft 2026 budget of AGETIC put to its board is 2,966,640,000 FCFA.",
+   "as_of": "2025-12-29",
+   "date_precision": "day",
+   "system": "AGETIC",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "The draft AGETIC 2026 budget is 20,139,000 FCFA lower than 2025, a fall of 0.67 per cent.",
+   "as_of": "2025-12-29",
+   "date_precision": "day",
+   "system": "AGETIC",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGETIC",
+   "country_label": "Mali",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Communication and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

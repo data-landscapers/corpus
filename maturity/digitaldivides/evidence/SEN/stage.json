@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "2",
-      "programme": "underway",
+      "stage": "3",
+      "programme": "delivering",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-003;SEN-001",
-      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-      "note": "Starlink kits for white zones began deployment in Kolda in April 2026 and the FDSUT plans 1,550 localities, so a programme is under way. None is counted as connected, so not 3.",
-      "as_at": "2026-10-30"
+      "stage_sources": "SEN-012;SEN-007",
+      "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
+      "note": "The FDSUT and Sonatel had inaugurated named rural sites in Tambacounda, Kolda and Kedougou by June 2025, so a programme is delivering. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-11-02"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-31-gin-plateforme-de-la-dgecs-des-parents-guineens-alertent-sur-des-notes-non",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "Educationactu reports that since 2024 Guinea's education ministry, through the DGECS, has run a platform (dgecsecoles.com) giving each pupil a matricule number and holding exam marks, enrolling grades 7 and 11 in 2024-25 and extending to intermediate primary and secondary classes except grade 9 in 2025-26.",
+   "as_of": "2026-10-31",
+   "date_precision": "day",
+   "system": "DGECS platform (dgecsecoles.com)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGECS platform",
+   "country_label": "dgecsecoles.com",
+   "class": "emis",
+   "platform": "web platform",
+   "owner": "DGECS, Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

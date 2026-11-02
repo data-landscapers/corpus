@@ -2,12 +2,12 @@
 
 ## Education information system
 
-**Education information system.** [The World Bank report of December 2023 says the implementation of UNESCO's contract for the reinforcement of the education ministry MEPU-A's EMIS is facing delays, and that the first phase of the contract on assessing the ministry's information system management is being implemented, with the schools-with-net-accessible-indicators measure at 0.00 against a 90.00 target](<https://documents1.worldbank.org/curated/en/099122123075517241/txt/P1674781dab5d60fb1b3b41a1e5a3eb4e1d.txt>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Education information system.** Since 2024 the education ministry, through its examinations directorate DGECS, has run [a platform on which schools enrol their pupils](<https://educationactu.com/11224-2/>), Educationactu reported in October 2026. In 2024-25 public and private schools enrolled pupils of grades 7 and 11 on it. In 2025-26 it was extended to the intermediate classes of primary and secondary school, except grade 9. In December 2023 [a World Bank report said work to strengthen the ministry's EMIS under a UNESCO contract was delayed](<https://documents1.worldbank.org/curated/en/099122123075517241/txt/P1674781dab5d60fb1b3b41a1e5a3eb4e1d.txt>).
 
-**Learner records.** No source found since October 2023 says the system holds a record for each learner. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099122123075517241/txt/P1674781dab5d60fb1b3b41a1e5a3eb4e1d.txt>).
+**Learner records.** On the DGECS platform [each pupil has a matricule number and their marks are entered](<https://educationactu.com/11224-2/>), Educationactu reported in October 2026. The ministry uses it to record each pupil's passage from one class to the next.
 
-**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099122123075517241/txt/P1674781dab5d60fb1b3b41a1e5a3eb4e1d.txt>).
+**Linked.** No source found says learner records are linked to the national ID or another government system. The nearest held fact is [the October 2026 report](<https://educationactu.com/11224-2/>) that each pupil on the platform has a matricule number.
 
-***Also on file***. None found.
+***Also on file***. [DGECS platform](<https://educationactu.com/11224-2/>).
 
-***Not found***. No source found since October 2023 says: is the school census run through it.
+***Not found***. No link between learner records and the national ID or birth registration has been found.

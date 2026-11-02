@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-moz-intic-reforca-compromisso-com-a-inclusao-digital-na-conferencia-sobre",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "INTIC's Onelio Zavala said the National Artificial Intelligence Strategy (ENIA) is currently in development, drawn up through participatory processes and public consultations.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "Estrategia Nacional de Inteligencia Artificial (ENIA)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Estrategia Nacional de Inteligencia Artificial (ENIA)",
+   "country_label": "ENIA",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

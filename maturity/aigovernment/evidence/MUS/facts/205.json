@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-mus-accessibility-statement",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The AI Unit of Mauritius' Ministry of ICT and Innovation runs an AI assistant called DIVA on its website that visitors chat with, by text or voice.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "DIVA",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DIVA",
+   "country_label": "DIVA",
+   "class": "govai",
+   "platform": "aim.govmu.org",
+   "owner": "AI Unit, Ministry of ICT and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

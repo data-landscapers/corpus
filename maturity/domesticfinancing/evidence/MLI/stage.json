@@ -1,16 +1,17 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "financing",
-   "stage": "5",
-   "budget": "spent",
-   "commitment": "acted",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-003;MLI-001;MLI-004;MLI-010",
-   "gaps": "All four questions are answered.",
-   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "financing",
+      "stage": "5",
+      "budget": "spent",
+      "commitment": "acted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-003;MLI-001;MLI-004;MLI-010",
+      "gaps": "All four questions are answered.",
+      "note": "Counted from the four questions by study-ladder-domesticfinancing.py. Reassessed 2026-11-02: AGETIC's draft 2026 budget, 0.67% below 2025 (MLI-014), is one agency's board budget, so the budget tables' 2026 rise (MLI-010) still decides.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

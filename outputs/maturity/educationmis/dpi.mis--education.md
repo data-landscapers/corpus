@@ -21,9 +21,9 @@ The AU Digital Education Strategy asks for education management information syst
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 6 |
+| 4 Operating | 7 |
 | 3 Established | 17 |
-| 2 Nascent | 19 |
+| 2 Nascent | 18 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
 | No evidence | 4 |
@@ -53,6 +53,13 @@ The education information system held a record for each learner in 2025; a link 
 The education information system held a record for each learner in 2025; a link to the national ID is not on record.
 
 - DHIS2 says MoBSE's digital student registry, piloted in 2020 in 200 schools, gives each learner a unique ID and has scaled nationwide, with nearly 80% of Gambian learners included ([source, 2025-08-29](https://education.dhis2.org/gambia-modernizing-education-data-kix-knowledge-cafe/)).
+
+### Guinea: 4 Operating
+
+Since 2024 schools nationwide enter each pupil, with a number and marks, on one ministry platform; a link to national ID is not known.
+
+- Educationactu reports that since 2024 Guinea's education ministry, through the DGECS, has run a platform (dgecsecoles.com) giving each pupil a matricule number and holding exam marks, enrolling grades 7 and 11 in 2024-25 and extending to intermediate primary and secondary classes except grade 9 in 2025-26 ([source, 2026-10-31](https://educationactu.com/11224-2/)).
+- The World Bank report of December 2023 says the implementation of UNESCO's contract for the reinforcement of the education ministry MEPU-A's EMIS is facing delays, and that the first phase of the contract on assessing the ministry's information system management is being implemented, with the schools-with-net-accessible-indicators measure at 0.00 against a 90.00 target ([source, 2023-11-27](https://documents1.worldbank.org/curated/en/099122123075517241/txt/P1674781dab5d60fb1b3b41a1e5a3eb4e1d.txt)).
 
 ### Kenya: 4 Operating
 
@@ -243,12 +250,6 @@ An education information system was under way in 2025; a school census run throu
 
 - Gabon Media Time reports that the Ministry of National Education has begun integrating school health and well-being indicators (hygiene, nutrition, water access, safety) into its Education Management Information System (SIGE) ([source, 2025-08-09](https://gabonmediatime.com/gabon-integration-de-la-sante-scolaire-dans-le-systeme-de-gestion-educative)).
 - SOSUP launched a national operation to identify schools and assign each learner a unique national identifier (INA), collecting school and pupil files through provincial and zonal academic delegates to centralise school data, per Le Journal des Lycées ([source, 2024-10](https://lejournaldeslycees.ga/2024/10/19/operation-nationale-didentification-des-etablissements-et-des-apprenants/)).
-
-### Guinea: 2 Nascent
-
-An education information system was under way in 2023; a school census run through it is not on record.
-
-- The World Bank report of December 2023 says the implementation of UNESCO's contract for the reinforcement of the education ministry MEPU-A's EMIS is facing delays, and that the first phase of the contract on assessing the ministry's information system management is being implemented, with the schools-with-net-accessible-indicators measure at 0.00 against a 90.00 target ([source, 2023-11-27](https://documents1.worldbank.org/curated/en/099122123075517241/txt/P1674781dab5d60fb1b3b41a1e5a3eb4e1d.txt)).
 
 ### Guinea-Bissau: 2 Nascent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-11-tun-erembusiness-hmissi-tunisie-numerique-2030",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ICT Minister Sofiane Hmissi told Erem Business the government is currently preparing a national strategy for artificial intelligence.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

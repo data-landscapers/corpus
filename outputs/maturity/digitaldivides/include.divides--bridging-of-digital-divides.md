@@ -22,11 +22,11 @@ The Digital Transformation Strategy asks for universal, equitable and affordable
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 24 |
+| 3 Established | 26 |
 | 2 Nascent | 18 |
 | 1 Absent | 0 |
-| Unplaced | 6 |
-| No evidence | 4 |
+| Unplaced | 5 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -154,6 +154,19 @@ The first tower of a national programme for unconnected communities was serving 
 
 - Nigeria's first base station under the federal Nigeria Universal Communication Access Project (NUCAP), a 45-metre solar mast of about 8 km radius at Bende, Abia State, was reported by NIGCOMSAT's CEO to be serving a school and community hospital; the project plans 3,700 base stations ([source, 2026-10-16](https://techreviewafrica.com/news/7829/nigcomsat-ceo-highlights-impact-of-nigerias-first-nucap-base-station-o)).
 - Minister Bosun Tijani commissioned the first tower of the National Universal Communications Access Programme (NUCAP) in Bende, Abia State, and said 3,700 towers will connect about 20 million unconnected Nigerians ([source, 2026-10-16](https://www.vanguardngr.com/2026/10/fg-to-deploy-3700-telecom-towers-to-connect-20m-nigerians/)).
+
+### Rwanda: 3 Established
+
+Towers and fibre were completed in one rural district in 2024 under a national programme; rural and urban internet use is not known.
+
+- The Ministry of ICT announced completion of 58 towers and 42 km of fibre in Kirehe District for high-speed internet, as phase 2 of Connect Rwanda was launched nationally there ([source, 2024-03-14](https://www.topafricanews.com/2024/03/19/rwanda-launches-connect-rwanda-program-phase-2-encourages-responsible-technology-use/)).
+
+### Senegal: 3 Established
+
+The universal service fund had opened rural network sites by 2025; rural and urban internet use is not known.
+
+- FDSUT, Senegal's universal service fund, with Sonatel inaugurated rural network sites including Gourel Diatta (Tambacounda), Lekendiang (Kolda) and Dialakotoba (Kedougou), as recalled by the National Assembly committee chair, with 1,540 eligible localities still to cover ([source, 2025-06-16](https://fdsut.sn/dialogue-institutionnel/)).
+- FDSUT says its Programme d'Acces Numerique Universel aims to cover 1,550 universal-service localities with mobile broadband by 2029, 492 new to 4G and 1,058 migrating from 2G ([source, 2025-11-07](https://paens.sn/engagement-precoce-de-marche-paens-pour-le-lancement-de-la-construction-des-sites-zones-blanches-du-pau-fdsut/)).
 
 ### Sierra Leone: 3 Established
 
@@ -293,12 +306,11 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 - The Primature reports that AGEFAU's revised 2026 programme, adopted on 23 July 2026, includes extending network coverage and deploying Centres d'Acces Universel, Cases Wifi and Cases Numeriques to democratise internet access ([source, 2026-07-23](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/)).
 - AGEFAU says its revised 2026 budget of FCFA 27.89bn retains network coverage extension in 162 localities of Mali, 80 Centres d'Acces Universel and 100 Cases Wifi ([source, 2026-07-23](https://agefaumali.com/archives/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel-agefau/)).
 
-### Senegal: 2 Nascent
+### Sao Tome and Principe: 2 Nascent
 
-A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
+The government agreed in 2024 to bring internet to 42 communities; no site is known to be connected.
 
-- Le Soleil reports that the government's New Deal Technologique provided for the State to buy 5,000 Starlink kits at a preferential rate to serve white zones, community wifi networks and the connection of schools and local authorities ([source, 2026-09-09](https://lesoleil.sn/actualites/technologie/internet-par-satellite-la-sonatel-obtient-la-suspension-provisoire-de-la-licence-de-starlink/)).
-- Le Soleil reports that the communications and telecoms minister launched deployment of free Starlink satellite kits in Kolda on 10 April 2026, a government programme to connect 1 million Senegalese free by end 2026 in remote zones, with a first lot of 200 of 1,000 kits ready ([source, 2026-04-10](https://lesoleil.sn/actualites/technologie/new-deal-technologique-alioune-sall-lance-loffensive-contre-la-fracture-numerique-a-kolda/)).
+- The government and Huawei signed an MoU to install solar power and internet in 42 communities, as Prime Minister Patrice Trovoada said ([source, 2024-09-09](https://www.stp-press.st/2024/10/07/governo-e-huawei-da-china-firmam-parceria-para-levar-internet-e-iluminacao-a-42-comunidades/)).
 
 ### Somalia: 2 Nascent
 
@@ -342,12 +354,6 @@ Nothing found since 2023 names a programme to connect rural areas, so no stage i
 
 Not established: Nothing found since October 2023 says whether a programme to connect rural areas is under way.
 
-### Rwanda: Unplaced
-
-Nothing found since 2023 names a programme to connect rural areas, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a programme to connect rural areas is under way.
-
 ### Togo: Unplaced
 
 Nothing found since 2023 names a programme to connect rural areas, so no stage is set.
@@ -361,12 +367,6 @@ Nothing found names a programme to connect rural areas or says there is none, so
 Not established: Nothing found says whether rural areas are being connected or how far rural internet use lags urban.
 
 ### Eritrea: No evidence
-
-Nothing found names a programme to connect rural areas or says there is none, so no stage is set.
-
-Not established: Nothing found says whether rural areas are being connected or how far rural internet use lags urban.
-
-### Sao Tome and Principe: No evidence
 
 Nothing found names a programme to connect rural areas or says there is none, so no stage is set.
 

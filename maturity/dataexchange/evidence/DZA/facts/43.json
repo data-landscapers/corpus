@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-12-dza-algerie-numerique-2030-une-strategie-ambitieuse-pour-un-virage-digital",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Le Chiffre d'Affaires reports that a national interoperability platform is among projects that have 'already' emerged under the governance pillar of the digital strategy unveiled on 12 May 2025; no bodies connected or use are stated.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "plateforme nationale d'interopérabilité",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plateforme nationale d'interopérabilité",
+   "country_label": "DZA",
+   "class": "exchange",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-14-dji-travaux-de-la-2ieme-seance-du-mardi-14-janvier-2025",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The Council of Ministers communique of 14 January 2025 names X-Road supports among items in ANSIE's 2025 budget, with no bodies connected or use stated.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "X-Road",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "X-Road",
+   "country_label": "DJI",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ANSIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

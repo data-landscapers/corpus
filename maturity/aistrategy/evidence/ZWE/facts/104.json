@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-13-zwe-digital-inclusion-the-next-frontier-for-disability-rights-in-zimbabwe",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Herald says Zimbabwe's National Artificial Intelligence Strategy was launched in March.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "National Artificial Intelligence Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

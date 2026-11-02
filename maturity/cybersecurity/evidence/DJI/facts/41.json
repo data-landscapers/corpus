@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-14-dji-travaux-de-la-2ieme-seance-du-mardi-14-janvier-2025",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Council of Ministers communique of 14 January 2025 lists strengthening the CERT and launching a cybersecurity strategy among ANSIE's 2025 projects, with 28.5 million FDJ of investment covering cybersecurity among other items.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT",
+   "country_label": "DJI",
+   "class": "response",
+   "platform": "",
+   "owner": "ANSIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

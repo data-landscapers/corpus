@@ -65,3 +65,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-01,MOZ,gov.legislate--legislation-covering-digital-id,fact,2,3,MOZ-002;MOZ-001,"ICT regulator, May 2025: Law 6/2022 on civil identification and the identity card is in force; the 2022 bill was enacted, 2 to 3"
 2026-11-01,TCD,gov.legislate--legislation-covering-digital-id,fact,4,4,TCD-002;TCD-001,"ARCEP, April 2025: texts in force require each SIM to be linked to an NNI; the rule is undated, so not shown inside three years; stays 4"
 2026-11-01,BEN,gov.legislate--legislation-covering-digital-id,fact,4,4,BEN-002;BEN-001,"Council of Ministers, July 2025: decree on eID assurance levels under the Code du numerique; not a rule under the identification law, stays 4"
+2026-11-02,GMB,gov.legislate--legislation-covering-digital-id,fact,no evidence,3,GMB-001,"Jollof News, June 2026: Section 17 of the Nationality and Citizenship Act gives the right to a national ID card; a law in force, no evidence to 3"

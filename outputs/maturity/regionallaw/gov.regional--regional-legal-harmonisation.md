@@ -1,6 +1,6 @@
 # Regional legal harmonisation: regional digital law taken into national law
 
-*As at 2026-09-30.*
+*As at 2026-11-02.*
 
 ## The norm
 
@@ -21,14 +21,22 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 0 |
-| 3 Established | 24 |
+| 4 Operating | 1 |
+| 3 Established | 23 |
 | 2 Nascent | 9 |
 | 1 Absent | 21 |
 | Unplaced | 0 |
 | No evidence | 0 |
 
 ## Countries
+
+### Togo: 4 Operating
+
+Togo ratified the African Union's cyber security convention in 2021 and applied a customs data-sharing protocol in 2025; cross-border use is not known.
+
+- Togo's Office Togolais des Recettes issued notice 004/2025 of 6 March 2025 applying that protocol, stating the pilot interconnection of Togo and Mali customs systems via Burkina Faso on the Lome-Bamako corridor operates from 10 March 2025 ([source, 2025-03-06](https://www.otr.tg/index.php/fr/blog/avis-communiques/1431-avis-aux-operateurs-economiques-n-004-2025-otr-cg-cddi-del-relatif-a-l-interconnexion-des-systemes-informatiques-douaniers-du-togo-et-du-mali.html)).
+- Togo's revenue office states that Togo signed a memorandum of understanding with the Confederation of Sahel States on interconnecting customs IT systems on 23 July 2024 in Niamey ([source, 2024-07-23](https://www.otr.tg/index.php/fr/blog/avis-communiques/1431-avis-aux-operateurs-economiques-n-004-2025-otr-cg-cddi-del-relatif-a-l-interconnexion-des-systemes-informatiques-douaniers-du-togo-et-du-mali.html)).
+- The African Union Commission's status list of 02/02/2026 records Togo's ratification of the Malabo Convention on 30 September 2021 and its instrument deposited on 19 October 2021 ([source, 2021-09-30](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
 ### Angola: 3 Established
 
@@ -171,12 +179,6 @@ Sao Tome and Principe ratified the African Union's cyber security and data prote
 Senegal ratified the African Union's cyber security and data protection convention in 2016; no national law giving effect to it is known.
 
 - The African Union Commission's status list dated 2 February 2026 records Senegal as having ratified the AU Convention on Cyber Security and Personal Data Protection on 3 August 2016 and deposited the instrument on 16 August 2016, with no signature date shown; 20 of 55 states had deposited ([source, 2016-08-03](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-
-### Togo: 3 Established
-
-Togo ratified the African Union's cyber security and data protection convention in 2021; no national law giving effect to it is known.
-
-- The African Union Commission's status list of 02/02/2026 records Togo's ratification of the Malabo Convention on 30 September 2021 and its instrument deposited on 19 October 2021 ([source, 2021-09-30](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
 ### Zambia: 3 Established
 

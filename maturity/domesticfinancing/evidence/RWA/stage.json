@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "financing",
-      "stage": "3",
+      "stage": "4",
       "budget": "rose",
-      "commitment": "",
+      "commitment": "acted",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-003;RWA-002",
-      "gaps": "No source from the last three years has the government both saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying.",
-      "note": "Counted from the four questions by study-ladder-domesticfinancing.py.",
-      "as_at": "2026-11-01"
+      "stage_sources": "RWA-005;RWA-003",
+      "gaps": "No budget execution report, settlement law, audited accounts or fund account from the last three years gives what was actually spent.",
+      "note": "RURA's board decision of 11 October 2024 sets operators' contributions to the Universal Access Fund on turnover (RWA-005), a levy assigned to digital programmes, and the digital lines rose in 2026/27 (RWA-003). Nothing gives what was spent, so not 5.",
+      "as_at": "2026-11-02"
     }
   ]
 }

@@ -1,16 +1,17 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "financing",
-   "stage": "2",
-   "budget": "allocated",
-   "commitment": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-001",
-   "gaps": "Nothing found gives the money for digital transformation in two budget years running, so no source found says whether it rose.",
-   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "financing",
+      "stage": "3",
+      "budget": "rose",
+      "commitment": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-002;TUN-001",
+      "gaps": "No source from the last three years has the government both saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying.",
+      "note": "The communication technologies ministry's 2026 budget is TND 197.3 million against TND 184 million in 2025 (TUN-002), so the money rose. No commitment to pay at home with an act behind it is held, so not 4.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

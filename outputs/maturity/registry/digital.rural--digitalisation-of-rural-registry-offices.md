@@ -558,13 +558,14 @@ Nine civil-status sites in Djibouti-Ville have entered births and deaths digital
 
 ### Equatorial Guinea: 2 Nascent
 
-A digital pilot registers births in Malabo only, since 2018, and the seven regional offices use paper in 2024; no source reports its present state.
+A digital pilot registers births in Malabo only; in 2025 a system to register newborns from hospitals was set up, its reach not known.
 
-*Rural gap; Backlog capture.*
+*Rural gap; Backlog capture; Advancing.*
 
 - The World Bank diagnostic says the country lacks a unified, digitalised civil registry: there are seven regional offices, each collecting and storing data by manual, paper-based processes, and local judges registering at commune level share manually collected data with those seven offices (no date given; dated to the document's published year) ([source, 2024](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt)).
 - The World Bank diagnostic says the Ministry of Justice, with UNICEF, launched the digital civil registry pilot SIREC in late 2018 exclusively in the capital Malabo, and that funding to expand the digital registry to the mainland is lacking; no office count is given ([source, 2018](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt)).
 - The World Bank diagnostic says the SIREC pilot in Malabo allows the digital registration of new births, describes the platform as the one developed to collect new births and deaths, and reports UNICEF as saying it is operational and functions well (no date given; dated to the document's published year) ([source, 2024](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt)).
+- CNIAPGE reported establishing a new system for registering newborns from hospitals, and maintaining the Registro Civil platform, in 2025 ([source, 2025](https://www.guineaecuatorialpress.com/noticias/continuan_las_comparecencias_de_los_miembros_del_gobierno_en_la_comision_parlamentaria_que_analiza_los_presupuestos_generales)).
 
 ### Ethiopia: 2 Nascent
 

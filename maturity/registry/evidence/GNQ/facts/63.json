@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-gnq-continuan-las-comparecencias-de-los-miembros-del-gobierno-en-la-comisi",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "CNIAPGE reported establishing a new system for registering newborns from hospitals, and maintaining the Registro Civil platform, in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Newborn registration system from hospitals",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": "The document does not say whether the record is made at a registry office or only notified from the hospital, or how many offices use it."
+}

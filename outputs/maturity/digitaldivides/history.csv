@@ -90,3 +90,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-01,ZAF,include.divides--bridging-of-digital-divides,fact,2,3,ZAF-005;ZAF-004,"SA Connect reached 361,000 rural and township households by March 2024; stage 2 -> 3."
 2026-11-01,GNB,include.divides--bridging-of-digital-divides,fact,no evidence,2,GNB-001,WARDIP strategic plan for the universal access fund delivered October 2025; no evidence -> 2.
 2026-11-01,GAB,include.divides--bridging-of-digital-divides,fact,2,2,GAB-003;GAB-001;GAB-010,"Phase-two equipment and phase-one counts arrived; phase one predates the window, stage 2 holds."
+2026-11-02,RWA,include.divides--bridging-of-digital-divides,fact,unplaced,3,RWA-002,"Connect Rwanda phase 2 launch, March 2024: 58 towers and 42 km of fibre completed in Kirehe; a programme delivering, unplaced to 3"
+2026-11-02,SEN,include.divides--bridging-of-digital-divides,fact,2,3,SEN-012;SEN-007,"FDSUT, June 2025: rural sites inaugurated with Sonatel in Tambacounda, Kolda and Kedougou; a programme delivering, 2 to 3"
+2026-11-02,STP,include.divides--bridging-of-digital-divides,fact,no evidence,2,STP-001,"STP-Press, September 2024: government and Huawei MoU to bring internet to 42 communities; a programme under way, no evidence to 2"

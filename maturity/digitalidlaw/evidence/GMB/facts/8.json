@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-30-gmb-jollofnews-barrow-16-year-olds-national-id-legal-questions",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Jollof News says Section 17 of the Nationality and Citizenship Act guarantees Gambian citizens aged 18 or over the right to a national identity card.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Nationality and Citizenship Act s.17",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Management System",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

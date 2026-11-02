@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-16-sen-dialogue-institutionnel-fdsut-senegal",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "FDSUT, Senegal's universal service fund, with Sonatel inaugurated rural network sites including Gourel Diatta (Tambacounda), Lekendiang (Kolda) and Dialakotoba (Kedougou), as recalled by the National Assembly committee chair, with 1,540 eligible localities still to cover.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "FDSUT universal service coverage programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FDSUT",
+   "country_label": "Fonds de Developpement du Service Universel des Telecommunications",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

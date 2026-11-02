@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-14-mli-mali-le-budget-de-l-agetic-s-eleve-a-pres-de-3-milliards-de-fcfa-en-20",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "AGETIC's board presented a 2025 budget of 2,986,779 (FCFA thousand, near 3 billion FCFA), as the ministry's secretary general said.",
+   "as_of": "2025-02-06",
+   "date_precision": "day",
+   "system": "AGETIC",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "The AGETIC 2025 budget is up 2.51 per cent, or 73,272,000 FCFA, on the year before.",
+   "as_of": "2025-02-06",
+   "date_precision": "day",
+   "system": "AGETIC",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGETIC",
+   "country_label": "Mali",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Communication and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

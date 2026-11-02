@@ -30,3 +30,6 @@ TZA,010,budget,spent,removed,"The tables' actual column for 2024/25, read from a
 UGA,011,budget,spent,removed,"The tables' actual column for 2024/25, read from a document published on 2024-07-26, before that year ended: not an outturn (housekeeping 47)."
 ZAF,010,budget,spent,removed,"The tables' actual column for 2024/25, read from a document published on 2024-02-21, before that year ended: not an outturn (housekeeping 47)."
 ZMB,006,budget,spent,removed,"The tables' actual column for 2025, read from a document published on 2025-01-16, before that year ended: not an outturn (housekeeping 47)."
+EGY,006,budget,fell,revalued: allocated,"Stage 4c: public ICT investment for FY2025/26, not the ministry's vote and of the budget before; the ministry's 2026/27 comparison (EGY-007) stands"
+MLI,014,budget,fell,revalued: allocated,"Stage 4c: one agency's (AGETIC) board budget, not the sector's vote; the budget tables' comparison stands"
+MLI,016,budget,rose,revalued: allocated,"Stage 4c: one agency's (AGETIC) board budget, not the sector's vote; the budget tables' comparison stands"

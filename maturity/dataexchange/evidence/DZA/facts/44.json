@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-25-dza-transformation-numerique-la-strategie-nationale-adoptee",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The High Commission for Digitalisation said the national data centre, agreed with Huawei in April 2024, will hold a national interoperability platform to interconnect sectoral ministry systems, with a national database and portal.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "plateforme nationale d'interoperabilite",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plateforme nationale d'interoperabilite",
+   "country_label": "Algeria",
+   "class": "exchange",
+   "platform": "Centre national algerien des prestations numeriques",
+   "owner": "Haut-commissariat a la numerisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

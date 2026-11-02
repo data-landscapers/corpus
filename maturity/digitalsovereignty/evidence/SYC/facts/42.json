@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-syc-ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The approved strategy's first major project is a sovereign government cloud on two geographically separated data centres, with AI computing kept in Seychelles to address sovereignty and sensitive government data, says Principal Secretary Choppy.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "Government Cloud & Government Data Centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

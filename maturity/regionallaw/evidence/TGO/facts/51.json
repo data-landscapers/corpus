@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-06-tgo-avis-aux-operateurs-economiques-n-004-2025-relatif-a-l-interconnexion",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "signed",
+   "fact": "Togo's revenue office states that Togo signed a memorandum of understanding with the Confederation of Sahel States on interconnecting customs IT systems on 23 July 2024 in Niamey.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "Protocole d'accord relatif a l'interconnexion des systemes informatiques des administrations douanieres (AES and Togo)",
+   "class": "harmonisation"
+  },
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "effect",
+   "value": "in-law",
+   "fact": "Togo's Office Togolais des Recettes issued notice 004/2025 of 6 March 2025 applying that protocol, stating the pilot interconnection of Togo and Mali customs systems via Burkina Faso on the Lome-Bamako corridor operates from 10 March 2025.",
+   "as_of": "2025-03-06",
+   "date_precision": "day",
+   "system": "Protocole d'accord relatif a l'interconnexion des systemes informatiques des administrations douanieres (AES and Togo)",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -123,6 +123,7 @@ CIV,Plateforme de lutte contre la cybercriminalité (PLCC),PLCC,other,,ANSSI,,20
 CIV,ANSSI,ANSSI Côte d'Ivoire,response,,,,2025-08-01-civ-panorama-des-menaces-modes-operatoires-et-menaces
 CIV,ANSSI,Agence nationale de la sécurité des systèmes d'information,other,,,,2026-10-28-linfodrome-cyber-ex-2026-anssi-prepare-crises-numeriques
 CIV,Anssi,Agence nationale de la sécurité des systèmes d'information (Anssi),response,,state,,2026-10-29-en-cote-divoire-une-simulation-nationale-pour-apprendre-a-reagir-aux-cybera
+CIV,ANSSI-CI,ANSSI-CI,response,,Government of Côte d'Ivoire,,2026-10-30-civ-la-cote-d-ivoire-teste-sa-reponse-a-une-cyberattaque-lors-d-un-premier-exercice-national
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-21-antic-cirt-cybersecurity-systems-patnuc-techafricanews
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,"2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust"
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-01-world-bank-cmr-2026-antic-cirt-cybersecurity-patnuc-bw07
@@ -187,6 +188,7 @@ DJI,Autorite Nationale de Cybersecurite (ANC),Djibouti,response,,Presidency of t
 DJI,cyber security agency,Djibouti,response,,,,2026-09-03-djibouti-sonna-somali-ai-inclusion-forum
 DJI,DJ-CERT,DJ-CERT,response,,,,2025-05-11-dji-le-dj-cert-renforce-son-engagement-international-participation-au-cybe
 DJI,Stratégie Nationale de Cybersécurité (SNC) 2024-2030,Stratégie Nationale de Cybersécurité,response,,Ministère délégué chargé de l'Economie Numérique et de l'Innovation,,2025-05-28-dji-le-chef-de-letat-preside-la-10eme-seance-du-conseil-des-ministres
+DJI,CERT,DJI,response,,ANSIE,,2025-01-14-dji-travaux-de-la-2ieme-seance-du-mardi-14-janvier-2025
 DZA,MPT-CERT,"MPT-CERT (Sectoral Center for Vigilance, Detection and Response to Cyber Incidents)",other,,Ministry of Posts and Telecommunications,,2026-06-15-mpt-cert-cyber-incident-response--techafricanews
 DZA,MPT-CERT,"MPT-CERT (sectoral centre for vigilance, alert and response to IT incidents)",other,,Ministry of Posts and Telecommunications,,2026-06-15-mpt-cert-cyber-incident-response-centre-echorouk
 DZA,Information Systems Security Agency,Information Systems Security Agency,response,,Ministry of National Defence,,2026-03-05-national-cybersecurity-strategy-2025-2029--wearetech
@@ -469,6 +471,7 @@ NAM,NAM-CSIRT,NAM-CSIRT (hosted by CRAN),response,,Communications Regulatory Aut
 NAM,NAM-CSIRT,NAM-CSIRT,response,,Communications Regulatory Authority of Namibia,,2026-03-18-nam-namibia-records-a-decline-in-cyber-threat-activities
 NAM,NAM-CSIRT,NAM-CSIRT,response,,Communications Regulatory Authority of Namibia,,2025-04-01-nam-namibia-cyber-security-incident-response-team-rfc-2350
 NAM,NAM-CSIRT,Namibia Cyber Security Incident Response Team (NAM-CSIRT),response,,CRAN,,2025-02-28-nam-namibia-s-cyber-security-team-warns-of-rising-threats
+NAM,Nam-CSIRT,Nam-CSIRT,response,,Ministry of Information and Communication Technology,,2026-04-01-nam-mict-tables-n-682m-budget-to-drive-digital-rollout-and-cybersecurity-p
 NER,"centre national de cyber-sécurité (CNAC), with a Security Operations Centre and a CERT",Centre national de cyber-sécurité (CNAC),response,,Ministry of Communication and New Information Technologies,,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
 NER,Agence Nigérienne pour la Société de l'Information (ANSI),NER,other,,State,,2025-07-25-africacert-handshake-symposium-niamey-lesahel
 NER,Centre National de Cybersécurité (CNAC),NER,response,,State (public administrative establishment),,2025-10-11-gouv-conseil-ministres-cnac-ance
@@ -520,6 +523,7 @@ SDN,Sudanese Cybersecurity Authority,Sudan,response,,Ministry of Digital Transfo
 SDN,National Mechanism to Combat Informatics Crimes,الآلية الوطنية لمكافحة جرائم المعلوماتية,other,,Prime Minister / assistant attorney general chairs,,2026-10-19-sdn-suna-pm-forms-national-cybercrime-mechanism
 SDN,Sudan-CERT,Sudanese Cybersecurity Authority,response,,Sudanese Cybersecurity Authority,,2025-01-01-sdn-about-the-sudanese-national-cybersecurity-authority
 SDN,Sudan-CERT,National Center for Cyber Incident Response (Sudan-CERT),response,,Sudan cybersecurity authority (SCA),,2025-11-01-sdn-sca-ransomware-warning-sme
+SDN,Sudanese Cybersecurity Authority,Sudanese Cybersecurity Authority,response,,Ministry of Digital Transformation and Communications,,2026-01-22-sdn-sudan-outlines-digital-transformation-pathway-at-arab-telecommunicatio
 SEN,Autorité nationale de cybersécurité (provided for by the adopted bill),Autorité nationale de cybersécurité,response,,,national,2026-08-21-dcssi-protection-infrastructures-information-critiques
 SEN,CERT national (provided for by the adopted bill),CERT national,response,,,national,2026-08-21-dcssi-protection-infrastructures-information-critiques
 SEN,Direction générale du Chiffre et de la Sécurité des Systèmes d'Information (DCSSI),DCSSI,other,,,,2026-08-21-dcssi-protection-infrastructures-information-critiques

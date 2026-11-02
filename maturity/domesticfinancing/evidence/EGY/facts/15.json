@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-04-egy-aldawlanews-ntra-budget-2026-27-revenue-usf",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The parliamentary planning and budget committee approved NTRA's 2026/27 budget, which targets transferring about EGP 5.7 billion to the Universal Service Fund to finance projects of the national telecom and information plan and rural infrastructure, as reported on 4 June 2026.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "Universal Service Fund",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund",
+   "country_label": "EGY",
+   "class": "financing",
+   "platform": "",
+   "owner": "NTRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

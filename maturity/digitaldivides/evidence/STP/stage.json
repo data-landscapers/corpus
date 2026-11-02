@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "no evidence",
-      "programme": "",
+      "stage": "2",
+      "programme": "underway",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether rural areas are being connected or how far rural internet use lags urban.",
-      "note": "No row is held on a rural connectivity programme or on the rural and urban gap.",
-      "as_at": "2026-10-30"
+      "stage_sources": "STP-001",
+      "gaps": "No source found since October 2023 says a rural programme has connected a stated number of sites; nothing gives rural and urban internet use.",
+      "note": "The government and Huawei signed an MoU in September 2024 to bring solar power and internet to 42 communities, so a programme is under way. Nothing says any is connected, so not 3.",
+      "as_at": "2026-11-02"
     }
   ]
 }

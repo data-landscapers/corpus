@@ -21,9 +21,9 @@ Agenda 2063, Goal 20, asks that Africa take full responsibility for financing it
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 3 |
+| 4 Operating | 4 |
 | 3 Established | 19 |
-| 2 Nascent | 24 |
+| 2 Nascent | 23 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -105,6 +105,13 @@ Mozambique's digital budget rose 20.8 per cent for 2026 and a 1% operator levy f
 - INCM's 2024 annual regulation report states that each licensed telecom operator pays 1% of its prior-year gross revenue into the Fundo de Serviço de Acesso Universal (FSAU) under the law in force (instrument not named), and that the fund financed Praças Digitais, school computer rooms, Internet nas Escolas, a rural digital-TV pilot and rural mobile network expansion in 2024; the report carries no date, so its reference year is used ([source, 2024](https://www.incm.gov.mz/wp-content/uploads/2026/05/Relatorio-de-Regulacao-das-Comunicacoes_2024.pdf)).
 - Budget tables: the 15 digital line(s) held in both years total 1,075,518,250 MZN for 2026 against 890,407,150 for 2025, +20.8 per cent; 31 lines are held for 2026. Dated by the budget document ([source, 2025-12-01](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais)).
 
+### Rwanda: 4 Operating
+
+Digital budget lines rose in 2026/27, and since 2024 operators pay a levy into the universal access fund; spending is not known.
+
+- RURA Board Decision N 03/BD/ICT/RURA/2024 sets Universal Access Fund contributions on annual turnover, at 2% for network infrastructure and network services licensees and 0.5% for ISP retailers and postal licensees, under Presidential Order 025/01 of 2023 ([source, 2024-10-11](https://www.rura.rw/index.php?eID=dumpFile&f=121635&t=f&token=0e4a689f78dcd1a4fbdf50fe191d4f8d023be3ef)).
+- Budget tables: the 34 digital line(s) held in both years total 90,624,439,159 RWF for 2026/27 against 87,083,989,612 for 2025/26, +4.1 per cent; 38 lines are held for 2026/27. Dated by the budget document ([source, 2026-06-30](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf)).
+
 ### Cameroon: 3 Established
 
 Cameroon's tabled 2026 budget raises the digital lines held in both years 1.9 per cent; no source found says whether any fund pays.
@@ -128,10 +135,10 @@ Digital lines in the 2026 budget total 541.6 million Comorian francs against 444
 
 ### Egypt: 3 Established
 
-Egypt's digital budget lines rose 24.4% in 2026/27 over 2025/26; no fund, levy or assigned tax for digital programmes is known.
+Parliament gave the ICT ministry more money for 2026/27 than the year before; no fund, levy or assigned tax for digital work is known.
 
+- The House Plan and Budget Committee approved the 2026/27 appropriations for the general office of the Ministry of Communications and Information Technology, estimated at about 23.3 billion pounds against 19.69 billion as the actual estimate for the current year ([source, 2026-06-04](https://www.tafsela.net/62665)).
 - Budget tables: the 39 digital line(s) held in both years total 30,224,315,000 EGP for 2026/27 against 24,302,193,000 for 2025/26, +24.4 per cent; 44 lines are held for 2026/27. Dated by the budget document ([source, 2026-09-14](https://assets.mof.gov.eg/files/75b68ce0-b031-11f1-9534-032ecbc6b98c.pdf)).
-- Budget tables: the budget for 2026/27 gives 30,512,114,000 EGP to 44 digital line(s). Dated by the budget document ([source, 2026-09-14](https://assets.mof.gov.eg/files/75b68ce0-b031-11f1-9534-032ecbc6b98c.pdf)).
 
 ### Eswatini: 3 Established
 
@@ -196,13 +203,6 @@ Niger's 2026 budget raised its comparable digital lines by 60.7 per cent; no sou
 - Budget tables: the 8 digital line(s) held in both years total 841,593,044 XOF for 2026 against 523,743,522 for 2025, +60.7 per cent; 100 lines are held for 2026. Dated by the budget document ([source, 2025-12-31](https://finances.gouv.ne/index.php/lois-de-finances/category/165-loi-de-finances-2026)).
 - Budget tables: the budget for 2026 gives 11,615,369,252 XOF to 100 digital line(s). Dated by the budget document ([source, 2025-12-31](https://finances.gouv.ne/index.php/lois-de-finances/category/165-loi-de-finances-2026)).
 
-### Rwanda: 3 Established
-
-The 2026/27 budget gives digital lines 4.1 per cent more; no fund acting now is known.
-
-- Budget tables: the 34 digital line(s) held in both years total 90,624,439,159 RWF for 2026/27 against 87,083,989,612 for 2025/26, +4.1 per cent; 38 lines are held for 2026/27. Dated by the budget document ([source, 2026-06-30](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf)).
-- Budget tables: the budget for 2026/27 gives 92,074,979,130 RWF to 38 digital line(s). Dated by the budget document ([source, 2026-06-30](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf)).
-
 ### Senegal: 3 Established
 
 Senegal's digital sector budget rose from 16.1 to 31.1 billion CFA francs in 2025; no source reports the universal fund's payments.
@@ -223,6 +223,13 @@ Somalia's 2026 budget gives the digital lines held in both years 5.7 per cent mo
 
 - The Data Protection Authority's proposed recurrent budget is US$170,880 for 2026 against US$162,060 for 2025; the page also shows a project line of US$1,826,000 for the prior year ([source, 2025-11-15](https://mof.gov.so/sites/default/files/Publications/Xeerka%20Miisaaniyadda%202026.pdf)).
 - Budget tables: the budget for 2026 gives 6,247,842 USD to 13 digital line(s). Dated by the budget document ([source, 2026-04-29](https://mof.gov.so/sites/default/files/Publications/Sharciga%20Miisaaniyadda%20Sanadka%202026_0.pdf)).
+
+### Tunisia: 3 Established
+
+The ICT ministry's 2026 budget rose 7 per cent on 2025; no fund, levy or commitment to pay at home is known.
+
+- L'Economiste Maghrébin reports the 2026 budget of the Ministry of Communication Technologies, including the telecommunications and ICT development fund, at TND 197.335 million against TND 184 million in the 2025 finance law, up 7.25% ([source, 2026](https://www.leconomistemaghrebin.com/2025/11/24/le-budget-du-ministere-des-technologies-de-la-communication-2026-fixe-a-plus-de-197-mdt/)).
+- Budget tables: the budget for 2026 gives 102,130,000 TND to 2 digital line(s). Dated by the budget document ([source, 2025-12-12](https://www.finances.gov.tn/sites/default/files/2026-01/115725.pdf)).
 
 ### Zambia: 3 Established
 
@@ -393,12 +400,6 @@ The ministry's 2026/27 budget fell 23.6 per cent though digital lines overall ro
 The 2026 budget gives 28.2 billion CFA francs to 47 digital lines; no source found reports the previous year's figure.
 
 - Budget tables: the budget for Exercice 2026 gives 28,214,736,000 XOF to 47 digital line(s). Dated by the budget document ([source, 2026-01-15](https://finances.gouv.tg/wp-content/uploads/2026/01/BUDGET-2026-BG-CHAP.pdf)).
-
-### Tunisia: 2 Nascent
-
-The 2026 budget gives 102 million dinars to two digital lines; no source found reports the previous year's figure.
-
-- Budget tables: the budget for 2026 gives 102,130,000 TND to 2 digital line(s). Dated by the budget document ([source, 2025-12-12](https://www.finances.gov.tn/sites/default/files/2026-01/115725.pdf)).
 
 ### Eritrea: No evidence
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-26-tza-tanzania-invests-over-sh140-billion-to-bridge-communication-divide",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "UCSAF Director General Peter Mwasalyanda said the fund facilitated 1,810 towers across 1,661 wards, connecting more than 25 million people.",
+   "as_of": "2025-05-26",
+   "date_precision": "day",
+   "system": "UCSAF rural connectivity projects",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UCSAF rural connectivity projects",
+   "country_label": "Tanzania",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Universal Communications Service Access Fund",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

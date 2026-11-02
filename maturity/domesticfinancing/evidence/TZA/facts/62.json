@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-16-tza-tanzania-plans-to-erect-telecom-towers-in-280-villages",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "In the ministry's 2025/26 budget estimates, UCSAF expects to collect 64.2bn/- from service levies and TCRA allocations.",
+   "as_of": "2025-05-16",
+   "date_precision": "day",
+   "system": "UCSAF",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UCSAF",
+   "country_label": "Tanzania",
+   "class": "financing",
+   "platform": "",
+   "owner": "Universal Communications Service Access Fund",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-24-sen-new-deal-technologique-le-portail-e-senegal-desormais-operationnel",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Le Marche finance reports that the government launched a universal connectivity project on 24 March 2026 aiming to give internet access to over a million Senegalese, notably in uncovered areas, using fibre and satellites.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "Projet de connectivite universelle",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-25-dza-transformation-numerique-la-strategie-nationale-adoptee",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The High Commission for Digitalisation said the national data centre agreed in April 2024 aims to achieve digital sovereignty and the domiciliation of national data.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Centre national algerien des prestations numeriques",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-22-zwe-digital-inclusivity-leaving-no-place-no-person-behind",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The Herald says the Population and Housing Census was taken in April 2022 in Zimbabwe.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "Population and Housing Census 2022",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "preliminary",
+   "fact": "Former ZIMSTAT director-general Taguma Mahonde presented the 2022 census preliminary report on functional difficulties, which counts 1.2 million people with difficulties performing physical activities and 192,000 with permanent disabilities.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Population and Housing Census 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

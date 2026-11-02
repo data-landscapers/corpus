@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "A Graphic Online opinion column says Ghana's Rural Telephony and Digital Inclusion Project has expanded basic connectivity to more than a thousand previously unserved communities, with GH¢30 million allocated for 2026.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Rural Telephony and Digital Inclusion Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rural Telephony and Digital Inclusion Project",
+   "country_label": "Rural Telephony and Digital Inclusion Project",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -48,3 +48,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,GMB,data.statistics--censuses-and-surveys,ladder,3,5,GMB-005;GMB-004,"Rung 4 widened (Bill, 2026-10-25): preliminary census results published count as well as final"
 2026-10-25,GNB,data.statistics--censuses-and-surveys,ladder,3,4,GNB-003;GNB-002,"Rung 4 widened (Bill, 2026-10-25): preliminary census results published count as well as final"
 2026-10-26,CAF,data.statistics--censuses-and-surveys,fact,3,3,CAF-003;CAF-002,"ICASEES Oct 2026: first provisional RGPH-4 results reviewed by committee 23-25 Sept, tabulation retreat 2-5 Oct; none published, stays 3"
+2026-11-02,ZWE,data.statistics--censuses-and-surveys,fact,3,5,ZWE-007;ZWE-006;ZWE-005,"Herald, May 2025: ZIMSTAT presented a preliminary report of the April 2022 census; results published, 3 to 5 with the 2025 ICT household survey"

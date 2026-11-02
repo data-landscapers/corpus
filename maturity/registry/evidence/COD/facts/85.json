@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-30-cod-rdc-pass-les-agents-denregistrement-bientot-deployes-dans-les-quartier",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RDC-Pass",
+   "country_label": "COD",
+   "class": "identity",
+   "platform": "",
+   "owner": "Ministere de l'Economie numerique",
+   "tiers": ""
+  }
+ ],
+ "note": "Identity enrolment only; nothing on civil registration offices."
+}

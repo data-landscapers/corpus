@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "no evidence",
-      "standing": "",
+      "stage": "3",
+      "standing": "in-force",
       "cover": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names a national identity law or bill, or says there is none.",
-      "note": "Rebuild 2026-10-31: No row on the sub-indicator is held. No evidence holds.",
-      "as_at": "2026-10-31"
+      "stage_sources": "GMB-001",
+      "gaps": "No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
+      "note": "Jollof News says Section 17 of the Nationality and Citizenship Act gives citizens aged 18 or over the right to a national identity card, a law in force. Nothing says it provides for a digital identity, so not 4.",
+      "as_at": "2026-11-02"
     }
   ]
 }

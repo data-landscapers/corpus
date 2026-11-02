@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "census",
-      "stage": "3",
+      "stage": "5",
       "census": "taken",
-      "results": "",
-      "survey": "",
+      "results": "preliminary",
+      "survey": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-004",
-      "gaps": "No source found reports preliminary or final results of the census published.",
-      "note": "The 2022 census was counted and nothing found reports its final results, so stage 3 and not 4. Reassessed 2026-10-24: the count is dated 2022, not by the 2024 data profiles drawn from it.",
-      "as_at": "2026-10-24"
+      "stage_sources": "ZWE-007;ZWE-006;ZWE-005",
+      "gaps": "No source found reports the final results of the 2022 census.",
+      "note": "ZIMSTAT presented a preliminary report from the April 2022 census (ZWE-007), and the 2025 ICT household survey was published in July 2026 (ZWE-005), so all four questions are yes.",
+      "as_at": "2026-11-02"
     }
   ]
 }
