@@ -1,12 +1,12 @@
 ---
 title: Guinea: status report
-compiled: 2026-11-01
+compiled: 2026-11-02
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 219
+sources_cited: 220
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -297,6 +297,8 @@ Guinea [ranked 133rd of 139 economies in the 2025 Global Innovation Index](https
 
 ### Access to services
 <!-- include.access -->
+
+[A law of 27 August 2025 on the rights of persons with disabilities commits the state and public bodies to adapt information and communication technology to their needs](https://guineelex.com/lois/loi-l-2025-020-cnt). [It requires public audiovisual media to carry subtitles or sign language](https://guineelex.com/lois/loi-l-2025-020-cnt).
 
 [A 2025 decree on the National Register of Physical Persons gives foreign residents, Guineans abroad and refugees an express right to be registered](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/118842/GIN-118842.pdf). [Under its 1995 decree the national identity card is issued only to Guinean nationals](https://www.ecoi.net/en/document/1146298.html).
 
