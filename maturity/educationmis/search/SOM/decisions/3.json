@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The ESPIG completion report (submitted 2023) says the EMIS issued annual reports in 2020-2021 and the EMIS Policy was validated, but the lack of individual student-level data limits it.",
+ "title": "Education Sector Program Implementation Grant Completion Report: Somalia ESPIG 2018-23",
+ "publisher": "Global Partnership for Education (grant agent CARE International)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

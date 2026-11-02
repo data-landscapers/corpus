@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The Annual School Census has been conducted since the early 2000s and is reported annually in the Education Statistics Bulletin; Zambia uses the Ed*Assist system for school-level data, processed manually.",
+ "title": "Zambia: Education Country Brief",
+ "publisher": "UNESCO IICBA",
+ "published": "2024-10-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

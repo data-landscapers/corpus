@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://ami.mr/fr/archives/272574",
+  "title": "Réunion du Comité ministériel chargé du suivi du système Sirage",
+  "publisher": "AMI",
+  "published": "2025-06-03",
+  "sub_indicator": "emis",
+  "why": "Sirage progress"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099031125132540707/pdf/P509243-c18e914f-0097-4e6f-a590-80ab4401d22f.pdf",
+  "title": "World Bank IQRAA program document",
+  "publisher": "World Bank",
+  "published": "2025-03-11",
+  "sub_indicator": "emis",
+  "why": "SIRAGE operationalization"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-10-assessment-enabling-factors-mauritania.pdf",
+  "title": "Assessment of enabling factors Mauritania",
+  "publisher": "GPE",
+  "published": "2024-10",
+  "sub_indicator": "emis",
+  "why": "EMIS status"
+ },
+ {
+  "url": "https://ami.mr/fr/archives/270002",
+  "title": "Formation du personnel éducatif du Hodh Charghi à la plateforme SIRAGE",
+  "publisher": "AMI",
+  "published": "2025-04-30",
+  "sub_indicator": "emis",
+  "why": "SIRAGE rollout"
+ },
+ {
+  "url": "https://www.ami.mr/archives/149754",
+  "title": "Training on SIGE (Trarza)",
+  "publisher": "AMI",
+  "published": "2023-01-04",
+  "sub_indicator": "emis",
+  "why": "SIGE learner national numbers"
+ },
+ {
+  "url": "https://zetrixweb.com/sirage-rim-case-study",
+  "title": "SIRAGE RIM Case Study",
+  "publisher": "Zetrixweb",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "civil registry integration (vendor)"
+ }
+]

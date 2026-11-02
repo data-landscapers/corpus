@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://dhis2.org/sierra-leone-national-education-data-hub/",
+  "title": "Sierra Leone builds national education data hub to connect fragmented systems and track learners",
+  "publisher": "DHIS2",
+  "published": "2026-04-07",
+  "sub_indicator": "emis",
+  "why": "Q1,Q2: new hub, annual school census, ULID pilot, NIN link"
+ },
+ {
+  "url": "https://www.sciencedirect.com/science/article/pii/S2666374024000815",
+  "title": "An assessment of the Education Management Information System in Sierra Leone",
+  "publisher": "Kaindaneh et al.",
+  "published": "2024-11-05",
+  "sub_indicator": "emis",
+  "why": "Q2: EMIS equates to annual school census, aggregate"
+ },
+ {
+  "url": "https://research.sightsavers.org/wp-content/uploads/2022/11/2211_Sightsavers-mapping-the-existing-emis-system-in-sierra-leone.pdf",
+  "title": "Mapping the existing EMIS system in Sierra Leone",
+  "publisher": "Sightsavers",
+  "published": "2022-11",
+  "sub_indicator": "emis",
+  "why": "Q2: ASC 2020 collected 11,168 schools"
+ },
+ {
+  "url": "https://sierraloaded.sl/news/parliament-passes-basic-education-act-2023/",
+  "title": "Parliament Passes The Basic & Senior Secondary Education Act, 2023",
+  "publisher": "Sierraloaded",
+  "published": "2023-04-25",
+  "sub_indicator": "emis",
+  "why": "Q3: legal basis for unique learner number"
+ },
+ {
+  "url": "https://mbsse.gov.sl/emis/",
+  "title": "EMIS",
+  "publisher": "MBSSE",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "Q2: EMIS unit description"
+ }
+]

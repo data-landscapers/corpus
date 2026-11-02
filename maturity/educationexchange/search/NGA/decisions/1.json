@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;learnerid;linked",
+ "fact": "August 2026 uniform continuous assessment guidelines require WAEC and NECO to build interoperable portals linked to the Nigeria Education Data Infrastructure (NEDI) and mandate National Learner Identity Numbers tied to the NIN for every student.",
+ "title": "New assessment rules: FG mandates digital CA portals for WAEC, NECO",
+ "publisher": "Businessday NG",
+ "published": "2026-08-25",
+ "date_source": "source",
+ "why_not": ""
+}

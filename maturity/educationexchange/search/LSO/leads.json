@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://education.dhis2.org/building-a-smarter-education-data-system-in-lesotho-with-dhis2/",
+  "title": "Building a Smarter Education Data System in Lesotho with DHIS2",
+  "publisher": "DHIS2",
+  "published": "2026-05-11",
+  "sub_indicator": "exchange",
+  "why": "Q1: LEMIS under way"
+ },
+ {
+  "url": "https://www.gpekix.org/sites/default/files/webform/submit_to_the_library/460/Policy%20Brief_KIX%20EMIS%20Peer%20Review_cdv1.pdf",
+  "title": "KIX EMIS Peer Review Ministry of Education Lesotho",
+  "publisher": "GPE KIX",
+  "published": "2023",
+  "sub_indicator": "exchange",
+  "why": "Q2: data sharing across agencies weak"
+ },
+ {
+  "url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/9ba0954b-f540-5038-9311-d1bd69f69cf6/content",
+  "title": "Opportunities for the National ID System in Lesotho",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q4: national ID system and any education link"
+ }
+]

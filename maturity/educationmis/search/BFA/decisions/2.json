@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "IIEP supported the integration of education-in-emergencies data into Burkina Faso's EMIS, so the ministry updated its annual school census questionnaires.",
+ "title": "Protecting education from attack: EiE data in Burkina Faso",
+ "publisher": "International Institute for Educational Planning (IIEP-UNESCO)",
+ "published": "2024-09-06",
+ "date_source": "source",
+ "why_not": ""
+}

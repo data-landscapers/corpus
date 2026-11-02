@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://education.dhis2.org/gambia-modernizing-education-data-kix-knowledge-cafe/",
+  "title": "How The Gambia is Modernizing Education Data",
+  "publisher": "DHIS2",
+  "published": "2025-08-29",
+  "sub_indicator": "exchange",
+  "why": "Unique learner ID, dashboards"
+ },
+ {
+  "url": "https://dhis2.org/strengthening-school-management-gambia-eswatini/",
+  "title": "Strengthening school management and data reporting in The Gambia and Eswatini",
+  "publisher": "DHIS2",
+  "published": "2024-09-26",
+  "sub_indicator": "exchange",
+  "why": "SEMIS unique identifiers"
+ },
+ {
+  "url": "https://education.dhis2.org/emis-equity-inclusion-gambia/",
+  "title": "An EMIS Shift for Equitable and Inclusive Education",
+  "publisher": "DHIS2 for Education",
+  "published": "2022-10-15",
+  "sub_indicator": "exchange",
+  "why": "Fragmented HR, exams, infrastructure databases"
+ }
+]

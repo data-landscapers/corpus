@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The ministry has built an integrated education data system linking the planning directorate, the examinations directorate and the general inspectorate, with DHIS2 integrated with StatEduc.",
+ "title": "Togo : Autonomiser les écoles et les districts à l'aide de données",
+ "publisher": "GPE KIX",
+ "published": "2025-04-17",
+ "date_source": "source",
+ "why_not": ""
+}

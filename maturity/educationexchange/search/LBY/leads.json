@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://moe.gov.ly/%d9%88%d9%83%d9%8a%d9%84-%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%84%d8%b4%d8%a4%d9%88%d9%86-%d8%a7%d9%84%d9%85-2/",
+  "title": "وكيل وزارة التربية والتعليم لشؤون المراقبات يترأس اجتماعًا لمطابقة بيانات الإدارات التعليمية مع منظومة بيانات التعليم",
+  "publisher": "وزارة التربية والتعليم",
+  "published": "2026-07-13",
+  "sub_indicator": "exchange",
+  "why": "Q2: reconciling data with education data system"
+ },
+ {
+  "url": "https://lana.gov.ly/post.php?id=355026&lang=ar",
+  "title": "وزير التعليم يفتتح مركز البيانات ويعلن إطلاق المنصات الرقمية للوزارة",
+  "publisher": "وكالة الأنباء الليبية",
+  "published": "2026-04-15",
+  "sub_indicator": "exchange",
+  "why": "Q1: network linking and system integration projects"
+ },
+ {
+  "url": "https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef",
+  "title": "Education Ministry launches EMIS in cooperation with UNICEF",
+  "publisher": "The Libya Observer",
+  "published": "2024-07-29",
+  "sub_indicator": "exchange",
+  "why": "Q1: EMIS launched"
+ },
+ {
+  "url": "https://ar.libyaobserver.ly/article/18756",
+  "title": "المركز الوطني للامتحانات ينهي جملة من التحديثات لتسهيل إجراءات الطلبة في المدارس",
+  "publisher": "ليبيا أوبزيرفر",
+  "published": "2022-04-13",
+  "sub_indicator": "exchange",
+  "why": "Q2-3: exams centre student ID cards and files"
+ },
+ {
+  "url": "https://www.nid.gov.ly/index.html",
+  "title": "مشروع الرقم الوطني",
+  "publisher": "مشروع الرقم الوطني",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q4: national number used by education applications"
+ }
+]

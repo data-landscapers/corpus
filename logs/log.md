@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-02 02:28 · **REBUILD** · 12m · educationmis emis: 50 cells reassessed, 3 moved; 54 searched, 50 staged; ~29M tokens - ok
+2026-11-02 02:28 · **REBUILD** · 12m · educationexchange exchange: 54 cells reassessed, 3 moved; 54 searched, 51 staged; ~29M tokens - ok
+2026-11-02 02:28 · **REBUILD** · 11m · ecommercelaw law: 5 cells reassessed, 2 moved; 54 searched, 82 staged; ~29M tokens (three shared 88M) - ok
 2026-11-02 02:16 · **BUILD** · 1h45m · catalogue 36,059; 185 sources, 24 moved, 67 minted, 7 status; data centres 9, 7 changed; maturity 179 facts, 31 reassessed, 20 moved; bulletin 8, monthly 8; finance 0 waiting; register 9; prep/ restored from mirror; message 66 - ok
 2026-11-01 11:25 · **RENDER** · unclocked · maturity changes-box review gate + change log rendered, deployed — ok
 2026-11-01 04:56 · **INDEX** · 21m · research index: 434 added or changed, 1 removed, 13133 chunks, 20.6 min - ok

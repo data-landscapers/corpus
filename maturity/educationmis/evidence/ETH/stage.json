@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "3",
-   "system": "inservice",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-003",
-   "gaps": "No source found since October 2023 says the system holds a record for each learner.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-003",
+      "gaps": "No source found since October 2023 says the system holds a record for each learner.",
+      "note": "Reassessed in the rebuild: the EMIS office published the 2022/2023 Annual Abstract in October 2023 from EMIS data, and 2025-2026 sources describe the system being strengthened. Nothing found says it holds a record for each learner, so not 4.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 # Education: education information system
 
-*As at 2026-09-30.*
+*As at 2026-11-02.*
 
 ## The norm
 
@@ -21,8 +21,8 @@ The AU Digital Education Strategy asks for education management information syst
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 7 |
-| 3 Established | 17 |
+| 4 Operating | 6 |
+| 3 Established | 18 |
 | 2 Nascent | 18 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
@@ -41,12 +41,6 @@ Learner records were linked to the national ID or another government system in 2
 Learner records were linked to the national ID or another government system in 2026.
 
 - The brief says the DHIS2-Ed system was linked to the Ministry of Health's eIDSR platform for school-based surveillance indicators and collates examination data ([source, 2026-04](https://website.hispuganda.org/pdfs/PolicybriefPDHIS2EdTermlySchoolReportinUganda.pdf)).
-
-### Egypt: 4 Operating
-
-The education information system held a record for each learner in 2025; a link to the national ID is not on record.
-
-- The chapter says the Digital Identity Project records and stores data on students (attainment, attendance, tablet use, health) in central secured databases ([source, 2025](https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml)).
 
 ### Gambia: 4 Operating
 
@@ -115,6 +109,12 @@ The school census was run through an education information system in 2026; a rec
 
 - UNICEF Innocenti says Chad's EMIS has routinely collected data from schools since 2009, analysed centrally with a statistical yearbook produced annually ([source, 2026-03-23](https://www.unicef.org/innocenti/stories/supporting-middle-tier-actors-chad-access-and-use-data-decision-making)).
 
+### Egypt: 3 Established
+
+The ministry's central database produced the 2024/25 statistical yearbook; a record for each learner with a unique number is not on record.
+
+- The ministry says its central database holding all elements of the education process is the source of the 2024/25 annual statistical yearbook ([source, 2025](https://emis.gov.eg/statistics/books/2024-2025/main_book2024.html)).
+
 ### Ethiopia: 3 Established
 
 The school census was run through an education information system in 2023; a record for each learner is not on record.
@@ -127,12 +127,6 @@ The school census was run through an education information system in 2025; a rec
 
 - The Ministry of Education completed a review of Education Management Information System indicators at a 17-18 December 2025 workshop, and stakeholders agreed to integrate the revised indicators into the next national school census ([source, 2025-12-18](https://www.myjoyonline.com/education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools/)).
 - The Ministry of Education's PMDV Dashboard API documentation lists an EMIS schools statistics endpoint returning school counts by level and public or private status, with regional and district filters, and an enrolment rates endpoint ([source, 2024](https://pmdv.moedatadashboard.com/api_documentation)).
-
-### Lesotho: 3 Established
-
-The school census was run through an education information system in 2026; a record for each learner is not on record.
-
-- UNESCO-IICBA says Lesotho's district education offices collect, validate and transmit school-level information into the national EMIS, which runs on DHIS2 ([source, 2026-05-14](https://www.iicba.unesco.org/sites/default/files/medias/fichiers/2026/05/Request%20for%20Proposals_Technical%20Assistance%20for%20strengthening%20Education%20Data%20Management%20ES%20LS%20_May.%202026.pdf)).
 
 ### Liberia: 3 Established
 
@@ -168,9 +162,15 @@ The school census was run through an education information system in 2024; a rec
 
 ### Nigeria: 3 Established
 
-The school census was run through an education information system in 2026; a record for each learner is not on record.
+The national education information system supplied enrolment and teacher data in 2026; a record for each learner is not on record.
 
 - Minister Alausa said the digitised Nigeria Education Management Information System was providing data on enrolment, teachers, classrooms, laboratories, libraries and connectivity, with over 240,000 schools geomapped ([source, 2026-09-10](https://newstimes.com.ng/2026/09/ncc-launches-zero-rated-access-to-educational-platforms/)).
+
+### Sierra Leone: 3 Established
+
+The school census was published through the education information system in 2025; a record for each learner is not on record.
+
+- The MBSSE EMIS page lists Annual School Census reports for 2015 to 2022 and 2025, and says EMIS is a centralised database with information about every student, teacher and school ([source, 2026](https://mbsse.gov.sl/emis/)).
 
 ### Somalia: 3 Established
 
@@ -258,6 +258,13 @@ An education information system was under way in 2026; a school census run throu
 - The Global Partnership for Education blog says the EU-financed PESIDE project aims to strengthen the Education Management Information System (EMIS) and related systems in Guinea-Bissau ([source, 2026-02-19](https://www.globalpartnership.org/blog/better-data-improve-education-guinea-bissau)).
 - FEC says practical training on the SIGE 2.0 education information and management platform began on 6 October 2025 in Tombali, Quinara, Bafata and Gabu, under the EU-funded PESIDE project with the Ministry of Education ([source, 2025-10-06](https://www.fecongd.org/2025/10/20/projeto-peside-quer-estatisticas-de-qualidade-para-a-educacao-na-guine-bissau/)).
 
+### Lesotho: 2 Nascent
+
+An education information system was under way in 2026; a school census run through it is not on record.
+
+- The Ministry of Education and Training is developing LEMIS on DHIS2 covering 4,819 institutions, not yet live for nationwide collection ([source, 2026-05-11](https://education.dhis2.org/building-a-smarter-education-data-system-in-lesotho-with-dhis2/)).
+- A ministry officer writing for GPE KIX says Lesotho's education ministry is making a transition to an EMIS operating system that can process both aggregated and individual data, alongside a draft EMIS policy ([source, 2025-11-07](https://www.gpekix.org/blog/enhancing-education-data-systems-lesotho-through-peer-exchange)).
+
 ### Libya: 2 Nascent
 
 An education information system was under way in 2024; a school census run through it is not on record.
@@ -287,13 +294,6 @@ An education information system was under way in 2026; a school census run throu
 An education information system was under way in 2026; a school census run through it is not on record.
 
 - Community Systems Foundation, resharing its project lead, states the Ministry of Education, Seychelles has had the successful go-live of its new Education Management Information System (EMIS), which the post tags OpenEMIS ([source, 2026-03-18](https://www.linkedin.com/posts/communitysystemsfoundation_congratulations-to-the-ministry-of-education-activity-7439998630838575104-51iG)).
-
-### Sierra Leone: 2 Nascent
-
-An education information system was under way in 2026; a school census run through it is not on record.
-
-- The Ministry of Basic and Senior Secondary Education has launched a national initiative, funded by GPE, to build a DHIS2-based learner-centred education data hub joining the annual school census, teacher management and examination data, rolling out across all 16 districts ([source, 2026-04-07](https://dhis2.org/sierra-leone-national-education-data-hub/)).
-- UNICEF published request for proposal 9200546 for a Unique Learner ID (ULID) system and data warehouse with Sierra Leone as beneficiary country, deadline 28 October 2025 ([source, 2025-10-15](https://www.ungm.org/Public/Notice/281417)).
 
 ### Sudan: 2 Nascent
 

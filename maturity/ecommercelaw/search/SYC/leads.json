@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.nationalassembly.sc/legislation/statutory-instrument-sis/si-12-2024-electronic-transactions-amendment-schedule",
+  "title": "S.I. 12 of 2024 Electronic Transactions (Amendment of Schedule) Regulations, 2024",
+  "publisher": "National Assembly of Seychelles",
+  "published": "2024-02-26",
+  "sub_indicator": "law",
+  "why": "Q3 regulations under Act"
+ },
+ {
+  "url": "https://fsaseychelles.sc/media-corner/regulatory-updates/circular-no-13-of-2020-acceptance-of-digitally-signed-documents",
+  "title": "Circular No 13 of 2020 - Acceptance of digitally signed documents",
+  "publisher": "Financial Services Authority Seychelles",
+  "published": "2020-10-28",
+  "sub_indicator": "law",
+  "why": "Q2/Q3/Q4 Act, 2018 regs, recognised CAs 2019"
+ },
+ {
+  "url": "https://nation.sc/articles/4266/cbs-implements-digital-signature",
+  "title": "CBS implements digital signature",
+  "publisher": "Seychelles Nation",
+  "published": "2020-04-14",
+  "sub_indicator": "law",
+  "why": "Q4 CA recognised under regs"
+ },
+ {
+  "url": "https://seylii.org/akn/sc/act/si/2018/22/eng@2018-03-29/source",
+  "title": "Electronic Transactions (Affixing Digital Signature) Regulations, 2018",
+  "publisher": "SeyLII",
+  "published": "2018",
+  "sub_indicator": "law",
+  "why": "Q3 regulations"
+ },
+ {
+  "url": "https://www.judiciary.sc/wp-content/uploads/2026/09/23052025-cc19_2025-ralph-lablache-vs-antine-lablache.pdf",
+  "title": "Lablache v Lablache CC 19/2025",
+  "publisher": "Seychelles Judiciary",
+  "published": "2025-05",
+  "sub_indicator": "law",
+  "why": "Q2/Q4 digital signature use"
+ }
+]

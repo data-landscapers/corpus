@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://emis.go.ug/",
+  "title": "EMIS - Education Management Information System",
+  "publisher": "Ministry of Education and Sports",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "LIN alongside NIN"
+ },
+ {
+  "url": "https://insightpostug.com/concern-as-unique-identifiers-confuse-students-parents-educators/",
+  "title": "Concern As Unique Identifiers Confuse Students, Parents, Educators",
+  "publisher": "Insight Post Uganda",
+  "published": "2024-10-03",
+  "sub_indicator": "emis",
+  "why": "NIN, LIN, UNEB index numbers"
+ },
+ {
+  "url": "https://emis.go.ug/download-EMIS-user-manual-primary",
+  "title": "EMIS user manual primary",
+  "publisher": "Ministry of Education and Sports",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "NIN verification and LIN generation"
+ },
+ {
+  "url": "https://www.education.go.ug/wp-content/uploads/2022/06/Submission-Letter-of-Learner-and-Parent-NIN.pdf",
+  "title": "Student EMIS Registration form",
+  "publisher": "Ministry of Education and Sports",
+  "published": "2022-06",
+  "sub_indicator": "emis",
+  "why": "learner registration with NIN"
+ }
+]

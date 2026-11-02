@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;learnerid",
+ "fact": "Mali's SIGE is collected annually on the StatEduc platform with a unique school code, and the 2015-2019 SIGE and DEF exam databases had to be merged by hand, with a unique school identifier recommended to link them.",
+ "title": "Comprendre les facteurs de performance des écoles maliennes",
+ "publisher": "UNICEF Innocenti",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

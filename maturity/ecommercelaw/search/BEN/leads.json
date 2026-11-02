@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.banouto.bj/societe/article/20250702-code-du-numerique-au-benin-le-gouvernement-adopte-08-decrets-d-application-de-la-loi",
+  "title": "Code du numérique au Bénin : le gouvernement adopte 08 décrets d'application pour renforcer la loi",
+  "publisher": "Banouto",
+  "published": "2025-07-02",
+  "sub_indicator": "law",
+  "why": "Q3 rules made under the Digital Code"
+ },
+ {
+  "url": "http://asin.bj/article/51/l-asin-signe-plusieurs-accords-partenariat-accelerer-transformation-numerique-benin/",
+  "title": "L'ASIN signe plusieurs accords de partenariat",
+  "publisher": "ASIN",
+  "published": "2025-07-07",
+  "sub_indicator": "law",
+  "why": "Q4 ASIN as national root certification authority"
+ },
+ {
+  "url": "https://www.wto.org/english/tratop_e/serv_e/benin-report-digital-trade-for-africa-initiative_e.pdf",
+  "title": "Benin (Digital Trade for Africa)",
+  "publisher": "WTO",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2/Q4 digital code in force, no designated authentication authority"
+ },
+ {
+  "url": "https://dtri.uneca.org/v1/uploads/country-profile/ben-country-profile-en.pdf",
+  "title": "Republic of Benin country profile",
+  "publisher": "UNECA DTRI",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2 e-signature validity under Digital Code"
+ },
+ {
+  "url": "https://sgg.gouv.bj/documentheque/lois/6/",
+  "title": "Lois promulguées (loi 2020-35 modifiant le code du numérique)",
+  "publisher": "Secrétariat général du Gouvernement",
+  "published": "2021-02-10",
+  "sub_indicator": "law",
+  "why": "Q2 law amended 2021"
+ }
+]

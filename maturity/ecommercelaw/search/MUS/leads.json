@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=QWN0IDUgb2YgMjAyNg%3D%3D&doctitle=&doctype=act",
+  "title": "Electronic Transactions (Amendment) Act 2026",
+  "publisher": "Government of Mauritius",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1-2: amendment to the Electronic Transactions Act in force 25 Sep 2026"
+ },
+ {
+  "url": "https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=&doctitle=RWxlY3Ryb25pYyBUcmFuc2FjdGlvbnMgQWN0&doctype=act",
+  "title": "Electronic Transactions Act (consolidated)",
+  "publisher": "Government of Mauritius",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1-3: law in force, Controller of Certification Authorities, regulations power"
+ },
+ {
+  "url": "https://www.ccamu.org/faq/",
+  "title": "FAQ",
+  "publisher": "Certification Authority of Mauritius (CCA)",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3-4: licensed CAs and digital signature recognition under the ETA"
+ }
+]

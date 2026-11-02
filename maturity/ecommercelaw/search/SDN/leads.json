@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://sudapass.gov.sd/terms?lang=en",
+  "title": "Terms & Conditions - SUDAPASS",
+  "publisher": "SUDAPASS / National Electronic Authentication Authority",
+  "published": "2026-05-21",
+  "sub_indicator": "law",
+  "why": "Digital signatures under the Electronic Transactions Act via licensed certifiers; Digital Identity Regulation 2025 (rungs 3-5)"
+ },
+ {
+  "url": "https://www.nadc.gov.sd/en/products/",
+  "title": "National Authority for Digital Certification (NADC) products",
+  "publisher": "NADC",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Certification authority operating under the Electronic Transactions Act 2007 as amended 2015 (rungs 3-5)"
+ },
+ {
+  "url": "https://mtdt.gov.sd/ar/digital/alsltt-alqwmyt-llmsadqt-alalktrwnyt",
+  "title": "السلطة القومية للمصادقة الالكترونية",
+  "publisher": "Ministry of Communications and Digital Transformation",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Authority created under the 2015 amendment; 2018 regulation (rungs 3-4)"
+ },
+ {
+  "url": "https://dtri.uneca.org/v1/uploads/country-profile/sdn-country-profile-en.pdf",
+  "title": "SUDAN digital trade country profile",
+  "publisher": "UN Economic Commission for Africa",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Electronic Transactions Act 2007 gives e-signatures effect; no e-commerce licensing (rungs 3)"
+ },
+ {
+  "url": "https://sca.gov.sd/en/regulations",
+  "title": "Laws & Regulations",
+  "publisher": "Sudanese Cybersecurity Authority",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Lists the 2018 Regulation of Certification for Electronic Certification Service Providers (rung 4)"
+ }
+]

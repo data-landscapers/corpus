@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.unicef.org/benin/recits/au-b%C3%A9nin-educmaster-simpose-comme-un-outil-cl%C3%A9-pour-piloter-l%C3%A9ducation",
+  "title": "Au Bénin, EducMaster s'impose comme un outil clé pour piloter l'éducation",
+  "publisher": "UNICEF Bénin",
+  "published": "2026-02-16",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2 EducMaster extension, exams"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T1-P2-S1-1_BENIN-final.pdf",
+  "title": "The Beninese experience with data sharing platforms",
+  "publisher": "ID4Africa 2025",
+  "published": "2025",
+  "sub_indicator": "exchange",
+  "why": "Q4 ANIP register via PNI/X-Road"
+ },
+ {
+  "url": "https://lanation.bj/numerique/educmaster-platform-the-digital-revolution-at-the-service-of-schools",
+  "title": "Educmaster Platform: The Digital Revolution at the Service of Schools",
+  "publisher": "La Nation",
+  "published": "2024-12-24",
+  "sub_indicator": "exchange",
+  "why": "Q2 transfers between schools"
+ },
+ {
+  "url": "https://innovation.gouv.bj/publications/actualites/projet-e-education-le-gouvernement-donne-ses-orientations-pour-la-mise-en-oeuvre",
+  "title": "Projet e-éducation : le Gouvernement donne ses orientations",
+  "publisher": "Portail du Numérique Bénin",
+  "published": "2022-01-24",
+  "sub_indicator": "exchange",
+  "why": "Q1 unified education information systems project"
+ },
+ {
+  "url": "https://eduactions.bj/bienvenu-blassou-a-propos-des-multiples-avantages-de-la-plateforme-educmaster-chaque-apprenant-a-un-numero-matricule-national-un-identifiant-unique-de-la-6ieme-en-terminale/",
+  "title": "Educmaster : chaque apprenant a un numéro matricule national",
+  "publisher": "Educ'Action",
+  "published": "2020-06-30",
+  "sub_indicator": "exchange",
+  "why": "Q3 national learner ID; data to ANPE"
+ }
+]

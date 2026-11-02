@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://iite.unesco.org/news/unesco-iite-and-chengdu-group-complete-project-on-inclusive-digital-education-in-mauritius-and-rwanda/",
+  "title": "UNESCO IITE and Chengdu Group Complete Project on Inclusive Digital Education in Mauritius and Rwanda",
+  "publisher": "UNESCO IITE",
+  "published": "2025-08-29",
+  "sub_indicator": "emis",
+  "why": "Q1: secondary school EMIS piloted"
+ },
+ {
+  "url": "https://statsmauritius.govmu.org/Documents/Statistics/By_Subject/Education/Methodology_Education_150426.pdf",
+  "title": "Annual Survey in Schools - Methodology",
+  "publisher": "Ministry of Education / Statistics Mauritius",
+  "published": "2026",
+  "sub_indicator": "emis",
+  "why": "Q2: annual school survey 2025 by Excel/Access questionnaires"
+ },
+ {
+  "url": "https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/",
+  "title": "OpenEMIS Capacity Building in Mauritius",
+  "publisher": "UNESCO IITE",
+  "published": "2022-09-21",
+  "sub_indicator": "emis",
+  "why": "Q1: OpenEMIS training for Ministry"
+ }
+]

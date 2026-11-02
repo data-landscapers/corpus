@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "2",
-   "system": "underway",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-001;CPV-003",
-   "gaps": "No source found since October 2023 says: is the school census run through it.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "system": "underway",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001;CPV-003",
+      "gaps": "No source found since October 2023 says: is the school census run through it.",
+      "note": "Reassessed in the rebuild: the SIGE is being expanded and modernised under PRISE 2026-2028, with a special-needs module added in 2025. Nothing found says the school census was run through it, so not 3.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

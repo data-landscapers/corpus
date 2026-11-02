@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "On 22 April 2024 the data protection authority APDPVP issued an opinion on the Ministry of Education's learner register, whose data go to the ministry's information systems directorate and the national bursary agency ANBG.",
+ "title": "Délibération n°069/APDPVP du 22 avril 2024 portant avis sur le registre des apprenants",
+ "publisher": "Autorité pour la Protection des Données Personnelles et de la Vie Privée (APDPVP)",
+ "published": "2024-04-22",
+ "date_source": "source",
+ "why_not": ""
+}

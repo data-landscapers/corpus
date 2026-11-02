@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;learners",
+ "fact": "ACSI lists a Systeme integre de gestion de l'education for MEPPSA, year 2021, deployed in pre-production, that tracks learners through a unique identification number.",
+ "title": "Systeme integre de gestion de l'education",
+ "publisher": "Agence Congolaise des Systemes d'Information",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

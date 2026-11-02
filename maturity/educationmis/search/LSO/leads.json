@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://education.dhis2.org/building-a-smarter-education-data-system-in-lesotho-with-dhis2/",
+  "title": "Building a Smarter Education Data System in Lesotho with DHIS2",
+  "publisher": "DHIS2",
+  "published": "2026-05-11",
+  "sub_indicator": "emis",
+  "why": "Q1: LEMIS being built"
+ },
+ {
+  "url": "https://www.iicba.unesco.org/sites/default/files/medias/fichiers/2026/05/Request%20for%20Proposals_Technical%20Assistance%20for%20strengthening%20Education%20Data%20Management%20ES%20LS%20_May.%202026.pdf",
+  "title": "Request for Proposals - Technical Assistance for strengthening Education Data Management",
+  "publisher": "IICBA UNESCO",
+  "published": "2026-05",
+  "sub_indicator": "emis",
+  "why": "Q2: national EMIS/DHIS2 platform and census"
+ },
+ {
+  "url": "https://www.gpekix.org/sites/default/files/webform/submit_to_the_library/460/Policy%20Brief_KIX%20EMIS%20Peer%20Review_cdv1.pdf",
+  "title": "KIX EMIS Peer Review Ministry of Education Lesotho",
+  "publisher": "GPE KIX",
+  "published": "2023",
+  "sub_indicator": "emis",
+  "why": "Q2/Q3: OpenEMIS used for census, aggregate data"
+ },
+ {
+  "url": "https://www.iicba.unesco.org/en/lesotho",
+  "title": "Lesotho: Education Country Brief",
+  "publisher": "IICBA UNESCO",
+  "published": "2024-11-26",
+  "sub_indicator": "emis",
+  "why": "Q2: OpenEMIS"
+ }
+]

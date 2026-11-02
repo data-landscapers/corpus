@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "learnerid;linked",
+ "fact": "Since its national launch in March 2024 the PIN-driven DHIS2 EMIS covers all 976 primary and secondary schools, with learner PINs validated against Home Affairs records.",
+ "title": "South-South Collaboration for Stronger Education Systems",
+ "publisher": "DHIS2",
+ "published": "2025-06-23",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.dgssi.gov.ma/fr/prestations-et-produits-reglementes",
+  "title": "Liste des guides (services de confiance qualifiés, liste des PSCo agréés)",
+  "publisher": "DGSSI",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q4: list of approved trust service providers under law 43-20"
+ },
+ {
+  "url": "https://www.dgssi.gov.ma/sites/default/files/publications/pdf/2024-09/FAQ_related_to_law_43-20_v1.1_in_french.pdf",
+  "title": "Loi n° 43-20 relative aux services de confiance pour les transactions électroniques - Foire aux questions",
+  "publisher": "DGSSI",
+  "published": "2024-09",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: law in force, implementing decree"
+ },
+ {
+  "url": "https://www.dgssi.gov.ma/sites/default/files/legislative/brochure/2023-07/Decret%202-22-687%20.pdf",
+  "title": "Décret n° 2-22-687 pris pour l'application de la loi n° 43-20",
+  "publisher": "DGSSI",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3: rules made under the law"
+ },
+ {
+  "url": "https://consonews.ma/58335.html",
+  "title": "Journée Nationale du Consommateur, le bilan du Ministère de l'Industrie et du Commerce",
+  "publisher": "Consonews",
+  "published": "2025-03-15",
+  "sub_indicator": "law",
+  "why": "Q1: bill amending 31-08 on online sales; 200 e-commerce site checks"
+ },
+ {
+  "url": "https://lematin.ma/nation/le-mp-veut-encadrer-le-commerce-electronique/280553",
+  "title": "Le MP veut encadrer le commerce électronique pour protéger les consommateurs",
+  "publisher": "Le Matin",
+  "published": "2025-05-19",
+  "sub_indicator": "law",
+  "why": "Q1: private member bill on e-commerce"
+ }
+]

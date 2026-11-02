@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.gpekix.org/blog/strengthening-emis-through-peer-learning-how-liberia-leading-its-own-data-transformation",
+  "title": "Strengthening EMIS Through Peer Learning",
+  "publisher": "GPE KIX",
+  "published": "2026-02-04",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q3: learner/teacher ID plan, cross-ministry integration"
+ },
+ {
+  "url": "https://au.int/en/pressreleases/20250910/liberia-launches-roadmap-strengthened-and-modernized-education-data-systems",
+  "title": "Liberia Launches Roadmap for Strengthened and Modernized Education Data Systems",
+  "publisher": "African Union",
+  "published": "2025-09-10",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q3"
+ },
+ {
+  "url": "https://au.int/en/pressreleases/20250902/liberia-takes-key-step-toward-data-driven-education-planning",
+  "title": "Liberia Takes Key Step toward Data-Driven Education Planning",
+  "publisher": "African Union",
+  "published": "2025-09-02",
+  "sub_indicator": "exchange",
+  "why": "Q2: fragmented teacher, exam, financial systems"
+ },
+ {
+  "url": "https://www.iped.africa/media/Liberia_Emis_Review_Report_Final.pdf",
+  "title": "Liberia EMIS Peer Review Report",
+  "publisher": "AU-IPED",
+  "published": "2025",
+  "sub_indicator": "exchange",
+  "why": "Q2-3: no integration with WAEC or teacher records; no unique IDs"
+ },
+ {
+  "url": "https://www.fhi360.org/wp-content/uploads/2023/12/fact-sheet-literacy-learning.pdf",
+  "title": "A Systemic Approach to Sustained Improvement in Learning Outcomes",
+  "publisher": "FHI 360",
+  "published": "2023-12",
+  "sub_indicator": "exchange",
+  "why": "Q2: biometric teacher ID linked to payroll"
+ }
+]

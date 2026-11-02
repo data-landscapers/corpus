@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "3",
-   "system": "inservice",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-001",
-   "gaps": "No source found since October 2023 says the system holds a record for each learner.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001",
+      "gaps": "No source found since October 2023 says the system holds a record for each learner.",
+      "note": "Reassessed in the rebuild: in March 2026 UNESCO said the SIGE holds national data collected regularly, analysed for 2023-2024 and 2024-2025. Nothing found says it holds a record for each learner, so not 4.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

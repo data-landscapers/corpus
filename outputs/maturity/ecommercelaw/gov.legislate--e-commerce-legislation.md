@@ -1,6 +1,6 @@
 # E-commerce legislation: e-commerce law
 
-*As at 2026-10-17.*
+*As at 2026-11-02.*
 
 ## The norm
 
@@ -21,8 +21,8 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 15 |
-| 3 Established | 24 |
+| 4 Operating | 14 |
+| 3 Established | 25 |
 | 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -30,9 +30,17 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 
 ## Countries
 
+### Burundi: 5 Leading
+
+Burundi's 2024 communications code governs e-commerce, and in June 2026 the regulator ordered online sellers to declare conformity; no declaration received is known.
+
+- ARCT issued a communiqué on 26 June 2026 calling e-commerce platforms and merchant sites to declare conformity, with a procedures manual, a conformity checklist and a declaration form annexed; it reports no declaration received or penalty ([source, 2026-06-26](https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/)).
+- ARCT published national e-commerce ecosystem guidelines on 29 May 2026, drawn from the regulation in force, setting technical, operational and organisational standards for interoperability, transaction security and consumer protection ([source, 2026-05-29](https://arct.gov.bi/2026/05/29/lignes-directrices-de-lecosysteme-national-de-commerce-electronique-du-burundi/)).
+- ARCT states that e-commerce activity on Burundi's territory is subject to a prior conformity obligation, applying the provisions of the code des communications électroniques et postales ([source, 2026-06-26](https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/)).
+
 ### Ghana: 5 Leading
 
-Ghana's 2008 Electronic Transactions Act is in force; no source found reports a November 2023 notice required e-commerce platforms to register, and later enforcement.
+Ghana's 2008 Electronic Transactions Act is in force; a November 2023 order under it required online platforms to register; no later enforcement has been found.
 
 - Digital Policy Alert reports that in November 2023 Ghana's Ministry of Communications and Digitalisation issued an enforcement notice under the Electronic Transactions Act requiring all e-commerce platforms and digital delivery companies to register by January 2024 ([source, 2023-11](https://digitalpolicyalert.org/digest/dpa-digital-digest-ghana)).
 - The op-ed names the Electronic Transactions Act as part of Ghana's existing legal foundation ([source, 2026-10-16](https://www.myjoyonline.com/bold-ambitions-fragile-foundations-is-ghana-ready-for-the-ai-and-data-centre-risks-it-is-inviting/)).
@@ -63,13 +71,6 @@ Namibia's 2019 e-transactions law was applied in 2026, with a first certificatio
 - The report states CRAN is operationalising regulations under the Act on secured electronic signature accreditation; the report carries no date of issue, so its published date is used ([source, 2026-04-11](https://nam-csirt.na/download/namibia-cybersecurity-landscape-report-2025/)).
 - New Era reports that the Electronic Transactions Act of 2019 and its accreditation regulations were the basis on which CRAN accredited the Ministry of Home Affairs as a certification service provider (announced on an unnamed Tuesday of the week of the 3 September 2026 article) ([source, 2026-09](https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/)).
 
-### South Africa: 5 Leading
-
-South Africa's 2002 electronic communications and transactions act is in force, and three signature providers held accreditation under it in September 2026.
-
-- TechCentral reports that under the Electronic Communications and Transactions Act the South African Accreditation Authority accredits advanced electronic signature providers and that three hold accreditation: Altron Security, TrustFactory and Impression Signatures; no accreditation dates are given, so the published date 2026-09-11 is used ([source, 2026-09-11](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/)).
-- TechCentral reports that South Africa's Electronic Communications and Transactions Act of 2002 is the law under which the South African Accreditation Authority accredits providers whose signatures qualify as advanced electronic signatures; the document gives no date for the statement, so the published date 2026-09-11 is used ([source, 2026-09-11](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/)).
-
 ### Zambia: 5 Leading
 
 Zambia's 2021 electronic communications and transactions act is in force, with the regulator named root certification authority under it; amendments are in consultation.
@@ -90,14 +91,6 @@ Burkina Faso's 2009 law on electronic services and transactions is in force with
 
 - The National Assembly adopted Law n°045-2009/AN on 10 November 2009 regulating electronic services and transactions (electronic signatures, electronic formalities, e-commerce contracts, trust service providers), and it was promulgated by Decree n°2009-824/PRES on 4 December 2009; the document gives no repeal ([source, 2009-12-04](https://www.ictpolicyafrica.org/api/documents/download?_id=5eb968597c7814001bc4bcbe)).
 - The article says FasoSign, launched on 15 September 2026, gives effect to law 045-2009 and its implementing decrees, which together give a digital signature the legal value of a handwritten one; it does not name the decrees ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
-
-### Burundi: 4 Operating
-
-Burundi's 2024 communications code governs e-commerce, and the regulator issued guidelines and a conformity call in 2026; no licence or penalty is known.
-
-- ARCT issued a communiqué on 26 June 2026 calling e-commerce platforms and merchant sites to declare conformity, with a procedures manual, a conformity checklist and a declaration form annexed; it reports no declaration received or penalty ([source, 2026-06-26](https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/)).
-- ARCT published national e-commerce ecosystem guidelines on 29 May 2026, drawn from the regulation in force, setting technical, operational and organisational standards for interoperability, transaction security and consumer protection ([source, 2026-05-29](https://arct.gov.bi/2026/05/29/lignes-directrices-de-lecosysteme-national-de-commerce-electronique-du-burundi/)).
-- ARCT states that e-commerce activity on Burundi's territory is subject to a prior conformity obligation, applying the provisions of the code des communications électroniques et postales ([source, 2026-06-26](https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/)).
 
 ### Cameroon: 4 Operating
 
@@ -275,7 +268,7 @@ Madagascar has had electronic transactions and signature laws since 2014, and no
 
 ### Malawi: 3 Established
 
-Malawi's electronic transactions act has been in force since June 2017; rules made under it and no source found says how it is applied.
+Malawi's electronic transactions act has been in force since June 2017; regulations under it were in draft in 2024, and none made has been found.
 
 - The Electronic Transactions and Cyber Security Act (Act 33 of 2016, Chapter 74:02), published in the Gazette on 4 November 2016, commenced on 1 June 2017 and gives legal recognition to electronic writing, electronic signatures and digital signature certificates (Part III) and defines electronic commerce and distance contracts; the MalawiLII version includes amendments published up to 31 October 2021 ([source, 2017-06-01](https://malawilii.org/akn/mw/act/2016/33/eng@2017-12-31)).
 - The Ministry of Information and Digitalization refers to the Electronic Transactions and Cyber Security Act (ETCA) of 2016 (Cap 74:02) as the Act its draft 2024 regulations on certification authority and encryption would administer; the regulations are drafts, not yet made ([source, 2016](https://digmap.pppc.mw/invitation-to-a-hybrid-public-stakeholder-consultation-meeting-on-the-electronic-transactions-and-cyber-security-act-etca-regulations-bingu-international-conference-centre-bicc-in-lilong/)).
@@ -332,6 +325,13 @@ Sierra Leone's Electronic Transactions Act has been in force since 2019, but in 
 - The embassy's account lists an Electronic Transactions Act among Sierra Leone's enacted legislation, and says it is currently under review ([source, 2026-09-21](https://truthmedia.sl/attorney-general-defends-cautious-path-to-ai-legislation-at-unesco-forum-in-riyadh/)).
 - The UNECA digital trade profile names the Electronic Transactions Act of 2019 as a Sierra Leone framework carrying intermediary safe-harbour and consumer-protection provisions, though no general e-commerce law; the profile has no date, so its proxied publication year 2023 is used ([source, 2023](https://dtri.uneca.org/v1/uploads/country-profile/sle-country-profile-en.pdf)).
 
+### South Africa: 3 Established
+
+South Africa's 2002 electronic communications and transactions act is in force; three accreditations under it are undated, and no regulation under it has been found.
+
+- TechCentral reports that South Africa's Electronic Communications and Transactions Act of 2002 is the law under which the South African Accreditation Authority accredits providers whose signatures qualify as advanced electronic signatures; the document gives no date for the statement, so the published date 2026-09-11 is used ([source, 2026-09-11](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/)).
+- The Department of Home Affairs lists the Electronic Communications and Transactions Act 25 of 2002, which facilitates and regulates electronic communications and transactions and applies to all persons using them ([source, 2025-05-21](https://www.id4africa.com/2025/files/PS5A-S1-1-SouthAfrica_FINAL.pdf)).
+
 ### Sudan: 3 Established
 
 Sudan's Electronic Transactions Act of 2007 is the law cited in the May 2026 SudaPass terms; no source found reports rules made under it.
@@ -366,7 +366,7 @@ Guinea-Bissau put a draft Electronic Transactions Law to consultation until 28 M
 
 ### Lesotho: 2 Nascent
 
-Lesotho had no electronic transactions law in 2026 and a revised bill was in draft, so no source found says when it will pass.
+Lesotho had no electronic transactions law in 2026; a revised bill went to validation in September 2026, and no passage date has been found.
 
 - ITWeb Africa reports that Lesotho's MICSTI is introducing the Electronic Transactions and Communications Bill, 2026, a revision of the 2022 bill of the same name, after a two-day stakeholder validation workshop held with UNDP that week; the draft goes next to the Office of the Parliamentary Counsel for refinement (as_of is the article's published date, 2026-09-30, the workshop being 'this week') ([source, 2026-09-30](https://www.itweb.africa/article/lesotho-revises-electronic-transactions-bill/KA3WwMdzPLDvrydZ)).
 - The Government of Lesotho (via LENA) reports that MICSTI opened a two-day validation workshop in Maseru from Monday (2026-09-28) on the Electronic Transactions and Communications Bill, 2026, to gather stakeholder views before the Bill progresses through the next legislative stages; the Bill is under UNDP supervision and sponsored by MICSTI ([source, 2026-09-28](https://www.gov.ls/development/micsti-on-electronic-transactions-communications-bill/)).

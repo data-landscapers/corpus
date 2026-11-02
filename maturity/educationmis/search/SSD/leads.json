@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://mogei.gov.ss/super/assets/documents/resources/2023%20Nat-Education%20Census%20Report_Final.pdf",
+  "title": "National Education Census Report 2023",
+  "publisher": "MoGEI",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "Q2: annual census through EMIS"
+ },
+ {
+  "url": "https://www.au.int/en/pressreleases/20260324/au-iped-supports-south-sudan-strengthen-education-data-systems-through-emis",
+  "title": "AU IPED Supports South Sudan to Strengthen Education Data Systems through EMIS Reform",
+  "publisher": "African Union",
+  "published": "2026-03-24",
+  "sub_indicator": "emis",
+  "why": "Q1-3: EMIS largely manual, fragmented"
+ },
+ {
+  "url": "https://doi.org/10.6084/m9.figshare.30192664",
+  "title": "Education data systems in South Sudan: Exploring challenges in collection and connection",
+  "publisher": "ERICC consortium",
+  "published": "2025",
+  "sub_indicator": "emis",
+  "why": "Q2-3: EMIS status"
+ }
+]

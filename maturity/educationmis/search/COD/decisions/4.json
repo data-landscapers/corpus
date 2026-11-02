@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;learners",
+ "fact": "On 23 November 2022 the EPST minister launched the online identification file of all pupils in public and approved private schools, allowing a pupil to be tracked by identifier across schools.",
+ "title": "EPST: mise en ligne du fichier d'identification des eleves",
+ "publisher": "ACP",
+ "published": "2022-11-23",
+ "date_source": "source",
+ "why_not": ""
+}

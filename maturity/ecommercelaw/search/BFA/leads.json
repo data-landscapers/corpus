@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.arcep.bf/certification-electronique-2/",
+  "title": "Certification électronique",
+  "publisher": "ARCEP Burkina Faso",
+  "published": "2023-06-23",
+  "sub_indicator": "law",
+  "why": "Q2/Q3 law 2009 and 2012 decrees on certification"
+ },
+ {
+  "url": "https://www.arcep.bf/download-category/decret_loi_45_transactions_electroniques/",
+  "title": "Décret loi 45 transactions électroniques",
+  "publisher": "ARCEP Burkina Faso",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3 implementing decrees"
+ },
+ {
+  "url": "https://burkina-ntic.net/ressources/assets/docP/Document_N0232.pdf",
+  "title": "Projet de loi relative aux transactions électroniques (exposé des motifs)",
+  "publisher": "Burkina-NTIC",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1 replacement bill"
+ },
+ {
+  "url": "https://dig.watch/resource/regulation-of-electronic-services-and-transactions-in-burkina-faso",
+  "title": "Regulation of Electronic Services and Transactions in Burkina Faso",
+  "publisher": "Digital Watch Observatory",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2 law in force"
+ }
+]

@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "2",
-   "system": "underway",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source found since October 2023 says: is the school census run through it.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "system": "underway",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "No source found since October 2023 says: is the school census run through it.",
+      "note": "Reassessed in the rebuild: an AU workshop in May 2026 supported the DRC in strengthening its EMIS. The e-SIGE collection of June 2023 covered ten provinces and predates the window, so not 3.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

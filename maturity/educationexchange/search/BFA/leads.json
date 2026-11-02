@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://sp-psdebs.education-bf.com/uploads/document/U-1756488494.pdf",
+  "title": "Fichier national des élèves, de l'inscription en ligne...",
+  "publisher": "MENAPLN",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q3/Q4 FIUE-BF learner ID, WURI interoperability"
+ },
+ {
+  "url": "https://luxdev.lu/fr/actualites/plus-de-200-000-eleves-enregistres-bousse-et-tenkodogo",
+  "title": "Plus de 200 000 élèves enregistrés à Boussé et Tenkodogo",
+  "publisher": "LuxDev",
+  "published": "2024-05-13",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q3 FIUE-BF pilot"
+ },
+ {
+  "url": "https://www.latribunedufaso.net/?p=21538",
+  "title": "Numérisation du système éducatif : le projet d'enrôlement des élèves en examen",
+  "publisher": "La Tribune du Faso",
+  "published": "2025-06-25",
+  "sub_indicator": "exchange",
+  "why": "Q1 national student file"
+ },
+ {
+  "url": "https://digitalmagazine.bf/2024/01/24/digital-burkina-faso-la-dematerialisation-des-examens-scolaires-avance/",
+  "title": "La dématérialisation des examens scolaires avance",
+  "publisher": "Digital Magazine Burkina",
+  "published": "2024-01-24",
+  "sub_indicator": "exchange",
+  "why": "Q2 SIGEC exams system"
+ },
+ {
+  "url": "https://www.education.gov.bf/informations/actualites/articles?cHash=467a09e6f3368aaefc341aca2b30ae36&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1036",
+  "title": "Phase pilote du fichier national des élèves",
+  "publisher": "Ministère de l'Éducation (Burkina Faso)",
+  "published": "2023-11-11",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q3 pilot"
+ }
+]

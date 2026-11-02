@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.stat-niger.org/wp-content/uploads/publication_sectorielle/annuaire/MEN/Annuaire_MENAFPPLN_2023_2024_vf.pdf",
+  "title": "Statistiques de l'éducation nationale, de l'enseignement professionnel et de l'alphabétisation, Annuaire 2023-2024",
+  "publisher": "Ministère de l'Education Nationale (DSP/TICE)",
+  "published": "2025",
+  "sub_indicator": "emis",
+  "why": "school census via StatEduc2"
+ },
+ {
+  "url": "https://pnin-niger.org/web/wp-content/uploads/2025/06/RAPPORT-DIAGNOSTIC-DU-SYSTEME-DE-PRODUCTION-DES-STATISTIQUES-DES-MINISTERES-EN-CHARGE-DE-LEDUCATION-ET-DE-LA-FORMATION.pdf",
+  "title": "Rapport diagnostic du système de production des statistiques des ministères en charge de l'éducation et de la formation",
+  "publisher": "INS Niger / PNIN",
+  "published": "2025",
+  "sub_indicator": "emis",
+  "why": "StatEduc2, school-level aggregate census"
+ },
+ {
+  "url": "https://www.unicef.org/innocenti/media/3146/file/UNICEF-DMS-Niger-Unpacking-Factors-Influencing-School-Performance-2023-FR.pdf",
+  "title": "Niger: Unpacking factors influencing school performance",
+  "publisher": "UNICEF Innocenti",
+  "published": "2023",
+  "sub_indicator": "emis",
+  "why": "SIGE data"
+ },
+ {
+  "url": "https://nigerdiaspora.net/education?catid=48&id=17098%3Alancement-du-portail-national-unique-de-l-education-ameliorer-la-qualite-du-systeme-educatif-a-travers-des-services-numeriques-adoptes&view=article",
+  "title": "Lancement du portail national unique de l'éducation",
+  "publisher": "Nigerdiaspora",
+  "published": "2022-10-17",
+  "sub_indicator": "emis",
+  "why": "planned SIGE under LIRE"
+ }
+]

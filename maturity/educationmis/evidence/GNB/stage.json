@@ -1,17 +1,18 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "2",
-   "system": "underway",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNB-001;GNB-002",
-   "gaps": "No source found since October 2023 says: is the school census run through it.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "system": "underway",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-001;GNB-002",
+      "gaps": "No source found since October 2023 says: is the school census run through it.",
+      "note": "Reassessed in the rebuild: training on the SIGE 2.0 platform began in four regions in October 2025 under the EU-funded PESIDE project. Nothing found says the school census was run through it, so not 3.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "linked",
+ "fact": "For the 2024/2025 national examinations (registration from 21 February 2025) upper secondary candidates must register with their national ID number and SDMS details must match NIDA records.",
+ "title": "2024/2025 National Examinations Registration Guidelines",
+ "publisher": "NESA",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

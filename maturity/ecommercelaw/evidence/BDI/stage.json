@@ -1,16 +1,17 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "rules",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-003;BDI-004;BDI-002",
-   "gaps": "No source found dates an accreditation, licence, registration or penalty under the law in the last three years.",
-   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-003;BDI-004;BDI-002",
+      "gaps": "No declaration received, licence or penalty under the code has been found.",
+      "note": "ARCT's communiqué of 26 June 2026 orders e-commerce platforms and merchant sites to declare conformity under the code, an order made under the law as Ghana's 2023 registration notice is read. Its May 2026 guidelines are the rules made under it.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

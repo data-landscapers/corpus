@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.governo.cv/damos-mais-um-passo-significativo-no-caminho-da-modernizacao-e-inclusao-digital-no-setor-da-educacao-dne/",
+  "title": "Damos mais um passo significativo ... modernização e inclusão digital no setor da educação",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2025-06-25",
+  "why": "eSkola integrated with SIGE: q2",
+  "sub_indicator": "exchange"
+ },
+ {
+  "url": "https://www.asemana.cv/index.php/atualidade/16335-ministerio-da-educacao-lanca-aplicativo-eskola-para-reforcar-ligacao-entre-escola-alunos-e-encarregados",
+  "title": "Ministério da Educação lança aplicativo eSkola",
+  "publisher": "A Semana",
+  "published": "2025-06-25",
+  "why": "eSkola linked to SIGE: q2",
+  "sub_indicator": "exchange"
+ },
+ {
+  "url": "https://www.asemana.cv/index.php/atualidade/14072-implementacao-do-sige-e-passo-fundamental-para-eficiencia-da-gestao-educativa-no-pais-dne",
+  "title": "Implementação do SIGE é passo fundamental",
+  "publisher": "A Semana",
+  "published": "2025-03-18",
+  "why": "SIGE in basic and secondary: q2/q3",
+  "sub_indicator": "exchange"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2026-03-program-document-system-capacity-grant-cabo-verde.pdf",
+  "title": "PRISE 2026-2028",
+  "publisher": "GPE",
+  "published": "2026-03",
+  "why": "SIGE functional, to be made interoperable: q2/q1",
+  "sub_indicator": "exchange"
+ },
+ {
+  "url": "https://www.gov.cv/dossier-do-aluno",
+  "title": "Dossier do Aluno - Portal Único",
+  "publisher": "Gov.CV",
+  "published": "",
+  "why": "student record via CNI authentication: q4",
+  "sub_indicator": "exchange"
+ },
+ {
+  "url": "https://minedu.gov.cv/estatisticaanuarios",
+  "title": "Anuário Estatístico da Educação",
+  "publisher": "Ministério da Educação",
+  "published": "",
+  "why": "statistics collected via SIGE: q2",
+  "sub_indicator": "exchange"
+ },
+ {
+  "url": "https://minedu.gov.cv/recursos_educativossigemenu",
+  "title": "SIGE",
+  "publisher": "Ministério da Educação",
+  "published": "",
+  "why": "SIGE coverage: q2/q3",
+  "sub_indicator": "exchange"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2023-07-gpe-itap-report-caboverde.pdf",
+  "title": "Report of the ITAP - Cabo Verde",
+  "publisher": "GPE",
+  "published": "2023-07",
+  "why": "EMIS SIGE: q2",
+  "sub_indicator": "exchange"
+ }
+]

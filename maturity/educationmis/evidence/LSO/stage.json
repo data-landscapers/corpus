@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "3",
-   "system": "inservice",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001",
-   "gaps": "No source found since October 2023 says the system holds a record for each learner.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "system": "underway",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-002;LSO-003",
+      "gaps": "Two May 2026 sources disagree on whether the DHIS2 EMIS is live for nationwide collection; no source found since October 2023 says the school census was run through it.",
+      "note": "Reassessed in the rebuild: in May 2026 one source says district offices feed school data into the DHIS2 EMIS, and another says the system is not yet live for nationwide collection. No school census run through it is shown, so 2, not 3.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

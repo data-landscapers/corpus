@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "exchange",
+ "aspect": "",
+ "fact": "",
+ "title": "Acquisition et dotation en matériels informatique ainsi que le recrutement d'un prestataire pour le renforcement du SIGE",
+ "publisher": "WUSC EUMC",
+ "published": "2025-06-05",
+ "date_source": "source",
+ "why_not": "no-development: tender notice, states intent to integrate JIGITUGU but no operating interoperability fact"
+}

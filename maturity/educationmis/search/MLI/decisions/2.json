@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;linked",
+ "fact": "UNESCO supported the Mali CPS in integrating school-health indicators into the SIGE, with a Ségou workshop on 21-26 October 2024 analysing national data for 2023-2024.",
+ "title": "L'UNESCO appuie la production des statistiques liées à la santé du Système d'Information et de Gestion de l'Éducation au Mali",
+ "publisher": "UNESCO",
+ "published": "2024-10-30",
+ "date_source": "source",
+ "why_not": ""
+}

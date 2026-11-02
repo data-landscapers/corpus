@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The October 2023 GPE programme document says Rwanda's EMIS is being revamped, SDMS, TMIS and CAMIS are operational, and MINEDUC is working on a system to integrate them.",
+ "title": "Program Document Rwanda 2023",
+ "publisher": "Global Partnership for Education",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

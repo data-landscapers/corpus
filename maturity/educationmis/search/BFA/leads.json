@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.sidwaya.info/journees-des-statistiques-de-leducation-nationale-la-quete-constante-damelioration-de-la-production-des-donnees/",
+  "title": "Journées des statistiques de l'éducation nationale",
+  "publisher": "Sidwaya",
+  "published": "2025-01-07",
+  "sub_indicator": "emis",
+  "why": "Q1/Q2 SIGE innovation"
+ },
+ {
+  "url": "https://www.iiep.unesco.org/en/articles/protecting-education-attack-eie-data-burkina-faso",
+  "title": "Protecting education from attack: EiE data in Burkina Faso",
+  "publisher": "IIEP-UNESCO",
+  "published": "2024-09-06",
+  "sub_indicator": "emis",
+  "why": "Q2 annual school census via EMIS"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-04-program-document-system-transformation-grant-burkina-faso.pdf",
+  "title": "System Transformation Grant program document (Burkina Faso)",
+  "publisher": "World Bank / GPE",
+  "published": "2025-04",
+  "sub_indicator": "emis",
+  "why": "Q1 student management module planned"
+ },
+ {
+  "url": "https://luxdev.lu/fr/actualites/plus-de-200-000-eleves-enregistres-bousse-et-tenkodogo",
+  "title": "Plus de 200 000 élèves enregistrés à Boussé et Tenkodogo",
+  "publisher": "LuxDev",
+  "published": "2024-05-13",
+  "sub_indicator": "emis",
+  "why": "Q3 learner unique ID pilot"
+ },
+ {
+  "url": "https://zeega.education-bf.com/",
+  "title": "Zɛɛga",
+  "publisher": "MEBAPLN",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "Q2 statistics platform"
+ }
+]

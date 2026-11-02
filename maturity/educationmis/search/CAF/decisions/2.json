@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "A 2022 statistical campaign covering all establishments produced the 2020/21 and 2021/22 yearbook after annuaire production stopped in 2019.",
+ "title": "Annuaire statistique, Fondamental 1, Alphabétisation et Éducation de base non formelle 2021-2022",
+ "publisher": "ICASEES",
+ "published": "2024-10-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

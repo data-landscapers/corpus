@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://dig.watch/countries/liberia",
+  "title": "Liberia | Digital Watch Observatory",
+  "publisher": "Geneva Internet Platform",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2: Electronic Transactions Law adopted 2002"
+ },
+ {
+  "url": "https://dtri.uneca.org/v1/uploads/country-profile/lbr-country-profile-en.pdf",
+  "title": "Liberia country profile",
+  "publisher": "UNECA Digital Trade Regulatory Integration Hub",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2: electronic contracts and signatures acceptable under Liberian law"
+ },
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2022/06/NATIONAL-ICT-POLICY2025-2030Draft-1-Jan-7-2025.docx.pdf",
+  "title": "National ICT Policy 2025-2030 (draft)",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q1-3: e-commerce legal framework mentions"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The PRISE 2026-2028 programme document (February 2026, revised March 2026) states SIGE is functional and comprehensive with data by sex, age, location and school type, and plans a SABER-EMIS diagnostic and modernisation plan.",
+ "title": "PROGRAMA DE SUPORTE AO REFORÇO INSTITUCIONAL DO SECTOR EDUCATIVO (PRISE) 2026-2028",
+ "publisher": "UNICEF e Banco Mundial (GPE System Capacity Grant)",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

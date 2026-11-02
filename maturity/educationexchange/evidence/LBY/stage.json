@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-001",
-   "gaps": "No source found since October 2023 says one learner identifier is used across education systems.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "unplaced",
+      "exchange": "",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 names two education systems exchanging data, or says none do.",
+      "note": "Rebuild 2026-11-02: the July 2026 platform lets parents check that a private school is licensed and affiliated with the National Centre for Examinations, which is a register's content and not an exchange, so the row is classed other. Nothing else found names a link between education systems.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

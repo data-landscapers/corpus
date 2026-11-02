@@ -41,9 +41,9 @@ digitalsovereignty,sovereignty,geopol.sovereignty--digital-sovereignty,2026-10-3
 digitalstrategy,national,gov.policy--digital-transformation-strategy,2026-11-01,14,52.6,90
 disabilityaccess,accessibility,include.access--inclusion-of-persons-with-disabilities,2026-11-01,14,52.6,110
 domesticfinancing,financing,finance.budget--sustainable-domestic-financing-of-digital-transformation,2026-11-01,14,52.6,79
-ecommercelaw,law,gov.legislate--e-commerce-legislation,,,,
-educationexchange,exchange,dpi.exchange--interoperability-of-education-systems,,,,
-educationmis,emis,dpi.mis--education,,,,
+ecommercelaw,law,gov.legislate--e-commerce-legislation,2026-11-02,12,29,82
+educationexchange,exchange,dpi.exchange--interoperability-of-education-systems,2026-11-02,12,29,51
+educationmis,emis,dpi.mis--education,2026-11-02,12,29,50
 egovservices,eservices,dpi.govtech--e-government-services,,,,
 electoralregister,electoral,dpi.registry--electoral-register,,,,
 eparticipation,eparticipation,include.access--citizen-participation-in-policy,,,,

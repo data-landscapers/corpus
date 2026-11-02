@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-001;BDI-003",
-   "gaps": "No source found since October 2023 says two education systems exchange data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001;BDI-003",
+      "gaps": "No source found since October 2023 says two education systems exchange data in use.",
+      "note": "Rebuild 2026-11-02: the ministry and UNESCO were building a human resources module for SIGE in August 2024, under a project running to February 2026. Nothing found says it is in service; the GPE panel said in December 2023 that the EMIS was integrated with no other system.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

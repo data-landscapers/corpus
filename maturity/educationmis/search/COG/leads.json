@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.adiac-congo.com/content/education-un-systeme-dinformation-pour-ameliorer-la-gouvernance-de-lecole-147658",
+  "title": "Education : un systeme d'information pour ameliorer la gouvernance de l'ecole",
+  "publisher": "Adiac",
+  "published": "2023-04-24",
+  "sub_indicator": "emis",
+  "why": "SIGE, unique learner ID"
+ },
+ {
+  "url": "https://www.panoramik-actu.com/congo-vers-un-systeme-dinformation-educatif-renforce-grace-a-levaluation-du-sige-un-atelier-strategique-de-lua/",
+  "title": "Congo : evaluation du SIGE, un atelier strategique de l'UA",
+  "publisher": "Panoramik Actu",
+  "published": "2024-08-18",
+  "sub_indicator": "emis",
+  "why": "SIGE assessment against AU standards"
+ },
+ {
+  "url": "https://au.int/en/pressreleases/20260519/congo-moves-modernize-education-data-systems-au-iped",
+  "title": "Congo Moves to Modernize Education Data Systems with AU-IPED",
+  "publisher": "African Union",
+  "published": "2026-05-19",
+  "sub_indicator": "emis",
+  "why": "EMIS self-assessment"
+ },
+ {
+  "url": "https://acsi.cg/produits/systeme-integre-de-gestion-de-leducation/",
+  "title": "Systeme integre de gestion de l'education",
+  "publisher": "ACSI",
+  "published": "2021",
+  "sub_indicator": "emis",
+  "why": "unique learner number app"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-06-congo_republic-itap-report.pdf",
+  "title": "Report of the Independent Technical Assessment Panel, Congo",
+  "publisher": "GPE",
+  "published": "2024-06",
+  "sub_indicator": "emis",
+  "why": "EMIS status"
+ },
+ {
+  "url": "https://www.aci.cg/congo-education-remise-des-annuaires-statistiques-de-gestion-du-systeme-educatif/",
+  "title": "Congo/Education : Remise des annuaires statistiques",
+  "publisher": "ACI",
+  "published": "2024-12-22",
+  "sub_indicator": "emis",
+  "why": "school census yearbooks"
+ }
+]

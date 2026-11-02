@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "unplaced",
-   "exchange": "",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 names education systems exchanging data.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "unplaced",
+      "exchange": "",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 names education systems exchanging data.",
+      "note": "Rebuild 2026-11-02: the only fact is a 2021 UNESCO case study, before the window, saying the ministry's platforms cannot link. Nothing found since states the position.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

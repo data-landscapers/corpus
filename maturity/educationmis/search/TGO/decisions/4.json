@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The ministry's SIGE collects data in real time and steers the education sector, as reported in March 2025.",
+ "title": "MEPS : Le CNDP-TICE au cœur de la modernisation du système éducatif",
+ "publisher": "Ministère des Enseignements Primaire et Secondaire",
+ "published": "2025-03-27",
+ "date_source": "source",
+ "why_not": ""
+}

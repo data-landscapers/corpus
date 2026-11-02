@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://edu-nc.gouv.cd/news/sernie-workshop-on-functionalities-for-modernizing-the-education-system",
+  "title": "SERNIE: Workshop on functionalities for modernizing the education system",
+  "publisher": "MINEDU-NC",
+  "published": "2026-02-13",
+  "sub_indicator": "emis",
+  "why": "school and student unique identifiers, EDUSER"
+ },
+ {
+  "url": "https://au.int/en/pressreleases/20260512/au-iped-supports-education-data-systems-self-assessment-drc",
+  "title": "AU IPED supports Education Data Systems Self-Assessment in DRC",
+  "publisher": "African Union",
+  "published": "2026-05-12",
+  "sub_indicator": "emis",
+  "why": "EMIS self-assessment against AU norms"
+ },
+ {
+  "url": "https://www.mediacongo.net/dpics/filesmanager/jobaof/2025/05-mai/04/paaf_250526_01_03.pdf",
+  "title": "TdR Evaluation des plateformes informatiques du Ministere",
+  "publisher": "Projet PAAF",
+  "published": "2025",
+  "sub_indicator": "emis",
+  "why": "list of ministry platforms and interoperability need"
+ },
+ {
+  "url": "https://acp.cd/nation/epst-mise-en-ligne-du-fichier-didentification-des-eleves/",
+  "title": "EPST: mise en ligne du fichier d'identification des eleves",
+  "publisher": "ACP",
+  "published": "2022-11-23",
+  "sub_indicator": "emis",
+  "why": "learner identification file online"
+ },
+ {
+  "url": "https://acp.cd/nation/lunesco-salue-les-realisations-du-systeme-dinformation-pour-la-gestion-de-leducation-en-rdc/",
+  "title": "L'UNESCO salue les realisations du SIGE en RDC",
+  "publisher": "ACP",
+  "published": "2021-05-21",
+  "sub_indicator": "emis",
+  "why": "single sector SIGE"
+ },
+ {
+  "url": "https://congoprofond.net/rdc-education-lunesco-presente-les-resultats-des-phases-1-et-2-de-la-sous-composante-sige/",
+  "title": "RDC/Education : l'UNESCO presente les resultats des phases 1 et 2 de la sous composante SIGE",
+  "publisher": "Congo Profond",
+  "published": "2019-12",
+  "sub_indicator": "emis",
+  "why": "integrated database, reporting portal"
+ }
+]

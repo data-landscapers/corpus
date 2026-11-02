@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;learnerid",
+ "fact": "BIUST was building its Academic Student Information System (BASIS) to connect to its ID card, library, HR, finance and learning management systems.",
+ "title": "BASIS project - a prevalent university initiative bears fruit",
+ "publisher": "Botswana International University of Science and Technology",
+ "published": "2022-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

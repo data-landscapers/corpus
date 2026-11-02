@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GAB-001;GAB-002",
       "gaps": "No source found since October 2023 says: is the school census run through it.",
-      "note": "First pass: counted from the four questions by study-ladder-educationmis.py.",
-      "as_at": "2026-10-17"
+      "note": "Reassessed in the rebuild: the ministry is adding school-health indicators to the SIGE (August 2025) and began assigning learner identifiers in October 2024. Nothing found says the school census was run through it, so not 3.",
+      "as_at": "2026-11-02"
     }
   ]
 }

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://id4africa.com/2026/files/T4-1-S2-4-Cote-d-Ivoire-FINAL.pdf",
+  "title": "La Côte d'Ivoire vers une identité juridique et numérique intégrée au service du citoyen",
+  "publisher": "ID4Africa / ONECI",
+  "published": "2026",
+  "sub_indicator": "exchange",
+  "why": "single ID to serve education among sectors (linked)"
+ },
+ {
+  "url": "https://www.education.gouv.ci/assets/pdf/Document/Orientation/document_220.pdf",
+  "title": "Stratégie nationale de digitalisation de l'éducation en Côte d'Ivoire (SNDECI) 2024-2028",
+  "publisher": "MENA",
+  "published": "2024",
+  "sub_indicator": "exchange",
+  "why": "FNE, matricule, SIGE feeding (exchange, learnerid)"
+ },
+ {
+  "url": "https://www.nouvelle-afrique.net/CEPE-BEPC-BAC-une-gestion-centralisee-et-securisee-des-examens-avec-la-plateforme-unifiee-de-la-DECO_a1088.html",
+  "title": "CEPE-BEPC-BAC : plateforme unifiée de la DECO",
+  "publisher": "Nouvelle Afrique",
+  "published": "2026-05-08",
+  "sub_indicator": "exchange",
+  "why": "exam platform using matricule (exchange)"
+ },
+ {
+  "url": "https://mena-desps.org/",
+  "title": "DESPS - Fichier National des Elèves",
+  "publisher": "MENA-DESPS",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "FNE for data transmission between directorates (exchange)"
+ },
+ {
+  "url": "https://fr.apanews.net/education/rci-digitalisation-de-la-gouvernance-du-systeme-educatif/",
+  "title": "RCI : digitalisation de la gouvernance du système éducatif",
+  "publisher": "APAnews",
+  "published": "2025-07-10",
+  "sub_indicator": "exchange",
+  "why": "SIGE launch, interinstitutional exchange (exchange)"
+ }
+]

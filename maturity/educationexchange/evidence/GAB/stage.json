@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "unplaced",
-   "exchange": "",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 names education systems exchanging data.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "unplaced",
+      "exchange": "",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 names education systems exchanging data.",
+      "note": "Rebuild 2026-11-02: the only fact is a 2012 law giving each learner a unique number, before the window. Nothing found says the number is in use.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

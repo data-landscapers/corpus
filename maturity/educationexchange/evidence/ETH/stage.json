@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-001;ETH-003",
-   "gaps": "No source found since October 2023 says two education systems exchange data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-002",
+      "gaps": "No source found since October 2023 says two education systems exchange data in use.",
+      "note": "Rebuild 2026-11-02: from November 2025 a UNICEF-backed project works to connect school, woreda and zone data systems in four regions to the national DHIS2-Ed EMIS. Bringing refugee schools into the EMIS widens its coverage and is not a link, so those rows are classed other.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

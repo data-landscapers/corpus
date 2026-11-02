@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;learners",
+ "fact": "Uganda's Ministry of Education assigns learners a Learner Identification Number alongside the NIN from NIRA, and UNEB issues separate index numbers at primary seven, so a learner holds at least three identifiers.",
+ "title": "Concern As Unique Identifiers Confuse Students, Parents, Educators",
+ "publisher": "Insight Post Uganda",
+ "published": "2024-10-03",
+ "date_source": "source",
+ "why_not": ""
+}

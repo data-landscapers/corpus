@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.iicba.unesco.org/en/zambia",
+  "title": "Zambia: Education Country Brief",
+  "publisher": "UNESCO IICBA",
+  "published": "2024-10-21",
+  "sub_indicator": "emis",
+  "why": "ASC and Ed-ASSIST"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-10-zambia-partnership-compact.pdf",
+  "title": "Zambia Partnership Compact",
+  "publisher": "Global Partnership for Education",
+  "published": "2024-10",
+  "sub_indicator": "emis",
+  "why": "EMIS upgrade steps 2023-24"
+ },
+ {
+  "url": "https://www.developmentaid.org/tenders/view/1350763/zambia-education-enhancement-project-procurement-of-consultancy-services-to-develop-the-enhanced-emi",
+  "title": "Procurement of Consultancy Services to Develop the Enhanced EMIS",
+  "publisher": "Ministry of Education of Zambia",
+  "published": "2024-08-12",
+  "sub_indicator": "emis",
+  "why": "Procurement of enhanced EMIS"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2023-08-zambia-itap-report.pdf",
+  "title": "Report of the Independent Technical Advisory Panel, Zambia",
+  "publisher": "GPE ITAP",
+  "published": "2023-08",
+  "sub_indicator": "emis",
+  "why": "ASB production stalled 2021-22"
+ },
+ {
+  "url": "https://www.zmschoolcensus.com/",
+  "title": "Annual School Census System",
+  "publisher": "Ministry of Education Zambia",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "2025 census launch"
+ }
+]

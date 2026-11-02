@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.au.int/en/pressreleases/20260324/au-iped-supports-south-sudan-strengthen-education-data-systems-through-emis",
+  "title": "AU IPED Supports South Sudan to Strengthen Education Data Systems through EMIS Reform",
+  "publisher": "African Union",
+  "published": "2026-03-24",
+  "sub_indicator": "exchange",
+  "why": "Q1-2: fragmented systems, limited interoperability"
+ },
+ {
+  "url": "https://doi.org/10.6084/m9.figshare.30192664",
+  "title": "Education data systems in South Sudan: Exploring challenges in collection and connection",
+  "publisher": "ERICC consortium",
+  "published": "2025",
+  "sub_indicator": "exchange",
+  "why": "Q2: coordination between four education data systems"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202607/south-sudan-plans-interoperable-birth-registration-digital-id-systems",
+  "title": "South Sudan plans interoperable birth registration, digital ID systems",
+  "publisher": "Biometric Update",
+  "published": "2026-07-31",
+  "sub_indicator": "exchange",
+  "why": "Q4: civil registration/ID linkage plan"
+ }
+]

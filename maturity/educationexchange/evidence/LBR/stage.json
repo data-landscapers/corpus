@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "1",
-   "exchange": "none",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source found since October 2023 says a link between education systems is under way.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "1",
+      "exchange": "none",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-001",
+      "gaps": "No source found since October 2023 says a link between education systems is under way.",
+      "note": "Rebuild 2026-11-02: the AU-IPED peer review of September 2025 found the EMIS integrated with neither WAEC exam data nor teacher records. Nothing found since says a link is under way.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

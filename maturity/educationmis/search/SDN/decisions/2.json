@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The World Bank project document of October 2020 says Sudan's Ministry of Education will continue the annual school census with schools uploading data on tablets and will issue school profiles, building on the rapid surveys begun under BERP.",
+ "title": "Sudan Basic Education Support Project",
+ "publisher": "World Bank",
+ "published": "2020-10-27",
+ "date_source": "source",
+ "why_not": ""
+}

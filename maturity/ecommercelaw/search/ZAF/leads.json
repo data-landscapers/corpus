@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://saaa.gov.za/accreditated-authentication-product-service-providers/",
+  "title": "Accredited authentication product / service providers",
+  "publisher": "SAAA",
+  "published": "2025-08-20",
+  "sub_indicator": "law",
+  "why": "Q4: accredited AES providers"
+ },
+ {
+  "url": "https://www.saflii.org/za/legis/consol_act/ecata2002427/",
+  "title": "Electronic Communications and Transactions Act 25 of 2002",
+  "publisher": "SAFLII",
+  "published": "2025-08-02",
+  "sub_indicator": "law",
+  "why": "Q1-2: Act in force"
+ },
+ {
+  "url": "https://saaa.gov.za/policy-legislation/",
+  "title": "Policy & Legislation",
+  "publisher": "SAAA",
+  "published": "2025-04-15",
+  "sub_indicator": "law",
+  "why": "Q3: accreditation regulations"
+ },
+ {
+  "url": "https://www.dcdt.gov.za/topics/343-saaa-information.html",
+  "title": "SAAA Information",
+  "publisher": "DCDT",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q4: institutions accredited in 2021"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/communications-and-digital-technologies-welcomes-assenting-law-sapo-amendment",
+  "title": "DCDT welcomes assenting into law of SAPO Amendment Bill",
+  "publisher": "DCDT",
+  "published": "2024-12-19",
+  "sub_indicator": "law",
+  "why": "Q4 context: SAPO designated authentication authority"
+ }
+]

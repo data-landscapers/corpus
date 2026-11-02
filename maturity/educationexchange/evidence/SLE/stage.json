@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-001;SLE-003",
-   "gaps": "No source found since October 2023 says two education systems exchange data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-001;SLE-003",
+      "gaps": "No source found since October 2023 says two education systems exchange data in use.",
+      "note": "Rebuild 2026-11-02: the ministry launched a GPE-funded data hub in 2026 to connect the school census, teacher records, assessments and examination results, which it says are held in separate systems. The 2020 data hub link falls before the window.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

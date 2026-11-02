@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;learnerid",
+ "fact": "The SIMEN coordinator says every ministry platform feeds a common data warehouse and that teachers, pupils and other actors each hold a unique Éducation nationale identifier, so interoperability between the ministry's platforms is a reality.",
+ "title": "Seyni Ndiaye Fall, Coordonnateur du Système intégré de Management de l'Éducation nationale : « L'interopérabilité est une réalité chez nous »",
+ "publisher": "Le Tech Observateur",
+ "published": "2026-08-15",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "3",
-   "system": "inservice",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-001",
-   "gaps": "No source found since October 2023 says the system holds a record for each learner.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-001",
+      "gaps": "No source found since October 2023 says the system holds a record for each learner.",
+      "note": "Reassessed in the rebuild: in August 2026 the EducMaster portal said the SIGE produces national statistics, with 1.8 million learners on the platform. No unique learner number is stated, so not 4.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

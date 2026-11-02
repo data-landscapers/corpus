@@ -1,16 +1,17 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "reach": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-002;ZAF-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-001;ZAF-003",
+      "gaps": "No regulation made under the Act has been found, and the three accreditations reported in September 2026 carry no dates.",
+      "note": "The 2002 Act is in force. Under Bill's ruling of 2026-10-23, providers named as accredited with no accreditation date do not show the law applied within three years, and no rule made under the Act has been found.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

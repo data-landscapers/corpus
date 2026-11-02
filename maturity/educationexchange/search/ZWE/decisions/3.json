@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;learnerid",
+ "fact": "The terms of reference for the School Improvement Grant MIS, with consultancy due to start 1 August 2020, require integration with EMIS data and a single school ID linked to the EMIS school ID.",
+ "title": "Terms of Reference: Design, developing and deploying the School Improvement Grant (SIG) Management Information System",
+ "publisher": "UNICEF Zimbabwe for MoPSE",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

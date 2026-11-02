@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The 2018 EMIS report, published October 2019, states UNICEF supported development of a decentralised web-based data-capturing system for the Ministry's EMIS, producing the 15th School Day Census and Annual Education Census reports.",
+ "title": "Education Management Information System: EMIS Education Statistics 2018",
+ "publisher": "Ministry of Education, Arts and Culture, Republic of Namibia",
+ "published": "2019-10",
+ "date_source": "source",
+ "why_not": ""
+}

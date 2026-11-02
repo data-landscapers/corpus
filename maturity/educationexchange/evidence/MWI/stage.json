@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-001",
-   "gaps": "No source found since October 2023 says two education systems exchange data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-001",
+      "gaps": "No source found since October 2023 says two education systems exchange data in use.",
+      "note": "Rebuild 2026-11-02: the Unlocking Data Initiative was building an education data portal in July 2026 to bring together ministry EMIS, welfare and statistics datasets. Nothing found says a link is in service.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

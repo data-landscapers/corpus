@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "1",
-   "exchange": "none",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source found since October 2023 says a link between education systems is under way.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "1",
+      "exchange": "none",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "No source found since October 2023 says a link between education systems is under way.",
+      "note": "Rebuild 2026-11-02: the SERNIE director wrote in August 2026 that other education departments collect teacher and infrastructure data separately from SERNIE's learner records. Nothing found says a link is under way.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

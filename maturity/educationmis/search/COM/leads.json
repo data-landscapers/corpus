@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.al-fajrquotidien.com/le-projet-rehema-sattaque-a-la-fragmentation-des-donnees-aux-comores/",
+  "title": "Le projet REHEMA s'attaque à la fragmentation des données aux Comores",
+  "publisher": "Al-Fajr",
+  "published": "2026-10-20",
+  "why": "SIGE single data reference, harmonising databases: q1",
+  "sub_indicator": "emis"
+ },
+ {
+  "url": "https://www.globalpartnership.org/fr/node/document/download?file=document%2Ffile%2F2026-09-document-programme-financement-renforcement-capacites-union-comores.pdf",
+  "title": "Proposition de Programme pour le Guichet Renforcement des Capacités - Comores",
+  "publisher": "GPE",
+  "published": "2026-09",
+  "why": "SIGE being set up under REHEMA: q1",
+  "sub_indicator": "emis"
+ },
+ {
+  "url": "https://alwatwan.net/education/e-msomo-et-bulletin-unique-i-le-minist%C3%A8re-explique-sa-strat%C3%A9gie-de-modernisation.html",
+  "title": "e-Msomo et bulletin unique",
+  "publisher": "Al-Watwan",
+  "published": "2025-11-25",
+  "why": "e-Msomo learner ID and registration rates: q1-q3",
+  "sub_indicator": "emis"
+ },
+ {
+  "url": "https://techpression.com/comoros-launches-e-shiyo-e-msomo-learning-platforms-to-boost-access-to-education/",
+  "title": "Comoros launches E-Shiyo, E-Msomo learning platforms",
+  "publisher": "Techpression",
+  "published": "2025-06-24",
+  "why": "e-Msomo pilot with unique student ID: q1/q3",
+  "sub_indicator": "emis"
+ },
+ {
+  "url": "https://oceans-news.com/e-shiyo-et-e-msomo-comores/",
+  "title": "E-Shiyo et E-Msomo facilitent l'apprentissage numérique",
+  "publisher": "Oceans News",
+  "published": "2025-06-20",
+  "why": "unique ID per pupil: q3",
+  "sub_indicator": "emis"
+ },
+ {
+  "url": "https://www.e-msomo.com/",
+  "title": "e-Msomo",
+  "publisher": "Ministère de l'Éducation des Comores",
+  "published": "",
+  "why": "platform stats: q1-q3",
+  "sub_indicator": "emis"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2023-06-comoros-itap-report.pdf",
+  "title": "Report of the Independent Technical Advisory Panel - Comoros",
+  "publisher": "GPE",
+  "published": "2023-06",
+  "why": "EMIS state and school census coverage: q2",
+  "sub_indicator": "emis"
+ }
+]

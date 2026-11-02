@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "DZA-001",
       "gaps": "No source found since October 2023 says: is the school census run through it.",
-      "note": "First pass: counted from the four questions by study-ladder-educationmis.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed in the rebuild: in November 2024 the ministry said a 2025 version of its sector information system was being prepared. Nothing found says the school census was run through it, so not 3.",
+      "as_at": "2026-11-02"
     }
   ]
 }

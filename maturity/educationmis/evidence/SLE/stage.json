@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "2",
-   "system": "underway",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-004;SLE-003",
-   "gaps": "No source found since October 2023 says: is the school census run through it.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-002",
+      "gaps": "No source found since October 2023 says the system holds a record for each learner with a unique learner number; the Unique Learner ID system was being procured.",
+      "note": "Reassessed in the rebuild: the ministry's EMIS page, read by the as-at, lists the 2025 Annual School Census report. The Unique Learner ID system was still being procured in October 2025, so not 4.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

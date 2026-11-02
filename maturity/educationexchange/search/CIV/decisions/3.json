@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "learnerid",
+ "fact": "For the 2026 session candidates for the CEPE, BEPC and BAC register, pay and consult results on the unified DECO platform using their numéro matricule.",
+ "title": "CEPE-BEPC-BAC : une gestion centralisée et sécurisée des examens avec la plateforme unifiée de la DECO",
+ "publisher": "Nouvelle Afrique",
+ "published": "2026-05-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

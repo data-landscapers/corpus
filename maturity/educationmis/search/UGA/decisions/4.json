@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "learners",
+ "fact": "The Ministry of Education and Sports is registering all learners across all education levels in EMIS, collecting each learner's and parent's NIN.",
+ "title": "Student EMIS Registration form",
+ "publisher": "Ministry of Education and Sports",
+ "published": "2022-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

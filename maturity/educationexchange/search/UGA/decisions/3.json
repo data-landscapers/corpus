@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "linked",
+ "fact": "The April 2023 EMIS primary-school user manual has schools verify each learner's NIN, with the system auto-generating a Learner Identification Number that works alongside the NIN.",
+ "title": "User Manual for Primary Institutions, Education Management Information System (EMIS)",
+ "publisher": "Ministry of Education and Sports (SMS One consultant)",
+ "published": "2023-04",
+ "date_source": "source",
+ "why_not": ""
+}

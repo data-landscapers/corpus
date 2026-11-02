@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://faolex.fao.org/en/documents/LEX-FAOC247813/decret-n-26-084-pr-portant-promulgation-de-la-loi-n-26-003-a-com-2026",
+  "title": "Décret n° 26-084/PR portant promulgation de la loi n° 26-003/AU du 15 juin 2026 relative à la Protection du Consommateur",
+  "publisher": "FAOLEX",
+  "published": "2026-07-21",
+  "why": "Consumer law covering electronic transactions promulgated: q1/q2",
+  "sub_indicator": "law"
+ },
+ {
+  "url": "https://ancs.gouv.km/wp-content/uploads/2024/02/DEC-N%C2%B022-003-promul-loi-N%C2%B021-012-AU-relative-a-la-Cyber-Securite-et-a-la-Lutte-contre-la-CYbercrimunalite-en-Union-des-Comores.pdf",
+  "title": "Décret n°22-003/PR portant promulgation de la loi n°21-012/AU relative à la Cyber Sécurité",
+  "publisher": "ANCS Comores",
+  "published": "2022",
+  "why": "Law with e-signature and certification regime in force: q1/q2",
+  "sub_indicator": "law"
+ },
+ {
+  "url": "https://www.unescwa.org/sites/default/files/inline-files/ABLF-2023-consumer-CP-Comoros-english.pdf",
+  "title": "Consumer Protection - Comoros",
+  "publisher": "ESCWA",
+  "published": "2023",
+  "why": "States no e-commerce law adopted: q1",
+  "sub_indicator": "law"
+ },
+ {
+  "url": "https://dtri.uneca.org/v1/uploads/country-profile/com-country-profile-en.pdf",
+  "title": "Union of Comoros digital trade country profile",
+  "publisher": "UNECA",
+  "published": "",
+  "why": "No electronic transactions law; implementing decrees awaited: q1/q3",
+  "sub_indicator": "law"
+ },
+ {
+  "url": "https://anrtic.km/regulation/lois",
+  "title": "Lois - ANRTIC",
+  "publisher": "ANRTIC",
+  "published": "2023-12-26",
+  "why": "List of electronic communications texts: q2",
+  "sub_indicator": "law"
+ },
+ {
+  "url": "https://dig.watch/countries/comoros",
+  "title": "Comoros | Digital Watch Observatory",
+  "publisher": "Diplo",
+  "published": "",
+  "why": "No standalone e-commerce law: q1",
+  "sub_indicator": "law"
+ }
+]

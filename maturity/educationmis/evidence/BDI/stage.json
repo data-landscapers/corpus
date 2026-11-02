@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "2",
-   "system": "underway",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-003;BDI-001",
-   "gaps": "No source found since October 2023 says: is the school census run through it.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "system": "underway",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-003;BDI-001",
+      "gaps": "No source found since October 2023 says: is the school census run through it.",
+      "note": "Reassessed in the rebuild: since 2024 the ministry and UNESCO have been modernising the SIGE, and an AU workshop met in June 2026 to strengthen it. Nothing found says the school census was run through it, so not 3.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-001",
-   "gaps": "No source found since October 2023 says one learner identifier is used across education systems.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-002;ZWE-003",
+      "gaps": "No source found since October 2023 says two education systems exchange data in service. The Early Warning System is a module of the EMIS.",
+      "note": "Rebuild 2026-11-02: the Early Warning System is a module of the EMIS, classed other, and social welfare officers' door-to-door tracing is joint work, not linked records. In April 2026 UNICEF sought a consultant to build a school registration system integrated with the EMIS, a link being procured.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

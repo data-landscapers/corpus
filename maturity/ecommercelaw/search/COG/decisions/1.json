@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "law",
+ "aspect": "standing",
+ "fact": "Loi n 37-2019 du 12 decembre 2019 relative aux transactions electroniques sets out the legal framework for electronic commerce, electronic signature and electronic archiving in the Republic of Congo.",
+ "title": "Loi n 37-2019 du 12 decembre 2019 relative aux transactions electroniques",
+ "publisher": "Republique du Congo",
+ "published": "2019-12-12",
+ "date_source": "source",
+ "why_not": "headline-only-stub: body transliterated at capture (lint-staged-queue FLAT); refetch needed"
+}

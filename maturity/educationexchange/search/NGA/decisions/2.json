@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;learnerid;linked",
+ "fact": "The federal government released national CA guidelines in August 2026 requiring WAEC and NECO portals linked to NEDI and National Learner Identity Numbers linked to the NIN, with transfers updating records across schools and the exam portal.",
+ "title": "FG releases new operational guidelines for WAEC, NECO students' assessment records",
+ "publisher": "Tribune Online",
+ "published": "2026-08-24",
+ "date_source": "source",
+ "why_not": ""
+}

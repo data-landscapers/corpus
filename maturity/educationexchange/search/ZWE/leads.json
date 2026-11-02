@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.gpekix.org/sites/default/files/webform/submit_to_the_library/461/Zimbabwe_Policy%20Brief_KIX%20EMIS_cdv1.pdf",
+  "title": "KIX EMIS Peer Review Ministry of Education Zimbabwe",
+  "publisher": "GPE KIX",
+  "published": "2023",
+  "sub_indicator": "exchange",
+  "why": "Data sharing across agencies weak; individual data planned"
+ },
+ {
+  "url": "https://www.zimeye.net/2023/03/27/gvt-profiles-learners/",
+  "title": "Gvt Profiles Learners",
+  "publisher": "ZimEye",
+  "published": "2023-03-27",
+  "sub_indicator": "exchange",
+  "why": "Learner profiles fed to EMIS"
+ },
+ {
+  "url": "https://www.unicef.org/zimbabwe/media/3036/file",
+  "title": "Terms of Reference: School Improvement Grant MIS",
+  "publisher": "UNICEF Zimbabwe",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "SIG system to be linked to EMIS school ID"
+ },
+ {
+  "url": "https://www.adeanet.org/sites/default/files/zimbabwe_education_management_information_systems_peer_review_report.pdf",
+  "title": "Zimbabwe EMIS Peer Review Report",
+  "publisher": "ADEA",
+  "published": "2019",
+  "sub_indicator": "exchange",
+  "why": "No individual learner identification system"
+ }
+]

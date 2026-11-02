@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;learners",
+ "fact": "X-gest, a school management application, held over 327,300 learners in 728 schools by October 2024 and was used to publish national exam results.",
+ "title": "Enseignement supérieur : vers une intégration de l'application X-gest ?",
+ "publisher": "Gabonmediatime",
+ "published": "2024-10-03",
+ "date_source": "source",
+ "why_not": ""
+}

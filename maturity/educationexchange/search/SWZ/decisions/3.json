@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Eswatini began a limited SEMIS implementation for individual learner and staff records in 10 Lubombo schools in March 2024 and planned 50 more schools from October 2024.",
+ "title": "Strengthening school management and data reporting in The Gambia and Eswatini",
+ "publisher": "DHIS2",
+ "published": "2024-09-26",
+ "date_source": "source",
+ "why_not": ""
+}

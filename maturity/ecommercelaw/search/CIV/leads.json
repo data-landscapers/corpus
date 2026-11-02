@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.anssi.ci/reglementations/textes-nationaux/",
+  "title": "Textes nationaux - Réglementations",
+  "publisher": "ANSSI Côte d'Ivoire",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Law 2013-546 in force; 2024 ordinance amending it (standing, reach)"
+ },
+ {
+  "url": "https://artci.ci/category/textes-reference/decrets/transactions-decrets/",
+  "title": "Transactions Electroniques - Décrets",
+  "publisher": "ARTCI",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Decrees made under the law (reach)"
+ },
+ {
+  "url": "https://www.trade.gov/country-commercial-guides/cote-divoire-ecommerce",
+  "title": "Côte d'Ivoire - eCommerce",
+  "publisher": "US International Trade Administration",
+  "published": "2021-10-11",
+  "sub_indicator": "law",
+  "why": "e-commerce regulated by 2013 law, ARTCI supervises, licensing"
+ }
+]

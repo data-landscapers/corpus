@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.moe.gov.na/index.php/dep/dep-fa/dir-pad/emis",
+  "title": "Education Management Information System (EMIS)",
+  "publisher": "Ministry of Education, Arts and Culture",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "EMIS and census"
+ },
+ {
+  "url": "https://unjoblink.org/job/details/313809/",
+  "title": "Consultancy, EMIS Integration, Windhoek",
+  "publisher": "UNICEF",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "EMIS modernisation underway"
+ },
+ {
+  "url": "https://www.unicef.org/namibia/media/871/file/EMIS%20Education%20Statistics%202018.pdf",
+  "title": "EMIS Education Statistics 2018",
+  "publisher": "Ministry of Education, Arts and Culture",
+  "published": "2019-10",
+  "sub_indicator": "emis",
+  "why": "web-based capture system, census"
+ },
+ {
+  "url": "https://www.unicef.org/namibia/reports/education-management-information-system-emis",
+  "title": "Education management information system (EMIS)",
+  "publisher": "UNICEF Namibia",
+  "published": "2019-12",
+  "sub_indicator": "emis",
+  "why": "census report"
+ }
+]

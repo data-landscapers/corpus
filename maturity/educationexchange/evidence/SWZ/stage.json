@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "5",
-   "exchange": "inservice",
-   "learnerid": "shared",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001;SWZ-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "exchange": "inservice",
+      "learnerid": "shared",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001;SWZ-002",
+      "gaps": "",
+      "note": "Rebuild 2026-11-02: the EMIS launched in all 976 schools in March 2024 keys individual learner records to the Personal Identity Number, checked against Home Affairs records. The check is still manual at regional offices, but the link to the national ID is in use.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

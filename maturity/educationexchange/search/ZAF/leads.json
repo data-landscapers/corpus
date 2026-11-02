@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.lurits2.doe.gov.za/",
+  "title": "LURITS - Home Page",
+  "publisher": "Department of Basic Education",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Unique learner ID, SA-SAMS"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/35150/",
+  "title": "Question to the Minister of Basic Education - NW7339",
+  "publisher": "PMG",
+  "published": "2025-12-19",
+  "sub_indicator": "exchange",
+  "why": "2025 LURITS data, DHA alignment"
+ },
+ {
+  "url": "https://www.education.gov.za/Portals/0/Documents/Reports/Response%20to%20Zero%20Dropout%202022%2005%2016%20II.pdf",
+  "title": "Inaccuracies in Zero Dropout's op-ed",
+  "publisher": "DBE",
+  "published": "2022",
+  "sub_indicator": "exchange",
+  "why": "92% learners have ID on LURITS; DHA validation"
+ }
+]

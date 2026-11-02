@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The Ministry conducts an annual school census, collected on paper at schools and entered electronically at central level, and publishes statistical yearbooks; the EMIS is not yet integrated with HR, infrastructure and examinations.",
+ "title": "Rapport du Groupe consultatif technique indépendant - Burundi (évaluation des facteurs favorables)",
+ "publisher": "Partenariat mondial pour l'éducation",
+ "published": "2024-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

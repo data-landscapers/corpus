@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "5",
-   "exchange": "inservice",
-   "learnerid": "shared",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-001",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "exchange": "inservice",
+      "learnerid": "shared",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-001",
+      "gaps": "",
+      "note": "Rebuild 2026-11-02: the education ministry's certificate service on the Houwiyati ID platform, launched in July 2025, confirms certificates linked to the holder's national number. That later yes answers the earlier questions.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

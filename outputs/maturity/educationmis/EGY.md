@@ -10,4 +10,4 @@
 
 ***Also on file***. [Egyptian Knowledge Bank LMS](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>).
 
-***Not found***. No source found since October 2023 says learner records are linked to the national ID or another government system.
+***Not found***. No unique learner number in national service has been found since October 2023. No link to the national ID has been found.

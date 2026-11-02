@@ -1,2 +1,8 @@
 iso3,n,aspect,value,action,why
 KEN,003,linked,linked,removed,"First pass: a circular saying the identifier is needed for integration, not a link in service"
+LBY,001,exchange,inservice,classed other,"Rebuild 2026-11-02: the platform shows parents a private school is licensed and affiliated with the examinations centre; a register, not an exchange"
+ZWE,001,exchange,inservice,classed other,"Rebuild 2026-11-02: the Early Warning System is a module of the EMIS, and joint tracing with social welfare officers is not linked records"
+ETH,001,exchange,underway,classed other,Rebuild 2026-11-02: bringing refugee schools into the EMIS widens its coverage and is not a link between systems
+ETH,003,exchange,underway,classed other,Rebuild 2026-11-02: the same refugee-schools financing as ETH-001
+UGA,004,exchange,inservice,revalued: underway,"Rebuild 2026-11-02: the UNEB results import runs in DHIS2-Ed, which the Termly School Report uses in pilot sites only"
+UGA,005,linked,linked,revalued: exchange underway,"Rebuild 2026-11-02: the eIDSR link carries school surveillance indicators, not learner records, and runs in the same pilot sites"

@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "2",
-   "system": "underway",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-001;SDN-002",
-   "gaps": "No source found since October 2023 says: is the school census run through it.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "system": "underway",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-001;SDN-002",
+      "gaps": "No source found since October 2023 says: is the school census run through it.",
+      "note": "Reassessed in the rebuild: UNESCO handed over EMIS equipment in April and May 2026, for a pilot in Red Sea State. Nothing found says the school census was run through it, so not 3.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

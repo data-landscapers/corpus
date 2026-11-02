@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202606/cameroon-expands-education-digitalization-with-student-digital-id-program",
+  "title": "Cameroon expands education digitalization with student digital ID program",
+  "publisher": "Biometric Update",
+  "published": "2026-06-11",
+  "sub_indicator": "exchange",
+  "why": "student digital ID linked to unified database (learnerid, linked)"
+ },
+ {
+  "url": "https://www.minesec.gov.cm/web/index.php/en/press-releases/item/1806-the-platform-for-obtaining-the-unique-identification-number-has-been-closed-thus-ending-the-allocation-of-registration-numbers-for-the-2024-2025-school-year",
+  "title": "Platform for the unique identification number closed",
+  "publisher": "MINESEC",
+  "published": "2025-03-05",
+  "sub_indicator": "exchange",
+  "why": "unique ID allocation (learnerid)"
+ },
+ {
+  "url": "https://www.parec-cameroun.net/presentation-officielle-de-la-plateforme-sectorielle-integree-du-sige-et-des-documents-et-outils-conceptuels-et-methodologie/",
+  "title": "Présentation officielle de la plateforme sectorielle intégrée du SIGE",
+  "publisher": "PAREC",
+  "published": "2025-05-08",
+  "sub_indicator": "exchange",
+  "why": "integrated platform federating subsector statistics (exchange)"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2023-11-cameroon-itap-report.pdf",
+  "title": "Report of the Independent Technical Advisory Panel: Cameroon",
+  "publisher": "Global Partnership for Education",
+  "published": "2023-11",
+  "sub_indicator": "exchange",
+  "why": "EMIS not interconnected across ministries (exchange none)"
+ },
+ {
+  "url": "https://itweb.africa/article/cameroon-deploys-schoolmap-to-simplify-tuition-payment/VgZeyvJlayJMdjX9",
+  "title": "Cameroon deploys SchoolMap to simplify tuition payment",
+  "publisher": "ITWeb Africa",
+  "published": "2024-08-28",
+  "sub_indicator": "exchange",
+  "why": "national matricule used with payment operators (learnerid)"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.lavieeco.com/au-royaume/plateforme-jisr-55-millions-doperations-dechange-de-donnees-enregistrees-en-une-annee/",
+  "title": "Plateforme Jisr : 55 millions d'opérations d'échange de données enregistrées en une année",
+  "publisher": "La Vie éco",
+  "published": "2024-02-09",
+  "sub_indicator": "exchange",
+  "why": "Q2: Jisr exchange used by Massar"
+ },
+ {
+  "url": "https://ar.hibapress.com/details-517593.html",
+  "title": "تسجيلات التلاميذ الجدد.هذا ما قررته وزارة بنموسى",
+  "publisher": "Hibapress",
+  "published": "2024-04-23",
+  "sub_indicator": "exchange",
+  "why": "Q4: Massar loads civil registry data via digital identity"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/public-management/morocco-launches-e-government-interoperability-platform",
+  "title": "Morocco launches e-government interoperability platform",
+  "publisher": "We Are Tech",
+  "published": "2022-09-07",
+  "sub_indicator": "exchange",
+  "why": "Q2: Massar on interoperability platform"
+ },
+ {
+  "url": "https://en.empresaexterior.com/minsait-facilitates-interoperability-between-morocco-public-administration-systems/",
+  "title": "Minsait facilitates interoperability between the systems of the Moroccan public administration",
+  "publisher": "Empresa Exterior",
+  "published": "2022-09-05",
+  "sub_indicator": "exchange",
+  "why": "Q2: Massar exchanges info with agencies"
+ },
+ {
+  "url": "https://opengov.unescwa.org/node/1233",
+  "title": "Massar System for School Management",
+  "publisher": "Arab Open and Innovative Government Portal",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q3: unique identifier per student"
+ }
+]

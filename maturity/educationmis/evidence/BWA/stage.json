@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether an education information system is under way or in service.",
-      "note": "First pass: counted from the four questions by study-ladder-educationmis.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed in the rebuild: the EMIS unit ran the 2022 school census, and the procurement was reported in 2020. Every fact held predates October 2023, so it sets no rung.",
+      "as_at": "2026-11-02"
     }
   ]
 }

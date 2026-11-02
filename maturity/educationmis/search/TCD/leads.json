@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.education.gouv.td/wp-content/uploads/2026/07/Annuaire_Statistique_Education-2024_2025.-1.pdf",
+  "title": "Annuaire statistique de l'éducation 2024-2025",
+  "publisher": "Ministère de l'Éducation Nationale et de la Promotion Civique",
+  "published": "2025-10",
+  "sub_indicator": "emis",
+  "why": "Q2: annual school census run, StatEduc entry, SIGE decentralisation"
+ },
+ {
+  "url": "https://traceinfos.com/tchad-validation-de-lannuaire-statistique-2024-2025-du-ministere-de-leducation/",
+  "title": "Tchad : Validation de l'annuaire statistique 2024-2025",
+  "publisher": "TraceInfos",
+  "published": "2025",
+  "sub_indicator": "emis",
+  "why": "Q2: ministry validated statistical yearbook 7 Oct 2025"
+ },
+ {
+  "url": "https://tchadpress.info/politique-et-gouvernance/au-dela-des-taux-de-scolarisation-le-systeme-educatif-national-face-au-defi-crucial-de-la-qualite-et-de-lequite/",
+  "title": "Au-delà des taux de scolarisation",
+  "publisher": "TchadPress",
+  "published": "2025-11-25",
+  "sub_indicator": "emis",
+  "why": "Q1-2: SIGE decentralisation priority"
+ },
+ {
+  "url": "https://tchadinfos.com/2026/10/27/lacte-de-naissance-une-piece-qui-manque-a-de-nombreux-eleves/",
+  "title": "À N'Djaména, l'école face au défi des enfants sans papiers",
+  "publisher": "Tchadinfos",
+  "published": "2026-10-27",
+  "sub_indicator": "emis",
+  "why": "Q4: pupils' civil registration status, school ID fiche"
+ },
+ {
+  "url": "https://www.africa-press.net/tchad/culture-et-art/dr-abakar-mahamat-hassaballah-detaille-le-processus-de-modernisation-du-baccalaureat",
+  "title": "Dr. Abakar Mahamat Hassaballah détaille le processus de modernisation du baccalauréat",
+  "publisher": "Africa-Press",
+  "published": "2024-03-03",
+  "sub_indicator": "emis",
+  "why": "Q2: bac candidate lists passed up from schools; biometric enrolment"
+ },
+ {
+  "url": "https://tchadvision.com/lancement-imminent-de-lenrolement-biometrique-des-candidats-au-baccalaureat-a-ndjamena/",
+  "title": "Lancement imminent de l'enrôlement biométrique des candidats au baccalauréat",
+  "publisher": "Tchad Vision",
+  "published": "2025-02-10",
+  "sub_indicator": "emis",
+  "why": "Q2-3: exam body biometric enrolment"
+ },
+ {
+  "url": "https://www.impactpool.org/jobs/743777",
+  "title": "Consultant pour la mise en place d'une application de gestion des examens et concours",
+  "publisher": "UNESCO",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "Q1: exam database to be integrated into SIGE"
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/2602-136190-la-guinee-lance-l-immatriculation-numerique-des-eleves-du-primaire",
+  "title": "La Guinée lance l'immatriculation numérique des élèves du primaire",
+  "publisher": "Agence Ecofin",
+  "published": "2026-02-26",
+  "sub_indicator": "exchange",
+  "why": "Q3 unique pupil ID"
+ },
+ {
+  "url": "https://guineematin.com/2025/10/21/conakry-le-mepu-a-mise-sur-la-digitalisation-pour-gerer-les-flux-deleves-et-ameliorer-les-performances/",
+  "title": "Conakry : le MEPU-A mise sur la digitalisation pour gérer les flux d'élèves",
+  "publisher": "Guineematin.com",
+  "published": "2025-10-21",
+  "sub_indicator": "exchange",
+  "why": "Q3 unique number from 7th year to university"
+ },
+ {
+  "url": "https://mediaguinee.com/2023/08/education-le-ministre-guillaume-preside-la-presentation-du-systeme-integre-de-gestion-de-leducation-guineenne/",
+  "title": "Education : le ministre Guillaume préside la présentation du SIGEGUI",
+  "publisher": "Mediaguinee",
+  "published": "2023-08-11",
+  "sub_indicator": "exchange",
+  "why": "Q2/Q3 integrated system"
+ },
+ {
+  "url": "https://mepua.gov.gn/file/2023/10/Rapport-final-activites.pdf",
+  "title": "Informatisation, digitalisation et dématérialisation de la gestion administrative et pédagogique du MEPUA",
+  "publisher": "MEPUA / Cambridge Education",
+  "published": "2023-10",
+  "sub_indicator": "exchange",
+  "why": "Q1 INE platform and interoperability roadmap"
+ }
+]

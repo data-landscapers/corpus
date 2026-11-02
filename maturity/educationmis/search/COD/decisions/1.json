@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;learners",
+ "fact": "On 4-5 February 2026 SERNIE held a workshop presenting a 23-character SERNIE School Number from which each student's permanent number can be retrieved, and noted the lack of real-time data reporting.",
+ "title": "SERNIE: Workshop on functionalities for modernizing the education system",
+ "publisher": "MINEDU-NC",
+ "published": "2026-02-13",
+ "date_source": "source",
+ "why_not": ""
+}

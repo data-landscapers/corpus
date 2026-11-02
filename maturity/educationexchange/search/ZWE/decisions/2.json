@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The Learning Support Services learner profiles under development in 2023 are to be fed into the EMIS database.",
+ "title": "Gvt Profiles Learners",
+ "publisher": "ZimEye",
+ "published": "2023-03-27",
+ "date_source": "proxy",
+ "why_not": ""
+}

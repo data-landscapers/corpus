@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems",
+  "title": "Angola embarks on a journey to transform its education data systems",
+  "publisher": "ADEA",
+  "published": "2026-08-19",
+  "sub_indicator": "emis",
+  "why": "EMIS exists with annual school census; modernised EMIS and legal framework under discussion"
+ },
+ {
+  "url": "https://angop.ao/en/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/",
+  "title": "Ministry of Education reinforces integrity of the national database",
+  "publisher": "Angop",
+  "published": "2026-08-07",
+  "sub_indicator": "emis",
+  "why": "EMIS modernisation launched with Mwango Brain"
+ },
+ {
+  "url": "https://economiaemercado.com/artigo/med-adea-e-mwango-brain-criam-sistema-unificado-de-dados-do-ensino-nacional",
+  "title": "MED, ADEA e Mwango Brain criam sistema unificado de dados do ensino nacional",
+  "publisher": "Economia & Mercado",
+  "published": "2026-08",
+  "sub_indicator": "emis",
+  "why": "Unified database of schools, students, teachers"
+ },
+ {
+  "url": "https://revistaoutside.com/2026/08/05/empresa-angolana-assume-implementacao-tecnica-do-sistema-de-dados-da-educacao/",
+  "title": "Empresa angolana assume implementação técnica do sistema de dados da educação",
+  "publisher": "Revista Outside",
+  "published": "2026-08-05",
+  "sub_indicator": "emis",
+  "why": "GEPE runs annual school census; EMIS modernisation"
+ },
+ {
+  "url": "https://ine.gov.ao/publicacoes/detalhes/MzgzMzA%3D",
+  "title": "Anuário Estatístico da Educação 2022/2023",
+  "publisher": "INE / GEPE Ministério da Educação",
+  "published": "2023",
+  "sub_indicator": "emis",
+  "why": "Data collected through SIGE; school statistics yearbook"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099925009082232091/pdf/BOSIB09680251b0f10bcb7096ad5c063d35.pdf",
+  "title": "Learning for All Project implementation completion report",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "emis",
+  "why": "SIGE software licence and rollout"
+ }
+]

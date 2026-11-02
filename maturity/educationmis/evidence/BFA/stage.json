@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BFA-002",
       "gaps": "No source found since October 2023 says the system holds a record for each learner.",
-      "note": "First pass: counted from the four questions by study-ladder-educationmis.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed in the rebuild: in 2024 the ministry updated the annual school census results through the SIGE. A national pupil file was named in December 2024 as a plan, so not 4.",
+      "as_at": "2026-11-02"
     }
   ]
 }

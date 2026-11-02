@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The ministry runs the annual school census through StatEduc2 and published the 2024/2025 education statistical yearbook in October 2025, and names decentralisation of the SIGE as a challenge.",
+ "title": "Annuaire statistique de l'éducation 2024-2025",
+ "publisher": "Ministère de l'Éducation Nationale et de la Promotion Civique",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

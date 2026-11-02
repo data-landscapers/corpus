@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "Togo's education ministry runs a DHIS2 education information system integrated with the StatEduc census application and linking planning, examinations and inspection directorates.",
+ "title": "Togo : Autonomiser les écoles et les districts à l'aide de données",
+ "publisher": "GPE KIX",
+ "published": "2025-04-17",
+ "date_source": "source",
+ "why_not": ""
+}

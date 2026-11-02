@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://dhis2.org/sierra-leone-national-education-data-hub/",
+  "title": "Sierra Leone builds national education data hub to connect fragmented systems and track learners",
+  "publisher": "DHIS2",
+  "published": "2026-04-07",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q3,Q4: hub linking census, teacher, exam systems; ULID linked to NIN"
+ },
+ {
+  "url": "https://cgatechnologies.org.uk/sites/default/files/2024-04/WDY%20Final%20Project%20report%202022-23%20vf.pdf",
+  "title": "Wi De Ya, One Tablet per School: Project report 2022/23",
+  "publisher": "CGA Technologies",
+  "published": "2024-04",
+  "sub_indicator": "exchange",
+  "why": "Q2,Q3: Wi De Ya integrated with TRM; no learner ID yet"
+ },
+ {
+  "url": "https://cgatechnologies.org.uk/projects/sierra-leone-teacher-management-information-system-tmis",
+  "title": "Sierra Leone Teacher Management Information System (TMIS)",
+  "publisher": "CGA Technologies",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q2: TMIS integrates with national payroll, EMIS"
+ },
+ {
+  "url": "https://sierraloaded.sl/news/parliament-passes-basic-education-act-2023/",
+  "title": "Parliament Passes The Basic & Senior Secondary Education Act, 2023",
+  "publisher": "Sierraloaded",
+  "published": "2023-04-25",
+  "sub_indicator": "exchange",
+  "why": "Q3/Q4: pupil to have NIN and Unique Learner ID"
+ },
+ {
+  "url": "https://research.sightsavers.org/wp-content/uploads/2022/11/2211_Sightsavers-mapping-the-existing-emis-system-in-sierra-leone.pdf",
+  "title": "Mapping the existing EMIS system in Sierra Leone",
+  "publisher": "Sightsavers",
+  "published": "2022-11",
+  "sub_indicator": "exchange",
+  "why": "Q2: servers not linked"
+ }
+]

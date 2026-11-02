@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://fr.apanews.net/education/rci-digitalisation-de-la-gouvernance-du-systeme-educatif/",
+  "title": "RCI : digitalisation de la gouvernance du système éducatif",
+  "publisher": "APAnews",
+  "published": "2025-07-10",
+  "sub_indicator": "emis",
+  "why": "SIGE received 10 July 2025 (system)"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1307-130038-la-cote-d-ivoire-lance-la-plateforme-sige-pour-mieux-gerer-son-systeme-educatif",
+  "title": "La Côte d'Ivoire lance la plateforme SIGE",
+  "publisher": "Agence Ecofin",
+  "published": "2025-07-13",
+  "sub_indicator": "emis",
+  "why": "SIGE launched in Bouaké, San Pedro (system)"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-services/2508-58296-cote-d-ivoire-turns-to-digital-mapping-to-improve-school-planning",
+  "title": "Côte d'Ivoire Turns to Digital Mapping to Improve School Planning",
+  "publisher": "Ecofin Agency",
+  "published": "2026-08-25",
+  "sub_indicator": "emis",
+  "why": "SIGE deployed since 2022, extension planned (system)"
+ },
+ {
+  "url": "https://www.education.gouv.ci/assets/pdf/Document/Orientation/document_220.pdf",
+  "title": "SNDECI 2024-2028",
+  "publisher": "MENA",
+  "published": "2024",
+  "sub_indicator": "emis",
+  "why": "FNE matricule, SIGE phase (learners, system)"
+ },
+ {
+  "url": "https://www.afd.fr/en/carte-des-projets/midterm-evaluation-public-policy-middle-schools-and-current-status-integrated-education-management-information-system-siige-cote-divoire",
+  "title": "Midterm evaluation ... status of SIIGE in Côte d'Ivoire",
+  "publisher": "AFD",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "status of SIIGE (system)"
+ }
+]

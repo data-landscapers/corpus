@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;linked",
+ "fact": "Since 2019 the Ministry of Education has piloted DHIS2-DEMIS in two provinces, with aggregate integration with the StatEduc EMIS.",
+ "title": "Mozambique - DHIS2",
+ "publisher": "DHIS2 Education Academy",
+ "published": "2024-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

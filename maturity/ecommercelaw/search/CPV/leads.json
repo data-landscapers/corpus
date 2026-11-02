@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://boe.incv.cv/Bulletins/DownloadAct?id=86048",
+  "title": "Boletim Oficial n.º 113, II Série de 19-06-2025",
+  "publisher": "Imprensa Nacional de Cabo Verde",
+  "published": "2025-06-19",
+  "why": "Qualified trust service provider status under DL 27/2023: q3/q4",
+  "sub_indicator": "law"
+ },
+ {
+  "url": "https://boe.incv.cv/Bulletins/DownloadAct?id=74417",
+  "title": "Deliberação n.º 20/CA/2025 - Regulamento de credenciação de organismos de certificação",
+  "publisher": "ARME",
+  "published": "2025-03-21",
+  "why": "Rules under DL 27/2023: q3",
+  "sub_indicator": "law"
+ },
+ {
+  "url": "https://boe.incv.cv/Bulletins/Download/5909",
+  "title": "Lei n.º 41/X/2024 - regime jurídico dos serviços digitais e comércio eletrónico",
+  "publisher": "Boletim Oficial",
+  "published": "2024-08-12",
+  "why": "E-commerce law: q1/q2",
+  "sub_indicator": "law"
+ },
+ {
+  "url": "https://boe.incv.cv/Bulletins/Download/5416",
+  "title": "Decreto-lei n.º 27/2023 - serviços de confiança e transações eletrónicas",
+  "publisher": "Boletim Oficial",
+  "published": "2023-10-20",
+  "why": "Electronic transactions law: q1/q2",
+  "sub_indicator": "law"
+ },
+ {
+  "url": "https://nosi.cv/pt/web/guest/w/nosi-e.p.e-credenciada-como-autoridade-de-certifica%C3%A7%C3%A3o-digital",
+  "title": "NOSi-E.P.E credenciada como autoridade de certificação digital",
+  "publisher": "NOSi",
+  "published": "",
+  "why": "Accreditation of certification authority: q4",
+  "sub_indicator": "law"
+ }
+]

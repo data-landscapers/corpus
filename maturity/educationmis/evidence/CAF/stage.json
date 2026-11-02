@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "unplaced",
-   "system": "",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether an education information system is under way or in service.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "unplaced",
+      "system": "",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether an education information system is under way or in service.",
+      "note": "Reassessed in the rebuild: the ministry restored its SIGE for the 2022 statistical campaign. Every fact held predates October 2023, so it sets no rung.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

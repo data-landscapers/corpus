@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "learnerid",
+ "fact": "In 2023 The Gambia and Eswatini launched pilots of the SEMIS app for individual-level data and student records, with unique identifiers assigned.",
+ "title": "Strengthening school management and data reporting in The Gambia and Eswatini",
+ "publisher": "DHIS2",
+ "published": "2024-09-26",
+ "date_source": "source",
+ "why_not": ""
+}

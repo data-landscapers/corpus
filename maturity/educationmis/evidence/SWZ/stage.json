@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "5",
-   "system": "inservice",
-   "learners": "individual",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "5",
+      "system": "inservice",
+      "learners": "individual",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-004",
+      "gaps": "",
+      "note": "Reassessed in the rebuild: the DHIS2 page (2024) says aggregate and individual EMIS data are connected to national identity, and the PIN-driven EMIS covered all 976 schools from March 2024. Stage 5 stands.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

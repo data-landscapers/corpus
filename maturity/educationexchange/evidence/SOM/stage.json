@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "5",
-   "exchange": "inservice",
-   "learnerid": "shared",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "exchange": "inservice",
+      "learnerid": "shared",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-004",
+      "gaps": "",
+      "note": "Rebuild 2026-11-02: GovStack's May 2026 page shows the High School Certificate System taking results from the examination registry and checking students against the national ID. That later yes answers the earlier questions.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

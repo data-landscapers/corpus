@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The ministry's Information and Documentation Centre held the first consultative meeting of the EMIS team with UNICEF on 26 March 2023 to set the foundations for launching an education management information system.",
+ "title": "الاجتماع التشاوري الأول لفريق \"EMIS\"",
+ "publisher": "مركز المعلومات والتوثيق، وزارة التربية والتعليم",
+ "published": "2023-03-27",
+ "date_source": "source",
+ "why_not": ""
+}

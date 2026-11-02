@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.nita.go.ug/sites/default/files/2026-09/Electronic%20Transactions%20Act%20cap%2099.pdf",
+  "title": "The Electronic Transactions Act (Cap. 99)",
+  "publisher": "NITA-U",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1-2: law in force, commenced 15 April 2011"
+ },
+ {
+  "url": "https://www.theigc.org/sites/default/files/2025-08/Ferracane-Rogaler-Final-Report-August-2025_0.pdf",
+  "title": "Digital trade: An assessment of regulations and practices in Rwanda and Uganda",
+  "publisher": "IGC",
+  "published": "2025-08",
+  "sub_indicator": "law",
+  "why": "Q4: Act seen as outdated, enforcement lacking"
+ },
+ {
+  "url": "https://www.nita.go.ug/laws-and-regulations/it-certification-providers-information-technology-products-and-services",
+  "title": "I.T Certification of Providers (Amendment) Regulations, 2018",
+  "publisher": "NITA-U",
+  "published": "2025-06-23",
+  "sub_indicator": "law",
+  "why": "Q3-4: certification of e-transaction providers"
+ },
+ {
+  "url": "https://www.nita.go.ug/sites/default/files/2025-06/Electronic%20Transactions%20Regulations%202013%20-%20SI%2042%20of%202013%20%281%29.pdf",
+  "title": "The Electronic Transactions Regulations, 2013 (SI 42)",
+  "publisher": "NITA-U",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3: rules made under the Act"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://education.dhis2.org/fr/emis-togo-2022/",
+  "title": "HISP WCA développe DHIS2 EMIS pour l'analyse et la visualisation des données de l'éducation au Togo",
+  "publisher": "DHIS2 / HISP WCA",
+  "published": "2024-11-19",
+  "sub_indicator": "emis",
+  "why": "Q1-2: DHIS2 EMIS interoperable with StatEduc; individual data"
+ },
+ {
+  "url": "https://www.gpekix.org/fr/blogue/togo-autonomiser-les-ecoles-et-les-districts-laide-de-donnees",
+  "title": "Togo : Autonomiser les écoles et les districts à l'aide de données",
+  "publisher": "GPE KIX",
+  "published": "2025-04-17",
+  "sub_indicator": "emis",
+  "why": "Q2: integrated system links planning, exams, inspection directorates"
+ },
+ {
+  "url": "https://www.togofirst.com/fr/education/3110-17452-triennale-adea-2025-le-togo-presente-sa-strategie-de-gestion-des-donnees-educatives",
+  "title": "Triennale ADEA 2025 : le Togo présente sa stratégie de gestion des données éducatives",
+  "publisher": "Togo First",
+  "published": "2025-10-31",
+  "sub_indicator": "emis",
+  "why": "Q2: integrated information system, CGRH teacher app"
+ },
+ {
+  "url": "https://education.gouv.tg/meps-le-cndp-tice-au-coeur-de-la-modernisation-du-systeme-educatif/",
+  "title": "MEPS : Le CNDP-TICE au cœur de la modernisation du système éducatif",
+  "publisher": "Ministère de l'Enseignement primaire et secondaire",
+  "published": "2025-03-27",
+  "sub_indicator": "emis",
+  "why": "Q2: SIGE real-time collection, Exasco exams platform"
+ },
+ {
+  "url": "https://www.togofirst.com/fr/education/0602-11348-togo-les-inscriptions-au-bepc-et-bac-1-digitalisees",
+  "title": "Togo : les inscriptions au BEPC et BAC 1 digitalisées",
+  "publisher": "Togo First",
+  "published": "2023-02-06",
+  "sub_indicator": "emis",
+  "why": "Q2: online exam registration, centralised data"
+ },
+ {
+  "url": "https://techs.tg/2025/05/15/togo-projet-e-id-vers-un-developpement-inclusif-grace-a-lenregistrement-biometrique/",
+  "title": "Togo / Projet e-ID : Vers un développement inclusif",
+  "publisher": "Techs Togo",
+  "published": "2025-05-15",
+  "sub_indicator": "emis",
+  "why": "Q4: NIU usable for schooling and exams"
+ },
+ {
+  "url": "https://www.gpekix.org/project/data-use-innovations-education-management-information-systems-gambia-uganda-and-togo",
+  "title": "Data Use Innovations for EMIS in The Gambia, Uganda, and Togo",
+  "publisher": "GPE KIX",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "Q2: DHIS2 integrated with national EMIS StatEduc"
+ }
+]

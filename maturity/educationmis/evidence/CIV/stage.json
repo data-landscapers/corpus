@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CIV-001;CIV-002",
       "gaps": "No source found since October 2023 says: is the school census run through it.",
-      "note": "First pass: counted from the four questions by study-ladder-educationmis.py.",
-      "as_at": "2026-10-17"
+      "note": "Reassessed in the rebuild: the ministry launched the SIGE in July 2025 in the Bouaké and San Pedro pilot regions, with national extension pending financing. Nothing found says the school census was run through it, so not 3.",
+      "as_at": "2026-11-02"
     }
   ]
 }

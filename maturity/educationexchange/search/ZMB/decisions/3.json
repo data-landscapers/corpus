@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "In the 2015-2020 data the EMIS and the ECZ examinations database used different school codes with no key linking them, so 87 to 95 per cent of ECZ schools were matched to EMIS by fuzzy name matching.",
+ "title": "Unpacking Factors Influencing School Performance in Zambia (Data Must Speak)",
+ "publisher": "UNICEF Innocenti and Zambia Ministry of Education",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

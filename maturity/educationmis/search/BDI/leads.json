@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-08-evaluation-facteurs-favorables-burundi.pdf",
+  "title": "Rapport du Groupe consultatif technique indépendant - Burundi",
+  "publisher": "Partenariat mondial pour l'éducation",
+  "published": "2024-08",
+  "sub_indicator": "emis",
+  "why": "annual school census; SIGE not integrated with HR, infrastructure, examinations"
+ },
+ {
+  "url": "https://www.unesco.org/fr/articles/renforcement-du-sige-au-burundi-des-cadres-du-menrs-en-formation-yaounde",
+  "title": "Renforcement du SIGE au Burundi : des cadres du MENRS en formation à Yaoundé",
+  "publisher": "UNESCO",
+  "published": "2026-06-07",
+  "sub_indicator": "emis",
+  "why": "SIGE modernisation training May 2026"
+ },
+ {
+  "url": "https://www.continental-infos.com/flash-infos/bujumbura-burundi-from-strategy-to-systems-au-iped-supports-burundis-next-step-in-strengthening-education-data/",
+  "title": "From Strategy to Systems: AU IPED Supports Burundi's Next Step in Strengthening Education Data",
+  "publisher": "Continental Infos",
+  "published": "2026-06-09",
+  "sub_indicator": "emis",
+  "why": "EMIS self-assessment June 2026"
+ },
+ {
+  "url": "https://mesrs.gov.bi/atelier-de-lancement-officiel-du-projet-dappui-a-loperationnalisation-du-module-de-gestion-des-ressources-humaines-du-sige-burundi/",
+  "title": "Atelier de lancement officiel du Projet d'Appui à l'Opérationnalisation du Module GRH du SIGE Burundi",
+  "publisher": "MENRS",
+  "published": "2023-04-01",
+  "sub_indicator": "emis",
+  "why": "HR module integrated in SIGE with gateway to Fonction Publique"
+ },
+ {
+  "url": "https://mesrs.gov.bi/atelier-de-validation-des-fiches-de-collecte-des-donnees-a-remontee-rapide/",
+  "title": "Atelier de validation des fiches de collecte des données à remontée rapide",
+  "publisher": "MENRS",
+  "published": "2023-10",
+  "sub_indicator": "emis",
+  "why": "digital rapid data collection to central server"
+ },
+ {
+  "url": "https://www.undpjobs.net/vacancy/consultante-senior-pour-lappui-a-la-mise-a-jour-de-la-strategie-sige-au-burundi-828672",
+  "title": "Consultante Sénior pour l'appui à la mise à jour de la Stratégie SIGE au Burundi",
+  "publisher": "UNDP",
+  "published": "2025",
+  "sub_indicator": "emis",
+  "why": "no learner registration system; lack of interconnection"
+ }
+]

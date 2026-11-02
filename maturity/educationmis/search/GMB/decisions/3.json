@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;learners",
+ "fact": "In 2023 The Gambia launched a SEMIS app pilot for individual-level data and student records, following a 2021 national student registration that launched the individual student identification number.",
+ "title": "Strengthening school management and data reporting in The Gambia and Eswatini",
+ "publisher": "DHIS2",
+ "published": "2024-09-26",
+ "date_source": "source",
+ "why_not": ""
+}

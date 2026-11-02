@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "learnerid;linked",
+ "fact": "The DBE recorded 13,596,869 learners on LURITS for 2025, 673,240 of them South African learners without ID numbers, and works with Home Affairs to align education and civil registration systems.",
+ "title": "Question to the Minister of Basic Education - NW7339",
+ "publisher": "Parliament of South Africa (PMG)",
+ "published": "2025-12-19",
+ "date_source": "source",
+ "why_not": ""
+}

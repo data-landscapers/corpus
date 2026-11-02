@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "Morocco's national education information management system (SIGE) comprises MASSAR, TAFTICH and MASIRH databases, and MASSAR gives schools and regional offices access to school-level indicators.",
+ "title": "L'évaluation de la performance des établissements scolaires au Maroc",
+ "publisher": "OCDE",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://unjoblink.org/job/details/313809/",
+  "title": "Consultancy, EMIS Integration, Windhoek",
+  "publisher": "UNICEF",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "plan for single EMIS with learner unique identifiers"
+ },
+ {
+  "url": "https://crvssystems.ca/sites/default/files/assets/files/CRVS_Namibia_e_WEB.pdf",
+  "title": "Case Study 4 - Namibia",
+  "publisher": "Centre of Excellence for CRVS Systems",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "education not yet interconnected with population register"
+ },
+ {
+  "url": "https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Namibia.pdf",
+  "title": "Namibia CRVSID country paper",
+  "publisher": "UN Statistics Division",
+  "published": "2023",
+  "sub_indicator": "exchange",
+  "why": "link of ID to education"
+ },
+ {
+  "url": "https://www.moe.gov.na/index.php/dep/dep-fa/dir-pad/emis",
+  "title": "Education Management Information System",
+  "publisher": "Ministry of Education",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "EMIS description"
+ }
+]

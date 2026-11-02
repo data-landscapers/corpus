@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "learnerid",
+ "fact": "All secondary pupils in Cameroon must obtain a national matricule from SchoolMap, used to pay tuition through digital payment operators, with a deadline of 15 December 2024.",
+ "title": "Cameroon deploys SchoolMap to simplify tuition payment",
+ "publisher": "ITWeb Africa",
+ "published": "2024-08-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

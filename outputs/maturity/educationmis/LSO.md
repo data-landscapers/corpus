@@ -10,4 +10,4 @@
 
 ***Also on file***. [teacher management information system](<https://www.gpekix.org/blog/enhancing-education-data-systems-lesotho-through-peer-exchange>).
 
-***Not found***. No source found since October 2023 says the system holds a record for each learner.
+***Not found***. No school census run through the system has been found since October 2023. No record for each learner has been found.

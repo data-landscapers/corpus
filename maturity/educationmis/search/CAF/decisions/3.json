@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The World Bank found CAR's EMIS relies on a manually completed questionnaire, centralized data entry and no quality control, and is missing critical data.",
+ "title": "Central African Republic Education Sector Plan Support Project (PAD3976)",
+ "publisher": "World Bank",
+ "published": "2021-04-27",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://pnin-niger.org/web/wp-content/uploads/2025/06/RAPPORT-DIAGNOSTIC-DU-SYSTEME-DE-PRODUCTION-DES-STATISTIQUES-DES-MINISTERES-EN-CHARGE-DE-LEDUCATION-ET-DE-LA-FORMATION.pdf",
+  "title": "Rapport diagnostic du système de production des statistiques des ministères en charge de l'éducation et de la formation",
+  "publisher": "INS Niger / PNIN",
+  "published": "2025",
+  "sub_indicator": "exchange",
+  "why": "state of education data systems"
+ },
+ {
+  "url": "https://www.unicef.org/innocenti/media/3146/file/UNICEF-DMS-Niger-Unpacking-Factors-Influencing-School-Performance-2023-FR.pdf",
+  "title": "Niger: Unpacking factors influencing school performance",
+  "publisher": "UNICEF Innocenti",
+  "published": "2023",
+  "sub_indicator": "exchange",
+  "why": "SIGE data flow"
+ },
+ {
+  "url": "https://nigerdiaspora.net/education?catid=48&id=17098%3Alancement-du-portail-national-unique-de-l-education-ameliorer-la-qualite-du-systeme-educatif-a-travers-des-services-numeriques-adoptes&view=article",
+  "title": "Lancement du portail national unique de l'éducation",
+  "publisher": "Nigerdiaspora",
+  "published": "2022-10-17",
+  "sub_indicator": "exchange",
+  "why": "planned SIGE"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;learners;linked",
+ "fact": "The SIMEN coordinator says teachers and pupils each hold a unique Éducation nationale identifier and that all ministry platforms feed a data warehouse used to analyse school results.",
+ "title": "Seyni Ndiaye Fall, Coordonnateur du Système intégré de Management de l'Éducation nationale : « L'interopérabilité est une réalité chez nous »",
+ "publisher": "Le Tech Observateur",
+ "published": "2026-08-15",
+ "date_source": "source",
+ "why_not": ""
+}

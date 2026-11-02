@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "AGO-001",
       "gaps": "No source found since October 2023 says two education systems exchange data in use.",
-      "note": "First pass: counted from the four questions by study-ladder-educationexchange.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild 2026-11-02: LBC, the contractor, said in May 2025 that the technical-vocational system SIETP was designed to integrate with SIGE. Nothing found says the link is in service.",
+      "as_at": "2026-11-02"
     }
   ]
 }

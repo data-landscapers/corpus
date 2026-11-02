@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "As of 30 August 2023 the Ministry produced Annual Statistical Bulletins in 2019 and 2020 but not 2021 or 2022 because of problems migrating the Ed-ASSIST census to a digital system.",
+ "title": "Assessment of Enabling Factors: Zambia (ITAP report)",
+ "publisher": "Global Partnership for Education ITAP",
+ "published": "2023-08-30",
+ "date_source": "source",
+ "why_not": ""
+}

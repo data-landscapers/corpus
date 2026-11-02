@@ -1,17 +1,18 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001",
-   "gaps": "No source found since October 2023 says two education systems exchange data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-001",
+      "gaps": "No source found since October 2023 says two education systems exchange data in use.",
+      "note": "Rebuild 2026-11-02: Parliament heard in August 2026 that the Integrated Learner Management System for post-school bodies is being piloted in a couple of SETAs. Nothing found says it is in service.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

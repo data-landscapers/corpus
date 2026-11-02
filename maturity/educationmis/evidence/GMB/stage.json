@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "4",
-   "system": "inservice",
-   "learners": "individual",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-008",
-   "gaps": "No source found since October 2023 says learner records are linked to the national ID or another government system.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "4",
+      "system": "inservice",
+      "learners": "individual",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-008",
+      "gaps": "No source found since October 2023 says learner records are linked to the national ID or another government system.",
+      "note": "Reassessed in the rebuild: in August 2025 the student registry, with a unique ID per learner, was national and held nearly 80% of learners. The ID MoU was removed as not a link in service, so not 5.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

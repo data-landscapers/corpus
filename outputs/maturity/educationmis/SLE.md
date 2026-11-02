@@ -10,4 +10,4 @@
 
 ***Also on file***. [Situation Room](<https://mbsse.gov.sl/emis/>).
 
-***Not found***. No source found since October 2023 says: is the school census run through it.
+***Not found***. No record for each learner has been found since October 2023. The unique learner ID system was still being procured.

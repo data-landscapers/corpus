@@ -85,7 +85,7 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 **Decided in the run**:
 
 - **Stage 5**: Ghana (a 2023 order to platforms to register), Morocco, Mozambique (19 licences), Namibia, South Africa, Zambia (the regulator named root authority).
-- **Providers reported as holding accreditation in 2026 are a yes to question 4**, undated (South Africa).
+- **Superseded by Bill's ruling of 2026-10-23** (§3): providers reported as holding accreditation with no accreditation date are not a yes to question 4; South Africa restaged 5 to 3 in the 2026-11-02 rebuild.
 - **A decree or regulation adopted by cabinet counts as made** (Ethiopia, Gabon).
 - **Nigeria, stage 2**: its 2026 identity act names a certification authority and is not this law; the bill giving signatures legal effect awaits the Senate.
 - **Djibouti, stage 2**: its Digital Code passed in 2025; no source says it is promulgated.

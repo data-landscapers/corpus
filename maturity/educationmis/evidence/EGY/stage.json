@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "emis",
-      "stage": "4",
+      "stage": "3",
       "system": "inservice",
-      "learners": "individual",
+      "learners": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-003",
-      "gaps": "No source found since October 2023 says learner records are linked to the national ID or another government system.",
-      "note": "First pass: counted from the four questions by study-ladder-educationmis.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "EGY-001",
+      "gaps": "No source found since October 2023 says the system holds a record for each learner with a unique learner number, in service across the country.",
+      "note": "Reassessed in the rebuild: the ministry's central database is the source of the 2024/25 yearbook. A 2025 book chapter says student data are stored centrally but names no unique learner number in service across the country, so 3, not 4.",
+      "as_at": "2026-11-02"
     }
   ]
 }

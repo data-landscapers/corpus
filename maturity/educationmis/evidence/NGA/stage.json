@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "3",
-   "system": "inservice",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-003",
-   "gaps": "No source found since October 2023 says the system holds a record for each learner.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-003",
+      "gaps": "No source found since October 2023 says the system holds a record for each learner.",
+      "note": "Reassessed in the rebuild: in September 2026 the minister said the digitised NEMIS provides enrolment and teacher data. The learner number builds on its school register, but learner records in service are not shown, so not 4.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

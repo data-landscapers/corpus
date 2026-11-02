@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "The DBE says around 92% of learners on LURITS have a national ID number, validated routinely with Home Affairs, and SA-SAMS is used by 99% of schools outside the Western Cape.",
+ "title": "Inaccuracies in Zero Dropout's op-ed on school participation trends",
+ "publisher": "Department of Basic Education",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

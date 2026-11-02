@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "5",
-   "system": "inservice",
-   "learners": "individual",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "5",
+      "system": "inservice",
+      "learners": "individual",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-004",
+      "gaps": "",
+      "note": "Reassessed in the rebuild: an April 2026 brief says DHIS2-Ed is linked to the health ministry's eIDSR platform, and every learner holds a LIN (June 2026). Staged on the ladder as worded: an exchange of data with another government system.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

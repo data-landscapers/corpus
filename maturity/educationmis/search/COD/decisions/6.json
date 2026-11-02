@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;linked",
+ "fact": "On 12 December 2019 UNESCO presented the results of SIGE phases 1 and 2: a single integrated database, online and offline entry applications, automatic statistical yearbook generation and a reporting portal.",
+ "title": "RDC/Education : l'UNESCO presente les resultats des phases 1 et 2 de la sous composante SIGE",
+ "publisher": "Congo Profond",
+ "published": "2019-12-12",
+ "date_source": "source",
+ "why_not": ""
+}

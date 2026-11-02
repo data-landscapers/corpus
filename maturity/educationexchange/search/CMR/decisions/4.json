@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Four Cameroon education ministries (MINEDUB, MINESEC, MINESUP, MINEFOP) have separate EMIS that are not interconnected nor integrated with human resources, finance and payroll; an integrated platform was under development in 2023.",
+ "title": "Report of the Independent Technical Advisory Panel: Cameroon",
+ "publisher": "Global Partnership for Education",
+ "published": "2023-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

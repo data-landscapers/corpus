@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.gpekix.org/blog/strengthening-emis-through-peer-learning-how-liberia-leading-its-own-data-transformation",
+  "title": "Strengthening EMIS Through Peer Learning",
+  "publisher": "GPE KIX",
+  "published": "2026-02-04",
+  "sub_indicator": "emis",
+  "why": "Q2: 2024-2025 Annual School Census conducted"
+ },
+ {
+  "url": "https://au.int/en/pressreleases/20250910/liberia-launches-roadmap-strengthened-and-modernized-education-data-systems",
+  "title": "Liberia Launches Roadmap for Strengthened and Modernized Education Data Systems",
+  "publisher": "African Union",
+  "published": "2025-09-10",
+  "sub_indicator": "emis",
+  "why": "Q1,Q3"
+ },
+ {
+  "url": "https://gnnliberia.com/moe-launches-2025-national-school-census-to-strengthen-data-driven-education-reforms/",
+  "title": "MOE Launches 2025 National School Census",
+  "publisher": "Global News Network Liberia",
+  "published": "2025-07-25",
+  "sub_indicator": "emis",
+  "why": "Q2: census uploaded to central server"
+ },
+ {
+  "url": "https://www.iped.africa/media/Liberia_Emis_Review_Report_Final.pdf",
+  "title": "Liberia EMIS Peer Review Report",
+  "publisher": "AU-IPED",
+  "published": "2025",
+  "sub_indicator": "emis",
+  "why": "Q1-4: EMIS 2.0, no unique learner IDs"
+ },
+ {
+  "url": "https://www.emis-moe-lib.org/",
+  "title": "Liberia EMIS - Education Management Information System",
+  "publisher": "Ministry of Education",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "Q2-3: portal with census and individual records"
+ },
+ {
+  "url": "https://development.mfdp.gov.lr/activities/2306",
+  "title": "EU Support to Strengthening Capacity of EMIS in Liberia",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "Q1: EMIS capacity project"
+ }
+]

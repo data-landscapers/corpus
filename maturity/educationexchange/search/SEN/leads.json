@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/senegal-launches-portailbac-to-modernize-management-of-national-exams",
+  "title": "Senegal Launches PortailBac to Modernize Management of National Exams",
+  "publisher": "We are Tech",
+  "published": "2025-11-14",
+  "sub_indicator": "exchange",
+  "why": "PortailBac interoperable with Campusen (rung 3)"
+ },
+ {
+  "url": "https://letechobservateur.sn/seyni-ndiaye-fall-coordonnateur-du-simen-linteroperabilite-est-une-realite-chez-nous/",
+  "title": "Seyni Ndiaye Fall, Coordonnateur du SIMEN : L'interopérabilité est une réalité chez nous",
+  "publisher": "Le Tech Observateur",
+  "published": "2026-08-15",
+  "sub_indicator": "exchange",
+  "why": "Platforms feed a data warehouse; unique education identifier (rungs 3-4)"
+ },
+ {
+  "url": "https://www.education.sn/posts/lancement-de-planete-30-quand-les-donnees-deviennent-le-moteur-de-la-gouvernance-educative",
+  "title": "Lancement de PLANETE 3.0",
+  "publisher": "Ministère de l'Éducation nationale",
+  "published": "2025-10-06",
+  "sub_indicator": "exchange",
+  "why": "PLANETE 3 launched (rung 3)"
+ },
+ {
+  "url": "https://www.orbit.sn/examens-et-concours-vers-une-digitalisation-totale-de-tout-le-processus/",
+  "title": "Examens et concours : vers une digitalisation totale de tout le processus",
+  "publisher": "Orbit SN",
+  "published": "2024-06-25",
+  "sub_indicator": "exchange",
+  "why": "CFEE/BFEM exam process digitised on a shared database (rung 3)"
+ },
+ {
+  "url": "https://openjicareport.jica.go.jp/pdf/12363180.pdf",
+  "title": "Data Collection Survey on the Digitalization of the National Identification System in the Republic of Senegal",
+  "publisher": "JICA",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "IEN not linked to national ID; no linkage with vocational/higher education (rungs 4-5)"
+ },
+ {
+  "url": "https://www.education.sn/pages/systeme-dinformation-et-de-management-de-leducation-nationale-simen",
+  "title": "SIMEN",
+  "publisher": "Ministère de l'Éducation nationale",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Unique IEN for pupils and staff (rung 4)"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;learners",
+ "fact": "Zimbabwe's EMIS relies on an annual school census form (ED46) feeding a central MoPSE database; the 2021 self-assessment scored 77 percent compliance and the EMIS holds no individual learner data yet.",
+ "title": "KIX EMIS Peer Review, Ministry of Education, Zimbabwe: Policy Brief",
+ "publisher": "GPE KIX Africa 19 Hub",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

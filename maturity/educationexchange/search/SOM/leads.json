@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://nira.gov.so/news/nira-and-ministry-of-education-launch-joint-initiative-to-integrate-national-id-system-with-educational-services",
+  "title": "NIRA and Ministry of Education Launch Joint Initiative to Integrate National ID System with Educational Services",
+  "publisher": "NIRA",
+  "published": "2024-11-05",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q4: national ID integration with education services"
+ },
+ {
+  "url": "https://govstack.global/showcase/somalia-hsc/",
+  "title": "Somalia's High School Certificate System",
+  "publisher": "GovStack",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q2: HSC system links NIRA ID and MOECHE exam system"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-01-completion-report-implementation-grant-somalia-2018-23.pdf",
+  "title": "Completion report, GPE implementation grant Somalia 2018-23",
+  "publisher": "Global Partnership for Education",
+  "published": "2025-01",
+  "sub_indicator": "exchange",
+  "why": "Q3: lack of student-level data"
+ },
+ {
+  "url": "https://somalijobs.com/assets/attachments/jobs/494afdb8409cab6c46aa2093ff896502/itb-consultancy-services-for-the-development-of-student-digital-attendence-tracking-app-5731625054608458.pdf",
+  "title": "ITB: development of student digital attendance tracking app",
+  "publisher": "(tender)",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1: planned API integration with EMIS"
+ }
+]

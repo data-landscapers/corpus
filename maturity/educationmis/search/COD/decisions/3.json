@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system;learners;linked",
+ "fact": "The PAAF project's terms of reference (March 2025) list nine separate ministry platforms (SIGE-RDC, SERNIE EDUSER, DINACOPE and others) to be assessed to prepare their interoperability.",
+ "title": "Termes de Reference pour le recrutement d'une Assistance Technique pour l'Evaluation des Plateformes Informatiques du Ministere de l'Education Nationale et Nouvelle Citoyennete",
+ "publisher": "Projet PAAF, Ministere de l'Education Nationale et Nouvelle Citoyennete",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": ""
+}

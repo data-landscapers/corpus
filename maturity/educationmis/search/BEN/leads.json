@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.unicef.org/benin/recits/au-b%C3%A9nin-educmaster-simpose-comme-un-outil-cl%C3%A9-pour-piloter-l%C3%A9ducation",
+  "title": "Au Bénin, EducMaster s'impose comme un outil clé pour piloter l'éducation",
+  "publisher": "UNICEF Bénin",
+  "published": "2026-02-16",
+  "sub_indicator": "emis",
+  "why": "Q1/Q2 EducMaster in service"
+ },
+ {
+  "url": "https://lanation.bj/numerique/educmaster-platform-the-digital-revolution-at-the-service-of-schools",
+  "title": "Educmaster Platform: The Digital Revolution at the Service of Schools",
+  "publisher": "La Nation",
+  "published": "2024-12-24",
+  "sub_indicator": "emis",
+  "why": "Q2/Q3 all secondary schools enter data"
+ },
+ {
+  "url": "https://www.educmaster.bj/",
+  "title": "Portail EducMaster",
+  "publisher": "EducMaster (Bénin)",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "Q2/Q3 national learners count"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2023-02-benin-itap-report.pdf",
+  "title": "Report of the Independent Technical Advisory Panel (Benin)",
+  "publisher": "Global Partnership for Education",
+  "published": "2023-02",
+  "sub_indicator": "emis",
+  "why": "Q1/Q2 EMIS assessment"
+ },
+ {
+  "url": "https://emp.educmaster.bj/",
+  "title": "Portail EMP EducMaster",
+  "publisher": "MEMP",
+  "published": "",
+  "sub_indicator": "emis",
+  "why": "Q2 SIGE primary"
+ }
+]

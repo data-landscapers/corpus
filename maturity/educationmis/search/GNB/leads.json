@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.fecongd.org/2024/10/10/melhoria-do-sistema-de-informacao-da-educacao-chega-a-bolama/",
+  "title": "Melhoria do sistema de informacao da educacao chega a Bolama",
+  "publisher": "FEC",
+  "published": "2024-10-10",
+  "sub_indicator": "emis",
+  "why": "SIGE rollout to Bolama"
+ },
+ {
+  "url": "https://www.fecongd.org/project/peside/",
+  "title": "PESIDE",
+  "publisher": "FEC",
+  "published": "2022-01-11",
+  "sub_indicator": "emis",
+  "why": "SIGE platform in all regional directorates"
+ },
+ {
+  "url": "https://www.globalpartnership.org/fr/node/document/download?file=document%2Ffile%2F2025-01-pacto-parceria-guine-bissau.pdf",
+  "title": "Pacto de Parceria Guine-Bissau",
+  "publisher": "Global Partnership for Education",
+  "published": "2025-01",
+  "sub_indicator": "emis",
+  "why": "Education data not comprehensively collected; SIGE"
+ },
+ {
+  "url": "https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2022-01-program-document-guinea-bissau.pdf",
+  "title": "Program document Guinea-Bissau",
+  "publisher": "Global Partnership for Education",
+  "published": "2022-01",
+  "sub_indicator": "emis",
+  "why": "EMIS exists but timeliness issues"
+ },
+ {
+  "url": "https://www.gtai.de/resource/blob/244732/0dfd3c062930545e92de55a0c6552bd7/PRO20200430244726.pdf",
+  "title": "Action document SIGE extension",
+  "publisher": "European Union",
+  "published": "2020",
+  "sub_indicator": "emis",
+  "why": "SIGE Gabu pilot extension nationwide"
+ }
+]

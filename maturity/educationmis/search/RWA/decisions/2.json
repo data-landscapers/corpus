@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "system",
+ "fact": "The 2022/23 Education Statistical Yearbook, published April 2024, says its data are drawn primarily from the School Data Management System (SDMS) at school level, covering pre-primary, primary, secondary and TVET.",
+ "title": "2022/23 Education Statistical Yearbook",
+ "publisher": "Ministry of Education, Rwanda",
+ "published": "2024-04",
+ "date_source": "source",
+ "why_not": ""
+}
