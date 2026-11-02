@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: SYC
 ledger_rows: 10
 not_held: 6
-record: 9c5e4767caca
+record: c6bdc85158df
 ---
 
 # News, Oct – Nov 2026
@@ -121,6 +121,14 @@ The World Bank is preparing a Seychelles project to widen internet access, incre
 **[Cabinet Business - Wednesday 28 October, 2026](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)** — State House Seychelles, Office of the President, 29 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[AI to support permits, healthcare and fraud detection under Seychelles' $50 million digital plan](https://www.seychellesnewsagency.com/articles/22623/ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan)** — Seychelles News Agency, 30 October 2026
+
+Strategy costed at USD 50m over five years; government cloud build mid-2027 to mid-2028; World Bank STRIDE support.
 
 </div>
 

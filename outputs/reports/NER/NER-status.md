@@ -1,12 +1,12 @@
 ---
 title: Niger: status report
-compiled: 2026-11-02
+compiled: 2026-11-01
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 183
+sources_cited: 182
 sections_written: 39
 not_established: 1
 acquire_lines: 33
@@ -89,8 +89,6 @@ Donor money for Niger's digital estate falls away in the 2026 finance law, leavi
 The domestically financed share of the digital lines is 54.5% of 20.9 billion CFA francs appropriated in 2026, up from 19.5% of 69.3 billion in 2025; the external side fell to 9.5 billion from 55.9 billion, and the domestic side eased to 11.4 billion from 13.5 billion (2026).
 
 The tax administration pays for its own digitisation from a levy. [The 2025 finance law created a special account for the digital modernisation of the tax administration, credited with a 0.25% levy on the turnover of firms managed by the large-enterprise directorate plus a state subsidy, with a ceiling of 8.22 billion CFA francs (2025)](https://finances.gouv.ne/index.php/lois-de-finances/category/160-loi-de-finances-2025); [the 2026 law caps it at 5.56 billion (2026)](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44). [The provisional year-end execution report for 2025 reports spending by economic title only](https://finances.gouv.ne/index.php/rapport-d-execution/category/166-rapport-d-execution-2025), and no outturn against the digital appropriations had been published as at September 2026.
-
-[In 2023 the telecoms regulator billed licensed operators 4.97 billion CFA francs for the universal access fund, at 2% of their turnover net of interconnection (2023)](https://arcep.ne/wp-content/uploads/2024/10/RAPPORT-ANNUEL-ARCEP-2023_V2_1082024.pdf). No disbursement from the fund has been found.
 
 The external windows are closing. [The Smart Villages loan runs to 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P167543) and [the regional identity programme's second phase to 2027](https://projects.worldbank.org/en/projects-operations/project-detail/P169594); [the 2026 law's own-budget identity line is 350 million CFA francs for the civil-status directorates' running costs and payments to registry centres (2026)](https://finances.gouv.ne/index.php/lois-de-finances/category/165-loi-de-finances-2026). [The Trans-Saharan backbone and data-centre project carries more than 30 billion CFA francs from the African Development Bank, 16.0 billion as credit and 12.76 billion as grant, against a national counterpart of 2.17 billion (March 2026)](https://www.lesahel.org/session-ordinaire-du-comite-de-pilotage-copil-au-titre-de-lannee-2026-faire-le-point-des-progres-realises-et-prendre-des-orientations-pour-la-poursuite-des-activites/).
 

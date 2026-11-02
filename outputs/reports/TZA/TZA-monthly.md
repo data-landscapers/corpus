@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: TZA
-ledger_rows: 35
+ledger_rows: 36
 not_held: 5
-record: 1538dff7f99e
+record: 504a10749c36
 ---
 
 # News, Oct – Nov 2026
@@ -461,6 +461,20 @@ Tanzania's Vice President directed the youth and labour ministries to merge the 
 **[Tanzania Launches Digital Library System as Mkenda Urges Board to Prioritise Books Over Buildings - The Chanzo](https://thechanzo.com/2026/10/21/tanzania-launches-digital-library-system-as-mkenda-urges-board-to-prioritise-books-over-buildings/)** — The Chanzo, 21 October 2026
 
 Tanzania's education minister Adolf Mkenda launched the Integrated National Digital Library System, built by the Tanzania Library Services Board with the e-Government Authority, which handles registration, ISBN and ISSN applications, cataloguing, lending and billing on web and mobile. Copyright limits mean not every title will be online in full.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-Procurement System (NeST)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital shift boosts access to Sh42.6 trillion tender market](https://www.thecitizen.co.tz/tanzania/news/national/digital-shift-boosts-access-to-sh42-6-trillion-tender-market-5651820)** — The Citizen, 30 October 2026
+
+PPRA figures to Oct 2026: 430,643 tenders, compliance 79% in 2025/26; Bank Security Portal links 36 banks.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: UGA
 ledger_rows: 29
 not_held: 12
-record: 6d9431511549
+record: 105f6c57de99
 ---
 
 # News, Oct – Nov 2026
@@ -203,6 +203,14 @@ Uganda's communications regulator launched a child online protection campaign at
 **[TikToker charged over alleged fake news, data disclosure](https://www.newvision.co.ug/category/news/tiktoker-charged-over-alleged-fake-news-data-NV_241989_102026)** — New Vision, 7 October 2026
 
 A TikTok user was charged in Kampala on 6 October with unlawfully obtaining and disclosing personal data under Uganda's data protection act, and with publishing false news, over a photograph and video of a State House employee. He denied the charges; the case returns on 19 October.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Police, PDPO Raid SyncLend Uganda Call Centre, Arrest 13 Over Harassment of Loan Defaulters’ Relatives](https://nilepost.co.ug/crime/382650/police-pdpo-raid-synclend-uganda-call-centre-arrest-13-over-harassment-of-loan-defaulters-relatives)** — Nile Post, 29 October 2026
+
+Joint PDPO-police raid 29 Oct 2026; charges under Data Protection and Privacy Act ss.29 and 35; four lending apps named.
 
 </div>
 
