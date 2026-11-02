@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-22-zwe-digital-inclusivity-leaving-no-place-no-person-behind",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "POTRAZ, the regulator, gave advanced digital skills training to 35 people living with disabilities in Nyanga, drawn from Manicaland and Mashonaland Central, and its USF executive director says it will keep funding the programme.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "POTRAZ digital inclusivity training",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ digital inclusivity training",
+   "country_label": "Zimbabwe",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

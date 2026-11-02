@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-gin-renforcement-des-capacites-a-l-usage-du-numerique-l-ansuten-lance-la-q",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ANSUTEN's director general said the R-CUN digital capacity programme, run since 2022 through the Hub numerique, has trained more than 3,200 people, about 40 per cent women, and launched its fourth edition on 7 October 2026 aiming at over 2,000 beneficiaries.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "R-CUN (Programme de renforcement des capacites a l'usage du numerique)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "R-CUN",
+   "country_label": "Guinea",
+   "class": "publicskills",
+   "platform": "Hub numerique",
+   "owner": "ANSUTEN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

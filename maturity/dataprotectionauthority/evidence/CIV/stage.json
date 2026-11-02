@@ -1,16 +1,17 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "3",
-   "standing": "constituted",
-   "rulings": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-003;CIV-002",
-   "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "4",
+      "standing": "constituted",
+      "rulings": "ruled",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-007;CIV-003",
+      "gaps": "No count of the authority's decisions, fines or complaints settled for a period ending in the last two years has been found; its decisions register lists decisions to January 2024 without a count. Agence Ecofin reported no financial sanction in July 2026 (CIV-005), which a warning and formal notice is not.",
+      "note": "Stage 4 on the authority's decision 2024-0996 of 16 January 2024, a warning and formal notice to the ministry METFPA and Kaydan Groupe, inside three years (CIV-007). No published count of its decisions for a recent period is held, so not stage 5.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

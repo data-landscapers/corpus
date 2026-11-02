@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-12-nam-national-digital-strategy-to-pave-the-way-to-harness-digitization-for",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "validated",
+   "fact": "Ministry of ICT executive director Audrin Mathe addressed a validation workshop in Windhoek for the National Digital Strategy and its Implementation Action Plan, described as the forthcoming digital trajectory.",
+   "as_of": "2024-01-12",
+   "date_precision": "day",
+   "system": "National Digital Strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Strategy",
+   "country_label": "Namibia",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

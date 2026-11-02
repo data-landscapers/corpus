@@ -3,9 +3,9 @@
   "cells": [
     {
       "sub_indicator": "national",
-      "stage": "unplaced",
+      "stage": "2",
       "governance": "",
-      "standing": "adopted",
+      "standing": "drafting",
       "text": "",
       "period": "to:2025",
       "plan": "",
@@ -13,10 +13,10 @@
       "last12": "",
       "cap": "",
       "flags": "lapsed",
-      "stage_sources": "TUN-003;TUN-001;TUN-004;TUN-002",
-      "gaps": "Stratégie nationale du numérique 2021-2025 ended in 2025 and no successor strategy is on record: TUN-001 gives only a 'broader national vision for 2026-2030', not a named strategy in preparation. The rows for the predecessor Tunisie Digitale 2020 (extended to 2025), including its 2018 targets, results table and governance chart (TUN-035 to TUN-038) and its body row (TUN-008), are not carried to this instrument; that plan has ended too, and its results were published in 2018, outside any window. No text, plan or governance rows for the 2021-2025 strategy.",
-      "note": "Strategy 2021-2025 (Stratégie nationale du numérique) is adopted but its period ended before 2026 with no successor on record, so the cell is unplaced and lapsed.",
-      "as_at": "2026-10-13"
+      "stage_sources": "TUN-040;TUN-041;TUN-001",
+      "gaps": "The Stratégie nationale du numérique 2021-2025 ended in 2025. Its successor, the National Digital Economy Strategy 2026-2030, was in preparation in September 2025 (TUN-040), and a ministry official described a six-axis national digital strategy in November 2025 (TUN-039); no adoption, text, delivery plan, governing body or finance has been found for it. The rows for the predecessor Tunisie Digitale 2020 (TUN-005 to TUN-008, TUN-035 to TUN-038) are not carried to this instrument.",
+      "note": "Instrument: the National Digital Economy Strategy 2026-2030, in preparation as successor to the 2021-2025 strategy whose period has ended. A lapsed strategy with a successor in preparation is stage 2; stage 3 needs the successor adopted with a public text.",
+      "as_at": "2026-11-02"
     }
   ]
 }

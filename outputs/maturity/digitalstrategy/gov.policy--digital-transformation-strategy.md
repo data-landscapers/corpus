@@ -25,9 +25,9 @@ The norm is the African Union's Digital Transformation Strategy for Africa 2020-
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 19 |
-| 2 Nascent | 30 |
+| 2 Nascent | 31 |
 | 1 Absent | 1 |
-| Unplaced | 2 |
+| Unplaced | 1 |
 | No evidence | 2 |
 
 ## Countries
@@ -504,6 +504,16 @@ Togo's president said in 2022 the Togo Digital 2025 strategy was adopted, but no
 - Togo Officiel reports that the Ministry of Digital Economy and Digital Transformation launched on 22 May 2025 the recruitment of a consultant to update the national digital transformation strategy as a new 'Togo Digital' strategy; it is being prepared, not yet issued ([source, 2025-05-22](https://www.republiquetogolaise.tg/gestion-publique/2705-10711-le-togo-prepare-une-nouvelle-strategie-digitale)).
 - The new 'Togo Digital' strategy is to cover 2025-2030, per Togo Officiel ([source, 2025-05-22](https://www.republiquetogolaise.tg/gestion-publique/2705-10711-le-togo-prepare-une-nouvelle-strategie-digitale)).
 
+### Tunisia: 2 Nascent
+
+Tunisia's 2021-2025 digital strategy has ended and the government was preparing a 2026-2030 successor in 2025; no source found says it is adopted.
+
+*Lapsed.*
+
+- Minister Hmissi says the government is preparing the National Digital Economy Strategy 2026-2030 (Tunisie numerique 2030) within the Tunisia 2030 national development plan, on five axes including public service digitalisation and digital sovereignty ([source, 2025-09-11](https://www.erembusiness.com/technology/fbz71cp)).
+- Minister Hmissi says Tunisia had a 2021-2025 digital strategy, which has ended and is being evaluated while the 2030 document is drawn up ([source, 2025-09-11](https://www.erembusiness.com/technology/fbz71cp)).
+- The article names Tunisia's National Digital Strategy 2021-2025 as a five-year plan; its stated period had ended by the article's date, and the article gives no successor strategy by name (only a 'broader national vision for 2026-2030'); the as-at date is the article's publication date (2026-03-09). Text public: not stated ([source, 2026-03-09](https://www.telecomreviewafrica.com/articles/features/28394-whats-behind-north-africas-digital-generation-tunisia/)).
+
 ### Eritrea: 1 Absent
 
 Eritrea has no national digital transformation strategy, according to a June 2026 legal-status page; no source found says whether any is in preparation.
@@ -520,19 +530,6 @@ The Central African Republic's 2020-2025 digital plan was last in drafting in 20
 - The document gives the plan's period as 2020-2025 ([source, 2021-11-10](https://oubanguimedias.com/2021/11/12/centrafrique-restitution-des-etudes-relatives-au-plan-national-strategique-centrafrique-digitale-2025-et-au-snid/)).
 
 Not established: The Plan National Stratégique Centrafrique Digitale 2025 was last heard of at a November 2021 workshop (CAF-004); no row says it was adopted or published, and its 2020-2025 period has ended (CAF-005). No successor national strategy is on record: the government-class strategies validated in August 2026 and the PND 2024-2028 are noted classes. CAF-030 (June 2023) names the ACDD's mission as implementing a national strategy for the digital ecosystem, but falls before the 36-month window and sets no standing.
-
-### Tunisia: Unplaced
-
-Tunisia's National Digital Strategy 2021-2025 ended in 2025 and no named successor has been found, so no stage is set.
-
-*Lapsed.*
-
-- The EBRD board report says the Tunisian Government 'has launched' the National Digital Strategy 2021-2025; no adopting act or body beyond 'the Government' is named, and the launch date is not given, so the date is the report's (2024-07-24) ([source, 2024-07-24](https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/54140/54140-board-report.pdf)).
-- The article names Tunisia's National Digital Strategy 2021-2025 as a five-year plan; its stated period had ended by the article's date, and the article gives no successor strategy by name (only a 'broader national vision for 2026-2030'); the as-at date is the article's publication date (2026-03-09). Text public: not stated ([source, 2026-03-09](https://www.telecomreviewafrica.com/articles/features/28394-whats-behind-north-africas-digital-generation-tunisia/)).
-- The report gives the National Digital Strategy 2021-2025 a stated period of 2021-2025, which includes the report's date of 2024-07-24; it neither links nor quotes the text from an official site. Text public: not stated ([source, 2024-07-24](https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/54140/54140-board-report.pdf)).
-- The article says the Digital Strategy 2021-2025 'translated vision into delivery', citing by 2025 nearly 80% of the population as internet users and 4G coverage near 95%, measured against no target of the strategy itself and with no published progress report named ([source, 2025](https://www.telecomreviewafrica.com/articles/features/28394-whats-behind-north-africas-digital-generation-tunisia/)).
-
-Not established: Stratégie nationale du numérique 2021-2025 ended in 2025 and no successor strategy is on record: TUN-001 gives only a 'broader national vision for 2026-2030', not a named strategy in preparation. The rows for the predecessor Tunisie Digitale 2020 (extended to 2025), including its 2018 targets, results table and governance chart (TUN-035 to TUN-038) and its body row (TUN-008), are not carried to this instrument; that plan has ended too, and its results were published in 2018, outside any window. No text, plan or governance rows for the 2021-2025 strategy.
 
 ### Angola: No evidence
 

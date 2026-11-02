@@ -52,7 +52,7 @@ Primary schools entered enrolments and class lists themselves in 2026; no source
 
 ### Cape Verde: 3 Established
 
-Teachers must record pupils' absences and marks in a system put in all 395 basic schools by 2019; no source found reports the share entering them.
+Teachers must record pupils' absences and marks in a system put in all 395 basic schools by 2019; no source reports the share entering them.
 
 - Despacho 120/GME/2025 orders at 2.11 that teachers must record the information from pupils' assessment electronically as well, on the result-entry sheets of the SIGE platform, where each teacher gets the final marks calculated by the legal formulas; it states an obligation for basic and secondary education in 2025/2026, not a measure of practice ([source, 2025-09-01](https://boe.incv.cv/Bulletins/DownloadAct?id=86791)).
 - The Ministry of Education states that implementation of SIGE was concluded in February 2019 in all basic education schools of the country, 395 in total (395 of 395); the figure is of schools where it was implemented, not of schools entering data ([source, 2019-02](https://minedu.gov.cv/recursos_educativossigemenu)).
@@ -62,7 +62,7 @@ Teachers must record pupils' absences and marks in a system put in all 395 basic
 
 ### Comoros: 3 Established
 
-Schools have entered marks since June 2025, and 45% of public primary schools were integrated by February 2026; no source found reports the share entering marks.
+Schools have entered marks since June 2025, and 45% of public primary schools were integrated by February 2026; no source reports the share entering marks.
 
 *Advancing.*
 
@@ -81,7 +81,7 @@ In 2023 school heads registered pupils and sent absences through a national per-
 
 ### Eswatini: 3 Established
 
-A per-pupil record has covered all 976 primary and secondary schools since March 2024; no source found says how many primary schools enter attendance or results.
+A per-pupil record has covered all 976 primary and secondary schools since March 2024; no source says how many primary schools enter attendance or results.
 
 - The GPE KIX authors list individual-level data collection among the EMIS's routine exercises as of the February 2025 engagement: information captured on each learner and teacher, such as demographics and performance, with tools that collect it at the school level; the document does not say how often a school enters it ([source, 2025-02](https://www.gpekix.org/blog/towards-inclusive-education-data-systems-integration-disability-indicators-eswatinis-national)).
 - The page states that the country has since expanded to nationwide implementation and gives the scale as National, with no count or share of schools; it gives no date for this, so the document's published year is used ([source, 2024](https://education.dhis2.org/implementation/eswatini/)).
@@ -101,7 +101,7 @@ A per-pupil record has covered all 976 primary and secondary schools since March
 
 ### Gambia: 3 Established
 
-Schools record each pupil in a national register, scaled up from 200 pilot schools in 2021; no source found says how many primary schools enter data.
+Schools record each pupil in a national register, scaled up from 200 pilot schools in 2021; no source says how many primary schools enter data.
 
 - DHIS2 for Education's country page says the ministry scaled the individual learner module to national level in 2021 and launched the individual student identification number, giving no count or share of schools ([source, 2021](https://education.dhis2.org/implementation/the-gambia/)).
 - DHIS2's impact story says the learner census with the Gambia Bureau of Statistics collected individual-level data on children attending primary schools, and that efforts continue to expand the system to all basic and secondary schools; no date is given, so the publication date is used ([source, 2022-10-06](https://dhis2.org/gambia-emis-tracker/)).
@@ -110,7 +110,7 @@ Schools record each pupil in a national register, scaled up from 200 pilot schoo
 
 ### Ghana: 3 Established
 
-In November 2025, 733 primary schools reported each pupil's literacy and numeracy results on a digital platform; no source found reports their share of primary schools.
+In November 2025, 733 primary schools reported each pupil's literacy and numeracy results on a digital platform; no source reports their share of primary schools.
 
 - The World Bank's results framework for GALOP gives 733 schools assessing and reporting Differentiated Learning literacy and numeracy outcomes for individual learners on the DL+ Platform at 27 November 2025, against a target of 16,000 by December 2028; no total of schools is given ([source, 2025-11-27](https://documents1.worldbank.org/curated/en/099122325180530691/pdf/P165557-8b46bb78-18d2-4f42-981f-a8a5950503b5.pdf)).
 - The World Bank describes schools assessing and reporting literacy and numeracy outcomes for individual learners on the DL+ Platform, 733 schools doing so at 27 November 2025 ([source, 2025-11-27](https://documents1.worldbank.org/curated/en/099122325180530691/pdf/P165557-8b46bb78-18d2-4f42-981f-a8a5950503b5.pdf)).
@@ -118,7 +118,7 @@ In November 2025, 733 primary schools reported each pupil's literacy and numerac
 
 ### Guinea: 3 Established
 
-In March 2026 a nationwide registration gave primary pupils a single school number, in secondary since 2022; no source found says how many schools took part.
+In March 2026 a nationwide registration gave primary pupils a single school number, in secondary since 2022; no source says how many schools took part.
 
 *Advancing.*
 
@@ -129,7 +129,7 @@ In March 2026 a nationwide registration gave primary pupils a single school numb
 
 ### Kenya: 3 Established
 
-Primary and secondary schools register each pupil on the national system (2026); no source found says how many primary schools do so, and any attendance entry,.
+Primary and secondary schools register each pupil on the national system (2026); no source says how many primary schools do so.
 
 *Advancing; Regressing.*
 
@@ -162,7 +162,7 @@ In 2018, 807 of 1,848 schools were connected to the national school system and 1
 
 ### Rwanda: 3 Established
 
-Primary schools keep a profile per pupil with exam results, and a daily attendance app is live (2026); no source found reports the share of schools.
+Primary schools keep a profile per pupil with exam results, and a daily attendance app is live (2026); no source reports the share of schools.
 
 *Advancing.*
 
@@ -186,7 +186,7 @@ In 2022-23 a rollout gave 300 primary schools tablets to enter each pupil's dail
 
 ### South Africa: 3 Established
 
-Schools record attendance and marks digitally and a national register holds each pupil, in 2025; no source found reports the share of primary schools doing so.
+Schools record attendance and marks digitally and a national register holds each pupil, in 2025; no source reports the share of primary schools doing so.
 
 - The Department says about 99.9% of functional ordinary schools, public and independent and of all levels (24,850 schools in 2024), had their databases uploaded on LURITS and the Provincial Data Warehouses as of July 2024; the share counts schools whose database was uploaded, not schools entering attendance or results, and is not given for primary schools alone ([source, 2024-07](https://www.education.gov.za/Portals/0/Documents/Reports/2025/2025.26%20DBE%20APP.pdf)).
 - The plan says LURITS, introduced in 2009 to track the movement of learners, gives the year a learner started Grade 1 and the grade the learner is now in, and that learner progression can be tracked from grade to grade with it; the 2024 upload covered 13,527,283 learners in ordinary public and independent schools ([source, 2024-07](https://www.education.gov.za/Portals/0/Documents/Reports/2025/2025.26%20DBE%20APP.pdf)).
@@ -307,7 +307,7 @@ A 2018 pilot tracked individual pupils in one hundred schools; their level, and 
 
 ### Madagascar: 2 Nascent
 
-A pilot gave 180,000 pupils in one district a permanent number in 2026; no source found says whether any primary school beyond the pilot has enrolled.
+A pilot gave 180,000 pupils in one district a permanent number in 2026; no source says whether any primary school beyond the pilot has enrolled.
 
 *Advancing.*
 
@@ -392,7 +392,7 @@ A daily per-pupil attendance app was on trial in 42 schools in Puntland State in
 
 ### Tanzania: 2 Nascent
 
-Heads and teachers in one council were trained on a school record system in January 2026; no source found says whether any primary school enters attendance.
+Heads and teachers in one council were trained on a school record system in January 2026; no source says whether any primary school enters attendance.
 
 *Advancing.*
 
@@ -411,7 +411,7 @@ The ministry launched pupil numbering and designed its platform in 2023; no sour
 
 ### Liberia: 1 Absent
 
-The Ministry said in 2026 that its school data system is paper-based and a per-pupil record planned; no source found says whether any pilot has begun.
+The Ministry said in 2026 that its school data system is paper-based and a per-pupil record planned; no source says whether any pilot has begun.
 
 *Advancing.*
 
@@ -468,13 +468,13 @@ Not established: The only two evidence rows (GNQ-001, GNQ-002) come from the exc
 
 ### Eritrea: Unplaced
 
-A digital platform for the yearly school count was built by 2026; no source found says how schools keep pupils' records, so no stage is set.
+A digital platform for the yearly school count was built by 2026; no source says how schools keep pupils' records, so no stage is set.
 
 Not established: The only evidence row, ERI-001, is from the excluded source and sets nothing. No admissible dated statement that primary schools keep learner records on paper, and no row on any system holding a record per learner.
 
 ### Niger: Unplaced
 
-School heads filled printed forms for the yearly school count in 2025; no source found says how schools keep pupils' records, so no stage is set.
+School heads filled printed forms for the yearly school count in 2025; no source says how schools keep pupils' records, so no stage is set.
 
 Not established: The only evidence row, NER-001, is from the excluded source and sets nothing. No admissible dated statement that primary schools keep learner records on paper, and no row on a system holding a record per learner.
 
@@ -492,6 +492,6 @@ Not established: The one evidence row (ZMB-001) is from the excluded source and 
 
 ### Libya: No evidence
 
-A system launched in 2024 gathers school data by online survey; no source found says how schools keep each pupil's record, so no stage is set.
+A system launched in 2024 gathers school data by online survey; no source says how schools keep each pupil's record, so no stage is set.
 
 Not established: evidence.csv holds no row for the country. systems.csv lists only census-class, single-function and unclassified systems, none shown to hold a record per learner that schools add to during the year.

@@ -92,6 +92,7 @@ CIV,ARTCI (Autorité de régulation des télécommunications/TIC de Côte d'Ivoi
 CIV,ARTCI (Autorité de Protection des Données Personnelles),ARTCI,authority,,State,,2026-08-03-cote-divoire-artci-urges-firms-to-use-certinum-data-authorisation-platform
 CIV,CERTINUM,CERTINUM,other,,ARTCI,"controllers, protection correspondents, advisory firms",2026-08-03-cote-divoire-artci-urges-firms-to-use-certinum-data-authorisation-platform
 CIV,Certinum,Côte d'Ivoire,other,certinumapdp.ci,ARTCI,,2026-07-07-civ-cote-d-ivoire-ce-que-certinum-va-changer-pour-les-entreprises-et-les-a
+CIV,Autorite de protection (ARTCI),Cote d'Ivoire,authority,,ARTCI,,2024-01-16-civ-decisions-autorite-de-protection
 CMR,Personal Data Protection Authority,Personal Data Protection Authority,authority,,,,2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon
 CMR,Autorite de protection des donnees a caractere personnel (APDP),Cameroon,authority,,,,2026-09-15-cmr-gouvernance-des-donnees-en-afrique-centrale-le-cameroun-sans-apdp-oper
 CMR,Autorité de protection des données à caractère personnel,Cameroon,authority,,,,2026-06-30-cmr-du-regime-de-l-autorisation-inoperant-au-regime-de-l-accountability-ir
@@ -109,6 +110,7 @@ COD,ARPTIC,"Autorité de Régulation des Postes, des Télécommunications et des
 COD,Autorite de regulation de la poste et des telecommunications du Congo (ARPTC),ARPTC,authority,,,,2026-09-14-cod-ouragan-enquete-arptc-regulateur
 COD,APD (Autorité de Protection des Données),COD,authority,,,,2025-06-21-cod-activites-et-services-numeriques-en-rdc-l-arptc-lance-l-operation-d-id
 COD,Data Protection Authority,Data Protection Authority,authority,,,,2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon
+COD,Autorite de Regulation de la Poste et des Telecommunications du Congo (ARPTC),RDC,authority,,state,,2025-03-13-cod-allocution-du-president-du-college-de-l-arptc-a-l-occasion-de-la-confe
 COG,Commission nationale pour la protection des données à caractère personnel (National Personal Data Protection Commission),National Personal Data Protection Commission,authority,,Republic of Congo (established under Law No. 29-2019),national,2026-01-22-congo-launches-data-protection-commission-techafricanews
 COG,Commission nationale pour la protection des données à caractère personnel,Congo,authority,,,,2024-07-05-cog-congo-numerique-vers-la-protection-des-donnees-a-caractere-personnel
 COG,CNPD,Commission nationale pour la protection des données à caractère personnel,authority,,,,2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon
@@ -424,6 +426,7 @@ NGA,Nigeria Data Protection Commission,Nigeria Data Protection Commission,other,
 NGA,NDPC,Nigeria,authority,,,,2026-01-29-nga-ndpc-concludes-246-investigations-generates-n5-2bn-revenue-in-show-of
 NGA,Nigeria Data Protection Commission,Nigeria,authority,,NDPC,,2025-02-09-nga-nigeria-s-data-privacy-breaches-surge-amid-regulatory-pressure
 NGA,Nigeria Data Protection Commission (NDPC),Nigeria,authority,,Federal government,,2025-01-29-nga-nigeria-generated-n12bn-from-data-protection-in-2024
+NGA,Nigeria Data Protection Commission (NDPC),Nigeria,authority,,state,,2026-10-30-nga-rogue-actors-exploiting-data-nji-ndpc-judicial-capacity
 RWA,Data Protection Act,Data Protection Act (introduced 15 October 2021),other,,,,2026-01-26-year-of-accountability-data-controllers-newtimes
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,authority,,NCSA,,2026-01-26-year-of-accountability-data-controllers-newtimes
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,authority,,,,2025-07-25-rwa-cloud-storage-under-rwanda-s-data-protection-law-what-you-need-to-know
@@ -469,6 +472,8 @@ STP,Agência Nacional de Proteção de Dados Pessoais,ANPDP,authority,,São Tom�
 STP,Agência Nacional de Proteção de Dados Pessoais,ANPDP,authority,,São Tomé and Príncipe,national,2022-06-24-data-protection-africa-sao-tome-and-principe
 STP,Agência Nacional de Proteção de Dados Pessoais,ANPDP,authority,,São Tomé and Príncipe,national,2025-09-02-anpdp-primeiro-encontro-rede-lusofona-protecao-dados
 STP,Agencia Nacional de Protecao de Dados de Sao Tome e Principe,Sao Tome and Principe,authority,,,,2025-03-20-stp-rede-lusofona-de-protecao-de-dados
+STP,Agencia Nacional de Protecao de Dados Pessoais (ANPDP),Sao Tome and Principe,authority,,state,,2026-04-24-stp-agencia-nacional-de-protecao-de-dados-pessoais-celebra-8o-aniversario
+STP,Agencia Nacional de Protecao de Dados Pessoais (ANPDP),Sao Tome and Principe,authority,,state,,2026-01-28-stp-28-de-janeiro-sao-tome-e-principe-assinala-o-dia-internacional-da-priv
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,other,,Parliament; supervised by ESCCOM as EDPA,,2026-09-17-swz-eswatinipositivenews-edpa-outreach-data-protection-awareness
 SWZ,Eswatini Data Protection Authority (EDPA),EDPA,authority,,Eswatini Communications Commission (ESCCOM),,2026-09-17-swz-eswatinipositivenews-edpa-outreach-data-protection-awareness
 SWZ,"Data Protection Act, 2022 (No. 5 of 2022)",Data Protection Act,other,,Parliament; supervised by ESCCOM as EDPA,,2026-08-04-eswatini-online-media-publishing-guidelines-2026
@@ -545,6 +550,7 @@ UGA,Personal Data Protection Office,Uganda,authority,,,,2025-07-21-uga-ugandan-r
 UGA,Personal Data Protection Office,Personal Data Protection Office (PDPO),authority,,state,,2024-09-12-uga-the-state-of-data-protection-in-uganda
 UGA,Personal Data Protection Office (PDPO),Uganda,authority,,,,2025-08-31-uga-uganda-data-protection-office-decision-data-controllers-held-liable
 UGA,Personal Data Protection Office (PDPO),Uganda,authority,,,,2025-03-12-uga-pdpo-decision-061-2024-simbwa-v-chipper
+UGA,Personal Data Protection Office (PDPO),Uganda,authority,,state,,2026-10-29-uga-police-pdpo-raid-synclend-uganda-call-centre-arrest-13-over-harassment
 ZAF,Protection of Personal Information Act (POPIA),POPIA,other,,Information Regulator (enforcer),,2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities
 ZAF,Information Regulator,InfoReg,authority,,Information Regulator,,2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities
 ZAF,Promotion of Access to Information Act (PAIA),PAIA,other,,Information Regulator (enforcer),,2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities

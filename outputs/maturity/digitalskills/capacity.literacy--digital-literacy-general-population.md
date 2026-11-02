@@ -23,10 +23,10 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 | 5 Leading | 2 |
 | 4 Operating | 4 |
 | 3 Established | 17 |
-| 2 Nascent | 22 |
+| 2 Nascent | 23 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
-| No evidence | 6 |
+| No evidence | 5 |
 
 ## Countries
 
@@ -272,9 +272,10 @@ The government contracted a three-year digital-skills programme in 2026; a count
 
 ### Guinea: 2 Nascent
 
-Guinea opened a training academy for digital skills in 2025; a count of people trained has not been found.
+Guinea's universal service agency had trained more than 3,200 people in digital skills by 2026; no source places the training in more than one location.
 
 - Guinea inaugurated the Simandou Academy at the Transform Africa Summit, a training institution that will serve as a hub for digital skills and capacity enhancement, per Biometric Update ([source, 2025-11](https://www.biometricupdate.com/202511/major-ai-dpi-initiatives-to-support-africa-single-digital-market-unveiled)).
+- ANSUTEN's director general said the R-CUN digital capacity programme, run since 2022 through the Hub numerique, has trained more than 3,200 people, about 40 per cent women, and launched its fourth edition on 7 October 2026 aiming at over 2,000 beneficiaries ([source, 2026-10-07](https://horoya.net/2026/10/07/renforcement-des-capacites-a-lusage-du-numerique-lansuten-lance-la-quatrieme-edition-du-programme-r-cun/)).
 
 ### Guinea-Bissau: 2 Nascent
 
@@ -310,6 +311,12 @@ The youth ministry agreed a national digital-skills programme for 40,000 young p
 
 - The Ministry of Youth and Sports signed an MoU with MyRide Technologies and SoulCode for a national digital-capacity programme to train about 40,000 young people (36,000 in digital literacy, 3,660 in advanced-technology bootcamps), piloting in five provinces ([source, 2026-06-17](https://mznews.co.mz/en/governo-lanca-programa-para-capacitar-40-mil-jovens-em-competencias-digitais/)).
 - The ITU-EU VaMoz Digital project, sponsored by Mozambique's Ministry of Communications and Digital Transformation, ran a Matola pilot training programme that trained 50 youth and 5 teachers, after a National Digital Skills Assessment ([source, 2026-08-08](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx)).
+
+### Seychelles: 2 Nascent
+
+Seychelles' digital strategy, approved by October 2026, plans digital literacy programmes from 2027; no programme in service is known.
+
+- The approved strategy includes digital literacy programmes, with initial initiatives expected during 2027 and early 2028, says Principal Secretary Choppy ([source, 2026-10-30](https://www.seychellesnewsagency.com/articles/22623/ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan)).
 
 ### Somalia: 2 Nascent
 
@@ -362,12 +369,6 @@ Nothing found names a national digital-skills programme or says there is none, s
 Not established: Nothing found says whether the public is taught digital skills.
 
 ### Eritrea: No evidence
-
-Nothing found names a national digital-skills programme or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public is taught digital skills.
-
-### Seychelles: No evidence
 
 Nothing found names a national digital-skills programme or says there is none, so no stage is set.
 

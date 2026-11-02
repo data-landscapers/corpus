@@ -42,3 +42,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-01,GMB,gov.legislate--data-protection-legislation,fact,3,3,GMB-010;GMB-012;GMB-014;GMB-019,Minister says in May 2026 the 2025 law is in place; oversight assigned to the access to information commissioners; stays 3
 2026-11-01,STP,gov.legislate--data-protection-legislation,fact,3,3,STP-005;STP-007;STP-013;STP-016,"ANPDP's 2026 complaints and compliance warnings are activity, no decision named; stays 3"
 2026-11-01,TUN,gov.legislate--data-protection-legislation,fact,3,3,TUN-012,"INPDP reported inactive since 2024 and the replacement bill before the Assembly; no decision under the law, stays 3"
+2026-11-02,NGA,gov.legislate--data-protection-legislation,fact,4,4,NGA-006;NGA-012;NGA-019;NGA-013;NGA-001;NGA-020;NGA-056;NGA-059;NGA-065;NGA-003,"The NDPC chief's October 2026 counts of remediation orders and breach investigations give no period, so they are not a reported count for stage 5; stage 4 stands."

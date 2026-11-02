@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-18-eth-ethiopia-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "The US Commerce guide says the Personal Data Protection Proclamation 1321/2024 was enacted in July 2024, with administrative and criminal penalties for non-compliance.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Personal Data Protection Proclamation 1321/2024",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The US Commerce guide says the Proclamation gives approval powers over certain transfers to Ethiopia's data protection authority; no appointment is stated.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Personal Data Protection Proclamation 1321/2024",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Proclamation 1321/2024",
+   "country_label": "Proclamation 1321/2024",
+   "class": "general",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

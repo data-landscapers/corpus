@@ -1,0 +1,46 @@
+{
+ "slug": "2026-04-01-nam-mict-tables-n-682m-budget-to-drive-digital-rollout-and-cybersecurity-p",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Brief reports Minister Theofelus saying the 2026/27 appropriation will support implementation of the National Digital Strategy (2025-2029).",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "National Digital Strategy (2025-2029)",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2029",
+   "fact": "The strategy is named as running 2025 to 2029.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "National Digital Strategy (2025-2029)",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "finance:domestic",
+   "fact": "The Ministry of ICT's N$682 million 2026/27 appropriation is said by the minister to support implementation of the strategy alongside operations.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "National Digital Strategy (2025-2029)",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Strategy (2025-2029)",
+   "country_label": "Namibia",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

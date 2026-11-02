@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-18-eth-ethiopia-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The US Commerce guide says transfers of personal data to countries with inadequate protection require approval from Ethiopia's data protection authority under Proclamation 1321/2024; no appointment is stated.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Data protection authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

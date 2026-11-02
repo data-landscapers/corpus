@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-30-zaf-operation-vulindlela-implementation-continues-to-make-strides",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MyMzansi",
+   "country_label": "South Africa",
+   "class": "eservices",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  },
+  {
+   "system": "Gov.za shared website platform",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": "MyMzansi is a prototype in a controlled testing environment and Gov.za is operational for departmental testing only; no service is stated launched or available to users."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-31-gin-plateforme-de-la-dgecs-des-parents-guineens-alertent-sur-des-notes-non",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "kept",
+   "value": "enrolment",
+   "fact": "Guinean schools must register pupils on the DGECS platform, which gives each a matricule number, and enter composition marks, grades 7 and 11 in 2024-25 and intermediate classes in 2025-26; parents report unentered marks and unregistered pupils, and the DG says some heads neglected the platform.",
+   "as_of": "2026-10-31",
+   "date_precision": "day",
+   "system": "DGECS platform (dgecsecoles.com)",
+   "class": "emis"
+  }
+ ],
+ "systems": [],
+ "note": "No share or count of schools entering data is given."
+}

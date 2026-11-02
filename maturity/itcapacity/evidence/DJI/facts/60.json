@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-14-dji-travaux-de-la-2ieme-seance-du-mardi-14-janvier-2025",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The Council of Ministers communique of 14 January 2025 approves ANSIE's 2025 budget of 556.7 million FDJ, covering its work for administrations on the E-JO and E-BALO platforms, archive digitisation, a human-resources solution and support to the social registry.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "ANSIE",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSIE",
+   "country_label": "DJI",
+   "class": "staff",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

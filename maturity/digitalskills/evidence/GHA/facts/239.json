@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "A Graphic Online opinion column says the 2026 budget gives GH¢100 million to the One Million CODERS initiative, described as offering young people pathways into software engineering and other digital work.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "One Million CODERS",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million CODERS",
+   "country_label": "One Million CODERS",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

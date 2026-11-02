@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-mus-pmo-cabinet-highlights-2026-10-30",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Mauritius's Cabinet noted that online payment of fines for non-penalty offences was expected to become operational on 30 October 2026 through the Supreme Court website, and that the new Unified Government Web Portal was still being developed.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Supreme Court website online fines payment; Unified Government Web Portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Government Web Portal",
+   "country_label": "Unified Government Web Portal",
+   "class": "eservices",
+   "platform": "web portal",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2024-08-25-dza-transformation-numerique-la-strategie-nationale-adoptee",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The minister and High Commissioner for Digitalisation announced that the Presidency adopted the National Digital Transformation Strategy 2025-2030, covering five axes and 25 objectives.",
+   "as_of": "2024-08-24",
+   "date_precision": "day",
+   "system": "Strategie nationale de transformation numerique 2025-2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The adopted strategy covers 2025-2030.",
+   "as_of": "2024-08-24",
+   "date_precision": "day",
+   "system": "Strategie nationale de transformation numerique 2025-2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "text",
+   "value": "unpublished",
+   "fact": "The High Commission said the strategy document will be explained and published later.",
+   "as_of": "2024-08-24",
+   "date_precision": "day",
+   "system": "Strategie nationale de transformation numerique 2025-2030",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Strategie nationale de transformation numerique 2025-2030",
+   "country_label": "Algeria",
+   "class": "national",
+   "platform": "",
+   "owner": "Haut-commissariat a la numerisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

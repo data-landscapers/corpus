@@ -1,0 +1,56 @@
+{
+ "slug": "2025-05-12-dza-algerie-numerique-2030-une-strategie-ambitieuse-pour-un-virage-digital",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "The High Commissioner for Digitalisation, Meriem Benmouloud, unveiled the national digital transformation strategy 'Pour une Algérie numérique 2030' on 12 May 2025 at a ceremony under the patronage of President Tebboune, in five axes and 25 strategic objectives.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "Pour une Algérie numérique 2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The strategy's 25 objectives are to be reached between 2025 and 2030, according to Le Chiffre d'Affaires.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "Pour une Algérie numérique 2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The High Commission for Digitalisation, placed directly under the Presidency, is charged with steering and coordinating the strategic digital transformation projects.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "Pour une Algérie numérique 2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "plan",
+   "value": "actions",
+   "fact": "Implementation rests on sectoral action plans validated for 2025-2026, per Le Chiffre d'Affaires; no costs are given.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "Pour une Algérie numérique 2030",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pour une Algérie numérique 2030",
+   "country_label": "DZA",
+   "class": "national",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

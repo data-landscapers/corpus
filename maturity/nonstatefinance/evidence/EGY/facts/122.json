@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-24-egy-govt-targets-egp-138-9-bn-in-ict-investment-mostly-from-private-capita",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Hassan Allam's digital infrastructure arm has allocated USD 400 mn for the first phase of a new data center in Egypt, per EnterpriseAM.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "Hassan Allam new data center first phase",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "The ministry's EGP 115.4 bn private investment figure is a target, not recorded."
+}

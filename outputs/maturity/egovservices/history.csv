@@ -48,3 +48,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-29,SSD,dpi.govtech--e-government-services,fact,4,4,SSD-003;SSD-005,"Republic Order of December 2025 to digitise all institutions; no use figure, stays 4"
 2026-10-31,GNQ,dpi.govtech--e-government-services,fact,unplaced,2,GNQ-002,"E-visa run by VFS Global since July 2023 (about 35,127 processed, October 2026): a service applied for online; unplaced to 2."
 2026-11-01,MRT,dpi.govtech--e-government-services,fact,2,3,MRT-007;MRT-003,"Official puts transactional online services at about forty in October 2026; ten or more online, 2 to 3"
+2026-11-02,ETH,dpi.govtech--e-government-services,fact,4,4,ETH-006;ETH-008,"The US Commerce guide counts more than 130 services digitised across 25 providers in 2024, settling the services aspect as in service; no usage figure, so stage 4 stands."

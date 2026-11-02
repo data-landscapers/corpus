@@ -130,6 +130,7 @@ DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Natio
 DJI,national data exchange layer,national data exchange layer,other,,ANSIE,,2023-04-30-ega-djibouti-digital-interoperability-platform
 DJI,X-Road secure data exchange,Djibouti,other,X-Road,ANSIE,,2021-12-31-ega-public-administration-modernisation-djibouti
 DJI,ANSIE,Agence Nationale des Systemes d'Information de l'Etat,staff,,State,,2023-11-14-dji-presidence-cm-ansie-tarification
+DJI,ANSIE,DJI,staff,,State,,2025-01-14-dji-travaux-de-la-2ieme-seance-du-mardi-14-janvier-2025
 DZA,Dzair Digital Services,Algeria,other,national digital services portal,Haut Commissariat a la Numerisation,,2026-09-19-dza-elmoudjahid-hcn-verification-documents-electroniques
 DZA,Electronic document verification mechanism,Algeria,staff,,Haut Commissariat a la Numerisation,,2026-09-19-dza-elmoudjahid-hcn-verification-documents-electroniques
 DZA,Dzair Digital Services,Algeria,other,national digital services portal (dzds.dz),Haut-Commissariat a la Numerisation,,2026-07-07-dza-aps-dzds-portail-national
@@ -202,6 +203,7 @@ GNB,iParticipate,iParticipate,other,app,UNDP with Tiniguena and Franco-Bissau-Gu
 GNQ,GETESA national telecommunications network,Equatorial Guinea,staff,,GETESA (public company),,2026-07-03-getesa-plan-accion-estrategico-2026-2030
 GNQ,National video-surveillance system,Equatorial Guinea,other,Huawei,Government,,2026-03-26-huawei-anexos-contrato-videovigilancia-formacion-tecnicos
 GNQ,GEX,Gestion de Expedientes,staff,,CNIAPGE,,2025-07-16-gnq-realeg-cniapge-forma-funcionarios-gex
+GNQ,CNIAPGE,Centro Nacional para la Informatizacion de la Administracion Publica,staff,,Government of Equatorial Guinea,,2026-10-08-gnq-continuan-las-comparecencias-de-los-miembros-del-gobierno-en-la-comisi
 KEN,Digital Literacy Programme Phase II,Kenya,other,,ICT Authority,,2026-09-16-techafricanews-kenya-digital-literacy-phase-ii-devices
 KEN,Digital Superhighway,Kenya,other,,ICT Authority,,2026-09-04-kenya-ag-opinion-digital-superhighway-quashed
 KEN,Digital Superhighway,Kenya,other,,ICT Authority,,2026-09-07-kenya-cofek-high-court-quashes-ag-opinion-nightigale
@@ -233,6 +235,8 @@ MLI,Mali national fibre-optic backbone (SMTD-SA),Mali,other,fibre-optic backbone
 MLI,AGETIC data centre,AGETIC data centre,staff,"IaaS, SaaS, backup, DR site",AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MLI,SMTD data centre,SMTD data centre,other,"colocation, IaaS, SaaS, backup",Societe malienne de transmission et de diffusion (SMTD),Tier III upgrade in progress,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MLI,SIGRH,Système intégré de gestion des ressources humaines,other,,Government of Mali,,2023-11-02-mli-operation-d-identification-des-agents-de-la-fonction-publique-de-l-eta
+MLI,AGETIC,Mali,staff,,Ministry of Communication and Digital Economy,,2025-12-30-mli-agetic-le-ministre-de-la-communication-felicite-l-agence-pour-la-bonne
+MLI,AGETIC,Mali,staff,,Ministry of Communication and Digital Economy,,2025-02-14-mli-mali-le-budget-de-l-agetic-s-eleve-a-pres-de-3-milliards-de-fcfa-en-20
 MOZ,Huawei-built data centre (Mozambique),Huawei-built data centre,other,data centre,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
 MOZ,CloudGov,CloudGov,staff,"file storage, sharing and synchronisation",INAGE,public administration institutions,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
 MOZ,e-SNGD,Sistema Nacional de Gestao Documental,other,,INAGE,,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos

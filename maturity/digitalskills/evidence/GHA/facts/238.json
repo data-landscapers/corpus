@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-30-gha-digital-skills-for-the-visually-impaired-in-ghana-from-training-instru",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "ITU Academy reports GIFEC trained more than 474 visually impaired citizens from the 13 regions where its Community ICT Centres are based between 18 March and 9 April 2024, with 120 more planned for June.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Introduction to Computer Basics for the Visually Impaired (ICBVI)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ICBVI",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "Community ICT Centres",
+   "owner": "GIFEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

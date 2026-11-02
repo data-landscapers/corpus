@@ -1,0 +1,66 @@
+{
+ "slug": "2026-10-08-gnq-continuan-las-comparecencias-de-los-miembros-del-gobierno-en-la-comisi",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "CNIAPGE, the national centre for computerising the public administration, reported digitising administrative processes in public institutions, developing web pages for 13 departments and hosting the Sidunea platform in its data centre in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "CNIAPGE",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "CNIAPGE reported that it set up a platform for reporting corruption cases in the public administration and developed a module for managing passive classes, with no contractor named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Corruption reporting platform",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "CNIAPGE reported maintaining the Registro Civil platform, with no contractor named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Registro Civil platform",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "CNIAPGE reported maintaining the Boletin Oficial del Estado platform, with no contractor named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Boletin Oficial del Estado platform",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "CNIAPGE reported maintaining the platform for managing and tracing administrative files, with no contractor named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Administrative file management and traceability platform",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIAPGE",
+   "country_label": "Centro Nacional para la Informatizacion de la Administracion Publica",
+   "class": "staff",
+   "platform": "",
+   "owner": "Government of Equatorial Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

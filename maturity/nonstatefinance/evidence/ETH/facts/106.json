@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-18-eth-ethiopia-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The US Commerce guide says the Safaricom Telecommunications Ethiopia consortium committed to invest $8 billion over ten years in communication infrastructure and began operations in October 2022.",
+   "as_of": "2022-10",
+   "date_precision": "month",
+   "system": "Safaricom Telecommunications Ethiopia",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

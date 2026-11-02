@@ -9,10 +9,10 @@
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-001",
-      "gaps": "R-CUN's 450 trained in two editions are not placed in more than one location; the third edition's nationwide courses were planned, not reported. No source found since October 2023 gives a measured share of people with basic digital skills.",
-      "note": "ANSUTEN's R-CUN programme trained 450 people in two editions and launched a third for 1,500 in October 2025. No source places the counted training in more than one location, so not stage 3.",
-      "as_at": "2026-11-01"
+      "stage_sources": "GIN-001;GIN-005",
+      "gaps": "R-CUN's trainees, more than 3,200 since 2022 by ANSUTEN's count of October 2026 (GIN-005), are not placed in more than one location; the training runs through ANSUTEN's Hub numérique. No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "ANSUTEN's R-CUN programme had trained more than 3,200 people by October 2026 and launched a fourth edition. No source places the counted training in more than one location, so not stage 3.",
+      "as_at": "2026-11-02"
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-09-11-tun-erembusiness-hmissi-tunisie-numerique-2030",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "Minister Hmissi says the government is preparing the National Digital Economy Strategy 2026-2030 (Tunisie numerique 2030) within the Tunisia 2030 national development plan, on five axes including public service digitalisation and digital sovereignty.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "National Digital Economy Strategy 2026-2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2025",
+   "fact": "Minister Hmissi says Tunisia had a 2021-2025 digital strategy, which has ended and is being evaluated while the 2030 document is drawn up.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "Digital Tunisia strategy 2021-2025",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Economy Strategy 2026-2030",
+   "country_label": "Tunisie numerique 2030",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Tunisia strategy 2021-2025",
+   "country_label": "Tunisie numerique 2021-2025",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

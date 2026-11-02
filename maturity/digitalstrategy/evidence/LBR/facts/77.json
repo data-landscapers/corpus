@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-lbr-undp-supports-liberia-s-national-digital-strategy",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "UNDP's Chief Digital Officer celebrated the launch of Liberia's National Digital Strategy at the Liberia Technology Summit, convened by the Ministry of Post and Telecommunications and the Liberia Telecommunications Authority.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "Liberia National Digital Strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia National Digital Strategy",
+   "country_label": "Liberia",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Post and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

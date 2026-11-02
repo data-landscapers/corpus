@@ -2,7 +2,7 @@
 
 ## National strategy
 
-**Governance and finance.** The [Paradigm Initiative report](<https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/>) names the ICT ministry as the strategy's lead institution.
+**Governance and finance.** The [Paradigm Initiative report](<https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/>) names the ICT ministry as the strategy's lead institution. On 31 March 2026 the ICT minister said the [ministry's N$682 million appropriation for 2026/27 will support implementation of the strategy](<https://thebrief.com.na/2026/04/mict-tables-n682m-budget-to-drive-digital-rollout-and-cybersecurity-push/>), alongside its operations.
 
 **Standing.** [The Namibian](<https://www.namibian.com.na/govt-launches-new-digital-emergency-telecommunications-plans/>) reports that the ICT minister officially launched the National Digital Strategy 2025-2029 on 5 August 2025.
 
@@ -18,4 +18,4 @@
 
 ***Also on file***. Plans: [Sixth National Development Plan](<https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf>); [CRAN Strategic Plan (2023-2026)](<https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/>); [MICT Strategic Plan 2025-2030](<https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/>); [Digital Government Strategic Roadmap 2024-2026](<https://www.telecomreviewafrica.com/articles/features/28266-towards-a-5g-enabled-digitalized-namibia-in-2026/>). Projects: [Namibia Smart City pilot project](<https://thebrief.com.na/2026/07/china-commits-n245m-to-namibia-smart-city-project/>).
 
-***Not found***. No source names the body or act that adopted the strategy, and no cost or financing has been found. No progress report on it has been found.
+***Not found***. No source names the body or act that adopted the strategy, and no costed delivery plan has been found. No progress report on it has been found.

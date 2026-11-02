@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "no evidence",
-      "training": "",
+      "stage": "2",
+      "training": "underway",
       "measured": "",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the public is taught digital skills.",
-      "note": "No row on digital skills of the public is held for the country, so no stage is set.",
-      "as_at": "2026-10-31"
+      "stage_sources": "SYC-001",
+      "gaps": "No programme teaching the public digital skills has been found in service; the strategy's digital literacy programmes are to start in 2027. No survey share of people with basic digital skills has been found.",
+      "note": "The approved Seychelles Digital and AI Strategy includes digital literacy programmes, with first initiatives expected in 2027 and early 2028, a programme in preparation, so stage 2. None is reported in service with a count of people trained, so not stage 3.",
+      "as_at": "2026-11-02"
     }
   ]
 }

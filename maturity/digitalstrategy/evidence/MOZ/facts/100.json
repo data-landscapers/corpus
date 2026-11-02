@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-13-moz-quadros-discutem-primeira-versao-da-estrategia-nacional-de-transformac",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "INTIC, with ITU support, held a 12-13 March 2026 technical workshop in Maputo to prepare the draft zero of the National Digital Transformation Strategy, ahead of a national consultation.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Estrategia Nacional de Transformacao Digital de Mocambique",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Estrategia Nacional de Transformacao Digital",
+   "country_label": "Mozambique",
+   "class": "national",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

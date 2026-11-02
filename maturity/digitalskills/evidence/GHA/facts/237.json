@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-14-gha-one-million-coders-programme-can-government-achieve-its-target",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "MyJoyOnline says the government's One Million Coders Programme trained 859 people in its pilot across four regions and in Phase Two has 16 regional centres, with about 30,000 enrolled as of 10 May 2026.",
+   "as_of": "2026-05-10",
+   "date_precision": "day",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders Programme",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "online, self-paced and face-to-face centres",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-08-zwe-potraz-trains-visually-impaired-professionals-in-masvingo",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "POTRAZ's director general said its digital skills programme for visually impaired people, begun in 2023, had trained 549 participants across the country, including 48 at a Masvingo workshop.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "POTRAZ digital skills training for persons with disabilities",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ digital skills training for persons with disabilities",
+   "country_label": "Zimbabwe",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

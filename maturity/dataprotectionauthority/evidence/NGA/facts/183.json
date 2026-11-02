@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-30-nga-rogue-actors-exploiting-data-nji-ndpc-judicial-capacity",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "TheNigeriaLawyer reports that the Nigeria Data Protection Commission, led by Commissioner and CEO Dr Vincent Olatunji, is the statutory authority regulating data privacy and is acting.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "fact": "NDPC chief Olatunji said the commission had investigated more than 240 breach cases, issued over 20 major remediation orders and named more than 1,900 non-compliant organisations in public notices, over about three years.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "Nigeria",
+   "class": "authority",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

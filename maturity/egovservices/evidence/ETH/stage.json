@@ -4,15 +4,15 @@
     {
       "sub_indicator": "eservices",
       "stage": "4",
-      "services": "underway",
+      "services": "inservice",
       "gateway": "single",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-006",
-      "gaps": "No source found dated inside the window counts ten or more services online, and none gives users, applications or transactions through a national portal.",
-      "note": "National ID Ethiopia's May 2026 deck describes MESOB as a Fayda-based digital one-stop shop for e-government services, which answers the gateway question and the earlier ones. No count of users or transactions through it has been found.",
-      "as_at": "2026-10-23"
+      "stage_sources": "ETH-006;ETH-008",
+      "gaps": "No source gives users, applications or transactions through a national portal.",
+      "note": "The US Commerce guide counts more than 130 services digitised across 25 providers in 2024 (ETH-008), and National ID Ethiopia's May 2026 deck describes MESOB as a Fayda-based one-stop shop for e-government services (ETH-006). No count of users or transactions through it has been found, so not stage 5.",
+      "as_at": "2026-11-02"
     }
   ]
 }

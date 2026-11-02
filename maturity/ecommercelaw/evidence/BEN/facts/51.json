@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-02-ben-compte-rendu-du-conseil-des-ministres-du-02-juil-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "Benin's Council of Ministers adopted on 2025-07-02 eight implementing decrees of the Code du numerique, including decrees on conditions for electronic archiving service providers and on technical specifications and assurance levels for electronic identification schemes.",
+   "as_of": "2025-07-02",
+   "date_precision": "day",
+   "system": "Code du numerique implementing decrees",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "The document does not itself say the Code covers electronic transactions or online selling."
+}

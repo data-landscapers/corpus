@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-19-tun-comite-general-du-controle-des-depenses-publiques-la-strategie-digital",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "La Presse reports a ministry representative, Naoufel Bouzid, describing at a public-expenditure controllers' meeting on 18 November 2025 the national digital strategy as having six axes: digital administration, digital economy and innovation, infrastructure and connectivity, skills, legal framework and regulation, and digital security and data governance; no adoption, text or costing is stated.",
+   "as_of": "2025-11-18",
+   "date_precision": "day",
+   "system": "Stratégie digitale nationale",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie digitale nationale",
+   "country_label": "TUN",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

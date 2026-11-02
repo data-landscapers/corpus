@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-16-civ-decisions-autorite-de-protection",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The Autorite de protection's decisions register lists decision no. 2024-0996 of 16 January 2024 giving a warning and formal notice to the ministry METFPA and the company Kaydan Groupe on data protection.",
+   "as_of": "2024-01-16",
+   "date_precision": "day",
+   "system": "Autorite de protection (ARTCI)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Autorite de protection's own register lists its normative, authorisation and sanction decisions from 2016 to January 2024 under loi no. 2013-450.",
+   "as_of": "2024-01-16",
+   "date_precision": "day",
+   "system": "Autorite de protection (ARTCI)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de protection (ARTCI)",
+   "country_label": "Cote d'Ivoire",
+   "class": "authority",
+   "platform": "",
+   "owner": "ARTCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

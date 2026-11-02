@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-18-eth-ethiopia-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The US Commerce guide says the government has digitised more than 130 services across 25 service providers through portals including e-service.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "e-service portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-service portal",
+   "country_label": "e-service portal",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

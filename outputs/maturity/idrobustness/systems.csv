@@ -23,6 +23,7 @@ BDI,Biometric national identity card,Burundi,idsystem,,Ministry of the Interior,
 BDI,Carte nationale d'identite biometrique,Burundi,idsystem,,Ministry of the Interior,,2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis
 BDI,digital identity system in pilot communes,Burundi,idsystem,,Ministry of Interior,,2024-07-08-bdi-abp-validation-etude-systeme-identification
 BDI,National digital ID pilot,Burundi,idsystem,,Ministry of Interior,,2026-03-30-bdi-the-lack-of-digital-id-systems-threatens-the-digital-economy-of-burund
+BDI,national digital identity system,Burundi,idsystem,,"Ministry of Finance, Budget and Digital Economy",,2026-06-18-bdi-le-budget-de-l-etat-exercice-2026-2027-fixe-a-7-020-6-milliards-de-bif
 BEN,Carte nationale d'identité biométrique (ECOWAS standard),Benin,idsystem,,,,2026-06-03-carte-identite-biometrique-cedeao-medias
 BEN,ANIP identity system,Benin,idsystem,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,NPI,Benin,idsystem,,,,2026-10-03-ben-gouv-preuve-de-vie-biometrique-pensionnes
@@ -101,6 +102,7 @@ COD,ONIP biometric identity card,RDC,idsystem,Afritech/Idemia,ONIP,,2024-09-04-c
 COD,Fichier general de la population (FGP),RDC,other,,ONIP,,2024-08-11-cod-acp-etat-civil-communication-onip-fgp
 COD,Carte d'identite nationale,Democratic Republic of the Congo,idsystem,,ONIP,,2026-06-01-cod-decret-n-25-037-du-17-novembre-2025-modifiant-et-completant-le-decret
 COD,RDC-PASS,DRC,idsystem,,Government with Trident Digital Tech Holdings (PPP),,2026-07-07-cod-rdc-l-operationnalisation-des-autorites-competentes-recommandee-pour-l
+COD,RDC-Pass,COD,idsystem,,Ministere de l'Economie numerique,,2026-10-30-cod-rdc-pass-les-agents-denregistrement-bientot-deployes-dans-les-quartier
 COG,Carte nationale d'identite informatisee et securisee,COG,idsystem,,Ministry of Interior,,2024-11-21-decret-2024-2692-carte-nationale-identite-informatisee
 COG,passeport biometrique / titre de voyage de refugie (decret 2020-601),COG,other,,Ministry of Foreign Affairs,,2026-02-07-aci-remise-passeports-biometriques-aux-refugies
 COG,Numéro d'Identification Unique (NIU),Congo,idsystem,,Ministère des Finances,,2025-10-23 Congo relaunches NIU biometric unique-ID card production
@@ -125,6 +127,7 @@ DJI,Mobile ID,Djibouti,other,smartphone app,Ministry of Interior,,2026-02-10-mob
 DJI,Mobile ID,Djibouti,idsystem,smartphone and unique digital identifier,Interior Ministry,,2026-02-10-mobile-id-launch-wearetech
 DJI,Mobile ID,Djibouti,other,smartphone app,Ministry of Interior,,2026-02-09-mobile-id-national-digital-identity-forum-lanation
 DJI,Smart Wallet,Djibouti,other,"Visa, Tech5",Ministry of Digital Economy and Innovation,,2025-09-22-visa-tech5-smart-wallet-biometricupdate
+DJI,Mobile ID,DJI,other,smartphone,ANSIE,,2024-10-01-dji-note-conceptuelle-lancement-du-mobile-id
 DZA,Algerian digital identity (dzds.dz),Algeria,idsystem,dzds.dz,High Commission for Digitalisation with the Interior ministry,,2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details
 DZA,unified national digital identity,Algeria,idsystem,,Haut Commissariat a la Numerisation,,2026-08-12-algeria-sports-platforms-unified-digital-identity
 DZA,carte nationale d'identite biometrique,Algeria,idsystem,,,,2026-04-05-vehicle-registration-fully-digital-elmoudjahid
@@ -194,6 +197,7 @@ GHA,Ghana Card,Ghana,idsystem,,National Identification Authority,,2024-10-08-gha
 GHA,Ghana Card / National Identification System,National Identification System,idsystem,,National Identification Authority,,2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver
 GHA,NIA national ID,Ghana,idsystem,,National Identification Authority,,2025-09-16-gha-kessben-nia-mandate-biometric-verification-amendments
 GHA,Ghana Card,Ghana,idsystem,,National Identification Authority,,2026-02-26-gha-moc-keynote-national-data-protection-conference-2026
+GHA,Ghana Card,GHA,idsystem,,National Identification Authority,,2026-11-01-gha-nia-taskforce-launches-nationwide-crackdown-on-ghana-card-photocopying
 GIN,FUGAS,Guinea,other,,Ministry of Labour,,2025-11-30 Guinea Claims $26.9M Saved Since 2024 with Biometric Audit of Public Workforce (FUGAS)
 GIN,Etat civil biometrique,Guinea,idsystem,,,,2026-07-28-guinee-mgg-denonce-racket-etat-civil-biometrique
 GIN,Registre national des personnes physiques (RNPP),Guinea,idsystem,,ONECI / MATD,,2026-03-29-plfi-2026-matd-commission-des-lois-cnt
@@ -512,6 +516,7 @@ TUN,Biometric national identity card,Tunisia,idsystem,,Ministry of Interior,,202
 TUN,Carte nationale d'identité (chip card),Tunisia,idsystem,,Ministry of the Interior specialized services,,2024-03-11-loi-organique-2024-22-carte-identite-nationale
 TUN,Identifiant Unique Citoyen (IUC) register,Tunisia,idsystem,,Ministry of the Interior,,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases
 TUN,registre national de l'identifiant unique,Tunisia,idsystem,,Centre national de l'informatique,,2026-01-06-tun-tunisie-le-centre-national-de-l-informatique-celebre-50-ans-au-cur-de
+TUN,projet national d'identité numérique,identité numérique,idsystem,,Ministère des Technologies de la communication,,2025-11-24-tun-le-budget-des-technologies-fixe-a-plus-de-197-mdt
 TZA,National Identification Number and national identity card,Tanzania,idsystem,,NIDA (Ministry of Home Affairs),,2026-05-22-national-ids-stay-under-centralised-printing
 TZA,Jamii Namba,Tanzania,idsystem,,NIDA,,2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project
 TZA,National ID System,Tanzania,idsystem,,NIDA,,2026-04-18-nida-executes-national-id-expansion-project-ii

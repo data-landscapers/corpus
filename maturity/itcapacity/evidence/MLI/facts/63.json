@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-30-mli-agetic-le-ministre-de-la-communication-felicite-l-agence-pour-la-bonne",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The minister said AGETIC was created to design and develop the administration's ICT infrastructure and applications, and in 2025 it extended and maintained the intranet to new structures.",
+   "as_of": "2025-12-29",
+   "date_precision": "day",
+   "system": "AGETIC",
+   "class": "inhouse"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGETIC",
+   "country_label": "Mali",
+   "class": "staff",
+   "platform": "",
+   "owner": "Ministry of Communication and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -21,8 +21,8 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 8 |
-| 3 Established | 22 |
+| 4 Operating | 9 |
+| 3 Established | 21 |
 | 2 Nascent | 9 |
 | 1 Absent | 7 |
 | Unplaced | 2 |
@@ -89,6 +89,13 @@ Botswana has an authority, and in July 2026 it ruled against a government body; 
 - Mmegi reports that the Information and Data Protection Commission issued a determination and enforcement order finding the DPSM E-Payslip portal not fully compliant with the Data Protection Act No. 18 of 2024, and DPSM suspended the portal on 22 July 2026 ([source, 2026-07-22](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news)).
 - In a public notice dated 17 July 2026 the Information and Data Protection Commission issued a Determination and an Enforcement Notice against DPSM for contraventions of the Data Protection Act No. 18 of 2024, ordering the ePayslip portal suspended and a DPIA and revised privacy notice submitted within one month, with an administrative fine possible for non-compliance ([source, 2026-07-17](https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/)).
 - The Information and Data Protection Commission is acting: it reviewed the E-Payslip portal, issued a determination and enforcement order, and guided DPSM through compliance in July 2026 ([source, 2026-07](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news)).
+
+### Cote d'Ivoire: 4 Operating
+
+Côte d'Ivoire's data protection authority warned two named bodies with a formal notice in January 2024; no published count of its decisions is known.
+
+- The Autorite de protection's decisions register lists decision no. 2024-0996 of 16 January 2024 giving a warning and formal notice to the ministry METFPA and the company Kaydan Groupe on data protection ([source, 2024-01-16](https://www.autoritedeprotection.ci/decisions/)).
+- ARTCI, styling itself the Autorité de Protection des Données Personnelles, issued a communique on 3 August 2026 inviting controllers to use CERTINUM, which it says it launched on 2 July 2026, so the body is acting as the authority ([source, 2026-08-03](https://artci.ci/lartci-invite-les-entreprises-a-privilegier-la-plateforme-certinum/)).
 
 ### Eswatini: 4 Operating
 
@@ -169,13 +176,6 @@ Congo has had a data protection commission since January 2026; no ruling against
 
 - TechAfrica News reports that the National Personal Data Protection Commission was inaugurated after its members were appointed under Decree No. 2025-538 of 31 December 2025, and that its President, Vice President and Rapporteur were elected at the inaugural meeting ([source, 2026-01](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/)).
 - ITWeb Africa reports that Congo-Brazzaville has established a National Personal Data Protection Commission, whose members were installed by ICT minister Leon Juste Ibombo, who described it as an independent body able to advise, warn and sanction ([source, 2026-01-22](https://itweb.africa/article/congo-brazzaville-intros-data-protection-commission/)).
-
-### Cote d'Ivoire: 3 Established
-
-In 2026 Côte d'Ivoire's telecoms regulator acts as its data protection authority; no ruling against an organisation or published figures are known.
-
-- ARTCI, styling itself the Autorité de Protection des Données Personnelles, issued a communique on 3 August 2026 inviting controllers to use CERTINUM, which it says it launched on 2 July 2026, so the body is acting as the authority ([source, 2026-08-03](https://artci.ci/lartci-invite-les-entreprises-a-privilegier-la-plateforme-certinum/)).
-- The ALT Advisory fact sheet says Law No. 2013-450 gives enforcement responsibilities to ARTCI, that a data protection authority is appointed, with 7 members serving up to 6 years; the page gives no date for the facts, so its published date is used ([source, 2022-05-23](https://dataprotection.africa/cote-divoire/)).
 
 ### DR Congo: 3 Established
 

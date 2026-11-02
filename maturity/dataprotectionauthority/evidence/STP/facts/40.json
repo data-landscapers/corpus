@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-24-stp-agencia-nacional-de-protecao-de-dados-pessoais-celebra-8o-aniversario",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "RSTP states that Sao Tome and Principe approved its general data protection law in 2016 and the law on the organisation and functioning of the data protection authority in 2017.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Agencia Nacional de Protecao de Dados Pessoais (ANPDP)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "RSTP reports that the ANPDP, headed by director Jose Costa Alegre, held a workshop on 24 April 2026 for its eighth anniversary and is described as the supervisory body.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "Agencia Nacional de Protecao de Dados Pessoais (ANPDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agencia Nacional de Protecao de Dados Pessoais (ANPDP)",
+   "country_label": "Sao Tome and Principe",
+   "class": "authority",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

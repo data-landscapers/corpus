@@ -71,6 +71,7 @@ A single government gateway with shared sign-in was in service in 2026; its use 
 A one-stop digital platform for government services with national ID sign-in ran in 2026; no source found says how many use it.
 
 - National ID Ethiopia's deck describes Mesob as a Fayda-based digital one-stop shop for e-government services, listed with agriculture and health services ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
+- The US Commerce guide says the government has digitised more than 130 services across 25 service providers through portals including e-service ([source, 2024](https://www.trade.gov/country-commercial-guides/ethiopia-digital-economy)).
 
 ### Seychelles: 4 Operating
 

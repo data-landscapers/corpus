@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-30-nga-rogue-actors-exploiting-data-nji-ndpc-judicial-capacity",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NJI Administrator Justice Adejumo described the Nigeria Data Protection Act, 2023 as a vital legal framework in use, and the NDPC chief cited its section 50 on judicial review of Commission orders.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "TheNigeriaLawyer reports the Nigeria Data Protection Commission under CEO Dr Vincent Olatunji acting as the statutory regulator.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "reported",
+   "fact": "NDPC chief Olatunji said the commission had issued over 20 major remediation orders, investigated more than 240 breach cases and named more than 1,900 non-compliant organisations, over about three years.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

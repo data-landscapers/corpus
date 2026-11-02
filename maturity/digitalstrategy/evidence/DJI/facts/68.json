@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-14-dji-the-driving-force-for-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "plan",
+   "value": "costed",
+   "fact": "Minister Mariam Hamadou Ali says the national 'Smart Nation' strategy includes 150 projects valued at $850 million.",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "Smart Nation",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Nation",
+   "country_label": "Djibouti",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Digital Economy and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

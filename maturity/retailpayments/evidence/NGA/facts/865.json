@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-31-nga-verve-plans-phone-tap-to-pay-and-ai-agent-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The NIBSS Instant Payment system processed about 11.2 billion transactions worth N1.07 quadrillion in 2024, the latest full-year figure from the Nigeria Inter-Bank Settlement System, per TechCabal.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NIBSS Instant Payment",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIBSS Instant Payment",
+   "country_label": "NIBSS Instant Payment (NIP)",
+   "class": "retail",
+   "platform": "",
+   "owner": "Nigeria Inter-Bank Settlement System",
+   "tiers": ""
+  },
+  {
+   "system": "Verve",
+   "country_label": "Verve card scheme",
+   "class": "other",
+   "platform": "",
+   "owner": "Interswitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

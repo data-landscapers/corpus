@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-14-mli-mali-le-budget-de-l-agetic-s-eleve-a-pres-de-3-milliards-de-fcfa-en-20",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "AGETIC continued work on the administration intranet, including maintenance and extension of the network to new structures and deploying applications.",
+   "as_of": "2025-02-06",
+   "date_precision": "day",
+   "system": "Intranet de l'Administration",
+   "class": "inhouse"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "AGETIC, the state ICT agency, builds and runs the administration intranet and applications interconnecting public services.",
+   "as_of": "2025-02-06",
+   "date_precision": "day",
+   "system": "AGETIC",
+   "class": "inhouse"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGETIC",
+   "country_label": "Mali",
+   "class": "staff",
+   "platform": "",
+   "owner": "Ministry of Communication and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

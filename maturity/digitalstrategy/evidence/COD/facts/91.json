@@ -1,0 +1,46 @@
+{
+ "slug": "2023-12-17-cod-rdc-voici-le-tout-premier-rapport-d-avancement-mi-parcours-du-plan-nat",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ADN's first evaluation report says the government adopted the Plan National du Numerique Horizon 2025 in its programme of actions (Pilier 9, axe 42), the plan having been validated on 5 September 2019.",
+   "as_of": "2023-09-30",
+   "date_precision": "day",
+   "system": "Plan National du Numerique Horizon 2025",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2025",
+   "fact": "The plan is named Plan National du Numerique 'Horizon 2025' by ADN, which evaluated it as at 30 September 2023.",
+   "as_of": "2023-09-30",
+   "date_precision": "day",
+   "system": "Plan National du Numerique Horizon 2025",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "reporting",
+   "value": "results",
+   "fact": "ADN's first evaluation report, published December 2023, says that of 69 projects in the plan 33 have started (15 complete, 18 in operationalisation) and that at 66% of the time the plan shows 48% realisation.",
+   "as_of": "2023-09-30",
+   "date_precision": "day",
+   "system": "Plan National du Numerique Horizon 2025",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plan National du Numerique Horizon 2025",
+   "country_label": "RDC",
+   "class": "national",
+   "platform": "",
+   "owner": "Government; evaluated by ADN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

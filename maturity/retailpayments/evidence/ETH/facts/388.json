@@ -1,0 +1,44 @@
+{
+ "slug": "2024-09-18-eth-ethiopia-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The US Commerce guide says Ethio Telecom's Telebirr mobile money, launched in 2021, lets users send money, pay merchants and withdraw cash, with 41 million subscribers.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Telebirr",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The guide says Safaricom introduced m-Pesa in Ethiopia in August 2023 and had 3.1 million users by January 2024.",
+   "as_of": "2023-08",
+   "date_precision": "month",
+   "system": "m-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telebirr",
+   "country_label": "Telebirr",
+   "class": "retail",
+   "platform": "",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "m-Pesa",
+   "country_label": "m-Pesa",
+   "class": "retail",
+   "platform": "",
+   "owner": "Safaricom Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-14-dji-the-driving-force-for-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Minister Ali says Djibouti is a major hub in the global undersea network, with twelve undersea cables linking the country to various continents.",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "undersea cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

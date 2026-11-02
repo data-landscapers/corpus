@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-tza-digital-shift-boosts-access-to-sh42-6-trillion-tender-market",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Citizen reports the PPRA's NeST Tenderer mobile app lets users register, apply for tenders and track payments, alongside the NeST web system in operation since September 2023.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "NeST",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NeST Tenderer",
+   "country_label": "Tanzania",
+   "class": "eservices",
+   "platform": "mobile app",
+   "owner": "Public Procurement Regulatory Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

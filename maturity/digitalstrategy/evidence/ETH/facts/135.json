@@ -1,0 +1,46 @@
+{
+ "slug": "2024-09-18-eth-ethiopia-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The US Commerce guide says the Government of Ethiopia launched the national digital transformation strategy Digital Ethiopia 2025 in June 2020.",
+   "as_of": "2020-06",
+   "date_precision": "month",
+   "system": "Digital Ethiopia 2025",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2025",
+   "fact": "The guide says Digital Ethiopia 2025 aims to digitise the economy by 2025.",
+   "as_of": "2020-06",
+   "date_precision": "month",
+   "system": "Digital Ethiopia 2025",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "last12",
+   "value": "no-change",
+   "fact": "The guide says that as of late 2024 there had been no update or new plans announced for Digital Ethiopia 2025.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Digital Ethiopia 2025",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Ethiopia 2025",
+   "country_label": "Digital Ethiopia 2025",
+   "class": "national",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
