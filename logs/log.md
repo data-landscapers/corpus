@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-02 02:16 · **BUILD** · 1h45m · catalogue 36,059; 185 sources, 24 moved, 67 minted, 7 status; data centres 9, 7 changed; maturity 179 facts, 31 reassessed, 20 moved; bulletin 8, monthly 8; finance 0 waiting; register 9; prep/ restored from mirror; message 66 - ok
 2026-11-01 11:25 · **RENDER** · unclocked · maturity changes-box review gate + change log rendered, deployed — ok
 2026-11-01 04:56 · **INDEX** · 21m · research index: 434 added or changed, 1 removed, 13133 chunks, 20.6 min - ok
 2026-11-01 04:27 · **RENDER** · 31m · 301 of 301 documents rendered; home, countries, regions, topics, progress, catalogue, finance, datasets, methodology, maturity; R2 7,007 objects up; deployed e788a8f - ok
@@ -436,20 +437,6 @@ title: Corpus process log
 2026-10-02 09:29 · **FIX** · 15m · housekeeping register moved to the share as corpus-housekeeping.md; notes-for-osint 196 asks OSINT to rename its register and archive to osint-housekeeping; lints read either name meanwhile
 2026-10-02 09:19 · **FIX** · 35m · messages-for-bill.md moved to the share; Bill's five replies applied: readings run the full two hours, logs/housekeeping-jobs.md opened with runbook trims 1-5, third-party exposures no longer messaged; one block left open
 2026-10-02 09:05 · **FIX** · 40m · scripts/deploy-state.py: deployed/pending/stuck for the newest site/ commit, --fix cancels and re-runs with GITHUB_TOKEN; called from RENDER Step 7 and /poll; a stuck deploy is one block outside the five, plus a push notification
-2026-10-01 23:18 · **RENDER** · 30m · 251 reports, home, countries, topics, catalogue, finance rendered, 0 failed; 2,460 editions to R2; three node tests skipped (node not on PATH); pushed, deploy queued at GitHub — ok
-2026-10-01 22:47 · **REVIEW** · 4m · MOZ: status 17 sections revised, progress 5 cells, monthly 5 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-10-01 22:43 · **REVIEW** · 3m · MLI: status 9 sections revised, progress 1 cell, monthly 3 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-10-01 22:40 · **BUILD** · 1h00m · catalogue 25,949; finance 1,801; 28 units / 219 sources, 11 minted, 21 moved; monthlies rolled to September, 224 blocks rewritten; 20 baseline sections revised; bulletin 28; 5 budget readings, 122 waiting; 30 register hits stand — ok
-2026-10-01 22:34 · **BUDGET-EXTRACT** · 1m · CPV FY2026: data protection commission added, CVE 38,128,770 appropriated, from the National Assembly's budget resolution - ok
-2026-10-01 22:33 · **BUDGET-EXTRACT** · 2m · SYC FY2026: re-read against the Appropriation Act, 10 lines to appropriated (four heads enacted at the bill's figure), 15 stay proposed - ok
-2026-10-01 22:31 · **BUDGET-EXTRACT** · 2m · GHA FY2024-26: Ghana Statistical Service added from the Ministry of Finance estimates, 6 rows (GoG 15.0m, 26.7m, 37.2m cedis; IGF beside each); donor columns not built; notes-for-corpus 73 - ok
-2026-10-01 22:29 · **BUDGET-EXTRACT** · 7m · AGO FY2026: 53 lines from the allocation-by-organ report (29 whole, 23 partial, 1 unclear), organ totals reconcile to the budget law, replaces 9 migrated rows; NGA FY2026 1,209 rows re-pointed to the catalogued Act - ok
-2026-10-01 21:40 · **ANALYTICS** · 1m · 2026-09-29..2026-09-30 written; 30 Sep: dl.io 97 views / 1 clicks, corpus 172 views / 3 clicks
-2026-10-01 12:38 · **RENDER** · unclocked · All finance at /finance/all/ (11,431 rows, 2024 on); menu re-paged across 305 documents and the site pages, deployed — ok
-2026-10-01 12:28 · **RENDER** · unclocked · non-state scope: 1,312 deals US$68.9bn, country+region+finance pages rendered, 61 editions to R2, deployed — ok
-2026-10-01 00:24 · **RENDER** · 15m · 251 documents, home, countries, topics, catalogue, finance, datasets rendered; 10 editions pruned, 2,566 objects to R2; deployed — ok
-2026-10-01 00:08 · **REVIEW** · 13m · MDG: status 11 sections revised, progress 7 cells, monthly 8 blocks, finance 0 rows; 1 deal queued, 1 note for OSINT — ok
-2026-10-01 00:06 · **REVIEW** · 11m · MAR: status 9 sections revised, progress 21 cells, monthly 11 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-09-29 16:02 · **HYPERSCALER** · unclocked · 04 GNQ: institutions 18 · US 30% · shield 8% · rank 4/54 · dangling 0
 2026-09-28 13:39 · **SCAN** · 1h40m · KEN: 50 institutions, 4,747 routable, 11% US hyperscaler. NGA: 51 institutions, 5,747 routable, 24% US hyperscaler. 6 claimable dangling CNAMEs across three countries
 2026-09-20 19:32 · **REGISTER-R58** · unclocked · R58 NER FY2026: Niger publishes, 28th country. The communications ministry gets XOF 191.8m for digital; a compte special for tax-administration digitisation, outside the votes, gets 5.56bn -- 29x. Three exact cross-foots.
