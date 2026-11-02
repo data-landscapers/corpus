@@ -1,6 +1,6 @@
 ---
 title: Guinea-Bissau: finance
-compiled: 2026-10-30
+compiled: 2026-11-02
 place: GNB
 ---
 
@@ -10,7 +10,7 @@ place: GNB
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">35</td><td class="num">60</td><td class="num">25</td><td class="num">&lt;1</td><td class="num total">120</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num total">3</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
@@ -46,7 +46,7 @@ place: GNB
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">35</td><td class="num">60</td><td class="num">25</td><td class="num total">120</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num total">3</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num total">3</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">35</td><td class="num">60</td><td class="num">28</td><td class="num total">123</td></tr></tfoot>
 </table></div>

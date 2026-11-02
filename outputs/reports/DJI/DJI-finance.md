@@ -1,6 +1,6 @@
 ---
 title: Djibouti: finance
-compiled: 2026-11-01
+compiled: 2026-11-02
 place: DJI
 ---
 
@@ -13,15 +13,14 @@ place: DJI
 <tr><th scope="row">Connectivity</th><td class="num">66</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">66</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">20</td><td class="num">3</td><td class="num">3</td><td class="num">3</td><td class="num total">28</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">8</td><td class="num zero"></td><td class="num">20</td><td class="num zero"></td><td class="num total">28</td></tr>
-<tr><th scope="row">ICT Industry</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">6</td><td class="num zero"></td><td class="num">8</td><td class="num zero"></td><td class="num total">14</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">3</td><td class="num">3</td><td class="num zero"></td><td class="num total">6</td></tr>
-<tr><th scope="row">Energy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">119</td><td class="num">5</td><td class="num">34</td><td class="num">678</td><td class="num total">836</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/DJI/all-finance.html">Full table &mdash; 16 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/DJI/all-finance.html">Full table &mdash; 15 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/DJI/DJI-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -50,14 +49,13 @@ place: DJI
 <tr><th scope="row">Connectivity</th><td class="num">66</td><td class="num zero"></td><td class="num zero"></td><td class="num total">66</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">8</td><td class="num">20</td><td class="num zero"></td><td class="num total">28</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
-<tr><th scope="row">ICT Industry</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">6</td><td class="num">8</td><td class="num zero"></td><td class="num total">14</td></tr>
-<tr><th scope="row">Energy</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">119</td><td class="num">28</td><td class="num">675</td><td class="num total">822</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/DJI/finance.html">Full table &mdash; 11 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/DJI/finance.html">Full table &mdash; 10 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/DJI/DJI-nonstate-2026-10-05.csv" download>&darr; Download CSV</a>
 </div>

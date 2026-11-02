@@ -1,6 +1,6 @@
 ---
 title: Guinea: finance
-compiled: 2026-11-01
+compiled: 2026-11-02
 place: GIN
 ---
 
@@ -10,7 +10,8 @@ place: GIN
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">60</td><td class="num">380</td><td class="num">8</td><td class="num">12</td><td class="num total">461</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">15</td><td class="num">68</td><td class="num">14</td><td class="num total">97</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">55</td><td class="num">1</td><td class="num total">56</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">15</td><td class="num">14</td><td class="num">14</td><td class="num total">43</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">27</td><td class="num zero"></td><td class="num">2</td><td class="num total">29</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num">7</td><td class="num">12</td><td class="num">5</td><td class="num total">24</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num">1</td><td class="num zero"></td><td class="num">2</td><td class="num total">17</td></tr>
@@ -18,7 +19,6 @@ place: GIN
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">4</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
@@ -68,10 +68,9 @@ place: GIN
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">60</td><td class="num">373</td><td class="num zero"></td><td class="num zero"></td><td class="num total">433</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">54</td><td class="num zero"></td><td class="num total">54</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">54</td><td class="num zero"></td><td class="num total">54</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">27</td><td class="num zero"></td><td class="num zero"></td><td class="num total">27</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">14</td></tr>
-<tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">15</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">74</td><td class="num">400</td><td class="num">54</td><td class="num">&lt;1</td><td class="num total">529</td></tr></tfoot>

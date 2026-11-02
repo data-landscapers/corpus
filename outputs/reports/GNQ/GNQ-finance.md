@@ -1,6 +1,6 @@
 ---
 title: Equatorial Guinea: finance
-compiled: 2026-11-01
+compiled: 2026-11-02
 place: GNQ
 ---
 
@@ -10,9 +10,10 @@ place: GNQ
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">402</td><td class="num">3</td><td class="num zero"></td><td class="num">3</td><td class="num total">408</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">70</td><td class="num">7</td><td class="num">&lt;1</td><td class="num">3</td><td class="num total">81</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">70</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">70</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num">17</td><td class="num">4</td><td class="num">13</td><td class="num total">34</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">13</td><td class="num">1</td><td class="num">5</td><td class="num total">19</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">7</td><td class="num">&lt;1</td><td class="num">3</td><td class="num total">11</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">5</td><td class="num">2</td><td class="num">4</td><td class="num total">11</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num">3</td><td class="num">2</td><td class="num">3</td><td class="num total">8</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">2</td><td class="num total">6</td></tr>
@@ -20,7 +21,6 @@ place: GNQ
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Research institutions</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
@@ -67,7 +67,7 @@ place: GNQ
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">402</td><td class="num total">402</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">70</td><td class="num total">70</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">70</td><td class="num total">70</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">472</td><td class="num total">472</td></tr></tfoot>
 </table></div>

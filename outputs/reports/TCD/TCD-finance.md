@@ -1,6 +1,6 @@
 ---
 title: Chad: finance
-compiled: 2026-10-30
+compiled: 2026-11-02
 place: TCD
 ---
 
@@ -10,12 +10,12 @@ place: TCD
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">277</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">277</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num">92</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">93</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">93</td><td class="num zero"></td><td class="num">1</td><td class="num total">93</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">35</td><td class="num">2</td><td class="num">3</td><td class="num">8</td><td class="num total">48</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">12</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">12</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">324</td><td class="num">95</td><td class="num">4</td><td class="num">11</td><td class="num total">434</td></tr></tfoot>
 </table></div>
@@ -49,7 +49,7 @@ place: TCD
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">277</td><td class="num zero"></td><td class="num zero"></td><td class="num total">277</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num">92</td><td class="num zero"></td><td class="num total">92</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">92</td><td class="num zero"></td><td class="num total">92</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">35</td><td class="num zero"></td><td class="num">6</td><td class="num total">42</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">12</td><td class="num zero"></td><td class="num zero"></td><td class="num total">12</td></tr>
 </tbody>

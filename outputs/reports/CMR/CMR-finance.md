@@ -1,6 +1,6 @@
 ---
 title: Cameroon: finance
-compiled: 2026-10-30
+compiled: 2026-11-02
 place: CMR
 ---
 
@@ -10,8 +10,8 @@ place: CMR
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">720</td><td class="num zero"></td><td class="num zero"></td><td class="num">30</td><td class="num">279</td><td class="num">342</td><td class="num total">1,371</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">172</td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">28</td><td class="num">96</td><td class="num total">303</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num">42</td><td class="num zero"></td><td class="num zero"></td><td class="num">126</td><td class="num">83</td><td class="num">16</td><td class="num total">266</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">177</td><td class="num zero"></td><td class="num zero"></td><td class="num">126</td><td class="num">83</td><td class="num">16</td><td class="num total">401</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">37</td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">28</td><td class="num">96</td><td class="num total">168</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">18</td><td class="num total">18</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">16</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">17</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">14</td></tr>
@@ -60,8 +60,8 @@ place: CMR
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">720</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">225</td><td class="num">270</td><td class="num total">1,215</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num">42</td><td class="num zero"></td><td class="num zero"></td><td class="num">108</td><td class="num">66</td><td class="num zero"></td><td class="num total">216</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">172</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num zero"></td><td class="num total">184</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">177</td><td class="num zero"></td><td class="num zero"></td><td class="num">108</td><td class="num">66</td><td class="num zero"></td><td class="num total">351</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">37</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num zero"></td><td class="num total">49</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">16</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">16</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">14</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num total">12</td></tr>

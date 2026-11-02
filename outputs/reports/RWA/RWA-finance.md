@@ -1,6 +1,6 @@
 ---
 title: Rwanda: finance
-compiled: 2026-11-01
+compiled: 2026-11-02
 place: RWA
 ---
 
@@ -14,16 +14,16 @@ place: RWA
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">31</td><td class="num">11</td><td class="num">40</td><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">84</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num">14</td><td class="num">13</td><td class="num total">62</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">50</td><td class="num total">50</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">29</td><td class="num">14</td><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num total">47</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">7</td><td class="num">4</td><td class="num zero"></td><td class="num">6</td><td class="num">9</td><td class="num">12</td><td class="num total">38</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num">4</td><td class="num">29</td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">36</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">10</td><td class="num">11</td><td class="num">11</td><td class="num total">32</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">6</td><td class="num">18</td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">29</td></tr>
-<tr><th scope="row">ICT Industry</th><td class="num">4</td><td class="num">3</td><td class="num">14</td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">22</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">4</td><td class="num">4</td><td class="num total">12</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num">9</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">9</td></tr>
 <tr><th scope="row">Standards</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">8</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">9</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">3</td><td class="num">3</td><td class="num total">8</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num total">4</td></tr>
+<tr><th scope="row">ICT Industry</th><td class="num">4</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">8</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">4</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">7</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
@@ -78,13 +78,14 @@ place: RWA
 <tr><th scope="row">Training and skills</th><td class="num">7</td><td class="num">276</td><td class="num zero"></td><td class="num">9</td><td class="num zero"></td><td class="num zero"></td><td class="num total">292</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">31</td><td class="num">11</td><td class="num">40</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">82</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">50</td><td class="num total">50</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num">4</td><td class="num">29</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">33</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">29</td><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">43</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">6</td><td class="num">18</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">24</td></tr>
-<tr><th scope="row">ICT Industry</th><td class="num">4</td><td class="num">3</td><td class="num">14</td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">22</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">7</td><td class="num">4</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">11</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num">9</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">9</td></tr>
+<tr><th scope="row">ICT Industry</th><td class="num">4</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">8</td></tr>
 <tr><th scope="row">Standards</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">8</td><td class="num zero"></td><td class="num zero"></td><td class="num total">8</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">4</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">4</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">388</td><td class="num">341</td><td class="num">54</td><td class="num">19</td><td class="num">45</td><td class="num">50</td><td class="num total">897</td></tr></tfoot>

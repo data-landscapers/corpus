@@ -1,6 +1,6 @@
 ---
 title: Côte d'Ivoire: finance
-compiled: 2026-11-01
+compiled: 2026-11-02
 place: CIV
 ---
 
@@ -9,24 +9,24 @@ place: CIV
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">588</td><td class="num zero"></td><td class="num">86</td><td class="num">52</td><td class="num">83</td><td class="num">58</td><td class="num total">866</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">588</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">20</td><td class="num total">611</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">44</td><td class="num">208</td><td class="num">59</td><td class="num total">311</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">178</td><td class="num">43</td><td class="num zero"></td><td class="num">5</td><td class="num">31</td><td class="num">26</td><td class="num total">282</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">86</td><td class="num">52</td><td class="num">83</td><td class="num">58</td><td class="num total">278</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">69</td><td class="num">107</td><td class="num total">180</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">74</td><td class="num">43</td><td class="num zero"></td><td class="num">5</td><td class="num">31</td><td class="num">26</td><td class="num total">178</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num">104</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">106</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">17</td><td class="num">20</td><td class="num zero"></td><td class="num">6</td><td class="num">8</td><td class="num">11</td><td class="num total">62</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">14</td><td class="num">26</td><td class="num">21</td><td class="num total">61</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num">23</td><td class="num">14</td><td class="num total">53</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">9</td><td class="num">18</td><td class="num">18</td><td class="num total">45</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">20</td><td class="num total">23</td></tr>
 <tr><th scope="row">Legislation and regulation</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">5</td><td class="num">3</td><td class="num total">13</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">3</td><td class="num">3</td><td class="num">2</td><td class="num total">11</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num total">11</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">3</td><td class="num">2</td><td class="num total">9</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">3</td><td class="num">3</td><td class="num total">8</td></tr>
+<tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">3</td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">7</td></tr>
 <tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">3</td><td class="num">3</td><td class="num total">6</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num">3</td><td class="num total">6</td></tr>
-<tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">5</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
@@ -82,14 +82,15 @@ place: CIV
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">588</td><td class="num zero"></td><td class="num">86</td><td class="num">22</td><td class="num">47</td><td class="num zero"></td><td class="num total">743</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">588</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">588</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">178</td><td class="num">43</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">221</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">66</td><td class="num">104</td><td class="num total">170</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">86</td><td class="num">22</td><td class="num">47</td><td class="num zero"></td><td class="num total">155</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">150</td><td class="num zero"></td><td class="num total">150</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">74</td><td class="num">43</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">117</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num">104</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">105</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">17</td><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">37</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">7</td></tr>
-<tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
+<tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">3</td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">4</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>

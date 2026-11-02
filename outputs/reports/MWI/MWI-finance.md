@@ -1,6 +1,6 @@
 ---
 title: Malawi: finance
-compiled: 2026-11-01
+compiled: 2026-11-02
 place: MWI
 ---
 
@@ -10,14 +10,14 @@ place: MWI
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">276</td><td class="num">1</td><td class="num">74</td><td class="num">4</td><td class="num">4</td><td class="num total">359</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">6</td><td class="num">15</td><td class="num">49</td><td class="num">7</td><td class="num">2</td><td class="num total">79</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">42</td><td class="num">17</td><td class="num">17</td><td class="num total">76</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">15</td><td class="num">49</td><td class="num">7</td><td class="num">2</td><td class="num total">73</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">40</td><td class="num total">40</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">6</td><td class="num zero"></td><td class="num">2</td><td class="num">4</td><td class="num">15</td><td class="num total">27</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">15</td><td class="num zero"></td><td class="num">4</td><td class="num">4</td><td class="num">4</td><td class="num total">26</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">21</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">21</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num">17</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">17</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">4</td><td class="num">4</td><td class="num total">11</td></tr>
+<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">4</td><td class="num">15</td><td class="num total">21</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">7</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">8</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
@@ -61,13 +61,14 @@ place: MWI
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">276</td><td class="num">1</td><td class="num">70</td><td class="num zero"></td><td class="num zero"></td><td class="num total">347</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">15</td><td class="num">40</td><td class="num zero"></td><td class="num zero"></td><td class="num total">55</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">6</td><td class="num">15</td><td class="num">40</td><td class="num zero"></td><td class="num zero"></td><td class="num total">61</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">40</td><td class="num total">40</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">21</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">21</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num">17</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">17</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">15</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">15</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">7</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">8</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">6</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">306</td><td class="num">37</td><td class="num">112</td><td class="num">&lt;1</td><td class="num">40</td><td class="num total">496</td></tr></tfoot>
 </table></div>
