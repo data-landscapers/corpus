@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: CIV
-ledger_rows: 26
-not_held: 10
-record: 348a9a2754ee
+ledger_rows: 27
+not_held: 9
+record: bac34b3b931d
 ---
 
 # News, Oct – Nov 2026
@@ -45,6 +45,20 @@ record: 348a9a2754ee
 **[Côte d’Ivoire-AIP/ L’ARTCI mise sur l’innovation pour transformer le réseau postal en levier de développement](https://www.aip.ci/cote-divoire-aip-lartci-mise-sur-linnovation-pour-transformer-le-reseau-postal-en-levier-de-developpement/)** — Agence Ivoirienne de Presse (AIP), 9 October 2026
 
 The director general of Côte d'Ivoire's telecoms regulator, ARTCI, Lakoun Ouattara, said on World Post Day, 9 October 2026, that the postal network should adapt to e-commerce, digital addressing and last-mile delivery. He said the 2013 Postal Code, law 2013-702, is being revised to cover new uses and operators. No timetable for the revision is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Any Ivorian artificial-intelligence statute</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle en entreprise : à Abidjan, les experts appellent à encadrer les usages](https://www.linfodrome.com/high-tech/127109-intelligence-artificielle-en-entreprise-a-abidjan-les-experts-appellent-a-encadrer)** — Linfodrome, 1 November 2026
+
+An official of Côte d'Ivoire's Ministry of Digital Transition said on 27 October 2026 that the ministry is drafting a text to regulate the use of artificial intelligence. He said it would complement the existing personal-data protection rules. No draft or timetable was given.
 
 </div>
 
@@ -131,6 +145,14 @@ Côte d'Ivoire's information-systems security agency will run a first national c
 **[CYBER.EX 2026 : l’ANSSI veut préparer la Côte d’Ivoire aux crises numériques](https://www.linfodrome.com/societe/126972-cyber-ex-2026-l-anssi-veut-preparer-la-cote-d-ivoire-aux-crises-numeriques)** — Linfodrome, 28 October 2026
 
 Côte d'Ivoire's cybersecurity agency ANSSI opened CYBER.EX 2026, the country's first national cyber-crisis exercise, on 28 October 2026. It tests how government bodies, companies and the defence and security forces respond to a simulated cyberattack and work together.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Côte d'Ivoire teste sa réponse à une cyberattaque lors d'un premier exercice national](https://news.abidjan.net/articles/749802/la-cote-divoire-teste-sa-reponse-a-une-cyberattaque-lors-dun-premier-exercice-national)** — Abidjan.net News (AFP), 30 October 2026
+
+CYBER.EX 2026 closes; energy-telecom-payments scenario; Air Cote d'Ivoire breach of Feb 2026; next edition Oct 2027.
 
 </div>
 

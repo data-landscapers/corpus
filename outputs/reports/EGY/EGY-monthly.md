@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: EGY
 ledger_rows: 39
-not_held: 38
-record: 2e2eb9596772
+not_held: 36
+record: 95eb55e24f56
 ---
 
 # News, Oct – Nov 2026

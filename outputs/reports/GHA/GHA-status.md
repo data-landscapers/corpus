@@ -1,12 +1,12 @@
 ---
 title: Ghana: status report
-compiled: 2026-11-01
+compiled: 2026-11-02
 place: GHA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 310
+sources_cited: 311
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -194,7 +194,7 @@ By October 2026 [Ghana's identity system was connected to Smart Africa's cross-b
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-The [National Identity Register (Amendment) Regulations 2026 came into force on 9 June 2026](https://nia.gov.gh/wp-content/uploads/LI-2523-national-identity-register-amendment-regulations-2026.pdf). They [bar organisations from photocopying, scanning or keeping copies of the Ghana Card, and require biometric verification against its chip or the register](https://nia.gov.gh/wp-content/uploads/LI-2523-national-identity-register-amendment-regulations-2026.pdf). [Banks, telecoms operators, hospitals, insurers and government agencies have until 2 November 2026 to integrate](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html). The sanctions end in withdrawal of an operating licence.
+The [National Identity Register (Amendment) Regulations 2026 came into force on 9 June 2026](https://nia.gov.gh/wp-content/uploads/LI-2523-national-identity-register-amendment-regulations-2026.pdf). They [bar organisations from photocopying, scanning or keeping copies of the Ghana Card, and require biometric verification against its chip or the register](https://nia.gov.gh/wp-content/uploads/LI-2523-national-identity-register-amendment-regulations-2026.pdf). [Banks, telecoms operators, hospitals, insurers and government agencies had until 2 November 2026 to integrate](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html). From that date [a taskforce of the identity authority enforces the rule nationwide, with corporate fines of GH¢6,000 to GH¢24,000](https://www.graphic.com.gh/news/general-news/nia-taskforce-launches-nationwide-crackdown-on-ghana-card-photocopying-from-november-2.html). The sanctions end in withdrawal of an operating licence.
 
 The system rests on [Act 707 of 2006, Act 750 of 2008, Act 950 of 2017 and the 2012 regulations as amended](https://nia.gov.gh/legal-and-regulations/). The register is a [biometric database that matches every new registration's fingerprints](https://nia.gov.gh/faqs/). It held [more than 19.5 million enrolments in May 2026](https://nia.gov.gh/nia-registration-statistics/). [The card is required for banking, passports, driving licences and land registration](https://nia.gov.gh/faqs/). Since 2 February 2026 [first registration has cost GH¢30 from age 25, and a replacement GH¢200](https://www.myjoyonline.com/revised-ghana-card-fees-approved-by-parliament-not-unilaterally-introduced-nia/). A [paid 24-hour centre opened in Accra in August 2026](https://www.myjoyonline.com/nia-launches-first-24-hour-prestige-centre-in-accra/).
 

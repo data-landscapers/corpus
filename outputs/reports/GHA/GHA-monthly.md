@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: GHA
-ledger_rows: 53
+ledger_rows: 54
 not_held: 9
-record: 14ac9a4cf120
+record: 842f3ba86ca0
 ---
 
 # News, Oct – Nov 2026
@@ -631,6 +631,20 @@ Ghana's National Identification Authority will begin Ghana Card registration of 
 **[NIA rolls out online Ghana Card replacement service for Ghanaians in 11 countries](https://www.adomonline.com/nia-rolls-out-online-ghana-card-replacement-service-for-ghanaians-in-11-countries/)** — Adom Online, 20 October 2026
 
 Ghana's National Identification Authority opened an online Ghana Card replacement service for citizens living in 11 countries, including the UK, US, Canada and the UAE, so they no longer have to travel home. The service is also available at four Prestige 24/7 centres in Ghana, and an online update service is to follow.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ghana Card photocopy ban and verification service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIA Taskforce launches nationwide crackdown on Ghana card photocopying from November 2](https://www.graphic.com.gh/news/general-news/nia-taskforce-launches-nationwide-crackdown-on-ghana-card-photocopying-from-november-2.html)** — Graphic Online, 1 November 2026
+
+Ghana's National Identification Authority began nationwide enforcement of L.I. 2523 on 2 November 2026 through a Biometric Verification Taskforce. Photocopying or visually inspecting a Ghana Card for a transaction is now an offence; institutions must verify through the authority's verification platform. Fines run from GH¢6,000 to GH¢24,000 for organisations and GH¢600 to GH¢6,000 for individuals.
 
 </div>
 
