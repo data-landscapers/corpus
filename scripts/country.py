@@ -176,18 +176,33 @@ def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, 
     # by name — so at this moment it is still last run's page, carrying last run's record,
     # which is exactly the comparison the deleted file used to provide. Without it every
     # render minted a fresh edition of all 61 CSVs, not one differing by a byte.
+    #
+    # **No editions while the data is in development** *(Bill, 2026-11-02)*: until
+    # `BUDGETS_DATED`, one undated `{ISO3}-nonstate.csv`, as the budget and all-finance files
+    # beside it. The dated editions already published stay (§9).
     src = (OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv").read_bytes()
     body = src.replace(b"\r\n", b"\n")
-    data, _ = editions.publish(body, out_dir, f"{iso}-nonstate", ".csv",
-                               page=out_dir / "finance.html")
-    edition = editions.edition_of(data.stem) or ""
+    stem = f"{iso}-nonstate"
+    if BUDGETS_DATED:
+        data, _ = editions.publish(body, out_dir, stem, ".csv", page=out_dir / "finance.html")
+        edition = editions.edition_of(data.stem) or ""
+        rows = (f'        <dt>Edition</dt><dd class="mono">{edition}</dd>\n'
+                f'        <dt>This file</dt><dd><a href="{data.name}">{data.name}</a>'
+                f' &mdash; a dated edition, kept as published and never revised</dd>')
+        artefacts = editions.artefact_meta(stem, edition, editions.digest(body))
+    else:
+        data, edition, artefacts = out_dir / f"{stem}.csv", "", ""
+        if not data.exists() or data.read_bytes() != body:
+            data.write_bytes(body)
+        rows = (f'        <dt>This file</dt><dd><a href="{data.name}">{data.name}</a>'
+                f' &mdash; updated as the data changes</dd>')
     # The table's Metadata button opens the dictionary as a table on the lookups page, which
     # offers the CSV itself; the noscript and colophon links still name the file (Bill, 2026-09-11).
-    return {"csv_name": data.name, "fields_name": f"../../metadata/{METADATA_CSV}",
+    return {"csv_name": data.name, "csv_src": editions.versioned(data.name, body),
+            "fields_name": f"../../metadata/{METADATA_CSV}",
             "fields_page": "../../datasets/metadata/#non-state-finance",
             "csv_edition": edition, "csv_bytes": len(body),
-            "artefacts": editions.artefact_meta(f"{iso}-nonstate", edition,
-                                                editions.digest(body))}
+            "edition_rows": rows, "artefacts": artefacts}
 
 
 def catalogue(iso: str) -> tuple[int, int, list[str], list[dict]]:
@@ -524,7 +539,7 @@ FINANCE = """<!DOCTYPE html>
 """ + PANEL + """
 
     <div class="dl-datatable"
-      data-src="{csv_name}"
+      data-src="{csv_src}"
       data-cols="start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
       data-filters="financier, african, primary_topic, instrument, aid, scope, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
@@ -549,8 +564,7 @@ FINANCE = """<!DOCTYPE html>
       <strong>About this table</strong>
       <dl>
         <dt>Built</dt><dd class="mono">{built}</dd>
-        <dt>Edition</dt><dd class="mono">{csv_edition}</dd>
-        <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, retained as published and never revised</dd>
+{edition_rows}
         <dt>Source</dt><dd><code>outputs/non-state-finance/{iso}-nonstate.csv</code>, compiled by the finance pass</dd>
         <dt>Fields</dt><dd><a href="{fields_name}">non-state-finance-metadata.csv</a> &mdash; what each column means. One dictionary for every {unit}&rsquo;s table, not a copy per {unit}</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
@@ -892,12 +906,14 @@ def finance_dataset(code: str, name: str, out_dir: Path, fin: list[dict],
 def finance_field_dictionary() -> list[dict]:
     """`variableMeasured` for a finance table, from the one hand-maintained dictionary every
     finance page links — the arrangement `publish_finance_csvs` chose deliberately over
-    fifty-four copies of one schema."""
+    fifty-four copies of one schema. Sub-topic and sector are left out: the dictionary describes
+    them for the all-Africa file, and a place's file does not carry them."""
     fd = SITE / "metadata" / METADATA_CSV
     if not fd.exists():
         return []
     with open(fd, encoding="utf-8-sig", newline="") as fh:
-        return structured_data.fields_from(list(csv.DictReader(fh)))
+        return structured_data.fields_from([r for r in csv.DictReader(fh)
+                                            if r["Column"] not in ("subtopic", "sector")])
 
 
 def build(iso: str) -> list[Path]:
