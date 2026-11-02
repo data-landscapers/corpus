@@ -11,10 +11,10 @@
       "authorities": "pilot",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "SSD-001;SSD-002;SSD-005;SSD-006",
-      "gaps": "Only Juba City Council, the capital's council, is named, in 2022 and again in October 2026, when the move off manual collection was still described as a transition to be made. Where the record is held is not stated, no vendor or funder of the system launched in September 2026 is named, and whether the 2022 system outlasted its start is not established.",
-      "note": "A system launched for the capital's council in September 2026, with the council still moving off manual collection, is a system being prepared in one place. Stage 3 needs it past its pilot and live in local governments beyond that city.",
-      "as_at": "2026-10-10"
+      "stage_sources": "SSD-001;SSD-002;SSD-005;SSD-006;SSD-008",
+      "gaps": "Only Juba City Council, the capital's council, is named, in 2022 and in October 2026. Where the record is held is not stated, no vendor or funder of the system launched in September 2026 is named, and whether the 2022 system outlasted its start is not established.",
+      "note": "By late October 2026 Juba City Council had moved all its revenue operations to a digital system, but only the capital's council is named. Stage 3 needs local governments outside the capital recording in a system.",
+      "as_at": "2026-11-02"
     }
   ]
 }

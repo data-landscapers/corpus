@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "unplaced",
+      "stage": "5",
       "rule": "",
       "delivered": "",
-      "audit": "",
+      "audit": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.",
-      "note": "Reassessed 2026-11-01: the 2017 Act and Ibsar project come from 2017 sources, before the three-year window, so no rung is set.",
-      "as_at": "2026-11-01"
+      "stage_sources": "SDN-003",
+      "gaps": "No rule in force, programme or delivery since October 2023 is found: the 2017 Act and the Ibsar project are known only from 2017 sources. The audit is an academic study of seven websites, not all of them public.",
+      "note": "A study published in April 2026 tested seven Sudanese academic, government and service websites against WCAG 2.1 AA and found critical barriers on all of them. A later yes answers the earlier ones, so 5.",
+      "as_at": "2026-11-02"
     }
   ]
 }

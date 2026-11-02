@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-21-sdn-digital-accessibility-assessment-of-sudanese-websites-a-multi-tool-eva",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "audit",
+   "value": "published",
+   "fact": "A journal study assessed seven Sudanese academic, governmental and service websites against WCAG 2.1 AA using WAVE, axe DevTools and Lighthouse, finding Lighthouse scores of 76 to 88 and critical barriers on all sites.",
+   "as_of": "2026-04-21",
+   "date_precision": "day",
+   "system": "Digital accessibility assessment of Sudanese websites",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

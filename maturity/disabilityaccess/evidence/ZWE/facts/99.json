@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-19-zwe-government-urges-telecom-operators-to-prioritise-accessibility-standar",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The ICT minister Tatenda Mavetera announced that Zimbabwe's National Disability Policy and National ICT Policy would be reviewed to add accessibility guidelines, that every Community Information Centre must have a machine with braille software and assistive technology, and that the Universal Services Fund would subsidise assistive devices.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "National Disability Policy and National ICT Policy review",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

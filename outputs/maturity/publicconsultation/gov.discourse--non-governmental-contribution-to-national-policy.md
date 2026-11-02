@@ -23,10 +23,10 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 4 |
-| 2 Nascent | 34 |
+| 2 Nascent | 35 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
-| No evidence | 13 |
+| Unplaced | 1 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -79,6 +79,12 @@ In 2023 and 2024 the financial regulator consulted on a virtual asset law and pu
 
 - The Ministry of Finance and the Financial Services Authority published an industry consultation response dated 7 March 2024 summarising the consultation on the VASP framework, which drew about 15 detailed written responses ([source, 2024-03-07](https://www.finance.gov.sc/wp-content/uploads/2025/08/Virtual-Asset-Service-Providers-Framework-Response-to-Public-Consultation.pdf)).
 - A consultant on the drafting team says the Seychelles National Digital & AI Strategy 2026-2031 followed consultations with public institutions, the private sector, academia, civil society and development partners, and a national validation workshop concluded in the two weeks before 10 July 2026 ([source, 2026-07](https://www.linkedin.com/posts/baidy-s-91972228_digitaltransformation-ai-digitalgovernment-activity-7481275398413152257-B36W)).
+
+### Algeria: 2 Nascent
+
+Algeria's digital strategy of May 2025 was said to rest on broad consultation, including business; no record of what was said has been found.
+
+- Le Chiffre d'Affaires reports the digital strategy unveiled on 12 May 2025 as the result of broad consultation with ministries, experts, economic operators and digital actors ([source, 2025-05-12](https://lechiffredaffaires.dz/algerie-numerique-2030-une-strategie-ambitieuse-pour-un-virage-digital-inclusif-et-souverain/)).
 
 ### Angola: 2 Nascent
 
@@ -306,19 +312,13 @@ In 2025 the ICT ministry consulted academia, business and civil society on its d
 - The Ministry of ICT, Postal and Courier Services of Zimbabwe says the Kadoma Draft of the National AI Strategy 2026-2030 was interrogated and validated at a National Multi-Stakeholder Consultation held in Harare on 28 August 2025, Bulawayo on 9 September 2025 and Masvingo on 11 September 2025, and credits input from academia, the private sector, civil society and diaspora representatives alongside government and development partners ([source, 2025-08-28](https://t3n9sm.c2.acecdn.net/wp-content/uploads/2026/03/Zimbabwe-National-Artificial-Intelligence-Strategy.pdf)).
 - The Ministry of ICT, Postal and Courier Services held a National Multi-Stakeholder Consultation in Harare on 28 August 2025, then sessions in Bulawayo on 9 September and Masvingo on 11 September 2025, to interrogate and validate the Kadoma Draft of the National AI Strategy 2026-2030, with academia, the private sector, civil society and diaspora representatives among those whose contributions the Ministry credits ([source, 2025-08-28](https://veritaszim.net/sites/veritas_d/files/Zimbabwe%20National%20Artificial%20Intelligence%20Strategy.pdf)).
 
-### Algeria: No evidence
+### Central African Republic: Unplaced
 
-Nothing found shows people outside government were asked about a digital law or policy, or that they were not, so no stage is set.
+A 2026 workshop validated the digital strategies with funders and the firm that drafted them; no outside participant is named, so no stage is set.
 
-Not established: Nothing found says people outside government were asked for their views on a digital law or policy, or that they were not.
+Not established: The only consultation found is the August 2026 validation workshop on the government's digital transformation strategies, attended by the minister, the World Bank-backed project and Orange Centrafrique, which with Sofrecom carried out the studies; no participant outside government, its funders and its contractors is named.
 
 ### Benin: No evidence
-
-Nothing found shows people outside government were asked about a digital law or policy, or that they were not, so no stage is set.
-
-Not established: Nothing found says people outside government were asked for their views on a digital law or policy, or that they were not.
-
-### Central African Republic: No evidence
 
 Nothing found shows people outside government were asked about a digital law or policy, or that they were not, so no stage is set.
 

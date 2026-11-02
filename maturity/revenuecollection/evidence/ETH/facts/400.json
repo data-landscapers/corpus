@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-18-eth-ethiopia-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The US Commerce guide says Telebirr users can pay utilities and traffic fines through the app.",
+   "as_of": "2024-09-18",
+   "date_precision": "day",
+   "system": "Telebirr",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

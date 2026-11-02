@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-08-zwe-potraz-trains-visually-impaired-professionals-in-masvingo",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "POTRAZ's director general said it had donated 567 computers to disability-focused institutions, with adaptive software for the visually impaired and audio equipment for those with hearing impairments.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "POTRAZ computer donations to disability institutions",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

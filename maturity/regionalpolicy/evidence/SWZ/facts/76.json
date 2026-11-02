@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-29-swz-eswatini-s-cybersecurity-score-quadruples",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Eswatini's ICT minister told the Africa Cybersecurity Indaba that Eswatini takes part in the SADC Cybersecurity Task Force.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "SADC Cybersecurity Task Force",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "The same address names Eswatini's participation in the African Network of Cybersecurity Authorities.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "African Network of Cybersecurity Authorities",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC Cybersecurity Task Force",
+   "country_label": "Eswatini",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "SADC",
+   "tiers": ""
+  },
+  {
+   "system": "African Network of Cybersecurity Authorities",
+   "country_label": "Eswatini",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

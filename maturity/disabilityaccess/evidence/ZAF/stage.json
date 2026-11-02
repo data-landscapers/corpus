@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "2",
+      "stage": "4",
       "rule": "underway",
-      "delivered": "",
+      "delivered": "delivered",
       "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-001;ZAF-002",
-      "gaps": "No source found since October 2023 says: is a rule in force.",
-      "note": "Reassessed 2026-11-01: the disability minister proposed in 2026 an action plan with accessible websites, captioning and sign language, and USAASA is reviewing accessibility in universal service. No rule in force is held, so not 3.",
-      "as_at": "2026-11-01"
+      "stage_sources": "ZAF-004;ZAF-003",
+      "gaps": "No rule in force requiring accessible public information or digital services is found. No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+      "note": "In July 2025 the Department of Basic Education reported that 406 of 461 public special schools had received ICT equipment and assistive devices under ICASA obligations. Stage 5 needs a published audit, and none is found.",
+      "as_at": "2026-11-02"
     }
   ]
 }

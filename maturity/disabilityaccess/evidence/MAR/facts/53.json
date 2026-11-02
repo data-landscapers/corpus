@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-31-mar-personnes-en-situation-de-handicap-seules-25-des-administrations-maroc",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "audit",
+   "value": "published",
+   "fact": "A joint study by the Mediator institution, the ONDH and the Secretariat of State for Social Inclusion, presented in March 2026, found only 47.5% of public institutions offer inclusive digital solutions and 25% of administrations are inclusive overall.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Mediator, ONDH accessibility diagnostic",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

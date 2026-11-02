@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-dji-note-conceptuelle-lancement-du-mobile-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "An October 2024 ANPH concept note describes the Mobile ID project, with ANSIE engineers as technical mentors, as a smartphone identification system using biometrics and PKI and designed to interoperate with the national interoperability platform (PNI), presented as being launched.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Mobile ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "DJI",
+   "class": "authentication",
+   "platform": "smartphone",
+   "owner": "ANSIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

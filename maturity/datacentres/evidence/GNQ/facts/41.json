@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-08-gnq-continuan-las-comparecencias-de-los-miembros-del-gobierno-en-la-comisi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNIAPGE data centre",
+   "country_label": "Centro de Datos CNIAPGE",
+   "class": "other",
+   "platform": "",
+   "owner": "CNIAPGE",
+   "tiers": ""
+  }
+ ],
+ "note": "The CNIAPGE data centre hosts the state's Sidunea platform; no renting to outside organisations is stated, and expansion is only planned."
+}

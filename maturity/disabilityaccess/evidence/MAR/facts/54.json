@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-08-mar-concepts-and-policies-of-digital-accessibility-in-morocco",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "UN ESCWA and Morocco's Agency of Digital Development held a national workshop in Rabat on 18 July 2024 to develop a national plan for digital accessibility, discussing the development phases of the e-Accessibility plan.",
+   "as_of": "2024-07-18",
+   "date_precision": "day",
+   "system": "national e-Accessibility plan",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

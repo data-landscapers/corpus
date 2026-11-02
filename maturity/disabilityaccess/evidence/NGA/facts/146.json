@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-13-nga-fij-tested-4-govt-disability-agency-websites-for-pwd-accessibility-we",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "FIJ says the Discrimination Against Persons With Disabilities (Prohibition) Act of 2018, with NITDA guidelines, requires government websites to be usable by people relying on assistive technologies.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Discrimination Against Persons With Disabilities (Prohibition) Act 2018",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "audit",
+   "value": "published",
+   "fact": "FIJ audited four disability agency websites (Bauchi, Benue, Osun and the National Commission for Persons with Disabilities) with WAVE and Lighthouse and found accessibility barriers, with Osun scoring 2.6 out of 10.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "FIJ accessibility audit",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Discrimination Against Persons With Disabilities (Prohibition) Act 2018",
+   "country_label": "Nigeria",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

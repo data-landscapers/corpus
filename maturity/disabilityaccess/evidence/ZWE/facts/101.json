@@ -1,0 +1,64 @@
+{
+ "slug": "2026-07-13-zwe-digital-inclusion-the-next-frontier-for-disability-rights-in-zimbabwe",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "The Herald says the National ICT Policy (2022-2027) requires Government digital platforms to progressively meet international accessibility standards, and that advocates see few enforceable standards.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "National ICT Policy (2022-2027)",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Permanent Secretary Kunaka says Government has set a target that by 2027 all new public service digital platforms comply with minimum accessibility standards, and that pre-procurement accessibility assessments are under discussion.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "2027 minimum accessibility target",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Ministry of Health and Child Care launched the National Assistive Technology Strategy and the Assistive Products Priority List in May 2024.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "National Assistive Technology Strategy",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "Permanent Secretary Kunaka says Government, with ministries and partners, is implementing programmes that provide hearing aids, visual aids and other assistive technologies, with no number reached given.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Government assistive technology programmes",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Policy (2022-2027)",
+   "country_label": "National ICT Policy (2022-2027)",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "Government of Zimbabwe",
+   "tiers": ""
+  },
+  {
+   "system": "National Assistive Technology Strategy",
+   "country_label": "National Assistive Technology Strategy",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "Ministry of Health and Child Care",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

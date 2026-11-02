@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-egy-digital-development-dashboard-egypt",
+ "facts": [
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:17.7",
+   "fact": "The ITU Digital Development Dashboard gives 2022 internet use at 65% of women and 79% of men in Egypt, a gap of 17.7% of men's rate.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU Digital Development Dashboard: Egypt",
+   "class": "gendergap"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -11,6 +11,8 @@ COG,Portail UNHACO,Republic of the Congo,other,web portal,Helios Towers Congo wi
 COM,Loi n°14-037/AU du 22 décembre 2014,Comoros,other,,Union des Comores,,2026-01-01-com-fahac-upr46-joint-submission-disability-law
 DJI,Loi n°151/AN/22/8ème L,Djibouti,accessibility,,Présidence de la République de Djibouti,,2022-07-18-dji-natlex-loi-151-personnes-handicapees
 DJI,Agence Nationale des Personnes Handicapées (ANPH),Djibouti,other,,Government of Djibouti,,2022-07-18-dji-natlex-loi-151-personnes-handicapees
+DJI,Djiboutian sign language dictionary app,Djibouti,accessibility,,Agence Nationale des Personnes Handicapees,,2024-07-03-dji-anph-mieux-comprendre-l-usage-et-la-connaissance-des-langues-des-signe
+DJI,Mobile ID,DJI,accessibility,,ANPH,,2024-10-01-dji-note-conceptuelle-lancement-du-mobile-id
 EGY,الإتاحة الرقمية on mot.gov.eg,Egypt,accessibility,website,Ministry of Transport,national,2026-09-17-egy-youm7-transport-ministry-digital-accessibility
 EGY,Presidential initiative on digital accessibility of government websites,Egypt,accessibility,,National Academy of IT for Persons with Disabilities (MCIT),national,2026-08-04-egypt-mcit-website-accessibility-tools
 EGY,NTRA sign language video-call complaint service,Egypt,accessibility,website,NTRA,national,2024-12-04-tra-ntra-mobile-ewallet-people-of-determination
@@ -29,15 +31,20 @@ GIN,Lonnin Fanka,Guinea,other,,Ministry of Planning,,2025-06-30-gin-guinea-launc
 GMB,"Broadcasting and Online Content Regulations, 2026 (draft)",The Gambia,accessibility,,PURA / Minister in charge of broadcasting,,2026-04-02-pura-gambia-draft-broadcasting-and-online-content-regulations-2026
 KEN,Digital Platform for Gender-Based Violence and Persons with Disabilities Case Management and Reporting,Kenya (Nakuru County),other,built by Erobotai (Lithuania),County Government of Nakuru,county,2026-09-22-ken-nakuru-go-ke-gbv-pwd-digital-platform
 KEN,National ICT Accessibility Standards,Kenya,accessibility,,"Government of Kenya, launched May 2022 with UK support",,2026-10-31-ken-state-plans-digital-accessibility-audits-to-improve-services-for-perso
+KEN,Accessibility Standard for Digital Products,Accessibility Standard for Digital Products,accessibility,,Ministry of ICT and Digital Economy,,2025-06-03-ken-govt-pledges-full-digital-access-for-persons-with-disabilities
 LBY,Wasl initiative,Libya,accessibility,,Ministry of Social Affairs; Minister of State for Digital Economy and AI,national,2026-10-10-lby-lana-wasl-digital-ai-empowerment-initiative
 LBY,National Digital Accessibility Policy,Libya,accessibility,,General Information Authority,national,2026-02-04-gia-launches-implementation-path-national-digital-accessibility-policy-escwa
 LBY,National Policy for Digital Accessibility,Libya,accessibility,,General Information Authority,national,2025-04-24-gia-pm-approves-national-government-digital-transformation-strategy
+LBY,National Digital Accessibility Policy,Libya,accessibility,,General Information Authority,,2026-09-23-lby-lack-of-digital-accessibility-and-its-impact-on-persons-with-disabilit
+LBY,National policy for digital accessibility,Libya,accessibility,,General Information Authority,,2024-06-26-lby-the-public-information-authority-organizes-a-national-consultative-wor
 LSO,4G-enabled digital library (Insight Centre),Lesotho,accessibility,"State Library, Maseru","Ministry of Information, Communications, Science and Technology and Innovation with Vodacom",national,2026-03-16-lesotho-4g-digital-library-disability
 MOZ,cartão de identificação da pessoa com deficiência,Mozambique,other,,Ministério da Saúde,,2026-04-14-decreto-20-2026-regulamento-cartao-deficiencia
 MOZ,VaMoz Digital,Mozambique,other,,"ITU with EU Delegation, sponsored by MCTD",,2026-08-08-itu-vamoz-digital-project-mozambique
+MOZ,Estratégia Nacional de Inclusão Digital,Estratégia Nacional de Inclusão Digital,accessibility,,Ministério das Comunicações e Transformação Digital,,2026-07-13-moz-mocambique-enfrenta-desafios-relacionados-com-infra-estruturas-tecnolo
 MUS,disability.govmu.org,Mauritius,accessibility,website,"Ministry of Social Integration, Social Security and National Solidarity",,2020-10-01-mus-govmu-crpd-2nd-3rd-report
 MUS,Mauritian Sign Language news bulletin,Mauritius,accessibility,national television,Mauritius Broadcasting Corporation,,2020-10-01-mus-govmu-crpd-2nd-3rd-report
 MUS,Protection and Promotion of the Rights of Persons with Disabilities Act 2024,Mauritius,other,,Government of Mauritius,,2024-09-02-mus-crpd-concluding-observations
+MUS,MSL E-Dictionary,Mauritius,accessibility,electronic dictionary,Ministry of Social Integration with Society for the Welfare of the Deaf,,2025-09-10-mus-ecole-des-sourds-lancement-d-un-dictionnaire-electronique-de-langue-de
 MWI,Connectivity for Persons with Disability Project,Malawi,accessibility,,Malawi Communications Regulatory Authority,,2020-01-01-mwi-macra-universal-service-consultations
 MWI,National Disability Policy 2025,Malawi,accessibility,,"Ministry of Gender, Community Development and Social Welfare",,2025-02-01-mwi-macoda-national-disability-policy
 MWI,Disability Management Information System (DMIS),Malawi,other,,Malawi Council for Disability Affairs,,2025-02-01-mwi-macoda-national-disability-policy
@@ -47,8 +54,12 @@ NGA,NITDA revised website guidelines for government institutions,Nigeria,accessi
 NGA,NITDA revised website guidelines for government institutions,Nigeria,accessibility,,NITDA,national,2026-09-16-techafricanews-nitda-digital-accessibility-disabilities
 NGA,Standards and Guidelines for Government Websites,Nigeria,accessibility,,NITDA,national,2026-08-31-techcabal-assistive-tech-accessibility
 NGA,Nigeria Web Design Standards,Nigeria,accessibility,,"NITDA, Federal Ministry of Communications, Innovation and Digital Economy, Aig-Imoukhuede Foundation",national,2026-08-31-techcabal-assistive-tech-accessibility
+NGA,Discrimination Against Persons With Disabilities (Prohibition) Act 2018,Nigeria,accessibility,,,,2026-03-13-nga-fij-tested-4-govt-disability-agency-websites-for-pwd-accessibility-we
+NGA,National Accessibility Manuals,Nigeria,accessibility,,National Commission for Persons with Disabilities,,2024-05-08-nga-ncc-donates-50-laptops-to-disabilities-commission
+NGA,NITDA Standard and Guidelines for government websites,Nigeria,accessibility,,NITDA,,2024-07-31-nga-analysis-26-of-36-states-and-fct-have-substandard-websites-14-are-unus
 RWA,Government of Rwanda Websites Guideline,Government of Rwanda Websites Guideline,accessibility,,Rwanda Information Society Authority,,2025-01-01-rwa-risa-gov-websites-guideline-accessibility
 RWA,National Digital Inclusion Strategy,Rwanda,accessibility,,Ministry of ICT and Innovation,,2023-04-01-rwa-minict-national-digital-inclusion-strategy
+RWA,REB edutainment learning programme,Rwanda,accessibility,REB YouTube channel and e-learning platform,Rwanda Basic Education Board,,2024-09-01-rwa-rwanda-education-goes-digital
 SDN,Inter-Agency Community Feedback Mechanism,Sudan,other,digital channels and community champions,AAP Working Group / humanitarian community,,2026-02-26-sudan-ocha-inter-agency-community-feedback-mechanism
 SDN,Ibsar Project,Sudan,accessibility,,Telecommunications and Postal Regulatory Authority,,2017-12-12-sdn-tpra-ibsar-project
 SDN,"Persons with Disability National Act, 2017",Sudan,accessibility,,National Council for Persons with Disability,,2017-02-24-sdn-persons-with-disability-national-act-2017
@@ -72,7 +83,14 @@ TZA,National Assistive Technology Strategy 2024-2027,Tanzania,accessibility,,"Pr
 TZA,PD-MIS,Tanzania,other,,"Prime Minister's Office - Labour, Youth, Employment and Persons with Disability",,2024-11-21-tza-pmo-national-assistive-technology-strategy
 UGA,Kasese ICT Hub,Uganda,accessibility,,National Council for Persons with Disabilities with IDI Uganda,,2026-08-03-koica-ict-hub-kasese-persons-with-disabilities
 UGA,Kasese ICT Hub,Uganda,accessibility,,National Council for Persons with Disabilities with IDI Uganda,,2026-08-01-new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills
+UGA,ICT4PWD programme,Uganda,accessibility,ICT4PWD Observatory,Uganda Communications Commission (UCUSAF),,2026-02-11-uga-ucc-study-highlights-strong-impact-of-ict4pwd-programme
+ZAF,Virecom,South Africa,accessibility,video remote sign language interpreting,"innovator Jabu Blose, funded via TIA",,2025-08-01-zaf-deputy-minister-nomalungelo-gina-on-innovations-to-assist-people-with
 ZMB,Inclusive ICT Support Programme,Zambia,accessibility,,ZICTA,,2025-09-01-zicta-uasf-copperbelt-northwestern
 ZMB,FISP e-Voucher,Zambia,other,electronic voucher with e-KYC and phone code,Ministry of Agriculture,national,2026-01-28-zambia-fisp-e-voucher-pdu
+ZMB,Draft National Accessibility Standards,Zambia,accessibility,,Zambia Agency for Persons with Disabilities,,2025-05-15-zmb-zapd-observes-14th-global-accesibility-awareness-day
 ZWE,Education Management Information System (EMIS),Zimbabwe,other,,Ministry of Primary and Secondary Education,,2026-06-15-newzimbabwe-emis-dropout-early-warning
 ZWE,Information Management System for school registration,Zimbabwe,other,web-based,Ministry of Primary and Secondary Education,,2026-04-16-zwe-unicef-mopse-emis-ims-consultancy
+ZWE,National Assistive Technology Strategy,Zimbabwe,accessibility,,Government of Zimbabwe,,2024-05-28-zwe-government-launches-national-assistive-technology-strategy-and-assisti
+ZWE,National ICT Policy (2022-2027),National ICT Policy (2022-2027),accessibility,,Government of Zimbabwe,,2026-07-13-zwe-digital-inclusion-the-next-frontier-for-disability-rights-in-zimbabwe
+ZWE,National Assistive Technology Strategy,National Assistive Technology Strategy,accessibility,,Ministry of Health and Child Care,,2026-07-13-zwe-digital-inclusion-the-next-frontier-for-disability-rights-in-zimbabwe
+ZWE,Potraz digital inclusion programme,Zimbabwe,accessibility,,Potraz,,2025-08-09-zwe-potraz-rolls-out-digital-inclusion-programme

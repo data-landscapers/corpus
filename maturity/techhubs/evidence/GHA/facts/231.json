@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "A Graphic Online opinion column says the 2026 budget gives GH¢70 million to Digital Youth Hubs.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Digital Youth Hubs",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Youth Hubs",
+   "country_label": "Digital Youth Hubs",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

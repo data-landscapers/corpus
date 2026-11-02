@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-24-moz-e-m-magazine-the-role-of-government-institutions-in-the-digital-world",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "An EY Mozambique partner, Bruno Dias, is quoted saying new companies offer data centre services in Mozambique: private clouds, hosting and housing (renting physical space to install servers).",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

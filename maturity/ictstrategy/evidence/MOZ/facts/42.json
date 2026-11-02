@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-moz-intic-reforca-compromisso-com-a-inclusao-digital-na-conferencia-sobre",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "INTIC says the Information Society Policy was approved by Resolution No. 17/2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Politica para a Sociedade da Informacao",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Politica para a Sociedade da Informacao",
+   "country_label": "Politica para a Sociedade da Informacao (Resolucao 17/2018)",
+   "class": "sector",
+   "platform": "",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

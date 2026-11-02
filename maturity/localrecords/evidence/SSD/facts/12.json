@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-31-ssd-juba-city-council-launches-digital-payment-system-to-improve-transpare",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "Juba City Council's caretaker mayor said the council had in the last 10 days moved all its revenue operations from manual forms to a digital payment system, after a digitalisation law passed.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Juba City Council digital financial payment system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Juba City Council digital financial payment system",
+   "country_label": "South Sudan",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Juba City Council",
+   "tiers": "city council"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-mar-factors-influencing-the-integration-of-web-accessibility-in-moroccan-p",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "An IJICT journal study based on interviews with Moroccan public-sector web developers and IT managers reports a lack of legal framework and available guidelines as a barrier to web accessibility in public e-services.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

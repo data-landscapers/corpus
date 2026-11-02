@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,sector,governance,qualifier,body:mandated;finance:not-stated,2022,MOZ-007;MOZ-016,MOZ-015=body:mandated,nothing dated since 2023-11-01
-MOZ,sector,standing,coverage,adopted,2024-06-27,MOZ-001;MOZ-002;MOZ-003;MOZ-008;MOZ-009;MOZ-010;MOZ-011;MOZ-017;MOZ-018,,
-MOZ,sector,text,coverage,public,2018-06-21,MOZ-012,,nothing dated since 2023-11-01
+MOZ,sector,governance,qualifier,body:mandated;finance:not-stated,2022,MOZ-007;MOZ-016,MOZ-015=body:mandated,nothing dated since 2023-11-02
+MOZ,sector,standing,coverage,adopted,2024-06-27,MOZ-001;MOZ-002;MOZ-003;MOZ-008;MOZ-009;MOZ-010;MOZ-011;MOZ-017;MOZ-018;MOZ-020,,
+MOZ,sector,text,coverage,public,2018-06-21,MOZ-012,,nothing dated since 2023-11-02
 MOZ,sector,period,coverage,to:2028,2024-06-27,MOZ-019,MOZ-013=open,
-MOZ,sector,plan,coverage,actions,2018-06-21,MOZ-014,,nothing dated since 2023-11-01
+MOZ,sector,plan,coverage,actions,2018-06-21,MOZ-014,,nothing dated since 2023-11-02
 MOZ,sector,reporting,coverage,,,,,nothing found
 MOZ,sector,last12,qualifier,,,,,nothing found

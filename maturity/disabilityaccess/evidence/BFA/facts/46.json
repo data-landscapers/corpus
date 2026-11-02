@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-08-bfa-accessibilite-et-inclusion-numerique-amm-plaide-pour-les-personnes-han",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Feminin Actu reports that on 6 February 2026 the digital transition minister said a fund for digital inclusion of vulnerable groups had been set up and announced adapted kits for persons with disabilities and AI sign-language translation.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Fonds d'acces aux services universels",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

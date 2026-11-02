@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 EGY-001,EGY,gender,gap,official:17.7806,"The gender gap in internet use in Egypt was 17.8 per cent in 2022, by ITU's internet use series by sex.",2022,year,ITU's internet use series by sex,gendergap,ref:itu-internet-use-gender-gap@2026-06-30,https://unstats.un.org/sdgs/dataportal
+EGY-002,EGY,gender,gap,official:17.7,"The ITU Digital Development Dashboard gives 2022 internet use at 65% of women and 79% of men in Egypt, a gap of 17.7% of men's rate.",2022,year,ITU Digital Development Dashboard: Egypt,gendergap,2024-01-01-egy-digital-development-dashboard-egypt,https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_EGY.pdf

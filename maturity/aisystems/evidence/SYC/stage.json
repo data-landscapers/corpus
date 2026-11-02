@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "no evidence",
-      "build": "",
+      "stage": "2",
+      "build": "underway",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether AI is built or hosted in the country.",
-      "note": "No evidence row has been found on AI built or hosted in the country.",
-      "as_at": "2026-10-22"
+      "stage_sources": "SYC-001",
+      "gaps": "No source found says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
+      "note": "The government cloud approved under the digital plan is to host AI computing in Seychelles with World Bank support, from mid-2027. Nothing is stated in service.",
+      "as_at": "2026-11-02"
     }
   ]
 }

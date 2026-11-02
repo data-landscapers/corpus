@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "1",
-      "rule": "none",
-      "delivered": "",
+      "stage": "4",
+      "rule": "underway",
+      "delivered": "delivered",
       "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-003",
-      "gaps": "No source found since October 2023 says digital accessibility is under way.",
-      "note": "Reassessed 2026-11-01: the CRPD Committee said in 2024 that the new disability Act does not cover information in accessible formats and recommended accessibility standards. The disability website and copyright exception are reported in 2020, before the window, so not 2.",
-      "as_at": "2026-11-01"
+      "stage_sources": "MUS-006;MUS-005",
+      "gaps": "No rule in force is found: in 2024 the UN disability committee said the new Act does not cover information in accessible formats (MUS-003). The AI Unit's statement on its May 2026 audit of its own website gives no findings beyond critical issues fixed, so no audit results are counted.",
+      "note": "In May 2026 the AI Unit of the ICT ministry offered accessibility tools on its government website, and in 2025 a sign language e-dictionary was launched with the social integration ministry. Stage 5 needs published audit results, and the unit's own statement gives none.",
+      "as_at": "2026-11-02"
     }
   ]
 }

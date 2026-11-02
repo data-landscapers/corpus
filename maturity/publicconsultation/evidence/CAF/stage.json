@@ -1,16 +1,17 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "consultation",
-   "stage": "no evidence",
-   "hearing": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says people outside government were asked for their views on a digital law or policy, or that they were not.",
-   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "consultation",
+      "stage": "unplaced",
+      "hearing": "",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only consultation found is the August 2026 validation workshop on the government's digital transformation strategies, attended by the minister, the World Bank-backed project and Orange Centrafrique, which with Sofrecom carried out the studies; no participant outside government, its funders and its contractors is named.",
+      "note": "A workshop of officials, donors and the consultants who drafted the strategies does not reach stage 2. No other row is held.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

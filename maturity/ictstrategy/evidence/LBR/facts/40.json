@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-lbr-undp-supports-liberia-s-national-digital-strategy",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The summit served as a springboard for finalizing Liberia's National ICT Policy.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "National ICT Policy",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Policy",
+   "country_label": "Liberia",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministry of Post and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-01-civ-linfodrome-ia-entreprise-journees-ethique-abidjan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Orange Cote d'Ivoire internal AI solution",
+   "country_label": "Orange CI internal AI",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a company's internal AI tool is named, with no model, dataset or computing facility stated."
+}

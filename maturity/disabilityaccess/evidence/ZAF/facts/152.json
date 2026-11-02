@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-01-zaf-deputy-minister-nomalungelo-gina-on-innovations-to-assist-people-with",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "Deputy Minister of Science, Technology and Innovation Nomalungelo Gina launched assistive technologies funded through Technology Innovation Agency programmes, including the Ka-dah smartphone device for blind users, the WeSignIt sign-language app and the Virecom video interpreting service, at Central University of Technology in Bloemfontein on 4 August 2025.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "Ka-dah Device, WeSignIt, Virecom, ShazaCin",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Virecom",
+   "country_label": "South Africa",
+   "class": "accessibility",
+   "platform": "video remote sign language interpreting",
+   "owner": "innovator Jabu Blose, funded via TIA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

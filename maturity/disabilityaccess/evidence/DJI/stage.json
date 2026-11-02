@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "unplaced",
-      "rule": "",
+      "stage": "2",
+      "rule": "underway",
       "delivered": "",
       "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.",
-      "note": "Reassessed 2026-11-01: the 2022 law and convention are known only from 2022 sources, before the three-year window, so no rung is set.",
-      "as_at": "2026-11-01"
+      "stage_sources": "DJI-003;DJI-004",
+      "gaps": "No rule in force since October 2023 is found: the 2022 law is known only from its 2022 text. No delivery, and no audit of public websites or digital services, is found.",
+      "note": "In 2024 the national disability agency worked to digitise the sign language dictionary, with an app, and ran a hackathon on Mobile ID apps for persons with disabilities. That is work under way; no rule in force inside the window is found, so not 3.",
+      "as_at": "2026-11-02"
     }
   ]
 }

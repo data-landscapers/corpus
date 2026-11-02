@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-03-ken-govt-pledges-full-digital-access-for-persons-with-disabilities",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "KBC reports ICT Cabinet Secretary William Kabogo saying the ministry is rolling out the Accessibility Standard for Digital Products, which he says is already influencing how services are designed and delivered.",
+   "as_of": "2025-06-03",
+   "date_precision": "day",
+   "system": "Accessibility Standard for Digital Products",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Accessibility Standard for Digital Products",
+   "country_label": "Accessibility Standard for Digital Products",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "Ministry of ICT and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

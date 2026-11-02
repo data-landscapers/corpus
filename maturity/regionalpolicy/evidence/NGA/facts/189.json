@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-nga-rogue-actors-exploiting-data-nji-ndpc-judicial-capacity",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "NDPC chief Olatunji said Nigeria chairs the Regulatory Harmonisation Committee of the Network of African Data Protection Authorities.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Network of African Data Protection Authorities, Regulatory Harmonisation Committee",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

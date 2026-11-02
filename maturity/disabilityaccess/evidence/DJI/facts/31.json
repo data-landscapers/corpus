@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-dji-note-conceptuelle-lancement-du-mobile-id",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "An October 2024 concept note by the national disability agency (ANPH) presents the Mobile ID launch and a hackathon to build Mobile ID applications that improve access to public services for persons with disabilities.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Mobile ID",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "DJI",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "ANPH",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

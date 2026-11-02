@@ -71,3 +71,10 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-01,MRT,include.access--inclusion-of-persons-with-disabilities,review,no evidence,no evidence,,Rebuild 2026-11-01: first-pass cell re-read against its neighbours from every row held; stage stands.
 2026-11-01,NER,include.access--inclusion-of-persons-with-disabilities,review,no evidence,no evidence,,Rebuild 2026-11-01: first-pass cell re-read against its neighbours from every row held; stage stands.
 2026-11-01,SYC,include.access--inclusion-of-persons-with-disabilities,review,no evidence,no evidence,,Rebuild 2026-11-01: first-pass cell re-read against its neighbours from every row held; stage stands.
+2026-11-02,DJI,include.access--inclusion-of-persons-with-disabilities,fact,unplaced,2,DJI-003;DJI-004,ANPH sign-language dictionary app and Mobile ID accessibility hackathon (2024): unplaced to 2
+2026-11-02,LBY,include.access--inclusion-of-persons-with-disabilities,fact,2,5,LBY-005;LBY-004,"Sept 2026 paper: policy issued Dec 2024; 20+ platforms observed, most fail its standards: 2 to 5"
+2026-11-02,MAR,include.access--inclusion-of-persons-with-disabilities,fact,2,5,MAR-003,Mediator/ONDH/SoS study (Mar 2026): 47.5% of public institutions offer inclusive digital solutions: 2 to 5
+2026-11-02,MUS,include.access--inclusion-of-persons-with-disabilities,fact,1,4,MUS-006;MUS-005,"AI Unit website accessibility tools (May 2026), MSL e-dictionary (2025): 1 to 4; unit's self-audit gives no results"
+2026-11-02,RWA,include.access--inclusion-of-persons-with-disabilities,fact,3,4,RWA-004;RWA-001,"REB edutainment with sign language and audio, 96 episodes by Sept 2024: 3 to 4"
+2026-11-02,SDN,include.access--inclusion-of-persons-with-disabilities,fact,unplaced,5,SDN-003,April 2026 study tested 7 Sudanese websites incl. government against WCAG 2.1 AA: unplaced to 5
+2026-11-02,ZAF,include.access--inclusion-of-persons-with-disabilities,fact,2,4,ZAF-004;ZAF-003,DBE: 406 of 461 special schools received assistive devices (2025); TIA assistive tech launch: 2 to 4

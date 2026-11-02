@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-29-uga-police-pdpo-raid-synclend-uganda-call-centre-arrest-13-over-harassment",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Nile Post reports charges laid on 29 October 2026 under the Data Protection and Privacy Act, Cap. 97.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act, Cap. 97",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Nile Post reports the Personal Data Protection Office acting with police in a raid on SyncLend Uganda on 29 October 2026.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office (PDPO)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "Nile Post reports the PDPO and police raiding a lending call centre on 29 October 2026 over operating loan apps without registering with the PDPO, with 13 arrests.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office (PDPO)",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

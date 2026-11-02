@@ -23,10 +23,10 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 | 5 Leading | 3 |
 | 4 Operating | 10 |
 | 3 Established | 28 |
-| 2 Nascent | 9 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 4 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -338,6 +338,12 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 - The Namibian reports that the National Artificial Intelligence Institute, launched in Windhoek on 23 September 2026 under NCRST, comprises a software development centre, datasets centre, AI innovation centre and R&D centre, and will develop and manage Namibian datasets ([source, 2026-09-23](https://www.namibian.com.na/national-ai-institute-launched/)).
 - New Era reports NCRST launched the National AI Institute in Windhoek, with research, software, datasets and AI innovation centres, and that it is working towards developing high-quality Namibian datasets ([source, 2026-09-23](https://neweralive.na/ncrst-opens-national-ai-institute/)).
 
+### Seychelles: 2 Nascent
+
+A government cloud to host AI computing was planned in 2026 with World Bank support; nothing in service has been found.
+
+- The government cloud project approved under the strategy will provide AI computing infrastructure located in Seychelles for government use, with implementation expected mid-2027 to mid-2028 and World Bank support, says Principal Secretary Choppy ([source, 2026-10-30](https://www.seychellesnewsagency.com/articles/22623/ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan)).
+
 ### South Sudan: 2 Nascent
 
 A national AI model, dataset or computing facility was under way in 2025; none in service is on record.
@@ -357,12 +363,6 @@ Nothing found names an AI model, dataset or computing facility or says there is 
 Not established: Nothing found says whether AI is built or hosted in the country.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing found names an AI model, dataset or computing facility or says there is none, so no stage is set.
-
-Not established: Nothing found says whether AI is built or hosted in the country.
-
-### Seychelles: No evidence
 
 Nothing found names an AI model, dataset or computing facility or says there is none, so no stage is set.
 

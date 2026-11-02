@@ -2,7 +2,7 @@
 
 ## Technology hubs
 
-**Hub programmes.** [Tech Africa News reports that the 2026 MoMo Fintech Lab, launched 12 August 2026 by Mobile Money Fintech Limited with Hubtel as technology partner, is a three-month programme giving fintech innovators hackathons, mentorship and incubation support before a national Demo Day](<https://techafricanews.com/2026/08/17/hubtel-partners-with-momo-fintech-lab-to-back-ghanas-next-fintech-innovators/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Hub programmes.** On 12 August 2026 [Mobile Money Fintech Limited launched the 2026 MoMo Fintech Lab, with Hubtel as technology partner](<https://techafricanews.com/2026/08/17/hubtel-partners-with-momo-fintech-lab-to-back-ghanas-next-fintech-innovators/>). It is a three-month programme for fintech innovators. It offers hackathons, mentorship and incubation support before a national Demo Day. In December 2025 a Graphic Online column said [the 2026 budget gives GH¢70 million to Digital Youth Hubs](<https://www.graphic.com.gh/news/general-news/ghana-news-2026-budget-through-lens-of-communication-digital-transformation.html>). The column does not say where the hubs are or when they open.
 
 **Several cities.** No source found since October 2023 says hubs with programmes are in service in two or more cities. The nearest held fact: [the one given above](<https://techafricanews.com/2026/08/17/hubtel-partners-with-momo-fintech-lab-to-back-ghanas-next-fintech-innovators/>).
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-26-tza-tanzania-invests-over-sh140-billion-to-bridge-communication-divide",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "UCSAF said the government allocated Sh700 million to equip special needs schools with Braille printers, laptops, smart boards and tablets, with 10 vocational and rehabilitation centres for people with disabilities expected to benefit in 2024/25.",
+   "as_of": "2025-05-26",
+   "date_precision": "day",
+   "system": "UCSAF special needs ICT equipment",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

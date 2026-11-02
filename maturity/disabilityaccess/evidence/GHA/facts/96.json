@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-30-gha-digital-skills-for-the-visually-impaired-in-ghana-from-training-instru",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "fact": "GIFEC trained more than 474 visually impaired people in computer fundamentals and assistive technologies through its Community ICT Centres in 13 regions in March-April 2024.",
+   "value": "delivered",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "ICBVI",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-24-moz-e-m-magazine-the-role-of-government-institutions-in-the-digital-world",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "E&M Magazine reports INTIC makes an 'Advanced Digital Signer' available on its portal, letting holders of accounts with state entities sign documents electronically and recipients verify authenticity.",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "Advanced Digital Signer",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "INTIC president Lourino Chemane says the Advanced Digital Signer is used by ten civil service institutions.",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "Advanced Digital Signer",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Advanced Digital Signer",
+   "country_label": "MOZ",
+   "class": "authentication",
+   "platform": "INTIC portal",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

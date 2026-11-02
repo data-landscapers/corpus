@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-02-gha-govt-to-introduce-new-data-protection-bill-to-regulate-ai-cross-border",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Data Protection Commission's Executive Director, Dr Arnold Kavaarpuo, gave the welcome address at the 2026 Data Protection Conference in Accra, so the authority has a serving head.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Ghana",
+   "class": "system",
+   "platform": "",
+   "owner": "Data Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "The new Data Protection Bill is in development; the document does not say whether an existing law is in force."
+}

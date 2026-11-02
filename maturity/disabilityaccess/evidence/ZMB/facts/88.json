@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-15-zmb-zapd-observes-14th-global-accesibility-awareness-day",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "ZAPD says Cabinet Memo Number 30 on Accessibility has been issued and that Draft National Accessibility Standards covering built and digital environments have been developed.",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "Draft National Accessibility Standards",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft National Accessibility Standards",
+   "country_label": "Zambia",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "Zambia Agency for Persons with Disabilities",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

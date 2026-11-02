@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "2",
-      "rule": "underway",
+      "stage": "5",
+      "rule": "inforce",
       "delivered": "",
-      "audit": "",
+      "audit": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-002;LBY-003",
-      "gaps": "No source found since October 2023 says: is a rule in force.",
-      "note": "Reassessed 2026-11-01: the National Digital Accessibility Policy was adopted in April 2025, and in January 2026 mandatory compliance was still the coming phase. It does not yet require accessibility, so not 3.",
-      "as_at": "2026-11-01"
+      "stage_sources": "LBY-005;LBY-004",
+      "gaps": "Sources disagree on when the National Digital Accessibility Policy took effect: a December 2024 issue described as mandatory (LBY-004), or adoption in April 2025 with mandatory compliance still to come in January 2026 (LBY-002). No delivery of accessible services by a government body is found.",
+      "note": "A paper of September 2026 reports observing more than 20 government and private platforms and finding most fail the national policy's standards. A later yes answers the earlier ones, so 5.",
+      "as_at": "2026-11-02"
     }
   ]
 }

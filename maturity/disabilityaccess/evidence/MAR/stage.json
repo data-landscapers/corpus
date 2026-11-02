@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "2",
+      "stage": "5",
       "rule": "underway",
       "delivered": "",
-      "audit": "",
+      "audit": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-001;MAR-002",
-      "gaps": "No source found since October 2023 says: is a rule in force.",
-      "note": "Reassessed 2026-11-01: the digital transition minister held a 2026 consultation on access of persons with disabilities to digital public services, for the Open Government plan. No rule in force is held, so not 3.",
-      "as_at": "2026-11-01"
+      "stage_sources": "MAR-003",
+      "gaps": "No rule in force is found: a 2024 study of public-sector web teams reports no legal framework or guidelines (MAR-005). No delivery of accessible digital services by a government body is found.",
+      "note": "A study by the Mediator, the ONDH and the Secretariat of State for Social Inclusion, presented in March 2026, found 47.5% of public institutions offer inclusive digital solutions. A later yes answers the earlier ones, so 5.",
+      "as_at": "2026-11-02"
     }
   ]
 }

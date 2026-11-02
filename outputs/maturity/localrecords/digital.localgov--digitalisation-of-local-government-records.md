@@ -368,7 +368,7 @@ Three of 22 councils had a property tax system by December 2025, billing only in
 
 ### South Sudan: 2 Nascent
 
-A digital revenue system was launched for Juba City Council in September 2026; the council is still leaving manual collection. No other council is named.
+Juba City Council moved its revenue operations to a digital system in October 2026; no council outside the capital is named.
 
 *Advancing.*
 
@@ -376,6 +376,7 @@ A digital revenue system was launched for Juba City Council in September 2026; t
 - The system's roll out covers only Juba City Council and its four blocks (HQ, Juba, Kator, Munuki, Environment as the notice lists them); it is announced as just started, with no other local government named ([source, 2022-10-04](https://www.onecitizendaily.com/index.php/2022/10/21/advertisement-by-juba-city-council-jcc/)).
 - Access Radio reports on 8 October 2026 that the Central Equatoria State Government launched a Digital Revenue Collection System and e-Services for Juba City Council in September 2026, and that the council's first executive meeting under its caretaker mayor put the move from manual to digital revenue collection at the centre of its priorities ([source, 2026-09](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/)).
 - The report of 8 October 2026 names only Juba City Council, the capital's council, and describes the move from manual revenue collection to a digital system as a transition the council is still to make ([source, 2026-10-08](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/)).
+- Juba City Council's caretaker mayor said the council had in the last 10 days moved all its revenue operations from manual forms to a digital payment system, after a digitalisation law passed ([source, 2026-10](https://www.radiotamazuj.org/en/news/article/juba-city-council-launches-digital-payment-system-to-improve-transparency)).
 
 ### Sudan: 2 Nascent
 

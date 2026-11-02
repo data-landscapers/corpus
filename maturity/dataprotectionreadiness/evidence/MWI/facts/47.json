@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-12-mwi-detectives-cashing-in-on-search-warrants",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Nation says the Data Protection Act came into force on 3 June 2024 as a comprehensive framework for protecting personal data.",
+   "as_of": "2024-06-03",
+   "date_precision": "day",
+   "system": "Data Protection Act 2024",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Nation says the Act designates Macra as the data protection authority, and a DPA enforcement officer, Tamanda Kamundi, replied to a complainant.",
+   "as_of": "2024-06-03",
+   "date_precision": "day",
+   "system": "Data Protection Authority (Macra)",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 2024",
+   "country_label": "Malawi",
+   "class": "system",
+   "platform": "",
+   "owner": "Macra",
+   "tiers": ""
+  }
+ ],
+ "note": "The DPA declined a complaint that predated commencement, so no implementing fact."
+}

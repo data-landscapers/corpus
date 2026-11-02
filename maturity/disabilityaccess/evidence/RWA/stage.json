@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "3",
+      "stage": "4",
       "rule": "inforce",
-      "delivered": "",
+      "delivered": "delivered",
       "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-001",
-      "gaps": "No source found since October 2023 says accessible digital services or assistive technology were delivered.",
-      "note": "Reassessed 2026-11-01: RISA's websites guideline (2025) requires every government website to meet WCAG 2.2. No delivery by a government body is held, so not 4.",
-      "as_at": "2026-11-01"
+      "stage_sources": "RWA-004;RWA-001",
+      "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+      "note": "By September 2024 the Rwanda Basic Education Board had recorded 96 edutainment episodes with sign language and audio for deaf and blind children, broadcast on radio, TV and online. Stage 5 needs a published audit, and none is found.",
+      "as_at": "2026-11-02"
     }
   ]
 }

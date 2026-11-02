@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-syc-ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The government cloud project approved under the strategy will provide AI computing infrastructure located in Seychelles for government use, with implementation expected mid-2027 to mid-2028 and World Bank support, says Principal Secretary Choppy.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Government Cloud & Government Data Centre",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

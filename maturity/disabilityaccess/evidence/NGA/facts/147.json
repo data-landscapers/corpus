@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-08-nga-ncc-donates-50-laptops-to-disabilities-commission",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "The Nigeria Communications Commission donated 50 laptops to the National Commission for Persons with Disabilities, to build the digital communication skills of persons with disabilities.",
+   "as_of": "2024-05-07",
+   "date_precision": "day",
+   "system": "NCC laptop donation",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Accessibility Manuals",
+   "country_label": "Nigeria",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "National Commission for Persons with Disabilities",
+   "tiers": ""
+  }
+ ],
+ "note": "Laptops went to the commission, not directly to persons with disabilities."
+}

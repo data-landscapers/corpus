@@ -1,16 +1,17 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "consultation",
-   "stage": "no evidence",
-   "hearing": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says people outside government were asked for their views on a digital law or policy, or that they were not.",
-   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "consultation",
+      "stage": "2",
+      "hearing": "held",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-001",
+      "gaps": "The consultation on the national digital transformation strategy is stated by the government in May 2025, with no hearing, workshop or call for comment dated or described. No published report of it, comments received or answer to them is held.",
+      "note": "The strategy unveiled in May 2025 is described as the result of broad consultation with experts, economic operators and digital actors, which meets stage 2. Stage 3 needs a published account of what was said.",
+      "as_at": "2026-11-02"
+    }
+  ]
 }

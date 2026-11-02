@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-gnq-continuan-las-comparecencias-de-los-miembros-del-gobierno-en-la-comisi",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Equatorial Guinea's Ministry of Transport, Telecommunications and Civil Aviation told the parliamentary budget committee it has drafted a preliminary bill (anteproyecto de ley) on cybersecurity.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "cybersecurity anteproyecto de ley",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

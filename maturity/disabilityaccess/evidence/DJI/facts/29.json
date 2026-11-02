@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-03-dji-anph-mieux-comprendre-l-usage-et-la-connaissance-des-langues-des-signe",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The National Agency for Persons with Disabilities held a workshop on its sign-language survey to digitise the Djiboutian sign language dictionary, and is finalising a Play Store app to learn the language.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "Djiboutian sign language dictionary app",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djiboutian sign language dictionary app",
+   "country_label": "Djibouti",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "Agence Nationale des Personnes Handicapees",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
