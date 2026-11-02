@@ -78,7 +78,8 @@ NO_SUBTOPICS = {"geopol.china"}
 BLANK = re.compile(r"\b(commercial|concessional|interest-free|syndicated) loan|(preferential )?buyer.?s credit"
                    r"|additional financing|bank of china|china (eximbank|development bank|construction bank)"
                    r"|world bank|exim ?bank|development bank"
-                   r"|international bank for reconstruction and development", re.I)
+                   r"|international bank for reconstruction and development"
+                   r"|global environment facility|green climate fund", re.I)
 PUBLIC_FINANCE = re.compile(r"\btax|customs|douane|revenue (authorit|administration|service)|imp[ôo]ts"
                             r"|public financ|procurement|march[ée]s publics|treasury|tr[ée]sor", re.I)
 
