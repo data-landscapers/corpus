@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-02
 place: NGA
 ledger_rows: 75
 not_held: 9
-record: 89d55d610ce4
+record: 836623111ee5
 ---
 
 # News, Oct – Nov 2026
@@ -860,7 +860,7 @@ Mastercard and Interswitch launched Google Pay contactless payments for eligible
 
 **[Verve plans phone tap-to-pay and AI agent payments, CEO says](https://techcabal.com/2026/10/31/verve-ai-payment/)** — TechCabal, 31 October 2026
 
-Interswitch card scheme at 130m cards (2026); phone tap-to-pay next, AI-agent payments later; no launch dates.
+Verve, Nigeria's largest card scheme, plans phone tap-to-pay and later payments made by AI assistants, its chief executive said on 29 October 2026. He said Verve now has 130 million cards. No launch date was given.
 
 </div>
 

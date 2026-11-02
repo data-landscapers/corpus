@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-02
 place: GNQ
 ledger_rows: 16
 not_held: 6
-record: 634aac8e40ea
+record: 6365d171370b
 ---
 
 # News, Oct – Nov 2026
@@ -42,7 +42,7 @@ record: 634aac8e40ea
 
 **[Continúan las comparecencias de los miembros del Gobierno en la Comisión Parlamentaria que analiza los Presupuestos Generales](https://www.guineaecuatorialpress.com/noticias/continuan_las_comparecencias_de_los_miembros_del_gobierno_en_la_comision_parlamentaria_que_analiza_los_presupuestos_generales)** — Oficina de Información y Prensa de Guinea Ecuatorial, 8 October 2026
 
-Budget hearing: digital-economy strategy still drafting with World Bank; draft cybersecurity bill; e-signature planned.
+Equatorial Guinea's transport and telecommunications minister reported to the parliamentary budget committee in October 2026. He said the ministry is drafting a national digital economy strategy with the World Bank. It has also prepared a preliminary cybersecurity bill.
 
 </div>
 

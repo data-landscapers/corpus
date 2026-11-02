@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-02
 place: CIV
 ledger_rows: 27
 not_held: 9
-record: bac34b3b931d
+record: 654cdee292fe
 ---
 
 # News, Oct – Nov 2026
@@ -152,7 +152,7 @@ Côte d'Ivoire's cybersecurity agency ANSSI opened CYBER.EX 2026, the country's 
 
 **[La Côte d'Ivoire teste sa réponse à une cyberattaque lors d'un premier exercice national](https://news.abidjan.net/articles/749802/la-cote-divoire-teste-sa-reponse-a-une-cyberattaque-lors-dun-premier-exercice-national)** — Abidjan.net News (AFP), 30 October 2026
 
-CYBER.EX 2026 closes; energy-telecom-payments scenario; Air Cote d'Ivoire breach of Feb 2026; next edition Oct 2027.
+Côte d'Ivoire held its first national cyber-crisis exercise, CYBER.EX 2026, in Abidjan over two days in October 2026. The scenario was an attack on energy, telecommunications and payment systems at once. The head of the national security agency, ANSSI-CI, named AI-assisted ransomware as a main threat.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-02
 place: SYC
 ledger_rows: 10
 not_held: 6
-record: c6bdc85158df
+record: afd8bb2a2933
 ---
 
 # News, Oct – Nov 2026
@@ -128,7 +128,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[AI to support permits, healthcare and fraud detection under Seychelles' $50 million digital plan](https://www.seychellesnewsagency.com/articles/22623/ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan)** — Seychelles News Agency, 30 October 2026
 
-Strategy costed at USD 50m over five years; government cloud build mid-2027 to mid-2028; World Bank STRIDE support.
+Seychelles' Cabinet approved the Digital and AI Strategy 2026–2031 on 28 October 2026. It is costed at US$50 million over five years, from government and international funding. The principal secretary for ICT said its first project is a government cloud and data centre.
 
 </div>
 

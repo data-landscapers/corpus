@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-02
 place: UGA
 ledger_rows: 29
 not_held: 12
-record: 105f6c57de99
+record: 6996532ecf59
 ---
 
 # News, Oct – Nov 2026
@@ -210,7 +210,7 @@ A TikTok user was charged in Kampala on 6 October with unlawfully obtaining and 
 
 **[Police, PDPO Raid SyncLend Uganda Call Centre, Arrest 13 Over Harassment of Loan Defaulters’ Relatives](https://nilepost.co.ug/crime/382650/police-pdpo-raid-synclend-uganda-call-centre-arrest-13-over-harassment-of-loan-defaulters-relatives)** — Nile Post, 29 October 2026
 
-Joint PDPO-police raid 29 Oct 2026; charges under Data Protection and Privacy Act ss.29 and 35; four lending apps named.
+Uganda's Personal Data Protection Office and the police raided SyncLend Uganda's Kampala call centre on 29 October 2026 and arrested 13 people. The firm's lending apps are alleged to have harassed borrowers' relatives and friends. The charges are failure to register with the office and unlawful disclosure of personal data.
 
 </div>
 

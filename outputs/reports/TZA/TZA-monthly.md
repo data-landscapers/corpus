@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-02
 place: TZA
 ledger_rows: 36
 not_held: 5
-record: 504a10749c36
+record: 15967cf546ce
 ---
 
 # News, Oct – Nov 2026
@@ -474,7 +474,7 @@ Tanzania's education minister Adolf Mkenda launched the Integrated National Digi
 
 **[Digital shift boosts access to Sh42.6 trillion tender market](https://www.thecitizen.co.tz/tanzania/news/national/digital-shift-boosts-access-to-sh42-6-trillion-tender-market-5651820)** — The Citizen, 30 October 2026
 
-PPRA figures to Oct 2026: 430,643 tenders, compliance 79% in 2025/26; Bank Security Portal links 36 banks.
+Tanzania's procurement regulator said on 29 October 2026 that the NeST e-procurement system has handled 430,643 tenders worth TZS 42.6 trillion since September 2023. Compliance with procurement law reached 79% in 2025/26. A portal opened on 1 October 2026 links more than 36 banks to issue tender securities through NeST.
 
 </div>
 

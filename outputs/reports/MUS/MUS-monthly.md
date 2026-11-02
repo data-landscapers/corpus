@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-02
 place: MUS
 ledger_rows: 31
 not_held: 7
-record: 1a7965482d02
+record: 6d8437595423
 ---
 
 # News, Oct – Nov 2026
@@ -210,7 +210,7 @@ Summarised under [Data protection](#data-protection).
 
 **[AFRINIC Official Statement on the Inclusion of Cloud Innovation Limited in the Register of Members, Mauritius](https://afrinic.net/afrinic-official-statement-on-the-inclusion-of-cloud-innovation-limited-in-the-register-of-members.html)** — AFRINIC, 31 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Receiver's legal notice of 29 Oct 2026 demands CIL's removal; relies on 19 June 2025 ruling calling it a resource member.
+AFRINIC's receiver served a notice on Mauritius's Registrar of Companies on 29 October 2026, demanding that Cloud Innovation be removed from AFRINIC's register of members. AFRINIC relies on a Supreme Court ruling of 19 June 2025. Cloud Innovation cites an order of 11 June 2025 to include it as a member.
 
 </div>
 

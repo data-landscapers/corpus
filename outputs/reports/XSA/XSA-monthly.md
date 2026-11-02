@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-02
 place: XSA
 ledger_rows: 8
 not_held: 2
-record: 074c0c7e98cc
+record: 149fed038e39
 ---
 
 # News, Oct – Nov 2026
@@ -88,7 +88,7 @@ Mozambique joined the SADC Regional Working Group on Data Protection through INT
 
 **[PRESS RELEASE: COMESA IDEA Programme Kicks Off National Consultative Engagements to Advance Least-Cost Digital Infrastructure Planning in Eastern and Southern Africa - Digitalization in Eastern and Southern Africa (IDEA)](https://idea.comesa.int/press-release-comesa-idea-programme-kicks-off-national-consultative-engagements-to-advance-least-cost-digital-infrastructure-planning-in-eastern-and-southern-africa/)** — COMESA IDEA Programme, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
-Five-state series: Tanzania and Ethiopia done; Madagascar, Uganda, Eswatini in Nov 2026; four workstreams.
+COMESA's IDEA programme is holding four-day national workshops on least-cost digital infrastructure planning and financing. Tanzania and Ethiopia held theirs in October 2026. Madagascar, Uganda and Eswatini follow in November.
 
 </div>
 
