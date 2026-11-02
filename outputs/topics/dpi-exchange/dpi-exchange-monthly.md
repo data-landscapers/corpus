@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MOZ; NGA; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 483cfb8019e8
+record: 99e3858f10c1
 ---
 
 # News, Oct – Nov 2026

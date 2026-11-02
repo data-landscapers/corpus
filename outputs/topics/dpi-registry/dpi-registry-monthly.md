@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: dpi.registry
 places: DZA; AGO; BEN; CMR; COM; CIV; COD; ETH; GAB; GMB; GIN; LSO; MDG; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
-record: 040399b9ccdc
+record: 1dc44e947ea0
 ---
 
 # News, Oct – Nov 2026

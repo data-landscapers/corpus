@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: digital.rural
 places: CMR; NGA; RWA; TGO; ZWE
-record: 65acc436f18b
+record: 7ba1db7918f2
 ---
 
 # News, Oct – Nov 2026

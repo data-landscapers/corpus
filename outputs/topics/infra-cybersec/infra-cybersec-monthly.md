@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: infra.cybersec
 places: BEN; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; ZMB; ZWE
-record: 368323a564f4
+record: 9657b91ad87d
 ---
 
 # News, Oct – Nov 2026
@@ -154,6 +154,14 @@ Côte d'Ivoire's information-systems security agency will run a first national c
 **[CYBER.EX 2026 : l’ANSSI veut préparer la Côte d’Ivoire aux crises numériques](https://www.linfodrome.com/societe/126972-cyber-ex-2026-l-anssi-veut-preparer-la-cote-d-ivoire-aux-crises-numeriques)** — Linfodrome, 28 October 2026
 
 Côte d'Ivoire's cybersecurity agency ANSSI opened CYBER.EX 2026, the country's first national cyber-crisis exercise, on 28 October 2026. It tests how government bodies, companies and the defence and security forces respond to a simulated cyberattack and work together.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Côte d'Ivoire teste sa réponse à une cyberattaque lors d'un premier exercice national](https://news.abidjan.net/articles/749802/la-cote-divoire-teste-sa-reponse-a-une-cyberattaque-lors-dun-premier-exercice-national)** — Abidjan.net News (AFP), 30 October 2026
+
+Côte d'Ivoire held its first national cyber-crisis exercise, CYBER.EX 2026, in Abidjan over two days in October 2026. The scenario was an attack on energy, telecommunications and payment systems at once. The head of the national security agency, ANSSI-CI, named AI-assisted ransomware as a main threat.
 
 </div>
 

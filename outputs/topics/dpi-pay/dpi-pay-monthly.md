@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: dpi.pay
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: c45c4f24cb8d
+record: dfb8910b5c88
 ---
 
 # News, Oct – Nov 2026
@@ -1089,6 +1089,20 @@ CBN deputy governor Lamido Abubakar Yuguda spoke at a CBN-NITDA dialogue in Lago
 **[Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria](https://techcabal.com/2026/10/28/mastercard-interswitch-launch-google-pay/)** — TechCabal, 28 October 2026
 
 Mastercard and Interswitch launched Google Pay contactless payments for eligible Mastercard holders in Nigeria, using Mastercard tokenisation and Interswitch links to issuing banks. Supported cards include those of FirstBank, GTBank, UBA and Zenith. On 26 October 2026 Interswitch announced tap-to-pay tokenisation with five banks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Verve card scheme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Verve plans phone tap-to-pay and AI agent payments, CEO says](https://techcabal.com/2026/10/31/verve-ai-payment/)** — TechCabal, 31 October 2026
+
+Verve, Nigeria's largest card scheme, plans phone tap-to-pay and later payments made by AI assistants, its chief executive said on 29 October 2026. He said Verve now has 130 million cards. No launch date was given.
 
 </div>
 

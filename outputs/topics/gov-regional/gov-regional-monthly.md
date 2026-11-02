@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MOZ; NAM; NER; NGA; RWA; STP; SEN; TZA; TGO; UGA; ZMB; ZWE
-record: 84e21126d972
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; TZA; TGO; UGA; ZMB; ZWE
+record: f1d1eb1499df
 ---
 
 # News, Oct – Nov 2026
@@ -41,6 +41,8 @@ record: 84e21126d972
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mali">Mali</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -608,6 +610,30 @@ Liberia became the 43rd member of the Smart Africa Alliance, the admission compl
 **[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou on 15-16 October 2026, set 1 January 2027 for national company lists to support a regional identification code and 31 January for a technical unit to supervise interconnected customs data. Nine of the 18 recommendations from their 2025 meeting have been implemented, six are under way and three are outstanding.
+
+</div>
+
+</div>
+
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AFRINIC board and receivership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFRINIC Official Statement on the Inclusion of Cloud Innovation Limited in the Register of Members, Mauritius](https://afrinic.net/afrinic-official-statement-on-the-inclusion-of-cloud-innovation-limited-in-the-register-of-members.html)** — AFRINIC, 31 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+AFRINIC's receiver served a notice on Mauritius's Registrar of Companies on 29 October 2026, demanding that Cloud Innovation be removed from AFRINIC's register of members. AFRINIC relies on a Supreme Court ruling of 19 June 2025. Cloud Innovation cites an order of 11 June 2025 to include it as a member.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cloud Innovation Statement on AFRINIC Member Rights](https://cloudinnovation.org/newsroom/afrinic-must-respect-members-rights/)** — Cloud Innovation, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Cloud Innovation rejected AFRINIC's demand, made through the receiver's notice of 29 October 2026, to remove it from the company register. It cites a Mauritius Supreme Court order of 11 June 2025 directing AFRINIC to record it as a member. It asks that every resource member be entered in the register with the rights company law gives members.
 
 </div>
 

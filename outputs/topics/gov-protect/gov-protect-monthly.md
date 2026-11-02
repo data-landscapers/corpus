@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: gov.protect
 places: AGO; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a9d1151d1967
+record: 5e63e7756c1e
 ---
 
 # News, Oct – Nov 2026
@@ -577,6 +577,14 @@ Uganda's communications regulator launched a child online protection campaign at
 **[TikToker charged over alleged fake news, data disclosure](https://www.newvision.co.ug/category/news/tiktoker-charged-over-alleged-fake-news-data-NV_241989_102026)** — New Vision, 7 October 2026
 
 A TikTok user was charged in Kampala on 6 October with unlawfully obtaining and disclosing personal data under Uganda's data protection act, and with publishing false news, over a photograph and video of a State House employee. He denied the charges; the case returns on 19 October.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Police, PDPO Raid SyncLend Uganda Call Centre, Arrest 13 Over Harassment of Loan Defaulters’ Relatives](https://nilepost.co.ug/crime/382650/police-pdpo-raid-synclend-uganda-call-centre-arrest-13-over-harassment-of-loan-defaulters-relatives)** — Nile Post, 29 October 2026
+
+Uganda's Personal Data Protection Office and the police raided SyncLend Uganda's Kampala call centre on 29 October 2026 and arrested 13 people. The firm's lending apps are alleged to have harassed borrowers' relatives and friends. The charges are failure to register with the office and unlawful disclosure of personal data.
 
 </div>
 

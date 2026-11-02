@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1923c35618c1
+record: bf839354a07f
 ---
 
 # News, Oct – Nov 2026
@@ -587,6 +587,8 @@ Equatorial Guinea's government announced a digital edition of its official gazet
 </div>
 
 </div>
+
+
 
 <div class="monthly-story" markdown="1">
 
@@ -1712,6 +1714,20 @@ Tanzania's Vice President directed the youth and labour ministries to merge the 
 **[Tanzania Launches Digital Library System as Mkenda Urges Board to Prioritise Books Over Buildings - The Chanzo](https://thechanzo.com/2026/10/21/tanzania-launches-digital-library-system-as-mkenda-urges-board-to-prioritise-books-over-buildings/)** — The Chanzo, 21 October 2026
 
 Tanzania's education minister Adolf Mkenda launched the Integrated National Digital Library System, built by the Tanzania Library Services Board with the e-Government Authority, which handles registration, ISBN and ISSN applications, cataloguing, lending and billing on web and mobile. Copyright limits mean not every title will be online in full.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-Procurement System (NeST)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital shift boosts access to Sh42.6 trillion tender market](https://www.thecitizen.co.tz/tanzania/news/national/digital-shift-boosts-access-to-sh42-6-trillion-tender-market-5651820)** — The Citizen, 30 October 2026
+
+Tanzania's procurement regulator said on 29 October 2026 that the NeST e-procurement system has handled 430,643 tenders worth TZS 42.6 trillion since September 2023. Compliance with procurement law reached 79% in 2025/26. A portal opened on 1 October 2026 links more than 36 banks to issue tender securities through NeST.
 
 </div>
 

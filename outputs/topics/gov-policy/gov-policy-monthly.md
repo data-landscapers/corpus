@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
-record: 86a835f1c5a0
+record: f511efc8f774
 ---
 
 # News, Oct – Nov 2026

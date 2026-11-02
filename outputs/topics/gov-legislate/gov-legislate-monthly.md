@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 4397aa1a873c
+record: c0cab50c7406
 ---
 
 # News, Oct – Nov 2026
@@ -277,6 +277,20 @@ The director general of Côte d'Ivoire's telecoms regulator, ARTCI, Lakoun Ouatt
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Any Ivorian artificial-intelligence statute</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle en entreprise : à Abidjan, les experts appellent à encadrer les usages](https://www.linfodrome.com/high-tech/127109-intelligence-artificielle-en-entreprise-a-abidjan-les-experts-appellent-a-encadrer)** — Linfodrome, 1 November 2026
+
+An official of Côte d'Ivoire's Ministry of Digital Transition said on 27 October 2026 that the ministry is drafting a text to regulate the use of artificial intelligence. He said it would complement the existing personal-data protection rules. No draft or timetable was given.
+
+</div>
+
+</div>
+
 ## Djibouti
 
 <div class="monthly-story" markdown="1">
@@ -390,6 +404,20 @@ Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-base
 </div>
 
 ## Equatorial Guinea
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Continúan las comparecencias de los miembros del Gobierno en la Comisión Parlamentaria que analiza los Presupuestos Generales](https://www.guineaecuatorialpress.com/noticias/continuan_las_comparecencias_de_los_miembros_del_gobierno_en_la_comision_parlamentaria_que_analiza_los_presupuestos_generales)** — Oficina de Información y Prensa de Guinea Ecuatorial, 8 October 2026
+
+Equatorial Guinea's transport and telecommunications minister reported to the parliamentary budget committee in October 2026. He said the ministry is drafting a national digital economy strategy with the World Bank. It has also prepared a preliminary cybersecurity bill.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

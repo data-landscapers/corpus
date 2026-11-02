@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 subject: infra.store
-places: DZA; BWA; BFA; CMR; EGY; SWZ; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 2c02c7932152
+places: DZA; BWA; BFA; CMR; EGY; SWZ; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
+record: f5db915efbdb
 ---
 
 # News, Oct – Nov 2026
@@ -39,6 +39,8 @@ record: 2c02c7932152
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -415,6 +417,23 @@ Rwanda's Minister of State for ICT and Innovation Yves Iradukunda told the Afric
 **[STELLARIX Senegal Expands Data Centre Capacity to Support AI and Digital Growth](https://techafricanews.com/2026/10/02/stellarix-senegal-expands-data-centre-capacity-to-support-ai-and-digital-growth/)** — Tech Africa News, 2 October 2026
 
 STELLARIX Senegal, part of the AXIAN Group, said it has expanded its data-centre capacity in Senegal for cloud, AI and hosting demand. It named three contractors and gave no capacity or cost figure.
+
+</div>
+
+</div>
+
+## Seychelles
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government Cloud and Datacenter Project</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[AI to support permits, healthcare and fraud detection under Seychelles' $50 million digital plan](https://www.seychellesnewsagency.com/articles/22623/ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan)** — Seychelles News Agency, 30 October 2026
+
+Seychelles' Cabinet approved the Digital and AI Strategy 2026–2031 on 28 October 2026. It is costed at US$50 million over five years, from government and international funding. The principal secretary for ICT said its first project is a government cloud and data centre.
 
 </div>
 
