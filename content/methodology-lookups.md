@@ -12,6 +12,9 @@ Many of the decisions made by Corpus are based on the various lookup tables list
 ## Indicators
 <!-- table: lookups/indicators.csv | indicator_id, Topic L1 as Chapter, Topic, Progress indicator as Indicator -->
 
+## Finance sectors
+<!-- table: lookups/finance-sectors.csv | label as Sector, cofog as COFOG, definition as Definition -->
+
 ## Progress Categories
 | Value             | Meaning                                                                       |
 | ----------------- | ----------------------------------------------------------------------------- |

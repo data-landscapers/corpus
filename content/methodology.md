@@ -80,6 +80,18 @@ The non-state finance dataset aims at a claim nobody else supports well: an inte
 - **Blanks are honest.** Where a value cannot be derived safely from the source it is left blank with the reason — never estimated, never defaulted to zero.
 - **National budget data is still under development** Budget data, where available is recorded at five stages: proposed, appropriated, released, executed or audited.
 
+## Finance sectors
+
+Every finance row, budget line or non-state commitment, carries a *sector*: the field the money serves, such as health, education or finance. The list is built on the UN Classification of the Functions of Government (COFOG), adapted for digital finance. The [full list](lookups/#finance-sectors) gives each sector's COFOG code.
+
+- **A row takes the sector of the body that spends the money.** COFOG classifies each item of spending by its function. Budgets name the ministry and spending entity instead, so a budget line takes the sector of its ministry, then of its spending entity. A statistics unit inside an agriculture ministry is an agriculture line. A non-state commitment takes the sector of a public recipient, then of its title, then of its description. One that names no field takes its topic's sector, usually digital. The result is an administrative classification mapped onto COFOG's headings.
+- **COFOG's broad divisions are split.** Most digital spending falls in COFOG 01, general public services, and 04, economic affairs, so each is split by function. Division 01 becomes the executive and legislature, finance, foreign affairs, public service, national statistics, science and research, and local government. Division 04 becomes trade and labour, agriculture, energy and mining, transport, and digital.
+- **Identity is a sector of its own.** Interior ministries, civil registration, identity and immigration form one sector, which COFOG splits between 01 and 03, because identity is a large part of digital public infrastructure.
+- **Two sectors reach beyond government.** COFOG covers government only, but non-state finance often goes to firms. Finance includes banks, payment providers and fintech firms. Digital includes telecom operators, tower and data-centre companies, tech firms and the funds that invest in them.
+- **Unattributed is a sector.** It holds rows whose spending body names no field, such as special accounts and cross-government votes.
+- **Sector is not sub-topic.** The sub-topic says what the money buys and the sector what it serves: a tax authority's IT unit is sub-topic IT and sector finance.
+- **The sector is our assessment, and still changing.** It is applied by rules on each row's own words. Where the rules misread a row, a correction is recorded for that row.
+
 ## Coverage, corrections and versions
 
 - **Coverage is deliberately uneven.** Corpus goes deep where there is active work and stays thin elsewhere; a thin country page reflects collection priorities, not necessarily a quiet country. Collection intensity should never be read as a measure of a country's actual activity.
