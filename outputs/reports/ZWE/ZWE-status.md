@@ -1,12 +1,12 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-10-30
+compiled: 2026-11-02
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 201
+sources_cited: 202
 sections_written: 39
 not_established: 1
 acquire_lines: 37
@@ -59,9 +59,9 @@ What Zimbabwe does export is practice rather than rules. It [presented its e-pas
 ### Standards
 <!-- gov.standards -->
 
-Government systems in Zimbabwe are specified one at a time. The e-Government Technology Unit in the Office of the President and Cabinet named [poor connectivity between ministries, departments and agencies](https://www.newsday.co.zw/local-news/article/200042263/govt-reviews-ict-standards-to-boost-digitalisation) as a significant hurdle to e-government at an ICT standards review held at Kariba in May 2025, and the GovTech Maturity Index records [no whole-of-government interoperability framework](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and no data-quality or uptime standard applied to government data exchange, as at 2025.
+In May 2025 the e-Government Technology Unit in the Office of the President and Cabinet named [poor connectivity between ministries, departments and agencies](https://www.newsday.co.zw/local-news/article/200042263/govt-reviews-ict-standards-to-boost-digitalisation) as a significant hurdle to e-government. It did so at an ICT standards review held at Kariba. The GovTech Maturity Index records [no whole-of-government interoperability framework](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) as at 2025. It records no data-quality or uptime standard applied to government data exchange either.
 
-There is also [no open-source software policy for government, no governance arrangement for open-source adoption and no route by which open-source suppliers can enter the government market](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Where a shared standard does exist it stops at the centre: the [standardised budget and financial classification reaches central government only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), so spending outside it is not classified to the same chart of accounts. The [e-procurement system](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) is the one platform the index records as enforcing standards on what is procured. Internationally, Zimbabwe was listed in January 2024 as [a participating member of the ISO/IEC committee that writes the information-security, cybersecurity and privacy standards](https://committee.iso.org/files/live/sites/jtc1sc27/files/resources/SC27%20COMMITTEE%20DOCUMENT%2011.pdf).
+The same index found [no open-source software policy for government, no governance arrangement for open-source adoption and no route for open-source suppliers into the government market](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) in 2025. Its [standardised budget and financial classification reaches central government only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), so spending outside it is not classified to the same chart of accounts. The [e-procurement system](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) is the one platform the index records as enforcing standards on what is procured. In January 2024 Zimbabwe was listed as [a participating member of the ISO/IEC committee that writes the information-security, cybersecurity and privacy standards](https://committee.iso.org/files/live/sites/jtc1sc27/files/resources/SC27%20COMMITTEE%20DOCUMENT%2011.pdf). The public service permanent secretary said in July 2026 that [all new public service digital platforms should meet minimum accessibility standards by 2027](https://www.heraldonline.co.zw/digital-inclusion-the-next-frontier-for-disability-rights-in-zimbabwe/).
 
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->

@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: CMR
 ledger_rows: 22
-not_held: 4
-record: 2fea5018edd5
+not_held: 3
+record: 8f5a9b05e5a6
 ---
 
 # News, Oct – Nov 2026

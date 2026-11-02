@@ -1,12 +1,12 @@
 ---
 title: Cameroon: status report
-compiled: 2026-11-01
+compiled: 2026-11-02
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 251
+sources_cited: 252
 sections_written: 39
 not_established: 1
 acquire_lines: 59
@@ -86,11 +86,11 @@ Debate happens anyway, and mostly outside state channels. The [51st plenary of t
 ### Financial sustainability
 <!-- finance.sustain -->
 
-The [2026 finance law puts FCFA 19.5 billion into the telecoms ministry's programme for a secure and inclusive digital ecosystem](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf), against [FCFA 10.3 billion and FCFA 1.0 billion in 2025 for the development and security programmes it merges](https://minfi.gov.cm/wp-content/uploads/2024/12/loi_n_2024-013-du-23-decembre-2024-portant-loi-de-finances-de-la-republique-du-cameroun.pdf). The 2026 estimates do not print the source of financing against their digital lines (FY2026): [the programme table gives each programme's commitment and payment credits with no split between the Treasury and external lenders](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf).
+The [2026 finance law puts FCFA 19.5 billion into the telecoms ministry's programme for a secure and inclusive digital ecosystem](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf). In 2025 the [development and security programmes it merges had FCFA 10.3 billion and FCFA 1.0 billion](https://minfi.gov.cm/wp-content/uploads/2024/12/loi_n_2024-013-du-23-decembre-2024-portant-loi-de-finances-de-la-republique-du-cameroun.pdf). The [2026 programme table gives commitment and payment credits with no split between the Treasury and external lenders](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf). In May 2025 the ministry's own evaluation [put credit consumption on the digital development programme at 14.67% in 2023 and 22.66% in 2024](https://www.dgb.cm/minpostel-optimiser-le-cadre-logique-des-programmes/).
 
-What the state has put in law is a set of levies. [The 2026 finance law caps the levies assigned to the telecoms regulator ART at FCFA 18.5 billion and to the ICT agency ANTIC at FCFA 8 billion, with anything collected above the caps going to the Treasury](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf), up from [FCFA 15 billion and FCFA 5.5 billion in 2024](https://minfi.gov.cm/wp-content/uploads/2024/01/loi_finances_cameroun_exercice_2024.pdf). [The electronic-security special fund, fed by levies on providers and numbering fees, is held at FCFA 1.5 billion](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf) (2026), the [same as in 2024](https://minfi.gov.cm/wp-content/uploads/2024/01/loi_finances_cameroun_exercice_2024.pdf).
+The [2026 finance law caps the levies assigned to the telecoms regulator ART at FCFA 18.5 billion and to the ICT agency ANTIC at FCFA 8 billion](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf). [Anything collected above the caps goes to the Treasury](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf). The caps were [FCFA 15 billion and FCFA 5.5 billion in 2024](https://minfi.gov.cm/wp-content/uploads/2024/01/loi_finances_cameroun_exercice_2024.pdf). [The electronic-security special fund, fed by levies on providers and numbering fees, is held at FCFA 1.5 billion](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf) in 2026, the [same as in 2024](https://minfi.gov.cm/wp-content/uploads/2024/01/loi_finances_cameroun_exercice_2024.pdf).
 
-Two service platforms are carried by private partners against revenue rather than the budget. [Impact Palmarès, an Ivorian firm, supplies the foreign ministry's biometric visa system and builds, operates and maintains its Digital Transformation Centre under a public-private partnership running to at least 2032](https://www.biometricupdate.com/202404/cameroon-building-digital-transformation-center-to-manage-digital-consular-services); [the contract was amended in November 2025, by when 411,439 paid visas had brought in FCFA 46.8 billion](https://www.biometricupdate.com/202512/impact-palmares-revises-digital-visa-deal-with-cameroon-gets-secure-document-printing-contract) (September 2025). At Douala, [INNOVENDI finances a 4G/5G network and smart-port systems upfront and pays the port authority an entry fee and fixed and variable fees tied to port activity](https://itweb.africa/article/cameroons-douala-port-seals-5g-agreement/raYAyqorj5xMJ38N) (November 2025).
+In April 2024 [Impact Palmarès, an Ivorian firm, was supplying the foreign ministry's biometric visa system under a public-private partnership running to at least 2032](https://www.biometricupdate.com/202404/cameroon-building-digital-transformation-center-to-manage-digital-consular-services). [It builds, operates and maintains the ministry's Digital Transformation Centre](https://www.biometricupdate.com/202404/cameroon-building-digital-transformation-center-to-manage-digital-consular-services). [The contract was amended in November 2025, by when 411,439 paid visas had brought in FCFA 46.8 billion](https://www.biometricupdate.com/202512/impact-palmares-revises-digital-visa-deal-with-cameroon-gets-secure-document-printing-contract) (September 2025). In November 2025 [INNOVENDI agreed to finance a 4G/5G network and smart-port systems at Douala upfront](https://itweb.africa/article/cameroons-douala-port-seals-5g-agreement/raYAyqorj5xMJ38N). [It pays the port authority an entry fee and fixed and variable fees tied to port activity](https://itweb.africa/article/cameroons-douala-port-seals-5g-agreement/raYAyqorj5xMJ38N). Both platforms are carried against revenue rather than the budget.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
