@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: NGA
-ledger_rows: 74
+ledger_rows: 75
 not_held: 9
-record: ad31ca1db8bc
+record: 89d55d610ce4
 ---
 
 # News, Oct – Nov 2026
@@ -847,6 +847,20 @@ CBN deputy governor Lamido Abubakar Yuguda spoke at a CBN-NITDA dialogue in Lago
 **[Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria](https://techcabal.com/2026/10/28/mastercard-interswitch-launch-google-pay/)** — TechCabal, 28 October 2026
 
 Mastercard and Interswitch launched Google Pay contactless payments for eligible Mastercard holders in Nigeria, using Mastercard tokenisation and Interswitch links to issuing banks. Supported cards include those of FirstBank, GTBank, UBA and Zenith. On 26 October 2026 Interswitch announced tap-to-pay tokenisation with five banks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Verve card scheme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Verve plans phone tap-to-pay and AI agent payments, CEO says](https://techcabal.com/2026/10/31/verve-ai-payment/)** — TechCabal, 31 October 2026
+
+Interswitch card scheme at 130m cards (2026); phone tap-to-pay next, AI-agent payments later; no launch dates.
 
 </div>
 

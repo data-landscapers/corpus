@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: XEA
-ledger_rows: 14
+ledger_rows: 15
 not_held: 0
-record: da7830bb61e8
+record: b9f673c779ce
 ---
 
 # News, Oct – Nov 2026
@@ -155,6 +155,20 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Mapping Digital Connectivity Gaps to Guide Infrastructure Investment in East Africa](https://datapartnership.org/updates/mapping-digital-connectivity-gaps-to-guide-infrastructure-investment-in-east-africa/)** — Development Data Partnership, 19 October 2026
 
 The African Development Bank built a digital intelligence platform using Ookla speed-test data to rank district-level connectivity gaps across 11 East African countries, reported on 19 October 2026. It combines 51 months of tests, January 2022 to March 2026, with data on 93,125 health and education facilities in 8,925 administrative areas.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">IDEA least-cost digital infrastructure planning consultancy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PRESS RELEASE: COMESA IDEA Programme Kicks Off National Consultative Engagements to Advance Least-Cost Digital Infrastructure Planning in Eastern and Southern Africa - Digitalization in Eastern and Southern Africa (IDEA)](https://idea.comesa.int/press-release-comesa-idea-programme-kicks-off-national-consultative-engagements-to-advance-least-cost-digital-infrastructure-planning-in-eastern-and-southern-africa/)** — COMESA IDEA Programme, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+Five-state series: Tanzania and Ethiopia done; Madagascar, Uganda, Eswatini in Nov 2026; four workstreams.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: XAF
-ledger_rows: 49
+ledger_rows: 50
 not_held: 3
-record: c07214168e35
+record: a805e7c041b7
 ---
 
 # News, Oct – Nov 2026
@@ -755,6 +755,20 @@ Summarised under [Data Exchange](#data-exchange).
 **[South Africa Leads Sub-Saharan Africa’s 13.4% Crypto Growth](https://www.chainalysis.com/blog/sub-saharan-africa-crypto-adoption-2026/)** — Chainalysis, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 Chainalysis reported on 29 October 2026 that Sub-Saharan Africa's crypto economy grew 13.4% to USD 101 billion between July 2025 and June 2026. South Africa's grew 52% to USD 39.3 billion, and Nigeria recorded USD 38.1 billion, down 3%. The two countries account for more than three-quarters of regional activity.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Afreximbank Trade Payment Services (AfPAY)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Afreximbank Expands AfPAY Push to Close Africa’s Payment Gap](https://newsghana.com.gh/afreximbank-expands-afpay-push-to-close-africas-payment-gap/)** — News Ghana, 1 November 2026
+
+Afreximbank is running roadshows across Africa, including in Abidjan and Harare. They promote its AfPAY trade settlement service and its direct access to China's CIPS renminbi clearing system. AfPAY links more than 400 banks and settled US$32 billion of trade in 2024.
 
 </div>
 
