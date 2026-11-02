@@ -9,9 +9,9 @@ localgov,01.8,Local and territorial government,"Territorial administration, dece
 defence,02,Defence,Defence ministry and armed forces.
 security,03,"Justice, police and security","Police, courts and judiciary, justice ministry, prisons and corrections, intelligence, public prosecution and legal aid."
 home,03/01.3,"Home affairs, identity and immigration","Interior and home-affairs ministries, civil and national registration, identity, immigration and citizenship."
-trade,04.1,"Trade, industry, labour and tourism","Trade, commerce, industry, investment promotion, SMEs, cooperatives, labour and employment, and tourism."
+trade,04.1/04.7,"Trade, industry, labour and tourism","Trade, commerce, industry, investment promotion, SMEs, cooperatives, labour and employment, and tourism."
 agriculture,04.2,"Agriculture, fisheries and rural development","Agriculture, livestock, fisheries and blue economy, irrigation, food security and rural development."
-energy,04.3,"Energy, mining and petroleum","Energy and power, mines, petroleum and solid minerals."
+energy,04.3/04.4,"Energy, mining and petroleum","Energy and power, mines, petroleum and solid minerals."
 transport,04.5,Transport and public works,"Transport, aviation, maritime, roads and public works, national infrastructure and construction."
 digital,04.6,"Digital, ICT and telecoms","Ministries, agencies and funds for ICT, the digital economy, telecommunications and posts, including the communications regulator, universal-service funds and the data-protection authority; and the digital sector itself: telecom operators, tower and data-centre companies, tech firms and the funds that invest in them."
 environment,05,Environment,"Environment, climate, forestry and sanitation."
