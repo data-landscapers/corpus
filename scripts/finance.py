@@ -110,8 +110,9 @@ ALL_META = CORPUS / "lookups" / "all-finance-metadata.csv"
 # Earlier non-state commitments stay in the non-state table.
 ALL_FIRST_YEAR = 2024
 ALL_METADATA_CSV = "all-finance-metadata.csv"
-ALL_TABLE_COLS = ("country", "year", "primary_topic", "subtopic", "sector", "type", "value_usd",
-                  "financier", "recipient", "title", "description")
+# Instrument shown, description to the row panel to stay inside the page-weight cap (Bill, 2026-11-02).
+ALL_TABLE_COLS = ("country", "year", "primary_topic", "subtopic", "sector", "type", "instrument", "value_usd",
+                  "financier", "recipient", "title")
 
 
 def indent(html_block: str, spaces: int = 4) -> str:

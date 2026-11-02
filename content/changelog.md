@@ -1,6 +1,6 @@
 ## 2 November 2026
 
-- The all-finance table and download have a new *Instrument* column and filter: grant, loan, equity and so on for a non-state commitment, and *budget* for a budget line. It shows when a row is opened.
+- The all-finance table and download have a new *Instrument* column and filter: grant, loan, equity and so on for a non-state commitment, and *budget* for a budget line. *Description* now shows only when a row is opened, to make room.
 - The non-state finance and national budgets tables and their all-Africa downloads now carry *Sub-topic* and *Sector*, as the all-finance table does. Publication date, status and recipient organisation (non-state) and sub-programme (budgets) now show only when a row is opened.
 - Non-state finance downloads, for all of Africa and for each country and region, are now one file each, such as `all-nonstate.csv` or `KEN-nonstate.csv`, updated as the data changes, until the finance data is launched. The dated editions already published stay where they are.
 
