@@ -4148,9 +4148,9 @@ date,page,rows,bytes_gz,elements
 2026-11-02,countries/CAF/all-finance.html,128,6702,2340
 2026-11-02,countries/CAF/budgets.html,122,25709,2156
 2026-11-02,countries/CAF/finance.html,6,2391,384
-2026-11-02,countries/CIV/all-finance.html,744,49721,2368
+2026-11-02,countries/CIV/all-finance.html,744,49719,2368
 2026-11-02,countries/CIV/budgets.html,715,90887,2238
-2026-11-02,countries/CIV/finance.html,29,12360,963
+2026-11-02,countries/CIV/finance.html,29,12358,963
 2026-11-02,countries/CMR/all-finance.html,79,13426,1916
 2026-11-02,countries/CMR/budgets.html,54,14942,1266
 2026-11-02,countries/CMR/finance.html,25,11094,866
@@ -4298,6 +4298,6 @@ date,page,rows,bytes_gz,elements
 2026-11-02,countries/ZWE/finance.html,8,5242,442
 2026-11-02,datasets/data-centres/index.html,621,477457,2969
 2026-11-02,datasets/institution-hosting/index.html,1830,58327,2695
-2026-11-02,finance/all/index.html,12581,1003125,2896
+2026-11-02,finance/all/index.html,12581,1003132,2896
 2026-11-02,finance/budgets/index.html,12082,1210487,2907
 2026-11-02,finance/index.html,1356,451203,2903

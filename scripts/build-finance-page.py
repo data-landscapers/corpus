@@ -115,9 +115,13 @@ def usd_millions(s):
     Malawi's entire tracked finance, and it was sitting in the continental aggregate.
     A sweep of all 1,235 deals on 2026-07-28 found that record was the *only* one the
     heuristic touched, so nothing legitimately encodes millions as a bare number.
-    Record millions explicitly (`US$45m`) — never as a bare `45`."""
+    Record millions explicitly (`US$45m`) — never as a bare `45`.
+
+    **A bracket is a note, never the amount** *(2026-11-02)*. `Blank (no type-2 transaction)`
+    read as US$2 on an IATI record; only the text before the first `(` is read."""
     if not s:
         return None
+    s = s.split("(", 1)[0]
     s = s.replace(",", "")
     s = re.sub(r'(?<=\d)[    ](?=\d{3}(?!\d))', '', s)   # 6 200 000 000 -> 6200000000
     m = re.search(r'([\d.]+)\s*(bn|billion|m|million)?', s, re.I)
