@@ -1,0 +1,217 @@
+{
+ "schema": 3,
+ "written_utc": "2026-11-02 00:19",
+ "pass": "sweep cycle",
+ "head": "48627824ec67c4045ced81439b57f63b996c0cbd",
+ "head_committed_utc": "2026-11-02 00:19",
+ "collection": {
+  "last_admission": "2026-11-01 22:35",
+  "sweep_closed": "2026-11-01 21:32",
+  "ingest_started": "2026-11-01 21:36"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "1",
+   "jobs": [
+    "SWEEP-NEWSPAPERS",
+    "SWEEP-JOURNALS",
+    "SWEEP-THINKTANKS",
+    "SWEEP-REGIONAL"
+   ],
+   "start": "2026-11-01 21:13",
+   "end": "2026-11-02 00:06",
+   "duration": "2:53",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 323,
+  "admitted": 181,
+  "dropped": 142,
+  "screened": 304,
+  "screen_dropped": 263,
+  "pages_over_line": 360,
+  "awaiting_ingest": 0,
+  "raw_sources": 36059
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-11-01 21:00",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "notes": {
+   "time_utc": "2026-11-01 21:12",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "sweep": {
+   "time_utc": "2026-11-01 21:31",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "ingest": {
+   "time_utc": "2026-11-01 22:36",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "lint": {
+   "time_utc": "2026-11-02 00:06",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "close": {
+   "time_utc": "2026-11-02 00:07",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "rules": {
+   "time_utc": "2026-11-02 00:18",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "end": {
+   "time_utc": "2026-11-02 00:19",
+   "seven_day": null,
+   "five_hour": null
+  }
+ },
+ "drops": {
+  "night": "2026-11-01",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 7,
+    "ingest_drop_rate": 0.0
+   },
+   "daily": {
+    "sweep": {
+     "already-seen": 69,
+     "no-development": 17,
+     "already-held": 1,
+     "off-place": 1,
+     "off-topic": 1
+    },
+    "ingest": {},
+    "admitted": 2,
+    "ingest_drop_rate": 0.0
+   },
+   "journals": {
+    "sweep": {
+     "off-place": 11,
+     "already-seen": 5,
+     "off-topic": 1
+    },
+    "ingest": {},
+    "admitted": 0,
+    "ingest_drop_rate": null
+   },
+   "maturity-study-digitalstrategy": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 35,
+     "no-value": 7,
+     "inadmissible-origin": 1,
+     "no-development": 1
+    },
+    "admitted": 46,
+    "ingest_drop_rate": 0.489
+   },
+   "maturity-study-disabilityaccess": {
+    "sweep": {},
+    "ingest": {
+     "off-topic": 38,
+     "already-held": 5,
+     "no-value": 3,
+     "inadmissible-origin": 1,
+     "no-development": 1
+    },
+    "admitted": 62,
+    "ingest_drop_rate": 0.436
+   },
+   "maturity-study-domesticfinancing": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 28,
+     "no-value": 2,
+     "no-development": 1
+    },
+    "admitted": 47,
+    "ingest_drop_rate": 0.397
+   },
+   "newspapers": {
+    "sweep": {
+     "uncoded": 10,
+     "no-development": 6,
+     "already-seen": 5,
+     "already-held": 4,
+     "off-topic": 3,
+     "headline-only-stub": 1,
+     "url-dead": 1
+    },
+    "ingest": {
+     "already-held": 3,
+     "already-seen": 2,
+     "no-value": 2
+    },
+    "admitted": 8,
+    "ingest_drop_rate": 0.467
+   },
+   "off-list": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 1,
+    "ingest_drop_rate": 0.0
+   },
+   "regional": {
+    "sweep": {
+     "already-seen": 27,
+     "already-held": 15,
+     "off-topic": 14,
+     "no-development": 13,
+     "inadmissible-origin": 6,
+     "syndicated-copy": 5,
+     "date-unestablished": 4,
+     "headline-only-stub": 4,
+     "uncoded": 4,
+     "fetch-blocked": 2,
+     "malformed": 1,
+     "out-of-window": 1
+    },
+    "ingest": {
+     "already-held": 8,
+     "no-value": 4,
+     "no-development": 1,
+     "off-topic": 1
+    },
+    "admitted": 7,
+    "ingest_drop_rate": 0.667
+   },
+   "thinktanks": {
+    "sweep": {
+     "already-seen": 3,
+     "no-development": 3,
+     "already-held": 2,
+     "off-place": 2,
+     "off-topic": 2
+    },
+    "ingest": {},
+    "admitted": 0,
+    "ingest_drop_rate": null
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 2142,
+  "housekeeping_registered": 0,
+  "words_trimmed": 921,
+  "pages_rewritten": 65,
+  "since": "2026-11-01 01:28"
+ }
+}
