@@ -1,0 +1,26 @@
+{"slug":"2026-10-30-syc-ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan","studies":{
+"aiabuse":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Strategy safeguards described as intended; no AI rule or authority stated."}}},
+"aigovernment":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Government AI uses are only proposed applications; none piloted or in service."}}},
+"aisectoral":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Healthcare and other AI uses are only proposed; none piloted or in service."}}},
+"aistrategy":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"strategy","aspect":"standing","value":"adopted","fact":"Cabinet approved the Seychelles Digital and AI Strategy 2026-2031 on Wednesday 28 October 2026, projected to cost $50 million over five years, says the Seychelles News Agency.","as_of":"2026-10-28","date_precision":"day","system":"Seychelles Digital and AI Strategy 2026-2031","class":"strategy"},
+{"sub_indicator":"strategy","aspect":"use","value":"body","fact":"Cabinet also approved an Inter-Ministerial Digital and AI Coordination Committee chaired by the Vice-President to support implementation, and a Digital Transformation Division monitors delivery, says Principal Secretary Choppy.","as_of":"2026-10-28","date_precision":"day","system":"Inter-Ministerial Digital and AI Coordination Committee","class":"strategy"}
+],"systems":[{"system":"Seychelles Digital and AI Strategy 2026-2031","country_label":"Seychelles Digital and AI Strategy 2026-2031","class":"strategy","platform":"","owner":"Cabinet of Seychelles","tiers":""}],"note":""}}},
+"aisystems":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"localai","aspect":"build","value":"underway","fact":"The government cloud project approved under the strategy will provide AI computing infrastructure located in Seychelles for government use, with implementation expected mid-2027 to mid-2028 and World Bank support, says Principal Secretary Choppy.","as_of":"2026-10-30","date_precision":"day","system":"Government Cloud & Government Data Centre","class":"localai"}
+],"systems":[],"note":""}}},
+"civilserviceskills":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"csskills","aspect":"training","value":"underway","fact":"The approved strategy includes digital and AI training for civil servants, with initial initiatives expected during 2027 and early 2028, says Principal Secretary Choppy.","as_of":"2026-10-30","date_precision":"day","system":"Seychelles Digital and AI Strategy 2026-2031","class":"csskills"}
+],"systems":[],"note":""}}},
+"cloudstrategy":{"countries":{"SYC":{"facts":[],"systems":[{"system":"Government Cloud & Government Data Centre","country_label":"Government Cloud & Government Data Centre","class":"other","platform":"","owner":"Government of Seychelles","tiers":"two geographically separated data centres"}],"note":"A sovereign government cloud is planned; no hosting policy or rule stated, so it is not the study's class."}}},
+"datacentres":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Government data centres planned, not for hire and not in service."}}},
+"dataprotectionlaw":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Refers to national data protection and privacy laws only in passing; no law named or dated."}}},
+"digitalskills":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"publicskills","aspect":"training","value":"underway","fact":"The approved strategy includes digital literacy programmes, with initial initiatives expected during 2027 and early 2028, says Principal Secretary Choppy.","as_of":"2026-10-30","date_precision":"day","system":"Seychelles Digital and AI Strategy 2026-2031","class":"publicskills"}
+],"systems":[],"note":""}}},
+"digitalsovereignty":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"sovereignty","aspect":"rule","value":"underway","fact":"The approved strategy's first major project is a sovereign government cloud on two geographically separated data centres, with AI computing kept in Seychelles to address sovereignty and sensitive government data, says Principal Secretary Choppy.","as_of":"2026-10-28","date_precision":"day","system":"Government Cloud & Government Data Centre","class":"sovereignty"}
+],"systems":[],"note":""}}},
+"nationaldatacentres":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Government data centres planned for 2027-2028; none in service stated."}}},
+"schoolinternet":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on school internet."}}}
+}}

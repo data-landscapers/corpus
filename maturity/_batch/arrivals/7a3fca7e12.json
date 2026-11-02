@@ -1,0 +1,18 @@
+{"slug": "2026-10-30-civ-la-cote-d-ivoire-teste-sa-reponse-a-une-cyberattaque-lors-d-un-premier-exercice-national", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The ANSSI-CI head only warns about AI-boosted ransomware and AI manipulation of opinion; no rule or authority."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government AI system is mentioned."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sectoral AI tool is mentioned."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is mentioned."}}},
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Payment systems appear only as a target in a cyber-attack scenario."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"cybersecurity": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "AFP reports that ANSSI-CI, the Agence Nationale de la Sécurité des Systèmes d'Information, led by director general Guelpétchin Ouattara, ran the first national cyber crisis exercise CYBER.EX 2026 on 28-29 October 2026; its creation by law is not stated.", "as_of": "2026-10-28", "date_precision": "day", "system": "ANSSI-CI", "class": "response"},
+{"sub_indicator": "readiness", "aspect": "response", "value": "responded", "fact": "AFP reports that Air Côte d'Ivoire, hit in February 2026 by a cyber-attack that extracted sensitive data, coordinated its response with the national agency, named as ANCI-CI in the text.", "as_of": "2026-02", "date_precision": "month", "system": "ANSSI-CI", "class": "response"}
+], "systems": [{"system": "ANSSI-CI", "country_label": "ANSSI-CI", "class": "response", "platform": "", "owner": "Government of Côte d'Ivoire", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No mobile money or retail payment service is described."}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

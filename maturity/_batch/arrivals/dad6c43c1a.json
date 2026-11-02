@@ -1,0 +1,13 @@
+{"slug": "2026-06-18-bdi-le-budget-de-l-etat-exercice-2026-2027-fixe-a-7-020-6-milliards-de-bif", "studies": {
+"authentication": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated on authentication."}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"datacentres": {"countries": {"BDI": {"facts": [], "systems": [], "note": "A data centre is only a budgeted creation by the finance ministry, with no hire in service."}}},
+"disabilityaccess": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No enrolment figure stated."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated on who operates it."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Agence Burundaise de Presse reports that the 2026/27 budget of the Ministry of Finance, Budget and Digital Economy funds the setting up of a national digital identity system.", "as_of": "2026-06-12", "date_precision": "day", "system": "national digital identity system", "class": "idsystem"}], "systems": [{"system": "national digital identity system", "country_label": "Burundi", "class": "idsystem", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"BDI": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "Agence Burundaise de Presse reports that the 2026/27 budget of the Ministry of Finance, Budget and Digital Economy funds the digitisation of land titles.", "as_of": "2026-06-12", "date_precision": "day", "system": "digitalisation des titres fonciers", "class": "land"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Data centre is only a budgeted creation; no owner or hire in service."}}}
+}}

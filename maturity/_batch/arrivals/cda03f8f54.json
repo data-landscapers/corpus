@@ -1,6 +1,11 @@
 {"slug": "2026-10-30-ago-deputados-aprovam-regras-sobre-registo-criminal-e-proteccao-de-dados-d", "studies": {
-"dataprotectionlaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The bill is a civil and criminal identification law; it states nothing on the general data protection law's standing, authority or application."}}},
-"digitalidlaw": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Angola's National Assembly approved in detail on 30 October 2026 chapters III and IV of the Proposta de Lei de Identificacao Civil e Criminal, so the bill is still before parliament.", "as_of": "2026-10-30", "date_precision": "day", "system": "Proposta de Lei de Identificacao Civil e Criminal", "class": "law"}
-], "systems": [], "note": "The chapters voted cover the criminal record and special registers; nothing on a digital identity."}}},
-"police": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Criminal-record certificates are identification, not a station record; nothing on stations."}}}}}
+"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on a link between civil register and ID."}}},
+"ecommercelaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Criminal-record and minors' registers are described; none is stated as keyed on the ID number."}}},
+"idrobustness": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on the ID system's issuance, biometrics or certification."}}},
+"interoperabilitylaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only access limits to identification data; no public body data-sharing duty stated."}}}
+}}

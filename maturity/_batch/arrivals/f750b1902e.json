@@ -1,0 +1,7 @@
+{"slug": "2025-07-29-zaf-progress-in-inclusive-education", "studies": {
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI system stated."}}},
+"disabilityaccess": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "delivered", "value": "delivered", "fact": "The Department of Basic Education told Parliament's select committee that, under ICASA obligations, 406 of 461 (88%) public special schools had received ICT equipment, connectivity and assistive devices, with 12,180 learner devices and 1,624 teacher devices distributed.", "as_of": "2025-07-29", "date_precision": "day", "system": "ICASA obligations ICT and assistive devices for special schools", "class": "accessibility"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Figure covers special schools only, not a share of secondary schools with internet; no curriculum statement."}}}
+}}

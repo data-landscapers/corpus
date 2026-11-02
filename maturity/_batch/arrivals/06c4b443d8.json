@@ -1,0 +1,6 @@
+{"slug": "2025-06-12-ken-budget-cs-mbadi-reduces-allocation-for-ict-proposes-sh12-7bn", "studies": {
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a budget line of Sh0.7bn for e-government procurement; no system stated procured, built or in service."}}},
+"datacentres": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Konza data centre", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Konza Technopolis", "tiers": ""}], "note": "Konza data centre appears only as a budget allocation; no facility for hire in service stated."}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Budget allocations only; no service online stated."}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Konza data centre", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Konza Technopolis", "tiers": ""}], "note": "Konza data centre appears only as a budget allocation; no service or hosting stated."}}}
+}}

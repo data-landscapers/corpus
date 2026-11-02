@@ -13,5 +13,6 @@
 "ZAF": {"facts": [], "systems": [], "note": "Only the venue of the meeting."},
 "ZMB": {"facts": [], "systems": [], "note": "Working on interoperability and absorbing donor-funded functions; no system, tiers or sites stated."},
 "ZWE": {"facts": [], "systems": [], "note": "A national digital health platform is being advanced; no sites, tiers or dated act stated."}
-}}
+}},
+"healthmis": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Malawi's 11 designated core national systems are not named, so no national health management information system is stated."}}}
 }}

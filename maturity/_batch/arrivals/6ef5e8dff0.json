@@ -1,0 +1,10 @@
+{"slug":"2026-11-01-mus-essaimer-plutot-que-centraliser","studies":{
+"admindata":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Columnist opinion; no statistics from administrative records stated for Mauritius."}}},
+"aiabuse":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No AI rule or authority stated for Mauritius."}}},
+"aigovernment":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Only a pending training MoU on AI; no AI system in government stated."}}},
+"aisectoral":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
+"aisystems":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No AI model, dataset or computing in Mauritius stated."}}},
+"dataexchange":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Columnist says Mauritius has scattered data in silos and argues for a federated exchange; no platform stated."}}},
+"digitalsovereignty":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Argument for federated data models; no Mauritian goal, rule or hosting stated."}}},
+"egovservices":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Online services named only for Estonia, Rwanda and others, not Mauritius."}}}
+}}

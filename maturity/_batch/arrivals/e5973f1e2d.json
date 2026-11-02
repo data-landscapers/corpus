@@ -1,0 +1,11 @@
+{"slug": "2026-05-01-mus-accessibility-statement", "studies": {
+"aigovernment": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The AI Unit of Mauritius' Ministry of ICT and Innovation runs an AI assistant called DIVA on its website that visitors chat with, by text or voice.", "as_of": "2026-05", "date_precision": "month", "system": "DIVA", "class": "govai"}
+], "systems": [{"system": "DIVA", "country_label": "DIVA", "class": "govai", "platform": "aim.govmu.org", "owner": "AI Unit, Ministry of ICT and Innovation", "tiers": ""}], "note": ""}}},
+"disabilityaccess": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "rule", "value": "underway", "fact": "The AI Unit of the Ministry of ICT and Innovation says its website is working to meet WCAG 2.2 Level AA and is not yet fully there.", "as_of": "2026-05", "date_precision": "month", "system": "AI Unit website accessibility statement", "class": "accessibility"},
+{"sub_indicator": "accessibility", "aspect": "delivered", "value": "delivered", "fact": "The AI Unit's government website offers built-in accessibility tools including read-aloud, text scaling from 80% to 200%, high contrast, a dyslexia-friendly font, keyboard navigation and a simple language mode.", "as_of": "2026-05", "date_precision": "month", "system": "AI Unit website accessibility panel", "class": "accessibility"},
+{"sub_indicator": "accessibility", "aspect": "audit", "value": "published", "fact": "The AI Unit states it fixed all critical issues found in its May 2026 accessibility audit of its website, and that some Framework Library PDFs may still not read correctly in a screen reader.", "as_of": "2026-05", "date_precision": "month", "system": "AI Unit website accessibility audit", "class": "accessibility"}
+], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on hubs or parks."}}}
+}}

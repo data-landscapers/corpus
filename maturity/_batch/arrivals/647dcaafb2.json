@@ -1,0 +1,6 @@
+{"slug": "2024-09-01-rwa-rwanda-education-goes-digital", "studies": {
+"civilserviceskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only teacher digital literacy e-courses; not a civil service programme."}}},
+"digitalskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Teacher training and children's broadcasts; no programme for the public."}}},
+"disabilityaccess": {"countries": {"RWA": {"facts": [{"sub_indicator": "accessibility", "aspect": "delivered", "value": "delivered", "fact": "GPE reports the Rwanda Basic Education Board's edutainment episodes (96 recorded by September 2024) carry sign language for deaf children and audio for blind children, broadcast on radio and TV and online.", "as_of": "2024-09", "date_precision": "month", "system": "REB edutainment episodes", "class": "accessibility"}], "systems": [{"system": "REB edutainment learning programme", "country_label": "Rwanda", "class": "accessibility", "platform": "REB YouTube channel and e-learning platform", "owner": "Rwanda Basic Education Board", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No secondary school internet figure or compulsory ICT subject stated."}}}
+}}

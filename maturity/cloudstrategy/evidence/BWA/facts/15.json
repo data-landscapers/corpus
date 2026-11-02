@@ -1,0 +1,23 @@
+{
+ "slug": "2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GovCloud",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications, Knowledge and Technology",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "BoFiNet",
+   "tiers": ""
+  }
+ ],
+ "note": "GovCloud is a planned sovereign cloud and services are being migrated to a data centre, with no hosting policy stated."
+}

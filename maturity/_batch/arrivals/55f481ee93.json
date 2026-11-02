@@ -1,0 +1,28 @@
+{"slug":"2026-07-13-zwe-digital-inclusion-the-next-frontier-for-disability-rights-in-zimbabwe","studies":{
+"aiabuse":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only says AI can reinforce exclusion; no rule or authority on AI harms stated."}}},
+"aigovernment":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No government AI system stated."}}},
+"aisectoral":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
+"aistrategy":{"countries":{"ZWE":{"facts":[{"sub_indicator":"strategy","aspect":"standing","value":"adopted","fact":"The Herald says Zimbabwe's National Artificial Intelligence Strategy was launched in March.","as_of":"2026-03","date_precision":"month","system":"National Artificial Intelligence Strategy","class":"strategy"}],"systems":[{"system":"National Artificial Intelligence Strategy","country_label":"National Artificial Intelligence Strategy","class":"strategy","platform":"","owner":"Government of Zimbabwe","tiers":""}],"note":""}}},
+"aisystems":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No AI model, dataset or computing stated."}}},
+"businesspayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on payments."}}},
+"centralbank":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on the central bank."}}},
+"civilserviceskills":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No civil servant digital skills training stated."}}},
+"consumerprotection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on digital financial services protection."}}},
+"crossborderpayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on payments."}}},
+"digitaldivides":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Rural connectivity gap mentioned by an advocate; no programme or rural-urban figure stated."}}},
+"digitalskills":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Limited digital literacy mentioned; no programme or measured share stated."}}},
+"disabilityaccess":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"accessibility","aspect":"rule","value":"inforce","fact":"The Herald says the National ICT Policy (2022-2027) requires Government digital platforms to progressively meet international accessibility standards, and that advocates see few enforceable standards.","as_of":"2026-07","date_precision":"month","system":"National ICT Policy (2022-2027)","class":"accessibility"},
+{"sub_indicator":"accessibility","aspect":"rule","value":"underway","fact":"Permanent Secretary Kunaka says Government has set a target that by 2027 all new public service digital platforms comply with minimum accessibility standards, and that pre-procurement accessibility assessments are under discussion.","as_of":"2026-07","date_precision":"month","system":"2027 minimum accessibility target","class":"accessibility"},
+{"sub_indicator":"accessibility","aspect":"rule","value":"underway","fact":"The Ministry of Health and Child Care launched the National Assistive Technology Strategy and the Assistive Products Priority List in May 2024.","as_of":"2024-05","date_precision":"month","system":"National Assistive Technology Strategy","class":"accessibility"},
+{"sub_indicator":"accessibility","aspect":"delivered","value":"delivered","fact":"Permanent Secretary Kunaka says Government, with ministries and partners, is implementing programmes that provide hearing aids, visual aids and other assistive technologies, with no number reached given.","as_of":"2026-07","date_precision":"month","system":"Government assistive technology programmes","class":"accessibility"}
+],"systems":[{"system":"National ICT Policy (2022-2027)","country_label":"National ICT Policy (2022-2027)","class":"accessibility","platform":"","owner":"Government of Zimbabwe","tiers":""},{"system":"National Assistive Technology Strategy","country_label":"National Assistive Technology Strategy","class":"accessibility","platform":"","owner":"Ministry of Health and Child Care","tiers":""}],"note":""}}},
+"egovservices":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only says more services are moving online; no portal or service named."}}},
+"g2ppayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on payments."}}},
+"ictstrategy":{"countries":{"ZWE":{"facts":[{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"The Herald says Zimbabwe adopted the National ICT Policy (2022-2027).","as_of":"2026-07","date_precision":"month","system":"National ICT Policy (2022-2027)","class":"sector"},{"sub_indicator":"sector","aspect":"period","value":"to:2027","fact":"The Herald gives the National ICT Policy's period as 2022-2027.","as_of":"2026-07","date_precision":"month","system":"National ICT Policy (2022-2027)","class":"sector"}],"systems":[{"system":"National ICT Policy (2022-2027)","country_label":"National ICT Policy (2022-2027)","class":"sector","platform":"","owner":"Government of Zimbabwe","tiers":""}],"note":""}}},
+"internationalstandards":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only mentions Web Content Accessibility Guidelines as advocates' ask; no standards body membership, adoption or mandate stated."}}},
+"paymentsuptake":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on payments."}}},
+"retailpayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on payments."}}},
+"revenuecollection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}},
+"schoolinternet":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No school internet figure or compulsory subject stated."}}}
+}}

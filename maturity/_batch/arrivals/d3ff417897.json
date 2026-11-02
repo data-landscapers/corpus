@@ -1,0 +1,11 @@
+{"slug": "2026-01-20-mus-transformation-numerique-les-ministeres-accelerent-la-mise-en-uvre-du", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No AI rule or authority stated."}}},
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "AI in education is named only as a topic discussed; no AI system piloted or in service is stated."}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Integration of AI in education is a topic of discussion with no tool, pilot or output stated."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"digitalstrategy": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Ministry of ICT and Innovation, under minister Avinash Ramtohul, chairs an inter-ministerial committee on implementing the national Blueprint for digital transformation, which held its fifth meeting in the week before 20 January 2026.", "as_of": "2026-01", "date_precision": "month", "system": "Blueprint pour la transformation numerique", "class": "national"},
+{"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "At the fifth inter-ministerial meeting ministries reviewed progress on Blueprint projects using the Blueprint Dashboard, and all projects were reported on track, with no figures against targets given.", "as_of": "2026-01", "date_precision": "month", "system": "Blueprint pour la transformation numerique", "class": "national"}
+], "systems": [{"system": "Blueprint pour la transformation numerique", "country_label": "Digital Transformation Blueprint", "class": "national", "platform": "Blueprint Dashboard", "owner": "Ministry of ICT and Innovation", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"MUS": {"facts": [], "systems": [], "note": "School connectivity initiatives are mentioned with no share of schools or curriculum statement."}}}
+}}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AdaM (All Disease Outbreak Module)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "UHAI",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "A single surveillance system disabled; no exchange between health systems stated."
+}

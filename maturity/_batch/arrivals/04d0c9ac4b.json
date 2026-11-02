@@ -1,0 +1,13 @@
+{"slug": "2026-01-01-ken-baseline-survey-on-digital-accessibility-of-government-services-for-pe", "studies": {
+"censuses": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a 2009 census reference; no census or national survey stated."}}},
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on civil service training."}}},
+"digitaldivides": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No rural programme or rural and urban internet split; Nairobi disability survey only."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Digital skills named only as a barrier; no programme or population share."}}},
+"disabilityaccess": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "audit", "value": "published", "fact": "An APDK cross-sectional survey of 482 persons with disabilities in Nairobi's 11 sub-counties, fieldwork 2021, found 23.4% had used digital government services and reported inaccessible websites among the barriers.", "as_of": "2021", "date_precision": "year", "system": "APDK Nairobi baseline survey", "class": "accessibility"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A usage survey of disabled people; no portal, app or service count stated."}}},
+"internetusage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "68.3% internet use is for persons with disabilities in Nairobi only, not the whole population."}}},
+"ruralelectrification": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on electricity."}}},
+"schoolinternet": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

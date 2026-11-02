@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-24-moz-e-m-magazine-the-role-of-government-institutions-in-the-digital-world",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Government Network (REG)",
+   "country_label": "MOZ",
+   "class": "backbone",
+   "platform": "",
+   "owner": "INAGE",
+   "tiers": ""
+  }
+ ],
+ "note": "REG interconnects public institutions; no local government office is said to be on it."
+}

@@ -1,0 +1,8 @@
+{"slug": "2026-10-14-dci-rolls-out-biometric-clearance-to-diplomats", "studies": {
+"coresystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on finance, tax or payroll systems."}}},
+"customs": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on customs."}}},
+"healthexchange": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on health systems."}}},
+"police": {"countries": {"KEN": {"facts": [], "systems": [{"system": "MBIS (Multi-modal Biometric Identification System)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Directorate of Criminal Investigations", "tiers": ""}], "note": "Biometric clearance certificates are identification, not station records of reports or cases."}}},
+"schools": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"taxadmin": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

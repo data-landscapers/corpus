@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-30-syc-ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Cloud & Government Data Centre",
+   "country_label": "Government Cloud & Government Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Seychelles",
+   "tiers": "two geographically separated data centres"
+  }
+ ],
+ "note": "A sovereign government cloud is planned; no hosting policy or rule stated, so it is not the study's class."
+}

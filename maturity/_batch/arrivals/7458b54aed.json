@@ -1,0 +1,10 @@
+{"slug": "2025-06-16-sen-dialogue-institutionnel-fdsut-senegal", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document mentions AI only as an innovation challenge for the fund; no rule or authority."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"digitaldivides": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "FDSUT, Senegal's universal service fund, with Sonatel inaugurated rural network sites including Gourel Diatta (Tambacounda), Lekendiang (Kolda) and Dialakotoba (Kedougou), as recalled by the National Assembly committee chair, with 1,540 eligible localities still to cover.", "as_of": "2025-06-16", "date_precision": "day", "system": "FDSUT universal service coverage programme", "class": "ruralaccess"}
+], "systems": [{"system": "FDSUT", "country_label": "Fonds de Developpement du Service Universel des Telecommunications", "class": "ruralaccess", "platform": "", "owner": "Ministry of Telecommunications", "tiers": ""}], "note": ""}}},
+"domesticfinancing": {"countries": {"SEN": {"facts": [], "systems": [], "note": "FDSUT says its operator-contribution funds are earmarked by decree and asks for them to be mobilised; no amount, budget year, dated spending or head-of-state statement given."}}}
+}}

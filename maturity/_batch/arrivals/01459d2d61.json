@@ -1,0 +1,12 @@
+{"slug": "2026-05-14-gha-one-million-coders-programme-can-government-achieve-its-target", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "MyJoyOnline says applicants to the government's One Million Coders Programme complete Ghana Card verification when enrolling in Phase Two.", "as_of": "2026-05", "date_precision": "month", "system": "Ghana Card verification", "class": "authentication"}], "systems": [{"system": "Ghana Card verification", "country_label": "Ghana", "class": "authentication", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on civil register and ID links."}}},
+"civilserviceskills": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Programme is for the workforce at large, not civil servants."}}},
+"digitalskills": {"countries": {"GHA": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "MyJoyOnline says the government's One Million Coders Programme trained 859 people in its pilot across four regions and in Phase Two has 16 regional centres, with about 30,000 enrolled as of 10 May 2026.", "as_of": "2026-05-10", "date_precision": "day", "system": "One Million Coders Programme", "class": "publicskills"}], "systems": [{"system": "One Million Coders Programme", "country_label": "Ghana", "class": "publicskills", "platform": "online, self-paced and face-to-face centres", "owner": "Ministry of Communication, Digital Technology and Innovations", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No national digital strategy is described."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on who operates the ID system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only mentions Ghana Card verification in enrolment; nothing on issuance, biometrics or certification."}}}
+}}

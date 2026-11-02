@@ -1,0 +1,12 @@
+{"slug": "2025-06-11-lso-national-digital-transformation-is-launched", "studies": {
+"authentication": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Only says Lesotho will soon test digital ID cards and certificates; a plan, not a pilot or service."}}},
+"birthidlink": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing stated on civil register and ID links."}}},
+"civilserviceskills": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing stated on civil servant digital skills training."}}},
+"digitalskills": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Only a general remark that half the population lacks digital skills; no programme or survey share."}}},
+"digitalstrategy": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document is about the strategy launch but the study's aspects here were not asked beyond the listed country; no body, finance, text, period, plan or reporting is stated. Launch of a five-year strategy is not recorded as a value."}}},
+"idcoverage": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing stated on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing stated on who operates the ID system."}}},
+"idregisters": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing stated on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No ID system status stated beyond a future digital ID test."}}}
+}}

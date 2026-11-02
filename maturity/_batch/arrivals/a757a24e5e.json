@@ -1,0 +1,24 @@
+{"slug":"2026-07-10-moz-intic-reforca-compromisso-com-a-inclusao-digital-na-conferencia-sobre","studies":{
+"aiabuse":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No AI rule, draft or authority on harms stated."}}},
+"aigovernment":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No government AI system stated."}}},
+"aisectoral":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
+"aistrategy":{"countries":{"MOZ":{"facts":[
+{"sub_indicator":"strategy","aspect":"standing","value":"draft","fact":"INTIC's Onelio Zavala said the National Artificial Intelligence Strategy (ENIA) is currently in development, drawn up through participatory processes and public consultations.","as_of":"2026-07-09","date_precision":"day","system":"Estrategia Nacional de Inteligencia Artificial (ENIA)","class":"strategy"}
+],"systems":[{"system":"Estrategia Nacional de Inteligencia Artificial (ENIA)","country_label":"ENIA","class":"strategy","platform":"","owner":"Government of Mozambique","tiers":""}],"note":""}}},
+"aisystems":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No AI model, dataset or computing stated."}}},
+"digitalstrategy":{"countries":{"MOZ":{"facts":[
+{"sub_indicator":"national","aspect":"standing","value":"drafting","fact":"INTIC's Onelio Zavala said the National Digital Transformation Strategy (ENTD) is currently in development, drawn up through participatory processes and public consultations.","as_of":"2026-07-09","date_precision":"day","system":"Estrategia Nacional de Transformacao Digital (ENTD)","class":"national"}
+],"systems":[{"system":"Estrategia Nacional de Transformacao Digital (ENTD)","country_label":"ENTD","class":"national","platform":"","owner":"Government of Mozambique","tiers":""}],"note":""}}},
+"disabilityaccess":{"countries":{"MOZ":{"facts":[
+{"sub_indicator":"accessibility","aspect":"rule","value":"underway","fact":"INTIC's Onelio Zavala said Mozambique has no national digital accessibility standard based on WCAG yet, and INTIC plans to develop national digital accessibility norms aligned with international standards.","as_of":"2026-07-09","date_precision":"day","system":"national digital accessibility norms","class":"accessibility"}
+],"systems":[],"note":""}}},
+"egovservices":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No online government service stated."}}},
+"ictstrategy":{"countries":{"MOZ":{"facts":[
+{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"INTIC says the Information Society Policy was approved by Resolution No. 17/2018.","as_of":"2018","date_precision":"year","system":"Politica para a Sociedade da Informacao","class":"sector"}
+],"systems":[{"system":"Politica para a Sociedade da Informacao","country_label":"Politica para a Sociedade da Informacao (Resolucao 17/2018)","class":"sector","platform":"","owner":"Government of Mozambique","tiers":""}],"note":""}}},
+"internationalstandards":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No standards body membership, adopted standard or mandate stated; WCAG standard is absent."}}},
+"publicconsultation":{"countries":{"MOZ":{"facts":[
+{"sub_indicator":"consultation","aspect":"hearing","value":"held","fact":"INTIC's Onelio Zavala said the draft National Digital Transformation Strategy and National AI Strategy have been prepared through participatory processes and public consultations involving government, the private sector, academia, civil society and disability organisations.","as_of":"2026-07-09","date_precision":"day","system":"ENTD and ENIA consultations","class":"consultation"}
+],"systems":[],"note":""}}},
+"qualitystandards":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No national standards body or standard stated."}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2026-03-31-mar-personnes-en-situation-de-handicap-seules-25-des-administrations-maroc", "studies": {
+"censuses": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "le360 cites data from the 2024 General Population and Housing Census (RGPH 2024) showing about 1.73 million Moroccans, 4.8% of the population, live with a disability.", "as_of": "2024", "date_precision": "year", "system": "RGPH 2024", "class": "census"}
+], "systems": [], "note": ""}}},
+"disabilityaccess": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "audit", "value": "published", "fact": "A joint study by the Mediator institution, the ONDH and the Secretariat of State for Social Inclusion, presented in March 2026, found only 47.5% of public institutions offer inclusive digital solutions and 25% of administrations are inclusive overall.", "as_of": "2026-03-31", "date_precision": "day", "system": "Mediator, ONDH accessibility diagnostic", "class": "accessibility"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,16 @@
+{"slug": "2026-06-04-egy-aldawlanews-ntra-budget-2026-27-revenue-usf", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only consumer awareness programmes with the consumer protection agency; no financial services rules or complaints body."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Data centre and cloud licences are to be offered; no data centre in service stated."}}},
+"digitaldivides": {"countries": {"EGY": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "NTRA chief Mohamed Shamrokh told parliament's committee, as reported on 4 June 2026, that about EGP 5.7 billion of the 2026/27 budget goes to the Universal Service Fund for telecom infrastructure in remote and rural areas, with new mobile stations planned under its projects.", "as_of": "2026-06-04", "date_precision": "day", "system": "Universal Service Fund", "class": "ruralaccess"}], "systems": [{"system": "Universal Service Fund", "country_label": "EGY", "class": "ruralaccess", "platform": "", "owner": "NTRA", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "National Strategy for Digital Transformation is only cited as the frame for the NTRA budget; nothing on its standing."}}},
+"domesticfinancing": {"countries": {"EGY": {"facts": [{"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The parliamentary planning and budget committee approved NTRA's 2026/27 budget, which targets transferring about EGP 5.7 billion to the Universal Service Fund to finance projects of the national telecom and information plan and rural infrastructure, as reported on 4 June 2026.", "as_of": "2026-06-04", "date_precision": "day", "system": "Universal Service Fund", "class": "financing"}], "systems": [{"system": "Universal Service Fund", "country_label": "EGY", "class": "financing", "platform": "", "owner": "NTRA", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data centre in service named."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No survey figures."}}},
+"police": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on police stations."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Budget revenue targets only; no electronic payment of taxes or fees stated."}}}
+}}

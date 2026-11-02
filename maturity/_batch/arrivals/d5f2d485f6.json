@@ -1,8 +1,4 @@
 {"slug": "2026-10-07-gin-renforcement-des-capacites-a-l-usage-du-numerique-l-ansuten-lance-la-q", "studies": {
-"aiabuse": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document is about a digital skills training programme; no AI rule or authority."}}},
-"aigovernment": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
-"aisectoral": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
-"aisystems": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing stated."}}},
-"digitaldivides": {"countries": {"GIN": {"facts": [], "systems": [{"system": "R-CUN (digital skills training programme)", "country_label": "Guinea", "class": "other", "platform": "", "owner": "ANSUTEN", "tiers": ""}], "note": "The ANSUTEN programme is training, not a programme bringing internet access to rural areas; no rural and urban use figures."}}},
-"domesticfinancing": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No budget amount, fund or levy for digital programmes is stated."}}}
+"civilserviceskills": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Programme is for the public; no civil servants named."}}},
+"digitalskills": {"countries": {"GIN": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "ANSUTEN's director general said the R-CUN digital capacity programme, run since 2022 through the Hub numerique, has trained more than 3,200 people, about 40 per cent women, and launched its fourth edition on 7 October 2026 aiming at over 2,000 beneficiaries.", "as_of": "2026-10-07", "date_precision": "day", "system": "R-CUN (Programme de renforcement des capacites a l'usage du numerique)", "class": "publicskills"}], "systems": [{"system": "R-CUN", "country_label": "Guinea", "class": "publicskills", "platform": "Hub numerique", "owner": "ANSUTEN", "tiers": ""}], "note": ""}}}
 }}

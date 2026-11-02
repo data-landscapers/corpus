@@ -1,0 +1,15 @@
+{"slug": "2025-05-22-zwe-digital-inclusivity-leaving-no-place-no-person-behind", "studies": {
+"censuses": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The Herald says the Population and Housing Census was taken in April 2022 in Zimbabwe.", "as_of": "2022-04", "date_precision": "month", "system": "Population and Housing Census 2022", "class": "census"},
+{"sub_indicator": "census", "aspect": "results", "value": "preliminary", "fact": "Former ZIMSTAT director-general Taguma Mahonde presented the 2022 census preliminary report on functional difficulties, which counts 1.2 million people with difficulties performing physical activities and 192,000 with permanent disabilities.", "as_of": "2022", "date_precision": "year", "system": "Population and Housing Census 2022", "class": "census"}
+], "systems": [], "note": ""}}},
+"civilserviceskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"digitalskills": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "POTRAZ, the regulator, gave advanced digital skills training to 35 people living with disabilities in Nyanga, drawn from Manicaland and Mashonaland Central, and its USF executive director says it will keep funding the programme.", "as_of": "2025-05", "date_precision": "month", "system": "POTRAZ digital inclusivity training", "class": "publicskills"}
+], "systems": [{"system": "POTRAZ digital inclusivity training", "country_label": "Zimbabwe", "class": "publicskills", "platform": "", "owner": "POTRAZ", "tiers": ""}], "note": ""}}},
+"disabilityaccess": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Skills training for disabled people only; no accessible service, device, rule or audit stated."}}},
+"internetusage": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "38.4% internet penetration for January 2025 is given without a source and is not a survey or ITU figure."}}},
+"schoolinternet": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on schools' internet or curriculum."}}},
+"startups": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on startups."}}},
+"techhubs": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on hubs."}}}
+}}

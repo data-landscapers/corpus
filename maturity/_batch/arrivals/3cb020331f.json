@@ -4,5 +4,8 @@
 "digitalskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on public digital-skills programmes or a measured share; skills only named as a factor in adoption."}}},
 "domesticfinancing": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No budget amount, spending or statement; the Universal Access Fund is named without any figures or law."}}},
 "internetusage": {"countries": {"LBR": {"facts": [{"sub_indicator": "use", "aspect": "users", "value": "estimate:32.2", "fact": "The article gives the ITU figure that 32.2% of Liberia's population used the internet, with no year stated, and says about 70% did not use it in 2024.", "as_of": "2026-10-28", "date_precision": "day", "system": "ITU", "class": "use"}], "systems": [], "note": ""}}},
-"ruralelectrification": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on rural electricity access."}}}
+"ruralelectrification": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on rural electricity access."}}},
+"exchangepoints": {"countries": {"LBR": {"facts": [], "systems": [], "note": "States nothing on internet exchange points."}}},
+"internationalbandwidth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "States nothing on submarine cables or international fibre routes."}}},
+"satellitebroadband": {"countries": {"LBR": {"facts": [], "systems": [], "note": "States nothing on satellite broadband."}}}
 }}

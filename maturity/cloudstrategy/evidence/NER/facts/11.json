@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-29-ner-visite-technique-du-chantier-du-datacenter-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Datacenter National",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSI",
+   "tiers": ""
+  }
+ ],
+ "note": "A national data centre under construction with no policy stated; places nothing."
+}

@@ -1,0 +1,11 @@
+{"slug": "2026-01-22-sdn-sudan-outlines-digital-transformation-pathway-at-arab-telecommunicatio", "studies": {
+"authentication": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"cybersecurity": {"countries": {"SDN": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "SUNA reports that on 22 January 2026 the Minister of Digital Transformation announced the launch of the Sudanese Cybersecurity Authority as the national body governing and regulating cybersecurity.", "as_of": "2026-01-22", "date_precision": "day", "system": "Sudanese Cybersecurity Authority", "class": "response"}], "systems": [{"system": "Sudanese Cybersecurity Authority", "country_label": "Sudanese Cybersecurity Authority", "class": "response", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idrobustness": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"regionalpolicy": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Only the Arab Telecommunications and Information Ministers Council is named, which is not an African body."}}}
+}}

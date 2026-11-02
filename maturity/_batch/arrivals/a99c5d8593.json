@@ -1,5 +1,1 @@
-{"slug": "2025-11-06-ssd-mtn-partners-with-government-to-launch-bor-ict-hub-and-online-learning", "studies": {
-"civilserviceskills": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Training is for youth, not civil servants."}}},
-"digitalskills": {"countries": {"SSD": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The Ministry of ICT and Postal Services launched an MTN-financed ICT hub in Bor on 4 November 2025 that will offer digital-skills training to youth in Greater Jonglei, with no number trained stated.", "as_of": "2025-11-04", "date_precision": "day", "system": "Bor ICT Hub", "class": "publicskills"}], "systems": [{"system": "Bor ICT Hub", "country_label": "South Sudan", "class": "publicskills", "platform": "", "owner": "Ministry of ICT and Postal Services, financed by MTN", "tiers": ""}], "note": ""}}},
-"schoolinternet": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
-}}
+{"slug": "2025-11-06-ssd-mtn-partners-with-government-to-launch-bor-ict-hub-and-online-learning", "studies": {"ictjobs": {"countries": {"SSD": {"facts": [], "systems": [], "note": "ICT hub launch report; no ICT employment share or youth unemployment figure."}}}}}

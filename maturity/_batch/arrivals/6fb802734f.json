@@ -1,0 +1,20 @@
+{"slug": "2025-11-24-tun-le-budget-des-technologies-fixe-a-plus-de-197-mdt", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "AI is named only as part of a strategic objective; no rule or authority."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No government AI system is mentioned."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No sectoral AI tool is mentioned."}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is mentioned."}}},
+"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a digital identity project is named as a budget investment, with no authentication service stated."}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a link between civil register and ID."}}},
+"digitaldivides": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The white-zone coverage project is named only in a budget list, with no rural programme detail, sites counted or survey figures."}}},
+"domesticfinancing": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "L'Economiste Maghrébin reports the 2026 budget of the Ministry of Communication Technologies, including the telecommunications and ICT development fund, at TND 197.335 million against TND 184 million in the 2025 finance law, up 7.25%.", "as_of": "2026", "date_precision": "year", "system": "Budget du ministère des Technologies de la communication 2026", "class": "financing"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"TUN": {"facts": [], "systems": [{"system": "projet de gouvernance électronique", "country_label": "gouvernance électronique", "class": "other", "platform": "", "owner": "Ministère des Technologies de la communication", "tiers": ""}], "note": "An e-government investment project is budgeted; no portal or online service is stated as launched."}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on an ID number."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "L'Economiste Maghrébin lists the national digital identity project among the major investment projects funded in the ministry's 2026 budget.", "as_of": "2025-11-24", "date_precision": "day", "system": "projet national d'identité numérique", "class": "idsystem"}
+], "systems": [{"system": "projet national d'identité numérique", "country_label": "identité numérique", "class": "idsystem", "platform": "", "owner": "Ministère des Technologies de la communication", "tiers": ""}], "note": ""}}}
+}}

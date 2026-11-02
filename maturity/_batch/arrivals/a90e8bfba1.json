@@ -1,4 +1,9 @@
 {"slug": "2026-10-28-gin-le-gouvernement-lance-la-digitalisation-des-cadres-organiques-et-le-re", "studies": {
 "civilserviceskills": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Digitalisation of staffing frameworks and a skills reference for HR; no digital-skills training of civil servants is stated, only a planned national school of administration."}}},
-"idrobustness": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Biometric check on civil-service payroll is a staff register, not a national identity system."}}}
+"idrobustness": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Biometric check on civil-service payroll is a staff register, not a national identity system."}}},
+"health": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Civil-service reform article; states nothing on health data."}}},
+"healthmis": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Civil-service reform article; states nothing on health reporting."}}},
+"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The biometric payroll purge of 64,000 fictitious matricules is not stated as keyed on or matched against the national ID number."}}},
+"schools": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Civil-service reform article; states nothing on school learner records."}}},
+"taxadmin": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Civil-service reform article; states nothing on tax filing or payment."}}}
 }}

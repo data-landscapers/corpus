@@ -1,32 +1,8 @@
-{
- "slug": "2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled",
- "studies": {
-  "healthmis": {
-   "countries": {
-    "KEN": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "AdaM (All Disease Outbreak Module)",
-       "country_label": "AdaM",
-       "class": "other",
-       "platform": "",
-       "owner": "ministry",
-       "tiers": ""
-      }
-     ],
-     "note": "AdaM is an outbreak-surveillance module, not routine facility reporting, and its disabling is not a statement that reporting is on paper; noted only."
-    }
-   }
-  },
-  "localgov": {
-   "countries": {
-    "KEN": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on local government office connection."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled", "studies": {
+"coresystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on finance, tax or payroll systems."}}},
+"customs": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on customs."}}},
+"healthexchange": {"countries": {"KEN": {"facts": [], "systems": [{"system": "AdaM (All Disease Outbreak Module)", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}, {"system": "UHAI", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": "A single surveillance system disabled; no exchange between health systems stated."}}},
+"police": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on police."}}},
+"schools": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"taxadmin": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

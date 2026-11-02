@@ -1,0 +1,15 @@
+{"slug": "2025-11-19-tun-comite-general-du-controle-des-depenses-publiques-la-strategie-digital", "studies": {
+"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only says Tunisia has already initiated electronic signature, with no service, date or use named."}}},
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on financial consumer protection."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalstrategy": {"countries": {"TUN": {"facts": [{"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "La Presse reports a ministry representative, Naoufel Bouzid, describing at a public-expenditure controllers' meeting on 18 November 2025 the national digital strategy as having six axes: digital administration, digital economy and innovation, infrastructure and connectivity, skills, legal framework and regulation, and digital security and data governance; no adoption, text or costing is stated.", "as_of": "2025-11-18", "date_precision": "day", "system": "Stratégie digitale nationale", "class": "national"}], "systems": [{"system": "Stratégie digitale nationale", "country_label": "TUN", "class": "national", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": ""}], "note": ""}}},
+"ecommercelaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No e-commerce or e-transactions law named."}}},
+"egovservices": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Online procedures and unified portals named as aims, with no service launched or counted."}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"opendatause": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Open data named as an aim only, no portal or publishing body."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No survey figures."}}},
+"retailpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Electronic payments named only as an aim of the strategy."}}}
+}}

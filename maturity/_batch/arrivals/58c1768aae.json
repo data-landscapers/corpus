@@ -1,0 +1,26 @@
+{"slug": "2026-10-08-gnq-continuan-las-comparecencias-de-los-miembros-del-gobierno-en-la-comisi", "studies": {
+"authentication": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "An e-signature system for official documents is only planned for 2027."}}},
+"birthidlink": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system is stated."}}},
+"civilserviceskills": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Training for officials is only planned for 2027."}}},
+"cybersecurity": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Only a draft cybersecurity bill and an awareness campaign plan; no body, strategy adopted or response."}}},
+"cybersecuritylaw": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Equatorial Guinea's Ministry of Transport, Telecommunications and Civil Aviation told the parliamentary budget committee it has drafted a preliminary bill (anteproyecto de ley) on cybersecurity.", "as_of": "2026-10-08", "date_precision": "day", "system": "cybersecurity anteproyecto de ley", "class": "law"}
+], "systems": [], "note": ""}}},
+"datacentres": {"countries": {"GNQ": {"facts": [], "systems": [{"system": "CNIAPGE data centre", "country_label": "Centro de Datos CNIAPGE", "class": "other", "platform": "", "owner": "CNIAPGE", "tiers": ""}], "note": "The CNIAPGE data centre hosts the state's Sidunea platform; no renting to outside organisations is stated, and expansion is only planned."}}},
+"ecommercelaw": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on an electronic transactions law."}}},
+"egovservices": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "A unified citizen services portal is only planned; no online service completed by users is stated."}}},
+"idfrombirth": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "A newborn registration system from hospitals is mentioned with no ID number at birth stated."}}},
+"itcapacity": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "CNIAPGE, the national centre for computerising the public administration, reported digitising administrative processes in public institutions, developing web pages for 13 departments and hosting the Sidunea platform in its data centre in 2025.", "as_of": "2025", "date_precision": "year", "system": "CNIAPGE", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "CNIAPGE reported that it set up a platform for reporting corruption cases in the public administration and developed a module for managing passive classes, with no contractor named.", "as_of": "2025", "date_precision": "year", "system": "Corruption reporting platform", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "CNIAPGE reported maintaining the Registro Civil platform, with no contractor named.", "as_of": "2025", "date_precision": "year", "system": "Registro Civil platform", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "CNIAPGE reported maintaining the Boletin Oficial del Estado platform, with no contractor named.", "as_of": "2025", "date_precision": "year", "system": "Boletin Oficial del Estado platform", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "CNIAPGE reported maintaining the platform for managing and tracing administrative files, with no contractor named.", "as_of": "2025", "date_precision": "year", "system": "Administrative file management and traceability platform", "class": "staff"}
+], "systems": [{"system": "CNIAPGE", "country_label": "Centro Nacional para la Informatizacion de la Administracion Publica", "class": "staff", "platform": "", "owner": "Government of Equatorial Guinea", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "CNIAPGE reported hosting the state's Sidunea platform in its data centre in 2025, and plans to expand the data centre's capacity in 2027.", "as_of": "2025", "date_precision": "year", "system": "CNIAPGE data centre", "class": "datacentre"}
+], "systems": [], "note": "The document does not say the centre rents to others."}}},
+"registry": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "CNIAPGE reported establishing a new system for registering newborns from hospitals, and maintaining the Registro Civil platform, in 2025.", "as_of": "2025", "date_precision": "year", "system": "Newborn registration system from hospitals", "class": "civil"}
+], "systems": [], "note": "The document does not say whether the record is made at a registry office or only notified from the hospital, or how many offices use it."}}}
+}}

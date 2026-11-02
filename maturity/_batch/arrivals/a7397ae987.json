@@ -1,17 +1,1 @@
-{"slug": "2026-08-04-cog-congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informat", "studies": {
-"aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "Only signing of an international AI cooperation agreement; no rule or body on AI harms."}}},
-"aigovernment": {"countries": {"COG": {"facts": [], "systems": [], "note": "Talks on digitalising public services including AI; no system tested or in service stated."}}},
-"aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
-"aisystems": {"countries": {"COG": {"facts": [], "systems": [], "note": "Only an international agreement and school coding training; no AI model, dataset or computing built."}}},
-"datacentres": {"countries": {"COG": {"facts": [], "systems": [{"system": "National data centre of Brazzaville", "country_label": "Brazzaville national data centre", "class": "datacentre", "platform": "", "owner": "state", "tiers": "Tier III"}], "note": "The Tier III centre is not yet in service; due to open in November per the African Development Bank."}}},
-"digitalskills": {"countries": {"COG": {"facts": [], "systems": [], "note": "Only teacher and pupil coding training under a Unesco-Codemao school project, not a public programme."}}},
-"digitalsovereignty": {"countries": {"COG": {"facts": [
-{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Talks at the 2026 Xi'an forum covered developing a national data centre, including energy and sovereign cloud aspects, and the future Brazzaville centre is dedicated to public services, to be inaugurated in November according to the African Development Bank.", "as_of": "2026-08", "date_precision": "month", "system": "National data centre of Brazzaville", "class": "sovereignty"}
-], "systems": [], "note": ""}}},
-"nationaldatacentres": {"countries": {"COG": {"facts": [], "systems": [{"system": "National data centre of Brazzaville", "country_label": "Brazzaville national data centre", "class": "datacentre", "platform": "", "owner": "state", "tiers": "Tier III"}], "note": "The centre is a future one, not in service; nothing in service stated."}}},
-"schoolinternet": {"countries": {"COG": {"facts": [], "systems": [], "note": "No school internet figure or compulsory curriculum stated."}}},
-"startups": {"countries": {"COG": {"facts": [], "systems": [], "note": "No startup law, label or fund stated."}}},
-"techhubs": {"countries": {"COG": {"facts": [
-{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The Unesco-Codemao Youth Coding Initiative in the Republic of Congo led to the creation of an incubator, per the Shenzhen forum results reported by the Agence Congolaise d'information, with no programme or cohort stated.", "as_of": "2026-08", "date_precision": "month", "system": "Incubator (Unesco-Codemao Youth Coding Initiative)", "class": "hub"}
-], "systems": [], "note": ""}}}
-}}
+{"slug": "2026-08-04-cog-congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informat", "studies": {"regionalpolicy": {"countries": {"COG": {"facts": [], "systems": [{"system": "World Artificial Intelligence Cooperation Organization (WAICO)", "country_label": "Congo", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "WAICO is a global body signed in Shanghai, not an African body; nothing else is an African policy act."}}}}}

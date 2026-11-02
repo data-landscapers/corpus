@@ -1,0 +1,12 @@
+{"slug": "2024-01-12-nam-national-digital-strategy-to-pave-the-way-to-harness-digitization-for", "studies": {
+"civilserviceskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"digitaldivides": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Bridging the divide named only as an expected benefit; no programme or figures."}}},
+"digitalskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Digital literacy named only as an expected benefit of the strategy."}}},
+"digitalstrategy": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "Ministry of ICT executive director Audrin Mathe addressed a validation workshop in Windhoek for the National Digital Strategy and its Implementation Action Plan, described as the forthcoming digital trajectory.", "as_of": "2024-01-12", "date_precision": "day", "system": "National Digital Strategy", "class": "national"}
+], "systems": [{"system": "National Digital Strategy", "country_label": "Namibia", "class": "national", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Workshop attendees are not named as people outside government; partners GIZ, Impact Tank and UNDP do not count."}}},
+"schoolinternet": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"startups": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on startups."}}},
+"techhubs": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on hubs."}}}
+}}

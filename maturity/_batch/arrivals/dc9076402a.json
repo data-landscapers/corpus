@@ -1,0 +1,15 @@
+{"slug": "2026-07-13-moz-mocambique-enfrenta-desafios-relacionados-com-infra-estruturas-tecnolo", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "AI appears only in a conference theme; no rule or authority."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No government AI system is mentioned."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No sectoral AI tool is mentioned."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is mentioned."}}},
+"civilserviceskills": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No civil service training is mentioned."}}},
+"digitaldivides": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The Digital Inclusion Strategy is not stated to bring internet to rural or underserved areas, and no survey figures are given."}}},
+"digitalskills": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Digital literacy is named only as a challenge; no programme or measured share."}}},
+"digitalstrategy": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Forbes África Lusófona reports the Ministry of Communications and Digital Transformation's inspector-general saying the government is concluding the harmonisation of the Estratégia Nacional de Transformação Digital, a participatory process involving the disability associations forum FAMOD.", "as_of": "2026-07", "date_precision": "month", "system": "Estratégia Nacional de Transformação Digital", "class": "national"}
+], "systems": [{"system": "Estratégia Nacional de Transformação Digital", "country_label": "Estratégia Nacional de Transformação Digital", "class": "national", "platform": "", "owner": "Ministério das Comunicações e Transformação Digital", "tiers": ""}], "note": ""}}},
+"disabilityaccess": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "rule", "value": "underway", "fact": "Forbes África Lusófona reports the Ministry of Communications and Digital Transformation is leading the drafting of a National Digital Inclusion Strategy with a five-year action plan, prioritising people with disabilities among other groups.", "as_of": "2026-07", "date_precision": "month", "system": "Estratégia Nacional de Inclusão Digital", "class": "accessibility"}
+], "systems": [{"system": "Estratégia Nacional de Inclusão Digital", "country_label": "Estratégia Nacional de Inclusão Digital", "class": "accessibility", "platform": "", "owner": "Ministério das Comunicações e Transformação Digital", "tiers": ""}], "note": ""}}}
+}}

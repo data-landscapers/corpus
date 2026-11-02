@@ -1,0 +1,15 @@
+{"slug": "2025-06-03-ken-govt-pledges-full-digital-access-for-persons-with-disabilities", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "AI appears only as a conference theme; no rule or authority."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No government AI system is mentioned."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No sectoral AI tool is mentioned."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is mentioned."}}},
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No civil service training is mentioned."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A target of 20 million Kenyans with digital skills by 2027 is stated as a determination; no programme or count stated."}}},
+"disabilityaccess": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "rule", "value": "underway", "fact": "KBC reports ICT Cabinet Secretary William Kabogo saying the ministry is rolling out the Accessibility Standard for Digital Products, which he says is already influencing how services are designed and delivered.", "as_of": "2025-06-03", "date_precision": "day", "system": "Accessibility Standard for Digital Products", "class": "accessibility"}
+], "systems": [{"system": "Accessibility Standard for Digital Products", "country_label": "Accessibility Standard for Digital Products", "class": "accessibility", "platform": "", "owner": "Ministry of ICT and Digital Economy", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "KBC reports ICT Cabinet Secretary William Kabogo saying over 33,000 government services are already digitised on the eCitizen platform.", "as_of": "2025-06-03", "date_precision": "day", "system": "eCitizen", "class": "eservices"}
+], "systems": [{"system": "eCitizen", "country_label": "eCitizen", "class": "eservices", "platform": "", "owner": "Government of Kenya", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on school internet or the secondary curriculum."}}}
+}}

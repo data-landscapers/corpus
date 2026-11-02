@@ -1,95 +1,18 @@
 {
  "slug": "2026-10-30-mus-pmo-cabinet-highlights-2026-10-30",
  "studies": {
-  "aiabuse": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "Meta talks on online harms name no AI harm, rule or authority."
-    }
-   }
-  },
-  "aigovernment": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "Only a training programme and a portal in development; no AI system in a government body."
-    }
-   }
-  },
-  "ailaw": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "World Bank help to formulate an AI Act is explored; no draft is named."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "No sectoral AI tool is stated."
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "An AI academy and AI training are plans; no AI model, dataset or computing is stated."
-    }
-   }
-  },
-  "cybersecurity": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "The CII framework is in development with operators nearing identification; nothing designated, no national body incident stated."
-    }
-   }
-  },
-  "digitalstrategy": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "No national digital strategy is stated."
-    }
-   }
-  },
-  "opendiscussion": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on cuts, criticism or punishment of speech."
-    }
-   }
-  },
-  "qualitystandards": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "Only an audit office MoU with the Standards Bureau; no standard or certification stated."
-    }
-   }
-  },
-  "regionalpolicy": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "Only a non-digital SADC qualifications meeting and a possible AI academy through Smart Africa; no digital agreement or membership stated."
-    }
-   }
-  }
+  "aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Meta talks on online harms name no AI harm, rule or authority."}}},
+  "aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a training programme and a portal in development; no AI system in a government body."}}},
+  "ailaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "World Bank help to formulate an AI Act is explored; no draft is named."}}},
+  "aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+  "aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "An AI academy and AI training are plans; no AI model, dataset or computing is stated."}}},
+  "cybersecurity": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The CII framework is in development with operators nearing identification; nothing designated, no national body incident stated."}}},
+  "digitalstrategy": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No national digital strategy is stated."}}},
+  "opendiscussion": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on cuts, criticism or punishment of speech."}}},
+  "qualitystandards": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only an audit office MoU with the Standards Bureau; no standard or certification stated."}}},
+  "regionalpolicy": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a non-digital SADC qualifications meeting and a possible AI academy through Smart Africa; no digital agreement or membership stated."}}},
+  "egovservices": {"countries": {"MUS": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Mauritius's Cabinet noted that online payment of fines for non-penalty offences was expected to become operational on 30 October 2026 through the Supreme Court website, and that the new Unified Government Web Portal was still being developed.", "as_of": "2026-10-30", "date_precision": "day", "system": "Supreme Court website online fines payment; Unified Government Web Portal", "class": "eservices"}], "systems": [{"system": "Unified Government Web Portal", "country_label": "Unified Government Web Portal", "class": "eservices", "platform": "web portal", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": ""}], "note": ""}}},
+  "ictjobs": {"countries": {"MUS": {"facts": [], "systems": [], "note": "States no ICT employment share or youth unemployment figure."}}},
+  "revenuecollection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Online payment of court fines is not stated as a tax, duty or fee payment to a revenue body."}}}
  }
 }

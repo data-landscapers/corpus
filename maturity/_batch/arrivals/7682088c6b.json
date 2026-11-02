@@ -1,0 +1,13 @@
+{"slug": "2026-08-24-egy-govt-targets-egp-138-9-bn-in-ict-investment-mostly-from-private-capita", "studies": {
+"aistrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "National AI Strategy 2.0 is named in passing as consistent with the ministry's targets; no adoption, body or funding is stated."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Says only that Egypt had 14 data centres by mid-2025; none is stated to rent to others, and no tier or cloud region."}}},
+"domesticfinancing": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "Public ICT investment fell to EGP 13 bn in FY 2025/26 from EGP 85 bn a year earlier, according to a government document seen by EnterpriseAM.", "as_of": "2026", "date_precision": "year", "system": "public ICT investment", "class": "financing"}
+], "systems": [], "note": "Figure is public ICT sector investment, not stated as the digital ministry's budget lines."}}},
+"ictproduction": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Gives digital exports of USD 7.4 bn, not ICT service exports as a share of GDP; electronics manufacturing is only a target."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire in service is stated; Hassan Allam's phase is a new build."}}},
+"nonstatefinance": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Hassan Allam's digital infrastructure arm has allocated USD 400 mn for the first phase of a new data center in Egypt, per EnterpriseAM.", "as_of": "2026-08-24", "date_precision": "day", "system": "Hassan Allam new data center first phase", "class": "private"}
+], "systems": [], "note": "The ministry's EGP 115.4 bn private investment figure is a target, not recorded."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "AI venture capital is a stated target only; no startup law, label or public fund stated."}}}
+}}

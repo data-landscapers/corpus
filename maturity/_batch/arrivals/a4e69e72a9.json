@@ -1,9 +1,3 @@
-{"slug": "2025-07-01-com-best-practice-guidelines-contribution-anrtic-union-of-the-comoros", "studies": {
-"digitaldivides": {"countries": {"COM": {"facts": [], "systems": [{"system": "Universal service fund (Art. 9 xiv)", "country_label": "Comoros", "class": "other", "platform": "", "owner": "ANRTIC", "tiers": ""}], "note": "Universal service fund is said to support non-profitable digital inclusion projects, with no rural or underserved areas named and no sites counted."}}},
-"domesticfinancing": {"countries": {"COM": {"facts": [], "systems": [], "note": "Universal service fund established by law, but no statement of home financing, no collection or payment, and no budget amount given."}}},
-"internationalbandwidth": {"countries": {"COM": {"facts": [], "systems": [], "note": "Only says the 2023 law covers management of submarine cables; no cable stated as landing or in service."}}},
-"regionalpolicy": {"countries": {"COM": {"facts": [
-{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "ANRTIC says it regularly and actively takes part in meetings organised by the African Union, Smart Africa and SADC.", "as_of": "2025-07", "date_precision": "month", "system": "Smart Africa", "class": "cooperation"},
-{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "ANRTIC says it has signed cooperation agreements with the regulators of Madagascar, Senegal, Morocco and Mauritius for technical collaboration and skills exchange; signing dates not given.", "as_of": "2025-07", "date_precision": "month", "system": "Bilateral regulator cooperation agreements", "class": "cooperation"}
-], "systems": [], "note": ""}}}
+{"slug":"2025-07-01-com-best-practice-guidelines-contribution-anrtic-union-of-the-comoros","studies":{
+"admindata":{"countries":{"COM":{"facts":[],"systems":[],"note":"Regulator's paper cites operator annual reports and ICT surveys and a planned call-record feed; no published statistics from administrative records stated."}}}
 }}

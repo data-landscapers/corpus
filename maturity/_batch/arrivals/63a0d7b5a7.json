@@ -1,0 +1,11 @@
+{"slug": "2025-10-23-zwe-ict-ministry-aligns-strategy-with-nds2", "studies": {
+"authentication": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Minister only urges integrating digital IDs and wallets into future programmes; no service stated."}}},
+"birthidlink": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"civilserviceskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on civil servant digital skills training."}}},
+"digitalstrategy": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "Ministry of ICT Strategic Plan", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": "Only a ministry's own strategic plan review is described, which is a ministry plan and not a national strategy."}}},
+"idcoverage": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idfrombirth": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idrobustness": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Digital ID only urged for future programmes; no system stated."}}}
+}}

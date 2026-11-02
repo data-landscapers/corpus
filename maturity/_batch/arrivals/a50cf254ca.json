@@ -1,11 +1,1 @@
-{"slug": "2025-04-30-tcd-tchad-securite-larcep-sonnera-lalerte-sur-lappartenance-des-cartes-sim", "studies": {
-"authentication": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
-"birthidlink": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on civil register link."}}},
-"digitalidlaw": {"countries": {"TCD": {"facts": [{"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "ARCEP states that under the texts in force every SIM card sold must be linked to a Numero National d'Identification (NNI) issued by ANATS; no law or date of the rule is named.", "as_of": "2025-04-30", "date_precision": "day", "system": "NNI (Numero National d'Identification)", "class": "law"}], "systems": [{"system": "Numero National d'Identification (NNI)", "country_label": "Chad", "class": "other", "platform": "", "owner": "ANATS", "tiers": ""}], "note": ""}}},
-"idcoverage": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
-"idfrombirth": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-"idmaintenance": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only says ANATS issues the NNI; nothing on operation or maintenance."}}},
-"idregisters": {"countries": {"TCD": {"facts": [], "systems": [], "note": "SIM linkage is not a public register keyed on the ID."}}},
-"idrobustness": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No system status, biometrics or certification stated."}}},
-"idverification": {"countries": {"TCD": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "ARCEP says SIM cards must be linked to an NNI issued by ANATS and that some are still sold pre-activated with no identity check, so operators Moov Africa and Airtel face possible sanctions for not verifying identities.", "as_of": "2025-04-30", "date_precision": "day", "system": "SIM registration against the NNI", "class": "relying"}], "systems": [], "note": ""}}}
-}}
+{"slug": "2025-04-30-tcd-tchad-securite-larcep-sonnera-lalerte-sur-lappartenance-des-cartes-sim", "studies": {"dataprotectionlaw": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document is about SIM card identity checks and states nothing on a data protection law."}}}}}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-31-mus-afrinic-official-statement-cloud-innovation-in-register-of-members",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CBRIS",
+   "country_label": "Mauritius",
+   "class": "business",
+   "platform": "CBRIS",
+   "owner": "Registrar of Companies",
+   "tiers": ""
+  }
+ ],
+ "note": "CBRIS is named as a public platform for the register of members of AFRINIC; the document does not say firms register online or share a number."
+}

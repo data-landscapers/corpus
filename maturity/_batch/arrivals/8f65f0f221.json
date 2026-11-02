@@ -1,4 +1,1 @@
-{"slug": "2025-05-15-tgo-francophonie-togo-244-jeunes-et-femmes-formes-avec-d-clic", "studies": {
-"civilserviceskills": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Training is for young people, not civil servants."}}},
-"digitalskills": {"countries": {"TGO": {"facts": [], "systems": [{"system": "D-CLIC", "country_label": "Togo", "class": "other", "platform": "", "owner": "OIF", "tiers": ""}], "note": "D-CLIC is the OIF's project; a Togolese ministry presided at the ceremony and only plans a national certification scheme, so no government programme is stated."}}}
-}}
+{"slug": "2025-05-15-tgo-francophonie-togo-244-jeunes-et-femmes-formes-avec-d-clic", "studies": {"ictjobs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Training programme (D-CLIC) report; no ICT employment share or youth unemployment figure."}}}}}

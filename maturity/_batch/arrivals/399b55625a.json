@@ -1,1 +1,3 @@
-{"slug": "2026-10-29-dza-visa-et-mastercard-l-encaissement-international-reste-co-teux-pour-les", "studies": {"egovservices": {"countries": {"DZA": {"facts": [], "systems": [{"system": "SATIM", "country_label": "Algeria", "class": "other", "platform": "interbank card processing", "owner": "SATIM", "tiers": ""}], "note": "About card certification and merchant card-acceptance fees; no government service online is stated."}}}}}
+{"slug": "2026-10-29-dza-visa-et-mastercard-l-encaissement-international-reste-co-teux-pour-les", "studies": {
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [{"system": "SATIM Visa/Mastercard local card personalisation", "country_label": "Algeria", "class": "other", "platform": "", "owner": "SATIM", "tiers": ""}], "note": "Card network certification and a posted merchant tariff; no named corridor, regional system or measured volume."}}}
+}}

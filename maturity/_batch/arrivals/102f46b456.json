@@ -1,14 +1,1 @@
-{
- "slug": "2026-07-24-eac-single-digital-market",
- "studies": {
-  "regionallaw": {
-   "countries": {
-    "RWA": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed EAC rules not yet adopted and Rwanda is not named."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-07-24-eac-single-digital-market", "studies": {"regionallaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "EAC-wide article; Uganda not named and the data rules are not yet adopted."}}}}}

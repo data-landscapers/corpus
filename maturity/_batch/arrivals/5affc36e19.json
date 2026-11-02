@@ -1,0 +1,10 @@
+{"slug": "2026-11-01-civ-linfodrome-ia-entreprise-journees-ethique-abidjan", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Ministry says it is working on an AI-use text but no draft is published and none is described; a plan, not a draft."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government body's AI use is stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No public sector AI system is stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Orange Cote d'Ivoire internal AI solution", "country_label": "Orange CI internal AI", "class": "other", "platform": "", "owner": "Orange Cote d'Ivoire", "tiers": ""}], "note": "Only a company's internal AI tool is named, with no model, dataset or computing facility stated."}}},
+"dataprotectionlaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only says existing personal-data provisions exist; no standing, authority, regulation or application stated."}}},
+"itcapacity": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on government technical staff or systems."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No hub or park is stated; the event was at Orange Village with no programme described."}}}
+}}

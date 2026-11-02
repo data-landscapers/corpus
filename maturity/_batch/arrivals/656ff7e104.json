@@ -1,0 +1,11 @@
+{"slug": "2026-05-13-gab-gabon-economie-numerique-tenue-de-la-3e-reunion-du-cotech", "studies": {
+"aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "AI appears only as a pillar of a roadmap; no rule or authority."}}},
+"aigovernment": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No government AI system is mentioned."}}},
+"aisectoral": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No sectoral AI tool is mentioned."}}},
+"aisystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is mentioned."}}},
+"datagovernance": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No data policy is mentioned."}}},
+"digitalstrategy": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "AGP reports that the third COTECH meeting on 13 May 2026, chaired by the digital economy minister, presented the draft Stratégie nationale de Digitalisation et d'Innovation.", "as_of": "2026-05-13", "date_precision": "day", "system": "Stratégie nationale de Digitalisation et d'Innovation", "class": "national"}
+], "systems": [{"system": "Stratégie nationale de Digitalisation et d'Innovation", "country_label": "Stratégie nationale de Digitalisation et d'Innovation", "class": "national", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": ""}, {"system": "feuille de route COTECH 2026-2030", "country_label": "feuille de route COTECH", "class": "ministry-plan", "platform": "", "owner": "COTECH", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"GAB": {"facts": [], "systems": [], "note": "ANINF and SPIN attend the meeting; nothing is stated on systems they build or run."}}}
+}}

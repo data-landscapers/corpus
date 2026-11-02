@@ -1,0 +1,11 @@
+{"slug": "2026-11-01-gha-nia-taskforce-launches-nationwide-crackdown-on-ghana-card-photocopying", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Graphic Online reports the National Identification Authority enforcing, from 2 November 2026 under L.I. 2523, verification of Ghana Cards through its mandated NIA Identity Verification System Platform, with biometric verification, in place of photocopying or visual inspection.", "as_of": "2026-11-02", "date_precision": "day", "system": "NIA Identity Verification System Platform", "class": "authentication"}], "systems": [{"system": "NIA Identity Verification System Platform", "country_label": "GHA", "class": "authentication", "platform": "", "owner": "National Identification Authority", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Operator, maintenance and ownership not stated."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [{"system": "Ghana Card", "country_label": "GHA", "class": "idsystem", "platform": "", "owner": "National Identification Authority", "tiers": ""}], "note": "Names the Ghana Card but not its issuance, biometric enrolment checks or certification."}}},
+"idverification": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Article urges institutions to onboard to the platform and enforces the mandate; it does not say any are verifying yet."}}},
+"registry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

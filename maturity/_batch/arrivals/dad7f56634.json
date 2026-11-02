@@ -1,0 +1,50 @@
+{"slug": "2024-09-18-eth-ethiopia-digital-economy", "studies": {
+"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only an AI strategy approved in June 2024 is stated; no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only the AI strategy is named; no government AI system."}}},
+"aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only the AI strategy's aims for health and education are named; no tool built or in service."}}},
+"aisystems": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing is named."}}},
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [{"system": "e-procurement portal", "country_label": "e-procurement portal", "class": "other", "platform": "", "owner": "Government of Ethiopia", "tiers": ""}], "note": "An e-procurement portal is named as developed, but tenders or bids online are not stated."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "National Bank directives on mobile money rules and interoperability are mentioned without licensing, switch or PAPSS detail."}}},
+"civilserviceskills": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No civil service training is stated, only low IT knowledge in public institutions."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The National Bank's consumer protection directive is described for the banking system, with digital finance not stated; the Electronic Transactions Proclamation is only said to have been developed."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"cybersecurity": {"countries": {"ETH": {"facts": [], "systems": [], "note": "INSA is named as reporting cyber-attack attempts in Q1 2023, with no creation by law and no incident handling or alert stated."}}},
+"datacentres": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "The US Commerce guide says Raxio, the first Tier III certified data center in Ethiopia, began operations in November 2022.", "as_of": "2022-11", "date_precision": "month", "system": "Raxio", "class": "datacentre"}
+], "systems": [{"system": "Raxio data center", "country_label": "Raxio", "class": "datacentre", "platform": "", "owner": "Raxio", "tiers": "Tier III"}], "note": ""}}},
+"datalocalisation": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Proclamation 1321/2024 is said to emphasise localisation and restrict transfers abroad, but no rule that data must stay in the country is stated."}}},
+"dataprotectionauthority": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "provided", "fact": "The US Commerce guide says transfers of personal data to countries with inadequate protection require approval from Ethiopia's data protection authority under Proclamation 1321/2024; no appointment is stated.", "as_of": "2024-07", "date_precision": "month", "system": "Data protection authority", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "The US Commerce guide says the Personal Data Protection Proclamation 1321/2024 was enacted in July 2024, with administrative and criminal penalties for non-compliance.", "as_of": "2024-07", "date_precision": "month", "system": "Personal Data Protection Proclamation 1321/2024", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The US Commerce guide says the Proclamation gives approval powers over certain transfers to Ethiopia's data protection authority; no appointment is stated.", "as_of": "2024-07", "date_precision": "month", "system": "Personal Data Protection Proclamation 1321/2024", "class": "general"}
+], "systems": [{"system": "Personal Data Protection Proclamation 1321/2024", "country_label": "Proclamation 1321/2024", "class": "general", "platform": "", "owner": "Government of Ethiopia", "tiers": ""}], "note": ""}}},
+"digitaldivides": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Ethio Telecom's rural village expansion is an operator plan; no government or fund programme or rural-urban survey figures are stated."}}},
+"digitalskills": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public digital-skills programme or measured share."}}},
+"digitalsovereignty": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The only rule named binds personal data in general, not state data."}}},
+"digitalstrategy": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The US Commerce guide says the Government of Ethiopia launched the national digital transformation strategy Digital Ethiopia 2025 in June 2020.", "as_of": "2020-06", "date_precision": "month", "system": "Digital Ethiopia 2025", "class": "national"},
+{"sub_indicator": "national", "aspect": "period", "value": "to:2025", "fact": "The guide says Digital Ethiopia 2025 aims to digitise the economy by 2025.", "as_of": "2020-06", "date_precision": "month", "system": "Digital Ethiopia 2025", "class": "national"},
+{"sub_indicator": "national", "aspect": "last12", "value": "no-change", "fact": "The guide says that as of late 2024 there had been no update or new plans announced for Digital Ethiopia 2025.", "as_of": "2024", "date_precision": "year", "system": "Digital Ethiopia 2025", "class": "national"}
+], "systems": [{"system": "Digital Ethiopia 2025", "country_label": "Digital Ethiopia 2025", "class": "national", "platform": "", "owner": "Government of Ethiopia", "tiers": ""}], "note": ""}}},
+"ecommercelaw": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The Electronic Transactions Proclamation is only said to have been developed; its standing is not stated."}}},
+"egovservices": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "The US Commerce guide says the government has digitised more than 130 services across 25 service providers through portals including e-service.", "as_of": "2024", "date_precision": "year", "system": "e-service portal", "class": "eservices"}
+], "systems": [{"system": "e-service portal", "country_label": "e-service portal", "class": "eservices", "platform": "", "owner": "Government of Ethiopia", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."}}},
+"internetusage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only an operator's count of 40.4 million internet users, with no share of population; not usable."}}},
+"localrecords": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on local government revenue records."}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Raxio's owner is not stated and government data centres are named without detail."}}},
+"nonstatefinance": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "The US Commerce guide says the Safaricom Telecommunications Ethiopia consortium committed to invest $8 billion over ten years in communication infrastructure and began operations in October 2022.", "as_of": "2022-10", "date_precision": "month", "system": "Safaricom Telecommunications Ethiopia", "class": "private"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only subscriber counts for Telebirr and m-Pesa, no survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The US Commerce guide says Ethio Telecom's Telebirr mobile money, launched in 2021, lets users send money, pay merchants and withdraw cash, with 41 million subscribers.", "as_of": "2021", "date_precision": "year", "system": "Telebirr", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The guide says Safaricom introduced m-Pesa in Ethiopia in August 2023 and had 3.1 million users by January 2024.", "as_of": "2023-08", "date_precision": "month", "system": "m-Pesa", "class": "retail"}
+], "systems": [{"system": "Telebirr", "country_label": "Telebirr", "class": "retail", "platform": "", "owner": "Ethio Telecom", "tiers": ""}, {"system": "m-Pesa", "country_label": "m-Pesa", "class": "retail", "platform": "", "owner": "Safaricom Ethiopia", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The US Commerce guide says Telebirr users can pay utilities and traffic fines through the app.", "as_of": "2024-09-18", "date_precision": "day", "system": "Telebirr", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

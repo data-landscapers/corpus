@@ -1,0 +1,28 @@
+{"slug": "2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The only AI item is customs, a sector system, and it is stated as an aim."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [{"system": "AI customs automation", "country_label": "AI customs automation", "class": "other", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": "The budget introduces AI into customs and says it aims to close revenue gaps; no pilot, build or service is stated."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is mentioned."}}},
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [{"system": "GHANEPS", "country_label": "Ghana Electronic Procurement System", "class": "other", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": "GHANEPS is named only as being integrated with GIFMIS; tenders or bids online are not stated."}}},
+"civilserviceskills": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No civil service training is mentioned."}}},
+"coresystems": {"countries": {"GHA": {"facts": [], "systems": [{"system": "GIFMIS", "country_label": "GIFMIS", "class": "other", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": "GIFMIS is named only as the target of an integration; use across central government and tax or payroll systems are not stated."}}},
+"customs": {"countries": {"GHA": {"facts": [], "systems": [], "note": "AI customs automation is stated as an aim only; no system procured, installed or in service."}}},
+"dataprotectionauthority": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Data Protection Commission is only listed among agencies in the ministry's allocation; its law or work is not stated."}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No data protection law is mentioned."}}},
+"digitaldivides": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "A Graphic Online opinion column says Ghana's Rural Telephony and Digital Inclusion Project has expanded basic connectivity to more than a thousand previously unserved communities, with GH¢30 million allocated for 2026.", "as_of": "2025-12", "date_precision": "month", "system": "Rural Telephony and Digital Inclusion Project", "class": "ruralaccess"}
+], "systems": [{"system": "Rural Telephony and Digital Inclusion Project", "country_label": "Rural Telephony and Digital Inclusion Project", "class": "ruralaccess", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "A Graphic Online opinion column says the 2026 budget gives GH¢100 million to the One Million CODERS initiative, described as offering young people pathways into software engineering and other digital work.", "as_of": "2025-12", "date_precision": "month", "system": "One Million CODERS", "class": "publicskills"}
+], "systems": [{"system": "One Million CODERS", "country_label": "One Million CODERS", "class": "publicskills", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No national digital strategy is named."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Digital payroll verification is mentioned without any link to the national ID number."}}},
+"itcapacity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "NITA is only listed among funded agencies; what it builds or runs is not stated."}}},
+"registry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Digitisation of Births and Deaths Registry services is only named as an investment; no office or system detail."}}},
+"schoolinternet": {"countries": {"GHA": {"facts": [], "systems": [], "note": "ICT laboratories in girls' senior high schools are mentioned; no internet share or compulsory curriculum."}}},
+"startups": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No startup law or fund is mentioned."}}},
+"stemgraduates": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No STEM graduate share or research network is mentioned."}}},
+"techhubs": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "A Graphic Online opinion column says the 2026 budget gives GH¢70 million to Digital Youth Hubs.", "as_of": "2025-12", "date_precision": "month", "system": "Digital Youth Hubs", "class": "hub"}
+], "systems": [{"system": "Digital Youth Hubs", "country_label": "Digital Youth Hubs", "class": "hub", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": ""}}}
+}}
