@@ -4,8 +4,8 @@
     python scripts/finance.py
       -> site/finance/index.html                   non-state finance
       -> site/finance/budgets/index.html           national budgets, with their table
-      -> site/finance/all-nonstate-{edition}.csv   the full download, a dated edition (§9)
-      -> site/finance/all-nonstate-table.csv       what the table reads: the same, plus sub-topic and sector
+      -> site/finance/all-nonstate.csv             the full download, with sub-topic and sector; undated
+                                                   until `BUDGETS_DATED`, then a dated edition (§9)
       -> site/finance/budgets/budgets-all-countries-{edition}.csv   likewise, for budgets
       -> site/finance/all/index.html               the two joined: all finance, with its table
 
@@ -89,14 +89,14 @@ BUDGETS_METADATA_CSV = "budgets-metadata.csv"
 # the metadata says so; the table's file is undated working material, like the data centres'
 # display file, and is rewritten whenever the download is.
 BUDGET_TABLE_CSV = "budgets-all-countries-table.csv"
-# **Sub-topic and sector on every finance table** *(Bill, 2026-11-02)*. They are derived at render
-# (`finance-subtopics.py`) and still changing, so they go into each table's own undated file and
-# not into the downloads: a lookup edit would otherwise cut a new non-state edition every time.
-# `/finance/all/`'s download carries them. Non-state's table reads this file in place of the edition.
+# **Sub-topic and sector on every all-Africa finance table and download** *(Bill, 2026-11-02)*,
+# derived at render by `finance-subtopics.py`. **No editions while the data is in development**
+# *(Bill, 2026-11-02)*: the non-state download follows `BUDGETS_DATED` like the other two, so a
+# lookup edit rewrites one undated file. The dated editions already published stay (§9). Country
+# downloads do not carry the facets.
 # Two more columns put both pages over lint-page-weight's 3,000 elements, so each table moved
 # columns the row panel still shows: non-state its publication date, status and recipient
 # organisation, budgets its sub-programme.
-NONSTATE_TABLE_CSV = "all-nonstate-table.csv"
 FACETS = ("subtopic", "sector")
 BUDGET_PANEL_ONLY = ("sub_programme",)
 
@@ -263,8 +263,7 @@ PAGE = """<!DOCTYPE html>
       <strong>About this table</strong>
       <dl>
         <dt>Built</dt><dd class="mono">{built}</dd>
-        <dt>Edition</dt><dd class="mono">{edition}</dd>
-        <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, retained as published and never revised</dd>
+{edition_rows}
         <dt>Source</dt><dd><code>outputs/non-state-finance/all-nonstate.csv</code>, compiled by the finance pass</dd>
         <dt>Fields</dt><dd><a href="../metadata/{metadata}">{metadata}</a> &mdash; what each column means. The same dictionary every country&rsquo;s finance table uses</dd>
         <dt>Recipient</dt><dd><code>recipient</code> is an ISO-3 code in the file and a country or region name in the table; the two are the same thing</dd>
@@ -361,6 +360,40 @@ BUDGETS_PAGE = """<!DOCTYPE html>
 """
 
 
+def faceted(rows: list[dict], side: str, tag: dict) -> list[dict]:
+    """`rows` with each one's sub-topic and sector."""
+    return [{**r, **dict(zip(FACETS, tag[(side, r["deal_id"])]))} for r in rows]
+
+
+def facet_meta(meta: list[dict], key: str = "column", text: str = "definition") -> list[dict]:
+    """A field dictionary with the two facets' entries after `primary_topic`, taken from the
+    all-finance dictionary. `key` and `text` are this dictionary's own header names."""
+    _, extra = read_rows(ALL_META)
+    extra = [{k: m.get(k, "") for k in meta[0]} | {key: m["column"], text: m["definition"]}
+             for m in extra if m["column"] in FACETS]
+    plain = [m for m in meta if m[key] not in FACETS]
+    i = [m[key] for m in plain].index("primary_topic") + 1
+    return plain[:i] + extra + plain[i:]
+
+
+def undated(body: bytes, out: Path, name: str) -> tuple[Path, str]:
+    """The undated download and its colophon row, rewritten only when its bytes move."""
+    path = out / f"{name}.csv"
+    if not path.exists() or path.read_bytes() != body:
+        path.write_bytes(body)
+    return path, (f'        <dt>This file</dt><dd><a href="{path.name}">{path.name}</a>'
+                  f' &mdash; updated as the data changes</dd>')
+
+
+def dated(body: bytes, out: Path, name: str, page: Path) -> tuple[Path, str, str]:
+    """The dated edition, its edition string and its colophon rows (§9)."""
+    path, _ = editions.publish(body, out, name, ".csv", page=page)
+    edition = editions.edition_of(path.stem) or ""
+    return path, edition, (f'        <dt>Edition</dt><dd class="mono">{edition}</dd>\n'
+                           f'        <dt>This file</dt><dd><a href="{path.name}">{path.name}</a>'
+                           f' &mdash; a dated edition, kept as published and never revised</dd>')
+
+
 def with_facets(cols: list[str]) -> list[str]:
     """`cols` with sub-topic and sector straight after `primary_topic`."""
     i = cols.index("primary_topic") + 1
@@ -382,13 +415,18 @@ def facet_tips() -> dict:
     return {m["column"]: m["definition"] for m in meta if m["column"] in FACETS}
 
 
-def write_table(path: Path, cols: list[str], rows: list[dict]) -> bytes:
-    """An undated table file, rewritten only when its bytes move."""
+def csv_bytes(cols: list[str], rows: list[dict]) -> bytes:
+    """`rows` in `cols` as UTF-8 with a BOM and LF line ends."""
     buf = io.StringIO(newline="")
     w = csv.DictWriter(buf, fieldnames=cols, lineterminator="\n", extrasaction="ignore")
     w.writeheader()
     w.writerows(rows)
-    body = ("\ufeff" + buf.getvalue()).encode("utf-8")
+    return ("\ufeff" + buf.getvalue()).encode("utf-8")
+
+
+def write_table(path: Path, cols: list[str], rows: list[dict]) -> bytes:
+    """An undated table file, rewritten only when its bytes move."""
+    body = csv_bytes(cols, rows)
     if not path.exists() or path.read_bytes() != body:
         path.write_bytes(body)
     return body
@@ -485,23 +523,17 @@ def publish_budgets(out: Path, names: dict, tag: dict) -> None:
     page = out / "index.html"
     header, rows = read_rows(BUDGETS_CSV)
     _, meta = read_rows(BUDGETS_META)
-    body = BUDGETS_CSV.read_bytes().replace(b"\r\n", b"\n")
+    meta = facet_meta(meta)
+    rows = faceted(rows, "budget", tag)
+    header = with_facets(header)
+    body = csv_bytes(header, rows)
     if BUDGETS_DATED:
-        csv_path, _ = editions.publish(body, out, "budgets-all-countries", ".csv", page=page)
-        edition = editions.edition_of(csv_path.stem) or ""
-        edition_rows = (f'        <dt>Edition</dt><dd class="mono">{edition}</dd>\n'
-                        f'        <dt>This file</dt><dd><a href="{csv_path.name}">{csv_path.name}</a>'
-                        f' &mdash; a dated edition, kept as published and never revised</dd>')
+        csv_path, edition, edition_rows = dated(body, out, "budgets-all-countries", page)
     else:
-        csv_path, edition = out / "budgets-all-countries.csv", ""
-        if not csv_path.exists() or csv_path.read_bytes() != body:
-            csv_path.write_bytes(body)
-        edition_rows = (f'        <dt>This file</dt><dd><a href="{csv_path.name}">{csv_path.name}</a>'
-                        f' &mdash; updated as the data changes</dd>')
-    plain = [c for c in header if c not in BUDGET_TABLE_OMIT]
+        (csv_path, edition_rows), edition = undated(body, out, "budgets-all-countries"), ""
+    plain = [c for c in header if c not in BUDGET_TABLE_OMIT and c not in FACETS]
     shown = with_facets(plain)
-    faceted = [{**r, **dict(zip(FACETS, tag[("budget", r["deal_id"])]))} for r in rows]
-    table = write_table(out / BUDGET_TABLE_CSV, shown, faceted)
+    table = write_table(out / BUDGET_TABLE_CSV, shown, rows)
     used = sorted({r["country"] for r in rows})
     years = sorted({int(r["report_year"]) for r in rows if r["report_year"].isdigit()})
     numeric = [c for c in header if c in BUDGET_NUMERIC]
@@ -524,9 +556,8 @@ def publish_budgets(out: Path, names: dict, tag: dict) -> None:
         numeric=", ".join(numeric),
         labels=html.escape(json.dumps({"country": {c: names.get(c, c) for c in used}},
                                       ensure_ascii=False), quote=True),
-        tips=html.escape(json.dumps({**{m["column"]: m["definition"] for m in meta
-                                        if m.get("definition")}, **facet_tips()},
-                                    ensure_ascii=False), quote=True),
+        tips=html.escape(json.dumps({m["column"]: m["definition"] for m in meta
+                                     if m.get("definition")}, ensure_ascii=False), quote=True),
         lines=f"{len(rows):,}", countries=len(used),
         yr=f"{years[0]}–{years[-1]}" if years else "n/a",
         built=date.today().isoformat())), encoding="utf-8")
@@ -732,6 +763,12 @@ def publish_all_finance(out: Path, sdir: Path, names: dict) -> None:
           f"-> site/finance/all/")
 
 
+def field_dictionary_rows() -> list[dict]:
+    """The non-state dictionary's rows: `site/metadata/`, hand-maintained."""
+    with open(SITE / "metadata" / METADATA_CSV, encoding="utf-8-sig", newline="") as fh:
+        return list(csv.DictReader(fh))
+
+
 def field_dictionary() -> list[dict]:
     """`variableMeasured` for the finance table, from the dictionary every finance page links as
     *what each column means* — twenty columns described in one hand-maintained file, which is
@@ -764,7 +801,7 @@ def dataset(agg: dict, csv_name: str, edition: str, size: int | None = None) -> 
         # a re-render after `--prune-local` would otherwise drop the size it knows.
         csv_bytes=structured_data.bytes_of(SITE / "finance" / csv_name) or size,
         records=agg["deals"],
-        fields=field_dictionary(),
+        fields=structured_data.fields_from(facet_meta(field_dictionary_rows(), "Column", "Definition")),
         entity={"@type": "Place", "name": "Africa"},
         temporal=structured_data.year_span([agg.get("year_min"), agg.get("year_max")]),
         modified=edition or None,
@@ -773,7 +810,7 @@ def dataset(agg: dict, csv_name: str, edition: str, size: int | None = None) -> 
 
 
 def render(agg: dict, names: dict, csv_name: str, edition: str, table_csv: str,
-           artefacts: str = "", size: int | None = None) -> str:
+           edition_rows: str, artefacts: str = "", size: int | None = None) -> str:
     """The Finance page: non-state finance with its table.
 
     **One page, not two** *(Bill, 2026-08-19)*. The table had its own URL at
@@ -803,7 +840,7 @@ def render(agg: dict, names: dict, csv_name: str, edition: str, table_csv: str,
         deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
         financiers=f"{agg['financiers']:,}", places=agg["places"], regions=agg["regions"], yr=yr,
         jsonld=dataset(agg, csv_name, edition, size),
-        built=date.today().isoformat(), edition=edition,
+        built=date.today().isoformat(), edition_rows=edition_rows,
     )
 
 
@@ -813,35 +850,22 @@ def main() -> int:
     names = place_names()
     out = SITE / "finance"
     out.mkdir(parents=True, exist_ok=True)
-    # Published before the page, because the page links it by name, and which name that is
-    # depends on whether `publish` cut a new edition or kept the standing one (§9).
-    # LF on the way out, for the reason `country.py` sets out at its own `publish` call:
-    # a line-ending difference moves the bytes without moving a value, and would mint an
-    # edition that revises nothing.
-    #
-    # **`page=` carries the comparison the pruned file used to make** *(2026-09-09)*. The
-    # page is written on the line below, so here it is still last run's and still holds
-    # last run's digest — the only local record of what is published once `--prune-local`
-    # has taken the CSV out of the tree.
-    body = (sdir / "all-nonstate.csv").read_bytes().replace(b"\r\n", b"\n")
-    page = out / "index.html"
-    csv_path, _ = editions.publish(body, out, "all-nonstate", ".csv", page=page)
-    # **The edition is parsed once, by `editions`, and passed down.** `render()` used to split
-    # the filename itself — `csv_name.rsplit("-", 1)[-1][:-4]` — which on
-    # `all-nonstate-2026-09-19.csv` yields `19`, and that is what the colophon's Edition row has
-    # been showing. The country finance pages beside it read `2026-09-18`, because `country.py`
-    # asks `editions.edition_of`. A second parse of a filename grammar that has one owner is
-    # how one page comes to disagree with sixty-one others about what it is offering.
-    edition = editions.edition_of(csv_path.stem) or ""
-    artefacts = editions.artefact_meta("all-nonstate", edition, editions.digest(body))
+    # Published before the page, which links it by name (§9). LF on the way out, for the reason
+    # `country.py` sets out at its own `publish` call. `page=` carries the digest the pruned
+    # edition used to: the page is still last run's here.
     header, nonstate = read_rows(sdir / "all-nonstate.csv")
     _, budget = read_rows(BUDGETS_CSV)
     tag = facet_tags(nonstate, budget)
-    table = write_table(out / NONSTATE_TABLE_CSV, with_facets(header),
-                        [{**r, **dict(zip(FACETS, tag[("nonstate", r["deal_id"])]))} for r in nonstate])
+    body = csv_bytes(with_facets(header), faceted(nonstate, "nonstate", tag))
+    page = out / "index.html"
+    if BUDGETS_DATED:
+        csv_path, edition, edition_rows = dated(body, out, "all-nonstate", page)
+        artefacts = editions.artefact_meta("all-nonstate", edition, editions.digest(body))
+    else:
+        (csv_path, edition_rows), edition, artefacts = undated(body, out, "all-nonstate"), "", ""
     page.write_text(table_page(page.parent, render(agg, names, csv_path.name, edition,
-                                                   editions.versioned(NONSTATE_TABLE_CSV, table),
-                                                   artefacts, len(body))),
+                                                   editions.versioned(csv_path.name, body),
+                                                   edition_rows, artefacts, len(body))),
                     encoding="utf-8")
     (out / "budgets").mkdir(exist_ok=True)
     publish_budgets(out / "budgets", names, tag)

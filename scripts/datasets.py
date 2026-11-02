@@ -157,12 +157,20 @@ def changes_html(rows: list[dict], names: dict) -> str:
     return "\n".join(out)
 
 
-def publish_metadata(name: str, src: Path | None = None) -> Path:
+def publish_metadata(name: str, src: Path | None = None, facets: bool = False) -> Path:
     """The field dictionary beside the other two in `site/metadata/`, undated like them: it
     describes columns, not findings. A build product — the master is `outputs/datasets/`, or
-    `src` for a dataset kept elsewhere."""
+    `src` for a dataset kept elsewhere. `facets` adds sub-topic and sector after `primary_topic`,
+    from the all-finance dictionary: the budget download carries them *(Bill, 2026-11-02)*, and
+    its master dictionary is held to the schema, which does not."""
     dst = SITE / "metadata" / f"{name}-metadata.csv"
     body = (src or dl.DATASETS / name / "metadata.csv").read_bytes().replace(b"\r\n", b"\n")
+    if facets:
+        lines = body.split(b"\n")
+        extra = [ln for ln in (CORPUS / "lookups" / "all-finance-metadata.csv").read_bytes()
+                 .replace(b"\r\n", b"\n").split(b"\n") if ln.startswith((b"subtopic,", b"sector,"))]
+        i = next(n for n, ln in enumerate(lines) if ln.startswith(b"primary_topic,")) + 1
+        body = b"\n".join(lines[:i] + extra + lines[i:])
     if not dst.exists() or dst.read_bytes() != body:
         dst.write_bytes(body)
     return dst
@@ -562,7 +570,7 @@ def main() -> int:
     out.mkdir(parents=True, exist_ok=True)
     publish_metadata(NAME)
     publish_metadata(IH, IH_DIR / f"{IH}-metadata.csv")
-    publish_metadata("budgets", CORPUS / "budgets" / "budgets-metadata.csv")   # finance.py links it
+    publish_metadata("budgets", CORPUS / "budgets" / "budgets-metadata.csv", facets=True)   # finance.py links it
     publish_metadata("all-finance", CORPUS / "lookups" / "all-finance-metadata.csv")   # likewise
     build_metadata()
 
