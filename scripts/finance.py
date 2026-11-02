@@ -102,8 +102,8 @@ BUDGET_PANEL_ONLY = ("sub_programme",)
 
 # All finance: the joined table's columns, in the spec's order, and its dictionary.
 # `subtopic` and `sector` are derived at render by `finance-subtopics.py` (its docstring).
-ALL_COLUMNS = ("country", "year", "primary_topic", "subtopic", "sector", "type", "financier",
-               "recipient", "title", "description", "value_usd", "deal_id", "scope", "scope_basis")
+ALL_COLUMNS = ("country", "year", "primary_topic", "subtopic", "sector", "type", "instrument",
+               "financier", "recipient", "title", "description", "value_usd", "deal_id", "scope", "scope_basis")
 ALL_META = CORPUS / "lookups" / "all-finance-metadata.csv"
 # **Both sides from 2024** *(Bill, 2026-10-01)*: the budget lines start there, and a joined
 # table that set eleven years of commitments beside three of budgets would compare nothing.
@@ -600,7 +600,7 @@ ALL_PAGE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{csv_src}"
       data-cols="{cols}"
-      data-filters="country, year, primary_topic, subtopic, sector, type, scope"
+      data-filters="country, year, primary_topic, subtopic, sector, type, instrument, scope"
       data-numeric="year, value_usd"
       data-thousands="value_usd"
       data-labels="{labels}"
@@ -678,7 +678,7 @@ def all_finance_rows(nonstate: list[dict], budget: list[dict]) -> list[dict]:
         out.append({
             "country": r["recipient"], "year": year,
             "primary_topic": r["primary_topic"], "subtopic": sub, "sector": sec,
-            "type": finance_type(r),
+            "type": finance_type(r), "instrument": r.get("instrument", ""),
             "financier": r["financier"], "recipient": r["recipient_organisation"],
             "title": r["title"], "description": r["description"],
             "value_usd": f"{float(m) * 1e6:.0f}" if m else "",
@@ -688,6 +688,7 @@ def all_finance_rows(nonstate: list[dict], budget: list[dict]) -> list[dict]:
         out.append({
             "country": r["country"], "year": r["report_year"],
             "primary_topic": r["primary_topic"], "subtopic": sub, "sector": sec, "type": "budget",
+            "instrument": "budget",
             "financier": r["admin_head"], "recipient": r["spending_entity"],
             "title": budget_title(r), "description": r["purpose"],
             "value_usd": r["budget_usd"], "deal_id": r["deal_id"],
