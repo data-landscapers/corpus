@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: MUS
-ledger_rows: 30
+ledger_rows: 31
 not_held: 7
-record: c7a82bbd421e
+record: 1a7965482d02
 ---
 
 # News, Oct – Nov 2026
@@ -34,6 +34,8 @@ record: c7a82bbd421e
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 </nav>
 
 ### Legislation and regulation
@@ -193,6 +195,30 @@ Mauritius launched a guide on data protection in the financial sector on 29 Octo
 **[Protection des données : Seules 23 000 entreprises enregistrées sur 60 000](https://lexpress.mu/node/564216)** — L'Express (Maurice), 30 October 2026
 
 Summarised under [Data protection](#data-protection).
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AFRINIC board and receivership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFRINIC Official Statement on the Inclusion of Cloud Innovation Limited in the Register of Members, Mauritius](https://afrinic.net/afrinic-official-statement-on-the-inclusion-of-cloud-innovation-limited-in-the-register-of-members.html)** — AFRINIC, 31 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Receiver's legal notice of 29 Oct 2026 demands CIL's removal; relies on 19 June 2025 ruling calling it a resource member.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cloud Innovation Statement on AFRINIC Member Rights](https://cloudinnovation.org/newsroom/afrinic-must-respect-members-rights/)** — Cloud Innovation, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Cloud Innovation rejected AFRINIC's demand, made through the receiver's notice of 29 October 2026, to remove it from the company register. It cites a Mauritius Supreme Court order of 11 June 2025 directing AFRINIC to record it as a member. It asks that every resource member be entered in the register with the rights company law gives members.
 
 </div>
 

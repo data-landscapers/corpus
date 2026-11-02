@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-02
+period: 2026-10-01 to 2026-11-02
 place: GNQ
-ledger_rows: 12
+ledger_rows: 16
 not_held: 6
-record: 70f0c8270910
+record: 634aac8e40ea
 ---
 
 # News, Oct – Nov 2026
@@ -33,6 +33,20 @@ record: 70f0c8270910
 </nav>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Continúan las comparecencias de los miembros del Gobierno en la Comisión Parlamentaria que analiza los Presupuestos Generales](https://www.guineaecuatorialpress.com/noticias/continuan_las_comparecencias_de_los_miembros_del_gobierno_en_la_comision_parlamentaria_que_analiza_los_presupuestos_generales)** — Oficina de Información y Prensa de Guinea Ecuatorial, 8 October 2026
+
+Budget hearing: digital-economy strategy still drafting with World Bank; draft cybersecurity bill; e-signature planned.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -82,6 +96,8 @@ Equatorial Guinea was elected to chair the UN Statistical Commission for Africa 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technical-capacity">Technical Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
@@ -138,6 +154,22 @@ Equatorial Guinea's authorities aim to sign an agreement before the end of Octob
 
 </div>
 
+### Technical Capacity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National centre for computerising the public administration (CNIAPGE)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Continúan las comparecencias de los miembros del Gobierno en la Comisión Parlamentaria que analiza los Presupuestos Generales](https://www.guineaecuatorialpress.com/noticias/continuan_las_comparecencias_de_los_miembros_del_gobierno_en_la_comision_parlamentaria_que_analiza_los_presupuestos_generales)** — Oficina de Información y Prensa de Guinea Ecuatorial, 8 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -189,6 +221,34 @@ Equatorial Guinea's Vice-President Nguema Obiang Mangue authorised an upgrade of
 **[El Gobierno pone en marcha el Boletín Oficial del Estado digital](https://www.guineaecuatorialpress.com/index.php/noticias/el_gobierno_pone_en_marcha_el_boletin_oficial_del_estado_digital)** — Guinea Ecuatorial Press (Oficina de Información y Prensa), 6 October 2026
 
 Equatorial Guinea's government announced a digital edition of its official gazette at boe.gob.gq, giving free online access to laws, decrees, ministerial orders and circulars with search of past publications.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic signature for official administrative documents</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Continúan las comparecencias de los miembros del Gobierno en la Comisión Parlamentaria que analiza los Presupuestos Generales](https://www.guineaecuatorialpress.com/noticias/continuan_las_comparecencias_de_los_miembros_del_gobierno_en_la_comision_parlamentaria_que_analiza_los_presupuestos_generales)** — Oficina de Información y Prensa de Guinea Ecuatorial, 8 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified citizen services portal</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Continúan las comparecencias de los miembros del Gobierno en la Comisión Parlamentaria que analiza los Presupuestos Generales](https://www.guineaecuatorialpress.com/noticias/continuan_las_comparecencias_de_los_miembros_del_gobierno_en_la_comision_parlamentaria_que_analiza_los_presupuestos_generales)** — Oficina de Información y Prensa de Guinea Ecuatorial, 8 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
