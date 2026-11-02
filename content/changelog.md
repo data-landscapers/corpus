@@ -1,3 +1,7 @@
+## 2 November 2026
+
+- The non-state finance and national budgets tables now carry *Sub-topic* and *Sector* as columns and filters, as the all-finance table does. To make room, publication date, status and recipient organisation (non-state) and sub-programme (budgets) now show only when a row is opened.
+
 ## 1 November 2026
 
 - The all-finance table has two new columns and filters: *Sub-topic*, what the money buys within its topic, and *Sector*, the field it serves, on both budget lines and non-state commitments. Both are new and will change as they are refined.

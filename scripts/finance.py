@@ -5,6 +5,7 @@
       -> site/finance/index.html                   non-state finance
       -> site/finance/budgets/index.html           national budgets, with their table
       -> site/finance/all-nonstate-{edition}.csv   the full download, a dated edition (§9)
+      -> site/finance/all-nonstate-table.csv       what the table reads: the same, plus sub-topic and sector
       -> site/finance/budgets/budgets-all-countries-{edition}.csv   likewise, for budgets
       -> site/finance/all/index.html               the two joined: all finance, with its table
 
@@ -88,6 +89,16 @@ BUDGETS_METADATA_CSV = "budgets-metadata.csv"
 # the metadata says so; the table's file is undated working material, like the data centres'
 # display file, and is rewritten whenever the download is.
 BUDGET_TABLE_CSV = "budgets-all-countries-table.csv"
+# **Sub-topic and sector on every finance table** *(Bill, 2026-11-02)*. They are derived at render
+# (`finance-subtopics.py`) and still changing, so they go into each table's own undated file and
+# not into the downloads: a lookup edit would otherwise cut a new non-state edition every time.
+# `/finance/all/`'s download carries them. Non-state's table reads this file in place of the edition.
+# Two more columns put both pages over lint-page-weight's 3,000 elements, so each table moved
+# columns the row panel still shows: non-state its publication date, status and recipient
+# organisation, budgets its sub-programme.
+NONSTATE_TABLE_CSV = "all-nonstate-table.csv"
+FACETS = ("subtopic", "sector")
+BUDGET_PANEL_ONLY = ("sub_programme",)
 
 # All finance: the joined table's columns, in the spec's order, and its dictionary.
 # `subtopic` and `sector` are derived at render by `finance-subtopics.py` (its docstring).
@@ -226,12 +237,13 @@ PAGE = """<!DOCTYPE html>
     <div class="byline">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} countries &nbsp;·&nbsp; {regions} regions &nbsp;·&nbsp; {yr}</div>
 
     <div class="dl-datatable"
-      data-src="{csv_name}"
-      data-cols="recipient, start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="recipient, african, primary_topic, instrument, aid, scope, status, beneficiary_type"
+      data-src="{table_csv}"
+      data-cols="recipient, start_year, financier, primary_topic, subtopic, sector, instrument, commitment_usd_m, title, description, url"
+      data-filters="recipient, african, primary_topic, subtopic, sector, instrument, aid, scope, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-labels="{labels}"
+      data-tips="{tips}"
       data-filter-all="{filter_all}"
       data-detail="{detail}"
       data-sort="start_year:desc"
@@ -307,7 +319,7 @@ BUDGETS_PAGE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{table_csv}"
       data-cols="{cols}"
-      data-filters="country, report_year, primary_topic, scope_confidence"
+      data-filters="country, report_year, primary_topic, subtopic, sector, scope_confidence"
       data-numeric="{numeric}"
       data-thousands="budget_usd"
       data-labels="{labels}"
@@ -347,6 +359,39 @@ BUDGETS_PAGE = """<!DOCTYPE html>
 </body>
 </html>
 """
+
+
+def with_facets(cols: list[str]) -> list[str]:
+    """`cols` with sub-topic and sector straight after `primary_topic`."""
+    i = cols.index("primary_topic") + 1
+    return cols[:i] + list(FACETS) + [c for c in cols[i:] if c not in FACETS]
+
+
+def facet_tags(nonstate: list[dict], budget: list[dict]) -> dict:
+    """`finance-subtopics.tags()`: {(side, deal_id): (sub-topic, sector)}."""
+    spec = importlib.util.spec_from_file_location("finance_subtopics",
+                                                  Path(__file__).resolve().parent / "finance-subtopics.py")
+    fs = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(fs)
+    return fs.tags(budget, nonstate)
+
+
+def facet_tips() -> dict:
+    """The two facets' tooltips, from the all-finance dictionary that defines them."""
+    _, meta = read_rows(ALL_META)
+    return {m["column"]: m["definition"] for m in meta if m["column"] in FACETS}
+
+
+def write_table(path: Path, cols: list[str], rows: list[dict]) -> bytes:
+    """An undated table file, rewritten only when its bytes move."""
+    buf = io.StringIO(newline="")
+    w = csv.DictWriter(buf, fieldnames=cols, lineterminator="\n", extrasaction="ignore")
+    w.writeheader()
+    w.writerows(rows)
+    body = ("\ufeff" + buf.getvalue()).encode("utf-8")
+    if not path.exists() or path.read_bytes() != body:
+        path.write_bytes(body)
+    return body
 
 
 def read_rows(path: Path) -> tuple[list[str], list[dict]]:
@@ -430,7 +475,7 @@ def absences_html(used: list[str], names: dict) -> str:
             + "\n".join(rows) + "\n      </tbody>\n    </table></div>\n")
 
 
-def publish_budgets(out: Path, names: dict) -> None:
+def publish_budgets(out: Path, names: dict, tag: dict) -> None:
     """`/finance/budgets/`: every budget line in one table *(Bill, 2026-09-30)*. The intro that
     stood above it is the ⓘ panel since 2026-10-21.
 
@@ -453,14 +498,10 @@ def publish_budgets(out: Path, names: dict) -> None:
             csv_path.write_bytes(body)
         edition_rows = (f'        <dt>This file</dt><dd><a href="{csv_path.name}">{csv_path.name}</a>'
                         f' &mdash; updated as the data changes</dd>')
-    shown = [c for c in header if c not in BUDGET_TABLE_OMIT]
-    buf = io.StringIO(newline="")
-    w = csv.DictWriter(buf, fieldnames=shown, lineterminator="\n", extrasaction="ignore")
-    w.writeheader()
-    w.writerows(rows)
-    table = ("\ufeff" + buf.getvalue()).encode("utf-8")
-    if not (out / BUDGET_TABLE_CSV).exists() or (out / BUDGET_TABLE_CSV).read_bytes() != table:
-        (out / BUDGET_TABLE_CSV).write_bytes(table)
+    plain = [c for c in header if c not in BUDGET_TABLE_OMIT]
+    shown = with_facets(plain)
+    faceted = [{**r, **dict(zip(FACETS, tag[("budget", r["deal_id"])]))} for r in rows]
+    table = write_table(out / BUDGET_TABLE_CSV, shown, faceted)
     used = sorted({r["country"] for r in rows})
     years = sorted({int(r["report_year"]) for r in rows if r["report_year"].isdigit()})
     numeric = [c for c in header if c in BUDGET_NUMERIC]
@@ -477,13 +518,15 @@ def publish_budgets(out: Path, names: dict) -> None:
         toc=toc("budgets"),
         absences=absences_html(used, names),
         csv_name=csv_path.name, metadata=BUDGETS_METADATA_CSV,
-        cols=", ".join(shown[:BUDGET_TABLE_COLS]), detail=", ".join(shown),
+        cols=", ".join(with_facets([c for c in plain[:BUDGET_TABLE_COLS]
+                                                 if c not in BUDGET_PANEL_ONLY])), detail=", ".join(shown),
         table_csv=editions.versioned(BUDGET_TABLE_CSV, table),
         numeric=", ".join(numeric),
         labels=html.escape(json.dumps({"country": {c: names.get(c, c) for c in used}},
                                       ensure_ascii=False), quote=True),
-        tips=html.escape(json.dumps({m["column"]: m["definition"] for m in meta
-                                     if m.get("definition")}, ensure_ascii=False), quote=True),
+        tips=html.escape(json.dumps({**{m["column"]: m["definition"] for m in meta
+                                        if m.get("definition")}, **facet_tips()},
+                                    ensure_ascii=False), quote=True),
         lines=f"{len(rows):,}", countries=len(used),
         yr=f"{years[0]}–{years[-1]}" if years else "n/a",
         built=date.today().isoformat())), encoding="utf-8")
@@ -593,11 +636,7 @@ def all_finance_rows(nonstate: list[dict], budget: list[dict]) -> list[dict]:
     `documentation/joined-up-finance-spec.csv`, plus `scope` and `scope_basis`, which both
     sides carry. `value_usd` is whole dollars on both sides, and already at half on a row
     whose scope is partial or unclear: each source table halves its own."""
-    spec = importlib.util.spec_from_file_location("finance_subtopics",
-                                                  Path(__file__).resolve().parent / "finance-subtopics.py")
-    fs = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(fs)
-    tag = fs.tags(budget, nonstate)
+    tag = facet_tags(nonstate, budget)
     out = []
     for r in nonstate:
         year = (r.get("start_year") or "").strip()[:4]
@@ -733,7 +772,7 @@ def dataset(agg: dict, csv_name: str, edition: str, size: int | None = None) -> 
         extra_keywords=("Development finance", "Non-state finance", "Digital infrastructure"))
 
 
-def render(agg: dict, names: dict, csv_name: str, edition: str,
+def render(agg: dict, names: dict, csv_name: str, edition: str, table_csv: str,
            artefacts: str = "", size: int | None = None) -> str:
     """The Finance page: non-state finance with its table.
 
@@ -757,7 +796,8 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
         styles=styles(1, "country.css", "datatable.css"), ga=ga(),
         datatable=script("datatable.js", 1),
-        csv_name=csv_name, labels=labels, metadata=METADATA_CSV, detail=FINANCE_DETAIL,
+        csv_name=csv_name, table_csv=table_csv, labels=labels, tips=attr_json(facet_tips()),
+        metadata=METADATA_CSV, detail=", ".join(with_facets(FINANCE_DETAIL.split(", "))),
         filter_all=attr_json(FILTER_ALL),
         artefacts=artefacts, toc=toc("non-state"),
         deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
@@ -794,10 +834,17 @@ def main() -> int:
     # how one page comes to disagree with sixty-one others about what it is offering.
     edition = editions.edition_of(csv_path.stem) or ""
     artefacts = editions.artefact_meta("all-nonstate", edition, editions.digest(body))
-    page.write_text(table_page(page.parent, render(agg, names, csv_path.name, edition, artefacts, len(body))),
+    header, nonstate = read_rows(sdir / "all-nonstate.csv")
+    _, budget = read_rows(BUDGETS_CSV)
+    tag = facet_tags(nonstate, budget)
+    table = write_table(out / NONSTATE_TABLE_CSV, with_facets(header),
+                        [{**r, **dict(zip(FACETS, tag[("nonstate", r["deal_id"])]))} for r in nonstate])
+    page.write_text(table_page(page.parent, render(agg, names, csv_path.name, edition,
+                                                   editions.versioned(NONSTATE_TABLE_CSV, table),
+                                                   artefacts, len(body))),
                     encoding="utf-8")
     (out / "budgets").mkdir(exist_ok=True)
-    publish_budgets(out / "budgets", names)
+    publish_budgets(out / "budgets", names, tag)
     (out / "all").mkdir(exist_ok=True)
     publish_all_finance(out / "all", sdir, names)
     stale = out / "all.html"
