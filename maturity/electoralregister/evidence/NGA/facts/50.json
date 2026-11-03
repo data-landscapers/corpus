@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-inecs-ai-photo-problem-runs-deeper",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "INEC's preliminary voter register lists over 103 million voters after a Continuous Voter Registration drive of over 11 million, with about 1.2 million invalid entries purged by automated biometric (ABIS) checks, per INEC's Lawrence Bayode.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "INEC voter register with ABIS",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "INEC made the preliminary register available online on 26 October 2026, and displayed it at ward centres from 9 to 15 October, for public review with complaints received on missing records and errors.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "INEC preliminary voter register",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INEC voter register with ABIS",
+   "country_label": "Nigeria",
+   "class": "electoral",
+   "platform": "ABIS",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
