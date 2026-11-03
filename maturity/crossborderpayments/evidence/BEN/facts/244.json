@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-ben-communique-de-mtn-mobile-money-benin",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "MTN Mobile Money Benin says its customers can use PI-SPI services across the eight UEMOA countries from 2 November 2026.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "MTN Mobile Money Benin says its customers can send and receive money through PI-SPI to authorised participants in the eight UEMOA countries from 2 November 2026.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "crossborder",
+   "platform": "PI-SPI",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

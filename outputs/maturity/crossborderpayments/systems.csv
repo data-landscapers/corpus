@@ -25,6 +25,7 @@ BEN,Moov Money,Benin,other,,Moov,,2025-01-06-mobile-money-contourner-taxe-espece
 BEN,Celtiis Cash,Benin,other,,Celtiis,,2025-01-06-mobile-money-contourner-taxe-especes
 BEN,WAEMU interoperable instant payment system (PI-SPI),PI-SPI pilot,other,,BCEAO,,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system
 BEN,PI-SPI,Benin,other,,BCEAO,,2025-11-05-ben-moov-money-et-boa-benin-adoptent-la-plateforme-pi-spi-de-la-bceao
+BEN,PI-SPI,Benin,crossborder,PI-SPI,BCEAO,,2026-11-02-ben-communique-de-mtn-mobile-money-benin
 BFA,PI-SPI,Burkina Faso,crossborder,BCEAO,BCEAO,,2025-10-01-uemoa-pi-spi-bceao-operationnel
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
@@ -49,6 +50,7 @@ CMR,GIMAC,CEMAC,crossborder,,,,2026-07-30-ga-moov-gabon-premier-emetteur-paiemen
 CMR,Gimacpay,Cameroon,other,Gimac interbank platform,Gimac,"53 banks, 13 microfinance, 11 mobile money operators, Treasury, postal service, 16 aggregators",2025-10-20-lejour-gimacpay-600bn-fcfa-transactions
 CMR,CEMAC interoperable QR code,CEMAC,crossborder,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
 CMR,Grey corridor to MTN MoMo and Orange Money,Grey,crossborder,,Grey (Nigerian fintech),,2026-09-25-cmr-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-mo
+CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,"Visa, M-PESA Africa and Onafriq stablecoin pilot",DR Congo,crossborder,stablecoin,"Visa, M-PESA Africa, Onafriq",,2026-07-06-visa-mpesa-onafriq-stablecoin-pilot-drc-techafricanews
 COD,Visa Pay,DR Congo,crossborder,Onafriq API,Visa,,2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)
 COD,PAPSS,Democratic Republic of the Congo,crossborder,,Afreximbank,,2026-09-22-cod-standard-drc-joins-papss
@@ -73,6 +75,7 @@ DJI,D-Money international transfer,D-Money outbound transfers via Herman Interna
 DZA,PAPSS,Algeria,crossborder,regional payment and settlement system,Afreximbank,,2025-08-15 Bank of Algeria joins PAPSS network
 DZA,PAPSS,Algeria,crossborder,continental payment system,Afreximbank,,2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)
 DZA,BaridiMob,Algeria,other,mobile app,Algerie Poste,,2025-05-11-dza-pourquoi-algerie-poste-bloque-baridimob-a-ses-usagers-a-l-etranger
+DZA,SATIM Visa/Mastercard local card personalisation,Algeria,other,,SATIM,,2026-10-29-dza-visa-et-mastercard-l-encaissement-international-reste-co-teux-pour-les
 EGY,PAPSS,Egypt,crossborder,,Afreximbank,,2026-09-23-enterpriseam-instapay-papss-egypt-integration
 EGY,InstaPay,Egypt,other,,,,2026-09-23-enterpriseam-instapay-papss-egypt-integration
 EGY,PAPSS Card,Egypt,crossborder,,Afreximbank,,2026-09-20-papss-meeza-card-integration-waya
