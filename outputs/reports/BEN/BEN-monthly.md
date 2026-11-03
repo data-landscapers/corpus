@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: BEN
-ledger_rows: 18
+ledger_rows: 20
 not_held: 4
-record: dee997555f0e
+record: 5f22f42edc7a
 ---
 
 # News, Oct – Nov 2026
@@ -274,6 +274,20 @@ Benin's finance and justice ministers set fees for 109 documents issued by the c
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional instant payment rail</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué de MTN Mobile Money Bénin](https://www.24haubenin.info/?Communique-de-MTN-Mobile-Money-Benin=)** — 24 Heures au Bénin, 2 November 2026
+
+PI-SPI routing from 2 Nov 2026; free to FCFA 8,000 a day then 0.5%; MoMo balance ceiling doubled to FCFA 4m.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -351,6 +365,20 @@ The budget and public service ministry decided to hold the March-April 2027 prof
 **[E-gouvernance : le Bénin et la Mauritanie à l'école estonienne, et vice versa](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)** — TransContinents Africa, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a>
 
 Benin and Mauritania compared their digital government programmes at Estonia's embassy in Paris on 28 October 2026. Benin reported more than 210 end-to-end online services, up from five at launch in March 2020, and digital identity for over 99% of the population. Mauritania reported about 40 transactional services out of nearly 900 targeted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online criminal record certificate under the "Tell us once" directive</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitization in Benin: Criminal records now issued instantly and without supporting documents](https://beninwebtv.bj/en/digitization-in-benin-criminal-records-now-issued-instantly-and-without-supporting-documents/)** — Bénin Web TV, 2 November 2026
+
+Instant issue on service-public.bj from 1 Nov 2026, checked against PIN and civil registry; FCFA 1,900 fee.
 
 </div>
 
