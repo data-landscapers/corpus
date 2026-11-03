@@ -88,8 +88,6 @@ Agenda 2063, Goal 20, asks that Africa take full responsibility for financing it
 
 - **Stage 5**: Côte d'Ivoire, the Republic of the Congo, Mali, Mozambique, Eswatini, Uganda and South Africa. **Stage 4**: Burundi and Guinea, with no spending published.
 - **No statement was found anywhere**: no source read has a government saying digital transformation must be paid for at home. Every yes to question 3 is a fund, levy or assigned tax created, collecting or paying.
-- **A fall holds 17 countries at stage 2**; six more have no two years to compare. Botswana, Cabo Verde, Kenya, Madagascar, Namibia, Nigeria and Tanzania have a working fund and a falling budget.
-- **Where a source and the tables disagree, the source giving the ministry's budget stands**: Côte d'Ivoire, Uganda and Zimbabwe rose on it; Tanzania, Kenya and Djibouti fell on it. Côte d'Ivoire's gives a 37 per cent rise and no earlier figure; the second stager read stage 2.
 - **Eswatini's stage 5 rests on a fund page dated 3 October 2023**, two days inside the three years.
 - **Removed by the parent, six rows** (`corrections.csv`); Burkina Faso's work-plan figure would have been stage 3.
 - **Tokens: 55.9 million at the map**, ceiling 50 million, step 1 included: passed in the write-up.

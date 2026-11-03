@@ -12,11 +12,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 
 ## 1. The question, and the row it redraws
 
-**Does the country have a general data protection law in force, and is it applied?** `gov.legislate--data-protection-legislation` stages 52 cells as at 2026-08-31: 42 at stage 3, five at 2, three at 4, two at 1, none at 5, and two unplaced. Three things cause that.
-
-- **A third rung that holds everything.** A law of 2001 with an authority fining controllers and a law of 2026 with nothing under it are both stage 3.
-- **A fourth rung set by which row a fact was filed on.** It asks for regulations, a constituted authority and an enforcement act together.
-- **A fifth rung that is a statement of alignment.** It asks for a law "aligned with Malabo's principles", which method §3 rule 5 does not accept as a test.
+**Does the country have a general data protection law in force, and is it applied?** The August row (42 of 52 cells at stage 3) had a third rung that held everything, a fourth set by which row a fact was filed on, and a fifth that was a statement of Malabo alignment, which method §3 rule 5 does not accept.
 
 **This is the first study of a law.** The instrument studies' rule carries over: **enactment alone places no higher than 3**; above that the test is that the law is applied.
 
@@ -101,16 +97,16 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 
 - **Subjects and term list**: in `study.json`.
 - **The review starts from the August assessment** *(Bill, 2026-10-11)*: this row's and the authority row's cells, with the sources they cite, are carried into `evidence.csv` before a drafter runs. **A drafter reads only for a cell the carried facts leave short of a rung test**, and a search is briefed only for those cells.
-- **Source types for the briefs**, ranked: dated news and the authority's own notices of a sanction, order or decision; the authority's annual report; the gazette notice of promulgation, commencement or a regulation; a court judgment under the law; the trackers (Data Protection Africa, UNCTAD, Law Lab Africa) for standing and a dated absence; the law's text.
+- **Source types for the briefs**, ranked: the authority's notices and dated news of a decision; its annual report; the gazette; a court judgment; the trackers for standing and a dated absence; the law's text.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare the criteria**: this file and `study.json`, 2026-10-11.
 - [x] **D1. Bill's rulings**: ruling 1 amended, the rest stand, 2026-10-11.
-- [x] **D2. Review all 54 countries**, method §4: the 369 documents the frame's cells cite, and eight more, in 116 calls; 769 facts.
+- [x] **D2. Review all 54 countries**: 377 documents, 116 calls, 769 facts.
 - [x] **D3. Test and fix the ladder**: 13 corrections.
 - [x] **D4. Search and hand over**: 47 searches, 47 documents for 28 countries, note 228.
-- [x] **D5. Re-read and stage**, method §7: 26 of 47 admitted and read; 4 at stage 5, 10 at 4, 31 at 3, 7 at 2, 1 at 1, one with no evidence; agreement 20 of 20.
+- [x] **D5. Re-read and stage**: 26 of 47 admitted and read; agreement 20 of 20.
 - [x] **D6. Write, render and lint.** **D7. Report to Bill.**
 
 **The rulings of D1**:
@@ -119,9 +115,8 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 2. Enactment is stage 3 and no higher; stage 4 is a dated decision under the law, stage 5 a published year's figures.
 3. Application is staged on this row, whoever applies it; the authority row is not redrawn and waits for its own study.
 4. Without a constituted authority, stage 4 or 5 is capped at 3.
-5. Regulations are required at stage 5 only.
+5. Regulations are required at stage 5 only; withdrawn by messages-for-bill 55 (§4).
 6. Malabo ratification is a flag; alignment with the Convention is not a test at any stage.
-7. The readiness row is left alone and proposed for retirement with the authority study.
 
 ## Boundary
 

@@ -91,11 +91,9 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 
 - **Stage 4**: Kenya, on the Court of Appeal striking down the false-publication offences in 2026; parliament has appealed.
 - **Stage 1**: Eritrea on the ban on private media; Cameroon, Gabon, Guinea, Guinea-Bissau, Sudan, Chad, Tanzania and Uganda on a cut.
-- **Stage 2**: 15 countries; an arrest or sentence holds Nigeria, Ghana, Liberia, Tunisia, Zambia and the Republic of the Congo there.
 - **Unplaced**: Mali, Niger, Burkina Faso and Equatorial Guinea hold punishments and no policy criticism; a punishment does not answer question 1.
 - **Removed by the parent, ten rows** (`corrections.csv`). Kenya's interim order against a shutdown and Mozambique's ruling against a power to cut, which ruled on no cut, would each have been stage 5.
 - **Two rules added in §3.** They left the Democratic Republic of the Congo and Togo unplaced and moved Kenya from stage 1.
-- **Of the row's 30 placed, 13 now have no stage.**
 - **Tokens: 50.6 million at the map**, ceiling 50 million, step 1 included: passed in the last step.
 
 ## Boundary

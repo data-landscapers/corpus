@@ -90,9 +90,7 @@ The African Continental Free Trade Area's annex on technical barriers to trade, 
 
 - **Stage 4**: Uganda, on its 2026 information security policy, which says it is mandatory for ministries and agencies and requires compliance with ISO/IEC 27001:2022. It is a policy, not a law or decree; held strictly, Uganda has no evidence.
 - **Stage 3**: Algeria, the Gambia, Mauritius, Sudan, Eswatini and Zimbabwe, each on a named national standard carrying an ISO number. **The second stager split on Algeria**: its 2026 programme lists `NA ISO/IEC 14651 (NA 13037)` under revisions, read by the parent as an existing adoption.
-- **Stage 2**: eight countries, on ISO's register or a source quoting it.
 - **Of the row's 13 at stage 2**, Burundi, Seychelles, Tunisia and Zambia are without evidence.
-- **39 countries are without evidence**, Kenya, Nigeria, South Africa and Egypt among them: nothing held names their body as an ISO member.
 - **No source names a committee**: question 4 is unanswered everywhere.
 - **Tokens: about 28 million at the map**, ceiling 30 million, step 1 included.
 ## Boundary

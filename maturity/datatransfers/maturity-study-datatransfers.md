@@ -14,13 +14,13 @@ status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendere
 
 **Whether the country lets data cross its borders while protecting personal data** *(Bill, 2026-10-31, messages-for-bill 58)*: the aim is that a country **encourages** transfers **and** protects the data sent, and the balance between the two is evident. A rule that keeps data at home, or makes every transfer wait on the authority's permission, is over-protective: it hinders the African Continental Free Trade Area as much as having no protection does.
 
-The study redrew `gov.regional--cross-border-data-transfers` on 2026-10-13 as a measure of how far a transfer rule had been put to work, strict or loose. Bill's ruling of 2026-10-31 replaced that ladder with this one and the row was rescored. It touches no other row; it reads the data localisation and regional law studies' facts as its own (§5).
+The study redrew `gov.regional--cross-border-data-transfers` on 2026-10-13; Bill's ruling of 2026-10-31 replaced that ladder with this one. It touches no other row, and reads the data localisation and regional law studies' facts as its own (§5).
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
 | Rule on sending data abroad | Cross-border data transfers: rule on sending data abroad | `gov.regional--cross-border-data-transfers` |
 
-Anything else the evidence names is `other`, noted and never staged: an agreement by the government to share data with another government or a donor; a regional guideline being drafted, or a meeting on data flows; membership of an international privacy forum; a data protection law with no source saying what it rules on sending data abroad.
+Anything else is `other`, noted and never staged: a government data-sharing agreement, a regional guideline or meeting, a privacy forum, or a data protection law no source says rules on sending data abroad.
 
 ## 2. The questions
 
@@ -57,11 +57,11 @@ Asked in order. Each is answered with a date and a link.
 - **Signature without ratification is not a yes to question 4.** The ECOWAS Supplementary Act and other community acts bind members without ratification and are not a yes either; a source saying a community partner's protection is treated as adequate is.
 - **Permissions granted, fines and counts are noted, not staged**: how often the authority says yes is not the test.
 
-`study.json` holds this as four aspects, one a question and one paragraph each on the country page: `standing` (`in-force`, `draft`, `none`) for 1; `open` (`open`, `closed`) for 2; `route` (`published`) for 3; `africa` (`ratified`, `signed`, `none`) for 4. Evidence rows carry the same four: localisation facts carried from the data localisation study sit under `open` as `localised`, `localising` or `unlocalised`, read for whether the rule is general; the 2026-10-13 ladder's facts sit under `route` as `means`, `applied` or `none`, read through question 3's test; `africa` facts are carried from the regional law study.
+`study.json` holds this as four aspects, one a question and one paragraph each on the country page: `standing` (`in-force`, `draft`, `none`) for 1; `open` (`open`, `closed`) for 2; `route` (`published`) for 3; `africa` (`ratified`, `signed`, `none`) for 4. Carried localisation facts sit under `open` (`localised`, `localising`, `unlocalised`) and the 2026-10-13 ladder's under `route` (`means`, `applied`, `none`), read through question 3's test.
 
 ## 4. The norm
 
-The African Union's Convention on Cyber Security and Personal Data Protection (the Malabo Convention), article 14, bars sending personal data to a country outside the Union unless that country protects it adequately. The Union's Data Policy Framework, of 2022, and the digital trade protocol of the African Continental Free Trade Area, of 2024, ask states to let data move across borders under stated safeguards. This study asks whether the rule protects personal data sent abroad while letting it go: no rule, a rule keeping data at home and a rule that makes every transfer wait on permission all fall short, and recognising African partners is the top of the ladder.
+The African Union's Convention on Cyber Security and Personal Data Protection (the Malabo Convention), article 14, bars sending personal data to a country outside the Union unless that country protects it adequately. The Union's Data Policy Framework, of 2022, and the digital trade protocol of the African Continental Free Trade Area, of 2024, ask states to let data move across borders under stated safeguards.
 
 ## 5. What the run reads
 
@@ -82,23 +82,15 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 - [x] **D3. Staged** as at 2026-09-30: 5: 5, 4: 5, 3: 19, 2: 3, 1: 3, and 19 without evidence; six rows removed or revalued (`corrections.csv`); agreement 19 of 20, and the twentieth cell restaged the second reader's way.
 - [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
 
-**Decided in the run**:
-
-- **Stage 5**: Angola, Ethiopia, Mauritius, Uganda and Zimbabwe. **Stage 4**: Botswana, Kenya, Mauritania, Morocco and Tunisia.
-- **Nigeria is stage 3**: its 2025 fine followed an investigation that covered transfers, and the source does not tie the penalty to them.
-- **Zambia is stage 2**: the one source held says the Act starts on a date the minister appoints and gives none.
-- **Mozambique is stage 2** on its 2026 bill; **Burkina Faso has no evidence**, its bill being reported only as a ban.
-- **Eritrea, Namibia and Sudan are stage 1**; Namibia's on an opposition member of parliament's statement.
-- **Nineteen countries are without evidence**, Egypt, Rwanda, Benin and Togo among them: their news does not say what the law rules on sending data abroad.
-- **Tokens: about 46 million at the map**, ceiling 40 million, step 1 included. The writers took it over; the run was past its last fan-out when the count was read.
+**Decided in the run**: superseded by the rescore of 2026-10-31 below. The run took about 46 million tokens against a ceiling of 40 million.
 
 ## Rescore, 2026-10-31
 
 **Bill's ruling of 2026-10-31 (messages-for-bill 58)** replaced the ladder (§1 to §3): the indicator now rewards a country that encourages transfers while protecting personal data. 179 facts were carried in from the data localisation and regional law studies; three Sonnet drafters restaged all 54 cells from the facts alone and rewrote every page, and the parent checked each against the ladder. Every cell is staged by hand; `study-ladder-datatransfers.py` counts the 2026-10-13 ladder and is retired for this study.
 
-- **Now**: 5 Mauritania; 4 Morocco; 3 Angola, Comoros, Cabo Verde, Djibouti, Malawi, Nigeria, Somalia, São Tomé, Seychelles, Uganda, South Africa; 2 twenty-six countries; 1 Eritrea, Namibia, Sudan; unplaced 12.
-- **What fell**: the regimes that make every transfer wait on permission (Côte d'Ivoire, Cameroon, DR Congo, Egypt, Tunisia, Eswatini, Mauritius, Tanzania, Zimbabwe), and those with a general localisation rule beside their transfer rule (Algeria, Ethiopia, Rwanda). Angola, Nigeria and Uganda fell from 5 to 3: open, but no route without asking is published.
-- **Why nearly no one is at 5**: nineteen cells show Malabo ratified, but only Cabo Verde, São Tomé and Mauritania are also open, and only Mauritania publishes a way to send data without asking. Morocco publishes one, but its 2015 adequacy list named no African country and it has not ratified.
+- **Now**: `outputs/maturity/datatransfers/assessment.csv` holds the stages.
+- **What fell**: regimes that make every transfer wait on permission, and those with a general localisation rule beside their transfer rule. Angola, Nigeria and Uganda fell from 5 to 3: open, but no route without asking is published.
+- **Why nearly no one is at 5**: of the nineteen that ratified Malabo, only Cabo Verde, São Tomé and Mauritania are also open, and only Mauritania publishes a route without asking.
 - **Next**: the rebuild searches each country on the four new questions; whether permission is needed for every transfer is the question the news least often answers, so a stage-2 cell often means *not shown open*.
 
 ## Boundary
