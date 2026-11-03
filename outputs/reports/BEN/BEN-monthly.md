@@ -3,9 +3,9 @@ title: Benin — News, Oct – Nov 2026
 compiled: 2026-11-03
 period: 2026-10-01 to 2026-11-03
 place: BEN
-ledger_rows: 20
+ledger_rows: 21
 not_held: 4
-record: 12fc6302a553
+record: f75e938d9722
 ---
 
 # News, Oct – Nov 2026
@@ -18,6 +18,8 @@ record: 12fc6302a553
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -379,6 +381,28 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 **[Digitization in Benin: Criminal records now issued instantly and without supporting documents](https://beninwebtv.bj/en/digitization-in-benin-criminal-records-now-issued-instantly-and-without-supporting-documents/)** — Bénin Web TV, 2 November 2026
 
 Benin's Ministry of Justice and Legislation is the first ministry to apply the government's "Tell us once" directive. Since 1 November 2026 a criminal record certificate is issued instantly on service-public.bj with no supporting documents, for a fee of FCFA 1,900. The applicant's identity is checked against the personal identification number and civil-registry records.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Yèmi AI assistant on the national services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : comment fonctionne le portail numérique des services publics ?](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)** — Nasuba, 2 November 2026
+
+Portal lists 1,208 services, 131 online, 2.5m requests (Nov 2026); business mode and Yèmi AI assistant added.
 
 </div>
 
