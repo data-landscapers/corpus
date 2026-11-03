@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: GHA
 ledger_rows: 56
 not_held: 9
-record: 9f3b34e8adfa
+record: 7ae10ef7798e
 ---
 
 # News, Oct – Nov 2026
@@ -472,7 +472,7 @@ Ghana's communications minister Samuel Nartey George said phase one of the count
 
 **[Sensitive Data Must Be Hosted on Secure Infrastructure – Sam George](https://thevaultznews.com/2026/11/02/sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george/)** — The Vaultz News, 2 November 2026
 
-VASP customers to be checked against NIA register under Act 1154; G-Cloud hosting; One Million Coders at 140,000.
+Ghana's communications minister, Sam George, spoke at the Africa Virtual Asset Summit 2026. He said providers licensed under the Virtual Asset Service Providers Act, 2025 (Act 1154) should verify customers biometrically against the NIA register. Sensitive data, he said, must sit on secure sovereign infrastructure such as G-Cloud. He put One Million Coders at more than 140,000 registered and over 10,000 trained.
 
 </div>
 
@@ -782,7 +782,7 @@ Stanbic Bank Ghana and Hong Kong-based RD Technologies said, as reported on 20 O
 
 **[Opening Remarks by Governor Dr Johnson Pandit Asiama at the 11th Meeting of the Payment Systems Advisory Committee](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)** — Bank of Ghana, 2 November 2026
 
-Reconstituted PSAC opens; GhIPSS 530m transactions, GH¢1.73tn in 2025; low GhQR uptake, no agent interoperability.
+Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Systems Advisory Committee on 2 November 2026. He named low GhQR adoption, no agent interoperability and growing bilateral arrangements as sources of fragmentation. He put GhIPSS volumes at about 530 million transactions worth over GH¢1.73 trillion in 2025.
 
 </div>
 
@@ -844,7 +844,7 @@ In a MyJoyOnline opinion piece, Bright Simons examines Ghana's Traffitech-GH sys
 
 **[‘Everything is ready’ – MTTD confirms November 1 TraffiTech-GH rollout](https://www.citinewsroom.com/2026/10/everything-is-ready-mttd-confirms-november-1-traffitech-gh-rollout/)** — Citi Newsroom, 31 October 2026
 
-MTTD: speed cameras from 1 Nov 2026, SMS notices, 14 days to pay or contest; transport operators threaten strike.
+Ghana's Motor Traffic and Transport Department said on 31 October 2026 that its TraffiTech-GH enforcement system would start on 1 November. Cameras will detect speeding and owners will receive electronic notices by text message. Owners have 14 days to pay the fine or contest it in court, and transport operators have threatened a strike.
 
 </div>
 
@@ -852,7 +852,7 @@ MTTD: speed cameras from 1 Nov 2026, SMS notices, 14 days to pay or contest; tra
 
 **[Ghana : la police déploie des caméras connectées pour automatiser le contrôle routier](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)** — wearetech.africa, 2 November 2026
 
-Live since 1 Nov 2026; SMS fines payable by mobile money or card; NRSA counted 2,949 road deaths in 2025, up 18.2%.
+Ghana Police's TraffiTech-GH camera enforcement system went live on 1 November 2026, starting with speeding on crash-prone routes. The Motor Traffic and Transport Department reviews offences captured by fixed, vehicle-mounted and laser devices and notifies drivers by SMS. Drivers have 14 days to pay by mobile money or card, or to contest the fine.
 
 </div>
 

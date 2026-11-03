@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: ETH
 ledger_rows: 23
 not_held: 5
-record: fc0b22b091bd
+record: f3acd6698986
 ---
 
 # News, Oct – Nov 2026
@@ -78,7 +78,7 @@ Ethiopia's Minister of Innovation and Technology, Frehiwot Tamru, told the Ethio
 
 **[Authorities' Bid for Digital Quality Sparks Fury Among Cash-strapped Businesses](https://addisfortune.news/authorities-bid-for-digital-quality-sparks-fury-among-cash-strapped-businesses)** — Addis Fortune, 31 October 2026
 
-Mandatory scannable marks for essential products, built with EAII; fees up to 0.5% of revenue; industry pushback.
+The Institute of Ethiopian Standards is building scannable digital marks, with the Ethiopian Artificial Intelligence Institute, to replace manual watermarks on essential products. The marks will become mandatory for those products. Revised fees reach up to 0.5% of revenue, and businesses have pushed back.
 
 </div>
 

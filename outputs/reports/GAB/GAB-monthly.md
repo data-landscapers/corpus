@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: GAB
 ledger_rows: 31
 not_held: 12
-record: 501a509dcee6
+record: 65372625a8af
 ---
 
 # News, Oct – Nov 2026
@@ -576,7 +576,7 @@ Four months after Libreville's mayor launched collection of market fees by Airte
 
 **[Gabon : Libreville digitalise la collecte de ses taxes](https://fr.infosgabon.com/gabon-libreville-digitalise-la-collecte-de-ses-taxes/)** — Infos Gabon, 31 October 2026
 
-Online municipal tax and fee payment presented 30 Oct 2026; in service since 12 June, said to be 95% operational.
+Libreville city hall officially presented e-Taxe municipale, a platform for declaring and paying municipal taxes and fees online, on 30 October 2026. It was prototyped in January 2026 and put into service on 12 June 2026. The municipality described it as 95% operational.
 
 </div>
 

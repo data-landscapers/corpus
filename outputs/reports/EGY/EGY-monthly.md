@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: EGY
 ledger_rows: 41
 not_held: 36
-record: 7f4844302c7c
+record: ede9de3d38cf
 ---
 
 # News, Oct – Nov 2026
@@ -250,7 +250,7 @@ Egypt's telecoms regulator ordered fixed-line providers to double the EGP 150 ba
 
 **[6 Million New Lines and Fiber Optics Doubled: NTRA Unveils Egypt”s Internet Development Roadmap](https://www.technotime.net/18185)** — Techno Time, 2 November 2026
 
-6m more lines to fibre by ~2029, 2m a year; 13m+ fixed users (2026); 38,000 towers, 40,000 by end-2026; 450 MHz released.
+Egypt's telecoms regulator NTRA plans to upgrade 6 million more fixed internet lines over three years. Fibre-backed lines would then pass 90% of the fixed network. Spokesperson Mohamed Ibrahim put fixed internet users above 13 million, with more than 5.5 million lines already on fibre. He gave 38,000 cell towers, with 40,000 targeted by end-2026. He said 450 MHz has been released to mobile operators.
 
 </div>
 
@@ -568,7 +568,7 @@ Egypt's foreign ministry has started piloting a mobile app for consular services
 
 **[Egypt launches digital environmental impact assessment system, ends paper-based applications](https://sis.gov.eg/en/media-center/news/egypt-launches-digital-environmental-impact-assessment-system-ends-paper-based-applications/)** — State Information Service (Egypt), 1 November 2026
 
-Electronic-only EIA filing from 1 November 2026; paper applications no longer accepted; online file tracking.
+Egypt made its digital environmental impact assessment system, IDEIA, mandatory from 1 November 2026. Paper applications have ended, and all files must be submitted and tracked on the platform. Minister Manal Awad presented it as the response to investor complaints about delays and about not knowing a file's status.
 
 </div>
 

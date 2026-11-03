@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: NGA
 ledger_rows: 77
 not_held: 9
-record: 87ec3694ec42
+record: ab40077625f3
 ---
 
 # News, Oct – Nov 2026
@@ -94,7 +94,7 @@ A Nigerian delegation led by communications minister Bosun Tijani attended a KOI
 
 **[상명대, 나이지리아 디지털정부 고위급 공무원 초청연수 성료](https://edu.donga.com/news/articleView.html?idxno=113353)** — E동아 (Donga), 30 October 2026
 
-Study visit 19-26 Oct 2026 for Tijani, NDPC, Galaxy Backbone; Sangmyung consortium has run KOICA project since 2022.
+A Sangmyung University consortium ran a study visit to Korea for Nigerian senior officials from 19 to 26 October 2026. It was part of a KOICA-funded digital governance project. About 20 people took part, among them the communications minister, the data protection commissioner and the head of Galaxy Backbone. The aim was to help put Nigeria's e-Government Master Plan 2.0 into practice.
 
 </div>
 
@@ -968,7 +968,7 @@ Nigeria's electoral commission said some registration officers used their own lo
 
 **[INEC blames registration officers, but AI photos are the least of its worries](https://techcabal.com/2026/11/02/inecs-ai-photo-problem-runs-deeper/)** — TechCabal, 2 November 2026
 
-Register up 9m+ to 103m after 1.2m purged; online posting missed 18 Oct statutory deadline; final list due 15 Dec.
+An analysis of Nigeria's preliminary voter register, which lists more than 103 million voters against about 93 million in 2023. On 30 October 2026 the Independent National Electoral Commission's ICT director said registration officers with authorised access had entered some suspect records, including AI-generated photographs. The final register is due on 15 December 2026.
 
 </div>
 
@@ -1124,7 +1124,7 @@ Nigeria plans to finance community-owned telecom towers in unconnected areas thr
 
 **[FCMB and Mastercard Launch AgroPass to Expand Finance Access for Nigerian Farmers](https://techafricanews.com/2026/11/02/fcmb-mastercard-launch-agropass-expand-finance-access-nigerian-farmers/)** — Tech Africa News, 2 November 2026
 
-Community Pass platform links smallholders to inputs, buyers and lenders; FCMB cites ₦364.6bn farm lending last year.
+First City Monument Bank (FCMB) and Mastercard launched AgroPass in Lagos, built on Mastercard's Community Pass. It links Nigerian smallholder farmers to input suppliers, buyers and lenders and builds a digital record of their business activity. FCMB said it provided more than ₦364.6 billion in agricultural financing last year and supported over 196,000 smallholders.
 
 </div>
 

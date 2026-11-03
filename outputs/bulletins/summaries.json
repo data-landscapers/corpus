@@ -20789,6 +20789,11 @@
     "written": "2026-10-30",
     "summary": "MTN Group chief executive Ralph Mupita told journalists in Lagos on 28 October 2026 that MTN aspires to build a large data centre in Nigeria for sovereign data needs. He gave no site, capacity, cost or date. He also named fibre to homes and businesses as MTN's main Nigerian priority for the next five to ten years."
   },
+  "2026-10-29-sen-senegal-joj-videosurveillance-conforme-loi-cdp": {
+    "published": "2026-10-29",
+    "written": "2026-11-03",
+    "summary": "The president of Senegal's data protection commission, the CDP, said the state's video surveillance for the Youth Olympic Games had the commission's prior authorisation and complies with the law. The state had widened its existing camera network in Dakar, its suburbs and Saly ahead of the games. The stated aim is the security of people and property."
+  },
   "2026-10-29-sen-validation-de-la-snao-l-interoprabilit-des-services-publics-lance-pour": {
     "published": "2026-10-29",
     "written": "2026-11-01",
@@ -21059,6 +21064,11 @@
     "written": "2026-11-01",
     "summary": "Liberia's national water, sanitation and hygiene commission signed a memorandum with US nonprofit WaterStep and the Kijani Group in October 2026. They will build a management information system cataloguing the country's water points and the ministries responsible for them. WaterStep's pump diagnosis app will feed data from several agencies into one national system."
   },
+  "2026-10-30-lso-movable-assets-unlock-loans-for-businesses": {
+    "published": "2026-10-30",
+    "written": "2026-11-03",
+    "summary": "The Central Bank of Lesotho and the CAFI project launched campaigns urging small businesses to pledge movable assets as loan collateral. Assets worth M3.7bn have been registered on LERIMA, the electronic registry of interests in movable assets. CAFI also named an electronic data reporting and supervision system among the partnership's results."
+  },
   "2026-10-30-mli-recouvrement-digital-des-taxes-et-redevances-communales-la-mairie-de-l": {
     "published": "2026-10-30",
     "written": "2026-11-01",
@@ -21194,15 +21204,30 @@
     "written": "2026-11-01",
     "summary": "Zimbabwe's ICT minister said in October 2026 that her ministry was allocated ZWG1.03 billion for 2027 against a bid of ZWG12.72 billion, or 8.09%. She said the ministry's share of the national budget fell from 0.46% in 2021 to a proposed 0.28% in 2027. The 2027 allocation is 34.7% above the revised 2026 budget."
   },
+  "2026-10-31-civ-statistiques-du-marche-des-telecommunications-en-cote-d-ivoire-3eme-tri": {
+    "published": "2026-10-31",
+    "written": "2026-11-03",
+    "summary": "The regulator ARTCI published Côte d'Ivoire's telecoms market statistics for the third quarter of 2026. Fixed internet subscriptions passed 1 million, up 59.9%. Mobile internet stood at 41.4 million subscriptions and active mobile money accounts at 32.5 million. Starlink was licensed in July 2026."
+  },
   "2026-10-31-cod-rdc-lancement-dun-numero-d-acces-aux-services-clients-des-operateurs-d": {
     "published": "2026-10-31",
     "written": "2026-11-01",
     "summary": "DR Congo's telecom regulator ARPTC put the short code 1515 into service nationwide on 30 October 2026 to reach the customer service of any mobile operator. The operators' own short codes stay in use. ARPTC said the number is part of a mechanism to monitor customer-service quality."
   },
+  "2026-10-31-eth-authorities-bid-for-digital-quality-sparks-fury-among-cash-strapped-bu": {
+    "published": "2026-10-31",
+    "written": "2026-11-03",
+    "summary": "The Institute of Ethiopian Standards is building scannable digital marks, with the Ethiopian Artificial Intelligence Institute, to replace manual watermarks on essential products. The marks will become mandatory for those products. Revised fees reach up to 0.5% of revenue, and businesses have pushed back."
+  },
   "2026-10-31-eth-ethiopia-moves-to-deepen-digital-partnership-with-huawei-as-it-advance": {
     "published": "2026-10-31",
     "written": "2026-11-01",
     "summary": "Ethiopia's Deputy Prime Minister Temesgen Tiruneh and Eric Yuan, the new chief executive of Huawei Ethiopia, agreed to deepen cooperation on ICT infrastructure and the digital economy (reported October 2026). Temesgen stressed national ownership, security and local value creation under the Digital Ethiopia 2030 strategy. No agreement, value or project was named."
+  },
+  "2026-10-31-gab-gabon-libreville-digitalise-la-collecte-de-ses-taxes": {
+    "published": "2026-10-31",
+    "written": "2026-11-03",
+    "summary": "Libreville city hall officially presented e-Taxe municipale, a platform for declaring and paying municipal taxes and fees online, on 30 October 2026. It was prototyped in January 2026 and put into service on 12 June 2026. The municipality described it as 95% operational."
   },
   "2026-10-31-gha-everything-is-ready-mttd-confirms-november-1-traffitech-gh-rollout": {
     "published": "2026-10-31",
@@ -21238,6 +21263,11 @@
     "published": "2026-10-31",
     "written": "2026-11-01",
     "summary": "Kenya's Cabinet Secretary for Gender, Hannah Cheptumo, said public institutions are to audit their websites and online platforms and plan to remove barriers for persons with disabilities. She spoke on 30 October 2026 at a forum validating a roadmap on digital and ICT accessibility. The Office of Diversity, Inclusion and Disability Rights is drafting inclusive communication guidelines."
+  },
+  "2026-10-31-mdg-justice-595-arrets-selectionnes-pour-enrichir-la-jurisprudence": {
+    "published": "2026-10-31",
+    "written": "2026-11-03",
+    "summary": "Madagascar's Court of Cassation selected 595 of its 3,104 rulings from 2019 to 2022 for its online case-law platform, on 29 October 2026. The work was supported by UNDP. The platform, jurisprudence.justice.gov.mg, has held 1,003 rulings since its launch on 30 May 2025."
   },
   "2026-10-31-mdg-lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-nu": {
     "published": "2026-10-31",
@@ -21323,6 +21353,11 @@
     "published": "2026-11-01",
     "written": "2026-11-02",
     "summary": "An opinion column in L'Express argues for a decentralised data model in Mauritius. Each ministry would keep its own data and share it through a secure exchange layer. It cites Estonia's X-Road and Singapore's shared government platform."
+  },
+  "2026-11-01-sdn-sudan-council-of-ministers-approves-draft-cybersecurity-data-ai-digital-transformation-laws": {
+    "published": "2026-11-01",
+    "written": "2026-11-03",
+    "summary": "Sudan's Council of Ministers approved three draft laws from the Ministry of Digital Transformation and Communications on 1 November 2026. They are a Cybersecurity Regulation Bill, a Data and Artificial Intelligence Regulation Bill and a Digital Transformation Regulation Bill. The bill texts were not published."
   },
   "2026-11-01-xaf-afreximbank-afpay-cips-roadshows": {
     "published": "2026-11-01",

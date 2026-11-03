@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: SDN
 ledger_rows: 22
 not_held: 5
-record: f68246440fb8
+record: 2c66e80f5c28
 ---
 
 # News, Oct – Nov 2026
@@ -82,7 +82,7 @@ Rights groups and activists warn that a temporary decree issued by army commande
 
 **[مجلس الوزراء يدين الاعتداءات المتكررة على المنشآت الخدمية عبر المسيرات التي تنطلق دولة إثيوبيا](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)** — Sudan News Agency (SUNA), 1 November 2026
 
-Cabinet approves draft cybersecurity, data and AI, and digital transformation bills of 2026; texts unpublished.
+Sudan's Council of Ministers approved three draft laws from the Ministry of Digital Transformation and Communications on 1 November 2026. They are a Cybersecurity Regulation Bill, a Data and Artificial Intelligence Regulation Bill and a Digital Transformation Regulation Bill. The bill texts were not published.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: CPV
 ledger_rows: 8
 not_held: 24
-record: 03473e63da53
+record: 12fcba2de427
 ---
 
 # News, Oct – Nov 2026
@@ -44,7 +44,7 @@ record: 03473e63da53
 
 **[Cabo Verde altera regime de entrada e permanência de estrangeiros e prevê pedidos de vistos por via digital - Forbes África Lusofona](https://forbesafricalusofona.com/cabo-verde-altera-regime-de-entrada-e-permanencia-de-estrangeiros-e-preve-pedidos-de-vistos-por-via-digital/)** — Forbes Africa Lusófona, 2 November 2026
 
-Third amendment to foreigners' entry decree-law promulgated; online visa applications, airport tax changes.
+Cabo Verde's interim President promulgated the third amendment to the decree-law on the entry, stay, exit and expulsion of foreigners. Nationals of countries that need a prior visa may now apply through a digital platform. The amendment also changes the Airport Security Tax and its exemptions for the diaspora.
 
 </div>
 

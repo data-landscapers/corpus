@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: SEN
 ledger_rows: 30
 not_held: 2
-record: 24ce07fe8a1a
+record: 558f4520df2b
 ---
 
 # News, Oct – Nov 2026
@@ -120,7 +120,7 @@ Majority deputies in Senegal's National Assembly filed a proposal for a commissi
 
 **[JOJ : le dispositif de vidéosurveillance mis en place par l’Etat est conforme à la loi (CDP)](https://aps.sn/joj-le-dispositif-de-videosurveillance-mis-en-place-par-letat-est-conforme-a-la-loi-cdp/)** — Agence de Presse Sénégalaise (APS), 29 October 2026
 
-CDP president says expanded Youth Olympics CCTV network was authorised in advance; state cameras authorised since 2015.
+The president of Senegal's data protection commission, the CDP, said the state's video surveillance for the Youth Olympic Games had the commission's prior authorisation and complies with the law. The state had widened its existing camera network in Dakar, its suburbs and Saly ahead of the games. The stated aim is the security of people and property.
 
 </div>
 

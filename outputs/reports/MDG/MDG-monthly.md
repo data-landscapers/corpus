@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: MDG
 ledger_rows: 21
 not_held: 5
-record: c29538a9e972
+record: fba791667a4c
 ---
 
 # News, Oct – Nov 2026
@@ -408,7 +408,7 @@ Madagascar's economy and finance ministry plans to publish more budget informati
 
 **[Justice: 595 arrêts sélectionnés pour enrichir la jurisprudence](https://newsmada.com/2026/10/31/justice-595-arrets-selectionnes-pour-enrichir-la-jurisprudence/)** — Newsmada, 31 October 2026
 
-595 of 3,104 rulings (2019-22) chosen 29 Oct 2026; platform held 1,003 decisions since 30 May 2025 launch.
+Madagascar's Court of Cassation selected 595 of its 3,104 rulings from 2019 to 2022 for its online case-law platform, on 29 October 2026. The work was supported by UNDP. The platform, jurisprudence.justice.gov.mg, has held 1,003 rulings since its launch on 30 May 2025.
 
 </div>
 

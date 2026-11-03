@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: BEN
 ledger_rows: 20
 not_held: 4
-record: 5f22f42edc7a
+record: 12fc6302a553
 ---
 
 # News, Oct – Nov 2026
@@ -282,7 +282,7 @@ Benin's finance and justice ministers set fees for 109 documents issued by the c
 
 **[Communiqué de MTN Mobile Money Bénin](https://www.24haubenin.info/?Communique-de-MTN-Mobile-Money-Benin=)** — 24 Heures au Bénin, 2 November 2026
 
-PI-SPI routing from 2 Nov 2026; free to FCFA 8,000 a day then 0.5%; MoMo balance ceiling doubled to FCFA 4m.
+MTN Mobile Money Bénin said its interoperable e-money transactions run through the BCEAO's PI-SPI from 2 November 2026. National interoperable transfers are free up to FCFA 8,000 a day. Above that they cost 0.5%. The wallet ceiling rises from FCFA 2 million to 4 million. The cap on an interoperable transfer rises from FCFA 500,000 to 2 million.
 
 </div>
 
@@ -378,7 +378,7 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 
 **[Digitization in Benin: Criminal records now issued instantly and without supporting documents](https://beninwebtv.bj/en/digitization-in-benin-criminal-records-now-issued-instantly-and-without-supporting-documents/)** — Bénin Web TV, 2 November 2026
 
-Instant issue on service-public.bj from 1 Nov 2026, checked against PIN and civil registry; FCFA 1,900 fee.
+Benin's Ministry of Justice and Legislation is the first ministry to apply the government's "Tell us once" directive. Since 1 November 2026 a criminal record certificate is issued instantly on service-public.bj with no supporting documents, for a fee of FCFA 1,900. The applicant's identity is checked against the personal identification number and civil-registry records.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: GIN
 ledger_rows: 21
 not_held: 3
-record: 8ff404569a8a
+record: 486d0e41a284
 ---
 
 # News, Oct – Nov 2026
@@ -94,7 +94,7 @@ A sensitisation session on WARDIP, the 2023-2028 West Africa regional digital in
 
 **[Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation](https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417)** — SikaFinance, 2 November 2026
 
-Guinea targets 10,000 km of fibre by 2030 from 4,350 km, 857 priority rural localities, a sharing one-stop shop.
+The 24th FRATEL annual meeting met in Conakry from 28 to 30 October 2026 on the connectivity gap between cities and rural areas. A Guinean telecoms official gave the national target: fibre from 4,350 km to 10,000 km by 2030. The plan names 857 priority rural localities and a one-stop shop for infrastructure sharing. An ITU speaker said 2.2 billion people remained offline in 2025.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: KEN
 ledger_rows: 64
 not_held: 5
-record: 23492a64c3c1
+record: 062af16e583a
 ---
 
 # News, Oct – Nov 2026
@@ -146,7 +146,7 @@ Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections 
 
 **[Public Notice: Validation of the Draft Kenya Information and Communication (Amendment) Bill, 2026](https://ict.go.ke/sites/default/files/2026-10/Validation%20Notice-KICA%20Amendment%20Bill%20Nov%2C%202026.pdf)** — Ministry of Information, Communications and the Digital Economy (Kenya), 31 October 2026
 
-Revised draft bill open for comment to 17 November 2026; virtual validation forum 25 November.
+Kenya's information and communications ministry has published a revised draft of the Kenya Information and Communication (Amendment) Bill, 2026, for comment. Written comments are due by 17 November 2026, and a virtual validation forum is set for 25 November.
 
 </div>
 
@@ -276,7 +276,7 @@ Kenya plans a further 44,000km of fibre. One part is a 17,000km project for publ
 
 **[Airtel Africa plc, Results for half year ended 30 September 2026](https://www.investegate.co.uk/announcement/rns/airtel-africa--aaf/half-year-report/9849212)** — Airtel Africa plc, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-H1 to 30 Sep 2026: revenue USD 3,823m, 193.9m customers; Kenya 3500 MHz spectrum USD 65m for 25 years.
+Airtel Africa reported results for the half year to 30 September 2026. Its customer base grew 11.6% to 193.9 million, and mobile money customers grew 22.4% to 60.9 million. The report also records the Kenya 3500 MHz spectrum purchase, 100 MHz for US$65 million over 25 years.
 
 </div>
 
@@ -284,7 +284,7 @@ H1 to 30 Sep 2026: revenue USD 3,823m, 193.9m customers; Kenya 3500 MHz spectrum
 
 **[Airtel Kenya pays Sh8.4 billion for 5G spectrum in network expansion push](https://nation.africa/kenya/business/companies/airtel-kenya-pays-sh8-4-billion-for-5g-spectrum-in-network-expansion-push-5652832)** — Daily Nation, 31 October 2026
 
-100 MHz at 3500 MHz for US$65m, 25-year term, CA-approved; follows Airtel's new 25-year operating licence of August 2026.
+Airtel Kenya acquired 100 MHz in the 3500 MHz band for US$65 million (Sh8.4 billion) on a 25-year term. The Communications Authority of Kenya approved the purchase subject to standard conditions. It follows a new 25-year operating licence the operator obtained in August 2026 for an undisclosed fee.
 
 </div>
 
@@ -292,7 +292,7 @@ H1 to 30 Sep 2026: revenue USD 3,823m, 193.9m customers; Kenya 3500 MHz spectrum
 
 **[Airtel Kenya secures 100MHz 5G spectrum](https://itweb.africa/article/airtel-kenya-secures-100mhz-5g-spectrum/RgeVDvPR3g2MKJN3)** — ITWeb Africa, 2 November 2026
 
-KES8.4bn C-band purchase amid Jamii's High Court challenge to the CA's 2025 spectrum pricing, fees suspended April 2025.
+ITWeb Africa reported Airtel Kenya's purchase of 100 MHz of 3500 MHz spectrum for KES8.4 billion, about US$65 million. It adds that Jamii Telecommunications has challenged the Communications Authority's 2025 spectrum pricing framework in the High Court, with Safaricom joining, and that the revised fees were suspended in April 2025. Kenya's 5G subscriptions reached 2.1 million in June 2026.
 
 </div>
 
@@ -374,7 +374,7 @@ Kenya's ICT minister told the Senate that the national incident response centre'
 
 **[State to strengthen cybersecurity as threats surge, says Murkomen](https://www.kbc.co.ke/state-to-strengthen-cybersecurity-as-threats-surge-says-murkomen/)** — KBC Digital, 2 November 2026
 
-Board chaired by Martin Koyabe inaugurated; DDoS attacks 72.16 million in year to June 2026, up 114.3%.
+Kenya's National Cybersecurity Agency Board, chaired by Martin Koyabe, was inaugurated at Harambee House. Interior Cabinet Secretary Kipchumba Murkomen directed it to build the real-time detection and response capacity of the National Cybersecurity Operations Centre. Communications Authority data put DDoS attacks at 72.16 million in the year to June 2026, up 114.3%.
 
 </div>
 

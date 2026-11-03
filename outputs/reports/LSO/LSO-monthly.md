@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: LSO
 ledger_rows: 9
 not_held: 4
-record: c531b2cc9f35
+record: dcb3cbba682d
 ---
 
 # News, Oct – Nov 2026
@@ -134,7 +134,7 @@ A World Bank urban and land team told Lesotho's communications ministry it is in
 
 **[Movable assets unlock loans for businesses](https://www.thereporter.co.ls/2026/10/30/movable-assets-unlock-loans-for-businesses/)** — The Reporter Lesotho, 30 October 2026
 
-M3.7bn of assets registered on LERIMA to date; CBL-CAFI campaign urges MSMEs to pledge movable collateral.
+The Central Bank of Lesotho and the CAFI project launched campaigns urging small businesses to pledge movable assets as loan collateral. Assets worth M3.7bn have been registered on LERIMA, the electronic registry of interests in movable assets. CAFI also named an electronic data reporting and supervision system among the partnership's results.
 
 </div>
 

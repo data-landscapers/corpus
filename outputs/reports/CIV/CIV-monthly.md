@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: CIV
 ledger_rows: 28
 not_held: 9
-record: b755be02e5cc
+record: 9ff54f9db672
 ---
 
 # News, Oct – Nov 2026
@@ -134,7 +134,7 @@ Côte d'Ivoire's Council of Ministers adopted a decree on 14 October 2026 settin
 
 **[Statistiques du marché des télécommunications en Côte d'Ivoire - 3ème trimestre 2026](https://artci.ci/wp-content/uploads/2026/10/RAPPORT-ARTCI-T3-2026_31.10.26.pdf)** — ARTCI (Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire), 31 October 2026
 
-Fixed internet passes 1m (+59.9%); 41.4m mobile internet, 32.5m active mobile money; Starlink licensed July 2026.
+The regulator ARTCI published Côte d'Ivoire's telecoms market statistics for the third quarter of 2026. Fixed internet subscriptions passed 1 million, up 59.9%. Mobile internet stood at 41.4 million subscriptions and active mobile money accounts at 32.5 million. Starlink was licensed in July 2026.
 
 </div>
 
