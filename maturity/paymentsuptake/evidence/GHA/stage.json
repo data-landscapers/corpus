@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "no evidence",
-   "share": "",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found gives a survey share of adults with an account.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "4",
+      "share": "half",
+      "target": "target",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-001;GHA-002",
+      "gaps": "No survey held since October 2023 puts adults who made or received a digital payment at 79% or more; the survey behind the 81% is not named or dated.",
+      "note": "The Bank of Ghana's governor said in November 2026 that recent global surveys put adults with a financial account at about 81% (GHA-001, GHA-002), so stage 4. No survey share of adults paying digitally is held.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

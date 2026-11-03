@@ -1,6 +1,6 @@
 # Population uptake: population uptake
 
-*As at 2026-10-18.*
+*As at 2026-11-03.*
 
 ## The norm
 
@@ -21,14 +21,21 @@ The World Bank's Global Findex 2025 puts account ownership at 79% of adults worl
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 3 |
+| 4 Operating | 4 |
 | 3 Established | 14 |
 | 2 Nascent | 5 |
 | 1 Absent | 1 |
 | Unplaced | 9 |
-| No evidence | 22 |
+| No evidence | 21 |
 
 ## Countries
+
+### Ghana: 4 Operating
+
+About four in five adults held a financial account by 2026, the central bank governor said; the share paying digitally is not known.
+
+- Governor Asiama says recent global surveys indicate approximately 81 per cent of Ghanaian adults own a financial account ([source, 2026-11-02](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)).
+- Governor Asiama says recent global surveys indicate approximately 81 per cent of Ghanaian adults own a financial account ([source, 2026-11-02](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)).
 
 ### Kenya: 4 Operating
 
@@ -297,12 +304,6 @@ Nothing found names a survey share of adults with an account or says there is no
 Not established: Nothing found gives a survey share of adults with an account.
 
 ### Gambia: No evidence
-
-Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing found gives a survey share of adults with an account.
-
-### Ghana: No evidence
 
 Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 

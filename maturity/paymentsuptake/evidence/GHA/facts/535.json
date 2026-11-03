@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-02-gha-opening-remarks-by-governor-dr-johnson-pandit-asiama-at-the-11th-meeti",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "Governor Asiama says recent global surveys indicate approximately 81 per cent of Ghanaian adults own a financial account.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "global surveys",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "target",
+   "value": "target",
+   "fact": "Governor Asiama says recent global surveys indicate approximately 81 per cent of Ghanaian adults own a financial account.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "global surveys",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
