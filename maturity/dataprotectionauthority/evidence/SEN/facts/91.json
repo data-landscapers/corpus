@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-29-sen-senegal-joj-videosurveillance-conforme-loi-cdp",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Senegal's Commission de protection des donnees personnelles (CDP), through its president Ousmane Thiongane, said on 2026-10-29 that the Interior Ministry's CCTV network had its prior approval.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Commission de protection des donnees personnelles (CDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de protection des donnees personnelles (CDP)",
+   "country_label": "Senegal",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

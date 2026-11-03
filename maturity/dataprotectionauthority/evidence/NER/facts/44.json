@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-12-ner-atelier-de-renforcement-des-capacites-sur-les-transactions-electroniqu",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The president of Niger's Haute Autorité de Protection des Données à caractère Personnel (HAPDP) attended the workshop opening on 11 March 2025.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "HAPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
