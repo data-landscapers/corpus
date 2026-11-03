@@ -1,20 +1,37 @@
 subtopic_id,priority,applies,pattern
-gov.policy.rights,5,nonstate,Article 19|Internet Freedom|Progressive Communications|Access Now|Civic Internet|Reliable Information|Sheria ya Vijana|digital rights
-gov.policy.funds,10,nonstate,Digital Development Partnership|Joint SDG Fund|International Bank for Reconstruction
-gov.policy.coordination,15,nonstate,Donor Collaboration|D4D[- ]Hub|Knowledge Hub|Task Force|Multilateralism|Country Assessment|Investment Analysis
-gov.policy.strategy,20,nonstate,ICT Development Strategy|Infrastructure Roadmap|E-Commerce And Digital Economy
-gov.policy.legal,25,nonstate,Data Governance|Cross-Regulatory|Policy and Regulation Initiative|harmoni[sz]ed digital and data policies|Regulatory Reforms|Reform DPF|Safe Digital Boost|regulatory and policy component
-gov.policy.programmes,40,nonstate,digital[- ]transformation|digitali[sz]|digiti[sz]|digital economy|digital ecosystem|digital solutions|Digitale L[öo]sungen|digital market|Innovation Bridge|Green Innovation|Smart Africa|BenInnovation|VaMOZ|transformation num[ée]rique|Goin
-gov.policy.admin,5,,"(?:^(?!Capital project of )|\|).*?(?:headquarters|Minister's office|general secretariat|digital ministry's new|Steering, staff and support costs|Staff and running costs|central apparatus|administration and support programme)"
-gov.policy.strategy,8,,(?:^(?!Capital project of )|\|).*?(?:strategy and its legislation|market analysis)
-gov.policy.legal,10,,(?:^(?!Capital project of )|\|).*?(?:legal|legislation|regulat|law\b|licensing|Competition Commission)
-gov.policy.strategy,20,,(?:^(?!Capital project of )|\|).*?(?:strateg|policy|policies|Digital Agenda|roadmap|blueprint|technology plan|guideline|action plan|strategic plan|Niger 2\.0|e-justice)
-gov.policy.coordination,30,,(?:^(?!Capital project of )|\|).*?(?:coordinat|steering|programme|promot|support to digital|studies|DCPP|DISSP|fourth industrial|digitalisation unit|capacity to deliver|state-owned|Development Project|planning for)
-gov.policy.admin,40,,(?:^(?!Capital project of )|\|).*?(?:directorate|ministry|minist|secretariat|DNEN|central apparatus|information society agency|institutional capacity|operating capacity)
-gov.policy.unspecified,999,,
-gov.legislate.drafting,10,,(?:^(?!Capital project of )|\|).*?(?:draft|legal (texts|framework)|digital code)
-gov.legislate.enforcement,20,,(?:^(?!Capital project of )|\|).*?(?:control|regulat|fees|CNCF|unsolicited)
-gov.legislate.unspecified,999,,
+gov.policy.crosscutting,5,nonstate,Article 19|Internet Freedom|Progressive Communications|Access Now|Civic Internet|Reliable Information|Sheria ya Vijana|digital rights
+gov.policy.crosscutting,10,nonstate,Digital Development Partnership|Joint SDG Fund|International Bank for Reconstruction
+gov.policy.crosscutting,13,nonstate,Ministry of Innovation and Technology|Tax Administration Technology
+gov.policy.crosscutting,15,nonstate,Donor Collaboration|D4D[- ]Hub|Knowledge Hub|Task Force|Multilateralism|Country Assessment|Investment Analysis|Regulatory Reforms
+gov.policy.datagov,18,nonstate,Data Governance|harmoni[sz]ed digital and data policies|digital and data policies|Data and Evidence
+gov.policy.ict,20,nonstate,ICT Development Strategy|Cross-Regulatory|Policy and Regulation Initiative|Regulators Partnership|ICT Strategy
+gov.policy.digital,40,nonstate,"digital[- ]transformation|digitali[sz]|digiti[sz]|digital economy|digital ecosystem|digital solutions|Digitale L[öo]sungen|digital market|Innovation Bridge|Green Innovation|Smart Africa|BenInnovation|VaMOZ|transformation num[ée]rique|Goin|E-Commerce|Reform DPF|Safe Digital Boost|regulatory and policy component|\bDIAL\b|Digital Impact Alliance|Digital Public Goods|Advocating, accelerating|digital lab|ICTD Phase|Digital Public Infrastructure|\bDPI\b|Digital Frontiers"
+gov.policy.crosscutting,3,,"(?:^(?!Capital project of )|\|).*?(?:headquarters|Minister's office|general secretariat|digital ministry's new|Steering, staff and support costs|Staff and running costs|central apparatus|administration and support programme)"
+gov.policy.crosscutting,3,,"^(?![^|]*(agency's services, records or processes|Digital Economy and ICT programme|advises on|[Ff]easibility))[^|]*(digital ministry|ministry responsible for the digital|digital, posts and telecommunications ministry|ICT ministry|ministry of ICT|NITA-U|national IT authority|e-government (agency|institute|bureau)|national e-government institute|state digital agency|digital development agency|national ICT (agency|promotion agency)|information-systems agency|state IT (agency|company)|government IT agency|AGETIC|ANPTIC|\bANSI\b|\bRISA\b|Rwanda Information Society|ICT Authority|Agence Togo Digitale|national agency for the digitalisation|CNIAPGE|computerisation centre|national centre for computeris|SETIC|DGTD|DDTIC|DGTIC|directorate-general for ICT|digital-economy directorate|the Institute|directorate-general responsible for the digital\b|digital governance unit|digital-governance directorate|administrative-modernisation (institute|directorate)|General Information Authority|technology watch|technical approvals for IT providers|steering committee for computerising)"
+gov.policy.crosscutting,3,,\|[^|]*(DGTIC|DDTIC)
+gov.policy.sovereignty,10,,(?:^(?!Capital project of )|\|).*?(?:sovereign|souverain|locali[sz]ation)
+gov.policy.dataprotect,11,,(?:^(?!Capital project of )|\|).*?(?:data protection|personal data|privacy|donn[ée]es (à caract[èe]re )?personnel|protection des donn)
+gov.policy.ict,9,,(?:^(?!Capital project of )|\|).*?(?:ICT policy and law|legal and regulatory framework for ICT)
+gov.policy.cyber,12,,(?:^(?!Capital project of )|\|).*?(?:cyber)
+gov.policy.ai,13,,(?:^(?!Capital project of )|\|).*?(?:artificial intelligence|intelligence artificielle|ARTIFIC|\bAI\b)
+gov.policy.interop,14,,(?:^(?!Capital project of )|\|).*?(?:interoperab)
+gov.policy.datagov,15,,(?:^(?!Capital project of )|\|).*?(?:data governance|data polic|open data|data sharing|donn[ée]es ouvertes)
+gov.policy.crosscutting,17,,(?:^(?!Capital project of )|\|).*?(?:directorate|Staff of|operating capacity)
+gov.policy.digital,18,,(?:^(?!Capital project of )|\|).*?(?:e-commerce|commerce [ée]lectronique|e-government|e-gouvernement|e-justice|e-strat|digital health|telemedicine|technology plan|blueprint|digital transition|transition num|transition digitale|digital transformation|Digital Agenda|Agenda Digital|roadmap|Hoja de ruta|Niger 2\.0|strat[ée]gie 2\.0|fourth industrial|digitalisation unit|digital economy|Econom[ií]a Digital|digital development|d[ée]veloppement du num|Digital Economy and ICT programme|Planning - Infrastructure and Digital|strat[ée]gie num[ée]rique|digital strateg|digital policy|digital governance)
+gov.policy.ict,20,,"(?:^(?!Capital project of )|\|).*?(?:ICT|telecom|t[ée]l[ée]com|broadband|postal|smart city|broadcasting|audiovisu|communications policy|licensing|cost to communicate|Communication, Technology)"
+gov.policy.crosscutting,999,,
+gov.legislate.payments,3,nonstate,consumer advoca|capacity of regulators|regulators? (in|to)\b|Consumer Protection
+gov.legislate.payments,22,nonstate,consumer protection|regulators?\b|supervis|suptech|regtech|regulatory (technology|reporting|environment|framework|gaps)|complaints|grievance|\bAML\b|competition enablers|central bank|policy harmoni
+gov.legislate.dataprotect,10,,(?:^(?!Capital project of )|\|).*?(?:data protection|personal data|privacy|donn[ée]es (à caract[èe]re )?personnel|protection des donn)
+gov.legislate.cyber,11,,(?:^(?!Capital project of )|\|).*?(?:cyber)
+gov.legislate.id,12,,(?:^(?!Capital project of )|\|).*?(?:identit|identification|digital ID|\bSIM\b)
+gov.legislate.payments,13,,(?:^(?!Capital project of )|\|).*?(?:payment|paiement|digital currenc|e-money|monnaie [ée]lectronique|mobile money|fintech|financial services)
+gov.legislate.interop,14,,(?:^(?!Capital project of )|\|).*?(?:interoperab|data sharing|data exchange)
+gov.legislate.ai,15,,(?:^(?!Capital project of )|\|).*?(?:artificial intelligence|intelligence artificielle|\bAI\b)
+gov.legislate.ecommerce,16,,(?:^(?!Capital project of )|\|).*?(?:e-commerce|commerce [ée]lectronique|electronic transaction|transactions [ée]lectroniques|electronic signature|signature [ée]lectronique|unsolicited|publicit)
+gov.legislate.statistics,17,,(?:^(?!Capital project of )|\|).*?(?:statisti)
+gov.legislate.rti,18,,(?:^(?!Capital project of )|\|).*?(?:access to information|acc[èe]s à l.information|right to information)
+gov.legislate.crosscutting,999,,
 gov.protect.other,10,nonstate,Privacy International|Privacy Enhancing|Global Pulse
 gov.protect.other,10,,(?:^(?!Capital project of )|\|).*?(?:DNA|content classification|online safety|international data-protection bodies|Builds skills|security and data protection law)
 gov.protect.compliance,20,,^Capital project of 
@@ -119,7 +136,6 @@ dpi.id.national_id,60,,(?:^(?!Capital project of )|\|).*?(?:identi|ID\b|populati
 dpi.id.unspecified,999,,
 dpi.pay.remit,1,nonstate,Remittances for Development|remittance transfers into|remittance services from|payment system for remittances|cross-border-remittances|global digital payments infrastructure provider
 dpi.pay.inclusion,2,nonstate,transaction accounts|Development Policy (Financing|Lending)|\bDPF\b|\bCGAP\b|general operating support|partner operations
-gov.legislate.finance,3,nonstate,consumer advoca|capacity of regulators|regulators? (in|to)\b|Consumer Protection
 dpi.pay.evidence,4,nonstate,Digital Frontiers Institute|DFS professionals|Leadership Program|practitioners and regulators
 dpi.pay.rails,5,nonstate,instant (and inclusive |& inclusive )?payment|inclusive instant|\bIIPS|national (payment )?switch|EthSwitch|Mojaloop|real-time (retail )?payment|interoperable (retail|real-time|payment)|\bRTGS\b|\bL1P\b|Level One
 dpi.pay.disburse,6,nonstate,safety nets?|cash transfers?|\bG2Px?\b|government[- ]to[- ]person|social (benefit|protection)|campaign workers|health ?care workers|community health worker|bulk payment|e-?vouchers?|agricultural subsid|cash for (jobs|work)|digitize (unconditional|government payments)|World Health Organization
@@ -133,7 +149,6 @@ dpi.pay.providers,13,nonstate,"mobile money (platform|operat|services|subsidiary
 dpi.pay.agents,14,nonstate,agent network|agents in target|merchant payments|micro merchants|merchants and
 dpi.pay.remit,15,nonstate,remittance|cross[- ]border (payment|money|mobile money|transfer|retail|trade)|payment corridors|African corridors
 dpi.pay.insure,18,nonstate,insurtech|embedded insurance|digital insurance
-gov.legislate.finance,22,nonstate,consumer protection|regulators?\b|supervis|suptech|regtech|regulatory (technology|reporting|environment|framework|gaps)|complaints|grievance|\bAML\b|competition enablers|central bank|policy harmoni
 dpi.pay.lending,30,nonstate,lend(ing|er)|loans?\b|credit (scor|to)
 dpi.pay.banking,34,nonstate,mobile[- ]bank|banking (platform|services)|microfinance|financial institutions|Tier 2|bank account|account services
 dpi.pay.evidence,36,nonstate,research|evidence|evaluat|surveys?|\bstudy|learning agenda|learnings|knowledge|data analysis|information flow|explore|investigate|understanding how|rigorous method|better use of data|Innovation Laboratory
@@ -199,8 +214,6 @@ dpi.mis.other,32,,(market information|\bLMIS\b|monitor|M&E|suivi|[ée]valuation|
 dpi.mis.unspecified,999,,
 dpi.govtech.skills,10,nonstate,Capacity Building (for|on)|Digital Competency|E-training
 dpi.govtech.kit,11,nonstate,IT and office equipment|ICT equipment|video conferencing equipment
-gov.policy.strategy,12,nonstate,"\bDIAL\b|Digital Impact Alliance|Digital Public Goods Charter|Advocating, accelerating|digital lab|Data and Evidence|ICTD Phase|Tax Administration Technology Innovation Hub"
-gov.policy.admin,13,nonstate,Ministry of Innovation and Technology
 dpi.govtech.backoffice,13,nonstate,National Tax and Customs Administration|financial-governance information system
 dpi.govtech.programme,13,nonstate,Public Administration Modernization|Administration Modernisation|eGovernment Project|governance through digiti[sz]ation|Business Climate and the Modernization|Congo Digital
 dpi.govtech.systems,14,nonstate,Safe City|Video Surveillance|video-surveillance|Urban (Security|Surveillance)|Public Security|Smart Burkina|Integrated National Security|Unified Communic|Armed Services|command and control|Cidade Segura|Safe Zanzibar|Judicial Modernization|Intelligent Transport
@@ -208,8 +221,6 @@ dpi.govtech.eservices,15,nonstate,Single Window
 dpi.govtech.eservices,16,nonstate,Means of Communication of the National Assembly
 dpi.govtech.backoffice,18,nonstate,IFMIS|Public Financ(e|ial) Management|\bPFM\b|Fiscal|procurement|COLEPS|\btax|revenue|customs|Financial Management|gouvernance financi|Finance Information|Finanzverwaltung|Finances et du Budget|Economic Governance|public finance|Public Sector Foundations|Governance Modernization
 dpi.govtech.programme,20,nonstate,E-?Governance|e-?Government|Digital Transformation|Digitale Transformation|Digital Governance|Digitali[sz]ation|Modernization of Public Administration|Public Administration Modernization|Smart Senegal|Mali Digital|DIGEST|ICT Facility|IKT Faz|Smart Cit|PADEC|eGabon|D4D|Digital Innovation for Government
-gov.policy.admin,6,,"^(?![^|]*(agency's services, records or processes|Digital Economy and ICT programme|advises on|[Ff]easibility))[^|]*(digital ministry|ministry responsible for the digital|digital, posts and telecommunications ministry|ICT ministry|ministry of ICT|NITA-U|national IT authority|e-government (agency|institute|bureau)|national e-government institute|state digital agency|digital development agency|national ICT (agency|promotion agency)|information-systems agency|state IT (agency|company)|government IT agency|AGETIC|ANPTIC|\bANSI\b|\bRISA\b|Rwanda Information Society|ICT Authority|Agence Togo Digitale|national agency for the digitalisation|CNIAPGE|computerisation centre|national centre for computeris|SETIC|DGTD|DDTIC|DGTIC|directorate-general for ICT|digital-economy directorate|the Institute|directorate-general responsible for the digital\b|digital governance unit|digital-governance directorate|administrative-modernisation (institute|directorate)|General Information Authority|technology watch|technical approvals for IT providers|steering committee for computerising)"
-gov.policy.admin,6,,\|[^|]*(DGTIC|DDTIC)
 dpi.govtech.itunit,20,,"^(?![^|]*agency's services, records or processes)[^|]*(IT unit|ICT unit|IT directorate|ICT directorate|information technology directorate|information-systems directorate|IT department|ICT department|IT division|ICT division|in-house ICT|own ICT|ICT function|IT staff|IT services? (unit|directorate)|ICT services output|IT support|ICT support|ICT technical support|technical support for|information and documentation centre|IT and new-technologies|informatics|management information systems unit|information management unit|information management and IT unit|information technology unit|information and communications technology unit|IT monitoring centre|information and IT centre|information and decision support centre|information systems centre|help desk|running costs of (DSI|DGSI|DSIS|DGTI|SPIVTEN|DSI-DA|CENETI)\b|staff pay of (DTIC|DIFE)\b|ICT (and|&) (statistics|records|information|knowledge)|Central Information Systems Division)"
 dpi.govtech.eservices,30,,"^(?![^|]*agency's services, records or processes)[^|]*(website|web portal|web pages|electronic and online media)"
 dpi.govtech.eservices,31,,\|[^|]*(web ?site|social media|web ?portal|web ?page|site internet|site web|p[aá]gina web|facebook)

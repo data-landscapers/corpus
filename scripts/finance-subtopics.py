@@ -213,9 +213,11 @@ def tags(budget_rows, deal_rows):
     return out
 
 
-def summary(label, rows, subs):
+def summary(label, rows, catch):
+    """`catch` is every topic's catch-all: `.unspecified`, or the framework's own residual such as
+    `gov.policy.crosscutting` (Bill, 2026-11-03), which still counts here as unplaced."""
     n = collections.Counter(t for t, _, _, _ in rows)
-    un = collections.Counter(t for t, s, _, _ in rows if s and s.endswith(".unspecified"))
+    un = collections.Counter(t for t, s, _, _ in rows if s in catch)
     print(f"{label}: {len(rows)} rows; unspecified {sum(un.values())} ({sum(un.values()) / len(rows):.1%}); "
           f"sector unattributed {sum(1 for r in rows if r[2] == 'unattributed')}")
     for t, k in n.most_common():
@@ -244,8 +246,9 @@ def main():
                 errors.append(f"{side} {x[idf]}: no rule placed it in {t or '(no topic)'} (no catch-all)")
 
     print(f"{len(subs)} sub-topics, {len(sectors)} sectors")
-    summary("budget", lines, subs)
-    summary("non-state", deals, subs)
+    catch = {c for _, _, c in by_topic.values() if c}
+    summary("budget", lines, catch)
+    summary("non-state", deals, catch)
 
     if a.out:
         with open(a.out, "w", encoding="utf-8", newline="") as fh:
@@ -263,7 +266,7 @@ def main():
         random.seed(0)
         for side, rows, f in (("budget", lines, lambda x: f"{x['purpose'][:110]} | {x['line_name'][:80]}"),
                               ("non-state", deals, lambda x: f"{x['title'][:110]} | {x['description'][:80]}")):
-            pool = [x for tt, s, _, x in rows if tt == t and s and s.endswith(".unspecified")]
+            pool = [x for tt, s, _, x in rows if tt == t and s in catch]
             for x in random.sample(pool, min(int(k), len(pool))):
                 print(f"- {side} | {x.get('country') or x.get('recipient')} | {f(x)}")
 
