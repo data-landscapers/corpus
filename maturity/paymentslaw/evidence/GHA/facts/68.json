@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-gha-opening-remarks-by-governor-dr-johnson-pandit-asiama-at-the-11th-meeti",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Governor Asiama says the Payment Systems Advisory Committee is established under the Payment Systems and Services Act, 2019 (Act 987).",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Payment Systems and Services Act, 2019 (Act 987)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Payment Systems and Services Act, 2019 (Act 987)",
+   "country_label": "Ghana",
+   "class": "law",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
