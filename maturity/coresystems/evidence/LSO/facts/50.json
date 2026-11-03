@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "down",
+   "fact": "Minister Nthati Moorosi said an attack in June 2023 on the government's financial system forced a shutdown and put civil servants' salaries at risk.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "government financial system",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "government financial system",
+   "country_label": "government financial system",
+   "class": "core",
+   "platform": "",
+   "owner": "Government of Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
