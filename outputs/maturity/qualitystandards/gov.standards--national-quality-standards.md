@@ -46,7 +46,7 @@ Zimbabwe's standards association was accredited in 2026 to certify against the n
 
 ### Algeria: 3 Established
 
-Algeria's standards institute holds a national standard on ordering text in information technology, due for revision in 2026; no source found reports certification against such standards.
+Algeria's standards institute holds a national standard on ordering text in information technology, due for revision in 2026; certification against such standards is not known.
 
 - IANOR's draft 2026 national standardisation programme lists ISO/IEC 14651:2025 (information technology, string comparison and collation) as a revision of existing national standard NA 13037, proposed by CNIG; the document gives the programme's publication date, 2026-02-01, as its only date ([source, 2026-02](https://www.ianor.dz/wp-content/uploads/2026/02/PROJET-DE-PROGRAMME-NATIONAL-DE-NORMALISATION-2026.pdf)).
 - Executive decree 98-69 of 21 February 1998 created the Algerian Institute of Standardisation (IANOR), a public industrial and commercial establishment under the industry ministry, charged with drawing up, publishing and disseminating Algerian standards and with adopting conformity marks and authorising their use ([source, 1998-02-21](https://www.ianor.dz/wp-content/uploads/2023/02/2-D_exe_98-69_instituant-IANOR-FR.pdf)).

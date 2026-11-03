@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-swz-eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The release describes ESWASA as Eswatini's national standards body, established under the Standards and Quality Act of 2003, amended in 2023.",
+   "as_of": "2003",
+   "date_precision": "year",
+   "system": "Eswatini Standards Authority",
+   "class": "body"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Standards Authority",
+   "country_label": "Eswatini",
+   "class": "body",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
