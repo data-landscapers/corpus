@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: MUS
-ledger_rows: 31
+ledger_rows: 30
 not_held: 7
-record: 6d8437595423
+record: a77e79defd63
 ---
 
 # News, Oct – Nov 2026
@@ -79,20 +79,6 @@ Mauritius's ICT ministry met Meta on faster removal of fake accounts, impersonat
 **[Highlights of Cabinet Meeting - Friday 02 October 2026](https://pmo.govmu.org/CabinetDecision/2026/FINAL_Highlights_of_Cabinet_Meeting-Friday_02_October_2026-1.pdf)** — Prime Minister's Office, Mauritius, 2 October 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic Transactions (Amendment) Act 2026</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[From E-Signatures to AI-Driven Contracts: How Mauritius is rewriting the Rules of Digital Transactions](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/)** — Appleby, 5 October 2026
-
-Law firm Appleby reviews Mauritius's Electronic Transactions (Amendment) Act 2026. The Act accepts any reliable electronic signature that identifies the signer and shows intent, gives legal effect to electronic transferable records, and recognises contracts formed by automated systems without human review of each action. Under section 15A, where a certificate or signature originates does not by itself decide its effectiveness.
 
 </div>
 
