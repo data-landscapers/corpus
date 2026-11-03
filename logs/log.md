@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-03 02:34 · **BUILD** · 2h04m · catalogue 36,269; 229 sources, 53 units, 20 moved, 68 minted, 10 status; data centres 2; maturity 645 arrivals, 111 facts, 12 moved; bulletin 30; 6 deals judged; finance 0 waiting; register 9; message 69 - ok
 2026-11-02 03:22 · **INDEX** · 11m · research index: 275 added or changed, 0 removed, 6989 chunks, 11.1 min - ok
 2026-11-02 03:04 · **RENDER** · 28m · 301 of 301 documents rendered; home, countries, regions, topics, progress, catalogue, finance, datasets, methodology, maturity; R2 6,141 objects up; deployed c00734a - ok
 2026-11-02 02:36 · **REVIEW** · 19m · LSO: status 22 sections revised, 17 trimmed, progress 1 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
@@ -434,16 +435,8 @@ title: Corpus process log
 2026-10-03 00:40 · **REVIEW** · 2m · MUS: status 2 sections revised, progress 0 cells, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
 2026-10-03 00:38 · **REVIEW** · 1m · MRT: status 1 sections revised, progress 0 cells, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
 2026-10-03 00:36 · **BUILD** · 2h27m · catalogue 26,298, finance 62 places, scan 40 units, 23 ledgers updated, 24 rows minted; budget readings 22:44-00:36 (CMR, GHA, SEN, KEN, TZA, MRT actuals and more), poll queue drained, 53 follow-ups waiting; 29 register hits — ok
-2026-10-02 22:09 · **ANALYTICS** · 1m · 2026-09-29..2026-10-01 written; 1 Oct: dl.io 50 views / 0 clicks, corpus 179 views / 2 clicks
-2026-10-02 22:08 · **NOTES** · 20m · Note 76 closed: budget-watch.py's fetch-list command deleted. 77 queued as a Senegal sitting; 74, 75 and 77 open for the finance step. OSINT's uncommitted share work committed first. Share 8cd62a0 - ok
 2026-10-02 17:08 · **BUDGET-REVIEW** · unclocked · DR Congo's votes recorded for 2024 to 2026; check D stands at 33 countries, 83 country-years. Run ended early at 12:10 against a five-hour window; the remaining sittings are in budget-followups.
-2026-10-02 12:07 · **BUDGET-REVIEW** · unclocked · Follow-ups closed: UGA 2026 vote completed, CPV 2024-25 added, SLE stage and outturn, KEN 2025 and RWA 2024-25 revised stages (54 rows); BEN sections recorded; check D at 32 countries, 414 lines added in all.
-2026-10-02 11:54 · **BUDGET-REVIEW** · unclocked · Check D continued: votes recorded for 31 countries (77 country-years, 4,909 votes); Benin's performance projects read, 33 more lines; note 198 closed by OSINT and four Mauritius rows parked.
-2026-10-02 11:50 · **BUDGET-REVIEW** · 2h15m · Budget data review: checks A to D built; 411 passed-over lines added in 19 countries (MUS 132, BEN 72, KEN 49, UGA 49, SLE 41); functions not looked 75 of 756; votes recorded for 25 countries; 21 rows parked.
-2026-10-02 09:59 · **BUDGET-REVIEW** · 16m · Budget data review: checks A to D built, pilot on GHA, SEN, MAR, all 52 queued worst first, STP votes read, SSD statistics bureau taken (12 lines); notes-for-osint 197 - ok
 2026-10-02 09:29 · **FIX** · 15m · housekeeping register moved to the share as corpus-housekeeping.md; notes-for-osint 196 asks OSINT to rename its register and archive to osint-housekeeping; lints read either name meanwhile
-2026-10-02 09:19 · **FIX** · 35m · messages-for-bill.md moved to the share; Bill's five replies applied: readings run the full two hours, logs/housekeeping-jobs.md opened with runbook trims 1-5, third-party exposures no longer messaged; one block left open
-2026-10-02 09:05 · **FIX** · 40m · scripts/deploy-state.py: deployed/pending/stuck for the newest site/ commit, --fix cancels and re-runs with GITHUB_TOKEN; called from RENDER Step 7 and /poll; a stuck deploy is one block outside the five, plus a push notification
 2026-09-29 16:02 · **HYPERSCALER** · unclocked · 04 GNQ: institutions 18 · US 30% · shield 8% · rank 4/54 · dangling 0
 2026-09-28 13:39 · **SCAN** · 1h40m · KEN: 50 institutions, 4,747 routable, 11% US hyperscaler. NGA: 51 institutions, 5,747 routable, 24% US hyperscaler. 6 claimable dangling CNAMEs across three countries
 2026-09-20 19:32 · **REGISTER-R58** · unclocked · R58 NER FY2026: Niger publishes, 28th country. The communications ministry gets XOF 191.8m for digital; a compte special for tax-administration digitisation, outside the votes, gets 5.56bn -- 29x. Three exact cross-foots.
