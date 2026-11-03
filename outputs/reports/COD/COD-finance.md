@@ -1,6 +1,6 @@
 ---
 title: DR Congo: finance
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: COD
 ---
 
@@ -12,7 +12,7 @@ place: COD
 <tr><th scope="row">Connectivity</th><td class="num">61</td><td class="num">10</td><td class="num">33</td><td class="num">15</td><td class="num">56</td><td class="num">1,657</td><td class="num">23</td><td class="num total">1,855</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">414</td><td class="num">160</td><td class="num">23</td><td class="num">45</td><td class="num total">648</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num">14</td><td class="num">56</td><td class="num">17</td><td class="num">27</td><td class="num total">263</td></tr>
-<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">20</td><td class="num">45</td><td class="num">63</td><td class="num">28</td><td class="num total">155</td></tr>
+<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">20</td><td class="num">45</td><td class="num">103</td><td class="num">28</td><td class="num total">195</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">13</td><td class="num">17</td><td class="num">59</td><td class="num">52</td><td class="num total">139</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">30</td><td class="num">17</td><td class="num">9</td><td class="num">11</td><td class="num">13</td><td class="num total">80</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">8</td><td class="num">5</td><td class="num">10</td><td class="num">15</td><td class="num total">37</td></tr>
@@ -27,7 +27,7 @@ place: COD
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">217</td><td class="num">36</td><td class="num">63</td><td class="num">510</td><td class="num">351</td><td class="num">1,846</td><td class="num">210</td><td class="num total">3,232</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">217</td><td class="num">36</td><td class="num">63</td><td class="num">510</td><td class="num">351</td><td class="num">1,886</td><td class="num">210</td><td class="num total">3,272</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/COD/all-finance.html">Full table &mdash; 621 rows, all 12 fields &rarr;</a>
@@ -73,14 +73,14 @@ place: COD
 <tr><th scope="row">Connectivity</th><td class="num">61</td><td class="num">10</td><td class="num">33</td><td class="num zero"></td><td class="num">40</td><td class="num">1,634</td><td class="num total">1,778</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">400</td><td class="num">109</td><td class="num zero"></td><td class="num total">515</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">40</td><td class="num zero"></td><td class="num total">190</td></tr>
-<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">40</td><td class="num total">40</td></tr>
+<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">80</td><td class="num total">80</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">30</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">30</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">26</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">26</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">217</td><td class="num">36</td><td class="num">63</td><td class="num">400</td><td class="num">188</td><td class="num">1,674</td><td class="num total">2,578</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">217</td><td class="num">36</td><td class="num">63</td><td class="num">400</td><td class="num">188</td><td class="num">1,714</td><td class="num total">2,618</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/COD/finance.html">Full table &mdash; 18 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/COD/COD-nonstate-2026-10-25.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/COD/COD-nonstate.csv" download>&darr; Download CSV</a>
 </div>

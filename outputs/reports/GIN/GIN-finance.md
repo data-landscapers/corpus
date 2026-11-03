@@ -1,6 +1,6 @@
 ---
 title: Guinea: finance
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: GIN
 ---
 
@@ -78,5 +78,5 @@ place: GIN
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/finance.html">Full table &mdash; 7 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GIN/GIN-nonstate-2026-10-03.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GIN/GIN-nonstate.csv" download>&darr; Download CSV</a>
 </div>

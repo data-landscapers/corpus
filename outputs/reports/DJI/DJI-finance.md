@@ -1,6 +1,6 @@
 ---
 title: Djibouti: finance
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: DJI
 ---
 
@@ -57,5 +57,5 @@ place: DJI
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/DJI/finance.html">Full table &mdash; 10 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/DJI/DJI-nonstate-2026-10-05.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/DJI/DJI-nonstate.csv" download>&darr; Download CSV</a>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: Sudan: finance
-compiled: 2026-10-30
+compiled: 2026-11-03
 place: SDN
 ---
 
@@ -34,5 +34,5 @@ place: SDN
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/SDN/finance.html">Full table &mdash; 1 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/SDN/SDN-nonstate-2026-10-03.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/SDN/SDN-nonstate.csv" download>&darr; Download CSV</a>
 </div>

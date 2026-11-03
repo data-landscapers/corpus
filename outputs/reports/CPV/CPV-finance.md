@@ -1,6 +1,6 @@
 ---
 title: Cape Verde: finance
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: CPV
 ---
 
@@ -65,5 +65,5 @@ place: CPV
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/CPV/finance.html">Full table &mdash; 15 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CPV/CPV-nonstate-2026-10-26.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CPV/CPV-nonstate.csv" download>&darr; Download CSV</a>
 </div>

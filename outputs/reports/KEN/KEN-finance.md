@@ -1,6 +1,6 @@
 ---
 title: Kenya: finance
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: KEN
 ---
 
@@ -12,7 +12,7 @@ place: KEN
 <tr><th scope="row">Connectivity</th><td class="num">161</td><td class="num">22</td><td class="num">418</td><td class="num">97</td><td class="num">2,118</td><td class="num">181</td><td class="num total">2,997</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">400</td><td class="num">50</td><td class="num zero"></td><td class="num">3</td><td class="num">153</td><td class="num">2</td><td class="num total">609</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">100</td><td class="num zero"></td><td class="num zero"></td><td class="num">31</td><td class="num">246</td><td class="num">48</td><td class="num total">425</td></tr>
-<tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">77</td><td class="num">123</td><td class="num">139</td><td class="num total">339</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">77</td><td class="num">123</td><td class="num">139</td><td class="num total">340</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">90</td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num">195</td><td class="num">18</td><td class="num total">318</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">30</td><td class="num zero"></td><td class="num">65</td><td class="num">5</td><td class="num">6</td><td class="num zero"></td><td class="num total">107</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">17</td><td class="num">41</td><td class="num">47</td><td class="num total">106</td></tr>
@@ -36,7 +36,7 @@ place: KEN
 <tfoot><tr><th scope="row">All topics</th><td class="num">933</td><td class="num">130</td><td class="num">523</td><td class="num">319</td><td class="num">2,962</td><td class="num">468</td><td class="num total">5,335</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/all-finance.html">Full table &mdash; 232 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/all-finance.html">Full table &mdash; 233 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/KEN/KEN-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -92,6 +92,7 @@ place: KEN
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
@@ -99,6 +100,6 @@ place: KEN
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/finance.html">Full table &mdash; 74 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/KEN/KEN-nonstate-2026-10-28.csv" download>&darr; Download CSV</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/finance.html">Full table &mdash; 75 commitments, all 26 fields &rarr;</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/KEN/KEN-nonstate.csv" download>&darr; Download CSV</a>
 </div>

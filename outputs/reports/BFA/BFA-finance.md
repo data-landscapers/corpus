@@ -1,6 +1,6 @@
 ---
 title: Burkina Faso: finance
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: BFA
 ---
 
@@ -78,5 +78,5 @@ place: BFA
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/BFA/finance.html">Full table &mdash; 11 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BFA/BFA-nonstate-2026-10-21.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BFA/BFA-nonstate.csv" download>&darr; Download CSV</a>
 </div>

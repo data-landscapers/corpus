@@ -1,6 +1,6 @@
 ---
 title: Madagascar: finance
-compiled: 2026-11-01
+compiled: 2026-11-03
 place: MDG
 ---
 
@@ -68,5 +68,5 @@ place: MDG
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/MDG/finance.html">Full table &mdash; 10 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/MDG/MDG-nonstate-2026-10-25.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/MDG/MDG-nonstate.csv" download>&darr; Download CSV</a>
 </div>

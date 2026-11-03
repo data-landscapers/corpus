@@ -1,6 +1,6 @@
 ---
 title: Sierra Leone: finance
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: SLE
 ---
 
@@ -84,5 +84,5 @@ place: SLE
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/SLE/finance.html">Full table &mdash; 16 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/SLE/SLE-nonstate-2026-10-05.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/SLE/SLE-nonstate.csv" download>&darr; Download CSV</a>
 </div>

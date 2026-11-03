@@ -1,6 +1,6 @@
 ---
 title: Guinea-Bissau: finance
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: GNB
 ---
 
@@ -53,5 +53,5 @@ place: GNB
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/GNB/finance.html">Full table &mdash; 4 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GNB/GNB-nonstate-2026-10-18.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GNB/GNB-nonstate.csv" download>&darr; Download CSV</a>
 </div>
