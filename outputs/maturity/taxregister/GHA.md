@@ -2,7 +2,7 @@
 
 ## Tax register
 
-**Computerised register.** The Ghana Revenue Authority keeps a Taxpayer Identification Numbering System under the Revenue Administration Act 2016. In August 2026 it said it [issues TINs to organisations at its offices and runs an online portal to verify a TIN or Ghana Card PIN](<https://gra.gov.gh/tin/>).
+**Computerised register.** The Ghana Revenue Authority keeps a Taxpayer Identification Numbering System. It does so under the Revenue Administration Act 2016. In August 2026 it said it [issues TINs to organisations at its offices and runs an online portal to verify a TIN or Ghana Card PIN](<https://gra.gov.gh/tin/>).
 
 **Shared with firms or customs.** The GRA's [TIN Centre sits at the Registrar-General's Department as a one-stop shop](<https://gra.gov.gh/tin/>), issuing an organisation's TIN during business registration. Organisations register for a TIN only after registering with the Registrar-General, the GRA said in August 2026.
 

@@ -10,4 +10,4 @@
 
 ***Also on file***. [AI-enabled government in your hand](<https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/>).
 
-***Not found***. Nothing found shows a government AI system in service, in one body or several, or rules or a register for government AI.
+***Not found***. Nothing found shows a government AI system in service, in one body or several. Nothing found shows rules or a register for government AI.
