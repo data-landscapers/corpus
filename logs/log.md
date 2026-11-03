@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-03 04:11 · **INDEX** · 10m · research index: 223 added or changed, 0 removed, 6695 chunks, 10.1 min - ok
+2026-11-03 04:01 · **HOUSEKEEPING** · 20m · job 41 closed: R139 paragraph, ingest drop rate 33.6% before the twin screen, 34.4% after; jobs 49 and 50 opened - ok
 2026-11-03 03:59 · **COPY** · unclocked · R2 copy: 5,959 objects, 2,130.8 MB in the bucket; pulled 2,040 (809.3 MB) to Dropbox CORPUS-editions; 0 faults - ok
 2026-11-03 03:51 · **RENDER** · 32m · 301 of 301 documents rendered; home, countries, regions, topics, progress, catalogue, finance, datasets, methodology, maturity; R2 5,697 objects up; deployed 07fe1f4 - ok
 2026-11-03 03:19 · **REBUILD** · 43m · eparticipation eparticipation: 54 cells reassessed, 3 moved; 54 searched, 77 staged; ~40M tokens (three shared 122M) - ok
