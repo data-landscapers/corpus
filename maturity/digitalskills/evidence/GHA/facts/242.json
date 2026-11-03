@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-gha-sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The minister said the One Million Coders Programme has registered more than 140,000 Ghanaians, with over 10,000 completing training, against a target of 400,000.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
