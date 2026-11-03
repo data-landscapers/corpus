@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: CIV
-ledger_rows: 27
+ledger_rows: 28
 not_held: 9
-record: 654cdee292fe
+record: b755be02e5cc
 ---
 
 # News, Oct – Nov 2026
@@ -121,6 +121,20 @@ Italy's development agency AICS disbursed EUR 2.695 million through UNDP on 14 O
 **[AIP/ Transition numérique en Côte d’Ivoire : le gouvernement adopte un décret clé pour encadrer la libération des fréquences de la 5G](https://www.aip.ci/aip-transition-numerique-en-cote-divoire-le-gouvernement-adopte-un-decret-cle-pour-encadrer-la-liberation-des-frequences-de-la-5g)** — Agence Ivoirienne de Presse (AIP), 14 October 2026
 
 Côte d'Ivoire's Council of Ministers adopted a decree on 14 October 2026 setting the financial terms for clearing the 3300-3600 MHz band for 5G, including state compensation for current holders of 3.5 GHz assignments. It also fixes the band factor used to calculate frequency fees. The decree's number and text were not published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Deployed optical fibre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Statistiques du marché des télécommunications en Côte d'Ivoire - 3ème trimestre 2026](https://artci.ci/wp-content/uploads/2026/10/RAPPORT-ARTCI-T3-2026_31.10.26.pdf)** — ARTCI (Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire), 31 October 2026
+
+Fixed internet passes 1m (+59.9%); 41.4m mobile internet, 32.5m active mobile money; Starlink licensed July 2026.
 
 </div>
 
