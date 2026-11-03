@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-01-sdn-sudan-council-of-ministers-approves-draft-cybersecurity-data-ai-digital-transformation-laws",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Sudan's Council of Ministers approved a draft Data and Artificial Intelligence Regulation Bill 2026, presented by the Minister of Digital Transformation and Communications, SUNA reports.",
+   "as_of": "2026-11-01",
+   "date_precision": "day",
+   "system": "Data and Artificial Intelligence Regulation Bill 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data and Artificial Intelligence Regulation Bill 2026",
+   "country_label": "Sudan",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation and Communications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
