@@ -47,6 +47,8 @@ Asked in order. Each is answered with a date and a link.
 
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `roll` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `checked` (`open`) for 3 and `linked` (`linked`) for 4.
 
+**A roll shown to be kept by hand is not answered by a later yes** *(Bill, 2026-11-03, messages-for-bill 71)*: where a source in the window says the roll is compiled by hand, an open list does not answer questions 1 and 2, and the cell takes stage 1. `study.json` → `"manual_blocks": true`. COG 4→1.
+
 ## 4. The norm
 
 The African Charter on Democracy, Elections and Governance and the AU's election observation guidelines ask for an accurate voters' roll, open to public inspection and kept up to date. This study asks the four questions above; it does not measure a country against the norm.

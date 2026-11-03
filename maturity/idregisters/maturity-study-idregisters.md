@@ -47,6 +47,8 @@ Asked in order. Each is answered with a date and a link.
 
 **A later yes no longer answers the earlier ones** *(Bill, 2026-10-23; method §3.3 switched off here, `study.json` → `"later_yes": false`)*: a stage needs every lower rung shown by its own evidence, and a cell whose evidence stops short takes the rung it reaches. Question 2 still answers question 1: a register keyed on the number was under way first, and the two are one aspect. `study.json` holds this as three aspects: `register` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `several` (`several`) for 3 and `matching` (`reported`) for 4.
 
+**Social insurance counts as social protection** *(Bill, 2026-11-03, messages-for-bill 69)*: a social security fund such as Ghana's SSNIT keyed on the number is one of the five main registers for question 3. GHA 3→4.
+
 ## 4. The norm
 
 The African Union's interoperability framework and Data Policy Framework ask that the national ID be the single source of truth for identity across public registers. This study asks the four questions above; it does not measure a country against the norm.

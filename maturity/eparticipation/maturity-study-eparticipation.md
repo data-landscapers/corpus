@@ -49,6 +49,8 @@ A later yes answers the earlier ones (method §3.3). `study.json` holds this as 
 
 **A site posting drafts with comments by email is not an online platform for comments** *(Bill, 2026-10-26)*: question 2 needs a portal taking comments online, so Mozambique stays at 2.
 
+**Questions 1 and 3 need a consultation shown to have run online** *(Bill, 2026-11-03, messages-for-bill 72)*: putting a report of the comments online is not enough. Senegal stays unplaced.
+
 ## 4. The norm
 
 The African Charter on Democracy, Elections and Governance asks for citizen participation in the development process; the UN E-Participation Index measures it online. This study asks the four questions above; it does not measure a country against the norm.

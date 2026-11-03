@@ -1,3 +1,8 @@
+## 3 November 2026
+
+- Use by other systems now counts a social security fund as a social protection register. Ghana rises from stage 3 to 4: its payroll, tax and SSNIT registers all use the Ghana Card number.
+- Electoral register no longer counts a list open for checking where the roll is kept by hand. Congo drops from stage 4 to 1 on its manual 2025 revision.
+
 ## 2 November 2026
 
 - The methodology now explains how finance rows are given a sector, and the lookups page lists the sectors with their UN COFOG codes. Sectors follow the body that spends the money, not COFOG's functions.

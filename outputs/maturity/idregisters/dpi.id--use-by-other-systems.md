@@ -1,6 +1,6 @@
 # Use by other systems: use by other systems
 
-*As at 2026-09-30.*
+*As at 2026-11-03.*
 
 ## The norm
 
@@ -21,14 +21,22 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 2 |
-| 3 Established | 18 |
+| 4 Operating | 3 |
+| 3 Established | 17 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 25 |
 
 ## Countries
+
+### Ghana: 4 Operating
+
+The ID number has keyed the civil service payroll since 2024 and is the tax and social security number; no matching figure is reported.
+
+- The NIA Executive Secretary says the Ghana Card already serves as the Taxpayer Identification Number, SSNIT and NHIS numbers ([source, 2025-09-18](https://atlfmnews.com/nia-to-integrate-student-database-with-ghana-card-for-easy-access/)).
+- The National Identification Authority says the civil service payroll (the Mechanized Payroll System) now requires the Ghana Card PIN to validate recruited public sector employees and pensioners, with existing staff to submit their PIN at NIA offices, launched 10 January 2024 ([source, 2024-01-10](https://nia.gov.gh/government-launches-integrated-database-for-payroll-validation-and-verification/)).
+- Republic Online reports that GRA revenue collection and NHIS member verification depend on NIA biometric verification, with GRA owing $377 million and NHIS $58 million for it ([source, 2025-09-21](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/)).
 
 ### Malawi: 4 Operating
 
@@ -89,14 +97,6 @@ The tax register was keyed on the national ID in 2026, over 5 million tax number
 A public register used the national ID number in 2024; no source found reports use by three main registers.
 
 - The World Bank says the eCRVS has become the foundational interoperability system across ministries, using the unique national identification number as the common key ([source, 2024-03](https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia)).
-
-### Ghana: 3 Established
-
-The civil service payroll has required the ID number since 2024 and it is the tax number; no source reports electoral or social registers.
-
-- The National Identification Authority says the civil service payroll (the Mechanized Payroll System) now requires the Ghana Card PIN to validate recruited public sector employees and pensioners, with existing staff to submit their PIN at NIA offices, launched 10 January 2024 ([source, 2024-01-10](https://nia.gov.gh/government-launches-integrated-database-for-payroll-validation-and-verification/)).
-- Republic Online reports that GRA revenue collection and NHIS member verification depend on NIA biometric verification, with GRA owing $377 million and NHIS $58 million for it ([source, 2025-09-21](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/)).
-- The NIA Executive Secretary says the Ghana Card already serves as the Taxpayer Identification Number, SSNIT and NHIS numbers ([source, 2025-09-18](https://atlfmnews.com/nia-to-integrate-student-database-with-ghana-card-for-easy-access/)).
 
 ### Lesotho: 3 Established
 

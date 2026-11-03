@@ -47,6 +47,8 @@ Asked in order. Each is answered with a date and a link.
 
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `services` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `gateway` (`single`) for 3 and `usage` (`published`) for 4.
 
+**A single gateway is one sign-in reaching three or more ministries' services, in service** *(Bill, 2026-11-03, messages-for-bill 70)*: a portal's own registration is not a shared account, and two bodies in a beta are not several ministries. Angola and São Tomé stay at 2.
+
 ## 4. The norm
 
 The Digital Transformation Strategy asks for a single digital gateway carrying government services to citizens, businesses and government; the AU Public Service Charter asks for modern technologies in service delivery. This study asks the four questions above; it does not measure a country against the norm.

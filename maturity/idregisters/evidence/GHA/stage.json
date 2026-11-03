@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "3",
+      "stage": "4",
       "register": "inservice",
-      "several": "",
+      "several": "several",
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-003;GHA-002;GHA-004",
-      "gaps": "Two of the five main registers are on record: the civil service payroll keyed on the Ghana Card PIN (GHA-003) and the tax register, where the Ghana Card serves as the TIN (GHA-004, GHA-002). SSNIT, the social security number, is social insurance and is not read as the social protection register; NHIS is health insurance and the National Service Scheme is not the civil service payroll. No electoral, social protection or business register has been found using the number, and no figure from matching a register against the ID.",
-      "note": "The civil service payroll requires the Ghana Card PIN from January 2024 and the card serves as the taxpayer number (GHA-004), so the ID keys public registers. Stage 4 needs three of the five main registers, and two are held.",
+      "stage_sources": "GHA-004;GHA-003;GHA-002",
+      "gaps": "No figure from checking a register against the ID is reported. No electoral or business register has been found using the number.",
+      "note": "Reassessed under Bill's ruling of 2026-11-03 (messages-for-bill 69: social insurance counts as social protection): the civil service payroll requires the Ghana Card PIN from January 2024 (GHA-003), and the card serves as the taxpayer number and the SSNIT social security number (GHA-004), so three of the five main registers use it. Stage 5 needs a figure from matching.",
       "as_at": "2026-11-03"
     }
   ]

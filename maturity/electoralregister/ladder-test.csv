@@ -8,7 +8,7 @@ CAF,4,inservice,open,,CAF-001;CAF-003
 CIV,4,inservice,open,,CIV-002
 CMR,3,inservice,,,CMR-004;CMR-001
 COD,3,inservice,,,COD-001;COD-002
-COG,4,inservice,open,,COG-003
+COG,1,none,,,COG-002
 COM,4,inservice,open,,COM-002
 CPV,5,inservice,open,linked,CPV-004
 DJI,unplaced,,,,

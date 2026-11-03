@@ -88,7 +88,7 @@ def main() -> int:
         out = io.StringIO()
         with contextlib.redirect_stdout(out):
             run("next")
-        check("and names two, as the unit review does", len(out.getvalue().strip().splitlines()), su.PER_NIGHT)
+        check("and names both, up to PER_NIGHT", len(out.getvalue().strip().splitlines()), min(su.PER_NIGHT, 2))
         check("from /poll it is owed by day too", run("next", "--poll", now=dt.datetime(2026, 10, 10, 14, 0)), 0)
         run("done", "t", "emr", "--minutes", "41", "--tokens", "18.2", "--staged", "37"); run("done", "t", "hmis")
         check("done stamps the day", {r["last_reviewed"] for r in su.rotation(str(root), rot)}, {"2026-10-10"})

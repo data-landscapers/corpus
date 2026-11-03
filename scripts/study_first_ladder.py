@@ -119,6 +119,9 @@ def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str,
     # The direct yes to each question; `inservice` answers `underway`, being one aspect.
     yes = {1: pick(k1, mid) or p3, 2: p3, 3: pick(k2, v2), 4: pick(k3, v3)}
     must = must_show(study)
+    if study.get("manual_blocks") and pick(k1, low):
+        # Bill, 2026-11-03, message 71: a roll shown to be kept by hand is not answered by a later yes
+        must = must | {1, 2}
     answered = lambda q: yes[q] or (q not in must and any(yes[r] for r in range(q + 1, 5)))  # noqa: E731
     n = 0
     while n < 4 and answered(n + 1):

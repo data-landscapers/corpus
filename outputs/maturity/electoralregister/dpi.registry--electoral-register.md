@@ -21,10 +21,10 @@ The African Charter on Democracy, Elections and Governance and the AU's election
 | Stage | Countries |
 |---|---|
 | 5 Leading | 10 |
-| 4 Operating | 17 |
+| 4 Operating | 16 |
 | 3 Established | 11 |
 | 2 Nascent | 6 |
-| 1 Absent | 1 |
+| 1 Absent | 2 |
 | Unplaced | 5 |
 | No evidence | 4 |
 
@@ -112,12 +112,6 @@ Voters could check the digital roll in 2025; no source found reports a link to t
 Voter lists were posted at polling stations in 2025; no link to the ID register is known.
 
 - The OIF's Francophonie electoral mission reports that the voters' lists were systematically posted in front of all polling stations visited for the 12 January 2025 legislative elections ([source, 2025-01-12](https://www.lexterieur.com/la-une/international/legislatives-aux-comores-la-declaration-preliminaire-de-la-mission-electorale-de-la-francophonie)).
-
-### Congo: 4 Operating
-
-Voters could check the lists at town halls in 2025, after a manual revision; no link to the ID register is known.
-
-- L'Horizon Africain reports that from 1 September to 30 October 2025 Congolese of voting age are called to check their names on the electoral lists at district and arrondissement town halls and register if absent, under an interior ministry order of 8 August 2025 ([source, 2025-09-01](https://www.lhorizonafricain.com/wp-content/uploads/2025/09/302.pdf)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -311,6 +305,12 @@ A digital voters' roll was under way in 2025; none in service is on record.
 A digital voters' roll was under way in 2025; none in service is on record.
 
 - ATOP reports that ZETES/SNEDAI is training data-entry operators on the software of biometric kits to enrol voters in the CENI's 2025 revision of the electoral lists, with 5,200 operators to be deployed ([source, 2025-03-21](https://atop.tg/revision-des-listes-electorales-la-premiere-vague-des-operateurs-de-saisie-en-formation/)).
+
+### Congo: 1 Absent
+
+The 2025 revision of the voters' roll was done by hand; voters could check the lists at town halls.
+
+- L'Horizon Africain's Jean-Clotaire Diatou writes that the September-October 2025 revision of the electoral lists is done manually, without the biometrics the government had promised for the 2026 presidential election ([source, 2025-09-01](https://www.lhorizonafricain.com/wp-content/uploads/2025/09/302.pdf)).
 
 ### South Sudan: 1 Absent
 

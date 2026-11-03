@@ -76,3 +76,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-03,ZAF,dpi.registry--electoral-register,review,5,5,ZAF-002,"Rebuild: Home Affairs and the IEC share an interface that checks registration against the National Population Register, the minister said in 2026."
 2026-11-03,ZMB,dpi.registry--electoral-register,review,4,4,ZMB-001;ZMB-002,"Rebuild: voters could inspect the provisional register online, by USSD and at polling stations in 2026. Nothing links it to the ID register."
 2026-11-03,ZWE,dpi.registry--electoral-register,review,5,5,ZWE-003,"Rebuild: ZEC uses the Registrar-General's population database to clean the roll, the justice minister said in 2026."
+2026-11-03,COG,dpi.registry--electoral-register,ladder,4,1,COG-002,"Bill, 2026-11-03, messages-for-bill 71: an open list does not count for a roll shown to be kept by hand"
