@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: EGY
-ledger_rows: 39
+ledger_rows: 41
 not_held: 36
-record: 95eb55e24f56
+record: 7f4844302c7c
 ---
 
 # News, Oct – Nov 2026
@@ -237,6 +237,20 @@ Summarised under [Connectivity](#connectivity).
 **[The NTRA issues order to double Egypt’s base internet package capacity at no extra cost](https://www.egyptindependent.com/the-ntra-issues-order-to-double-egypts-base-internet-package-capacity-at-no-extra-cost/)** — Egypt Independent, 28 October 2026
 
 Egypt's telecoms regulator ordered fixed-line providers to double the EGP 150 base internet package from 50 GB to 100 GB at no extra charge. The change takes effect on 1 November 2026. The package was introduced in May 2026 for low-use subscribers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Incumbent national fibre network upgrade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[6 Million New Lines and Fiber Optics Doubled: NTRA Unveils Egypt”s Internet Development Roadmap](https://www.technotime.net/18185)** — Techno Time, 2 November 2026
+
+6m more lines to fibre by ~2029, 2m a year; 13m+ fixed users (2026); 38,000 towers, 40,000 by end-2026; 450 MHz released.
 
 </div>
 
@@ -541,6 +555,20 @@ Egypt has put key ration card services on the Digital Egypt platform: heads of h
 **[Foreign Ministry launches pilot operation of e-platform for consular services for Egyptians abroad](https://sis.gov.eg/en/media-center/news/foreign-ministry-launches-pilot-operation-of-e-platform-for-consular-services-for-egyptians-abroad/)** — State Information Service (Egypt), 21 October 2026
 
 Egypt's foreign ministry has started piloting a mobile app for consular services for Egyptians abroad, covering 17 embassies and consulates at launch, with more to follow. Users can complete consular transactions in the app and track their progress.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated digital environmental impact assessment system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt launches digital environmental impact assessment system, ends paper-based applications](https://sis.gov.eg/en/media-center/news/egypt-launches-digital-environmental-impact-assessment-system-ends-paper-based-applications/)** — State Information Service (Egypt), 1 November 2026
+
+Electronic-only EIA filing from 1 November 2026; paper applications no longer accepted; online file tracking.
 
 </div>
 
