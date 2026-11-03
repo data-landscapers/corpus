@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: XAF
-ledger_rows: 50
+ledger_rows: 54
 not_held: 3
-record: a805e7c041b7
+record: d005f64f235e
 ---
 
 # News, Oct – Nov 2026
@@ -468,6 +468,8 @@ Russia and African states adopted an 18-point declaration on civil uses of AI at
 <a href="#data-exchange">Data Exchange</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#use-of-satellite-data">Use of satellite data</a>
 </nav>
 
 ### Connectivity
@@ -495,6 +497,20 @@ The African Telecommunications Union and the Technology Service Providers Associ
 **[REGIONAL WEBINAR ON “IPv6 NATIONAL IMPLEMENTATION: ACCELERATING PAN-AFRICA TRANSITION AND CONNECTIVITY”](https://atuuat.africa/event/regional-webinar-on-ipv6-national-implementation-accelerating-pan-africa-transition-and-connectivity/)** — African Telecommunications Union, 15 October 2026
 
 The African Telecommunications Union held a regional webinar on national IPv6 implementation on 15 October 2026, the first of four, with AFRINIC, ISOC, GSMA and ITU among the invited partners. Its concept note puts Africa's IPv6 adoption at 6.1% in September 2026, against 41.7% worldwide.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Africa network expansion programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Africa plc, Results for half year ended 30 September 2026](https://www.investegate.co.uk/announcement/rns/airtel-africa--aaf/half-year-report/9849212)** — Airtel Africa plc, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Airtel Africa reported results for the half year to 30 September 2026. Its customer base grew 11.6% to 193.9 million, and mobile money customers grew 22.4% to 60.9 million. The report also records the Kenya 3500 MHz spectrum purchase, 100 MHz for US$65 million over 25 years.
 
 </div>
 
@@ -774,6 +790,22 @@ Afreximbank is running roadshows across Africa, including in Abidjan and Harare.
 
 </div>
 
+### Use of satellite data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Committed share of the African satellite pipeline</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Only USD 2 Billion of Africa's USD 7.9 Billion Satellite Pipeline Is Firmly Committed, New Space in Africa Report Finds](https://spaceinafrica.com/2026/11/02/only-usd-2-billion-of-africas-usd-7-9-billion-satellite-pipeline-is-firmly-committed-new-space-in-africa-report-finds/)** — Space in Africa, 2 November 2026
+
+Space in Africa released its African Satellite Manufacturing and Launch Market Report 2026 on 2 November. It tracks 113 satellites African operators could build and launch over the next decade, worth USD 7.94 billion. Only 21 of them, worth USD 2.00 billion, are firmly committed. Since 1998, 69 African satellites have reached orbit. None was launched from African soil.
+
+</div>
+
+</div>
+
 ## Coordination and collaboration
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Coordination and collaboration">
@@ -833,6 +865,34 @@ The African Union Commission's Media and Information Literacy Framework was repo
 **[African telecom regulators convene in Nairobi to strengthen cooperation on emerging digital challenges](https://ipris.digital/african-telecom-regulators-convene-in-nairobi-to-strengthen-cooperation-on-emerging-digital-challenges/)** — iPRIS, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 A European-funded regulatory capacity programme is holding its eighth cohort in Nairobi from 5 to 9 October. Regulators from Liberia, Mauritius, Namibia, Sierra Leone, Tanzania and Zimbabwe are taking part with three regional regulators' associations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Skilling Africa with Google learning hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Unlocking Africa's AI potential: Introducing Skilling Africa with Google](https://blog.google/intl/en-africa/unlocking-africas-ai-potential-introducing-skilling-africa-with-google/)** — Google, 2 November 2026
+
+Google launched Skilling Africa with Google, a free continent-wide learning hub that bundles more than 15 of its training programmes. It targets 3 million people trained in digital and AI skills by 2030. The hub has offline and low-bandwidth modes and an AI study assistant.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smart Africa-ITU regulatory training courses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Smart Africa Partners with ITU to Strengthen Telecom Regulation Across Africa](https://techafricanews.com/2026/11/02/smart-africa-itu-partnership-strengthen-telecom-regulation-africa/)** — Tech Africa News, 2 November 2026
+
+Smart Africa and the ITU partnered to train African policymakers and telecom regulators in pro-competition broadband and telecommunications regulation. Through the Smart Africa Digital Academy and the ITU Academy, three accredited e-learning courses in English, French and Portuguese were released as digital public goods. The partnership aims to reach more than 3,000 policymakers.
 
 </div>
 
