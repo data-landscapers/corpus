@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: GHA
-ledger_rows: 54
+ledger_rows: 56
 not_held: 9
-record: 842f3ba86ca0
+record: 9f3b34e8adfa
 ---
 
 # News, Oct – Nov 2026
@@ -464,6 +464,20 @@ Ghana's communications minister Samuel Nartey George said phase one of the count
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">G-Cloud national cloud platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sensitive Data Must Be Hosted on Secure Infrastructure – Sam George](https://thevaultznews.com/2026/11/02/sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george/)** — The Vaultz News, 2 November 2026
+
+VASP customers to be checked against NIA register under Act 1154; G-Cloud hosting; One Million Coders at 140,000.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -760,6 +774,20 @@ Stanbic Bank Ghana and Hong Kong-based RD Technologies said, as reported on 20 O
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payment Systems Advisory Committee</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Opening Remarks by Governor Dr Johnson Pandit Asiama at the 11th Meeting of the Payment Systems Advisory Committee](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)** — Bank of Ghana, 2 November 2026
+
+Reconstituted PSAC opens; GhIPSS 530m transactions, GH¢1.73tn in 2025; low GhQR uptake, no agent interoperability.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -809,6 +837,22 @@ The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They 
 **[The Traffitech-GH SMS spot-fine system: The good, the sad, and the funny - Bright Simons writes](https://www.myjoyonline.com/the-traffitech-gh-sms-spot-fine-system-the-good-the-sad-and-the-funny-bright-simons-writes/)** — MyJoyOnline, 4 October 2026
 
 In a MyJoyOnline opinion piece, Bright Simons examines Ghana's Traffitech-GH system, under which police will fine motorists by text message from 1 November 2026. He reports that the operator, NTMEL, is 60 per cent owned by Frank Osei and 40 per cent by Sensys Gatso, and that fine revenue is split 40 per cent to the operator and 60 per cent to government. He calls for the PPP contract to be published.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[‘Everything is ready’ – MTTD confirms November 1 TraffiTech-GH rollout](https://www.citinewsroom.com/2026/10/everything-is-ready-mttd-confirms-november-1-traffitech-gh-rollout/)** — Citi Newsroom, 31 October 2026
+
+MTTD: speed cameras from 1 Nov 2026, SMS notices, 14 days to pay or contest; transport operators threaten strike.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana : la police déploie des caméras connectées pour automatiser le contrôle routier](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)** — wearetech.africa, 2 November 2026
+
+Live since 1 Nov 2026; SMS fines payable by mobile money or card; NRSA counted 2,949 road deaths in 2025, up 18.2%.
 
 </div>
 
