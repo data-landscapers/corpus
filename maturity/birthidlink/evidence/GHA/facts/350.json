@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-01-gha-all-pupils-will-receive-ghana-card-numbers-dr-bawumia",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Dr Bawumia, then NPP flagbearer and Vice-President, said the Ghana Health Service, Births and Deaths Registry, Ghana Statistical Service and National Identification Authority systems had been integrated so that children 0-13 get a Ghana Card number from 17 June 2024.",
+   "as_of": "2024-06-01",
+   "date_precision": "day",
+   "system": "Ghana Card number for children (NIA, BDR, GHS, GSS integration)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
