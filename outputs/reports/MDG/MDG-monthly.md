@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: MDG
-ledger_rows: 20
+ledger_rows: 21
 not_held: 5
-record: b51d191979ae
+record: c29538a9e972
 ---
 
 # News, Oct – Nov 2026
@@ -395,6 +395,20 @@ Madagascar's National Assembly runs an online portal for public consultations on
 **[FINANCES PUBLIQUES - Les informations budgétaires accessibles au public](https://www.lexpress.mg/2026/10/finances-publiques-les-informations.html)** — L'Express de Madagascar, 8 October 2026
 
 Madagascar's economy and finance ministry plans to publish more budget information and widen citizen participation after an International Budget Partnership assessment of 2024-2025 scored the country below 61 out of 100. The Court of Audit says it will resume publishing the budget settlement law document in 2027, interrupted since 2020. The exact score is not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cour de cassation online case-law database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Justice: 595 arrêts sélectionnés pour enrichir la jurisprudence](https://newsmada.com/2026/10/31/justice-595-arrets-selectionnes-pour-enrichir-la-jurisprudence/)** — Newsmada, 31 October 2026
+
+595 of 3,104 rulings (2019-22) chosen 29 Oct 2026; platform held 1,003 decisions since 30 May 2025 launch.
 
 </div>
 
