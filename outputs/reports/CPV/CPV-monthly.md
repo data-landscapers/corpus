@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: CPV
-ledger_rows: 7
+ledger_rows: 8
 not_held: 24
-record: a1a465283b02
+record: 03473e63da53
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: a1a465283b02
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
@@ -25,6 +27,28 @@ record: a1a465283b02
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+</nav>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third amendment to the foreigners' entry, stay and exit decree-law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabo Verde altera regime de entrada e permanência de estrangeiros e prevê pedidos de vistos por via digital - Forbes África Lusofona](https://forbesafricalusofona.com/cabo-verde-altera-regime-de-entrada-e-permanencia-de-estrangeiros-e-preve-pedidos-de-vistos-por-via-digital/)** — Forbes Africa Lusófona, 2 November 2026
+
+Third amendment to foreigners' entry decree-law promulgated; online visa applications, airport tax changes.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
