@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-003;MOZ-001",
-      "gaps": "No source found since October 2023 says: is a standing online channel in service.",
-      "note": "First pass: counted from the four questions by study-ladder-eparticipation.py.",
-      "as_at": "2026-10-26"
+      "gaps": "No source found since October 2023 says a portal takes comments online. Drafts are posted with comments by email.",
+      "note": "Reassessed 2026-11-03: drafts are posted on websites with comments by email, which is not an online comment platform (Bill, 2026-10-26). Nothing shows a portal taking comments online on more than one draft, so it is not stage 3.",
+      "as_at": "2026-11-03"
     }
   ]
 }

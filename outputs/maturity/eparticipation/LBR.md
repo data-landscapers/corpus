@@ -2,11 +2,11 @@
 
 ## Online participation in policy
 
-**Asked online.** [The Liberia Telecommunications Authority says it published its draft QoS Regulations and a consultation notice on the Executive Mansion website on 26 March 2021 for public consultation (2021, before the three-year window)](<https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf>). A later answer places the country above that step. 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** The Liberia Telecommunications Authority [published its draft quality of service regulations online in March 2021](<https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf>). The draft and a consultation notice went on the Executive Mansion website on 26 March 2021. It is the authority's own account, given in its 2024 report.
 
-**Answers published.** [The Liberia Telecommunications Authority issued a final report of 4 March 2024 setting out the inputs received on its draft QoS Regulations and its decision on each](<https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf>).
+**Answers published.** On 4 March 2024 the authority [issued a final report on the consultation](<https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf>). The report sets out the inputs it received on the draft regulations. Beside each it gives the authority's decision. The draft regulations cover the quality of telecoms services.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf>).
+**Required.** The nearest fact is [the authority's final report of March 2024](<https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf>). It describes the consultation as run under the authority's guideline for developing regulations. It lists the inputs and decisions in a table.
 
 ***Also on file***. None found.
 

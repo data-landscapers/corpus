@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [ARME, Cape Verde's multisectoral regulator, launched a public consultation on a proposed regulatory framework for satellite communication networks and services, with submissions open until 31 August 2026](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>). [The Government of Cabo Verde put the Portal da Transparencia, a fiscal transparency portal, out to public consultation from 27 June to 17 July 2025](<https://www.governo.cv/portal-da-transparencia-em-consulta-publica/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** In August 2026 ARME, the multisectoral regulator, [opened a public consultation on a proposed framework for satellite communications](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>). Submissions were open until 31 August 2026. ARME regulates several sectors, communications among them. In June 2025 the government [put its fiscal transparency portal out to public consultation](<https://www.governo.cv/portal-da-transparencia-em-consulta-publica/>), from 27 June to 17 July 2025.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>).
+**Answers published.** The nearest fact is [the regulator's consultation on satellite communications](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>). It covered the networks and services that would be licensed under the proposed framework. Space in Africa reported the consultation in August 2026.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>).
+**Required.** The nearest fact is [the government's consultation on the Portal da Transparência](<https://www.governo.cv/portal-da-transparencia-em-consulta-publica/>). The portal is meant to publish public finance data, and the consultation ran for three weeks in mid-2025.
 
 ***Also on file***. [Portal da Transparencia](<https://www.governo.cv/portal-da-transparencia-em-consulta-publica/>).
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

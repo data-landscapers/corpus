@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [The Assises Nationales pour la Refondation site posts calls from its Justice and Human Rights and International Geopolitics and Environment commissions inviting the public to leave proposals as comments on the national refoundation](<https://www.assises-nationales.ne/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** In February 2025 the website of the national conference on refoundation, the Assises Nationales pour la Refondation, [invited the public to leave proposals as comments](<https://www.assises-nationales.ne/>). The calls came from two of its commissions. One covered justice and human rights. The other covered international geopolitics and the environment. Members of the public could post their proposals beneath each call.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://www.assises-nationales.ne/>).
+**Answers published.** The nearest fact is [the conference website's calls for proposals](<https://www.assises-nationales.ne/>). Each commission posted its own call on the site. The Justice and Human Rights commission posted one. The International Geopolitics and Environment commission posted the other.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://www.assises-nationales.ne/>).
+**Required.** The nearest fact is [the same website](<https://www.assises-nationales.ne/>). It took the public's proposals on the national refoundation as comments under each call. The calls were posted in February 2025.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

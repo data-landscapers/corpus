@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [The ARN-TIC Board of Directors opened a public consultation on the draft Electronic Transactions Law, with the document available on the ARN website, responses accepted by email within 30 days and closing on 28 May 2026](<https://www.odemocratagb.com/?p=57171>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** In May 2026 the board of the telecoms regulator, ARN-TIC, [opened a public consultation on the draft Electronic Transactions Law](<https://www.odemocratagb.com/?p=57171>). The draft was on the regulator's website. Replies were taken by email for 30 days. The consultation closed on 28 May 2026. ARN-TIC regulates telecommunications and ICT in Guinea-Bissau.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://www.odemocratagb.com/?p=57171>).
+**Answers published.** The nearest fact is [the regulator's consultation on the draft law](<https://www.odemocratagb.com/?p=57171>). The newspaper O Democrata reported its opening and its closing date. The draft could be read on the regulator's website for the whole period.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://www.odemocratagb.com/?p=57171>).
+**Required.** The nearest fact is [the same consultation](<https://www.odemocratagb.com/?p=57171>). It was opened by a decision of the regulator's board, and it set a 30-day period for replies by email. The law would govern electronic transactions.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

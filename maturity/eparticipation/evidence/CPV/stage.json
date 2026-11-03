@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "eparticipation",
-   "stage": "2",
-   "online": "asked",
-   "published": "",
-   "required": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-001;CPV-002",
-   "gaps": "No source found since October 2023 says: is a standing online channel in service.",
-   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "eparticipation",
+      "stage": "2",
+      "online": "asked",
+      "published": "",
+      "required": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001;CPV-002",
+      "gaps": "No source found since October 2023 says a portal takes comments online on more than one draft.",
+      "note": "Reassessed 2026-11-03: the regulator consulted on a proposed satellite framework in 2026 and the government on its transparency portal in 2025. Nothing shows a portal taking comments online on more than one draft, so it is not stage 3.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [PURA issued the draft Broadcasting and Online Content Regulations, 2026 for public consultation on 2 April 2026, published on its website alongside six other draft instruments](<https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf>). [The Public Utilities Regulatory Authority posted seven named draft regulatory instruments, including the Broadcasting and Online Content Regulations, 2026, on its website for download and invited the general public to send comments electronically to legal@pura.gm between 1 and 10 April 2026](<https://pura.gm/public-consultation-guidelines-and-notice/>).
+**Asked online.** In April 2026 the Public Utilities Regulatory Authority, PURA, [posted seven named draft regulatory instruments on its website](<https://pura.gm/public-consultation-guidelines-and-notice/>). The public was invited to send comments by email between 1 and 10 April 2026. One of the drafts was [the Broadcasting and Online Content Regulations, 2026](<https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf>), issued for consultation on 2 April. PURA regulates public utilities, broadcasting among them.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf>).
+**Answers published.** The nearest fact is [PURA's notice for the April 2026 consultation](<https://pura.gm/public-consultation-guidelines-and-notice/>). It gave a ten-day window and an email address for comments. Each of the seven drafts could be downloaded from the authority's website.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf>).
+**Required.** The nearest fact is [the draft broadcasting and online content regulations](<https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf>). They were put out for consultation alongside six other draft instruments, on 2 April 2026.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

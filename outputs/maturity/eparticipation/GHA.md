@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [NITA invited the public to comment on the draft NITA Data Harmonisation Bill 2025, posted on its website, from 19 to 27 November 2025, with responses sent by email](<https://nita.gov.gh/publicconsultation-3-2-2/>). [Graphic Online reports that NITA put out its draft Data Harmonisation Bill 2025 for public consultation from 19 to 27 November 2025, with the consultation document available on the NITA website at www.nita.gov.gh/publicconsultation](<https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** The National Information Technology Agency, NITA, [posted the draft Data Harmonisation Bill 2025 on its website](<https://nita.gov.gh/publicconsultation-3-2-2/>) and invited the public to comment. The consultation ran from 19 to 27 November 2025. Replies went by email. In October 2025 the Graphic [reported the consultation ahead of its opening](<https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html>), with the document on NITA's public consultation page.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://nita.gov.gh/publicconsultation-3-2-2/>).
+**Answers published.** The nearest fact is [NITA's call for comments on the bill](<https://nita.gov.gh/publicconsultation-3-2-2/>). It gave the dates of the consultation and an email address for replies.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://nita.gov.gh/publicconsultation-3-2-2/>).
+**Required.** The nearest fact is [the Graphic's report on the consultation](<https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html>). It said the draft would be open for public comment for nine days in November 2025. NITA is the government's agency for information technology. Its consultation page held the document.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

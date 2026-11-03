@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "unplaced",
-      "online": "",
+      "stage": "3",
+      "online": "standing",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the government has asked the public for views online.",
-      "note": "First pass: counted from the four questions by study-ladder-eparticipation.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GIN-001",
+      "gaps": "No source found since October 2023 says the government published what it was told in an online consultation.",
+      "note": "Reassessed 2026-11-03, unplaced to 3: the government secretariat's page takes comments online on three drafts, the revised labour code bill among them, as retrieved in October 2026; its year-only date is the source's, inside the window. Nothing says what was received was published.",
+      "as_at": "2026-11-03"
     }
   ]
 }

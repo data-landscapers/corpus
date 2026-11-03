@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CIV-002",
       "gaps": "No source found since October 2023 says a rule requires drafts to be put online for public comment.",
-      "note": "First pass: counted from the four questions by study-ladder-eparticipation.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-03: ARTCI posted its draft net-neutrality guidelines online for comment in July 2026 and published the replies it received in September 2026. Nothing says a rule required the consultation online, so it is not stage 5.",
+      "as_at": "2026-11-03"
     }
   ]
 }

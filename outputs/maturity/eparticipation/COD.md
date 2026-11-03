@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [ARPTC opened a public consultation on 5G implementation from 3 March to 2 April 2025, with the 24-question questionnaire downloadable from its website and responses sent by email](<https://arptc.gouv.cd/app/uploads/2025/03/Questionnaire_Consultation-publique_RDC_V7_010325.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** The telecoms regulator, ARPTC, [opened a public consultation on bringing in 5G](<https://arptc.gouv.cd/app/uploads/2025/03/Questionnaire_Consultation-publique_RDC_V7_010325.pdf>), from 3 March to 2 April 2025. Its questionnaire of 24 questions could be downloaded from the regulator's website. Replies were sent by email. The consultation asked how 5G should be introduced in the country. ARPTC regulates posts and telecommunications in the Democratic Republic of the Congo.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://arptc.gouv.cd/app/uploads/2025/03/Questionnaire_Consultation-publique_RDC_V7_010325.pdf>).
+**Answers published.** The nearest fact is [the 5G questionnaire itself](<https://arptc.gouv.cd/app/uploads/2025/03/Questionnaire_Consultation-publique_RDC_V7_010325.pdf>). It was posted on the regulator's website in March 2025, with a closing date of 2 April 2025.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://arptc.gouv.cd/app/uploads/2025/03/Questionnaire_Consultation-publique_RDC_V7_010325.pdf>).
+**Required.** The nearest fact is [the regulator's 5G consultation of March 2025](<https://arptc.gouv.cd/app/uploads/2025/03/Questionnaire_Consultation-publique_RDC_V7_010325.pdf>). It took written replies by email to a questionnaire of 24 questions, over one month. Replies went back to the regulator by email.
 
 ***Also on file***. [Uchunguzi](<https://campus.groupe-afd.fr/2026/10/14/connexions-citoyennes-2026-une-nouvelle-generation-de-jeunes-leaders-africains-mobilise-le-numerique-au-service-de-la-democratie/>).
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

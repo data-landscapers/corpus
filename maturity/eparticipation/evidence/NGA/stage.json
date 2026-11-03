@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "eparticipation",
-   "stage": "2",
-   "online": "asked",
-   "published": "",
-   "required": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-001",
-   "gaps": "No source found since October 2023 says: is a standing online channel in service.",
-   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "eparticipation",
+      "stage": "2",
+      "online": "asked",
+      "published": "",
+      "required": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-001",
+      "gaps": "No source found since October 2023 says a portal takes comments online on more than one draft.",
+      "note": "Reassessed 2026-11-03: the communications regulator posted a consultation paper online for comment in June 2026. Nothing shows a portal taking comments online on more than one draft, so it is not stage 3.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

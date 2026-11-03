@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "eparticipation",
-   "stage": "4",
-   "online": "standing",
-   "published": "published",
-   "required": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-002",
-   "gaps": "No source found since October 2023 says a rule requires drafts to be put online for public comment.",
-   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "eparticipation",
+      "stage": "unplaced",
+      "online": "",
+      "published": "",
+      "required": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found says ARTP's March 2026 FTTx consultation was held online or posted a named draft; only its synthesis of 21 contributions is shown online, in August 2026.",
+      "note": "Reassessed 2026-11-03, 4 to unplaced: questions 1 and 3 ask for a consultation held online, and nothing held says ARTP's was; publishing its synthesis online does not answer that. No other row sets a rung.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

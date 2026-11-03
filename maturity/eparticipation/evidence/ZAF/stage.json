@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZAF-001",
-      "gaps": "No source found since October 2023 says: is a standing online channel in service.",
-      "note": "First pass: counted from the four questions by study-ladder-eparticipation.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a portal takes comments online on more than one draft.",
+      "note": "Reassessed 2026-11-03: the central bank and Home Affairs posted drafts for comment in 2025 and 2026, and the central bank's published feedback note dates from 2023, before the window. Nothing shows a portal taking comments online on more than one draft, so it is not stage 3.",
+      "as_at": "2026-11-03"
     }
   ]
 }

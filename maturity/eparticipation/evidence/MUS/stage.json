@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MUS-001",
-      "gaps": "No source found since October 2023 says: is a standing online channel in service.",
-      "note": "First pass: counted from the four questions by study-ladder-eparticipation.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a portal takes comments online on more than one draft.",
+      "note": "Reassessed 2026-11-03: the cannabis policy portal takes comments online on one policy only, and the child online safety consultation took views by email or chatbot. Nothing shows a portal taking comments online on more than one draft, so it is not stage 3.",
+      "as_at": "2026-11-03"
     }
   ]
 }

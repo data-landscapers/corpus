@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [The Nigerian Communications Commission and its Joint Committee issued a Consultation Paper on Zero-Rated Access to Educational Platforms, published on the NCC website, for a public consultation period of 19 June to 9 July 2026](<https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** The Nigerian Communications Commission and a joint committee [issued a consultation paper on zero-rated access to educational platforms](<https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf>). The paper was published on the commission's website on 19 June 2026. The public consultation ran from that day to 9 July 2026. It was the commission's call for views on access to educational platforms.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf>).
+**Answers published.** The nearest fact is [the consultation paper itself](<https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf>). It is held on the commission's website, dated June 2026. It set out the proposal and the three weeks allowed for comment.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf>).
+**Required.** The nearest fact is [the same paper](<https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf>). It was issued by the regulator together with its joint committee. It opened a consultation of three weeks to the public, closing on 9 July 2026.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "eparticipation",
-   "stage": "3",
-   "online": "standing",
-   "published": "",
-   "required": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001",
-   "gaps": "No source found since October 2023 says the government published what it was told in an online consultation.",
-   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "eparticipation",
+      "stage": "unplaced",
+      "online": "",
+      "published": "",
+      "required": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found names a draft law, policy or regulation put online for comment; the standards bureau's drafts are technical standards, answered on a downloadable form.",
+      "note": "Reassessed 2026-11-03, 3 to unplaced: a site posting drafts with comments on a form sent back is not a portal taking comments online (Bill, 2026-10-26), and draft standards are not a named law, policy or regulation. No other row sets a rung.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

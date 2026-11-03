@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [Aujourd'hui le Maroc reported on 2026-09-16 that avant-projet de loi n. 62.25 on climate change and regulation of the carbon market is currently under public consultation on the website of the Secretariat general du gouvernement](<https://aujourdhui.ma/societe/un-avant-projet-de-loi-soumis-au-sgg-le-maroc-encadre-le-marche-carbone>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** In September 2026 Aujourd'hui le Maroc reported that [draft law 62.25 on climate change and the carbon market was under public consultation](<https://aujourdhui.ma/societe/un-avant-projet-de-loi-soumis-au-sgg-le-maroc-encadre-le-marche-carbone>). The draft was on the website of the Secretariat General of the Government. It would set rules for a carbon market and a national register. The report appeared on 16 September 2026.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://aujourdhui.ma/societe/un-avant-projet-de-loi-soumis-au-sgg-le-maroc-encadre-le-marche-carbone>).
+**Answers published.** The nearest fact is [the newspaper's report on the draft law](<https://aujourdhui.ma/societe/un-avant-projet-de-loi-soumis-au-sgg-le-maroc-encadre-le-marche-carbone>). It described the consultation as open at the time of writing, in mid-September 2026. Aujourd'hui le Maroc is a Moroccan daily.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://aujourdhui.ma/societe/un-avant-projet-de-loi-soumis-au-sgg-le-maroc-encadre-le-marche-carbone>).
+**Required.** The nearest fact is [the same report](<https://aujourdhui.ma/societe/un-avant-projet-de-loi-soumis-au-sgg-le-maroc-encadre-le-marche-carbone>). It placed the draft on the government secretariat's website for public consultation before adoption. The draft concerns climate change and the regulation of the carbon market.
 
 ***Also on file***. [Registre national du marché du carbone](<https://aujourdhui.ma/societe/un-avant-projet-de-loi-soumis-au-sgg-le-maroc-encadre-le-marche-carbone>).
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

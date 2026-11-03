@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [The Eswatini Communications Commission published on its website a proposed broadcasting licence fee schedule and invited written comments from stakeholders and the public by email until 11 August 2025](<https://www.esccom.org.sz/publications/notices/docs/Notice%207%20PROPOSED%20DECISION%20TO%20ISSUE%20BROADCASTING%20FEES%20SCHEDULE.pdf>). [Eswatini's Communications Commission published General Notice 12/2024 with a proposed decision to retire 2G and 3G networks, available on its website, and invited written comments by email to legal@esccom.org.sz by 9 December 2024](<https://www.esccom.org.sz/publications/notices/docs/Notice%2012%20Proposed%20Decision%20to%20Retire%20Legacy%20Networks.pdf>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** In July 2025 the Eswatini Communications Commission [posted a proposed broadcasting licence fee schedule on its website](<https://www.esccom.org.sz/publications/notices/docs/Notice%207%20PROPOSED%20DECISION%20TO%20ISSUE%20BROADCASTING%20FEES%20SCHEDULE.pdf>). It invited written comments from stakeholders and the public by email until 11 August 2025. In November 2024 it [posted a proposed decision to retire 2G and 3G networks](<https://www.esccom.org.sz/publications/notices/docs/Notice%2012%20Proposed%20Decision%20to%20Retire%20Legacy%20Networks.pdf>). Comments on that went by email by 9 December 2024.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://www.esccom.org.sz/publications/notices/docs/Notice%207%20PROPOSED%20DECISION%20TO%20ISSUE%20BROADCASTING%20FEES%20SCHEDULE.pdf>).
+**Answers published.** The nearest fact is [the commission's notice on broadcasting fees](<https://www.esccom.org.sz/publications/notices/docs/Notice%207%20PROPOSED%20DECISION%20TO%20ISSUE%20BROADCASTING%20FEES%20SCHEDULE.pdf>). It was issued as General Notice 7 of 2025. It concerned a proposed decision to issue a fee schedule for broadcasting licences.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://www.esccom.org.sz/publications/notices/docs/Notice%207%20PROPOSED%20DECISION%20TO%20ISSUE%20BROADCASTING%20FEES%20SCHEDULE.pdf>).
+**Required.** The nearest fact is [General Notice 12 of 2024](<https://www.esccom.org.sz/publications/notices/docs/Notice%2012%20Proposed%20Decision%20to%20Retire%20Legacy%20Networks.pdf>), on retiring the older networks. It named an email address for comments. It covered the retirement of 2G and 3G networks.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

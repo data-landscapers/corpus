@@ -1,17 +1,18 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "eparticipation",
-   "stage": "2",
-   "online": "asked",
-   "published": "",
-   "required": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNB-001",
-   "gaps": "No source found since October 2023 says: is a standing online channel in service.",
-   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "eparticipation",
+      "stage": "2",
+      "online": "asked",
+      "published": "",
+      "required": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-001",
+      "gaps": "No source found since October 2023 says a portal takes comments online on more than one draft.",
+      "note": "Reassessed 2026-11-03: the draft Electronic Transactions Law was posted online for comment in May 2026, with replies by email. Nothing shows a portal taking comments online on more than one draft, so it is not stage 3.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

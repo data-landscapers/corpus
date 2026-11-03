@@ -2,12 +2,12 @@
 
 ## Online participation in policy
 
-**Asked online.** [The OGP Independent Reporting Mechanism says co-creation of Tunisia's 2023-2025 action plan collected over 320 proposals through the digital participation portal, workshops, email and public structures](<https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/>). [The Instance Nationale des Telecommunications (INT) opened a second public consultation on fibre access infrastructure sharing from 6 March to 2 April 2026, posted on its website with questions and responses accepted by email](<https://www.intt.tn/fr/index.php?actu=1060&typeactu=89>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** The Open Government Partnership's review body [reported that Tunisia's 2023-2025 action plan drew over 320 proposals](<https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/>). They came through the digital participation portal, workshops, email and public bodies. In March 2026 the telecoms regulator, INT, [opened a second consultation on sharing fibre access infrastructure](<https://www.intt.tn/fr/index.php?actu=1060&typeactu=89>). It ran to 2 April 2026, with replies by email.
 
-**Answers published.** No source found since October 2023 says the government published what it was told in an online consultation. The nearest held fact: [the one given above](<https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/>).
+**Answers published.** The nearest fact is [the Open Government Partnership's results report](<https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/>). It counted the proposals received while the action plan was drawn up. The plan covered 2023 to 2025 and drew over 320 proposals.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/>).
+**Required.** The nearest fact is [the regulator's fibre-sharing consultation](<https://www.intt.tn/fr/index.php?actu=1060&typeactu=89>). It posted its questions on the regulator's website. It was the regulator's second consultation on the subject, open from 6 March 2026.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.

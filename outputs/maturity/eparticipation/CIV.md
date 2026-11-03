@@ -2,11 +2,11 @@
 
 ## Online participation in policy
 
-**Asked online.** [ARTCI ran a public consultation from 6 July to 6 August 2026 on draft net-neutrality guidelines, with the consultation document available on its website and responses taken by email](<https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf>). A later answer places the country above that step. 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Asked online.** The telecoms regulator, ARTCI, [ran a public consultation on draft net-neutrality guidelines](<https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf>) from 6 July to 6 August 2026. The consultation document was on its website. Replies were taken by email. The draft guidelines set out how internet providers in Côte d'Ivoire would treat traffic.
 
-**Answers published.** [ARTCI published operators' responses to the net-neutrality consultation, including Moov Africa CI's contribution, on its website in September 2026](<https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf>).
+**Answers published.** In September 2026 ARTCI [published the operators' replies to the consultation on its website](<https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf>). Among them was the contribution of the operator Moov Africa Côte d'Ivoire, set out answer by answer against the regulator's questions.
 
-**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf>).
+**Required.** The nearest fact is [ARTCI's net-neutrality consultation of July and August 2026](<https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf>). It was opened by the regulator for draft guidelines, and the replies were published a month after it closed. Replies had gone by email to a dedicated address.
 
 ***Also on file***. None found.
 
