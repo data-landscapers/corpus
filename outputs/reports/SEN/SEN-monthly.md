@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: SEN
-ledger_rows: 28
+ledger_rows: 30
 not_held: 2
-record: c64c49f88e66
+record: 24ce07fe8a1a
 ---
 
 # News, Oct – Nov 2026
@@ -112,6 +112,20 @@ Majority deputies in Senegal's National Assembly filed a proposal for a commissi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">State video-surveillance network, Dakar</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[JOJ : le dispositif de vidéosurveillance mis en place par l’Etat est conforme à la loi (CDP)](https://aps.sn/joj-le-dispositif-de-videosurveillance-mis-en-place-par-letat-est-conforme-a-la-loi-cdp/)** — Agence de Presse Sénégalaise (APS), 29 October 2026
+
+CDP president says expanded Youth Olympics CCTV network was authorised in advance; state cameras authorised since 2015.
+
+</div>
+
+</div>
+
 ### Regional collaboration
 
 <div class="monthly-story" markdown="1">
@@ -156,6 +170,8 @@ Visa and Senegal's ministry of telecommunications and digital affairs signed a t
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -199,6 +215,22 @@ At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026
 **[STELLARIX Senegal Expands Data Centre Capacity to Support AI and Digital Growth](https://techafricanews.com/2026/10/02/stellarix-senegal-expands-data-centre-capacity-to-support-ai-and-digital-growth/)** — Tech Africa News, 2 October 2026
 
 STELLARIX Senegal, part of the AXIAN Group, said it has expanded its data-centre capacity in Senegal for cloud, AI and hosting demand. It named three contractors and gave no capacity or cost figure.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National single window for cybersecurity incident reporting</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LA DCSSI LANCE SON NOUVEAU PORTAIL NUMÉRIQUE](https://stcc-ssi.sn/la-dcssi-lance-son-nouveau-portail-numerique/)** — Direction générale du Chiffre et de la Sécurité des Systèmes d’Information (DCSSI), 2 November 2026
+
+Senegal's cybersecurity directorate, the DCSSI, put online a new institutional portal. It incorporates the national single window for reporting cybersecurity incidents. The portal is open to administrations, businesses, organisations and citizens at jokkocyber-dcssi.sn.
 
 </div>
 
