@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: COD
 ledger_rows: 36
 not_held: 6
-record: 7627166b954f
+record: c94342fff7bf
 ---
 
 # News, Oct – Nov 2026
@@ -59,6 +59,14 @@ The DR Congo Senate declared admissible on 28 September 2026 a bill by Senator Y
 **[RDC : le Sénat examine une réforme du Code du numérique prévoyant de limiter les réseaux sociaux aux moins de 13 ans](https://gazetteducontinent.cd/rdc-le-senat-examine-une-reforme-du-code-du-numerique-prevoyant-de-limiter-les-reseaux-sociaux-aux-moins-de-13-ans/)** — Gazette du Continent, 30 October 2026
 
 A joint committee of the DRC Senate finished examining a bill amending the 2023 digital code on 28 October 2026. The bill bars children under 13 from social platforms and requires age verification and stronger parental controls. It goes to the Senate plenary, then to the National Assembly.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénat : examen mercredi des amendements sur la proposition de loi modifiant Code numérique](https://acp.cd/nation/senat-examen-mercredi-des-amendements-sur-la-proposition-de-loi-modifiant-code-numerique/)** — ACP (Agence Congolaise de Presse), 2 November 2026
+
+The DRC Senate adopted on 31 October 2026 the joint committee report on a bill amending the 2023 digital code to protect minors online. Twenty-two senators' amendments go to the joint committee, which has 72 hours to examine them before the sitting of 4 November. Senators raised age bands for minors, access to digital content and age verification.
 
 </div>
 
