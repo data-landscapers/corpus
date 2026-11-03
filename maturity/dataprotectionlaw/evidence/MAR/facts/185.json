@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-19-mar-lematin-mp-proposition-loi-commerce-electronique-31-08",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Le Matin reports that the Mouvement populaire bill insists on strict respect of Law 09.08 on personal data protection, treating it as the law that applies.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "Law 09.08 on the protection of personal data",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law 09.08 on the protection of personal data",
+   "country_label": "Morocco",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

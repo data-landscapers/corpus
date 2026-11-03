@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-29-sen-senegal-joj-videosurveillance-conforme-loi-cdp",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Senegal's CDP, headed by president Ousmane Thiongane, acted as the supervisory body, saying the state's CCTV extension had its prior approval.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Commission de protection des donnees personnelles (CDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CDP president said the Interior Ministry's CCTV system for the Youth Olympic Games complies with the law, which requires a CDP receipt before cameras are installed.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Senegal personal data protection law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The CDP president said the Interior Ministry submitted Dakar's street cameras for CDP authorisation in 2015 and followed the same process for the 2026 extension.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Commission de protection des donnees personnelles (CDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de protection des donnees personnelles (CDP)",
+   "country_label": "Senegal",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

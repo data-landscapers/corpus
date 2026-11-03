@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-12-ner-atelier-de-renforcement-des-capacites-sur-les-transactions-electroniqu",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "passed",
+   "fact": "The minister listed a law on personal data protection adopted on 16 December 2022 among Niger's legal texts.",
+   "as_of": "2022-12-16",
+   "date_precision": "day",
+   "system": "personal data protection law",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
