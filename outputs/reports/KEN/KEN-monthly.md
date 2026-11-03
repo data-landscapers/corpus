@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: KEN
-ledger_rows: 61
+ledger_rows: 64
 not_held: 5
-record: ccd1a8fd6da1
+record: 23492a64c3c1
 ---
 
 # News, Oct – Nov 2026
@@ -138,6 +138,20 @@ Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya Information and Communications (Amendment) Bill 2026, ministry draft</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Public Notice: Validation of the Draft Kenya Information and Communication (Amendment) Bill, 2026](https://ict.go.ke/sites/default/files/2026-10/Validation%20Notice-KICA%20Amendment%20Bill%20Nov%2C%202026.pdf)** — Ministry of Information, Communications and the Digital Economy (Kenya), 31 October 2026
+
+Revised draft bill open for comment to 17 November 2026; virtual validation forum 25 November.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -254,6 +268,36 @@ Kenya plans a further 44,000km of fibre. One part is a 17,000km project for publ
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Kenya 3500 MHz spectrum assignment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Africa plc, Results for half year ended 30 September 2026](https://www.investegate.co.uk/announcement/rns/airtel-africa--aaf/half-year-report/9849212)** — Airtel Africa plc, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+H1 to 30 Sep 2026: revenue USD 3,823m, 193.9m customers; Kenya 3500 MHz spectrum USD 65m for 25 years.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Kenya pays Sh8.4 billion for 5G spectrum in network expansion push](https://nation.africa/kenya/business/companies/airtel-kenya-pays-sh8-4-billion-for-5g-spectrum-in-network-expansion-push-5652832)** — Daily Nation, 31 October 2026
+
+100 MHz at 3500 MHz for US$65m, 25-year term, CA-approved; follows Airtel's new 25-year operating licence of August 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Kenya secures 100MHz 5G spectrum](https://itweb.africa/article/airtel-kenya-secures-100mhz-5g-spectrum/RgeVDvPR3g2MKJN3)** — ITWeb Africa, 2 November 2026
+
+KES8.4bn C-band purchase amid Jamii's High Court challenge to the CA's 2025 spectrum pricing, fees suspended April 2025.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -317,6 +361,20 @@ Summarised under [Cybersecurity](#cybersecurity).
 **[Govt steps up safety against cybersecurity and data privacy](https://www.standardmedia.co.ke/national/article/2001559644/govt-steps-up-safety-against-cybersecurity-and-data-privacy)** — The Standard, 7 October 2026
 
 Kenya's ICT minister told the Senate that the national incident response centre's digital forensics laboratory has received more than 200 investigation requests, most involving online abuse. A working group on online safety, a national referral directory and a review of gaps in the law have been agreed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cybersecurity Agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[State to strengthen cybersecurity as threats surge, says Murkomen](https://www.kbc.co.ke/state-to-strengthen-cybersecurity-as-threats-surge-says-murkomen/)** — KBC Digital, 2 November 2026
+
+Board chaired by Martin Koyabe inaugurated; DDoS attacks 72.16 million in year to June 2026, up 114.3%.
 
 </div>
 
