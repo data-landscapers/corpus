@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-gha-all-pupils-will-receive-ghana-card-numbers-dr-bawumia",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Dr Bawumia said that from 17 June 2024 all basic-school children would start to receive Ghana Card numbers, and that the integration of the health service, births registry, statistics service and NIA would give every child aged 0-13 a unique identity number linked to the parents' identity.",
+   "as_of": "2024-06-01",
+   "date_precision": "day",
+   "system": "Ghana Card number for children",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

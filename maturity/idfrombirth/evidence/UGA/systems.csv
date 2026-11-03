@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 UGA,National Identification and Registration Authority (NIRA) new ID system,Uganda,other,,NIRA,,2026-01-07-monitor-21-million-transferred-new-nira-system
 UGA,NIRA national ID database,UGA,other,,NIRA,,2024-10-14 Uganda financial institutions sign on for digital KYC through national ID
+UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators

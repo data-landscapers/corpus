@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-02-ken-government-to-roll-out-kemis-on-january-9-2026-to-track-learners-natio",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "PS Belio Kipsang said that under the Maisha ecosystem every newborn will be provided a UPI, also used by KEMIS, with the death certificate number as the UPI on death.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "Maisha UPI",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
