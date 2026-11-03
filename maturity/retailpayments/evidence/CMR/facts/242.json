@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-02-cmr-cameroon-finds-3-914-fintech-security-vulnerabilities-after-earlier-au",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Telecommunications Regulatory Agency (ART) reports 11.4 million active Mobile Money subscriptions in Cameroon in 2024, up 7.24% from 2023, across MTN Mobile Money and Orange Money.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "MTN Mobile Money; Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

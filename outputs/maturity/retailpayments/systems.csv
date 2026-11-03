@@ -26,6 +26,7 @@ BDI,BurundiPay,Burundi,retail,instant payment,,,2026-10-10-bdi-burunditimes-eaps
 BDI,Burundi Pay,Burundi,retail,national instant payment system,Bank of the Republic of Burundi,,2026-08-19-theeastafrican-burundi-eaps-december-2026
 BDI,BurundiPay,Burundi,retail,instant payment system,BRB,,2026-05-08-brb-interoperabilite-paiements-papss
 BDI,Mobile money,BDI,retail,,three providers,,2025-09-29-burundi-digital-payments-growth-cash-dominates
+BDI,BurundiPay,Burundi,retail,USSD,Banque de la Republique du Burundi,,2026-11-02-bdi-penurie-de-cash-et-si-on-payait-enfin-avec-nos-telephones
 BEN,PI-SPI,Benin,retail,,BCEAO,,2025-10-07-lancement-pi-spi-uemoa
 BEN,Mobile Money,Benin,retail,,,,2026-08-31-wearetech-benin-phital-azah-whatsapp-mobile-money
 BEN,PI-SPI,UEMOA (Benin),retail,instant payment platform,BCEAO,"banks, microfinance, e-money issuers, payment institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
@@ -46,6 +47,8 @@ BEN,PI-SPI,Benin,other,,BCEAO,,2025-11-05-ben-moov-money-et-boa-benin-adoptent-l
 BEN,MTN Mobile Money,Benin,retail,mobile money,MTN Mobile Money,,2025-05-06-ben-2-911-milliards-fcfa-de-depot-effectues-en-2024
 BEN,Moov Money,Benin,retail,mobile money,Moov Money,,2025-05-06-ben-2-911-milliards-fcfa-de-depot-effectues-en-2024
 BEN,Celtiis Cash,Benin,retail,mobile money,Celtiis Cash,,2025-05-06-ben-2-911-milliards-fcfa-de-depot-effectues-en-2024
+BEN,PI-SPI,Benin,retail,PI-SPI,BCEAO,,2026-11-02-ben-communique-de-mtn-mobile-money-benin
+BEN,MTN MoMo,Benin,retail,MTN MoMo,MTN Mobile Money Benin SA,,2026-11-02-ben-communique-de-mtn-mobile-money-benin
 BFA,Orange Money,Orange Money Burkina Faso,retail,Orange Burkina Faso,,,2026-09-21-bfa-burkina24-orange-max-it-nouvelle-version
 BFA,Max It,Max It,retail,Orange Burkina Faso,,,2026-09-21-bfa-burkina24-orange-max-it-nouvelle-version
 BFA,Orange Money,Burkina Faso,retail,,Orange,,2026-09-21-wearetech-sonar-orange-money-burkina
@@ -135,6 +138,10 @@ CMR,Orange Money,Orange Money,retail,,Orange,,2026-09-25-cmr-nigerian-fintech-gr
 CMR,MTN Mobile Money,Cameroon,retail,,MTN Cameroon,,2025-12-12-cmr-businessincameroon-telecom-sector-1022bn-2024-art-observatoire
 CMR,Orange Money,Cameroon,retail,,Orange Cameroun,,2025-12-12-cmr-businessincameroon-telecom-sector-1022bn-2024-art-observatoire
 CMR,Blue Money,Blue Money,retail,,CAMTEL,,2025-12-05-cmr-camtel-et-ethio-telecom-unissent-leurs-forces-pour-accelerer-la-transf
+CMR,MTN Mobile Money,Cameroon,retail,,MTN,,2026-11-02-cmr-cameroon-finds-3-914-fintech-security-vulnerabilities-after-earlier-au
+CMR,Orange Money,Cameroon,retail,,Orange,,2026-11-02-cmr-cameroon-finds-3-914-fintech-security-vulnerabilities-after-earlier-au
+CMR,SchoolMap,Cameroon,other,SchoolMap,Ministry of Secondary Education,,2024-08-28-cmr-cameroon-deploys-schoolmap-to-simplify-tuition-payment
+CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,FlashApp,DRC,retail,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
 COD,MainMoney,COD,retail,Keyo palm biometrics,AI.Tech,,2026-05-11-mainmoney-palm-biometrics-financial-inclusion-drc-biometricupdate
 COD,MainMoney,DR Congo,retail,palm-vein payment terminal,MainMoney,,2026-04-30-mainmoney-palm-vein-lancement-actualite
@@ -290,6 +297,7 @@ GHA,Ghana.gov,Ghana.gov,other,,,,2026-10-19-gha-imani-africa-missing-plumbing-of
 GHA,MTN MoMo,MTN MoMo,retail,,MTN Ghana,,2026-10-18-gha-people-of-internet-biometric-sim-plan-data-safeguards
 GHA,Ghana Interbank Payment and Settlement Systems (GhIPSS),Ghana,retail,,Bank of Ghana,,2026-10-22-gha-bank-of-ghana-pushes-for-seamless-african-cross-border-payments-channe
 GHA,Ghana Interbank Payment and Settlement Systems,Ghana,other,,,,2026-10-29-acet-unlocking-africas-digital-potential
+GHA,TraffiTech-GH,Ghana,other,TraffiTech-GH,Ghana Police Service (MTTD),,2026-11-02-ghana-la-police-deploie-des-cameras-connectees-pour-automati
 GIN,NimbaPay,Guinea,retail,Mojaloop,BCRG,,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
 GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
 GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-23-guinea-nimbapay-instant-payment-system-launch
@@ -425,6 +433,9 @@ MDG,Airtel Money,Madagascar,retail,mobile money,,,2025-05-09-sigrnf-lancement-me
 MDG,Orange Money Pro,Madagascar,retail,Android app,Orange Madagascar,"merchants, distributors",2025-03-19 Madagascar - Orange Launches Mobile App (Orange Money Pro) for Business Transactions
 MDG,mobile money,Madagascar,retail,,telephone operators,,2024-07-15-mdg-lexpress-inclusion-financiere-acces-limite
 MDG,MVola,Madagascar,other,mobile money,Telma Madagascar,,2023-10-26-mdg-expression-mfs-africa-mvola-remittances
+MDG,Mvola,Madagascar,retail,mobile money,,,2026-05-01-mdg-unctad-ige-ecde9-madagascar-contribution
+MDG,Orange Money,Madagascar,retail,mobile money,,,2026-05-01-mdg-unctad-ige-ecde9-madagascar-contribution
+MDG,Airtel Money,Madagascar,retail,mobile money,,,2026-05-01-mdg-unctad-ige-ecde9-madagascar-contribution
 MLI,Moov Money Mali,Mali,retail,mobile wallet,Moov Africa Malitel,,2026-04-09-le360-moov-money-mali-carte-prepayee-mastercard-gitex
 MLI,Orange Money Mali prepaid card,Mali,retail,Orabank-Mastercard,Orange,,2026-04-09-le360-moov-money-mali-carte-prepayee-mastercard-gitex
 MLI,Orange Money Mali,Mali,retail,mobile money wallet,Orange Mali,,2025-06-11-maliweb-orange-money-orabank-mastercard-prepaid
@@ -575,6 +586,7 @@ SDN,Fawry,Sudan,retail,bank app,Faisal Islamic Bank,,2026-09-10-sdn-dabanga-bank
 SDN,Bankak,SDN,retail,mobile app,Bank of Khartoum,,2026-09-03-sudan-bankak-outage-pound-7000
 SDN,USSD mobile financial services,Sudan,retail,USSD,,,2026-03-31-cbos-ussd-financial-services-regulations
 SDN,SDPay,Sudan,other,EdfaPay,EdfaPay and GoPravo joint venture,,2026-10-21-sdpay-sudan-digital-payments
+SDN,Electronic Banking Services (EBS) BBAN transfers,Sudan,other,,,,2026-10-31-sdn-sudan-economic-performance-monitoring-committee-digital-payments
 SEN,PI-SPI,Senegal,retail,instant payment,BCEAO,banks; e-money institutions; payment institutions,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Wave,Senegal,retail,mobile money,Wave Digital Finance,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Orange Money,Senegal,retail,mobile,Orange Finances Mobiles Sénégal,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
@@ -776,6 +788,7 @@ ZAF,PayShap,South Africa,retail,,,,2026-10-20-zaf-rewiring-payments-open-connect
 ZAF,QR+,South Africa,other,,,,2026-10-20-zaf-rewiring-payments-open-connected-inclusive
 ZAF,PayShap,PayShap,retail,,,,2026-10-26-zaf-techcabal-sarb-non-bank-access-fintech-payments
 ZAF,PayShap,South Africa,retail,,,,2026-10-29-zaf-itweb-gotyme-targets-third-largest-bank-payshap
+ZAF,eZAR,South Africa,other,rand-backed stablecoin wallets,eZAR Ltd / Ninety One / AVBOB Financial Services,,2026-11-02-za-ezar-rand-stablecoin-public-launch
 ZMB,MTN MoMo,Zambia,retail,mobile money,MTN Zambia,,2026-09-17-itweb-africa-momo-fnb-zambia-atm-cash-out
 ZMB,MTN MoMo,Zambia,retail,New MoMo app,MTN Zambia,,2026-03-04-momo-payments-on-zanaco-pos-launch
 ZMB,Zanaco POS and ATM network,Zambia,other,,Zanaco,,2026-03-04-momo-payments-on-zanaco-pos-launch

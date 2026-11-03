@@ -1,0 +1,42 @@
+{
+ "slug": "2026-05-01-mdg-unctad-ige-ecde9-madagascar-contribution",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Madagascar's delegation paper to UNCTAD says mobile money services (Mvola, Orange Money, Airtel Money) exist and are the main payment vehicles for online commerce.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Mvola, Orange Money, Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mvola",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Madagascar",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

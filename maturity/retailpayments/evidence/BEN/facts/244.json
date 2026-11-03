@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-02-ben-communique-de-mtn-mobile-money-benin",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN Mobile Money Benin, a mobile money service, tells customers it is in service and its account ceilings change from 2 November 2026.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "MTN Mobile Money Benin says its customers can send and receive money through PI-SPI to more than 170 authorised participants (banks, e-money institutions, microfinance, payment institutions) from 2 November 2026.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "PI-SPI",
+   "owner": "BCEAO",
+   "tiers": ""
+  },
+  {
+   "system": "MTN MoMo",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "MTN MoMo",
+   "owner": "MTN Mobile Money Benin SA",
+   "tiers": ""
+  }
+ ],
+ "note": "No national switch stated: PI-SPI is the BCEAO's regional system."
+}

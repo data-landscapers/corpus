@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-02-bdi-penurie-de-cash-et-si-on-payait-enfin-avec-nos-telephones",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Yaga Burundi says BurundiPay, launched 23 April 2026, lets users send and pay in real time from a bank account or a mobile wallet, with banks, microfinance institutions and payment operators on one interoperable network.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Yaga Burundi says BurundiPay, launched by the central bank on 23 April 2026, is a national instant payment system working from bank accounts and mobile wallets, including by USSD on basic phones.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "A 2024 AERC study cited by Yaga Burundi put mobile money use in Burundi at 11 per cent.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "retail",
+   "platform": "USSD",
+   "owner": "Banque de la Republique du Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
