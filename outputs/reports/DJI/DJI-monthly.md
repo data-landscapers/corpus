@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: DJI
-ledger_rows: 6
+ledger_rows: 7
 not_held: 11
-record: 8c3267c8b1ce
+record: 790601df0e6f
 ---
 
 # News, Oct – Nov 2026
@@ -111,6 +111,20 @@ Djibouti's interim Prime Minister Ali Hassan Bahdon said on 21 October 2026 that
 **[Le Premier ministre par intérim participe au deuxième Colloque régional](https://rtd.dj/le-premier-ministre-par-interim-participe-au-deuxieme-colloque-regional/)** — RTD / Gouvernement de Djibouti, 22 October 2026
 
 Djibouti's second regional public-procurement colloquium, in Dikhil, heard plans for electronic bid submission, e-signature and digital tracking of payments and guarantees over 2026-2028, and a full e-procurement platform by 2027. The procurement portal launched in May 2023 records 1,300 published tenders and 1,227 awards since 2021.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Court of Accounts information-system modernisation (PAIC-GEP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AMI - Djibouti - Assistance technique a la transformation et a la modernisation des systemes de gouvernance, de controle et de management de la cour des comptes - PAIC-GEP](https://www.afdb.org/en/documents/ami-djibouti-assistance-technique-transformation-98145)** — African Development Bank Group, 2 November 2026
+
+The African Development Bank issued a call for expressions of interest on 2 November 2026 from firms to advise Djibouti's Cour des Comptes. The work covers internal control and risk management, and the digitisation and modernisation of its control processes and information systems. It falls under the PAIC-GEP project.
 
 </div>
 
