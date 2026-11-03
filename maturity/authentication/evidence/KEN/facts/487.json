@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-07-ken-ca-orders-cii-licensed-e-csp-digital-certificates",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Communications Authority of Kenya says electronic certification service providers are licensed and accredited by it and listed on its Telecommunications Services Licensee Register.",
+   "as_of": "2025-10-07",
+   "date_precision": "day",
+   "system": "Electronic Certification Service Providers (E-CSPs) licensed by the Communications Authority",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The Communications Authority notice requires all systems designated Critical Information Infrastructure to use digital certificates and PKI services only from E-CSPs it has licensed and accredited.",
+   "as_of": "2025-10-07",
+   "date_precision": "day",
+   "system": "Electronic Certification Service Providers (E-CSPs) licensed by the Communications Authority",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Certification Service Providers (E-CSPs)",
+   "country_label": "Kenya",
+   "class": "authentication",
+   "platform": "PKI and digital certificates",
+   "owner": "Licensed by the Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

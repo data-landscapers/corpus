@@ -1,0 +1,62 @@
+{
+ "slug": "2026-11-02-somalia-puts-hubiye-national-id-verification-platform-into-o",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIRA announced in late October 2026 that its Hubiye platform is implemented, letting service providers verify ID credentials against its database by a one-time password sent to the ID holder.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Hubiye",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "UNDP reported in May 2026 that Hubiye supported real-time identity verification across 25 integrated services including commercial banking, and the government directed public-facing service providers to integrate with it in April 2025.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Hubiye",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "NIRA launched the eAqoonsi app in May 2025, which gives citizens a digital version of their national ID that authorities encourage them to use to access services.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "eAqoonsi",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hubiye",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": "OTP consent by SMS or email"
+  },
+  {
+   "system": "eAqoonsi",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "app",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "Certificate Delivery System (CDS)",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -11,6 +11,7 @@ AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,20
 AGO,ICP-Angola,Angola,authentication,"Cloud do Governo, Camama",INFOSI,,2026-06-03-ago-a-confianca-digital-em-angola-como-a-icp-angola-vai-mudar-o-dia-a-dia
 AGO,plataforma de identidade digital e assinaturas electrónicas,Digital identity and e-signature platform,authentication,,"Executive, under PADA",,2026-10-23-ago-pr-autoriza-mais-70-milhoes-de-dolares-para-a-transformacao-digital-do
 AGO,AngolaID,Angola,authentication,"mobile app (Google Play, App Store)",Tech by Tech (private),certified by INFOSI,2026-10-27-ago-infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid
+AGO,ICP-AO,Angola,authentication,,Autoridade Credenciadora,,2026-09-07-ago-lei-de-autorizacao-legislativa-n-o-12-26-regime-juridico-da-assinatura
 BDI,Bank and mobile money account-opening KYC,Burundi,other,,"commercial banks and mobile money operators (Ecocash, Lumicash)",,2025-04-01-uncdf-payment-infrastructure-assessment-burundi
 BDI,National identity card,Burundi,other,non-biometric card,Republic of Burundi,,2025-04-01-uncdf-payment-infrastructure-assessment-burundi
 BDI,SIM card registration (ARCT),Burundi,other,,ARCT,,2026-06-05-ecofin-burundi-identification-cartes-sim-obligatoire
@@ -98,6 +99,7 @@ CMR,Electronic Certificate (COLEPS),Cameroon,authentication,COLEPS,Ministry of P
 CMR,COLEPS,Cameroon,other,,Ministry of Public Contracts,,2024-10-11-cmr-guardianpost-coleps-sensitisation-campaign
 CMR,new national ID card system (Augentic),Cameroon,other,Augentic,DGSN / Government of Cameroon,,2025-03-17-cmr-cameroon-opens-new-id-card-production-centre-as-issuance-gains-tractio
 CMR,CNPTI PKI,Cameroon,authentication,Public Key Infrastructure,CNPTI / DGSN,,2025-02-28-cmr-decret-modifiant-et-completant-certaines-dispositions-du-decret-n2016
+CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,RDC-Pass,COD,other,RDC-Pass,Government of DRC with Trident Digital Tech DRC Africa SAS,,2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate
 COD,biometric SIM card registration,COD,other,RDC-Pass,,,2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate
 COD,automated identity verification for financial institutions,COD,other,RDC-Pass,,,2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate
@@ -199,6 +201,7 @@ EGY,Digital Identity (electronic biometric verification),Egypt,authentication,,M
 EGY,V-Lens,Souhoola V-Lens,other,,Souhoola,,2026-10-22-egy-egypts-souhoola-secures-fra-approval-for-fintech-based-consu
 EGY,unified digital property registration platform,Egypt,authentication,online platform with e-signature,Ministry of Justice,,2026-10-28-youm7-egypt-justice-property-registry-digital
 EGY,Digital Egypt portal,Egypt,other,government services portal,Government of Egypt,,2026-10-28-youm7-egypt-justice-property-registry-digital
+EGY,EMIS portal online application (emis.gov.eg),Egypt,other,emis.gov.eg,Ministry of Education and Technical Education,,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025
 ETH,VeriFayda eKYC,Ethiopia,other,Fayda (eSignet),Faydaverse,,2026-10-09-eth-biometricupdate-fayda-developer-sandbox
 ETH,Fayda eKYC,Ethiopia,other,Fayda,Ethiopia National ID Program (now Faydaverse),,2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate
 ETH,VeriFayda eKYC,Ethiopia,other,Fayda,FaydaVerse,,2026-10-03-banks-baulk-at-a-bill-from-public-id-that-turns-commercial
@@ -337,6 +340,7 @@ KEN,Starlink Internet Services Kenya,Kenya,other,,Starlink,,2026-06-19-kenya-sta
 KEN,Maisha Digital,Kenya,authentication,,State Department for Immigration and Citizen Services,,2024-05-09-ken-digital-identity-id-roll-out-on-course-ps
 KEN,e-Citizen,Kenya,other,,,,2024-05-09-ken-digital-identity-id-roll-out-on-course-ps
 KEN,Maisha Namba / Maisha Card,Kenya,other,,National Registration Bureau,,2024-09-02-ken-state-revs-up-maisha-namba-digital-id-awareness-drive
+KEN,Electronic Certification Service Providers (E-CSPs),Kenya,authentication,PKI and digital certificates,Licensed by the Communications Authority of Kenya,,2025-10-07-ken-ca-orders-cii-licensed-e-csp-digital-certificates
 LBR,SIM registration (LTA regulations),Liberia,other,NIR platform,Liberia Telecommunications Authority,,2025-04-30-no-national-id-no-transaction-eo147-observer
 LBR,National Biometric Identification System (NBIS),Liberia,other,,National Identification Registry (NIR),,2025-04-30-no-national-id-no-transaction-eo147-observer
 LBR,Civil Service payroll verification,Liberia,other,,Civil Service Agency,,"2025-03-12 Liberia says national ID system drives digital economy, facilitates service delivery"
@@ -389,6 +393,7 @@ MAR,DamaneSign Qualified Signature,Morocco,authentication,,Damanesign,qualified 
 MAR,DamaneSign Qualified Seal,Morocco,authentication,,Damanesign,qualified e-seal certificates,2025-03-03-mar-decision-n-2-psco-2025-portant-agrement-de-la-societe-damanesign-en-qu
 MAR,Mon identité numérique,Morocco,authentication,CNIE NFC,ADD/DGSN,,2025-04-13-mar-add-silence-on-digitalise
 MAR,service d'identification électronique et d'authentification,Morocco,authentication,,DGSN,,2024-01-16-mar-administration-numerique-170-000-operations-rsu-sont-enregistrees-quot
+MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
 MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MDG,digital identity card,Madagascar digital identity,other,,Ministry of Digital Development,,2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development
 MLI,SIGRH,Mali,other,,Ministry of Refondation de l'Etat,,2026-02-20-lessor-sigrh-controle-biometrique-agents-etat
@@ -533,6 +538,7 @@ NER,cadre d'interopérabilité et d'échanges sécurisés de données (WURI-Nige
 NER,Registre National de la Population,Niger,other,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
 NER,Registre National d'État Civil,Niger,other,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
 NER,Niger national e-ID card,Niger,other,,"Ministry of Interior, Niger",,2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport
+NER,ANCE,Niger,authentication,,,,2025-03-12-ner-atelier-de-renforcement-des-capacites-sur-les-transactions-electroniqu
 NGA,NINAuth,Nigeria,other,"web, API and mobile",NIMC,,2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push
 NGA,POSSAP,Nigeria,other,,Nigeria Police Force,,2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push
 NGA,FRSC contactless licensing system,Nigeria,other,,Federal Road Safety Corps,,2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push
@@ -663,6 +669,9 @@ SOM,Danabeysan,Danabeysan,authentication,digital signature platform,Ministry of 
 SOM,HUBIYE Verifier Platform,HUBIYE,authentication,,NIRA,,2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system
 SOM,e-Aqoonsi Digital ID App,e-Aqoonsi,authentication,mobile app,NIRA,,2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system
 SOM,Certificate Delivery System (CDS),CDS,other,NIRA website,NIRA,,2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system
+SOM,Hubiye,Somalia,authentication,,NIRA,OTP consent by SMS or email,2026-11-02-somalia-puts-hubiye-national-id-verification-platform-into-o
+SOM,eAqoonsi,Somalia,authentication,app,NIRA,,2026-11-02-somalia-puts-hubiye-national-id-verification-platform-into-o
+SOM,Certificate Delivery System (CDS),Somalia,other,,NIRA,,2026-11-02-somalia-puts-hubiye-national-id-verification-platform-into-o
 SSD,"Directorate of Civil Registry, Nationality, Passports and Immigration digital registry",South Sudan,other,,"Directorate of Civil Registry, Nationality, Passports and Immigration",,2026-07-28-civil-registry-digital-system-birth-death-marriage
 SSD,Personal identity card (Butaka Shakhsia),South Sudan,other,,"Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",,"2026-01-16 Juba - Passport, ID card issuance resumes"
 STP,"STP Digital Identity (bilhete de identidade, digital ID)",STP,other,Verifiable Credentials Infrastructure by Ooru,INIC and DGRN,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
@@ -793,6 +802,9 @@ UGA,e-KYC platform,Uganda,authentication,,,,2024-11-15-uga-dissemination-of-the-
 UGA,Online Business Registration System (OBRS),Uganda,other,,Uganda Registration Services Bureau,,2025-09-02-uga-ursb-s-digital-transformation-enhances-service-access-and-transparency
 UGA,National Electronic Signature Platform,Uganda,authentication,,NITA-U,,2026-07-02-uga-familiarisation-visit-highlights-nita-u-s-digital-progress
 UGA,National ID card authentication,Uganda,authentication,,NIRA,,2026-10-27-uga-new-national-ids-to-be-activated-soon-minister-baryomunsi
+UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 ZAF,NPR identity verification service (OVS),South Africa,other,National Population Register,Department of Home Affairs,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
 ZAF,SASSA grant payments,South Africa,other,,SASSA,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
 ZAF,Online Verification System (OVS),South Africa,other,National Population Register,Department of Home Affairs,,2025-06-23-dha-npr-verification-service-pricing-correction

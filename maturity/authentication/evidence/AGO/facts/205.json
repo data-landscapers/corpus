@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-24-ago-academico-preocupado-com-falta-de-regulacao-de-contratos-electronicos",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Jurist Domingos Lussendo said at a conference on 23 October 2024 that Angola has no certifying entity for electronic signatures although the law has provided for the activity since 2011, as reported by ANGOP.",
+   "as_of": "2024-10-23",
+   "date_precision": "day",
+   "system": "electronic signature certification entity",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

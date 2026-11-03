@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-23-syc-lablache-v-lablache-cc-19-2025",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "none",
+   "fact": "In Lablache v Lablache, Burian J found there was no way to authenticate the digital signature and that the judiciary had no policy or structure yet to verify digital signatures, so wet-ink signatures must be used.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "digital signature verification for court filings",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

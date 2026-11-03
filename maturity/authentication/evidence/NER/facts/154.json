@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-12-ner-atelier-de-renforcement-des-capacites-sur-les-transactions-electroniqu",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Minister Raliou Sidi Mohamed, opening a workshop on 11 March 2025, said the Autorité de Certification Electronique (ANCE) was created by law, which participants were to learn about alongside trust service providers and e-signature certification.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Autorité de Certification Electronique (ANCE)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCE",
+   "country_label": "Niger",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
