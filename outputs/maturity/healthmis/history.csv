@@ -8,3 +8,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,KEN,dpi.mis--health,review,2,2,KEN-001;KEN-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,LBR,dpi.mis--health,review,no evidence,3,LBR-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZAF,dpi.mis--health,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-11-03,GMB,dpi.mis--health,fact,2,3,GMB-003,"DHIS2 (Sep 2024) says DHIS2 has been Gambia's national HMIS since 2009; national system in service, stage 2 to 3"

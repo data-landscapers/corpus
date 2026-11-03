@@ -22,8 +22,8 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 |---|---|
 | 5 Leading | 13 |
 | 4 Operating | 8 |
-| 3 Established | 16 |
-| 2 Nascent | 10 |
+| 3 Established | 17 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 5 |
@@ -208,6 +208,12 @@ A national health information system was in service in 2024; links to other heal
 - DHIS2 and the Ministry of Health say the DHIS2-based national HMIS reached all 30,000+ public health facilities by 2024, after full national implementation began in 2017, and held over 1 billion records by 2025 ([source, 2024](https://dhis2.org/ethiopia-healthcare-performance)).
 - The IMPULSE study (Nov 2022-Jul 2024) found DHIS2 in use as the routine health information system in central and subnational data offices in Ethiopia ([source, 2024-07](https://researchonline.lshtm.ac.uk/id/eprint/4679144/)).
 
+### Gambia: 3 Established
+
+A national health information system had been in service since 2009 by 2024; links to other health systems are not known.
+
+- DHIS2 has been used as Gambia's national health management information system since 2009, DHIS2 says ([source, 2024-09-26](https://dhis2.org/strengthening-school-management-gambia-eswatini/)).
+
 ### Guinea: 3 Established
 
 A national health information system was in service in 2025; links to other health systems are not on record.
@@ -290,12 +296,6 @@ A health information system was under way in 2026; a national one in service is 
 
 - ICTworks lists an eGabon-SIS pilot in 13 facilities, the 2017-2022 health information system master plan having expired ([source, 2026-07](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/)).
 - Gabon Media Time reports the DHIS2 Tracker has been piloted in several health facilities, with extension to four health districts by September 2026 and progressive national rollout in 2027, feeding patient data into the national DHIS2 system ([source, 2026-06-18](https://gabonmediatime.com/sante-numerique-le-gabon-premier-pays-dafrique-francophone-a-deployer-le-dhis2-tracker/)).
-
-### Gambia: 2 Nascent
-
-A health information system was under way in 2025; a national one in service is not on record.
-
-- Nigeria Health Watch reports that Smart Paper Technology, a hybrid paper-to-digital system launched in 2017 by the Ministry of Health with MRCG, Shifo Foundation and US CDC, was piloted at Bundung and Fajikunda and is expanding, with forms scanned and synchronised with DHIS2 ([source, 2025-12-22](https://articles.nigeriahealthwatch.com/smart-paper-technology-is-transforming-community-health-data-capture-in-the-gambia)).
 
 ### Ghana: 2 Nascent
 
