@@ -76,6 +76,7 @@ def build(tmp: Path, **over: str) -> tuple[Path, Path]:
         "notes-for-corpus-resolved.md": RESOLVED_C,
         "osint-housekeeping.md": JOBS,
         "osint-housekeeping-resolved.md": JOBS,
+        "corpus-housekeeping-resolved.md": JOBS,
         "messages-from-bill.md": FROM_BILL,
         "messages-for-bill.md": FOR_BILL,
         "corpus-housekeeping.md": CORPUS_JOBS,

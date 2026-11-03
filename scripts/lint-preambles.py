@@ -80,6 +80,7 @@ SHARE_FILES = [
     ("osint-housekeeping.md", False, SIZING),            # OSINT's register
     ("osint-housekeeping-resolved.md", False, DONE),     # OSINT's archive
     ("corpus-housekeeping.md", True, NOTE),          # CORPUS's register, measured to its first job
+    ("corpus-housekeeping-resolved.md", True, DONE),  # CORPUS's archive, from 2026-11-03
     ("messages-from-bill.md", False, HEADING),      # Bill's channel
     ("messages-for-bill.md", True, MARKER),         # CORPUS to Bill; on the share since 2026-10-02
 ]
