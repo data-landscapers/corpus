@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-11-01
+compiled: 2026-11-03
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 263
+sources_cited: 264
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -119,7 +119,7 @@ Beneath the mobile market there is almost nothing else: the regulator counted [1
 
 5G still runs on borrowed spectrum: [the regulator's provisional allocation of 19 December 2023 re-used existing frequencies, and the network covered 7% of the population in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and [on 14 October 2026 the Council of Ministers adopted the decree setting the financial terms for freeing the 3300-3600 MHz band, including compensation for its current holders](https://www.aip.ci/aip-transition-numerique-en-cote-divoire-le-gouvernement-adopte-un-decret-cle-pour-encadrer-la-liberation-des-frequences-de-la-5g); no definitive award is on record. The satellite tier opened in 2026. The digital minister announced a [12-month provisional licence for Starlink](https://techafricanews.com/2026/06/15/cote-divoire-accelerates-digital-push-with-starlink-licence-and-5g-launch/) (June 2026), after [Orange began selling satellite broadband on Eutelsat KONNECT capacity into areas the terrestrial network does not reach](https://www.connectingafrica.com/connectivity/orange-c-te-d-ivoire-eutelsat-launch-satellite-broadband-services) (January 2026) and [MTN struck its own Eutelsat deal for rural white areas](https://techafricanews.com/2026/04/24/mtn-cote-divoire-partners-eutelsat-to-boost-broadband-coverage-with-konnect-satellite-capacity/) (April 2026).
 
-Where traffic goes is the regulator's current preoccupation. [More than 33,000 km of fibre had been deployed by 2024](https://www.wearetech.africa/en/fils-uk/news/tech/ivorian-economy-ministry-sets-2026-2030-roadmap-for-it-modernization), but [one internet exchange point is active, with 13 to 14 members (2025)](https://pulse.internetsociety.org/en/ixp-tracker/country/CI/); ARTCI has [signed a memorandum with Raxio to host a third point of presence of the national exchange, CIVIX, at Grand-Bassam](https://techafricanews.com/2025/06/30/raxio-cote-divoire-and-artci-sign-mou-to-host-the-nations-third-internet-exchange-point/) (June 2025), [convened a national peering forum](https://www.fratmat.info/article/2635918/economie/forum-sur-le-peering-en-cote-divoire-lartci-impulse-une-dynamique-nouvelle-pour-linterconnexion-locale) (August 2025) and [run Peeringday 2026](https://www.fratmat.info/article/2642599/economie/peeringday-2026appairage-et-interconnexion-lartci-mobilise-lecosysteme-numerique-autour-dun-internet-performant) (June 2026). [A regional workshop in Abidjan reached consensus in June 2026 on a consortium of licensed operators to commercialise spare fibre on the TRANSCO CLSG transmission network, which Liberia wants as a terrestrial route through Côte d'Ivoire and Guinea against its dependence on one submarine cable](https://techafricanews.com/2026/06/16/liberia-advances-regional-fiber-optic-expansion-strategy-through-transco-clsg-partnership/).
+Where traffic goes is the regulator's current preoccupation. [ARTCI counted 38,915 km of optical fibre at the end of September 2026](https://artci.ci/wp-content/uploads/2026/10/RAPPORT-ARTCI-T3-2026_31.10.26.pdf), but [one internet exchange point is active, with 13 to 14 members (2025)](https://pulse.internetsociety.org/en/ixp-tracker/country/CI/); ARTCI has [signed a memorandum with Raxio to host a third point of presence of the national exchange, CIVIX, at Grand-Bassam](https://techafricanews.com/2025/06/30/raxio-cote-divoire-and-artci-sign-mou-to-host-the-nations-third-internet-exchange-point/) (June 2025), [convened a national peering forum](https://www.fratmat.info/article/2635918/economie/forum-sur-le-peering-en-cote-divoire-lartci-impulse-une-dynamique-nouvelle-pour-linterconnexion-locale) (August 2025) and [run Peeringday 2026](https://www.fratmat.info/article/2642599/economie/peeringday-2026appairage-et-interconnexion-lartci-mobilise-lecosysteme-numerique-autour-dun-internet-performant) (June 2026). [A regional workshop in Abidjan reached consensus in June 2026 on a consortium of licensed operators to commercialise spare fibre on the TRANSCO CLSG transmission network, which Liberia wants as a terrestrial route through Côte d'Ivoire and Guinea against its dependence on one submarine cable](https://techafricanews.com/2026/06/16/liberia-advances-regional-fiber-optic-expansion-strategy-through-transco-clsg-partnership/).
 
 ### Data Storage
 <!-- infra.store -->
