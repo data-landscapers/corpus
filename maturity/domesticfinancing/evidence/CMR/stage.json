@@ -4,14 +4,14 @@
     {
       "sub_indicator": "financing",
       "stage": "3",
-      "budget": "rose",
+      "budget": "spent",
       "commitment": "stated",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-006;CMR-001",
-      "gaps": "No source from the last three years has the government both saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying.",
-      "note": "Counted from the four questions by study-ladder-domesticfinancing.py.",
-      "as_at": "2026-11-01"
+      "stage_sources": "CMR-006;CMR-001;CMR-008",
+      "gaps": "No source from the last three years has the government both saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying. Spending for 2024 is given as rates of credit used, not amounts.",
+      "note": "The digital lines held for both years rose in the tabled 2026 budget, and the budget directorate published 2024 credit consumption for the digital programmes. The universal service strategy's call to relaunch the telecommunications fund is a statement with no act, so not stage 4.",
+      "as_at": "2026-11-03"
     }
   ]
 }

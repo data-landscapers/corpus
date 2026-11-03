@@ -118,6 +118,7 @@ Cameroon's tabled 2026 budget raises the digital lines held in both years 1.9 pe
 
 - Budget tables: the 2 digital line(s) held in both years total 26,500,000,000 XAF for 2026 against 26,000,000,000 for 2025, +1.9 per cent; 14 lines are held for 2026. Dated by the budget document ([source, 2025-11-26](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf)).
 - The tabled 2026 finance bill (proposed, not yet enacted) names FCFA 874,046,000 for programme 380 Modernisation du cadastre (national digital cadastre) under the Ministry of State Property, Surveys and Land Tenure, financed from domestic revenue ([source, 2025-11-26](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf)).
+- The Budget Directorate (MINFI) reports MINPOSTEL programme evaluation figures of credit consumption in 2024 of 22.66% for programme 130 (digital ecosystem) and 100% for programme 132 (cybersecurity), against 14.67% and 97.15% in 2023 ([source, 2024](https://www.dgb.cm/minpostel-optimiser-le-cadre-logique-des-programmes/)).
 
 ### Central African Republic: 3 Established
 
