@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-02-swz-eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AI Safety and Standards Research and Testing Laboratory",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "ESWASA and AICE Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a proposed testing laboratory with no named funder or site; no model, dataset or AI computing stated."
+}
