@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;linked",
+ "fact": "In 2023 the CENI compiled a new voter register through RAVEL and from 15 April to 29 May 2024 ran an exceptional revision; registration requires a valid biometric ID card, with 1,939,341 voters as of 7 June 2024.",
+ "title": "Elections in Mauritania: 2024 Presidential Elections",
+ "publisher": "IFES",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "checked;linked",
+ "fact": "HNEC says voters can check their registration by sending their national number by SMS to 17017, and register by sending national number and polling centre number.",
+ "title": "كيف نتأكد من تسجيلي ؟",
+ "publisher": "المفوضية الوطنية العليا للانتخابات",
+ "published": "2025-02-25",
+ "date_source": "source",
+ "why_not": ""
+}

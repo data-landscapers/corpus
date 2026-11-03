@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "linked",
+ "fact": "Under article 48 of organic law 001/2025 each voter is identified by the national Personal Identification Number and the electoral file is drawn from the national biometric database.",
+ "title": "Code électoral : l’inscription sur les listes électorales désormais automatique grâce au NIP",
+ "publisher": "Gabonmediatime",
+ "published": "2025-02-06",
+ "date_source": "source",
+ "why_not": ""
+}

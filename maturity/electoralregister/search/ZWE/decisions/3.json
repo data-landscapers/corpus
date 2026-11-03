@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll",
+ "fact": "The Zimbabwe Electoral Commission ended a mobile biometric voter registration drive on 26 March 2023 with over 450,000 new registrants and began fingerprint deduplication of the register.",
+ "title": "Zimbabwe ends biometric voter registration drive with over 450K new registrants",
+ "publisher": "Biometric Update",
+ "published": "2023-03-28",
+ "date_source": "source",
+ "why_not": ""
+}

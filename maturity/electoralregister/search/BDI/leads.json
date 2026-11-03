@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.ceniburundi.bi/arrete-n-003-ceni-2026-du-02-10-2026-portant-determination-de-lage-revolu-qualite-pieces-exigees-et-modalites-pratiques-pour-lenrolement-des-electeurs-pour-lelectio",
+  "title": "Arrêté N° 003/CENI/2026 du 02/10/2026",
+  "publisher": "CENI",
+  "published": "2026-10-02",
+  "sub_indicator": "electoral",
+  "why": "Enrolment rules, ID documents"
+ },
+ {
+  "url": "https://www.sosmediasburundi.org/2026/08/31/presidentielle-de-2027-plus-dun-million-de-nouveaux-electeurs-la-ceni-accelere-les-preparatifs/",
+  "title": "Présidentielle de 2027 : plus d'un million de nouveaux électeurs",
+  "publisher": "SOS Médias Burundi",
+  "published": "2026-08-31",
+  "sub_indicator": "electoral",
+  "why": "Roll, display of lists"
+ },
+ {
+  "url": "https://abpinfo.bi/2026/08/20/presentation-de-la-cartographie-electorale-pour-lelection-presidentielle-de-2027/",
+  "title": "Présentation de la cartographie électorale pour l'élection présidentielle de 2027",
+  "publisher": "ABP",
+  "published": "2026-08-20",
+  "sub_indicator": "electoral",
+  "why": "2025 lists provisional"
+ },
+ {
+  "url": "https://communityvoice.bi/the-lack-of-digital-id-systems-threatens-the-digital-economy-of-burundi/",
+  "title": "The lack of Digital ID Systems threatens the Digital Economy of Burundi",
+  "publisher": "Community Voice",
+  "published": "2026-03-30",
+  "sub_indicator": "electoral",
+  "why": "Register not fully digital; no digital ID"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/burundi-lawmakers-approve-data-protection-framework-as-digitalisation-accelerates",
+  "title": "Burundi Lawmakers Approve Data Protection Framework",
+  "publisher": "We are Tech",
+  "published": "2026-01-16",
+  "sub_indicator": "electoral",
+  "why": "Voter register digitised claim"
+ },
+ {
+  "url": "https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/",
+  "title": "Burundi unveils Biometric National ID system",
+  "publisher": "Burundi Times",
+  "published": "2026-05-07",
+  "sub_indicator": "electoral",
+  "why": "ID link"
+ }
+]

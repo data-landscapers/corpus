@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;usage",
+ "fact": "One year after the new national portal went online in June 2022, 101,730 requests had been made and 97,014 accounts created, with the portal grouping digitalised services of the administration under one account.",
+ "title": "Service public : un an après, plus de 100.000 demandes effectuées sur le nouveau portail",
+ "publisher": "République Togolaise (Togo Officiel)",
+ "published": "2023-06-16",
+ "date_source": "source",
+ "why_not": ""
+}

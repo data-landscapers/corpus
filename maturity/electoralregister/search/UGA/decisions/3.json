@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;linked",
+ "fact": "The Monitor reports that Uganda's national voter register was compiled using biometric data extracted from the National Identification and Registration Authority (Nira), with biometric verification used since the 2016 polls.",
+ "title": "One man one vote: Inside new EC biometric system",
+ "publisher": "Daily Monitor",
+ "published": "2025-10-29",
+ "date_source": "source",
+ "why_not": ""
+}

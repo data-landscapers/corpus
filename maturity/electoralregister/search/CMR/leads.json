@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202509/cameroon-signals-urgency-on-biometric-voter-id-collection-as-presidential-vote-nears",
+  "title": "Cameroon signals urgency on biometric voter ID collection",
+  "publisher": "Biometric Update",
+  "published": "2025-09-11",
+  "sub_indicator": "electoral",
+  "why": "biometric register in service (Q2)"
+ },
+ {
+  "url": "https://www.digitalbusiness.africa/presidentielle-2025-cameroun-le-corps-electoral-convoque-le-fichier-electoral-disponible-sur-www-elecam-cm-consultez/",
+  "title": "Le fichier electoral disponible sur www.elecam.cm",
+  "publisher": "Digital Business Africa",
+  "published": "2025-07-11",
+  "sub_indicator": "electoral",
+  "why": "roll checkable online (Q3)"
+ },
+ {
+  "url": "https://en.journalducameroun.com/elecam-launches-digital-drive-to-boost-voter-registration-across-cameroon/",
+  "title": "ELECAM launches digital drive",
+  "publisher": "Journal du Cameroun",
+  "published": "2026-04-23",
+  "sub_indicator": "electoral",
+  "why": "roll check online/centres (Q3)"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202505/cameroons-election-agency-trains-staff-on-use-of-newly-acquired-biometric-gear",
+  "title": "ELECAM trains staff on newly acquired biometric gear",
+  "publisher": "Biometric Update",
+  "published": "2025-05-13",
+  "sub_indicator": "electoral",
+  "why": "new kits procured (Q1)"
+ },
+ {
+  "url": "https://doi.org/10.3917/parti.040.0195",
+  "title": "La fabrique de l'electorat",
+  "publisher": "Participations",
+  "published": "2025-07-22",
+  "sub_indicator": "electoral",
+  "why": "CNI required for enrolment (Q4)"
+ },
+ {
+  "url": "https://www.crtv.cm/news/non-classe/inscription-sur-les-listes-electorales-elecam-mise-sur-le-digital",
+  "title": "Inscription sur les listes electorales: Elecam mise sur le digital",
+  "publisher": "CRTV",
+  "published": "2026-04-23",
+  "sub_indicator": "electoral",
+  "why": "verification online or at councils (Q3)"
+ },
+ {
+  "url": "https://theguardianpostcameroon.com/post/5191/fr/elecam-unveils-online-platform-for-voters-check-enrolment",
+  "title": "ELECAM unveils online platform for voters to check enrolment",
+  "publisher": "The Guardian Post",
+  "published": "2025-07-11",
+  "sub_indicator": "electoral",
+  "why": "online check (Q3)"
+ },
+ {
+  "url": "https://camerounactuel.com/presidentielle-2025-elecam-ouvre-la-verification-en-ligne-des-donnees-electorales/",
+  "title": "ELECAM ouvre la verification en ligne",
+  "publisher": "Cameroun Actuel",
+  "published": "2025-07-11",
+  "sub_indicator": "electoral",
+  "why": "online check (Q3)"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services",
+ "fact": "The National Records Commission launched an Online Information Access Portal on which citizens submit and track information requests electronically (announcement dated 10/7/2025).",
+ "title": "National Records Commission Launches Online Information Access Portal",
+ "publisher": "Information Commission",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

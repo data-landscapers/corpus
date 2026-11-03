@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;checked",
+ "fact": "The provisional biometric registration roll was exhibited at registration centres from 12 to 17 June 2023 for voters to check details, and the observers noted Liberia has no functional civil registry to clean the roll against.",
+ "title": "Summary Report on the Conduct of Biometric Voter Registration in Liberia",
+ "publisher": "EISA",
+ "published": "2023-08-14",
+ "date_source": "source",
+ "why_not": ""
+}

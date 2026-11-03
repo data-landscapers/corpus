@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.mmsp.gov.ma/fr/actualites/idarati-vers-une-administration-plus-proche-proactive-et-centr%C3%A9e-sur-le-citoyen",
+  "title": "Idarati : vers une administration plus proche, proactive et centrée sur le citoyen",
+  "publisher": "Ministère de la Transition numérique",
+  "published": "2026-09-18",
+  "sub_indicator": "eservices",
+  "why": "874 online services on unified portal (Q2-Q4)"
+ },
+ {
+  "url": "https://www.mmsp.gov.ma/fr/actualites/la-ministre-mme-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-%C3%A0-rabat-la-pr%C3%A9sentation-du-nouveau-portail-national-des-services-publics-num%C3%A9riques",
+  "title": "Présentation du nouveau portail national des services publics numériques",
+  "publisher": "Ministère de la Transition numérique",
+  "published": "2025-02-14",
+  "sub_indicator": "eservices",
+  "why": "650+ e-services on national portal (Q1-Q3)"
+ },
+ {
+  "url": "https://fr.le360.ma/economie/idarati-x0-une-meta-application-pour-unifier-plus-de-660-demarches-administratives_4UO3JSR6IVB5VPTDBFSLNRACH4/",
+  "title": "Idarati X.0: une méta-application pour unifier plus de 660 démarches administratives",
+  "publisher": "le360.ma",
+  "published": "2026-03-16",
+  "sub_indicator": "eservices",
+  "why": "single gateway with CNIE sign-in (Q3)"
+ },
+ {
+  "url": "https://aljarida24.ma/p/actualites/303554/",
+  "title": "حجم الخدمات الالكترونية.. 11 مليون عملية شهريا",
+  "publisher": "الجريدة 24",
+  "published": "2025-02-06",
+  "sub_indicator": "eservices",
+  "why": "11 million operations per month (Q4)"
+ },
+ {
+  "url": "https://www.lavieeco.com/au-royaume/lancement-officiel-du-portail-national-des-services-numeriques/",
+  "title": "Lancement officiel du Portail national des services numériques",
+  "publisher": "Lavieeco avec MAP",
+  "published": "2025-02-14",
+  "sub_indicator": "eservices",
+  "why": "launch of portal (Q1)"
+ },
+ {
+  "url": "https://industries.ma/numerisation-administrative-plus-de-35-000-entreprises-creees-en-ligne/",
+  "title": "Numérisation administrative : plus de 35.000 entreprises créées en ligne",
+  "publisher": "industries.ma",
+  "published": "2025-12-30",
+  "sub_indicator": "eservices",
+  "why": "600+ services; 35,000 firms created online (Q2,Q4)"
+ },
+ {
+  "url": "https://www.moroccoworldnews.com/2026/09/338916/morocco-launches-new-version-of-national-idarati-portal/",
+  "title": "Morocco Launches New Version of National Idarati Portal",
+  "publisher": "Morocco World News",
+  "published": "2026-09-19",
+  "sub_indicator": "eservices",
+  "why": "new Idarati version, 874 services (Q1-Q3)"
+ },
+ {
+  "url": "https://idarati.ma/a-propos/",
+  "title": "À propos de idarati eServices",
+  "publisher": "idarati.ma",
+  "published": "2026-09-17",
+  "sub_indicator": "eservices",
+  "why": "portal as single entry point (Q3)"
+ }
+]

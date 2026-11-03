@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.dcdt.gov.za/images/News/Media_Statement_-_SAs_great_improvement_in_the_UN_eGov_index_11_0ctober_2024.pdf",
+  "title": "Media statement: South Africa's significant improvement in the UN e-Government Index 2024",
+  "publisher": "DCDT",
+  "published": "2024-10-11",
+  "sub_indicator": "eservices",
+  "why": "portal with 134 e-services; ten-plus services online"
+ },
+ {
+  "url": "https://www.sanews.gov.za/index.php/south-africa/government-accelerates-programme-connect-citizens-internet",
+  "title": "Government accelerates programme to connect citizens to internet",
+  "publisher": "SAnews",
+  "published": "2024-04-05",
+  "sub_indicator": "eservices",
+  "why": "92 services, logins and registered users published"
+ },
+ {
+  "url": "https://www.itweb.co.za/article/sita-to-ramp-up-access-to-digitised-govt-services/j5alr7QAN157pYQk",
+  "title": "SITA to ramp up access to digitised govt services",
+  "publisher": "ITWeb",
+  "published": "2024-02-16",
+  "sub_indicator": "eservices",
+  "why": "e-gov portal registered user numbers"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/presidency-launch-roadmap-digital-transformation-government-12-may-2025",
+  "title": "Presidency on launch of Roadmap for the Digital Transformation of Government",
+  "publisher": "South African Government",
+  "published": "2025-05-12",
+  "sub_indicator": "eservices",
+  "why": "single trusted platform plan"
+ },
+ {
+  "url": "https://www.gov.za/sites/default/files/gcis_document/202505/south-africas-roadmap-digital-transformation-government.pdf",
+  "title": "South Africa's Roadmap for the Digital Transformation of Government",
+  "publisher": "The Presidency",
+  "published": "2025",
+  "sub_indicator": "eservices",
+  "why": "MyMzansi single gateway with digital ID login"
+ },
+ {
+  "url": "https://www.itweb.co.za/article/govt-targets-production-ready-mymzansi-platform/GxwQD71DPpgvlPVo",
+  "title": "Govt targets 'production-ready' MyMzansi platform",
+  "publisher": "ITWeb",
+  "published": "2026-08-03",
+  "sub_indicator": "eservices",
+  "why": "MyMzansi status"
+ },
+ {
+  "url": "https://www.sanews.gov.za/features-south-africa/charting-way-towards-digital-future",
+  "title": "Charting the way towards a digital future",
+  "publisher": "SAnews",
+  "published": "2026-07-21",
+  "sub_indicator": "eservices",
+  "why": "services online across departments"
+ },
+ {
+  "url": "https://www.itweb.co.za/article/citizen-services-project-mymzansi-gets-r150m-boost/lLn14MmQNEYMJ6Aa",
+  "title": "Citizen services project MyMzansi gets R150m boost",
+  "publisher": "ITWeb",
+  "published": "2026-10-21",
+  "sub_indicator": "eservices",
+  "why": "MyMzansi funding and first use case"
+ }
+]

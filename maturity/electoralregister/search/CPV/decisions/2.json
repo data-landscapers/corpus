@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "linked",
+ "fact": "In January 2025 Parliament debated a Government proposal creating an Electoral Information System built on SNIAC data so voter registration becomes automatic.",
+ "title": "Parlamento debate recenseamento automático e voto electrónico",
+ "publisher": "Expresso das Ilhas (Lusa)",
+ "published": "2025-01-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://dailynews.co.tz/new-system-brings-9777-govt-services-under-one-roof/",
+  "title": "New system brings 9,777 govt services under one roof",
+  "publisher": "Daily News",
+  "published": "2026-06",
+  "sub_indicator": "eservices",
+  "why": "Q3/Q4 single gateway, services count"
+ },
+ {
+  "url": "https://dailynews.co.tz/tanzanias-push-toward-paperless-public-services-hits-heights-in-six-document-heavy-functions/",
+  "title": "Tanzania's push toward paperless public services",
+  "publisher": "Daily News",
+  "published": "2026-10",
+  "sub_indicator": "eservices",
+  "why": "Q3 services online, e-GA platforms"
+ },
+ {
+  "url": "https://www.ega.go.tz/news/waziri-kikwete-asisitiza-matumizi-ya-e-mrejesho-aipongeza-e-ga",
+  "title": "Waziri Kikwete Asisitiza Matumizi ya e-Mrejesho, Aipongeza e-GA",
+  "publisher": "e-Government Authority",
+  "published": "2025-12",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q3 Government Service Directory"
+ },
+ {
+  "url": "https://tmc.co.tz/wp-content/uploads/2025/07/Advocacy-Brief-Rethinking-E-Governance-in-Tanzania.pdf",
+  "title": "Advocacy Brief: Rethinking E-Governance in Tanzania",
+  "publisher": "Tech & Media Convergency",
+  "published": "2025",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q3 integration of service systems"
+ },
+ {
+  "url": "https://www.ega.go.tz/uploads/publications/en-1698046247-TANZANIA%20e-GOVERNMENT%20STRATEGY%202022.pdf",
+  "title": "Tanzania e-Government Strategy 2022",
+  "publisher": "e-Government Authority",
+  "published": "2022",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q3 e-services baseline"
+ },
+ {
+  "url": "https://www.ega.go.tz/news/e-ga-yatoa-elimu-ya-serikali-mtandao-kwa-viziwi",
+  "title": "e-GA yatoa elimu ya Serikali Mtandao kwa viziwi",
+  "publisher": "e-Government Authority",
+  "published": "2024-09-30",
+  "sub_indicator": "eservices",
+  "why": "Q2 mGov services"
+ }
+]

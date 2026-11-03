@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "linked",
+ "fact": "The Elections Commission issues photo voter cards from its own registration data, which does not originate from NIRA's national ID records, and the Commission itself reported more than 4,000 duplicated voter records.",
+ "title": "Elections Are About Data: Somalia's One Person, One Vote Dilemma",
+ "publisher": "Somali Stream",
+ "published": "2025-11-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

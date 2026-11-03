@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://wp1.inecnigeria.org/wp-content/uploads/INEC-Election-Technologies-Handbook.pdf",
+  "title": "Innovations in Electoral Technology 2015-2025",
+  "publisher": "INEC",
+  "published": "",
+  "sub_indicator": "dpi.registry--electoral-register",
+  "why": "Q2 IVED/CVR/BVAS in service"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202610/nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections",
+  "title": "Nigeria tests upgraded biometric voter system ahead of 2027 elections",
+  "publisher": "Biometric Update",
+  "published": "2026-10-28",
+  "sub_indicator": "dpi.registry--electoral-register",
+  "why": "Q2 BVAS matches voters to register"
+ },
+ {
+  "url": "https://nairametrics.com/2026/09/15/inec-integrates-nin-to-clean-voter-register-ahead-of-2027-elections/",
+  "title": "INEC integrates NIN to clean voter register",
+  "publisher": "Nairametrics",
+  "published": "2026-09-15",
+  "sub_indicator": "dpi.registry--electoral-register",
+  "why": "Q4 NIN integrated"
+ },
+ {
+  "url": "https://punchng.com/how-to-check-your-name-on-inecs-voters-register-online/",
+  "title": "How to check your name on INEC's voters register online",
+  "publisher": "Punch",
+  "published": "2026-10-26",
+  "sub_indicator": "dpi.registry--electoral-register",
+  "why": "Q3 preliminary register online"
+ },
+ {
+  "url": "https://www.thisdaylive.com/2026/10/31/inec-receives-5400-claims-objections-to-voter-register-targets-december-15-for-clean-up/",
+  "title": "INEC Receives 5400 Claims, Objections to Voter Register",
+  "publisher": "ThisDay",
+  "published": "2026-10-31",
+  "sub_indicator": "dpi.registry--electoral-register",
+  "why": "Q3 claims and objections"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202610/nigerias-abis-cleans-electoral-roll-as-pvc-collection-begins",
+  "title": "Nigeria's ABIS cleans electoral roll as PVC collection begins",
+  "publisher": "Biometric Update",
+  "published": "2026-10-09",
+  "sub_indicator": "dpi.registry--electoral-register",
+  "why": "Q2 ABIS cleanup, 103m voters"
+ },
+ {
+  "url": "https://wp1.inecnigeria.org/display-of-preliminary-register-of-voters-for-claims-and-objections-nationwide/",
+  "title": "Display of Preliminary Register of Voters for Claims and Objections Nationwide",
+  "publisher": "INEC",
+  "published": "2025-12-15",
+  "sub_indicator": "dpi.registry--electoral-register",
+  "why": "Q3 display"
+ },
+ {
+  "url": "https://thenationonlineng.net/six-months-to-presidential-poll-inec-raises-preparation-tempo/",
+  "title": "Six months to presidential poll: INEC raises preparation tempo",
+  "publisher": "The Nation",
+  "published": "2026-07-17",
+  "sub_indicator": "dpi.registry--electoral-register",
+  "why": "Q1/Q2 CVR via phones"
+ }
+]

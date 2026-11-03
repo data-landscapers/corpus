@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;usage",
+ "fact": "The National e-Government Portal had 92 digitised services, over 899,394 logins in the past year and over 1.4 million registered users (April 2024).",
+ "title": "Government accelerates programme to connect citizens to internet",
+ "publisher": "SAnews",
+ "published": "2024-04-05",
+ "date_source": "source",
+ "why_not": ""
+}

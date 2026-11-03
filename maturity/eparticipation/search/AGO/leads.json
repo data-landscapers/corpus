@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.consultapublica.gov.ao/",
+  "title": "Portal de Consulta Pública",
+  "publisher": "Instituto de Modernização Administrativa",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q2 standing portal"
+ },
+ {
+  "url": "https://www.consultapublica.gov.ao/consulta/100021",
+  "title": "Projecto de Revisão da Lei n.º 22/11 - Lei de Protecção de Dados Pessoais",
+  "publisher": "Agência de Protecção de Dados",
+  "published": "2025-03-17",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 named draft online 17 Mar-17 Apr 2025"
+ },
+ {
+  "url": "https://consultapublica.inacom.gov.ao/",
+  "title": "Portal de Consulta Pública do INACOM",
+  "publisher": "INACOM",
+  "published": "2026-04-14",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q2/Q3 regulator portal"
+ },
+ {
+  "url": "https://inacom.gov.ao/consulta-publica/",
+  "title": "INACOM Consulta Pública",
+  "publisher": "INACOM",
+  "published": "2025-01-30",
+  "sub_indicator": "eparticipation",
+  "why": "Q2"
+ },
+ {
+  "url": "https://consultapublica.minttics.gov.ao/",
+  "title": "Consulta Pública do MINTTICS",
+  "publisher": "MINTTICS",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q2"
+ },
+ {
+  "url": "https://www.cmc.ao/pt-pt/projectos-em-consulta-publica",
+  "title": "Projectos em Consulta Pública",
+  "publisher": "Comissão do Mercado de Capitais",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q2"
+ }
+]

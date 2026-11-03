@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://theconversation.com/biometrie-electorale-a-madagascar-pourquoi-la-technologie-ne-suffit-pas-a-produire-la-confiance-284587",
+  "title": "Biométrie électorale à Madagascar: pourquoi la technologie ne suffit pas à produire la confiance",
+  "publisher": "The Conversation",
+  "published": "2026-06-12",
+  "sub_indicator": "electoral",
+  "why": "Q1 biometric register overhaul"
+ },
+ {
+  "url": "https://newsmada.com/2026/10/24/liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-terrain/",
+  "title": "Liste électorale biométrique: la Ceni et ses partenaires préparent le terrain",
+  "publisher": "Newsmada",
+  "published": "2026-10-24",
+  "sub_indicator": "electoral",
+  "why": "Q1 equipment for biometric list"
+ },
+ {
+  "url": "https://www.lexpress.mg/2026/07/refonte-de-la-liste-electorale-la-ceni.html",
+  "title": "REFONTE DE LA LISTE ÉLECTORALE - La Ceni veut inscrire quatorze millions d'électeurs",
+  "publisher": "L'Express de Madagascar",
+  "published": "2026-07-07",
+  "sub_indicator": "electoral",
+  "why": "Q2 alphanumeric roll, online enrolment"
+ },
+ {
+  "url": "https://fr.allafrica.com/stories/202608050202.html",
+  "title": "Élections - La digitalisation de la liste électorale reste en suspens",
+  "publisher": "allAfrica / L'Express",
+  "published": "2026-08-05",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4 digitisation, ID cross-check"
+ },
+ {
+  "url": "https://digigasy.com/2026/09/22/la-ceni-ouvre-linscription-electorale-en-ligne/",
+  "title": "La CENI ouvre l'inscription électorale en ligne",
+  "publisher": "Digigasy",
+  "published": "2026-09-22",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4 online registration with CIN"
+ },
+ {
+  "url": "https://newsmada.com/2025/03/28/liste-electorale-les-citoyens-disposent-de-20-jours-pour-verifier-leur-inscription/",
+  "title": "Liste électorale: les citoyens disposent de 20 jours pour vérifier leur inscription",
+  "publisher": "Newsmada",
+  "published": "2025-03-28",
+  "sub_indicator": "electoral",
+  "why": "Q3 voters check roll"
+ },
+ {
+  "url": "https://www.ceni-madagascar.mg/wp-content/uploads/2025/01/RAPPORT-DES-ACTIVITES-2025-DE-LA-CENI.pdf",
+  "title": "Rapport des activités 2025 de la CENI",
+  "publisher": "CENI",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q1-Q3 RALE, biometric switch, provisional list"
+ },
+ {
+  "url": "https://www.undp.org/fr/madagascar/communiques/madagascar-le-pnud-et-le-gouvernement-du-japon-renforcent-les-capacites-de-la-ceni-et-des-radios-communautaires-pour-une",
+  "title": "PNUD et Japon renforcent les capacités de la CENI",
+  "publisher": "UNDP Madagascar",
+  "published": "2026-10-23",
+  "sub_indicator": "electoral",
+  "why": "Q1 biometric infrastructure"
+ }
+]

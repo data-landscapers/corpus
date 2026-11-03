@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll",
+ "fact": "A June 2025 user manual describes the Portal Consular, through which consulates register voters abroad with biometric data directly into the DGAPE database via a web API.",
+ "title": "Recenseamento Eleitoral - Portal Consular",
+ "publisher": "NOSI / DGAPE",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

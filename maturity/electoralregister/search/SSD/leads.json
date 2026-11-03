@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://nec.gov.ss/press-statement-on-false-reports-about-voter-registration/",
+  "title": "Statement on False Reports about Voter Registration",
+  "publisher": "National Elections Commission",
+  "published": "2026-09-02",
+  "sub_indicator": "electoral",
+  "why": "No register yet; manual paper registration"
+ },
+ {
+  "url": "https://www.sudanspost.com/nec-rejects-biometrics-cites-low-literacy-in-voter-registration/",
+  "title": "NEC rejects biometrics, cites low literacy in voter registration",
+  "publisher": "Sudans Post",
+  "published": "2026-09-02",
+  "sub_indicator": "electoral",
+  "why": "Manual not biometric"
+ },
+ {
+  "url": "https://www.sudanspost.com/nec-turns-to-chiefs-to-verify-voters-without-national-ids/",
+  "title": "NEC turns to chiefs to verify voters without national IDs",
+  "publisher": "Sudans Post",
+  "published": "2026-10-12",
+  "sub_indicator": "electoral",
+  "why": "ID link for registration"
+ },
+ {
+  "url": "https://www.africa-press.net/south-sudan/all-news/nec-set-to-roll-out-civic-education-on-voter-registration",
+  "title": "NEC set to roll out civic education on voter registration",
+  "publisher": "Africa-Press",
+  "published": "2025-05-21",
+  "sub_indicator": "electoral",
+  "why": "Registration preparation"
+ },
+ {
+  "url": "https://www.idea.int/data-tools/data/country?country=211&database_theme=327",
+  "title": "Database result (country only)",
+  "publisher": "International IDEA",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "No technology, no online checks; undated"
+ }
+]

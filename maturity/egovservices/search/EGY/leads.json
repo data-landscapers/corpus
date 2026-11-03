@@ -1,0 +1,66 @@
+[
+ {
+  "url": "http://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/98928",
+  "title": "Achievements of the ICT sector in 2025",
+  "publisher": "Ministry of Communications and Information Technology",
+  "published": "2026-01-02",
+  "sub_indicator": "eservices",
+  "why": "Q1-2,4: 210 services, users, requests"
+ },
+ {
+  "url": "https://sis.gov.eg/en/media-center/news/communications-minister-egypt-to-offer-more-than-270-digital-government-services-by-end-2026/",
+  "title": "Communications Minister: Egypt to offer more than 270 digital government services by End-2026",
+  "publisher": "State Information Services",
+  "published": "2026-07-21",
+  "sub_indicator": "eservices",
+  "why": "Q2: 242 services"
+ },
+ {
+  "url": "https://egyptian-gazette.com/egypt/pm-madbouli-reviews-plan-to-accelerate-egypts-digital-transformation/",
+  "title": "PM Madbouli reviews plan to accelerate Egypt's digital transformation",
+  "publisher": "Egyptian Gazette",
+  "published": "2026-07-19",
+  "sub_indicator": "eservices",
+  "why": "Q3-4: 105 bodies linked, 20M transactions"
+ },
+ {
+  "url": "https://www.elwatannews.com/news/details/8381060",
+  "title": "مساعد وزير الاتصالات يكشف خطة تسهيل الخدمات",
+  "publisher": "الوطن",
+  "published": "2026-10-20",
+  "sub_indicator": "eservices",
+  "why": "Q4: 13.5M users"
+ },
+ {
+  "url": "https://enterpriseam.com/egypt/2026/08/02/your-guide-to-navigating-egypts-online-government-services/",
+  "title": "Your guide to navigating Egypt's online government services",
+  "publisher": "Enterprise",
+  "published": "2026-08-02",
+  "sub_indicator": "eservices",
+  "why": "Q3: single account via national ID"
+ },
+ {
+  "url": "https://www.idsc.gov.eg/News/details/19112",
+  "title": "معلومات الوزراء يستعرض تطور الخدمات الرقمية في مصر",
+  "publisher": "مركز المعلومات ودعم اتخاذ القرار",
+  "published": "2026-09-14",
+  "sub_indicator": "eservices",
+  "why": "Q4: usage"
+ },
+ {
+  "url": "https://see.news/digital-egypt-platform-now-offers-240-government-services-with-400-targeted-by-2030",
+  "title": "Digital Egypt Platform Now Offers 240+ Government Services",
+  "publisher": "See News",
+  "published": "2026-10-21",
+  "sub_indicator": "eservices",
+  "why": "Q2: 240 services"
+ },
+ {
+  "url": "https://www.dostor.org/5617697",
+  "title": "مصر الرقمية تقود أكبر موجة تحول حكومي",
+  "publisher": "الدستور",
+  "published": "2026-06-30",
+  "sub_indicator": "eservices",
+  "why": "Q4: 11.5M users"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "http://www.au.int/en/pressreleases/20221123/aueom-preliminary-statement-general-elections-equatorial-guinea-held-20",
+  "title": "AUEOM Preliminary Statement of General Elections in Equatorial Guinea",
+  "publisher": "African Union",
+  "published": "2022-11-23",
+  "sub_indicator": "electoral",
+  "why": "Register size and census process, no biometrics"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/entrega_del_censo_electoral_2022_al_presidente_de_la_republica",
+  "title": "Entrega del censo electoral 2022 al Presidente",
+  "publisher": "Guinea Ecuatorial Press (Gobierno)",
+  "published": "2022-08-31",
+  "sub_indicator": "electoral",
+  "why": "Census 11-23 July 2022, 427,661 registered"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/decreto_por_el_que_se_dispone_el_levantamiento_del_censo_electoral",
+  "title": "Decreto 34/2022 levantamiento del Censo Electoral",
+  "publisher": "Guinea Ecuatorial Press (Gobierno)",
+  "published": "2022-04-06",
+  "sub_indicator": "electoral",
+  "why": "Manual census ordered by decree"
+ },
+ {
+  "url": "https://www.radiomacuto.net/2022/06/02/la-paradoja-del-decreto-que-ordena-el-levantamiento-del-censo-electoral-2022/",
+  "title": "La paradoja del decreto que ordena el levantamiento del censo electoral 2022",
+  "publisher": "Radio Macuto",
+  "published": "2022-06-02",
+  "sub_indicator": "electoral",
+  "why": "Annual revision law vs new census"
+ },
+ {
+  "url": "https://medafricatimes.com/27993-equatorial-guinea-the-2022-electoral-census-delivered-to-the-president-of-the-republic.html",
+  "title": "Equatorial Guinea: the 2022 Electoral Census delivered to the President",
+  "publisher": "Medafrica Times",
+  "published": "2022-09-01",
+  "sub_indicator": "electoral",
+  "why": "Census results"
+ }
+]

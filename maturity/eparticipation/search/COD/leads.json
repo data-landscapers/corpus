@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.xtrafrica.com/news/grace-kutino-national-youth-consultations-2025",
+  "title": "Grace Kutino Launches National Youth Consultations",
+  "publisher": "XTR Africa",
+  "published": "2025-09-12",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 online consultation by ministry"
+ },
+ {
+  "url": "https://dialoguenational.cd/",
+  "title": "Dialogue national en RDC",
+  "publisher": "Présidence de la République",
+  "published": "2026-08",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q2 online contributions platform"
+ },
+ {
+  "url": "https://consultations.jeunesse.gouv.cd/",
+  "title": "Consultation des jeunes",
+  "publisher": "Ministère de la Jeunesse",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 online consultation platform"
+ },
+ {
+  "url": "https://www.icnl.org/resources/civic-freedom-monitor/democratic-republic-of-the-congo",
+  "title": "DRC Civic Freedom Monitor",
+  "publisher": "ICNL",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q4 no consultation framework"
+ },
+ {
+  "url": "https://www.opinion-info.cd/politique/2026/07/09/rdc-gouvernance-patrick-muyaya-salue-le-lancement-de-landila-un-outil-de-suivi",
+  "title": "Landila, outil de suivi citoyen",
+  "publisher": "Opinion Info",
+  "published": "2026-07-09",
+  "sub_indicator": "eparticipation",
+  "why": "Q2 citizen platform (non-government)"
+ },
+ {
+  "url": "https://medd.gouv.cd/rdc-la-ministre-de-lenvironnement-marie-nyange-ndambo-echange-avec-les-peuples-autochtones-et-populations-locales-pap-et-la-societe-civile-sur-le-projet-de-loi-carbone/",
+  "title": "Projet de loi carbone: concertation",
+  "publisher": "Ministère de l'Environnement",
+  "published": "2026-07-23",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 consultation (in person)"
+ },
+ {
+  "url": "https://www.sasastudio.net/rdc-kinshasa-accelere-la-revision-du-code-forestier-pour-adapter-la-loi-aux-nouveaux-enjeux/",
+  "title": "Révision du Code forestier",
+  "publisher": "SASA Studio",
+  "published": "2026-09-11",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 consultation (in person)"
+ },
+ {
+  "url": "https://www.primature.gouv.cd/2024/08/06/le-gouvernement-suminwa-en-phase-de-doter-le-pays-dun-nouveau-code-durbanisme-et-de-construction/",
+  "title": "Nouveau code d'urbanisme",
+  "publisher": "Primature",
+  "published": "2024-08-06",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 consultation (in person)"
+ }
+]

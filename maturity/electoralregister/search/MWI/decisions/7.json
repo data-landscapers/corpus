@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "linked",
+ "fact": "Section 12 of the Elections Act requires MEC to accept an NRB national ID or proof of registration as sole identification for voter registration; NRB deployed biometric kits at MEC centres.",
+ "title": "NRB deploys staff to some voter registration centres",
+ "publisher": "Nation Online",
+ "published": "2024-11-15",
+ "date_source": "source",
+ "why_not": ""
+}

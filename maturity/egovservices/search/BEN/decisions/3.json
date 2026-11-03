@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;usage",
+ "fact": "On 21 November 2024 the minister said over 200 e-services are available on service-public.bj, with over 1 million water bill payments, 500,000 criminal-record requests and 200,000 passport requests processed online.",
+ "title": "E-services publics au Bénin : ces chiffres qui témoignent d'une vision « salutaire et juste »",
+ "publisher": "Banouto",
+ "published": "2024-11-23",
+ "date_source": "source",
+ "why_not": ""
+}

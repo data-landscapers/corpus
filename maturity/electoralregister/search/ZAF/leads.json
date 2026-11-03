@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.elections.org.za/content/About-Us/News/Remarks-by-Chief-Electoral-Officer-Sy-Mamabolo-at-the-National-Pledge-Signing-of-the-Electoral-Code-of-Conduct-for-NPE-2024/",
+  "title": "Remarks by Chief Electoral Officer at National Pledge Signing, NPE 2024",
+  "publisher": "Electoral Commission of South Africa",
+  "published": "2024",
+  "sub_indicator": "electoral",
+  "why": "online registration portal since July 2021; roll certified"
+ },
+ {
+  "url": "https://www.elections.org.za/content/About-Us/News/Voters--roll-to-be-certified-for-2024-National-and-Provincial-Elections/",
+  "title": "Voters' roll to be certified for 2024 National and Provincial Elections",
+  "publisher": "Electoral Commission of South Africa",
+  "published": "2024",
+  "sub_indicator": "electoral",
+  "why": "provisional roll published for inspection 26 Feb 2024"
+ },
+ {
+  "url": "https://www.elections.org.za/pw/voter/How-Do-I-Register",
+  "title": "How do I register?",
+  "publisher": "Electoral Commission of South Africa",
+  "published": "2026",
+  "sub_indicator": "electoral",
+  "why": "online registration and status check channels"
+ },
+ {
+  "url": "https://www.elections.org.za/pw/voter/voter-registration-campaign",
+  "title": "Online Voter Registration Campaign 2023",
+  "publisher": "Electoral Commission of South Africa",
+  "published": "2023",
+  "sub_indicator": "electoral",
+  "why": "online registration, SMS check"
+ },
+ {
+  "url": "https://www.vukuzenzele.gov.za/how-check-where-you-are-registered-vote",
+  "title": "How to check where you are registered to vote",
+  "publisher": "Vuk'uzenzele",
+  "published": "2026",
+  "sub_indicator": "electoral",
+  "why": "status check by SMS/online, 2026"
+ },
+ {
+  "url": "https://reported.co.za/check-voter-registration-voting-station-4-november-2026-local-elections/",
+  "title": "Voting on 4 November? Check your station now",
+  "publisher": "REPORTED",
+  "published": "2026-10-24",
+  "sub_indicator": "electoral",
+  "why": "check by SMS/WhatsApp; roll closed 7 Aug 2026"
+ },
+ {
+  "url": "https://www.elections.org.za/content/About-Us/News/Electoral-Commission-ready-for-successful-Special-Voting-and-Election-Days-2-to-4-November-2026/",
+  "title": "Electoral Commission ready for successful Special Voting and Election Days",
+  "publisher": "Electoral Commission of South Africa",
+  "published": "2026-11-02",
+  "sub_indicator": "electoral",
+  "why": "roll lookup channels"
+ },
+ {
+  "url": "https://pmg.org.za/committee-meeting/32289/",
+  "title": "Electoral Laws Amendment Bill: IEC response to written submissions",
+  "publisher": "PMG",
+  "published": "2021-02-17",
+  "sub_indicator": "electoral",
+  "why": "roll checked against National Population Register"
+ }
+]

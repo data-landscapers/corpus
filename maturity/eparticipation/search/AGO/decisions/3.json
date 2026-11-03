@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eparticipation",
+ "aspect": "online",
+ "fact": "INACOM runs a consultation portal inviting comment on draft instruments, including the proposed Plano Nacional de Frequências 2024-2027 (posted 28-11-2025) and an instrutivo on counterfeit devices (posted 14-04-2026).",
+ "title": "Portal de Consulta Pública do INACOM",
+ "publisher": "Instituto Angolano das Comunicações",
+ "published": "2026-04-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

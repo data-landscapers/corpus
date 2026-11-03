@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://managers.tn/2026/06/30/tunisie-plus-de-3-000-demarches-administratives-seront-disponibles-en-ligne-a-partir-de-cette-date/",
+  "title": "Tunisie: plus de 3 000 démarches administratives seront disponibles en ligne",
+  "publisher": "Managers",
+  "published": "2026-06-30",
+  "sub_indicator": "eservices",
+  "why": "Dalil national procedures platform, 3,197 procedures (q2,q4)"
+ },
+ {
+  "url": "https://www.pm.gov.tn/ar/decision-gouvernementale/tqdwm-anjaz-mshary-althwwl-alrwqmy-lladart-mhwr-mjls-wzary-bashraf-ryyst",
+  "title": "Ministerial council on progress of administration digital transformation",
+  "publisher": "Présidence du Gouvernement",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Unified portal and projects completed to end 2025 (q2,q3)"
+ },
+ {
+  "url": "https://services.gov.tn/aide-a-lutilisation-du-portail/",
+  "title": "Aide à l'utilisation du portail",
+  "publisher": "Portail national des services administratifs",
+  "published": "2025-02-05",
+  "sub_indicator": "eservices",
+  "why": "National portal, sign-in by mobile ID (q4)"
+ },
+ {
+  "url": "https://khadamet.gov.tn/",
+  "title": "البوابة الوطنية للخدمات الإدارية",
+  "publisher": "Présidence du Gouvernement",
+  "published": "2024-11-26",
+  "sub_indicator": "eservices",
+  "why": "Unified portal with mobile digital identity (q4)"
+ },
+ {
+  "url": "https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf",
+  "title": "Tunisia: Accelerating Impact, Digital Identity Use Cases",
+  "publisher": "ID4Africa",
+  "published": "2024-05",
+  "sub_indicator": "eservices",
+  "why": "Mobile ID services via e-bawaba (q3,q4)"
+ },
+ {
+  "url": "https://www.mtc.gov.tn/index.php?cHash=22b1df2f2f2c2bfa8e74e6ecd7d77539&id=119&tx_ttnews=4745",
+  "title": "الحصول على الهوية الرقمية للتونسيين بالخارج",
+  "publisher": "Ministère des technologies de la communication",
+  "published": "2024-02-10",
+  "sub_indicator": "eservices",
+  "why": "Mobile ID for citizens abroad, services; registrations (q4,q5)"
+ },
+ {
+  "url": "https://www.mtc.gov.tn/index.php?L=2++%27%2F&cHash=c557ac05f73b1f2ea78ac9e318358282&id=119&tx_ttnews=4832",
+  "title": "e-people.gov.tn actualités",
+  "publisher": "Ministère des technologies de la communication",
+  "published": "2024-06-14",
+  "sub_indicator": "eservices",
+  "why": "e-Citoyen portal joins mobile ID sign-in (q4)"
+ },
+ {
+  "url": "https://arp.tn/blog/1/post/8172",
+  "title": "لجنة تنظيم الإدارة تعقد جلسة استماع حول الإدارة الإلكترونية",
+  "publisher": "Assemblée des représentants du peuple",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "18% use remote services, 13% hold digital ID (q5)"
+ }
+]

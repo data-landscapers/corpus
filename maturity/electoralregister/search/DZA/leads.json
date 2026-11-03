@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.horizons.dz/2026/04/elections-legislatives-lanie-mise-sur-le-numerique-pour-garantir-la-transparence/",
+  "title": "Élections législatives: L'ANIE mise sur le numérique pour garantir la transparence",
+  "publisher": "Horizons",
+  "published": "2026-04-16",
+  "sub_indicator": "electoral",
+  "why": "Q2-3: online e-services portal for registration, electorate figures"
+ },
+ {
+  "url": "https://ouest-tribune.dz/processus-electoral-lanie-enclenche-la-mutation-numerique-a-oran/",
+  "title": "Processus électoral : l'ANIE enclenche la mutation numérique à Oran",
+  "publisher": "Ouest Tribune",
+  "published": "2025-10-28",
+  "sub_indicator": "electoral",
+  "why": "Q2-3: digital platform for roll revision, citizens check status online"
+ },
+ {
+  "url": "https://www.aps.dz/fr/algerie/actualite-nationale/mhca5buv-l-anie-invite-les-citoyens-a-acceder-a-son-site-electronique-pour-s-assurer-de-leur-inscription",
+  "title": "L'ANIE invite les citoyens à accéder à son site électronique pour s'assurer de leur inscription",
+  "publisher": "Algérie Presse Service",
+  "published": "2025-10-29",
+  "sub_indicator": "electoral",
+  "why": "Q3: citizens check registration online"
+ },
+ {
+  "url": "https://www.lexpressquotidien.dz/2026/05/19/revision-exceptionnelle-des-listes-electorales-plus-de-247-millions-dinscrits/",
+  "title": "Révision exceptionnelle des listes électorales: Plus de 24,7 millions d'inscrits",
+  "publisher": "L'Express Algérie",
+  "published": "2026-05-19",
+  "sub_indicator": "electoral",
+  "why": "Q2-3: roll size and revision results"
+ },
+ {
+  "url": "https://elwatan.dz/sayoud-a-presente-hier-le-texte-sur-le-regime-electoral-adoption-aujourdhui-du-projet-au-senat/",
+  "title": "Sayoud a présenté, hier, le texte sur le régime électoral",
+  "publisher": "El Watan",
+  "published": "2026-04-02",
+  "sub_indicator": "electoral",
+  "why": "Q4: single national voter identifier in electoral law amendment"
+ },
+ {
+  "url": "https://al24news.dz/en/algerias-presidential-elections-2024-anie-announces-measures-to-facilitate-the-voting-process/",
+  "title": "Algeria's Presidential Elections 2024: ANIE announces measures to facilitate the voting process",
+  "publisher": "AL24 News",
+  "published": "2024-09-07",
+  "sub_indicator": "electoral",
+  "why": "Q3: online 'Where do I vote' roll check using NIN"
+ },
+ {
+  "url": "https://www.lexpressquotidien.dz/2023/12/07/charfi-affirme-une-parfaite-maitrise-du-fichier-electoral/",
+  "title": "Charfi affirme une parfaite maîtrise du fichier électoral",
+  "publisher": "L'Express Algérie",
+  "published": "2023-12-07",
+  "sub_indicator": "electoral",
+  "why": "Q2: digitised registration, duplicates removed 2021-2023"
+ },
+ {
+  "url": "https://www.lejourdalgerie.com/charfi-annonce-le-plan-de-developpement-strategique-de-lanie-2022-2024-la-revision-exceptionnelle-des-listes-electorales-entamee/",
+  "title": "Charfi annonce le plan de développement stratégique de l'ANIE 2022-2024",
+  "publisher": "Le Jour d'Algérie",
+  "published": "2024-06-12",
+  "sub_indicator": "electoral",
+  "why": "Q2: national voter file digitised in 2019"
+ }
+]

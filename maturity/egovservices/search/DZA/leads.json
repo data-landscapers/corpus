@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lechodalgerie.dz/transformation-numerique-des-services-publics-le-portail-national-passera-de-21-a-350-services-dici-2028/",
+  "title": "Transformation numérique des services publics: Le portail national passera de 21 à 350 services d'ici 2028",
+  "publisher": "L'Echo d'Algérie",
+  "published": "2026-07-11",
+  "sub_indicator": "eservices",
+  "why": "Q1-3: national portal live with 21 services, single digital identity"
+ },
+ {
+  "url": "https://lesenjeuxeco.dz/lancement-du-portail-national-des-services-numeriques-la-e-gouvernance-en-marche/",
+  "title": "Lancement du portail national des services numériques: La e-gouvernance en marche",
+  "publisher": "Les Enjeux Eco",
+  "published": "2026-07-14",
+  "sub_indicator": "eservices",
+  "why": "Q1-3: 21 services, several ministries, NIN-based digital identity"
+ },
+ {
+  "url": "https://www.algerie360.com/acte-de-naissance-fiche-familiale-la-plateforme-dzds-dz-simplifie-le-quotidien-des-algeriens/",
+  "title": "Acte de naissance, fiche familiale... la plateforme dzds.dz simplifie le quotidien des Algériens",
+  "publisher": "Algerie360",
+  "published": "2026-07-10",
+  "sub_indicator": "eservices",
+  "why": "Q1-3: unified platform, services across ministries"
+ },
+ {
+  "url": "https://lalgerieaujourdhui.dz/dzair-digital-services-mode-demploi/",
+  "title": "DZaïr Digital Services : mode d'emploi",
+  "publisher": "L'Algérie Aujourd'hui",
+  "published": "2026-07-11",
+  "sub_indicator": "eservices",
+  "why": "Q1-3: launch 5 July 2026, 52 services announced, single sign-on"
+ },
+ {
+  "url": "https://www.annasronline.com/%D8%A7%D9%84%D8%AD%D8%AF%D8%AB/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/273909-%D8%A7%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%B6%D9%85-%D9%81%D9%8A-%D9%85%D8%B1%D8%AD%D9%84%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-21-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3-%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A7",
+  "title": "البوابة الوطنية للخدمات الرقمية تضم في مرحلتها الأولى 21 خدمة",
+  "publisher": "Annasr",
+  "published": "2026-07-10",
+  "sub_indicator": "eservices",
+  "why": "Q1-3 Arabic: 21 services, single authentication"
+ },
+ {
+  "url": "https://djazairess.com/elmassa/260371",
+  "title": "جزايرس : 51خدمة عمومية رقمية ضمن البوابة التفاعلية",
+  "publisher": "El Massa",
+  "published": "2025-10-19",
+  "sub_indicator": "eservices",
+  "why": "Q1-2: 51 digital services planned for first phase of portal"
+ },
+ {
+  "url": "https://algerie54.dz/lancement-prochain-de-la-plateforme-nationale-des-services-numeriques",
+  "title": "Lancement prochain de la plateforme nationale des services numériques",
+  "publisher": "Algérie 54",
+  "published": "2025-10-15",
+  "sub_indicator": "eservices",
+  "why": "Q1-2: portal announced, data exchange begins"
+ },
+ {
+  "url": "https://www.telecomreviewafrica.com/articles/reports-and-coverage/4665-75-of-algeria-s-digital-projects-to-focus-on-modernizing-public-services/",
+  "title": "75% of Algeria's Digital Projects to Focus on Modernizing Public Services",
+  "publisher": "Telecom Review Africa",
+  "published": "2025-01-07",
+  "sub_indicator": "eservices",
+  "why": "Q1-2: planned interactive portal; Bawabatak; EGDI 2024"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "gateway;services",
+ "fact": "The government launched the Government Service Directory, a single gateway carrying 9,777 services of 554 public institutions.",
+ "title": "New system brings 9,777 govt services under one roof",
+ "publisher": "Daily News",
+ "published": "2026-06-24",
+ "date_source": "source",
+ "why_not": ""
+}

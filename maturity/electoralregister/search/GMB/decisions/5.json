@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;checked",
+ "fact": "Gambia Participates reported biometric registration equipment in use in the April-May 2026 supplementary registration and that the IEC gave parties the provisional list but did not publish it online.",
+ "title": "Observation Report - 2026 Supplementary Voter Registration",
+ "publisher": "Gambia Participates",
+ "published": "2026-10-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

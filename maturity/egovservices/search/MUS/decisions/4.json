@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "usage",
+ "fact": "As of 1 June 2025, 300,000 people had registered on MauPass and 8,000 had made their NLTA declaration online.",
+ "title": "Au 1er juin 2025, 300 000 personnes se sont enregistrées sur MauPass",
+ "publisher": "Top FM Mauritius",
+ "published": "2025-07-03",
+ "date_source": "source",
+ "why_not": ""
+}

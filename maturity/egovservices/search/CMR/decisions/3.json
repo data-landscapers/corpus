@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "The DGI's registrations.dgi.cm, reported 15 August 2026, runs on the same Harmony single sign-on as the NIU portal and ATOM; of 120+ deed types only 3 public-procurement acts are operational.",
+ "title": "registrations.dgi.cm : enregistrer un acte en ligne",
+ "publisher": "LeFisk",
+ "published": "2026-08-15",
+ "date_source": "source",
+ "why_not": ""
+}

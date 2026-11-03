@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/",
+  "title": "Bénin : comment fonctionne le portail numérique des services publics ?",
+  "publisher": "Nasuba",
+  "published": "2026-11-02",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q4: 131 e-services, 2.5M requests, account sign-in"
+ },
+ {
+  "url": "https://africa24tv.com/benin-services-publics-75-de-documents-publics-delivres-en-ligne/",
+  "title": "Bénin - Services publics : 75% de documents publics délivrés en ligne",
+  "publisher": "Africa24 TV",
+  "published": "2026-03-28",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q4: 250+ démarches, 10.5M documents, 75% online"
+ },
+ {
+  "url": "https://www.banouto.bj/societe/article/20241123-e-services-publics-au-benin-ces-chiffres-qui-temoignent-d-une-vision-salutaire-et-juste",
+  "title": "E-services publics au Bénin : ces chiffres",
+  "publisher": "Banouto",
+  "published": "2024-11-23",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q4: 200+ e-services, usage figures from minister"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms",
+  "title": "Benin reports 75% of identification services accessed through digital platforms",
+  "publisher": "Biometric Update",
+  "published": "2026-02-02",
+  "sub_indicator": "eservices",
+  "why": "Q3/Q4: ANIP services via government portal, usage shares"
+ },
+ {
+  "url": "https://investinestonia.com/estonian-firm-to-further-modernise-benins-government-infrastructure/",
+  "title": "Estonian firm to further modernise Benin's government infrastructure",
+  "publisher": "Invest in Estonia",
+  "published": "2025-03-04",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q3: 270 services, 50 institutions on national portal"
+ },
+ {
+  "url": "https://www.elibrary.imf.org/view/journals/002/2024/339/article-A002-en.xml",
+  "title": "Benin: Digital Transformation to Foster Inclusive Growth",
+  "publisher": "IMF",
+  "published": "2024-12-13",
+  "sub_indicator": "eservices",
+  "why": "Q2: over 560 digitalized services on national portal"
+ },
+ {
+  "url": "https://cyber.ee/resources/case-studies/benin/",
+  "title": "UXP-based public services in Benin",
+  "publisher": "Cybernetica",
+  "published": "2021-08-05",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q3: 270 digital services via citizen portal as of 2024"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;checked",
+ "fact": "The IEC hired an independent auditor to audit the voters' roll and registration systems, and was preparing to display the roll publicly so voters can check their details and lodge corrections.",
+ "title": "IEC orders three-tier audit of voters' roll",
+ "publisher": "Lesotho Times",
+ "published": "2026-09-25",
+ "date_source": "source",
+ "why_not": ""
+}

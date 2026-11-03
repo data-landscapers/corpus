@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;linked",
+ "fact": "The IEC said it began re-registering voters on 1 August 2024 using national identity cards as the sole form of identification.",
+ "title": "IEC working to maintain clean voters' roll",
+ "publisher": "The Reporter Lesotho",
+ "published": "2024-11-27",
+ "date_source": "source",
+ "why_not": ""
+}

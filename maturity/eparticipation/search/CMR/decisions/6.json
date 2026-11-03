@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eparticipation",
+ "aspect": "online;required",
+ "fact": "The CCAA's DASIS 'Rulemaking Process' interface posts notices of proposed regulations for public comment, under CCAA Instruction No. 002 of 13 March 2018 requiring user and industry consultation.",
+ "title": "Aviation safety: CCAA integrates a new communication interface with users and the industry on DASIS",
+ "publisher": "CCAA",
+ "published": "2021-04-30",
+ "date_source": "source",
+ "why_not": ""
+}

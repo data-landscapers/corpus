@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "linked",
+ "fact": "Law No. 28 of 2023 requires voters to hold a national number and requires the register to be audited with the Public Prosecutor and the Civil Status Authority (Art. 8, 11, 84).",
+ "title": "قانون رقم (28) لسنة 2023 م بشأن انتخاب رئيس الدولة",
+ "publisher": "مجلس النواب الليبي",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m",
+  "title": "Zamportal revenue crosses $500m mark",
+  "publisher": "ITWeb Africa",
+  "published": "2026-10-01",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q4: 572 services, 1.17m customers"
+ },
+ {
+  "url": "https://zambianeconomist.com/musokotwane-government-ict-digital-state-572-services/",
+  "title": "Musokotwane: 572 Govt Services Online, K9.78bn Collected",
+  "publisher": "The Zambian Economist",
+  "published": "2026-10-01",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q4: counts and usage"
+ },
+ {
+  "url": "https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/",
+  "title": "Director Sibulowa Introduces the GSB",
+  "publisher": "ZamPortal",
+  "published": "2024-09-11",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q4: 322 services, 3.7m transactions"
+ },
+ {
+  "url": "https://zamgov.gsb.gov.zm/docs/ZamGov%20User%20Manual.pdf",
+  "title": "ZamMobile user manual",
+  "publisher": "Smart Zambia Institute",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Q3: ZamPass sign-in, NRC KYC"
+ },
+ {
+  "url": "https://zamportal.gov.zm/about-zamportal/",
+  "title": "About Us - ZamPortal",
+  "publisher": "ZamPortal",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q3: one-stop portal"
+ }
+]

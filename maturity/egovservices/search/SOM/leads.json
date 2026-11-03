@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202610/somalia-plans-unified-digital-government-platform-built-around-national-id",
+  "title": "Somalia plans unified digital government platform built around national ID",
+  "publisher": "Biometric Update",
+  "published": "2026-10-19",
+  "sub_indicator": "eservices",
+  "why": "single portal with national ID credential"
+ },
+ {
+  "url": "https://xidig.net/reports/somalia-e-government-services",
+  "title": "Government services online in Somalia: what exists and what is planned",
+  "publisher": "Xidig",
+  "published": "2026-09-29",
+  "sub_indicator": "eservices",
+  "why": "what services are online"
+ },
+ {
+  "url": "https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx",
+  "title": "Somalia's eAqoonsi app shows progress, gaps in DPI push",
+  "publisher": "Hiiraan Online",
+  "published": "2026-04-24",
+  "sub_indicator": "eservices",
+  "why": "national ID app, users"
+ },
+ {
+  "url": "https://horseedmedia.net/somalia-digitizes-public-service-delivery/421013/",
+  "title": "Somalia digitizes public service delivery",
+  "publisher": "Horseed Media",
+  "published": "2026-04-24",
+  "sub_indicator": "eservices",
+  "why": "Halmeel unified services center"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202604/somalia-urged-to-make-access-to-eaqoonsi-digital-id-app-more-inclusive",
+  "title": "Somalia urged to make access to eAqoonsi digital ID app more inclusive",
+  "publisher": "Biometric Update",
+  "published": "2026-04-28",
+  "sub_indicator": "eservices",
+  "why": "shared ID sign-in, app access"
+ },
+ {
+  "url": "https://blogs.worldbank.org/en/nasikiliza/federal-republic-of-somalia-launches-mass-registration-drive-for-its-digital-id",
+  "title": "Federal Republic of Somalia launches mass registration drive for its Digital ID",
+  "publisher": "World Bank",
+  "published": "2025-09-17",
+  "sub_indicator": "eservices",
+  "why": "digital ID for online services"
+ },
+ {
+  "url": "https://somalia.iom.int/news/somalia-launches-national-job-portal-address-unemployment-and-boost-economic-growth",
+  "title": "Somalia Launches National Job Portal",
+  "publisher": "IOM Somalia",
+  "published": "2025-03-15",
+  "sub_indicator": "eservices",
+  "why": "online service launched"
+ },
+ {
+  "url": "https://moct.gov.so/en/wp-content/uploads/2025/08/eGovernment-Strategy-2025-2029.pdf",
+  "title": "eGovernment Strategy 2025-2029",
+  "publisher": "Ministry of Communications and Technology",
+  "published": "2025",
+  "sub_indicator": "eservices",
+  "why": "national portal plan and status"
+ }
+]

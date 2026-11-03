@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "gateway",
+ "fact": "Côte d'Ivoire launched the MaPoste app as a single digital entry point to public services, with a digital postbox linked to each citizen's National Identification Number and mandatory use from 1 March 2026.",
+ "title": "Côte d’Ivoire launches MaPoste, a national app for digital public services",
+ "publisher": "TechGriot",
+ "published": "2026-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

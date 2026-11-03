@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;checked;linked",
+ "fact": "The Commission reports the National Voters Register was displayed 25 April to 15 May 2025 for voters to verify their particulars, was accessible online, and was extracted from the national database, with a final register of 21,649,067 voters.",
+ "title": "Report on the 2025/2026 General Elections",
+ "publisher": "Electoral Commission",
+ "published": "2026-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

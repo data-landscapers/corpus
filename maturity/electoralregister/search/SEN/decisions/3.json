@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "checked",
+ "fact": "The CENA warned that the electoral file on its website, open for voters to check their registration, had not yet been updated for the 2024 presidential election.",
+ "title": "Mise en garde de la CENA concernant la vérification de l'inscription sur le fichier électoral",
+ "publisher": "RTS",
+ "published": "2024-01-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.lexpress.mg/2026/04/administration-mise-en-place-dun.html",
+  "title": "ADMINISTRATION - Mise en place d'un guichet unique en ligne",
+  "publisher": "L'Express de Madagascar",
+  "published": "2026-04-29",
+  "sub_indicator": "eservices",
+  "why": "Q3 single gateway via Rahaka, ID sign-in"
+ },
+ {
+  "url": "https://fr.linkedin.com/posts/ugd-mg_ugd-rahaka-leadershippublic-activity-7455322673666117633-d1rT",
+  "title": "RAHAKA: une nouvelle étape pour l'interopérabilité des services publics",
+  "publisher": "Unité de Gouvernance Digitale",
+  "published": "2026-04-29",
+  "sub_indicator": "eservices",
+  "why": "Q3 national interoperability platform launch"
+ },
+ {
+  "url": "https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter",
+  "title": "Show the Thing 9: Madagascar - Public Services One-Stop Counter",
+  "publisher": "Public Digital",
+  "published": "2024-02-16",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q4 Torolalana portal, Mahatoky pilot usage"
+ },
+ {
+  "url": "https://e-governancehub.ru/wp-content/uploads/2025/07/E-Governance-in-Madagascar-2025.pdf",
+  "title": "E-GOVERNANCE IN MADAGASCAR 2025",
+  "publisher": "e-Governance Hub",
+  "published": "2025",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q2 Torolalana 41 services, few fully online"
+ },
+ {
+  "url": "https://github.com/digital-gov-mg/torolalana-portal-releases",
+  "title": "Torolalana - Le portail unique de Madagascar",
+  "publisher": "digital-gov-mg",
+  "published": "2024-05-15",
+  "sub_indicator": "eservices",
+  "why": "Q1 Torolalana v2.0.0 transactional May 2024"
+ }
+]

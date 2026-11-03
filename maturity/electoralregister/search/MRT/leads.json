@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ifes.org/tools-resources/election-snapshots/elections-mauritania-2024-presidential-elections",
+  "title": "Elections in Mauritania: 2024 Presidential Elections",
+  "publisher": "IFES",
+  "published": "2024-05-29",
+  "sub_indicator": "electoral",
+  "why": "Q2 biometric ID card based register, 2023 RAVEL, 2024 revision"
+ },
+ {
+  "url": "https://au.int/sites/default/files/documents/44061-doc-Rapport_final_Election_Presidentielle_-_Mauritanie_2024.pdf",
+  "title": "Rapport de la Mission d'Observation Électorale de l'UA - Présidentielle 2024",
+  "publisher": "Union africaine",
+  "published": "2024-07-01",
+  "sub_indicator": "electoral",
+  "why": "Q2 FEN updated"
+ },
+ {
+  "url": "https://ami.mr/fr/archives/243831",
+  "title": "Lancement de la révision extraordinaire de la liste électorale en vue de la présidentielle de 2024",
+  "publisher": "Agence mauritanienne d'information",
+  "published": "2024-04-15",
+  "sub_indicator": "electoral",
+  "why": "Q3 remote registration"
+ },
+ {
+  "url": "https://www.ami.mr/archives/159460",
+  "title": "اللجنة الوطنية المستقلة للانتخابات تحدد آخر أجل للطعن في اللائحة الانتخابية",
+  "publisher": "الوكالة الموريتانية للأنباء",
+  "published": "2023-04-25",
+  "sub_indicator": "electoral",
+  "why": "Q3 roll published online for check/challenge"
+ },
+ {
+  "url": "https://ami.mr/fr/archives/215471",
+  "title": "Le président de la CENI supervise le lancement officiel du RAVEL",
+  "publisher": "Agence mauritanienne d'information",
+  "published": "2023-01-28",
+  "sub_indicator": "electoral",
+  "why": "Q2 new register"
+ },
+ {
+  "url": "https://ami.mr/fr/archives/213072",
+  "title": "Au Conseil des Ministres: Projet de décret fixant les modalités d'organisation du RAVEL",
+  "publisher": "Agence mauritanienne d'information",
+  "published": "2022-12-21",
+  "sub_indicator": "electoral",
+  "why": "Q4 ID holders, new file"
+ },
+ {
+  "url": "https://www.ifes.org/sites/default/files/2023-05/IFES%20FAQs%20Mauritania%202023_FINAL.pdf",
+  "title": "IFES 2023 Mauritania Election FAQs",
+  "publisher": "IFES",
+  "published": "2023-05",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4 RAVEL, biometric ID"
+ },
+ {
+  "url": "https://ami.mr/fr/archives/218119",
+  "title": "La CENI décide d'achever le RAVEL",
+  "publisher": "Agence mauritanienne d'information",
+  "published": "2023-03-14",
+  "sub_indicator": "electoral",
+  "why": "Q2 RAVEL dates"
+ }
+]

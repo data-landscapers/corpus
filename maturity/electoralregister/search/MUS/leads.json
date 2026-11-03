@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://electoral.govmu.org/oec/wp-content/uploads/2026/05/Communique-Enregistrement-des-electeurs.pdf",
+  "title": "Communiqué: Enregistrement des Electeurs, 2026",
+  "publisher": "Bureau du Commissaire Electoral",
+  "published": "2026",
+  "sub_indicator": "electoral",
+  "why": "Q3 roll checkable online, SMS, centres with NIC number"
+ },
+ {
+  "url": "https://electoral.govmu.org/oec/wp-content/uploads/2026/01/Communique-Canvass-2026.pdf",
+  "title": "Communiqué: Recensement des électeurs, 2026",
+  "publisher": "Bureau du Commissaire Electoral",
+  "published": "2026-01-26",
+  "sub_indicator": "electoral",
+  "why": "Q1/Q2 house-to-house canvass (by hand)"
+ },
+ {
+  "url": "https://electoral.govmu.org/oec/?page_id=8737",
+  "title": "Register of Electors 2026",
+  "publisher": "Office of the Electoral Commissioner",
+  "published": "2026",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q3 register published"
+ },
+ {
+  "url": "https://defimedia.info/liste-electorale-plus-que-quelques-jours-pour-verifier-et-sinscrire",
+  "title": "Liste électorale : plus que quelques jours pour vérifier et s'inscrire",
+  "publisher": "Defi Media Group",
+  "published": "2024-05-21",
+  "sub_indicator": "electoral",
+  "why": "Q3 check online, SMS, centres"
+ },
+ {
+  "url": "https://electoral.govmu.org/oec/?page_id=661",
+  "title": "Compilation of Register of Electors",
+  "publisher": "Office of the Electoral Commissioner",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q1/Q3/Q4 how register compiled"
+ },
+ {
+  "url": "https://www.idea.int/node/156910",
+  "title": "ICTs in Elections Database: registration technology, Mauritius",
+  "publisher": "International IDEA",
+  "published": "2024",
+  "sub_indicator": "electoral",
+  "why": "Q1/Q2 technology not used"
+ },
+ {
+  "url": "https://www.mauritiustimes.com/mt/if-there-is-nothing-mysterious-or-untoward-about-the-use-of-the-social-media-analytics/",
+  "title": "Social Media Analytics interview",
+  "publisher": "Mauritius Times",
+  "published": "2022-05-27",
+  "sub_indicator": "electoral",
+  "why": "Q4 electoral list vs National ID database"
+ },
+ {
+  "url": "https://lexpress.mu/s/article/397042/enregistrement-et-verification-electeurs-evitez-mauvaises-surprises-aux-prochaines",
+  "title": "Enregistrement et vérification: Électeurs, évitez de mauvaises surprises",
+  "publisher": "l'express",
+  "published": "2021-07-22",
+  "sub_indicator": "electoral",
+  "why": "Q3 SMS and web check"
+ }
+]

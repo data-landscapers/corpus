@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://dailynews.co.tz/inec-unveils-upgraded-bvr-kits-for-smooth-register-update/",
+  "title": "INEC unveils upgraded BVR kits for smooth register update",
+  "publisher": "Daily News",
+  "published": "2024-06-08",
+  "sub_indicator": "electoral",
+  "why": "Q1/Q2 biometric register in service"
+ },
+ {
+  "url": "https://thechanzo.com/2025/03/06/inec-highlights-new-bvr-kit-functionality-android-based-more-portable-set-to-commence-voter-register-update-in-dar-between-march-17-and-23/",
+  "title": "INEC Highlights New BVR Kit Functionality",
+  "publisher": "The Chanzo",
+  "published": "2025-03-06",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4 NIDA integration"
+ },
+ {
+  "url": "https://dailynews.co.tz/inec-calls-for-concerted-efforts-in-updating-pvr/",
+  "title": "INEC calls for concerted efforts in updating PVR",
+  "publisher": "Daily News",
+  "published": "2024-07-26",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q3 online VRS"
+ },
+ {
+  "url": "https://dailynews.co.tz/inec-announces-2nd-updating-voter-registrar/",
+  "title": "INEC announces 2nd updating Voter Registrar",
+  "publisher": "Daily News",
+  "published": "2025-04-16",
+  "sub_indicator": "electoral",
+  "why": "Q3 display of preliminary register"
+ },
+ {
+  "url": "https://www.inec.go.tz/news/tume-yaruhusu-wapiga-kura-kutumia-simu-ya-kiswaswadu-kuboresha-au-kuhamisha-taarifa-zao-kwenye-daftari",
+  "title": "Tume yaruhusu wapiga kura kutumia simu ya kiswaswadu",
+  "publisher": "INEC",
+  "published": "2024-07-19",
+  "sub_indicator": "electoral",
+  "why": "Q3 USSD register update"
+ },
+ {
+  "url": "https://dailynews.co.tz/inec-approves-191-csos-to-conduct-voter-education/",
+  "title": "INEC approves 191 CSOs to conduct voter education",
+  "publisher": "Daily News",
+  "published": "2024-06-29",
+  "sub_indicator": "electoral",
+  "why": "Q4 NIN used to verify register"
+ },
+ {
+  "url": "https://www.inec.go.tz/pages/display-of-provisional-register",
+  "title": "Uwekaji Wazi Daftari la Awali",
+  "publisher": "INEC",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q3 display of register"
+ },
+ {
+  "url": "https://www.inec.go.tz/uploads/documents/sw-1723641037-MWONGOZO%20FINAL%20AFTER%20PROOF.pdf",
+  "title": "Mwongozo wa Elimu ya Mpiga Kura wa Uboreshaji wa Daftari",
+  "publisher": "INEC",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q3 verification channels"
+ }
+]

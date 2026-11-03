@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.sudanspost.com/rigid-government-institutions-given-ultimatum-to-digitize-by-january-2026/",
+  "title": "Rigid government institutions given ultimatum to digitize by January 2026",
+  "publisher": "Sudans Post",
+  "published": "2025-12-19",
+  "sub_indicator": "eservices",
+  "why": "Presidential order giving E-Service Board authority to digitise institutions"
+ },
+ {
+  "url": "https://www.eyeradio.org/revenue-authority-urges-trade-aviation-bureau-of-standards-immigration-to-adopt-e-government/",
+  "title": "Revenue Authority urges Trade, Aviation, Bureau of Standards, Immigration to adopt E-Government",
+  "publisher": "Eye Radio",
+  "published": "2025-10-23",
+  "sub_indicator": "eservices",
+  "why": "Which institutions are/are not on e-government"
+ },
+ {
+  "url": "https://radioyei.org/news/technology/nca-e-services-go-live-across-south-sudan/",
+  "title": "NCA e-Services Go Live Across South Sudan",
+  "publisher": "Access Radio Yei News",
+  "published": "2026-02-13",
+  "sub_indicator": "eservices",
+  "why": "NCA e-services launch"
+ },
+ {
+  "url": "https://www.nca.gov.ss/mandatory-use-of-the-national-e-service-platform-for-regulatory-payments-and-services",
+  "title": "Mandatory use of the National e-Service Platform for Regulatory Payments and Services",
+  "publisher": "National Communication Authority",
+  "published": "2026-04-08",
+  "sub_indicator": "eservices",
+  "why": "Mandatory use of national platform"
+ },
+ {
+  "url": "https://www.eyeradio.org/south-sudans-digital-reckoning-why-eservices-are-an-economic-imperative-not-a-luxury/",
+  "title": "South Sudan's digital reckoning: Why eServices are an economic imperative",
+  "publisher": "Eye Radio",
+  "published": "2026-05-13",
+  "sub_indicator": "eservices",
+  "why": "Single gateway, institutions, launch April 2025"
+ },
+ {
+  "url": "https://brs.eservices.gov.ss/",
+  "title": "Business Registration Online Services",
+  "publisher": "Government of South Sudan",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Single account sign-in by ID; undated"
+ }
+]

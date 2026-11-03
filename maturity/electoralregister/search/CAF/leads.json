@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20250724-centrafrique-publication-des-listes-%C3%A9lectorales-%C3%A0-cinq-mois-des-%C3%A9lections-g%C3%A9n%C3%A9rales",
+  "title": "Centrafrique: publication des listes \u00e9lectorales \u00e0 cinq mois des \u00e9lections g\u00e9n\u00e9rales",
+  "publisher": "RFI",
+  "published": "2025-07-24",
+  "sub_indicator": "electoral",
+  "why": "lists posted for checking"
+ },
+ {
+  "url": "https://al24news.dz/en/central-african-republic-official-publication-of-final-electoral-roll/",
+  "title": "Central African Republic: Official Publication of Final Electoral Roll",
+  "publisher": "AL24 News",
+  "published": "2025-08-25",
+  "sub_indicator": "electoral",
+  "why": "final roll 2,398,158"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202412/central-african-republic-enrols-citizens-for-first-local-elections-in-36-years",
+  "title": "Central African Republic enrols citizens for first local elections in 36 years",
+  "publisher": "Biometric Update",
+  "published": "2024-12-10",
+  "sub_indicator": "electoral",
+  "why": "biometric register in service 2024"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202410/central-african-republic-in-full-biometric-voter-registration-preparations",
+  "title": "Central African Republic in full biometric voter registration preparations",
+  "publisher": "Biometric Update",
+  "published": "2024-10-08",
+  "sub_indicator": "electoral",
+  "why": "biometric procurement, ID documents"
+ },
+ {
+  "url": "https://www.undp.org/fr/central-african-republic/actualites/rca-la-revision-du-fichier-electoral-est-lancee-une-etape-cle-vers-des-elections-inclusives-et-transparentes",
+  "title": "RCA : La r\u00e9vision du fichier \u00e9lectoral est lanc\u00e9e",
+  "publisher": "PNUD",
+  "published": "2024-11-26",
+  "sub_indicator": "electoral",
+  "why": "revision launched, posting"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20250211-centrafrique-apr%C3%A8s-la-premi%C3%A8re-phase-de-r%C3%A9vision-des-listes-%C3%A9lectorales-l-opposition-d%C3%A9nonce-des-biais",
+  "title": "Centrafrique: apr\u00e8s la premi\u00e8re phase de r\u00e9vision des listes \u00e9lectorales, l'opposition d\u00e9nonce des biais",
+  "publisher": "RFI",
+  "published": "2025-02-11",
+  "sub_indicator": "electoral",
+  "why": "first phase results"
+ },
+ {
+  "url": "https://minusca.unmissions.org/fr/v%C3%A9rification-des-listes-%C3%A9lectorales-la-minusca-et-l%E2%80%99ane-mobilisent-les-citoyens-%C3%A0-travers",
+  "title": "V\u00e9rification des listes \u00e9lectorales, la MINUSCA et l\u2019ANE mobilisent les citoyens",
+  "publisher": "MINUSCA",
+  "published": "2025",
+  "sub_indicator": "electoral",
+  "why": "posting 19-28 July 2025"
+ },
+ {
+  "url": "https://www.ane-rca.org/list.php",
+  "title": "Ma pr\u00e9sence sur la liste \u00e9lectorale",
+  "publisher": "Autorit\u00e9 Nationale des \u00c9lections",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "online lookup"
+ }
+]

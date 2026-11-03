@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll",
+ "fact": "IDEA's 2024 entry says Mauritius uses no technology to collect registration data; officials register voters in annual door-to-door visits and the register is then published.",
+ "title": "If electoral register is created by the EMB, what type of technology used for collecting registration data?",
+ "publisher": "International IDEA",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;usage",
+ "fact": "The national services portal added more than 60 services in 2024 and processed more than 400,000 requests that year, four times the first year.",
+ "title": "Services publics digitalisés : 60 nouvelles démarches ajoutées en 2024, 400.000 demandes traitées",
+ "publisher": "République Togolaise (Togo Officiel)",
+ "published": "2025-01-22",
+ "date_source": "source",
+ "why_not": ""
+}

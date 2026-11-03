@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services",
+ "fact": "Cabinet Decision No. 705 of 2024, issued 26 December 2024, established the Dawlati platform to provide electronic services and issue official documents, with QR verification and fee collection.",
+ "title": "قرار مجلس الوزراء رقم 705 لسنة 2024 م بشأن إنشاء منصة دولتي الإلكترونية",
+ "publisher": "مجلس الوزراء - حكومة الوحدة الوطنية",
+ "published": "2024-12-26",
+ "date_source": "proxy",
+ "why_not": ""
+}

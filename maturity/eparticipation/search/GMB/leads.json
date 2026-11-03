@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/gambia-to-launch-platform-for-citizens-to-submit-views-to-parliament",
+  "title": "Gambia to launch platform for citizens to submit views to parliament",
+  "publisher": "The Point",
+  "published": "2026-04-21",
+  "sub_indicator": "eparticipation",
+  "why": "Q2"
+ },
+ {
+  "url": "https://asgp.co/wp-content/uploads/2026/04/19-Apr-AM-Gambia-Kalipha-Mbye-Comm-ENG.pdf",
+  "title": "Communication (Gambia, Kalipha Mbye)",
+  "publisher": "ASGP",
+  "published": "2026-04",
+  "sub_indicator": "eparticipation",
+  "why": "Q2"
+ },
+ {
+  "url": "https://pura.gm/public-consultation-on-the-draft-gateway-traffic-measurement-and-revenue-assurance-regulations-2025/",
+  "title": "Public consultation on the draft Gateway Traffic Measurement and Revenue Assurance Regulations, 2025",
+  "publisher": "PURA",
+  "published": "2025-06-03",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q3"
+ },
+ {
+  "url": "https://pura.gm/public-consultation-on-guidelines-for-broadcasting-licensing-framework/",
+  "title": "Public consultation on Guidelines for Broadcasting Licensing Framework",
+  "publisher": "PURA",
+  "published": "2025-03-11",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q3"
+ },
+ {
+  "url": "https://www.undp.org/gambia/blog/harnessing-potentials-digitalization-gambias-recovery",
+  "title": "Harnessing the potentials of Digitalization In The Gambia's Recovery",
+  "publisher": "UNDP",
+  "published": "2022-03-14",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q2: ndpp.gm"
+ }
+]

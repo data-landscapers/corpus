@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services",
+ "fact": "On 30 January 2023 the tax directorate launched E-Tax modules for online tax filing and payment, including mobile-money payment.",
+ "title": "La direction des impôts lance la plateforme E-Tax",
+ "publisher": "Journal Le Pays",
+ "published": "2023-01-30",
+ "date_source": "source",
+ "why_not": ""
+}

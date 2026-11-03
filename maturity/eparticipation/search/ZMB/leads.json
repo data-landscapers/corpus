@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.businesslicenses.gov.zm/notices/",
+  "title": "Unified Notice-and-Comment Consultation Portal",
+  "publisher": "Business Regulatory Review Agency",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q2: standing portal"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/ministry-of-energy-zambia_something-went-wrong-activity-7495441590086365185-0i6i",
+  "title": "Request for comments on the Petroleum Management and Development Bill 2026",
+  "publisher": "Ministry of Energy Zambia",
+  "published": "2026-08-18",
+  "sub_indicator": "eparticipation",
+  "why": "Q1: named draft for comment"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/electoral-commission-of-zambia_heres-the-link-the-electoral-process-amendment-activity-7425821858081607680-3b5D",
+  "title": "Electoral Process Amendment Bill 2026 comments",
+  "publisher": "Electoral Commission of Zambia",
+  "published": "2026-02-07",
+  "sub_indicator": "eparticipation",
+  "why": "Q1"
+ },
+ {
+  "url": "https://www.constitution.gov.zm/files/REPORT-OF-THE-TECHNICAL-COMMITTEE-ON-THE-AMENDMENT-OF-THE-CONSTITUTION-OF-ZAMBIA.pdf",
+  "title": "Report of the Technical Committee on Consulting and Drafting Amendments to the Constitution of Zambia",
+  "publisher": "Technical Committee",
+  "published": "2025-11-25",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q3: online submissions counted"
+ },
+ {
+  "url": "https://constitution.gov.zm/",
+  "title": "We, The People of Zambia",
+  "publisher": "Technical Committee on Constitutional Amendments",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1: online submission form"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/node/11691",
+  "title": "Tuesday, 14th November, 2023",
+  "publisher": "National Assembly of Zambia",
+  "published": "2023-11-14",
+  "sub_indicator": "eparticipation",
+  "why": "Q2: My e-Parliament app"
+ },
+ {
+  "url": "https://issuu.com/theparliamentarian/docs/parl2023iss1finalonlinesingle/s/20213406",
+  "title": "Rapid evolution of digital platforms and legislatures",
+  "publisher": "The Parliamentarian",
+  "published": "2023-03-03",
+  "sub_indicator": "eparticipation",
+  "why": "Q2/Q4: Standing Order 123 e-petitions"
+ }
+]

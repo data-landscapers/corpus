@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "On 20 June 2026 Ethiopia launched the MESOB super app giving access to more than 185 government services through a single account linked to the Fayda national digital ID.",
+ "title": "Ethiopia Launches Super App Offering Access to 185 Government Services",
+ "publisher": "Ecofin Agency",
+ "published": "2026-06-26",
+ "date_source": "source",
+ "why_not": ""
+}

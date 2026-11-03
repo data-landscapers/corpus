@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services",
+ "fact": "On 17 February 2026 the OBR launched the ABREMA module on Burundi's Electronic Single Window, handling pharmaceutical import permits online across three agencies, mandatory from 18 February 2026.",
+ "title": "Burundi Opens a Digital Single Window That Cuts Import Permit Delays",
+ "publisher": "Techsoma",
+ "published": "2026-02-20",
+ "date_source": "source",
+ "why_not": ""
+}

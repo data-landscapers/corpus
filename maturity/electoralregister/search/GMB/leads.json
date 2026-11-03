@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.voicegambia.com/iec-completes-44-day-supplementary-voter-registration-exercise/",
+  "title": "IEC Completes 44-Day Supplementary Voter Registration Exercise",
+  "publisher": "The Voice",
+  "published": "2026-06-08",
+  "sub_indicator": "electoral",
+  "why": "Q2: biometric matching"
+ },
+ {
+  "url": "https://foroyaa.net/iec-to-publish-provisional-voter-register-on-7-july-for-public-verification/",
+  "title": "IEC to Publish Provisional Voter Register on 7 July for Public Verification",
+  "publisher": "Foroyaa",
+  "published": "2026-07-03",
+  "sub_indicator": "electoral",
+  "why": "Q3: roll displayed for checking"
+ },
+ {
+  "url": "https://standard.gm/iec-extends-scrutiny-period-of-provisional-voter-list/",
+  "title": "IEC Extends Scrutiny Period Of Provisional Voter List",
+  "publisher": "The Standard",
+  "published": "2026-07-22",
+  "sub_indicator": "electoral",
+  "why": "Q3"
+ },
+ {
+  "url": "https://standard.gm/revising-courts-to-hear-1600-objections-after-voter-registration/",
+  "title": "Revising Courts To Hear 1,600 Objections After Voter Registration",
+  "publisher": "The Standard",
+  "published": "2026-08-07",
+  "sub_indicator": "electoral",
+  "why": "Q3: display at 730 centres"
+ },
+ {
+  "url": "https://www.gambiaparticipates.org/media/publications/Observation_Report_-_2026_Supplementary_Voter_Registration_v2_K30jmJt.pdf",
+  "title": "Observation Report - 2026 Supplementary Voter Registration",
+  "publisher": "Gambia Participates",
+  "published": "2026-10-20",
+  "sub_indicator": "electoral",
+  "why": "Q2-Q4: biometric, provisional list not online, documents"
+ },
+ {
+  "url": "https://gambiaj.com/news/politics/elections/iec-announces-start-of-supplementary-voter-registration-ahead-of-2026-elections/",
+  "title": "IEC Announces Start of Supplementary Voter Registration Ahead of 2026 Elections",
+  "publisher": "The Gambia Journal",
+  "published": "2026-04-08",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4: ID documents accepted"
+ },
+ {
+  "url": "https://www.kerrfatou.com/iec-outlines-post-registration-roadmap-vows-open-and-credible-electoral-process/",
+  "title": "IEC Outlines Post-Registration Roadmap",
+  "publisher": "Kerr Fatou",
+  "published": "2026-07-02",
+  "sub_indicator": "electoral",
+  "why": "Q3"
+ },
+ {
+  "url": "https://www.kerrfatou.com/iec-says-canadian-contractor-provides-technical-support-not-control-of-voter-data/",
+  "title": "IEC Says Canadian Contractor Provides Technical Support",
+  "publisher": "Kerr Fatou",
+  "published": "2026-07-17",
+  "sub_indicator": "electoral",
+  "why": "Q2: digital register"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lex.ao/docs/assembleia-nacional/2025/lei-n-o-13-25-de-01-de-dezembro/",
+  "title": "Lei n.º 13/25 de 01 de Dezembro (Lei do Registo Eleitoral Oficioso)",
+  "publisher": "Assembleia Nacional",
+  "published": "2025-12-01",
+  "sub_indicator": "electoral",
+  "why": "Q2-Q4 roll from BDIC, internet access to own data"
+ },
+ {
+  "url": "https://angola24horas.com/politica/item/32489-propostas-de-alteracao-a-lei-do-registo-eleitoral-oficioso-aprovadas-por-unanimidade-na-especialidade",
+  "title": "Propostas de Alteração à Lei do Registo Eleitoral Oficioso aprovadas por unanimidade",
+  "publisher": "Angola 24 Horas",
+  "published": "2025-08-06",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4"
+ },
+ {
+  "url": "https://www.dw.com/pt-002/lei-do-registo-eleitoral-oficioso-consenso-entre-governo-e-unita-%C3%A9-c%C3%A1lculo-pol%C3%ADtico/a-73567388",
+  "title": "Consenso sobre Lei do Registo Eleitoral é cálculo político",
+  "publisher": "DW",
+  "published": "2025-08-08",
+  "sub_indicator": "electoral",
+  "why": "Q4"
+ },
+ {
+  "url": "https://angop.ao/en/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/",
+  "title": "Approximately 16 million Angolans listed in the ID database",
+  "publisher": "Angop",
+  "published": "2026-07-01",
+  "sub_indicator": "electoral",
+  "why": "Q4 BDCM interconnected with ID database"
+ },
+ {
+  "url": "https://www.angola24horas.com/angola-24-horas-noticias/item/34981-sociedade-civil-alerta-para-registo-de-mortos-e-falta-de-transparencia-no-registo-eleitoral-oficioso",
+  "title": "Sociedade civil alerta para registo de mortos",
+  "publisher": "Angola 24 Horas",
+  "published": "2026-09-02",
+  "sub_indicator": "electoral",
+  "why": "Q3 tool to check the roll"
+ },
+ {
+  "url": "https://governo.gov.ao/noticias/2913/governo/registo-eleitoral/campanha-nacional-de-actualizacao-de-dados-dos-cidadaos-maiores-arranca-a-15-de-junho",
+  "title": "Campanha nacional de actualização de dados dos cidadãos maiores arranca a 15 de Junho",
+  "publisher": "Governo de Angola",
+  "published": "2026-06-13",
+  "sub_indicator": "electoral",
+  "why": "Q3"
+ },
+ {
+  "url": "https://angop.ao/noticias/politica/an-aprova-relatorios-pareceres-sobre-pacote-eleitoral/",
+  "title": "AN aprova relatórios pareceres sobre Pacote Eleitoral",
+  "publisher": "Angop",
+  "published": "2025-08-11",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4"
+ },
+ {
+  "url": "https://meuregisto.gov.ao/",
+  "title": "MeuRegisto",
+  "publisher": "Governo de Angola",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q3 check/update voter record, free line 136"
+ }
+]

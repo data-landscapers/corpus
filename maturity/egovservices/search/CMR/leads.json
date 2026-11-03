@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.minfopra.gov.cm/index.php/fr/a-la-une/2396-modernisation-de-la-fonction-publique-le-minfopra-accelere-la-transformation-numerique-avec-le-portail-national-des-services-publics-et-my-minfopra",
+  "title": "MINFOPRA Portail National des Services Publics",
+  "publisher": "MINFOPRA",
+  "published": "2026-10-20",
+  "sub_indicator": "eservices",
+  "why": "portal under validation, rollout planned (Q2)"
+ },
+ {
+  "url": "https://techgriot.co/english/cameroon/2026/03/cameroons-digital-government-push-shows-promise-but-challenges-remain/",
+  "title": "Cameroon's digital government push shows promise",
+  "publisher": "TechGriot",
+  "published": "2026-03-17",
+  "sub_indicator": "eservices",
+  "why": "services online (Q2/Q3)"
+ },
+ {
+  "url": "https://lefisk.cm/blog/enregistrement-actes-en-ligne-dgi-cameroun-registrations-guide",
+  "title": "registrations.dgi.cm : enregistrer un acte en ligne",
+  "publisher": "LeFisk",
+  "published": "2026-08-15",
+  "sub_indicator": "eservices",
+  "why": "SSO across DGI platforms (Q3)"
+ },
+ {
+  "url": "https://lefisk.cm/blog/niu-harmony2-cameroun-verifier-niu-login-attestation-cflp-guide",
+  "title": "Nouveau portail NIU",
+  "publisher": "LeFisk",
+  "published": "2026-08-08",
+  "sub_indicator": "eservices",
+  "why": "NIU portal, 9M+ NIU (Q3/Q4)"
+ },
+ {
+  "url": "https://cameroonnewsagency.com/government-modernizes-revenue-collection-system-with-the-introduction-of-tresor-pay-platform/",
+  "title": "Government modernizes revenue collection with tresor-pay",
+  "publisher": "Cameroon News Agency",
+  "published": "2023-08-08",
+  "sub_indicator": "eservices",
+  "why": "online payment platform launched (Q1)"
+ },
+ {
+  "url": "https://english.news.cn/africa/20230501/5f964755c5d2463e96934cca2b1f62f1/c.html",
+  "title": "Online visa application service goes operational in Cameroon",
+  "publisher": "Xinhua",
+  "published": "2023-05-01",
+  "sub_indicator": "eservices",
+  "why": "e-visa service (Q1)"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-new-national-id-paves-way-for-digital-identity-system",
+  "title": "Cameroon: New National ID Paves Way for Digital Identity System",
+  "publisher": "We are Tech",
+  "published": "2025-02-21",
+  "sub_indicator": "eservices",
+  "why": "online pre-enrolment, ID as gateway (Q3)"
+ },
+ {
+  "url": "https://idtechwire.com/cameroon-launches-advanced-biometric-national-id-system-with-48-hour-issuance-promise/",
+  "title": "Cameroon Launches Advanced Biometric National ID System",
+  "publisher": "ID Tech",
+  "published": "2025-02-24",
+  "sub_indicator": "eservices",
+  "why": "ID card online pre-enrolment (Q2)"
+ }
+]

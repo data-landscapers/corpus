@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;linked",
+ "fact": "The CENI opened the online registration portal liste.ceni-madagascar.mg, which asks for the national identity card number and images of the card for enrolment on the roll.",
+ "title": "La CENI ouvre l'inscription électorale en ligne",
+ "publisher": "Digigasy",
+ "published": "2026-09-22",
+ "date_source": "source",
+ "why_not": ""
+}

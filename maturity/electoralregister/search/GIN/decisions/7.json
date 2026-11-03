@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;linked",
+ "fact": "On 1 April 2025 the Prime Minister received 3,000 biometric enrolment kits; the biometric census builds the national register of natural persons and the electoral file together.",
+ "title": "Le Premier Ministre réceptionne les kits d'enrôlement biométrique",
+ "publisher": "Gouvernement de Guinée",
+ "published": "2025-04-01",
+ "date_source": "source",
+ "why_not": ""
+}

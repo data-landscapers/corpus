@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://punchng.com/fg-unveils-digital-platform-for-streamlined-public-service-access/",
+  "title": "FG unveils digital platform for streamlined public service access",
+  "publisher": "Punch",
+  "published": "2024-10-10",
+  "sub_indicator": "dpi.govtech--e-government-services",
+  "why": "Q1 GSP launched with KOICA"
+ },
+ {
+  "url": "https://interior.gov.ng/fg-launches-new-citizenship-business-management-platform/",
+  "title": "FG launches new citizenship, business management platform",
+  "publisher": "Ministry of Interior",
+  "published": "2025-05-15",
+  "sub_indicator": "dpi.govtech--e-government-services",
+  "why": "Q1 online platform launched"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services",
+  "title": "Nigeria unveils digital govt platform for unified access to public services",
+  "publisher": "Biometric Update",
+  "published": "2026-07-30",
+  "sub_indicator": "dpi.govtech--e-government-services",
+  "why": "Q3 single sign-on GSP"
+ },
+ {
+  "url": "https://techsoma.africa/nigeria-launches-services-gov-ng-a-single-digital-gateway-for-government-services/",
+  "title": "Nigeria Launches Services.gov.ng",
+  "publisher": "Techsoma",
+  "published": "2026-08-18",
+  "sub_indicator": "dpi.govtech--e-government-services",
+  "why": "Q3 NIN single sign-on, testers"
+ },
+ {
+  "url": "https://star-potter.com/nigeria-now-has-a-unified-government-services-portal/",
+  "title": "Nigeria Now Has A Unified Government Services Portal",
+  "publisher": "Star Potter",
+  "published": "2026-07-30",
+  "sub_indicator": "dpi.govtech--e-government-services",
+  "why": "Q2/Q3 96 services on portal"
+ },
+ {
+  "url": "https://punchng.com/immigration-unveils-online-passport-application-portal-today/",
+  "title": "Immigration unveils online passport application portal today",
+  "publisher": "Punch",
+  "published": "2024-01-08",
+  "sub_indicator": "dpi.govtech--e-government-services",
+  "why": "Q1 online passport application"
+ },
+ {
+  "url": "https://starnews.com.ng/10-govt-services-nigerians-can-access-online-and-how-to-find-their-official-portals/",
+  "title": "10 Govt Services Nigerians Can Access Online",
+  "publisher": "Starnews",
+  "published": "2026-09-23",
+  "sub_indicator": "dpi.govtech--e-government-services",
+  "why": "Q2 ten services online"
+ },
+ {
+  "url": "https://www.nigeriacommunicationsweek.com.ng/galaxy-backbone-koica-deepen-collaboration-to-strengthen-government-to-citizen-engagement-through-government-service-portal/",
+  "title": "Galaxy Backbone, KOICA Deepen Collaboration ... Government Service Portal",
+  "publisher": "Nigerian CommunicationWeek",
+  "published": "2024-10-03",
+  "sub_indicator": "dpi.govtech--e-government-services",
+  "why": "Q1 12 pilot agencies"
+ }
+]

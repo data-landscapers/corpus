@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://expressodasilhas.cv/pais/2025/03/28/reforma-do-codigo-eleitoral-introduz-votacao-electronica-e-novas-regras-para-sondagens/96303",
+  "title": "Reforma do Código Eleitoral introduz votação electrónica e novas regras para sondagens",
+  "publisher": "Expresso das Ilhas",
+  "published": "2025-03-26",
+  "sub_indicator": "electoral",
+  "why": "SIE linked to SNIAC (Q1,Q4)"
+ },
+ {
+  "url": "https://expressodasilhas.cv/politica/2025/01/08/parlamento-debate-recenseamento-automatico-e-voto-electronico/95044",
+  "title": "Parlamento debate recenseamento automático e voto electrónico",
+  "publisher": "Expresso das Ilhas (Lusa)",
+  "published": "2025-01-08",
+  "sub_indicator": "electoral",
+  "why": "SIE from SNIAC data (Q4)"
+ },
+ {
+  "url": "https://expressodasilhas.cv/politica/2023/12/21/ministra-garante-criacao-de-condicoes-para-voto-electronico-e-recenseamento-automatico-em-2026/89202",
+  "title": "Ministra garante criação de condições para voto electrónico e recenseamento automático em 2026",
+  "publisher": "Expresso das Ilhas (Inforpress)",
+  "published": "2023-12-21",
+  "sub_indicator": "electoral",
+  "why": "automatic registration from civil registry (Q1,Q4)"
+ },
+ {
+  "url": "https://mitgovlab.org/wp-content/uploads/2023/11/Gangamreddypalli_FinalReport.pdf",
+  "title": "NOSi's Reform of Cape Verde",
+  "publisher": "MIT Governance Lab",
+  "published": "2023",
+  "sub_indicator": "electoral",
+  "why": "biometric centralised voter database (Q2)"
+ },
+ {
+  "url": "https://dgape.cv/wp-content/uploads/2025/10/Manual-de-Utilizador-Recenseamento-Eleitoral-Portal-Consular-1o-versao_compressed.pdf",
+  "title": "Recenseamento Eleitoral - Portal Consular",
+  "publisher": "DGAPE / NOSI",
+  "published": "2025",
+  "sub_indicator": "electoral",
+  "why": "biometric registration into DGAPE database (Q2)"
+ }
+]

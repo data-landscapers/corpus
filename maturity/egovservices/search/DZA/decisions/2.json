@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "The portal's first phase holds 21 digital services from the Interior, Labour and National Solidarity sectors, with access through a digital identity registered with the national ID number and confirmed biometrically at the commune (HCN official, July 2026).",
+ "title": "Lancement du portail national des services numériques: La e-gouvernance en marche",
+ "publisher": "Les Enjeux Eco",
+ "published": "2026-07-14",
+ "date_source": "source",
+ "why_not": ""
+}

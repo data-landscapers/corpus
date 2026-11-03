@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://arn.gw/consulta-publica/",
+  "title": "Consulta Pública",
+  "publisher": "ARN",
+  "published": "2026-10-30",
+  "sub_indicator": "eparticipation",
+  "why": "Q1-Q2: regulator public consultations"
+ },
+ {
+  "url": "https://www.odemocratagb.com/?p=57171",
+  "title": "AVISO N° 01/CA/ARN/2026: Consulta Pública – Projeto de Lei das Transações Eletrónicas",
+  "publisher": "O Democrata GB",
+  "published": "2026-05-08",
+  "sub_indicator": "eparticipation",
+  "why": "Q1: draft law put for comment"
+ },
+ {
+  "url": "https://www.undp.org/guinea-bissau/news/broadening-participation-constitutional-review-process",
+  "title": "Broadening Participation in the Constitutional review process",
+  "publisher": "UNDP",
+  "published": "2022-03-11",
+  "sub_indicator": "eparticipation",
+  "why": "Q1: consultations on draft laws"
+ },
+ {
+  "url": "https://aarhusclearinghouse.unece.org/sites/default/files/2026-02/1roRN_ConvencaoAarhusRGBissau.pdf",
+  "title": "Primeiro Relatório Nacional sobre Convenção de Aarhus",
+  "publisher": "Ministério do Ambiente (Guiné-Bissau)",
+  "published": "2026-02",
+  "sub_indicator": "eparticipation",
+  "why": "Q4: public participation requirements"
+ }
+]

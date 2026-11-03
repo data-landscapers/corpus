@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.reuters.com/world/africa/somalias-capital-votes-first-step-toward-restoring-universal-suffrage-2025-12-25/",
+  "title": "Somalia's capital votes in first step to restoring universal suffrage",
+  "publisher": "Reuters",
+  "published": "2025-12-25",
+  "sub_indicator": "electoral",
+  "why": "biometric register used"
+ },
+ {
+  "url": "https://somalipublicagenda.org/voter-registration-in-mogadishu-process-public-perceptions-challenges-and-the-way-forward/",
+  "title": "Voter Registration in Mogadishu: Process, Public Perceptions, Challenges, and the Way Forward",
+  "publisher": "Somali Public Agenda",
+  "published": "2025-12-22",
+  "sub_indicator": "electoral",
+  "why": "biometric register in service"
+ },
+ {
+  "url": "https://en.ecss.com.eg/6384/",
+  "title": "Gearing up for Somalia's General Elections 2026",
+  "publisher": "ECSS",
+  "published": "2026-01-03",
+  "sub_indicator": "electoral",
+  "why": "register status"
+ },
+ {
+  "url": "https://somalistream.com/elections-are-about-data-somalias-one-person-one-vote-dilemma/",
+  "title": "Elections Are About Data: Somalia's One Person, One Vote Dilemma",
+  "publisher": "Somali Stream",
+  "published": "2025-11-03",
+  "sub_indicator": "electoral",
+  "why": "link to national ID"
+ },
+ {
+  "url": "https://reliefweb.int/report/somalia/report-secretary-general-somalia-s2025613-enarruzh",
+  "title": "Report of the Secretary-General on Somalia (S/2025/613)",
+  "publisher": "UN Security Council",
+  "published": "2025-09-30",
+  "sub_indicator": "electoral",
+  "why": "registration figures"
+ },
+ {
+  "url": "https://www.undp.org/media/1516091/download?inline=",
+  "title": "UNDP-UNTMIS IESG newsletter",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "registration in states"
+ },
+ {
+  "url": "https://www.undp.org/media/1516081/download?inline=",
+  "title": "UNDP-UNTMIS IESG newsletter",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "BVR kits procured"
+ },
+ {
+  "url": "https://so.niebc.gov.so/blog/2025/07/13/ololaha-taariikhiga-ah-ee-diiwaangelinta-codbixiyeyaasha-oo-ka-bilowday-hirshabelle-horumarinaya-hab-dhismeedka-doorashada-ee-hal-qof-hal-cod/",
+  "title": "Ololaha Taariikhiga ah ee Diiwaangelinta Codbixiyeyaasha oo ka Bilowday Hirshabelle",
+  "publisher": "NIEBC",
+  "published": "2025-07-13",
+  "sub_indicator": "electoral",
+  "why": "registration in Hirshabelle"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;checked",
+ "fact": "ISIE decided to update the electoral register remotely and at regional offices from 20 May 2024, with a registration website (Touenssa.isie.tn) and a free SMS service to check the polling centre.",
+ "title": "ISIE: Actualisation du registre électoral à partir du 20 mai courant",
+ "publisher": "L'Economiste Maghrébin",
+ "published": "2024-05-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;usage",
+ "fact": "On 29 December 2025 the minister told the House of Representatives the national portal offers more than 600 digital services and that more than 35,000 companies had been created electronically through the national platform.",
+ "title": "Numérisation administrative : plus de 35.000 entreprises créées en ligne",
+ "publisher": "industries.ma",
+ "published": "2025-12-30",
+ "date_source": "source",
+ "why_not": ""
+}

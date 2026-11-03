@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway;usage",
+ "fact": "KOREK, launched 30 January 2026 as a single window for government services, had 462,310 registered and 413,409 active users by 14 May 2026; the 2023-24 audit found fewer than ten of 123 government online services actually used.",
+ "title": "Application KOREK : 462 310 enregistrements depuis janvier 2026",
+ "publisher": "l'express",
+ "published": "2026-05-14",
+ "date_source": "source",
+ "why_not": ""
+}

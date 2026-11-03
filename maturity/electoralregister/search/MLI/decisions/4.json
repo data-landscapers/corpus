@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;linked",
+ "fact": "From 1 October to 31 December 2026 Mali revises its lists, which are drawn from the biometric civil-status database with the NINA as each voter's unique identifier.",
+ "title": "Fichier électoral : l'heure du grand nettoyage",
+ "publisher": "Bamada.net",
+ "published": "2026-10-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://businessday.ng/news/article/state-police-bill-fg-unveils-timelines-opens-link-for-public-engagements/",
+  "title": "State police bill: FG unveils timelines, opens link for public engagements",
+  "publisher": "BusinessDay",
+  "published": "2026-08-04",
+  "sub_indicator": "include.access--citizen-participation-in-policy",
+  "why": "Q1 portal for policing bill"
+ },
+ {
+  "url": "https://naltf.gov.ng/finance-bill-2027-fg-seeks-inputs-from-public/",
+  "title": "Finance Bill 2027: FG seeks inputs from public",
+  "publisher": "NALTF",
+  "published": "2026-08-31",
+  "sub_indicator": "include.access--citizen-participation-in-policy",
+  "why": "Q1 online submissions Finance Bill"
+ },
+ {
+  "url": "https://thewillnews.com/fg-extends-public-consultation-on-national-policing-bill-seeks-broader-stakeholder-input/",
+  "title": "FG Extends Public Consultation on National Policing Bill",
+  "publisher": "THEWILL",
+  "published": "2026-08-13",
+  "sub_indicator": "include.access--citizen-participation-in-policy",
+  "why": "Q1 policing bill portal"
+ },
+ {
+  "url": "https://digitaltimesng.com/nitda-seeks-public-comments-inputs-on-released-draft-technical-standards-for-digital-public-infrastructure/",
+  "title": "NITDA Seeks Public Comments on Draft DPI Technical Standards",
+  "publisher": "Digital Times Nigeria",
+  "published": "2025-04-12",
+  "sub_indicator": "include.access--citizen-participation-in-policy",
+  "why": "Q1 draft posted for comment"
+ },
+ {
+  "url": "https://rmp.nitda.gov.ng/",
+  "title": "NITDA Rule Making Process",
+  "publisher": "NITDA",
+  "published": "",
+  "sub_indicator": "include.access--citizen-participation-in-policy",
+  "why": "Q2 standing rulemaking portal"
+ },
+ {
+  "url": "https://fmcide.gov.ng/ministry-hosts-national-digital-economy-e-governance-bill-stakeholder-engagement-in-lagos-undertakes-wide-consultations-across-36-states-abuja-fct/",
+  "title": "Ministry Hosts National Digital Economy & e-Governance Bill Stakeholder Engagement",
+  "publisher": "FMCIDE",
+  "published": "2024-11-08",
+  "sub_indicator": "include.access--citizen-participation-in-policy",
+  "why": "Q1 consultation"
+ },
+ {
+  "url": "https://www.legit.ng/business-economy/economy/1727742-finance-bill-2027-fg-invites-nigerians-businesses-submit-proposals-deadline/",
+  "title": "Finance Bill 2027: FG Invites Nigerians",
+  "publisher": "Legit.ng",
+  "published": "2026-08-28",
+  "sub_indicator": "include.access--citizen-participation-in-policy",
+  "why": "Q1 online submission"
+ },
+ {
+  "url": "https://e-parliament.ng/public-engagement",
+  "title": "Nigerian E-Parliament - Citizen Engagement Portal",
+  "publisher": "e-parliament.ng",
+  "published": "",
+  "sub_indicator": "include.access--citizen-participation-in-policy",
+  "why": "Q2 petitions portal"
+ }
+]

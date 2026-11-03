@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://pti.ao/governacao-electronica-angola-e-transformacao-digital-da-administracao-publica/",
+  "title": "Governação Electrónica: Angola e a transformação digital da Administração Pública",
+  "publisher": "PTI",
+  "published": "2024-11-22",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q3 SEPE portal, IMA, Decreto 178/24"
+ },
+ {
+  "url": "https://www.maptss.gov.ao/2024/09/26/servicos-disponiveis-no-siac/",
+  "title": "Serviços disponíveis no SIAC",
+  "publisher": "MAPTSS",
+  "published": "2024-09-26",
+  "sub_indicator": "eservices",
+  "why": "Q2 count of services at SIAC, Simplifica"
+ },
+ {
+  "url": "https://doi.org/10.22533/at.ed.216532523063",
+  "title": "New technologies applied to public management as a barrier to access to fundamental rights in Angola",
+  "publisher": "Atena Editora",
+  "published": "2025-05-21",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q2 Simplifica 1.0/2.0 via SEPE"
+ },
+ {
+  "url": "https://inacom.gov.ao/2025/06/12/novo-portal-do-inacom-destaca-inovacao-ao-servico-do-cidadao/",
+  "title": "Novo Portal do INACOM destaca inovação ao serviço do cidadão",
+  "publisher": "INACOM",
+  "published": "2025-06-12",
+  "sub_indicator": "eservices",
+  "why": "Q1 online services portal"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099035306262338506/pdf/IDU038ba2ba80901c045390ab73083d0b51ad04a.pdf",
+  "title": "Angola Digital Economy Diagnostic (World Bank)",
+  "publisher": "World Bank",
+  "published": "2023",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q3 SEPE 170 services, 15 agencies"
+ },
+ {
+  "url": "https://c2a.portais.gov.ao/uploads/Apresentacao_Angola_no_Grupo_B_do_Gov_Tech_43b65c6232.pdf",
+  "title": "Angola no Grupo B do GovTech",
+  "publisher": "Instituto de Modernização Administrativa",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Q3 single window, e-identity, Simplifica"
+ }
+]

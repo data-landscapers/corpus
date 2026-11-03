@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;checked",
+ "fact": "The CENI's 2025 activity report states the provisional roll was drawn up on 28 February 2025 with 12,013,303 voters, the national electoral register was constituted on 15 May 2025, and the roll remains alphanumeric with a biometric switch under study.",
+ "title": "Rapport des activités 2025",
+ "publisher": "Commission Electorale Nationale Indépendante",
+ "published": "2026-01",
+ "date_source": "source",
+ "why_not": ""
+}

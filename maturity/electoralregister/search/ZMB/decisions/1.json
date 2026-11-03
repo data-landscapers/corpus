@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;checked",
+ "fact": "ECZ's August 2025 stakeholder presentation says biometric kits capture all ten fingerprints and portraits, ABIS deduplicates records, and the provisional register is inspected via centres, website and USSD *214#.",
+ "title": "ECZ Presentation copy",
+ "publisher": "Electoral Commission of Zambia",
+ "published": "2025-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://ec.or.ug/news/statement-chairperson-electoral-commission-progress-implementation-activities-under-roadmap-1",
+  "title": "Statement by the Chairperson on Progress of Implementation of Activities Under the Roadmap for General Elections 2026",
+  "publisher": "Electoral Commission",
+  "published": "2025-12-31",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q3 BVVK, online verification"
+ },
+ {
+  "url": "https://ec.or.ug/sites/default/files/docs/EC%20_General_Elections_Report_2025_2026.pdf",
+  "title": "Report on the 2025/2026 General Elections",
+  "publisher": "Electoral Commission",
+  "published": "2026-09",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q3 display of register, online check, BVVS"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/one-man-one-vote-inside-new-ec-biometric-system-5249126",
+  "title": "One man one vote: Inside new EC biometric system",
+  "publisher": "Daily Monitor",
+  "published": "2025-10-29",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4 biometrics, register from NIRA data"
+ },
+ {
+  "url": "https://www.ec.or.ug/electoral-commission-adoption-and-manner-use-biometric-voter-verification-system-regulations-2025",
+  "title": "Electoral Commission (Adoption and Manner of Use of BVVS) Regulations, 2025",
+  "publisher": "Electoral Commission",
+  "published": "2025",
+  "sub_indicator": "electoral",
+  "why": "Q2 BVVS in service"
+ },
+ {
+  "url": "https://www.ec.or.ug/faq",
+  "title": "Frequently Asked Questions",
+  "publisher": "Electoral Commission",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q3 online check, Q4 extraction from national database"
+ }
+]

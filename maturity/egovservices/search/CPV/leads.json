@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.gov.cv/documents/d/guest/boletim-oficial-47",
+  "title": "Boletim Oficial n.º 47, I Série",
+  "publisher": "Imprensa Nacional de Cabo Verde",
+  "published": "2025-06-10",
+  "sub_indicator": "eservices",
+  "why": "Resolution creating the Portal Único (Q1,Q3)"
+ },
+ {
+  "url": "https://caboverde24.info/en/2026/07/22/ja-sabe-como-aceder-aos-servicos-publicos-sem-sair-de-casa-analisamos-o-site/",
+  "title": "Já sabe como aceder aos serviços públicos sem sair de casa? Analisamos o site",
+  "publisher": "Caboverde24",
+  "published": "2026-07-22",
+  "sub_indicator": "eservices",
+  "why": "Gov.cv portal services (Q1,Q2)"
+ },
+ {
+  "url": "https://www.governo.cv/com-o-lancamento-da-cmdcv-estamos-a-possibilitar-que-a-partir-de-hoje-seja-possivel-ao-cidadao-sem-antecedentes-criminais-obter-atraves-do-portal-porton-di-nos-ilha-o-certificado-de-registo/",
+  "title": "Ministério da Modernização do Estado lança a Chave Móvel Digital de Cabo Verde",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2023-07-04",
+  "sub_indicator": "eservices",
+  "why": "CMDCV single login for portal (Q3)"
+ },
+ {
+  "url": "https://governacaodigital.gov.cv/portal-nacional-integrado-de-servicos-publicos/",
+  "title": "Portal Nacional Integrado de Serviços Públicos",
+  "publisher": "EGDCV",
+  "published": "2022-07-15",
+  "sub_indicator": "eservices",
+  "why": "one-stop portal, CNI/CMDCV auth (Q3)"
+ }
+]

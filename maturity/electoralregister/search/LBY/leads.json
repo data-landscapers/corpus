@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://libyareview.com/47455/libya-implements-biometric-verification-in-municipal-council-elections/",
+  "title": "Libya Implements Biometric Verification in Municipal Council Elections",
+  "publisher": "LibyaReview",
+  "published": "2024-08-19",
+  "sub_indicator": "electoral",
+  "why": "Biometric voter verification piloted"
+ },
+ {
+  "url": "https://lawsociety.ly/en/legislation/resolution-no-57-of-2024-concerning-the-adoption-of-the-regulatory-bylaws-for-voter-registration/",
+  "title": "Resolution No. 57 of 2024 Regulatory Bylaws for Voter Registration",
+  "publisher": "HNEC (via Libyan Law Society)",
+  "published": "2024-04-16",
+  "sub_indicator": "electoral",
+  "why": "Voter registration bylaws"
+ },
+ {
+  "url": "https://hnec.ly/2025/02/25/%D9%83%D9%8A%D9%81-%D9%86%D8%AA%D8%A3%D9%83%D8%AF-%D9%85%D9%86-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%D9%8A-%D8%9F/",
+  "title": "كيف نتأكد من تسجيلي ؟",
+  "publisher": "HNEC",
+  "published": "2025-02-25",
+  "sub_indicator": "electoral",
+  "why": "Check registration by SMS with national number"
+ },
+ {
+  "url": "https://libyareview.com/54785/560896-voters-registered-for-libyan-municipal-elections/",
+  "title": "560,896 Registered for Libyan Municipal Elections",
+  "publisher": "LibyaReview",
+  "published": "2025-04-14",
+  "sub_indicator": "electoral",
+  "why": "Voter lists published; SMS registration with national ID"
+ },
+ {
+  "url": "https://libyaobserver.ly/news/hnec-150000-voters-registered-9-municipalities-third-group-elections-resume",
+  "title": "HNEC: 150,000 voters registered in 9 municipalities",
+  "publisher": "The Libya Observer",
+  "published": "2025-11-02",
+  "sub_indicator": "electoral",
+  "why": "Voter register relaunched"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-05/undp-ly-pepol-2023-annual-report-2024.pdf",
+  "title": "PEPOL 2023 annual report",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Voter management system, CRA integration partial, biometric pilot"
+ },
+ {
+  "url": "https://lawsociety.ly/legislation/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-28-%D9%84%D8%B3%D9%86%D8%A9-2023-%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AF/",
+  "title": "قانون رقم 28 لسنة 2023 بشأن انتخاب رئيس الدولة",
+  "publisher": "House of Representatives (via Libyan Law Society)",
+  "published": "2023",
+  "sub_indicator": "electoral",
+  "why": "Art 84 audit of register with civil status authority"
+ },
+ {
+  "url": "https://libyareview.com/53624/190000-libyans-register-for-2nd-phase-of-municipal-elections/",
+  "title": "190,000 Libyans Register for 2nd Phase of Municipal Elections",
+  "publisher": "LibyaReview",
+  "published": "2025-03-04",
+  "sub_indicator": "electoral",
+  "why": "SMS registration figures"
+ }
+]

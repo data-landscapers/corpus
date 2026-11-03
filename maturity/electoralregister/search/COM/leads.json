@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.mayottehebdo.com/actualite/politique/comores-fin-dun-seminaire-bilan-organise-pour-preparer-les-elections-de-2029/",
+  "title": "Comores : fin d'un séminaire-bilan organisé pour préparer les élections de 2029",
+  "publisher": "Mayotte Hebdo",
+  "published": "2026-04-17",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4 annual revision of electoral file, deceased on lists"
+ },
+ {
+  "url": "https://www.lexterieur.com/la-une/international/legislatives-aux-comores-la-declaration-preliminaire-de-la-mission-electorale-de-la-francophonie",
+  "title": "Législatives aux Comores : La Déclaration préliminaire de la Mission électorale de la Francophonie",
+  "publisher": "L'Extérieur (OIF mission)",
+  "published": "2025-01-14",
+  "sub_indicator": "electoral",
+  "why": "Q3 lists posted at polling stations; same file as 2024"
+ },
+ {
+  "url": "https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/la-ceni-mise-en-place,-la-r%C3%A9vision-du-fichier-%C3%A9lectorale-d%C3%A9bute-le-28-mai-.html",
+  "title": "La CENI mise en place, la révision du fichier électorale débute le 28 mai",
+  "publisher": "La Gazette des Comores",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q2 exceptional revision 28 May-17 July 2023"
+ },
+ {
+  "url": "https://justice.gouv.km/texte/code-electoral/",
+  "title": "Code électoral 2023",
+  "publisher": "Ministère de la Justice des Comores",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q2-Q4 computerised file, biometric ID, civil register link, posting of lists"
+ },
+ {
+  "url": "https://lagazettedescomores.com/politique/r%C3%A9vision-des-listes-%C3%A9lectorales-/-la-ceni-vise-un-objectif-de-44.000-nouveaux-%C3%A9lecteurs-.html",
+  "title": "Révision des listes électorales / La CENI vise un objectif de 44.000 nouveaux électeurs",
+  "publisher": "La Gazette des Comores",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q2 revision via enrolment centres and CNTDE"
+ },
+ {
+  "url": "https://www.impactpool.org/jobs/1182803",
+  "title": "Consultation internationale ... recensement biométrique à vocation d'état civil aux Comores",
+  "publisher": "UNICEF",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q4 national population register law 2023"
+ }
+]

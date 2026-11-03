@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "On 11 July 2026 the High Commissioner for Digitalisation said the national portal Dzair Digital Services, officially launched, offers 21 digital services across sectors behind one digital identity, rising to 62 by end-2027 and 350 by 2028.",
+ "title": "Transformation numérique des services publics: Le portail national passera de 21 à 350 services d'ici 2028",
+ "publisher": "L'Echo d'Algérie",
+ "published": "2026-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

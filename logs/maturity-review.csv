@@ -44,9 +44,9 @@ domesticfinancing,financing,finance.budget--sustainable-domestic-financing-of-di
 ecommercelaw,law,gov.legislate--e-commerce-legislation,2026-11-02,12,29,82
 educationexchange,exchange,dpi.exchange--interoperability-of-education-systems,2026-11-02,12,29,51
 educationmis,emis,dpi.mis--education,2026-11-02,12,29,50
-egovservices,eservices,dpi.govtech--e-government-services,,,,
-electoralregister,electoral,dpi.registry--electoral-register,,,,
-eparticipation,eparticipation,include.access--citizen-participation-in-policy,,,,
+egovservices,eservices,dpi.govtech--e-government-services,2026-11-03,43,41,124
+electoralregister,electoral,dpi.registry--electoral-register,2026-11-03,43,41,166
+eparticipation,eparticipation,include.access--citizen-participation-in-policy,2026-11-03,43,40,77
 exchangepoints,exchange,infra.connect--internet-exchange-points,,,,
 feedbackportals,feedback,include.access--citizen-feedback-portals,,,,
 fibrebackbone,backbone,infra.connect--national-fibre-backbone,,,,

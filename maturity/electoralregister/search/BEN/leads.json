@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.gouv.bj/article/2994/inquietudes-autour-fiabilite-liste-electorale-informatisee-benin-anip-reaffirme-credibilite-grace-systeme-mise-jour-continue/",
+  "title": "Inquiétudes autour de la fiabilité de la Liste Électorale Informatisée",
+  "publisher": "Gouvernement de la République du Bénin",
+  "published": "2025-02-21",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4: LEI extracted from national persons register"
+ },
+ {
+  "url": "https://www.gouv.bj/article/3207/",
+  "title": "Élections générales de 2026 au Bénin : La LEI et les plateformes numériques de l'ANIP",
+  "publisher": "Gouvernement de la République du Bénin",
+  "published": "2025-08-18",
+  "sub_indicator": "electoral",
+  "why": "Q3: display dates of LEI"
+ },
+ {
+  "url": "https://www.gouv.bj/article/3188/modernisation-processus-electoral-anip-devoile-plateformes-numeriques/",
+  "title": "Modernisation du processus électoral : L'ANIP dévoile ses plateformes numériques",
+  "publisher": "Gouvernement de la République du Bénin",
+  "published": "2025-08-02",
+  "sub_indicator": "electoral",
+  "why": "Q3/Q4: check voting centre online/USSD; RNPP source"
+ },
+ {
+  "url": "https://beninwebtv.bj/en/posting-of-the-provisional-voter-list-anip-launches-the-verification-phase/",
+  "title": "Posting of the provisional voter list: ANIP launches the verification phase",
+  "publisher": "Benin Web TV",
+  "published": "2025-09-16",
+  "sub_indicator": "electoral",
+  "why": "Q3/Q4: list posted, check by USSD/app, from civil register"
+ },
+ {
+  "url": "https://www.gouv.bj/article/3247/elections-generales-2026-benin-anip-remet-officiellement-liste-electorale-informatisee-provisoire-elus-locaux-dassa-ii/",
+  "title": "L'ANIP remet officiellement la liste électorale informatisée provisoire aux élus locaux de Dassa II",
+  "publisher": "Gouvernement de la République du Bénin",
+  "published": "2025-09-13",
+  "sub_indicator": "electoral",
+  "why": "Q3: public consultation of list"
+ },
+ {
+  "url": "https://lanation.bj/actualites/elections-generales-2026-lanip-remet-officiellement-la-liste-electorale-a-la-cena",
+  "title": "Elections générales 2026: L'Anip remet officiellement la liste électorale à la Cena",
+  "publisher": "La Nation",
+  "published": "2025-11-13",
+  "sub_indicator": "electoral",
+  "why": "Q2: LEI handed to CENA"
+ },
+ {
+  "url": "https://www.courconstitutionnelle.bj/fr/actualities-view/rencontre-tripartite-sur-la-liste-electorale-la-cour-constitutionnelle-la-cena-et-lanip-en-synergie-pour-les-elections-de-2026",
+  "title": "Rencontre tripartite sur la liste électorale",
+  "publisher": "Cour Constitutionnelle du Bénin",
+  "published": "2025-10-02",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q4: LEI status"
+ },
+ {
+  "url": "https://beninwebtv.com/en/electoral-file-audit-the-initial-conclusions-of-the-expert-mission/",
+  "title": "Electoral File Audit: the initial conclusions of the expert mission",
+  "publisher": "Benin Web TV",
+  "published": "2025-08-11",
+  "sub_indicator": "electoral",
+  "why": "Q4: electoral file extracted from RNPP/civil registers"
+ }
+]

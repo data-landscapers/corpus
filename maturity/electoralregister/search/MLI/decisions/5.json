@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "linked",
+ "fact": "Ordinance 2024-022 of 31 December 2024 amended electoral law articles 52, 57 and 70; the revised list is built from the biometric civil-status database and the NINA.",
+ "title": "Loi électorale : Les articles 52, 57 et 70 modifiés",
+ "publisher": "L'Essor",
+ "published": "2025-01-02",
+ "date_source": "source",
+ "why_not": ""
+}

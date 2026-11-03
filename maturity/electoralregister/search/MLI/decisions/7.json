@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;linked",
+ "fact": "On 13 February 2024 Mali presented Mali Kura Biométrie, replacing the RAVEC system whose blockage since April 2023 had prevented enrolling new adults on the electoral roll.",
+ "title": "Ravec : Mali kura biométrie ou l'expression de la souveraineté numérique",
+ "publisher": "L'Essor",
+ "published": "2024-02-14",
+ "date_source": "source",
+ "why_not": ""
+}

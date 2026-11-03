@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;usage",
+ "fact": "In March 2026 the minister said the public service moved from none online to over 250 dematerialised procedures, and that in 2025 10.5 million civil-status and identity documents were issued, 75% online.",
+ "title": "Bénin - Services publics : 75% de documents publics délivrés en ligne",
+ "publisher": "Africa24 TV",
+ "published": "2026-03-28",
+ "date_source": "source",
+ "why_not": ""
+}

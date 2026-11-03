@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://e-global.pt/noticias/lusofonia/guine-bissau/gtape-entregou-cadernos-cne/",
+  "title": "Guiné-Bissau: Cadernos eleitorais chegam à CNE doze dias antes do referendo",
+  "publisher": "e-Global",
+  "published": "2026-08-18",
+  "sub_indicator": "electoral",
+  "why": "Q2: rolls delivered in physical and digital form"
+ },
+ {
+  "url": "https://www.odemocratagb.com/?p=27677",
+  "title": "PNUD entrega ao governo equipamento para registo de eleitores",
+  "publisher": "O Democrata GB",
+  "published": "2020-12-14",
+  "sub_indicator": "electoral",
+  "why": "Q1-Q2: 400 biometric kits delivered"
+ },
+ {
+  "url": "https://www.dw.com/pt-002/guin%C3%A9-bissau-cne-pede-corre%C3%A7%C3%A3o-de-omiss%C3%B5es-nos-cadernos-eleitorais/a-47353247",
+  "title": "Bissau: CNE pede correção de omissões em cadernos eleitorais",
+  "publisher": "DW",
+  "published": "2019-02-04",
+  "sub_indicator": "electoral",
+  "why": "Q3: provisional rolls posted for checking"
+ },
+ {
+  "url": "http://cne.gw/images/docs/RELATORIO_2025.pdf",
+  "title": "Relatório Final de Supervisão e Fiscalização da Atualização do Recenseamento Eleitoral ... 24 de novembro de 2024",
+  "publisher": "CNE Guiné-Bissau",
+  "published": "2025",
+  "sub_indicator": "electoral",
+  "why": "Q2-Q4: roll update 2024"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "On 27 March 2026 São Tomé and Príncipe launched the beta of the Portal Único do Cidadão, a single portal for public services, alongside a state interoperability platform and single authentication system.",
+ "title": "São Tomé e Príncipe avança na transformação digital com lançamento do Portal Único do Cidadão",
+ "publisher": "Zunta TV",
+ "published": "2026-03-27",
+ "date_source": "source",
+ "why_not": ""
+}

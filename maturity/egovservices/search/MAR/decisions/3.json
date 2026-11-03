@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "gateway",
+ "fact": "The Idarati X.0 meta-application, launched in February 2026, is a single entry point to public services authenticating citizens once through the CNIE national electronic ID card, after more than 660 procedures were put online.",
+ "title": "Idarati X.0: une méta-application pour unifier plus de 660 démarches administratives",
+ "publisher": "le360.ma",
+ "published": "2026-03-16",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services",
+ "fact": "NITA-U states the eBiz portal (ebiz.go.ug) integrates services of several agencies (URSB, UIA, URA, DCIC, NEMA, KCCA) that can be applied for, tracked and paid online.",
+ "title": "Electronic One Stop Centre web portal (eBiz)",
+ "publisher": "NITA-U",
+ "published": "2025-05-29",
+ "date_source": "source",
+ "why_not": ""
+}

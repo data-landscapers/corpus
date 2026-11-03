@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;usage",
+ "fact": "In February 2025 the minister told MPs that more than 600 e-services had been inventoried, and that they produced 11 million operations a month.",
+ "title": "حجم الخدمات الالكترونية.. 11 مليون عملية شهريا",
+ "publisher": "الجريدة 24",
+ "published": "2025-02-06",
+ "date_source": "source",
+ "why_not": ""
+}

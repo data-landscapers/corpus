@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/govt-steps-up-to-tackle-id-card-passport-delays",
+  "title": "Gov't steps up to tackle ID card, passport delays",
+  "publisher": "The Point",
+  "published": "2026-09-01",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q3: MyGov built but not launched"
+ },
+ {
+  "url": "https://op.gov.gm/sites/default/files/2026-03/Final%20SONA%202026.pdf",
+  "title": "State of the Nation Address 2026",
+  "publisher": "Office of the President",
+  "published": "2026-03",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q3: MyGov one-stop shop for five services"
+ },
+ {
+  "url": "https://gambia.gov.gm/gambia-app/mygov-platform/",
+  "title": "MYGOV-Platform",
+  "publisher": "Government of The Gambia",
+  "published": "2025-11-13",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q3: MyGov pilot of five services, single access point"
+ },
+ {
+  "url": "https://www.africa-press.net/gambia/all-news/training-of-trainers-on-sps-culminates-from-bangladesh-gambia-south-south-cooperation-minister-bouy",
+  "title": "Training of Trainers on SPS Culminates from Bangladesh-Gambia South-South Cooperation",
+  "publisher": "Africa-Press",
+  "published": "2025-02-26",
+  "sub_indicator": "eservices",
+  "why": "Q1: MyGov start with five services"
+ },
+ {
+  "url": "https://standard.gm/gra-goes-fully-digital-with-signing-of-itas-system/",
+  "title": "GRA goes fully digital with signing of ITAS system",
+  "publisher": "The Standard",
+  "published": "2025-10-09",
+  "sub_indicator": "eservices",
+  "why": "Q1: tax services online via ITAS"
+ },
+ {
+  "url": "https://informationcommission.gm/en/news/3923befe-e60f-4ba7-8369-95f1f7ca7059",
+  "title": "National Records Commission Launches Online Information Access Portal",
+  "publisher": "Information Commission",
+  "published": "2025-10-07",
+  "sub_indicator": "eservices",
+  "why": "Q1: online portal launch"
+ },
+ {
+  "url": "https://www.nicktcscangambia.gm/single-window/",
+  "title": "Single Window - GNSW",
+  "publisher": "Nick TC-Scan (Gambia) Limited",
+  "published": "2024-08-06",
+  "sub_indicator": "eservices",
+  "why": "Q3: multi-agency trade single window"
+ }
+]

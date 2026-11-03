@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "checked",
+ "fact": "In December 2023 CENI offered a mobile app letting an enrolled voter search their polling station by the 11-digit voter number or card QR code, besides display of the electoral lists.",
+ "title": "Une application mobile mise à jour pour consulter les électeurs",
+ "publisher": "ouragan.cd",
+ "published": "2023-12-02",
+ "date_source": "source",
+ "why_not": ""
+}

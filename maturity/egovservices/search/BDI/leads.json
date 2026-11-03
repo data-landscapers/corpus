@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.gtai.de/de/trade/burundi/ausschreibungen-projekte/consulting-digitale-verwaltungsdienstleistungen-e-gov--2037126",
+  "title": "Consulting, digitale Verwaltungsdienstleistungen (E-Gov)",
+  "publisher": "GTAI",
+  "published": "2026-10-29",
+  "sub_indicator": "eservices",
+  "why": "Tender for national e-Gov portal; underway/gateway"
+ },
+ {
+  "url": "https://techsoma.africa/burundi-opens-a-digital-single-window-that-cuts-import-permit-delays/",
+  "title": "Burundi Opens a Digital Single Window That Cuts Import Permit Delays",
+  "publisher": "Techsoma",
+  "published": "2026-02-20",
+  "sub_indicator": "eservices",
+  "why": "Online multi-agency service in service"
+ },
+ {
+  "url": "https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/",
+  "title": "Burundi Revenue Authority rolls out E-KORI digital tax platform",
+  "publisher": "Burundi Times",
+  "published": "2026-01-20",
+  "sub_indicator": "eservices",
+  "why": "Online tax services launched"
+ },
+ {
+  "url": "https://finances.gov.bi/index.php/2023/11/14/ordonnance-ministerielle-n540-1377-du-31-10-2023-portant-mise-en-place-dun-systeme-des-teleprocedures-via-le-portail-umutangakori/",
+  "title": "Ordonnance Ministérielle N°540/1377 du 31/10/2023 ... portail UMUTANGAKORI",
+  "publisher": "Ministère des Finances, du Budget et de l'Economie Numérique",
+  "published": "2023-11-14",
+  "sub_indicator": "eservices",
+  "why": "Teleprocedures portal established"
+ },
+ {
+  "url": "http://isoko.gov.bi/",
+  "title": "ISOKO portail",
+  "publisher": "Ministère de la Fonction publique",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Number of procedures on portal"
+ },
+ {
+  "url": "https://pafen.gov.bi/facilitateurs-de-la-prestation-de-services-publics/",
+  "title": "Facilitateurs de la prestation de services publics numériques",
+  "publisher": "PAFEN",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Central e-service portal planned"
+ }
+]

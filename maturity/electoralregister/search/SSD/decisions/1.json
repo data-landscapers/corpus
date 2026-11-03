@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll",
+ "fact": "On 2 September 2026 the NEC said no voter had been registered and no electoral register existed yet, and that registration would be manual, in person on paper, with data entered into computers afterwards.",
+ "title": "Statement on False Reports about Voter Registration",
+ "publisher": "National Elections Commission",
+ "published": "2026-09-02",
+ "date_source": "source",
+ "why_not": ""
+}

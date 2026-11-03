@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "gateway",
+ "fact": "The strategy states the existing e-Liberia portal only consolidates website links of ministries and agencies, a consultancy to revamp it was initiated, and ID APIs are case-by-case; 15% of the population held a national ID by December 2024.",
+ "title": "\"Whole of Government\" National Digital Strategy",
+ "publisher": "Government of Liberia, Ministry of Posts and Telecommunications",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

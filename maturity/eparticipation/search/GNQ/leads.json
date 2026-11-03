@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://bti-project.org/en/reports/country-report/GNQ",
+  "title": "BTI 2026 Equatorial Guinea Country Report",
+  "publisher": "Bertelsmann Stiftung",
+  "published": "2026",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 no meaningful public consultation"
+ },
+ {
+  "url": "https://realequatorialguinea.com/destacado/politica/ministro-de-justicia-para-el-nuevo-codigo-civil-la-dote-no-podra-superar-1-millon-de-xaf/",
+  "title": "Ministro de Justicia: Para el nuevo Código Civil, la dote no podrá superar 1 millón de XAF",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2026-05-05",
+  "sub_indicator": "eparticipation",
+  "why": "Q2 consultation on draft civil code"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/ha_comenzado_el_analisis_del_proyecto_de_ley_por_el_que_se_reforma_la_ley_de_minas",
+  "title": "Ha comenzado el análisis del proyecto de ley por el que se reforma la Ley de Minas",
+  "publisher": "Guinea Ecuatorial Press (Gobierno)",
+  "published": "2026-08-18",
+  "sub_indicator": "eparticipation",
+  "why": "Q2 community consultation required in draft mining law"
+ },
+ {
+  "url": "https://effectivecooperation.org/sites/default/files/2026-03/ES_Equatorial%20Guinea_Country%20Results%20Brief.pdf",
+  "title": "Guinea Ecuatorial Country Results Brief",
+  "publisher": "GPEDC",
+  "published": "2026",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 consultation on development plan"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "On 21 May 2025 Eswatini launched the Government In Your Hand app, letting users track ID and passport status, register businesses and pay vehicle licences by Mobile Money, with registration by national ID.",
+ "title": "Eswatini launches new apps to ease access to government services",
+ "publisher": "Swazi24",
+ "published": "2025-05-21",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.eeas.europa.eu/sites/default/files/documents/2023/EU%20EOM%20ZWE%202023%20FR.pdf",
+  "title": "Zimbabwe 2023 EU Election Observation Mission report",
+  "publisher": "EU EOM",
+  "published": "2023",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q3: permanent biometric register, roll public"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202306/zimbabweans-verify-entries-on-voters-roll-after-criticized-biometric-registration",
+  "title": "Zimbabweans verify entries on voter's roll after criticized biometric registration",
+  "publisher": "Biometric Update",
+  "published": "2023-06-02",
+  "sub_indicator": "electoral",
+  "why": "Q3: roll inspection 27-31 May 2023"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202303/zimbabwe-ends-biometric-voter-registration-drive-with-over-450k-new-registrants",
+  "title": "Zimbabwe ends biometric voter registration drive with over 450K new registrants",
+  "publisher": "Biometric Update",
+  "published": "2023-03-28",
+  "sub_indicator": "electoral",
+  "why": "Q2: BVR in service, concurrent with ID enrolment"
+ },
+ {
+  "url": "https://thenewshawks.com/check-your-details-on-voters-roll/",
+  "title": "Check your details on voters' roll",
+  "publisher": "NewsHawks",
+  "published": "2023-06-07",
+  "sub_indicator": "electoral",
+  "why": "Q3: *265# and web check"
+ },
+ {
+  "url": "https://www.zec.org.zw/proclamation-and-resultant-activities/",
+  "title": "Proclamation and Resultant Activities",
+  "publisher": "Zimbabwe Electoral Commission",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q3: *265# verification"
+ },
+ {
+  "url": "https://www.veritaszim.net/node/6351",
+  "title": "Election Watch 12-2023 - Inspection of Voters Rolls",
+  "publisher": "Veritas",
+  "published": "2023-05-29",
+  "sub_indicator": "electoral",
+  "why": "Q3: inspection at polling stations and USSD"
+ },
+ {
+  "url": "https://www.newzimbabwe.com/zec-says-voters-roll-in-pdf-format-to-avoid-altering-dismisses-claims-its-not-analysable/",
+  "title": "ZEC says voters' roll in PDF format",
+  "publisher": "NewZimbabwe.com",
+  "published": "2023-07-22",
+  "sub_indicator": "electoral",
+  "why": "Q2: roll format"
+ },
+ {
+  "url": "https://www.zimlive.com/confirmed-election-candidates-to-get-electronic-voters-roll-zec-says/",
+  "title": "Confirmed election candidates to get electronic voters roll, ZEC says",
+  "publisher": "Zimbabwe News Now",
+  "published": "2023-06-20",
+  "sub_indicator": "electoral",
+  "why": "Q2: electronic roll"
+ }
+]

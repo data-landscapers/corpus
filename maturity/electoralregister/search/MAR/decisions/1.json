@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;checked",
+ "fact": "In March 2026 the Interior Ministry's digitised electoral-roll portal let citizens register or transfer online and check their registration and polling station with the CNIE number, with SMS or email notifications.",
+ "title": "Élections 2026 : le ministère de l'Intérieur mise sur la gestion digitalisée des listes électorales",
+ "publisher": "Le Matin.ma",
+ "published": "2026-03-27",
+ "date_source": "source",
+ "why_not": ""
+}

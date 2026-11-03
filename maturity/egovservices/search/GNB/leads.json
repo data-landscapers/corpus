@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://ang.gw/seguranca-social-projeto-de-transformacao-digital-da-instituicao-ira-permitir-maior-controlo-das-receitas-no-pais-diz-marciano-barbeiro/",
+  "title": "Segurança Social/Projeto de Transformação Digital da instituição irá permitir maior controlo das receitas no país",
+  "publisher": "Agência de Notícias da Guiné",
+  "published": "2024-10-29",
+  "sub_indicator": "eservices",
+  "why": "Q1: INSS portal launched, online service"
+ },
+ {
+  "url": "https://ecitizen.mkba.net/home",
+  "title": "Citin - Portal Nacional de Serviços Públicos",
+  "publisher": "eCitizen Guinea-Bissau",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Q2-Q4: 68 services, 245K registered"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P17701618ea044d911f31145761b29d11665b1379389.pdf",
+  "title": "Guiné-Bissau Diagnóstico da Economia Digital",
+  "publisher": "World Bank Group",
+  "published": "2021",
+  "sub_indicator": "eservices",
+  "why": "Q1-Q3: state of public digital platforms"
+ },
+ {
+  "url": "https://repositorio.ufsc.br/handle/123456789/274639",
+  "title": "Avaliação da Usabilidade do Portal de Governo Digital da Guiné-Bissau",
+  "publisher": "Universidade Federal de Santa Catarina",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Q1-Q2: government portal usability"
+ }
+]

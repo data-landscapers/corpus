@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "The SEPE portal, launched in January 2019 as a single centralised access point to government services, gave access to more than 170 services from 15 government agencies.",
+ "title": "Diagnóstico da Economia Digital de Angola",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.maliweb.net/elections-ceni/revision-des-listes-electorales-2025-tous-les-documents-fin-prets-3109364.html",
+  "title": "Révision des listes électorales 2025 : Tous les documents fin prêts",
+  "publisher": "L'Essor",
+  "published": "2025-09-18",
+  "sub_indicator": "electoral",
+  "why": "Roll revision 2025"
+ },
+ {
+  "url": "https://www.msn.com/fr-xl/actualite/other/mali-r%C3%A9vision-des-listes-%C3%A9lectorales-sans-date-de-scrutin/ar-AA2doLev",
+  "title": "Mali : révision des listes électorales sans date de scrutin",
+  "publisher": "MSN",
+  "published": "2026-10-02",
+  "sub_indicator": "electoral",
+  "why": "Voters check on ralemali.ml; roll from biometric civil base with NINA"
+ },
+ {
+  "url": "https://bamada.net/revision-annuelle-des-listes-electorales-2026-au-mali-les-citoyens-appeles-a-verifier-leur-inscription-avant-la-cloture-des-operations",
+  "title": "Révision annuelle des listes électorales 2026 au Mali",
+  "publisher": "Bamada.net",
+  "published": "2026-10-16",
+  "sub_indicator": "electoral",
+  "why": "Citizens asked to check registration"
+ },
+ {
+  "url": "https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage",
+  "title": "Fichier électoral : l'heure du grand nettoyage",
+  "publisher": "Bamada.net",
+  "published": "2026-10-06",
+  "sub_indicator": "electoral",
+  "why": "Roll built from biometric civil base, NINA"
+ },
+ {
+  "url": "https://lessor.ml/posts/loi-electorale-les-articles-52-57-et-70-modifies-677641a527512",
+  "title": "Loi électorale : Les articles 52, 57 et 70 modifiés",
+  "publisher": "L'Essor",
+  "published": "2025-01-02",
+  "sub_indicator": "electoral",
+  "why": "Roll and civil biometric database"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20240214-bamako-affirme-avoir-pirat%C3%A9-une-entreprise-fran%C3%A7aise-pour-r%C3%A9cup%C3%A9rer-des-donn%C3%A9es-%C3%A9lectorales",
+  "title": "Bamako affirme avoir piraté une entreprise française pour récupérer des données électorales",
+  "publisher": "RFI",
+  "published": "2024-02-14",
+  "sub_indicator": "electoral",
+  "why": "RAVEC data and Mali Koura Biométrie"
+ },
+ {
+  "url": "https://www.maliweb.net/societe/mali-ravec-mali-kura-biometrie-ou-lexpression-de-la-souverainete-numerique-3053496.html",
+  "title": "Ravec : Mali kura biométrie",
+  "publisher": "L'Essor",
+  "published": "2024-02-14",
+  "sub_indicator": "electoral",
+  "why": "New biometric system, newly-adult enrolment blocked"
+ },
+ {
+  "url": "https://www.maliweb.net/elections-ceni/district-de-bamako-laige-supervise-la-revision-annuelle-des-listes-3120950.html",
+  "title": "District de Bamako : L'AIGE supervise la Révision Annuelle des Listes Électorales",
+  "publisher": "L'Aube",
+  "published": "2026-10-26",
+  "sub_indicator": "electoral",
+  "why": "Annual revision Oct 2026"
+ }
+]

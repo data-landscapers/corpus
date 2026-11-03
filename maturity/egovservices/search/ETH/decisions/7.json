@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "In April 2025 the federal government piloted Mesob, offering 41 services across 12 institutions with sign-in by Fayda digital ID credentials.",
+ "title": "Ethiopia Launches Mesob Digital Portal to Unify Government Services",
+ "publisher": "ID Tech",
+ "published": "2025-04-28",
+ "date_source": "source",
+ "why_not": ""
+}

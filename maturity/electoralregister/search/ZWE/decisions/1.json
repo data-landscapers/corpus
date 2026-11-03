@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;checked",
+ "fact": "The EU observation report says the Zimbabwe Electoral Commission maintains the permanent biometric voter register and that the voters' roll is a public document of which electronic copies are provided on request, the final electronic roll reaching parties on 10 July 2023.",
+ "title": "Zimbabwe 2023 final report, EU Election Observation Mission",
+ "publisher": "European Union Election Observation Mission",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

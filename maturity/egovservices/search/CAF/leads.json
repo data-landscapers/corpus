@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.ecofinagency.com/news-digital/1510-59804-central-african-republics-digital-public-services-face-internet-access-barriers",
+  "title": "Central African Republic's Digital Public Services Face Internet Access Barriers",
+  "publisher": "Ecofin Agency",
+  "published": "2026-10-15",
+  "sub_indicator": "eservices",
+  "why": "portal services list, several ministries"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/1212-51337-central-african-republic-launches-unified-digital-portal-for-all-public-services",
+  "title": "Central African Republic Launches Unified Digital Portal for All Public Services",
+  "publisher": "Ecofin Agency",
+  "published": "2025-12-12",
+  "sub_indicator": "eservices",
+  "why": "single gateway launch Dec 2025"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1112-134227-la-centrafrique-lance-un-portail-numerique-unique-pour-faciliter-l-acces-aux-services-publics",
+  "title": "La Centrafrique lance un portail num\u00e9rique unique pour faciliter l\u2019acc\u00e8s aux services publics",
+  "publisher": "Agence Ecofin",
+  "published": "2025-12-11",
+  "sub_indicator": "eservices",
+  "why": "single portal in French"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202603/cabo-verde-central-african-republic-launch-digital-govt-platforms-to-streamline-service-access",
+  "title": "Cabo Verde, Central African Republic launch digital govt platforms",
+  "publisher": "Biometric Update",
+  "published": "2026-03-03",
+  "sub_indicator": "eservices",
+  "why": "Dunia platform"
+ },
+ {
+  "url": "https://www.intelligentgov.tech/2026/03/09/central-african-republic-launches-digital-platform-to-modernise-public-administration/",
+  "title": "Central African Republic launches digital platform to modernise public administration",
+  "publisher": "Intelligent Gov.tech",
+  "published": "2026-03-09",
+  "sub_indicator": "eservices",
+  "why": "Dunia ministry"
+ },
+ {
+  "url": "https://centrafriqueinfos.com/rca-imperieuse-necessite-dematerialisation-administration/",
+  "title": "RCA : l\u2019imp\u00e9rieuse n\u00e9cessit\u00e9 de la d\u00e9mat\u00e9rialisation de l\u2019administration",
+  "publisher": "Centrafrique Infos",
+  "published": "2026-02-24",
+  "sub_indicator": "eservices",
+  "why": "Dunia launch"
+ },
+ {
+  "url": "https://afrikactus.com/portail-public-centrafrique-ladministration-en-ligne-face-au-defi-dun-acces-internet-encore-trop-rare-dans-les-regions-27768/",
+  "title": "Portail public Centrafrique : l\u2019acc\u00e8s en question",
+  "publisher": "Afrikactus",
+  "published": "2026-10-15",
+  "sub_indicator": "eservices",
+  "why": "portal scope, whether services completed online"
+ }
+]

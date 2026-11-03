@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://parlement.mg/consultation-citoyenne/",
+  "title": "Consultation citoyenne",
+  "publisher": "Assemblée nationale de Madagascar",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q2/Q3 standing portal, synthesis reports"
+ },
+ {
+  "url": "https://parlement.mg/consultations/reforme-code-electoral-2026/",
+  "title": "Réforme du Code Électoral 2026",
+  "publisher": "Assemblée nationale de Madagascar",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 draft law online consultation"
+ },
+ {
+  "url": "https://parlement.mg/consultations/protection-environnement-2025/",
+  "title": "Protection de l'environnement et ressources naturelles",
+  "publisher": "Assemblée nationale de Madagascar",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q3 consultation with synthesis report"
+ },
+ {
+  "url": "https://www.undp.org/fr/madagascar/blog/diamadio-un-nouvel-espace-numerique-pour-rapprocher-citoyens-et-communes",
+  "title": "Diamadio : un nouvel espace numérique pour rapprocher citoyens et communes",
+  "publisher": "UNDP Madagascar",
+  "published": "2026-10-12",
+  "sub_indicator": "eparticipation",
+  "why": "Q2 commune platform"
+ },
+ {
+  "url": "https://www.konstitutionnaka.mg/",
+  "title": "Konstitution'naka",
+  "publisher": "Konstitution'naka",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 participatory constitution platform"
+ },
+ {
+  "url": "https://eusee.hivos.org/alert/opportunity-to-adopt-a-law-on-access-to-public-information-in-madagascar/",
+  "title": "Opportunity to adopt a law on access to public information in Madagascar",
+  "publisher": "Hivos EU SEE",
+  "published": "2025-12-08",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 consultation on draft law"
+ }
+]

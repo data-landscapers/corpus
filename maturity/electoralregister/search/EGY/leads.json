@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.alnaharegypt.com/1146257",
+  "title": "إتاحة قاعدة بيانات الناخبين على الموقع الرسمي للهيئة الوطنية للانتخابات",
+  "publisher": "النهار",
+  "published": "2025-10-17",
+  "sub_indicator": "electoral",
+  "why": "Q3: roll online"
+ },
+ {
+  "url": "https://www.elections.eg/events-menu/news/202-2025",
+  "title": "القاضي أحمد بنداري: مواكبة الطفرة الرقمية",
+  "publisher": "الهيئة الوطنية للانتخابات",
+  "published": "2025-07-16",
+  "sub_indicator": "electoral",
+  "why": "Q2: digitised rolls, QR"
+ },
+ {
+  "url": "https://www.elwatannews.com/news/details/8137356",
+  "title": "دعوة عاجلة من الهيئة الوطنية للانتخابات",
+  "publisher": "الوطن",
+  "published": "2025-09-18",
+  "sub_indicator": "electoral",
+  "why": "Q3-4: roll updated, linked to national number"
+ },
+ {
+  "url": "https://www.gomhuriaonline.com/1722743",
+  "title": "كيفية الاستعلام عن اللجنة الانتخابية",
+  "publisher": "الجمهورية",
+  "published": "2025-11-10",
+  "sub_indicator": "electoral",
+  "why": "Q3: check"
+ },
+ {
+  "url": "https://www.almasryalyoum.com/news/details/3577742",
+  "title": "انتخابات مجلس النواب 2025.. خطوات الاستعلام",
+  "publisher": "المصري اليوم",
+  "published": "2025-10-17",
+  "sub_indicator": "electoral",
+  "why": "Q3: check"
+ },
+ {
+  "url": "http://sohag.gov.eg/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%20%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B5%D8%AD%D9%81.aspx?ID=15117",
+  "title": "كيف تستعلم عن مقر لجنتك الانتخابية",
+  "publisher": "محافظة سوهاج",
+  "published": "2025-07-13",
+  "sub_indicator": "electoral",
+  "why": "Q3: check"
+ }
+]

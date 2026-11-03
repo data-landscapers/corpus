@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.elections.org.zm/wp-content/uploads/20250815-Stakeholder-VR-Presentation.pdf",
+  "title": "ECZ Stakeholder VR Presentation",
+  "publisher": "Electoral Commission of Zambia",
+  "published": "2025-08-15",
+  "sub_indicator": "electoral",
+  "why": "Q2-Q4: biometric kits, ABIS, inspection channels, NRC"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/node/12539",
+  "title": "Friday, 1st August, 2025",
+  "publisher": "National Assembly of Zambia",
+  "published": "2025-08-01",
+  "sub_indicator": "electoral",
+  "why": "Q1/Q2: ABIS procurement, digital registration"
+ },
+ {
+  "url": "https://www.elections.org.zm/?p=5422",
+  "title": "Speech by ECZ Chairperson, stakeholders meeting 15 August 2025",
+  "publisher": "Electoral Commission of Zambia",
+  "published": "2025-08-18",
+  "sub_indicator": "electoral",
+  "why": "Q1: kits contract, timeline"
+ },
+ {
+  "url": "https://www.zambiamonitor.com/electoral-commission-of-zambia-launches-online-voter-pre-registration-platform-ahead-of-2026-general-elections/",
+  "title": "ECZ launches online voter pre-registration platform",
+  "publisher": "Zambia Monitor",
+  "published": "2025-08-21",
+  "sub_indicator": "electoral",
+  "why": "Q1/Q2"
+ },
+ {
+  "url": "https://www.elections.org.zm/?p=5511",
+  "title": "ECZ commences electronic/online inspection of the provisional register of voters",
+  "publisher": "Electoral Commission of Zambia",
+  "published": "2026-02-22",
+  "sub_indicator": "electoral",
+  "why": "Q3: roll open to check"
+ },
+ {
+  "url": "https://www.openzambia.com/politics/2026/2/13/ecz-launches-online-voter-verification-platform-as-election-preparations-gather-pace",
+  "title": "ECZ Launches Online Voter Verification Platform",
+  "publisher": "Open Zambia",
+  "published": "2026-02-13",
+  "sub_indicator": "electoral",
+  "why": "Q3"
+ },
+ {
+  "url": "https://www.cylazambia.org/blog/2025/11/25/false-ecz-will-not-implement-biometric-voting-or-abolish-voters-cards-for-the-2026-general-elections",
+  "title": "FALSE: ECZ will not implement biometric voting",
+  "publisher": "Center for Young Leaders In Africa",
+  "published": "2025-11-20",
+  "sub_indicator": "electoral",
+  "why": "Q2: biometric registration since 2006"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eparticipation",
+ "aspect": "online",
+ "fact": "Parliament's automated e-petitions system has been completed but not yet launched publicly (March 2026).",
+ "title": "Petitions to Parliament: A Tool for Public Participation",
+ "publisher": "People's Assembly",
+ "published": "2026-03-17",
+ "date_source": "source",
+ "why_not": ""
+}

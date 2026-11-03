@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll",
+ "fact": "The Electoral Commissioner's office was canvassing electors door to door from 15 to 31 January 2026 to compile the register.",
+ "title": "Communiqué: Recensement des électeurs, 2026",
+ "publisher": "Bureau du Commissaire Electoral",
+ "published": "2026-01-26",
+ "date_source": "source",
+ "why_not": ""
+}

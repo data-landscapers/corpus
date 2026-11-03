@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "eparticipation",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: gives an engagement score, no dated fact on the aspects"
+}

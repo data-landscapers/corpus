@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services",
+ "fact": "The Nigeria Immigration Service launched an online passport application portal on 8 January 2024, with fees paid online.",
+ "title": "Immigration unveils online passport application portal today",
+ "publisher": "Punch",
+ "published": "2024-01-08",
+ "date_source": "source",
+ "why_not": ""
+}

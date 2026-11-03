@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "usage",
+ "fact": "At a parliamentary committee hearing on 3 November 2023 the Presidency of the Government said 18% of people use remote administrative services and 13% of citizens hold a digital identity.",
+ "title": "لجنة تنظيم الإدارة تعقد جلسة استماع حول مدى التقدم في انجاز البرامج والمشاريع المتعلقة بالإدارة الإلكترونية",
+ "publisher": "Assemblée des représentants du peuple",
+ "published": "2023-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "The Government Service Portal at services.gov.ng went live with single sign-on by National Identification Number across ministries, in a pilot phase.",
+ "title": "Nigeria Launches Services.gov.ng",
+ "publisher": "Techsoma",
+ "published": "2026-08-18",
+ "date_source": "source",
+ "why_not": ""
+}

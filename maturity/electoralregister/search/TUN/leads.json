@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.ifes.org/sites/default/files/2024-09/2024%20Tunisia%20Presidential%20Elections.pdf",
+  "title": "2024 Tunisia Presidential Elections FAQ",
+  "publisher": "IFES",
+  "published": "2024-09-30",
+  "sub_indicator": "electoral",
+  "why": "Automatic registration, phone check of lists, 9,753,207 voters"
+ },
+ {
+  "url": "https://www.tunisienumerique.com/registre-electoral-prolongation-des-delais-de-mise-a-jour/",
+  "title": "Registre électoral: Prolongation des délais de mise à jour",
+  "publisher": "Tunisie Numérique",
+  "published": "2024-08-12",
+  "sub_indicator": "electoral",
+  "why": "Voters check via *195*CIN# or site (q4,q5)"
+ },
+ {
+  "url": "https://directinfo.webmanagercenter.com/2024/05/16/tunisie-reunion-entre-lisie-et-le-centre-national-de-linformatique/",
+  "title": "Réunion entre l'ISIE et le Centre National de l'Informatique",
+  "publisher": "Directinfo",
+  "published": "2024-05-16",
+  "sub_indicator": "electoral",
+  "why": "Register audit with state institutions (q5)"
+ },
+ {
+  "url": "https://www.leconomistemaghrebin.com/2024/05/06/isie-actualisation-du-registre-electoral-a-partir-du-20-mai-courant/",
+  "title": "ISIE: Actualisation du registre électoral à partir du 20 mai courant",
+  "publisher": "L'Economiste Maghrébin",
+  "published": "2024-05-06",
+  "sub_indicator": "electoral",
+  "why": "Remote update site and free SMS check (q4)"
+ },
+ {
+  "url": "https://www.leconomistemaghrebin.com/2024/04/16/isie-reunion-sur-actualisation-du-registre-electoral-et-developpement-de-nouveaux-services-numeriques/",
+  "title": "ISIE: vers l'actualisation du registre électoral",
+  "publisher": "L'Economiste Maghrébin",
+  "published": "2024-04-16",
+  "sub_indicator": "electoral",
+  "why": "9,136,502 registered, new mobile app (q3)"
+ },
+ {
+  "url": "https://www.webdo.tn/fr/actualite/national/isie-les-electeurs-peuvent-desormais-mettre-a-jour-leurs-donnees/208421/",
+  "title": "ISIE : Les électeurs peuvent désormais mettre à jour leurs données",
+  "publisher": "Webdo",
+  "published": "2023-09-05",
+  "sub_indicator": "electoral",
+  "why": "Check registration by USSD with ID number or online (q4,q5)"
+ }
+]

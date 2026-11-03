@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "checked;linked",
+ "fact": "ISIE said registered voters can check their registration and polling centre by dialling *195*national ID number# or on touenssa.isie.tn, and update it there.",
+ "title": "ISIE : Les électeurs peuvent désormais mettre à jour leurs données",
+ "publisher": "Webdo",
+ "published": "2023-09-05",
+ "date_source": "source",
+ "why_not": ""
+}

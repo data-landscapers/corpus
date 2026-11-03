@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ecofinagency.com/news-digital/0206-56068-dr-congo-launches-national-digital-gateway-to-centralize-public-services",
+  "title": "DR Congo Launches National Digital Gateway to Centralize Public Services",
+  "publisher": "Ecofin Agency",
+  "published": "2026-06-02",
+  "sub_indicator": "eservices",
+  "why": "Q3 single gateway adopted"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident",
+  "title": "DRC launches RDC-Pass digital ID platform",
+  "publisher": "Biometric Update",
+  "published": "2026-06-15",
+  "sub_indicator": "eservices",
+  "why": "Q3 single login national ID"
+ },
+ {
+  "url": "https://augustinkibassa.cd/2026/06/14/s-e-m-felix-antoine-tshisekedi-lance-rdc-pass-lidentifiant-numerique-unique-de-la-rdc/",
+  "title": "Tshisekedi lance RDC-Pass",
+  "publisher": "Augustin Kibassa (minister)",
+  "published": "2026-06-14",
+  "sub_indicator": "eservices",
+  "why": "Q3 RDC-Pass launch"
+ },
+ {
+  "url": "https://fonctionpublique.gouv.cd/innovation-du-service-public-se-materialise-avec-le-lancement-du-portail-numerique-de-la-fonction-publique/",
+  "title": "Innovation du Service Public: lancement du portail de la Fonction Publique",
+  "publisher": "Ministère de la Fonction Publique",
+  "published": "2023-07-18",
+  "sub_indicator": "eservices",
+  "why": "Q1 portal and app with online procedures"
+ },
+ {
+  "url": "https://bankable.africa/en/business-climate/1811-532-public-finance-dr-congo-launches-online-portal-to-track-payments",
+  "title": "DR Congo Launches Online Portal to Track Payments",
+  "publisher": "Bankable",
+  "published": "2024-11-18",
+  "sub_indicator": "eservices",
+  "why": "Q1 online service launched"
+ },
+ {
+  "url": "https://www.africanewsrdc.net/actu/nicolas-kazadi-plateforme-numerique-plaques-cartes-roses/",
+  "title": "Plateforme numérique de demande de plaques et cartes roses",
+  "publisher": "AfricaNews RDC",
+  "published": "2024-02-26",
+  "sub_indicator": "eservices",
+  "why": "Q1 apply and pay online"
+ },
+ {
+  "url": "https://deskeco.com/2026/03/06/kinshasa-la-dgrk-lance-la-plateforme-irms-dgrkcom-pour-la-declaration-et-le-paiement-des-impots-en",
+  "title": "DGRK lance irms-dgrk.com",
+  "publisher": "DeskEco",
+  "published": "2026-03-06",
+  "sub_indicator": "eservices",
+  "why": "Q1 online tax filing and payment"
+ },
+ {
+  "url": "https://www.opinion-info.cd/politique/2026/08/21/tshopo-le-gouvernement-lance-veri-gov-une-plateforme-pour-payer-les-impots-et",
+  "title": "Tshopo: Veri-Gov",
+  "publisher": "Opinion Info",
+  "published": "2026-08-21",
+  "sub_indicator": "eservices",
+  "why": "Q1 provincial online payment"
+ }
+]

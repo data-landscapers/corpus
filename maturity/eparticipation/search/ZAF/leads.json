@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://pmg.org.za/committee-meeting/40966/",
+  "title": "E-Petitions Solution Training",
+  "publisher": "PMG",
+  "published": "2025-06-11",
+  "sub_indicator": "eparticipation",
+  "why": "Parliament e-petitions system"
+ },
+ {
+  "url": "https://www.pa.org.za/blog/petitions-to-parliament-a-tool-for-public-particip",
+  "title": "Petitions to Parliament: A Tool for Public Participation",
+  "publisher": "People's Assembly",
+  "published": "2026-03-17",
+  "sub_indicator": "eparticipation",
+  "why": "e-petitions system not yet launched"
+ },
+ {
+  "url": "https://www.gov.za/documents/draft-bills",
+  "title": "Draft Bills",
+  "publisher": "South African Government",
+  "published": "2026",
+  "sub_indicator": "eparticipation",
+  "why": "drafts posted for comment"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/treasury-publishes-draft-general-finance-laws-official-benchmarks-and",
+  "title": "Treasury publishes Draft General Finance Laws Amendment Bill, 2025 for public comment",
+  "publisher": "National Treasury",
+  "published": "2025-12-02",
+  "sub_indicator": "eparticipation",
+  "why": "named draft bill for comment"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/national-treasury-publication-2025-draft-tax-bills-and-draft-regulations",
+  "title": "National Treasury on publication of the 2025 draft tax bills",
+  "publisher": "National Treasury",
+  "published": "2025-08-16",
+  "sub_indicator": "eparticipation",
+  "why": "draft bills for comment; response document"
+ },
+ {
+  "url": "https://www.gov.za/sites/default/files/gcis_document/202509/53426gon6676.pdf",
+  "title": "Business Licensing Bill: Draft: Comments invited",
+  "publisher": "Department of Small Business Development",
+  "published": "2025-09-26",
+  "sub_indicator": "eparticipation",
+  "why": "draft posted for comment"
+ },
+ {
+  "url": "https://pmg.org.za/tabled-committee-report/6700/",
+  "title": "Report of the Portfolio Committee on Health on the Tobacco Products Bill",
+  "publisher": "PMG",
+  "published": "2026-06-24",
+  "sub_indicator": "eparticipation",
+  "why": "comments received and department response"
+ },
+ {
+  "url": "https://www.saflii.org/za/cases/ZACC/2023/14.html",
+  "title": "Mogale v Speaker of the National Assembly",
+  "publisher": "Constitutional Court of South Africa",
+  "published": "2023",
+  "sub_indicator": "eparticipation",
+  "why": "duty to facilitate public participation"
+ }
+]

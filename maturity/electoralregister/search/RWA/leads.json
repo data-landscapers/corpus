@@ -1,0 +1,6 @@
+[
+{"url":"https://www.ktpress.rw/2024/05/the-9-5-million-rwandans-on-voter-list/","title":"The 9.5 Million Rwandans on Voter List","publisher":"KT Press","published":"2024-05-13","sub_indicator":"electoral","why":"Q2-Q4: list extracted electronically from NIDA, checking and USSD change"},
+{"url":"https://www.ktpress.rw/2024/05/rwanda-decides-electoral-body-says-more-than-two-million-first-time-voters-registered/","title":"Rwanda Decides: Electoral Body Says More Than Two Million First Time Voters Registered","publisher":"KT Press","published":"2024-05-16","sub_indicator":"electoral","why":"Q3,Q4: NEC-NIDA linked systems, USSD *169# check/update"},
+{"url":"https://english.news.cn/africa/20240630/d53b82a4596a423cb1b5a72c86614444/c.html","title":"9.7 mln people eligible to vote in Rwanda election: electoral body","publisher":"Xinhua","published":"2024-06-30","sub_indicator":"electoral","why":"Q2,Q4: final list released, all ID holders appear"},
+{"url":"https://www.rwandainuk.gov.rw/index.php?eID=dumpFile&f=98481&t=f&token=d882d7a2167e0aa70f323e5c68d2dfd222085d76","title":"Voter Self-Transfer User Manual","publisher":"National Electoral Commission","published":"2024","sub_indicator":"electoral","why":"Q3: online check of registration by ID number"}
+]

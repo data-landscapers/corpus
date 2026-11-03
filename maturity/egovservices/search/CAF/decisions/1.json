@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "services;gateway",
+ "fact": "On 14 October 2026 the Central African Republic launched a national digital portal listing services across transport, justice, education and health, including driving licence, criminal record extract and nationality certificate requests.",
+ "title": "Central African Republic's Digital Public Services Face Internet Access Barriers",
+ "publisher": "Ecofin Agency",
+ "published": "2026-10-15",
+ "date_source": "source",
+ "why_not": ""
+}

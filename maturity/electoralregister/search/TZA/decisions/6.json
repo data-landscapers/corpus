@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "linked",
+ "fact": "Online amendment of register details required a NIDA National Identification Number, used to verify the voter information.",
+ "title": "INEC approves 191 CSOs to conduct voter education",
+ "publisher": "Daily News",
+ "published": "2024-06-29",
+ "date_source": "source",
+ "why_not": ""
+}

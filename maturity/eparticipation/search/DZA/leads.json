@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://news.radioalgerie.dz/ar/node/84268",
+  "title": "وزارة الشباب تطلق منصتها الرقمية \"صوتكم\" للتكفل بانشغالات فئة الشباب",
+  "publisher": "Radio Algérienne",
+  "published": "2026-04-20",
+  "sub_indicator": "eparticipation",
+  "why": "Q1-2: ministry online platform for youth proposals"
+ },
+ {
+  "url": "https://www.dzair-tube.dz/en/algeria-launches-sawtoukoum-platform-to-channel-youth-feedback-and-complaints/",
+  "title": "Algeria launches Sawtoukoum platform to channel youth feedback and complaints",
+  "publisher": "DzairTube",
+  "published": "2026-04-20",
+  "sub_indicator": "eparticipation",
+  "why": "Q1-2: same platform, English"
+ },
+ {
+  "url": "https://lavoiedalgerie.dz/democratie-participative-en-algerie-une-etude-trace-la-voie-pour-un-cadre-reglementaire/2025/14/00/",
+  "title": "Démocratie participative en Algérie : Une étude trace la voie pour un cadre réglementaire",
+  "publisher": "La Voix de l'Algérie",
+  "published": "2025-09-14",
+  "sub_indicator": "eparticipation",
+  "why": "Q1-3: interior ministry survey of 34,275 participants; no framework yet"
+ },
+ {
+  "url": "https://www.aljazairalyoum.dz/%d9%84%d8%a5%d8%ab%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d8%aa%d9%85%d9%87%d9%8a%d8%af%d9%8a-%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%ac%d9%85%d8%b9/",
+  "title": "المرصد الوطني للمجتمع المدني يطلق استشارة للجمعيات",
+  "publisher": "Al Djazair Alyoum",
+  "published": "2025-01-22",
+  "sub_indicator": "eparticipation",
+  "why": "Q2: consultation on draft associations law with digital registration platform"
+ },
+ {
+  "url": "https://algeriatech.news/fr/civic-tech-open-government-participation-2026-fr/",
+  "title": "Civic tech et gouvernement ouvert : comment la technologie transforme la participation",
+  "publisher": "ALGERIATECH",
+  "published": "2025-12-30",
+  "sub_indicator": "eparticipation",
+  "why": "Q1: absence of OGP, no participation platforms"
+ }
+]

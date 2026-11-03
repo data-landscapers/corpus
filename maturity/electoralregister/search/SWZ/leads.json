@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/",
+  "title": "Biometric technology set to strengthen voter registration",
+  "publisher": "Eswatini Positive News",
+  "published": "2026-09-11",
+  "sub_indicator": "electoral",
+  "why": "Q1/Q2: biometric continuous registration"
+ },
+ {
+  "url": "https://www.eswatiniobserver.com/pm-positions-himself-for-national-elections/",
+  "title": "PM positions himself for national elections",
+  "publisher": "Eswatini Observer",
+  "published": "2026-09-12",
+  "sub_indicator": "electoral",
+  "why": "Q2: biometric capture"
+ },
+ {
+  "url": "https://www.au.int/sites/default/files/pressreleases/43197-pr-PRELIMINARY_STATEMENT_-_AUEOM_IN_THE_KINGDOM_OF_ESWATINI_-_1_OCT_2023.pdf",
+  "title": "Preliminary Statement AUEOM Eswatini",
+  "publisher": "African Union",
+  "published": "2023-10-01",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q3/Q4: roll, validation, ID"
+ },
+ {
+  "url": "https://eswatinipositivenews.online/15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate/",
+  "title": "15 000 emaSwati registered as EBC urges youth, disabled",
+  "publisher": "Eswatini Positive News",
+  "published": "2026-10-13",
+  "sub_indicator": "electoral",
+  "why": "Q4: national ID required"
+ },
+ {
+  "url": "https://eswatinipositivenews.online/moved-to-a-new-area-you-can-register-to-vote-after-six-months-ebc/",
+  "title": "Moved to a new area? You can register after six months",
+  "publisher": "Eswatini Positive News",
+  "published": "2026-10-20",
+  "sub_indicator": "electoral",
+  "why": "Q2: continuous registration"
+ },
+ {
+  "url": "https://www.africa-press.net/eswatini/all-news/impressive-achievements-made-by-ebc-this-year",
+  "title": "Impressive achievements made by EBC this year",
+  "publisher": "Africa-Press",
+  "published": "2023-10-03",
+  "sub_indicator": "electoral",
+  "why": "Q3: validation of register"
+ },
+ {
+  "url": "https://www.elections.org.sz/2023/electoral-process/",
+  "title": "Electoral Process",
+  "publisher": "Elections and Boundaries Commission",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q3: voter validation"
+ },
+ {
+  "url": "https://www.idea.int/data-tools/data/country?country=215&database_theme=327",
+  "title": "Database result Eswatini",
+  "publisher": "International IDEA",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q2/Q3: no online check"
+ }
+]

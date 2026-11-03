@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://topfm.mu/actualites/services-publics-numeriques-pres-dun-demi-million-de-mauriciens-desormais-enregistres-sur",
+  "title": "Services publics numériques : près d'un demi-million de Mauriciens désormais enregistrés sur l'application Korek",
+  "publisher": "Top FM",
+  "published": "2026-10-07",
+  "sub_indicator": "eservices",
+  "why": "Q4 use of national app"
+ },
+ {
+  "url": "https://lexpress.mu/s/application-korek-462-310-enregistrements-depuis-janvier-2026-557967",
+  "title": "Application KOREK : 462 310 enregistrements depuis janvier 2026",
+  "publisher": "l'express",
+  "published": "2026-05-14",
+  "sub_indicator": "eservices",
+  "why": "Q2/Q3/Q4 count of online services, single gateway, users"
+ },
+ {
+  "url": "https://mitci.govmu.org/mitci/online-motor-vehicle-licence-system-launched-for-taxi-operators/",
+  "title": "Online Motor Vehicle Licence system launched for taxi operators",
+  "publisher": "MITCI",
+  "published": "2026-08-17",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q3 new online service, MauPass, KOREK"
+ },
+ {
+  "url": "https://topfm.mu/au-1er-juin-2025-300-000-personnes-se-sont-enregistrees-sur-maupass-le-service-en-ligne-des",
+  "title": "300 000 enregistrés sur MauPass",
+  "publisher": "Top FM",
+  "published": "2025-07-03",
+  "sub_indicator": "eservices",
+  "why": "Q4 MauPass users, NLTA online declarations"
+ },
+ {
+  "url": "http://cloudbeta.lexpress.mu/s/rs-56-millions-pour-un-service-qui-peine-a-convaincre-544453",
+  "title": "Applications mobiles de l'état : Rs 56 millions pour un service qui peine à convaincre",
+  "publisher": "l'express",
+  "published": "2025-04-19",
+  "sub_indicator": "eservices",
+  "why": "Q4 users of MauPass and apps"
+ },
+ {
+  "url": "https://www.lemauricien.com/actualites/societe/mokloud-plateforme-en-ligne-pour-vos-demarches-sans-deplacement/650894/",
+  "title": "Mokloud : Plateforme en ligne pour vos démarches sans déplacement",
+  "publisher": "Le Mauricien",
+  "published": "2024-10-01",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q3 MauPass single sign-on, MoKloud services"
+ },
+ {
+  "url": "https://oecd-opsi.org/innovations/maupass/",
+  "title": "MAUPASS: one place to transact with government",
+  "publisher": "OECD OPSI",
+  "published": "2023-11-27",
+  "sub_indicator": "eservices",
+  "why": "Q3 single sign-on validated against Central Population Database"
+ },
+ {
+  "url": "https://mitci.govmu.org/mitci/soft-launch-of-the-korek-super-app/",
+  "title": "Soft launch of the KOREK! Super App",
+  "publisher": "MITCI",
+  "published": "",
+  "sub_indicator": "eservices",
+  "why": "Q1/Q3 gateway app launch"
+ }
+]

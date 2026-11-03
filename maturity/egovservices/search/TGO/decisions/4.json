@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "usage",
+ "fact": "Between 2017 and 2024, 337,870 active users were counted on online administrative platforms, with 241,390 electronic administrative documents issued and 42,810 online tax filers in 2024.",
+ "title": "Togo : 337 870 utilisateurs actifs de l'e-gouvernement entre 2017 et 2024",
+ "publisher": "Actu Togo",
+ "published": "2026-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

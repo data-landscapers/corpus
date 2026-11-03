@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "eservices",
+ "aspect": "gateway;services",
+ "fact": "The Gabon Connect single portal for public e-procedures (eTax, eEmployeur, TrésorPay, eDouanes, ePropriété) opened on 21 October 2026 under one account, one payment and one receipt.",
+ "title": "cérémonie officielle de lancement du déploiement des portails de la DUS",
+ "publisher": "Gabon Clap Info",
+ "published": "2026-10-23",
+ "date_source": "source",
+ "why_not": ""
+}

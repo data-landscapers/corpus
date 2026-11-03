@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://togopresse.tg/la-revision-des-listes-electorales-annoncee-du-07-au-23-avril-2025-en-prelude-aux-elections-municipales/",
+  "title": "La révision des listes électorales annoncée du 07 au 23 avril 2025",
+  "publisher": "Togo-Presse",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q2 biometric cards, roll revision"
+ },
+ {
+  "url": "https://territoire.gouv.tg/revision-des-listes-electorales-2025-au-togo-des-centres-de-recensement-et-de-vote-dans-les-prefectures-des-lacs-et-du-golfe-visites-par-le-ministre-awate-hodabalo/",
+  "title": "Révision des listes électorales 2025 au Togo",
+  "publisher": "Ministère de l'Administration Territoriale",
+  "published": "2025-04-08",
+  "sub_indicator": "electoral",
+  "why": "Q2 revision at centres"
+ },
+ {
+  "url": "https://www.togofirst.com/en/politics/0304-16072-togo-begins-electoral-roll-revision-for-2025-municipal-elections",
+  "title": "Togo Begins Electoral Roll Revision for 2025 Municipal Elections",
+  "publisher": "Togo First",
+  "published": "2025-04-03",
+  "sub_indicator": "electoral",
+  "why": "Q2 revision, 4.2m voters"
+ },
+ {
+  "url": "https://au.int/sites/default/files/documents/44059-doc-Rapport_final_Elections_Legislatives_-_Togo_2024.pdf",
+  "title": "Rapport de la Mission d'Observation Électorale de l'Union Africaine : Togo 2024",
+  "publisher": "African Union",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q2 biometric census 2023"
+ },
+ {
+  "url": "https://anid.gouv.tg/en/faq-en/",
+  "title": "FAQ - Agence Nationale d'Identification",
+  "publisher": "ANID",
+  "published": "2024-12-20",
+  "sub_indicator": "electoral",
+  "why": "Q4 voter card accepted for e-ID"
+ },
+ {
+  "url": "https://atop.tg/revision-des-listes-electorales-la-premiere-vague-des-operateurs-de-saisie-en-formation/",
+  "title": "Révision des listes électorales : La première vague des opérateurs de saisie en formation",
+  "publisher": "ATOP",
+  "published": "2025-03-22",
+  "sub_indicator": "electoral",
+  "why": "Q2 biometric kits"
+ },
+ {
+  "url": "https://togoscoop.tg/23015-2/",
+  "title": "Processus électoral : L'OIF certifie la fiabilité du fichier électoral togolais",
+  "publisher": "Togo Scoop",
+  "published": "2023-11-15",
+  "sub_indicator": "electoral",
+  "why": "Q2 biometric file audit"
+ },
+ {
+  "url": "https://www.francophonie.org/sites/default/files/2025-10/MEF_Togo_2024_Rapport_synthetique.pdf",
+  "title": "Rapport de la Mission électorale de la Francophonie",
+  "publisher": "OIF",
+  "published": "2025",
+  "sub_indicator": "electoral",
+  "why": "Q3 roll with photos, annual upkeep"
+ }
+]

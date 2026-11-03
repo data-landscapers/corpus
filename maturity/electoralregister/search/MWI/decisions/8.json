@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;linked",
+ "fact": "MEC announced biometric voter registration from September 2024 using devices supplied by Smartmatic, open only to those holding a national ID card.",
+ "title": "Malawi insists ID card compulsory for scheduled biometric voter registration",
+ "publisher": "Biometric Update",
+ "published": "2024-08-06",
+ "date_source": "source",
+ "why_not": ""
+}

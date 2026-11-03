@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lematin.ma/nation/elections-2026-gestion-digitalisee-des-listes-electorales/337026",
+  "title": "Élections 2026 : le ministère de l'Intérieur mise sur la gestion digitalisée des listes électorales",
+  "publisher": "Le Matin.ma",
+  "published": "2026-03-27",
+  "sub_indicator": "electoral",
+  "why": "online register portal, check by CNIE (Q2,Q3)"
+ },
+ {
+  "url": "https://fr.le360.ma/politique/elections-le-ministere-de-linterieur-reorganise-le-dispositif-electronique-dinscription-electorale_BMWT54IQWJHGTPHLYILOLF2Z34/",
+  "title": "Élections: le ministère de l'Intérieur réorganise le dispositif électronique d'inscription électorale",
+  "publisher": "le360.ma",
+  "published": "2026-03-23",
+  "sub_indicator": "electoral",
+  "why": "portal decision, final list published online (Q2,Q3)"
+ },
+ {
+  "url": "https://lematin.ma/nation/inscription-sur-les-listes-electorales-2026-au-maroc/320983",
+  "title": "Listes électorales : dernier délai fixé au 31 décembre 2025",
+  "publisher": "Le Matin.ma",
+  "published": "2025-12-25",
+  "sub_indicator": "electoral",
+  "why": "online registration, check by portal or SMS 2727 (Q3)"
+ },
+ {
+  "url": "https://article19.ma/accueil/archives/187994",
+  "title": "Laftit : 16,5 millions d'inscrits, 1,4 million radiés des listes électorales",
+  "publisher": "Article19.ma",
+  "published": "2026-01-13",
+  "sub_indicator": "electoral",
+  "why": "computer cross-check with other databases (Q4)"
+ },
+ {
+  "url": "https://fr.le360.ma/politique/elections-2026-plus-de-165-millions-delecteurs-inscrits-vaste-revision-des-listes-electorales_R3AQTS3U7RG4DHSVOOBXVFJ5RU/",
+  "title": "Élections 2026: plus de 16,5 millions d'électeurs inscrits",
+  "publisher": "le360.ma",
+  "published": "2026-01-14",
+  "sub_indicator": "electoral",
+  "why": "central information system, cross-checks (Q2,Q4)"
+ },
+ {
+  "url": "https://www.maroc.ma/fr/actualites/revision-des-listes-electorales-generales-possibilite-de-verifier-les-inscriptions-avant-le-17",
+  "title": "Vérifiez vos inscriptions électorales avant le 17 janvier",
+  "publisher": "maroc.ma",
+  "published": "2025-01-13",
+  "sub_indicator": "electoral",
+  "why": "check by SMS 2727, online registration (Q3)"
+ },
+ {
+  "url": "https://en.hespress.com/145833-morocco-voters-can-check-polling-stations-by-text-website-or-mobile-app.html",
+  "title": "Morocco voters can check polling stations by text, website or mobile app",
+  "publisher": "Hespress",
+  "published": "2026-09-22",
+  "sub_indicator": "electoral",
+  "why": "check roll by SMS, web, app (Q3)"
+ },
+ {
+  "url": "https://maroc.ma/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A7%D9%84%D9%84%D9%88%D8%A7%D8%A6%D8%AD-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-15-%D9%85%D8%A7%D9%8A-%D8%A5%D9%84%D9%89-13-%D9%8A%D9%88%D9%86%D9%8A%D9%88-2026",
+  "title": "مراجعة اللوائح الانتخابية العامة.. تقديم طلبات التسجيل الجديدة من 15 ماي إلى 13 يونيو 2026",
+  "publisher": "maroc.ma",
+  "published": "2026-05-19",
+  "sub_indicator": "electoral",
+  "why": "online registration and SMS check (Q3)"
+ }
+]

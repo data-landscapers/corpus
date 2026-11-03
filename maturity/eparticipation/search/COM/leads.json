@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://data.ipu.org/parliament/KM/KM-LC01/working-methods/openness-and-transparency",
+  "title": "Comoros | Assembly of the Union | Openness and transparency",
+  "publisher": "IPU Parline",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1/Q2 citizens cannot comment on drafts on parliament site"
+ },
+ {
+  "url": "https://iqgov.news/country/com/",
+  "title": "Comoros: digital government profile",
+  "publisher": "IQGov",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 UN e-participation index 0.000"
+ },
+ {
+  "url": "https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-sur-le-budget-ouvert-2023-les-comores-face-%C3%A0-des-d%C3%A9fis-de-transparence-.html",
+  "title": "Enquête sur le Budget Ouvert 2023 : Les Comores face à des défis de transparence",
+  "publisher": "La Gazette des Comores",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q2 public participation score 2/100"
+ },
+ {
+  "url": "https://justice.gouv.km/nouveau-site-internet-du-ministere/",
+  "title": "Le Ministère de la Justice ... lance son nouveau site internet",
+  "publisher": "Ministère de la Justice des Comores",
+  "published": "2025-03-22",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 legal portal; no consultation channel"
+ },
+ {
+  "url": "https://lagazettedescomores.com/soci%C3%A9t%C3%A9/vers-un-d%C3%A9cret-d%E2%80%99application-pour-l%E2%80%99agence-nationale-de-l%E2%80%99%C3%A9tat-civil-.html",
+  "title": "Vers un décret d'application pour l'Agence nationale de l'état civil",
+  "publisher": "La Gazette des Comores",
+  "published": "",
+  "sub_indicator": "eparticipation",
+  "why": "Q1 in-person consultation workshops on draft decree"
+ }
+]

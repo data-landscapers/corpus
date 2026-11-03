@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "checked",
+ "fact": "MEC introduced mobile phone voter roll verification by dialling 2509 with the voter certificate number, starting 5 May 2025.",
+ "title": "MEC introduces mobile phone voter roll verification",
+ "publisher": "The Maravi Post",
+ "published": "2025-04-29",
+ "date_source": "source",
+ "why_not": ""
+}

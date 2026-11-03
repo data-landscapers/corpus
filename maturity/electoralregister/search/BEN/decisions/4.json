@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "checked;linked",
+ "fact": "The provisional computerised list, extracted from the national civil registry file, was posted 13-28 September 2025 and voters could check their polling centre by USSD or the ANIP app with their NPI.",
+ "title": "Posting of the provisional voter list: ANIP launches the verification phase",
+ "publisher": "Benin Web TV",
+ "published": "2025-09-16",
+ "date_source": "source",
+ "why_not": ""
+}

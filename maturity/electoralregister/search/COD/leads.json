@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ceni.cd/sites/default/files/2023-06/AUDIT%20EXTERNE%20FICHIER%20ELECTORAL%20RDC%20-%20RAPPORT%20DE%20MISSION%20-%20Mai%202023.pdf",
+  "title": "Rapport final audit externe du fichier électoral",
+  "publisher": "CENI",
+  "published": "2023-06-15",
+  "sub_indicator": "electoral",
+  "why": "Q2 biometric roll in service; Q4 no population file to cross-check"
+ },
+ {
+  "url": "https://www.ceni.cd/sites/default/files/2024-10/%20CENI%20RDC%20-%20Rapport%20Annuel%20-%202023-2024%20-%20FINAL%20-%2011062024.pdf",
+  "title": "CENI Rapport Annuel 2023-2024",
+  "publisher": "CENI",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "Q2 roll refonte"
+ },
+ {
+  "url": "https://www.ceni.cd/communique-de-presse/2023/10/09/communique-de-presse-ndeg-050ceni2023-relatif-la-publication-de-la",
+  "title": "Communiqué N° 050/CENI/2023 publication liste provisoire des électeurs",
+  "publisher": "CENI",
+  "published": "2023-10-09",
+  "sub_indicator": "electoral",
+  "why": "Q3 roll published"
+ },
+ {
+  "url": "https://ouragan.cd/2023/12/une-application-mobile-mise-a-jour-pour-consulter-les-electeurs",
+  "title": "Une application mobile mise à jour pour consulter les électeurs",
+  "publisher": "ouragan.cd",
+  "published": "2023-12-02",
+  "sub_indicator": "electoral",
+  "why": "Q3 voters check by app"
+ },
+ {
+  "url": "https://www.ceni.cd/depeches/2023/05/23/apres-un-audit-externe-realise-par-une-mission-mixte-dexperts-internationaux-le",
+  "title": "Le fichier électoral jugé fiable",
+  "publisher": "CENI",
+  "published": "2023-05-23",
+  "sub_indicator": "electoral",
+  "why": "Q2 roll audited"
+ },
+ {
+  "url": "https://www.ceni.cd/communique-de-presse/2023/05/10/urgent-external-audit-voter-register-2022-2023-notice-call",
+  "title": "External audit of the voter register: terms of reference",
+  "publisher": "CENI",
+  "published": "2023-05-10",
+  "sub_indicator": "electoral",
+  "why": "Q4 roll to ONIP civil register"
+ },
+ {
+  "url": "https://cartercentee50c07c05.blob.core.windows.net/blobcartercentee50c07c05/wp-content/uploads/2024/07/drc-final-report-2023-fr.pdf",
+  "title": "Rapport Final: Elections générales en RDC, Dec. 2023",
+  "publisher": "The Carter Center",
+  "published": "2023-12-20",
+  "sub_indicator": "electoral",
+  "why": "Q2-Q4 observer findings"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20230522-rdc-apr%C3%A8s-un-audit-le-fichier-%C3%A9lectoral-de-la-c%C3%A9ni-d%C3%A9clar%C3%A9-fiable",
+  "title": "RDC: après un audit, le fichier électoral de la Céni déclaré fiable",
+  "publisher": "RFI",
+  "published": "2023-05-22",
+  "sub_indicator": "electoral",
+  "why": "Q2 roll audit"
+ }
+]

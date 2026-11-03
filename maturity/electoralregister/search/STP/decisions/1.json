@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "electoral",
+ "aspect": "roll;linked",
+ "fact": "In early September 2025 an automatic voter-registration platform built by the University of Aveiro, linking the civil registry database to the electoral roll, was presented publicly in São Tomé, still without an enabling law.",
+ "title": "Sistema automático de recenseamento eleitoral está instalado mas falta a lei",
+ "publisher": "Téla Nón",
+ "published": "2025-09-09",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sundayexpress.co.ls/?p=36187",
+  "title": "AU hails IEC over election reforms",
+  "publisher": "Sunday Express",
+  "published": "2026-07-05",
+  "sub_indicator": "electoral",
+  "why": "voter registration integrated with NICR via UIN, online registration"
+ },
+ {
+  "url": "https://lestimes.com/?p=91669",
+  "title": "IEC orders three-tier audit of voters' roll",
+  "publisher": "Lesotho Times",
+  "published": "2026-09-25",
+  "sub_indicator": "electoral",
+  "why": "audit of roll and systems; planned public display of roll"
+ },
+ {
+  "url": "https://www.gov.ls/elections/the-iec-has-launched-its-civic-and-voter-education-strategy-and-voter-registration-programme/",
+  "title": "The IEC has launched its civic and voter education strategy and voter registration programme",
+  "publisher": "Government of Lesotho",
+  "published": "2026-05-29",
+  "sub_indicator": "electoral",
+  "why": "national ID as sole registration document"
+ },
+ {
+  "url": "https://www.thereporter.co.ls/2024/11/27/iec-working-to-maintain-clean-voters-roll/",
+  "title": "IEC working to maintain clean voters' roll",
+  "publisher": "The Reporter Lesotho",
+  "published": "2024-11-27",
+  "sub_indicator": "electoral",
+  "why": "re-registration using national ID"
+ },
+ {
+  "url": "https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2025-11/lesotho-cog-report.pdf?VersionId=AI6Cyoaji4.SNee7u4P.jSHT5RJQn.NL",
+  "title": "The Lesotho General Elections (Commonwealth Observer Group)",
+  "publisher": "Commonwealth Secretariat",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "2022 electronic biometric registration linked to ID, portal to check entries"
+ },
+ {
+  "url": "https://capacity4dev.europa.eu/media/276666/download/762dc8f2-6e74-4e78-87ab-4683f3204f68_en",
+  "title": "EU-GG Inclusive Lesotho 2 pager",
+  "publisher": "European Union",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "2024 re-registration online platform, match with civil registry"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-01/web-site_article_on_vr_conference.pdf",
+  "title": "Strategic and Sustainable Solution to the Voter Registration in Lesotho",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "IEC voter registration management system, MRUs, civil registry option"
+ },
+ {
+  "url": "https://selfreg.iec.org.ls/",
+  "title": "IEC - Self Service",
+  "publisher": "Independent Electoral Commission",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "online register and check status"
+ }
+]

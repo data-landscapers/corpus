@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://theconversation.com/chads-parliamentary-election-hands-mahamat-deby-absolute-control-heres-why-its-dangerous-248342",
+  "title": "Chad's parliamentary election hands Mahamat Déby absolute control",
+  "publisher": "The Conversation",
+  "published": "2025-01-29",
+  "sub_indicator": "electoral",
+  "why": "register last updated Aug 2024"
+ },
+ {
+  "url": "https://tchadinfos.com/2024/11/29/tchad-plus-de-82-millions-delecteurs-attendus-dans-les-urnes-le-29-decembre-2024/",
+  "title": "Tchad : plus de 8,2 millions d'électeurs attendus",
+  "publisher": "Tchadinfos",
+  "published": "2024-11-29",
+  "sub_indicator": "electoral",
+  "why": "lists published by decree"
+ },
+ {
+  "url": "https://www.ndjamenaactu.com/2024/08/22/bartchiret-il-est-techniquement-impossible-de-realiser-un-nouveau-recensement/",
+  "title": "Bartchiret : techniquement impossible de réaliser un nouveau recensement",
+  "publisher": "N'Djaména Actu",
+  "published": "2024-08-22",
+  "sub_indicator": "electoral",
+  "why": "register revised 2023 still used"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20240501-au-tchad-la-probl%C3%A9matique-des-%C3%A9lecteurs-sans-carte-ou-non-inscrits-sur-les-listes-pour-la-pr%C3%A9sidentielle",
+  "title": "Au Tchad, la problématique des électeurs sans carte ou non-inscrits",
+  "publisher": "RFI",
+  "published": "2024-05-01",
+  "sub_indicator": "electoral",
+  "why": "voters not on lists"
+ },
+ {
+  "url": "https://lendjampost.com/tchad-voici-les-attributions-de-lorgane-en-charge-des-elections-ange/",
+  "title": "Tchad : voici les attributions de l'ANGE",
+  "publisher": "Le N'Djam Post",
+  "published": "2024-01-19",
+  "sub_indicator": "electoral",
+  "why": "ANGE holds national electoral file"
+ },
+ {
+  "url": "https://fr.africanews.com/2023/09/19/tchad-lenrolement-biometrique-au-fichier-electoral-touche-a-sa-fin/",
+  "title": "Tchad : l'enrôlement biométrique au fichier électoral touche à sa fin",
+  "publisher": "Africanews",
+  "published": "2023-09-18",
+  "sub_indicator": "electoral",
+  "why": "biometric enrolment 2023"
+ },
+ {
+  "url": "https://www.eisa.org/road-to-chads-constitutional-referendum-biometric/",
+  "title": "Road To Chad's Constitutional Referendum - Biometric Electoral Roll Update",
+  "publisher": "EISA",
+  "published": "2023-08-21",
+  "sub_indicator": "electoral",
+  "why": "biometric roll update launched July 2023"
+ },
+ {
+  "url": "http://ange.td/",
+  "title": "ANGE - Agence Nationale de Gestion des Élections",
+  "publisher": "ANGE",
+  "published": "",
+  "sub_indicator": "electoral",
+  "why": "ANGE site, polling station locator"
+ }
+]
