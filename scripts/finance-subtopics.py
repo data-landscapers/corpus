@@ -70,11 +70,14 @@ OVERRIDES: dict[str, str] = {}
 # Sector information systems are split by the sector they serve, so a health system can be found
 # by sub-topic alone (Bill, 2026-11-01). Rules place a system by its own words first; a system
 # whose words name only a function (`dpi.mis.other`) or nothing (`.unspecified`) takes the
-# sub-topic of its row's sector.
+# sub-topic of its row's sector. So does a body's own IT unit: its rule names `.unspecified` on
+# purpose, and the unit counts with its sector's systems -- the revenue authority's under financial
+# and revenue systems (Bill, 2026-11-03).
 MIS_BY_SECTOR = {"health": "dpi.mis.health", "education": "dpi.mis.education", "security": "dpi.mis.justice",
                  "defence": "dpi.mis.justice", "agriculture": "dpi.mis.agriculture", "social": "dpi.mis.social",
                  "environment": "dpi.mis.land", "housing": "dpi.mis.land", "energy": "dpi.mis.land",
-                 "trade": "dpi.mis.economy", "finance": "dpi.mis.economy", "transport": "dpi.mis.transport"}
+                 "trade": "dpi.mis.economy", "finance": "dpi.mis.finance", "transport": "dpi.mis.transport",
+                 "publicservice": "dpi.mis.hr"}
 # Topics that take no sub-topic: China is a financier, not a topic (Bill, 2026-11-01). A row
 # still filed under one is left blank and counted until its topic is corrected at source.
 NO_SUBTOPICS = {"geopol.china"}

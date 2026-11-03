@@ -1,7 +1,8 @@
 ## 3 November 2026
 
+- *Sectoral management information systems* no longer has an *In-house IT unit* sub-topic: a ministry's or agency's IT unit now counts with its sector's systems, so the revenue authority's IT department sits under *Financial and revenue systems*. 332 lines, about $119 million, that had moved to *Other GovTech and e-Gov* earlier today are back under sectoral systems.
 - *Strategies, plans and policies* and *Legislation and regulation* have new sub-topics, one for each field a strategy or law covers, such as AI, cybersecurity or digital payments, with *Cross-cutting* for the rest. Digital ministries and agencies funded as bodies, most of the budget lines under strategies, now sit under *Cross-cutting*.
-- About 450 budget lines now sit under the topic that matches what they buy, and 12 overhead lines of Guinea's digital directorate are gone. Ministry IT units move from sectoral management information systems to GovTech, about $111 million, so sectoral systems fall about 13% and GovTech rises 4%.
+- About 120 budget lines now sit under the topic that matches what they buy, and 12 overhead lines of Guinea's digital directorate are gone.
 - Domestic financing of digital now reads the year-on-year change from the whole digital ministry's budget or the budget tables, not from one programme or agency. Angola and Djibouti rise from stage 2 to 3 and Kenya from 2 to 5; Côte d'Ivoire falls from 5 to 2 and Mauritania from 3 to 2.
 - Disability access no longer counts an academic study as an audit of public websites. Sudan drops from stage 5 to unplaced, Libya from 5 to 3 and Tanzania from 5 to 4.
 - Interoperability of education systems now needs a source naming two systems that use a learner identifier. Senegal drops from stage 4 to unplaced.
