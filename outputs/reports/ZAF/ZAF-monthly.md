@@ -3,9 +3,9 @@ title: South Africa — News, Oct – Nov 2026
 compiled: 2026-11-03
 period: 2026-10-01 to 2026-11-03
 place: ZAF
-ledger_rows: 81
+ledger_rows: 83
 not_held: 19
-record: f79fed051db8
+record: 56a41c769e24
 ---
 
 # News, Oct – Nov 2026
@@ -113,6 +113,20 @@ One of the two South African officials suspended over the draft national AI poli
 **[USAASA to implement approved USAF manual](https://www.itweb.co.za/article/usaasa-to-implement-approved-usaf-manual/O2rQGqAEg1Yqd1ea)** — ITWeb South Africa, 5 October 2026
 
 South Africa's universal service agency says the communications minister has approved the manual for the Universal Service and Access Fund, setting its objectives, governance, funding instruments and accountability. An earlier draft was withdrawn in November 2025 and a revised one went out for comment in February 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulator inquiry into individual ECNS licensing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA takes aim at dormant telecoms licences](https://www.itweb.co.za/article/icasa-takes-aim-at-dormant-telecoms-licences/j5alrvQAdwJvpYQk)** — ITWeb South Africa, 3 November 2026
+
+South Africa's regulator ICASA published a Discussion Document on 30 October 2026 in its inquiry into individual network service licences. It found most of its 470 such licences dormant and proposes that new operators apply to it directly instead of buying existing ones. It is weighing a use-it-or-lose-it rule; comments are due within 45 working days.
 
 </div>
 
@@ -797,6 +811,20 @@ South Africa's Department of Home Affairs plans an online booking system for asy
 **[ICASA Publishes Draft Numbering Plan Fifth Amendment Regulations, 2026](https://www.icasa.org.za/news/2026/icasa-publishes-draft-numbering-plan-fifth-amendment-regulations-2026)** — ICASA, 29 October 2026
 
 ICASA published draft Numbering Plan Fifth Amendment Regulations for 30 days' public comment on 29 October 2026. They would require biometric verification of new and existing mobile subscribers when numbers are activated or reactivated and at every SIM swap. They would also cap numbers per subscriber and limit how long visitors' numbers stay active.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">RICA section 40 SIM-registration amendment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fake SIMS hold SA to ransom](https://www.citizen.co.za/news/opinion/fake-sims-hold-sa-to-ransom/)** — The Citizen, 3 November 2026
+
+In The Citizen, Johan van Graan argued that SIM cards registered in bulk to false identities hamper police work on ransom kidnappings. Justice Minister Mmamoloko Kubayi promised tougher RICA enforcement from 1 July 2026; by 9 October no results had been reported, he wrote. He cites 27 SIM-crime investigations since 2020, with one arrest.
 
 </div>
 
