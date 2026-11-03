@@ -19,13 +19,13 @@ place: ETH
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">8</td><td class="num zero"></td><td class="num">1</td><td class="num">21</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">31</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">7</td><td class="num">7</td><td class="num total">20</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num zero"></td><td class="num zero"></td><td class="num total">15</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num total">11</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">10</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">10</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">3</td><td class="num">4</td><td class="num total">10</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num total">5</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
-<tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Energy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
@@ -53,11 +53,11 @@ place: ETH
 <tr><th scope="row">AI</th><td class="num">10</td><td class="num">9</td><td class="num">45</td><td class="num total">63</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">9</td><td class="num">11</td><td class="num">10</td><td class="num total">30</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">7</td><td class="num">7</td><td class="num">7</td><td class="num total">20</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">3</td><td class="num">3</td><td class="num">4</td><td class="num total">10</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num total">11</td></tr>
 <tr><th scope="row">Registries</th><td class="num">2</td><td class="num">3</td><td class="num">2</td><td class="num total">7</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
-<tr><th scope="row">Data Exchange</th><td class="num">2</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">2</td></tr>
+<tr><th scope="row">Data Exchange</th><td class="num">2</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Energy</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>

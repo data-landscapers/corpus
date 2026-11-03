@@ -18,7 +18,7 @@ place: BDI
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">5</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
-<tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">45</td><td class="num">50</td><td class="num">54</td><td class="num">17</td><td class="num">35</td><td class="num total">201</td></tr></tfoot>
@@ -41,7 +41,7 @@ place: BDI
 <tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num">2</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
-<tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Access to services</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">12</td><td class="num">17</td><td class="num">23</td><td class="num total">52</td></tr></tfoot>

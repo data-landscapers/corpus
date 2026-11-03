@@ -34,12 +34,12 @@ gov.legislate.rti,18,,(?:^(?!Capital project of )|\|).*?(?:access to information
 gov.legislate.crosscutting,999,,
 gov.protect.other,10,nonstate,Privacy International|Privacy Enhancing|Global Pulse
 gov.protect.other,10,,(?:^(?!Capital project of )|\|).*?(?:DNA|content classification|online safety|international data-protection bodies|Builds skills|security and data protection law)
-gov.protect.compliance,20,,^Capital project of 
+gov.protect.other,20,,^Capital project of 
 gov.protect.authority,30,,(?:^(?!Capital project of )|\|).*?(?:authority|commission|office|regulator|APDP|CNDP|HAPDP|IPDCP|protection regime|supervision|levy|personal data|data[- ]protection)
 gov.protect.unspecified,999,,
 gov.regional.afcfta,5,,AfCFTA|ZLECAf|Continental Free Trade|Digital Trade Protocol
 gov.regional.integration,10,nonstate,Digital Integration|WARDIP|E-Commerce Initiative|digital single market
-gov.regional.membership,10,,(?:^(?!Capital project of )|\|).*?(?:subscription|contribution|membership)
+gov.regional.integration,10,,(?:^(?!Capital project of )|\|).*?(?:subscription|contribution|membership)
 gov.regional.relations,20,,(?:^(?!Capital project of )|\|).*?(?:cooperation|relations|partnership|forums)
 gov.regional.unspecified,999,,
 gov.standards.standards,10,nonstate,standardi[sz]ation|safeguards
@@ -96,7 +96,7 @@ infra.energy.general,10,,.
 infra.energy.unspecified,999,,
 infra.capacity.general,10,,.
 infra.capacity.unspecified,999,,
-infra.cybersec.fraud,10,nonstate,fraud|Tazama
+infra.cybersec.surveillance,10,nonstate,fraud|Tazama
 infra.cybersec.national,12,nonstate,Cyber Defense Africa|Cybastion|Critical Infrastructure Digitali[sz]ation
 infra.cybersec.own_systems,13,nonstate,Digital Defenders|Civic DEFENDERS
 infra.cybersec.strategy,14,nonstate,"Cyber Workforce|CREST|Multilateralism and Digitali[sz]ation|ICT Cybersecurity \(R&D|knowledge, tools, processes|Strengthening Kenya.s Security and Cybersecurity"
@@ -112,26 +112,25 @@ infra.cybersec.unspecified,999,,
 dpi.exchange.open,10,nonstate,open transaction network|open finance|knowledge exchange
 dpi.exchange.trade,12,nonstate,\bTrade\b|Customs
 dpi.exchange.trade,10,,(single window|guichet unique|GUCE|SEGUCE|foreign[- ]trade|customs|passenger)
-dpi.exchange.spatial,12,,(geospatial|spatial data|satellite)
 dpi.exchange.governance,8,,data[- ](governance|sharing (polic|framework|standard|agreement|law|regulation))|data exchange (polic|framework|standard|law|regulation)|interoperab\w* (framework|standard|guideline|polic)|\be-?GIF\b|exchange (standards|protocols?)\b
 dpi.exchange.interop,14,,(interop|interconn|integration platform|data sharing|data flow|exchanges? of information|SIPAO|police information|links between|interconnections|service bus)
 dpi.exchange.unspecified,999,,
 dpi.id.national_id,10,nonstate,Resident Registration|Identity and Targeting
 dpi.id.functional,11,nonstate,Smile ID|identity verification
-dpi.id.biometrics,12,nonstate,biometric quality
+dpi.id.national_id,12,nonstate,biometric quality
 dpi.id.national_id,5,,(?:^(?!Capital project of )|\|).*?(?:double as|doubles as)
 dpi.id.functional,10,,(?:^(?!Capital project of )|\|).*?(?:pupil|élève|eleve|voter|électeur|\bSIM\b|driving licen|retirees|pensioner|civil servants and state agents|armed forces|diplomatic and airport|EXPLOSIVES|GUARDS|PRISON|social-protection programmes)
 dpi.id.travel,12,,(?:^(?!Capital project of )|\|).*?(?:^Pays for production of passports)
 dpi.id.combined,14,,"(?:^(?!Capital project of )|\|).*?(?:^Civil registration, the population database|^Civil registration: births, deaths, national identity cards, passports)"
-dpi.id.civil_reg,15,,(?:^(?!Capital project of )|\|).*?(?:^Civil registration operations)
+dpi.id.combined,15,,(?:^(?!Capital project of )|\|).*?(?:^Civil registration operations)
 dpi.id.national_id,16,,(?:^(?!Capital project of )|\|).*?(?:(identity card|identity and travel|identity documents?|national identity|identification and)[^|]*(passport|travel)|identity cards and passports|identity and civic systems|CNEDOGE|National and Non-national Identification)
 dpi.id.travel,20,,(?:^(?!Capital project of )|\|).*?(?:passport|visa|immigration|border|travel document|residence (permit|card)|permits|citizenship and immigration|migration commissariat|passenger name|e-gate|points of entry|foreign nationals|nationality certificates)
 dpi.id.national_id,25,,(?:^(?!Capital project of )|\|).*?(?:national identity systems|National Biometric Identification System|identity card and computerises|issues identity cards and criminal|population-register|ANRPTS)
-dpi.id.civil_reg,26,,(?:^(?!Capital project of )|\|).*?(?:civil status and criminal records|Etat Civil et Casier)
+dpi.id.combined,26,,(?:^(?!Capital project of )|\|).*?(?:civil status and criminal records|Etat Civil et Casier)
 dpi.id.combined,27,,(?:^(?!Capital project of )|\|).*?(?:civil registration and national ID|civil status \(civil registration and national ID\))
-dpi.id.biometrics,30,,(?:^(?!Capital project of )|\|).*?(?:fingerprint|\bAFIS\b|\bABIS\b|biometric identification system|biometric (enrolment|file)|internally displaced|criminal record|criminal identification|proof-of-life)
+dpi.id.national_id,30,,(?:^(?!Capital project of )|\|).*?(?:fingerprint|\bAFIS\b|\bABIS\b|biometric identification system|biometric (enrolment|file)|internally displaced|criminal record|criminal identification|proof-of-life)
 dpi.id.combined,40,,(?:^(?!Capital project of )|\|).*?(?:(birth|vital|civil[- ]regist|civil status|civil-status|état civil|etat civil|marriage).*(identi|ID card|population register|national-number|Omang|population database)|(identi|ID card|population register|Omang).*(birth|vital|civil[- ]regist|civil status|civil-status|marriage)|National Registration Bureau|Registrar General|CRVS|civil registration and national identity|civil-registration and identification|civil-registration and identity|ONECI|family registration and national identification)
-dpi.id.civil_reg,50,,(?:^(?!Capital project of )|\|).*?(?:civil[- ]regist|civil status|civil-status|civil registry|birth|death|vital|état civil|etat civil|CEC AMEC|CTDEC|ANASAEC|registry)
+dpi.id.combined,50,,(?:^(?!Capital project of )|\|).*?(?:civil[- ]regist|civil status|civil-status|civil registry|birth|death|vital|état civil|etat civil|CEC AMEC|CTDEC|ANASAEC|registry)
 dpi.id.national_id,60,,(?:^(?!Capital project of )|\|).*?(?:identi|ID\b|population register|RAVEC|WURI|biometric|enrol|card|population database|master population|Integrated National Registration|identity)
 dpi.id.unspecified,999,,
 dpi.pay.remit,1,nonstate,Remittances for Development|remittance transfers into|remittance services from|payment system for remittances|cross-border-remittances|global digital payments infrastructure provider
@@ -212,7 +211,6 @@ dpi.mis.agriculture,32,,(\bSIMA\b)
 dpi.mis.social,32,,(labou?r[- ](market|data|indicators)|employ)
 dpi.mis.other,32,,(market information|\bLMIS\b|monitor|M&E|suivi|[ée]valuation|statisti|data ?base|data bank|data repository|data management|data[- ]collection|data analy|banque de?s? donn|base de?s? donn|observator|surveillance|early warning|decision[- ]support|dashboard|indicator|business intelligence|analytics|reporting|price|market intelligence|trade (management|research|database)|information system (on|for)|tourism information|SNISAN|SIFEF|registry|census|research|project (information|management|monitoring)|data tracking|data platform|construction data|road data|tracking system)
 dpi.mis.unspecified,999,,
-dpi.govtech.skills,10,nonstate,Capacity Building (for|on)|Digital Competency|E-training
 dpi.govtech.kit,11,nonstate,IT and office equipment|ICT equipment|video conferencing equipment
 dpi.govtech.backoffice,13,nonstate,National Tax and Customs Administration|financial-governance information system
 dpi.govtech.programme,13,nonstate,Public Administration Modernization|Administration Modernisation|eGovernment Project|governance through digiti[sz]ation|Business Climate and the Modernization|Congo Digital
@@ -242,36 +240,33 @@ dpi.govtech.itunit,76,,(own IT unit|IT management directorate|IT directorate|IT 
 dpi.govtech.programme,80,,"^(?![^|]*agency's services, records or processes)[^|]*(digital transformation|digitalis|digitis|moderni[sz]|e-government|e-governance|e-administration|computeris|\bICT\b|digital tools|e-business|e-cooperatives|go digital|digital solutions|digital government|digital maturity|service delivery project|digital foundations|digital strategy|Digital Morocco|informatis)"
 dpi.govtech.programme,81,,\|[^|]*(informatis|digiti|digitali|numérisation|numerisation|\bICT\b|e-govern|transformation|computeri[sz]|automation|moderni[sz])
 dpi.govtech.unspecified,999,,
-digital.localgov.itunit,10,nonstate,ANAFIC|hardware
+digital.localgov.systems,10,nonstate,ANAFIC|hardware
 digital.localgov.systems,10,,(revenue|monitoring|SIGESCOD|smart cities|information systems in local|council management|digitisation of local|digital transformation|service delivery coordination|civil-registration)
-digital.localgov.itunit,12,,(ICT|IT unit|information systems unit|management information systems unit|in-house|Smart Zambia)
+digital.localgov.systems,12,,(ICT|IT unit|information systems unit|management information systems unit|in-house|Smart Zambia)
 digital.localgov.unspecified,999,,
 digital.rural.general,10,,.
 digital.rural.unspecified,999,,
-tech.ai.policy,3,nonstate,AI Strategy|Upskilling|board readiness
 tech.ai.institutes,4,nonstate,AI Institute|AI Research (and Community )?Centre|research cent|data lab|CITADEL|Growth and AI Network
 tech.ai.data,5,nonstate,language (models?|AI|technolog)|African languages|voice technolog|LINGUA|Masakhane
 tech.ai.industry,10,nonstate,AI factory|Nexus AI|GPU|NVIDIA|Series [A-D]|pre-seed|startup|Centre of Excellence|GenAI
 tech.ai.applied,15,nonstate,primary health ?care|decision support|complaints management|central banks|Horizon1000|for health
 tech.ai.institutes,20,nonstate,AI research|AI institutes|evidence
-tech.ai.policy,25,nonstate,strategy|governance|ethics|accountable use|safeguards|Grand Challenge|upskilling|training|ecosystem|readiness|responsible AI|technical assistance|frontier technologies
 tech.ai.institutes,10,,Institute|research centre|centre for artificial|robotics|data mining
 tech.ai.applied,20,,public services|security forces|software|AI projects
-tech.ai.policy,30,,strategy|unit|directorate|council|scheme|emerging|AI work
 tech.ai.unspecified,999,,
 tech.industry.unspecified,1,nonstate,[Tt]raffic [Mm]anagement|Intelligent Transport|Urban Security|Smart Senegal|E-Learning|Digital Education|Smart Education|\bMVNO\b|Onatel
 tech.industry.zones,5,nonstate,technology park|technopol|digital media city|tech(nology)? zone|Digital Technologies? Park
 tech.industry.firms,8,nonstate,LP commitment|Investors (III|IV|V)\b|Investors Fund|Private Capital Fund
 tech.industry.ecommerce,10,nonstate,e-?commerce|online market|B2B (food|digital|e-commerce)|food distribution platform
 tech.industry.firms,15,nonstate,stake|acquisition|acquired|equity investment|investment of \$|raised|Development Centre|engineering hub|seed round
-tech.industry.sector,20,nonstate,ICT Chamber|BITMi|IT-SME|Digital Business Boost|Accélération numérique|SME|entrepreneurship|creative (industries|enterprises)|i-DICE|digital economy|private sector|Secteur Privé|incubation hubs|ICT hub|ICT (ecosystem|industry)|ICT-based
+tech.industry.admin,20,nonstate,ICT Chamber|BITMi|IT-SME|Digital Business Boost|Accélération numérique|SME|entrepreneurship|creative (industries|enterprises)|i-DICE|digital economy|private sector|Secteur Privé|incubation hubs|ICT hub|ICT (ecosystem|industry)|ICT-based
 tech.industry.zones,10,,free zone|free-zone|zone franche|Grand-Bassam|Konza|technopol
 tech.industry.ecommerce,20,,e-?commerce|commerce [ée]lectronique|e-merchants|(?<!promotion of the )technology trade|digital trade|TRADE PROMOTION
-tech.industry.sector,30,,Chambre|Commission|council|adopt digital|audiovisual|industriali|diversification|research on
+tech.industry.admin,30,,Chambre|Commission|council|adopt digital|audiovisual|industriali|diversification|research on
 tech.industry.admin,80,,programme|running costs|staff|salar|digital economy|chapter|Economie Num
 tech.industry.unspecified,999,,
 tech.innovate.unspecified,1,nonstate,[Tt]raffic [Mm]anagement|Intelligent Transport|Urban Security|Smart Senegal|E-Learning|Digital Education|Smart Education|\bMVNO\b|Onatel
-tech.innovate.events,2,nonstate,Innovation Jam|hackathon
+tech.innovate.startups,2,nonstate,Innovation Jam|hackathon
 tech.innovate.startups,3,nonstate,venture capital|\bVC\b|venture fund|tech(nology)? (venture|startup|start-up) fund|start-?up fund|\bseed\b|pre-seed|Series [A-D]\b|founders fund|Investment Fund|Innovation Fund|Growth Fund|growth-stage technology fund|Investors (III|IV|V)|private equity fund|technology fund managers|investee|cohort|equity programme|startups? (addressing|in artificial)|tech-enabled|digital businesses|startup|start-up|i-DICE|creative enterprises
 tech.innovate.parks,6,nonstate,makerspace|incubat|innovation (lab|hub|centre|cluster)|start-up hub|startup hub|Hanga Hubs|Co-Creation Hub
 tech.innovate.startups,12,nonstate,entrepreneur|social innovations?|women-led businesses|digital (startups|enterprises)|SMEs|small enterprises|innovation ecosystem
@@ -279,7 +274,7 @@ tech.innovate.rnd,15,nonstate,frontier tech|research|pilot|test digital|innovati
 tech.innovate.startups,5,,incubateurs de startups|start-up incubators
 tech.innovate.parks,10,,park|hub|incubat|tech city|innovation city|Youth Village|technopol|smart technology pole|smart city|innovation centre|software centre
 tech.innovate.startups,20,,start-?up|innovation fund|innovators|small (ICT |digital )?businesses|digital enterprises|entrepreneur|sandbox|ICT private sector|digital ecosystems|ICT support services
-tech.innovate.events,30,,week|forum|summit|events?\b|IVOIRTECH
+tech.innovate.startups,30,,week|forum|summit|events?\b|IVOIRTECH
 tech.innovate.rnd,40,,research|R&D|laborator|labs\b|emerging|virtual reality|drones|\bAI\b|robotic|deep learning|observatory|database of technological|vaccine|monitoring|planning and evaluating innovation
 tech.innovate.admin,80,,directorate|programme|department|wages|running costs|ministry|development plan
 tech.innovate.unspecified,999,,
@@ -288,7 +283,7 @@ capacity.literacy.civil_service,10,,(?:^(?!Capital project of )|\|).*?(?:civil[-
 capacity.literacy.elibrary,20,,(?:^(?!Capital project of )|\|).*?(?:library|e-?book|journal|law reports|e-?resource|LEGAL ?PEDIA|LAW PAVIL|EBSCO|RESEARCH FOR LIFE)
 capacity.literacy.schools,30,,(?:^(?!Capital project of )|\|).*?(?:school|teacher|classroom|teaching|pupil|primary|secondary|education|EQUIP\b|UNGE faculties|STUDENT|COEs|tablets)
 capacity.literacy.public,35,,(?:^(?!Capital project of )|\|).*?(?:young people|Digital Skilling)
-capacity.literacy.elearning,40,,(?:^(?!Capital project of )|\|).*?(?:e-?learning|learning management|online|course|curriculum|content|teaching resources|LEARNING TECHNOLOG|ODEL)
+capacity.literacy.elibrary,40,,(?:^(?!Capital project of )|\|).*?(?:e-?learning|learning management|online|course|curriculum|content|teaching resources|LEARNING TECHNOLOG|ODEL)
 capacity.literacy.public,50,,(?:^(?!Capital project of )|\|).*?(?:literacy|awareness|campaign|social networks|digital week|ICT days|open days|digital day|innovation week|Digital Promotion Agency|upskilling|young|youth|women|learning centres|Culture Numérique|languages|empower|DIGITAL SKILLS|COMPUTER SKILLS|digital hubs)
 capacity.literacy.unspecified,999,,
 capacity.training.public_staff,5,nonstate,ICT Regulation - Policy and Practice
@@ -315,11 +310,6 @@ include.access.devices,20,,laptop|devices|tablet
 include.access.usf,30,,universal
 include.access.programmes,40,,inclusion|content|vulnerable|ICT access
 include.access.unspecified,999,,
-include.divides.programmes,5,nonstate,Research ICT Africa
-include.divides.gender,10,nonstate,\bwomen|\bgirls|gender|Frauen
-include.divides.programmes,20,nonstate,community connectivity|Emergency Telecommunications
-include.divides.youth,10,,youth|school|jeune
-include.divides.programmes,20,,inclusion|adoption|digital watch
 include.divides.unspecified,999,,
 data.statistics.census,3,nonstate,^[^|]*(census|Recensement)
 data.statistics.survey,4,nonstate,^[^|]*(Survey|MICS|Findex|Financial Inclusion Indicators|Data Collection)
@@ -335,8 +325,8 @@ data.statistics.office,25,,"(?:^(?!Capital project of )|\|).*?(?:central census 
 data.statistics.census,30,,(?:^(?!Capital project of )|\|).*?(?:census|censo|recensement|recenseamento|enumerat|\bRNA-?5\b|\bBCR\b|RGPH)
 data.statistics.survey,40,,(?:^(?!Capital project of )|\|).*?(?:survey|encuesta|enqu[eê]te|inqu[eé]rito|\bEDS(GE)?\b|EHCVM|\bEPA\b|\bEAC\b|Multiple Indicator|price ind|price-data|consumer price|indice harmonis|price intelligence|labour force|household (master )?sample|data quality assessment|data triangulation|field operations|collect survey data|Data Collection\b|frame survey)
 data.statistics.systems,50,,(?:^(?!Capital project of )|\|).*?(?:information system|database|data ?base|data bank|databank|data platform|platform|DevInfo|software|logiciel|(?-i:\bIT\b)|\bICT\b|Information and Communication Technology|information technology|informatics|inform[aá]tic|geographic information|\bGIS\b|data infrastructure|digital solutions|digitis|digitiz|digitali[sz]|Digitalization|atlas|observatory|data lab|local area network|computer|syst[eè]me de centralisation|data capturing|production system|data ecosystem)
-data.statistics.sectoral,55,,^Capital project of the (?!National Bureau of Statistics)
-data.statistics.sectoral,60,,"(?:^(?!Capital project of )|\|).*?(?:Comit[eé] de Suivi|ministry|ministries|ministerial|line ministr|minist[eé]r|sub-programme|commission's|\bRSIM\b|digest|compendium|yearbook|statistical bulletin|education statistics|agricultural statistics, with|livestock statistics|mining statistics|labour-market statistic|justice|SDGS? TRACKING|statistics on evidence|manpower statistics|Research, Statistics|Statistics, Research|Statistics; Research|Research; Statistics|Health Research|directorate of (agricultural )?statistics|statistics department|statistics, studies)"
+data.statistics.production,55,,^Capital project of the (?!National Bureau of Statistics)
+data.statistics.production,60,,"(?:^(?!Capital project of )|\|).*?(?:Comit[eé] de Suivi|ministry|ministries|ministerial|line ministr|minist[eé]r|sub-programme|commission's|\bRSIM\b|digest|compendium|yearbook|statistical bulletin|education statistics|agricultural statistics, with|livestock statistics|mining statistics|labour-market statistic|justice|SDGS? TRACKING|statistics on evidence|manpower statistics|Research, Statistics|Statistics, Research|Statistics; Research|Research; Statistics|Health Research|directorate of (agricultural )?statistics|statistics department|statistics, studies)"
 data.statistics.production,70,,"(?:^(?!Capital project of )|\|).*?(?:produces? [^|]*statistic|production (of|de|et)|statistical production|statistics production|national accounts|cuentas nacionales|comptes de la nation|\bGDP\b|\bSCN\b|economic statistics|economical statistics|social statistics|business (and enterprise )?statistics|busness|enterprise statistics|demograph|population estimates|vital events|poverty|price statistics|labour statist|agricultur\w* statist|environment\w* stat|tourism satellite|publish|disseminat|diffusion|outreach|promotes stats|edits, designs|analys|statistical products|statistical report|statistics for and from local|regional statistics|civil status statistics|communication of stat|Sensibilizaci|data producers|cartographic|Conducting|statistics and study|short-term indicators|structure of industries|finances of|indicadores|widen\w* (its )?statistical production|Statistics:|(Economic|Social|Demography|Population) Statistics)"
 data.statistics.office,90,,(?:^(?!Capital project of )|\|).*?(?:statistic|statstic|stats|estad[ií]stic|estat[ií]stic|census bureau|INSD|INSBU|INEGE|INSEED|ANStat|\bINS\b|ANSD|UBOS|bureau|NISR|Statistician)
 data.statistics.unspecified,999,,
@@ -354,10 +344,14 @@ data.open.unspecified,999,,
 data.geospatial.positioning,5,nonstate,EGNOS|\bSBAS\b|Satellite Navigation
 data.geospatial.platforms,10,nonstate,Digital Earth Africa|GRID3|Geo-Referenced Infrastructure|satellite data platform|Satellite Data and AI|spatial data infrastructure
 data.geospatial.sector_gis,20,nonstate,SAT-CARE|satellite-based agri|Early Warning|Forecasting|systematic[- ]observations|weather
-data.geospatial.skills,10,,(?:^(?!Capital project of )|\|).*?(?:TRAINING|STAFF ENHANCEMENT|EMPOWERMENT)
+data.geospatial.agencies,10,,(?:^(?!Capital project of )|\|).*?(?:TRAINING|STAFF ENHANCEMENT|EMPOWERMENT)
 data.geospatial.positioning,20,,(?:^(?!Capital project of )|\|).*?(?:CORS|GNSS|reference station)
 data.geospatial.space,30,,(?:^(?!Capital project of )|\|).*?(?:space agency|Space Agency|national space|Space Management|earth[- ]observation satellite|satellite building|Satelite Building|Satelite & Ground|satellite d'ob|d'un satellite|an earth-observation satellite|ground station|ground segment|Earth-observation system|space agency's|satellite station)
 data.geospatial.agencies,35,,(?:^(?!Capital project of )|\|).*?(?:remote[- ]sensing and space|remote sensing and space|Remote Sensing Centre|Space Science and Geospatial Institute)
 data.geospatial.agencies,40,,(?:^(?!Capital project of )|\|).*?(?:remote-sensing and geographic-information centre|CNTIG|cartography and remote-sensing centre|national mapping agency|remote sensing centre|centre for remote sensing|Geospatial Institute|digital topographic maps|national geomatics|geo-information sciences|Geospatial Hub|statistics bureau|bureau's GIS)
 data.geospatial.sector_gis,50,,(?:^(?!Capital project of )|\|).*?(?:GIS|geo|map|remote sensing|télédétection|earth[- ]observation|imager|UAV|spatial|meteorolog|forest monitoring|surveillance|topograph|cartograph|survey data|ENUMERATION)
 data.geospatial.unspecified,999,,
+data.geospatial.positioning,990,,(geospatial|spatial data|satellite)
+gov.policy.ai,990,,strategy|unit|directorate|council|scheme|emerging|AI work
+include.access.programmes,990,,youth|school|jeune
+include.access.programmes,990,,inclusion|adoption|digital watch

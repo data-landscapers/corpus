@@ -16,9 +16,8 @@ place: NAM
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">5</td><td class="num">7</td><td class="num">7</td><td class="num total">18</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">1</td><td class="num zero"></td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
-<tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
-<tr><th scope="row">Data Exchange</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">34</td><td class="num">69</td><td class="num">74</td><td class="num total">177</td></tr></tfoot>
@@ -40,9 +39,8 @@ place: NAM
 <tr><th scope="row">Connectivity</th><td class="num">6</td><td class="num">2</td><td class="num">&lt;1</td><td class="num total">8</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">1</td><td class="num zero"></td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
-<tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
-<tr><th scope="row">Data Exchange</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">34</td><td class="num">35</td><td class="num">38</td><td class="num total">107</td></tr></tfoot>

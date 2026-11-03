@@ -23,7 +23,6 @@ place: GNQ
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Research institutions</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">472</td><td class="num">55</td><td class="num">12</td><td class="num">35</td><td class="num total">573</td></tr></tfoot>
 </table></div>
@@ -51,7 +50,6 @@ place: GNQ
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Research institutions</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">55</td><td class="num">12</td><td class="num">35</td><td class="num total">101</td></tr></tfoot>
 </table></div>

@@ -67,6 +67,11 @@ PUBLIC = {"Public Sector", "Multilateral", "PPP"}
 # Bill's rulings on single deals the rules misread, from lookups/finance-sector-overrides.csv: a
 # ruling beats every rule. Filled by load(). A pattern that would fix a class belongs in the rules.
 OVERRIDES: dict[str, str] = {}
+# Bill's sub-topic rulings on single rows, from lookups/finance-subtopic-overrides.csv: (side,
+# deal_id) -> (sub-topic, its topic). A ruling applies only while the row is filed under that
+# sub-topic's topic, so a deal OSINT has yet to re-topic keeps its old topic's placing until it
+# moves (2026-11-03: rows Bill moved to another topic with his sub-topic reshuffle).
+SUB_OVERRIDES: dict[tuple, tuple] = {}
 # Sector information systems are split by the sector they serve, so a health system can be found
 # by sub-topic alone (Bill, 2026-11-01). Rules place a system by its own words first; a system
 # whose words name only a function (`dpi.mis.other`) or nothing (`.unspecified`) takes the
@@ -122,6 +127,12 @@ def load():
 
     sub_rules = rules("finance-subtopic-rules.csv", "subtopic_id", subs)
     sec_rules = rules("finance-sector-rules.csv", "sector_id", sectors)
+    SUB_OVERRIDES.clear()
+    for i, r in enumerate(read(os.path.join(LOOK, "finance-subtopic-overrides.csv"))):
+        if r["subtopic_id"] not in subs or r["side"] not in ("budget", "nonstate"):
+            errors.append(f"finance-subtopic-overrides.csv row {i + 2}: unknown side or subtopic_id")
+        else:
+            SUB_OVERRIDES[(r["side"], r["deal_id"])] = (r["subtopic_id"], subs[r["subtopic_id"]]["topic_id"])
     OVERRIDES.clear()
     for i, r in enumerate(read(os.path.join(LOOK, "finance-sector-overrides.csv"))):
         if r["sector_id"] not in sectors:
@@ -152,6 +163,12 @@ def first(pairs, text):
     return next((sid for sid, rx in pairs if rx.search(text)), None)
 
 
+def ruled(side, x, topic, sub):
+    """Bill's ruling for this row, if one stands and the row is filed under its topic."""
+    sid, t = SUB_OVERRIDES.get((side, x["deal_id"]), (None, None))
+    return sid if sid and t == topic else sub
+
+
 def by_sector(sub, sector):
     if sub in ("dpi.mis.other", "dpi.mis.unspecified"):
         return MIS_BY_SECTOR.get(sector, "dpi.mis.other" if sub == "dpi.mis.other" or sector != "unattributed"
@@ -162,6 +179,7 @@ def by_sector(sub, sector):
 def place_line(x, by_topic, sec_rules):
     ns, shared, catch = by_topic.get(x["primary_topic_id"], ([], [], None))
     sub = first(shared, f"{x['purpose']} | {x['line_name']}") or catch
+    sub = ruled("budget", x, x["primary_topic_id"], sub)
     shared_sec = [(s, rx) for _, _, s, rx, a in sec_rules if not a]
     sector = next((h for h in (first(shared_sec, x[f]) for f in ("admin_head", "spending_entity")) if h),
                   "unattributed")
@@ -172,6 +190,7 @@ def place_deal(x, topic, by_topic, sec_rules):
     ns, shared, catch = by_topic.get(topic, ([], [], None))
     text = f"{x['title']} | {x['description']} | {x['recipient_organisation']}"
     sub = first(ns, text) or first(shared, text) or catch
+    sub = ruled("nonstate", x, topic, sub)
     if x["deal_id"] in OVERRIDES:
         return by_sector(sub, OVERRIDES[x["deal_id"]]), OVERRIDES[x["deal_id"]]
     deal_only = [(s, rx) for _, _, s, rx, a in sec_rules if a]
