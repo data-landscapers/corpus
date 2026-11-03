@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: GAB
 ledger_rows: 31
 not_held: 12
-record: 1014a20c3581
+record: 501a509dcee6
 ---
 
 # News, Oct – Nov 2026
@@ -562,13 +562,21 @@ Summarised under [Data Exchange](#data-exchange).
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Libreville municipal revenue-digitalisation system</p>
+<p class="monthly-story__name">Libreville municipal revenue platform (e-Taxe municipale)</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[Paiement électronique des recettes municipales : quel bilan 4 mois après ?](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres)** — L'Union - Sonapresse, 22 October 2026
 
 Four months after Libreville's mayor launched collection of market fees by Airtel Money and Moov Money at Mont-Bouët market on 12 June, traders interviewed say they paid electronically once or twice before going back to cash, or never did. The article gives no figures from the municipality on how much has been collected electronically.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon : Libreville digitalise la collecte de ses taxes](https://fr.infosgabon.com/gabon-libreville-digitalise-la-collecte-de-ses-taxes/)** — Infos Gabon, 31 October 2026
+
+Online municipal tax and fee payment presented 30 Oct 2026; in service since 12 June, said to be 95% operational.
 
 </div>
 

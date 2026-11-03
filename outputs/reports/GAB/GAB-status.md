@@ -1,12 +1,12 @@
 ---
 title: Gabon: status report
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: GAB
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 220
+sources_cited: 221
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -246,7 +246,7 @@ ANINF [opened its first provincial office, in Franceville in Haut-Ogooué](https
 
 In June 2024 [no government body, national or local, was exchanging data on the planned interoperability platform, which had not been deployed](https://documents1.worldbank.org/curated/en/099062924095532581/pdf/P175987-7396b60b-a6b3-49cf-a69b-e72494700267.pdf). [An inter-ministerial committee to coordinate the digitisation of public administration was created under the Prime Minister's office in February 2021](https://documents1.worldbank.org/curated/en/301741627956043619/pdf/Gabon-Digital-Gabon-Project.pdf). In 2025 [the integrated financial management system in use](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) covered only central government, and only treasury execution. [The unified budget classification and chart of accounts likewise cover central government only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-In July 2026 the mayor of Libreville [agreed to act as facilitator for MADIGIPAIE among the city's traders](https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie). [The city kept its own revenue digitalisation system, built with the Treasury](https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie). [The city began collecting market fees by mobile money in June 2026](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres). [Four months later, in October 2026, traders said they had returned to cash or never used it](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres). [The city hall called the system operational](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres).
+In July 2026 the mayor of Libreville [agreed to act as facilitator for MADIGIPAIE among the city's traders](https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie). [The city kept its own revenue digitalisation system, built with the Treasury](https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie). [The city began collecting market fees by mobile money in June 2026](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres). [Four months later, in October 2026, traders said they had returned to cash or never used it](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres). [The city hall called the system operational](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres). [On 30 October 2026 the city hall officially presented the platform as e-Taxe municipale, for declaring and paying municipal taxes and fees online, and described it as 95 per cent operational](https://fr.infosgabon.com/gabon-libreville-digitalise-la-collecte-de-ses-taxes/).
 
 ### Rural digital data capture
 <!-- digital.rural -->
