@@ -32,6 +32,7 @@ CIV,MaPoste,Cote d'Ivoire,other,,ONECI and La Poste de Cote d'Ivoire,,2026-01-20
 CIV,RNPP / NNI,Cote d'Ivoire,idsystem,,ONECI,,2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp
 CIV,MaPoste,Cote d'Ivoire,other,,ONECI and La Poste de Cote d'Ivoire,,2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp
 CMR,New generation national ID card,Cameroon,idsystem,Augentic,DGSN,"national ID, residence, refugee and disability cards",2025-03-05-issuance-of-new-national-id-card-takes-off-biometricupdate
+CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,ONIP national ID card,DR Congo,idsystem,,ONIP,,2026-09-26-lumiernews-rdc-national-id-card-accountability
 COD,RDC-Pass,COD,other,,Ministry of Digital Economy,,2026-09-17-wearetech-rdc-pass-identification-numerique-phase-operationnelle
 COD,RDC-Pass,DR Congo,other,,Ministry of Digital Economy,,2026-09-16-cod-7sur7-rdc-pass-formation-50-premiers-agents-enregistrement
@@ -44,6 +45,7 @@ CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,idsystem,smart card,,,2026
 CPV,Chave Movel Digital de Cabo Verde (CMDCV),Cabo Verde,other,mobile digital key,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 EGY,national ID,Egypt,other,,,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
 EGY,National ID System (national number project),EGY,idsystem,,Civil Status Organization,,2024-01-01-egypt-national-id-system-citc
+EGY,EMIS portal online application (emis.gov.eg),Egypt,other,emis.gov.eg,Ministry of Education and Technical Education,,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025
 ERI,Eritrean National ID,ERI,idsystem,,Government of Eritrea,,2024-10-17-eritrea-embassy-national-id
 ETH,Fayda,ETH,idsystem,,National ID Program / Faydaverse,,2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate
 ETH,Fayda,Ethiopia,idsystem,,National ID Program,,2026-07-24-ena-ethio-telecom-69-percent-fayda-digital-id-enrollees
@@ -75,6 +77,7 @@ LSO,MOSIP-based national digital identity ecosystem,LSO,idsystem,MOSIP,MICSTI,,2
 MAR,MOSIP-based national ID,Morocco,idsystem,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 MAR,National ID card management system,Morocco,idsystem,,DGSN,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 MAR,Electronic National Identity Card,Morocco,idsystem,,,,2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting
+MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
 MDG,Izaho tokana,Madagascar,idsystem,,Ministry of Interior and Decentralisation,,2026-09-17-mdg-2424-izaho-tokana-2-phase-deux
 MDG,PRODIGY national ID,Madagascar,idsystem,Laxton enrolment kits; IN Groupe database management,,,2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate
 MDG,PRODIGY national ID enrolment,Madagascar,idsystem,Laxton enrolment equipment,"Government of Madagascar, World Bank funded",,2026-07-06-last-mile-civil-registration-biometricupdate
@@ -157,6 +160,9 @@ UGA,National Identification Register / national ID card,Uganda,idsystem,,NIRA,,2
 UGA,NIRA national identity platform on MOSIP,Uganda,idsystem,MOSIP,NIRA,,2026-02-19-mosip-brownfield-sierra-leone-migration
 UGA,National Identification and Registration Authority (NIRA) new ID system,Uganda,idsystem,,NIRA,,2026-01-07-monitor-21-million-transferred-new-nira-system
 UGA,NIRA national ID database,UGA,idsystem,,NIRA,,2024-10-14 Uganda financial institutions sign on for digital KYC through national ID
+UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Number (NIN),Uganda,idsystem,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,,DNRPC,,2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration
 ZMB,National Registration Card (NRC),Zambia,other,,DNRPC,,2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration
 ZMB,MOSIP-based digital ID,Zambia,idsystem,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project

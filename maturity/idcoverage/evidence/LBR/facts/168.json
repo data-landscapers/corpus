@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-lbr-national-id-deal-under-scrutiny-over-revenue-data-security",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Reports cited by the Liberian Observer say only about 14 percent of Liberia's population had registered for the national ID after issuance was suspended on 23 June 2025.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "National Identification Registry",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
