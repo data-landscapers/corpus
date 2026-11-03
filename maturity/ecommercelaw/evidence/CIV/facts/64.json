@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-30-civ-ordonnance-2024-950-modification-ordonnance-2017-500-abrogation-art-50-loi-2013-546",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Ordinance 2024-950 of 30 October 2024, executed as state law, repeals only Article 50 of law 2013-546 on electronic transactions, which it treats as an existing law.",
+   "as_of": "2024-10-30",
+   "date_precision": "day",
+   "system": "Law 2013-546 on electronic transactions",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -21,8 +21,8 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 14 |
-| 3 Established | 25 |
+| 4 Operating | 15 |
+| 3 Established | 24 |
 | 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -152,6 +152,14 @@ Kenya gave electronic signatures legal effect and made certification rules by 20
 - The article states that valid advanced electronic signatures are issued by certification service providers licensed under the Kenya Information and Communications (Electronic Certification and Domain Name Administration) Regulations 2020; it gives no making date, so the article date of 2020-10-21 is the latest it is known to exist ([source, 2020](https://www.dlapiperafrica.com/en/kenya/insights/2020/what-it-means-to-use-electronic-signatures.html)).
 - The text of the Kenya Communications (Electronic Transactions) Regulations, 2009, made by the Minister under section 83R of the Kenya Communications (Amendment) Act 2009, sets licensing, operating and liability rules for certification service providers; the held text leaves its legal notice number and making date blank ([source, 2009](https://ictpolicyafrica.org/api/documents/download?_id=5db6971d8e6f37001b2b599c)).
 - DLA Piper Africa (IKM Advocates) states that the Business Laws (Amendment) Act, 2020 came into force on 18 March 2020 and allows advanced electronic signatures in place of wet-ink signatures in nearly all legal documents, amending among others the Law of Contract Act ([source, 2020-03-18](https://www.dlapiperafrica.com/en/kenya/insights/2020/what-it-means-to-use-electronic-signatures.html)).
+
+### Niger: 4 Operating
+
+Niger's 2019 electronic transactions law gained an implementing decree in November 2024; whether it has been applied to any provider or seller is not known.
+
+- The ministry's page presents Loi 2019-03 of 30 April 2019 on electronic transactions in Niger as governing electronic transactions, covering electronic signatures, contracts and payments, data retention and sanctions; it does not state an entry-into-force date or any repeal ([source, 2019-04-30](https://mcnti.gouv.ne/ova_doc/loi-2019-03-du-30-avril-2019-portant-sur-les-transactions-electroniques-au-niger/)).
+- The minister said Niger's Law 2019-03 of 30 April 2019 on electronic transactions has an implementing decree, no. 2024-715 of 15 November 2024 ([source, 2024-11-15](https://www.lesahel.org/atelier-de-renforcement-des-capacites-sur-les-transactions-electroniques-mieux-comprendre-les-textes-regissant-le-e-commerce-le-contrat-par-voie-electronique-au-niger/)).
+- Implementing decree no. 2024-715 of 15 November 2024 was taken under the electronic transactions law, per the minister ([source, 2024-11-15](https://www.lesahel.org/atelier-de-renforcement-des-capacites-sur-les-transactions-electroniques-mieux-comprendre-les-textes-regissant-le-e-commerce-le-contrat-par-voie-electronique-au-niger/)).
 
 ### Senegal: 4 Operating
 
@@ -293,12 +301,6 @@ In 2026 Mauritius enacted an electronic transactions amendment act, to start on 
 
 - The ICT minister, speaking on 29 July 2026, referred to amendments to the Electronic Transactions Act 2006 meant to modernise digital commerce frameworks and strengthen consumer protection, which treats the 2006 Act as existing law; the document gives no date for the Act's entry into force and does not say the amendments are passed ([source, 2026-07-29](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993)).
 - Act No. 5 of 2026, the Electronic Transactions (Amendment) Act, was passed by the National Assembly on 19 May 2026 and assented to by the President on 25 May 2026; it comes into operation on a date to be fixed by Proclamation, different sections possibly on different dates, and the document gives no commencement date ([source, 2026-05-25](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2026/05/Act0526.pdf)).
-
-### Niger: 3 Established
-
-Niger's 2019 electronic transactions law is presented by the ministry as governing; no source found reports rules made under it and its application.
-
-- The ministry's page presents Loi 2019-03 of 30 April 2019 on electronic transactions in Niger as governing electronic transactions, covering electronic signatures, contracts and payments, data retention and sanctions; it does not state an entry-into-force date or any repeal ([source, 2019-04-30](https://mcnti.gouv.ne/ova_doc/loi-2019-03-du-30-avril-2019-portant-sur-les-transactions-electroniques-au-niger/)).
 
 ### Rwanda: 3 Established
 
