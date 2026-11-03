@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: ZAF
-ledger_rows: 80
+ledger_rows: 81
 not_held: 19
-record: 1504544de600
+record: f79fed051db8
 ---
 
 # News, Oct – Nov 2026
@@ -919,6 +919,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[South Africa's digital ID could change how you pay](https://techcentral.co.za/south-africas-digital-id-could-change-how-you-pay/287578/)** — TechCentral, 22 October 2026
 
 DIDx, a South African digital identity firm with a commercial stake in the outcome, told TechCentral that a credential from home affairs' MyMzansi digital ID app could seed a payment credential under the Reserve Bank's PEMKey programme, sparing users a second onboarding. The Reserve Bank has not said whether MyMzansi credentials will be accepted or published the PEMKey sandbox participants.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">eZAR rand stablecoin</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[eZAR opens rand stablecoin to SA public](https://www.itweb.co.za/article/ezar-opens-rand-stablecoin-to-sa-public/8OKdWMDXO8jMbznQ)** — ITWeb South Africa, 2 November 2026
+
+eZAR, a rand-backed stablecoin, opened to the South African public after almost a year as a pilot. It is run by eZAR Ltd, Ninety One and AVBOB Financial Services. R303 million of tokens were in circulation on 30 October 2026. Reserves sit mainly in the Ninety One Money Market Fund. The issuer states that eZAR is a crypto asset, not legal tender or a bank deposit.
 
 </div>
 
