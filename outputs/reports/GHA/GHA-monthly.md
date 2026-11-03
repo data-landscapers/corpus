@@ -3,9 +3,9 @@ title: Ghana — News, Oct – Nov 2026
 compiled: 2026-11-03
 period: 2026-10-01 to 2026-11-03
 place: GHA
-ledger_rows: 56
+ledger_rows: 57
 not_held: 9
-record: 7ae10ef7798e
+record: e1c2c9e7951b
 ---
 
 # News, Oct – Nov 2026
@@ -587,6 +587,8 @@ Ghana's Cyber Security Authority and NITA issued a joint alert on 22 October 202
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -783,6 +785,22 @@ Stanbic Bank Ghana and Hong Kong-based RD Technologies said, as reported on 20 O
 **[Opening Remarks by Governor Dr Johnson Pandit Asiama at the 11th Meeting of the Payment Systems Advisory Committee](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)** — Bank of Ghana, 2 November 2026
 
 Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Systems Advisory Committee on 2 November 2026. He named low GhQR adoption, no agent interoperability and growing bilateral arrangements as sources of fragmentation. He put GhIPSS volumes at about 530 million transactions worth over GH¢1.73 trillion in 2025.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National household registry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gender Ministry swears in Data Review Committee to strengthen household registry](https://www.myjoyonline.com/gender-ministry-swears-in-data-review-committee-to-strengthen-household-registry/)** — MyJoyOnline, 3 November 2026
+
+Peer-review body validates registry analytics before release; GNHR holds ~3 million households in 16 regions.
 
 </div>
 
