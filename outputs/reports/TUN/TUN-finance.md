@@ -19,10 +19,10 @@ place: TUN
 <tr><th scope="row">Open data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Technical Capacity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">192</td><td class="num">10</td><td class="num">280</td><td class="num">61</td><td class="num">34</td><td class="num">34</td><td class="num total">610</td></tr></tfoot>
 </table></div>
@@ -63,11 +63,12 @@ place: TUN
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">10</td><td class="num">205</td><td class="num zero"></td><td class="num total">215</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">100</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">100</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">100</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">100</td></tr>
 <tr><th scope="row">Registries</th><td class="num">60</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">60</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">31</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">31</td></tr>
 <tr><th scope="row">Open data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">192</td><td class="num">10</td><td class="num">205</td><td class="num">&lt;1</td><td class="num total">407</td></tr></tfoot>
 </table></div>

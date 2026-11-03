@@ -69,6 +69,7 @@ place: MWI
 <tr><th scope="row">Innovation ecosystem</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">306</td><td class="num">37</td><td class="num">112</td><td class="num">&lt;1</td><td class="num">40</td><td class="num total">496</td></tr></tfoot>
 </table></div>

@@ -23,7 +23,7 @@ place: MOZ
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
-<tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
+<tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">536</td><td class="num">224</td><td class="num">2</td><td class="num">25</td><td class="num">337</td><td class="num">39</td><td class="num total">1,163</td></tr></tfoot>
@@ -73,7 +73,7 @@ place: MOZ
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">9</td><td class="num total">9</td></tr>
 <tr><th scope="row">Technical Capacity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
+<tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">536</td><td class="num">224</td><td class="num">2</td><td class="num">288</td><td class="num">13</td><td class="num total">1,062</td></tr></tfoot>

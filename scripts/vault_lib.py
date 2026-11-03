@@ -347,15 +347,16 @@ def parse_frontmatter(text):
     return fm, warnings, body
 
 
-# Topic ids Bill has renamed, read under the new id until every OSINT record carries it
-# (notes-for-osint 282). Applied to the facets as they are parsed, so every reader agrees.
-TOPIC_RENAMED = {"data.satellite": "data.geospatial"}   # Bill, 2026-11-03
-_RENAMED_RE = re.compile(r"^(" + "|".join(re.escape(k) for k in TOPIC_RENAMED) + r")(?=$|[.-])")
+# Topic ids Bill has renamed, read under the new id until every OSINT record carries it.
+# Applied to the facets as they are parsed, so every reader agrees. Empty when OSINT has
+# caught up: data.satellite -> data.geospatial ran 2026-11-03 until notes-for-corpus 83.
+TOPIC_RENAMED: dict[str, str] = {}
+_RENAMED_RE = re.compile(r"^(" + "|".join(re.escape(k) for k in TOPIC_RENAMED) + r")(?=$|[.-])") if TOPIC_RENAMED else None
 
 
 def renamed_topic(v):
     """`v` with a renamed topic id, or the prefix of an indicator or sub-topic id, replaced."""
-    return _RENAMED_RE.sub(lambda m: TOPIC_RENAMED[m.group(1)], v)
+    return _RENAMED_RE.sub(lambda m: TOPIC_RENAMED[m.group(1)], v) if _RENAMED_RE else v
 
 
 def as_list(v):

@@ -17,7 +17,7 @@ place: BFA
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num">1</td><td class="num">4</td><td class="num">2</td><td class="num total">9</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">4</td></tr>
-<tr><th scope="row">Digital divides</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
+<tr><th scope="row">Access to services</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
@@ -71,7 +71,7 @@ place: BFA
 <tr><th scope="row">Cybersecurity</th><td class="num">81</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">81</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">47</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">47</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">28</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">28</td></tr>
-<tr><th scope="row">Digital divides</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
+<tr><th scope="row">Access to services</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 </tbody>

@@ -75,6 +75,7 @@ place: SLE
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">152</td><td class="num">72</td><td class="num">8</td><td class="num">51</td><td class="num">17</td><td class="num total">300</td></tr></tfoot>

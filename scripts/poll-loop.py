@@ -58,6 +58,23 @@ def run(*args: str) -> tuple[int, str]:
     return p.returncode, (p.stdout + p.stderr).strip()
 
 
+def as_date(v: str) -> dt.date | None:
+    """`2026-11-03`, or `03/11/2026` as Excel saves it on a UK machine (day first)."""
+    v = v.strip()
+    for f in ("%Y-%m-%d", "%d/%m/%Y", "%d/%m/%y"):
+        try:
+            return dt.datetime.strptime(v, f).date()
+        except ValueError:
+            pass
+    return None
+
+
+def as_time(v: str) -> dt.time:
+    """`01:00`, `1:00` or `1:00:00`."""
+    h, m, *_ = (v.strip() + ":0").split(":")
+    return dt.time(int(h), int(m))
+
+
 def night(day: dt.date) -> tuple[dt.datetime, dt.datetime]:
     """The window of the night that begins on `day`: its row in WINDOWS, else the default.
     A stop at or before the start is the next morning's."""
@@ -65,9 +82,8 @@ def night(day: dt.date) -> tuple[dt.datetime, dt.datetime]:
     try:
         with open(WINDOWS, encoding="utf-8-sig", newline="") as fh:
             for r in csv.DictReader(fh):
-                if r.get("night", "").strip() == day.isoformat():
-                    start = dt.time.fromisoformat(r["start"].strip())
-                    stop = dt.time.fromisoformat(r["stop"].strip())
+                if as_date(r.get("night", "")) == day:
+                    start, stop = as_time(r["start"]), as_time(r["stop"])
     except (OSError, ValueError, KeyError) as e:
         print(f"poll: {WINDOWS} unreadable ({e}); default hours", flush=True)
     a = dt.datetime.combine(day, start)

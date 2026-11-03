@@ -16,7 +16,7 @@ place: GHA
 <tr><th scope="row">Sectoral management information systems</th><td class="num">103</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">107</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">22</td><td class="num">10</td><td class="num">19</td><td class="num total">51</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">50</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">50</td></tr>
-<tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">37</td><td class="num">&lt;1</td><td class="num total">37</td></tr>
+<tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">37</td><td class="num zero"></td><td class="num total">37</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">14</td><td class="num">4</td><td class="num">17</td><td class="num total">34</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">4</td><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">18</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">9</td></tr>
@@ -71,11 +71,12 @@ place: GHA
 <tr><th scope="row">Cybersecurity</th><td class="num">224</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">224</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">103</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">103</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">50</td><td class="num zero"></td><td class="num zero"></td><td class="num total">50</td></tr>
-<tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">37</td><td class="num">&lt;1</td><td class="num total">37</td></tr>
+<tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">37</td><td class="num zero"></td><td class="num total">37</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">4</td><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num total">18</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num total">12</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">885</td><td class="num">426</td><td class="num">64</td><td class="num">47</td><td class="num">1,312</td><td class="num total">2,734</td></tr></tfoot>
