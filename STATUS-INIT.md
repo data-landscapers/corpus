@@ -97,7 +97,7 @@ From `all-nonstate.csv`, not the hub's `## Financing` block. Establish the commi
 
 ## Sub-sections the dataset cannot answer
 
-The five `geopol.*` slugs, `data.satellite` and `finance.mou` have no indicator coverage; `gov.regional`, `capacity.research`, `digital.localgov` and `tech.industry` little. Answer them from the wiki; where it holds nothing, one dated sentence saying so.
+The five `geopol.*` slugs, `data.geospatial` and `finance.mou` have no indicator coverage; `gov.regional`, `capacity.research`, `digital.localgov` and `tech.industry` little. Answer them from the wiki; where it holds nothing, one dated sentence saying so.
 
 ## Output shape
 

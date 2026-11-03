@@ -208,7 +208,7 @@ The drafting brief — what the section says, what it reads, what *Not establish
   - Whether the systems themselves are transparent — `govtech-datagov-34.7`, `exchange-uptake-transparency`
   - Who governs data as an asset — `govtech-datagov-34`, `govtech-datagov-34.5`
 
-### `data.satellite` — Use of satellite data
+### `data.geospatial` — Use of satellite data
 
 **No indicator in the DPI dataset addresses this slug.** The nearest existing evidence is the openness of the underlying domains — `odin-environ-agric`, `odin-environ-builtenv`, `odin-environ-resource` — and whether the cadastre is separate from the land register, `reg-land-cadastral`. All eight bullets below are proposed.
 

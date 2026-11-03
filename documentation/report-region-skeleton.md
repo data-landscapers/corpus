@@ -42,7 +42,7 @@ not_held: N                        # script-emitted; the count a reader is owed
 | 1 | Summary of the period | The three or four things a reader who stops here must have. Prose only, no table. |
 | 2 | Institutions and mandates | The bodies themselves: mandate, leadership, membership, secretariat capacity, restructuring, the programmes a body owns. `gov.regional`, `gov.discourse` |
 | 3 | Instruments and harmonisation | Conventions, model laws, protocols, standards and their ratification and domestication. `gov.legislate`, `gov.policy`, `gov.standards`, `gov.protect`, `data.open`, `tech.ai` |
-| 4 | Shared systems and infrastructure | The rails that actually cross a border: interconnection, cables and exchange points, roaming, payment and identity interoperability, shared statistical systems. `infra.*`, `dpi.*`, `data.statistics`, `data.satellite`, `digital.*` |
+| 4 | Shared systems and infrastructure | The rails that actually cross a border: interconnection, cables and exchange points, roaming, payment and identity interoperability, shared statistical systems. `infra.*`, `dpi.*`, `data.statistics`, `data.geospatial`, `digital.*` |
 | 5 | Coordination and collaboration | Working groups, committees, joint programmes; partnership with actors outside the region; and the evidence on where coordination is *not* happening. `geopol.*`, `tech.industry`, `tech.innovate` |
 | 6 | Capacity and inclusion | `include.*`, `capacity.*` |
 | 7 | Finance | What funds the regional layer and what it is able to absorb. `finance.new`, `finance.mou`, `finance.budget` |
