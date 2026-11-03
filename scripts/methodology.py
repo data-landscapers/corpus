@@ -177,6 +177,22 @@ def md_table(header: list[str], rows: list[list[str]]) -> list[str]:
             + ["| " + " | ".join(cell(c) for c in r) + " |" for r in rows])
 
 
+def finance_subtopics() -> tuple[list[str], list[list[str]]]:
+    """Chapter, topic and sub-topic, in the taxonomy's order (Bill, 2026-11-03). The sub-topic
+    lookup carries only a topic id, so the page needs the join; the download is the join too."""
+    with open(CORPUS / "lookups" / "taxonomy.csv", encoding="utf-8-sig", newline="") as fh:
+        tax = {r["Key"]: (int(r["Sort order"]), r["Level 1"], r["Level 2"]) for r in csv.DictReader(fh)}
+    with open(CORPUS / "lookups" / "finance-subtopics.csv", encoding="utf-8-sig", newline="") as fh:
+        subs = list(csv.DictReader(fh))
+    rows = sorted(((tax[r["topic_id"]], n, r["label"]) for n, r in enumerate(subs) if r["topic_id"] in tax),
+                  key=lambda t: (t[0][0], t[1]))
+    return ["Chapter", "Topic", "Sub-topic"], [[t[1], t[2], label] for t, _, label in rows]
+
+
+# A directive naming `derived/<name>` draws a table built here rather than read from one file.
+DERIVED = {"finance-subtopics": finance_subtopics}
+
+
 def lookup_tables(text: str, out_dir: Path) -> str:
     """Draw every `<!-- table: … -->` from its file, and put a CSV button on every table.
 
@@ -192,6 +208,17 @@ def lookup_tables(text: str, out_dir: Path) -> str:
         if ln.startswith("## "):
             heading = ln[3:].strip()
         m = TABLE.match(ln)
+        if m and m.group(1).startswith("derived/"):
+            name = m.group(1).split("/", 1)[1]
+            if name not in DERIVED:
+                raise SystemExit(f"methodology.py: no derived table {name!r} for {heading!r}.")
+            header, rows = DERIVED[name]()
+            with open(out_dir / f"{name}.csv", "w", encoding="utf-8", newline="") as fh:
+                csv.writer(fh, lineterminator="\n").writerows([header] + rows)
+            written.add(f"{name}.csv")
+            out += csv_button(f"{name}.csv") + md_table(header, rows)
+            i += 1
+            continue
         if m:
             src = CORPUS / m.group(1)
             if not src.exists():

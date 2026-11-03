@@ -1,5 +1,6 @@
 ## 3 November 2026
 
+- The process lookups page now lists every finance sub-topic with its chapter and topic, with a CSV download. It is drawn from the live lookup, so it changes as the sub-topics do.
 - Finance has 17 fewer sub-topics: each was folded into an existing one, such as biometric systems into *National ID and population registers* and line-ministry statistics units into *Statistical production and dissemination*. Digital-divide programmes, AI policy, spatial data infrastructure and public servants' digital skills move topic with it, to *Access to services*, *Strategies, plans and policies*, *Geospatial data* and *Training and skills*.
 - *Use of satellite data* is renamed *Geospatial data* across the site, reports and finance tables, and its topic pages move to `/topics/data-geospatial/`; old links forward. Its sub-topics will change next.
 - *Sectoral management information systems* no longer has an *In-house IT unit* sub-topic: a ministry's or agency's IT unit now counts with its sector's systems, so the revenue authority's IT department sits under *Financial and revenue systems*. 332 lines, about $119 million, that had moved to *Other GovTech and e-Gov* earlier today are back under sectoral systems.

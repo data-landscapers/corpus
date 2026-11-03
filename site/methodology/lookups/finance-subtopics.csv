@@ -1,0 +1,175 @@
+Chapter,Topic,Sub-topic
+Governance,"Strategies, plans and policies","Digital transformation strategies, plans and policies"
+Governance,"Strategies, plans and policies","Data governance strategies, plans and policies"
+Governance,"Strategies, plans and policies","ICT and infrastructure strategies, plans and policies"
+Governance,"Strategies, plans and policies","Data protection strategies, plans and policies"
+Governance,"Strategies, plans and policies","AI strategies, plans and policies"
+Governance,"Strategies, plans and policies","Cybersecurity strategies, plans and policies"
+Governance,"Strategies, plans and policies","Digital sovereignty strategies, plans and policies"
+Governance,"Strategies, plans and policies","Interoperability strategies, plans and policies"
+Governance,"Strategies, plans and policies","Cross-cutting strategies, plans and policies"
+Governance,Legislation and regulation,Data protection legislation
+Governance,Legislation and regulation,Cybersecurity legislation
+Governance,Legislation and regulation,Legislation covering digital ID
+Governance,Legislation and regulation,Digital payments legislation
+Governance,Legislation and regulation,Legislation enabling data interoperability
+Governance,Legislation and regulation,AI legislation
+Governance,Legislation and regulation,E-commerce legislation
+Governance,Legislation and regulation,Statistics legislation
+Governance,Legislation and regulation,Access to information legislation
+Governance,Legislation and regulation,Cross-cutting legislation
+Governance,Data protection,Data-protection authority
+Governance,Data protection,Other data and online-safety oversight
+Governance,Data protection,Unspecified
+Governance,Regional collaboration,Regional digital integration
+Governance,Regional collaboration,AfCFTA and digital trade
+Governance,Regional collaboration,International ICT relations
+Governance,Regional collaboration,Unspecified
+Governance,Standards,Sector regulators and internet governance
+Governance,Standards,Technical standards and assurance
+Governance,Standards,Unspecified
+Governance,Public debate and participation in policymaking,Online civic space and expression
+Governance,Public debate and participation in policymaking,Unspecified
+ICT Infrastructure,Connectivity,Mobile and access networks
+ICT Infrastructure,Connectivity,Ministry and programme administration
+ICT Infrastructure,Connectivity,"Backbone, bandwidth and satellites"
+ICT Infrastructure,Connectivity,Submarine cables
+ICT Infrastructure,Connectivity,Internet exchange points
+ICT Infrastructure,Connectivity,Digital broadcasting
+ICT Infrastructure,Connectivity,Government-wide network
+ICT Infrastructure,Connectivity,A body's own network and internet
+ICT Infrastructure,Connectivity,State telecom and postal operators
+ICT Infrastructure,Connectivity,Multi-part digital programmes
+ICT Infrastructure,Connectivity,Regulation and spectrum
+ICT Infrastructure,Connectivity,Security and military networks
+ICT Infrastructure,Connectivity,Universal access and rural coverage
+ICT Infrastructure,Connectivity,Unspecified
+ICT Infrastructure,Data Storage,Commercial data centres and cloud
+ICT Infrastructure,Data Storage,Backup and disaster recovery
+ICT Infrastructure,Data Storage,A body's own data centre and servers
+ICT Infrastructure,Data Storage,Government data centres and cloud
+ICT Infrastructure,Data Storage,Unspecified
+ICT Infrastructure,Energy,Power for digital infrastructure
+ICT Infrastructure,Energy,Unspecified
+ICT Infrastructure,Technical Capacity,Government computing capacity
+ICT Infrastructure,Technical Capacity,Unspecified
+ICT Infrastructure,Cybersecurity,Cybercrime enforcement and forensics
+ICT Infrastructure,Cybersecurity,National cyber agencies and CERTs
+ICT Infrastructure,Cybersecurity,Securing a body's own systems
+ICT Infrastructure,Cybersecurity,Digital trust and PKI
+ICT Infrastructure,Cybersecurity,"Strategy, awareness and skills"
+ICT Infrastructure,Cybersecurity,Surveillance and interception
+ICT Infrastructure,Cybersecurity,Unspecified
+DPI,Data Exchange,Government interoperability platforms
+DPI,Data Exchange,Open data-sharing networks
+DPI,Data Exchange,Trade single windows
+DPI,Data Exchange,Data-exchange governance and standards
+DPI,Data Exchange,Unspecified
+DPI,Digital Identity and CRVS,Combined civil registration and ID
+DPI,Digital Identity and CRVS,Sector and functional identifiers
+DPI,Digital Identity and CRVS,National ID and population registers
+DPI,Digital Identity and CRVS,"Passports, visas and border systems"
+DPI,Digital Identity and CRVS,Unspecified
+DPI,Digital Payments and Fintech,Agent and merchant networks
+DPI,Digital Payments and Fintech,Digital banking and institution digitisation
+DPI,Digital Payments and Fintech,Digital revenue collection
+DPI,Digital Payments and Fintech,Digital government payouts
+DPI,Digital Payments and Fintech,Digital finance research and skills
+DPI,Digital Payments and Fintech,Fintech investment funds
+DPI,Digital Payments and Fintech,Financial-inclusion programmes
+DPI,Digital Payments and Fintech,Digital insurance
+DPI,Digital Payments and Fintech,Digital credit and asset finance
+DPI,Digital Payments and Fintech,Payment and mobile-money providers
+DPI,Digital Payments and Fintech,Payment rails and financial services
+DPI,Digital Payments and Fintech,Remittances and cross-border payments
+DPI,Digital Payments and Fintech,Unspecified
+DPI,Registries,Address registers
+DPI,Registries,"Vehicle, animal and asset registers"
+DPI,Registries,Business and organisation registers
+DPI,Registries,Civil and population registers
+DPI,Registries,Voter registers
+DPI,Registries,Base maps and geodetic data
+DPI,Registries,Land and property registers
+DPI,Registries,Other registers of people
+DPI,Registries,Social registries
+DPI,Registries,Unspecified
+DPI,Sectoral management information systems,Health information systems
+DPI,Sectoral management information systems,Education information systems
+DPI,Sectoral management information systems,"Justice, police and security systems"
+DPI,Sectoral management information systems,Agriculture information systems
+DPI,Sectoral management information systems,Social protection and labour systems
+DPI,Sectoral management information systems,"Land, environment and natural-resource systems"
+DPI,Sectoral management information systems,"Economic, trade and industry systems"
+DPI,Sectoral management information systems,Transport systems
+DPI,Sectoral management information systems,Other sector systems
+DPI,Sectoral management information systems,Asset and operations systems
+DPI,Sectoral management information systems,Financial and revenue systems
+DPI,Sectoral management information systems,HR and payroll systems
+DPI,Sectoral management information systems,"Strategy, standards and coordination"
+DPI,Sectoral management information systems,Unspecified
+DPI,Other GovTech and e-Gov,"Finance, HR and procurement systems"
+DPI,Other GovTech and e-Gov,Online services and procedures
+DPI,Other GovTech and e-Gov,In-house IT unit
+DPI,Other GovTech and e-Gov,"Hardware, software and licences"
+DPI,Other GovTech and e-Gov,Digital transformation programmes
+DPI,Other GovTech and e-Gov,Business information systems
+DPI,Other GovTech and e-Gov,Unspecified
+Digitalisation,Digitalisation of sub-national government,Local government systems
+Digitalisation,Digitalisation of sub-national government,Unspecified
+Digitalisation,Rural digital data capture,Rural digitalisation
+Digitalisation,Rural digital data capture,Unspecified
+Technology,AI,AI in government use
+Technology,AI,AI datasets and language models
+Technology,AI,AI firms and compute
+Technology,AI,AI institutes and research
+Technology,AI,Unspecified
+Technology,ICT Industry,Ministry and programme administration
+Technology,ICT Industry,E-commerce and digital trade
+Technology,ICT Industry,Investment in technology firms
+Technology,ICT Industry,Tech zones and technopoles
+Technology,ICT Industry,Unspecified
+Technology,Innovation ecosystem,Ministry and programme administration
+Technology,Innovation ecosystem,"Tech parks, hubs and incubators"
+Technology,Innovation ecosystem,Research and emerging technology
+Technology,Innovation ecosystem,Start-up and innovator support
+Technology,Innovation ecosystem,Unspecified
+Capacity,Literacy,Civil-service digital literacy
+Capacity,Literacy,E-libraries and e-resources
+Capacity,Literacy,Public digital literacy and awareness
+Capacity,Literacy,ICT in schools
+Capacity,Literacy,Unspecified
+Capacity,Training and skills,Digital skills for enterprises
+Capacity,Training and skills,ICT higher education and institutes
+Capacity,Training and skills,Public-sector staff ICT training
+Capacity,Training and skills,ICT in schools and teacher training
+Capacity,Training and skills,Youth and community digital-skills programmes
+Capacity,Training and skills,Unspecified
+Capacity,Research institutions,Research cyberinfrastructure and libraries
+Capacity,Research institutions,ICT research institutes
+Capacity,Research institutions,Unspecified
+Inclusion,Access to services,Public access centres
+Inclusion,Access to services,Devices for users
+Inclusion,Access to services,Digital inclusion programmes
+Inclusion,Access to services,Universal access funds
+Inclusion,Access to services,Unspecified
+Inclusion,Digital divides,Unspecified
+Data,National statistics,Censuses
+Data,National statistics,"Coordination, methods and standards"
+Data,National statistics,Statistical capacity programmes
+Data,National statistics,Statistics office running costs
+Data,National statistics,Statistical production and dissemination
+Data,National statistics,Sample surveys
+Data,National statistics,Statistical databases and IT
+Data,National statistics,Unspecified
+Data,Open data,Archives and heritage digitisation
+Data,Open data,"Open data, transparency portals and dashboards"
+Data,Open data,Sector databases and data banks
+Data,Open data,Right to information
+Data,Open data,Skills and training
+Data,Open data,Unspecified
+Data,Geospatial data,Mapping and remote-sensing agencies
+Data,Geospatial data,Geospatial data infrastructure and platforms
+Data,Geospatial data,Positioning reference networks
+Data,Geospatial data,Sector GIS and mapping projects
+Data,Geospatial data,Space agencies and satellites
+Data,Geospatial data,Unspecified
