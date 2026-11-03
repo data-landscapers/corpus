@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: ETH
-ledger_rows: 22
+ledger_rows: 23
 not_held: 5
-record: 0dcbd1245872
+record: fc0b22b091bd
 ---
 
 # News, Oct – Nov 2026
@@ -32,6 +32,8 @@ record: 0dcbd1245872
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -61,6 +63,22 @@ An assessment of Ethiopia's second financial inclusion strategy found adult acco
 **[Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability](https://techafricanews.com/2026/10/28/ethiopia-telecom-regulator-service-quality-affordability/)** — Tech Africa News, 28 October 2026
 
 Ethiopia's Minister of Innovation and Technology, Frehiwot Tamru, told the Ethiopian Communications Authority on 27 October 2026 to judge its work by service quality, affordability, consumer protection and access. The ministry asked for measurable rural connectivity targets, firmer spectrum management and enforcement of quality-of-service rules. New postal legislation is to replace a proclamation of 1958 in the Ethiopian calendar.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mandatory scannable digital product marks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Authorities' Bid for Digital Quality Sparks Fury Among Cash-strapped Businesses](https://addisfortune.news/authorities-bid-for-digital-quality-sparks-fury-among-cash-strapped-businesses)** — Addis Fortune, 31 October 2026
+
+Mandatory scannable marks for essential products, built with EAII; fees up to 0.5% of revenue; industry pushback.
 
 </div>
 
