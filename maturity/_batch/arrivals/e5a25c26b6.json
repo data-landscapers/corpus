@@ -1,0 +1,10 @@
+{"slug": "2026-11-02-fcmb-mastercard-agropass-smallholder-farmers", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Private farm-value-chain platform; nothing on government e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "AgroPass is a private value-chain platform; no mobile money or retail payment service stated."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

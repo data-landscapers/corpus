@@ -1,0 +1,31 @@
+{
+ "slug": "2025-11-14-sen-senegal-launches-portailbac-to-modernize-management-of-national-exams",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "New Deal Technologique",
+       "country_label": "Senegal",
+       "class": "national",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "PortailBac",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Office du baccalauréat with ANSD",
+       "tiers": ""
+      }
+     ],
+     "note": "The document names the New Deal Technologique as the national strategy but states no standing, text, period, plan or reporting."
+    }
+   }
+  }
+ }
+}

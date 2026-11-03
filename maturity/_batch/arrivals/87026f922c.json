@@ -1,0 +1,32 @@
+{
+ "slug": "2025-10-21-gin-conakry-le-mepu-a-mise-sur-la-digitalisation-pour-gerer-les-flux-d-ele",
+ "studies": {
+  "schoolinternet": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No UNESCO secondary-school internet share; the 2,200-school connection plan is a programme, not a share."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "plateforme de gestion des flux des \u00e9l\u00e8ves des classes interm\u00e9diaires",
+       "country_label": "Guinea",
+       "class": "other",
+       "platform": "",
+       "owner": "DGECS (MEPU-A)",
+       "tiers": ""
+      }
+     ],
+     "note": "An examinations-directorate platform for intermediate-class results and a learner number from year 7; single-function, not a primary-school learner record."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"slug": "2026-11-02-ben-digitization-in-benin-criminal-records-now-issued-instantly-and-withou", "studies": {
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document does not say records pass between the civil register and the ID system."}}},
+"civilregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document mentions civil registry records only as a verification source, not the register's digital status."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idverification": {"countries": {"BEN": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Since 1 November 2026 the criminal record certificate on service-public.bj is issued instantly, the system verifying the applicant's identity against the Personal Identification Number and civil registry records, per Bénin Web TV.", "as_of": "2026-11-01", "date_precision": "day", "system": "service-public.bj criminal record service", "class": "relying"}], "systems": [{"system": "service-public.bj", "country_label": "Benin", "class": "relying", "platform": "", "owner": "Ministry of Justice and Legislation", "tiers": ""}], "note": ""}}},
+"police": {"countries": {"BEN": {"facts": [], "systems": [{"system": "National Criminal Record Center", "country_label": "Benin", "class": "other", "platform": "", "owner": "Ministry of Justice and Legislation", "tiers": ""}], "note": "Criminal record certificates are identification, not a station report or case record."}}},
+"registry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}}
+}}

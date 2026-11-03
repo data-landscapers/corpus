@@ -1,0 +1,158 @@
+{
+ "slug": "2024-09-26-gmb-strengthening-school-management-and-data-reporting-in-the-gambia-and-e",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Unique learner IDs are in one system only; no link between systems is stated."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A link to the national PIN system is only a plan of the ministry."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Gambia's Ministry of Basic and Secondary Education launched pilot projects in 2023 to implement the SEMIS app for individual-level student records on top of its DHIS2-based EMIS.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "SEMIS (DHIS2)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SEMIS (DHIS2 Tracker)",
+       "country_label": "Gambia",
+       "class": "emis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Basic and Secondary Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Eswatini's Ministry of Education and Training launched a DHIS2-based EMIS for aggregate and individual data collection in 100 Manzini schools in late 2021 and extended it to all schools the following year.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "DHIS2-based EMIS",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "learners",
+       "value": "individual",
+       "fact": "Eswatini's DHIS2-based EMIS collected individual learner data and was extended to all schools in 2022, with individual records needed under the national PIN system.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "DHIS2-based EMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SEMIS (DHIS2)",
+       "country_label": "Eswatini",
+       "class": "emis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Education and Training",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "DHIS2 is the national HMIS but nothing on tiers, clinics or digitising is stated."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "DHIS2 has been used as Gambia's national health management information system since 2009, DHIS2 says.",
+       "as_of": "2024-09-26",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "schools",
+       "value": "pilot",
+       "fact": "Gambia launched a preliminary Tracker-based EMIS in two schools with 5,500 students and 200 teachers in 2022, and SEMIS pilots began in 2023.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "SEMIS (DHIS2 Tracker)",
+       "class": "emis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "schools",
+       "value": "pilot",
+       "fact": "Eswatini began a limited SEMIS implementation in 10 schools in Lubombo in March 2024, with 50 more schools due in October 2024.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "SEMIS (DHIS2)",
+       "class": "emis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

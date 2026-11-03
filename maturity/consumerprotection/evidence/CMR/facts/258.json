@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Matricule Unique",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "school card platform (carte scolaire)",
+   "owner": "Ministry of Secondary Education (MINESEC)",
+   "tiers": ""
+  }
+ ],
+ "note": "Document describes a sectoral school pupil identifier tied to school-fee e-payment; it states nothing this study asks."
+}

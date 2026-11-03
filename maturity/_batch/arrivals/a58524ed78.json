@@ -1,0 +1,162 @@
+{
+ "slug": "2025-06-23-rwa-student-research-spotlight-ayo-arowolo-bridging-education-and-technolo",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Harvard CAS field report says Rwanda's Ministry of Education runs the web-based SDMS, with which annual education statistics are now compiled in a fraction of the time.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "School Data Management System (SDMS)",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "learners",
+       "value": "individual",
+       "fact": "The report says, from a headteacher, that every student is assigned a unique ID in the SDMS, which tracks enrolment and attendance per student, with school compliance up from 40% to 70-80%.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "School Data Management System (SDMS)",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The report says, from a headteacher, that the SDMS integrates with the national identity system, though it does not yet fully connect with other management systems.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "School Data Management System (SDMS)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "School Data Management System (SDMS)",
+       "country_label": "School Data Management System",
+       "class": "emis",
+       "platform": "web-based",
+       "owner": "Ministry of Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Rwanda."
+    }
+   }
+  }
+ }
+}

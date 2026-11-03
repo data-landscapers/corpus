@@ -1,0 +1,190 @@
+{
+ "slug": "2026-11-02-gha-opening-remarks-by-governor-dr-johnson-pandit-asiama-at-the-11th-meeti",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Governor Asiama says the Payment Systems Advisory Committee is established under the Payment Systems and Services Act, 2019 (Act 987).",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "Payment Systems and Services Act, 2019 (Act 987)",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Payment Systems and Services Act, 2019 (Act 987)",
+       "country_label": "Ghana",
+       "class": "law",
+       "platform": "",
+       "owner": "Bank of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "Governor Asiama says recent global surveys indicate approximately 81 per cent of Ghanaian adults own a financial account.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "global surveys",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "target",
+       "value": "target",
+       "fact": "Governor Asiama says recent global surveys indicate approximately 81 per cent of Ghanaian adults own a financial account.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "global surveys",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Ghana."
+    }
+   }
+  }
+ }
+}

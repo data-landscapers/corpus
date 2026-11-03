@@ -1,0 +1,31 @@
+{
+ "slug": "2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "developed by SMS ONE Ltd",
+   "owner": "Ministry of Education and Sports",
+   "tiers": ""
+  },
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "UNEB index number",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "developed by SMS ONE Ltd",
+   "owner": "UNEB",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing this study asks."
+}

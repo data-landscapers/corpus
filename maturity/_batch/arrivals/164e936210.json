@@ -1,0 +1,79 @@
+{
+ "slug": "2024-10-30-mli-l-unesco-appuie-la-production-des-statistiques-liees-a-la-sante-du-sys",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "School-health data collected by questionnaire; not stated as drawn from administrative records."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "UNESCO says Mali's education ministry planning unit (CPS) collected 2023-24 national data on school-health indicators integrated into the SIGE and analysed them at a Segou workshop on 21-26 October 2024.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "SIGE",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGE",
+       "country_label": "Systeme d'Information et de Gestion de l'Education",
+       "class": "other",
+       "platform": "",
+       "owner": "CPS, Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGE",
+       "country_label": "Systeme d'Information et de Gestion de l'Education",
+       "class": "other",
+       "platform": "",
+       "owner": "CPS, Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "SIGE not described as per-learner entry during the year; unclassified."
+    }
+   }
+  }
+ }
+}

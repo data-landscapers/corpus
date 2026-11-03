@@ -1,0 +1,9 @@
+{"slug": "2026-02-24-gin-le-ministre-alpha-bacar-barry-lance-la-plateforme-d-immatriculation-de", "studies": {
+"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Only a pupil identifier; no national ID count."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A school pupil identifier is a sectoral ID, not a number at birth."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on the national ID system's operation."}}},
+"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Pupil platform is not keyed on a national ID number."}}},
+"idrobustness": {"countries": {"GIN": {"facts": [], "systems": [{"system": "plateforme d'immatriculation des élèves du primaire", "country_label": "Guinée", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": ""}], "note": "Sectoral pupil ID only; no national ID system stated."}}}
+}}

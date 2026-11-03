@@ -1,0 +1,10 @@
+{"slug": "2026-10-30-lso-movable-assets-unlock-loans-for-businesses", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Collateral registry article; nothing on e-procurement."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Central bank role stated is collateral registry and supervision, not payments licensing, switch or PAPSS."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on consumer protection for digital finance."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

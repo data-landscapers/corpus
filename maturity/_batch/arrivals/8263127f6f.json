@@ -1,0 +1,70 @@
+{
+ "slug": "2026-11-02-gin-connectivit-en-afrique-la-24e-runion-du-fratel-explore-les-grands-dfis",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "Guinea's deputy national director of telecommunications said the country, under the Simandou 2040 programme and its digital planning master plan, targets 857 priority rural localities and a one-stop shop for infrastructure sharing to cut operators' costs in uncovered areas.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "schéma directeur d'aménagement numérique",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "schéma directeur d'aménagement numérique",
+       "country_label": "Guinea",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Communication, Digital Economy and Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general statement that digital is the foundation of national sovereignty."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement answers this study's questions for Guinea."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No internet use figure for Guinea; the 14% rural figure is for low- and middle-income countries."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement answers this study's questions for Guinea."
+    }
+   }
+  }
+ }
+}

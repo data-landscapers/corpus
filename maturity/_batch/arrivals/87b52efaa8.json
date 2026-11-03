@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-31-tgo-triennale-adea-2025-le-togo-presente-sa-strategie-de-gestion-des-donne",
+ "studies": {
+  "schools": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CGRH",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Education",
+       "tiers": ""
+      }
+     ],
+     "note": "CGRH manages teachers and the annual census feeds inspections; no per-learner record kept by schools is stated."
+    }
+   }
+  }
+ }
+}

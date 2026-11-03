@@ -1,0 +1,174 @@
+{
+ "slug": "2026-11-02-ben-communique-de-mtn-mobile-money-benin",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "MTN Mobile Money Benin says it applies BCEAO Avis N\u00b00019 and routes interoperable transfers through the BCEAO's PI-SPI from 2 November 2026.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "PI-SPI",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "MTN Mobile Money Benin says its customers can use PI-SPI services across the eight UEMOA countries from 2 November 2026.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "MTN Mobile Money Benin says its customers can send and receive money through PI-SPI to authorised participants in the eight UEMOA countries from 2 November 2026.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Benin",
+       "class": "crossborder",
+       "platform": "PI-SPI",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "MTN Mobile Money Benin, a mobile money service, tells customers it is in service and its account ceilings change from 2 November 2026.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "MTN MoMo",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "MTN Mobile Money Benin says its customers can send and receive money through PI-SPI to more than 170 authorised participants (banks, e-money institutions, microfinance, payment institutions) from 2 November 2026.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "PI-SPI",
+       "owner": "BCEAO",
+       "tiers": ""
+      },
+      {
+       "system": "MTN MoMo",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "MTN MoMo",
+       "owner": "MTN Mobile Money Benin SA",
+       "tiers": ""
+      }
+     ],
+     "note": "No national switch stated: PI-SPI is the BCEAO's regional system."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

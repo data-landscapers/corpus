@@ -1,0 +1,14 @@
+{
+ "slug": "2026-08-29-lec-transmission-distribution",
+ "studies": {
+  "ruralelectrification": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes the grid; gives no rural access share."
+    }
+   }
+  }
+ }
+}

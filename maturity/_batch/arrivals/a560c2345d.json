@@ -1,0 +1,225 @@
+{
+ "slug": "2026-08-15-sen-seyni-ndiaye-fall-coordonnateur-du-systeme-integre-de-management-de-l",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "AI tools named are for pupils and teachers in education, a sector use, not general administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Education ministry's SIMEN coordinator says the ministry has recently deployed supervised AI tools for pupils and teachers.",
+       "as_of": "2026-08-15",
+       "date_precision": "day",
+       "system": "supervised AI tools (Education nationale)",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a state interoperability platform as set up but not live use or connections; the education data warehouse is one ministry's."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "SIMEN coordinator says a technical team inside the Education ministry develops its platforms, 41 in the SIMEN ecosystem, and the most critical are kept in-house.",
+       "as_of": "2026-08-15",
+       "date_precision": "day",
+       "system": "SIMEN",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "own",
+       "value": "entire",
+       "fact": "SIMEN coordinator says PLANETE 3 is one of five platforms developed in-house by the ministry's own technical team.",
+       "as_of": "2026-08-15",
+       "date_precision": "day",
+       "system": "PLANETE 3",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "own",
+       "value": "entire",
+       "fact": "SIMEN coordinator says RAMATU is one of five platforms developed in-house by the ministry's own technical team.",
+       "as_of": "2026-08-15",
+       "date_precision": "day",
+       "system": "RAMATU",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "own",
+       "value": "entire",
+       "fact": "SIMEN coordinator says TAGGATU is one of five platforms developed in-house by the ministry's own technical team.",
+       "as_of": "2026-08-15",
+       "date_precision": "day",
+       "system": "TAGGATU",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIMEN",
+       "country_label": "SIMEN",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministere de l'Education nationale",
+       "tiers": ""
+      },
+      {
+       "system": "PLANETE 3",
+       "country_label": "PLANETE 3",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministere de l'Education nationale",
+       "tiers": ""
+      },
+      {
+       "system": "RAMATU",
+       "country_label": "RAMATU",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministere de l'Education nationale",
+       "tiers": ""
+      },
+      {
+       "system": "TAGGATU",
+       "country_label": "TAGGATU",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministere de l'Education nationale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  }
+ }
+}

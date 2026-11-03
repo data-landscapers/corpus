@@ -1,0 +1,7 @@
+{"slug": "2026-09-07-ago-lei-de-autorizacao-legislativa-n-o-12-26-regime-juridico-da-assinatura", "studies": {
+"authentication": {"countries": {"AGO": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Law 12/26, approved on 31 July 2026 and promulgated on 7 September 2026, authorises the President to legislate on electronic signatures, digital certification and Angola's public key infrastructure (ICP-AO) with an accrediting authority and a root certification entity.", "as_of": "2026-09-07", "date_precision": "day", "system": "Infra-Estrutura de Chaves Públicas de Angola (ICP-AO)", "class": "authentication"}], "systems": [{"system": "ICP-AO", "country_label": "Angola", "class": "authentication", "platform": "", "owner": "Autoridade Credenciadora", "tiers": ""}], "note": ""}}},
+"cybersecurity": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Security duties for certification entities are only an authorised head of power, no body or response stated."}}},
+"dataprotectionlaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on a data protection law or authority."}}},
+"ecommercelaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The law is an authorisation on e-signatures and certification, not an e-commerce law."}}},
+"offsitebackup": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Geographic redundancy is only a requirement for certification entities the decree may set, no backup site stated."}}}
+}}

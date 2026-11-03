@@ -1,1 +1,25 @@
-{"slug": "2025-05-28-cmr-minpostel-optimiser-le-cadre-logique-des-programmes", "studies": {"schoolinternet": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Budget programme review; nothing on school internet or a compulsory digital curriculum."}}}}}
+{
+ "slug": "2025-05-28-cmr-minpostel-optimiser-le-cadre-logique-des-programmes",
+ "studies": {
+  "domesticfinancing": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "spent",
+       "fact": "The Budget Directorate (MINFI) reports MINPOSTEL programme evaluation figures of credit consumption in 2024 of 22.66% for programme 130 (digital ecosystem) and 100% for programme 132 (cybersecurity), against 14.67% and 97.15% in 2023.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "MINPOSTEL programmes 130 and 132",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

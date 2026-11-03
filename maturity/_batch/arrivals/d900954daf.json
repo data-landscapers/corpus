@@ -1,0 +1,64 @@
+{
+ "slug": "2025-03-18-cpv-implementacao-do-sige-e-passo-fundamental-para-eficiencia-da-gestao-ed",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Cabo Verde's national education directorate says the SIGE is implemented in basic and secondary education, with data entry by teachers and school secretariats mandatory.",
+       "as_of": "2025-03-18",
+       "date_precision": "day",
+       "system": "SIGE",
+       "class": "emis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "levels",
+       "value": "P;S",
+       "fact": "The national education directorate says the SIGE is already implemented in basic and secondary education, pre-school pending.",
+       "as_of": "2025-03-18",
+       "date_precision": "day",
+       "system": "SIGE",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The SIGE is run by the Ministry of Education, which trained 25 national directorate technicians in its use.",
+       "as_of": "2025-03-18",
+       "date_precision": "day",
+       "system": "SIGE",
+       "class": "emis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

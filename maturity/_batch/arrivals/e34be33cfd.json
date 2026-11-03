@@ -1,0 +1,23 @@
+{
+ "slug": "2024-08-29-tza-tsc-imefanikiwa-kuunganisha-mfumo-wa-tscmis-na-mifumo-mingine-mitatu",
+ "studies": {
+  "schools": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "TSCMIS",
+       "country_label": "Tanzania",
+       "class": "other",
+       "platform": "",
+       "owner": "Teachers Service Commission",
+       "tiers": ""
+      }
+     ],
+     "note": "A teacher-management system linked to other systems; not a learner record at primary schools."
+    }
+   }
+  }
+ }
+}

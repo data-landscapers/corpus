@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-15-ago-governo-propoe-regulacao-do-comercio-electronico",
+ "studies": {
+  "ecommercelaw": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "A Commerce Directorate department head told Jornal de Angola that a regulation on e-commerce is being finalised technically and awaits approval by sector operators and the Executive, covering oversight, payments and security.",
+       "as_of": "2025-05-15",
+       "date_precision": "day",
+       "system": "regulamento do Comércio Electrónico",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No internet use figure is stated; the doubling headline is a related-article link."
+    }
+   }
+  }
+ }
+}

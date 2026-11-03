@@ -1,0 +1,8 @@
+{"slug": "2024-09-06-bfa-protecting-education-from-attack-eie-data-in-burkina-faso", "studies": {
+"censuses": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No census or household survey mentioned."}}},
+"educationexchange": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No link between education systems stated."}}},
+"educationmis": {"countries": {"BFA": {"facts": [{"sub_indicator": "emis", "aspect": "system", "value": "inservice", "fact": "IIEP says the ministry's EMIS had emergency-education data integrated and the ministry updated its annual school census questionnaires, with the EMIS used to inform government on school reopening.", "as_of": "2024-09-06", "date_precision": "day", "system": "EMIS", "class": "emis"}], "systems": [{"system": "EMIS", "country_label": "EMIS", "class": "emis", "platform": "", "owner": "Ministry of Education", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No digital law or policy consultation mentioned."}}},
+"refugees": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Displaced students are counted in school data only, no registration or digital service for the displaced."}}},
+"schools": {"countries": {"BFA": {"facts": [], "systems": [{"system": "EMIS", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": ""}], "note": "EMIS and annual school census questionnaire named, but no entry by schools between census days is described."}}}
+}}

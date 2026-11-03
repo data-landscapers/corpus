@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-21-lso-the-government-of-lesotho-remains-committed-to-strengthening-secure-da",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Exchange (X-Road pilot)",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "X-Road",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": "A planning workshop on a national data exchange with child-focused use cases; no social protection link is stated."
+}

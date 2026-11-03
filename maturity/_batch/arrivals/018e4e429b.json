@@ -1,0 +1,15 @@
+{"slug": "2025-10-07-ken-ca-orders-cii-licensed-e-csp-digital-certificates", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document is about digital certificates for critical infrastructure, not AI harms."}}},
+"authentication": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The Communications Authority of Kenya says electronic certification service providers are licensed and accredited by it and listed on its Telecommunications Services Licensee Register.", "as_of": "2025-10-07", "date_precision": "day", "system": "Electronic Certification Service Providers (E-CSPs) licensed by the Communications Authority", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The Communications Authority notice requires all systems designated Critical Information Infrastructure to use digital certificates and PKI services only from E-CSPs it has licensed and accredited.", "as_of": "2025-10-07", "date_precision": "day", "system": "Electronic Certification Service Providers (E-CSPs) licensed by the Communications Authority", "class": "authentication"}
+], "systems": [{"system": "Electronic Certification Service Providers (E-CSPs)", "country_label": "Kenya", "class": "authentication", "platform": "PKI and digital certificates", "owner": "Licensed by the Communications Authority of Kenya", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on civil servant digital-skills training."}}},
+"cybersecurity": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "readiness", "aspect": "cii", "value": "designated", "fact": "The Communications Authority of Kenya notice refers to systems designated as Critical Information Infrastructure under Gazette Notice No. 1043, following an NC4 determination of 1 August 2024, and requires them to use CA-licensed certification providers, with inspections from 14 January 2026.", "as_of": "2025-10-07", "date_precision": "day", "system": "Critical Information Infrastructure (Gazette Notice No. 1043)", "class": "response"}
+], "systems": [{"system": "National Computer and Cybercrimes Coordination Committee (NC4)", "country_label": "NC4", "class": "response", "platform": "", "owner": "Government of Kenya", "tiers": ""}], "note": ""}}},
+"ecommercelaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Notice requires licensed certification providers for critical systems but names no e-commerce law, rules under it or dated licence."}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on online government services."}}},
+"refugees": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on refugee registration or inclusion."}}},
+"satellitebroadband": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on satellite broadband licensing or sale."}}}
+}}

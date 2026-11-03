@@ -1,0 +1,32 @@
+{
+ "slug": "2026-11-02-egy-6-million-new-lines-and-fiber-optics-doubled-ntra-unveils-egypts-inter",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "E-government services are mentioned only as a reason for fibre upgrades."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a regulator count of fixed internet users (over 13 million), not a share of the population."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on social programme systems."
+    }
+   }
+  }
+ }
+}

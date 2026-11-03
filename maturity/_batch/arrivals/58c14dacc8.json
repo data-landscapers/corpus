@@ -1,0 +1,52 @@
+{
+ "slug": "2024-07-29-lby-moe-unicef-launch-openemis",
+ "studies": {
+  "schools": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "schools",
+       "value": "pilot",
+       "fact": "The Ministry of Education launched the OpenEMIS education information system with UNICEF on 28 July 2024, holding detailed learner data, and began a pilot phase in 205 educational institutions across the country.",
+       "as_of": "2024-07-28",
+       "date_precision": "day",
+       "system": "OpenEMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OpenEMIS",
+       "country_label": "Libya",
+       "class": "emis",
+       "platform": "OpenEMIS",
+       "owner": "Ministry of Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or fund is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub, incubator or park is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{"slug": "2024-11-05-som-nira-and-ministry-of-education-launch-joint-initiative-to-integrate-na", "studies": {
+"authentication": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No enrolment count or share; only a registration drive for students and teachers."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Education ministry services to be linked to the ID is a plan, not a public register keyed on the number."}}},
+"idrobustness": {"countries": {"SOM": {"facts": [], "systems": [{"system": "National ID System", "country_label": "Somalia", "class": "idsystem", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""}], "note": "No statement on issuance of unique numbers, biometrics or certification."}}}
+}}

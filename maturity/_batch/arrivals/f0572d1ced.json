@@ -1,0 +1,90 @@
+{
+ "slug": "2025-04-17-tgo-togo-autonomiser-les-ecoles-et-les-districts-a-l-aide-de-donnees",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "A GPE KIX blog with Togo's ministry officials says the ministry integrated its StatEduc data collection with DHIS2 into a system linking the planning, examinations and inspection directorates.",
+       "as_of": "2025-04-17",
+       "date_precision": "day",
+       "system": "StatEduc with DHIS2",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Togo's annual school census data is processed by StatEduc and DHIS2 gives subnational users dashboards on it, according to ministry officials.",
+       "as_of": "2025-04-17",
+       "date_precision": "day",
+       "system": "StatEduc",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "StatEduc",
+       "country_label": "Togo",
+       "class": "emis",
+       "platform": "StatEduc with DHIS2",
+       "owner": "Ministry of Primary and Secondary Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "StatEduc",
+       "country_label": "Togo",
+       "class": "census",
+       "platform": "",
+       "owner": "Ministry of Primary and Secondary Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Only the annual census through StatEduc and digital school observation by inspectors are described; no per-learner school entry."
+    }
+   }
+  }
+ }
+}

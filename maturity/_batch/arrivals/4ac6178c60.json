@@ -1,0 +1,157 @@
+{
+ "slug": "2025-08-29-mus-unesco-iite-and-chengdu-group-complete-project-on-inclusive-digital-ed",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on AI harms."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on AI in administration."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on AI in administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on sectoral AI."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on sectoral AI."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on AI built in the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on AI built in the country."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Only teacher training courses on inclusive education; no rule or delivered service."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only teacher training courses on inclusive education; no rule or delivered service."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States no link between education systems."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no link between education systems."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The document says the UNESCO IITE and Chengdu Group project piloted a secondary school Education Management Information System in Mauritius.",
+       "as_of": "2025-08-29",
+       "date_precision": "day",
+       "system": "Secondary school EMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Secondary school EMIS (pilot)",
+       "country_label": "Mauritius",
+       "class": "emis",
+       "platform": "",
+       "owner": "UNESCO IITE project",
+       "tiers": "S"
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no EMIS for Rwanda; the EMIS pilot was in Mauritius."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "levels",
+       "value": "S",
+       "fact": "The document says the UNESCO IITE and Chengdu Group project piloted a secondary school Education Management Information System in Mauritius.",
+       "as_of": "2025-08-29",
+       "date_precision": "day",
+       "system": "Secondary school EMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Secondary school EMIS (pilot)",
+       "country_label": "Mauritius",
+       "class": "emis",
+       "platform": "",
+       "owner": "UNESCO IITE project",
+       "tiers": "S"
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no EMIS for Rwanda."
+    }
+   }
+  }
+ }
+}

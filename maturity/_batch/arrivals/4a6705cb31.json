@@ -1,0 +1,32 @@
+{
+ "slug": "2024-12-02-sdn-xinhua-khartoum-schools-turn-to-remote-learning-platforms",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ip School",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "phone app",
+       "owner": "Soft Action",
+       "tiers": ""
+      }
+     ],
+     "note": "Special-needs education is only listed as covered by a school platform; no accessibility rule or delivery stated."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Displaced counts are given with no registration or digital service for them."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,235 @@
+{
+ "slug": "2025-05-17-egy-moe-online-registration-kindergarten-primary-2025",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The education ministry took online kindergarten and grade 1 applications for public schools on 1-30 June 2025 through its EMIS centre portal, and school heads register admitted foreign students on the central database.",
+       "system": "EMIS portal (emis.gov.eg)",
+       "class": "emis",
+       "as_of": "2025-05-17",
+       "date_precision": "day"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "kept",
+       "value": "enrolment",
+       "fact": "Schools' information unit officials enter an applicant's enrolment request electronically at registration where parents cannot, and school heads register admitted foreign students' data on the central database.",
+       "system": "EMIS portal (emis.gov.eg)",
+       "class": "emis",
+       "as_of": "2025-05-17",
+       "date_precision": "day"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "levels",
+       "value": "P",
+       "fact": "The ministry's online application covers kindergarten and grade 1 of public primary schools for 2025/2026.",
+       "system": "EMIS portal (emis.gov.eg)",
+       "class": "emis",
+       "as_of": "2025-05-17",
+       "date_precision": "day"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EMIS portal online application (emis.gov.eg)",
+       "country_label": "Egypt",
+       "class": "emis",
+       "platform": "emis.gov.eg",
+       "owner": "Ministry of Education and Technical Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

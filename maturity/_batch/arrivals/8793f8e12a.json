@@ -1,0 +1,207 @@
+{
+ "slug": "2024-04-23-mar-massar-registration-digital-identity-learner-register",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The education ministry's Massar online enrolment services for parents rely on digital identity as a trusted mechanism for electronic services.",
+       "as_of": "2024-04-23",
+       "date_precision": "day",
+       "system": "digital identity (Massar)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The education ministry offers parents digital services in Massar to submit initial school enrolment requests online.",
+       "as_of": "2024-04-23",
+       "date_precision": "day",
+       "system": "Massar",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Massar",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

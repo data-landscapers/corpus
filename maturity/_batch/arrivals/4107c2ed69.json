@@ -1,0 +1,59 @@
+{
+ "slug": "2026-09-02-techafricanews-kenya-lesotho-addressing-system",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Lesotho only benchmarks Kenya's addressing system; nothing on this register."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Lesotho only benchmarks Kenya's addressing system; nothing on this register."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Lesotho only benchmarks Kenya's addressing system; nothing on this register."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Lesotho only benchmarks Kenya's addressing system; nothing on this register."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Lesotho only benchmarks Kenya's addressing system; nothing on this register."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Lesotho only benchmarks Kenya's addressing system; nothing on this register."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug": "2026-11-02-moz-mozambique-advances-responsible-ai-in-electoral-administration-to-streng", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Training of trainers on AI in elections; no rule, authority or enforcement stated."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only a training and an intention to build a virtual assistant; no AI system in use or piloted."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No sectoral AI tool stated; training only."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country stated."}}},
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Data protection named only as a training topic; no law stated."}}}
+}}

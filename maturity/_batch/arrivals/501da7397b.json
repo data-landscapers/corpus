@@ -1,0 +1,147 @@
+{
+ "slug": "2025-12-19-zaf-question-to-the-minister-of-basic-education-nw7339",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The Department of Basic Education says LURITS consolidates learner information submitted by schools via provincial school administration systems and provincial data warehouses.",
+       "as_of": "2025-12-19",
+       "date_precision": "day",
+       "system": "LURITS",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LURITS",
+       "country_label": "Learner Unit Record Information and Tracking System",
+       "class": "emis",
+       "platform": "",
+       "owner": "Department of Basic Education",
+       "tiers": "national, fed by provincial systems and data warehouses"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Department of Basic Education says it records learner enrolment data through LURITS, with 13,596,869 learners recorded for 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "LURITS",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "learners",
+       "value": "individual",
+       "fact": "The Department says LURITS holds learner-level records for 13,596,869 learners in 2025, those without ID numbers captured under alternative unique identifiers.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "LURITS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LURITS",
+       "country_label": "Learner Unit Record Information and Tracking System",
+       "class": "emis",
+       "platform": "",
+       "owner": "Department of Basic Education",
+       "tiers": "national, fed by provincial systems and data warehouses"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "kept",
+       "value": "enrolment",
+       "fact": "The Department says LURITS records learner enrolment data submitted by schools via provincial systems for the 2025 academic year.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "LURITS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LURITS",
+       "country_label": "Learner Unit Record Information and Tracking System",
+       "class": "emis",
+       "platform": "",
+       "owner": "Department of Basic Education",
+       "tiers": "national, fed by provincial systems and data warehouses"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

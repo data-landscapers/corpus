@@ -1,57 +1,66 @@
 {
  "slug": "2026-10-27-lby-health-minister-chairs-consultative-meeting-on-2026-2030-health-digital-tr",
  "studies": {
-  "aiabuse": {
+  "coresystems": {
    "countries": {
     "LBY": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on AI harms rules or authority."
+     "note": "Not mentioned."
     }
    }
   },
-  "aigovernment": {
+  "customs": {
    "countries": {
     "LBY": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on AI in public administration."
+     "note": "Not mentioned."
     }
    }
   },
-  "aisectoral": {
+  "educationexchange": {
    "countries": {
     "LBY": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on AI tools in a sector system."
+     "note": "Not mentioned."
     }
    }
   },
-  "aisystems": {
+  "educationmis": {
    "countries": {
     "LBY": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on AI models, datasets or computing."
+     "note": "Not mentioned."
     }
    }
   },
-  "digitalstrategy": {
+  "health": {
    "countries": {
     "LBY": {
      "facts": [],
      "systems": [],
-     "note": "Sector health digitalisation plan 2026-2030 is a ministry plan in preparation, not the national strategy class."
+     "note": "A consultative meeting on a 2026-2030 plan only; no system in service or under way is stated."
     }
    }
   },
-  "healthmis": {
+  "justice": {
    "countries": {
     "LBY": {
      "facts": [],
      "systems": [],
-     "note": "Meeting reviewed national health information systems but states no system under way, in service, linked or with published reporting rate."
+     "note": "Not mentioned."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Not mentioned."
     }
    }
   }

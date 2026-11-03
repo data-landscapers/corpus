@@ -1,0 +1,11 @@
+{"slug": "2026-10-31-sdn-sudan-economic-performance-monitoring-committee-digital-payments", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [{"system": "Electronic Banking Services (EBS) BBAN transfers", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The central bank hosted a committee meeting only; no mandate, licensing or switch oversight is stated."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Remittances are discussed as a need, with no corridor or regional system stated."}}},
+"customs": {"countries": {"SDN": {"facts": [], "systems": [], "note": "A single window at ports is only listed as a topic discussed; no system is stated as built or in service."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey share of adults with an account; transaction counts only."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [{"system": "Electronic Banking Services (EBS) BBAN transfers", "country_label": "Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Bank-account transfers by BBAN are reported, with no mobile money or wallet service named."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Electronic revenue collection is a topic discussed and a need; no service is stated as in use."}}}
+}}

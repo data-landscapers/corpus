@@ -1,0 +1,11 @@
+{"slug": "2024-05-13-bfa-plus-de-200-000-eleves-enregistres-a-bousse-et-tenkodogo", "studies": {
+"authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Pupil file counts only, no national ID enrolment."}}},
+"idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "A pupil ID is a sectoral ID, not a number at birth."}}},
+"idmaintenance": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on the national ID system's operation."}}},
+"idregisters": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Pupil file is not keyed on a national ID number."}}},
+"idrobustness": {"countries": {"BFA": {"facts": [], "systems": [{"system": "FIUE-BF", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "Ministry of National Education", "tiers": "pupil identifier file"}], "note": "Sectoral pupil ID only; no national ID system stated."}}},
+"localgov": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"populationregister": {"countries": {"BFA": {"facts": [], "systems": [], "note": "A pupil file in two provinces is not a population register."}}}
+}}
