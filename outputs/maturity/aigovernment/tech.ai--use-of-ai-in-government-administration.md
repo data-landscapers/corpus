@@ -23,10 +23,10 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | 5 Leading | 0 |
 | 4 Operating | 11 |
 | 3 Established | 20 |
-| 2 Nascent | 7 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 14 |
+| No evidence | 13 |
 
 ## Countries
 
@@ -255,6 +255,12 @@ AI for public administration was under way in 2025; none in service is on record
 
 - ANSIE presented a virtual assistant for the public procurement platform at a UNDP-backed AI meeting; no service date or users are given ([source, 2025-06-30](https://djibouti.un.org/fr/300071-djibouti-s%E2%80%99engage-sur-la-voie-d%E2%80%99une-intelligence-artificielle-inclusive-et-tourn%C3%A9e-vers-le)).
 
+### Eswatini: 2 Nascent
+
+Eswatini's standards authority was building an AI platform for its own work in 2026; no government AI system in service is known.
+
+- ESWASA, the national standards body, and AICE Africa say ESWASA's EswasaOne AI platform, linking standards information, certification and inspection workflows, is being developed, with planned features still to come ([source, 2026-11-02](https://www.africa-newsroom.com/press/eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards-center-of-excellence?lang=en)).
+
 ### Libya: 2 Nascent
 
 Two Libyan government bodies were building AI systems in 2026; none is known to be in service.
@@ -317,12 +323,6 @@ A donor tendered AI work for the employment office, but no government body is sh
 Not established: Nothing found says whether government bodies use AI.
 
 ### Eritrea: No evidence
-
-Nothing found names AI in public administration or says there is none, so no stage is set.
-
-Not established: Nothing found says whether government bodies use AI.
-
-### Eswatini: No evidence
 
 Nothing found names AI in public administration or says there is none, so no stage is set.
 

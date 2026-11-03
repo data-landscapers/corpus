@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-swz-eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "ESWASA, the national standards body, and AICE Africa say ESWASA's EswasaOne AI platform, linking standards information, certification and inspection workflows, is being developed, with planned features still to come.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "EswasaOne",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EswasaOne",
+   "country_label": "Eswatini",
+   "class": "govai",
+   "platform": "AI platform with conversational interface and workflow automation",
+   "owner": "Eswatini Standards Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

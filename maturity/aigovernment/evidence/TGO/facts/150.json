@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-27-tgo-meps-le-cndp-tice-au-cur-de-la-modernisation-du-systeme-educatif",
+ "facts": [],
+ "systems": [
+  {
+   "system": "education chatbot",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "CNDP-TICE",
+   "tiers": ""
+  }
+ ],
+ "note": "The chatbot for school results is not said to be AI, and it is an education-sector tool."
+}
