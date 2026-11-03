@@ -61,7 +61,7 @@ DEALS = os.path.join(ROOT, "outputs", "non-state-finance", "all-nonstate.csv")
 # DEAL_NO_DEFAULT default to digital. The listed exceptions serve too many fields to guess.
 DEAL_TOPIC_SECTOR = {"dpi.pay": "finance", "data.statistics": "statistics",
                      "dpi.id": "home", "gov.discourse": "culture"}
-DEAL_NO_DEFAULT = {"dpi.registry", "dpi.mis", "data.satellite", "data.open", "capacity.research",
+DEAL_NO_DEFAULT = {"dpi.registry", "dpi.mis", "data.geospatial", "data.open", "capacity.research",
                    "digital.localgov", "digital.rural"}
 PUBLIC = {"Public Sector", "Multilateral", "PPP"}
 # Bill's rulings on single deals the rules misread, from lookups/finance-sector-overrides.csv: a

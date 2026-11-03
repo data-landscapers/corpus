@@ -100,5 +100,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,SLE-data.stat
 data.statistics--censuses-and-surveys,3,SLE-data.statistics-census-2026,,,,,,,2026-07-31,0,2021 mid-term census results published; regular survey programme and open access not on record,
 data.statistics--statistics-from-administrative-data,3,SLE-dpi.mis-emis,,,,,,,2026-07-31,0,Annual school census from EMIS; no other admin-based products,
 data.open--use-of-open-data,2,SLE-data.open-statsl-microdata-catalogue,,,,,,,2026-07-31,0,Public-use microdata released; licence not stated,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,Geospatial platform launched for hazard mapping; no agricultural use on record,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,Climate information project effective; no satellite data stream on record,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,Geospatial platform launched for hazard mapping; no agricultural use on record,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,Climate information project effective; no satellite data stream on record,

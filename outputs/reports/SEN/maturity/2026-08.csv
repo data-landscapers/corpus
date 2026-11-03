@@ -101,5 +101,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,SEN-data.stat
 data.statistics--censuses-and-surveys,,,,,,,,,2026-08-31,0,Only a peer exchange of an inclusive-data initiative; no census or survey programme in rows,
 data.statistics--statistics-from-administrative-data,2,SEN-data.statistics-anec-mandate,,,,,,,2026-08-31,0,Civil-status yearbook mandated and protocol signed; no product on record,
 data.open--use-of-open-data,2,SEN-data.open-anads|SEN-data.open-open-government-data-policy,,,,,,,2026-08-31,0,Catalogue access licensed or withheld; no open licence on record,
-data.satellite--agricultural-use-of-satellite-data,3,SEN-data.satellite-cse-bulletin|SEN-data.satellite-use-satellite-data-public,,,,,,,2026-08-31,0,Standing vegetation bulletin for pastoral zones; national multi-purpose use not shown,
-data.satellite--meteorological-use-of-satellite-data,3,SEN-data.satellite-anacim-satellite,,,,,,,2026-08-31,0,MTG imagery used for nowcasting; WIGOS or GBON implementation not on record,
+data.geospatial--agricultural-use-of-satellite-data,3,SEN-data.geospatial-cse-bulletin|SEN-data.geospatial-use-satellite-data-public,,,,,,,2026-08-31,0,Standing vegetation bulletin for pastoral zones; national multi-purpose use not shown,
+data.geospatial--meteorological-use-of-satellite-data,3,SEN-data.geospatial-anacim-satellite,,,,,,,2026-08-31,0,MTG imagery used for nowcasting; WIGOS or GBON implementation not on record,

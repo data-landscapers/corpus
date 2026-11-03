@@ -105,5 +105,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,BWA-data.stat
 data.statistics--censuses-and-surveys,3,BWA-data.statistics-multi-topic-household-survey,,,,,,,2026-08-31,0,survey rounds irregular with 2024/25 results preliminary only,
 data.statistics--statistics-from-administrative-data,2,BWA-data.statistics-africa-broadband-maps-training,,,,,,,2026-08-31,0,data-management training under way; no admin-data product on record,
 data.open--use-of-open-data,2,BWA-data.open-tourism-statistics-dashboard,,,,,,,2026-08-31,0,dashboard publishes indicators with no open licence or bulk download stated,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,BOTSAT-1 has no product or agricultural use on record,
-data.satellite--meteorological-use-of-satellite-data,2,BWA-data.satellite-meteorological-ground-station,,,,,,,2026-08-31,0,ground station operating at the met service; forecasting use not on record,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,BOTSAT-1 has no product or agricultural use on record,
+data.geospatial--meteorological-use-of-satellite-data,2,BWA-data.geospatial-meteorological-ground-station,,,,,,,2026-08-31,0,ground station operating at the met service; forecasting use not on record,

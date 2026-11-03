@@ -102,5 +102,5 @@ data.statistics--national-strategy-for-development-of-statistics,,,,,,,,,2026-10
 data.statistics--censuses-and-surveys,3,BFA-data.statistics-economic-units-enumerated,,,,,,,2026-10-31,0,business census definitive; population census and survey programme not mapped,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-10-31,0,only a geospatial locality system in validation is mapped; no use of administrative registers,
 data.open--use-of-open-data,,,,,,,,,2026-10-31,0,the national portal no longer publishes; no statement about other bodies,
-data.satellite--agricultural-use-of-satellite-data,2,BFA-data.satellite-agricultural-and-pastoral-monitoring,,,,,,,2026-10-31,0,satellite analyses by partner agencies only; no national service,
-data.satellite--meteorological-use-of-satellite-data,3,BFA-data.satellite-anam-satellite-reception,,,,,,,2026-10-31,0,satellite imagery used in forecasting; WIGOS or GBON implementation not on record,
+data.geospatial--agricultural-use-of-satellite-data,2,BFA-data.geospatial-agricultural-and-pastoral-monitoring,,,,,,,2026-10-31,0,satellite analyses by partner agencies only; no national service,
+data.geospatial--meteorological-use-of-satellite-data,3,BFA-data.geospatial-anam-satellite-reception,,,,,,,2026-10-31,0,satellite imagery used in forecasting; WIGOS or GBON implementation not on record,

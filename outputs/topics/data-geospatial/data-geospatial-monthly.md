@@ -2,9 +2,9 @@
 title: Geospatial data — News, October – November 2026
 compiled: 2026-11-03
 period: 2026-10-01 to 2026-11-03
-subject: data.satellite
+subject: data.geospatial
 places: COM; CIV; LSO; TGO; ZWE
-record: cfabe3d625db
+record: d254b067b636
 ---
 
 # News, Oct – Nov 2026

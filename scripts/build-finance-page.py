@@ -35,6 +35,7 @@ import os, re, sys, csv
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import taxonomy_lib                                                             # noqa: E402
+import vault_lib                                                                # noqa: E402
 import budget_source                                                            # noqa: E402
 from vault_lib import dewiki                                                    # noqa: E402
 from finance_lib import (split_front, fm_get, section, deal_table, raw_sources,  # noqa: E402
@@ -90,7 +91,7 @@ def primary_subject(rec):
     """The subject a record is filed under: the explicit `primary_subject:`
     override where set, else the first non-finance slug in `topics:`
     (reference.md -> Facets — the order is load-bearing and never sorted)."""
-    over = fm_get(rec["fm"], "primary_subject")
+    over = vault_lib.renamed_topic(fm_get(rec["fm"], "primary_subject"))
     if over and over in rec["topics"]:
         return over
     for t in rec["topics"]:
@@ -510,7 +511,7 @@ def scan_all():
         tm = re.search(r'topics:\s*\[([^\]]*)\]', fm)
         rec = dict(fn=fn, fm=fm, body=body, table=deal_table(body),
                    origin=fm_get(fm, "finance_origin"), published=fm_get(fm, "published"),
-                   topics=[x.strip() for x in tm.group(1).split(",")] if tm else [],
+                   topics=[vault_lib.renamed_topic(x.strip()) for x in tm.group(1).split(",")] if tm else [],
                    url=(fm_get(fm, "url") or "").split()[0] if (fm_get(fm, "url") or "").split() else "", title=fm_get(fm, "title"),
                    deal_id=fm_get(fm, "deal_id"), currency=fm_get(fm, "currency"))
         for pl in places:

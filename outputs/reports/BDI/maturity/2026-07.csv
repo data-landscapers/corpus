@@ -102,5 +102,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,BDI-data.stat
 data.statistics--censuses-and-surveys,3,BDI-data.statistics-census,,,,,,,2026-07-31,0,2024 census with preliminary results by decree,
 data.statistics--statistics-from-administrative-data,3,BDI-data.statistics-administrative,,,,,,,2026-07-31,0,Sectoral yearbooks from administrative records; no quality framework or sharing agreements,
 data.open--use-of-open-data,3,BDI-data.open-licence,,,,,,,2026-07-31,0,Open licence on the statistics institute's platform; no reuse on record,
-data.satellite--agricultural-use-of-satellite-data,2,BDI-data.satellite-agriculture,,,,,,,2026-07-31,0,Remote sensing used in census mapping; no crop-monitoring service,
-data.satellite--meteorological-use-of-satellite-data,3,BDI-data.satellite-meteorology,,,,,,,2026-07-31,0,Satellite layers published and impact-based forecasting launched; no WIGOS or GBON record,
+data.geospatial--agricultural-use-of-satellite-data,2,BDI-data.geospatial-agriculture,,,,,,,2026-07-31,0,Remote sensing used in census mapping; no crop-monitoring service,
+data.geospatial--meteorological-use-of-satellite-data,3,BDI-data.geospatial-meteorology,,,,,,,2026-07-31,0,Satellite layers published and impact-based forecasting launched; no WIGOS or GBON record,

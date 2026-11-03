@@ -370,7 +370,7 @@ What goes missing is the individual document. [The gazetted text of the NIMC Act
 The most consequential closure is not Nigerian. [Appendix 5 of the United States-Nigeria health memorandum of understanding, the Data Sharing Agreement, is withheld rather than merely unpublished: the State Department put a subset of the memoranda online in March 2026, then removed public access, and published neither the rest nor the related agreements](https://www.citizen.org/wp-content/uploads/2026.04.02-Complaint.pdf), leaving which Nigerian health systems the United States may reach, and on what terms, off the record.
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 Earth observation has two established uses in Nigerian administration. The space agency runs [the CropWatch cloud system for crop condition, acreage, yield and drought warnings, joined in 2021 and feeding a quarterly bulletin](https://unctad.org/news/harnessing-frontier-technology-food-security-nigeria), [issues customised bimonthly national bulletins to ministries and agencies](https://unctad.org/system/files/non-official-document/ecn162026_p02_tc_james_en.pdf) (April 2026), and hosts its West African centre of excellence, [launched in Abuja in July 2024](https://punchng.com/fg-unveils-satellite-based-crop-watch-system-to-boost-food-security/); and [satellite imagery, telecoms data and artificial intelligence were used to identify urban slum households and expand the national social register (June 2025)](https://www.biometricupdate.com/202506/nigeria-amplifies-efforts-to-id-prisoners-expand-social-register).
 

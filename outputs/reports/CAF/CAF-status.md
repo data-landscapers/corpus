@@ -340,7 +340,7 @@ The government reports on its own digital programme to no one: [it publishes no 
 Publication that does happen tends to be regional or documentary rather than national and machine-readable. The [unified public-services portal](https://www.ecofinagency.com/news-digital/1212-51337-central-african-republic-launches-unified-digital-portal-for-all-public-services) carries ministries' official documents and regulatory texts (2025); companies are searchable [by name or RCCM number through OHADA's regional commercial register](https://rccm.ohada.org/prsCompany/index?lang=en) (2023); payment-system reporting comes from [the regional central bank](https://www.beac.int/systemes-paiement/rapports/), whose instant-payment scheme GIMACPAY [shares its rules only with members and participants](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf) (2023). A public statistics portal is planned as part of [a platform launched inside the economy and planning ministry in February 2026](https://www.techarena.co.ke/2026/03/03/car-launches-dunia-digital-economy-ministry/).
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 Earth observation had no established role in public administration in the Central African Republic, and no national space or geospatial data policy had been adopted, as at August 2026.
 

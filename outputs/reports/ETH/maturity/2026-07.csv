@@ -98,5 +98,5 @@ data.statistics--national-strategy-for-development-of-statistics,1,ETH-data.stat
 data.statistics--censuses-and-surveys,3,ETH-data.statistics-dhs|ETH-data.statistics-census,,,,,,,2026-07-31,0,DHS 2024-25 published; last census 2007 and none in the current round,
 data.statistics--statistics-from-administrative-data,2,ETH-data.statistics-admin-data,,,,,,,2026-07-31,0,Code of practice and a migration data-sharing protocol; no admin-based product on record,
 data.open--use-of-open-data,2,ETH-data.open-portal,,,,,,,2026-07-31,0,Statistics service data bank and microdata; no open licence stated,
-data.satellite--agricultural-use-of-satellite-data,3,ETH-data.satellite-leap,,,,,,,2026-07-31,0,LEAP early-warning tool in service; national multi-purpose use not on record,
-data.satellite--meteorological-use-of-satellite-data,3,ETH-data.satellite-emi-mazu,,,,,,,2026-07-31,0,Satellite products used by the institute; MAZU early warning still being operationalised,
+data.geospatial--agricultural-use-of-satellite-data,3,ETH-data.geospatial-leap,,,,,,,2026-07-31,0,LEAP early-warning tool in service; national multi-purpose use not on record,
+data.geospatial--meteorological-use-of-satellite-data,3,ETH-data.geospatial-emi-mazu,,,,,,,2026-07-31,0,Satellite products used by the institute; MAZU early warning still being operationalised,

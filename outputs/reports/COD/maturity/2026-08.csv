@@ -100,5 +100,5 @@ data.statistics--national-strategy-for-development-of-statistics,1,COD-data.stat
 data.statistics--censuses-and-surveys,2,COD-data.statistics-second-general-population-housing,,,,,,,2026-08-31,0,census cartography under way; no enumeration,
 data.statistics--statistics-from-administrative-data,3,COD-data.statistics-civil-service-statistics,,,,,,,2026-08-31,0,one product from personnel records; administrative systems assessed weak,
 data.open--use-of-open-data,2,COD-data.open-open-data-policy-or,,,,,,,2026-08-31,0,portals publish with no open licence stated,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,RDC-SAT only contracted; MapBiomas mapping is not a state agricultural service,
-data.satellite--meteorological-use-of-satellite-data,2,COD-data.satellite-mettelsat,,,,,,,2026-08-31,0,forecaster training on satellite products; no operational use on record,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,RDC-SAT only contracted; MapBiomas mapping is not a state agricultural service,
+data.geospatial--meteorological-use-of-satellite-data,2,COD-data.geospatial-mettelsat,,,,,,,2026-08-31,0,forecaster training on satellite products; no operational use on record,

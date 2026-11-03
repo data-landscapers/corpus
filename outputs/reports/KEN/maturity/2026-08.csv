@@ -105,5 +105,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,KEN-data.stat
 data.statistics--censuses-and-surveys,3,KEN-data.statistics-kmdhs|KEN-data.statistics-economic-survey,,,,,,,2026-08-31,0,Survey programme running; current-round census results not on these rows,
 data.statistics--statistics-from-administrative-data,3,KEN-data.statistics-knbs-digital-indicator-release,,,,,,,2026-08-31,0,ICT chapter compiled from regulator returns; no systematic programme or quality framework,
 data.open--use-of-open-data,,,,,,,,,2026-08-31,0,library bill and a planned marketplace only; no published open data on record,
-data.satellite--agricultural-use-of-satellite-data,2,KEN-data.satellite-crome|KEN-data.satellite-drsrs-ai-partnership,,,,,,,2026-08-31,0,Initiative launched and partnership signed; satellite service outputs not on record,
-data.satellite--meteorological-use-of-satellite-data,3,KEN-data.satellite-sewa,,,,,,,2026-08-31,0,Space-based early warning project running; WIGOS or GBON implementation not on record,
+data.geospatial--agricultural-use-of-satellite-data,2,KEN-data.geospatial-crome|KEN-data.geospatial-drsrs-ai-partnership,,,,,,,2026-08-31,0,Initiative launched and partnership signed; satellite service outputs not on record,
+data.geospatial--meteorological-use-of-satellite-data,3,KEN-data.geospatial-sewa,,,,,,,2026-08-31,0,Space-based early warning project running; WIGOS or GBON implementation not on record,

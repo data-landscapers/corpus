@@ -97,5 +97,5 @@ include.access--citizen-participation-in-policy,2,GAB-gov.discourse-pncd-consult
 data.statistics--national-strategy-for-development-of-statistics,,,,,,,,,2026-08-31,0,Closed World Bank statistics project only; no NSDS or cited absence on record,
 data.statistics--censuses-and-surveys,3,GAB-data.statistics-recensement-general-de-la-population,,,,,,,2026-08-31,0,Census enumerated; figures under Constitutional Court verification and not certified,2026-08-21-gabonreview-rgpl-cour-constitutionnelle-verification-chiffres
 data.open--use-of-open-data,,,,,,,,,2026-08-31,0,Only an external fiscal transparency assessment held; no publication for reuse on record,
-data.satellite--agricultural-use-of-satellite-data,3,GAB-data.satellite-ageos,,,,,,,2026-08-31,0,AGEOS land-use monitoring of forest cover under mining; no crop monitoring on record,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Decree mandates a satellite meteorology service; no data stream or product on record,
+data.geospatial--agricultural-use-of-satellite-data,3,GAB-data.geospatial-ageos,,,,,,,2026-08-31,0,AGEOS land-use monitoring of forest cover under mining; no crop monitoring on record,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Decree mandates a satellite meteorology service; no data stream or product on record,

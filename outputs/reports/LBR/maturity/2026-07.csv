@@ -92,5 +92,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,LBR-data.stat
 data.statistics--censuses-and-surveys,3,LBR-data.statistics-census-and-surveys,,,,,,,2026-07-31,0,2022 census final results published; annual survey programme only just begun,
 data.statistics--statistics-from-administrative-data,3,LBR-data.statistics-administrative-statistics,,,,,,,2026-07-31,0,socioeconomic bulletin compiled from administrative records,
 data.open--use-of-open-data,2,LBR-data.open-open-data-policy|LBR-data.statistics-census-and-surveys,,,,,,,2026-07-31,0,microdata published under access conditions; no open licence,
-data.satellite--agricultural-use-of-satellite-data,2,LBR-data.satellite-earth-observation-or-geospatial-data-pro,,,,,,,2026-07-31,0,satellite imagery used for a one-off forest reference level; no crop-monitoring service,
-data.satellite--meteorological-use-of-satellite-data,2,LBR-data.satellite-meteosat,,,,,,,2026-07-31,0,MTG receiving station installed; forecasting use not on record,
+data.geospatial--agricultural-use-of-satellite-data,2,LBR-data.geospatial-earth-observation-or-geospatial-data-pro,,,,,,,2026-07-31,0,satellite imagery used for a one-off forest reference level; no crop-monitoring service,
+data.geospatial--meteorological-use-of-satellite-data,2,LBR-data.geospatial-meteosat,,,,,,,2026-07-31,0,MTG receiving station installed; forecasting use not on record,

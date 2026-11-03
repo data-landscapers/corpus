@@ -100,5 +100,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,CAF-data.stat
 data.statistics--censuses-and-surveys,3,CAF-data.statistics-harmonised-household-living-conditions,,,,,,,2026-08-31,0,RGPH-4 in data cleaning; no definitive census results published,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-08-31,0,unplaced: GDP rebasing draws on surveys; no product compiled from administrative registers on record,
 data.open--use-of-open-data,3,CAF-data.open-open-government-data-portal,,,,,,,2026-08-31,0,Statistics office data under an open licence; one body and no reuse on record,
-data.satellite--agricultural-use-of-satellite-data,2,CAF-data.satellite-earth-observation-or-satellite,,,,,,,2026-08-31,0,One-off forecast and training; no national service,
-data.satellite--meteorological-use-of-satellite-data,2,CAF-data.satellite-earth-observation-or-satellite,,,,,,,2026-08-31,0,Satellite reception at the airport met centre; no forecasting use on record,
+data.geospatial--agricultural-use-of-satellite-data,2,CAF-data.geospatial-earth-observation-or-satellite,,,,,,,2026-08-31,0,One-off forecast and training; no national service,
+data.geospatial--meteorological-use-of-satellite-data,2,CAF-data.geospatial-earth-observation-or-satellite,,,,,,,2026-08-31,0,Satellite reception at the airport met centre; no forecasting use on record,

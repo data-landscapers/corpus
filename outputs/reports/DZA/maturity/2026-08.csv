@@ -104,5 +104,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,DZA-data.stat
 data.statistics--censuses-and-surveys,,,,,,,,,2026-08-31,0,no census or survey programme among the rows,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-08-31,0,rows are operational systems; no statistical product compiled from them on record,
 data.open--use-of-open-data,2,DZA-data.open-linked-open-data-portal,,,,,,,2026-08-31,0,"research centre portal; no licence, dataset count or reuse",
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,Earth-observation satellites in orbit; no agricultural use on record,
-data.satellite--meteorological-use-of-satellite-data,2,DZA-data.satellite-satellite-precipitation-estimation,,,,,,,2026-08-31,0,met office research evaluates satellite estimates; forecasting use not on record,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,Earth-observation satellites in orbit; no agricultural use on record,
+data.geospatial--meteorological-use-of-satellite-data,2,DZA-data.geospatial-satellite-precipitation-estimation,,,,,,,2026-08-31,0,met office research evaluates satellite estimates; forecasting use not on record,

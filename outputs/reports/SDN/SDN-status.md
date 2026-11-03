@@ -323,7 +323,7 @@ Sudan's [Accountability & Transparency score fell 7.5 points over the decade to 
 Individual documents do reach the public without gatekeeping. The [business operating rules for the real-time gross settlement system](https://cbos.gov.sd/sites/default/files/srag_business_operating_rules.pdf) are downloadable from the central bank without registration or a request process, and [SudaPass publishes a privacy policy](https://sudapass.gov.sd/privacy?lang=en) setting out the categories of personal and biometric data it collects and the rights attached to them. Disclosure about the government's own platform rollout has come through [recurring ministry press conferences since late 2025](https://allafrica.com/stories/202602020893.html), at the ministry's own timing and in its own terms.
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 No national space or geospatial agency, ground receiving station or geospatial data policy was on the record for Sudan as at August 2026.
 

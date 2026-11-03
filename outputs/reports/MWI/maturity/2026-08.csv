@@ -103,5 +103,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,MWI-data.stat
 data.statistics--censuses-and-surveys,2,MWI-data.statistics-fourth-national-ict-survey,,,,,,,2026-08-31,0,Fourth ICT survey in the field; no census or regular survey calendar on record,
 data.statistics--statistics-from-administrative-data,3,MWI-data.statistics-nps-report-series,,,,,,,2026-08-31,0,Payments report series from administrative data; held through press accounts only,
 data.open--use-of-open-data,,,,,,,,,2026-08-31,0,only row is a refused request for the voter register; no publication for reuse in these rows,
-data.satellite--agricultural-use-of-satellite-data,3,MWI-data.satellite-crop-yield-forecasting,,,,,,,2026-08-31,0,yield forecasting in ministry use; incorporation into the national survey only recommended,
-data.satellite--meteorological-use-of-satellite-data,2,MWI-data.satellite-earth-observation-programme,,,,,,,2026-08-31,0,reception system installed and staff trained; no forecasting use on record,
+data.geospatial--agricultural-use-of-satellite-data,3,MWI-data.geospatial-crop-yield-forecasting,,,,,,,2026-08-31,0,yield forecasting in ministry use; incorporation into the national survey only recommended,
+data.geospatial--meteorological-use-of-satellite-data,2,MWI-data.geospatial-earth-observation-programme,,,,,,,2026-08-31,0,reception system installed and staff trained; no forecasting use on record,

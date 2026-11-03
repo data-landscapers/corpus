@@ -368,7 +368,7 @@ In 2023 [Disclosure of Public Records scored 35.2 of 100](https://assets.iiag.on
 In 2024 the Central Bank of Lesotho [reported payment system performance annually](https://centralbank.org.ls/wp-content/uploads/2023-min-1.pdf) through its statutory annual report and financial stability report, and kept quarterly monitoring internal. It puts [the rules governing its payment systems](https://centralbank.org.ls/payment-systems-2/) online as free downloads, with no registration or request. [Audited statements from licensed electronic payment issuers](https://centralbank.org.ls/wp-content/uploads/Payment-Systems-Issuers-of-Electronic-Payments-Insturments-Regulations-2017.pdf) go to the regulator and are not published. The [Bureau of Statistics posts its reports as free downloads, among them the 2024 labour force survey indicators, the 2023 national accounts and the consumer price index to March 2025](https://www.bos.gov.ls/publications.htm) (2025).
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 In the 2025/26 season a [satellite weather-index insurance pilot covered more than US$1.2 million of maize and beans in Mafeteng, Mohale's Hoek and Quthing](https://www.thereporter.co.ls/2026/10/16/beyond-the-harvest-can-agricultural-insurance-protect-lesothos-smallholders/). The agriculture ministry ran it with the World Food Programme. The African Risk Capacity supplied satellite-based monitoring and the calculation of payouts. The insurer LNIG Hollard [plans to sell the cover to smallholders in all ten districts, with enrolment from 1 November 2026](https://www.thereporter.co.ls/2026/10/16/beyond-the-harvest-can-agricultural-insurance-protect-lesothos-smallholders/).
 

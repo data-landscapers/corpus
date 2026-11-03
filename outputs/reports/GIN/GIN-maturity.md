@@ -166,8 +166,8 @@ No stage moved in August.
 | [Censuses and surveys](../../maturity/indicators/data.statistics--censuses-and-surveys.md)<br>*instrument* | 3 Established | 3 Established | **RGPH-4 population census** (Implemented) — [Mediaguinee, 25 Apr 2026](https://mediaguinee.com/2026/04/fichier-electoral-la-dge-annonce-pres-de-7-millions-delecteurs-pour-les-elections-couplees-du-31-mai/) | RGPH-4 population total in use; definitive disaggregated results and public access not on record |
 | [Statistics from administrative data](../../maturity/indicators/data.statistics--statistics-from-administrative-data.md)<br>*system* | — | 3 Established | **Public Finance Statistics Committee** (Implemented) — [FinancesAO, 8 Aug 2026](https://financesao.com/guinee-vers-la-modernisation-du-systeme-de-statistiques-des-finances-publiques/) | Regular fiscal-operations statement on the finance ministry's own account; one product only |
 | [Use of open data](../../maturity/indicators/data.open--use-of-open-data.md)<br>*system* | unplaced | unplaced |  | Reuse right in law but no portal or published datasets in the rows |
-| [Agricultural use of satellite data](../../maturity/indicators/data.satellite--agricultural-use-of-satellite-data.md)<br>*system* | — | unplaced |  | Private sensor and weather-alert scheme; no satellite data use on record |
-| [Meteorological use of satellite data](../../maturity/indicators/data.satellite--meteorological-use-of-satellite-data.md)<br>*system* | unplaced | unplaced |  | Warning bulletins and WIS-connected stations on record; satellite data use not stated |
+| [Agricultural use of satellite data](../../maturity/indicators/data.geospatial--agricultural-use-of-satellite-data.md)<br>*system* | — | unplaced |  | Private sensor and weather-alert scheme; no satellite data use on record |
+| [Meteorological use of satellite data](../../maturity/indicators/data.geospatial--meteorological-use-of-satellite-data.md)<br>*system* | unplaced | unplaced |  | Warning bulletins and WIS-connected stations on record; satellite data use not stated |
 
 ## Geopolitics
 

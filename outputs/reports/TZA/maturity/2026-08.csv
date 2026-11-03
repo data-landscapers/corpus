@@ -103,5 +103,5 @@ data.statistics--national-strategy-for-development-of-statistics,4,TZA-data.stat
 data.statistics--censuses-and-surveys,3,TZA-data.statistics-integrated-labour-force-survey|TZA-data.statistics-agricultural-sample-survey,,,,,,,2026-08-31,0,survey rounds on record; no definitive census results on these rows,
 data.statistics--statistics-from-administrative-data,3,TZA-data.statistics-business-register,,,,,,,2026-08-31,0,business register built from tax records; one product on record,
 data.open--use-of-open-data,,,,,,,,,2026-08-31,0,only an external fiscal transparency assessment is mapped here; the portal sits under the policy indicator,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,agriculture systems and a closed livestock project; no satellite data use on record,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,only row is an educational cubesat budget line; nothing on the meteorological service,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,agriculture systems and a closed livestock project; no satellite data use on record,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,only row is an educational cubesat budget line; nothing on the meteorological service,

@@ -99,5 +99,5 @@ data.statistics--national-strategy-for-development-of-statistics,1,LBY-data.stat
 data.statistics--censuses-and-surveys,3,LBY-data.statistics-census-and-surveys,,,,,,,2026-08-31,0,MICS 2024-25 published; census unscheduled,
 data.statistics--statistics-from-administrative-data,3,LBY-data.statistics-vital-statistics-report|LBY-data.statistics-administrative,,,,,,,2026-08-31,0,vital statistics from civil registration and a procurement analysis; no systematic programme,
 data.open--use-of-open-data,2,LBY-data.open-opendata,,,,,,,2026-08-31,0,portal publishing indicators with no open licence or bulk download stated,
-data.satellite--agricultural-use-of-satellite-data,3,LBY-data.satellite-agriculture,,,,,,,2026-08-31,0,MerWat geospatial platform in service for water and agriculture; no national scheduled outputs,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,early-warning pilot named; no satellite data stream or forecasting use on record,
+data.geospatial--agricultural-use-of-satellite-data,3,LBY-data.geospatial-agriculture,,,,,,,2026-08-31,0,MerWat geospatial platform in service for water and agriculture; no national scheduled outputs,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,early-warning pilot named; no satellite data stream or forecasting use on record,

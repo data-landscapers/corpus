@@ -102,5 +102,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,SDN-data.stat
 data.statistics--censuses-and-surveys,3,SDN-data.statistics-household-surveys,,,,,,,2026-08-31,0,welfare survey rounds fielded; no census since 2008,
 data.statistics--statistics-from-administrative-data,2,SDN-dpi.mis-dhis2,,,,,,,2026-08-31,0,routine health reporting in service; no statistical product from registers on record,
 data.open--use-of-open-data,,,,,,,,,2026-08-31,0,land data closed and ODIN score 24; no cited absence of all publication,
-data.satellite--agricultural-use-of-satellite-data,2,SDN-data.satellite-agricultural-monitoring,,,,,,,2026-08-31,0,partner assessments using satellite data; no national service on record,
-data.satellite--meteorological-use-of-satellite-data,3,SDN-data.satellite-none,,,,,,,2026-08-31,0,met authority forecasts from satellite rainfall estimates; no early-warning or WIGOS record,
+data.geospatial--agricultural-use-of-satellite-data,2,SDN-data.geospatial-agricultural-monitoring,,,,,,,2026-08-31,0,partner assessments using satellite data; no national service on record,
+data.geospatial--meteorological-use-of-satellite-data,3,SDN-data.geospatial-none,,,,,,,2026-08-31,0,met authority forecasts from satellite rainfall estimates; no early-warning or WIGOS record,

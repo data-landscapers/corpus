@@ -371,7 +371,7 @@ The sharpest penalty in the statute falls on those who reuse public data, not on
 [Disclosure of Public Records, up 23.0 points over the decade to 41.9 out of 100 and 16th of 54 (2023), is the third most improved indicator in the country's profile, and Accessibility of Public Records stands at 48.8, 10th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf). An [Open Government Partnership commitment covers publishing ministry data in open formats](https://www.opengovpartnership.org/fr/members/burkina-faso/commitments/BF0011/), and a [government open data portal carrying a comprehensive data catalogue, updated weekly or daily, was in place in 2025](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 The national statistics institute put [a geospatial analysis of its Système d'Information des Localités to validation in September 2025](https://www.insd.bf/fr/node/2229). Burkina Faso had adopted no national space or Earth observation policy as at August 2026. Use runs through services rather than policy: [the GARBAL call service, built on satellite data and the meteorological agency's forecasts, had more than 260,000 users and about two million calls by mid-2024](https://www.snv.org/update/using-satellite-data-to-transform-agri-food-in-burkina-faso).
 

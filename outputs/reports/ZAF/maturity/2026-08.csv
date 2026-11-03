@@ -104,5 +104,5 @@ data.statistics--national-strategy-for-development-of-statistics,,,,,,,,,2026-08
 data.statistics--censuses-and-surveys,3,ZAF-data.statistics-census-2022,,,,,,,2026-08-31,0,Census 2022 release published; disaggregated census access not on record,
 data.statistics--statistics-from-administrative-data,3,ZAF-data.statistics-insolvencies-series|ZAF-data.statistics-administrative-index-methods,,,,,,,2026-08-31,0,"Insolvency, property price and trade indices from administrative records; no quality framework or sharing agreements",
 data.open--use-of-open-data,,,,,,,,,2026-08-31,0,Broadband map not public and open-science policy only; no open data release on record,
-data.satellite--agricultural-use-of-satellite-data,3,ZAF-data.satellite-geomaize,,,,,,,2026-08-31,0,GeoMaize in use in two provinces; no national multi-purpose service on record,
-data.satellite--meteorological-use-of-satellite-data,2,ZAF-data.satellite-amsaf,,,,,,,2026-08-31,0,Continental nowcasting facility inaugurated with South African participation; national forecasting use not named,
+data.geospatial--agricultural-use-of-satellite-data,3,ZAF-data.geospatial-geomaize,,,,,,,2026-08-31,0,GeoMaize in use in two provinces; no national multi-purpose service on record,
+data.geospatial--meteorological-use-of-satellite-data,2,ZAF-data.geospatial-amsaf,,,,,,,2026-08-31,0,Continental nowcasting facility inaugurated with South African participation; national forecasting use not named,

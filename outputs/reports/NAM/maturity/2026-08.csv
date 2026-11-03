@@ -104,5 +104,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,NAM-data.stat
 data.statistics--censuses-and-surveys,3,NAM-data.statistics-2023-population-housing-census,,,,,,,2026-08-31,0,2023 digital census enumerated; public microdata and a regular survey programme not on record,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-08-31,0,PPI system change is survey-based; no product compiled from administrative registers on record,
 data.open--use-of-open-data,2,NAM-data.statistics-microdata-catalogue-data-portals,,,,,,,2026-08-31,0,Statistics agency portals and catalogue state access terms; no open licence or reuse on record,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,Ground station receives remote-sensing data; no agricultural use and no cited absence here,
-data.satellite--meteorological-use-of-satellite-data,3,NAM-data.satellite-satellite-precipitation-product,,,,,,,2026-08-31,0,Satellite precipitation used in hydrological bulletins; no WIGOS or early-warning record,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,Ground station receives remote-sensing data; no agricultural use and no cited absence here,
+data.geospatial--meteorological-use-of-satellite-data,3,NAM-data.geospatial-satellite-precipitation-product,,,,,,,2026-08-31,0,Satellite precipitation used in hydrological bulletins; no WIGOS or early-warning record,

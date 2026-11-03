@@ -94,5 +94,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,SOM-data.stat
 data.statistics--censuses-and-surveys,3,SOM-data.statistics-mics7,,,,,,,2026-07-31,0,MICS 7 launched as an irregular survey round; census under way with no results,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-07-31,0,only a World Bank economic update mapped; no statistical product from administrative registers on record,
 data.open--use-of-open-data,3,SOM-data.open-open-government-data,,,,,,,2026-07-31,0,CC-BY machine-readable data on the portal; no reuse on record,
-data.satellite--agricultural-use-of-satellite-data,2,SOM-data.satellite-drought-index,,,,,,,2026-07-31,0,satellite drought index triggers a project-bound anticipatory scheme; no national service on record,
-data.satellite--meteorological-use-of-satellite-data,2,SOM-data.satellite-meteorological-agency,,,,,,,2026-07-31,0,satellite products fill observation gaps; agency still being established and forecasting use not documented,
+data.geospatial--agricultural-use-of-satellite-data,2,SOM-data.geospatial-drought-index,,,,,,,2026-07-31,0,satellite drought index triggers a project-bound anticipatory scheme; no national service on record,
+data.geospatial--meteorological-use-of-satellite-data,2,SOM-data.geospatial-meteorological-agency,,,,,,,2026-07-31,0,satellite products fill observation gaps; agency still being established and forecasting use not documented,

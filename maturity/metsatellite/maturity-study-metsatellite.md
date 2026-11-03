@@ -8,17 +8,17 @@ status: first pass run 2026-10-16; staged, written and on the soft-launch map; w
 
 # Maturity study: metsatellite
 
-*(Commissioned by Bill on 2026-10-16 as `data.satellite--meteorological-use-of-satellite-data`, a first pass under `maturity/documentation/first-pass-batch.md`, in one batch with agrisatellite, metsatellite, digitalsovereignty, healthmis, educationmis, egovservices and ruralelectrification: the chapter the last seven indicators.)*
+*(Commissioned by Bill on 2026-10-16 as `data.geospatial--meteorological-use-of-satellite-data`, a first pass under `maturity/documentation/first-pass-batch.md`, in one batch with agrisatellite, metsatellite, digitalsovereignty, healthmis, educationmis, egovservices and ruralelectrification: the chapter the last seven indicators.)*
 
 ## 1. What is assessed
 
 **Satellite data in the national weather service**: the national meteorological service's reception of satellite data and its use in forecasts and warnings. What brings satellite data into national weather forecasting counts, whatever it is called.
 
-The study redraws `data.satellite--meteorological-use-of-satellite-data`, which as at 2026-08-31 puts four countries at stage 3, three at 2 and 47 unplaced. It touches no other row.
+The study redraws `data.geospatial--meteorological-use-of-satellite-data`, which as at 2026-08-31 puts four countries at stage 3, three at 2 and 47 unplaced. It touches no other row.
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Satellite data in weather services | Meteorological use of satellite data: satellite data in weather services | `data.satellite--meteorological-use-of-satellite-data` |
+| Satellite data in weather services | Meteorological use of satellite data: satellite data in weather services | `data.geospatial--meteorological-use-of-satellite-data` |
 
 Anything else the evidence names is `other`, noted and never staged: a ground weather station or radar with no satellite data, a farming service using satellite maps, a satellite launch or a space agency, a mobile operator's weather app, a regional centre's product with no national use on record.
 

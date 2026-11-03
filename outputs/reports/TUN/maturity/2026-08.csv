@@ -103,5 +103,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,TUN-data.stat
 data.statistics--censuses-and-surveys,,,,,,,,,2026-08-31,0,only a regulator's first internet survey here; the 2024 census sits on other indicators' rows,
 data.statistics--statistics-from-administrative-data,3,TUN-data.statistics-business-register-statistics|TUN-data.statistics-census-administrative-linkage,,,,,,,2026-08-31,0,two products from registers; no data-sharing instrument or quality framework,
 data.open--use-of-open-data,2,TUN-data.open-iaa,,,,,,,2026-08-31,0,sector portal free after registration; no open licence stated,
-data.satellite--agricultural-use-of-satellite-data,2,TUN-data.satellite-wapor-water-productivity|TUN-data.satellite-swamed-irrigation-monitoring,,,,,,,2026-08-31,0,donor-led pilots only; no national service on record,
-data.satellite--meteorological-use-of-satellite-data,3,TUN-data.satellite-satellite,,,,,,,2026-08-31,0,Meteosat data in forecasting; no WIGOS or early-warning programme on record,
+data.geospatial--agricultural-use-of-satellite-data,2,TUN-data.geospatial-wapor-water-productivity|TUN-data.geospatial-swamed-irrigation-monitoring,,,,,,,2026-08-31,0,donor-led pilots only; no national service on record,
+data.geospatial--meteorological-use-of-satellite-data,3,TUN-data.geospatial-satellite,,,,,,,2026-08-31,0,Meteosat data in forecasting; no WIGOS or early-warning programme on record,

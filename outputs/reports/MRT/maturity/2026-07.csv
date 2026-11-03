@@ -101,5 +101,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,MRT-data.stat
 data.statistics--censuses-and-surveys,3,MRT-data.statistics-census5,,,,,,,2026-07-31,0,definitive results presented regionally; no public dataset or regular survey programme on record,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-07-31,0,youth index built on secondary indicators; administrative register sources not stated,
 data.open--use-of-open-data,2,MRT-data.open-portal,,,,,,,2026-07-31,0,24 downloadable datasets from 4 providers; no open licence stated,
-data.satellite--agricultural-use-of-satellite-data,2,MRT-data.satellite-biomass-assessment,,,,,,,2026-07-31,0,annual biomass assessment by a humanitarian organisation; no national service on record,
-data.satellite--meteorological-use-of-satellite-data,2,MRT-data.satellite-meteorological-observation-capacity,,,,,,,2026-07-31,0,reception infrastructure installed 2025; no forecasting use on record,
+data.geospatial--agricultural-use-of-satellite-data,2,MRT-data.geospatial-biomass-assessment,,,,,,,2026-07-31,0,annual biomass assessment by a humanitarian organisation; no national service on record,
+data.geospatial--meteorological-use-of-satellite-data,2,MRT-data.geospatial-meteorological-observation-capacity,,,,,,,2026-07-31,0,reception infrastructure installed 2025; no forecasting use on record,

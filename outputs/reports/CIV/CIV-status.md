@@ -380,7 +380,7 @@ Across the 21 categories that carry a score the average is 6.0 out of 10 (2024),
 Openness about the state's own systems is another matter. What is known about the interoperability platform at the centre of the government's data-sharing plans [comes through ministerial and press announcements rather than routine reporting, with no public dashboard or transparency report on its governance or its data-sharing agreements](https://cio-mag.com/la-cote-divoire-lance-uxp-une-plateforme-dinteroperabilite-pour-decloisonner-ladministration-publique-a-lhorizon-2027/) (2025), and the central bank's [report on the union's payment infrastructures for 2022-2023 appeared in April 2025](https://www.bceao.int/sites/default/files/2025-06/Rapport_2022-2023_sur_les_IMF-Moyens-Services_de_Paiement-VF_compressed.pdf).
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 The nearest thing to a public geospatial platform is metropolitan rather than national: a project to develop the [Geoportail du Grand Abidjan, an urban-planning data platform to be built with Japanese cooperation over 2025-2027, was launched in June 2026 to promote a smart-city approach](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance). In agriculture, a [Huawei platform to map agricultural plots, set against traceability demands in cocoa and cashew under European environmental rules, received preliminary ministerial approval in May 2026](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-eyes-huawei-partnership-to-digitize-agriculture-sector).
 

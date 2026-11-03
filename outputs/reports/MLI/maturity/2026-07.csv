@@ -93,5 +93,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,MLI-data.stat
 data.statistics--censuses-and-surveys,3,MLI-data.statistics-instatmicrodata,,,,,,,2026-07-31,0,Household survey reports for 2025 held; fifth census funded with no enumeration or results on file,
 data.statistics--statistics-from-administrative-data,2,MLI-dpi.mis-education-management-information-system,,,,,,,2026-07-31,0,UN support to produce school health statistics; no administrative-data product on record,
 data.open--use-of-open-data,3,MLI-data.open-portal,,,,,,,2026-07-31,0,Statistics institute publishes an open data licence; no reuse or dataset count on record,
-data.satellite--agricultural-use-of-satellite-data,2,MLI-data.satellite-agricultural-monitoring-tools,,,,,,,2026-07-31,0,Satellite rice-monitoring tool being institutionalised; no service output on record,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,Flood warning platform launched; no satellite data stream or its use stated,
+data.geospatial--agricultural-use-of-satellite-data,2,MLI-data.geospatial-agricultural-monitoring-tools,,,,,,,2026-07-31,0,Satellite rice-monitoring tool being institutionalised; no service output on record,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,Flood warning platform launched; no satellite data stream or its use stated,

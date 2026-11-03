@@ -102,5 +102,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,CIV-data.stat
 data.statistics--censuses-and-surveys,3,CIV-data.statistics-mics-2026|CIV-data.statistics-general-census-of-enterprises,,,,,,,2026-08-31,0,No definitive census results for the current round on record,
 data.statistics--statistics-from-administrative-data,3,CIV-dpi.mis-simt-labour-market-information-system,,,,,,,2026-08-31,0,Labour indicator platform publishing 299 tables; source mix not stated,
 data.open--use-of-open-data,2,CIV-data.open-open-data-initiative,,,,,,,2026-08-31,0,National portal since 2014; no open licence or reuse on record,
-data.satellite--agricultural-use-of-satellite-data,2,CIV-data.satellite-national-land-cover-map,,,,,,,2026-08-31,0,One-off land cover product; the meteorological convention describes no operational service,
-data.satellite--meteorological-use-of-satellite-data,3,CIV-tech.ai-sodexam-china-meteorological-memorandum,,,,,,,2026-08-31,0,Feng Yun data in forecasting tools since 2023; no WIGOS or GBON or early-warning programme on record,
+data.geospatial--agricultural-use-of-satellite-data,2,CIV-data.geospatial-national-land-cover-map,,,,,,,2026-08-31,0,One-off land cover product; the meteorological convention describes no operational service,
+data.geospatial--meteorological-use-of-satellite-data,3,CIV-tech.ai-sodexam-china-meteorological-memorandum,,,,,,,2026-08-31,0,Feng Yun data in forecasting tools since 2023; no WIGOS or GBON or early-warning programme on record,

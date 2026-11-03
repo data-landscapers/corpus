@@ -96,4 +96,4 @@ data.statistics--national-strategy-for-development-of-statistics,2,CIV-data.stat
 data.statistics--censuses-and-surveys,3,CIV-data.statistics-mics-2026|CIV-data.statistics-general-census-of-enterprises,,,,,,,2026-07-31,0,MICS rounds irregular; population census not on these rows,
 data.statistics--statistics-from-administrative-data,3,CIV-dpi.mis-simt-labour-market-information-system,,,,,,,2026-07-31,0,Labour indicator platform publishing 299 tables; source mix not stated,
 data.open--use-of-open-data,2,CIV-data.open-open-data-initiative,,,,,,,2026-07-31,0,National portal since 2014; no open licence or reuse on record,
-data.satellite--agricultural-use-of-satellite-data,2,CIV-data.satellite-national-land-cover-map,,,,,,,2026-07-31,0,One national land cover map on 2020 imagery; no recurring service,
+data.geospatial--agricultural-use-of-satellite-data,2,CIV-data.geospatial-national-land-cover-map,,,,,,,2026-07-31,0,One national land cover map on 2020 imagery; no recurring service,

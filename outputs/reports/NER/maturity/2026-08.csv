@@ -105,5 +105,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,NER-data.stat
 data.statistics--censuses-and-surveys,2,NER-data.statistics-rgph,,,,,,,2026-08-31,0,fifth census in preparation; no enumeration date,
 data.statistics--statistics-from-administrative-data,2,NER-data.statistics-eretes,,,,,,,2026-08-31,0,administrative data integration planned in the national accounts roadmap,
 data.open--use-of-open-data,2,NER-data.open-undataplatform,,,,,,,2026-08-31,0,multisectoral data platform in build; no launch date,
-data.satellite--agricultural-use-of-satellite-data,2,NER-data.satellite-eo,,,,,,,2026-08-31,0,Mapping institute's undated page: Sentinel imagery for land-use and forest monitoring; no agricultural service on record,
-data.satellite--meteorological-use-of-satellite-data,3,NER-data.satellite-dmn,,,,,,,2026-08-31,0,European satellite products served for operational forecasting; no own reception or early-warning products,
+data.geospatial--agricultural-use-of-satellite-data,2,NER-data.geospatial-eo,,,,,,,2026-08-31,0,Mapping institute's undated page: Sentinel imagery for land-use and forest monitoring; no agricultural service on record,
+data.geospatial--meteorological-use-of-satellite-data,3,NER-data.geospatial-dmn,,,,,,,2026-08-31,0,European satellite products served for operational forecasting; no own reception or early-warning products,

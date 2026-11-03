@@ -106,5 +106,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,GHA-data.stat
 data.statistics--censuses-and-surveys,3,GHA-data.statistics-governance-series-survey,,,,,,,2026-08-31,0,Six-monthly governance survey at wave 3; no definitive census results in these rows,2026-08-06-governance-reforms-yielding-results-but-remain-fragile-government-statistician
 data.statistics--statistics-from-administrative-data,3,GHA-data.statistics-administrative-data-sharing-agreements|GHA-dpi.mis-education-management-information-system,,,,,,,2026-08-31,0,sharing agreements with 25 bodies signed; only education statistics products on record,
 data.open--use-of-open-data,2,GHA-data.open-national-open-data-instrument,,,,,,,2026-08-31,0,"No open licence, portal or dataset inventory held",
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,Live agricultural and forest platforms named in a lecture; satellite inputs not stated,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Donor gap assessment only; no satellite data stream stated,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,Live agricultural and forest platforms named in a lecture; satellite inputs not stated,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Donor gap assessment only; no satellite data stream stated,

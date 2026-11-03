@@ -98,5 +98,5 @@ data.statistics--national-strategy-for-development-of-statistics,,,,,,,,,2026-08
 data.statistics--censuses-and-surveys,2,COM-data.statistics-fifth-population-and-housing-census,,,,,,,2026-08-31,0,census instruments finalised with pilot from September 2026; no enumeration yet,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-08-31,0,unplaced: statistics act and a UN statistics modernisation project; no administrative-data use or cited absence,
 data.open--use-of-open-data,2,COM-data.statistics-national-open-data-or-statistical,,,,,,,2026-08-31,0,microdata archive of fifteen datasets behind registration; no open licence,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,unplaced: FAO-run earth-observation dashboard only; no Comorian institution using it and no cited absence,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,WIGOS training and regional early-warning project held; no satellite data stream shown,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,unplaced: FAO-run earth-observation dashboard only; no Comorian institution using it and no cited absence,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,WIGOS training and regional early-warning project held; no satellite data stream shown,

@@ -97,5 +97,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,CPV-data.stat
 data.statistics--censuses-and-surveys,3,CPV-data.statistics-idrf-iv,,,,,,,2026-07-31,0,Household survey rounds irregular with IDRF IV unpublished; census not among these rows,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-07-31,0,Rows cover the INE evaluation and audit court; no administrative-data product,
 data.open--use-of-open-data,2,CPV-data.open-portal-da-transparencia,,,,,,,2026-07-31,0,Transparency portal live; no open licence or bulk download stated,
-data.satellite--agricultural-use-of-satellite-data,2,CPV-data.satellite-inida-geospatial-lab,,,,,,,2026-07-31,0,Geospatial lab building a monitoring system; partner institution's account only,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,INMG mandate and EW4All launch; no satellite data stream or product on record,
+data.geospatial--agricultural-use-of-satellite-data,2,CPV-data.geospatial-inida-geospatial-lab,,,,,,,2026-07-31,0,Geospatial lab building a monitoring system; partner institution's account only,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,INMG mandate and EW4All launch; no satellite data stream or product on record,

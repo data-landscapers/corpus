@@ -103,5 +103,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,RWA-data.stat
 data.statistics--censuses-and-surveys,3,RWA-data.statistics-census-programme,,,,,,,2026-08-31,0,DHS final report published August 2026; public microdata or portal access not on record,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-08-31,0,only the statistics budget line is mapped; no administrative-data product in these rows,
 data.open--use-of-open-data,,,,,,,,,2026-08-31,0,open data policy expired; nothing on whether bodies publish data for reuse,
-data.satellite--agricultural-use-of-satellite-data,2,RWA-data.satellite-planet-programme,,,,,,,2026-08-31,0,Imagery access programme launched for agriculture monitoring; no crop-monitoring service in operation on record,2026-08-10-itweb-planet-rwanda-national-satellite-data-program
-data.satellite--meteorological-use-of-satellite-data,2,RWA-data.satellite-enacts,,,,,,,2026-08-31,0,Satellite rainfall merged in climate monitoring; forecasting use not on record,
+data.geospatial--agricultural-use-of-satellite-data,2,RWA-data.geospatial-planet-programme,,,,,,,2026-08-31,0,Imagery access programme launched for agriculture monitoring; no crop-monitoring service in operation on record,2026-08-10-itweb-planet-rwanda-national-satellite-data-program
+data.geospatial--meteorological-use-of-satellite-data,2,RWA-data.geospatial-enacts,,,,,,,2026-08-31,0,Satellite rainfall merged in climate monitoring; forecasting use not on record,

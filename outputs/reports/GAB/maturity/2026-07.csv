@@ -92,5 +92,5 @@ include.access--citizen-feedback-portals,2,GAB-include.access-citizen-reception-
 include.access--citizen-participation-in-policy,2,GAB-gov.discourse-pncd-consultation,,,,,,,2026-07-31,0,One open consultation on the development plan; participation commission at draft ordinance,
 data.statistics--national-strategy-for-development-of-statistics,,,,,,,,,2026-07-31,0,Closed World Bank statistics project only; no NSDS or cited absence on record,
 data.statistics--censuses-and-surveys,2,GAB-data.statistics-second-census-of-economically-weak,,,,,,,2026-07-31,0,Targeted census planned with fieldwork from September 2026; no enumeration by the as-at,
-data.satellite--agricultural-use-of-satellite-data,3,GAB-data.satellite-ageos,,,,,,,2026-07-31,0,AGEOS land-use monitoring of forest cover under mining; no crop monitoring on record,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,Decree mandates a satellite meteorology service; no data stream or product on record,
+data.geospatial--agricultural-use-of-satellite-data,3,GAB-data.geospatial-ageos,,,,,,,2026-07-31,0,AGEOS land-use monitoring of forest cover under mining; no crop monitoring on record,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,Decree mandates a satellite meteorology service; no data stream or product on record,

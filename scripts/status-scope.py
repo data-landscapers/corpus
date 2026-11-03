@@ -29,6 +29,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import status_lib as S  # noqa: E402
+from vault_lib import renamed_topic  # noqa: E402
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import importlib  # noqa: E402
@@ -84,7 +85,7 @@ def hub(iso):
     head = "".join(lines[:40])
     reviewed = (re.search(r"^last_reviewed:\s*(\S+)", head, re.M) or [None, None])[1]
     topics = re.search(r"^topics:\s*\[(.*?)\]", head, re.M | re.S)
-    topics = [t.strip() for t in topics.group(1).split(",") if t.strip()] if topics else []
+    topics = [renamed_topic(t.strip()) for t in topics.group(1).split(",") if t.strip()] if topics else []
     marks = [(i, l[3:].strip()) for i, l in enumerate(lines) if l.startswith("## ")]
     out = {}
     for n, (i, title) in enumerate(marks):
@@ -111,7 +112,7 @@ def intersections(iso, region):
             continue
         size = os.path.getsize(path)
         topics = re.search(r"^topics:\s*\[(.*?)\]", head, re.M | re.S)
-        topics = [t.strip() for t in topics.group(1).split(",") if t.strip()] if topics else []
+        topics = [renamed_topic(t.strip()) for t in topics.group(1).split(",") if t.strip()] if topics else []
         if m.group(1) == iso:
             mine.append((fn, size, topics))
         elif m.group(1) == region:

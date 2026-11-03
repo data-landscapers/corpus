@@ -349,7 +349,7 @@ Published statistics are strongest where the money and the crops are: in the 202
 Nothing sits above these publications as a rule. Data sharing between government bodies is [ad hoc, with no overarching data governance framework, and a Malian has no way to see what the national identity database holds on them or who has looked at it](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Mali-Country-Diagnostic.pdf) (2023).
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 Mali's earth observation and geospatial holdings sit almost entirely in agriculture and weather. The [AgData Hub hosted by Mali-Météo brings climate, soil and crop data together, and a separate electronically registered farmer database drives input subsidy e-vouchers, both standalone donor- and research-led systems with no interoperability with tax, land or civil registration systems](https://sti-portal.fao.org/innovations/agdatahubs-mali-leveraging-digital-platforms-integrate-climate-soil-and-crop-data) (2025). [Mali-Météo commissioned receiving stations for Meteosat Third Generation data on 10 March 2026](https://fr.apanews.net/disasters/mali-meteo-dotee-dun-systeme-satellitaire-de-nouvelle-generation/) under the African Union's PUMA 2025 programme and ClimSA initiative. [A donor-backed scheme pairing SMS weather alerts with satellite-index crop insurance covered 6,322 farmers](https://www.luxaidbusiness4impact.lu/en/project/weather-alerts-and-insurance-for-resilient-farmers-in-mali/) (2025).
 

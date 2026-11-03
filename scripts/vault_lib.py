@@ -47,7 +47,7 @@ DB_PATH = os.path.join(INDEX_DIR, "vault.db")
 
 # Bumped when a row's shape changes, so an index built by an older builder is
 # stale by definition rather than silently half-populated.
-INDEX_VERSION = 2   # 2: double-quoted frontmatter escapes decoded (BFA unit review, 2026-09-18)
+INDEX_VERSION = 3   # 3: renamed topic ids read under the new id (2026-11-03); 2: quoted escapes decoded
 
 # Walked in full. `logs/` is deliberately absent: it is append-only prose, not
 # artefacts with frontmatter, and log.md alone would double the read.
@@ -340,7 +340,22 @@ def parse_frontmatter(text):
                 fm[key] = val
             else:
                 fm[key] = _unquote(val)
+    for key in ("topics", "primary_subject", "indicator_id"):
+        if key in fm:
+            fm[key] = ([renamed_topic(t) for t in fm[key]] if isinstance(fm[key], list)
+                       else renamed_topic(fm[key]) if isinstance(fm[key], str) else fm[key])
     return fm, warnings, body
+
+
+# Topic ids Bill has renamed, read under the new id until every OSINT record carries it
+# (notes-for-osint 282). Applied to the facets as they are parsed, so every reader agrees.
+TOPIC_RENAMED = {"data.satellite": "data.geospatial"}   # Bill, 2026-11-03
+_RENAMED_RE = re.compile(r"^(" + "|".join(re.escape(k) for k in TOPIC_RENAMED) + r")(?=$|[.-])")
+
+
+def renamed_topic(v):
+    """`v` with a renamed topic id, or the prefix of an indicator or sub-topic id, replaced."""
+    return _RENAMED_RE.sub(lambda m: TOPIC_RENAMED[m.group(1)], v)
 
 
 def as_list(v):

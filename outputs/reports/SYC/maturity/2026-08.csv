@@ -104,5 +104,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,SYC-data.stat
 data.statistics--censuses-and-surveys,3,SYC-data.statistics-censuses,,,,,,,2026-08-31,0,2022 census report published; regular survey programme and public microdata not on record,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-08-31,0,Unplaced: a climate-risk readiness programme and a Cabinet MVI decision; no administrative-data statistical product on record,
 data.open--use-of-open-data,2,SYC-data.open-fims|SYC-data.open-webgis,,,,,,,2026-08-31,0,Public fisheries and map portals with no open licence stated,
-data.satellite--agricultural-use-of-satellite-data,2,SYC-data.satellite-agriculture,,,,,,,2026-08-31,0,Externally produced vegetation index and a one-off imagery consultancy for UNCCD reporting,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Only a COPUOS accession decision is mapped; no meteorological service evidence,
+data.geospatial--agricultural-use-of-satellite-data,2,SYC-data.geospatial-agriculture,,,,,,,2026-08-31,0,Externally produced vegetation index and a one-off imagery consultancy for UNCCD reporting,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Only a COPUOS accession decision is mapped; no meteorological service evidence,

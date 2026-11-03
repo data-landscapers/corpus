@@ -325,7 +325,7 @@ Across every area of the 2025 GovTech Maturity Index assessment — cloud, inter
 Where publication does happen it can be very good: [the Electoral Commissioner keeps a continuously updated digital Register of Electors broken down by constituency, ward, polling station, sex, age and citizenship](https://electoral.govmu.org/oec/?page_id=4616), and [InfoHighway carries a live public factsheet of connected agencies, e-services and query volumes](https://ih.govmu.org). The right to ask is the piece still outstanding: a [Freedom of Information Bill was announced as in preparation at the launch of the National Data Strategy 2025-2029 on 28 January 2026](https://lexpress.mu/node/553938).
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 The state's one established use of earth observation is the land record: [the cadastral database built under the Land Administration, Valuation and Information Management System covers the whole island in digital aerial imagery and assigns a mandatory Parcel Identification Number to every land deed](https://sinergise.com/sites/default/files/attachments/2016-03-LAVIMS-WorldBankConference.pdf), following a rollout completed between 2006 and 2011.
 

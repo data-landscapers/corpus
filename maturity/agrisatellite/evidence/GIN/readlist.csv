@@ -1,5 +1,5 @@
 n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
-,,,,GIN,status,data.satellite,,outputs/reports/GIN/GIN-status.md,,Use of satellite data,,,status,,0,21
+,,,,GIN,status,data.geospatial,,outputs/reports/GIN/GIN-status.md,,Use of satellite data,,,status,,0,21
 1,1,0,news,GIN,raw,2026-08-07-guinea-kumy-crg-agriculteurs-connectes,whole,raw/2026/2026-08-07-guinea-kumy-crg-agriculteurs-connectes.md,https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/,Kumy et le CRG unissent leurs forces pour les agriculteurs,2026-08-07,GIN,cell,,0,967
 2,2,1,news,GIN,raw,2026-02-05-crews-project-improves-meteorological-service-guinea,whole,raw/2026/2026-02-05-crews-project-improves-meteorological-service-guinea.md,https://public.wmo.int/media/project-update/successful-crews-project-improves-meteorological-service-delivery-guinea,Successful CREWS Project Improves Meteorological Service Delivery in Guinea,2026-02-05,GIN,ledger+subject,satellite data,2,765
 3,2,1,news,GIN,raw,2025-10-14-lancement-officiel-projet-climagui,whole,raw/2025/2025-10-14-lancement-officiel-projet-climagui.md,https://transports.gov.gn/lancement-officiel-du-projet-climagui-par-le-ministere-des-transports/,Lancement officiel du Projet CLIMAGUI par le Ministère des Transports,2025-10-14,GIN,ledger+subject,satellite data,2,348

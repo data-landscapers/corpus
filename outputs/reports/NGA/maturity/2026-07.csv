@@ -97,5 +97,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,NGA-data.stat
 data.statistics--censuses-and-surveys,2,NGA-dpi.registry-census,,,,,,,2026-07-31,0,Last census 2006; biometric census planned with budget under review,
 data.statistics--statistics-from-administrative-data,3,NGA-data.statistics-healthjar,,,,,,,2026-07-31,0,Health joint annual review compiled from routine administrative records,
 data.open--use-of-open-data,2,NGA-data.open-nocopo|NGA-gov.policy-open-data-policy-2018,,,,,,,2026-07-31,0,Procurement data published with dashboards; open licence not stated on record,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,Only exploratory talks on AI for farmers; no satellite data use in agriculture on record,
-data.satellite--meteorological-use-of-satellite-data,3,NGA-data.satellite-meteosat-third-generation-station|NGA-data.satellite-enacts|NGA-data.satellite-sadis,,,,,,,2026-07-31,0,MTG station installed and satellite data in climate and aviation products; WIGOS and early warnings not on record,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,Only exploratory talks on AI for farmers; no satellite data use in agriculture on record,
+data.geospatial--meteorological-use-of-satellite-data,3,NGA-data.geospatial-meteosat-third-generation-station|NGA-data.geospatial-enacts|NGA-data.geospatial-sadis,,,,,,,2026-07-31,0,MTG station installed and satellite data in climate and aviation products; WIGOS and early warnings not on record,

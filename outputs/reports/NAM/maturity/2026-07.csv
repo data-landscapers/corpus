@@ -101,5 +101,5 @@ include.access--inclusion-of-refugees-and-idps,3,NAM-dpi.id-identity-card-refuge
 data.statistics--national-strategy-for-development-of-statistics,3,NAM-data.statistics-strategy-development-statistics,,,,,,,2026-07-31,0,NSDS 2023/24-2026/27 costed at N$59m; no funding secured or monitoring report on record,
 data.statistics--censuses-and-surveys,3,NAM-data.statistics-2023-population-housing-census,,,,,,,2026-07-31,0,2023 digital census enumerated; public microdata and a regular survey programme not on record,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-07-31,0,Rows hold an SDDS subscription and an awareness day; no administrative-data product or plan on record,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,Ground station receives remote-sensing data; no agricultural use of it on record,
-data.satellite--meteorological-use-of-satellite-data,3,NAM-data.satellite-satellite-precipitation-product,,,,,,,2026-07-31,0,Satellite precipitation used in the hydrological bulletin; WIGOS or GBON not on record,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,Ground station receives remote-sensing data; no agricultural use of it on record,
+data.geospatial--meteorological-use-of-satellite-data,3,NAM-data.geospatial-satellite-precipitation-product,,,,,,,2026-07-31,0,Satellite precipitation used in the hydrological bulletin; WIGOS or GBON not on record,

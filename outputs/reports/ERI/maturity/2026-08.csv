@@ -97,5 +97,5 @@ data.statistics--national-strategy-for-development-of-statistics,,,,,,,,,2026-08
 data.statistics--censuses-and-surveys,3,ERI-data.statistics-ephs-2025,,,,,,,2026-08-31,0,"2025 health survey completed, first in fifteen years; no census on record",
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-08-31,0,survey and national accounts only; administrative sources neither shown used nor stated unused,
 data.open--use-of-open-data,2,ERI-gov.policy-open-data-policy,,,,,,,2026-08-31,0,basic portal on a 2022 govtech dataset; no licence or dataset published,
-data.satellite--agricultural-use-of-satellite-data,2,ERI-gov.policy-geospatial-framework-capacity,,,,,,,2026-08-31,0,"Remote-sensing training for ministry staff; the August satellite advisory is a regional centre's, not a national service",
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Satellite monitoring of the country is produced abroad; a modern national meteorological service is only a planned objective,
+data.geospatial--agricultural-use-of-satellite-data,2,ERI-gov.policy-geospatial-framework-capacity,,,,,,,2026-08-31,0,"Remote-sensing training for ministry staff; the August satellite advisory is a regional centre's, not a national service",
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Satellite monitoring of the country is produced abroad; a modern national meteorological service is only a planned objective,

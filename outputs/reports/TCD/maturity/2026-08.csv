@@ -102,5 +102,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,TCD-data.stat
 data.statistics--censuses-and-surveys,2,TCD-data.statistics-third-general-population-and-housing,,,,,close of main census enumeration,2026-08-06,2026-08-31,0,Third census enumeration under way at the as-at; no results,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-08-31,0,Institute portals listed; no product compiled from administrative registers cited here,
 data.open--use-of-open-data,2,TCD-data.open-open-government-data-portal-or,,,,,,,2026-08-31,0,Portals publish with no open licence and restrictive reuse terms,
-data.satellite--agricultural-use-of-satellite-data,2,TCD-data.satellite-agriculture,,,,,,,2026-08-31,0,Donor-run satellite crop monitoring; national microsatellite only a roadmap,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Only a space cooperation memorandum; no satellite data stream for the met service on record,
+data.geospatial--agricultural-use-of-satellite-data,2,TCD-data.geospatial-agriculture,,,,,,,2026-08-31,0,Donor-run satellite crop monitoring; national microsatellite only a roadmap,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Only a space cooperation memorandum; no satellite data stream for the met service on record,

@@ -329,7 +329,7 @@ Openness varies sharply by domain. In the 2024 Open Data Inventory, [balance of 
 The 2024 Ibrahim Index separates what citizens can reach from what the state chooses to release. [Accessibility of public records scores 24.7 of 100 and ranks 34th of 54 African states, the fastest-improving of the country's transparency measures with an 11.9-point gain over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), while [disclosure of public records is among Mauritania's ten worst measures at 10.1 of 100 and 50th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023). The digital ministry's own page on the Startup Act shows the habit at close range: it [names and dates the law but carries no text of the instrument](https://mtnima.gov.mr/fr/loi-de-startup/).
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 Mauritania's telecoms regulator ARE [had selected three companies to provide satellite telecommunications services in the country by July 2026, after a tender launched in January](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite).
 

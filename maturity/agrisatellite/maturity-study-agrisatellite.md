@@ -8,17 +8,17 @@ status: first pass run 2026-10-16; staged, written and on the soft-launch map; w
 
 # Maturity study: agrisatellite
 
-*(Commissioned by Bill on 2026-10-16 as `data.satellite--agricultural-use-of-satellite-data`, a first pass under `maturity/documentation/first-pass-batch.md`, in one batch with agrisatellite, metsatellite, digitalsovereignty, healthmis, educationmis, egovservices and ruralelectrification: the chapter the last seven indicators.)*
+*(Commissioned by Bill on 2026-10-16 as `data.geospatial--agricultural-use-of-satellite-data`, a first pass under `maturity/documentation/first-pass-batch.md`, in one batch with agrisatellite, metsatellite, digitalsovereignty, healthmis, educationmis, egovservices and ruralelectrification: the chapter the last seven indicators.)*
 
 ## 1. What is assessed
 
 **Satellite data used for farming**: a government, agricultural research or early-warning service that uses satellite or remote-sensing data to monitor crops, forecast yields, warn of drought or locusts, or map land for agriculture. What puts satellite data to work for agriculture counts, whatever it is called.
 
-The study redraws `data.satellite--agricultural-use-of-satellite-data`, which as at 2026-08-31 puts two countries at stage 3, nine at 2 and 43 unplaced. It touches no other row.
+The study redraws `data.geospatial--agricultural-use-of-satellite-data`, which as at 2026-08-31 puts two countries at stage 3, nine at 2 and 43 unplaced. It touches no other row.
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Satellite data in agriculture | Agricultural use of satellite data: satellite data in agriculture | `data.satellite--agricultural-use-of-satellite-data` |
+| Satellite data in agriculture | Agricultural use of satellite data: satellite data in agriculture | `data.geospatial--agricultural-use-of-satellite-data` |
 
 Anything else the evidence names is `other`, noted and never staged: weather forecasting with no farming product, mapping for a census or for cities, a satellite launch or a space agency with no farming use on record, an insurance or agritech product sold by a company with no government part, a donor study of the region.
 

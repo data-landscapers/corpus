@@ -378,7 +378,7 @@ Across the 22 categories assessed in 2024, the scores run from 3 to 7 out of 10 
 Of the sixteen transparency measures in the 2025 GovTech assessment, exactly one records something actually published — the service standards attached to citizen feedback. Twelve record no publication at all, and three record reporting that exists but is kept internal.
 
 ### Geospatial data
-<!-- data.satellite -->
+<!-- data.geospatial -->
 
 [A US$2.3m malaria programme funded by Japan combines artificial intelligence, drones and geospatial mapping](https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria) to target mosquito breeding sites (June 2026), with no split of the money between the digital work and the spraying. Beyond that donor-funded project, no national position on Earth observation or geospatial data use — an agency, a receiving facility, a policy — was established as at August 2026.
 

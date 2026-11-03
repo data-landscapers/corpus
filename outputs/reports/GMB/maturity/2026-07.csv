@@ -100,5 +100,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,GMB-data.stat
 data.statistics--censuses-and-surveys,3,GMB-data.statistics-glfs,,,,,,,2026-07-31,0,labour force survey rounds regular; no census on record,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-07-31,0,only a coordination meeting; no administrative-data product or pilot,
 data.open--use-of-open-data,,,,,,,,,2026-07-31,0,only a budget transparency score; no data publication on record,
-data.satellite--agricultural-use-of-satellite-data,2,GMB-data.satellite-agriculture,,,,,,,2026-07-31,0,one project's geospatial monitoring framework,
-data.satellite--meteorological-use-of-satellite-data,2,GMB-data.satellite-meteosat,,,,,,,2026-07-31,0,MTG stations installed; use in forecasting not on record,
+data.geospatial--agricultural-use-of-satellite-data,2,GMB-data.geospatial-agriculture,,,,,,,2026-07-31,0,one project's geospatial monitoring framework,
+data.geospatial--meteorological-use-of-satellite-data,2,GMB-data.geospatial-meteosat,,,,,,,2026-07-31,0,MTG stations installed; use in forecasting not on record,

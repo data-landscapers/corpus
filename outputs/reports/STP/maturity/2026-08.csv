@@ -95,5 +95,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,STP-data.stat
 data.statistics--censuses-and-surveys,3,STP-data.statistics-rgph|STP-data.statistics-iof,,,,,,,2026-08-31,0,2024 census results published; household survey irregular and no microdata access on record,
 data.statistics--statistics-from-administrative-data,3,STP-data.statistics-administrative,,,,,,,2026-08-31,0,Health statistical yearbook from administrative records; not systematic,
 data.open--use-of-open-data,2,STP-data.open-orcamento-cidadao,,,,,,,2026-08-31,0,Budget data republished by civil society; no open licence or portal,
-data.satellite--agricultural-use-of-satellite-data,2,STP-data.satellite-none,,,,,,,2026-08-31,0,One-off Collect Earth land assessment in 2018,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,"Observation upgrades concern surface and upper-air stations, not satellite reception",
+data.geospatial--agricultural-use-of-satellite-data,2,STP-data.geospatial-none,,,,,,,2026-08-31,0,One-off Collect Earth land assessment in 2018,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,"Observation upgrades concern surface and upper-air stations, not satellite reception",

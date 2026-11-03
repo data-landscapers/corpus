@@ -100,5 +100,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,GNQ-data.stat
 data.statistics--censuses-and-surveys,2,GNQ-data.statistics-census,,,,,,,2026-08-31,0,census preparation validated; no enumeration date fixed,
 data.statistics--statistics-from-administrative-data,3,GNQ-data.statistics-administrative,,,,,,,2026-08-31,0,National yearbook and vital events reports from administrative sources; no quality framework,
 data.open--use-of-open-data,,,,,,,,,2026-08-31,0,EITI data collection only; no publication of data for reuse shown,
-data.satellite--agricultural-use-of-satellite-data,2,GNQ-data.satellite-forest,,,,,,,2026-08-31,0,Forest reference level and a regional deforestation study; no agricultural service,
-data.satellite--meteorological-use-of-satellite-data,2,GNQ-data.satellite-meteorology,,,,,,,2026-08-31,0,Regional satellite feed received for aviation; forecasting use by a national service not shown,
+data.geospatial--agricultural-use-of-satellite-data,2,GNQ-data.geospatial-forest,,,,,,,2026-08-31,0,Forest reference level and a regional deforestation study; no agricultural service,
+data.geospatial--meteorological-use-of-satellite-data,2,GNQ-data.geospatial-meteorology,,,,,,,2026-08-31,0,Regional satellite feed received for aviation; forecasting use by a national service not shown,

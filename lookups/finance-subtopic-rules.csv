@@ -351,13 +351,13 @@ data.open.skills,45,,(?:^(?!Capital project of )|\|).*?(?:CAPACITY BUILDING|TRAI
 data.open.portals,50,,"(?:^(?!Capital project of )|\|).*?(?:DASH ?BOARD|SCORECARD|TRACKER|TRACKING|MONITORING AND EVALUATION|M&E|MONITORING ,VERIFICATION|\bMRV\b|EARLY WARNING|FEWS|PRIORITY PROJECTS|PRESIDENTIAL MANDATE|REPORTING SYSTEM|SURVEILLANCE OUTPUTS)"
 data.open.repositories,70,,(?:^(?!Capital project of )|\|).*?(?:data ?bas|data ?bank|databank|data cent(re|er)|repositor|data platform|portal|platform|register|\bMIS\b|GIS|data management|data system|data mapping|data infrastructure|map\b|information system|data governing|geological|geoscience|wildlife|marine|blue economy|geographic institute|management system|SOFTWARE|DATA FOR|DATA$|PRODUCTION OF DATABASE|ANNUAL MAINTENANCE|DATA AND INFORMATION|KX MANAGEMENT|NETWORKING|DATA BANKING)
 data.open.unspecified,999,,
-data.satellite.positioning,5,nonstate,EGNOS|\bSBAS\b|Satellite Navigation
-data.satellite.platforms,10,nonstate,Digital Earth Africa|GRID3|Geo-Referenced Infrastructure|satellite data platform|Satellite Data and AI|spatial data infrastructure
-data.satellite.sector_gis,20,nonstate,SAT-CARE|satellite-based agri|Early Warning|Forecasting|systematic[- ]observations|weather
-data.satellite.skills,10,,(?:^(?!Capital project of )|\|).*?(?:TRAINING|STAFF ENHANCEMENT|EMPOWERMENT)
-data.satellite.positioning,20,,(?:^(?!Capital project of )|\|).*?(?:CORS|GNSS|reference station)
-data.satellite.space,30,,(?:^(?!Capital project of )|\|).*?(?:space agency|Space Agency|national space|Space Management|earth[- ]observation satellite|satellite building|Satelite Building|Satelite & Ground|satellite d'ob|d'un satellite|an earth-observation satellite|ground station|ground segment|Earth-observation system|space agency's|satellite station)
-data.satellite.agencies,35,,(?:^(?!Capital project of )|\|).*?(?:remote[- ]sensing and space|remote sensing and space|Remote Sensing Centre|Space Science and Geospatial Institute)
-data.satellite.agencies,40,,(?:^(?!Capital project of )|\|).*?(?:remote-sensing and geographic-information centre|CNTIG|cartography and remote-sensing centre|national mapping agency|remote sensing centre|centre for remote sensing|Geospatial Institute|digital topographic maps|national geomatics|geo-information sciences|Geospatial Hub|statistics bureau|bureau's GIS)
-data.satellite.sector_gis,50,,(?:^(?!Capital project of )|\|).*?(?:GIS|geo|map|remote sensing|télédétection|earth[- ]observation|imager|UAV|spatial|meteorolog|forest monitoring|surveillance|topograph|cartograph|survey data|ENUMERATION)
-data.satellite.unspecified,999,,
+data.geospatial.positioning,5,nonstate,EGNOS|\bSBAS\b|Satellite Navigation
+data.geospatial.platforms,10,nonstate,Digital Earth Africa|GRID3|Geo-Referenced Infrastructure|satellite data platform|Satellite Data and AI|spatial data infrastructure
+data.geospatial.sector_gis,20,nonstate,SAT-CARE|satellite-based agri|Early Warning|Forecasting|systematic[- ]observations|weather
+data.geospatial.skills,10,,(?:^(?!Capital project of )|\|).*?(?:TRAINING|STAFF ENHANCEMENT|EMPOWERMENT)
+data.geospatial.positioning,20,,(?:^(?!Capital project of )|\|).*?(?:CORS|GNSS|reference station)
+data.geospatial.space,30,,(?:^(?!Capital project of )|\|).*?(?:space agency|Space Agency|national space|Space Management|earth[- ]observation satellite|satellite building|Satelite Building|Satelite & Ground|satellite d'ob|d'un satellite|an earth-observation satellite|ground station|ground segment|Earth-observation system|space agency's|satellite station)
+data.geospatial.agencies,35,,(?:^(?!Capital project of )|\|).*?(?:remote[- ]sensing and space|remote sensing and space|Remote Sensing Centre|Space Science and Geospatial Institute)
+data.geospatial.agencies,40,,(?:^(?!Capital project of )|\|).*?(?:remote-sensing and geographic-information centre|CNTIG|cartography and remote-sensing centre|national mapping agency|remote sensing centre|centre for remote sensing|Geospatial Institute|digital topographic maps|national geomatics|geo-information sciences|Geospatial Hub|statistics bureau|bureau's GIS)
+data.geospatial.sector_gis,50,,(?:^(?!Capital project of )|\|).*?(?:GIS|geo|map|remote sensing|télédétection|earth[- ]observation|imager|UAV|spatial|meteorolog|forest monitoring|surveillance|topograph|cartograph|survey data|ENUMERATION)
+data.geospatial.unspecified,999,,

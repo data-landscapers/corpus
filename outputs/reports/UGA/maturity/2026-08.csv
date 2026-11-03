@@ -105,5 +105,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,UGA-data.stat
 data.statistics--censuses-and-surveys,2,UGA-data.statistics-9th-uganda-household-survey,,,,,,,2026-08-31,0,"9th household survey in the field (collectors commissioned 2026-08-04); results not yet published, so the lower stage (CC)",
 data.statistics--statistics-from-administrative-data,2,UGA-data.statistics-labour-employment-productivity-reporting,,,,,,,2026-08-31,0,administrative labour-data programme launched; no product compiled on record,
 data.open--use-of-open-data,2,UGA-data.open-procurement-portal-conformance-with,,,,,,,2026-08-31,0,procurement portal publishes 17.6% of elements; no open licence stated,
-data.satellite--agricultural-use-of-satellite-data,2,UGA-data.satellite-agricultural-earth-observation,,,,,,,2026-08-31,0,two single-site pilots; no national service,
-data.satellite--meteorological-use-of-satellite-data,3,UGA-data.satellite-meteorological-satellite-data-use,,,,,,,2026-08-31,0,satellite data in operational use on a 2024 donor diagnostic; no WIGOS or GBON record,
+data.geospatial--agricultural-use-of-satellite-data,2,UGA-data.geospatial-agricultural-earth-observation,,,,,,,2026-08-31,0,two single-site pilots; no national service,
+data.geospatial--meteorological-use-of-satellite-data,3,UGA-data.geospatial-meteorological-satellite-data-use,,,,,,,2026-08-31,0,satellite data in operational use on a 2024 donor diagnostic; no WIGOS or GBON record,

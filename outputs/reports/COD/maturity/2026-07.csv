@@ -94,5 +94,5 @@ data.statistics--national-strategy-for-development-of-statistics,1,COD-data.stat
 data.statistics--censuses-and-surveys,2,COD-data.statistics-second-general-population-housing,,,,,,,2026-07-31,0,Second census in cartography; no enumeration since 1984,
 data.statistics--statistics-from-administrative-data,3,COD-data.statistics-civil-service-statistics,,,,,,,2026-07-31,0,One product from payroll records; administrative systems assessed weak by the financier,
 data.open--use-of-open-data,2,COD-data.open-open-data-policy-or,,,,,,,2026-07-31,0,Portal with downloads in open formats; no open licence stated,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,Earth-observation satellite only contracted; no agricultural use of satellite data on record,
-data.satellite--meteorological-use-of-satellite-data,2,COD-data.satellite-mettelsat,,,,,,,2026-07-31,0,Forecasters trained on satellite-derived guidance products; operational use not on record,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,Earth-observation satellite only contracted; no agricultural use of satellite data on record,
+data.geospatial--meteorological-use-of-satellite-data,2,COD-data.geospatial-mettelsat,,,,,,,2026-07-31,0,Forecasters trained on satellite-derived guidance products; operational use not on record,

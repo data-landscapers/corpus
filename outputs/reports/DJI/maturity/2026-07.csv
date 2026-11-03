@@ -102,5 +102,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,DJI-data.stat
 data.statistics--censuses-and-surveys,3,DJI-data.statistics-rgph3|DJI-data.statistics-mics7,,,,,,,2026-07-31,0,definitive census results published; microdata access and a regular survey calendar not on record,
 data.statistics--statistics-from-administrative-data,2,DJI-data.statistics-oneq,,,,,,,2026-07-31,0,observatory mandated to build a database from administrative sources; no product on record,
 data.open--use-of-open-data,2,DJI-data.open-open-data-portal|DJI-data.open-pnrd,,,,,,,2026-07-31,0,portal and summary data page in service; no open licence or bulk download stated,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,regional crop-monitoring consultancy sought only; HYDROSAT data use not on record,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,MAZU-Urban early warning commissioned; satellite data use not stated in the rows,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-07-31,0,regional crop-monitoring consultancy sought only; HYDROSAT data use not on record,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,MAZU-Urban early warning commissioned; satellite data use not stated in the rows,

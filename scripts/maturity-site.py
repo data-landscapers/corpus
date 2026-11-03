@@ -54,6 +54,7 @@ from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, feedback, f
 from render import family_bar  # noqa: E402
 import methodology  # noqa: E402  - the Methodology section's page bar
 import editions  # noqa: E402
+import vault_lib  # noqa: E402
 import maturity_words  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -459,6 +460,8 @@ def problems(data: dict, geo: dict, studies: list[dict], indicators: list[dict],
     for iid in sorted(set((published or {}).get("indicators", {})) - set(data["indicators"])):
         # Sub-indicator ids lost their description suffix on 2026-10-19 (Bill): a renamed one is not lost.
         if any(iid.startswith(b + "-") for b in data["indicators"]):
+            continue
+        if vault_lib.renamed_topic(iid) in data["indicators"]:     # a renamed topic (2026-11-03)
             continue
         out.append(f"{iid}: on the published map and not in this build")
     return out

@@ -100,5 +100,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,GIN-data.stat
 data.statistics--censuses-and-surveys,3,GIN-data.statistics-rgph4,,,,,,,2026-08-31,0,RGPH-4 population total in use; definitive disaggregated results and public access not on record,
 data.statistics--statistics-from-administrative-data,3,GIN-gov.standards-public-finance-statistics-committee,,,,,,,2026-08-31,0,Regular fiscal-operations statement on the finance ministry's own account; one product only,
 data.open--use-of-open-data,,,,,,,,,2026-08-31,0,Reuse right in law but no portal or published datasets in the rows,
-data.satellite--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,Private sensor and weather-alert scheme; no satellite data use on record,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Warning bulletins and WIS-connected stations on record; satellite data use not stated,
+data.geospatial--agricultural-use-of-satellite-data,,,,,,,,,2026-08-31,0,Private sensor and weather-alert scheme; no satellite data use on record,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Warning bulletins and WIS-connected stations on record; satellite data use not stated,

@@ -105,5 +105,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,ZMB-data.stat
 data.statistics--censuses-and-surveys,3,ZMB-data.statistics-zamstats-release-programme,,,,,,,2026-08-31,0,2022 census analytical report published 2025; microdata access and survey programme not on record here,
 data.statistics--statistics-from-administrative-data,3,ZMB-data.statistics-administrative,,,,,,,2026-08-31,0,Nutrition data platform in government and death-reporting series; no systematic framework,
 data.open--use-of-open-data,2,ZMB-dpi.registry-nsdi-policy-portal,,,,,,,2026-08-31,0,portals launched; no open licence or access terms stated including for the carbon registry,
-data.satellite--agricultural-use-of-satellite-data,2,ZMB-data.satellite-giraffe-ai-traceability,,,,,,,2026-08-31,0,One private traceability platform on founder account; no national service,
-data.satellite--meteorological-use-of-satellite-data,2,ZMB-data.satellite-meteorology,,,,,,,2026-08-31,0,satellite products evaluated; operational forecasting use not on record; aviation assessment only launched,
+data.geospatial--agricultural-use-of-satellite-data,2,ZMB-data.geospatial-giraffe-ai-traceability,,,,,,,2026-08-31,0,One private traceability platform on founder account; no national service,
+data.geospatial--meteorological-use-of-satellite-data,2,ZMB-data.geospatial-meteorology,,,,,,,2026-08-31,0,satellite products evaluated; operational forecasting use not on record; aviation assessment only launched,

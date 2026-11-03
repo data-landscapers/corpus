@@ -167,8 +167,8 @@
 | [Censuses and surveys](../../maturity/indicators/data.statistics--censuses-and-surveys.md)<br>*instrument* | unplaced | unplaced |  | no census or survey programme among the rows |
 | [Statistics from administrative data](../../maturity/indicators/data.statistics--statistics-from-administrative-data.md)<br>*system* | unplaced | unplaced |  | rows are operational systems; no statistical product compiled from them on record |
 | [Use of open data](../../maturity/indicators/data.open--use-of-open-data.md)<br>*system* | 2 Nascent | 2 Nascent | **Linked open data portal** (Implemented) — [CERIST (Centre de Recherche sur l'Information Scientifique et Technique), 1 Jan 2016](https://www.cerist.dz/index.php/fr/news/1316-the-first-algerian-linked-open-data-portal.html) | research centre portal; no licence, dataset count or reuse |
-| [Agricultural use of satellite data](../../maturity/indicators/data.satellite--agricultural-use-of-satellite-data.md)<br>*system* | unplaced | unplaced |  | Earth-observation satellites in orbit; no agricultural use on record |
-| [Meteorological use of satellite data](../../maturity/indicators/data.satellite--meteorological-use-of-satellite-data.md)<br>*system* | 2 Nascent | 2 Nascent | **Satellite precipitation estimation** (Implemented) — [Embassy of India, Algiers, 1 May 2026](https://www.indianembassyalgiers.gov.in/page/india-algeria-relations/) | met office research evaluates satellite estimates; forecasting use not on record |
+| [Agricultural use of satellite data](../../maturity/indicators/data.geospatial--agricultural-use-of-satellite-data.md)<br>*system* | unplaced | unplaced |  | Earth-observation satellites in orbit; no agricultural use on record |
+| [Meteorological use of satellite data](../../maturity/indicators/data.geospatial--meteorological-use-of-satellite-data.md)<br>*system* | 2 Nascent | 2 Nascent | **Satellite precipitation estimation** (Implemented) — [Embassy of India, Algiers, 1 May 2026](https://www.indianembassyalgiers.gov.in/page/india-algeria-relations/) | met office research evaluates satellite estimates; forecasting use not on record |
 
 ## Geopolitics
 

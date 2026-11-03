@@ -106,5 +106,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,MOZ-data.stat
 data.statistics--censuses-and-surveys,2,MOZ-data.statistics-fifth-general-population-housing-census,,,,,,,2026-08-31,0,2027 census in piloting; digital system failed testing,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-08-31,0,microdata catalogue does not state administrative-register sources,
 data.open--use-of-open-data,2,MOZ-dpi.exchange-ipdp-infrastructure-data-portal,,,,,,,2026-08-31,0,open licence stated; bulk download or interface not stated,2026-08-08-ipdp-portal-dados-infraestruturas-publicas-mocambique
-data.satellite--agricultural-use-of-satellite-data,3,MOZ-data.satellite-irrigation-performance-tool,,,,,,,2026-08-31,0,satellite irrigation tool handed to the irrigation institute for one scheme; no usage figure,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,drone flood mapping only; no satellite data stream on record,
+data.geospatial--agricultural-use-of-satellite-data,3,MOZ-data.geospatial-irrigation-performance-tool,,,,,,,2026-08-31,0,satellite irrigation tool handed to the irrigation institute for one scheme; no usage figure,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,drone flood mapping only; no satellite data stream on record,

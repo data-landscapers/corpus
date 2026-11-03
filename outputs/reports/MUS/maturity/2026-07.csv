@@ -104,5 +104,5 @@ include.access--inclusion-of-refugees-and-idps,,,,,,,,,2026-07-31,0,Treaty body 
 data.statistics--national-strategy-for-development-of-statistics,1,MUS-data.statistics-strategy,,,,,,,2026-07-31,0,Strategy 2020-2025 expired; no successor on record,
 data.statistics--censuses-and-surveys,3,MUS-data.statistics-surveys,,,,,,,2026-07-31,0,Regular release programme on schedule; no census round results on record,
 data.open--use-of-open-data,2,MUS-data.open-maustats,,,,,,,2026-07-31,0,MauStats platform launched; open licence and reuse not stated,
-data.satellite--agricultural-use-of-satellite-data,2,MUS-data.satellite-agriculture|MUS-data.satellite-satellite,,,,,,,2026-07-31,0,Training and a one-district study; no national monitoring service in operation on record,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,Statutory mandate only; no satellite reception or product on record,
+data.geospatial--agricultural-use-of-satellite-data,2,MUS-data.geospatial-agriculture|MUS-data.geospatial-satellite,,,,,,,2026-07-31,0,Training and a one-district study; no national monitoring service in operation on record,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,Statutory mandate only; no satellite reception or product on record,

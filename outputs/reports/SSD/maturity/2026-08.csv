@@ -99,5 +99,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,SSD-data.stat
 data.statistics--censuses-and-surveys,,,,,,,,,2026-08-31,0,Only a population projection mapped; no census round or survey programme on record here,
 data.statistics--statistics-from-administrative-data,3,SSD-data.statistics-administrative-data,,,,,,,2026-08-31,0,Health statistics abstract from administrative data; health is the only sector,
 data.open--use-of-open-data,2,SSD-data.open-open-data,,,,,,,2026-08-31,0,Statistics portal with download and interface; no open licence stated,
-data.satellite--agricultural-use-of-satellite-data,3,SSD-data.satellite-satellite,,,,,,,2026-08-31,0,Satellite-based food security monitoring in service; produced by external agencies,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Automatic weather stations on WIS; no satellite data stream or reception on record,
+data.geospatial--agricultural-use-of-satellite-data,3,SSD-data.geospatial-satellite,,,,,,,2026-08-31,0,Satellite-based food security monitoring in service; produced by external agencies,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,Automatic weather stations on WIS; no satellite data stream or reception on record,

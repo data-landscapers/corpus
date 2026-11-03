@@ -104,5 +104,5 @@ data.statistics--national-strategy-for-development-of-statistics,,,,,,,,,2026-08
 data.statistics--censuses-and-surveys,3,MAR-data.statistics-censuses-and-surveys,,,,,,,2026-08-31,0,2024 legal population published; disaggregated results and microdata access not on record,
 data.statistics--statistics-from-administrative-data,2,MAR-data.statistics-administrative-data,,,,,,,2026-08-31,0,Agreements announced October 2025; no product compiled on record,
 data.open--use-of-open-data,2,MAR-data.open-open-data-portal,,,,,,,2026-08-31,0,Portal publishing datasets; open licence and reuse not on record,
-data.satellite--agricultural-use-of-satellite-data,2,MAR-data.satellite-earth-observation-data-programme,,,,,,,2026-08-31,0,National EO satellites with agriculture applications named; no crop-monitoring service on record,
-data.satellite--meteorological-use-of-satellite-data,3,MAR-data.satellite-meteorology,,,,,,,2026-08-31,0,Satellite data processed operationally per the met service; WIGOS and early-warning products not on record,
+data.geospatial--agricultural-use-of-satellite-data,2,MAR-data.geospatial-earth-observation-data-programme,,,,,,,2026-08-31,0,National EO satellites with agriculture applications named; no crop-monitoring service on record,
+data.geospatial--meteorological-use-of-satellite-data,3,MAR-data.geospatial-meteorology,,,,,,,2026-08-31,0,Satellite data processed operationally per the met service; WIGOS and early-warning products not on record,

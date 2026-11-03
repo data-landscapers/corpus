@@ -5,14 +5,14 @@
  "window_from": "2023-10-01",
  "story_cap": 20,
  "subjects": [
-  "data.satellite"
+  "data.geospatial"
  ],
- "stage_topic": "data.satellite",
+ "stage_topic": "data.geospatial",
  "redraws": [
-  "data.satellite--meteorological-use-of-satellite-data"
+  "data.geospatial--meteorological-use-of-satellite-data"
  ],
  "carry": [
-  "data.satellite--meteorological-use-of-satellite-data"
+  "data.geospatial--meteorological-use-of-satellite-data"
  ],
  "carry_studies": [],
  "token_ceiling": 12000000,
@@ -52,9 +52,9 @@
   {
    "key": "metsat",
    "label": "Satellite data in weather services",
-   "subject": "data.satellite",
+   "subject": "data.geospatial",
    "text": "Meteorological use of satellite data: satellite data in weather services",
-   "indicator_id": "data.satellite--meteorological-use-of-satellite-data",
+   "indicator_id": "data.geospatial--meteorological-use-of-satellite-data",
    "class": "metsat",
    "norm_short": "The Integrated African Strategy on Meteorology asks for sustained access to geostationary and polar-orbiting satellites, WMO's observing standards and ISO 9001 certification for every national weather service.",
    "criteria": [

@@ -100,5 +100,5 @@ data.statistics--national-strategy-for-development-of-statistics,2,BEN-data.stat
 data.statistics--censuses-and-surveys,3,BEN-data.statistics-household-surveys,,,,,,,2026-07-31,0,living-conditions and time-use surveys published; census results date from 2015,
 data.statistics--statistics-from-administrative-data,,,,,,,,,2026-07-31,0,unplaced: only an external study on the NSO's custodian role,
 data.open--use-of-open-data,2,BEN-data.statistics-uxp-dashboard,,,,,,,2026-07-31,0,exchange usage published online; no open licence on record,
-data.satellite--agricultural-use-of-satellite-data,2,BEN-data.satellite-obsydya,,,,,,,2026-07-31,0,pilot observatory over northern and central Benin,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,unplaced: satellite precipitation use is external research only,
+data.geospatial--agricultural-use-of-satellite-data,2,BEN-data.geospatial-obsydya,,,,,,,2026-07-31,0,pilot observatory over northern and central Benin,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-07-31,0,unplaced: satellite precipitation use is external research only,

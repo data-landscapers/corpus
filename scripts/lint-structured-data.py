@@ -336,7 +336,7 @@ def main() -> int:
         if BLOCK.search(html):
             carries.append(rel)
             findings += check(rel, html)
-        elif DOCUMENT_PAGE.match(rel):
+        elif DOCUMENT_PAGE.match(rel) and 'http-equiv="refresh"' not in html:   # a moved page's stub
             findings.append(f"{rel}: no structured data block")
 
     docs = [r for r in carries if DOCUMENT_PAGE.match(r)]

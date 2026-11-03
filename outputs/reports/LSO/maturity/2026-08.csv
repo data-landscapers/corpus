@@ -104,5 +104,5 @@ data.statistics--national-strategy-for-development-of-statistics,3,LSO-data.stat
 data.statistics--censuses-and-surveys,3,LSO-data.statistics-population-housing-census,,,,,,,2026-08-31,0,2026 census enumeration complete; results not yet published,
 data.statistics--statistics-from-administrative-data,3,LSO-data.statistics-vital-statistics-from-civil-registration,,,,,,,2026-08-31,0,Vital statistics series from civil registration; peer review flags integration gaps elsewhere,
 data.open--use-of-open-data,1,LSO-data.open-portal,,,,,,,2026-08-31,0,No national portal; government's 2024 policy records open data legislation unpromulgated,
-data.satellite--agricultural-use-of-satellite-data,3,LSO-data.satellite-national-land-cover-mapping,,,,,,,2026-08-31,0,Operational Sentinel-2 land cover mapping with public dashboard; no national crop-monitoring schedule,
-data.satellite--meteorological-use-of-satellite-data,3,LSO-data.satellite-meteorological-satellite-products,,,,,,,2026-08-31,0,Satellite data used in nowcasting; observing network fragmented and no GBON on record,
+data.geospatial--agricultural-use-of-satellite-data,3,LSO-data.geospatial-national-land-cover-mapping,,,,,,,2026-08-31,0,Operational Sentinel-2 land cover mapping with public dashboard; no national crop-monitoring schedule,
+data.geospatial--meteorological-use-of-satellite-data,3,LSO-data.geospatial-meteorological-satellite-products,,,,,,,2026-08-31,0,Satellite data used in nowcasting; observing network fragmented and no GBON on record,

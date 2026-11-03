@@ -100,5 +100,5 @@ data.statistics--national-strategy-for-development-of-statistics,,,,,,,,,2026-08
 data.statistics--censuses-and-surveys,3,GNB-data.statistics-rgph4-census,,,,,,,2026-08-31,0,RGPH4 preliminary results released July 2026; full tabulations pending,
 data.statistics--statistics-from-administrative-data,2,GNB-data.statistics-registry-statistics,,,,,,,2026-08-31,0,civil registry staff trained in data skills; no admin-based product on record,
 data.open--use-of-open-data,2,GNB-data.statistics-egdds-nsdp,,,,,,,2026-08-31,0,macroeconomic data published; no open licence stated,
-data.satellite--agricultural-use-of-satellite-data,2,GNB-data.satellite-agriculture,,,,,,,2026-08-31,0,satellite monitoring by FAO and WFP; no national service on record,
-data.satellite--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,CAP alerts and station siting; satellite data use not on record,
+data.geospatial--agricultural-use-of-satellite-data,2,GNB-data.geospatial-agriculture,,,,,,,2026-08-31,0,satellite monitoring by FAO and WFP; no national service on record,
+data.geospatial--meteorological-use-of-satellite-data,,,,,,,,,2026-08-31,0,CAP alerts and station siting; satellite data use not on record,
