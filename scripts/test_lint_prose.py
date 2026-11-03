@@ -68,6 +68,9 @@ check("a figure alone fails",
       "first" in fails("Four in ten courts now sit online, the [ministry](https://x.org) says."),
       True)
 check("a date with no link fails", "first" in fails("In May 2026 the ministry published it."), True)
+check("a dated absence with no link passes",
+      "first" in fails("No Gulf state held a position in the sector as at August 2026."), False)
+check("an undated absence fails", "first" in fails("No Gulf state held a position in the sector."), True)
 check("maturity blocks skip the first test",
       "first" in fails("Older commitments have aged.", "maturity"), False)
 check("bulletin summaries skip the first test",

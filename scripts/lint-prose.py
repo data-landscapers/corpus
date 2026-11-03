@@ -27,6 +27,9 @@ read by a person, at the unit review, and has no check here.
              block under 1,000 (R128).
 - `first`    status only: a paragraph's first sentence carries no link, or no year inside it,
              and is not wholly link text (R129 as reissued). A figure alone does not pass.
+             **A dated absence passes** (housekeeping 49, 2026-11-03): in a block with no link
+             anywhere, a first sentence saying nothing was found and carrying a year, such as *No Gulf state held a position
+             as at August 2026*, has no source to link and says when it was true.
 - `words`    the apparatus words R130 replaced: *Not held*, *Noted, not assessed*, *no X is held*,
              *is not known*, *evidence held*, *nothing held*, *source held*.
 - `mood`     the sheet's mood words and set-ups: *plainly*, *quietly*, *finally*, *strikingly*,
@@ -155,12 +158,19 @@ def first_ok(sentence: str) -> bool:
     return bool(YEAR.search(plain(sentence)))
 
 
+def dated_absence(sentence: str) -> bool:
+    """Housekeeping 49: a sentence saying nothing was found, with the year it was true of."""
+    t = plain(sentence)
+    return bool(YEAR.search(t)) and bool(re.search(r"\b(?:no|none|nothing)\b", t, re.I))
+
+
 def check(paragraphs: list[str], kind: str) -> dict:
     """The counts and the failing codes for one block of paragraphs."""
     sents, firsts = [], 0
+    absence = kind == "status" and not any(LINK.search(p) for p in paragraphs)   # housekeeping 49
     for p in paragraphs:
         ss = sentences(p)
-        if kind == "status" and ss and not first_ok(ss[0]):
+        if kind == "status" and ss and not first_ok(ss[0]) and not (absence and dated_absence(ss[0])):
             firsts += 1
         sents += ss
     lens = [nwords(s) for s in sents]
