@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: NGA
-ledger_rows: 75
+ledger_rows: 77
 not_held: 9
-record: 836623111ee5
+record: 87ec3694ec42
 ---
 
 # News, Oct – Nov 2026
@@ -73,6 +73,28 @@ President Bola Tinubu has approved a renewed National Strategy on Public Service
 **[NCC Launches Internet Governance Working Group to Strengthen Online Safety and AI Accountability](https://ncc.gov.ng/node/7467)** — Nigerian Communications Commission, 18 October 2026
 
 The Nigerian Communications Commission launched an Internet Governance Working Group at its first Internet Governance Symposium, held in Lagos on 15 October 2026. The commission called for wider cooperation on artificial intelligence, online fraud, privacy and child protection, and cited its Internet Code of Practice 2026 and a cyber resilience framework for the sector.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Government Master Plan 2.0</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria delegation to apply lessons from South Korea’s digital governance System](https://www.techreviewafrica.com/news/7850/nigeria-delegation-to-apply-lessons-from-south-koreas-digital-governance-system)** — TechReviewAfrica, 23 October 2026
+
+A Nigerian delegation led by communications minister Bosun Tijani attended a KOICA training programme on digital governance in Seoul, run with Sangmyung University and the Korea Productivity Centre. Speaking for the delegates, data protection commissioner Vincent Olatunji credited KOICA's help with Nigeria's eGovernment Masterplans 1.0 and 2.0.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[상명대, 나이지리아 디지털정부 고위급 공무원 초청연수 성료](https://edu.donga.com/news/articleView.html?idxno=113353)** — E동아 (Donga), 30 October 2026
+
+Study visit 19-26 Oct 2026 for Tijani, NDPC, Galaxy Backbone; Sangmyung consortium has run KOICA project since 2022.
 
 </div>
 
@@ -942,6 +964,14 @@ Nigeria's electoral commission said some registration officers used their own lo
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[INEC blames registration officers, but AI photos are the least of its worries](https://techcabal.com/2026/11/02/inecs-ai-photo-problem-runs-deeper/)** — TechCabal, 2 November 2026
+
+Register up 9m+ to 103m after 1.2m purged; online posting missed 18 Oct statutory deadline; final list due 15 Dec.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1081,6 +1111,20 @@ Nigeria's Adamawa State began its Civil Service Digitisation and Capacity Buildi
 **[FG turns to blended funding for community-owned rural telecom networks](https://businessday.ng/technology/article/fg-turns-to-blended-funding-for-community-owned-rural-telecom-networks/)** — BusinessDay, 5 October 2026
 
 Nigeria plans to finance community-owned telecom towers in unconnected areas through the Universal Service Provision Fund for telecom equipment, the Rural Electrification Agency for solar power and state governments for land and rights of way, a resolution of the communications regulator's investment forum. Community cooperatives would own the sites. A rollout of about 3,700 towers is due to start in October, with 200 by December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AgroPass farmer platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FCMB and Mastercard Launch AgroPass to Expand Finance Access for Nigerian Farmers](https://techafricanews.com/2026/11/02/fcmb-mastercard-launch-agropass-expand-finance-access-nigerian-farmers/)** — Tech Africa News, 2 November 2026
+
+Community Pass platform links smallholders to inputs, buyers and lenders; FCMB cites ₦364.6bn farm lending last year.
 
 </div>
 
