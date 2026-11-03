@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "5",
-   "roll": "inservice",
-   "checked": "open",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "5",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-003",
+      "gaps": "",
+      "note": "Reassessed 2026-11-03: ZEC uses the Registrar-General's population database to clean the roll, the justice minister said in 2026.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

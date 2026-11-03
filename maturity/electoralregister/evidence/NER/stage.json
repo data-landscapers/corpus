@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the voters' roll is held digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source since October 2023 says how the voters' roll is held; the facts held are older.",
+      "note": "Reassessed 2026-11-03: the facts are a 2020 audit and a 2019 report on the biometric file, outside the three years.",
+      "as_at": "2026-11-03"
     }
   ]
 }

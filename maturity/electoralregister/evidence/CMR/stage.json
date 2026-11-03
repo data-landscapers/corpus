@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "3",
-   "roll": "inservice",
-   "checked": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-004;CMR-001",
-   "gaps": "No source found since October 2023 says voters could check the roll.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "3",
+      "roll": "inservice",
+      "checked": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001;CMR-004",
+      "gaps": "No source since October 2023 says voters could check the roll.",
+      "note": "Reassessed 2026-11-03: ELECAM keeps a biometric file of about 8.2 million voters and deduplicated it in 2025. Nothing says voters could check it.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

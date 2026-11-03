@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-001",
-      "gaps": "No source found since October 2023 says: is the roll held digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source since October 2023 says a digital or biometric roll is in service.",
+      "note": "Reassessed 2026-11-03: operators were trained on biometric kits for the 2025 revision. Nothing says the revised roll is held digitally.",
+      "as_at": "2026-11-03"
     }
   ]
 }

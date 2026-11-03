@@ -2,12 +2,12 @@
 
 ## Electoral register
 
-**Digital roll.** [EBC communications officer Mbonisi Bhembe said eligible Imbali and the public can now register to vote at Mbangweni, and that the registration process uses biometric technology to capture information](<https://eswatinipositivenews.online/imbali-register-to-vote-ahead-of-elections-at-mbangweni/>). [EBC Deputy Chairperson Sipho Tembe said the EBC is rolling out Continuous Voter Registration using computers and biometric systems ahead of the 2028 elections, with the biometric system intended to prevent duplicate registration](<https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/>). A later answer places the country above that step.
+**Digital roll.** [The EBC said in September 2026 that it is rolling out continuous voter registration](<https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/>). [It uses computers and biometric systems ahead of the 2028 elections](<https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/>). [The biometrics are meant to prevent duplicate registration](<https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/>). [Registration at Mbangweni uses biometric technology, the EBC said](<https://eswatinipositivenews.online/imbali-register-to-vote-ahead-of-elections-at-mbangweni/>).
 
-**Open for checking.** [The EBC says a preliminary voter's register is sent to the chiefdoms for validation, where registered voters can verify their details and a copy of the register is kept for a specific period](<https://www.elections.org.sz/2023/electoral-process/>).
+**Open for checking.** [The EBC sends a preliminary voters' register to the chiefdoms for validation](<https://www.elections.org.sz/2023/electoral-process/>). [Registered voters there can verify their details](<https://www.elections.org.sz/2023/electoral-process/>). [A copy of the register is kept for a set period](<https://www.elections.org.sz/2023/electoral-process/>).
 
-**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.elections.org.sz/2023/electoral-process/>).
+**Linked to ID.** No source since October 2023 says the roll is drawn from the national ID, population or civil register. None says entries are checked against any of them. [The EBC said in 2026 that its biometric system is meant to stop duplicate registration](<https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source since October 2023 says the roll is drawn from or checked against the ID register.

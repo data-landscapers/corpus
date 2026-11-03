@@ -2,12 +2,12 @@
 
 ## Electoral register
 
-**Digital roll.** [The Transition government's PMO/PGE-R programme says the Government will continue the digitalisation of the electoral roll and of the election process, including digital security of the roll](<http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Digital roll.** [The Transition government's programme of November 2025 says it will continue digitalising the electoral roll](<http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf>). [It covers the election process and the roll's digital security](<http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf>). [The programme is the PMO/PGE-R of the Transition government](<http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf>).
 
-**Open for checking.** No source found since October 2023 says voters could check the roll. The nearest held fact: [the one given above](<http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf>).
+**Open for checking.** No source since October 2023 says the roll was published. None says voters could check their entries online, by text message or at centres. [The 2025 programme names digital security of the roll as a task](<http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf>). [It treats the roll and the election process together](<http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf>).
 
-**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf>).
+**Linked to ID.** No source since October 2023 says the roll is drawn from the national ID, population or civil register. None says entries are checked against any of them. [The programme sets out the digitalisation of the roll as continuing work](<http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is the roll held digitally.
+***Not found***. No source since October 2023 says a digital roll is in service.

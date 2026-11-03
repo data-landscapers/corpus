@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "4",
-   "roll": "inservice",
-   "checked": "open",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-004;ZMB-006",
-   "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "4",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001;ZMB-002",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register.",
+      "note": "Reassessed 2026-11-03: voters could inspect the provisional register online, by USSD and at polling stations in 2026. Nothing links it to the ID register.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

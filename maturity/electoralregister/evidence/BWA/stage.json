@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "2",
-   "roll": "underway",
-   "checked": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-001;BWA-002",
-   "gaps": "No source found since October 2023 says: is the roll held digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "2",
+      "roll": "underway",
+      "checked": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-002;BWA-001",
+      "gaps": "No source since October 2023 says a digital or biometric roll is in service.",
+      "note": "Reassessed 2026-11-03: money was appropriated in 2026 for electronic voter registration systems. Nothing says one is in service.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

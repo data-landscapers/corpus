@@ -2,12 +2,12 @@
 
 ## Electoral register
 
-**Digital roll.** [The Electoral Commission of Namibia says voter data captured with biometric Voter Registration Kits is uploaded to a central server, checked for duplicate fingerprints and ID numbers, and stored on a voters roll](<https://www.ecn.na/faq/>). [The Electoral Commission of Namibia's chief electoral officer said registration data would be uploaded to the central server, followed by the Automatic Fingerprint Identification System (AFIS) process and production of the Provisional Voters' Register, after 1,467,604 voters registered by 1 August 2024](<https://www.namibian.com.na/well-done-majority-of-namibians-registered-to-vote/>).
+**Digital roll.** [The Electoral Commission of Namibia says biometric registration kits capture voter data](<https://www.ecn.na/faq/>). [The data are uploaded to a central server and checked for duplicate fingerprints and ID numbers](<https://www.ecn.na/faq/>). [They are then stored on a voters' roll](<https://www.ecn.na/faq/>). [By 1 August 2024, 1,467,604 voters had registered](<https://www.namibian.com.na/well-done-majority-of-namibians-registered-to-vote/>).
 
-**Open for checking.** No source found since October 2023 says voters could check the roll. The nearest held fact: [the one given above](<https://www.ecn.na/faq/>).
+**Open for checking.** No source since October 2023 says the roll was published. None says voters could check their entries online, by text message or at centres. [The chief electoral officer said in 2024 that a Provisional Voters' Register would follow](<https://www.namibian.com.na/well-done-majority-of-namibians-registered-to-vote/>).
 
-**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.ecn.na/faq/>).
+**Linked to ID.** No source since October 2023 says the roll is drawn from the national ID, population or civil register. None says entries are checked against any of them. [The 2024 duplicate check compares ID numbers within the roll](<https://www.ecn.na/faq/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says voters could check the roll.
+***Not found***. No source since October 2023 says voters could check the roll.

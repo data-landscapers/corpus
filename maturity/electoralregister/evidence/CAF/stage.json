@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "4",
-   "roll": "inservice",
-   "checked": "open",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CAF-001;CAF-003",
-   "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "4",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001;CAF-005",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register.",
+      "note": "Reassessed 2026-11-03: the ANE published the definitive list in August 2025 from tablets feeding the electoral file. Nothing links it to the ID register.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

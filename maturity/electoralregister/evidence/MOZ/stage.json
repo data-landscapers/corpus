@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-003",
-      "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MOZ-003;MOZ-002",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register.",
+      "note": "Reassessed 2026-11-03: the biometric register was displayed for scrutiny in 2024. Nothing links it to the ID register.",
+      "as_at": "2026-11-03"
     }
   ]
 }

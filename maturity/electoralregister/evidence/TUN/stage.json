@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-001",
-      "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register.",
+      "note": "Reassessed 2026-11-03: voters could check their registration by SMS and at centres from November 2023. Looking it up by ID card number is not a link to the register.",
+      "as_at": "2026-11-03"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "4",
+      "stage": "5",
       "roll": "inservice",
       "checked": "open",
-      "linked": "",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "SYC-003",
-      "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SYC-002",
+      "gaps": "",
+      "note": "Reassessed 2026-11-03, 4 to 5: the Commission's 2026 FAQ says it removes the dead from the register on the monthly civil status list, a check against the civil register as for Benin. The FAQ is dated 2026 and was published by the as-at.",
+      "as_at": "2026-11-03"
     }
   ]
 }

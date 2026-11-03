@@ -2,12 +2,12 @@
 
 ## Electoral register
 
-**Digital roll.** [The paper says Liberia's NEC uses a biometric voter registration system, with 2,471,617 registered voters in 2023](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Digital roll.** [A 2023 paper says Liberia's National Elections Commission uses a biometric voter registration system](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>). [It gives 2,471,617 registered voters in 2023](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>). [The NEC is Liberia's National Elections Commission, which runs the biometric system](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>). [The biometric system holds the voters' roll](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>).
 
-**Open for checking.** No source found since October 2023 says voters could check the roll. The nearest held fact: [the one given above](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>).
+**Open for checking.** No source since October 2023 says the roll was published. None says voters could check their entries online, by text message or at centres. [The 2023 paper counts the registered voters in the biometric system](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>). [The paper's figure of 2,471,617 voters is for 2023](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>).
 
-**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>).
+**Linked to ID.** No source since October 2023 says the roll is drawn from the national ID, population or civil register. None says entries are checked against any of them. [The same paper describes the NEC's biometric registration](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>).
 
 ***Also on file***. [National Identification Registry (NIR)](<https://doi.org/10.22271/allresearch.2025.v11.i6d.12680>).
 
-***Not found***. No source found since October 2023 says voters could check the roll.
+***Not found***. No source since October 2023 says voters could check the roll.

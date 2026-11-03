@@ -2,12 +2,12 @@
 
 ## Electoral register
 
-**Digital roll.** [Somalia's National Electoral Commission chair Abdikarim Ahmed Hassan unveiled new digital voter registration equipment in Mogadishu, to be tested at the 30 June 2025 local government elections, with public voter registration as the first phase](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Digital roll.** [The National Electoral Commission chair unveiled digital voter registration equipment in Mogadishu in March 2025](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>). [It was to be tested at the local elections of 30 June 2025](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>). [Public voter registration was the first phase](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>). [The chair is Abdikarim Ahmed Hassan](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>).
 
-**Open for checking.** No source found since October 2023 says voters could check the roll. The nearest held fact: [the one given above](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>).
+**Open for checking.** No source since October 2023 says the roll was published. None says voters could check their entries online, by text message or at centres. [The 2025 equipment was for registering voters](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>). [The equipment was shown in Mogadishu](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>).
 
-**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>).
+**Linked to ID.** No source since October 2023 says the roll is drawn from the national ID, population or civil register. None says entries are checked against any of them. [The Commission unveiled the equipment ahead of the 2025 local elections](<https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is the roll held digitally.
+***Not found***. No source since October 2023 says a digital roll is in service.

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "AGO-001;AGO-002",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-03: a 2026 report says the roll is derived from the civil identity database, and the justice minister says the two databases exchange data to update it.",
+      "as_at": "2026-11-03"
     }
   ]
 }

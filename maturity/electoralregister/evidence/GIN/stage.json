@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "5",
-   "roll": "inservice",
-   "checked": "open",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "5",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-003;GIN-005",
+      "gaps": "",
+      "note": "Reassessed 2026-11-03: a January 2026 convention makes the population register the single official source of the biometric voter lists, and the 2025 civil registration drive built it to extract the file.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

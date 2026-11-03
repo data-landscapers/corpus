@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "3",
-   "roll": "inservice",
-   "checked": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-002",
-   "gaps": "No source found since October 2023 says voters could check the roll.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "3",
+      "roll": "inservice",
+      "checked": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-002;NAM-001",
+      "gaps": "No source since October 2023 says voters could check the roll.",
+      "note": "Reassessed 2026-11-03: the commission stores biometric registrations on a central voters' roll, deduplicated in 2024. Nothing says voters could check it.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

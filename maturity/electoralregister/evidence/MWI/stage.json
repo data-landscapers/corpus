@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "5",
+      "stage": "4",
       "roll": "inservice",
       "checked": "open",
-      "linked": "linked",
+      "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-002",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "MWI-001",
+      "gaps": "The national ID is the only proof of identity for registration; no source says the roll is drawn from or checked against the ID register.",
+      "note": "Reassessed 2026-11-03, 5 to 4: the law lets voters inspect their entries at registration centres. The ID card as the only proof of identity is not a link to the register, as for Congo, Madagascar and Senegal.",
+      "as_at": "2026-11-03"
     }
   ]
 }

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COG-003",
-      "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register. A 2025 source says the revision was done by hand.",
+      "note": "Reassessed 2026-11-03: voters could check the lists at town halls in 2025, and a later yes answers the earlier questions. The same source says the revision was manual, a reading put to Bill.",
+      "as_at": "2026-11-03"
     }
   ]
 }

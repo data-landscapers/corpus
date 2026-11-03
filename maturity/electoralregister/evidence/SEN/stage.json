@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "2",
-   "roll": "underway",
-   "checked": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source found since October 2023 says: is the roll held digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "3",
+      "roll": "inservice",
+      "checked": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-003;SEN-001",
+      "gaps": "No source since October 2023 says voters could check the roll. An ECOWAS ID card required to register is not a link to the ID register.",
+      "note": "Reassessed 2026-11-03, 2 to 3: the 2025 biometric drive added voters to an electoral database already holding 7.3 million, so the roll is in service. The ID card required to register is not a link, as the first pass ruled.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

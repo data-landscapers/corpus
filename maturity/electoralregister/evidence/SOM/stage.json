@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "2",
-   "roll": "underway",
-   "checked": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found since October 2023 says: is the roll held digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "2",
+      "roll": "underway",
+      "checked": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source since October 2023 says a digital or biometric roll is in service.",
+      "note": "Reassessed 2026-11-03: digital registration equipment was unveiled in 2025 for testing. Nothing says a digital roll is in service.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

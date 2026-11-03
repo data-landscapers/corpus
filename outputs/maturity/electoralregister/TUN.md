@@ -2,12 +2,12 @@
 
 ## Electoral register
 
-**Digital roll.** No source found says a digital voters' roll is under way or in service. The nearest held fact: [The ISIE says that from 13 November 2023 voters can check their registration at voting centres and constituencies via service 195 with the national ID card number, and by SMS, with 1.406 million Tunisians having used SMS to check their polling place](<https://www.leconomistemaghrebin.com/2023/11/13/isie-debut-derniere-periode-mise-jour/>). A later answer places the country above that step.
+**Digital roll.** No source since October 2023 says a digital or biometric voters' roll is under way. None says one is in service. [Organic law 2014-16 has the electoral body publish the electoral lists on its website](<https://legislation-securite.tn/latest-laws/loi-organique-n-2014-16-du-26-mai-2014-relative-aux-elections-et-aux-referendums/>).
 
-**Open for checking.** [The ISIE says that from 13 November 2023 voters can check their registration at voting centres and constituencies via service 195 with the national ID card number, and by SMS, with 1.406 million Tunisians having used SMS to check their polling place](<https://www.leconomistemaghrebin.com/2023/11/13/isie-debut-derniere-periode-mise-jour/>).
+**Open for checking.** [From 13 November 2023, voters could check their registration at voting centres and constituencies](<https://www.leconomistemaghrebin.com/2023/11/13/isie-debut-derniere-periode-mise-jour/>). [They could use service 195 with their national ID card number, or SMS](<https://www.leconomistemaghrebin.com/2023/11/13/isie-debut-derniere-periode-mise-jour/>). [The ISIE said 1.406 million Tunisians used SMS to check their polling place](<https://www.leconomistemaghrebin.com/2023/11/13/isie-debut-derniere-periode-mise-jour/>).
 
-**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.leconomistemaghrebin.com/2023/11/13/isie-debut-derniere-periode-mise-jour/>).
+**Linked to ID.** No source since October 2023 says the roll is drawn from the national ID, population or civil register. None says entries are checked against any of them. [The 2023 checks by phone and SMS ask for the national ID card number](<https://www.leconomistemaghrebin.com/2023/11/13/isie-debut-derniere-periode-mise-jour/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source since October 2023 says the roll is drawn from or checked against the ID register.

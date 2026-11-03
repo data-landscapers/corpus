@@ -22,3 +22,57 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TCD,dpi.registry--electoral-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,TGO,dpi.registry--electoral-register,review,no evidence,2,TGO-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,TUN,dpi.registry--electoral-register,review,no evidence,4,TUN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-11-03,AGO,dpi.registry--electoral-register,review,5,5,AGO-001;AGO-002,"Rebuild: a 2026 report says the roll is derived from the civil identity database, and the justice minister says the two databases exchange data to update it."
+2026-11-03,BDI,dpi.registry--electoral-register,review,3,3,BDI-002,Rebuild: CENI's president spoke in 2026 of voters registered in the electoral database. Nothing says voters could check it.
+2026-11-03,BEN,dpi.registry--electoral-register,review,5,5,BEN-006;BEN-008,"Rebuild: ANIP says the electoral list is extracted from the civil register that also issues ID cards, and a death in the RNPP removes the voter."
+2026-11-03,BFA,dpi.registry--electoral-register,review,unplaced,unplaced,,"Rebuild: the only fact is a 2020 audit of the biometric file, outside the three years."
+2026-11-03,BWA,dpi.registry--electoral-register,review,2,2,BWA-002;BWA-001,Rebuild: money was appropriated in 2026 for electronic voter registration systems. Nothing says one is in service.
+2026-11-03,CAF,dpi.registry--electoral-register,review,4,4,CAF-001;CAF-005,Rebuild: the ANE published the definitive list in August 2025 from tablets feeding the electoral file. Nothing links it to the ID register.
+2026-11-03,CIV,dpi.registry--electoral-register,review,4,4,CIV-002;CIV-001,Rebuild: the biometric roll could be checked online and by SMS from June 2025. Nothing links it to the ID register.
+2026-11-03,CMR,dpi.registry--electoral-register,review,3,3,CMR-001;CMR-004,Rebuild: ELECAM keeps a biometric file of about 8.2 million voters and deduplicated it in 2025. Nothing says voters could check it.
+2026-11-03,COD,dpi.registry--electoral-register,review,3,3,COD-001;COD-002,Rebuild: CENI holds the biometric file of voters enrolled in 2022 and passed it to ONIP in 2026. Nothing says voters could check it.
+2026-11-03,COG,dpi.registry--electoral-register,review,4,4,COG-003,"Rebuild: voters could check the lists at town halls in 2025, and a later yes answers the earlier questions. The same source says the revision was manual, a reading put to Bill."
+2026-11-03,COM,dpi.registry--electoral-register,review,4,4,COM-002,"Rebuild: lists were posted at polling stations in January 2025, and a later yes answers the earlier questions. The biometric file is held only from 2015."
+2026-11-03,CPV,dpi.registry--electoral-register,review,5,4,CPV-002,"Rebuild, 5 to 4: the roll was open for checking in March 2026. The ID link held is a project page for diaspora registration, which does not carry the national roll."
+2026-11-03,DJI,dpi.registry--electoral-register,review,unplaced,unplaced,,"Rebuild: the only fact is a 2016 decree on consulting the list, outside the three years."
+2026-11-03,DZA,dpi.registry--electoral-register,review,2,2,DZA-001,Rebuild: ANIE piloted a digital platform for revising the lists in Oran in 2025. Nothing says it is in service nationwide.
+2026-11-03,EGY,dpi.registry--electoral-register,review,5,5,EGY-003,Rebuild: the National Elections Authority says its 2025 update linked voter entries to the national number.
+2026-11-03,ERI,dpi.registry--electoral-register,review,no evidence,no evidence,,Rebuild: nothing held.
+2026-11-03,ETH,dpi.registry--electoral-register,review,5,3,ETH-001,"Rebuild, 5 to 3: NEBE's Mirchaye system holds the roll from January 2026. Fayda data are used only for self-registration at selected stations, so the roll is not shown drawn from the ID register."
+2026-11-03,GAB,dpi.registry--electoral-register,review,4,4,GAB-003,Rebuild: voters could check their entry online from September 2025. The ID number used to look it up is not a link to the register.
+2026-11-03,GHA,dpi.registry--electoral-register,review,4,4,GHA-001;GHA-002,Rebuild: the EC exhibited the biometric register in 2026. Nothing links it to the ID register.
+2026-11-03,GIN,dpi.registry--electoral-register,review,5,5,GIN-003;GIN-005,"Rebuild: a January 2026 convention makes the population register the single official source of the biometric voter lists, and the 2025 civil registration drive built it to extract the file."
+2026-11-03,GMB,dpi.registry--electoral-register,review,3,3,GMB-001,Rebuild: the IEC's 2026 supplementary registration ran on a biometric system. Nothing says voters could check the roll.
+2026-11-03,GNB,dpi.registry--electoral-register,review,3,3,GNB-001;GNB-002,Rebuild: GTAPE handed over the 2026 roll in electronic form from its databases. Nothing says voters could check it.
+2026-11-03,GNQ,dpi.registry--electoral-register,review,no evidence,no evidence,,Rebuild: nothing held.
+2026-11-03,KEN,dpi.registry--electoral-register,review,4,4,KEN-001;KEN-002,"Rebuild: voters could inspect their records at constituency offices from 2025. The check against ID records is a 2022 audit, outside the three years."
+2026-11-03,LBR,dpi.registry--electoral-register,review,3,3,LBR-001,Rebuild: a 2023 paper says the NEC uses biometric voter registration. Nothing says voters could check the roll.
+2026-11-03,LBY,dpi.registry--electoral-register,review,2,2,LBY-001,Rebuild: HNEC piloted biometric voter verification in four municipalities in 2024. Nothing says a digital roll is in service.
+2026-11-03,LSO,dpi.registry--electoral-register,review,5,3,LSO-006,"Rebuild, 5 to 3: the IEC registered voters online and at its offices in its 2024 re-registration. An ID card as the sole identification is not a link to the register, as for Congo, Madagascar and Senegal."
+2026-11-03,MAR,dpi.registry--electoral-register,review,4,4,MAR-001,Rebuild: voters could view their entries online in 2026. Looking an entry up by ID card number is not a link to the register.
+2026-11-03,MDG,dpi.registry--electoral-register,review,2,2,MDG-002,"Rebuild: the 2025 government programme says it will continue digitalising the roll. A programme is intent, so it does not reach 3."
+2026-11-03,MLI,dpi.registry--electoral-register,review,3,3,MLI-001,Rebuild: the AIGE manages the electoral file with its Elector software in 2026. Nothing says voters could check it.
+2026-11-03,MOZ,dpi.registry--electoral-register,review,4,4,MOZ-003;MOZ-002,Rebuild: the biometric register was displayed for scrutiny in 2024. Nothing links it to the ID register.
+2026-11-03,MRT,dpi.registry--electoral-register,review,no evidence,no evidence,,Rebuild: nothing held.
+2026-11-03,MUS,dpi.registry--electoral-register,review,4,4,MUS-001,"Rebuild: voters could check the register online, by SMS and at centres in 2024. Looking it up by ID number is not a link to the register."
+2026-11-03,MWI,dpi.registry--electoral-register,review,5,4,MWI-001,"Rebuild, 5 to 4: the law lets voters inspect their entries at registration centres. The ID card as the only proof of identity is not a link to the register, as for Congo, Madagascar and Senegal."
+2026-11-03,NAM,dpi.registry--electoral-register,review,3,3,NAM-002;NAM-001,"Rebuild: the commission stores biometric registrations on a central voters' roll, deduplicated in 2024. Nothing says voters could check it."
+2026-11-03,NER,dpi.registry--electoral-register,review,unplaced,unplaced,,"Rebuild: the facts are a 2020 audit and a 2019 report on the biometric file, outside the three years."
+2026-11-03,NGA,dpi.registry--electoral-register,review,5,5,NGA-003,Rebuild: INEC used National Identification Numbers from NIMC to audit and clean the register in 2026.
+2026-11-03,RWA,dpi.registry--electoral-register,review,5,5,RWA-003,"Rebuild: every national ID holder aged 18 or over is entered on the voters' list automatically, a 2024 source says."
+2026-11-03,SDN,dpi.registry--electoral-register,review,no evidence,no evidence,,Rebuild: nothing held.
+2026-11-03,SEN,dpi.registry--electoral-register,review,2,3,SEN-003;SEN-001,"Rebuild, 2 to 3: the 2025 biometric drive added voters to an electoral database already holding 7.3 million, so the roll is in service. The ID card required to register is not a link, as the first pass ruled."
+2026-11-03,SLE,dpi.registry--electoral-register,review,unplaced,unplaced,,"Rebuild: the facts on the civil-register link and the digital roll date from 2022 and June 2023, outside the three years."
+2026-11-03,SOM,dpi.registry--electoral-register,review,2,2,SOM-001,Rebuild: digital registration equipment was unveiled in 2025 for testing. Nothing says a digital roll is in service.
+2026-11-03,SSD,dpi.registry--electoral-register,review,1,1,SSD-001,"Rebuild: the election commission said in 2026 that registration will be manual, ruling out biometrics. Typing the records into computers later is a plan, not a digital roll."
+2026-11-03,STP,dpi.registry--electoral-register,review,5,5,STP-003;STP-008,"Rebuild: the 2026 roll was compiled automatically from civil registry data, under a law in force from March 2026."
+2026-11-03,SWZ,dpi.registry--electoral-register,review,4,4,SWZ-003;SWZ-002,Rebuild: the preliminary register went to chiefdoms for voters to verify in 2026. Nothing links it to the ID register.
+2026-11-03,SYC,dpi.registry--electoral-register,review,4,5,SYC-002,"Rebuild, 4 to 5: the Commission's 2026 FAQ says it removes the dead from the register on the monthly civil status list, a check against the civil register as for Benin. The FAQ is dated 2026 and was published by the as-at."
+2026-11-03,TCD,dpi.registry--electoral-register,review,unplaced,unplaced,,"Rebuild: the only fact is a biometric revision of July 2023, outside the three years."
+2026-11-03,TGO,dpi.registry--electoral-register,review,2,2,TGO-001,Rebuild: operators were trained on biometric kits for the 2025 revision. Nothing says the revised roll is held digitally.
+2026-11-03,TUN,dpi.registry--electoral-register,review,4,4,TUN-001,Rebuild: voters could check their registration by SMS and at centres from November 2023. Looking it up by ID card number is not a link to the register.
+2026-11-03,TZA,dpi.registry--electoral-register,review,4,4,TZA-001,Rebuild: the register was made public at each stage of its 2025 update. Nothing links it to the ID register.
+2026-11-03,UGA,dpi.registry--electoral-register,review,4,4,UGA-002;UGA-001,Rebuild: the register was displayed in 2025 and can be checked online. Nothing links it to the ID register.
+2026-11-03,ZAF,dpi.registry--electoral-register,review,5,5,ZAF-002,"Rebuild: Home Affairs and the IEC share an interface that checks registration against the National Population Register, the minister said in 2026."
+2026-11-03,ZMB,dpi.registry--electoral-register,review,4,4,ZMB-001;ZMB-002,"Rebuild: voters could inspect the provisional register online, by USSD and at polling stations in 2026. Nothing links it to the ID register."
+2026-11-03,ZWE,dpi.registry--electoral-register,review,5,5,ZWE-003,"Rebuild: ZEC uses the Registrar-General's population database to clean the roll, the justice minister said in 2026."

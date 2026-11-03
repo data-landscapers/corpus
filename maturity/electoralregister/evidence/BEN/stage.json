@@ -9,10 +9,10 @@
       "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-003;BEN-006",
+      "stage_sources": "BEN-006;BEN-008",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-17"
+      "note": "Reassessed 2026-11-03: ANIP says the electoral list is extracted from the civil register that also issues ID cards, and a death in the RNPP removes the voter.",
+      "as_at": "2026-11-03"
     }
   ]
 }

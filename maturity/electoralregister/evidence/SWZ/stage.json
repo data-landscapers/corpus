@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "4",
-   "roll": "inservice",
-   "checked": "open",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-003",
-   "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "4",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-003;SWZ-002",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register.",
+      "note": "Reassessed 2026-11-03: the preliminary register went to chiefdoms for voters to verify in 2026. Nothing links it to the ID register.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

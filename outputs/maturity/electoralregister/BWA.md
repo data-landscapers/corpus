@@ -2,12 +2,12 @@
 
 ## Electoral register
 
-**Digital roll.** [The IEC, per its Secretary Jefferson Siamisang to the Public Accounts Committee, is rolling out technology-driven reforms to modernise voter registration ahead of the 2029 General Election](<https://www.mmegi.bw/news/iec-pushes-for-digital-election-reforms/news>). [The Ministry of Finance's FY2026/27 Committee of Supply speech appropriates BWP 50,000,000 to the Independent Electoral Commission for installation of electronic voter registration systems, which may straddle two or three financial years](<https://botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/IEC.pdf>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Digital roll.** [The 2026/27 budget gives the Independent Electoral Commission BWP 50 million for electronic voter registration systems](<https://botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/IEC.pdf>). [The work may span two or three financial years](<https://botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/IEC.pdf>). [The IEC said in June 2026 it is modernising registration before the 2029 election](<https://www.mmegi.bw/news/iec-pushes-for-digital-election-reforms/news>).
 
-**Open for checking.** No source found since October 2023 says voters could check the roll. The nearest held fact: [the one given above](<https://www.mmegi.bw/news/iec-pushes-for-digital-election-reforms/news>).
+**Open for checking.** No source since October 2023 says the roll was published. None says voters could check their entries online, by text message or at centres. [The IEC described its registration reforms to the Public Accounts Committee in 2026](<https://www.mmegi.bw/news/iec-pushes-for-digital-election-reforms/news>).
 
-**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.mmegi.bw/news/iec-pushes-for-digital-election-reforms/news>).
+**Linked to ID.** No source since October 2023 says the roll is drawn from the national ID, population or civil register. None says entries are checked against any of them. [The 2026 budget line is for installing electronic registration systems](<https://botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/IEC.pdf>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is the roll held digitally.
+***Not found***. No source since October 2023 says a digital roll is in service.

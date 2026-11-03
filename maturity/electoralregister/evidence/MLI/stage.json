@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "3",
-   "roll": "inservice",
-   "checked": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-001",
-   "gaps": "No source found since October 2023 says voters could check the roll.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "3",
+      "roll": "inservice",
+      "checked": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001",
+      "gaps": "No source since October 2023 says voters could check the roll.",
+      "note": "Reassessed 2026-11-03: the AIGE manages the electoral file with its Elector software in 2026. Nothing says voters could check it.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

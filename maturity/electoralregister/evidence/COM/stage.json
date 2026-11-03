@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COM-002",
-      "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register.",
+      "note": "Reassessed 2026-11-03: lists were posted at polling stations in January 2025, and a later yes answers the earlier questions. The biometric file is held only from 2015.",
+      "as_at": "2026-11-03"
     }
   ]
 }

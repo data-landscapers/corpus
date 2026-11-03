@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "5",
-   "roll": "inservice",
-   "checked": "open",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "5",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-003",
+      "gaps": "",
+      "note": "Reassessed 2026-11-03: INEC used National Identification Numbers from NIMC to audit and clean the register in 2026.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

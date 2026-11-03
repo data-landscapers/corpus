@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SSD-001",
-      "gaps": "No source found since October 2023 says: is a digital voters' roll under way.",
-      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source says a digital roll is under way; records are to be typed into computers later.",
+      "note": "Reassessed 2026-11-03: the election commission said in 2026 that registration will be manual, ruling out biometrics. Typing the records into computers later is a plan, not a digital roll.",
+      "as_at": "2026-11-03"
     }
   ]
 }

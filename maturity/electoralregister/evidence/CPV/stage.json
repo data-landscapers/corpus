@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "5",
-   "roll": "inservice",
-   "checked": "open",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "4",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-002",
+      "gaps": "The ID link held is the consular portal's, for voters abroad; no source says the roll as a whole is drawn from or checked against the ID register.",
+      "note": "Reassessed 2026-11-03, 5 to 4: the roll was open for checking in March 2026. The ID link held is a project page for diaspora registration, which does not carry the national roll.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

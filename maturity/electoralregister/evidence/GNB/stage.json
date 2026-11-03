@@ -1,17 +1,18 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "3",
-   "roll": "inservice",
-   "checked": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNB-001;GNB-002",
-   "gaps": "No source found since October 2023 says voters could check the roll.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "3",
+      "roll": "inservice",
+      "checked": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-001;GNB-002",
+      "gaps": "No source since October 2023 says voters could check the roll.",
+      "note": "Reassessed 2026-11-03: GTAPE handed over the 2026 roll in electronic form from its databases. Nothing says voters could check it.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

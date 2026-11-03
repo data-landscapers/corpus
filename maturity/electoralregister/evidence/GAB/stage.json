@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "4",
-   "roll": "inservice",
-   "checked": "open",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-003",
-   "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "4",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-003",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register.",
+      "note": "Reassessed 2026-11-03: voters could check their entry online from September 2025. The ID number used to look it up is not a link to the register.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

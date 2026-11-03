@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "4",
-   "roll": "inservice",
-   "checked": "open",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "4",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001;KEN-002",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register. The audit against registration records is from 2022, before the window.",
+      "note": "Reassessed 2026-11-03: voters could inspect their records at constituency offices from 2025. The check against ID records is a 2022 audit, outside the three years.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

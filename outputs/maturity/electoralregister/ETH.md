@@ -2,12 +2,12 @@
 
 ## Electoral register
 
-**Digital roll.** [NEBE inaugurated the Mirchaye voter registration system on 5 January 2026, with voters registered by officers on Board tablets, by web self-registration or by mobile app at selected polling stations, and by manual registers at the remaining stations](<https://nebe.org.et/en/node/1222>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Digital roll.** [NEBE launched its Mirchaye voter registration system on 5 January 2026](<https://nebe.org.et/en/node/1222>). [At selected polling stations, officers register voters on the Board's tablets](<https://nebe.org.et/en/node/1222>). [Voters there can also register themselves on the web or by mobile app](<https://nebe.org.et/en/node/1222>). [The remaining polling stations keep manual registers](<https://nebe.org.et/en/node/1222>).
 
-**Open for checking.** No source found since October 2023 says voters could check the roll. The nearest held fact: [NEBE says web and mobile self-registration in the Mirchaye system uses Fayda (National ID) data](<https://nebe.org.et/en/node/1222>).
+**Open for checking.** No source since October 2023 says the roll was published. None says voters could check their entries online, by text message or at centres. [NEBE's launch notice sets out four ways to register for the 2026 general election](<https://nebe.org.et/en/node/1222>). [It says that election will not use e-voting](<https://nebe.org.et/en/node/1222>).
 
-**Linked to ID.** [NEBE says web and mobile self-registration in the Mirchaye system uses Fayda (National ID) data](<https://nebe.org.et/en/node/1222>).
+**Linked to ID.** [Self-registration on the web and by app uses data from Fayda, the national ID](<https://nebe.org.et/en/node/1222>). [Those channels run only at selected polling stations](<https://nebe.org.et/en/node/1222>). [Elsewhere officers register voters on paper](<https://nebe.org.et/en/node/1222>).
 
 ***Also on file***. [Fayda](<https://nebe.org.et/en/node/1222>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source says voters could check the roll. Fayda data feed only self-registration, at selected stations.

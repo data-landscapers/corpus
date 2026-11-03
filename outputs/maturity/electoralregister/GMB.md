@@ -2,12 +2,12 @@
 
 ## Electoral register
 
-**Digital roll.** [Askani Gambia refers to the 14,334 multiple registrations in the IEC 2026 supplementary exercise as having occurred in a biometric registration system, with the provisional register to be merged with the 2021 voter register](<https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Digital roll.** [Askani Gambia reports 14,334 multiple registrations in the IEC's 2026 supplementary registration](<https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/>). [It says these occurred in a biometric registration system](<https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/>). [The provisional register is to be merged with the 2021 register](<https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/>). [Askani Gambia reported this in September 2026](<https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/>).
 
-**Open for checking.** No source found since October 2023 says voters could check the roll. The nearest held fact: [the one given above](<https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/>).
+**Open for checking.** No source since October 2023 says the roll was published. None says voters could check their entries online, by text message or at centres. [The 2026 provisional register was still to be merged with the 2021 register](<https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/>).
 
-**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/>).
+**Linked to ID.** No source since October 2023 says the roll is drawn from the national ID, population or civil register. None says entries are checked against any of them. [The multiple registrations of 2026 were found in the IEC's own biometric system](<https://askanigambia.com/gambia-iec-revising-courts-open-voter-register-disputes-as-election-credibility-comes-under-scrutiny/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says voters could check the roll.
+***Not found***. No source since October 2023 says voters could check the roll.

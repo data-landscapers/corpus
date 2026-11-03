@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "3",
-   "roll": "inservice",
-   "checked": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source found since October 2023 says voters could check the roll.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "3",
+      "roll": "inservice",
+      "checked": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-001",
+      "gaps": "No source since October 2023 says voters could check the roll.",
+      "note": "Reassessed 2026-11-03: a 2023 paper says the NEC uses biometric voter registration. Nothing says voters could check the roll.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }
