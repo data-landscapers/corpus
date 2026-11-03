@@ -1,6 +1,6 @@
 # Tax register: tax register
 
-*As at 2026-10-18.*
+*As at 2026-11-03.*
 
 ## The norm
 
@@ -20,8 +20,8 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 12 |
+| 5 Leading | 2 |
+| 4 Operating | 11 |
 | 3 Established | 18 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
@@ -29,6 +29,14 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 | No evidence | 7 |
 
 ## Countries
+
+### Ghana: 5 Leading
+
+In 2025 Ghana's national ID card served as the tax number, issued online and at business registration; how many taxpayers use it is not known.
+
+- GRA says it maintains a Taxpayer Identification Numbering System under the Revenue Administration Act 2016, issues TINs to organisations at its offices, and offers an online TIN/Ghana Card PIN verification portal ([source, 2026-08-29](https://gra.gov.gh/tin/)).
+- GRA says its TIN Centre is co-located at the Registrar-General's Department as a one-stop shop issuing the organisation's TIN during business registration, and organisations register for TIN only after registering with the RGD ([source, 2026-08-29](https://gra.gov.gh/tin/)).
+- The NIA Executive Secretary says the Ghana Card already serves as the Taxpayer Identification Number ([source, 2025-09-18](https://atlfmnews.com/nia-to-integrate-student-database-with-ghana-card-for-easy-access/)).
 
 ### Nigeria: 5 Leading
 
@@ -78,12 +86,6 @@ The taxpayer number was shared with business registration or customs in 2025; no
 The taxpayer number was shared with business registration or customs in 2024; no source found reports a tie to the national ID.
 
 - The brochure lists customs transactions (imports and exports) among the uses of the TIN, alongside tax filing and payment ([source, 2024-07](https://www.gra.gm/download-file/235e4301-48f2-11ef-b086-029254d29bb1)).
-
-### Ghana: 4 Operating
-
-The taxpayer number was shared with business registration or customs in 2026; no source found reports a tie to the national ID.
-
-- GRA says its TIN Centre is co-located at the Registrar-General's Department as a one-stop shop issuing the organisation's TIN during business registration, and organisations register for TIN only after registering with the RGD ([source, 2026-08-29](https://gra.gov.gh/tin/)).
 
 ### Guinea: 4 Operating
 

@@ -49,3 +49,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-29,MAR,dpi.registry--tax-register,fact,no evidence,3,MAR-002;MAR-001,Decree 2.25.862 and the DGI platform launched May 2026 register non-resident suppliers and issue tax numbers online; no evidence to 3
 2026-10-31,TUN,dpi.registry--tax-register,fact,unplaced,4,TUN-002;TUN-001,"Online declaration-of-existence platform issues the tax identification card (2027 budget report): register in service; with the shared firm number, unplaced to 4."
 2026-11-01,COG,dpi.registry--tax-register,fact,unplaced,4,COG-003;COG-004,"Arrival added COG-003 and COG-004: the NIU file is the computerised taxpayer file, issued through the business creation agency and used for customs."
+2026-11-03,GHA,dpi.registry--tax-register,fact,4,5,GHA-001;GHA-002;GHA-004,"NIA head said in Sept 2025 the Ghana Card serves as the TIN: tie to national ID shown inside the window, so stage 5"

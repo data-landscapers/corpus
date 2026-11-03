@@ -2,12 +2,12 @@
 
 ## Tax register
 
-**Computerised register.** [GRA says it maintains a Taxpayer Identification Numbering System under the Revenue Administration Act 2016, issues TINs to organisations at its offices, and offers an online TIN/Ghana Card PIN verification portal](<https://gra.gov.gh/tin/>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Computerised register.** The Ghana Revenue Authority keeps a Taxpayer Identification Numbering System under the Revenue Administration Act 2016. In August 2026 it said it [issues TINs to organisations at its offices and runs an online portal to verify a TIN or Ghana Card PIN](<https://gra.gov.gh/tin/>).
 
-**Shared with firms or customs.** [GRA says its TIN Centre is co-located at the Registrar-General's Department as a one-stop shop issuing the organisation's TIN during business registration, and organisations register for TIN only after registering with the RGD](<https://gra.gov.gh/tin/>).
+**Shared with firms or customs.** The GRA's [TIN Centre sits at the Registrar-General's Department as a one-stop shop](<https://gra.gov.gh/tin/>), issuing an organisation's TIN during business registration. Organisations register for a TIN only after registering with the Registrar-General, the GRA said in August 2026.
 
-**Tied to ID.** [GRA says that from 1 April 2021 the Ghana Card PIN issued by the National Identification Authority replaces the GRA-issued TIN for individual taxpayers (2021, before the three-year window)](<https://gra.gov.gh/tin/>).
+**Tied to ID.** For individuals the national ID number is the tax number. The GRA says [the Ghana Card PIN issued by the National Identification Authority replaced the GRA-issued TIN](<https://gra.gov.gh/tin/>) from 1 April 2021. In September 2025 the NIA's Executive Secretary said [the Ghana Card already serves as the Taxpayer Identification Number](<https://atlfmnews.com/nia-to-integrate-student-database-with-ghana-card-for-easy-access/>), alongside the social security and health insurance numbers.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says the taxpayer number is tied to the national ID.
+***Not found***. No source says what share of taxpayers hold a Ghana Card PIN as their tax number.
