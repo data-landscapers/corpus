@@ -3,9 +3,9 @@ title: Kenya — News, Oct – Nov 2026
 compiled: 2026-11-03
 period: 2026-10-01 to 2026-11-03
 place: KEN
-ledger_rows: 64
+ledger_rows: 66
 not_held: 5
-record: 062af16e583a
+record: 83b855ad4b89
 ---
 
 # News, Oct – Nov 2026
@@ -293,6 +293,20 @@ Airtel Kenya acquired 100 MHz in the 3500 MHz band for US$65 million (Sh8.4 bill
 **[Airtel Kenya secures 100MHz 5G spectrum](https://itweb.africa/article/airtel-kenya-secures-100mhz-5g-spectrum/RgeVDvPR3g2MKJN3)** — ITWeb Africa, 2 November 2026
 
 ITWeb Africa reported Airtel Kenya's purchase of 100 MHz of 3500 MHz spectrum for KES8.4 billion, about US$65 million. It adds that Jamii Telecommunications has challenged the Communications Authority's 2025 spectrum pricing framework in the High Court, with Safaricom joining, and that the revised fees were suspended in April 2025. Kenya's 5G subscriptions reached 2.1 million in June 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bayobab East to West Connectivity Project (Northern Route 1)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bayobab East to West Connectivity Project: fibre laid](https://tech.africa/bayobab-east-west-fibre-south-sudan/)** — TechAfrica, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
+
+Bayobab claims 2,038km of fibre laid on Kenya and South Sudan segments; activation next, no date, customers or cost.
 
 </div>
 
@@ -1125,6 +1139,20 @@ Strathmore University is one of six Kenyan universities selected for the Google.
 **[State plans digital accessibility audits to improve services for Persons with Disabilities](https://www.the-star.co.ke/news/2026-10-31-state-plans-digital-accessibility-audits-to-improve-services-for-pwds)** — The Star (Kenya), 31 October 2026
 
 Kenya's Cabinet Secretary for Gender, Hannah Cheptumo, said public institutions are to audit their websites and online platforms and plan to remove barriers for persons with disabilities. She spoke on 30 October 2026 at a forum validating a roadmap on digital and ICT accessibility. The Office of Diversity, Inclusion and Disability Rights is drafting inclusive communication guidelines.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AbiliSpace</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Group raises alarm over digital exclusion in pastoralist counties](https://www.standardmedia.co.ke/national/article/2001561441/group-raises-alarm-over-digital-exclusion-in-pastoralist-counties)** — The Standard, 3 November 2026
+
+GDA survey of Garissa, Kajiado and Marsabit; ten policy actions; AbiliSpace participation platform launched.
 
 </div>
 
