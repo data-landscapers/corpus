@@ -21,6 +21,7 @@ CIV,RNPP / NNI,Cote d'Ivoire,other,,ONECI,,2026-01-17-cote-divoire-oneci-la-post
 CIV,MaPoste,Cote d'Ivoire,other,,ONECI and La Poste de Cote d'Ivoire,,2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp
 CIV,ONECI identification system,Cote d'Ivoire,other,,ONECI,,2026-05-13-id4africa-2026-oneci-identification-numerique-linfodrome
 CMR,New generation national ID card,Cameroon,other,Augentic,DGSN,"national ID, residence, refugee and disability cards",2025-03-05-issuance-of-new-national-id-card-takes-off-biometricupdate
+CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,RDC-Pass,COD,other,,Ministry of Digital Economy,,2026-09-17-wearetech-rdc-pass-identification-numerique-phase-operationnelle
 COG,NIU (numero d'identification unique),Congo,other,,,,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb
 COG,CNI (carte nationale d'identite),Congo,other,,,,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb
@@ -33,6 +34,7 @@ DZA,Registre national de l'Etat civil,Algeria,register,,Ministry of Interior,,20
 EGY,national ID,Egypt,other,,,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
 EGY,National ID System (national number project),EGY,other,,Civil Status Organization,,2024-01-01-egypt-national-id-system-citc
 EGY,Payroll system,Egypt,register,,Egyptian Tax Authority,,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum
+EGY,EMIS portal online application (emis.gov.eg),Egypt,other,emis.gov.eg,Ministry of Education and Technical Education,,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025
 ERI,Eritrean National ID,ERI,other,,Government of Eritrea,,2024-10-17-eritrea-embassy-national-id
 ETH,Fayda,Ethiopia,other,,Faydaverse (state-owned enterprise under Ethiopian Investment Holdings),,2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion
 ETH,Fayda,Ethiopia,other,,National ID Program,,2026-07-24-ena-ethio-telecom-69-percent-fayda-digital-id-enrollees
@@ -45,6 +47,7 @@ GHA,Ghana Card,Ghana,other,,National Identification Authority,,2026-10-09-gha-gh
 GHA,Ghana Card,Ghana,other,,National Identification Authority,,2026-08-13-ghana-nia-24hr-ghana-card-registration
 GHA,Ghana Card / National Identification Register,Ghana,other,,National Identification Authority,,2024-03-14-ghana-card-number-at-birth-system-launch
 GHA,Mechanized Payroll System,Mechanized Payroll System,register,,Controller and Accountant General Department,,2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver
+GHA,Ghana Card,Ghana,register,,National Identification Authority,,2025-09-18-gha-nia-to-integrate-student-database-with-ghana-card-for-easy-access
 GIN,Registre national des personnes physiques (RNPP),GIN,other,,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
 GMB,National Identity Management System,The Gambia,other,,Ministry of Interior,,2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade
 KEN,IPRS,Kenya,other,,State Department for Immigration and Citizen Services,,2026-06-26-govt-enhances-registration-new-technology
@@ -61,6 +64,7 @@ LSO,Digital/service identification system,Lesotho,other,,MICSTI,,2026-03-25-leso
 LSO,MOSIP-based national digital identity ecosystem,LSO,other,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
 MAR,MOSIP-based national ID,Morocco,other,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 MAR,National ID card management system,Morocco,other,,DGSN,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
+MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
 MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MOZ,Bilhete de Identidade (BI),Mozambique,other,,,,2026-07-28-mozambique-free-id-and-birth-certificate-issuance-extended-2027
 MOZ,Mobile digital ID and e-signature,Mozambique,other,"smartphone app, SIM and eSIM",ATDI,3,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate
@@ -92,6 +96,7 @@ NGA,CoopID / Cooperative Verification Number,Nigeria,other,Seamfix,Federal Minis
 NGA,NIMC national identity and biometric-enabled G2PS card,Nigeria,other,,NIMC,G2PS card for loan beneficiaries,2025-03-08-nimc-nelfund-biometric-cards-mou
 NGA,Tax ID,Unified Tax ID,register,,Federal Inland Revenue Service,,2025-12-23-nga-nin-cac-number-to-serve-as-tax-id-firs
 NGA,IT2 tokenised biometric identity platform (Trust Stamp/BLIP),Nigeria,other,Trust Stamp IT2,BLIP Limited (deployer),,2026-10-27-trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-de
+NGA,Nigeria Education Data Infrastructure (NEDI),Nigeria,other,,Federal Ministry of Education,,2026-08-24-nga-fg-releases-new-operational-guidelines-for-waec-neco-students-assessme
 RWA,Single Digital ID (SDID),Rwanda,other,,,,2026-05-26-new-digital-id-you-control-everything-ktpress
 RWA,Single Digital ID (SDID),Rwanda,other,,National Identification Agency (NIDA),"SDIN, token, SDID card",2026-03-26-govt-sets-2027-deadline-digital-id-newtimes
 RWA,IPPIS,IPPIS Rwanda,register,,,,2026-10-16-rwa-ippis-developer-api
@@ -125,6 +130,9 @@ UGA,NIRA national ID database,UGA,other,,NIRA,,2024-10-14 Uganda financial insti
 UGA,National Identification Register / national ID card,Uganda,other,,NIRA,,2026-09-09-uga-independent-nira-staffing-crisis-uncollected-ids
 UGA,URA taxpayer register,Uganda,register,,Uganda Revenue Authority,,2026-10-18-uga-nin-tin-transition-will-not-automatically-create-tax-liability-lugoloo
 UGA,URA TIN-NIN linkage,Uganda,register,,Uganda Revenue Authority,,2026-10-26-fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts
+UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 ZAF,population register,South Africa,other,,Department of Home Affairs,,2026-05-26-dha-treasury-employee-verification-platform
 ZMB,MOSIP-based digital ID,Zambia,other,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project
 ZMB,Foundational Digital ID and CRVS core modules,Zambia,other,,Smart Zambia Institute,,2025-09-09-zambia-dzap-early-market-engagement

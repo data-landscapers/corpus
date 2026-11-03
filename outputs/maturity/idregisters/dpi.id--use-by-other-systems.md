@@ -92,10 +92,11 @@ A public register used the national ID number in 2024; no source found reports u
 
 ### Ghana: 3 Established
 
-The civil service payroll has required the national ID number since 2024, and tax collection relies on it; no source reports electoral and social registers.
+The civil service payroll has required the ID number since 2024 and it is the tax number; no source reports electoral or social registers.
 
 - The National Identification Authority says the civil service payroll (the Mechanized Payroll System) now requires the Ghana Card PIN to validate recruited public sector employees and pensioners, with existing staff to submit their PIN at NIA offices, launched 10 January 2024 ([source, 2024-01-10](https://nia.gov.gh/government-launches-integrated-database-for-payroll-validation-and-verification/)).
 - Republic Online reports that GRA revenue collection and NHIS member verification depend on NIA biometric verification, with GRA owing $377 million and NHIS $58 million for it ([source, 2025-09-21](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/)).
+- The NIA Executive Secretary says the Ghana Card already serves as the Taxpayer Identification Number, SSNIT and NHIS numbers ([source, 2025-09-18](https://atlfmnews.com/nia-to-integrate-student-database-with-ghana-card-for-easy-access/)).
 
 ### Lesotho: 3 Established
 
