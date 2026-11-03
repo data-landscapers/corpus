@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: GIN
-ledger_rows: 20
+ledger_rows: 21
 not_held: 3
-record: bdf9ae9b60f9
+record: 8ff404569a8a
 ---
 
 # News, Oct – Nov 2026
@@ -81,6 +81,20 @@ Guinea opened a workshop in Conakry on 21 October 2026 to review nine draft regu
 **[Gbessia : Sensibilisation des citoyens sur le projet WARDIP](https://agpguinee.com/gbessia-sensibilisation-des-citoyens-sur-le-projet-wardip/)** — agpguinee.com, 16 October 2026
 
 A sensitisation session on WARDIP, the 2023-2028 West Africa regional digital integration programme, was held at Gbessia town hall on 16 October 2026 under Guinea's digital economy ministry. Participants were told that the submarine-cable landing station and cable laying may affect all 13 communes of Conakry and the prefectures of Coyah, Forécariah, Dubréka and Boffa, and what is planned to limit environmental and social harm.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Infrastructure-sharing one-stop shop</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation](https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417)** — SikaFinance, 2 November 2026
+
+Guinea targets 10,000 km of fibre by 2030 from 4,350 km, 857 priority rural localities, a sharing one-stop shop.
 
 </div>
 
