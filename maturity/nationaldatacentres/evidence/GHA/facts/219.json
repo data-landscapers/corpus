@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-gha-sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The minister said G-Cloud, Ghana's national cloud platform, provides secure local hosting for government institutions, among others.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "G-Cloud",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "G-Cloud",
+   "country_label": "G-Cloud",
+   "class": "datacentre",
+   "platform": "national cloud",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
