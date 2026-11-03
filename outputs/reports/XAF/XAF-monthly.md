@@ -3,9 +3,9 @@ title: Africa — News, Oct – Nov 2026
 compiled: 2026-11-03
 period: 2026-10-01 to 2026-11-03
 place: XAF
-ledger_rows: 54
+ledger_rows: 55
 not_held: 3
-record: e852677b2cc2
+record: d8602cc715fa
 ---
 
 # News, Oct – Nov 2026
@@ -203,6 +203,20 @@ Ghana's communications minister, Samuel Nartey George, was confirmed as chair of
 **[Opening Remarks by H.E. Lerato D. Mataboge, AUC Commissioner for Infrastructure and Energy at the 6th AU STC on Communication and ICT (STC-CICT)](https://au.int/en/speeches/20261029/auc-commissioner-6th-au-stc-communication-and-ict-stc-cict)** — African Union Commission, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
 
 AU Commissioner Lerato Mataboge opened the ministerial session of the AU's 6th technical committee on communication and ICT in Libreville on 29 October 2026. She asked for a common African voice at the ITU's PP-26 conference in Doha. She also presented the Algiers Declaration on digital platforms in Africa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Continental Study on Digital Violence Against Women in Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Call for Inputs: Draft Continental Study on Digital Violence Against Women in Africa](https://achpr.au.int/en/news/announcements/2026-11-03/call-inputs-draft-continental-study-digital-violence-against-women)** — African Commission on Human and Peoples' Rights, 3 November 2026
+
+Draft held; 20 countries, none with comprehensive law on digital violence; inputs due 4 Dec 2026, consultation 11 Nov.
 
 </div>
 
