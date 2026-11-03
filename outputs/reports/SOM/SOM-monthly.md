@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: SOM
-ledger_rows: 18
+ledger_rows: 19
 not_held: 1
-record: 582d11c66b16
+record: 2ae7213274a3
 ---
 
 # News, Oct – Nov 2026
@@ -191,6 +191,20 @@ Somalia's identity authority is moving to link its registration services to HALM
 **[Somalia plans unified digital government platform built around national ID](https://www.biometricupdate.com/202610/somalia-plans-unified-digital-government-platform-built-around-national-id)** — Biometric Update, 19 October 2026
 
 Somalia's Unified Public Service Delivery Center, known as Halmeel, plans to launch a unified digital government services platform by the end of March 2027, starting with about 70 services. The national ID will be the only accepted credential, its director general told Biometric Update. Halmeel, created by Cabinet resolution on 23 April, is integrating with the national ID agency NIRA, which had about 2 million people registered as of October 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">HUBIYE consent-based verification platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia puts Hubiye national ID verification platform into operation](https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation)** — Biometric Update, 2 November 2026
+
+Somalia's National Identification and Registration Authority announced in late October 2026 that its Hubiye ID verification platform is in operation. Service providers check credentials against the national database by one-time-password consent. Integration is free for now, though the authority says some providers may eventually pay. UNDP put Hubiye at 25 integrated services and about 1.2 million citizens in May 2026.
 
 </div>
 
