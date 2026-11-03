@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-gha-sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The minister described the Cyber Security Authority, working under Act 1038, as the national body that licenses cybersecurity service providers and works with law enforcement to disrupt fraud networks.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority",
+   "class": "response",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

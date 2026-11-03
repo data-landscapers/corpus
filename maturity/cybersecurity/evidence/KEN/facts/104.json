@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-07-ken-ca-orders-cii-licensed-e-csp-digital-certificates",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The Communications Authority of Kenya notice refers to systems designated as Critical Information Infrastructure under Gazette Notice No. 1043, following an NC4 determination of 1 August 2024, and requires them to use CA-licensed certification providers, with inspections from 14 January 2026.",
+   "as_of": "2025-10-07",
+   "date_precision": "day",
+   "system": "Critical Information Infrastructure (Gazette Notice No. 1043)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Computer and Cybercrimes Coordination Committee (NC4)",
+   "country_label": "NC4",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
