@@ -400,7 +400,7 @@ What the statistics office does publish is strongest on the economy and weakest 
 
 A publication duty now exists in law even though the disclosure right does not: the [Digital Services Act, 2025 requires public bodies to keep an enterprise data inventory and to publish information on their use of data assets at least once a year, with the Digital Services Authority maintaining a platform for sharing public data assets](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf). A [general government open data portal is already in place, refreshed annually with basic datasets](https://digitalidentityindex.com/countries/botswana/govtech/) (2025). Release is not routine: an opposition party [went to the High Court in October 2024 to compel the electoral commission to hand over a digital voters roll](https://www.mmegi.bw/news/bcp-moves-to-compel-iec-to-release-digital-voters-roll/news), and the rulebooks of the recognised clearance and settlement systems are [open to public inspection at the operator's head office in business hours](https://bankofbotswana.bw/sites/default/files/National%20Clearance%20and%20Settlement%20Systems%20%20Act%202003%20%28Website%20Download%29.pdf).
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 No use of satellite or Earth observation data by government had been recorded in Botswana as at September 2026.

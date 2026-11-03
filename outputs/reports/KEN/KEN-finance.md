@@ -26,7 +26,7 @@ place: KEN
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num">1</td><td class="num">8</td><td class="num total">14</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">5</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">4</td><td class="num total">5</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num total">2</td></tr>
 <tr><th scope="row">Legislation and regulation</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
@@ -58,7 +58,7 @@ place: KEN
 <tr><th scope="row">Open data</th><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">5</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">1</td><td class="num">1</td><td class="num">4</td><td class="num total">5</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num">1</td><td class="num">4</td><td class="num total">5</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>

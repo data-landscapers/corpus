@@ -351,7 +351,7 @@ Across the twenty-three categories assessed in 2024 the scores average 5.8 out o
 
 Two bodies of public rules can be read without asking anyone. The central bank [publishes the operating rules of STAR-UEMOA, covering settlement finality, priority processing and settlement-account checks, alongside SICA-UEMOA's operating procedures and participation requirements](https://www.bceao.int/en/content/star-uemoa) for the payment systems Niger uses, and the data protection authority [sets out on its own site the right of access individuals hold under article 27 of the data protection law](https://www.hapdp.ne/les-droits-des-personnes-concernees-par-le-traitement), including over data held in identity systems.
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 Niamey's municipal tax platform Naneye Yarda is [worked by 50 field agents who geolocate taxpayers as they collect](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/), giving the capital a located record of its municipal tax base built from the ground rather than from imagery (January 2025).

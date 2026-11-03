@@ -345,7 +345,7 @@ The Libyan state publishes no results, spending or performance information on an
 
 [The Central Bank publishes LYPay's technical documentation and API specifications on a public developer portal](https://central-bank-of-libya.gitbook.io/devportal/lypay/lypay-instant-payment-system) (2025). [In 2025 the e-procurement portal published no data to the Open Contracting Data Standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 In March 2024 [FAO and AICS launched the MerWat-Libya geospatial platform](https://data.apps.fao.org/merwat-libya/?lang=en). [It lets the agriculture and water ministries and the Libyan Centre for Remote Sensing share land and water data](https://data.apps.fao.org/merwat-libya/?lang=en). In September 2025 [the grain authority's partnership with the Sahara and Sahel Observatory moved to training on satellite monitoring of cereal campaigns](https://www.oss-online.org/en/GMES%26%20Libye). [In 2024 UN-Habitat found the cadastre resting on incomplete aerial photogrammetry, with no spatial database](https://unhabitat.org/sites/default/files/2024/02/land_admininistration_and_land_rights_for_peace_and_development_in_libya.pdf).

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: COM
 ledger_rows: 7
 not_held: 22
-record: 34a7c7c58a38
+record: dd2883252152
 ---
 
 # News, Oct – Nov 2026
@@ -137,10 +137,10 @@ Comoros presented its UNESCO AI readiness assessment, RAM 2.0, prepared with UNE
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
-<a href="#use-of-satellite-data">Use of satellite data</a>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
-### Use of satellite data
+### Geospatial data
 
 <div class="monthly-story" markdown="1">
 

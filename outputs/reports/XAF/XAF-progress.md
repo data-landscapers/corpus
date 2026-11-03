@@ -5,7 +5,7 @@ period: 2025-11-01 to 2026-11-03
 place: XAF
 ledger_rows: 289
 not_held: 3
-record: 6e23dfc48e0a
+record: 3e0b6ccaf3f5
 ---
 
 # Africa: progress report, November 2025 – November 2026
@@ -313,7 +313,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 |---|---|---|---|
 | Countries completing a census in the 2020 round | 22 countries had completed census enumeration by September 2022 | [41 countries had a census less than ten years old (2017-2026); the DRC and Somalia had held none in four decades, Eritrea and South Sudan none since independence, and the Central African Republic, Libya, Nigeria and Ethiopia had gaps of two to three decades](https://datalab.uneca.org/docs-acs/sites/default/files/ood-documents/Population-Summary.pdf) | Movement |
 
-### Use of satellite data
+### Geospatial data
 
 | Body, instrument or system | At 2025-11-01 | At 2026-11-03 | Progress |
 |---|---|---|---|

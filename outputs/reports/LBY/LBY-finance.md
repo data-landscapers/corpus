@@ -13,7 +13,7 @@ place: LBY
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">4</td><td class="num">3</td><td class="num total">6</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">4</td><td class="num zero"></td><td class="num total">4</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num total">3</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num total">3</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Research institutions</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
@@ -37,7 +37,7 @@ place: LBY
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">4</td><td class="num">3</td><td class="num total">6</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">4</td><td class="num zero"></td><td class="num total">4</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">2</td><td class="num">2</td><td class="num total">3</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num">2</td><td class="num">1</td><td class="num total">3</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">2</td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Research institutions</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>

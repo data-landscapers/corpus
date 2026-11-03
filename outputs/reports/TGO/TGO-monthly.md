@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: TGO
 ledger_rows: 20
 not_held: 16
-record: 06b1de186336
+record: eb88db7634e5
 ---
 
 # News, Oct – Nov 2026
@@ -381,10 +381,10 @@ Togo's personal data protection authority (IPDCP) and the University of Kara sig
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
-<a href="#use-of-satellite-data">Use of satellite data</a>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
-### Use of satellite data
+### Geospatial data
 
 <div class="monthly-story" markdown="1">
 

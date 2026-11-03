@@ -355,7 +355,7 @@ In 2022 UNDP's Digital Development Compass [placed the open-government dimension
 
 The general part of the 2023 Samoa Agreement, to which Eritrea is party, [commits its signatories to using digital solutions to widen public access to information](https://eur-lex.europa.eu/eli/agree_internation/2023/2862/oj). In November 2025 a [draft Law on National Archives and Libraries had been prepared with expert input from the Research and Documentation Centre and the University of Pavia](https://www.eeas.europa.eu/delegations/eritrea/research-and-documentation-center-making-past-digital-reality_en).
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 IGAD's regional climate centre issued the most recent dry-conditions alert covering Eritrea, [a Climate Watch advisory of 10 August 2026](https://www.icpac.net/documents/1113/Climate_Watch_Advisory_-_The_Evolving_Dry_Conditions_in_the_Northern_Parts_of__2tBmKGt.pdf). [It was valid to 11 September and raised alert levels on May-to-July rainfall deficits](https://www.icpac.net/documents/1113/Climate_Watch_Advisory_-_The_Evolving_Dry_Conditions_in_the_Northern_Parts_of__2tBmKGt.pdf). [It used standardised precipitation analysis alongside soil-moisture and vegetation-stress monitoring](https://www.icpac.net/documents/1113/Climate_Watch_Advisory_-_The_Evolving_Dry_Conditions_in_the_Northern_Parts_of__2tBmKGt.pdf). In December 2024 Eritrea's delegation to the UNCCD's sixteenth conference of the parties listed [setting up a modern national meteorological service among the country's forward strategies against drought and desertification](https://shabait.com/2024/12/06/eritreas-delegation-presents-national-statement-at-the-unccd-cop-16/).

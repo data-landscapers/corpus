@@ -395,7 +395,7 @@ Across the twenty-three Open Data Inventory categories assessed for The Gambia i
 
 The [Access to Information Act 2021](https://web.archive.org/web/20220630160005/https://moici.gov.gm/sites/default/files/2022-02/ACCESS%20TO%20INFORMATION%20ACT%2C2021.pdf) is the statute under which [the Information Commission was established](https://assembly.gm/documents/364). [Disclosure of Public Records scored 27.1 out of 100 in 2023, 36th of 54 African states, and Accessibility of Public Records 29.7](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf). [Both are among the country's ten worst-scoring indicators, after a decade of improvement](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf). In August 2026 the Commission [was procuring a communication strategy on that Act and the Personal Data Protection and Privacy Act 2025, funded by UNFPA under the Peacebuilding Fund](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia).
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 The [2026 budget speech reports satellite internet installed in health facilities to improve birth registration rates](https://mofea.gov.gm/wp-content/uploads/2025/12/2026-Budget-Speech_Dec_2.pdf). [The national Early Warnings for All roadmap, endorsed in October 2025, sets the country's multi-hazard coverage ambition](https://crews-initiative.org/news/ew4all-roadmap-validation-kick-off-for-gcf-crews-scale-up-project-proposal-development/).

@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: ZWE
 ledger_rows: 29
 not_held: 6
-record: ace3cffbd196
+record: b168144bb736
 ---
 
 # News, Oct – Nov 2026
@@ -523,7 +523,7 @@ Zimbabwe's regulator POTRAZ now licenses services, not technologies, and uses it
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#open-data">Open data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#use-of-satellite-data">Use of satellite data</a>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
 ### Open data
@@ -542,7 +542,7 @@ Zimbabwe's ICT minister Tatenda Mavetera said the national AI and data platform,
 
 </div>
 
-### Use of satellite data
+### Geospatial data
 
 <div class="monthly-story" markdown="1">
 

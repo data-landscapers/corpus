@@ -16,7 +16,7 @@ place: EGY
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">16</td><td class="num">17</td><td class="num">22</td><td class="num total">55</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">4</td><td class="num">6</td><td class="num total">13</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num total">12</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">8</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">8</td></tr>
 <tr><th scope="row">Research institutions</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">3</td><td class="num total">4</td></tr>
@@ -38,7 +38,7 @@ place: EGY
 <tr><th scope="row">National statistics</th><td class="num">12</td><td class="num">43</td><td class="num">72</td><td class="num total">127</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">16</td><td class="num">17</td><td class="num">22</td><td class="num total">55</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">4</td><td class="num">4</td><td class="num">6</td><td class="num total">13</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">8</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">8</td></tr>
 <tr><th scope="row">Research institutions</th><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">3</td><td class="num total">4</td></tr>

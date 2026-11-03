@@ -1,5 +1,6 @@
 ## 3 November 2026
 
+- *Use of satellite data* is renamed *Geospatial data*, across the site, the reports and the finance tables. Its sub-topics will change next.
 - *Sectoral management information systems* no longer has an *In-house IT unit* sub-topic: a ministry's or agency's IT unit now counts with its sector's systems, so the revenue authority's IT department sits under *Financial and revenue systems*. 332 lines, about $119 million, that had moved to *Other GovTech and e-Gov* earlier today are back under sectoral systems.
 - *Strategies, plans and policies* and *Legislation and regulation* have new sub-topics, one for each field a strategy or law covers, such as AI, cybersecurity or digital payments, with *Cross-cutting* for the rest. Digital ministries and agencies funded as bodies, most of the budget lines under strategies, now sit under *Cross-cutting*.
 - About 120 budget lines now sit under the topic that matches what they buy, and 12 overhead lines of Guinea's digital directorate are gone.

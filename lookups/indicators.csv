@@ -114,8 +114,8 @@ data.statistics--national-strategy-for-development-of-statistics,32,111,Data,Nat
 data.statistics--censuses-and-surveys,32,112,Data,National statistics,data.statistics,Censuses and surveys,instrument,1,,
 data.statistics--statistics-from-administrative-data,32,113,Data,National statistics,data.statistics,Statistics from administrative data,system,1,,
 data.open--use-of-open-data,33,114,Data,Open data,data.open,Use of open data,system,1,,
-data.satellite--agricultural-use-of-satellite-data,34,115,Data,Use of satellite data,data.satellite,Agricultural use of satellite data,system,1,,
-data.satellite--meteorological-use-of-satellite-data,34,116,Data,Use of satellite data,data.satellite,Meteorological use of satellite data,system,1,,
+data.satellite--agricultural-use-of-satellite-data,34,115,Data,Geospatial data,data.satellite,Agricultural use of satellite data,system,1,,
+data.satellite--meteorological-use-of-satellite-data,34,116,Data,Geospatial data,data.satellite,Meteorological use of satellite data,system,1,,
 geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,35,117,Geopolitics,US / hyperscaler activities,geopol.usa,"USA / hyperscaler MoUs, engagements and commitments",,0,2026-09-22,2026-10-21
 geopol.china--chinese-mous-engagements-and-commitments,36,118,Geopolitics,China activities,geopol.china,"Chinese MoUs, engagements and commitments",,0,2026-09-22,2026-10-21
 geopol.eu--eu-mous-engagements-and-commitments,37,119,Geopolitics,EU activities,geopol.eu,"EU MoUs, engagements and commitments",,0,2026-09-22,2026-10-21

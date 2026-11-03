@@ -14,9 +14,9 @@ place: MDG
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">22</td><td class="num">30</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">52</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">32</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">33</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">5</td><td class="num total">8</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">3</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">1</td><td class="num total">2</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
@@ -37,8 +37,8 @@ place: MDG
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num">1</td><td class="num">5</td><td class="num total">8</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">2</td><td class="num">3</td><td class="num zero"></td><td class="num total">6</td></tr>
 <tr><th scope="row">Registries</th><td class="num">2</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">3</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num zero"></td><td class="num">1</td><td class="num total">2</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">1</td><td class="num">1</td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>

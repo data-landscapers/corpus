@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: LSO
 ledger_rows: 9
 not_held: 4
-record: dcb3cbba682d
+record: 089ab6aa7af1
 ---
 
 # News, Oct – Nov 2026
@@ -183,10 +183,10 @@ Summarised under [Technical Capacity](#technical-capacity).
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
-<a href="#use-of-satellite-data">Use of satellite data</a>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
-### Use of satellite data
+### Geospatial data
 
 <div class="monthly-story" markdown="1">
 

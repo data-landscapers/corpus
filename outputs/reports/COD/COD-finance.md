@@ -20,7 +20,7 @@ place: COD
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num">5</td><td class="num total">12</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">5</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">5</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">3</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
@@ -49,7 +49,7 @@ place: COD
 <tr><th scope="row">Training and skills</th><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num">5</td><td class="num total">12</td></tr>
 <tr><th scope="row">Access to services</th><td class="num">3</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">5</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">5</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num">2</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">3</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>

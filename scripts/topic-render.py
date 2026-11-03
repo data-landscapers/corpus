@@ -361,7 +361,7 @@ def main():
         return check()
 
     today = a.today or __import__("datetime").date.today().isoformat()
-    _, label, _ = vault_lib.load_taxonomy()
+    label = taxonomy_lib.labels()   # Corpus's display labels, as report-render uses (2026-11-03)
     subjects = [a.slug] if a.slug else sorted(label)
     unknown = [s for s in subjects if s not in label]
     if unknown:

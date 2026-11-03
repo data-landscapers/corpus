@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: CIV
 ledger_rows: 28
 not_held: 9
-record: 9ff54f9db672
+record: eabff87e1c4c
 ---
 
 # News, Oct – Nov 2026
@@ -515,10 +515,10 @@ Expertise France opened a tender on 27 October 2026 for an investment readiness 
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
-<a href="#use-of-satellite-data">Use of satellite data</a>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
-### Use of satellite data
+### Geospatial data
 
 <div class="monthly-story" markdown="1">
 

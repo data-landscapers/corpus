@@ -359,7 +359,7 @@ On 8 May 2026 the [Senate unanimously passed the Proyecto de Ley de Transparenci
 
 [The ninth Anuario Estadístico was presented to ministries, agencies and diplomatic missions on 25 September 2026](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/). [The education yearbooks for 2021-22 and 2022-23 were handed to UNICEF, UNDP, UNESCO and the African Development Bank on 20 May 2026](https://www.guineaecuatorialpress.com/noticias/educacion_y_prodege_presentan_un_balance_estadistico_del_sistema_educativo_nacional).
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 [An ECCAS Situation Room has operated at Douala since September 2024 under the continental AMHEWAS early-warning system](https://wmo.int/activities/projects/project-portfolio/seamless-approach-forecasting-and-warning-meteorological-hydrological-and-climate-extremes-crews). [As an ECCAS member, Equatorial Guinea is also covered by a sub-regional WIGOS observing network and a regional meteorological centre at Yaoundé](https://wmo.int/activities/projects/project-portfolio/seamless-approach-forecasting-and-warning-meteorological-hydrological-and-climate-extremes-crews) (November 2025). [On 10–12 February 2026 the ten ECCAS states' meteorological, hydrological and disaster-risk institutions met at N'Djamena](https://wmo.int/media/news/strengthening-collaboration-central-africa-production-and-dissemination-of-early-warnings). [They formalised communication with the regional centres under CREWS Central Africa and Early Warnings for All](https://wmo.int/media/news/strengthening-collaboration-central-africa-production-and-dissemination-of-early-warnings).

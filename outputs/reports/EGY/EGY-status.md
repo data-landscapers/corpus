@@ -391,7 +391,7 @@ Delivery runs ahead of the rules. Egypt operates a [government open data portal 
 <!-- derived -->
 Much of the documentation behind Egypt's government digital systems is recorded in the 2025 GovTech Maturity Index as existing but internal and unpublished, across most of its indicator families.
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 The agriculture ministry [monitors the farmland linked to its electronic holdings system, about 8 million feddans, for encroachment by satellite imagery](https://sis.gov.eg/en/media-center/news/agriculture-ministry-uses-digital-technology-to-register-agricultural-holdings-monitor-encroachments-via-satellite/) (September 2026). Crop mapping is the other standing use: the remote sensing authority and the ministry [mapped the 2023-24 winter wheat, clover and sugar beet with remote sensing and AI](https://www.dailynewsegypt.com/2024/11/05/narss-agriculture-ministry-launch-map-of-winter-crops/), and the irrigation ministry [piloted machine-learning crop-type maps in Kafr El Sheikh to steer water distribution](https://www.egypttoday.com/Article/1/132896/Egypt-introduces-new-satellite-image-analysis-application-to-enhance-irrigation) (June 2024).

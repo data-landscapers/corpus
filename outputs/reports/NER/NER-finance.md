@@ -13,7 +13,7 @@ place: NER
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">16</td><td class="num">12</td><td class="num total">29</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">8</td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">4</td><td class="num total">16</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">8</td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">10</td></tr>
-<tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num zero"></td><td class="num zero"></td><td class="num total">4</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">4</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
@@ -45,7 +45,7 @@ place: NER
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num">16</td><td class="num">12</td><td class="num total">29</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">2</td><td class="num">2</td><td class="num">4</td><td class="num total">8</td></tr>
-<tr><th scope="row">Connectivity</th><td class="num">4</td><td class="num zero"></td><td class="num zero"></td><td class="num total">4</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">4</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">4</td></tr>
 <tr><th scope="row">Registries</th><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>

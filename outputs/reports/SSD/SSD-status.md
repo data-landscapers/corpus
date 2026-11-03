@@ -364,7 +364,7 @@ There is [no national open data portal](https://www.worldbank.org/en/programs/go
 
 The reflex extends to the law itself. The [full text of the Cyber Crimes and Computer Abuse Act was withheld from journalists at its signing in February 2026](https://www.onecitizendaily.com/index.php/2026/02/20/ict-ministry-vows-to-ensure-effective-operation-of-cyber-crime-act/), and [nothing is published on how government systems share data among themselves](https://www.sudanspost.com/what-is-actually-functioning-as-dpi-in-south-sudan/).
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 No national space or geospatial data policy had been adopted in South Sudan as at August 2026.

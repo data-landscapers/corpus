@@ -15,11 +15,11 @@ place: GIN
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">27</td><td class="num zero"></td><td class="num">2</td><td class="num total">29</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num">7</td><td class="num">12</td><td class="num">5</td><td class="num total">24</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num">1</td><td class="num zero"></td><td class="num">2</td><td class="num total">17</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">7</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">4</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
@@ -29,7 +29,7 @@ place: GIN
 <tfoot><tr><th scope="row">All topics</th><td class="num">74</td><td class="num">436</td><td class="num">96</td><td class="num">47</td><td class="num total">654</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/all-finance.html">Full table &mdash; 321 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/all-finance.html">Full table &mdash; 309 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GIN/GIN-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -41,14 +41,14 @@ place: GIN
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">15</td><td class="num">14</td><td class="num">14</td><td class="num total">43</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">7</td><td class="num">8</td><td class="num">12</td><td class="num total">28</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">7</td><td class="num">12</td><td class="num">5</td><td class="num total">24</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">7</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
 <tr><th scope="row">Registries</th><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">4</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num">2</td><td class="num total">3</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num total">2</td></tr>
-<tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
@@ -58,7 +58,7 @@ place: GIN
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/budgets.html">Full table &mdash; 314 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/budgets.html">Full table &mdash; 302 budget lines, all 53 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GIN/GIN-budgets.csv" download>&darr; Download CSV</a>
 </div>
 

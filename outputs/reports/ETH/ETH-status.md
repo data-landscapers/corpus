@@ -389,7 +389,7 @@ Nineteen of the 23 categories scored in that inventory sit between 3 and 5 out o
 
 [Ethiopia's disclosure of public records score rose 23.3 points over 2014–2023 to 44.0 out of 100, 14th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf). [Accessibility of public records stands at 37.4, 18th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) (2023).
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 In July 2025 the Ethiopian Communications Authority stated that [no discussions with Starlink had taken place, were under way or were planned](https://www.linkedin.com/posts/ethiopian-communications-authority_home-eca-activity-7346822754987393024-LHoH). No application for satellite broadband entry has been found. [In December 2025 the Space Science and Geospatial Institute's digital addressing system was in use in 73 cities](https://ssgi.gov.et/edas-for-three-cities/). No national programme applying Earth observation to agriculture, land or environment had been found by August 2026.

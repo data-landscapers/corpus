@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-03
 place: XAF
 ledger_rows: 54
 not_held: 3
-record: d005f64f235e
+record: e852677b2cc2
 ---
 
 # News, Oct – Nov 2026
@@ -469,7 +469,7 @@ Russia and African states adopted an 18-point declaration on civil uses of AI at
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#use-of-satellite-data">Use of satellite data</a>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
 ### Connectivity
@@ -790,7 +790,7 @@ Afreximbank is running roadshows across Africa, including in Abidjan and Harare.
 
 </div>
 
-### Use of satellite data
+### Geospatial data
 
 <div class="monthly-story" markdown="1">
 

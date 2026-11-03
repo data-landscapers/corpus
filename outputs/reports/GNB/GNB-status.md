@@ -381,7 +381,7 @@ In 2018 the strategy described sectoral statistical production outside education
 
 [In the 2024 Open Data Inventory government finance scored 7.0 out of 10, balance of payments 6.5 and price statistics 5.5](https://odin.opendatawatch.com/data). [These are the only three categories above the midpoint](https://odin.opendatawatch.com/data). [Education and health facilities, at 1.5 and 2.5, are the country’s two lowest assessed categories](https://odin.opendatawatch.com/data).
 
-### Use of satellite data
+### Geospatial data
 <!-- data.satellite -->
 
 [Between 21 and 25 August 2026 the national meteorological institute installed and accepted a CLIMSA/PUMA2025 receiving station](https://meteoguinebissau.gw/noticias/nova-esta%C3%A7%C3%A3o-climsa-e-puma2025/). [The African Union supplied it with European Union support under the ClimSA programme](https://meteoguinebissau.gw/noticias/nova-esta%C3%A7%C3%A3o-climsa-e-puma2025/). [It takes Meteosat Third Generation data from EUMETSAT in near real time, at intervals of up to 10 minutes and 1 km resolution](https://meteoguinebissau.gw/noticias/nova-esta%C3%A7%C3%A3o-climsa-e-puma2025/).

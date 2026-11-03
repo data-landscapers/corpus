@@ -1,10 +1,10 @@
 ---
-title: Use of satellite data — News, October – November 2026
+title: Geospatial data — News, October – November 2026
 compiled: 2026-11-03
 period: 2026-10-01 to 2026-11-03
 subject: data.satellite
 places: COM; CIV; LSO; TGO; ZWE
-record: f5e145decb40
+record: cfabe3d625db
 ---
 
 # News, Oct – Nov 2026
