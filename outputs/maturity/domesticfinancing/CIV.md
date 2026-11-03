@@ -8,4 +8,4 @@
 
 ***Also on file***. [The national high-speed network (RNHD)](<https://www.sikafinance.com/marches/acceleration-numerique-l-ansut-relance-le-projet-du-reseau-haut-debit-ivoirien_48055>); [the livestock electronic identification system](<https://www.koaci.com/article/2026/10/07/cote-divoire/societe/cote-divoire-identification-du-betail-attaque-sur-sa-convention-avec-vettronic-le-mirah-contre-attaque-et-promet-que-les-donnees-resteront-sous-controle-ivoirien_201385.html>); [eGOUV public cloud hosting on Microsoft Azure](<https://www.telecom.gouv.ci/new/uploads/publications/174558607847.pdf>); [programme 23238, the telecoms regulation levy](<https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf>).
 
-***Not found***. The law that creates the levy is not named in the documents held.
+***Not found***. The digital lines held for both years fell in 2026. The 37% ministry rise gives no 2025 figure, and the programme rise is one programme's.

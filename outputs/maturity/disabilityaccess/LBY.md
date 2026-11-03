@@ -10,4 +10,4 @@
 
 ***Also on file***. [The Wasl initiative](<https://lana.gov.ly/post.php?id=367274&lang=ar>) of the social affairs ministry and the digital economy minister.
 
-***Not found***. No delivery of accessible services by a government body has been found. Sources differ on whether the policy was mandatory from December 2024.
+***Not found***. No delivery of accessible services by a government body has been found. The September 2026 audit is an academic paper, which does not count.

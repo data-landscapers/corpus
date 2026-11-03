@@ -10,4 +10,4 @@
 
 ***Also on file***. [Inter-Agency Community Feedback Mechanism](<https://humanitarianaction.info/plan/1514/document/sudan-humanitarian-needs-and-response-plan-2026/article/22-implementing-humanitarian-reset-sudan>).
 
-***Not found***. No rule, programme or delivery since October 2023 has been found. The audit found is an academic study of seven sites.
+***Not found***. No rule, programme or delivery since October 2023 has been found. The only audit is an academic study, which does not count.

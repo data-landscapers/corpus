@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "5",
+      "stage": "unplaced",
       "rule": "",
       "delivered": "",
-      "audit": "published",
+      "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SDN-003",
-      "gaps": "No rule in force, programme or delivery since October 2023 is found: the 2017 Act and the Ibsar project are known only from 2017 sources. The audit is an academic study of seven websites, not all of them public.",
-      "note": "A study published in April 2026 tested seven Sudanese academic, government and service websites against WCAG 2.1 AA and found critical barriers on all of them. A later yes answers the earlier ones, so 5.",
-      "as_at": "2026-11-02"
+      "stage_sources": "",
+      "gaps": "No rule in force, programme or delivery since October 2023 is found: the 2017 Act and the Ibsar project are known only from 2017 sources. The 2026 audit is an academic study, which does not count.",
+      "note": "Reassessed under Bill's ruling of 2026-11-03 (messages-for-bill 66: an academic audit alone does not answer question 4): the April 2026 journal study of seven websites is set aside, and nothing else since October 2023 sets a rung.",
+      "as_at": "2026-11-03"
     }
   ]
 }

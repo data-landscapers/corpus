@@ -49,6 +49,8 @@ A later yes answers the earlier ones (method §3.3). `study.json` holds this as 
 
 **Question 3, learner records in service for schools across the country, is shown by its own evidence** *(Bill, 2026-10-23; `study.json` → `"must_show": [3]`)*: a later yes no longer answers it, and answers the other questions still. No cell moved.
 
+**Any data exchange with another government system answers question 4** *(Bill, 2026-11-03, messages-for-bill 67)*: the exchange need not carry learner records. UGA stays at 5.
+
 ## 4. The norm
 
 The AU Digital Education Strategy asks for education management information systems to move from aggregate school returns to records for each learner, teacher and school. This study asks the four questions above; it does not measure a country against the norm.

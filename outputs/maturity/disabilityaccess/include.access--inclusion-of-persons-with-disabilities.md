@@ -20,22 +20,15 @@ The AU Disability Protocol asks for public information in accessible formats and
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 16 |
-| 3 Established | 4 |
+| 5 Leading | 2 |
+| 4 Operating | 17 |
+| 3 Established | 5 |
 | 2 Nascent | 9 |
 | 1 Absent | 4 |
-| Unplaced | 4 |
+| Unplaced | 5 |
 | No evidence | 12 |
 
 ## Countries
-
-### Libya: 5 Leading
-
-A 2026 study found most of 20 government and private platforms fail Libya's digital accessibility policy; no delivery by a government body has been found.
-
-- The authors observed more than 20 government and private platforms and found the majority fail the policy's accessibility standards ([source, 2026-09-23](https://journal.utripoli.edu.ly/index.php/Alqalam/article/download/1972/1479/4024)).
-- The journal paper says Libya's National Digital Accessibility Policy was issued in December 2024, based on WCAG 2.2, with a six-year timetable from 2025 to 2030 and described as mandatory ([source, 2024-12](https://journal.utripoli.edu.ly/index.php/Alqalam/article/download/1972/1479/4024)).
 
 ### Morocco: 5 Leading
 
@@ -49,18 +42,6 @@ An audit of how accessible public digital services are was published in 2026.
 
 - An assessment presented to NITDA by researcher Tracy Onabis Agbamu found only 47% of about 30 government digital platforms met the accessibility threshold ([source, 2026-09-16](https://www.itweb.africa/article/nigerian-govt-platforms-fail-access-test/KA3Ww7dzPjkqrydZ)).
 - Research by the Centre for Inclusive Development, presented by Tracy Onabis Agbamu, assessed about 30 government digital platforms and found only 47 per cent met the required accessibility threshold ([source, 2026-09-16](https://techafricanews.com/2026/09/16/nitda-strengthens-digital-accessibility-persons-with-disabilities/)).
-
-### Sudan: 5 Leading
-
-A 2026 study found critical accessibility barriers on seven Sudanese websites, some governmental; no rule or programme since 2023 has been found.
-
-- A journal study assessed seven Sudanese academic, governmental and service websites against WCAG 2.1 AA using WAVE, axe DevTools and Lighthouse, finding Lighthouse scores of 76 to 88 and critical barriers on all sites ([source, 2026-04-21](https://doi.org/10.56961/mejeit.v5i1.1442)).
-
-### Tanzania: 5 Leading
-
-An audit of how accessible public digital services are was published in 2025.
-
-- A study by Catherine G. Mkude of the Open University of Tanzania evaluated 42 Tanzanian e-government websites against WCAG 2.2 using SortSite, finding an average of 3.64 pages per site with accessibility errors, mostly Level A, with the National Identification Authority portal fully compliant and the NHIF service portal widely non-conformant ([source, 2025-08-27](https://journals.out.ac.tz/index.php/huria/article/view/1737)).
 
 ### Benin: 4 Operating
 
@@ -139,6 +120,13 @@ By 2025, 406 of 461 public special schools had received assistive devices; no au
 - The Department of Basic Education told Parliament's select committee that, under ICASA obligations, 406 of 461 (88%) public special schools had received ICT equipment, connectivity and assistive devices, with 12,180 learner devices and 1,624 teacher devices distributed ([source, 2025-07-29](https://www.education.gov.za/ArchivedDocuments/ArchivedArticles/ProgressinInclusiveEducation.aspx)).
 - Deputy Minister of Science, Technology and Innovation Nomalungelo Gina launched assistive technologies funded through Technology Innovation Agency programmes, including the Ka-dah smartphone device for blind users, the WeSignIt sign-language app and the Virecom video interpreting service, at Central University of Technology in Bloemfontein on 4 August 2025 ([source, 2025-08-04](https://www.gov.za/news/media-statements/deputy-minister-nomalungelo-gina-innovations-assist-people-disabilities-south)).
 
+### Tanzania: 4 Operating
+
+The communications regulator's website and digital skills training are made accessible; no non-academic audit is found.
+
+- TCRA has integrated assistive technologies into its website to improve accessibility, and its FURSA SANA and FUTA DELETE KABISA campaigns used sign language interpretation and braille in digital skills training for persons with disabilities in Dar es Salaam, Mtwara and Dodoma ([source, 2026-10-09](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/)).
+- The strategy states that the Government supports ICT-based assistive technology for learning at the Open University of Tanzania in Dar es Salaam, where visually impaired and deaf people are trained to use assistive products and sign language ([source, 2024-11](https://www.kazi.go.tz/uploads/documents/en-1734703693-NATIONAL%20ASSISTIVE%20TECHNOLOGY%20STRATEGY-2024-2027%20SIGNED%2021-11-2024.pdf)).
+
 ### Tunisia: 4 Operating
 
 Accessible digital services or assistive technology were delivered to persons with disabilities in 2025; no audit is published.
@@ -176,6 +164,12 @@ A 2007 law, reported in force in 2025, requires public bodies to adapt informati
 
 - Chad's State report to the CRPD Committee says article 32 of Act No. 007/PR/2007 requires the State, local authorities and public and private bodies to work to adapt the environment and communication and information systems so persons with disabilities can access services ([source, 2007-05-09](https://documents.un.org/doc/undoc/gen/g25/194/41/pdf/g2519441.pdf)).
 - Chad's State report says Decree No. 1521/PR/MFPPESN/2019 (articles 21-22) requires public transport agencies to provide sign language support for hard-of-hearing persons and information in Braille for persons with visual impairments ([source, 2019-09-11](https://documents.un.org/doc/undoc/gen/g25/194/41/pdf/g2519441.pdf)).
+
+### Libya: 3 Established
+
+Libya's National Digital Accessibility Policy is in force; no delivery by a government body has been found.
+
+- The journal paper says Libya's National Digital Accessibility Policy was issued in December 2024, based on WCAG 2.2, with a six-year timetable from 2025 to 2030 and described as mandatory ([source, 2024-12](https://journal.utripoli.edu.ly/index.php/Alqalam/article/download/1972/1479/4024)).
 
 ### Malawi: 3 Established
 
@@ -286,6 +280,12 @@ Not established: Nothing found since October 2023 says whether information or di
 Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
+
+### Sudan: Unplaced
+
+Nothing since 2023 shows a rule, programme or delivery; a 2026 academic study found barriers on seven Sudanese websites.
+
+Not established: No rule in force, programme or delivery since October 2023 is found: the 2017 Act and the Ibsar project are known only from 2017 sources. The 2026 audit is an academic study, which does not count.
 
 ### Togo: Unplaced
 

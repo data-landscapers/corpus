@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "financing",
-      "stage": "5",
+      "stage": "2",
       "budget": "spent",
       "commitment": "acted",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-013;CIV-010;CIV-015;CIV-002",
-      "gaps": "All four questions are answered.",
-      "note": "Counted from the four questions by study-ladder-domesticfinancing.py.",
-      "as_at": "2026-11-01"
+      "stage_sources": "CIV-001;CIV-019",
+      "gaps": "The money for digital transformation was lower in the latest budget than in the one before, or the same.",
+      "note": "Reassessed under Bill's ruling of 2026-11-03 (messages-for-bill 64: only the whole ministry's budget sets question 2): the 37% ministry rise names no 2025 amount and the 141.6% rise is one programme's, so the budget tables decide, and their digital lines held in both years fell 6.1% for 2026 (CIV-019). A fall stops the count at 2.",
+      "as_at": "2026-11-03"
     }
   ]
 }

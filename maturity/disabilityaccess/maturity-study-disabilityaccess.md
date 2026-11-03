@@ -47,6 +47,10 @@ Asked in order. Each is answered with a date and a link.
 
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `rule` (`inforce`, `underway`, `none`) for stage 1 and questions 1 and 2, `delivered` (`delivered`) for 3 and `audit` (`published`) for 4.
 
+**An academic audit alone does not answer question 4** *(Bill, 2026-11-03, messages-for-bill 66)*: a journal paper or university study is set aside; an audit by a government body, civil society or the press still counts. SDN 5→unplaced, LBY 5→3, TZA 5→4.
+
+**An online service built for disabled people counts as delivered** *(Bill, 2026-11-03, messages-for-bill 65)*: question 3 does not need the source to describe accessibility features. TUN, CIV and COD stay at 4.
+
 ## 4. The norm
 
 The AU Disability Protocol asks for public information in accessible formats and technologies and for affordable devices; the UN CRPD asks the same of states. This study asks the four questions above; it does not measure a country against the norm.

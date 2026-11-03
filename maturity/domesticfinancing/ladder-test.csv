@@ -1,17 +1,17 @@
 iso3,stage,budget,commitment,stage_sources
-AGO,2,fell,,AGO-012;AGO-013
+AGO,3,rose,,AGO-016;AGO-012
 BDI,4,rose,acted,BDI-002;BDI-004;BDI-006
 BEN,2,spent,,BEN-003;BEN-002
 BFA,2,spent,,BFA-001;BFA-016
 BWA,2,spent,acted,BWA-003;BWA-005
 CAF,3,rose,,CAF-007;CAF-001
-CIV,5,spent,acted,CIV-013;CIV-010;CIV-015;CIV-002
+CIV,2,spent,acted,CIV-001;CIV-019
 CMR,3,spent,stated,CMR-006;CMR-001
 COD,5,spent,acted,COD-012;COD-020;COD-004
 COG,5,spent,acted,COG-013;COG-004;COG-005;COG-007
 COM,3,spent,,COM-002;COM-001
 CPV,2,spent,acted,CPV-006;CPV-007
-DJI,2,spent,,DJI-005;DJI-003
+DJI,3,spent,,DJI-006;DJI-005
 DZA,2,allocated,acted,DZA-003
 EGY,3,rose,,EGY-005;EGY-004
 ERI,no evidence,,,
@@ -22,7 +22,7 @@ GIN,4,rose,acted,GIN-001;GIN-003
 GMB,3,spent,,GMB-002;GMB-001
 GNB,2,fell,,GNB-001;GNB-002
 GNQ,2,spent,,GNQ-001;GNQ-002
-KEN,2,spent,acted,KEN-009;KEN-010
+KEN,5,spent,acted,KEN-018;KEN-005;KEN-004;KEN-016
 LBR,2,spent,acted,LBR-004
 LBY,2,spent,,LBY-005;LBY-006
 LSO,3,spent,,LSO-003;LSO-002
@@ -30,7 +30,7 @@ MAR,2,spent,,MAR-002;MAR-003
 MDG,2,spent,acted,MDG-004;MDG-005
 MLI,5,spent,acted,MLI-003;MLI-001;MLI-004;MLI-010
 MOZ,5,spent,acted,MOZ-003;MOZ-002;MOZ-001;MOZ-005
-MRT,3,spent,abolished,MRT-004;MRT-003
+MRT,2,allocated,abolished,MRT-003
 MUS,3,spent,,MUS-004;MUS-001
 MWI,3,rose,,MWI-002;MWI-001
 NAM,2,spent,acted,NAM-019;NAM-015

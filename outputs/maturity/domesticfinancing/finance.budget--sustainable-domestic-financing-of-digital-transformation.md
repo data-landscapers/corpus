@@ -22,8 +22,8 @@ Agenda 2063, Goal 20, asks that Africa take full responsibility for financing it
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 4 |
-| 3 Established | 19 |
-| 2 Nascent | 23 |
+| 3 Established | 20 |
+| 2 Nascent | 22 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -39,15 +39,6 @@ The 2026 budget raises the digital programme 30.5% to 30.1 billion CFA francs, a
 - The director general of the digital economy agency ADEN told the National Assembly's finance committee on 16 July 2026 that a tax on newly imported SIM-equipped terminals, set up by the 2026 finance law and in force since 1 June 2026, is paid by importers by bank transfer and is meant to finance the digital ecosystem's structuring projects and connectivity; the article does not name the provision that assigns the yield or give any amount collected ([source, 2026-06-01](https://www.adiac-congo.com/content/assemblee-nationale-presentation-de-la-taxe-sur-les-nouveaux-terminaux-numeriques-cartes-sim)).
 - The record gives the programme at FCFA 23,093,583,163 for 2025 and FCFA 30,139,589,283 for 2026, a rise of 30.5%, against 3.9% for the whole general budget ([source, 2025-12-31](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf)).
 
-### Cote d'Ivoire: 5 Leading
-
-Côte d'Ivoire's 2026 digital ministry budget rose 37 per cent and a telecom levy paid in 2024; no source found reports the levy's law.
-
-- The 2024 settlement law records FCFA 23,434,278,284 spent in 2024 on programme 22126 of the Ministry's own budget line, 99.99% of a revised FCFA 23,437,413,869 and 130.66% of the FCFA 17,935,498,592 voted; the ministry's line only, no fund collections given ([source, 2024](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf)).
-- Programme 23237 is a compte d'affectation spécial funded by an earmarked levy on telecom operators; the 2026 finance law appropriates FCFA 33,000,000,000 to rural technology support. The FY2025 programme was titled as a tax for digital development; the enabling law is not named ([source, 2025-12-19](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf)).
-- In 2024 an earmarked levy on telecom operators funded the ANSUT rural-technology special account (FCFA 32.3bn voted); collection fell short, so the appropriation was cut by FCFA 8,793,791,458 to FCFA 27,676,208,542, the law or decree creating the levy is not cited ([source, 2024](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf)).
-- The 2026 ministry budget of 83.275 billion FCFA is described as a 37% increase; the comparison year is not named (the preceding budget year, 2025, is implied) and the 2025 figure is not given ([source, 2026-03-19](https://techafricanews.com/2026/03/19/cote-divoire-unveils-83-275bn-fcfa-digital-budget-with-37-increase-for-2026/)).
-
 ### DR Congo: 5 Leading
 
 The universal service fund signed its first rural subsidies in 2026 and 2025 digital spending is published; how much was paid out is not known.
@@ -55,6 +46,15 @@ The universal service fund signed its first rural subsidies in 2026 and 2025 dig
 - The Situation provisoire de l'exécution du budget au 31 décembre 2025 shows Section 71 paid (paiements) FC 31,358,784,468 against a voted credit of FC 60,627,481,411 (51.7%), with FC 68,278,687,329 ordonnanced; the ministry's line, no collections ([source, 2026-04-01](https://www.budget.gouv.cd/wp-content/uploads/budget2025/budget2025_rect/lf_2025_depenses.pdf)).
 - The FDSU signed its first subsidy conventions with Vodacom, Airtel, Africell and Orange on 8 August 2026, mobilising universal service resources to fund 40 pilot sites in underserved areas ([source, 2026-08-08](https://www.fdsu.cd/blog/rdc-le-fdsu-passe-du-diagnostic-a-laction-avec-les-premieres-conventions-de-subvention-pour-la-connectivite-universelle)).
 - Section 71 rose from FC 60,627,481,411 in 2025 to FC 226,713,223,741 in 2026 (+274%), which the document says is substantially a transfer of the ICT mandate from section 52, not new money ([source, 2025-12-29](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf)).
+
+### Kenya: 5 Leading
+
+Kenya's digital budget lines rose 16.8% for 2026/27, the Universal Service Fund pays for projects and spending is published.
+
+- Budget tables: 14,692,677,000 KES is published as actually spent on digital lines for 2024/25, in a document published after that year ended. Dated by the document that gives the figure ([source, 2026-07-01](https://www.ca.go.ke/sites/default/files/2026-07/Annual%20Report%20FY%202024-2025.pdf)).
+- The Communications Authority is implementing a Digital Skilling Project through its Universal Service Fund to train 120,000 people across 19 counties over three years; no amount or founding law is given ([source, 2026-08-19](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/)).
+- The Universal Service Fund, administered by the Communications Authority, funded the Digital Superhighway backbone and metro fibre procurement (tenders expected to cost over Sh15 billion per the petitioner), and a 1 October 2024 Attorney-General advisory was relied on by the CA in processing payments; the document does not name the law assigning the fund, and the High Court quashed the advisory on 2026-09-04 but did not nullify the contracts ([source, 2024-10](https://www.pulse.co.ke/story/ag-opinion-clearing-sh15bn-digital-superhighway-tender-quashed-2026090416090271184)).
+- Budget tables: the 37 digital line(s) held in both years total 43,931,556,738 KES for 2026/27 against 37,618,002,025 for 2025/26, +16.8 per cent; 49 lines are held for 2026/27. Dated by the budget document ([source, 2026-06-01](https://treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book_Approved.pdf)).
 
 ### Mali: 5 Leading
 
@@ -112,6 +112,13 @@ Digital budget lines rose in 2026/27, and since 2024 operators pay a levy into t
 - RURA Board Decision N 03/BD/ICT/RURA/2024 sets Universal Access Fund contributions on annual turnover, at 2% for network infrastructure and network services licensees and 0.5% for ISP retailers and postal licensees, under Presidential Order 025/01 of 2023 ([source, 2024-10-11](https://www.rura.rw/index.php?eID=dumpFile&f=121635&t=f&token=0e4a689f78dcd1a4fbdf50fe191d4f8d023be3ef)).
 - Budget tables: the 34 digital line(s) held in both years total 90,624,439,159 RWF for 2026/27 against 87,083,989,612 for 2025/26, +4.1 per cent; 38 lines are held for 2026/27. Dated by the budget document ([source, 2026-06-30](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf)).
 
+### Angola: 3 Established
+
+Angola's digital budget lines rose 0.6% in 2026, though its communications programme fell 30.5%; no fund is known.
+
+- Budget tables: the 3 digital line(s) held in both years total 9,912,523,594 AOA for 2026 against 9,854,246,545 for 2025, +0.6 per cent; 52 lines are held for 2026. Dated by the budget document ([source, 2025-12-19](https://cms.minfin.gov.ao/api/assets/portal-minfin/c5bb7353-28e6-4b09-9251-b8108ddbf6f9/)).
+- The OGE 2026 proposal puts the same programme at Kz 159.2 billion (about USD 172.6 million), including Kz 107.8 billion for 4G expansion and Kz 70.5 billion for the cybersecurity index; the document gives no date for the proposal and is published 2025-01-01 by its record, as_of is the budget year 2026 ([source, 2026](https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/)).
+
 ### Cameroon: 3 Established
 
 Cameroon's tabled 2026 budget raises the digital lines held in both years 1.9 per cent; no source found says whether any fund pays.
@@ -133,6 +140,13 @@ Digital lines in the 2026 budget total 541.6 million Comorian francs against 444
 
 - The same service rose from KMF 0 in the 2025 rectificative finance law to KMF 277 128 000 in the 2026 finance law (budget years 2025 and 2026) ([source, 2026-01-16](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf)).
 - The 2026 finance law (decree 26-003/PR of 16 January 2026) appropriates KMF 277 128 000 to the Direction Générale de Système d'Information et de Communication (service 08 0825, finance ministry), of which KMF 70 000 000 is investment, funded from domestic revenue ([source, 2026-01-16](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf)).
+
+### Djibouti: 3 Established
+
+Djibouti's digital budget line rose 6.3% in 2026, though the digital agency's budget fell 29%; no fund is known.
+
+- Budget tables: the 1 digital line(s) held in both years total 485,686,344 DJF for exercice 2026 against 456,943,040 for exercice 2025, +6.3 per cent; 1 lines are held for exercice 2026. Dated by the budget document ([source, 2026-02-25](https://www.journalofficiel.dj/texte-juridique/arrete-n2026-041-pr-mefi-portant-approbation-du-projet-de-budget-previsionnel-de-linstitut-de-la-statistique-de-djibouti-instad-pour-lexercice-2026/)).
+- Budget tables: the budget for exercice 2026 gives 485,686,344 DJF to 1 digital line(s). Dated by the budget document ([source, 2026-02-25](https://www.journalofficiel.dj/texte-juridique/arrete-n2026-041-pr-mefi-portant-approbation-du-projet-de-budget-previsionnel-de-linstitut-de-la-statistique-de-djibouti-instad-pour-lexercice-2026/)).
 
 ### Egypt: 3 Established
 
@@ -182,13 +196,6 @@ Malawi's 2026/27 budget raised its comparable digital lines by 5.7 per cent; no 
 
 - Budget tables: the 131 digital line(s) held in both years total 71,039,592,349 MWK for 2026/27 against 67,220,261,503 for 2025/26, +5.7 per cent; 178 lines are held for 2026/27. Dated by the budget document ([source, 2026-06-01](https://www.finance.gov.mw/documents/uploads/2026-06/Doc%204_2026-27%20Approved%20Detailed%20Document%20-%20Vol.%20III.pdf)).
 - Budget tables: the budget for 2026/27 gives 80,831,355,150 MWK to 178 digital line(s). Dated by the budget document ([source, 2026-06-01](https://www.finance.gov.mw/documents/uploads/2026-06/Doc%204_2026-27%20Approved%20Detailed%20Document%20-%20Vol.%20III.pdf)).
-
-### Mauritania: 3 Established
-
-The digital ministry's 2026 budget is reported up 104.6%, but no source found reports the universal access fund was repealed in 2026 and its replacement.
-
-- Ecofin Agency states the Ministry of Digital Transformation's 2026 budget of $24.2m is up 104.6% on the year before (2025); the 2025 figure is not given ([source, 2026](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty)).
-- Ecofin Agency states the Ministry of Digital Transformation's 2026 budget is $24.2m ([source, 2026](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty)).
 
 ### Mauritius: 3 Established
 
@@ -252,13 +259,6 @@ Algeria's 2026 budget gives money to 10 digital lines and the state pays for uni
 
 - Budget tables: the budget for 2026 gives 20,589,518,000 DZD to 10 digital line(s). Dated by the budget document ([source, 2026-01-11](https://www.joradp.dz/FTP/jo-francais/2026/F2026002.pdf)).
 
-### Angola: 2 Nascent
-
-Angola cut its 2026 communications programme budget by 30.5% on 2025; no spending figure has been found and no fund is known.
-
-- The OGE 2026 proposal puts the same programme at Kz 159.2 billion (about USD 172.6 million), including Kz 107.8 billion for 4G expansion and Kz 70.5 billion for the cybersecurity index; the document gives no date for the proposal and is published 2025-01-01 by its record, as_of is the budget year 2026 ([source, 2026](https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/)).
-- The programme falls 30.5% from Kz 229.3 billion in the 2025 budget to Kz 159.2 billion in the 2026 budget (OGE 2026 proposal), as the source reports ([source, 2026](https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/)).
-
 ### Benin: 2 Nascent
 
 Benin cut its 2026 digital budget 6.3% from 2025 and published 2025 spending on digital lines; no source found reports any fund or levy.
@@ -294,12 +294,12 @@ The 2026 budget's digital lines held for both years fell 27.8 per cent from 2025
 - Budget tables: the budget for Gestion 2026 gives 3,645,150,873 XAF to 9 digital line(s). Dated by the budget document ([source, 2025-12-26](https://ecofinances.gouv.td/wp-content/uploads/2026/06/Fascicule-budgAtaire-2026-VF.pdf)).
 - Budget tables: the 6 digital line(s) held in both years total 2,422,606,681 XAF for Gestion 2026 against 3,355,272,681 for Gestion 2025, -27.8 per cent; 9 lines are held for Gestion 2026. Dated by the budget document ([source, 2025-12-26](https://ecofinances.gouv.td/wp-content/uploads/2026/06/Fascicule-budgAtaire-2026-VF.pdf)).
 
-### Djibouti: 2 Nascent
+### Cote d'Ivoire: 2 Nascent
 
-The state digital agency's 2026 budget fell about 29% from 2025, while the digital line held for both years rose; no fund is known.
+Côte d'Ivoire's digital budget lines fell 6.1% in 2026; a telecom levy funds a rural digital account and 2024 spending is published.
 
-- Budget tables: the budget for exercice 2026 gives 485,686,344 DJF to 1 digital line(s). Dated by the budget document ([source, 2026-02-25](https://www.journalofficiel.dj/texte-juridique/arrete-n2026-041-pr-mefi-portant-approbation-du-projet-de-budget-previsionnel-de-linstitut-de-la-statistique-de-djibouti-instad-pour-lexercice-2026/)).
-- ANSIE's 2026 budget of 396.1m DJF is down 160.6m DJF from 556.7m DJF in 2025, a fall of about 29%, which the record ties to the creation of a separate National Cybersecurity Authority ([source, 2025-12-30](https://www.presidence.dj/conseil-des-ministres/2025-12-30)).
+- TechAfrica News reports the Ministry of Digital Transition and Innovation announced a 2026 budget allocation of 83.275 billion FCFA; no date of passage is given, so the published date is used ([source, 2026-03-19](https://techafricanews.com/2026/03/19/cote-divoire-unveils-83-275bn-fcfa-digital-budget-with-37-increase-for-2026/)).
+- Budget tables: the 193 digital line(s) held in both years total 148,105,376,640 XOF for Exercice 2026 against 157,659,408,117 for Exercice 2025, -6.1 per cent; 255 lines are held for Exercice 2026. Dated by the budget document ([source, 2025-12-19](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf)).
 
 ### Equatorial Guinea: 2 Nascent
 
@@ -322,13 +322,6 @@ The 2026 budget gives 129 million CFA francs to six digital lines, lower than 20
 - Budget tables: the budget for 2026 gives 129,000,000 XOF to 6 digital line(s). Dated by the budget document ([source, 2025-12-01](https://www.mef.gw/publicacoes/orcamento-geral-do-estado/2026-oge2026/viewdocument/195)).
 - Budget tables: the 3 digital line(s) held in both years total 70,000,000 XOF for 2026 against 130,000,000 for 2025, -46.2 per cent; 6 lines are held for 2026. Dated by the budget document ([source, 2025-12-01](https://www.mef.gw/publicacoes/orcamento-geral-do-estado/2026-oge2026/viewdocument/195)).
 
-### Kenya: 2 Nascent
-
-Kenya's 2026/27 budget cut the digital package to 8.6 billion shillings, and the Universal Service Fund paid for projects; no source reports its legal basis.
-
-- The FY2026/27 original estimates (Programme Based Budget, Vote 1122) appropriate KES 12,763,784,217 to the State Department for ICT and Digital Economy; the vote was restructured, with cyber and data protection given their own programme ([source, 2026-06](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf)).
-- The budget-day digital superhighway and creative economy package fell to KSh 8.6bn for FY2026/27, the second consecutive cut after KSh 16.3bn and KSh 12.7bn; KSh 4.3bn of it is the World Bank-backed KDEAP ([source, 2026-06](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf)).
-
 ### Liberia: 2 Nascent
 
 Liberia's FY2026 budget gives 12.5 million US dollars to 14 digital lines and its Universal Access Fund installs links; no source reports the 2025 comparison.
@@ -348,6 +341,12 @@ Madagascar's digital budget lines fell 2.0 percent in 2026, while a telecoms fun
 
 - Budget tables: the budget for 2026 gives 53,583,872,000 MGA to 95 digital line(s). Dated by the budget document ([source, 2026-07-16](http://mef.gov.mg/assets/vendor/ckeditor/plugins/kcfinder/upload/files/2026/lfr/TOME%202%20L1%20Amend%C3%A9%202026-07-08-17h15.pdf)).
 - Budget tables: the 50 digital line(s) held in both years total 9,703,842,000 MGA for 2026 against 9,904,335,000 for 2025, -2.0 per cent; 95 lines are held for 2026. Dated by the budget document ([source, 2026-07-16](http://mef.gov.mg/assets/vendor/ckeditor/plugins/kcfinder/upload/files/2026/lfr/TOME%202%20L1%20Amend%C3%A9%202026-07-08-17h15.pdf)).
+
+### Mauritania: 2 Nascent
+
+Mauritania's digital ministry budget is reported up 104.6% for 2026, with no 2025 figure; its universal access fund was repealed in 2026.
+
+- Ecofin Agency states the Ministry of Digital Transformation's 2026 budget is $24.2m ([source, 2026](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty)).
 
 ### Morocco: 2 Nascent
 

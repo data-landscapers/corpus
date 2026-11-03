@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "5",
+      "stage": "3",
       "rule": "inforce",
       "delivered": "",
-      "audit": "published",
+      "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-005;LBY-004",
-      "gaps": "Sources disagree on when the National Digital Accessibility Policy took effect: a December 2024 issue described as mandatory (LBY-004), or adoption in April 2025 with mandatory compliance still to come in January 2026 (LBY-002). No delivery of accessible services by a government body is found.",
-      "note": "A paper of September 2026 reports observing more than 20 government and private platforms and finding most fail the national policy's standards. A later yes answers the earlier ones, so 5.",
-      "as_at": "2026-11-02"
+      "stage_sources": "LBY-004",
+      "gaps": "No delivery of accessible services by a government body is found. Sources disagree on when the National Digital Accessibility Policy took effect: December 2024 (LBY-004) or mandatory compliance from January 2026 (LBY-002); it is in force on either.",
+      "note": "Reassessed under Bill's ruling of 2026-11-03 (messages-for-bill 66: an academic audit alone does not answer question 4): the September 2026 paper is set aside. The National Digital Accessibility Policy, based on WCAG 2.2, is in force (LBY-004), so 3.",
+      "as_at": "2026-11-03"
     }
   ]
 }

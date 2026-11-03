@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "5",
+      "stage": "4",
       "rule": "inforce",
       "delivered": "delivered",
-      "audit": "published",
+      "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-005",
-      "gaps": "",
-      "note": "Reassessed 2026-11-01: a 2025 WCAG evaluation of 42 e-government websites publishes its results, which answers every earlier question. TCRA's assistive website and the Tanzania accessibility standard sit beneath it.",
-      "as_at": "2026-11-01"
+      "stage_sources": "TZA-003;TZA-009",
+      "gaps": "No audit of public websites or digital services by a government body or other non-academic source is found; the 2025 WCAG evaluation is a university study.",
+      "note": "Reassessed under Bill's ruling of 2026-11-03 (messages-for-bill 66: an academic audit alone does not answer question 4): the 2025 Open University evaluation of 42 e-government websites is set aside. TCRA's assistive website and sign-language and braille digital training (TZA-003) and assistive technology at the Open University (TZA-009) are delivery, so 4.",
+      "as_at": "2026-11-03"
     }
   ]
 }

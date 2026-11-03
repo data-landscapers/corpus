@@ -58,6 +58,7 @@ Asked in order. Each is answered with a date and a link.
 - **The rise is not adjusted for inflation; how much was spent is not judged.**
 - **Where a source gives the digital ministry's budget for both years, that sets question 2**; otherwise the lines the tables hold in both years, added up. A country with no line in both years is not answered.
 - **A fall the source puts down to a mandate moving between budget heads is not a fall where both heads are held and together rose.** *(Added in the run.)*
+- **Only the whole digital ministry's budget for both years sets question 2** *(Bill, 2026-11-03, messages-for-bill 64)*: a rise or fall for one programme, project or agency does not override the budget tables, and nor does a ministry figure with no amount for the year before. AGO, DJI 2→3; KEN 2→5; CIV 5→2; MRT 3→2.
 
 `study.json` holds this as two aspects: `budget` (`allocated`, `rose`, `fell`, `spent`, `none`) for questions 1, 2 and 4 and stage 1; `commitment` (`stated`, `acted`, `abolished`) for question 3.
 

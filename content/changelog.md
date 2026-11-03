@@ -1,5 +1,8 @@
 ## 3 November 2026
 
+- Domestic financing of digital now reads the year-on-year change from the whole digital ministry's budget or the budget tables, not from one programme or agency. Angola and Djibouti rise from stage 2 to 3 and Kenya from 2 to 5; Côte d'Ivoire falls from 5 to 2 and Mauritania from 3 to 2.
+- Disability access no longer counts an academic study as an audit of public websites. Sudan drops from stage 5 to unplaced, Libya from 5 to 3 and Tanzania from 5 to 4.
+- Interoperability of education systems now needs a source naming two systems that use a learner identifier. Senegal drops from stage 4 to unplaced.
 - Use by other systems now counts a social security fund as a social protection register. Ghana rises from stage 3 to 4: its payroll, tax and SSNIT registers all use the Ghana Card number.
 - Electoral register no longer counts a list open for checking where the roll is kept by hand. Congo drops from stage 4 to 1 on its manual 2025 revision.
 

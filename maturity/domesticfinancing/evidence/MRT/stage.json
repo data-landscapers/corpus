@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "financing",
-      "stage": "3",
-      "budget": "rose",
+      "stage": "2",
+      "budget": "allocated",
       "commitment": "abolished",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-004;MRT-003",
-      "gaps": "The universal service fund ARE described in February 2025 as levied at 3% of operators' turnover and paying for coverage projects had its decree repealed in July 2026, with its resources moved to the Treasury, and nothing found replaces it.",
-      "note": "Stage 3 because the digital ministry's 2026 budget rose 104.6% on 2025. Not stage 4, because the fund that was the act has been repealed since and no other act has been found.",
-      "as_at": "2026-11-01"
+      "stage_sources": "MRT-003",
+      "gaps": "Nothing found gives the money for digital transformation in two budget years running, so no source found says whether it rose.",
+      "note": "Reassessed under Bill's ruling of 2026-11-03 (messages-for-bill 64): the 104.6% rise in the ministry's 2026 budget names no 2025 amount, and no budget tables hold digital lines in both years, so question 2 is not answered and the count stops at 2.",
+      "as_at": "2026-11-03"
     }
   ]
 }

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "financing",
-      "stage": "2",
+      "stage": "3",
       "budget": "spent",
       "commitment": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DJI-005;DJI-003",
-      "gaps": "The money for digital transformation was lower in the latest budget than in the one before, or the same.",
-      "note": "Counted from the four questions by study-ladder-domesticfinancing.py.",
-      "as_at": "2026-11-01"
+      "stage_sources": "DJI-006;DJI-005",
+      "gaps": "No source from the last three years has the government both saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying.",
+      "note": "Reassessed under Bill's ruling of 2026-11-03 (messages-for-bill 64: only the whole ministry's budget sets question 2): the 29% fall is the digital agency's, and the budget tables' digital line held in both years rose 6.3% for 2026 (DJI-006). No fund or levy is shown acting, so 3.",
+      "as_at": "2026-11-03"
     }
   ]
 }

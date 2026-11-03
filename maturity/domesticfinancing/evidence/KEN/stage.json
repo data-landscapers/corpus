@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "financing",
-      "stage": "2",
+      "stage": "5",
       "budget": "spent",
       "commitment": "acted",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-009;KEN-010",
-      "gaps": "The money for digital transformation was lower in the latest budget than in the one before, or the same.",
-      "note": "Counted from the four questions by study-ladder-domesticfinancing.py.",
-      "as_at": "2026-11-01"
+      "stage_sources": "KEN-018;KEN-005;KEN-004;KEN-016",
+      "gaps": "All four questions are answered.",
+      "note": "Reassessed under Bill's ruling of 2026-11-03 (messages-for-bill 64: only the whole ministry's budget sets question 2): the falls reported are for the digital superhighway package and projects, and the budget tables' digital lines held in both years rose 16.8% for 2026/27 (KEN-016). A fund acting and published spending were already held, so 5.",
+      "as_at": "2026-11-03"
     }
   ]
 }

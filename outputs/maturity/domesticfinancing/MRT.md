@@ -8,4 +8,4 @@
 
 ***Also on file***. [The national cloud at the Nouakchott National Data Center](<https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty>); [the West Africa Regional Digital Integration Program, World Bank-supported](<https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty>).
 
-***Not found***. The fund that paid for digital programmes is repealed and its resources moved to the Treasury, and nothing found replaces it.
+***Not found***. No source gives the ministry's 2025 figure, so none says whether the money rose. The universal access fund's decree was repealed in July 2026.
