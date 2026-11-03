@@ -1,0 +1,42 @@
+{
+ "slug": "2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA issues national identification numbers to people, which students hold, while the ministry says over 17 million Ugandans still lack one.",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem",
+   "as_of": "2024-10-03",
+   "date_precision": "day"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "developed by SMS ONE Ltd",
+   "owner": "Ministry of Education and Sports",
+   "tiers": ""
+  },
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "UNEB index number",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "developed by SMS ONE Ltd",
+   "owner": "UNEB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

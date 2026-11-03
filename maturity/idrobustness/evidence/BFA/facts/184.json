@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-13-bfa-plus-de-200-000-eleves-enregistres-a-bousse-et-tenkodogo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "FIUE-BF",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": "pupil identifier file"
+  }
+ ],
+ "note": "Sectoral pupil ID only; no national ID system stated."
+}

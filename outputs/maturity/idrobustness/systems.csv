@@ -50,6 +50,7 @@ BFA,Carte Nationale d'Identite Burkinabe (CNIB),Burkina Faso,idsystem,,,,2024-05
 BFA,CNIB,CNIB,idsystem,,ONI,,2024-06-02-bfa-burkina24-oni-banfora-cnib
 BFA,CNIB,CNIB,idsystem,,ONI,,2024-02-02-bfa-oni-antenne-centre-ouest-cnib
 BFA,CIB-AES,Burkina Faso,idsystem,,"Gendarmerie nationale, ONI and Police Nationale enrol",,2026-10-16-bfa-aconews-gendarmerie-cib-aes
+BFA,FIUE-BF,Burkina Faso,other,,Ministry of National Education,pupil identifier file,2024-05-13-bfa-plus-de-200-000-eleves-enregistres-a-bousse-et-tenkodogo
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-08-26-bwa-omang-fake-documents-cartel
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-07-29-botswana-national-id-replacement-delays
 BWA,Electronic National Identification System (Biometric Omang),Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-04-01-bwa-2026-0400-12061
@@ -85,6 +86,7 @@ CMR,New generation national ID card,Cameroon,idsystem,Augentic,DGSN,"national ID
 CMR,Cameroon national identity card (CNI) system,Cameroun,idsystem,Augentic GmbH,Delegation generale a la Surete nationale (contract party); Augentic operates for 15 years,,2024-05-15-cmr-journalducameroun-augentic-cni-48-heures
 CMR,CNPTI,Cameroon,idsystem,,DGSN,"regional, departmental and post identification centres",2025-02-28-cmr-decret-modifiant-et-completant-certaines-dispositions-du-decret-n2016
 CMR,Fichier national de l'identite,Cameroon,idsystem,,CNPTI,,2025-02-28-cmr-decret-modifiant-et-completant-certaines-dispositions-du-decret-n2016
+CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,RDC-Pass,COD,other,,Ministry of Digital Economy,,2026-09-17-wearetech-rdc-pass-identification-numerique-phase-operationnelle
 COD,RDC-Pass,DR Congo,other,,Ministry of Digital Economy,,2026-09-16-cod-7sur7-rdc-pass-formation-50-premiers-agents-enregistrement
 COD,RDC-PASS,COD,idsystem,Trident Digital Tech DRC Africa SAS,Ministry of Digital Economy,digital identifier; not a national ID card,2026-06-15-deskeco-rdc-pass-lancement-agents
@@ -144,6 +146,7 @@ DZA,carte d'identité biométrique électronique,Algeria,idsystem,,Ministry of I
 EGY,national ID,Egypt,other,,,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
 EGY,Digital Identity (الهوية الرقمية),Egypt,idsystem,,Ministry of Communications and Information Technology,,2026-08-11-egypt-mobile-line-registration-governance
 EGY,National ID System (national number project),EGY,idsystem,,Civil Status Organization,,2024-01-01-egypt-national-id-system-citc
+EGY,EMIS portal online application (emis.gov.eg),Egypt,other,emis.gov.eg,Ministry of Education and Technical Education,,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025
 ERI,National ID card,Eritrea,idsystem,,,,2026-03-02-uk-gov-eritrea-knowledge-base-profile
 ERI,Eritrean ID card,Eritrea,idsystem,,Department of Immigration and Nationality,,2025-11-01-us-state-dept-eritrea-civil-documents-national-id
 ERI,Eritrean National ID,ERI,idsystem,,Government of Eritrea,,2024-10-17-eritrea-embassy-national-id
@@ -206,6 +209,7 @@ GIN,Registre national des personnes physiques (RNPP),Guinea,idsystem,,ONECI,,202
 GIN,Registre national des personnes physiques (RNPP),GIN,idsystem,,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
 GIN,RNPP,Registre National des Personnes Physiques,idsystem,,,,2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census
 GIN,Registre National des Personnes Physiques (RNPP),Guinea,idsystem,,body in charge of civil status and identification,communal and consular registers under a national register,2025-04-14-gin-decret-fixant-les-modalites-d-inscription-et-de-tenue-du-registre-nati
+GIN,plateforme d'immatriculation des élèves du primaire,Guinée,other,,Ministry of Education,,2026-02-24-gin-le-ministre-alpha-bacar-barry-lance-la-plateforme-d-immatriculation-de
 GMB,Biometric National Identity Card,Gambia,idsystem,,Gambia Immigration Department,,2026-08-25-standard-gm-new-biometric-id-card-issuance-starts
 GMB,Biometric National Identity Card,The Gambia,idsystem,,Ministry of Interior; Gambia Immigration Department,,2026-08-25-thepoint-gambia-biometric-id-rollout-schedule
 GMB,National Identity Card,The Gambia,idsystem,Margins ID Group technology,Ministry of Interior,,2026-08-07-gambia-national-identity-cards-rollout
@@ -282,6 +286,7 @@ MAR,electronic national identity card,Morocco,idsystem,iDakto with Idemia,DGSN,,
 MAR,Idarati X.0,Morocco,other,Idarati,Ministry of Digital Transition and Administrative Reform,,2026-02-12-biometricupdate-idakto-shareid-digital-wallet-superapp
 MAR,CNIE,Carte nationale d'identité électronique,idsystem,,,,2026-07-19-mar-lematin-minhaty-bourse-massar-rsu
 MAR,CNIE,Morocco,idsystem,,,,2024-03-24-mar-lematin-bac-2024-cnie-services-electroniques
+MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
 MDG,IDMS,Madagascar,idsystem,,Government of Madagascar (PRODIGY/UGD),,2026-03-10-ami-idms-audit-firm-digital-gov-mg
 MDG,IDMS,MDG,idsystem,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MDG,Izaho tokana,Madagascar,idsystem,,Ministry of Interior and Decentralisation,,2026-09-17-mdg-2424-izaho-tokana-2-phase-deux
@@ -448,6 +453,7 @@ SOM,NIRA national identity database,National Identification and Registration Aut
 SOM,National ID system (NIRA),Somalia,idsystem,,NIRA,,2026-10-22-som-somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-i
 SOM,National ID registration,NIRA,idsystem,,National Identification and Registration Authority,,2026-10-21-som-nira-deputy-director-general-visits-refugee-commission-returnee-registration
 SOM,NIRA national ID system,Somalia,idsystem,,NIRA,,2025-01-26-som-maxay-dadka-soomaaliyeed-uga-dhigan-tahay-inay-helaan-kaar-aqoonsi-kad
+SOM,National ID System,Somalia,idsystem,,National Identification and Registration Authority (NIRA),,2024-11-05-som-nira-and-ministry-of-education-launch-joint-initiative-to-integrate-na
 SSD,"Directorate of Civil Registry, Nationality, Passports and Immigration digital registry",South Sudan,other,,"Directorate of Civil Registry, Nationality, Passports and Immigration",,2026-07-28-civil-registry-digital-system-birth-death-marriage
 SSD,National ID,South Sudan,idsystem,,"Directorate of Civil Registry, Nationality, Passport and Immigration",,2026-05-08-govt-procures-5-machine-systems-id-passport-onecitizendaily
 SSD,National ID card,South Sudan,idsystem,,,,2026-10-12-ssd-nec-chiefs-verify-voters-without-ids
@@ -544,6 +550,9 @@ UGA,NIRA national identity card,Uganda,idsystem,,National Identification and Reg
 UGA,National Identification Number,Uganda NIN,idsystem,,NIRA,,2026-10-17-uga-more-than-3mn-tax-records-await-nin-match-before-login-switch
 UGA,national identity card (NIRA),Uganda,idsystem,,National Identification and Registration Authority,,2026-10-19-uga-43-000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors
 UGA,National ID,Uganda,idsystem,,NIRA,,2026-10-27-uga-new-national-ids-to-be-activated-soon-minister-baryomunsi
+UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Number (NIN),Uganda,idsystem,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 ZAF,Digital ID,South Africa,idsystem,,Department of Home Affairs,,2026-10-06-problem-with-plan-for-digital-ids-in-south-africa
 ZAF,Smart ID card,South Africa,idsystem,,Department of Home Affairs,,2026-10-01-zaf-citizen-green-id-book-end-digital-id-prototype
 ZAF,National Population Register,South Africa,idsystem,,Department of Home Affairs,,2026-09-23-timeslive-za-home-affairs-id-theft-cases
