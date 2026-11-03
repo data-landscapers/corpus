@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; UGA; ZWE
-record: c095671fe074
+record: bd240f2aab60
 ---
 
 # News, Oct – Nov 2026
@@ -385,6 +385,20 @@ Côte d'Ivoire's Council of Ministers adopted a decree on 14 October 2026 settin
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Deployed optical fibre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Statistiques du marché des télécommunications en Côte d'Ivoire - 3ème trimestre 2026](https://artci.ci/wp-content/uploads/2026/10/RAPPORT-ARTCI-T3-2026_31.10.26.pdf)** — ARTCI (Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire), 31 October 2026
+
+The regulator ARTCI published Côte d'Ivoire's telecoms market statistics for the third quarter of 2026. Fixed internet subscriptions passed 1 million, up 59.9%. Mobile internet stood at 41.4 million subscriptions and active mobile money accounts at 32.5 million. Starlink was licensed in July 2026.
+
+</div>
+
+</div>
+
 ## Djibouti
 
 <div class="monthly-story" markdown="1">
@@ -464,6 +478,20 @@ Civil society in Fizi territory and Baraka, South Kivu, published a memorandum t
 **[The NTRA issues order to double Egypt’s base internet package capacity at no extra cost](https://www.egyptindependent.com/the-ntra-issues-order-to-double-egypts-base-internet-package-capacity-at-no-extra-cost/)** — Egypt Independent, 28 October 2026
 
 Egypt's telecoms regulator ordered fixed-line providers to double the EGP 150 base internet package from 50 GB to 100 GB at no extra charge. The change takes effect on 1 November 2026. The package was introduced in May 2026 for low-use subscribers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Incumbent national fibre network upgrade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[6 Million New Lines and Fiber Optics Doubled: NTRA Unveils Egypt”s Internet Development Roadmap](https://www.technotime.net/18185)** — Techno Time, 2 November 2026
+
+Egypt's telecoms regulator NTRA plans to upgrade 6 million more fixed internet lines over three years. Fibre-backed lines would then pass 90% of the fixed network. Spokesperson Mohamed Ibrahim put fixed internet users above 13 million, with more than 5.5 million lines already on fibre. He gave 38,000 cell towers, with 40,000 targeted by end-2026. He said 450 MHz has been released to mobile operators.
 
 </div>
 
@@ -699,6 +727,20 @@ A sensitisation session on WARDIP, the 2023-2028 West Africa regional digital in
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Infrastructure-sharing one-stop shop</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation](https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417)** — SikaFinance, 2 November 2026
+
+The 24th FRATEL annual meeting met in Conakry from 28 to 30 October 2026 on the connectivity gap between cities and rural areas. A Guinean telecoms official gave the national target: fibre from 4,350 km to 10,000 km by 2030. The plan names 857 priority rural localities and a one-stop shop for infrastructure sharing. An ITU speaker said 2.2 billion people remained offline in 2025.
+
+</div>
+
+</div>
+
 ## Guinea-Bissau
 
 <div class="monthly-story" markdown="1">
@@ -762,6 +804,36 @@ On 18 October 2026 the ICT Principal Secretary said a 17,000 km fibre project li
 **[Kenya Plans 44,000km Fiber Expansion to Boost Internet Access](https://techweez.com/2026/10/27/kenya-fiber-optic-network-expansion/)** — Techweez, 27 October 2026
 
 Kenya plans a further 44,000km of fibre. One part is a 17,000km project for public institutions. The other is 27,000km of backbone, middle-mile and cross-border links. Government investment of KES 13 billion backs the plan. The plan sits within a Digital Superhighway target of 100,000km. The ICT Principal Secretary's remarks are the source. An earlier account on file describes the 17,000km as already added since 2022.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Kenya 3500 MHz spectrum assignment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Africa plc, Results for half year ended 30 September 2026](https://www.investegate.co.uk/announcement/rns/airtel-africa--aaf/half-year-report/9849212)** — Airtel Africa plc, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Airtel Africa reported results for the half year to 30 September 2026. Its customer base grew 11.6% to 193.9 million, and mobile money customers grew 22.4% to 60.9 million. The report also records the Kenya 3500 MHz spectrum purchase, 100 MHz for US$65 million over 25 years.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Kenya pays Sh8.4 billion for 5G spectrum in network expansion push](https://nation.africa/kenya/business/companies/airtel-kenya-pays-sh8-4-billion-for-5g-spectrum-in-network-expansion-push-5652832)** — Daily Nation, 31 October 2026
+
+Airtel Kenya acquired 100 MHz in the 3500 MHz band for US$65 million (Sh8.4 billion) on a 25-year term. The Communications Authority of Kenya approved the purchase subject to standard conditions. It follows a new 25-year operating licence the operator obtained in August 2026 for an undisclosed fee.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Kenya secures 100MHz 5G spectrum](https://itweb.africa/article/airtel-kenya-secures-100mhz-5g-spectrum/RgeVDvPR3g2MKJN3)** — ITWeb Africa, 2 November 2026
+
+ITWeb Africa reported Airtel Kenya's purchase of 100 MHz of 3500 MHz spectrum for KES8.4 billion, about US$65 million. It adds that Jamii Telecommunications has challenged the Communications Authority's 2025 spectrum pricing framework in the High Court, with Safaricom joining, and that the revised fees were suspended in April 2025. Kenya's 5G subscriptions reached 2.1 million in June 2026.
 
 </div>
 

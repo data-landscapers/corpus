@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: dpi.registry
 places: DZA; AGO; BEN; CMR; COM; CIV; COD; ETH; GAB; GMB; GIN; LSO; MDG; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
-record: 1dc44e947ea0
+record: 6fb9442a44f4
 ---
 
 # News, Oct – Nov 2026
@@ -396,6 +396,20 @@ A World Bank urban and land team told Lesotho's communications ministry it is in
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lesotho Electronic Registry of Interests in Movable Assets (LERIMA)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Movable assets unlock loans for businesses](https://www.thereporter.co.ls/2026/10/30/movable-assets-unlock-loans-for-businesses/)** — The Reporter Lesotho, 30 October 2026
+
+The Central Bank of Lesotho and the CAFI project launched campaigns urging small businesses to pledge movable assets as loan collateral. Assets worth M3.7bn have been registered on LERIMA, the electronic registry of interests in movable assets. CAFI also named an electronic data reporting and supervision system among the partnership's results.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -577,6 +591,14 @@ Nigeria's electoral commission chairman said the national register of voters sta
 **[INEC blames registration officers for AI-generated photos in voters’ register](https://www.vanguardngr.com/2026/10/inec-blames-registration-officers-for-ai-generated-photos-in-voters-register/)** — Vanguard, 30 October 2026
 
 Nigeria's electoral commission said some registration officers used their own logins to add suspected AI-generated photos to the preliminary voters' register. Its biometric identification system found the records. ICT director Lawrence Bayode said the register, uploaded on 26 October 2026, is being cleaned within the 90-day statutory period.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEC blames registration officers, but AI photos are the least of its worries](https://techcabal.com/2026/11/02/inecs-ai-photo-problem-runs-deeper/)** — TechCabal, 2 November 2026
+
+An analysis of Nigeria's preliminary voter register, which lists more than 103 million voters against about 93 million in 2023. On 30 October 2026 the Independent National Electoral Commission's ICT director said registration officers with authorised access had entered some suspect records, including AI-generated photographs. The final register is due on 15 December 2026.
 
 </div>
 

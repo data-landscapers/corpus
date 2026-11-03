@@ -1,19 +1,37 @@
 ---
 title: Research institutions — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: capacity.research
-places: LBY; SLE
-record: f0a593086258
+places: BFA; LBY; SLE
+record: 8d1a40d12d37
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 </nav>
+
+## Burkina Faso
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digit OACS research project on the digital transition of universities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso : Le projet Digit OACS lancé pour analyser la transition numérique dans les universités](https://lefaso.net/spip.php?article150452=)** — leFaso.net, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+A four-year research project on the digital transition of university work in Burkina Faso, Kenya and Nigeria was launched in Ouagadougou on 2 November 2026. Called Digit OACS, it is led by the Africa Multiple pole of excellence at Université Joseph Ki-Zerbo. German development cooperation provides about FCFA 200 million.
+
+</div>
+
+</div>
 
 ## Libya
 

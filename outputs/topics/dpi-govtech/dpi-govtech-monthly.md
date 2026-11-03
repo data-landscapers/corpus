@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bf839354a07f
+record: e5992a1c5cc8
 ---
 
 # News, Oct – Nov 2026
@@ -231,6 +231,20 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online criminal record certificate under the "Tell us once" directive</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitization in Benin: Criminal records now issued instantly and without supporting documents](https://beninwebtv.bj/en/digitization-in-benin-criminal-records-now-issued-instantly-and-without-supporting-documents/)** — Bénin Web TV, 2 November 2026
+
+Benin's Ministry of Justice and Legislation is the first ministry to apply the government's "Tell us once" directive. Since 1 November 2026 a criminal record certificate is issued instantly on service-public.bj with no supporting documents, for a fee of FCFA 1,900. The applicant's identity is checked against the personal identification number and civil-registry records.
+
+</div>
+
+</div>
+
 ## Botswana
 
 <div class="monthly-story" markdown="1">
@@ -448,6 +462,20 @@ Djibouti's second regional public-procurement colloquium, in Dikhil, heard plans
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Court of Accounts information-system modernisation (PAIC-GEP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AMI - Djibouti - Assistance technique a la transformation et a la modernisation des systemes de gouvernance, de controle et de management de la cour des comptes - PAIC-GEP](https://www.afdb.org/en/documents/ami-djibouti-assistance-technique-transformation-98145)** — African Development Bank Group, 2 November 2026
+
+The African Development Bank issued a call for expressions of interest on 2 November 2026 from firms to advise Djibouti's Cour des Comptes. The work covers internal control and risk management, and the digitisation and modernisation of its control processes and information systems. It falls under the PAIC-GEP project.
+
+</div>
+
+</div>
+
 ## DR Congo
 
 <div class="monthly-story" markdown="1">
@@ -567,6 +595,20 @@ Egypt has put key ration card services on the Digital Egypt platform: heads of h
 **[Foreign Ministry launches pilot operation of e-platform for consular services for Egyptians abroad](https://sis.gov.eg/en/media-center/news/foreign-ministry-launches-pilot-operation-of-e-platform-for-consular-services-for-egyptians-abroad/)** — State Information Service (Egypt), 21 October 2026
 
 Egypt's foreign ministry has started piloting a mobile app for consular services for Egyptians abroad, covering 17 embassies and consulates at launch, with more to follow. Users can complete consular transactions in the app and track their progress.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated digital environmental impact assessment system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt launches digital environmental impact assessment system, ends paper-based applications](https://sis.gov.eg/en/media-center/news/egypt-launches-digital-environmental-impact-assessment-system-ends-paper-based-applications/)** — State Information Service (Egypt), 1 November 2026
+
+Egypt made its digital environmental impact assessment system, IDEIA, mandatory from 1 November 2026. Paper applications have ended, and all files must be submitted and tracked on the platform. Minister Manal Awad presented it as the response to investor complaints about delays and about not knowing a file's status.
 
 </div>
 

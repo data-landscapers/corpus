@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: digital.localgov
 places: BDI; CMR; CPV; COD; EGY; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: c23ba892f7ee
+record: d50b815baa18
 ---
 
 # News, Oct – Nov 2026
@@ -121,13 +121,21 @@ Cairo Governor Ibrahim Saber launched a six-month programme for staff of the gov
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Libreville municipal revenue-digitalisation system</p>
+<p class="monthly-story__name">Libreville municipal revenue platform (e-Taxe municipale)</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[Paiement électronique des recettes municipales : quel bilan 4 mois après ?](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres)** — L'Union - Sonapresse, 22 October 2026
 
 Four months after Libreville's mayor launched collection of market fees by Airtel Money and Moov Money at Mont-Bouët market on 12 June, traders interviewed say they paid electronically once or twice before going back to cash, or never did. The article gives no figures from the municipality on how much has been collected electronically.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon : Libreville digitalise la collecte de ses taxes](https://fr.infosgabon.com/gabon-libreville-digitalise-la-collecte-de-ses-taxes/)** — Infos Gabon, 31 October 2026
+
+Libreville city hall officially presented e-Taxe municipale, a platform for declaring and paying municipal taxes and fees online, on 30 October 2026. It was prototyped in January 2026 and put into service on 12 June 2026. The municipality described it as 95% operational.
 
 </div>
 

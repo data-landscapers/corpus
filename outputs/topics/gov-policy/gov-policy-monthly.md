@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
-record: f511efc8f774
+record: 61532123b77a
 ---
 
 # News, Oct – Nov 2026
@@ -568,6 +568,28 @@ President Bola Tinubu has approved a renewed National Strategy on Public Service
 **[NCC Launches Internet Governance Working Group to Strengthen Online Safety and AI Accountability](https://ncc.gov.ng/node/7467)** — Nigerian Communications Commission, 18 October 2026
 
 The Nigerian Communications Commission launched an Internet Governance Working Group at its first Internet Governance Symposium, held in Lagos on 15 October 2026. The commission called for wider cooperation on artificial intelligence, online fraud, privacy and child protection, and cited its Internet Code of Practice 2026 and a cyber resilience framework for the sector.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Government Master Plan 2.0</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria delegation to apply lessons from South Korea’s digital governance System](https://www.techreviewafrica.com/news/7850/nigeria-delegation-to-apply-lessons-from-south-koreas-digital-governance-system)** — TechReviewAfrica, 23 October 2026
+
+A Nigerian delegation led by communications minister Bosun Tijani attended a KOICA training programme on digital governance in Seoul, run with Sangmyung University and the Korea Productivity Centre. Speaking for the delegates, data protection commissioner Vincent Olatunji credited KOICA's help with Nigeria's eGovernment Masterplans 1.0 and 2.0.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[상명대, 나이지리아 디지털정부 고위급 공무원 초청연수 성료](https://edu.donga.com/news/articleView.html?idxno=113353)** — E동아 (Donga), 30 October 2026
+
+A Sangmyung University consortium ran a study visit to Korea for Nigerian senior officials from 19 to 26 October 2026. It was part of a KOICA-funded digital governance project. About 20 people took part, among them the communications minister, the data protection commissioner and the head of Galaxy Backbone. The aim was to help put Nigeria's e-Government Master Plan 2.0 into practice.
 
 </div>
 

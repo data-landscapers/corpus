@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SOM; ZAF; SDN; TZA; TUN; UGA
-record: c0cab50c7406
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SOM; ZAF; SDN; TZA; TUN; UGA
+record: 1dc438a23bd3
 ---
 
 # News, Oct – Nov 2026
@@ -19,6 +19,8 @@ record: c0cab50c7406
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -205,6 +207,22 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 
 </div>
 
+## Cape Verde
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third amendment to the foreigners' entry, stay and exit decree-law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabo Verde altera regime de entrada e permanência de estrangeiros e prevê pedidos de vistos por via digital - Forbes África Lusofona](https://forbesafricalusofona.com/cabo-verde-altera-regime-de-entrada-e-permanencia-de-estrangeiros-e-preve-pedidos-de-vistos-por-via-digital/)** — Forbes Africa Lusófona, 2 November 2026
+
+Cabo Verde's interim President promulgated the third amendment to the decree-law on the entry, stay, exit and expulsion of foreigners. Nationals of countries that need a prior visa may now apply through a digital platform. The amendment also changes the Airport Security Tax and its exemptions for the diaspora.
+
+</div>
+
+</div>
+
 ## Central African Republic
 
 <div class="monthly-story" markdown="1">
@@ -326,6 +344,14 @@ The DR Congo Senate declared admissible on 28 September 2026 a bill by Senator Y
 **[RDC : le Sénat examine une réforme du Code du numérique prévoyant de limiter les réseaux sociaux aux moins de 13 ans](https://gazetteducontinent.cd/rdc-le-senat-examine-une-reforme-du-code-du-numerique-prevoyant-de-limiter-les-reseaux-sociaux-aux-moins-de-13-ans/)** — Gazette du Continent, 30 October 2026
 
 A joint committee of the DRC Senate finished examining a bill amending the 2023 digital code on 28 October 2026. The bill bars children under 13 from social platforms and requires age verification and stronger parental controls. It goes to the Senate plenary, then to the National Assembly.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénat : examen mercredi des amendements sur la proposition de loi modifiant Code numérique](https://acp.cd/nation/senat-examen-mercredi-des-amendements-sur-la-proposition-de-loi-modifiant-code-numerique/)** — ACP (Agence Congolaise de Presse), 2 November 2026
+
+The DRC Senate adopted on 31 October 2026 the joint committee report on a bill amending the 2023 digital code to protect minors online. Twenty-two senators' amendments go to the joint committee, which has 72 hours to examine them before the sitting of 4 November. Senators raised age bands for minors, access to digital content and age verification.
 
 </div>
 
@@ -607,6 +633,20 @@ Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya Information and Communications (Amendment) Bill 2026, ministry draft</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Public Notice: Validation of the Draft Kenya Information and Communication (Amendment) Bill, 2026](https://ict.go.ke/sites/default/files/2026-10/Validation%20Notice-KICA%20Amendment%20Bill%20Nov%2C%202026.pdf)** — Ministry of Information, Communications and the Digital Economy (Kenya), 31 October 2026
+
+Kenya's information and communications ministry has published a revised draft of the Kenya Information and Communication (Amendment) Bill, 2026, for comment. Written comments are due by 17 November 2026, and a virtual validation forum is set for 25 November.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -703,20 +743,6 @@ Mauritius's ICT ministry met Meta on faster removal of fake accounts, impersonat
 
 </div>
 
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electronic Transactions (Amendment) Act 2026</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[From E-Signatures to AI-Driven Contracts: How Mauritius is rewriting the Rules of Digital Transactions](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/)** — Appleby, 5 October 2026
-
-Law firm Appleby reviews Mauritius's Electronic Transactions (Amendment) Act 2026. The Act accepts any reliable electronic signature that identifies the signer and shows intent, gives legal effect to electronic transferable records, and recognises contracts formed by automated systems without human review of each action. Under section 15A, where a certificate or signature originates does not by itself decide its effectiveness.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1099,6 +1125,20 @@ The Sudanese Journalists Syndicate rejected an amendment made by Temporary Decre
 **[Journalists, politicians face death penalty under Sudan legal amendment, activists warn](https://www.newarab.com/news/sudan-legal-amendment-puts-journalists-risk-death-penalty)** — The New Arab, 24 October 2026
 
 Rights groups and activists warn that a temporary decree issued by army commander Abdel Fattah al-Burhan under Sudan's Miscellaneous Amendments Act of 2026 extends Article 51 of the 1991 criminal code, on inciting war against the state and punishable by death or life imprisonment, to electronic and media publications. They say it is likely to be used against dissent alongside the new cybercrime mechanism, and local reports describe a marked fall in social-media posting from Sudan since the change.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Digital Transformation Law of 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مجلس الوزراء يدين الاعتداءات المتكررة على المنشآت الخدمية عبر المسيرات التي تنطلق دولة إثيوبيا](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)** — Sudan News Agency (SUNA), 1 November 2026
+
+Sudan's Council of Ministers approved three draft laws from the Ministry of Digital Transformation and Communications on 1 November 2026. They are a Cybersecurity Regulation Bill, a Data and Artificial Intelligence Regulation Bill and a Digital Transformation Regulation Bill. The bill texts were not published.
 
 </div>
 

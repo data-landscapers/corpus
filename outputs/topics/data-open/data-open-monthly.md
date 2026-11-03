@@ -1,10 +1,10 @@
 ---
 title: Open data — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: data.open
 places: BFA; TCD; GMB; GNB; KEN; MDG; MUS; SLE; TUN; ZWE
-record: 06bd43392b2f
+record: a5654d0d7fae
 ---
 
 # News, Oct – Nov 2026
@@ -122,6 +122,20 @@ Indigenous communities from northern Kenya presented a community-based monitorin
 **[FINANCES PUBLIQUES - Les informations budgétaires accessibles au public](https://www.lexpress.mg/2026/10/finances-publiques-les-informations.html)** — L'Express de Madagascar, 8 October 2026
 
 Madagascar's economy and finance ministry plans to publish more budget information and widen citizen participation after an International Budget Partnership assessment of 2024-2025 scored the country below 61 out of 100. The Court of Audit says it will resume publishing the budget settlement law document in 2027, interrupted since 2020. The exact score is not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cour de cassation online case-law database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Justice: 595 arrêts sélectionnés pour enrichir la jurisprudence](https://newsmada.com/2026/10/31/justice-595-arrets-selectionnes-pour-enrichir-la-jurisprudence/)** — Newsmada, 31 October 2026
+
+Madagascar's Court of Cassation selected 595 of its 3,104 rulings from 2019 to 2022 for its online case-law platform, on 29 October 2026. The work was supported by UNDP. The platform, jurisprudence.justice.gov.mg, has held 1,003 rulings since its launch on 30 May 2025.
 
 </div>
 

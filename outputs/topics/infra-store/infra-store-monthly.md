@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: f5db915efbdb
+record: bbbc6b212727
 ---
 
 # News, Oct – Nov 2026
@@ -274,6 +274,20 @@ Visiting the Ghana Atomic Energy Commission on 9 October, the science and techno
 **[Phase one of Ghana's first data centre to be ready in 24 months - Sam George](https://www.citinewsroom.com/2026/10/phase-one-of-ghanas-first-data-centre-to-be-ready-in-24-months-sam-george/)** — Citi Newsroom, 22 October 2026
 
 Ghana's communications minister Samuel Nartey George said phase one of the country's first national data centre should be complete within 24 months, with equipment being procured through the Public Procurement Authority. The centre is meant to give researchers, universities and industry computing capacity they now buy from abroad.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">G-Cloud national cloud platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sensitive Data Must Be Hosted on Secure Infrastructure – Sam George](https://thevaultznews.com/2026/11/02/sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george/)** — The Vaultz News, 2 November 2026
+
+Ghana's communications minister, Sam George, spoke at the Africa Virtual Asset Summit 2026. He said providers licensed under the Virtual Asset Service Providers Act, 2025 (Act 1154) should verify customers biometrically against the NIA register. Sensitive data, he said, must sit on secure sovereign infrastructure such as G-Cloud. He put One Million Coders at more than 140,000 registered and over 10,000 trained.
 
 </div>
 

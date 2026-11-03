@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: infra.cybersec
-places: BEN; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; ZMB; ZWE
-record: 9657b91ad87d
+places: BEN; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; ZMB; ZWE
+record: afabb1e83ca4
 ---
 
 # News, Oct – Nov 2026
@@ -51,6 +51,8 @@ record: 9657b91ad87d
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -411,6 +413,20 @@ Kenya's ICT minister told the Senate that the national incident response centre'
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cybersecurity Agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[State to strengthen cybersecurity as threats surge, says Murkomen](https://www.kbc.co.ke/state-to-strengthen-cybersecurity-as-threats-surge-says-murkomen/)** — KBC Digital, 2 November 2026
+
+Kenya's National Cybersecurity Agency Board, chaired by Martin Koyabe, was inaugurated at Harambee House. Interior Cabinet Secretary Kipchumba Murkomen directed it to build the real-time detection and response capacity of the National Cybersecurity Operations Centre. Communications Authority data put DDoS attacks at 72.16 million in the year to June 2026, up 114.3%.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -643,6 +659,22 @@ Rwanda's prime minister said reported financial fraud complaints fell by about 3
 **[Rwanda cyber fraud falls 30%, but fund recovery remains low](https://en.igihe.com/business/article/rwanda-cyber-fraud-falls-30-but-fund-recovery-remains-low)** — IGIHE, 8 October 2026
 
 The National Bank of Rwanda said on 8 October 2026 that financial-sector fraud cases fell to 2,879 in the second quarter of 2026 from 4,128 a year earlier, and the sums involved to Rwf471 million, but only 3.6% had been recovered. Governor Soraya Hakuziyaremye said electronic payments reached 341% of GDP in the first half of 2026.
+
+</div>
+
+</div>
+
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National single window for cybersecurity incident reporting</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LA DCSSI LANCE SON NOUVEAU PORTAIL NUMÉRIQUE](https://stcc-ssi.sn/la-dcssi-lance-son-nouveau-portail-numerique/)** — Direction générale du Chiffre et de la Sécurité des Systèmes d’Information (DCSSI), 2 November 2026
+
+Senegal's cybersecurity directorate, the DCSSI, put online a new institutional portal. It incorporates the national single window for reporting cybersecurity incidents. The portal is open to administrations, businesses, organisations and citizens at jokkocyber-dcssi.sn.
 
 </div>
 

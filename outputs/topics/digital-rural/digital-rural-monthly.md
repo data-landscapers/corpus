@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: digital.rural
 places: CMR; NGA; RWA; TGO; ZWE
-record: 7ba1db7918f2
+record: c6c1838b4a64
 ---
 
 # News, Oct – Nov 2026
@@ -48,6 +48,20 @@ Cameroon's posts and telecommunications minister handed four platforms built und
 **[FG turns to blended funding for community-owned rural telecom networks](https://businessday.ng/technology/article/fg-turns-to-blended-funding-for-community-owned-rural-telecom-networks/)** — BusinessDay, 5 October 2026
 
 Nigeria plans to finance community-owned telecom towers in unconnected areas through the Universal Service Provision Fund for telecom equipment, the Rural Electrification Agency for solar power and state governments for land and rights of way, a resolution of the communications regulator's investment forum. Community cooperatives would own the sites. A rollout of about 3,700 towers is due to start in October, with 200 by December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AgroPass farmer platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FCMB and Mastercard Launch AgroPass to Expand Finance Access for Nigerian Farmers](https://techafricanews.com/2026/11/02/fcmb-mastercard-launch-agropass-expand-finance-access-nigerian-farmers/)** — Tech Africa News, 2 November 2026
+
+First City Monument Bank (FCMB) and Mastercard launched AgroPass in Lagos, built on Mastercard's Community Pass. It links Nigerian smallholder farmers to input suppliers, buyers and lenders and builds a digital record of their business activity. FCMB said it provided more than ₦364.6 billion in agricultural financing last year and supported over 196,000 smallholders.
 
 </div>
 

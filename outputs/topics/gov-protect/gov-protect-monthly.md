@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: gov.protect
 places: AGO; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5e63e7756c1e
+record: 876f28230ecf
 ---
 
 # News, Oct – Nov 2026
@@ -411,6 +411,20 @@ Nigeria's five-year health memorandum with the United States, signed on 19 Decem
 **[ASSEMBLÉE NATIONALE : QUATRE TEXTES GOUVERNEMENTAUX ET CINQ PROPOSITIONS D’ENQUÊTE À L’OUVERTURE DE LA SESSION ORDINAIRE 2026-2027](https://www.rts.sn/actualite/detail/a-la-une/assemblee-nationale-quatre-textes-gouvernementaux-et-cinq-propositions-denquete-a-louverture-de-la-session-ordinaire-2026-2027)** — Radiodiffusion Télévision Sénégalaise, 13 October 2026
 
 Majority deputies in Senegal's National Assembly filed a proposal for a commission of inquiry into the health cooperation agreement with the United States, in particular what it means for Senegalese personal data. The Assembly's Bureau will rule on whether it is admissible.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">State video-surveillance network, Dakar</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[JOJ : le dispositif de vidéosurveillance mis en place par l’Etat est conforme à la loi (CDP)](https://aps.sn/joj-le-dispositif-de-videosurveillance-mis-en-place-par-letat-est-conforme-a-la-loi-cdp/)** — Agence de Presse Sénégalaise (APS), 29 October 2026
+
+The president of Senegal's data protection commission, the CDP, said the state's video surveillance for the Youth Olympic Games had the commission's prior authorisation and complies with the law. The state had widened its existing camera network in Dakar, its suburbs and Saly ahead of the games. The stated aim is the security of people and property.
 
 </div>
 

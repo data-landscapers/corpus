@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: dpi.pay
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: dfb8910b5c88
+record: ade6a241eab0
 ---
 
 # News, Oct – Nov 2026
@@ -168,6 +168,20 @@ Benin's government announced on 3 October 2026 that public servants on official 
 **[Tarification des actes : Les coûts des actes délivrés par les juridictions fixés par arrêté interministériel](https://fraternite.bj/tarification-des-actes-les-couts-des-actes-delivres-par-les-juridictions-fixes-par-arrete-interministeriel/)** — Fraternité, 16 October 2026
 
 Benin's finance and justice ministers set fees for 109 documents issued by the courts and the justice ministry, now payable only online. A criminal-record extract costs FCFA 1,900 and a naturalisation application FCFA 50,000.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional instant payment rail</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué de MTN Mobile Money Bénin](https://www.24haubenin.info/?Communique-de-MTN-Mobile-Money-Benin=)** — 24 Heures au Bénin, 2 November 2026
+
+MTN Mobile Money Bénin said its interoperable e-money transactions run through the BCEAO's PI-SPI from 2 November 2026. National interoperable transfers are free up to FCFA 8,000 a day. Above that they cost 0.5%. The wallet ceiling rises from FCFA 2 million to 4 million. The cap on an interoperable transfer rises from FCFA 500,000 to 2 million.
 
 </div>
 
@@ -648,6 +662,20 @@ The Bank of Ghana warned the public against 20 mobile loan apps operating withou
 **[Stanbic Ghana explores stablecoin trade settlement](https://itweb.africa/article/stanbic-ghana-explores-stablecoin-trade-settlement/xnklOvz1Pj4q4Ymz)** — ITWeb Africa, 20 October 2026
 
 Stanbic Bank Ghana and Hong Kong-based RD Technologies said, as reported on 20 October 2026, that they are exploring a stablecoin-backed cross-border settlement service for Ghanaian importers paying Asian suppliers. Stanbic would handle onboarding, KYC and local-currency settlement, and RD Technologies the digital-asset rails. Next steps are regulatory engagement, technical validation and a controlled pilot, all subject to regulatory no-objection.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payment Systems Advisory Committee</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Opening Remarks by Governor Dr Johnson Pandit Asiama at the 11th Meeting of the Payment Systems Advisory Committee](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)** — Bank of Ghana, 2 November 2026
+
+Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Systems Advisory Committee on 2 November 2026. He named low GhQR adoption, no agent interoperability and growing bilateral arrangements as sources of fragmentation. He put GhIPSS volumes at about 530 million transactions worth over GH¢1.73 trillion in 2025.
 
 </div>
 
@@ -1269,6 +1297,20 @@ South Africa's revenue service sets out the rules taxpayers must follow when pay
 **[South Africa's digital ID could change how you pay](https://techcentral.co.za/south-africas-digital-id-could-change-how-you-pay/287578/)** — TechCentral, 22 October 2026
 
 DIDx, a South African digital identity firm with a commercial stake in the outcome, told TechCentral that a credential from home affairs' MyMzansi digital ID app could seed a payment credential under the Reserve Bank's PEMKey programme, sparing users a second onboarding. The Reserve Bank has not said whether MyMzansi credentials will be accepted or published the PEMKey sandbox participants.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">eZAR rand stablecoin</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[eZAR opens rand stablecoin to SA public](https://www.itweb.co.za/article/ezar-opens-rand-stablecoin-to-sa-public/8OKdWMDXO8jMbznQ)** — ITWeb South Africa, 2 November 2026
+
+eZAR, a rand-backed stablecoin, opened to the South African public after almost a year as a pilot. It is run by eZAR Ltd, Ninety One and AVBOB Financial Services. R303 million of tokens were in circulation on 30 October 2026. Reserves sit mainly in the Ninety One Money Market Fund. The issuer states that eZAR is a crypto asset, not legal tender or a bank deposit.
 
 </div>
 

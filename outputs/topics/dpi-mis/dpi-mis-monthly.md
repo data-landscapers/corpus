@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: dpi.mis
 places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3519d29069fc
+record: 41cf92d1987b
 ---
 
 # News, Oct – Nov 2026

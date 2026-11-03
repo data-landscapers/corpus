@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: tech.ai
 places: DZA; AGO; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 61929c16ea74
+record: 4e5df13bd762
 ---
 
 # News, Oct – Nov 2026
@@ -598,6 +598,22 @@ UNDP and The Gambia's Independent Electoral Commission launched e-Monitor Plus a
 **[The Traffitech-GH SMS spot-fine system: The good, the sad, and the funny - Bright Simons writes](https://www.myjoyonline.com/the-traffitech-gh-sms-spot-fine-system-the-good-the-sad-and-the-funny-bright-simons-writes/)** — MyJoyOnline, 4 October 2026
 
 In a MyJoyOnline opinion piece, Bright Simons examines Ghana's Traffitech-GH system, under which police will fine motorists by text message from 1 November 2026. He reports that the operator, NTMEL, is 60 per cent owned by Frank Osei and 40 per cent by Sensys Gatso, and that fine revenue is split 40 per cent to the operator and 60 per cent to government. He calls for the PPP contract to be published.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[‘Everything is ready’ – MTTD confirms November 1 TraffiTech-GH rollout](https://www.citinewsroom.com/2026/10/everything-is-ready-mttd-confirms-november-1-traffitech-gh-rollout/)** — Citi Newsroom, 31 October 2026
+
+Ghana's Motor Traffic and Transport Department said on 31 October 2026 that its TraffiTech-GH enforcement system would start on 1 November. Cameras will detect speeding and owners will receive electronic notices by text message. Owners have 14 days to pay the fine or contest it in court, and transport operators have threatened a strike.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana : la police déploie des caméras connectées pour automatiser le contrôle routier](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)** — wearetech.africa, 2 November 2026
+
+Ghana Police's TraffiTech-GH camera enforcement system went live on 1 November 2026, starting with speeding on crash-prone routes. The Motor Traffic and Transport Department reviews offences captured by fixed, vehicle-mounted and laser devices and notifies drivers by SMS. Drivers have 14 days to pay by mobile money or card, or to contest the fine.
 
 </div>
 

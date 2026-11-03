@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; TZA; TGO; UGA; ZMB; ZWE
-record: f1d1eb1499df
+record: 82708a031aac
 ---
 
 # News, Oct – Nov 2026

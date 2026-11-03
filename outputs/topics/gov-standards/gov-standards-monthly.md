@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 subject: gov.standards
-places: BEN; BFA; BDI; CMR; COG; EGY; SWZ; GHA; KEN; MRT; NAM; NGA; RWA; ZAF
-record: 25cff863d5ab
+places: BEN; BFA; BDI; CMR; COG; EGY; SWZ; ETH; GHA; KEN; MRT; NAM; NGA; RWA; ZAF
+record: 2be56b48a689
 ---
 
 # News, Oct – Nov 2026
@@ -23,6 +23,8 @@ record: 25cff863d5ab
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -146,6 +148,22 @@ Egypt's telecoms regulator described an online system that scores new cities aga
 **[Africa seeks control of AI safety as Eswatini launches standards centre](https://www.standardmedia.co.ke/business/article/2001561221/africa-seeks-control-of-ai-safety-as-eswatini-launches-standards-centre)** — The Standard, 30 October 2026
 
 The Eswatini Standards Authority and AICE Africa launched an AI Safety and Standards Centre of Excellence on 27 October 2026. It will train standards officers, auditors and regulators, and work towards an AI testing laboratory and an African AI standards baseline report. An AI safety summit is planned for Mbabane in July 2027.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mandatory scannable digital product marks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Authorities' Bid for Digital Quality Sparks Fury Among Cash-strapped Businesses](https://addisfortune.news/authorities-bid-for-digital-quality-sparks-fury-among-cash-strapped-businesses)** — Addis Fortune, 31 October 2026
+
+The Institute of Ethiopian Standards is building scannable digital marks, with the Ethiopian Artificial Intelligence Institute, to replace manual watermarks on essential products. The marks will become mandatory for those products. Revised fees reach up to 0.5% of revenue, and businesses have pushed back.
 
 </div>
 
