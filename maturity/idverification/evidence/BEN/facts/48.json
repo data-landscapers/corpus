@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-ben-digitization-in-benin-criminal-records-now-issued-instantly-and-withou",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Since 1 November 2026 the criminal record certificate on service-public.bj is issued instantly, the system verifying the applicant's identity against the Personal Identification Number and civil registry records, per Bénin Web TV.",
+   "as_of": "2026-11-01",
+   "date_precision": "day",
+   "system": "service-public.bj criminal record service",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "service-public.bj",
+   "country_label": "Benin",
+   "class": "relying",
+   "platform": "",
+   "owner": "Ministry of Justice and Legislation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

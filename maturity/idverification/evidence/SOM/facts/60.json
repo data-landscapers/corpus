@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-02-somalia-puts-hubiye-national-id-verification-platform-into-o",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIRA says service providers verify ID credentials against its national database through Hubiye, with a provider submitting the ID number and the holder authorising by one-time password.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Hubiye",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The document says Hubiye serves banking and public services, and UNDP counted 25 integrated services including commercial banking in May 2026.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Hubiye",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "UNDP reported in May 2026 that Hubiye served 25 integrated services and about 1.2 million citizens.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Hubiye",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
