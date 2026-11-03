@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,emis,system,coverage,underway,2026-02-04,ZAF-001,,
-ZAF,emis,learners,coverage,individual,2026-01-07,ZAF-002,,
-ZAF,emis,linked,coverage,,,,,nothing held
+ZAF,emis,system,coverage,inservice,2025,ZAF-003,ZAF-001=underway,
+ZAF,emis,learners,coverage,individual,2026-01-07,ZAF-002;ZAF-004,,
+ZAF,emis,linked,coverage,,,,,nothing found

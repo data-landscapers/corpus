@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-02-ken-government-to-roll-out-kemis-on-january-9-2026-to-track-learners-natio",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of Education confirmed KEMIS will replace NEMIS and go live on 9 January 2026, holding records on learners, teachers and schools nationwide, with backend preparations under way.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "KEMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KEMIS",
+   "country_label": "Kenya",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-ago-empresa-angolana-assume-implementacao-tecnica-do-sistema-de-dados-da-e",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Mwango Brain, S.A. took on technical implementation, as executing partner, of the ADEA Education and Skills Data Challenge in Angola with the Education Ministry's planning and statistics office, to modernise the education management information system, including a national policy for it and training of national technicians.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Education Management Information System",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Education Management Information System",
+   "country_label": "Angola EMIS",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education (GEPE)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

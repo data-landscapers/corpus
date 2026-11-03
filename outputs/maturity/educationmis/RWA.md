@@ -2,12 +2,12 @@
 
 ## Education information system
 
-**Education information system.** [UNICEF says it has supported MINEDUC for over five years to move the EMIS from paper to a fully digital web-based system, with the SDMS operational as a component of the envisioned digital EMIS](<https://www.unicef.org/rwanda/stories/harnessing-transformative-power-technology-educational-outcomes>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Education information system.** [The ministry's web-based School Data Management System (SDMS) tracks enrolment, attendance, results, school finance and school feeding](<https://africa.harvard.edu/studentresearch/ayoarowolo>). In 2025 the ministry's chief digital officer said annual education statistics are now compiled through it in a fraction of the time. School compliance had risen from 40% to 70-80%. [In July 2025 UNICEF said the SDMS is operational as one part of a fully digital EMIS](<https://www.unicef.org/rwanda/stories/harnessing-transformative-power-technology-educational-outcomes>).
 
-**Learner records.** [A GPE blog by Educate! staff says Rwanda's School Data Management System houses the unique ID number of every teacher and all the nation's students, almost 4 million (2023, before the three-year window)](<https://www.globalpartnership.org/blog/lesson-rwanda-comprehensive-assessment-management-software-scores-highly-teachers>).
+**Learner records.** [A headteacher interviewed in 2025 said every student is assigned a unique ID in the SDMS](<https://africa.harvard.edu/studentresearch/ayoarowolo>). The system tracks each student's enrolment and attendance. [A 2023 GPE blog put the students it holds at almost 4 million](<https://www.globalpartnership.org/blog/lesson-rwanda-comprehensive-assessment-management-software-scores-highly-teachers>).
 
-**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://www.unicef.org/rwanda/stories/harnessing-transformative-power-technology-educational-outcomes>).
+**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. [The 2025 report says the SDMS does not yet fully connect with other management systems](<https://africa.harvard.edu/studentresearch/ayoarowolo>).
 
 ***Also on file***. [CA-MIS](<https://www.globalpartnership.org/blog/lesson-rwanda-comprehensive-assessment-management-software-scores-highly-teachers>).
 
-***Not found***. No source found since October 2023 says: is the school census run through it.
+***Not found***. No source found since October 2023 says learner records are linked to the national ID or another government system.

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-19-zaf-question-to-the-minister-of-basic-education-nw7339",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Department of Basic Education says it records learner enrolment data through LURITS, with 13,596,869 learners recorded for 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "LURITS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "The Department says LURITS holds learner-level records for 13,596,869 learners in 2025, those without ID numbers captured under alternative unique identifiers.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "LURITS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LURITS",
+   "country_label": "Learner Unit Record Information and Tracking System",
+   "class": "emis",
+   "platform": "",
+   "owner": "Department of Basic Education",
+   "tiers": "national, fed by provincial systems and data warehouses"
+  }
+ ],
+ "note": ""
+}

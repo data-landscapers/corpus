@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-26-gmb-strengthening-school-management-and-data-reporting-in-the-gambia-and-e",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Eswatini's Ministry of Education and Training launched a DHIS2-based EMIS for aggregate and individual data collection in 100 Manzini schools in late 2021 and extended it to all schools the following year.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "DHIS2-based EMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "Eswatini's DHIS2-based EMIS collected individual learner data and was extended to all schools in 2022, with individual records needed under the national PIN system.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "DHIS2-based EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SEMIS (DHIS2)",
+   "country_label": "Eswatini",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Training",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

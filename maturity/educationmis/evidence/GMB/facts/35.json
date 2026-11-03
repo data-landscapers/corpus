@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-26-gmb-strengthening-school-management-and-data-reporting-in-the-gambia-and-e",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Gambia's Ministry of Basic and Secondary Education launched pilot projects in 2023 to implement the SEMIS app for individual-level student records on top of its DHIS2-based EMIS.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "SEMIS (DHIS2)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SEMIS (DHIS2 Tracker)",
+   "country_label": "Gambia",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

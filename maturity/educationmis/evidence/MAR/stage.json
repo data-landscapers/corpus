@@ -5,14 +5,14 @@
       "sub_indicator": "emis",
       "stage": "3",
       "system": "inservice",
-      "learners": "",
+      "learners": "individual",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-001",
-      "gaps": "No source found since October 2023 says the system holds a record for each learner.",
-      "note": "Reassessed in the rebuild: the ministry ran the 2025-2026 school census from October 2025 with Massar as the main source of statistics. Nothing found says Massar holds a unique learner number, so not 4.",
-      "as_at": "2026-11-02"
+      "stage_sources": "MAR-001;MAR-002",
+      "gaps": "No source found since October 2023 says Massar gives each learner a unique learner number.",
+      "note": "Reassessed in stage 4c: a 2024 census memorandum orders each new pupil enrolled in Massar, so it holds a record per pupil. Nothing found names a unique learner number, which rung 4 asks for, so not 4.",
+      "as_at": "2026-11-03"
     }
   ]
 }

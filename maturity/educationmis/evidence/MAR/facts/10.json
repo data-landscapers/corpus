@@ -1,0 +1,52 @@
+{
+ "slug": "2024-11-01-mar-le-ministere-de-l-education-nationale-lance-le-processus-global-de-rec",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of National Education's memorandum launching the annual school census tells regional officials to complete the census data, including primary enrolment, in the Massar system.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "Massar",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "The ministry's memorandum orders new first-year primary pupils in public, private and non-structured schools to be enrolled in Massar, with duplicate enrolment avoided, and nationality and disability type recorded for each pupil.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "Massar",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Massar",
+   "country_label": "Massar",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": "national"
+  },
+  {
+   "system": "GRESA",
+   "country_label": "GRESA establishment file",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  },
+  {
+   "system": "ESISE",
+   "country_label": "ESISE staff statistics system",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

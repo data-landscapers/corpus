@@ -2,11 +2,11 @@
 
 ## Education information system
 
-**Education information system.** [The chapter says the Digital Transformation of the Education Ministry (MOETE) connects governorates, districts and schools by digitalising administrative processes and collecting, storing and organising individual-level data about students, teachers and assets](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>). [The ministry says its central database holding all elements of the education process is the source of the 2024/25 annual statistical yearbook](<https://emis.gov.eg/statistics/books/2024-2025/main_book2024.html>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Education information system.** [The ministry says its central database is the source of the 2024/25 statistical yearbook](<https://emis.gov.eg/statistics/books/2024-2025/main_book2024.html>). It holds every element of the education process. [In June 2025 the ministry took kindergarten and grade 1 applications for public schools online through its EMIS portal](<https://moe.gov.eg/what-s-on/news/regis/>). School heads register admitted foreign students on the central database. [A 2025 book chapter says the ministry's digital transformation links governorates, districts and schools](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>). It collects individual-level data on students, teachers and assets.
 
-**Learner records.** [The chapter says the Digital Identity Project records and stores data on students (attainment, attendance, tablet use, health) in central secured databases](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>).
+**Learner records.** [The same chapter says the ministry's Digital Identity Project stores data on each student in central databases](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>). These cover attainment, attendance, tablet use and health. Nothing found names a unique learner number in national service.
 
-**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>).
+**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. The nearest held fact is [the ministry's Digital Identity Project](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>).
 
 ***Also on file***. [Egyptian Knowledge Bank LMS](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>).
 

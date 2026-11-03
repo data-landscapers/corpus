@@ -21,12 +21,12 @@ The AU Digital Education Strategy asks for education management information syst
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 6 |
+| 4 Operating | 7 |
 | 3 Established | 18 |
 | 2 Nascent | 18 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
-| No evidence | 4 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -66,6 +66,13 @@ The education information system held a record for each learner in 2026; a link 
 The education information system held a record for each learner in 2026; a link to the national ID is not on record.
 
 - The Unlocking Data Initiative policy brief says cohort tracking within the EMIS generates longitudinal learner-level data through Learner Identification Numbers assigned to pupils on entry to school, though the data has rarely been analysed since 2012 ([source, 2026-05](https://www.gpekix.org/sites/default/files/2026-07/Saddick%20et%20al.%20-%202026%20-%20From%20Data%20Collection%20to%20Data%20Use%20Strengthening%20decision-making%20at%20subnational%20levels%20in%20Malawi.pdf)).
+
+### Rwanda: 4 Operating
+
+The education information system held a record for each learner in 2025; a link to the national ID is not on record.
+
+- The Harvard CAS field report says Rwanda's Ministry of Education runs the web-based SDMS, with which annual education statistics are now compiled in a fraction of the time ([source, 2025-06-23](https://africa.harvard.edu/studentresearch/ayoarowolo)).
+- The report says, from a headteacher, that every student is assigned a unique ID in the SDMS, which tracks enrolment and attendance per student, with school compliance up from 40% to 70-80% ([source, 2025-06-23](https://africa.harvard.edu/studentresearch/ayoarowolo)).
 
 ### South Africa: 4 Operating
 
@@ -143,9 +150,10 @@ The school census was run through an education information system in 2026; a rec
 
 ### Morocco: 3 Established
 
-The school census was run through an education information system in 2025; a record for each learner is not on record.
+The school census was run through an education information system in 2025, with a record per pupil; a unique learner number is not on record.
 
 - Morocco's education ministry launched the 2025-2026 annual school census, running from 20 October to 20 November 2025, with updates to the Massar system as the main reference from which most statistical data come, per a ministry letter reported by Express TV ([source, 2025-10-20](https://fr.expresstv.ma/2025/10/le-ministere-de-leducation-nationale-lance-le-recensement-scolaire-annuel-pour-lannee-scolaire-2025-2026/)).
+- The Ministry of National Education's memorandum launching the annual school census tells regional officials to complete the census data, including primary enrolment, in the Massar system ([source, 2024-11-01](https://fr.hibapress.com/news-144060.html)).
 
 ### Mozambique: 3 Established
 
@@ -212,6 +220,7 @@ An education information system was under way in 2026; a school census run throu
 
 - The Government of Cabo Verde says the GPE approved a US$1 million grant for PRISE 2026-2028, whose technical areas include the expansion and modernisation of the SIGE platform ([source, 2026-04-08](https://www.governo.cv/parceria-global-para-educacao-aprova-subvencao-nao-reembolsavel-de-um-milhao-de-dolares-ao-governo/)).
 - The Government of Cabo Verde says the GPE approved a US$1 million grant funding PRISE 2026-2028, whose technical areas include expanding and modernising SIGE ([source, 2026-04-08](https://www.governo.cv/parceria-global-para-educacao-aprova-subvencao-nao-reembolsavel-de-um-milhao-de-dolares-ao-governo/)).
+- Cabo Verde's national education directorate says the SIGE is implemented in basic and secondary education, with data entry by teachers and school secretariats mandatory ([source, 2025-03-18](https://www.asemana.cv/index.php/atualidade/14072-implementacao-do-sige-e-passo-fundamental-para-eficiencia-da-gestao-educativa-no-pais-dne)).
 
 ### Congo: 2 Nascent
 
@@ -277,11 +286,11 @@ An education information system was under way in 2024; a school census run throu
 
 - Madagascar's authorities launched at a 15-17 July 2024 workshop in Toamasina the digitisation of schools, starting in Atsinanana, covering data collection and a pupil register, with the education ministry planning extension to other regions ([source, 2024-07-15](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/madagascar-met-ses-ecoles-au-numerique)).
 
-### Rwanda: 2 Nascent
+### Mauritius: 2 Nascent
 
-An education information system was under way in 2025; a school census run through it is not on record.
+A secondary-school education information system was piloted in 2025; a school census run through a national system is not on record.
 
-- UNICEF says it has supported MINEDUC for over five years to move the EMIS from paper to a fully digital web-based system, with the SDMS operational as a component of the envisioned digital EMIS ([source, 2025-07-02](https://www.unicef.org/rwanda/stories/harnessing-transformative-power-technology-educational-outcomes)).
+- The document says the UNESCO IITE and Chengdu Group project piloted a secondary school Education Management Information System in Mauritius ([source, 2025-08-29](https://iite.unesco.org/news/unesco-iite-and-chengdu-group-complete-project-on-inclusive-digital-education-in-mauritius-and-rwanda/)).
 
 ### Sao Tome and Principe: 2 Nascent
 
@@ -351,12 +360,6 @@ Nothing found names a national education information system or says there is non
 Not established: Nothing found says whether the education ministry holds its statistics in an information system.
 
 ### Mauritania: No evidence
-
-Nothing found names a national education information system or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the education ministry holds its statistics in an information system.
-
-### Mauritius: No evidence
 
 Nothing found names a national education information system or says there is none, so no stage is set.
 

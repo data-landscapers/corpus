@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-05-mli-acquisition-et-dotation-en-materiels-informatique-ainsi-que-le-recrute",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The document says the education ministry has committed to setting up and operationalising a SIGE, and EUMC is recruiting a consultant to strengthen it for integrating JIGITUGU.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "SIGE",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "SIGE",
+   "class": "emis",
+   "platform": "education portal at CPS",
+   "owner": "Ministry of National Education (CPS)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-06-bfa-protecting-education-from-attack-eie-data-in-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "IIEP says the ministry's EMIS had emergency-education data integrated and the ministry updated its annual school census questionnaires, with the EMIS used to inform government on school reopening.",
+   "as_of": "2024-09-06",
+   "date_precision": "day",
+   "system": "EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "EMIS",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

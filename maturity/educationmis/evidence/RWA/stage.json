@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "emis",
-      "stage": "2",
-      "system": "underway",
-      "learners": "",
+      "stage": "4",
+      "system": "inservice",
+      "learners": "individual",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-001",
-      "gaps": "No source found since October 2023 says: is the school census run through it.",
-      "note": "Reassessed in the rebuild: UNICEF said in July 2025 the SDMS is operational as one component of a digital EMIS still envisioned. The 2023 claim of an ID for every student predates the window, and no census through the system is found, so not 3.",
-      "as_at": "2026-11-02"
+      "stage_sources": "RWA-003;RWA-004",
+      "gaps": "No source found since October 2023 says learner records are linked to the national ID or another government system.",
+      "note": "Reassessed in stage 4c: a 2025 report says annual statistics are compiled through the SDMS and every student holds a unique ID in it. A headteacher's heading naming identity integration describes no link in service, so not 5.",
+      "as_at": "2026-11-03"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "emis",
-      "stage": "no evidence",
-      "system": "",
+      "stage": "2",
+      "system": "underway",
       "learners": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the education ministry holds its statistics in an information system.",
-      "note": "Reassessed in the rebuild: no evidence row is held.",
-      "as_at": "2026-11-02"
+      "stage_sources": "MUS-001",
+      "gaps": "No source found since October 2023 says the school census or education statistics are produced through a national education information system.",
+      "note": "Reassessed in stage 4c: a 2025 UNESCO IITE project piloted a secondary-school EMIS. A pilot is the ministry building a system, not one producing its statistics, so 2, not 3.",
+      "as_at": "2026-11-03"
     }
   ]
 }

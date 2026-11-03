@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,emis,system,coverage,underway,2025-07-02,RWA-001,,
-RWA,emis,learners,coverage,individual,2023-06-21,RWA-002,,nothing dated since 2023-11-01
-RWA,emis,linked,coverage,,,,,nothing found
+RWA,emis,system,coverage,inservice,2025-06-23,RWA-003,RWA-001=underway,
+RWA,emis,learners,coverage,individual,2025-06-23,RWA-002;RWA-004,,
+RWA,emis,linked,coverage,linked,2025-06-23,RWA-005,,

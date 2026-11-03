@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-18-cpv-implementacao-do-sige-e-passo-fundamental-para-eficiencia-da-gestao-ed",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Cabo Verde's national education directorate says the SIGE is implemented in basic and secondary education, with data entry by teachers and school secretariats mandatory.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "SIGE",
+   "class": "emis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
