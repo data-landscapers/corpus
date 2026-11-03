@@ -112,7 +112,7 @@ AI transcription of HIV registers cut errors to 0.4% by 2025; farming and tax AI
 
 ### Morocco: 5 Leading
 
-Customs AI targeting found 34 million dirhams of evaded duties in 2024, and AI also serves medicines licensing and education; no source found says how widely.
+Customs AI targeting found 34 million dirhams of evaded duties in 2024, and AI serves medicines licensing and education; no source found says how widely.
 
 - Morocco's customs administration (ADII) reports that in 2024 its BADR system, described as applied artificial intelligence, processed 1,540 fraud alerts and was enriched by 434 new rules and 199 updates, alongside predictive algorithms for targeting ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
 - The ADII 2024 activity report says algorithm-based targeting detected 34 MDH of evaded duties and taxes (24 MDH in 2023), of which 20 MDH was recovered and 14 MDH levied as fines ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
@@ -180,7 +180,7 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 
 ### Cape Verde: 3 Established
 
-AI-read heart and eye tests reached all islands with the health ministry in 2026; no source found reports AI in a second sector and measured results.
+AI-read heart and eye tests reached all islands with the health ministry in 2026; no source found reports AI elsewhere or measured results.
 
 - The Cabo Verdean American Medical Society, working with the Ministry of Health, says it has distributed cloud ECG devices across all islands that make automatic diagnoses with AI, and that AI lets nurses diagnose cataracts, glaucoma and retinopathy ([source, 2026-04](https://www.asemana.cv/index.php/atualidade/23296-missoes-medicas-do-projeto-continuidade-dos-eua-reforcam-saude-em-cabo-verde-com-tecnologia-de-ponta)).
 
@@ -199,7 +199,7 @@ Egypt has AI in service in justice and in crop mapping, reported separately; no 
 
 ### Eritrea: 3 Established
 
-The health ministry's AI chest X-ray units were deployed for TB screening in 2024; no source found reports AI in a second sector and measured results.
+The health ministry's AI chest X-ray units were deployed for TB screening in 2024; no source found reports AI elsewhere or measured results.
 
 - Delft Imaging says Eritrea's Ministry of Health had 2 Delft Light and 6 CAD4TB units deployed in 2024 to detect TB-related abnormalities automatically, and expanded the roll-out with 8 more CAD4TB in 2026 ([source, 2024](https://delftimaging.com/impact/eritrea/)).
 
@@ -257,7 +257,7 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 
 ### Rwanda: 3 Established
 
-The public health system uses AI to read chest X-rays for TB in 2026; no source found reports AI in a second sector and measured results.
+The public health system uses AI to read chest X-rays for TB in 2026; no source found reports AI elsewhere or measured results.
 
 - The Global Fund case study says Rwanda uses AI in its public health system, with mobile vans screening for TB using AI software, computer-aided diagnostics reading digital chest X-rays to detect TB, and AI-assisted triage for TB case finding ([source, 2026-01](https://www.theglobalfund.org/media/spalexqj/publication_rwanda-digital-health_casestudy_en.pdf)).
 - The Conversation's authors say Ethiopia and Rwanda used AI in TB and cervical cancer screening, in a regulatory vacuum ([source, 2026-06-10](https://theconversation.com/ai-regulation-in-africa-why-copying-the-european-model-wont-work-283524)).

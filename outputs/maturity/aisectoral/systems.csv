@@ -73,6 +73,7 @@ GHA,Publican Digital Inspection Solution,Publican,sectorai,ICUMS,Ghana Revenue A
 GHA,PROMPTS,Ghana,sectorai,AI-enabled two-way messaging,Jacaranda Health with Ghana Health Service,,2026-08-25-gha-building-a-sustainable-future-for-prompts-in-ghana
 GHA,PROMPTS (Nurse Mary),Ghana,sectorai,SMS,Ghana Health Service with Jacaranda Health,,2026-07-14-gha-ghs-jacaranda-deploy-ai-tool-for-maternal-care
 GHA,AI-enabled early warning systems for climate-sensitive diseases,Ghana,sectorai,DHIS2,Ministry of Health with WHO and UNDP,,2026-05-17-gha-ghana-launches-artificial-intelligence-driven-health-programme-to-stre
+GHA,AI customs automation,AI customs automation,other,,Government of Ghana,,2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation
 GIN,Plateforme numerique de suivi des alertes du COU-SP,Guinee,other,,ANSS / Ministere de la Sante et de l'Hygiene publique,,2026-09-15-gin-guineejet-anss-oim-ia-urgences-sanitaires
 GMB,National Misinformation and Disinformation Response Centre (NMDRC),The Gambia,other,AI-powered platform built by Dundal Systems,Ministry of Information,,2026-04-27-grts-gambia-national-misinformation-disinformation-response-centre
 GMB,Rental Tax Compliance System (rTCS),Rental Tax Compliance System,sectorai,RippleNami ML model,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study
@@ -139,6 +140,8 @@ NGA,VIN Valuation system,VIN Valuation system,sectorai,,Nigeria Customs Service,
 NGA,Digital Agricultural Extension Systems (DAES),Nigeria,sectorai,AI-enabled advisory platform with voice and USSD channels,"consortium led by AFAAS, Sasakawa Africa Association and Sahel Consulting, funded by the Gates Foundation",,2025-12-22-nga-nigeria-pilots-ai-enabled-digital-extension-system-to-bridge-farm-advi
 NGA,AI Scaling Hub,Nigeria,other,,Government with Gates Foundation,,2025-11-05-nga-funding-gap-threatens-nigeria-s-ai-growth-despite-strong-implementatio
 NGA,CAC AI-enabled registration platform,Nigeria,other,,Corporate Affairs Commission,,2025-07-01-nga-cac-unveils-ai-powered-portal-for-faster-company-registrations
+NGA,IT2 tokenised biometric identity platform (Trust Stamp/BLIP),Nigeria,other,Trust Stamp IT2,BLIP Limited (deployer),,2026-10-27-trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-de
+NGA,"AFRIDATA Nigeria data centres (Lagos, Delta)",Nigeria,other,,AFRIDATA,Lagos designed to Tier IV,2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study
 RWA,Horizon1000,Rwanda,sectorai,,Gates Foundation and OpenAI,primary healthcare clinics,2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa
 RWA,Kubaka.gov.rw,Rwanda,other,national building permits platform,MININFRA and Rwanda Housing Authority,,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a
 RWA,Chidi,Rwanda,sectorai,Anthropic Claude model,ALX,pilot with educators and higher learning institutions,2025-11-18-rwa-alx-anthropic-and-the-government-of-rwanda-launch-landmark-ai-learning
@@ -157,6 +160,7 @@ SLE,BabyChecker,Sierra Leone,sectorai,smartphone AI ultrasound,Delft Imaging,,20
 SOM,SAADAAL,Somalia,sectorai,AI-powered early warning system,"Shaqodoon Organization, deployed with the Ministry of Humanitarian Affairs and Disaster Management of Southwest State",sub-national,2026-04-29-somalia-shaqodoon-saadaal-ai-early-warning
 SOM,Saadaal,Somalia,sectorai,AI agent with dashboard,Shaqodoon Organization (NGO),,2024-12-23-som-using-ai-to-support-people-and-services-during-natural-disasters
 SSD,AI-assisted portable digital X-ray machines,South Sudan,sectorai,,Ministry of Health,,2024-03-24-ssd-technology-accelerates-tb-detection-in-south-sudan
+STP,DireitosAoPovo,DireitosAoPovo,other,AI-augmented access-to-justice platform,UNODC,,2026-06-26-stp-un-convenes-sao-tome-and-principe-s-justice-and-security-leaders-on-cy
 SWZ,ERS fiscalisation system,Eswatini,sectorai,,Eswatini Revenue Service,,2025-05-13-daily-business-transactions-monitored-ai-tax-fraud
 SWZ,AI diabetic retinopathy diagnostic system,Eswatini,sectorai,,Ministry of Health with the Taiwan Technical Mission,six public hospitals and health centres,2025-08-07-swz-six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech
 SWZ,PROMPTS,Eswatini,sectorai,two-way SMS,Jacaranda Health,,2023-12-19-swz-pilot-results-testing-an-mhealth-approach-to-reach-the-last-mile-of-es
