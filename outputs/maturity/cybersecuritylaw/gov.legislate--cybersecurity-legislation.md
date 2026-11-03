@@ -22,8 +22,8 @@ The Malabo Convention's third chapter commits each party to legal measures again
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 12 |
-| 3 Established | 31 |
-| 2 Nascent | 4 |
+| 3 Established | 32 |
+| 2 Nascent | 3 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -293,6 +293,12 @@ A cybersecurity law is in force; in 2025 the media regulator said it will be use
 - The ministry's secretary-general Nouhan Traore says Guinea has put in place the law on cybersecurity and protection of personal data ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
 - The president of the Haute Autorité de la Communication says the cybersecurity law, not the press law, will be applied to web media that break the rules, with prison for any person; the document gives no date for the law and is dated by its published date, 2025-07-26 ([source, 2025-07-26](https://aminata.com/guinee_loi-sur-la-cybersecurite-le-president-de-haute-autorite-de-la-communication-apporte-des-precisions/)).
 
+### Libya: 3 Established
+
+A 2022 cybercrime law was cited as in force in July 2026; no use of it is known.
+
+- Cabinet Decision 358 of 2026 cites Law No. 5 of 2022 on combating cybercrime among its legal bases, and the page lists that law as in force ([source, 2026-07-15](https://lawsociety.ly/legislation/%d9%82%d8%b1%d8%a7%d8%b1-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%b1%d9%82%d9%85-358-%d9%84%d8%b3%d9%86%d8%a9-2026-%d9%85-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a5%d9%86%d8%b4/)).
+
 ### Madagascar: 3 Established
 
 A 2014 cybercrime law is in force; a replacement bill was postponed in September 2026. No use of the law is known.
@@ -380,13 +386,6 @@ Cybercrime and cybersecurity bills were still awaiting Parliament in September 2
 
 - The Lesotho Times reports the Cybersecurity Bill 2026 under a two-day stakeholder consultation before it returns to Parliament, after a 2021 version was withdrawn from Parliament and the 2024 Computer Crime and Cyber Security Bill was referred to Parliament but not enacted; the article is dated by its publication date, 2026-09-24 ([source, 2026-09-24](https://lestimes.com/?p=91666)).
 - The Department of Information reports a second stakeholder consultation on the Cybersecurity Bill 2026, after a draft circulated in August 2026, with the Bill still to proceed through the next legislative stages; Cabinet split the 2024 bill into a Cybercrime Bill 2026 and a Cybersecurity Bill 2026 ([source, 2026-09-23](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/)).
-
-### Libya: 2 Nascent
-
-A parliamentary committee was preparing a cybersecurity bill in July 2026; a cybercrime draft went to experts in 2025. No law in force is known.
-
-- On 15 July 2026 a temporary House of Representatives committee (created by Speaker's decision 115 of 2025) met National Security Council officials in Benghazi to work on preparing a comprehensive cybersecurity bill; the document reports a bill in preparation, not an enacted law ([source, 2026-07-15](https://alwasat.ly/news/libya/524932)).
-- A near-finalized draft law on cybercrime and digital evidence was presented for expert feedback at the Informatics Governance Forum workshop, with earlier drafts dating from 2008, 2009 and 2015 ([source, 2025](https://informatics.ly/en/session/cybercrime-law-session/)).
 
 ### Namibia: 2 Nascent
 

@@ -47,3 +47,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-30,CIV,gov.legislate--cybersecurity-legislation,ladder,4,4,CIV-005;CIV-004,"Ladder rewritten (Bill, 2026-10-30): a count that does not name the law is not use of it; stage 5 is regular use, judged case by case"
 2026-10-30,SEN,gov.legislate--cybersecurity-legislation,ladder,4,4,SEN-005;SEN-002,"Ladder rewritten (Bill, 2026-10-30): a count that does not name the law is not use of it; stage 5 is regular use, judged case by case"
 2026-11-01,DJI,gov.legislate--cybersecurity-legislation,fact,2,3,DJI-003,The 2023 Malabo ratification law cites Law 66/AN/14 of 2014 on cybersecurity and cybercrime as in force; stage 2 -> 3.
+2026-11-03,LBY,gov.legislate--cybersecurity-legislation,fact,2,3,LBY-004,"Cabinet Decision 358 of 15 July 2026 cites Law No. 5 of 2022 on combating cybercrime as in force: a law in force, stage 2 to 3"

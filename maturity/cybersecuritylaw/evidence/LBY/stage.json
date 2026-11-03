@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "2",
-      "standing": "bill",
+      "stage": "3",
+      "standing": "in-force",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-001;LBY-002",
-      "gaps": "No source found says a cybercrime or cybersecurity law is in force.",
-      "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "LBY-004",
+      "gaps": "No source found shows Law No. 5 of 2022 used: no arrest, charge or conviction under it. A comprehensive cybersecurity bill is in preparation (LBY-001, LBY-003).",
+      "note": "Cabinet Decision 358 of 15 July 2026 cites Law No. 5 of 2022 on combating cybercrime among its legal bases and lists it as in force (LBY-004), so a law is in force. No use of it is held, so not stage 4.",
+      "as_at": "2026-11-03"
     }
   ]
 }
