@@ -15,6 +15,7 @@ BDI,BurundiPay,Burundi,oversight,"national instant payment system, ISO 20022, US
 BDI,BurundiPay,Burundi,oversight,national instant payments platform,Bank of the Republic of Burundi,"banks, microfinance, mobile money",2026-04-25-burundipay-platform-connects-banks-microfinance-mobile-money
 BDI,BurundiPay,Burundi,oversight,,Banque de la Republique du Burundi,,2026-04-23-brb-lancement-burundipay
 BDI,National switch,BDI,oversight,,,,2025-09-29-burundi-digital-payments-growth-cash-dominates
+BDI,BurundiPay,Burundi,oversight,,Banque de la Republique du Burundi,,2026-11-02-bdi-penurie-de-cash-et-si-on-payait-enfin-avec-nos-telephones
 BEN,PI-SPI,UEMOA (Benin),other,instant payment platform,BCEAO,"banks, microfinance, e-money issuers, payment institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
 BEN,PI-SPI,Benin,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-connexion-pi-spi
 BEN,PI-SPI,Benin,other,,BCEAO,,2025-10-07-lancement-pi-spi-uemoa
@@ -22,6 +23,7 @@ BEN,MTN Mobile Money,Benin,other,,MTN,,2025-01-06-mobile-money-contourner-taxe-e
 BEN,Moov Money,Benin,other,,Moov,,2025-01-06-mobile-money-contourner-taxe-especes
 BEN,Celtiis Cash,Benin,other,,Celtiis,,2025-01-06-mobile-money-contourner-taxe-especes
 BEN,PI-SPI,Benin,other,,BCEAO,,2025-11-05-ben-moov-money-et-boa-benin-adoptent-la-plateforme-pi-spi-de-la-bceao
+BEN,PI-SPI,Benin,other,PI-SPI,BCEAO,,2026-11-02-ben-communique-de-mtn-mobile-money-benin
 BFA,PI-SPI,Burkina Faso,oversight,BCEAO,BCEAO,,2025-10-01-uemoa-pi-spi-bceao-operationnel
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
@@ -52,6 +54,7 @@ CMR,Gimacpay,Cameroon,other,Gimac interbank platform,Gimac,"53 banks, 13 microfi
 CMR,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.8%",direct and indirect,2023-11-01-state-of-inclusive-instant-payment-systems-2023-cemac-case-study
 CMR,CEMAC interoperable QR code,CEMAC,other,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
 CMR,GIMAC,CEMAC,oversight,,,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
+CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,PAPSS,Democratic Republic of the Congo,other,,Afreximbank,,2026-09-22-cod-standard-drc-joins-papss
 COD,PAPSS,PAPSS,other,,,,2026-09-21-cod-actualitecd-bcc-adhesion-papss-eac-convertibilite
 COD,EAC currency convertibility MoU,EAC central banks MoU,other,,,,2026-09-21-cod-actualitecd-bcc-adhesion-papss-eac-convertibilite
@@ -308,6 +311,7 @@ SDN,Bede wallet,Sudan,other,,Bede Sudan (Zain),,2026-10-13-sdn-sudanhorizon-bede
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
 SDN,USSD financial services,Sudan,oversight,USSD,Central Bank of Sudan,,2026-03-31-cbos-ussd-financial-services-regulations
 SDN,national switch,Sudan,oversight,,Electronic Banking Services (EBS),,2026-10-25-sdn-ebs-general-manager-interview-hawas-payments
+SDN,Electronic Banking Services (EBS) BBAN transfers,Sudan,other,,,,2026-10-31-sdn-sudan-economic-performance-monitoring-committee-digital-payments
 SEN,PI-SPI,Senegal,oversight,instant payment,BCEAO,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments

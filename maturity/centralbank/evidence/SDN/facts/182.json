@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-31-sdn-sudan-economic-performance-monitoring-committee-digital-payments",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Banking Services (EBS) BBAN transfers",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The central bank hosted a committee meeting only; no mandate, licensing or switch oversight is stated."
+}

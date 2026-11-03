@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-bdi-penurie-de-cash-et-si-on-payait-enfin-avec-nos-telephones",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Banque de la Republique du Burundi launched BurundiPay on 23 April 2026, a national instant payment system linking commercial banks, microfinance institutions and payment operators, per Agence Ecofin as cited by Yaga Burundi.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "BurundiPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BurundiPay",
+   "country_label": "Burundi",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Banque de la Republique du Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

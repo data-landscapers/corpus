@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-ben-communique-de-mtn-mobile-money-benin",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "MTN Mobile Money Benin says it applies BCEAO Avis N°0019 and routes interoperable transfers through the BCEAO's PI-SPI from 2 November 2026.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "PI-SPI",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
