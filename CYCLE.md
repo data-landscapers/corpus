@@ -73,7 +73,7 @@ Both halves forbid stopping to ask; the cycle and **every agent it briefs** inhe
 
 **A cycle is owed when a sweep cycle has closed and Corpus has not built since.** The discriminator is the **closed row** in `cycle-manifest.json`, not the mirror copy. `osint-cycle-ready.py` is that judgement: exit **0** ready, **1** not ready, **2** needs a human.
 
-**`scripts/poll-loop.py` runs it** *(Bill, 2026-10-29)*: half-hourly, 22:00 to 06:00, in the `CORPUS-POLL` tab.
+**`scripts/poll-loop.py` runs it** *(Bill, 2026-10-29)*: half-hourly, 22:00 to 06:00, in the `CORPUS-POLL` tab. A row in `lookups/poll-window.csv` moves one night's hours *(Bill, 2026-11-03)*.
 
 - **Under the poll, only a critical error stops a cycle** *(Bill, 2026-10-23)*: exit 2, a message, a push notification, the loop stopped. Uncommitted work is committed first, an open OSINT day is left to the catalogue pin, a dead claim or sentinel is resumed. The trigger's head says what counts as critical.
 - **`logs/.hold-cycle` is Bill's switch, the one hold left.** It defers a close without consuming it, and `scripts/corpus-status.py` reports it as a gate.
