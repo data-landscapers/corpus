@@ -1,11 +1,11 @@
 ---
 title: Lesotho — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: LSO
-ledger_rows: 8
+ledger_rows: 9
 not_held: 4
-record: 0d6a7982314e
+record: c531b2cc9f35
 ---
 
 # News, Oct – Nov 2026
@@ -121,6 +121,20 @@ Lesotho's ICT ministry and UNICEF held a workshop in Berea on 20-23 October 2026
 **[LESOTHO GOVERNMENT IS POISED TO BENEFIT SIGNIFICANTLY FROM WORLD BANK AS IT'S ON A VITAL MISSION TO TACKLE YOUTH UNEMPLOYMENT THROUGH INNOVATIVE DIGITAL PUBLIC WORKS PROGRAMS. - Government of Lesotho](https://www.gov.ls/development/lesotho-government-is-poised-to-benefit-significantly-from-world-bank-as-its-on-a-vital-mission-to-tackle-youth-unemployment-through-innovative-digital-public-works-programs/)** — Government of Lesotho, 12 October 2026
 
 A World Bank urban and land team told Lesotho's communications ministry it is interested in supporting a nationwide digital address system, in talks that also covered geospatial data for planning and digital public works for young people. No commitment or amount was stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lesotho Electronic Registry of Interests in Movable Assets (LERIMA)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Movable assets unlock loans for businesses](https://www.thereporter.co.ls/2026/10/30/movable-assets-unlock-loans-for-businesses/)** — The Reporter Lesotho, 30 October 2026
+
+M3.7bn of assets registered on LERIMA to date; CBL-CAFI campaign urges MSMEs to pledge movable collateral.
 
 </div>
 

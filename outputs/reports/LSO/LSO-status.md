@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-11-02
+compiled: 2026-11-03
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 227
+sources_cited: 228
 sections_written: 39
 not_established: 0
 acquire_lines: 31
@@ -218,7 +218,7 @@ A single [Land Administration Authority has held registration, cadastre, mapping
 
 There is [no national address register](https://lesotholii.org/akn/ls/act/ln/2011/21/eng@2011-02-24) under the 2011 regulations. In September 2026 the communications regulator [studied Kenya's National Addressing System and its legal framework](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/). In October 2026 a World Bank urban and land team [told the ICT ministry it is interested in supporting a nationwide digital address system](https://www.gov.ls/development/lesotho-government-is-poised-to-benefit-significantly-from-world-bank-as-its-on-a-vital-mission-to-tackle-youth-unemployment-through-innovative-digital-public-works-programs/). No commitment or amount was stated.
 
-In November 2025 a [single window was deployed at the One-Stop Business Facilitation Centre](https://lestimes.com/?p=89016). The Registrar of Companies runs an [online registry with free public search](http://www.obfc.org.ls/registry/), and incorporation data [passes straight to the revenue authority](https://lndc.org.ls/knowledge-base/taxation/). [Beneficial owners above a 10% threshold must be filed with the Registrar within seven days under regulations of 2024](https://zmayetlaw.co.ls/beneficial-ownership-in-lesotho/). The electoral commission's [Voter Registration Strategy was endorsed on 28 May 2026](https://www.idea.int/news/lesotho-takes-strategic-step-towards-inclusive-electoral-participation), and [constituency-readiness assessments were under way](https://iec.org.ls/storage/2026/06/Press-release-on-constituency-assessment_15June2026.pdf) in June 2026.
+In November 2025 a [single window was deployed at the One-Stop Business Facilitation Centre](https://lestimes.com/?p=89016). The Registrar of Companies runs an [online registry with free public search](http://www.obfc.org.ls/registry/), and incorporation data [passes straight to the revenue authority](https://lndc.org.ls/knowledge-base/taxation/). [Beneficial owners above a 10% threshold must be filed with the Registrar within seven days under regulations of 2024](https://zmayetlaw.co.ls/beneficial-ownership-in-lesotho/). [Assets valued at M3.7 billion had been registered on the electronic collateral registry for movable assets by October 2026](https://www.thereporter.co.ls/2026/10/30/movable-assets-unlock-loans-for-businesses/), when the central bank launched campaigns urging small firms to borrow against them. The electoral commission's [Voter Registration Strategy was endorsed on 28 May 2026](https://www.idea.int/news/lesotho-takes-strategic-step-towards-inclusive-electoral-participation), and [constituency-readiness assessments were under way](https://iec.org.ls/storage/2026/06/Press-release-on-constituency-assessment_15June2026.pdf) in June 2026.
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
