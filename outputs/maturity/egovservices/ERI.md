@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The Eritrean embassy in the USA launched on 24 September 2024 the Consular Affairs Processing System (CAPS), built by the Ministry of Foreign Affairs, through which consular services including ID card, entry visa and passport renewal applications are begun online](<https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Services online.** On 24 September 2024 the Eritrean embassy in the United States [launched the Consular Affairs Processing System (CAPS)](<https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf>). The foreign ministry built it. Through CAPS, applications for ID cards, entry visas and passport renewals are begun online. No other government service in Eritrea has been found online since October 2023.
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf>).
+**Single gateway.** No source found says one national portal carries the services of several ministries. None says one account signs users in to them. The nearest fact: [CAPS is a consular system of the foreign ministry, opened at the embassy in the United States](<https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf>).
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf>).
+**Use published.** No count of users or applications through a government portal has been found. The nearest fact: [CAPS takes the first step of ID card, visa and passport applications online](<https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether ten or more services can be completed online. Whether a national portal exists. How many use CAPS.

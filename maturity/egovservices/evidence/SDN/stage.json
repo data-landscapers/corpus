@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "5",
-   "services": "inservice",
-   "gateway": "single",
-   "usage": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "5",
+      "services": "inservice",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-004;SDN-003",
+      "gaps": "No source found says how users sign in to Baldna, whether by the national ID or by one account shared across ministries.",
+      "note": "Baldna lists 24 trade services (SDN-003) and publishes request counts for each, 79,126 for import registration (SDN-004). A published count of applications meets stage 5, and a later yes answers the earlier questions.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

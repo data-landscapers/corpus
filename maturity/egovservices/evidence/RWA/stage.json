@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-002;RWA-004",
-      "gaps": "No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "RWA-004;RWA-002",
+      "gaps": "No source found says how users sign in to Irembo, whether by the national ID or by one account shared across ministries. No source found gives users, applications or transactions through a national portal.",
+      "note": "DIAL counts over 240 services on IremboGov in 2025 (RWA-004), so ten or more are online. No source says how users sign in, so the single-gateway rung is not met.",
+      "as_at": "2026-11-03"
     }
   ]
 }

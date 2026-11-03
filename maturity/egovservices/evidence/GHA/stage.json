@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
-      "services": "inservice",
+      "stage": "2",
+      "services": "underway",
       "gateway": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-003",
-      "gaps": "No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "GHA-001;GHA-003",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "The Interior Ministry's portal takes five kinds of application online (GHA-001) and DIAL says Ghana.gov takes payment for services (GHA-003), but no source counts ten or more services. As in neighbouring cells, a portal with no count answers question 1 only, so the cell moves from 3 to 2.",
+      "as_at": "2026-11-03"
     }
   ]
 }

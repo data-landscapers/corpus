@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The UGD release log says Torolalana became an informational and transactional portal in v2.0.0, integrating services of public services and State bodies, with no count given](<https://github.com/digital-gov-mg/torolalana-portal-releases>). [Public Digital reports Madagascar's Digital Governance Unit built the multi-channel public services portal Torolalana, whose in-person channel Mahatoky has been piloted in 4 post offices, supports 400 processes and holds 206 citizen accounts, with transactional services still to be added to the informative ones offered](<https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter>).
+**Services online.** In May 2024 the Digital Governance Unit [made Torolalana a portal for transactions as well as information](<https://github.com/digital-gov-mg/torolalana-portal-releases>), integrating services of public bodies. In February 2024 Public Digital reported that [its in-person channel, Mahatoky, ran in four post offices](<https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter>), with 206 citizen accounts. On 31 October 2026 the anti-corruption bureau BIANCO [launched i-Fanagna for filing asset declarations remotely](<https://www.2424.mg/news/lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-numerique-de-declaration-de-patrimoine>).
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://github.com/digital-gov-mg/torolalana-portal-releases>).
+**Single gateway.** No source found says one portal carries the services of several ministries with one sign-in. The nearest fact: [Torolalana integrates services of public bodies and state institutions](<https://github.com/digital-gov-mg/torolalana-portal-releases>). No source found says how many of them can be completed on it.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://github.com/digital-gov-mg/torolalana-portal-releases>).
+**Use published.** No count of transactions through Torolalana has been found. The nearest figure: [206 citizen accounts on the Mahatoky channel in February 2024](<https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. How many services can be completed online. How users sign in. How many use Torolalana.

@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "2",
-   "services": "underway",
-   "gateway": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source found since October 2023 says: are ten or more services online.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "2",
+      "services": "underway",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001;GIN-004",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "The national e-Services platform entered deployment in May 2026 (GIN-001) and the fisheries licence platform opened in October 2026 (GIN-004): yes to question 1. No count of ten or more services is found, so it stops at 2.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

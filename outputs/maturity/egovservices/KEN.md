@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [Cabinet Secretary William Kabogo Gitau cited more than 22,500 services available through eCitizen](<https://techreviewafrica.com/news/7426/>). [The Draft 2026 Budget Policy Statement, as quoted, says over 17,668 services from over 350 agencies were onboarded onto eCitizen, and the article says it now provides more than 22,000 services](<https://radiogeneration.co.ke/news/110840/ecitizen-under-scrutiny-over-sh365bn-collections-gap>). [ICT Authority Kenya says its Applications Department provides one-stop-shop platforms for government services to citizens and businesses](<https://icta.go.ke/faqs>).
+**Services online.** In September 2026 the ICT Cabinet Secretary [said more than 22,500 services were available on eCitizen](<https://techreviewafrica.com/news/7426/>). The draft 2026 Budget Policy Statement [put services onboarded at over 17,668, from more than 350 agencies](<https://radiogeneration.co.ke/news/110840/ecitizen-under-scrutiny-over-sh365bn-collections-gap>). In 2025 the government spokesperson said [digitised services grew from 350 in 2022 to 20,985](<https://www.kenyanews.go.ke/youth-urged-to-utilize-jitume-program-to-acquire-online-jobs/>). In April 2025 the Auditor-General [noted that most government services are provided through eCitizen](<https://www.tnx.africa/national/article/2001560974/national-treasury-pushes-new-regulations-plan-to-run-e-citizen>).
 
-**Single gateway.** [In May 2024 the Principal Secretary said eCitizen, connected to the IPRS database that links the National Registration Bureau, civil registration and immigration, had more than 16,000 services online and more than 13 million registered users](<https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/>), collecting more than Sh700 million a day.
+**Single gateway.** In May 2024 the Principal Secretary said eCitizen [is linked to the IPRS database of the registration, civil registration and immigration services](<https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/>). One eCitizen account reaches the services of [more than 350 agencies](<https://radiogeneration.co.ke/news/110840/ecitizen-under-scrutiny-over-sh365bn-collections-gap>).
 
-**Use published.** [The Director General of e-citizen said eCitizen has 11.8 million users and approximately 40,000 transactions daily](<https://www.publicservice.go.ke/psc-certifies-141-candidates-after-undergoing-a-data-protection-and-cybersecurity-capacity-building-programme/>).
+**Use published.** In July 2024 eCitizen's Director General said [it had 11.8 million users and about 40,000 transactions a day](<https://www.publicservice.go.ke/psc-certifies-141-candidates-after-undergoing-a-data-protection-and-cybersecurity-capacity-building-programme/>). In December 2024 President Ruto [put active users at about 13 million](<https://www.businessdailyafrica.com/bd/corporate/technology/ruto-eyes-24-7-services-on-e-citizen-with-ai-addition-4844860>).
 
 ***Also on file***. [eTIMS](<https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. Use figures after December 2024.

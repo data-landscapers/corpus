@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [Seychelles Nation reports the government launched a revamped gov.sc, the official Government Portal, designed to give access to services and information](<https://nation.sc/articles/31239/seychelles-launches-revamped-govsc-portal-to-strengthen-digital-access>). [The Government of Seychelles' monServis portal lets users access, communicate and transact with government services online through listed eServices](<https://monservis.gov.sc>). A later answer places the country above that step. 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Services online.** The government's monServis portal [lets users access, communicate and transact with government services online](<https://monservis.gov.sc>). In June 2026 [a revamped gov.sc, the official government portal, was launched](<https://nation.sc/articles/31239/seychelles-launches-revamped-govsc-portal-to-strengthen-digital-access>) to give access to services and information. The Seychelles Pension Fund [lets members view their statements through My e-Services, and employers submit contribution records on its e-Contribution Platform](<https://pensionfund.sc/2026/07/seychelles-pension-fund-showcases-digital-innovation-during-productivity-awareness-week-2026/>).
 
-**Single gateway.** [The monServis portal carries eServices from multiple providers, with individuals signing in with SeyID and organisations onboarding through Biz Auth, per the Government of Seychelles](<https://monservis.gov.sc>).
+**Single gateway.** [monServis carries e-services from several providers](<https://monservis.gov.sc>). Individuals sign in with SeyID, the national digital identity, and organisations join through Biz Auth. One sign-in therefore reaches the services of several government providers.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://monservis.gov.sc>).
+**Use published.** No count of users or transactions through monServis has been found. The nearest fact: [monServis lists its e-services by the providers that offer them](<https://monservis.gov.sc>). No source found gives the number of services it carries.
 
 ***Also on file***. [SeyID](<https://monservis.gov.sc>); [Biz Auth](<https://monservis.gov.sc>).
 
-***Not found***. No source found since October 2023 gives users, applications or transactions through the national portal.
+***Not found***. How many use monServis. How many services it carries.

@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The Ministry of Communications and Digital Economy presents MYGOV as a centralized one-stop platform for citizens to digitally access government services, starting with five pilots, replicated from Bangladesh with UNDP and ECOWAS support](<https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf>). [Minister Ceesay said government is working on a one-stop-shop government service platform, starting with ID card application, birth certificate, business registration, passport and driver's licence applications, through an app](<https://standard.gm/dr-ceesay-says-govt-committed-to-building-capacities/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Services online.** In September 2024 the minister said [the government was building a one-stop platform for its services](<https://standard.gm/dr-ceesay-says-govt-committed-to-building-capacities/>). It starts, through an app, with ID cards, birth certificates, business registration, passports and driving licences. In 2025 the communications ministry [presented MYGOV, a one-stop platform starting with five pilot services](<https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf>). It is modelled on Bangladesh's platform, with UNDP and ECOWAS support.
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf>).
+**Single gateway.** [MYGOV is planned as one platform for citizens to reach government services](<https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf>). No source found says it is in service, or that one sign-in, by the national ID or a shared account, reaches several ministries' services.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf>).
+**Use published.** No count of users or applications has been found. The nearest fact: [MYGOV begins with five pilot services](<https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf>), so no use of it can yet be counted.
 
 ***Also on file***. [Government Web Portal](<https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf>).
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether ten or more services can be completed online. Whether MYGOV is in service. How many use it.

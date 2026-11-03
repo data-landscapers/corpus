@@ -9,10 +9,10 @@
       "usage": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-002",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "DZA-002;DZA-017;DZA-004",
+      "gaps": "Use across the portal's services as a whole has not been found.",
+      "note": "Dzair Digital Services carries 21 services of several ministries with sign-up by national ID number (DZA-004, DZA-017). The vocational training minister published 82,383 registrations through it (DZA-002), which meets stage 5.",
+      "as_at": "2026-11-03"
     }
   ]
 }

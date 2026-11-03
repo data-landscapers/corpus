@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "2",
-   "services": "underway",
-   "gateway": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001;UGA-002",
-   "gaps": "No source found since October 2023 says: are ten or more services online.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "2",
+      "services": "underway",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001;UGA-003",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "U-Learn, one of 14 e-services being rolled out, and the court filing system are in service (UGA-001, UGA-003): yes to question 1. No count of ten or more services completed online is found, so it stops at 2.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

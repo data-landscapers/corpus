@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "3",
-   "services": "inservice",
-   "gateway": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-002",
-   "gaps": "No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "3",
+      "services": "inservice",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-002;SWZ-004",
+      "gaps": "No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "The Digital Landscape Assessment found 31 of 419 services online in May 2026 (SWZ-002), so ten or more are online. No national portal with shared sign-in is found, so it stops at 3.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-001;MDG-002",
-      "gaps": "No source found since October 2023 says: are ten or more services online.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MDG-001;MDG-003",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "Torolalana became a transactional portal in May 2024 (MDG-001), a yes to question 1. No source counts ten or more services completed online, so it stops at 2.",
+      "as_at": "2026-11-03"
     }
   ]
 }

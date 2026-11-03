@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The Consular Portal, funded by the World Bank Digital Cabo Verde project, digitized consular services for the diaspora and cut processing times for electronic documents by 85%](<https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/>). [The Government of Cabo Verde launched the Portal de Justica on 18 December 2024, offering online land, commercial, vehicle and criminal-record certificates, civil-registry certificates and national ID card renewal, with sign-in through the state Autentika platform](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>). [The government launched the Foreign Trade Portal on 17 November 2023, with a vehicle-clearance simulator and customs process tracking, as a first step towards about 42 business services online by 2025](<https://www.governo.cv/33684-2/>).
+**Services online.** On 18 December 2024 the government [launched the Portal de Justiça](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>). It offers land, commercial, vehicle and criminal-record certificates online, with civil-registry certificates and ID card renewal. The World Bank-funded Consular Portal [put consular services for the diaspora online in 2024](<https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/>), cutting processing times by 85%. In November 2023 the government [launched the Foreign Trade Portal](<https://www.governo.cv/33684-2/>), a first step towards about 42 business services online by 2025.
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/>).
+**Single gateway.** Users of the Portal de Justiça [sign in through Autentika, the state's authentication platform](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>). No source found says one national portal carries the services of several ministries.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/>).
+**Use published.** No count of users or requests through a national portal has been found. The nearest fact: [the Consular Portal cut processing times for electronic documents by 85%](<https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/>).
 
 ***Also on file***. [Autentika](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>); [SNIAC](<https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/>).
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether ten or more services can be completed online. Whether one national portal carries several ministries' services. How many use it.

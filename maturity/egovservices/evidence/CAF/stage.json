@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "unplaced",
-   "services": "",
-   "gateway": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether government services can be used online.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "2",
+      "services": "underway",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "A national portal opened on 14 October 2026 for six named services (CAF-001), a yes to question 1. Six named services are not ten, and no sign-in is described, so it stops at 2.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

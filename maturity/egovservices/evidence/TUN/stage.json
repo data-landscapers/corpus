@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-004",
-      "gaps": "No source found since October 2023 gives users, applications or transactions through the national portal.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TUN-004;TUN-003",
+      "gaps": "No source found gives users, applications or transactions through a national portal.",
+      "note": "The national playbook presents e-bawaba.tn as the citizen's access point, signed in through E-Houwiya across many ministries (TUN-004). The 2023/24 online school registration figure is the education system's, not the portal's, so not 5.",
+      "as_at": "2026-11-03"
     }
   ]
 }

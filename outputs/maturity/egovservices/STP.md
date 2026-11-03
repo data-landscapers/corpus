@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [CDPI says the Government of São Tomé and Príncipe launched its Citizen Portal on 27 March 2026, in beta, supporting tax certificates and police clearance certificates](<https://cdpi.dev/blog/sao-tome-and-principe-launches-citizen-portal/>). [RSTP reports INIC presented the beta version of the Portal do Cidadão at its 18th anniversary ceremony, with the Prime Minister calling it the launch of the portal](<https://rstp.st/2026/03/28/inic-celebra-18o-aniversario-com-lancamento-da-plataforma-portal-do-cidadao/>). [India's MEA brief says the National Citizen Portal (gov.st), enabling access to public services through National ID-based login, was launched on 27 March 2026](<https://www.mea.gov.in/Portal/ForeignRelation/India-SaoTome26.pdf>). [In February 2026 an embassy system in Portugal let the diaspora request birth certificates, identity cards and criminal records through the registry's portal](<https://mne.gov.st/en/news/actualities/government-launches-document-issuance-system-embassy-sao-tome-principe-portugal>).
+**Services online.** On 27 March 2026 the government [launched its Citizen Portal in beta](<https://cdpi.dev/blog/sao-tome-and-principe-launches-citizen-portal/>), with tax certificates and police clearance certificates. In February 2026 the foreign ministry [opened a document system at its embassy in Portugal](<https://mne.gov.st/en/news/actualities/government-launches-document-issuance-system-embassy-sao-tome-principe-portugal>). Through it the diaspora request birth certificates, ID cards and criminal record certificates.
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://cdpi.dev/blog/sao-tome-and-principe-launches-citizen-portal/>).
+**Single gateway.** India's foreign ministry says [the National Citizen Portal, gov.st, signs users in with the national ID](<https://www.mea.gov.in/Portal/ForeignRelation/India-SaoTome26.pdf>). In March 2026 [it offered two services in beta](<https://cdpi.dev/blog/sao-tome-and-principe-launches-citizen-portal/>). No source found shows it carrying the services of several ministries beyond those two.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://cdpi.dev/blog/sao-tome-and-principe-launches-citizen-portal/>).
+**Use published.** No count of users or requests through gov.st has been found. The nearest fact: [the registry institute INIC presented the beta version at its 18th anniversary ceremony](<https://rstp.st/2026/03/28/inic-celebra-18o-aniversario-com-lancamento-da-plataforma-portal-do-cidadao/>), where the Prime Minister called it the portal's launch.
 
 ***Also on file***. [National Digital Identity system](<https://www.mea.gov.in/Portal/ForeignRelation/India-SaoTome26.pdf>).
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether ten or more services can be completed online. Whether gov.st carries several ministries' services beyond its beta. How many use it.

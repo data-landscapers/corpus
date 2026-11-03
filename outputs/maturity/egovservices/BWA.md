@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The 2026/27 budget confirms that 52 public services are fully available online on the 1Gov1Citizen integrated e-services platform, with 179 more in final integration testing, per BWTechZone reporting the budget speech](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>). [The budget confirms continued investment in the 1Gov1Citizen integrated e-services platform, with 52 public services fully online and 179 more under final integration testing](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Services online.** In February 2026 the 2026/27 budget speech [put 52 public services fully online on the 1Gov1Citizen platform](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>), BWTechZone reports. A further 179 services were then in final integration testing. The budget [confirmed continued investment in the platform](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>), which the government calls its integrated e-services platform.
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>).
+**Single gateway.** [1Gov1Citizen is the government's integrated e-services platform](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>), carrying public services of many bodies. No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>).
+**Use published.** No count of users or transactions through 1Gov1Citizen has been found. The nearest fact: [52 services were fully online and 179 more in testing in February 2026](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>). No source found reports payments made through the platform either.
 
 ***Also on file***. [National Digital Identification System](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>).
 
-***Not found***. No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.
+***Not found***. How users sign in to 1Gov1Citizen. How many use it.

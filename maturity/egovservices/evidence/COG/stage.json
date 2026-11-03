@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COG-002",
-      "gaps": "No source found since October 2023 gives users, applications or transactions through the national portal.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "COG-002;COG-001",
+      "gaps": "No source found gives users, applications or transactions through a national portal.",
+      "note": "The ministry's page describes the e-Citizen Portal as the single entry point to all online public services, signed in by each citizen's biometric digital identifier (COG-002), with procedures, taxes and fees in service (COG-001). No count of users or transactions is found, so not 5.",
+      "as_at": "2026-11-03"
     }
   ]
 }

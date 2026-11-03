@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [ANADEN lists a June 2024 technical meeting presenting the national online scholarship application portal (e-Bourse), marked as in progress](<https://anaden.org/realisations>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Services online.** In June 2024 the national digital agency ANADEN [held a technical meeting to present e-Bourse, a national portal for online scholarship applications](<https://anaden.org/realisations>). ANADEN lists the portal among its projects and marks it as in progress. Students are to apply for national scholarships through it. No other government service in the Comoros has been found online since October 2023.
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://anaden.org/realisations>).
+**Single gateway.** No source found says one national portal carries the services of several ministries. None says one account signs users in to them. The nearest fact: [e-Bourse, a single-purpose scholarship portal, was presented in June 2024](<https://anaden.org/realisations>).
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://anaden.org/realisations>).
+**Use published.** No count of users or applications through a government portal has been found. The nearest fact: [ANADEN marks e-Bourse as in progress](<https://anaden.org/realisations>).
 
 ***Also on file***. [e-Msomo](<https://anaden.org/realisations>).
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether e-Bourse is in service. Whether ten or more services can be completed online. How many use them.

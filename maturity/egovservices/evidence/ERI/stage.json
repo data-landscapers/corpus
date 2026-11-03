@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ERI-001",
-      "gaps": "No source found since October 2023 says: are ten or more services online.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "The consular system CAPS, launched in September 2024, takes the first step of ID, visa and passport applications online (ERI-001): yes to question 1. Nothing counts ten or more services, so it stops at 2.",
+      "as_at": "2026-11-03"
     }
   ]
 }

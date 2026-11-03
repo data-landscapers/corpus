@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The playbook lists online services across citizen, business, transport, education, university, social, civil servant, justice and finance categories, and citizen portal functions including birth acts, driving licence and vehicle data, electronic signature, notifications and complaints](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>). [Telecom Review Africa says E-Bawaba is a unified e-government portal where citizens can access civil documents, sign contracts digitally, communicate with authorities and register devices such as smartphones](<https://www.telecomreviewafrica.com/articles/features/28394-whats-behind-north-africas-digital-generation-tunisia/>). [The U.S. Embassy's USAID project page says an online registration platform for businesses was created and the RNE portal launched, with taxpayer e-services listed as an objective](<https://tn.usembassy.gov/embassy/tunis/usaid-tunisia/economic-growth/fiscal-and-accounting-system-of-tunisia-fast/>).
+**Services online.** The national playbook of May 2026 [lists online services for citizens, businesses, transport, education, justice and finance](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>). Citizens get birth records, driving licence and vehicle data online, with electronic signature and notifications. Services using the national ID and Mobile ID [include fully online school enrolment and civil status extracts](<https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf>). For 2023/24, [2,279,086 public-school pupils were registered online](<http://www.echos.education.gov.tn/2023-12-20/Dvpt_Num.pdf>).
 
-**Single gateway.** [The playbook presents the citizen portal e-bawaba.tn as the access point to services and to the national citizen register, with sign-in through E-Houwiya used by services of many ministries and bodies](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>).
+**Single gateway.** The playbook [presents e-bawaba.tn as the citizen's access point to services](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>). Users sign in through E-Houwiya, the mobile identity, which services of many ministries and bodies use. The portal also gives access to the national citizen register.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>).
+**Use published.** No count of users or transactions through e-bawaba.tn has been found. The nearest figure: [2,279,086 pupils registered online for 2023/24, through the education system](<http://www.echos.education.gov.tn/2023-12-20/Dvpt_Num.pdf>).
 
 ***Also on file***. [Madrassati](<http://www.echos.education.gov.tn/2023-12-20/Dvpt_Num.pdf>); [EduservPlus](<http://www.echos.education.gov.tn/2023-12-20/Dvpt_Num.pdf>); [e-bawaba](<https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf>).
 
-***Not found***. No source found since October 2023 gives users, applications or transactions through the national portal.
+***Not found***. How many use e-bawaba.tn.

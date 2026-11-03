@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [GovStack says a government-wide content management system serving as a service catalogue and a high school certificate service are being built, with official launch foreseen for Q4 2024](<https://govstack.global/showcase/digital-leaders-spotlight-rwanda/>). [The World Bank says Somalia's government officially launched an online business registration and licensing system in March 2022 after a 12-month pilot (2022, before the three-year window)](<https://www.worldbank.org/en/news/feature/2022/06/27/going-digital-makes-life-easier-for-somalia-s-business-owners>). [In September 2025 the Immigration and Citizenship Agency introduced an online Electronic Travel Authorization System for foreign travellers](<https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx>).
+**Services online.** In September 2025 Somalia [introduced an electronic travel authorisation](<https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx>), which foreign travellers obtain online before they travel. GovStack reported in 2024 that [a government service catalogue and a high school certificate service were being built](<https://govstack.global/showcase/digital-leaders-spotlight-rwanda/>), with launch foreseen for late 2024. The World Bank says [an online business registration and licensing system was launched in March 2022](<https://www.worldbank.org/en/news/feature/2022/06/27/going-digital-makes-life-easier-for-somalia-s-business-owners>).
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://govstack.global/showcase/digital-leaders-spotlight-rwanda/>).
+**Single gateway.** No source found says one national portal carries the services of several ministries. The nearest fact: [the immigration agency calls the eVisa a unified national entry system](<https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx>). No source found says how users would sign in to such a portal.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://govstack.global/showcase/digital-leaders-spotlight-rwanda/>).
+**Use published.** No count of users or applications has been found. The nearest fact: [the government-wide service catalogue was due to launch in late 2024](<https://govstack.global/showcase/digital-leaders-spotlight-rwanda/>). No later source says it did.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether ten or more services can be completed online. Whether a national portal is in service. How many use it.

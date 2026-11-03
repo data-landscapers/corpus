@@ -49,3 +49,50 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-31,GNQ,dpi.govtech--e-government-services,fact,unplaced,2,GNQ-002,"E-visa run by VFS Global since July 2023 (about 35,127 processed, October 2026): a service applied for online; unplaced to 2."
 2026-11-01,MRT,dpi.govtech--e-government-services,fact,2,3,MRT-007;MRT-003,"Official puts transactional online services at about forty in October 2026; ten or more online, 2 to 3"
 2026-11-02,ETH,dpi.govtech--e-government-services,fact,4,4,ETH-006;ETH-008,"The US Commerce guide counts more than 130 services digitised across 25 providers in 2024, settling the services aspect as in service; no usage figure, so stage 4 stands."
+2026-11-03,AGO,dpi.govtech--e-government-services,review,2,2,AGO-001;AGO-003,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,BDI,dpi.govtech--e-government-services,review,unplaced,unplaced,,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,BFA,dpi.govtech--e-government-services,review,3,3,BFA-002;BFA-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,BWA,dpi.govtech--e-government-services,review,3,3,BWA-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,CAF,dpi.govtech--e-government-services,review,unplaced,2,CAF-001,"Rebuild: first-pass cell read against the ladder beside its neighbours; unplaced to 2. A national portal opened on 14 October 2026 for six named services (CAF-001), a yes to question 1. Six named services are not ten, and no sign-in is described, so it stops at 2."
+2026-11-03,CIV,dpi.govtech--e-government-services,review,2,2,CIV-001;CIV-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,CMR,dpi.govtech--e-government-services,review,unplaced,unplaced,,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,COD,dpi.govtech--e-government-services,review,4,2,COD-002;COD-001,"Rebuild: first-pass cell read against the ladder beside its neighbours; 4 to 2. RDC-Pass was launched in June 2026 with a rollout beginning in pilot testing (COD-002), and no source names a service already reached through it, so its gateway is not shown in service. A pilot answers question 1 only, so the cell moves from 4 to 2."
+2026-11-03,COG,dpi.govtech--e-government-services,review,4,4,COG-002;COG-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,COM,dpi.govtech--e-government-services,review,2,2,COM-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,CPV,dpi.govtech--e-government-services,review,2,2,CPV-001;CPV-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,DJI,dpi.govtech--e-government-services,review,unplaced,unplaced,,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,DZA,dpi.govtech--e-government-services,review,5,5,DZA-002;DZA-017;DZA-004,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,EGY,dpi.govtech--e-government-services,review,3,3,EGY-001;EGY-008,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,ERI,dpi.govtech--e-government-services,review,2,2,ERI-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,GAB,dpi.govtech--e-government-services,review,2,2,GAB-002;GAB-004;GAB-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,GHA,dpi.govtech--e-government-services,review,3,2,GHA-001;GHA-003,"Rebuild: first-pass cell read against the ladder beside its neighbours; 3 to 2. The Interior Ministry's portal takes five kinds of application online (GHA-001) and DIAL says Ghana.gov takes payment for services (GHA-003), but no source counts ten or more services. As in neighbouring cells, a portal with no count answers question 1 only, so the cell moves from 3 to 2."
+2026-11-03,GIN,dpi.govtech--e-government-services,review,2,2,GIN-001;GIN-004,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,GMB,dpi.govtech--e-government-services,review,2,2,GMB-001;GMB-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,GNB,dpi.govtech--e-government-services,review,unplaced,unplaced,,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,KEN,dpi.govtech--e-government-services,review,5,5,KEN-004;KEN-008;KEN-014,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,LBY,dpi.govtech--e-government-services,review,2,2,LBY-001;LBY-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,LSO,dpi.govtech--e-government-services,review,2,2,LSO-001;LSO-003,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,MAR,dpi.govtech--e-government-services,review,3,3,MAR-002;MAR-006,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,MDG,dpi.govtech--e-government-services,review,2,2,MDG-001;MDG-003,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,MLI,dpi.govtech--e-government-services,review,2,2,MLI-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,MOZ,dpi.govtech--e-government-services,review,3,3,MOZ-005;MOZ-004;MOZ-003,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,MUS,dpi.govtech--e-government-services,review,2,2,MUS-002;MUS-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,MWI,dpi.govtech--e-government-services,review,2,2,MWI-001;MWI-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,NAM,dpi.govtech--e-government-services,review,3,3,NAM-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,NER,dpi.govtech--e-government-services,review,2,2,NER-003;NER-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,NGA,dpi.govtech--e-government-services,review,2,2,NGA-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,RWA,dpi.govtech--e-government-services,review,3,3,RWA-004;RWA-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,SDN,dpi.govtech--e-government-services,review,5,5,SDN-004;SDN-003,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,SEN,dpi.govtech--e-government-services,review,2,2,SEN-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,SLE,dpi.govtech--e-government-services,review,3,2,SLE-003;SLE-001,"Rebuild: first-pass cell read against the ladder beside its neighbours; 3 to 2. WanGov takes applications and payments for a handful of named services (SLE-003, SLE-001), a yes to question 1. The minister's claim of a portal for all services (SLE-002) gives no count, and as in neighbouring cells that is not ten or more, so the cell moves from 3 to 2."
+2026-11-03,SOM,dpi.govtech--e-government-services,review,2,2,SOM-003;SOM-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,STP,dpi.govtech--e-government-services,review,2,2,STP-001;STP-003,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,SWZ,dpi.govtech--e-government-services,review,3,3,SWZ-002;SWZ-004,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,SYC,dpi.govtech--e-government-services,review,4,4,SYC-003;SYC-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,TCD,dpi.govtech--e-government-services,review,2,2,TCD-001;TCD-002,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,TUN,dpi.govtech--e-government-services,review,4,4,TUN-004;TUN-003,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,TZA,dpi.govtech--e-government-services,review,3,2,TZA-005;TZA-003,"Rebuild: first-pass cell read against the ladder beside its neighbours; 3 to 2. BRELA, mGov and NeST each put some services online (TZA-005, TZA-003, TZA-009), a yes to question 1. No source counts ten or more, and 'various services' by USSD is not a count, so the cell moves from 3 to 2."
+2026-11-03,UGA,dpi.govtech--e-government-services,review,2,2,UGA-001;UGA-003,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,ZAF,dpi.govtech--e-government-services,review,3,3,ZAF-004;ZAF-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,ZMB,dpi.govtech--e-government-services,review,5,5,ZMB-002;ZMB-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-03,ZWE,dpi.govtech--e-government-services,review,unplaced,unplaced,,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.

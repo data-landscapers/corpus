@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MAR-002;MAR-006",
-      "gaps": "No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found says how users sign in to Idarati, whether by the national ID or by one account shared across ministries. No source found gives users, applications or transactions through a national portal.",
+      "note": "The ministry says Idarati gives access to 874 online services in September 2026 (MAR-002), so ten or more are online. No source says how users sign in, so the single-gateway rung is not met.",
+      "as_at": "2026-11-03"
     }
   ]
 }

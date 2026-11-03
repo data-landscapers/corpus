@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The presidency says the e-Senegal one-stop portal, launched on 24 March 2026 by Prime Minister Ousmane Sonko, is operational and lets citizens complete passport applications, business creation, police clearance certificates and certificates of nationality online](<https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services>). [In October 2026 the Interior Ministry asked all NGOs and associations to register on its new e-OSC platform, which holds their projects, funding and beneficiaries and is the first step towards handling their approval and recognition requests online](<https://aps.sn/les-ong-et-associations-invitees-a-sinscrire-sur-la-plateforme-numerique-e-osc/>).
+**Services online.** On 24 March 2026 Prime Minister Ousmane Sonko [launched e-Senegal, a one-stop portal](<https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services>). The presidency says citizens complete passport applications, business creation, police clearance and nationality certificates on it. In August 2025 Polygon reported that [the Service Public portal lists nearly 700 procedures, with information and forms](<https://www.polygon.sn/anta-lia-au-service-du-citoyen/>). In October 2026 the interior ministry [asked NGOs and associations to register on the new e-OSC platform](<https://aps.sn/les-ong-et-associations-invitees-a-sinscrire-sur-la-plateforme-numerique-e-osc/>).
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services>).
+**Single gateway.** At the March 2026 launch the Prime Minister [presented a single citizen window for applying for and following public services](<https://aps.sn/ousmane-sonko-prone-une-coordination-renforcee-pour-reussir-la-transformation-digitale-de-letat/>). No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services>).
+**Use published.** No count of users or applications through e-Senegal has been found. The nearest fact: [the presidency calls e-Senegal operational](<https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services>).
 
 ***Also on file***. [ETAX](<https://www.dgid.sn/service/e-services/>); [MON ESPACE PERSO](<https://www.dgid.sn/service/e-services/>); [SEN-ETAFI](<https://www.dgid.sn/service/e-services/>).
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether ten or more services can be completed online. How users sign in to e-Senegal. How many use it.

@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "4",
-   "services": "inservice",
-   "gateway": "single",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-003",
-   "gaps": "No source found since October 2023 gives users, applications or transactions through the national portal.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "4",
+      "services": "inservice",
+      "gateway": "single",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-003;SYC-002",
+      "gaps": "No source found gives users, applications or transactions through a national portal.",
+      "note": "monServis carries e-services of several providers with sign-in by SeyID (SYC-003), which meets the single-gateway rung. No count of users or transactions is found, so not 5.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

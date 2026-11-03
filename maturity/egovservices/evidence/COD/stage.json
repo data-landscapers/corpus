@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "4",
-   "services": "inservice",
-   "gateway": "single",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-003",
-   "gaps": "No source found since October 2023 gives users, applications or transactions through the national portal.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "2",
+      "services": "underway",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-002;COD-001",
+      "gaps": "No source found names a ministry's service reached through RDC-Pass, or says ten or more services can be completed online. No source found gives users, applications or transactions through a national portal.",
+      "note": "RDC-Pass was launched in June 2026 with a rollout beginning in pilot testing (COD-002), and no source names a service already reached through it, so its gateway is not shown in service. A pilot answers question 1 only, so the cell moves from 4 to 2.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

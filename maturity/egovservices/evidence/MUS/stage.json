@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "2",
-   "services": "underway",
-   "gateway": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-002",
-   "gaps": "No source found since October 2023 says: are ten or more services online.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "2",
+      "services": "underway",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-002;MUS-001",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. The MauPass sign-in and the use figures date from 2020 to 2022, before the window. No source found gives users, applications or transactions through a national portal.",
+      "note": "VAT registration and company services are online (MUS-002, MUS-001), a yes to question 1, but no source since October 2023 counts ten or more. The MauPass gateway (MUS-004) and use figures (MUS-005) predate the window and set nothing.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

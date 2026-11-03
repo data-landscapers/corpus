@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "2",
-   "services": "underway",
-   "gateway": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-001",
-   "gaps": "No source found since October 2023 says: are ten or more services online.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "2",
+      "services": "underway",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "ANADEN presented the e-Bourse online scholarship portal in June 2024 and marks it in progress (COM-001): a preparing step, which reaches 2 at most. Nothing else is found.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

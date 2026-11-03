@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-001;LSO-002",
-      "gaps": "No source found since October 2023 says: are ten or more services online.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "LSO-001;LSO-003",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "Taxpayer registration is online (LSO-001) and agents help people reach e-service platforms (LSO-003): yes to question 1. The integrated platform was not yet launched in May 2026 (LSO-002), so it stops at 2.",
+      "as_at": "2026-11-03"
     }
   ]
 }

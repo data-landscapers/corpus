@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The Department of E-Government says immigration e-services are being integrated onto the Bomalathu single digital services portal so the public can access selected immigration services online, with the Malawi Revenue Authority and National Registration Bureau already using it and 25 e-services being onboarded](<https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km>). [The Digital Malawi Acceleration Project describes the Bomalathu eService Portal as a one-stop national platform through which citizens can reach government services online](<https://dmap.pppc.mw/news/malawi-showcases-digital-transformation-and-ai-agenda-at-regional-digital-forum>). [The justice minister said in May 2026 that the Malawi Business Registration System lets businesses register and keep their records online](<https://mwnation.com/minister-of-justice-urges-professionalism/>).
+**Services online.** In July 2026 the Department of E-Government said [immigration services were being added to the Bomalathu portal](<https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km>). The revenue authority and the National Registration Bureau already use it, and 25 e-services are being onboarded. In May 2026 a minister said [businesses register and keep records online through the business registration system](<https://mwnation.com/minister-of-justice-urges-professionalism/>).
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km>).
+**Single gateway.** The digital project DMAP [describes Bomalathu as a one-stop national platform for government services](<https://dmap.pppc.mw/news/malawi-showcases-digital-transformation-and-ai-agenda-at-regional-digital-forum>). No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km>).
+**Use published.** No count of users or transactions through Bomalathu has been found. The nearest fact: [in 2024 the e-government director said citizens increasingly use the portal](<https://mbc.mw/govt-advocates-for-improved-digital-service-delivery/>). No source found counts the services that can be completed on Bomalathu today.
 
 ***Also on file***. [Enterprise Service Bus](<https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/>); [National Registration and Identification System (NRIS)](<https://www.undp.org/malawi/news/malawi-earns-global-recognition-digital-innovation-e-government>); [e-Government Procurement (eGP)](<https://www.ppda.mw/newsdetail/19>); [e-Government Marketplace (eGM)](<https://www.ppda.mw/newsdetail/19>).
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether ten or more services can be completed online. How users sign in to Bomalathu. How many use it.

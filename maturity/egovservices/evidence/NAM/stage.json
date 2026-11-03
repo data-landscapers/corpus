@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-002",
-      "gaps": "No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "In August 2025 13 public institutions offered online services (NAM-002), which is ten or more services. No national portal with shared sign-in is found, so it stops at 3.",
+      "as_at": "2026-11-03"
     }
   ]
 }

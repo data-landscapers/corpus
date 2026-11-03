@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "2",
-   "services": "underway",
-   "gateway": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-002;CPV-001",
-   "gaps": "No source found since October 2023 says: are ten or more services online.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "2",
+      "services": "underway",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001;CPV-002",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "The Portal de Justiça offers six kinds of certificate and ID renewal online with Autentika sign-in (CPV-001), short of ten. It is one ministry's portal, so the single-gateway rung is not met either.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

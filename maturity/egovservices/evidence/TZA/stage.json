@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
-      "services": "inservice",
+      "stage": "2",
+      "services": "underway",
       "gateway": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-003",
-      "gaps": "No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "TZA-005;TZA-003",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "BRELA, mGov and NeST each put some services online (TZA-005, TZA-003, TZA-009), a yes to question 1. No source counts ten or more, and 'various services' by USSD is not a count, so the cell moves from 3 to 2.",
+      "as_at": "2026-11-03"
     }
   ]
 }

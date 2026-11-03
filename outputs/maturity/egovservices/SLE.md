@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [Minister Salamatu Bah said the ministry created the "One Government Platform", a centralized one-stop portal allowing citizens to access all government services and information](<https://statehouse.gov.sl/2025/06/04/sierra-leones-president-bio-champions-technological-innovation-at-the-2025-digital-innovation-summit/>). [Sierraloaded reports WanGov, deployed at the Gbalamuya border post by the Road Safety Authority and Korlie Ltd, lets people pay online for government services including business registration, permits and licences, with documents collected at the border](<https://sierraloaded.sl/news/sierra-leone-digital-platform-border-trade-guinea/>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Services online.** In February 2025 the communications ministry [launched the WanGov app](<https://sierraloaded.sl/news/ministry-launches-wangov-app/>). Users apply for services, submit documents, track applications and pay. Business registration, tax filing, permits, driving licences and electricity meters are named. In October 2025 WanGov [was deployed at the Gbalamuya border post](<https://sierraloaded.sl/news/sierra-leone-digital-platform-border-trade-guinea/>) for paying for business registration, permits and licences.
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://statehouse.gov.sl/2025/06/04/sierra-leones-president-bio-champions-technological-innovation-at-the-2025-digital-innovation-summit/>).
+**Single gateway.** In June 2025 the minister said the ministry [had created the One Government Platform, a one-stop portal for all government services and information](<https://statehouse.gov.sl/2025/06/04/sierra-leones-president-bio-champions-technological-innovation-at-the-2025-digital-innovation-summit/>). No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://statehouse.gov.sl/2025/06/04/sierra-leones-president-bio-champions-technological-innovation-at-the-2025-digital-innovation-summit/>).
+**Use published.** No count of users or payments through WanGov has been found. The nearest fact: [WanGov takes payment for services at the border post](<https://sierraloaded.sl/news/sierra-leone-digital-platform-border-trade-guinea/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.
+***Not found***. How many services can be completed online. How users sign in. How many use WanGov.

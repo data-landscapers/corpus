@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [Portal de T.I. reports that the SEPE (Sistema Electrónico de Serviços Públicos) portal is online and functional, with registration and authentication, a service catalogue and electronic services in employment, education, health, transport and business available to citizens and companies](<https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/>). [Simplifica 1.0 (2021) and 2.0 (2023), reached through www.sepe.gov.ao, carry services for certificates, registrations, authorizations and licensing, with digital use compulsory or priority](<https://doi.org/10.22533/at.ed.216532523063>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Services online.** In October 2026 Portal de T.I. reported that [the SEPE portal is online and working, with registration, sign-in and a catalogue of services](<https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/>). Its services cover employment, education, health, transport and business, for citizens and companies. The Simplifica programmes of 2021 and 2023 [put certificates, registrations, authorisations and licences on www.sepe.gov.ao](<https://doi.org/10.22533/at.ed.216532523063>). In October 2026 [requests to recognise higher-education degrees still went through SEPE](<https://pti.ao/ensino-estudantes-passam-a-comprovar-diplomas-por-codigo-qr-sem-deslocar-se-ao-inaarees/>).
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/>).
+**Single gateway.** [SEPE carries services of several sectors behind its own registration and sign-in](<https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/>). No source found says that one account or the national ID reaches the services of several ministries.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/>).
+**Use published.** No count of users or requests through SEPE has been found. The nearest fact: [the portal was online and working in October 2026](<https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: are ten or more services online.
+***Not found***. Whether ten or more services can be completed online. Whether one sign-in reaches several ministries' services. How many use SEPE.

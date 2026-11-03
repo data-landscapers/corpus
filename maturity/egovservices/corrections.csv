@@ -7,3 +7,13 @@ RWA,006,services,inservice,revalued: underway,Stage 4c: a share of services full
 SOM,003,services,inservice,revalued: underway,"Stage 4c: one service, the eVisa, is not ten or more"
 STP,004,services,inservice,revalued: underway,Stage 4c: four documents through one embassy portal are not ten or more services
 KEN,011,services,underway,removed,"Stage 4c: a remark on rising use of eCitizen in a cybersecurity speech, with no count of services or users"
+GHA,003,services,inservice,revalued: underway,Rebuild: a portal where most of a licence or passport renewal is done online gives no count of ten or more
+SLE,002,services,inservice,revalued: underway,Rebuild: a minister's one-stop portal for all services gives no count of ten or more
+TZA,003,services,inservice,revalued: underway,Rebuild: various services by USSD gives no count of ten or more
+TZA,009,services,inservice,revalued: underway,Rebuild: one procurement app is not ten or more services
+SEN,003,services,inservice,revalued: underway,Rebuild: procedures listed with information and forms are not shown completed online
+MAR,008,services,inservice,revalued: underway,Rebuild: one voter-registration service is not ten or more
+MAR,009,services,inservice,revalued: underway,Rebuild: five justice services are not ten or more
+MAR,013,services,inservice,revalued: underway,Rebuild: one school-enrolment service is not ten or more
+GNB,001,services,inservice,revalued: underway,Rebuild: one tax-payment service is not ten or more
+COD,003,gateway,single,revalued: services underway,Rebuild: a digital ID launched in pilot with no ministry's service named on it is not a gateway in service

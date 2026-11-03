@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-001;AGO-002",
-      "gaps": "No source found since October 2023 says: are ten or more services online.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "AGO-001;AGO-003",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found gives users, applications or transactions through a national portal.",
+      "note": "SEPE is online with services of several sectors (AGO-001, October 2026), a yes to question 1. No source counts ten or more services or says one sign-in reaches several ministries, so it stops at 2.",
+      "as_at": "2026-11-03"
     }
   ]
 }

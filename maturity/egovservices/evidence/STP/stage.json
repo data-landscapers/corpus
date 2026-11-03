@@ -1,17 +1,18 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "2",
-   "services": "underway",
-   "gateway": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "STP-001;STP-002",
-   "gaps": "No source found since October 2023 says: are ten or more services online.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "2",
+      "services": "underway",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "STP-001;STP-003",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found shows gov.st carrying the services of several ministries in service. No source found gives users, applications or transactions through a national portal.",
+      "note": "The Citizen Portal was launched in beta in March 2026 with national ID sign-in and two services (STP-001, STP-003), a yes to question 1. Two services in beta do not show several ministries' services in service, so it stops at 2.",
+      "as_at": "2026-11-03"
+    }
+  ]
 }

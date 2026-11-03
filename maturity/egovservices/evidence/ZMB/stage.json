@@ -5,14 +5,14 @@
       "sub_indicator": "eservices",
       "stage": "5",
       "services": "inservice",
-      "gateway": "single",
-      "usage": "published",
+      "gateway": "",
+      "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-002",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ZMB-002;ZMB-001",
+      "gaps": "No source found says how users sign in to ZamPortal, whether by the national ID or by one account shared across ministries.",
+      "note": "ZamPortal hosts 322 services on the Government Service Bus (ZMB-001), and its director published over 3.7 million transactions (ZMB-002). A published count meets stage 5, and a later yes answers the earlier questions.",
+      "as_at": "2026-11-03"
     }
   ]
 }

@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [DIAL reports Ghana.gov is the portal where users discover, consume and pay for government services, and most of renewing a driver's license or passport can be done online](<https://dial.global/modern-governments-run-on-data-exemplars/>). [The Ministry of the Interior launched an online digital services portal, fully operational from 15 December 2025, hosting applications for immigrant quota permits, citizenship renunciation, dual nationality, naturalisation and licensing, with tracking and automated payments, as the Interior Minister said](<https://www.graphic.com.gh/news/general-news/ghana-news-interior-ministry-launches-online-digital-services-portal.html>). [The policy states the Ghana.gov portal centralizes access to government services such as tax filings, business registrations and passport applications, and an e-Payment portal supports payment for government services](<https://moc.gov.gh/wp-content/uploads/2023/03/Ghana-Digital-Economy-Policy-Strategy.pdf>).
+**Services online.** The Interior Ministry [opened an online services portal, fully working from 15 December 2025](<https://www.graphic.com.gh/news/general-news/ghana-news-interior-ministry-launches-online-digital-services-portal.html>). It takes applications for immigrant quota permits, citizenship renunciation, dual nationality, naturalisation and licences. Applicants track their files and pay online. In 2025 DIAL reported that Ghana.gov is [where users find and pay for government services, and that most of a licence or passport renewal is done online](<https://dial.global/modern-governments-run-on-data-exemplars/>).
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://dial.global/modern-governments-run-on-data-exemplars/>).
+**Single gateway.** The digital economy policy [describes Ghana.gov as the portal that centralises access to government services](<https://moc.gov.gh/wp-content/uploads/2023/03/Ghana-Digital-Economy-Policy-Strategy.pdf>), such as tax filing, business registration and passports. No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://dial.global/modern-governments-run-on-data-exemplars/>).
+**Use published.** No count of users or payments through Ghana.gov has been found. The nearest fact: [an e-Payment portal takes payment for government services](<https://moc.gov.gh/wp-content/uploads/2023/03/Ghana-Digital-Economy-Policy-Strategy.pdf>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.
+***Not found***. How many government services can be completed online. How users sign in to Ghana.gov. How many use it.

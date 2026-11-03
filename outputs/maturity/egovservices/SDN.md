@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [The Ministry of Digital Transformation and Communications announced three new services on the Baladna platform: company commercial registration, electronic accounts for law firms, and remote renewal of lawyers' practising licences](<https://alghadalsudani.com/34214/>). [The Baldna government-institutions and trade category lists 24 services, such as import registration, electronic export contracts and exporter-importer register renewals](<https://baldna.gov.sd/services/2/list/1>). [The Baldna platform of the Ministry of Digital Transformation and Communications lists trade and import/export services that users apply for through it](<https://baldna.gov.sd/services/2/list/1>).
+**Services online.** The Baldna platform of the digital transformation ministry [lists 24 services in its trade category](<https://baldna.gov.sd/services/2/list/1>), such as import registration and electronic export contracts. On 1 October 2026 the ministry [added company registration, accounts for law firms and the renewal of lawyers' licences](<https://alghadalsudani.com/34214/>). [Users apply for trade and import-export services through Baldna](<https://baldna.gov.sd/services/2/list/1>).
 
-**Single gateway.** No source found since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [The Baldna listing shows request counts per service, including 79,126 for company and business-name import registration and 11,174 for electronic export contracts](<https://baldna.gov.sd/services/2/list/1>).
+**Single gateway.** Baldna carries services of several bodies: [trade and import-export services](<https://baldna.gov.sd/services/2/list/1>), and [company registration and lawyers' licences](<https://alghadalsudani.com/34214/>). No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 
-**Use published.** [The Baldna listing shows request counts per service, including 79,126 for company and business-name import registration and 11,174 for electronic export contracts](<https://baldna.gov.sd/services/2/list/1>).
+**Use published.** [Baldna shows a count of requests for each service](<https://baldna.gov.sd/services/2/list/1>). As at September 2026 they included 79,126 for company import registration and 11,174 for electronic export contracts.
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. How users sign in to Baldna.
