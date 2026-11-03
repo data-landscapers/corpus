@@ -29,3 +29,5 @@ TGO,StatEduc,StatEduc,census,StatEduc,MEPSTA,"Data from all 16,000 pre-primary, 
 TGO,DHIS2 EMIS,EMIS,census,DHIS2,MEPSTA; developed by HISP West and Central Africa with GPE KIX and Norad support,"Implemented in 2021 in interoperability with StatEduc, processing its data into dashboards and School Report Cards for schools and sub-national actors; under review by the ministry as of December 2022",2022-12-01-hisp-wca-dhis2-emis-togo
 TGO,plateforme unique de gestion de notes,plateforme unique de gestion de notes,emis,,"CNDP-TICE, Ministère des Enseignements primaire, secondaire, technique et de l'Artisanat",intended for all public and private schools; consultable at all levels,2021-08-10-tgo-togo-vers-la-creation-d-une-plateforme-unique-de-gestion-de-notes-des
 TGO,Annuaire national des statistiques scolaires,Togo,census,,DPSSE,,2026-01-01-tgo-liste-des-annuaires-nationaux
+TGO,StatEduc,Togo,census,,Ministry of Primary and Secondary Education,,2025-04-17-tgo-togo-autonomiser-les-ecoles-et-les-districts-a-l-aide-de-donnees
+TGO,SIGE,Togo,emis,,CNDP-TICE,,2025-03-27-tgo-meps-le-cndp-tice-au-cur-de-la-modernisation-du-systeme-educatif

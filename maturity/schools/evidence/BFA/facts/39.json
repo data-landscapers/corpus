@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-06-bfa-protecting-education-from-attack-eie-data-in-burkina-faso",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "EMIS",
+   "class": "census",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "EMIS and annual school census questionnaire named, but no entry by schools between census days is described."
+}

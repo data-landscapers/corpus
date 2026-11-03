@@ -335,9 +335,10 @@ Pupil registration for 2026-2027 opened on a ministry platform in September 2026
 
 ### Mauritius: 2 Nascent
 
-A per-pupil school record system was being designed in 2019; no source found says whether it was built or any school uses it.
+A school records system was piloted in secondary schools by 2025; whether any primary school keeps pupils' records digitally is not known.
 
 - UNESCO IITE reports that a mission of 11-15 February 2019 assessed needs and set out to design a school integrated management information system that is to track each student's progress, including classroom assessment; the EMIS was still to be developed, over 12 months after a 3-month technical document, and no school is stated as using it ([source, 2019-02-15](https://iite.unesco.org/news/mauritius-emis-support-and-monitoring-of-education-2030-agenda/)).
+- The document says the UNESCO IITE and Chengdu Group project piloted a secondary school Education Management Information System in Mauritius ([source, 2025-08-29](https://iite.unesco.org/news/unesco-iite-and-chengdu-group-complete-project-on-inclusive-digital-education-in-mauritius-and-rwanda/)).
 
 ### Mozambique: 2 Nascent
 

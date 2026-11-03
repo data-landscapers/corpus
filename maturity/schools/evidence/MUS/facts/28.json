@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-29-mus-unesco-iite-and-chengdu-group-complete-project-on-inclusive-digital-ed",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "levels",
+   "value": "S",
+   "fact": "The document says the UNESCO IITE and Chengdu Group project piloted a secondary school Education Management Information System in Mauritius.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "Secondary school EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Secondary school EMIS (pilot)",
+   "country_label": "Mauritius",
+   "class": "emis",
+   "platform": "",
+   "owner": "UNESCO IITE project",
+   "tiers": "S"
+  }
+ ],
+ "note": ""
+}

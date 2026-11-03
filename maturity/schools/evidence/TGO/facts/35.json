@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-17-tgo-togo-autonomiser-les-ecoles-et-les-districts-a-l-aide-de-donnees",
+ "facts": [],
+ "systems": [
+  {
+   "system": "StatEduc",
+   "country_label": "Togo",
+   "class": "census",
+   "platform": "",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Only the annual census through StatEduc and digital school observation by inspectors are described; no per-learner school entry."
+}

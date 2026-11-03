@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-26-gmb-strengthening-school-management-and-data-reporting-in-the-gambia-and-e",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "schools",
+   "value": "pilot",
+   "fact": "Eswatini began a limited SEMIS implementation in 10 schools in Lubombo in March 2024, with 50 more schools due in October 2024.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "SEMIS (DHIS2)",
+   "class": "emis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

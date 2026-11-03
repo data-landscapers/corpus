@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-05-mli-acquisition-et-dotation-en-materiels-informatique-ainsi-que-le-recrute",
+ "facts": [],
+ "systems": [
+  {
+   "system": "JIGITUGU",
+   "country_label": "JIGITUGU",
+   "class": "emis",
+   "platform": "cloud server",
+   "owner": "PASCOFI/EUMC",
+   "tiers": ""
+  }
+ ],
+ "note": "JIGITUGU for real-time attendance and performance is being integrated, but the document gives no levels, pilot or live status, or schools using it."
+}

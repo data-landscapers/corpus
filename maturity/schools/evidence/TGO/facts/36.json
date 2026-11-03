@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-27-tgo-meps-le-cndp-tice-au-cur-de-la-modernisation-du-systeme-educatif",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "Togo",
+   "class": "emis",
+   "platform": "",
+   "owner": "CNDP-TICE",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGE is named with real-time collection, but no school-level entry or learner records are described."
+}

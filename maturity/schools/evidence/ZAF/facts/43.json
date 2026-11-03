@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-zaf-question-to-the-minister-of-basic-education-nw7339",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "kept",
+   "value": "enrolment",
+   "fact": "The Department says LURITS records learner enrolment data submitted by schools via provincial systems for the 2025 academic year.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "LURITS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LURITS",
+   "country_label": "Learner Unit Record Information and Tracking System",
+   "class": "emis",
+   "platform": "",
+   "owner": "Department of Basic Education",
+   "tiers": "national, fed by provincial systems and data warehouses"
+  }
+ ],
+ "note": ""
+}

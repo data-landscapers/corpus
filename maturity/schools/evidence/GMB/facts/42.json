@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-26-gmb-strengthening-school-management-and-data-reporting-in-the-gambia-and-e",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "schools",
+   "value": "pilot",
+   "fact": "Gambia launched a preliminary Tracker-based EMIS in two schools with 5,500 students and 200 teachers in 2022, and SEMIS pilots began in 2023.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "SEMIS (DHIS2 Tracker)",
+   "class": "emis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

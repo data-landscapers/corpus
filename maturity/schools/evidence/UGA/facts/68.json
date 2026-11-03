@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "kept",
+   "value": "enrolment",
+   "fact": "Schools collect each learner's information at enrolment into the ministry's EMIS, which issues the Learner Identification Number.",
+   "system": "EMIS",
+   "class": "emis",
+   "as_of": "2024-10-03",
+   "date_precision": "day"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Uganda",
+   "class": "emis",
+   "platform": "developed by SMS ONE Ltd",
+   "owner": "Ministry of Education and Sports",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-24-nga-fg-releases-new-operational-guidelines-for-waec-neco-students-assessme",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Continuous Assessment portals of WAEC and NECO, linked to NEDI",
+   "country_label": "Nigeria",
+   "class": "single-function",
+   "platform": "",
+   "owner": "WAEC and NECO",
+   "tiers": ""
+  }
+ ],
+ "note": "Termly upload of continuous assessment records to examination-body portals is an examination function for secondary schools, not a primary school EMIS."
+}
