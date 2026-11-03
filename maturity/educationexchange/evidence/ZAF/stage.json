@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "2",
-      "exchange": "underway",
+      "stage": "3",
+      "exchange": "inservice",
       "learnerid": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-001",
-      "gaps": "No source found since October 2023 says two education systems exchange data in use.",
-      "note": "Rebuild 2026-11-02: Parliament heard in August 2026 that the Integrated Learner Management System for post-school bodies is being piloted in a couple of SETAs. Nothing found says it is in service.",
-      "as_at": "2026-11-02"
+      "stage_sources": "ZAF-002",
+      "gaps": "No source found since October 2023 says one learner identifier is used across education systems, or that learner records are linked to the national ID or another sector.",
+      "note": "The Department of Basic Education said in December 2025 that LURITS consolidates learner records schools submit through provincial school administration systems and data warehouses, two education systems exchanging data in use. Nothing found says a learner identifier is used across systems, so not stage 4.",
+      "as_at": "2026-11-03"
     }
   ]
 }

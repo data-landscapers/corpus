@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-zaf-question-to-the-minister-of-basic-education-nw7339",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Department of Basic Education says LURITS consolidates learner information submitted by schools via provincial school administration systems and provincial data warehouses.",
+   "as_of": "2025-12-19",
+   "date_precision": "day",
+   "system": "LURITS",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LURITS",
+   "country_label": "Learner Unit Record Information and Tracking System",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Basic Education",
+   "tiers": "national, fed by provincial systems and data warehouses"
+  }
+ ],
+ "note": ""
+}

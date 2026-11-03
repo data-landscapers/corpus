@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-17-tgo-togo-autonomiser-les-ecoles-et-les-districts-a-l-aide-de-donnees",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "A GPE KIX blog with Togo's ministry officials says the ministry integrated its StatEduc data collection with DHIS2 into a system linking the planning, examinations and inspection directorates.",
+   "as_of": "2025-04-17",
+   "date_precision": "day",
+   "system": "StatEduc with DHIS2",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -16,3 +16,6 @@ UGA,Baseline Education Census portal,Uganda,other,,Uganda Bureau of Statistics w
 UGA,School Report Card,Uganda,exchange,DHIS2 for Education,,"school, district, national",2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation
 UGA,DHIS2 for Education,Uganda,exchange,DHIS2,,,2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation
 UGA,Offline Android data capture,Uganda,other,Android,,school,2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation
+UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators

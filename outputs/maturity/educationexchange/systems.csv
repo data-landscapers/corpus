@@ -5,6 +5,7 @@ AGO,Higher Education Management Information System (HEMIS),AGO,other,,"Ministry 
 AGO,sistema tecnológico de gestão do sector educacional (national education database),Angola,other,Mwango Brain (implementing partner),Ministério da Educação (MED),,2026-08-07-angola-med-mwango-brain-base-nacional-dados
 AGO,Sistema Integrado de Serviços e Informações do Ensino Superior (SISIES),Angola,other,,"Ministério do Ensino Superior, Ciência, Tecnologia e Inovação (MESCTI)",higher education,2025-09-26-mescti-sisies-formacao-pontos-focais-instituicoes-ensino-superior
 AGO,SIETP,Angola,other,,Ministry of Education,,2025-05-09-ago-lbc-retfop-sietp-technical-education
+AGO,INAAREES diploma verification (QR code),Angola,exchange,,INAAREES,,2026-10-29-ago-pti-homologacao-diplomas-codigo-qr-inaarees
 BDI,Education Management Information System (EMIS),Burundi,other,,Ministry of Education,,2026-06-09-au-iped-supports-burundi-strengthening-education-data
 BDI,Système d'Information pour la Gestion de l'Éducation (SIGE),Burundi,other,Microsoft SQL Server 2022,Ministère de l'Éducation nationale et de la Recherche scientifique,,2026-06-07-unesco-renforcement-sige-burundi-cadres-menrs-formation-yaounde
 BDI,Module de Gestion des Ressources Humaines du SIGE,Burundi,exchange,,Ministère de l'Éducation nationale et de la Recherche scientifique,,2024-08-01-bdi-atelier-d-appropriation-et-de-revue-de-la-planification-des-activites
@@ -39,6 +40,7 @@ CMR,Integrated Sectoral Platform for the Education Management Information System
 CMR,"plateforme sectorielle intégrée du Système d'Information pour la Gestion de l'Éducation (SIGE), sige-sectoriel.cm",Cameroon,other,sige-sectoriel.cm,Institut National de la Statistique (host); Ministère de l'Éducation de Base,,2025-05-08-cmr-parec-plateforme-sige-sectoriel
 CMR,WebSIG (MINEDUB),Cameroon,exchange,,MINEDUB,,2026-07-31-cameroon-unesco-basic-education-agreement-websig-database-interconnection
 CMR,Système d'Information pour la Gestion de l'Éducation (SIGE),Cameroon,other,,,,2026-07-31-cameroon-unesco-basic-education-agreement-websig-database-interconnection
+CMR,Education Management Information System (EMIS) integrated sectoral platform,EMIS,other,,INS / PAREC with UNESCO,,2024-06-06-cmr-emis-operationalization-new-it-hardware-for-the-nsi
 COD,Education Management Information System (EMIS),Democratic Republic of Congo,other,"DHIS2 discussed as a possible platform, not adopted",,,2026-05-12-au-iped-emis-self-assessment-drc
 COD,e-SIGE-DRC,Democratic Republic of Congo,other,application for automated data collection and transmission,DIGE (Direction d'Information de Gestion de l'Education),"primary school census, 10 project provinces",2024-11-01-worldbank-restructuring-eesse-education-project
 COD,EDUSER,COD,other,Built on HereMIS by CGA Technologies (Corus),"Ministry of Education (MEPST), run by SERNIE","National learner enrolment, piloted in 20 primary schools in Kasai in April 2026 (8,634 learners)",2026-08-04-corus-eduser-pilote-kasai-donnees-education
@@ -89,6 +91,7 @@ EGY,Education Management Information System (EMIS),Egypt,other,,Ministry of Educ
 EGY,Learning Management System (LMS),Egypt,other,,MoETE,,2023-09-01-egypt-education-sector-plan-2023-2027
 EGY,Egyptian Knowledge Bank (EKB),Egypt,other,,,,2023-09-01-egypt-education-sector-plan-2023-2027
 EGY,Student Information System,Egypt,other,,,,2023-09-01-egypt-education-sector-plan-2023-2027
+EGY,EMIS portal online application (emis.gov.eg),Egypt,other,emis.gov.eg,Ministry of Education and Technical Education,,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025
 ERI,Education Management Information System (EMIS),Eritrea,other,,Ministry of Education,,2023-09-01-eritrea-2023-2027-partnership-compact
 ERI,EMIS,Eritrea,other,,Ministry of Education,,2026-05-14-lbr-request-for-proposal-consultancy-for-emis-policy-development-support-t
 ERI,national EMIS,Eritrea,other,,Ministry of Education,,2024-04-19-gpe-eri-001-eritrea-emis-system-transformation-grant
@@ -112,6 +115,7 @@ GHA,CSSPS,Ghana,other,,,,2025-09-01-ghana-education-sector-medium-term-developme
 GHA,EMIS,Ghana,other,,"Ministry of Education, Ghana",school;subnational;national,2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal
 GHA,NST,Ghana,other,,"Ministry of Education, Ghana",,2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal
 GHA,mSRC,Ghana,other,,,,2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal
+GHA,Ghana Card,Ghana,other,,National Identification Authority,,2025-09-18-gha-nia-to-integrate-student-database-with-ghana-card-for-easy-access
 GIN,MEPU-A education management information system (EMIS),Guinea,other,,Ministry of Pre-University Education and Literacy (MEPU-A),,2023-12-21-wb-isr-guinee-education-base-p167478
 GIN,carte scolaire nationale,Guinea,other,,Ministère de l'Éducation Nationale (lead); INS validates data,,2026-04-29-guinee-lancement-carte-scolaire-nationale
 GIN,immatriculation numérique des élèves du primaire (plateforme),Guinea,other,,Ministère de l'Éducation nationale; direction générale des examens et contrôle scolaire,,2026-02-26-guinee-immatriculation-numerique-eleves-primaire
@@ -176,6 +180,7 @@ KEN,National qualifications database (KNQA),Kenya,other,,Kenya National Qualific
 KEN,KEMIS (Kenya Education Management Information System),Kenya,other,,Ministry of Education,,2026-06-06-education-ministry-rolls-out-kemis-makes-registration-mandatory-for-capitation
 KEN,NEMIS (National Education Management Information System),Kenya,other,,Ministry of Education,,2025-09-07-98pc-of-public-schools-submit-data-to-curb-capitation-fraud
 KEN,KEMIS (Kenya Education Management Information System),Kenya,other,,Ministry of Education,,2025-09-07-98pc-of-public-schools-submit-data-to-curb-capitation-fraud
+KEN,KEMIS,Kenya,exchange,,Ministry of Education,,2026-01-02-ken-government-to-roll-out-kemis-on-january-9-2026-to-track-learners-natio
 LBR,Annual School Census,Liberia,other,,Ministry of Education,,2026-09-30-liberian-observer-moe-real-time-school-data-system-emis-policy
 LBR,Statutory School Record System,Liberia,other,,Ministry of Education,,2026-09-30-liberian-observer-moe-real-time-school-data-system-emis-policy
 LBR,Education Management Information System,Liberia,other,,Ministry of Education,,2025-09-10-liberia-moe-au-iped-emis-modernisation-roadmap
@@ -211,6 +216,7 @@ MDG,FPE,Madagascar,other,,Ministry of National Education (DSI),national,2025-03-
 MLI,Système d'Information et de Gestion de l'Éducation (SIGE),Mali,other,,Ministère de l'Éducation nationale (CPS-SE),,2026-03-16-unesco-mali-sige-statistiques-sante-scolaire
 MLI,Education Management Information System,Mali,other,,CPS Education (Ministry of National Education),,2025-12-19-mali-miqra-isr-seq10-emis
 MLI,StatEduc-2,Mali,other,"SQL Server database (formerly Access), data entry and processing over a VPN","CPS-SE, Ministere de l'Education Nationale","central, academies (AE) and animation centres (CAP)",2017-01-01-mali-adea-revue-par-les-pairs-sige
+MLI,JIGITUGU,JIGITUGU,other,cloud server,PASCOFI/EUMC,,2025-06-05-mli-acquisition-et-dotation-en-materiels-informatique-ainsi-que-le-recrute
 MOZ,StatEduc,MOZ,other,"Microsoft .NET, MS SQL Server 2008 R2",Ministry of Education and Culture,,2025-01-01-building-responsive-emis-policies-robust-education-data
 MOZ,"EMIS (DHIS2 for Education, Milange District)",MOZ,other,DHIS2,Milange District education office,district;school,2024-06-25-milange-district-emis-scaling-school-level
 MOZ,EMIS,MOZ,other,,Ministry of Education and Culture,national;provincial;district;school,2026-08-21-gpekix-mozambique-education-data-system
@@ -348,6 +354,7 @@ TGO,"Bac1 results consultation platform (resultats.service-public.gouv.tg, Whats
 TGO,Education Management Information System (EMIS) prototype,Togo,other,,"Ministry of Primary, Secondary, and Technical Education and Crafts",,2025-01-14-world-bank-isr-togo-basic-education-p172674
 TGO,Human Resources Management Information System (HRMIS),Togo,other,,"Ministry of Primary, Secondary, and Technical Education and Crafts",,2025-01-14-world-bank-isr-togo-basic-education-p172674
 TGO,interconnectivity of platforms and databases project,Togo,exchange,,,,2025-01-14-world-bank-isr-togo-basic-education-p172674
+TGO,Exasco,Togo,other,,CNDP-TICE,,2025-03-27-tgo-meps-le-cndp-tice-au-cur-de-la-modernisation-du-systeme-educatif
 TUN,Vie scolaire (viescolaire.education.tn),Tunisia,other,,Ministry of Education,,2026-08-29-lapresse-inscription-scolaire-vie-scolaire-53pct
 TUN,Vie scolaire (viescolaire.education.tn),Tunisia,other,,Ministry of Education,,2026-08-27-lapresse-tunisia-viescolaire-inscription-en-ligne
 TUN,Manzumat al-Hayat al-Madrasiya (school life system),Tunisia,other,,Ministry of Education,,2026-08-06-tunisia-education-ministry-digital-school-life-platform
@@ -372,12 +379,16 @@ UGA,Baseline Education Census portal,Uganda,other,,Uganda Bureau of Statistics w
 UGA,School Report Card,Uganda,exchange,DHIS2 for Education,,"school, district, national",2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation
 UGA,DHIS2 for Education,Uganda,exchange,DHIS2,,,2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation
 UGA,Offline Android data capture,Uganda,other,Android,,school,2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation
+UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 ZAF,SA-SAMS (modernised),South Africa,other,cloud-based school administration and management system,"Department of Basic Education EMIS Directorate, with NECT delivering","school, district, provincial",2026-02-04-dbe-sa-sams-modernisation-uat
 ZAF,SA-SAMS,South Africa,other,,,school,2025-12-01-ijemds-rural-school-sa-sams-utilisation
 ZAF,LURITS (Learner Unit Record Information Tracking System),South Africa,other,,Department of Basic Education,national,2026-01-07-zaf-question-nw5625-to-the-minister-of-basic-education
 ZAF,Integrated Learner Management System (ILMS),South Africa,exchange,built by TUT Faculty of ICT,MICT SETA and Tshwane University of Technology (IP ownership disputed),post-school education and training,2026-08-20-parliament-ilms-intellectual-property-dispute
 ZAF,Higher Education and Training Management Information System (HETMIS),South Africa,other,,Department of Higher Education and Training,"comprised TVET, SETA and community education MIS",2026-08-20-parliament-ilms-intellectual-property-dispute
 ZAF,"EMIS (Education Management Information Systems, Department of Basic Education)",South Africa,other,,Department of Basic Education,national,2011-06-06-sc009-standard-for-data-coding
+ZAF,LURITS,Learner Unit Record Information and Tracking System,other,,Department of Basic Education,"national, fed by provincial systems and data warehouses",2025-12-19-zaf-question-to-the-minister-of-basic-education-nw7339
 ZMB,national student database,Zambia,other,,Higher Education Authority,national,2026-03-25-zambia-hea-student-indexing-reform
 ZMB,teacher database,Zambia,other,,Teaching Council of Zambia,national,2024-12-13-zambia-zeep-mid-term-review-aide-memoire
 ZMB,EMIS reform,Zambia,other,,Ministry of Education,national,2024-12-13-zambia-zeep-mid-term-review-aide-memoire

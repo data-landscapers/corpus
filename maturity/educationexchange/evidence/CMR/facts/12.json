@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-06-cmr-emis-operationalization-new-it-hardware-for-the-nsi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Education Management Information System (EMIS) integrated sectoral platform",
+   "country_label": "EMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "INS / PAREC with UNESCO",
+   "tiers": ""
+  }
+ ],
+ "note": "The EMIS platform is named but no link between education systems is stated."
+}

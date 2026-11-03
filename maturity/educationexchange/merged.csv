@@ -1,11 +1,16 @@
 iso3,source_slug,read,merged_on
 AGO,2017-05-31-using-data-to-improve-education-in-angola,,2026-10-19
+AGO,2024-06-13-ago-angop-emis-cidadao-digital-500-mil-formados-angotic2024,,2026-11-03
+AGO,2024-12-24-ago-menosfios-emis-cidadao-digital-600-mil,,2026-11-03
 AGO,2025-01-01-ago-anuario-estatistico-da-educacao-2022-2023-med,,2026-10-19
 AGO,2025-05-09-ago-lbc-retfop-sietp-technical-education,,2026-10-19
 AGO,2025-09-26-mescti-sisies-formacao-pontos-focais-instituicoes-ensino-superior,,2026-10-19
 AGO,2025-11-14-decreto-presidencial-227-25-titulos-escolares-identificador-unico-do-aluno,,2026-10-19
+AGO,2025-11-19-ago-certificacao-tier-iii-de-instalacao-construida,,2026-11-03
 AGO,2026-01-01-ago-asycuda-operational-launch-asy5,,2026-10-19
 AGO,2026-01-19-emis-resultados-operacionais-2025-multicaixa-stc-kwik-qr,,2026-10-19
+AGO,2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional,,2026-11-03
+AGO,2026-08-05-ago-empresa-angolana-assume-implementacao-tecnica-do-sistema-de-dados-da-e,,2026-11-03
 AGO,2026-08-07-angola-med-mwango-brain-base-nacional-dados,,2026-10-19
 AGO,2026-08-19-adea-angola-education-skills-data-challenge,,2026-10-19
 AGO,2026-08-24-angola-med-matricula-escolas-sem-bi,,2026-10-19
@@ -16,6 +21,9 @@ AGO,2026-09-21-ago-expansao-kwik-carteiras-digitais-0-6-pct,,2026-10-19
 AGO,2026-10-07-ago-emis-relatorios-sinteticos-mensais-setembro-2026,,2026-10-19
 AGO,2026-10-08-fintechs-ao-africa-36-sistemas-pagamentos-instantaneos-interoperabilidade,,2026-10-19
 AGO,2026-10-14-ago-fintechs-emis-ia-seguranca-pagamentos-digitais,,2026-10-19
+AGO,2026-10-27-ago-infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid,,2026-11-03
+AGO,2026-10-28-novojornal-31-mil-funcionarios-fantasma-singerh-maptss,,2026-11-03
+AGO,2026-10-29-ago-pti-homologacao-diplomas-codigo-qr-inaarees,,2026-11-03
 BDI,2023-12-19-gpe-itap-assessment-of-enabling-factors-burundi,,2026-10-19
 BDI,2024-08-01-bdi-atelier-d-appropriation-et-de-revue-de-la-planification-des-activites,,2026-10-19
 BDI,2026-06-07-unesco-renforcement-sige-burundi-cadres-menrs-formation-yaounde,,2026-10-19
@@ -25,6 +33,7 @@ BEN,2026-02-19-educmaster-mise-a-jour-donnees-classes-intermediaires,,2026-10-19
 BEN,2026-08-28-educmaster-portail-sige,,2026-10-19
 BFA,2024-02-01-menaplan-fiue-bf-fichier-identification-unique-eleves,,2026-10-19
 BFA,2024-09-06-bfa-iiep-donnees-esu-sige,,2026-10-19
+BFA,2024-09-06-bfa-protecting-education-from-attack-eie-data-in-burkina-faso,,2026-11-03
 BFA,2024-12-30-bfa-faso7-jsena-statistiques-education-sige,,2026-10-19
 BFA,2025-04-14-world-bank-gpe-restoring-education-system-burkina-faso,,2026-10-19
 BFA,2025-06-27-numerisation-systeme-educatif-fichier-national-eleves,,2026-10-19
@@ -45,12 +54,14 @@ CIV,2017-01-01-mcc-civ-emis-2017-cote-divoire-compact-education-management-infor
 CIV,2025-07-11-sige-systeme-information-gestion-education-cote-divoire,,2026-10-19
 CIV,2025-07-13-civ-ecofin-lancement-plateforme-sige,,2026-10-19
 CIV,2026-08-25-c-te-d-ivoire-turns-to-digital-mapping-to-improve-school-planning,,2026-10-19
+CMR,2024-06-06-cmr-emis-operationalization-new-it-hardware-for-the-nsi,,2026-11-03
 CMR,2024-06-06-cmr-statistical-yearbook-of-the-education-and-training-sector-in-cameroon,,2026-10-19
 CMR,2025-05-08-cmr-parec-plateforme-sige-sectoriel,,2026-10-19
 CMR,2025-05-13-unesco-cameroon-integrated-emis-platform-launch,,2026-10-19
 CMR,2026-01-19-camtel-baccalaureate-office-digitize-national-exams-techafricanews,,2026-10-19
 CMR,2026-07-31-cameroon-unesco-basic-education-agreement-websig-database-interconnection,,2026-10-19
 COD,2024-11-01-worldbank-restructuring-eesse-education-project,,2026-10-19
+COD,2025-03-01-cod-termes-de-reference-pour-le-recrutement-d-une-assistance-technique-pou,,2026-11-03
 COD,2026-05-12-au-iped-emis-self-assessment-drc,,2026-10-19
 COD,2026-08-04-corus-eduser-pilote-kasai-donnees-education,,2026-10-19
 COD,2026-10-19-cod-who-deploys-pdx-preparedness-intelligence-platform-in-the-democratic-re,,2026-10-22
@@ -68,6 +79,7 @@ COM,2025-11-25-alwatwan-e-msomo-bulletin-unique-strategie-modernisation,,2026-10
 COM,2026-02-02-alwatwan-bulletin-unique-taux-adhesion-e-msomo,,2026-10-19
 COM,2026-10-20-com-le-projet-rehema-s-attaque-a-la-fragmentation-des-donnees-aux-comores,,2026-10-22
 CPV,2019-02-01-cabo-verde-minedu-sige-sistema-integrado-gestao-escolar,,2026-10-19
+CPV,2025-03-18-cpv-implementacao-do-sige-e-passo-fundamental-para-eficiencia-da-gestao-ed,,2026-11-03
 CPV,2025-07-15-cpv-direcao-nacional-da-educacao-realiza-acao-formativa-no-novo-modulo-de,,2026-10-19
 CPV,2026-04-08-cabo-verde-gpe-subvencao-prise-expansao-modernizacao-sige,,2026-10-19
 CPV,2026-04-08-gpe-cpv-2026-cabo-verde-prise-education-system-capacity-grant,,2026-10-19
@@ -98,6 +110,7 @@ DZA,2026-06-28-dza-mesrs-haut-conseil-communaute-scientifique-etranger,,2026-10-
 DZA,2026-07-07-mesrs-circulaire-orientation-2026,,2026-10-19
 EGY,2023-09-01-egypt-education-sector-plan-2023-2027,,2026-10-19
 EGY,2025-01-01-egy-emis-moete-statistical-yearbook-2024-2025,,2026-10-19
+EGY,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025,,2026-11-03
 EGY,2025-12-15-moete-unified-national-pre-university-education-data-ed1-ed50,,2026-10-19
 EGY,2025-12-22-egypt-2025-education-reforms-verified-data,,2026-10-19
 EGY,2026-04-01-mcit-mohesr-ministers-education-technology-cooperation,,2026-10-19
@@ -125,7 +138,9 @@ GAB,2026-09-06-agpgabon-education-priorites-annee-scolaire-numerique,,2026-10-19
 GHA,2024-01-01-ghana-moe-pmdv-dashboard-api-documentation,,2026-10-19
 GHA,2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal,,2026-10-19
 GHA,2025-09-01-ghana-education-sector-medium-term-development-plan,,2026-10-19
+GHA,2025-09-18-gha-nia-to-integrate-student-database-with-ghana-card-for-easy-access,,2026-11-03
 GHA,2025-12-20-education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools,,2026-10-19
+GHA,2026-10-08-gha-graphic-gra-real-time-vat-sentinel-digital-services,,2026-11-03
 GIN,2021-11-01-mepua-informatisation-digitalisation-sige,,2026-10-19
 GIN,2023-12-21-wb-isr-guinee-education-base-p167478,,2026-10-19
 GIN,2025-09-09-atelier-national-immatriculation-bacheliers-2025-sigu,,2026-10-19
@@ -135,6 +150,7 @@ GIN,2026-04-29-guinee-lancement-carte-scolaire-nationale,,2026-10-19
 GMB,2019-01-01-worldbank-building-the-gambias-social-registry-framework-roadmap,,2026-10-19
 GMB,2022-10-01-dhis2-education-gambia-country-use-case-emis-shift,,2026-10-19
 GMB,2022-10-06-dhis2-gambia-mobse-emis-tracker-impact-story,,2026-10-19
+GMB,2024-09-26-gmb-strengthening-school-management-and-data-reporting-in-the-gambia-and-e,,2026-11-03
 GMB,2025-01-01-dhis2-education-gambia-implementation,,2026-10-19
 GMB,2025-04-25-gmb-kerrfatou-moherst-tita-ai-app,,2026-10-19
 GMB,2025-08-07-gmb-foroyaa-nhrc-court-automation-case-management,,2026-10-19
@@ -143,6 +159,7 @@ GMB,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-less
 GMB,2025-11-29-worldbank-gambia-rise-project-isr05520,,2026-10-19
 GMB,2026-01-28-gmb-thepoint-cj-legal-year-case-management,,2026-10-19
 GMB,2026-01-30 The Gambia charts a path to data-driven education with DHIS2,,2026-10-19
+GMB,2026-03-27-gmb-ungm-undp-integrated-dcms-rfp,,2026-11-03
 GMB,2026-05-04-gpe-kix-study-tour-education-data-system,,2026-10-19
 GMB,2026-07-01-mobse-health-ministry-data-systems,,2026-10-19
 GNB,2022-01-11-fec-peside-sistema-informacao-gestao-educacao-guine-bissau,,2026-10-19
@@ -159,6 +176,7 @@ KEN,2025-05-15-kemis-team-unveiled,,2026-10-19
 KEN,2025-05-27-harmonize-education-data-maisha-namba-biometricupdate,,2026-10-19
 KEN,2025-08-28-kemis-schools-data-validation-circular,,2026-10-19
 KEN,2025-09-07-98pc-of-public-schools-submit-data-to-curb-capitation-fraud,,2026-10-19
+KEN,2026-01-02-ken-government-to-roll-out-kemis-on-january-9-2026-to-track-learners-natio,,2026-11-03
 KEN,2026-06-06-education-ministry-rolls-out-kemis-makes-registration-mandatory-for-capitation,,2026-10-19
 KEN,2026-07-24-kenya-national-qualifications-framework-amendment-bill-2026,,2026-10-19
 KEN,2026-08-17-kemis-learner-validation-guidance,,2026-10-19
@@ -168,6 +186,7 @@ KEN,2026-09-10-ken-primeafrica-kwale-identity-documents-gaps,,2026-10-19
 KEN,2026-09-18-government-plans-unified-system-to-verify-public-servants-certificates-nairobi-w,,2026-10-19
 KEN,2026-10-08-fintechs-ao-africa-36-sistemas-pagamentos-instantaneos-interoperabilidade,,2026-10-19
 KEN,2026-10-16-ken-education-data-systems-switch-funding-gaps,,2026-10-19
+KEN,2026-10-21-ken-education-ministry-sued-over-flaws-in-kemis-portal,,2026-11-03
 LBR,2023-10-24-lbr-lastmile-ecbis-pilot,,2026-10-19
 LBR,2025-01-01-lbr-liberia-emis-education-management-information-system,,2026-10-19
 LBR,2025-04-16-lbr-government-of-liberia-european-union-and-unicef-launch-partnership-to,,2026-10-19
@@ -180,7 +199,10 @@ LBR,2026-03-30-liberia-moe-launches-2025-2026-national-school-census,,2026-10-19
 LBR,2026-05-14-lbr-request-for-proposal-consultancy-for-emis-policy-development-support-t,,2026-10-19
 LBR,2026-09-30-liberian-observer-moe-real-time-school-data-system-emis-policy,,2026-10-19
 LBR,2026-10-02-lbr-liberia-advances-development-of-national-education-management-informat,,2026-10-19
+LBR,2026-10-07-iati-gb-gov-1-400199-411-cross-regulatory-digital-governance-south-africa,,2026-11-03
 LBR,2026-10-14-lbr-liberianobserver-upgraded-gbvims-launch,,2026-10-19
+LBR,2026-10-29-iati-xm-dac-6-4-013531-01-0-agbledu-smart-agri-markets-digitally-enabled-agriculture-ghana,,2026-11-03
+LBR,2026-10-30-lbr-louisville-group-helps-liberia-track-and-restore-water-access,,2026-11-03
 LBY,2023-03-29-lby-open-emis,,2026-10-19
 LBY,2023-09-01-moe-dic-itlaq-manzumat-bayanat-altaalim,,2026-10-19
 LBY,2024-04-02-lby-afdb-gpn-si-ifmis,,2026-10-19
@@ -190,6 +212,7 @@ LBY,2025-09-30-lby-expertisefrance-judicial-digitalisation-case-management,,2026
 LBY,2025-10-20-moe-dic-ihsaiyyat-alaam-aldirasi-2025-2026,,2026-10-19
 LBY,2026-01-01-moe-dic-almasharie-nizam-bayanat-altaalim,,2026-10-19
 LBY,2026-07-22-lana-idraj-muassasat-altaalim-alkhass-manzumat-bayanat-altaalim,,2026-10-19
+LBY,2026-10-27-lby-health-minister-chairs-consultative-meeting-on-2026-2030-health-digital-tr,,2026-11-03
 LSO,2024-10-23-lso-lestimes-iec-emis-tender-battle,,2026-10-19
 LSO,2025-11-07-lso-enhancing-education-data-systems-in-lesotho-through-peer-exchange,,2026-10-19
 LSO,2026-04-01-lesotho-teacher-management-zambia-lessons,,2026-10-19
@@ -202,17 +225,23 @@ MAR,2019-08-09-maroc-loi-cadre-51-17-education-formation-recherche-scientifique,
 MAR,2022-09-07-morocco-e-government-interoperability-platform,,2026-10-19
 MAR,2023-11-21-morocco-world-bank-accelerating-transformation-higher-education-pad,,2026-10-19
 MDG,2025-03-01-papesi-evaluation-unesco-iiep,,2026-10-19
+MDG,2025-06-04-mdg-commerce-exterieur-gasynet-rapporte-un-delai-moyen-de-dedouanement-red,,2026-11-03
 MDG,2026-05-12-nuis-national-student-id-rollout,,2026-10-19
 MDG,2026-09-08-mdg-adea-esdc-cartographie-donnees-education,,2026-10-19
+MDG,2026-10-26-mdg-wearetech-mpianatra-school-management-platform,,2026-11-03
 MLI,2017-01-01-mali-adea-revue-par-les-pairs-sige,,2026-10-19
+MLI,2024-10-30-mli-l-unesco-appuie-la-production-des-statistiques-liees-a-la-sante-du-sys,,2026-11-03
 MLI,2025-02-21-mali-jo-2025-05-ordonnance-2025-009-ansaec-rnip,,2026-10-19
 MLI,"2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps",,2026-10-19
+MLI,2025-06-05-mli-acquisition-et-dotation-en-materiels-informatique-ainsi-que-le-recrute,,2026-11-03
 MLI,2025-12-19-mali-miqra-isr-seq10-emis,,2026-10-19
 MLI,2026-03-16-unesco-mali-sige-statistiques-sante-scolaire,,2026-10-19
 MLI,2026-07-31-mli-journal-officiel-de-la-republique-du-mali-soixante-septieme-annee-nume,,2026-10-19
 MOZ,2017-12-01-regulamento-quadro-interoperabilidade-governo-electronico-decreto-67-2017,,2026-10-19
 MOZ,2024-06-25-milange-district-emis-scaling-school-level,,2026-10-19
+MOZ,2024-06-27-moz-proteccao-de-dados-e-fundamental-para-o-respeito-a-soberania-e-a-integ,,2026-11-03
 MOZ,2025-01-01-building-responsive-emis-policies-robust-education-data,,2026-10-19
+MOZ,2025-11-19-moz-governo-aprova-reformas-estruturantes-39-sessao-conselho-de-ministros,,2026-11-03
 MOZ,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique,,2026-10-19
 MOZ,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate,,2026-10-19
 MOZ,2026-06-11-intic-egif4m2-regulation-review,,2026-10-19
@@ -229,15 +258,20 @@ MUS,2019-02-01-mus-mauritius-emis-support-and-monitoring-of-education-2030-agend
 MUS,2022-09-01-mus-openemis-capacity-building-in-mauritius,,2026-10-19
 MUS,2025-01-01-national-strategy-higher-education-science-research-2025-2035,,2026-10-19
 MUS,2025-03-05-mus-undp-digital-health-architecture-blueprint,,2026-10-19
+MUS,2025-08-29-mus-unesco-iite-and-chengdu-group-complete-project-on-inclusive-digital-ed,,2026-11-03
 MUS,2025-10-28-mytgpt-educational-platform-pilot-mou,,2026-10-19
 MUS,2026-02-20-hec-data-lake-consultancy-notice,,2026-10-19
+MUS,2026-10-27-mus-dossier-m-dical-num-rique-e-health-plus-de-150-000-patients-d-j-enregi,,2026-11-03
 MWI,2024-04-01-malawi-2023-2027-partnership-compact,,2026-10-19
 MWI,2025-11-25-foundational-learning-program-isr,,2026-10-19
 MWI,2026-05-01-mwi-from-data-collection-to-data-use-strengthening-decision-making-at-subn,,2026-10-19
 MWI,2026-07-06-mwi-education-data-portal-edap,,2026-10-19
+MWI,2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet,,2026-11-03
 NAM,2024-01-01-education-management-information-system-emis,,2026-10-19
 NAM,2025-01-01-namibia-openemis-country-highlights-2025,,2026-10-19
 NAM,2025-06-13-nam-cpbn-eoi-ifms-support-five-years,,2026-10-19
+NAM,2025-09-08-nam-finance-ministry-to-end-payroll-deduction-system-for-civil-servants,,2026-11-03
+NAM,2026-01-01-nam-manual-payroll-system-raises-cost-and-control-issues,,2026-11-03
 NAM,2026-03-28-namibia-openemis-cies-2026-paper-integrated-assessments,,2026-10-19
 NAM,2026-05-05-nam-newera-namra-asycudaworld-upgrade,,2026-10-19
 NAM,2026-05-19-nam-observer-namra-customs-11-versions-behind,,2026-10-19
@@ -266,8 +300,10 @@ NGA,2026-09-10-nga-newstimes-ncc-zero-rated-educational-platforms,,2026-10-19
 NGA,2026-10-08-fintechs-ao-africa-36-sistemas-pagamentos-instantaneos-interoperabilidade,,2026-10-19
 RWA,2024-01-01-rwanda-education-sector-strategic-plan-2024-2029,,2026-10-19
 RWA,2025-07-02-rwa-unicef-sdms-school-data-management,,2026-10-19
+RWA,2025-08-29-mus-unesco-iite-and-chengdu-group-complete-project-on-inclusive-digital-ed,,2026-11-03
 RWA,2026-02-01-education-statistical-yearbook-2024-2025,,2026-10-19
 RWA,2026-02-11-hisp-rwanda-mineduc-education-data-partnership,,2026-10-19
+RWA,2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet,,2026-11-03
 SDN,2011-09-01-sudan-emis-final-evaluation-unicef,,2026-10-19
 SDN,2025-06-01-sudan-transitional-education-plan-2025-2027,,2026-10-19
 SDN,2026-04-26-sudan-unesco-year-of-tvet-declaration,,2026-10-19
@@ -300,6 +336,7 @@ STP,2026-05-07-sao-tome-unicef-dashboards-supervisao-educativa,,2026-10-19
 SWZ,2024-01-01-eswatini-dhis2-for-education-implementation,,2026-10-19
 SWZ,2024-01-01-government-performance-report-2023-2024,,2026-10-19
 SWZ,2024-04-26-eswatini-launches-semis,,2026-10-19
+SWZ,2024-09-26-gmb-strengthening-school-management-and-data-reporting-in-the-gambia-and-e,,2026-11-03
 SWZ,2025-09-20-towards-inclusive-education-data-systems-integration-of-disability-indicators-into-eswatinis-national-emis,,2026-10-19
 SWZ,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn,,2026-10-19
 SWZ,2025-11-04-eswatini-disability-indicators-emis,,2026-10-19
@@ -320,6 +357,7 @@ TCD,2025-02-14-tcd-unesco-outils-gestion-enseignants-sahel,,2026-10-19
 TCD,2025-10-07-ndjamenaactu-annuaire-statistique-scolaire-2024-2025-validation,,2026-10-19
 TCD,2026-03-23-unicef-innocenti-supporting-middle-tier-actors-chad-data,,2026-10-19
 TCD,2026-06-23-unesco-tchad-equipements-sige-550000-usd,,2026-10-19
+TCD,2026-10-30-tcd-lendjampost-education-nationale-le-numerique-pour-mieux-gerer-les-agents,,2026-11-03
 TGO,2022-12-01-hisp-wca-dhis2-emis-togo,,2026-10-19
 TGO,2024-09-18-tgo-mfb-formation-solaf-execution-budget,,2026-10-19
 TGO,2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems,,2026-10-19
@@ -327,6 +365,8 @@ TGO,2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visu
 TGO,2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts,,2026-10-19
 TGO,2025-01-14-world-bank-isr-togo-basic-education-p172674,,2026-10-19
 TGO,2025-02-04-tgo-tclome-syscom-procedures-commerciales,,2026-10-19
+TGO,2025-03-27-tgo-meps-le-cndp-tice-au-cur-de-la-modernisation-du-systeme-educatif,,2026-11-03
+TGO,2025-04-17-tgo-togo-autonomiser-les-ecoles-et-les-districts-a-l-aide-de-donnees,,2026-11-03
 TGO,2026-01-01-tgo-liste-des-annuaires-nationaux,,2026-10-19
 TGO,2026-05-04-gpe-kix-study-tour-education-data-system,,2026-10-19
 TGO,2026-06-08-togo-men-resultats-bac1-2026-digitalisation-systeme-educatif,,2026-10-19
@@ -342,6 +382,7 @@ TZA,2026-03-12-tanzania-validates-electronic-data-governance-strategy,,2026-10-1
 TZA,2026-07-14-schools-told-to-align-courses-with-market-needs,,2026-10-19
 UGA,2019-08-14-moes-emis-overview,,2026-10-19
 UGA,2023-03-28-dhis2-routine-data-collection-uganda-education,,2026-10-19
+UGA,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators,,2026-11-03
 UGA,2024-10-04-uga-emis-no-more-physical-registration-licensing-of-schools,,2026-10-19
 UGA,2025-03-18-essa-ulearn-education-systems-assessment,,2026-10-19
 UGA,2025-07-15-gpekix-kix-seeds-annual-general-meeting-insights,,2026-10-19
@@ -353,13 +394,16 @@ UGA,2026-06-09-uga-concerns-grow-as-private-firm-retains-control-of-critical-edu
 UGA,2026-10-17-uga-more-than-3mn-tax-records-await-nin-match-before-login-switch,,2026-10-19
 ZAF,2011-06-06-sc009-standard-for-data-coding,,2026-10-19
 ZAF,2024-09-10-zaf-treasury-pq792-ifms-status-reply,,2026-10-19
+ZAF,2025-06-26-zaf-question-nw3686-to-the-minister-of-finance,,2026-11-03
 ZAF,2025-09-01-zaf-pmg-nw5224-court-online-courts,,2026-10-19
 ZAF,2025-12-01-ijemds-rural-school-sa-sams-utilisation,,2026-10-19
+ZAF,2025-12-19-zaf-question-to-the-minister-of-basic-education-nw7339,,2026-11-03
 ZAF,2026-01-07-zaf-question-nw5625-to-the-minister-of-basic-education,,2026-10-19
 ZAF,2026-02-04-dbe-sa-sams-modernisation-uat,,2026-10-19
 ZAF,2026-06-29-zaf-pmg-nw2881-digital-health-hie-emr,,2026-10-19
 ZAF,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 ZAF,2026-08-20-parliament-ilms-intellectual-property-dispute,,2026-10-19
+ZAF,2026-10-23-zaf-sars-s-expanded-auto-assessments-pay-off,,2026-11-03
 ZMB,2024-12-13-zambia-zeep-mid-term-review-aide-memoire,,2026-10-19
 ZMB,2025-01-01-zambia-education-management-system-emis-user-story,,2026-10-19
 ZMB,2026-03-25-zambia-hea-student-indexing-reform,,2026-10-19

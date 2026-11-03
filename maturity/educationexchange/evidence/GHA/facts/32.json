@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-18-gha-nia-to-integrate-student-database-with-ghana-card-for-easy-access",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Student database integration is only preparations announced, not contracted, built or piloted."
+}

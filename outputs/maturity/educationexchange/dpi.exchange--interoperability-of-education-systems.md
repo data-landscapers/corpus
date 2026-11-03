@@ -22,11 +22,11 @@ The African Union's Digital Education Strategy asks for an individual, identifie
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 2 |
-| 3 Established | 4 |
+| 3 Established | 5 |
 | 2 Nascent | 14 |
 | 1 Absent | 2 |
 | Unplaced | 4 |
-| No evidence | 24 |
+| No evidence | 23 |
 
 ## Countries
 
@@ -79,6 +79,12 @@ In 2026 the teacher records system was linked to the payroll, covering 98 percen
 Since 2026 learner records are checked against the examination databases; no learner identifier shared across systems has been found.
 
 - A Ministry of Education circular says the KEMIS Learner Validation Engine is operational and automatically compares learner records against official examination and assessment databases, marking learners Valid or Invalid ([source, 2026-08-17](https://arena.co.ke/ministry-circular-guidance-on-learner-validation-in-kemis/)).
+
+### South Africa: 3 Established
+
+Since at least 2025 the national learner register has taken learner records from provincial school systems; no identifier shared across systems has been found.
+
+- The Department of Basic Education says LURITS consolidates learner information submitted by schools via provincial school administration systems and provincial data warehouses ([source, 2025-12-19](https://pmg.org.za/committee-question/35150/)).
 
 ### South Sudan: 3 Established
 
@@ -142,6 +148,12 @@ An education data portal joining ministry and partner datasets was being built i
 
 - The Unlocking Data Initiative Malawi team is developing an Education Data Portal (EDaP) to bring together datasets from the education ministry (MoEST, which runs the EMIS), the gender and social welfare ministry, the National Statistics Office, development partners and academia, with hosting to pass to CERT at the University of Malawi ([source, 2026-07-06](https://unlockingdata.africa/2026/07/06/unlocking-malawis-foundational-learning-data-for-better-learning-outcomes/)).
 
+### Mali: 2 Nascent
+
+In 2025 a donor project began linking a school attendance and results tool to the ministry's education system; whether the link works is not known.
+
+- EUMC's call for expressions of interest of 5 June 2025 seeks a consultant to build a module syncing the JIGITUGU attendance and performance solution with the ministry's education portal (API or webhook) ([source, 2025-06-05](https://www.malipages.com/appel-offre/acquisition-et-dotation-en-materiels-informatique/)).
+
 ### Rwanda: 2 Nascent
 
 In 2026 the ministry and partners worked on linking its student and school data systems; no link in service has been found.
@@ -154,12 +166,6 @@ In 2026 the ministry began building a hub to connect its separate education data
 
 - MBSSE has launched an initiative, funded by GPE with UNICEF supporting, to build a DHIS2-based national education data hub whose automated interoperability layer will connect the annual school census, teacher management system, learning assessments, school quality data and examination results, rolling out across all 16 districts (date is the document's published date, as it gives none) ([source, 2026-04-07](https://dhis2.org/sierra-leone-national-education-data-hub/)).
 - The document says Sierra Leone is integrating multiple data systems into a national data warehouse; the systems are not named ([source, 2025-02](https://www.gpekix.org/blog/south-south-collaboration-stronger-education-systems-lessons-learned-cross-country-learning)).
-
-### South Africa: 2 Nascent
-
-A learner system linking post-school bodies was in pilot in 2026; no link in service has been found.
-
-- Parliament's Higher Education and Training committee was briefed by MICT SETA that the Integrated Learner Management System, meant to integrate the various post-school entities' systems into one national shared platform for real-time data sharing, is being developed and is now piloted in a couple of SETAs, though an IP dispute with Tshwane University of Technology and weak DHET buy-in could delay it ([source, 2026-08-20](https://www.parliament.gov.za/news/dispute-over-intellectual-property-could-derail-leaner-management-system)).
 
 ### Tanzania: 2 Nascent
 
@@ -297,12 +303,6 @@ Nothing found names education systems exchanging data or says there is none, so 
 Not established: Nothing found names education systems exchanging data, or says there is none.
 
 ### Madagascar: No evidence
-
-Nothing found names education systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing found names education systems exchanging data, or says there is none.
-
-### Mali: No evidence
 
 Nothing found names education systems exchanging data or says there is none, so no stage is set.
 
