@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: BFA
-ledger_rows: 33
+ledger_rows: 34
 not_held: 6
-record: 364d45c5bf1f
+record: fc8859524bb5
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: 364d45c5bf1f
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -557,6 +559,28 @@ Burkina Faso's digital transition ministry met startups, SMEs, incubators, unive
 **[Burkina Faso : vers la création d'un fonds de soutien aux startups numériques ?](https://digitalmagazine.bf/2026/10/25/burkina-faso-vers-la-creation-dun-fonds-de-soutien-aux-startups-numeriques/)** — Digital Magazine Burkina, 25 October 2026
 
 Summarised under [Innovation ecosystem](#innovation-ecosystem).
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#research-institutions">Research institutions</a>
+</nav>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digit OACS research project on the digital transition of universities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso : Le projet Digit OACS lancé pour analyser la transition numérique dans les universités](https://lefaso.net/spip.php?article150452=)** — leFaso.net, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+A four-year research project on the digital transition of university work in Burkina Faso, Kenya and Nigeria was launched in Ouagadougou on 2 November 2026. Called Digit OACS, it is led by the Africa Multiple pole of excellence at Université Joseph Ki-Zerbo. German development cooperation provides about FCFA 200 million.
 
 </div>
 
