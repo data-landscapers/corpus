@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-03
+period: 2026-10-01 to 2026-11-03
 place: SDN
-ledger_rows: 19
+ledger_rows: 22
 not_held: 5
-record: 47f460500e09
+record: f68246440fb8
 ---
 
 # News, Oct – Nov 2026
@@ -30,6 +30,8 @@ record: 47f460500e09
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 </nav>
 
 ### Legislation and regulation
@@ -67,6 +69,36 @@ The Sudanese Journalists Syndicate rejected an amendment made by Temporary Decre
 **[Journalists, politicians face death penalty under Sudan legal amendment, activists warn](https://www.newarab.com/news/sudan-legal-amendment-puts-journalists-risk-death-penalty)** — The New Arab, 24 October 2026
 
 Rights groups and activists warn that a temporary decree issued by army commander Abdel Fattah al-Burhan under Sudan's Miscellaneous Amendments Act of 2026 extends Article 51 of the 1991 criminal code, on inciting war against the state and punishable by death or life imprisonment, to electronic and media publications. They say it is likely to be used against dissent alongside the new cybercrime mechanism, and local reports describe a marked fall in social-media posting from Sudan since the change.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Digital Transformation Law of 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مجلس الوزراء يدين الاعتداءات المتكررة على المنشآت الخدمية عبر المسيرات التي تنطلق دولة إثيوبيا](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)** — Sudan News Agency (SUNA), 1 November 2026
+
+Cabinet approves draft cybersecurity, data and AI, and digital transformation bills of 2026; texts unpublished.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Data and Artificial Intelligence Law</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[مجلس الوزراء يدين الاعتداءات المتكررة على المنشآت الخدمية عبر المسيرات التي تنطلق دولة إثيوبيا](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)** — Sudan News Agency (SUNA), 1 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
@@ -129,6 +161,20 @@ Access Now reviewed exam-related internet shutdowns in the Middle East and North
 **[رئيس مجلس الوزراء يصدر قراراً بتشكيل الآلية الوطنية لمكافحة جرائم المعلوماتية](https://www.suna.sd/posts/ryys-mgls-alozraaa-ysdr-krara-btshkyl-alaly-alotny-lmkafh-graym-almaalomaty-bryas-msaaad-alnayb-alaaam)** — Sudan News Agency (SUNA), 19 October 2026
 
 Sudan's prime minister issued a decision on 19 October 2026 forming a National Mechanism to Combat Informatics Crimes, chaired by an assistant attorney general. It is tasked with combating cybercrime and publications deemed harmful to the state and society, monitoring media and social platforms, and taking preventive and legal action, including lawsuits on the state's behalf.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Cybersecurity Law</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[مجلس الوزراء يدين الاعتداءات المتكررة على المنشآت الخدمية عبر المسيرات التي تنطلق دولة إثيوبيا](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)** — Sudan News Agency (SUNA), 1 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
