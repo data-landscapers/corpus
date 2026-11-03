@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-01-mdg-unctad-ige-ecde9-madagascar-contribution",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-invoicing (facturation electronique)",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "",
+   "owner": "DGI",
+   "tiers": ""
+  }
+ ],
+ "note": "E-invoicing law of 2023 and vendor contract are invoicing, not electronic payment or filing of taxes; recorded as other."
+}

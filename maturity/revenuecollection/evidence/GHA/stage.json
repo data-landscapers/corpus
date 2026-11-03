@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "2",
-      "payment": "underway",
+      "stage": "3",
+      "payment": "inservice",
       "main": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-003",
-      "gaps": "No source found since October 2023 says taxes or fees are paid electronically; GRA's Ghana.gov and ITAPS payment facts date from 2021 and 2019.",
-      "note": "The CitizenApp launched in October 2024 lists tax-return filing among its services (GHA-003), which is e-filing announced; nothing in the window says tax is paid electronically, so not stage 3.",
-      "as_at": "2026-10-23"
+      "stage_sources": "GHA-004;GHA-003",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically, and none gives a figure for revenue paid electronically. GRA's Ghana.gov and ITAPS payment facts date from 2021 and 2019.",
+      "note": "From 1 November 2026 traffic fines notified under TraffiTech-GH can be paid by mobile money or card (GHA-004), so some fees are paid electronically. Nothing in the window says the main taxes and customs duties are, so not stage 4.",
+      "as_at": "2026-11-03"
     }
   ]
 }

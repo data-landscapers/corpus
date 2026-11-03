@@ -40,6 +40,8 @@ CIV,TresorPay,Cote d'Ivoire,revenue,,Tresor public,,2025-09-15-civ-cote-d-ivoire
 CMR,Tresor Pay,Cameroon,revenue,,Ministry of Finance,,2025-06-05-cameroon-mandates-digital-payment-platform-non-tax-revenues
 CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 CMR,SIGIT,SIGIT,other,,Directorate General of Taxation,,2026-04-10-kfw-cmr-2026-sigit-tax-duty-management-system
+CMR,SchoolMap,Cameroon,other,SchoolMap,Ministry of Secondary Education,,2024-08-28-cmr-cameroon-deploys-schoolmap-to-simplify-tuition-payment
+CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,FACNOR RDC,DR Congo,other,mobile app,DGI,,2026-10-09-cod-rdc-monde-dgi-facture-normalisee-controle
 COD,VAT télédéclaration,DR Congo,revenue,,DGI,,2026-09-03-cod-7sur7-tva-e-finance-huawei
 COD,E-Finance programme,DR Congo,other,Huawei,Ministry of Finance,,2026-09-03-cod-7sur7-tva-e-finance-huawei
@@ -96,6 +98,7 @@ GHA,E-VAT,Ghana,other,GRA e-invoicing platform,Ghana Revenue Authority,standalon
 GHA,Ghana.gov,Ghana,revenue,,Ghana Revenue Authority,,2021-04-21-gha-gra-cashless-policy
 GHA,ITAPS,Ghana,revenue,,Ghana Revenue Authority,,2022-11-11-gha-routledge-digitalisation-revenue-mobilisation
 GHA,Paperless Port System,Ghana,other,GCNet,Ghana Revenue Authority,,2022-11-11-gha-routledge-digitalisation-revenue-mobilisation
+GHA,TraffiTech-GH,Ghana,other,TraffiTech-GH,Ghana Police Service (MTTD),,2026-11-02-ghana-la-police-deploie-des-cameras-connectees-pour-automati
 GIN,Tresor Pay,Guinea,revenue,"mobile phone, e-money services",Ministry of Economy and Finance,,2025-12-23 Guinea rolls out Tresor Pay as digital gateway for public payments
 GMB,SUTURA,GMB,revenue,,Nifty ICT Solutions with GAMPOST,,2026-07-20-gambia-accountant-general-sutura-digital-revenue-collection
 GMB,Accountant General integrated digital payment system,GMB,revenue,,Office of the Accountant General,,2026-07-20-gambia-accountant-general-sutura-digital-revenue-collection
@@ -103,6 +106,7 @@ GMB,Yonna Wallet,Gambia,revenue,mobile wallet app,Yonna Group,,2026-03-02 Gambia
 GMB,PAPSS,Gambia,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
 GMB,ITAS,Gambia,revenue,Sogema Technologies,Gambia Revenue Authority,,2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency
 GMB,InTouch revenue monitoring and payments platform,Gambia,revenue,InTouch,Gambia Revenue Authority / Ministry of Finance,,2026-10-31-gmb-senegalese-fintech-intouch-signs-10-year-partnership-with-gambia-to-st
+GMB,Centralized payment monitoring platform (InTouch Solutions Gambia),Gambia,other,InTouch,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-11-02-gmb-gambia-to-enforce-tighter-monitoring-on-betting-industry-as-government
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 GNB,Strengthening Tax Administration Capacity Project in West Africa (STACP-WA),Guinea-Bissau,revenue,,West African Tax Administration Forum (WATAF),,2026-08-18-african-development-bank-wataf-2026-stacp-wa
 KEN,Electronic invoicing (eTIMS) mandate / Incomes and Expenses Validation,Kenya,other,,Kenya Revenue Authority,,2026-08-19-horn-uganda-kenya-electronic-invoicing-divergence
@@ -140,6 +144,7 @@ MDG,e-Facturation,Madagascar,other,central tax-administration platform with API 
 MDG,SIGRNF,Madagascar,revenue,mobile banking and mobile money,Ministere de l'Economie et des Finances,,2025-05-09-sigrnf-lancement-mef-gov-mg
 MDG,SAFI (Système d'Administration FIscale Intégré),Madagascar,revenue,,Ministère de l'Économie et des Finances,,2024-11-08-projet-safi-mef
 MDG,e-Hetra,e-Hetra,revenue,,Ministry of Economy and Finance,,2025-09-01-mdg-interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-fi
+MDG,e-invoicing (facturation electronique),Madagascar,other,,DGI,,2026-05-01-mdg-unctad-ige-ecde9-madagascar-contribution
 MLI,digital payment at civil registry centres,Mali,revenue,,Ministry of Territorial Administration and Decentralisation,,2026-07-31-mali-collectivites-digitalisation-paiements-etat-civil
 MLI,E-Impôt,Mali,revenue,Sigtas teleservices module,Direction générale des impôts,"large and medium enterprises (DGE, CIME)",2025-11-26-mali-dgi-recettes-electroniques
 MLI,Télépaiement,Mali,revenue,interbank bank-transfer exchange with Treasury and DGI,Direction générale des impôts,taxpayers of computerised centres,2025-11-26-mali-dgi-recettes-electroniques

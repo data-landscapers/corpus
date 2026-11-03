@@ -22,8 +22,8 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 3 |
-| 3 Established | 37 |
-| 2 Nascent | 6 |
+| 3 Established | 38 |
+| 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -192,6 +192,13 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 - The Point reports the Gambia's Deputy Accountant General said government has an integrated digital payment system already integrating several commercial banks and other channels, with digital payments making tax payments easier, and an MoU signed 2026-07-17 adds SUTURA for taxes, fees and other charges ([source, 2026-07-17](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection)).
 - Under a partnership with the Accountant General's Department, government fees such as rates, business registration, ID cards and passports can be paid through Yonna Wallet, which the source says is live ([source, 2026-03-02](https://standard.gm/govt-payments-now-digitalised-live-on-yonna-wallet-app)).
 
+### Ghana: 3 Established
+
+Traffic fines can be paid by mobile money or card from November 2026; whether the main taxes and duties are paid electronically is not known.
+
+- Ghana Police say traffic fines notified under TraffiTech-GH from 1 November 2026 can be paid electronically by mobile money or card within 14 days ([source, 2026-11-01](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)).
+- Vice President Bawumia listed the filing of tax returns among the services reachable through the CADIS app launched on 7 October 2024, without saying tax can be paid there ([source, 2024-10-07](https://www.biometricupdate.com/202410/ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-services)).
+
 ### Guinea: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
@@ -354,12 +361,6 @@ Electronic payment of taxes or fees was under way in 2026; none in service is on
 Electronic payment of taxes or fees was under way in 2025; none in service is on record.
 
 - The World Bank committed US$20m in 2025 to the Djibouti Economic and Financial Governance Project, which includes tax administration system modernization and sets a PDO target of 70% tax e-filing adoption by December 2029 (ITAS indicator at 0% as of the January 2026 review) ([source, 2025](https://projects.worldbank.org/en/projects-operations/project-detail/P180696)).
-
-### Ghana: 2 Nascent
-
-Filing tax returns through a government app was announced in 2024; no source found says whether taxes are paid electronically now.
-
-- Vice President Bawumia listed the filing of tax returns among the services reachable through the CADIS app launched on 7 October 2024, without saying tax can be paid there ([source, 2024-10-07](https://www.biometricupdate.com/202410/ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-services)).
 
 ### Guinea-Bissau: 2 Nascent
 
