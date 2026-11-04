@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: CPV
-ledger_rows: 8
+ledger_rows: 9
 not_held: 24
-record: 12fcba2de427
+record: dde50dac8202
 ---
 
 # News, Oct – Nov 2026
@@ -89,6 +89,20 @@ Summarised under [Connectivity](#connectivity).
 **[Cabo Verde: Starlink Triplica Quota de Tráfego de Internet e já Representa 18% do Total](https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total)** — Diário Económico, 24 October 2026
 
 Figures from Cabo Verde's regulator ARME, reported by Lusa, show Starlink's share of national internet traffic rising from 6% in the second quarter of 2025 to 18% a year later, although it held only 0.87% of internet subscriptions at the end of June. Over the same period Cabo Verde Telecom's traffic share fell from 89% to 78% and Unitel's from 6% to 4%; the country had 500,263 internet subscriptions, 85% of them mobile broadband.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Submarine cable landings serving Cabo Verde</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[João Domingos, CEO CVTelecom: “Precisamos de ter mais cabos amarrados em Cabo Verde”](https://expressodasilhas.cv/pais/2026/11/01/joao-domingos-ceo-cvtelecom-precisamos-de-ter-mais-cabos-amarrados-em-cabo-verde/105326)** — Expresso das Ilhas, 1 November 2026
+
+Three cables landed, three more investors seeking landings; turnover near 7m contos; 5G awaits regulator roadmap.
 
 </div>
 

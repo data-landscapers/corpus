@@ -1,12 +1,12 @@
 ---
 title: Cape Verde: status report
-compiled: 2026-11-01
+compiled: 2026-11-04
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 223
+sources_cited: 227
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -119,7 +119,7 @@ The plumbing underneath is thin: [one exchange point, CV-IXP in Praia, with five
 <!-- derived -->
 That 2026 penetration target sits well above where penetration actually stood at the end of 2025, and is out of reach on the current trajectory.
 
-[The national operator and an internet exchange operator signed a non-binding letter of intent, announced 29 September 2026, under which the operator would provide transport capacity between Lisbon and Sao Paulo in exchange for access to the exchange's services in five cities; a definitive agreement is still to come](https://www.de-cix.net/en/about-de-cix/media/press-releases/de-cix-and-cabo-verde-telecom-plan-new-south-atlantic-interconnection-corridor).
+[The national operator and an internet exchange operator signed a non-binding letter of intent, announced 29 September 2026, under which the operator would provide transport capacity between Lisbon and Sao Paulo in exchange for access to the exchange's services in five cities; a definitive agreement is still to come](https://www.de-cix.net/en/about-de-cix/media/press-releases/de-cix-and-cabo-verde-telecom-plan-new-south-atlantic-interconnection-corridor). [In October 2026 the operator's outgoing chief executive said Cabo Verde had three international cable landings and at least three more investors seeking landings](https://expressodasilhas.cv/pais/2026/11/01/joao-domingos-ceo-cvtelecom-precisamos-de-ter-mais-cabos-amarrados-em-cabo-verde/105326).
 
 ### Data Storage
 <!-- infra.store -->
@@ -202,7 +202,7 @@ Civil registration is the opposite case. [Birth registration stands at roughly 9
 
 The social registry is the most complete of the rest: the Cadastro Social Único is [treated as the single gateway to all social benefits](https://mfids.gov.cv/v2/index.php/cadastro-social-unico) and [held data on over 91,164 households, 64 per cent of the population, in February 2026](https://documents1.worldbank.org/curated/en/099031026114025875/pdf/P175828-f967c7fb-95be-4e0d-aa08-09adcfcf0b76.pdf). The tax authority is under a [statutory duty to keep an up-to-date central register of taxpayers covering both individuals and businesses](https://www.mf.gov.cv/web/dnre/estrutura-organica), and [company procedures moved online on the Empresa Online platform, in beta with a pilot group of users](https://expressodasilhas.cv/pais/2026/03/20/plataforma-empresa-online-reforca-digitalizacao-dos-servicos-publicos-em-cabo-verde/101997) (March 2026), [where forming, amending or dissolving a company is free for three months after launch and then costs CVE 10,000 an act, paid only electronically](https://boe.incv.cv/Bulletins/DownloadAct?id=100739) (April 2026). [No central beneficial-ownership register existed in 2025](https://track.unodc.org/uploads/documents/UNCAC/WorkingGroups/workinggroup2/2025-September-3-5/BO-Questionnaire-Responses/Cabo_Verde_S.pdf); [an anti-money-laundering bill passed in principle on 26 March 2026 provides for a national list and platform of beneficial owners](https://www.governo.cv/aprova-na-generalidade-a-lei-contra-lavagem-de-capitais-e-financiamento-do-terrorismo/).
 
-The electoral register is the outlier. It has been a [centralised biometric database since the late 2000s](https://mitgovlab.org/wp-content/uploads/2023/11/Gangamreddypalli_FinalReport.pdf), but the National Elections Commission says [its management system and rolls are out of date, and has asked the government for a new database for 2026, through automatic registration or a fresh base registration](https://cne.cv/sala_de_imprensa_/cne-reivindica-nova-base-de-dados-para-as-eleicoes-de-2026/) (December 2024). At no published grain does the [FY2024 budget carry a line for a civil register, biometric enrolment, an interoperability layer, a service bus or a single window](https://www.mf.gov.cv/documents/198414/3832853/Lei+que+aprova+o+OE+2024.pdf/b399a0a3-3df2-5dd0-d420-fbf1b1ebcd04?version=1.0&t=1707741905701).
+The electoral register is the outlier. It has been a [centralised biometric database since the late 2000s](https://mitgovlab.org/wp-content/uploads/2023/11/Gangamreddypalli_FinalReport.pdf), but the National Elections Commission says [its management system and rolls are out of date, and has asked the government for a new database for 2026, through automatic registration or a fresh base registration](https://cne.cv/sala_de_imprensa_/cne-reivindica-nova-base-de-dados-para-as-eleicoes-de-2026/) (December 2024). [A March 2025 reform of the Electoral Code would create an electoral information system drawing voters' data from the national identity system for automatic registration](https://expressodasilhas.cv/pais/2025/03/28/reforma-do-codigo-eleitoral-introduz-votacao-electronica-e-novas-regras-para-sondagens/96303); no enactment has been found. [Consular staff enrol voters abroad directly into the electoral database through the consular portal](https://dgape.cv/wp-content/uploads/2025/10/Manual-de-Utilizador-Recenseamento-Eleitoral-Portal-Consular-1o-versao_compressed.pdf) (June 2025). [The roll held 419,755 electors on 28 April 2026](https://boe.incv.cv/Bulletins/Download/34015). At no published grain does the [FY2024 budget carry a line for a civil register, biometric enrolment, an interoperability layer, a service bus or a single window](https://www.mf.gov.cv/documents/198414/3832853/Lei+que+aprova+o+OE+2024.pdf/b399a0a3-3df2-5dd0-d420-fbf1b1ebcd04?version=1.0&t=1707741905701).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
