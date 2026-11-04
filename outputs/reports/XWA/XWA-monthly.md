@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: XWA
-ledger_rows: 21
+ledger_rows: 22
 not_held: 1
-record: e7346682cd08
+record: 14e5955968c5
 ---
 
 # News, Oct – Nov 2026
@@ -318,6 +318,30 @@ The West African central bank (BCEAO) is changing fees on its PI-SPI instant pay
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Finances : La BCEAO se dote d'un nouveau systeme de paiement instantane](https://anp.ne/finances-la-bceao-se-dote-dun-nouveau-systeme-de-paiement-instantane/)** — Agence Nigerienne de Presse, 3 November 2026
+
+Agence Nigérienne de Presse relayed a BCEAO statement of 2 November 2026 on mandatory PI-SPI routing; the Launch Base Africa entry covers the rollout. It sets a FCFA 100 million ceiling on instant business-to-business payments, which banks may lower. The same rules are to cover cross-border WAEMU transfers from 1 June 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Monnaie électronique dans l'Uemoa : le passage obligatoire à la PI-SPI sème la confusion chez les usagers](https://www.pressafrik.com/%E2%80%8BMonnaie-electronique-dans-l-Uemoa-le-passage-obligatoire-a-la-PI-SPI-seme-la-confusion-chez-les-usagers_a313990.html)** — PressAfrik, 3 November 2026
+
+PressAfrik reported failed bank-to-wallet transfers as mandatory PI-SPI routing began on 2 November 2026; the Launch Base Africa entry covers the rollout. Economist Souleymane Astou Diagne said coverage is incomplete, as microfinance has until 30 June 2027 to connect. He named fraud, platform outages and state use of payment data as risks.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa’s Unified Payments Network Is Off to a Rocky Start](https://launchbaseafrica.com/2026/11/03/failed-transfers-hidden-fees-and-phantom-aliases-inside-the-messy-birth-of-west-africas-unified-payments-network/)** — Launch Base Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+From 2 November 2026 the BCEAO required interoperable e-money transfers across WAEMU to route through its PI-SPI platform. In the first days, users in Senegal and Côte d'Ivoire reported Orange Money-to-Wave transfers debited but not credited, and alias conflicts. Wave added a 1% cash-withdrawal fee, outside the BCEAO's transfer-fee cap; the BCEAO had not commented.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -399,6 +423,20 @@ The ECOWAS Commission launched an automated platform in Abuja to plan, coordinat
 **[Liberia: LISGIS Boss Cautions Against Inadequate Usage of AI for Data Collection](https://frontpageafricaonline.com/liberia/liberia-lisgis-boss-cautions-against-inadequate-usage-of-ai-for-data-collection/)** — FrontPage Africa, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
 
 A week-long ECOWAS training for managers of member states' national statistical systems opened in Monrovia on 5 October. The head of Liberia's statistics office said statisticians need training to use AI in data collection properly, and warned that it can harm the data as well as help.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS regional metadata framework for monetary and financial statistics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ECOWAS STRENGTHENS THE HARMONIZATION OF MONETARY AND FINANCIAL STATISTICS TO SUPPORT REGIONAL ECONOMIC INTEGRATION](https://www.ecowas.int/la-cedeao-renforce-lharmonisation-des-statistiques-monetaires-et-financieres-pour-soutenir-lintegration-economique-regionale/)** — ECOWAS, 3 November 2026
+
+The ECOWAS Commission and the West African Monetary Agency opened an experts' meeting on monetary and financial statistics in Lomé on 2 November 2026. Central bank statisticians are reviewing a draft regional metadata framework until 7 November. They are also assessing a regional action plan adopted in January 2025.
 
 </div>
 
