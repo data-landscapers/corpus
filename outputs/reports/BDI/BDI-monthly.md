@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: BDI
-ledger_rows: 16
+ledger_rows: 17
 not_held: 10
-record: c6ed75d749ad
+record: 378942c9ffbf
 ---
 
 # News, Oct – Nov 2026
@@ -247,6 +247,28 @@ Burundi is preparing an E-Justice platform to link the penal chain from the judi
 **[Burundi opts for a local app for presidency-citizen interactions](https://www.connectingafrica.com/social-technology/burundi-opts-for-a-local-app-for-presidency-citizen-interactions)** — Connecting Africa, 8 October 2026
 
 Burundi's presidency adopted Gasape Chat, a locally built messaging application, as a channel for citizens' grievances. The terms were not disclosed, and analysts noted that nothing says who controls the servers or protects users' data.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-government services portal (Portail e-Gouv)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi Digital Foundations Project — Invitation for Bids OP00476457: Conception, Développement, Intégration, Déploiement et Mise en service du Portail National d'accès aux services publics de l'administration en ligne (Portail e-Gouv)](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476457)** — World Bank (procurement notice issued by PAFEN / SETIC, Burundi), 20 October 2026
+
+IDA-funded RFP for Burundi's e-Gov portal; 11 priority services, open-source stack, 12 months; bids due 4 Dec 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consulting, digitale Verwaltungsdienstleistungen (E-Gov)](https://www.gtai.de/de/trade/burundi/ausschreibungen-projekte/consulting-digitale-verwaltungsdienstleistungen-e-gov--2037126)** — Germany Trade & Invest (GTAI), 29 October 2026
+
+World Bank-financed PAFEN tender for the national e-Gouv services portal; bids due 4 Dec 2026, ref. OP00476457.
 
 </div>
 
