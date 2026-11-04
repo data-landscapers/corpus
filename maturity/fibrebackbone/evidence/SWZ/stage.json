@@ -1,16 +1,17 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "2",
-   "reach": "building",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-002;SWZ-003",
-   "gaps": "No source found says any of the backbone is in service between the capital and another region.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "3",
+      "reach": "in-service",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-004",
+      "gaps": "No source found says the backbone reaches every province or region; the regulator's ruling names no towns served.",
+      "note": "Rebuild 2026-11-04: the regulator's 2026 ruling treats EPTC's existing national backbone as an essential facility that ISPs must use, which is backbone in service, read as other countries' unplaced national networks are. No source says it reaches every region, so the open-access ruling cannot lift it to 5.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

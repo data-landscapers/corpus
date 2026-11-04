@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-015;NGA-005",
-      "gaps": "No source found says other operators buy capacity on the backbone, or that it runs on open-access or wholesale terms.",
-      "note": "Counted from the four questions by study-ladder-fibrebackbone.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found says other operators buy capacity on the backbone, or that it runs on open-access or wholesale terms. The World Bank said in September 2025 that Nigeria has no national backbone network; the regulator's later state figures count all operators' fibre.",
+      "note": "Rebuild 2026-11-04: the regulator's August 2026 figures put fibre in all 36 states and the capital territory, later than the World Bank's 2025 statement that there is no national backbone. No source says other operators buy capacity on it, so not stage 5.",
+      "as_at": "2026-11-04"
     }
   ]
 }

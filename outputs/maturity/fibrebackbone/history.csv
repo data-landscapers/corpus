@@ -9,3 +9,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,GAB,infra.connect--national-fibre-backbone,fact,3,3,GAB-001;GAB-012,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,TZA,infra.connect--national-fibre-backbone,fact,5,5,TZA-012;TZA-010,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-11-01,DZA,infra.connect--national-fibre-backbone,fact,2,3,DZA-002,"Arrival added DZA-002, a 260,000 km national fibre network covering 95 per cent of the territory: backbone in service."
+2026-11-04,BEN,infra.connect--national-fibre-backbone,review,unplaced,3,BEN-002,"Rebuild: the 2018 completion of the Cotonou-Malanville backbone rehabilitation (BEN-002) read as fibre in service, as Niger's completed sections are; unplaced to 3."
+2026-11-04,SWZ,infra.connect--national-fibre-backbone,review,2,3,SWZ-004,"Rebuild: the regulator's 2026 ruling on EPTC's existing national backbone (SWZ-004) read as backbone in service, as other countries' national networks are; 2 to 3."
+2026-11-04,KEN,infra.connect--national-fibre-backbone,review,4,4,KEN-010,"Rebuild: ODI's 2025 statement that NOFBI Phase 2 is incomplete names no county without fibre; all 47 counties (2017) stands; stage 4 kept, conflict noted in gaps."
+2026-11-04,NGA,infra.connect--national-fibre-backbone,review,4,4,NGA-015;NGA-005,"Rebuild: the World Bank's 2025 no-national-backbone statement predates the regulator's 2026 all-state figures; stage 4 kept, conflict noted in gaps."

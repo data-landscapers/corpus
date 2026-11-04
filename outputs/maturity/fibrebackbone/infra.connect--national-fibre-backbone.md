@@ -22,10 +22,10 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 7 |
-| 3 Established | 29 |
-| 2 Nascent | 4 |
+| 3 Established | 31 |
+| 2 Nascent | 3 |
 | 1 Absent | 1 |
-| Unplaced | 1 |
+| Unplaced | 0 |
 | No evidence | 11 |
 
 ## Countries
@@ -86,6 +86,12 @@ A national fibre network of 260,000 km covered most of the territory in 2025; wh
 
 - Algerie360 reports Algeria has a national fibre optic network of 260,000 km covering 95% of the territory ([source, 2025-04-23](https://www.algerie360.com/zerrouki-devoile-la-feuille-de-route-de-la-5g-et-les-avancees-du-service-universel/)).
 
+### Benin: 3 Established
+
+Backbone fibre linked the capital to the north by 2018; no source found says whether it reaches every region.
+
+- The deal record gives the China Eximbank-financed Phase 1 of Benin's National Broadband Network Project, which rehabilitates the existing 1,060 km fibre backbone from Cotonou to Malanville, as completed, with 2018 as its end year; it does not say when traffic resumed ([source, 2018](https://www.fmprc.gov.cn/ce/cebenin/chn/zbgx/t1239853.htm)).
+
 ### Botswana: 3 Established
 
 Backbone fibre linked the capital to other regions by 2026; no source found says whether it reaches every region.
@@ -138,6 +144,12 @@ Backbone fibre linked the capital to other regions by 2025; no source found says
 Backbone fibre linked the capital to other regions by 2025; no source found says whether it reaches every region.
 
 - Gabon's state infrastructure holder SPIN reports that on 10 November 2025 the Gabonese and Equatorial Guinean ministers inaugurated the physical and logical interconnection of the two national fibre backbones at Meyo-Kyé/Ebebeyin, with tests confirming stable traffic exchange between Bitam and Ebebeyin and between Libreville and Bata; the document names no regions or length for the Equatorial Guinean network and does not say Malabo is on it ([source, 2025-11-10](https://spin.ga/alliance-historique-numerique-gabon-guinee-equatoriale/)).
+
+### Eswatini: 3 Established
+
+A national fibre backbone was in service by 2026; no source found says whether it reaches every region.
+
+- ESCCOM's Notice 5/2026 names EPTC as the sole national backbone operator, finds its existing national backbone an essential facility and directs EPTC to share existing connections and fibre topology with ISPs; it names no towns or regions served ([source, 2026-06-01](https://esccom.org.sz/publications/notices/docs/EPTC%20AND%20JENNY%20FINAL%20%20DECISION%20Notice%205.pdf)).
 
 ### Ethiopia: 3 Established
 
@@ -276,13 +288,6 @@ A national fibre backbone was being built in 2026; none is known to be in servic
 
 - Xalam Analytics says the Projet de Couverture Nationale fibre project is underway, about 3,000 km of terrestrial fibre connecting key towns; document gives no event date, so its published date (January 2026) is used ([source, 2026-01](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Congo-Republic-2026.pdf)).
 
-### Eswatini: 2 Nascent
-
-A national fibre backbone was being built in 2026; none is known to be in service.
-
-- The Ministry of ICT confirmed that optical fibre is being rolled out across the country as part of a nationwide deployment; no regions or lengths given. Dated by the article's published date ([source, 2026-02-13](https://times.co.sz/business/readmore.php?bhsadjgfoh=Optical+fibre+rollout+strengthens+business+ecosystem&bvhdgsj=Business+and+Economy&yiphi=2892)).
-- Minister of ICT Maziya reported a nationwide rollout of fibre optic cable supported by the World Bank; no regions or lengths given. Dated by the article's published date ([source, 2025-08-04](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/)).
-
 ### Lesotho: 2 Nascent
 
 A national fibre backbone was being built in 2025; none is known to be in service.
@@ -300,12 +305,6 @@ A national fibre backbone was being built in 2026; none is known to be in servic
 A 2025 source says the country has no national fibre backbone.
 
 - Agence Ecofin reports in August 2025 that Guinea-Bissau's international connectivity is confined to the coast and the country still needs a national backbone to link its main cities ([source, 2025-08-29](https://www.agenceecofin.com/actualites-numerique/2908-131059-deploiement-de-la-fibre-optique-la-guinee-bissau-veut-apprendre-du-tchad)).
-
-### Benin: Unplaced
-
-Nothing found says a national fibre backbone is being built or in service, so no stage is set.
-
-Not established: No source found says a national fibre backbone is being built, or is in service, and none dated in the last three years says there is none.
 
 ### Cape Verde: No evidence
 

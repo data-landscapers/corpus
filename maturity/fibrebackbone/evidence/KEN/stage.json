@@ -1,16 +1,17 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "4",
-   "reach": "every-region",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-010",
-   "gaps": "No source found says other operators buy capacity on the backbone, or that it runs on open-access or wholesale terms.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "4",
+      "reach": "every-region",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-010",
+      "gaps": "No source found says other operators buy capacity on the backbone, or that it runs on open-access or wholesale terms. ODI says in 2025 that NOFBI Phase 2 is still incomplete, against the ministry's statement that it connected the last counties in 2017; it names no county without fibre.",
+      "note": "Rebuild 2026-11-04: the ministry states all 47 counties were connected by 2017, and nothing later names a county without fibre. No source says other operators buy capacity on it, so not stage 5.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }
