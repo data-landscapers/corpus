@@ -426,7 +426,9 @@ dpi.exchange--use-of-digital-id-in-other-systems,Movement,"The identity number i
 
 No count of systems consuming the identifier, and no authentication volume, is published.
 
-2024-01-30 — [the electoral commission said a shared database with Home Affairs, begun earlier and dropped when the ministry withdrew, should be revived so that an identity number brings up a voter's record and deaths leave the roll](2024-01-30-iec-to-partner-home-affairs-ministry-in-seamless-database-project). No agreement is on file.",LSO-dpi.id-id-in-financial-services|LSO-dpi.id-cross-border-id-travel|LSO-dpi.id-mosip|LSO-gov.legislate-national-identity-cards-act-2011|LSO-dpi.exchange-voter-roll-identity-link|LSO-dpi.pay-old-age-pension-e-payment,3,LSO-dpi.id-id-in-financial-services,,,,,,,2026-08-31,0,ID number used in financial KYC per sector strategy; no verification service or usage published
+2024-01-30 — [the electoral commission said a shared database with Home Affairs, begun earlier and dropped when the ministry withdrew, should be revived so that an identity number brings up a voter's record and deaths leave the roll](2024-01-30-iec-to-partner-home-affairs-ministry-in-seamless-database-project).
+
+2026-07-03 - the commission [reported its registration system integrated with the identity register through unique identification numbers](2026-07-05-lso-au-hails-iec-over-election-reforms), on its own account.",LSO-dpi.id-id-in-financial-services|LSO-dpi.id-cross-border-id-travel|LSO-dpi.id-mosip|LSO-gov.legislate-national-identity-cards-act-2011|LSO-dpi.exchange-voter-roll-identity-link|LSO-dpi.pay-old-age-pension-e-payment,3,LSO-dpi.id-id-in-financial-services,,,,,,,2026-08-31,0,ID number used in financial KYC per sector strategy; no verification service or usage published
 dpi.exchange--interoperability-of-health-systems,Movement,A [consultancy is integrating donor-project systems with the national DHIS2 platform](2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy).,"2026-04-09 — [the World Health Organization records the endorsed national digital health strategy and names digital transformation a priority](2026-04-09-who-lesotho-2025-annual-report).
 
 2026-04-01 — [a workshop called for interoperability among the identity, civil registration, education and health databases](2026-04-01-lesotho-unicef-dpi-workshop-child-services).
@@ -525,7 +527,7 @@ No count of registered companies, and no processing time, is published.
 2024 - [beneficial ownership regulations require owners above 10% to be filed with the Registrar within seven days](2025-06-01-lso-beneficial-ownership-in-lesotho), [the Registrar holding the register](2024-08-01-lso-report-of-the-portfolio-committee-on-the-economic-and-development-clus); no filing count is held.
 
 2026-10 - the central bank launched campaigns urging small firms to borrow against movable assets, [M3.7 billion of which had been registered on the electronic collateral registry](2026-10-30-lso-movable-assets-unlock-loans-for-businesses); verification links to key institutions are being added.",LSO-dpi.registry-companies-register|LSO-dpi.registry-business-single-window|LSO-dpi.exchange-national-single-window|LSO-dpi.registry-companies-beneficial-ownership-regulations-2024|LSO-dpi.registry-lerima,2,LSO-dpi.registry-business-single-window,,,,,,,2026-08-31,0,business single window in development; the August national single window is a trade window
-dpi.registry--electoral-register,Movement,"A [voter registration strategy was formally endorsed in June 2026](2026-06-25-lesotho-idea-voter-registration-strategy-launch), with constituency readiness assessments under way.","2013 — [the electoral commission’s report describes the constitutional mandate for the general register of electors and the 2011 electoral Act](2013-01-01-lesotho-iec-2012-national-assembly-elections-report).
+dpi.registry--electoral-register,Movement,"A [voter registration strategy was endorsed in June 2026](2026-06-25-lesotho-idea-voter-registration-strategy-launch), and in September the commission [hired a private auditor to test the roll](2026-09-25-lso-iec-orders-three-tier-audit-of-voters-roll).","2013 — [the electoral commission’s report describes the constitutional mandate for the general register of electors and the 2011 electoral Act](2013-01-01-lesotho-iec-2012-national-assembly-elections-report).
 
 2026-06-15 — [constituency readiness assessments began ahead of registration intensification, with a commissioner deployment framework covering register audits](2026-06-15-lesotho-iec-constituency-assessment-press-release).
 
@@ -533,7 +535,11 @@ dpi.registry--electoral-register,Movement,"A [voter registration strategy was fo
 
 2026-06-04 — [a Bill before the Senate would tie registration and verification to the national identity number](2026-06-04-lesotho-senate-hansard-electoral-amendment-bill).
 
-No registered-elector count is published.",LSO-dpi.registry-electoral-register|LSO-gov.legislate-electoral-amendment-bill-2026|LSO-dpi.registry-deceased-on-voters-roll|LSO-dpi.registry-electoral-management-information-system,,,,,,,,,2026-08-31,0,Register constituted and under reform; whether it is digital or publicly accessible is not on record
+No registered-elector count is published.
+
+2026-07-03 - the commission [told an AU follow-up mission that more than 579,520 citizens had re-registered on the national identity card](2026-07-05-lso-au-hails-iec-over-election-reforms).
+
+2026-09 - the commission [hired a private auditor to test the roll's records, server and network security and system performance](2026-09-25-lso-iec-orders-three-tier-audit-of-voters-roll); the auditor and cost are not named.",LSO-dpi.registry-electoral-register|LSO-gov.legislate-electoral-amendment-bill-2026|LSO-dpi.registry-deceased-on-voters-roll|LSO-dpi.registry-electoral-management-information-system,,,,,,,,,2026-08-31,0,Register constituted and under reform; whether it is digital or publicly accessible is not on record
 dpi.registry--tax-register,Movement,The taxpayer register is now fed by [mandatory structured electronic transaction data](2026-03-27-lesotho-vat-e-invoicing-regulations-2026).,"2001 — [section 7(1) of the Revenue Authority Act authorises systems for taxpayer identification](2001-01-01-lesotho-revenue-authority-act-2001).
 
 2026-03-27 — [the e-invoicing regulations legally establish structured electronic transaction data in taxpayer records](2026-03-27-lesotho-vat-e-invoicing-regulations-2026).
