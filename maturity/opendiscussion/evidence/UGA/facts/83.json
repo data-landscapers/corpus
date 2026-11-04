@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-29-uga-one-man-one-vote-inside-new-ec-biometric-system",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The Forum for Democratic Change and the Uganda People's Congress publicly criticised the Electoral Commission's timing and implementation of its biometric voter machine procurement, per the Daily Monitor.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The Daily Monitor says the Electoral Commission attributed 2021 election-day biometric failures to a nationwide Internet shutdown ordered for 'security reasons'.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
