@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-lso-iec-orders-three-tier-audit-of-voters-roll",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Lesotho Times reports adopted electoral law amendments make the National Identity Document the basis for voter registration, with the roadmap scheduling registration and verification to intensify from October 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "IEC voter registration",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

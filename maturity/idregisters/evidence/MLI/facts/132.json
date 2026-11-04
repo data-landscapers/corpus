@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-06-mli-fichier-electoral-l-heure-du-grand-nettoyage",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The electoral lists use the national identification number (NINA) as the voter's unique identifier.",
+   "as_of": "2026-10-06",
+   "date_precision": "day",
+   "system": "Fichier electoral (RALE 2026)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

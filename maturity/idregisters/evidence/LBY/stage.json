@@ -9,10 +9,10 @@
       "matching": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-006",
-      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
-      "note": "The December 2025 audit deleted nearly 40,000 salary numbers linked to false ID numbers, so public payroll is keyed on the number, as the 2022 findings read. One register is shown, so the matching figure no longer lifts the cell past rung 4 (Bill, 2026-10-23).",
-      "as_at": "2026-10-23"
+      "stage_sources": "LBY-006;LBY-008",
+      "gaps": "No source found since October 2023 shows a third main public register using the national ID number.",
+      "note": "Reassessed 2026-11-04: the electoral roll registers voters by national number (2025) beside public payroll (December 2025 audit), so two main registers are shown, not three. The matching figure does not lift the cell past rung 3 while rung 4 is unmet (Bill, 2026-10-23).",
+      "as_at": "2026-11-04"
     }
   ]
 }

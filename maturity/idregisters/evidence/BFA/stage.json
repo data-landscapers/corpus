@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "registers",
-   "stage": "no evidence",
-   "register": "",
-   "several": "",
-   "matching": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether public registers use the national ID number.",
-   "note": "First pass: counted from the four questions by study-ladder-idregisters.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "registers",
+      "stage": "2",
+      "register": "underway",
+      "several": "",
+      "matching": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-001",
+      "gaps": "No source found since October 2023 shows a public register using the national ID number.",
+      "note": "Reassessed 2026-11-04, no evidence to 2: the minister said in October 2024 that the electoral commission will draw its voter file from the identity base once built. Nothing shows a register using the number yet, so it is not stage 3.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-30-rwa-9-7-mln-people-eligible-to-vote-in-rwanda-election-electoral-body",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The National Electoral Commission chair said all Rwandans aged 18 and over with national identification cards appear on the final voters' list released on 30 June 2024, and voters must show the national ID to vote.",
+   "as_of": "2024-06-30",
+   "date_precision": "day",
+   "system": "voter register",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

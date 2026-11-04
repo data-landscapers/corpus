@@ -21,12 +21,12 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 3 |
+| 4 Operating | 4 |
 | 3 Established | 17 |
-| 2 Nascent | 7 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 25 |
+| No evidence | 23 |
 
 ## Countries
 
@@ -50,6 +50,14 @@ Tax, social protection and business registration used the national ID number in 
 
 - Government spokesman Gerson Msigwa named taxpayer registration, TASAF social services and business registration among services now using the national ID number ([source, 2026-09-02](https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/)).
 - Government spokesman Gerson Msigwa said use of the national ID number has expanded to taxpayer registration, TASAF social services and business registration, among other services ([source, 2026-09-02](https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/)).
+
+### Uganda: 4 Operating
+
+The social grant, the tax records and the voter register used the national ID number by 2026; results of matching them are not known.
+
+- The author says the SAGE social grant only benefits people on the National Identification Register with a national ID, and the education portal EMIS requires a NIN of learners and staff ([source, 2025-09](http://digitalrightsalliance.africa/ugandas-digital-id-barrier-worsens-as-court-delivers-blow-to-access)).
+- Uganda Business News, citing the finance state minister to Parliament, reports the Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual taxpayer records to National Identification Numbers by 30 September 2026 ([source, 2026-09-30](https://ugbusiness.com/2026/10/economy/more-than-3m-tax-records-await-nin-match-before-login-switch)).
+- The Daily Monitor says Uganda's national voter register was compiled using biometric data extracted from Nira, the national identification authority ([source, 2025-10-29](https://www.monitor.co.ug/uganda/news/national/one-man-one-vote-inside-new-ec-biometric-system-5249126)).
 
 ### Algeria: 3 Established
 
@@ -114,9 +122,17 @@ A public register used the national ID number in 2024; no source found reports u
 
 ### Libya: 3 Established
 
-Public payroll was keyed on the national number in 2025, an audit removing 40,000 salary numbers linked to false IDs; no source reports other registers.
+Payroll and the electoral roll used the national number in 2025, an audit removing 40,000 salary numbers; a third main register is not known.
 
 - Attorney General Al-Siddiq Al-Sour says checking national ID numbers led to deletion of more than 17,000 non-existent ID numbers along with nearly 40,000 salary numbers that had been linked to them ([source, 2025-12-09](https://libyareview.com/61619/libyan-prosecutors-uncover-large-scale-identity-manipulation/)).
+- Libya's High National Elections Commission (HNEC) says voters register for the municipal elections by SMS to 17017 with their national ID number and polling-centre number, and published a voter list of 560,896 registered as of 13 April 2025 ([source, 2025-04-13](https://libyareview.com/54785/560896-voters-registered-for-libyan-municipal-elections/)).
+
+### Mali: 3 Established
+
+The electoral roll was drawn from the national identification number in 2025 and 2026; use by other main registers is not known.
+
+- The electoral lists use the national identification number (NINA) as the voter's unique identifier ([source, 2026-10-06](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage)).
+- L'Essor reports the Administrative Commission enrols voters automatically from those holding a national identification number (NINA) ([source, 2025-01-02](https://lessor.ml/posts/loi-electorale-les-articles-52-57-et-70-modifies-677641a527512)).
 
 ### Mauritius: 3 Established
 
@@ -134,10 +150,11 @@ Social grant beneficiaries were checked against the national population register
 
 ### Nigeria: 3 Established
 
-A public register used the national ID number in 2025; no source found reports use by three main registers.
+The social register and the voter roll used the national ID number by 2026; a third main register in use is not known.
 
-- In 2025 the Niger State government launched an initiative integrating the NIN into the Social Safety Register, to improve identity verification for poor and vulnerable households ([source, 2025](https://www.techcityng.com/the-gender-gap-in-rural-niger-states-digital-identity/)).
+- The National Social Register used for cash transfers requires a NIN, and beneficiaries without one are disqualified, says the minister's media aide ([source, 2023-10](https://punchng.com/cash-transfer-fg-disqualifies-nigerians-without-nin-bvn-cbn-begins-payment/)).
 - NSIPA says NIN is integrated into the NSR database, with 1,628,587 NINs validated by NIMC ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
+- INEC chairman Amupitan says INEC's online voter registration platform is anchored on the NIN as a verification protocol ([source, 2026-07-16](https://thenationonlineng.net/six-months-to-presidential-poll-inec-raises-preparation-tempo/)).
 
 ### Rwanda: 3 Established
 
@@ -159,11 +176,11 @@ A public register used the national ID number in 2026; no source found reports u
 
 - The playbook says the citizen identifier register holds the sectoral identifiers (health, social, pupil) in a correspondence table with the IUC, and that web services let ministries and sectors insert or update their sectoral identifier in it ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
-### Uganda: 3 Established
+### Burkina Faso: 2 Nascent
 
-A public register used the national ID number in 2025; no source found reports use by three main registers.
+The electoral commission planned in 2024 to draw its voter file from the new identity base; a register using the number is not known.
 
-- The author says the SAGE social grant only benefits people on the National Identification Register with a national ID, and the education portal EMIS requires a NIN of learners and staff ([source, 2025-09](http://digitalrightsalliance.africa/ugandas-digital-id-barrier-worsens-as-court-delivers-blow-to-access)).
+- Minister Aminata Zerbo says that once the identity base is built the national electoral commission (CENI) will draw its electoral file from it instead of enrolling voters for each election ([source, 2024-10-11](http://news.aouaga.com/h/155610.html)).
 
 ### Djibouti: 2 Nascent
 
@@ -220,12 +237,6 @@ Not established: Nothing found since October 2023 says whether public registers 
 Nothing found since 2023 names a public register using the national ID number, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether public registers use the national ID number.
-
-### Burkina Faso: No evidence
-
-Nothing found names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing found says whether public registers use the national ID number.
 
 ### Burundi: No evidence
 
@@ -300,12 +311,6 @@ Nothing found names a public register using the national ID number or says there
 Not established: Nothing found says whether public registers use the national ID number.
 
 ### Madagascar: No evidence
-
-Nothing found names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing found says whether public registers use the national ID number.
-
-### Mali: No evidence
 
 Nothing found names a public register using the national ID number or says there is none, so no stage is set.
 

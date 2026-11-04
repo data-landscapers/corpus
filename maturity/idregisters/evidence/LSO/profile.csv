@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,registers,register,coverage,inservice,2025-09-16,LSO-001;LSO-002,,
+LSO,registers,register,coverage,inservice,2026-07,LSO-001;LSO-002;LSO-004;LSO-005,LSO-003=underway,
 LSO,registers,several,coverage,,,,,nothing found
 LSO,registers,matching,coverage,,,,,nothing found

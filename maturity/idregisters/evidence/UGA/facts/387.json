@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-29-uga-one-man-one-vote-inside-new-ec-biometric-system",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Daily Monitor says Uganda's national voter register was compiled using biometric data extracted from Nira, the national identification authority.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "national voter register",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

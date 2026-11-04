@@ -9,10 +9,10 @@
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-004;NGA-007",
-      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NGA-006;NGA-007;NGA-010",
+      "gaps": "No source found since October 2023 shows the tax register in use with the NIN, or a third main register; none gives a matching figure.",
+      "note": "Reassessed 2026-11-04: online voter registration anchored on the NIN (July 2026) makes the electoral roll a second main register beside the National Social Register. The tax register is only due to use the NIN, so three are not shown.",
+      "as_at": "2026-11-04"
     }
   ]
 }

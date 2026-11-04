@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-14-lby-560-896-registered-for-libyan-municipal-elections",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Libya's High National Elections Commission (HNEC) says voters register for the municipal elections by SMS to 17017 with their national ID number and polling-centre number, and published a voter list of 560,896 registered as of 13 April 2025.",
+   "as_of": "2025-04-13",
+   "date_precision": "day",
+   "system": "Voter lists (HNEC)",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voter lists",
+   "country_label": "Libya",
+   "class": "register",
+   "platform": "SMS to 17017",
+   "owner": "HNEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

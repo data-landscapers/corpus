@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-02-mli-loi-electorale-les-articles-52-57-et-70-modifies",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "L'Essor reports the Administrative Commission enrols voters automatically from those holding a national identification number (NINA).",
+   "as_of": "2025-01-02",
+   "date_precision": "day",
+   "system": "Liste electorale (Loi electorale 2022-019 as amended by Ordonnance 2024-022)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

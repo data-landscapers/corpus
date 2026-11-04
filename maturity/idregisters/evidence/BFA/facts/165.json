@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-14-bfa-identification-unique-electronique-de-la-personne-physique-les-deputes",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Minister Aminata Zerbo says that once the identity base is built the national electoral commission (CENI) will draw its electoral file from it instead of enrolling voters for each election.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "identification unique électronique de la personne physique",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

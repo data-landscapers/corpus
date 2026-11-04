@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-21-ben-inquietudes-autour-de-la-fiabilite-de-la-liste-electorale-informatisee",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANIP's director general said Benin's computerised electoral list is extracted directly from the national register of natural persons.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Liste Electorale Informatisee (LEI)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

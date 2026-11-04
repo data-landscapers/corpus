@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-08-lby-hnec-decision-253-2025-voter-register-update-regulation",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The regulation treats anyone who used the national number to register in earlier elections, including municipal elections, as already in the preliminary voter lists without re-registering.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "HNEC voter register",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voter registry",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "SMS digital registration",
+   "owner": "High National Elections Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

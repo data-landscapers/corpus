@@ -35,6 +35,7 @@ EGY,national ID,Egypt,other,,,,2026-08-13-egypt-expands-biometric-sim-registrati
 EGY,National ID System (national number project),EGY,other,,Civil Status Organization,,2024-01-01-egypt-national-id-system-citc
 EGY,Payroll system,Egypt,register,,Egyptian Tax Authority,,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum
 EGY,EMIS portal online application (emis.gov.eg),Egypt,other,emis.gov.eg,Ministry of Education and Technical Education,,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025
+EGY,Voter lists,Egypt,register,QR code read by presiding judge's app,National Elections Authority,,2025-07-16-egy-nea-polling-station-app-qr-voter-lists
 ERI,Eritrean National ID,ERI,other,,Government of Eritrea,,2024-10-17-eritrea-embassy-national-id
 ETH,Fayda,Ethiopia,other,,Faydaverse (state-owned enterprise under Ethiopian Investment Holdings),,2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion
 ETH,Fayda,Ethiopia,other,,National ID Program,,2026-07-24-ena-ethio-telecom-69-percent-fayda-digital-id-enrollees
@@ -60,8 +61,12 @@ LBR,National Identification Registry,Liberia,other,,NIR,,2025-07-03-nec-hands-ov
 LBR,National Biometric Identification System,NBIS,other,,National Identification Registry,,2024-02-05-lbr-newspublictrust-nir-mobile-teams
 LBY,unified electronic national number system (civil status authority),Libya,register,electronic national number system,Civil Registry Authority (مصلحة الأحوال المدنية),,2026-09-27-lby-alwasat-national-number-fraud-civil-registry
 LBY,National Number system,Libya,other,,Civil Registry Authority,,2026-04-19-fake-national-numbers-for-sale-alwasat
+LBY,Voter registry,Libya,other,SMS digital registration,High National Elections Commission,,2025-12-08-lby-hnec-decision-253-2025-voter-register-update-regulation
+LBY,Voter lists,Libya,register,SMS to 17017,HNEC,,2025-04-14-lby-560-896-registered-for-libyan-municipal-elections
+LBY,Voter register (HNEC),Libya,register,SMS to 17017,HNEC,,2025-02-25-lby-hnec-sms-voter-registration-check
 LSO,Digital/service identification system,Lesotho,other,,MICSTI,,2026-03-25-lesotho-digital-service-id-pilot-govls
 LSO,MOSIP-based national digital identity ecosystem,LSO,other,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
+LSO,modernised voter registration system,Lesotho,other,,Independent Electoral Commission,,2026-07-05-lso-au-hails-iec-over-election-reforms
 MAR,MOSIP-based national ID,Morocco,other,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 MAR,National ID card management system,Morocco,other,,DGSN,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
@@ -126,6 +131,7 @@ TZA,Jamii Namba,Tanzania,other,,National Identification Authority,,2026-09-17-tz
 TZA,NIDA National Identification Number,Tanzania,other,,National Identification Authority (NIDA),,2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge
 TZA,NIDA national ID,Tanzania,other,,National Identification Authority (NIDA),,2026-01-07-nida-mulls-child-registration
 TZA,Zanzibar Identity Card (Zan ID),Zanzibar,other,,Zanzibar government,,2026-10-29-tza-zanzibar-to-link-identity-card-with-land-ownership-records-to-curb-dis
+TZA,Voters Registration System,Voters Registration System,register,,INEC,,2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education
 UGA,NIRA national ID database,UGA,other,,NIRA,,2024-10-14 Uganda financial institutions sign on for digital KYC through national ID
 UGA,National Identification Register / national ID card,Uganda,other,,NIRA,,2026-09-09-uga-independent-nira-staffing-crisis-uncollected-ids
 UGA,URA taxpayer register,Uganda,register,,Uganda Revenue Authority,,2026-10-18-uga-nin-tin-transition-will-not-automatically-create-tax-liability-lugoloo

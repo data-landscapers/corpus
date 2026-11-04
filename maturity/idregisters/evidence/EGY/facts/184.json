@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-16-egy-nea-polling-station-app-qr-voter-lists",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Egypt's National Elections Authority says it updated the voter lists for the 2025 Senate election with a QR code beside each voter's name to verify the correctness of his national number.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "Voter lists (National Elections Authority)",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voter lists",
+   "country_label": "Egypt",
+   "class": "register",
+   "platform": "QR code read by presiding judge's app",
+   "owner": "National Elections Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

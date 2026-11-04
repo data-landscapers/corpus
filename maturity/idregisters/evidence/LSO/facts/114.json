@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-27-lso-iec-working-to-maintain-clean-voters-roll",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The IEC says the national voters' roll is registered on the national identity card as the sole form of identification.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "National voters' roll",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

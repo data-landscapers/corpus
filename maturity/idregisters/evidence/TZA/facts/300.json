@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "INEC says the NIDA National Identification Number is used to verify voter information corrected in the Permanent Voters Register through the online system.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Voters Registration System",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voters Registration System",
+   "country_label": "Voters Registration System",
+   "class": "register",
+   "platform": "",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
