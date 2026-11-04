@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-bdi-wb-op00476457-pafen-portail-e-gouv-rfp",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The PAFEN request for proposals requires the e-Gov portal to interoperate with government platforms and registers in line with Burundi's 'Cadre national d'interopérabilité'.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Cadre national d'interopérabilité",
+   "class": "framework"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadre national d'interopérabilité",
+   "country_label": "Burundi",
+   "class": "framework",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

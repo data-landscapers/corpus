@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The HCN official said decree 25-320 on national data governance underpins exchange between administrations with a classification reference, an indexing catalogue and a national interoperability system.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Decret executif 25-320",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
