@@ -1,11 +1,11 @@
 ---
 title: South Sudan — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: SSD
-ledger_rows: 4
+ledger_rows: 5
 not_held: 8
-record: 6ac547c3975a
+record: 49778ad5352b
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 6ac547c3975a
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digitalisation">Digitalisation</a>
@@ -21,6 +23,28 @@ record: 6ac547c3975a
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 </nav>
+
+## ICT Infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+</nav>
+
+### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bayobab national and cross-border fibre network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bayobab East to West Connectivity Project: fibre laid](https://tech.africa/bayobab-east-west-fibre-south-sudan/)** — TechAfrica, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibre deployment are complete on the Kenya and South Sudan segments of Northern Route 1 of its East-to-West Connectivity Project. The segments carry 2,038km of fibre, and service activation is the next step. The company gave no activation date, customers or cost.
+
+</div>
+
+</div>
 
 ## DPI
 
