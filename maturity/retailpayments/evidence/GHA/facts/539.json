@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-03-citinewsroom-connecting-africas-wallets-asare-otchere-darko",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "An Africa Prosperity Network opinion piece says over one billion mobile money transactions were recorded in Ghana in a single month, August 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The piece says Ghana was the first to do comprehensive mobile money interoperability, in 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "mobile money interoperability",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -118,6 +118,7 @@ CIV,mobile money,Côte d'Ivoire,retail,,,,2024-11-28-civ-apif-risques-sfn-2022-2
 CIV,WAEMU interoperable instant payment system (PI-SPI),PI-SPI pilot,retail,,BCEAO,,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system
 CIV,Tresor Money,Cote d'Ivoire,retail,,Tresor public,,2025-09-15-civ-cote-d-ivoire-modernisation-des-finances-de-l-etat-le-tresor-public-ac
 CIV,mobile money,mobile money,retail,,,,2026-10-29-en-cote-divoire-une-simulation-nationale-pour-apprendre-a-reagir-aux-cybera
+CIV,PI-SPI,Cote d'Ivoire,retail,instant payment platform,BCEAO,,2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start
 CMR,Orange Money Cameroun,Cameroun,retail,mobile money,Orange,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
 CMR,MTN Mobile Money,Cameroun,retail,mobile money,Mobile Money Corporation,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
 CMR,Konoom Mobile Money,Cameroun,retail,mobile money,Konoom Cameroun,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
@@ -611,6 +612,8 @@ SEN,PI-SPI,Senegal,other,instant payment platform operating 24h/24,,,2025-12-03-
 SEN,Pay Dunya,Senegal,other,,,,2025-05-09-sen-regulation-des-fintechs-les-precisions-de-la-bceao
 SEN,Mikati,Senegal,other,,,,2025-05-09-sen-regulation-des-fintechs-les-precisions-de-la-bceao
 SEN,WAEMU interoperable instant payment system (PI-SPI),PI-SPI pilot,retail,,BCEAO,,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system
+SEN,PI-SPI,Senegal,retail,instant payment platform,BCEAO,,2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start
+SEN,PI-SPI,Sénégal,retail,,BCEAO,,2026-11-02-sen-lesoleil-bank-to-wallet-suspended-pi-spi
 SLE,Flot,Sierra Leone,other,WhatsApp,Open Hub,,2026-04-24-open-hub-flot-platform
 SLE,National Instant Payment Switch,Sierra Leone,retail,,Bank of Sierra Leone,,2025-02-14 Sierra Leone Launches National Instant Payment System
 SLE,Afrimoney,Sierra Leone,retail,,Africell,,2025-02-14 Sierra Leone Launches National Instant Payment System

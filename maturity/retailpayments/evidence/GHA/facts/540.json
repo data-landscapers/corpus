@@ -1,0 +1,27 @@
+{
+ "slug": "2024-05-14-gha-ghana-s-e-initiatives-good-model-for-digital-transformation-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "President Akufo-Addo said mobile money had some 44 million registered accounts by the end of 2023, with transactions above GH¢1 trillion.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "President Akufo-Addo named mobile money interoperability among the e-government initiatives that have reshaped public service delivery and financial inclusion.",
+   "as_of": "2024-05-13",
+   "date_precision": "day",
+   "system": "mobile money interoperability",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

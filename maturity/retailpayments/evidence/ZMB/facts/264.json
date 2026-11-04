@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-03-comesa-world-bank-back-regional-drive-to-connect-180-million-people-through-digital-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Zambia's ministry official Mr Saboi pointed to the growth of mobile money transactions as a driver of financial inclusion, particularly in rural communities.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

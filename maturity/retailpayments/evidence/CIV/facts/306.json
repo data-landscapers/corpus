@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Launch Base Africa reports that from 2 November 2026 interoperable e-money transfers in the WAEMU, including in Cote d'Ivoire, are mandated to route through the BCEAO's PI-SPI, with users reporting Orange Money to Wave and bank-to-wallet transfers through it.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
