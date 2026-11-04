@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: LBR
-ledger_rows: 16
+ledger_rows: 17
 not_held: 6
-record: 8257b04a95f0
+record: a8e8e3a2f1f8
 ---
 
 # News, Oct – Nov 2026
@@ -177,6 +177,8 @@ Liberian Senator Francis Dopoh, chair of the Senate Committee on Posts and Telec
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -249,6 +251,22 @@ A committee of Liberia's House suspended its review of a US$52 million concessio
 **[Liberia’s Instant Payment System Crosses 5.3M Transactions](https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html)** — Liberian Observer, 1 October 2026
 
 Liberia's instant payment system has processed more than 5.3 million transactions between the two mobile money operators since its December 2025 launch, the central bank governor said. About 4.2 million were in Liberian dollars and 1.1 million in US dollars.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric voter register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NEC Seeks US$72M for 2029 Elections](https://www.thenewdawnliberia.com/nec-seeks-us72m-for-2029-elections/)** — The New Dawn, 22 October 2026
+
+Fresh biometric registration planned for January-March 2028, dropping the update of the 2023 roll.
 
 </div>
 

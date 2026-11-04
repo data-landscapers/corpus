@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-11-01
+compiled: 2026-11-04
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 200
+sources_cited: 201
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -228,7 +228,7 @@ That schedule turns regressive above its US$2,000 break: the US$25 cap equals 1.
 
 [Liberia launched a digital beneficial ownership register in 2023](https://eiti.org/news/liberia-launches-new-digital-beneficial-ownership-register). [Business registration has moved to an online platform](https://moci.gov.lr/index.php/media/press-releases/effective-business-climate-lbr-launches-modern-online-platform). [The Business Registry is not interfaced with the Revenue Authority's tax system or any other government platform](https://revenue.lra.gov.lr/wp-content/uploads/2025/09/Liberia-DRM-Strategy-2025-2029.pdf) (2025). [A decentralisation pilot across seven counties opened in Ganta in August 2026, issuing certificates in four days](https://dnnewsliberia.com/liberia-business-registry-launches-digitalization-and-decentralization-project-in-nimba/).
 
-[Liberia ran biometric voter registration nationwide for the October 2023 elections](https://eccliberiacom.org/technical-report-of-the-biometric-voter-registration-process-related-to-the-2023-presidential-and-legislative-elections-in-liberia/), [producing a roll of 2,471,617 voters](https://www.eisa.org/importance-of-invalid-votes-on-the-2023-liberian-elections-insights-and-remedial-measures/). [The Elections Commission and the identity registry keep separate databases](https://doi.org/10.22271/allresearch.2025.v11.i6d.12680) (2025). [In July 2025 the Commission handed more than 500 biometric registration kits to the registry](https://liberianinvestigator.com/featured/nec-transfers-biometric-kits-to-nir/). [The Household Social Registry has enrolled over 250,000 households and serves three social protection programmes](https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia) (2025). [It issues its own scannable household ID cards](https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia). [A household identifier drawing on biometrics, national ID or voter cards was listed as work to come](https://www.liberiasp.gov.lr/?p=986) (2023).
+[Liberia ran biometric voter registration nationwide for the October 2023 elections](https://eccliberiacom.org/technical-report-of-the-biometric-voter-registration-process-related-to-the-2023-presidential-and-legislative-elections-in-liberia/), [producing a roll of 2,471,617 voters](https://www.eisa.org/importance-of-invalid-votes-on-the-2023-liberian-elections-insights-and-remedial-measures/). [The Elections Commission and the identity registry keep separate databases](https://doi.org/10.22271/allresearch.2025.v11.i6d.12680) (2025). [In July 2025 the Commission handed more than 500 biometric registration kits to the registry](https://liberianinvestigator.com/featured/nec-transfers-biometric-kits-to-nir/). In October 2026 the Commission [proposed a fresh biometric registration for January to March 2028, in place of updating the 2023 roll](https://www.thenewdawnliberia.com/nec-seeks-us72m-for-2029-elections/). [The Household Social Registry has enrolled over 250,000 households and serves three social protection programmes](https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia) (2025). [It issues its own scannable household ID cards](https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia). [A household identifier drawing on biometrics, national ID or voter cards was listed as work to come](https://www.liberiasp.gov.lr/?p=986) (2023).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
