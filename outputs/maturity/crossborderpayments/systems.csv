@@ -43,6 +43,7 @@ CIV,SimoCash,Cote d'Ivoire,crossborder,"mobile app (Android, iOS)",SimoCash,,202
 CIV,PI-SPI,WAEMU,other,interoperable instant payment platform,BCEAO,,2026-10-08-xwa-bceao-communique-connexion-tresors-publics-pi-spi
 CIV,PI-SPI,UEMOA,crossborder,instant payment platform,BCEAO,,2026-05-06-uemoa-interoperabilite-paiements-obligatoire-fratmat
 CIV,WAEMU interoperable instant payment system (PI-SPI),PI-SPI pilot,other,,BCEAO,,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system
+CIV,PI-SPI,Cote d'Ivoire,crossborder,instant payment platform,BCEAO,,2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start
 CMR,REasy,Cameroon,crossborder,REasy payment infrastructure (CFA franc to yuan),REasy,,2026-10-06-cmr-businesstechafrica-reasy-agl-pilot-china-imports
 CMR,PAPSS,Cameroon,crossborder,pan-African payment and settlement system,Afreximbank,,2026-08-25-africtelegraph-papss-cemac-cameroun
 CMR,PAPSS,Cameroon,crossborder,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
@@ -248,6 +249,8 @@ SEN,Wave,Wave,other,,Wave,,2026-09-23-sen-seneweb-mobile-money-paiement-establis
 SEN,Max it,Senegal,other,,Sonatel,,2026-07-15-wearetech-sonatel-maxit-brt
 SEN,PI-SPI,SEN,crossborder,,BCEAO,,2025-09-26-bceao-liste-participants-pi-spi-lancement-30-septembre-2025
 SEN,WAEMU interoperable instant payment system (PI-SPI),PI-SPI pilot,other,,BCEAO,,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system
+SEN,PI-SPI,Senegal,crossborder,instant payment platform,BCEAO,,2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start
+SEN,PI-SPI,Sénégal,other,,BCEAO,,2026-11-02-sen-lesoleil-bank-to-wallet-suspended-pi-spi
 SLE,PAPSS,Sierra Leone,crossborder,continental payment rail,Pan-African Payment and Settlement System,,2025-05-19-papss-list-of-live-commercial-banks-sierra-leone
 SLE,Afrimoney,Sierra Leone,crossborder,Afrimoney,Africell,,2026-06-26-gmb-afrimoney-connects-the-gambia-and-sierra-leone-directly-in-historic-fi
 SLE,Tranglo,Sierra Leone,crossborder,Tranglo payment hub,Tranglo,,2025-07-01-tcd-tranglo-grows-footprint-in-africa-with-5-new-countries
