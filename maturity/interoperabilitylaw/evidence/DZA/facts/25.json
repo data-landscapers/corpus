@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The HCN official said inter-administration data exchange is framed by executive decree 25-320 on national data governance.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Decret executif 25-320",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
