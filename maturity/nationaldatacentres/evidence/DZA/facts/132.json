@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-11-dza-transformation-numerique-des-services-publics-le-portail-national-pass",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "Minister Meriem Benmouloud says the national portal's infrastructure is supervised by the national Algerian digital services centre, which she says holds Tier III certification.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Centre national algérien des services numériques",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

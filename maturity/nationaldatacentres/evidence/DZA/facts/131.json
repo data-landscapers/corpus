@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Les Enjeux Eco reports the Centre national des services numeriques holds an Uptime Tier III certification.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Centre national des services numeriques",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The national digital services centre hosts a government cloud intended for administrations.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Centre national des services numeriques",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

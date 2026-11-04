@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-15-dza-lancement-prochain-de-la-plateforme-nationale-des-services-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "Insertion of real data of ministries and public bodies into the national database began, made possible by the national El Mohammedia data centre being in service, per Minister Benmouloud.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "El Mohammedia national data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

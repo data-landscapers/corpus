@@ -556,6 +556,7 @@ MRT,Datacenter National Tier3,Datacenter National,other,,State,Tier III,2024-11-
 MRT,Nouakchott Data Center,Mauritania,datacentre,,state (national),Tier III,2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak
 MRT,Government data centre (Ministry of Digital Transformation),Mauritania,datacentre,hyperconverged infrastructure,Ministry of Digital Transformation and Modernisation of Administration,,2026-07-02-mrt-ami-minister-national-cloud-launch-national-assembly
 MRT,Nouakchott data centre,Mauritania,datacentre,,,Tier III,2026-06-04-mrt-aned-data-localisation-agreement-nouakchott-data-centre
+MRT,Government data centre,Mauritania,datacentre,,Ministry of Digital Transformation,,2024-11-12-mrt-decret-2024-154-portail-khidmaty
 MUS,Mauritius Telecom Rose-Belle data centre,data centre de Rose-Belle,datacentre,,Mauritius Telecom,,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,"Government Online Centre (GOC), Ebene",GOC,other,,Government of Mauritius,government only; about 80 racks,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,Aphelion DC3,Aphelion DC3,datacentre,,Aphelion,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
@@ -836,6 +837,7 @@ SEN,Orange data centres in Senegal (AWS Wavelength Zone),SEN,other,AWS Wavelengt
 SEN,Datacenter national (SENUM SA),Datacenter national,other,,SENUM SA,,2024-02-02-sen-osiris-dossier-patient-unique-partage
 SEN,Stellarix sovereign cloud,Senegal,other,cloud,Stellarix,,2026-10-15-sen-stellarix-sen-startup-cloud-souverain
 SEN,Data Center national de Diamniadio,Data Center national de Diamniadio,datacentre,,Government of Senegal,,2026-10-21-sen-donnees-publiques-jusqu-a-20-des-donnees-senegalaises-encore-hebergees
+SEN,Dakar 2026 private cloud (Alibaba Cloud Apsara Stack),Senegal,other,Alibaba Cloud Apsara Stack,Dakar 2026 Organizing Committee; to be handed to Senegal after the Games,,2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games
 SOM,Dalkom Somalia colocation and web hosting service,SOM,other,,,,2026-08-29-dalkom-somalia-disaster-recovery
 SOM,"Hormuud Telecom data centres (11, 10 MW combined)",Somalia,other,,Hormuud Telecom,,2025-11-27-som-garowe-hormuud-oped-solar-data-centres
 SSD,"Trinity Technologies Tier 2 Datacenter, Hai Malakal, Juba",Datacenter,datacentre,,Trinity Technologies Limited,,2026-08-29-trinity-technologies-datacentre-about
