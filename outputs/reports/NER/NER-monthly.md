@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: NER
-ledger_rows: 8
+ledger_rows: 9
 not_held: 1
-record: 5f958670efa1
+record: bc2ab7297e2a
 ---
 
 # News, Oct – Nov 2026
@@ -68,6 +68,8 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -113,6 +115,22 @@ Niger and Algeria launched operation of the fibre link between In Guezzam and th
 **[Visite technique du chantier du datacenter national](https://ansi.ne/?p=1698)** — Agence Nationale pour la Société de l'Information, 29 October 2026
 
 Niger's national information society agency ANSI inspected the site of the national data centre on 29 October 2026, which was still under construction. ANSI says the centre will host and secure the public administration's data and applications. No completion date, cost or contractor was published.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cybersecurity Centre with a SOC and CERT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : le Niger sollicite l’expérience du Burkina Faso pour son SOC national](https://www.wearetech.africa/fr/fils/actualites/tech/cybersecurite-le-niger-sollicite-l-experience-du-burkina-faso-pour-son-soc-national)** — wearetech.africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
+
+A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the communications ministry, visited Burkina Faso's information-security agency ANSSI-BF from 2 to 6 November 2026. The study mission prepares Niger's national Security Operations Centre. Niger's government created its Centre national de cybersécurité by decree in October 2025.
 
 </div>
 
