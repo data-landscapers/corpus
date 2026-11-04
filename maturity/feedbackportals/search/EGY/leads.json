@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://english.ahram.org.eg/NewsContent/1/2/578669/Egypt/Society/Egypt;s-government-complaints-system-handles-,-cas.aspx",
+  "title": "Egypt's government complaints system handles 210,000 cases in September",
+  "publisher": "Ahram Online",
+  "published": "2026-10-11",
+  "sub_indicator": "feedback",
+  "why": "Q3,Q5: volumes, 91% response 2025"
+ },
+ {
+  "url": "https://english.ahram.org.eg/NewsContent/1/2/562065/Egypt/Society/Egypt%E2%80%99s-Unified-Government-Complaints-System-logs-.aspx",
+  "title": "Egypt's Unified Government Complaints System logs 2.1 million complaints in 2025",
+  "publisher": "Ahram Online",
+  "published": "2026-02-10",
+  "sub_indicator": "feedback",
+  "why": "Q4,Q5: 168 entities, resolution rates"
+ },
+ {
+  "url": "https://english.ahram.org.eg/News/576196.aspx",
+  "title": "Egypt's cabinet complaints system handles 224,000 cases in August",
+  "publisher": "Ahram Online",
+  "published": "2026-09-08",
+  "sub_indicator": "feedback",
+  "why": "Q3,Q4: referred cases by ministries and governorates"
+ },
+ {
+  "url": "https://english.ahram.org.eg/NewsContent/1/2/571908/Egypt/Society/Egypt-moves-citizen-complaints-beyond-hotlines-wit.aspx",
+  "title": "Egypt moves citizen complaints beyond hotlines with WhatsApp, digital platforms",
+  "publisher": "Ahram Online",
+  "published": "2026-06-30",
+  "sub_indicator": "feedback",
+  "why": "Q3: channels and May 2026 volumes"
+ },
+ {
+  "url": "https://cabinet.gov.eg/News/Details/74891",
+  "title": "رئاسة مجلس الوزراء - حصاد منظومة الشكاوى 2023",
+  "publisher": "Cabinet of Egypt",
+  "published": "2024-01-18",
+  "sub_indicator": "feedback",
+  "why": "Q3: 1.46 million complaints 2023"
+ },
+ {
+  "url": "https://www.shorouknews.com/news/view.aspx?cdate=09022026&id=ad05ca8e-4646-4567-9811-d354d6c96718",
+  "title": "منظومة الشكاوى الحكومية تستقبل 2.1 مليون طلب وتربط 3843 جهة إلكترونيا بنسبة إنجاز 91%",
+  "publisher": "Al-Shorouk",
+  "published": "2026-02-09",
+  "sub_indicator": "feedback",
+  "why": "Q4,Q5: 3,843 bodies linked, 91%"
+ },
+ {
+  "url": "https://www.algomhor.com/459868",
+  "title": "229 ألف شكوى أمام الحكومة خلال يوليو",
+  "publisher": "Al-Gomhor",
+  "published": "2026-08-08",
+  "sub_indicator": "feedback",
+  "why": "Q3: July 2026 volumes"
+ },
+ {
+  "url": "https://english.ahram.org.eg/NewsContentP/1/567475/Egypt/Egypt;s-unified-complaints-system-records-,-cases-.aspx",
+  "title": "Egypt's unified complaints system records 205,000 cases in April",
+  "publisher": "Ahram Online",
+  "published": "2026-05-07",
+  "sub_indicator": "feedback",
+  "why": "Q3: April 2026 volumes"
+ }
+]

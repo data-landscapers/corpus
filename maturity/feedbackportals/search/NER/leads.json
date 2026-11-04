@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://anp.ne/diffa-le-pgrp-redynamise-le-mecanisme-regional-de-gestion-des-plaintes-pour-une-meilleure-gouvernance-des-services-publics/",
+  "title": "Diffa : le PGRP redynamise le mécanisme régional de gestion des plaintes",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2026-06-23",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q3: PGRP complaints mechanism channels"
+ },
+ {
+  "url": "https://www.gouv.ne/index.php/actualite-des-ministeres/1126-niger-le-ministere-du-commerce-met-en-place-deux-plateformes-numeriques-pour-mieux-informer-et-proteger-les-consommateurs",
+  "title": "Niger : le Ministère du commerce met en place deux plateformes numériques",
+  "publisher": "gouv.ne / ANP",
+  "published": "2026-04-15",
+  "sub_indicator": "feedback",
+  "why": "Q1: green number 808 for complaints"
+ },
+ {
+  "url": "https://www.mgp-pidurem.org/",
+  "title": "MGP Niger - Mécanisme de Gestion des Plaintes",
+  "publisher": "Projet PIDUREM",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q2: online complaints platform with counts"
+ },
+ {
+  "url": "https://presidence.ne/pages/doleances",
+  "title": "Doléances et requêtes citoyennes",
+  "publisher": "Présidence de la République du Niger",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q1: presidency citizen request channel"
+ },
+ {
+  "url": "https://anp.ne/sensibilisation-des-journalistes-et-des-acteurs-de-la-societe-civile-sur-la-solution-informatique-de-gestion-des-plaintes-de-la-cndh/",
+  "title": "Sensibilisation ... solution informatique de gestion des plaintes de la CNDH",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2022-12-24",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q2: CNDH online complaints platform"
+ },
+ {
+  "url": "https://www.lesahel.org/lancement-de-la-plateforme-guidan-shawara-une-interface-digitale-interactive-pour-une-gouvernance-participative-et-lancrage-de-la-veille-citoyenne/",
+  "title": "Lancement de la plateforme « Guidan Shawara »",
+  "publisher": "Le Sahel (ONEP)",
+  "published": "2021-09-20",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q3: citizen complaints platform routed to bodies"
+ },
+ {
+  "url": "https://ambniger-mali.org/index.php/actualites/item/1400-le-mediateur-de-la-republique-lance-une-plateforme-de-traitement-et-de-suivi-des-reclamations-e-reclamation-un-precieux-outil-pour-le-citoyen",
+  "title": "Le Médiateur de la République lance une plateforme ... e-réclamation",
+  "publisher": "Ambassade du Niger au Mali",
+  "published": "2021-10-14",
+  "sub_indicator": "feedback",
+  "why": "Q1: e-réclamation launched"
+ },
+ {
+  "url": "http://www.ereclamationniger.ne/",
+  "title": "E-Réclamation | Médiateur de la République du Niger",
+  "publisher": "Médiateur de la République du Niger",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q2: platform in service"
+ }
+]

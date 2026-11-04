@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://btw.media/en/ponto-de-intercambio-internet-angola-angola-ixp-ao",
+  "title": "ANGONIX: Angola's internet exchange and the Atlantic cables",
+  "publisher": "btw.media",
+  "published": "2026-10-14",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q3 exchange in service, 63 Gbps peak 2026 vs 10.8 Gbps 2017"
+ },
+ {
+  "url": "https://pti.ao/trafego-de-internet-em-angola-atinge-maximos-historicos/",
+  "title": "Tráfego de Internet em Angola atinge máximos históricos",
+  "publisher": "Portal de TI",
+  "published": "2025-08-01",
+  "sub_indicator": "exchange",
+  "why": "Q1-Q3 two IXPs, peaks, Microsoft and Meta present"
+ },
+ {
+  "url": "https://www.aai.ao/noticia/microsoft-edge-pop-ligado-ao-angola-ixp",
+  "title": "Microsoft Edge PoP ligado ao Angola IXP",
+  "publisher": "Associação Angolana de Internet",
+  "published": "2022-02-07",
+  "sub_indicator": "exchange",
+  "why": "Q2 content network peering via Angola IXP; Google and Facebook caches since 2021"
+ },
+ {
+  "url": "https://www.aicep.com/angola-atinge-valores-maximos-de-consumo-local-de-internet-em-agosto/",
+  "title": "Angola atinge valores máximos de consumo local de internet em Agosto",
+  "publisher": "AICEP",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q2/Q3 Angonix traffic record, Facebook and Microsoft hosted"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/AO/",
+  "title": "IXP Tracker - Angola",
+  "publisher": "Internet Society Pulse",
+  "published": "2026-10",
+  "sub_indicator": "exchange",
+  "why": "Q1 two active IXPs, 28 members, Luanda only"
+ },
+ {
+  "url": "https://www.angola-ixp.ao/servicos/",
+  "title": "Angola IXP - Os Nossos Serviços",
+  "publisher": "Angola IXP (AAI)",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q2 Google Global Cache and Microsoft Edge Cache at Angola IXP"
+ },
+ {
+  "url": "https://www.afpif.org/share-your-experience-with-the-community/african-tech-collaboration-helped-start-ao-ixp-angola-ixp/",
+  "title": "African Tech Collaboration Helped Start AO-IXP",
+  "publisher": "AfPIF",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2 second IXP, GGC server"
+ },
+ {
+  "url": "https://www.angonix.net/",
+  "title": "Início - Angonix",
+  "publisher": "Angonix",
+  "published": "2023-09-13",
+  "sub_indicator": "exchange",
+  "why": "Q1 Angonix IXP in Luanda data centre"
+ }
+]

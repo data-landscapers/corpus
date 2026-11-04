@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "ISPA-DRC's AfPIF 2022 slides state KINIX traffic rose from under 1 Mbps to 45 Gbps with 3 international CDNs connected, and LUBIX and GOMIX opened in 2019 and 2021.",
+ "title": "RDC-IX project: from growth to impact on the national peering ecosystem",
+ "publisher": "ISPA-DRC (AfPIF 2022)",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

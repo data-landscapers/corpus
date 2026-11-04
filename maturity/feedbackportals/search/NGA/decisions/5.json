@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "feedback",
+ "aspect": "channel;reach;results",
+ "fact": "ReportGov.Ng, the official public service complaint site, published a November 2024 scorecard of MDAs by complaints received and resolved.",
+ "title": "NITDA, BPP, and FRSC emerge worst agencies for customer complaints resolution in November 2024",
+ "publisher": "Nairametrics",
+ "published": "2024-12-01",
+ "date_source": "source",
+ "why_not": ""
+}

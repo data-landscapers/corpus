@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://itweb.africa/article/bofinet-launches-digital-delta-ixp/8OKdWMDXL9VMbznQ",
+  "title": "BoFiNet launches Digital Delta IXP",
+  "publisher": "ITWeb Africa",
+  "published": "2026-10-06",
+  "sub_indicator": "exchange",
+  "why": "Q1 exchange in service"
+ },
+ {
+  "url": "https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news",
+  "title": "BoFiNet invests P100m in upgrading Botswana's internet gateway",
+  "publisher": "Mmegi",
+  "published": "2025-04-16",
+  "sub_indicator": "exchange",
+  "why": "Q1 Gaborone IXP relocated; traffic figures"
+ },
+ {
+  "url": "https://www.bwtechzone.com/2025/05/how-bofinet-plans-to-transform-botswana.html",
+  "title": "How BoFiNeT Plans To Transform Botswana Into Southern Africa's Internet Hub",
+  "publisher": "BW TechZone",
+  "published": "2025-05-13",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4 IXP plan, hyperscalers"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/BW/",
+  "title": "IXP Tracker - Botswana",
+  "publisher": "ISOC Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4 members, foreign members"
+ },
+ {
+  "url": "https://ixreport.com/ix/5002/",
+  "title": "Digital Delta IX, Gaborone",
+  "publisher": "IX Report",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q3 members, traffic"
+ }
+]

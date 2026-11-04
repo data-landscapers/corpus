@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "BFIX started exchanging traffic on 26 June 2015, and after a January 2019 redesign its peak traffic grew from 0.5 Gbps to more than 6 Gbps, mostly CDN edge-cache content reached through the exchange.",
+ "title": "Growing an Internet Exchange Point in Burkina Faso",
+ "publisher": "Internet Society",
+ "published": "2019-05-30",
+ "date_source": "source",
+ "why_not": ""
+}

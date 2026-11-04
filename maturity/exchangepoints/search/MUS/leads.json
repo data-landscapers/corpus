@@ -1,0 +1,8 @@
+[
+{"url":"https://pulse.internetsociety.org/fr/ixp-tracker/country/MU/","title":"IXP Tracker - Maurice","publisher":"Internet Society Pulse","published":"2026-10","sub_indicator":"exchange","why":"Q1-Q4: one active IXP, 62% network coverage, 65% of top sites cached locally"},
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/ixp/516/","title":"IXP Tracker - Mauritius Internet Exchange Point - MIXP","publisher":"Internet Society Pulse","published":"2026-09","sub_indicator":"exchange","why":"Q1,Q4: members, foreign registrations, capacity"},
+{"url":"https://www.mixp.org/","title":"MIXP","publisher":"Mauritius Internet Exchange Point","published":"","sub_indicator":"exchange","why":"Q1: exchange in service, member list incl. foreign networks"},
+{"url":"https://www.peeringdb.com/ix/1508","title":"MIXP - PeeringDB","publisher":"PeeringDB","published":"2022-08","sub_indicator":"exchange","why":"Q1,Q4: peers, capacity 107G"},
+{"url":"https://lists.mixp.org/archives/list/mixp-announcement@lists.mixp.org/thread/Q5JEIGFNFAOZIDKDBO4M73STBNZ4BSBU/","title":"[MIXP Announcement] Peer with the route servers and route collectors","publisher":"MIXP announcements","published":"2019-07-12","sub_indicator":"exchange","why":"Q1: exchange in service with route servers"},
+{"url":"https://lexpress.mu/node/410880","title":"SAFE: l'étude d'une tierce partie sur un câble en fin de vie soulève des questions","publisher":"l'express","published":"2022-07-07","sub_indicator":"exchange","why":"Q1: states an Internet Exchange Point lets local operators connect"}
+]

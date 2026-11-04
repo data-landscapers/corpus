@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.icolo.io/news/icolo-peering-environment-expands-in-maputo-with-the-entry-of-mozix/,fetched,,scripts/.workroot/study/exchangepoints/cache/MOZ/1.txt,604,html,iColo’s peering environment expands in Maputo with the entry of Mozambique Internet Exchange (MozIX) into MPM1 data center
+2,https://pulse.internetsociety.org/en/ixp-tracker/country/MZ/,fetched,,scripts/.workroot/study/exchangepoints/cache/MOZ/2.txt,297,html,IXP Tracker - Mozambique | ISOC Pulse
+3,https://pulse.internetsociety.org/en/ixp-tracker/ixp/260/,held,held as raw/2026/2026-07-01-isoc-pulse-ixp-tracker-mozix.md,,0,,
+4,https://ixp.netsense-nms.com/MZ/ixps/mozix-528,fetched,,scripts/.workroot/study/exchangepoints/cache/MOZ/4.txt,446,html,MOZIX - Internet Exchange Point in Maputo | IXP Ecosystem
+5,https://mozix.org.mz/index.php/traffic-graphs/,fetched,,scripts/.workroot/study/exchangepoints/cache/MOZ/5.txt,26,html,Traffic Graphs

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The World Bank states the WARCIP project deployed an Internet Exchange Point in Mauritania that improves routing of national Internet traffic.",
+ "title": "Extending the Reach and Reducing the Costs of Broadband Communications in Mauritania",
+ "publisher": "World Bank",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

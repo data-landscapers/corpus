@@ -1,0 +1,7 @@
+[
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/country/GN/","title":"IXP Tracker - Guinea","publisher":"Internet Society Pulse","published":"2026-11","sub_indicator":"exchange","why":"Q1/Q4: one active IXP in Conakry, 10 members"},
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/ixp/698/","title":"IXP Tracker - GUINEA INTERNET EXCHANGE POINT 2 - IXP-GUINEE","publisher":"Internet Society Pulse","published":"2026-11","sub_indicator":"exchange","why":"Q1/Q4: members incl. foreign PCH, Conakry only"},
+{"url":"https://www.peeringdb.com/ix/2520","title":"IXP-GUINEE - PeeringDB","publisher":"PeeringDB","published":"2026-09-03","sub_indicator":"exchange","why":"Q1/Q2: IXP in service, peers"},
+{"url":"http://mrtg.ixp-guinee.org.gn/mrtg/aggregate.html","title":"Aggregate Traffic Analysis","publisher":"IXP-GUINEE","published":"2026-09-25","sub_indicator":"exchange","why":"Q3: traffic figures"},
+{"url":"https://ixreport.com/ix/2520/","title":"IXP-GUINEE, Conakry: members and PeeringDB comparison","publisher":"IX Report","published":"2026-10-30","sub_indicator":"exchange","why":"Q1/Q4: members, one facility"}
+]

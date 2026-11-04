@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.insidebiz.co.sz/eswatini-hosts-2023-sadc-internet-exchange-point-peering-forum/",
+  "title": "Eswatini Hosts 2023 SADC Internet Exchange Point Peering Forum",
+  "publisher": "Inside Biz",
+  "published": "2023-10-25",
+  "sub_indicator": "exchange",
+  "why": "Q1 IXP context"
+ },
+ {
+  "url": "https://btw.media/en/mbabane-internet-exchange-association-internet-path-in-eswatini",
+  "title": "Mbabane Internet Exchange Association internet path in Eswatini",
+  "publisher": "btw.media",
+  "published": "2025-08-29",
+  "sub_indicator": "exchange",
+  "why": "Q1 IXP in service or inactive"
+ },
+ {
+  "url": "https://btw.media/en/posix-swaziland-strengthens-eswatinis-internet-services",
+  "title": "Posix Swaziland strengthens Eswatini's internet services",
+  "publisher": "btw.media",
+  "published": "2025-08-28",
+  "sub_indicator": "exchange",
+  "why": "Q1 peering at Mbabane IXP"
+ },
+ {
+  "url": "https://esccom.org.sz/wp-content/uploads/2026/02/2024.pdf",
+  "title": "ESCCOM Annual Report 2024",
+  "publisher": "ESCCOM",
+  "published": "2024",
+  "sub_indicator": "exchange",
+  "why": "Q1 directive to connect to IXP"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/SZ/",
+  "title": "IXP Tracker - Eswatini",
+  "publisher": "Internet Society Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1 states no active IXP"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "On 2 December 2024 2424.mg reported that the absence of a fully operational IXP in Madagascar penalised local connections and raised costs, as the national IXP MGIX was to be revived.",
+ "title": "INTERNET – Relance du « peering » pour une meilleure connectivité à Madagascar",
+ "publisher": "2424.mg",
+ "published": "2024-12-02",
+ "date_source": "source",
+ "why_not": ""
+}

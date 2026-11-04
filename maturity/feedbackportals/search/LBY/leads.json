@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://alwasat.ly/news/476453",
+  "title": "«الصحة» تطلق رابطًا إلكترونيًا لتقديم الشكاوى والملاحظات",
+  "publisher": "بوابة الوسط",
+  "published": "2026-08-31",
+  "sub_indicator": "feedback",
+  "why": "Health ministry launches online complaints link"
+ },
+ {
+  "url": "https://www.agriculture.gov.ly/2020/5402",
+  "title": "وزير الزراعة والثروة الحيوانية يعلن إطلاق منصة الشكاوى والتواصل الإلكترونية",
+  "publisher": "Ministry of Agriculture",
+  "published": "2026-04-12",
+  "sub_indicator": "feedback",
+  "why": "Agriculture complaints platform launch"
+ },
+ {
+  "url": "https://complaints.agriculture.ly/",
+  "title": "منصة الشكاوي الإلكترونية",
+  "publisher": "Ministry of Agriculture",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Ticket counts live"
+ },
+ {
+  "url": "https://libyaherald.com/2021/10/aldabaiba-government-launches-citizen-service-centre-to-process-complaints",
+  "title": "Aldabaiba government launches Citizen Service Centre to process complaints",
+  "publisher": "Libya Herald",
+  "published": "2021-10-12",
+  "sub_indicator": "feedback",
+  "why": "National CSC launch, routing to ministries"
+ },
+ {
+  "url": "https://csc.gov.ly/en/home/",
+  "title": "Home | مركز خدمة المواطن",
+  "publisher": "Citizen Service Centre (PM office)",
+  "published": "2021-12-06",
+  "sub_indicator": "feedback",
+  "why": "CSC workflow, 4,000 requests first day"
+ },
+ {
+  "url": "https://tawasul.cim.gov.ly/",
+  "title": "منصة تواصل",
+  "publisher": "Ministry of Communications and Informatics",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Platform with 13 complaints"
+ },
+ {
+  "url": "https://raqeb.aca.gov.ly/",
+  "title": "منصة رقيب للشكاوي والبلاغات",
+  "publisher": "هيئة الرقابة الإدارية",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Admin Control Authority complaints platform"
+ },
+ {
+  "url": "https://pos-alfarouk.com/projects/.Private/lg-complaints/",
+  "title": "نظام الشكوى والمقترحات",
+  "publisher": "Ministry of Local Government",
+  "published": "2019-08-06",
+  "sub_indicator": "feedback",
+  "why": "Local government complaints app"
+ }
+]

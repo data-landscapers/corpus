@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.digitalbusiness.africa/tchad-ladetic-celebre-un-an-du-point-dechange-internet-tchadix-bilan-et-perspectives/",
+  "title": "Tchad : L'ADETIC célèbre un an du point d'échange Internet TCHADIX, bilan et perspectives",
+  "publisher": "Digital Business Africa",
+  "published": "2026-05-21",
+  "sub_indicator": "exchange",
+  "why": "IXP in service one year"
+ },
+ {
+  "url": "https://www.alwihdainfo.com/tchadix-un-an-apres-cap-sur-la-consolidation-numerique/",
+  "title": "TCHADIX : un an après, cap sur la consolidation numérique",
+  "publisher": "Alwihda Info",
+  "published": "2026-05-20",
+  "sub_indicator": "exchange",
+  "why": "IXP in service, members"
+ },
+ {
+  "url": "https://www.digitalbusiness.africa/souverainete-numerique-tchadix-veut-batir-un-internet-tchadien-plus-performant-et-resilient/",
+  "title": "Souveraineté numérique : TCHADIX et l'avenir d'Internet",
+  "publisher": "Digital Business Africa",
+  "published": "2026-05-21",
+  "sub_indicator": "exchange",
+  "why": "IXP in service, local hosting"
+ },
+ {
+  "url": "https://adetic.td/",
+  "title": "Acceuil - ADETIC",
+  "publisher": "ADETIC",
+  "published": "2025-07",
+  "sub_indicator": "exchange",
+  "why": "ADETIC set up national IXP"
+ },
+ {
+  "url": "https://www.uneca.org/eca-events/sites/default/files/resources/documents/TCND/africa-wsis-annual-review/2025/presentation_smsi_20_tchad_2025.pdf",
+  "title": "Réunion régionale d'évaluation du SMSI+20 pour le Tchad",
+  "publisher": "UNECA / Tchad",
+  "published": "2025",
+  "sub_indicator": "exchange",
+  "why": "Chad has a national IXP"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/fr/ixp-tracker/country/TD/",
+  "title": "IXP Tracker - Tchad",
+  "publisher": "ISOC Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "members, local caching 4%"
+ }
+]

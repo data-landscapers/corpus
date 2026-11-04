@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "feedback",
+ "aspect": "channel;results",
+ "fact": "PCC said 64,967 complaints were received and 15,077 resolved (23.19%) between October 2024 and March 2025.",
+ "title": "Public Complaints Commission received 64,967 cases, resolved 15,077 in 5 months",
+ "publisher": "Daily Trust",
+ "published": "2025-04-09",
+ "date_source": "source",
+ "why_not": ""
+}

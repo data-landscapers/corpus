@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "ARPTC's 2022 annual report gives KINIX peak traffic 43 Gbps, LUBIX 24 Gbps, GOMIX 14 Gbps, with Google, Meta and Netflix at KINIX, in three cities.",
+ "title": "Observatoire du marché de fourniture des services Internet, rapport annuel 2022",
+ "publisher": "ARPTC",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://lta.gov.lr/lta-highlights-need-to-strengthen-liberias-internet-exchange-point-atnational-peering-forum/",
+  "title": "LTA Highlights Need to Strengthen Liberia's Internet Exchange Point at the National Peering Forum",
+  "publisher": "Liberia Telecommunications Authority",
+  "published": "2026-06-11",
+  "sub_indicator": "exchange",
+  "why": "Q1 IXP functional, hosted at CCL; limited peering"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/telecom/liberia-upgrades-its-internet-exchange-point-to-improve-connectivity",
+  "title": "Liberia Upgrades Its Internet Exchange Point to Improve Connectivity",
+  "publisher": "We are Tech",
+  "published": "2025-02-12",
+  "sub_indicator": "exchange",
+  "why": "Q1 sole IXP in service; new equipment"
+ },
+ {
+  "url": "https://lta.gov.lr/ccl-acquires-ict-equipment-to-boost-liberias-internet-exchange-point/",
+  "title": "CCL Acquires ICT Equipment to Boost Liberia's Internet Exchange Point",
+  "publisher": "Liberia Telecommunications Authority",
+  "published": "2025-02-06",
+  "sub_indicator": "exchange",
+  "why": "Q1 IXP equipment"
+ },
+ {
+  "url": "https://lta.gov.lr/wp-content/uploads/2024/01/USAID-ProICT-Report-on-Liberia-Internet-Exchange-Point-LIXP.pdf",
+  "title": "ProICT: Report on Liberia Internet Exchange Point (LIXP)",
+  "publisher": "USAID ProICT / LTA",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2 Google cache at LIXP since 2018"
+ },
+ {
+  "url": "https://www.michcom-ix.net/",
+  "title": "Michcom-IX",
+  "publisher": "Michcom Limited",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q4 foreign networks / Monrovia PoP of regional IXP"
+ },
+ {
+  "url": "https://chemonics.com/wp-content/uploads/2020/10/Digital-Liberia-Final-Report_Revised.pdf",
+  "title": "Digital Liberia Final Report",
+  "publisher": "Chemonics / USAID",
+  "published": "2020",
+  "sub_indicator": "exchange",
+  "why": "Q2 Google cache operational FY2018"
+ },
+ {
+  "url": "https://lta.gov.lr/lixp/",
+  "title": "LIXP",
+  "publisher": "Liberia Telecommunications Authority",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1 first and only IXP"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "feedback",
+ "aspect": "channel;results",
+ "fact": "On 17 August 2021 the Prime Minister launched the CSU mobile app for complaints; about 90% of some 200,000 complaints since the portal's April 2017 launch were resolved.",
+ "title": "Pravind Jugnauth lance l'application mobile CSU pour faciliter la procédure de plainte des citoyens",
+ "publisher": "ChannelNews",
+ "published": "2021-08-17",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://sldtp.gov.sl/2025/08/16/slixp-feasibility-study-completed-paving-the-way-for-a-faster-safer-and-more-affordable-internet-in-sierra-leone/,held,held as raw/2025/2025-08-16-slixp-feasibility-study-completed.md,,0,,
+2,https://www.michcom-ix.net/,held,held as raw/2025/2025-01-01-michcom-ix.md,,0,,
+3,https://www.pch.net/ixp/details/2406,fetched,,scripts/.workroot/study/exchangepoints/cache/SLE/3.txt,189,html,Michcom Internet Exchange Point
+4,https://pulse.internetsociety.org/en/ixp-tracker/country/SL/,fetched,,scripts/.workroot/study/exchangepoints/cache/SLE/4.txt,303,html,IXP Tracker - Sierra Leone | ISOC Pulse
+5,https://mocti.gov.sl/wp-content/uploads/2024/10/National-Broadband-Strategy.pdf,held,held as raw/2024/2024-10-01-sierra-leone-mocti-national-broadband-strategy-2023-2028.md,,0,,
+6,https://moic.gov.sl/wp-content/uploads/2022/08/National-Digital-Development-Strategy-2022-01-10.pdf,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked",,0,,
+7,https://documents1.worldbank.org/curated/en/185761624271466646/pdf/Sierra-Leone-Digital-Economy-Diagnostic.pdf,fetched,,scripts/.workroot/study/exchangepoints/cache/SLE/7.txt,62633,pdf,World Bank Document
+8,https://tech.africa/meta-africa-peering/,fetched,,scripts/.workroot/study/exchangepoints/cache/SLE/8.txt,1659,html,"Inside Meta's African network: 27 IXPs, 5.5 Tbps, two ASNs"

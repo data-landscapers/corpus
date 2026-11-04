@@ -47,9 +47,9 @@ educationmis,emis,dpi.mis--education,2026-11-02,12,29,50
 egovservices,eservices,dpi.govtech--e-government-services,2026-11-03,43,41,124
 electoralregister,electoral,dpi.registry--electoral-register,2026-11-03,43,41,166
 eparticipation,eparticipation,include.access--citizen-participation-in-policy,2026-11-03,43,40,77
-exchangepoints,exchange,infra.connect--internet-exchange-points,,,,
-feedbackportals,feedback,include.access--citizen-feedback-portals,,,,
-fibrebackbone,backbone,infra.connect--national-fibre-backbone,,,,
+exchangepoints,exchange,infra.connect--internet-exchange-points,2026-11-04,118,63,81
+feedbackportals,feedback,include.access--citizen-feedback-portals,2026-11-04,118,63,88
+fibrebackbone,backbone,infra.connect--national-fibre-backbone,2026-11-04,118,63,126
 g2ppayments,g2p,dpi.pay--g2p-functionality,,,,
 gendergap,gender,include.access--gender-equity,,,,
 gridreliability,outages,infra.energy--grid-reliability,,,,

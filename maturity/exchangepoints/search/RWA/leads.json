@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ixreport.com/ix/1032/",
+  "title": "RINEX, Kigali: members and PeeringDB comparison",
+  "publisher": "IX Report",
+  "published": "2026-11-03",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q3: RINEX members, route servers, traffic"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/ixp/401/",
+  "title": "IXP Tracker - Rwanda Internet Exchange - RINEX",
+  "publisher": "ISOC Pulse",
+  "published": "2026-11",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: members incl. foreign networks"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/fr/ixp-tracker/country/RW/",
+  "title": "IXP Tracker - Rwanda",
+  "publisher": "ISOC Pulse",
+  "published": "2026-10",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2: one IXP, locally cached content share"
+ },
+ {
+  "url": "https://www.peeringdb.com/ix/1032",
+  "title": "RINEX - PeeringDB",
+  "publisher": "PeeringDB",
+  "published": "2025-05-19",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: IXP record, members"
+ },
+ {
+  "url": "https://portal.rinex.org.rw/customer/details",
+  "title": "RINEX User Portal - Members",
+  "publisher": "RINEX",
+  "published": "2026-10-22",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: member list with join dates"
+ },
+ {
+  "url": "https://www.afpif.org/share-your-experience-with-the-community/handshake-agreements-at-afpif-helped-bring-caches-to-rwanda/",
+  "title": "Handshake Agreements At Afpif Helped Bring Caches To Rwanda",
+  "publisher": "AfPIF",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q2/Q3: CDN caches at RINEX, traffic 2.5Gbps"
+ },
+ {
+  "url": "https://af-ix.org/sites/default/files/05%20-%20Ghislain%20Nkeramugaba%20-%20Content%20Delivery%20Networks.pdf",
+  "title": "CDN cache distribution through RINEX",
+  "publisher": "RICTA / AF-IX",
+  "published": "2015",
+  "sub_indicator": "exchange",
+  "why": "Q2: Akamai cache via RINEX"
+ },
+ {
+  "url": "https://nmrtg.rinex.org.rw/rinex_aggregate_traffic.html",
+  "title": "RINEX_Aggregate_Traffic",
+  "publisher": "RINEX",
+  "published": "2026-07-17",
+  "sub_indicator": "exchange",
+  "why": "Q3: traffic figures"
+ }
+]

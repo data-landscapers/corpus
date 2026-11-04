@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "ARPTC's S2-2023 report lists four IXPs (KINIX Kinshasa, LUBIX Lubumbashi, GOMIX Goma, new ACIX Kinshasa) with Google, Meta and Netflix at KINIX.",
+ "title": "Observatoire du marché de fourniture des services Internet, rapport semestriel S2-2023",
+ "publisher": "ARPTC",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

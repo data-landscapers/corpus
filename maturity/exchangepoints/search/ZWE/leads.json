@@ -1,0 +1,7 @@
+[
+{"url":"https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/2020/contributions/RI2_POTRAZ-Zimbabwe-IXP_RDFAFR2020.pdf","title":"Contribution by POTRAZ, Zimbabwe: Harare Regional Internet Exchange Point","publisher":"POTRAZ / ITU","published":"2020","sub_indicator":"exchange","why":"Q1, Q2, Q4: IXP in service, all IAPs connected, Google cache proposed"},
+{"url":"https://asn.dev/ix/1993","title":"Harare Internet Exchange Point","publisher":"asn.dev from Packet Clearing House","published":"2026-10","sub_indicator":"exchange","why":"Q1, Q4: 13 networks peering at Harare IX"},
+{"url":"https://ixreport.com/ix/2617/","title":"Harare IX, Harare: members and PeeringDB comparison","publisher":"IX Report","published":"2026-11","sub_indicator":"exchange","why":"Q1, Q3: members and published traffic"},
+{"url":"https://dig.watch/resource/the-zimbabwe-national-broadband-plan-2020-2030","title":"The Zimbabwe National Broadband Plan (2020-2030)","publisher":"Digital Watch Observatory","published":"2020","sub_indicator":"exchange","why":"Q1, Q4: two IXPs, HIX and ZINX"},
+{"url":"https://www.techzim.co.zw/2025/09/zimbabwe-internet-subsea-cables-teraco/","title":"How an SA Data Centre and Subsea Cables Power Zim's Internet","publisher":"Techzim","published":"2025-09-22","sub_indicator":"exchange","why":"Q2: local providers peer abroad at NAPAfrica"}
+]

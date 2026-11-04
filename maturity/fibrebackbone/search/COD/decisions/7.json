@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach",
+ "fact": "ARPTC's S2-2023 report states 9,361 km of fibre deployed on the national backbone and 2,417 km metropolitan.",
+ "title": "Observatoire du marché de fourniture des services Internet, rapport semestriel S2-2023",
+ "publisher": "ARPTC",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

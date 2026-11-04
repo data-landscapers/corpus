@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "access",
+ "fact": "Ministerial Order 1/2026 (12 March 2026) revises access to broadband capacity: ISPs may contract directly with GITGE from 15 Gbps, others buy via wholesalers GETESA and MUNI, on non-discriminatory terms.",
+ "title": "GITGE se reúne con las operadoras para abordar la nueva normativa de acceso a banda ancha",
+ "publisher": "GITGE",
+ "published": "2026-03-12",
+ "date_source": "source",
+ "why_not": ""
+}

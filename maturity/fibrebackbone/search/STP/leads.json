@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.stp-press.st/2023/09/27/banco-mundial-vai-financiar-em-mais-de-11-milhoes-de-euros-o-cabo-submarino-de-fibra-optica-na-ilha-do-principe/",
+  "title": "Banco Mundial vai financiar em mais de 11 milhões de Euros o cabo submarino de fibra óptica na ilha do Príncipe",
+  "publisher": "STP-Press",
+  "published": "2023-09-27",
+  "sub_indicator": "backbone",
+  "why": "Príncipe cable financing"
+ },
+ {
+  "url": "https://rstp.st/2023/10/25/cst-lanca-novo-link-de-acesso-a-internet-com-triplo-da-capacidade-entre-ilhas-e-inaugura-uma-praca-digital-na-rap-stp/",
+  "title": "CST lança novo link de acesso a internet com triplo da capacidade entre ilhas",
+  "publisher": "RSTP",
+  "published": "2023-10-25",
+  "sub_indicator": "backbone",
+  "why": "inter-island link, fibre expansion"
+ },
+ {
+  "url": "https://afap.st/wp-content/uploads/2025/04/Terms-of-Ref_Digital-STP-Transaction-Advisory-Services-v2.0_Amended_clean-pt-PT.pdf",
+  "title": "Digital STP Transaction Advisory Services Terms of Reference",
+  "publisher": "AFAP",
+  "published": "2025",
+  "sub_indicator": "backbone",
+  "why": "inter-island cable; STP Cabo open-access wholesale"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf",
+  "title": "Aide-mémoire, Digital STP mission",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "backbone",
+  "why": "cable status, supply contract"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/779811655323104127/pdf/Sao-Tome-and-Principe-Digital-Sao-Tome-and-Principe-Project.pdf",
+  "title": "Digital São Tomé and Príncipe Project appraisal",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "backbone",
+  "why": "STP Cabo open-access; Príncipe on microwave"
+ },
+ {
+  "url": "https://www.stp-press.st/2023/03/29/sao-tome-e-principe-lanca-projecto-stp-digital-avaliado-em-23-9-milhoes-de-dolares-para-o-desenvolvimento-da-economia-digital/",
+  "title": "São Tomé e Príncipe lança projecto STP Digital",
+  "publisher": "STP-Press",
+  "published": "2023-03-29",
+  "sub_indicator": "backbone",
+  "why": "project launch"
+ },
+ {
+  "url": "https://www.telanon.info/politica/2022/01/24/36291/atencao-fase-de-preparacao-do-projeto-stp-digital-banco-mundial/",
+  "title": "Fase de preparação do projeto STP DIGITAL",
+  "publisher": "Téla Nón",
+  "published": "2022-01-24",
+  "sub_indicator": "backbone",
+  "why": "preparation"
+ }
+]

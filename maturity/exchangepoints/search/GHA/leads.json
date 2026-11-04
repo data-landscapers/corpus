@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://tech.africa/accra-three-internet-exchanges/",
+  "title": "Accra-IX hits 200 Gbps, but Ghana runs three exchanges",
+  "publisher": "tech.africa",
+  "published": "2026-08-16",
+  "sub_indicator": "",
+  "why": "Q2-5: three IXPs, content peering, traffic"
+ },
+ {
+  "url": "http://gixa.org.gh/news/internet-disruption-a-look-into-the-role-of-the-ghana-internet-exchange/",
+  "title": "Internet disruption: A look into the role of the Ghana Internet Exchange",
+  "publisher": "GIXA",
+  "published": "2025-04-23",
+  "sub_indicator": "",
+  "why": "Q2-3: GIX in service, CDNs Meta Google Akamai"
+ },
+ {
+  "url": "https://imaniafrica.org/2025/10/the-hidden-tax-on-ghanas-digital-future-a-path-to-faster-cheaper-internet/",
+  "title": "The Hidden Tax on Ghana's Digital Future",
+  "publisher": "Imani Africa",
+  "published": "2025-10-27",
+  "sub_indicator": "",
+  "why": "Q2-4: two IXPs, members, traffic"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/blog/2026/03/analyzing-regional-ixp-dynamics/",
+  "title": "Trends, Transformations, and Regional Dynamics of Internet Interconnection",
+  "publisher": "ISOC Pulse",
+  "published": "2026-03-19",
+  "sub_indicator": "",
+  "why": "Q4: IXP growth Ghana"
+ }
+]

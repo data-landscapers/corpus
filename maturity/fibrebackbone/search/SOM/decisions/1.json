@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach;access",
+ "fact": "Somalia's domestic fibre backbone is described as fragmented; the communications ministry launched a backbone feasibility study in October 2025 with no results published, and the regulator's infrastructure licence requires fair, non-discriminatory access.",
+ "title": "Fibre backbones and infrastructure sharing in Somalia",
+ "publisher": "Xidig",
+ "published": "2026-09-29",
+ "date_source": "source",
+ "why_not": ""
+}

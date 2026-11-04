@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://cioafrica.co/nigerias-internet-exchange-goes-400g-as-traffic-tops-two-terabits/",
+  "title": "Nigeria's Internet Exchange Goes 400G As Traffic Tops Two Terabits",
+  "publisher": "CIO Africa",
+  "published": "2026-07-06",
+  "sub_indicator": "exchange",
+  "why": "Q3 traffic growth Apr 2025 to Mar 2026; Q4 PoPs beyond Lagos"
+ },
+ {
+  "url": "https://tech.africa/ixpn-2tbps/",
+  "title": "Nigeria's IXPN doubles peak internet traffic to 2 Tbps",
+  "publisher": "Tech.Africa",
+  "published": "2026-06-03",
+  "sub_indicator": "exchange",
+  "why": "Q2 Google cache, Meta, Cloudflare, Akamai at IXPN"
+ },
+ {
+  "url": "https://www.itedgenews.africa/akamai-joins-ixpn-accelerating-faster-cheaper-and-more-secure-internet-access-in-nigeria/",
+  "title": "Akamai joins IXPN",
+  "publisher": "ITEdgeNews",
+  "published": "2026-04-21",
+  "sub_indicator": "exchange",
+  "why": "Q2 content network peering"
+ },
+ {
+  "url": "https://newsentinel.com.ng/ixpn-records-yearly-peak-traffic-growth/",
+  "title": "IXPN records yearly peak traffic growth",
+  "publisher": "New Sentinel",
+  "published": "2024-02-08",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q3/Q4 570Gbps, PoPs in five other cities"
+ },
+ {
+  "url": "https://guardian.ng/business-services/ixpn-achieves-500-gbps-peak-local-internet-traffic-targets-1-tbps-by-2024/",
+  "title": "IXPN achieves 500 Gbps peak local Internet traffic",
+  "publisher": "The Guardian Nigeria",
+  "published": "2023-10-17",
+  "sub_indicator": "exchange",
+  "why": "Q3 300 to 500 Gbps; Q2 content networks"
+ },
+ {
+  "url": "https://nairametrics.com/2022/07/26/meta-google-microsoft-others-join-internet-exchange-point-of-nigeria-to-route-traffic-locally/",
+  "title": "Meta, Google, Microsoft, others join IXPN",
+  "publisher": "Nairametrics",
+  "published": "2022-07-26",
+  "sub_indicator": "exchange",
+  "why": "Q2 content networks"
+ },
+ {
+  "url": "https://businessday.ng/technology/article/ixpn-reaches-100-members-milestone-on-its-networks/",
+  "title": "IXPN reaches 100 members milestone",
+  "publisher": "BusinessDay",
+  "published": "2022-07-26",
+  "sub_indicator": "reach",
+  "why": "Q4 nine sites in five cities, international networks"
+ },
+ {
+  "url": "https://www.internetsociety.org/blog/2020/09/nigerias-ixps-enabling-better-connectivity-faster-internet-delivery-and-improving-internet-service/",
+  "title": "Nigeria's IXPs - Enabling Better Connectivity",
+  "publisher": "Internet Society",
+  "published": "2020-09-30",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4 125 Gbps peak, Abuja Kano Port Harcourt"
+ }
+]

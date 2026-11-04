@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "access",
+ "fact": "CRAN endorsed a High Court ruling of 31 July 2025 that struck down exclusive agreements on NamPower's fibre, saying exclusive access to fibre networks is not permissible.",
+ "title": "CRAN backs infrastructure sharing to boost telecom expansion",
+ "publisher": "The Brief",
+ "published": "2025-09-24",
+ "date_source": "proxy",
+ "why_not": ""
+}

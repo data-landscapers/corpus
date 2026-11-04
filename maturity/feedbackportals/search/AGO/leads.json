@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.economiaemercado.com/artigo/livro-de-reclamacoes-do-extinto-inadec-e-valido-ate-fim-do-periodo-de-transicao-para-aniesa",
+  "title": "Livro de reclamações do extinto INADEC é válido até fim do período de transição para ANIESA",
+  "publisher": "Economia & Mercado",
+  "published": "2026-08-21",
+  "sub_indicator": "feedback",
+  "why": "Q1 complaints book transitioning"
+ },
+ {
+  "url": "https://pti.ao/ministerio-da-financas-cria-plataforma-digital-para-denuncia-de-fraude/",
+  "title": "Ministério da Finanças cria plataforma digital para denúncia de fraude",
+  "publisher": "Portal de TI",
+  "published": "2025-03-28",
+  "sub_indicator": "feedback",
+  "why": "Q1 MINFIN online reporting portal"
+ },
+ {
+  "url": "https://pti.ao/agenda-para-transicao-digital-conta-com-mais-de-100-projectos-voltados-ao-cidadao/",
+  "title": "Agenda para transição digital conta com mais de 100 projectos voltados ao cidadão",
+  "publisher": "Portal de TI",
+  "published": "2024-11-08",
+  "sub_indicator": "feedback",
+  "why": "Q1 IGAE denúncias portal planned"
+ },
+ {
+  "url": "https://angop.ao/noticias/sociedade/stand-de-talatona-atrai-publico-pela-inovacao-dos-servicos-digitais/",
+  "title": "Stand de Talatona atrai público pela inovação dos serviços digitais",
+  "publisher": "ANGOP",
+  "published": "2025-08-11",
+  "sub_indicator": "feedback",
+  "why": "Q1 Talatona portal with complaints component launched"
+ },
+ {
+  "url": "https://participa.ao/",
+  "title": "Portal do Governo Local - Angola (PARTICIPA)",
+  "publisher": "Governo de Angola",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q3 local government portal to register occurrences and complaints"
+ },
+ {
+  "url": "https://sepe.gov.ao/catalogo/eservicos/livro-de-reclamacoes",
+  "title": "Livro de Reclamações do Cidadão",
+  "publisher": "SEPE, Governo de Angola",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q1 online complaint form with protocol number"
+ },
+ {
+  "url": "https://portalmaianga.ao/atendimento",
+  "title": "Atendimento online - Portal Maianga",
+  "publisher": "Administração Municipal da Maianga",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q1 municipal online complaints with tracking"
+ },
+ {
+  "url": "https://c2a.portais.gov.ao/uploads/20251122_IMA_PEPI_V4_Clean_Final_002_site_1_c923f52703.pdf",
+  "title": "Projecto de Aceleração Digital de Angola - plano de envolvimento das partes interessadas",
+  "publisher": "IMA",
+  "published": "2025-11",
+  "sub_indicator": "feedback",
+  "why": "Q1 grievance mechanism channels"
+ }
+]

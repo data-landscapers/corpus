@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://mgcsw.gov.ss/grm-manual-snsop/",
+  "title": "GRM Manual-SNSOP",
+  "publisher": "Ministry of Gender, Child and Social Welfare",
+  "published": "2025-06-13",
+  "sub_indicator": "feedback",
+  "why": "Project GRM manual (Q1/Q4)"
+ },
+ {
+  "url": "https://mgcsw.gov.ss/grievance-redress-mechanism-grm/",
+  "title": "Grievance Redress Mechanism (GRM)",
+  "publisher": "Ministry of Gender, Child and Social Welfare",
+  "published": "2024-09-03",
+  "sub_indicator": "feedback",
+  "why": "Project GRM with online complaint form (Q1)"
+ },
+ {
+  "url": "https://www.nca.gov.ss/how-to-file-a-complaint",
+  "title": "How to file a complaint",
+  "publisher": "National Communication Authority",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "NCA online complaint portal with reference number (Q2)"
+ },
+ {
+  "url": "https://www.eyeradio.org/south-sudans-digital-reckoning-why-eservices-are-an-economic-imperative-not-a-luxury/",
+  "title": "South Sudan's digital reckoning: Why eServices are an economic imperative",
+  "publisher": "Eye Radio",
+  "published": "2026-05-13",
+  "sub_indicator": "feedback",
+  "why": "eServices single-window platform launched April 2025 (Q3)"
+ },
+ {
+  "url": "https://www.nca.gov.ss/consumer-complaints-faqs",
+  "title": "Consumer Complaints FAQs",
+  "publisher": "National Communication Authority",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "NCA complaint handling"
+ }
+]

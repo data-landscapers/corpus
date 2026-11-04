@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://pulse.internetsociety.org/en/ixp-tracker/country/GN/,fetched,,scripts/.workroot/study/exchangepoints/cache/GIN/1.txt,291,html,IXP Tracker - Guinea | ISOC Pulse
+2,https://pulse.internetsociety.org/en/ixp-tracker/ixp/698/,fetched,,scripts/.workroot/study/exchangepoints/cache/GIN/2.txt,791,html,IXP Tracker - GUINEA INTERNET EXCHANGE POINT 2 - IXP-GUINEE | ISOC Pulse
+3,https://www.peeringdb.com/ix/2520,fetched,,scripts/.workroot/study/exchangepoints/cache/GIN/3.txt,108,html,PeeringDB
+4,http://mrtg.ixp-guinee.org.gn/mrtg/aggregate.html,fetched,,scripts/.workroot/study/exchangepoints/cache/GIN/4.txt,258,html,Aggregate Traffic Analysis
+5,https://ixreport.com/ix/2520/,fetched,,scripts/.workroot/study/exchangepoints/cache/GIN/5.txt,716,html,IXP-GUINEE

@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/ST/",
+  "title": "IXP Tracker - Sao Tome and Principe",
+  "publisher": "ISOC Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "no active IXP; 48% of top sites cached in-country"
+ },
+ {
+  "url": "https://www.af-ix.org/ixps-list",
+  "title": "List of active Internet exchange points in Africa",
+  "publisher": "The African IXP Association",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "lists active African IXPs; STP absent"
+ },
+ {
+  "url": "https://dtri.uneca.org/v1/uploads/country-profile/stp-country-profile-en.pdf",
+  "title": "São Tomé and Príncipe country profile",
+  "publisher": "UNECA DTRI",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "interconnection legal frame"
+ }
+]

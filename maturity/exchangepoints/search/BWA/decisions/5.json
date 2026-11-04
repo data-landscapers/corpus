@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "exchange",
+ "aspect": "",
+ "fact": "",
+ "title": "Digital Delta IX",
+ "publisher": "IX Report",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: undated live aggregator page, no document date"
+}

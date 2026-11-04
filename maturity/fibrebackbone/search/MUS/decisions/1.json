@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach;access",
+ "fact": "In March 2019 CEB FiberNet, a wholesale licensed operator, was contracted to expand its fibre backbone, with 40 PoPs around the island on the utility's OPGW network, selling to telcos and ISPs.",
+ "title": "ECI Selected by CEB FiberNet To Design and Deploy Enhanced Fiber-Optic Backbone Network in Mauritius",
+ "publisher": "Ribbon Communications",
+ "published": "2019-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

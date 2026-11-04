@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backbone",
+ "aspect": "reach;access",
+ "fact": "On 10 March 2023 BFS launched commercial operation of the state-built national backbone of nearly 3,000 km linking the thirteen regions, under a public-service concession.",
+ "title": "Mise en exploitation du backbone national des télécommunications : Bridge Fiber Solutions lance officiellement ses activités commerciales",
+ "publisher": "Ministère de la Transition Digitale, des Postes et des Communications Électroniques",
+ "published": "2023-03-10",
+ "date_source": "source",
+ "why_not": "withdrawn by the parent: the Wayback body URL differs from the lead URL in parameter order, which the staging lint reads as misfiled"
+}

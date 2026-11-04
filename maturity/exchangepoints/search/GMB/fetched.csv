@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://pulse.internetsociety.org/en/ixp-tracker/country/GM/,fetched,,scripts/.workroot/study/exchangepoints/cache/GMB/1.txt,160,html,IXP Tracker - Gambia | ISOC Pulse
+2,https://pura.gm/wp-content/uploads/2021/06/Annual-Report_2019.pdf,fetched,,scripts/.workroot/study/exchangepoints/cache/GMB/2.txt,28367,pdf,
+3,https://bgp.tools/ixp/SIXP%20Gambia,fetched,,scripts/.workroot/study/exchangepoints/cache/GMB/3.txt,98,html,SIXP Gambia
+4,https://www.afpif.org/wp-content/uploads/2017/10/Gambia-IXP-Experience-.pdf,held,held as raw/2015/2015-08-26-afpif-2015-gambia-ixp-experience-sixp.md,,0,,

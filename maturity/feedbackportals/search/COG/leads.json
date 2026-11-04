@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.adiac-congo.com/content/durquap-le-nouvel-outil-de-gestion-de-plaintes-presente-au-public-130402",
+  "title": "Durquap : le nouvel outil de gestion de plaintes présenté au public",
+  "publisher": "Les Dépêches de Brazzaville (adiac-congo)",
+  "published": "2021-09-11",
+  "sub_indicator": "feedback",
+  "why": "Call centre, 1517 complaints, 93% resolved"
+ },
+ {
+  "url": "https://gouvernement.cg/wp-content/uploads/2022/12/MGP-PATN-R.-Congo-Mecanisme-de-Gestion-des-Plaintes.pdf",
+  "title": "Mécanisme de Gestion des Plaintes PATN",
+  "publisher": "Gouvernement du Congo / PATN",
+  "published": "2022",
+  "sub_indicator": "feedback",
+  "why": "Complaints mechanism design"
+ },
+ {
+  "url": "https://www.controle-etat.gouv.cg/signaler",
+  "title": "KO FUNDA — Signaler une irrégularité",
+  "publisher": "MCEQSPLCA",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Online reporting form"
+ },
+ {
+  "url": "https://halc.cg/denonciations",
+  "title": "Dénoncer ou déposer une plainte",
+  "publisher": "HALC",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Hotline and online complaint"
+ },
+ {
+  "url": "https://brazzavilleinsider.com/congos-patn-sets-ambitious-2027-digital-targets/",
+  "title": "PATN charts four goals to 2027 in Congo",
+  "publisher": "Brazzaville Insider",
+  "published": "2025-10-11",
+  "sub_indicator": "feedback",
+  "why": "E-government portal beta"
+ },
+ {
+  "url": "https://www.adiac-congo.com/content/digitalisation-un-portail-des-services-publics-bientot-accessible-159829",
+  "title": "Digitalisation : un portail des services publics bientôt accessible",
+  "publisher": "adiac-congo",
+  "published": "2024-09-14",
+  "sub_indicator": "feedback",
+  "why": "Portal being prepared"
+ },
+ {
+  "url": "https://numerique.gouv.cg/actualites/services-numeriques-de-letat",
+  "title": "Services numériques de l'État",
+  "publisher": "MPTEN",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "e-Citizen portal"
+ },
+ {
+  "url": "https://commerce.gouv.cg/fr/services-usagers/",
+  "title": "Services aux usagers",
+  "publisher": "Ministère du Commerce",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Reporting channel"
+ }
+]

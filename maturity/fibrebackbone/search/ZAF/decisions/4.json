@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach;access",
+ "fact": "Broadband Infraco 2024/25 annual report states its national long-haul fibre backbone spans 15,124 km across all nine provinces with 150 points of presence and provides wholesale capacity to operators.",
+ "title": "Integrated Annual Report 2024/25",
+ "publisher": "Broadband Infraco",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://tech.africa/bayobab-east-west-fibre-south-sudan/",
+  "title": "Bayobab East to West Connectivity Project: fibre laid",
+  "publisher": "Tech Africa",
+  "published": "2026-11-03",
+  "sub_indicator": "backbone",
+  "why": "Bayobab says South Sudan segment fully built (Q1/Q2)"
+ },
+ {
+  "url": "https://tendernation.io/opportunities/01a13e41-1033-73e6-8315-01d505774d71/capex-for-fibre-deployment-for-route-a-b",
+  "title": "Capex for Fibre Deployment for Route A-B",
+  "publisher": "TenderNation (MICT&PS tender)",
+  "published": "2026-09-10",
+  "sub_indicator": "backbone",
+  "why": "397 km Juba-Nadapal tender (Q1)"
+ },
+ {
+  "url": "https://www.southsudanpress.com/analysis-south-sudan-fibre-juba-nadapal-procurement.html",
+  "title": "South Sudan's Fibre Push Is Moving From Promise to Procurement",
+  "publisher": "South Sudan Press",
+  "published": "2026-09-14",
+  "sub_indicator": "backbone",
+  "why": "Procurement stage, open access unresolved (Q1/Q4)"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/nct-south-sudan-and-bayobab-kick-off-fibre-network-project--1564317",
+  "title": "NCT South Sudan and Bayobab kick off fibre network project",
+  "publisher": "Telecompaper",
+  "published": "2026-03-05",
+  "sub_indicator": "backbone",
+  "why": "National backbone project kicked off Feb 2026 (Q1)"
+ },
+ {
+  "url": "https://www.africabandwidthmaps.com/?p=7508",
+  "title": "Ministry Announces Construction Of 2,400-Km Fibre Backbone To Begin In December 2025",
+  "publisher": "Africa Bandwidth Maps",
+  "published": "2025-10",
+  "sub_indicator": "backbone",
+  "why": "Backbone construction announced (Q1)"
+ },
+ {
+  "url": "https://mictps.gov.ss/fiber-optic-implementation-committee-passes-over-9-million-dollars-to-begin-project-design/",
+  "title": "Fiber optic implementation committee passes over 9 million dollars",
+  "publisher": "MICT&PS",
+  "published": "2025-06-27",
+  "sub_indicator": "backbone",
+  "why": "Design budget (Q1)"
+ },
+ {
+  "url": "https://www.eyeradio.org/south-sudan-risks-falling-behind-in-digital-transformation-adok/",
+  "title": "South Sudan risks falling behind in digital transformation - Adok",
+  "publisher": "Eye Radio",
+  "published": "2023-10-10",
+  "sub_indicator": "backbone",
+  "why": "Fibre reached Torit and Rumbek (Q2)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099082124032516953/pdf/P176181189ab9907919b721aee1da24ba45.pdf",
+  "title": "EA-RDIP Implementation Support Mission Juba June 2024",
+  "publisher": "World Bank",
+  "published": "2024-06",
+  "sub_indicator": "backbone",
+  "why": "Single route via Uganda; backbone tender prep (Q1)"
+ }
+]

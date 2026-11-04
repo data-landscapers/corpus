@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://acp.cd/economie/fibre-optique-en-rdc-le-backbone-national-lossature-numerique-dinterconnexion-nationale-et-internationale-un-expert/",
+  "title": "Fibre optique en RDC: le backbone national, l'ossature numérique",
+  "publisher": "ACP",
+  "published": "2026-06-20",
+  "sub_indicator": "backbone",
+  "why": "Q1 planned 11,500 km backbone"
+ },
+ {
+  "url": "https://acp.cd/economie/la-rdc-parmi-les-pays-prioritaires-de-la-transformation-numerique-au-monde-banque-mondiale/",
+  "title": "La RDC parmi les pays prioritaires de la transformation numérique (Banque mondiale)",
+  "publisher": "ACP",
+  "published": "2026-06-21",
+  "sub_indicator": "backbone",
+  "why": "Q1,Q4 tender in four lots"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099110325064528000/pdf/P180495-98d264b4-d6be-4959-8f1f-7cae4c909c9b.pdf",
+  "title": "Mission d'appui PTN - aide-mémoire",
+  "publisher": "Banque mondiale",
+  "published": "2025",
+  "sub_indicator": "backbone",
+  "why": "Q1,Q4 backbone tender prep, 25% govt capacity"
+ },
+ {
+  "url": "https://paratus.africa/drc/blog/fast-congo-drc-fiber-highway-goes-live/",
+  "title": "Fast Congo DRC Fiber Highway Goes Live",
+  "publisher": "Paratus",
+  "published": "2023-03-16",
+  "sub_indicator": "backbone",
+  "why": "Q2,Q4 Muanda-Kinshasa live, wholesale"
+ },
+ {
+  "url": "https://paratus.africa/drc/blog/fast-congo-and-gva-sign-fiber-capacity-agreement/",
+  "title": "FAST Congo and GVA sign fiber capacity agreement",
+  "publisher": "Paratus",
+  "published": "2024-09-25",
+  "sub_indicator": "backbone",
+  "why": "Q4 capacity sold to GVA"
+ },
+ {
+  "url": "https://csquared.com/independent-yet-connected-csquared-drc-on-building-the-infrastructure-behind-the-countrys-next-chapter/",
+  "title": "Independent, yet connected: CSquared DRC",
+  "publisher": "CSquared",
+  "published": "2026-06-30",
+  "sub_indicator": "backbone",
+  "why": "Q4 open-access fibre"
+ },
+ {
+  "url": "https://arptc.gouv.cd/app/uploads/2024/10/Rapport-observatoire-du-marche%CC%81-de-lInternet-mobile-et-fixe-au-2e%CC%80me-Semestre-2023.pdf",
+  "title": "Observatoire du marché de fourniture des services Internet, 2e semestre 2023",
+  "publisher": "ARPTC",
+  "published": "2024",
+  "sub_indicator": "backbone",
+  "why": "Q2 9,361 km national backbone deployed"
+ },
+ {
+  "url": "https://www.africanwirelesscomms.com/news-details?itemid=5706",
+  "title": "Kinshasa-Muanda fibre optic line inaugurated",
+  "publisher": "African Wireless Comms",
+  "published": "2023-03-24",
+  "sub_indicator": "backbone",
+  "why": "Q2 Kinshasa-Muanda inaugurated"
+ }
+]

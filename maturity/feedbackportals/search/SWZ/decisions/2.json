@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "feedback",
+ "aspect": "channel",
+ "fact": "The Eswatini Housing Board launched a real-time customer feedback platform (Net Promoter Score) reachable by website, SMS invitations, social media links and reception tablets.",
+ "title": "EHB introduces NPS platform",
+ "publisher": "Eswatini Observer",
+ "published": "2026-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lana.gov.ly/post.php?id=368925&lang=ar",
+  "title": "الهيئة العامة للاتصالات والمعلوماتية تنظم يوم التواصل بين ليبيا و AFRINIC",
+  "publisher": "وكالة الأنباء الليبية",
+  "published": "2026-10-30",
+  "sub_indicator": "exchange",
+  "why": "IXP development discussed in Libya; none stated in service"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/LY/",
+  "title": "IXP Tracker - Libya",
+  "publisher": "Internet Society Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "States no active IXP in Libya, 3% locally cached"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/reports/LY/",
+  "title": "Country Report for Libya",
+  "publisher": "Internet Society Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Local cache share, no IXP"
+ },
+ {
+  "url": "https://www.peeringdb.com/ix/4450",
+  "title": "Tripoli IXP - PeeringDB",
+  "publisher": "PeeringDB",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Tripoli IXP with zero peers"
+ },
+ {
+  "url": "https://sada.ly/en/the-international-cloud-a-gateway-with-global-service-and-game-providers-and-other-projects-whose-details-are-explained-by-the-engineers-of-the-libyan-international-telecommunication-company/",
+  "title": "The international cloud, a gateway with global service and game providers",
+  "publisher": "Sada Newspaper",
+  "published": "2022-05-10",
+  "sub_indicator": "exchange",
+  "why": "LITC IXP planned for end of 2022"
+ },
+ {
+  "url": "https://libyareview.com/19356/libya-signs-agreement-to-develop-internet-services-with-germany/",
+  "title": "Libya Signs Agreement to Develop Internet Services with Germany",
+  "publisher": "LibyaReview",
+  "published": "2021-12-07",
+  "sub_indicator": "exchange",
+  "why": "LITC-DE-CIX LYB-IXP contract"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/adel-abufares-599b7a48_lyb-ix-proud-of-being-part-of-this-important-activity-6875198617053921280-YjPp",
+  "title": "LYB-IX LITC post",
+  "publisher": "Adel AbuFares (LITC chairman)",
+  "published": "2021-12-10",
+  "sub_indicator": "exchange",
+  "why": "Caching since 2018, peering with content providers 2019, IXP expected May 2022"
+ },
+ {
+  "url": "https://dig.watch/countries/libya",
+  "title": "Libya | Digital Watch Observatory",
+  "publisher": "Diplo",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Reports no active IXPs"
+ }
+]

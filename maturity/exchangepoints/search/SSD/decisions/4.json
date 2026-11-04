@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "exchange",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: financial statements only mention IXP development as project scope; no document date"
+}

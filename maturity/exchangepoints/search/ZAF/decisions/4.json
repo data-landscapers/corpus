@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "NAPAfrica traffic peaked at 2Tbps in 2021, passed 4Tbps in 2023 and reached 5Tbps in February 2025, with Google, Meta, Microsoft, Netflix, Akamai and Cloudflare among its members.",
+ "title": "NAPAfrica achieves 5Tbps traffic milestone, driving Africa’s digital transformation",
+ "publisher": "Teraco",
+ "published": "2025-03-04",
+ "date_source": "source",
+ "why_not": ""
+}

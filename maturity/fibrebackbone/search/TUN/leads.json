@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.thd.tn/tunisie-telecom-pour-reussir-la-5g-il-faut-dabord-la-fibre-optique/",
+  "title": "Tunisie Telecom : Pour reussir la 5G, il faut d'abord la fibre optique",
+  "publisher": "THD - Tunisie Haut Debit",
+  "published": "2025-02-11",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q4: backbone modernisation between governorates; TT carriers lease to Orange, Ooredoo"
+ },
+ {
+  "url": "https://successfultunisia.com/fr/2024/10/21/tunisie-telecom-reussit-a-realiser-plus-de-50-000-kilometres-de-fibre-optique-dans-differentes-regions-de-la-republique/",
+  "title": "Tunisie Telecom : plus de 50 000 km de fibre optique",
+  "publisher": "Successful Tunisia",
+  "published": "2024-10-21",
+  "sub_indicator": "backbone",
+  "why": "Q3: fibre in all regions"
+ },
+ {
+  "url": "https://www.lequotidien.com.tn/fr/economie/5396-fibre-optique-les-pas-en-avant-de-tunisie-telecom",
+  "title": "Fibre optique : Les pas en avant de Tunisie Telecom",
+  "publisher": "Le Quotidien",
+  "published": "2024-10-18",
+  "sub_indicator": "backbone",
+  "why": "Q3: 50,000 km across the country"
+ },
+ {
+  "url": "https://www.webdo.tn/fr/actualite/national/tt-network-day-les-trois-principales-realisations-de-tunisie-telecom/204037/",
+  "title": "TT Network Day : Les trois principales realisations",
+  "publisher": "Webdo",
+  "published": "2023-03-17",
+  "sub_indicator": "backbone",
+  "why": "Q3: 35,000 km over 24 governorates"
+ },
+ {
+  "url": "https://www.leconomistemaghrebin.com/2023/03/18/tt-network-day-tunisie-telecom-est-prete-pour-la-5g/",
+  "title": "TT Network Day : Tunisie Telecom est prete pour la 5G",
+  "publisher": "L'Economiste Maghrebin",
+  "published": "2023-03-18",
+  "sub_indicator": "backbone",
+  "why": "Q3: 35,000 km on 24 governorates"
+ },
+ {
+  "url": "https://www.thd.tn/tunisie-telecom-consolide-ses-investissements-sur-le-fixe-et-vise-a-quintupler-les-capacites-de-son-reseau/",
+  "title": "Tunisie Telecom consolide ses investissements sur le fixe",
+  "publisher": "THD - Tunisie Haut Debit",
+  "published": "2023-03-22",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q3: 35,000 km fibre"
+ },
+ {
+  "url": "https://www.leconomistemaghrebin.com/2022/01/27/tunisie-telecom-investissements-concretisations-et-performances/",
+  "title": "Tunisie Telecom: investissements, concretisations et performances",
+  "publisher": "L'Economiste Maghrebin",
+  "published": "2022-01-27",
+  "sub_indicator": "backbone",
+  "why": "Q2: national backbone 30,000 km"
+ },
+ {
+  "url": "https://cck.rnu.tn/reseau/",
+  "title": "Reseau - Computing Center of Al-Khawarizmi (CCK)",
+  "publisher": "CCK",
+  "published": "2021-09-21",
+  "sub_indicator": "backbone",
+  "why": "Q4: RNU rides TT backbone"
+ }
+]

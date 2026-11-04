@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/ixp/706/",
+  "title": "IXP Tracker - Burundi Internet Exchange Point - BDIXP",
+  "publisher": "ISOC Pulse",
+  "published": "2026-08",
+  "sub_indicator": "exchange",
+  "why": "IXP in service; Akamai and Meta members; 9 members, 26 Gbps"
+ },
+ {
+  "url": "https://bdixp.org.bi/en/home/",
+  "title": "BDIXP",
+  "publisher": "BDIXP",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "IXP in service; 7.5 Gbps peak traffic"
+ },
+ {
+  "url": "https://bdixp.org.bi/devenir-membre/",
+  "title": "Devenir membre - BDIXP",
+  "publisher": "BDIXP",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "membership terms for an operating IXP"
+ },
+ {
+  "url": "https://www.peeringdb.com/ix/2552",
+  "title": "BDIXP - PeeringDB",
+  "publisher": "PeeringDB",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "peers incl. Akamai, Meta"
+ }
+]

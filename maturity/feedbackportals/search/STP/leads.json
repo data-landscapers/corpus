@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://rstp.st/2026/03/28/inic-celebra-18o-aniversario-com-lancamento-da-plataforma-portal-do-cidadao/",
+  "title": "INIC celebra 18º aniversário com lançamento da plataforma Portal do Cidadão",
+  "publisher": "RSTP",
+  "published": "2026-03-28",
+  "sub_indicator": "feedback",
+  "why": "citizen portal beta launched"
+ },
+ {
+  "url": "https://zuntatv.st/sao-tome-e-principe-avanca-na-transformacao-digital-com-lancamento-do-portal-unico-do-cidadao/",
+  "title": "São Tomé e Príncipe avança na transformação digital com lançamento do Portal Único do Cidadão",
+  "publisher": "Zunta TV",
+  "published": "2026-03-27",
+  "sub_indicator": "feedback",
+  "why": "portal launch"
+ },
+ {
+  "url": "https://cdpi.dev/blog/sao-tome-and-principe-launches-citizen-portal/",
+  "title": "São Tomé and Príncipe Launches Citizen Portal",
+  "publisher": "CDPI",
+  "published": "2026-04-07",
+  "sub_indicator": "feedback",
+  "why": "portal launch"
+ },
+ {
+  "url": "https://leveleve.news/inic-inaugura-portal-do-cidadao-no-18o-aniversario-e-promete-mais-servicos-digitais/",
+  "title": "INIC inaugura Portal do Cidadão no 18º aniversário e promete mais serviços digitais",
+  "publisher": "Leve Leve News",
+  "published": "2026-03-28",
+  "sub_indicator": "feedback",
+  "why": "direct communication with services"
+ },
+ {
+  "url": "https://www.unodc.org/westandcentralafrica/en/westandcentralafrica/stories/2026/when-walking-into-a-police-station-is-the-barrier--build-a-door-that-opens-from-the-other-side.html",
+  "title": "When walking into a police station is the barrier, build a door that opens from the other side",
+  "publisher": "UNODC",
+  "published": "2026",
+  "sub_indicator": "feedback",
+  "why": "reporting platform under development"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf",
+  "title": "Aide-mémoire, Digital STP mission",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "feedback",
+  "why": "citizen portal/app plan; grievance mechanism 42 complaints"
+ },
+ {
+  "url": "https://stp.gov.st/contacte-nos",
+  "title": "Contacte-nos",
+  "publisher": "Governo de São Tomé e Príncipe",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "complaints email"
+ }
+]

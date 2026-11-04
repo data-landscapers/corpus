@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.tresor.economie.gouv.fr/Pays/CG/le-secteur-du-numerique",
+  "title": "Le secteur du numérique au Congo-Brazzaville",
+  "publisher": "Direction générale du Trésor",
+  "published": "2024-08-30",
+  "sub_indicator": "backbone",
+  "why": "3,000 km PCN, cities linked, concession"
+ },
+ {
+  "url": "https://www.agenceecofin.com/infrastructures/0809-111562-le-congo-lance-la-construction-de-sa-deuxieme-dorsale-nationale-a-fibre-optique",
+  "title": "Le Congo lance la construction de sa deuxième dorsale nationale à fibre optique",
+  "publisher": "Agence Ecofin",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Second backbone works launched 7 September"
+ },
+ {
+  "url": "https://www.afdb.org/en/news-and-events/congo-new-data-centre-funded-african-development-bank-will-cement-national-and-subregional-digital-sovereignty-70847",
+  "title": "Congo: New data centre funded by AfDB",
+  "publisher": "African Development Bank",
+  "published": "2024-05-17",
+  "sub_indicator": "backbone",
+  "why": "CAB fibre laid"
+ },
+ {
+  "url": "https://www.adiac-congo.com/content/fibre-optique-gaetan-soltesz-congo-telecom-nest-pas-bradee-122605",
+  "title": "Fibre optique. Gaëtan Soltesz",
+  "publisher": "adiac-congo",
+  "published": "2020-12-15",
+  "sub_indicator": "backbone",
+  "why": "E2C network concession, capacity to operators"
+ },
+ {
+  "url": "https://congotelecom.cg/?page=about_us",
+  "title": "À Propos de Nous",
+  "publisher": "Congo Telecom",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "3500 km backbone, wholesale"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/771951572880867186/pdf/Congo-Republic-of-Third-Phase-of-the-Central-African-Backbone-Program-Project.pdf",
+  "title": "Implementation Completion and Results Report",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "505 km Congo-Gabon, no open access"
+ },
+ {
+  "url": "https://www.internetsociety.org/wp-content/uploads/2023/05/Projet-CAB-CIT-CG-Presentation-Activites-Osiane.pdf",
+  "title": "Présentation Activités Osiane",
+  "publisher": "CAB Congo",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Interconnection works complete"
+ },
+ {
+  "url": "https://postetelecom.gouv.cg/afrique-chine-avancees-congo-telecommunications-presentees-chine-leon-ibombo/",
+  "title": "Afrique-Chine : Les avancées du Congo en Télécommunications",
+  "publisher": "Ministère des Postes et Télécommunications",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "1300 km backbone to departmental capitals"
+ }
+]

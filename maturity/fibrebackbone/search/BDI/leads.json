@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.insbu.bi/documents/Sectorials/RAPPORT_DES_INDICATEURS_TIC_EDITION_2024.pdf",
+  "title": "Rapport des indicateurs TIC au Burundi, edition 2024",
+  "publisher": "INSBU / ARCT",
+  "published": "2024",
+  "sub_indicator": "backbone",
+  "why": "BBS 1,750 km all provinces at 31 Dec 2024"
+ },
+ {
+  "url": "https://cio-mag.com/bienvenu-irakoze-le-burundi-possede-le-reseau-a-fibre-optique-le-plus-dense-dans-la-sous-region/",
+  "title": "Bienvenu Irakoze : Le Burundi possede le reseau a fibre optique le plus dense dans la sous-region",
+  "publisher": "CIOMAG",
+  "published": "2023-10-16",
+  "sub_indicator": "backbone",
+  "why": "backbone in operation since 2013-14, nearly all provinces"
+ },
+ {
+  "url": "https://www.tdbgroup.org/transaction/burundi-backbone-systems-expands-nationwide-fibre-optic-access/",
+  "title": "Burundi Backbone Systems Expands Nationwide Fibre-Optic Access",
+  "publisher": "Trade and Development Bank",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "open-access network, 1,700 km, all major provinces"
+ },
+ {
+  "url": "https://bbs.bi/",
+  "title": "BBS - Le backbone numerique du Burundi",
+  "publisher": "Burundi Backbone System",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "2000+ km fibre; sells to operators"
+ }
+]

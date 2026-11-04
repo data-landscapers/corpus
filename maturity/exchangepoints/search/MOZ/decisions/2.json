@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "As of October 2026 Mozambique has one active IXP, MOZIX in Maputo, with 18 members, and 97% of 31 active networks can exchange traffic through IXPs.",
+ "title": "IXP Tracker - Mozambique",
+ "publisher": "ISOC Pulse",
+ "published": "2026-10",
+ "date_source": "source",
+ "why_not": ""
+}

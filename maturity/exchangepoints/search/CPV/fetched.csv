@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://nosi.cv/pt/web/guest/w/internet-exchange-point-ixp-de-cabo-verde-implementado,fetched,,scripts/.workroot/study/exchangepoints/cache/CPV/1.txt,243,html,Internet Exchange Point (IXP) de Cabo Verde implementado
+2,https://www.balai.cv/noticias/instituicoes-cabo-verdianas-que-estao-no-digital-criam-projeto-para-garantir-a-soberania-digital-em-cabo-verde/,fetched,,scripts/.workroot/study/exchangepoints/cache/CPV/2.txt,635,html,Instituições cabo-verdianas que estão no digital criam projeto para garantir a soberania digital em Cabo Verde - Balai
+3,https://pulse.internetsociety.org/en/ixp-tracker/country/CV/,fetched,,scripts/.workroot/study/exchangepoints/cache/CPV/3.txt,298,html,IXP Tracker - Cabo Verde | ISOC Pulse
+4,https://pulse.internetsociety.org/en/ixp-tracker/ixp/1219/,fetched,,scripts/.workroot/study/exchangepoints/cache/CPV/4.txt,599,html,IXP Tracker - Associação Cabo Verde Internet Exchange Point - CV-IXP | ISOC Pulse
+5,https://www.peeringdb.com/ix/4037,held,held as raw/2024/2024-01-01-cv-ixp-cabo-verde-internet-exchange-point.md,,0,,
+6,https://www.pch.net/ixp/details/2324,held,held as raw/2022/2022-11-29-pch-cv-ixp-associacao-cabo-verde-internet-exchange-point.md,,0,,
+7,https://www.netify.ai/resources/cdn/google-cloud-cdn/country/cv,fetched,,scripts/.workroot/study/exchangepoints/cache/CPV/7.txt,94,html,Google Edge CDN - Cabo Verde - IPs and PoPs
+8,https://sigtel.ecowas.int/national-mobile-broadband-coverage/,fetched,,scripts/.workroot/study/exchangepoints/cache/CPV/8.txt,1127,html,National Mobile Network Broadband Coverage

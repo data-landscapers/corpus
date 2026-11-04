@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "UIXP had 27 networks exchanging 35 Gbps of peak daily traffic in January 2022, reaching a record 50 Gbps by June 2022 before Google and Akamai peering were disabled and peak traffic fell to 6 Gbps.",
+ "title": "Disaster Recovery: CDN Outages, Financial Challenges, and the Way Forward",
+ "publisher": "The Uganda Internet eXchange Point (UIXP) Blog",
+ "published": "2023-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

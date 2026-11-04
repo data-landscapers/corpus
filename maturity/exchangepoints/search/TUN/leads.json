@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/ixp/427/",
+  "title": "IXP Tracker - Tunisia Internet Exchange Point - TunIXP",
+  "publisher": "ISOC Pulse",
+  "published": "2026-08",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: members and countries of registration"
+ },
+ {
+  "url": "https://www.tunixp.tn/tunixp4.html",
+  "title": "Member List",
+  "publisher": "TunIXP / ATI",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2: members incl. Google, Akamai, Facebook, Algerie Telecom"
+ },
+ {
+  "url": "https://www.tunixp.tn/tunixp5.html",
+  "title": "The Internet Exchange platform - Statistics",
+  "publisher": "TunIXP / ATI",
+  "published": "2022",
+  "sub_indicator": "exchange",
+  "why": "Q3: traffic graphs"
+ },
+ {
+  "url": "https://www.peeringdb.com/ix/1105",
+  "title": "TunIXP - PeeringDB",
+  "publisher": "PeeringDB",
+  "published": "2019-06",
+  "sub_indicator": "exchange",
+  "why": "Q1: IXP in Tunis, peers"
+ },
+ {
+  "url": "https://www.pch.net/ixp/details/1474",
+  "title": "TunIXP | PCH",
+  "publisher": "Packet Clearing House",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1: IXP active"
+ },
+ {
+  "url": "https://www.tunixp.tn/",
+  "title": "About TunIXP",
+  "publisher": "TunIXP / ATI",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1: exchange located in Tunis serving all operators"
+ }
+]

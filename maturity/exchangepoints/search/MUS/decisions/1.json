@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "reach",
+ "fact": "As of October 2026 one active IXP operates in Mauritius with 22 members, including networks registered in South Africa, Guadeloupe, the US and Slovenia, at 2 physical locations.",
+ "title": "IXP Tracker - Maurice",
+ "publisher": "ISOC Pulse",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

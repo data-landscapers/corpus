@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.moroccoworldnews.com/2026/01/273688/moroccan-citizens-filed-163694-complaints-against-public-administrations-in-2025/",
+  "title": "Moroccan Citizens Filed 163,694 Complaints Against Public Administrations in 2025",
+  "publisher": "Morocco World News",
+  "published": "2026-01-02",
+  "sub_indicator": "feedback",
+  "why": "Q2-Q4: counts, resolution rate, 1,747 bodies"
+ },
+ {
+  "url": "https://ar.consonews.ma/24551.html",
+  "title": "أزيد من 163 ألف شكاية ضد الإدارات العمومية المغربية في سنة 2025",
+  "publisher": "Consonews",
+  "published": "2026-01-09",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q4: 2025 counts and processing time"
+ },
+ {
+  "url": "https://en.hespress.com/100426-moroccans-filed-over-177000-complaints-through-national-portal-in-2024.html",
+  "title": "Moroccans filed over 177,000 complaints through National Portal in 2024",
+  "publisher": "Hespress EN",
+  "published": "2025-01-09",
+  "sub_indicator": "feedback",
+  "why": "Q2-Q4: 2024 counts, resolution"
+ },
+ {
+  "url": "https://www.leconomiste.com/flash-infos/chikayat-ma-75-des-plaintes-traitees-avec-succes/",
+  "title": "Chikaya.ma: 75 % des plaintes traitées avec succès",
+  "publisher": "L'Economiste",
+  "published": "2025-06-03",
+  "sub_indicator": "feedback",
+  "why": "Q3/Q4: minister on coverage of ministries, communes"
+ },
+ {
+  "url": "https://www.maroc.ma/en/news/1345-requests-complaints-handled-2024-chikayama-portal",
+  "title": "1,345 Requests, Complaints Handled in 2024 via Chikaya.ma",
+  "publisher": "Maroc.ma",
+  "published": "2025-06-04",
+  "sub_indicator": "feedback",
+  "why": "Q2: ministry handled complaints"
+ },
+ {
+  "url": "https://mmsp.gov.ma/fr/r%C3%A9clamations",
+  "title": "Réclamations",
+  "publisher": "Ministère de la Transition Numérique et de la Réforme de l'Administration",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q4: decree, annual synthesis reports"
+ },
+ {
+  "url": "https://www.chikaya.ma/?page=reclamation.Statistiques&lang=fr",
+  "title": "Portail national des réclamations: Statistiques",
+  "publisher": "Chikaya.ma",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q4: live statistics"
+ },
+ {
+  "url": "https://en.hespress.com/128175-citizen-complaints-rise-on-chikaya-as-pending-cases-continue-to-grow.html",
+  "title": "Citizen complaints rise on Chikaya as pending cases continue to grow",
+  "publisher": "Hespress EN",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q4: 2025 figures"
+ }
+]

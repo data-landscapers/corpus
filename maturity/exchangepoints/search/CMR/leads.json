@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://st.digital/blog/nos-actualites-1/camix-ouvre-un-second-point-de-presence-a-douala-au-sein-du-datacenter-de-st-digital-574",
+  "title": "CAMIX ouvre un second point de présence à Douala",
+  "publisher": "ST Digital",
+  "published": "2026-10-06",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: IXP in service, extra PoP"
+ },
+ {
+  "url": "https://www.camix.cm/actualite/3e-pop-camix",
+  "title": "CAMIX annonce la mise en service de son troisième Point de Présence",
+  "publisher": "CAMIX",
+  "published": "2026-04-07",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: IXP in Douala and Yaoundé, third PoP"
+ },
+ {
+  "url": "https://www.camix.cm/actualite/camix-reunit-les-points-focaux-techniques-pour-evaluer-le-deploiement-de-l-ixp",
+  "title": "CAMIX réunit les points focaux techniques",
+  "publisher": "CAMIX",
+  "published": "2026-03-19",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2/Q3: Akamai server, 1 Gbps traffic"
+ },
+ {
+  "url": "https://www.camix.cm/blog/devenir-membre-du-camix-guide-pratique-pour-fai-hebergeur-et-operateur",
+  "title": "Devenir membre du CAMIX",
+  "publisher": "CAMIX",
+  "published": "2026-02-18",
+  "sub_indicator": "exchange",
+  "why": "Q2: Google Global Cache, Akamai at exchange"
+ },
+ {
+  "url": "https://www.newsducamer.com/infrastructures-la-fibre-optique-gagne-du-terrain/",
+  "title": "Infrastructures : la fibre optique gagne du terrain",
+  "publisher": "News du Cameroun",
+  "published": "2022-12-14",
+  "sub_indicator": "exchange",
+  "why": "Q1: two IXPs Yaoundé and Douala"
+ }
+]

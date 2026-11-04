@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "exchange",
+ "aspect": "",
+ "fact": "",
+ "title": "IXP Namibia",
+ "publisher": "PeeringDB",
+ "published": "",
+ "date_source": "source",
+ "why_not": "already-held: the same exchange facts are held from the ISOC Pulse tracker; no traffic or content-network fact"
+}

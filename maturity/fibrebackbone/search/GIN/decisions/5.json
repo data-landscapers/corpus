@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach;access",
+ "fact": "On 30 July 2020 the minister told the council of ministers the national backbone was partly in service, first loop live with MTN and Orange connected at 10 Gb each, second loop awaiting repairs.",
+ "title": "Guinée : Mise en service partielle du Backbone National à Fibre Optique",
+ "publisher": "TIC-GUINEE",
+ "published": "2020-08-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "access",
+ "fact": "KTRN states it provides wholesale fixed services based on its nationwide fibre infrastructure to licensed operators in Rwanda, and its 4G monopoly ended in 2023.",
+ "title": "KT Rwanda Networks Ltd document on number portability",
+ "publisher": "KT Rwanda Networks",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

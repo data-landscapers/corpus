@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "Angola's two IXPs, Angonix and Angola IXP, hit combined peaks near 70 Gbps in late July 2025 (59.5 Gbps and over 11 Gbps), with Microsoft and Meta present at them.",
+ "title": "Tráfego de Internet em Angola atinge máximos históricos",
+ "publisher": "Portal de TI",
+ "published": "2025-08-01",
+ "date_source": "source",
+ "why_not": ""
+}

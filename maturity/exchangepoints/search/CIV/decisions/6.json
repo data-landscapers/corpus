@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "CIVIX, set up in 2013 by ARTCI, had 10 ASNs connected as of May 2021.",
+ "title": "Spotlight on CIVIX",
+ "publisher": "Euro-IX",
+ "published": "2021-05-20",
+ "date_source": "source",
+ "why_not": ""
+}

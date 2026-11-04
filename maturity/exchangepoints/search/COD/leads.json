@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://tech.africa/kinix-raxio-kinshasa-exchange/",
+  "title": "KINIX Kinshasa internet exchange expands into Raxio DRC",
+  "publisher": "Tech Africa",
+  "published": "2026-08-21",
+  "sub_indicator": "exchange",
+  "why": "Q1-4 KINIX in service, Meta/Cloudflare peer, two sites, foreign networks"
+ },
+ {
+  "url": "https://www.internetsociety.org/blog/2024/02/the-decade-that-changed-the-democratic-republic-of-congos-internet/",
+  "title": "How IXPs Helped Reshape the Internet in the DRC",
+  "publisher": "Internet Society",
+  "published": "2024-02-08",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q3 KINIX traffic growth to ~80 Gbps"
+ },
+ {
+  "url": "https://arptc.gouv.cd/app/uploads/2024/10/Rapport-observatoire-du-marche%CC%81-de-lInternet-mobile-et-fixe-au-2e%CC%80me-Semestre-2023.pdf",
+  "title": "Observatoire du marché de fourniture des services Internet, 2e semestre 2023",
+  "publisher": "ARPTC",
+  "published": "2024",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q2,Q4 four IXPs in three cities with CDNs"
+ },
+ {
+  "url": "https://arptc.gouv.cd/app/uploads/2023/10/Rapport-observatoire-du-marche%CC%81-de-lInternet-mobile-et-fixe-2021-2022.pdf",
+  "title": "Observatoire du marché de fourniture des services Internet 2021-2022",
+  "publisher": "ARPTC",
+  "published": "2023",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q2,Q4 KINIX LUBIX GOMIX peak traffic, CDNs"
+ },
+ {
+  "url": "https://www.afpif.org/wp-content/uploads/2024/08/RDC-Cache-Fill-Strategies.pdf",
+  "title": "ISPA-DRC's cache-fill cost sharing model",
+  "publisher": "ISPA-DRC (AfPIF)",
+  "published": "2024-08",
+  "sub_indicator": "exchange",
+  "why": "Q3 traffic peaks per IXP, caches"
+ },
+ {
+  "url": "https://www.afpif.org/wp-content/uploads/2024/08/2024-Welcome-by-Local-Host.pdf",
+  "title": "Mot de Bienvenue",
+  "publisher": "ISPA-DRC (AfPIF 2024)",
+  "published": "2024",
+  "sub_indicator": "exchange",
+  "why": "Q3 KINIX traffic evolution to 90 Gbps"
+ },
+ {
+  "url": "https://www.afpif.org/wp-content/uploads/2022/09/RDC-IX_PROJECT_KIGALI.pdf",
+  "title": "Quid de l'impact du projet RDC-IX",
+  "publisher": "ISPA-DRC (AfPIF)",
+  "published": "2022",
+  "sub_indicator": "exchange",
+  "why": "Q3,Q4 traffic over time, three IXPs"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/fr/ixp-tracker/country/CD/",
+  "title": "IXP Tracker - République démocratique du Congo",
+  "publisher": "Internet Society Pulse",
+  "published": "2026-10",
+  "sub_indicator": "exchange",
+  "why": "Q4 four IXPs in three cities"
+ }
+]

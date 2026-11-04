@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "In July 2019 MIXP announced two route servers (ASN 37324) and a route collector for participants to peer with at the exchange.",
+ "title": "[MIXP Announcement] Peer with the route servers and route collectors",
+ "publisher": "MIXP announcements",
+ "published": "2019-07-12",
+ "date_source": "source",
+ "why_not": ""
+}

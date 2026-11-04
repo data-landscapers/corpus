@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "As of September 2024 Zambia has one IXP (LuIX), at which 10 of the 24 registered networks peer by PeeringDB data, 14 members by its own website.",
+ "title": "How Does Zambia Accelerate its Internet Resilience",
+ "publisher": "ISOC Pulse",
+ "published": "2024-09-19",
+ "date_source": "source",
+ "why_not": ""
+}

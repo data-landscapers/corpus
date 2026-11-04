@@ -1,0 +1,6 @@
+[
+{"url":"https://pulse.internetsociety.org/en/blog/2024/09/how-does-zambia-accelerate-its-internet-resilience/","title":"How Does Zambia Accelerate its Internet Resilience","publisher":"ISOC Pulse","published":"2024-09-19","sub_indicator":"exchange","why":"Q1-2: one IXP (LuIX) in service, member count"},
+{"url":"https://lusakaixp.co.zm/","title":"Lusaka IX","publisher":"Lusaka Internet Exchange Point","published":"","sub_indicator":"exchange","why":"Q2-3: IXP in service, hosting caches/CDN, peak traffic"},
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/ixp/289/","title":"IXP Tracker - Lusaka Internet Exchange Point","publisher":"ISOC Pulse","published":"","sub_indicator":"exchange","why":"Q2/Q4: members, capacity, foreign networks peering"},
+{"url":"https://www.peeringdb.com/ix/615","title":"Lusaka Internet Exchange Point - PeeringDB","publisher":"PeeringDB","published":"","sub_indicator":"exchange","why":"Q2/Q4: members and foreign operators"}
+]

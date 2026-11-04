@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "IXPN's peak domestic traffic exceeded one terabit per second in April 2025 and more than doubled to over two terabits per second by March 2026, with points of presence in Abuja, Port Harcourt, Enugu, Kano, Delta and Gombe.",
+ "title": "Nigeria's Internet Exchange Goes 400G As Traffic Tops Two Terabits",
+ "publisher": "CIO Africa",
+ "published": "2026-07-06",
+ "date_source": "source",
+ "why_not": ""
+}

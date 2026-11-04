@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "On 16 December 2022 stakeholders met at the NOSi data centre to review the implementation of the Cabo Verde Internet Exchange Point (CVIXP), with Unitel T+ and CV Telecom represented.",
+ "title": "Internet Exchange Point (IXP) de Cabo Verde implementado",
+ "publisher": "NOSi",
+ "published": "2022-12-19",
+ "date_source": "source",
+ "why_not": ""
+}

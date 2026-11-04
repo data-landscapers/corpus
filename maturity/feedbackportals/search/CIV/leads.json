@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.fratmat.info/article/2642149/societe/lucien-kouakou-secretaire-permanent-de-losep-nous-passons-dune-bureaucratie-rigide-a-une-administration-centree-sur-le-citoyen-interview",
+  "title": "Lucien Kouakou (OSEP): interview",
+  "publisher": "Fraternité Matin",
+  "published": "2026-05-25",
+  "sub_indicator": "feedback",
+  "why": "channels, 72h"
+ },
+ {
+  "url": "https://www.aip.ci/cote-divoire-aip-lobservatoire-du-service-public-mis-en-place-pour-recueillir-les-plaintes-des-usagers-dossier/",
+  "title": "L'Observatoire du service public mis en place pour recueillir les plaintes des usagers",
+  "publisher": "AIP",
+  "published": "2025-09-25",
+  "sub_indicator": "feedback",
+  "why": "70000 requests 2018-2024"
+ },
+ {
+  "url": "https://www.koaci.com/article/2025/07/02/cote-divoire/societe/cote-divoire-administration-publique-les-usagers-mecontents-a-81-des-services-une-intensification-du-programme-de-digitalisation-annoncee_188242.html",
+  "title": "Administration publique, les usagers mécontents à 81% des services",
+  "publisher": "KOACI",
+  "published": "2025-07-02",
+  "sub_indicator": "feedback",
+  "why": "H2 2024 report"
+ },
+ {
+  "url": "https://news.abidjan.net/articles/738401/losep-presente-le-portail-du-citoyen-milie-aux-administres-datoutou",
+  "title": "L'OSEP présente le portail Miliê à Atoutou",
+  "publisher": "Abidjan.net",
+  "published": "2025-01-12",
+  "sub_indicator": "feedback",
+  "why": "portal in service"
+ },
+ {
+  "url": "https://www.fonctionpublique.gouv.ci/index.php/front-page/navigator/viewpage/_alaune/1630",
+  "title": "OSEP comité consultatif 2024",
+  "publisher": "Ministère de la Fonction Publique",
+  "published": "2024",
+  "sub_indicator": "feedback",
+  "why": "Miliê revised"
+ },
+ {
+  "url": "https://www.backoffice.milie.ci/",
+  "title": "MILIÊ-ADM",
+  "publisher": "OSEP",
+  "published": "",
+  "sub_indicator": "feedback;results",
+  "why": "statistics, satisfaction"
+ },
+ {
+  "url": "https://opf.gouv.ci/qui-sommes-nous/presentation",
+  "title": "Présentation de l'OPF",
+  "publisher": "OPF",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "land complaints portal 2021"
+ },
+ {
+  "url": "https://baobab.tresor.gouv.ci/services/presentation-baobab/",
+  "title": "Présentation des fonctionnalités Baobab",
+  "publisher": "Trésor Public",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "complaints CRM 72h"
+ }
+]

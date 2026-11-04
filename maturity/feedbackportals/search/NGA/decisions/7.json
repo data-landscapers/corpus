@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "feedback",
+ "aspect": "channel;results",
+ "fact": "PCC said it received 791,026 complaints in 30 months, 499,500 resolved and 291,526 pending.",
+ "title": "PCC received 791,026 complaints in 30 months, resolved 499,500 - Commissioner",
+ "publisher": "The Sun Nigeria",
+ "published": "2024-02-16",
+ "date_source": "source",
+ "why_not": ""
+}

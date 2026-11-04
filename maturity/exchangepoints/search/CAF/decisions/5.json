@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "A 2020 Internet Society presentation lists the Central African Republic with 0 IXPs and 0% of its 2 local ASNs connected to an IXP.",
+ "title": "COVID-19 ET LE PEERING PUBLIC EN AFRIQUE CENTRALE",
+ "publisher": "Internet Society",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

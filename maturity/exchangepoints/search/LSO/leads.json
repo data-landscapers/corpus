@@ -1,0 +1,8 @@
+[
+{"url":"https://www.thereporter.co.ls/2026/02/02/lesotho-revamps-internet-exchange-infrastructure/","title":"Lesotho revamps internet exchange infrastructure","publisher":"The Reporter Lesotho","published":"2026-02-02","sub_indicator":"exchange","why":"Q1/Q2: LIXP in service, hosts two CDNs and five ISPs"},
+{"url":"https://isoc.org.ls/lesotho-internet-exchange-point-lixp-project","title":"Lesotho Internet Exchange Point (LIXP) Project Underway","publisher":"ISOC Lesotho","published":"2025","sub_indicator":"exchange","why":"Q1: LIXP upgrade completed"},
+{"url":"https://lixp.org.ls/content-providers/","title":"Content Providers","publisher":"Lesotho Internet Exchange","published":"","sub_indicator":"exchange","why":"Q2: Google Global Cache and Akamai at LIXP"},
+{"url":"https://www.afpif.org/share-your-experience-with-the-community/afpif-community-has-been-amazing-supportive/","title":"AfPIF Community Has Been Amazing, Supportive","publisher":"AfPIF","published":"","sub_indicator":"exchange","why":"Q3: traffic 20Mbps to 1Gbps peak after caches"},
+{"url":"https://lecc.co.ls/wp-content/uploads/2026/03/LECC-2024-Annual-Report.pdf","title":"LECC 2024 Annual Report","publisher":"LEC Communications","published":"2024","sub_indicator":"exchange","why":"Q1/Q4: LECC peers at LIXP and NAPAfrica"},
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/ixp/1646/","title":"IXP Tracker - Lesotho Internet Exchange Point","publisher":"ISOC Pulse","published":"2026-08","sub_indicator":"exchange","why":"Q1/Q4: members, capacity 30 Gbps, all Lesotho-registered"}
+]

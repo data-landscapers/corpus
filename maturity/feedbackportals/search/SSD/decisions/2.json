@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "feedback",
+ "aspect": "channel",
+ "fact": "The Ministry of Gender, Child and Social Welfare publishes a grievance redress mechanism for the SSWSEEP project and an online complaint form for it.",
+ "title": "Grievance Redress Mechanism (GRM)",
+ "publisher": "MGCSW - Ministry of Gender Child and Social welfare",
+ "published": "2024-09-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

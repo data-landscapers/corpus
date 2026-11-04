@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.2424.mg/internet-relance-du-peering-pour-une-meilleure-connectivite-a-madagascar",
+  "title": "INTERNET – Relance du « peering » pour une meilleure connectivité à Madagascar",
+  "publisher": "2424.mg",
+  "published": "2024-12-02",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2: says no fully operational IXP; revival of MGIX"
+ },
+ {
+  "url": "https://nic.mg/en/business-experts-and-professional-management-ideas/",
+  "title": "Revivons ensemble la Journée du Peering à Madagascar",
+  "publisher": "NIC.MG",
+  "published": "2024-11-28",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2: Peering Day on reviving national IXP MGIX"
+ },
+ {
+  "url": "https://www.madagascar-internet.mg/cs/announcements/31/Point-de-convergence-Internet-a-Madagascar--ou-en-est-on-avec-le-MGIX.html",
+  "title": "Point de convergence Internet à Madagascar : où en est-on avec le MGIX",
+  "publisher": "Madagascar Internet",
+  "published": "2025-07-30",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2: MGIX relaunch status, first members awaited"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/MG/",
+  "title": "IXP Tracker - Madagascar",
+  "publisher": "Internet Society Pulse",
+  "published": "2026-10",
+  "sub_indicator": "exchange",
+  "why": "Q2/Q3: one IXP, 5 members, 59% locally cached content"
+ }
+]

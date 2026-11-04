@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://anaden.org/actualites/portail-gouvernemental-7-outils-pour-vous-faciliter-la-vie",
+  "title": "Portail gouvernemental : 7 outils pour vous faciliter la vie",
+  "publisher": "ANADEN",
+  "published": "2022-06-25",
+  "sub_indicator": "feedback",
+  "why": "government portal e-services"
+ },
+ {
+  "url": "https://puc.gouv.km/about",
+  "title": "Portail Unique du Citoyen",
+  "publisher": "Union des Comores",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "citizen portal aims"
+ },
+ {
+  "url": "https://egouv.km/fr/services/individuals-services/",
+  "title": "Services aux particuliers",
+  "publisher": "Gouvernement Comores",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "list of e-services, any complaint channel"
+ },
+ {
+  "url": "https://we.hse.ru/en/irs/cas/passkm",
+  "title": "E-Government Development in Comoros",
+  "publisher": "HSE University CAS",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "e-government platforms"
+ },
+ {
+  "url": "https://digitaldevelopmentcompass.undp.org/country/COM",
+  "title": "UNDP Digital Development Compass - Comoros",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "digital public services stage"
+ }
+]

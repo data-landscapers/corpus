@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://libyaherald.com/2021/07/hatif-libya-and-infinera-telecoms-agreement-more-technical-details-revealed-but-no-contract-value",
+  "title": "Hatif Libya and Infinera Partner to Upgrade Libya's Telecom Infrastructure",
+  "publisher": "Libya Herald",
+  "published": "2021-07-28",
+  "sub_indicator": "backbone",
+  "why": "Optical transport expansion, 60 sites"
+ },
+ {
+  "url": "https://lana.gov.ly/post.php?id=185890&lang=ar",
+  "title": "شركة هاتف ليبيا: ربط كوابل الآلياف البصرية بمساري NGBN",
+  "publisher": "وكالة الأنباء الليبية",
+  "published": "2020-12-17",
+  "sub_indicator": "backbone",
+  "why": "NGBN Misrata links completed"
+ },
+ {
+  "url": "https://gtc.com.ly/",
+  "title": "Libya National Fiber Network Build",
+  "publisher": "Global Technology Company",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "GECOL 14,000 km fibre, wholesale carrier services"
+ },
+ {
+  "url": "https://freedomhouse.org/country/libya/freedom-net/2024",
+  "title": "Libya: Freedom on the Net 2024",
+  "publisher": "Freedom House",
+  "published": "2024",
+  "sub_indicator": "backbone",
+  "why": "Hatif Libya controls fibre backbone"
+ },
+ {
+  "url": "https://libyaherald.com/2024/11/follow-up-on-project-to-make-libya-a-global-digital-centre",
+  "title": "Follow up on project to make Libya a global digital centre",
+  "publisher": "Libya Herald",
+  "published": "2024-11-20",
+  "sub_indicator": "backbone",
+  "why": "Terrestrial fibre project pillar"
+ },
+ {
+  "url": "https://cjcconsultants.co.za/Tue-29-Oct-2024-2875.html",
+  "title": "Where are the fiber optic communication stations in Libya",
+  "publisher": "CJC Fibre Consultants",
+  "published": "2024-10-29",
+  "sub_indicator": "backbone",
+  "why": "60+ backbone stations (secondary)"
+ },
+ {
+  "url": "https://www.retelit.it/en/press/press-releases/2021/retelit-med-signs-agreement-with-lptic-for-the-supply-of-consulting-and-training-projects-in-the-ict-field",
+  "title": "Retelit MED signs agreement with LPTIC",
+  "publisher": "Retelit",
+  "published": "2021-09-27",
+  "sub_indicator": "backbone",
+  "why": "New fibre network plans"
+ },
+ {
+  "url": "https://www.africabandwidthmaps.com/?p=3414",
+  "title": "Libya: LPTIC's National Fibre Backbone Reaches 13,943-Km",
+  "publisher": "Africa Bandwidth Maps",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Backbone length and under construction"
+ }
+]

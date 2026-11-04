@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://pulse.internetsociety.org/en/ixp-tracker/country/CG/,fetched,,scripts/.workroot/study/exchangepoints/cache/COG/1.txt,296,html,IXP Tracker - Congo | ISOC Pulse
+2,https://www.internetsociety.org/wp-content/uploads/2023/05/CGIX.pdf,fetched,,scripts/.workroot/study/exchangepoints/cache/COG/2.txt,1063,pdf,
+3,https://cgix.cg/index.php/index.php/,fetched,,scripts/.workroot/study/exchangepoints/cache/COG/3.txt,260,html,Home
+4,https://cgix.cg/index.php/index.php/infrastructure.php,fetched,,scripts/.workroot/study/exchangepoints/cache/COG/4.txt,156,html,K2 Blog
+5,https://cgix.cg/index.php/index.php/membres%20nationaux.php,fetched,,scripts/.workroot/study/exchangepoints/cache/COG/5.txt,156,html,K2 Blog
+6,https://www.peeringdb.com/ix/1046,fetched,,scripts/.workroot/study/exchangepoints/cache/COG/6.txt,106,html,PeeringDB
+7,https://www.pch.net/ixp/details/1541,rejected,rejected 2026-08-29: not-a-document,,0,,

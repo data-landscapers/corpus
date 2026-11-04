@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "MIXP in Ebene, Mauritius, is listed with 22 peers and 107G total capacity, last updated 2022-08-08.",
+ "title": "MIXP - PeeringDB",
+ "publisher": "PeeringDB",
+ "published": "2022-08-08",
+ "date_source": "source",
+ "why_not": ""
+}

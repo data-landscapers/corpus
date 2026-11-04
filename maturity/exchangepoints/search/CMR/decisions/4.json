@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "CAMIX members get Google Global Cache and Akamai cache hosted at the exchange, with POPs in Douala and Yaoundé.",
+ "title": "Devenir membre du CAMIX : guide pratique pour FAI, hébergeur et opérateur",
+ "publisher": "CAMIX",
+ "published": "2026-02-18",
+ "date_source": "proxy",
+ "why_not": ""
+}

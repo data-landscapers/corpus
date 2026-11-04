@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://fr.linkedin.com/posts/karimattoumanimohamed_internetexchangepoint-ig-isoc-activity-7342309980080943105-UGf5",
+  "title": "ISOC Comores / ANADEN peering IXP day",
+  "publisher": "Karim Attoumani Mohamed (LinkedIn)",
+  "published": "2025-06-21",
+  "sub_indicator": "exchange",
+  "why": "IXP peering day, status of IXP"
+ },
+ {
+  "url": "https://fr.linkedin.com/posts/hassani-bacar-afretane-3507b0325_comores-internetsociety-technologie-activity-7319633327911489537-9_Wm",
+  "title": "Le PEERING et l'IXP aux Comores",
+  "publisher": "Hassani Bacar Afretane (LinkedIn)",
+  "published": "2025-04-20",
+  "sub_indicator": "exchange",
+  "why": "says national IXP would be a step: none in service"
+ },
+ {
+  "url": "https://www.internetsociety.org/fr/events/peering-roadshows/2025/guinea-bissau-3/",
+  "title": "Roadshow sur le peering en Comores",
+  "publisher": "Internet Society",
+  "published": "2025-04-07",
+  "sub_indicator": "exchange",
+  "why": "peering roadshow Comoros April 2025"
+ },
+ {
+  "url": "https://comorescables.km/Technologies",
+  "title": "Comores Câbles - Technologies",
+  "publisher": "Comores Câbles",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "IXP installed in Moroni between Comores Telecom and Yas"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/KM/",
+  "title": "IXP Tracker - Comoros",
+  "publisher": "ISOC Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "no active IXPs; <1% locally cached"
+ },
+ {
+  "url": "https://news.internetsociety.org/initiative-de-la-mise-en-place-dun-ixp-aux-comores/",
+  "title": "Initiative de la mise en place d'un IXP aux Comores",
+  "publisher": "Internet Society",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "IXP-KM design/charter"
+ },
+ {
+  "url": "https://minpoten.egouv.km/en/ministry/ministry-projects/",
+  "title": "Ministry projects",
+  "publisher": "Ministère des Postes, Comoros",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "National IXP planned"
+ },
+ {
+  "url": "https://map.au-pida.org/projects/show/8270001",
+  "title": "Comoros IXP",
+  "publisher": "PIDA PAP",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "IXP stage S4B construction 2017"
+ }
+]

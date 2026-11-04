@@ -1,0 +1,6 @@
+[
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/country/GM/","title":"IXP Tracker - Gambia","publisher":"Internet Society Pulse","published":"2026","sub_indicator":"exchange","why":"Q1: states no active IXPs in Gambia; <1% content cached locally"},
+{"url":"https://pura.gm/wp-content/uploads/2021/06/Annual-Report_2019.pdf","title":"PURA Annual Report 2019","publisher":"PURA","published":"2021","sub_indicator":"exchange","why":"Q2-3: SIXP hosts PCH, Google, Facebook caches; traffic almost doubled; 2019 figures"},
+{"url":"https://bgp.tools/ixp/SIXP%20Gambia","title":"SIXP Gambia","publisher":"bgp.tools","published":"2026","sub_indicator":"exchange","why":"Q2: members include Meta CDN at SIXP"},
+{"url":"https://www.afpif.org/wp-content/uploads/2017/10/Gambia-IXP-Experience-.pdf","title":"Gambia IXP Experience","publisher":"AfPIF","published":"2017","sub_indicator":"exchange","why":"Q1-2: SIXP only IXP, GGC servers planned (pre-2019, background)"}
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://news.internetsociety.org/ixp-peering-roadshow-and-workshop-concludes-successfully-in-juba-south-sudan/",
+  "title": "IXP Peering Roadshow and Workshop Concludes Successfully in Juba, South Sudan",
+  "publisher": "Internet Society",
+  "published": "2025-06",
+  "sub_indicator": "exchange",
+  "why": "NCA says SS-IXP is being established (Q1)"
+ },
+ {
+  "url": "https://map.au-pida.org/projects/show/20210001",
+  "title": "South Sudan IXP | PIDA PAP",
+  "publisher": "African Union PIDA",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "IXP project stage S4B construction (Q1)"
+ },
+ {
+  "url": "https://af-ix.org/ixps-list",
+  "title": "List of active Internet exchange points in Africa",
+  "publisher": "African IXP Association",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Active IXP list; no South Sudan entry (stated absence)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099060325110029686/pdf/P176181-3f16522b-fefc-4031-a8ca-3bc3d3b02e72.pdf",
+  "title": "EARDIP South Sudan reports and financial statements FY2024",
+  "publisher": "Ministry of ICT&PS / World Bank",
+  "published": "2024",
+  "sub_indicator": "exchange",
+  "why": "EARDIP funds IXP development (Q1)"
+ }
+]

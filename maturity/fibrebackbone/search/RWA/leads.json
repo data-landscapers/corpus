@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://btw.media/en/kt-rwanda-networks-rwandas-wholesale-4g-fibre-backbone",
+  "title": "KT Rwanda Networks: Rwanda's wholesale 4G & fibre backbone",
+  "publisher": "btw.media",
+  "published": "2025-08-27",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q3/Q4: 4,000 km all districts, wholesale"
+ },
+ {
+  "url": "https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf",
+  "title": "ICT Sector Strategic Plan (2024-2029)",
+  "publisher": "MINICT",
+  "published": "2024",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q2: 21,847 km fibre; extend backbone"
+ },
+ {
+  "url": "https://www.ktrn.rw/_files/ugd/bf402c_ec63259a69a6491d9d5375bc925bf7a7.pdf",
+  "title": "KT Rwanda Networks document",
+  "publisher": "KT Rwanda Networks",
+  "published": "2024-08",
+  "sub_indicator": "backbone",
+  "why": "Q4: wholesale fixed services on national fibre"
+ },
+ {
+  "url": "https://www.wto.org/english/tratop_e/serv_e/rwanda-report-digital-trade-for-africa-initiative_e.pdf",
+  "title": "Rwanda (Digital Trade for Africa)",
+  "publisher": "WTO",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Q4: open access backbone leasing"
+ },
+ {
+  "url": "https://www.ppiaf.org/sites/default/files/documents/2020-01/Rwanda_Broadband_Assessment_Report_2020.pdf",
+  "title": "Final Baseline Assessment",
+  "publisher": "Salience Consulting / PPIAF",
+  "published": "2020-01",
+  "sub_indicator": "backbone",
+  "why": "Q3/Q4: backbones in all 30 districts, sell capacity"
+ },
+ {
+  "url": "https://bsc.rw/who-we-are/",
+  "title": "Who We Are",
+  "publisher": "BroadBand Systems Corporation",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Q3: 30 districts"
+ },
+ {
+  "url": "https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2026/09/GSMA-Rwanda-Digital-Economy-French.pdf",
+  "title": "Rwanda digital economy",
+  "publisher": "GSMA",
+  "published": "2026-09",
+  "sub_indicator": "backbone",
+  "why": "history of national backbone"
+ }
+]

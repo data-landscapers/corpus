@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ecofinagency.com/news-digital/2610-60128-djibouti-reviews-progress-on-30-million-in-world-bank-funded-digital-projects",
+  "title": "Djibouti Reviews Progress on $30 Million in World Bank-Funded Digital Projects",
+  "publisher": "Ecofin Agency",
+  "published": "2026-10-26",
+  "sub_indicator": "backbone",
+  "why": "Q1: fibre loops to Dikhil, Tadjourah, Obock planned"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/ethio-telecom-djibouti-telecom-and-sudatel-advance-horizon-fibre-corridor-to-commercial-launch--1582328",
+  "title": "Horizon Fibre Corridor to commercial launch",
+  "publisher": "Telecompaper",
+  "published": "2026-09-10",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q4: cross-border corridor status"
+ },
+ {
+  "url": "https://international.djiboutitelecom.dj/djibouti-telecom-ethio-telecom-and-sudatel-sign-tripartite-agreement-for-horizon/",
+  "title": "Tripartite Agreement for HORIZON Fiber Initiative",
+  "publisher": "Djibouti Telecom",
+  "published": "2026-02-04",
+  "sub_indicator": "backbone",
+  "why": "Q1: terrestrial fibre corridor agreement"
+ },
+ {
+  "url": "https://www.adi.dj/article/13218",
+  "title": "Djibouti mise sur la fibre optique pour transformer ses services publics",
+  "publisher": "ADI",
+  "published": "2025-06-25",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q3: fibre in Arta and Ali Sabieh, 200 km"
+ },
+ {
+  "url": "https://www.lanation.dj/transition-numerique-les-parties-prenantes-mobilisees-autour-des-projets-dfn-et-eardip/",
+  "title": "Transition numérique : les parties prenantes mobilisées autour des projets DFN et EARDIP",
+  "publisher": "La Nation",
+  "published": "2025-07-30",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q3: fibre in five interior regions, north corridor"
+ },
+ {
+  "url": "https://www.wearetech.africa/fr/fils/actualites/telecom/djibouti-peaufine-sa-strategie-pour-developper-le-haut-debit",
+  "title": "Djibouti peaufine sa stratégie pour développer le haut débit",
+  "publisher": "We Are Tech",
+  "published": "2024-10-18",
+  "sub_indicator": "backbone",
+  "why": "Q1: 250 km fibre in north"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099450206282323160/pdf/IDU00f2d51f40fd4a04e630b0b60d27b1a4f548b.pdf",
+  "title": "World Bank Horn of Africa broadband document",
+  "publisher": "World Bank",
+  "published": "2023",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q3: ring Djibouti City-Ali Sabieh, northern gap"
+ },
+ {
+  "url": "https://freetender.net/tender/fourniture-installation-configuration-et-mise-en-service-de-connexions-internet-en-fibre-o-op00471477",
+  "title": "Fibre optic connections Balbala/Regions contract award",
+  "publisher": "World Bank procurement via FreeTender",
+  "published": "2026-08-10",
+  "sub_indicator": "backbone",
+  "why": "Q1: contract awarded to Djibouti Telecom"
+ }
+]

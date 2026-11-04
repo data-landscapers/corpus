@@ -1,0 +1,5 @@
+[
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/ixp/368/","title":"IXP Tracker - Windhoek Internet Exchange Point - IXP Namibia","publisher":"Internet Society Pulse","published":"2026-08","sub_indicator":"exchange","why":"Q2/Q3/Q5: IXP in service, 6 members, 23 Gbps, members from Mauritius and US"},
+{"url":"https://www.peeringdb.com/ix/922","title":"IXP Namibia - PeeringDB","publisher":"PeeringDB","published":"2023-10","sub_indicator":"exchange","why":"Q2/Q3: exchange in service; member list shows no content network"},
+{"url":"https://www.pch.net/ixp/details/1784","title":"WHKIX | PCH","publisher":"Packet Clearing House","published":"","sub_indicator":"exchange","why":"Q2: exchange active since 2014, Windhoek only"}
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach;access",
+ "fact": "The strategy lists SDIN axes Nouakchott-Choum, Rosso-Kiffa and Aioun-Nema with 48 fibres and used capacity, wholesale-marketed by IMT to operators.",
+ "title": "Stratégie pour la commercialisation des capacités excédentaires de connectivité vers les pays de la région",
+ "publisher": "MTNIMA / Progressus Corporation",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

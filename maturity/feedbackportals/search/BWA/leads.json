@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.mmegi.bw/news/parly-launches-bwspeaks/news",
+  "title": "Parly launches BWSpeaks",
+  "publisher": "Mmegi",
+  "published": "2022-07-29",
+  "sub_indicator": "feedback",
+  "why": "Q1 platform launch"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/73999",
+  "title": "Ombudsman resets systems",
+  "publisher": "Daily News",
+  "published": "2023-07-10",
+  "sub_indicator": "feedback",
+  "why": "Q1 Ombudsman SMS/WhatsApp/portal complaints"
+ },
+ {
+  "url": "https://www.mmegi.bw/news/ombudsman-case-resolution-remains-below-40/news",
+  "title": "Ombudsman case resolution remains below 40%",
+  "publisher": "Mmegi",
+  "published": "2024-03-11",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q4 complaint numbers and resolution"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/78872",
+  "title": "Botswana Speaks (Daily News)",
+  "publisher": "Daily News",
+  "published": "2024-04-08",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q3 Botswana Speaks relays to ministries"
+ },
+ {
+  "url": "https://www.botswanaspeaks.gov.bw/article/6/botswana-speaks-system-upgrade",
+  "title": "BOTSWANA SPEAKS SYSTEM UPGRADE",
+  "publisher": "Botswana Speaks",
+  "published": "2024-05-23",
+  "sub_indicator": "feedback",
+  "why": "Q2 platform upgrade with old cases"
+ },
+ {
+  "url": "https://www.africa-press.net/botswana/all-news/ombudsman-provides-remedies-for-injustices",
+  "title": "Ombudsman Provides Remedies for Injustices",
+  "publisher": "Africa-Press",
+  "published": "2025-03-15",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q4 complaints received and resolved"
+ },
+ {
+  "url": "https://weekendpost.co.bw/over-1300-new-cases-submitted-to-the-office-of-the-ombudsman/",
+  "title": "Over 1,300 new cases submitted to the Office of the Ombudsman",
+  "publisher": "Weekend Post",
+  "published": "2026-03-17",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q4 cases and resolution rate"
+ },
+ {
+  "url": "https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/",
+  "title": "Botswana Advances Digital Government with 1Gov-1Citizen Platform Upgrade",
+  "publisher": "TechAfrica News",
+  "published": "2026-03-18",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q3 1Gov platform"
+ }
+]

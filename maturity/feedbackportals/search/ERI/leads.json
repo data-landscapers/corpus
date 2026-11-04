@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://eritel.com.er/internet_complaint_hub.php?id=1041",
+  "title": "Internet Complaint Hub",
+  "publisher": "Eritel",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Operator complaint web form"
+ },
+ {
+  "url": "https://digitalidentityindex.com/countries/eritrea/govtech/",
+  "title": "Eritrea - The Global Digital Identity Index",
+  "publisher": "Global Digital Identity Index",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "No government feedback platform"
+ },
+ {
+  "url": "https://eritreamonitorcenter.org/%d8%a5%d8%b1%d9%8a%d8%aa%d8%b1%d9%8a%d8%a7-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%a7%d9%84%d8%b4%d8%a8%d9%83%d8%a9-%d8%af%d9%88%d9%84%d8%a9-%d8%a8%d9%84%d8%a7-%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a5%d9%84%d9%83/",
+  "title": "إريتريا خارج الشبكة: دولة بلا حكومة إلكترونية",
+  "publisher": "رصد اريتريا",
+  "published": "2025-10-01",
+  "sub_indicator": "feedback",
+  "why": "No e-government channels"
+ },
+ {
+  "url": "https://iqgov.news/country/eri/",
+  "title": "Eritrea e-government: UN rank 190 of 193",
+  "publisher": "IQGov",
+  "published": "2026-10",
+  "sub_indicator": "feedback",
+  "why": "No national portal"
+ }
+]

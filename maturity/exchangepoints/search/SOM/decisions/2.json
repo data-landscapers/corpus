@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The World Bank states Somalia's first IXP, set up in Mogadishu in 2018 at the Dalkom landing station, remains inactive, with Google caches in Mogadishu and Hargeisa and Meta caches in Hargeisa, Bosaso and Mogadishu.",
+ "title": "Somalia Digital Economy Diagnostic",
+ "publisher": "World Bank Group",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/GQ/",
+  "title": "IXP Tracker - Equatorial Guinea",
+  "publisher": "ISOC Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1: states no active IXPs in Equatorial Guinea; cache share <1%"
+ },
+ {
+  "url": "https://www.internetsociety.org/wp-content/uploads/2020/05/PRESENTACION-OSIANE-IXP.pdf",
+  "title": "COVID-19 et le peering public en Afrique centrale",
+  "publisher": "Internet Society",
+  "published": "2020-05",
+  "sub_indicator": "exchange",
+  "why": "Q1: Guinée Equatoriale has 0 IXPs (stated absence)"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/ixp-nigeria-598367274_the-internet-exchange-point-of-nigeria-ixpn-activity-7237141547366924290-oeLa",
+  "title": "IXPN welcomes GITGE to its fabric",
+  "publisher": "IXP Nigeria",
+  "published": "2024-09-04",
+  "sub_indicator": "exchange",
+  "why": "Q4: GITGE peers at a foreign exchange (Lagos); no domestic IXP"
+ },
+ {
+  "url": "https://www.peeringdb.com/net/13940",
+  "title": "AS37529 GITGE - PeeringDB",
+  "publisher": "PeeringDB",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: GITGE present only at foreign IXPs; Malabo is a facility only"
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.lanation.dj/signal-conso-2020-un-numero-vert-pour-mieux-proteger-les-consommateurs/",
+  "title": "Signal Conso 2020, un numéro vert pour mieux protéger les consommateurs",
+  "publisher": "La Nation",
+  "published": "2026-05-12",
+  "sub_indicator": "feedback",
+  "why": "Q1: government launches consumer reporting channel"
+ },
+ {
+  "url": "https://adi.dj/article/139016",
+  "title": "Réclamations des citoyens : la Médiature mobilise les points focaux des ministères",
+  "publisher": "ADI",
+  "published": "2026-10-20",
+  "sub_indicator": "feedback",
+  "why": "Q3: ministry focal points for citizen complaints"
+ },
+ {
+  "url": "https://www.cndhd.dj/detailPage/9",
+  "title": "Plainte - Commission Nationale des Droits de l'Homme",
+  "publisher": "CNDH Djibouti",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q2: online complaint platform"
+ },
+ {
+  "url": "https://www.doleances.arulos.dj/",
+  "title": "E-DOLEANCES ARULoS",
+  "publisher": "ARULoS",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q2: sector complaints platform"
+ }
+]

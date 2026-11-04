@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://expressodasilhas.cv/empresas-negocios/2024/12/06/cvtelecom-lanca-concurso-publico-internacional-para-substituicao-do-cabo-submarino-inter-ilhas/94582",
+  "title": "CVTelecom lanca concurso publico internacional ... Inter-ilhas",
+  "publisher": "Expresso das Ilhas",
+  "published": "2024-12-06",
+  "sub_indicator": "backbone",
+  "why": "ring reaches all inhabited islands"
+ },
+ {
+  "url": "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/17726-cabo-verde-telecom-announces-tender-for-inter-island-fibre-project.html",
+  "title": "Cabo Verde Telecom announces tender for inter-island fibre project",
+  "publisher": "Developing Telecoms",
+  "published": "2024-12-09",
+  "sub_indicator": "backbone",
+  "why": "tender"
+ },
+ {
+  "url": "https://ojeu.com/ojdblnk/view-notice.php?id=4243896",
+  "title": "OJEU 040165-2025 CSII4",
+  "publisher": "OJEU",
+  "published": "2025-01-21",
+  "sub_indicator": "backbone",
+  "why": "tender notice"
+ },
+ {
+  "url": "https://expressodasilhas.cv/politica/2023/11/14/oe2024-governo-vai-substituir-rede-de-fibra-optica-entre-as-ilhas/88635",
+  "title": "OE2024: Governo vai substituir rede de fibra optica entre as ilhas",
+  "publisher": "Expresso das Ilhas / Inforpress",
+  "published": "2023-11-14",
+  "sub_indicator": "backbone",
+  "why": "replacement plan"
+ },
+ {
+  "url": "https://www.mf.gov.cv/-/vis%C3%A3o-de-desenvolvimento-da-rede-e-infraestruturas-de-comunica%C3%A7%C3%B5es-de-cabo-verde-e-seu-alinhamento-com-a-estrat%C3%A9gia-do-pa%C3%ADs-para-o-setor-1",
+  "title": "Visao de desenvolvimento da rede e infraestruturas de comunicacoes",
+  "publisher": "Ministerio das Financas",
+  "published": "2020-07-28",
+  "sub_indicator": "backbone",
+  "why": "backbone modernised 2018"
+ },
+ {
+  "url": "https://sigtel.ecowas.int/national-mobile-broadband-coverage/",
+  "title": "National Mobile Network Broadband Coverage",
+  "publisher": "ECOWAS SIGTEL",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "terrestrial and submarine fibre"
+ },
+ {
+  "url": "https://www.eib.org/en/projects/all/20220836",
+  "title": "Cabo Verde Regional Digital Connectivity",
+  "publisher": "EIB",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "inter-island replacement financing"
+ }
+]

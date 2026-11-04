@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "access",
+ "fact": "In December 2019 a decree authorised a second backbone operator; until then Telma alone resold national fibre capacity to other operators at a state-capped price.",
+ "title": "TÉLÉCOMMUNICATIONS – La fin du monopole sur la fibre optique en marche",
+ "publisher": "2424.mg",
+ "published": "2019-12",
+ "date_source": "source",
+ "why_not": ""
+}

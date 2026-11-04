@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "As of November 2026 Rwanda has one active IXP, in Kigali, and 60% of the 1000 most visited sites in Rwanda are reachable through a local server or cache.",
+ "title": "IXP Tracker - Rwanda",
+ "publisher": "ISOC Pulse",
+ "published": "2026-11",
+ "date_source": "source",
+ "why_not": ""
+}

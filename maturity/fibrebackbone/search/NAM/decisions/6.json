@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach",
+ "fact": "Telecom Namibia's 2022/23 annual report says its national fibre backbone is 10,676 km, 65.2% of national coverage, with 67.6 km added at Oranjemund.",
+ "title": "Annual Report 2022/23",
+ "publisher": "Telecom Namibia",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "On 11 November 2025 Teraco reported NAPAfrica at 6Tbps with 680 networks, with Akamai, Amazon, Cloudflare, Google, Meta, Microsoft, Netflix and TikTok peering, exchange points in Cape Town and Durban as well as Johannesburg, and Netflix Open Connect caches in Cape Town and Durban.",
+ "title": "NAPAfrica and Teraco ACX growing Africa’s digital community as NAPAfrica hits 6Tbps",
+ "publisher": "Teraco",
+ "published": "2025-11-11",
+ "date_source": "source",
+ "why_not": ""
+}

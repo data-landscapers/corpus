@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "access",
+ "fact": "The World Bank says Ethiopia has around 22,000 km of fibre in total and that the electricity company EEP has leased over 10,000 km of overlay fibre to EthioTel, Safaricom and Websprix, forming the backbone.",
+ "title": "Ethiopia Telecom Market Assessment",
+ "publisher": "World Bank Group",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

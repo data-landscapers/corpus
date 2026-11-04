@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://inwi.ma/en/wholesale/our-network",
+  "title": "Opérateur inwi - Wholesale our network",
+  "publisher": "inwi",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q4: 9000 km fibre, backbone, wholesale"
+ },
+ {
+  "url": "https://www.iam.ma/w/groupe-maroc-telecom/maroc-telecom-et-inwi-annoncent-uni-fiber-uni-tower",
+  "title": "Maroc Telecom et Inwi annoncent la constitution de Uni Fiber et Uni Tower",
+  "publisher": "Maroc Telecom",
+  "published": "2025-06-26",
+  "sub_indicator": "backbone",
+  "why": "Q4: open access passive fibre JV"
+ },
+ {
+  "url": "https://www.moroccoworldnews.com/2025/03/184233/anrt-mandates-fiber-optic-network-sharing-among-telecom-operators/",
+  "title": "ANRT Mandates Fiber Optic Network Sharing Among Telecom Operators",
+  "publisher": "Morocco World News",
+  "published": "2025-03-15",
+  "sub_indicator": "backbone",
+  "why": "Q4: wholesale sharing mandate (FTTH)"
+ }
+]

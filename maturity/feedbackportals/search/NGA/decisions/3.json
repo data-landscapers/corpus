@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "feedback",
+ "aspect": "channel;results",
+ "fact": "PCC said it has handled 1,802,267 complaints in 50 years, resolving 1,279,489, with 522,778 under review.",
+ "title": "PCC celebrates 50 years, says it has resolved Over 1.2m cases",
+ "publisher": "Vanguard",
+ "published": "2025-10-16",
+ "date_source": "source",
+ "why_not": ""
+}

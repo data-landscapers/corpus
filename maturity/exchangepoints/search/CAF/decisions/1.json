@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The World Bank-financed contract to supply and install the national Internet Exchange Point (IXP-RCA) was awarded to SESA TECH with notification issued 13 April 2026, a three-month contract.",
+ "title": "Awarded to SESA TECH: Supply, installation, configuration, commissioning, training, documentation and maintenance plan for the deployment of the National Internet Exchange Point (IXP-RCA)",
+ "publisher": "BidsFactory (World Bank notice)",
+ "published": "2026-05-12",
+ "date_source": "source",
+ "why_not": ""
+}

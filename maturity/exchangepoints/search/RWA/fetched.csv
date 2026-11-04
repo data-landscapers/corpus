@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ixreport.com/ix/1032/,fetched,,scripts/.workroot/study/exchangepoints/cache/RWA/1.txt,2193,html,RINEX
+2,https://pulse.internetsociety.org/en/ixp-tracker/ixp/401/,fetched,,scripts/.workroot/study/exchangepoints/cache/RWA/2.txt,1063,html,IXP Tracker - Rwanda Internet Exchange - RINEX | ISOC Pulse
+3,https://pulse.internetsociety.org/fr/ixp-tracker/country/RW/,fetched,,scripts/.workroot/study/exchangepoints/cache/RWA/3.txt,337,html,IXP Tracker - Rwanda | ISOC Pulse
+4,https://www.peeringdb.com/ix/1032,fetched,,scripts/.workroot/study/exchangepoints/cache/RWA/4.txt,144,html,PeeringDB
+5,https://portal.rinex.org.rw/customer/details,fetched,,scripts/.workroot/study/exchangepoints/cache/RWA/5.txt,273,html,RINEX User Portal
+6,https://www.afpif.org/share-your-experience-with-the-community/handshake-agreements-at-afpif-helped-bring-caches-to-rwanda/,fetched,,scripts/.workroot/study/exchangepoints/cache/RWA/6.txt,350,html,Handshake Agreements at AfPIF Helped Bring Caches to Rwanda
+7,https://af-ix.org/sites/default/files/05%20-%20Ghislain%20Nkeramugaba%20-%20Content%20Delivery%20Networks.pdf,fetched,,scripts/.workroot/study/exchangepoints/cache/RWA/7.txt,434,pdf,PowerPoint Presentation
+8,https://nmrtg.rinex.org.rw/rinex_aggregate_traffic.html,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked",,0,,

@@ -1,0 +1,8 @@
+[
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/country/SD/","title":"IXP Tracker - Sudan","publisher":"ISOC Pulse","published":"2026-10","sub_indicator":"exchange","why":"Q1/Q4: one active IXP in Khartoum, 4 members, 2% locally cached content"},
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/ixp/660/","title":"IXP Tracker - SIXP Sudan","publisher":"ISOC Pulse","published":"2026-08","sub_indicator":"exchange","why":"Q1/Q4: members Sudatel, Zain, PCH; foreign members"},
+{"url":"https://onlinejournals.uofk.edu/kuej/en/article/download/1365/1201/1271","title":"Forecasting of Data Traffic in Sudan Internet Exchange Point Using ARIMA","publisher":"Karary University / UofK journals","published":"2021","sub_indicator":"exchange","why":"Q3: SIXP traffic 2017-2019"},
+{"url":"https://af-ix.org/ixps-list","title":"List of active Internet exchange points in Africa","publisher":"Africa IXP Association","published":"2026","sub_indicator":"exchange","why":"Q1: SIXP Khartoum listed active"},
+{"url":"https://www.pch.net/ixp/details/1312","title":"SIXP","publisher":"Packet Clearing House","published":"","sub_indicator":"exchange","why":"Q1: PCH lists status Defunct"},
+{"url":"https://af-ix.org/sites/default/files/AFIX%202016%20-%2002%20-%20Sudan%20IXP%20-%20Introduction.pdf","title":"Sudan Exchange Point (SIXP) as Regional IXP","publisher":"Micronet / AF-IX","published":"2016","sub_indicator":"exchange","why":"Q1: stated absence/history, pre-2019"}
+]

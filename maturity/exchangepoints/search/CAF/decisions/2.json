@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Pulse's table lists the Central African Republic with no IXP data, no networks peering at IXPs and only 3 active networks.",
+ "title": "Central Africa's Improved Peering Landscape Can Benefit From Local Content",
+ "publisher": "ISOC Pulse",
+ "published": "2024-08-20",
+ "date_source": "source",
+ "why_not": ""
+}

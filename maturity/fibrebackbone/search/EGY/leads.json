@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://gate.ahram.org.eg/News/5943764.aspx",
+  "title": "اتصالات النواب تطالب باستكمال البنية التحتية للإنترنت بالمحافظات",
+  "publisher": "Al-Ahram Gate",
+  "published": "2026-10-12",
+  "sub_indicator": "backbone",
+  "why": "Q1,Q3: TE fibre budget; parliament asks fibre to all governorates"
+ },
+ {
+  "url": "https://www.technotime.net/14935",
+  "title": "Telecom Egypt completes fibre in more than 1250 Decent Life villages",
+  "publisher": "Techno Time",
+  "published": "2026-06-30",
+  "sub_indicator": "backbone",
+  "why": "Q1,Q2: fibre works in 20 governorates"
+ },
+ {
+  "url": "https://ir.te.eg/en/CorporateNews/PressRelease/209/Telecom-Egypt-and-Vodafone-Egypt-Strengthen-Strategic-Partnership-with-New-Service-Agreements",
+  "title": "Telecom Egypt and Vodafone Egypt Strengthen Strategic Partnership",
+  "publisher": "Telecom Egypt",
+  "published": "2024-11-11",
+  "sub_indicator": "backbone",
+  "why": "Q4: Vodafone leases TE fibre network"
+ },
+ {
+  "url": "https://www.mobileeurope.co.uk/orange-egypt-signs-egp-15-bn-wholesale-fibre-deals-with-telecom-egypt/",
+  "title": "Orange Egypt signs EUR284m wholesale fibre deals with Telecom Egypt",
+  "publisher": "Mobile Europe",
+  "published": "2025-02-20",
+  "sub_indicator": "backbone",
+  "why": "Q4: Orange buys transmission and fibre backhaul"
+ },
+ {
+  "url": "https://ir.te.eg/ar/CorporateNews/PressRelease/202/",
+  "title": "المصرية للاتصالات ومجموعة 4iG تتعاونان في تطوير شبكات الألياف الضوئية",
+  "publisher": "Telecom Egypt",
+  "published": "2024-07-01",
+  "sub_indicator": "backbone",
+  "why": "Q1,Q4: wholesale fibre JV"
+ },
+ {
+  "url": "https://www.cairo24.com/2072111",
+  "title": "وزير الاتصالات: شراكات بين القطاعين الحكومي والخاص لمد شبكة الألياف الضوئية بكافة المحافظات",
+  "publisher": "Cairo24",
+  "published": "2024-09-02",
+  "sub_indicator": "backbone",
+  "why": "Q1,Q3: fibre to all governorates"
+ },
+ {
+  "url": "https://www.almezan.news/232878",
+  "title": "المصرية للاتصالات: انتهينا من توصيل الفايبر لـ56% من مناطق الجمهورية",
+  "publisher": "Al-Mizan News",
+  "published": "2023-11-07",
+  "sub_indicator": "backbone",
+  "why": "Q2: fibre 56% of areas"
+ },
+ {
+  "url": "https://gate.ahram.org.eg/News/4678488.aspx",
+  "title": "الاتصالات: 150 مليار جنيه لإحلال شبكات النحاس بكابلات الألياف الضوئية",
+  "publisher": "Al-Ahram Gate",
+  "published": "2024-01-16",
+  "sub_indicator": "backbone",
+  "why": "Q1: EGP150bn fibre plan across republic"
+ }
+]

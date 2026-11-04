@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach",
+ "fact": "GITGE states its National Trunk Network connects 19 cities, 3 on Bioko and 16 on the continental region.",
+ "title": "National Fiber Optic Network (RNFO cable)",
+ "publisher": "GITGE",
+ "published": "2020-08-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

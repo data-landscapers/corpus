@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.journalduniger.com/niger-algerie-fibre-optique-agadez-in-guezzam/",
+  "title": "Niger-Algérie : un lien fibre de 100 Gbit/s va raccorder Agadez à la dorsale numérique transsaharienne",
+  "publisher": "Journal du Niger",
+  "published": "2026-09-09",
+  "sub_indicator": "backbone",
+  "why": "Q1: new Agadez-In Guezzam link agreed"
+ },
+ {
+  "url": "https://mcnti.gouv.ne/souverainete-et-integration-numerique-lancement-de-lexploitation-de-la-liaison-transsaharienne-en-fibre-optique-niger-algerie-a-assamaka/",
+  "title": "Souveraineté et intégration numérique : Lancement de l'exploitation de la liaison transsaharienne ... à Assamaka",
+  "publisher": "MCNTI",
+  "published": "2026-10-07",
+  "sub_indicator": "backbone",
+  "why": "Q2: Niger-Algeria link in operation"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/0610-142169-interconnexion-avec-l-algerie-le-niger-accelere-son-desenclavement-numerique",
+  "title": "Interconnexion avec l'Algérie : le Niger accélère son désenclavement numérique",
+  "publisher": "Agence Ecofin",
+  "published": "2026-10-06",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q2: DTS 1,031 km five axes"
+ },
+ {
+  "url": "https://www.afdb.org/en/news-and-events/press-releases/niger-takes-major-step-towards-high-speed-connectivity-handover-over-1000-km-fibre-optic-cable-88768",
+  "title": "Niger takes a major step towards high-speed connectivity with handover of over 1,000 km of fibre-optic cable",
+  "publisher": "African Development Bank",
+  "published": "2025-11-20",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q2: provisional acceptance 14 Nov 2025"
+ },
+ {
+  "url": "https://anp.ne/niger-reception-provisoire-des-troncons-du-projet-de-la-dorsale-transsaharienne-a-fibre-optique/",
+  "title": "Niger : Réception provisoire des tronçons du projet de la dorsale transsaharienne à fibre optique",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2025-11-14",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q2: sections 100% complete"
+ },
+ {
+  "url": "https://www.latribune.fr/article/afrique/6030907088105514/le-niger-aborde-une-nouvelle-ere-de-connectivite-avec-la-dorsale-transsaharienne-a-fibre-optique",
+  "title": "Le Niger aborde une nouvelle ère de connectivité avec la dorsale transsaharienne à fibre optique",
+  "publisher": "La Tribune Afrique",
+  "published": "2025-11-27",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q2"
+ },
+ {
+  "url": "https://www.lesahel.org/ouverture-de-la-2e-reunion-du-comite-de-pilotage-du-projet-dts-fo-le-point-sur-letat-davancement-des-travaux-des-difficultes-rencontrees-et-des-solutions-envisagees/",
+  "title": "Ouverture de la 2è réunion du comité de pilotage du projet DTS/FO",
+  "publisher": "Le Sahel (ONEP)",
+  "published": "2025-01-30",
+  "sub_indicator": "backbone",
+  "why": "Q1: works nearly complete"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/niger_-_dorsale_transsaharienne_a_fibre_optique_dts_-_p-z1-gb0-024_-_eer_octobre_2024.pdf",
+  "title": "Niger - Dorsale Transsaharienne à fibre optique (DTS) - Rapport sur l'état d'exécution, octobre 2024",
+  "publisher": "African Development Bank",
+  "published": "2025-02-04",
+  "sub_indicator": "backbone",
+  "why": "Q1: 957 of 1,031 km built"
+ }
+]

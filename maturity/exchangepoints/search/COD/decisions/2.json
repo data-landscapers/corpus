@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "KINIX, opened November 2012, grew local traffic from a few Mbps to close to 80 Gbps over ten years, per the Internet Society's February 2024 post.",
+ "title": "How IXPs Helped Reshape the Internet in the DRC",
+ "publisher": "Internet Society",
+ "published": "2024-02-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "ISPA-DRC's August 2024 AfPIF slides give peak traffic of 84 Gbps at KINIX, 50 Gbps at LUBIX and 31 Gbps at GOMIX, with local CDN caches at the IXPs.",
+ "title": "ISPA-DRC's cache-fill cost sharing model",
+ "publisher": "ISPA-DRC (AfPIF 2024)",
+ "published": "2024-08",
+ "date_source": "source",
+ "why_not": ""
+}

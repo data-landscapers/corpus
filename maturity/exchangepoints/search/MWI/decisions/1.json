@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "As of March 2024 the Malawi Internet Exchange, operating since 2008, keeps local traffic local and hosts Google, Facebook and Akamai CDN caches, with about 1.1 Gbps of traffic across the MIX connection.",
+ "title": "MISPA presentation at ITU-MACRA cost models workshop",
+ "publisher": "Malawi Internet Service Providers' Association (MISPA)",
+ "published": "2024-04",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://anrt.ma/a-propos/communiques/mise-en-place-dun-point-dechange-internet",
+  "title": "Mise en place d'un point d'échange Internet",
+  "publisher": "ANRT",
+  "published": "2023-12-21",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: national IXP contract, three sites"
+ },
+ {
+  "url": "https://lematin.ma/economie/mise-en-place-dun-point-dechange-internet-ixp-au-maroc/205916",
+  "title": "Mise en place d'un point d'échange Internet IXP au Maroc",
+  "publisher": "Le Matin",
+  "published": "2023-12-22",
+  "sub_indicator": "exchange",
+  "why": "Q1: IXP contract, Casablanca datacenter"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/MA/",
+  "title": "IXP Tracker - Morocco",
+  "publisher": "Internet Society Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: two IXPs in Casablanca and Fez"
+ },
+ {
+  "url": "https://www.mtds.com/about-us/history/",
+  "title": "History - MTDS",
+  "publisher": "MTDS",
+  "published": "2024-04",
+  "sub_indicator": "exchange",
+  "why": "Q1: MARIX in Rabat since 2016"
+ }
+]

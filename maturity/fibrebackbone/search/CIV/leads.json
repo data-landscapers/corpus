@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://digitalmag.ci/telecom-cote-divoire-32-780-km-de-fibre-optique-en-2025/",
+  "title": "32.780 km de fibre optique, en 2025",
+  "publisher": "Digital Mag",
+  "published": "2026-02-11",
+  "sub_indicator": "backbone",
+  "why": "in service km"
+ },
+ {
+  "url": "https://digitalmag.ci/cote-divoire-un-reseau-national-haut-debit-de-1500-km-deploye-en-2025/",
+  "title": "Un Réseau national haut débit de 1500 km déployé en 2025",
+  "publisher": "Digital Mag",
+  "published": "2024-09-11",
+  "sub_indicator": "backbone",
+  "why": "RNHD activation"
+ },
+ {
+  "url": "https://digitalmag.ci/services-telecoms-les-acquis-du-desenclavement-numerique-de-la-cote-divoire-ansut/",
+  "title": "Les acquis du désenclavement numérique (ANSUT)",
+  "publisher": "Digital Mag",
+  "published": "2024-09-19",
+  "sub_indicator": "backbone;access",
+  "why": "5476 km, 2245 km operated by operators"
+ },
+ {
+  "url": "https://www.economie-ivoirienne.ci/en/activites-sectorielles/infrastructures.html",
+  "title": "Infrastructures",
+  "publisher": "Direction Générale de l'Economie",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "30000 km end 2023"
+ },
+ {
+  "url": "https://initiativesafrica.com/observatoire-telecoms-numerique/pays/cote-divoire.html",
+  "title": "Côte d'Ivoire - Observatoire",
+  "publisher": "Initiatives Africa",
+  "published": "2025",
+  "sub_indicator": "backbone",
+  "why": "24764 km"
+ },
+ {
+  "url": "https://doi.org/10.1596/36044",
+  "title": "Feasibility Study to Connect All African Higher Education Institutions",
+  "publisher": "World Bank",
+  "published": "2021-07-16",
+  "sub_indicator": "backbone",
+  "why": "RNHD phases completed 2018"
+ },
+ {
+  "url": "https://adi.a4ai.org/studies/laying-the-foundations-for-connectivity/",
+  "title": "Laying the foundations for connectivity",
+  "publisher": "A4AI",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "RNHD all regions"
+ }
+]

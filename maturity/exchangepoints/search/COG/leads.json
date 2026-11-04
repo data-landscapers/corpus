@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/CG/",
+  "title": "IXP Tracker - Congo",
+  "publisher": "Internet Society Pulse",
+  "published": "2026-10",
+  "sub_indicator": "exchange",
+  "why": "One active IXP, 9 members; local cache share"
+ },
+ {
+  "url": "https://www.internetsociety.org/wp-content/uploads/2023/05/CGIX.pdf",
+  "title": "PRESENTATION DU POINT (CGIX)",
+  "publisher": "ARPCE / Internet Society",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "History, members, traffic 2013-2022"
+ },
+ {
+  "url": "https://cgix.cg/index.php/index.php/",
+  "title": "Site web du CGIX",
+  "publisher": "CGIX / ARPCE",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Members connected and traffic"
+ },
+ {
+  "url": "https://cgix.cg/index.php/index.php/infrastructure.php",
+  "title": "Services du CGIX",
+  "publisher": "CGIX / ARPCE",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Points of presence: only Brazzaville functional"
+ },
+ {
+  "url": "https://cgix.cg/index.php/index.php/membres%20nationaux.php",
+  "title": "Membres nationaux du CGIX",
+  "publisher": "CGIX / ARPCE",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Member list"
+ },
+ {
+  "url": "https://www.peeringdb.com/ix/1046",
+  "title": "CGIX-BZV - PeeringDB",
+  "publisher": "PeeringDB",
+  "published": "2024-11",
+  "sub_indicator": "exchange",
+  "why": "Peers and capacity"
+ },
+ {
+  "url": "https://www.pch.net/ixp/details/1541",
+  "title": "CGIX-BZV",
+  "publisher": "Packet Clearing House",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Established 2013, active"
+ }
+]

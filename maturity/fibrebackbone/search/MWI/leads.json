@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://mwnation.com/cftc-nods-to-tnm-but-with-conditions/",
+  "title": "Cftc nods to tnm, But with conditions",
+  "publisher": "Nation Online",
+  "published": "2026-10-31",
+  "sub_indicator": "backbone",
+  "why": "OCL national fibre network wholesale open access conditions"
+ },
+ {
+  "url": "https://africabbmaps.itu.int/wp-content/uploads/2025/11/ESCOM-Presentation-v.02-ITU-2025-Africa-BoradBand-Mapping.pdf",
+  "title": "Fibre Communications Business",
+  "publisher": "ESCOM",
+  "published": "2025",
+  "sub_indicator": "backbone",
+  "why": "7000 km backbone to all districts, carrier of carriers"
+ },
+ {
+  "url": "https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf",
+  "title": "Malawi digital connectivity initiatives (ITU workshop)",
+  "publisher": "MACRA / ITU",
+  "published": "2023-10",
+  "sub_indicator": "backbone",
+  "why": "ESCOM fibre wholesale, Nacala-Liwonde fibre plan"
+ },
+ {
+  "url": "https://ocl.mw/",
+  "title": "Open Connect Limited - Welcome",
+  "publisher": "Open Connect Limited",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "open access national backbone capacity"
+ }
+]

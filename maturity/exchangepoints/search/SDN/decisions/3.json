@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "SIXP in Khartoum, founded 2011, exchanged traffic among Sudatel, Zain, MTN, Canar, Maxnet and others, with member traffic rising from 59.64 Tb in 2017 to 141.06 Tb in 2018 and 735.49 Tb in 2019.",
+ "title": "Forecasting of Data Traffic in Sudan Internet Exchange Point Using Autoregressive Integrated Moving Average Model",
+ "publisher": "University of Khartoum Engineering Journal (UofKEJ), Vol. 12 Issue 1",
+ "published": "2022-02",
+ "date_source": "source",
+ "why_not": ""
+}

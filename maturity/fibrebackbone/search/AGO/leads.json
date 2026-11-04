@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.angop.ao/en/noticias/tecnologia/rede-de-banda-larga-de-fibra-optica-ja-funciona-em-benguela/",
+  "title": "Rede de banda larga de fibra óptica já funciona em Benguela",
+  "publisher": "ANGOP",
+  "published": "2026-09-16",
+  "sub_indicator": "backbone",
+  "why": "Q2 first link Luanda-Benguela in service, nationwide plan"
+ },
+ {
+  "url": "https://pti.ao/angola-telecom-reforca-capacidade-de-transmissao-e-aposta-na-expansao-nacional-em-2026/",
+  "title": "Angola Telecom reforça capacidade de transmissão e aposta na expansão nacional em 2026",
+  "publisher": "Portal de TI",
+  "published": "2025-12-18",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q4 capacity sold to operators and ISPs"
+ },
+ {
+  "url": "https://oneworldmediacorp.com/adilson-miguel-dos-santos/",
+  "title": "Adilson Miguel dos Santos interview",
+  "publisher": "One World Media",
+  "published": "2026-08-24",
+  "sub_indicator": "backbone",
+  "why": "Q3/Q4 present in 21 provinces, wholesale to operators"
+ },
+ {
+  "url": "https://negociosemexame.ao/economia/ilumina-angola-esta-a-interligar-o-pais-com-por-fibra-optica/",
+  "title": "Ilumina Angola está à interligar o país com por fibra óptica",
+  "publisher": "Negócios em Exame",
+  "published": "2026-03-27",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q2 more provinces being linked"
+ },
+ {
+  "url": "https://angop.ao/noticias/economia/ministro-destaca-relevancia-do-programa-de-rede-banda-larga/",
+  "title": "Ministro destaca Programa de Rede Banda Larga",
+  "publisher": "ANGOP",
+  "published": "2025-05-30",
+  "sub_indicator": "backbone",
+  "why": "Q1 programme 30% executed"
+ },
+ {
+  "url": "https://c2a.portais.gov.ao/uploads/Td_R_Consultoria_para_a_Implementacao_da_Reforma_Institucional_das_Empresas_Publicas_de_Telecomunicacoes_2_587749a3db.pdf",
+  "title": "Apoio Estratégico e de Reestruturação Empresarial da Angola Telecom",
+  "publisher": "Governo de Angola",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Q4 12,000 km national transmission network leased to operators"
+ },
+ {
+  "url": "https://angop.ao/en/noticias/tecnologia/angola-ligada-com-rdc-e-zambia-por-fibra-optica/",
+  "title": "Optical fibre links Angola, Zambia and DRC",
+  "publisher": "ANGOP",
+  "published": "2023-07-03",
+  "sub_indicator": "backbone",
+  "why": "cross-border links"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/africell-picks-angola-cables-network-to-provide-connectivity--1399993",
+  "title": "Africell picks Angola Cables network to provide connectivity",
+  "publisher": "Telecompaper",
+  "published": "2021-10-11",
+  "sub_indicator": "backbone",
+  "why": "Q4 wholesale to Africell"
+ }
+]

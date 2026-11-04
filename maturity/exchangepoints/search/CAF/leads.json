@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://bidsfactory.com/en/tenders/fourniture-installation-parametrage-mise-en-servic-OP00444440",
+  "title": "Awarded to SESA TECH: National Internet Exchange Point (IXP-RCA)",
+  "publisher": "BidsFactory / World Bank notice",
+  "published": "2026-05-12",
+  "sub_indicator": "exchange",
+  "why": "Q1: national IXP contract awarded Apr 2026, not yet in service"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/blog/2024/08/central-africas-improved-peering-landscape-can-benefit-from-local-content/",
+  "title": "Central Africa's Improved Peering Landscape Can Benefit From Local Content",
+  "publisher": "ISOC Pulse",
+  "published": "2024-08-20",
+  "sub_indicator": "exchange",
+  "why": "Q1: CAR has no IXP data in tracker"
+ },
+ {
+  "url": "https://tenders.indexbox.io/tenders/fourniture-installation-parametrage-mise-en-service-formation-documentation-et-plan-b-op00421850",
+  "title": "Fourniture ... du Point d'Echange Internet national (IXP-RCA)",
+  "publisher": "Minist\u00e8re des Finances et du Budget (PGNSP)",
+  "published": "2026-01",
+  "sub_indicator": "exchange",
+  "why": "Q1: IXP equipment tender issued 20 Jan 2026"
+ },
+ {
+  "url": "https://www.internetsociety.org/events/peering-roadshows/",
+  "title": "Peering Roadshows",
+  "publisher": "Internet Society",
+  "published": "2025-03-11",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: peering roadshow Bangui 27 Mar 2025"
+ },
+ {
+  "url": "https://www.internetsociety.org/wp-content/uploads/2020/05/PRESENTATION-OSIANE-IXP.pdf",
+  "title": "COVID-19 et le peering public en Afrique centrale",
+  "publisher": "Internet Society",
+  "published": "2020",
+  "sub_indicator": "exchange",
+  "why": "Q1: states CAR has 0 IXPs"
+ }
+]

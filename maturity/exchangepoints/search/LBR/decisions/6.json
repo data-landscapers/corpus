@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "A Google Cache Server at the Liberia IXP (set up in 2015 at the Cable Consortium of Liberia) became operational in FY 2018.",
+ "title": "Digital Liberia Final Report",
+ "publisher": "USAID Digital Liberia / Chemonics",
+ "published": "2020-03",
+ "date_source": "source",
+ "why_not": ""
+}

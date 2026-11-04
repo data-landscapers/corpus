@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.itu.int/en/ITU-D/Regional-Presence/ArabStates/Documents/events/2023/RDF-23/Contributions/25_Contribution_RDF_ARB_ANRTIC_Com.pdf",
+  "title": "Union des Comores (RDF 2023 contribution)",
+  "publisher": "ANRTIC / ITU",
+  "published": "2023",
+  "sub_indicator": "backbone",
+  "why": "fibre loop across territory; operator reluctant to share"
+ },
+ {
+  "url": "https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/",
+  "title": "Policy statement, Comoros PP-22",
+  "publisher": "ITU / Ministry of Posts",
+  "published": "2022",
+  "sub_indicator": "backbone",
+  "why": "national fibre backbone cited"
+ },
+ {
+  "url": "https://minpoten.egouv.km/en/ministry/ministry-projects/",
+  "title": "Ministry projects",
+  "publisher": "Ministère des Postes, Comoros",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Comores Telecom backbone covers three islands"
+ },
+ {
+  "url": "https://china.aiddata.org/projects/53292/",
+  "title": "China Eximbank loan, National Fiber Optic Backbone Transmission Network Project",
+  "publisher": "AidData",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "backbone project completed 2017"
+ },
+ {
+  "url": "https://www.anaden.org/uploads/media/5e3969272d9f8/strat-comores-numerique-v2-3-compresse.pdf",
+  "title": "Stratégie Comores Numérique 2028",
+  "publisher": "ANADEN",
+  "published": "2018",
+  "sub_indicator": "backbone",
+  "why": "1,218 km fibre; no sharing"
+ }
+]

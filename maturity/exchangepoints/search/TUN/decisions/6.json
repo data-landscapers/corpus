@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "TunIXP (AS5438), run by ATI in Tunis, provides IP connectivity to all operators, ISPs and data centres in Tunisia.",
+ "title": "About TunIXP",
+ "publisher": "TunIXP / Agence Tunisienne d'Internet",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

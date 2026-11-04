@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "IXPN reported 570 Gbps peak traffic, 116 members and PoPs in five cities outside Lagos: Abuja, Port Harcourt, Kano, Enugu and Gombe.",
+ "title": "IXPN records yearly peak traffic growth",
+ "publisher": "New Sentinel",
+ "published": "2024-02-08",
+ "date_source": "source",
+ "why_not": ""
+}

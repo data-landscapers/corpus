@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "CAMIX reports at least eight ISPs connected at its Yaoundé and Douala exchanges and traffic of one gigabit reached once the Akamai server went into production at Douala.",
+ "title": "CAMIX réunit les points focaux techniques pour évaluer le déploiement de l'IXP",
+ "publisher": "CAMIX",
+ "published": "2026-03-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

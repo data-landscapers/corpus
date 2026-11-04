@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://fimdesemana.co.mz/tmcel-e-maefp-lancam-plataforma-fala-cidadao/",
+  "title": "Tmcel e MAEFP lançam plataforma Fala Cidadão",
+  "publisher": "Fim de Semana",
+  "published": "2021-06-22",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q3 national channel launched"
+ },
+ {
+  "url": "https://infromoz.com/politica/como-apresentar-uma-reclamacao-contra-um-servico-publico-em-mocambique/",
+  "title": "Como Reclamar de um Serviço Público em Moçambique",
+  "publisher": "InforMoz",
+  "published": "2026-10-09",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q3 online channels, no universal portal"
+ },
+ {
+  "url": "https://portalcidadao.moz.mz/",
+  "title": "Portal do Cidadão (Fala Cidadão, IGE)",
+  "publisher": "República de Moçambique",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q1 Fala Cidadão in service"
+ },
+ {
+  "url": "https://cmmaputo.gov.mz/reclamacoes/",
+  "title": "Reclamações - Município",
+  "publisher": "Conselho Municipal de Maputo",
+  "published": "2024-09-04",
+  "sub_indicator": "feedback",
+  "why": "Q1 municipal complaints"
+ },
+ {
+  "url": "https://consumidor.incm.gov.mz/reclamacao/",
+  "title": "Reclamação - INCM",
+  "publisher": "INCM",
+  "published": "2025-11-26",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q4 complaint archive"
+ },
+ {
+  "url": "https://voz.cmcpemba.gov.mz/",
+  "title": "Voz do Cidadão",
+  "publisher": "Conselho Municipal de Pemba",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q2 case counts"
+ },
+ {
+  "url": "https://mdqr.pdul.gov.mz/",
+  "title": "Mecanismo de Diálogo, Queixas e Reclamações",
+  "publisher": "PDUL",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q1 grievance mechanism"
+ },
+ {
+  "url": "https://www.imd.org.mz/index.php/imprensa/noticias/836-cidadao-participa-apresentado-no-women-in-govtech-challenge-mocambique",
+  "title": "Cidadão Participa apresentado no Women in GovTech Challenge",
+  "publisher": "IMD",
+  "published": "2026-06-03",
+  "sub_indicator": "feedback",
+  "why": "Q1 participation platform"
+ }
+]

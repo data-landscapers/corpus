@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://blog.uixp.co.ug/2025/11/protecting-digital-gains-how-government.html",
+  "title": "Protecting the Digital Gains: How a Government IXP Could Undermine Uganda's Future",
+  "publisher": "UIXP",
+  "published": "2025-11-17",
+  "sub_indicator": "exchange",
+  "why": "Q2/Q5: UIXP in service, nearly all networks interconnect there"
+ },
+ {
+  "url": "https://blog.uixp.co.ug/2025/01/endowment-fund-vas-and-other-updates.html",
+  "title": "UIXP Blog: Endowment Established, Netflix Connected, Akamai Revived",
+  "publisher": "UIXP",
+  "published": "2025-01-13",
+  "sub_indicator": "exchange",
+  "why": "Q2-Q3: 32 networks, ~40Gbps, Netflix and Akamai caches"
+ },
+ {
+  "url": "https://blog.uixp.co.ug/2023/02/disaster-recovery-cdn-outages-financial.html",
+  "title": "UIXP Blog: Disaster Recovery: CDN Outages, Financial Challenges",
+  "publisher": "UIXP",
+  "published": "2023-02-23",
+  "sub_indicator": "exchange",
+  "why": "Q3-Q4: traffic figures 2022, Google/Akamai/Facebook caches"
+ },
+ {
+  "url": "https://blog.uixp.co.ug/2022/02/uixp-expands-into-raxio-google-joins.html",
+  "title": "UIXP Blog: UIXP Expands Into Raxio, Google Joins the UIXP",
+  "publisher": "UIXP",
+  "published": "2022-02-21",
+  "sub_indicator": "exchange",
+  "why": "Q4: second site, Google peering"
+ },
+ {
+  "url": "https://uixp.co.ug/documentation/manual-connecting-content-caches",
+  "title": "Manual: Connecting to Content Caches",
+  "publisher": "UIXP",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q3: Meta and Netflix caches at UIXP (undated)"
+ }
+]

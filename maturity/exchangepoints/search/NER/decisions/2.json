@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Niger's minister of communication officially inaugurated the national internet exchange point (IXP) in Niamey on 19 August 2025, where internet providers interconnect and exchange traffic.",
+ "title": "Inauguration officielle du point d'échange internet (IXP) : Permettre à tous les nigériens d'avoir une connectivité numérique et un internet plus rapide et plus sûr",
+ "publisher": "Le Sahel (ONEP Niger)",
+ "published": "2025-08-20",
+ "date_source": "source",
+ "why_not": ""
+}

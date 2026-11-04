@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach;access",
+ "fact": "On 11 September 2020 the 4,425 km national backbone was commercially launched by SOGEB, with its two loops operational, reaching all prefectures and the six borders, for connection of all operators and ISPs.",
+ "title": "Télécoms : lancement commercial à Conakry du Backbone national",
+ "publisher": "Guinéenews",
+ "published": "2020-09-11",
+ "date_source": "source",
+ "why_not": ""
+}

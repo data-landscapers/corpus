@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://xidig.net/reports/somalia-fibre-infrastructure-sharing",
+  "title": "Fibre backbones and infrastructure sharing in Somalia",
+  "publisher": "Xidig",
+  "published": "2026-09-29",
+  "sub_indicator": "backbone",
+  "why": "Q1-Q4: feasibility study launched Oct 2025"
+ },
+ {
+  "url": "https://international-partnerships.ec.europa.eu/policies/global-gateway/somalia-connectivity-expansion_en",
+  "title": "Somalia connectivity expansion",
+  "publisher": "European Commission",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Q1: 2,000 km backbone planned"
+ },
+ {
+  "url": "https://www.telecomreviewafrica.com/articles/general-news/2494-dalkom-secures-12-million-loan-to-connect-somalia-to-2africa/",
+  "title": "Dalkom secures EUR 12 million loan to connect Somalia to 2Africa",
+  "publisher": "Telecom Review Africa",
+  "published": "2021-09-13",
+  "sub_indicator": "backbone",
+  "why": "Q1: first backbone segment financed"
+ },
+ {
+  "url": "https://dig.watch/updates/somalia-aims-for-unified-fibre-optic-policy-to-boost-digital-economy-despite-challenges",
+  "title": "Somalia aims for unified fibre optic policy",
+  "publisher": "Digital Watch Observatory",
+  "published": "2024-11-21",
+  "sub_indicator": "backbone",
+  "why": "Q1-Q3: fragmented network"
+ },
+ {
+  "url": "https://kcl.co.ug/wp-content/uploads/2024/04/20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf",
+  "title": "Somalia Digital Inclusion Policy Development: Contextual Analysis Report",
+  "publisher": "Federal Government of Somalia / KCL",
+  "published": "2023-08",
+  "sub_indicator": "backbone",
+  "why": "Q2,Q3: no interconnected backbone"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099045403212411797/txt/IDU105f167fa1085214f8b1919f141249b1e8fae.txt",
+  "title": "Eastern Africa Regional Digital Integration Project",
+  "publisher": "World Bank",
+  "published": "2024",
+  "sub_indicator": "backbone",
+  "why": "Q1-Q4: no contiguous backbone, open access"
+ },
+ {
+  "url": "https://moct.gov.so/en/wp-content/uploads/2023/12/Final_CTM_ToR_EARDIP_Somalia.pdf",
+  "title": "ToR Commercial Transaction Manual EA-RDIP Somalia",
+  "publisher": "Ministry of Communications and Technology",
+  "published": "2023-12",
+  "sub_indicator": "backbone",
+  "why": "Q1,Q4: open access routes planned"
+ },
+ {
+  "url": "https://www.biddingsource.com/tenders/10465023",
+  "title": "Awarded - Feasibility Study of Expanding Somalia's National Fiber Optic Network",
+  "publisher": "Bidding Source",
+  "published": "2026-09",
+  "sub_indicator": "backbone",
+  "why": "Q1: feasibility contract award"
+ }
+]

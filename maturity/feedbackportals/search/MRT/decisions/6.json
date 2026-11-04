@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "feedback",
+ "aspect": "channel",
+ "fact": "The Council of Ministers on 30 October 2024 adopted a decree on the Khadamati public services portal, which lets citizens file grievances and complaints.",
+ "title": "Communiqué du Conseil des Ministres",
+ "publisher": "Primature",
+ "published": "2024-10-30",
+ "date_source": "source",
+ "why_not": ""
+}

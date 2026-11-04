@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The CGIX in Brazzaville, launched 10 May 2013, shows traffic series for 2013 to 2022, with 2022 incoming about 7,752 kbit/s against about 11,826 kbit/s in 2021.",
+ "title": "PRESENTATION DU POINT D'ECHANGE INTERNET DU CONGO ( CGIX )",
+ "publisher": "ARPCE (CGIX), via Internet Society",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

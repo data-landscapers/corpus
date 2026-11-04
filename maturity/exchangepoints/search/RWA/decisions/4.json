@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "PeeringDB records RINEX as the national IXP of Rwanda in Kigali, operated by RICTA, with 17 peers and 103G total capacity, record updated 2025-05-19.",
+ "title": "RINEX - PeeringDB",
+ "publisher": "PeeringDB",
+ "published": "2025-05-19",
+ "date_source": "source",
+ "why_not": ""
+}

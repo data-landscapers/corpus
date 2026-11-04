@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Angonix, run by Angola Cables in the AngoNAP Luanda data centre since 2015, has Meta and Microsoft among its members, and its yearly maximum traffic reached 63 Gbps on 24 February 2026 against 10.8 Gbps in July 2017.",
+ "title": "ANGONIX: Angola's internet exchange and the Atlantic cables",
+ "publisher": "btw.media",
+ "published": "2026-10-14",
+ "date_source": "source",
+ "why_not": ""
+}

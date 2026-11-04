@@ -1,0 +1,6 @@
+[
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/country/ML/","title":"IXP Tracker - Mali","publisher":"Internet Society Pulse","published":"2026-09","sub_indicator":"exchange","why":"Q1/Q2/Q4: one active IXP in Bamako, locally cached content 2%"},
+{"url":"https://www.pch.net/ixp/details/2019","title":"MLIX | PCH","publisher":"Packet Clearing House","published":"","sub_indicator":"exchange","why":"Q1: MLIX active, established 2018"},
+{"url":"https://www.mlix.ml/charte-mlix/","title":"Charte MLIX","publisher":"MLIX","published":"","sub_indicator":"exchange","why":"Q1: rules of the exchange"},
+{"url":"https://news.internetsociety.org/enfin-un-point-dechange-internet-au-mali-mlix/","title":"Enfin un Point d'Echange Internet au Mali (MLIX)","publisher":"Internet Society","published":"2018","sub_indicator":"exchange","why":"Q1/Q2: launch, caches as open challenge"}
+]

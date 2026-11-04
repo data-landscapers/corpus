@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "feedback",
+ "aspect": "channel",
+ "fact": "The OECD's 2020 assessment describes e-people.gov.tn, run by the Presidency's central citizen-relations office, as an operating complaints and suggestions portal piloted in 2018-2019.",
+ "title": "Évaluation des plateformes numériques de participation citoyenne en Tunisie",
+ "publisher": "OCDE",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://technologytimes.ng/project-bridge-nigeria-inks-deal-with-bluechip/",
+  "title": "Project BRIDGE: Nigeria inks N451.9mn deal with Bluechip consortium",
+  "publisher": "Technology Times",
+  "published": "2026-02-25",
+  "sub_indicator": "backbone",
+  "why": "Q1 advisory contract (not build)"
+ },
+ {
+  "url": "https://nairametrics.com/2026/08/09/fg-incorporates-company-to-deliver-90000km-nationwide-fibre-network/",
+  "title": "FG incorporates company to deliver 90,000km nationwide fibre network",
+  "publisher": "Nairametrics",
+  "published": "2026-08-09",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q4 Bridge OA incorporated; wholesale open access"
+ },
+ {
+  "url": "https://businessday.ng/technology/article/fg-hands-private-investors-operational-control-of-90000km-fibre-project/",
+  "title": "FG hands private investors operational control of 90,000km fibre project",
+  "publisher": "BusinessDay",
+  "published": "2026-10-08",
+  "sub_indicator": "backbone",
+  "why": "Q3/Q4 all 36 states open access planned"
+ },
+ {
+  "url": "https://www.premiumtimesng.com/news/top-news/812887-nigeria-unveils-90000-km-fibre-optic-network-to-boost-nationwide-connectivity.html",
+  "title": "Nigeria unveils 90,000 km fibre optic network",
+  "publisher": "Premium Times",
+  "published": "2025-08-08",
+  "sub_indicator": "backbone",
+  "why": "Q3/Q4 design, 774 LGAs, open access, existing 35,000km"
+ },
+ {
+  "url": "https://nairametrics.com/2025/07/30/connectivity-fg-has-laid-over-5000km-of-fibre-cable-across-28-states-galaxy-backbone-md/",
+  "title": "FG has laid over 5,000km of fibre across 28 states - Galaxy Backbone MD",
+  "publisher": "Nairametrics",
+  "published": "2025-07-30",
+  "sub_indicator": "backbone",
+  "why": "Q2 NICTIB fibre in service across 28 states"
+ },
+ {
+  "url": "https://fmcide.gov.ng/project-bridge-secures-100-million-from-ebrd-and-e22-million-eu-grant-to-accelerate-nationwide-fibre-rollout/",
+  "title": "Project BRIDGE Secures $100 Million from EBRD and EUR22 Million EU Grant",
+  "publisher": "FMCIDE",
+  "published": "2026-02-25",
+  "sub_indicator": "backbone",
+  "why": "Q1 financing status"
+ },
+ {
+  "url": "https://techpoint.africa/news/project-bridge-oa-incorporated/",
+  "title": "Nigeria incorporates Bridge OA to run its 90,000km fibre build",
+  "publisher": "Techpoint Africa",
+  "published": "2026-08-12",
+  "sub_indicator": "backbone",
+  "why": "Q4 wholesale model"
+ },
+ {
+  "url": "https://techafricanews.com/2025/11/04/galaxy-backbone-unveils-plans-for-90000km-fibre-rollout-to-boost-national-connectivity/",
+  "title": "Galaxy Backbone Unveils Plans for 90,000km Fibre Rollout",
+  "publisher": "TechAfrica News",
+  "published": "2025-11-04",
+  "sub_indicator": "backbone",
+  "why": "Q2 5,000km across 28 states"
+ }
+]

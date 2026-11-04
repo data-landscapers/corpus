@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://independentnews.co.sz/44349/news/eptc-ordered-to-open-up-network-information-improve-service-delivery/",
+  "title": "EPTC ordered to open up network information, improve service delivery",
+  "publisher": "Independent News",
+  "published": "2026-06-09",
+  "sub_indicator": "backbone",
+  "why": "Q4 backbone access"
+ },
+ {
+  "url": "https://www.insidebiz.co.sz/eswatini-targets-120000-homes-in-national-fibre-rollout/",
+  "title": "Eswatini Targets 120,000 Homes in National Fibre Rollout",
+  "publisher": "Inside Biz",
+  "published": "2026-02-15",
+  "sub_indicator": "backbone",
+  "why": "Q1 rollout"
+ },
+ {
+  "url": "https://uasf.esccom.org.sz/programmes/connectivity-programmes/",
+  "title": "Connectivity Programmes",
+  "publisher": "Universal Access and Service Fund",
+  "published": "2023-10-03",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q3 backbone routes"
+ },
+ {
+  "url": "https://techfinancials.co.za/2024/11/12/eswatinis-eptc-invites-global-fibre-partners-to-accelerate-nations-digital-future/",
+  "title": "Eswatini's EPTC Invites Global Fibre Partners",
+  "publisher": "TechFinancials",
+  "published": "2024-11-12",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q2"
+ },
+ {
+  "url": "https://independentnews.co.sz/15830/science-technology/ict-minister-says-data-costs-to-fall-with-fibre-layout/",
+  "title": "ICT minister says data costs to fall with fibre layout",
+  "publisher": "Independent News",
+  "published": "2025-06-11",
+  "sub_indicator": "backbone",
+  "why": "Q1"
+ },
+ {
+  "url": "https://independentnews.co.sz/8823/business/eptc-eec-collaborate-to-utilize-same-fiber-infrastructure/",
+  "title": "EPTC, EEC collaborate to utilize same fiber infrastructure",
+  "publisher": "Independent News",
+  "published": "2022-03-27",
+  "sub_indicator": "backbone",
+  "why": "Q2 fibre in service"
+ }
+]

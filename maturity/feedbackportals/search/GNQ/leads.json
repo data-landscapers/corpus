@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://realequatorialguinea.com/sociedad/el-defensor-del-pueblo-se-acerca-cada-vez-mas-a-los-ciudadanos/",
+  "title": "El Defensor del Pueblo se acerca cada vez más a los ciudadanos",
+  "publisher": "Real Equatorial Guinea",
+  "published": "2022-09-27",
+  "sub_indicator": "feedback",
+  "why": "Q1: ombudsman web complaint channel"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_ya_tiene_un_portal_anticorrupcion",
+  "title": "Guinea Ecuatorial ya tiene un portal anticorrupción",
+  "publisher": "Guineaecuatorialpress.com (Gobierno)",
+  "published": "2024-10-24",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q2: anti-corruption reporting portal presented"
+ },
+ {
+  "url": "https://btw.media/es/cniapge-impulsa-transformacion-digital-servicios-publicos-guinea-ecuatorial",
+  "title": "CNIAPGE impulsa la transformación digital en los servicios públicos",
+  "publisher": "BTW Media",
+  "published": "2025-08-21",
+  "sub_indicator": "feedback",
+  "why": "Q1/Q2: anti-corruption portal lets citizens report and track cases"
+ },
+ {
+  "url": "https://www.undp.org/es/equatorial-guinea/noticias/funcion-publica-lanza-la-plataforma-virtual-de-capacitacion-los-nuevos-4000-funcionarios-publicos",
+  "title": "Función Pública lanza la plataforma virtual de capacitación",
+  "publisher": "PNUD",
+  "published": "2023-07-10",
+  "sub_indicator": "feedback",
+  "why": "Q1: SOL online citizen service system"
+ },
+ {
+  "url": "https://defensordelpuebloge.com/",
+  "title": "Defensor del Pueblo de Guinea Ecuatorial",
+  "publisher": "Defensor del Pueblo",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q4: online complaint submission, annual report"
+ },
+ {
+  "url": "https://guineasalud.org/quejas-y-denuncias/",
+  "title": "MINSABS Quejas y Denuncias (ODEPAC)",
+  "publisher": "Ministerio de Sanidad y Bienestar Social",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q1: health ministry complaints office"
+ }
+]

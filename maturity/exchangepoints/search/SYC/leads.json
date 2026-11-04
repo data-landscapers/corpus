@@ -1,0 +1,3 @@
+[{"url":"https://pulse.internetsociety.org/en/ixp-tracker/country/SC/","title":"IXP Tracker - Seychelles","publisher":"Internet Society Pulse","published":"","sub_indicator":"exchange","why":"Q1 no active IXP; cached content share"},
+{"url":"https://www.peeringdb.com/org/17318","title":"Seychelles Internet Exchange Point Association - PeeringDB","publisher":"PeeringDB","published":"","sub_indicator":"exchange","why":"Q2 SEY-IX listed, no member networks"},
+{"url":"https://bgp.he.net/AS37707","title":"AS37707 Seychelles Internet Exchange Point Association","publisher":"Hurricane Electric BGP Toolkit","published":"","sub_indicator":"exchange","why":"Q2 route server ASN, one observed peer"}]

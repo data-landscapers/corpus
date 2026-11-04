@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://camtel.cm/news/igf-cameroon-2026-camtel-at-the-heart-of-interoperability-and-digital-inclusion",
+  "title": "IGF Cameroon 2026: CAMTEL at the heart of interoperability",
+  "publisher": "CAMTEL",
+  "published": "2026-08-21",
+  "sub_indicator": "backbone",
+  "why": "Q2: nearly 13,000 km fibre"
+ },
+ {
+  "url": "https://ecomatin.net/cameroun-camtel-a-gagne-34-milliards-fcfa-grace-a-la-fibre-optique-en-2024-en-hausse-de-17",
+  "title": "Camtel a gagné 34 milliards FCFA grâce à la fibre optique en 2024",
+  "publisher": "Ecomatin (citing ART report)",
+  "published": "2025-12-10",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q3/Q4: backbone serves all ten regional capitals; operators buy bandwidth"
+ },
+ {
+  "url": "https://www.koaci.com/article/2024/09/26/cameroun/technologie/cameroun-revolution-numerique-un-reseau-de-plus-de-16000-km-de-fibres-optiques-en-vue_181195.html",
+  "title": "Révolution numérique, un réseau de plus de 16000 km de fibres optiques en vue",
+  "publisher": "KOACI",
+  "published": "2024-09-26",
+  "sub_indicator": "backbone",
+  "why": "Q1: 4,000 km extension planned"
+ },
+ {
+  "url": "https://ecomatin.net/developpement-numerique-du-cameroun-letat-retrocede-812-km-de-fibre-optique-a-camtel",
+  "title": "L’Etat rétrocède 812 km de fibre optique à Camtel",
+  "publisher": "Ecomatin",
+  "published": "2023-11-03",
+  "sub_indicator": "backbone",
+  "why": "Q1/Q2: 812 km handed to Camtel"
+ },
+ {
+  "url": "https://www.newsducamer.com/infrastructures-la-fibre-optique-gagne-du-terrain/",
+  "title": "Infrastructures : la fibre optique gagne du terrain",
+  "publisher": "News du Cameroun",
+  "published": "2022-12-14",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q3: 12,000 km, 52 of 58 departments"
+ }
+]

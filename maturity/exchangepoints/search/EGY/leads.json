@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.ams-ix.net/ams/news/eg-ix-strengthening-regional-connectivity-from-cairo",
+  "title": "EG-IX: strengthening regional connectivity from Cairo",
+  "publisher": "AMS-IX",
+  "published": "2026-10-06",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q3: EG-IX in service; peak traffic 89 Gb/s 2023, 338 2025, 945 Q3 2026"
+ },
+ {
+  "url": "https://tech.africa/eg-ix-cairo-18-members/",
+  "title": "EG-IX: Egypt peaks near 1 Tbps on 18 member networks",
+  "publisher": "Tech Africa",
+  "published": "2026-09-08",
+  "sub_indicator": "exchange",
+  "why": "Q2,Q4: Meta, CDN77 etc peer at EG-IX; Jordanian carriers"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/EG/",
+  "title": "IXP Tracker - Egypt",
+  "publisher": "ISOC Pulse",
+  "published": "2026-10",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q4: three IXPs in Cairo, one population centre"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/ixp/1128/",
+  "title": "IXP Tracker - Egypt Internet Exchange EG-IX",
+  "publisher": "ISOC Pulse",
+  "published": "2026-08",
+  "sub_indicator": "exchange",
+  "why": "Q2,Q4: member list with content networks and Jordanian carriers"
+ },
+ {
+  "url": "https://ir.te.eg/IRMedia/Financial_Information/2024/Financial_Information3d255513-db00-419d-becf-60724bd6b7c6.pdf",
+  "title": "Telecom Egypt investor presentation",
+  "publisher": "Telecom Egypt",
+  "published": "2024",
+  "sub_indicator": "exchange",
+  "why": "Q1: TE's exchange point in Egypt"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/ixp/165/",
+  "title": "IXP Tracker - Cairo Internet eXchange - CAIX",
+  "publisher": "ISOC Pulse",
+  "published": "2026-08",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q4: CAIX 5 members incl. two US-registered"
+ }
+]

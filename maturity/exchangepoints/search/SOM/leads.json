@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://kcl.co.ug/wp-content/uploads/2024/04/20230808-Somalia-Digital-Inclusion-Policy-Development_Contextual-Analysis-Report-Final.pdf",
+  "title": "Somalia Digital Inclusion Policy Development: Contextual Analysis Report",
+  "publisher": "Federal Government of Somalia / KCL",
+  "published": "2023-08",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q2,Q4: SoIXP three peers; Google and Meta caches in Hargeisa, Mogadishu, Bosaso"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/IDU105f167fa1085214f8b1919f141249b1e8fae.pdf",
+  "title": "Somalia Digital Economy Diagnostic",
+  "publisher": "World Bank Group",
+  "published": "2021",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q2: IXP inactive; caches by Google and Meta"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/116581622209259131/txt/Somalia-Second-Phase-of-the-ICT-Sector-Support-Project.txt",
+  "title": "Somalia Second Phase of the ICT Sector Support Project (ICR)",
+  "publisher": "World Bank",
+  "published": "2021",
+  "sub_indicator": "exchange",
+  "why": "Q1: IXP funded, six ISPs interconnect"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/SO/",
+  "title": "IXP Tracker - Somalia",
+  "publisher": "Internet Society Pulse",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q2: no active IXP; 9% local cache"
+ },
+ {
+  "url": "https://www.pch.net/ixp/details/2072",
+  "title": "SoIXP",
+  "publisher": "Packet Clearing House",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1: established 2018, Mogadishu"
+ },
+ {
+  "url": "https://mixp.so/",
+  "title": "Mogadishu Internet Exchange Point",
+  "publisher": "MIXP",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1: new neutral exchange in Mogadishu"
+ },
+ {
+  "url": "https://af-ix.org/ixps-list",
+  "title": "List of active Internet exchange points in Africa",
+  "publisher": "African IXP Association",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1,Q4: lists SoIXP only in Somalia"
+ }
+]

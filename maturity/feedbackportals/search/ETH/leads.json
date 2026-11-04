@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://birrmetrics.com/eih-introduces-online-platform-adera-to-rein-in-corruption-in-the-wake-of-leadership-overhaul/",
+  "title": "EIH Introduces Online Platform Adera to Rein in Corruption",
+  "publisher": "Birr Metrics",
+  "published": "2026-01-01",
+  "sub_indicator": "feedback",
+  "why": "Q1: portal for complaints against SOEs"
+ },
+ {
+  "url": "https://360ground.com/project-case-study/amplifying-citizen-voices-with-an-expanded-national-e-complaint-platform/",
+  "title": "Amplifying Citizen Voices with an Expanded National E-Complaint Platform",
+  "publisher": "360Ground",
+  "published": "2025-07-08",
+  "sub_indicator": "feedback",
+  "why": "Q3/Q4: national e-complaint platform for Civil Service Commission, SLA dashboards"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099071825225012956/pdf/BOSIB-3bf7a40b-794c-4716-a5dd-bf9f45aa9dcc.pdf",
+  "title": "World Bank ESPES implementation completion report",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q3: Hello Government online complaints, 215,000 complaints"
+ },
+ {
+  "url": "https://www.ena.et/web/eng/w/eng_5235593",
+  "title": "DPM Temesgen Launches Nat'l Corruption Crime Reporting Digital System (NCRS)",
+  "publisher": "ENA",
+  "published": "2024-10-03",
+  "sub_indicator": "feedback",
+  "why": "Q1: corruption reporting system (likely other)"
+ },
+ {
+  "url": "https://justice.gov.et/en/news/online-system-launched-for-stakeholders-to-submit-complaints-and-grievances-remotely/",
+  "title": "Online System Launched for Stakeholders to Submit Complaints and Grievances Remotely",
+  "publisher": "Ministry of Justice",
+  "published": "2023-06-20",
+  "sub_indicator": "feedback",
+  "why": "Q1: online complaint system on criminal case decisions"
+ },
+ {
+  "url": "http://ethombudsman.gov.et/",
+  "title": "Ethiopian Institution of the Ombudsman",
+  "publisher": "Ethiopian Institution of the Ombudsman",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q2/Q4: online complaint portal, case counts"
+ }
+]

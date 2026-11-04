@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.businesstechafrica.co.za/article/ethiopia-djibouti-and-sudan-are-building-another-route-for-internet-traffic",
+  "title": "Ethiopia, Djibouti and Sudan are building another route for internet traffic",
+  "publisher": "Business Tech Africa",
+  "published": "2026-09-11",
+  "sub_indicator": "backbone",
+  "why": "Q1: Horizon Fibre, planned cross-border (likely other)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099821508252526233/pdf/IDU-a026d983-6657-497a-8b99-5b873649b929.pdf",
+  "title": "World Bank Ethiopia telecom sector document",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q4: ~22,000 km fibre, EEP leased 10,000 km to operators"
+ },
+ {
+  "url": "https://www.telecoms.com/fibre/ethio-telecom-heralds-copper-switch-off-eventually",
+  "title": "Ethio Telecom heralds copper switch-off...eventually",
+  "publisher": "Telecoms.com",
+  "published": "2024-09-25",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q4: EEP fibre leased to Safaricom 4,000 km"
+ },
+ {
+  "url": "https://assets.bii.co.uk/wp-content/uploads/2024/10/09105903/BII-Impact-of-investment-in-the-Ethiopian-telecoms-market_2024.pdf",
+  "title": "Impact of investment in the Ethiopian telecoms market - the story so far",
+  "publisher": "British International Investment",
+  "published": "2024-10",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q4: long-distance backbone leased to operators"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099450206282323160/pdf/IDU00f2d51f40fd4a04e630b0b60d27b1a4f548b.pdf",
+  "title": "Horn of Africa connectivity report",
+  "publisher": "World Bank",
+  "published": "2023",
+  "sub_indicator": "backbone",
+  "why": "Q2: 21,178 km national backbone"
+ },
+ {
+  "url": "https://safaricom.et/en/whats-new/latest/news-and-blogs/safaricom-telecommunications-ethiopia-plc-and-ethiopian-electric-power-sign-dark-fiber-optic-leasing-agreement",
+  "title": "Safaricom Ethiopia and Ethiopian Electric Power sign dark fibre leasing agreement",
+  "publisher": "Safaricom Ethiopia",
+  "published": "2022-03",
+  "sub_indicator": "backbone",
+  "why": "Q4: capacity leased to another operator"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/ET/",
+  "title": "IXP Tracker - Ethiopia",
+  "publisher": "ISOC Pulse",
+  "published": "2026-10",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: one active IXP, Addis Ababa only, three domestic members"
+ },
+ {
+  "url": "https://www.wingu.africa/blogs/the-addix-wingu-partnership-and-its-role-in-national-connectivity",
+  "title": "The ADDIX-Wingu Partnership and its Role in National Connectivity",
+  "publisher": "Wingu Africa",
+  "published": "2025-09-09",
+  "sub_indicator": "exchange",
+  "why": "Q1: ADDIX in operation over a year"
+ },
+ {
+  "url": "https://www.wingu.africa/latest-news/transforming-connectivity-ethiopias-first-internet-exchange-hosted-at-wingu-africa",
+  "title": "Transforming Connectivity: Ethiopia's First Internet Exchange Hosted at Wingu Africa",
+  "publisher": "Wingu Africa",
+  "published": "2025-09-04",
+  "sub_indicator": "exchange",
+  "why": "Q1: ADDIX launched and operating"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/wingu-africa-hosts-first-ethiopian-ixp-addix--1503256",
+  "title": "Wingu Africa hosts first Ethiopian IXP Addix",
+  "publisher": "Telecompaper",
+  "published": "2024-06-12",
+  "sub_indicator": "exchange",
+  "why": "Q1: first IXP hosted at Wingu"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/ixp/1339/",
+  "title": "IXP Tracker - Addix",
+  "publisher": "ISOC Pulse",
+  "published": "2026-08",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q3/Q4: members, capacity 21 Gbps, no foreign members"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/reports/et/",
+  "title": "Country Report for Ethiopia",
+  "publisher": "ISOC Pulse",
+  "published": "2026",
+  "sub_indicator": "exchange",
+  "why": "Q2: 57% of top sites cached locally; 1 IXP"
+ },
+ {
+  "url": "https://ictet.et/2023/06/08/why-ethiopia-needs-an-ixp-promoting-efficiencies/",
+  "title": "Why Ethiopia Needs an IXP: Promoting efficiencies",
+  "publisher": "ICT ET",
+  "published": "2023-06-08",
+  "sub_indicator": "exchange",
+  "why": "Q1: stated absence of IXP in 2023, 95% traffic via Djibouti"
+ }
+]

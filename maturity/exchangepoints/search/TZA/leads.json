@@ -1,0 +1,8 @@
+[
+{"url":"https://tcra.go.tz/uploads/text-editor/files/Report%20on%20the%20Impact%20of%20Internet%20Exchange%20Points%20Deployment%20in%20Tanzania_1619115682.pdf","title":"Report on Study on the Impact of Internet Exchange Points Deployment in Tanzania","publisher":"TCRA","published":"","sub_indicator":"exchange","why":"TIX in service, AIXP and DIXP linked, content networks, peers from abroad"},
+{"url":"https://www.linkedin.com/company/tispaixp","title":"Tanzania Internet Service Provider Association - TISPA","publisher":"TISPA","published":"2025-02","sub_indicator":"exchange","why":"37+ peers, 100+ Gbps, six locations"},
+{"url":"https://pulse.internetsociety.org/en/ixp-tracker/country/TZ/","title":"IXP Tracker - Tanzania","publisher":"Internet Society Pulse","published":"2026-10","sub_indicator":"exchange","why":"6 active IXPs in five cities, 43 members"},
+{"url":"https://tix.tispa.or.tz/","title":"Tanzania Internet Exchange","publisher":"TISPA","published":"","sub_indicator":"exchange","why":"100+ Gbps across IXPs in six locations"},
+{"url":"https://tix.or.tz/peers.html","title":"TIX Peers","publisher":"TIX","published":"","sub_indicator":"exchange","why":"Akamai, Facebook peers at TIX with dates"},
+{"url":"https://tispa.or.tz/chapters/","title":"Tanzania Internet Service Providers Association chapters","publisher":"TISPA","published":"","sub_indicator":"exchange","why":"IXPs in Arusha, Dodoma, Mbeya, Mwanza, Zanzibar"}
+]

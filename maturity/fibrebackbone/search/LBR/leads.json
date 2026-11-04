@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://csquared.com/connectingganta/",
+  "title": "From Pilot to Permanent: What Ganta Shows",
+  "publisher": "CSquared",
+  "published": "2026-09-07",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q4 350km backbone, open-access"
+ },
+ {
+  "url": "https://csquared.com/building-the-digital-foundations-for-liberias-future/",
+  "title": "Building the Digital Foundations for Liberia's Future",
+  "publisher": "CSquared",
+  "published": "2026-08-03",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q4 backbone to Loguatuo, wholesale"
+ },
+ {
+  "url": "https://verityonlinenews.com/csquared-briefs-lta-on-national-expansion-plan-cross-border-broadband-connectivity/",
+  "title": "CSquared Briefs LTA on National Expansion Plan",
+  "publisher": "Verity News",
+  "published": "2025-09-01",
+  "sub_indicator": "backbone",
+  "why": "Q2 350km corridor"
+ },
+ {
+  "url": "https://techafricanews.com/2025/09/01/csquared-and-lta-board-meet-to-advance-digital-transformation-in-liberia/",
+  "title": "CSquared and LTA Board Meet",
+  "publisher": "TechAfrica News",
+  "published": "2025-09-01",
+  "sub_indicator": "backbone",
+  "why": "Q2 corridor, Ivory Coast link"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/csquared-completes-350km-fibre-link-in-liberia--1489483",
+  "title": "CSquared completes 350km fibre link in Liberia",
+  "publisher": "Telecompaper",
+  "published": "2024-01-30",
+  "sub_indicator": "backbone",
+  "why": "Q2 completed"
+ },
+ {
+  "url": "https://csquared.com/csquared-marks-significant-milestone-in-advancing-liberias-digital-connectivity-2/",
+  "title": "CSquared Marks Significant Milestone",
+  "publisher": "CSquared",
+  "published": "2024-01-24",
+  "sub_indicator": "backbone",
+  "why": "Q2/Q4 open-access backbone"
+ },
+ {
+  "url": "https://oraclenewsdaily.com/2026/06/16/advancing-regional-fiber-optic-expansion-strategy/",
+  "title": "Advancing Regional Fiber Optic Expansion Strategy",
+  "publisher": "Oracle News Daily",
+  "published": "2026-06-16",
+  "sub_indicator": "backbone",
+  "why": "Q3/Q4 CLSG OPGW commercialisation"
+ },
+ {
+  "url": "https://lta.gov.lr/wp-content/uploads/2024/01/USAID-ProICT-Report-on-Optical-Fiber-Cable.pdf",
+  "title": "ProICT: Report on Optical Fiber Cable",
+  "publisher": "USAID ProICT / LTA",
+  "published": "",
+  "sub_indicator": "backbone",
+  "why": "Q1 absence of backbone as of May 2021"
+ }
+]

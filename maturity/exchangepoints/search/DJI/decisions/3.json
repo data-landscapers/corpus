@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The World Bank's Horn of Africa broadband study (2021) reports the Djibouti Internet Exchange had 16 members including Cloudflare and carried about 5 to 6 Gbps, with Google, Meta and Akamai caches in Djibouti.",
+ "title": "Broadband Links",
+ "publisher": "World Bank",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

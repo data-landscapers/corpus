@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "reach;access",
+ "fact": "An August 2025 article states KTRN's fibre-optic backbone extends over 4,000 km connecting all districts and border areas and that KTRN provides wholesale connectivity to other mobile and internet service providers.",
+ "title": "KT Rwanda Networks: Rwanda's wholesale 4G & fibre backbone",
+ "publisher": "btw.media",
+ "published": "2025-08-27",
+ "date_source": "source",
+ "why_not": ""
+}

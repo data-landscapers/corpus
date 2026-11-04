@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "As of November 2026 Tanzania has 6 active IXPs in 5 of its 12 population centres over 300,000, with 43 members in total, including Dar es Salaam, Arusha, Dodoma, Mwanza and Zanzibar.",
+ "title": "IXP Tracker - Tanzania",
+ "publisher": "Internet Society Pulse",
+ "published": "2026-11",
+ "date_source": "source",
+ "why_not": ""
+}

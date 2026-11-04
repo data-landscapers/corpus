@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://governacaodigital.gov.cv/plataforma-eparticipa-gov-cv/",
+  "title": "Plataforma eParticipa.gov.cv",
+  "publisher": "EGDCV",
+  "published": "2022-07-15",
+  "sub_indicator": "feedback",
+  "why": "channel in service"
+ },
+ {
+  "url": "https://eparticipa.gov.cv/home-2/",
+  "title": "Home 2 - eParticipa",
+  "publisher": "Casa do Cidadao",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "ranking, statistics, future"
+ },
+ {
+  "url": "https://eparticipa.gov.cv/",
+  "title": "eParticipa",
+  "publisher": "Casa do Cidadao",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "portal"
+ },
+ {
+  "url": "https://www.governo.cv/governo-disponibiliza-novos-meios-eletronicos-de-interacao-com-administracao-publica-visando-melhoria-na-prestacao-do-servico-publico/",
+  "title": "Governo disponibiliza novos meios eletronicos de interacao",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2021-02-16",
+  "sub_indicator": "feedback",
+  "why": "Sistema de Avaliacao de Cliente"
+ },
+ {
+  "url": "https://www.opengovpartnership.org/members/cabo-verde/commitments/CV0006/",
+  "title": "e-Platform for Public Services Repository (CV0006)",
+  "publisher": "OGP",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "complaints via platform planned"
+ },
+ {
+  "url": "https://portaldaqueixa.cv/",
+  "title": "Portal Da Queixa",
+  "publisher": "Portal da Queixa",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "complaint portal"
+ }
+]

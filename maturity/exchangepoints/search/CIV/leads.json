@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://btw.media/en/abidjan-peering-keeping-traffic-home",
+  "title": "Abidjan, Peering, and the Price of Keeping Traffic at Home",
+  "publisher": "BTW Media",
+  "published": "2026-06-30",
+  "sub_indicator": "exchange",
+  "why": "IXP in service, Akamai present, traffic"
+ },
+ {
+  "url": "https://fr.apanews.net/technologies/peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps/",
+  "title": "Peering Day 2026: la RCI vise des ports Internet de 100 Gbps",
+  "publisher": "APAnews",
+  "published": "2026-06-15",
+  "sub_indicator": "exchange",
+  "why": "traffic growth, Akamai, Netflix"
+ },
+ {
+  "url": "https://digitalmag.ci/armand-koffi-artci-le-civix-cest-pour-reduire-notre-dependance-aux-liaisons-internationales-dinternet/",
+  "title": "Armand Koffi (ARTCI): Le CIVIX, c'est pour réduire notre dépendance",
+  "publisher": "Digital Mag",
+  "published": "2025-08-12",
+  "sub_indicator": "exchange",
+  "why": "content caches"
+ },
+ {
+  "url": "https://digitalmag.ci/cote-divoire-tout-savoir-sur-le-point-dechange-internet-civix/",
+  "title": "Tout savoir sur le point d'échange internet CIVIX",
+  "publisher": "Digital Mag",
+  "published": "2025-08-08",
+  "sub_indicator": "exchange;reach",
+  "why": "in service, third PoP at Grand-Bassam"
+ },
+ {
+  "url": "https://www.civix.ci/images/CIVIX/Rapport_dactivit_annuel_CIVIX_2024.pdf",
+  "title": "Rapport d'activité annuel CIVIX 2024",
+  "publisher": "ARTCI",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "traffic 2013-2024, Netflix joined"
+ },
+ {
+  "url": "https://www.euro-ix.net/en/services/member-news/spotlight-on-civix/",
+  "title": "Spotlight on CIVIX",
+  "publisher": "Euro-IX",
+  "published": "2021-05-20",
+  "sub_indicator": "exchange",
+  "why": "in service 10 ASNs"
+ },
+ {
+  "url": "https://www.civix.ci/images/CIVIX/rapport_annuel_CIVIX_2019.pdf",
+  "title": "Rapport annuel CIVIX 2019",
+  "publisher": "ARTCI",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "traffic 2019"
+ }
+]

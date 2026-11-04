@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backbone",
+ "aspect": "access",
+ "fact": "The IMT global service catalogue of May 2022 offers equipped capacity and dark fibre on the south, north and east backbone axes to operators and ISPs.",
+ "title": "Catalogue Global des Services 2022-2023",
+ "publisher": "International Mauritania Telecom (IMT/GIE)",
+ "published": "2022-05",
+ "date_source": "source",
+ "why_not": ""
+}

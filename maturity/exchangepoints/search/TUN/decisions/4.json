@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "TunIXP is listed in PeeringDB as an exchange in Tunis with four peers and 4 Gbps total capacity, record last updated 18 June 2019.",
+ "title": "TunIXP",
+ "publisher": "PeeringDB",
+ "published": "2019-06-18",
+ "date_source": "source",
+ "why_not": ""
+}

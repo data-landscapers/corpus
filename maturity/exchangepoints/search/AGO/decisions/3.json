@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "On 7 February 2022 the Angolan Internet Association and Microsoft signed a memorandum linking Angola IXP to Microsoft's Edge PoP in Angola, following Google and Facebook caches installed at Angola IXP in 2021.",
+ "title": "Microsoft Edge PoP ligado ao Angola IXP.",
+ "publisher": "Associação Angolana de Internet (AAI)",
+ "published": "2022-02-07",
+ "date_source": "source",
+ "why_not": ""
+}

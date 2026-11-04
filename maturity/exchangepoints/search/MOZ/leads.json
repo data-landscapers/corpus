@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.icolo.io/news/icolo-peering-environment-expands-in-maputo-with-the-entry-of-mozix/",
+  "title": "iColo's peering environment expands in Maputo with the entry of MozIX into MPM1 data center",
+  "publisher": "iColo",
+  "published": "2025-05-13",
+  "sub_indicator": "exchange",
+  "why": "Q1 IXP in service; capacity and members"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/MZ/",
+  "title": "IXP Tracker - Mozambique",
+  "publisher": "ISOC Pulse",
+  "published": "2026-10",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4 one IXP, one city; 97% network coverage"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/ixp/260/",
+  "title": "IXP Tracker - MOZIX",
+  "publisher": "ISOC Pulse",
+  "published": "2026-08",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4 members, foreign peers"
+ },
+ {
+  "url": "https://ixp.netsense-nms.com/MZ/ixps/mozix-528",
+  "title": "MOZIX - Internet Exchange Point in Maputo",
+  "publisher": "IXP Ecosystem",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1 capacity"
+ },
+ {
+  "url": "https://mozix.org.mz/index.php/traffic-graphs/",
+  "title": "Traffic Graphs - MOZIX",
+  "publisher": "MOZIX",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q3 traffic graphs"
+ }
+]

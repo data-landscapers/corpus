@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://tchadinfos.com/2026/02/27/la-mediature-de-la-republique-lance-son-site-web/",
+  "title": "La Médiature de la République lance son site web",
+  "publisher": "Tchadinfos",
+  "published": "2026-02-27",
+  "sub_indicator": "feedback",
+  "why": "online complaints launched"
+ },
+ {
+  "url": "https://atpe.td/tic-la-mediature-lance-son-site-web/",
+  "title": "TIC : La Médiature lance son site web",
+  "publisher": "ATPE",
+  "published": "2026-02-27",
+  "sub_indicator": "feedback",
+  "why": "online complaints launched"
+ },
+ {
+  "url": "https://lendjampost.com/tchad-le-ministere-de-la-justice-compte-creer-une-plateforme-virtuelle-de-depot-de-plaintes-et-requetes/",
+  "title": "Tchad : le ministère de la Justice compte créer une plateforme virtuelle de dépôt de plaintes et requêtes",
+  "publisher": "Le N'Djam Post",
+  "published": "2024-06-06",
+  "sub_indicator": "feedback",
+  "why": "planned online complaints platform"
+ },
+ {
+  "url": "https://traceinfos.com/tchad-installation-dun-comite-de-gestion-des-plaintes-numeriques-dans-la-province-du-moyen-chari/",
+  "title": "Tchad: Installation d'un comité de gestion des plaintes numériques dans la province du Moyen-Chari",
+  "publisher": "TraceInfos",
+  "published": "2025-04-03",
+  "sub_indicator": "feedback",
+  "why": "PATN complaint committee"
+ },
+ {
+  "url": "https://realitesinfo.com/2026/04/24/a-bol-le-patn-mise-sur-la-formation-des-comites-de-gestion-des-plaintes-pour-ameliorer-la-gouvernance-de-proximite/",
+  "title": "À Bol, le PATN mise sur la formation des comités de gestion des plaintes",
+  "publisher": "Realites Info",
+  "published": "2026-04-24",
+  "sub_indicator": "feedback",
+  "why": "PATN grievance mechanism"
+ },
+ {
+  "url": "https://www.jobrapide.org/offres/avis-appel-offres/avis-dappel-a-manifestation-dinteret-pour-le-recrutement-dun-consultant-charge-de-la-mise-en-place-dune-plateforme-numerique-pour-la-gestion-des-plaintes-tchad/",
+  "title": "Avis d'appel à manifestation d'intérêt ... plateforme numérique pour la gestion des plaintes",
+  "publisher": "RENFORT / Jobrapide",
+  "published": "2025-05-06",
+  "sub_indicator": "feedback",
+  "why": "project complaint platform tender"
+ },
+ {
+  "url": "https://reliefweb.int/map/chad/tchad-cartographie-mecanismes-de-feedback-plaintes-octobre-2025",
+  "title": "Tchad : Cartographie mécanismes de feedback /plaintes, Octobre 2025",
+  "publisher": "OCHA / ReliefWeb",
+  "published": "2025-10-09",
+  "sub_indicator": "feedback",
+  "why": "humanitarian feedback map"
+ },
+ {
+  "url": "https://www.securitepublique-tchad.org/fr/complaints/track",
+  "title": "Ministère de la Sécurité Publique et de l'Immigration - Suivi",
+  "publisher": "Ministère de la Sécurité Publique",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "ministry complaints portal"
+ }
+]

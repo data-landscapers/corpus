@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "As of September 2026 Cabo Verde has one active IXP (CV-IXP, Praia) with 5 members, and 6% of the 1000 most-visited sites are served from an in-country server or cache.",
+ "title": "IXP Tracker - Cabo Verde",
+ "publisher": "ISOC Pulse",
+ "published": "2026-09",
+ "date_source": "source",
+ "why_not": ""
+}

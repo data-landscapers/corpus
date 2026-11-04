@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "exchange",
+ "aspect": "",
+ "fact": "",
+ "title": "Windhoek Internet Exchange Point",
+ "publisher": "Packet Clearing House",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: undated database record with no traffic figures or members"
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://nosi.cv/pt/web/guest/w/internet-exchange-point-ixp-de-cabo-verde-implementado",
+  "title": "Internet Exchange Point (IXP) de Cabo Verde implementado",
+  "publisher": "NOSi",
+  "published": "2022-12-19",
+  "sub_indicator": "exchange",
+  "why": "IXP in service, stakeholders"
+ },
+ {
+  "url": "https://www.balai.cv/noticias/instituicoes-cabo-verdianas-que-estao-no-digital-criam-projeto-para-garantir-a-soberania-digital-em-cabo-verde/",
+  "title": "Instituicoes cabo-verdianas ... soberania digital",
+  "publisher": "Balai / Inforpress",
+  "published": "2022-12-17",
+  "sub_indicator": "exchange",
+  "why": "IXP project, operators"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/CV/",
+  "title": "IXP Tracker - Cabo Verde",
+  "publisher": "ISOC Pulse",
+  "published": "2026-09",
+  "sub_indicator": "exchange",
+  "why": "one IXP, 5 members, local cache share"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/ixp/1219/",
+  "title": "IXP Tracker - CV-IXP",
+  "publisher": "ISOC Pulse",
+  "published": "2026-08",
+  "sub_indicator": "exchange",
+  "why": "members, capacity"
+ },
+ {
+  "url": "https://www.peeringdb.com/ix/4037",
+  "title": "CV-IXP - PeeringDB",
+  "publisher": "PeeringDB",
+  "published": "2022-11-29",
+  "sub_indicator": "exchange",
+  "why": "Praia only, peers"
+ },
+ {
+  "url": "https://www.pch.net/ixp/details/2324",
+  "title": "CV-IXP | PCH",
+  "publisher": "PCH",
+  "published": "2022-11-29",
+  "sub_indicator": "exchange",
+  "why": "established date"
+ },
+ {
+  "url": "https://www.netify.ai/resources/cdn/google-cloud-cdn/country/cv",
+  "title": "Google Edge CDN - Cabo Verde",
+  "publisher": "Netify",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Google cache at CV Multimedia"
+ },
+ {
+  "url": "https://sigtel.ecowas.int/national-mobile-broadband-coverage/",
+  "title": "National Mobile Network Broadband Coverage",
+  "publisher": "ECOWAS SIGTEL",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "says no IXP"
+ }
+]

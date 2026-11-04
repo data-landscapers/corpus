@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "EG-IX, launched April 2022 by Telecom Egypt and AMS-IX, reached peak traffic of 945 Gb/s by Q3 2026 against 338 Gb/s in 2025 and 89 Gb/s in 2023.",
+ "title": "EG-IX: strengthening regional connectivity from Cairo",
+ "publisher": "AMS-IX",
+ "published": "2026-10-06",
+ "date_source": "source",
+ "why_not": ""
+}

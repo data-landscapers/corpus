@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://pulse.internetsociety.org/en/ixp-tracker/country/ER/",
+  "title": "IXP Tracker - Eritrea",
+  "publisher": "ISOC Pulse",
+  "published": "2026",
+  "sub_indicator": "exchange",
+  "why": "States no active IXP in Eritrea"
+ },
+ {
+  "url": "https://mesobjournal.com/post/eritrea-digital-sovereignty-red-sea-internet-gateway",
+  "title": "Eritrea's Digital Sovereignty: Building a Red Sea Internet Gateway",
+  "publisher": "Mesob Journal",
+  "published": "2026-08-10",
+  "sub_indicator": "exchange",
+  "why": "Argues an Asmara IXP should be built"
+ },
+ {
+  "url": "https://af-ix.org/ixps-list?order=field_ixp_city&sort=asc",
+  "title": "List of active Internet exchange points in Africa",
+  "publisher": "Africa IXP Association",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Active IXP list; Eritrea absent"
+ },
+ {
+  "url": "https://map.au-pida.org/projects/show/8300001",
+  "title": "Eritrea IXP",
+  "publisher": "PIDA PAP",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "AXIS IXP programme entry for Eritrea"
+ }
+]

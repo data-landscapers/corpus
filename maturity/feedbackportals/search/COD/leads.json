@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://acp.cd/economie/electricite-presentation-dune-plateforme-numerique-de-gestion-des-plaintes-a-kinshasa/",
+  "title": "Électricité : présentation d'une plateforme numérique de gestion des plaintes à Kinshasa",
+  "publisher": "ACP",
+  "published": "2026-10-06",
+  "sub_indicator": "feedback",
+  "why": "Q1,Q2 ARE online complaints platform"
+ },
+ {
+  "url": "https://dig.watch/updates/congos-ministry-launches-loba-consumer-platform",
+  "title": "DRC Ministry launches 'LOBA' a digital Consumer-Protection Platform",
+  "publisher": "Digital Watch Observatory",
+  "published": "2026-10-06",
+  "sub_indicator": "feedback",
+  "why": "Q1,Q3 LOBA across regulators"
+ },
+ {
+  "url": "https://www.africanewsrdc.net/actu/rdc-le-ministere-de-leconomie-nationale-lance-loba/",
+  "title": "RDC: le ministère de l'Économie nationale lance «LOBA»",
+  "publisher": "AfricaNews RDC",
+  "published": "2026-10-07",
+  "sub_indicator": "feedback",
+  "why": "Q3 LOBA multi-sector"
+ },
+ {
+  "url": "https://www.africanewsrdc.net/actu/loba-la-comco-mobilise-les-associations-pour-faire-entendre-la-voix-du-public/",
+  "title": "LOBA: la COMCO mobilise les associations",
+  "publisher": "AfricaNews RDC",
+  "published": "2026-10-19",
+  "sub_indicator": "feedback",
+  "why": "Q1,Q2 LOBA in service"
+ },
+ {
+  "url": "https://economie.gouv.cd/web/content/12275",
+  "title": "Communiqué de presse N°123/2026 - lancement de Loba",
+  "publisher": "Ministère de l'Économie nationale",
+  "published": "2026-04-30",
+  "sub_indicator": "feedback",
+  "why": "Q1 pilot chatbot"
+ },
+ {
+  "url": "https://acp.cd/economie/rdc-lancement-dune-plateforme-numerique-loba-pour-la-gestion-des-plaintes-des-consommateurs/",
+  "title": "RDC : lancement d'une plateforme numérique « LOBA »",
+  "publisher": "ACP",
+  "published": "2026-05-02",
+  "sub_indicator": "feedback",
+  "why": "Q1 pilot launch"
+ },
+ {
+  "url": "https://congorassure.cd/societe/2026/08/29/rdc-le-numero-155-de-larptc-mis-en-avant-pour-canaliser-les-plaintes-des",
+  "title": "RDC : le numéro 155 de l'ARPTC mis en avant",
+  "publisher": "CongoRassure",
+  "published": "2026-08-29",
+  "sub_indicator": "feedback",
+  "why": "Q1,Q2 ARPTC call centre"
+ },
+ {
+  "url": "https://fonctionpublique.gouv.cd/guide-de-lutilisateur/",
+  "title": "Guide de l'utilisateur - Portail de la Fonction Publique RDC",
+  "publisher": "Ministère de la Fonction Publique",
+  "published": "",
+  "sub_indicator": "feedback",
+  "why": "Q1 report abuse channel in app"
+ }
+]

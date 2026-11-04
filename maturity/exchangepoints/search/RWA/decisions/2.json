@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;reach",
+ "fact": "As of November 2026 RINEX in Kigali has 17 members in PeeringDB with 103 Gbps capacity, including networks registered in Mauritius, the United States, Kenya, Cote d'Ivoire and Sweden.",
+ "title": "IXP Tracker - Rwanda Internet Exchange - RINEX",
+ "publisher": "ISOC Pulse",
+ "published": "2026-11",
+ "date_source": "source",
+ "why_not": ""
+}
