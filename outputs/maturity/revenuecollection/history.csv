@@ -40,3 +40,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,SDN,dpi.pay--revenue-collection,fact,3,3,SDN-002;SDN-009,"Isali collects all budgeted fees and links to ASYCUDA; no filing of main taxes stated, stays 3"
 2026-10-28,RWA,dpi.pay--revenue-collection,fact,unplaced,3,RWA-003,"KT Press, October 2026: citizens pay fees for public services through Irembo by mobile money; electronic payment in service for some fees; unplaced -> 3"
 2026-11-03,GHA,dpi.pay--revenue-collection,fact,2,3,GHA-004;GHA-003,"Ghana Police: traffic fines under TraffiTech-GH payable by mobile money or card from 1 November 2026, so some fees are paid electronically: stage 2 to 3"
+2026-11-04,COD,dpi.pay--revenue-collection,fact,2,3,COD-003;COD-004,Kinshasa's irms-dgrk.com (March 2026) and Tshopo's Veri-Gov (August 2026) put provincial tax payment online: some taxes paid electronically
+2026-11-04,GHA,dpi.pay--revenue-collection,fact,3,5,GHA-006;GHA-004;GHA-001,President's May 2024 figure of GHc1.6bn through Ghana.gov since 2019 answers question 4; a later yes answers the earlier ones

@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "2",
-   "payment": "underway",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001;COD-002",
-   "gaps": "No source found since October 2023 says: can some taxes or fees be paid electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "payment": "inservice",
+      "main": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-003;COD-004",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically, and none gives a figure for revenue paid electronically.",
+      "note": "Reassessed 2026-11-04: provincial taxes are filed and paid online in Kinshasa (irms-dgrk.com, March 2026) and paid by mobile phone in Tshopo (Veri-Gov, August 2026), so some taxes are paid electronically. Nothing shows the main taxes and customs duties are, so not stage 4.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

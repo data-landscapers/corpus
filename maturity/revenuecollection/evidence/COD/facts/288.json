@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-21-cod-tshopo-le-gouvernement-lance-veri-gov-une-plateforme-pour-payer-les-im",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Tshopo provincial government officially launched Veri-Gov on 21 August 2026 in Kisangani, a platform for paying provincial taxes and revenues electronically by mobile phone, per Opinion Info.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "Veri-Gov",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Veri-Gov",
+   "country_label": "DR Congo (Tshopo province)",
+   "class": "revenue",
+   "platform": "mobile phone payment platform",
+   "owner": "Tshopo provincial government",
+   "tiers": "provincial"
+  }
+ ],
+ "note": ""
+}

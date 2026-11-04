@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-11-swz-over-2k-downloads-government-in-your-hand-app",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Eswatini Positive News reports that users can pay for a variety of government services directly from mobile money accounts through the Government-In-Your-Hand app.",
+   "as_of": "2025-06-11",
+   "date_precision": "day",
+   "system": "Government-In-Your-Hand app",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

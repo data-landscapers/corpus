@@ -6,8 +6,8 @@
 
 **Main taxes and duties.** No source found since October 2023 says the main taxes and customs duties are filed and paid electronically. The nearest fact is the [CitizenApp's tax-return filing](<https://www.biometricupdate.com/202410/ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-services>), announced in 2024.
 
-**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest fact is the [Ghana Revenue Authority's 2021 cashless policy](<https://gra.gov.gh/cashless-policy/>).
+**Share reported.** In May 2024 President Akufo-Addo said [transactions worth some GH¢1.6 billion had passed through the Ghana.gov portal](<https://3news.com/featured/ghanas-e-initiatives-good-model-for-digital-transformation-in-africa-akufo-addo>) since its launch in 2019. He said the portal had improved revenue collection. The [Ghana Revenue Authority's cashless policy](<https://gra.gov.gh/cashless-policy/>) of 2021 put domestic tax payments on that platform.
 
 ***Also on file***. [E-VAT](<https://gra.gov.gh/e-services/e-vat/>); [Paperless Port System](<https://doi.org/10.4324/9781003274322-9>).
 
-***Not found***. No source found since October 2023 says the main taxes and customs duties are paid electronically. None gives a figure for revenue paid that way.
+***Not found***. No source found since October 2023 says the main taxes and customs duties are paid electronically. The Ghana.gov figure is a running total since 2019, not split by tax.

@@ -42,12 +42,15 @@ CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extend
 CMR,SIGIT,SIGIT,other,,Directorate General of Taxation,,2026-04-10-kfw-cmr-2026-sigit-tax-duty-management-system
 CMR,SchoolMap,Cameroon,other,SchoolMap,Ministry of Secondary Education,,2024-08-28-cmr-cameroon-deploys-schoolmap-to-simplify-tuition-payment
 CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
+CMR,registrations.dgi.cm,Cameroon,revenue,Harmony SSO,Direction Generale des Impots,"registration duties, 3 acts",2026-08-15-cmr-registrations-dgi-cm-enregistrer-un-acte-en-ligne
 COD,FACNOR RDC,DR Congo,other,mobile app,DGI,,2026-10-09-cod-rdc-monde-dgi-facture-normalisee-controle
 COD,VAT télédéclaration,DR Congo,revenue,,DGI,,2026-09-03-cod-7sur7-tva-e-finance-huawei
 COD,E-Finance programme,DR Congo,other,Huawei,Ministry of Finance,,2026-09-03-cod-7sur7-tva-e-finance-huawei
 COD,facture normalisée,DR Congo,other,electronic fiscal devices,DGI,,2026-08-06-cod-facture-normalisee-fwamba
 COD,Go Pass electronic payment platform,Go Pass,revenue,TRAFIGO SARL platform,Ville-province de Kinshasa,,2026-06-11-ndjili-go-pass-paiement-electronique-rdcmonde
 COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
+COD,irms-dgrk.com,DR Congo,revenue,tax platform,Direction generale des recettes de Kinshasa,,2026-03-06-cod-kinshasa-la-dgrk-lance-la-plateforme-irms-dgrk-com-pour-la-declaration
+COD,Veri-Gov,DR Congo (Tshopo province),revenue,mobile phone payment platform,Tshopo provincial government,provincial,2026-08-21-cod-tshopo-le-gouvernement-lance-veri-gov-une-plateforme-pour-payer-les-im
 COG,Fouta,Congo,revenue,national switch monetique,"Ministere des Finances, du Budget et du Portefeuille public","large, then medium, then all taxpayers by end 2026",2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
 COG,E-Tax,Congo,other,tax declaration platform,"Ministere des Finances, du Budget et du Portefeuille public",,2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
 COG,Sydonia,Congo,other,customs declaration platform,,,2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
@@ -100,6 +103,7 @@ GHA,ITAPS,Ghana,revenue,,Ghana Revenue Authority,,2022-11-11-gha-routledge-digit
 GHA,Paperless Port System,Ghana,other,GCNet,Ghana Revenue Authority,,2022-11-11-gha-routledge-digitalisation-revenue-mobilisation
 GHA,TraffiTech-GH,Ghana,other,TraffiTech-GH,Ghana Police Service (MTTD),,2026-11-02-ghana-la-police-deploie-des-cameras-connectees-pour-automati
 GIN,Tresor Pay,Guinea,revenue,"mobile phone, e-money services",Ministry of Economy and Finance,,2025-12-23 Guinea rolls out Tresor Pay as digital gateway for public payments
+GIN,eTax,Guinea,revenue,online tax platform,government,,2026-05-18-gin-la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administra
 GMB,SUTURA,GMB,revenue,,Nifty ICT Solutions with GAMPOST,,2026-07-20-gambia-accountant-general-sutura-digital-revenue-collection
 GMB,Accountant General integrated digital payment system,GMB,revenue,,Office of the Accountant General,,2026-07-20-gambia-accountant-general-sutura-digital-revenue-collection
 GMB,Yonna Wallet,Gambia,revenue,mobile wallet app,Yonna Group,,2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app

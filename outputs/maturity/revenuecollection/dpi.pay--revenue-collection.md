@@ -20,10 +20,10 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 7 |
 | 4 Operating | 3 |
 | 3 Established | 38 |
-| 2 Nascent | 5 |
+| 2 Nascent | 4 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -35,6 +35,14 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 A figure for revenue paid electronically was reported in 2024.
 
 - The Ministry of Finance gives EGP 2.5 trillion of e-payment and collection for July 2023 to May 2024, with electronic tax collection of EGP 613.1 billion and customs collection of EGP 284.3 billion ([source, 2024-05](https://english.ahram.org.eg/NewsContent/3/12/525882/Business/Economy/Epayment,-collection-services-in-Egypt-rise-to-EGP.aspx)).
+
+### Ghana: 5 Leading
+
+About GH¢1.6 billion passed through the government's payment portal from 2019 to 2024; whether the main taxes and duties are paid electronically is not known.
+
+- President Akufo-Addo said transactions worth some GH¢1.6 billion had passed through the Ghana.gov payment portal since its launch in 2019, improving revenue collection ([source, 2024-05-13](https://3news.com/featured/ghanas-e-initiatives-good-model-for-digital-transformation-in-africa-akufo-addo)).
+- Ghana Police say traffic fines notified under TraffiTech-GH from 1 November 2026 can be paid electronically by mobile money or card within 14 days ([source, 2026-11-01](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)).
+- The Ghana Revenue Authority says domestic taxpayers pay taxes on the Ghana.gov platform by bank card, QR code, mobile money USSD and bank transfers, and at 22 designated banks, from 1 May 2021 ([source, 2021-04-21](https://gra.gov.gh/cashless-policy/)).
 
 ### Mali: 5 Leading
 
@@ -165,6 +173,13 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 - The BCEAO says Treasuries connected to PI-SPI can receive taxes and duties from any account, and Cote d'Ivoire's Treasury has met all PI-SPI requirements ([source, 2026-10-08](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)).
 - Minister Adama Coulibaly says collections via TresorPay reached FCFA 36 billion from 2.5 million transactions in 2024 ([source, 2024](https://www.koaci.com/article/2025/09/15/cote-divoire/economie/cote-divoire-modernisation-des-finances-de-letat-le-tresor-public-accroit-ses-performances-grace-a-un-systeme-de-digitalisation-efficace-et-transparent_190194.html)).
 
+### DR Congo: 3 Established
+
+Two provinces put provincial tax payment online in 2026; whether the main taxes and customs duties are paid electronically is not known.
+
+- Kinshasa's provincial revenue directorate (DGRK) launched irms-dgrk.com on 5 March 2026 to let taxpayers file and pay provincial taxes online by several payment means ([source, 2026-03-05](https://deskeco.com/2026/03/06/kinshasa-la-dgrk-lance-la-plateforme-irms-dgrkcom-pour-la-declaration-et-le-paiement-des-impots-en)).
+- Tshopo provincial government officially launched Veri-Gov on 21 August 2026 in Kisangani, a platform for paying provincial taxes and revenues electronically by mobile phone, per Opinion Info ([source, 2026-08-21](https://www.opinion-info.cd/politique/2026/08/21/tshopo-le-gouvernement-lance-veri-gov-une-plateforme-pour-payer-les-impots-et)).
+
 ### Eswatini: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
@@ -191,13 +206,6 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 
 - The Point reports the Gambia's Deputy Accountant General said government has an integrated digital payment system already integrating several commercial banks and other channels, with digital payments making tax payments easier, and an MoU signed 2026-07-17 adds SUTURA for taxes, fees and other charges ([source, 2026-07-17](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection)).
 - Under a partnership with the Accountant General's Department, government fees such as rates, business registration, ID cards and passports can be paid through Yonna Wallet, which the source says is live ([source, 2026-03-02](https://standard.gm/govt-payments-now-digitalised-live-on-yonna-wallet-app)).
-
-### Ghana: 3 Established
-
-Traffic fines can be paid by mobile money or card from November 2026; whether the main taxes and duties are paid electronically is not known.
-
-- Ghana Police say traffic fines notified under TraffiTech-GH from 1 November 2026 can be paid electronically by mobile money or card within 14 days ([source, 2026-11-01](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)).
-- Vice President Bawumia listed the filing of tax returns among the services reachable through the CADIS app launched on 7 October 2024, without saying tax can be paid there ([source, 2024-10-07](https://www.biometricupdate.com/202410/ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-services)).
 
 ### Guinea: 3 Established
 
@@ -348,13 +356,6 @@ Electronic payment of taxes or fees was under way in 2026; none in service is on
 
 - The Directorate General of Taxes launched a three-day workshop on 15 April 2026, funded by AFD's PAGFSI project, to validate the legal framework for fiscal teleprocedures and prepare the progressive rollout of tax e-filing (télédéclaration) and e-payment (télépaiement) under the 2026 finance law ([source, 2026-04-15](https://finances.gouv.km/actualite_post/atelier-dgi-au-retaj-sur-la-validation-du-cadre-juridique-des-teleprocedures-fiscales-2026/)).
 - The Directorate General of Taxes launched a three-day workshop on 15 April 2026, supported by AFD's PAGFSI project, to validate the legal framework for fiscal teleprocedures and prepare the progressive rollout of tax e-filing (télédéclaration) and e-payment (télépaiement) under the 2026 finance law ([source, 2026-04-15](https://dgi.gouv.km/fr/actualite.php?article_id=93)).
-
-### DR Congo: 2 Nascent
-
-Electronic payment of taxes or fees was under way in 2026; none in service is on record.
-
-- Finance minister Doudou Fwamba said generalised VAT e-filing (télédéclaration) at the DGI, with the phased facture normalisée, lifted monthly VAT collection from about FC 280bn to over FC 320bn ([source, 2026-09-03](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux)).
-- Kinshasa's provincial finance minister announced that the Go Pass departure fee at N'djili airport will be paid electronically from July 2026, on a platform built by TRAFIGO SARL ([source, 2026-06-11](https://rdc-monde.com/aeroport-de-ndjili-le-paiement-electronique-du-go-pass-annonce-des-juillet/)).
 
 ### Djibouti: 2 Nascent
 

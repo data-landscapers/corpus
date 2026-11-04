@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "3",
+      "stage": "5",
       "payment": "inservice",
       "main": "",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-004;GHA-003",
-      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically, and none gives a figure for revenue paid electronically. GRA's Ghana.gov and ITAPS payment facts date from 2021 and 2019.",
-      "note": "From 1 November 2026 traffic fines notified under TraffiTech-GH can be paid by mobile money or card (GHA-004), so some fees are paid electronically. Nothing in the window says the main taxes and customs duties are, so not stage 4.",
-      "as_at": "2026-11-03"
+      "stage_sources": "GHA-006;GHA-004;GHA-001",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically; the reported figure is a cumulative Ghana.gov total since 2019, not a share.",
+      "note": "Reassessed 2026-11-04: the President gave GH¢1.6 billion of transactions through Ghana.gov since 2019 (May 2024), a figure for revenue paid electronically, which answers question 4; under the study file a later yes answers the earlier ones, so stage 5 although the main taxes are not shown.",
+      "as_at": "2026-11-04"
     }
   ]
 }
