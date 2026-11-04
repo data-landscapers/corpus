@@ -1,12 +1,12 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 02-11-2026 at 21:22 — Covering sources published on 2 November 2026
-window_start: 2026-11-02
-window_end: 2026-11-03
-items: 30
-collected_to: 2026-11-02 21:22
-compiled: 2026-11-02 22:41
+subtitle: Last updated 03-11-2026 at 18:41 — Covering sources published on 3 November 2026
+window_start: 2026-11-03
+window_end: 2026-11-04
+items: 23
+collected_to: 2026-11-03 18:41
+compiled: 2026-11-03 20:11
 ---
 
 # Bulletin
@@ -18,15 +18,13 @@ compiled: 2026-11-02 22:41
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digitalisation">Digitalisation</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 <div class="bulletin-filter screen-only" hidden>
@@ -35,29 +33,27 @@ compiled: 2026-11-02 22:41
 <option value="">All countries and regions</option>
 <optgroup label="Regions">
 <option value="XAF">Africa</option>
+<option value="XEA">East Africa</option>
+<option value="XSA">Southern Africa</option>
+<option value="XWA">West Africa</option>
 </optgroup>
 <optgroup label="Countries">
 <option value="BEN">Benin</option>
 <option value="BFA">Burkina Faso</option>
-<option value="BDI">Burundi</option>
 <option value="CMR">Cameroon</option>
-<option value="CPV">Cape Verde</option>
-<option value="COM">Comoros</option>
-<option value="COD">DRC</option>
-<option value="DJI">Djibouti</option>
+<option value="CIV">Côte d'Ivoire</option>
 <option value="EGY">Egypt</option>
-<option value="SWZ">Eswatini</option>
-<option value="GMB">Gambia</option>
+<option value="GAB">Gabon</option>
 <option value="GHA">Ghana</option>
-<option value="GIN">Guinea</option>
 <option value="KEN">Kenya</option>
-<option value="LBR">Liberia</option>
-<option value="MLI">Mali</option>
-<option value="MOZ">Mozambique</option>
+<option value="MDG">Madagascar</option>
+<option value="NER">Niger</option>
 <option value="NGA">Nigeria</option>
 <option value="SEN">Senegal</option>
-<option value="SOM">Somalia</option>
+<option value="SLE">Sierra Leone</option>
 <option value="ZAF">South Africa</option>
+<option value="SSD">South Sudan</option>
+<option value="ZMB">Zambia</option>
 </optgroup>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
@@ -67,147 +63,179 @@ compiled: 2026-11-02 22:41
 
 ### Strategies, plans and policies
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item" data-places="ZMB XEA XSA" markdown="1">
 
-**[State to strengthen cybersecurity as threats surge, says Murkomen](https://www.kbc.co.ke/state-to-strengthen-cybersecurity-as-threats-surge-says-murkomen/)** — KBC Digital, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[COMESA, World Bank Back Regional Drive to Connect 180 Million People Through Digital Inclusion](https://efficacynews.africa/2026/11/03/comesa-world-bank-back-regional-drive-to-connect-180-million-people-through-digital-inclusion/)** — Efficacy News, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
-Kenya's National Cybersecurity Agency Board, chaired by Martin Koyabe, was inaugurated at Harambee House. Interior Cabinet Secretary Kipchumba Murkomen directed it to build the real-time detection and response capacity of the National Cybersecurity Operations Centre. Communications Authority data put DDoS attacks at 72.16 million in the year to June 2026, up 114.3%. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="GHA" markdown="1">
-
-**[Sensitive Data Must Be Hosted on Secure Infrastructure – Sam George](https://thevaultznews.com/2026/11/02/sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george/)** — The Vaultz News, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
-
-Ghana's communications minister, Sam George, spoke at the Africa Virtual Asset Summit 2026. He said providers licensed under the Virtual Asset Service Providers Act, 2025 (Act 1154) should verify customers biometrically against the NIA register. Sensitive data, he said, must sit on secure sovereign infrastructure such as G-Cloud. He put One Million Coders at more than 140,000 registered and over 10,000 trained. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Data Storage](#data-storage).*</span>
+COMESA and the World Bank held a validation workshop for the IDEA digital inclusion programme in Chongwe, Zambia, from 3 to 5 November 2026. Participants reviewed a draft regional digital inclusion strategy and action plan. The programme has an indicated envelope of about US$2.48 billion and aims to connect some 180 million people. <span class="bulletin-item__also">*Also under [Regional collaboration](#regional-collaboration), [Digital divides](#digital-divides) and [Connectivity](#connectivity).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="GHA" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[Opening Remarks by Governor Dr Johnson Pandit Asiama at the 11th Meeting of the Payment Systems Advisory Committee](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)** — Bank of Ghana, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+**[Call for Inputs: Draft Continental Study on Digital Violence Against Women in Africa](https://achpr.au.int/en/news/announcements/2026-11-03/call-inputs-draft-continental-study-digital-violence-against-women)** — African Commission on Human and Peoples' Rights, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Systems Advisory Committee on 2 November 2026. He named low GhQR adoption, no agent interoperability and growing bilateral arrangements as sources of fragmentation. He put GhIPSS volumes at about 530 million transactions worth over GH¢1.73 trillion in 2025. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="COM" markdown="1">
-
-**[Draft country programme document for Comoros (2027-2030)](https://www.undp.org/sites/g/files/zskgke326/files/2026-10/draft-undp-cpd-for-comoros-2027-2030.pdf)** — UNDP / UN Executive Board, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a>
-
-UNDP has published a draft country programme document for Comoros for 2027 to 2030. It goes to the UNDP Executive Board's session of 25 to 28 January 2027. The programme includes a digital and AI accelerator, interoperability work and support for the 2026 to 2030 statistics strategy. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [National statistics](#national-statistics).*</span>
+The African Commission on Human and Peoples' Rights published its draft Continental Study on Digital Violence Against Women in Africa for stakeholder review. The study covers 20 countries and finds that none has enacted comprehensive gender-responsive legislation on digital violence against women. Inputs are due by 4 December 2026, and an online consultation is set for 11 November. <span class="bulletin-item__also">*Also under [Regional collaboration](#regional-collaboration) and [Cybersecurity](#cybersecurity).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="GIN" markdown="1">
+<div class="bulletin-item" data-places="CMR XAF" markdown="1">
 
-**[Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation](https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417)** — SikaFinance, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a>
+**[Africa’s AI ambitions depend on stronger digital public infrastructure, expert says](https://www.biometricupdate.com/202611/africas-ai-ambitions-depend-on-stronger-digital-public-infrastructure-expert-says)** — Biometric Update, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-The 24th FRATEL annual meeting met in Conakry from 28 to 30 October 2026 on the connectivity gap between cities and rural areas. A Guinean telecoms official gave the national target: fibre from 4,350 km to 10,000 km by 2030. The plan names 857 priority rural localities and a one-stop shop for infrastructure sharing. An ITU speaker said 2.2 billion people remained offline in 2025. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity) and [Digital divides](#digital-divides).*</span>
+In an interview with Biometric Update, Cameroonian AI-governance lawyer Remy Takang argued that African governments should build reliable digital public infrastructure before drafting national AI strategies. He called for a rights-based framework for high-impact AI systems, with a right to redress. He argued that amending existing sector laws could serve in place of a single comprehensive AI law. <span class="bulletin-item__also">*Also under [AI](#ai) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
 
 </div>
 
 ### Legislation and regulation
 
-<div class="bulletin-item" data-places="COD" markdown="1">
+<div class="bulletin-item" data-places="EGY" markdown="1">
 
-**[Sénat : examen mercredi des amendements sur la proposition de loi modifiant Code numérique](https://acp.cd/nation/senat-examen-mercredi-des-amendements-sur-la-proposition-de-loi-modifiant-code-numerique/)** — ACP (Agence Congolaise de Presse), 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+**[مصر تعتزم إصدار قانون خاص بالذكاء الاصطناعى لتنظيم استخداماته وحوكمته](https://www.youm7.com/story/2026/11/3/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA%D9%87-%D9%88%D8%AD%D9%88%D9%83%D9%85%D8%AA%D9%87/7604583)** — Youm7, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-The DRC Senate adopted on 31 October 2026 the joint committee report on a bill amending the 2023 digital code to protect minors online. Twenty-two senators' amendments go to the joint committee, which has 72 hours to examine them before the sitting of 4 November. Senators raised age bands for minors, access to digital content and age verification. <span class="bulletin-item__also">*Also under [Data protection](#data-protection).*</span>
+Youm7 reported that Egypt is in the final drafting stage of a dedicated law to regulate AI applications and their governance. The report names no official as its source. AI is governed at present under existing laws, including the Personal Data Protection Law 151 of 2020, cybercrime law 175 of 2018 and a 2022 fintech law. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="CPV" markdown="1">
+<div class="bulletin-item" data-places="GHA" markdown="1">
 
-**[Cabo Verde altera regime de entrada e permanência de estrangeiros e prevê pedidos de vistos por via digital - Forbes África Lusofona](https://forbesafricalusofona.com/cabo-verde-altera-regime-de-entrada-e-permanencia-de-estrangeiros-e-preve-pedidos-de-vistos-por-via-digital/)** — Forbes Africa Lusófona, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a>
+**[No new Ghana Cards required under biometric verification law – NIA](https://www.myjoyonline.com/no-new-ghana-cards-required-under-biometric-verification-law-nia-2/)** — MyJoyOnline, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-Cabo Verde's interim President promulgated the third amendment to the decree-law on the entry, stay, exit and expulsion of foreigners. Nationals of countries that need a prior visa may now apply through a digital platform. The amendment also changes the Airport Security Tax and its exemptions for the diaspora. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+Ghana's National Identification Authority said on 2 November 2026 that L.I. 2523 requires no new Ghana Cards or fresh biometric registration. The regulation extends mandatory biometric checks to private deals such as land sales and bars photocopying or visual inspection of the card. An NIA mobile app will give individuals a yes-or-no check. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="MDG" markdown="1">
+
+**[JONAH ANDRIANANTOANINA - « Le secteur du numérique doit changer d’échelle »](https://www.lexpress.mg/2026/11/jonah-andrianantoanina-le-secteur-du.html)** — L'Express de Madagascar, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a>
+
+Economist Jonah Andrianantoanina of the CREM think tank said Madagascar's 2005 digital-sector law is obsolete. He backed bill 040/2026 on electronic communications and digital infrastructure, filed in late August 2026. He projected that it and related reforms could add about MGA 4,000 billion to GDP and 330,000 digital jobs by 2031. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity) and [AI](#ai).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[ICASA takes aim at dormant telecoms licences](https://www.itweb.co.za/article/icasa-takes-aim-at-dormant-telecoms-licences/j5alrvQAdwJvpYQk)** — ITWeb South Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+South Africa's regulator ICASA published a Discussion Document on 30 October 2026 in its inquiry into individual network service licences. It found most of its 470 such licences dormant and proposes that new operators apply to it directly instead of buying existing ones. It is weighing a use-it-or-lose-it rule; comments are due within 45 working days. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity) and [ICT Industry](#ict-industry).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[Fake SIMS hold SA to ransom](https://www.citizen.co.za/news/opinion/fake-sims-hold-sa-to-ransom/)** — The Citizen, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+In The Citizen, Johan van Graan argued that SIM cards registered in bulk to false identities hamper police work on ransom kidnappings. Justice Minister Mmamoloko Kubayi promised tougher RICA enforcement from 1 July 2026; by 9 October no results had been reported, he wrote. He cites 27 SIM-crime investigations since 2020, with one arrest. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
 
 </div>
 
 ### Data protection
 
-<div class="bulletin-item" data-places="LBR" markdown="1">
+<div class="bulletin-item" data-places="XWA" markdown="1">
 
-**[National ID Deal Under Scrutiny Over Revenue, Data Security](https://www.liberianobserver.com/news/national-id-deal-under-scrutiny-over-revenue-data-security/article_e4054c6e-5002-438d-ad8d-761fdecadc47.html)** — Liberian Observer, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
+**[Monnaie électronique dans l'Uemoa : le passage obligatoire à la PI-SPI sème la confusion chez les usagers](https://www.pressafrik.com/%E2%80%8BMonnaie-electronique-dans-l-Uemoa-le-passage-obligatoire-a-la-PI-SPI-seme-la-confusion-chez-les-usagers_a313990.html)** — PressAfrik, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-The Liberia Information Technology Consortium challenged the proposed US$52 million National Identification Registry concession with Austria's OeSD International GmbH. It cited a 65–35 revenue split in OeSD's favour: about US$69.5 million of a projected US$107 million in fees over ten years, against US$37.4 million for Liberia. It also raised unanswered questions on data hosting, encryption-key control and local participation. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="MOZ" markdown="1">
-
-**[Mozambique Advances Responsible AI in Electoral Administration to Strengthen Democratic Institutions](https://www.undp.org/mozambique/news/mozambique-advances-responsible-ai-electoral-administration-strengthen-democratic-institutions)** — United Nations Development Programme, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
-
-Mozambique held its first training of trainers on artificial intelligence in electoral administration, in Macaneta from 19 to 23 October 2026, with UNDP support. Twenty-six professionals came from six institutions. They were the electoral commission, its technical secretariat, the Constitutional Council, the Supreme Court, the police and the Attorney General's office. Sessions covered cybersecurity, data protection, risk management and spotting deepfakes. <span class="bulletin-item__also">*Also under [AI](#ai) and [Training and skills](#training-and-skills).*</span>
+PressAfrik reported failed bank-to-wallet transfers as mandatory PI-SPI routing began on 2 November 2026; the Launch Base Africa entry covers the rollout. Economist Souleymane Astou Diagne said coverage is incomplete, as microfinance has until 30 June 2027 to connect. He named fraud, platform outages and state use of payment data as risks. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="MLI" markdown="1">
+<div class="bulletin-item" data-places="SLE" markdown="1">
 
-**[Cybercriminalité : l’APDP plaide pour une majorité numérique dans l’espace AES](https://malijet.com/actualite-sur-aes/312640-cybercriminalite-lapdp-plaide-pour-une-majorite-numerique.html)** — Malijet, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a>
+**[Government of Sierra Leone’s Advanced Spectrum Monitoring System may violate privacy rights and carry risks that outweigh technical merits](https://www.thesierraleonetelegraph.com/government-of-sierra-leones-advanced-spectrum-monitoring-system-may-violate-privacy-rights-and-carry-risks-that-outweigh-technical-merits/)** — Sierra Leone Telegraph, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
 
-Mali's data protection authority, the APDP, proposed a digital age of majority for the Confederation of Sahel States. It made the proposal at Burkina Faso's second national anti-cybercrime week, held from 27 to 30 October 2026. The APDP wants a legal age for independent use of digital services written into the Confederation's texts. <span class="bulletin-item__also">*Also under [Regional collaboration](#regional-collaboration).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="CMR" markdown="1">
-
-**[Cameroon Finds 3,914 Fintech Security Vulnerabilities After Earlier Audits Flagged Over 6,500](https://www.businessincameroon.com/public-management/0211-17091-cameroon-finds-3-914-fintech-security-vulnerabilities-after-earlier-audits-flagged-over-6-500)** — Business in Cameroon, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Cameroon's ANTIC reported 3,914 security vulnerabilities across 108 audits of fintech operators, presented at the Digitise Cameroon Forum on 28 October 2026. A November 2025 announcement had counted more than 6,500 vulnerabilities in 119 audits. ANTIC has not said how many of the latest findings are critical or have been corrected. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity) and [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="COD" markdown="1">
-
-**[Sénat : examen mercredi des amendements sur la proposition de loi modifiant Code numérique](https://acp.cd/nation/senat-examen-mercredi-des-amendements-sur-la-proposition-de-loi-modifiant-code-numerique/)** — ACP (Agence Congolaise de Presse), 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
+In an opinion piece, lawyer Joseph Fitzgerald Kamara argued that Sierra Leone's new spectrum monitoring system can locate transmitters and so could serve surveillance. Sierra Leone has no data protection law in force and no independent privacy regulator, he noted. He called for that law, judicial warrants, parliamentary oversight and donor conditions. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
 
 </div>
 
 ### Regional collaboration
 
-<div class="bulletin-item" data-places="XAF" markdown="1">
+<div class="bulletin-item" data-places="XWA" markdown="1">
 
-**[Smart Africa Partners with ITU to Strengthen Telecom Regulation Across Africa](https://techafricanews.com/2026/11/02/smart-africa-itu-partnership-strengthen-telecom-regulation-africa/)** — Tech Africa News, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[Finances : La BCEAO se dote d'un nouveau systeme de paiement instantane](https://anp.ne/finances-la-bceao-se-dote-dun-nouveau-systeme-de-paiement-instantane/)** — Agence Nigerienne de Presse, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Smart Africa and the ITU partnered to train African policymakers and telecom regulators in pro-competition broadband and telecommunications regulation. Through the Smart Africa Digital Academy and the ITU Academy, three accredited e-learning courses in English, French and Portuguese were released as digital public goods. The partnership aims to reach more than 3,000 policymakers. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
+Agence Nigérienne de Presse relayed a BCEAO statement of 2 November 2026 on mandatory PI-SPI routing; the Launch Base Africa entry covers the rollout. It sets a FCFA 100 million ceiling on instant business-to-business payments, which banks may lower. The same rules are to cover cross-border WAEMU transfers from 1 June 2027. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MLI" markdown="1">
+<div class="bulletin-item" data-places="XWA" markdown="1">
 
-**[Cybercriminalité : l’APDP plaide pour une majorité numérique dans l’espace AES](https://malijet.com/actualite-sur-aes/312640-cybercriminalite-lapdp-plaide-pour-une-majorite-numerique.html)** — Malijet, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a>
+**[ECOWAS STRENGTHENS THE HARMONIZATION OF MONETARY AND FINANCIAL STATISTICS TO SUPPORT REGIONAL ECONOMIC INTEGRATION](https://www.ecowas.int/la-cedeao-renforce-lharmonisation-des-statistiques-monetaires-et-financieres-pour-soutenir-lintegration-economique-regionale/)** — ECOWAS, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Summarised under [Data protection](#data-protection).
+The ECOWAS Commission and the West African Monetary Agency opened an experts' meeting on monetary and financial statistics in Lomé on 2 November 2026. Central bank statisticians are reviewing a draft regional metadata framework until 7 November. They are also assessing a regional action plan adopted in January 2025. <span class="bulletin-item__also">*Also under [National statistics](#national-statistics) and [Standards](#standards).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="CIV GAB" markdown="1">
+
+**[Côte d’Ivoire and Gabon explore cooperation on AI and digital public services](https://techreviewafrica.com/news/8103/cote-divoire-and-gabon-explore-cooperation-on-ai-and-digital-public-services)** — Tech Review Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
+
+Côte d'Ivoire's digital minister Djibril Ouattara and Gabon's Mark-Alexandre Doumba discussed cooperation on AI, digital public services and data infrastructure in Libreville. They met at the sixth session of the African Union's Specialised Technical Committee on Communication and ICT. The avenues named include reuse of public-service algorithms, cross-data backups and shared computing capacity. <span class="bulletin-item__also">*Also under [AI](#ai) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="NER BFA" markdown="1">
+
+**[Cybersécurité : le Niger sollicite l’expérience du Burkina Faso pour son SOC national](https://www.wearetech.africa/fr/fils/actualites/tech/cybersecurite-le-niger-sollicite-l-experience-du-burkina-faso-pour-son-soc-national)** — wearetech.africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
+
+A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the communications ministry, visited Burkina Faso's information-security agency ANSSI-BF from 2 to 6 November 2026. The study mission prepares Niger's national Security Operations Centre. Niger's government created its Centre national de cybersécurité by decree in October 2025. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="GHA XAF" markdown="1">
+
+**[Connecting Africa's wallets, unlocking Africa's trade, smartly](https://www.citinewsroom.com/2026/11/connecting-africas-wallets-unlocking-africas-trade-smartly-gabby-asare-otchere-darko-writes/)** — Citi Newsroom, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Gabby Asare Otchere-Darko, chairman of the Africa Prosperity Network, argued in an opinion piece for linking Africa's mobile money wallets across borders. He made the case at the Africa Internet Governance Forum in Accra on 2 November 2026. The network estimates that this and visa-free travel could lift intra-African trade from 16% to over 25%. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="XAF" markdown="1">
+
+**[Africa's $775bn savings pool trapped as cross-border finance stalls](https://businessday.ng/news/article/africas-775bn-savings-pool-trapped-as-cross-border-finance-stalls/)** — BusinessDay Nigeria, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The sixth African Financial Industry Barometer, presented in Luanda on 3 November 2026, found 11% of surveyed financial institutions connected to the Pan-African Payment and Settlement System and 45% with no plans to connect. Only 7% reported tangible progress under the AfCFTA. About 66% reported a rise in digital fraud, and 88% of banks and fintechs. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [Cybersecurity](#cybersecurity).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZMB XEA XSA" markdown="1">
+
+**[COMESA, World Bank Back Regional Drive to Connect 180 Million People Through Digital Inclusion](https://efficacynews.africa/2026/11/03/comesa-world-bank-back-regional-drive-to-connect-180-million-people-through-digital-inclusion/)** — Efficacy News, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+
+**[Call for Inputs: Draft Continental Study on Digital Violence Against Women in Africa](https://achpr.au.int/en/news/announcements/2026-11-03/call-inputs-draft-continental-study-digital-violence-against-women)** — African Commission on Human and Peoples' Rights, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
 ### Standards
 
-<div class="bulletin-item" data-places="SWZ" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XWA" markdown="1">
 
-**[Eswatini Standards Authority and Artificial Intelligence Center of Excellence (AICE) Africa launch AI Safety and Standards Center of Excellence](https://www.africa-newsroom.com/press/eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards-center-of-excellence?lang=en)** — AICE Africa and Eswatini Standards Authority (via APO Group), 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
+**[ECOWAS STRENGTHENS THE HARMONIZATION OF MONETARY AND FINANCIAL STATISTICS TO SUPPORT REGIONAL ECONOMIC INTEGRATION](https://www.ecowas.int/la-cedeao-renforce-lharmonisation-des-statistiques-monetaires-et-financieres-pour-soutenir-lintegration-economique-regionale/)** — ECOWAS, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-The Eswatini Standards Authority and AICE Africa launched an AI Safety and Standards Center of Excellence, under a partnership formalised in September 2026. It will build the authority's EswasaOne AI platform, train standards officers, auditors and regulators, and develop a proposed AI testing laboratory. A summit is planned for Mbabane in July 2027. <span class="bulletin-item__also">*Also under [AI](#ai) and [Training and skills](#training-and-skills).*</span>
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
 ### Public debate and participation in policymaking
 
-<div class="bulletin-item" data-places="BDI" markdown="1">
+<div class="bulletin-item" data-places="GHA" markdown="1">
 
-**[Pénurie de cash : et si on payait enfin avec nos téléphones ?](https://www.yaga-burundi.com/penurie-cash-payait-telephones/)** — Yaga Burundi, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a>
+**[‎Bawumia calls for laws to protect workers from AI job losses](https://www.myjoyonline.com/bawumia-calls-for-laws-to-protect-workers-from-ai-job-losses/)** — MyJoyOnline, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-A Yaga Burundi opinion piece argues that mobile and merchant payments could ease Burundi's cash shortage. It cites the chief executive of Banque de Crédit de Bujumbura saying in early October 2026 that banks lack liquidity. The author says high transaction fees, power cuts and habit slow adoption of BurundiPay. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
+Mahamudu Bawumia, flagbearer of Ghana's New Patriotic Party, called for laws to protect workers from job losses caused by AI. Speaking to the Trades Union Congress, he proposed that government, organised labour, employers and technology experts draft the rules together. He said the framework should provide for retraining and reskilling. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XWA" markdown="1">
 
-**[National ID Deal Under Scrutiny Over Revenue, Data Security](https://www.liberianobserver.com/news/national-id-deal-under-scrutiny-over-revenue-data-security/article_e4054c6e-5002-438d-ad8d-761fdecadc47.html)** — Liberian Observer, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
+**[Monnaie électronique dans l'Uemoa : le passage obligatoire à la PI-SPI sème la confusion chez les usagers](https://www.pressafrik.com/%E2%80%8BMonnaie-electronique-dans-l-Uemoa-le-passage-obligatoire-a-la-PI-SPI-seme-la-confusion-chez-les-usagers_a313990.html)** — PressAfrik, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Summarised under [Data protection](#data-protection).
 
@@ -217,51 +245,41 @@ Summarised under [Data protection](#data-protection).
 
 ### Connectivity
 
-<div class="bulletin-item" data-places="XAF" markdown="1">
+<div class="bulletin-item" data-places="SSD KEN" markdown="1">
 
-**[Only USD 2 Billion of Africa's USD 7.9 Billion Satellite Pipeline Is Firmly Committed, New Space in Africa Report Finds](https://spaceinafrica.com/2026/11/02/only-usd-2-billion-of-africas-usd-7-9-billion-satellite-pipeline-is-firmly-committed-new-space-in-africa-report-finds/)** — Space in Africa, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[Bayobab East to West Connectivity Project: fibre laid](https://tech.africa/bayobab-east-west-fibre-south-sudan/)** — TechAfrica, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
-Space in Africa released its African Satellite Manufacturing and Launch Market Report 2026 on 2 November. It tracks 113 satellites African operators could build and launch over the next decade, worth USD 7.94 billion. Only 21 of them, worth USD 2.00 billion, are firmly committed. Since 1998, 69 African satellites have reached orbit. None was launched from African soil. <span class="bulletin-item__also">*Also under [Use of satellite data](#use-of-satellite-data) and [ICT Industry](#ict-industry).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="CMR" markdown="1">
-
-**[Cameroon users protest poor mobile services](https://itweb.africa/article/cameroon-users-protest-poor-mobile-services/kYbe9MXbjozvAWpG)** — ITWeb Africa, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Cameroonian content creators, influencers and digital-rights campaigners organised a Friday boycott of MTN and Orange. They cite dropped calls, outages, slow internet and data bundles that deplete without clear usage tracking. ITWeb Africa said it could not verify the scale of the protest.
+Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibre deployment are complete on the Kenya and South Sudan segments of Northern Route 1 of its East-to-West Connectivity Project. The segments carry 2,038km of fibre, and service activation is the next step. The company gave no activation date, customers or cost.
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="MDG" markdown="1">
 
-**[Airtel Kenya secures 100MHz 5G spectrum](https://itweb.africa/article/airtel-kenya-secures-100mhz-5g-spectrum/RgeVDvPR3g2MKJN3)** — ITWeb Africa, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[JONAH ANDRIANANTOANINA - « Le secteur du numérique doit changer d’échelle »](https://www.lexpress.mg/2026/11/jonah-andrianantoanina-le-secteur-du.html)** — L'Express de Madagascar, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a>
 
-ITWeb Africa reported Airtel Kenya's purchase of 100 MHz of 3500 MHz spectrum for KES8.4 billion, about US$65 million. It adds that Jamii Telecommunications has challenged the Communications Authority's 2025 spectrum pricing framework in the High Court, with Safaricom joining, and that the revised fees were suspended in April 2025. Kenya's 5G subscriptions reached 2.1 million in June 2026. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="EGY" markdown="1">
-
-**[6 Million New Lines and Fiber Optics Doubled: NTRA Unveils Egypt”s Internet Development Roadmap](https://www.technotime.net/18185)** — Techno Time, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
-
-Egypt's telecoms regulator NTRA plans to upgrade 6 million more fixed internet lines over three years. Fibre-backed lines would then pass 90% of the fixed network. Spokesperson Mohamed Ibrahim put fixed internet users above 13 million, with more than 5.5 million lines already on fibre. He gave 38,000 cell towers, with 40,000 targeted by end-2026. He said 450 MHz has been released to mobile operators.
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="GIN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-**[Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation](https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417)** — SikaFinance, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a>
+**[ICASA takes aim at dormant telecoms licences](https://www.itweb.co.za/article/icasa-takes-aim-at-dormant-telecoms-licences/j5alrvQAdwJvpYQk)** — ITWeb South Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-### Data Storage
+<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
 
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
+**[Government of Sierra Leone’s Advanced Spectrum Monitoring System may violate privacy rights and carry risks that outweigh technical merits](https://www.thesierraleonetelegraph.com/government-of-sierra-leones-advanced-spectrum-monitoring-system-may-violate-privacy-rights-and-carry-risks-that-outweigh-technical-merits/)** — Sierra Leone Telegraph, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
 
-**[Sensitive Data Must Be Hosted on Secure Infrastructure – Sam George](https://thevaultznews.com/2026/11/02/sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george/)** — The Vaultz News, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+Summarised under [Data protection](#data-protection).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZMB XEA XSA" markdown="1">
+
+**[COMESA, World Bank Back Regional Drive to Connect 180 Million People Through Digital Inclusion](https://efficacynews.africa/2026/11/03/comesa-world-bank-back-regional-drive-to-connect-180-million-people-through-digital-inclusion/)** — Efficacy News, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
@@ -269,27 +287,27 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 ### Cybersecurity
 
-<div class="bulletin-item" data-places="SEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NER BFA" markdown="1">
 
-**[LA DCSSI LANCE SON NOUVEAU PORTAIL NUMÉRIQUE](https://stcc-ssi.sn/la-dcssi-lance-son-nouveau-portail-numerique/)** — Direction générale du Chiffre et de la Sécurité des Systèmes d’Information (DCSSI), 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+**[Cybersécurité : le Niger sollicite l’expérience du Burkina Faso pour son SOC national](https://www.wearetech.africa/fr/fils/actualites/tech/cybersecurite-le-niger-sollicite-l-experience-du-burkina-faso-pour-son-soc-national)** — wearetech.africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
 
-Senegal's cybersecurity directorate, the DCSSI, put online a new institutional portal. It incorporates the national single window for reporting cybersecurity incidents. The portal is open to administrations, businesses, organisations and citizens at jokkocyber-dcssi.sn.
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[State to strengthen cybersecurity as threats surge, says Murkomen](https://www.kbc.co.ke/state-to-strengthen-cybersecurity-as-threats-surge-says-murkomen/)** — KBC Digital, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[Call for Inputs: Draft Continental Study on Digital Violence Against Women in Africa](https://achpr.au.int/en/news/announcements/2026-11-03/call-inputs-draft-continental-study-digital-violence-against-women)** — African Commission on Human and Peoples' Rights, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="CMR" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[Cameroon Finds 3,914 Fintech Security Vulnerabilities After Earlier Audits Flagged Over 6,500](https://www.businessincameroon.com/public-management/0211-17091-cameroon-finds-3-914-fintech-security-vulnerabilities-after-earlier-audits-flagged-over-6-500)** — Business in Cameroon, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+**[Africa's $775bn savings pool trapped as cross-border finance stalls](https://businessday.ng/news/article/africas-775bn-savings-pool-trapped-as-cross-border-finance-stalls/)** — BusinessDay Nigeria, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Summarised under [Data protection](#data-protection).
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
@@ -299,41 +317,41 @@ Summarised under [Data protection](#data-protection).
 
 <div class="bulletin-item" data-places="BEN" markdown="1">
 
-**[Digitization in Benin: Criminal records now issued instantly and without supporting documents](https://beninwebtv.bj/en/digitization-in-benin-criminal-records-now-issued-instantly-and-without-supporting-documents/)** — Bénin Web TV, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
+**[Bénin : Wadagni concrétise sa promesse, le casier judiciaire instantané à 1 900 FCFA](https://www.linfodrome.com/international/127167-benin-wadagni-concretise-sa-promesse-le-casier-judiciaire-instantane-a-1-900-fcfa)** — Linfodrome, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
-Benin's Ministry of Justice and Legislation is the first ministry to apply the government's "Tell us once" directive. Since 1 November 2026 a criminal record certificate is issued instantly on service-public.bj with no supporting documents, for a fee of FCFA 1,900. The applicant's identity is checked against the personal identification number and civil-registry records. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
+Since 1 November 2026, Benin's Ministry of Justice and Legislation has issued the criminal-record certificate (bulletin n°3) instantly on service-public.bj, for 1,900 FCFA. The certificate is generated from the personal identification number (NPI) and civil-status data the administration already holds, with no supporting documents. Beninese citizens abroad can also apply. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
 
 </div>
 
 ### Digital Identity and CRVS
 
-<div class="bulletin-item" data-places="SOM" markdown="1">
-
-**[Somalia puts Hubiye national ID verification platform into operation](https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation)** — Biometric Update, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
-
-Somalia's National Identification and Registration Authority announced in late October 2026 that its Hubiye ID verification platform is in operation. Service providers check credentials against the national database by one-time-password consent. Integration is free for now, though the authority says some providers may eventually pay. UNDP put Hubiye at 25 integrated services and about 1.2 million citizens in May 2026. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
 <div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
 
-**[Sensitive Data Must Be Hosted on Secure Infrastructure – Sam George](https://thevaultznews.com/2026/11/02/sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george/)** — The Vaultz News, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+**[No new Ghana Cards required under biometric verification law – NIA](https://www.myjoyonline.com/no-new-ghana-cards-required-under-biometric-verification-law-nia-2/)** — MyJoyOnline, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-**[National ID Deal Under Scrutiny Over Revenue, Data Security](https://www.liberianobserver.com/news/national-id-deal-under-scrutiny-over-revenue-data-security/article_e4054c6e-5002-438d-ad8d-761fdecadc47.html)** — Liberian Observer, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
+**[Fake SIMS hold SA to ransom](https://www.citizen.co.za/news/opinion/fake-sims-hold-sa-to-ransom/)** — The Citizen, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Summarised under [Data protection](#data-protection).
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GHA XAF" markdown="1">
+
+**[Connecting Africa's wallets, unlocking Africa's trade, smartly](https://www.citinewsroom.com/2026/11/connecting-africas-wallets-unlocking-africas-trade-smartly-gabby-asare-otchere-darko-writes/)** — Citi Newsroom, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="BEN" markdown="1">
 
-**[Digitization in Benin: Criminal records now issued instantly and without supporting documents](https://beninwebtv.bj/en/digitization-in-benin-criminal-records-now-issued-instantly-and-without-supporting-documents/)** — Bénin Web TV, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
+**[Bénin : Wadagni concrétise sa promesse, le casier judiciaire instantané à 1 900 FCFA](https://www.linfodrome.com/international/127167-benin-wadagni-concretise-sa-promesse-le-casier-judiciaire-instantane-a-1-900-fcfa)** — Linfodrome, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 Summarised under [Data Exchange](#data-exchange).
 
@@ -341,131 +359,89 @@ Summarised under [Data Exchange](#data-exchange).
 
 ### Digital Payments and Fintech
 
-<div class="bulletin-item" data-places="GMB" markdown="1">
+<div class="bulletin-item" data-places="SEN CIV XWA" markdown="1">
 
-**[Gambia to Enforce Tighter Monitoring on Betting Industry as Government Signs Centralized Payment Deal](https://gambiaj.com/economy/finance/gambia-to-enforce-tighter-monitoring-on-betting-industry-as-government-signs-centralized-payment-deal/)** — The Gambia Journal, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a>
+**[West Africa’s Unified Payments Network Is Off to a Rocky Start](https://launchbaseafrica.com/2026/11/03/failed-transfers-hidden-fees-and-phantom-aliases-inside-the-messy-birth-of-west-africas-unified-payments-network/)** — Launch Base Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-The Gambian government signed an agreement on 30 October 2026 with InTouch Solutions Gambia for a centralised payment monitoring platform covering pooling, betting and gaming. InTouch will deploy, operate and maintain it under a Build, Operate and Transfer partnership before handover. The Gambia Revenue Authority expects better visibility of transactions and less tax evasion. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="ZAF" markdown="1">
-
-**[eZAR opens rand stablecoin to SA public](https://www.itweb.co.za/article/ezar-opens-rand-stablecoin-to-sa-public/8OKdWMDXO8jMbznQ)** — ITWeb South Africa, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
-
-eZAR, a rand-backed stablecoin, opened to the South African public after almost a year as a pilot. It is run by eZAR Ltd, Ninety One and AVBOB Financial Services. R303 million of tokens were in circulation on 30 October 2026. Reserves sit mainly in the Ninety One Money Market Fund. The issuer states that eZAR is a crypto asset, not legal tender or a bank deposit.
+From 2 November 2026 the BCEAO required interoperable e-money transfers across WAEMU to route through its PI-SPI platform. In the first days, users in Senegal and Côte d'Ivoire reported Orange Money-to-Wave transfers debited but not credited, and alias conflicts. Wave added a 1% cash-withdrawal fee, outside the BCEAO's transfer-fee cap; the BCEAO had not commented.
 
 </div>
 
-<div class="bulletin-item" data-places="BEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XWA" markdown="1">
 
-**[Communiqué de MTN Mobile Money Bénin](https://www.24haubenin.info/?Communique-de-MTN-Mobile-Money-Benin=)** — 24 Heures au Bénin, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
-
-MTN Mobile Money Bénin said its interoperable e-money transactions run through the BCEAO's PI-SPI from 2 November 2026. National interoperable transfers are free up to FCFA 8,000 a day. Above that they cost 0.5%. The wallet ceiling rises from FCFA 2 million to 4 million. The cap on an interoperable transfer rises from FCFA 500,000 to 2 million.
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="BDI" markdown="1">
-
-**[Pénurie de cash : et si on payait enfin avec nos téléphones ?](https://www.yaga-burundi.com/penurie-cash-payait-telephones/)** — Yaga Burundi, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
-
-**[Opening Remarks by Governor Dr Johnson Pandit Asiama at the 11th Meeting of the Payment Systems Advisory Committee](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)** — Bank of Ghana, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="CMR" markdown="1">
-
-**[Cameroon Finds 3,914 Fintech Security Vulnerabilities After Earlier Audits Flagged Over 6,500](https://www.businessincameroon.com/public-management/0211-17091-cameroon-finds-3-914-fintech-security-vulnerabilities-after-earlier-audits-flagged-over-6-500)** — Business in Cameroon, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+**[Monnaie électronique dans l'Uemoa : le passage obligatoire à la PI-SPI sème la confusion chez les usagers](https://www.pressafrik.com/%E2%80%8BMonnaie-electronique-dans-l-Uemoa-le-passage-obligatoire-a-la-PI-SPI-seme-la-confusion-chez-les-usagers_a313990.html)** — PressAfrik, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Summarised under [Data protection](#data-protection).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="XWA" markdown="1">
+
+**[Finances : La BCEAO se dote d'un nouveau systeme de paiement instantane](https://anp.ne/finances-la-bceao-se-dote-dun-nouveau-systeme-de-paiement-instantane/)** — Agence Nigerienne de Presse, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GHA XAF" markdown="1">
+
+**[Connecting Africa's wallets, unlocking Africa's trade, smartly](https://www.citinewsroom.com/2026/11/connecting-africas-wallets-unlocking-africas-trade-smartly-gabby-asare-otchere-darko-writes/)** — Citi Newsroom, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+
+**[Africa's $775bn savings pool trapped as cross-border finance stalls](https://businessday.ng/news/article/africas-775bn-savings-pool-trapped-as-cross-border-finance-stalls/)** — BusinessDay Nigeria, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 ### Registries
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="GHA" markdown="1">
 
-**[INEC blames registration officers, but AI photos are the least of its worries](https://techcabal.com/2026/11/02/inecs-ai-photo-problem-runs-deeper/)** — TechCabal, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[Gender Ministry swears in Data Review Committee to strengthen household registry](https://www.myjoyonline.com/gender-ministry-swears-in-data-review-committee-to-strengthen-household-registry/)** — MyJoyOnline, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-An analysis of Nigeria's preliminary voter register, which lists more than 103 million voters against about 93 million in 2023. On 30 October 2026 the Independent National Electoral Commission's ICT director said registration officers with authorised access had entered some suspect records, including AI-generated photographs. The final register is due on 15 December 2026. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
+Ghana's Ministry of Gender, Children and Social Protection swore in a Data Review Committee for the Ghana National Household Registry. The committee will review and validate the registry's analytical reports before they go to stakeholders and the public. The registry holds about three million enrolled households across all 16 regions. <span class="bulletin-item__also">*Also under [Sectoral management information systems](#sectoral-management-information-systems).*</span>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
+
+**[Gender Ministry swears in Data Review Committee to strengthen household registry](https://www.myjoyonline.com/gender-ministry-swears-in-data-review-committee-to-strengthen-household-registry/)** — MyJoyOnline, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Summarised under [Registries](#registries).
 
 </div>
 
 ### Other GovTech and e-Gov
 
-<div class="bulletin-item" data-places="GHA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="CIV GAB" markdown="1">
 
-**[Ghana : la police déploie des caméras connectées pour automatiser le contrôle routier](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)** — wearetech.africa, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+**[Côte d’Ivoire and Gabon explore cooperation on AI and digital public services](https://techreviewafrica.com/news/8103/cote-divoire-and-gabon-explore-cooperation-on-ai-and-digital-public-services)** — Tech Review Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
 
-Ghana Police's TraffiTech-GH camera enforcement system went live on 1 November 2026, starting with speeding on crash-prone routes. The Motor Traffic and Transport Department reviews offences captured by fixed, vehicle-mounted and laser devices and notifies drivers by SMS. Drivers have 14 days to pay by mobile money or card, or to contest the fine.
-
-</div>
-
-<div class="bulletin-item" data-places="DJI" markdown="1">
-
-**[AMI - Djibouti - Assistance technique a la transformation et a la modernisation des systemes de gouvernance, de controle et de management de la cour des comptes - PAIC-GEP](https://www.afdb.org/en/documents/ami-djibouti-assistance-technique-transformation-98145)** — African Development Bank Group, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a>
-
-The African Development Bank issued a call for expressions of interest on 2 November 2026 from firms to advise Djibouti's Cour des Comptes. The work covers internal control and risk management, and the digitisation and modernisation of its control processes and information systems. It falls under the PAIC-GEP project.
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="SOM" markdown="1">
-
-**[Somalia puts Hubiye national ID verification platform into operation](https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation)** — Biometric Update, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
-
-Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GMB" markdown="1">
-
-**[Gambia to Enforce Tighter Monitoring on Betting Industry as Government Signs Centralized Payment Deal](https://gambiaj.com/economy/finance/gambia-to-enforce-tighter-monitoring-on-betting-industry-as-government-signs-centralized-payment-deal/)** — The Gambia Journal, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a>
-
-Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="COM" markdown="1">
-
-**[Draft country programme document for Comoros (2027-2030)](https://www.undp.org/sites/g/files/zskgke326/files/2026-10/draft-undp-cpd-for-comoros-2027-2030.pdf)** — UNDP / UN Executive Board, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="BEN" markdown="1">
 
-**[Digitization in Benin: Criminal records now issued instantly and without supporting documents](https://beninwebtv.bj/en/digitization-in-benin-criminal-records-now-issued-instantly-and-without-supporting-documents/)** — Bénin Web TV, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
+**[Bénin : Wadagni concrétise sa promesse, le casier judiciaire instantané à 1 900 FCFA](https://www.linfodrome.com/international/127167-benin-wadagni-concretise-sa-promesse-le-casier-judiciaire-instantane-a-1-900-fcfa)** — Linfodrome, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 Summarised under [Data Exchange](#data-exchange).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="CPV" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="CMR XAF" markdown="1">
 
-**[Cabo Verde altera regime de entrada e permanência de estrangeiros e prevê pedidos de vistos por via digital - Forbes África Lusofona](https://forbesafricalusofona.com/cabo-verde-altera-regime-de-entrada-e-permanencia-de-estrangeiros-e-preve-pedidos-de-vistos-por-via-digital/)** — Forbes Africa Lusófona, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a>
+**[Africa’s AI ambitions depend on stronger digital public infrastructure, expert says](https://www.biometricupdate.com/202611/africas-ai-ambitions-depend-on-stronger-digital-public-infrastructure-expert-says)** — Biometric Update, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
-## Digitalisation
-
-### Rural digital data capture
-
-<div class="bulletin-item" data-places="NGA" markdown="1">
-
-**[FCMB and Mastercard Launch AgroPass to Expand Finance Access for Nigerian Farmers](https://techafricanews.com/2026/11/02/fcmb-mastercard-launch-agropass-expand-finance-access-nigerian-farmers/)** — Tech Africa News, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-First City Monument Bank (FCMB) and Mastercard launched AgroPass in Lagos, built on Mastercard's Community Pass. It links Nigerian smallholder farmers to input suppliers, buyers and lenders and builds a digital record of their business activity. FCMB said it provided more than ₦364.6 billion in agricultural financing last year and supported over 196,000 smallholders. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
@@ -473,91 +449,61 @@ First City Monument Bank (FCMB) and Mastercard launched AgroPass in Lagos, built
 
 ### AI
 
-<div class="bulletin-item bulletin-item--xref" data-places="MOZ" markdown="1">
+<div class="bulletin-item" data-places="NGA XAF" markdown="1">
 
-**[Mozambique Advances Responsible AI in Electoral Administration to Strengthen Democratic Institutions](https://www.undp.org/mozambique/news/mozambique-advances-responsible-ai-electoral-administration-strengthen-democratic-institutions)** — United Nations Development Programme, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
+**[Former AfDB president Adesina proposes $10bn AI fund to anchor $50bn investment drive across Africa](https://businessday.ng/africa/article/former-afdb-president-adesina-proposes-10bn-ai-fund-to-anchor-50bn-investment-drive-across-africa/)** — BusinessDay Nigeria, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
-
-**[INEC blames registration officers, but AI photos are the least of its worries](https://techcabal.com/2026/11/02/inecs-ai-photo-problem-runs-deeper/)** — TechCabal, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Summarised under [Registries](#registries).
+Former African Development Bank president Akinwumi Adesina proposed a $10 billion African AI fund to anchor $50 billion of investment over ten years. He spoke at the 2026 Oxford Global Think Tank Leadership Conference. Nigeria's communications minister Bosun Tijani told the same conference that AI depends on connectivity, compute, data, skills and institutions. <span class="bulletin-item__also">*Also under [Digital sovereignty](#digital-sovereignty).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="SWZ" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
 
-**[Eswatini Standards Authority and Artificial Intelligence Center of Excellence (AICE) Africa launch AI Safety and Standards Center of Excellence](https://www.africa-newsroom.com/press/eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards-center-of-excellence?lang=en)** — AICE Africa and Eswatini Standards Authority (via APO Group), 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
+**[‎Bawumia calls for laws to protect workers from AI job losses](https://www.myjoyonline.com/bawumia-calls-for-laws-to-protect-workers-from-ai-job-losses/)** — MyJoyOnline, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-Summarised under [Standards](#standards).
-
-</div>
-
-### ICT Industry
-
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
-
-**[Only USD 2 Billion of Africa's USD 7.9 Billion Satellite Pipeline Is Firmly Committed, New Space in Africa Report Finds](https://spaceinafrica.com/2026/11/02/only-usd-2-billion-of-africas-usd-7-9-billion-satellite-pipeline-is-firmly-committed-new-space-in-africa-report-finds/)** — Space in Africa, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-Summarised under [Connectivity](#connectivity).
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
-**[Airtel Kenya secures 100MHz 5G spectrum](https://itweb.africa/article/airtel-kenya-secures-100mhz-5g-spectrum/RgeVDvPR3g2MKJN3)** — ITWeb Africa, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[مصر تعتزم إصدار قانون خاص بالذكاء الاصطناعى لتنظيم استخداماته وحوكمته](https://www.youm7.com/story/2026/11/3/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA%D9%87-%D9%88%D8%AD%D9%88%D9%83%D9%85%D8%AA%D9%87/7604583)** — Youm7, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Summarised under [Connectivity](#connectivity).
-
-</div>
-
-## Capacity
-
-### Training and skills
-
-<div class="bulletin-item" data-places="XAF" markdown="1">
-
-**[Unlocking Africa's AI potential: Introducing Skilling Africa with Google](https://blog.google/intl/en-africa/unlocking-africas-ai-potential-introducing-skilling-africa-with-google/)** — Google, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-Google launched Skilling Africa with Google, a free continent-wide learning hub that bundles more than 15 of its training programmes. It targets 3 million people trained in digital and AI skills by 2030. The hub has offline and low-bandwidth modes and an AI study assistant.
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="MDG" markdown="1">
 
-**[Smart Africa Partners with ITU to Strengthen Telecom Regulation Across Africa](https://techafricanews.com/2026/11/02/smart-africa-itu-partnership-strengthen-telecom-regulation-africa/)** — Tech Africa News, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[JONAH ANDRIANANTOANINA - « Le secteur du numérique doit changer d’échelle »](https://www.lexpress.mg/2026/11/jonah-andrianantoanina-le-secteur-du.html)** — L'Express de Madagascar, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a>
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="CIV GAB" markdown="1">
+
+**[Côte d’Ivoire and Gabon explore cooperation on AI and digital public services](https://techreviewafrica.com/news/8103/cote-divoire-and-gabon-explore-cooperation-on-ai-and-digital-public-services)** — Tech Review Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
 
 Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MOZ" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="CMR XAF" markdown="1">
 
-**[Mozambique Advances Responsible AI in Electoral Administration to Strengthen Democratic Institutions](https://www.undp.org/mozambique/news/mozambique-advances-responsible-ai-electoral-administration-strengthen-democratic-institutions)** — United Nations Development Programme, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
+**[Africa’s AI ambitions depend on stronger digital public infrastructure, expert says](https://www.biometricupdate.com/202611/africas-ai-ambitions-depend-on-stronger-digital-public-infrastructure-expert-says)** — Biometric Update, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="SWZ" markdown="1">
-
-**[Eswatini Standards Authority and Artificial Intelligence Center of Excellence (AICE) Africa launch AI Safety and Standards Center of Excellence](https://www.africa-newsroom.com/press/eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards-center-of-excellence?lang=en)** — AICE Africa and Eswatini Standards Authority (via APO Group), 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
-
-Summarised under [Standards](#standards).
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
-### Research institutions
+### ICT Industry
 
-<div class="bulletin-item" data-places="BFA KEN NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-**[Burkina Faso : Le projet Digit OACS lancé pour analyser la transition numérique dans les universités](https://lefaso.net/spip.php?article150452=)** — leFaso.net, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[ICASA takes aim at dormant telecoms licences](https://www.itweb.co.za/article/icasa-takes-aim-at-dormant-telecoms-licences/j5alrvQAdwJvpYQk)** — ITWeb South Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-A four-year research project on the digital transition of university work in Burkina Faso, Kenya and Nigeria was launched in Ouagadougou on 2 November 2026. Called Digit OACS, it is led by the Africa Multiple pole of excellence at Université Joseph Ki-Zerbo. German development cooperation provides about FCFA 200 million.
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
@@ -565,19 +511,27 @@ A four-year research project on the digital transition of university work in Bur
 
 ### Access to services
 
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="KEN" markdown="1">
 
-**[FCMB and Mastercard Launch AgroPass to Expand Finance Access for Nigerian Farmers](https://techafricanews.com/2026/11/02/fcmb-mastercard-launch-agropass-expand-finance-access-nigerian-farmers/)** — Tech Africa News, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[Group raises alarm over digital exclusion in pastoralist counties](https://www.standardmedia.co.ke/national/article/2001561441/group-raises-alarm-over-digital-exclusion-in-pastoralist-counties)** — The Standard, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
-Summarised under [Rural digital data capture](#rural-digital-data-capture).
+The Grassroots Disability Agenda launched a survey report in Nairobi on digital exclusion of persons with disabilities in Garissa, Kajiado and Marsabit counties. It cites device and data costs, inaccessible services, limited skills, online safety risks and weak policy implementation. The report sets out ten policy actions for government, regulators and technology providers. <span class="bulletin-item__also">*Also under [Digital divides](#digital-divides).*</span>
 
 </div>
 
 ### Digital divides
 
-<div class="bulletin-item bulletin-item--xref" data-places="GIN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
-**[Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation](https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417)** — SikaFinance, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a>
+**[Group raises alarm over digital exclusion in pastoralist counties](https://www.standardmedia.co.ke/national/article/2001561441/group-raises-alarm-over-digital-exclusion-in-pastoralist-counties)** — The Standard, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Summarised under [Access to services](#access-to-services).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZMB XEA XSA" markdown="1">
+
+**[COMESA, World Bank Back Regional Drive to Connect 180 Million People Through Digital Inclusion](https://efficacynews.africa/2026/11/03/comesa-world-bank-back-regional-drive-to-connect-180-million-people-through-digital-inclusion/)** — Efficacy News, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
@@ -587,20 +541,22 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 ### National statistics
 
-<div class="bulletin-item bulletin-item--xref" data-places="COM" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XWA" markdown="1">
 
-**[Draft country programme document for Comoros (2027-2030)](https://www.undp.org/sites/g/files/zskgke326/files/2026-10/draft-undp-cpd-for-comoros-2027-2030.pdf)** — UNDP / UN Executive Board, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a>
+**[ECOWAS STRENGTHENS THE HARMONIZATION OF MONETARY AND FINANCIAL STATISTICS TO SUPPORT REGIONAL ECONOMIC INTEGRATION](https://www.ecowas.int/la-cedeao-renforce-lharmonisation-des-statistiques-monetaires-et-financieres-pour-soutenir-lintegration-economique-regionale/)** — ECOWAS, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
-### Use of satellite data
+## Geopolitics
 
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+### Digital sovereignty
 
-**[Only USD 2 Billion of Africa's USD 7.9 Billion Satellite Pipeline Is Firmly Committed, New Space in Africa Report Finds](https://spaceinafrica.com/2026/11/02/only-usd-2-billion-of-africas-usd-7-9-billion-satellite-pipeline-is-firmly-committed-new-space-in-africa-report-finds/)** — Space in Africa, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+<div class="bulletin-item bulletin-item--xref" data-places="NGA XAF" markdown="1">
 
-Summarised under [Connectivity](#connectivity).
+**[Former AfDB president Adesina proposes $10bn AI fund to anchor $50bn investment drive across Africa](https://businessday.ng/africa/article/former-afdb-president-adesina-proposes-10bn-ai-fund-to-anchor-50bn-investment-drive-across-africa/)** — BusinessDay Nigeria, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [AI](#ai).
 
 </div>
