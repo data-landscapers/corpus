@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Dakar 2026 private cloud (Alibaba Cloud Apsara Stack)",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "Alibaba Cloud Apsara Stack",
+   "owner": "Dakar 2026 Organizing Committee; to be handed to Senegal after the Games",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a foreign AI product (Qwen) and a cloud platform with no AI computing named; no AI built or hosted in Senegal is stated."
+}
