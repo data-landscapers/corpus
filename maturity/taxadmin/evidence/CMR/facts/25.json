@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-15-cmr-registrations-dgi-cm-enregistrer-un-acte-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "LeFisk describes ATOM as the tax directorate's online filing (tele-declaration) system already in use for declarations, before the new registrations platform; no date is given, so the article's published date is used.",
+   "as_of": "2026-08-15",
+   "date_precision": "day",
+   "system": "ATOM",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "LeFisk reports that registration duties for 3 public-procurement acts are assessed and paid online through the tax directorate DGI platform registrations.dgi.cm, by mobile money or DGI OTP.",
+   "as_of": "2026-08-15",
+   "date_precision": "day",
+   "system": "registrations.dgi.cm",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ATOM",
+   "country_label": "Cameroon",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Direction Generale des Impots",
+   "tiers": "named for tax declarations"
+  }
+ ],
+ "note": ""
+}

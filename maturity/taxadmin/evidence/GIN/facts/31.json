@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-18-gin-la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administra",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The government has launched the eTax platform for online tax declaration (télédéclaration), according to We are Tech.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "eTax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The eTax platform also allows online payment (télépaiement) of taxes, according to We are Tech.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "eTax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eTax",
+   "country_label": "Guinea",
+   "class": "taxsystem",
+   "platform": "online tax platform",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

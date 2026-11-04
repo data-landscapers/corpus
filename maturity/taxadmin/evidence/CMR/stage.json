@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "2",
-   "filing": "underway",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001",
-   "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "4",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-005;CMR-004",
+      "gaps": "No source found since October 2023 says online filing is mandatory for some taxpayers or used for half or more of returns.",
+      "note": "LeFisk reported in August 2026 that returns are filed through ATOM and that registration duties are assessed and paid online on the tax directorate's platform, by mobile money. Nothing says filing online is mandatory or used for most returns, so not 5.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

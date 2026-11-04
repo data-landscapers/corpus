@@ -32,3 +32,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-29,GAB,dpi.mis--tax,fact,4,4,GAB-001;GAB-002,"DGI flyer: eTax into Gabon Connect, online salary declaration for 440 large firms from 21 Oct 2026; first filing not yet due, stays 4"
 2026-10-30,MAR,dpi.mis--tax,fact,4,5,MAR-007;MAR-006;MAR-002,"Decree 2.25.862 (Nov 2025) makes electronic VAT filing mandatory for non-resident digital suppliers; DGI platform opened May 2026 (MAR-006, MAR-007): online filing mandatory for some taxpayers"
 2026-10-31,TUN,dpi.mis--tax,fact,unplaced,3,TUN-003,"Employer's declaration filed on TEJ by 85,000+ taxpayers by July 2026: online filing; unplaced to 3."
+2026-11-04,CMR,dpi.mis--tax,fact,2,4,CMR-005;CMR-004,"LeFisk, August 2026: returns filed through ATOM and registration duties paid online on registrations.dgi.cm by mobile money; filing and payment online, stage 2 to 4"
+2026-11-04,GIN,dpi.mis--tax,fact,unplaced,4,GIN-004;GIN-003,"We Are Tech, May 2026: the eTax platform serves online filing and online payment of taxes; unplaced to stage 4"

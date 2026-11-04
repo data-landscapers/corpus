@@ -24,11 +24,13 @@ CIV,e-impots,Cote d'Ivoire,taxsystem,e-impots.gouv.ci,Direction Generale des Imp
 CIV,DGI mobile,Cote d'Ivoire,taxsystem,mobile,Direction Generale des Impots,synthetic tax and property tax payers,2018-03-19-civ-cgeci-portail-e-impots-formation
 CIV,télé-déclaration / télépaiement,Côte d'Ivoire,taxsystem,,Direction Générale des Impôts,,2023-11-02-civ-finances-fiscalite-interieure-reformes
 CMR,Système Intégré de Gestion des Impôts et Taxes (SIGIT),Cameroon,taxsystem,,Direction Générale des Impôts,,2026-05-13-leconomie-tax-digitalisation-dgi
+CMR,ATOM,Cameroon,taxsystem,,Direction Generale des Impots,named for tax declarations,2026-08-15-cmr-registrations-dgi-cm-enregistrer-un-acte-en-ligne
 COD,Teledeclaration de la TVA,COD,taxsystem,,Direction generale des impots,,2026-09-03-cod-7sur7-tva-e-finance-huawei
 COD,E-Finance programme (DGI ERP),COD,taxsystem,Huawei,Ministry of Finance,,2026-09-03-cod-7sur7-tva-e-finance-huawei
 COD,SydoniaWorld,COD,other,,customs,,2026-09-03-cod-7sur7-tva-e-finance-huawei
 COD,Teledeclaration de la TVA,COD,taxsystem,,,,2026-08-26-cod-fwamba-suminwa-interconnexion-donnees
 COD,Teledeclaration (quick link),COD,taxsystem,,Direction Generale des Impots,,2025-01-01-dgi-tva-page-at-teledeclaration-url
+COD,irms-dgrk.com,DR Congo,taxsystem,tax platform,Direction generale des recettes de Kinshasa,,2026-03-06-cod-kinshasa-la-dgrk-lance-la-plateforme-irms-dgrk-com-pour-la-declaration
 COG,E-Tax,E-Tax,taxsystem,,"Ministere des Finances, du Budget et du Portefeuille public","large then medium firms, then all taxpayers by end 2026",2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
 COG,Fouta,Fouta national switch,other,,"Ministere des Finances, du Budget et du Portefeuille public",,2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
 COG,FOUTA,Congo,taxsystem,online tax payment platform,"Ministere des finances, du budget et du portefeuille public","pilot enterprises, then large and medium, then all taxpayers",2026-07-03-cog-switch-monetique-national-mfbpp
@@ -64,6 +66,7 @@ GHA,e-invoicing system,e-invoicing,other,,Ghana Revenue Authority,,2026-09-23-gh
 GHA,ITAS,Integrated Tax Administration System,taxsystem,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,GITMIS,Ghana Integrated Tax Management and Information System,taxsystem,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GIN,e Tax,e Tax,taxsystem,,Direction Nationale des Impots,large and medium firms from 1 January 2021,2020-09-14-gin-guineenews-lancement-portail-etax
+GIN,eTax,Guinea,taxsystem,online tax platform,government,,2026-05-18-gin-la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administra
 GMB,Integrated Tax Administration System (ITAS),GMB,taxsystem,,Gambia Revenue Authority,,2026-06-17-gra-itas-tax-administration
 GMB,Integrated Tax Administration System (ITAS),GMB,taxsystem,,Gambia Revenue Authority,,2025-10-01-gra-arabsoft-tmi-itas
 GMB,Integrated Tax Administration System (ITAS),GMB,taxsystem,,Gambia Revenue Authority,,2025-10-23-gra-mofea-press-release-itas-arabsoft-tmi-consortium

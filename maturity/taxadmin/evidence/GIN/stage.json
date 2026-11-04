@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "unplaced",
-      "filing": "",
-      "payment": "",
+      "stage": "4",
+      "filing": "inservice",
+      "payment": "electronic",
       "uptake": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether tax returns can be filed online.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GIN-004;GIN-003",
+      "gaps": "No source found since October 2023 says online filing is mandatory for some taxpayers or used for half or more of returns.",
+      "note": "We Are Tech reported in May 2026 that the eTax platform the government launched serves online filing and online payment of taxes. Nothing says filing online is mandatory or used for most returns, so not 5.",
+      "as_at": "2026-11-04"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-06-cod-kinshasa-la-dgrk-lance-la-plateforme-irms-dgrk-com-pour-la-declaration",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Kinshasa's provincial revenue directorate (DGRK) launched irms-dgrk.com on 5 March 2026 for online filing of provincial tax returns, and the business federation FEC says teledeclaration is possible but little known.",
+   "as_of": "2026-03-05",
+   "date_precision": "day",
+   "system": "irms-dgrk.com",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The DGRK says irms-dgrk.com lets taxpayers settle tax obligations through several modern payment means.",
+   "as_of": "2026-03-05",
+   "date_precision": "day",
+   "system": "irms-dgrk.com",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "irms-dgrk.com",
+   "country_label": "DR Congo",
+   "class": "taxsystem",
+   "platform": "tax platform",
+   "owner": "Direction generale des recettes de Kinshasa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

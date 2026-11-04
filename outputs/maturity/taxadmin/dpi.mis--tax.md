@@ -21,11 +21,11 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 17 |
+| 4 Operating | 19 |
 | 3 Established | 10 |
-| 2 Nascent | 11 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 8 |
+| Unplaced | 7 |
 | No evidence | 3 |
 
 ## Countries
@@ -68,6 +68,13 @@ Online filing was mandatory or used by most taxpayers in 2025.
 Taxes could be filed online and paid electronically in 2024; no source found reports mandatory or majority online filing.
 
 - The Direction générale des impôts describes the e-services portal as a portal for online declaration and payment (télépaiement) of taxes, with land taxes payable online, since 23 May 2024 ([source, 2024-05-23](https://www.digitalbusiness.africa/le-benin-permet-desormais-aux-contribuables-et-aux-particuliers-de-declarer-et-de-payer-leurs-impots-en-ligne/)).
+
+### Cameroon: 4 Operating
+
+Taxes could be filed and paid online through the tax directorate's platforms in 2026; how many returns are filed online is not known.
+
+- LeFisk reports that registration duties for 3 public-procurement acts are assessed and paid online through the tax directorate DGI platform registrations.dgi.cm, by mobile money or DGI OTP ([source, 2026-08-15](https://lefisk.cm/blog/enregistrement-actes-en-ligne-dgi-cameroun-registrations-guide)).
+- LeFisk describes ATOM as the tax directorate's online filing (tele-declaration) system already in use for declarations, before the new registrations platform; no date is given, so the article's published date is used ([source, 2026-08-15](https://lefisk.cm/blog/enregistrement-actes-en-ligne-dgi-cameroun-registrations-guide)).
 
 ### Central African Republic: 4 Operating
 
@@ -115,6 +122,13 @@ Taxes could be filed online and paid electronically in 2026; no source found rep
 
 - MyJoyOnline reports the ITAS pilot currently covers payment of PAYE, VAT, VAT Withholding and Withholding VAT, with taxpayers able to pay electronically through portals and mobile channels ([source, 2026-08-19](https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/)).
 - The GRA says tax payments initiated through ITAS and GITMIS are processed on the Ghana.gov payment platform and were hit by intermittent faults from 14 August 2026 ([source, 2026-08-14](https://gna.org.gh/2026/08/gra-working-to-resolve-intermittent-tax-payment-challenges-on-ghana-gov-platform/)).
+
+### Guinea: 4 Operating
+
+Taxes could be filed and paid online through the eTax platform in 2026; how many returns are filed online is not known.
+
+- The eTax platform also allows online payment (télépaiement) of taxes, according to We are Tech ([source, 2026-05](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administration)).
+- The government has launched the eTax platform for online tax declaration (télédéclaration), according to We are Tech ([source, 2026-05](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administration)).
 
 ### Lesotho: 4 Operating
 
@@ -252,12 +266,6 @@ An electronic tax system was under way in 2026; online filing is not on record.
 
 - Burundi Times reports that the OBR launched the implementation phase of E-KORI, a new integrated digital platform for online declaration and payment of taxes and duties, with World Bank technical and financial support, and that the Finance Ministry says taxpayers will declare and pay remotely once it is fully operational ([source, 2026-01-19](https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/)).
 
-### Cameroon: 2 Nascent
-
-An electronic tax system was under way in 2026; online filing is not on record.
-
-- A new project to modernise the Integrated Tax and Duty Management System (SIGIT), estimated at about 4.7 billion FCFA and backed by technical partners, aims to strengthen interconnection of tax services and automate procedures, per L'Economie ([source, 2026-05-13](https://leconomie.info/digitalisation-fiscale-au-cameroun-la-direction-generale-des-impots-opere-sa-mue/)).
-
 ### Comoros: 2 Nascent
 
 An electronic tax system was under way in 2026; online filing is not on record.
@@ -323,12 +331,6 @@ Nothing found since 2023 names online tax filing and payment, so no stage is set
 Not established: Nothing found since October 2023 says whether tax returns can be filed online.
 
 ### Eritrea: Unplaced
-
-Nothing found since 2023 names online tax filing and payment, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether tax returns can be filed online.
-
-### Guinea: Unplaced
 
 Nothing found since 2023 names online tax filing and payment, so no stage is set.
 
