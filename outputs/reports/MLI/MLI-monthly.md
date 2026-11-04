@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: MLI
-ledger_rows: 6
+ledger_rows: 7
 not_held: 2
-record: 21335e354c91
+record: 2d9eeb3b3eac
 ---
 
 # News, Oct – Nov 2026
@@ -16,6 +16,8 @@ record: 21335e354c91
 <a href="#governance">Governance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -65,6 +67,28 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 **[Bakel : inauguration de l’interconnexion des “backbones” du Sénégal et du Mali](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/)** — APS, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Senegal's and Mali's state fibre operators inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing on 5 October, to secure and diversify routes between the two countries. No capacity or cost is given.
+
+</div>
+
+</div>
+
+## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#registries">Registries</a>
+</nav>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral register and its annual revision</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fichier électoral : l'heure du grand nettoyage](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage)** — Bamada.net, 6 October 2026
+
+RALE 2026 runs 1 Oct-31 Dec; lists drawn from biometric civil-status data with NINA as the voter's unique key.
 
 </div>
 
