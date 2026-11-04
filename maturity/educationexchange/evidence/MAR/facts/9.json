@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-23-mar-massar-registration-digital-identity-learner-register",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The education ministry's circular says Massar's digital enrolment services for parents rely on digital identity and can download data held in the civil status register.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "Massar",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The education ministry's circular says Massar enrolment services for parents can download learner data from the civil status register, using digital identity.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "Massar",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Massar",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

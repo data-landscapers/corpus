@@ -209,6 +209,7 @@ LSO,Foundational Literacy and Numeracy Dashboard and Scorecards,Lesotho,other,,"
 LSO,Teacher Management Information System (TMIS),Lesotho,other,,Ministry of Education and Training (Teaching Service Department),,2026-04-01-lesotho-teacher-management-zambia-lessons
 MAR,MASSAR,Morocco,other,,,,2022-09-07-morocco-e-government-interoperability-platform
 MAR,E-government interoperability platform,Morocco,other,Minsait,Agency for Digital Development (ADD),,2022-09-07-morocco-e-government-interoperability-platform
+MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
 MDG,NUIS (Numero Unique d'Identification Scolaire),Madagascar,exchange,,"Ministry of National Education with the Unite de gouvernance digitale, under the Prodigy project",national,2026-05-12-nuis-national-student-id-rollout
 MDG,SIGE (Systeme d'information de gestion de l'education),Madagascar,other,,"Ministry of National Education (DPE, DSI)",national,2025-03-01-papesi-evaluation-unesco-iiep
 MDG,.Stat Suite data warehouse and national statistics portal,Madagascar,other,.Stat Suite (SDMX),"Ministry of National Education, supported by UNESCO, OECD, UN DESA and ILO",national,2025-03-01-papesi-evaluation-unesco-iiep
@@ -265,6 +266,7 @@ NGA,Oyo State learner identification system,Nigeria,other,,Oyo State with Federa
 NGA,Digital National Education Management Information System (DNEMIS),Nigeria,other,DHIS2,Federal Ministry of Education,national,2026-06-29-dnemis-fg-unveils-national-digital-education-platform
 NGA,Public DNEMIS Portal,Nigeria,other,,Federal Ministry of Education,national,2026-06-29-dnemis-fg-unveils-national-digital-education-platform
 NGA,Nigeria Education Repository and Data Bank (NERD),Nigeria,exchange,,Federal Ministry of Education,national,2026-03-06-nerd-fg-deploys-national-education-data-repository
+NGA,Nigeria Education Data Infrastructure (NEDI),Nigeria,exchange,,Federal Ministry of Education,,2026-08-24-nga-fg-releases-new-operational-guidelines-for-waec-neco-students-assessme
 RWA,SDMS,Rwanda,other,,MINEDUC,,2026-02-11-hisp-rwanda-mineduc-education-data-partnership
 RWA,SEMIS,Rwanda,other,DHIS2,MINEDUC,,2026-02-11-hisp-rwanda-mineduc-education-data-partnership
 RWA,DHIS2-based student absence tracking system,Rwanda,other,DHIS2,MINEDUC,,2026-02-11-hisp-rwanda-mineduc-education-data-partnership
@@ -307,6 +309,7 @@ SOM,MOECHE Examination System,Somalia,other,,MOECHE,,2026-05-29-somalia-govstack
 SOM,eAqoonsi / NIRA digital ID,Somalia,other,,NIRA,,2026-05-29-somalia-govstack-high-school-certificate-system
 SOM,SomaliPay / GovPay,Somalia,other,,,,2026-05-29-somalia-govstack-high-school-certificate-system
 SOM,National Digital Trust System (NDTS),Somalia,other,,,,2026-04-28-dpi-somalia-risks-repeating-old-mistakes
+SOM,National ID System (NIRA),Somalia,other,,NIRA,,2024-11-05-som-nira-and-ministry-of-education-launch-joint-initiative-to-integrate-na
 SSD,Education Management Information System (EMIS),South Sudan,other,,Ministry of General Education and Instruction,"national, state, school",2026-03-24-au-iped-emis-reform-costed-action-plan
 SSD,Education Management Information System (EMIS),South Sudan,other,,Ministry of General Education and Instruction,"national, state, school",2026-03-24-au-iped-south-sudan-emis-reform
 SSD,Annual Education Census (AEC) data repository,South Sudan,other,Android tablets and web-based data repository,Ministry of General Education and Instruction,school to national,2023-01-01-mogei-national-education-census-report-2023
@@ -362,6 +365,7 @@ TZA,comprehensive student-tracking system,Tanzania,other,,"Ministry of Education
 TZA,Education Management Information System (EMIS),Tanzania,other,,,school;district,2025-09-22-policyforum-emis-knowledge-gap-mbeya
 TZA,Education Sector Management Information System (ESMIS),Tanzania,exchange,,"Ministry of Education, Science and Technology",,2026-07-14-schools-told-to-align-courses-with-market-needs
 TZA,Education Sector Management Information System (ESMIS),Tanzania,other,,"Ministry of Education, Science and Technology",,2026-01-01-taarifa-ya-utekelezaji-wa-bajeti-julai-desemba-2025
+TZA,TSCMIS,Tanzania,exchange,,Teachers Service Commission,,2024-08-29-tza-tsc-imefanikiwa-kuunganisha-mfumo-wa-tscmis-na-mifumo-mingine-mitatu
 UGA,EMIS (Education Management Information System),Uganda,other,,Ministry of Education and Sports,,2026-06-09-newvision-emis-rules-mandatory-compliance
 UGA,"EMIS (EMIS 1.0, upgrading to EMIS 2.0)",Uganda,other,,Ministry of Education and Sports; administered by vendor SMSOne,,2026-06-09-uga-concerns-grow-as-private-firm-retains-control-of-critical-education-da
 UGA,UNEB examinations system,Uganda,other,,Uganda National Examinations Board,,2026-06-09-uga-concerns-grow-as-private-firm-retains-control-of-critical-education-da

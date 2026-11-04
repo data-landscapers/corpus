@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,exchange,exchange,coverage,underway,2026-07-13,TZA-001,,
-TZA,exchange,learnerid,coverage,,,,,nothing held
-TZA,exchange,linked,coverage,,,,,nothing held
+TZA,exchange,exchange,coverage,inservice,2024-08-29,TZA-002,TZA-001=underway,
+TZA,exchange,learnerid,coverage,,,,,nothing found
+TZA,exchange,linked,coverage,,,,,nothing found

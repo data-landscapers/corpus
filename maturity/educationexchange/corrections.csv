@@ -7,3 +7,4 @@ ETH,003,exchange,underway,classed other,Rebuild 2026-11-02: the same refugee-sch
 UGA,004,exchange,inservice,revalued: underway,"Rebuild 2026-11-02: the UNEB results import runs in DHIS2-Ed, which the Termly School Report uses in pilot sites only"
 UGA,005,linked,linked,revalued: exchange underway,"Rebuild 2026-11-02: the eIDSR link carries school surveillance indicators, not learner records, and runs in the same pilot sites"
 SEN,001,learnerid,shared,removed,"Bill, 2026-11-03, messages-for-bill 68: question 3 needs a source naming two systems that use the identifier; the GREEN guide names only GREEN"
+MAR,001,exchange,inservice,removed,"Stage 4c 2026-11-04: Massar fetching civil status register data is a link to another sector, held as MAR-002 (linked); the civil register is not an education system"

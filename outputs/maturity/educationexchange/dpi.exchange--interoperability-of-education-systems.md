@@ -20,13 +20,13 @@ The African Union's Digital Education Strategy asks for an individual, identifie
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Leading | 5 |
 | 4 Operating | 1 |
-| 3 Established | 5 |
-| 2 Nascent | 14 |
+| 3 Established | 6 |
+| 2 Nascent | 13 |
 | 1 Absent | 2 |
 | Unplaced | 5 |
-| No evidence | 23 |
+| No evidence | 22 |
 
 ## Countries
 
@@ -42,6 +42,12 @@ Since 2024 learner records in every school are keyed to the national personal ID
 Since 2025 the education ministry's certificate service runs on the national ID platform, checking certificates linked to holders' national numbers.
 
 - The education ministry launched a service on the Houwiyati platform to extract and confirm national certificates, available for certificates issued after 2013 or already linked to the holder's national number (NNI) by the ministry; the AMI report gives no figures. Dated by its published date ([source, 2025-07-24](https://ami.mr/fr/archives/276019)).
+
+### Morocco: 5 Leading
+
+The national school system's enrolment services drew pupils' data from the civil status register in 2024; no learner identifier shared across education systems is known.
+
+- The education ministry's circular says Massar enrolment services for parents can download learner data from the civil status register, using digital identity ([source, 2024-04-23](https://ar.hibapress.com/details-517593.html)).
 
 ### Nigeria: 5 Leading
 
@@ -85,6 +91,12 @@ Since at least 2025 the national learner register has taken learner records from
 In 2025 the refugee education data system drew on the ministry's records and fed enrolment data back; no shared learner identifier has been found.
 
 - The ERICC working paper states that REMIS, the UNHCR refugee education data system, relies on data from the Ministry's EMIS to incorporate refugee hosting areas and compare quality indicators between refugee and host communities, and that only the Ministry receives REMIS enrolment and attendance data; no date is given, so the document's published date is used ([source, 2025-09-23](https://doi.org/10.6084/m9.figshare.30192664)).
+
+### Tanzania: 3 Established
+
+The teachers' commission's system exchanged teacher data with the school information system in 2024; no learner identifier shared across systems is known.
+
+- The Teachers Service Commission's IT head says its teacher information system TSCMIS is now connected to e-Watumishi (HR), the Treasury pensioners payment system and the School Information System, to exchange teacher data ([source, 2024-08-29](https://www.tsc.go.tz/news/tsc-imefanikiwa-kuunganisha-mfumo-wa-tscmis-na-mifumo-mingine-mitatu)).
 
 ### Togo: 3 Established
 
@@ -160,12 +172,6 @@ In 2026 the ministry began building a hub to connect its separate education data
 
 - MBSSE has launched an initiative, funded by GPE with UNICEF supporting, to build a DHIS2-based national education data hub whose automated interoperability layer will connect the annual school census, teacher management system, learning assessments, school quality data and examination results, rolling out across all 16 districts (date is the document's published date, as it gives none) ([source, 2026-04-07](https://dhis2.org/sierra-leone-national-education-data-hub/)).
 - The document says Sierra Leone is integrating multiple data systems into a national data warehouse; the systems are not named ([source, 2025-02](https://www.gpekix.org/blog/south-south-collaboration-stronger-education-systems-lessons-learned-cross-country-learning)).
-
-### Tanzania: 2 Nascent
-
-In 2026 the ministry told its institutions to speed up linking their platforms to its data system; no link in service has been found.
-
-- The Ministry of Education's Permanent Secretary directed institutions under the ministry on 13 July 2026 to fast-track integration of their digital platforms into the Education Sector Management Information System (ESMIS), so enrolment and other statistics need no manual requests ([source, 2026-07-13](https://dailynews.co.tz/schools-told-to-align-courses-with-market-needs/)).
 
 ### Uganda: 2 Nascent
 
@@ -309,12 +315,6 @@ Nothing found names education systems exchanging data or says there is none, so 
 Not established: Nothing found names education systems exchanging data, or says there is none.
 
 ### Mauritius: No evidence
-
-Nothing found names education systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing found names education systems exchanging data, or says there is none.
-
-### Morocco: No evidence
 
 Nothing found names education systems exchanging data or says there is none, so no stage is set.
 
