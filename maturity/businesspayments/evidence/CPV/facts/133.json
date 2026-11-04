@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-30-cpv-cabo-verde-tem-dado-passos-consistentes-que-demonstram-o-compromisso-d",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Minister Edna Oliveira cited Cabo Verde's electronic public procurement platform as a transparency measure showing criteria and processes for awarding public contracts.",
+   "as_of": "2024-05-29",
+   "date_precision": "day",
+   "system": "plataforma eletrónica de contratação Pública",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plataforma eletrónica de contratação Pública",
+   "country_label": "Cabo Verde",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Government of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
