@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-11-01
+compiled: 2026-11-04
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 257
+sources_cited: 260
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -271,7 +271,7 @@ Sub-national government sits largely outside the digital state. A [study of 24 m
 
 What exists below the centre mostly reaches down from it. The civil service [biometric registry has issued cards in every province](https://www.biometricupdate.com/202507/dr-congo-fights-public-service-waste-with-biometric-id-registry) (July 2025), the [financial management system is recorded as operating at local as well as central government level](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025) even though [no treasury single account exists](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) to consolidate what it manages, and an EU-funded [human resources system now runs career and staffing management for the national police, with the provincial stations of Tshikapa, Bunia and Mbandaka equipped for it](https://coginta.org/en/DRC-modernization-of-HR-management-of-the-Congolese-national-police/) (2025). Provincial and territorial offices run little of their own: [digitisation of civil registration is at pilot stage in one Kinshasa commune](https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil) (2025), and extension of the one-stop company registration window to the provinces has been [requested rather than delivered](https://congoguardian.com/2026/07/29/rdc-mukoko-samba-evalue-les-reformes-du-guichet-unique-de-creation-dentreprise/) (July 2026).
 
-[The Moptax system, covering property identification, valuation, billing, mobile-money payment and enforcement, was configured for Kananga and handed over in April 2025](https://logri.org/2025/04/building-local-government-capacity-for-property-tax-reform-in-kananga-drc/). [Tshopo province opened a computerised one-stop revenue counter in June 2025 and launched province-wide taxpayer identification](https://acp.cd/province/tshopo-inauguration-dun-guichet-unique-des-recettes-pour-le-developpement-de-la-province/). [Kongo Central's provincial digital agency runs a provincial data centre whose operation was held back in October 2026 by internet connection, power supply and unfinished works](https://360actu-rdc.com/kongo-central-ladn-kc-fait-le-point-sur-le-data-center-provincial-et-la-preparation-de-nouveaux-projets-numeriques/).
+[The Moptax system, covering property identification, valuation, billing, mobile-money payment and enforcement, was configured for Kananga and handed over in April 2025](https://logri.org/2025/04/building-local-government-capacity-for-property-tax-reform-in-kananga-drc/). [Tshopo province opened a computerised one-stop revenue counter in June 2025 and launched province-wide taxpayer identification](https://acp.cd/province/tshopo-inauguration-dun-guichet-unique-des-recettes-pour-le-developpement-de-la-province/). [Kinshasa's revenue directorate launched online declaration and payment of city taxes in March 2026](https://deskeco.com/2026/03/06/kinshasa-la-dgrk-lance-la-plateforme-irms-dgrkcom-pour-la-declaration-et-le-paiement-des-impots-en), and [Tshopo launched Veri-Gov for paying provincial taxes by mobile phone in August 2026](https://www.opinion-info.cd/politique/2026/08/21/tshopo-le-gouvernement-lance-veri-gov-une-plateforme-pour-payer-les-impots-et). [In October 2026 North Kivu's provincial digital unit was moving Beni's routine records of births, deaths and changes of address from paper onto a provincial server](https://actualite.cd/2026/10/31/nord-kivu-le-recensement-numerique-de-la-population-reprend-beni-apres-une-interruption). [Kongo Central's provincial digital agency runs a provincial data centre whose operation was held back in October 2026 by internet connection, power supply and unfinished works](https://360actu-rdc.com/kongo-central-ladn-kc-fait-le-point-sur-le-data-center-provincial-et-la-preparation-de-nouveaux-projets-numeriques/).
 
 ### Rural digital data capture
 <!-- digital.rural -->

@@ -3,9 +3,9 @@ title: DR Congo — News, Oct – Nov 2026
 compiled: 2026-11-03
 period: 2026-10-01 to 2026-11-03
 place: COD
-ledger_rows: 36
+ledger_rows: 37
 not_held: 6
-record: c94342fff7bf
+record: 346066324bff
 ---
 
 # News, Oct – Nov 2026
@@ -491,6 +491,20 @@ The DRC's telecoms ministry is seeking a firm for an eight-month e-government co
 **[Kongo Central : l'ADN-KC fait le point sur le data center provincial et la préparation de nouveaux projets numériques](https://360actu-rdc.com/kongo-central-ladn-kc-fait-le-point-sur-le-data-center-provincial-et-la-preparation-de-nouveaux-projets-numeriques/)** — 360Actu RDC, 22 October 2026
 
 Kongo Central's provincial digital development agency (ADN-KC) met on 21 October 2026 to review the provincial data centre, whose operation is held back by internet connectivity, power supply and unfinished works. The agency also worked on a provincial project file it means to put to the authorities for validation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Beni digital population register (North Kivu)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nord-Kivu : le recensement numérique de la population reprend à Beni après une interruption liée à Ebola](https://actualite.cd/2026/10/31/nord-kivu-le-recensement-numerique-de-la-population-reprend-beni-apres-une-interruption)** — ACTUALITE.CD, 31 October 2026
+
+Births, deaths and moves logged on tablets to a provincial server; 30 neighbourhoods; CPDA digitising since 2016.
 
 </div>
 
