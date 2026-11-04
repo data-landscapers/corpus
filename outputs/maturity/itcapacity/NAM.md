@@ -2,7 +2,7 @@
 
 ## In-house capacity
 
-**Government staff.** [The Electoral Commission said in June 2024 that its voter registration system is managed under its own IT policies by a fully-fledged IT Division entrusted with its IT systems](<https://omutumwa.com/2024/06/ecn-explains-slow-start-of-mobile-voter-registration-system/>). [The Ministry of Finance, through the Central Procurement Board, sought consultant firms to support, maintain and develop the Integrated Financial Management System for five years (EOI closing 30 July 2025)](<https://cpbn.com.na/index/bid/78>).
+**Government staff.** [The Electoral Commission said in June 2024 that its voter registration system is managed under its own IT policies](<https://omutumwa.com/2024/06/ecn-explains-slow-start-of-mobile-voter-registration-system/>). A fully-fledged IT Division is entrusted with its IT systems. [The Ministry of Finance, through the Central Procurement Board, sought consultant firms to support, maintain and develop the Integrated Financial Management System](<https://cpbn.com.na/index/bid/78>). The work was to run for five years. Expressions of interest closed on 30 July 2025.
 
 **A technology body for government.** [The OPM IT Sub-Division lists other offices, ministries and agencies (OMAs), state-owned enterprises, the Auditor General and regional councils and local authorities as external clients of its ICT services (2022, before the three-year window)](<https://mwt.gov.na/documents/1150081/1182489/Charter+OPM_IT_+Brochure+%281%29.pdf/977e85e9-658a-7dea-2969-3ef3797ded13?t=1663746256094>).
 
