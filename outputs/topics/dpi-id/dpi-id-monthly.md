@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MWI; MUS; NAM; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: ace7701524aa
+record: e118dc8ca054
 ---
 
 # News, Oct – Nov 2026
@@ -1057,6 +1057,20 @@ South Africa's Department of Home Affairs plans an online booking system for asy
 **[ICASA Publishes Draft Numbering Plan Fifth Amendment Regulations, 2026](https://www.icasa.org.za/news/2026/icasa-publishes-draft-numbering-plan-fifth-amendment-regulations-2026)** — ICASA, 29 October 2026
 
 ICASA published draft Numbering Plan Fifth Amendment Regulations for 30 days' public comment on 29 October 2026. They would require biometric verification of new and existing mobile subscribers when numbers are activated or reactivated and at every SIM swap. They would also cap numbers per subscriber and limit how long visitors' numbers stay active.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">RICA section 40 SIM-registration amendment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fake SIMS hold SA to ransom](https://www.citizen.co.za/news/opinion/fake-sims-hold-sa-to-ransom/)** — The Citizen, 3 November 2026
+
+In The Citizen, Johan van Graan argued that SIM cards registered in bulk to false identities hamper police work on ransom kidnappings. Justice Minister Mmamoloko Kubayi promised tougher RICA enforcement from 1 July 2026; by 9 October no results had been reported, he wrote. He cites 27 SIM-crime investigations since 2020, with one arrest.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e5992a1c5cc8
+record: 5802246b20fd
 ---
 
 # News, Oct – Nov 2026
@@ -288,6 +288,28 @@ Burkina Faso's digital ministry reports 46.70% average physical execution of its
 **[Burundi opts for a local app for presidency-citizen interactions](https://www.connectingafrica.com/social-technology/burundi-opts-for-a-local-app-for-presidency-citizen-interactions)** — Connecting Africa, 8 October 2026
 
 Burundi's presidency adopted Gasape Chat, a locally built messaging application, as a channel for citizens' grievances. The terms were not disclosed, and analysts noted that nothing says who controls the servers or protects users' data.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-government services portal (Portail e-Gouv)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi Digital Foundations Project — Invitation for Bids OP00476457: Conception, Développement, Intégration, Déploiement et Mise en service du Portail National d'accès aux services publics de l'administration en ligne (Portail e-Gouv)](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476457)** — World Bank (procurement notice issued by PAFEN / SETIC, Burundi), 20 October 2026
+
+Burundi's IDA-funded PAFEN project issued a request for proposals on 20 October 2026 for the national e-Gouv public services portal. Bids are due on 4 December 2026. The winning firm must put at least eleven priority services fully online, use open-source components and connect the portal to government registries. The work is set at twelve months, with the first phase live by week 36.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consulting, digitale Verwaltungsdienstleistungen (E-Gov)](https://www.gtai.de/de/trade/burundi/ausschreibungen-projekte/consulting-digitale-verwaltungsdienstleistungen-e-gov--2037126)** — Germany Trade & Invest (GTAI), 29 October 2026
+
+Germany Trade & Invest listed the World Bank-financed PAFEN tender for Burundi's national e-Gouv portal (OP00476457) on 29 October 2026. Bids are due on 4 December 2026. The Burundi Digital Foundations Project notice entry covers the terms.
 
 </div>
 
@@ -581,6 +603,20 @@ Egypt's Digital Egypt platform now offers notarisation and real-estate registry 
 **[Key Ration Card Services Now Available on Digital Egypt](https://www.scenenow.com/News/Key-Ration-Card-Services-Now-Available-on-Digital-Egypt)** — SceneNow, 12 October 2026
 
 Egypt has put key ration card services on the Digital Egypt platform: heads of household can update card data, replace or activate cards, transfer a file between governorates and add family members. The data-update service is being introduced in Port Said for an initial three months before other governorates.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Egypt users and transactions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«بدون طوابير».. مساعد وزير الاتصالات يكشف خطة تسهيل الخدمات الحكومية عبر منصة مصر الرقمية](https://www.elwatannews.com/news/details/8381060)** — الوطن, 20 October 2026
+
+Mahmoud Badawi, Egypt's assistant ICT minister for digital transformation, told Egypt Forum 2026 that the Digital Egypt platform had about 13.5 million users. He put growth at about 30% a year, with about 90% of use on mobile phones. He described a digital-vault prototype holding official documents in electronic form, first applied to work contracts. He also set out plans for generative AI help on the platform.
 
 </div>
 
@@ -1214,6 +1250,20 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 </div>
 
 ## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">KOREK government app registrations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Services publics numériques : près d'un demi-million de Mauriciens désormais enregistrés sur l'application Korek](https://topfm.mu/actualites/services-publics-numeriques-pres-dun-demi-million-de-mauriciens-desormais-enregistres-sur)** — Top FM Mauritius, 7 October 2026
+
+Information Technology Minister Avinash Ramtohul said on 6 October 2026 that about 500,000 Mauritians had registered on the Korek government services app. Of these, 250,000 had completed KYC checks. He put views of the digital driving licence at about 100,000 and of the pensions service at about 497,000. He said more services would be added.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

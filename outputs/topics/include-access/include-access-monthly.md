@@ -1,15 +1,17 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: include.access
-places: COD; ETH; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: 843574c22864
+places: BFA; COD; ETH; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
+record: 5ee7a2d2fc0b
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
@@ -40,6 +42,22 @@ record: 843574c22864
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 </nav>
+
+## Burkina Faso
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lafiako health complaints platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina/Santé : 'Lafiako', une plateforme numérique pour traiter les plaintes dans le système de santé](https://lefaso.net/spip.php?article150463)** — leFaso.net, 2 November 2026
+
+Burkina Faso's Ministry of Health has launched Lafiako, a digital platform for complaints, information requests and suggestions, leFaso.net reported on 2 November 2026. It covers public and private health facilities. Each request is logged and passed to the responsible body, with a target of an answer within ten days. The platform works alongside 108 reception services, the toll-free line 3535 and a WhatsApp number.
+
+</div>
+
+</div>
 
 ## DR Congo
 
@@ -84,6 +102,20 @@ The Ethiopian Institution of the Ombudsman's website says it has resolved more t
 **[State plans digital accessibility audits to improve services for Persons with Disabilities](https://www.the-star.co.ke/news/2026-10-31-state-plans-digital-accessibility-audits-to-improve-services-for-pwds)** — The Star (Kenya), 31 October 2026
 
 Kenya's Cabinet Secretary for Gender, Hannah Cheptumo, said public institutions are to audit their websites and online platforms and plan to remove barriers for persons with disabilities. She spoke on 30 October 2026 at a forum validating a roadmap on digital and ICT accessibility. The Office of Diversity, Inclusion and Disability Rights is drafting inclusive communication guidelines.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AbiliSpace</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Group raises alarm over digital exclusion in pastoralist counties](https://www.standardmedia.co.ke/national/article/2001561441/group-raises-alarm-over-digital-exclusion-in-pastoralist-counties)** — The Standard, 3 November 2026
+
+The Grassroots Disability Agenda launched a survey report in Nairobi on digital exclusion of persons with disabilities in Garissa, Kajiado and Marsabit counties. It cites device and data costs, inaccessible services, limited skills, online safety risks and weak policy implementation. The report sets out ten policy actions for government, regulators and technology providers.
 
 </div>
 

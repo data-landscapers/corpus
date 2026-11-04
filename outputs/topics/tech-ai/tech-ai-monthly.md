@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: tech.ai
-places: DZA; AGO; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 4e5df13bd762
+places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB
+record: 6b6ad21200b1
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 4e5df13bd762
 <a href="#algeria">Algeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -142,6 +144,22 @@ Algeria's higher-education ministry agreed on 19 October 2026 with public and pr
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Yèmi AI assistant on the national services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : comment fonctionne le portail numérique des services publics ?](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)** — Nasuba, 2 November 2026
+
+Nasuba described Benin's national services portal, service-public.bj, as it stood on 2 November 2026. Its home page showed 1,208 listed services, 131 of them online, and over 2.5 million requests. Services are grouped by life event, theme and administration. Online ones include criminal-record extracts, tax certificates and first vehicle registration. The portal shows a new business mode and an AI assistant, Yèmi; a mobile app is to follow.
 
 </div>
 
@@ -474,6 +492,20 @@ Egypt's Cabinet Media Center launched "Chat Egypt" at Egypt Forum 2026, an AI pl
 **[Consumer Protection Agency head: AI used to analyse complaints and detect violation patterns](https://cairo.gov.eg/en/news/2026/october/22/ee7ef990fe2f40609756579de54d9b28)** — Cairo Governorate Electronic Portal, 22 October 2026
 
 The head of Egypt's Consumer Protection Agency, Ibrahim El-Segini, told Egypt Forum 2026 that the agency uses AI on complaints, inspection data, prices, adverts and online stores to spot violation patterns and high-risk sectors. It is also building a unified electronic inspection system tied to a central database and upgrading its complaints system to sort and route reports automatically.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government draft AI law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مصر تعتزم إصدار قانون خاص بالذكاء الاصطناعى لتنظيم استخداماته وحوكمته](https://www.youm7.com/story/2026/11/3/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA%D9%87-%D9%88%D8%AD%D9%88%D9%83%D9%85%D8%AA%D9%87/7604583)** — Youm7, 3 November 2026
+
+Youm7 reported that Egypt is in the final drafting stage of a dedicated law to regulate AI applications and their governance. The report names no official as its source. AI is governed at present under existing laws, including the Personal Data Protection Law 151 of 2020, cybercrime law 175 of 2018 and a 2022 fintech law.
 
 </div>
 

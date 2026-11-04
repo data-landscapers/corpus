@@ -1,16 +1,18 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: capacity.training
-places: CAF; DJI; COD; EGY; GHA; GIN; KEN; LSO; LBY; MDG; MAR; MOZ; NGA; RWA; SOM; ZAF; TGO; TUN
-record: 9ab36ef667b2
+places: CAF; CIV; DJI; COD; EGY; GHA; GIN; KEN; LSO; LBY; MDG; MAR; MOZ; NGA; RWA; SOM; ZAF; TGO; TUN
+record: e45261547186
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#central-african-republic">Central African Republic</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#djibouti">Djibouti</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -58,6 +60,22 @@ record: 9ab36ef667b2
 **[La Centrafrique tend la main à la Russie pour renforcer sa gouvernance numérique](https://www.afrique-sur7.fr/la-centrafrique-tend-la-main-a-la-russie-pour-renforcer-sa-gouvernance-numerique)** — Afrique Sur 7, 9 October 2026
 
 The Central African Republic signed a five-year digital governance partnership with Russia, implemented through Moscow's HSE University, on 9 October 2026 at the Global Digital Forum in Moscow. It covers training for civil servants, joint research and case studies, and seminars. No cost or funding is stated.
+
+</div>
+
+</div>
+
+## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Farmer School at INP-HB</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation de l'Agriculture : Bruno Koné appelle à former des techniciens](https://www.fratmat.info/article/2645581/economie/digitalisation-de-lagriculture-bruno-kone-appelle-a-former-des-techniciens)** — Fraternite Matin, 1 November 2026
+
+Côte d'Ivoire opened a Digital Farmer School at the INP-HB technopole in Yamoussoukro on 31 October 2026. Agriculture Minister Bruno Nabagné Koné said the country has too few technicians trained in both farming and digital tools. He called for data on rainfall, vegetation, production, infrastructure and yields to be linked to guide decisions.
 
 </div>
 

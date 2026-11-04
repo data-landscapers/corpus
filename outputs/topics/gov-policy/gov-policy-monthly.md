@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
-record: 61532123b77a
+record: 7b78d0f1be28
 ---
 
 # News, Oct – Nov 2026
@@ -768,6 +768,20 @@ One of the two South African officials suspended over the draft national AI poli
 **[USAASA to implement approved USAF manual](https://www.itweb.co.za/article/usaasa-to-implement-approved-usaf-manual/O2rQGqAEg1Yqd1ea)** — ITWeb South Africa, 5 October 2026
 
 South Africa's universal service agency says the communications minister has approved the manual for the Universal Service and Access Fund, setting its objectives, governance, funding instruments and accountability. An earlier draft was withdrawn in November 2025 and a revised one went out for comment in February 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulator inquiry into individual ECNS licensing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA takes aim at dormant telecoms licences](https://www.itweb.co.za/article/icasa-takes-aim-at-dormant-telecoms-licences/j5alrvQAdwJvpYQk)** — ITWeb South Africa, 3 November 2026
+
+South Africa's regulator ICASA published a Discussion Document on 30 October 2026 in its inquiry into individual network service licences. It found most of its 470 such licences dormant and proposes that new operators apply to it directly instead of buying existing ones. It is weighing a use-it-or-lose-it rule; comments are due within 45 working days.
 
 </div>
 

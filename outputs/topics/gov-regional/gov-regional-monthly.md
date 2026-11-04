@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; TZA; TGO; UGA; ZMB; ZWE
-record: 82708a031aac
+record: 318ad3e8702f
 ---
 
 # News, Oct – Nov 2026
@@ -852,6 +852,20 @@ Togo's data-protection authority hosted its Beninese counterpart in Lome on 2 an
 **[Egypt, Uganda discuss cooperation in digital transformation, AI](https://sis.gov.eg/en/media-center/news/egypt-uganda-discuss-cooperation-in-digital-transformation-ai/)** — State Information Service (Egypt), 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
 Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egypt's ICT minister, Raafat Hindi (reported 29 October 2026). They discussed digital transformation, training and Egyptian support for Uganda's national AI strategy. The two sides agreed to sign a memorandum of understanding later.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EAC Protocol on ICT Networks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda MPs push EALA to pressure EAC states on ICT protocol ratification](https://horneconomicreview.com/2026/11/02/uganda-mps-push-eala-to-pressure-eac-states-on-ict-protocol-ratification/)** — Horn Economic Review, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
+
+Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda have both signed and ratified the EAC Protocol on ICT Networks, Horn Economic Review reported on 2 November 2026. The protocol was adopted in 2013. The committee asked Uganda's members of the East African Legislative Assembly to press the other partner states to ratify it. It covers infrastructure sharing, cross-border connectivity, cybersecurity and common ICT policy.
 
 </div>
 

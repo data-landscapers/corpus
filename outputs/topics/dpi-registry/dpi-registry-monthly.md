@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: dpi.registry
-places: DZA; AGO; BEN; CMR; COM; CIV; COD; ETH; GAB; GMB; GIN; LSO; MDG; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
-record: 85ecbdd9e824
+places: DZA; AGO; BEN; CMR; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; LSO; LBR; MDG; MLI; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
+record: d2e58eaa2c06
 ---
 
 # News, Oct – Nov 2026
@@ -30,11 +30,17 @@ record: 85ecbdd9e824
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ghana">Ghana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea">Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#liberia">Liberia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -364,6 +370,22 @@ The Gambia's electoral commission will give parties the final voter register, co
 
 </div>
 
+## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National household registry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gender Ministry swears in Data Review Committee to strengthen household registry](https://www.myjoyonline.com/gender-ministry-swears-in-data-review-committee-to-strengthen-household-registry/)** — MyJoyOnline, 3 November 2026
+
+Ghana's Ministry of Gender, Children and Social Protection swore in a Data Review Committee for the Ghana National Household Registry. The committee will review and validate the registry's analytical reports before they go to stakeholders and the public. The registry holds about three million enrolled households across all 16 regions.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -410,6 +432,22 @@ The Central Bank of Lesotho and the CAFI project launched campaigns urging small
 
 </div>
 
+## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric voter register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NEC Seeks US$72M for 2029 Elections](https://www.thenewdawnliberia.com/nec-seeks-us72m-for-2029-elections/)** — The New Dawn, 22 October 2026
+
+Liberia's National Elections Commission chair, Jonathan Weedor, said on 21 October 2026 that the commission would propose a 2029 election budget of over US$72 million. The proposal was due to the government by 31 October. It includes a fresh biometric voter registration in January–March 2028. That replaces plans to verify and update the 2023 final registration roll. He also asked donors to invest in Liberian staff over foreign consultants.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -435,6 +473,36 @@ Madagascar's electoral commission has provisionally registered 7,163,714 adults 
 **[Immatriculation sur Nifonline — Espace contribuable](https://hetraonline.impots.mg/accueil/papier_inscri)** — Direction Générale des Impôts (Madagascar), 17 October 2026
 
 Madagascar's tax directorate lets taxpayers apply for a tax identification number online through NIFONLINE. The page lists the documents individuals and companies must then present in person.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric electoral list</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liste électorale biométrique: la Ceni et ses partenaires préparent le terrain](https://newsmada.com/2026/10/24/liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-terrain/)** — Newsmada, 24 October 2026
+
+Madagascar's electoral commission (CENI) received IT equipment worth US$750,000 from Japan and UNDP on 23 October 2026. The kit is for processing and securing voter data ahead of a biometric roll. The roll now being rebuilt is still alphanumeric; over 7.16 million citizens had registered against a target of 14 million. Five local radio stations also received equipment for civic education.
+
+</div>
+
+</div>
+
+## Mali
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral register and its annual revision</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fichier électoral : l'heure du grand nettoyage](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage)** — Bamada.net, 6 October 2026
+
+Mali's annual revision of the electoral lists runs from 1 October to 31 December 2026, Le Pays reported. Voters apply at town halls, or at embassies and consulates abroad. The territorial administration ministry runs it, with the election management body AIGE supervising. By law the lists are drawn from the biometric civil-status database, with the national identification number (NINA) as each voter's key.
 
 </div>
 

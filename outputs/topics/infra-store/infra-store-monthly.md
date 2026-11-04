@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: bbbc6b212727
+record: 86158fbc6b40
 ---
 
 # News, Oct – Nov 2026
@@ -431,6 +431,20 @@ Rwanda's Minister of State for ICT and Innovation Yves Iradukunda told the Afric
 **[STELLARIX Senegal Expands Data Centre Capacity to Support AI and Digital Growth](https://techafricanews.com/2026/10/02/stellarix-senegal-expands-data-centre-capacity-to-support-ai-and-digital-growth/)** — Tech Africa News, 2 October 2026
 
 STELLARIX Senegal, part of the AXIAN Group, said it has expanded its data-centre capacity in Senegal for cloud, AI and hosting demand. It named three contractors and gave no capacity or cost figure.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National cloud infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Alibaba Brings Cloud and AI to the First Youth Olympic Games in Africa](https://www.alibabagroup.com/en-US/document-2054013976894767104)** — Alibaba Group, 2 November 2026
+
+Alibaba said on 2 November 2026 that the Dakar 2026 Youth Olympic Games run on a private cloud built on its Apsara Stack. The cloud hosts ticketing and e-visa processing. It is to pass to Senegal after the Games as a national cloud platform. The ticketing system covers over one million tickets across seven venues.
 
 </div>
 

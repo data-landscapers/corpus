@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; UGA; ZWE
-record: bd240f2aab60
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
+record: 89eeaa58cfd0
 ---
 
 # News, Oct – Nov 2026
@@ -83,6 +83,8 @@ record: bd240f2aab60
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-sudan">South Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -310,6 +312,20 @@ Cameroon's Camtel and electricity utility Socadel signed a memorandum of underst
 **[Cabo Verde: Starlink Triplica Quota de Tráfego de Internet e já Representa 18% do Total](https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total)** — Diário Económico, 24 October 2026
 
 Figures from Cabo Verde's regulator ARME, reported by Lusa, show Starlink's share of national internet traffic rising from 6% in the second quarter of 2025 to 18% a year later, although it held only 0.87% of internet subscriptions at the end of June. Over the same period Cabo Verde Telecom's traffic share fell from 89% to 78% and Unitel's from 6% to 4%; the country had 500,263 internet subscriptions, 85% of them mobile broadband.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Submarine cable landings serving Cabo Verde</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[João Domingos, CEO CVTelecom: “Precisamos de ter mais cabos amarrados em Cabo Verde”](https://expressodasilhas.cv/pais/2026/11/01/joao-domingos-ceo-cvtelecom-precisamos-de-ter-mais-cabos-amarrados-em-cabo-verde/105326)** — Expresso das Ilhas, 1 November 2026
+
+In an interview printed on 28 October 2026, outgoing CVTelecom chief executive João Domingos said three international submarine cables land in Cabo Verde. At least three more investors want to land cables, he said. He put turnover near 7 million contos, against about 4.5 million in 2020. Investment over his six years came to about 12 million contos. The operator is waiting for the regulator's 5G roadmap.
 
 </div>
 
@@ -834,6 +850,20 @@ Airtel Kenya acquired 100 MHz in the 3500 MHz band for US$65 million (Sh8.4 bill
 **[Airtel Kenya secures 100MHz 5G spectrum](https://itweb.africa/article/airtel-kenya-secures-100mhz-5g-spectrum/RgeVDvPR3g2MKJN3)** — ITWeb Africa, 2 November 2026
 
 ITWeb Africa reported Airtel Kenya's purchase of 100 MHz of 3500 MHz spectrum for KES8.4 billion, about US$65 million. It adds that Jamii Telecommunications has challenged the Communications Authority's 2025 spectrum pricing framework in the High Court, with Safaricom joining, and that the revised fees were suspended in April 2025. Kenya's 5G subscriptions reached 2.1 million in June 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bayobab East to West Connectivity Project (Northern Route 1)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bayobab East to West Connectivity Project: fibre laid](https://tech.africa/bayobab-east-west-fibre-south-sudan/)** — TechAfrica, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
+
+Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibre deployment are complete on the Kenya and South Sudan segments of Northern Route 1 of its East-to-West Connectivity Project. The segments carry 2,038km of fibre, and service activation is the next step. The company gave no activation date, customers or cost.
 
 </div>
 
@@ -1542,6 +1572,22 @@ Vodacom said on 20 October 2026 that it is investing more than R600 million in M
 **[Vodacom — Mpumalanga network capital expenditure, 2026](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Vodacom, 20 October 2026
 
 Vodacom announced on 20 October 2026 that it will spend more than R600 million of its own funds on network infrastructure in Mpumalanga in the current financial year. It invested R620 million there in 2025/26, and the spending covers all 17 local municipalities.
+
+</div>
+
+</div>
+
+## South Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bayobab national and cross-border fibre network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bayobab East to West Connectivity Project: fibre laid](https://tech.africa/bayobab-east-west-fibre-south-sudan/)** — TechAfrica, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibre deployment are complete on the Kenya and South Sudan segments of Northern Route 1 of its East-to-West Connectivity Project. The segments carry 2,038km of fibre, and service activation is the next step. The company gave no activation date, customers or cost.
 
 </div>
 

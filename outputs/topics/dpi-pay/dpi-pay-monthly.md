@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: dpi.pay
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: ade6a241eab0
+record: 6ab175874907
 ---
 
 # News, Oct – Nov 2026
@@ -354,6 +354,20 @@ The Central Bank of West African States announced on 8 October 2026 that WAEMU p
 **[RCI : PUSH veut digitaliser 3 000 Mds F de flux financiers](https://fr.apanews.net/cote-divoire/rci-push-veut-digitaliser-3-000-mds-f-de-flux-financiers/)** — APAnews, 15 October 2026
 
 Ivorian fintech PUSH announced in Abidjan on 15 October 2026 a plan to digitalise up to CFAF 3,000 billion of financial flows. It signed agreements with BNI, Ecobank and Versus Bank to track agricultural value-chain credit, and an interoperability and merchant-payment deal with Orange Money. PUSH reports more than 700,000 individual accounts and over 20 million transactions worth more than CFAF 600 billion.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional instant-payment interoperability mandate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa’s Unified Payments Network Is Off to a Rocky Start](https://launchbaseafrica.com/2026/11/03/failed-transfers-hidden-fees-and-phantom-aliases-inside-the-messy-birth-of-west-africas-unified-payments-network/)** — Launch Base Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+From 2 November 2026 the BCEAO required interoperable e-money transfers across WAEMU to route through its PI-SPI platform. In the first days, users in Senegal and Côte d'Ivoire reported Orange Money-to-Wave transfers debited but not credited, and alias conflicts. Wave added a 1% cash-withdrawal fee, outside the BCEAO's transfer-fee cap; the BCEAO had not commented.
 
 </div>
 
@@ -1213,6 +1227,22 @@ The National Bank of Rwanda's governor told the IMF-World Bank annual meetings t
 **[Wave rejoint la plateforme de paiement instantané de la BCEAO, un an après son lancement](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)** — Agence Ecofin, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Mobile money operator Wave Digital Finance appears on the BCEAO's list of participants in its PI-SPI instant payment platform updated on 30 September 2026, authorised to offer the service in Senegal. Wave was absent when the platform launched a year earlier with 45 participants; the list now has 175 across the eight WAEMU states. The central bank had set 30 September 2026 as the connection deadline.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bank to Wallet et Wallet to Bank : la BCEAO chamboule les règles du jeu](https://lesoleil.sn/actualites/economie/bank-to-wallet-et-wallet-to-bank-la-bceao-chamboule-les-regles-du-jeu/)** — Le Soleil, 2 November 2026
+
+Banks in Senegal stopped their bank-to-wallet and wallet-to-bank services from 2 November 2026, Le Soleil reported. They sent customers to the BCEAO's PI-SPI instead; the Launch Base Africa entry covers the rollout. Customers, told a few days ahead, said no reason was given. Using PI-SPI requires an updated banking app and an alias. Its transfers are instant and cannot be reversed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa’s Unified Payments Network Is Off to a Rocky Start](https://launchbaseafrica.com/2026/11/03/failed-transfers-hidden-fees-and-phantom-aliases-inside-the-messy-birth-of-west-africas-unified-payments-network/)** — Launch Base Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+From 2 November 2026 the BCEAO required interoperable e-money transfers across WAEMU to route through its PI-SPI platform. In the first days, users in Senegal and Côte d'Ivoire reported Orange Money-to-Wave transfers debited but not credited, and alias conflicts. Wave added a 1% cash-withdrawal fee, outside the BCEAO's transfer-fee cap; the BCEAO had not commented.
 
 </div>
 

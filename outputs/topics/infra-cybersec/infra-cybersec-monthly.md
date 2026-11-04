@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: infra.cybersec
-places: BEN; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; ZMB; ZWE
-record: afabb1e83ca4
+places: BEN; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; ZMB; ZWE
+record: bc78f11370ef
 ---
 
 # News, Oct – Nov 2026
@@ -47,6 +47,8 @@ record: afabb1e83ca4
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#niger">Niger</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -108,6 +110,20 @@ Burkina Faso's central cybercrime brigade recorded 6,477 complaints and FCFA 2.2
 **[Burkina/Sécurité numérique : L'Agence nationale de sécurité des systèmes d'information a lancé officiellement le Réseau national des RSSI et points focaux cyber](https://lefaso.net/spip.php?article150183=)** — LeFaso.net, 23 October 2026
 
 Burkina Faso's information systems security agency ANSSI launched a national network of information systems security officers (RSSI) and cyber focal points in Ouagadougou on 23 October 2026. The network is meant to give ministries and public institutions a standing framework for coordination, information sharing and capacity building on cyber risks and incidents, and institutions were asked to designate security officers and give them resources.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National security operations centre (SOC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : le Niger sollicite l’expérience du Burkina Faso pour son SOC national](https://www.wearetech.africa/fr/fils/actualites/tech/cybersecurite-le-niger-sollicite-l-experience-du-burkina-faso-pour-son-soc-national)** — wearetech.africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
+
+A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the communications ministry, visited Burkina Faso's information-security agency ANSSI-BF from 2 to 6 November 2026. The study mission prepares Niger's national Security Operations Centre. Niger's government created its Centre national de cybersécurité by decree in October 2025.
 
 </div>
 
@@ -619,6 +635,22 @@ Cornelia Shipindo became Executive of the Namibia Cyber Security Incident Respon
 **[Namibia strengthens digital trust](http://marketwatch.com.na/market-watch/namibia-strengthens-digital-trust-nmh017323-3015-21284)** — Market Watch (Namibia Media Holdings), 4 October 2026
 
 Namibia's communications regulator launched DigiNam in Windhoek on 31 August as the public face of the national public key infrastructure, for which the regulator is root certification authority. It is meant to support electronic signatures, digital identity and authenticated online transactions under the Electronic Transactions Act of 2019.
+
+</div>
+
+</div>
+
+## Niger
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cybersecurity Centre with a SOC and CERT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : le Niger sollicite l’expérience du Burkina Faso pour son SOC national](https://www.wearetech.africa/fr/fils/actualites/tech/cybersecurite-le-niger-sollicite-l-experience-du-burkina-faso-pour-son-soc-national)** — wearetech.africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
+
+A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the communications ministry, visited Burkina Faso's information-security agency ANSSI-BF from 2 to 6 November 2026. The study mission prepares Niger's national Security Operations Centre. Niger's government created its Centre national de cybersécurité by decree in October 2025.
 
 </div>
 

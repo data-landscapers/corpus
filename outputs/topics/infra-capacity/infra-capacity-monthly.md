@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: infra.capacity
 places: BDI; COD; LSO; ZAF; ZWE
-record: 0cd09db9b36e
+record: 13a2b6964271
 ---
 
 # News, Oct – Nov 2026

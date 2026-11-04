@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 subject: digital.localgov
 places: BDI; CMR; CPV; COD; EGY; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: d50b815baa18
+record: b2b53ce5bc10
 ---
 
 # News, Oct – Nov 2026
@@ -96,6 +96,20 @@ Cabo Verde began applying the Simpol municipal information system in all 22 muni
 **[Kongo Central : l'ADN-KC fait le point sur le data center provincial et la préparation de nouveaux projets numériques](https://360actu-rdc.com/kongo-central-ladn-kc-fait-le-point-sur-le-data-center-provincial-et-la-preparation-de-nouveaux-projets-numeriques/)** — 360Actu RDC, 22 October 2026
 
 Kongo Central's provincial digital development agency (ADN-KC) met on 21 October 2026 to review the provincial data centre, whose operation is held back by internet connectivity, power supply and unfinished works. The agency also worked on a provincial project file it means to put to the authorities for validation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Beni digital population register (North Kivu)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nord-Kivu : le recensement numérique de la population reprend à Beni après une interruption liée à Ebola](https://actualite.cd/2026/10/31/nord-kivu-le-recensement-numerique-de-la-population-reprend-beni-apres-une-interruption)** — ACTUALITE.CD, 31 October 2026
+
+North Kivu's Provincial Digital Development and Archives Unit (CPDA) restarted its digitised population census in Beni in the fourth quarter of 2026, ACTUALITE.CD reported. Ebola had halted it. Agents visit households in the city's 30 neighbourhoods. They record births, deaths, moves and address changes in a population file on a provincial server. Butembo and other areas are to follow.
 
 </div>
 
