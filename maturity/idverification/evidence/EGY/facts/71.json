@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-02-egy-your-guide-to-navigating-egypt-s-online-government-services",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Enterprise reports that Digital Egypt accounts are opened with the 14-digit national ID and the mobile number registered to it, unlocking civil status, traffic, real estate, court and commercial registry services.",
+   "as_of": "2026-08-02",
+   "date_precision": "day",
+   "system": "Digital Egypt",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Egypt",
+   "country_label": "Egypt",
+   "platform": "misr.gov.eg, mobile app, 15999 hotline",
+   "owner": "Government of Egypt",
+   "tiers": "",
+   "class": "relying"
+  }
+ ],
+ "note": ""
+}

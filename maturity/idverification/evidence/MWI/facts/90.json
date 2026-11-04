@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-06-mwi-malawi-insists-id-card-compulsory-for-scheduled-biometric-voter-regist",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "MEC requires a national ID card to register as a voter, so the voter registration exercise checks people against the national ID.",
+   "as_of": "2024-08-02",
+   "date_precision": "day",
+   "system": "Malawi national ID card",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

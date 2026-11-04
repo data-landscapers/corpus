@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-03-gha-no-new-ghana-cards-required-under-biometric-verification-law-nia",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The NIA says telecommunications companies and some banks verify customers against the Ghana Card by match-on-card fingerprint checks.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Ghana Card match-on-card verification",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The NIA says both telecommunications companies and some banks use match-on-card verification against the Ghana Card, and API-connected institutions verify by card number.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Ghana Card match-on-card verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

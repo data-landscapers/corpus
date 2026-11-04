@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-egy-digital-egypt-13-5m-users-badawi-egypt-forum",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Badawi says digital identity and biometric verification for Digital Egypt services are being developed with the Ministry of Interior.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Digital Egypt platform",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
