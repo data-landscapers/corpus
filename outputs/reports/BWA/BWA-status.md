@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-11-01
+compiled: 2026-11-04
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 209
+sources_cited: 210
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -239,7 +239,7 @@ The business register is the one that finished the job: [the Companies and Intel
 
 [Birth registration completeness stood above 92% in both 2022 and 2023](https://www.statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202023.pdf). [District and sub-district registry offices are equipped and register vital events directly into the national Births and Deaths Registration System, which the registration department describes as partially automated and real-time, with paper notification forms and printed certificates still part of the process (2023)](https://statsbots.org.bw/sites/default/files/Vital%20Statistics%20Report%202023_0.pdf), and [registration reaches remote areas through desks at major health facilities and mobile outreach exercises](https://statsbots.org.bw/sites/default/files/Vital%20Statistics%20Report%202023_0.pdf). [The registration ministry launched a Civil Registration and Vital Statistics Strategic Implementation Plan for 2026-2031 on 24 September 2026, whose central output is a digital registration system interoperable with other government systems, alongside a review of the law on the privacy and security of registration data](https://dailynews.gov.bw/news-detail/93441). [Botswana's civil registration score nonetheless fell 12.5 points over 2014-2023 to 75.0 out of 100, seventh of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023).
 
-[The government told Parliament in August 2026 that its proposed electoral reforms include one-time voter registration, the Omang as the primary form of identification and access to the verified electronic voters' roll for political parties, with a technical team to evaluate them before they are presented to Parliament](https://allafrica.com/stories/202608190305.html). [The Botswana Congress Party had gone to the High Court in October 2024 seeking to compel the Independent Electoral Commission to give it a digital voters roll](https://www.mmegi.bw/news/bcp-moves-to-compel-iec-to-release-digital-voters-roll/news).
+[The government told Parliament in August 2026 that its proposed electoral reforms include one-time voter registration, the Omang as the primary form of identification and access to the verified electronic voters' roll for political parties, with a technical team to evaluate them before they are presented to Parliament](https://allafrica.com/stories/202608190305.html). [The Botswana Congress Party had gone to the High Court in October 2024 seeking to compel the Independent Electoral Commission to give it a digital voters roll](https://www.mmegi.bw/news/bcp-moves-to-compel-iec-to-release-digital-voters-roll/news). [The court held that publishing the roll online is the commission's discretion, and 1,038,275 voters were registered for the October 2024 election](https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2025-09/botswana-cog-report-2024.pdf).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
