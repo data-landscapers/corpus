@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-12-gin-anomalies-sur-les-cartes-d-electeurs-la-dge-rassure-face-aux-inquietud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNPP (Registre national des personnes physiques)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Birthplace data is linked to the RNPP, but no civil register to ID record exchange is stated."
+}
