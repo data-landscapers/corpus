@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-02-ben-wadagni-simplification-services-administratifs",
+ "facts": [],
+ "systems": [
+  {
+   "system": "service-public.bj",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "national public services portal",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": "The portal offers a request for a RCCM extract, which is a certificate service, not online registration of firms."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-27-ken-state-collects-sh900m-per-day-on-ecitizen-as-users-hit-13-5-million",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Star, citing state data, lists Business Registration Services among the busiest government bodies on the eCitizen platform.",
+   "as_of": "2024-12-27",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

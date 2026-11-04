@@ -8,6 +8,7 @@ BDI,Easybusiness.bi,Burundi,business,,Burundi Development Agency (ADB),,2026-01-
 BDI,easybusiness.bi,Burundi,business,,Agence de Développement du Burundi,,2024-07-15-bdi-adb-procedure-creation-easybusiness
 BEN,monentreprise.bj,Benin,business,,APIEx,,2020-03-04-ben-gouv-bj-facilites-creation-entreprise
 BEN,monentreprise.bj,Benin,business,www.monentreprise.bj,APIEx,,2024-01-01-ben-apiex-guide-pratique-formalisation
+BEN,service-public.bj,Benin,other,national public services portal,Government of Benin,,2026-11-02-ben-wadagni-simplification-services-administratifs
 BFA,e-RCCM (e-actes-rccm.gov.bf),Burkina Faso,business,e-actes-rccm.gov.bf,Ministere de la Justice et des Droits humains,national,2025-12-15-justice-transformation-numerique-triple-lancement
 BFA,Beneficial owners register (Tribunal de commerce de Ouagadougou),Burkina Faso,other,,Commercial courts,,2025-05-08-bfa-transparence-dans-les-industries-extractives-la-chambre-des-mines-du-b
 BFA,plateforme de declaration des beneficiaires effectifs,BO declaration platform,other,,Ministry of Justice,national,2024-09-23-bfa-assechement-des-sources-de-financement-des-groupes-armes-le-gouverneme
@@ -74,10 +75,12 @@ KEN,Hire Purchase Registry,Kenya,other,,Business Registration Service,,2026-01-0
 KEN,Business Registration Service,Kenya,business,eCitizen,,,2026-08-12-rdc-la-fintech-k-nyane-pesaflow-prospecte-le-march-de-la-govtech
 KEN,Beneficial Ownership Information Register,Kenya,business,online,Business Registration Service,,2026-06-11-ken-brs-development-partners
 KEN,BRS Version II,Kenya,business,eCitizen,Business Registration Service,,2026-02-17-ken-huduma-kenya-clarifies-end-of-physical-business-certificates-after-eci
+KEN,eCitizen,Kenya,other,,State Department for Immigration and Citizen Services,,2024-12-27-ken-state-collects-sh900m-per-day-on-ecitizen-as-users-hit-13-5-million
 LBR,Liberia Business Registry,Liberia,business,,,,2026-08-27-liberianinvestigator-liberia-launches-digital-collateral-registry-to-curb-duplicate
 LBR,Enhanced Collateral Registry System,Liberia,other,,Central Bank of Liberia,,2026-08-27-liberianinvestigator-liberia-launches-digital-collateral-registry-to-curb-duplicate
 LBR,Liberia Business Registry,Liberia,business,,Ministry of Commerce and Industry,,2026-08-14-lbr-liberia-business-registry-launches-digitalization-and-decentralization
 LBR,Beneficial Ownership Transparency online portal,Liberia,other,,Liberia Business Registry,,2025-10-23-lbr-key-private-sector-institutions-join-liberia-business-registry-to-fina
+LBR,Liberian Business Registry,Liberia,business,,Ministry of Commerce and Industry,,2024-10-07-lbr-liberia-announces-e-services-to-improve-administrative-efficiency
 LBY,One-Stop Shop,Libya,business,,Commercial Registry Authority,,2026-02-20 Libya to reactivate One-Stop Shop for company registration (Commercial Registry Authority)
 LBY,Commercial Registry systems,Libya,business,,Commercial Registry Authority,,2026-08-27-nabd-
 LBY,Commercial registry electronic system,Libya,business,,Commercial Registry Authority,,2025-09-04-lby-libyaobserver-commercial-registry-e-payment
@@ -88,6 +91,7 @@ LSO,Business Facilitation Single Window,Lesotho,business,,"One Stop Business Fac
 LSO,Trade Facilitation Single Window,Lesotho,other,,CAFI,,2025-11-20-lesotho-cafi-project-trade-growth-obfc-single-window
 LSO,One Stop Business Facilitation Centre (OBFC),Lesotho,business,,"Ministry of Trade, Industry and Small Business",,2025-06-01-lso-rsl-guide-on-tax-registration
 LSO,Registrar of Companies,Lesotho,business,,,,2025-06-01-lso-beneficial-ownership-in-lesotho
+LSO,LERIMA (Lesotho Electronic Registry of Interests in Movable Assets),Lesotho,other,,Central Bank of Lesotho,,2026-10-30-lso-movable-assets-unlock-loans-for-businesses
 MAR,registre du commerce (OMPIC),Maroc,business,,OMPIC,,2026-07-21-ompic-42900-immatriculations-fin-mai-2026
 MAR,registre du commerce (OMPIC),Maroc,business,,OMPIC,,2026-02-24-ompic-bilan-2025-dynamique-entrepreneuriale
 MAR,Identifiant Commun de l'Entreprise (ICE),Morocco,business,www.ice.gov.ma,OMPIC,,2016-01-01-mar-ompic-identifiant-commun-entreprise-ice
@@ -110,6 +114,7 @@ MUS,Statistical Business Register,Mauritius,other,,Statistics Mauritius,,2026-07
 MUS,Corporate and Business Registration Department online services portal,Mauritius,business,,Corporate and Business Registration Department,,2026-01-01-corporate-and-business-registration-department-online-services-portal
 MUS,Corporate and Business Registration Department online registration,Mauritius,business,,Corporate and Business Registration Department,,2025-04-04-mus-cbrd-guidelines-incorporation-registration
 MUS,Beneficial Ownership Register,Registrar of Companies,other,,Registrar of Companies,,2024-08-07-mus-the-anti-money-laundering-and-combatting-the-financing-of-terrorism-an
+MUS,CBRIS,Mauritius,business,CBRIS,Registrar of Companies,,2026-10-31-mus-afrinic-official-statement-cloud-innovation-in-register-of-members
 MWI,Malawi Business Registration System (MBRS),Malawi,business,,Department of Registrar General,,2024-04-26-malawi-fiscal-governance-program-for-results
 MWI,Malawi Business Registration System (MBRS),Malawi,business,,Government of Malawi,,2024-02-29-mwi-247malawi-chakwera-launches-mbrs-lims
 MWI,Malawi Business Registration System (MBRS),Malawi,business,,Registrar of Companies,,2025-09-01-mwi-beneficial-ownership-disclosure-in-malawi
@@ -145,6 +150,7 @@ STP,Guiche Unico para Empresa,Sao Tome and Principe,business,,"DGRN, Ministerio 
 SWZ,Online company registration,Eswatini,business,Government in Your Hand / government portal,"Ministry of Commerce, Industry and Trade",,2026-09-24-swz-times-national-data-centre-incident
 SWZ,online.gov.sz,Eswatini,business,government portal,"Ministry of Commerce, Industry and Trade",,2025-01-01-eswatini-company-registration-procedure
 SWZ,BOSS,Business One-Stop Shop,business,,"Ministry of Commerce, Industry and Trade",,2025-08-06-swz-eswatini-pushes-for-full-implementation-of-wto-trade-facilitation-agre
+SWZ,Government-In-Your-Hand app,Eswatini,business,"mobile app (App Store, Google Play)",Ministry of ICT,,2025-06-11-swz-over-2k-downloads-government-in-your-hand-app
 SYC,Business registration (Registration Division online form),Seychelles,business,registry.gov.sc,"Registration Division, Seychelles",,2026-01-01-seychelles-business-registration-form
 TCD,Guichet Unique de Création d'Entreprise,Chad,business,digital platform for company creation and formalisation,Agence Nationale des Investissements et des Exportations (ANIE),,2026-09-18-tcd-tchadinfos-anie-moov-money-paiements-guichet-unique
 TCD,Registre du commerce et du crédit mobilier (RCCM),Chad,business,,Ministère du Commerce et de l'Industrie,,2026-08-20-alwihda-gouvernement-rappelle-interdiction-activites-regaliennes-rccm

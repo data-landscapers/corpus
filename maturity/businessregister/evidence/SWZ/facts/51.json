@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-11-swz-over-2k-downloads-government-in-your-hand-app",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Eswatini Positive News reports that the Government-In-Your-Hand app, launched in May 2025, lets entrepreneurs register and manage businesses from home, per the ICT ministry.",
+   "as_of": "2025-06-11",
+   "date_precision": "day",
+   "system": "Government-In-Your-Hand app",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government-In-Your-Hand app",
+   "country_label": "Eswatini",
+   "class": "business",
+   "platform": "mobile app (App Store, Google Play)",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

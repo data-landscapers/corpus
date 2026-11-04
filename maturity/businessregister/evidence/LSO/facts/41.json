@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-30-lso-movable-assets-unlock-loans-for-businesses",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LERIMA (Lesotho Electronic Registry of Interests in Movable Assets)",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": "LERIMA is a collateral registry, not a register of firms."
+}
