@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-11-02
+compiled: 2026-11-04
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 202
+sources_cited: 205
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -75,7 +75,7 @@ In March 2025 the House-appointed government's communications ministry [granted 
 
 [Rights fell 7.2 points over 2014-2023 to 26.3 out of 100, 47th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). [It was the steepest fall of Libya's sixteen governance sub-categories](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). [In 2023 media freedom scored 38.2, and freedom of expression and belief 28.1, down 9.0 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). In August 2026 [the eastern government's internal security agency held an activist in Benghazi for five days](https://www.cfjustice.org/libya-committee-for-justice-documents-the-arrest-of-activist-aziz-al-orfi-in-benghazi-and-calls-for-the-protection-of-freedom-of-expression/). [He had posted on Facebook and TikTok in support of protests, elections and a constitution](https://www.cfjustice.org/libya-committee-for-justice-documents-the-arrest-of-activist-aziz-al-orfi-in-benghazi-and-calls-for-the-protection-of-freedom-of-expression/).
 
-In 2024 the High National Elections Commission [introduced biometric verification of voters in municipal council elections](https://libyareview.com/47455/libya-implements-biometric-verification-in-municipal-council-elections/), alongside the digital voter register it keeps. [The last national registration drive closed in 2021](https://libyaherald.com/2021/09/libyas-overseas-voter-registration-closed-with-10729-new-voters-bringing-total-of-all-registered-voters-to-2865624/); only phased municipal registrations have followed.
+In 2024 the High National Elections Commission [introduced biometric verification of voters in municipal council elections](https://libyareview.com/47455/libya-implements-biometric-verification-in-municipal-council-elections/), alongside the digital voter register it keeps. [The last national registration drive closed in 2021](https://libyaherald.com/2021/09/libyas-overseas-voter-registration-closed-with-10729-new-voters-bringing-total-of-all-registered-voters-to-2865624/); only phased municipal registrations have followed. [Registration and checks run by SMS to 17017 with the National Number](https://hnec.ly/2025/02/25/%D9%83%D9%8A%D9%81-%D9%86%D8%AA%D8%A3%D9%83%D8%AF-%D9%85%D9%86-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%D9%8A-%D8%9F/) (February 2025). [Decision 253 of 8 December 2025 set the rules for updating the register for the presidential and National Assembly elections](https://lawsociety.ly/legislation/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%85%D9%81%D9%88%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D9%84%D9%84%D8%A7/).
 
 ## Finance
 
@@ -226,7 +226,7 @@ About 450,000 public-sector employees remained outside that system in September 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
-[In 2025 Libya's online public service portal was informational only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A business cannot be registered through it, and there is no government app for public services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There was no job portal, no online pension service and no published service standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A Dawlati e-government platform was due to launch on 1 May 2024 in Libya Post branches](https://libyaobserver.ly/news/libyas-first-e-gov-platform-dawlati-be-launched-may). No account of the launch has been found.
+[In 2025 Libya's online public service portal was informational only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A business cannot be registered through it, and there is no government app for public services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There was no job portal, no online pension service and no published service standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A Dawlati e-government platform was due to launch on 1 May 2024 in Libya Post branches](https://libyaobserver.ly/news/libyas-first-e-gov-platform-dawlati-be-launched-may). [Cabinet Decision 705 of 26 December 2024 established it under the Government Communication Centre and gave its documents the legal force of paper records](https://lawsociety.ly/legislation/%d9%82%d8%b1%d8%a7%d8%b1-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%b1%d9%82%d9%85-705-%d9%84%d8%b3%d9%86%d8%a9-2024-%d9%85-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a5%d9%86%d8%b4/). No account of the launch has been found.
 
 [By June 2026 visa issuance had moved fully online through the Wafed and E-Visa systems, which had issued about 6,000 e-visas](https://libyaherald.com/2026/06/about-6000-e-visas-to-enter-libya-issued-since-electronic-system-was-launch). [In the week to 29 October 2026 the passports authority received 773 applications and approved 610](https://lana.gov.ly/post.php?id=368841&lang=ar). [The Unified Export Window processed LD 79.5 million of exports from April to July 2026](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/). [It had 354 companies registered, shipping to more than 20 destinations](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/). [Since 5 August 2026 vessel-arrival notices and cargo manifests have been filed online at Tripoli and Al-Khoms](https://libyaherald.com/2026/08/electronic-service-for-receiving-vessel-arrival-notifications-cargo-manifests-activated-at-tripoli-khoms-ports).
 
