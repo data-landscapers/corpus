@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-10-30
+compiled: 2026-11-04
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 226
+sources_cited: 227
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -319,7 +319,7 @@ On declared arrangements the country scores well, in [Tier 2, Advancing, of the 
 
 [In 2025 the GovTech index recorded a public-service digital skills strategy and a free training programme](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Its content covers basic digital skills and data literacy, not advanced skills](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In August 2025 more than 120,000 Addis Ababa government employees had enrolled in Udacity coding courses](https://addisfortune.news/civil-servants-rush-to-secure-digital-certificates-skills-take-a-back-seat). [Many skipped the material to pass the tests, and completed courses sold at 200 Birr a certificate](https://addisfortune.news/civil-servants-rush-to-secure-digital-certificates-skills-take-a-back-seat).
 
-[In 2024 the European Union committed EUR 14 million over 2024–2032 to digital skills in technical and vocational training](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-ACT-62753). [The UK's EthiopiAI programme for 2025–2029 funds technical assistance to public bodies and local skills-building](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-400750/summary). [The World Bank's Digital Foundations Project, closing in 2026, carries a digital skills component](https://projects.worldbank.org/en/projects-operations/project-detail/P171034). [In August 2026 the government's coder programme was reported as the 7 Million Coders initiative](https://www.ameco.et/english/ethiopia-launches-ambitious-7-million-coders-initiative-to-build-continental-tech-hub/). No enrolment or completion figure for it has been found. [In 2023 the Mastercard Foundation's Young Africa Works targeted dignified work for 10 million young Ethiopians by 2030](https://mastercardfdn.org/en/news/the-mastercard-foundation-and-partners-enable-127-million-young-ethiopians-to-access-employment-opportunities/).
+[In 2024 the European Union committed EUR 14 million over 2024–2032 to digital skills in technical and vocational training](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-ACT-62753). [The UK's EthiopiAI programme for 2025–2029 funds technical assistance to public bodies and local skills-building](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-400750/summary). [The World Bank's Digital Foundations Project, closing in 2026, carries a digital skills component](https://projects.worldbank.org/en/projects-operations/project-detail/P171034). [In August 2026 the government's coder programme was reported as the 7 Million Coders initiative](https://www.ameco.et/english/ethiopia-launches-ambitious-7-million-coders-initiative-to-build-continental-tech-hub/). No enrolment or completion figure for it has been found. [By July 2025 its predecessor, the 5 Million Coders programme, had enrolled 1.6 million people and certified 900,000](https://www.ena.et/web/eng/w/eng_6969056), on the innovation ministry's figures. [In 2023 the Mastercard Foundation's Young Africa Works targeted dignified work for 10 million young Ethiopians by 2030](https://mastercardfdn.org/en/news/the-mastercard-foundation-and-partners-enable-127-million-young-ethiopians-to-access-employment-opportunities/).
 
 [In July 2026 more than 300 experts and data collectors had been trained on the National Livestock Data Standards](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/). [The Ministry of Agriculture owns the training-of-trainers cascade](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/).
 
