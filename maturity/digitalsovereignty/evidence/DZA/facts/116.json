@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-15-dza-lancement-prochain-de-la-plateforme-nationale-des-services-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Minister Meriem Benmouloud said a cloud is being made available to ministries and state bodies, notably those without a data centre, and urged national bodies to host their digital activity in Algeria to uphold digital sovereignty.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "government cloud",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The High Commission for Digitalisation said real data of ministries and public bodies began to be inserted into the national database, made possible by the national El Mohammedia data centre being in service.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "national database / El Mohammedia data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
