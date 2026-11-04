@@ -1,0 +1,37 @@
+{
+ "slug": "2025-02-21-ben-inquietudes-autour-de-la-fiabilite-de-la-liste-electorale-informatisee",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANIP's director general described a Registre National des Personnes Physiques in service, holding nominative, personal and biometric data.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "ANIP's director general said a continuous-update arrangement is in place and over 400,000 digitised death records have been integrated so the list stays accurate.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "ANIP's director general said the electoral list is extracted directly from the national register of natural persons.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -22,10 +22,10 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 |---|---|
 | 5 Leading | 11 |
 | 4 Operating | 0 |
-| 3 Established | 6 |
+| 3 Established | 7 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
-| Unplaced | 5 |
+| Unplaced | 4 |
 | No evidence | 26 |
 
 ## Countries
@@ -110,6 +110,12 @@ A population register was in service in 2025; no source found reports updating f
 
 - Eswatini's Home Affairs ministry says its mopping exercise, registering births and deaths and converting manual birth certificates in Manzini and Hhohho in the second quarter of 2025/26, has improved the National Population Register ([source, 2025-10-27](https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/)).
 
+### Lesotho: 3 Established
+
+Home Affairs maintained a National Population Register in 2026; whether births and deaths are entered in it is not known.
+
+- Lesotho's Principal Secretary of Home Affairs said the Ministry of Home Affairs holds sole responsibility for maintaining the National Population Register and issuing legal identity documents ([source, 2026-05-29](https://www.gov.ls/elections/the-iec-has-launched-its-civic-and-voter-education-strategy-and-voter-registration-programme/)).
+
 ### Mali: 3 Established
 
 A population register was in service in 2025; no source found reports updating from births and deaths.
@@ -187,12 +193,6 @@ Nothing found since 2023 names a population register, so no stage is set.
 Not established: Nothing found since October 2023 says whether a population register is under way or in service.
 
 ### Egypt: Unplaced
-
-Nothing found since 2023 names a population register, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a population register is under way or in service.
-
-### Lesotho: Unplaced
 
 Nothing found since 2023 names a population register, so no stage is set.
 

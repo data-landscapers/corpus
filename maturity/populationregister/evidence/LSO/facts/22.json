@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-29-lso-the-iec-has-launched-its-civic-and-voter-education-strategy-and-voter",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Lesotho's Principal Secretary of Home Affairs said the Ministry of Home Affairs holds sole responsibility for maintaining the National Population Register and issuing legal identity documents.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "Lesotho",
+   "class": "population",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

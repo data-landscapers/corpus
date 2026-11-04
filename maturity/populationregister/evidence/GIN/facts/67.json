@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometrique",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The government said the biometric census under PN-RAVEC, launched with 3,000 kits received on 1 April 2025, would constitute the national register of natural persons.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "Registre national des personnes physiques",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des personnes physiques",
+   "country_label": "Guinea",
+   "class": "population",
+   "platform": "",
+   "owner": "MATD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2025-08-11-ben-electoral-file-audit-the-initial-conclusions-of-the-expert-mission",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The document names the RNPP, the National Register of Physical Persons, as one of three main registers fed by data collected in municipalities.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "The experts said birth declarations are systematized and changes of residence and identification data are integrated through ANIP services in town halls.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "RNPP / FNEC",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "The experts said the Electoral File is extracted from the RNPP and FNEC.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "RNPP / FNEC",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Benin",
+   "class": "population",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
