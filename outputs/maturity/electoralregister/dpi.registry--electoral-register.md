@@ -23,8 +23,8 @@ The African Charter on Democracy, Elections and Governance and the AU's election
 | 5 Leading | 14 |
 | 4 Operating | 20 |
 | 3 Established | 7 |
-| 2 Nascent | 2 |
-| 1 Absent | 3 |
+| 2 Nascent | 3 |
+| 1 Absent | 2 |
 | Unplaced | 4 |
 | No evidence | 4 |
 
@@ -311,6 +311,13 @@ A digital voters' roll was under way in 2025; none in service is on record.
 - Libya Review reports that the National High Electoral Commission (HNEC) launched electronic voter-identity verification in municipal council elections, initially in four municipalities (Zliten, Al-Sbiaa, Brak, Al-Abrak), with devices registering voters' biometric data when voter cards are collected ([source, 2024-08-19](https://libyareview.com/47455/libya-implements-biometric-verification-in-municipal-council-elections)).
 - HNEC Decision 253 of 2025 adopts a regulation setting up a digital registration system by SMS and an in-person system for the voter register ([source, 2025-12-08](https://lawsociety.ly/legislation/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%85%D9%81%D9%88%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D9%84%D9%84%D8%A7/)).
 
+### Madagascar: 2 Nascent
+
+The 2026 overhaul of the roll is mainly on paper; equipment for a biometric list was received in October 2026.
+
+- Newsmada reports that a UNDP tender this year covers servers and computers for CENI's management of biometric data, and that CENI received USD 750,000 of Japan-UNDP IT equipment on 23 October 2026 in preparation for a biometric voter list; the current overhaul still runs on an alphanumeric system, with over 7.16 million registered against a 14 million target ([source, 2026-10-23](https://newsmada.com/2026/10/24/liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-terrain/)).
+- The Transition government's PMO/PGE-R programme says the Government will continue the digitalisation of the electoral roll and of the election process, including digital security of the roll ([source, 2025-11-17](http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf)).
+
 ### Somalia: 2 Nascent
 
 A digital voters' roll was under way in 2025; none in service is on record.
@@ -322,12 +329,6 @@ A digital voters' roll was under way in 2025; none in service is on record.
 The 2025 revision of the voters' roll was done by hand; voters could check the lists at town halls.
 
 - L'Horizon Africain's Jean-Clotaire Diatou writes that the September-October 2025 revision of the electoral lists is done manually, without the biometrics the government had promised for the 2026 presidential election ([source, 2025-09-01](https://www.lhorizonafricain.com/wp-content/uploads/2025/09/302.pdf)).
-
-### Madagascar: 1 Absent
-
-A 2026 source says voter data for the roll are collected mainly on paper; a biometric list is in preparation.
-
-- Madagascar's electoral commission (Ceni) will collect voter data mainly on paper forms for the roll overhaul due in August 2026, with tablets in a limited number of centres only; the article says digitalisation is not yet in place ([source, 2026-08](https://fr.allafrica.com/stories/202608050202.html)).
 
 ### South Sudan: 1 Absent
 

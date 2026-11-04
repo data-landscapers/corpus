@@ -27,7 +27,7 @@ LBR,3,inservice,,,LBR-001
 LBY,2,underway,,,LBY-001
 LSO,5,inservice,open,linked,LSO-003
 MAR,4,inservice,open,,MAR-001
-MDG,2,underway,,,MDG-002
+MDG,2,underway,,,MDG-003;MDG-002
 MLI,3,inservice,,,MLI-001
 MOZ,4,inservice,open,,MOZ-003
 MRT,no evidence,,,,

@@ -1,6 +1,6 @@
 # Revenue collection: revenue collection
 
-*As at 2026-10-17.*
+*As at 2026-11-04.*
 
 ## The norm
 
@@ -20,15 +20,22 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 8 |
 | 4 Operating | 3 |
-| 3 Established | 38 |
+| 3 Established | 37 |
 | 2 Nascent | 4 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
 
 ## Countries
+
+### Cote d'Ivoire: 5 Leading
+
+TresorPay collected FCFA 36 billion in 2024; whether the main taxes and duties are paid electronically is not known.
+
+- Minister Adama Coulibaly gives collections via TresorPay as FCFA 3 billion in 2021 and FCFA 36 billion in 2024 ([source, 2024](https://www.koaci.com/article/2025/09/15/cote-divoire/economie/cote-divoire-modernisation-des-finances-de-letat-le-tresor-public-accroit-ses-performances-grace-a-un-systeme-de-digitalisation-efficace-et-transparent_190194.html)).
+- Minister Adama Coulibaly says collections via TresorPay reached FCFA 36 billion from 2.5 million transactions in 2024 ([source, 2024](https://www.koaci.com/article/2025/09/15/cote-divoire/economie/cote-divoire-modernisation-des-finances-de-letat-le-tresor-public-accroit-ses-performances-grace-a-un-systeme-de-digitalisation-efficace-et-transparent_190194.html)).
 
 ### Egypt: 5 Leading
 
@@ -165,13 +172,6 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 
 - Since 3 August 2026 Congolese taxpayers can pay taxes, levies and customs duties online through the Fouta national switch after filing on the E-Tax or Sydonia platforms, with an electronic Treasury receipt issued, according to L'Economie ([source, 2026-08-03](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/)).
 - Arrete no. 1009 of 22 May 2026 makes payment of public revenue exclusively electronic through the FOUTA platform, described as a national switch for tax and customs collection, with a 60-day compliance period ([source, 2026-05-22](https://sgg.cg/JO/2026/congo-jo-2026-24-2.pdf)).
-
-### Cote d'Ivoire: 3 Established
-
-Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
-
-- The BCEAO says Treasuries connected to PI-SPI can receive taxes and duties from any account, and Cote d'Ivoire's Treasury has met all PI-SPI requirements ([source, 2026-10-08](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)).
-- Minister Adama Coulibaly says collections via TresorPay reached FCFA 36 billion from 2.5 million transactions in 2024 ([source, 2024](https://www.koaci.com/article/2025/09/15/cote-divoire/economie/cote-divoire-modernisation-des-finances-de-letat-le-tresor-public-accroit-ses-performances-grace-a-un-systeme-de-digitalisation-efficace-et-transparent_190194.html)).
 
 ### DR Congo: 3 Established
 

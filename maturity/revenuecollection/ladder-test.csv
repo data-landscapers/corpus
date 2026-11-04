@@ -5,7 +5,7 @@ BEN,3,inservice,,,BEN-001;BEN-002
 BFA,3,inservice,,,BFA-003;BFA-004
 BWA,3,inservice,,,BWA-004
 CAF,3,inservice,,,CAF-002;CAF-001
-CIV,3,inservice,,,CIV-001;CIV-002
+CIV,5,inservice,,reported,CIV-005;CIV-004
 CMR,3,inservice,,,CMR-001;CMR-003
 COD,2,underway,,,COD-001;COD-002
 COG,3,inservice,,,COG-001;COG-003

@@ -47,6 +47,8 @@ Asked in order. Each is answered with a date and a link.
 
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `channel` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `reach` (`wide`) for 3 and `results` (`published`) for 4.
 
+**A phone hotline or contact centre that also takes email counts as a digital channel** *(Bill, 2026-11-04, messages-for-bill 76)*. ZAF stays at 5, LSO at 2.
+
 ## 4. The norm
 
 The AU Charter on Decentralisation asks that ICT be used so residents can give feedback to their representatives; the UN E-Participation Index ranks e-information, e-consultation and e-decision-making. This study asks the four questions above; it does not measure a country against the norm.

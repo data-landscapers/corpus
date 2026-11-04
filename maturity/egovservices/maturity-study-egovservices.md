@@ -49,6 +49,8 @@ A later yes answers the earlier ones (method §3.3). `study.json` holds this as 
 
 **A single gateway is one sign-in reaching three or more ministries' services, in service** *(Bill, 2026-11-03, messages-for-bill 70)*: a portal's own registration is not a shared account, and two bodies in a beta are not several ministries. Angola and São Tomé stay at 2.
 
+**A national app is not the national portal, and an app's downloads are not users** *(Bill, 2026-11-04, messages-for-bill 74)*: use of an app such as Mauritius's Korek does not answer question 4. MUS 5→2; SWZ stays at 4.
+
 ## 4. The norm
 
 The Digital Transformation Strategy asks for a single digital gateway carrying government services to citizens, businesses and government; the AU Public Service Charter asks for modern technologies in service delivery. This study asks the four questions above; it does not measure a country against the norm.

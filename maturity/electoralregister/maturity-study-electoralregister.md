@@ -49,6 +49,8 @@ A later yes answers the earlier ones (method §3.3). `study.json` holds this as 
 
 **A roll shown to be kept by hand is not answered by a later yes** *(Bill, 2026-11-03, messages-for-bill 71)*: where a source in the window says the roll is compiled by hand, an open list does not answer questions 1 and 2, and the cell takes stage 1. `study.json` → `"manual_blocks": true`. COG 4→1.
 
+**Procurement answers question 1 on a manual roll** *(Bill, 2026-11-04, messages-for-bill 73)*: equipment for a digital or biometric roll received is a roll under way, even with no evidence of installation, and the manual roll does not block it. MDG 1→2.
+
 ## 4. The norm
 
 The African Charter on Democracy, Elections and Governance and the AU's election observation guidelines ask for an accurate voters' roll, open to public inspection and kept up to date. This study asks the four questions above; it does not measure a country against the norm.

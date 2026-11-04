@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "5",
-      "services": "inservice",
+      "stage": "2",
+      "services": "underway",
       "gateway": "",
-      "usage": "published",
+      "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-011;MUS-008;MUS-013;MUS-010",
-      "gaps": "No source found since October 2023 says one national portal or app carries services of three or more ministries with one sign-in.",
-      "note": "The ICT minister published 462,310 registered and 413,409 active users of the Korek government app in May 2026 (MUS-011), and nearly 500,000 registered in October 2026 (MUS-008). A published count of users meets stage 5, and a later yes answers the earlier questions.",
+      "stage_sources": "MUS-011;MUS-009",
+      "gaps": "No source found since October 2023 counts ten or more services in use online, or says one national portal carries services of three or more ministries with one sign-in. Use of the Korek app is published but does not count as use of the national portal.",
+      "note": "Reassessed under Bill's ruling of 2026-11-04 (messages-for-bill 74: a national app is not the national portal, and MUS stays at 2): the Korek app's user counts (MUS-011, MUS-008) and MauPass registrations (MUS-013) no longer answer question 4, so services are going online (MUS-009, MUS-011) and nothing answers a later question. Stage 2.",
       "as_at": "2026-11-04"
     }
   ]

@@ -20,10 +20,10 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
+| 5 Leading | 8 |
 | 4 Operating | 7 |
 | 3 Established | 6 |
-| 2 Nascent | 28 |
+| 2 Nascent | 29 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
 | No evidence | 0 |
@@ -61,15 +61,6 @@ Use of the national government services portal was published in 2024.
 - The Director General of e-citizen said eCitizen has 11.8 million users and approximately 40,000 transactions daily ([source, 2024-07-12](https://www.publicservice.go.ke/psc-certifies-141-candidates-after-undergoing-a-data-protection-and-cybersecurity-capacity-building-programme/)).
 - The Principal Secretary says e-Citizen, connected to the IPRS database that links the National Registration Bureau, civil registration and immigration, has more than 13 million registered users ([source, 2024-05-09](https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/)).
 - KBC reports ICT Cabinet Secretary William Kabogo saying over 33,000 government services are already digitised on the eCitizen platform ([source, 2025-06-03](https://www.kbc.co.ke/govt-pledges-full-digital-access-for-persons-with-disabilities/)).
-
-### Mauritius: 5 Leading
-
-Use of the national government services app was published in 2026.
-
-- The ICT minister told parliament the KOREK app, launched on 30 January 2026 as a one-stop point for government services, had 462,310 registered and 413,409 active users ([source, 2026-05-14](https://lexpress.mu/s/application-korek-462-310-enregistrements-depuis-janvier-2026-557967)).
-- Minister Avinash Ramtohul said on 6 October 2026 that nearly 500,000 people are registered on the Korek app, 250,000 have completed KYC, the digital driving licence has been viewed nearly 100,000 times and the pensions service about 497,000 times ([source, 2026-10-06](https://topfm.mu/actualites/services-publics-numeriques-pres-dun-demi-million-de-mauriciens-desormais-enregistres-sur)).
-- Top FM reports 300,000 people had registered on MauPass, the online service for government facilities, at 1 June 2025 ([source, 2025-06-01](https://topfm.mu/au-1er-juin-2025-300-000-personnes-se-sont-enregistrees-sur-maupass-le-service-en-ligne-des)).
-- The ICT minister told parliament that the 2023-24 audit found fewer than ten of the 123 online government services were actually used by citizens ([source, 2024](https://lexpress.mu/s/application-korek-462-310-enregistrements-depuis-janvier-2026-557967)).
 
 ### Rwanda: 5 Leading
 
@@ -325,6 +316,13 @@ Government services were going online in 2026; ten or more online are not on rec
 Government services were going online in 2025; ten or more online are not on record.
 
 - The Bamada.net report says that on 19 July 2024 the President launched digitalisation of public services in Mali, so that ID card fees, police fines and civil-status acts can be paid by mobile phone, first in Bamako, with extension to the regions and embassies and later to taxes and public procurement ([source, 2024-07-19](https://bamada.net/nouvelles-technologies-le-president-de-la-transition-lance-la-digitalisation-des-moyens-de-paiement-et-des-services-publics-de-letat)).
+
+### Mauritius: 2 Nascent
+
+Services are going online, many through the Korek app; no national portal carrying ten or more services is shown in use.
+
+- The ICT minister told parliament the KOREK app, launched on 30 January 2026 as a one-stop point for government services, had 462,310 registered and 413,409 active users ([source, 2026-05-14](https://lexpress.mu/s/application-korek-462-310-enregistrements-depuis-janvier-2026-557967)).
+- The Ministry of Information Technology launched the Motor Vehicle Licence system on 17 August 2026, letting taxi operators renew licences and pay Road Tax online; online driving licence and penalty-point services are on the KOREK super app ([source, 2026-08-17](https://mitci.govmu.org/mitci/online-motor-vehicle-licence-system-launched-for-taxi-operators/)).
 
 ### Niger: 2 Nascent
 

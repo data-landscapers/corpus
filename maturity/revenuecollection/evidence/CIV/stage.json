@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "3",
+      "stage": "5",
       "payment": "inservice",
       "main": "",
       "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-001;CIV-004",
-      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-      "note": "First pass, reassessed 2026-10-27: TresorPay collections of FCFA 36 billion in 2024 answer the share question, but the main taxes and duties are not shown filed and paid electronically inside the window, so the stage stays at 3.",
-      "as_at": "2026-10-27"
+      "stage_sources": "CIV-005;CIV-004",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically; the reported figure is TresorPay collections, not a share of all revenue.",
+      "note": "Reassessed under Bill's ruling of 2026-11-04 (messages-for-bill 75: a reported share reaches stage 5 though the main taxes are not shown paid electronically): the finance minister gave TresorPay collections of FCFA 36 billion in 2024 (CIV-005), which answers question 4; a later yes answers the earlier ones. Stage 5.",
+      "as_at": "2026-11-04"
     }
   ]
 }
