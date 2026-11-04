@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: CIV
-ledger_rows: 28
+ledger_rows: 30
 not_held: 9
-record: eabff87e1c4c
+record: ea4184d176c0
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: eabff87e1c4c
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -296,6 +298,20 @@ Ivorian fintech PUSH announced in Abidjan on 15 October 2026 a plan to digitalis
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional instant-payment interoperability mandate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa’s Unified Payments Network Is Off to a Rocky Start](https://launchbaseafrica.com/2026/11/03/failed-transfers-hidden-fees-and-phantom-aliases-inside-the-messy-birth-of-west-africas-unified-payments-network/)** — Launch Base Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+From 2 November 2026 the BCEAO required interoperable e-money transfers across WAEMU to route through its PI-SPI platform. In the first days, users in Senegal and Côte d'Ivoire reported Orange Money-to-Wave transfers debited but not credited, and alias conflicts. Wave added a 1% cash-withdrawal fee, outside the BCEAO's transfer-fee cap; the BCEAO had not commented.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -507,6 +523,28 @@ An international seminar on blockchain and digital assets in Abidjan, co-organis
 **[Call for Tenders: Design and Delivery of an Investment Readiness Programme for Tech and Tech-Enabled Startups in Cote d'Ivoire](https://tenders-afd.dgmarket.com/tender/116742536)** — Agence Française de Développement (via dgMarket), 27 October 2026
 
 Expertise France opened a tender on 27 October 2026 for an investment readiness programme for tech startups in Côte d'Ivoire. The programme falls under the Africa-Europe Digital Innovation Bridge. It would support four support organisations and 16 startups, at least five women-led, for 17 months from February 2027; bids close on 23 November.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Farmer School at INP-HB</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation de l'Agriculture : Bruno Koné appelle à former des techniciens](https://www.fratmat.info/article/2645581/economie/digitalisation-de-lagriculture-bruno-kone-appelle-a-former-des-techniciens)** — Fraternite Matin, 1 November 2026
+
+Inaugurated 31 Oct 2026 at INP-HB Yamoussoukro; minister calls for linked farm data and dual-skilled technicians.
 
 </div>
 
