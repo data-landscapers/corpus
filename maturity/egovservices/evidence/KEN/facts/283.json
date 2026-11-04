@@ -1,0 +1,46 @@
+{
+ "slug": "2024-12-27-ken-state-collects-sh900m-per-day-on-ecitizen-as-users-hit-13-5-million",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The eCitizen platform has boarded 22,000 government services, up from 394 in 2022, per the director general of eCitizen Services.",
+   "as_of": "2024-12-27",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "One eCitizen platform with 13.5 million account holders carries services of NTSA, Immigration, the Directorate of Criminal Investigations, Kenya Wildlife Service and Business Registration Services, with one paybill (222) for payments.",
+   "as_of": "2024-12-27",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The director general said eCitizen has 13.5 million active accounts, and at least six million Kenyans use it each month.",
+   "as_of": "2024-12-27",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

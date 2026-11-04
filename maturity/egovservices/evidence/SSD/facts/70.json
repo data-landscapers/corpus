@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-13-ssd-nca-e-services-go-live-across-south-sudan",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The National Communication Authority's e-Services Platform was officially launched in Juba, for licensing, payments and other regulatory services online.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "NCA e-Services Platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NCA e-Services Platform",
+   "country_label": "South Sudan",
+   "class": "eservices",
+   "platform": "",
+   "owner": "National Communication Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

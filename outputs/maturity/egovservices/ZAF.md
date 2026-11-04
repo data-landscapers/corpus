@@ -6,8 +6,8 @@
 
 **Single gateway.** [The national portal at eservices.gov.za was built by the department and SITA](<https://www.dcdt.gov.za/media-statements-releases/532-south-africa-s-significant-improvement-in-the-united-nations-e-government-index-2024.html>). No source found says how users sign in. Neither the national ID nor one shared account is named as its sign-in.
 
-**Use published.** No count of users or transactions through the national portal has been found. The nearest figure: [Gauteng recorded 33 e-services developed in 2025/26](<https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more>). No source found counts the people who use eservices.gov.za.
+**Use published.** In April 2024 the minister gave [over 899,394 logins to the portal's services in a year](<https://www.sanews.gov.za/index.php/south-africa/government-accelerates-programme-connect-citizens-internet>). It had over 1.4 million registered users. SITA's chair [put users at 1.3 million in October 2023](<https://www.itweb.co.za/article/sita-to-ramp-up-access-to-digitised-govt-services/j5alr7QAN157pYQk>). That was 2.4% of the population.
 
 ***Also on file***. [Gauteng e-Panic Button app](<https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/>); [e-Indigent Register](<https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more>); [MyMzansi](<https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/>).
 
-***Not found***. How users sign in to the national portal. How many use it.
+***Not found***. How users sign in to the national portal. Use figures after April 2024.

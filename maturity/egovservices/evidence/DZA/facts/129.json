@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-11-dza-transformation-numerique-des-services-publics-le-portail-national-pass",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Minister Meriem Benmouloud says the national portal Dzair Digital Services, officially launched by the President, currently offers 21 digital services, to rise to 62 by end-2027 and 350 by 2028.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Dzair Digital Services",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "Minister Meriem Benmouloud says the portal brings together in one space the digital services of the different government sectors, with access through a digital identity linked to personal and biometric data, activated by appointment after registration.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Dzair Digital Services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzair Digital Services",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

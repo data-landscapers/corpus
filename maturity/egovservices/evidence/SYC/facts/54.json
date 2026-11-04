@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-25-syc-import-and-export-services-to-transition-to-monservis-portal-on-may-1",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Seychelles modernised government services through the monServis portal in 2024, and the Import and Export permit online service migrates to it from the E-Services Gateway on 1 May 2026, per the Trade Division and DICT.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "monServis",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "monServis",
+   "country_label": "monServis",
+   "class": "eservices",
+   "platform": "",
+   "owner": "DICT",
+   "tiers": ""
+  },
+  {
+   "system": "E-Services Gateway",
+   "country_label": "E-Services Gateway",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -2,7 +2,7 @@
 
 ## Government services online
 
-**Services online.** On 3 March 2024 the Government of National Unity's interior ministry [launched a package of e-services](<https://alwasat.ly/news/libya/431469>). It included the start of an e-government portal project, with the Hawiyati identity portal still to be launched. In late October 2026 the passports authority's [e-visa unit received 773 applications in a week and approved 610](<https://lana.gov.ly/post.php?id=368841&lang=ar>).
+**Services online.** On 3 March 2024 the Government of National Unity's interior ministry [launched a package of e-services](<https://alwasat.ly/news/libya/431469>). It included the start of an e-government portal project, with the Hawiyati identity portal still to be launched. In December 2024 [Cabinet Decision 705 created the Dawlati platform](<https://lawsociety.ly/legislation/%d9%82%d8%b1%d8%a7%d8%b1-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%b1%d9%82%d9%85-705-%d9%84%d8%b3%d9%86%d8%a9-2024-%d9%85-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a5%d9%86%d8%b4/>) to provide e-services and issue official documents. In late October 2026 the passports authority's [e-visa unit received 773 applications in a week and approved 610](<https://lana.gov.ly/post.php?id=368841&lang=ar>).
 
 **Single gateway.** No source found says one national portal carries the services of several ministries. None says one account signs users in to them. The nearest fact: [the interior ministry began an e-government portal project in March 2024](<https://alwasat.ly/news/libya/431469>).
 

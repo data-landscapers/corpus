@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-20-egy-digital-egypt-13-5m-users-badawi-egypt-forum",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Assistant ICT minister Mahmoud Badawi says the Digital Egypt platform lets citizens fill in forms, submit applications, pay fees and receive documents electronically.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Digital Egypt platform",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "Badawi says the Digital Egypt platform has about 13.5 million users, growing about 30% a year, with about 90% of use on mobile.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Digital Egypt platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

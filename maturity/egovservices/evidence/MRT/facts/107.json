@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-17-mrt-ami-somelec-services-linked-to-khidmaty",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The energy minister said SOMELEC's subscription services, including viewing bills, are available through the government portal Khidmaty, fully electronically, from 17 December 2025.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Khidmaty",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Khidmaty",
+   "country_label": "Mauritania",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

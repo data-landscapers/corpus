@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-18-cod-public-finance-dr-congo-launches-online-portal-to-track-payments",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ministry of Finance payment-tracking platform",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The platform only lets beneficiaries track the status of payment files; no service is applied for or paid online."
+}

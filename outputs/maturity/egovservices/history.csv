@@ -96,3 +96,10 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-03,ZAF,dpi.govtech--e-government-services,review,3,3,ZAF-004;ZAF-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
 2026-11-03,ZMB,dpi.govtech--e-government-services,review,5,5,ZMB-002;ZMB-001,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
 2026-11-03,ZWE,dpi.govtech--e-government-services,review,unplaced,unplaced,,Rebuild: first-pass cell read against the ladder beside its neighbours; stage holds.
+2026-11-04,BEN,dpi.govtech--e-government-services,fact,3,5,BEN-018;BEN-019;BEN-017,"Minister's November 2024 counts of requests and payments through service-public.bj, and the portal's 2.5 million requests: use published"
+2026-11-04,CMR,dpi.govtech--e-government-services,fact,unplaced,2,CMR-002,Tax directorate's deed-registration platform took three acts online in August 2026: services going online
+2026-11-04,EGY,dpi.govtech--e-government-services,fact,3,5,EGY-011;EGY-013;EGY-001,"One Digital Egypt account by national ID across five ministries' services, and 13.5 million users in October 2026: use published"
+2026-11-04,MUS,dpi.govtech--e-government-services,fact,2,5,MUS-011;MUS-008;MUS-013;MUS-010,"ICT minister published Korek app users, 413,409 active in May 2026: use published"
+2026-11-04,RWA,dpi.govtech--e-government-services,fact,3,5,RWA-009;RWA-008,ICT ministry says over 5 million applications through Irembo in 2023-2024: use published
+2026-11-04,ZAF,dpi.govtech--e-government-services,fact,3,5,ZAF-007;ZAF-009;ZAF-004,"Minister published 899,394 logins and 1.4 million registered users of the national portal in April 2024: use published"
+2026-11-04,SWZ,dpi.govtech--e-government-services,fact,3,4,SWZ-007;SWZ-004;SWZ-002,Government in Your Hand app reaches three ministries' services with national ID sign-up: single gateway; a download count is not use

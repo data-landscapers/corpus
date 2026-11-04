@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
+      "stage": "4",
       "services": "inservice",
-      "gateway": "",
+      "gateway": "single",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-002;SWZ-004",
-      "gaps": "No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
-      "note": "The Digital Landscape Assessment found 31 of 419 services online in May 2026 (SWZ-002), so ten or more are online. No national portal with shared sign-in is found, so it stops at 3.",
-      "as_at": "2026-11-03"
+      "stage_sources": "SWZ-007;SWZ-004;SWZ-002",
+      "gaps": "No source found gives users, applications or transactions through the Government in Your Hand app; a count of downloads is not one.",
+      "note": "The Government in Your Hand app reaches home affairs, business registration and education loan services with sign-up by national ID (SWZ-007), and was restored with 13 online services in October 2026 (SWZ-004). Only a count of downloads is held, so not 5.",
+      "as_at": "2026-11-04"
     }
   ]
 }

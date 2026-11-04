@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-14-mus-application-korek-462-310-enregistrements-depuis-janvier-2026",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The ICT minister told parliament that the 2023-24 audit found fewer than ten of the 123 online government services were actually used by citizens.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "government online services",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The ICT minister told parliament the KOREK app, launched on 30 January 2026 as a one-stop point for government services, had 462,310 registered and 413,409 active users.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "KOREK",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KOREK",
+   "country_label": "Mauritius",
+   "class": "eservices",
+   "platform": "mobile app",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

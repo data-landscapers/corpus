@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-11-tcd-chad-launches-electronic-visa-system",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "VisasNews reports Chad's government launched the eVisa.td portal on 11 December 2024, where visa applications are submitted online; online payment was not yet operational.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "eVisa.td",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eVisa.td",
+   "country_label": "Chad",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Finance / National Police",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

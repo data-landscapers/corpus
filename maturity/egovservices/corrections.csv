@@ -17,3 +17,14 @@ MAR,009,services,inservice,revalued: underway,Rebuild: five justice services are
 MAR,013,services,inservice,revalued: underway,Rebuild: one school-enrolment service is not ten or more
 GNB,001,services,inservice,revalued: underway,Rebuild: one tax-payment service is not ten or more
 COD,003,gateway,single,revalued: services underway,Rebuild: a digital ID launched in pilot with no ministry's service named on it is not a gateway in service
+CPV,004,services,inservice,revalued: underway,Stage 4c: about ten services analysed on Gov.cv is not a count of ten or more
+DZA,023,services,inservice,revalued: underway,Stage 4c: a few electoral-list services on the electoral authority's portal are not ten or more
+EGY,010,services,inservice,revalued: underway,Stage 4c: a description of what Digital Egypt does gives no count of services
+EGY,012,services,inservice,revalued: underway,Stage 4c: eight named service groups are not a count of ten or more
+GHA,005,usage,published,removed,"Stage 4c: a value of transactions in cedis is not a number of users, applications or transactions"
+KEN,018,services,inservice,removed,Stage 4c: a daily transaction figure gives no count of services; the same figures are held as use in KEN-019
+MAR,016,usage,published,removed,Stage 4c: companies created on the dedicated company-creation platform are not use of the national portal
+MLI,003,services,inservice,revalued: underway,Stage 4c: two services are not ten or more
+MUS,009,services,inservice,revalued: underway,Stage 4c: a vehicle-licence system and a few app services give no count of ten or more
+NAM,004,services,inservice,revalued: underway,Stage 4c: one fund's three services are not ten or more
+SWZ,008,usage,published,removed,"Stage 4c: app downloads are not users, applications or transactions"

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-gmb-national-records-commission-launches-online-information-access-portal",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The National Records Commission announced the launch of an Online Information Access Portal on which citizens submit information requests electronically and track them in real time.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Online Information Access Portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Information Access Portal",
+   "country_label": "Gambia",
+   "class": "eservices",
+   "platform": "web portal",
+   "owner": "National Records Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

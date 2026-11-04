@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
+      "stage": "5",
       "services": "inservice",
       "gateway": "",
-      "usage": "",
+      "usage": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-012;BEN-003",
-      "gaps": "No source found since October 2023 says the national portal signs users in with the national ID or one shared account, or gives users, applications or transactions through it.",
-      "note": "About 270 services from over 50 institutions run through the national portal and gateway (February 2025), so ten or more are online. No source says how users sign in, so the single-gateway rung is not met.",
-      "as_at": "2026-10-29"
+      "stage_sources": "BEN-018;BEN-019;BEN-017",
+      "gaps": "No source found since October 2023 says how users sign in to service-public.bj, whether by the national ID or by one account shared across ministries.",
+      "note": "The digital minister published counts of requests and payments through service-public.bj in November 2024 (BEN-018), and the portal showed more than 2.5 million requests in November 2026 (BEN-019). A published count of use meets stage 5, and a later yes answers the earlier questions.",
+      "as_at": "2026-11-04"
     }
   ]
 }

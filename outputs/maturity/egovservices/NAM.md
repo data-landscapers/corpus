@@ -2,7 +2,7 @@
 
 ## Government services online
 
-**Services online.** In August 2025 New Era reported that [13 public institutions offer online services](<https://neweralive.na/namibia-targets-full-digital-transformation/>). The sixth National Development Plan aims for all government services to be digital by 2029/30. In 2023 the home affairs ministry [launched online applications, payment and SMS tracking for passports and short-term work visas](<https://www.nbcnews.na/node/100218>).
+**Services online.** In August 2025 New Era reported that [13 public institutions offer online services](<https://neweralive.na/namibia-targets-full-digital-transformation/>). The sixth National Development Plan aims for all government services to be digital by 2029/30. In June 2025 the Social Security Commission [launched mySSC for wage returns, certificates and contributions online](<https://economist.com.na/social-security-commission-enhances-efficiency-with-new-digital-platform/>). In 2023 the home affairs ministry [launched online applications, payment and SMS tracking for passports and short-term work visas](<https://www.nbcnews.na/node/100218>).
 
 **Single gateway.** No source found says one national portal carries the services of several ministries. None says one account signs users in to them. The nearest fact: [13 public institutions offered online services in 2025](<https://neweralive.na/namibia-targets-full-digital-transformation/>). The report names no portal that brings them together.
 

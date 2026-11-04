@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-05-zaf-government-accelerates-programme-to-connect-citizens-to-internet",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The minister says the National e-Government Portal developed through SITA carries 92 digitised government services.",
+   "as_of": "2024-04-05",
+   "date_precision": "day",
+   "system": "National e-Government Portal",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The minister says the portal's services drew over 899,394 logins in the past year, with over 1.4 million registered users.",
+   "as_of": "2024-04-05",
+   "date_precision": "day",
+   "system": "National e-Government Portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National e-Government Portal",
+   "country_label": "South Africa",
+   "class": "eservices",
+   "platform": "www.eservices.gov.za",
+   "owner": "SITA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

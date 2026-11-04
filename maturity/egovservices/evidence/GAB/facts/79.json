@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-23-gab-gabon-catalogue-national-presentation-de-l-interface-de-la-future-plat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Catalogue national des services publics (CNSP)",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "government platform in development",
+   "owner": "ANINF",
+   "tiers": ""
+  }
+ ],
+ "note": "The national catalogue of public services is an unfinished catalogue platform (80% complete); no service stated as live online."
+}

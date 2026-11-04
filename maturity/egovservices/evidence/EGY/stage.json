@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
+      "stage": "5",
       "services": "inservice",
-      "gateway": "",
-      "usage": "",
+      "gateway": "single",
+      "usage": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001;EGY-008",
-      "gaps": "No source found says how users sign in to Digital Egypt, whether by the national ID or by one account shared across ministries. No source found gives users, applications or transactions through a national portal.",
-      "note": "The minister puts more than 240 services on Digital Egypt in September 2026 (EGY-001), so ten or more are online. No source says how users sign in, so the single-gateway rung is not met.",
-      "as_at": "2026-11-03"
+      "stage_sources": "EGY-011;EGY-013;EGY-001",
+      "gaps": "",
+      "note": "One Digital Egypt account, opened with the national ID, reaches civil status, traffic, real estate, court and commercial registry services (EGY-013), and the platform carries more than 240 services (EGY-001). The assistant ICT minister put its users at about 13.5 million in October 2026 (EGY-011), which meets stage 5.",
+      "as_at": "2026-11-04"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-21-uga-nita-u-drives-digital-transformation-with-new-government-service-integ",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UGOV",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "integrated platform (in design)",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": "UGOV is being designed, with no service stated as live."
+}

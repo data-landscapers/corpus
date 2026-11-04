@@ -2,3 +2,6 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 NGA,F2,Nigeria,other,cBrain F2 case management,cBrain with Publica AI,federal,2026-01-15-cbrain-denmark-f2-egovernment
 NGA,Government Service Portal (services.gov.ng),Nigeria,eservices,services.gov.ng,Galaxy Backbone,federal,2026-08-04-nigeria-galaxy-backbone-koica-government-service-portal
 NGA,Government Service Portal (GSP),Nigeria,eservices,Galaxy Backbone government-owned cloud,Galaxy Backbone / KOICA,,2024-10-02-nga-nigerian-government-ensures-data-sovereignty-with-local-cloud-hosting
+NGA,Government Service Portal (services.gov.ng),Nigeria,eservices,1Gov Cloud,Federal Government of Nigeria,,2026-08-18-nga-nigeria-launches-services-gov-ng
+NGA,Online Citizenship and Business Management Platform,Nigeria,eservices,,Ministry of Interior,,2025-05-15-nga-fg-launches-new-citizenship-business-management-platform
+NGA,Online passport application portal,Nigeria,eservices,passport.immigration.gov.ng,Nigeria Immigration Service,,2024-01-08-nga-immigration-unveils-online-passport-application-portal-today

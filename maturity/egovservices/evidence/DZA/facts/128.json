@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Les Enjeux Eco reports the national digital services portal is in service with a first phase of 21 digital services, mainly from the Interior, Labour and National Solidarity sectors, and about 650 priority services planned.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Portail national des services numeriques",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "The portal carries services of the Interior, Labour and National Solidarity sectors behind one digital identity based on the NIN, per HCN central director Mohamed Louail.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Portail national des services numeriques",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail national des services numeriques",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "Centre national des services numeriques",
+   "owner": "HCN",
+   "tiers": ""
+  }
+ ],
+ "note": "No usage figures stated; the 11-16 July 2026 drive gives no count."
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-12-30-mar-industries-ma-35000-entreprises-creees-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Minister Amal El Fallah Seghrouchni told the House of Representatives that the national digital services portal now offers more than 600 digital services.",
+   "as_of": "2025-12-29",
+   "date_precision": "day",
+   "system": "national digital services portal",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The minister said more than 35,000 companies have been created electronically through the national platform dedicated to it.",
+   "as_of": "2025-12-29",
+   "date_precision": "day",
+   "system": "national platform for company creation",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national digital services portal",
+   "country_label": "Maroc",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  },
+  {
+   "system": "Idaraty",
+   "country_label": "Maroc",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Gateway not recorded: no shared sign-in across ministries is stated."
+}

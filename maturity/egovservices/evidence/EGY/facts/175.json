@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-02-egy-your-guide-to-navigating-egypt-s-online-government-services",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Enterprise reports that Egypt's Digital Egypt platform lets people complete online civil status documents, traffic fines, criminal record certificates, social insurance, ration card, labor registry, credit inquiry and commercial registry services, with payment online.",
+   "as_of": "2026-08-02",
+   "date_precision": "day",
+   "system": "Digital Egypt",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "Enterprise reports that one Digital Egypt account, opened with the 14-digit national ID and linked mobile number, works across civil status, traffic, real estate, court and commercial registry services.",
+   "as_of": "2026-08-02",
+   "date_precision": "day",
+   "system": "Digital Egypt",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Egypt",
+   "country_label": "Egypt",
+   "platform": "misr.gov.eg, mobile app, 15999 hotline",
+   "owner": "Government of Egypt",
+   "tiers": "",
+   "class": "eservices"
+  }
+ ],
+ "note": ""
+}

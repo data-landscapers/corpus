@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-20-bdi-wb-op00476457-pafen-portail-e-gouv-rfp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail e-Gouv",
+   "country_label": "Burundi",
+   "class": "eservices",
+   "platform": "",
+   "owner": "PAFEN / SETIC, Ministry of Finance, Budget and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "Request for proposals to build the portal issued 2026-10-20 with bids due 2026-12-04; no portal launched or piloted."
+}

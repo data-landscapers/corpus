@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "unplaced",
-      "services": "",
+      "stage": "2",
+      "services": "underway",
       "gateway": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether government services can be used online.",
-      "note": "The Tresor Pay platform was unveiled on 7 August 2023 (CMR-001), before the window, so it sets nothing. No dated statement of absence is found, so the cell stays unplaced.",
-      "as_at": "2026-11-03"
+      "stage_sources": "CMR-002",
+      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "The tax directorate's deed-registration platform took three kinds of act online, paid by mobile money, in August 2026 (CMR-002), a yes to question 1. Its other acts were shown as unavailable, so ten or more are not online and it stops at 2.",
+      "as_at": "2026-11-04"
     }
   ]
 }

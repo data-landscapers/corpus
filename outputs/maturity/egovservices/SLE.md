@@ -2,7 +2,7 @@
 
 ## Government services online
 
-**Services online.** In February 2025 the communications ministry [launched the WanGov app](<https://sierraloaded.sl/news/ministry-launches-wangov-app/>). Users apply for services, submit documents, track applications and pay. Business registration, tax filing, permits, driving licences and electricity meters are named. In October 2025 WanGov [was deployed at the Gbalamuya border post](<https://sierraloaded.sl/news/sierra-leone-digital-platform-border-trade-guinea/>) for paying for business registration, permits and licences.
+**Services online.** In February 2025 the communications ministry [launched the WanGov app](<https://sierraloaded.sl/news/ministry-launches-wangov-app/>). Users apply for services, submit documents, track applications and pay. Business registration, tax filing, permits, driving licences and electricity meters are named. In October 2025 WanGov [was deployed at the Gbalamuya border post](<https://sierraloaded.sl/news/sierra-leone-digital-platform-border-trade-guinea/>) for paying for business registration, permits and licences. Since 30 July 2026 [all police clearance applications go through WanGov](<https://sierraloaded.sl/news/government-police-clearance-applications/>).
 
 **Single gateway.** In June 2025 the minister said the ministry [had created the One Government Platform, a one-stop portal for all government services and information](<https://statehouse.gov.sl/2025/06/04/sierra-leones-president-bio-champions-technological-innovation-at-the-2025-digital-innovation-summit/>). No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 

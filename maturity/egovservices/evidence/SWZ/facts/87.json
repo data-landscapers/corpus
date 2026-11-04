@@ -1,0 +1,46 @@
+{
+ "slug": "2025-06-11-swz-over-2k-downloads-government-in-your-hand-app",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Eswatini's ICT ministry launched the Government-In-Your-Hand app in May 2025, offering document status checks, business registration, education services and utility payments, with no count of services given.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Government-In-Your-Hand app",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "The Government-In-Your-Hand app carries services of several bodies (ID and passport status, business registration, education loans, utility payments), with sign-up by national ID and an SMS one-time code, per Eswatini Positive News.",
+   "as_of": "2025-06-11",
+   "date_precision": "day",
+   "system": "Government-In-Your-Hand app",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "An ICT ministry engineer said the Government-In-Your-Hand app had over 2,000 downloads in its first month, and that over 200 people had it on their phones.",
+   "as_of": "2025-06-11",
+   "date_precision": "day",
+   "system": "Government-In-Your-Hand app",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government-In-Your-Hand app",
+   "country_label": "Eswatini",
+   "class": "eservices",
+   "platform": "mobile app (App Store, Google Play)",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

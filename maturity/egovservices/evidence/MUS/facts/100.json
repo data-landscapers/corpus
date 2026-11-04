@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-17-mus-online-motor-vehicle-licence-system-launched-for-taxi-operators",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Ministry of Information Technology launched the Motor Vehicle Licence system on 17 August 2026, letting taxi operators renew licences and pay Road Tax online; online driving licence and penalty-point services are on the KOREK super app.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Motor Vehicle Licence System; KOREK super app",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Motor Vehicle Licence System",
+   "country_label": "Mauritius",
+   "class": "eservices",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": ""
+  },
+  {
+   "system": "KOREK super app",
+   "country_label": "Mauritius",
+   "class": "eservices",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": ""
+  },
+  {
+   "system": "MAUPASS",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Gateway not recorded: MAUPASS is only encouraged for access, no shared sign-in is stated; no usage figure or service count."
+}

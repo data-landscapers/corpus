@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
+      "stage": "5",
       "services": "inservice",
       "gateway": "",
-      "usage": "",
+      "usage": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-004;RWA-002",
-      "gaps": "No source found says how users sign in to Irembo, whether by the national ID or by one account shared across ministries. No source found gives users, applications or transactions through a national portal.",
-      "note": "DIAL counts over 240 services on IremboGov in 2025 (RWA-004), so ten or more are online. No source says how users sign in, so the single-gateway rung is not met.",
-      "as_at": "2026-11-03"
+      "stage_sources": "RWA-009;RWA-008",
+      "gaps": "No source found says how users sign in to Irembo, whether by the national ID or by one account shared across ministries.",
+      "note": "The ICT ministry says citizens submitted over 5 million applications through Irembo in 2023 and 2024 (RWA-009), and the minister put its services at 240 in November 2025 (RWA-008). A published count of applications meets stage 5, and a later yes answers the earlier questions.",
+      "as_at": "2026-11-04"
     }
   ]
 }

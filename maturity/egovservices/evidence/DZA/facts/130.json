@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-16-dza-elections-legislatives-l-anie-mise-sur-le-numerique-pour-garantir-la-t",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "ANIE's interim president Karim Khelfane said its electronic services portal offers services including registration on and removal from electoral lists, correction of personal data and change of residence.",
+   "as_of": "2026-04-16",
+   "date_precision": "day",
+   "system": "ANIE electronic services portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANIE electronic services portal",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "web portal",
+   "owner": "ANIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

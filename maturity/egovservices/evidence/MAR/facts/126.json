@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-06-mar-aljarida24-11-million-e-service-operations-monthly",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The minister of digital transition told parliament more than 600 e-services were inventoried, about 300 for citizens and over 200 for businesses, running 11 million operations a month.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "e-services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

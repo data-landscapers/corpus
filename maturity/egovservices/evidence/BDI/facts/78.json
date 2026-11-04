@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-29-bdi-consulting-digitale-verwaltungsdienstleistungen-e-gov",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail e-Gouv",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "national e-government portal (tender)",
+   "owner": "PAFEN / World Bank-financed",
+   "tiers": ""
+  }
+ ],
+ "note": "Tender notice only for design and deployment of the Portail e-Gouv; no service stated as live."
+}

@@ -6,7 +6,7 @@
 
 **Single gateway.** In May 2024 the Principal Secretary said eCitizen [is linked to the IPRS database of the registration, civil registration and immigration services](<https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/>). One eCitizen account reaches the services of [more than 350 agencies](<https://radiogeneration.co.ke/news/110840/ecitizen-under-scrutiny-over-sh365bn-collections-gap>).
 
-**Use published.** In July 2024 eCitizen's Director General said [it had 11.8 million users and about 40,000 transactions a day](<https://www.publicservice.go.ke/psc-certifies-141-candidates-after-undergoing-a-data-protection-and-cybersecurity-capacity-building-programme/>). In December 2024 President Ruto [put active users at about 13 million](<https://www.businessdailyafrica.com/bd/corporate/technology/ruto-eyes-24-7-services-on-e-citizen-with-ai-addition-4844860>).
+**Use published.** In July 2024 eCitizen's Director General said [it had 11.8 million users and about 40,000 transactions a day](<https://www.publicservice.go.ke/psc-certifies-141-candidates-after-undergoing-a-data-protection-and-cybersecurity-capacity-building-programme/>). In October 2024 the Treasury Cabinet Secretary [told the Senate it handled 120,000 transactions a day](<https://citizen.digital/article/ecitizen-revenue-increased-by-ksh74b-in-one-year-mbadi-n350596>). In December 2024 its Director General [put active accounts at 13.5 million](<https://www.the-star.co.ke/news/realtime/2024-12-27-state-collects-sh900m-per-day-on-ecitizen-as-users-hit-135-million>), with at least six million people using it each month.
 
 ***Also on file***. [eTIMS](<https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546>).
 

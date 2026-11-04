@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-tgo-togo-adds-three-new-digital-administrative-procedures-to-national-e-se",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Togo's national portal service-public.gouv.tg now offers 101 online public services, including passports, residence permits and nationality certificates, after three new nationality and name procedures were added.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "service-public.gouv.tg",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "service-public.gouv.tg",
+   "country_label": "Togo",
+   "class": "eservices",
+   "platform": "national portal",
+   "owner": "Government of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

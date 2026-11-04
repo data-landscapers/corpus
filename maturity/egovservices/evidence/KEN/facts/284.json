@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-02-ken-ecitizen-revenue-increased-by-ksh-74b-in-one-year-mbadi",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Treasury CS Mbadi told the Senate on 2 October 2024 that the eCitizen platform handles 120,000 transactions daily and collected Ksh100.8 billion in FY2023/24.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "CS Mbadi stated eCitizen performs 120,000 transactions daily and collected Ksh100.8 billion in 2023/24 against Ksh26 billion in 2022/23.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

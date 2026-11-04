@@ -2,7 +2,7 @@
 
 ## Government services online
 
-**Services online.** In June 2026 the government [launched RDC-Pass, a national digital identity platform, in Kinshasa](<https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident>). Its rollout began with pilot testing. A WSIS Forum 2026 session described HandiConnect, which [lets users reach state services and receive social protection payments over USSD](<https://www.itu.int/net4/wsis/forum/2026/Agenda/Session/220>). It is backed by the telecoms ministry and the ministry for persons with disabilities.
+**Services online.** In June 2026 the government [launched RDC-Pass, a national digital identity platform, in Kinshasa](<https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident>). Its rollout began with pilot testing. A WSIS Forum 2026 session described HandiConnect, which [lets users reach state services and receive social protection payments over USSD](<https://www.itu.int/net4/wsis/forum/2026/Agenda/Session/220>). It is backed by the telecoms ministry and the ministry for persons with disabilities. From 1 March 2024 [applications for vehicle plates and registration cards were made and paid online](<https://www.africanewsrdc.net/actu/nicolas-kazadi-plateforme-numerique-plaques-cartes-roses/>), the finance minister said.
 
 **Single gateway.** Biometric Update describes RDC-Pass as [a central gateway, with one login, for services across government agencies](<https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident>). No source found names a ministry's service that users already reach through it, or says how many services it will carry.
 

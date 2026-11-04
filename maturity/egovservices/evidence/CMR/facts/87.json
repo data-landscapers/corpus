@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-15-cmr-registrations-dgi-cm-enregistrer-un-acte-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "LeFisk reports that the tax directorate DGI launched registrations.dgi.cm for online registration of deeds, with only 3 public-procurement acts operational on 2026-08-15 and 120+ others in the catalogue shown as temporarily unavailable.",
+   "as_of": "2026-08-15",
+   "date_precision": "day",
+   "system": "registrations.dgi.cm",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "registrations.dgi.cm",
+   "country_label": "Cameroon",
+   "class": "eservices",
+   "platform": "Harmony SSO",
+   "owner": "Direction Generale des Impots",
+   "tiers": "3 acts live of 120+ catalogued"
+  }
+ ],
+ "note": ""
+}

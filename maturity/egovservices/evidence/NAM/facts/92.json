@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-05-nam-social-security-commission-enhances-efficiency-with-new-digital-platfo",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Social Security Commission launched the mySSC web portal, where users submit wage returns, request Good Standing Certificates and pay contributions online, reported 5 June 2025.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "mySSC",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mySSC",
+   "country_label": "Namibia",
+   "class": "eservices",
+   "platform": "web portal and Self-Serve Point kiosks",
+   "owner": "Social Security Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

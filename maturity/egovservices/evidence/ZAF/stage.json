@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
+      "stage": "5",
       "services": "inservice",
       "gateway": "",
-      "usage": "",
+      "usage": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-004;ZAF-001",
-      "gaps": "No source found says how users sign in to the national portal, whether by the national ID or by one account shared across ministries. No source found gives users, applications or transactions through a national portal.",
-      "note": "The communications department counts 134 e-services on the national portal in October 2024 (ZAF-004), so ten or more are online. No source says how users sign in, so the single-gateway rung is not met.",
-      "as_at": "2026-11-03"
+      "stage_sources": "ZAF-007;ZAF-009;ZAF-004",
+      "gaps": "No source found says how users sign in to the national portal, whether by the national ID or by one account shared across ministries. Use figures after April 2024 have not been found.",
+      "note": "The minister published 899,394 logins in a year and over 1.4 million registered users of the National e-Government Portal in April 2024 (ZAF-007). A published count of users meets stage 5, and a later yes answers the earlier questions.",
+      "as_at": "2026-11-04"
     }
   ]
 }

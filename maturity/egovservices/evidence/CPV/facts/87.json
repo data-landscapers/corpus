@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-22-cpv-ja-sabe-como-aceder-aos-servicos-publicos-sem-sair-de-casa-analisamos",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Caboverde24 reports that Cabo Verde's Gov.cv portal, launched in February 2026, offers about ten services analysed, including online criminal record requests, nationality requests and higher education applications, plus order tracking.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Gov.cv",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gov.cv",
+   "country_label": "Cabo Verde",
+   "class": "eservices",
+   "platform": "web portal and Android/iOS app",
+   "owner": "Casa do Cidadao",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

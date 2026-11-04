@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-20-cog-numerique-les-partenaires-appeles-a-accelerer-le-projet-e-gouv",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Addinn's director general said at a 19 December 2024 meeting with the minister that the e-gouv platform, started in September 2024 on a 24-month timeline, will be put online for some priority public services, with nationality certificates and birth extracts soon to follow.",
+   "as_of": "2024-12-19",
+   "date_precision": "day",
+   "system": "e-gouv platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-gouv platform",
+   "country_label": "Congo",
+   "class": "eservices",
+   "platform": "government portal under construction",
+   "owner": "Ministry of Posts, Telecommunications and Digital Economy; built by Addinn with PATN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-14-gha-ghana-s-e-initiatives-good-model-for-digital-transformation-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "President Akufo-Addo said the Ghana.gov portal, in place since 2019, has facilitated government transactions, with no count of services given.",
+   "as_of": "2024-05-13",
+   "date_precision": "day",
+   "system": "Ghana.gov portal",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "President Akufo-Addo said the Ghana.gov portal has facilitated transactions worth some GH¢1.6 billion since 2019, a figure of value rather than a count.",
+   "as_of": "2024-05-13",
+   "date_precision": "day",
+   "system": "Ghana.gov portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana.gov portal",
+   "country_label": "Ghana",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

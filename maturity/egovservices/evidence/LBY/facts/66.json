@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-26-lby-cabinet-decision-705-2024-dawlati-platform",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Cabinet Decision 705/2024 creates the Dawlati e-platform under the Government Communication Centre to provide e-services and issue official documents, with fees collected and documents verifiable by QR code.",
+   "as_of": "2024-12-26",
+   "date_precision": "day",
+   "system": "Dawlati platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dawlati platform",
+   "country_label": "Libya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government Communication Centre",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
