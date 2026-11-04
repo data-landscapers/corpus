@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: MUS
-ledger_rows: 30
+ledger_rows: 31
 not_held: 7
-record: a77e79defd63
+record: 6e33b1d4eca5
 ---
 
 # News, Oct – Nov 2026
@@ -415,6 +415,20 @@ Mauritius's electronic medical record had registered more than 150,000 patients 
 </div>
 
 ### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">KOREK government app registrations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Services publics numériques : près d'un demi-million de Mauriciens désormais enregistrés sur l'application Korek](https://topfm.mu/actualites/services-publics-numeriques-pres-dun-demi-million-de-mauriciens-desormais-enregistres-sur)** — Top FM Mauritius, 7 October 2026
+
+About 500,000 registered on Korek, 250,000 KYC-verified (Oct 2026); digital licence viewed some 100,000 times.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
