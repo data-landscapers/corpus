@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-20-swz-ict-ministry-records-strong-start-as-digital-rollout-gains-momentum",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The ICT Ministry's first quarter 2026/27 report says 473 emaSwati were trained in basic computer and digital citizenship skills, in communities, during the quarter.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ministry of ICT digital inclusion training",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ministry of ICT digital inclusion training",
+   "country_label": "Eswatini",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

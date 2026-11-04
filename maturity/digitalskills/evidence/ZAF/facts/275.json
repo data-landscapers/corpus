@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-05-zaf-government-accelerates-programme-to-connect-citizens-to-internet",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Department of Communications and Digital Technologies says its National Digital Skills Programme has been rolled out in North West, KwaZulu-Natal, Limpopo and Free State, with over 20,000 citizens trained in basic digital literacy.",
+   "as_of": "2024-04-05",
+   "date_precision": "day",
+   "system": "National Digital Skills Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Skills Programme",
+   "country_label": "South Africa",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Department of Communications and Digital Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
