@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: SEN
-ledger_rows: 30
+ledger_rows: 32
 not_held: 2
-record: 558f4520df2b
+record: ab8271804489
 ---
 
 # News, Oct – Nov 2026
@@ -26,6 +26,8 @@ record: 558f4520df2b
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -220,6 +222,20 @@ STELLARIX Senegal, part of the AXIAN Group, said it has expanded its data-centre
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National cloud infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Alibaba Brings Cloud and AI to the First Youth Olympic Games in Africa](https://www.alibabagroup.com/en-US/document-2054013976894767104)** — Alibaba Group, 2 November 2026
+
+Apsara Stack private cloud hosts ticketing and e-visas; handed to Senegal after the Games as national cloud.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -259,6 +275,22 @@ Senegal's cybersecurity directorate, the DCSSI, put online a new institutional p
 **[Wave rejoint la plateforme de paiement instantané de la BCEAO, un an après son lancement](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)** — Agence Ecofin, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Mobile money operator Wave Digital Finance appears on the BCEAO's list of participants in its PI-SPI instant payment platform updated on 30 September 2026, authorised to offer the service in Senegal. Wave was absent when the platform launched a year earlier with 45 participants; the list now has 175 across the eight WAEMU states. The central bank had set 30 September 2026 as the connection deadline.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bank to Wallet et Wallet to Bank : la BCEAO chamboule les règles du jeu](https://lesoleil.sn/actualites/economie/bank-to-wallet-et-wallet-to-bank-la-bceao-chamboule-les-regles-du-jeu/)** — Le Soleil, 2 November 2026
+
+Customers notified days ahead; PI-SPI needs bank-app update and alias; transfers instant and irrevocable.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa’s Unified Payments Network Is Off to a Rocky Start](https://launchbaseafrica.com/2026/11/03/failed-transfers-hidden-fees-and-phantom-aliases-inside-the-messy-birth-of-west-africas-unified-payments-network/)** — Launch Base Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+From 2 November 2026 the BCEAO required interoperable e-money transfers across WAEMU to route through its PI-SPI platform. In the first days, users in Senegal and Côte d'Ivoire reported Orange Money-to-Wave transfers debited but not credited, and alias conflicts. Wave added a 1% cash-withdrawal fee, outside the BCEAO's transfer-fee cap; the BCEAO had not commented.
 
 </div>
 
@@ -539,6 +571,28 @@ Senegal's parliamentary commission of inquiry into the One Student, One Computer
 **[L’ANSD envisage de faciliter l’accès à distance aux données anonymisées (DG)](https://aps.sn/lansd-envisage-de-faciliter-lacces-a-distance-aux-donnees-anonymisees-dg/)** — Agence de Presse Sénégalaise, 13 October 2026
 
 Senegal's statistics agency is working towards remote access for authorised researchers to the anonymised detailed data now consulted on site in its data-access centres. Its director-general named personal-data protection, access security and conditions of use as the questions to settle.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#china-activities">China activities</a>
+</nav>
+
+### China activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sovereign cloud built with Alibaba</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Alibaba Brings Cloud and AI to the First Youth Olympic Games in Africa](https://www.alibabagroup.com/en-US/document-2054013976894767104)** — Alibaba Group, 2 November 2026
+
+Summarised under [Data Storage](#data-storage).
 
 </div>
 
