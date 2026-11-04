@@ -2,11 +2,11 @@
 
 ## Citizen feedback channel
 
-**Feedback channel.** [Techies reports the DGDI portal includes an Espace Reclamation, an online space to file and follow complaints, newly inaugurated](<https://techies.ga/article/la-dgdi-lance-un-portail-pour-simplifier-les-demarches-administratives>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Feedback channel.** In November 2023 the DGDI, Gabon's directorate for documentation and immigration, [opened an online complaints space, the Espace Réclamation, on its new portal](<https://techies.ga/article/la-dgdi-lance-un-portail-pour-simplifier-les-demarches-administratives>). Users of its services can file a complaint there and follow it online. The portal was launched to simplify administrative procedures with the directorate.
 
-**Across government.** No source found since October 2023 says a complaints channel reaches services across government. The nearest held fact: [the one given above](<https://techies.ga/article/la-dgdi-lance-un-portail-pour-simplifier-les-demarches-administratives>).
+**Across government.** The complaints space sits on [the portal of the DGDI, the directorate for documentation and immigration](<https://techies.ga/article/la-dgdi-lance-un-portail-pour-simplifier-les-demarches-administratives>). It covers that directorate's own procedures. Nothing found since October 2023 shows a channel reaching most ministries or local governments.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://techies.ga/article/la-dgdi-lance-un-portail-pour-simplifier-les-demarches-administratives>).
+**Results published.** [The report of the portal's launch](<https://techies.ga/article/la-dgdi-lance-un-portail-pour-simplifier-les-demarches-administratives>) says users can follow their complaints online, and gives no number of them. No source found since October 2023 gives resolution rates, response times or a report of the cases handled.
 
 ***Also on file***. [Identity Secu](<https://ethiquemediagabon.net/?p=14508>).
 

@@ -2,11 +2,11 @@
 
 ## Citizen feedback channel
 
-**Feedback channel.** [Madagascar's Justice ministry launched on 26 February 2024 the website Fitsarana valio ny tarainako for complaints from users of justice and prison services, filed for 500 ar after registration with the national identification number, with no count of complaints given](<https://2424.mg/reclamation-le-ministere-de-la-justice-lance-un-site-internet-de-doleances/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Feedback channel.** On 26 February 2024 Madagascar's Ministry of Justice [launched a complaints website, Fitsarana valio ny tarainako](<https://2424.mg/reclamation-le-ministere-de-la-justice-lance-un-site-internet-de-doleances/>), for users of justice and prison services. A complaint costs 500 ariary and is filed after registration with the national identification number. The site takes complaints about the courts and prisons and about nothing else.
 
-**Across government.** No source found since October 2023 says a complaints channel reaches services across government. The nearest held fact: [the one given above](<https://2424.mg/reclamation-le-ministere-de-la-justice-lance-un-site-internet-de-doleances/>).
+**Across government.** The website takes [complaints from users of justice and prison services](<https://2424.mg/reclamation-le-ministere-de-la-justice-lance-un-site-internet-de-doleances/>) only. Complainants register with their national identification number. Nothing found since October 2023 shows a channel reaching most ministries or local governments.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://2424.mg/reclamation-le-ministere-de-la-justice-lance-un-site-internet-de-doleances/>).
+**Results published.** [The report of the site's launch in February 2024](<https://2424.mg/reclamation-le-ministere-de-la-justice-lance-un-site-internet-de-doleances/>) gives no number of complaints filed. No source found since October 2023 gives resolution rates, response times or a report of the cases handled.
 
 ***Also on file***. None found.
 

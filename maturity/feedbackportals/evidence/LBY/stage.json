@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "LBY-001;LBY-002",
       "gaps": "No source found since October 2023 says: is one in service with cases on record.",
-      "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py.",
-      "as_at": "2026-10-18"
+      "note": "The agriculture ministry's platform (April 2026), Tawasul (December 2024) and the LYPay complaints form answer question 1. The Citizen Service Centre's case count and routing date from 2021, before the window, so it stops at 2.",
+      "as_at": "2026-11-04"
     }
   ]
 }

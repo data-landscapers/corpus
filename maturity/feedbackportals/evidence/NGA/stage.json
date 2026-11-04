@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "feedback",
-   "stage": "4",
-   "channel": "inservice",
-   "reach": "wide",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-002",
-   "gaps": "No source found since October 2023 gives resolution rates, response times or a report of the cases handled.",
-   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "feedback",
+      "stage": "4",
+      "channel": "inservice",
+      "reach": "wide",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-002",
+      "gaps": "No source found since October 2023 gives resolution rates, response times or a report of the cases handled.",
+      "note": "SERVICOM's coordinator said in March 2026 that its grievance platform lets complaints be received, tracked and resolved across all tiers of government, a yes to question 3. No resolution rate or case report is held, so it stops at 4.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

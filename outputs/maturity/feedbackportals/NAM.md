@@ -2,11 +2,11 @@
 
 ## Citizen feedback channel
 
-**Feedback channel.** [Walvis Bay Municipality launched Ovakalimo (ovakalimo.org), an online platform where residents report service issues with a photo, are routed to the municipal department and can track status, per spokesperson Anita Kaihiva](<https://futuremedianews.com.na/2025/11/18/walvis-bay-launches-online-reporting-tool-to-strengthen-local-accountability/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Feedback channel.** In November 2025 Walvis Bay Municipality [launched Ovakalimo, an online platform where residents report problems with municipal services](<https://futuremedianews.com.na/2025/11/18/walvis-bay-launches-online-reporting-tool-to-strengthen-local-accountability/>). A resident sends a report with a photo, the platform passes it to the municipal department responsible, and the resident can track its status. The municipality presented it as a tool for local accountability.
 
-**Across government.** No source found since October 2023 says a complaints channel reaches services across government. The nearest held fact: [the one given above](<https://futuremedianews.com.na/2025/11/18/walvis-bay-launches-online-reporting-tool-to-strengthen-local-accountability/>).
+**Across government.** Ovakalimo [routes each report to the department of Walvis Bay Municipality responsible](<https://futuremedianews.com.na/2025/11/18/walvis-bay-launches-online-reporting-tool-to-strengthen-local-accountability/>), one town. No source found since October 2023 says a complaints channel reaches the services of most ministries or of local governments across the country.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://futuremedianews.com.na/2025/11/18/walvis-bay-launches-online-reporting-tool-to-strengthen-local-accountability/>).
+**Results published.** [The municipality's spokesperson](<https://futuremedianews.com.na/2025/11/18/walvis-bay-launches-online-reporting-tool-to-strengthen-local-accountability/>) said residents can track the status of a report, and gave no number of reports. No source found since October 2023 gives resolution rates, response times or a report of the cases handled.
 
 ***Also on file***. None found.
 

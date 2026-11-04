@@ -2,11 +2,11 @@
 
 ## Citizen feedback channel
 
-**Feedback channel.** [A Khartoum State government committee met telecom companies to allocate unified WhatsApp numbers for citizen complaints and proposed adding a call centre, with companies ready to supply the numbers](<https://sudanplatform.net/111991>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Feedback channel.** In August 2025 [a committee of the Khartoum State government met telecom companies to allocate unified WhatsApp numbers for citizens' complaints](<https://sudanplatform.net/111991>). It proposed adding a call centre beside them, and the companies said they were ready to supply the numbers. No channel was yet running when the committee met the companies.
 
-**Across government.** No source found since October 2023 says a complaints channel reaches services across government. The nearest held fact: [the one given above](<https://sudanplatform.net/111991>).
+**Across government.** The WhatsApp numbers are [Khartoum State's own, for complaints to the state government](<https://sudanplatform.net/111991>). A call centre was proposed beside them. Nothing found since October 2023 shows a channel reaching most ministries or local governments.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://sudanplatform.net/111991>).
+**Results published.** [The report of the committee's meeting with telecom companies](<https://sudanplatform.net/111991>) gives no number of complaints, as no channel was yet running. No source found since October 2023 gives resolution rates, response times or a report of the cases handled.
 
 ***Also on file***. None found.
 

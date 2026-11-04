@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "feedback",
-   "stage": "2",
-   "channel": "underway",
-   "reach": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001",
-   "gaps": "No source found since October 2023 says: is one in service with cases on record.",
-   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "feedback",
+      "stage": "2",
+      "channel": "underway",
+      "reach": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001",
+      "gaps": "No source found since October 2023 says: is one in service with cases on record.",
+      "note": "The housing agency ARULoS runs an online complaints platform, on record in August 2026, a yes to question 1. No case count is held, so it stops at 2.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

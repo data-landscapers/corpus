@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "feedback",
-   "stage": "2",
-   "channel": "underway",
-   "reach": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found since October 2023 says: is one in service with cases on record.",
-   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "feedback",
+      "stage": "unplaced",
+      "channel": "",
+      "reach": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.",
+      "note": "The only row is a World Bank digital project's grievance mechanism for complaints about the project, classed other as project mechanisms are (PADAES in Senegal). Nothing held answers question 1.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

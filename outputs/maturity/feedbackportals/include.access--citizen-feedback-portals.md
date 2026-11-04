@@ -1,6 +1,6 @@
 # Citizen feedback portals: citizen feedback channel
 
-*As at 2026-09-30.*
+*As at 2026-11-04.*
 
 ## The norm
 
@@ -23,9 +23,9 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 | 5 Leading | 4 |
 | 4 Operating | 2 |
 | 3 Established | 0 |
-| 2 Nascent | 30 |
+| 2 Nascent | 27 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 10 |
 | No evidence | 11 |
 
 ## Countries
@@ -98,12 +98,6 @@ A digital channel for complaints about public services was under way in 2024; on
 A digital channel for complaints about public services was under way in 2024; one in service is not on record.
 
 - The Ministry of Justice and Human Rights, with UNDP, is preparing an online platform for filing complaints and requests, and its procedure-mapping committee met for the first time on 6 June 2024; nothing is built ([source, 2024-06-06](https://lendjampost.com/tchad-le-ministere-de-la-justice-compte-creer-une-plateforme-virtuelle-de-depot-de-plaintes-et-requetes/)).
-
-### Comoros: 2 Nascent
-
-A digital channel for complaints about public services was under way in 2026; one in service is not on record.
-
-- CCARDESA reports that a national consultation in Moroni on 23 March 2026, with nearly 60 participants, worked to operationalise the World Bank-supported Food Systems Resilience Programme grievance redress mechanism, which takes complaints through in-person submissions, digital platforms and formal channels ([source, 2026-03-23](https://www.ccardesa.org/comoros-strengthening-accountability-food-systems-through-stakeholder-consultations)).
 
 ### DR Congo: 2 Nascent
 
@@ -210,18 +204,6 @@ A digital channel for complaints about public services was under way in 2026; on
 
 - The Ministry of Local Government states that the revised Citizens' Assembly guidelines have assembly reports supported by the electronic software e-Citizen Complaints, which is used to receive and solve citizens' complaints online ([source, 2026-06-03](https://www.minaloc.gov.rw/news-detail/citizens-assembly-guidelines-revised)).
 
-### Senegal: 2 Nascent
-
-A digital channel for complaints about public services was under way in 2026; one in service is not on record.
-
-- The Ministry of Energy, Petroleum and Mines held the official launch workshop on 17 March 2026 for a complaints management mechanism for the oil and gas sector, with reception channels WhatsApp, e-mail, a web form and physical boxes ([source, 2026-03-17](https://energie-mines.gouv.sn/mise-en-place-dun-mecanisme-de-gestion-des-plaintes-le-mepm-reaffirme-son-engagement-pour-une-gouvernance-responsable-participative-et-apaisee-des-ressources-naturelles/)).
-
-### Somalia: 2 Nascent
-
-A digital channel for complaints about public services was under way in 2026; one in service is not on record.
-
-- The Somali Ministry of Communication and Technology's EA-RDIP project unit sets out in its January 2026 manual a grievance mechanism whose channels will include telephone hotline, SMS and WhatsApp, email and online platforms, plus suggestion boxes, for complaints about the project; no case numbers are given ([source, 2026-01](https://moct.gov.so/en/wp-content/uploads/2026/01/GRM-Manual-Final-clean-copy.pdf)).
-
 ### Sudan: 2 Nascent
 
 A digital channel for complaints about public services was under way in 2025; one in service is not on record.
@@ -265,6 +247,12 @@ Nothing found since 2023 names a digital channel for complaints about public ser
 
 Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
+### Comoros: Unplaced
+
+A food programme's grievance mechanism was being set up in 2026; no channel for complaints about public services is known, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+
 ### Cote d'Ivoire: Unplaced
 
 Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
@@ -283,9 +271,21 @@ Nothing found since 2023 names a digital channel for complaints about public ser
 
 Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
+### Senegal: Unplaced
+
+A complaints mechanism for oil and gas operations opened in 2026; no channel for complaints about public services is known, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+
 ### Seychelles: Unplaced
 
 Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+
+### Somalia: Unplaced
+
+A 2026 manual sets out complaints channels for one digital project; no channel for complaints about public services is known, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 

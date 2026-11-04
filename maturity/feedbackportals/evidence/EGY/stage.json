@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "feedback",
-   "stage": "5",
-   "channel": "inservice",
-   "reach": "wide",
-   "results": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "feedback",
+      "stage": "5",
+      "channel": "inservice",
+      "reach": "wide",
+      "results": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-003",
+      "gaps": "",
+      "note": "The Cabinet's report for September 2025 gives complaints resolved per ministry, a yes to question 4. The system logged 195,000 items that month and routed them to ministries and governorates.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

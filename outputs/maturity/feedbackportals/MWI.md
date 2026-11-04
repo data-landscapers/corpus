@@ -2,11 +2,11 @@
 
 ## Citizen feedback channel
 
-**Feedback channel.** [UNDP Malawi says the Independent Complaints Commission launched on 4 June 2025 a new Online Citizen Engagement Platform where citizens can file complaints about police misconduct, follow cases and receive updates](<https://www.undp.org/malawi/news/bringing-citizens-closer-justice-icc-launches-strategic-plan-and-digital-engagement-platform>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Feedback channel.** On 4 June 2025 Malawi's Independent Complaints Commission [launched an Online Citizen Engagement Platform](<https://www.undp.org/malawi/news/bringing-citizens-closer-justice-icc-launches-strategic-plan-and-digital-engagement-platform>), with UNDP support. Citizens can use it to file complaints about police misconduct, follow their case and receive updates on it. The commission launched it alongside its new strategic plan, to bring citizens closer to justice.
 
-**Across government.** No source found since October 2023 says a complaints channel reaches services across government. The nearest held fact: [the one given above](<https://www.undp.org/malawi/news/bringing-citizens-closer-justice-icc-launches-strategic-plan-and-digital-engagement-platform>).
+**Across government.** The platform takes [complaints about police misconduct](<https://www.undp.org/malawi/news/bringing-citizens-closer-justice-icc-launches-strategic-plan-and-digital-engagement-platform>), the commission's own remit, and lets complainants follow their case. Nothing found since October 2023 shows a channel reaching most ministries or local governments.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://www.undp.org/malawi/news/bringing-citizens-closer-justice-icc-launches-strategic-plan-and-digital-engagement-platform>).
+**Results published.** [UNDP's account of the launch in June 2025](<https://www.undp.org/malawi/news/bringing-citizens-closer-justice-icc-launches-strategic-plan-and-digital-engagement-platform>) gives no number of complaints filed or resolved. No source found since October 2023 gives resolution rates, response times or a report of the cases handled.
 
 ***Also on file***. [Shape Malawi's Digital and AI Future Portal](<https://cajnewsafrica.com/2026/02/20/malawi-validates-ai-strategy-digital-transformation-policy/>).
 

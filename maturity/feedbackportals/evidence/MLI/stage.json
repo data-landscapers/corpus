@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "feedback",
-   "stage": "no evidence",
-   "channel": "",
-   "reach": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether people can complain about public services online.",
-   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "feedback",
+      "stage": "no evidence",
+      "channel": "",
+      "reach": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says whether people can complain about public services online.",
+      "note": "No evidence row is held on a digital channel for complaints about public services. Neither a channel nor a dated statement that there is none is on record.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

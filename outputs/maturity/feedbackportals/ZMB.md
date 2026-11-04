@@ -2,11 +2,11 @@
 
 ## Citizen feedback channel
 
-**Feedback channel.** [SMART Zambia Institute says it has developed the Citizens Support Services Portal, taking complaints with a tracking number through portal, SMS, WhatsApp, app and chatbot channels, with the official launch date still to be announced](<https://www.szi.gov.zm/?p=2752>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Feedback channel.** In July 2024 SMART Zambia, the government's digital agency, [said it had developed the Citizens Support Services Portal](<https://www.szi.gov.zm/?p=2752>). It takes complaints through the portal, SMS, WhatsApp, a mobile app and a chatbot, and gives each a tracking number. The date of its official launch was still to be announced.
 
-**Across government.** No source found since October 2023 says a complaints channel reaches services across government. The nearest held fact: [the one given above](<https://www.szi.gov.zm/?p=2752>).
+**Across government.** The portal was built by [SMART Zambia, the government's digital agency, for citizens' complaints to government](<https://www.szi.gov.zm/?p=2752>), each given a tracking number. No source found since October 2023 says it is in service across most ministries or local governments.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://www.szi.gov.zm/?p=2752>).
+**Results published.** [SMART Zambia's announcement](<https://www.szi.gov.zm/?p=2752>) gives no number of complaints, as the launch date was still to be set. No source found since October 2023 gives resolution rates, response times or a report of the cases handled.
 
 ***Also on file***. None found.
 
