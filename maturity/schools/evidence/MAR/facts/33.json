@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-23-mar-massar-registration-digital-identity-learner-register",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The education ministry itself directs regional and provincial officials and school heads to enter and verify pupil registrations and records in Massar.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "Massar",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Massar",
+   "country_label": "Morocco",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
