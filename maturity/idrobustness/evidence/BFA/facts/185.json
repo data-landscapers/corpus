@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-14-bfa-identification-unique-electronique-de-la-personne-physique-les-deputes",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Minister Aminata Zerbo says that under the WURI project a pilot phase of the unique electronic identification system is expected, followed by mass enrolment aiming at 80% of the population.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "identification unique électronique de la personne physique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "identification unique électronique de la personne physique",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "WURI project",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-nga-six-months-to-presidential-poll-inec-raises-preparation-tempo",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Amupitan says over 136 million Nigerians are enrolled on the NIMC database, which issues the NIN.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "NIMC database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-06-mli-fichier-electoral-l-heure-du-grand-nettoyage",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The document names NINA, the national identification number, as the unique identifier of each voter, with a biometric civil-status database behind the lists.",
+   "as_of": "2026-10-06",
+   "date_precision": "day",
+   "system": "NINA",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

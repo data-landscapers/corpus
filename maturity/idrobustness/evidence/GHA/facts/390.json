@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-14-gha-ghana-s-e-initiatives-good-model-for-digital-transformation-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "President Akufo-Addo said some seventeen million Ghanaians now possess a digital ID, the Ghana Card, linking them to services.",
+   "as_of": "2024-05-13",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

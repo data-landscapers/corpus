@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-swz-15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The EBC says voter applicants must present a national identity card as proof of identity and citizenship.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "National identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National identity card",
+   "country_label": "National identity card",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

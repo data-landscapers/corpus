@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "INEC says NIDA provides a National Identification Number that voters must hold to update their details online.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "NIDA National Identification Number",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA National Identification Number",
+   "country_label": "NIDA National Identification Number",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

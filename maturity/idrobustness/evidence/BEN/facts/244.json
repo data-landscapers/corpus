@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-11-ben-electoral-file-audit-the-initial-conclusions-of-the-expert-mission",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The experts said Benin, thanks to a unique identifier per citizen, has an overhauled civil status file, with RAVIP tablets still in use at town halls and ANIP services deployed locally.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "RAVIP / ANIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAVIP / ANIP",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "RAVIP tablets",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

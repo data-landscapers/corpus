@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-02-cod-dr-congo-launches-national-digital-gateway-to-centralize-public-servic",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Ecofin Agency reports that in recent months the DR Congo government has advanced the deployment of a national digital identity system, which officials regard as a prerequisite for secure online public services.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "national digital identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

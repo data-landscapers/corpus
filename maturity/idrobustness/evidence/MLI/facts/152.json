@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-02-mli-loi-electorale-les-articles-52-57-et-70-modifies",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "L'Essor describes a biometric civil-status database holding photos and fingerprints and a national identification number (NINA), the definitive NINA being assigned by the service managing that database.",
+   "as_of": "2025-01-02",
+   "date_precision": "day",
+   "system": "NINA / biometric civil-status database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

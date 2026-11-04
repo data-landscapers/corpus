@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-06-mwi-malawi-insists-id-card-compulsory-for-scheduled-biometric-voter-regist",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Registration Bureau issues national ID cards to citizens aged 18 and over, and in July 2024 received about one million cards printed in India.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Malawi national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi national ID card",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

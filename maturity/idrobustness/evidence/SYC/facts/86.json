@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-25-syc-import-and-export-services-to-transition-to-monservis-portal-on-may-1",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The document states SeyID is the national digital identity launched in 2022 and now required to access the IE-Permit service.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "SeyID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "SeyID",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

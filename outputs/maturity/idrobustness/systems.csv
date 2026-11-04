@@ -37,6 +37,7 @@ BEN,Certificat NPI/fID (C'est moi),Benin,idsystem,mobile application with QR cod
 BEN,Registre national des personnes physiques (RNPP),Benin,other,,Agence nationale d'identification des personnes (ANIP),,2024-03-29-ben-lanation-interoperabilite-rnpp-npi
 BEN,Numero personnel d'identification (NPI),Benin,idsystem,,ANIP,simple authentication; strong authentication; data exchange,2024-03-29-ben-lanation-interoperabilite-rnpp-npi
 BEN,ANIP natural persons register,National Registry of Natural Persons (ANIP),idsystem,,ANIP,,2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms
+BEN,RAVIP / ANIP,Benin,idsystem,RAVIP tablets,ANIP,,2025-08-11-ben-electoral-file-audit-the-initial-conclusions-of-the-expert-mission
 BFA,CIB-AES,Burkina Faso,idsystem,,Alliance des Etats du Sahel; ONI technical support,,2026-08-27-bfa-aib-cib-aes-arbinda
 BFA,CNIB,Burkina Faso,idsystem,,Office Nationale d'Identification (ONI),,2026-08-25-cnib-carte-nationale-identite-burkinabe
 BFA,Carte d'identité biométrique AES (CIB-AES),Burkina Faso,idsystem,,Office national d'identification (ONI),card,2025-12-02-cib-aes-lancement-traore-enrolement
@@ -51,6 +52,7 @@ BFA,CNIB,CNIB,idsystem,,ONI,,2024-06-02-bfa-burkina24-oni-banfora-cnib
 BFA,CNIB,CNIB,idsystem,,ONI,,2024-02-02-bfa-oni-antenne-centre-ouest-cnib
 BFA,CIB-AES,Burkina Faso,idsystem,,"Gendarmerie nationale, ONI and Police Nationale enrol",,2026-10-16-bfa-aconews-gendarmerie-cib-aes
 BFA,FIUE-BF,Burkina Faso,other,,Ministry of National Education,pupil identifier file,2024-05-13-bfa-plus-de-200-000-eleves-enregistres-a-bousse-et-tenkodogo
+BFA,identification unique électronique de la personne physique,Burkina Faso,idsystem,WURI project,Ministry of Digital Transition,,2024-10-14-bfa-identification-unique-electronique-de-la-personne-physique-les-deputes
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-08-26-bwa-omang-fake-documents-cartel
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-07-29-botswana-national-id-replacement-delays
 BWA,Electronic National Identification System (Biometric Omang),Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-04-01-bwa-2026-0400-12061
@@ -201,6 +203,9 @@ GHA,Ghana Card / National Identification System,National Identification System,i
 GHA,NIA national ID,Ghana,idsystem,,National Identification Authority,,2025-09-16-gha-kessben-nia-mandate-biometric-verification-amendments
 GHA,Ghana Card,Ghana,idsystem,,National Identification Authority,,2026-02-26-gha-moc-keynote-national-data-protection-conference-2026
 GHA,Ghana Card,GHA,idsystem,,National Identification Authority,,2026-11-01-gha-nia-taskforce-launches-nationwide-crackdown-on-ghana-card-photocopying
+GHA,Ghana Card,Ghana,idsystem,"chip card with fingerprint, iris and face",National Identification Authority,,2026-11-03-gha-no-new-ghana-cards-required-under-biometric-verification-law-nia
+GHA,Ghana Card,Ghana,idsystem,,,,2024-05-14-gha-ghana-s-e-initiatives-good-model-for-digital-transformation-in-africa
+GHA,Ghana Card,Ghana Card,idsystem,,,,2024-05-13-gha-full-text-deputy-commissioner-of-the-electoral-commission-briefs-journ
 GIN,FUGAS,Guinea,other,,Ministry of Labour,,2025-11-30 Guinea Claims $26.9M Saved Since 2024 with Biometric Audit of Public Workforce (FUGAS)
 GIN,Etat civil biometrique,Guinea,idsystem,,,,2026-07-28-guinee-mgg-denonce-racket-etat-civil-biometrique
 GIN,Registre national des personnes physiques (RNPP),Guinea,idsystem,,ONECI / MATD,,2026-03-29-plfi-2026-matd-commission-des-lois-cnt
@@ -346,6 +351,7 @@ MWI,National ID card,Malawi,idsystem,,National Registration Bureau,,2025-12-25-m
 MWI,National ID,Malawi,idsystem,,National Registration Bureau,,2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration
 MWI,National ID,National ID,other,,National Registration Bureau,,2024-07-17-mwi-nation-nrb-under-scrutiny
 MWI,National ID database,Malawi,idsystem,,National Registration Bureau,,2024-04-09-mwi-nrb-in-phase-7-of-community-death-registration-exercise
+MWI,Malawi national ID card,Malawi,idsystem,,National Registration Bureau,,2024-08-06-mwi-malawi-insists-id-card-compulsory-for-scheduled-biometric-voter-regist
 NAM,Namibia digital ID (e-ID),NAM,idsystem,,Ministry of Home Affairs (National Registration Bureau),,2026-10-08-nam-biometricupdate-mps-digital-id
 NAM,Electronic Identification Card (e-ID),Namibia,idsystem,,"Ministry of Home Affairs, Immigration, Safety and Security",,2026-10-06-nam-economist-parliament-briefed-e-id
 NAM,e-ID,Namibia,idsystem,,Ministry of Home Affairs,,2026-08-01-new-e-id-expiry-date-to-boost-security
@@ -482,6 +488,7 @@ SWZ,Continuous Voter Registration,Eswatini,other,biometric capture,Elections and
 SWZ,National Population Register (NPR),Eswatini,other,,Government of Eswatini,,2025-06-28-digital-eswatini-project-pid
 SWZ,National identity cards,Eswatini,idsystem,,Ministry of Home Affairs,,2026-04-14-home-affairs-40-years-closing-of-the-tap
 SWZ,integrated identity system,Eswatini,other,,,,2026-04-01-vital-strategies-unhcr-birth-registration-citizenship-scoping
+SWZ,National identity card,National identity card,idsystem,,,,2026-10-13-swz-15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate
 SYC,SeyID,Seychelles,idsystem,,Government of Seychelles,Virtual ID Card; Digital Driving License,2026-01-01-seyid-idwallet
 SYC,SeyID ID-Wallet,Seychelles,idsystem,,Government of Seychelles,Minor ID,2026-01-01-seyid-minor-id-wallet
 SYC,SeyID,Seychelles,idsystem,SeyID website and app,Department of Immigration & Civil Status,virtual ID card,2024-09-18 Launch of New Digital Solutions for Public Services
@@ -494,6 +501,7 @@ SYC,National Identity Card,Seychelles,idsystem,,Department of Immigration and Ci
 SYC,National Population Database / Identity Card,Seychelles,idsystem,,Department of Immigration and Civil Status,,2026-01-01-ics-civil-status-division
 SYC,SeyID,SeyID,idsystem,,Department of Information Communications Technology; validated through the Immigration and Civil Status Department,,2025-04-04-syc-directive-on-the-adoption-and-acceptance-of-the-national-digital-ident
 SYC,SeyID,SeyID,other,WISeKey WISeID,Government of Seychelles,,2024-04-22-syc-wisekey-awarded-project-by-government-of-seychelles-to-deliver-seyid-a
+SYC,SeyID,SeyID,idsystem,,,,2026-04-25-syc-import-and-export-services-to-transition-to-monservis-portal-on-may-1
 TCD,national biometric registry,Chad,idsystem,,ANATS (National Agency for Secure Documents),,2026-03-16 Chad uses national biometric registry to boost govt systems interoperability
 TCD,biometric ID cards for refugees,Chad,other,Idemia,ANATS,,2026-03-16 Chad uses national biometric registry to boost govt systems interoperability
 TCD,SIGPTS / National Biometric Population Register,Chad,idsystem,Idemia,ANATS,,2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr
@@ -535,6 +543,7 @@ TZA,NIDA National Identification Number,Tanzania,idsystem,,National Identificati
 TZA,NIDA national ID,Tanzania,idsystem,,National Identification Authority (NIDA),,2026-01-07-nida-mulls-child-registration
 TZA,National ID (NIDA),Tanzania,idsystem,centralised core (NID),NIDA,,2026-05-01-tza-tanzania-digital-identity-ecosystem
 TZA,NIDA national ID (NIN and card),Tanzania,idsystem,NIDA registration and identification system,National Identification Authority,,2026-10-22-tza-nida-produces-23-718-060-identification-numbers-21-526-594-national-identit
+TZA,NIDA National Identification Number,NIDA National Identification Number,idsystem,,NIDA,,2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education
 UGA,Uganda new national ID card,Uganda,idsystem,,NIRA,,2026-09-11-business-focus-nira-new-national-ids-fail-services
 UGA,National Identification Register / national ID card,UGA,idsystem,,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,NIRA national identity platform on MOSIP,Uganda,idsystem,MOSIP,NIRA,,2026-02-19-mosip-brownfield-sierra-leone-migration
@@ -591,6 +600,7 @@ ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,
 ZMB,Foundational Digital ID,Zambia,idsystem,,Smart Zambia Institute,,2025-12-02-zmb-dzap-system-integrator-foundational-digital-id-crvs-rfp
 ZMB,Integrated National Registration Information System,Integrated National Registration Information System,idsystem,,,,2024-08-28-zmb-zambia-gets-100m-world-bank-grant-and-mosip-boost-for-digital-identity
 ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,,,,2024-12-11-zmb-smart-zambia-dzap-general-procurement-notice
+ZMB,ABIS (voter register deduplication),Zambia,other,ABIS,Electoral Commission of Zambia,,2025-08-15-zmb-ecz-stakeholder-voter-registration-presentation
 ZWE,Digital ID,Zimbabwe,idsystem,,Registrar-General / Ministry of Home Affairs,,2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform
 ZWE,Online Border Management System (OBMS),Zimbabwe,other,Garsu Pasaulis,Department of Immigration,,2024-05-15 Zimbabwe implements biometric border posts for automating immigration processes
 ZWE,national identity documents,Zimbabwe,idsystem,,Civil Registry Department,,2026-09-18-zwe-herald-30-new-vehicles-boost-civil-registry-services

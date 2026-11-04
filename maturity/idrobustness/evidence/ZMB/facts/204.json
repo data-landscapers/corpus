@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-15-zmb-ecz-stakeholder-voter-registration-presentation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ABIS (voter register deduplication)",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "ABIS",
+   "owner": "Electoral Commission of Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": "Fingerprint deduplication is of the voter register, not a national ID system."
+}

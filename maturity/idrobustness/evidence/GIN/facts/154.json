@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometrique",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Guinea's government received 3,000 biometric enrolment kits on 1 April 2025 to begin enrolment for the national register of natural persons and ID cards.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "Registre national des personnes physiques",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The government said the kits, with fingerprint sensors and iris recognition, guarantee the uniqueness of each citizen.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "Registre national des personnes physiques",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

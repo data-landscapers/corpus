@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-15-mwi-nrb-deploys-staff-to-some-voter-registration-centres",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Registration Bureau captures biometric registration of people without IDs at voter centres and issues unique numbers approved in Lilongwe, per the Nation in November 2024.",
+   "as_of": "2024-11-15",
+   "date_precision": "day",
+   "system": "NRB national ID database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

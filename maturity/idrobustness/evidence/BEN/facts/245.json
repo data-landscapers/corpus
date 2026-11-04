@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-21-ben-inquietudes-autour-de-la-fiabilite-de-la-liste-electorale-informatisee",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANIP's director general said ANIP now offers a secure identification system, and that its register of natural persons holds citizens' biometric data.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

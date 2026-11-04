@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-10-ken-iebc-to-clean-voter-register-ahead-of-2027-polls",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "IEBC Commissioner Ann Nderitu says that with the new digital systems national ID cards now take about three days to be ready.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "national identification cards (registration of persons)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

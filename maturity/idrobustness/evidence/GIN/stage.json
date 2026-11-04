@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "3",
-   "system": "inservice",
-   "biometric": "",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001;GIN-003",
-   "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "3",
+      "system": "inservice",
+      "biometric": "",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001;GIN-003",
+      "gaps": "No source found since October 2023 says the system checks fingerprints, face or iris to stop one person enrolling twice; the April 2025 claim was made for kits on delivery, before enrolment.",
+      "note": "Reassessed 2026-11-04: the government said in April 2025 that its new enrolment kits guarantee each citizen's uniqueness, but no source shows the register running such checks, so question 3 is not answered. Biometric ID enrolment is under way, which holds stage 3.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

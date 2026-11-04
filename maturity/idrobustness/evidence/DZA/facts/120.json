@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The HCN official said the NIN (Numero d'identification national) is the basis for online pre-registration into the digital identity used on the portal.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
