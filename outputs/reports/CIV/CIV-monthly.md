@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: CIV
 ledger_rows: 30
 not_held: 9
-record: ea4184d176c0
+record: 06700e9f9450
 ---
 
 # News, Oct – Nov 2026
@@ -544,7 +544,7 @@ Expertise France opened a tender on 27 October 2026 for an investment readiness 
 
 **[Digitalisation de l'Agriculture : Bruno Koné appelle à former des techniciens](https://www.fratmat.info/article/2645581/economie/digitalisation-de-lagriculture-bruno-kone-appelle-a-former-des-techniciens)** — Fraternite Matin, 1 November 2026
 
-Inaugurated 31 Oct 2026 at INP-HB Yamoussoukro; minister calls for linked farm data and dual-skilled technicians.
+Côte d'Ivoire opened a Digital Farmer School at the INP-HB technopole in Yamoussoukro on 31 October 2026. Agriculture Minister Bruno Nabagné Koné said the country has too few technicians trained in both farming and digital tools. He called for data on rainfall, vegetation, production, infrastructure and yields to be linked to guide decisions.
 
 </div>
 

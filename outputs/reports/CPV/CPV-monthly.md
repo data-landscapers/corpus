@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: CPV
 ledger_rows: 9
 not_held: 24
-record: dde50dac8202
+record: 8c95e2e44dd8
 ---
 
 # News, Oct – Nov 2026
@@ -102,7 +102,7 @@ Figures from Cabo Verde's regulator ARME, reported by Lusa, show Starlink's shar
 
 **[João Domingos, CEO CVTelecom: “Precisamos de ter mais cabos amarrados em Cabo Verde”](https://expressodasilhas.cv/pais/2026/11/01/joao-domingos-ceo-cvtelecom-precisamos-de-ter-mais-cabos-amarrados-em-cabo-verde/105326)** — Expresso das Ilhas, 1 November 2026
 
-Three cables landed, three more investors seeking landings; turnover near 7m contos; 5G awaits regulator roadmap.
+In an interview printed on 28 October 2026, outgoing CVTelecom chief executive João Domingos said three international submarine cables land in Cabo Verde. At least three more investors want to land cables, he said. He put turnover near 7 million contos, against about 4.5 million in 2020. Investment over his six years came to about 12 million contos. The operator is waiting for the regulator's 5G roadmap.
 
 </div>
 

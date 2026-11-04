@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: MDG
 ledger_rows: 22
 not_held: 5
-record: b4f33e0fefc9
+record: b320e2c12980
 ---
 
 # News, Oct – Nov 2026
@@ -246,7 +246,7 @@ Madagascar's tax directorate lets taxpayers apply for a tax identification numbe
 
 **[Liste électorale biométrique: la Ceni et ses partenaires préparent le terrain](https://newsmada.com/2026/10/24/liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-terrain/)** — Newsmada, 24 October 2026
 
-USD 750,000 of Japan-UNDP IT kit to CENI on 23 Oct 2026; 7.16m of 14m target registered on an alphanumeric roll.
+Madagascar's electoral commission (CENI) received IT equipment worth US$750,000 from Japan and UNDP on 23 October 2026. The kit is for processing and securing voter data ahead of a biometric roll. The roll now being rebuilt is still alphanumeric; over 7.16 million citizens had registered against a target of 14 million. Five local radio stations also received equipment for civic education.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: COD
 ledger_rows: 37
 not_held: 6
-record: 346066324bff
+record: 0a9e0d5140af
 ---
 
 # News, Oct – Nov 2026
@@ -504,7 +504,7 @@ Kongo Central's provincial digital development agency (ADN-KC) met on 21 October
 
 **[Nord-Kivu : le recensement numérique de la population reprend à Beni après une interruption liée à Ebola](https://actualite.cd/2026/10/31/nord-kivu-le-recensement-numerique-de-la-population-reprend-beni-apres-une-interruption)** — ACTUALITE.CD, 31 October 2026
 
-Births, deaths and moves logged on tablets to a provincial server; 30 neighbourhoods; CPDA digitising since 2016.
+North Kivu's Provincial Digital Development and Archives Unit (CPDA) restarted its digitised population census in Beni in the fourth quarter of 2026, ACTUALITE.CD reported. Ebola had halted it. Agents visit households in the city's 30 neighbourhoods. They record births, deaths, moves and address changes in a population file on a provincial server. Butembo and other areas are to follow.
 
 </div>
 

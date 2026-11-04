@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: UGA
 ledger_rows: 30
 not_held: 12
-record: 5c60bc373f66
+record: 764366bda720
 ---
 
 # News, Oct – Nov 2026
@@ -240,7 +240,7 @@ Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egyp
 
 **[Uganda MPs push EALA to pressure EAC states on ICT protocol ratification](https://horneconomicreview.com/2026/11/02/uganda-mps-push-eala-to-pressure-eac-states-on-ict-protocol-ratification/)** — Horn Economic Review, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
-Ugandan MPs say only Uganda and Rwanda have signed and ratified the 2013 EAC ICT Networks protocol.
+Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda have both signed and ratified the EAC Protocol on ICT Networks, Horn Economic Review reported on 2 November 2026. The protocol was adopted in 2013. The committee asked Uganda's members of the East African Legislative Assembly to press the other partner states to ratify it. It covers infrastructure sharing, cross-border connectivity, cybersecurity and common ICT policy.
 
 </div>
 

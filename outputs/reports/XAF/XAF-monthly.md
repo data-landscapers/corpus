@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: XAF
 ledger_rows: 55
 not_held: 3
-record: d8602cc715fa
+record: f99a9ae60252
 ---
 
 # News, Oct – Nov 2026
@@ -216,7 +216,7 @@ AU Commissioner Lerato Mataboge opened the ministerial session of the AU's 6th t
 
 **[Call for Inputs: Draft Continental Study on Digital Violence Against Women in Africa](https://achpr.au.int/en/news/announcements/2026-11-03/call-inputs-draft-continental-study-digital-violence-against-women)** — African Commission on Human and Peoples' Rights, 3 November 2026
 
-Draft held; 20 countries, none with comprehensive law on digital violence; inputs due 4 Dec 2026, consultation 11 Nov.
+The African Commission on Human and Peoples' Rights published its draft Continental Study on Digital Violence Against Women in Africa for stakeholder review. The study covers 20 countries and finds that none has enacted comprehensive gender-responsive legislation on digital violence against women. Inputs are due by 4 December 2026, and an online consultation is set for 11 November.
 
 </div>
 

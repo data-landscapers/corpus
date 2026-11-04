@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: EGY
 ledger_rows: 43
 not_held: 36
-record: c367c4d66d49
+record: b3962e53204a
 ---
 
 # News, Oct – Nov 2026
@@ -554,7 +554,7 @@ Egypt has put key ration card services on the Digital Egypt platform: heads of h
 
 **[«بدون طوابير».. مساعد وزير الاتصالات يكشف خطة تسهيل الخدمات الحكومية عبر منصة مصر الرقمية](https://www.elwatannews.com/news/details/8381060)** — الوطن, 20 October 2026
 
-Assistant minister Badawi: 13.5m users, ~30% yearly growth, 90% on mobile; digital-vault prototype for work contracts.
+Mahmoud Badawi, Egypt's assistant ICT minister for digital transformation, told Egypt Forum 2026 that the Digital Egypt platform had about 13.5 million users. He put growth at about 30% a year, with about 90% of use on mobile phones. He described a digital-vault prototype holding official documents in electronic form, first applied to work contracts. He also set out plans for generative AI help on the platform.
 
 </div>
 

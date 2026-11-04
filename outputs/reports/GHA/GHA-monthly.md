@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: GHA
 ledger_rows: 57
 not_held: 9
-record: e1c2c9e7951b
+record: 270d944ca300
 ---
 
 # News, Oct – Nov 2026
@@ -800,7 +800,7 @@ Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Sy
 
 **[Gender Ministry swears in Data Review Committee to strengthen household registry](https://www.myjoyonline.com/gender-ministry-swears-in-data-review-committee-to-strengthen-household-registry/)** — MyJoyOnline, 3 November 2026
 
-Peer-review body validates registry analytics before release; GNHR holds ~3 million households in 16 regions.
+Ghana's Ministry of Gender, Children and Social Protection swore in a Data Review Committee for the Ghana National Household Registry. The committee will review and validate the registry's analytical reports before they go to stakeholders and the public. The registry holds about three million enrolled households across all 16 regions.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: BFA
 ledger_rows: 36
 not_held: 6
-record: 0617e1447eb9
+record: 9cb7cb4e685b
 ---
 
 # News, Oct – Nov 2026
@@ -618,7 +618,7 @@ A four-year research project on the digital transition of university work in Bur
 
 **[Burkina/Santé : 'Lafiako', une plateforme numérique pour traiter les plaintes dans le système de santé](https://lefaso.net/spip.php?article150463)** — leFaso.net, 2 November 2026
 
-Requests logged, routed and answered within 10 days; also toll-free 3535, WhatsApp and 108 reception desks.
+Burkina Faso's Ministry of Health has launched Lafiako, a digital platform for complaints, information requests and suggestions, leFaso.net reported on 2 November 2026. It covers public and private health facilities. Each request is logged and passed to the responsible body, with a target of an answer within ten days. The platform works alongside 108 reception services, the toll-free line 3535 and a WhatsApp number.
 
 </div>
 

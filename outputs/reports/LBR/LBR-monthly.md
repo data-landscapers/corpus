@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: LBR
 ledger_rows: 17
 not_held: 6
-record: a8e8e3a2f1f8
+record: e5e0cba4ac49
 ---
 
 # News, Oct – Nov 2026
@@ -266,7 +266,7 @@ Liberia's instant payment system has processed more than 5.3 million transaction
 
 **[NEC Seeks US$72M for 2029 Elections](https://www.thenewdawnliberia.com/nec-seeks-us72m-for-2029-elections/)** — The New Dawn, 22 October 2026
 
-Fresh biometric registration planned for January-March 2028, dropping the update of the 2023 roll.
+Liberia's National Elections Commission chair, Jonathan Weedor, said on 21 October 2026 that the commission would propose a 2029 election budget of over US$72 million. The proposal was due to the government by 31 October. It includes a fresh biometric voter registration in January–March 2028. That replaces plans to verify and update the 2023 final registration roll. He also asked donors to invest in Liberian staff over foreign consultants.
 
 </div>
 

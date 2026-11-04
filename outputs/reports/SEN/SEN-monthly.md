@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: SEN
 ledger_rows: 32
 not_held: 2
-record: ab8271804489
+record: 6575a0057892
 ---
 
 # News, Oct – Nov 2026
@@ -230,7 +230,7 @@ STELLARIX Senegal, part of the AXIAN Group, said it has expanded its data-centre
 
 **[Alibaba Brings Cloud and AI to the First Youth Olympic Games in Africa](https://www.alibabagroup.com/en-US/document-2054013976894767104)** — Alibaba Group, 2 November 2026
 
-Apsara Stack private cloud hosts ticketing and e-visas; handed to Senegal after the Games as national cloud.
+Alibaba said on 2 November 2026 that the Dakar 2026 Youth Olympic Games run on a private cloud built on its Apsara Stack. The cloud hosts ticketing and e-visa processing. It is to pass to Senegal after the Games as a national cloud platform. The ticketing system covers over one million tickets across seven venues.
 
 </div>
 
@@ -282,7 +282,7 @@ Mobile money operator Wave Digital Finance appears on the BCEAO's list of partic
 
 **[Bank to Wallet et Wallet to Bank : la BCEAO chamboule les règles du jeu](https://lesoleil.sn/actualites/economie/bank-to-wallet-et-wallet-to-bank-la-bceao-chamboule-les-regles-du-jeu/)** — Le Soleil, 2 November 2026
 
-Customers notified days ahead; PI-SPI needs bank-app update and alias; transfers instant and irrevocable.
+Banks in Senegal stopped their bank-to-wallet and wallet-to-bank services from 2 November 2026, Le Soleil reported. They sent customers to the BCEAO's PI-SPI instead; the Launch Base Africa entry covers the rollout. Customers, told a few days ahead, said no reason was given. Using PI-SPI requires an updated banking app and an alias. Its transfers are instant and cannot be reversed.
 
 </div>
 

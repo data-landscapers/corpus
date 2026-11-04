@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: MUS
 ledger_rows: 31
 not_held: 7
-record: 6e33b1d4eca5
+record: b24aee48649d
 ---
 
 # News, Oct – Nov 2026
@@ -424,7 +424,7 @@ Mauritius's electronic medical record had registered more than 150,000 patients 
 
 **[Services publics numériques : près d'un demi-million de Mauriciens désormais enregistrés sur l'application Korek](https://topfm.mu/actualites/services-publics-numeriques-pres-dun-demi-million-de-mauriciens-desormais-enregistres-sur)** — Top FM Mauritius, 7 October 2026
 
-About 500,000 registered on Korek, 250,000 KYC-verified (Oct 2026); digital licence viewed some 100,000 times.
+Information Technology Minister Avinash Ramtohul said on 6 October 2026 that about 500,000 Mauritians had registered on the Korek government services app. Of these, 250,000 had completed KYC checks. He put views of the digital driving licence at about 100,000 and of the pensions service at about 497,000. He said more services would be added.
 
 </div>
 

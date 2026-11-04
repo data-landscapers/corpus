@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: MLI
 ledger_rows: 7
 not_held: 2
-record: 2d9eeb3b3eac
+record: a642e8dd44ce
 ---
 
 # News, Oct – Nov 2026
@@ -88,7 +88,7 @@ Senegal's and Mali's state fibre operators inaugurated the interconnection of th
 
 **[Fichier électoral : l'heure du grand nettoyage](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage)** — Bamada.net, 6 October 2026
 
-RALE 2026 runs 1 Oct-31 Dec; lists drawn from biometric civil-status data with NINA as the voter's unique key.
+Mali's annual revision of the electoral lists runs from 1 October to 31 December 2026, Le Pays reported. Voters apply at town halls, or at embassies and consulates abroad. The territorial administration ministry runs it, with the election management body AIGE supervising. By law the lists are drawn from the biometric civil-status database, with the national identification number (NINA) as each voter's key.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: BEN
 ledger_rows: 21
 not_held: 4
-record: f75e938d9722
+record: d6be3028af4c
 ---
 
 # News, Oct – Nov 2026
@@ -402,7 +402,7 @@ Benin's Ministry of Justice and Legislation is the first ministry to apply the g
 
 **[Bénin : comment fonctionne le portail numérique des services publics ?](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)** — Nasuba, 2 November 2026
 
-Portal lists 1,208 services, 131 online, 2.5m requests (Nov 2026); business mode and Yèmi AI assistant added.
+Nasuba described Benin's national services portal, service-public.bj, as it stood on 2 November 2026. Its home page showed 1,208 listed services, 131 of them online, and over 2.5 million requests. Services are grouped by life event, theme and administration. Online ones include criminal-record extracts, tax certificates and first vehicle registration. The portal shows a new business mode and an AI assistant, Yèmi; a mobile app is to follow.
 
 </div>
 

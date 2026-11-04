@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: KEN
 ledger_rows: 66
 not_held: 5
-record: 83b855ad4b89
+record: 0954f7ce09f8
 ---
 
 # News, Oct – Nov 2026
@@ -306,7 +306,7 @@ ITWeb Africa reported Airtel Kenya's purchase of 100 MHz of 3500 MHz spectrum fo
 
 **[Bayobab East to West Connectivity Project: fibre laid](https://tech.africa/bayobab-east-west-fibre-south-sudan/)** — TechAfrica, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
-Bayobab claims 2,038km of fibre laid on Kenya and South Sudan segments; activation next, no date, customers or cost.
+Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibre deployment are complete on the Kenya and South Sudan segments of Northern Route 1 of its East-to-West Connectivity Project. The segments carry 2,038km of fibre, and service activation is the next step. The company gave no activation date, customers or cost.
 
 </div>
 
@@ -1152,7 +1152,7 @@ Kenya's Cabinet Secretary for Gender, Hannah Cheptumo, said public institutions 
 
 **[Group raises alarm over digital exclusion in pastoralist counties](https://www.standardmedia.co.ke/national/article/2001561441/group-raises-alarm-over-digital-exclusion-in-pastoralist-counties)** — The Standard, 3 November 2026
 
-GDA survey of Garissa, Kajiado and Marsabit; ten policy actions; AbiliSpace participation platform launched.
+The Grassroots Disability Agenda launched a survey report in Nairobi on digital exclusion of persons with disabilities in Garissa, Kajiado and Marsabit counties. It cites device and data costs, inaccessible services, limited skills, online safety risks and weak policy implementation. The report sets out ten policy actions for government, regulators and technology providers.
 
 </div>
 

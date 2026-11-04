@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-04
 place: SWZ
 ledger_rows: 28
 not_held: 3
-record: a6da154d7f0f
+record: 540c903e0db9
 ---
 
 # News, Oct – Nov 2026
@@ -334,7 +334,7 @@ Eswatini Bank trained agents and residents in Nhlangano, Shiselweni, on its Shar
 
 **[15 000 EMASWATI REGISTERED AS EBC URGES YOUTH, DISABLED TO PARTICIPATE](https://eswatinipositivenews.online/15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate/)** — Eswatini Positive News, 13 October 2026
 
-Over 15,000 registered by October 2026 for 2028 polls, youth only 25%; registration also by mobile phone.
+Eswatini's Elections and Boundaries Commission said on 13 October 2026 that more than 15,000 people had registered to vote for the 2028 elections. Young people made up only 25% of them. Its spokesperson, Mbonisi Bhembe, said people can register by mobile phone or at registration corners. They need a national identity card and proof of residence. He said people with disabilities, about 13% of the population, were rarely seen at registration.
 
 </div>
 
