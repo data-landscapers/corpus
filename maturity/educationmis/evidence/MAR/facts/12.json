@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-23-mar-massar-registration-digital-identity-learner-register",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "The ministry's circular to regional officials says Massar digitises each pupil's school file and gives each a digital identifier, ahead of a planned national unified learner register.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "Massar",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The ministry's circular says Massar enrolment services can download data from the civil status register, using digital identity.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "Massar",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Massar",
+   "country_label": "Morocco",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

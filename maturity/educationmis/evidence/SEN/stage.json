@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "emis",
-      "stage": "unplaced",
-      "system": "",
-      "learners": "",
+      "stage": "2",
+      "system": "underway",
+      "learners": "individual",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether an education information system is under way or in service.",
-      "note": "Reassessed in the rebuild: the ministry described SIMEN and the learner identifier in 2018. Every fact held predates October 2023, so it sets no rung.",
-      "as_at": "2026-11-02"
+      "stage_sources": "SEN-003",
+      "gaps": "No school census run through SIMEN is evidenced; the learner identifier is stated, but the platforms are still being deployed, so records in service across the country are not shown; no exchange with another government system is in service.",
+      "note": "Reassessed 2026-11-04: SIMEN's 41 platforms are being deployed nationwide (August 2026), which is under way. The unique identifier for pupils is stated, but national service is not, and question 3 must be shown on its own, so not 4; no census through it, so not 3.",
+      "as_at": "2026-11-04"
     }
   ]
 }

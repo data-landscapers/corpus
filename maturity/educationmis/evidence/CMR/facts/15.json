@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-28-cmr-cameroon-deploys-schoolmap-to-simplify-tuition-payment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SchoolMap",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": "SchoolMap is described as a tuition and exam fee payment platform; it is not said to be an education information system holding learner records."
+}

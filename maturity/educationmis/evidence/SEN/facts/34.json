@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-14-sen-senegal-launches-portailbac-to-modernize-management-of-national-exams",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PortailBac",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "Office du baccalaureat",
+   "tiers": ""
+  }
+ ],
+ "note": "PortailBac is an exam registration, payment and statistics portal run by the Office du baccalaureat; it is not stated to be the ministry's education information system."
+}

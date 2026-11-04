@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-15-sen-seyni-ndiaye-fall-coordonnateur-du-systeme-integre-de-management-de-l",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The SIMEN coordinator says the education ministry built in-house an ecosystem of 41 platforms under its integrated management system SIMEN, being deployed nationwide, all feeding one data warehouse.",
+   "as_of": "2026-08-15",
+   "date_precision": "day",
+   "system": "SIMEN",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "The SIMEN coordinator says the ministry enrols pupils, teachers and other actors and gives each a unique national education identifier, which sets the platforms each one sees, while the 41 platforms are still being deployed across the country.",
+   "as_of": "2026-08-15",
+   "date_precision": "day",
+   "system": "SIMEN",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIMEN",
+   "country_label": "Senegal",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

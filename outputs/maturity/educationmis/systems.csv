@@ -17,10 +17,12 @@ CAF,SIGE,Systeme d'Information de Gestion de l'Education,emis,,Ministere de l'Ed
 CIV,SIGE (Integrated Education Management Information System),Côte d'Ivoire,emis,,Education Ministry,piloted in Bouaké and San Pedro,2026-08-25-c-te-d-ivoire-turns-to-digital-mapping-to-improve-school-planning
 CIV,Système d'Information et de Gestion de l'Éducation (SIGE),Côte d'Ivoire,emis,,Ministère de l'Éducation Nationale et de l'Alphabétisation,pilot regions Bouaké and San Pedro,2025-07-11-sige-systeme-information-gestion-education-cote-divoire
 CIV,SIGE,Côte d'Ivoire,emis,,Ministère de l'Éducation nationale et de l'Alphabétisation,,2025-07-13-civ-ecofin-lancement-plateforme-sige
+CIV,DECO plateforme unifiée des examens,Côte d'Ivoire,other,,Direction des Examens et Concours,,2026-05-08-civ-cepe-bepc-bac-une-gestion-centralisee-et-securisee-des-examens-avec-la
 CMR,Integrated Sectoral Platform for the Education Management Information System (EMIS),Cameroon,emis,,Government of Cameroon,,2025-05-13-unesco-cameroon-integrated-emis-platform-launch
 CMR,plateforme sectorielle intégrée du SIGE (sige-sectoriel.cm),Cameroun,emis,,Institut National de la Statistique (host); Ministère de l'Éducation de Base,,2025-05-08-cmr-parec-plateforme-sige-sectoriel
 CMR,online EMIS industry platform,Cameroon,emis,,,,2024-06-06-cmr-statistical-yearbook-of-the-education-and-training-sector-in-cameroon
 CMR,Education Management Information System (EMIS) integrated sectoral platform,EMIS,emis,SQL Server,INS with PAREC and UNESCO,,2024-06-06-cmr-emis-operationalization-new-it-hardware-for-the-nsi
+CMR,SchoolMap,Cameroon,other,,Ministry of Secondary Education,,2024-08-28-cmr-cameroon-deploys-schoolmap-to-simplify-tuition-payment
 COD,Education Management Information System,DRC,emis,,Ministry of Education,,2026-05-12-au-iped-emis-self-assessment-drc
 COD,e-SIGE-DRC,DR Congo,emis,automated data collection and transmission application,"DIGE (Direction d'Information de Gestion de l'Education), MEPST",,2024-11-01-worldbank-restructuring-eesse-education-project
 COD,SIGE-RDC,DR Congo,emis,,Ministry of National Education and New Citizenship,,2025-03-01-cod-termes-de-reference-pour-le-recrutement-d-une-assistance-technique-pou
@@ -79,6 +81,7 @@ LBR,Statutory School Record System,Liberia,other,paper record-keeping booklets,M
 LBR,Liberia EMIS,Liberia,emis,,Ministry of Education,national and county,2025-09-10-liberia-moe-au-iped-emis-modernisation-roadmap
 LBR,Liberia EMIS,Liberia EMIS (emis-moe-lib.org),emis,,ministry,,2025-01-01-lbr-liberia-emis-education-management-information-system
 LBY,Education Management Information System (EMIS),Libya,emis,,Ministry of Education (Information and Documentation Center),,2024-07-29-libyaobserver-education-ministry-emis-unicef
+LBY,OpenEMIS,Libya,emis,OpenEMIS,Ministry of Education,,2024-07-29-lby-moe-unicef-launch-openemis
 LSO,national EMIS/DHIS2 platform,Lesotho,emis,DHIS2,Ministry of Education and Training,"district, national",2026-05-14-lso-request-for-proposal-consultancy-for-capacity-building-for-emis-distri
 LSO,LEMIS,Lesotho,emis,DHIS2,Ministry of Education and Training,national,2026-05-11-lesotho-lemis-dhis2-education-data-system
 LSO,EMIS,Lesotho,emis,,Ministry of Education and Training,,2025-11-07-lso-enhancing-education-data-systems-in-lesotho-through-peer-exchange
@@ -87,6 +90,7 @@ MAR,Massar,Maroc,emis,,Ministere de l'Education nationale,,2025-10-01-mar-le-min
 MAR,Massar,Massar,emis,,Ministry of National Education,national,2024-11-01-mar-le-ministere-de-l-education-nationale-lance-le-processus-global-de-rec
 MAR,GRESA,GRESA establishment file,other,,Ministry of National Education,,2024-11-01-mar-le-ministere-de-l-education-nationale-lance-le-processus-global-de-rec
 MAR,ESISE,ESISE staff statistics system,other,,Ministry of National Education,,2024-11-01-mar-le-ministere-de-l-education-nationale-lance-le-processus-global-de-rec
+MAR,Massar,Morocco,emis,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
 MDG,logiciel d'application statistique,logiciel d'application statistique développé par la DTIC,emis,,Ministry of National Education (DTIC),"CISCO, DREN, central",2023-04-30-mdg-instat-annuaire-statistique-education-2022-2023
 MDG,school digitisation project (Atsinanana),Madagascar,emis,,Ministere de l'Education nationale / Unite de Gouvernance Digitale,,2024-07-18-mdg-wearetech-ecoles-au-numerique
 MLI,Système d'Information et de Gestion de l'Éducation (SIGE),Mali,emis,,Ministère de l'Education nationale (CPS-SE),,2026-03-16-unesco-mali-sige-statistiques-sante-scolaire
@@ -122,6 +126,8 @@ SDN,Education Management and Information System Pilot Project (EMIS),Sudan (Red 
 SDN,Transitional Education Plan Monitoring & Evaluation Application (TEP) and TEP Dashboard,Sudan,other,,,,2026-05-13-unesco-red-sea-state-emis-digital-transformation
 SDN,Education Management and Information System (EMIS),Sudan,emis,,Ministry of Education,,2026-04-26-sudan-unesco-year-of-tvet-declaration
 SEN,SIMEN,Senegal,emis,,Ministère de l'Éducation nationale,,2018-01-01-sen-education-simen-identifiant-education-nationale
+SEN,SIMEN,Senegal,emis,,Ministry of National Education,,2026-08-15-sen-seyni-ndiaye-fall-coordonnateur-du-systeme-integre-de-management-de-l
+SEN,PortailBac,Senegal,other,,Office du baccalaureat,,2025-11-14-sen-senegal-launches-portailbac-to-modernize-management-of-national-exams
 SLE,EMIS,Sierra Leone,emis,Global ED*ASSIST (pilot),"MBSSE, Directorate of Basic Education","national, provincial",2026-01-01-sierra-leone-mbsse-emis-education-management-information-system
 SLE,Situation Room,Sierra Leone,other,,MBSSE Planning and Policy Directorate,sample of schools in every district,2026-01-01-sierra-leone-mbsse-emis-education-management-information-system
 SLE,Unique Learner ID (ULID) System and Data Warehouse,Sierra Leone,emis,,"UNICEF tender, beneficiary Sierra Leone",,2025-10-15-sierra-leone-unicef-unique-learner-id-system-rfp

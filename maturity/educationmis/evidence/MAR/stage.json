@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "emis",
-      "stage": "3",
+      "stage": "5",
       "system": "inservice",
       "learners": "individual",
-      "linked": "",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-001;MAR-002",
-      "gaps": "No source found since October 2023 says Massar gives each learner a unique learner number.",
-      "note": "Reassessed in stage 4c: a 2024 census memorandum orders each new pupil enrolled in Massar, so it holds a record per pupil. Nothing found names a unique learner number, which rung 4 asks for, so not 4.",
-      "as_at": "2026-11-03"
+      "stage_sources": "MAR-004;MAR-005;MAR-001",
+      "gaps": "No figure for pupils holding the digital identifier or for records drawn from the civil status register.",
+      "note": "Reassessed 2026-11-04: the 2024 circular says Massar gives each pupil a digital identifier nationally, which shows question 3 on its own evidence, and its enrolment services draw on the civil status register through digital identity, which answers question 4. So stage 5.",
+      "as_at": "2026-11-04"
     }
   ]
 }

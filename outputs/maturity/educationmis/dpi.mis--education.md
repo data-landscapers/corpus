@@ -20,12 +20,12 @@ The AU Digital Education Strategy asks for education management information syst
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Leading | 3 |
 | 4 Operating | 7 |
-| 3 Established | 18 |
-| 2 Nascent | 18 |
+| 3 Established | 17 |
+| 2 Nascent | 19 |
 | 1 Absent | 0 |
-| Unplaced | 6 |
+| Unplaced | 5 |
 | No evidence | 3 |
 
 ## Countries
@@ -35,6 +35,14 @@ The AU Digital Education Strategy asks for education management information syst
 Learner records were linked to the national ID or another government system in 2024.
 
 - The page subtitle says aggregate and individual EMIS data are connected to national identity ([source, 2024](https://education.dhis2.org/implementation/eswatini/)).
+
+### Morocco: 5 Leading
+
+Massar gives each pupil a digital identifier and draws on the civil status register, from 2024; how many pupils hold one is not known.
+
+- The ministry's circular to regional officials says Massar digitises each pupil's school file and gives each a digital identifier, ahead of a planned national unified learner register ([source, 2024-04-23](https://ar.hibapress.com/details-517593.html)).
+- The ministry's circular says Massar enrolment services can download data from the civil status register, using digital identity ([source, 2024-04-23](https://ar.hibapress.com/details-517593.html)).
+- Morocco's education ministry launched the 2025-2026 annual school census, running from 20 October to 20 November 2025, with updates to the Massar system as the main reference from which most statistical data come, per a ministry letter reported by Express TV ([source, 2025-10-20](https://fr.expresstv.ma/2025/10/le-ministere-de-leducation-nationale-lance-le-recensement-scolaire-annuel-pour-lannee-scolaire-2025-2026/)).
 
 ### Uganda: 5 Leading
 
@@ -147,13 +155,6 @@ The school census was run through an education information system in 2026; a rec
 The school census was run through an education information system in 2026; a record for each learner is not on record.
 
 - UNESCO says the education ministry's SIGE holds national data, collected regularly by the ministry, which a March 2026 workshop analysed for the 2023-2024 and 2024-2025 school years, with school-health indicators being integrated into it ([source, 2026-03](https://www.unesco.org/fr/articles/lunesco-appuie-le-ministere-de-leducation-nationale-pour-la-production-des-statistiques-en-sante)).
-
-### Morocco: 3 Established
-
-The school census was run through an education information system in 2025, with a record per pupil; a unique learner number is not on record.
-
-- Morocco's education ministry launched the 2025-2026 annual school census, running from 20 October to 20 November 2025, with updates to the Massar system as the main reference from which most statistical data come, per a ministry letter reported by Express TV ([source, 2025-10-20](https://fr.expresstv.ma/2025/10/le-ministere-de-leducation-nationale-lance-le-recensement-scolaire-annuel-pour-lannee-scolaire-2025-2026/)).
-- The Ministry of National Education's memorandum launching the annual school census tells regional officials to complete the census data, including primary enrolment, in the Massar system ([source, 2024-11-01](https://fr.hibapress.com/news-144060.html)).
 
 ### Mozambique: 3 Established
 
@@ -298,6 +299,12 @@ An education information system was under way in 2026; a school census run throu
 
 - AFAP, the World Bank-financed project agency, announced on 1 April 2026 the procurement of specialist technical assistance in technological infrastructure, resource management and training for the implementation of the Sistema Integrado de Gestão Escolar (SIGE) ([source, 2026-04-01](https://www.telanon.info/anuncios/2026/04/01/52396/afap-consultoria-a-t-especializada-em-infraestruturas-tecnologicas-gestao-de-recursos-e-capacitacao-para-implementacao-do-sistema-integrado-de-gestao-escolar-sige/)).
 
+### Senegal: 2 Nascent
+
+The ministry was deploying its education information platforms nationwide in 2026; whether the school census runs through them is not known.
+
+- The SIMEN coordinator says the education ministry built in-house an ecosystem of 41 platforms under its integrated management system SIMEN, being deployed nationwide, all feeding one data warehouse ([source, 2026-08-15](https://letechobservateur.sn/seyni-ndiaye-fall-coordonnateur-du-simen-linteroperabilite-est-une-realite-chez-nous/)).
+
 ### Seychelles: 2 Nascent
 
 An education information system was under way in 2026; a school census run through it is not on record.
@@ -336,12 +343,6 @@ Nothing found since 2023 names a national education information system, so no st
 Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
 
 ### Niger: Unplaced
-
-Nothing found since 2023 names a national education information system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
-
-### Senegal: Unplaced
 
 Nothing found since 2023 names a national education information system, so no stage is set.
 

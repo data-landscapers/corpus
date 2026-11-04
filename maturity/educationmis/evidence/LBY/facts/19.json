@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-29-lby-moe-unicef-launch-openemis",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The education ministry, with UNICEF, launched the OpenEMIS education management information system, after a pilot in 205 institutions and training of 30 ministry staff.",
+   "as_of": "2024-07-28",
+   "date_precision": "day",
+   "system": "OpenEMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenEMIS",
+   "country_label": "Libya",
+   "class": "emis",
+   "platform": "OpenEMIS",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
