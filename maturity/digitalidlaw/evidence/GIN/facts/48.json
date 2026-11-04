@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometrique",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Guinea's national director of political and electoral affairs said the country has a law on the identification of natural persons.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "Loi sur l'identification des personnes physiques",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "The same official said the law allows biometric data to be recorded from age 10 and a national identity card issued.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "Loi sur l'identification des personnes physiques",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
