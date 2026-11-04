@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Les Enjeux Eco says the portal's commissioning follows the trajectory of the national digital transformation strategy 2025-2030.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Strategie nationale de transformation numerique 2025-2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The national digital transformation strategy is described as running 2025-2030.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Strategie nationale de transformation numerique 2025-2030",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
