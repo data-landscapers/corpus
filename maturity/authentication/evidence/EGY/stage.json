@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "EGY-005;EGY-007;EGY-013",
-      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-      "note": "Rebuild, raised from 3: the Digital Egypt digital identity verifies users of the Public Prosecution portal and the social solidarity platform (EGY-005, EGY-007), so it serves several bodies. MOIEG-PASS, a selfie app, is in pilot only (EGY-001).",
-      "as_at": "2026-10-22"
+      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in general service: Enterprise (August 2026) reports a Digital Identity app needed for some Digital Egypt services, but the minister (October 2026) says the biometric identity checks are still being developed, and MOIEG-PASS is a pilot.",
+      "note": "Reassessed 2026-11-04: a press guide says some Digital Egypt services need a companion Digital Identity app, but the newer ministerial statement and the held pilots show the app not yet in service, so question 4 is not answered. The digital identity serving several bodies holds stage 4.",
+      "as_at": "2026-11-04"
     }
   ]
 }

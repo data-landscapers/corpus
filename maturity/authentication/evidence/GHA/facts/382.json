@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-03-gha-no-new-ghana-cards-required-under-biometric-verification-law-nia",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Ghana's National Identification Authority (NIA) says institutions connected to its verification platform through an API verify customers using Ghana Card numbers.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "NIA verification platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The NIA says telecommunications companies and some banks verify customers by match-on-card fingerprint checks, and API-connected institutions use the NIA verification platform.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "NIA verification platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA verification platform",
+   "country_label": "Ghana",
+   "class": "authentication",
+   "platform": "API; match-on-card; mobile app announced",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

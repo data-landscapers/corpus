@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-citinewsroom-connecting-africas-wallets-asare-otchere-darko",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Benin, Ghana and Rwanda completed the first phase of the Smart Africa Data Exchange pilot, demonstrating cross-border identity verification in a controlled testing environment, per an opinion piece by the Africa Prosperity Network chair.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Smart Africa Data Exchange (SADX)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Africa Data Exchange (SADX)",
+   "country_label": "Benin",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Smart Africa",
+   "tiers": "phase 1 pilot"
+  }
+ ],
+ "note": ""
+}

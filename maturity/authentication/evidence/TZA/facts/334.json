@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "INEC says registered voters amending their details online through the new Voters Registration System must hold a NIDA National Identification Number, which is used to verify the information.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Voters Registration System",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voters Registration System",
+   "country_label": "Voters Registration System",
+   "class": "authentication",
+   "platform": "",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

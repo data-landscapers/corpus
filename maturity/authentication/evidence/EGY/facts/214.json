@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-egy-digital-egypt-13-5m-users-badawi-egypt-forum",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Badawi says digital identity and biometric verification mechanisms are being developed with the Ministry of Interior, and remote e-signature with ITIDA, for Digital Egypt services.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Digital Egypt platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

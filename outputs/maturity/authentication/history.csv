@@ -87,3 +87,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,AGO,dpi.id--authentication,ladder,3,3,AGO-004,"State acceptance ruling (Bill, 2026-10-23): AngolaID is a private service the state is not shown to accept and is dropped from the sources; the Interior Ministry's ID check holds 3 (AGO-004)."
 2026-10-28,AGO,dpi.id--authentication,fact,3,5,AGO-008;AGO-007,"PTI, October 2026: INFOSI certified and approved AngolaID for nationwide use, so the state accepts it; its digital ID wallet is remote proof of identity in service; 3 -> 5"
 2026-11-01,COG,dpi.id--authentication,fact,no evidence,2,COG-001,"Arrival added COG-001, a platform to check NIU numbers online being built: a service under way."
+2026-11-04,EGY,dpi.id--authentication,fact,4,4,EGY-005;EGY-007;EGY-013,"Digital Identity app reported needed for some Digital Egypt services (Aug 2026), but the minister says identity checks still in development (Oct 2026); stays 4"

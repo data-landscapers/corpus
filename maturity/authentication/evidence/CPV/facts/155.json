@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-22-cpv-ja-sabe-como-aceder-aos-servicos-publicos-sem-sair-de-casa-analisamos",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Caboverde24 reports that the ID.GOV.CV digital ID wallet keeps a person's digital identity on the phone, with its own iOS and Android app.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "ID.GOV.CV",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Caboverde24 reports that the ID.GOV.CV digital ID wallet app is available on iOS and Android as a government Gov.cv service.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "ID.GOV.CV",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ID.GOV.CV",
+   "country_label": "Cabo Verde",
+   "class": "authentication",
+   "platform": "mobile wallet app (iOS, Android)",
+   "owner": "Government of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-25-syc-import-and-export-services-to-transition-to-monservis-portal-on-may-1",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "From 1 May 2026 users of the Import and Export permit online service must sign in with SeyID, the national digital identity, and businesses must also register the entity on the Biz Auth portal, per the Trade Division press conference.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "SeyID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "SeyID",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Biz Auth",
+   "country_label": "Biz Auth",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-nga-six-months-to-presidential-poll-inec-raises-preparation-tempo",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "INEC's online voter registration platform uses the NIN as a verification protocol, per INEC chairman Amupitan.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "INEC online voter registration platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

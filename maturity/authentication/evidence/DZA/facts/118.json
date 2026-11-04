@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-11-dza-transformation-numerique-des-services-publics-le-portail-national-pass",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Minister Meriem Benmouloud says the Dzair Digital Services portal runs on a digital identity, built with the Interior ministry, that links each user's personal and biometric data and gives secure access to the portal without re-authenticating at each use.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "digital identity (Dzair Digital Services)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital identity",
+   "country_label": "Algeria",
+   "class": "authentication",
+   "platform": "Dzair Digital Services",
+   "owner": "High Commission for Digitalisation with the Interior ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

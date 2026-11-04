@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-02-egy-your-guide-to-navigating-egypt-s-online-government-services",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Enterprise reports that for some Digital Egypt services people also need the companion Digital Identity app to complete biometric verification.",
+   "as_of": "2026-08-02",
+   "date_precision": "day",
+   "system": "Digital Identity app",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Identity app",
+   "country_label": "Egypt",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "Government of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

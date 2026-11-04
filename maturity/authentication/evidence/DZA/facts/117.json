@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Les Enjeux Eco reports access to the portal's secured services rests on a digital identity obtained by online pre-registration with the NIN, then biometric authentication at the commune, per HCN central director Mohamed Louail.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "identite numerique (NIN pre-registration, biometric validation at commune)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The portal's first 21 services, from the Interior, Labour and National Solidarity sectors, are accessed through the one digital identity, per the HCN official.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "identite numerique (NIN pre-registration, biometric validation at commune)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "identite numerique (NIN pre-registration, biometric validation at commune)",
+   "country_label": "Algeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "HCN",
+   "tiers": "advanced levels to add facial recognition"
+  }
+ ],
+ "note": ""
+}
