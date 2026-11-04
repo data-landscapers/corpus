@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: BFA
-ledger_rows: 34
+ledger_rows: 36
 not_held: 6
-record: fc8859524bb5
+record: 0617e1447eb9
 ---
 
 # News, Oct – Nov 2026
@@ -277,6 +277,20 @@ Burkina Faso's central cybercrime brigade recorded 6,477 complaints and FCFA 2.2
 **[Burkina/Sécurité numérique : L'Agence nationale de sécurité des systèmes d'information a lancé officiellement le Réseau national des RSSI et points focaux cyber](https://lefaso.net/spip.php?article150183=)** — LeFaso.net, 23 October 2026
 
 Burkina Faso's information systems security agency ANSSI launched a national network of information systems security officers (RSSI) and cyber focal points in Ouagadougou on 23 October 2026. The network is meant to give ministries and public institutions a standing framework for coordination, information sharing and capacity building on cyber risks and incidents, and institutions were asked to designate security officers and give them resources.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National security operations centre (SOC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : le Niger sollicite l’expérience du Burkina Faso pour son SOC national](https://www.wearetech.africa/fr/fils/actualites/tech/cybersecurite-le-niger-sollicite-l-experience-du-burkina-faso-pour-son-soc-national)** — wearetech.africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
+
+A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the communications ministry, visited Burkina Faso's information-security agency ANSSI-BF from 2 to 6 November 2026. The study mission prepares Niger's national Security Operations Centre. Niger's government created its Centre national de cybersécurité by decree in October 2025.
 
 </div>
 
@@ -589,8 +603,26 @@ A four-year research project on the digital transition of university work in Bur
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-divides">Digital divides</a>
 </nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lafiako health complaints platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina/Santé : 'Lafiako', une plateforme numérique pour traiter les plaintes dans le système de santé](https://lefaso.net/spip.php?article150463)** — leFaso.net, 2 November 2026
+
+Requests logged, routed and answered within 10 days; also toll-free 3535, WhatsApp and 108 reception desks.
+
+</div>
+
+</div>
 
 ### Digital divides
 
