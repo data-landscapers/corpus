@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Launch Base Africa reports the BCEAO runs PI-SPI, the shared instant payment platform through which interoperable e-money transfers have had to route since 2 November 2026, covering Senegal.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Senegal",
+   "class": "oversight",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

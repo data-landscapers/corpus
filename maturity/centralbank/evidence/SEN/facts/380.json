@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-sen-lesoleil-bank-to-wallet-suspended-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Le Soleil reports the BCEAO's PI-SPI instant interoperable payment platform, launched 30 September 2025, carries bank-wallet transfers in Senegal and is mandatory from 2 November 2026.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Le Soleil reports PI-SPI, the BCEAO's platform, is the mandatory route for interoperable e-money transactions across the eight UEMOA states including Senegal.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Sénégal",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
