@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-20-swz-ict-ministry-records-strong-start-as-digital-rollout-gains-momentum",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "The ICT Ministry reports it provided devices and assistive technologies to vulnerable groups and learners with disabilities in the first quarter of 2026/27.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ministry of ICT assistive technology support",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

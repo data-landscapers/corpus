@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-26-lby-cabinet-decision-705-2024-dawlati-platform",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Article 8 of Cabinet Decision 705/2024, in force from its issue, requires the Dawlati platform's e-services to be adapted for all users including persons with disabilities, at no extra fee.",
+   "as_of": "2024-12-26",
+   "date_precision": "day",
+   "system": "Dawlati platform",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
