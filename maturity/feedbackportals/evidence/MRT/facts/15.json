@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-30-mrt-le-conseil-des-ministres-fixe-les-modalites-de-gestion-et-procedures-d",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The Council of Ministers on 30 October 2024 adopted a draft decree on the KHADAMATI portal, which is to let citizens file grievances, reports and complaints through a secure digital infrastructure.",
+   "as_of": "2024-10-30",
+   "date_precision": "day",
+   "system": "KHADAMATI",
+   "class": "feedback"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

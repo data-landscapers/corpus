@@ -23,9 +23,9 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 | 5 Leading | 4 |
 | 4 Operating | 2 |
 | 3 Established | 0 |
-| 2 Nascent | 28 |
+| 2 Nascent | 30 |
 | 1 Absent | 0 |
-| Unplaced | 9 |
+| Unplaced | 7 |
 | No evidence | 11 |
 
 ## Countries
@@ -86,6 +86,12 @@ A digital channel for complaints about public services was under way in 2025; on
 A digital channel for complaints about public services was under way in 2026; one in service is not on record.
 
 - The Commission de Régulation des Dysfonctionnements launched the DenonciationPro online platform, announced 23 February 2026, for citizens to report confidentially dysfunctions in public administration in about five minutes ([source, 2026-02-23](https://digitalmagazine.bf/2026/02/25/burkina-faso-lancement-dune-plateforme-de-soumission-des-denonciations-par-la-commission-de-regulation-des-dysfonctionnements/)).
+
+### Cape Verde: 2 Nascent
+
+A digital channel for complaints about public services was under way in 2024; one in service with cases on record is not known.
+
+- Minister Edna Oliveira said the E-participa platform lets citizens submit complaints, reports and suggestions on the conduct of public services; no case figures given ([source, 2024-05-29](https://www.governo.cv/cabo-verde-tem-dado-passos-consistentes-que-demonstram-o-compromisso-do-governo-e-do-pais-numa-gestao-publica-mais-aberta-transparente-responsavel-e-participativa-ministr/)).
 
 ### Chad: 2 Nascent
 
@@ -180,6 +186,12 @@ A digital channel for complaints about public services was under way in 2025; on
 
 - UNDP Malawi says the Independent Complaints Commission launched on 4 June 2025 a new Online Citizen Engagement Platform where citizens can file complaints about police misconduct, follow cases and receive updates; no case numbers are given ([source, 2025-06-04](https://www.undp.org/malawi/news/bringing-citizens-closer-justice-icc-launches-strategic-plan-and-digital-engagement-platform)).
 
+### Mauritius: 2 Nascent
+
+A digital channel for complaints about public services was under way in 2026; one in service with cases on record is not known.
+
+- The ICT minister told parliament that the KOREK app, launched on 30 January 2026, includes online complaints about water leaks ([source, 2026-05-14](https://lexpress.mu/s/application-korek-462-310-enregistrements-depuis-janvier-2026-557967)).
+
 ### Mozambique: 2 Nascent
 
 A digital channel for complaints about public services was under way in 2026; one in service is not on record.
@@ -253,12 +265,6 @@ Nothing found since 2023 names a digital channel for complaints about public ser
 
 Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
-### Cape Verde: Unplaced
-
-Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
-
 ### Cote d'Ivoire: Unplaced
 
 Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
@@ -266,12 +272,6 @@ Nothing found since 2023 names a digital channel for complaints about public ser
 Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Equatorial Guinea: Unplaced
-
-Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
-
-### Mauritius: Unplaced
 
 Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 

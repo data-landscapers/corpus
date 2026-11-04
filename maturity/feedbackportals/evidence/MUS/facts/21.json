@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-14-mus-application-korek-462-310-enregistrements-depuis-janvier-2026",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The ICT minister told parliament that the KOREK app, launched on 30 January 2026, includes online complaints about water leaks.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "KOREK",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KOREK",
+   "country_label": "Mauritius",
+   "class": "feedback",
+   "platform": "mobile app",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

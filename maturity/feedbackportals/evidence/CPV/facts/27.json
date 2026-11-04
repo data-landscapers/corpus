@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-30-cpv-cabo-verde-tem-dado-passos-consistentes-que-demonstram-o-compromisso-d",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Minister Edna Oliveira said the E-participa platform lets citizens submit complaints, reports and suggestions on the conduct of public services; no case figures given.",
+   "as_of": "2024-05-29",
+   "date_precision": "day",
+   "system": "E-participa",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-participa",
+   "country_label": "Cabo Verde",
+   "class": "feedback",
+   "platform": "",
+   "owner": "Government of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

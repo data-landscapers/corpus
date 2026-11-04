@@ -6,6 +6,7 @@ BEN,denonciation.bj,Benin,feedback,"web, phone",Cellule d'Analyse et de Traiteme
 BEN,Saisine en ligne du Médiateur de la République,Bénin,feedback,online complaint submission,Médiateur de la République,,2023-11-15-ben-les4verites-mediateur-saisine-en-ligne-697
 BFA,DenonciationPro,Burkina Faso,feedback,web,Commission de Régulation des Dysfonctionnements,,2026-02-25-bfa-digitalmagazine-crd-denonciationpro
 BFA,plaintes.gov.bf,Burkina Faso,feedback,web portal,Ministry of Public Service,,2019-03-05-bfa-sidwaya-plateforme-plaintes-usagers
+BFA,Alerte-BCLCC,Alerte-BCLCC,other,,BCLCC,,2025-07-10-bfa-le-burkina-intensifie-ses-efforts-en-faveur-de-la-cybersecurite
 BWA,BW Speaks,Botswana,feedback,web,Parliament of Botswana,,2022-07-29-bwa-mmegi-parly-launches-bwspeaks
 CIV,Miliê,Côte d'Ivoire,feedback,web portal,Ministry of Administrative Modernisation,,2019-02-07-civ-abidjannet-portail-citoyen-milie
 CIV,Miliê,Côte d'Ivoire,feedback,portal,,,2022-01-13-civ-abidjannet-cicg-outil-numerique-administration
@@ -13,9 +14,11 @@ CIV,"OQSF-CI complaint channels (green line, email, edufina.oqsfci.org)",Cote d'
 CMR,Unified Social Registry of Cameroon (RESUC),Cameroon,other,,Ministry of Social Affairs (MINAS),,2025-08-18-worldbank-asneip-additional-financing-project-paper
 CMR,MINFOPRA Call Center 1522,Cameroun,feedback,"phone, WhatsApp",MINFOPRA,,2022-06-25-cmr-digitalbusiness-minfopra-portail-services
 COD,Loba,DR Congo,feedback,chatbot,Ministry of National Economy / COMCO,national,2026-05-02-acp-loba-plateforme-plaintes-consommateurs
+COD,1515 short number,1515,other,telephone short number,ARPTC,,2026-10-31-cod-rdc-lancement-dun-numero-d-acces-aux-services-clients-des-operateurs-d
 COM,Grievance Redress Mechanism (Food Systems Resilience Programme),Comoros,feedback,digital platforms alongside in-person and formal channels,"Ministry of Agriculture, with CCARDESA regional coordination and World Bank","national committees, regional structures, World Bank grievance system",2026-03-30-com-ccardesa-fsrp-grievance-redress-consultation
 CPV,Participa Cidadão,Cabo Verde,feedback,mobile app/web,Casa do Cidadão,,2017-02-01-cpv-governo-participa-cidadao-apps
 CPV,eParticipa,Cabo Verde,feedback,eparticipa.gov.cv,Casa do Cidadao,,2021-01-19-cpv-provedor-justica-casa-cidadao-eparticipa
+CPV,E-participa,Cabo Verde,feedback,,Government of Cabo Verde,,2024-05-30-cpv-cabo-verde-tem-dado-passos-consistentes-que-demonstram-o-compromisso-d
 DJI,E-DOLÉANCES,Djibouti,feedback,web portal (doleances.arulos.dj),Agence de Réhabilitation Urbaine et de Logement Social (ARULoS),sectoral,2026-08-31-arulos-e-doleances-plateforme-gestion-doleances
 DZA,registre des doléances des citoyens,Algeria,other,,Médiateur de la République,,2026-05-24-dz-aps-numerisation-registre-doleances
 DZA,portail electronique des registres de doleances,Algeria,feedback,,Mediateur de la Republique,,2023-10-28-dza-echodalgerie-portail-doleances-mediateur
@@ -31,6 +34,7 @@ GAB,Identity Secu,Gabon,other,mobile app (Play Store),Gendarmerie Nationale,nati
 GAB,DGDI portal Espace Reclamation,Gabon,feedback,edgdi.dgdi.ga,DGDI,,2023-11-13-gab-techies-dgdi-portail-reclamations
 GHA,Passenger Complaints Portal,Ghana,feedback,GCAA website and terminal QR codes,Ghana Civil Aviation Authority,sectoral (air transport),2026-03-16-minister-for-transport-launches-passenger-complaints-portal
 GHA,Single Windows Citizenship Engagement Service (SWCES),Ghana,other,case management system for grievance redress,"Ministry of Gender, Children and Social Protection",ministry,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
+GHA,Have Your Say,Ghana,feedback,online suggestion box,Business Regulatory Reform unit,,2024-03-26-gha-transforming-governance-in-ghana-a-new-regulatory-service-model-for-af
 GMB,NAWEC mobile app,The Gambia,feedback,mobile app,NAWEC,,2026-04-30-gmb-mansabanko-nawec-app-complaints
 GNQ,Defensor del Pueblo website,Equatorial Guinea,feedback,web,Defensor del Pueblo,,2022-09-27-gnq-realeg-defensor-pueblo-web-quejas
 KEN,PASHA Ombudsman platform,Kenya,feedback,app,Commission on Administrative Justice,national,2023-11-25-ken-kna-ombudsman-pasha-complaints-app
@@ -52,6 +56,7 @@ MRT,Houwiyeti,Mauritania,other,,Agence Nationale du Registre des Populations et 
 MRT,Registre Social,Mauritania,other,,,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MRT,Ain,Mauritanie,feedback,app,Ministry of Digital Transformation and Administrative Modernisation,national,2025-05-21-mrt-ami-ain-96pct-plaintes-traitees
 MUS,Citizen Support Unit (CSU),Mauritius,feedback,"www.csu.mu, customised free software by Mauritius Telecom",Prime Minister's Office,"35 Citizen Advice Bureaux, 95 Citizen Support Corners",2020-09-09-mus-mazavaroo-csu-835pct-plaintes-traitees
+MUS,KOREK,Mauritius,feedback,mobile app,"Ministry of Information Technology, Communication and Innovation",,2026-05-14-mus-application-korek-462-310-enregistrements-depuis-janvier-2026
 MWI,Shape Malawi's Digital and AI Future Portal,Malawi,other,web portal,"Ministry of ICT, Department of E-Government, with UNDP",national,"2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa"
 MWI,Online Citizen Engagement Platform,Malawi,feedback,,Independent Complaints Commission,,2025-06-04-mwi-undp-icc-online-complaints-platform
 NAM,Ovakalimo,Namibia,feedback,ovakalimo.org,Walvis Bay Municipality,municipal,2025-11-18-nam-futuremedia-walvis-bay-ovakalimo
@@ -59,11 +64,13 @@ NER,"Mécanisme de Gestion des Plaintes (MGP) du PGRP, comité régional de Diff
 NER,Mediator complaints platform,Niger,feedback,online platform,Mediateur de la Republique,,2021-09-17-ner-aniamey-mediateur-plateforme-reclamations
 NGA,Nigeria Electronic Grievance Management (EGM) platform,Nigeria,feedback,World Bank e-GM,SERVICOM Presidency Office,national,2026-03-05-servicom-nigeria-egm-electronic-grievance-management
 NGA,Citizens E-Feedback portal,Nigeria,feedback,SERVICOM website,SERVICOM Presidency Office,national,2025-03-15-servicom-e-citizens-feedback-portal
+NGA,Cybercrime Rapid Response Centre (Project E247CR2C),Nigeria,other,,EFCC,,2025-03-31-nga-cybercrime-bust-asset-recovery-and-high-profile-trials-efcc-2024-in-nu
 RWA,e-Citizen Complaints,Rwanda,feedback,online software,Government of Rwanda (MINALOC page),,2026-06-03-rwanda-citizens-assembly-guidelines-revised-2026
 SDN,Khartoum State WhatsApp complaints service,Sudan,feedback,WhatsApp,Khartoum State government,state,2025-08-08-sdn-sudanplatform-khartoum-whatsapp-complaints
 SEN,Mécanisme de Gestion des Plaintes (MGP),Senegal,feedback,"WhatsApp, e-mail, web form, physical boxes","Ministère de l'Energie, du Pétrole et des Mines (DGCSO)",oil and gas sector,2026-03-18-mepm-senegal-mecanisme-gestion-plaintes-petrole-gaz
 SEN,Médiateur de la République,Senegal,other,,Médiateur de la République,national,2026-02-14-mediateur-republique-requetes-t4-2025
 SEN,Grievance Redress Mechanism (PADAES),Senegal,other,,PADAES project,project,2025-12-22-worldbank-senegal-energy-access-scale-up-isr
+SEN,plateforme de signalement des infractions liees a la cybercriminalite,Senegal,other,online platform,Police nationale,,2026-03-12-sen-cybercriminalite-au-senegal-3-794-infractions-enregistrees-en-2025-257
 SOM,EA-RDIP Grievance Redress Mechanism,Somalia,feedback,"hotline, SMS/WhatsApp, email, online platforms, suggestion boxes","Ministry of Communication and Technology, Project Implementation Unit","community, FMS, MoCT",2026-01-01-ea-rdip-grm-manual
 SSD,SSSNP Grievance Redress Mechanism,South Sudan,feedback,Biometric MIS,"UNOPS, handed to government",,2024-01-09-ssd-worldbank-safety-net-results
 STP,Mecanismo de Resolução de Reclamação (AFAP),São Tomé e Príncipe,other,"Linha Verde +239 800 10 20, email addresses (mrr@afap.st and per-project), physical complaint boxes",Agência Fiduciária de Administração de Projetos (AFAP),AFAP-administered projects,2024-08-21-sao-tome-afap-canais-informacao-sugestoes-reclamacoes
