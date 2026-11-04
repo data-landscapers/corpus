@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-egy-digital-egypt-13-5m-users-badawi-egypt-forum",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Badawi says work is under way on using AI to verify that a citizen understands the nature of certain transactions on the Digital Egypt platform.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Digital Egypt platform",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

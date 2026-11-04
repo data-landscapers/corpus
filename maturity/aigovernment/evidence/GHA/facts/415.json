@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-02-ghana-la-police-deploie-des-cameras-connectees-pour-automati",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TraffiTech-GH",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "speed cameras with SMS notices",
+   "owner": "Motor Traffic and Transport Department, Ghana Police Service",
+   "tiers": ""
+  }
+ ],
+ "note": "Document describes camera speed enforcement; it does not state that AI is used."
+}

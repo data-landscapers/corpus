@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-31-nga-inec-receives-5-400-claims-objections-to-voter-register-targets-decemb",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "INEC's ICT director Lawrence Bayode says the Commission has deployed AI-powered chatbots where people ask questions and the AI answers, for public enquiries and logistics support.",
+   "as_of": "2026-10-31",
+   "date_precision": "day",
+   "system": "INEC AI chatbots",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INEC AI chatbots",
+   "country_label": "Nigeria",
+   "class": "govai",
+   "platform": "",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
