@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: SWZ
-ledger_rows: 26
+ledger_rows: 28
 not_held: 3
-record: 275ef023e605
+record: a6da154d7f0f
 ---
 
 # News, Oct – Nov 2026
@@ -245,6 +245,8 @@ Eswatini's ICT minister told a cybersecurity conference in Sandton in October 20
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -317,6 +319,36 @@ DeltaPay has gone live on the Eswatini Payment Switch, the Central Bank of Eswat
 **[ShareSha users can send money to any mobile number](https://times.co.sz/47252/news/sharesha-users-can-send-money-to-any-mobile-number/)** — Times of Eswatini, 27 October 2026
 
 Eswatini Bank trained agents and residents in Nhlangano, Shiselweni, on its ShareSha digital wallet. The wallet lets users send money to any mobile number, including recipients not registered on the platform. Sign-up is by national ID, through the app, USSD or a branch, and no bank account is needed.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Voter register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[15 000 EMASWATI REGISTERED AS EBC URGES YOUTH, DISABLED TO PARTICIPATE](https://eswatinipositivenews.online/15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate/)** — Eswatini Positive News, 13 October 2026
+
+Over 15,000 registered by October 2026 for 2028 polls, youth only 25%; registration also by mobile phone.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Voter registration</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[15 000 EMASWATI REGISTERED AS EBC URGES YOUTH, DISABLED TO PARTICIPATE](https://eswatinipositivenews.online/15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate/)** — Eswatini Positive News, 13 October 2026
+
+Summarised under [Registries](#registries).
 
 </div>
 
