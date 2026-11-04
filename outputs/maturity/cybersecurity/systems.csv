@@ -63,6 +63,8 @@ BFA,Brigade centrale de lutte contre la cybercriminalité (BCLCC),Brigade centra
 BFA,ANSSI,Agence nationale de securite des systemes d'information,response,,,,2026-10-23-bfa-burkina-securite-numerique-l-agence-nationale-de-securite-des-systemes
 BFA,CSIRT,CSIRT,response,,Ministry of Digital Transition,,2025-07-10-bfa-le-burkina-intensifie-ses-efforts-en-faveur-de-la-cybersecurite
 BFA,ANSSI,Agence nationale de sécurité des systèmes d'information,response,,,,2025-04-29-bfa-cybersecurite-les-directeurs-generaux-des-structures-publiques-de-l-et
+BFA,ANSSI-BF,Burkina Faso,response,,Government of Burkina Faso,,2026-11-03-cybersecurite-le-niger-sollicite-lexperience-du-burkina-faso-pour-son
+BFA,SOC national,Burkina Faso,other,,ANSSI-BF,,2026-11-03-cybersecurite-le-niger-sollicite-lexperience-du-burkina-faso-pour-son
 BWA,National Cybersecurity Authority,National Cybersecurity Authority,response,,,,2026-05-25-botswana-cybersecurity-act-national-authority-wtisd-itweb
 BWA,Botswana national CIRT,Botswana national CIRT,response,,,,2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill
 BWA,Botswana Computer Security Incident Response Team (BWCSIRT),BWCSIRT,response,,,,2026-06-01-bocra-newsletter-issue-003
@@ -481,6 +483,7 @@ NER,Agence Nigérienne pour la Société de l'Information (ANSI),NER,other,,Stat
 NER,Centre National de Cybersécurité (CNAC),NER,response,,State (public administrative establishment),,2025-10-11-gouv-conseil-ministres-cnac-ance
 NER,Agence Nigérienne de Certification Electronique (ANCE),NER,other,,State,,2025-10-11-gouv-conseil-ministres-cnac-ance
 NER,CNAC,CNAC,response,,Government of Niger,,2026-06-02-ner-la-cybersecurite-au-niger-la-necessite-d-un-espace-numerique-securise
+NER,CNAC,Niger,response,,Government of Niger,,2026-11-03-cybersecurite-le-niger-sollicite-lexperience-du-burkina-faso-pour-son
 NGA,ngCERT,ngCERT,response,,Nigerian Communications Commission,,2026-09-22-nga-ngcert-ransomware-phobos-advisory
 NGA,ngCERT,ngCERT,response,,Nigerian Communications Commission,,2026-09-15-nga-ngcert-advisory-escalating-cybersecurity-threats
 NGA,National Cybersecurity Coordination Centre,National Cybersecurity Coordination Centre,response,,Office of the National Security Adviser,,2026-08-22-businessday-nigeria-uk-cyber-alliance-ai-threats
@@ -550,6 +553,7 @@ SEN,CERT national,SEN,response,,,,2026-08-20-aps-senegal-hebergement-donnees-per
 SEN,Autorité nationale de Cybersécurité du Sénégal,SEN,response,,,,2026-08-20-aps-senegal-khady-sarr-cybersecurite-continuite-soins
 SEN,Autorité nationale de Cybersécurité du Sénégal,SEN,response,,,,2026-08-14-senegal-moves-to-safeguard-digital-infrastructure
 SEN,CERT national,SEN,response,,,,2026-08-14-senegal-moves-to-safeguard-digital-infrastructure
+SEN,DCSSI incident reporting single window,Senegal,response,jokkocyber-dcssi.sn,DCSSI,,2026-11-02-sen-senegal-dcssi-nouveau-portail-numerique
 SLE,National Cyber Security Coordination Centre (NC3),National Cyber Security Coordination Centre,response,,MoCTI,,2026-08-26-sierraloaded-digital-protection-plans-critical-sectors
 SLE,CoCCA domain management system (.sl),Sierra Leone,other,,MoCTI,,2026-10-09-thisdaysl-sierra-leone-cyberattack-44-websites
 SLE,National Cyber Security Coordination Centre,Sierra Leone,response,,,,2026-08-05-government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud

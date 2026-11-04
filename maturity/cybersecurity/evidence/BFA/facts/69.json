@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-03-cybersecurite-le-niger-sollicite-lexperience-du-burkina-faso-pour-son",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ANSSI-BF's director general says the agency diffused 19 security alerts to organisations connected to its SOC in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ANSSI-BF",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ANSSI-BF's director general says the agency treated 79 major alerts in the first half of 2025 and resolved 67% of the incidents reported to it.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "ANSSI-BF",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI-BF",
+   "country_label": "Burkina Faso",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Burkina Faso",
+   "tiers": ""
+  },
+  {
+   "system": "SOC national",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI-BF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

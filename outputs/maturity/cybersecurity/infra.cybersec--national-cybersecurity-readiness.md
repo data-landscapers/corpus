@@ -22,8 +22,8 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 |---|---|
 | 5 Leading | 5 |
 | 4 Operating | 8 |
-| 3 Established | 9 |
-| 2 Nascent | 31 |
+| 3 Established | 10 |
+| 2 Nascent | 30 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -139,6 +139,14 @@ The national cyber body issued a public alert in 2026; no critical infrastructur
 - The BOCRA newsletter states the first National Cyber Drill in late February 2026 was led by the Botswana Computer Security Incident Response Team (BWCSIRT), with FIRST facilitating ([source, 2026-02](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf)).
 - The Botswana National CSIRT, through BOCRA, issued a public urgent advisory on the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619), stating that exploitation attempts had been observed and urging organisations to patch and report suspected compromise to it ([source, 2026-10-23](http://www.bocra.org.bw/node/62863)).
 
+### Burkina Faso: 3 Established
+
+The national agency handled 79 major alerts in early 2025; whether critical information infrastructure is designated is not known.
+
+- ANSSI-BF's director general says the agency treated 79 major alerts in the first half of 2025 and resolved 67% of the incidents reported to it ([source, 2025-06](https://www.wearetech.africa/fr/fils/actualites/tech/cybersecurite-le-niger-sollicite-l-experience-du-burkina-faso-pour-son-soc-national)).
+- ANSSI-BF's director general says the agency diffused 19 security alerts to organisations connected to its SOC in 2024 ([source, 2024](https://www.wearetech.africa/fr/fils/actualites/tech/cybersecurite-le-niger-sollicite-l-experience-du-burkina-faso-pour-son-soc-national)).
+- ANSSI's director-general presented the security mechanisms of the FasoSign e-signature platform at its launch on 15 September 2026, showing ANSSI in operation ([source, 2026-09-15](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/)).
+
 ### Cameroon: 3 Established
 
 The national cyber body responded to an incident or issued an alert in 2026; no critical infrastructure designation is known.
@@ -206,12 +214,6 @@ The country had a cybersecurity strategy by 2026; no incident response by a nati
 The country had a national cyber body by 2025; no incident response by a national body is known since 2023.
 
 - ASIN's director general says ASIN was created to set cybersecurity policies and check compliance, and that it collects data through its laboratories and its alert and incident response centre (article dated 2025-07-02, used as date) ([source, 2025-07-02](https://www.lanation.bj/numerique/marc-andre-loko-apres-le-lancement-du-rapport-sur-les-vulnerabilites-du-cyberspace-beninois-nous-disposons-aujourdhui-dun-dispositif-solide)).
-
-### Burkina Faso: 2 Nascent
-
-The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
-
-- ANSSI's director-general presented the security mechanisms of the FasoSign e-signature platform at its launch on 15 September 2026, showing ANSSI in operation ([source, 2026-09-15](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/)).
 
 ### Burundi: 2 Nascent
 

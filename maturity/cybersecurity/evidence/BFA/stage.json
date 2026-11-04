@@ -1,18 +1,19 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "2",
-   "foundation": "body",
-   "response": "",
-   "cii": "",
-   "figures": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-012",
-   "gaps": "No source found says the national body handled an incident or issued a public alert since October 2023.",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "3",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "",
+      "figures": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-020;BFA-019;BFA-012",
+      "gaps": "No designation of critical information infrastructure or duty on operators to report incidents is evidenced; the published figures end in June 2025, outside the one-year window.",
+      "note": "Reassessed 2026-11-04: ANSSI-BF treated 79 major alerts in the first half of 2025 and sent 19 security alerts to connected organisations in 2024, so the body has handled incidents. No critical infrastructure designation is held, so not 4.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }
