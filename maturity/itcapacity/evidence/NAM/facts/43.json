@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-06-nam-ecn-explains-slow-start-of-mobile-voter-registration-system",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Electoral Commission of Namibia says its voter registration system is managed under its internal IT policies and that it has a fully-fledged IT Division entrusted with managing its IT systems.",
+   "as_of": "2024-06-06",
+   "date_precision": "day",
+   "system": "Integrated Mobile Voter Registration System (IMVRS)",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

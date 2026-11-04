@@ -1,19 +1,19 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "1",
-   "inhouse": "outsourced",
-   "agency": "",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-003",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-   "as_at": "2026-10-17"
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "2",
+      "inhouse": "yes",
+      "agency": "",
+      "built": "",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-004",
+      "gaps": "No source found since October 2023 says a government body builds or runs systems for the rest of government; the financial management system relies on outside suppliers (2025).",
+      "note": "The Electoral Commission said in June 2024 that its own IT Division manages its systems, so government staff run one of its systems. Nothing since 2023 names a body running systems for the rest of government, so not 3.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

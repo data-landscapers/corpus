@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-13-mli-mali-launches-online-criminal-record-and-nationality-certificate-servi",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The article says the criminal record and nationality portals were developed by the digital ministry and AGETIC, the government's information technology agency, with the Ministry of Justice.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "AGETIC",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Portals developed by AGETIC and the digital ministry with no contractor named were launched on 10 February 2026.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "casiercasier.gouv.ml and nationalitenationalite.gouv.ml",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-08-mwi-press-briefing-speech-on-voter-transfers-and-inspection-of-the-voters",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Commission authorised its ICT Directorate to upload 2,563 outstanding records onto the Election Management System database.",
+   "as_of": "2025-04-02",
+   "date_precision": "day",
+   "system": "Election Management System",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

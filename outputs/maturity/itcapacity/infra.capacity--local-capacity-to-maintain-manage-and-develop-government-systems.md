@@ -21,12 +21,12 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Leading | 9 |
-| 4 Operating | 5 |
-| 3 Established | 20 |
-| 2 Nascent | 3 |
-| 1 Absent | 2 |
+| 4 Operating | 8 |
+| 3 Established | 17 |
+| 2 Nascent | 5 |
+| 1 Absent | 1 |
 | Unplaced | 3 |
-| No evidence | 12 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -109,6 +109,14 @@ Government staff built a system that went live in 2026; fewer than three systems
 - INE launched the Census 2024 Portal and the 'INE Angola' app on 2 July 2026 in Uíge; its head said they were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
 - Angop reports INE's head said the Census 2024 Portal and the 'INE Angola' mobile app were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
 
+### Benin: 4 Operating
+
+The Justice Ministry's own IT directorate built an online criminal-record service that went live in 2026; no three systems run wholly in-house are known.
+
+- The instant criminal-record certificate service, led by the Justice Ministry's own information systems directorate, went live on service-public.bj on 1 November 2026, per the ministry's press release of 2 November ([source, 2026-11-01](https://www.linfodrome.com/international/127167-benin-wadagni-concretise-sa-promesse-le-casier-judiciaire-instantane-a-1-900-fcfa)).
+- The article says ASIN, the national information systems agency, made its own developed signature, encryption and secure messaging solutions available to the Republican Police as national tools for securing digital exchanges ([source, 2026-07-08](https://www.dgpr.bj/techniques-de-protection-des-informations-sensibles-de-letat-lagence-des-systemes-dinformation-et-du-numerique-asin-et-direction-des-systemes-dinformation-et-de/)).
+- Linfodrome reports that the instant criminal-record service was led by the Justice Ministry's Direction des systèmes d'information with the national criminal-record centre (CNCJ), with no contractor named ([source, 2026-11-01](https://www.linfodrome.com/international/127167-benin-wadagni-concretise-sa-promesse-le-casier-judiciaire-instantane-a-1-900-fcfa)).
+
 ### Cote d'Ivoire: 4 Operating
 
 A state company's own teams built a trade app that went live in 2024; fewer than three systems are known to be run wholly in-house.
@@ -117,12 +125,27 @@ A state company's own teams built a trade app that went live in 2024; fewer than
 - GUCE CI, a state company, manages and maintains the GUCE single-window system, with technical support from the trade ministry ([source, 2024-07-25](https://www.gucecotedivoire.ci/innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur-guce-ci-lance-sa-nouvelle-application-guce-mobile-tant-attendue-par-les-operateurs-economiques-les-acteurs-majeurs-e/)).
 - An SNDI representative said at the 25 September 2026 plenary that SNDI has operated its own satellite network since 2006 connecting administrations, universities and health centres, and had provided internet to the University of Korhogo ([source, 2026-09-25](https://afriksoir.net/aspex-2026-le-satellite-au-coeur-des-enjeux-de-connectivite-et-de-resilience-numerique-en-cote-divoire/)).
 
+### Ethiopia: 4 Operating
+
+The election board's own team built voter and candidate registration applications in service by 2025; no three systems run wholly in-house are known.
+
+- NEBE said its voter and candidate registration applications, designed entirely by its in-house technical team, were operational ([source, 2025-06-10](https://www.ena.et/web/eng/w/eng_6739876)).
+- Addis Fortune reports INSA, the Information Network Security Administration, is spearheading the Federal Supreme Court's Integrated Court Management Information System and Electronic Records Management System ([source, 2025-07](https://addisfortune.news/supreme-court-sets-bold-course-toward-digital-justice)).
+- INSA says its own developed tools, including Ergamail and the electronic tax system, are already in use across key government agencies ([source, 2025-07-08](https://ethiopianbusinessreview.net/innovation-wears-netela-ethiopia-to-build-its-own-versions-of-whatsapp-gmail-and-zoom-citing-tired-of-data-leaks/)).
+
 ### Liberia: 4 Operating
 
 Government staff built a system that went live in 2026; fewer than three systems are known to be run wholly by government staff.
 
 - The platform developed by LRA programmers was launched at Liberia National Police Headquarters on Friday 1 May 2026, replacing a manual process; the document is dated 3 May ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
 - The online police clearance platform was developed by Liberia Revenue Authority programmers, and the LRA's Management Information Services Division described it as showing local professionals' technical expertise ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
+
+### Mali: 4 Operating
+
+Portals built by the government's IT agency went live in 2026; no three systems run wholly in-house are known.
+
+- Portals developed by AGETIC and the digital ministry with no contractor named were launched on 10 February 2026 ([source, 2026-02-10](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-launches-online-criminal-record-and-nationality-certificate-services)).
+- The article says the criminal record and nationality portals were developed by the digital ministry and AGETIC, the government's information technology agency, with the Ministry of Justice ([source, 2026-02-10](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-launches-online-criminal-record-and-nationality-certificate-services)).
 
 ### Mauritania: 4 Operating
 
@@ -137,13 +160,6 @@ Government staff built a system that went live in 2026; fewer than three systems
 - The Government Service Portal, stated as developed by Galaxy Backbone in collaboration with the communications ministry and KOICA, was soft-launched on 28 July 2026 ([source, 2026-07-28](https://von.gov.ng/nigeria-unveils-unified-government-service-platform/)).
 - Galaxy Backbone's managing director said more than 30 federal ministries, departments and agencies have moved onto one government platform run by GBB for approving documents and memos paperlessly ([source, 2026-10-09](https://www.thisdaylive.com/2026/10/11/gbb-promises-to-increase-numbers-of-digitalised-mdas-from-current-30-says-adeyanju/)).
 - Anambra State ICT Agency (ICTA) presented its upgraded SolutionLens platform and moved it into operational use by the state Ministry of Information, with a formal handover planned ([source, 2026-10-08](https://anambrastate.gov.ng/ict-agency-information-ministry-deepen-digital-collaboration-as-solutionlens-moves-into-operational-use/)).
-
-### Benin: 3 Established
-
-A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
-
-- The article says ASIN, the national information systems agency, made its own developed signature, encryption and secure messaging solutions available to the Republican Police as national tools for securing digital exchanges ([source, 2026-07-08](https://www.dgpr.bj/techniques-de-protection-des-informations-sensibles-de-letat-lagence-des-systemes-dinformation-et-du-numerique-asin-et-direction-des-systemes-dinformation-et-de/)).
-- The article says the national agency ASIN developed the electronic signature, encryption and secure messaging solutions that 300 police officers were equipped with in a training campaign from 26 June to 8 July 2026 (date taken from the article's published date for the campaign end) ([source, 2026-07-08](https://www.dgpr.bj/techniques-de-protection-des-informations-sensibles-de-letat-lagence-des-systemes-dinformation-et-du-numerique-asin-et-direction-des-systemes-dinformation-et-de/)).
 
 ### Botswana: 3 Established
 
@@ -176,13 +192,6 @@ A government technology body runs systems for the rest of government by 2025; no
 - CNIAPGE, the national centre for computerising public administration, is rolling GEX out to the Primatura at the Prime Minister's request, with ministerial departments to follow ([source, 2025-07-15](https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/)).
 - The article says the GEX case-file platform was developed by CNIAPGE's own technical team, and CNIAPGE's Deploy department staff run its training for the Prime Minister's office ([source, 2025-07-15](https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/)).
 
-### Ethiopia: 3 Established
-
-A government technology body runs systems for the rest of government by 2025; no in-house build is known since 2023.
-
-- Addis Fortune reports INSA, the Information Network Security Administration, is spearheading the Federal Supreme Court's Integrated Court Management Information System and Electronic Records Management System ([source, 2025-07](https://addisfortune.news/supreme-court-sets-bold-course-toward-digital-justice)).
-- INSA says its own developed tools, including Ergamail and the electronic tax system, are already in use across key government agencies ([source, 2025-07-08](https://ethiopianbusinessreview.net/innovation-wears-netela-ethiopia-to-build-its-own-versions-of-whatsapp-gmail-and-zoom-citing-tired-of-data-leaks/)).
-
 ### Ghana: 3 Established
 
 A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
@@ -201,12 +210,6 @@ A government technology body runs systems for the rest of government by 2026; no
 A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
 
 - Public Digital says Madagascar's Digital Governance Unit, within the Ministry of Digital Development, is responsible for managing digital projects across the government's ministries and digitising public services, with a multidisciplinary team ([source, 2024-02](https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter)).
-
-### Mali: 3 Established
-
-A government technology body runs systems for the rest of government by 2025; no in-house build is known since 2023.
-
-- L'Essor reports AGETIC, the state ICT agency, is progressively interconnecting all public and para-public services into the government Intranet, with 13 services integrated in a single-window portal, and managing 13,441 .ml domain names; the document gives no event date, so its published date is used ([source, 2025-12-30](https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535)).
 
 ### Mauritius: 3 Established
 
@@ -288,17 +291,24 @@ Government staff run or maintain systems by 2026; no body is known to serve the 
 
 - Libya's Ministry of Technical and Vocational Education states its Informatics and Documentation Department, through its Information Systems Section, is overseeing the update project of the ministry's electronic archiving system, developed from feedback by users across the ministry's offices; the document's published date 2026-09-23 is used as it gives no other date ([source, 2026-09-23](https://lana.gov.ly/post.php?id=366096&lang=ar)).
 
+### Malawi: 2 Nascent
+
+The revenue authority was building its tax system in-house in 2026; no body is known to run systems for the rest of government.
+
+- The Malawi Revenue Authority's representative said MRA is developing its second Integrated Tax Administration System, ITAS II, in-house; no date is given for the statement, so the article's published date is used ([source, 2026-10-12](https://www.liberianobserver.com/business/mra-credits-ataf-support-for-tax-administration-reforms-data-improvements/article_46cb9644-8810-4649-be0a-d358dbf91606.html)).
+- The Commission authorised its ICT Directorate to upload 2,563 outstanding records onto the Election Management System database ([source, 2025-04-02](https://mec.org.mw/wp-content/uploads/2025/04/20250408-Speech-for-press-briefing-on-Voter-Transfers-and-Inspection-of-Voters-Register.pdf)).
+
+### Namibia: 2 Nascent
+
+The Electoral Commission's own IT Division ran its systems in 2024; no body is known to run systems for the rest of government.
+
+- The Electoral Commission of Namibia says its voter registration system is managed under its internal IT policies and that it has a fully-fledged IT Division entrusted with managing its IT systems ([source, 2024-06-06](https://omutumwa.com/2024/06/ecn-explains-slow-start-of-mobile-voter-registration-system/)).
+
 ### Eswatini: 1 Absent
 
 A 2026 source says a government body relies on outside suppliers to run its systems.
 
 - Independent News reports the Digital Landscape Assessment Report found 15 ministries have no in-house ICT officers and depend entirely or substantially on RSTP for technical functions, with only 18 dedicated ICT professionals supporting the whole government digital estate assessed ([source, 2026-05-21](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/)).
-
-### Namibia: 1 Absent
-
-A 2025 source says a government body relies on outside suppliers to run its systems.
-
-- The Ministry of Finance, through the Central Procurement Board, sought consultant firms to support, maintain and develop the Integrated Financial Management System for five years (EOI closing 30 July 2025) ([source, 2025-06-13](https://cpbn.com.na/index/bid/78)).
 
 ### Guinea: Unplaced
 
@@ -355,12 +365,6 @@ Nothing found says who builds or runs the government's systems, so no stage is s
 Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Lesotho: No evidence
-
-Nothing found says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing found says who builds or runs the government's computer systems.
-
-### Malawi: No evidence
 
 Nothing found says who builds or runs the government's systems, so no stage is set.
 

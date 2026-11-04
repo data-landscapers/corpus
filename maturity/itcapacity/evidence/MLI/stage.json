@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "3",
+      "stage": "4",
       "inhouse": "",
       "agency": "operating",
-      "built": "",
-      "own": "entire",
+      "built": "live",
+      "own": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-001",
-      "gaps": "No source found says a system built by government staff went live since October 2023; SIGRH is the only system held as built wholly in-house, and its going live is not stated.",
-      "note": "AGETIC runs the intranet and single-window portal for the administration. SIGRH was built by the administration's own specialists, but no source says it or another in-house system went live, so it stops at stage 3.",
-      "as_at": "2026-10-27"
+      "stage_sources": "MLI-007;MLI-006",
+      "gaps": "No source found since October 2023 names three systems run wholly by government staff; SIGRH is the only system held as built wholly in-house.",
+      "note": "The criminal-record and nationality portals, developed by AGETIC and the digital ministry with no contractor named, were launched in February 2026, so a system built by government staff went live. No three systems are named as run wholly in-house, so not 5.",
+      "as_at": "2026-11-04"
     }
   ]
 }

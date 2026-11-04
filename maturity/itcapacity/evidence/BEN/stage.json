@@ -1,18 +1,19 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "3",
-   "inhouse": "yes",
-   "agency": "operating",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-002;BEN-001",
-   "gaps": "No source found says a system built by government staff went live since October 2023.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "4",
+      "inhouse": "yes",
+      "agency": "operating",
+      "built": "live",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-006;BEN-002;BEN-005",
+      "gaps": "No source found since October 2023 names three systems run wholly by government staff; the citizen portal and data exchange platform are maintained with Cybernetica's support.",
+      "note": "The Justice Ministry's own information systems directorate led the instant criminal-record service that went live on 1 November 2026, with no contractor named, so a system built by government staff went live. No three systems are named as run wholly in-house, so not 5.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-10-eth-nebe-announces-digital-overhaul-for-upcoming-seventh-national-election",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "NEBE said its voter and candidate registration applications, designed entirely by its in-house technical team, were operational.",
+   "as_of": "2025-06-10",
+   "date_precision": "day",
+   "system": "NEBE voter and candidate registration applications",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

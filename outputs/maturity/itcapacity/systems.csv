@@ -10,6 +10,8 @@ BEN,"ASIN electronic signature, encryption and secure messaging","Electronic sig
 BEN,Programme de Renforcement des Structures Centrales de Gouvernance (PRSCG) national network,BEN,other,,Government of Benin,,2021-10-05-numerique-gouv-bj-assi-prscg-formation
 BEN,National data centre (PRSCG),BEN,other,,Government of Benin,,2021-10-05-numerique-gouv-bj-assi-prscg-formation
 BEN,GPT BJ,Benin,other,,ASIN,,2024-06-24-ben-dossier-d-appel-d-offres-pour-la-mise-en-oeuvre-des-solutions-d-ia-dev
+BEN,Casier judiciaire en instantané,Benin,staff,service-public.bj,"Ministry of Justice and Legislation (DSI, CNCJ)",,2026-11-03-benin-casier-judiciaire-instantane
+BEN,service-public.bj,Benin,other,web portal,government,,2026-11-03-benin-casier-judiciaire-instantane
 BFA,Bondoo,BFA,staff,,ANPTIC,,2024-01-30-anptic-nos-realisations
 BFA,TAWALE,BFA,staff,,ANPTIC,,2024-01-30-anptic-nos-realisations
 BFA,TOUMNANA (SIGED),BFA,staff,,ANPTIC,,2024-01-30-anptic-nos-realisations
@@ -185,6 +187,7 @@ GAB,VECTIS,VECTIS,other,budget execution system,Ministry of Budget,central level
 GAB,X-Gest,X-Gest,other,school management information system,Ministry of Education,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
 GAB,e-education applications,e-education,staff,applications developed and managed by private providers,Ministry of Education; ANINF support,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
 GAB,Legislative Work Management Platform (GTLAN),GTLAN,other,,National Assembly,,2026-10-21-gabon-parliament-digital-platform
+GAB,Catalogue national des services publics (CNSP),Gabon,staff,government platform in development,ANINF,,2026-04-23-gab-gabon-catalogue-national-presentation-de-l-interface-de-la-future-plat
 GHA,Ghana Electronic Document Wallet (GEDW),Ghana Electronic Document Wallet Ecosystem,other,PKI-based digital credential layer,National Information Technology Agency (NITA),,2026-06-26-nita-gedw-stakeholder-engagement
 GHA,National Identification System,National Identification System (Ghana Card),staff,,National Identification Authority,,2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt
 GHA,National Identification System,"National Identification System (Ghana Card, National Identity Register)",staff,,National Identification Authority,,2021-10-05-nia-about-us-mandate-act-707
@@ -458,6 +461,7 @@ ZAF,Free State provincial VPN,Free State Office of the Premier,other,,Free State
 ZAF,Server-based electronic records management system,Emfuleni Local Municipality,other,,Emfuleni Local Municipality,,2026-01-09-emfuleni-procurement-plan-reporting-q2-2025-26
 ZAF,Electronic deeds registration system,Electronic deeds registration system,other,,Department of Rural Development and Land Reform,national,2025-09-29-sita-annual-report-2024-25
 ZAF,Navy secure information portal,Navy secure information portal,other,,South African Navy,national,2025-09-29-sita-annual-report-2024-25
+ZAF,SITA,South Africa,staff,,State Information Technology Agency,,2024-04-05-zaf-government-accelerates-programme-to-connect-citizens-to-internet
 ZMB,Smart Office Management System,Smart Office Platform,staff,,Smart Zambia Institute,,2026-09-04-lusakatimes-smart-office-platform
 ZMB,Digital loan system for civil servants,,other,,Smart Zambia Institute,,2026-08-07-smart-zambia-and-amiz-explore-digital-loan-system-for-civil-servants
 ZMB,SMART Office Management System,SMART Office,staff,,SMART Zambia Institute,,2025-06-23-smart-office-system-rollout

@@ -1,18 +1,19 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "no evidence",
-   "inhouse": "",
-   "agency": "",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says who builds or runs the government's computer systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "2",
+      "inhouse": "yes",
+      "agency": "",
+      "built": "",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-001;MWI-002",
+      "gaps": "No source found since October 2023 says a government body builds or runs systems for the rest of government.",
+      "note": "Government staff build or run systems of their own: the revenue authority is developing its tax system in-house (2026) and the election commission's ICT Directorate loads its register (2025). Nothing names a body running systems for the rest of government, so not 3.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

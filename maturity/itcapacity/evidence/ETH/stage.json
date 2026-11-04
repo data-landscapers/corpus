@@ -1,19 +1,19 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "3",
-   "inhouse": "yes",
-   "agency": "operating",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-003;ETH-002",
-   "gaps": "No source found says a system built by government staff went live since October 2023.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-   "as_at": "2026-10-18"
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "4",
+      "inhouse": "yes",
+      "agency": "operating",
+      "built": "live",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-004;ETH-003;ETH-002",
+      "gaps": "No source found since October 2023 names three systems run wholly by government staff.",
+      "note": "The election board said in June 2025 that its voter and candidate registration applications, designed entirely by its in-house team, were operational, so a system built by government staff went live. No three systems are named as run wholly in-house, so not 5.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }
