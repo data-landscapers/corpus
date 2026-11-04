@@ -22,8 +22,8 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 3 |
-| 3 Established | 4 |
-| 2 Nascent | 35 |
+| 3 Established | 5 |
+| 2 Nascent | 34 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 11 |
@@ -79,6 +79,12 @@ In 2023 and 2024 the financial regulator consulted on a virtual asset law and pu
 
 - The Ministry of Finance and the Financial Services Authority published an industry consultation response dated 7 March 2024 summarising the consultation on the VASP framework, which drew about 15 detailed written responses ([source, 2024-03-07](https://www.finance.gov.sc/wp-content/uploads/2025/08/Virtual-Asset-Service-Providers-Framework-Response-to-Public-Consultation.pdf)).
 - A consultant on the drafting team says the Seychelles National Digital & AI Strategy 2026-2031 followed consultations with public institutions, the private sector, academia, civil society and development partners, and a national validation workshop concluded in the two weeks before 10 July 2026 ([source, 2026-07](https://www.linkedin.com/posts/baidy-s-91972228_digitaltransformation-ai-digitalgovernment-activity-7481275398413152257-B36W)).
+
+### South Africa: 3 Established
+
+The communications regulator published the comments it received on network licensing, with its answers, in October 2026; no consultation required by rule is known.
+
+- ICASA, the regulator, received 32 submissions from operators, satellite firms and industry bodies in phase one of its I-ECNS licensing inquiry and published a Discussion Document with a thematic analysis of them and its preliminary responses, in Government Gazette 55654 on 30 October 2026, inviting written representations within 45 working days ([source, 2026-10-30](https://www.itweb.co.za/article/icasa-takes-aim-at-dormant-telecoms-licences/j5alrvQAdwJvpYQk)).
 
 ### Algeria: 2 Nascent
 
@@ -264,13 +270,6 @@ The regulator consulted companies, civil society and consumer representatives on
 
 - The National Communications Authority of Somalia convened a national consultation meeting on its draft Cybersecurity Risk Management and Compliance Framework, with government institutions, private-sector stakeholders, the education sector, civil society and technical experts taking part, to gather input before finalisation ([source, 2026-04-25](https://nca.gov.so/national-communications-authority-holds-consultation-meeting-on-cybersecurity-risk-management-and-compliance-framework/)).
 - The National Communications Authority of Somalia held a one-day stakeholder consultation on 16 February 2026 on its draft Telecom Consumer Protection Regulation, with telecommunications operators, internet service providers, submarine cable operators and consumer representatives giving feedback ([source, 2026-02-16](https://nca.gov.so/nca-holds-consultation-on-telecom-consumer-protection-regulation/)).
-
-### South Africa: 2 Nascent
-
-Parliament, the communications regulator and the Treasury put digital bills and draft rules out for public comment in 2026; no source says what they heard.
-
-- ITWeb reports the draft National AI Policy was presented for public comment before it was withdrawn this year ([source, 2026](https://www.itweb.co.za/article/local-insurers-go-solo-amid-ai-policy-vacuum/o1Jr5MxP36rMKdWL)).
-- The Universal Service and Access Agency of South Africa opened a public consultation on a discussion document on whether to retain, revise or replace the 2010 ministerial determination on universal access and universal service, and said it will use submissions from stakeholders and the public to advise the communications and digital technologies minister; the report is dated 2026-10-10 and gives no opening date ([source, 2026-10-10](https://www.sundaytimes.timeslive.co.za/business/2026-10-10-public-consultation-to-update-universal-access-policy/)).
 
 ### South Sudan: 2 Nascent
 
