@@ -1,23 +1,12 @@
 {
  "slug": "2026-10-31-ken-public-notice-validation-of-the-draft-kenya-information-and-communicat",
  "studies": {
-  "publicconsultation": {
+  "mobileaffordability": {
    "countries": {
     "KEN": {
-     "facts": [
-      {
-       "sub_indicator": "consultation",
-       "aspect": "hearing",
-       "value": "held",
-       "fact": "The Ministry of Information, Communications and the Digital Economy invited stakeholders and the public to comment on the revised draft Kenya Information and Communication (Amendment) Bill, 2026 by 17 November 2026, with a virtual validation forum on 25 November, after a multi-stakeholder committee held public consultations on it.",
-       "as_of": "2026-10-31",
-       "date_precision": "day",
-       "system": "Draft Kenya Information and Communication (Amendment) Bill, 2026",
-       "class": "consultation"
-      }
-     ],
+     "facts": [],
      "systems": [],
-     "note": ""
+     "note": "Bill consultation notice; no mobile data price stated."
     }
    }
   }

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-23-nga-nigeria-delegation-to-apply-lessons-from-south-korea-s-digital-governa",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "eGovernment Masterplan 2.0",
+       "country_label": "Nigeria",
+       "class": "government",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Masterplans mentioned as KOICA-supported; adoption, text and delivery not stated, and scope is state administration."
+    }
+   }
+  }
+ }
+}

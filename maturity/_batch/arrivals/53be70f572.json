@@ -1,0 +1,97 @@
+{
+ "slug": "2025-07-10-ken-how-to-verify-your-iebc-voter-registration-details-online",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "checked",
+       "value": "open",
+       "fact": "The IEBC says registered voters can check their details by SMS to 70000 or on its verification portal, which was back online on 8 July 2025 and shows polling station details and a PDF download.",
+       "as_of": "2025-07-08",
+       "date_precision": "day",
+       "system": "IEBC voter verification portal",
+       "class": "electoral"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  }
+ }
+}

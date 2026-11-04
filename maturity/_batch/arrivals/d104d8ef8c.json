@@ -1,0 +1,27 @@
+{"slug": "2025-06-11-swz-over-2k-downloads-government-in-your-hand-app", "studies": {
+"authentication": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "National ID plus SMS code is only registration and login for one app; no identity check service stated."}}},
+"birthidlink": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"businesspayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"businessregister": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "Eswatini Positive News reports that the Government-In-Your-Hand app, launched in May 2025, lets entrepreneurs register and manage businesses from home, per the ICT ministry.", "as_of": "2025-06-11", "date_precision": "day", "system": "Government-In-Your-Hand app", "class": "business"}
+], "systems": [{"system": "Government-In-Your-Hand app", "country_label": "Eswatini", "class": "business", "platform": "mobile app (App Store, Google Play)", "owner": "Ministry of ICT", "tiers": ""}], "note": ""}}},
+"centralbank": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"egovservices": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Eswatini's ICT ministry launched the Government-In-Your-Hand app in May 2025, offering document status checks, business registration, education services and utility payments, with no count of services given.", "as_of": "2025-05", "date_precision": "month", "system": "Government-In-Your-Hand app", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "gateway", "value": "single", "fact": "The Government-In-Your-Hand app carries services of several bodies (ID and passport status, business registration, education loans, utility payments), with sign-up by national ID and an SMS one-time code, per Eswatini Positive News.", "as_of": "2025-06-11", "date_precision": "day", "system": "Government-In-Your-Hand app", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "usage", "value": "published", "fact": "An ICT ministry engineer said the Government-In-Your-Hand app had over 2,000 downloads in its first month, and that over 200 people had it on their phones.", "as_of": "2025-06-11", "date_precision": "day", "system": "Government-In-Your-Hand app", "class": "eservices"}
+], "systems": [{"system": "Government-In-Your-Hand app", "country_label": "Eswatini", "class": "eservices", "platform": "mobile app (App Store, Google Play)", "owner": "Ministry of ICT", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"idcoverage": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No ID enrolment figure."}}},
+"idfrombirth": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
+"idregisters": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on a public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}},
+"paymentsuptake": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Mobile money is named only as a payment channel for the app; no service status stated."}}},
+"revenuecollection": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Eswatini Positive News reports that users can pay for a variety of government services directly from mobile money accounts through the Government-In-Your-Hand app.", "as_of": "2025-06-11", "date_precision": "day", "system": "Government-In-Your-Hand app", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

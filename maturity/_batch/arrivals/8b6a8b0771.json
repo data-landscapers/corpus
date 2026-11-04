@@ -1,14 +1,1 @@
-{
- "slug": "2026-10-31-gha-everything-is-ready-mttd-confirms-november-1-traffitech-gh-rollout",
- "studies": {
-  "police": {
-   "countries": {
-    "GHA": {
-     "facts": [],
-     "systems": [],
-     "note": "A traffic speeding enforcement system, single-function, not a station record of reports or cases."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-10-31-gha-everything-is-ready-mttd-confirms-november-1-traffitech-gh-rollout", "studies": {"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [{"system": "TraffiTech-GH", "country_label": "Ghana", "class": "other", "platform": "speed cameras with SMS notices", "owner": "Motor Traffic and Transport Department, Ghana Police Service", "tiers": ""}], "note": "Document describes camera speed enforcement; it does not state that AI is used."}}}}}

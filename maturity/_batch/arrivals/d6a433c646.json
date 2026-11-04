@@ -1,0 +1,119 @@
+{
+ "slug": "2026-07-20-swz-ict-ministry-records-strong-start-as-digital-rollout-gains-momentum",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no training for civil servants."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no national digital strategy."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Cross-border capacity upgrade names no other African country."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives no share of schools with internet or compulsory curriculum."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The ICT Ministry's first quarter 2026/27 report says 473 emaSwati were trained in basic computer and digital citizenship skills, in communities, during the quarter.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ministry of ICT digital inclusion training",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ministry of ICT digital inclusion training",
+       "country_label": "Eswatini",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Ministry of ICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "delivered",
+       "value": "delivered",
+       "fact": "The ICT Ministry reports it provided devices and assistive technologies to vulnerable groups and learners with disabilities in the first quarter of 2026/27.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ministry of ICT assistive technology support",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The ICT Minister reports the Government in Your Hand mobile app was enhanced with six new payment services for government services in the first quarter of 2026/27.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Government in Your Hand",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government in Your Hand",
+       "country_label": "Eswatini",
+       "class": "eservices",
+       "platform": "mobile app",
+       "owner": "Ministry of ICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

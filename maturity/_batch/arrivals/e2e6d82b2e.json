@@ -1,0 +1,100 @@
+{
+ "slug": "2024-03-26-gha-transforming-governance-in-ghana-a-new-regulatory-service-model-for-af",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Business Regulations E-Registry",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "web registry",
+       "owner": "Business Regulatory Reform unit",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a regulations e-registry (information) and consultation and suggestion tools are named; no government service applied for or paid online."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "The World Bank blog says the Business Regulatory Reform unit put the MSME Classification Regulation (2021) on its Public Consultation Portal, where it drew over 1,000 views and suggestions, one of which was adopted in the final regulation.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Public Consultation Portal",
+       "class": "eparticipation"
+      },
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "standing",
+       "fact": "The World Bank blog says Ghana's Business Regulatory Reform unit runs a Public Consultation Portal through which civil society accesses draft laws and regulatory proposals and BRR officials review comments and poll results.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "Public Consultation Portal",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Public Consultation Portal",
+       "country_label": "Ghana",
+       "class": "eparticipation",
+       "platform": "web portal",
+       "owner": "Business Regulatory Reform unit, Ministry of Trade and Industry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The World Bank blog says the BRR unit's 'Have Your Say' platform lets companies voice complaints on regulatory bottlenecks and suggest improvements, and is still in the initial stages of implementation.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "Have Your Say",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Have Your Say",
+       "country_label": "Ghana",
+       "class": "feedback",
+       "platform": "online suggestion box",
+       "owner": "Business Regulatory Reform unit",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The one named consultation, the MSME Classification Regulation, is not a digital law or policy."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "slug": "2026-05-29-lso-the-iec-has-launched-its-civic-and-voter-education-strategy-and-voter",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Lesotho's Principal Secretary of Home Affairs said the Ministry of Home Affairs holds sole responsibility for maintaining the National Population Register and issuing legal identity documents.",
+       "as_of": "2026-05-29",
+       "date_precision": "day",
+       "system": "National Population Register",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Register",
+       "country_label": "Lesotho",
+       "class": "population",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "slug": "2026-11-02-ben-benin-comment-fonctionne-le-portail-numerique-des-services-publics",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an RCCM extract is requested online; the document does not say firms register online."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Nasuba reports that the national services portal service-public.bj presents Yèmi, an AI-based assistant designed to answer users' questions and guide their searches.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "Yèmi",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Yèmi",
+       "country_label": "Bénin",
+       "class": "govai",
+       "platform": "service-public.bj",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Nasuba reports that service-public.bj lists 1,208 services, of which 131 are available online, per the portal's own display.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "service-public.bj",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "usage",
+       "value": "published",
+       "fact": "Nasuba reports that the portal shows more than 2.5 million requests, per its own home-page figures.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "service-public.bj",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "service-public.bj",
+       "country_label": "Bénin",
+       "class": "eservices",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Gateway not recorded: no shared sign-in across ministries or national ID is stated."
+    }
+   }
+  }
+ }
+}

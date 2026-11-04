@@ -1,0 +1,52 @@
+{
+ "slug": "2025-04-30-ben-co-creation-in-action-how-benin-is-making-budgets-work-for-people",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for the country."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "standing",
+       "fact": "The OGP account says Benin's BousProB application lets citizens follow and comment on the stages of the budget process, within an Open Budget Hub that opens 13 of 17 budget stages to civil society.",
+       "as_of": "2025-04-30",
+       "date_precision": "day",
+       "system": "BousProB",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BousProB",
+       "country_label": "Benin",
+       "class": "eparticipation",
+       "platform": "application",
+       "owner": "Direction g\u00e9n\u00e9rale du Budget (Open Budget Hub)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Budget participation is not on a named digital law or policy; the OGP action plan carries no stated digital commitment."
+    }
+   }
+  }
+ }
+}

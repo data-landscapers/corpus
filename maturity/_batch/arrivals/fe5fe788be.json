@@ -1,0 +1,43 @@
+{
+ "slug": "2025-01-05-tgo-boite-a-suggestions-une-plateforme-pour-impliquer-les-citoyens-dans-la",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "standing",
+       "fact": "Togo's government launched the online Boite a Suggestions, where any citizen can submit ideas and proposals on national security, reported 5 January 2025.",
+       "as_of": "2025-01-05",
+       "date_precision": "day",
+       "system": "Boite a Suggestions",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Boite a Suggestions",
+       "country_label": "Togo",
+       "class": "eparticipation",
+       "platform": "online platform",
+       "owner": "Ministry of Security",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The channel is on national security, not a named digital law or policy."
+    }
+   }
+  }
+ }
+}

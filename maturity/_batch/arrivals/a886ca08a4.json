@@ -1,0 +1,43 @@
+{
+ "slug": "2026-04-14-ago-portal-de-consulta-publica-do-inacom",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "standing",
+       "fact": "Angola's telecom regulator INACOM runs a public consultation portal where draft laws and proposed regulations are posted and the public sends feedback through forms, polls and forums.",
+       "as_of": "2026-04-14",
+       "date_precision": "day",
+       "system": "Portal de Consulta Publica do INACOM",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portal de Consulta Publica do INACOM",
+       "country_label": "Angola",
+       "class": "eparticipation",
+       "platform": "web portal",
+       "owner": "Instituto Angolano das Comunicacoes (INACOM)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The page names no draft law or consultation held on it."
+    }
+   }
+  }
+ }
+}

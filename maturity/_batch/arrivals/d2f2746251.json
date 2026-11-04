@@ -1,12 +1,12 @@
 {
  "slug": "2026-10-31-ken-airtel-kenya-pays-sh8-4-billion-for-5g-spectrum-in-network-expansion-push",
  "studies": {
-  "internationalbandwidth": {
+  "mobilepenetration": {
    "countries": {
     "KEN": {
      "facts": [],
      "systems": [],
-     "note": "No cable or international fibre route is stated."
+     "note": "5G subscriber and spectrum figures only; no share of people owning a phone."
     }
    }
   }

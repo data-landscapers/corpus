@@ -1,0 +1,9 @@
+{"slug": "2025-07-16-egy-nea-polling-station-app-qr-voter-lists", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "QR check of a voter's number is not stated to be an ID authentication service."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on operation or ownership of the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Egypt's National Elections Authority says it updated the voter lists for the 2025 Senate election with a QR code beside each voter's name to verify the correctness of his national number.", "as_of": "2025-07-15", "date_precision": "day", "system": "Voter lists (National Elections Authority)", "class": "register"}], "systems": [{"system": "Voter lists", "country_label": "Egypt", "class": "register", "platform": "QR code read by presiding judge's app", "owner": "National Elections Authority", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the ID system itself."}}}
+}}

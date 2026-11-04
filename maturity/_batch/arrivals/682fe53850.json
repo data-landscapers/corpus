@@ -1,0 +1,34 @@
+{
+ "slug": "2023-12-07-dza-charfi-affirme-une-parfaite-maitrise-du-fichier-electoral",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "ANIE president Mohamed Charfi said that digitising registration operations helped remove nearly one million duplicate registrations from the electoral file between 2021 and 2023, with the electorate put at 23,240,286 after the revision closed on 5 December 2023.",
+       "as_of": "2023-12-05",
+       "date_precision": "day",
+       "system": "fichier electoral (ANIE)",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "fichier electoral",
+       "country_label": "Algeria",
+       "class": "electoral",
+       "platform": "electoral register",
+       "owner": "ANIE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug":"2024-09-05-bwa-no-provision-for-availing-voters-roll-on-website","studies":{
+"dataprotectionlaw":{"countries":{"BWA":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"The IEC Secretary says the IEC intends to comply with the Data Protection Act before putting the voters' roll online, treating the Act as in force.","as_of":"2024-09-03","date_precision":"day","system":"Data Protection Act","class":"general"}],
+"systems":[],"note":""}}},
+"electoralregister":{"countries":{"BWA":{"facts":[
+{"sub_indicator":"electoral","aspect":"checked","value":"open","fact":"The IEC Secretary says that after each roll is generated the public can inspect it for 80 days at the commission's secretary's office and designated places, and obtain hard copies for a fee, with no soft copies and no online roll.","as_of":"2024-09-03","date_precision":"day","system":"voters' roll","class":"electoral"}],
+"systems":[{"system":"voters' roll","country_label":"Botswana","class":"electoral","platform":"","owner":"Independent Electoral Commission","tiers":""}],"note":""}}}}}

@@ -1,0 +1,185 @@
+{
+ "slug": "2026-11-02-sen-lesoleil-bank-to-wallet-suspended-pi-spi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Senegal."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Le Soleil reports the BCEAO's PI-SPI instant interoperable payment platform, launched 30 September 2025, carries bank-wallet transfers in Senegal and is mandatory from 2 November 2026.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Le Soleil reports PI-SPI, the BCEAO's platform, is the mandatory route for interoperable e-money transactions across the eight UEMOA states including Senegal.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Sénégal",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Senegal."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Le Soleil reports Senegal's banks route interoperable e-money transfers through the BCEAO's PI-SPI, a UEMOA-wide system, from 2 November 2026.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Sénégal",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Senegal."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Senegal."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "connect",
+       "fact": "Le Soleil reports PI-SPI becomes the mandatory route for interoperable e-money transactions in the eight UEMOA states from 2 November 2026, so Senegal's banks suspended Bank to Wallet and Wallet to Bank.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Sénégal",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Senegal."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Le Soleil reports transfers between bank accounts and e-money wallets in Senegal run through PI-SPI, instant and interoperable, replacing banks' Bank to Wallet services from 2 November 2026.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Sénégal",
+       "class": "retail",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Senegal."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-02-ssd-statement-on-false-reports-about-voter-registration",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "none",
+       "fact": "The NEC chairperson announced on 2 September 2026 that voter registration will be manual, in person and on paper nationwide, with data entered into the Commission's computer systems afterwards.",
+       "as_of": "2026-09-02",
+       "date_precision": "day",
+       "system": "voter registration",
+       "class": "electoral"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a national ID system."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "A statement rebutting false social-media posts; no criticism, cut or punishment stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil registration."
+    }
+   }
+  }
+ }
+}

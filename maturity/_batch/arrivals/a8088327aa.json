@@ -1,0 +1,11 @@
+{"slug": "2025-09-05-tgo-togo-une-centaine-de-services-desormais-disponibles-sur-la-plateforme", "studies": {
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing stated on a civil register to ID link."}}},
+"businessregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Commerce ministry procedures put online are licences and certificates, not firm registration."}}},
+"civilregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Civil status is only named as a domain among portal services; no digital register of births or deaths described."}}},
+"egovservices": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Togo First reports that the national Services publics portal now carries 98 online public services, after the commerce ministry added six, across commerce, security, energy, telecoms, civil status, transport, education and environment.", "as_of": "2025-09", "date_precision": "month", "system": "Services publics", "class": "eservices"}
+], "systems": [{"system": "Services publics", "country_label": "Togo", "class": "eservices", "platform": "web portal service-public.gouv.tg", "owner": "government", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing stated on an ID number at birth."}}},
+"registry": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on how civil registration offices record events."}}},
+"revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Tax payment appears only in site boilerplate, not in the article."}}}
+}}

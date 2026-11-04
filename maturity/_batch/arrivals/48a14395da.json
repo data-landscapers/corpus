@@ -1,0 +1,31 @@
+{"slug": "2025-02-21-ben-inquietudes-autour-de-la-fiabilite-de-la-liste-electorale-informatisee", "studies": {
+"addressregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No record exchange between civil register and ID system stated."}}},
+"businessregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on business registration."}}},
+"civilregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Over 400,000 digitised death records mentioned, but no digital civil registration system in service is stated."}}},
+"digitalidlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No law stated."}}},
+"electoralregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "electoral", "aspect": "roll", "value": "inservice", "fact": "ANIP's director general said on 21 February 2025 that Benin's Liste Electorale Informatisee holds nominative, personal and biometric data of voters.", "as_of": "2025-02-21", "date_precision": "day", "system": "Liste Electorale Informatisee (LEI)", "class": "electoral"},
+{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "ANIP's director general said citizens can request correction of their information when the provisional computerised electoral list (LEIP) is displayed.", "as_of": "2025-02-21", "date_precision": "day", "system": "Liste Electorale Informatisee Provisoire (LEIP)", "class": "electoral"},
+{"sub_indicator": "electoral", "aspect": "linked", "value": "linked", "fact": "ANIP's director general said the electoral list is extracted directly from the Registre National des Personnes Physiques.", "as_of": "2025-02-21", "date_precision": "day", "system": "Liste Electorale Informatisee (LEI)", "class": "electoral"}
+], "systems": [{"system": "Liste Electorale Informatisee (LEI)", "country_label": "Benin", "class": "electoral", "platform": "", "owner": "ANIP", "tiers": ""}, {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "Benin", "class": "population", "platform": "", "owner": "ANIP", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system beyond ANIP's name."}}},
+"idregisters": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "ANIP's director general said Benin's computerised electoral list is extracted directly from the national register of natural persons.", "as_of": "2025-02-21", "date_precision": "day", "system": "Liste Electorale Informatisee (LEI)", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ANIP's director general said ANIP now offers a secure identification system, and that its register of natural persons holds citizens' biometric data.", "as_of": "2025-02-21", "date_precision": "day", "system": "Registre National des Personnes Physiques (RNPP)", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on land."}}},
+"populationregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "ANIP's director general described a Registre National des Personnes Physiques in service, holding nominative, personal and biometric data.", "as_of": "2025-02-21", "date_precision": "day", "system": "Registre National des Personnes Physiques (RNPP)", "class": "population"},
+{"sub_indicator": "population", "aspect": "vital", "value": "updated", "fact": "ANIP's director general said a continuous-update arrangement is in place and over 400,000 digitised death records have been integrated so the list stays accurate.", "as_of": "2025-02-21", "date_precision": "day", "system": "Registre National des Personnes Physiques (RNPP)", "class": "population"},
+{"sub_indicator": "population", "aspect": "used", "value": "source", "fact": "ANIP's director general said the electoral list is extracted directly from the national register of natural persons.", "as_of": "2025-02-21", "date_precision": "day", "system": "Registre National des Personnes Physiques (RNPP)", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}},
+"socialregistry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on social registries."}}},
+"taxregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

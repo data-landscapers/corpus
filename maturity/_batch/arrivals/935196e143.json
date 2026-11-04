@@ -1,0 +1,13 @@
+{"slug": "2026-10-31-nga-inec-receives-5-400-claims-objections-to-voter-register-targets-decemb", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document reports AI-generated photos in the register but names no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "INEC's ICT director Lawrence Bayode says the Commission has deployed AI-powered chatbots where people ask questions and the AI answers, for public enquiries and logistics support.", "as_of": "2026-10-31", "date_precision": "day", "system": "INEC AI chatbots", "class": "govai"}
+], "systems": [{"system": "INEC AI chatbots", "country_label": "Nigeria", "class": "govai", "platform": "", "owner": "INEC", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "INEC chatbots are general administration, not a sector system."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document names no AI model, dataset or computing built in Nigeria."}}},
+"electoralregister": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "electoral", "aspect": "roll", "value": "inservice", "fact": "INEC's preliminary register of voters, held in its voter registration system database, stands at over 103 million registered citizens, per INEC chairman Joash Amupitan.", "as_of": "2026-10-31", "date_precision": "day", "system": "INEC voter registration system", "class": "electoral"},
+{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "INEC displayed the preliminary register at registration areas between 9 and 15 October 2026 for public scrutiny, and also displayed it online, drawing more than 4,800 claims and about 600 objections.", "as_of": "2026-10-15", "date_precision": "day", "system": "INEC Preliminary Register of Voters", "class": "electoral"}
+], "systems": [{"system": "INEC voter registration system", "country_label": "Nigeria", "class": "electoral", "platform": "", "owner": "INEC", "tiers": ""}], "note": ""}}},
+"refugees": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a plan for IDP electoral inclusion; no registration or digital service stated."}}}
+}}

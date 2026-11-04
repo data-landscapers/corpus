@@ -1,0 +1,76 @@
+{"slug": "2026-11-03-citinewsroom-connecting-africas-wallets-asare-otchere-darko", "studies": {
+"authentication": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Benin, Ghana and Rwanda completed the first phase of the Smart Africa Data Exchange pilot, demonstrating cross-border identity verification in a controlled testing environment, per an opinion piece by the Africa Prosperity Network chair.", "as_of": "2026-11-03", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "authentication"}], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Benin", "class": "authentication", "platform": "", "owner": "Smart Africa", "tiers": "phase 1 pilot"}], "note": ""},
+"GHA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Benin, Ghana and Rwanda completed the first phase of the Smart Africa Data Exchange pilot, demonstrating cross-border identity verification in a controlled testing environment, per an opinion piece by the Africa Prosperity Network chair.", "as_of": "2026-11-03", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "authentication"}], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Ghana", "class": "authentication", "platform": "", "owner": "Smart Africa", "tiers": "phase 1 pilot"}], "note": ""},
+"RWA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Benin, Ghana and Rwanda completed the first phase of the Smart Africa Data Exchange pilot, demonstrating cross-border identity verification in a controlled testing environment, per an opinion piece by the Africa Prosperity Network chair.", "as_of": "2026-11-03", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "authentication"}], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Rwanda", "class": "authentication", "platform": "", "owner": "Smart Africa", "tiers": "phase 1 pilot"}], "note": ""}}},
+"birthidlink": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"businesspayments": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on the central bank."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on the central bank's role."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No corridor or national PAPSS role named."},
+"GHA": {"facts": [], "systems": [], "note": "Wallet connection and PAPSS expansion are goals; no Ghana corridor or link stated."},
+"RWA": {"facts": [], "systems": [], "note": "No corridor or national PAPSS role named."}}},
+"g2ppayments": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on payments to people."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on payments to people."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"idcoverage": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No enrolment figure."},
+"GHA": {"facts": [], "systems": [], "note": "No enrolment figure."},
+"RWA": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}},
+"idverification": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "The pilot is cross-border verification between national systems, not another service checking people against the ID."},
+"GHA": {"facts": [], "systems": [], "note": "The pilot is cross-border verification between national systems, not another service checking people against the ID."},
+"RWA": {"facts": [], "systems": [], "note": "The pilot is cross-border verification between national systems, not another service checking people against the ID."}}},
+"paymentsuptake": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No survey figure."},
+"GHA": {"facts": [], "systems": [], "note": "No survey figure."},
+"RWA": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"publicconsultation": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on consultation on a named digital law or policy."},
+"GHA": {"facts": [], "systems": [], "note": "The Internet Governance Forum in Accra is a forum, not a consultation on a named law or policy."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on consultation on a named digital law or policy."}}},
+"regionalpolicy": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Benin, Ghana and Rwanda completed the first phase of the Smart Africa Data Exchange pilot, a Smart Africa cross-border identity verification trial, per an opinion piece by the Africa Prosperity Network chair.", "as_of": "2026-11-03", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "cooperation"}], "systems": [], "note": ""},
+"GHA": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Benin, Ghana and Rwanda completed the first phase of the Smart Africa Data Exchange pilot, a Smart Africa cross-border identity verification trial, per an opinion piece by the Africa Prosperity Network chair.", "as_of": "2026-11-03", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "cooperation"}], "systems": [], "note": ""},
+"RWA": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Benin, Ghana and Rwanda completed the first phase of the Smart Africa Data Exchange pilot, a Smart Africa cross-border identity verification trial, per an opinion piece by the Africa Prosperity Network chair.", "as_of": "2026-11-03", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "cooperation"}], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on Benin's retail payments."},
+"GHA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "An Africa Prosperity Network opinion piece says over one billion mobile money transactions were recorded in Ghana in a single month, August 2026.", "as_of": "2026-08", "date_precision": "month", "system": "mobile money", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The piece says Ghana was the first to do comprehensive mobile money interoperability, in 2018.", "as_of": "2018", "date_precision": "year", "system": "mobile money interoperability", "class": "retail"}], "systems": [], "note": ""},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on Rwanda's retail payments."}}},
+"revenuecollection": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-16-tza-inec-announces-2nd-updating-voter-registrar",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "checked",
+       "value": "open",
+       "fact": "INEC chairperson Jacobs Mwambegele said the Preliminary Voters' Register would be publicly displayed during the second update of the Permanent Voter Register from 1 May 2025, so citizens could verify, correct or object to entries.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Permanent Voter Register",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Permanent Voter Register",
+       "country_label": "Tanzania",
+       "class": "electoral",
+       "platform": "voter register",
+       "owner": "INEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

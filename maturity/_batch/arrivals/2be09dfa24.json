@@ -1,0 +1,52 @@
+{
+ "slug": "2023-11-15-tgo-processus-electoral-l-oif-certifie-la-fiabilite-du-fichier-electoral-t",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "An OIF audit mission judged the biometric electoral register, with 4,432,936 voters counted after the 2023 census, reliable enough for the regional and legislative polls.",
+       "as_of": "2023-11-15",
+       "date_precision": "day",
+       "system": "fichier electoral biometrique",
+       "class": "electoral"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Voter register only; no national ID coverage."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Voter register audit, not a national ID system."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  }
+ }
+}

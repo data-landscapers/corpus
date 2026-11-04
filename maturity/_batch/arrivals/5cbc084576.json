@@ -1,0 +1,154 @@
+{
+ "slug": "2026-07-22-cpv-ja-sabe-como-aceder-aos-servicos-publicos-sem-sair-de-casa-analisamos",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Caboverde24 reports that Cabo Verde's Gov.cv portal, launched in February 2026, offers about ten services analysed, including online criminal record requests, nationality requests and higher education applications, plus order tracking.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "Gov.cv",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Gov.cv",
+       "country_label": "Cabo Verde",
+       "class": "eservices",
+       "platform": "web portal and Android/iOS app",
+       "owner": "Casa do Cidadao",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Caboverde24 reports that the ID.GOV.CV digital ID wallet keeps a person's digital identity on the phone, with its own iOS and Android app.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "ID.GOV.CV",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "Caboverde24 reports that the ID.GOV.CV digital ID wallet app is available on iOS and Android as a government Gov.cv service.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "ID.GOV.CV",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ID.GOV.CV",
+       "country_label": "Cabo Verde",
+       "class": "authentication",
+       "platform": "mobile wallet app (iOS, Android)",
+       "owner": "Government of Cabo Verde",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

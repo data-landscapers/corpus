@@ -1,0 +1,10 @@
+{"slug": "2026-11-03-xwa-pressafrik-pi-spi-obligatoire-confusion-usagers", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Article is about PI-SPI in the WAEMU; it does not name Senegal and says nothing on e-procurement."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "BCEAO and PI-SPI are described for the whole WAEMU; the article never names Senegal as a country, only through a Senegalese academic."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Mentions privacy and fraud risks only; no consumer rules or redress body stated for Senegal."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "PI-SPI is described as a WAEMU-wide platform; Senegal is not named, and no cross-border corridor or figure is stated."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government payments to people mentioned."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No account-holding survey figure stated; the 38 million with access is a WAEMU service reach figure, not a survey."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Article covers WAEMU-wide PI-SPI and names Orange Money, Flash and Wave but never ties them to Senegal by name."}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a general WAEMU remark that states can collect revenue better; no electronic payment of taxes stated."}}}
+}}

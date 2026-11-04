@@ -1,0 +1,72 @@
+{
+ "slug": "2025-04-08-mwi-press-briefing-speech-on-voter-transfers-and-inspection-of-the-voters",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The Malawi Electoral Commission said its Election Management System database held 7,202,756 valid voter records for the 2025 election, with fingerprint verification used for voter transfers.",
+       "as_of": "2025-04-08",
+       "date_precision": "day",
+       "system": "Election Management System",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Election Management System",
+       "country_label": "MWI",
+       "class": "electoral",
+       "platform": "",
+       "owner": "Malawi Electoral Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "The Commission authorised its ICT Directorate to upload 2,563 outstanding records onto the Election Management System database.",
+       "as_of": "2025-04-02",
+       "date_precision": "day",
+       "system": "Election Management System",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil registration."
+    }
+   }
+  }
+ }
+}

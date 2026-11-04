@@ -1,0 +1,106 @@
+{
+ "slug": "2026-09-22-mar-morocco-voters-can-check-polling-stations-by-text-website-or-mobile-ap",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "checked",
+       "value": "open",
+       "fact": "Morocco's Interior Ministry says voters can check their registration and polling station by SMS to 2727, the electoral-rolls website or the MonBV app, using their national identity card number.",
+       "as_of": "2026-09-22",
+       "date_precision": "day",
+       "system": "General electoral rolls lookup (SMS 2727, website, MonBV app)",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MonBV",
+       "country_label": "Morocco",
+       "class": "electoral",
+       "platform": "mobile app",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

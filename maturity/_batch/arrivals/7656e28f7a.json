@@ -1,0 +1,108 @@
+{
+ "slug": "2025-02-06-mar-aljarida24-11-million-e-service-operations-monthly",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The minister of digital transition said the DGSN-developed Hawiyati digital identity platform had been used by 1.7 million people, 6% of the population, to the end of October 2024.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "Hawiyati",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Hawiyati",
+       "country_label": "Morocco",
+       "class": "authentication",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The minister of digital transition told parliament more than 600 e-services were inventoried, about 300 for citizens and over 200 for businesses, running 11 million operations a month.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "e-services",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  }
+ }
+}

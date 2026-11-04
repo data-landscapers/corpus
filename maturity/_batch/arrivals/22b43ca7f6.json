@@ -1,0 +1,9 @@
+{"slug": "2025-02-25-lby-hnec-sms-voter-registration-check", "studies": {
+"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "SMS voter-registration check is not an ID authentication service."}}},
+"birthidlink": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document does not mention civil register or ID links."}}},
+"idcoverage": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"LBY": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "The High National Elections Commission (HNEC) says voters check their registration, and register in the voter register, by SMS to 17017 using their National Number and polling-centre number.", "as_of": "2025-02-25", "date_precision": "day", "system": "Voter register (HNEC)", "class": "register"}], "systems": [{"system": "Voter register (HNEC)", "country_label": "Libya", "class": "register", "platform": "SMS to 17017", "owner": "HNEC", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document names a National Number but states nothing on the ID system itself."}}}
+}}

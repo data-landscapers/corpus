@@ -1,0 +1,20 @@
+{"slug": "2026-05-18-gin-la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administra", "studies": {
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing stated on a civil register to ID link."}}},
+"civilregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Civil-status acts are named only as requests on the portal; no digital register described."}}},
+"civilserviceskills": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The ministry of administrative modernisation and civil service presented on 15 May 2026 a programme of nine projects that includes strengthening public agents' capacity to use digital tools.", "as_of": "2026-05-15", "date_precision": "day", "system": "Neuf projets stratégiques (Ministère de la Modernisation de l'administration et de la Fonction publique)", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "We are Tech reports that Guinea has a national public-services portal giving access to several online procedures, including passport, visa, civil-status act and biometric permit requests; no count is given.", "as_of": "2026-05", "date_precision": "month", "system": "portail national de services publics", "class": "eservices"}
+], "systems": [{"system": "portail national de services publics / GUSP", "country_label": "Guinea", "class": "eservices", "platform": "web portal", "owner": "Ministry of Modernisation of Administration and Civil Service", "tiers": ""}, {"system": "FUGAS", "country_label": "Guinea", "class": "other", "platform": "HR management platform", "owner": "Ministry of Civil Service", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing stated on an ID number at birth."}}},
+"idrobustness": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Biometric permits are named but no national ID system is described."}}},
+"registry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on how civil registration offices record events."}}},
+"revenuecollection": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The government has launched eTax for online declaration and online payment of taxes, according to We are Tech.", "as_of": "2026-05", "date_precision": "month", "system": "eTax", "class": "revenue"}
+], "systems": [{"system": "eTax", "country_label": "Guinea", "class": "revenue", "platform": "online tax platform", "owner": "government", "tiers": ""}], "note": ""}}},
+"taxadmin": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The government has launched the eTax platform for online tax declaration (télédéclaration), according to We are Tech.", "as_of": "2026-05", "date_precision": "month", "system": "eTax", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "The eTax platform also allows online payment (télépaiement) of taxes, according to We are Tech.", "as_of": "2026-05", "date_precision": "month", "system": "eTax", "class": "taxsystem"}
+], "systems": [{"system": "eTax", "country_label": "Guinea", "class": "taxsystem", "platform": "online tax platform", "owner": "government", "tiers": ""}], "note": ""}}}
+}}

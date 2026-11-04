@@ -1,0 +1,133 @@
+{
+ "slug": "2026-11-03-cybersecurite-le-niger-sollicite-lexperience-du-burkina-faso-pour-son",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "ANSSI-BF's director general says the agency diffused 19 security alerts to organisations connected to its SOC in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "ANSSI-BF",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANSSI-BF",
+       "country_label": "Burkina Faso",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Burkina Faso",
+       "tiers": ""
+      },
+      {
+       "system": "SOC national",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "",
+       "owner": "ANSSI-BF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "Niger adopted a national cybersecurity strategy in December 2022 for 2023-2027, per the report.",
+       "as_of": "2022-12",
+       "date_precision": "month",
+       "system": "Strat\u00e9gie nationale de cybers\u00e9curit\u00e9",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The government adopted decrees in October 2025 creating the Centre national de cybers\u00e9curit\u00e9 (CNAC) as a public administrative establishment and approving its statutes.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "CNAC",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNAC",
+       "country_label": "Niger",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Niger",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no interoperability standards."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no interoperability standards."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no government staff running a named system, nor a technology body serving government."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no government staff running a named system, nor a technology body serving government."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bilateral study mission is stated; no African digital policy body, agreement or seat named."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bilateral study mission is stated; no African digital policy body, agreement or seat named."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on schools."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on schools."
+    }
+   }
+  }
+ }
+}

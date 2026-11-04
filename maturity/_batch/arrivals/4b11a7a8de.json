@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-23-tza-tanzania-invites-public-inputs-on-tax-policy-via-digital-portal",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "standing",
+       "fact": "Tanzania's Ministry of Finance says its Maoni Portal is open to the public and that each December it opens a digital consultation window on improving the tax system.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "Maoni Portal",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maoni Portal",
+       "country_label": "Tanzania",
+       "class": "eparticipation",
+       "platform": "online portal",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

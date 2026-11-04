@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-23-gab-gabon-catalogue-national-presentation-de-l-interface-de-la-future-plat",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Catalogue national des services publics (CNSP)",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "government platform in development",
+       "owner": "ANINF",
+       "tiers": ""
+      }
+     ],
+     "note": "The national catalogue of public services is an unfinished catalogue platform (80% complete); no service stated as live online."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "The AGP news agency reports ANINF experts, with World Bank funding, designed the digital tool for the national public-services catalogue covering over 300 ministerial services, whose interface was presented on 22 April 2026.",
+       "as_of": "2026-04-22",
+       "date_precision": "day",
+       "system": "Catalogue national des services publics (CNSP)",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Catalogue national des services publics (CNSP)",
+       "country_label": "Gabon",
+       "class": "staff",
+       "platform": "government platform in development",
+       "owner": "ANINF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

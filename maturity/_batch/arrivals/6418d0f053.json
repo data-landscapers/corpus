@@ -1,0 +1,107 @@
+{
+ "slug": "2026-06-06-stp-eleicoes-26-pelo-menos-142-298-eleitores-inscritos-para-as-eleicoes-pr",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The National Electoral Commission (CEN) says 142,298 voters are enrolled for the 19 July 2026 presidential election, on a roll compiled automatically for the first time.",
+       "as_of": "2026-06-06",
+       "date_precision": "day",
+       "system": "Recenseamento eleitoral automático",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The CEN says the roll was compiled automatically from the Direcção dos Registos Civis database, though many people were left out.",
+       "as_of": "2026-06-06",
+       "date_precision": "day",
+       "system": "Recenseamento eleitoral automático",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Recenseamento eleitoral automático",
+       "country_label": "São Tomé e Príncipe",
+       "class": "electoral",
+       "platform": "",
+       "owner": "CEN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  }
+ }
+}

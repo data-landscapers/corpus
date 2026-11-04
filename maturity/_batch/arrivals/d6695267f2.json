@@ -1,0 +1,45 @@
+{
+ "slug": "2025-06-03-gmb-public-consultation-on-the-draft-gateway-traffic-measurement-and-reven",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "The Gambia's PURA posted the draft Gateway Traffic Measurement and Revenue Assurance Regulations 2025 for public comment from 3 to 17 June 2025, with comments sent by e-mail.",
+       "as_of": "2025-06-03",
+       "date_precision": "day",
+       "system": "Draft Gateway Traffic Measurement and Revenue Assurance Regulations 2025",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The Gambia's regulator PURA invited licensees, ministries, consumers and the public to comment on its draft Gateway Traffic Measurement and Revenue Assurance Regulations 2025 between 3 and 17 June 2025.",
+       "as_of": "2025-06-03",
+       "date_precision": "day",
+       "system": "Gateway Traffic Measurement and Revenue Assurance Regulations 2025",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

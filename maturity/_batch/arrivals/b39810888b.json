@@ -1,0 +1,128 @@
+{
+ "slug": "2024-10-14-bfa-identification-unique-electronique-de-la-personne-physique-les-deputes",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "The Transitional Legislative Assembly adopted unanimously (69 votes) on 11 October 2024 the 36-article law on unique electronic identification of the natural person; promulgation is not stated.",
+       "as_of": "2024-10-11",
+       "date_precision": "day",
+       "system": "identification unique électronique de la personne physique",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Drawing the electoral file from the ID base is a future intention; no roll in service is described."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Minister Aminata Zerbo says that once the identity base is built the national electoral commission (CENI) will draw its electoral file from it instead of enrolling voters for each election.",
+       "as_of": "2024-10-11",
+       "date_precision": "day",
+       "system": "identification unique électronique de la personne physique",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Minister Aminata Zerbo says that under the WURI project a pilot phase of the unique electronic identification system is expected, followed by mass enrolment aiming at 80% of the population.",
+       "as_of": "2024-10-11",
+       "date_precision": "day",
+       "system": "identification unique électronique de la personne physique",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "identification unique électronique de la personne physique",
+       "country_label": "Burkina Faso",
+       "class": "idsystem",
+       "platform": "WURI project",
+       "owner": "Ministry of Digital Transition",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

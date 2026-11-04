@@ -1,0 +1,115 @@
+{
+ "slug": "2025-04-01-tgo-la-revision-des-listes-electorales-annoncee-du-07-au-23-avril-2025-en",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "A presidential decree of 1 April 2025 opened roll revision from 7 to 23 April 2025, in which the CENI revises the electoral file and issues biometric voter cards.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "fichier \u00e9lectoral",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "fichier \u00e9lectoral",
+       "country_label": "Togo",
+       "class": "electoral",
+       "platform": "",
+       "owner": "CENI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  }
+ }
+}

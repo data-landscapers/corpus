@@ -1,0 +1,41 @@
+{
+ "slug": "2026-11-03-mdg-lexpress-jonah-andrianantoanina-secteur-numerique-changer-echelle",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only AI data-annotation work for foreign firms and a general digital bill; nothing the study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only AI data-annotation work for foreign firms and a general digital bill; nothing the study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only AI data-annotation work for foreign firms and a general digital bill; nothing the study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only AI data-annotation work for foreign firms and a general digital bill; nothing the study asks."
+    }
+   }
+  }
+ }
+}

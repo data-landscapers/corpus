@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-19-sdn-totel-column-baladna-platform-usage",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Columnist Hassan al-Sir reports browsing the Baladna platform and finding 79 digital services from 42 government bodies.",
+       "as_of": "2026-08-18",
+       "date_precision": "day",
+       "system": "Baladna",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "usage",
+       "value": "published",
+       "fact": "Columnist Hassan al-Sir reports the Baladna platform showing 181,958 completed transactions.",
+       "as_of": "2026-08-18",
+       "date_precision": "day",
+       "system": "Baladna",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Baladna",
+       "country_label": "Sudan",
+       "class": "eservices",
+       "platform": "national platform",
+       "owner": "Ministry of Communications and Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

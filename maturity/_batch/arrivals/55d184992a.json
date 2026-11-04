@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-15-nga-fg-launches-new-citizenship-business-management-platform",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The Ministry of Interior announced the launch of an online Citizenship and Business Management Platform at candb.interior.gov.ng for applications for citizenship and business services.",
+       "as_of": "2025-05-15",
+       "date_precision": "day",
+       "system": "Online Citizenship and Business Management Platform",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Online Citizenship and Business Management Platform",
+       "country_label": "Nigeria",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

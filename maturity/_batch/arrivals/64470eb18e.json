@@ -1,0 +1,356 @@
+{
+ "slug": "2026-11-03-xwa-anp-bceao-pi-spi-obligatoire-entree-en-vigueur",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."
+    }
+   }
+  }
+ }
+}

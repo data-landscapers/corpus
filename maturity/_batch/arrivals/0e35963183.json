@@ -1,0 +1,184 @@
+{
+ "slug": "2025-01-02-mli-loi-electorale-les-articles-52-57-et-70-modifies",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "No authentication service stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Voter lists sent to the biometric civil-status base for the definitive NINA is not a stated civil register to ID link."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A biometric civil-status database is named; births or deaths registered digitally are not stated."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The electoral law amendment is not an identity law."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "L'Essor reports that under the amended electoral law the Administrative Commission automatically enrols voters from the biometric civil-status database, and electoral lists are revised annually from 1 October to 31 December, with errors corrected after computer processing of rectification tables.",
+       "as_of": "2025-01-02",
+       "date_precision": "day",
+       "system": "Liste electorale (Loi electorale 2022-019 as amended by Ordonnance 2024-022)",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "checked",
+       "value": "open",
+       "fact": "L'Essor reports the new electoral list is posted at the commune secretariat, embassy or consulate at the latest seven days before the vote.",
+       "as_of": "2025-01-02",
+       "date_precision": "day",
+       "system": "Liste electorale (Loi electorale 2022-019 as amended by Ordonnance 2024-022)",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "L'Essor reports the Administrative Commission enrols by right citizens holding a NINA and those in the biometric civil-status database with photo and fingerprints, and sends a copy of each list to the service managing that database.",
+       "as_of": "2025-01-02",
+       "date_precision": "day",
+       "system": "Liste electorale (Loi electorale 2022-019 as amended by Ordonnance 2024-022)",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Liste electorale (Loi electorale 2022-019 as amended by Ordonnance 2024-022)",
+       "country_label": "Mali",
+       "class": "electoral",
+       "platform": "biometric civil-status database",
+       "owner": "Ministry of Territorial Administration; AIGE supervises",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who operates or owns the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "L'Essor reports the Administrative Commission enrols voters automatically from those holding a national identification number (NINA).",
+       "as_of": "2025-01-02",
+       "date_precision": "day",
+       "system": "Liste electorale (Loi electorale 2022-019 as amended by Ordonnance 2024-022)",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "L'Essor describes a biometric civil-status database holding photos and fingerprints and a national identification number (NINA), the definitive NINA being assigned by the service managing that database.",
+       "as_of": "2025-01-02",
+       "date_precision": "day",
+       "system": "NINA / biometric civil-status database",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police records."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on digital entry of births or deaths at registration offices."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on school connectivity."
+    }
+   }
+  }
+ }
+}

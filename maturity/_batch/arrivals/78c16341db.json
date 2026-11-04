@@ -1,0 +1,25 @@
+{
+ "slug": "2024-01-16-tcd-tchad-le-premier-ministre-succes-masra-consulte-les-tchadiens-sur-les",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "RFI reported that Prime Minister Masra asked the public on social media platforms for their expectations and three priority sectors for the government programme to be presented on 18 January 2024.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "social media consultation",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

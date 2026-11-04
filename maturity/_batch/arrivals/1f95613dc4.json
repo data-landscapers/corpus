@@ -1,0 +1,115 @@
+{
+ "slug": "2026-01-01-zaf-how-to-check-where-you-are-registered-to-vote",
+ "studies": {
+  "aigovernment": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "checked",
+       "value": "open",
+       "fact": "The Electoral Commission of South Africa (IEC) says voters can check their registration by website, SMS with ID number to 32810, call centre, online portal, WhatsApp chatbot or mobile app, ahead of the 20-21 June 2026 registration weekend.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "IEC voter registration platforms",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Online Voter Registration Service / Voter Information Portal",
+       "country_label": "South Africa",
+       "class": "electoral",
+       "platform": "web portal, SMS, WhatsApp chatbot, mobile app",
+       "owner": "Electoral Commission of South Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,10 +1,9 @@
 {"slug": "2026-10-30-lso-movable-assets-unlock-loans-for-businesses", "studies": {
-"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Collateral registry article; nothing on e-procurement."}}},
-"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Central bank role stated is collateral registry and supervision, not payments licensing, switch or PAPSS."}}},
-"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on consumer protection for digital finance."}}},
-"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
-"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
-"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
-"retailpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
-"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+"addressregister": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"businessregister": {"countries": {"LSO": {"facts": [], "systems": [{"system": "LERIMA (Lesotho Electronic Registry of Interests in Movable Assets)", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Central Bank of Lesotho", "tiers": ""}], "note": "LERIMA is a collateral registry, not a register of firms."}}},
+"civilregister": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"electoralregister": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on the voters' roll."}}},
+"landregister": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Movable-asset collateral registry only; no land register stated."}}},
+"registry": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}},
+"socialregistry": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on social registries."}}}
 }}

@@ -1,0 +1,174 @@
+{
+ "slug": "2024-08-06-mwi-malawi-insists-id-card-compulsory-for-scheduled-biometric-voter-regist",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "underway",
+       "fact": "The Malawi Electoral Commission announced biometric voter registration starting September 2024 in three phases, and has been demonstrating the Smartmatic-supplied registration devices.",
+       "as_of": "2024-08-02",
+       "date_precision": "day",
+       "system": "MEC biometric voter registration",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "MEC chairperson Annabel Mtalimanja said only people holding a national ID card will be allowed to register as voters.",
+       "as_of": "2024-08-02",
+       "date_precision": "day",
+       "system": "MEC biometric voter registration",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MEC biometric voter registration",
+       "country_label": "Malawi",
+       "class": "electoral",
+       "platform": "Smartmatic devices",
+       "owner": "Malawi Electoral Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The National Registration Bureau issues national ID cards to citizens aged 18 and over, and in July 2024 received about one million cards printed in India.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "Malawi national ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malawi national ID card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "MEC requires a national ID card to register as a voter, so the voter registration exercise checks people against the national ID.",
+       "as_of": "2024-08-02",
+       "date_precision": "day",
+       "system": "Malawi national ID card",
+       "class": "relying"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  }
+ }
+}

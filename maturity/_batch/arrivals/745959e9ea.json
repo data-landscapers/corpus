@@ -1,0 +1,41 @@
+{
+ "slug": "2024-04-24-gab-un-nouveau-chapitre-pour-le-gabon-linclusivite-au-cur-de-la-preparatio",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Disabled people's participation in a national consultation, not digital accessibility."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MBOVA",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "digital platform",
+       "owner": "Transition government (CTRI)",
+       "tiers": ""
+      }
+     ],
+     "note": "MBOVA gathered 12,000 proposals for the national dialogue, but no named law or policy is put to it."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "National dialogue consultations name no digital law or policy."
+    }
+   }
+  }
+ }
+}

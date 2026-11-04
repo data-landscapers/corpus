@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-09-sdn-khartoum-commercial-licence-baladna",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Khartoum State launched commercial licence issuing on the Baldna platform, where applicants complete the application and follow it to issue online.",
+       "as_of": "2026-05-09",
+       "date_precision": "day",
+       "system": "Baldna",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Baldna",
+       "country_label": "Sudan",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Khartoum State government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

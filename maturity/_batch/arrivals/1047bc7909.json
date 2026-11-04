@@ -1,0 +1,106 @@
+{
+ "slug": "2026-11-02-eu-inec-ai-electoral-misinformation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "INEC's deepfake monitoring is under development; no rule, draft or authority is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "INEC's monitoring mechanisms are being developed, not an AI system in service."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Executive Secretary of the Nigerian Press Council, speaking for the Minister of Information, cited the Federal Government's National Artificial Intelligence Strategy, published in 2024, as the framework for AI development and deployment (Voice of Nigeria).",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National Artificial Intelligence Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Artificial Intelligence Strategy",
+       "country_label": "Nigeria",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Federal Government of Nigeria",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The summit and press council remarks state no criticism of a named policy, cut or punishment."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2023-12-02-cod-une-application-mobile-mise-a-jour-pour-consulter-les-electeurs",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "checked",
+       "value": "open",
+       "fact": "CENI says an enrolled voter can use its mobile app, with the 11-digit national number or the voter card QR code, to look up their polling station, beside the display and consultation of voter lists.",
+       "as_of": "2023-12-02",
+       "date_precision": "day",
+       "system": "CENI mobile app",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CENI mobile app",
+       "country_label": "DR Congo",
+       "class": "electoral",
+       "platform": "mobile app",
+       "owner": "CENI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

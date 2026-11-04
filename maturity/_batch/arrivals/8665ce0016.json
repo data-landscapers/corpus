@@ -1,0 +1,124 @@
+{
+ "slug": "2024-03-18-som-speaker-madobe-launches-digital-platform-for-public-consultations-on-c",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "On 17 March 2024 Lower House Speaker Madobe launched a Digital Platform for Public Consultations, built by the Independent Constitutional Review and Implementation Commission, to gather citizens' feedback on the proposed constitutional amendments, per Radio Dalsan.",
+       "as_of": "2024-03-17",
+       "date_precision": "day",
+       "system": "Digital Platform for Public Consultations on Constitutional Review",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Platform for Public Consultations on Constitutional Review",
+       "country_label": "Somalia",
+       "class": "eparticipation",
+       "platform": "",
+       "owner": "Independent Constitutional Review and Implementation Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Constitutional review consultation is not about a digital law or policy."
+    }
+   }
+  }
+ }
+}

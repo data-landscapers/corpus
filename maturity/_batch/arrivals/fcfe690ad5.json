@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-16-mrt-ami-ijraati-administrative-procedures-portal-workshop",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ijraati",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": "Ijraati publishes administrative procedures; digitising the most-requested ones into Khidmaty is a roadmap stage, with no service stated completed online."
+    }
+   }
+  }
+ }
+}

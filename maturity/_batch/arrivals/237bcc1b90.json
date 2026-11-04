@@ -1,10 +1,23 @@
-{"slug": "2026-08-24-nga-fg-releases-new-operational-guidelines-for-waec-neco-students-assessme", "studies": {
-"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on authentication services."}}},
-"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No civil register link is stated."}}},
-"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No count or share of people holding the NIN is given."}}},
-"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
-"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on who operates or owns the ID system."}}},
-"idregisters": {"countries": {"NGA": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "Tribune reports the Federal Government's new national Continuous Assessment guidelines enforce National Learner Identity Numbers (NLIN) linked to the National Identification Number (NIN) for all secondary students, applying from the 2026/2027 session.", "as_of": "2026-08-24", "date_precision": "day", "system": "National Learner Identity Number (NLIN) linked to NIN", "class": "register"}], "systems": [{"system": "Nigeria Education Data Infrastructure (NEDI)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "Federal Ministry of Education", "tiers": ""}], "note": ""}}},
-"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on the NIN system's issuance, biometrics or certification."}}},
-"schools": {"countries": {"NGA": {"facts": [], "systems": [{"system": "Continuous Assessment portals of WAEC and NECO, linked to NEDI", "country_label": "Nigeria", "class": "single-function", "platform": "", "owner": "WAEC and NECO", "tiers": ""}], "note": "Termly upload of continuous assessment records to examination-body portals is an examination function for secondary schools, not a primary school EMIS."}}}
-}}
+{
+ "slug": "2026-08-24-nga-fg-releases-new-operational-guidelines-for-waec-neco-students-assessme",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Nigeria Education Data Infrastructure (NEDI)",
+       "country_label": "Nigeria",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Federal Ministry of Education",
+       "tiers": ""
+      }
+     ],
+     "note": "The guidelines require exam-body portals to link to NEDI and NLIN to be tied to NIN from 2026/27; a mandate, not a link stated built, piloted or in service."
+    }
+   }
+  }
+ }
+}

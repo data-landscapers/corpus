@@ -1,0 +1,136 @@
+{
+ "slug": "2026-10-13-swz-15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "EBC only plans outreach to persons with disabilities; no accessible service delivered."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The EBC says over 15,000 Emaswati had registered to vote by 13 October 2026 through electronic voter registration, including by mobile phone and registration corners.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "Electronic voter registration",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The EBC says under the Voter Registration Amendment Act of 2023 applicants must present a national identity card as proof of identity and citizenship.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "Electronic voter registration",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic voter registration",
+       "country_label": "Electronic voter registration",
+       "class": "electoral",
+       "platform": "mobile phone and registration corners",
+       "owner": "Elections and Boundaries Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The national ID card is required as proof at registration; the roll is not said to be keyed on the number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The EBC says voter applicants must present a national identity card as proof of identity and citizenship.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "National identity card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National identity card",
+       "country_label": "National identity card",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

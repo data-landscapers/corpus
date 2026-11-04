@@ -1,0 +1,11 @@
+{"slug": "2025-07-11-cmr-presidentielle-2025-cameroun-le-corps-electoral-convoque-le-fichier-el", "studies": {
+"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document is about the electoral roll; states nothing on AI harms."}}},
+"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on AI in administration."}}},
+"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on sectoral AI."}}},
+"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on AI built in the country."}}},
+"electoralregister": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "Elecam put its electoral roll online at www.elecam.cm from 10 July 2025, so citizens registered between 2012 and 2024 can check their data and lodge claims; its director general says the roll holds 7,845,622 voters.", "as_of": "2025-07-10", "date_precision": "day", "system": "Elecam online electoral roll (www.elecam.cm)", "class": "electoral"}
+], "systems": [{"system": "Elecam online electoral roll (www.elecam.cm)", "country_label": "Cameroon", "class": "electoral", "platform": "www.elecam.cm", "owner": "Elections Cameroon (Elecam)", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document gives a voter count, not national ID enrolment."}}},
+"regionalpolicy": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on African regional digital policy."}}}
+}}

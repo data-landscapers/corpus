@@ -1,0 +1,43 @@
+{
+ "slug": "2024-01-08-nga-immigration-unveils-online-passport-application-portal-today",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no training for civil servants."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Punch reports the Interior Minister was to launch the first online passport application portal in Abuja on 8 January 2024, after a demonstration; applicants apply at passport.immigration.gov.ng.",
+       "as_of": "2024-01-08",
+       "date_precision": "day",
+       "system": "Online passport application portal",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Online passport application portal",
+       "country_label": "Nigeria",
+       "class": "eservices",
+       "platform": "passport.immigration.gov.ng",
+       "owner": "Nigeria Immigration Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

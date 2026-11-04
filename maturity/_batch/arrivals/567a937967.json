@@ -1,0 +1,41 @@
+{
+ "slug": "2026-11-03-zaf-fake-sims-hold-sa-to-ransom",
+ "studies": {
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No national ID system described."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only proposes ID-matched SIM checks; no verification in use stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Concerns SIM-crime enforcement, not station records."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an unfulfilled promise of a draft for stakeholder engagement; no consultation held."
+    }
+   }
+  }
+ }
+}

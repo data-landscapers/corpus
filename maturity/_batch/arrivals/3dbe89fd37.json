@@ -1,0 +1,61 @@
+{
+ "slug": "2024-06-08-tza-inec-unveils-upgraded-bvr-kits-for-smooth-register-update",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only priority queuing for disabled people at registration; no digital accessibility."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "INEC said it would update the Permanent Voters' Register from 1 July 2024 using upgraded Biometric Voter Registration kits, with the register projected at 34,746,638 voters after the update.",
+       "as_of": "2024-06-07",
+       "date_precision": "day",
+       "system": "Permanent Voters' Register / BVR",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Permanent Voters' Register (BVR kits, Voters Registration System)",
+       "country_label": "Tanzania",
+       "class": "electoral",
+       "platform": "",
+       "owner": "INEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the voter register is described; no national ID system stated."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No mobile ownership figure stated."
+    }
+   }
+  }
+ }
+}

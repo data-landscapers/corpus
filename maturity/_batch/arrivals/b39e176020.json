@@ -1,0 +1,31 @@
+{"slug": "2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometrique", "studies": {
+"addressregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No civil register to ID record exchange stated; only a joint census."}}},
+"businessregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on business registration."}}},
+"civilregister": {"countries": {"GIN": {"facts": [], "systems": [{"system": "PN-RAVEC", "country_label": "Guinea", "class": "other", "platform": "", "owner": "MATD", "tiers": ""}], "note": "PN-RAVEC is an administrative census; no digital civil registration of births and deaths stated."}}},
+"digitalidlaw": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Guinea's national director of political and electoral affairs said the country has a law on the identification of natural persons.", "as_of": "2025-04-01", "date_precision": "day", "system": "Loi sur l'identification des personnes physiques", "class": "law"},
+{"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The same official said the law allows biometric data to be recorded from age 10 and a national identity card issued.", "as_of": "2025-04-01", "date_precision": "day", "system": "Loi sur l'identification des personnes physiques", "class": "law"}
+], "systems": [], "note": ""}}},
+"electoralregister": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "electoral", "aspect": "roll", "value": "underway", "fact": "The Prime Minister received 3,000 biometric enrolment kits on 1 April 2025, with a second 3,000 expected, to begin constituting the electoral file under PN-RAVEC.", "as_of": "2025-04-01", "date_precision": "day", "system": "PN-RAVEC", "class": "electoral"},
+{"sub_indicator": "electoral", "aspect": "linked", "value": "linked", "fact": "The national director of political and electoral affairs said the biometric census would constitute the national register of natural persons and the electoral file simultaneously.", "as_of": "2025-04-01", "date_precision": "day", "system": "PN-RAVEC", "class": "electoral"}
+], "systems": [{"system": "PN-RAVEC", "country_label": "Guinea", "class": "electoral", "platform": "", "owner": "MATD", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No register keyed on an ID number stated."}}},
+"idrobustness": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Guinea's government received 3,000 biometric enrolment kits on 1 April 2025 to begin enrolment for the national register of natural persons and ID cards.", "as_of": "2025-04-01", "date_precision": "day", "system": "Registre national des personnes physiques", "class": "idsystem"},
+{"sub_indicator": "robustness", "aspect": "biometric", "value": "checked", "fact": "The government said the kits, with fingerprint sensors and iris recognition, guarantee the uniqueness of each citizen.", "as_of": "2025-04-01", "date_precision": "day", "system": "Registre national des personnes physiques", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on land."}}},
+"police": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Gendarmerie chief of staff attended; nothing on station records."}}},
+"populationregister": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "underway", "fact": "The government said the biometric census under PN-RAVEC, launched with 3,000 kits received on 1 April 2025, would constitute the national register of natural persons.", "as_of": "2025-04-01", "date_precision": "day", "system": "Registre national des personnes physiques", "class": "population"}
+], "systems": [{"system": "Registre national des personnes physiques", "country_label": "Guinea", "class": "population", "platform": "", "owner": "MATD", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}},
+"socialregistry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on social registries."}}},
+"taxregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

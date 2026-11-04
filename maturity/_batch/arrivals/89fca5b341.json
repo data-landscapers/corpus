@@ -1,0 +1,62 @@
+{
+ "slug": "2024-11-23-ben-e-services-publics-au-benin-ces-chiffres-qui-temoignent-d-une-vision-s",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Digital minister Aurelie Adam Soule Zoumarou said on 21 November 2024 that people can use more than 200 e-services on service-public.bj.",
+       "as_of": "2024-11-21",
+       "date_precision": "day",
+       "system": "service-public.bj",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "usage",
+       "value": "published",
+       "fact": "The digital minister said service-public.bj had handled over 1 million water bill payments, nearly 900,000 electricity bill payments, over 500,000 criminal record requests, over 80,000 e-visas and over 200,000 passport requests.",
+       "as_of": "2024-11-21",
+       "date_precision": "day",
+       "system": "service-public.bj",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "service-public.bj",
+       "country_label": "Benin",
+       "class": "eservices",
+       "platform": "national portal",
+       "owner": "Ministry of Digital Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated about the national ID system."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Criminal record requests are an identification or public service, not a station record of reports or cases."
+    }
+   }
+  }
+ }
+}

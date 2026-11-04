@@ -1,0 +1,92 @@
+{
+ "slug": "2024-11-12-mrt-decret-2024-154-portail-khidmaty",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Government data centre",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a government data centre hosting the state's portal is named; no data centre for hire."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "Decree 2024-154 requires new Khidmaty sub-platforms to follow authorisation of the Personal Data Protection Authority under law 2017-020 of 22 July 2017, naming the body in that law's scheme but not saying it is appointed.",
+       "as_of": "2024-11-12",
+       "date_precision": "day",
+       "system": "Autorit\u00e9 de Protection des Donn\u00e9es \u00e0 caract\u00e8re personnel",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Decree 2024-154 applies law 2017-020 of 22 July 2017 on the protection of personal data to the Khidmaty portal, with data subject rights and controller duties under it.",
+       "as_of": "2024-11-12",
+       "date_precision": "day",
+       "system": "Loi n\u00b0 2017-020",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "Decree 2024-154 says the Khidmaty public services portal is hosted at the government data centre under the Ministry of Digital Transformation.",
+       "as_of": "2024-11-12",
+       "date_precision": "day",
+       "system": "Government data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government data centre",
+       "country_label": "Mauritania",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Ministry of Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

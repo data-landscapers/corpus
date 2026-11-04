@@ -1,0 +1,22 @@
+{"slug":"2025-08-11-ben-electoral-file-audit-the-initial-conclusions-of-the-expert-mission","studies":{
+"authentication":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document does not state records passing from civil register to the ID system."}}},
+"censuses":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Administrative census RAVIP 2017 is an identification exercise, not a population census; no census or survey stated."}}},
+"electoralregister":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"electoral","aspect":"roll","value":"inservice","fact":"Mission head Ronsard Malonda said the legal framework covers the establishment of the computerized electoral list, and that the electoral file is extracted from the RNPP and FNEC registers.","as_of":"2025-08-11","date_precision":"day","system":"Electoral File","class":"electoral"},
+{"sub_indicator":"electoral","aspect":"checked","value":"open","fact":"The experts said the provisional electoral list is being displayed and an upcoming consultation will let voters verify their information, make claims and correct data.","as_of":"2025-08-11","date_precision":"day","system":"Electoral File","class":"electoral"},
+{"sub_indicator":"electoral","aspect":"linked","value":"linked","fact":"The experts said the Electoral File is extracted from the National Register of Physical Persons (RNPP) and the National Civil State File (FNEC), with duplicates eliminated upstream in the civil status file.","as_of":"2025-08-11","date_precision":"day","system":"Electoral File","class":"electoral"}],
+"systems":[{"system":"Electoral File","country_label":"Benin","class":"electoral","platform":"","owner":"ANIP","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No number given at birth stated."}}},
+"idmaintenance":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document names ANIP as the body deploying services locally but does not say who operates or maintains the system."}}},
+"idregisters":{"countries":{"BEN":{"facts":[{"sub_indicator":"registers","aspect":"register","value":"inservice","fact":"The experts said the Electoral File is extracted from the RNPP and FNEC registers, and that a unique identifier per citizen underlies the civil status file.","as_of":"2025-08-11","date_precision":"day","system":"Electoral File","class":"register"}],"systems":[],"note":""}}},
+"idrobustness":{"countries":{"BEN":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The experts said Benin, thanks to a unique identifier per citizen, has an overhauled civil status file, with RAVIP tablets still in use at town halls and ANIP services deployed locally.","as_of":"2025-08-11","date_precision":"day","system":"RAVIP / ANIP","class":"idsystem"}],"systems":[{"system":"RAVIP / ANIP","country_label":"Benin","class":"idsystem","platform":"RAVIP tablets","owner":"ANIP","tiers":""}],"note":""}}},
+"localgov":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Nothing on local government office connection."}}},
+"populationregister":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"population","aspect":"register","value":"inservice","fact":"The document names the RNPP, the National Register of Physical Persons, as one of three main registers fed by data collected in municipalities.","as_of":"2025-08-11","date_precision":"day","system":"RNPP","class":"population"},
+{"sub_indicator":"population","aspect":"vital","value":"updated","fact":"The experts said birth declarations are systematized and changes of residence and identification data are integrated through ANIP services in town halls.","as_of":"2025-08-11","date_precision":"day","system":"RNPP / FNEC","class":"population"},
+{"sub_indicator":"population","aspect":"used","value":"source","fact":"The experts said the Electoral File is extracted from the RNPP and FNEC.","as_of":"2025-08-11","date_precision":"day","system":"RNPP / FNEC","class":"population"}],
+"systems":[{"system":"RNPP","country_label":"Benin","class":"population","platform":"","owner":"ANIP","tiers":""}],"note":""}}},
+"registry":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Does not say the local office enters a birth digitally at registration."}}}
+}}

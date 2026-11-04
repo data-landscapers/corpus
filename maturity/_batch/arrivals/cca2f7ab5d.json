@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-30-tza-police-takwimu-uhalifu-januari-juni-2026",
+ "studies": {
+  "police": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Police crime statistics report",
+       "country_label": "Tanzania Police Force crime statistics",
+       "class": "statistics",
+       "platform": "",
+       "owner": "Tanzania Police Force",
+       "tiers": ""
+      }
+     ],
+     "note": "Periodic crime counts only; no station record system stated."
+    }
+   }
+  }
+ }
+}

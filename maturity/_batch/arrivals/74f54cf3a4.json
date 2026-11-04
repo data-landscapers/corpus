@@ -1,0 +1,10 @@
+{"slug":"2024-10-30-mrt-le-conseil-des-ministres-fixe-les-modalites-de-gestion-et-procedures-d","studies":{
+"digitaldivides":{"countries":{"MRT":{"facts":[],"systems":[],"note":"The universal access decree is mentioned only as a change of ministry and regulator roles, with no rural programme or figures."}}},
+"digitalstrategy":{"countries":{"MRT":{"facts":[],"systems":[],"note":"The document names no national digital strategy."}}},
+"domesticfinancing":{"countries":{"MRT":{"facts":[],"systems":[],"note":"The document gives no budget line, fund or spending."}}},
+"egovservices":{"countries":{"MRT":{"facts":[
+{"sub_indicator":"eservices","aspect":"services","value":"underway","fact":"The Council of Ministers on 30 October 2024 adopted a draft decree setting the management and access rules of the KHADAMATI public services portal, meant to ease citizens' access to administrative services.","as_of":"2024-10-30","date_precision":"day","system":"KHADAMATI","class":"eservices"}],
+"systems":[{"system":"KHADAMATI","country_label":"Mauritania","class":"eservices","platform":"","owner":"Government of Mauritania","tiers":""}],"note":""}}},
+"feedbackportals":{"countries":{"MRT":{"facts":[
+{"sub_indicator":"feedback","aspect":"channel","value":"underway","fact":"The Council of Ministers on 30 October 2024 adopted a draft decree on the KHADAMATI portal, which is to let citizens file grievances, reports and complaints through a secure digital infrastructure.","as_of":"2024-10-30","date_precision":"day","system":"KHADAMATI","class":"feedback"}],
+"systems":[],"note":""}}}}}

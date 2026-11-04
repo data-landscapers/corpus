@@ -1,48 +1,23 @@
 {
  "slug": "2026-10-31-eth-authorities-bid-for-digital-quality-sparks-fury-among-cash-strapped-bu",
  "studies": {
-  "aiabuse": {
+  "qualitystandards": {
    "countries": {
     "ETH": {
-     "facts": [],
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "The Institute of Ethiopian Standards, one of four entities formed from the former Ethiopian Quality and Standard Authority, oversees a database of over 11,000 standards and 395 mandatory products.",
+       "as_of": "2026-10-31",
+       "date_precision": "day",
+       "system": "Institute of Ethiopian Standards",
+       "class": "body"
+      }
+     ],
      "systems": [],
-     "note": "Names no rule or body on AI harms."
-    }
-   }
-  },
-  "aigovernment": {
-   "countries": {
-    "ETH": {
-     "facts": [],
-     "systems": [],
-     "note": "The digital marks system is not described as AI in government use."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "ETH": {
-     "facts": [],
-     "systems": [],
-     "note": "No AI tool in a sector's public system is stated."
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "ETH": {
-     "facts": [],
-     "systems": [],
-     "note": "EAII partnership is for a product-marking system; no AI model, dataset or computing is stated."
-    }
-   }
-  },
-  "gridreliability": {
-   "countries": {
-    "ETH": {
-     "facts": [],
-     "systems": [],
-     "note": "Only a passing mention of regular power outages at one firm; no count."
+     "note": ""
     }
    }
   }

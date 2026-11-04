@@ -1,0 +1,31 @@
+{"slug": "2024-05-14-gha-ghana-s-e-initiatives-good-model-for-digital-transformation-in-africa", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on an authentication service."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Fintech regulation is mentioned without naming the central bank or its role."}}},
+"civilserviceskills": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "AfCFTA and cross-border fintech are aspirations only; no corridor stated."}}},
+"digitalskills": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only a general statement of promoting digital literacy; no programme named."}}},
+"egovservices": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "President Akufo-Addo said the Ghana.gov portal, in place since 2019, has facilitated government transactions, with no count of services given.", "as_of": "2024-05-13", "date_precision": "day", "system": "Ghana.gov portal", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "usage", "value": "published", "fact": "President Akufo-Addo said the Ghana.gov portal has facilitated transactions worth some GH¢1.6 billion since 2019, a figure of value rather than a count.", "as_of": "2024-05-13", "date_precision": "day", "system": "Ghana.gov portal", "class": "eservices"}
+], "systems": [{"system": "Ghana.gov portal", "country_label": "Ghana", "class": "eservices", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [{"system": "Ghana Card", "country_label": "Ghana", "class": "idsystem", "platform": "", "owner": "", "tiers": "about 17 million holders, population not given"}], "note": "A count of about 17 million holders is given but no population or share, so no value can be set from this document."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "President Akufo-Addo said some seventeen million Ghanaians now possess a digital ID, the Ghana Card, linking them to services.", "as_of": "2024-05-13", "date_precision": "day", "system": "Ghana Card", "class": "idsystem"}
+], "systems": [{"system": "Ghana Card", "country_label": "Ghana", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The 80% access figure is the President's claim, not stated as an account-holding survey."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "President Akufo-Addo said mobile money had some 44 million registered accounts by the end of 2023, with transactions above GH¢1 trillion.", "as_of": "2023-12", "date_precision": "month", "system": "mobile money", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "President Akufo-Addo named mobile money interoperability among the e-government initiatives that have reshaped public service delivery and financial inclusion.", "as_of": "2024-05-13", "date_precision": "day", "system": "mobile money interoperability", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "President Akufo-Addo said the Ghana.gov portal has facilitated transactions worth some GH¢1.6 billion since 2019, improving revenue collection.", "as_of": "2024-05-13", "date_precision": "day", "system": "Ghana.gov portal", "class": "revenue"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No school internet figure or curriculum statement."}}}
+}}

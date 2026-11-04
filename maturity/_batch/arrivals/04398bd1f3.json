@@ -1,0 +1,34 @@
+{
+ "slug": "2024-02-26-cod-nicolas-kazadi-lance-une-plateforme-numerique-de-demande-de-plaques-et",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The Finance Minister's communique of 16 February announced that from 1 March 2024 vehicle plate and carte rose applications would be submitted and paid online through a ministry system, without visiting a DGI office.",
+       "as_of": "2024-03-01",
+       "date_precision": "day",
+       "system": "dgi-immatriculation.cd",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "dgi-immatriculation.cd",
+       "country_label": "DR Congo",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Finance, DGI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

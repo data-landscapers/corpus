@@ -1,26 +1,36 @@
 {
  "slug": "2024-04-23-mar-massar-registration-digital-identity-learner-register",
  "studies": {
-  "authentication": {
+  "educationexchange": {
    "countries": {
     "MAR": {
      "facts": [
       {
-       "sub_indicator": "authentication",
-       "aspect": "service",
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
        "value": "inservice",
-       "fact": "The education ministry's Massar online enrolment services for parents rely on digital identity as a trusted mechanism for electronic services.",
+       "fact": "The education ministry's circular says Massar's digital enrolment services for parents rely on digital identity and can download data held in the civil status register.",
        "as_of": "2024-04-23",
        "date_precision": "day",
-       "system": "digital identity (Massar)",
-       "class": "authentication"
+       "system": "Massar",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The education ministry's circular says Massar enrolment services for parents can download learner data from the civil status register, using digital identity.",
+       "as_of": "2024-04-23",
+       "date_precision": "day",
+       "system": "Massar",
+       "class": "exchange"
       }
      ],
      "systems": [
       {
        "system": "Massar",
        "country_label": "Morocco",
-       "class": "other",
+       "class": "emis",
        "platform": "",
        "owner": "Ministry of National Education",
        "tiers": ""
@@ -30,62 +40,36 @@
     }
    }
   },
-  "birthidlink": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Massar",
-       "country_label": "Morocco",
-       "class": "other",
-       "platform": "",
-       "owner": "Ministry of National Education",
-       "tiers": ""
-      }
-     ],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "civilregister": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Massar",
-       "country_label": "Morocco",
-       "class": "other",
-       "platform": "",
-       "owner": "Ministry of National Education",
-       "tiers": ""
-      }
-     ],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "egovservices": {
+  "educationmis": {
    "countries": {
     "MAR": {
      "facts": [
       {
-       "sub_indicator": "eservices",
-       "aspect": "services",
-       "value": "inservice",
-       "fact": "The education ministry offers parents digital services in Massar to submit initial school enrolment requests online.",
+       "sub_indicator": "emis",
+       "aspect": "learners",
+       "value": "individual",
+       "fact": "The ministry's circular to regional officials says Massar digitises each pupil's school file and gives each a digital identifier, ahead of a planned national unified learner register.",
        "as_of": "2024-04-23",
        "date_precision": "day",
        "system": "Massar",
-       "class": "eservices"
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The ministry's circular says Massar enrolment services can download data from the civil status register, using digital identity.",
+       "as_of": "2024-04-23",
+       "date_precision": "day",
+       "system": "Massar",
+       "class": "emis"
       }
      ],
      "systems": [
       {
        "system": "Massar",
        "country_label": "Morocco",
-       "class": "other",
+       "class": "emis",
        "platform": "",
        "owner": "Ministry of National Education",
        "tiers": ""
@@ -95,111 +79,61 @@
     }
    }
   },
-  "idcoverage": {
+  "idverification": {
    "countries": {
     "MAR": {
-     "facts": [],
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The education ministry's circular says Massar's online enrolment services for parents rely on digital identity as a trusted means and fetch civil status register data.",
+       "as_of": "2024-04-23",
+       "date_precision": "day",
+       "system": "Massar",
+       "class": "relying"
+      }
+     ],
      "systems": [
       {
        "system": "Massar",
        "country_label": "Morocco",
-       "class": "other",
+       "class": "emis",
        "platform": "",
        "owner": "Ministry of National Education",
        "tiers": ""
       }
      ],
-     "note": "Document states nothing this study asks."
+     "note": ""
     }
    }
   },
-  "idfrombirth": {
+  "schools": {
    "countries": {
     "MAR": {
-     "facts": [],
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The education ministry itself directs regional and provincial officials and school heads to enter and verify pupil registrations and records in Massar.",
+       "as_of": "2024-04-23",
+       "date_precision": "day",
+       "system": "Massar",
+       "class": "emis"
+      }
+     ],
      "systems": [
       {
        "system": "Massar",
        "country_label": "Morocco",
-       "class": "other",
+       "class": "emis",
        "platform": "",
        "owner": "Ministry of National Education",
        "tiers": ""
       }
      ],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "idmaintenance": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Massar",
-       "country_label": "Morocco",
-       "class": "other",
-       "platform": "",
-       "owner": "Ministry of National Education",
-       "tiers": ""
-      }
-     ],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "idregisters": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Massar",
-       "country_label": "Morocco",
-       "class": "other",
-       "platform": "",
-       "owner": "Ministry of National Education",
-       "tiers": ""
-      }
-     ],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Massar",
-       "country_label": "Morocco",
-       "class": "other",
-       "platform": "",
-       "owner": "Ministry of National Education",
-       "tiers": ""
-      }
-     ],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "registry": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Massar",
-       "country_label": "Morocco",
-       "class": "other",
-       "platform": "",
-       "owner": "Ministry of National Education",
-       "tiers": ""
-      }
-     ],
-     "note": "Document states nothing this study asks."
+     "note": ""
     }
    }
   }

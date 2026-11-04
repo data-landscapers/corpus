@@ -1,0 +1,115 @@
+{
+ "slug": "2026-03-27-stp-sao-tome-e-principe-avanca-na-transformacao-digital-com-lancamento-do",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Sao Tome and Principe."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Sao Tome and Principe."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Sao Tome and Principe."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Sao Tome and Principe."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interoperability platform named only as a strategy pillar; no build or service stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Sao Tome and Principe launched the beta version of the Portal Unico do Cidadao at INIC's 18th anniversary, announced by the government.",
+       "as_of": "2026-03-27",
+       "date_precision": "day",
+       "system": "Portal Único do Cidadão",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portal Único do Cidadão",
+       "country_label": "São Tomé e Príncipe",
+       "class": "eservices",
+       "platform": "",
+       "owner": "INIC / Government",
+       "tiers": "beta"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Sao Tome and Principe."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Sao Tome and Principe."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Sao Tome and Principe."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Sao Tome and Principe."
+    }
+   }
+  }
+ }
+}

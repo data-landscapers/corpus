@@ -1,0 +1,165 @@
+{
+ "slug": "2026-10-06-mli-fichier-electoral-l-heure-du-grand-nettoyage",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "No authentication service stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Lists drawn from civil-status data is a voter-roll link, not civil register to ID records."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A biometric civil-status database is named but births or deaths registered digitally are not stated."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Revision said to follow Malian legislation, but no identity law is named."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "Bamada.net, repeating Le Pays, reports Mali's electoral lists are revised each 1 October to 31 December and are drawn from the biometric civil-status database; the 2026 revision opened on 1 October.",
+       "as_of": "2026-10-06",
+       "date_precision": "day",
+       "system": "Fichier electoral (RALE 2026)",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The lists are established from the biometric civil-status database, with the national identification number (NINA) as the voter's unique identifier.",
+       "as_of": "2026-10-06",
+       "date_precision": "day",
+       "system": "Fichier electoral (RALE 2026)",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fichier electoral (RALE 2026)",
+       "country_label": "Mali",
+       "class": "electoral",
+       "platform": "biometric civil-status database",
+       "owner": "Ministry of Territorial Administration and Decentralisation, AIGE supervising",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who operates or owns the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The electoral lists use the national identification number (NINA) as the voter's unique identifier.",
+       "as_of": "2026-10-06",
+       "date_precision": "day",
+       "system": "Fichier electoral (RALE 2026)",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The document names NINA, the national identification number, as the unique identifier of each voter, with a biometric civil-status database behind the lists.",
+       "as_of": "2026-10-06",
+       "date_precision": "day",
+       "system": "NINA",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Voter revision at town halls is not digital entry of births or deaths."
+    }
+   }
+  }
+ }
+}

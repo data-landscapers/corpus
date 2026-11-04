@@ -1,0 +1,138 @@
+{
+ "slug": "2026-11-01-serap-inec-voter-register-ai-photos-ndpc",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "INEC acknowledged suspected AI-generated photos in its register, but no rule, authority or enforcement on AI harms is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "SERAP's letter of 31 October 2026 names Dr Vincent Olatunji as National Commissioner and CEO of the Nigeria Data Protection Commission, which it says holds statutory powers under the Nigeria Data Protection Act 2023.",
+       "as_of": "2026-10-31",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nigeria Data Protection Commission",
+       "country_label": "Nigeria",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No ruling by the commission is stated; SERAP only asks for an investigation."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "SERAP's letter of 31 October 2026 relies on the Nigeria Data Protection Act 2023 (sections 24, 39, 40 and 65) as setting duties on data controllers, including breach notification within 72 hours.",
+       "as_of": "2026-10-31",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Act 2023",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nigeria Data Protection Act 2023",
+       "country_label": "Nigeria",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No decision under the Act is stated; an investigation is only requested."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "INEC published a preliminary Register of Voters on its website, from a voter-registration database holding millions of records, as stated in SERAP's letter and INEC's statement of 27 October 2026.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Register of Voters",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "checked",
+       "value": "open",
+       "fact": "INEC displayed the preliminary Register of Voters physically nationwide from 9 to 15 October 2026 and published it online, per SERAP quoting INEC.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "Register of Voters",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Register of Voters",
+       "country_label": "Nigeria",
+       "class": "electoral",
+       "platform": "",
+       "owner": "INEC",
+       "tiers": ""
+      }
+     ],
+     "note": "No link to the national ID or civil register is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{"slug":"2024-12-26-lby-cabinet-decision-705-2024-dawlati-platform","studies":{
+"dataprotectionlaw":{"countries":{"LBY":{"facts":[],"systems":[],"note":"The decision refers to data protection legislation only in general terms and names no data protection law."}}},
+"digitalsovereignty":{"countries":{"LBY":{"facts":[],"systems":[],"note":"The decision gives the Government Communication Centre ownership of the platform and its data but sets no rule classifying state data or fixing where it is held."}}},
+"disabilityaccess":{"countries":{"LBY":{"facts":[
+{"sub_indicator":"accessibility","aspect":"rule","value":"inforce","fact":"Article 8 of Cabinet Decision 705/2024, in force from its issue, requires the Dawlati platform's e-services to be adapted for all users including persons with disabilities, at no extra fee.","as_of":"2024-12-26","date_precision":"day","system":"Dawlati platform","class":"accessibility"}],
+"systems":[],"note":""}}},
+"egovservices":{"countries":{"LBY":{"facts":[
+{"sub_indicator":"eservices","aspect":"services","value":"underway","fact":"Cabinet Decision 705/2024 creates the Dawlati e-platform under the Government Communication Centre to provide e-services and issue official documents, with fees collected and documents verifiable by QR code.","as_of":"2024-12-26","date_precision":"day","system":"Dawlati platform","class":"eservices"}],
+"systems":[{"system":"Dawlati platform","country_label":"Libya","class":"eservices","platform":"","owner":"Government Communication Centre","tiers":""}],"note":""}}}}}

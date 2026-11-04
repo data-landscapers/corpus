@@ -1,0 +1,11 @@
+{"slug": "2026-11-03-ken-group-raises-alarm-over-digital-exclusion-in-pastoralist-counties", "studies": {
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on civil service training."}}},
+"dataprotectionauthority": {"countries": {"KEN": {"facts": [], "systems": [], "note": "ODPC is only named among bodies the report asks to strengthen oversight; no appointment, ruling or figures stated."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Report calls for stronger privacy safeguards; states nothing on the law, regulations or its application."}}},
+"digitaldivides": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Civil-society survey of three counties; no government rural programme, sites count or rural-urban use shares stated."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only participants' informal learning and a call for training funding; no programme or measured share."}}},
+"disabilityaccess": {"countries": {"KEN": {"facts": [{"sub_indicator": "accessibility", "aspect": "rule", "value": "inforce", "fact": "The Grassroots Disability Agenda report calls for operationalisation of existing legal rights to accessible information and communication technologies in Kenya.", "as_of": "2026-11-03", "date_precision": "day", "system": "", "class": "accessibility"}], "systems": [{"system": "AbiliSpace", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Grassroots Disability Agenda", "tiers": ""}], "note": ""}}},
+"domesticfinancing": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a call for Universal Service Fund investment and county budget commitments; no amounts or acts."}}},
+"localgov": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on county office connection."}}},
+"schoolinternet": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

@@ -1,0 +1,154 @@
+{
+ "slug": "2026-07-05-lso-au-hails-iec-over-election-reforms",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The 88 percent is of eligible Basotho, not the whole population."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The IEC told the AU follow-up mission it had a modernised voter registration system with online registration services and a fresh nationwide registration exercise in 2024, with over 579,520 citizens registered.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "modernised voter registration system",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The IEC said its voter registration system is integrated with the National Identity and Civil Registry (NICR) through Unique Identification Numbers.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "modernised voter registration system",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "modernised voter registration system",
+       "country_label": "Lesotho",
+       "class": "electoral",
+       "platform": "",
+       "owner": "Independent Electoral Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The IEC said its voter registration system is integrated with the National Identity and Civil Registry through Unique Identification Numbers.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "modernised voter registration system",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "modernised voter registration system",
+       "country_label": "Lesotho",
+       "class": "electoral",
+       "platform": "",
+       "owner": "Independent Electoral Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

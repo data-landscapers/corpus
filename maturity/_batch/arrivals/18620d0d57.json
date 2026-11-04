@@ -1,0 +1,157 @@
+{
+ "slug": "2025-10-29-uga-one-man-one-vote-inside-new-ec-biometric-system",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The Daily Monitor reports that Uganda's national voter register is a biometric register, and the Electoral Commission has used biometric voter verification at polls since 2016.",
+       "as_of": "2025-10-29",
+       "date_precision": "day",
+       "system": "national voter register",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The Daily Monitor says the national voter register was compiled using biometric data extracted from the National Identification and Registration Authority (Nira).",
+       "as_of": "2025-10-29",
+       "date_precision": "day",
+       "system": "national voter register",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Biometric Voter Verification System (BVVS)",
+       "country_label": "Uganda",
+       "class": "electoral",
+       "platform": "Simi Valley Company kits",
+       "owner": "Electoral Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Daily Monitor says Uganda's national voter register was compiled using biometric data extracted from Nira, the national identification authority.",
+       "as_of": "2025-10-29",
+       "date_precision": "day",
+       "system": "national voter register",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "The Forum for Democratic Change and the Uganda People's Congress publicly criticised the Electoral Commission's timing and implementation of its biometric voter machine procurement, per the Daily Monitor.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "The Daily Monitor says the Electoral Commission attributed 2021 election-day biometric failures to a nationwide Internet shutdown ordered for 'security reasons'.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  }
+ }
+}

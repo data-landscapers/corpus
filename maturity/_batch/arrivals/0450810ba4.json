@@ -1,0 +1,18 @@
+{"slug": "2026-11-03-gha-no-new-ghana-cards-required-under-biometric-verification-law-nia", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Ghana's National Identification Authority (NIA) says institutions connected to its verification platform through an API verify customers using Ghana Card numbers.", "as_of": "2026-11-02", "date_precision": "day", "system": "NIA verification platform", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The NIA says telecommunications companies and some banks verify customers by match-on-card fingerprint checks, and API-connected institutions use the NIA verification platform.", "as_of": "2026-11-02", "date_precision": "day", "system": "NIA verification platform", "class": "authentication"}
+], "systems": [{"system": "NIA verification platform", "country_label": "Ghana", "class": "authentication", "platform": "API; match-on-card; mobile app announced", "owner": "National Identification Authority", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the platform beyond NIA's regulatory role."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No public register keyed on the number is named."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The NIA says the existing Ghana Card remains the country's official national identity document, used for transactions requiring identity verification, with fingerprints, iris and face stored on its chip.", "as_of": "2026-11-02", "date_precision": "day", "system": "Ghana Card", "class": "idsystem"}
+], "systems": [{"system": "Ghana Card", "country_label": "Ghana", "class": "idsystem", "platform": "chip card with fingerprint, iris and face", "owner": "National Identification Authority", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The NIA says telecommunications companies and some banks verify customers against the Ghana Card by match-on-card fingerprint checks.", "as_of": "2026-11-02", "date_precision": "day", "system": "Ghana Card match-on-card verification", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The NIA says both telecommunications companies and some banks use match-on-card verification against the Ghana Card, and API-connected institutions verify by card number.", "as_of": "2026-11-02", "date_precision": "day", "system": "Ghana Card match-on-card verification", "class": "relying"}
+], "systems": [], "note": ""}}}
+}}

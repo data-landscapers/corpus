@@ -1,0 +1,429 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Les Enjeux Eco reports access to the portal's secured services rests on a digital identity obtained by online pre-registration with the NIN, then biometric authentication at the commune, per HCN central director Mohamed Louail.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "identite numerique (NIN pre-registration, biometric validation at commune)",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "The portal's first 21 services, from the Interior, Labour and National Solidarity sectors, are accessed through the one digital identity, per the HCN official.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "identite numerique (NIN pre-registration, biometric validation at commune)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "identite numerique (NIN pre-registration, biometric validation at commune)",
+       "country_label": "Algeria",
+       "class": "authentication",
+       "platform": "",
+       "owner": "HCN",
+       "tiers": "advanced levels to add facial recognition"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil register and ID records passing."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil status certificates named as portal services only; no digital register stated."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The information-security agency is named only as co-supervisor of data exchange; no response, designation or figures stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Les Enjeux Eco reports the national digital services centre holds an Uptime Tier III certification with 99.982% availability, on two interconnected sites at Mohammadia and Blida, hosting a government cloud and a public cloud for businesses, start-ups and individuals.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Centre national des services numeriques",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centre national des services numeriques",
+       "country_label": "Algeria",
+       "class": "datacentre",
+       "platform": "government cloud and public cloud",
+       "owner": "",
+       "tiers": "Uptime Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The HCN official said data exchange is framed by executive decree 25-320 on national data governance, resting on a classification reference, an indexing catalogue and a national interoperability system.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Decret executif 25-320",
+       "class": "policy"
+      },
+      {
+       "sub_indicator": "policy",
+       "aspect": "use",
+       "value": "body",
+       "fact": "The HCN official said data exchanges are supervised jointly by the High Commission for Digitalisation, the national personal data protection authority and the information systems security agency.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Decret executif 25-320",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Decret executif 25-320",
+       "country_label": "Algeria",
+       "class": "policy",
+       "platform": "",
+       "owner": "HCN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The HCN official said data exchanges are jointly supervised by the Autorite nationale de protection des donnees a caractere personnel (ANPDP), together with HCN and the information security agency.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "ANPDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The HCN official said data exchanges are strictly governed by the law on protection of personal data.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Loi relative a la protection des donnees a caractere personnel",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The HCN official said the national personal data protection authority co-supervises data exchanges.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "ANPDP",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Les Enjeux Eco says the portal's commissioning follows the trajectory of the national digital transformation strategy 2025-2030.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Strategie nationale de transformation numerique 2025-2030",
+       "class": "national"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2030",
+       "fact": "The national digital transformation strategy is described as running 2025-2030.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Strategie nationale de transformation numerique 2025-2030",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Electronic signature mentioned only as a future use of advanced certification; no law stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Les Enjeux Eco reports the national digital services portal is in service with a first phase of 21 digital services, mainly from the Interior, Labour and National Solidarity sectors, and about 650 priority services planned.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Portail national des services numeriques",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "gateway",
+       "value": "single",
+       "fact": "The portal carries services of the Interior, Labour and National Solidarity sectors behind one digital identity based on the NIN, per HCN central director Mohamed Louail.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Portail national des services numeriques",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portail national des services numeriques",
+       "country_label": "Algeria",
+       "class": "eservices",
+       "platform": "Centre national des services numeriques",
+       "owner": "HCN",
+       "tiers": ""
+      }
+     ],
+     "note": "No usage figures stated; the 11-16 July 2026 drive gives no count."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who operates or owns the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Social security funds appear as portal certificate services; no register keyed on the NIN stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The HCN official said the NIN (Numero d'identification national) is the basis for online pre-registration into the digital identity used on the portal.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "NIN",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "framework",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The HCN official said decree 25-320 on national data governance underpins exchange between administrations with a classification reference, an indexing catalogue and a national interoperability system.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Decret executif 25-320",
+       "class": "framework"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The HCN official said inter-administration data exchange is framed by executive decree 25-320 on national data governance.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Decret executif 25-320",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Les Enjeux Eco reports the Centre national des services numeriques holds an Uptime Tier III certification.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Centre national des services numeriques",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "The national digital services centre hosts a government cloud intended for administrations.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Centre national des services numeriques",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police records."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil status acts are portal certificate services; no digital entry at registration offices stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The public cloud is offered to start-ups; no startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on hubs or parks."
+    }
+   }
+  }
+ }
+}

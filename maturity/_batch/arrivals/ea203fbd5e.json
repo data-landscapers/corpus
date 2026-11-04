@@ -1,0 +1,11 @@
+{"slug": "2026-05-12-mrt-cnass-digital-services-on-khidmaty", "studies": {
+"businesspayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document does not mention e-procurement."}}},
+"centralbank": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document does not mention the central bank or payment oversight."}}},
+"consumerprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document states no consumer-protection rules or complaints body for digital finance."}}},
+"crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"egovservices": {"countries": {"MRT": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "On 12 May 2026 the national health solidarity fund (CNASS) launched its digital services on the national portal Khidmaty, offering online affiliation, secure online contribution payment and file tracking, with EU support.", "as_of": "2026-05-12", "date_precision": "day", "system": "Khidmaty", "class": "eservices"}], "systems": [{"system": "Khidmaty", "country_label": "Mauritania", "class": "eservices", "platform": "national portal", "owner": "Ministry of Digital Transformation and Administrative Modernisation", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document describes payments by citizens to the fund, not government payments to people."}}},
+"paymentsuptake": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document names no mobile money or retail payment service."}}},
+"revenuecollection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Health insurance contributions to the fund are not taxes, duties or state fees as defined."}}}
+}}

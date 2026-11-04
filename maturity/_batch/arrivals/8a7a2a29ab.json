@@ -1,0 +1,19 @@
+{"slug": "2025-11-05-rwa-irembo-platform-transforms-access-to-public-services", "studies": {
+"birthidlink": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing stated on a link between civil register and ID."}}},
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"civilregister": {"countries": {"RWA": {"facts": [], "systems": [{"system": "Irembo", "country_label": "Rwanda", "class": "other", "platform": "web portal", "owner": "MINICT", "tiers": ""}], "note": "Civil registration is only named as a service on the portal; no digital register of births or deaths is described."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"digitalstrategy": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only a passing mention that the digital strategy continues to expand; no strategy fact."}}},
+"egovservices": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Minister Paula Ingabire told the Chamber of Deputies that the Irembo platform offers 240 government services, including civil registration, driving permits and business licences, which citizens can apply for online.", "as_of": "2025-11-04", "date_precision": "day", "system": "Irembo", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "usage", "value": "published", "fact": "MINICT says citizens submitted over 5 million applications through Irembo between 2023 and 2024, and more than 400,000 Rwandans had opened personal accounts as of March 2025.", "as_of": "2024", "date_precision": "year", "system": "Irembo", "class": "eservices"}
+], "systems": [{"system": "Irembo", "country_label": "Rwanda", "class": "eservices", "platform": "web portal with agents", "owner": "MINICT", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing stated on an ID number at birth."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The 45% is a share of Irembo users paying digitally, not an adult account survey."}}},
+"registry": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Civil registration is named only as an online service; nothing on how offices record events."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing stated on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No tax or customs payment stated; business licences are fees on a services portal but no electronic revenue payment is described."}}}
+}}

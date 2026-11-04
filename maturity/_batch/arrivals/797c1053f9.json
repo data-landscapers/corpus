@@ -1,0 +1,229 @@
+{
+ "slug": "2026-11-03-egy-youm7-egypt-plans-dedicated-ai-law",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The draft AI law is described only as governing AI applications; no harm or authority is named."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Youm7 reports Egypt is working on the final drafting of a dedicated AI law, with no official named as source.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "Egypt AI law (draft)",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Egypt AI law (draft)",
+       "country_label": "Egypt",
+       "class": "law",
+       "platform": "",
+       "owner": "Government of Egypt",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Law 181/2018 is a general consumer law; no digital financial services rule or complaints body is stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Youm7 names the cybercrime law, Law 175 of 2018, as Egypt's legal framework against cybercrime and its penalties.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Law 175 of 2018",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a 2021 regulatory framework for data centres is named, no facility."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Youm7 names Personal Data Protection Law 151 of 2020 as setting principles for collecting, processing, storing and transferring personal data.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "Law 151 of 2020",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Youm7 names the 2004 electronic signature law among Egypt's existing laws regulating digital transactions.",
+       "as_of": "2004",
+       "date_precision": "year",
+       "system": "Electronic Signature Law 2004",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  }
+ }
+}

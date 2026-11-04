@@ -1,0 +1,241 @@
+{
+ "slug": "2026-11-03-africas-ai-ambitions-depend-on-stronger-digital-public-infrastructure",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "use",
+       "value": "none",
+       "fact": "Remy Takang, in a September 2026 policy brief, found that the AI authority, presidential council, regulatory sandboxes and national computing infrastructure envisaged in Cameroon's national AI strategy were not in place.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Cameroon national AI strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an announced data center financed by Cybastion; not in service."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview on AI and DPI generally; states nothing this study asks for Cameroon."
+    }
+   }
+  }
+ }
+}

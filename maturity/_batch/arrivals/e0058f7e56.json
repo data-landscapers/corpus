@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-25-mrt-ami-tasjil-online-university-registration-khidmaty",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Ministers launched the online university registration service Tasjil on the national public services portal Khidmaty, where students enter data, pay fees by e-wallet and receive their certificate.",
+       "as_of": "2025-09-25",
+       "date_precision": "day",
+       "system": "Khidmaty (Tasjil)",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Khidmaty",
+       "country_label": "Mauritania",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

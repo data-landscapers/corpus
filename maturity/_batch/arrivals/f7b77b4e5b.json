@@ -1,0 +1,13 @@
+{"slug":"2024-03-11-zaf-voters-roll-to-be-certified-for-2024-national-and-provincial-elections","studies":{
+"dataprotectionauthority":{"countries":{"ZAF":{"facts":[
+{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"The Electoral Commission says it is cooperating with the Information Regulator over the unauthorised disclosure of candidate lists, showing the Regulator acting on the matter.","as_of":"2024-03-11","date_precision":"day","system":"Information Regulator","class":"authority"}],
+"systems":[{"system":"Information Regulator","country_label":"South Africa","class":"authority","platform":"","owner":"","tiers":""}],"note":""}}},
+"dataprotectionlaw":{"countries":{"ZAF":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"The Electoral Commission says electronic copies of the voters' roll carry redacted identity numbers in compliance with the Protection of Personal Information Act.","as_of":"2024-03-11","date_precision":"day","system":"Protection of Personal Information Act","class":"general"},
+{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"The Electoral Commission says it is cooperating with the Information Regulator over a disclosure of candidates' personal information.","as_of":"2024-03-11","date_precision":"day","system":"Information Regulator","class":"general"}],
+"systems":[],"note":""}}},
+"electoralregister":{"countries":{"ZAF":{"facts":[
+{"sub_indicator":"electoral","aspect":"roll","value":"inservice","fact":"The Electoral Commission says it will give electronic copies of the voters' roll, with 27.79 million voters, to parties and independent candidates, and that online self-service voter registration is in use.","as_of":"2024-03-11","date_precision":"day","system":"voters' roll","class":"electoral"},
+{"sub_indicator":"electoral","aspect":"checked","value":"open","fact":"The Electoral Commission says the provisional voters' roll was published for inspection on 26 February 2024 and the certified roll is made available at its head office, nine provincial offices and each municipal office.","as_of":"2024-02-26","date_precision":"day","system":"voters' roll","class":"electoral"}],
+"systems":[{"system":"voters' roll","country_label":"South Africa","class":"electoral","platform":"","owner":"Electoral Commission of South Africa","tiers":""}],"note":""}}},
+"localgov":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"The document says nothing about local government connection."}}}}}

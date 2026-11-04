@@ -1,0 +1,115 @@
+{
+ "slug": "2026-05-31-eth-ballots-beyond-glitches-ethiopia-prepares-to-chart-its-next-five-years",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a remark that many stations lacked disability infrastructure; no rule or digital service."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The National Election Board introduced digital voter registration with tablets and the Mirchaye app from January 2026, falling back to paper where networks failed, and says nearly 5.5 million people obtained voter cards digitally.",
+       "as_of": "2026-04-22",
+       "date_precision": "day",
+       "system": "Mirchaye",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mirchaye",
+       "country_label": "Mirchaye",
+       "class": "electoral",
+       "platform": "tablets and mobile app",
+       "owner": "National Election Board of Ethiopia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Fayda registration from home is only envisioned; no register keyed on the number stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Fayda named only as an envisioned registration route; nothing on the ID system itself."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No consultation on a digital law or policy stated."
+    }
+   }
+  }
+ }
+}

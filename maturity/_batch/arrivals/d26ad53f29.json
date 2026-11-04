@@ -1,0 +1,27 @@
+{"slug": "2026-11-03-cote-divoire-and-gabon-explore-cooperation-on-ai-and-digital-public-se", "studies": {
+"aiabuse": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules or authority."},
+"GAB": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Only cooperation avenues such as reusing public-service algorithms are discussed; no AI system stated in service or testing."},
+"GAB": {"facts": [], "systems": [], "note": "Only cooperation avenues discussed; no AI system stated in service or testing."}}},
+"aisectoral": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document names no sectoral AI tool."},
+"GAB": {"facts": [], "systems": [], "note": "Document names no sectoral AI tool."}}},
+"aisystems": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Sharing computing capacity is only an opportunity identified; no facility or model named."},
+"GAB": {"facts": [], "systems": [], "note": "Sharing computing capacity is only an opportunity identified; no facility or model named."}}},
+"regionalpolicy": {"countries": {
+"CIV": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Côte d'Ivoire's digital minister Djibril Ouattara took part in the 6th session of the African Union's Specialized Technical Committee on Communication and Information Technology in Libreville.", "as_of": "2026-11", "date_precision": "month", "system": "AU Specialized Technical Committee on Communication and Information Technology", "class": "cooperation"}
+], "systems": [], "note": ""},
+"GAB": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Gabon hosted in Libreville the 6th session of the African Union's Specialized Technical Committee on Communication and Information Technology, where its digital minister Mark-Alexandre Doumba met Côte d'Ivoire's minister.", "as_of": "2026-11", "date_precision": "month", "system": "AU Specialized Technical Committee on Communication and Information Technology", "class": "cooperation"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Only links between startups of the two countries discussed; no law or fund."},
+"GAB": {"facts": [], "systems": [], "note": "Only links between startups of the two countries discussed; no law or fund."}}},
+"techhubs": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Document names no hub or technology park."},
+"GAB": {"facts": [], "systems": [], "note": "Document names no hub or technology park."}}}
+}}

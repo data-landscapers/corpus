@@ -1,0 +1,70 @@
+{
+ "slug": "2025-02-14-mar-mtnra-presentation-nouveau-portail-national-services-publics-numeriques",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The ministry presented the new national public digital services portal in Rabat, giving access to more than 650 e-services for citizens and businesses.",
+       "as_of": "2025-02-14",
+       "date_precision": "day",
+       "system": "Portail e-services",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portail e-services",
+       "country_label": "Maroc",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Digital Transition",
+       "tiers": ""
+      }
+     ],
+     "note": "Gateway and usage not stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-12-cod-grace-emie-kutino-launches-national-youth-consultations",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "The DRC Minister of Youth launched National Youth Consultations 2025 with an online form open to young people, to feed a revision of the National Youth Policy.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "National Youth Consultations online platform",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Youth Consultations online platform",
+       "country_label": "DR Congo",
+       "class": "eparticipation",
+       "platform": "online form",
+       "owner": "Ministry of Youth and Patriotic Awakening",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

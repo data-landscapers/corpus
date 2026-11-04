@@ -1,21 +1,32 @@
 {
  "slug": "2024-08-29-tza-tsc-imefanikiwa-kuunganisha-mfumo-wa-tscmis-na-mifumo-mingine-mitatu",
  "studies": {
-  "schools": {
+  "educationexchange": {
    "countries": {
     "TZA": {
-     "facts": [],
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The Teachers Service Commission's IT head says its teacher information system TSCMIS is now connected to e-Watumishi (HR), the Treasury pensioners payment system and the School Information System, to exchange teacher data.",
+       "as_of": "2024-08-29",
+       "date_precision": "day",
+       "system": "TSCMIS",
+       "class": "exchange"
+      }
+     ],
      "systems": [
       {
        "system": "TSCMIS",
        "country_label": "Tanzania",
-       "class": "other",
+       "class": "exchange",
        "platform": "",
        "owner": "Teachers Service Commission",
        "tiers": ""
       }
      ],
-     "note": "A teacher-management system linked to other systems; not a learner record at primary schools."
+     "note": ""
     }
    }
   }

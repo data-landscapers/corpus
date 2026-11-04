@@ -1,0 +1,41 @@
+{
+ "slug": "2026-07-07-mdg-refonte-de-la-liste-electorale-la-ceni-veut-inscrire-quatorze-millions",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Roll revision planned as an alphanumeric list with online registration among five modes; no digital or biometric register stated as procured, piloted or in service."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on online consultation; the meeting was in person."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "About a voter roll, not a national ID system."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Consultation was on the electoral roll, not a named digital law or policy."
+    }
+   }
+  }
+ }
+}

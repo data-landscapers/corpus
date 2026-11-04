@@ -1,0 +1,126 @@
+{
+ "slug": "2026-04-10-ken-iebc-to-clean-voter-register-ahead-of-2027-polls",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "IEBC Commissioner Ann Nderitu says the voter register used in 2022 stands at 22.1 million voters and continuous registration with kits is under way in April 2026.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "voter register",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "voter register",
+       "country_label": "Kenya",
+       "class": "electoral",
+       "platform": "registration kits",
+       "owner": "IEBC",
+       "tiers": ""
+      }
+     ],
+     "note": "Clean-up against the births and deaths registrar is a plan, not a link in service."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "IEBC Commissioner Ann Nderitu says that with the new digital systems national ID cards now take about three days to be ready.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "national identification cards (registration of persons)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

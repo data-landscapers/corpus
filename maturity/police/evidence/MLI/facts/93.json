@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-13-mli-mali-launches-online-criminal-record-and-nationality-certificate-servi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "casiercasier.gouv.ml (criminal record)",
+   "country_label": "Mali",
+   "class": "public",
+   "platform": "",
+   "owner": "Ministry of Justice and AGETIC",
+   "tiers": ""
+  }
+ ],
+ "note": "Public-facing certificate portals only; nothing on station records."
+}

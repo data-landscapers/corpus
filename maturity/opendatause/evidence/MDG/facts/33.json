@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-31-mdg-justice-595-arrets-selectionnes-pour-enrichir-la-jurisprudence",
+ "facts": [],
+ "systems": [
+  {
+   "system": "jurisprudence.justice.gov.mg",
+   "country_label": "Madagascar court decisions platform",
+   "class": "other",
+   "platform": "web",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": "Court decisions viewable free on a platform; no datasets for download or licence stated."
+}

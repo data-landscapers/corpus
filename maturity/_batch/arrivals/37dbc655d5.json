@@ -1,0 +1,192 @@
+{
+ "slug": "2026-08-02-egy-your-guide-to-navigating-egypt-s-online-government-services",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Enterprise reports that Egypt's Digital Egypt platform lets people complete online civil status documents, traffic fines, criminal record certificates, social insurance, ration card, labor registry, credit inquiry and commercial registry services, with payment online.",
+       "as_of": "2026-08-02",
+       "date_precision": "day",
+       "system": "Digital Egypt",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "gateway",
+       "value": "single",
+       "fact": "Enterprise reports that one Digital Egypt account, opened with the 14-digit national ID and linked mobile number, works across civil status, traffic, real estate, court and commercial registry services.",
+       "as_of": "2026-08-02",
+       "date_precision": "day",
+       "system": "Digital Egypt",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Egypt",
+       "country_label": "Egypt",
+       "platform": "misr.gov.eg, mobile app, 15999 hotline",
+       "owner": "Government of Egypt",
+       "tiers": "",
+       "class": "eservices"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Enterprise reports that for some Digital Egypt services people also need the companion Digital Identity app to complete biometric verification.",
+       "as_of": "2026-08-02",
+       "date_precision": "day",
+       "system": "Digital Identity app",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Identity app",
+       "country_label": "Egypt",
+       "class": "authentication",
+       "platform": "mobile app",
+       "owner": "Government of Egypt",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Enterprise reports that Digital Egypt accounts are opened with the 14-digit national ID and the mobile number registered to it, unlocking civil status, traffic, real estate, court and commercial registry services.",
+       "as_of": "2026-08-02",
+       "date_precision": "day",
+       "system": "Digital Egypt",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Egypt",
+       "country_label": "Egypt",
+       "platform": "misr.gov.eg, mobile app, 15999 hotline",
+       "owner": "Government of Egypt",
+       "tiers": "",
+       "class": "relying"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

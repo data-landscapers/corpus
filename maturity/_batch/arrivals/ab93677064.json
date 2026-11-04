@@ -1,0 +1,21 @@
+{"slug": "2026-06-02-cod-dr-congo-launches-national-digital-gateway-to-centralize-public-servic", "studies": {
+"authentication": {"countries": {"COD": {"facts": [], "systems": [], "note": "A national digital identity is mentioned only as being deployed; no authentication service stated."}}},
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalstrategy": {"countries": {"COD": {"facts": [], "systems": [{"system": "Digital Nation 2030", "country_label": "DR Congo", "class": "national", "platform": "", "owner": "", "tiers": "named as strategy; adoption not stated"}, {"system": "National Digital Plan Horizon 2025", "country_label": "DR Congo", "class": "national", "platform": "", "owner": "", "tiers": "named as earlier plan; adoption not stated"}], "note": "The strategies are named as the frame for the gateway, but their standing, text, plan and reporting are not stated."}}},
+"egovservices": {"countries": {"COD": {"facts": [], "systems": [{"system": "national digital gateway", "country_label": "DR Congo", "class": "eservices", "platform": "", "owner": "Ministry of Digital Affairs", "tiers": "approved by Council of Ministers 2026-05-29; services to follow"}], "note": "Gateway creation was approved on 29 May 2026 and citizens will 'eventually' use it; no launch or service live is stated."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"COD": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Ecofin Agency reports that in recent months the DR Congo government has advanced the deployment of a national digital identity system, which officials regard as a prerequisite for secure online public services.", "as_of": "2026-06-02", "date_precision": "day", "system": "national digital identity system", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

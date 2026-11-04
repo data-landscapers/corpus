@@ -1,12 +1,21 @@
 {
  "slug": "2026-11-02-sen-senegal-dcssi-nouveau-portail-numerique",
  "studies": {
-  "customs": {
+  "cybersecurity": {
    "countries": {
     "SEN": {
      "facts": [],
-     "systems": [],
-     "note": "Document is about a cybersecurity portal, nothing on customs."
+     "systems": [
+      {
+       "system": "DCSSI incident reporting single window",
+       "country_label": "Senegal",
+       "class": "response",
+       "platform": "jokkocyber-dcssi.sn",
+       "owner": "DCSSI",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states a new portal with an incident reporting window, but not that the body was created by law, nor an incident handled or alert issued."
     }
    }
   }

@@ -1,0 +1,52 @@
+{
+ "slug": "2024-05-28-mrt-le-cdh-lance-une-plateforme-numerique-pour-creer-un-mecanisme-de-conce",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "standing",
+       "fact": "Mauritania's human rights commissariat launched on 28 May 2024 the Space Plateforme, a digital platform for permanent dialogue and feedback on public policies between government, civil society and partners.",
+       "as_of": "2024-05-28",
+       "date_precision": "day",
+       "system": "Space Plateforme",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Space Plateforme",
+       "country_label": "Mauritania",
+       "class": "eparticipation",
+       "platform": "digital platform",
+       "owner": "Commissariat aux droits de l'homme, a l'action humanitaire et aux relations avec la societe civile",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police records."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No named digital law or policy put to outside views."
+    }
+   }
+  }
+ }
+}

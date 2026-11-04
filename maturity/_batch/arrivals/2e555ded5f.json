@@ -1,0 +1,43 @@
+{
+ "slug": "2026-05-29-mus-consultation-publique-sur-la-reforme-de-la-politique-du-cannabis-la-pl",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "Mauritius's National Agency for Drug Control working group opened an online public consultation platform on cannabis policy reform on 29 May 2026, taking submissions until 21 June 2026.",
+       "as_of": "2026-05-29",
+       "date_precision": "day",
+       "system": "NADC cannabis consultation platform",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NADC cannabis consultation platform",
+       "country_label": "Mauritius",
+       "class": "eparticipation",
+       "platform": "online platform",
+       "owner": "National Agency for Drug Control",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The consultation is on cannabis policy, not a digital law or policy."
+    }
+   }
+  }
+ }
+}

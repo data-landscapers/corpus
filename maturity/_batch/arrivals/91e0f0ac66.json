@@ -1,18 +1,23 @@
-{"slug": "2026-11-02-somalia-puts-hubiye-national-id-verification-platform-into-o", "studies": {
-"authentication": {"countries": {"SOM": {"facts": [
-{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "NIRA announced in late October 2026 that its Hubiye platform is implemented, letting service providers verify ID credentials against its database by a one-time password sent to the ID holder.", "as_of": "2026-10", "date_precision": "month", "system": "Hubiye", "class": "authentication"},
-{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "UNDP reported in May 2026 that Hubiye supported real-time identity verification across 25 integrated services including commercial banking, and the government directed public-facing service providers to integrate with it in April 2025.", "as_of": "2026-05", "date_precision": "month", "system": "Hubiye", "class": "authentication"},
-{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "NIRA launched the eAqoonsi app in May 2025, which gives citizens a digital version of their national ID that authorities encourage them to use to access services.", "as_of": "2025-05", "date_precision": "month", "system": "eAqoonsi", "class": "authentication"}
-], "systems": [{"system": "Hubiye", "country_label": "Somalia", "class": "authentication", "platform": "", "owner": "NIRA", "tiers": "OTP consent by SMS or email"}, {"system": "eAqoonsi", "country_label": "Somalia", "class": "authentication", "platform": "app", "owner": "NIRA", "tiers": ""}, {"system": "Certificate Delivery System (CDS)", "country_label": "Somalia", "class": "other", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
-"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
-"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Gives a 2029 enrolment target of 15 million and 1.2 million citizens served by Hubiye, not people enrolled."}}},
-"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
-"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
-"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Names banking and unnamed services checking the ID, which is verification, not a public register keyed on the number."}}},
-"idrobustness": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No statement of unique numbers issued, biometrics or certification."}}},
-"idverification": {"countries": {"SOM": {"facts": [
-{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "NIRA says service providers verify ID credentials against its national database through Hubiye, with a provider submitting the ID number and the holder authorising by one-time password.", "as_of": "2026-10", "date_precision": "month", "system": "Hubiye", "class": "relying"},
-{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The document says Hubiye serves banking and public services, and UNDP counted 25 integrated services including commercial banking in May 2026.", "as_of": "2026-05", "date_precision": "month", "system": "Hubiye", "class": "relying"},
-{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "UNDP reported in May 2026 that Hubiye served 25 integrated services and about 1.2 million citizens.", "as_of": "2026-05", "date_precision": "month", "system": "Hubiye", "class": "relying"}
-], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-11-02-somalia-puts-hubiye-national-id-verification-platform-into-o",
+ "studies": {
+  "registry": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Hubiye",
+       "country_label": "Hubiye national ID verification platform",
+       "class": "other",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": "ID verification platform; no civil registration office entry stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "slug": "2026-11-03-comesa-world-bank-back-regional-drive-to-connect-180-million-people-through-digital-inclusion",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "in-service",
+       "fact": "Zambia's ministry official Mr Saboi said the national fibre-optic backbone grew from about 15,000 km in 2021 to more than 42,000 km.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "national fibre-optic backbone",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national fibre-optic backbone",
+       "country_label": "Zambia",
+       "class": "backbone",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Zambia's ministry official Mr Saboi pointed to the growth of mobile money transactions as a driver of financial inclusion, particularly in rural communities.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Zambia."
+    }
+   }
+  }
+ }
+}

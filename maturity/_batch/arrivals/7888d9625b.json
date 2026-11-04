@@ -1,0 +1,126 @@
+{
+ "slug": "2025-12-30-mar-industries-ma-35000-entreprises-creees-en-ligne",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Idaraty",
+       "country_label": "Maroc",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Idaraty's chatbot is only a project to build the infrastructure for one; no AI system is piloted or in service."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The minister for digital transition told the House of Representatives that digital services are being adapted to Law 09.08 on personal data protection, described as the legal provisions in force.",
+       "as_of": "2025-12-29",
+       "date_precision": "day",
+       "system": "Law 09.08",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Law 09.08",
+       "country_label": "Maroc",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No decision or count under the law is stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Minister Amal El Fallah Seghrouchni told the House of Representatives that the national digital services portal now offers more than 600 digital services.",
+       "as_of": "2025-12-29",
+       "date_precision": "day",
+       "system": "national digital services portal",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "usage",
+       "value": "published",
+       "fact": "The minister said more than 35,000 companies have been created electronically through the national platform dedicated to it.",
+       "as_of": "2025-12-29",
+       "date_precision": "day",
+       "system": "national platform for company creation",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national digital services portal",
+       "country_label": "Maroc",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Digital Transition",
+       "tiers": ""
+      },
+      {
+       "system": "Idaraty",
+       "country_label": "Maroc",
+       "class": "eservices",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Gateway not recorded: no shared sign-in across ministries is stated."
+    }
+   }
+  }
+ }
+}

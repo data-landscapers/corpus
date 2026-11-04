@@ -1,0 +1,23 @@
+{
+ "slug": "2026-05-08-civ-cepe-bepc-bac-une-gestion-centralisee-et-securisee-des-examens-avec-la",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DECO plateforme unifiée des examens",
+       "country_label": "Côte d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction des Examens et Concours",
+       "tiers": ""
+      }
+     ],
+     "note": "The DECO unified platform is an exam registration and results portal on its own; no ministry education information system is described."
+    }
+   }
+  }
+ }
+}

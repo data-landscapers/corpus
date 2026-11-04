@@ -1,0 +1,106 @@
+{
+ "slug": "2024-08-20-gha-nationwide-voters-exhibition-starts-today",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "checked",
+       "value": "open",
+       "fact": "The Electoral Commission exhibited the provisional voters' register at more than 38,000 polling stations in all 268 districts from 20 to 27 August 2024, and voters could also verify details by dialling *711*51#, per the Ghana News Agency.",
+       "as_of": "2024-08-20",
+       "date_precision": "day",
+       "system": "provisional voters' register exhibition",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "USSD *711*51# voter verification",
+       "country_label": "Ghana",
+       "class": "electoral",
+       "platform": "USSD",
+       "owner": "Electoral Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything this study asks."
+    }
+   }
+  }
+ }
+}

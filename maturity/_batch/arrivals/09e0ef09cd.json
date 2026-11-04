@@ -1,0 +1,32 @@
+{
+ "slug": "2025-11-21-uga-nita-u-drives-digital-transformation-with-new-government-service-integ",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "UGOV",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "integrated platform (in design)",
+       "owner": "NITA-U",
+       "tiers": ""
+      }
+     ],
+     "note": "UGOV is being designed, with no service stated as live."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "NITA-U designs UGOV with a contractor, AlphaX; no government-built or government-run system stated."
+    }
+   }
+  }
+ }
+}

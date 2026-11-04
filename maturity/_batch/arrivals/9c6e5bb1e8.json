@@ -1,0 +1,206 @@
+{
+ "slug": "2026-11-01-cvtelecom-ceo-cabos-ciberseguranca",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "CVTelecom's outgoing CEO told Expresso das Ilhas that Cabo Verde has three international submarine cables landed, including WACS and EllaLink.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "EllaLink; WACS",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EllaLink",
+       "country_label": "Cabo Verde",
+       "class": "route",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "WACS",
+       "country_label": "Cabo Verde",
+       "class": "route",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Landing-station independence and wholesale sale are not stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question in the document."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "CVTelecom's outgoing CEO told Expresso das Ilhas that satellite operators such as Starlink have entered the Cabo Verde market and supply connectivity services there.",
+       "as_of": "2026-10-28",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Cabo Verde",
+       "class": "satellite",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Licence, second network and subscriber count are not stated."
+    }
+   }
+  }
+ }
+}

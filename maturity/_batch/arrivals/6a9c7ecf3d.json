@@ -1,0 +1,193 @@
+{
+ "slug": "2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "INEC says registered voters amending their details online through the new Voters Registration System must hold a NIDA National Identification Number, which is used to verify the information.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Voters Registration System",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Voters Registration System",
+       "country_label": "Voters Registration System",
+       "class": "authentication",
+       "platform": "",
+       "owner": "INEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only civil society groups named; no accessibility rule or delivery stated."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "INEC says it secured 6,000 biometric voter registration kits to update the Permanent National Voters' Register for the 2025 elections, with an upgrade starting 20 July 2024.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Permanent Voters Register",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "INEC says online corrections to the voters register require a NIDA National Identification Number, which verifies the voter information being corrected.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Voters Registration System",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Permanent Voters Register",
+       "country_label": "Permanent Voters Register",
+       "class": "electoral",
+       "platform": "BVR kits",
+       "owner": "INEC",
+       "tiers": ""
+      },
+      {
+       "system": "Voters Registration System",
+       "country_label": "Voters Registration System",
+       "class": "electoral",
+       "platform": "Android",
+       "owner": "INEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "INEC says the NIDA National Identification Number is used to verify voter information corrected in the Permanent Voters Register through the online system.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Voters Registration System",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Voters Registration System",
+       "country_label": "Voters Registration System",
+       "class": "register",
+       "platform": "",
+       "owner": "INEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "INEC says NIDA provides a National Identification Number that voters must hold to update their details online.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "NIDA National Identification Number",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDA National Identification Number",
+       "country_label": "NIDA National Identification Number",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  }
+ }
+}

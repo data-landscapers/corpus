@@ -1,0 +1,32 @@
+{
+ "slug": "2025-08-09-gin-guinee-le-secretariat-general-du-gouvernement-lance-maconstitution-inf",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "ANSSI only vouches for a platform's security; no creation, incident or alert stated."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Maconstitution.info",
+       "country_label": "Guinea",
+       "class": "other",
+       "platform": "web and mobile",
+       "owner": "Secretariat General of the Government",
+       "tiers": ""
+      }
+     ],
+     "note": "Platform lets citizens read and query the draft constitution; no call for views or comments stated."
+    }
+   }
+  }
+ }
+}
