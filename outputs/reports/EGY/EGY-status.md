@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-10-30
+compiled: 2026-11-04
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 222
+sources_cited: 224
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -239,9 +239,9 @@ The interior and communications ministries [run an integrated Digital Justice Pl
 
 Egypt [ranked 22nd on the World Bank's 2025 GovTech Maturity Index, up from 69th in 2022 on a score of 0.911](https://gate.ahram.org.eg/News/5356100.aspx), while placing [95th of 193 states on the UN's 2024 E-Government Development Index](https://masaar.net/en/a-critical-reading-of-egypts-e-government-experience/).
 
-[Launched in 2020](https://egyptianstreets.com/2025/11/13/egypt-to-shift-public-services-to-digital-egypt-platform/), the Digital Egypt platform had [10.7 million registered users and 210 services at the start of January 2026](https://gate.ahram.org.eg/News/5452906.aspx), and [about 250 services in September 2026](https://gate.ahram.org.eg/News/5938370.aspx), which [presidential directives of October 2026 target raising to 500 before the end of 2026, with all public services digitised within three years](https://www.egypttoday.com/Article/1/150233/Egypt-Forum-2026-outlines-sweeping-development-agenda-to-raise-living).
+[Launched in 2020](https://egyptianstreets.com/2025/11/13/egypt-to-shift-public-services-to-digital-egypt-platform/), the Digital Egypt platform had [10.7 million registered users and 210 services at the start of January 2026](https://gate.ahram.org.eg/News/5452906.aspx), [about 13.5 million users in October 2026](https://www.elwatannews.com/news/details/8381060), and [about 250 services in September 2026](https://gate.ahram.org.eg/News/5938370.aspx), which [presidential directives of October 2026 target raising to 500 before the end of 2026, with all public services digitised within three years](https://www.egypttoday.com/Article/1/150233/Egypt-Forum-2026-outlines-sweeping-development-agenda-to-raise-living).
 
-The state is closing the paper counter behind it. [Nine commercial-registry services became available exclusively through Digital Egypt from 1 January 2026](https://gate.ahram.org.eg/News/5452906.aspx); [limited liability companies have been incorporated only on GAFI's portal, with an electronic-signature token, since 3 August 2025](https://gate.ahram.org.eg/News/5259847.aspx), and [powers of attorney, notarisation lookups and notary-office booking are on Digital Egypt, though some transactions still need an office visit](https://www.vetogate.com/5748525) (October 2026).
+The state is closing the paper counter behind it. [Nine commercial-registry services became available exclusively through Digital Egypt from 1 January 2026](https://gate.ahram.org.eg/News/5452906.aspx); [environmental impact assessment files have gone only through the IDEIA platform since 1 November 2026](https://sis.gov.eg/en/media-center/news/egypt-launches-digital-environmental-impact-assessment-system-ends-paper-based-applications/); [limited liability companies have been incorporated only on GAFI's portal, with an electronic-signature token, since 3 August 2025](https://gate.ahram.org.eg/News/5259847.aspx), and [powers of attorney, notarisation lookups and notary-office booking are on Digital Egypt, though some transactions still need an office visit](https://www.vetogate.com/5748525) (October 2026).
 
 The justice ministry's [E-Court platform went live for first-instance criminal courts on 31 August 2026, charging lawyers EGP 500 a year, EGP 500 for each remote felony hearing and EGP 10 a page for certified case-file copies, fees the Lawyers Syndicate says have no legal basis](https://manassa.news/en/news/33836).
 

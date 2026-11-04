@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: EGY
-ledger_rows: 41
+ledger_rows: 43
 not_held: 36
-record: ede9de3d38cf
+record: c367c4d66d49
 ---
 
 # News, Oct – Nov 2026
@@ -548,6 +548,20 @@ Egypt has put key ration card services on the Digital Egypt platform: heads of h
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Digital Egypt users and transactions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«بدون طوابير».. مساعد وزير الاتصالات يكشف خطة تسهيل الخدمات الحكومية عبر منصة مصر الرقمية](https://www.elwatannews.com/news/details/8381060)** — الوطن, 20 October 2026
+
+Assistant minister Badawi: 13.5m users, ~30% yearly growth, 90% on mobile; digital-vault prototype for work contracts.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Consular services app for Egyptians abroad</p>
 
 <div class="bulletin-item" markdown="1">
@@ -655,6 +669,20 @@ Egypt's Cabinet Media Center launched "Chat Egypt" at Egypt Forum 2026, an AI pl
 **[Consumer Protection Agency head: AI used to analyse complaints and detect violation patterns](https://cairo.gov.eg/en/news/2026/october/22/ee7ef990fe2f40609756579de54d9b28)** — Cairo Governorate Electronic Portal, 22 October 2026
 
 The head of Egypt's Consumer Protection Agency, Ibrahim El-Segini, told Egypt Forum 2026 that the agency uses AI on complaints, inspection data, prices, adverts and online stores to spot violation patterns and high-risk sectors. It is also building a unified electronic inspection system tied to a central database and upgrading its complaints system to sort and route reports automatically.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government draft AI law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مصر تعتزم إصدار قانون خاص بالذكاء الاصطناعى لتنظيم استخداماته وحوكمته](https://www.youm7.com/story/2026/11/3/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA%D9%87-%D9%88%D8%AD%D9%88%D9%83%D9%85%D8%AA%D9%87/7604583)** — Youm7, 3 November 2026
+
+Youm7 reported that Egypt is in the final drafting stage of a dedicated law to regulate AI applications and their governance. The report names no official as its source. AI is governed at present under existing laws, including the Personal Data Protection Law 151 of 2020, cybercrime law 175 of 2018 and a 2022 fintech law.
 
 </div>
 
