@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-04
+period: 2026-10-01 to 2026-11-04
 place: MDG
-ledger_rows: 21
+ledger_rows: 22
 not_held: 5
-record: fba791667a4c
+record: b4f33e0fefc9
 ---
 
 # News, Oct – Nov 2026
@@ -233,6 +233,20 @@ Madagascar's electoral commission has provisionally registered 7,163,714 adults 
 **[Immatriculation sur Nifonline — Espace contribuable](https://hetraonline.impots.mg/accueil/papier_inscri)** — Direction Générale des Impôts (Madagascar), 17 October 2026
 
 Madagascar's tax directorate lets taxpayers apply for a tax identification number online through NIFONLINE. The page lists the documents individuals and companies must then present in person.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric electoral list</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liste électorale biométrique: la Ceni et ses partenaires préparent le terrain](https://newsmada.com/2026/10/24/liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-terrain/)** — Newsmada, 24 October 2026
+
+USD 750,000 of Japan-UNDP IT kit to CENI on 23 Oct 2026; 7.16m of 14m target registered on an alphanumeric roll.
 
 </div>
 
