@@ -22,8 +22,8 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 |---|---|
 | 5 Leading | 18 |
 | 4 Operating | 0 |
-| 3 Established | 22 |
-| 2 Nascent | 6 |
+| 3 Established | 23 |
+| 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 8 |
@@ -236,6 +236,12 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 - PANEOTECH says HydroMet AI, an LSTM and SWAT early warning system, is in production for UNDP Mauritania with the National Meteorological Office and Civil Security, producing graded WARNING or CRITICAL risk scores for floods, droughts, heatwaves and storms in the Senegal River Valley ([source, 2026-02-13](https://paneo.tech/projects/mr-hydromet-ai)).
 - The Office National de la Météorologie and UNDP run an AI-based agrometeorological early warning system whose services already benefit 20 women's cooperatives in Rosso, AMI reports; UNDP's sustainable development unit head says it supports yield estimates, climate risk forecasting and early crop disease diagnosis ([source, 2026-01-14](https://ami.mr/fr/archives/287234)).
 
+### Mauritius: 3 Established
+
+An AI-enabled water leak reporting service of the water authority was in service in 2026; AI in a second sector's system is not known.
+
+- Minister Ramtohul said an AI-enabled water leakage reporting service of the Central Water Authority is available through the KOREK super app ([source, 2026-08-17](https://mitci.govmu.org/mitci/online-motor-vehicle-licence-system-launched-for-taxi-operators/)).
+
 ### Namibia: 3 Established
 
 The health ministry introduced AI chest X-ray TB screening in 2025; no source found reports measured results.
@@ -321,12 +327,6 @@ An AI tool for a public sector's system was under way in 2025; none in service i
 An AI system for education was being developed in 2024; none in service is on record.
 
 - ICESCO says an initiative with Libya's Ministry of Education launched in Tripoli includes developing a system for integrating AI into the educational process ([source, 2024-07-17](https://icesco.org/en/2024/07/17/launch-of-new-initiative-to-integrate-foresight-and-artificial-intelligence-into-educational-process-in-libya-in-partnership-with-icesco/)).
-
-### Mauritius: 2 Nascent
-
-An AI tool for a public sector's system was under way in 2026; none in service is on record.
-
-- Mauritius Telecom says its MyTLearn AI tutor, developed with the Ministry of Education, has completed pilot projects across ten schools nationwide, and it aims to give every secondary school teacher an AI coach by 2027 ([source, 2026-07-16](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/)).
 
 ### Mozambique: 2 Nascent
 

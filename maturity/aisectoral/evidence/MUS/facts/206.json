@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-17-mus-online-motor-vehicle-licence-system-launched-for-taxi-operators",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Minister Ramtohul said an AI-enabled water leakage reporting service of the Central Water Authority is available through the KOREK super app.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "KOREK super app (CWA water leakage reporting)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KOREK super app",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-001",
-   "gaps": "No source found since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-003",
+      "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors; the education AI tools are pilots. No measured results are reported.",
+      "note": "In August 2026 the ICT minister said the Central Water Authority's AI-enabled leak reporting service is available through the government's KOREK app, an AI tool in service in a public sector's system. The education tools are still pilots, so not 4.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }
