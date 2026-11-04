@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Launch Base Africa reports the BCEAO capped PI-SPI transfer fees to protect consumers, free under 8,000 CFA francs a day and 0.8 per cent above, in force from 2 November 2026 and applying in Cote d'Ivoire.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "BCEAO transfer fee cap",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
