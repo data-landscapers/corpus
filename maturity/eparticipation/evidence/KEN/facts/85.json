@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-21-ken-moh-releases-venues-for-public-forums-on-digital-health-laws",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "Kenya's Ministry of Health posted three draft Digital Health Act regulations at health.go.ke and invited written comments by 19 December 2024, alongside regional forums.",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "Digital Health Act draft regulations consultation",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

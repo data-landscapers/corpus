@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-22-dza-civil-society-observatory-associations-law-consultation",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The National Observatory of Civil Society opened a digital platform for associations to register and submit views on the draft organic law on creating associations, open until 30 January 2025.",
+   "as_of": "2025-01-22",
+   "date_precision": "day",
+   "system": "digital consultation platform",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital consultation platform",
+   "country_label": "DZA",
+   "class": "eparticipation",
+   "platform": "web",
+   "owner": "National Observatory of Civil Society",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

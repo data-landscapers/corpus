@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-17-ago-projecto-de-revisao-da-lei-n-o-22-11-de-17-de-junho-lei-de-proteccao-d",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The Agencia de Protecao de Dados posted the draft revision of the data protection law on the consultation portal consultapublica.gov.ao for public comment from 17 March to 17 April 2025.",
+   "as_of": "2025-03-17",
+   "date_precision": "day",
+   "system": "Portal de Consulta Publica",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portal de Consulta Publica",
+   "country_label": "Angola",
+   "class": "eparticipation",
+   "platform": "",
+   "owner": "Instituto de Modernizacao Administrativa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "no evidence",
+      "stage": "unplaced",
       "online": "",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found says whether the public takes part in making policy online.",
-      "note": "Reassessed 2026-11-03: no row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-03"
+      "gaps": "No source found since October 2023 names a draft law or policy put to the public online; the 2025 suggestion box takes ideas on security.",
+      "note": "Reassessed 2026-11-04, no evidence to unplaced: the online suggestion box of January 2025 takes citizens' ideas on national security, not views on a named draft or policy, so it sets no rung. No source states that the public has no part.",
+      "as_at": "2026-11-04"
     }
   ]
 }

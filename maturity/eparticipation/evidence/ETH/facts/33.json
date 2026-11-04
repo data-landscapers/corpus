@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-28-eth-e-consultation-portal-launched-to-ensure-public-and-stakeholder-partic",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "standing",
+   "fact": "Ethiopia's Ministry of Justice, with GIZ and the Ministry of Innovation and Technology, launched an e-consultation portal for draft laws, developed for use by regions as well.",
+   "as_of": "2025-05-28",
+   "date_precision": "day",
+   "system": "E-consultation Portal",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-consultation Portal",
+   "country_label": "Ethiopia",
+   "class": "eparticipation",
+   "platform": "e-consultation portal",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

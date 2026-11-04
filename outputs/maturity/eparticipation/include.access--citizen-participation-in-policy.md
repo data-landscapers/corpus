@@ -22,11 +22,11 @@ The African Charter on Democracy, Elections and Governance asks for citizen part
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 3 |
-| 2 Nascent | 19 |
+| 3 Established | 5 |
+| 2 Nascent | 24 |
 | 1 Absent | 0 |
 | Unplaced | 7 |
-| No evidence | 23 |
+| No evidence | 16 |
 
 ## Countries
 
@@ -48,6 +48,20 @@ The ICT ministry's consultation portal took public contributions on draft laws i
 
 - MINTTICS describes its Consulta Publica portal as a tool for the public to take part in drafting the sector's guiding documents, listing documents in consultation and contributions received ([source, 2026-08-27](https://consultapublica.minttics.gov.ao/)).
 
+### Egypt: 3 Established
+
+Citizens comment online on issues the government posts each month, as of 2025; whether what they said is published is not known.
+
+- IDSC said citizens can register on its Hiwar platform and comment on government issues, with two new issues posted every 30 days, including aviation and water quality in May 2025 ([source, 2025-05-05](https://www.masrtimes.com/531613)).
+- The Egyptian Tax Authority launched a consultation platform letting companies and sector representatives submit views and proposals before tax decisions are issued ([source, 2026-01-24](https://cairoscene.com/News/Tax-Authority-Launches-Consultation-Platform-for-Businesses)).
+
+### Ghana: 3 Established
+
+A government portal takes comments online on draft laws and regulations, as of 2024; whether what was received is published is not known.
+
+- The World Bank blog says Ghana's Business Regulatory Reform unit runs a Public Consultation Portal through which civil society accesses draft laws and regulatory proposals and BRR officials review comments and poll results ([source, 2024-03](https://blogs.worldbank.org/en/africacan/transforming-governance-in-ghana-a-new-regulatory-service-model)).
+- NITA invited the public to comment on the draft NITA Data Harmonisation Bill 2025, posted on its website, from 19 to 27 November 2025, with responses sent by email ([source, 2025-11-19](https://nita.gov.gh/publicconsultation-3-2-2/)).
+
 ### Guinea: 3 Established
 
 The government secretariat's website took comments online on three draft texts in 2026; whether what was received is published is not known.
@@ -59,6 +73,18 @@ The government secretariat's website took comments online on three draft texts i
 The National Assembly's portal took citizen contributions on several bills in 2026; whether what was received is published is not known.
 
 - The National Assembly's Consultations Publiques portal lists several citizen consultations open to contributions, including the Electoral Code reform (13 February to 13 March 2026) and an environment bill ([source, 2026-10-17](https://parlement.mg/consultations/)).
+
+### Algeria: 2 Nascent
+
+Algeria took views online on its draft law on associations in 2025; a portal taking comments on more than one draft is not known.
+
+- The National Observatory of Civil Society opened a digital platform for associations to register and submit views on the draft organic law on creating associations, open until 30 January 2025 ([source, 2025-01-22](https://www.aljazairalyoum.dz/%d9%84%d8%a5%d8%ab%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d8%aa%d9%85%d9%87%d9%8a%d8%af%d9%8a-%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%ac%d9%85%d8%b9/)).
+
+### Benin: 2 Nascent
+
+Citizens could comment on the budget through a government application in 2025; a portal taking comments on more than one draft is not known.
+
+- The OGP account says Benin's BousProB application lets citizens follow and comment on the stages of the budget process, within an Open Budget Hub that opens 13 of 17 budget stages to civil society ([source, 2025-04-30](https://www.opengovpartnership.org/stories/co-creation-in-action-how-benin-is-making-budgets-work-for-people/)).
 
 ### Botswana: 2 Nascent
 
@@ -80,6 +106,12 @@ Cape Verde's regulator and government held public consultations on named proposa
 - ARME, Cape Verde's multisectoral regulator, launched a public consultation on a proposed regulatory framework for satellite communication networks and services, with submissions open until 31 August 2026 ([source, 2026-08-05](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/)).
 - The Government of Cabo Verde put the Portal da Transparencia, a fiscal transparency portal, out to public consultation from 27 June to 17 July 2025 ([source, 2025-06-27](https://www.governo.cv/portal-da-transparencia-em-consulta-publica/)).
 
+### Chad: 2 Nascent
+
+The prime minister asked the public online for priorities for the government programme in 2024; a standing channel for comments is not known.
+
+- RFI reported that Prime Minister Masra asked the public on social media platforms for their expectations and three priority sectors for the government programme to be presented on 18 January 2024 ([source, 2024-01](https://www.rfi.fr/fr/afrique/20240116-tchad-le-premier-ministre-succ%C3%A8s-masra-consulte-les-tchadiens-sur-les-r%C3%A9seaux-sociaux)).
+
 ### DR Congo: 2 Nascent
 
 The telecoms regulator posted a 5G consultation online in 2025, with replies by email; a portal taking comments online is not known.
@@ -99,13 +131,6 @@ Gambia's utilities regulator posted seven draft regulations online for comment b
 
 - PURA issued the draft Broadcasting and Online Content Regulations, 2026 for public consultation on 2 April 2026, published on its website alongside six other draft instruments ([source, 2026-04-02](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf)).
 - The Public Utilities Regulatory Authority posted seven named draft regulatory instruments, including the Broadcasting and Online Content Regulations, 2026, on its website for download and invited the general public to send comments electronically to legal@pura.gm between 1 and 10 April 2026 ([source, 2026-04-01](https://pura.gm/public-consultation-guidelines-and-notice/)).
-
-### Ghana: 2 Nascent
-
-Ghana posted its draft Data Harmonisation Bill online for comment in 2025, with replies by email; a portal taking comments online is not known.
-
-- NITA invited the public to comment on the draft NITA Data Harmonisation Bill 2025, posted on its website, from 19 to 27 November 2025, with responses sent by email ([source, 2025-11-19](https://nita.gov.gh/publicconsultation-3-2-2/)).
-- Graphic Online reports that NITA put out its draft Data Harmonisation Bill 2025 for public consultation from 19 to 27 November 2025, with the consultation document available on the NITA website at www.nita.gov.gh/publicconsultation ([source, 2025-10-21](https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html)).
 
 ### Guinea-Bissau: 2 Nascent
 
@@ -144,6 +169,12 @@ Mozambique posted its draft AI strategy online for comment by email in 2026; a p
 - Africa AI News reports INTIC opened a one-month public consultation on the first version of the draft National AI Strategy, running until 4 June 2026, with the full document on INTIC's website in editable and PDF formats and contributions sought from institutions, academia and citizens ([source, 2026-05](https://www.africaainews.com/p/mozambique-presents-draft-ai-strategy)).
 - INTIC says the first version of the proposed National Artificial Intelligence Strategy is on its official portal in Word and PDF for public consultation from 4 May to 4 June 2026, with comments sent by email ([source, 2026-05-04](https://intic.gov.mz/consulta-publica-da-proposta-da-estrategia-nacional-de-inteligencia-artificial/)).
 
+### Namibia: 2 Nascent
+
+Namibia took comments online on a draft green hydrogen investment plan in 2026; a portal taking comments on more than one draft is not known.
+
+- Namibia's Green Hydrogen Programme, for the government, opened a two-week online comment window on the draft Sectoral Transformation Investment Plan at gh2namibia.com, reported 11 August 2026 ([source, 2026-08-11](https://namibiabusinessreview.com/namibia-seeks-public-input-to-unlock-n4-1bn-green-fund/)).
+
 ### Niger: 2 Nascent
 
 Niger's national refoundation website invited public proposals as online comments in 2025; a portal taking comments on drafts is not known.
@@ -168,11 +199,23 @@ The regulator posted the cybersecurity strategy online for consultation in 2025,
 
 - AGER posted the National Cybersecurity Strategy of Sao Tome and Principe 2024-2028 and its action plan on its website for public consultation, with contributions to be sent within 30 days by the telephone and email contacts given ([source, 2025-09](https://www.ager.st/index.php/pt/actualidades/19-annonces/106-estrategia-nacional-de-ciberseguranca-de-sao-tome-e-principe)).
 
+### Somalia: 2 Nascent
+
+Somalia opened a digital platform for views on proposed constitutional amendments in 2024; a portal taking comments on more than one draft is not known.
+
+- On 17 March 2024 Lower House Speaker Madobe launched a Digital Platform for Public Consultations, built by the Independent Constitutional Review and Implementation Commission, to gather citizens' feedback on the proposed constitutional amendments, per Radio Dalsan ([source, 2024-03-17](https://radiodalsan.com/2024/03/18/speaker-madobe-launches-digital-platform-for-public-consultations-on-constitutional-review/)).
+
 ### South Africa: 2 Nascent
 
 South Africa posted a draft immigration white paper online for comment by email in 2025; a portal taking comments online is not known.
 
 - The SARB lists a 2026 draft directive on issuing and acquiring payments for offshore merchants with a comment template, comments due on 17 July 2026; the page does not say how comments were submitted ([source, 2026-07-17](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)).
+
+### Tanzania: 2 Nascent
+
+The finance ministry takes public views on tax online each December, as of 2025; a portal taking comments on several drafts is not known.
+
+- Tanzania's Ministry of Finance says its Maoni Portal is open to the public and that each December it opens a digital consultation window on improving the tax system ([source, 2025-06-23](https://www.therespondents.co.tz/2025/06/tanzania-invites-public-input-on-tax.html)).
 
 ### Tunisia: 2 Nascent
 
@@ -183,9 +226,9 @@ Tunisia took action plan proposals partly through a digital participation portal
 
 ### Ethiopia: Unplaced
 
-Nothing found since 2023 names online participation in making policy, so no stage is set.
+A portal for draft laws was launched in 2025; no draft put to the public on it is known, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
+Not established: The Ministry of Justice launched an e-consultation portal for draft laws in May 2025; no source since October 2023 names a draft put to the public on it.
 
 ### Gabon: Unplaced
 
@@ -201,9 +244,9 @@ Not established: Nothing found since October 2023 says whether the government ha
 
 ### Mauritania: Unplaced
 
-Nothing found since 2023 names online participation in making policy, so no stage is set.
+A platform for policy dialogue with civil society opened in 2024; no draft put to the public online is known, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
+Not established: No source found since October 2023 names a draft or policy put to the public online; the 2024 Space Plateforme is for dialogue with civil society and partners.
 
 ### Senegal: Unplaced
 
@@ -211,29 +254,17 @@ The telecoms regulator published a summary of a 2026 fibre consultation; whether
 
 Not established: No source found says ARTP's March 2026 FTTx consultation was held online or posted a named draft; only its synthesis of 21 contributions is shown online, in August 2026.
 
-### Somalia: Unplaced
+### Togo: Unplaced
 
-Nothing found since 2023 names online participation in making policy, so no stage is set.
+An online suggestion box on security opened in 2025; no draft or policy put to the public online is known, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
+Not established: No source found since October 2023 names a draft law or policy put to the public online; the 2025 suggestion box takes ideas on security.
 
 ### Zambia: Unplaced
 
 The standards bureau posted draft standards for comment in 2026; no draft law or policy put online is known, so no stage is set.
 
 Not established: No source found names a draft law, policy or regulation put online for comment; the standards bureau's drafts are technical standards, answered on a downloadable form.
-
-### Algeria: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
-
-### Benin: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Burkina Faso: No evidence
 
@@ -253,12 +284,6 @@ Nothing found names online participation in making policy or says there is none,
 
 Not established: Nothing found says whether the public takes part in making policy online.
 
-### Chad: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
-
 ### Comoros: No evidence
 
 Nothing found names online participation in making policy or says there is none, so no stage is set.
@@ -272,12 +297,6 @@ Nothing found names online participation in making policy or says there is none,
 Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Djibouti: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
-
-### Egypt: No evidence
 
 Nothing found names online participation in making policy or says there is none, so no stage is set.
 
@@ -307,12 +326,6 @@ Nothing found names online participation in making policy or says there is none,
 
 Not established: Nothing found says whether the public takes part in making policy online.
 
-### Namibia: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
-
 ### Seychelles: No evidence
 
 Nothing found names online participation in making policy or says there is none, so no stage is set.
@@ -332,18 +345,6 @@ Nothing found names online participation in making policy or says there is none,
 Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Sudan: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
-
-### Tanzania: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
-
-### Togo: No evidence
 
 Nothing found names online participation in making policy or says there is none, so no stage is set.
 

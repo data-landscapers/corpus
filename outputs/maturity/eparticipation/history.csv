@@ -74,3 +74,14 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-03,ZAF,include.access--citizen-participation-in-policy,review,2,2,ZAF-001,"Rebuild: first-pass cell re-read against its neighbours from every row held. Stage: the central bank and Home Affairs posted drafts for comment in 2025 and 2026, and the central bank's published feedback note dates from 2023, before the window. Nothing shows a portal taking comments online on more than one draft, so it is not stage 3."
 2026-11-03,ZMB,include.access--citizen-participation-in-policy,review,3,unplaced,,"Rebuild: first-pass cell re-read against its neighbours from every row held. Stage, 3 to unplaced: a site posting drafts with comments on a form sent back is not a portal taking comments online (Bill, 2026-10-26), and draft standards are not a named law, policy or regulation. No other row sets a rung."
 2026-11-03,ZWE,include.access--citizen-participation-in-policy,review,no evidence,no evidence,,"Rebuild: first-pass cell re-read against its neighbours from every row held. Stage: no row on this sub-indicator is held, so no stage is set."
+2026-11-04,BEN,include.access--citizen-participation-in-policy,fact,no evidence,2,BEN-001,OGP account of BousProB budget comments (2025) sets stage 2
+2026-11-04,DZA,include.access--citizen-participation-in-policy,fact,no evidence,2,DZA-002,"Online views on draft associations law (2025) set stage 2; Sawtoukoum takes proposals, not drafts"
+2026-11-04,EGY,include.access--citizen-participation-in-policy,fact,no evidence,3,EGY-002;EGY-001,IDSC Hiwar platform posts two issues a month for comment (2025) sets stage 3
+2026-11-04,ETH,include.access--citizen-participation-in-policy,fact,unplaced,unplaced,,E-consultation portal launch (2025) names no draft; stays unplaced
+2026-11-04,GHA,include.access--citizen-participation-in-policy,fact,2,3,GHA-004;GHA-002,"BRR Public Consultation Portal takes comments on drafts (World Bank, 2024) sets stage 3"
+2026-11-04,MRT,include.access--citizen-participation-in-policy,fact,unplaced,unplaced,,Space Plateforme (2024) names no draft and is not shown open to the public; stays unplaced
+2026-11-04,NAM,include.access--citizen-participation-in-policy,fact,no evidence,2,NAM-001,Online comments on draft green hydrogen investment plan (2026) set stage 2
+2026-11-04,SOM,include.access--citizen-participation-in-policy,fact,unplaced,2,SOM-002,Digital platform for views on constitutional amendments (2024) sets stage 2
+2026-11-04,TCD,include.access--citizen-participation-in-policy,fact,no evidence,2,TCD-001,Prime minister's social media call for programme priorities (2024) sets stage 2
+2026-11-04,TGO,include.access--citizen-participation-in-policy,fact,no evidence,unplaced,,Online security suggestion box (2025) names no draft or policy; unplaced
+2026-11-04,TZA,include.access--citizen-participation-in-policy,fact,no evidence,2,TZA-001,Maoni Portal yearly tax consultation (2025) sets stage 2

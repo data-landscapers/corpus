@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "no evidence",
-      "online": "",
+      "stage": "3",
+      "online": "standing",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the public takes part in making policy online.",
-      "note": "Reassessed 2026-11-03: no row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-03"
+      "stage_sources": "EGY-002;EGY-001",
+      "gaps": "No source found since October 2023 says the government published what it was told in an online consultation.",
+      "note": "Reassessed 2026-11-04, no evidence to 3: IDSC's Hiwar platform takes citizens' comments on two new government issues every 30 days, as at May 2025, and the Tax Authority opened a consultation platform in January 2026. Nothing says what was received was published.",
+      "as_at": "2026-11-04"
     }
   ]
 }

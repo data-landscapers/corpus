@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-05-egy-idsc-hiwar-platform-two-new-issues",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "standing",
+   "fact": "IDSC said citizens can register on its Hiwar platform and comment on government issues, with two new issues posted every 30 days, including aviation and water quality in May 2025.",
+   "as_of": "2025-05-05",
+   "date_precision": "day",
+   "system": "Hiwar platform",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hiwar platform",
+   "country_label": "EGY",
+   "class": "eparticipation",
+   "platform": "web",
+   "owner": "IDSC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

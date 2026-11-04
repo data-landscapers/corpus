@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-30-ben-co-creation-in-action-how-benin-is-making-budgets-work-for-people",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "standing",
+   "fact": "The OGP account says Benin's BousProB application lets citizens follow and comment on the stages of the budget process, within an Open Budget Hub that opens 13 of 17 budget stages to civil society.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "BousProB",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BousProB",
+   "country_label": "Benin",
+   "class": "eparticipation",
+   "platform": "application",
+   "owner": "Direction générale du Budget (Open Budget Hub)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

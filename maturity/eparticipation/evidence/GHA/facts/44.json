@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-26-gha-transforming-governance-in-ghana-a-new-regulatory-service-model-for-af",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The World Bank blog says the Business Regulatory Reform unit put the MSME Classification Regulation (2021) on its Public Consultation Portal, where it drew over 1,000 views and suggestions, one of which was adopted in the final regulation.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Public Consultation Portal",
+   "class": "eparticipation"
+  },
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "standing",
+   "fact": "The World Bank blog says Ghana's Business Regulatory Reform unit runs a Public Consultation Portal through which civil society accesses draft laws and regulatory proposals and BRR officials review comments and poll results.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Public Consultation Portal",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Consultation Portal",
+   "country_label": "Ghana",
+   "class": "eparticipation",
+   "platform": "web portal",
+   "owner": "Business Regulatory Reform unit, Ministry of Trade and Industry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

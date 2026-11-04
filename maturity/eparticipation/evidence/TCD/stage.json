@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "no evidence",
-      "online": "",
+      "stage": "2",
+      "online": "asked",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the public takes part in making policy online.",
-      "note": "Reassessed 2026-11-03: no row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-03"
+      "stage_sources": "TCD-001",
+      "gaps": "No source found since October 2023 says a portal takes comments online on more than one draft.",
+      "note": "Reassessed 2026-11-04, no evidence to 2: the prime minister asked the public on social media for priorities for the government programme in January 2024. Nothing shows a standing channel for comments on drafts, so it is not stage 3.",
+      "as_at": "2026-11-04"
     }
   ]
 }

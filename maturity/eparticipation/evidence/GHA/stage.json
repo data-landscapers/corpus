@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "2",
-      "online": "asked",
+      "stage": "3",
+      "online": "standing",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-002;GHA-001",
-      "gaps": "No source found since October 2023 says a portal takes comments online on more than one draft.",
-      "note": "Reassessed 2026-11-03: the draft Data Harmonisation Bill was posted online for comment in November 2025, with replies by email. Nothing shows a portal taking comments online on more than one draft, so it is not stage 3.",
-      "as_at": "2026-11-03"
+      "stage_sources": "GHA-004;GHA-002",
+      "gaps": "No source found since October 2023 says the government published what it was told in an online consultation.",
+      "note": "Reassessed 2026-11-04, 2 to 3: a World Bank account of March 2024 says the regulatory reform unit's Public Consultation Portal carries draft laws and regulatory proposals and takes comments and polls. Nothing in the window says what was received was published.",
+      "as_at": "2026-11-04"
     }
   ]
 }

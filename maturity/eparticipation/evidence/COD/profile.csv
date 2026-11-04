@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,eparticipation,online,coverage,asked,2025-03-03,COD-001,,
-COD,eparticipation,published,coverage,,,,,nothing held
-COD,eparticipation,required,coverage,,,,,nothing held
+COD,eparticipation,online,coverage,asked,2025-09,COD-001;COD-002,,
+COD,eparticipation,published,coverage,,,,,nothing found
+COD,eparticipation,required,coverage,,,,,nothing found

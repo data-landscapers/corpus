@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,eparticipation,online,coverage,asked,2026-02-12,RWA-001,,
-RWA,eparticipation,published,coverage,,,,,nothing held
-RWA,eparticipation,required,coverage,,,,,nothing held
+RWA,eparticipation,online,coverage,asked,2026-02-12,RWA-001;RWA-002,,
+RWA,eparticipation,published,coverage,,,,,nothing found
+RWA,eparticipation,required,coverage,,,,,nothing found

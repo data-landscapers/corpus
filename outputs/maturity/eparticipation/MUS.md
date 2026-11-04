@@ -2,7 +2,7 @@
 
 ## Online participation in policy
 
-**Asked online.** On 10 April 2025 the government [launched a public consultation on a draft report on children's online safety](<https://www.govmu.org/EN/newsgov/SitePages/Government-launches-public-consultation-to-beef-up-online-safety-of-children.aspx>). The draft was on the ministry's website. Views were taken by email or through the MAIA+ chatbot from 15 April 2025. In 2026 the National Agency for Drug Control [ran a submission portal for cannabis policy reform](<https://consultations.nadc.mu/>). It collected public comments and proposals online until 21 June 2026.
+**Asked online.** On 10 April 2025 the government [launched a public consultation on a draft report on children's online safety](<https://www.govmu.org/EN/newsgov/SitePages/Government-launches-public-consultation-to-beef-up-online-safety-of-children.aspx>). The draft was on the ministry's website. Views were taken by email or through the MAIA+ chatbot from 15 April 2025. In 2026 the National Agency for Drug Control [ran a submission portal for cannabis policy reform](<https://consultations.nadc.mu/>). It collected public comments and proposals online until 21 June 2026. The agency's working group [opened the platform on 29 May 2026](<https://topfm.mu/consultation-publique-sur-la-reforme-de-la-politique-du-cannabis-la-plateforme-en-ligne-est-ouverte>).
 
 **Answers published.** The nearest fact is [the cannabis policy submission portal](<https://consultations.nadc.mu/>). It took comments and proposals online on that one reform. The portal was run by the National Agency for Drug Control.
 

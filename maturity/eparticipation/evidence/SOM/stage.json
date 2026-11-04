@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "unplaced",
-      "online": "",
+      "stage": "2",
+      "online": "asked",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the government has asked the public for views online.",
-      "note": "Reassessed 2026-11-03: every row held is dated before the three-year window, so none sets a rung, and no source states that the public has no part.",
-      "as_at": "2026-11-03"
+      "stage_sources": "SOM-002",
+      "gaps": "No source found since October 2023 says a portal takes comments online on more than one draft.",
+      "note": "Reassessed 2026-11-04, unplaced to 2: a digital platform for public consultation on the proposed constitutional amendments was launched in March 2024. Nothing shows it taking comments on more than one draft, so it is not stage 3.",
+      "as_at": "2026-11-04"
     }
   ]
 }

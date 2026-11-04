@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-18-som-speaker-madobe-launches-digital-platform-for-public-consultations-on-c",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "On 17 March 2024 Lower House Speaker Madobe launched a Digital Platform for Public Consultations, built by the Independent Constitutional Review and Implementation Commission, to gather citizens' feedback on the proposed constitutional amendments, per Radio Dalsan.",
+   "as_of": "2024-03-17",
+   "date_precision": "day",
+   "system": "Digital Platform for Public Consultations on Constitutional Review",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Platform for Public Consultations on Constitutional Review",
+   "country_label": "Somalia",
+   "class": "eparticipation",
+   "platform": "",
+   "owner": "Independent Constitutional Review and Implementation Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
