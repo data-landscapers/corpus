@@ -1,0 +1,37 @@
+{
+ "slug": "2025-03-17-ago-projecto-de-revisao-da-lei-n-o-22-11-de-17-de-junho-lei-de-proteccao-d",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The consultation page treats Law 22/11 of 17 June, the Lei de Protecao de Dados Pessoais, as the existing law whose revision is under way.",
+   "as_of": "2025-03-17",
+   "date_precision": "day",
+   "system": "Lei n.o 22/11 de 17 de Junho",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The Agencia de Protecao de Dados put the draft revision of the data protection law out for public consultation from 17 March to 17 April 2025.",
+   "as_of": "2025-03-17",
+   "date_precision": "day",
+   "system": "Projecto de Revisao da Lei n.o 22/11",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Agencia de Protecao de Dados is the body listed as running the consultation on the revision.",
+   "as_of": "2025-03-17",
+   "date_precision": "day",
+   "system": "Agencia de Protecao de Dados",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

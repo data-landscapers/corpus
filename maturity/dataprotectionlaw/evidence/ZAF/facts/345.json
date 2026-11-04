@@ -1,0 +1,27 @@
+{
+ "slug": "2024-03-11-zaf-voters-roll-to-be-certified-for-2024-national-and-provincial-elections",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Electoral Commission says electronic copies of the voters' roll carry redacted identity numbers in compliance with the Protection of Personal Information Act.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Electoral Commission says it is cooperating with the Information Regulator over a disclosure of candidates' personal information.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The HCN official said data exchanges are strictly governed by the law on protection of personal data.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Loi relative a la protection des donnees a caractere personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The HCN official said the national personal data protection authority co-supervises data exchanges.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

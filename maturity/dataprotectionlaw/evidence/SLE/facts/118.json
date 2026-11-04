@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-03-sle-spectrum-monitoring-system-may-violate-privacy-rights",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Lawyer Joseph Fitzgerald Kamara writes in the Sierra Leone Telegraph that the country has no comprehensive data protection law in force and urges the government to enact the Data Protection Bill.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Data Protection Bill",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "The same op-ed says Sierra Leone has no independent privacy regulator.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
