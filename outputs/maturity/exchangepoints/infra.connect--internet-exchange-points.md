@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy 2020–2030 and its African 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 1 |
+| 5 Leading | 2 |
+| 4 Operating | 0 |
 | 3 Established | 9 |
 | 2 Nascent | 35 |
 | 1 Absent | 5 |
@@ -38,18 +38,20 @@ An exchange point in service by 2026, with a global content network, traffic gro
 - The companies say combined traffic across the two Kenyan LINX exchange points rose twentyfold over the past year, reaching a peak above 330 Gbps (no starting figure given) ([source, 2026-07-10](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb)).
 - LINX operates two interconnected exchange points in Kenya, Nairobi and Mombasa; a cloud provider connected to Mombasa in 2025 and to Nairobi in 2026, and both are described as providing routing options ([source, 2026-07-10](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb)).
 
-### Nigeria: 4 Operating
+### Nigeria: 5 Leading
 
-An exchange point in service by 2026, with a global content network and traffic growing.
+Google, Meta, Microsoft and TikTok peer at the exchange, its peak traffic rose to 1.7 Tbps in 2025, and it reaches Abuja and Enugu.
 
 - Global content networks Google, Meta, Microsoft and TikTok are among the current participants (members) at IXPN, per IT Pulse Nigeria; the article gives no date, so its publication date is used ([source, 2026-02-05](https://itpulse.com.ng/how-local-peering-grew-ixpns-traffic-from-4-gbps-in-2015-to-1-7-tbps-in-2025/)).
 - IXPN aggregate peak traffic grew from 4 Gbps in 2015 to 1.7 Tbps in 2025, a 42,400% increase over ten years, per IT Pulse Nigeria ([source, 2025](https://itpulse.com.ng/how-local-peering-grew-ixpns-traffic-from-4-gbps-in-2015-to-1-7-tbps-in-2025/)).
+- IXPN has regional connectivity in Abuja and Enugu as well as multiple points of presence in Lagos, per TechTV Network; Digital Realty announced a new IXPN point of presence at its Ibeju-Lekki data centre in April 2026 (Lagos) ([source, 2026-10-03](https://techtvnetwork.ng/post/ixpn-at-20-how-nigerias-internet-exchange-point-has-transformed-local-internet-connectivity)).
 
 ### Botswana: 3 Established
 
-An exchange point in service by 2025, with a global content network serving from it.
+An exchange point in service with a global content cache in 2025; its traffic over time is not known.
 
 - BOCRA's newsletter says BINX supports local Internet infrastructure through its Google Cache Cluster and a Packet Clearing House node ([source, 2025-10-15](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf)).
+- BOCRA's newsletter says the Botswana Internet Exchange (BINX), established by the Internet Service Providers Association, continues to play a vital role in local Internet infrastructure; it describes a stakeholder workshop held at BOCRA on 15 October 2025, and notes financial sustainability, outdated equipment and governance delays ([source, 2025-10-15](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf)).
 
 ### Burundi: 3 Established
 
@@ -185,7 +187,7 @@ An exchange point in service by 2025; no global content network is known to serv
 
 ### Lesotho: 2 Nascent
 
-An exchange point in service by 2026; no global content network is known to serve from it.
+An exchange point in service in 2026 with two unnamed content networks; whether a global one serves from it is not known.
 
 - PeeringDB's record, last updated 2026-05-13, lists the Lesotho Internet Exchange Point (LIXP) in Maseru, run by the Internet Exchange Point Association of Lesotho, with 3 peers, 3 connections, all open-policy, and 30G total declared capacity; Econet Telecom Lesotho is one of the peers ([source, 2026-05-13](https://www.peeringdb.com/ix/5015)).
 

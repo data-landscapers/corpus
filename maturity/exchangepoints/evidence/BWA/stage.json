@@ -1,16 +1,17 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "content",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-006",
-   "gaps": "No source found gives the exchange's traffic at two dates a year apart showing growth.",
-   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "content",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-006;BWA-005",
+      "gaps": "No source found gives the exchange's traffic at two dates a year apart showing growth. PCH's 2025 directory lists BINX as defunct, against BOCRA's October 2025 account of it in service with a Google cache; Digital Delta IX shows only its operator as a peer (April 2026).",
+      "note": "Rebuild 2026-11-04: BOCRA, the regulator, describes BINX in October 2025 as in service with a Google Cache Cluster, which is read over PCH's undated directory status of defunct. No traffic figures a year apart are held for any Gaborone exchange.",
+      "as_at": "2026-11-04"
+    }
+  ]
 }

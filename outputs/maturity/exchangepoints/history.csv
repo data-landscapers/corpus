@@ -3,3 +3,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,NAM,infra.connect--internet-exchange-points,fact,no evidence,2,NAM-001,Arrivals added NAM-001; NAM-002; stage no evidence -> 2.
 2026-10-17,SOM,infra.connect--internet-exchange-points,fact,no evidence,2,SOM-001,Arrivals added SOM-001; stage no evidence -> 2.
 2026-10-18,DJI,infra.connect--internet-exchange-points,fact,2,2,DJI-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-11-04,NGA,infra.connect--internet-exchange-points,review,4,5,NGA-008;NGA-007;NGA-002,"Rebuild: IXPN's regional connectivity in Abuja and Enugu (NGA-002, October 2026) now falls inside the cell's as-at and answers the reach question; content (NGA-008) and growth (NGA-007) stand. 4 -> 5."
+2026-11-04,BWA,infra.connect--internet-exchange-points,review,3,3,BWA-006;BWA-005,Rebuild: BOCRA's October 2025 account of BINX with a Google cache is read over PCH's undated 'defunct' listing; Digital Delta IX has one peer only. No traffic a year apart. Stays 3.
+2026-11-04,LSO,infra.connect--internet-exchange-points,review,2,2,LSO-001,"Rebuild: the regulator's two content delivery networks at LIXP are unnamed, so a global content network is not shown. Stays 2."
