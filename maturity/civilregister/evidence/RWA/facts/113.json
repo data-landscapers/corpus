@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-05-rwa-irembo-platform-transforms-access-to-public-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Irembo",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "MINICT",
+   "tiers": ""
+  }
+ ],
+ "note": "Civil registration is only named as a service on the portal; no digital register of births or deaths is described."
+}
