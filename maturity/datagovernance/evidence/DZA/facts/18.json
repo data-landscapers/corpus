@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The HCN official said data exchange is framed by executive decree 25-320 on national data governance, resting on a classification reference, an indexing catalogue and a national interoperability system.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Decret executif 25-320",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The HCN official said data exchanges are supervised jointly by the High Commission for Digitalisation, the national personal data protection authority and the information systems security agency.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Decret executif 25-320",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Decret executif 25-320",
+   "country_label": "Algeria",
+   "class": "policy",
+   "platform": "",
+   "owner": "HCN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
