@@ -524,6 +524,8 @@ DZA,"Icosnet data centre, Oran",Oran,datacentre,cloud,Icosnet,,2024-04-22-dza-un
 DZA,Centre national algerien des prestations numeriques (Data Center),National digital services data centre,datacentre,,High Commission for Digitalisation,,2024-04-22-dza-un-data-center-pour-heberger-et-centraliser-les-donnees-nationales
 DZA,Centre National Algérien des Services Numériques (two national data centres),DZA,other,,High Commission for Digitalisation,,2025-05-12-dza-algerie-numerique-2030-une-strategie-ambitieuse-pour-un-virage-digital
 DZA,"Centre national algerien des prestations numeriques (data centre, Algiers and Blida)",Algeria,other,,Haut-commissariat a la numerisation,,2024-08-25-dza-transformation-numerique-la-strategie-nationale-adoptee
+DZA,Centre national des services numeriques,Algeria,datacentre,government cloud and public cloud,,Uptime Tier III,2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance
+DZA,El Mohammedia national data centre,Algeria,other,,state,,2025-10-15-dza-lancement-prochain-de-la-plateforme-nationale-des-services-numeriques
 EGY,Hassan Allam Digital Infrastructure data center,,other,,Hassan Allam Holding and A15,,2026-10-07-egy-enterpriseam-data-center-equity-consortium
 EGY,Kemet data centre (Sokhna),,other,,INTRO Investment Holding,planned Tier 3,2026-09-23-egy-ahramonline-kemet-data-centre-intro-holding
 EGY,"National data hub, Ain Sokhna",,other,,State,,2026-09-23-egy-ahramonline-kemet-data-centre-intro-holding
@@ -998,6 +1000,7 @@ KEN,Oracle Cloud Infrastructure Nairobi region (planned),Kenya,other,OCI,Oracle,
 KEN,iXAfrica NBOX1,Kenya,datacentre,,iXAfrica Data Centres,,2026-10-30-workonline-communications-brings-its-african-network-to-ixafrica-s-nbo
 KEN,KoTDA Data Centre cloud services,Kenya,datacentre,,Konza Technopolis Development Authority,,2025-09-12-ken-cs-kabogo-outlines-plans-to-accelerate-digital-transformation-and-cons
 KEN,Konza data centre,Kenya,other,,Konza Technopolis,,2025-06-12-ken-budget-cs-mbadi-reduces-allocation-for-ict-proposes-sh12-7bn
+KEN,Nxtra data centre (Airtel Kenya),Kenya,other,,Airtel Kenya,,2026-11-02-airtel-kenya-secures-100mhz-5g-spectrum
 LBR,Cable Consortium of Liberia Monrovia landing facility,Co-location services,datacentre,,Cable Consortium of Liberia,,2025-04-29-cable-consortium-of-liberia-co-location-services
 LBR,National data center (planned),national data center,other,,Government of Liberia (Ministry of Posts and Telecommunications),,2026-09-30-liberia-national-data-center-investors-power
 LBR,National data center (planned),national data center,other,,Government of Liberia,,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
@@ -1208,6 +1211,7 @@ MRT,Datacenter National Tier3,Datacenter National,other,,State,Tier III,2024-11-
 MRT,Nouakchott Data Center,Mauritania,datacentre,,state (national),Tier III,2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak
 MRT,Government data centre (Ministry of Digital Transformation),Mauritania,other,hyperconverged infrastructure,Ministry of Digital Transformation and Modernisation of Administration,,2026-07-02-mrt-ami-minister-national-cloud-launch-national-assembly
 MRT,Nouakchott data centre,Mauritania,datacentre,,Mauritanian International Telecommunications company (as the agreement's counterparty),Tier III,2026-06-04-mrt-aned-data-localisation-agreement-nouakchott-data-centre
+MRT,Government data centre,Mauritania,other,,Ministry of Digital Transformation,,2024-11-12-mrt-decret-2024-154-portail-khidmaty
 MUS,Carrier-Neutral Green Centre,Carrier-Neutral Green Centre,other,,Government of Mauritius (announced),,2026-08-19-lexpress-mu-sadc-ramgoolam-carrier-neutral-green-centre
 MUS,Aphelion DC3,Aphelion DC3,datacentre,,Aphelion,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
 MUS,Rogers Capital Port Louis Data Center,Rogers Capital Port Louis Data Center,datacentre,,Rogers Capital,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica

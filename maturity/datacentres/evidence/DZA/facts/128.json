@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Les Enjeux Eco reports the national digital services centre holds an Uptime Tier III certification with 99.982% availability, on two interconnected sites at Mohammadia and Blida, hosting a government cloud and a public cloud for businesses, start-ups and individuals.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Centre national des services numeriques",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre national des services numeriques",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "government cloud and public cloud",
+   "owner": "",
+   "tiers": "Uptime Tier III"
+  }
+ ],
+ "note": ""
+}
