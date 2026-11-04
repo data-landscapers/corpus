@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-15-mar-consonews-mic-bilan-consommateur-projet-loi-31-08",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Ministry of Industry and Commerce said it sent the Secretariat General of the Government a bill amending consumer law 31-08 that adds an 'online platform operator' to regulate online selling.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "bill amending law 31-08",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law 31-08 amendment bill",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Industry and Commerce",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

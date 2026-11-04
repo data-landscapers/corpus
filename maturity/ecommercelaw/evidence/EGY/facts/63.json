@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-03-egy-youm7-egypt-plans-dedicated-ai-law",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Youm7 names the 2004 electronic signature law among Egypt's existing laws regulating digital transactions.",
+   "as_of": "2004",
+   "date_precision": "year",
+   "system": "Electronic Signature Law 2004",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
