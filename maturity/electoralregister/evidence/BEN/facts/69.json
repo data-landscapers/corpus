@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-13-ben-elections-generales-2026-l-anip-remet-officiellement-la-liste-electora",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The national identification agency ANIP handed the computerised electoral list (LEI) to the electoral commission CENA on 12 November 2025 under article 17 of Law 2024-13, with lists per department and polling post.",
+   "as_of": "2025-11-12",
+   "date_precision": "day",
+   "system": "Liste electorale informatisee (LEI)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liste electorale informatisee (LEI)",
+   "country_label": "Benin",
+   "class": "electoral",
+   "platform": "",
+   "owner": "ANIP; CENA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

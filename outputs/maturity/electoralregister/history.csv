@@ -77,3 +77,19 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-03,ZMB,dpi.registry--electoral-register,review,4,4,ZMB-001;ZMB-002,"Rebuild: voters could inspect the provisional register online, by USSD and at polling stations in 2026. Nothing links it to the ID register."
 2026-11-03,ZWE,dpi.registry--electoral-register,review,5,5,ZWE-003,"Rebuild: ZEC uses the Registrar-General's population database to clean the roll, the justice minister said in 2026."
 2026-11-03,COG,dpi.registry--electoral-register,ladder,4,1,COG-002,"Bill, 2026-11-03, messages-for-bill 71: an open list does not count for a roll shown to be kept by hand"
+2026-11-04,BWA,dpi.registry--electoral-register,fact,2,4,BWA-003,IEC said in 2024 the public may inspect each roll for 80 days at its offices; open answers the earlier questions
+2026-11-04,CMR,dpi.registry--electoral-register,fact,3,4,CMR-006;CMR-001,ELECAM put the roll online for voters to check from July 2025
+2026-11-04,COD,dpi.registry--electoral-register,fact,3,4,COD-003;COD-002,CENI mobile app let voters look up their entry from December 2023
+2026-11-04,COG,dpi.registry--electoral-register,fact,1,1,COG-002,"provisional lists open in December 2025; the 2025 revision was by hand, so stage 1 stands"
+2026-11-04,DZA,dpi.registry--electoral-register,fact,2,3,DZA-002,ANIE said in December 2023 that digitising registration cleaned the electoral file
+2026-11-04,ETH,dpi.registry--electoral-register,fact,3,3,ETH-001;ETH-003,NEBE chair spoke of Fayda integration in November 2025; the 2026 launch uses Fayda only for self-registration at selected stations
+2026-11-04,GMB,dpi.registry--electoral-register,fact,3,4,GMB-002;GMB-005;GMB-004,IEC displayed the provisional voters' list at 730 centres in July 2026
+2026-11-04,LBY,dpi.registry--electoral-register,fact,2,2,LBY-001;LBY-002,HNEC Decision 253 of December 2025 sets digital registration and a civil-registry check; a regulation is intent
+2026-11-04,LSO,dpi.registry--electoral-register,fact,3,5,LSO-012;LSO-011;LSO-007,IEC told an AU mission in July 2026 that registration is integrated with the National Identity and Civil Registry
+2026-11-04,MDG,dpi.registry--electoral-register,fact,2,1,MDG-004,2026 overhaul collects voter data mainly on paper; manual roll takes stage 1 under ruling 71
+2026-11-04,MLI,dpi.registry--electoral-register,fact,3,5,MLI-003;MLI-002;MLI-006,"electoral lists drawn from the biometric civil-status database with the NINA, 2026 report and amended law"
+2026-11-04,NAM,dpi.registry--electoral-register,fact,3,4,NAM-004;NAM-003,final 2024 roll published and given to parties to inspect
+2026-11-04,NER,dpi.registry--electoral-register,fact,unplaced,4,NER-003;NER-004,CENI said in January 2024 its biometric file can be consulted online
+2026-11-04,TGO,dpi.registry--electoral-register,fact,2,3,TGO-003;TGO-002,OIF audit judged the biometric register reliable in November 2023; 2025 revision updated it
+2026-11-04,TZA,dpi.registry--electoral-register,fact,4,5,TZA-003;TZA-007;TZA-001,INEC said in March 2025 its registration kits integrate with the NIDA database
+2026-11-04,UGA,dpi.registry--electoral-register,fact,4,5,UGA-005;UGA-002,"voter register compiled from NIRA biometric data, Daily Monitor October 2025"

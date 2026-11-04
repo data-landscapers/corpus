@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "2",
-      "roll": "underway",
-      "checked": "",
+      "stage": "4",
+      "roll": "inservice",
+      "checked": "open",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-002;BWA-001",
-      "gaps": "No source since October 2023 says a digital or biometric roll is in service.",
-      "note": "Reassessed 2026-11-03: money was appropriated in 2026 for electronic voter registration systems. Nothing says one is in service.",
-      "as_at": "2026-11-03"
+      "stage_sources": "BWA-003",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID register; only hard copies are given out.",
+      "note": "Reassessed 2026-11-04, 2 to 4: the IEC said in 2024 that the public may inspect each roll for 80 days at its offices, and a later yes answers the earlier questions. No source says the roll is kept by hand.",
+      "as_at": "2026-11-04"
     }
   ]
 }

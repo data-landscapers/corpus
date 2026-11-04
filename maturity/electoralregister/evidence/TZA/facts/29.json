@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-06-tza-inec-highlights-new-bvr-kit-functionality-android-based-more-portable",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "INEC says its Biometric Voter Registration kits, in use since 2019/2020, are being upgraded to an Android model for the March 2025 register update, with 3,427,917 voters registered in Dar es Salaam.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Biometric Voter Registration Kit (BVR Kit)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "INEC says the new BVR kit has been upgraded to integrate with the NIDA database, and matches fingerprints against existing records to detect double registration.",
+   "as_of": "2025-03-06",
+   "date_precision": "day",
+   "system": "Biometric Voter Registration Kit (BVR Kit)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric Voter Registration Kit (BVR Kit)",
+   "country_label": "Tanzania",
+   "class": "electoral",
+   "platform": "Android tablet, printer, fingerprint scanner",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

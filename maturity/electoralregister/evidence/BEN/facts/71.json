@@ -1,0 +1,46 @@
+{
+ "slug": "2025-08-11-ben-electoral-file-audit-the-initial-conclusions-of-the-expert-mission",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "Mission head Ronsard Malonda said the legal framework covers the establishment of the computerized electoral list, and that the electoral file is extracted from the RNPP and FNEC registers.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "Electoral File",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The experts said the provisional electoral list is being displayed and an upcoming consultation will let voters verify their information, make claims and correct data.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "Electoral File",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The experts said the Electoral File is extracted from the National Register of Physical Persons (RNPP) and the National Civil State File (FNEC), with duplicates eliminated upstream in the civil status file.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "Electoral File",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electoral File",
+   "country_label": "Benin",
+   "class": "electoral",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

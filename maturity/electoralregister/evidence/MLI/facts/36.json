@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-06-mli-fichier-electoral-l-heure-du-grand-nettoyage",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "Bamada.net, repeating Le Pays, reports Mali's electoral lists are revised each 1 October to 31 December and are drawn from the biometric civil-status database; the 2026 revision opened on 1 October.",
+   "as_of": "2026-10-06",
+   "date_precision": "day",
+   "system": "Fichier electoral (RALE 2026)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The lists are established from the biometric civil-status database, with the national identification number (NINA) as the voter's unique identifier.",
+   "as_of": "2026-10-06",
+   "date_precision": "day",
+   "system": "Fichier electoral (RALE 2026)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier electoral (RALE 2026)",
+   "country_label": "Mali",
+   "class": "electoral",
+   "platform": "biometric civil-status database",
+   "owner": "Ministry of Territorial Administration and Decentralisation, AIGE supervising",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

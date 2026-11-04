@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-17-civ-rencontre-avec-les-partis-et-groupements-politiques-et-des-organisatio",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The CEI said the 2024-2025 provisional electoral list of 8,761,348 voters was ready after enrolment on tablets, and handed parties a copy on USB.",
+   "as_of": "2025-03-17",
+   "date_precision": "day",
+   "system": "liste electorale provisoire",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The CEI said the provisional list would be displayed at enrolment centres from 17 to 21 March 2025, opening claims and objections from 22 March.",
+   "as_of": "2025-03-17",
+   "date_precision": "day",
+   "system": "liste electorale provisoire",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

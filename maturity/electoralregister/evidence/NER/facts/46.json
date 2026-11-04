@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-03-ner-niger-le-fichier-biometrique-electoral-une-garantie-pour-des-elections",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The CENI says the biometric electoral file (FEB), built by Gemalto with fingerprints of ten fingers and a photo, was used for the 2020-2021 elections and holds 7,651,870 voters across 9 regions.",
+   "as_of": "2024-01-03",
+   "date_precision": "day",
+   "system": "Fichier Electoral Biometrique (FEB)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The CENI says an extract of enrolled voters' data (name, first name) can be consulted online on the CENI site, with full details available at CENI offices.",
+   "as_of": "2024-01-03",
+   "date_precision": "day",
+   "system": "Fichier Electoral Biometrique (FEB)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier Electoral Biometrique (FEB)",
+   "country_label": "Niger",
+   "class": "electoral",
+   "platform": "Gemalto (now Thales)",
+   "owner": "CENI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

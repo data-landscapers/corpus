@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-01-zaf-remarks-by-chief-electoral-officer-sy-mamabolo-at-the-national-pledge",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The Chief Electoral Officer says the voters' roll was certified on 12 March 2024 at 27.7 million voters, registration runs through an online portal used by 2.4 million since July 2021, and electronic copies went to contestants.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "voters' roll",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "voters' roll",
+   "country_label": "South Africa",
+   "class": "electoral",
+   "platform": "online registration portal",
+   "owner": "Electoral Commission of South Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

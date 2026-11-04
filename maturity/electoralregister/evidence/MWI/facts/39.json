@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-30-mwi-30-june-2026-by-election-and-fresh-election",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "MEC held inspection and verification of the voters' register on 30 and 31 May 2026 at registration centres and offered an electronic check through *2509# on TNM and Airtel networks.",
+   "as_of": "2026-05-31",
+   "date_precision": "day",
+   "system": "voter register inspection",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "*2509# register verification",
+   "country_label": "Malawi",
+   "class": "electoral",
+   "platform": "",
+   "owner": "Malawi Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

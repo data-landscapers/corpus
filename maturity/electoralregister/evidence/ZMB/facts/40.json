@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-15-zmb-ecz-stakeholder-voter-registration-presentation",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The Electoral Commission of Zambia presented that it uses biometric voter registration kits capturing ten fingerprints and a portrait, adding new voters to an existing register of 7.07 million, with ABIS deduplication.",
+   "as_of": "2025-08-15",
+   "date_precision": "day",
+   "system": "Biometric Voter Registration Kits / register of voters",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric Voter Registration Kits and ABIS",
+   "country_label": "Zambia",
+   "class": "electoral",
+   "platform": "BVR kits, ABIS, online pre-registration portal",
+   "owner": "Electoral Commission of Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": "Inspection by ECZ website, centres and USSD *214# is scheduled for February 2026, so it is a plan; the NRC number is captured but no check against the national register is stated."
+}

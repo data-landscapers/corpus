@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-01-serap-inec-voter-register-ai-photos-ndpc",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "INEC published a preliminary Register of Voters on its website, from a voter-registration database holding millions of records, as stated in SERAP's letter and INEC's statement of 27 October 2026.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Register of Voters",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "INEC displayed the preliminary Register of Voters physically nationwide from 9 to 15 October 2026 and published it online, per SERAP quoting INEC.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Register of Voters",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Register of Voters",
+   "country_label": "Nigeria",
+   "class": "electoral",
+   "platform": "",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": "No link to the national ID or civil register is stated."
+}

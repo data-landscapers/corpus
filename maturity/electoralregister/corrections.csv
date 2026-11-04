@@ -4,3 +4,11 @@ COG,001,linked,linked,removed,First pass: an ID card required to register read a
 MDG,001,linked,linked,removed,First pass: an ID card required to register read as a link to the register
 SEN,002,linked,linked,removed,First pass: an ID card required to register read as a link to the register
 ZWE,002,linked,linked,removed,First pass: integration under way read as a link
+GHA,004,linked,linked,removed,An ID card used to register is not a link to the register
+LSO,008,linked,linked,removed,An ID document as the basis for registration is not a link to the register
+LSO,010,linked,linked,removed,An ID card as the sole identification is not a link to the register
+MWI,004,linked,linked,removed,An ID card as the sole identification is not a link to the register
+MWI,006,linked,linked,removed,An ID card required to register is not a link to the register
+SWZ,005,linked,linked,removed,An ID card required to register is not a link to the register
+SEN,004,checked,open,removed,An outdated 2022 file online that CENA told voters not to rely on is not the roll open for checking
+SOM,002,roll,inservice,removed,The opinion piece does not say the commission registers voters with software; it recommends auditing election software

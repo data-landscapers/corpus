@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-11-cmr-presidentielle-2025-cameroun-le-corps-electoral-convoque-le-fichier-el",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "Elecam put its electoral roll online at www.elecam.cm from 10 July 2025, so citizens registered between 2012 and 2024 can check their data and lodge claims; its director general says the roll holds 7,845,622 voters.",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "Elecam online electoral roll (www.elecam.cm)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Elecam online electoral roll (www.elecam.cm)",
+   "country_label": "Cameroon",
+   "class": "electoral",
+   "platform": "www.elecam.cm",
+   "owner": "Elections Cameroon (Elecam)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

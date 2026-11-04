@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-25-stp-cen-anuncia-aumento-do-numero-de-eleitores-mas-reclama-pela-logistica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIVIKA",
+   "country_label": "STP",
+   "class": "other",
+   "platform": "app",
+   "owner": "Comissao Eleitoral Nacional",
+   "tiers": ""
+  }
+ ],
+ "note": "Roll figures and an automatic update stated, but not that the roll is held in a digital or biometric register."
+}

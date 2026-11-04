@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "3",
+      "stage": "5",
       "roll": "inservice",
-      "checked": "",
-      "linked": "",
+      "checked": "open",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-006",
-      "gaps": "No source since October 2023 says voters could check the roll; an ID card required to register is not a link to the ID register.",
-      "note": "Reassessed 2026-11-03, 5 to 3: the IEC registered voters online and at its offices in its 2024 re-registration. An ID card as the sole identification is not a link to the register, as for Congo, Madagascar and Senegal.",
-      "as_at": "2026-11-03"
+      "stage_sources": "LSO-012;LSO-011;LSO-007",
+      "gaps": "",
+      "note": "Reassessed 2026-11-04, 3 to 5: the IEC told an AU mission in July 2026 that its registration system is integrated with the National Identity and Civil Registry through unique identification numbers. A later yes answers the earlier questions.",
+      "as_at": "2026-11-04"
     }
   ]
 }

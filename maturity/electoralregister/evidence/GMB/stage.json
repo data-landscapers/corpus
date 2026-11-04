@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "3",
+      "stage": "4",
       "roll": "inservice",
-      "checked": "",
+      "checked": "open",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-001",
-      "gaps": "No source since October 2023 says voters could check the roll.",
-      "note": "Reassessed 2026-11-03: the IEC's 2026 supplementary registration ran on a biometric system. Nothing says voters could check the roll.",
-      "as_at": "2026-11-03"
+      "stage_sources": "GMB-002;GMB-005;GMB-004",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID register.",
+      "note": "Reassessed 2026-11-04, 3 to 4: the IEC displayed the provisional voters' list at 730 registration centres in July 2026 for voters to check. Nothing links it to the ID register.",
+      "as_at": "2026-11-04"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-27-lso-iec-working-to-maintain-clean-voters-roll",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "Lesotho's IEC says it began a national voter re-registration on 1 August 2024, with about 65,000 people in its database by late November 2024 and online registration offered.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "National voters' roll re-registration",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The IEC says re-registration and new registration use the national identity card as the sole form of identification.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "National voters' roll re-registration",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National voters' roll",
+   "country_label": "Lesotho",
+   "class": "electoral",
+   "platform": "",
+   "owner": "Independent Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

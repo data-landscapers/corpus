@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometrique",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "The Prime Minister received 3,000 biometric enrolment kits on 1 April 2025, with a second 3,000 expected, to begin constituting the electoral file under PN-RAVEC.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "PN-RAVEC",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The national director of political and electoral affairs said the biometric census would constitute the national register of natural persons and the electoral file simultaneously.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "PN-RAVEC",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PN-RAVEC",
+   "country_label": "Guinea",
+   "class": "electoral",
+   "platform": "",
+   "owner": "MATD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

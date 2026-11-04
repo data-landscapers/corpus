@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-tgo-la-revision-des-listes-electorales-annoncee-du-07-au-23-avril-2025-en",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "A presidential decree of 1 April 2025 opened roll revision from 7 to 23 April 2025, in which the CENI revises the electoral file and issues biometric voter cards.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "fichier électoral",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "fichier électoral",
+   "country_label": "Togo",
+   "class": "electoral",
+   "platform": "",
+   "owner": "CENI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

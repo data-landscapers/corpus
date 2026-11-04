@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-11-zaf-voters-roll-to-be-certified-for-2024-national-and-provincial-elections",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The Electoral Commission says it will give electronic copies of the voters' roll, with 27.79 million voters, to parties and independent candidates, and that online self-service voter registration is in use.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "voters' roll",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The Electoral Commission says the provisional voters' roll was published for inspection on 26 February 2024 and the certified roll is made available at its head office, nine provincial offices and each municipal office.",
+   "as_of": "2024-02-26",
+   "date_precision": "day",
+   "system": "voters' roll",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "voters' roll",
+   "country_label": "South Africa",
+   "class": "electoral",
+   "platform": "",
+   "owner": "Electoral Commission of South Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

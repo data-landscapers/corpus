@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,electoral,roll,coverage,inservice,2026-01-05,ETH-001,,
-ETH,electoral,checked,coverage,,,,,nothing held
-ETH,electoral,linked,coverage,linked,2026-01-05,ETH-002,,
+ETH,electoral,roll,coverage,inservice,2026-04-22,ETH-001;ETH-003;ETH-005,,
+ETH,electoral,checked,coverage,,,,,nothing found
+ETH,electoral,linked,coverage,linked,2026-01-05,ETH-002;ETH-004,,

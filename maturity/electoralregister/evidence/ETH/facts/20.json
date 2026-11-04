@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-26-eth-dpg-heads-of-agencies-convene-to-advance-ethiopia-s-election-preparedn",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "NEBE chairperson Melatwork Hailu highlighted the integration of voter registration with the Fayda Digital ID system, to prevent duplication.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "NEBE voter registration system",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda Digital ID",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,electoral,roll,coverage,inservice,2026-01-26,MLI-001,,
-MLI,electoral,checked,coverage,,,,,nothing held
-MLI,electoral,linked,coverage,,,,,nothing held
+MLI,electoral,roll,coverage,inservice,2026-10-06,MLI-001;MLI-002;MLI-004,,
+MLI,electoral,checked,coverage,open,2025-01-02,MLI-005,,
+MLI,electoral,linked,coverage,linked,2026-10-06,MLI-003;MLI-006,,

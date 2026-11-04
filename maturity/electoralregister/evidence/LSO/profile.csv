@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,electoral,roll,coverage,inservice,2023-09,LSO-001;LSO-004,LSO-002=underway,
-LSO,electoral,checked,coverage,,,,,nothing held
-LSO,electoral,linked,coverage,linked,2024-10,LSO-003;LSO-005,,
+LSO,electoral,roll,coverage,inservice,2026-09,LSO-001;LSO-004;LSO-006;LSO-007;LSO-011,LSO-009=underway;LSO-002=underway,
+LSO,electoral,checked,coverage,,,,,nothing found
+LSO,electoral,linked,coverage,linked,2026-07,LSO-003;LSO-005;LSO-012,,

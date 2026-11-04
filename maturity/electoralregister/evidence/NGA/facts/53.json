@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-nga-how-to-check-your-name-on-inec-s-voters-register-online",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "INEC made the preliminary register for the 2027 election viewable online by polling unit at its display portal, with names and photographs, for voters to check.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "INEC online register portal",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INEC online register portal",
+   "country_label": "NGA",
+   "class": "electoral",
+   "platform": "web",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

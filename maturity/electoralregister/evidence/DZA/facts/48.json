@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-16-dza-elections-legislatives-l-anie-mise-sur-le-numerique-pour-garantir-la-t",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANIE central data centre",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIE",
+   "tiers": ""
+  }
+ ],
+ "note": "Document does not say the roll is held in a digital register, nor that voters can check it or that it is linked to ID; it names online registration and a central data centre tracking the revision."
+}

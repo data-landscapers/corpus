@@ -1,0 +1,54 @@
+{
+ "slug": "2025-09-12-gin-anomalies-sur-les-cartes-d-electeurs-la-dge-rassure-face-aux-inquietud",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "Guinea's Director General of Elections, Djénabou Touré Camara, speaking on West Africa TV, described a permanent biometric electoral file with 6.7 million voters enrolled via PN-RAVEC.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "PN-RAVEC enrolment / fichier électoral biométrique permanent",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The Director General of Elections said a two-week period was opened for citizens to check and correct their data at display centres.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "fichier électoral biométrique permanent",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Director General of Elections said voters' place of birth is now recorded precisely and linked to the Registre national des personnes physiques, and data can be corrected via the civil registry.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PN-RAVEC",
+   "country_label": "Guinea",
+   "class": "electoral",
+   "platform": "",
+   "owner": "DGE",
+   "tiers": ""
+  },
+  {
+   "system": "RNPP (Registre national des personnes physiques)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

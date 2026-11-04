@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-gab-revision-de-la-liste-electorale-2025-un-centre-dappel-a-votre-ecoute",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "Gabon's Interior Ministry says that during the roll revision of 14 July to 12 August 2025 citizens can consult their electoral information online, free, at consultation.listelectorale.ga, or through a call centre.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "consultation.listelectorale.ga",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "consultation.listelectorale.ga",
+   "country_label": "Gabon",
+   "class": "electoral",
+   "platform": "website",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

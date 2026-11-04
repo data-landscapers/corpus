@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-gmb-iec-says-canadian-contractor-provides-technical-support-not-control-of",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The IEC said it holds custody of the voter database for the 2026 supplementary registration, run with equipment and cyber support from contractor ESI.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "voter database",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

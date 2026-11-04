@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "2",
-      "roll": "underway",
+      "stage": "3",
+      "roll": "inservice",
       "checked": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-001",
-      "gaps": "No source since October 2023 says a digital or biometric roll is in service.",
-      "note": "Reassessed 2026-11-03: ANIE piloted a digital platform for revising the lists in Oran in 2025. Nothing says it is in service nationwide.",
-      "as_at": "2026-11-03"
+      "stage_sources": "DZA-002",
+      "gaps": "No source since October 2023 says voters could check the roll, or that it is drawn from or checked against the ID register.",
+      "note": "Reassessed 2026-11-04, 2 to 3: ANIE said in December 2023 that digitising registration had removed nearly a million duplicates from the electoral file. Nothing says voters could check the roll.",
+      "as_at": "2026-11-04"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-18-zmb-speech-by-the-ecz-chairperson-at-the-stakeholders-meeting-held-on-15th",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "The ECZ chairperson said the Commission signed the contract for supply and delivery of voter registration kits and software on 28 July 2025.",
+   "as_of": "2025-07-28",
+   "date_precision": "day",
+   "system": "voter registration kits and software",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-01-nam-electoral-commission-of-namibia-removes-over-15-500-duplicate-names-fr",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The Electoral Commission of Namibia used its automated fingerprint information system (Afis) to verify entries on the 2024 voters' register, removing 15,560 duplicate registrations from about 1.4 million voters.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Afis (Electoral Commission of Namibia)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The Namibian reports the final 2024 voters' roll was published and given to political parties to inspect.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "final voters' roll",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Afis",
+   "country_label": "Namibia",
+   "class": "electoral",
+   "platform": "automated fingerprint information system",
+   "owner": "Electoral Commission of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

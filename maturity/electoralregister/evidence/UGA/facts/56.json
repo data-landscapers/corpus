@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-29-uga-one-man-one-vote-inside-new-ec-biometric-system",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The Daily Monitor reports that Uganda's national voter register is a biometric register, and the Electoral Commission has used biometric voter verification at polls since 2016.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "national voter register",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Daily Monitor says the national voter register was compiled using biometric data extracted from the National Identification and Registration Authority (Nira).",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "national voter register",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric Voter Verification System (BVVS)",
+   "country_label": "Uganda",
+   "class": "electoral",
+   "platform": "Simi Valley Company kits",
+   "owner": "Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

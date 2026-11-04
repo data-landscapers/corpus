@@ -1,0 +1,44 @@
+{
+ "slug": "2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "INEC says it secured 6,000 biometric voter registration kits to update the Permanent National Voters' Register for the 2025 elections, with an upgrade starting 20 July 2024.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Permanent Voters Register",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "INEC says online corrections to the voters register require a NIDA National Identification Number, which verifies the voter information being corrected.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Voters Registration System",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Permanent Voters Register",
+   "country_label": "Permanent Voters Register",
+   "class": "electoral",
+   "platform": "BVR kits",
+   "owner": "INEC",
+   "tiers": ""
+  },
+  {
+   "system": "Voters Registration System",
+   "country_label": "Voters Registration System",
+   "class": "electoral",
+   "platform": "Android",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

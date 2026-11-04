@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "3",
+      "stage": "4",
       "roll": "inservice",
-      "checked": "",
+      "checked": "open",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-002;NAM-001",
-      "gaps": "No source since October 2023 says voters could check the roll.",
-      "note": "Reassessed 2026-11-03: the commission stores biometric registrations on a central voters' roll, deduplicated in 2024. Nothing says voters could check it.",
-      "as_at": "2026-11-03"
+      "stage_sources": "NAM-004;NAM-003",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID register.",
+      "note": "Reassessed 2026-11-04, 3 to 4: the final 2024 roll was published and given to parties to inspect, after a fingerprint check removed 15,560 duplicates. Nothing links it to the ID register.",
+      "as_at": "2026-11-04"
     }
   ]
 }

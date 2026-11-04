@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-06-sen-mise-en-garde-de-la-cena-concernant-la-verification-de-l-inscription-s",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "CENA said on 6 January 2024 that the voter file on its website still held the 2022 legislative-election version, not yet updated for the 2024 presidential election, and advised voters not to rely on it.",
+   "as_of": "2024-01-06",
+   "date_precision": "day",
+   "system": "fichier electoral (CENA website)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "fichier electoral",
+   "country_label": "Senegal",
+   "class": "electoral",
+   "platform": "website voter file",
+   "owner": "CENA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "2",
-      "roll": "underway",
+      "stage": "1",
+      "roll": "none",
       "checked": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-002",
-      "gaps": "No source since October 2023 says a digital or biometric roll is in service.",
-      "note": "Reassessed 2026-11-03: the 2025 government programme says it will continue digitalising the roll. A programme is intent, so it does not reach 3.",
-      "as_at": "2026-11-03"
+      "stage_sources": "MDG-004",
+      "gaps": "No source since October 2023 says a digital or biometric roll is in service; a biometric list is in preparation (MDG-003), which does not count for a roll kept by hand.",
+      "note": "Reassessed 2026-11-04, 2 to 1, under Bill's ruling of 2026-11-03 (messages-for-bill 71): the August 2026 overhaul collects voter data mainly on paper forms (MDG-004), so the roll is kept by hand. Equipment for a biometric list arrived in October 2026 (MDG-003), which the ruling does not let answer question 1.",
+      "as_at": "2026-11-04"
     }
   ]
 }

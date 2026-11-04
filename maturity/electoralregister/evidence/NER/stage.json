@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "unplaced",
-      "roll": "",
-      "checked": "",
+      "stage": "4",
+      "roll": "inservice",
+      "checked": "open",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source since October 2023 says how the voters' roll is held; the facts held are older.",
-      "note": "Reassessed 2026-11-03: the facts are a 2020 audit and a 2019 report on the biometric file, outside the three years.",
-      "as_at": "2026-11-03"
+      "stage_sources": "NER-003;NER-004",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID register.",
+      "note": "Reassessed 2026-11-04, unplaced to 4: CENI said in January 2024 that its biometric file of 7.65 million voters can be consulted online. Nothing links it to the ID register.",
+      "as_at": "2026-11-04"
     }
   ]
 }

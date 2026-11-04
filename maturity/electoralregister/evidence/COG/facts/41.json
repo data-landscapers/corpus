@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-11-cog-presidentielle-2026-des-listes-electorales-provisoires-deja-disponible",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The DGAE says the provisional electoral lists were available in administrative districts for public consultation and claims from 3 to 16 December 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "listes electorales provisoires",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "listes electorales provisoires",
+   "country_label": "Congo",
+   "class": "electoral",
+   "platform": "posted lists",
+   "owner": "DGAE, Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-31-eth-ballots-beyond-glitches-ethiopia-prepares-to-chart-its-next-five-years",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The National Election Board introduced digital voter registration with tablets and the Mirchaye app from January 2026, falling back to paper where networks failed, and says nearly 5.5 million people obtained voter cards digitally.",
+   "as_of": "2026-04-22",
+   "date_precision": "day",
+   "system": "Mirchaye",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mirchaye",
+   "country_label": "Mirchaye",
+   "class": "electoral",
+   "platform": "tablets and mobile app",
+   "owner": "National Election Board of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

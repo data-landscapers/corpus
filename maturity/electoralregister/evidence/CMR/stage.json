@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "3",
+      "stage": "4",
       "roll": "inservice",
-      "checked": "",
+      "checked": "open",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-001;CMR-004",
-      "gaps": "No source since October 2023 says voters could check the roll.",
-      "note": "Reassessed 2026-11-03: ELECAM keeps a biometric file of about 8.2 million voters and deduplicated it in 2025. Nothing says voters could check it.",
-      "as_at": "2026-11-03"
+      "stage_sources": "CMR-006;CMR-001",
+      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID register.",
+      "note": "Reassessed 2026-11-04, 3 to 4: ELECAM put the roll online for voters to check their entries from July 2025. Nothing links it to the ID register.",
+      "as_at": "2026-11-04"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-07-gmb-revising-courts-to-hear-1-600-objections-after-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The IEC said the provisional voters' list was displayed at 730 registration centres from 7 to 16 July 2026 for corrections, appeals and objections, later extended to 27 July.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "provisional list of voters",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-20-gha-nationwide-voters-exhibition-starts-today",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The Electoral Commission exhibited the provisional voters' register at more than 38,000 polling stations in all 268 districts from 20 to 27 August 2024, and voters could also verify details by dialling *711*51#, per the Ghana News Agency.",
+   "as_of": "2024-08-20",
+   "date_precision": "day",
+   "system": "provisional voters' register exhibition",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "USSD *711*51# voter verification",
+   "country_label": "Ghana",
+   "class": "electoral",
+   "platform": "USSD",
+   "owner": "Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

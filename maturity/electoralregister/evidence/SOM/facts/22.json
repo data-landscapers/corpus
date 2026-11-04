@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-03-som-elections-are-about-data-somalia-s-one-person-one-vote-dilemma",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "An opinion piece by M&E specialist Abdulrazak Abduljalil Haji says the Elections Commission uses election software to register voters and issues photo voter cards, with more than 4,000 duplicate voter records by the Commission's own account.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Election software and voter cards",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

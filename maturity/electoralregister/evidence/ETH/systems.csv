@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ETH,Mirchaye,Ethiopia,electoral,"web and mobile app, plus Board tablets",National Election Board of Ethiopia,,2026-01-05-nebe-mirchaye-voter-registration-system
 ETH,Fayda,Ethiopia,other,,,,2026-01-05-nebe-mirchaye-voter-registration-system
+ETH,Mirchaye,Mirchaye,electoral,tablets and mobile app,National Election Board of Ethiopia,,2026-05-31-eth-ballots-beyond-glitches-ethiopia-prepares-to-chart-its-next-five-years
+ETH,Fayda Digital ID,Ethiopia,other,,,,2025-11-26-eth-dpg-heads-of-agencies-convene-to-advance-ethiopia-s-election-preparedn
+ETH,NEBE voter registration application,ETH,electoral,web/app,NEBE,,2025-06-10-eth-nebe-announces-digital-overhaul-for-upcoming-seventh-national-election

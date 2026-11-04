@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-08-lby-hnec-decision-253-2025-voter-register-update-regulation",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "HNEC Decision 253 of 2025 adopts a regulation setting up a digital registration system by SMS and an in-person system for the voter register.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "HNEC voter register digital registration",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The regulation defines the voter register update as checking HNEC databases against changes in the Civil Registry Authority database, and requires applicants to hold a national number in the national number system.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "HNEC voter register",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voter registry",
+   "country_label": "Libya",
+   "class": "electoral",
+   "platform": "SMS digital registration",
+   "owner": "High National Elections Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

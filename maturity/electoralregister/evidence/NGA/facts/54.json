@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-17-nga-six-months-to-presidential-poll-inec-raises-preparation-tempo",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "INEC chairman Joash Amupitan says the electoral register now contains over 100 million names and eligible Nigerians can register as voters using phones or tablets.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "INEC voter register",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Amupitan says INEC's online voter registration platform is anchored on the NIN as a verification protocol.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "INEC online voter registration platform",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

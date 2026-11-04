@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-001",
-      "gaps": "No source since October 2023 says a digital or biometric roll is in service.",
-      "note": "Reassessed 2026-11-03: HNEC piloted biometric voter verification in four municipalities in 2024. Nothing says a digital roll is in service.",
-      "as_at": "2026-11-03"
+      "stage_sources": "LBY-001;LBY-002",
+      "gaps": "No source since October 2023 says a digital roll is in service; the 2025 regulation's check against the civil registry is not shown carried out.",
+      "note": "Reassessed 2026-11-04: HNEC's Decision 253 of December 2025 sets up digital registration and a check against the civil registry. A regulation is intent, and nothing says a digital roll is in service.",
+      "as_at": "2026-11-04"
     }
   ]
 }

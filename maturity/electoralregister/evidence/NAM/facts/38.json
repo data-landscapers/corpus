@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-06-nam-ecn-explains-slow-start-of-mobile-voter-registration-system",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The Electoral Commission of Namibia says its custom-made digital biometric voter registration system, in use since 2014, is still effective, and an enhanced Integrated Mobile Voter Registration System began production use for the general registration of voters on 3 June 2024.",
+   "as_of": "2024-06-03",
+   "date_precision": "day",
+   "system": "Integrated Mobile Voter Registration System (IMVRS)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Mobile Voter Registration System (IMVRS)",
+   "country_label": "Namibia",
+   "class": "electoral",
+   "platform": "mobile biometric registration",
+   "owner": "Electoral Commission of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-29-gin-referendum-2025-la-dge-presente-le-fichier-electoral-aux-acteurs-polit",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The DGE presented the permanent biometric electoral file with its final results to political parties on 29 August 2025, ahead of voter card distribution on 6-21 September 2025 for the constitutional referendum.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "fichier électoral biométrique permanent",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "fichier électoral biométrique permanent",
+   "country_label": "Guinée",
+   "class": "electoral",
+   "platform": "",
+   "owner": "DGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

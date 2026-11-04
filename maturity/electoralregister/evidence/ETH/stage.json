@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-001",
+      "stage_sources": "ETH-001;ETH-003",
       "gaps": "Fayda ID data feed only self-registration, at selected polling stations; no source says voters could check the roll.",
-      "note": "Reassessed 2026-11-03, 5 to 3: NEBE's Mirchaye system holds the roll from January 2026. Fayda data are used only for self-registration at selected stations, so the roll is not shown drawn from the ID register.",
-      "as_at": "2026-11-03"
+      "note": "Reassessed 2026-11-04: NEBE's chair spoke in November 2025 of integrating registration with Fayda, but the January 2026 launch uses Fayda data only for self-registration at selected stations. Nothing says voters could check the roll.",
+      "as_at": "2026-11-04"
     }
   ]
 }

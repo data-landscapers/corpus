@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "3",
+      "stage": "5",
       "roll": "inservice",
-      "checked": "",
-      "linked": "",
+      "checked": "open",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-001",
-      "gaps": "No source since October 2023 says voters could check the roll.",
-      "note": "Reassessed 2026-11-03: the AIGE manages the electoral file with its Elector software in 2026. Nothing says voters could check it.",
-      "as_at": "2026-11-03"
+      "stage_sources": "MLI-003;MLI-002;MLI-006",
+      "gaps": "",
+      "note": "Reassessed 2026-11-04, 3 to 5: the electoral lists are drawn from the biometric civil-status database, with the NINA as each voter's identifier, a 2026 report says. A later yes answers the earlier questions.",
+      "as_at": "2026-11-04"
     }
   ]
 }

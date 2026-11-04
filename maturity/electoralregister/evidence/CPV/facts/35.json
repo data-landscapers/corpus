@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-26-cpv-reforma-do-codigo-eleitoral-introduz-votacao-electronica-e-novas-regra",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema de Informação Eleitoral (SIE)",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The electoral information system linked to the SNIAC ID is only in a proposed revision of the Electoral Code, not procured, piloted or in service."
+}

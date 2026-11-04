@@ -1,0 +1,54 @@
+{
+ "slug": "2025-02-21-ben-inquietudes-autour-de-la-fiabilite-de-la-liste-electorale-informatisee",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "ANIP's director general said on 21 February 2025 that Benin's Liste Electorale Informatisee holds nominative, personal and biometric data of voters.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Liste Electorale Informatisee (LEI)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "ANIP's director general said citizens can request correction of their information when the provisional computerised electoral list (LEIP) is displayed.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Liste Electorale Informatisee Provisoire (LEIP)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "ANIP's director general said the electoral list is extracted directly from the Registre National des Personnes Physiques.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Liste Electorale Informatisee (LEI)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liste Electorale Informatisee (LEI)",
+   "country_label": "Benin",
+   "class": "electoral",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

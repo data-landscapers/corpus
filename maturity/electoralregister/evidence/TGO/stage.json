@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "2",
-      "roll": "underway",
+      "stage": "3",
+      "roll": "inservice",
       "checked": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001",
-      "gaps": "No source since October 2023 says a digital or biometric roll is in service.",
-      "note": "Reassessed 2026-11-03: operators were trained on biometric kits for the 2025 revision. Nothing says the revised roll is held digitally.",
-      "as_at": "2026-11-03"
+      "stage_sources": "TGO-003;TGO-002",
+      "gaps": "No source since October 2023 says voters could check the roll, or that it is drawn from or checked against the ID register.",
+      "note": "Reassessed 2026-11-04, 2 to 3: an OIF audit judged the biometric electoral register reliable in November 2023, and the 2025 revision updated it. Nothing says voters could check it.",
+      "as_at": "2026-11-04"
     }
   ]
 }

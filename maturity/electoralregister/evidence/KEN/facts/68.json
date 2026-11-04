@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-19-ken-commission-resumes-continuous-voter-registration-with-colourful-launch",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The IEBC chair said a new Biometric Voter Registration module had been integrated into the KIEMS system for the continuous voter registration launched in 2025, with 24,128 centres gazetted.",
+   "as_of": "2025-09-29",
+   "date_precision": "day",
+   "system": "KIEMS",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KIEMS",
+   "country_label": "KEN",
+   "class": "electoral",
+   "platform": "",
+   "owner": "IEBC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

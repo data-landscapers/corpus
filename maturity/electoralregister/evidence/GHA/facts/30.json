@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-13-gha-full-text-deputy-commissioner-of-the-electoral-commission-briefs-journ",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The Electoral Commission's Deputy Commissioner says the 2024 limited registration ran at 268 district offices on an online registration system that prevents double registration, with 251,149 voters registered by day six.",
+   "as_of": "2024-05-13",
+   "date_precision": "day",
+   "system": "Voters register",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Electoral Commission says applicants identify themselves with the Ghana Card, used by 98,926 registrants (39.39%) in the first days, and it wants the guarantor system abolished.",
+   "as_of": "2024-05-13",
+   "date_precision": "day",
+   "system": "Voters register",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voters register",
+   "country_label": "Voters register",
+   "class": "electoral",
+   "platform": "online and offline registration kits",
+   "owner": "Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

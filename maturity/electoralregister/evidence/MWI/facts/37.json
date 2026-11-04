@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-15-mwi-nrb-deploys-staff-to-some-voter-registration-centres",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Malawi's election law (section 12) requires the electoral commission to accept a national ID or an NRB proof-of-registration notification as the sole identification for voter registration, and NRB staff verify IDs at centres, per the Nation.",
+   "as_of": "2024-11-15",
+   "date_precision": "day",
+   "system": "voter registration",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NRB biometric registration kits",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
