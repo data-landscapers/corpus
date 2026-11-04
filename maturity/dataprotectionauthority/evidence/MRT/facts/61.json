@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-12-mrt-decret-2024-154-portail-khidmaty",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Decree 2024-154 requires new Khidmaty sub-platforms to follow authorisation of the Personal Data Protection Authority under law 2017-020 of 22 July 2017, naming the body in that law's scheme but not saying it is appointed.",
+   "as_of": "2024-11-12",
+   "date_precision": "day",
+   "system": "Autorité de Protection des Données à caractère personnel",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

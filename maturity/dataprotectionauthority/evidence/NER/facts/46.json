@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-03-ner-niger-le-fichier-biometrique-electoral-une-garantie-pour-des-elections",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "A CENI official says that publishing all roll data could bring the CENI before the Haute autorite de protection des donnees a caractere personnel, naming the body under the data protection law in force in Niger.",
+   "as_of": "2024-01-03",
+   "date_precision": "day",
+   "system": "Haute autorite de protection des donnees a caractere personnel",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Haute autorite de protection des donnees a caractere personnel",
+   "country_label": "Niger",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

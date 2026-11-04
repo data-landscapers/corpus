@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-11-zaf-voters-roll-to-be-certified-for-2024-national-and-provincial-elections",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Electoral Commission says it is cooperating with the Information Regulator over the unauthorised disclosure of candidate lists, showing the Regulator acting on the matter.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Regulator",
+   "country_label": "South Africa",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

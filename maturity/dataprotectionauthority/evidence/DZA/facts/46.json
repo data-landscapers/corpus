@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-14-dza-lancement-du-portail-national-des-services-numeriques-la-e-gouvernance",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The HCN official said data exchanges are jointly supervised by the Autorite nationale de protection des donnees a caractere personnel (ANPDP), together with HCN and the information security agency.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
