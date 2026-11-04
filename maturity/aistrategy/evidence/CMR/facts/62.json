@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-03-africas-ai-ambitions-depend-on-stronger-digital-public-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "none",
+   "fact": "Remy Takang, in a September 2026 policy brief, found that the AI authority, presidential council, regulatory sandboxes and national computing infrastructure envisaged in Cameroon's national AI strategy were not in place.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Cameroon national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

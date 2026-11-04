@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-eu-inec-ai-electoral-misinformation",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Executive Secretary of the Nigerian Press Council, speaking for the Minister of Information, cited the Federal Government's National Artificial Intelligence Strategy, published in 2024, as the framework for AI development and deployment (Voice of Nigeria).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "Nigeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Federal Government of Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
