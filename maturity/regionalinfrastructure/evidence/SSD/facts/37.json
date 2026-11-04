@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-bayobab-east-west-fibre-south-sudan",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "building",
+   "fact": "Bayobab (MTN Group) said on 22 October 2026 that it had completed civil works and fibre deployment on the Kenya and South Sudan segments of Northern Route 1 of its East to West Connectivity Project, 2,038km of fibre, with activation still to come.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Bayobab East to West Connectivity Project, Northern Route 1",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bayobab East to West Connectivity Project, Northern Route 1",
+   "country_label": "South Sudan",
+   "class": "shared",
+   "platform": "terrestrial fibre",
+   "owner": "Bayobab (MTN Group)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -22,8 +22,8 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 38 |
-| 3 Established | 2 |
-| 2 Nascent | 8 |
+| 3 Established | 3 |
+| 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
 | No evidence | 1 |
@@ -307,6 +307,12 @@ Ethiopia's operator began deploying a fibre corridor to Djibouti and Sudan in Au
 - Tech Africa News reports that Ethio telecom has moved from planning into active deployment of the Horizon Fiber corridor linking Djibouti, Ethiopia, Sudan and Jeddah, with end-to-end architecture finalised and site-material procurement and delivery complete so physical deployment can proceed ([source, 2026-08-20](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/)).
 - On Monday 7 September 2026 the three operators presented Horizon in Addis Ababa to hyperscalers, carriers and vendors in a pre-commercialisation phase, seeking partner interest and feedback before deployment and commercial launch; the document describes the infrastructure as future ([source, 2026-09-07](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)).
 
+### South Sudan: 3 Established
+
+Fibre to Kenya was laid on a regional route by October 2026, not yet switched on; nothing shared is known to be in service.
+
+- Bayobab (MTN Group) said on 22 October 2026 that it had completed civil works and fibre deployment on the Kenya and South Sudan segments of Northern Route 1 of its East to West Connectivity Project, 2,038km of fibre, with activation still to come ([source, 2026-10-22](https://tech.africa/bayobab-east-west-fibre-south-sudan/)).
+
 ### Angola: 2 Nascent
 
 Angola signed agreements in 2026 for Mozambique and Namibia to use its satellite; no shared link or facility is known to be in service.
@@ -345,13 +351,6 @@ Sierra Leone and Guinea agreed in 2024 and 2025 to join their fibre networks at 
 
 - SOGEB (Guinea) and Leoncom (Sierra Leone) signed an interconnection agreement in Conakry to link their national fibre networks at Pamelap on the border, with initial capacity of 42.5 Gbps and plans for 100 Gbps by 2026; the document gives no date for the signing, so its published date is used ([source, 2025-06-23](https://www.telecomreviewafrica.com/articles/general-news/12188-guinea-and-sierra-leone-link-national-fibre-networks-for-regional-digital-integration/)).
 - NatCA states that in November 2024 Sierra Leone and Guinea signed an agreement to interconnect their national internet backbone networks ([source, 2024-11](https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/)).
-
-### South Sudan: 2 Nascent
-
-South Sudan invited bids in September 2026 for a fibre route towards Kenya; nothing shared is known to be in service.
-
-- South Sudan's ICT ministry invited international bids (SS-MICT&PS-544330-NC-RFB, bids closing 26 October 2026) for about 397 km of terrestrial fibre on the Juba-Nadapal route toward the Kenyan border, financed under World Bank grant E1780 of the Eastern Africa Regional Digital Integration Project; this is procurement, not yet works, and the notice date is given as the report's 2026-09-14 publication ([source, 2026-09-14](https://southsudanpress.com/analysis-south-sudan-fibre-juba-nadapal-procurement.html)).
-- The World Bank's June 2026 status report on the Eastern Africa Regional Digital Integration Project lists as a key achievement the signing of the first cross-border digital connectivity MoU between Kenya and South Sudan, a model for the remaining bilateral MoUs; the signing date is not given, so the report's published date is used ([source, 2026-06-30](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt)).
 
 ### Tunisia: 2 Nascent
 
