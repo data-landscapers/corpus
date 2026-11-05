@@ -47,6 +47,7 @@ DZA,AI-boosted automated data analysis and cross-checking system on the ministry
 DZA,MESRS baccalaureate orientation platform,Algeria,sectorai,,Ministry of Higher Education and Scientific Research,,2024-04-29-dza-the-launch-of-a-new-digital-platform-to-assist-new-baccalaureate-holde
 DZA,Chatbot specialise dans la legislation fiscale algerienne,Algeria,sectorai,,Ministry of Higher Education and Scientific Research,,2026-09-21-dza-troisieme-reunion-multisectorielle-de-suivi-de-la-strategie-nationale
 DZA,ALCES,Algerian Customs,sectorai,,Direction Generale des Douanes,,2025-02-06-dza-mf-modernisation-douanes-alces
+DZA,Language model for Algerian tax legislation,Algeria,other,,Ministry of Higher Education and Scientific Research,,2026-11-03-dza-mesrs-sixieme-reunion-multisectorielle-strategie-nationale-ia
 EGY,NARSS winter crop map,Egypt,sectorai,remote sensing and AI,NARSS with Ministry of Agriculture and Land Reclamation,,2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops
 EGY,Satellite crop type mapping pilot,Egypt,sectorai,machine learning,Ministry of Irrigation and Water Resources,pilot,2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i
 EGY,AI tax assistant platform,Egypt,sectorai,,Egyptian Tax Authority,,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum
@@ -65,6 +66,7 @@ ETH,AI-powered teacher assistant,Ethiopia,sectorai,offline application with grad
 ETH,HEP Assist,Ethiopia,sectorai,,Ministry of Health with Last Mile Health,,2026-04-16-eth-fana-moh-last-mile-health-hep-assist-ai
 ETH,HEP Assist,Ethiopia,sectorai,retrieval-augmented generation assistant,Ministry of Health with Last Mile Health,health posts,2026-04-11-eth-ministry-rolls-out-ai-tool-to-support-frontline-health-workers-in-remo
 ETH,HaFAS,Ethiopia,sectorai,NextGen Decision Support Tool,Ministry of Agriculture and EIAR,,2026-01-01-eth-how-ethiopia-built-a-national-digital-fertilizer-advisory-system
+ETH,Smart Court solutions,Ethiopia,sectorai,,Ethiopian Artificial Intelligence Institute / Oromia Supreme Court,,2026-11-04-eth-oromia-supreme-court-partners-ethiopian-ai-institute-to-modernise-judicial-servi
 GHA,AI-enabled disease surveillance,Ghana,sectorai,,Ministry of Health and Ghana Health Service,,2026-10-12-gha-who-undp-ai-digital-health-strategy-review
 GHA,GRA AI and machine learning analytics,Ghana,sectorai,,Ghana Revenue Authority,,2025-05-22-gha-ghanaweb-gra-ai-ml-tax-leakages
 GHA,Publican AI,Ghana,sectorai,,"Ghana Revenue Authority, Customs Division (CTSB)",,2026-06-12-gha-gra-says-publican-ai-boosting-revenue-mobilisation-trade-compliance
@@ -101,6 +103,7 @@ MAR,Tarkhiss,Morocco,sectorai,,Agence Marocaine du Médicament et des Produits d
 MAR,AI school support management system (Draa-Tafilalet),Maroc,sectorai,"Massar, SAGE+, GEXA+ data",Ministry of National Education,,2025-05-12-mar-maroc-et-intelligence-artificielle-qui-pilote-la-machine
 MAR,PortNet,Morocco,sectorai,,,,2026-07-13-mar-portnet-processes-more-nearly-200-000-customs-declarations-in-june
 MAR,BADR,Morocco,sectorai,,ADII,,2025-08-25-mar-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie
+MAR,Switch Al-Maghrib AI fraud scoring,Morocco,other,national routing engine,Switch Al-Maghrib,,2026-11-04-switch-al-maghrib-on-future-of-payments
 MDG,Enhanced Risk Assessment (ERA),Madagascar,sectorai,,Malagasy customs,,2025-06-07-douanes-madagascar-modele-ia-cedia-midi
 MDG,EC-MADA programme civil registration digitisation,Madagascar,other,Studia Inc OCR and AI-driven indexing,,,2026-05-08-studia-ai-digitisation-civil-records-intelligentcio
 MDG,Customs AI for data analysis and risk,Madagascar,sectorai,,Madagascar Customs,,2025-08-22-mdg-newsmada-douane-univ-antananarivo-data-ai
@@ -143,10 +146,12 @@ NGA,AI Scaling Hub,Nigeria,other,,Government with Gates Foundation,,2025-11-05-n
 NGA,CAC AI-enabled registration platform,Nigeria,other,,Corporate Affairs Commission,,2025-07-01-nga-cac-unveils-ai-powered-portal-for-faster-company-registrations
 NGA,IT2 tokenised biometric identity platform (Trust Stamp/BLIP),Nigeria,other,Trust Stamp IT2,BLIP Limited (deployer),,2026-10-27-trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-de
 NGA,"AFRIDATA Nigeria data centres (Lagos, Delta)",Nigeria,other,,AFRIDATA,Lagos designed to Tier IV,2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study
+NGA,HeliumMum,Nigeria,other,AI-powered maternal health tool,Helium Health,,2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern
 RWA,Horizon1000,Rwanda,sectorai,,Gates Foundation and OpenAI,primary healthcare clinics,2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa
 RWA,Kubaka.gov.rw,Rwanda,other,national building permits platform,MININFRA and Rwanda Housing Authority,,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a
 RWA,Chidi,Rwanda,sectorai,Anthropic Claude model,ALX,pilot with educators and higher learning institutions,2025-11-18-rwa-alx-anthropic-and-the-government-of-rwanda-launch-landmark-ai-learning
 RWA,Tunga,Rwanda,sectorai,voice assistant in the MINAGRI call centre,Ministry of Agriculture and Animal Resources,,2026-09-01-rwa-rwanda-expands-use-of-ai-to-reach-millions-of-farmers-with-timely-advi
+RWA,eBuzima,Rwanda,sectorai,digital health platform,Ministry of Health,primary health facilities,2026-11-04-rwa-rwanda-advances-horizon-1000-initiative-to-integrate-ai-into-primary-healthcare
 SDN,Project Connect,Sudan,other,Giga real-time school connectivity map,Giga (UNICEF and ITU),,2026-08-10-omdena-giga-unicef-sudan-ai-school-detection
 SDN,mobile-first AI tool for detecting manipulated narratives and bot-amplified disinformation,Sudan,other,Valent,CDAC Network with Valent,,2025-11-04-cdac-network-sudan-ai-information-environment
 SEN,local AI application for judicial archives,Senegal,other,NVIDIA DGX Spark,"Direction de la Dematerialisation et de l'Automatisation, Ministry of Justice",TGI Pikine-Guediawaye pilot,2026-10-06-sen-rts-tgi-pikine-ia-archives-judiciaires

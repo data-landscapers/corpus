@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-03-dza-mesrs-sixieme-reunion-multisectorielle-strategie-nationale-ia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Language model for Algerian tax legislation",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": "The tax-legislation language model is a legal-text model in development, with no public tax system stated to use it."
+}
