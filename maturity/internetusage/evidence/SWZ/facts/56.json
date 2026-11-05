@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-03-swz-digital-company-registrations-plunge-70",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:58",
+   "fact": "The Eswatini Observer cites the World Bank's 2025 Economic Update as noting that only about 58% of the population uses the internet.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "internet use",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
