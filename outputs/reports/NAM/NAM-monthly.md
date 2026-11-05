@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: NAM
-ledger_rows: 14
+ledger_rows: 15
 not_held: 9
-record: fd23ffd363d6
+record: b3885ede8bd6
 ---
 
 # News, Oct – Nov 2026
@@ -27,10 +27,28 @@ record: fd23ffd363d6
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Broadband Policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet Briefs](https://neweralive.na/cabinet-briefs-15/)** — New Era, 4 November 2026
+
+Namibia's Cabinet announced on 3 November 2026 that it had approved a revised National Broadband Policy and delayed the e-ID card launch. The ICT ministry is to tackle gaps in access, usage, affordability and skills. The e-ID launch, set for September 2026, now awaits regulations under a 2024 Act.
+
+</div>
+
+</div>
 
 ### Regional collaboration
 
@@ -149,6 +167,14 @@ Namibia's home affairs and ICT ministries briefed members of parliament on the r
 **[Namibia MPs press government on security, access and reach of planned digital ID | Biometric Update](https://www.biometricupdate.com/202610/namibia-mps-press-government-on-security-access-and-reach-of-planned-digital-id)** — Biometric Update, 8 October 2026
 
 Namibian MPs questioned the planned digital ID on rural reach, cost, data ownership and cybersecurity at a briefing by two ministries. The rollout planned for September was delayed because the legal framework had not been finalised.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Cabinet Briefs](https://neweralive.na/cabinet-briefs-15/)** — New Era, 4 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
