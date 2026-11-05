@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: ZWE
-ledger_rows: 29
+ledger_rows: 30
 not_held: 6
-record: b168144bb736
+record: 37289c53884e
 ---
 
 # News, Oct – Nov 2026
@@ -497,6 +497,20 @@ ZimSmart Villages is converting parts of Zimbabwe Postal Services offices into n
 **[Zimbabwe Approves National AI Charter to Combat Surging Cyber Fraud](https://www.zimcitizennews.com/zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud/)** — ZimCitizenNews, 23 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT ministry AI Unit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government to scale Artificial Intelligence for economic growth and service delivery](https://www.heraldonline.co.zw/government-to-scale-artificial-intelligence-for-economic-growth-and-service-delivery/)** — The Herald, 4 November 2026
+
+Zimbabwe's ICT minister Tatenda Mavetera tasked the ministry's new AI Unit with identifying, testing and scaling AI applications. She spoke at a strategic plan review workshop in Bulawayo. The plan names inaccurate responses, bias and poor data quality as risks.
 
 </div>
 
