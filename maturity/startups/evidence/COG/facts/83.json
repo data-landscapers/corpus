@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The Treasury sheet lists law no. 71 of 16 August 2022 granting the digital start-up and technological innovation label.",
+   "as_of": "2022-08-16",
+   "date_precision": "day",
+   "system": "Law no. 71 of 16/08/2022 (start-up label)",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
