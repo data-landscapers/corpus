@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: DZA
-ledger_rows: 29
+ledger_rows: 31
 not_held: 5
-record: 6188a1f4c714
+record: e309255c31e5
 ---
 
 # News, Oct – Nov 2026
@@ -143,6 +143,20 @@ Access Now reviewed exam-related internet shutdowns in the Middle East and North
 **[Gigacity 2026 : Alger, première ville africaine du très haut débit](https://lasentinelle.dz/index.php/2026/10/01/gigacity-2026-alger-premiere-ville-africaine-du-tres-haut-debit/)** — La Sentinelle, 1 October 2026
 
 Algeria's Ministry of Post and Telecommunications said on 30 September 2026 that Algiers ranked first in Africa and 34th of 50 cities worldwide in Omdia's Gigacity Index 2026, with 36 points, 11 places ahead of Cape Town. The ministry cited fibre-to-the-home coverage of nearly 100% in the capital and 90% of subscribers on speeds above 100 Mbps.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Algérie Télécom national fibre network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[fibre optique en l’Algérie: 4 millions de foyers raccordés](https://lechodalgerie.dz/fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes/)** — L’Echo d’Algérie, 11 October 2026
+
+~300,000 km of cable laid by Algérie Télécom; 4m homes on FTTH; full fibre coverage targeted by 2027.
 
 </div>
 
@@ -438,6 +452,20 @@ The Ministry of Internal Trade opened an online consumer portal at tawassol.comm
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic verification of documents issued through the national portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[High Commission for Digitization Trains Officials in Electronic Verification](https://dzwatch.dz/en/algeria/high-commission-for-digitization-trains-officials-in-electronic-verification)** — DZ Watch, 3 November 2026
+
+Officials trained to verify portal-issued documents electronically; no fresh paper copies for citizens.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -499,6 +527,14 @@ Algeria's fifth cross-ministry meeting on its national AI strategy, chaired by h
 **[M. Kamel Baddari préside la cinquième réunion multisectorielle consacrée au suivi de la mise en œuvre de la stratégie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelligence-artificielle-2/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algeria), 20 October 2026
 
 Summarised under [AI](#ai).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside la sixième réunion multisectorielle consacrée au suivi de la mise en œuvre de la Stratégie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/11/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-sixieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-l/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algeria), 3 November 2026
+
+AI strategy data plan starts 11 Nov 2026; tax-law LLM corpus 98% collected; 46 universities bid for AI doctoral school.
 
 </div>
 
