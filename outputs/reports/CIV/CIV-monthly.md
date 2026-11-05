@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: CIV
-ledger_rows: 30
+ledger_rows: 32
 not_held: 9
-record: 06700e9f9450
+record: 357403aff8d7
 ---
 
 # News, Oct – Nov 2026
@@ -34,6 +34,8 @@ record: 06700e9f9450
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Legislation and regulation
@@ -77,6 +79,22 @@ An official of Côte d'Ivoire's Ministry of Digital Transition said on 27 Octobe
 **[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
+
+</div>
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Press regulator and cybersecurity agency roadmap against disinformation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’ANP et l’ANSSI s’accordent sur une feuille de route contre la désinformation](https://www.aip.ci/cote-divoire-aip-lanp-et-lanssi-saccordent-sur-une-feuille-de-route-contre-la-desinformation/)** — Agence Ivoirienne de Presse, 4 November 2026
+
+Côte d'Ivoire's press regulator ANP and cybersecurity agency ANSSI agreed on 21 October 2026 to prepare a joint roadmap against disinformation and digital threats. It covers prevention capacity and the protection of the ANP's information systems.
 
 </div>
 
@@ -531,8 +549,26 @@ Expertise France opened a tender on 27 October 2026 for an investment readiness 
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MTN QG Digital university centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Côte d’Ivoire inaugure un centre numérique à l’Université Félix Houphouët-Boigny](https://intellivoire.net/mtn-ci-inaugure-centre-numerique-universite-fhb/)** — Intellivoire, 4 November 2026
+
+MTN Côte d'Ivoire opened its first QG Digital centre at Université Félix Houphouët-Boigny on 30 October 2026. It is the first of the digital spaces planned at 20 Ivorian universities under a FCFA 500 million programme.
+
+</div>
+
+</div>
 
 ### Training and skills
 

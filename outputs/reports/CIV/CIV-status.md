@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-11-04
+compiled: 2026-11-05
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 265
+sources_cited: 269
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -108,7 +108,7 @@ Chinese lending is older, larger and largely spent. [Two Bank of China agreement
 [An IDA credit of FCFA 84,356,070,200 for phase 1 of the Projet d'accélération digitale was ratified by decree on 4 February 2026](https://www.bilan.gouv.ci/actualite/19406), [the approved first phase of a USD 330 million World Bank envelope to 2035](https://documents1.worldbank.org/curated/en/099092225092021892/pdf/BOSIB-af66fe3f-3dfc-4703-ab9c-9f1fb5cf5714.pdf). [The African Development Bank is putting UA 63,968,067 into e-government over 2023–2028](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-CI-GB0-005), [KfW e-governance with EUR 20 million to 2027](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202165025), and the European Union grants of [EUR 3.5 million to 2031 for private-sector support](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-61416) and [EUR 1,715,000 to 2026 for agriculture and the low-carbon transition](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-25183), neither of which splits out its digital share.
 
 <!-- derived -->
-Twenty-nine commitments are on record for 2017–2026, worth about USD 1.3 billion, with windows running to 2031 (October 2026). Most are debt. Bank of China accounts for just over half of the country-specific total, ahead of the World Bank and the US Export-Import Bank; over a quarter of the money is approved rather than evidenced as moving (October 2026). More of it funds state security and government administration than connectivity or inclusion.
+Thirty-two commitments are on record for 2017–2026, worth about USD 1.3 billion, with windows running to 2031 (November 2026). Most are debt. Bank of China accounts for just over half of the country-specific total, ahead of the World Bank and the US Export-Import Bank; over a quarter of the money is approved rather than evidenced as moving (October 2026). More of it funds state security and government administration than connectivity or inclusion.
 
 ## ICT Infrastructure
 
@@ -158,6 +158,8 @@ Côte d'Ivoire has been governing its digital estate under an expired strategy. 
 The binding layer is older and more concrete. [Decree No. 2021-916 brought the General Information Systems Security Reference Framework and a Critical Infrastructure Protection Plan into force, and the national response team CI-CERT operates alongside a requirement that essential service operators regularly evidence their security implementation](https://ncsi.ega.ee/country/ci_2022/) (2023). [ANSSI-CI has commissioned a national public key infrastructure, the first sovereign root of trust for every certification authority operating on Ivorian territory](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/) (July 2026), [named as underpinning electronic signature and the national digital identity](https://www.biometricupdate.com/202607/cote-divoire-launches-national-pki-to-strengthen-digital-sovereignty). The country [sits in the third, "establishing" tier of the ITU's Global Cybersecurity Index 2024](https://www.itu.int/pub/D-HDB-GCI.01-2024).
 
 Some of the estate is defended commercially rather than by the state. [Inbound international A2P messaging on Moov Africa's network — the channel one-time passcodes travel on — now comes under an exclusive messaging and firewall agreement between the operator and Omobio](https://techafricanews.com/2026/07/15/omobio-and-moov-africa-cote-divoire-partner-to-secure-and-monetise-international-a2p-messaging/) (July 2026). Regionally, [ECOWAS ministers adopted a directive on confidence-building measures in cyber and ICT which member states are to implement without delay on its publication](https://www.ecowas.int/the-19th-meeting-of-ecowas-ministers-in-charge-of-telecommunications-ict-and-digitalization-adopts-the-ecowas-digital-sector-development-strategy-for-the-period-2024-2029/) (October 2024). [Internet access and cybersecurity are among the five priorities of the digital ministry's 2026 budget](https://www.wearetech.africa/en/fils-uk/news/tech/cote-divoire-targets-internet-expansion-and-cybersecurity-in-2026-plan).
+
+In October 2026 [the digital minister cited more than 14,700 cybercrime complaints and losses of nearly FCFA 23 billion in 2025](https://www.ivoirematin.com/fr/news/Economie/cybercriminalite-en-cote-divoire-plus-de-14-700-plaintes-et-23-milliards-fcfa-de-pertes-en-2025_n_126144.html). [ANSSI-CI's report for 2024 had counted 12,100 complaints and FCFA 6.96 billion of losses](https://anssi.gouv.ci/documents/90/LE_RAPPORT_2024_SUR_LETAT_DE_LA_CYBERCRIMINALITE_EN_C%C3%94TE_DIVOIRE.pdf). [The agency ran the first national cyber-crisis simulation in Abidjan on 28 and 29 October 2026, on a scenario hitting energy, telecommunications and payment systems at once](https://news.abidjan.net/articles/749802/la-cote-divoire-teste-sa-reponse-a-une-cyberattaque-lors-dun-premier-exercice-national). [It said there that it had recorded 147 major vulnerabilities in public and private bodies since January 2026](https://www.rfi.fr/fr/afrique/20261029-en-c%C3%B4te-d-ivoire-une-simulation-nationale-pour-apprendre-%C3%A0-r%C3%A9agir-aux-cyberattaques-majeures).
 
 ## DPI
 
