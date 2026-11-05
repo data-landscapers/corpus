@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: SEN
-ledger_rows: 32
+ledger_rows: 33
 not_held: 2
-record: 6575a0057892
+record: a733f48fc07f
 ---
 
 # News, Oct – Nov 2026
@@ -34,6 +34,8 @@ record: 6575a0057892
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -93,6 +95,22 @@ Senegal's Prime Minister installed the Comité de gouvernance du numérique (Gou
 **[Données publiques : Jusqu'à 20 % des données sénégalaises encore hébergées hors du pays](https://senego.com/donnees-publiques-jusqua-20-des-donnees-senegalaises-encore-hebergees-hors-du-pays_2015891.html)** — Senego, 21 October 2026
 
 The manager of Senegal's national data centre at Diamniadio said 10% to 20% of the country's public data is still hosted abroad (reported October 2026). Some hosting contracts run for ten years, which delays moving the data home. Paying off the contracts early or waiting for them to expire are both under study, and no date has been set.
+
+</div>
+
+</div>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital health bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé numérique, le vide juridique qui fragilise la protection des données des patients](https://www.seneplus.com/article/sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-patients)** — SenePlus, 4 November 2026
+
+A Transform Health Senegal consultation found 65.8% of respondents unaware that Senegal has no specific health data law. The non-representative sample also found 44.7% saying their consent is never sought before their medical data is shared. A draft digital health bill remains under government review, the coalition says.
 
 </div>
 
