@@ -1,12 +1,12 @@
 ---
 title: South Africa: status report
-compiled: 2026-11-01
+compiled: 2026-11-05
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 339
+sources_cited: 340
 sections_written: 39
 not_established: 1
 acquire_lines: 49
@@ -171,7 +171,7 @@ The state's central IT agency is rebuilding an executive that stood largely empt
 
 What cannot be staffed is bought in. [Home Affairs' own strategic plan describes the department as grossly underfunded and dependent on third parties for critical services](https://www.dha.gov.za/images/AnnualReports/DHA-STRATEGIC-PLAN-25-30.pdf), and [the identity infrastructure it runs rests on foreign suppliers for both fingerprint matching and smart card production](https://idtechwire.com/south-africa-plans-major-expansion-of-smart-id-program-for-2025/). [The government data-exchange platform MzansiXchange was nine months into pilot and onboarding additional technical capacity to complete it (July 2026)](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf). [Cyber security roles are largely unfilled](https://www.csir.co.za/sites/default/files/Documents/241013_CSIR%20Infographic%20posters_Draft%204_Cybersecurity%20skills%20gap.pdf).
 
-There is a domestic base underneath the shortfall. [South Africa's GitHub developer population grew by roughly a quarter over 2024](https://gadget.co.za/sasoftware25m/), and [a South African firm has opened a Midrand headquarters with a UPS test platform and a cooling test centre certified to European standards, supplying the power and cooling layer beneath the foreign-owned data-centre build (July 2026)](https://techafricanews.com/2026/07/20/master-power-technologies-opens-r50-million-customer-experience-centre-in-south-africa/). [The domain registry counted 1.5 million active registrations across its four commercial namespaces in October 2026](https://www.itweb.co.za/article/zarc-reaches-15m-active-za-domains/Gb3BwMWaOG1v2k6V).
+There is a domestic base underneath the shortfall. [South Africa's GitHub developer population grew by roughly a quarter over 2024](https://gadget.co.za/sasoftware25m/), and [a South African firm has opened a Midrand headquarters with a UPS test platform and a cooling test centre certified to European standards, supplying the power and cooling layer beneath the foreign-owned data-centre build (July 2026)](https://techafricanews.com/2026/07/20/master-power-technologies-opens-r50-million-customer-experience-centre-in-south-africa/). [The domain registry counted 1.5 million active registrations across its four commercial namespaces in October 2026](https://www.itweb.co.za/article/zarc-reaches-15m-active-za-domains/Gb3BwMWaOG1v2k6V). [NAPAfrica, the internet exchange in Teraco's Johannesburg, Cape Town and Durban data centres, carried six terabits per second of traffic with 680 networks peering in November 2025](https://www.teraco.co.za/news/napafrica-and-teraco-acx-growing-africas-digital-community-as-napafrica-hits-6tbps/).
 
 ### Cybersecurity
 <!-- infra.cybersec -->

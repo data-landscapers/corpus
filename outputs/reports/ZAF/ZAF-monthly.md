@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: ZAF
-ledger_rows: 83
+ledger_rows: 85
 not_held: 19
-record: 56a41c769e24
+record: fa9f2d6a21a2
 ---
 
 # News, Oct – Nov 2026
@@ -1370,6 +1370,20 @@ HPE announced that Mzansi Mind, Solcon Capital's enterprise AI platform built on
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google DeepMind and Fab AI teacher tools partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE.
+
+</div>
+
+</div>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -1419,6 +1433,20 @@ Google named 15 South African-led, revenue-generating AI startups to its 2026 Go
 **[South Africa’s digital jobs drive faces a $152 million funding test](https://techcabal.com/2026/10/16/south-africa-152m-digital-skills-jobs/)** — TechCabal, 16 October 2026
 
 At the CollectiveXChange 2026 summit in Johannesburg on 15 October, The Collective X, which coordinates South Africa's National Digital Skills Plan, reported R600 million mobilised in its Digital Skills Impact Fund and 4,000 beneficiaries so far, against a target of 500,000 young people in digital jobs by 2034. Yellowwoods estimated that reaching 20,000 more by 2028 would take R2.5 billion ($152 million) from existing skills funds, money not yet secured.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google AI Educator Series with SACE</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Summarised under [AI](#ai).
 
 </div>
 
