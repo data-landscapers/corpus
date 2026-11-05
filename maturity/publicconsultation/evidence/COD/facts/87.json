@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-04-cod-du-03-au-05-novembre-2026-l-arptc-travaille-d-arrache-pied-pour-doter-",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "Le Quotidien RDC reports that the telecom regulator ARPTC, on the digital minister's instruction, consulted telecom and infrastructure operators, banks and digital actors among 34 ministries and public and private bodies, collecting 23 contributions for the national cybersecurity and digital resilience plan.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "National cybersecurity and digital resilience plan",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
