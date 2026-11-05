@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "no evidence",
+      "stage": "unplaced",
       "rule": "",
       "delivered": "",
       "audit": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found says whether information and digital services are made accessible to persons with disabilities.",
-      "note": "Reassessed 2026-11-01: no row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-01"
+      "gaps": "No source found says whether public information or digital services are made accessible to persons with disabilities. The labour inspectorate's portal (November 2026) is said to carry digital accessibility tools, not stated to serve them.",
+      "note": "The only row is the minister's statement that the labour inspectorate's new portal has digital accessibility tools, which does not say they serve persons with disabilities. It cannot answer question 3, so the cell is unplaced.",
+      "as_at": "2026-11-05"
     }
   ]
 }

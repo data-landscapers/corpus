@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-18-gha-pilot-phase-of-the-public-services-satisfaction-survey-app-launched",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "The Ghana Statistical Service launched the pilot of its Public Services Satisfaction Survey App, which it says has disability-friendly features, on Android and iPhone plus a USSD code.",
+   "as_of": "2024-01-18",
+   "date_precision": "day",
+   "system": "Public Services Satisfaction Survey App",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Services Satisfaction Survey App",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "app and USSD",
+   "owner": "Ghana Statistical Service",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

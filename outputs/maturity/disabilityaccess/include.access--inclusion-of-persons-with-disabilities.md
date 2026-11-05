@@ -25,8 +25,8 @@ The AU Disability Protocol asks for public information in accessible formats and
 | 3 Established | 5 |
 | 2 Nascent | 9 |
 | 1 Absent | 4 |
-| Unplaced | 5 |
-| No evidence | 12 |
+| Unplaced | 6 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -275,6 +275,12 @@ Nothing found since 2023 names digital accessibility for persons with disabiliti
 
 Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
+### Cape Verde: Unplaced
+
+A labour portal launched in 2026 is said to carry digital accessibility tools, not stated to serve disabled people, so no stage is set.
+
+Not established: No source found says whether public information or digital services are made accessible to persons with disabilities. The labour inspectorate's portal (November 2026) is said to carry digital accessibility tools, not stated to serve them.
+
 ### Ethiopia: Unplaced
 
 Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
@@ -294,12 +300,6 @@ Nothing found since 2023 names digital accessibility for persons with disabiliti
 Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Angola: No evidence
-
-Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
-
-Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
-
-### Cape Verde: No evidence
 
 Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 

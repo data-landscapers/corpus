@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-03-cpv-nova-plataforma-digital-da-igt-queixas-laborais",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "Minister Adélsia Almeida said the IGT portal launched 2026-11-03 integrates digital accessibility tools, with the platform already complete and usable by workers and employers.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Portal e Sistema Integrado de Gestão da IGT",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
