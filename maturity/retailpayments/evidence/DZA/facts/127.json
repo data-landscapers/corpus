@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-dza-transformation-numerique-en-algerie-des-infrastructures-aux-usages-len",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "GIE Monetique data relayed by CARE show DZ Mob Pay interbank mobile payment with 131,705 personal accounts and 18,730 merchant accounts at end August 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "DZ Mob Pay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "CARE describes DZ Mob Pay as an interbank mobile payment service with 4,938 QR code payments in August 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "DZ Mob Pay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DZ Mob Pay",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "interbank mobile payment",
+   "owner": "GIE Monetique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

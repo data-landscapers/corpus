@@ -6,8 +6,8 @@
 
 **Between providers.** [Switch Al Maghrib's director general said Morocco laid early the foundations of an interoperable mobile payment system, now in place](<https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355>). [CMI says its Fatourati platform connects 32 banks and payment institutions and takes payments through mobile banking, e-banking, wallets, branches and ATMs across more than 70 channels](<https://www.cmi.co.ma/fr/nos-actualites/le-cmi-lance-fatourati-agregateur-et-ouvre-sa-plateforme-aux-fintechs-et-editeurs-de>).
 
-**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355>).
+**National switch.** In November 2026 [Switch Al-Maghrib's managing director said every transaction through the national switch, from a bank or a mobile money institution, is risk-scored in real time](<https://techcabal.com/2026/11/04/switch-al-maghrib-on-future-of-payments/>). [He had earlier said Morocco laid the foundations of an interoperable mobile payment system, and that traffic on it remains limited](<https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355>).
 
 ***Also on file***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 
-***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. Nothing further is asked of this indicator.

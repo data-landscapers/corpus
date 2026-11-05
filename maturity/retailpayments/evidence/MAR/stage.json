@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "retail",
-   "stage": "4",
-   "service": "inservice",
-   "interop": "interop",
-   "switch": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-008;MAR-004",
-   "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
-   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "retail",
+      "stage": "5",
+      "service": "inservice",
+      "interop": "interop",
+      "switch": "national",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-009;MAR-008;MAR-004",
+      "gaps": "",
+      "note": "Reassessed on MAR-009 (4 November 2026): Switch Al-Maghrib's managing director says transactions from banks and mobile money institutions both pass through the national switch, so question 4 is met and the stage is 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

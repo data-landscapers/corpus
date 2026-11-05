@@ -206,6 +206,7 @@ DZA,bank mobile and QR-code payment,DZA,retail,QR code,"CPA, BDL, BNA and other 
 DZA,CCP Business Cashless,DZA,other,,Algerie Poste,artisans and traders,2026-10-21-dza-algerie-poste-caci-framework-agreement
 DZA,Banxy (Natixis Algérie),Banxy neobank,other,,Natixis Algérie,,2026-03-10-dza-prestataires-de-services-de-paiement-le-rappel-a-l-ordre-d-un-banquier
 DZA,BaridiMob,Algeria,retail,mobile app,Algerie Poste,,2025-05-11-dza-pourquoi-algerie-poste-bloque-baridimob-a-ses-usagers-a-l-etranger
+DZA,DZ Mob Pay,Algeria,retail,interbank mobile payment,GIE Monetique,,2026-11-02-dza-transformation-numerique-en-algerie-des-infrastructures-aux-usages-len
 EGY,Instant Payment Network (IPN),Egypt,retail,InstaPay,Central Bank of Egypt,,2026-10-01-egypts-ipn-records-147-bln-transactions-in-2q-2026-cbe-governor
 EGY,InstaPay,Egypt,retail,,,,2026-09-23-enterpriseam-instapay-papss-egypt-integration
 EGY,InstaPay,Egypt,other,,Egyptian Banks Company,,2026-09-20-papss-meeza-card-integration-waya
@@ -299,6 +300,7 @@ GHA,MTN MoMo,MTN MoMo,retail,,MTN Ghana,,2026-10-18-gha-people-of-internet-biome
 GHA,Ghana Interbank Payment and Settlement Systems (GhIPSS),Ghana,retail,,Bank of Ghana,,2026-10-22-gha-bank-of-ghana-pushes-for-seamless-african-cross-border-payments-channe
 GHA,Ghana Interbank Payment and Settlement Systems,Ghana,other,,,,2026-10-29-acet-unlocking-africas-digital-potential
 GHA,TraffiTech-GH,Ghana,other,TraffiTech-GH,Ghana Police Service (MTTD),,2026-11-02-ghana-la-police-deploie-des-cameras-connectees-pour-automati
+GHA,MTN MoMo,Ghana,retail,mobile money,MTN,,2026-10-29-munga-restofworld-africa-ai-off-switch
 GIN,NimbaPay,Guinea,retail,Mojaloop,BCRG,,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
 GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
 GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-23-guinea-nimbapay-instant-payment-system-launch
@@ -365,6 +367,7 @@ KEN,mobile money,Kenya,retail,,,,2026-08-18-star-ruto-4-hustler-fund-has-built
 KEN,M-PESA,M-PESA,retail,Huawei Cloud,,,2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit
 KEN,M-Pesa,Kenya,retail,mobile money tills and paybills,Safaricom,,2026-10-28-ken-kra-eyes-m-pesa-invoices-for-small-and-micro-traders
 KEN,M-Pesa,M-Pesa,retail,mobile money,Safaricom,,2025-02-27-ken-ca-to-spend-sh3-5bn-to-bridge-digital-divide-in-rural-areas
+KEN,M-Pesa,Kenya,retail,mobile money,Safaricom,,2026-10-29-munga-restofworld-africa-ai-off-switch
 LBR,Inclusive Instant Payment System,Liberia,retail,instant payment,Central Bank of Liberia,Lonestar MTN Mobile Money; Orange Money Liberia,2026-10-01-liberian-observer-liberia-instant-payment-system-5-3m-transactions
 LBR,Inclusive Instant Payment System (IIPS),Liberia,retail,Mojaloop,Central Bank of Liberia,,2026-09-26-lbr-finance-minister-washington-diaspora-payments
 LBR,National Electronic Payment Switch,Liberia,retail,,Government of Liberia,planned,2026-09-26-lbr-finance-minister-washington-diaspora-payments
@@ -412,6 +415,7 @@ MAR,MarocPay,Morocco,retail,,,,2025-09-08-cmi-fatourati-collect-reglement-multic
 MAR,Fatourati,Morocco,retail,Fatourati,CMI,,2025-09-08-cmi-fatourati-collect-reglement-multicanal
 MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 MAR,Switch Al Maghrib interoperable mobile payment,Morocco,retail,,Switch Al Maghrib,,2026-09-27-mar-instant-payment-mfc-talks
+MAR,Switch Al-Maghrib,Morocco,retail,national payment switch,Switch Al-Maghrib,,2026-11-04-switch-al-maghrib-on-future-of-payments
 MDG,Gasy Money,Madagascar,retail,mobile app,BGFIBank Madagasikara,,2026-09-22-mdg-midimadagasikara-gasy-money-mobile-banking
 MDG,Gasy Money,Madagascar,retail,mobile app,BGFIBank Madagascar,,2026-09-21-mdg-newsmada-gasy-money-bgfibank
 MDG,Airtel Money,Madagascar,retail,mobile money,,,2026-09-21-mdg-newsmada-gasy-money-bgfibank
@@ -437,6 +441,7 @@ MDG,MVola,Madagascar,other,mobile money,Telma Madagascar,,2023-10-26-mdg-express
 MDG,Mvola,Madagascar,retail,mobile money,,,2026-05-01-mdg-unctad-ige-ecde9-madagascar-contribution
 MDG,Orange Money,Madagascar,retail,mobile money,,,2026-05-01-mdg-unctad-ige-ecde9-madagascar-contribution
 MDG,Airtel Money,Madagascar,retail,mobile money,,,2026-05-01-mdg-unctad-ige-ecde9-madagascar-contribution
+MDG,Mobile Money,Madagascar,other,mobile money,,,2026-11-03-mdg-madagascar-cyber-escroquerie-une-affaire-de-gros-sous
 MLI,Moov Money Mali,Mali,retail,mobile wallet,Moov Africa Malitel,,2026-04-09-le360-moov-money-mali-carte-prepayee-mastercard-gitex
 MLI,Orange Money Mali prepaid card,Mali,retail,Orabank-Mastercard,Orange,,2026-04-09-le360-moov-money-mali-carte-prepayee-mastercard-gitex
 MLI,Orange Money Mali,Mali,retail,mobile money wallet,Orange Mali,,2025-06-11-maliweb-orange-money-orabank-mastercard-prepaid

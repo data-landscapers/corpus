@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 25 |
-| 4 Operating | 18 |
+| 5 Leading | 26 |
+| 4 Operating | 17 |
 | 3 Established | 10 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
@@ -147,6 +147,14 @@ A national switch connected mobile money wallets and bank accounts in 2025.
 A national switch connected mobile money wallets and bank accounts in 2024.
 
 - GIMTEL's launched interconnection links national bank apps and e-wallets in one system, with further providers in technical testing ([source, 2024-10-14](https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/)).
+
+### Morocco: 5 Leading
+
+A national switch carried payments from both banks and mobile money institutions in 2026.
+
+- Switch Al-Maghrib's MD says every transaction through the national switch, whether from a bank or a mobile money institution, is risk-scored in real time ([source, 2026-11-04](https://techcabal.com/2026/11/04/switch-al-maghrib-on-future-of-payments/)).
+- Switch Al Maghrib's director general said Morocco laid early the foundations of an interoperable mobile payment system, now in place ([source, 2026-09-27](https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355)).
+- CMI says its Fatourati platform connects 32 banks and payment institutions and takes payments through mobile banking, e-banking, wallets, branches and ATMs across more than 70 channels ([source, 2026-02-18](https://www.cmi.co.ma/fr/nos-actualites/le-cmi-lance-fatourati-agregateur-et-ouvre-sa-plateforme-aux-fintechs-et-editeurs-de)).
 
 ### Mozambique: 5 Leading
 
@@ -275,13 +283,6 @@ Payments between mobile money providers or with banks were in service in 2026; n
 
 - Platform Africa reports Mauritius has made progress on payments and interoperability, and customers can move funds between their bank accounts through fintech platforms ([source, 2026-09-10](https://platformafrica.com/2026/09/17/pulse-of-fintech-2026-why-collaboration-is-the-key-to-unlocking-mauritius-financial-future/)).
 - AfricaNenda's SIIPS 2024 case study profiles MauCAS as Mauritius's national instant-payment switch for interoperable, real-time retail payments ([source, 2024](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf)).
-
-### Morocco: 4 Operating
-
-Payments between mobile money providers or with banks were in service in 2026; no source found reports a national switch.
-
-- Switch Al Maghrib's director general said Morocco laid early the foundations of an interoperable mobile payment system, now in place ([source, 2026-09-27](https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355)).
-- CMI says its Fatourati platform connects 32 banks and payment institutions and takes payments through mobile banking, e-banking, wallets, branches and ATMs across more than 70 channels ([source, 2026-02-18](https://www.cmi.co.ma/fr/nos-actualites/le-cmi-lance-fatourati-agregateur-et-ouvre-sa-plateforme-aux-fintechs-et-editeurs-de)).
 
 ### Namibia: 4 Operating
 

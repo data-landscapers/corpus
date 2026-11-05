@@ -25,3 +25,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZMB,dpi.pay--p2p-p2g-and-p2b-functionality,fact,5,5,ZMB-011,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZWE,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,ZWE-004;ZWE-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-24,GHA,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,5,GHA-002;GHA-003;GHA-013,Bank of Ghana describes GhIPSS as the national switch linking banks and mobile money operators; rung 5 met
+2026-11-05,MAR,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,5,MAR-009;MAR-008;MAR-004,"Switch Al-Maghrib's managing director said on 4 November 2026 that bank and mobile money transactions both pass through the national switch; question 4 met, 4 to 5."

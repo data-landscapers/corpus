@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Treasury sheet, citing ARPCE, says Mobile Money transactions in Congo reached over 238 billion FCFA in January 2024, across more than 79 million transactions.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
