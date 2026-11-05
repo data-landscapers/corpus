@@ -22,8 +22,8 @@ The African Union's Protocol on Social Protection asks for a social protection i
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 15 |
-| 3 Established | 9 |
-| 2 Nascent | 16 |
+| 3 Established | 10 |
+| 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 11 |
@@ -140,6 +140,12 @@ Two or more programmes shared one social registry in 2025; no source found repor
 
 - The DPSSF page describes Kénon as a unified database centralising data on vulnerable families and beneficiaries of programmes such as Programa Família, and as producing reports for both PEP+ and Programa Família; it names no exchange with the ID, civil registration or other government systems. Dated by its published date, 2025-04-22 ([source, 2025-04-22](https://dpssf.gov.st/index.php/explorar/recursos-uteis/sobre-kenon)).
 
+### Cameroon: 3 Established
+
+Universal health coverage enrolment and billing systems exchanged data in 2026; no registry shared by programmes is on record.
+
+- Cameroon's health ministry says its national interoperability platform (OpenHIM and OpenFN on a CAMTEL server) already hosts universal health coverage use cases, interconnecting enrolment and billing systems ([source, 2026-11-03](https://scores2000.info/2026/11/sante-numerique-le-cameroun-accelere-l-interconnexion-de-ses-systemes-d-information-sanitaires.html)).
+
 ### Lesotho: 3 Established
 
 A social protection system exchanged data in 2025; no source found reports a registry shared by programmes.
@@ -210,12 +216,6 @@ A link between social protection systems was under way in 2026; none in service 
 
 - The ministry (MASFAMU) says the modernisation and expansion phase of the Cadastro Social Único, launched 20 July 2026, promotes interoperability between public institutions and integration of databases ([source, 2026-07-20](https://masfamu.gov.ao/home)).
 - MASFAMU launched the Cadastro Social Único on 20 July 2026 and says it will allow articulation between social programmes, local administration, civil registries, public institutions and sectoral databases ([source, 2026-07-20](https://angop.ao/noticias/sociedade/angola-lanca-cadastro-social-unico-para-gestao-de-accoes-sociais/)).
-
-### Cameroon: 2 Nascent
-
-A link between social protection systems was under way in 2025; none in service is on record.
-
-- The Digital Convergence Initiative says Cameroon is assessing its Common ID System, Civil Registration System and Disability Registry to explore their integration with the Unified Social Registry (RESUC) MIS ([source, 2025-10](https://spdci.org/resource/across-21-countries-a-shared-journey-toward-inclusive-and-digital-social-protection/)).
 
 ### Central African Republic: 2 Nascent
 

@@ -3,15 +3,16 @@
  "cells": [
   {
    "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
+   "stage": "3",
+   "exchange": "inservice",
    "registry": "",
    "linked": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "CMR-001",
-   "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
+   "stage_sources": "CMR-003",
+   "gaps": "No source found since October 2023 says two or more programmes draw on a shared registry, or that a registry is linked to the national ID and another sector.",
+   "note": "The health ministry's interoperability platform links universal health coverage enrolment and billing systems in use (CMR-003). The Unified Social Registry is still being built and no programme is held drawing on it, so not 4.",
+   "as_at": "2026-11-05"
   }
  ]
 }
