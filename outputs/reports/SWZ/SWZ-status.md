@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-11-04
+compiled: 2026-11-05
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 227
+sources_cited: 228
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -286,7 +286,7 @@ The national position is declaratory and outward-facing. Speaking for King Mswat
 ### ICT Industry
 <!-- tech.industry -->
 
-Forming a company in Eswatini happens over a counter rather than online. The [Business One-Stop Shop, opened by the Eswatini Investment Promotion Authority on 21 July 2025, brings business and trading-licence registration together with tax identification number applications through the Revenue Service and work-permit processing through Home Affairs inside a single facility](https://eswatiniobserver.com/business-one-stop-shop-opens-on-july-21/) — while there is [no single online front door to government services, and no company formation or business registration available that way](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Formality itself is not the barrier: [90.3% of firms were registered with the Registrar of Companies when they began operations, above 89% across most firm sizes and sectors](https://espanol.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Eswatini-2024.pdf) (2024).
+[Online company registrations fell 70.3% year on year in the second quarter of 2026/27, to 632 of 790 registrations in all](https://www.eswatiniobserver.com/digital-company-registrations-plunge-70/), the commerce ministry blaming network connectivity, manual back-end processes and manual payments. The [Business One-Stop Shop, opened by the Eswatini Investment Promotion Authority on 21 July 2025, brings business and trading-licence registration together with tax identification number applications through the Revenue Service and work-permit processing through Home Affairs inside a single facility](https://eswatiniobserver.com/business-one-stop-shop-opens-on-july-21/) — while there is [no single online front door to government services, and no company formation or business registration available that way](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Formality itself is not the barrier: [90.3% of firms were registered with the Registrar of Companies when they began operations, above 89% across most firm sizes and sectors](https://espanol.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Eswatini-2024.pdf) (2024).
 
 The commercial hosting a domestic sector would build on exists in one place, the National Data Centre, which [sells platform, infrastructure and software as a service alongside colocation and remote hands](https://rstp.org.sz/national-data-centre). What runs on it competes with the power supply: [58.5% of firms experience electrical outages, at around 1.2 a month](https://espanol.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Eswatini-2024.pdf) (2024). [A Taiwan-funded platform connecting local businesses to wider markets was handed to the investment promotion authority on 3 September 2026](https://eswatinipositivenews.online/taiwan-opens-global-markets-for-eswatini-through-buy-eswatini/).
 
