@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,govai,use,coverage,inservice,2026-07-29,SLE-002,SLE-001=underway,
-SLE,govai,bodies,coverage,,,,,nothing held
-SLE,govai,rules,coverage,,,,,nothing held
+SLE,govai,use,coverage,inservice,2026-07-29,SLE-002;SLE-003,SLE-001=underway,
+SLE,govai,bodies,coverage,,,,,nothing found
+SLE,govai,rules,coverage,,,,,nothing found

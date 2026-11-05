@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "2",
-      "use": "underway",
+      "stage": "3",
+      "use": "inservice",
       "bodies": "",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-001",
-      "gaps": "No source found says a government body uses an AI system in service.",
-      "note": "Rebuild 2026-10-20: the NOSi accounting application is a state-owned company's, not a government body's; the justice institute's demonstrated AI chat answers question 1.",
-      "as_at": "2026-10-20"
+      "stage_sources": "CPV-004",
+      "gaps": "No source found shows AI in service in a second government body, or rules or a register for the government's own use of AI. The minister did not say what the labour portal's AI features do.",
+      "note": "Fact 2026-11-05: the labour inspectorate's portal, launched complete on 3 November 2026, has AI features in service, the minister said, so one body has AI in service. No second body has been found, so not stage 4.",
+      "as_at": "2026-11-05"
     }
   ]
 }

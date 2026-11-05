@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-002",
-      "gaps": "No source found shows AI in service in a second government body, or rules or a register for the government's own use of AI.",
-      "note": "Fact 2026-10-21: the education ministry's delivery team uses an internal AI chatbot most days, so one body has AI in service; no second body has been found.",
-      "as_at": "2026-10-21"
+      "gaps": "No source found shows AI in service in a second government body, or rules or a register for the government's own use of AI. The EDSA WhatsApp chatbot (SLE-003) is a fault-reporting and ticketing service that its source does not describe as using AI.",
+      "note": "Fact 2026-10-21: the education ministry's delivery team uses an internal AI chatbot most days, so one body has AI in service. Reassessed 2026-11-05: the EDSA chatbot is not described as AI, so it is not a second body.",
+      "as_at": "2026-11-05"
     }
   ]
 }

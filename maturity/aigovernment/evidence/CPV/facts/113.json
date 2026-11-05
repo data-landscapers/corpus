@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-cpv-nova-plataforma-digital-da-igt-queixas-laborais",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Minister Adélsia Almeida said the labour inspectorate (IGT) portal and integrated management system, launched 2026-11-03 and already complete, integrates Artificial Intelligence features for workers and employers.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Portal e Sistema Integrado de Gestão da IGT",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portal e Sistema Integrado de Gestão da IGT",
+   "country_label": "Cabo Verde",
+   "class": "govai",
+   "platform": "web portal",
+   "owner": "Inspecção-Geral do Trabalho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

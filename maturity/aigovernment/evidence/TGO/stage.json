@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "2",
-      "use": "underway",
+      "stage": "3",
+      "use": "inservice",
       "bodies": "",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001",
-      "gaps": "No source says an AI system is in service in a government body; the AI laboratory reports projects with public agencies.",
-      "note": "Togo's AI laboratory reports over 70 projects with more than ten public agencies, which is AI being tested for government work; no system is stated to be in service, so not stage 3.",
-      "as_at": "2026-10-26"
+      "stage_sources": "TGO-002",
+      "gaps": "No source found shows AI in service in a second government body; the Ministry of Security tool is being built. No rules or register for the government's own use of AI found.",
+      "note": "Fact 2026-11-05: UNDP says a digital assistant on the national AI server is in use at the public procurement control directorate, so one body has AI in service. The second tool is still being built, so not stage 4.",
+      "as_at": "2026-11-05"
     }
   ]
 }

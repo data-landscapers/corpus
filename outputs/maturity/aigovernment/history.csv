@@ -56,3 +56,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-26,TGO,tech.ai--use-of-ai-in-government-administration,fact,no evidence,2,TGO-001,"Investdesk 22 Oct 2026: Togo's AI laboratory runs over 70 projects with more than ten public agencies; AI tested, none stated in service"
 2026-10-30,TZA,tech.ai--use-of-ai-in-government-administration,fact,4,4,TZA-002;TZA-003,"Bank of Tanzania approved policies for its own AI adoption, October 2026: one body's rules, not the government's; stays 4"
 2026-11-03,SWZ,tech.ai--use-of-ai-in-government-administration,fact,no evidence,2,SWZ-001,"ESWASA's EswasaOne AI platform under development (Nov 2026): a government body building AI for its own work, so stage 2"
+2026-11-05,CPV,tech.ai--use-of-ai-in-government-administration,fact,2,3,CPV-004,"The labour inspectorate's portal, launched on 3 November 2026, has AI features in service, the minister said: one government body with AI in service."
+2026-11-05,TGO,tech.ai--use-of-ai-in-government-administration,fact,2,3,TGO-002,UNDP says a digital assistant on the national AI server is in use at the public procurement control directorate: one government body with AI in service.
+2026-11-05,SLE,tech.ai--use-of-ai-in-government-administration,fact,3,3,SLE-002,"The EDSA WhatsApp fault-reporting chatbot launched in April 2026 is not described as AI, so no second body; the stage holds."

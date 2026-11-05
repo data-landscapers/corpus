@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-03-tgo-un-supercalculateur-pour-acc-l-rer-l-innovation-technologique-l-intelligence-artificie",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "UNDP Togo says a digital assistant at the Direction nationale du contrôle de la commande publique helps staff search and analyse public procurement information, cutting a task from days to under a day.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Procurement assistant",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "UNDP Togo says a solution is being developed for the Ministry of Security to automate compliance checks of recruitment-competition applications.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Recruitment file compliance tool",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Procurement assistant",
+   "country_label": "Togo",
+   "class": "govai",
+   "platform": "UNDP-donated GPU server at Lomé Data Centre",
+   "owner": "Direction nationale du contrôle de la commande publique",
+   "tiers": ""
+  },
+  {
+   "system": "Recruitment file compliance tool",
+   "country_label": "Togo",
+   "class": "govai",
+   "platform": "UNDP-donated GPU server at Lomé Data Centre",
+   "owner": "Ministry of Security",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

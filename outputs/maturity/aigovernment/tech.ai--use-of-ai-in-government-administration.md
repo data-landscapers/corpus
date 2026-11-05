@@ -22,8 +22,8 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 11 |
-| 3 Established | 20 |
-| 2 Nascent | 8 |
+| 3 Established | 22 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 13 |
@@ -117,6 +117,12 @@ A government body used an AI system in service in 2025; AI in several bodies is 
 Angola's telecoms regulator has run an AI chatbot on its portal since 2025; no source found says whether other bodies use AI.
 
 - INACOM says its relaunched portal now has a 24-hour chatbot with artificial intelligence that answers questions and tracks the status of processes ([source, 2025-06-12](https://inacom.gov.ao/2025/06/12/novo-portal-do-inacom-destaca-inovacao-ao-servico-do-cidadao/)).
+
+### Cape Verde: 3 Established
+
+Cape Verde's labour inspectorate launched a portal with AI features in 2026; no source found shows AI in service in a second government body.
+
+- Minister Adélsia Almeida said the labour inspectorate (IGT) portal and integrated management system, launched 2026-11-03 and already complete, integrates Artificial Intelligence features for workers and employers ([source, 2026-11-03](https://www.inforpress.cv/en/nova-plataforma-digital-da-igt-permite-apresentar-queixas-laborais-e-solicitar-servicos-on-line-ministra)).
 
 ### Cote d'Ivoire: 3 Established
 
@@ -218,6 +224,12 @@ Sudan's higher education ministry has run an admissions chatbot since 2026; no s
 
 - Sudan's Ministry of Higher Education and Scientific Research launched, per a ministry communique reported by allAfrica, an automated chatbot assistant on its admission.gov.sd portal giving instant Arabic answers to applicants for the 2026-2027 intake, routing complex or personal-data queries to human agents ([source, 2026-09-25](https://fr.allafrica.com/stories/202609250240.html)).
 
+### Togo: 3 Established
+
+Togo's public procurement control directorate used an AI assistant in 2026; no source found shows AI in service in a second government body.
+
+- UNDP Togo says a digital assistant at the Direction nationale du contrôle de la commande publique helps staff search and analyse public procurement information, cutting a task from days to under a day ([source, 2026-11-03](https://www.undp.org/fr/togo/actualites/un-supercalculateur-pour-accelerer-linnovation-technologique-lintelligence-artificielle-et-la-prise-de-decision-strategique-au-togo)).
+
 ### Zambia: 3 Established
 
 Zambia's revenue authority has run an AI chatbot since 2026; no source found reports other bodies have tendered or tested AI, and rules.
@@ -236,12 +248,6 @@ AI for public administration was under way in 2025; none in service is on record
 
 - The Ministry of Digital Transition and public broadcaster RTB signed an agreement on 21 October 2025 to use AI to make public information accessible, and a live demonstration showed a Moore-French translation tool ([source, 2025-10-21](https://news.broadcastmediaafrica.com/2025/10/23/burkina-faso-pioneers-ai-integration-in-public-broadcasting-with-rtb-partnership/)).
 - Digital Transition Minister Aminata Zerbo/Sabane told parliament her department is finalising three major projects: the Djam platform, a chatbot on electronic communications regulation and a chatbot on Burkina Faso's legislative texts ([source, 2025-03-11](https://an.bf/127)).
-
-### Cape Verde: 2 Nascent
-
-The justice institute demonstrated an AI chat in 2025; no source found reports an AI system in service.
-
-- The Instituto da Modernização e Inovação da Justica's president presented the Portal da Justica and demonstrated its Inteligencia Artificial Integrada initiative, a platform with an AI chat built to help citizens access information and digital services ([source, 2025-10-23](https://justica.gov.cv/w/lisbon-forum-2025-destaca-inova%C3%A7%C3%A3o-digital-de-cabo-verde-com-o-portal-da-justi%C3%A7a-e-uso-%C3%A9tico-da-intelig%C3%AAncia-artificial)).
 
 ### Congo: 2 Nascent
 
@@ -267,12 +273,6 @@ Two Libyan government bodies were building AI systems in 2026; none is known to 
 
 - The Audit Bureau head said it launched development of an institutional AI model, Diwan Bot, at the start of 2026 to support auditing and oversight analysis; it is described as in development ([source, 2026](https://lana.gov.ly/post.php?id=358534&lang=en)).
 - Libya Observer reports that the Minister of Labour and Rehabilitation, meeting Al-Nasr Information Technology, was told the ministry's integrated digital platform, supported by AI technologies and linking its departments, was about 30% complete, with standards and the system framework finished ([source, 2026-04-14](https://ar.libyaobserver.ly/article/36835)).
-
-### Togo: 2 Nascent
-
-In 2026 Togo's AI laboratory ran over 70 projects with public agencies; no source found says whether any AI system is in service.
-
-- Togo's AI laboratory has expanded its collaborations to more than ten public agencies, with over 70 projects covering agriculture, health and public administration ([source, 2026-10-22](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/)).
 
 ### Tunisia: 2 Nascent
 
