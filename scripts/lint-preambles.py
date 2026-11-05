@@ -82,7 +82,7 @@ SHARE_FILES = [
     ("corpus-housekeeping.md", True, NOTE),          # CORPUS's register, measured to its first job
     ("corpus-housekeeping-resolved.md", True, DONE),  # CORPUS's archive, from 2026-11-03
     ("messages-from-bill.md", False, HEADING),      # Bill's channel
-    ("messages-for-bill.md", True, MARKER),         # CORPUS to Bill; on the share since 2026-10-02
+    ("messages-for-bill.md", True, MARKER),         # CORPUS and OSINT to Bill; CORPUS holds the preamble
 ]
 
 # A phrase, and the one file allowed to state it. Distinctive enough that a match is the

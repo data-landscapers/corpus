@@ -7,9 +7,9 @@ argument-hint: "deploy | deploy-cleared | critical"
 `%TEMP%\corpus-poll-alert.txt`; read it first. Re-read `C:\corpus-osint-xfer\messages-for-bill.md`
 before editing it, and keep to its form.
 
-- **deploy** — write one `· deploy` block quoting the line, replacing any older `· deploy`
+- **deploy** — write one `· CORPUS deploy` block quoting the line, replacing any older `· deploy` or `· CORPUS deploy`
   block; commit and push the share; send the line with the `PushNotification` tool.
-- **deploy-cleared** — delete the open `· deploy` block; commit and push the share.
+- **deploy-cleared** — delete the open `· deploy` or `· CORPUS deploy` block; commit and push the share.
 - **critical** — the trigger cannot judge, and the poll has stopped. Write one block quoting
   the message, commit and push the share, and send it with `PushNotification`. Do not run a
   cycle and do not restart the poll.

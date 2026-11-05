@@ -99,7 +99,22 @@ try:
     check("the word cap still binds it",
           run("## 2026-10-02 08:10 · deploy\n\n" + "word " * 81 + "\n\n")[0], 1)
     check("a job merely starting 'deploy' is not a deploy block",
-          run(DEPLOY + "## 7000 · 2026-10-02 08:10 · deploy notes\n\n- Text.\n\n")[0], 0)
+          run(DEPLOY + "## 70 · 2026-10-02 08:10 · deploy notes\n\n- Text.\n\n")[0], 0)
+
+    check("a CORPUS deploy block counts as the deploy block",
+          run(DEPLOY + "## 2026-11-05 08:10 · CORPUS deploy\n\n- Run 8.\n\n")[0], 1)
+
+    print("\nsenders")
+    check("a block from message 90 naming no sender fails",
+          run("## 7001 · 2026-11-05 12:40 · review\n\n- Text.\n\n")[0], 1)
+    check("a block before message 90 naming no sender passes",
+          run("## 89 · 2026-11-05 05:25 · rebuild\n\n- Text.\n\n")[0], 0)
+    check("an OSINT block passes",
+          run("## 7001 · 2026-11-05 12:40 · OSINT notes-for-osint 290\n\n- Text.\n\n")[0], 0)
+    check("an OSINT block over the word cap is reported, not failed",
+          run("## 7001 · 2026-11-05 12:40 · OSINT x\n\n" + "word " * 81 + "\n\n")[0], 0)
+    check("a CORPUS block passes",
+          run("## 7001 · 2026-11-05 12:40 · CORPUS review\n\n- Text.\n\n")[0], 0)
 
     # ---- numbered, once each -------------------------------------------------
 

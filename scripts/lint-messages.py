@@ -2,8 +2,9 @@
 """lint-messages.py — the rules on the share's messages-for-bill.md, counted in code.
 
 The file moved from `logs/` to the share on 2026-10-02 *(Bill)*, beside the notes he
-already reads there. It is still CORPUS's file, CORPUS to Bill; `CORPUS_OSINT_XFER`
-overrides where the share is.
+already reads there. **Since 2026-11-05 both CORPUS and OSINT write to it** *(Bill;
+notes-for-corpus 85)*, each block naming its sender; `CORPUS_OSINT_XFER` overrides where
+the share is.
 
 **There is no cap on the number of blocks** *(Bill, 2026-10-23)*. Five used to be the
 limit, and at five a run took the conservative option and logged it instead; on 2026-10-23
@@ -19,6 +20,10 @@ file, and what is owed him goes in it. What still binds:
   `## 12 · 2026-10-23 13:32 · job`. Bill replies by number. The preamble's *Next message
   takes **N*** issues them, as the notes' counters do; a closed number stays retired.
   The `· deploy` block is a state, not a message, and goes unnumbered.
+- **Every block from number 90 names its sender** *(2026-11-05)*: the job field starts
+  `CORPUS` or `OSINT`. An older block naming none is CORPUS's and is left alone. An
+  OSINT block over the word cap is reported, not failed: it is OSINT's to trim, and
+  CORPUS does not edit it.
 - **At most one `· deploy` block.** A stuck deploy is a state, not a history: the newer
   replaces the older; `scripts/deploy-state.py` exit 0 is what settles it.
 - **Every indicator id a block names exists** *(Bill, 2026-10-30, message 49)*: in
@@ -67,7 +72,11 @@ HEADING = re.compile(r"^## (?:(\d+) · )?(\d{4}-\d{2}-\d{2})")
 NEXT = re.compile(r"Next message takes \*\*(\d+)\*\*")
 ANY_HEADING = re.compile(r"^## ")
 # `## 2026-10-02 08:10 · deploy` — a state, so at most one is open.
-DEPLOY_HEADING = re.compile(r"^## (?:\d+ · )?\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})? · deploy\s*$")
+DEPLOY_HEADING = re.compile(r"^## (?:\d+ · )?\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})? · (?:CORPUS )?deploy\s*$")
+# The job field, after the date and optional time: from 2026-11-05 it starts with the sender.
+JOB = re.compile(r"^## (?:\d+ · )?\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})? · (.*)$")
+SENDERS = ("CORPUS", "OSINT")
+SENDER_FROM = 90  # OSINT's first block under the rule (notes-for-corpus 85)
 
 # **What a struck-but-present block looks like.** Two shapes, both of them an edit made
 # instead of a deletion: a heading struck through or prefixed out of its dated form, and a
@@ -172,6 +181,16 @@ def main() -> int:
         print(f"lint-messages: the preamble's 'Next message takes **N**' must exceed the "
               f"highest number in use ({max(numbers)}).")
 
+    for heading, *_ in found:
+        n = HEADING.match(heading)
+        if not n or not n.group(1) or int(n.group(1)) < SENDER_FROM:
+            continue
+        m = JOB.match(heading)
+        if not m or m.group(1).split(" ", 1)[0] not in SENDERS:
+            failed = True
+            print(f"lint-messages: '{heading}' names no sender. From message "
+                  f"{SENDER_FROM} the job field starts with CORPUS or OSINT.")
+
     ids = known_ids()
     for bad in sorted({m.group(1) for m in INDICATOR.finditer(text.split(MARKER, 1)[1])} - ids):
         failed = True
@@ -195,7 +214,11 @@ def main() -> int:
     for heading, date, words, _ in found:
         if words <= BLOCK_WORD_CAP:
             continue
-        if date is not None and date < CAP_FROM:
+        job = JOB.match(heading)
+        if job and job.group(1).startswith("OSINT"):
+            print(f"lint-messages: note - '{heading}' is OSINT's and {words} words against "
+                  f"the cap of {BLOCK_WORD_CAP}; OSINT's to trim.")
+        elif date is not None and date < CAP_FROM:
             print(f"lint-messages: note - '{heading}' is {words} words against the cap "
                   f"of {BLOCK_WORD_CAP}, and predates the cap ({CAP_FROM}); left to "
                   f"Bill to clear.")

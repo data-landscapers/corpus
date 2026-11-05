@@ -49,7 +49,7 @@ ALERT = os.path.join(tempfile.gettempdir(), "corpus-poll-alert.txt")
 START, STOP = dt.time(22, 0), dt.time(6, 0)
 WINDOWS = os.path.join(ROOT, "lookups", "poll-window.csv")
 
-DEPLOY_BLOCK = re.compile(r"^## \d+ · .* · deploy\s*$", re.M)
+DEPLOY_BLOCK = re.compile(r"^## \d+ · .* · (?:CORPUS )?deploy\s*$", re.M)
 
 
 def run(*args: str) -> tuple[int, str]:
