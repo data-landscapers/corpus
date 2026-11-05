@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-gha-refonte-ghana-gov-cbrain-omni-strategies-contract",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "La Marina BJ reports that the launch of the CitizenApp Data Interoperability System in October 2024 marked a turning point in the integration of services and data exchange between administrations in Ghana.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CitizenApp Data Interoperability System",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CitizenApp Data Interoperability System",
+   "country_label": "Ghana",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

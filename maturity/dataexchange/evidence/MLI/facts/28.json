@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-mli-cooperation-bilaterale-la-cote-d-ivoire-et-le-mali-ont-evalue-la-mise",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGMAT",
+   "country_label": "Systeme Interconnecte de Gestion des Marchandises en Transit, Cote d'Ivoire-Mali customs transit corridor",
+   "class": "other",
+   "platform": "",
+   "owner": "Ivorian and Malian customs",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGMAT is a bilateral customs system between two states, a regional platform, not a national data exchange."
+}

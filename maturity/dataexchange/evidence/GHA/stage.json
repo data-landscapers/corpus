@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-005;GHA-004",
-      "gaps": "No source found since October 2023 says the platform is in service.",
-      "note": "Rebuild 2026-10-28: the minister said in October 2026 that the hub is being built to connect 48 registries. Nothing says it is in service.",
-      "as_at": "2026-10-28"
+      "gaps": "No source found since October 2023 says the hub is in service. A November 2026 secondary report says a CitizenApp Data Interoperability System launched in October 2024, but not which bodies' systems it connects, and the minister's newer statements describe the hub as being built.",
+      "note": "Reassessed 2026-11-05 on a report of a CitizenApp Data Interoperability System launched in October 2024: the minister's October 2026 statements that the hub is being built are newer and stand. Nothing says a platform carries data between public bodies.",
+      "as_at": "2026-11-05"
     }
   ]
 }

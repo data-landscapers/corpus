@@ -60,6 +60,7 @@ CIV,Plateforme d'interopérabilité de l'administration publique,Côte d'Ivoire,
 CIV,Plateforme d'Interopérabilité de l'Administration (UXP),CIV,exchange,Cybernetica UXP (X-Road based),SNDI,,2025-09-25-civ-lancement-officiel-de-la-plateforme-d-interoperabilite-de-l-administra
 CMR,national interoperability infrastructure,Cameroon,exchange,,,,2026-08-21-biometricupdate-cameroon-national-interoperability-infrastructure
 CMR,CNEF IT platform,Cameroon,other,,CNEF,,2023-06-07-cnef-essential-actor-for-financial-inclusion-in-cameroun
+CMR,"plateforme nationale d'interoperabilite (OpenHIM, OpenFn)",Cameroon,other,"OpenHIM, OpenFn on a server at CAMTEL",Ministry of Public Health,,2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-syst-mes-d
 COD,RDC-PASS,DRC,other,,Ministry of Digital Economy,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
 COD,Guichet numérique,DRC,other,,,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
 COD,"Data-sharing platform (planned, Digital Transformation Project)",DR Congo,exchange,,"Ministry of Post, Telecommunications and Digital Affairs (MPTN) unit",,2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate
@@ -150,6 +151,7 @@ GHA,National Data Exchange Hub,National Data Exchange Hub,exchange,,"Ministry of
 GHA,Smart Africa Data Exchange (SADX),Ghana,other,SADX,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
 GHA,Smart Africa Data Exchange (SADX),Ghana,other,federated cross-border exchange pilot,Smart Africa Secretariat,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
 GHA,national data exchange hub,National data exchange hub,exchange,,"Ministry of Communication, Digital Technology and Innovations",,2026-10-21-gha-sam-george-announces-national-data-exchange-hub-to-connect-48-public-r
+GHA,CitizenApp Data Interoperability System,Ghana,exchange,,,,2026-11-03-gha-refonte-ghana-gov-cbrain-omni-strategies-contract
 GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
 GIN,Portail national e-service,Guinea,other,,Ministry of Administrative Modernisation,,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
 GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-20-africa-guinee-acceleration-de-la-modernisation-de-l
@@ -223,6 +225,7 @@ MLI,Government messaging system,Mali,other,,AGETIC,,2025-12-30-lessor-agetic-int
 MLI,SMTD data centre,Mali,other,"colocation, IaaS, SaaS, backup",SMTD,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MLI,AGETIC data centre,Mali,other,"hosting, IaaS, SaaS, backup",AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MLI,Government PKI (planned),Mali,other,,,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,SIGMAT,"Systeme Interconnecte de Gestion des Marchandises en Transit, Cote d'Ivoire-Mali customs transit corridor",other,,Ivorian and Malian customs,,2026-09-01-mli-cooperation-bilaterale-la-cote-d-ivoire-et-le-mali-ont-evalue-la-mise
 MOZ,X-Road,Mozambique,exchange,X-Road,ATDI,,2026-10-09-moz-mznews-atdi-x-road-training
 MOZ,Plataforma de Interoperabilidade (SIS-MA),Mozambique,exchange,DHIS2-based SIS-MA with intermediary API and Master Facility List,"Ministry of Health (MISAU), Departamento de Informação para Saúde",,2026-08-28-sisma-interoperability-platform
 MOZ,Ferramenta Central,Mozambique,other,,Central de Medicamentos e Artigos Médicos (CMAM),,2026-08-28-sisma-interoperability-platform
