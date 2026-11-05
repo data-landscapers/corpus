@@ -1,12 +1,12 @@
 ---
 title: Ghana: status report
-compiled: 2026-11-02
+compiled: 2026-11-05
 place: GHA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 311
+sources_cited: 312
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -244,7 +244,7 @@ The West African Police Information System [had equipped 35 police units by Augu
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
-In May 2026 [a redesign of Ghana.gov began, taking GOV.UK and Rwanda's Irembo as models](https://www.myjoyonline.com/major-shake-up-begins-to-make-ghana-gov-simpler-for-citizens/). The platform is being [expanded to carry about 16,000 services, integrated with the national identity credential](http://graphic.com.gh/news/general-news/ghana-news-govt-to-put-16-000-services-online-in-major-ghana-gov-revamp.html). The work is [funded by the $200 million World Bank Ghana Digital Acceleration Project](https://www.biometricupdate.com/202507/ghana-to-add-16k-digital-govt-services-as-part-of-200m-world-bank-project). From 14 August 2026 [tax payments through the Ghana.gov payment platform failed intermittently](https://www.citinewsroom.com/2026/08/gra-moves-to-restore-normal-ghana-gov-tax-payment-processing/). The [online passport application portal went down on 25 August](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html).
+In May 2026 [a redesign of Ghana.gov began, taking GOV.UK and Rwanda's Irembo as models](https://www.myjoyonline.com/major-shake-up-begins-to-make-ghana-gov-simpler-for-citizens/). The platform is being [expanded to carry about 16,000 services, integrated with the national identity credential](http://graphic.com.gh/news/general-news/ghana-news-govt-to-put-16-000-services-online-in-major-ghana-gov-revamp.html). The work is [funded by the $200 million World Bank Ghana Digital Acceleration Project](https://www.biometricupdate.com/202507/ghana-to-add-16k-digital-govt-services-as-part-of-200m-world-bank-project). From 14 August 2026 [tax payments through the Ghana.gov payment platform failed intermittently](https://www.citinewsroom.com/2026/08/gra-moves-to-restore-normal-ghana-gov-tax-payment-processing/). The [online passport application portal went down on 25 August](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). On 21 October 2026 the communications ministry [awarded the six-month contract to build and run the new platform to C-BRAINS A/S and Omni Strategies for GH¢76.1m](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478518).
 
 In 2025 the World Bank found the portal [transactional end to end for some services, company formation among them](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Sectoral portals cover tax, social protection and public jobs](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). In 2025 [citizens still carried several identity cards for services the Ghana Card could perform](https://dpi.africa/national-id-system-yet-to-realize-full-potential/). From 15 September 2026 the accountant-general [suspended the salaries of government employees whose identity details did not match the payroll](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/).
 
