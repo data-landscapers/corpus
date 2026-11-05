@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 270
+sources_cited: 271
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -127,7 +127,7 @@ On [4 September 2026 the mobile network moved to nine-digit numbers](https://the
 
 The [Broadband Strategy 2020-2024 set targets of 5 Mbps for every subscriber, broadband coverage above 90% and 4G coverage above 85% by 2024](https://mocde.gov.gm/wp-content/uploads/2023/10/BROADBAND-STRATEGY-2024.pdf). [GAMTEL signed a US$50 million partnership with SYSROAD SA HOLDING on 24 December 2025 to modernise the national broadband network](https://gamtel.gm/gamtel-and-syroad-project/). [Starlink paid its licence fee in December 2024 and was still without a licence more than a year later](https://standard.gm/starlink-and-the-gambia-transparency-trust-and-the-cost-of-delay/). The [minister declined to sign a VSAT licence for a company that is not a VSAT operator](https://standard.gm/govt-taking-due-diligence-despite-us-pressure-for-starlinks-license/).
 
-In September 2026 the incumbent's [international capacity stood at 25 Gbps over four ACE gateways, with a 28 Gbps backup link through a Senegalese operator](https://gamtel.gm/about-us/). [A second submarine cable was still at bid evaluation in July 2026](https://www.ecowas.int/ecowas-commission-hosts-evaluation-committee-meeting-for-west-african-submarine-cable-capacity-under-wardip/). [The Serekunda Internet Exchange Point was founded in July 2013 by fourteen members, including Africell, Gamtel, QCell and PURA](http://www.sixp.gm/about.html). It publishes no current capacity or participant figure. [The government 4G LTE network serving offices and officials grew from four base stations to eight in 2022](https://standard.gm/ministry-of-communications-digital-economy-2022-accomplishments/).
+In September 2026 the incumbent's [international capacity stood at 25 Gbps over four ACE gateways, with a 28 Gbps backup link through a Senegalese operator](https://gamtel.gm/about-us/). [A second submarine cable was still at bid evaluation in July 2026](https://www.ecowas.int/ecowas-commission-hosts-evaluation-committee-meeting-for-west-african-submarine-cable-capacity-under-wardip/). [The Serekunda Internet Exchange Point was founded in July 2013 by fourteen members, including Africell, Gamtel, QCell and PURA](http://www.sixp.gm/about.html). It publishes no current capacity or participant figure. [The regulator reported its maximum traffic rising from 1.125 Gbps in 2018 to 4.3 Gbps in 2019](https://pura.gm/wp-content/uploads/2021/06/Annual-Report_2019.pdf). [The government 4G LTE network serving offices and officials grew from four base stations to eight in 2022](https://standard.gm/ministry-of-communications-digital-economy-2022-accomplishments/).
 
 ### Data Storage
 <!-- infra.store -->
