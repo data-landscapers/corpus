@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-sen-sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-pa",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "The Plan national de developpement sanitaire et social 2023-2028 provides for developing the computerised patient record, unique identification and telemedicine, and Senegal aims to generalise the record by 2034 (SenePlus).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "dossier patient informatise",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dossier patient informatise",
+   "country_label": "Senegal",
+   "class": "emr",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "A plan only; no system in service is stated."
+}
