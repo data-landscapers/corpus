@@ -3,16 +3,16 @@ title: Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-05
 period: 2025-11-01 to 2026-11-05
 place: XAF
-ledger_rows: 292
+ledger_rows: 293
 not_held: 3
-record: 04c5c9966df7
+record: b7fead00268a
 ---
 
 # Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-05 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 292 bodies, instruments and systems on this place's ledger, 156 changed position between 2025-11-01 and 2026-11-05, 32 did not, 101 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 293 bodies, instruments and systems on this place's ledger, 157 changed position between 2025-11-01 and 2026-11-05, 32 did not, 101 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 1269 sources for this place in the window — 213 in the earlier half (2025-11 to 2026-04), 1056 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -321,6 +321,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 | Body, instrument or system | At 2025-11-01 | At 2026-11-05 | Progress |
 |---|---|---|---|
 | African Meteorological Satellite Application Facility (AMSAF) | Did not exist | [A continental facility inaugurated under the European Union-funded Strengthening Early Warning in Africa project, developing coordinated satellite-derived nowcasting and impact-based forecasting products for African meteorological services on Meteosat Third Generation data; no participating-service count, budget or product schedule is published](https://au.int/en/pressreleases/20260602/au-eu-space-partnership-revolutionises-weather-systems-save-lives) | Movement |
+| GMES and Africa Earth observation programme | Phase 2 in implementation, January 2022 to December 2025, on EUR 24.65 million from the European Union | [The joint African Union-European Union Earth observation programme, coordinated at the African Union Commission, concluded in December 2025 after two phases: EUR 30 million for January 2017 to December 2021 and EUR 24.65 million for January 2022 to December 2025](https://spaceinafrica.com/2026/08/28/dr-tidiane-ouattara-appointed-inaugural-dg-of-cote-divoires-space-agency-2/) | Closed |
 | West and Central Africa biomass productivity monitoring | Did not exist | [A humanitarian agency's regional biomass yearly production and anomaly tables, computed from Copernicus dry-matter productivity using Sentinel-3 OLCI, PROBA-V and SPOT-VEGETATION data and published to administrative level 3 across West and Central Africa; the held capture is the dataset listing rather than the data](https://data.humdata.org/dataset/acf_biomass_west-africa) | Movement |
 | Committed share of the African satellite pipeline | No figure held | [113 satellites worth US$7.94 billion that African operators could build and launch to 2036, of which 21 worth US$2.00 billion are firmly committed; 69 African satellites have reached orbit since 1998, 22 built by African teams and none launched from African soil (2026-09)](https://spaceinafrica.com/2026/11/02/only-usd-2-billion-of-africas-usd-7-9-billion-satellite-pipeline-is-firmly-committed-new-space-in-africa-report-finds/) | ***Baseline not held*** |
 | MTAP/PUMA satellite receiving stations | ***Baseline not held*** | [The Meteorological Transition in Africa Project installing PUMA receiving stations for Meteosat Second Generation data in national meteorological services, with hardware, training and outlook components; the forum drew 48 African states](https://www-cdn.eumetsat.int/files/2020-04/pdf_conf_6auf_report_en.pdf) | ***Baseline not held*** |
