@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-04-fibre-cuts-and-nigerias-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "TechCabal says President Tinubu's June 2024 CNII Order designated fibre lines, submarine landing cables, switching centres and data centres as critical national information infrastructure.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Designation and Protection of Critical National Information Infrastructure Order",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "2026-11-03-ken-kenya-s-cybersecurity-agency-gets-a-board-the-law-has-yet-to-catch-up",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "CIO Africa reports Kenya's National Cybersecurity Agency was established by the National Cybersecurity Agency Order, 2026 (Legal Notice No. 89), made by President Ruto under the State Corporations Act, and has existed since July.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "National Cybersecurity Agency",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "CIO Africa reports the National KE-CIRT/CC, Kenya's incident response team, issued 20.7 million advisories between April and June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National KE-CIRT/CC",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "recorded",
+   "fact": "CIO Africa reports the National KE-CIRT/CC detected just under 2.36 billion cyber threat events between April and June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National KE-CIRT/CC",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Agency",
+   "country_label": "National Cybersecurity Agency",
+   "class": "response",
+   "platform": "National Cybersecurity Operations Centre",
+   "owner": "Ministry of Interior and National Administration",
+   "tiers": ""
+  },
+  {
+   "system": "National KE-CIRT/CC",
+   "country_label": "National KE-CIRT/CC",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

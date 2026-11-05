@@ -1,0 +1,56 @@
+{
+ "slug": "2026-11-02-mar-al3omk-digital-vulnerabilities-bug-to-economic-social-security-challenge",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The op-ed says Morocco has a national cybersecurity strategy to 2030, alongside Law 05.20 and national information-systems security directives.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "National cybersecurity strategy 2030",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The op-ed names the DGSSI as the national body for framing, security watch, auditing and incident response, operating the maCERT.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "DGSSI / maCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The op-ed cites data given to Parliament in November 2025 that the DGSSI detected 879 cyber incidents, 109 of which required its direct intervention, and says it confirmed the 2025 Tawtik.ma data leak.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "DGSSI / maCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "recorded",
+   "fact": "The DGSSI count of 879 incidents detected, with no period given, and audits finding critical flaws in 20 of 76 applications in the first nine months of 2025, were presented to Parliament in November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "DGSSI / maCERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGSSI / maCERT",
+   "country_label": "Morocco",
+   "class": "response",
+   "platform": "",
+   "owner": "DGSSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -126,6 +126,7 @@ CIV,ANSSI,ANSSI Côte d'Ivoire,response,,,,2025-08-01-civ-panorama-des-menaces-m
 CIV,ANSSI,Agence nationale de la sécurité des systèmes d'information,other,,,,2026-10-28-linfodrome-cyber-ex-2026-anssi-prepare-crises-numeriques
 CIV,Anssi,Agence nationale de la sécurité des systèmes d'information (Anssi),response,,state,,2026-10-29-en-cote-divoire-une-simulation-nationale-pour-apprendre-a-reagir-aux-cybera
 CIV,ANSSI-CI,ANSSI-CI,response,,Government of Côte d'Ivoire,,2026-10-30-civ-la-cote-d-ivoire-teste-sa-reponse-a-une-cyberattaque-lors-d-un-premier-exercice-national
+CIV,ANSSI,ANSSI (Agence nationale de la sécurité des systèmes d'information),response,,,,2026-11-04-civ-l-anp-et-l-anssi-s-accordent-sur-une-feuille-de-route-contre-la-d-sinf
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-21-antic-cirt-cybersecurity-systems-patnuc-techafricanews
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,"2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust"
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-01-world-bank-cmr-2026-antic-cirt-cybersecurity-patnuc-bw07
@@ -152,6 +153,8 @@ COD,Agence nationale de certification électronique,Agence nationale de certific
 COD,Kidzonet,Africell (operator service),other,Sim Guard,Africell,,2026-07-17-africell-kidzonet-drc
 COD,Agence Nationale de Cybersécurité (ANCY),ANCY,response,,Presidency of the Republic,,2026-05-16-rdc-ancy-ordonnance-26-033-journal-officiel
 COD,National SOC and CERT/CSIRT (to be set up),Centre National de Sécurité Opérationnel / Centre National de Réponse à Incident,response,,ANCY,,2026-05-16-rdc-ancy-ordonnance-26-033-journal-officiel
+COD,National CSIRT and government SOC,National CSIRT,other,,,,2026-11-04-cod-du-03-au-05-novembre-2026-l-arptc-travaille-d-arrache-pied-pour-doter-
+COD,ANCY,Agence nationale de cybersécurité (ANCY),response,,Government of DRC,,2026-11-03-cod-cybers-curit-un-atelier-de-validation-de-sept-arr-t-s-lanc-kinshasa
 COG,Agence nationale de sécurité des systèmes d'information (ANSSI),Congo,response,,"State, under the Presidency",,2026-07-28-anssi-congo-re-passi-audit-provider-referential-validation
 COG,Agence nationale de sécurité des systèmes d'information (ANSSI),Congo,response,,"State, under the Presidency",,2026-07-23-anssi-congo-patn-bei-tender-national-cybersecurity-strategy
 COG,Agence nationale de sécurité des systèmes d'information (ANSSI),Congo,response,,"State, under the Presidency",,2025-01-01-cog-2025-anssi-operations
@@ -358,6 +361,8 @@ KEN,National KE-CIRT/CC,National Kenya Computer Incident Response Team Coordinat
 KEN,Cyber Security Operations Centre for the ICT and Telecommunications Sector,Cyber Security Operations Centre (ICT and telecoms sector),other,,Communications Authority of Kenya,,2024-09-14-ken-ca-to-lay-2-500km-of-fibre-accross-19-counties
 KEN,National Cybersecurity Operations Centre,National Cybersecurity Operations Centre,response,,National Cybersecurity Agency,,2026-11-02-ken-state-to-strengthen-cybersecurity-as-threats-surge-says-murkomen
 KEN,National Computer and Cybercrimes Coordination Committee (NC4),NC4,response,,Government of Kenya,,2025-10-07-ken-ca-orders-cii-licensed-e-csp-digital-certificates
+KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,National Cybersecurity Operations Centre,Ministry of Interior and National Administration,,2026-11-03-ken-kenya-s-cybersecurity-agency-gets-a-board-the-law-has-yet-to-catch-up
+KEN,National KE-CIRT/CC,National KE-CIRT/CC,response,,Communications Authority of Kenya,,2026-11-03-ken-kenya-s-cybersecurity-agency-gets-a-board-the-law-has-yet-to-catch-up
 LBR,computer security incident response team (Cybaston Digital Fast Track),Liberia,response,,"Cybaston Institute of Technology, handover to Ministry of Posts and Telecommunications in September 2029",,2024-09-24-liberia-cybaston-five-year-digital-fast-track-agreement
 LBR,National Cybersecurity Strategy (2024-2029),Liberia,response,,Ministry of Posts and Telecommunications,,2026-03-01-liberia-national-data-governance-policy
 LBR,Liberia National CERT (proposed),Liberia,other,,,,2026-03-01-liberia-national-data-governance-policy
@@ -398,18 +403,22 @@ MAR,DGSSI,Morocco,other,,,,2020-12-31-morocco-loi-43-20-services-confiance-trans
 MAR,Stratégie nationale de cybersécurité à l'horizon 2030,Morocco,response,,,,2026-07-25-morocco-elected-african-telecommunications-union-council
 MAR,DGSSI,DGSSI,response,,Administration de la Defense nationale,,2025-11-14-mar-dgssi-879-cyberattaques-recensees-en-2025-109-interventions-directes
 MAR,maCERT,maCERT,response,,DGSSI,,2024-11-15-mar-hackers-have-launched-644-cyberattacks-against-morocco-in-2024
+MAR,DGSSI / maCERT,Morocco,response,,DGSSI,,2026-11-02-mar-al3omk-digital-vulnerabilities-bug-to-economic-social-security-challenge
 MDG,CIRT (national Computer Incident Response Team),Madagascar,response,,,,2025-12-19-ecofin-madagascar-cybersecurity-strategy-groundwork
 MDG,CIRT (Computer Incident Response Team),Madagascar,response,,,,2025-12-16-madagascar-launches-drafting-national-cybersecurity-strategy
 MDG,CIRT,Madagascar,response,,,,2025-12-15-cybersecurite-strategie-nationale-midi
 MDG,Computer Incident Response Team (CIRT),Madagascar,response,,"Ministry of Digital Development, Posts and Telecommunications",,2026-06-26-cybersecurity-symposium-antananarivo
 MDG,Centre de lutte contre la cybercriminalite (CLCC),MDG,other,,Ministry of Communication and Culture,24 regions,2026-10-22-mdg-la-prevention-de-la-cybercriminalite-se-renforce
 MDG,CIRT,CIRT (Computer Incident Response Team),response,,Ministry of Digital Development,,2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development
+MDG,CIRT-MG,Computer Incident Response Team Madagascar,response,,,,2026-11-03-mdg-madagascar-cyber-escroquerie-une-affaire-de-gros-sous
 MLI,Agence nationale de la Sécurité des Systèmes d'Information (ANSSI),ANSSI,response,,Government of Mali,national,2026-07-01-maliactuel-anssi-agence-cybersecurite-creee
 MLI,Agence nationale de la Sécurité des Systèmes d'Information (ANSSI),ANSSI,response,,Government of Mali,national,2026-06-10-mali-conseil-des-ministres-creation-anssi
 MLI,Pole national de lutte contre la cybercriminalite,Mali,other,,Ministry of Justice,,2026-05-21-lessor-cybercrime-chamber-operational
 MLI,ANSSI (Agence nationale de la sécurité des systèmes d'information),Agence nationale de la sécurité des systèmes d'information,response,,Government of Mali,,2026-06-11-mli-bamako-structure-sa-reponse-aux-menaces-numeriques
 MLI,ML-CERT,"Centre de Réponse aux Incidents (ML-CERT), run through AMRTP",response,,AMRTP,,2025-05-27-mli-souverainete-numerique-et-cybersecurite-au-mali-strategie-nationale
 MLI,Agence nationale de la Sécurité des Systèmes d'Information (ANSSI),ANSSI,response,,Government of Mali,,2026-10-29-mli-mali-l-intelligence-artificielle-nouveau-rempart-contre-les-cybermenac
+MLI,ML-CERT,Centre national de réponse aux incidents informatiques (ML-CERT),response,web platform for cyber-threat information and incident reporting,AMRTP,,2026-11-04-le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite
+MLI,ANSSI,Agence nationale de la sécurité des systèmes d'information (ANSSI),response,,Government of Mali,,2026-11-04-le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite
 MOZ,Rede Nacional de CSIRTs,Rede Nacional de CSIRTs,response,,Government of Mozambique,,2026-10-08-moz-aim-cybersecurity-measures
 MOZ,Equipa Nacional de Resposta a Incidentes de Seguranca Cibernetica,Equipa Nacional de Resposta a Incidentes de Seguranca Cibernetica,response,,INTIC,,2026-08-19-revistatempo-mozambique-intic-finlandia-estrategia-ciberseguranca-2026-2030
 MOZ,Equipa Nacional de Resposta a Incidentes Ciberneticos,Equipa Nacional de Resposta a Incidentes Ciberneticos,response,,INTIC,,2026-07-23-mozambique-intic-cybersecurity-seminar-laws-13-14-2026-csirt
