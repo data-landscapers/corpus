@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: UGA
-ledger_rows: 30
+ledger_rows: 31
 not_held: 12
-record: 764366bda720
+record: 3ff8a8f46e01
 ---
 
 # News, Oct – Nov 2026
@@ -343,6 +343,8 @@ Godfrey Mutabazi, director of Net Studios Africa, argues in a New Vision opinion
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
@@ -391,6 +393,22 @@ Summarised under [Data Exchange](#data-exchange).
 **[More than 3mn tax records await NIN match before login switch](https://ugbusiness.com/2026/10/economy/more-than-3m-tax-records-await-nin-match-before-login-switch)** — Uganda Business News, 17 October 2026
 
 Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual taxpayer records to National Identification Numbers by 30 September 2026, leaving about 3.27 million unmatched, the finance ministry told Parliament. Taxpayers with linked records are due to log in with their NIN from 1 January 2027, and no end date has been set for TIN logins.
+
+</div>
+
+</div>
+
+### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">East African Payment System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda: East African Community Affairs (EAC) member states plot to reduce dollar dependence](https://www.africa-newsroom.com/press/uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-dependence?lang=en)** — Parliament of the Republic of Uganda (via APO Group), 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
+
+Uganda's EAC Affairs minister Rebecca Kadaga told Parliament on 3 November 2026 that the East African Payment System links only four countries' RTGS systems. These are Uganda, Kenya, Tanzania and Rwanda. She set out how an EAC cross-border payment masterplan, adopted in 2025, is to reduce use of the US dollar.
 
 </div>
 
