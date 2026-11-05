@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-gha-nia-to-begin-enforcement-of-biometric-verification-regulations-on-nov-3-ghana-ne",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The NIA's National Identity Register and Ghana Card are in use, with institutions accessing the register for identity verification (Ghana News Agency).",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "National Identity Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": "No enrolment biometric deduplication or certification is stated."
+}

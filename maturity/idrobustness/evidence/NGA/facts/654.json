@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-nga-nin-fraud-arrests-data-scandal-renew-security-concerns",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIMC had issued 117.5 million NINs from 134.6 million enrolments as of 2026-06-30 (The Sun's earlier reporting).",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "NIN system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN system",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": "No biometric check or certification is stated."
+}

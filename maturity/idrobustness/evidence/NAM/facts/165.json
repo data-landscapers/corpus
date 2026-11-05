@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-nam-cabinet-briefs",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Namibia's Cabinet noted progress on developing and implementing e-ID cards, with launch moved from September 2026 pending regulations under the Civil Registration and Identification Act 2024.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "e-ID cards",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-ID cards",
+   "country_label": "Namibia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

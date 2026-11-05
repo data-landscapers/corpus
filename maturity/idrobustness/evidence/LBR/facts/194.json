@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-lbr-liberia-lrrrc-sets-november-4-for-launch-of-biometric-registration-for-burkinabe",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The National Identification Registry is to provide technical infrastructure and biometric identification expertise so that each eligible migrant registered between 2026-11-05 and 2026-12-31 receives a unique identity and is enrolled in Liberia's National Biometric Identification System (LRRRC, via FrontPageAfrica).",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "National Biometric Identification System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identification System",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": "No duplicate checks or certification stated."
+}

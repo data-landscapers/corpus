@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-mdg-identite-numerique-pres-de-sept-millions-de-personnes-enrolees-dans-le",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Interior minister Velonjara Tiaray Rakotonandrasana said just under seven million people aged 18 and over had completed biometric enrolment in the Izaho Tokana unique digital identifier project, with phase 2.0 resumed in September 2026 in 16 districts toward 10 million enrolled by July 2027 (2424.mg).",
+   "as_of": "2026-11-01",
+   "date_precision": "day",
+   "system": "Izaho Tokana",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Izaho Tokana",
+   "country_label": "Madagascar",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior and Decentralisation",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement that unique numbers or credentials are issued, nor of duplicate checks or certification."
+}
