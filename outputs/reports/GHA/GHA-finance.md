@@ -19,19 +19,21 @@ place: GHA
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">37</td><td class="num zero"></td><td class="num total">37</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">14</td><td class="num">4</td><td class="num">17</td><td class="num total">34</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">4</td><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">18</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">9</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num total">11</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num">2</td><td class="num total">7</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">2</td><td class="num total">5</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Standards</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">885</td><td class="num">426</td><td class="num">64</td><td class="num">109</td><td class="num">159</td><td class="num">1,431</td><td class="num total">3,074</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">888</td><td class="num">426</td><td class="num">64</td><td class="num">109</td><td class="num">159</td><td class="num">1,431</td><td class="num total">3,077</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/all-finance.html">Full table &mdash; 173 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/all-finance.html">Full table &mdash; 190 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GHA/GHA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -58,7 +60,7 @@ place: GHA
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/budgets.html">Full table &mdash; 147 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/budgets.html">Full table &mdash; 147 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GHA/GHA-budgets.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -76,15 +78,17 @@ place: GHA
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">4</td><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num total">18</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num total">12</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">885</td><td class="num">426</td><td class="num">64</td><td class="num">47</td><td class="num">1,313</td><td class="num total">2,734</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">888</td><td class="num">426</td><td class="num">64</td><td class="num">47</td><td class="num">1,313</td><td class="num total">2,737</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/finance.html">Full table &mdash; 26 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/finance.html">Full table &mdash; 43 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GHA/GHA-nonstate.csv" download>&darr; Download CSV</a>
 </div>

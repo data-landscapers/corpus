@@ -1,6 +1,6 @@
 ---
 title: Togo: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: TGO
 ---
 
@@ -54,7 +54,7 @@ place: TGO
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TGO/budgets.html">Full table &mdash; 126 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TGO/budgets.html">Full table &mdash; 126 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TGO/TGO-budgets.csv" download>&darr; Download CSV</a>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 title: Eritrea: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: ERI
 ---
 
@@ -15,7 +15,7 @@ place: ERI
 <tfoot><tr><th scope="row">All topics</th><td class="num">2</td><td class="num total">2</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ERI/all-finance.html">Full table &mdash; 3 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ERI/all-finance.html">Full table &mdash; 4 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ERI/ERI-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -35,6 +35,6 @@ place: ERI
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ERI/finance.html">Full table &mdash; 3 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ERI/finance.html">Full table &mdash; 4 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ERI/ERI-nonstate.csv" download>&darr; Download CSV</a>
 </div>

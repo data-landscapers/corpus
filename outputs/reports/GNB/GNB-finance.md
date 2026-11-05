@@ -1,6 +1,6 @@
 ---
 title: Guinea-Bissau: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: GNB
 ---
 
@@ -12,13 +12,14 @@ place: GNB
 <tr><th scope="row">Connectivity</th><td class="num">35</td><td class="num">60</td><td class="num">25</td><td class="num">&lt;1</td><td class="num total">120</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">35</td><td class="num">60</td><td class="num">29</td><td class="num">&lt;1</td><td class="num total">124</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GNB/all-finance.html">Full table &mdash; 18 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GNB/all-finance.html">Full table &mdash; 20 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GNB/GNB-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -36,7 +37,7 @@ place: GNB
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GNB/budgets.html">Full table &mdash; 14 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GNB/budgets.html">Full table &mdash; 14 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GNB/GNB-budgets.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -47,11 +48,13 @@ place: GNB
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">35</td><td class="num">60</td><td class="num">25</td><td class="num total">120</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num total">3</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">35</td><td class="num">60</td><td class="num">28</td><td class="num total">123</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GNB/finance.html">Full table &mdash; 4 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GNB/finance.html">Full table &mdash; 6 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GNB/GNB-nonstate.csv" download>&darr; Download CSV</a>
 </div>

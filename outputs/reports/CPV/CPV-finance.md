@@ -1,6 +1,6 @@
 ---
 title: Cape Verde: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: CPV
 ---
 
@@ -15,15 +15,16 @@ place: CPV
 <tr><th scope="row">Cybersecurity</th><td class="num">15</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">11</td><td class="num zero"></td><td class="num total">26</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">16</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">16</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">3</td><td class="num">3</td><td class="num zero"></td><td class="num total">9</td></tr>
-<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num zero"></td><td class="num total">8</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">3</td><td class="num zero"></td><td class="num total">8</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">114</td><td class="num">28</td><td class="num">82</td><td class="num">61</td><td class="num">30</td><td class="num">2</td><td class="num total">316</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CPV/all-finance.html">Full table &mdash; 53 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CPV/all-finance.html">Full table &mdash; 55 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CPV/CPV-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -44,7 +45,7 @@ place: CPV
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CPV/budgets.html">Full table &mdash; 38 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CPV/budgets.html">Full table &mdash; 38 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CPV/CPV-budgets.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -59,11 +60,13 @@ place: CPV
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">16</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">16</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num total">14</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">114</td><td class="num">28</td><td class="num">64</td><td class="num">12</td><td class="num">11</td><td class="num total">229</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CPV/finance.html">Full table &mdash; 15 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CPV/finance.html">Full table &mdash; 17 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CPV/CPV-nonstate.csv" download>&darr; Download CSV</a>
 </div>

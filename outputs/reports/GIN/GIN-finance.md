@@ -1,6 +1,6 @@
 ---
 title: Guinea: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: GIN
 ---
 
@@ -17,19 +17,19 @@ place: GIN
 <tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num">1</td><td class="num zero"></td><td class="num">2</td><td class="num total">17</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">7</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">6</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">1</td><td class="num total">5</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">4</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">74</td><td class="num">436</td><td class="num">96</td><td class="num">47</td><td class="num total">654</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">74</td><td class="num">436</td><td class="num">99</td><td class="num">47</td><td class="num total">657</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/all-finance.html">Full table &mdash; 309 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/all-finance.html">Full table &mdash; 310 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GIN/GIN-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -58,7 +58,7 @@ place: GIN
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/budgets.html">Full table &mdash; 302 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/budgets.html">Full table &mdash; 302 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GIN/GIN-budgets.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -71,12 +71,13 @@ place: GIN
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">54</td><td class="num zero"></td><td class="num total">54</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">27</td><td class="num zero"></td><td class="num zero"></td><td class="num total">27</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">15</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">74</td><td class="num">400</td><td class="num">54</td><td class="num">&lt;1</td><td class="num total">529</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">74</td><td class="num">400</td><td class="num">58</td><td class="num">&lt;1</td><td class="num total">532</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/finance.html">Full table &mdash; 7 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/finance.html">Full table &mdash; 8 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GIN/GIN-nonstate.csv" download>&darr; Download CSV</a>
 </div>

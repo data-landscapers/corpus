@@ -1,6 +1,6 @@
 ---
 title: Gabon: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: GAB
 ---
 
@@ -19,12 +19,13 @@ place: GAB
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">3</td><td class="num">4</td><td class="num total">11</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">0</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">197</td><td class="num">28</td><td class="num">275</td><td class="num">41</td><td class="num">48</td><td class="num total">589</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">198</td><td class="num">28</td><td class="num">275</td><td class="num">41</td><td class="num">48</td><td class="num total">589</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GAB/all-finance.html">Full table &mdash; 44 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GAB/all-finance.html">Full table &mdash; 47 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GAB/GAB-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -44,7 +45,7 @@ place: GAB
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GAB/budgets.html">Full table &mdash; 35 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GAB/budgets.html">Full table &mdash; 35 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GAB/GAB-budgets.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -59,12 +60,13 @@ place: GAB
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">28</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">28</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">0</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">197</td><td class="num">28</td><td class="num">235</td><td class="num">1</td><td class="num">0</td><td class="num total">461</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">198</td><td class="num">28</td><td class="num">235</td><td class="num">1</td><td class="num">0</td><td class="num total">461</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GAB/finance.html">Full table &mdash; 9 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GAB/finance.html">Full table &mdash; 12 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GAB/GAB-nonstate.csv" download>&darr; Download CSV</a>
 </div>

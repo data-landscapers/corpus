@@ -1,6 +1,6 @@
 ---
 title: São Tomé and Príncipe: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: STP
 ---
 
@@ -14,13 +14,13 @@ place: STP
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">2</td><td class="num">22</td><td class="num">0</td><td class="num">1</td><td class="num">8</td><td class="num total">33</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/STP/all-finance.html">Full table &mdash; 29 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/STP/all-finance.html">Full table &mdash; 31 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/STP/STP-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -38,7 +38,7 @@ place: STP
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/STP/budgets.html">Full table &mdash; 24 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/STP/budgets.html">Full table &mdash; 24 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/STP/STP-budgets.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -50,11 +50,12 @@ place: STP
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">22</td><td class="num zero"></td><td class="num">5</td><td class="num total">27</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num total">3</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">2</td><td class="num">22</td><td class="num">0</td><td class="num">8</td><td class="num total">32</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/STP/finance.html">Full table &mdash; 5 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/STP/finance.html">Full table &mdash; 7 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/STP/STP-nonstate.csv" download>&darr; Download CSV</a>
 </div>

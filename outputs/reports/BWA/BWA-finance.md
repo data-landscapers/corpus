@@ -1,6 +1,6 @@
 ---
 title: Botswana: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: BWA
 ---
 
@@ -27,7 +27,7 @@ place: BWA
 <tfoot><tr><th scope="row">All topics</th><td class="num">3</td><td class="num">1</td><td class="num">5</td><td class="num">147</td><td class="num">126</td><td class="num">170</td><td class="num total">452</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/BWA/all-finance.html">Full table &mdash; 160 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/BWA/all-finance.html">Full table &mdash; 161 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BWA/BWA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -53,7 +53,7 @@ place: BWA
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/BWA/budgets.html">Full table &mdash; 157 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/BWA/budgets.html">Full table &mdash; 157 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BWA/BWA-budgets.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -65,11 +65,12 @@ place: BWA
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num total">5</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">3</td><td class="num">1</td><td class="num">5</td><td class="num total">9</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/BWA/finance.html">Full table &mdash; 3 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/BWA/finance.html">Full table &mdash; 4 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BWA/BWA-nonstate.csv" download>&darr; Download CSV</a>
 </div>

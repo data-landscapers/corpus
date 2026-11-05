@@ -1,6 +1,6 @@
 ---
 title: Comoros: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: COM
 ---
 
@@ -39,7 +39,7 @@ place: COM
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/COM/budgets.html">Full table &mdash; 37 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/COM/budgets.html">Full table &mdash; 37 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/COM/COM-budgets.csv" download>&darr; Download CSV</a>
 </div>
 

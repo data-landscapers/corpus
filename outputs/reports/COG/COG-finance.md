@@ -1,6 +1,6 @@
 ---
 title: Congo: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: COG
 ---
 
@@ -35,7 +35,7 @@ place: COG
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/COG/budgets.html">Full table &mdash; 10 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/COG/budgets.html">Full table &mdash; 10 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/COG/COG-budgets.csv" download>&darr; Download CSV</a>
 </div>
 
