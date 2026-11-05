@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "connected",
+   "value": "institutional",
+   "fact": "The ministry says 1,567 government sites, MDAs and local governments together, were connected to the National Backbone Infrastructure; the split for local governments is not given (Zawedde, via Business Focus).",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "National Backbone Infrastructure",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": "No count of local governments connected; plan to connect them in 2025."
+}

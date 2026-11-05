@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-06-cod-kinshasa-la-dgrk-lance-la-plateforme-irms-dgrk-com-pour-la-declaration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "irms-dgrk.com",
+   "country_label": "DR Congo",
+   "class": "web",
+   "platform": "web platform",
+   "owner": "Direction générale des recettes de Kinshasa",
+   "tiers": ""
+  }
+ ],
+ "note": "Taxpayer filing platform; no office connection stated."
+}
