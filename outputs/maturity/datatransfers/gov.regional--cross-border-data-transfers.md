@@ -4,7 +4,7 @@
 
 ## The norm
 
-The African Union's Convention on Cyber Security and Personal Data Protection (the Malabo Convention), article 14, bars sending personal data to a country outside the Union unless that country protects it adequately. The Union's Data Policy Framework, of 2022, and the digital trade protocol of the African Continental Free Trade Area, of 2024, ask states to let data move across borders under stated safeguards. This study asks whether the rule protects personal data sent abroad while letting it go: no rule, a rule keeping data at home and a rule that makes every transfer wait on permission all fall short, and recognising African partners is the top of the ladder.
+The African Union's Convention on Cyber Security and Personal Data Protection (the Malabo Convention), article 14, bars sending personal data to a country outside the Union unless that country protects it adequately. The Union's Data Policy Framework, of 2022, and the digital trade protocol of the African Continental Free Trade Area, of 2024, ask states to let data move across borders under stated safeguards.
 
 ## The ladder
 

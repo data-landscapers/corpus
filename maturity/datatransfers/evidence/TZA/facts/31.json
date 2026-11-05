@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-03-tza-tanzania-strengthens-personal-data-protection-to-support-investment-climate",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Respondent says the Personal Data Protection Commission had issued 121 permits for the transfer of personal data outside Tanzania by October 2026.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Personal Data Protection Commission transfer permits",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "Openness without permission each time, and any published route, not stated."
+}
