@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: BEN
-ledger_rows: 21
+ledger_rows: 22
 not_held: 4
-record: d6be3028af4c
+record: b12f3d7487ba
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: d6be3028af4c
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -312,6 +314,14 @@ Benin's interior ministry began issuing about 8,500 free birth certificates to p
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation des services d’identification au Bénin : l’ANIP accélère sa révolution numérique](https://lematinal.bj/modernisation-des-services-didentification-au-benin-lanip-accelere-sa-revolution-numerique/)** — Le Matinal, 3 November 2026
+
+98% enrolled; 10.5m services in 2025, 75% remote; late-birth registration pilot from 2 Nov 2026; 30,000 refugees.
+
+</div>
+
 </div>
 
 ### Other GovTech and e-Gov
@@ -403,6 +413,28 @@ Benin's Ministry of Justice and Legislation is the first ministry to apply the g
 **[Bénin : comment fonctionne le portail numérique des services publics ?](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)** — Nasuba, 2 November 2026
 
 Nasuba described Benin's national services portal, service-public.bj, as it stood on 2 November 2026. Its home page showed 1,208 listed services, 131 of them online, and over 2.5 million requests. Services are grouped by life event, theme and administration. Online ones include criminal-record extracts, tax certificates and first vehicle registration. The portal shows a new business mode and an AI assistant, Yèmi; a mobile app is to follow.
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identity documentation of refugees and asylum-seekers</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Modernisation des services d’identification au Bénin : l’ANIP accélère sa révolution numérique](https://lematinal.bj/modernisation-des-services-didentification-au-benin-lanip-accelere-sa-revolution-numerique/)** — Le Matinal, 3 November 2026
+
+Summarised under [Registries](#registries).
 
 </div>
 
