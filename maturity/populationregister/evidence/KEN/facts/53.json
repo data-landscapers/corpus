@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Identity Week says Kenya's birth e-service transfers data directly to the population registry.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "population registry",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "Identity Week says births registered through the e-service, over 270,000 by September 2026, pass directly to the population registry.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "population registry",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "population registry",
+   "country_label": "Kenya",
+   "class": "population",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
