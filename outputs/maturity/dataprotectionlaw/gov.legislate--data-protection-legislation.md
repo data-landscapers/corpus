@@ -539,12 +539,13 @@ Namibia has no data protection law; a cabinet committee approved the bill in 202
 
 ### Sierra Leone: 2 Nascent
 
-Sierra Leone has no data protection law, only a bill Cabinet approved in April 2026; no source found says whether it has reached Parliament.
+Sierra Leone has no data protection law; a bill Cabinet approved in April 2026 was due before Parliament in November 2026.
 
 *Advancing.*
 
 - Cabinet approved a National Data Protection Policy, approved the repeal of the Right to Access Information Commission Act and authorised enactment of a new Data Protection and Right to Access Information Act, with the Ministry of Information and Civic Education and the Attorney-General's office to finalise and table the Bill in Parliament; announced by the Information Minister on 21 April 2026 ([source, 2026-04-21](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/)).
 - The Information Minister announced that the Data Protection and Right to Access Information Bill, 2025 had concluded its final national validation, with submission to Cabinet and then Parliament still to come; the week of the validation is taken from the article's publication on 9 November 2025 ([source, 2025-11](https://sierraloaded.sl/news/government-data-protection-information-bill)).
+- CHRDI, via SierraLoaded, says the Data Protection and Right of Access to Information Bill, 2026, developed with a ministry technical steering committee, was preparing to go before Parliament on 5 November 2026 ([source, 2026-11-04](https://sierraloaded.sl/local/data-protection-bill-parliament-chrdi-advocacy/)).
 
 ### South Sudan: 2 Nascent
 

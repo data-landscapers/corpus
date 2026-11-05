@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-03-tza-tanzania-strengthens-personal-data-protection-to-support-investment-climate",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Respondent says the Personal Data Protection Commission was established on 1 May 2023 under the Personal Data Protection Act of 2022 and is led by Director General Emmanuel Lameck Mkilia.",
+   "as_of": "2023-05-01",
+   "date_precision": "day",
+   "system": "Personal Data Protection Commission",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Respondent says that by October 2026 more than 15,000 institutions had registered with the Commission and over 445 complaints had been received and handled, and that mandatory compliance inspections began on 28 August 2026.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Personal Data Protection Act, Chapter 44",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

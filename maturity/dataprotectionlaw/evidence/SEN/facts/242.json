@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-04-sen-sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-pa",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Law no. 2008-12 on personal data protection is cited by SenePlus as classing health information as sensitive data, with no regime specific to the health sector.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "Loi n° 2008-12",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-04-nga-nin-fraud-arrests-data-scandal-renew-security-concerns",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Nigeria Data Protection Commission, led by Dr Vincent Olatunji, was acting in March 2024 when it ordered an investigation into alleged unauthorised access to NIN information (The Sun).",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "NDPC",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The NDPC commenced an investigation in March 2024 into alleged unauthorised processing and monetisation of NIN data via XpressVerify.com, with no decision stated (The Sun).",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "NDPC",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "The article names no data protection law and gives no decision."
+}

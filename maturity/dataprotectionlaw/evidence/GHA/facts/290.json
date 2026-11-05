@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-02-gha-nia-to-begin-enforcement-of-biometric-verification-regulations-on-nov-3-ghana-ne",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NIA says it will monitor institutions' compliance with the Data Protection Act, 2012 (Act 843), and remove those mishandling personal information from the platform (Ghana News Agency).",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Commission certifies institutions before they may access the National Identity Register (Ghana News Agency, quoting NIA).",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
