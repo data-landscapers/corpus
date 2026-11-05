@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-tcd-connectivite-au-tchad-entre-vulnerabilite-et-ambitions-de-transformati",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Digital Business Africa, citing Reuters, reports Chad officially authorised Starlink to operate in November 2024, with first tests reaching up to 150 Mbps.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Chad",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

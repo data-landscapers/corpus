@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-13-bwa-how-bofinet-plans-to-transform-botswana-into-southern-africa-s-interne",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "BoFiNet's Acting CEO says Starlink is sold to customers in Botswana, with saturation in Gaborone and a pause in selling terminals when it reached capacity.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Botswana",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
