@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-gha-nia-to-begin-enforcement-of-biometric-verification-regulations-on-nov-3-ghana-ne",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The NIA runs a verification platform onto which institutions are onboarded to verify identity against the National Identity Register by approved biometric methods, with L.I. 2523 enforced from 2026-11-03 (NIA, via Ghana News Agency).",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "NIA verification platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIA says public and private institutions are already connected to its verification platform, and others are yet to be onboarded (Ghana News Agency).",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "NIA verification platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA verification platform",
+   "country_label": "Ghana",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

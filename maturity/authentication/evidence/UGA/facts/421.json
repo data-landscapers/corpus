@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of ICT says the roll-out of the Digital Authentication and E-signatures platform (UGPass) is ongoing and continues to enable end-to-end delivery of e-government services (Permanent Secretary Aminah Zawedde, via Business Focus).",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "UGPass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UGPass",
+   "country_label": "Uganda",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of ICT and National Guidance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

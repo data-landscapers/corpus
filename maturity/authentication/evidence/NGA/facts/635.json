@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-04-nga-nin-fraud-arrests-data-scandal-renew-security-concerns",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIMC encourages Nigerians to use its NINAuth app for identity authentication and consent-based sharing of personal information, with QR codes and share codes for verification (The Sun).",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "NINAuth",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The NIMC Act 2026, signed 2026-06-26, establishes NIMC as Root Certification Authority for Nigeria's National Public Key Infrastructure, expected to support digital identity authentication and trusted electronic transactions (The Sun, citing NIMC).",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "National Public Key Infrastructure",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINAuth",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "app",
+   "owner": "NIMC",
+   "tiers": ""
+  },
+  {
+   "system": "National Public Key Infrastructure",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC (Root Certification Authority)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
