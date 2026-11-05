@@ -36,7 +36,8 @@ financing") are blanked before matching, since every loan title carries them.
 
 **Status: in use, still changing** *(Bill, 2026-11-01)*. Bill reviewed the first draft and
 expects to revise it for weeks as he works with the data, so the assignments are not stored
-anywhere: `finance.py` calls `tags()` when it builds `/finance/all/`, and a change to a lookup
+anywhere: `finance.py` calls `tags()` when it builds `/finance/all/` and `/finance/budgets/`, and
+`country.py` when it builds each country's budget download; a change to a lookup
 shows on the next render. Run this script after any lookup edit to see what moved.
 
 Exit 1 when a lookup is inconsistent: a rule naming an unknown id, a pattern that does not

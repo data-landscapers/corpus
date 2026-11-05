@@ -1,3 +1,7 @@
+## 5 November 2026
+
+- Every country's budget table and download now carries sub-topic and sector, as the all-Africa budgets table does. A country's budget lines can now be filtered and cut by either.
+
 ## 4 November 2026
 
 - Electoral register now counts equipment received for a biometric roll as a digital roll under way, even where the current roll is on paper. Madagascar rises from stage 1 to 2.

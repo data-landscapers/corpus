@@ -111,6 +111,24 @@ BUDGETS_DATED = False
 BUDGET_TABLE_OMIT = ("doc_locator", "notes")
 BUDGET_NUMERIC = ("report_year", "budget_usd", "proposed", "appropriated", "revised",
                   "released", "actual", "audited", "exec_vs_voted", "exec_vs_revised")
+# **Sub-topic and sector on every budget download** *(Bill, 2026-11-05)*: a country's file as
+# the all-Africa one carries them, derived at render by `finance-subtopics.py` and placed straight
+# after `primary_topic`. Their definitions come from the all-finance dictionary, as `finance.py`'s.
+FACETS = ("subtopic", "sector")
+ALL_META = CORPUS / "lookups" / "all-finance-metadata.csv"
+_TAGGER = None
+
+
+def budget_tags(rows: list[dict]) -> dict:
+    """`finance-subtopics.tags()` for budget lines: {deal_id: (sub-topic, sector)}."""
+    global _TAGGER
+    if _TAGGER is None:
+        import importlib.util
+        spec = importlib.util.spec_from_file_location(
+            "finance_subtopics", Path(__file__).resolve().parent / "finance-subtopics.py")
+        _TAGGER = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(_TAGGER)
+    return {k[1]: v for k, v in _TAGGER.tags(rows, []).items()}
 
 # ISO3 -> full country name, from lookups/countries.csv (see module docstring
 # and osint-corpus-exchange/notes-for-osint.md #9). Two entries carry proper accents the source CSV
@@ -270,7 +288,11 @@ def budgets(iso: str) -> tuple[list[str], list[dict]]:
         return [], []
     with open(f, encoding="utf-8-sig", newline="") as fh:
         rdr = csv.DictReader(fh)
-        return list(rdr.fieldnames or []), list(rdr)
+        header, rows = list(rdr.fieldnames or []), list(rdr)
+    tag = budget_tags(rows)
+    rows = [{**r, **dict(zip(FACETS, tag[r["deal_id"]]))} for r in rows]
+    i = header.index("primary_topic") + 1
+    return header[:i] + list(FACETS) + [c for c in header[i:] if c not in FACETS], rows
 
 
 def budget_counted(r: dict) -> bool:
@@ -281,11 +303,16 @@ def budget_counted(r: dict) -> bool:
             and r.get("supplementary_basis") != "unclear" and bool(r.get("budget_usd")))
 
 
-def publish_budget_csv(iso: str, out_dir: Path) -> dict[str, str]:
+def publish_budget_csv(iso: str, out_dir: Path, header: list[str],
+                       rows: list[dict]) -> dict[str, str]:
     """Publish the country's budget lines beside its page: `{ISO3}-budgets.csv`, undated until
     `BUDGETS_DATED`, a dated edition after. LF on the way out and `page=` for the comparison,
-    both for the reasons `publish_finance_csvs` gives."""
-    body = (BUDGETS / f"budgets-{iso}.csv").read_bytes().replace(b"\r\n", b"\n")
+    both for the reasons `publish_finance_csvs` gives; a BOM, as the source file has."""
+    buf = io.StringIO(newline="")
+    w = csv.DictWriter(buf, fieldnames=header, lineterminator="\n", extrasaction="ignore")
+    w.writeheader()
+    w.writerows(rows)
+    body = ("﻿" + buf.getvalue()).encode("utf-8")
     stem = f"{iso}-budgets"
     if BUDGETS_DATED:
         path, _ = editions.publish(body, out_dir, stem, ".csv", page=out_dir / "budgets.html")
@@ -621,7 +648,7 @@ BUDGETS_PAGE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{csv_src}"
       data-cols="{cols}"
-      data-filters="report_year, primary_topic, scope_confidence"
+      data-filters="report_year, primary_topic, subtopic, sector, scope_confidence"
       data-numeric="{numeric}"
       data-thousands="budget_usd"
       data-labels="{labels}"
@@ -665,9 +692,15 @@ BUDGETS_PAGE = """<!DOCTYPE html>
 
 
 def budget_dictionary() -> list[dict]:
-    """`budgets/budgets-metadata.csv`: the column tooltips and `variableMeasured`."""
+    """`budgets/budgets-metadata.csv`: the column tooltips and `variableMeasured`, with the
+    two facets' entries from the all-finance dictionary after `primary_topic`."""
     with open(BUDGETS_META, encoding="utf-8-sig", newline="") as fh:
-        return list(csv.DictReader(fh))
+        meta = [m for m in csv.DictReader(fh) if m["column"] not in FACETS]
+    with open(ALL_META, encoding="utf-8-sig", newline="") as fh:
+        extra = [{k: m.get(k, "") for k in meta[0]} for m in csv.DictReader(fh)
+                 if m["column"] in FACETS]
+    i = [m["column"] for m in meta].index("primary_topic") + 1
+    return meta[:i] + extra + meta[i:]
 
 
 def budgets_dataset(code: str, name: str, rows: list[dict], meta: list[dict],
@@ -951,7 +984,7 @@ def build(iso: str) -> list[Path]:
 
     bud_cols, bud = budgets(iso)
     if bud:
-        bud_pub = publish_budget_csv(iso, out_dir)     # before the pages, which link it by name
+        bud_pub = publish_budget_csv(iso, out_dir, bud_cols, bud)  # before the pages, which link it
 
     retire_page(out_dir, iso)
 
@@ -987,7 +1020,9 @@ def build(iso: str) -> list[Path]:
             jsonld=budgets_dataset(iso, name, bud, meta, bud_pub),
             # The file's own order puts the reader's columns first (`budget_source.COLUMNS`);
             # `country` is the one this page has no use for as a column.
-            cols=", ".join([c for c in shown if c != "country"][:BUDGET_TABLE_COLS]),
+            # The facets ride after `primary_topic` on top of the nine, as on `/finance/budgets/`.
+            cols=", ".join(c for c in shown if c in FACETS or c in
+                           [p for p in shown if p not in ("country",) + FACETS][:BUDGET_TABLE_COLS]),
             detail=", ".join(shown),
             numeric=", ".join(c for c in bud_cols if c in BUDGET_NUMERIC),
             labels=attr_json({"country": {iso: name}}),
