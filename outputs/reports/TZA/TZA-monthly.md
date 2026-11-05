@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: TZA
-ledger_rows: 36
+ledger_rows: 39
 not_held: 5
-record: 15967cf546ce
+record: f33ff461a44a
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: 15967cf546ce
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -57,6 +59,28 @@ Law firm FB Attorneys notes that Tanzania's Business Licensing (Amendment) Regul
 </div>
 
 ### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Permits to transfer personal data abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[As Tanzania goes digital, who protects your privacy?](https://dailynews.co.tz/as-tanzania-goes-digital-who-protects-your-privacy/)** — Daily News (Tanzania), 2 October 2026
+
+A Daily News feature sets out how personal data is collected across Tanzania's identity, health and financial services as the country implements its Dira 2050 development vision. It describes the role of the Personal Data Protection Commission in protecting that information.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania strengthens personal data protection to support investment climate](https://www.therespondents.co.tz/2026/11/tanzania-strengthens-personal-data.html)** — The Respondent, 3 November 2026
+
+PDPC by Oct 2026: 15,000+ institutions registered, 445+ complaints, 121 permits to move data abroad.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -106,6 +130,8 @@ Tanzania's Parliamentary Standing Committee on Infrastructure invited public vie
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
 <a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
 </nav>
 
 ### MoUs and other agreements
@@ -119,6 +145,22 @@ Tanzania's Parliamentary Standing Committee on Infrastructure invited public vie
 **[Tanzania expresses interest in using Angola’s ANGOSAT-2 satellite services](https://techreviewafrica.com/news/8072/tanzania-expresses-interest-in-using-angolas-angosat-2-satellite-services)** — Tech Review Africa, 31 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
 
 Angola and Tanzania signed a memorandum of understanding on telecommunications and ICT in Dar es Salaam during Angolan President João Lourenço's state visit (reported October 2026). Tanzania seeks access to ANGOSAT-2 satellite services and to Angolan Earth-observation and geospatial applications for mining, agriculture and logistics. No value was published.
+
+</div>
+
+</div>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Concessional loan for an AI and digital technology training institute</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania secures 441/-bn Korean loan for advanced ICT and AI University](https://businessinsider.co.tz/tanzania-secures-441-bn-korean-loan-for-advanced-ict-and-ai-university/)** — Business Insider Tanzania, 4 November 2026
+
+Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of US$167.4 million (TSh441.12 billion) on 3 November 2026, from Korea's Economic Development Cooperation Fund. It finances a technology institute in Dodoma offering advanced training, including in AI. Korea Eximbank said it was the first EDCF project approved in 2026 and the first with support for AI.
 
 </div>
 
@@ -579,6 +621,28 @@ Summarised under [Data Storage](#data-storage).
 **[Tanzania plans $50m venture capital fund for startups](https://ippmedia.co.tz/the-guardian/news/local-news/read/tanzania-plans-50m-venture-capital-fund-for-startups-2026-10-26-115005)** — The Guardian (Tanzania), 26 October 2026
 
 The Tanzania Startup Association proposed a $50 million venture capital fund at Tanzania Startup Week 2026 in Dar es Salaam. It wants 15 per cent from government and the rest from private institutional investors. The fund would back 18 local and regional funds and seek $180 million in co-investment.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal service fund and Tanzania Institute of Education memorandum on digital content</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania accelerates digital transformation](https://dailynews.co.tz/tanzania-accelerates-digital-transformation/)** — Daily News Tanzania, 4 November 2026
+
+Tanzania's Universal Communications Service Access Fund (UCSAF) and the Tanzania Institute of Education signed a memorandum of understanding in October 2026. It covers investment in digital educational content and training for teachers. Daily News gives no signing day, terms or sum.
 
 </div>
 
