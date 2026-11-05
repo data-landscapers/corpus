@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-11-04
+compiled: 2026-11-05
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 232
+sources_cited: 234
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -206,7 +206,7 @@ The financial back office is deployed but shallow. [The financial management sys
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
-Public procurement went fully electronic before the government's own service portal did: [e-procurement became mandatory for all public entities under a March 2026 directive, ending paper-based public procurement](https://malawi24.com/2026/04/01/ppda-rolls-out-mandatory-e-procurement-system/), building on [earlier World Bank fiscal governance work and extended into a nationwide transparency and value-for-money system](https://malawi24.com/2026/04/01/ppda-rolls-out-mandatory-e-procurement-system/). The citizen-facing portal is a generation behind it: [Malawi's national public service portal is informational only, publishing information about services rather than allowing most of them to be transacted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The procurement marketplace [is integrated with the financial management system, though its integration with a cross-government data exchange is still under development](https://www.ppda.mw/newsdetail/19).
+[A March 2026 directive made e-procurement mandatory for all public entities from April 2026](https://malawi24.com/2026/04/01/ppda-rolls-out-mandatory-e-procurement-system/), building on [earlier World Bank fiscal governance work and extended into a nationwide transparency and value-for-money system](https://malawi24.com/2026/04/01/ppda-rolls-out-mandatory-e-procurement-system/). [On 30 October 2026 the procurement authority set 31 December 2026 as the deadline to move onto the system, with no government funding from January 2027 for procurement outside it](https://mwnation.com/ppda-warns-public-institutions-over-maneps-compliance/). [By October 2026, 7,704 suppliers had registered, 9% of them small and medium enterprises](https://times.mw/ppda-tough-on-registration/). The citizen-facing portal is a generation behind it: [Malawi's national public service portal is informational only, publishing information about services rather than allowing most of them to be transacted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The procurement marketplace [is integrated with the financial management system, though its integration with a cross-government data exchange is still under development](https://www.ppda.mw/newsdetail/19).
 
 The single portal is being filled in service by service. The Department of E-Government [is onboarding 25 e-services across ministries, departments and agencies, adding immigration alongside the revenue authority and the National Registration Bureau](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km) (July 2026), [putting immigration transactions on the same locally hosted national stack as the rest](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km). Malawi [scored 0.3753 on the UN E-Government Development Index in 2024](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/102-Malawi).
 

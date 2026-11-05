@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: MWI
 ledger_rows: 22
 not_held: 30
-record: 0485c52922f1
+record: f01793f00ad9
 ---
 
 # News, Oct – Nov 2026
@@ -321,6 +321,22 @@ PATH reported in October 2026 on a Gates Foundation convening on electronic medi
 **[WORLD BANK COMMENDS MANePS PROGRESS](https://www.ppda.mw/newsdetail/89)** — Public Procurement and Disposal of Assets Authority (Malawi), 7 October 2026
 
 A World Bank team reviewed progress on Malawi's electronic procurement system MANePS with the procurement authority PPDA in early October 2026 and urged more training so that all public bodies use it by December 2026. As of 5 October the system had 7,417 registered suppliers, 216 of 250 targeted annual procurement plans published and 562 tenders. MANePS is World Bank-funded.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PPDA warns public institutions over MANePS compliance](https://mwnation.com/ppda-warns-public-institutions-over-maneps-compliance/)** — Nation Online, 2 November 2026
+
+No government funding for procurement outside MANePS from 1 January 2027; regional support hubs planned.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PPDA tough on registration](https://times.mw/ppda-tough-on-registration/)** — The Times Group, 3 November 2026
+
+Vendors not on MANePS by 31 December barred; 7,704 suppliers registered by October 2026, 9% SMEs.
 
 </div>
 
