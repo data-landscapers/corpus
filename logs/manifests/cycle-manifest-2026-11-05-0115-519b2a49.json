@@ -1,0 +1,230 @@
+{
+ "schema": 3,
+ "written_utc": "2026-11-05 01:15",
+ "pass": "sweep cycle",
+ "head": "519b2a492c93e1a9fc08312ce8cccf2dbdcc605d",
+ "head_committed_utc": "2026-11-05 01:15",
+ "collection": {
+  "last_admission": "2026-11-04 22:44",
+  "sweep_closed": "2026-11-04 21:25",
+  "ingest_started": "2026-11-04 21:28"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-11-04 21:01",
+   "end": "2026-11-05 01:03",
+   "duration": "4:02",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 508,
+  "admitted": 315,
+  "dropped": 189,
+  "screened": 6053,
+  "screen_dropped": 5843,
+  "pages_over_line": 355,
+  "awaiting_ingest": 0,
+  "raw_sources": 36866
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-11-04 21:00",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "sweep": {
+   "time_utc": "2026-11-04 21:25",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "ingest": {
+   "time_utc": "2026-11-04 23:00",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "lint": {
+   "time_utc": "2026-11-05 01:02",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "close": {
+   "time_utc": "2026-11-05 01:04",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "rules": {
+   "time_utc": "2026-11-05 01:13",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "end": {
+   "time_utc": "2026-11-05 01:13",
+   "seven_day": null,
+   "five_hour": null
+  }
+ },
+ "drops": {
+  "night": "2026-11-04",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 12,
+    "ingest_drop_rate": 0.0
+   },
+   "country-deep": {
+    "sweep": {
+     "off-topic": 60,
+     "already-seen": 35,
+     "no-development": 20,
+     "already-held": 6,
+     "date-unestablished": 6,
+     "out-of-window": 5,
+     "inadmissible-origin": 4,
+     "syndicated-copy": 4,
+     "fails-record-test": 2,
+     "off-place": 1,
+     "url-dead": 1
+    },
+    "ingest": {
+     "already-held": 33,
+     "no-value": 17,
+     "no-development": 6,
+     "off-topic": 4,
+     "inadmissible-origin": 2,
+     "headline-only-stub": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 68,
+    "ingest_drop_rate": 0.485
+   },
+   "daily": {
+    "sweep": {
+     "already-seen": 71,
+     "off-place": 33,
+     "no-development": 21,
+     "off-topic": 16,
+     "already-held": 1
+    },
+    "ingest": {
+     "no-value": 4,
+     "already-held": 3,
+     "no-development": 2,
+     "off-place": 1
+    },
+    "admitted": 8,
+    "ingest_drop_rate": 0.556
+   },
+   "financiers": {
+    "sweep": {
+     "off-topic": 16,
+     "already-seen": 13,
+     "out-of-window": 7,
+     "no-development": 5,
+     "already-held": 4,
+     "not-this-slice": 3,
+     "date-unestablished": 1,
+     "fetch-blocked": 1,
+     "inadmissible-origin": 1,
+     "off-place": 1,
+     "url-dead": 1
+    },
+    "ingest": {
+     "off-topic": 6,
+     "already-held": 4,
+     "no-value": 4,
+     "no-development": 3,
+     "inadmissible-origin": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 7,
+    "ingest_drop_rate": 0.731
+   },
+   "iati": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 1
+    },
+    "admitted": 11,
+    "ingest_drop_rate": 0.083
+   },
+   "maturity-study-exchangepoints": {
+    "sweep": {},
+    "ingest": {
+     "no-value": 19,
+     "already-held": 4,
+     "no-development": 3,
+     "inadmissible-origin": 1
+    },
+    "admitted": 53,
+    "ingest_drop_rate": 0.338
+   },
+   "maturity-study-feedbackportals": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 15,
+     "no-value": 11,
+     "off-topic": 8,
+     "inadmissible-origin": 3,
+     "no-development": 2
+    },
+    "admitted": 49,
+    "ingest_drop_rate": 0.443
+   },
+   "maturity-study-fibrebackbone": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 18,
+     "no-value": 9,
+     "no-development": 3,
+     "inadmissible-origin": 1,
+     "off-topic": 1
+    },
+    "admitted": 94,
+    "ingest_drop_rate": 0.254
+   },
+   "off-list": {
+    "sweep": {
+     "off-place": 12,
+     "no-development": 5,
+     "off-topic": 4,
+     "date-unestablished": 2,
+     "fetch-blocked": 1,
+     "headline-only-stub": 1,
+     "out-of-window": 1,
+     "syndicated-copy": 1
+    },
+    "ingest": {
+     "already-held": 2
+    },
+    "admitted": 2,
+    "ingest_drop_rate": 0.5
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 6,
+    "ingest_drop_rate": 0.0
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 2557,
+  "housekeeping_registered": 0,
+  "words_trimmed": 0,
+  "pages_rewritten": 0,
+  "since": "2026-11-05 01:13"
+ }
+}
