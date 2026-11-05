@@ -1,859 +1,4 @@
 {
-  "2026-09-03-7joursinfo-eccas-cross-border-data-governance-workshop": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Experts from the Economic Community of Central African States (ECCAS) met in Douala, Cameroon, from 31 August to 4 September 2026 to review member states' readiness and agree the pillars of a regional framework on cross-border data governance. GIZ, AUDA-NEPAD, the UN Economic Commission for Africa and the African Union Commission supported the workshop technically and financially."
-  },
-  "2026-09-03-abc-bank-papss-go-live": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Kenya's ABC Bank went live on the Pan-African Payment and Settlement System on 3 September 2026, letting customers pay recipients at more than 190 banks in 28 countries. Payments can be sent in Kenyan shillings for receipt in local currency, or in US dollars between USD accounts. PAPSS was developed by Afreximbank with the AfCFTA Secretariat and links 16 payment switches."
-  },
-  "2026-09-03-afdb-koafec-ai-digital-infrastructure": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The Korea-Africa Economic Cooperation partnership will put artificial intelligence and digital infrastructure at the centre of its eighth ministerial conference in Seoul, where a new action plan is to be unveiled on its twentieth anniversary."
-  },
-  "2026-09-03-africacdc-biim-workshop-ommydalla": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Africa CDC held a continental workshop in Mombasa to harmonise a common framework for behavioural intelligence and infodemic management in public health. Delegates from Kenya, Ghana, Zimbabwe, Burundi and Mauritania attended, and Africa CDC's senior regional representative urged countries to use available technology for health surveillance and communication. No cost or timetable for the framework is given."
-  },
-  "2026-09-03-ago-infosi-disponibiliza-site-para-candidaturas-a-estagios": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Angola's information society institute, INFOSI, launched an online platform for applications to its internship programme on 3 September 2026 at the FITITEL forum in Luanda. Applicants no longer submit in person and receive a tracking code and QR code. Placements cover telecommunications, information technology and cybersecurity, under a partnership with the communications development fund FADCOM."
-  },
-  "2026-09-03-algerie-portail-services-numeriques-eau": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Algeria's High Commission for Digitalisation added three water-sector services to the national government digital services portal, announced on 3 September 2026 with the water ministry. Citizens can apply for drinking-water and sanitation connections and track them online, and firms can file and track requests for professional qualification certificates."
-  },
-  "2026-09-03-almadar-aljadid-mobile-internet-packages-tariff": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "A Libyan operator's live retail tariff card runs from 0.5 dinars for 50MB over one day to 80 dinars for 80GB over thirty. Libya publishes no regulated price basket, so operator cards are the only evidence of what data costs there."
-  },
-  "2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The national data archive catalogue of Senegal's statistics agency, ANSD, publishes view counts for each dataset: 4,808,203 for the 2013 census, 19,910 for the 2023 census and 24,422 for the 2024–2025 annual agricultural survey. Each dataset is marked either as licensed files or as microdata not available."
-  },
-  "2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Senegal's National Civil Registration Agency, ANEC, states its mandate on its website, including producing an annual statistical yearbook of civil-status data and passing those data to the statistics services. It is also charged with running a centralised national and consular civil-status database, linking it to other databases, and digitising and indexing the registers. The page carries no reliable publication date."
-  },
-  "2026-09-03-atdi-portal-do-cidadao-mocambique": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Mozambique's digital transformation agency ATDI presented its Citizen Portal at the Maputo International Fair on 3 September 2026, a single site for checking requirements, submitting and tracking requests and receiving documents. ATDI listed supporting projects including interoperability, digital identity, the GovNET state network, a state e-payments system and the CloudGov government cloud. No launch date or cost is given."
-  },
-  "2026-09-03-bct-systemes-de-paiement": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Tunisia's central bank describes the country's payment systems on its website: SIBTEL clearing for transfers, direct debits, cheques and bills of exchange with 24-hour settlement; the SMT card system and its secure online payment service; and the SGMT real-time gross settlement system. The SGMT, in service since November 2006, handles about 722 payments a day worth 3.255 billion dinars. The page carries no publication date."
-  },
-  "2026-09-03-bdi-2027-presidential-election-more-than-one-million-new-voters": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Burundi's electoral commission CENI expects more than one million new voters on the register for the 2027 presidential election, its president Prosper Ntahorwamiye said on 28 August 2026. Partial registration is planned for October 2026 in more than 4,000 centres, aimed at those under 18 in 2025 and returnees. Exact dates have not been set."
-  },
-  "2026-09-03-ben-lanation-apdp-gouvernance-donnees": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The president of Benin's personal data protection authority (APDP), Luciano Hounkponou, set out four measures for trusted cross-border data flows at a regulators' forum held with MTN Group's fintech summit in Johannesburg on 1–3 September 2026: stronger legal frameworks, secure and interoperable systems, shared governance and user education. He also called for closer cooperation between data protection and financial supervisors."
-  },
-  "2026-09-03-bfa-burkina-faso-lancement-dune-plateforme-pour-le-recensement-d": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Burkina Faso's seized-asset agency ANAGRASC launched passif-immobilier.anagrasc.gov.bf on 3 September 2026, built with the ICT agency ANPTIC. Buyers of plots or buildings from three seized property companies, SOCOGIB SA, AZIMO SA and SATMO, can register claims remotely and upload identity and title documents."
-  },
-  "2026-09-03-bfa-burkina24-bricir-video-verbalisation": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Burkina Faso's security minister, Mahamadou Sana, launched a motorised police brigade, the BRICIR, in Ouagadougou on 2 September 2026. It is to identify and intercept drivers recorded by the city's video-ticketing cameras who evade their fines, a system in service since 1 August, and to enforce rules on red lights, speeding and helmets."
-  },
-  "2026-09-03-bfa-incidents-dans-les-resultats-de-certains-concours-de-la-sess": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Burkina Faso's civil service ministry said on 3 September 2026 that some exam scripts from the Koudougou centre were left out of automated marking in two 2026 recruitment competitions whose results were published on 25 August. Secretary general Rodrigue Oboulbiga called it human error; after re-marking, 35 and 39 candidates were added to the two lists, and disciplinary measures were announced."
-  },
-  "2026-09-03-bfa-sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisat": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Burkina Faso's directorate for the modernisation of civil registration trained registry officers and transcribing agents in Pouni commune on the VENEEM civil-registration platform from 31 August to 2 September 2026. The session covered smartphone set-up and real-time entry of births, marriages and deaths, and was funded by the regional local governance project PREGOLS under the 2026 budget."
-  },
-  "2026-09-03-bom-bomstats-platform-launch-mauritius": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Bank of Mauritius launched BOMStats, its statistical data platform, on 3 September 2026, with Prime Minister Navinchandra Ramgoolam presiding. The platform offers self-service analytics, an API and SDMX-format data sharing, and the bank says it is the first African central bank to use Open Data Platform 2.0. It was built with support from the African Development Bank and the IMF's Statistics Department."
-  },
-  "2026-09-03-businessday-equinix-data-centres-sa-investment": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Equinix said its South African build-out runs to about 160MW of added capacity under a R7.5bn investment programme, including two proposed Cape Town facilities approved for land-use changes in July 2026. The South African Human Rights Commission called for submissions in May on data centres' resource use, and Eskom expects a 2-3GW generation surplus. No date is given for the R7.5bn programme."
-  },
-  "2026-09-03-cardinalstone-nomba-record": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "CardinalStone Finance extended the facility as a commercial loan, recorded as closed."
-  },
-  "2026-09-03-cdpi-aa4dpi-accelerator-session-linkedin": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Centre for Digital Public Infrastructure led a session at the Africa Accelerator for Digital Public Infrastructure, hosted by UNDP and the Centre for Open Societal Systems on 2 and 3 September 2026. Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia covered DPI blueprints, verifiable credentials, consented data sharing and reusable open-source code."
-  },
-  "2026-09-03-civ-administration-numerique-la-cote-divoire-vise-700-services-p": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Côte d'Ivoire's digital transition minister, Djibril Ouattara, said on 3 September 2026 that the government aims for 700 coordinated digital public services by 2029. A two-day workshop in Abidjan with the state IT company SNDI was to select a first portfolio of about 100 priority services, built on a single digital identity, an interoperability platform and a World Bank-supported inventory of existing infrastructure."
-  },
-  "2026-09-03-civ-transformation-numerique-la-cote-divoire-priorise-les-servic": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Côte d'Ivoire's digital transition ministry and the state IT company SNDI held a national workshop on 3 and 4 September 2026 in Abidjan to choose which public services to digitise first. Expected outputs include a first catalogue of about 100 services built on the national interoperability platform, which SNDI's director general said is already exchanging data between administrations."
-  },
-  "2026-09-03-cod-7sur7-tva-e-finance-huawei": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The DRC's finance minister, Doudou Fwamba, said on 3 September 2026 that monthly VAT receipts rose from an average of FC280bn to above FC320bn after VAT e-filing and standardised invoices were introduced. A data warehouse linking the three revenue agencies holds data from two of them, and he put funding for the Huawei-backed E-Finance programme at over US$150m."
-  },
-  "2026-09-03-cod-algerian-company-inatel-signs-strategic-agreement-for-new-ki": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Algeria's state electronics firm INATEL, in a consortium with PGS Africa and DABYAN, signed a memorandum with the committee overseeing the Kinshasa city expansion project in the DR Congo to deploy payment systems, digital equipment and a technology centre covering cybersecurity and applied AI. The signing date is given only as recent, and no value or timetable is disclosed."
-  },
-  "2026-09-03-cod-annee-scolaire-2026-2027-une-reprise-effective-des-cours-sur": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Democratic Republic of the Congo's education ministry reported that classes resumed on 1 September 2026 in all 60 educational provinces. In 18 sub-divisions classed as high risk for Ebola, the education and health ministries are providing distance learning through worksheets and radio or television broadcasts, designed so families need no internet access or digital equipment."
-  },
-  "2026-09-03-cod-kinshasa-kia-mona-plans-digital-equipment-assembly-facility": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The DR Congo office coordinating the Kinshasa Kia Mona city expansion signed a memorandum on 30 August 2026 with the PGS Africa-INATEL-DABYAN consortium for a plant at Maluku to assemble payment terminals, ATMs and computers. An innovation centre and vocational training are included. The memorandum states no investment figure, production capacity or construction timetable."
-  },
-  "2026-09-03-comores-bcc-rapport-2025-komor-switch-paiements": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Central Bank of the Comoros published its 2025 annual report on 28 August 2026. The banking balance sheet rose to KMF 262.3 billion and the non-performing loan ratio fell from 14% to 9%, partly through one-off clean-up, the bank says. It records the deployment of KomorPay clearing and the Komor Switch interbank platform under a 2025–2030 inclusion strategy targeting 75% financial inclusion by 2030."
-  },
-  "2026-09-03-daba-coronation-nigeria-capital-market": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The digital investment platform Daba partnered with Coronation Securities and Coronation Asset Management to give eligible users access to Nigerian capital market products, signed in Lagos."
-  },
-  "2026-09-03-damongo-university-china-grant-vaultznews": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Ghana's education minister Haruna Iddrisu disclosed a US$30 million grant from China's government for a University of Science and Technology at Damongo focused on artificial intelligence and emerging technologies. He made the disclosure during a visit by the new Chinese ambassador, Cong Song. No commitment date or construction timetable is given."
-  },
-  "2026-09-03-dematerialisation-sans-connectivite-pas-de-deconcentration-d": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The director of Senegal Services, Isidore Diouf, said in Matam on 3 September 2026 that public services cannot be decentralised without connectivity, after touring the agency's service centres in Matam, Louga, Saint-Louis and Dagana. He listed connectivity, equipment, archiving and communications security among the problems found and said civil registration will be added to the national online services platform."
-  },
-  "2026-09-03-dgi-autres-demandes-immatriculation-identifiant-fiscal": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Morocco's tax directorate publishes two online routes to obtaining a tax identifier, which is registration as a service rather than a counter visit. The Fund attributes a 2025 tax take of 24.6 per cent of national output to the full digitalisation of collection."
-  },
-  "2026-09-03-dgid-e-dgid-plateformes-teleprocedures": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Senegal's tax and lands directorate lists five separate online services on its website: ETAX for filing and paying taxes, Mon Espace Perso for individuals and firms with turnover under 100 million FCFA, SEN-ETAFI for financial statements, PCF, and a taxpayer e-services form. Each runs on its own subdomain; the page is undated."
-  },
-  "2026-09-03-digwatch-zimbabwe-ict-skills-teachers-visual-impairments": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Zimbabwe's telecoms regulator, POTRAZ, held a five-day ICT skills workshop in Chiredzi for 37 teachers with visual impairments, their assistants and aides from all ten provinces. The Internet Society Zimbabwe Chapter ran the training, which covered assistive technologies and accessible digital platforms."
-  },
-  "2026-09-03-directinfo-tunisia-school-enrollment-digital": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Tunisia's education ministry said about 1.691 million pupils, 81% of those eligible, had enrolled online for the 2026-2027 school year by 3 September 2026. Of these, 1.587 million had paid their enrolment fees, and enrolment continued ahead of the start of school on 15 September."
-  },
-  "2026-09-03-djibouti-ecosysteme-ia-acteurs-forum": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Djibouti's daily La Nation profiled participants at the country's first national forum on artificial intelligence. They include HOOM, a Djiboutian learning app used by more than 4,500 final-year secondary pupils (about 57% of the cohort), the chatbot Bouho AI, which works in Somali, Afar and Arabic, the EU-funded École 42 Djibouti, and Djibouti Telecom, which sponsored the forum."
-  },
-  "2026-09-03-djibouti-sonna-somali-ai-inclusion-forum": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Djibouti's Minister Delegate for the Digital Economy, Safiyo Mohamed Ali, told the country's first national forum on artificial intelligence, opened by President Ismail Omar Guelleh, that Somali, Afar and Arabic must be represented in AI systems or their speakers will be excluded. Finance Minister Ilyas Moussa Dawaleh said 12 submarine cables land in Djibouti, with three more in progress."
-  },
-  "2026-09-03-dza-importations-suspectes-en-algerie-l-ia-demasque-des-documents-identiqu": {
-    "published": "2026-09-03",
-    "written": "2026-10-22",
-    "summary": "Algeria's foreign trade ministry said an AI-assisted cross-checking system on its import platform found 1,013 operators had filed identical documents in their provisional import programmes, most often the same CNAS staff declaration, CASNOS affiliation certificate or tax extract. The operators are summoned to produce originals before any prosecution; the ministry says a flag is a lead for investigation, not a finding of fraud."
-  },
-  "2026-09-03-eac-education-conference-data-led-decisionmaking-adea": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The second East African Community Regional Education Conference, held in Nairobi in August 2026, focused on measurable learning outcomes, according to the Association for the Development of Education in Africa. Somalia's education ministry described a public teacher attendance system that now feeds foundational learning data, with plans to extend it to national assessments."
-  },
-  "2026-09-03-eac-regional-statistics-user-survey": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The East African Community Secretariat opened an online user satisfaction survey on EAC regional statistics on 3 September 2026, under the Eastern Africa Regional Statistics Program for Results. It asks statistics offices, central banks, businesses, researchers, media and others about the quality, timeliness and accessibility of the data. No closing date is given."
-  },
-  "2026-09-03-ec-international-partnerships-gambia-country-page": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The European Commission programmes EUR 193m of grants for The Gambia over 2021-2027, with digitalisation named only as one clause under jobs and growth. The digital share is not stated, against delivered items that are smaller and specific."
-  },
-  "2026-09-03-ecowas-sigtel-regional-fiber-infrastructure": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "ECOWAS's regional infrastructure inventory lists 14 internet exchange points and 15 data centres across West Africa, and 35 submarine cable landing points with a combined design capacity of 305.17 Tbps. Mali has one exchange point, Mali IX in Bamako, no cable landing, and its government data-centre status is recorded as unconfirmed. The page is undated."
-  },
-  "2026-09-03-eeas-delegation-ue-senegal-global-gateway": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The EU delegation in Senegal sets out its Global Gateway strategy there, under which Team Europe (the EU, France and Germany) supports digital services and narrowing the urban-rural digital divide. The EU says it helped Senegal draft its data and artificial intelligence strategies and will support their priority actions. The page is undated and names no digital memorandum or amounts specific to Senegal."
-  },
-  "2026-09-03-egypt-efinance-rashid-soe-protocol": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Egypt's State-Owned Enterprises Unit, under the Cabinet, signed a protocol with e-Finance to host Rashid, the database of state-owned and state-part-owned companies, and run its AI applications. e-Finance will supply accredited secure infrastructure. The unit's mandate to catalogue state companies comes from Law No. 170 of 2025."
-  },
-  "2026-09-03-egypt-frontiers-ai-healthcare-governance-readiness": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "A peer-reviewed study in Frontiers in Digital Health, published on 3 September 2026, assesses whether Egypt's public health institutions are ready for AI-enabled digital transformation. The authors surveyed 387 health administrators and policymakers across 24 governorates and interviewed 18 senior officials and experts; their readiness model explains 68 per cent of the variance in transformation success."
-  },
-  "2026-09-03-egypt-sis-heka-data-hyperscale-hub": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Egypt's communications minister, Raafat Hindi, met a delegation from the data-centre developer Heka Data and a US alliance of data-centre developers on 3 September 2026 to discuss an integrated zone for hyperscale data centres and artificial intelligence in Egypt. Talks covered the project's concept, scale and phases. No investment figure, site or timetable was stated."
-  },
-  "2026-09-03-egypte-madbouly-mounassa-kahraba-fawatir": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Egypt's prime minister Mostafa Madbouly told Youm7 on 3 September 2026 that faults on the unified electricity platform and mismatches between prepaid-meter top-ups and readings are a government priority. He said he would hold an expanded meeting with the electricity minister the following week and that the state's remedial steps would be announced publicly."
-  },
-  "2026-09-03-equatorial-guinea-inege-statistical-services-tour": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Equatorial Guinea's statistics institute, INEGE, began a tour of ministries' statistical services on 2 September 2026, starting with the interior and education ministries, to assess their capacity and needs. Both were found short of working materials. The tour runs to 9 September under resolutions of the National Statistics Council's session of 27 August 2026."
-  },
-  "2026-09-03-eswatini-dco-digital-transformation-cooperation": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Digital Cooperation Organization's secretary-general, Deemah AlYahya, met Eswatini's ICT minister Savannah Maziya to discuss cooperation on digital transformation through knowledge exchange and capacity building. The report cites about 1.76 million mobile connections for a population of 1.3 million and 4G coverage of nearly 95 per cent. No agreement was announced."
-  },
-  "2026-09-03-eswatini-undp-create-msme-digital-tools-symposium": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "About 150 delegates attended a symposium in Manzini, Eswatini, on 2 September 2026 on how small businesses can use technology to cut costs, held under CREATE, a four-year EU-funded government programme. The programme is run by the Ministry of Natural Resources and Energy with the UN Development Programme and Catalyze Eswatini."
-  },
-  "2026-09-03-ethio-telecom-next-horizon-year-ii-business-plan": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Ethio telecom published the Year II business plan of its Next Horizon 2028 strategy on 3 September 2026, targeting ETB 295 billion in revenue for 2026/27, ETB 77.45 billion of it from digital businesses. It plans 96.2 million customers, 67.69 million telebirr users, 4G on 11,014 sites, 5G in 73 towns and 268 AI servers."
-  },
-  "2026-09-03-ethiopia-ethio-telecom-next-horizon-first-year": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Ethio Telecom's chief executive, Frehiwot Tamiru, said on 3 September 2026 that the first year of its three-year Next Horizon strategy left about 90 million customers and close to 61 million telebirr users. Second-year targets include 96.2 million customers and 4G population coverage of 95%, up from 82.23%."
-  },
-  "2026-09-03-ethiopia-ethio-telecom-siinqee-bank-smartphone-financing": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Ethio Telecom secured a 15 billion birr financing agreement with Siinqee Bank, with 4 billion birr earmarked to help low-income customers buy smartphones. The state operator puts smartphone penetration at about 36% and aims to distribute 2.6 million devices in the next fiscal year. The article does not say when the agreement was signed."
-  },
-  "2026-09-03-fdsut-programme-acces-numerique-universel-panu": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Senegal's universal telecoms service fund (FDSUT) runs the Universal Digital Access Programme (PANU), which aims by 2028 to cover 1,550 localities with at least 4G, equip 200 public bodies with digital tools, develop five digital services or applications and train 500 people in digital trades. The page's progress counters show zero against each target."
-  },
-  "2026-09-03-fg-gives-mdas-november-deadline-to-remove-export-barriers": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Nigeria's trade minister Jumoke Oduwole gave ministries, departments and agencies until the end of November 2026 to complete phase two of the National Single Window trade platform. Since going live on 27 March, the platform has processed more than 124,614 licences and permits, registered 11,096 importers and agents, and handled about N12.59 billion in regulatory payments."
-  },
-  "2026-09-03-finance-go-ug-musasizi-egp-fiscal-discipline": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Uganda's finance minister, Henry Musasizi, told the 31st annual seminar of the Institute of Certified Public Accountants of Uganda in Entebbe that accountants must support fiscal discipline and evidence-based decisions. He said the government is implementing reforms including electronic government procurement to improve budget outcomes."
-  },
-  "2026-09-03-freightnews-zambia-digital-strategy-smart-edge": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "A Freight News feature on Zambia's National Digital Strategy 2023–27 quotes the World Bank's Paul Ndungutse on ZamPortal services such as road fitness certificates, immigration and land services. Citing an April 2026 Presidential Delivery Unit statement, it reports 95% mobile population coverage and internet subscriptions rising from 10.4 million in 2021 to 14.7 million in 2025."
-  },
-  "2026-09-03-gabon-itu-council-candidacy-digitalisation-strategy": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Gabon's digital economy minister, Mark-Alexandre Doumba, presented the country's candidacy for the International Telecommunication Union Council at the WTPF-26 forum in Nassau, Bahamas. The election takes place at the ITU Plenipotentiary Conference in Doha in November 2026. The bid cites national work on fibre interconnection and two Tier III data centres, the government's Carrier Hôtel and the Nkok facility."
-  },
-  "2026-09-03-gambia-iec-revising-courts-voter-register-askani": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Revising courts set up by The Gambia's Chief Justice began hearing objections to the 2026 supplementary voter registration, the Independent Electoral Commission said on 31 August 2026. Hearings in nine magistrates' courts are due to finish within 60 days. The Commission received about 1,600 objections and earlier deleted 14,334 duplicate registrations ahead of the 5 December presidential election."
-  },
-  "2026-09-03-gambia-moherst-sti-policy-validation": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Gambia's Ministry of Higher Education, Research, Science and Technology held a validation workshop on the draft National Science, Technology and Innovation Policy 2027–2035 and the STI Bill 2026. Minister Pierre Gomez said none of the previous policy's 12 core objectives was fully met; the new one proposes an STI secretariat and a National Research and Innovation Fund."
-  },
-  "2026-09-03-gga-tech-for-inclusive-governance-platform": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Good Governance Africa's West Africa office launched a Tech for Inclusive Governance platform at Sogakope, in Ghana's South Tongu District, on 3 September 2026. Citizens use it to report service-delivery problems to their local assembly, which refers cases to the relevant department while the citizen follows progress until resolution."
-  },
-  "2026-09-03-ghana-mdas-betraying-transparency-pledge-rti": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Fourth Estate reported that 21 Ghanaian public institutions failed to release information in 24 Right to Information requests between January 2025 and July 2026. Those named include the Ministry of Finance, the Office of the Attorney-General, the National Communications Authority and the Ghana Highways Authority. Petitions have gone to the RTI Commission, and the Minister for Government Communications said there is no policy of concealment."
-  },
-  "2026-09-03-ghana-ppl-net-board-sworn-in-spectrum": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Ghana's Communications Minister Sam George swore in a seven-member board for state-owned PPL Net Ghana, which runs the AT Ghana brand, on 3 September 2026. Cabinet has approved spectrum in three bands and access to GIFEC's core network, but both depend on the company filing audited accounts about a year in arrears; the minister said the regulator cannot legally issue spectrum without them."
-  },
-  "2026-09-03-ghana-virtual-assets-coordinating-committee": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Ghana has set up a five-agency Virtual Assets Coordinating Committee, chaired by Bank of Ghana Governor Johnson Pandit Asiama, joining the central bank, the Securities and Exchange Commission, the Finance Ministry, the Cyber Security Authority and the Financial Intelligence Centre. Regulators aim to implement the Virtual Asset Service Providers Act, 2025 fully by 2027. Operational rules have not yet been published."
-  },
-  "2026-09-03-gmb-pura-national-numbering-plan-2026": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Gambia's Public Utilities Regulatory Authority adopted the National Numbering Plan, 2026 on 3 September 2026, effective the same day under the Information and Communications Act, 2009. It sets a nine-digit structure for numbers under country code +220 and brings short codes, emergency numbers and USSD codes under the regulator. A separate framework governs migration from seven-digit numbers."
-  },
-  "2026-09-03-gmb-pura-nnp-migration-governance-go-live-framework-2026": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Gambia's Public Utilities Regulatory Authority adopted on 3 September 2026 a framework governing the switch of phone numbers from seven to nine digits under the National Numbering Plan 2026. It sets up a migration control centre within the regulator, eight readiness checks that default to no-go, and decision stages from go to rollback, with the final decision left to the Director General."
-  },
-  "2026-09-03-guinea-bissau-covid-digital-divide-adolescents-study": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "A University of Iceland doctoral study surveyed 2,039 teenagers aged 14–19 at 12 state and four private schools in Bissau. Researcher Fatou N'dure Baboudóttir found access to computers and the internet limited, especially for girls and state-school pupils, a divide she says the COVID-19 pandemic exposed further."
-  },
-  "2026-09-03-guinea-efonij-digital-youth-insertion-platform": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Guinea's National Youth Insertion Fund (FONIJ) launched E-FONIJ, a digital platform for youth information, orientation, training and job placement, in a communiqué dated 3 September 2026. It is live at efonij.gn and on Google Play, with an iOS version to follow; FONIJ invited public bodies, companies, banks, training bodies and NGOs to join."
-  },
-  "2026-09-03-horneconomicreview-eu-afd-djibouti-ethiopia-corridor-women-traders": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Forty Ethiopian women traders and exporters attended an export-readiness workshop in Bishoftu on 30-31 July 2026 under the €32 million Djibouti Corridor programme, financed by the EU through Global Gateway, delegated to the Agence Française de Développement and run by TradeMark Africa. The programme also funds digital trade systems such as electronic phytosanitary certification."
-  },
-  "2026-09-03-imf-senegal-economic-data-coordination": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "An International Monetary Fund report on standards and codes found Senegal's macroeconomic statistics generally reliable but its statistical system running at two speeds, with sector agencies short of staff and money, Channel Africa reported on 3 September 2026. The IMF recommended a permanent inter-agency committee chaired by the national statistics agency ANSD and wider public-debt reporting; the authorities broadly accepted the recommendations."
-  },
-  "2026-09-03-isdb-ict-sector-ecowas-fibre-backbone-gambia": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The Islamic Development Bank records financing the regional fibre backbone reaching The Gambia, alongside two other lenders. No date or sum is given, so the scale of the contribution cannot be stated."
-  },
-  "2026-09-03-iso-amanorm-profil-membre-mali": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The International Organization for Standardization's member record lists Mali's standards agency AMANORM as a full member body and the country's national standards body. AMANORM coordinates standardisation, quality promotion, certification and accreditation, and is also part of ECOWAS's standards harmonisation programme (ECOSHAM), ECOWAS quality policy (ECOQUAL) and the UEMOA quality policy. The page carries no date."
-  },
-  "2026-09-03-iso-member-profile-gambia-standards-bureau": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The Gambia Standards Bureau holds Correspondent, non-voting status at the international standards and electrotechnical organisations, and is the country's technical-barriers enquiry point. A correspondent member may adopt standards; it does not help make them."
-  },
-  "2026-09-03-iswap-ai-units-nigeria": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Former insurgents describe Islamic State West Africa Province running prompt-engineering cells and encrypted satellite links paid for by central Islamic State cadres, turning consumer software to tactical use."
-  },
-  "2026-09-03-itweb-africa-east-africa-inland-digital-future": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "A fault on an undersea cable can stop card payments and mobile money hundreds of kilometres inland; business leaders and policymakers meeting in Mombasa argued that the continent's digital resilience is decided away from the coast."
-  },
-  "2026-09-03-itweb-africa-malawi-connectivity": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The World Bank-financed programme carries US$150 million across digital connectivity, the universal service fund's 100-tower rollout, an e-services portal and the national data centre in Lilongwe. Its latest phase is expected to connect more than 500 public institutions and more than 2,000 schools."
-  },
-  "2026-09-03-itweb-africa-mtn-momo-ghana": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The chief executive of MTN Mobile Money Ghana said that fewer than 0.3% of its users are actively investing and only a small proportion save regularly, against more than 26 million transactions a day, and rejected the description of Ghana as a mature market."
-  },
-  "2026-09-03-itweb-africa-tn-cybertech-ai-branches": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The Zimbabwean group TN CyberTech reported profit after tax of ZWG151 million for the six months to 30 June, about 38% up on the comparative period, on a strategy of technology partnerships and low physical infrastructure cost."
-  },
-  "2026-09-03-itweb-co-za-implats-ai-cyber-breach": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Implats recorded a limited-impact cyber security breach at a managed operation's IT environment, which does not appear on the Information Regulator's website; its audit and risk committee has made cyber a focus area for the coming financial year."
-  },
-  "2026-09-03-itweb-co-za-sita-smme-procurement": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "South Africa's state IT procurement agency spent R183 million with small, medium and micro enterprises and designated groups between 1 April and 31 July, 49% of its available procurement spend against a 45% annual target."
-  },
-  "2026-09-03-itweb-co-za-tfg-online-retail-sales": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "South African retail group TFG reported online sales in Africa up 54.1% in the 21 weeks to 22 August, taking online to 10.5% of sales from 7.1%, while overall sales grew 0.2% to R23 billion."
-  },
-  "2026-09-03-itweb-co-za-uct-ai-regulation-research": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "A University of Cape Town doctoral thesis argues that South Africa can no longer defer artificial-intelligence regulation, and proposes a constitutional approach built on bias and the rule of law."
-  },
-  "2026-09-03-ken-odpp-rapid-reference-guide-cybercrimes-act-cap-79c": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Kenya's National Computer and Cybercrimes Coordination Committee, with the Director of Public Prosecutions and the National Police Service, launched a 140-page guide to investigating and prosecuting offences under the Computer Misuse and Cybercrimes Act on 3 September 2026. It covers 29 offences with 30 sample charges and seven court application templates, and omits sections 22 and 23, which the Court of Appeal declared unconstitutional."
-  },
-  "2026-09-03-kenya-cybercrime-investigation-prosecution-guide": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Kenya launched a guide to investigating and prosecuting cybercrime under the Computer Misuse and Cybercrimes Act on 3 September 2026, listing 76 offences with sample cases. Internal Security Principal Secretary Raymond Omollo said it also covers cross-border cooperation and evidence preservation as Kenya pursues accession to the Budapest Convention. Cybercrime is put at about Sh29 billion a year."
-  },
-  "2026-09-03-kenya-lsk-ardhisasa-outage-restoration-demand": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Law Society of Kenya said in a statement of 2 September 2026 that the Ardhisasa land administration platform had been unavailable since 1 September, halting searches, transfers and registrations. It asked the State Department for Lands to explain the outage, give a restoration timeline and ensure users face no penalties. No cause or timetable had been announced."
-  },
-  "2026-09-03-kenya-national-county-health-reforms-coordination": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Kenya's health ministry and county governments reported at an intergovernmental council session on 31 August 2026 that the Social Health Authority has settled 78% of claims across the 47 counties, paying KSh 159.3 billion. The council also reviewed moving 7,789 health workers to permanent terms, with KSh 8.6 billion allocated, after problems transferring them to county payrolls."
-  },
-  "2026-09-03-lagos-nimc-afcfta-data-sovereignty-gitex": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "At the opening of GITEX Nigeria 2026 in Lagos, the heads of Nigeria's identity commission (NIMC) and the AfCFTA Secretariat, with Lagos State officials, called for Africa to build and own its digital public infrastructure. NIMC's Abisoye Coker-Odusote said the National Identity Management Act 2026 makes NIMC root certificate authority for the national public key infrastructure."
-  },
-  "2026-09-03-libya-cbl-liquidity-forex-epayment-meeting": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Central Bank of Libya governor Naji Issa met commercial banks and the payments company Moamalat in Tripoli on 3 September 2026 on cash liquidity, foreign-currency supply and the electronic payment system. The central bank put the gross value of electronic payments across all systems from 1 January to 31 August 2026 at about 764.9 billion Libyan dinars."
-  },
-  "2026-09-03-local-government-service-celltel-mou": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Ghana's Local Government Service signed a memorandum of understanding with Celltel Networks Limited to upgrade its IT infrastructure and digitise local government administration. Its head, Professor Lord Mensah, said the plan includes a technology hub for local government services and support for smart-city services such as waste management. No contract value, term or funding source was disclosed."
-  },
-  "2026-09-03-madagascar-cybercrime-bill-access-info-suspens": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Madagascar's cybercrime bill 042/2026 was due before the National Assembly for adoption. It creates a digital investigation unit, Upin, whose article 75 grants round-the-clock direct technical access to operators' and internet providers' systems, with traceability and judicial safeguards. The paper notes that the access-to-information bill 017/2025 remains adjourned in committee, its plenary debate postponed indefinitely."
-  },
-  "2026-09-03-madagascar-cybercrime-bill-upin-police-numerique": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Madagascar's cybercrime bill, due before the National Assembly on 4 September 2026, creates a Digital Protection and Investigation Unit (Upin) as a public body. Article 75 gives it permanent technical access to the systems of operators and service providers holding data needed for investigations. A companion electronic communications bill places all data processed in Madagascar under the state's exclusive jurisdiction."
-  },
-  "2026-09-03-malawi-world-bank-dmap-accountability-review": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "A World Bank mission reviewed the Digital Malawi Acceleration Project with the communications regulator MACRA. The project manager said a plan for 100 mobile towers in underserved areas has reached procurement preparation, and a consultancy is building the Data Protection Authority's framework and five-year cost model. The mission stressed the quality of MACRA statistics. No funding amounts are stated."
-  },
-  "2026-09-03-mali-aes-social-media-regulation-sovereignty": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Mali's communication and digital economy ministry met online press, data protection, cybercrime and media regulation bodies in Bamako on 2 September 2026 to discuss common social media rules across the Alliance of Sahel States. A framework developed in Burkina Faso was proposed as the model, requiring platforms to offer reporting tools, set handling deadlines, give reasons for removals and keep removed content as evidence."
-  },
-  "2026-09-03-mali-snisi-a-propos-de-ce-systeme": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Mali's telehealth agency ANTIM describes its integrated national health information system, SNISI, as a single platform replacing separate NGO-run data systems for malaria and maternal and child mortality. It holds facility and community data in one database, receives data by SMS, and maps localities and health centres. The page is undated."
-  },
-  "2026-09-03-mansat-raqib-lil-shakawi-wal-balaghat": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Libya's administrative oversight authority has a live complaints and reporting platform covering about 750 reportable state bodies. It launched at a Tripoli anti-corruption event in December 2025; no count of reports received or resolved is published."
-  },
-  "2026-09-03-mauritania-imf-public-finance-statistics-standards": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Mauritania's finance minister, Codioro Moussa N'Guénore, received an IMF technical assistance mission from AFRITAC West in Nouakchott. The mission works on compiling public finance statistics and public enterprise debt in line with the IMF's 2014 Government Finance Statistics Manual, including the collection and consolidation of state enterprises' financial data."
-  },
-  "2026-09-03-mauritius-bomstats-platform-launch": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Mauritius's prime minister, Navinchandra Ramgoolam, launched BOMStats, the Bank of Mauritius's central statistical database, in Port-Louis on 3 September 2026, the bank's 59th anniversary. It was developed with the IMF and the African Development Bank. Ramgoolam said the Statistics Act and the Bank of Mauritius Act are being reviewed after an IMF assessment of data standards."
-  },
-  "2026-09-03-morocco-dgssi-prestations-produits-reglementes": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Morocco's information security directorate publishes its register of regulated providers: audit and incident-response firms are listed, and no qualified cloud provider yet is. The gap matters for a state building government cloud capacity."
-  },
-  "2026-09-03-morocco-disability-survey-digital-access": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Morocco's third national disability survey puts disability prevalence at 8.7% of the population, up from 6.8% in 2014, according to preliminary results presented in Rabat on 3 September 2026. The survey covered 20,412 households; only 20% of disabled people reported internet access, and their employment rate was 12.7%. Officials said broader detection tools account for part of the increase."
-  },
-  "2026-09-03-mozambique-misa-data-protection-law-roundtable": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Press-freedom group MISA Mozambique said at a round table in Maputo that the forthcoming personal data protection law must not restrict freedom of expression, the press or access to information. The head of the national ICT institute INTIC, Lourino Chemane, said passing the law would only be a start, and institutions, enforcement and public awareness would need strengthening."
-  },
-  "2026-09-03-mulengeranews-uganda-nin-tin-interoperability": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Uganda's finance minister, Henry Musasizi, said on 3 September 2026 that Cabinet's decision of 31 August does not replace the tax identification number with the national identification number, but requires the two to be interoperable. He said linking them would show who of taxable age and income is missing from the tax register."
-  },
-  "2026-09-03-mus-permis-conduire-numerique": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Mauritius's ICT minister Avinash Ramtohul said on 3 September 2026 that the Road Traffic (Amendment) Bill gives the digital driving licence legal equivalence with the physical one and allows fixed penalties to be paid online or at any court. He said more than 800,000 licence holders are affected and that police will check licence data against a central database."
-  },
-  "2026-09-03-nam-explainer-wayame-instant-payments": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "WayaMe is the public name for Namibia's new instant payment system, operated by Instant Payments Namibia under the Bank of Namibia. It routes payments between participating banks and e-money wallets, which customers reach through their existing apps or USSD. The system is expected over time to carry government grants and pensions. No launch date is given."
-  },
-  "2026-09-03-nation-africa-web-attacks-up-44pc-state-isp-systems": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Communications Authority of Kenya reported a 43.7% rise in web application attacks in the quarter to June 2026, with government systems and internet service providers the main targets. Total cyber threat events fell 30% to 2.36 billion. The regulator advised organisations to disable SSL 3.0, replace end-of-life products and apply patches promptly."
-  },
-  "2026-09-03-ndpc-validation-workshop-data-privacy-framework-ecommerce": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Nigeria Data Protection Commission began validating a Data Privacy Framework for e-commerce at an Abuja workshop run with Germany's GIZ, reported on 3 September 2026. The session, for ministries and agencies, followed a Lagos session with private firms and covered profiling and penalties under the Nigeria Data Protection Act, 2023."
-  },
-  "2026-09-03-neweralive-home-affairs-certification-service-provider-namibia": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Namibia's communications regulator, CRAN, accredited the Ministry of Home Affairs, Immigration, Safety and Security as the country's first certification service provider under the Electronic Transactions Act of 2019, announced in Windhoek in the week of 3 September 2026. The four-year accreditation lets the ministry issue digital certificates and encryption keys for government services, following a key signing ceremony on 28 August."
-  },
-  "2026-09-03-newvision-siims-sugar-digital-system": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Uganda's Ministry of Trade, Industry and Cooperatives launched the Sugar Industry Information Management System with the National Sugar Stakeholders Council to register every sugarcane grower. Trade minister Sanjay Tanna said the satellite-linked system will gather data across cultivation, milling and markets. He also warned millers against unilateral deductions from the agreed cane price of UGX 125,000. The exact launch date is not given."
-  },
-  "2026-09-03-nga-bpp-moves-to-digitalise-procurement-tighten-oversight-of-government-sp": {
-    "published": "2026-09-03",
-    "written": "2026-10-24",
-    "summary": "Nigeria's Bureau of Public Procurement told the 2026 BAVCCA/BPP Procurement Performance Conference in Abuja that its reform programme centres on an electronic government procurement system and an online platform for compliance and oversight. The bureau says the system will cut manual handling and give better data on how public money is spent."
-  },
-  "2026-09-03-niger-diffa-tour-etat-civil-anei-rnp": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Niger opened a national awareness tour on civil registration, identification and the modernisation of the national identification system at Diffa on 3 September 2026. The opening workshop, chaired by the regional secretary-general, briefed institutional and community actors on reforms carried out under the World Bank-supported WURI-Niger unique identification project."
-  },
-  "2026-09-03-niger-digital-day-youth-skills-diffa": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Niger Digital Day, a digital-skills caravan touring Niger's eight regions, ran a two-day training for about sixty young people at the University of Diffa from 3 September 2026. The university's rector opened the session, which covered digital tools, jobs and opportunities, including AI-based tools."
-  },
-  "2026-09-03-niger-onc-monitoring-conclusions": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Niger's national communication observatory (ONC) presented its monitoring of coverage of the 28-29 August 2026 events in Niamey to media owners on 2 September, alongside the communications minister. It found intense information demand, an information vacuum, official and international media describing the events differently, and old images and out-of-context video circulating on social networks."
-  },
-  "2026-09-03-nigeria-kogi-cooperative-digitisation-coop-id": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Kogi State launched digital registration and mandatory revalidation for cooperative societies, ending manual registration, with transparency and accountability given as the objects."
-  },
-  "2026-09-03-nilepost-chil-group-e-ward-round-platform": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Ugandan digital health company Chil Group launched an E-Ward Round Platform on 3 September 2026 that lets urban specialists hold virtual ward rounds with rural inpatient teams. It links to Chil's free electronic medical record software and bedside devices, uses an AI model to rank urgent cases, and gives each bed a cryptographic token to hide patient identities. The company says its partner facilities have more than 260 wards."
-  },
-  "2026-09-03-nilepost-roke-telkom-paratus-starlink-uganda": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Roke Telkom and Paratus Uganda launched Starlink connectivity for businesses and organisations, aimed at locations where fibre and wireless networks are unavailable or unreliable."
-  },
-  "2026-09-03-nimc-african-digital-trust-framework-gitex-techeconomy": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Nigeria's identity commission head Abisoye Coker-Odusote called for a common African digital trust framework for identity checks, e-signatures and cross-border transactions at GITEX Nigeria 2026 in Lagos. She said the National Identity Management Act 2026 makes NIMC the root certificate authority for the national public key infrastructure, and urged states to build systems that recognise each other's credentials."
-  },
-  "2026-09-03-nimc-national-trust-authority-act-2026-gocop-roundtable": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Nigeria's National Identity Management Commission presented its new Act, signed by President Tinubu on 26 June 2026 to replace the 2007 Act, at a roundtable with online publishers in Lagos on 28 August. The Act makes the commission a foundational identity and data exchange agency; about 140 million people hold a NIN, and enrolment now takes one hour rather than seven days."
-  },
-  "2026-09-03-nomba-raises-3-million": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The Nigerian fintech Nomba raised a US$3 million debt facility to expand cross-border payments across Central Africa, giving it dollar liquidity through banking relationships in Hong Kong and Singapore."
-  },
-  "2026-09-03-pins-plateforme-interoperabilite-senegal-jokkoo": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Senegal's national interoperability platform, branded e-Jokkoo, describes itself as the backbone connecting state information systems for secure data exchange between administrations. It is built on X-Road and offers an API gateway, digital identity and data exchange services. Its counters for connected administrations, active APIs and monthly transactions show no figures."
-  },
-  "2026-09-03-promad-5-year-civic-tech-strategy": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "PROMAD Infotech Foundation, a Nigerian civic-technology non-profit, unveiled a 2026–2030 strategy on 3 September 2026 that aims to institutionalise participatory budgeting and public-project tracking in 10 to 15 states. Founder Daisi Omokungbe told the News Agency of Nigeria it builds on the foundation's FollowTheProjects and Isunawa AI platforms and plans expansion to other African countries by 2030. No funding figure is given."
-  },
-  "2026-09-03-reaol-remote-areas-solar-electrification-project": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Libya's renewable energy authority sets out its off-grid programme: 400 solar systems at 310 kW peak, serving remote population clusters and border posts. It is the largest counted state provision outside the cities the repository holds for the country."
-  },
-  "2026-09-03-reuters-drc-ebola-mobile-phone-mobility-flowminder": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The World Health Organization and the non-profit Flowminder are using anonymised Vodacom mobile-phone records to map population movement and predict where the Democratic Republic of Congo's Ebola outbreak will spread, the first such use in an Ebola response, Reuters reported on 3 September 2026. The data flagged Kisangani as at risk before cases appeared there. The outbreak has infected more than 6,250 people and killed 3,039."
-  },
-  "2026-09-03-senix-statuts-point-echange-internet-senegal": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The statutes of SENIX, Senegal's internet exchange point, constitute it as an association with its registered office at the telecommunications ministry in Dakar. Its stated purpose is to exchange local internet traffic directly, encouraging local services and reducing the cost of international bandwidth. The page is undated and names no members, traffic figures or operating site."
-  },
-  "2026-09-03-senum-teledac-dematerialisation-actes-administratifs": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Senegal's state digital company Sénégal Numérique SA describes TeleDAc, its online building-permit platform for the Dakar region, now extended to many other administrative procedures. It says more than 200,000 building-permit files were digitised after Dakar's urbanism archives were rehabilitated. The page is undated."
-  },
-  "2026-09-03-sierraseat-audit-service-sierra-leone-worldbank-afrosai-e": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Audit Service Sierra Leone trained 25 staff on SierraSeat, its audit management information system, from 3 to 5 August 2026, completing the final stage of user acceptance testing. The system is a localised version of AFROSAI-E's A-SEAT, funded by the World Bank. The service intends to declare it operational subject to testing and management approval."
-  },
-  "2026-09-03-simen-guide-green-ien-identifiant-education-nationale": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Senegal's education ministry says it has completed nationwide rollout of the education identifier (IEN), a unique alphanumeric number for every teacher and pupil, issued at enrolment through the GREEN module of its SIMEN information system. Head teachers enrol staff and pupils. The guide is undated and describes Excel import and export rather than links to other systems."
-  },
-  "2026-09-03-splm-lafon-county-coverage-call": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "South Sudan's SPLM called on the National Communication Authority and mobile operators to extend coverage across Lafon County and other rural areas. A community delegation from Eastern Equatoria said news of an attack on 26 August took up to four days to reach state authorities because messengers had to walk to find a signal."
-  },
-  "2026-09-03-sudan-baladna-investor-service-g2g-data-exchange": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Sudan's Ministry of Digital Transformation and Communications and the National Investment Authority launched a service on the Baladna platform, reported on 3 September 2026, through which licensed investors submit lists of goods and equipment to be imported. The service exchanges data electronically with industry, transport and agriculture bodies, and passes approved items to the Customs Authority."
-  },
-  "2026-09-03-sudan-bankak-outage-pound-7000": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Bankak, Sudan's main mobile payment app run by the Bank of Khartoum, failed with other digital banking platforms on 2 September 2026 as the pound reached 7,000 to the US dollar on the parallel market. The bank apologised and said its teams were restoring service. Bakeries, petrol stations and other businesses turned away customers who could not pay electronically."
-  },
-  "2026-09-03-syc-africacdc-hie-interoperability-framework-consultants": {
-    "published": "2026-09-03",
-    "written": "2026-10-17",
-    "summary": "Africa CDC is recruiting individual consultants to draft national interoperability frameworks for health information exchange in Tunisia and Seychelles, funded by a World Bank grant. Each assignment runs for up to six months."
-  },
-  "2026-09-03-syc-travizory-commission-of-inquiry-opens": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "A presidential Commission of Inquiry into the border management agreement between Seychelles and Travizory Border Security SA opened at the Palais de Justice on Mahé on 2 September 2026. The immigration department uses Travizory's system for digital border control, including visitors' electronic travel authorisation. The commission's terms of reference are not given."
-  },
-  "2026-09-03-techafricanews-badili-refurbished-phones-proparco": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "An entry-level smartphone cost 26% of monthly income per head in sub-Saharan Africa in 2024 on GSMA's estimate, and 64% for the poorest 40%. The industry answer has been cheaper new devices; the piece argues the refurbished market is moving faster."
-  },
-  "2026-09-03-techafricanews-camtel-anipes-cameroon": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The state operator CAMTEL signed a framework agreement on 2 September with the association of Cameroon's private higher education institutions, to improve their connectivity and support their modernisation."
-  },
-  "2026-09-03-techafricanews-escwa-morocco-digital-governance-mou": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The UN Economic and Social Commission for Western Asia and Morocco's minister for digital transition signed a memorandum in Rabat framing regional cooperation on modernising public administration and digital governance reform."
-  },
-  "2026-09-03-techafricanews-gabon-itu-council-candidacy": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Gabon announced its candidacy for the Council of the International Telecommunication Union at the World Telecommunication and ICT Policy Forum in Nassau."
-  },
-  "2026-09-03-techafricanews-kenya-italy-konza": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Kenya's ICT principal secretary and Italy's ambassador discussed turning existing partnerships into infrastructure, skills and economic opportunity at Konza Technopolis."
-  },
-  "2026-09-03-techafricanews-malawi-36th-rural-tower": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The government switched on the 36th tower under the Last Mile Rural Connectivity Project, at Kalira Village in Traditional Authority Kalumbu."
-  },
-  "2026-09-03-techafricanews-mtn-ghana-university-hackathon": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "MTN Ghana signed a memorandum with the University of Ghana and launched a hackathon for students and emerging innovators."
-  },
-  "2026-09-03-techafricanews-mtn-zambia-alola-5g": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "MTN Zambia added the Alola Max 2 and Alola 5G to its low-cost handset range, priced from K1,150; the range has sold more than 200,000 units since November 2024."
-  },
-  "2026-09-03-techafricanews-smart-africa-public-private": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Smart Africa called for stronger public-private collaboration at the opening panel of the Global Digital Collaboration conference in Geneva."
-  },
-  "2026-09-03-telecom-egypt-sharm-el-sheikh-taba-subsea-cable": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Telecom Egypt signed an agreement to build a multiple-petabit subsea cable between Sharm El Sheikh and Taba, which it frames as extending the country's eastern digital corridor."
-  },
-  "2026-09-03-telecomreviewafrica-billing-infrastructure-revenue-drain": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Legacy billing platforms are described as a commercial constraint on African operators, leaking revenue and limiting the pricing models available for 5G, machine-to-machine services and network interfaces."
-  },
-  "2026-09-03-telecomreviewafrica-mmwave-monetization": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Millimetre-wave spectrum has been a long-term bet rather than a revenue source for most African operators; the question is shifting from acquiring high-band spectrum to earning from it."
-  },
-  "2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Low-Earth-orbit constellations are moving from a last-resort backup layer into operators' core network planning, particularly where terrestrial infrastructure has not reached."
-  },
-  "2026-09-03-telecomreviewafrica-private-5g-contenders": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Private 5G is being deployed in African mining corridors, factories and logistics hubs for automation and predictive maintenance, with telcos, hyperscalers and neutral hosts competing to supply it."
-  },
-  "2026-09-03-telecomreviewafrica-telecom-cybersecurity-ai": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Attackers are turning artificial intelligence on telecom networks that now carry financial transactions, government services and industrial systems, eroding what had been a defensive advantage for operators."
-  },
-  "2026-09-03-telecomreviewafrica-wholesale-broadband-open-access": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "A trade analysis argues that African broadband is now shaped less by how much fibre is laid than by wholesale economics: who may sell capacity, who benefits from infrastructure, and at what price."
-  },
-  "2026-09-03-tgo-ancy-cybersecurity-talent-pool": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Togo's National Cybersecurity Agency (ANCy) issued a call for expressions of interest, dated 27 August 2026 and published on 2 September, to build a national pool of cybersecurity professionals it can call on. Applications close on 30 October 2026. The pool covers fields from incident response and digital forensics to data protection, in support of the 2024–2028 National Cybersecurity Strategy."
-  },
-  "2026-09-03-tgo-service-public-portal-new-version": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Togo's public services portal moved to a new version at new.service-public.gouv.tg, the government's official site announced on 3 September 2026. Existing logins remain valid and users keep access to earlier requests without resubmitting them. The government says more than 400,000 requests were processed on the portal in 2024."
-  },
-  "2026-09-03-tgo-undp-ai-infrastructure-governance-consultant-notice": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The UN Development Programme in Togo sought an international consultant to write a regional policy note on the governance of artificial intelligence infrastructure, with bids closing on 14 September 2026. The assignment runs from September 2026 to January 2027. No budget is given."
-  },
-  "2026-09-03-the-star-acbf-leaps-public-sector-leadership-gates": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The African Capacity Building Foundation argued that sound policies and public financial management reforms are failing at implementation because of leadership gaps, institutional fragmentation and resistance to change."
-  },
-  "2026-09-03-tun-circulaire-5-securisation-systemes-numeriques": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Tunisia's head of government Sarra Zaafrani Zenzri issued circular no. 5 on 2 September 2026, setting security rules for public bodies' digital systems based on a technical note by the cybersecurity agency ANSI. It requires approved hosting, HTTPS on all pages, multi-factor authentication, an ANSI-accredited audit before launch and yearly after, DDoS protection and .tn domains."
-  },
-  "2026-09-03-tunisie-ati-a-propos-tunixp": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Tunisian Internet Agency (ATI) describes itself as Tunisia's incumbent internet operator since 1996, now an access provider and national host. Its own page says it runs the national internet exchange point (TUNIXP), the .tn and .تونس domain registry and national IP addressing. The page carries no date."
-  },
-  "2026-09-03-tunisie-essaha-aziza-digitalisation-sisspl": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Essaha Aziza programme, run by Tunisia's health ministry with the European Union, documents its work to digitise primary-care facilities: a diagnosis of the existing information system, governance recommendations, a national electronic medical record, and deployment on pilot sites in Nabeul. Training of field teams and developers was carried out by the firm Elligy. No dates or costs are given."
-  },
-  "2026-09-03-tunisie-finances-octroi-identifiant-fiscal": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Tunisia's Ministry of Finance sets out how a tax identifier is granted: the applicant files a declaration of existence at the competent tax-control office, which may inspect the premises before its head issues the identifier immediately. The page lists the documents required and cites Article 56 of the income and corporate tax code and Decree 2008-201 of 29 January 2008."
-  },
-  "2026-09-03-tunisie-orange-ecoles-numeriques": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Orange Foundation in Tunisia says its Digital Schools programme, run with the Ministry of Education since 2014, has equipped 185 public primary schools with offline digital-education kits. Each kit includes two Raspberry Pi servers, 25 tablets, a laptop and a projector, giving pupils educational content without an internet connection. The page carries no date."
-  },
-  "2026-09-03-tunisie-otc-immatriculation-fonciere-obligatoire": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Tunisia's Office of Topography and Cadastre describes the compulsory land registration procedure under a 1964 decree-law. The land court opens and rules on cases, the office surveys boundaries and draws plans, and the National Land Property Office enters each property in the land register with a title number. The page carries no date."
-  },
-  "2026-09-03-uga-police-ai-chatbot-announced": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Uganda Police Force said it will introduce an AI chatbot giving the public guidance on emergencies and police services, demonstrated at its ICT facility at Kikandwa in Wakiso District. Officers said it will be rolled out across the country and will not replace the 999 emergency line. No launch date is given."
-  },
-  "2026-09-03-uncdf-fido-phase-two-msme-digital-finance": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The UN Capital Development Fund began a second phase of work with Ghana's FIDO Microcredits on 3 September, providing a US$200,000 grant expected to catalyse US$1 million in loans and savings for small businesses led by women and young people. A US$30,000 first phase engaged 470 businesses in three regions. The project is expected to end in July."
-  },
-  "2026-09-03-unhcr-senegal-demande-asile-procedure-cne": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The UN refugee agency's Senegal office describes how to claim asylum: applications go to the National Eligibility Commission (CNE) in Dakar with a form, a signed request and four photographs. Applicants receive a renewable six-month receipt allowing free movement while the claim is decided, followed by two interviews. Refusals can be appealed. The page is undated."
-  },
-  "2026-09-03-uptime-institute-km4-data-center-litc-tripoli": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "A tier III design certification is recorded for the Libyan national telecom company's KM-4 site, the first independent assessment of a Libyan facility the repository holds. It certifies design rather than construction or operation, and no capacity figures are disclosed."
-  },
-  "2026-09-03-utg-school-of-information-technology-communications": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The University of The Gambia's technology school offers three bachelor's degrees plus six-month diplomas in artificial intelligence, cybersecurity and data science. It is the widest named domestic provision the repository holds for the country."
-  },
-  "2026-09-03-village-capital-nga-record": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Village Capital deployed US$450,000 from its US$4 million Africa Ecosystem Catalysts Facility into two Nigerian companies, the small-business lending platform Trade Lenda and the agricultural-waste firm AirSmat. The per-company split is not stated."
-  },
-  "2026-09-03-village-capital-nigeria-investments": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The facility's first Nigerian investments follow two Ghanaian ones earlier in the year, taking its portfolio further across the region."
-  },
-  "2026-09-03-wearetech-askya-fund-ai-startups": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Askya Investment Partners opened a free support programme for African artificial-intelligence startups, offering strategic advice and up to US$200,000 of investment without taking equity."
-  },
-  "2026-09-03-wearetech-drc-ai-education-digital-divide": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The Democratic Republic of the Congo intends to give internet access, digital resources and artificial intelligence more room in the 2026-27 school year, against access constraints that start at connecting pupils at all."
-  },
-  "2026-09-03-wearetech-techstars-bunge-findhomes": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "FindHomes, founded in South Africa in 2024 by Adrian Bunge, applies artificial intelligence to property search and market data for buyers."
-  },
-  "2026-09-03-wearetech-techstars-faul-akili-ai": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "Akili AI, co-founded in South Africa in 2025 by Charles Faul, builds artificial-intelligence tools for consultation data and hospital workflow."
-  },
-  "2026-09-03-world-bank-id4d-2-8b-excluded-digital-id": {
-    "published": "2026-09-03",
-    "written": "2026-09-04",
-    "summary": "The World Bank's ID4D Global Dataset 2025 estimates that 2.8 billion people remain outside government-recognised digital identity systems, and finds new gender gaps opening in digital identity even as the gap in standard legal identity has closed."
-  },
-  "2026-09-03-zabs-rsb-technical-cooperation-agreement": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Zambia Bureau of Standards and the Rwanda Standards Board signed a technical cooperation agreement at the 32nd African Organisation for Standardisation General Assembly in Mombasa. It covers information exchange, joint technical committees, mutual recognition of standards and conformity assessment results, and support in standards development."
-  },
-  "2026-09-03-zmb-lavushimanda-digital-civil-registration": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "Zambia's Department of National Registration, Passport and Citizenship said on 3 September 2026 that its Lavushimanda district office in Muchinga Province had registered more than 3,000 children under five in the previous four months. Registration runs on the Integrated National Registration Information System, deployed to 26 district offices in March 2022."
-  },
-  "2026-09-03-zwe-zinara-ftep-whatsapp-balance-check": {
-    "published": "2026-09-03",
-    "written": "2026-10-16",
-    "summary": "The Zimbabwe National Roads Administration lets holders of its Frequent Traveller Express Pass, a prepaid toll facility, check their remaining trips on WhatsApp by sending 'Zinara' and the vehicle registration number to +263 771 288 940. The pass is for drivers using toll plazas at least 15 times a month, who buy bundles of 15 to 25 trips."
-  },
   "2026-09-04-africa-cdc-biim-framework-validation": {
     "published": "2026-09-04",
     "written": "2026-09-05",
@@ -21148,5 +20293,195 @@
     "published": "2026-11-03",
     "written": "2026-11-03",
     "summary": "In The Citizen, Johan van Graan argued that SIM cards registered in bulk to false identities hamper police work on ransom kidnappings. Justice Minister Mmamoloko Kubayi promised tougher RICA enforcement from 1 July 2026; by 9 October no results had been reported, he wrote. He cites 27 SIM-crime investigations since 2020, with one arrest."
+  },
+  "2026-11-04-afr-smart-africa-and-e-crime-bureau-partner-to-strengthen-cybersecurity-across-afric": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Smart Africa and e-Crime Bureau signed a three-year memorandum of understanding on cybersecurity, reported on 4 November 2026. It covers workforce skills, governance, risk management, harmonised law and policy, and the securing of critical cybersecurity infrastructure. No signing date or funding is stated."
+  },
+  "2026-11-04-ago-agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Angola's tax administration AGT aims to bring two million taxpayers onto electronic invoicing in 2027. More than 80,000 already issue e-invoices. On 4 November 2026 AGT met taxpayers and specialists in Luanda to assess the system before its second phase."
+  },
+  "2026-11-04-ben-code-du-num-rique-l-upmb-et-amnesty-international-b-nin-plaident-pour-": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Benin's media union UPMB and Amnesty International Bénin agreed on 3 November 2026 to seek a review of articles 550 onward of the Code du numérique. They cite the effects on journalists, bloggers and citizens. They plan training, awareness campaigns and advocacy with the authorities and legislators."
+  },
+  "2026-11-04-bfa-aes-cinq-chantiers-pour-acc-l-rer-l-int-gration-num-rique-du-burkina-f": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Experts from Burkina Faso, Mali and Niger met in Ouagadougou on 3-5 November 2026 to prepare digital cooperation accords for the Confederation of Sahel States (AES). Topics include shared infrastructure, an NGSO satellite hub, joint bandwidth purchase, regional incident response and postal services. Signing is announced for 24-27 November 2026."
+  },
+  "2026-11-04-bfa-communiqu-dgi-facturation-lectronique-certifi-e-obligatoire-pour-les-g": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Burkina Faso's tax directorate (DGI) announced that from 1 January 2027 large and medium enterprises must issue every invoice through a certified electronic invoicing system (SECeF). The rule rests on article 564-2 of the Code général des impôts. Suppliers face fines per invoice and possible closure; clients may lose their VAT deduction."
+  },
+  "2026-11-04-bwa-huawei-orange-partner-to-accelerate-digital-transformation": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Orange Botswana and Huawei Technologies Botswana signed a memorandum of understanding that extends their cooperation to intelligent networks, AI, cloud, enterprise solutions and data infrastructure. It builds on Orange Botswana's Tier III-certified data centre. No sum is stated."
+  },
+  "2026-11-04-civ-l-anp-et-l-anssi-s-accordent-sur-une-feuille-de-route-contre-la-d-sinf": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Côte d'Ivoire's press regulator ANP and cybersecurity agency ANSSI agreed on 21 October 2026 to prepare a joint roadmap against disinformation and digital threats. It covers prevention capacity and the protection of the ANP's information systems."
+  },
+  "2026-11-04-civ-mtn-c-te-d-ivoire-inaugure-un-centre-num-rique-l-universit-f-lix-houph": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "MTN Côte d'Ivoire opened its first QG Digital centre at Université Félix Houphouët-Boigny on 30 October 2026. It is the first of the digital spaces planned at 20 Ivorian universities under a FCFA 500 million programme."
+  },
+  "2026-11-04-cod-du-03-au-05-novembre-2026-l-arptc-travaille-d-arrache-pied-pour-doter-": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "DR Congo's digital economy minister opened a review of seven draft cybersecurity orders under the Code du numérique on 3 November 2026. The regulator ARPTC said a diagnostic report and a 2026-2030 digital governance framework are validated. Sixty-three minimum requirements await validation; a government SOC and national CSIRT are still being designed."
+  },
+  "2026-11-04-egy-foreign-minister-first-phase-of-unified-system-for-int-l-cooperation-c": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Egypt's foreign ministry said on 4 November 2026 that the first phase of the Unified National System for International Cooperation is complete and its official launch is being prepared. The e-government platform tracks development financing and projects from negotiation to implementation. It links ministries and beneficiary bodies with development partners."
+  },
+  "2026-11-04-egy-mts-seeks-chinese-technology-investments-ai-platform-ucloud": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "MTS chair Hesham Kandeel said the Egyptian company seeks approval for a data-centre equipment plant with Inspur. Preliminary investment is estimated at US$100 million. MTS is also building an AI platform with China's UCloud, giving access to about 1,787 AI providers."
+  },
+  "2026-11-04-eth-au-eu-senior-officials-meeting-opens-in-addis-ababa": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "African Union and European Union senior officials met in Addis Ababa on 4 November 2026 to follow up the Luanda summit of November 2025. They are to adopt an implementation plan covering digital and AI governance, among other fields; adoption is not reported. Ethiopia presented the AU position on digital and AI."
+  },
+  "2026-11-04-eth-oromia-supreme-court-partners-ethiopian-ai-institute-to-modernise-judicial-servi": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "The Oromia Supreme Court and the Ethiopian Artificial Intelligence Institute reviewed their joint projects on 4 November 2026. The Institute is building Smart Court systems for the court's operations. The two bodies set frameworks to extend the partnership."
+  },
+  "2026-11-04-fibre-cuts-and-nigerias-digital-economy": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "A TechCabal analysis argues that Nigeria's Critical National Information Infrastructure Order of June 2024 has not reduced fibre cuts. It cites over ₦2.2 billion in repair costs for 5,934 cuts in the first half of 2026. Its figure of over 44,000 cuts in nine months of 2026 has no named source."
+  },
+  "2026-11-04-gha-africa-urged-to-unite-on-digital-governance-agenda-ghana-news-agency": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "The 15th Africa Internet Governance Forum opened in Accra, reported on 4 November 2026. Vice President Naana Jane Opoku-Agyemang called for a common African digital governance agenda and cited Ghana's work on a National AI Strategy. Digital minister Samuel Nartey George listed priorities including connectivity, cybersecurity, data protection, child online safety and national language models for AI."
+  },
+  "2026-11-04-ken-e-citizen-royalty-system-fully-operational-as-mps-seeks-accountability": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Kenya's Directorate of eCitizen told the National Assembly's Sports and Culture Committee that copyright royalty collection now runs fully through eCitizen. The National Treasury remits collections twice a week to licensed collective management organisations, split 70% royalties and 30% administration. PAVRISK was named the only fully compliant organisation; the hearing date is not stated."
+  },
+  "2026-11-04-ken-ipf-and-treasury-review-kenya-s-electronic-government-procurement-e-gp-progress": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Treasury Cabinet Secretary John Mbadi told a partners' meeting with the Institute of Public Finance on 4 November 2026 that Kenya's eGP system has onboarded over 1,500 procuring entities and 45,000 suppliers. Contracts worth about KSh 18.3 billion have been processed through it. He set four priorities for the next phase of the reform."
+  },
+  "2026-11-04-lbr-senator-momo-t-cyrus-seeks-senate-assessment-of-liberia-s-cybersecurity-prepared": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "On 3 November 2026 Senator Momo T. Cyrus of Lofa County asked Liberia's Senate to summon government agencies over the country's cybersecurity preparedness. He named laws and policies, staffing, incident response and the protection of government databases and critical infrastructure. The plenary sent his communication to Senate leadership."
+  },
+  "2026-11-04-le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Mali's computer incident response centre ML-CERT launched a web platform for reporting cyber incidents and sharing threat information. The launch came at the fourth National Cybersecurity Days, held by the regulator AMRTP in Bamako on 26-30 October 2026. The national cybercrime unit recorded 1,338 cases in 2025, of which 1,130 were complaints."
+  },
+  "2026-11-04-mar-ministere-de-lia-symptome-d-une-technocratie-de-la-reforme-tribune": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "A LeBrief opinion piece answers two tribunes by Imad Rochd on Morocco's new ministry of AI, digital transformation and administrative reform. Ahmed Rahhou has headed it since 16 October 2026. The author argues the ministry is chiefly an act of political communication, and that Rochd's indicators sidestep democratic legitimacy."
+  },
+  "2026-11-04-mdg-identite-numerique-pres-de-sept-millions-de-personnes-enrolees-dans-le": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Madagascar's interior minister said on national television on 1 November 2026 that just under seven million adults have completed biometric enrolment under Izaho Tokana, the unique digital identifier project. Phase 2.0 resumed in September 2026 under the DECIM project, after PRODIGY closed in June. It begins in 16 districts and aims for 10 million enrolled by July 2027."
+  },
+  "2026-11-04-nam-cabinet-briefs": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Namibia's Cabinet announced on 3 November 2026 that it had approved a revised National Broadband Policy and delayed the e-ID card launch. The ICT ministry is to tackle gaps in access, usage, affordability and skills. The e-ID launch, set for September 2026, now awaits regulations under a 2024 Act."
+  },
+  "2026-11-04-nga-africas-fragmented-data-laws-threaten-cross-border-digital-trade-as-regulators-p": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "At the Data Protection Africa Summit in Lagos on 4 November 2026, regulators from over 15 countries discussed conflicts between national data laws. Teki Akuetteh of the Africa Digital Rights Hub announced a planned Centre of Excellence for data protection research. Nigeria's data protection commissioner Vincent Olatunji called for cooperation across sectors."
+  },
+  "2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Google.org gave Nigerian health-technology firm Helium Health a US$2.5 million grant to scale HeliumMum, its AI maternal-health tool. The aim is to digitise 150 health facilities and enrol 300,000 women. Helium Health is one of 15 recipients of Google.org's US$30 million AI for Government Innovation Impact Challenge; the award date is not stated."
+  },
+  "2026-11-04-nga-nigeria-targets-90-local-internet-traffic-regional-hub-power": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "The Internet Exchange Point of Nigeria (IXPN) marked its 20th year with a goal of 90% local traffic by 2046. Chief executive Muhammed Rudman said up to 70% of traffic is now local, against 1% in 2006. The exchange has over 130 connected networks and plans 1.6T capacity trials in 2033-2036."
+  },
+  "2026-11-04-nga-nin-fraud-arrests-data-scandal-renew-security-concerns": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment operators in Gwagwalada, Abuja, and elsewhere, and seized their equipment. The investigations covered illegal enrolment, unauthorised changes to identity records and extortion. NIMC has not said how many people were arrested or whether any records were affected; the arrest date is not stated."
+  },
+  "2026-11-04-rwa-rwanda-advances-horizon-1000-initiative-to-integrate-ai-into-primary-healthcare": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Rwanda's health minister said Horizon 1000 will add AI support to eBuzima, the digital platform frontline health workers use, with a focus on primary health facilities by 2028. The tools are to be tested for safety and effectiveness before they inform patient care. He had recently met the Gates Foundation and OpenAI about the initiative."
+  },
+  "2026-11-04-sen-sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-pa": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "A Transform Health Senegal consultation found 65.8% of respondents unaware that Senegal has no specific health data law. The non-representative sample also found 44.7% saying their consent is never sought before their medical data is shared. A draft digital health bill remains under government review, the coalition says."
+  },
+  "2026-11-04-sle-sierra-leone-establishes-working-group-to-transfer-sl-internet-domain-to-local-m": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Sierra Leone's communications ministry set up a .SL ccTLD Stakeholder Working Group, reported on 4 November 2026. It is to guide the move of the .sl registry, run abroad by a private operator since 2007, onto national infrastructure and its redelegation through IANA. The World Bank funds the work through the SLDTP."
+  },
+  "2026-11-04-sle-sierra-leone-s-data-protection-bill-reaches-parliament-after-chrdi-led-advocacy": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Sierra Leone's Data Protection and Right of Access to Information Bill, 2026 was due before Parliament on 5 November 2026. The rights group CHRDI, which sits on the bill's steering committee, gave the date."
+  },
+  "2026-11-04-switch-al-maghrib-on-future-of-payments": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Hanae Ben Driss, head of Morocco's national payment switch Switch Al-Maghrib, told TechCabal that each country needs its own switch first. She said it is in talks with the national switches of Nigeria, Ghana and Rwanda on an African association. No date is given."
+  },
+  "2026-11-04-tza-korea-edcf-tanzania-secures-441-bn-korean-loan-for-advanced-ict-and-ai-uni": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of US$167.4 million (TSh441.12 billion) on 3 November 2026, from Korea's Economic Development Cooperation Fund. It finances a technology institute in Dodoma offering advanced training, including in AI. Korea Eximbank said it was the first EDCF project approved in 2026 and the first with support for AI."
+  },
+  "2026-11-04-tza-tanzania-accelerates-digital-transformation": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Tanzania's Universal Communications Service Access Fund (UCSAF) and the Tanzania Institute of Education signed a memorandum of understanding in October 2026. It covers investment in digital educational content and training for teachers. Daily News gives no signing day, terms or sum."
+  },
+  "2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Uganda's EAC Affairs minister Rebecca Kadaga told Parliament on 3 November 2026 that the East African Payment System links only four countries' RTGS systems. These are Uganda, Kenya, Tanzania and Rwanda. She set out how an EAC cross-border payment masterplan, adopted in 2025, is to reduce use of the US dollar."
+  },
+  "2026-11-04-xaf-google-empowering-educators-and-learners-in-sub-saharan-africa": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE."
+  },
+  "2026-11-04-zambia-first-regional-validation-workshop-on-digital-inclusion": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Zambia, COMESA and the World Bank held the first regional validation workshop of the IDEA programme in Chongwe on 3-5 November 2026. Member states reviewed a draft regional digital inclusion strategy and action plan; validation is not reported. Zambia put its fibre backbone at over 42,000 km, against about 15,000 km in 2021."
+  },
+  "2026-11-04-zmb-ict-sector-key-to-grow-zambia-agenda-mutati": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Zambia's Minister of Technology and Science Felix Mutati set out five ICT pillars for the Grow Zambia Agenda at the ZDA Zambia-Germany ICT Business Forum in Lusaka. They are trusted digital identity, interoperability, intelligence, digital infrastructure and inclusivity. He said digital infrastructure is being imported duty-free."
+  },
+  "2026-11-04-zwe-government-to-scale-artificial-intelligence-for-economic-growth-and-service-deli": {
+    "published": "2026-11-04",
+    "written": "2026-11-05",
+    "summary": "Zimbabwe's ICT minister Tatenda Mavetera tasked the ministry's new AI Unit with identifying, testing and scaling AI applications. She spoke at a strategic plan review workshop in Bulawayo. The plan names inaccurate responses, bias and poor data quality as risks."
   }
 }
