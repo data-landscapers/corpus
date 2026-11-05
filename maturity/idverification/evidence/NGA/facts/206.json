@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-04-nga-nin-fraud-arrests-data-scandal-renew-security-concerns",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The NIN is linked to SIM registration and bank account verification, among other services; the NCC said more than 153 million SIM cards had been linked to NINs (The Sun).",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "NIN-SIM linkage",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The NIN is used for SIM registration (telecoms) and bank account verification (banking) as well as government programmes, per The Sun.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "NIN-SIM linkage",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The NCC disclosed more than 153 million SIM cards linked to NINs, about 96 per cent compliance at the time (The Sun).",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "NIN-SIM linkage",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN-SIM linkage",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "NCC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

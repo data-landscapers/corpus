@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-05-lso-au-hails-iec-over-election-reforms",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The IEC told the AU follow-up mission that its modernised voter registration system is integrated with the National Identity and Civil Registry through Unique Identification Numbers, with online registration and over 579,520 citizens registered.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "IEC voter registration system",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IEC voter registration system",
+   "country_label": "Lesotho",
+   "class": "relying",
+   "platform": "",
+   "owner": "Independent Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

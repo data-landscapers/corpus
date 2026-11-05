@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-gha-nia-to-begin-enforcement-of-biometric-verification-regulations-on-nov-3-ghana-ne",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Institutions connected to the NIA's verification platform check people against the National Identity Register, and L.I. 2523 requires approved biometric verification rather than visual inspection of the Ghana Card, enforced from 2026-11-03 (NIA, via Ghana News Agency).",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "NIA verification platform",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA verification platform",
+   "country_label": "Ghana",
+   "class": "relying",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "No sectors or usage figures stated."
+}

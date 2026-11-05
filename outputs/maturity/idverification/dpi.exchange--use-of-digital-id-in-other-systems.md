@@ -21,8 +21,8 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 | Stage | Countries |
 |---|---|
 | 5 Leading | 11 |
-| 4 Operating | 4 |
-| 3 Established | 18 |
+| 4 Operating | 5 |
+| 3 Established | 17 |
 | 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
@@ -110,6 +110,14 @@ Services in two or more sectors checked people against the national ID in 2023; 
 
 - The same presentation gives SIM card registration (telecoms) and bank account opening (banking) as transactions the Maisha Card is validated for through KYC ([source, 2023-11-01](https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf)).
 
+### Lesotho: 4 Operating
+
+Banks and the electoral commission's voter register relied on the national ID in 2026; no figure for verifications has been found.
+
+- The IEC told the AU follow-up mission that its modernised voter registration system is integrated with the National Identity and Civil Registry through Unique Identification Numbers, with online registration and over 579,520 citizens registered ([source, 2026-07](https://sundayexpress.co.ls/?p=36187)).
+- Minister Lephema says legal identity has let citizens open bank accounts, access credit and use mobile money ([source, 2025-09-16](https://www.thereporter.co.ls/2025/09/16/education-sector-lags-behind-in-id-integrationlephema/)).
+- Digital identity cards in Lesotho are listed among domestic eKYC frameworks that have financial services use cases (FinMark Trust, June 2026; no date for the use, published date used) ([source, 2026-06](https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc)).
+
 ### Mauritania: 4 Operating
 
 Services in two or more sectors checked people against the national ID in 2026; no source found reports volumes.
@@ -174,13 +182,6 @@ A service checked people against the national ID in 2025; no source found report
 
 - The diagnostic says the Drivers License System uses the National ID system for biometric verification of applicants to prevent identity fraud and duplication; no date is given, so the document's 2025 publication year is used ([source, 2025](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf)).
 - The World Bank ID4D diagnostic says the national ID's NIN was populated into the eCRVS to cross-verify parents' IDs when new NINs were issued after the mass enrolment ([source, 2023](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf)).
-
-### Lesotho: 3 Established
-
-A service checked people against the national ID in 2026; no source found reports use in a second sector.
-
-- Digital identity cards in Lesotho are listed among domestic eKYC frameworks that have financial services use cases (FinMark Trust, June 2026; no date for the use, published date used) ([source, 2026-06](https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc)).
-- Minister Lephema says legal identity has let citizens open bank accounts, access credit and use mobile money ([source, 2025-09-16](https://www.thereporter.co.ls/2025/09/16/education-sector-lags-behind-in-id-integrationlephema/)).
 
 ### Liberia: 3 Established
 
