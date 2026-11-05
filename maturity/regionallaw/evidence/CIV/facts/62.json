@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "WAEMU",
+   "class": "other",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": "Names a central bank payment mandate, not a named act or treaty, and no national act or cross-border application stated."
+}

@@ -22,9 +22,9 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 1 |
-| 3 Established | 23 |
+| 3 Established | 24 |
 | 2 Nascent | 9 |
-| 1 Absent | 21 |
+| 1 Absent | 20 |
 | Unplaced | 0 |
 | No evidence | 0 |
 
@@ -179,6 +179,12 @@ Sao Tome and Principe ratified the African Union's cyber security and data prote
 Senegal ratified the African Union's cyber security and data protection convention in 2016; no national law giving effect to it is known.
 
 - The African Union Commission's status list dated 2 February 2026 records Senegal as having ratified the AU Convention on Cyber Security and Personal Data Protection on 3 August 2016 and deposited the instrument on 16 August 2016, with no signature date shown; 20 of 55 states had deposited ([source, 2016-08-03](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
+
+### Uganda: 3 Established
+
+Uganda had ratified the East African ICT networks protocol by 2026; a national law giving effect to it is not found.
+
+- Uganda's parliamentary Committee on Foreign Affairs said that only Uganda and Rwanda have both signed and ratified the East African Community Protocol on ICT Networks, adopted in 2013 ([source, 2026-11-02](https://horneconomicreview.com/2026/11/02/uganda-mps-push-eala-to-pressure-eac-states-on-ict-protocol-ratification/)).
 
 ### Zambia: 3 Established
 
@@ -363,13 +369,6 @@ South Sudan had not signed the African Union's cyber security and data protectio
 Tanzania had not signed the African Union's cyber security and data protection convention by February 2026; no other shared digital law is known.
 
 - The African Union Commission's status list dated 2 February 2026 records Tanzania (no. 50) with no date of signature, ratification or accession, and no deposit, for the Malabo Convention; the list totals 21 signatures and 20 ratifications among 55 states ([source, 2026-02-02](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-
-### Uganda: 1 Absent
-
-Uganda had not signed the African Union's cyber security and data protection convention by February 2026; no other shared digital law is known.
-
-- Uganda Police forensic services director Andrew Mubiru said on 2026-08-12 that Uganda has not ratified the Malabo Convention, and that solution providers ask about ratification when Uganda seeks forensic tools ([source, 2026-08-12](https://observer.ug/technology/african-cybersecurity-solutions-akin-to-glass-house-with-fancy-curtains-uganda-police/)).
-- The African Union Commission's status list dated 02/02/2026 shows Uganda (no. 53 of 55) with no date of signature, ratification/accession or deposit for the Malabo Convention; 21 states had signed and 20 had ratified ([source, 2026-02-02](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
 ### Zimbabwe: 1 Absent
 

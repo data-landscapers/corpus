@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "harmonisation",
-   "stage": "1",
-   "accepted": "none",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002;UGA-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-regionallaw.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "harmonisation",
+      "stage": "3",
+      "accepted": "ratified",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-004",
+      "gaps": "No national law passed to give effect to the EAC Protocol on ICT Networks or another shared text is recorded; the date of ratification is not given. The Malabo Convention is not signed.",
+      "note": "Uganda's parliamentary foreign affairs committee said in November 2026 that Uganda has signed and ratified the EAC Protocol on ICT Networks (UGA-004); not signing Malabo is not stage 1 where another text is ratified. No law giving effect to it is reported, so not 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }
