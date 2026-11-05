@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: EGY
-ledger_rows: 43
+ledger_rows: 46
 not_held: 36
-record: b3962e53204a
+record: 15b0c395e6c2
 ---
 
 # News, Oct – Nov 2026
@@ -110,6 +110,20 @@ Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-base
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bill on classifying, circulating and making available data between government sectors</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[رئيس «اتصالات النواب»: الحكومة ستتقدم بمشروع قانون تصنيف وتداول وإتاحة البيانات بين القطاعات الحكومية خلال أسابيع](https://www.almasryalyoum.com/news/details/4400426)** — Al-Masry Al-Youm, 3 November 2026
+
+ICT committee chair: cross-government data classification and sharing bill due within weeks, first on its docket.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -199,6 +213,20 @@ Egypt's telecoms regulator described an online system that scores new cities aga
 </nav>
 
 ### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egypt's internet exchange points</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EG-IX: strengthening regional connectivity from Cairo](https://www.ams-ix.net/ams/news/eg-ix-strengthening-regional-connectivity-from-cairo)** — AMS-IX, 6 October 2026
+
+Q3 2026: 19 ASNs vs 4 at 2022 launch, 37 ports, 3.2 Tb/s capacity, 945 Gb/s peak, 1.22 EB in nine months.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -583,6 +611,20 @@ Egypt's foreign ministry has started piloting a mobile app for consular services
 **[Egypt launches digital environmental impact assessment system, ends paper-based applications](https://sis.gov.eg/en/media-center/news/egypt-launches-digital-environmental-impact-assessment-system-ends-paper-based-applications/)** — State Information Service (Egypt), 1 November 2026
 
 Egypt made its digital environmental impact assessment system, IDEIA, mandatory from 1 November 2026. Paper applications have ended, and all files must be submitted and tracked on the platform. Minister Manal Awad presented it as the response to investor complaints about delays and about not knowing a file's status.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified National System for International Cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foreign Minister: First phase of unified system for int'l cooperation completed ahead of official launch](https://sis.gov.eg/en/media-center/news/foreign-minister-first-phase-of-unified-system-for-intl-cooperation-completed-ahead-of-official-launch/)** — State Information Service, 4 November 2026
+
+Egypt's foreign ministry said on 4 November 2026 that the first phase of the Unified National System for International Cooperation is complete and its official launch is being prepared. The e-government platform tracks development financing and projects from negotiation to implementation. It links ministries and beneficiary bodies with development partners.
 
 </div>
 
