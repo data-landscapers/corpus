@@ -1,12 +1,12 @@
 ---
 title: Angola: status report
-compiled: 2026-11-04
+compiled: 2026-11-05
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 275
+sources_cited: 276
 sections_written: 39
 not_established: 0
 acquire_lines: 47
@@ -231,7 +231,7 @@ On land, [the digital cadastre runs in all 18 provincial offices of the cadastra
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-[Electronic invoicing became mandatory in Angola on 1 January 2026 for large taxpayers and suppliers to the state](https://novojornal.co.ao/economia/detalhe/agt-comeca-a-aplicar-facturacao-electronica-em-1-de-janeiro-de-2026-68608.html). [By 23 August 2026, 51,245 of them had joined, having issued 36,341,801 electronic invoices through 255 certified software packages](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/), on the collector's own figures. [The obligation reaches general and simplified-regime VAT taxpayers only from 2027](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/). The tax administration behind it is the state's most complete: [AGT runs SIGT, a centralised real-time online tax system](http://www.agt.minfin.gov.ao/). [It is integrating with SIGFE so that electronic invoices are validated automatically before the state pays a supplier (2026)](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/).
+[Electronic invoicing became mandatory in Angola on 1 January 2026 for large taxpayers and suppliers to the state](https://novojornal.co.ao/economia/detalhe/agt-comeca-a-aplicar-facturacao-electronica-em-1-de-janeiro-de-2026-68608.html). [By November 2026 more than 80,000 taxpayers were issuing electronic invoices, and the tax administration set a target of two million by 2027](https://rna.ao/rna.ao/2026/11/04/agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao-electronica-em-2027/). [The obligation reaches general and simplified-regime VAT taxpayers only from 2027](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/). The tax administration behind it is the state's most complete: [AGT runs SIGT, a centralised real-time online tax system](http://www.agt.minfin.gov.ao/). [It is integrating with SIGFE so that electronic invoices are validated automatically before the state pays a supplier (2026)](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/).
 
 [SIGFE has reached 164 municipal administrations (2023)](https://documents1.worldbank.org/curated/en/099021406262319882/pdf/IDU0cfa535a90914f043630bb860ddc79fa75def.pdf), and public financial management thins out away from the centre. [About 40% of municipalities lack consistent internet access and must go to the provincial capital to transact (2023)](https://documents1.worldbank.org/curated/en/099021406262319882/pdf/IDU0cfa535a90914f043630bb860ddc79fa75def.pdf). [Presidential Decree 194/25 of 21 October 2025 established an integrated management system for the public investment programme](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-194-25-de-21-de-outubro/). [It is designed to share data with SIGFE](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-194-25-de-21-de-outubro/).
 

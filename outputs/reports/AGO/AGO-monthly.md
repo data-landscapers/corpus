@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: AGO
-ledger_rows: 24
+ledger_rows: 26
 not_held: 6
-record: 057051b5af46
+record: b20ea700e026
 ---
 
 # News, Oct – Nov 2026
@@ -185,6 +185,20 @@ Angola's higher education ministry has awarded USD 38.7 million under results-ba
 **[Q-KON, SISTEC launch sovereign satellite service for Angola](https://cajnewsafrica.com/2026/10/14/q-kon-sistec-launch-sovereign-satellite-service-for-angola/)** — CAJ News Africa, 14 October 2026
 
 Q-KON and SISTEC opened a point of presence in Luanda for the Twoobii OneWeb low-Earth-orbit satellite service, hosted at SISTEC's premises. It gives in-country data breakout with local IP addresses alongside Eutelsat OneWeb's Angolan gateway, and is sold to banks, government, defence and enterprises.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africell and government satellite services company</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africell reforça presença em Angola com apoio financeiro e estratégico dos Estados Unidos](https://southernbridges.ao/africell-reforca-presenca-em-angola-com-apoio-financeiro-e-estrategico-dos-estados-unidos/)** — Southern Bridges, 3 November 2026
+
+US-backed satellite services venture with Angola's government for mining, oil, gas, farms; amounts undisclosed.
 
 </div>
 
@@ -391,6 +405,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[Executivo anuncia concurso público internacional para modernizar o Portal SIMPLIFICA](https://pti.ao/executivo-anuncia-concurso-publico-internacional-para-modernizar-o-portal-simplifica/)** — Portal de T.I, 29 October 2026
 
 Angola's Institute for Administrative Modernisation (IMA) opened an international tender for a new platform for the SIMPLIFICA public-services portal. A US$300 million World Bank loan for the Angola Digital Acceleration Project pays for it. Bids close on 27 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mandatory electronic invoicing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AGT pretende integrar dois milhões de contribuintes no sistema de facturação electrónica em 2027](https://rna.ao/rna.ao/2026/11/04/agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao-electronica-em-2027/)** — RNA, 4 November 2026
+
+Angola's tax administration AGT aims to bring two million taxpayers onto electronic invoicing in 2027. More than 80,000 already issue e-invoices. On 4 November 2026 AGT met taxpayers and specialists in Luanda to assess the system before its second phase.
 
 </div>
 
