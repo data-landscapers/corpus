@@ -74,6 +74,7 @@ BDI,EASSy,EASSy,other,,,,2021-07-01-arct-rapport-indicateurs-tic-burundi-edition
 BDI,SEACOM,SEACOM,other,,,,2021-07-01-arct-rapport-indicateurs-tic-burundi-edition-2020
 BDI,TEAMS,TEAMS,other,,,,2021-07-01-arct-rapport-indicateurs-tic-burundi-edition-2020
 BDI,BBS national fibre backbone,BBS dorsale nationale,other,,BBS,,2021-07-01-arct-rapport-indicateurs-tic-burundi-edition-2020
+BDI,Burundi Backbone System (BBS),Burundi,route,fibre,Government of Burundi,,2024-02-23-tza-ttcl-yazidi-kujikita-kimataifa-kibiashara
 BEN,2Africa West,,other,,CSquared (capacity holder),,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 BEN,ACE,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
 BEN,SAT-3/WASC,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
@@ -319,6 +320,7 @@ DZA,Equiano,Equiano,other,,Google,,2025-11-01-heirs-technologies-africas-digital
 DZA,MainOne regional network,MainOne,other,,MainOne,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
 DZA,Orval-Alval,Algeria,route,submarine cable to Spain,,,2026-06-08-tun-ecofin-algeria-tunisia-submarine-cable
 DZA,Medex,Algeria,route,submarine cable to France,,,2026-06-08-tun-ecofin-algeria-tunisia-submarine-cable
+DZA,Algerie Telecom Europe submarine cables,Algeria,route,submarine cable,Algerie Telecom,,2026-01-01-dza-hichem-andaloussi-p-dg-du-groupe-algerie-telecom-a-alger-16-lalgerie-f
 EGY,Red Sea Subsea Festoon Cable System,Red Sea Subsea Festoon Cable System,other,,Telecom Egypt,,2026-09-07-capacity-telecom-egypt-red-sea-festoon-bypass
 EGY,"Sharm El Sheikh-Taba cable (planned, service expected Q4 2027)","Sharm El Sheikh-Taba cable (planned, service expected Q4 2027)",other,,Telecom Egypt / Power Sub Link,,2026-09-07-capacity-telecom-egypt-red-sea-festoon-bypass
 EGY,Sharm El Sheikh-Taba cable (planned Q4 2027),Sharm El Sheikh-Taba cable (planned Q4 2027),other,,Telecom Egypt / Power Sub Link,,2026-09-04-ecofin-egypte-cable-sous-marin-taba
@@ -412,6 +414,7 @@ GAB,SAT-3,SAT-3,route,,Gabon Telecom,,2019-01-24-ace-gabon-societe-de-patrimoine
 GAB,ACE,Africa Coast to Europe,route,,,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
 GAB,Backbone National Gabonais (BNG),Backbone National Gabonais,other,,SPIN (Société de Patrimoine des Infrastructures Numériques),,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
 GAB,BNG-Equatorial Guinea backbone interconnection (Meyo-Kyé–Ebebeyin),interconnexion Meyo-Kyé – Ebebeyin,route,,SPIN / Equatorial Guinea national network,,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GAB,ACE (Africa Coast to Europe),Gabon,route,submarine cable,SPIN subsidiary (landing),,2026-10-27-gab-gabon-numerique-interview-bertrand-mahoukou-bitchinda-expose-la-strate
 GHA,SAT-3,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
 GHA,MainOne,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
 GHA,WACS,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
@@ -1017,6 +1020,8 @@ TCD,N'Djamena-Mberé fibre route,N'Djamena-Mberé fiber-optic route,route,,"Sote
 TCD,Central African Backbone (CAB),CAB,other,,CEMAC states,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
 TCD,N'Djamena-Mberé fibre link,N'Djamena-Mberé link,other,,,,"2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena"
 TCD,Trans-Saharan Fiber Optic Backbone (DTS),Dorsale Transsaharienne,other,,,,"2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena"
+TCD,N'Djamena-Cameroon link,Chad,route,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
+TCD,Chad-Sudan link via Adré,Chad,other,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
 TGO,Equiano,Equiano,route,,Google,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 TGO,2Africa West,2Africa,other,,Meta-led consortium,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 TGO,Equiano,Equiano,route,,Google,,2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers
@@ -1055,6 +1060,9 @@ TUN,SoleCrypt Bizerte data centre,SoleCrypt Bizerte data centre,other,,SoleCrypt
 TUN,MEDUSA,MEDUSA,other,,AFR-IX (lead); Tunisie Telecom connecting,,2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade
 TUN,MEDUSA,MEDUSA submarine cable,other,"subsea cable, Mediterranean, 8,000+ km, about 13 countries","led by AFR-IX, EU supported",,2026-01-16-ebrd-tunisie-telecom-190m-medusa
 TUN,Keltra,Tunisia,route,submarine cable to Italy,,,2026-06-08-tun-ecofin-algeria-tunisia-submarine-cable
+TUN,Hannibal,Tunisia,route,submarine cable,Tunisie Telecom,,2025-02-11-tun-tunisie-telecom-pour-reussir-la-5g-il-faut-d-abord-la-fibre-optique
+TUN,SEA-ME-WE-4,Tunisia,route,submarine cable,Tunisie Telecom,,2025-02-11-tun-tunisie-telecom-pour-reussir-la-5g-il-faut-d-abord-la-fibre-optique
+TUN,Medusa,Tunisia,other,submarine cable,AFR-IX Telecom,,2025-02-11-tun-tunisie-telecom-pour-reussir-la-5g-il-faut-d-abord-la-fibre-optique
 TZA,Kilimanjaro One (KO-SCS),"Kilimanjaro One Submarine Cable System; planned, 1,900 km Dar es Salaam to Mauritius with branches to Unguja and Mafia, construction 2026, completion late 2027",other,,TTCL,,2025-11-12-tanzania-kilimanjaro-one-submarine-cable
 TZA,NICTBB,"14,000 km national backbone, also links EAC and SADC neighbours",other,,Government of Tanzania,,2025-11-12-tanzania-kilimanjaro-one-submarine-cable
 TZA,2Africa,"landing station at Mbezi, Dar es Salaam; 45,000 km",other,,Airtel Tanzania (Tanzanian landing party),,2024-09-24-airtel-subsea-cable-to-boost-digital-sector-growth-daily-news
@@ -1092,6 +1100,7 @@ TZA,NICTBB,National ICT Backbone,other,,,,2026-04-10-communications-sector-surge
 TZA,Paratus Tanzania Dar es Salaam PoP,Tanzania,route,Wingu Data Centre,Paratus,,2026-10-27-paratus-expands-its-african-reach-with-tanzania-pop
 TZA,Paratus Tanzania PoP at Wingu Data Center,Tanzania,other,,Paratus Tanzania,,2026-10-26-tza-paratus-new-dar-es-salaam-pop
 TZA,"SEACOM, EASSy and 2Africa cables",Tanzania,route,,,,2025-06-01-tza-wsis-20-country-report-tanzania
+TZA,National ICT Broadband Backbone (NICTBB),Tanzania,other,fibre,TTCL,,2024-02-23-tza-ttcl-yazidi-kujikita-kimataifa-kibiashara
 UGA,Seacom Nairobi-Kampala route,Nairobi-Kampala route,route,"DWDM, ASON",Seacom,,2026-06-17 Seacom deploys a new high-capacity Nairobi–Kampala route to strengthen East Africa's digital backbone
 UGA,G2M (Goma-to-Mombasa),G2M,route,,Paratus Group (with Roke Telkom in Uganda),,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb
 UGA,Equiano,Equiano,other,,,,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb

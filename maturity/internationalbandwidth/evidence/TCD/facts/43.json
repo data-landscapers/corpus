@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-tcd-connectivite-au-tchad-entre-vulnerabilite-et-ambitions-de-transformati",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Digital Business Africa reports ARCEP Tchad's director general said in May 2025 that Chad already has gateways with Cameroon and Sudan, depends heavily on neighbours for global internet access, and that one physical cut can interrupt service totally for days.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "International gateways via Cameroon and Sudan",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "Interconnection with Niger is in progress and Libya and Nigeria are only envisaged."
+}

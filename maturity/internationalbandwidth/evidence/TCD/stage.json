@@ -1,16 +1,17 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "2",
-   "routes": "one",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001",
-   "gaps": "No source found names a second international fibre route in service.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "2",
+      "routes": "one",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-002;TCD-003;TCD-001",
+      "gaps": "No source found names a second international fibre route in service. ARCEP's director general spoke in May 2025 of gateways with Cameroon and Sudan (TCD-004), but Chad's March 2026 submission to ITU-D (TCD-003) and the minister in October 2026 (TCD-002) say the Cameroon link is the only active one; the newer stands.",
+      "note": "One route in service, the fibre link to Cameroon, so stage 2. The Sudan gateway named in May 2025 is not stated in service by the newer sources, so not 3.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

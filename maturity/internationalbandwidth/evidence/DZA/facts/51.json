@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-20-dza-linterconnexion-et-ses-enjeux-dans-les-tic-en-algerie",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Algérie Télécom says its network links Algeria abroad through the SeaMeWe4, MEDEX, ORVAL/ALVAL and MAREA submarine cables and through land cables to neighbouring countries such as Tunisia.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "SeaMeWe4, MEDEX, ORVAL/ALVAL, MAREA, terrestrial link to Tunisia",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

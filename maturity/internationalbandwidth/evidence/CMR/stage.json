@@ -1,16 +1,17 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-006;CMR-004",
-   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "3",
+      "routes": "independent",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-009;CMR-006",
+      "gaps": "No source found says a cable of more than 100 Tbps design capacity carries the country's traffic. Capacity sold to other operators (CMR-010) is noted and does not raise the stage without it.",
+      "note": "Cable rule (Bill, 2026-10-30): the ART report places the cables at three landing stations (CMR-009), so two independent routes, but no source says a cable of more than 100 Tbps design capacity carries Cameroon's traffic, so stage 3.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

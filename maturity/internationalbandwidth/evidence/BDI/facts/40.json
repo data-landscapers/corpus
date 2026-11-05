@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-23-tza-ttcl-yazidi-kujikita-kimataifa-kibiashara",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Burundi Backbone System connects to Tanzania's NICTBB at Kabanga and Manyovu under a contract begun in 2019 and renewed for five years in February 2024.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Burundi Backbone System (BBS)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Burundi Backbone System (BBS)",
+   "country_label": "Burundi",
+   "class": "route",
+   "platform": "fibre",
+   "owner": "Government of Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

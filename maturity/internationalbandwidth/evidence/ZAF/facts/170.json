@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-11-zaf-napafrica-and-teraco-acx-growing-africas-digital-community-as-napafric",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Teraco says South Africa is a landing point for subsea cables including 2Africa, ACE, EASSy, Equiano, METISS, SAT3/SAFE, Seacom and WACS; no landing stations are named.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "Subsea cables landing in South Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2025-02-11-tun-tunisie-telecom-pour-reussir-la-5g-il-faut-d-abord-la-fibre-optique",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Tunisie Telecom operates the Hannibal cable (2009, Kélibia to Mazara del Vallo) and SEA-ME-WE-4 (2005, Bizerte to Marseille), both in service, THD reports.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Hannibal; SEA-ME-WE-4",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Tunisie Telecom's chief executive said Orange and Ooredoo rent international links from it, as backup and sometimes as main links.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Tunisie Telecom international links",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hannibal",
+   "country_label": "Tunisia",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "SEA-ME-WE-4",
+   "country_label": "Tunisia",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Medusa",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "submarine cable",
+   "owner": "AFR-IX Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

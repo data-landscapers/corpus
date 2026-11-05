@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-04-zaf-napafrica-achieves-5tbps-traffic-milestone-driving-africas-digital-tra",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Teraco says South Africa is a landing point for the 2Africa, ACE, EASSy, Equiano, METISS, SAT3/SAFE, Seacom and WACS submarine cables.",
+   "as_of": "2025-03-04",
+   "date_precision": "day",
+   "system": "2Africa, ACE, EASSy, Equiano, METISS, SAT3/SAFE, Seacom, WACS",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

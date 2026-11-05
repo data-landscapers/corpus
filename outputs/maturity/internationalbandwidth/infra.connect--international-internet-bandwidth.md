@@ -157,10 +157,10 @@ Two or more fibre routes abroad by 2021; no source found says whether two are in
 
 ### Cameroon: 3 Established
 
-Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
+Two independent fibre routes abroad by 2024; no cable of more than 100 Tbps is known to carry its traffic.
 
+- Camtel has three landing stations (Kribi, Limbe, Douala) giving access to the SAT3, WACS, NCSCS and SAIL submarine cables, per the ART report quoted by Ecomatin ([source, 2024](https://ecomatin.net/cameroun-camtel-a-gagne-34-milliards-fcfa-grace-a-la-fibre-optique-en-2024-en-hausse-de-17)).
 - Africa Business Insight (2026-05-25) states that Cameroon is connected to five submarine cable systems, without naming them or their landing stations ([source, 2026-05-25](https://africabusinessinsight.com/central-african-republic-seeks-new/)).
-- Xalam Analytics states that Cameroon is connected to four submarine cables offering direct routes to Europe, South Africa and the Americas; the cables and landing stations are not named in the passages ([source, 2026-01](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Cameroon-2026.pdf)).
 
 ### Cape Verde: 3 Established
 
@@ -210,8 +210,9 @@ Two or more fibre routes abroad by 2023; no source found says whether two are in
 
 ### Gabon: 3 Established
 
-Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
+Two independent fibre routes abroad by 2026; no cable of more than 100 Tbps is known to be in service for its traffic.
 
+- SPIN's director-general says a SPIN subsidiary manages the landing of the ACE submarine cable and that the backbone gives Gabon physical interconnections with Cameroon, Equatorial Guinea and Congo, though cross-border traffic stays low ([source, 2026-10-27](https://agpgabon.ga/gabon-numerique-interview-bertrand-mahoukou-bitchinda-expose-la-strategie-de-la-spin-pour-etendre-la-fibre-optique/)).
 - TM Africa states Gabon already lands four subsea cable systems (2Africa, ACE, Maroc Telecom's West Africa cable and SAT-3/WASC); landing stations are not named for them ([source, 2026-09-25](https://tmafrica.co.ug/news/gabon-builds-digital-state-shrinking-oil-base)).
 - Minister Doumba told WTDC-25 that Gabon has four international submarine cables providing its digital opening to the world; landing stations are not named ([source, 2025-11-17](https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/22/31_WTDC-25-HLS-Statement-Doumba-Gabon.pdf)).
 
@@ -330,6 +331,8 @@ Two independent fibre routes abroad by 2026; no cable of more than 100 Tbps is k
 
 One fibre route abroad in service by 2026; no second route is known.
 
+- Chad's telecoms minister said at the Seoul summit that Chad has only one active international internet access, via Cameroon ([source, 2026-10-20](https://www.digitalbusiness.africa/tchad-le-plan-de-connexion-au-reseau-internet-mondial-presente-au-gaids-a-seoul/)).
+- Chad told ITU-D that a 35 km fibre link to Cameroon, interconnected with the CAMTEL network and the SAT3 cable, is the only operational link connecting the country to the Internet ([source, 2026-03](https://www.itu.int/md/D26-SG01-C-0040/en)).
 - Connecting Africa reports the N'Djamena-Mberé fibre route to the Cameroonian border is currently Chad's only entry point for international capacity from submarine cables, which all land in Cameroon; a revised Sotel-Airtel MoU (suspended by ARCEP) is still needed before the route is adopted ([source, 2026-02-09](https://www.connectingafrica.com/fiber-networking/chad-tells-operators-to-fast-track-fiber-link-to-cameroon)).
 
 ### Ethiopia: 2 Nascent

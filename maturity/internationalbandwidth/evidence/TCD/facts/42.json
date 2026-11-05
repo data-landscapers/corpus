@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Chad told ITU-D that a 35 km fibre link to Cameroon, interconnected with the CAMTEL network and the SAT3 cable, is the only operational link connecting the country to the Internet.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "N'Djamena-Cameroon link",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N'Djamena-Cameroon link",
+   "country_label": "Chad",
+   "class": "route",
+   "platform": "fibre",
+   "owner": "Government of Chad",
+   "tiers": ""
+  },
+  {
+   "system": "Chad-Sudan link via Adré",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "fibre",
+   "owner": "Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

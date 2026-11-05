@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-dza-hichem-andaloussi-p-dg-du-groupe-algerie-telecom-a-alger-16-lalgerie-f",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Algerie Telecom's CEO says its subsidiary Algerie Telecom Europe manages the submarine cables linking Algeria to the major data backbones in Europe and the global network.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Algerie Telecom Europe submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algerie Telecom Europe submarine cables",
+   "country_label": "Algeria",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "Algerie Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Capacity sale to neighbours is stated as an ambition only; landing stations and independence of routes not given."
+}
