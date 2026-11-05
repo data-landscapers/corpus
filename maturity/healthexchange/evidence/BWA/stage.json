@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-002;BWA-005",
-   "gaps": "No source found since October 2023 says two health systems exchange data in routine use.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-005;BWA-002",
+      "gaps": "No source found since November 2023 says two health systems exchange data in routine use; a minister said in November 2025 that the main systems are not interfaced.",
+      "note": "The ministry says the Health Information Exchange is being implemented, with its registries ready for deployment (BWA-005, BWA-002): 2. A minister said in November 2025 that the main systems are not interfaced (BWA-003), so not 3.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

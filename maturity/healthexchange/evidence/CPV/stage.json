@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-003;CPV-002",
-   "gaps": "No source found since October 2023 says two health systems exchange data in routine use.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-003;CPV-002",
+      "gaps": "No source found since November 2023 says two health systems exchange data in routine use; the PDEX link joins the NhaCard platform, not a second health system.",
+      "note": "A laboratory system to link with DHIS2 is being procured and a unique patient code is being advanced (CPV-003, CPV-002): 2. The PDEX link joins the NhaCard platform to the health system (CPV-001), not two health systems, so not 3.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

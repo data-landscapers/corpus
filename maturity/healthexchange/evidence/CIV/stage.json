@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-001",
-   "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-001",
+      "gaps": "No source found since November 2023 says three or more health systems exchange data. The 2024 decree names the health identifier; no source says records are linked through it.",
+      "note": "mHealth Africa says its community platform feeds DHIS2 by FHIR (CIV-001): two systems, 3. No third system is named, and the 2024 decree on the health identifier is not records linked.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

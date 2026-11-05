@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "exchange": "inservice",
-   "breadth": "wide",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-002;RWA-006",
-   "gaps": "No source found since October 2023 says patient records are linked through the national ID or a national health identifier.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "exchange": "inservice",
+      "breadth": "wide",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-006;RWA-008",
+      "gaps": "No source found says patient records are linked through the national ID or a national health identifier.",
+      "note": "The Health Intelligence Center takes data from eight systems (RWA-006), and the laboratory, HMIS and reagent systems are interoperable (RWA-008): 4. No national identifier links records, so not 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

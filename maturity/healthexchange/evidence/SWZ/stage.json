@@ -9,10 +9,10 @@
       "identifier": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-005;SWZ-003",
-      "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-healthexchange.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SWZ-001;SWZ-005",
+      "gaps": "No source found names the systems the national exchange carries in routine use, or counts the facilities on it. No source says records are matched through a national identifier.",
+      "note": "CMIS sends data to DHIS2 through automated flows and works with other systems (SWZ-001, SWZ-005): 3. A national exchange with a patient index is described as able to share records (SWZ-002, SWZ-003), but no source names the systems it carries in use, so not 4.",
+      "as_at": "2026-11-05"
     }
   ]
 }

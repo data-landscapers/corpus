@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001",
-   "gaps": "No source found since October 2023 says two health systems exchange data in routine use.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-001",
+      "gaps": "No source found since November 2023 says two health systems exchange data in routine use.",
+      "note": "The ministry committed in April 2026 to an electronic medical record to be linked with DHIS2 (TCD-001): a plan, which reaches 2. No timetable or exchange in use is reported, so not 3.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

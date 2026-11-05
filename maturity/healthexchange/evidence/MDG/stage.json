@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-001",
-   "gaps": "No source found since October 2023 says two health systems exchange data in routine use.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source found since November 2023 says two health systems exchange data in routine use; the mTOMADY announcement gives no data flows.",
+      "note": "mTOMADY announced it is interoperable with DHIS2 in October 2025 (MDG-001), with no data flows or routine use stated: built, 2. Not 3 until data are shown passing in use.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

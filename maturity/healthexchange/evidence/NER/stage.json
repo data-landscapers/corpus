@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "exchange": "inservice",
-   "breadth": "wide",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-002",
-   "gaps": "No source found since October 2023 says patient records are linked through the national ID or a national health identifier.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "exchange": "inservice",
+      "breadth": "wide",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-002;NER-003",
+      "gaps": "No source found says patient records are linked through the national ID or a national health identifier.",
+      "note": "Data.FI says the national OpenFn layer links three platforms to DHIS2 (NER-002), and the ministry showed it working in July 2026 (NER-003): four systems, 4. No identifier links patient records, so not 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

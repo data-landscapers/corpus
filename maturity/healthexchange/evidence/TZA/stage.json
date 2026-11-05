@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "exchange": "inservice",
-   "breadth": "wide",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-005",
-   "gaps": "No source found since October 2023 says patient records are linked through the national ID or a national health identifier.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "exchange": "inservice",
+      "breadth": "wide",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-005;TZA-001",
+      "gaps": "No source found says patient records are linked through the national ID or a national health identifier.",
+      "note": "The minister says over 45 systems are linked through the national platform (TZA-005), and 222 facilities exchange records through it (TZA-001): 4. No national identifier links records, so not 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

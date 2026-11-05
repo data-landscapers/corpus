@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-001",
-   "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-001",
+      "gaps": "No source found names two health systems exchanging data in routine use: the April 2026 records platform is one platform shared by health structures. No identifier linking records is reported.",
+      "note": "The minister's April 2026 platform for patients' medical records is one platform shared by health structures (DZA-001), with no two systems named as exchanging data, so not 3. It is a national exchange being put in place: 2.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

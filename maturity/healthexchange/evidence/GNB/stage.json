@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "3",
+      "stage": "4",
       "exchange": "inservice",
-      "breadth": "",
+      "breadth": "wide",
       "identifier": "",
       "cap": "",
       "flags": "",
       "stage_sources": "GNB-001",
-      "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-healthexchange.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found says patient records are linked through a national identifier. The only account of NIA is the vendor's, given at an MoU signing.",
+      "note": "Zenysis says the NIA warehouse currently integrates several DHIS2 instances, programme systems and partner datasets (GNB-001): three or more systems passing data, 4. No identifier links patient records, so not 5.",
+      "as_at": "2026-11-05"
     }
   ]
 }

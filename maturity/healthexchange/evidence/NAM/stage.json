@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "1",
-   "exchange": "none",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-001;NAM-002",
-   "gaps": "No source found since October 2023 says an exchange between health systems is under way.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "1",
+      "exchange": "none",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-001;NAM-002",
+      "gaps": "No source found since November 2023 says an exchange between health systems is under way.",
+      "note": "The health minister said in February and March 2026 that health systems work in silos (NAM-001, NAM-002): a dated absence, 1. No exchange contracted, built or piloted is reported, so not 2.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

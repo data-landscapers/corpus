@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "exchange": "inservice",
-   "breadth": "wide",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-002",
-   "gaps": "No source found since October 2023 says patient records are linked through the national ID or a national health identifier.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-009;NGA-004",
+      "gaps": "No source found names two health systems exchanging data in routine use. The minister's 2025 platform figure counts people registered, and the ministry's December 2025 architecture says no functional national exchange exists.",
+      "note": "The minister's 2025 count of 7.2 million people on a national exchange platform (NGA-001, NGA-002) is a registration figure, and the ministry's December 2025 architecture says no functional national exchange exists (NGA-007), so neither 3 nor 4 holds. An exchange with a shared record is being built (NGA-009) and a reporting pilot is framed (NGA-004): 2.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

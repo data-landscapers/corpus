@@ -9,10 +9,10 @@
       "identifier": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-004",
-      "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-healthexchange.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "KEN-004;KEN-001",
+      "gaps": "No source found names three or more systems exchanging data through the national exchange; the 2025 notice requires onboarding and does not say it was done. No identifier linking records is reported.",
+      "note": "The regulator KMPDC's system is integrated with the health information system and the ministry launched a national exchange in August 2025 (KEN-004, KEN-001): two systems in use, 3. No source names three systems the exchange carries, and the 2025 notice requires onboarding without saying it was done (KEN-003), so not 4.",
+      "as_at": "2026-11-05"
     }
   ]
 }

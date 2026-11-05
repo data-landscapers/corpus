@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-003",
-   "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-001;EGY-002",
+      "gaps": "No source found names two health systems exchanging data in routine use: the electronic referral system is one system. No identifier linking records is reported.",
+      "note": "The electronic referral system in the insurance provinces (EGY-003) is one system, not two exchanging data, so not 3. The ministry is activating a health information exchange and has proposed a platform to share patient histories (EGY-001, EGY-002): 2.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

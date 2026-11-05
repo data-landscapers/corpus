@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-004;LSO-003",
-   "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-004;LSO-003",
+      "gaps": "No source found says three or more health systems exchange data; WHO lists routine interoperability as a continuing challenge. No identifier linking records is reported.",
+      "note": "The ministry's eRegister record is integrated with the national DHIS2 (LSO-004, LSO-003): two systems, 3. WHO's 2025 account of wider interoperability describes progress, not exchange in service (LSO-002), so not 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

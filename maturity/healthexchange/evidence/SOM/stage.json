@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-002;SOM-001",
-   "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-002;SOM-001",
+      "gaps": "No source found names one exchange linking three or more health systems: RAAD and C+ DDS each link to DHIS2 on their own. No identifier linking records is reported.",
+      "note": "RAAD and C+ DDS each send data into DHIS2 in routine use (SOM-001, SOM-002): two systems exchanging, 3. They are two separate links to DHIS2, not one exchange across three systems, so not 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

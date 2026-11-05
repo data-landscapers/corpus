@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001;UGA-003",
-   "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "exchange": "inservice",
+      "breadth": "wide",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-003;UGA-001",
+      "gaps": "No source found says patient records are linked through the national ID or a national health identifier.",
+      "note": "The ministry's repository links all laboratory information systems to the national data warehouse (UGA-003): three or more systems, 4. No identifier links patient records, so not 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

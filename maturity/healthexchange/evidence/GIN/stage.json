@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001;GIN-002",
+      "gaps": "No source found says two health systems exchange data in routine use: OpenClinic offers interoperability with DHIS2 while paper reporting continues. No identifier linking records is reported.",
+      "note": "The ministry's August 2026 mission says OpenClinic offers interoperability with DHIS2 in five facilities while paper reporting goes on (GIN-001); a capability is not data exchanged in routine use, so not 3. Interoperability work is under way (GIN-002): 2.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

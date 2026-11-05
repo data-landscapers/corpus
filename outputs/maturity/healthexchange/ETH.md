@@ -2,12 +2,12 @@
 
 ## Interoperability of health systems
 
-**Health systems exchanging data.** [DIAL reports that health stakeholders in Ethiopia converged on a multi-tenant electronic medical records pilot as the most critical next step to test interoperability, with no launch or go-live stated](<https://dial.global/ethiopias-approach-to-use-cases/>). [DIAL states that Ethiopia's digital health ecosystem has more than 70 siloed platforms and over 200 pilots, many addressing similar problems without the foundational interoperability needed for seamless service delivery](<https://dial.global/ethiopias-approach-to-use-cases/>).
+**Health systems exchanging data.** [In March 2026 DIAL reported that health stakeholders chose a multi-tenant medical record pilot as the next step to test interoperability](<https://dial.global/ethiopias-approach-to-use-cases/>). [No launch date was given](<https://dial.global/ethiopias-approach-to-use-cases/>). [The pilot is to test whether separate systems can share records](<https://dial.global/ethiopias-approach-to-use-cases/>). [Stakeholders named it the most critical next step](<https://dial.global/ethiopias-approach-to-use-cases/>).
 
-**Exchange across the health system.** No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service. The nearest held fact: [the one given above](<https://dial.global/ethiopias-approach-to-use-cases/>).
+**Exchange across the health system.** [DIAL says Ethiopia's digital health sector has more than 70 siloed platforms](<https://dial.global/ethiopias-approach-to-use-cases/>). [It counts over 200 pilots, many tackling similar problems](<https://dial.global/ethiopias-approach-to-use-cases/>). [It says they lack the shared basis that services need to work together](<https://dial.global/ethiopias-approach-to-use-cases/>). [DIAL says the gap holds back seamless service delivery](<https://dial.global/ethiopias-approach-to-use-cases/>). [The platforms lack foundational interoperability, DIAL says](<https://dial.global/ethiopias-approach-to-use-cases/>).
 
-**Patients matched by a national identifier.** No source found since October 2023 says patient records are linked through the national ID or a national health identifier. The nearest held fact: [the one given above](<https://dial.global/ethiopias-approach-to-use-cases/>).
+**Patients matched by a national identifier.** [Ethiopia's national digital ID is Fayda](<https://dial.global/ethiopias-approach-to-use-cases/>). The nearest fact on patient records is [DIAL's March 2026 account](<https://dial.global/ethiopias-approach-to-use-cases/>). It describes the planned medical record pilot. It names no identifier that matches patients across systems.
 
 ***Also on file***. [Fayda national digital ID](<https://dial.global/ethiopias-approach-to-use-cases/>).
 
-***Not found***. No source found since October 2023 says two health systems exchange data in routine use.
+***Not found***. No source found says two health systems exchange data in routine use. None says patient records are linked through Fayda.

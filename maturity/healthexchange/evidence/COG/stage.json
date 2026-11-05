@@ -1,17 +1,18 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "no evidence",
-   "exchange": "",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names health systems exchanging data, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "no evidence",
+      "exchange": "",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found names health systems exchanging data, or says there is none.",
+      "note": "No row on health systems exchanging data was found for this country, and none says there is no exchange, so no stage is set.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

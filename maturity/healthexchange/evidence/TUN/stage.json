@@ -1,17 +1,18 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "5",
-   "exchange": "inservice",
-   "breadth": "wide",
-   "identifier": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-008;TUN-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "exchange": "inservice",
+      "breadth": "wide",
+      "identifier": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-002;TUN-001",
+      "gaps": "No source found counts the health systems the identifier links, or says the roll-out has reached every public facility.",
+      "note": "The health identifier is tied to the national ID card, and about 100,000 hospital files were linked to it by July 2026 (TUN-002); CHU Sahloul had unified 180,000 by October (TUN-001). Records are matched across systems by a national identifier: 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

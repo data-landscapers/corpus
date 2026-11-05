@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-001",
-      "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-healthexchange.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found says three or more health systems exchange data, or a national exchange is in service. No identifier linking records is reported.",
+      "note": "SmartCare and DISA Labs exchange laboratory requests and results at every SmartCare Plus and Pro site (ZMB-001): two systems, 3. No third system or national exchange is named, so not 4.",
+      "as_at": "2026-11-05"
     }
   ]
 }

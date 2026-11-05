@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source found since October 2023 says two health systems exchange data in routine use.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "No source found since November 2023 says two health systems exchange data in routine use.",
+      "note": "ANICNS has called for expressions of interest in a national data centre to link existing systems (COD-001): an exchange being set up, 2. No two systems are reported exchanging data, so not 3.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

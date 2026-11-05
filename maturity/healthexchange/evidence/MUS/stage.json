@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MUS-001",
-      "gaps": "No source found since October 2023 says two health systems exchange data in routine use.",
-      "note": "First pass: counted from the four questions by study-ladder-healthexchange.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says two health systems exchange data in routine use; first results of One Patient, One Record are not reported.",
+      "note": "The One Patient, One Record project, launched in January 2024, centres on exchange among providers (MUS-001): 2. No exchange in use is reported, so not 3.",
+      "as_at": "2026-11-05"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-001",
-   "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "unplaced",
+      "exchange": "",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found names two health systems exchanging data: the 2025 medicines tracking system is one system used by several bodies.",
+      "note": "The medicines tracking system activated in October 2025 is one system used by the pharmacy department, the supply agency and hospital pharmacies (LBY-001), not two systems exchanging data, so it sets no rung. No other row is held.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }
