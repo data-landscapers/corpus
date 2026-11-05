@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: COG
-ledger_rows: 12
+ledger_rows: 13
 not_held: 5
-record: e3cdb7f03c79
+record: 9ffa99e60e7e
 ---
 
 # News, Oct – Nov 2026
@@ -111,8 +111,26 @@ ISO lists ACONOQ, created by a 2015 law, as the Republic of Congo's national sta
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
 </nav>
+
+### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CGIX, the Congo Internet eXchange Point</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXP Tracker - Congo](https://pulse.internetsociety.org/en/ixp-tracker/country/CG/)** — Internet Society Pulse, 1 November 2026
+
+One active exchange with nine members in November 2026; resilience score 49 of 100.
+
+</div>
+
+</div>
 
 ### Energy
 
