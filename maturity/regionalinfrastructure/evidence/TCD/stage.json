@@ -1,16 +1,17 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "3",
-   "built": "building",
-   "service": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001;TCD-002;TCD-007",
-   "gaps": "No source found says a shared link or facility is in service.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "4",
+      "built": "building",
+      "service": "in-service",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-009",
+      "gaps": "No source found reports a link or facility carrying another country's traffic in the last three years.",
+      "note": "In March 2026 Chad told ITU-D that its 35 km fibre link to Cameroon via N'Djamena was operational, a yes to question 3. No source reports it carrying another country's traffic, so it stops at 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

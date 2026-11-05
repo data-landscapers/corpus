@@ -20,9 +20,9 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Leading | 3 |
 | 4 Operating | 38 |
-| 3 Established | 3 |
+| 3 Established | 2 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
@@ -36,6 +36,12 @@ Gambia's national operator holds 28 gigabits of backup capacity on a link with a
 
 - Gamtel, the Gambian national operator, states on its company profile that it holds 28 Gbps with the Senegalese operator Free on a backup link, Cross Gambia (CG2), over which its traffic is rerouted automatically when the ACE cable fails; the page is undated, so its capture date is used ([source, 2026-09-21](https://gamtel.gm/about-us/)).
 - Phase3 and Sonatel activated a 3,500km terrestrial fibre route from Lagos, Nigeria, to Dakar, Senegal, through Benin, Togo and Ghana; commercial availability and service packages were still to be announced ([source, 2025-05-09](https://techafricanews.com/2025/05/09/west-africas-digital-backbone-phase3-and-sonatel-launch-3500km-fibre-route/)).
+
+### South Africa: 5 Leading
+
+A Seychelles operator joined the Johannesburg internet exchange in 2025, where networks from over 50 countries peer; traffic volumes are not known.
+
+- Teraco says Cable & Wireless Seychelles joined NAPAfrica in 2025 and networks from over 50 countries peer at it ([source, 2025](https://www.teraco.co.za/news/napafrica-and-teraco-acx-growing-africas-digital-community-as-napafrica-hits-6tbps/)).
 
 ### Togo: 5 Leading
 
@@ -77,6 +83,12 @@ Fibre links to Cameroon and Congo have been in service since February 2023; no s
 - The article says CAR authorities estimated in May 2026 that connecting the country to submarine cables through the terrestrial networks of coastal countries had markedly improved available speeds ([source, 2026-05](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique)).
 - The African Development Bank says the Central African Backbone project closed in September 2023 having installed a 900 km national fibre backbone, with terrestrial optical interconnections to Cameroon and Congo, funded by EUR 17m from the EU, EUR 13m from the African Development Fund and EUR 4m from the Bank's Transition Support Facility ([source, 2023-09](https://www.afdb.org/fr/news-and-events/les-jeunes-centrafricains-formes-aux-metiers-du-numerique-grace-la-fibre-optique-installee-avec-lappui-de-la-banque-africaine-de-developpement-et-de-lunion-europeenne-69893)).
 - Tech Africa News, citing ITU analysis, says the six CEMAC countries are developing the Central African Backbone to interconnect their national fibre networks, backed by about $273 million from member states and partners, and treats it as the framework for the Central African Republic; it gives no event date, so the article's published date of 2026-08-27 is used ([source, 2026-08-27](https://techafricanews.com/2026/08/27/why-connecting-landlocked-africa-requires-more-than-building-national-fibre-networks/)).
+
+### Chad: 4 Operating
+
+A short fibre link to Cameroon was in service in 2026 and the trans-Saharan backbone was being built; traffic for another country is not known.
+
+- Chad told ITU-D that its 35 km fibre link to Cameroon via N'Djamena, interconnected with CAMTEL's network, is operational ([source, 2026-03](https://www.itu.int/md/D26-SG01-C-0040/en)).
 
 ### Congo: 4 Operating
 
@@ -249,14 +261,6 @@ A sea cable has joined Somalia to Djibouti and Kenya since 2021; no source found
 
 - Connecting Africa, citing Djibouti Telecom, reports that the DARE1 subsea cable has been operational since 2021 and connects Djibouti City with Bosaso and Mogadishu in Somalia and Mombasa in Kenya ([source, 2021](https://www.connectingafrica.com/connectivity/dare1-subsea-cable-to-link-kenya-to-south-africa)).
 
-### South Africa: 4 Operating
-
-A cable to Mauritius has run since 2021 and a fibre route to Kenya since 2023; no source found reports traffic carried across them.
-
-- Liquid Dataport (Cassava Technologies) announced on 16 May 2023 that it had launched the first terrestrial-only fibre route from Mombasa in Kenya to Johannesburg, through Uganda, Rwanda, the DRC, Zambia and Zimbabwe, giving carriers, enterprises and hyperscalers direct connectivity to data centres in Johannesburg and Nairobi ([source, 2023-05-16](https://liquid.tech/about-us/news/liquid-dataport-launches-the-first-terrestrial-data-superhighway-connecting-mombasa-to-johannesburg/)).
-- The METISS consortium states that the 3,200 km METISS submarine cable, linking Mauritius, Réunion and Madagascar to a landing near Durban in South Africa, entered service on 5 March 2021, its first links to Africa already used by the consortium operators' customers ([source, 2021-03-05](https://fibernet.ceb.mu/wp-content/uploads/2021/03/2021-03-17-MISE-EN-SERVICE-DU-CABLE-METISS.pdf)).
-- Google stated on 23 May 2024 that the terrestrial path of its Umoja fibre route, from Kenya through Uganda, Rwanda, the DRC, Zambia and Zimbabwe to South Africa, had been built with Liquid Intelligent Technologies, with the Indian Ocean crossing to Australia still to come ([source, 2024-05-23](https://cloud.google.com/blog/products/infrastructure/investing-in-connectivity-and-growth-for-africa)).
-
 ### Sudan: 4 Operating
 
 A fibre cable to Egypt has run since 2004, and a corridor to Ethiopia and Djibouti was agreed in 2026; no traffic figure is reported.
@@ -291,14 +295,6 @@ A fibre route from the Botswana border to Bulawayo went live in July 2026; an ex
 - The column says the Powertel-Paratus network starts with an active 800 Gbps link between Plumtree and Bulawayo; it gives no date for it, so the published date is used, and it names no other country's traffic carried ([source, 2026-09-12](https://cleantechnica.com/2026/09/12/integrating-starlink-leo-infrastructure-with-zimbabwes-terrestrial-fibre-networks/)).
 - Powertel and Paratus Zimbabwe say the first phase of their cross-border fibre project, the Plumtree-Bulawayo section into Zimbabwe, is live and carrying traffic at 800Gbps initial equipped capacity; the article is dated 2026-07-06 and gives no earlier date for the switch-on ([source, 2026-07-06](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V)).
 - The column says TelOne has ongoing backbone capacity expansions along cross-border transit links such as Kazungula to Zambia/Botswana and Beitbridge to South Africa; no date is given, so the published date is used ([source, 2026-09-12](https://cleantechnica.com/2026/09/12/integrating-starlink-leo-infrastructure-with-zimbabwes-terrestrial-fibre-networks/)).
-
-### Chad: 3 Established
-
-Chad's part of a trans-Saharan fibre backbone was 60 per cent built in February 2026; no shared link is known to be in service.
-
-- Ecofin Agency reports the Trans-Saharan Fiber Optic Backbone (DTS), a key part of Chad's regional interconnection strategy with planned links to Niger, Nigeria, Algeria, Libya and Egypt, is 60% complete ([source, 2026-02](https://www.ecofinagency.com/news-digital/1302-52879-chad-plans-50-telecom-sites-50-km-of-fiber-in-n-djamena)).
-- Tchadinfos reports a ministry delegation inspected construction of the technical sites and fibre installation of the Trans-Saharan Backbone (DTS), which links Chad to the Mediterranean network via Niger; works launched in 2023 are slowed, and vandalism was found at the Bol site ([source, 2026-01](https://tchadinfos.com/2026/01/11/projet-dorsale-transsaharienne-des-degradations-constatees-sur-le-site-technique-de-bol/)).
-- The article says the six CEMAC countries, of which it names Chad as a landlocked market, are developing the Central African Backbone to interconnect their national fibre networks, backed by about $273 million from member states and development partners; it gives no date for the agreement or start of works, so the document's published date is used ([source, 2026-08-27](https://techafricanews.com/2026/08/27/why-connecting-landlocked-africa-requires-more-than-building-national-fibre-networks/)).
 
 ### Ethiopia: 3 Established
 

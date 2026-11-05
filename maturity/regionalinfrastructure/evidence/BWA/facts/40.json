@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-13-bwa-how-bofinet-plans-to-transform-botswana-into-southern-africa-s-interne",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "BoFiNet's Acting CEO says it has fibre connections to all of Botswana's neighbouring countries, including a major route through South Africa.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "BoFiNet cross-border fibre",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BoFiNet cross-border fibre",
+   "country_label": "Botswana",
+   "class": "shared",
+   "platform": "fibre",
+   "owner": "BoFiNet",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-21-cod-kinix-kinshasa-internet-exchange-expands-into-raxio-drc",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-use",
+   "fact": "Tech Africa says networks registered outside the DRC, including GVA in Cote d'Ivoire, Paratus and AFR-IX Telecom, already peer at KINIX in Kinshasa.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "KINIX",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

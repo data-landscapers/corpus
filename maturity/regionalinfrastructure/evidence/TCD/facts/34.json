@@ -1,0 +1,44 @@
+{
+ "slug": "2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "Chad told ITU-D that its 35 km fibre link to Cameroon via N'Djamena, interconnected with CAMTEL's network, is operational.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "N'Djamena-Cameroon link",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "building",
+   "fact": "Chad told ITU-D that a 503 km Chad-Niger fibre link, part of the Trans-Saharan Backbone Project, has its interconnection to Niger, Mali and Algeria under construction.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Trans-Saharan Backbone Project",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N'Djamena-Cameroon link",
+   "country_label": "Chad",
+   "class": "shared",
+   "platform": "fibre",
+   "owner": "Government of Chad",
+   "tiers": ""
+  },
+  {
+   "system": "Trans-Saharan Backbone Project, Chad-Niger link",
+   "country_label": "Chad",
+   "class": "shared",
+   "platform": "fibre",
+   "owner": "Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

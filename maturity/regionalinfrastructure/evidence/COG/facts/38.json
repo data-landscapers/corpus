@@ -1,0 +1,37 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "Under the World Bank-financed Central African Backbone, Congo has been interconnected to Gabon since 2018, operated commercially since 2019 by Mambs Services, the Treasury sheet says.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Central African Backbone (CAB)",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "The Treasury sheet says Congo has been connected to Cameroon through the CAB project since 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Central African Backbone (CAB)",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "The Treasury sheet says Congo Telecom's underwater river cable has linked Brazzaville to Kinshasa in the DRC since 2017.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Brazzaville-Kinshasa river cable",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

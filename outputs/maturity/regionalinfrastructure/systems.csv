@@ -14,6 +14,7 @@ BFA,Maroc Telecom Transafrican Terrestrial Fibre Cable,Transafrican terrestrial 
 BWA,Buitepos-Ngoma corridor,Buitepos-Ngoma corridor,shared,cross-border fibre,MTC (Namibia) and BoFiNet (Botswana),,2026-02-18-mtc-bofinet-namibia-botswana-mou
 BWA,BoFiNet fibre network,Botswana Fibre Network (BoFiNet),other,,BoFiNet,,2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb
 BWA,Digital Delta Data Centre,Digital Delta Data Centre,other,,BoFiNet,,2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb
+BWA,BoFiNet cross-border fibre,Botswana,shared,fibre,BoFiNet,,2025-05-13-bwa-how-bofinet-plans-to-transform-botswana-into-southern-africa-s-interne
 CAF,Central African Backbone (CAB),Central African Backbone,shared,terrestrial fibre optic,,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
 CAF,CAR-DRC fibre interconnection,interconnexion par fibre optique avec la RDC,shared,terrestrial fibre optic,CAR and DRC digital ministries,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
 CAF,Central African Backbone (CAB),Dorsale à fibre optique d'Afrique centrale,shared,terrestrial and under-river fibre optic,"CAR government, financed by the EU and the African Development Bank",,2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca
@@ -30,6 +31,7 @@ CIV,SIPAO (Système d'information policière d'Afrique de l'Ouest),SIPAO,other,,
 CIV,SIPAO (Système d'Information Policière de l'Afrique de l'Ouest),SIPAO,other,,Ministère de l'Intérieur et de la Sécurité,national,2025-12-19-civ-2026-323-78016002230
 CIV,SIPAO (Système d'Information Policière de l'Afrique de l'Ouest),SIPAO,other,,Ministère de l'Intérieur et de la Sécurité,national,2024-12-18-civ-2025-323-78016002230
 CIV,redundant terrestrial fibre route,Cote d'Ivoire,other,terrestrial fibre,,,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou
+CIV,CIVIX regional exchange (RIXP),Côte d'Ivoire,shared,,ARTCI,,2026-06-15-civ-peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps
 CMR,N'Djamena-Mbere fiber-optic route,N'Djamena-Mberé,shared,,Sotel Tchad and Airtel Chad (planned),,2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica
 CMR,CAB-CORRIDOR,CAB-CORRIDOR,shared,pooled terrestrial fibre,"SPIN Gabon and CAMIX, with a planned economic interest grouping",,2026-10-07-impactechos-cab-corridor-connectivite-afrique-centrale
 CMR,National fibre optic transmission backbone,"national fibre optic transmission backbone, Phase IV",other,,Camtel,,2026-03-09-seeks-195-million-optic-fibre-backbone-eximbank-china-itweb
@@ -283,6 +285,8 @@ TCD,Central African Backbone (CAB),Central African Backbone,shared,national fibr
 TCD,BRIDGE,BRIDGE project (Nigeria),shared,fibre-optic,Nigeria,national,2026-09-17-techafricanews-chad-nigeria-digital-cooperation
 TCD,BRIDGE,projet BRIDGE,shared,"fibre optique, accès ouvert, 90 000 km",Nigeria,national,2026-09-16-tcd-tchadinfos-bosun-tijani-ndjamena-fibre-interconnexion-nigeria
 TCD,Libya-Chad fibre-optic link,Libya-Chad,shared,fibre,,,2026-10-20-tcd-tlcommunications-la-libye-prvoit-dachever-le-raccordement-de-la-fibre
+TCD,N'Djamena-Cameroon link,Chad,shared,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
+TCD,"Trans-Saharan Backbone Project, Chad-Niger link",Chad,shared,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
 TGO,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre
 TUN,MEDUSA submarine cable,MEDUSA,other,"submarine cable, Bizerte landing station",Orange Tunisia (Tunisian section and Bizerte station),,2026-06-26-techafricanews-orange-medusa-cable-operational
 TUN,MEDUSA submarine cable,câble MEDUSA,other,"submarine cable, four fibre pairs at 24 Tbps per pair, Bizerte landing station",Orange Tunisie (Tunisian section and Bizerte station); built by Medusa Submarine Cable System,,2026-06-24-tunisie-cable-medusa-operationnel

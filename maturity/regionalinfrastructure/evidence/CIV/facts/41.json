@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-15-civ-peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CIVIX regional exchange (RIXP)",
+   "country_label": "Côte d'Ivoire",
+   "class": "shared",
+   "platform": "",
+   "owner": "ARTCI",
+   "tiers": ""
+  }
+ ],
+ "note": "PPDU's selection of CIVIX to become a regional exchange is a plan, with no agreement, works or service stated."
+}

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "4",
+      "stage": "5",
       "built": "building",
-      "service": "in-service",
+      "service": "in-use",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-003;ZAF-002;ZAF-005",
-      "gaps": "No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
-      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
-      "as_at": "2026-10-28"
+      "stage_sources": "ZAF-006",
+      "gaps": "No figures have been found for the traffic other countries' networks exchange at NAPAfrica.",
+      "note": "Teraco says Cable & Wireless Seychelles joined NAPAfrica in Johannesburg in 2025 and networks from over 50 countries peer there, a yes to question 4. A Seychelles operator exchanging its traffic in South Africa is another country's traffic carried.",
+      "as_at": "2026-11-05"
     }
   ]
 }
