@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "The Treasury sheet names E-TAX, a tax and duties management system built in-house by the finance ministry, among reforms launched to collect revenue better.",
+   "as_of": "2024-08-30",
+   "date_precision": "day",
+   "system": "E-TAX",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
