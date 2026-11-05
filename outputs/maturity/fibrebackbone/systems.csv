@@ -75,6 +75,7 @@ CIV,"national optical fibre infrastructure (38,000 km)",,other,,,,2026-07-13-dig
 CIV,Réseau national à haut débit (RNHD),RNHD,backbone,,ANSUT,,2026-06-24-forum-intech-sante-ansut-zones-rurales-fratmat
 CIV,Africa Broadband Maps (Africa-BB-Maps),Africa-BB-Maps,other,,"ITU and ARTCI, with EU support",,2025-08-18-africa-bb-maps-cartographie-haut-debit-fratmat
 CIV,Réseau national haut débit (RNHD),Côte d'Ivoire,backbone,,ANSUT,,2024-09-19-civ-services-telecoms-les-acquis-du-desenclavement-numerique-de-la-cote-d
+CIV,Réseau National Haut Débit (RNHD),Côte d'Ivoire,backbone,fibre,ANSUT,,2025-04-04-civ-ansut-rnhd-pilier-transformation-numerique
 CMR,"National fibre optic transmission backbone, Phase IV extension",Phase IV of the national fibre optic transmission backbone expansion project,other,,"Camtel (state); financed by China Eximbank, Huawei-backed",,2026-03-09-seeks-195-million-optic-fibre-backbone-eximbank-china-itweb
 CMR,Camtel national fibre network,terrestrial fibre-optic network,backbone,,Camtel,,2026-03-09-seeks-195-million-optic-fibre-backbone-eximbank-china-itweb
 CMR,"Central African Backbone (CAB), Central African Republic national section with link to Cameroon via Gamboula",Dorsale optique nationale de la RCA,other,,Government of the Central African Republic; EU and AfDB funded,,2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca
@@ -130,7 +131,11 @@ DZA,FTTH (Tout Fibre strategy),الكل فايبر,other,,Ministry of Post and T
 DZA,"Algerie Telecom-Sparkle Italy-Algeria subsea cable (planned, MoU)",,other,,Algerie Telecom; Sparkle,,2025-07-25-algerie-telecom-sparkle-subsea-cable--connectingafrica
 DZA,FTTH,,other,,Algerie Telecom,,2025-05-02-copper-phase-out-fiber-2027--wearetech
 DZA,National 400G WDM project,,backbone,Huawei 400G WDM optical transmission,Algerie Telecom,,2025-02-25-algerie-telecom-huawei-400g--techafricanews
+DZA,Algerie Telecom fibre network,Algeria,backbone,fibre,Algerie Telecom,,2026-10-11-dza-fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes
+DZA,Algerie Telecom national fibre backbone,Algeria,backbone,fibre,Algerie Telecom,,2026-01-01-dza-hichem-andaloussi-p-dg-du-groupe-algerie-telecom-a-alger-16-lalgerie-f
+DZA,Algerie Telecom fibre network,Algeria,backbone,,Algerie Telecom,,2024-11-20-dza-linterconnexion-et-ses-enjeux-dans-les-tic-en-algerie
 EGY,FTTR (Fiber-to-the-Room),FTTR,other,Huawei,Telecom Egypt (WE),home,2026-05-24-telecom-egypt-huawei-fttr-launch-ahram
+EGY,Telecom Egypt fibre optic network,Egypt,backbone,,Telecom Egypt,,2024-11-11-egy-telecom-egypt-and-vodafone-egypt-strengthen-strategic-partnership-with
 ERI,EriTel landline and mobile network,EriTel,other,,EriTel (state operator),,2026-05-19 Eritrea substantial investment in communication service expansion
 ETH,Ethio telecom national backbone network,national backbone,backbone,,Ethio telecom,,2026-08-20-tan-ethio-telecom-horizon-fibre-corridor
 ETH,Horizon Fiber Initiative,Horizon Fiber Initiative,other,,Ethio telecom with partners,,2026-08-20-tan-ethio-telecom-horizon-fibre-corridor
@@ -166,6 +171,7 @@ GHA,CSquared/NEDCo northern fibre project,,other,,CSquared Ghana Ltd; NEDCo powe
 GHA,Dig Once policy (road fibre chambers),Dig Once,other,,"Ministry of Communication, Digital Technology and Innovations",,2026-05-14-dig-once-policy-fibre-cost-cut-myjoy
 GHA,MTN Ghana fibre network,MTN fibre network,other,,MTN Ghana,,2026-04-18-mtn-fibre-cable-sabotage-157-sites-myjoy
 GHA,CSquared Ghana fibre,Ghana,other,fibre,CSquared Ghana,,2026-10-28-gha-northern-ghana-fiber-backbone-and-access-networks-feasibility-study
+GHA,e-government fibre network (Smart Infraco contract),Ghana,other,fibre,Government of Ghana / NITA,,2025-08-20-gha-pac-faults-communications-ministry-over-missing-6m
 GIN,Backbone national,dorsale nationale de fibre optique,backbone,Huawei technical support,SOGEB,,2026-05-22-guinee-backbone-capacite-400-gbs-huawei
 GIN,National backbone,national backbone,backbone,,,,"2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026"
 GIN,Guinea national data centre (Tier 3),,other,,,,"2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026"
@@ -277,6 +283,7 @@ NAM,Lightstruck open-access fibre network,Lightstruck network,other,,"Lightstruc
 NAM,Telecom Namibia long-distance fibre routes,fibre backbone networks,backbone,,Telecom Namibia,,2026-05-20-telecom-namibia-network-modernisation-fibre-redundancy
 NAM,Telecom Namibia countrywide fibre rollout,rollout of fiber countrywide,other,,Telecom Namibia,,2026-05-20-telecom-namibia-network-modernisation-fibre-redundancy
 NAM,Radio Access Network sites (Universal Service Fund),RAN sites,other,,CRAN / Universal Service Fund,,2025-05-07-mict-vote29-budget-motivation-fibre-internet-penetration
+NAM,NamPower dark fibre,Namibia,backbone,fibre,NamPower,,2025-03-18-nam-nampower-telecom-mtc-given-30-days-to-revisit-unfair-agreement
 NER,National Backbone Fiber Optic Cable Network and Communication Service Project,National Backbone Fiber Optic Cable Network,backbone,,Government of Niger; SONITEL repays the loan,,2026-08-10-niger-china-eximbank-national-backbone-loan-aiddata
 NER,National Backbone Fiber Optic Cable Network and Communication Service Project,National Backbone Fiber Optic Cable Network,backbone,,Government of Niger; SONITEL repays the loan,,2014-01-02-eximbank-cn-ner-001-national-backbone-fiber-optic-cable-network
 NER,Maroc Telecom transafrican terrestrial cable,Transafrican terrestrial fibre cable,other,,Maroc Telecom,Moov Africa Niger,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
@@ -508,6 +515,7 @@ ZMB,ZESCO national optical fibre backbone (Smart Zambia Phase II),ZESCO national
 ZMB,Phase II metropolitan area network and IP access network,,other,Huawei,ZESCO Limited,,2017-01-01-eximbank-cn-zmb-005-china-eximbank-provides-3332-million-preferential
 ZMB,DZAP Component 1.1 Extending the backbone and regional network,Digital Zambia Acceleration Project (P505094),other,,Smart Zambia Institute (implementing agency); World Bank IDA US$20m plus US$10m commercial,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
 ZMB,national fibre-optic backbone,Zambia,backbone,,,,2026-11-03-comesa-world-bank-back-regional-drive-to-connect-180-million-people-through-digital-inclusion
+ZMB,ZESCO optic fibre backbone,Zambia,backbone,OPGW on transmission lines,ZESCO Limited,,2023-11-09-zmb-zesco-ifb-oib-110-2023-opgw-three-330kv-lines
 ZWE,Liquid Intelligent Technologies fibre backbone,Liquid fibre backbone,backbone,,Liquid Intelligent Technologies,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,Powertel-Paratus DWDM backhaul,,backbone,DWDM,Powertel and Paratus Zimbabwe (PPP),,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,DFA Zimbabwe rail-servitude backbone,,backbone,DWDM,DFA Zimbabwe with BCS Group and Dandemutande,"ISPs, mobile operators",2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration

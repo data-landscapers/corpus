@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-20-gha-pac-faults-communications-ministry-over-missing-6m",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-government fibre network (Smart Infraco contract)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "fibre",
+   "owner": "Government of Ghana / NITA",
+   "tiers": ""
+  }
+ ],
+ "note": "Contract to commercialise excess e-government capacity is stated only as intent to lease; no operator purchase or route stated."
+}

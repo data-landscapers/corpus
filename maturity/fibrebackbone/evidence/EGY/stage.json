@@ -1,16 +1,17 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "no evidence",
-   "reach": "",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a national fibre backbone, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "unplaced",
+      "reach": "",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Telecom Egypt sells transmission and wholesale services to the other operators, but no source found says where its backbone runs, that it links the capital to other regions, or that there is none.",
+      "note": "Fact 2026-11-05: three Telecom Egypt agreements of 2024 and 2025 sell transmission services to Vodafone Egypt and Orange Egypt (EGY-001 to EGY-003). Capacity sold sets no rung without a backbone in service between the capital and other regions, so the cell is unplaced.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

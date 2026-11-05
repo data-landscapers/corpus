@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-dza-hichem-andaloussi-p-dg-du-groupe-algerie-telecom-a-alger-16-lalgerie-f",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "every-region",
+   "fact": "Algerie Telecom's CEO says the group has finalised nearly 300,000 km of backbone fibre covering all of the country's wilayas.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Algerie Telecom national fibre backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Algerie Telecom's CEO says the backbone provides the mobile operators with the capacity they need to develop their networks.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Algerie Telecom national fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algerie Telecom national fibre backbone",
+   "country_label": "Algeria",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "Algerie Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

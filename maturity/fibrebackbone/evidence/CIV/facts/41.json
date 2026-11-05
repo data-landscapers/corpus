@@ -1,0 +1,46 @@
+{
+ "slug": "2025-04-04-civ-ansut-rnhd-pilier-transformation-numerique",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "ANSUT says it has laid 5,207 km of fibre of the roughly 6,632 km Réseau National Haut Débit.",
+   "as_of": "2025-04-04",
+   "date_precision": "day",
+   "system": "RNHD",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "ANSUT says 2,245 km of RNHD fibre is in operation by Orange CI, MTN CI and Moov Africa CI.",
+   "as_of": "2025-04-04",
+   "date_precision": "day",
+   "system": "RNHD",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "ANSUT says the RNHD provides connectivity to private operators including Orange CI, MTN CI and Moov Africa CI, and to internet providers.",
+   "as_of": "2025-04-04",
+   "date_precision": "day",
+   "system": "RNHD",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Réseau National Haut Débit (RNHD)",
+   "country_label": "Côte d'Ivoire",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "ANSUT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

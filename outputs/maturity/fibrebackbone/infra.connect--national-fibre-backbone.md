@@ -20,15 +20,24 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Leading | 5 |
 | 4 Operating | 7 |
-| 3 Established | 29 |
+| 3 Established | 28 |
 | 2 Nascent | 2 |
 | 1 Absent | 1 |
-| Unplaced | 0 |
-| No evidence | 11 |
+| Unplaced | 1 |
+| No evidence | 10 |
 
 ## Countries
+
+### Algeria: 5 Leading
+
+Backbone fibre reached every province by 2026, and other operators buy capacity on it.
+
+- Algerie Telecom's CEO says the group has finalised nearly 300,000 km of backbone fibre covering all of the country's wilayas ([source, 2026](https://alger16.dz/?p=60388)).
+- L'Echo d'Algerie says Algerie Telecom has deployed nearly 300,000 km of cable across all wilayas, in metropolises and remote areas ([source, 2026-10-11](https://lechodalgerie.dz/fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes/)).
+- Algerie Telecom says its fibre made available to operators exceeds 40,000 km, offered through leased lines and irrevocable rights of use ([source, 2024-11-20](https://www.itu.int/en/ITU-D/Regional-Presence/ArabStates/Documents/events/2024/MeaningfulConnectivity/Presentations/Session3/Pr%C3%A9sentation%20Interconnexion%20UIT_MrAmirKahli.pdf)).
+- Algerie Telecom's CEO says the backbone provides the mobile operators with the capacity they need to develop their networks ([source, 2026](https://alger16.dz/?p=60388)).
 
 ### Cameroon: 5 Leading
 
@@ -102,12 +111,6 @@ Backbone fibre reached every province or region by 2026; no source found says wh
 
 - Nairametrics, from NCC data, says the 101,148.36 km of fibre is deployed across all 36 states and the FCT, though concentrated in Lagos and Abuja; article date used as no other is given ([source, 2026-08-09](https://nairametrics.com/2026/08/09/fg-incorporates-company-to-deliver-90000km-nationwide-fibre-network/)).
 - Article says the 101,000 km network stretches across all 36 states and the FCT; NCC state data lists fibre in every state (lowest Ebonyi 586.92 km, Bayelsa 656.87 km). Date is the article's publication date ([source, 2026-07](https://businessday.ng/technology/article/how-nigeria-built-101000km-of-fibre-that-bypasses-130m-nigerians/)).
-
-### Algeria: 3 Established
-
-A national fibre network of 260,000 km covered most of the territory in 2025; whether it reaches every province is not known.
-
-- Algerie360 reports Algeria has a national fibre optic network of 260,000 km covering 95% of the territory ([source, 2025-04-23](https://www.algerie360.com/zerrouki-devoile-la-feuille-de-route-de-la-5g-et-les-avancees-du-service-universel/)).
 
 ### Benin: 3 Established
 
@@ -308,6 +311,12 @@ A 2025 source says the country has no national fibre backbone.
 
 - Agence Ecofin reports in August 2025 that Guinea-Bissau's international connectivity is confined to the coast and the country still needs a national backbone to link its main cities ([source, 2025-08-29](https://www.agenceecofin.com/actualites-numerique/2908-131059-deploiement-de-la-fibre-optique-la-guinee-bissau-veut-apprendre-du-tchad)).
 
+### Egypt: Unplaced
+
+Telecom Egypt sold transmission capacity to other operators in 2025; where its backbone runs is not known, so no stage is set.
+
+Not established: Telecom Egypt sells transmission and wholesale services to the other operators, but no source found says where its backbone runs, that it links the capital to other regions, or that there is none.
+
 ### Cape Verde: No evidence
 
 Nothing found says a national fibre backbone is being built or in service, so no stage is set.
@@ -315,12 +324,6 @@ Nothing found says a national fibre backbone is being built or in service, so no
 Not established: Nothing found names a national fibre backbone, or says there is none.
 
 ### Comoros: No evidence
-
-Nothing found says a national fibre backbone is being built or in service, so no stage is set.
-
-Not established: Nothing found names a national fibre backbone, or says there is none.
-
-### Egypt: No evidence
 
 Nothing found says a national fibre backbone is being built or in service, so no stage is set.
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-11-egy-telecom-egypt-and-vodafone-egypt-strengthen-strategic-partnership-with",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Telecom Egypt says it provides infrastructure, connectivity and wholesale services to all other operators and extended its transmission services agreement with Vodafone Egypt to 2031.",
+   "as_of": "2024-11-11",
+   "date_precision": "day",
+   "system": "Telecom Egypt transmission services",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telecom Egypt fibre optic network",
+   "country_label": "Egypt",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

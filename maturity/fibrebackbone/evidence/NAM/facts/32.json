@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-18-nam-nampower-telecom-mtc-given-30-days-to-revisit-unfair-agreement",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "NaCC says NamPower's competitors are offered access to its network through the Grid Online service, while three of six fibre pairs are leased exclusively to MTC and Telecom Namibia.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "NamPower fibre / Grid Online",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NamPower dark fibre",
+   "country_label": "Namibia",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "NamPower",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

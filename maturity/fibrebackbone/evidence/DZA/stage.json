@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "backbone",
-      "stage": "3",
-      "reach": "in-service",
-      "access": "",
+      "stage": "5",
+      "reach": "every-region",
+      "access": "open",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-002",
-      "gaps": "A 260,000 km network covering 95 per cent of the territory is reported, but no source says it reaches every province; nothing on other operators buying capacity.",
-      "note": "Algérie360 reported in April 2025 a national fibre network of 260,000 km covering 95 per cent of the territory, backbone in service beyond the capital. No source says it reaches every province, so not stage 4.",
-      "as_at": "2026-11-01"
+      "stage_sources": "DZA-004;DZA-003;DZA-006;DZA-005",
+      "gaps": "",
+      "note": "Fact 2026-11-05: Algerie Telecom's CEO says in 2026 its backbone fibre covers every wilaya (DZA-004, with L'Echo d'Algerie, DZA-003), later than the 2025 report of 95 per cent of the territory; Algerie Telecom leases over 40,000 km of fibre to operators and supplies the mobile operators' capacity (DZA-006, DZA-005). Every region reached and capacity sold, so stage 5.",
+      "as_at": "2026-11-05"
     }
   ]
 }

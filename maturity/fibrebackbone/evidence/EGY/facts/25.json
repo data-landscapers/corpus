@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-20-egy-orange-egypt-signs-284m-wholesale-fibre-deals-with-telecom-egypt",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Telecom Egypt and Orange Egypt signed agreements worth about EGP 15bn that extend transmission services to 2032, with Telecom Egypt providing the other operator's capacity.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "Telecom Egypt transmission services",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

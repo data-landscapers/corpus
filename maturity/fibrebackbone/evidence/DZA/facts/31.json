@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-20-dza-linterconnexion-et-ses-enjeux-dans-les-tic-en-algerie",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Algerie Telecom says its fibre made available to operators exceeds 40,000 km, offered through leased lines and irrevocable rights of use.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "Algerie Telecom fibre",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algerie Telecom fibre network",
+   "country_label": "Algeria",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Algerie Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

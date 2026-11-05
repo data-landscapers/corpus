@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,backbone,reach,coverage,in-service,2026-06-19,CIV-001;CIV-002,,
-CIV,backbone,access,coverage,open,2023,CIV-003,,
+CIV,backbone,reach,coverage,in-service,2026-06-19,CIV-001;CIV-002;CIV-005,CIV-004=building,
+CIV,backbone,access,coverage,open,2025-04-04,CIV-003;CIV-006,,
