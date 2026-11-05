@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The ministry says government has laid 4,387 km of optic fibre across 57 of 135 districts (42%), with 1,567 government sites (MDAs and local governments) connected to the National Backbone Infrastructure (Zawedde, via Business Focus).",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "National Backbone Infrastructure",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Backbone Infrastructure",
+   "country_label": "Uganda",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "Not every region is stated reached; no open-access terms."
+}

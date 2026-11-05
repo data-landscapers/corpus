@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-27-rwa-btw-kt-rwanda-networks-wholesale-fibre-backbone",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "every-region",
+   "fact": "btw.media says KT Rwanda Networks, a government-Korea Telecom partnership, runs a fibre backbone of over 4,000 km connecting all districts and border areas.",
+   "as_of": "2025-08-27",
+   "date_precision": "day",
+   "system": "KT Rwanda Networks fibre backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "btw.media says KT Rwanda Networks provides wholesale connectivity on its network to other mobile and internet service providers.",
+   "as_of": "2025-08-27",
+   "date_precision": "day",
+   "system": "KT Rwanda Networks fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KT Rwanda Networks fibre backbone",
+   "country_label": "Rwanda",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "KT Rwanda Networks (public-private)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

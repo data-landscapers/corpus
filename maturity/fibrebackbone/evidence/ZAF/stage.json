@@ -1,16 +1,17 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "3",
-   "reach": "in-service",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001;ZAF-003",
-   "gaps": "No source found says the backbone reaches every province or region.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "5",
+      "reach": "every-region",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-005;ZAF-006;ZAF-004",
+      "gaps": "",
+      "note": "Fact 2026-11-05: Broadband Infraco's network covers all nine provinces (ZAF-005) and its licence lets it sell long-distance capacity to licensed operators (ZAF-006, ZAF-004). Every region reached and capacity sold, so stage 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

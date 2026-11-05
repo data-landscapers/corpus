@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-08-bfa-communications-electroniques-un-conclave-pour-l-amelioration-de-la-qua",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "every-region",
+   "fact": "The minister said the government's national fibre backbone, nearly 3,000 km, interconnects all regional capitals.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "national fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national fibre backbone",
+   "country_label": "Burkina Faso",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

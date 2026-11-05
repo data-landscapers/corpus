@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-05-uga-uganda-expands-data-infrastructure-to-advance-digital-transformation-i",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Xinhua reports the first four NBI phases have covered nearly 50 percent of Uganda, laying 4,172 km of fibre across 63 districts.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "National Data Transmission Backbone Infrastructure",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Xinhua reports President Museveni launched construction of NBI phase five on 4 December 2024, financed by China EXIM and implemented by Huawei.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "National Data Transmission Backbone Infrastructure",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Transmission Backbone Infrastructure",
+   "country_label": "Uganda",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "Government of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

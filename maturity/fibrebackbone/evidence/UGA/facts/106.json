@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-03-uga-utel-to-take-on-operationalisation-of-national-backbone-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "The ICT minister told Parliament's committee that the National Backbone Infrastructure is largely used by government agencies with few private-sector clients, and its commercialisation is to move to UTel.",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "National Backbone Infrastructure (NBI)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Backbone Infrastructure (NBI)",
+   "country_label": "Uganda",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

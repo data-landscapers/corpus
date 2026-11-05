@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-15-gab-backbone-national-gabonais-la-spin-et-gabon-fiber-s-a-lancent-une-nouv",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "SPIN says GABON FIBER S.A. takes over operation of the 1,782 km of existing National Backbone (Backbone National Gabonais) when the current Axione Gabon delegation ends in November 2026.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone National Gabonais",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "SPIN says it and GABON FIBER S.A. signed a 20-year partnership on 14 September 2026 under which the concessionaire finances and builds 1,651 km of extensions in three phases, taking the network to 3,433 km.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone National Gabonais",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "SPIN says GABON FIBER S.A. is wholesale-only and that access to the backbone's capacity and services will be on transparent, fair and non-discriminatory terms for operators and ISPs.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone National Gabonais",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbone National Gabonais",
+   "country_label": "Gabon",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "SPIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

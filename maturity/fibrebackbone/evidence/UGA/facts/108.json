@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-04-uga-press-release-president-yoweri-k-museveni-launches-nbi-phase-v-in-kara",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "NITA-U says the first four NBI phases laid 4,387 km of optical fibre connecting 53 district headquarters, 11 major border stations and 1,480 ministries, departments and agencies.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "National Backbone Infrastructure (NBI)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Backbone Infrastructure (NBI)",
+   "country_label": "Uganda",
+   "class": "backbone",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": "Phase V is launched but no contract or begun works is stated, so no building fact is recorded."
+}

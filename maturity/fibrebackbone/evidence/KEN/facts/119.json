@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-15-ken-ict-authority-outlines-sh34-4-billion-plan-to-boost-kenya-s-digital-co",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The Swala Nyeti article says the first two phases of the National Optic Fibre Backbone Infrastructure have rolled out about 13,000 km of fibre, which the ICT Authority oversees and is commercialising.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "National Optic Fibre Backbone Infrastructure",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "The government told the National Assembly that Sh11 billion went to the ongoing expansion of NOFBI II, after Sh4.3 billion for phase one and Sh7 billion for phase two.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "National Optic Fibre Backbone Infrastructure",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Optic Fibre Backbone Infrastructure",
+   "country_label": "Kenya",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "ICT Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

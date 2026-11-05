@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-19-civ-services-telecoms-les-acquis-du-desenclavement-numerique-de-la-cote-d",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The article says ANSUT had completed 5,476 km of fibre and 66 cut points of its planned 7,000 km national high-speed backbone (RNHD) in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Réseau national haut débit (RNHD)",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "The article says 2,245 km of the ANSUT backbone is operated by Orange CI, MTN CI and Moov Africa CI.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Réseau national haut débit (RNHD)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Réseau national haut débit (RNHD)",
+   "country_label": "Côte d'Ivoire",
+   "class": "backbone",
+   "platform": "",
+   "owner": "ANSUT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

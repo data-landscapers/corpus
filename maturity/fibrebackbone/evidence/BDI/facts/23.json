@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-23-tza-ttcl-yazidi-kujikita-kimataifa-kibiashara",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Burundi Backbone System (BBS)",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "fibre",
+   "owner": "Government of Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": "Document describes Tanzania's backbone and a link to Burundi's; nothing on Burundi's national backbone reach."
+}

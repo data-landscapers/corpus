@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-10-cmr-cameroun-camtel-a-gagne-34-milliards-fcfa-grace-a-la-fibre-optique-en",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "every-region",
+   "fact": "Camtel's national fibre-optic backbone, about 12,000 km, serves all ten regional capitals and 51 of 58 divisional capitals, according to the ART report quoted by Ecomatin.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Camtel national backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "The ART report says Camtel's transport network revenue rose with demand for bandwidth from mobile operators, ISPs and businesses.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Camtel national backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel national backbone",
+   "country_label": "Cameroon",
+   "class": "backbone",
+   "platform": "fibre optic",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

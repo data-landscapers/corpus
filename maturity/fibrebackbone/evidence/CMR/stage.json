@@ -1,16 +1,17 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "3",
-   "reach": "in-service",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-002;CMR-001",
-   "gaps": "No source found says the backbone reaches every province or region.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "5",
+      "reach": "every-region",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-007;CMR-008;CMR-003",
+      "gaps": "",
+      "note": "Fact 2026-11-05: the regulator ART reports that in 2024 Camtel's backbone served all ten regional capitals (CMR-007), and that mobile operators and internet providers buy bandwidth on its transport network (CMR-008, CMR-003). Every region reached and capacity sold, so stage 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

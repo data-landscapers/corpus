@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The Treasury sheet says the PCN deployed about 3,000 km of fibre linking Pointe-Noire, Dolisie, Brazzaville, Oyo and Ouesso, operated and marketed by Congo Telecom, plus a 1,100 km secondary E2C network.",
+   "as_of": "2024-08-30",
+   "date_precision": "day",
+   "system": "PCN",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PCN",
+   "country_label": "Projet de couverture nationale",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Congo Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "3",
-   "reach": "in-service",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-002;RWA-001",
-   "gaps": "No source found says the backbone reaches every province or region.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "5",
+      "reach": "every-region",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-003;RWA-004",
+      "gaps": "",
+      "note": "Fact 2026-11-05: btw.media reports KT Rwanda Networks' fibre backbone of over 4,000 km connects all districts (RWA-003) and is sold wholesale to other operators (RWA-004). Every region reached and capacity sold, so stage 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

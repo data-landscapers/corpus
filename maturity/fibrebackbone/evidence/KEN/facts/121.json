@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-11-ken-gov-t-launches-phase-4-5-of-the-last-mile-county-connectivity-project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Optic Fibre Backbone Infrastructure (NOFBI)",
+   "country_label": "Kenya",
+   "class": "backbone",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The source describes last-mile fibre and an intention to deploy NOFBI across 47 counties; no backbone link in service or being built is stated."
+}

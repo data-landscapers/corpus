@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-20-cod-fibre-optique-en-rdc-le-backbone-national-l-ossature-numerique-d-inter",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "ACP reports that the national backbone is under construction within the digital transformation project, as a network of over 11,500 km including 1,500 km of international links to Angola, Uganda, Burundi and the Central African Republic, said by the project's Access component head.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "backbone national (projet de transformation numerique)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "backbone national",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Projet de transformation numerique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

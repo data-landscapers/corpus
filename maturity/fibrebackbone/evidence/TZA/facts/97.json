@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-23-tza-ttcl-yazidi-kujikita-kimataifa-kibiashara",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Three NICTBB expansion phases of 4,442 km, 1,520 km and 928 km are under way, the minister said, the third being built.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "TTCL renewed for five years its contract to supply NICTBB services to Burundi's Burundi Backbone System, TTCL's director general said.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "country_label": "Tanzania",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "TTCL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

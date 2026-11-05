@@ -1,6 +1,6 @@
 # National fibre backbone: long-distance fibre across the country
 
-*As at 2026-10-18.*
+*As at 2026-11-05.*
 
 ## The norm
 
@@ -20,15 +20,38 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Leading | 4 |
 | 4 Operating | 7 |
-| 3 Established | 31 |
-| 2 Nascent | 3 |
+| 3 Established | 29 |
+| 2 Nascent | 2 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
 | No evidence | 11 |
 
 ## Countries
+
+### Cameroon: 5 Leading
+
+Backbone fibre reached every region by 2024, and other operators buy capacity on it.
+
+- Camtel's national fibre-optic backbone, about 12,000 km, serves all ten regional capitals and 51 of 58 divisional capitals, according to the ART report quoted by Ecomatin ([source, 2024](https://ecomatin.net/cameroun-camtel-a-gagne-34-milliards-fcfa-grace-a-la-fibre-optique-en-2024-en-hausse-de-17)).
+- The ART report says Camtel's transport network revenue rose with demand for bandwidth from mobile operators, ISPs and businesses ([source, 2024](https://ecomatin.net/cameroun-camtel-a-gagne-34-milliards-fcfa-grace-a-la-fibre-optique-en-2024-en-hausse-de-17)).
+- NewsWatch states that CAMTEL leases capacity on its national fibre-optic backbone to private mobile network operators, while holding exclusive rights over the backbone itself; the date is the article's own (2026-07-27) ([source, 2026-07-27](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/)).
+
+### Rwanda: 5 Leading
+
+Backbone fibre reached every district by 2025, and other operators buy capacity on it.
+
+- btw.media says KT Rwanda Networks, a government-Korea Telecom partnership, runs a fibre backbone of over 4,000 km connecting all districts and border areas ([source, 2025-08-27](https://btw.media/en/kt-rwanda-networks-rwandas-wholesale-4g-fibre-backbone)).
+- btw.media says KT Rwanda Networks provides wholesale connectivity on its network to other mobile and internet service providers ([source, 2025-08-27](https://btw.media/en/kt-rwanda-networks-rwandas-wholesale-4g-fibre-backbone)).
+
+### South Africa: 5 Leading
+
+Backbone fibre reached every province by 2025, and other operators buy capacity on it.
+
+- MyBroadband reports Broadband Infraco's network covers all nine provinces of South Africa and extends to neighbouring borders, with 15,000 km of fibre and 156 points of presence per its corporate profile ([source, 2025-03-15](https://mybroadband.co.za/news/broadband/587054-the-technically-insolvent-state-owned-broadband-company-that-lost-r459-million.html)).
+- MyBroadband reports Broadband Infraco's licence lets it sell high-capacity long-distance transmission services to licensed fixed and mobile operators and internet service providers ([source, 2025-03-15](https://mybroadband.co.za/news/broadband/587054-the-technically-insolvent-state-owned-broadband-company-that-lost-r459-million.html)).
+- TechCentral describes Broadband Infraco as a fibre wholesaler, a 'carrier of carriers' for cheaper long-distance bandwidth, whose biggest public-sector customers were SITA and Eskom (both since lost) ([source, 2026-04](https://techcentral.co.za/state-broadband-merger-limps-into-a-second-decade/280723/)).
 
 ### Tanzania: 5 Leading
 
@@ -99,13 +122,6 @@ Backbone fibre linked the capital to other regions by 2026; no source found says
 - BoFiNet reported at its 13 August 2026 AGM 99.7% service availability across its national fibre backbone (News&All Botswana report, no regions or km given) ([source, 2026-08-13](https://na.co.bw/bofinet-hosts-agm-showcasing-enhanced-accountability-and-value-creation/)).
 - Communications minister David Tshere said approximately 16,000 km of fibre optic cable is already laid across Botswana, linking the country internally and to South Africa, Namibia, Zimbabwe and Zambia; the document gives no towns or regions and does not say 'lit' or name the owner (published date used as as_of) ([source, 2026-03-09](https://dailynews.gov.bw/news-detail/90463)).
 
-### Cameroon: 3 Established
-
-Backbone fibre linked the capital to other regions by 2026; no source found says whether it reaches every region.
-
-- NewsWatch states that CAMTEL owns and operates Cameroon's national fibre-optic backbone of over 15,000 km; the article gives no regions or towns and no in-service date, so the date is the article's own (2026-07-27) ([source, 2026-07-27](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/)).
-- ITWeb Africa reports Cameroon currently operates about 12,000 km of terrestrial fibre-optic network plus about 812 km of overhead fibre on electricity poles, all managed by state operator Camtel; it does not list regions served. As of date is the article's published date ([source, 2026-03-09](https://itweb.africa/article/cameroon-seeks-195-million-to-expand-optic-fibre-backbone/WnxpEv4Y28g7V8XL)).
-
 ### Central African Republic: 3 Established
 
 Backbone fibre linked the capital to other regions by 2025; no source found says whether it reaches every region.
@@ -119,6 +135,12 @@ Backbone fibre linked the capital to other regions by 2026; no source found says
 
 - Minister Haliki Choua Mahamat said on 2026-10-09 that Chad has about 6,000 km of optical fibre, with a target of 14,000 km; the text does not say which regions it links ([source, 2026-10-09](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/)).
 - Minister Haliki Choua Mahamat told the World Bank on 2026-09-15 that national fibre coverage is incomplete, with six provinces still not connected by fibre, and about 8,000 km still to deploy ([source, 2026-09-15](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique)).
+
+### Congo: 3 Established
+
+Backbone fibre linked the capital to other regions by 2024; no source found says whether it reaches every department.
+
+- The Treasury sheet says the PCN deployed about 3,000 km of fibre linking Pointe-Noire, Dolisie, Brazzaville, Oyo and Ouesso, operated and marketed by Congo Telecom, plus a 1,100 km secondary E2C network ([source, 2024-08-30](https://www.tresor.economie.gouv.fr/Pays/CG/le-secteur-du-numerique)).
 
 ### Cote d'Ivoire: 3 Established
 
@@ -216,13 +238,6 @@ Backbone fibre linked the capital to other regions by 2017; no source found says
 - AidData says over 2,275 km of fibre was installed on three sections (Niamey-Tillabery, Zinder-Diffa, Agadez-Tahoua), construction ended in Q1 2017 and the project was completed and handed over to local authorities; it does not use the word lit or give a date of traffic ([source, 2017-03](https://china.aiddata.org/projects/58683/)).
 - AidData says over 2,275 km of fibre was installed on three sections (Niamey-Tillabery, Zinder-Diffa, Agadez-Tahoua), 95% complete in November 2016, construction ended Q1 2017 and the project was completed and handed over to local authorities ([source, 2017-03](https://china.aiddata.org/projects/58683/)).
 
-### Rwanda: 3 Established
-
-Backbone fibre linked the capital to other regions by 2026; no source found says whether it reaches every region.
-
-- TechTrends KE reports Liquid's East African footprint, including Rwanda, is connected through the company's own metro and national long-distance fibre networks; no Rwandan places or km are given. The article gives no date for the Rwandan network, so as_of is its publication date ([source, 2026-09-10](https://techtrendske.co.ke/2026/09/10/interview-liquid-bets-on-ai-as-next-growth-frontier-for-africas-fibre-network/)).
-- Ministerial Instructions 001/2012 (Ministry in the Office of the President in charge of ICT) recite that the national fibre optic backbone has been completed, and provide for government bandwidth to be distributed to institutions across the country over the National Backbone Optic Fiber; no regions or km are given. The document gives no date for completion, so as_of is the instruction's date ([source, 2012-03-12](https://rwandalii.org/akn/rw/act/min/2012/1/eng@2012-03-12)).
-
 ### Senegal: 3 Established
 
 Backbone fibre linked the capital to other regions by 2025; no source found says whether it reaches every region.
@@ -235,13 +250,6 @@ Backbone fibre linked the capital to other regions by 2026; no source found says
 
 - Minister of Communication, Technology and Innovation Salima Bah said the national fibre backbone had been expanded to 14 of the country's 16 districts (article of 2026-05-05; as_of is the article date, which gives no earlier date) ([source, 2026-05-05](https://www.connectingafrica.com/connectivity/sierra-leone-invests-400m-in-telecoms-60-usage-gap-remains)).
 - Minister Salima Bah said at the NatCA headquarters commissioning that 14 of 16 districts are now connected by fibre (SLENA report of 2026-04-17; as_of is the report date, which gives no earlier date) ([source, 2026-04-17](https://www.slena.gov.sl/post/sierra-leone-s-president-julius-maada-bio-commissions-natca-hq-reinforces-commitment-to-digital-inn)).
-
-### South Africa: 3 Established
-
-Backbone fibre linked the capital to other regions by 2026; no source found says whether it reaches every region.
-
-- BusinessDay reports Telkom's Openserve has completed a third redundant long-haul fibre route between Cape Town and Pretoria via Springbok and Mahikeng, alongside two existing routes between the two cities; no length given. As of is the article's published date, as no completion date is given ([source, 2026-09-07](https://www.businessday.co.za/companies/2026-09-07-openserve-completes-third-fibre-route-to-reduce-network-outage-risk/)).
-- TechCentral reports that state-owned Broadband Infraco operates a national fibre network (no provinces or km given); article dated 2026-04-28 ([source, 2026-04](https://techcentral.co.za/state-broadband-merger-limps-into-a-second-decade/280723/)).
 
 ### Sudan: 3 Established
 
@@ -281,12 +289,6 @@ Backbone fibre linked the capital to other regions by 2026; no source found says
 
 - Consultant Willard Shoko says Liquid Intelligent Technologies operates over 26,000 km of fibre in Zimbabwe as the core long-haul terrestrial routing layer; no places named. Dated by the article (2026-09-12) ([source, 2026-09-12](https://cleantechnica.com/2026/09/12/integrating-starlink-leo-infrastructure-with-zimbabwes-terrestrial-fibre-networks/)).
 - Information minister Soda Zhemu said at a post-Cabinet briefing that the total fibre backbone grew 33.83 percent to surpass 19,000 km in Q1 2026, and fibre coverage rose from 4,046 km to 8,500 km; no places named ([source, 2026-03](https://www.newsday.co.zw/local-news/article/200058335/internet-traffic-surges-57)).
-
-### Congo: 2 Nascent
-
-A national fibre backbone was being built in 2026; none is known to be in service.
-
-- Xalam Analytics says the Projet de Couverture Nationale fibre project is underway, about 3,000 km of terrestrial fibre connecting key towns; document gives no event date, so its published date (January 2026) is used ([source, 2026-01](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Congo-Republic-2026.pdf)).
 
 ### Lesotho: 2 Nascent
 

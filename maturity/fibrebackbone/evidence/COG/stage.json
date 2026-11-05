@@ -1,16 +1,17 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "2",
-   "reach": "building",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-001",
-   "gaps": "No source found says any of the backbone is in service between the capital and another region.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "3",
+      "reach": "in-service",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-002",
+      "gaps": "No source found says the backbone reaches every department, or that other operators buy capacity on it.",
+      "note": "Fact 2026-11-05: the French Treasury reports about 3,000 km of PCN fibre linking Brazzaville to Pointe-Noire, Dolisie, Oyo and Ouesso, operated by Congo Telecom (COG-002), so fibre is in service beyond the capital. No source says it reaches every department, so not 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }
