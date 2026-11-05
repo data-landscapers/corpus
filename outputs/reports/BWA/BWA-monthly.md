@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: BWA
-ledger_rows: 11
+ledger_rows: 13
 not_held: 5
-record: 2c5abcba18f5
+record: a8c59ed24cde
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 2c5abcba18f5
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#finance">Finance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
@@ -21,6 +23,28 @@ record: 2c5abcba18f5
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+</nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Orange Botswana and Huawei memorandum of understanding</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Huawei, Orange partner to accelerate digital transformation](https://www.mmegi.bw/ampArticle/124593)** — Mmegi Online, 4 November 2026
+
+Orange Botswana and Huawei Technologies Botswana signed a memorandum of understanding that extends their cooperation to intelligent networks, AI, cloud, enterprise solutions and data infrastructure. It builds on Orange Botswana's Tier III-certified data centre. No sum is stated.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
@@ -183,6 +207,20 @@ Botswana's Ministry of Transport and Infrastructure announced interim manual mea
 **[Country Profile on AI Governance: Botswana](https://www.aipolicy.africa/country-profiles/botswana)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Botswana scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked joint 29 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are assigned values, and its strongest are Strategy and Vision and Ethics and Inclusion (1.40 each).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Artificial Intelligence Policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Southern Africa’s AI ambitions face reality check](https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO)** — ITWeb Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+IITPSA 2026 survey: experience gap 24% of skills shortfall; 52% of SA firms outsource IT abroad; Botswana AI policy.
 
 </div>
 
