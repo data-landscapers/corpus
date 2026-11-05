@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: NGA
 ledger_rows: 80
 not_held: 9
-record: ae54f8b1a882
+record: 028b412bea56
 ---
 
 # News, Oct – Nov 2026
@@ -440,7 +440,7 @@ The Internet Exchange Point of Nigeria, founded in 2006, is marking its 20th ann
 
 **[Nigeria targets 90% local Internet traffic, regional hub power](https://guardian.ng/technology/tech/nigeria-targets-90-local-internet-traffic-regional-hub-power/)** — The Guardian Nigeria, 4 November 2026
 
-At its 20th anniversary, the Internet Exchange Point of Nigeria (IXPN) set a goal of 90% local internet traffic by 2046. Chief executive Muhammed Rudman said up to 70% of traffic is now local, against 1% when IXPN began in 2006. The exchange reports over 130 connected networks and 13 points of presence, and plans 800G optics in 2030-2032 and 1.6T trials in 2033-2036.
+The Internet Exchange Point of Nigeria (IXPN) marked its 20th year with a goal of 90% local traffic by 2046. Chief executive Muhammed Rudman said up to 70% of traffic is now local, against 1% in 2006. The exchange has over 130 connected networks and plans 1.6T capacity trials in 2033-2036.
 
 </div>
 
