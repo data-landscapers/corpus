@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-14-lby-560-896-registered-for-libyan-municipal-elections",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "HNEC announced publication of voter lists for the second phase of municipal elections, with 560,896 registered as of 13 April 2025.",
+   "as_of": "2025-04-13",
+   "date_precision": "day",
+   "system": "HNEC voter lists",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HNEC SMS registration 17017",
+   "country_label": "Libya",
+   "class": "electoral",
+   "platform": "SMS",
+   "owner": "HNEC",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

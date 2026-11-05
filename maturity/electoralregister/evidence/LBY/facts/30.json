@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-25-lby-hnec-sms-voter-registration-check",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "HNEC's notice says voters can check their registration by sending their national number by SMS to 17017, and register with national number and polling-centre number.",
+   "as_of": "2025-02-25",
+   "date_precision": "day",
+   "system": "HNEC SMS service 17017",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HNEC SMS service 17017",
+   "country_label": "Libya",
+   "class": "electoral",
+   "platform": "SMS",
+   "owner": "HNEC",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -21,9 +21,9 @@ The African Charter on Democracy, Elections and Governance and the AU's election
 | Stage | Countries |
 |---|---|
 | 5 Leading | 14 |
-| 4 Operating | 20 |
+| 4 Operating | 21 |
 | 3 Established | 7 |
-| 2 Nascent | 3 |
+| 2 Nascent | 2 |
 | 1 Absent | 2 |
 | Unplaced | 4 |
 | No evidence | 4 |
@@ -206,6 +206,15 @@ Voters could check the digital roll in 2025; no source found reports a link to t
 - The Daily Nation reports that the IEBC chairman gazetted 29 September 2025 for resuming continuous voter registration, letting Kenyans register, transfer, correct details or inspect their records at any of the 290 constituency offices ([source, 2025-08-28](https://nation.africa/kenya/news/politics/iebc-turns-to-id-data-to-meet-voter-targets-5623352)).
 - The Standard reports a court order that the IEBC give parties and observers access to the source code and audit logs of its continuous voter registration system to monitor its ongoing operations, with biometric voter identification used in the 2026 by-elections ([source, 2026-09-20](https://www.standardmedia.co.ke/politics/article/2001558186/political-parties-election-observers-to-access-iebc-voter-register)).
 
+### Libya: 4 Operating
+
+Voters could check the roll by text message and lists were published in 2025; no source shows it checked against the civil registry.
+
+- Libya Review reports that the National High Electoral Commission (HNEC) launched electronic voter-identity verification in municipal council elections, initially in four municipalities (Zliten, Al-Sbiaa, Brak, Al-Abrak), with devices registering voters' biometric data when voter cards are collected ([source, 2024-08-19](https://libyareview.com/47455/libya-implements-biometric-verification-in-municipal-council-elections)).
+- HNEC Decision 253 of 2025 adopts a regulation setting up a digital registration system by SMS and an in-person system for the voter register ([source, 2025-12-08](https://lawsociety.ly/legislation/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%85%D9%81%D9%88%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D9%84%D9%84%D8%A7/)).
+- HNEC announced publication of voter lists for the second phase of municipal elections, with 560,896 registered as of 13 April 2025 ([source, 2025-04-13](https://libyareview.com/54785/560896-voters-registered-for-libyan-municipal-elections/)).
+- HNEC's notice says voters can check their registration by sending their national number by SMS to 17017, and register with national number and polling-centre number ([source, 2025-02-25](https://hnec.ly/2025/02/25/%D9%83%D9%8A%D9%81-%D9%86%D8%AA%D8%A3%D9%83%D8%AF-%D9%85%D9%86-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%D9%8A-%D8%9F/)).
+
 ### Malawi: 4 Operating
 
 Voters could check their entries at registration centres in 2025; no link to the ID register is known.
@@ -303,13 +312,6 @@ The voters' roll was held digitally in 2025; voters checking it is not on record
 
 - An OIF audit mission judged the biometric electoral register, with 4,432,936 voters counted after the 2023 census, reliable enough for the regional and legislative polls ([source, 2023-11-15](https://togoscoop.tg/23015-2/)).
 - A presidential decree of 1 April 2025 opened roll revision from 7 to 23 April 2025, in which the CENI revises the electoral file and issues biometric voter cards ([source, 2025-04](https://togopresse.tg/la-revision-des-listes-electorales-annoncee-du-07-au-23-avril-2025-en-prelude-aux-elections-municipales/)).
-
-### Libya: 2 Nascent
-
-A digital voters' roll was under way in 2025; none in service is on record.
-
-- Libya Review reports that the National High Electoral Commission (HNEC) launched electronic voter-identity verification in municipal council elections, initially in four municipalities (Zliten, Al-Sbiaa, Brak, Al-Abrak), with devices registering voters' biometric data when voter cards are collected ([source, 2024-08-19](https://libyareview.com/47455/libya-implements-biometric-verification-in-municipal-council-elections)).
-- HNEC Decision 253 of 2025 adopts a regulation setting up a digital registration system by SMS and an in-person system for the voter register ([source, 2025-12-08](https://lawsociety.ly/legislation/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%85%D9%81%D9%88%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D9%84%D9%84%D8%A7/)).
 
 ### Madagascar: 2 Nascent
 

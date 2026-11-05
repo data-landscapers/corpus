@@ -94,3 +94,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,TZA,dpi.registry--electoral-register,fact,4,5,TZA-003;TZA-007;TZA-001,INEC said in March 2025 its registration kits integrate with the NIDA database
 2026-11-04,UGA,dpi.registry--electoral-register,fact,4,5,UGA-005;UGA-002,"voter register compiled from NIRA biometric data, Daily Monitor October 2025"
 2026-11-04,MDG,dpi.registry--electoral-register,ladder,1,2,MDG-003;MDG-002,"Bill 2026-11-04, message 73: equipment received for a biometric list answers question 1 on a manual roll; 1 to 2"
+2026-11-05,LBY,dpi.registry--electoral-register,fact,2,4,LBY-001;LBY-002;LBY-004;LBY-005,HNEC voter lists published April 2025 and SMS registration check from February 2025: roll open for checking

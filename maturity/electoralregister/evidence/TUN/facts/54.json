@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-06-tun-isie-actualisation-du-registre-electoral-a-partir-du-20-mai-courant",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "ISIE decided to update the electoral register remotely and at regional offices from 20 May 2024, with a registration website (Touenssa.isie.tn) and a free SMS service for voters to check their polling centre.",
+   "as_of": "2024-05-20",
+   "date_precision": "day",
+   "system": "Touenssa.isie.tn",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Touenssa.isie.tn",
+   "country_label": "Tunisia",
+   "class": "electoral",
+   "platform": "web and SMS",
+   "owner": "ISIE",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

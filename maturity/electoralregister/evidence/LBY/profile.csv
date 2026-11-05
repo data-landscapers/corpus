@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LBY,electoral,roll,coverage,underway,2025-12-08,LBY-001;LBY-002,,
-LBY,electoral,checked,coverage,,,,,nothing found
+LBY,electoral,checked,coverage,open,2025-04-13,LBY-004;LBY-005,,
 LBY,electoral,linked,coverage,linked,2025-12-08,LBY-003,,

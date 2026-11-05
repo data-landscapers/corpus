@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 LBY,HNEC electronic voter verification,Libya,electoral,biometric devices at election centres,National High Electoral Commission (HNEC),"municipal pilot, four municipalities",2024-08-19 Libya implements biometric voter verification in municipal council elections
 LBY,Voter registry,Libya,electoral,SMS digital registration,High National Elections Commission,,2025-12-08-lby-hnec-decision-253-2025-voter-register-update-regulation
+LBY,HNEC SMS registration 17017,Libya,electoral,SMS,HNEC,national,2025-04-14-lby-560-896-registered-for-libyan-municipal-elections
+LBY,HNEC SMS service 17017,Libya,electoral,SMS,HNEC,national,2025-02-25-lby-hnec-sms-voter-registration-check

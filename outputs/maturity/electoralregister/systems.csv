@@ -82,6 +82,8 @@ LBR,National Identification Registry (NIR),Liberia,other,biometric national ID,N
 LBR,Biometric voter registry,Liberia,electoral,Laxton and Neurotechnology,National Elections Commission,,2024-11-11-lbr-liberia-eyes-biometrics-for-voter-authentication
 LBY,HNEC electronic voter verification,Libya,electoral,biometric devices at election centres,National High Electoral Commission (HNEC),"municipal pilot, four municipalities",2024-08-19 Libya implements biometric voter verification in municipal council elections
 LBY,Voter registry,Libya,electoral,SMS digital registration,High National Elections Commission,,2025-12-08-lby-hnec-decision-253-2025-voter-register-update-regulation
+LBY,HNEC SMS registration 17017,Libya,electoral,SMS,HNEC,national,2025-04-14-lby-560-896-registered-for-libyan-municipal-elections
+LBY,HNEC SMS service 17017,Libya,electoral,SMS,HNEC,national,2025-02-25-lby-hnec-sms-voter-registration-check
 LSO,Voter Registration Management System,LSO,electoral,outsourced software; IEC holds no source key,Independent Electoral Commission,,2024-01-01-lso-undp-voter-registration-roundtable
 LSO,Electoral Management Information System,Lesotho,electoral,,Independent Electoral Commission,,2024-10-23-lso-lestimes-iec-emis-tender-battle
 LSO,IEC online voter registration portal,Lesotho,electoral,IEC website,Independent Electoral Commission,,2024-10-16-lso-publiceye-iec-re-registration-national-id
@@ -151,6 +153,8 @@ TGO,biometric kits for electoral list revision,Togo,electoral,ZETES/SNEDAI,CENI,
 TGO,fichier électoral,Togo,electoral,,CENI,,2025-04-01-tgo-la-revision-des-listes-electorales-annoncee-du-07-au-23-avril-2025-en
 TUN,ISIE voter register update (touenssa.isie.tn),Tunisia,electoral,,ISIE,,2023-11-13-tun-economistemaghrebin-isie-mise-a-jour
 TUN,Registre des électeurs,Tunisia,electoral,database kept by the electoral body,ISIE,,2014-05-26-tun-legislationsecurite-loi-organique-2014-16-elections
+TUN,Touenssa.isie.tn,Tunisia,electoral,web and SMS,ISIE,national,2024-05-06-tun-isie-actualisation-du-registre-electoral-a-partir-du-20-mai-courant
+TUN,ISIE mobile application,Tunisia,other,app,ISIE,national,2024-04-16-tun-isie-vers-l-actualisation-du-registre-electoral
 TZA,permanent voter register,Tanzania,electoral,,Independent National Electoral Commission (INEC),,2025-08-04-inec-tanzania-responds-to-concerns-over-voter-register-numbers
 TZA,Biometric Voter Registration Kit (BVR Kit),Tanzania,electoral,"Android tablet, printer, fingerprint scanner",INEC,,2025-03-06-tza-inec-highlights-new-bvr-kit-functionality-android-based-more-portable
 TZA,"Permanent Voters' Register (BVR kits, Voters Registration System)",Tanzania,electoral,,INEC,,2024-06-08-tza-inec-unveils-upgraded-bvr-kits-for-smooth-register-update

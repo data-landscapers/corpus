@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TUN,ISIE voter register update (touenssa.isie.tn),Tunisia,electoral,,ISIE,,2023-11-13-tun-economistemaghrebin-isie-mise-a-jour
 TUN,Registre des électeurs,Tunisia,electoral,database kept by the electoral body,ISIE,,2014-05-26-tun-legislationsecurite-loi-organique-2014-16-elections
+TUN,Touenssa.isie.tn,Tunisia,electoral,web and SMS,ISIE,national,2024-05-06-tun-isie-actualisation-du-registre-electoral-a-partir-du-20-mai-courant
+TUN,ISIE mobile application,Tunisia,other,app,ISIE,national,2024-04-16-tun-isie-vers-l-actualisation-du-registre-electoral

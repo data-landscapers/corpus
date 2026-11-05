@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "2",
+      "stage": "4",
       "roll": "underway",
-      "checked": "",
+      "checked": "open",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-001;LBY-002",
-      "gaps": "No source since October 2023 says a digital roll is in service; the 2025 regulation's check against the civil registry is not shown carried out.",
-      "note": "Reassessed 2026-11-04: HNEC's Decision 253 of December 2025 sets up digital registration and a check against the civil registry. A regulation is intent, and nothing says a digital roll is in service.",
-      "as_at": "2026-11-04"
+      "stage_sources": "LBY-001;LBY-002;LBY-004;LBY-005",
+      "gaps": "The 2025 regulation's check against the civil registry is not shown carried out.",
+      "note": "Reassessed 2026-11-05: HNEC published the municipal voter lists in April 2025 and let voters check their registration by SMS from February 2025, which answers the digital-roll rung too. Decision 253's check against the civil registry is a regulation and is not shown carried out, so not stage 5.",
+      "as_at": "2026-11-05"
     }
   ]
 }
