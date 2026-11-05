@@ -1,16 +1,17 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "ictjobs",
-   "stage": "4",
-   "jobs": "official:2.1948",
-   "youth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-003",
-   "gaps": "No source found since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
-   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "ictjobs",
+      "stage": "4",
+      "jobs": "official:2.1948",
+      "youth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-003",
+      "gaps": "The around 9 per cent youth unemployment figure is not attributed to the national labour force survey.",
+      "note": "The latest figure, 2.19 per cent of employment for 2025, clears 1. A World Bank report of September 2026 puts youth unemployment at around 9 per cent without naming the survey, which the study counts as other, so question 4 is not met.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

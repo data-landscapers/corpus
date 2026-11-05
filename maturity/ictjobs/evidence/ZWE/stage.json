@@ -1,16 +1,17 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "ictjobs",
-   "stage": "1",
-   "jobs": "official:0.2485",
-   "youth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-005",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "ictjobs",
+      "stage": "1",
+      "jobs": "official:0.2485",
+      "youth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-005",
+      "gaps": "",
+      "note": "The latest figure, 0.25 per cent of employment for 2025, is below 0.3. Question 4 is asked only beside a figure of 1 or more.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

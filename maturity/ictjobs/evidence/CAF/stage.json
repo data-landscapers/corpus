@@ -1,16 +1,17 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "ictjobs",
-   "stage": "no evidence",
-   "jobs": "",
-   "youth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found gives employment in information and communication.",
-   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "ictjobs",
+      "stage": "no evidence",
+      "jobs": "",
+      "youth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found gives employment in information and communication.",
+      "note": "No figure for employment in information and communication is held, from ILOSTAT or elsewhere.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

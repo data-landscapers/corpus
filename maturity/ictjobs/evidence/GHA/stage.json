@@ -1,16 +1,17 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "ictjobs",
-   "stage": "2",
-   "jobs": "official:0.3146",
-   "youth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-005",
-   "gaps": "The latest figure, 0.31 per cent of employment for 2025, is below 0.6.",
-   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "ictjobs",
+      "stage": "2",
+      "jobs": "official:0.3146",
+      "youth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-005",
+      "gaps": "The latest figure, 0.31 per cent of employment for 2025, is below 0.6.",
+      "note": "The latest figure, 0.31 per cent of employment for 2025, is at least 0.3 and below 0.6. Question 4 is asked only beside a figure of 1 or more.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

@@ -1,16 +1,17 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "ictjobs",
-   "stage": "4",
-   "jobs": "official:1.2923",
-   "youth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNQ-001",
-   "gaps": "No source found since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
-   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "ictjobs",
+      "stage": "4",
+      "jobs": "official:1.2923",
+      "youth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-001",
+      "gaps": "No source found since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
+      "note": "The latest figure, 1.29 per cent of employment for 2023, clears 1; no source since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

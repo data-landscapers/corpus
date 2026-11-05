@@ -1,16 +1,17 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "ictjobs",
-   "stage": "4",
-   "jobs": "official:3.3873",
-   "youth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-004",
-   "gaps": "No source found since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
-   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "ictjobs",
+      "stage": "4",
+      "jobs": "official:3.3873",
+      "youth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-004",
+      "gaps": "Youth unemployment was 18.4 per cent in 2025 on the national labour force survey, above 14 per cent.",
+      "note": "The latest figure, 3.39 per cent of employment for 2024, clears 1. Statistics Mauritius's 2025 labour force survey puts youth unemployment at 18.4 per cent, above 14, so question 4 is not met.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

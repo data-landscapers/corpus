@@ -1,16 +1,17 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "ictjobs",
-   "stage": "unplaced",
-   "jobs": "",
-   "youth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2023 or later has been found for employment in information and communication.",
-   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "ictjobs",
+      "stage": "unplaced",
+      "jobs": "",
+      "youth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No figure for 2023 or later has been found for employment in information and communication.",
+      "note": "The latest figure held, 0.34 per cent of employment for 2022, is before 2023, so no rung is set.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

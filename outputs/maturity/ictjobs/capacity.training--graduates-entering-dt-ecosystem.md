@@ -1,6 +1,6 @@
 # Graduates entering DT ecosystem: ICT employment
 
-*As at 2026-09-30.*
+*As at 2026-11-05.*
 
 ## The norm
 
@@ -56,7 +56,7 @@ In 2024, information and communication employed 1.15 per cent of all workers.
 
 ### Mauritius: 4 Operating
 
-In 2024, information and communication employed 3.39 per cent of all workers.
+In 2024, information and communication employed 3.39 per cent of all workers; youth unemployment was 18.4 per cent in 2025.
 
 - Information and communication employed 3.39 per cent of all workers in Mauritius in 2024, by ILOSTAT's labour force series ([source, 2024](https://ilostat.ilo.org/data/)).
 
@@ -68,7 +68,7 @@ In 2023, information and communication employed 1.38 per cent of all workers.
 
 ### Seychelles: 4 Operating
 
-In 2025, information and communication employed 2.19 per cent of all workers.
+In 2025, information and communication employed 2.19 per cent of all workers; youth unemployment on the national survey is not known.
 
 - Information and communication employed 2.19 per cent of all workers in Seychelles in 2025, by ILOSTAT's labour force series ([source, 2025](https://ilostat.ilo.org/data/)).
 
@@ -116,7 +116,7 @@ In 2024, information and communication employed 0.31 per cent of all workers.
 
 ### Senegal: 2 Nascent
 
-In 2024, information and communication employed 0.6 per cent of all workers.
+In 2024, information and communication employed 0.596 per cent of all workers, just under 0.6.
 
 - Information and communication employed 0.6 per cent of all workers in Senegal in 2024, by ILOSTAT's labour force series ([source, 2024](https://ilostat.ilo.org/data/)).
 
