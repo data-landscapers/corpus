@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: MLI
-ledger_rows: 7
-not_held: 2
-record: a642e8dd44ce
+ledger_rows: 9
+not_held: 1
+record: 623dc3f00826
 ---
 
 # News, Oct – Nov 2026
@@ -54,6 +54,8 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -67,6 +69,36 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 **[Bakel : inauguration de l’interconnexion des “backbones” du Sénégal et du Mali](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/)** — APS, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Senegal's and Mali's state fibre operators inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing on 5 October, to secure and diversify routes between the two countries. No capacity or cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National internet exchange point</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXP Tracker - Mali](https://pulse.internetsociety.org/en/ixp-tracker/country/ML/)** — Internet Society Pulse, 1 November 2026
+
+One active exchange point with 7 members as of November 2026; resilience score 46/100.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ML-CERT national incident response centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Mali lance une plateforme web pour signaler les incidents de cybersécurité](https://www.wearetech.africa/fr/fils/actualites/tech/le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite)** — wearetech.africa, 4 November 2026
+
+Mali's computer incident response centre ML-CERT launched a web platform for reporting cyber incidents and sharing threat information. The launch came at the fourth National Cybersecurity Days, held by the regulator AMRTP in Bamako on 26-30 October 2026. The national cybercrime unit recorded 1,338 cases in 2025, of which 1,130 were complaints.
 
 </div>
 

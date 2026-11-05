@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-11-04
+compiled: 2026-11-05
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 182
+sources_cited: 184
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -135,7 +135,7 @@ In March 2026 [the ban on non-homologated Starlink and WiFi Zone equipment was r
 
 [Mali's internet and computers score rose 19.8 points over 2014-2023 to 31.8 out of 100, 29th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). [Its mobile communications score rose 19.9 points to 60.5, 37th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). [The Infrastructure sub-category scored 36.4, 30th of 54, after a gain of 8.4 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). [The postal and shipping network score fell 16.3 points to 15.6, 40th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). [Malians' own rating of infrastructure provision rose 13.6 points to 46.7, 16th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf).
 
-[MLIX, Mali's single internet exchange point, was established in Bamako in February 2018 and is managed by the regulator AMRTP, with five participating networks](https://www.pch.net/ixp/details/2019). [The Chinese-financed Mali Digital 2020 project was designed around intercity fibre from Kidal, Gao and Timbuktu to Mopti and on to the Guinean, Algerian and Burkinabè borders](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0). [On 5 October 2026 the Malian and Senegalese state fibre operators inaugurated the interconnection of their backbones at Kidira-Diboli](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
+[MLIX, Mali's single internet exchange point, was established in Bamako in February 2018 and is managed by the regulator AMRTP](https://www.pch.net/ixp/details/2019). [In November 2026 it was the one active exchange listed for Mali, with seven members](https://pulse.internetsociety.org/en/ixp-tracker/country/ML/). [The Chinese-financed Mali Digital 2020 project was designed around intercity fibre from Kidal, Gao and Timbuktu to Mopti and on to the Guinean, Algerian and Burkinabè borders](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0). [On 5 October 2026 the Malian and Senegalese state fibre operators inaugurated the interconnection of their backbones at Kidira-Diboli](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
 
 ### Data Storage
 <!-- infra.store -->
@@ -165,7 +165,7 @@ In February 2024 Mali [moved its national identity database to Mali Kura Biomét
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-[In December 2025 the Council of Ministers approved a national cybersecurity strategy for 2026-2030](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-to-launch-national-cybersecurity-strategy-this-year). [Mali scored 29.47 out of 100 on the ITU Global Cybersecurity Index 2024, in the fourth of five tiers](https://statbase.org/data/mli-global-cybersecurity-index/). [It was relatively strong on legal measures and weak on organisational and capacity-development ones](https://statbase.org/data/mli-global-cybersecurity-index/). [On 10 June 2026 the Council of Ministers approved the creation of a national information systems security agency](https://koulouba.ml/communique-du-conseil-des-ministres-du-mercredi-10-juin-2026-cm-n2026-23-sgg/).
+[In December 2025 the Council of Ministers approved a national cybersecurity strategy for 2026-2030](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-to-launch-national-cybersecurity-strategy-this-year). [Mali scored 29.47 out of 100 on the ITU Global Cybersecurity Index 2024, in the fourth of five tiers](https://statbase.org/data/mli-global-cybersecurity-index/). [It was relatively strong on legal measures and weak on organisational and capacity-development ones](https://statbase.org/data/mli-global-cybersecurity-index/). [On 10 June 2026 the Council of Ministers approved the creation of a national information systems security agency](https://koulouba.ml/communique-du-conseil-des-ministres-du-mercredi-10-juin-2026-cm-n2026-23-sgg/). [At the National Cybersecurity Days of 26-30 October 2026 the incident response centre ML-CERT launched a web platform for reporting incidents](https://www.wearetech.africa/fr/fils/actualites/tech/le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite).
 
 [The criminal chamber of the Pôle national de lutte contre la cybercriminalité began hearing cases on 21 May 2026](https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029). In August 2026 [it convicted Chahana Takiou, publication director of 22 septembre, of atteinte au crédit de l'État à travers l'institution judiciaire](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac). [On 14 September 2026 it sentenced a second editor, Abdrahamane Keïta, to two years in prison](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html). In July 2026 the justice minister [directed that networks trafficking in depraved content on social media be pursued under penal and cybercrime provisions already in force](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs). [The direction created no new offence](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs).
 
