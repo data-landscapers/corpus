@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: CMR
-ledger_rows: 22
+ledger_rows: 23
 not_held: 3
-record: 8f5a9b05e5a6
+record: b58c7d28e77b
 ---
 
 # News, Oct – Nov 2026
@@ -305,6 +305,20 @@ Cameroon's chamber of commerce (CCIMA) trained its staff and trade bodies in Dou
 **[Customs, Afreximbank plan Nigeria-Benin, Cameroon border upgrade](https://www.vanguardngr.com/2026/10/customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade/amp/)** — Vanguard News, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè–Kraké and Mfum–Ekok border corridors with Benin and Cameroon. The plans include a system for exchanging customs declarations between the three countries on a common data model; no cost or loan has been agreed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National health interoperability platform (OpenHIM and OpenFn)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé numérique : le Cameroun accélère l’interconnexion de ses systèmes d’information sanitaires](https://scores2000.info/2026/11/sante-numerique-le-cameroun-accelere-l-interconnexion-de-ses-systemes-d-information-sanitaires.html)** — Scores2000, 3 November 2026
+
+Kribi workshop 27-31 Oct 2026; OpenHIM/OpenFn hub at CAMTEL; revised framework, health-software accreditation.
 
 </div>
 
