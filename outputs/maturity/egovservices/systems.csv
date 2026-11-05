@@ -117,6 +117,7 @@ EGY,interactive electronic platform for consular services,Egypt,eservices,"mobil
 EGY,Digital Egypt platform,Egypt,eservices,,,,2026-10-24-egy-egypt-forum-2026-outlines-sweeping-development-agenda-to-raise-living-standards
 EGY,IDEIA,Egypt,eservices,digital platform,Ministry of Local Development and Environment,,2026-11-01-egy-egypt-launches-digital-environmental-impact-assessment-system-ends-pap
 EGY,Digital Egypt,Egypt,eservices,"misr.gov.eg, mobile app, 15999 hotline",Government of Egypt,,2026-08-02-egy-your-guide-to-navigating-egypt-s-online-government-services
+EGY,Unified National System for International Cooperation,Egypt,other,electronic government platform,"Ministry of Foreign Affairs, International Cooperation and Egyptian Expatriates",,2026-11-04-egy-foreign-minister-first-phase-of-unified-system-for-int-l-cooperation-c
 ERI,Consular Affairs Processing System (CAPS),Eritrea,eservices,,Ministry of Foreign Affairs,,2024-09-24-eri-embassy-us-launch-caps-online-consular
 ETH,National Rural Land Administration Information System (NRLAIS),ETH,other,,Ministry of Agriculture,,2024-05-30-moa-e-services-nrlais
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
@@ -143,6 +144,7 @@ GHA,Ghana.gov,Ghana.gov,eservices,,,,2025-05-27-gha-dial-adli-data-exchange-exem
 GHA,Citizens App,Citizens App,eservices,,,,2025-05-27-gha-dial-adli-data-exchange-exemplars
 GHA,Ghana.gov portal,Ghana,eservices,,Government of Ghana,,2024-05-14-gha-ghana-s-e-initiatives-good-model-for-digital-transformation-in-africa
 GHA,Business Regulations E-Registry,Ghana,other,web registry,Business Regulatory Reform unit,,2024-03-26-gha-transforming-governance-in-ghana-a-new-regulatory-service-model-for-af
+GHA,Ghana.gov eGovernment Digital Services platform,Ghana.gov eGovernment Digital Services Platform,other,,"Ministry of Communication, Digital Technology and Innovations",,2026-11-01-gha-wb-contract-award-ghana-gov-egovernment-platform
 GIN,e-Services,Guinea,eservices,national e-Services platform,Agence Nationale de Digitalisation de l'État (ANDE),national,2026-05-07-ande-deploiement-plateforme-nationale-e-services
 GIN,Ngaynaako,Guinea,eservices,,Ministry of Livestock,,2026-10-22-gin-guinee-le-ministere-de-lelevage-lance-ngaynaako-son-guichet-unique-num
 GIN,Konkoé (SIGPEM),Guinea,other,Konkoé,Ministry of Fisheries and Maritime Economy,,2026-10-27-gin-djiba-diakite-un-etat-moderne-se-mesure-a-la-qualite-du-service-qu-il-rend
@@ -267,6 +269,7 @@ MWI,e-Government Procurement (eGP),Malawi,other,,PPDA,,2024-01-01 The National D
 MWI,e-Government Marketplace (eGM),Malawi,other,,PPDA,,2024-01-01 The National Digitalization Initiative Transforming Public Procurement in Malawi
 MWI,Bomalathu e-services portal,Malawi,eservices,,Ministry of Information and Communications Technology (DMAP),,2026-09-04-broadcastmediaafrica-malawi-dmap-phase2-worldbank
 MWI,Boma Lathu,Malawi,eservices,web portal,Ministry of Information and Digitalisation,,2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery
+MWI,MANePS,Malawi,other,,PPDA,,2026-11-03-mwi-ppda-tough-on-registration
 NAM,Interoperability Platform (X-Road model),Namibia,other,X-Road,Office of the Prime Minister (DPSITM),,2024-10-01-namibia-eec-egovernment-consultancy-interoperability-framework
 NAM,Nam-X,Namibia,other,Cybernetica UXP,Office of the Prime Minister (DPSeGM),,2024-01-01-namibia-governmental-interoperability-framework-nam-x
 NAM,mySSC,Namibia,eservices,web portal and Self-Serve Point kiosks,Social Security Commission,,2025-06-05-nam-social-security-commission-enhances-efficiency-with-new-digital-platfo
@@ -336,6 +339,7 @@ STP,Centro Nacional de Dados (NDC),STP,other,,INIC,,2025-03-12-stp-bragatv-grupo
 STP,Citizen Portal and mobile application,Citizen Portal,eservices,gov.st domain,INIC,,2026-01-01-stp-digitising-a-nation-s-public-service-delivery
 STP,Document Issuance System,São Tomé and Príncipe,eservices,digital portal,Directorate-General for Registry and Notary,,2026-02-11-stp-government-launches-document-issuance-system-at-the-embassy-of-sao-tom
 STP,Portal Único do Cidadão,São Tomé e Príncipe,eservices,,INIC / Government,beta,2026-03-27-stp-sao-tome-e-principe-avanca-na-transformacao-digital-com-lancamento-do
+STP,Tribunal de Contas electronic accounts system,Sao Tome and Principe,other,,Tribunal de Contas,,2026-11-03-stp-tribunal-de-contas-vai-lancar-em-2027-o-sistema-digital-de-prestacao-de-contas-s
 SWZ,Government in Your Hand,Eswatini,eservices,,Ministry of ICT,,2026-09-24-swz-times-national-data-centre-incident
 SWZ,National Data Centre,Eswatini,other,,Royal Science and Technology Park,,2026-09-24-swz-times-national-data-centre-incident
 SWZ,Health Information Exchange,Eswatini,other,HL7/FHIR,Ministry of Health,,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
@@ -345,6 +349,7 @@ SWZ,Government in Your Hand (GIYH),Eswatini,eservices,,Ministry of ICT,,2026-10-
 SWZ,e-Visa,Eswatini,eservices,,,,2026-10-24-swz-govt-restores-13-online-services-website-still-down
 SWZ,Government in Your Hand,Eswatini,eservices,mobile app,Ministry of ICT,,2026-07-20-swz-ict-ministry-records-strong-start-as-digital-rollout-gains-momentum
 SWZ,Government-In-Your-Hand app,Eswatini,eservices,"mobile app (App Store, Google Play)",Ministry of ICT,,2025-06-11-swz-over-2k-downloads-government-in-your-hand-app
+SWZ,online company registration service,Eswatini,eservices,,"Ministry of Commerce, Industry and Trade",,2026-11-03-swz-digital-company-registrations-plunge-70
 SYC,gov.sc,Seychelles,eservices,,Government of Seychelles,,2026-06-23-nation-sc-revamped-govsc-portal
 SYC,monServis,Seychelles,eservices,,Government of Seychelles,,2024-01-01-monservis-government-services-portal
 SYC,SeyID,Seychelles,other,,Government of Seychelles,,2024-01-01-monservis-government-services-portal
@@ -353,6 +358,7 @@ SYC,My e-Services,Seychelles,eservices,SPF online,Seychelles Pension Fund,,2026-
 SYC,e-Contribution Platform,Seychelles,eservices,SPF online,Seychelles Pension Fund,,2026-07-30-syc-seychelles-pension-fund-showcases-digital-innovation-during-productivi
 SYC,monServis,monServis,eservices,,DICT,,2026-04-25-syc-import-and-export-services-to-transition-to-monservis-portal-on-may-1
 SYC,E-Services Gateway,E-Services Gateway,eservices,,,,2026-04-25-syc-import-and-export-services-to-transition-to-monservis-portal-on-may-1
+SYC,SeyAlert,Seychelles,other,mobile app and SMS,Department of Risk and Disaster Management,,2026-11-02-syc-seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app
 TCD,e-Notaire,Tchad,eservices,online platform,Ministry of Finance,,2024-12-03-tcd-portail-td-lancement-e-notaire
 TCD,eVisa.td,Chad,eservices,,Ministry of Finance / National Police,,2024-12-11-tcd-chad-launches-electronic-visa-system
 TGO,national public services portal,Togo,eservices,,Ministry of Public Service Efficiency and Digital Transformation,,2026-09-29-tgo-togofirst-online-public-services-portal-adds-procedures
