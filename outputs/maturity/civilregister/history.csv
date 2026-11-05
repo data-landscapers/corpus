@@ -97,3 +97,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,MOZ,dpi.registry--civil-register,fact,2,2,MOZ-003;MOZ-001,UNICEF 2024: all 165 conservatories digitised; the registry's newer 2026 page still says proposed; unchanged
 2026-10-25,GAB,dpi.registry--civil-register,fact,no evidence,2,GAB-001,CHU Libreville's doctoViene online birth declaration (Jun 2024): a pilot; first row
 2026-10-25,NAM,dpi.registry--civil-register,review,5,4,NAM-004;NAM-005,"Bill, 2026-10-25: a national birth registration rate may include paper registration; not shown for the digital system"
+2026-11-05,KEN,dpi.registry--civil-register,fact,2,2,KEN-002;KEN-001,"Identity Week: e-birth service ~300,000 births by Oct 2026, still expanding across the country; national not shown, stays 2"

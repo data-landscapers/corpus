@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-002;KEN-001",
-      "gaps": "No source found since October 2023 says births are registered digitally across the country.",
-      "note": "Birth e-notification and online certificates exist (2026), but e-notification is still being extended to all SHA hospitals, by December 2026.",
-      "as_at": "2026-10-24"
+      "gaps": "No source found since October 2023 says births are registered digitally across the country. In October 2026 the e-service was still expanding, with nearly 300,000 births recorded.",
+      "note": "The birth e-service recorded nearly 300,000 births by October 2026 but was still expanding across the country, and e-notification was to reach all SHA hospitals by December 2026. National digital birth registration is not shown, so it stays at 2.",
+      "as_at": "2026-11-05"
     }
   ]
 }

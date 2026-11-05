@@ -110,6 +110,7 @@ GIN,Registre national d'identite (RNPP),Guinee,other,,ONECI,,2026-07-25-mediagui
 GIN,Registre national de l'Etat civil (RNEC),Guinea,civil,,ONECI,,2026-03-29-plfi-2026-matd-commission-des-lois-cnt
 GIN,RNEC,Registre National de l'Etat Civil,civil,,,,2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census
 GIN,RENEC (Registre national de l'état civil),Guinée,civil,Digitech,MATD / ONECI,,2026-10-28-gin-guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-sec
+GIN,PN-RAVEC,Guinea,other,,MATD,,2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometrique
 GMB,Electronic Civil Registration and Vital Statistics (ECRVS),Gambia,civil,,Government of The Gambia,,2025-06-20-govt-integrate-id-cards-ecrvs-thepoint
 GMB,eCRVS,The Gambia,civil,,Ministry of Health,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
 GMB,eCRVS,The Gambia,civil,,Registrar General CRVS,,2026-07-18-uneca-fatty-overview-of-crvs-in-the-gambia
@@ -130,6 +131,7 @@ KEN,E-notification,Kenya,civil,,State Department for Immigration and Citizen Ser
 KEN,Unique Personal Identifier (UPI),Kenya,other,,,,2026-10-06-ken-kenyans-e-notification-birth-registration-sha-hospitals
 KEN,Live Capture Units,Kenya,other,,National Registration Bureau,county,2026-10-05-parliament-probes-delays-in-issuance-of-ids
 KEN,Electronic birth notification,Kenya,civil,,,,2026-06-26-ngao-trained-revised-id-registration
+KEN,e-birth register (digital birth registration e-service),Kenya,civil,,State Department for Immigration and Citizen Services,,2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days
 LBR,Birth Registration Information Management System (BRIMS),Liberia,civil,DHIS2,"Ministry of Health, supported by UNICEF","15 counties, 58 centers",2024-12-11-unicef-liberia-children-legal-identity
 LBR,NID-CRVS system (proposed),Liberia,other,,National Identification Registry with OSD International,,2026-09-14-liberia-nid-crvs-link-osd-ppp-biometricupdate
 LBR,National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS),NIDCRVS,other,,Government of Liberia (proposed; OeSD International GmbH as contractor),,2026-10-16-lbr-newdawn-house-scrutinizes-52m-national-id-deal
@@ -160,6 +162,7 @@ MAR,nouveau système d'information de l'état civil,Morocco,civil,,"Ministry of 
 MAR,watiqa.ma,Morocco,other,online portal,,,2026-09-15-programme-de-modernisation-de-letat-civil
 MAR,alhalalmadania.ma,Morocco,civil,portal,,,2026-09-15-programme-de-modernisation-de-letat-civil
 MAR,السجل الوطني للحالة المدنية,Morocco,civil,,Ministry of the Interior,,2025-10-28-hnews-wazir-dakhiliya-rakmanat-halat-madaniya
+MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
 MDG,Izaho Tokana 2.0,Madagascar,civil,biometric registration,Government of Madagascar with OIF,national,2026-09-16-mdg-midimadagasikara-etat-civil-oif-izaho-tokana
 MDG,EC-MADA,Madagascar,civil,OCR/AI digitisation of paper registers,"national programme, delivered by Studia Inc","1,695 communes in 11 regions",2026-05-08-studia-ai-digitisation-civil-records-intelligentcio
 MDG,EC-MADA,Madagascar,civil,OCR/AI digitisation of paper registers,"national programme, delivered by Studia Inc","1,695 communes in 11 regions",2026-04-27-studia-inc-civil-registration-digitisation-madagascar
@@ -236,6 +239,7 @@ RWA,NCI_CRVS,Rwanda,civil,,NISR (statistics publisher),,2026-04-16-rwanda-vital-
 RWA,National Digital Civil Registration and Vital Statistics system,Rwanda,civil,,MINALOC,national,2026-01-28-rwanda-completes-digitalisation-crvs-modules
 RWA,Civil Registration and Vital Statistics (CRVS) system,Rwanda,civil,,,,2024-05-06-rwandan-government-launches-imibereho-dynamic-social-registry
 RWA,Imibereho Dynamic Social Registry System,Rwanda,other,,MINALOC,,2024-05-06-rwandan-government-launches-imibereho-dynamic-social-registry
+RWA,Irembo,Rwanda,other,web portal,MINICT,,2025-11-05-rwa-irembo-platform-transforms-access-to-public-services
 SDN,South Gezira civil registry centre (Al-Hosh office),Sudan,civil,,"Civil registry, police",locality,2026-05-17-south-gezira-al-hosh-first-electronic-birth-certificate
 SDN,Civil registry (national number and birth certificate issuance),Sudan,other,,Gezira State civil registry administration,"state, locality",2026-04-29-gezira-umm-al-qura-civil-registry-relaunch
 SDN,"National registry (civil registry, Ministry of Interior)",Sudan,other,,Ministry of Interior civil registry,national,2026-03-16-sudan-health-civil-registry-digitisation-committee
