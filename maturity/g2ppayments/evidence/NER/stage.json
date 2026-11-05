@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "no evidence",
-   "payment": "",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how government pays people.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "no evidence",
+      "payment": "",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says how government pays people.",
+      "note": "No evidence row on government payments to people is held, so no stage is set.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

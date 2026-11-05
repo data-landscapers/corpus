@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SSD-001;SSD-002",
-      "gaps": "No source found since October 2023 says: does one government programme pay people digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service.",
+      "note": "A 2024 circular and 2025 directives move civil servants' salaries onto bank accounts, so stage 2. Officials say only that the shift is under way, so not stage 3.",
+      "as_at": "2026-11-05"
     }
   ]
 }

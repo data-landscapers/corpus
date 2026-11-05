@@ -1,17 +1,18 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "2",
-   "payment": "underway",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNB-001",
-   "gaps": "No source found since October 2023 says: does one government programme pay people digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "2",
+      "payment": "underway",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-001",
+      "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service.",
+      "note": "The prime minister promised in September 2026 to pay teachers through banks or Orange Money, an intent that reaches stage 2 at most. No source says a salary is paid digitally in service.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

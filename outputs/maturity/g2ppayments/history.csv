@@ -29,3 +29,52 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,SDN,dpi.pay--g2p-functionality,fact,unplaced,3,SDN-002,"Finance ministry, April 2026: decisions 149 and 150 on paying workers' entitlements through bank accounts in effect: one stream in service"
 2026-10-27,GHA,dpi.pay--g2p-functionality,fact,5,5,GHA-003;GHA-002;GHA-006,"OSP and CAGD payroll report: salaries paid into bank accounts, a second stream beside LEAP; stage 5 holds"
 2026-10-29,LBY,dpi.pay--g2p-functionality,fact,3,4,LBY-001;LBY-003;LBY-006,"GACI (Jun 2026): children's allowance disbursed electronically; with digital salaries, two streams, 3 to 4"
+2026-11-05,GNQ,dpi.pay--g2p-functionality,review,no evidence,no evidence,,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,MUS,dpi.pay--g2p-functionality,review,no evidence,no evidence,,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,NER,dpi.pay--g2p-functionality,review,no evidence,no evidence,,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,BFA,dpi.pay--g2p-functionality,review,unplaced,unplaced,,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,CPV,dpi.pay--g2p-functionality,review,unplaced,unplaced,,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,DZA,dpi.pay--g2p-functionality,review,unplaced,unplaced,,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,ERI,dpi.pay--g2p-functionality,review,unplaced,unplaced,,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,MOZ,dpi.pay--g2p-functionality,review,unplaced,unplaced,,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,SYC,dpi.pay--g2p-functionality,review,unplaced,unplaced,,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,CMR,dpi.pay--g2p-functionality,review,2,2,CMR-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,COD,dpi.pay--g2p-functionality,review,2,2,COD-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,ETH,dpi.pay--g2p-functionality,review,2,2,ETH-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,GNB,dpi.pay--g2p-functionality,review,2,2,GNB-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,KEN,dpi.pay--g2p-functionality,review,2,2,KEN-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,MDG,dpi.pay--g2p-functionality,review,2,2,MDG-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,SSD,dpi.pay--g2p-functionality,review,2,2,SSD-001;SSD-002,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,TCD,dpi.pay--g2p-functionality,review,2,2,TCD-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,AGO,dpi.pay--g2p-functionality,review,3,3,AGO-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,BDI,dpi.pay--g2p-functionality,review,3,3,BDI-002;BDI-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,BEN,dpi.pay--g2p-functionality,review,3,3,BEN-003,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,BWA,dpi.pay--g2p-functionality,review,3,3,BWA-001;BWA-002,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,CAF,dpi.pay--g2p-functionality,review,3,3,CAF-001;CAF-003,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,CIV,dpi.pay--g2p-functionality,review,3,3,CIV-001;CIV-002,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,COG,dpi.pay--g2p-functionality,review,3,3,COG-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,COM,dpi.pay--g2p-functionality,review,3,3,COM-003;COM-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,EGY,dpi.pay--g2p-functionality,review,3,3,EGY-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,GAB,dpi.pay--g2p-functionality,review,3,3,GAB-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,GIN,dpi.pay--g2p-functionality,review,3,3,GIN-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,GMB,dpi.pay--g2p-functionality,review,3,3,GMB-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,LSO,dpi.pay--g2p-functionality,review,3,3,LSO-003,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,MAR,dpi.pay--g2p-functionality,review,3,3,MAR-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,MLI,dpi.pay--g2p-functionality,review,3,3,MLI-001;MLI-003,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,RWA,dpi.pay--g2p-functionality,review,3,3,RWA-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,SLE,dpi.pay--g2p-functionality,review,3,3,SLE-001;SLE-002,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,SOM,dpi.pay--g2p-functionality,review,3,3,SOM-002;SOM-003,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,STP,dpi.pay--g2p-functionality,review,3,3,STP-001;STP-002,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,SWZ,dpi.pay--g2p-functionality,review,3,3,SWZ-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,TGO,dpi.pay--g2p-functionality,review,3,3,TGO-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,TUN,dpi.pay--g2p-functionality,review,3,3,TUN-002,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,ZAF,dpi.pay--g2p-functionality,review,3,3,ZAF-002;ZAF-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,ZMB,dpi.pay--g2p-functionality,review,3,3,ZMB-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,ZWE,dpi.pay--g2p-functionality,review,3,3,ZWE-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,SEN,dpi.pay--g2p-functionality,review,4,4,SEN-003,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,LBR,dpi.pay--g2p-functionality,review,5,5,LBR-002,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,MRT,dpi.pay--g2p-functionality,review,5,5,MRT-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,NAM,dpi.pay--g2p-functionality,review,5,5,NAM-002,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,NGA,dpi.pay--g2p-functionality,review,5,5,NGA-002;NGA-004,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,TZA,dpi.pay--g2p-functionality,review,3,unplaced,,"Rebuild: the one row, ZSTC paying clove farmers through Mixx, is a crop purchase, not a transfer, salary or pension; classed other, so 3 to unplaced."
+2026-11-05,UGA,dpi.pay--g2p-functionality,review,3,5,UGA-003;UGA-002,"Rebuild: SAGE eligibility checked against the national ID date of birth (Oct 2026) answers question 4, and a later yes answers the earlier ones; PDM loans classed other; 3 to 5."

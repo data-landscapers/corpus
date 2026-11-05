@@ -67,8 +67,9 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 - [x] **D1. Read**, 2026-10-16: the batch's shared calls and this study's own, Sonnet drafters; 74 facts after the parent's corrections (`corrections.csv`).
 - [x] **D2. Staged** as at 2026-09-30: 4 at 5, 1 at 4, 22 at 3, 7 at 2; unplaced 1, no evidence 19. Every cell is a first pass; no second drafter.
 - [x] **D3. Written, rendered and linted**, by `study-first-write.py`; on the soft-launch map. Reported to Bill.
+- [x] **D4. Rebuilt**, 2026-11-05 (`MATURITY-UPDATE.md` steps 1 to 7): the 49 first-pass cells read afresh and logged `review`. Second drafter (method §7.3) by the parent's own re-read from `evidence.csv`, not blind, no agent started: 19 of 20 agree, Tanzania split; `agreement.csv`. Tanzania 3 to unplaced, Uganda 3 to 5.
 
-**Decided in the run**: Removed: Seychelles' payments through the registry, still planned; Tunisia's unique identifier, still being introduced.
+**Decided in the run**: Removed: Seychelles' payments through the registry, still planned; Tunisia's unique identifier, still being introduced. Classed other in the rebuild: payments to Zanzibar clove farmers for their crop and Parish Development Model loans in Uganda, which are not transfers, salaries or pensions.
 
 ## Boundary
 

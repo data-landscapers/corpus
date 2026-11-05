@@ -20,12 +20,12 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 7 |
 | 4 Operating | 2 |
-| 3 Established | 28 |
+| 3 Established | 26 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 6 |
+| Unplaced | 7 |
 | No evidence | 3 |
 
 ## Countries
@@ -70,6 +70,13 @@ Government payments to people were checked against the national ID or social reg
 - The World Bank says payments to recipients' bank accounts are made after validating individuals through the NIN or BVN, and low NIN/BVN coverage among the poor slowed the rollout ([source, 2024-10-08](https://nairametrics.com/2024/10/20/over-4-million-households-benefit-from-fgs-cash-transfer-lowest-in-southeast-report/)).
 - Beneficiaries are matched on NIN and BVN with in-person verification and biometrics, and those without a NIN and BVN are disqualified, says the minister's media aide ([source, 2023-10](https://punchng.com/cash-transfer-fg-disqualifies-nigerians-without-nin-bvn-cbn-begins-payment/)).
 
+### Uganda: 5 Leading
+
+Older-person grants were checked against the national ID in 2026; mobile money payment of them is a pilot.
+
+- The SAGE programme head said eligible older people are refused the grant because the date of birth on their national ID card puts them below the age-80 threshold, and 43,000 complaints have been received ([source, 2026-10-19](https://nilepost.co.ug/news/379844/43000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors)).
+- Ministry of Gender, Labour and Social Development's SAGE head said the ministry had started piloting mobile money payments of the SAGE older-persons grant as an alternative to the existing payment-point system, to be extended nationwide if the pilot succeeds ([source, 2026-10-19](https://nilepost.co.ug/news/379844/43000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors)).
+
 ### Libya: 4 Operating
 
 Salaries and the children's allowance were paid digitally in 2026; whether payments are checked against the ID is not known.
@@ -94,7 +101,6 @@ A government programme paid people digitally in 2025; no source found reports a 
 
 A government programme paid people digitally in 2026; no source found reports a second main stream.
 
-- Benin's Ministry of Economy and Finance circular of 25 September 2026 institutes electronic payment of official-mission expenses in all public administrations, with the SEMO 2 modules ready for domestic implementation ([source, 2026-09-25](https://www.gouv.bj/article/3677/finances-publiques-nouvelle-etape-franchie-dans-digitalisation-paiement-frais-mission/)).
 - The government says GBESSOKE began monthly cash transfers on 18 September 2025, paying 20,621 beneficiaries (85% women) a first instalment of 208,272,100 FCFA, received on their mobile phones via secured SIM cards ([source, 2025-09-18](https://www.gouv.bj/article/3265/mise-oeuvre-programme-gbessoke-transferts-monetaires-demarre-plus-mille-menages-deja-touches-/)).
 
 ### Botswana: 3 Established
@@ -227,12 +233,6 @@ Public workers' pay was moved onto bank accounts in 2026; no source found says w
 
 - Sudan's finance ministry says Council of Ministers decisions 149 and 150 require workers' entitlements to be paid through bank accounts, and that this has been put into effect ([source, 2026-04-11](https://spokesperson-sd.com/ar/archives/39743)).
 
-### Tanzania: 3 Established
-
-A government programme paid people digitally in 2026; no source found reports a second main stream.
-
-- Mixx by Yas carries payments to clove farmers through the Zanzibar State Trading Corporation, the firm says ([source, 2026-08-27](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738)).
-
 ### Togo: 3 Established
 
 A government programme paid people digitally in 2026; no source found reports a second main stream.
@@ -244,12 +244,6 @@ A government programme paid people digitally in 2026; no source found reports a 
 A government programme paid people digitally in 2024; no source found reports a second main stream.
 
 - The World Bank says 44.4% of the cash transfers under Tunisia's AMEN Program have been digitalized, and a convention between the Ministry of Social Affairs and the Tunisian Post continues digital payment cards tied to an e-wallet for AMEN beneficiaries ([source, 2024-04](https://www.worldbank.org/en/programs/teri/brief/enhancing-the-social-protection-system-to-better-serve-vulnerable-populations)).
-
-### Uganda: 3 Established
-
-A government programme paid people digitally in 2026; no source found reports a second main stream.
-
-- The Parish Development Model's Wendi system, managed by Pearl Bank, disburses the government programme's loans directly to beneficiaries' mobile phones, reaching 3,571,108 beneficiaries, as reported by the Ministry of Finance (14,133 Wendi agents recruited) ([source, 2026-09-18](https://www.thekampalareport.com/latest/2026091868307/ugandas-parish-development-model-reaches-3-5-million-beneficiaries-with-1-1-billion-government-investment.html)).
 
 ### Zambia: 3 Established
 
@@ -353,6 +347,12 @@ Not established: Nothing found since October 2023 says whether government pays p
 Nothing found since 2023 names digital government payments to people, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether government pays people digitally.
+
+### Tanzania: Unplaced
+
+Nothing found since 2023 names digital government payments to people, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether government pays people digitally; the one row, crop payments to clove farmers, is not a transfer, salary or pension.
 
 ### Equatorial Guinea: No evidence
 

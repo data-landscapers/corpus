@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ZAF-002;ZAF-001",
       "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "SASSA pays social grants into bank accounts by EFT (2025, 2026), so stage 3. No second main stream is shown, and the biometric FICA check is the bank's, not a stated check against the ID.",
+      "as_at": "2026-11-05"
     }
   ]
 }

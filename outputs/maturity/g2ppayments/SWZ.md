@@ -2,11 +2,11 @@
 
 ## G2P functionality
 
-**Paid digitally.** [The Deputy Prime Minister's Office says elderly grants are paid through commercial banks, and elderly and disabled grants through the MoMo mobile money platform, with bank-paid elderly grants moving to the 25th from August 2026](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Paid digitally.** In August 2026 the Deputy Prime Minister's Office [said elderly grants are paid through commercial banks, and elderly and disability grants through the MoMo mobile money platform](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>). Payment by bank and by mobile money therefore runs side by side for the elderly grant. From August 2026 the bank-paid elderly grants move to the 25th of each month.
 
-**Main streams.** No source found since October 2023 shows two or more main government payment streams paid digitally. The nearest held fact: [the one given above](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>).
+**Main streams.** The [grants named in August 2026](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>) are social transfers, which make one stream. No source found since October 2023 shows civil service salaries or pensions paid digitally.
 
-**Linked to ID.** No source found since October 2023 says government payments are checked against the ID or a social registry. The nearest held fact: [the one given above](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>).
+**Linked to ID.** No source found since October 2023 says government payments are checked against the national ID or a social registry. The nearest fact found is the [Deputy Prime Minister's Office notice on grant payment dates](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>), from August 2026.
 
 ***Also on file***. [MoMo](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>).
 

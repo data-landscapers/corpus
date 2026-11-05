@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "3",
-   "payment": "inservice",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-001;BWA-002",
-   "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "3",
+      "payment": "inservice",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-001;BWA-002",
+      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
+      "note": "Food-voucher allowances are paid monthly on a biometric smart card (May 2025), so stage 3. No second main stream is shown, and the card's biometrics are not a stated check against the national ID.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether government pays people digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "The only row, a 2018 statement that Martyrs' Trust Fund grants are paid in cash, is older than three years, so it cannot set stage 1.",
+      "as_at": "2026-11-05"
     }
   ]
 }

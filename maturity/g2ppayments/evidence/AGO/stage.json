@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "AGO-001",
       "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Kwenda social transfers were paid into bank accounts in Cabinda from January 2025, so stage 3. No second main stream is shown paid digitally.",
+      "as_at": "2026-11-05"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "3",
-   "payment": "inservice",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-001",
-   "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "3",
+      "payment": "inservice",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-001",
+      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
+      "note": "Vision Umurenge Programme support is paid into SACCO accounts reached by phone from August 2025, so stage 3. No second main stream is shown.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

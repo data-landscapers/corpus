@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MDG-001",
-      "gaps": "No source found since October 2023 says: does one government programme pay people digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service.",
+      "note": "The FID's July 2025 tender for QR-code payment of FSP transfers is procurement under way, so stage 2. The FIAVOTA mobile money payments date from 2022 and set no rung.",
+      "as_at": "2026-11-05"
     }
   ]
 }

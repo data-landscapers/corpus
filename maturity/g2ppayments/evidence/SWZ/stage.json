@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "3",
-   "payment": "inservice",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001",
-   "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "3",
+      "payment": "inservice",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001",
+      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
+      "note": "Elderly and disability grants are paid through banks and MoMo (August 2026), so stage 3. Both are social transfers, one stream, so not stage 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

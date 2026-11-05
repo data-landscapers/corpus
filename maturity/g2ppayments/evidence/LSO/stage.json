@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "LSO-003",
       "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-25"
+      "note": "25,575 households receive Child Grants Programme payments by mobile transfer (UNICEF, July 2026), so stage 3. No second main stream is shown.",
+      "as_at": "2026-11-05"
     }
   ]
 }

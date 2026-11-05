@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "3",
-   "payment": "inservice",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-001;BEN-003",
-   "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "3",
+      "payment": "inservice",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-003",
+      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
+      "note": "GBESSOKE has paid monthly transfers to secured SIM cards since September 2025, so stage 3; the 2026 mission-expenses circular is not a salary, transfer or pension. No second main stream is shown.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

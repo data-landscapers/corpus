@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "EGY-001",
       "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Government employees' salaries are paid electronically (finance minister, May 2024), so stage 3. The pensions row dates from 2022, outside the window, so not stage 4.",
+      "as_at": "2026-11-05"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "2",
-   "payment": "underway",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "No source found since October 2023 says: does one government programme pay people digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "2",
+      "payment": "underway",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001",
+      "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service.",
+      "note": "The Treasury said in August 2025 it would pay salaries and pensions through the IPPD payroll system, a statement of intent, so stage 2. No source says either is paid digitally in service.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

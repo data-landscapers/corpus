@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CIV-001;CIV-002",
       "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "The Programme Filets Sociaux Productifs pays allowances into e-money accounts (2024), so stage 3. The BCEAO says the Treasury makes bulk payments through PI-SPI without naming salaries or pensions, so not stage 4.",
+      "as_at": "2026-11-05"
     }
   ]
 }

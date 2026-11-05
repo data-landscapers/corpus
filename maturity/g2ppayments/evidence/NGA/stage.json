@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NGA-002;NGA-004",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Federal cash transfers are paid into bank accounts after validating recipients by NIN or BVN (World Bank, October 2024), so stage 5.",
+      "as_at": "2026-11-05"
     }
   ]
 }

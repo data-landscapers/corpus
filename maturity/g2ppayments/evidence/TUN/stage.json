@@ -1,17 +1,18 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "3",
-   "payment": "inservice",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-002",
-   "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "3",
+      "payment": "inservice",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-002",
+      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
+      "note": "Some AMEN cash transfers are paid by e-wallet card (World Bank, April 2024), so stage 3. University scholarships on e-Dinar wallets are not a salary, transfer or pension stream, so not stage 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether government pays people digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Both rows, the 2020 and 2021 statements that benefits are paid in cash, are older than three years, so they cannot set stage 1.",
+      "as_at": "2026-11-05"
     }
   ]
 }

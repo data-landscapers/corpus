@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "2",
-   "payment": "underway",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001",
-   "gaps": "No source found since October 2023 says: does one government programme pay people digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "2",
+      "payment": "underway",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001",
+      "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service.",
+      "note": "The July 2026 award of framework contracts for digital payment to PFS-AIE beneficiaries is a contract, so stage 2. No source says a payment has been made digitally, so not stage 3.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

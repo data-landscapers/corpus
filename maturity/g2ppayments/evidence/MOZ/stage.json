@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether government pays people digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Both rows, PASD-PE transfers paid into M-Pesa wallets in 2022 and by March 2023, are older than three years and set no rung.",
+      "as_at": "2026-11-05"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NAM-002",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Social grants are paid over the instant payment system (June 2026) and beneficiaries were verified against the population register (September 2026), so stage 5.",
+      "as_at": "2026-11-05"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "3",
-   "payment": "inservice",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-001",
-   "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "3",
+      "payment": "inservice",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-001",
+      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
+      "note": "CGAR paid its first retirement allowances by bank transfer and mobile money in July 2026, so stage 3. Novissi's mobile payments date from 2020 and set nothing.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

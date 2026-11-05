@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SEN-003",
       "gaps": "No source found since October 2023 says government payments are checked against the ID or a social registry.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "note": "SenTresor pays salaries, pensions, scholarships and social aid (June 2025), and family security grants went by mobile money in October 2026, so stage 4. No source says payments are checked against the ID or a social registry.",
+      "as_at": "2026-11-05"
     }
   ]
 }
