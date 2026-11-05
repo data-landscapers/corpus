@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: finance.new
-places: AGO; CIV; COD; SWZ; GHA; MRT; MAR; NGA; RWA; SYC; ZAF; ZMB
-record: 07790ccf98ed
+places: AGO; CIV; COD; SWZ; GHA; MRT; MAR; NGA; RWA; SYC; ZAF; TZA; ZMB
+record: 694cda877756
 ---
 
 # News, Oct – Nov 2026
@@ -31,6 +31,8 @@ record: 07790ccf98ed
 <a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 </nav>
@@ -242,6 +244,22 @@ Proparco, the French development finance institution, said on 5 October 2026 tha
 **[Southern Africa Bilateral - Strengthening Cross-Regulatory Digital Governance in South Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-GOV-1-400199-411)** — UK Foreign, Commonwealth & Development Office (FCDO), 7 October 2026
 
 The UK Foreign, Commonwealth and Development Office committed GBP 70,000 on 7 October 2026 through the University of the Witwatersrand, its IATI file shows. The project pairs South African ICT and media regulators with UK peers on AI, online safety and digital platforms. It runs to March 2027.
+
+</div>
+
+</div>
+
+## Tanzania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Concessional loan for an AI and digital technology training institute</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania secures 441/-bn Korean loan for advanced ICT and AI University](https://businessinsider.co.tz/tanzania-secures-441-bn-korean-loan-for-advanced-ict-and-ai-university/)** — Business Insider Tanzania, 4 November 2026
+
+Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of US$167.4 million (TSh441.12 billion) on 3 November 2026, from Korea's Economic Development Cooperation Fund. It finances a technology institute in Dodoma offering advanced training, including in AI. Korea Eximbank said it was the first EDCF project approved in 2026 and the first with support for AI.
 
 </div>
 

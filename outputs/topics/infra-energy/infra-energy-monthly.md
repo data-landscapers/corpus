@@ -1,10 +1,10 @@
 ---
 title: Energy — News, October – November 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: infra.energy
 places: COG
-record: e2fb75d36b89
+record: d0963ac05312
 ---
 
 # News, Oct – Nov 2026

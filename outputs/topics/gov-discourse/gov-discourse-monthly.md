@@ -1,16 +1,18 @@
 ---
 title: Public debate and participation in policymaking — News, October – November 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: gov.discourse
-places: DZA; GAB; MWI; NGA; TUN; ZMB; ZWE
-record: 03b2075c0276
+places: DZA; CIV; GAB; MWI; NGA; TUN; ZMB; ZWE
+record: 6543eb1ca4bf
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -36,6 +38,22 @@ record: 03b2075c0276
 **[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
 Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
+
+</div>
+
+</div>
+
+## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Press regulator and cybersecurity agency roadmap against disinformation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’ANP et l’ANSSI s’accordent sur une feuille de route contre la désinformation](https://www.aip.ci/cote-divoire-aip-lanp-et-lanssi-saccordent-sur-une-feuille-de-route-contre-la-desinformation/)** — Agence Ivoirienne de Presse, 4 November 2026
+
+Côte d'Ivoire's press regulator ANP and cybersecurity agency ANSSI agreed on 21 October 2026 to prepare a joint roadmap against disinformation and digital threats. It covers prevention capacity and the protection of the ANP's information systems.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 6b6ad21200b1
+places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 7b93fb295440
 ---
 
 # News, Oct – Nov 2026
@@ -101,6 +101,8 @@ record: 6b6ad21200b1
 <a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
 ## Algeria
@@ -128,6 +130,22 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside une séance de travail consacrée à la mobilisation des financements nationaux et au développement des infrastructures de calcul haute performance et d'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-une-seance-de-travail-consacree-a-la-mobilisation-des-financements-nationaux-et-au-developpement-des-infrastruct/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algérie), 19 October 2026
 
 Algeria's higher-education ministry agreed on 19 October 2026 with public and private companies to set up a joint framework for drafting a 2030 roadmap to finance GPU-based high-performance computing and AI research capacity. Its four aims are company co-funding of GPUs, research steered to economic needs, a stronger national AI and data centre, and recruiting diaspora talent.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Strategy</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside la sixième réunion multisectorielle consacrée au suivi de la mise en œuvre de la Stratégie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/11/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-sixieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-l/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algeria), 3 November 2026
+
+AI strategy data plan starts 11 Nov 2026; tax-law LLM corpus 98% collected; 46 universities bid for AI doctoral school.
 
 </div>
 
@@ -176,6 +194,20 @@ Nasuba described Benin's national services portal, service-public.bj, as it stoo
 **[Country Profile on AI Governance: Botswana](https://www.aipolicy.africa/country-profiles/botswana)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Botswana scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked joint 29 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are assigned values, and its strongest are Strategy and Vision and Ethics and Inclusion (1.40 each).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Artificial Intelligence Policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Southern Africa’s AI ambitions face reality check](https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO)** — ITWeb Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+IITPSA 2026 survey: experience gap 24% of skills shortfall; 52% of SA firms outsource IT abroad; Botswana AI policy.
 
 </div>
 
@@ -834,6 +866,20 @@ Kenyan researchers are calling for more investment in local language data for AI
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google DeepMind and Fab AI teacher tools partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -1302,6 +1348,20 @@ HPE announced that Mzansi Mind, Solcon Capital's enterprise AI platform built on
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google DeepMind and Fab AI teacher tools partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE.
+
+</div>
+
+</div>
+
 ## South Sudan
 
 <div class="monthly-story" markdown="1">
@@ -1383,6 +1443,14 @@ UNDP Togo reports on the launch of the national local-languages challenge under 
 **[African governments become customers for local AI](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/)** — Investdesk Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 African public agencies are starting to buy locally built AI tools for welfare, health and procurement, partly to keep public data under local control, though tight budgets and limited data access hold startups back. Togo's AI laboratory, which grew out of using phone and satellite data to target Novissi pandemic cash transfers, now works with more than ten agencies on over 70 projects, and Kenya and Rwanda are also looking for local applications. A UN-backed call run with the ITU and Research ICT Africa, which closed on 2 October, is selecting African AI products to present to officials in Accra.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Un supercalculateur pour accélérer l’innovation technologique, l’intelligence artificielle et la prise de décision stratégique au Togo](https://www.undp.org/fr/togo/actualites/un-supercalculateur-pour-accelerer-linnovation-technologique-lintelligence-artificielle-et-la-prise-de-decision-strategique-au-togo)** — UNDP Togo, 3 November 2026
+
+UNDP GPU server at Lomé Data Centre since July 2026; 50,200 requests Aug-Oct, data kept in Togo.
 
 </div>
 
@@ -1523,6 +1591,22 @@ Zambia's technology ministry is piloting Njila.ai, an artificial-intelligence ca
 **[Lusaka's water is about to get smarter](https://www.undp.org/zambia/news/lusakas-water-about-get-smarter)** — United Nations Development Programme (Zambia), 14 October 2026
 
 UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot that will use AI on the utility's production, metering, billing and network data to find where water is lost. The work will run on the timbuktoo EDGE sovereign compute node at the University of Zambia AI UniPod; the partnership MOU has not yet been signed and no amount is stated.
+
+</div>
+
+</div>
+
+## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT ministry AI Unit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government to scale Artificial Intelligence for economic growth and service delivery](https://www.heraldonline.co.zw/government-to-scale-artificial-intelligence-for-economic-growth-and-service-delivery/)** — The Herald, 4 November 2026
+
+Zimbabwe's ICT minister Tatenda Mavetera tasked the ministry's new AI Unit with identifying, testing and scaling AI applications. She spoke at a strategic plan review workshop in Bulawayo. The plan names inaccurate responses, bias and poor data quality as risks.
 
 </div>
 

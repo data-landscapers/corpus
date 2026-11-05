@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: gov.protect
-places: AGO; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: cbfd778eaba6
+places: AGO; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 9d4d1b321630
 ---
 
 # News, Oct – Nov 2026
@@ -37,6 +37,8 @@ record: cbfd778eaba6
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -430,6 +432,22 @@ The president of Senegal's data protection commission, the CDP, said the state's
 
 </div>
 
+## Sierra Leone
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Protection and Right to Access Information Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone's Data Protection Bill Reaches Parliament After CHRDI-Led Advocacy Efforts](https://sierraloaded.sl/local/data-protection-bill-parliament-chrdi-advocacy/)** — SierraLoaded, 4 November 2026
+
+Sierra Leone's Data Protection and Right of Access to Information Bill, 2026 was due before Parliament on 5 November 2026. The rights group CHRDI, which sits on the bill's steering committee, gave the date.
+
+</div>
+
+</div>
+
 ## South Africa
 
 <div class="monthly-story" markdown="1">
@@ -455,6 +473,28 @@ South Africa's National Consumer Commission launched the National Opt-Out Regist
 </div>
 
 ## Tanzania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Permits to transfer personal data abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[As Tanzania goes digital, who protects your privacy?](https://dailynews.co.tz/as-tanzania-goes-digital-who-protects-your-privacy/)** — Daily News (Tanzania), 2 October 2026
+
+A Daily News feature sets out how personal data is collected across Tanzania's identity, health and financial services as the country implements its Dira 2050 development vision. It describes the role of the Personal Data Protection Commission in protecting that information.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania strengthens personal data protection to support investment climate](https://www.therespondents.co.tz/2026/11/tanzania-strengthens-personal-data.html)** — The Respondent, 3 November 2026
+
+PDPC by Oct 2026: 15,000+ institutions registered, 445+ complaints, 121 permits to move data abroad.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

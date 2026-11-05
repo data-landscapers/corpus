@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 49e47f0de669
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SOM; ZAF; SDN; TZA; TUN; UGA
+record: 4e954ccbee0f
 ---
 
 # News, Oct – Nov 2026
@@ -63,6 +63,10 @@ record: 49e47f0de669
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -385,6 +389,21 @@ The DRC Senate on 21 October 2026 ratified ordonnance-loi 26/015 of 7 September 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity implementing orders (seven arrêtés)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : un atelier de validation de sept arrêtés lancé à Kinshasa](https://acp.cd/economie/cybersecurite-un-atelier-de-validation-de-sept-arretes-lance-a-kinshasa/)** — Agence congolaise de presse, 3 November 2026
+
+Ministry and ARPTC workshop 3-5 Nov 2026; incident notification, audits, critical infrastructure, AI registers.
+
+</div>
+
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -424,6 +443,20 @@ Egypt's parliamentary ICT committee chair Ahmed Badawi said the committee will o
 **[Egypt’s Souhoola Secures FRA Approval for Fintech-Based Consumer Finance](https://techafricanews.com/2026/10/22/egypts-souhoola-secures-fra-approval-for-fintech-based-consumer-finance/)** — Tech Africa News, 22 October 2026
 
 Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-based consumer finance through V-Lens, covering electronic identification and verification, e-KYC, electronic contracts and digital record-keeping. The application was approved because it predated FRA Resolution No. 43 of February 2026, which suspended new fintech consumer-finance licence applications for a year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bill on classifying, circulating and making available data between government sectors</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[رئيس «اتصالات النواب»: الحكومة ستتقدم بمشروع قانون تصنيف وتداول وإتاحة البيانات بين القطاعات الحكومية خلال أسابيع](https://www.almasryalyoum.com/news/details/4400426)** — Al-Masry Al-Youm, 3 November 2026
+
+ICT committee chair: cross-government data classification and sharing bill due within weeks, first on its docket.
 
 </div>
 
@@ -945,6 +978,60 @@ Nigeria's Minister of State for Health, Iziaq Adekunle Salako, told the AI in He
 **[NCC, NITDA, AGF, National Assembly demand stronger cybersecurity measures against AI-driven threats](https://dailypost.ng/2026/10/27/ncc-nitda-agf-national-assembly-demand-stronger-cybersecurity-measures-against-ai-driven-threats/)** — Daily Post Nigeria, 27 October 2026
 
 Nigeria's Attorney-General said the Federal Ministry of Justice has advanced a draft executive bill to strengthen the cybercrime legal framework. It covers emerging technologies and the preservation and exchange of electronic evidence. NITDA said it is reviewing cybercrime legislation with the Office of the National Security Adviser and the National Assembly.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Data Protection and Sovereignty Commission Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Banks, Fintechs Face N1bn Fine for Exporting Payment Data Under New Bill](https://businesspost.ng/banking/banks-fintechs-face-n1bn-fine-for-exporting-payment-data-under-new-bill/)** — Business Post Nigeria, 2 November 2026
+
+Sponsor Lanre Okunlola; payment data a strategic asset; N1bn institutional fine, 10-year term for offshore transfer.
+
+</div>
+
+</div>
+
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital health bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé numérique, le vide juridique qui fragilise la protection des données des patients](https://www.seneplus.com/article/sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-patients)** — SenePlus, 4 November 2026
+
+A Transform Health Senegal consultation found 65.8% of respondents unaware that Senegal has no specific health data law. The non-representative sample also found 44.7% saying their consent is never sought before their medical data is shared. A draft digital health bill remains under government review, the coalition says.
+
+</div>
+
+</div>
+
+## Seychelles
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Companies and Registration of Business Names (Amendment) Bills 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bill No. 20 - Companies (Amendment) Bill 2026](https://www.gazette.sc/sites/default/files/2026-11/Bill%20No.%2020%20-%20Companies%20%28Amendment%29%20Bill%202026.pdf)** — Official Gazette, Republic of Seychelles, 3 November 2026
+
+New section 10A: electronic filing, service, records and fee payment at the Registrar; regulations to follow.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bill No. 21 - Registration of Business Names (Amendment) Bill 2026](https://www.gazette.sc/sites/default/files/2026-11/Bill%20No.%2021%20-%20Registration%20of%20Business%20Names%20%28Amendment%29%20Bill%202026.pdf)** — Official Gazette, Republic of Seychelles, 3 November 2026
+
+New section 6(1A)-(1D): electronic filing, records and fee payment for business names; regulations to follow.
 
 </div>
 

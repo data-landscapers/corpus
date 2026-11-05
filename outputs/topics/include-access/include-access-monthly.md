@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: include.access
-places: BFA; COD; ETH; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: 5ee7a2d2fc0b
+places: BFA; CPV; COD; ETH; GAB; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
+record: 06b8bca9d041
 ---
 
 # News, Oct – Nov 2026
@@ -12,9 +12,13 @@ record: 5ee7a2d2fc0b
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -59,7 +63,37 @@ Burkina Faso's Ministry of Health has launched Lafiako, a digital platform for c
 
 </div>
 
+## Cape Verde
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Labour inspectorate portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nova plataforma digital da IGT permite apresentar queixas laborais e solicitar serviços on-line – ministra](https://www.inforpress.cv/en/nova-plataforma-digital-da-igt-permite-apresentar-queixas-laborais-e-solicitar-servicos-on-line-ministra)** — Inforpress, 3 November 2026
+
+Labour inspectorate portal launched 3 Nov 2026; online complaints, intervention requests, declarations, AI features.
+
+</div>
+
+</div>
+
 ## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electricity regulator's online complaints platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Électricité : présentation d'une plateforme numérique de gestion des plaintes à Kinshasa](https://acp.cd/economie/electricite-presentation-dune-plateforme-numerique-de-gestion-des-plaintes-a-kinshasa/)** — ACP, 6 October 2026
+
+Electricity regulator ARE opens online filing and tracking of consumer and operator complaints, 5 October 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -86,6 +120,22 @@ DR Congo's telecom regulator ARPTC put the short code 1515 into service nationwi
 **[Ethiopian Institution of the Ombudsman](http://ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026
 
 The Ethiopian Institution of the Ombudsman's website says it has resolved more than 48,500 complaints of maladministration through 14 regional offices. It also reports 1.5 million public enquiries and a 96.4% compliance rate by institutions; the figures carry no date.
+
+</div>
+
+</div>
+
+## Gabon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identitysecu online complaints against police officers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation : Identitysecu, une innovation au service des usagers et de la Police nationale](https://ethiquemediagabon.net/?p=15389)** — Ethique Media Gabon, 30 October 2026
+
+Police inspectorate and Group IDENTITY sign MoU, 29 Oct 2026, for 6-12-month pilot of app complaints against officers.
 
 </div>
 

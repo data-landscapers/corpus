@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5802246b20fd
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: fb572871a737
 ---
 
 # News, Oct – Nov 2026
@@ -74,6 +74,8 @@ record: 5802246b20fd
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sao-tome-and-principe">Sao Tome and Principe</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
@@ -83,6 +85,8 @@ record: 5802246b20fd
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -141,6 +145,20 @@ The Ministry of Internal Trade opened an online consumer portal at tawassol.comm
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic verification of documents issued through the national portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[High Commission for Digitization Trains Officials in Electronic Verification](https://dzwatch.dz/en/algeria/high-commission-for-digitization-trains-officials-in-electronic-verification)** — DZ Watch, 3 November 2026
+
+Officials trained to verify portal-issued documents electronically; no fresh paper copies for citizens.
+
+</div>
+
+</div>
+
 ## Angola
 
 <div class="monthly-story" markdown="1">
@@ -168,6 +186,20 @@ Angola's public e-services portal SEPE remained online after the Kazu ransomware
 **[Executivo anuncia concurso público internacional para modernizar o Portal SIMPLIFICA](https://pti.ao/executivo-anuncia-concurso-publico-internacional-para-modernizar-o-portal-simplifica/)** — Portal de T.I, 29 October 2026
 
 Angola's Institute for Administrative Modernisation (IMA) opened an international tender for a new platform for the SIMPLIFICA public-services portal. A US$300 million World Bank loan for the Angola Digital Acceleration Project pays for it. Bids close on 27 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mandatory electronic invoicing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AGT pretende integrar dois milhões de contribuintes no sistema de facturação electrónica em 2027](https://rna.ao/rna.ao/2026/11/04/agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao-electronica-em-2027/)** — RNA, 4 November 2026
+
+Angola's tax administration AGT aims to bring two million taxpayers onto electronic invoicing in 2027. More than 80,000 already issue e-invoices. On 4 November 2026 AGT met taxpayers and specialists in Luanda to assess the system before its second phase.
 
 </div>
 
@@ -650,6 +682,20 @@ Egypt made its digital environmental impact assessment system, IDEIA, mandatory 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified National System for International Cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foreign Minister: First phase of unified system for int'l cooperation completed ahead of official launch](https://sis.gov.eg/en/media-center/news/foreign-minister-first-phase-of-unified-system-for-intl-cooperation-completed-ahead-of-official-launch/)** — State Information Service, 4 November 2026
+
+Egypt's foreign ministry said on 4 November 2026 that the first phase of the Unified National System for International Cooperation is complete and its official launch is being prepared. The e-government platform tracks development financing and projects from negotiation to implementation. It links ministries and beneficiary bodies with development partners.
+
+</div>
+
+</div>
+
 ## Equatorial Guinea
 
 <div class="monthly-story" markdown="1">
@@ -693,6 +739,22 @@ Equatorial Guinea's vice-presidency reviewed the VFS Global e-visa contract befo
 **[GOVT PLANS AI SERVICES AT YOUR FINGERTIPS](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/)** — Eswatini Positive News, 19 October 2026
 
 Eswatini's ICT ministry presented a proposed platform for reaching government services and payments by mobile device at the Global AI & Digital Summit in Seoul on 19 October 2026. No implementation date was announced. The ministry also cited digital-skills targets of 300,000 citizens through a UAE partnership and 200,000 through a World Bank-supported initiative.
+
+</div>
+
+</div>
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Company registration through the government portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital company registrations plunge 70%](https://www.eswatiniobserver.com/digital-company-registrations-plunge-70/)** — Eswatini Observer, 3 November 2026
+
+632 online registrations in Q2 2026/27 against 2,127 a year earlier; connectivity and manual processes blamed.
 
 </div>
 
@@ -833,6 +895,20 @@ The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year 
 **[UNDP Hands Over 90 Laptops to GEA to Strengthen Digital Support for MSMEs](https://www.undp.org/ghana/press-releases/undp-hands-over-90-laptops-gea-strengthen-digital-support-msmes)** — United Nations Development Programme, 26 October 2026
 
 The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They are for the national rollout of the MSME Digital Gateway. Trained Digital Champions will use them to help small businesses reach support, financing information and markets. The work falls under a Joint SDG Fund programme with three other bodies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ghana.gov services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contract Award: Design, Development, Operations and Maintenance of the eGovernment Digital Services Platform (GH-MOCDTI-535504-NC-RFB), Ghana Digital Acceleration Project P176126](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478518)** — World Bank (procurement notice OP00478518, for the Ministry of Communication, Digital Technology and Innovations, Ghana), 1 November 2026
+
+Awarded 2026-10-21 to C-BRAINS A/S with Omni Strategies, GHS 76,103,721.44; Tata evaluated at GHS 96.1m.
 
 </div>
 
@@ -1071,6 +1147,34 @@ ICT Principal Secretary John Tanui said Kenya has laid more than 30,000 km of fi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Copyright royalty collection on eCitizen</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-citizen royalty system fully operational as MPs seeks accountability](https://sports.thestar.ke/news/2026-11-04-e-citizen-royalty-system-fully-operational-as-mps-seeks-accountability)** — The Star (Kenya), 4 November 2026
+
+Kenya's Directorate of eCitizen told the National Assembly's Sports and Culture Committee that copyright royalty collection now runs fully through eCitizen. The National Treasury remits collections twice a week to licensed collective management organisations, split 70% royalties and 30% administration. PAVRISK was named the only fully compliant organisation; the hearing date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Government Procurement system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IPF and Treasury Review Kenya’s Electronic Government Procurement (e-GP) Progress as Reform enters Second Year - Institute of Public Finance](https://ipfglobal.or.ke/ipf-and-treasury-review-kenyas-electronic-government-procurement-e-gp-progress-as-reform-enters-second-year/)** — Institute of Public Finance Kenya, 4 November 2026
+
+Treasury Cabinet Secretary John Mbadi told a partners' meeting with the Institute of Public Finance on 4 November 2026 that Kenya's eGP system has onboarded over 1,500 procuring entities and 45,000 suppliers. Contracts worth about KSh 18.3 billion have been processed through it. He set four priorities for the next phase of the reform.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1186,6 +1290,22 @@ Madagascar's anti-corruption bureau BIANCO launched i-Fanagna, a platform for fi
 **[WORLD BANK COMMENDS MANePS PROGRESS](https://www.ppda.mw/newsdetail/89)** — Public Procurement and Disposal of Assets Authority (Malawi), 7 October 2026
 
 A World Bank team reviewed progress on Malawi's electronic procurement system MANePS with the procurement authority PPDA in early October 2026 and urged more training so that all public bodies use it by December 2026. As of 5 October the system had 7,417 registered suppliers, 216 of 250 targeted annual procurement plans published and 562 tenders. MANePS is World Bank-funded.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PPDA warns public institutions over MANePS compliance](https://mwnation.com/ppda-warns-public-institutions-over-maneps-compliance/)** — Nation Online, 2 November 2026
+
+No government funding for procurement outside MANePS from 1 January 2027; regional support hubs planned.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PPDA tough on registration](https://times.mw/ppda-tough-on-registration/)** — The Times Group, 3 November 2026
+
+Vendors not on MANePS by 31 December barred; 7,704 suppliers registered by October 2026, 9% SMEs.
 
 </div>
 
@@ -1517,6 +1637,36 @@ The latest Rwanda Governance Scorecard finds that 11% of government services are
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT ministry memorandum with RES Synesis</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RES Synesis and Rwanda’s MINICT sign an agreement on digital transformation - Gruppo RES](https://res-group.eu/en/news-eng/res-synesis-and-rwanda-digital-transformation-agreement/)** — Gruppo RES, 3 November 2026
+
+Exploratory vendor MoU: IT modernisation, AI, cybersecurity, training; projects need separate agreements.
+
+</div>
+
+</div>
+
+## Sao Tome and Principe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Court of Auditors' electronic accounts submission system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tribunal de Contas vai lançar em 2027 o sistema digital de prestação de contas - STP-PRESS](https://www.stp-press.st/2026/11/03/tribunal-de-contas-vai-lancar-em-2027-o-sistema-digital-de-prestacao-de-contas/)** — STP-PRESS, 3 November 2026
+
+Electronic filing of public accounts to replace paper; new instruction; system due operational by 30 April 2027.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -1561,6 +1711,20 @@ Seychelles' Vice-President, Sebastien Pillay, said on 14 October 2026, at a Stat
 
 </div>
 
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SeyAlert emergency-alert app</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SeyAlert: Seychelles government introduces a new digital emergency alert app](https://www.seychellesnewsagency.com/public/articles/22634/seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app)** — Seychelles News Agency, 2 November 2026
+
+Soft launch 30 October 2026; app and SMS warnings by district, Are You Safe location reports, Follow Me route alerts.
+
+</div>
 
 </div>
 
@@ -1776,6 +1940,22 @@ South Africa's National Treasury is allocating R150 million to the Presidency's 
 **[SAAFF calls for customs integration in digital VAT model](https://www.freightnews.co.za/article/saaff-calls-for-customs-integration-in-digital-vat-model)** — Freight News, 26 October 2026
 
 South Africa's revenue service closed consultation on its Digital VAT Model, built on e-invoicing and near-real-time reporting, on 16 October 2026. The freight forwarders' association asked for customs and VAT records to be linked through the Movement Reference Number. It also asked for a phased rollout and an industry pilot.
+
+</div>
+
+</div>
+
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Authenticated electronic correspondence as the state's sole official channel</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[قطاع الحكم والإدارة يناقش ضوابط التعامل مع الوثائق الالكترونية وتأمينها](https://suna.sd/posts/ktaaa-alhkm-oaladar-ynaksh-doabt-altaaaml-maa-alothayk-alalktrony-otamynha)** — Sudan News Agency (SUNA), 3 November 2026
+
+Cabinet governance sector backs e-correspondence as sole official channel; paper a justified exception.
 
 </div>
 

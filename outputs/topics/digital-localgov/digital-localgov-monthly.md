@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: digital.localgov
-places: BDI; CMR; CPV; COD; EGY; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: b2b53ce5bc10
+places: BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
+record: f7e970e1816a
 ---
 
 # News, Oct – Nov 2026
@@ -19,6 +19,8 @@ record: b2b53ce5bc10
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -126,6 +128,22 @@ North Kivu's Provincial Digital Development and Archives Unit (CPDA) restarted i
 **[Cairo Governor witnesses launch of Citizen Services System Development Program](https://www.cairo.gov.eg/en/news/2026/october/13/c34e40b9a36345c684c21c448d164f79)** — Cairo Governorate, 13 October 2026
 
 Cairo Governor Ibrahim Saber launched a six-month programme for staff of the governorate's citizen service centres, announced on 13 October 2026, with monthly workshops on handling complaints. It is to produce a unified service guide, a quality checklist and evaluation indicators. Saber listed services already online, including real-estate tax, complaints, building-violation settlements and cemetery and parking bookings.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MESOB one-stop service centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance](https://www.fanamc.com/english/mekelle-city-set-to-join-ethiopias-mesob-one-stop-service-network-as-preparations-advance/)** — Fana Media Corporation, 2 November 2026
+
+114 centres and 2.7m citizens served nationally; Tigray capital's centre head appointed from 27 Oct 2026.
 
 </div>
 

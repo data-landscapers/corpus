@@ -1,10 +1,10 @@
 ---
 title: China activities — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: geopol.china
 places: BWA; LBY; TGO; UGA
-record: f257c3924f74
+record: 59ee784f6adc
 ---
 
 # News, Oct – Nov 2026
@@ -84,6 +84,20 @@ Togo and China signed thirteen agreements and memoranda in Beijing on 15 October
 **[Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs](https://www.togofirst.com/en/economic-governance/1910-20385-togo-signs-huawei-agreement-to-modernize-energy-transport-and-customs)** — Togo First, 19 October 2026
 
 Togo and Huawei signed a memorandum of understanding in Shenzhen on 16 October 2026 covering energy, smart transport and smart customs systems. It includes technology transfer and local skills development, and was signed during Council President Faure Gnassingbé's visit to China from 9 to 16 October. No value was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ecobank and CIPS memorandum of understanding</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Estelle Komlan, Managing Director of Ecobank Togo: 'With CIPS, We Want to Make Payments to China Faster and Cheaper'](https://www.togofirst.com/en/banking/0211-20515-estelle-komlan-managing-director-of-ecobank-togo-with-cips-we-want-to-make-payments-to-china-faster-and-cheaper)** — Togo First, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+MD interview: direct CIPS access planned across 34 markets; Guinea indirect via Bank of China since March 2026.
 
 </div>
 

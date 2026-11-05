@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: dpi.pay
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: 6ab175874907
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 304f7726c311
 ---
 
 # News, Oct – Nov 2026
@@ -77,6 +77,8 @@ record: 6ab175874907
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -198,6 +200,20 @@ MTN Mobile Money Bénin said its interoperable e-money transactions run through 
 **[Protection des consommateurs : « La saisine de l'Observatoire de la qualité des services financiers est totalement gratuite », Sahouba Kabré](https://lefaso.net/spip.php?article149951=)** — leFaso.net, 13 October 2026
 
 In an interview, Sahouba Kabré of Burkina Faso's Observatoire de la qualité des services financiers (OQSF-BF) said the body, housed within the national inclusive-finance agency ANPFI under a BCEAO approach shared across UEMOA, mediates free of charge in disputes between customers and banks, microfinance institutions, insurers and electronic-money operators. He said more than 220 cases have been handled, about 92% settled amicably, and urged the public to learn about the service.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Certified electronic invoice</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027](https://burkina24.com/2026/11/04/communique-dgi-facturation-electronique-certifiee-obligatoire-pour-les-grandes-entreprises-des-le-1er-janvier-2027-2/)** — Burkina24, 4 November 2026
+
+Burkina Faso's tax directorate (DGI) announced that from 1 January 2027 large and medium enterprises must issue every invoice through a certified electronic invoicing system (SECeF). The rule rests on article 564-2 of the Code général des impôts. Suppliers face fines per invoice and possible closure; clients may lose their VAT deduction.
 
 </div>
 
@@ -1553,6 +1569,22 @@ Tanzania's deputy finance minister told Parliament on 29 October 2026 that the B
 **[Numérisation : La Poste Tunisienne valide plus de 1,8 million d’inscriptions scolaires et universitaires en ligne - La Presse de Tunisie](https://www.lapresse.tn/2026/10/09/numerisation-la-poste-tunisienne-valide-plus-de-18-million-dinscriptions-scolaires-et-universitaires-en-ligne/)** — La Presse de Tunisie, 9 October 2026
 
 La Poste Tunisienne said about 1.57 million pupils, some 75%, and about 287,300 university students, some 76%, paid their 2026–2027 registration fees online using its free e-Dinar wallets. The post office also brought a new integrated ERP system into operation and launched the Universal Postal Union's Ecom@africa e-commerce exchange platform at Tunis-Carthage airport.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">East African Payment System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda: East African Community Affairs (EAC) member states plot to reduce dollar dependence](https://www.africa-newsroom.com/press/uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-dependence?lang=en)** — Parliament of the Republic of Uganda (via APO Group), 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
+
+Uganda's EAC Affairs minister Rebecca Kadaga told Parliament on 3 November 2026 that the East African Payment System links only four countries' RTGS systems. These are Uganda, Kenya, Tanzania and Rwanda. She set out how an EAC cross-border payment masterplan, adopted in 2025, is to reduce use of the US dollar.
 
 </div>
 

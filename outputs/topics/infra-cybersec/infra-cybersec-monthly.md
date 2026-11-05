@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: infra.cybersec
-places: BEN; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; ZMB; ZWE
-record: bc78f11370ef
+places: BEN; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; ZMB; ZWE
+record: b77faea4972a
 ---
 
 # News, Oct – Nov 2026
@@ -39,6 +39,8 @@ record: bc78f11370ef
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -500,6 +502,22 @@ Libya's Government of National Unity ordered the immediate temporary shutdown an
 **[SENSIBILISATION - La prévention de la cybercriminalité se renforce](https://www.lexpress.mg/2026/10/sensibilisation-la-prevention-de-la.html)** — L'Express de Madagascar, 22 October 2026
 
 Madagascar's digital development ministry handed computers on 21 October 2026 to the Centre de lutte contre la cybercriminalité, which resumed work in June 2026 after an interruption, for its teams in all 24 regions. Under a responsible cyber-citizenship programme, regional staff are to be trained to detect offences on social media; the centre's coordinator said awareness comes first, with sanctions possible for those who persist.
+
+</div>
+
+</div>
+
+## Mali
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ML-CERT national incident response centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Mali lance une plateforme web pour signaler les incidents de cybersécurité](https://www.wearetech.africa/fr/fils/actualites/tech/le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite)** — wearetech.africa, 4 November 2026
+
+Mali's computer incident response centre ML-CERT launched a web platform for reporting cyber incidents and sharing threat information. The launch came at the fourth National Cybersecurity Days, held by the regulator AMRTP in Bamako on 26-30 October 2026. The national cybercrime unit recorded 1,338 cases in 2025, of which 1,130 were complaints.
 
 </div>
 

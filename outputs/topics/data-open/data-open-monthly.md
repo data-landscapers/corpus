@@ -1,10 +1,10 @@
 ---
 title: Open data — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: data.open
 places: BFA; TCD; GMB; GNB; KEN; MDG; MUS; SLE; TUN; ZWE
-record: 539ce97fe51c
+record: 05b836919f7f
 ---
 
 # News, Oct – Nov 2026

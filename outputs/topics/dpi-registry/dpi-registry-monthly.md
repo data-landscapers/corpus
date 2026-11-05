@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: dpi.registry
 places: DZA; AGO; BEN; CMR; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; LSO; LBR; MDG; MLI; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
-record: d2e58eaa2c06
+record: 3c28c6ccc072
 ---
 
 # News, Oct – Nov 2026
@@ -144,6 +144,14 @@ Benin's identification agency said 50,109 children received a first birth certif
 **[Promotion du droit à l’identité des enfants : 8.500 actes de naissance délivrés aux apprenants | Gouvernement de la République du Bénin](https://www.gouv.bj/article/3725/promotion-droit-identite-enfants-8.500-actes-naissance-delivres-apprenants/)** — Gouvernement de la République du Bénin, 29 October 2026
 
 Benin's interior ministry began issuing about 8,500 free birth certificates to primary pupils in ten communes of the Centre and South on 28 October 2026. The pilot also enrols the children in the national register of natural persons. The OIF provided technical and financial support.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation des services d’identification au Bénin : l’ANIP accélère sa révolution numérique](https://lematinal.bj/modernisation-des-services-didentification-au-benin-lanip-accelere-sa-revolution-numerique/)** — Le Matinal, 3 November 2026
+
+98% enrolled; 10.5m services in 2025, 75% remote; late-birth registration pilot from 2 Nov 2026; 30,000 refugees.
 
 </div>
 

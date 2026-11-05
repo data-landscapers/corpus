@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: gov.policy
-places: AGO; BEN; CMR; CAF; TCD; COM; COG; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
-record: 7b78d0f1be28
+places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
+record: e9765501867e
 ---
 
 # News, Oct – Nov 2026
@@ -23,6 +23,8 @@ record: 7b78d0f1be28
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -43,6 +45,8 @@ record: 7b78d0f1be28
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#niger">Niger</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -210,6 +214,22 @@ Comoros's health statistics directorate said on 27 October 2026 that only one of
 **[Livre Blanc et adressage postal : l’ARPCE pose les fondations de l’État numérique](https://www.adiac-congo.com/content/livre-blanc-et-adressage-postal-larpce-pose-les-fondations-de-letat-numerique-172016)** — Les Dépêches de Brazzaville, 17 October 2026
 
 Congo's regulator ARPCE presented the second edition of its Livre Blanc and a digital postal-addressing project in Brazzaville on 15 October 2026. The minister asked that addressing be built as public infrastructure that works with digital ID, the data-exchange platform and payments, and the Livre Blanc's conclusions go to the interministerial task force on digitalising the administration.
+
+</div>
+
+</div>
+
+## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital governance framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Du 03 au 05 novembre 2026 : l’ARPTC travaille d’arrache-pied pour doter le Code du Numérique des mesures d’application](https://lequotidienrdc.com/du-03-au-05-novembre-2026-larptc-travaille-darrache-pied-pour-doter-le-code-du-numerique-des-mesures-dapplication/)** — Le Quotidien RDC, 4 November 2026
+
+DR Congo's digital economy minister opened a review of seven draft cybersecurity orders under the Code du numérique on 3 November 2026. The regulator ARPTC said a diagnostic report and a 2026-2030 digital governance framework are validated. Sixty-three minimum requirements await validation; a government SOC and national CSIRT are still being designed.
 
 </div>
 
@@ -522,6 +542,22 @@ Mozambique's government approved a Public Finance Management Strategy for 2026�
 **[Mozambique’s Digital Plan Has 2030 Targets. Its Approval Date Says “XX”.](https://btw.media/en/mozambique-digital-roadmap-2030-targets-approval-xx)** — BTW Media, 27 October 2026
 
 Mozambique's draft National Digital Transformation Strategy of 22 August 2026 still shows a blank Cabinet approval date, BTW Media reported on 27 October 2026. The ITU had scheduled approval for June 2026 and a launch for October. The draft puts financing needs at US$1.5–2.0bn across six pillars.
+
+</div>
+
+</div>
+
+## Namibia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Broadband Policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet Briefs](https://neweralive.na/cabinet-briefs-15/)** — New Era, 4 November 2026
+
+Namibia's Cabinet announced on 3 November 2026 that it had approved a revised National Broadband Policy and delayed the e-ID card launch. The ICT ministry is to tackle gaps in access, usage, affordability and skills. The e-ID launch, set for September 2026, now awaits regulations under a 2024 Act.
 
 </div>
 

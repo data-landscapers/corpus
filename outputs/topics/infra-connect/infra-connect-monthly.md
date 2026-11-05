@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 89eeaa58cfd0
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
+record: a665f2b391e4
 ---
 
 # News, Oct – Nov 2026
@@ -27,6 +27,8 @@ record: 89eeaa58cfd0
 <a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#chad">Chad</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -115,6 +117,20 @@ Algeria's Ministry of Post and Telecommunications said on 30 September 2026 that
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Algérie Télécom national fibre network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[fibre optique en l’Algérie: 4 millions de foyers raccordés](https://lechodalgerie.dz/fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes/)** — L’Echo d’Algérie, 11 October 2026
+
+~300,000 km of cable laid by Algérie Télécom; 4m homes on FTTH; full fibre coverage targeted by 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">"All Fiber" national fibre programme (copper phase-out)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -152,6 +168,20 @@ Algeria's health ministry said on 28 October 2026 that more than 2,355 health fa
 **[Q-KON, SISTEC launch sovereign satellite service for Angola](https://cajnewsafrica.com/2026/10/14/q-kon-sistec-launch-sovereign-satellite-service-for-angola/)** — CAJ News Africa, 14 October 2026
 
 Q-KON and SISTEC opened a point of presence in Luanda for the Twoobii OneWeb low-Earth-orbit satellite service, hosted at SISTEC's premises. It gives in-country data breakout with local IP addresses alongside Eutelsat OneWeb's Angolan gateway, and is sold to banks, government, defence and enterprises.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africell and government satellite services company</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africell reforça presença em Angola com apoio financeiro e estratégico dos Estados Unidos](https://southernbridges.ao/africell-reforca-presenca-em-angola-com-apoio-financeiro-e-estrategico-dos-estados-unidos/)** — Southern Bridges, 3 November 2026
+
+US-backed satellite services venture with Angola's government for mining, oil, gas, farms; amounts undisclosed.
 
 </div>
 
@@ -385,6 +415,36 @@ Chad's telecoms minister told the Global AI and Digital Summit in Seoul that the
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet exchange membership listed in PeeringDB</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXP Tracker - Tchad](https://pulse.internetsociety.org/fr/ixp-tracker/country/TD/)** — ISOC Pulse, 1 November 2026
+
+One active exchange, N'Djamena IX, 9 members; 11 active networks; resilience score 28/100 (Nov 2026).
+
+</div>
+
+</div>
+
+## Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CGIX, the Congo Internet eXchange Point</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXP Tracker - Congo](https://pulse.internetsociety.org/en/ixp-tracker/country/CG/)** — Internet Society Pulse, 1 November 2026
+
+One active exchange with nine members in November 2026; resilience score 49 of 100.
+
+</div>
+
+</div>
+
 ## Cote d'Ivoire
 
 <div class="monthly-story" markdown="1">
@@ -484,6 +544,22 @@ Civil society in Fizi territory and Baraka, South Kivu, published a memorandum t
 </div>
 
 ## Egypt
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egypt's internet exchange points</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EG-IX: strengthening regional connectivity from Cairo](https://www.ams-ix.net/ams/news/eg-ix-strengthening-regional-connectivity-from-cairo)** — AMS-IX, 6 October 2026
+
+Q3 2026: 19 ASNs vs 4 at 2022 launch, 37 ports, 3.2 Tb/s capacity, 945 Gb/s peak, 1.22 EB in nine months.
+
+</div>
+
+</div>
+
+
 
 <div class="monthly-story" markdown="1">
 
@@ -738,6 +814,20 @@ CSquared Ghana invited US firms to bid for a feasibility study on fibre strung a
 **[Gbessia : Sensibilisation des citoyens sur le projet WARDIP](https://agpguinee.com/gbessia-sensibilisation-des-citoyens-sur-le-projet-wardip/)** — agpguinee.com, 16 October 2026
 
 A sensitisation session on WARDIP, the 2023-2028 West Africa regional digital integration programme, was held at Gbessia town hall on 16 October 2026 under Guinea's digital economy ministry. Participants were told that the submarine-cable landing station and cable laying may affect all 13 communes of Conakry and the prefectures of Coyah, Forécariah, Dubréka and Boffa, and what is planned to limit environmental and social harm.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet exchange membership listed in PeeringDB</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXP Tracker - Guinea](https://pulse.internetsociety.org/en/ixp-tracker/country/GN/)** — Internet Society Pulse, 1 November 2026
+
+One active exchange, 10 members, resilience score 39/100; IXP in one of two cities over 300,000 (Nov 2026).
 
 </div>
 
@@ -1065,6 +1155,20 @@ Senegal's and Mali's state fibre operators inaugurated the interconnection of th
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National internet exchange point</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXP Tracker - Mali](https://pulse.internetsociety.org/en/ixp-tracker/country/ML/)** — Internet Society Pulse, 1 November 2026
+
+One active exchange point with 7 members as of November 2026; resilience score 46/100.
+
+</div>
+
+</div>
+
 ## Mauritania
 
 <div class="monthly-story" markdown="1">
@@ -1202,6 +1306,14 @@ Niger and Algeria launched operation of the fibre link between In Guezzam and th
 **[IXPN at 20: How Nigeria’s Internet Exchange Point Has Transformed Local Internet Connectivity](https://techtvnetwork.ng/post/ixpn-at-20-how-nigerias-internet-exchange-point-has-transformed-local-internet-connectivity)** — TechTV Network, 3 October 2026
 
 The Internet Exchange Point of Nigeria, founded in 2006, is marking its 20th anniversary with a month-long programme; it says more than 130 networks use it, with points of presence in Lagos data centres, Abuja and Enugu. The programme includes a visit scheme for about 100 students, an IPv6 training programme with AFRINIC and the Nigeria IPv6 Council, and an awards dinner in Lagos on 30 October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria targets 90% local Internet traffic, regional hub power](https://guardian.ng/technology/tech/nigeria-targets-90-local-internet-traffic-regional-hub-power/)** — The Guardian Nigeria, 4 November 2026
+
+The Internet Exchange Point of Nigeria (IXPN) marked its 20th year with a goal of 90% local traffic by 2046. Chief executive Muhammed Rudman said up to 70% of traffic is now local, against 1% in 2006. The exchange has over 130 connected networks and plans 1.6T capacity trials in 2033-2036.
 
 </div>
 

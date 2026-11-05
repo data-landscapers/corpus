@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: capacity.training
-places: CAF; CIV; DJI; COD; EGY; GHA; GIN; KEN; LSO; LBY; MDG; MAR; MOZ; NGA; RWA; SOM; ZAF; TGO; TUN
-record: e45261547186
+places: CAF; CIV; DJI; COD; EGY; GHA; GIN; KEN; LSO; LBY; MDG; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
+record: 2da55dc1dfeb
 ---
 
 # News, Oct – Nov 2026
@@ -43,6 +43,8 @@ record: e45261547186
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -206,6 +208,20 @@ The University of Ghana secured more than 96,000 Google "Gemini for Education" l
 **[KNUST, Google Strengthen Partnership to Promote AI Integration in Teaching and Learning](https://www.knust.edu.gh/news/news-items/knust-google-strengthen-partnership-promote-ai-integration-teaching-and-learning)** — Kwame Nkrumah University of Science and Technology (University Relations Office), 21 October 2026
 
 Google has given staff and students at Kwame Nkrumah University of Science and Technology 95,000 licences for Gemini and NotebookLM and approved 500 places on professional AI courses. Google said data on Gemini for Education stays within the university's environment and is not used to train its models; a memorandum to formalise the partnership was proposed but not signed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google DeepMind and Fab AI teacher tools partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE.
 
 </div>
 
@@ -466,6 +482,22 @@ The fourth National Cybersecurity Forum opened in Mogadishu. The National Commun
 **[South Africa’s digital jobs drive faces a $152 million funding test](https://techcabal.com/2026/10/16/south-africa-152m-digital-skills-jobs/)** — TechCabal, 16 October 2026
 
 At the CollectiveXChange 2026 summit in Johannesburg on 15 October, The Collective X, which coordinates South Africa's National Digital Skills Plan, reported R600 million mobilised in its Digital Skills Impact Fund and 4,000 beneficiaries so far, against a target of 500,000 young people in digital jobs by 2034. Yellowwoods estimated that reaching 20,000 more by 2028 would take R2.5 billion ($152 million) from existing skills funds, money not yet secured.
+
+</div>
+
+</div>
+
+## Tanzania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal service fund and Tanzania Institute of Education memorandum on digital content</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania accelerates digital transformation](https://dailynews.co.tz/tanzania-accelerates-digital-transformation/)** — Daily News Tanzania, 4 November 2026
+
+Tanzania's Universal Communications Service Access Fund (UCSAF) and the Tanzania Institute of Education signed a memorandum of understanding in October 2026. It covers investment in digital educational content and training for teachers. Daily News gives no signing day, terms or sum.
 
 </div>
 

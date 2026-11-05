@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: dpi.mis
-places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 63c905547832
+places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 985d98ba4f10
 ---
 
 # News, Oct – Nov 2026
@@ -55,6 +55,8 @@ record: 63c905547832
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -398,6 +400,20 @@ Ethiopia's Ministry of Revenue re-advertised on 8 October 2026 for an individual
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Oromia Supreme Court smart court tools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Oromia Supreme Court partners Ethiopian AI Institute to modernise judicial services](https://techreviewafrica.com/news/8120/oromia-supreme-court-partners-ethiopian-ai-institute-to-modernise-judicial-services)** — Tech Review Africa, 4 November 2026
+
+The Oromia Supreme Court and the Ethiopian Artificial Intelligence Institute reviewed their joint projects on 4 November 2026. The Institute is building Smart Court systems for the court's operations. The two bodies set frameworks to extend the partnership.
+
+</div>
+
+</div>
+
 ## Gabon
 
 <div class="monthly-story" markdown="1">
@@ -632,6 +648,20 @@ Kenya's Principal Secretary for Medical Services, Ouma Oluga, chaired the steeri
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Community Health Information System (eCHIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitizing health campaigns: lessons from Benin, DRC, Kenya, and Nigeria](https://www.clintonhealthaccess.org/report/digitizing-health-campaigns/)** — Clinton Health Access Initiative, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+CHAI final report 2021-25; 24m people reached; Kano cost per person fell from US$0.20 to US$0.12; five lessons.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -756,6 +786,22 @@ Mauritius's electronic medical record had registered more than 150,000 patients 
 
 </div>
 
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Court case management and judicial platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير العدل يستعرض بمجلس النواب أولويات إصلاح منظومة العدالة ويؤكد التلازم بين مكافحة الفساد وحماية الحقوق والحريات](https://justice.gov.ma/2026/11/03/16889/)** — Ministère de la Justice (Maroc), 3 November 2026
+
+Minister to MPs, 2 Nov 2026: about MAD 2.5bn to finish court digitisation; e-file, digital notice, enforcement platform.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -799,6 +845,20 @@ Niger's education minister Élisabeth Shérif chaired a meeting on 14 October 20
 **[Kwara Governor Approves Digital Medical Records for Public Hospitals](https://von.gov.ng/kwara-governor-approves-digital-medical-records-for-public-hospitals/)** — Voice of Nigeria, 12 October 2026
 
 Nigeria's Kwara State governor, AbdulRahman AbdulRazaq, approved electronic medical records across state-owned hospitals, to be implemented by the state Hospitals Management Board under the HOPE-PHC project. Health workers begin training in November 2026, following a digitisation pilot in six hospitals. No cost or supplier is named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">HeliumMum AI maternal-health tool</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Google.org backs Helium Health with $2.5 million grant to scale AI-powered maternal healthcare in Nigeria](https://techreviewafrica.com/news/8126/google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-maternal-healthcare-in-nigeria)** — Tech Review Africa, 4 November 2026
+
+Google.org gave Nigerian health-technology firm Helium Health a US$2.5 million grant to scale HeliumMum, its AI maternal-health tool. The aim is to digitise 150 health facilities and enrol 300,000 women. Helium Health is one of 15 recipients of Google.org's US$30 million AI for Government Innovation Impact Challenge; the award date is not stated.
 
 </div>
 

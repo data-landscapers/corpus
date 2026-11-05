@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: dpi.id
-places: DZA; AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MWI; MUS; NAM; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: e118dc8ca054
+places: DZA; AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
+record: 086fdc6d068a
 ---
 
 # News, Oct – Nov 2026
@@ -45,6 +45,8 @@ record: e118dc8ca054
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -601,6 +603,14 @@ Kenya's Interior Cabinet Secretary, Kipchumba Murkomen, announced that electroni
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Birth registration e-service reduces admin from months to days](https://identityweek.net/birth-registration-e-service-reduces-admin-from-months-to-days/)** — Identity Week, 2 November 2026
+
+Nearly 300,000 births e-registered by October 2026; ESTDEV-funded, gold at the Estonian Design Awards.
+
+</div>
+
 </div>
 
 ## Liberia
@@ -659,6 +669,20 @@ A committee of Liberia's House suspended its review of a US$52 million concessio
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric registration of undocumented migrants in four counties</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia: LRRRC Sets November 4 For Launch Of Biometric Registration For Burkinabe Migrants in Four Counties - FrontPageAfrica](https://frontpageafricaonline.com/liberia-lrrrc-sets-november-4-for-launch-of-biometric-registration-for-burkinabe-migrants-in-four-counties/)** — FrontPageAfrica, 2 November 2026
+
+Four counties, 5 Nov-31 Dec 2026; LRRRC, NIR and LIS enrol migrants in national biometric ID system.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -684,6 +708,22 @@ Libya's Attorney General, Al-Siddiq Al-Sour, said on 13 October 2026 that a data
 **[النيابة العامة تكشف استخراج 10 آلاف جواز سفر ببيانات مزورة في ليبيا](https://alwasat.ly/news/481677)** — Alwasat (Bawabat Al-Wasat), 15 October 2026
 
 Libya's public prosecutor said 10,190 passports had been issued on forged civil-registry data. The passport and civil-registry databases are now linked to prosecutors, and five million secured registry forms have been sent to 365 offices.
+
+</div>
+
+</div>
+
+## Madagascar
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Izaho tokana 2.0 mass biometric registration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IDENTITÉ NUMÉRIQUE – Près de sept millions de personnes enrôlées dans le cadre du projet “Izaho Tokana”](https://www.2424.mg/identite-numerique-pres-de-sept-millions-de-personnes-enrolees-dans-le-cadre-du-projet-izaho-tokana)** — 2424.mg, 4 November 2026
+
+Madagascar's interior minister said on national television on 1 November 2026 that just under seven million adults have completed biometric enrolment under Izaho Tokana, the unique digital identifier project. Phase 2.0 resumed in September 2026 under the DECIM project, after PRODIGY closed in June. It begins in 16 districts and aims for 10 million enrolled by July 2027.
 
 </div>
 
@@ -758,6 +798,7 @@ Namibia's home affairs and ICT ministries briefed members of parliament on the r
 Namibian MPs questioned the planned digital ID on rural reach, cost, data ownership and cybersecurity at a briefing by two ministries. The rollout planned for September was delayed because the legal framework had not been finalised.
 
 </div>
+
 
 </div>
 
@@ -852,6 +893,20 @@ Trust Stamp signed a three-year technology services and data sovereignty agreeme
 **[Nigeria tests upgraded biometric voter system ahead of 2027 elections](https://www.biometricupdate.com/202610/nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections)** — Biometric Update, 28 October 2026
 
 Nigeria's electoral commission scheduled a six-day stress test of its upgraded voter accreditation devices for 23–28 October 2026. It is preparing 57,000 more devices for the general elections of 16 January 2027. The upgrade authenticates polling-unit result sheets before upload to the results portal.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NIMC Identity Crime Enforcement Unit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIN fraud: Arrests, data scandal renew security concerns](https://thesun.ng/nin-fraud-arrests-data-scandal-renew-security-concerns/)** — The Sun Nigeria, 4 November 2026
+
+NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment operators in Gwagwalada, Abuja, and elsewhere, and seized their equipment. The investigations covered illegal enrolment, unauthorised changes to identity records and extortion. NIMC has not said how many people were arrested or whether any records were affected; the arrest date is not stated.
 
 </div>
 

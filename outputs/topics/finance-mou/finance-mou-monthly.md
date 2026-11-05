@@ -1,15 +1,17 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: finance.mou
-places: BDI; ETH; NGA; SEN; SDN; TZA; UGA
-record: af536c8d455d
+places: BWA; BDI; ETH; NGA; SEN; SDN; TZA; UGA
+record: 1b9b1bf89522
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#botswana">Botswana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
@@ -24,6 +26,22 @@ record: af536c8d455d
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 </nav>
+
+## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Orange Botswana and Huawei memorandum of understanding</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Huawei, Orange partner to accelerate digital transformation](https://www.mmegi.bw/ampArticle/124593)** — Mmegi Online, 4 November 2026
+
+Orange Botswana and Huawei Technologies Botswana signed a memorandum of understanding that extends their cooperation to intelligent networks, AI, cloud, enterprise solutions and data infrastructure. It builds on Orange Botswana's Tier III-certified data centre. No sum is stated.
+
+</div>
+
+</div>
 
 ## Burundi
 

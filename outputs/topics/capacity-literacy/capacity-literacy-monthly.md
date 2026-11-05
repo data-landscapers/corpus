@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 subject: capacity.literacy
-places: AGO; CPV; EGY; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; TUN
-record: fff28e20b5ac
+places: AGO; CPV; CIV; EGY; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; TUN
+record: a8c8b9c0289f
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: fff28e20b5ac
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -64,6 +66,22 @@ Angola's President authorised USD 20 million, by a despacho reported on 22 Octob
 **[Uni-CV assinala Dia Mundial dos Correios com debate sobre comércio eletrónico](https://unicv.edu.cv/pt/fct/arquivo-fct/6037-uni-cv-assinala-dia-mundial-dos-correios-com-debate-sobre-comercio-eletronico)** — Universidade de Cabo Verde, 9 October 2026
 
 Cabo Verde's economy and digital transition minister, António Baptista, said at a University of Cabo Verde debate on e-commerce in Praia on 9 October 2026 that his ministry will run four national programmes, including digital and financial literacy. He said the Carteira Digital and 5G are in testing and a single government portal is in preparation.
+
+</div>
+
+</div>
+
+## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MTN QG Digital university centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Côte d’Ivoire inaugure un centre numérique à l’Université Félix Houphouët-Boigny](https://intellivoire.net/mtn-ci-inaugure-centre-numerique-universite-fhb/)** — Intellivoire, 4 November 2026
+
+MTN Côte d'Ivoire opened its first QG Digital centre at Université Félix Houphouët-Boigny on 30 October 2026. It is the first of the digital spaces planned at 20 Ivorian universities under a FCFA 500 million programme.
 
 </div>
 
