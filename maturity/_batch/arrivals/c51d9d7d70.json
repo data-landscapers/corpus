@@ -1,1 +1,23 @@
-{"slug": "2026-11-01-cog-ixp-tracker-congo", "studies": {"exchangepoints": {"countries": {"COG": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Internet Society Pulse's IXP Tracker lists 1 active exchange point in Congo with 9 members as of November 2026.", "as_of": "2026-11", "date_precision": "month", "system": "Congo IXP", "class": "exchange"}], "systems": [{"system": "Congo IXP", "country_label": "Congo", "class": "exchange", "platform": "internet exchange point", "owner": "", "tiers": "national"}], "note": ""}}}, "internetusage": {"countries": {"COG": {"facts": [], "systems": [], "note": "No share of the population using the internet."}}}}}
+{
+ "slug": "2026-11-01-cog-ixp-tracker-congo",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "IXP tracker page; states nothing on international fibre routes."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "States no mobile phone ownership share."
+    }
+   }
+  }
+ }
+}

@@ -1,84 +1,12 @@
 {
  "slug": "2026-10-12-dza-capdz-oran-1-5-million-official-geolocated-addresses",
  "studies": {
-  "businessregister": {
+  "feedbackportals": {
    "countries": {
     "DZA": {
      "facts": [],
      "systems": [],
-     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
-    }
-   }
-  },
-  "civilregister": {
-   "countries": {
-    "DZA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
-    }
-   }
-  },
-  "electoralregister": {
-   "countries": {
-    "DZA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
-    }
-   }
-  },
-  "landregister": {
-   "countries": {
-    "DZA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
-    }
-   }
-  },
-  "populationregister": {
-   "countries": {
-    "DZA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
-    }
-   }
-  },
-  "refugees": {
-   "countries": {
-    "DZA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
-    }
-   }
-  },
-  "registry": {
-   "countries": {
-    "DZA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
-    }
-   }
-  },
-  "socialregistry": {
-   "countries": {
-    "DZA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
-    }
-   }
-  },
-  "taxregister": {
-   "countries": {
-    "DZA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
+     "note": "Document is about address referencing and states nothing on citizen feedback channels."
     }
    }
   }

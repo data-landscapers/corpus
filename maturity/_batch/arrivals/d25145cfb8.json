@@ -1,9 +1,14 @@
-{"slug": "2026-11-04-tza-tanzania-accelerates-digital-transformation", "studies": {
-"addressregister": {"countries": {"TZA": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "The Minister for Communications and IT said in the April 2026 budget plan that the government will continue to improve the Physical Addressing and Postcode system (Daily News).", "as_of": "2026-04", "date_precision": "month", "system": "Physical Addressing and Postcode system", "class": "address"}], "systems": [{"system": "Physical Addressing and Postcode system", "country_label": "Tanzania", "class": "address", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}], "note": ""}}},
-"civilserviceskills": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only a general plan to strengthen public institutions' ICT capacity; no civil-servant digital-skills training stated."}}},
-"digitalskills": {"countries": {"TZA": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "UCSAF is running an 'ICT for Girls' training initiative to build digital usage skills among young women, with no number trained given (Daily News).", "as_of": "2026-11-04", "date_precision": "day", "system": "ICT for Girls", "class": "publicskills"}], "systems": [{"system": "ICT for Girls", "country_label": "Tanzania", "class": "publicskills", "platform": "", "owner": "UCSAF", "tiers": ""}], "note": ""}}},
-"domesticfinancing": {"countries": {"TZA": {"facts": [{"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Minister Angellah Kairuki tabled a 222.6bn/- budget for the Ministry of Communications and IT for 2026/27, 94.1 percent of it for development projects (Daily News).", "as_of": "2026-04", "date_precision": "month", "system": "Ministry of Communications and Information Technology budget 2026/27", "class": "financing"}], "systems": [], "note": ""}}},
-"egovservices": {"countries": {"TZA": {"facts": [], "systems": [], "note": "E-government services are named only as a priority; no service or count stated."}}},
-"startups": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Finance Act 2026 tax measures and a planned fund of funds are stated, but no startup act or strategy, labelling or funded investments."}}},
-"techhubs": {"countries": {"TZA": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The Ministry plans to proceed with construction of ICT innovation hubs (ICT Parks), per the April 2026 budget priorities reported by Daily News.", "as_of": "2026-04", "date_precision": "month", "system": "ICT innovation hubs (ICT Parks)", "class": "hub"}], "systems": [{"system": "ICT innovation hubs (ICT Parks)", "country_label": "Tanzania", "class": "hub", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-11-04-tza-tanzania-accelerates-digital-transformation",
+ "studies": {
+  "schoolinternet": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of secondary schools with internet and no compulsory curriculum statement; only a count of schools given ICT equipment and a UCSAF-TET MoU."
+    }
+   }
+  }
+ }
+}

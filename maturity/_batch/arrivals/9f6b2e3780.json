@@ -1,1 +1,61 @@
-{"slug": "2026-10-11-dza-fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes", "studies": {"birthidlink": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The article does not mention any link between the civil register and the ID system."}}}, "civilregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "It says only that civil status documents moved to web platforms, naming no digital register of births or deaths."}}}, "datacentres": {"countries": {"DZA": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "L'Echo d'Algerie says the Constantine data centre, operational since 2023, has cloud platforms for storing and processing the data of economic enterprises.", "as_of": "2023", "date_precision": "year", "system": "Data Center de Constantine", "class": "datacentre"}, {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "L'Echo d'Algerie says the Mohammadia data centre, built with Huawei and supervised by the High Commission for Digitalisation, holds the Uptime Institute Tier III Design certification and houses the national cloud.", "as_of": "2026-10-11", "date_precision": "day", "system": "Data Center de Mohammadia", "class": "datacentre"}], "systems": [{"system": "Data Center de Mohammadia", "country_label": "Algeria", "class": "datacentre", "platform": "national cloud", "owner": "", "tiers": "Tier III Design"}, {"system": "Data Center de Constantine", "country_label": "Algeria", "class": "datacentre", "platform": "cloud platforms", "owner": "", "tiers": ""}, {"system": "Data Center de Blida", "country_label": "Algeria", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}, "digitalsovereignty": {"countries": {"DZA": {"facts": [{"sub_indicator": "sovereignty", "aspect": "hosted", "value": "national", "fact": "L'Echo d'Algerie says the Mohammadia data centre houses the national cloud and the planned Dzair Digital Services platform for public services, and that administrations' strategic data is stored and processed in Algeria.", "as_of": "2026-10-11", "date_precision": "day", "system": "Data Center de Mohammadia", "class": "sovereignty"}], "systems": [], "note": ""}}}, "idfrombirth": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The article says nothing about an ID number given at birth."}}}, "nationaldatacentres": {"countries": {"DZA": {"facts": [{"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "L'Echo d'Algerie says the Mohammadia data centre, supervised by the High Commission for Digitalisation, houses the national cloud for public services, and that administrations' strategic data is stored in Algeria.", "as_of": "2026-10-11", "date_precision": "day", "system": "Data Center de Mohammadia", "class": "datacentre"}], "systems": [{"system": "Data Center de Mohammadia", "country_label": "Algeria", "class": "datacentre", "platform": "national cloud", "owner": "High Commission for Digitalisation (supervisor)", "tiers": "Tier III Design"}], "note": ""}}}, "police": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The article says nothing about police station records."}}}, "registry": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The article says nothing about civil registration offices entering births or deaths digitally."}}}}}
+{
+ "slug": "2026-10-11-dza-fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "every-region",
+       "fact": "L'Echo d'Algerie says Algerie Telecom has deployed nearly 300,000 km of cable across all wilayas, in metropolises and remote areas.",
+       "as_of": "2026-10-11",
+       "date_precision": "day",
+       "system": "Algerie Telecom fibre network",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Algerie Telecom fibre network",
+       "country_label": "Algeria",
+       "class": "backbone",
+       "platform": "fibre",
+       "owner": "Algerie Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

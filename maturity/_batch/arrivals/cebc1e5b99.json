@@ -1,1 +1,50 @@
-{"slug": "2024-01-20-mdg-telecommunications-un-troisieme-operateur-autorise-a-deployer-la-fibre", "studies": {"digitalstrategy": {"countries": {"MDG": {"facts": [{"sub_indicator": "national", "aspect": "period", "value": "to:2028", "fact": "2424.mg cites Madagascar's plan strategique numerique 2023-2028 as recording that Orange Madagascar is the first holder of a global licence valid 15 years.", "as_of": "2024-01-20", "date_precision": "day", "system": "Plan strategique numerique 2023-2028", "class": "national"}], "systems": [], "note": "Scope, adoption and text of the plan not described."}}}}}
+{
+ "slug": "2024-01-20-mdg-telecommunications-un-troisieme-operateur-autorise-a-deployer-la-fibre",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Licences to deploy fibre only; no contract or works stated."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

@@ -1,1 +1,23 @@
-{"slug": "2026-11-01-mli-ixp-tracker-mali", "studies": {"exchangepoints": {"countries": {"MLI": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Internet Society Pulse's IXP Tracker lists 1 active exchange point in Mali with 7 members as of November 2026.", "as_of": "2026-11", "date_precision": "month", "system": "Mali IXP", "class": "exchange"}], "systems": [{"system": "Mali IXP", "country_label": "Mali", "class": "exchange", "platform": "internet exchange point", "owner": "", "tiers": "national"}], "note": ""}}}, "internetusage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No share of the population using the internet."}}}}}
+{
+ "slug": "2026-11-01-mli-ixp-tracker-mali",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "IXP tracker page; rates international connections Good but names no fibre route."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on satellite broadband."
+    }
+   }
+  }
+ }
+}

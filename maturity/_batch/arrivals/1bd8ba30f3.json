@@ -1,0 +1,25 @@
+{
+ "slug": "2025-02-18-egy-telecom-egypt-orange-egypt-transmission-infrastructure-agreements",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "access",
+       "value": "open",
+       "fact": "Telecom Egypt says it extended its transmission services to Orange Egypt until 2032 and signed a three-year fibre-to-the-site contract, in a package of about EGP 15 billion.",
+       "as_of": "2025-02-18",
+       "date_precision": "day",
+       "system": "Telecom Egypt transmission services",
+       "class": "backbone"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,1 +1,104 @@
-{"slug": "2026-11-04-ago-agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao", "studies": {"revenuecollection": {"countries": {"AGO": {"facts": [], "systems": [{"system": "sistema de facturação electrónica", "country_label": "Angola", "class": "other", "platform": "", "owner": "AGT", "tiers": ""}], "note": "E-invoicing counts of taxpayers; no electronic payment of tax stated."}}}}}
+{
+ "slug": "2026-11-04-ago-agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "electronic invoicing system (factura\u00e7\u00e3o electr\u00f3nica)",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "",
+       "owner": "AGT",
+       "tiers": ""
+      }
+     ],
+     "note": "E-invoicing of taxpayers is not a study question; no register, procurement or other asked fact stated."
+    }
+   }
+  }
+ }
+}

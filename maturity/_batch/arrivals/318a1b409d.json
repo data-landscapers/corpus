@@ -1,6 +1,14 @@
-{"slug": "2026-11-04-eth-oromia-supreme-court-partners-ethiopian-ai-institute-to-modernise-judicial-servi", "studies": {
-"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
-"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [{"system": "Smart Court solutions", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "Ethiopian Artificial Intelligence Institute / Oromia Supreme Court", "tiers": ""}], "note": "Court AI is a justice-sector tool, placed under aisectoral."}}},
-"aisectoral": {"countries": {"ETH": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Ethiopian Artificial Intelligence Institute is developing Smart Court solutions for the operational systems of the Oromia Supreme Court, reviewed with the court's president in a working visit (Tech Review Africa).", "as_of": "2026-11-04", "date_precision": "day", "system": "Smart Court solutions", "class": "sectorai"}], "systems": [{"system": "Smart Court solutions", "country_label": "Ethiopia", "class": "sectorai", "platform": "", "owner": "Ethiopian Artificial Intelligence Institute / Oromia Supreme Court", "tiers": ""}], "note": ""}}},
-"aisystems": {"countries": {"ETH": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The Ethiopian Artificial Intelligence Institute is developing Smart Court AI solutions and related tools for the Oromia Supreme Court (Tech Review Africa).", "as_of": "2026-11-04", "date_precision": "day", "system": "Smart Court solutions", "class": "localai"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-11-04-eth-oromia-supreme-court-partners-ethiopian-ai-institute-to-modernise-judicial-servi",
+ "studies": {
+  "justice": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Smart Court tools for operating systems are named, but no case management system is stated."
+    }
+   }
+  }
+ }
+}

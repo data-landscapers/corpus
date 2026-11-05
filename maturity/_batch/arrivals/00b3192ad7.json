@@ -1,1 +1,34 @@
-{"slug": "2023-11-09-zmb-zesco-ifb-oib-110-2023-opgw-three-330kv-lines", "studies": {"businesspayments": {"countries": {"ZMB": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "ZESCO's invitation for bids says bidding documents are accessed and paid for on the e-GP platform and that bids close 22 December 2023 and are opened on the e-GP System.", "as_of": "2023-11-09", "date_precision": "day", "system": "electronic Government Procurement (e-GP) System", "class": "procurement"}], "systems": [{"system": "electronic Government Procurement (e-GP) System", "country_label": "Zambia", "class": "procurement", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}}}
+{
+ "slug": "2023-11-09-zmb-zesco-ifb-oib-110-2023-opgw-three-330kv-lines",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "in-service",
+       "fact": "ZESCO says it operates optic fibre country-wide, with a backbone built mainly of OPGW on 66-330kV lines, over 12,000 km with metro networks.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "ZESCO OPGW backbone",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ZESCO optic fibre backbone",
+       "country_label": "Zambia",
+       "class": "backbone",
+       "platform": "OPGW on transmission lines",
+       "owner": "ZESCO Limited",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

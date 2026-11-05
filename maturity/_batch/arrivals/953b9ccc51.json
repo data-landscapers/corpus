@@ -1,1 +1,32 @@
-{"slug": "2024-12-04-uga-press-release-president-yoweri-k-museveni-launches-nbi-phase-v-in-kara", "studies": {"datacentres": {"countries": {"UGA": {"facts": [], "systems": [{"system": "New data centre presented at NBI Phase V launch", "country_label": "Uganda", "class": "other", "platform": "", "owner": "NITA-U", "tiers": ""}], "note": "The release gives only the objectives of a new data centre, including service to the private sector; none is stated in service for hire."}}}, "egovservices": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No online service, portal or use figure is named."}}}, "fibrebackbone": {"countries": {"UGA": {"facts": [{"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "NITA-U says the first four NBI phases laid 4,387 km of optical fibre connecting 53 district headquarters, 11 major border stations and 1,480 ministries, departments and agencies.", "as_of": "2024-12-04", "date_precision": "day", "system": "National Backbone Infrastructure (NBI)", "class": "backbone"}], "systems": [{"system": "National Backbone Infrastructure (NBI)", "country_label": "Uganda", "class": "backbone", "platform": "", "owner": "NITA-U", "tiers": ""}], "note": "Phase V is launched but no contract or begun works is stated, so no building fact is recorded."}}}, "itcapacity": {"countries": {"UGA": {"facts": [{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "NITA-U says it implemented the NBI as the vehicle for secure data, internet and voice services across government entities, connecting 1,480 ministries, departments and agencies.", "as_of": "2024-12-04", "date_precision": "day", "system": "National Backbone Infrastructure (NBI)", "class": "staff"}], "systems": [], "note": ""}}}, "localgov": {"countries": {"UGA": {"facts": [], "systems": [], "note": "District headquarters are named as reached by the network, but no local government office is stated to be connected."}}}, "nationaldatacentres": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No data centre for hire, ownership or government hosting is stated."}}}}}
+{
+ "slug": "2024-12-04-uga-press-release-president-yoweri-k-museveni-launches-nbi-phase-v-in-kara",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

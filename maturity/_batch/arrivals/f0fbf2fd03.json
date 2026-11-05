@@ -1,7 +1,50 @@
-{"slug":"2026-11-04-ken-ipf-and-treasury-review-kenya-s-electronic-government-procurement-e-gp-progress","studies":{
-"businesspayments":{"countries":{"KEN":{"facts":[
-{"sub_indicator":"business","aspect":"system","value":"inservice","fact":"Treasury Cabinet Secretary John Mbadi said Kenya's eGP system has onboarded more than 1,500 procuring entities and over 45,000 suppliers.","as_of":"2026-11-04","date_precision":"day","system":"eGP","class":"procurement"},
-{"sub_indicator":"business","aspect":"reported","value":"reported","fact":"Cabinet Secretary John Mbadi said procurement contracts worth approximately KSh 18.3 billion have been processed through the eGP system.","as_of":"2026-11-04","date_precision":"day","system":"eGP","class":"procurement"}],
-"systems":[{"system":"eGP","country_label":"Kenya","class":"procurement","platform":"","owner":"National Treasury","tiers":""}],"note":""}}},
-"disabilityaccess":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing stated for this study."}}}
-}}
+{
+ "slug": "2026-11-04-ken-ipf-and-treasury-review-kenya-s-electronic-government-procurement-e-gp-progress",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "eGP",
+       "country_label": "Kenya eGP system",
+       "class": "other",
+       "platform": "",
+       "owner": "National Treasury",
+       "tiers": ""
+      }
+     ],
+     "note": "Procurement system only; no finance, tax or payroll system stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "eGP is a procurement system for entities and suppliers, no portal of citizen services stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on payment of taxes or fees."
+    }
+   }
+  }
+ }
+}

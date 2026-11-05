@@ -1,14 +1,3 @@
 {"slug":"2026-11-03-syc-bill-no-21-registration-of-business-names-amendment-bill-2026","studies":{
-"authentication":{"countries":{"SYC":{"facts":[],"systems":[],"note":"A bill only enables regulations for electronic authentication of business-name filings; no service is authorised, contracted or in use."}}},
-"businesspayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
-"centralbank":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on the central bank."}}},
-"consumerprotection":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on consumer protection in digital finance."}}},
-"crossborderpayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
-"dataprotectionlaw":{"countries":{"SYC":{"facts":[
-{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"Bill No. 21 of 2026 refers to the Data Protection Act, 2023 (Act 24 of 2023) as applying to violation or misuse of data submitted under the new section 6(1A) (Official Gazette).","as_of":"2026-11-03","date_precision":"day","system":"Data Protection Act, 2023","class":"general"}],"systems":[],"note":""}}},
-"g2ppayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on government-to-person payments."}}},
-"paymentsuptake":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on payments uptake."}}},
-"retailpayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on retail payments."}}},
-"revenuecollection":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on revenue collection; the bill covers business-name registry fees only as a bill."}}},
-"taxadmin":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on tax administration."}}}
-}}
+"businessregister":{"countries":{"SYC":{"facts":[],"systems":[],"note":"An enabling bill for electronic filing is not a register under way or in service."}}},
+"cybersecuritylaw":{"countries":{"SYC":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The Bill refers to the Cybercrimes and other Related Crimes Act, 2021 (Act 59 of 2021) as an existing Act that applies to misuse of data submitted under the amended section.","as_of":"2026-11-03","date_precision":"day","system":"Cybercrimes and other Related Crimes Act, 2021","class":"law"}],"systems":[],"note":""}}}}}

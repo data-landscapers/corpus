@@ -1,21 +1,32 @@
 {
  "slug": "2024-07-11-nam-city-of-windhoek-launches-mobile-app-for-clients-to-manage-accounts",
  "studies": {
-  "localgov": {
+  "feedbackportals": {
    "countries": {
     "NAM": {
-     "facts": [],
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The City of Windhoek launched a mobile app that lets residents report incidents such as potholes and traffic light faults; no case numbers are given.",
+       "as_of": "2024-07-11",
+       "date_precision": "day",
+       "system": "City of Windhoek mobile app",
+       "class": "feedback"
+      }
+     ],
      "systems": [
       {
        "system": "City of Windhoek mobile app",
        "country_label": "Namibia",
-       "class": "web",
+       "class": "feedback",
        "platform": "mobile app",
        "owner": "City of Windhoek",
        "tiers": ""
       }
      ],
-     "note": "Residents' mobile app; no office connection stated."
+     "note": ""
     }
    }
   }

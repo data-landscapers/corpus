@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-03-ben-modernisation-des-services-d-identification-au-b-nin-l-anip-acc-l-re-s",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANIP identification (NPI)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "eservices.anip.bj / ANIP BJ app",
+   "owner": "Agence nationale d'identification des personnes",
+   "tiers": ""
+  }
+ ],
+ "note": "ANIP enrolment of 98% is stated, but the document does not say the register serves as the population register or that births are entered in it."
+}

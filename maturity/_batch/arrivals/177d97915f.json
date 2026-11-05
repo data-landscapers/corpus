@@ -1,0 +1,14 @@
+{
+ "slug": "2025-01-01-afd-gin-climagui-2025-climagui-meteorological-climate-services",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Financing for the met service is stated with no mention of satellite data."
+    }
+   }
+  }
+ }
+}

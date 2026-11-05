@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-04-ken-ipf-and-treasury-review-kenya-s-electronic-government-procurement-e-gp-progress",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eGP",
+   "country_label": "Kenya eGP system",
+   "class": "other",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": "Procurement system only; no finance, tax or payroll system stated."
+}

@@ -1,1 +1,14 @@
-{"slug": "2025-09-24-nam-cran-backs-infrastructure-sharing-to-boost-telecom-expansion", "studies": {"digitaldivides": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Infrastructure sharing ruling only; no rural programme or rural/urban figures."}}}, "digitalstrategy": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Names no national digital strategy."}}}}}
+{
+ "slug": "2025-09-24-nam-cran-backs-infrastructure-sharing-to-boost-telecom-expansion",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Court ruling and regulator statement on exclusivity; no operator is stated to buy or lease capacity, and no route or reach is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,38 +1,23 @@
-{"slug": "2026-11-03-bwa-southern-africa-s-ai-ambitions-face-reality-check", "studies": {
-"aiabuse": {"countries": {
-"BWA": {"facts": [], "systems": [], "note": "Nothing on AI harms rules or authority."},
-"MWI": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZMB": {"facts": [], "systems": [], "note": "ICT practitioner licensing is not a rule on AI harms."},
-"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"aigovernment": {"countries": {
-"BWA": {"facts": [], "systems": [], "note": "Nothing stated."},
-"MWI": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"aisectoral": {"countries": {
-"BWA": {"facts": [], "systems": [], "note": "Nothing stated."},
-"MWI": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"aistrategy": {"countries": {
-"BWA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Botswana Information Technology Society president Tshepho Bathai said Botswana had developed and submitted a national AI policy to Parliament within a year; no adoption is stated.", "as_of": "2026-11-03", "date_precision": "day", "system": "national AI policy", "class": "strategy"}], "systems": [{"system": "national AI policy", "country_label": "Botswana", "class": "strategy", "platform": "", "owner": "Government of Botswana", "tiers": ""}], "note": ""},
-"MWI": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"aisystems": {"countries": {
-"BWA": {"facts": [], "systems": [], "note": "Nothing stated."},
-"MWI": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"schoolinternet": {"countries": {
-"BWA": {"facts": [], "systems": [], "note": "Nothing on school internet or curriculum."},
-"MWI": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."},
-"ZWE": {"facts": [], "systems": [], "note": "Nothing stated."}}}
-}}
+{
+ "slug": "2026-11-03-bwa-southern-africa-s-ai-ambitions-face-reality-check",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National AI policy",
+       "country_label": "Botswana",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Botswana",
+       "tiers": ""
+      }
+     ],
+     "note": "A national AI policy submitted to Parliament is a policy, not a draft law or regulation."
+    }
+   }
+  }
+ }
+}

@@ -1,7 +1,23 @@
-{"slug": "2026-11-04-cod-du-03-au-05-novembre-2026-l-arptc-travaille-d-arrache-pied-pour-doter-", "studies": {
-"cybersecurity": {"countries": {"COD": {"facts": [], "systems": [{"system": "National CSIRT and government SOC", "country_label": "National CSIRT", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The national CSIRT and government SOC are still being designed and the cybersecurity orders are drafts; no body is stated as created."}}},
-"offsitebackup": {"countries": {"COD": {"facts": [], "systems": [], "note": "Data backup is named only as a goal of the planned regulation; no backup site is stated."}}},
-"publicconsultation": {"countries": {"COD": {"facts": [
-{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "Le Quotidien RDC reports that the telecom regulator ARPTC, on the digital minister's instruction, consulted telecom and infrastructure operators, banks and digital actors among 34 ministries and public and private bodies, collecting 23 contributions for the national cybersecurity and digital resilience plan.", "as_of": "2026-11-04", "date_precision": "day", "system": "National cybersecurity and digital resilience plan", "class": "consultation"}
-], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-11-04-cod-du-03-au-05-novembre-2026-l-arptc-travaille-d-arrache-pied-pour-doter-",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Code du Numérique",
+       "country_label": "COD",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Seven draft ministerial orders apply the Code du Numérique, but the document does not say the code is in force or what it provides."
+    }
+   }
+  }
+ }
+}

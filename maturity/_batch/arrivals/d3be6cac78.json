@@ -1,21 +1,32 @@
 {
  "slug": "2025-06-23-gha-unfpa-undp-pbf-project-introduces-mobile-app-to-enhance-public-service",
  "studies": {
-  "localgov": {
+  "feedbackportals": {
    "countries": {
     "GHA": {
-     "facts": [],
-     "systems": [
+     "facts": [
       {
-       "system": "PBF project mobile application",
-       "country_label": "Ghana",
-       "class": "web",
-       "platform": "mobile app",
-       "owner": "UNFPA/UNDP PBF project",
-       "tiers": ""
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "A UNFPA/UNDP Peacebuilding Fund project with the Upper West Regional Coordinating Council introduced a mobile app for lodging complaints about security, social, justice and health services, with providers trained in two districts.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "PBF service delivery and referral mobile application",
+       "class": "feedback"
       }
      ],
-     "note": "Complaints app for service providers and residents; no office connection stated."
+     "systems": [
+      {
+       "system": "PBF service delivery and referral mobile application",
+       "country_label": "Ghana",
+       "class": "feedback",
+       "platform": "mobile app",
+       "owner": "UNFPA/UNDP PBF project, Upper West Regional Coordinating Council",
+       "tiers": "regional pilot, eight border districts"
+      }
+     ],
+     "note": ""
     }
    }
   }

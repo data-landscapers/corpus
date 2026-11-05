@@ -1,1 +1,62 @@
-{"slug": "2026-06-17-ben-telecoms-comment-l-arcep-benin-compte-automatiser-la-gestion-des-litig", "studies": {"schoolinternet": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Telecom regulator complaints system; nothing on schools."}}}}}
+{
+ "slug": "2026-06-17-ben-telecoms-comment-l-arcep-benin-compte-automatiser-la-gestion-des-litig",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints handling only."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "La Marina reports, from an unnamed source, that Benin's ARCEP is preparing to link its complaint entry points to one automated back-office, with the provider given thirty days to deliver.",
+       "as_of": "2026-06-17",
+       "date_precision": "day",
+       "system": "ARCEP complaints back-office",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "inservice",
+       "fact": "ARCEP Benin receives complaints through a green line, one-stop counter, email and social networks, and handled about a hundred formal consumer complaints in 2025, 67% found justified, per La Marina.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ARCEP complaints handling",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ARCEP complaints back-office",
+       "country_label": "Benin",
+       "class": "feedback",
+       "platform": "",
+       "owner": "ARCEP Benin",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints handling only."
+    }
+   }
+  }
+ }
+}

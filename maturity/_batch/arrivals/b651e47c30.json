@@ -1,1 +1,5 @@
-{"slug": "2026-11-04-bfa-communiqu-dgi-facturation-lectronique-certifi-e-obligatoire-pour-les-g", "studies": {"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [{"system": "SECeF", "country_label": "Burkina Faso", "class": "other", "platform": "certified electronic invoicing system", "owner": "DGI", "tiers": ""}], "note": "Certified e-invoicing obligation; no electronic payment of tax stated."}}}}}
+{"slug":"2026-11-04-bfa-communiqu-dgi-facturation-lectronique-certifi-e-obligatoire-pour-les-g","studies":{
+"businesspayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Document concerns certified e-invoicing, not e-procurement."}}},
+"egovservices":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No online government service for citizens or firms is stated."}}},
+"taxadmin":{"countries":{"BFA":{"facts":[],"systems":[{"system":"SECeF","country_label":"Burkina Faso","class":"other","platform":"certified electronic invoicing system","owner":"Direction générale des impôts","tiers":"large and medium enterprises"}],"note":"E-invoicing with no filing or payment stated is not tax filing."}}},
+"taxregister":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No taxpayer register is stated."}}}}}

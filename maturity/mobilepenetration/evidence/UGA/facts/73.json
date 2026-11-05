@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Internet penetration",
+   "country_label": "67% in FY 2023/24",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT and National Guidance",
+   "tiers": ""
+  }
+ ],
+ "note": "Gives internet penetration, not share of people owning a mobile phone."
+}

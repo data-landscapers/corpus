@@ -1,1 +1,52 @@
-{"slug": "2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-syst-mes-d", "studies": {"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The only birth link named is between BUNEC and the health sector, not the ID system."}}}, "civilregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "It names no digital civil registration system, only an initiative between BUNEC and health on birth declaration."}}}, "dataexchange": {"countries": {"CMR": {"facts": [], "systems": [{"system": "plateforme nationale d'interoperabilite (OpenHIM, OpenFn)", "country_label": "Cameroon", "class": "other", "platform": "OpenHIM, OpenFn on a server at CAMTEL", "owner": "Ministry of Public Health", "tiers": ""}], "note": "The platform described is the health ministry's health-sector platform, not a government-wide exchange."}}}, "health": {"countries": {"CMR": {"facts": [], "systems": [], "note": "It states nothing on HMIS or EMR use at clinics; DHIS2 and Bahmni are only named as systems to connect."}}}, "healthexchange": {"countries": {"CMR": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The health ministry communique says the national interoperability platform, with OpenHIM and OpenFn on a server at CAMTEL, already hosts use cases in universal health coverage, interconnecting enrolment and billing systems, and that not all systems are yet connected.", "as_of": "2026-10", "date_precision": "month", "system": "plateforme nationale d'interoperabilite", "class": "exchange"}], "systems": [{"system": "plateforme nationale d'interoperabilite", "country_label": "Cameroon", "class": "exchange", "platform": "OpenHIM, OpenFn", "owner": "Ministry of Public Health", "tiers": ""}], "note": ""}}}, "healthmis": {"countries": {"CMR": {"facts": [], "systems": [], "note": "DHIS2 is only named among systems to interconnect; nothing states national reporting through it."}}}, "idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The document gives no ID enrolment figure."}}}, "idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The document says nothing about an ID number given at birth."}}}, "interoperability": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The revised interoperability framework pre-validated is for health systems only, a single sector, so not the government framework."}}}, "localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The document says nothing about local government connection."}}}}}
+{
+ "slug": "2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-syst-mes-d",
+ "studies": {
+  "interoperabilitylaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no law or decree on public bodies sharing data."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Health-sector framework only, pre-validated and not a government-wide standards set."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "Cameroon's health ministry says its national interoperability platform (OpenHIM and OpenFN on a CAMTEL server) already hosts universal health coverage use cases, interconnecting enrolment and billing systems.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "national interoperability platform",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national interoperability platform",
+       "country_label": "Cameroon",
+       "class": "exchange",
+       "platform": "OpenHIM, OpenFN",
+       "owner": "Ministry of Public Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

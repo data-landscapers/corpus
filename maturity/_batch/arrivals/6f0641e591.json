@@ -1,84 +1,12 @@
 {
  "slug": "2026-10-15-sle-owlpress-national-id-cards-affordable-tripartite-rec-15",
  "studies": {
-  "authentication": {
+  "idverification": {
    "countries": {
     "SLE": {
      "facts": [],
      "systems": [],
-     "note": "Opinion on the national ID card fee; it states nothing this study asks."
-    }
-   }
-  },
-  "birthidlink": {
-   "countries": {
-    "SLE": {
-     "facts": [],
-     "systems": [],
-     "note": "Opinion on the national ID card fee; it states nothing this study asks."
-    }
-   }
-  },
-  "civilregister": {
-   "countries": {
-    "SLE": {
-     "facts": [],
-     "systems": [],
-     "note": "Opinion on the national ID card fee; it states nothing this study asks."
-    }
-   }
-  },
-  "idcoverage": {
-   "countries": {
-    "SLE": {
-     "facts": [],
-     "systems": [],
-     "note": "Opinion on the national ID card fee; it states nothing this study asks."
-    }
-   }
-  },
-  "idfrombirth": {
-   "countries": {
-    "SLE": {
-     "facts": [],
-     "systems": [],
-     "note": "Opinion on the national ID card fee; it states nothing this study asks."
-    }
-   }
-  },
-  "idmaintenance": {
-   "countries": {
-    "SLE": {
-     "facts": [],
-     "systems": [],
-     "note": "Opinion on the national ID card fee; it states nothing this study asks."
-    }
-   }
-  },
-  "idregisters": {
-   "countries": {
-    "SLE": {
-     "facts": [],
-     "systems": [],
-     "note": "Opinion on the national ID card fee; it states nothing this study asks."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "SLE": {
-     "facts": [],
-     "systems": [],
-     "note": "Opinion on the national ID card fee; it states nothing this study asks."
-    }
-   }
-  },
-  "registry": {
-   "countries": {
-    "SLE": {
-     "facts": [],
-     "systems": [],
-     "note": "Opinion on the national ID card fee; it states nothing this study asks."
+     "note": "Opinion on card fees and voter ID; states no other system checking people against the national ID."
     }
    }
   }

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-27-mauritanie-conseil-ministres-referentiel-cadastral-identifiant-parcellaire-casier-judiciaire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "référentiel national numérique des données cadastrales",
+   "country_label": "Mauritanie",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère des Domaines",
+   "tiers": ""
+  }
+ ],
+ "note": "The cadastral parcel referential and parcel ID is a land cadastre, not a street address register."
+}

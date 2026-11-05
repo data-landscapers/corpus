@@ -1,1 +1,14 @@
-{"slug": "2026-10-24-mrt-ami-health-and-digital-transformation-ministers-digitise-new-health-centres", "studies": {"healthmis": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A joint team to make new Nouakchott health centres digitally ready; no national health management information system is named."}}}}}
+{
+ "slug": "2026-10-24-mrt-ami-health-and-digital-transformation-ministers-digitise-new-health-centres",
+ "studies": {
+  "socialprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Health centre digitisation only; no social programme management system stated."
+    }
+   }
+  }
+ }
+}

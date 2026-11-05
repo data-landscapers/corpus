@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of population using the internet stated."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional interconnection links are planned and the backbone is under construction; no membership, agreement or act stated."
+    }
+   }
+  }
+ }
+}

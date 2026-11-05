@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-18-syc-src-complaints-email-hotline-whatsapp-feedback",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Seychelles Revenue Commission introduced a complaints email address and a hotline with WhatsApp for taxpayer feedback on its services, with no case numbers given.",
+       "as_of": "2025-02-18",
+       "date_precision": "day",
+       "system": "SRC complaints email and hotline",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SRC complaints email and hotline",
+       "country_label": "Seychelles",
+       "class": "feedback",
+       "platform": "email, hotline, WhatsApp",
+       "owner": "Seychelles Revenue Commission",
+       "tiers": "single body"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

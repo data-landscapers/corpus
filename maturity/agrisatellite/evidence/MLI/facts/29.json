@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-luxembourg-mli-weather-alerts-2025-weather-alerts-index-insurance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Weather alerts and index insurance (Weather Impact, OKO)",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "SMS alerts, satellite-index insurance",
+   "owner": "Weather Impact",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite-index crop insurance and SMS alerts are a privately run, donor co-financed product with no government service or farmer count stated."
+}

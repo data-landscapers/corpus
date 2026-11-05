@@ -1,1 +1,34 @@
-{"slug": "2024-11-19-gha-stma-launches-twin-city-connect-an-electronic-government-platform", "studies": {"disabilityaccess": {"countries": {"GHA": {"facts": [], "systems": [{"system": "Twin-City Connect", "country_label": "Ghana", "class": "other", "platform": "web platform", "owner": "Sekondi Takoradi Metropolitan Assembly", "tiers": "local"}], "note": "Accessibility features for the visually impaired and deaf are only hoped for, not stated as built."}}}}}
+{
+ "slug": "2024-11-19-gha-stma-launches-twin-city-connect-an-electronic-government-platform",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Sekondi-Takoradi Metropolitan Assembly launched Twin-City Connect, an e-government platform for service delivery, citizens' complaints and information, with no case numbers given.",
+       "as_of": "2024-11-19",
+       "date_precision": "day",
+       "system": "Twin-City Connect",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Twin-City Connect",
+       "country_label": "Ghana",
+       "class": "feedback",
+       "platform": "web application",
+       "owner": "Sekondi Takoradi Metropolitan Assembly",
+       "tiers": "local"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

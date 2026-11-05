@@ -1,1 +1,44 @@
-{"slug": "2026-01-01-dza-hichem-andaloussi-p-dg-du-groupe-algerie-telecom-a-alger-16-lalgerie-f", "studies": {"dataexchange": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Interview names no government data exchange platform."}}}, "digitaldivides": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No rural programme with counted sites and no rural/urban survey figures; satellite subsidiary and coverage figures only."}}}, "internationalbandwidth": {"countries": {"DZA": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Algerie Telecom's CEO says its subsidiary Algerie Telecom Europe manages the submarine cables linking Algeria to the major data backbones in Europe and the global network.", "as_of": "2026", "date_precision": "year", "system": "Algerie Telecom Europe submarine cables", "class": "route"}], "systems": [{"system": "Algerie Telecom Europe submarine cables", "country_label": "Algeria", "class": "route", "platform": "submarine cable", "owner": "Algerie Telecom", "tiers": ""}], "note": "Capacity sale to neighbours is stated as an ambition only; landing stations and independence of routes not given."}}}}}
+{
+ "slug": "2026-01-01-dza-hichem-andaloussi-p-dg-du-groupe-algerie-telecom-a-alger-16-lalgerie-f",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "every-region",
+       "fact": "Algerie Telecom's CEO says the group has finalised nearly 300,000 km of backbone fibre covering all of the country's wilayas.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Algerie Telecom national fibre backbone",
+       "class": "backbone"
+      },
+      {
+       "sub_indicator": "backbone",
+       "aspect": "access",
+       "value": "open",
+       "fact": "Algerie Telecom's CEO says the backbone provides the mobile operators with the capacity they need to develop their networks.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Algerie Telecom national fibre backbone",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Algerie Telecom national fibre backbone",
+       "country_label": "Algeria",
+       "class": "backbone",
+       "platform": "fibre",
+       "owner": "Algerie Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

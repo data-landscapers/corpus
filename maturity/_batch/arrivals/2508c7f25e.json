@@ -1,17 +1,43 @@
-{"slug":"2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de","studies":{
-"businesspayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"KEN":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"RWA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SOM":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SSD":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"TZA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"UGA":{"facts":[],"systems":[],"note":"Nothing stated for this study."}}},
-"centralbank":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"KEN":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"RWA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SOM":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SSD":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"TZA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"UGA":{"facts":[],"systems":[],"note":"Nothing stated for this study."}}},
-"consumerprotection":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"KEN":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"RWA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SOM":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SSD":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"TZA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"UGA":{"facts":[],"systems":[],"note":"Nothing stated for this study."}}},
-"crossborderpayments":{"countries":{
-"BDI":{"facts":[],"systems":[],"note":"Not yet fully integrated into EAPS, per the minister; no in-service fact."},
-"KEN":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Uganda's Minister for EAC Affairs told Parliament that the East African Payment System connects the national RTGS systems of Uganda, Kenya, Tanzania and Rwanda, letting banks transfer funds across borders and settle in regional currencies.","as_of":"2026-11-03","date_precision":"day","system":"East African Payment System (EAPS)","class":"crossborder"}],"systems":[{"system":"East African Payment System (EAPS)","country_label":"Kenya","class":"crossborder","platform":"RTGS link","owner":"EAC central banks","tiers":""}],"note":""},
-"RWA":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Uganda's Minister for EAC Affairs told Parliament that the East African Payment System connects the national RTGS systems of Uganda, Kenya, Tanzania and Rwanda, letting banks transfer funds across borders and settle in regional currencies.","as_of":"2026-11-03","date_precision":"day","system":"East African Payment System (EAPS)","class":"crossborder"}],"systems":[{"system":"East African Payment System (EAPS)","country_label":"Rwanda","class":"crossborder","platform":"RTGS link","owner":"EAC central banks","tiers":""}],"note":""},
-"SOM":{"facts":[],"systems":[],"note":"Not yet fully integrated into EAPS, per the minister; no in-service fact."},
-"SSD":{"facts":[],"systems":[],"note":"Not yet fully integrated into EAPS, per the minister; no in-service fact."},
-"TZA":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Uganda's Minister for EAC Affairs told Parliament that the East African Payment System connects the national RTGS systems of Uganda, Kenya, Tanzania and Rwanda, letting banks transfer funds across borders and settle in regional currencies.","as_of":"2026-11-03","date_precision":"day","system":"East African Payment System (EAPS)","class":"crossborder"}],"systems":[{"system":"East African Payment System (EAPS)","country_label":"Tanzania","class":"crossborder","platform":"RTGS link","owner":"EAC central banks","tiers":""}],"note":""},
-"UGA":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Uganda's Minister for EAC Affairs told Parliament that the East African Payment System connects the national RTGS systems of Uganda, Kenya, Tanzania and Rwanda, letting banks transfer funds across borders and settle in regional currencies.","as_of":"2026-11-03","date_precision":"day","system":"East African Payment System (EAPS)","class":"crossborder"}],"systems":[{"system":"East African Payment System (EAPS)","country_label":"Uganda","class":"crossborder","platform":"RTGS link","owner":"EAC central banks","tiers":""}],"note":""}}},
-"g2ppayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"KEN":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"RWA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SOM":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SSD":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"TZA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"UGA":{"facts":[],"systems":[],"note":"Nothing stated for this study."}}},
-"paymentsuptake":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"KEN":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"RWA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SOM":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SSD":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"TZA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"UGA":{"facts":[],"systems":[],"note":"Nothing stated for this study."}}},
-"retailpayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"KEN":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"RWA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SOM":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SSD":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"TZA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"UGA":{"facts":[],"systems":[],"note":"Nothing stated for this study."}}},
-"revenuecollection":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"KEN":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"RWA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SOM":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"SSD":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"TZA":{"facts":[],"systems":[],"note":"Nothing stated for this study."},"UGA":{"facts":[],"systems":[],"note":"Nothing stated for this study."}}}
-}}
+{
+ "slug": "2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de",
+ "studies": {
+  "regionallaw": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The EAC payment masterplan is not law and no national act is reported."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Minister Rebecca Kadaga told Uganda's Parliament that the East African Payment System connects the national RTGS systems of Uganda, Kenya, Tanzania and Rwanda.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "East African Payment System",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "East African Payment System",
+       "country_label": "Uganda",
+       "class": "cooperation",
+       "platform": "RTGS link",
+       "owner": "EAC central banks",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

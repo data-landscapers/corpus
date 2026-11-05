@@ -1,1 +1,77 @@
-{"slug": "2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days", "studies": {"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "It says birth data goes to the population registry but names no link to the ID system."}}}, "civilregister": {"countries": {"KEN": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "Identity Week reports that Kenya's digital birth registration e-service, now expanding across the country, recorded over 270,000 births in two months to September 2026 and nearly 300,000 by October.", "as_of": "2026-10", "date_precision": "month", "system": "e-birth register", "class": "civil"}], "systems": [{"system": "e-birth register (digital birth registration e-service)", "country_label": "Kenya", "class": "civil", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": ""}], "note": ""}}}, "idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document states no ID number given at birth."}}}, "populationregister": {"countries": {"KEN": {"facts": [{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "Identity Week says Kenya's birth e-service transfers data directly to the population registry.", "as_of": "2026-10", "date_precision": "month", "system": "population registry", "class": "population"}, {"sub_indicator": "population", "aspect": "vital", "value": "updated", "fact": "Identity Week says births registered through the e-service, over 270,000 by September 2026, pass directly to the population registry.", "as_of": "2026-10", "date_precision": "month", "system": "population registry", "class": "population"}], "systems": [{"system": "population registry", "country_label": "Kenya", "class": "population", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}, "registry": {"countries": {"KEN": {"facts": [{"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Identity Week says the e-service enables hospital birth registrations that replace paper entries, with over 270,000 births recorded in two months to September 2026; the principal secretary said deaths could be added later.", "as_of": "2026-10", "date_precision": "month", "system": "e-birth register", "class": "civil"}, {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "Identity Week says ESTDEV funded the e-service's development under the European Union's human-centric digitalisation initiative.", "as_of": "2026-11-02", "date_precision": "day", "system": "e-birth register", "class": "civil"}], "systems": [{"system": "e-birth register", "country_label": "Kenya", "class": "civil", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": ""}], "note": ""}}}}}
+{
+ "slug": "2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Birth registration e-service",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "e-birth register",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "Story is civil birth registration; it states nothing on this register."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Birth registration e-service",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "e-birth register",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "Story is civil birth registration; it states nothing on this register."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Birth registration e-service",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "e-birth register",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "Story is civil birth registration; it states nothing on this register."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Birth registration e-service",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "e-birth register",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "Story is civil birth registration; it states nothing on this register."
+    }
+   }
+  }
+ }
+}

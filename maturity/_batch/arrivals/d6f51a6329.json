@@ -1,32 +1,12 @@
 {
  "slug": "2026-11-03-mar-justice-minister-parliament-judicial-reform-digitisation",
  "studies": {
-  "justice": {
+  "taxadmin": {
    "countries": {
     "MAR": {
-     "facts": [
-      {
-       "sub_indicator": "justice",
-       "aspect": "cases",
-       "value": "underway",
-       "fact": "The justice minister told the House of Representatives on 2 November 2026 the ministry is speeding court digitisation, generalising the electronic case file and digital notification, and creating a national platform for enforcing judgments, at about MAD 2.5 billion to complete.",
-       "as_of": "2026-11-02",
-       "date_precision": "day",
-       "system": "electronic case file",
-       "class": "justice"
-      }
-     ],
-     "systems": [
-      {
-       "system": "electronic case file",
-       "country_label": "Morocco",
-       "class": "justice",
-       "platform": "court system",
-       "owner": "Ministry of Justice",
-       "tiers": ""
-      }
-     ],
-     "note": ""
+     "facts": [],
+     "systems": [],
+     "note": "Court digitisation only; nothing on tax filing or payment."
     }
    }
   }

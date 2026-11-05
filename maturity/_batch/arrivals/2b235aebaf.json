@@ -1,69 +1,31 @@
 {
  "slug": "2026-11-03-swz-digital-company-registrations-plunge-70",
  "studies": {
-  "businessregister": {
+  "egovservices": {
    "countries": {
     "SWZ": {
      "facts": [
       {
-       "sub_indicator": "business",
-       "aspect": "registration",
-       "value": "inservice",
-       "fact": "The Ministry of Commerce, Industry and Trade's second-quarter 2026/27 performance report says 632 applicants used the online company registration service in the quarter to September 2026, against 2,127 a year earlier.",
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The Ministry of Commerce, Industry and Trade's Q2 2026/27 report shows 632 applicants used the online company registration service in the quarter to September 2026, against 2,127 a year earlier.",
        "as_of": "2026-09",
        "date_precision": "month",
        "system": "online company registration service",
-       "class": "business"
+       "class": "eservices"
       }
      ],
      "systems": [
       {
        "system": "online company registration service",
        "country_label": "Eswatini",
-       "class": "business",
+       "class": "eservices",
        "platform": "",
        "owner": "Ministry of Commerce, Industry and Trade",
        "tiers": ""
       }
      ],
-     "note": ""
-    }
-   }
-  },
-  "civilserviceskills": {
-   "countries": {
-    "SWZ": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing on civil servants' digital skills training."
-    }
-   }
-  },
-  "digitalskills": {
-   "countries": {
-    "SWZ": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states no programme or measured digital-skills share; only a World Bank skills-gap remark."
-    }
-   }
-  },
-  "internetusage": {
-   "countries": {
-    "SWZ": {
-     "facts": [
-      {
-       "sub_indicator": "use",
-       "aspect": "users",
-       "value": "estimate:58",
-       "fact": "The Eswatini Observer cites the World Bank's 2025 Economic Update as noting that only about 58% of the population uses the internet.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "internet use",
-       "class": "use"
-      }
-     ],
-     "systems": [],
      "note": ""
     }
    }

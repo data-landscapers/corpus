@@ -1,1 +1,34 @@
-{"slug": "2024-01-18-gha-pilot-phase-of-the-public-services-satisfaction-survey-app-launched", "studies": {"disabilityaccess": {"countries": {"GHA": {"facts": [{"sub_indicator": "accessibility", "aspect": "delivered", "value": "delivered", "fact": "The Ghana Statistical Service launched the pilot of its Public Services Satisfaction Survey App, which it says has disability-friendly features, on Android and iPhone plus a USSD code.", "as_of": "2024-01-18", "date_precision": "day", "system": "Public Services Satisfaction Survey App", "class": "accessibility"}], "systems": [{"system": "Public Services Satisfaction Survey App", "country_label": "Ghana", "class": "other", "platform": "app and USSD", "owner": "Ghana Statistical Service", "tiers": "national"}], "note": ""}}}, "localgov": {"countries": {"GHA": {"facts": [], "systems": [{"system": "Public Services Satisfaction Survey App", "country_label": "Ghana", "class": "other", "platform": "app and USSD", "owner": "Ghana Statistical Service", "tiers": "national"}], "note": "A resident-facing survey app piloted in two municipalities; nothing on local government office connection."}}}}}
+{
+ "slug": "2024-01-18-gha-pilot-phase-of-the-public-services-satisfaction-survey-app-launched",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Ghana Statistical Service launched a pilot of the Public Services Satisfaction Survey app and USSD *920*158# for anonymous feedback on education, health and ID services in Ga East and Suhum, with nationwide rollout to follow.",
+       "as_of": "2024-01-18",
+       "date_precision": "day",
+       "system": "Public Services Satisfaction Survey (PSSS) App",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Public Services Satisfaction Survey (PSSS) App",
+       "country_label": "Ghana",
+       "class": "feedback",
+       "platform": "Android, iOS, USSD *920*158#",
+       "owner": "Ghana Statistical Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

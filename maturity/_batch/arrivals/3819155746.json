@@ -1,12 +1,21 @@
 {
  "slug": "2026-10-12-moz-consulting-co-mz-ai-public-finance-management-strategy",
  "studies": {
-  "digitalstrategy": {
+  "datagovernance": {
    "countries": {
     "MOZ": {
      "facts": [],
      "systems": [],
-     "note": "Public finance management strategy with a digital plan for public finances only; not a national digital strategy."
+     "note": "Public finance strategy, not a national data policy."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Public finance strategy, not an ICT sector policy."
     }
    }
   }

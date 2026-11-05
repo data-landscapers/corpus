@@ -1,17 +1,23 @@
-{"slug":"2026-11-04-nam-cabinet-briefs","studies":{
-"authentication":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Mentions only the e-ID card programme, no authentication service."}}},
-"birthidlink":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No link between civil register and ID system stated."}}},
-"broadbandstrategy":{"countries":{"NAM":{"facts":[{"sub_indicator":"plan","aspect":"standing","value":"adopted","fact":"Namibia's Cabinet approved a revised national broadband policy and implementation plan at its 13 and 27 October 2026 meetings, announced by minister Emma Theofelus, and directed the ICT ministry to begin implementation.","as_of":"2026-10","date_precision":"month","system":"Revised national broadband policy and implementation plan","class":"plan"}],"systems":[{"system":"Revised national broadband policy and implementation plan","country_label":"Namibia","class":"plan","platform":"","owner":"Ministry of Information and Communication Technology","tiers":""}],"note":""}}},
-"civilregister":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No digital civil registration stated."}}},
-"civilserviceskills":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No civil service digital-skills training stated."}}},
-"digitalidlaw":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Names the Civil Registration and Identification Act 2024 but does not state it is in force or what it provides for."}}},
-"digitalskills":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Broadband policy mentions limited digital skills as a gap only; no programme stated."}}},
-"eparticipation":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Only a non-digital drugs bill consultation is mentioned, with no online channel."}}},
-"idcoverage":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No enrolment count or share given."}}},
-"idfrombirth":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
-"idmaintenance":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Who operates or owns the ID system is not stated."}}},
-"idregisters":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
-"idrobustness":{"countries":{"NAM":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"Namibia's Cabinet noted progress on developing and implementing e-ID cards, with launch moved from September 2026 pending regulations under the Civil Registration and Identification Act 2024.","as_of":"2026-10","date_precision":"month","system":"e-ID cards","class":"idsystem"}],"systems":[{"system":"e-ID cards","country_label":"Namibia","class":"idsystem","platform":"","owner":"Ministry of Home Affairs","tiers":""}],"note":""}}},
-"publicconsultation":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Only a non-digital drugs bill consultation; the e-ID programme's stakeholder consultations are named without a law or policy put to them."}}},
-"registry":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No local civil registration office system stated."}}}
-}}
+{
+ "slug": "2026-11-04-nam-cabinet-briefs",
+ "studies": {
+  "datagovernance": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No data policy stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a broadband policy (thematic) stated."
+    }
+   }
+  }
+ }
+}

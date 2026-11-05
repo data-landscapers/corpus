@@ -1,10 +1,14 @@
-{"slug":"2026-11-04-mdg-identite-numerique-pres-de-sept-millions-de-personnes-enrolees-dans-le","studies":{
-"authentication":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on an authentication service."}}},
-"birthidlink":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on a civil register and ID link."}}},
-"idcoverage":{"countries":{"MDG":{"facts":[],"systems":[{"system":"Izaho Tokana","country_label":"Madagascar","class":"idsystem","platform":"","owner":"Ministry of Interior and Decentralisation","tiers":""}],"note":"Just under seven million adults enrolled, but no population figure to give a share."}}},
-"idfrombirth":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Enrolment is of people aged 18 and over; nothing on a number at birth."}}},
-"idmaintenance":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on who operates, maintains or owns the system."}}},
-"idregisters":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No register keyed on the ID number."}}},
-"idrobustness":{"countries":{"MDG":{"facts":[
-{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"Interior minister Velonjara Tiaray Rakotonandrasana said just under seven million people aged 18 and over had completed biometric enrolment in the Izaho Tokana unique digital identifier project, with phase 2.0 resumed in September 2026 in 16 districts toward 10 million enrolled by July 2027 (2424.mg).","as_of":"2026-11-01","date_precision":"day","system":"Izaho Tokana","class":"idsystem"}],"systems":[{"system":"Izaho Tokana","country_label":"Madagascar","class":"idsystem","platform":"","owner":"Ministry of Interior and Decentralisation","tiers":""}],"note":"No statement that unique numbers or credentials are issued, nor of duplicate checks or certification."}}}
-}}
+{
+ "slug": "2026-11-04-mdg-identite-numerique-pres-de-sept-millions-de-personnes-enrolees-dans-le",
+ "studies": {
+  "registry": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns national identity enrolment, which is not civil registration."
+    }
+   }
+  }
+ }
+}

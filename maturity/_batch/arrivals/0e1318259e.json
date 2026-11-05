@@ -1,1 +1,32 @@
-{"slug": "2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal", "studies": {"localgov": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Telecom operator revival and national backbone dispute; no local government office is said to be on it."}}}}}
+{
+ "slug": "2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

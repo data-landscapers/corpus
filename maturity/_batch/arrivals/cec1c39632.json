@@ -1,18 +1,14 @@
-{"slug":"2026-11-04-zambia-first-regional-validation-workshop-on-digital-inclusion","studies":{
-"businesspayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
-"centralbank":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on central bank role."}}},
-"civilserviceskills":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on civil servant training."}}},
-"consumerprotection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on consumer protection rules."}}},
-"crossborderpayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Only COMESA digital retail payments named as an opportunity, not a corridor."}}},
-"dataprotectionlaw":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Data protection named only as a workshop theme."}}},
-"digitalskills":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Skills named only as a workshop theme."}}},
-"disabilityaccess":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Accessibility named only as a theme, no Zambian rule or delivery."}}},
-"fibrebackbone":{"countries":{"ZMB":{"facts":[{"sub_indicator":"backbone","aspect":"reach","value":"in-service","fact":"Zambia's Ministry of Technology and Science says the national fibre-optic backbone expanded from about 15,000 km in 2021 to over 42,000 km.","as_of":"2026-11-04","date_precision":"day","system":"National fibre-optic backbone","class":"backbone"}],"systems":[],"note":""}}},
-"g2ppayments":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
-"paymentsuptake":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No survey share of account holders given."}}},
-"publicconsultation":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on public consultation by government."}}},
-"regionalpolicy":{"countries":{"ZMB":{"facts":[{"sub_indicator":"cooperation","aspect":"part","value":"active","fact":"Zambia's government, with COMESA and the World Bank, convened the first regional validation workshop of the IDEA digital inclusion programme at Chongwe, 3 to 5 November 2026.","as_of":"2026-11-03","date_precision":"day","system":"COMESA IDEA Programme","class":"cooperation"}],"systems":[],"note":""}}},
-"retailpayments":{"countries":{"ZMB":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Zambia's Ministry of Technology and Science cites growth in mobile money transactions, particularly in rural communities.","as_of":"2026-11-04","date_precision":"day","system":"Mobile money","class":"retail"}],"systems":[],"note":""}}},
-"revenuecollection":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on revenue payment."}}},
-"schoolinternet":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on school internet."}}}
-}}
+{
+ "slug": "2026-11-04-zambia-first-regional-validation-workshop-on-digital-inclusion",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Regional IDEA programme and national coverage figures only; no Zambian rural programme with sites counted and no rural-urban use split."
+    }
+   }
+  }
+ }
+}

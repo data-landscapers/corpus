@@ -1,21 +1,39 @@
 {
  "slug": "2026-11-01-gha-wb-contract-award-ghana-gov-egovernment-platform",
  "studies": {
-  "businessregister": {
+  "coresystems": {
    "countries": {
     "GHA": {
      "facts": [],
      "systems": [],
-     "note": "Contract award for eGovernment platform; no business register stated."
+     "note": "A platform contract award is not a core finance, revenue or payroll system."
     }
    }
   },
-  "localgov": {
+  "egovservices": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ghana.gov eGovernment Digital Services platform",
+       "country_label": "Ghana.gov eGovernment Digital Services Platform",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Communication, Digital Technology and Innovations",
+       "tiers": ""
+      }
+     ],
+     "note": "A contract award for the platform is not a launched or piloted service portal."
+    }
+   }
+  },
+  "feedbackportals": {
    "countries": {
     "GHA": {
      "facts": [],
      "systems": [],
-     "note": "No local government office connection stated."
+     "note": "Document does not mention a feedback channel."
     }
    }
   }
