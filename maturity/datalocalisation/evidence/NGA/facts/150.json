@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-02-nga-banks-fintechs-face-n1bn-fine-for-exporting-payment-data-under-new-bill",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Business Post says the Central Bank of Nigeria in June directed all commercial banks and fintechs to store and process payment data in the country by 2027.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "CBN payment data domestication directive",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "The directive was issued by the Central Bank of Nigeria to the banks and fintechs it licenses, per Business Post.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "CBN payment data domestication directive",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "A bill introduced in the House of Representatives in the week before 2 November 2026 would require payment transaction data generated in Nigeria to be stored and processed in the country.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "National Payment Data Protection and Sovereignty Commission Bill",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
