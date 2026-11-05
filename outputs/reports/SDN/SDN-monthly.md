@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: SDN
-ledger_rows: 22
+ledger_rows: 23
 not_held: 5
-record: 2c66e80f5c28
+record: ad2002cd6073
 ---
 
 # News, Oct – Nov 2026
@@ -365,6 +365,20 @@ The Global Survivors Fund opened a tender for a secure, offline-capable digital 
 **[هل تصبح الرقمنة الحكومية بوابة السودان لجذب الاستثمار ودمج الاقتصاد؟](https://alghadalsudani.com/34214/)** — الغد السوداني, 1 October 2026
 
 Summarised under [Registries](#registries).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Authenticated electronic correspondence as the state's sole official channel</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[قطاع الحكم والإدارة يناقش ضوابط التعامل مع الوثائق الالكترونية وتأمينها](https://suna.sd/posts/ktaaa-alhkm-oaladar-ynaksh-doabt-altaaaml-maa-alothayk-alalktrony-otamynha)** — Sudan News Agency (SUNA), 3 November 2026
+
+Cabinet governance sector backs e-correspondence as sole official channel; paper a justified exception.
 
 </div>
 
