@@ -23,9 +23,9 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | 5 Leading | 0 |
 | 4 Operating | 2 |
 | 3 Established | 0 |
-| 2 Nascent | 25 |
+| 2 Nascent | 26 |
 | 1 Absent | 14 |
-| Unplaced | 7 |
+| Unplaced | 6 |
 | No evidence | 6 |
 
 ## Countries
@@ -48,6 +48,12 @@ In 2026 journalists, the opposition and the bar association criticised Angola's 
 
 - Leaders of the Sindicato dos Jornalistas Angolanos, the Comissao de Carteira e Etica and the Forum das Mulheres Jornalistas called the penalties of the new Law Against False Information on the Internet excessive and inhibiting, warning of a chilling effect on free debate; no event date is given, so the document's published date is used ([source, 2026-08-22](https://www.novojornal.co.ao/politica/detalhe/jornalistas-advertem-que-lei-vai-inibir-jornalismo-de-cidadania-erro-jornalistico-dependera-da-interpretacao-dos-tribunais-e-do-lesado-74134.html)).
 - Jaime Domingos, a jurist and member of the civic movement Mudei, said the false-information law's definition is unclear and was created to deter citizens from taking part in public life, and several NGOs plan a court challenge with the bar association; no event date is given, so the document's published date is used ([source, 2026-08-10](https://www.rfi.fr/fr/afrique/20260810-angola-une-loi-sur-les-fausses-informations-suscite-des-craintes-pour-la-libert%C3%A9-d-expression)).
+
+### Benin: 2 Nascent
+
+In November 2026 a media union and Amnesty Bénin criticised the digital code in public; journalists were jailed over posts in 2025 and 2026.
+
+- Benin's media professionals' union UPMB and Amnesty International Bénin, meeting on 3 November 2026, called for a review of articles 550 and following of the Code du numérique over their implications for journalists, bloggers and citizens ([source, 2026-11-03](https://quotidienlexpress.bj/2026/11/04/code-du-numerique-lupmb-et-amnesty-international-benin-plaident-pour-une-relecture-des-textes/)).
 
 ### Botswana: 2 Nascent
 
@@ -305,12 +311,6 @@ The government cut the internet for four days in January 2026, and Facebook stay
 
 - Access Now's #KeepItOn report describes Uganda's January 2026 blackout as a cut of internet and social media ([source, 2026-01](https://www.accessnow.org/internet-shutdowns-2025/)).
 - A nationwide internet shutdown in January 2026 ahead of the general elections lasted nearly 100 hours; authorities said it was to prevent misinformation and electoral violence ([source, 2026-01](https://www.newvision.co.ug/category/health/csos-raise-alarm-over-digital-violations-affe-NV_229061_092026)).
-
-### Benin: Unplaced
-
-Journalists were jailed over posts in 2025-2026; no source found reports public criticism and internet cuts, so no stage is set.
-
-Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
 
 ### Burundi: Unplaced
 
