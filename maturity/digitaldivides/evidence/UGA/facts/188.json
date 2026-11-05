@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-05-uga-uganda-expands-data-infrastructure-to-advance-digital-transformation-i",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Xinhua reports President Museveni launched on 4 December 2024 the fifth phase of the National Data Transmission Backbone Infrastructure (NBI), which is to extend internet access to remote regions.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "National Data Transmission Backbone Infrastructure Phase V",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Transmission Backbone Infrastructure Phase V",
+   "country_label": "Uganda",
+   "class": "ruralaccess",
+   "platform": "fibre",
+   "owner": "Government of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": "Phases 1-4 figures are not stated as rural sites."
+}

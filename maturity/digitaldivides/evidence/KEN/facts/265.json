@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-15-ken-ict-authority-outlines-sh34-4-billion-plan-to-boost-kenya-s-digital-co",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The government told the National Assembly it has invested Sh4.6 billion in the Last Mile County Connectivity Project and that the Universal Service Fund provided Sh5 billion for the Digital Superhighway initiative.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "Last Mile County Connectivity Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Last Mile County Connectivity Project",
+   "country_label": "Kenya",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "ICT Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of rural sites or people connected."
+}

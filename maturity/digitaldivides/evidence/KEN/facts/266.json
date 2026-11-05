@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-11-ken-gov-t-launches-phase-4-5-of-the-last-mile-county-connectivity-project",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Kenya's government launched phases four and five of the Last Mile County Connectivity Project, which aims to connect 455 county sites and then 660 sites across 110 sub-counties with fibre and public Wi-Fi hotspots, said Head of Civil Service Felix Koskei.",
+   "as_of": "2023-11-11",
+   "date_precision": "day",
+   "system": "Last Mile County Connectivity Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Last Mile County Connectivity Project",
+   "country_label": "Kenya",
+   "class": "ruralaccess",
+   "platform": "National Optic Fibre Backbone Infrastructure (NOFBI)",
+   "owner": "State Department for ICT and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

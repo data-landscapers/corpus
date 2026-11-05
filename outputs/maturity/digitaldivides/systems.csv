@@ -28,6 +28,7 @@ BWA,Universal Access and Service Fund (UASF),Botswana,ruralaccess,,BOCRA (Secret
 BWA,BoFiNet,Botswana,ruralaccess,national broadband provider,Government of Botswana,,2025-05-22-bwa-giga-school-connectivity-botswana
 BWA,village connectivity project,Village connectivity project,ruralaccess,,"Ministry of Communications, Knowledge and Technology",,2024-08-28-bwa-dailynews-smartbots-schools-connected
 BWA,SmartBots Village Connectivity Project,Botswana,ruralaccess,,Government of Botswana,,2023-11-08-bwa-botswana-launches-national-digital-skills-roadshow
+BWA,BoFiNet village fibre connectivity,Botswana,ruralaccess,fibre,BoFiNet,,2025-05-13-bwa-how-bofinet-plans-to-transform-botswana-into-southern-africa-s-interne
 CAF,fonds de service universel,Central African Republic,ruralaccess,,ARCEP / CDCE,,2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin
 CAF,fonds du service universel,Central African Republic,ruralaccess,,CDCE / ARCEP,,2025-07-11-rca-fonds-service-universel-cdce-lancement
 CAF,Moov Africa 4G+ roll-out,"operator commercial roll-out, Bangui first",other,4G+,Moov Africa Centrafrique,,2025-07-28-caf-ecomatin-moov-20-milliards-4g-bangui
@@ -46,6 +47,7 @@ CIV,Programme national de connectivite rurale (PNCR),Cote d'Ivoire,ruralaccess,,
 CIV,ANSUT strategic plan 2026-2030,Cote d'Ivoire,other,,ANSUT,,2026-08-12-cote-divoire-ansut-strategic-plan-2026-2030
 CIV,ANSUT (Agence nationale du service universel des telecommunications et des TIC),Cote d'Ivoire,ruralaccess,,Government of Cote d'Ivoire,,2025-08-28-civ-cote-d-ivoire-telecommunications-l-ansut-et-l-uat-s-unissent-pour-fair
 CIV,PSNDEA (Projet de Solutions Numeriques et de Desenclavement des Zones Rurales et de l'E-Agriculture),Cote d'Ivoire,ruralaccess,,Ministry of Digital Transition,"World Bank financed, FCFA 38bn",2024-08-02-civ-mtnd-psndea-175-localites-rurales-connectees
+CIV,Reseau National Haut Debit (RNHD),Cote d'Ivoire,ruralaccess,fibre backbone,ANSUT,,2025-04-04-civ-ansut-rnhd-pilier-transformation-numerique
 CMR,Digital Transformation Acceleration Project (PATNUC),Cameroon,ruralaccess,,Ministry of Posts and Telecommunications,,2025-11-09 Cameroon aims to connect 328 rural communities by 2028 (PATNUC)
 CMR,Fonds special des telecommunications,Cameroon,other,,Government of Cameroon,,2025-07-11-cmr-numerique-pour-tous-le-cameroun-valide-sa-strategie-nationale-de-servi
 COD,Fonds de développement du service universel (FDSU),DR Congo,ruralaccess,,Ministry of Posts and Telecommunications,,2026-10-13-cod-agenceecofin-microsites-amn-fdsu-couverture-rurale
@@ -107,6 +109,8 @@ KEN,Universal Service Fund mobile network connectivity project,USF mobile networ
 KEN,Universal Service Fund,Universal Service Fund,ruralaccess,,State Department for Broadcasting and Telecommunications,,2026-10-31-ken-government-to-partner-with-counties-to-implement-ict-related-projects-acr
 KEN,Universal Service Fund mobile network connectivity project,USF mobile network connectivity project,ruralaccess,,Communications Authority of Kenya,,2025-01-31-ken-authority-targets-313-sub-locations-with-mobile-network-connectivity
 KEN,Communications Authority rural fibre and BTS programme,CA fibre and mobile connectivity programme,ruralaccess,,Communications Authority of Kenya,,2024-09-14-ken-ca-to-lay-2-500km-of-fibre-accross-19-counties
+KEN,Last Mile County Connectivity Project,Kenya,ruralaccess,,ICT Authority,,2025-10-15-ken-ict-authority-outlines-sh34-4-billion-plan-to-boost-kenya-s-digital-co
+KEN,Last Mile County Connectivity Project,Kenya,ruralaccess,National Optic Fibre Backbone Infrastructure (NOFBI),State Department for ICT and the Digital Economy,,2023-11-11-ken-gov-t-launches-phase-4-5-of-the-last-mile-county-connectivity-project
 LBR,Universal Access Fund,Liberia,ruralaccess,Starlink satellite,"Universal Access Fund, Liberia Telecommunications Authority",,2025-10-20-liberia-uaf-starlink-installed-vahun-district-lofa
 LBR,Universal Access Fund,Liberia,ruralaccess,,Liberia Telecommunications Authority,,2026-10-28-t-l-coms-le-liberia-identifie-les-zones-mal-desservies-pour-tendre-son
 LBR,Rural Telephony Program,Liberia,ruralaccess,,Liberia Telecommunications Authority (Universal Access Fund),,2026-09-23-lbr-boosting-connectivity-in-rural-liberia
@@ -230,6 +234,7 @@ UGA,UCUSAF,Uganda,ruralaccess,,Uganda Communications Universal Service and Acces
 UGA,UCUSAF,Uganda,ruralaccess,,Uganda Communications Commission,,2025-03-11-uga-parliament-ict-access-funding
 UGA,UCUSAF,UGA,ruralaccess,,Uganda Communications Commission,,2026-04-24-uga-kampala-hosts-itu-workshop-to-strengthen-national-broadband-mapping
 UGA,Access Infrastructure Program,Uganda,other,,UCUSAF,,2024-02-06-uga-ucc-ucusaf-telecom-infrastructure-program-launched-in-agago
+UGA,National Data Transmission Backbone Infrastructure Phase V,Uganda,ruralaccess,fibre,Government of Uganda,,2024-12-05-uga-uganda-expands-data-infrastructure-to-advance-digital-transformation-i
 ZAF,SA Connect,South Africa,ruralaccess,,government,,2026-10-10-zaf-sundaytimes-usaasa-needy-person-digital-subsidy-consultation
 ZAF,needy person digital subsidy consultation (Electronic Communications Act s. 88),South Africa,other,,Usaasa,,2026-10-10-zaf-sundaytimes-usaasa-needy-person-digital-subsidy-consultation
 ZAF,Universal Service and Access Fund (USAF),South Africa,ruralaccess,,USAASA,,2026-10-05-usaasa-usaf-manual-approved
@@ -238,6 +243,7 @@ ZAF,Sustainable Connectivity and Community-Led Digital Economies in South Africa
 ZAF,Sentech and Broadband Infraco Wi-Fi hotspots,South Africa,ruralaccess,Wi-Fi hotspots,Sentech and Broadband Infraco,,2025-06-23-zaf-pq-1084-hon-mr-s-k-sithole-ifp-to-ask-the-minister-of-communications-a
 ZAF,SA Connect,South Africa,ruralaccess,Wi-Fi hotspots,DCDT,,2024-03-01-zaf-minster-mondli-gungubele-launch-of-national-digital-skills-forum
 ZAF,SA Connect,South Africa,ruralaccess,Wi-Fi hotspots,Department of Communications and Digital Technologies,,2024-04-05-zaf-government-accelerates-programme-to-connect-citizens-to-internet
+ZAF,SA Connect,South Africa,ruralaccess,,Broadband Infraco and SITA,,2025-03-15-zaf-the-technically-insolvent-state-owned-broadband-company-that-lost-r459
 ZMB,UASF,Zambia,ruralaccess,,ZICTA,,2026-06-17-zicta-assesses-uasf-projects-muchinga
 ZMB,Universal Access and Service Fund (UASF),Zambia,ruralaccess,,ZICTA,,2025-09-01-zicta-uasf-copperbelt-northwestern
 ZMB,national broadband mapping system,Zambia,other,geospatial system,ZICTA (system custodian),,2026-02-01-africa-broadband-mapping-zambia-national-event-report

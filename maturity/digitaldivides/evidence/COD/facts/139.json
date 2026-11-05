@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-20-cod-fibre-optique-en-rdc-le-backbone-national-l-ossature-numerique-d-inter",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The head of the Access component of the digital transformation project said on 2026-06-19 that the Universal Service Development Fund is to finance mobile broadband sites, 4G and 5G stations and power in rural and peri-urban areas, and that 145 territories are to be connected, with a pilot in seven governorates and 44 administrative offices.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "Projet de transformation numerique (composante Acces)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

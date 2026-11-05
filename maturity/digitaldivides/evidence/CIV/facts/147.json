@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-04-civ-ansut-rnhd-pilier-transformation-numerique",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ANSUT, the universal telecommunications service agency, says its National Broadband Network (RNHD) has 5,207 km of fibre laid and is boosting 3G and 4G rollout in rural areas and the interior.",
+   "as_of": "2025-04-04",
+   "date_precision": "day",
+   "system": "Reseau National Haut Debit (RNHD)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Reseau National Haut Debit (RNHD)",
+   "country_label": "Cote d'Ivoire",
+   "class": "ruralaccess",
+   "platform": "fibre backbone",
+   "owner": "ANSUT",
+   "tiers": ""
+  }
+ ],
+ "note": "Counts kilometres of fibre, not rural sites or people connected."
+}

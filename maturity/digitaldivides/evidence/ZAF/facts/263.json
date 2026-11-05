@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-15-zaf-the-technically-insolvent-state-owned-broadband-company-that-lost-r459",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "MyBroadband reports SA Connect, launched by government in 2013 through Broadband Infraco and SITA, plans 1,180 km of further fibre in Phase 2 to cover about 5.5 million households, with rollout limited by Infraco's finances; its CEO named it and the Broadband Access Fund as key projects in February 2025.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "SA Connect",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SA Connect",
+   "country_label": "South Africa",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Broadband Infraco and SITA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

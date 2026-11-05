@@ -1,0 +1,27 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The universal access fund FASUCE, operational since 2020, has connected over 33,000 citizens in more than 173 localities and installed 183 mobile network sites, the Treasury sheet says.",
+   "as_of": "2024-08-30",
+   "date_precision": "day",
+   "system": "FASUCE",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Congo launched the World Bank-financed PATN in 2023 ($100 million), aimed at broadband access for underserved populations.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "PATN",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
