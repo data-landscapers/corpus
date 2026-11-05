@@ -1,0 +1,46 @@
+{
+ "slug": "2024-12-01-nga-nitda-bpp-and-frsc-emerge-worst-agencies-for-customer-complaints-resol",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "ReportGov.ng, described as Nigeria's official public service complaint website, recorded complaints against agencies in November 2024, for example eight for FRSC and four for FAAN.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "ReportGov.ng",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "ReportGov.ng's monthly report covers complaints about many federal agencies, including NITDA, BPP, FRSC, NPA, FAAN and Customs.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "ReportGov.ng",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "results",
+   "value": "published",
+   "fact": "ReportGov.ng's monthly report gives complaints received and resolved per agency for November 2024, for example FAAN four of four and NITDA none of two.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "ReportGov.ng",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ReportGov.ng",
+   "country_label": "Nigeria",
+   "class": "feedback",
+   "platform": "website",
+   "owner": "Presidential Enabling Business Environment Council (PEBEC)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

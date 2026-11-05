@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "feedback",
-      "stage": "no evidence",
-      "channel": "",
+      "stage": "3",
+      "channel": "inservice",
       "reach": "",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether people can complain about public services online.",
-      "note": "No evidence row is held on a digital channel for complaints about public services. Neither a channel nor a dated statement that there is none is on record.",
-      "as_at": "2026-11-04"
+      "stage_sources": "UGA-001",
+      "gaps": "No source found says a national channel takes complaints across government, and no resolution rate or case report has been found.",
+      "note": "GIZ said in 2025 that the Auditor General's Citizen Feedback Platform takes reports on service delivery and that 900 cases reported on it and two other apps had been resolved, a yes to question 2. Nothing found says it reaches across government, so it stops at 3.",
+      "as_at": "2026-11-05"
     }
   ]
 }

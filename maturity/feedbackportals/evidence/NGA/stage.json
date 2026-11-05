@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "feedback",
-      "stage": "4",
+      "stage": "5",
       "channel": "inservice",
       "reach": "wide",
-      "results": "",
+      "results": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-002",
-      "gaps": "No source found since October 2023 gives resolution rates, response times or a report of the cases handled.",
-      "note": "SERVICOM's coordinator said in March 2026 that its grievance platform lets complaints be received, tracked and resolved across all tiers of government, a yes to question 3. No resolution rate or case report is held, so it stops at 4.",
-      "as_at": "2026-11-04"
+      "stage_sources": "NGA-006;NGA-007;NGA-008",
+      "gaps": "No resolution figures for ReportGov.ng newer than November 2024 have been found, and none for the SERVICOM platform.",
+      "note": "ReportGov.ng's monthly report for November 2024 gave complaints received and resolved for each federal agency, a yes to question 4. SERVICOM's platform also routes complaints across all tiers of government.",
+      "as_at": "2026-11-05"
     }
   ]
 }

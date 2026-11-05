@@ -2,7 +2,7 @@
 
 ## Citizen feedback channel
 
-**Feedback channel.** In July 2025 [Zimbabwe's Ministry of Health and Child Care launched a Digital Grievance Redress Mechanism](<https://www.theanchor.co.zw/ministry-of-health-launches-digital-complaint-system/>), with support from the World Bank and Cordaid. Patients can rate services, write their own feedback, use mobile apps or go to public feedback booths. The mechanism covers the health services that the ministry runs.
+**Feedback channel.** In July 2025 [Zimbabwe's Ministry of Health and Child Care launched a Digital Grievance Redress Mechanism](<https://www.theanchor.co.zw/ministry-of-health-launches-digital-complaint-system/>), with support from the World Bank and Cordaid. Patients can rate services, write their own feedback, use mobile apps or go to public feedback booths. The mechanism covers the health services that the ministry runs. [In April 2026 the Ministry of Public Service presented progress on a proposed Grievance Redress Feedback Mechanism](<https://zimbabwenow.co.zw/articles/22060/zim-tests-grievance-system-model-abroad>) in Stockholm.
 
 **Across government.** The mechanism covers [health services, run by the Ministry of Health and Child Care](<https://www.theanchor.co.zw/ministry-of-health-launches-digital-complaint-system/>) with apps and feedback booths. Nothing found since October 2023 shows a channel reaching most ministries or local governments.
 

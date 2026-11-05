@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-gab-digitalisation-identitysecu-une-innovation-au-service-des-usagers-et-d",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The police inspectorate and Group IDENTITY signed an agreement on 29 October 2026 for a six-to-twelve-month pilot of the Identitysecu app for online complaints about police officers.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Identitysecu",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identitysecu",
+   "country_label": "Gabon",
+   "class": "feedback",
+   "platform": "mobile app",
+   "owner": "Inspection générale des Forces de police nationale / Group IDENTITY",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

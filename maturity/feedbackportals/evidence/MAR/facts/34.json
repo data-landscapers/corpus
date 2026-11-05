@@ -1,0 +1,46 @@
+{
+ "slug": "2025-01-09-mar-moroccans-filed-over-177-000-complaints-through-national-portal-in-202",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "The national complaints portal Chikaya.ma received 177,511 complaints in 2024, Hespress reports.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Chikaya.ma",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "Chikaya.ma has 1,743 participating entities and took 47,606 complaints about ministries and high commissions and 16,967 about local municipalities in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Chikaya.ma",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "results",
+   "value": "published",
+   "fact": "Chikaya.ma's 2024 statistics give a 70.44 per cent resolution rate and an average processing time of 19 days.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Chikaya.ma",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chikaya.ma",
+   "country_label": "Morocco",
+   "class": "feedback",
+   "platform": "web portal",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

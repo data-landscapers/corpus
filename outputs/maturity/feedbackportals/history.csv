@@ -87,3 +87,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,ZAF,include.access--citizen-feedback-portals,review,5,5,ZAF-003,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
 2026-11-04,ZMB,include.access--citizen-feedback-portals,review,2,2,ZMB-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
 2026-11-04,ZWE,include.access--citizen-feedback-portals,review,2,2,ZWE-001,Rebuild: first-pass cell re-read against the ladder and its neighbours; stage held.
+2026-11-05,DZA,include.access--citizen-feedback-portals,fact,2,5,DZA-005;DZA-006;DZA-007,"Mediator's grievance portal: 52,262 grievances from all administrations, 76.81% closed by April 2024; question 4 answered"
+2026-11-05,NGA,include.access--citizen-feedback-portals,fact,4,5,NGA-006;NGA-007;NGA-008,ReportGov.ng's November 2024 report gives complaints received and resolved per federal agency; question 4 answered
+2026-11-05,CMR,include.access--citizen-feedback-portals,fact,unplaced,2,CMR-002,"Public Independent Conciliator (NW/SW) preparing an online complaints platform, December 2024; question 1 answered"
+2026-11-05,UGA,include.access--citizen-feedback-portals,fact,no evidence,3,UGA-001,"GIZ 2025: Auditor General's Citizen Feedback Platform in service, 900 cases resolved across it and two apps; question 2 answered"
+2026-11-05,SOM,include.access--citizen-feedback-portals,fact,unplaced,unplaced,,"MoF bid call for a SCALED-UP project grievance platform, December 2024; a project mechanism, classed other; stays unplaced"

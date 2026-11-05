@@ -1,6 +1,6 @@
 # Citizen feedback portals: citizen feedback channel
 
-*As at 2026-11-04.*
+*As at 2026-11-05.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
-| 4 Operating | 2 |
-| 3 Established | 0 |
+| 5 Leading | 6 |
+| 4 Operating | 1 |
+| 3 Established | 1 |
 | 2 Nascent | 27 |
 | 1 Absent | 0 |
-| Unplaced | 10 |
-| No evidence | 11 |
+| Unplaced | 9 |
+| No evidence | 10 |
 
 ## Countries
+
+### Algeria: 5 Leading
+
+The national mediator's complaints portal reached all administrations and published its share of cases closed in 2024; later figures are not known.
+
+- The Médiateur de la République's electronic grievance-register portal had received 52,262 grievances nationwide since October 2023, according to its digitisation director ([source, 2024-04-22](https://www.dknews-dz.com/flash/4133-mediature-de-la-republique-plus-de-40000-doleances-traitees-par-linstance.html)).
+- The portal serves all administrations and public establishments, with 43,870 accounts created for 21,953 public administrations, the director said ([source, 2024-04-22](https://www.dknews-dz.com/flash/4133-mediature-de-la-republique-plus-de-40000-doleances-traitees-par-linstance.html)).
+- The mediator's office said 40,145 of 52,262 grievances were handled and closed, 76.81 per cent, between October 2023 and 22 April 2024 ([source, 2024-04-22](https://www.dknews-dz.com/flash/4133-mediature-de-la-republique-plus-de-40000-doleances-traitees-par-linstance.html)).
 
 ### Egypt: 5 Leading
 
@@ -49,17 +57,19 @@ Results of the national complaints channel were published in 2025.
 - Morocco World News reports Chikaya.ma processed 66.14% of 2025 complaints, with a 58.69% satisfaction rate, an average processing time of 16 days and more than 14,000 cases reopened ([source, 2025](https://www.moroccoworldnews.com/2026/01/273688/moroccan-citizens-filed-163694-complaints-against-public-administrations-in-2025/)).
 - Chikaya.ma statistics give 1,406,000 complaints processed (65.46%), an average processing time of 12 days and 60.94% positive feedback ([source, 2025-09-03](https://aujourdhui.ma/societe/chikaya-ma-plus-de-16-million-de-plaintes-deposees-jusqua-present)).
 
+### Nigeria: 5 Leading
+
+A national complaints website published cases resolved per federal agency in 2024; resolution figures for the newer national platform are not known.
+
+- ReportGov.ng, described as Nigeria's official public service complaint website, recorded complaints against agencies in November 2024, for example eight for FRSC and four for FAAN ([source, 2024-11](https://nairametrics.com/2024/12/01/nitda-bpp-and-frsc-emerge-worst-agencies-for-customer-complaints-resolution-in-november-2024/)).
+- ReportGov.ng's monthly report covers complaints about many federal agencies, including NITDA, BPP, FRSC, NPA, FAAN and Customs ([source, 2024-11](https://nairametrics.com/2024/12/01/nitda-bpp-and-frsc-emerge-worst-agencies-for-customer-complaints-resolution-in-november-2024/)).
+- ReportGov.ng's monthly report gives complaints received and resolved per agency for November 2024, for example FAAN four of four and NITDA none of two ([source, 2024-11](https://nairametrics.com/2024/12/01/nitda-bpp-and-frsc-emerge-worst-agencies-for-customer-complaints-resolution-in-november-2024/)).
+
 ### South Africa: 5 Leading
 
 Results of the national complaints channel were published in 2024.
 
 - DPME says 234,752 of 242,636 complaints (96.7%) were resolved as at 17 December 2024 and that quarterly, mid-year and annual hotline reports are available ([source, 2024-12-17](https://static.pmg.org.za/RCW727-2025-01-06.pdf)).
-
-### Nigeria: 4 Operating
-
-A national complaints channel covered services across government in 2026; its results are not published.
-
-- SERVICOM's acting National Coordinator says its Ministerial and Parastatal SERVICOM Units across MDAs let complaints be received, escalated, tracked and resolved across all tiers of government through the platform ([source, 2026-03-05](https://servicom.gov.ng/servicom-presidency-office-launches-the-nigeria-egm-electronic-grievance-management-platform/)).
 
 ### Tanzania: 4 Operating
 
@@ -67,12 +77,11 @@ A national complaints channel covered services across government in 2024; its re
 
 - The e-Government Authority says e-Mrejesho lets citizens reach all government institutions, transfers a misdirected complaint between institutions and allows appeal to a higher level ([source, 2024-07-05](https://www.ega.go.tz/news/mfumo-wa-e-mrejesho-washinda-tuzo-ya-umoja-wa-mataifa-ya-ubunifu-katika-huduma-za-umma)).
 
-### Algeria: 2 Nascent
+### Uganda: 3 Established
 
-A digital channel for complaints about public services was under way in 2025; one in service is not on record.
+The Auditor General's feedback platform had cases resolved on record in 2025; whether a channel reaches across government is not known.
 
-- La Nouvelle Republique reports the Ministry of Post and Telecommunications launched the insat.mpt.gov.dz portal for citizens' complaints, suggestions and audience requests on postal and telecom services; no case numbers are given ([source, 2025-02](https://www.lnr-dz.com/2025/02/22/un-portail-electronique-pour-prendre-en-charge-les-requetes-des-citoyens/)).
-- The Mediator of the Republic's office created the digital platform Tansik, presented in Tipaza on 22 April 2024, to digitise citizens' grievance registers across local and central administrations and track their handling; no case count is given ([source, 2024-04](https://www.dknews-dz.com/article/184987-mediature-de-la-republique-de-nouvelles-plateformes-pour-une-meilleure-prise-en-charge-des-preoccupations-des-citoyens.html)).
+- GIZ says the Citizen Feedback Platform lets Ugandans report service delivery concerns to the Office of the Auditor General, and that since 2022 2,300 citizens registered on the CMS, CFP and UHRC App, resolving 900 reported cases ([source, 2025-07](https://www.giz.de/sites/default/files/media/pkb-document/2025-09/giz2025-en-gcsp-factsheet_0.pdf)).
 
 ### Benin: 2 Nascent
 
@@ -86,6 +95,12 @@ A digital channel for complaints about public services was under way in 2025; on
 A digital channel for complaints about public services was under way in 2026; one in service is not on record.
 
 - The Commission de Régulation des Dysfonctionnements launched the DenonciationPro online platform, announced 23 February 2026, for citizens to report confidentially dysfunctions in public administration in about five minutes ([source, 2026-02-23](https://digitalmagazine.bf/2026/02/25/burkina-faso-lancement-dune-plateforme-de-soumission-des-denonciations-par-la-commission-de-regulation-des-dysfonctionnements/)).
+
+### Cameroon: 2 Nascent
+
+An online complaints platform for two regions was being prepared in 2024; no count of complaints received is known.
+
+- The Office of the Public Independent Conciliator (OPIC) for the North-West and South-West is about to launch an online SharePoint platform for complaints and trained staff on it on 12-13 December 2024 ([source, 2024-12](https://opicswr.cm/opic-to-launch-digital-platform-to-manage-complaints/)).
 
 ### Cape Verde: 2 Nascent
 
@@ -241,12 +256,6 @@ Nothing found since 2023 names a digital channel for complaints about public ser
 
 Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
-### Cameroon: Unplaced
-
-Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
-
 ### Comoros: Unplaced
 
 A food programme's grievance mechanism was being set up in 2026; no channel for complaints about public services is known, so no stage is set.
@@ -285,7 +294,7 @@ Not established: Nothing found since October 2023 says whether a digital channel
 
 ### Somalia: Unplaced
 
-A 2026 manual sets out complaints channels for one digital project; no channel for complaints about public services is known, so no stage is set.
+Complaints channels are on record only for World Bank projects, in 2024 and 2026; none for public services is known, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
@@ -350,12 +359,6 @@ Nothing found names a digital channel for complaints about public services or sa
 Not established: Nothing found says whether people can complain about public services online.
 
 ### Sierra Leone: No evidence
-
-Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
-
-Not established: Nothing found says whether people can complain about public services online.
-
-### Uganda: No evidence
 
 Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 

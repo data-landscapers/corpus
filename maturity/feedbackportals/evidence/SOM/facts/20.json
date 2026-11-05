@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-12-som-mof-rfb-citizen-engagement-grm-platform-scaled-up",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Somalia's Ministry of Finance issued a World Bank-funded request for bids on 12 December 2024 to design, supply and commission a Citizen Engagement and Grievance Redress Mechanism platform, bids due 12 January 2025.",
+   "as_of": "2024-12-12",
+   "date_precision": "day",
+   "system": "Citizen Engagement and Grievance Redress Mechanism platform",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Citizen Engagement and Grievance Redress Mechanism platform",
+   "country_label": "Somalia",
+   "class": "feedback",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

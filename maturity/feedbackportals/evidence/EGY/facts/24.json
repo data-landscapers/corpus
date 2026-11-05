@@ -1,0 +1,46 @@
+{
+ "slug": "2024-01-18-egy-cabinet-unified-complaints-system-2023-harvest",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "Egypt's Cabinet said its unified government complaints system, through the shakwa.eg portal, the Fi Khedmetak app and WhatsApp numbers, received and handled 1.46 million complaints, requests and reports in 2023, 15% more than in 2022.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Unified Government Complaints System",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "Egypt's Cabinet said the unified complaints system directed 68% of 2023 complaints to ministries, 21% to governorates, 9% to authorities and 2% to universities, working with all government bodies.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Unified Government Complaints System",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "results",
+   "value": "published",
+   "fact": "Egypt's Cabinet published a report on the system's 2023 cases and what was done, for example 72,000 of 78,000 building and land encroachment complaints settled with legal action.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Unified Government Complaints System",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Government Complaints System",
+   "country_label": "Egypt",
+   "class": "feedback",
+   "platform": "shakwa.eg portal, Fi Khedmetak app, WhatsApp, hotline 16528",
+   "owner": "Cabinet",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

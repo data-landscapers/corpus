@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-30-egy-egypt-moves-citizen-complaints-beyond-hotlines-with-whatsapp-digital-p",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "Egypt's cabinet Unified Government Complaints System takes complaints by hotline 16528, portal, the Fi Khedmetak app and WhatsApp, and received and handled 206,000 complaints, requests and inquiries in May 2026, per the State Information Service.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Unified Government Complaints System",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The document calls the cabinet's Unified Government Complaints System the broadest official channel for complaints across ministries and governorates, with 172,000 of 206,000 May 2026 submissions (83.5 percent) referred to the competent authorities.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Unified Government Complaints System",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Government Complaints System",
+   "country_label": "Egypt",
+   "class": "feedback",
+   "platform": "hotline 16528, portal, Fi Khedmetak app, WhatsApp",
+   "owner": "Cabinet",
+   "tiers": "ministries and governorates"
+  }
+ ],
+ "note": ""
+}
