@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-11-zaf-napafrica-and-teraco-acx-growing-africas-digital-community-as-napafric",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Teraco, a vendor-neutral colocation provider, says NAPAfrica and its interconnection platforms run within its data centres in Johannesburg, Cape Town and Durban; no Tier is stated.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco data centres",
+   "country_label": "Teraco",
+   "class": "datacentre",
+   "platform": "colocation",
+   "owner": "Digital Realty with private equity investors",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

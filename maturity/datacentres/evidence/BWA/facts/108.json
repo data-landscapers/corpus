@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-bwa-huawei-orange-partner-to-accelerate-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Mmegi says Orange Botswana's Tier III-certified data centre gives businesses and institutions a foundation for hosting critical systems and cloud adoption.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "Orange Botswana data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Botswana data centre",
+   "country_label": "Botswana",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange Botswana",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

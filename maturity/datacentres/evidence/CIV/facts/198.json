@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-15-civ-peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RAXIO datacentre, Grand-Bassam",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "RAXIO",
+   "tiers": ""
+  }
+ ],
+ "note": "The RAXIO datacentre is named only as the site of a coming CIVIX point of presence; renting to others is not stated."
+}

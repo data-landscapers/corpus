@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Apsara Stack private cloud (Dakar 2026)",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "Alibaba Cloud Apsara Stack",
+   "owner": "Dakar 2026 Organizing Committee",
+   "tiers": ""
+  }
+ ],
+ "note": "An event private cloud for the organizers' own use, with a planned handover; no data centre for hire, tier or cloud region is stated."
+}

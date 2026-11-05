@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-11-dza-fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "L'Echo d'Algerie says the Constantine data centre, operational since 2023, has cloud platforms for storing and processing the data of economic enterprises.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Data Center de Constantine",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "L'Echo d'Algerie says the Mohammadia data centre, built with Huawei and supervised by the High Commission for Digitalisation, holds the Uptime Institute Tier III Design certification and houses the national cloud.",
+   "as_of": "2026-10-11",
+   "date_precision": "day",
+   "system": "Data Center de Mohammadia",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center de Mohammadia",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "national cloud",
+   "owner": "",
+   "tiers": "Tier III Design"
+  },
+  {
+   "system": "Data Center de Constantine",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "cloud platforms",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Data Center de Blida",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

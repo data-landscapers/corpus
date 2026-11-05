@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-20-gha-pac-faults-communications-ministry-over-missing-6m",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data centre (e-government infrastructure)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Ghana (NITA)",
+   "tiers": ""
+  }
+ ],
+ "note": "A contract to commercialise spare capacity is described, but the article says only that leasing to private clients was intended, not that it is in service."
+}

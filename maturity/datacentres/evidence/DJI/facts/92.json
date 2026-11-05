@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-12-dji-the-wingu-group-s-partnership-with-ams-ix-in-djibouti-is-now-live-as-t",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "AMS-IX says Wingu Africa is a carrier-neutral data centre operator providing colocation and operates the Djibouti Data Center, serving major global telecom companies.",
+   "as_of": "2024-09-12",
+   "date_precision": "day",
+   "system": "Djibouti Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djibouti Data Center",
+   "country_label": "Djibouti",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

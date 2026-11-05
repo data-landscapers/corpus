@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-30-nga-nairametrics-galaxy-backbone-nictib-5000km-28-states",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Galaxy Backbone's managing director says its data centre network gives startups, government agencies and businesses access to data services.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Galaxy Backbone data centres",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Galaxy Backbone's managing director says its data centre network is certified by the Uptime Institute to Tier III and Tier IV standards.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Galaxy Backbone data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone data centres",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Galaxy Backbone (state-owned)",
+   "tiers": "Tier III and Tier IV (Uptime Institute)"
+  }
+ ],
+ "note": ""
+}

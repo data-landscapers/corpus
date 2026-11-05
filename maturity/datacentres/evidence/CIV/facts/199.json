@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-19-civ-services-telecoms-les-acquis-du-desenclavement-numerique-de-la-cote-d",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANSUT central datacenter",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSUT",
+   "tiers": ""
+  }
+ ],
+ "note": "ANSUT's central datacentre is described as serving the administration's shared network, not as rented to outside customers."
+}

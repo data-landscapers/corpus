@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-04-zaf-napafrica-achieves-5tbps-traffic-milestone-driving-africas-digital-tra",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Teraco says it is a carrier-neutral colocation provider whose data centres in Johannesburg, Cape Town and Durban host the NAPAfrica exchange and interconnect over 655 networks including ISPs, CDNs, cloud providers and enterprises.",
+   "as_of": "2025-03-04",
+   "date_precision": "day",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco data centres",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (majority-owned by Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

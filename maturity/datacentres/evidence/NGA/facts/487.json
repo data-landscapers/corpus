@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-06-nga-nigeria-s-internet-exchange-goes-400g-as-traffic-tops-two-terabits",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "CIO Africa describes Equinix LG1, Digital Realty LOS1 and Rack Centre as Lagos' three largest carrier-neutral data centres, where IXPN has points of presence.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "Equinix LG1, Digital Realty LOS1, Rack Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinix LG1",
+   "country_label": "Lagos",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix (acquired MainOne in 2022)",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Realty LOS1",
+   "country_label": "Lagos",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty (invested in Medallion)",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre",
+   "country_label": "Lagos",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

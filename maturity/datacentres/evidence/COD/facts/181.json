@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-21-cod-kinix-kinshasa-internet-exchange-expands-into-raxio-drc",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Tech Africa describes Raxio DRC as the carrier-neutral operator's Kinshasa facility, where KINIX has installed its exchange infrastructure.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Raxio DRC",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Tech Africa says Raxio DRC holds Tier III certification from the Uptime Institute.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "Raxio DRC",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio DRC",
+   "country_label": "Kinshasa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III (Uptime Institute)"
+  },
+  {
+   "system": "OADC FIH1",
+   "country_label": "Kinshasa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
