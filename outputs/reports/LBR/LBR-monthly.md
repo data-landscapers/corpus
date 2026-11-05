@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: LBR
-ledger_rows: 17
+ledger_rows: 18
 not_held: 6
-record: e5e0cba4ac49
+record: bfb09f616423
 ---
 
 # News, Oct – Nov 2026
@@ -235,6 +235,20 @@ Liberia's House of Representatives referred a proposed $52 million build-operate
 **[House Halts Review of US$52M National ID Deal Over Missing Signatures, No-Show Agencies](https://liberianinvestigator.com/liberia-national-id-concession-house-review-paused/)** — The Liberian Investigator, 30 October 2026
 
 A committee of Liberia's House suspended its review of a US$52 million concession with OeSD International for a national digital ID and civil registry system on 28 October 2026. The agreement before it lacked the signatures of OeSD's chief executive and the telecoms regulator's chairman. Three government agencies sent no one, and the hearing moved to 4 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric registration of undocumented migrants in four counties</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia: LRRRC Sets November 4 For Launch Of Biometric Registration For Burkinabe Migrants in Four Counties - FrontPageAfrica](https://frontpageafricaonline.com/liberia-lrrrc-sets-november-4-for-launch-of-biometric-registration-for-burkinabe-migrants-in-four-counties/)** — FrontPageAfrica, 2 November 2026
+
+Four counties, 5 Nov-31 Dec 2026; LRRRC, NIR and LIS enrol migrants in national biometric ID system.
 
 </div>
 
