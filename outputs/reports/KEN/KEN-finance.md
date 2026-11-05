@@ -1,6 +1,6 @@
 ---
 title: Kenya: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: KEN
 ---
 
@@ -15,12 +15,12 @@ place: KEN
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">77</td><td class="num">123</td><td class="num">139</td><td class="num total">340</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">90</td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num">195</td><td class="num">18</td><td class="num total">318</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">30</td><td class="num zero"></td><td class="num">65</td><td class="num">5</td><td class="num">6</td><td class="num zero"></td><td class="num total">107</td></tr>
-<tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">17</td><td class="num">41</td><td class="num">47</td><td class="num total">106</td></tr>
+<tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">18</td><td class="num">41</td><td class="num">47</td><td class="num total">107</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">49</td><td class="num zero"></td><td class="num zero"></td><td class="num">9</td><td class="num">31</td><td class="num">8</td><td class="num total">96</td></tr>
 <tr><th scope="row">Access to services</th><td class="num">50</td><td class="num zero"></td><td class="num zero"></td><td class="num">32</td><td class="num">3</td><td class="num">&lt;1</td><td class="num total">85</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">36</td><td class="num">5</td><td class="num">28</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">71</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">6</td><td class="num zero"></td><td class="num">11</td><td class="num zero"></td><td class="num">20</td><td class="num">13</td><td class="num total">50</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">19</td><td class="num">21</td><td class="num zero"></td><td class="num total">39</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num">6</td><td class="num zero"></td><td class="num">11</td><td class="num zero"></td><td class="num">20</td><td class="num zero"></td><td class="num total">37</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num">29</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num total">36</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">9</td><td class="num">24</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">34</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num">1</td><td class="num">8</td><td class="num total">14</td></tr>
@@ -33,10 +33,10 @@ place: KEN
 <tr><th scope="row">Rural digital data capture</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">933</td><td class="num">130</td><td class="num">523</td><td class="num">319</td><td class="num">2,962</td><td class="num">468</td><td class="num total">5,335</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">933</td><td class="num">130</td><td class="num">523</td><td class="num">320</td><td class="num">2,962</td><td class="num">481</td><td class="num total">5,349</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/all-finance.html">Full table &mdash; 233 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/all-finance.html">Full table &mdash; 235 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/KEN/KEN-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -82,13 +82,14 @@ place: KEN
 <tr><th scope="row">ICT Industry</th><td class="num">30</td><td class="num zero"></td><td class="num">65</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">96</td></tr>
 <tr><th scope="row">Access to services</th><td class="num">50</td><td class="num zero"></td><td class="num zero"></td><td class="num">32</td><td class="num">3</td><td class="num zero"></td><td class="num total">85</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">36</td><td class="num">5</td><td class="num">28</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">71</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">6</td><td class="num zero"></td><td class="num">11</td><td class="num zero"></td><td class="num">20</td><td class="num">13</td><td class="num total">50</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">49</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">49</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num">6</td><td class="num zero"></td><td class="num">11</td><td class="num zero"></td><td class="num">20</td><td class="num zero"></td><td class="num total">37</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">9</td><td class="num">24</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">34</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num">29</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">29</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num">4</td><td class="num total">9</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num total">2</td></tr>
 <tr><th scope="row">Legislation and regulation</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
@@ -96,10 +97,10 @@ place: KEN
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">933</td><td class="num">130</td><td class="num">523</td><td class="num">53</td><td class="num">2,630</td><td class="num">150</td><td class="num total">4,419</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">933</td><td class="num">130</td><td class="num">523</td><td class="num">54</td><td class="num">2,630</td><td class="num">163</td><td class="num total">4,433</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/finance.html">Full table &mdash; 75 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/finance.html">Full table &mdash; 77 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/KEN/KEN-nonstate.csv" download>&darr; Download CSV</a>
 </div>

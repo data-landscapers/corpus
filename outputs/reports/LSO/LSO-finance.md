@@ -1,26 +1,26 @@
 ---
 title: Lesotho: finance
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: LSO
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num">13</td><td class="num">17</td><td class="num">19</td><td class="num total">48</td></tr>
-<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num">4</td><td class="num">9</td><td class="num">18</td><td class="num total">31</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">14</td><td class="num">5</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">20</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">5</td><td class="num">6</td><td class="num">6</td><td class="num total">17</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">5</td><td class="num total">10</td></tr>
-<tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">5</td><td class="num">2</td><td class="num">3</td><td class="num total">9</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">13</td><td class="num">17</td><td class="num">19</td><td class="num total">48</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">23</td><td class="num">2</td><td class="num">3</td><td class="num">5</td><td class="num total">33</td></tr>
+<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">9</td><td class="num">18</td><td class="num total">31</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">14</td><td class="num zero"></td><td class="num">5</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">20</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">6</td><td class="num">6</td><td class="num total">17</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">2</td><td class="num">3</td><td class="num total">9</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">14</td><td class="num">34</td><td class="num">36</td><td class="num">52</td><td class="num total">137</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">14</td><td class="num">23</td><td class="num">34</td><td class="num">36</td><td class="num">52</td><td class="num total">160</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/LSO/all-finance.html">Full table &mdash; 41 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/LSO/all-finance.html">Full table &mdash; 42 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/LSO/LSO-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -48,14 +48,15 @@ place: LSO
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2024</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">14</td><td class="num">5</td><td class="num total">19</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">23</td><td class="num zero"></td><td class="num total">23</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">14</td><td class="num zero"></td><td class="num">5</td><td class="num total">19</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">14</td><td class="num">5</td><td class="num total">19</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">14</td><td class="num">23</td><td class="num">5</td><td class="num total">42</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/LSO/finance.html">Full table &mdash; 2 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/LSO/finance.html">Full table &mdash; 3 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/LSO/LSO-nonstate.csv" download>&darr; Download CSV</a>
 </div>
