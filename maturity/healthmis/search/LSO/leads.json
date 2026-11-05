@@ -1,0 +1,6 @@
+[
+{"url":"https://doi.org/10.1093/oodh/oqae021","title":"From disease specific to universal health coverage in Lesotho: successes and challenges encountered in Lesotho's digital health journey","publisher":"Oxford Open Digital Health","published":"2024","sub_indicator":"hmis","why":"DHIS2 national HMIS interoperable with eRegister and lab system"},
+{"url":"https://openknowledge.worldbank.org/server/api/core/bitstreams/cef30410-108d-4f8a-a725-2842e5baaf84/content","title":"World Bank Group digital health assessment, Lesotho","publisher":"World Bank Group","published":"2022","sub_indicator":"hmis","why":"DHIS-2 running nationally as of November 2022, integrated with e-Register"},
+{"url":"https://bmjopen.bmj.com/content/13/5/e071414","title":"Effects of primary healthcare reform on routine health information systems (RHISs): a mixed-methods study in Lesotho","publisher":"BMJ Open","published":"2023","sub_indicator":"hmis","why":"data completion rates in routine data"},
+{"url":"https://implementome.org/en/projectdetails/6c79dde7-9061-4ff6-a02b-578552e76414","title":"DHIS2 MoH Data Warehouse","publisher":"Implementome","published":"","sub_indicator":"hmis","why":"national DHIS2 coverage"}
+]

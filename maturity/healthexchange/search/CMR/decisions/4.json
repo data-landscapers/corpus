@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Cameroon's government adopted openIMIS in January 2023 to integrate separate health programmes into one universal health coverage programme, with data exchanged between enrolment, billing and payment applications.",
+ "title": "Cameroon's vision: universal healthcare with openIMIS",
+ "publisher": "BMZ Digital.Global",
+ "published": "2024-10-23",
+ "date_source": "proxy",
+ "why_not": ""
+}

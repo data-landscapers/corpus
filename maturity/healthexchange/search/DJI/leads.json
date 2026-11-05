@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sante.gouv.dj/article/61",
+  "title": "Ministère de la santé",
+  "publisher": "Ministère de la Santé de Djibouti",
+  "published": "2020-11-23",
+  "sub_indicator": "exchange",
+  "why": "DHIS2 integration of hospital data planned"
+ },
+ {
+  "url": "https://sante.gouv.dj/article/181",
+  "title": "Ministère de la santé (mSupply)",
+  "publisher": "Ministère de la Santé de Djibouti",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "mSupply national with patient record"
+ },
+ {
+  "url": "https://www.lanation.dj/portrait-elmi-saleban-yassin-pionnier-de-la-sante-numerique-et-de-lintelligence-artificielle-a-djibouti/",
+  "title": "Portrait Elmi Saleban Yassin",
+  "publisher": "La Nation",
+  "published": "2026-02-26",
+  "sub_indicator": "exchange",
+  "why": "Interoperability between institutions"
+ },
+ {
+  "url": "https://djibouti.unfpa.org/en/news/strengthening-governance-gender-based-violence-data-integrating-gbvims-health-dhis2-djibouti",
+  "title": "Integrating GBVIMS-Health into DHIS2 in Djibouti",
+  "publisher": "UNFPA Djibouti",
+  "published": "2026-02-08",
+  "sub_indicator": "exchange",
+  "why": "DHIS2-GBVIMS integration"
+ },
+ {
+  "url": "https://djibouti.un.org/fr/294824-djibouti-am%C3%A9liore-ses-services-de-planification-familiale-gr%C3%A2ce-au-dossier-patient",
+  "title": "Djibouti améliore ses services de planification familiale grâce au dossier patient électronique MSupply",
+  "publisher": "Nations Unies Djibouti",
+  "published": "2025-05-15",
+  "sub_indicator": "exchange",
+  "why": "EPR in 23 facilities"
+ },
+ {
+  "url": "https://igad.int/meeting-on-igad-djibouti-data-sharing-and-protection-policy-framework-domestification/",
+  "title": "Meeting On IGAD-Djibouti Data Sharing and Protection Policy Framework",
+  "publisher": "IGAD",
+  "published": "2023-09-07",
+  "sub_indicator": "exchange",
+  "why": "Cross-border data sharing policy"
+ },
+ {
+  "url": "https://cnss.dj/projet-esante/",
+  "title": "Projet Esanté - CNSS",
+  "publisher": "CNSS Djibouti",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "MyAfia interoperability"
+ },
+ {
+  "url": "https://ega.ee/project/djibouti-digital-interoperability-platform/",
+  "title": "Djibouti Digital Interoperability Platform",
+  "publisher": "e-Governance Academy",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "National data exchange layer"
+ }
+]

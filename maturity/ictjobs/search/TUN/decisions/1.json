@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth",
+ "fact": "Tunisia's INS puts unemployment among 15-24 year olds at 40.9 per cent in the fourth quarter of 2023, from the national employment survey.",
+ "title": "Indicateurs de l'emploi et du chomage au quatrieme trimestre 2023",
+ "publisher": "Institut national de la statistique (INS)",
+ "published": "2024-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

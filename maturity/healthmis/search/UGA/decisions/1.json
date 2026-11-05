@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;completeness",
+ "fact": "Uganda's DHIS2 reporting rate rose from 58 percent in 2020 to 98 percent in 2025 according to programme data reported when Makerere University transferred the digital health system to the Ministry of Health.",
+ "title": "Makerere University transfers $100 million digital health system to Ministry of Health",
+ "publisher": "UG Standard",
+ "published": "2026-04-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.health.gov.sc/wp-content/uploads/Annual-Health-Sector-Performance-Report-2023.pdf",
+  "title": "Annual Health-sector Performance Report 2023",
+  "publisher": "Ministry of Health, Seychelles",
+  "published": "2024",
+  "sub_indicator": "hmis",
+  "why": "eHIS rollout, DHIS2 planned"
+ },
+ {
+  "url": "https://www.health.gov.sc/national-health-strategic-plan-2022-2026-2/strategic-direction-six-improve-data-for-impact/",
+  "title": "Strategic Direction Six: Improve Data for Impact",
+  "publisher": "Ministry of Health, Seychelles",
+  "published": "",
+  "sub_indicator": "hmis",
+  "why": "paper-based capture, eHIS stalled"
+ },
+ {
+  "url": "https://www.nation.sc/articles/20833/leaders-scrutinize-seychelles-digital-health-transformation",
+  "title": "Leaders scrutinize Seychelles' digital health transformation",
+  "publisher": "Seychelles Nation",
+  "published": "2024-01-23",
+  "sub_indicator": "hmis",
+  "why": "EHIS operational since end 2021; linking to labs"
+ },
+ {
+  "url": "https://thecommonwealth.org/news/seychelles-health-system-bolstered-commonwealth-who-partnership",
+  "title": "Seychelles health system is bolstered by Commonwealth-WHO partnership",
+  "publisher": "Commonwealth Secretariat",
+  "published": "2023-11-07",
+  "sub_indicator": "hmis",
+  "why": "EHIS integrated with surveillance, labs, imaging"
+ }
+]

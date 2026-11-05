@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "identifier",
+ "fact": "In April 2021 the Libyan Health Ministry said it planned a unified national system linking all public health institutions and all patients' data to a unified electronic health file identified by the National ID Number.",
+ "title": "Libya Health Ministry Plans Digital Transformation into 'Smart Ministry'",
+ "publisher": "Libya Herald",
+ "published": "2021-04-23",
+ "date_source": "source",
+ "why_not": ""
+}

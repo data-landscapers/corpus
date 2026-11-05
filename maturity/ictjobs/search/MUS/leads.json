@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://statsmauritius.govmu.org/Documents/Statistics/ESI/2025/EI1855/LF_Emp_Unemp_Yr24_200525.pdf",
+  "title": "Labour Force, Employment and Unemployment, Year 2024 (CMPHS)",
+  "publisher": "Statistics Mauritius",
+  "published": "2025-05-20",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment 2024"
+ },
+ {
+  "url": "https://statsmauritius.govmu.org/Documents/Statistics/ESI/2025/EI1850/LF_Emp_Unemp_4Qtr24_280325.pdf",
+  "title": "Labour Force, Employment and Unemployment, 4th Quarter 2024",
+  "publisher": "Statistics Mauritius",
+  "published": "2025-03-28",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment Q4 2024"
+ }
+]

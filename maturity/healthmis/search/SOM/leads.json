@@ -1,0 +1,6 @@
+[
+{"url":"https://doi.org/10.1002/puh2.70416","title":"Fragmented Data, Fragmented Care: Strengthening Health Information Systems for Universal Health Coverage in Somalia","publisher":"Public Health Challenges","published":"2026","sub_indicator":"hmis","why":"persistent completeness and interoperability gaps"},
+{"url":"https://communities.springernature.com/posts/from-reporting-numbers-to-using-evidence-lessons-from-somalia-s-health-information-system","title":"From Reporting Numbers to Using Evidence: Lessons from Somalia's Health Information System","publisher":"Springer Nature Research Communities","published":"2026-07-17","sub_indicator":"hmis","why":"DHIS2 adopted as national routine reporting platform"},
+{"url":"https://moh.gov.so/so/wp-content/uploads/2023/12/Quarterly-Healtrh-Statistics-Bulletin.-final_signed.pdf","title":"Quarterly Health Statistics Bulletin","publisher":"Ministry of Health, Federal Government of Somalia","published":"2023","sub_indicator":"hmis","why":"DHIS2 exclusive HMIS, e-IDSR integrated, 95.8% aggregate reporting rate Q3 2023"},
+{"url":"https://applications.emro.who.int/docs/9789292742188-eng.pdf","title":"Comprehensive assessment of Somalia's health information system 2022","publisher":"WHO EMRO","published":"2023","sub_indicator":"hmis","why":"DHIS2 since 2017, completeness 62% to 91%"}
+]

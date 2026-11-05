@@ -1,0 +1,6 @@
+[
+{"url":"https://www.health.gov.za/wp-content/uploads/2026/08/NDOH-09-2026-26-Additional-Information.pdf","title":"webDHIS (DHIS2) Technical Stack Overview","publisher":"National Department of Health, South Africa","published":"2026","sub_indicator":"hmis","why":"webDHIS national health information platform, multiple instances"},
+{"url":"https://scielo.org.za/scielo.php?pid=S1560-683X2024000100055&script=sci_arttext","title":"Quality of routine health data in DHIS2 in South Africa: Eastern Cape province from 2017-2020","publisher":"African Journal of Primary Health Care & Family Medicine","published":"2024","sub_indicator":"hmis","why":"DHIS2 completeness 74.6% in Eastern Cape"},
+{"url":"https://www.nrf.ac.za/can-south-africas-health-information-system-support-national-health-insurance/","title":"Can South Africa's Health Information System Support National Health Insurance?","publisher":"National Research Foundation","published":"","sub_indicator":"hmis","why":"DHIS2 in place but facilities rely on paper registers"},
+{"url":"https://www.health.gov.za/wp-content/uploads/2026/08/webDHIS-v2.38_-User-Manual_-2023_1-1.pdf","title":"webDHIS v2.38 User Manual","publisher":"National Department of Health / HISP","published":"2023","sub_indicator":"hmis","why":"webDHIS is South Africa's DHIS2"}
+]

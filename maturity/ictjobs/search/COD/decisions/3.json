@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth",
+ "fact": "The DR Congo national youth employment report finds an ILO-strict unemployment rate of 2.5 per cent for young people against 1.4 per cent for adults, from the 2020 SDG indicators survey.",
+ "title": "Rapport National - Emploi des Jeunes",
+ "publisher": "OCDD",
+ "published": "2022-12",
+ "date_source": "source",
+ "why_not": ""
+}

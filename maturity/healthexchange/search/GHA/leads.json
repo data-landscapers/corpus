@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://publichealth.jhu.edu/sites/default/files/2026-10/DigitalHealthExemplars-Ghana-September2026-1.pdf",
+  "title": "Digital transformation of primary healthcare in Ghana",
+  "publisher": "Johns Hopkins Bloomberg School of Public Health",
+  "published": "2026-09",
+  "sub_indicator": "exchange",
+  "why": "Q1-Q3: interoperability not yet realised; MNCH tracker-DHIS2 pilot"
+ },
+ {
+  "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000863",
+  "title": "Digital health interventions in strengthening primary healthcare systems in Sub-Saharan Africa: Ethiopia, Ghana, and Zimbabwe",
+  "publisher": "PLOS Digital Health",
+  "published": "2026-01-02",
+  "sub_indicator": "exchange",
+  "why": "Q1: DHIMS and LHIMS not interoperable"
+ },
+ {
+  "url": "https://www.adomonline.com/lightwave-ehealthcare-solutions-reaffirms-commitment-to-ghanas-e-health-agenda-ongoing-lhims-support/",
+  "title": "Lightwave eHealthcare Solutions reaffirms commitment to Ghana's E-Health Agenda",
+  "publisher": "Adomonline",
+  "published": "2025-10-08",
+  "sub_indicator": "exchange",
+  "why": "Q2/Q3: LHIMS integrations with DHIMS2, NIA, BDR"
+ },
+ {
+  "url": "https://gna.org.gh/2024/11/ministry-of-health-assures-nationwide-health-data-interoperability/",
+  "title": "Ministry of Health assures nationwide health data interoperability",
+  "publisher": "Ghana News Agency",
+  "published": "2024-11-15",
+  "sub_indicator": "exchange",
+  "why": "Q1: Ghana Health Information Exchange initiative"
+ },
+ {
+  "url": "https://www.bmz-digital.global/wp-content/uploads/2024/10/GHANA-Health-Data-Ecosystem-Mapping-DIPC.pdf",
+  "title": "Ghana Health Data Ecosystem Mapping",
+  "publisher": "Digital Square / Ghana Health Service",
+  "published": "2024",
+  "sub_indicator": "exchange",
+  "why": "Q1: systems not interoperable; FHIR interoperability project 2023-24"
+ }
+]

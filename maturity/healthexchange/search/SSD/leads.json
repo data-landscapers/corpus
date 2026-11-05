@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.afro.who.int/sites/default/files/2025-03/Knowledge%20Management%20Series%20for%20Health%20Maturity%20of%20the%20Health%20Information%20System%20of%20South%20Sudan%20_%20progress%2C%20gaps%20and%20priorities%20for%20investment.pdf",
+  "title": "Maturity of the Health Information System of South Sudan: progress, gaps and priorities for investment",
+  "publisher": "WHO AFRO",
+  "published": "2025-03",
+  "sub_indicator": "exchange",
+  "why": "program data integration into DHIS2 in progress"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-06/undp-ss-rsshbrief-2026.pdf",
+  "title": "Key UNDP Wins for South Sudan's Health Systems through the Global Fund support",
+  "publisher": "UNDP South Sudan",
+  "published": "2026-06",
+  "sub_indicator": "exchange",
+  "why": "mSupply eLMIS interoperable with DHIS2"
+ },
+ {
+  "url": "https://sshia.org/knowledge-base/what-is-the-openhie-framework-and-how-does-it-apply-to-south-sudan",
+  "title": "What is the OpenHIE framework and how does it apply to South Sudan?",
+  "publisher": "SSHIA",
+  "published": "2026-05-21",
+  "sub_indicator": "exchange",
+  "why": "OpenHIE elements being implemented"
+ },
+ {
+  "url": "https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/2023/Documents/South_Sudan_-_Marketplace_Poster_HIS_Status_and_Priorities.pdf",
+  "title": "South Sudan HIS Status and Priorities",
+  "publisher": "Health Data Collaborative",
+  "published": "2023",
+  "sub_indicator": "exchange",
+  "why": "interoperability HMIS roadmap"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;identifier",
+ "fact": "Between September 2019 and June 2020 SAVICS built Rwanda's health information exchange, with an OpenHIM interoperability layer exchanging data between OpenMRS, LabWare, NIDA and DHIS2, and patient information in OpenMRS linked from the NIDA citizen database.",
+ "title": "Creating a Health Information Exchange System in Rwanda",
+ "publisher": "OpenHIE",
+ "published": "2021-06-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

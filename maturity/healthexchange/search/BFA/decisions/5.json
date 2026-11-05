@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "identifier",
+ "fact": "In Burkina Faso the unique patient identification system is not yet used and no national unique identifier initiative has been completed.",
+ "title": "Design and Implementation of a Unique Patient Identification Model in Information Systems in Burkina Faso",
+ "publisher": "IOS Press (Studies in Health Technology and Informatics 290)",
+ "published": "2022-06-06",
+ "date_source": "source",
+ "why_not": ""
+}

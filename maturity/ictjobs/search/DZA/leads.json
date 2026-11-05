@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.ons.dz/spip.php?rubrique230=",
+  "title": "ONS Activite, emploi et chomage octobre 2024",
+  "publisher": "ONS",
+  "published": "2025-03-09",
+  "sub_indicator": "ictjobs",
+  "why": "Preliminary results October 2024 employment survey"
+ },
+ {
+  "url": "https://www.kas.de/documents/18049529/18064197/Ch%C3%B4mage,+Formation+,+IA+_+Les+grands+enjeux+de+l'e_251001_100515.pdf",
+  "title": "Chomage, formation, IA : les grands enjeux de l'emploi",
+  "publisher": "Konrad-Adenauer-Stiftung",
+  "published": "2025-10",
+  "sub_indicator": "ictjobs",
+  "why": "ONS 2024 survey sector shares and youth rate 29.3"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-services/3007-140632-en-algerie-la-formation-professionnelle-s-etend-sans-bilan-d-insertion",
+  "title": "En Algerie, la formation professionnelle s'etend sans bilan d'insertion",
+  "publisher": "Agence Ecofin",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Youth 16-24 unemployment 29.3 Oct 2024"
+ },
+ {
+  "url": "https://maghrebemergent.news/fr/ou-ons-revisite-enfin-le-chomage-des-algeriens/",
+  "title": "Ou l'ONS revisite enfin le chomage des Algeriens",
+  "publisher": "Maghreb Emergent",
+  "published": "2025-03-02",
+  "sub_indicator": "ictjobs",
+  "why": "ONS Oct 2024 youth 29.3"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "A Libyan Academy study states that, after a 2015 ministerial decision and a 2022 decision (No. 200) requiring information exchange through electronic records, the electronic health record project had not been implemented as of a February 2025 visit.",
+ "title": "Obstacles to implementing the electronic health record in Libyan health institutions",
+ "publisher": "Libyan Academy",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

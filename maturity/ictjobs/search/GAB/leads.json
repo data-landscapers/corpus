@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://new.instatgabon.org/enec/assets/docs/enec-2024-rapport-synthese.pdf",
+  "title": "L'emploi, le chomage et les conditions d'activite au Gabon en 2024 (rapport de synthese ENEC 2024)",
+  "publisher": "DGS Gabon",
+  "published": "2024",
+  "sub_indicator": "ictjobs",
+  "why": "National LFS youth unemployment"
+ },
+ {
+  "url": "https://new.instatgabon.org/enec/assets/docs/enec-2024-indicateurs-marche-travail.pdf",
+  "title": "Indicateurs cles du marche du travail ENEC 2024",
+  "publisher": "DGE/DGS Gabon",
+  "published": "2024",
+  "sub_indicator": "ictjobs",
+  "why": "Key labour indicators incl. youth unemployment"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth;jobs",
+ "fact": "ZIMSTAT's first quarter 2024 labour force survey puts unemployment among 15-24 year olds at 37.7 per cent.",
+ "title": "2024 First Quarter Labour Force Survey Report",
+ "publisher": "Zimbabwe National Statistics Agency",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

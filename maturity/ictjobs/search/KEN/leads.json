@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.knbs.or.ke/wp-content/uploads/2024/05/2024-Economic-Survey.pdf",
+  "title": "Economic Survey 2024",
+  "publisher": "KNBS",
+  "published": "2024-05",
+  "sub_indicator": "ictjobs",
+  "why": "Employment by sector incl. information and communication"
+ },
+ {
+  "url": "https://www.knbs.or.ke/wp-content/uploads/2024/05/Facts-Figures-2024.pdf",
+  "title": "Kenya Facts and Figures 2024",
+  "publisher": "KNBS",
+  "published": "2024-05",
+  "sub_indicator": "ictjobs",
+  "why": "Wage employment in information and communication"
+ },
+ {
+  "url": "https://www.knbs.or.ke/quarterly-labour-force-reports/",
+  "title": "Quarterly Labour Force Reports",
+  "publisher": "KNBS",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "QLFS series"
+ },
+ {
+  "url": "https://www.labourmarket.go.ke/key-labour-market-indicators/",
+  "title": "Quarterly Labour Market Indicators for Kenya",
+  "publisher": "KLMIS",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "KNBS-based labour indicators"
+ }
+]

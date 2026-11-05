@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;identifier",
+ "fact": "A July 2024 C-Saude account says Mozambique's provincial EPTS centralisation on OpenMRS-EIP cut Mozart data transfers from over 600 to eleven and plans Master Patient Index integration as its second phase.",
+ "title": "EPTS Centralization in Mozambique - Transforming Provincial Health Data Management",
+ "publisher": "C-Saúde",
+ "published": "2024-07-24",
+ "date_source": "source",
+ "why_not": ""
+}

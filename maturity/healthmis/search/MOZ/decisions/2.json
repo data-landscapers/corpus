@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;completeness",
+ "fact": "In January 2025 the Ministry of Health stated that SIS-MA on DHIS2 is the country's main reporting platform since 2016, but that only 340 of 1,886 public facilities enter data directly, with a data quality index of 70% at district and 63% at facility level.",
+ "title": "Plano de melhoria de qualidade de dados (PMQD) 2025-2029",
+ "publisher": "Ministério da Saúde (MISAU)",
+ "published": "2025-01",
+ "date_source": "source",
+ "why_not": ""
+}

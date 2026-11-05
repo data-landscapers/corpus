@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "OpenCR, an open-source client registry built for Uganda's Central Public Health Laboratory viral load LIMS, was deployed on local servers and tested in country by April 2020, with a workshop on integration with Uganda's HIE architecture.",
+ "title": "Open Client Registry",
+ "publisher": "MEASURE Evaluation",
+ "published": "2020-05",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "In March 2026 a WHO and HISP UiO mission to Angola agreed a priority to improve integration of the national DHIS2 system with electronic logistics management information systems (eLMIS), prioritising interoperability between platforms.",
+ "title": "Angola to partner with HISP UiO and WHO on health information system integration",
+ "publisher": "DHIS2",
+ "published": "2026-04-07",
+ "date_source": "source",
+ "why_not": ""
+}

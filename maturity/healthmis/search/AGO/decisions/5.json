@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "linked",
+ "fact": "The community HIV information system was made interoperable with the national DHIS2-based community system, integrating malaria, nutrition and mass drug administration data.",
+ "title": "Estabelecida a interoperabilidade entre o SIS-Comunitário do HIV e o SIS-C Angola",
+ "publisher": "Saudigitus",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

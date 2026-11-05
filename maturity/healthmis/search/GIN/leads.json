@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/BULLETIN_SNIS/BULLETIN_TRIMESTRIEL_N%C2%B0_02_T1_2026_SNIS.pdf",
+  "title": "Bulletin trimestriel N°02 T1 2026 SNIS",
+  "publisher": "SNIS Guinée",
+  "published": "2026",
+  "sub_indicator": "hmis",
+  "why": "Q4 completeness and timeliness published"
+ },
+ {
+  "url": "https://sante.gov.gn/mshp-guinee-bulletin-de-performance-sanitaire-n01-t1-2026/",
+  "title": "Bulletin de Performance Sanitaire N°01 – T1 2026",
+  "publisher": "Ministère de la Santé et de l'Hygiène publique",
+  "published": "2026",
+  "sub_indicator": "hmis",
+  "why": "Q4 SNIS completeness 100%"
+ },
+ {
+  "url": "https://afro.who.int/sites/default/files/2022-10/Guinee-%20Strat%C3%A9gie%20Nationale%20Sante%20Numerique_2021%202025_VF_0.pdf",
+  "title": "Stratégie nationale de santé numérique 2021-2025",
+  "publisher": "Ministère de la Santé (Guinée)",
+  "published": "2021",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q3 DHIS2 all districts, interoperability"
+ },
+ {
+  "url": "https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/Annuaire_statistique_sante_2022.pdf",
+  "title": "Annuaire des statistiques sanitaires 2022",
+  "publisher": "Ministère de la Santé et de l'Hygiène Publique",
+  "published": "2023",
+  "sub_indicator": "hmis",
+  "why": "Q2 DHIS2 platform"
+ },
+ {
+  "url": "https://data2.gffportal.org/sites/default/files/2026-10/Guinea-Countdown.pdf",
+  "title": "Guinée 2026 CAM report synthesis",
+  "publisher": "Countdown to 2030",
+  "published": "2026",
+  "sub_indicator": "hmis",
+  "why": "Q4 reporting completeness DHIS2"
+ },
+ {
+  "url": "https://pasa2.sante.gov.gn/domaines/monitoring-de-la-qualite-des-soins-et-services/renforcement-snis-validation-donnees-dhis2/",
+  "title": "Renforcement SNIS / Validation données DHIS2",
+  "publisher": "PASA2",
+  "published": "",
+  "sub_indicator": "hmis",
+  "why": "Q2 DHIS2 strengthening"
+ }
+]

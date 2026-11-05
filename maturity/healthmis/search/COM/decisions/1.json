@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;completeness",
+ "fact": "Since 2022 the Comoros Ministry of Health has used DHIS2 as the national routine health information platform, and immunization reporting moved into it for 79 facilities, with completeness up by over 90% and timeliness by about 85%.",
+ "title": "Strengthening vaccination data use culture: Integration of DVD-MT into DHIS2 Comoros",
+ "publisher": "HISP Rwanda",
+ "published": "2026-05-21",
+ "date_source": "source",
+ "why_not": ""
+}

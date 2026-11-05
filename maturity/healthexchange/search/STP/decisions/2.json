@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The 2023-2032 national health development plan records fragmented information systems and plans interoperability between the national health information system and other systems and the extension of a single clinical process to the whole health system.",
+ "title": "Plano Nacional de Desenvolvimento da Saúde 2023-2032",
+ "publisher": "Ministério da Saúde, São Tomé e Príncipe",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

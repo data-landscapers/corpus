@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.ilo.org/sites/default/files/2026-05/Benin%20Final%20May%202026.pdf",
+  "title": "ILO WAEMU Youth Country Briefs: Benin",
+  "publisher": "ILO",
+  "published": "2026-05",
+  "sub_indicator": "ictjobs",
+  "why": "Youth labour market and sector employment 2022 (EHCVM)"
+ },
+ {
+  "url": "https://www.inter-reseaux.org/wp-content/uploads/Benin-LMP-2025-final.pdf",
+  "title": "Benin Labour Market Profile 2025/2026",
+  "publisher": "Danish Trade Union Development Agency",
+  "published": "2025",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment 2022 and ICT skills"
+ },
+ {
+  "url": "https://instad.bj/images/docs/insae-publications/annuelles/AS-INSAE/Annee_2024/Annuaire%202024.pdf",
+  "title": "Annuaire statistique 2024",
+  "publisher": "INStaD",
+  "published": "2024",
+  "sub_indicator": "ictjobs",
+  "why": "Employment and unemployment tables"
+ }
+]

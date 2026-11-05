@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.statsbots.org.bw/sites/default/files/publications/BOTSWANA%20MULTI%20TOPIC%20HOUSEHOLD%20SURVEY%202024%205%20%20%20%20Labour%20Force%20Preliminary%20Stats%20Brief.pdf",
+  "title": "Botswana Multi Topic Household Survey 2024/25 Labour Force Preliminary Stats Brief",
+  "publisher": "Statistics Botswana",
+  "published": "2025",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment 2024/25"
+ },
+ {
+  "url": "https://hrdc.org.bw/web/sites/default/files/2026-08/hrdc_2026_annual_priority_skills_report.pdf",
+  "title": "Annual Priority Skills Report",
+  "publisher": "HRDC Botswana",
+  "published": "2026",
+  "sub_indicator": "ictjobs",
+  "why": "Q1 2024 youth unemployment and employment by industry"
+ },
+ {
+  "url": "https://statsbots.org.bw/sites/default/files/Quarterly%20%20Multi-Topic%20Survey-%20%20Labour%20Force%20Module%20Q3%2C%202023%20.pdf",
+  "title": "Quarterly Multi-Topic Survey Labour Force Module Q3 2023",
+  "publisher": "Statistics Botswana",
+  "published": "2023",
+  "sub_indicator": "ictjobs",
+  "why": "Information and communication share of employment and youth unemployment"
+ }
+]

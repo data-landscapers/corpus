@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://statistics.gov.rw/sites/default/files/documents/2025-05/Annual%20Report%20LFS%202024.pdf",
+  "title": "Labour Force Survey Annual Report 2024",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "2025",
+  "sub_indicator": "ictjobs",
+  "why": "Information and communication share of employment and youth unemployment, 2024"
+ },
+ {
+  "url": "https://statistics.gov.rw/data-sources/surveys/Labour-Force-Survey/labour-force-survey-2024/labour-force-survey-q4-2024",
+  "title": "Labour Force Survey (Q4, 2024)",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "2024",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment Q4 2024"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system",
+ "fact": "The Niger health development plan prioritises reform of health information management built on deployment and use of DHIS2, inter-linked with digitalisation of health records and telemedicine.",
+ "title": "Réformes du Système de la Santé au Niger",
+ "publisher": "GFF Knowledge and Learning Platform",
+ "published": "2022-04-21",
+ "date_source": "source",
+ "why_not": ""
+}

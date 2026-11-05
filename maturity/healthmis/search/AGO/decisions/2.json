@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "completeness",
+ "fact": "Facility reporting completeness through the national DHIS2 was 26% of expected monthly reports in 2020, 95% in 2022 and 71% in 2025, with 24% of districts at or above 90% in 2025.",
+ "title": "Synthesis report Angola",
+ "publisher": "Countdown 2030",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

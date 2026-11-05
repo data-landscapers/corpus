@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "OpenFn workflows moving laboratory results from STELab and community data from CommCare/eCHIS into DHIS2 are complete and operational on a ministry-hosted server, with OpenClinic planned next (2026).",
+ "title": "Connecting Niger's Health Information Systems",
+ "publisher": "OpenFn",
+ "published": "2026-09-30",
+ "date_source": "source",
+ "why_not": ""
+}

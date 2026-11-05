@@ -1,0 +1,6 @@
+[
+{"url":"https://dailynews.gov.bw/news-detail/89169","title":"DailyNews: health systems not interfaced; EMR piloted in two districts","publisher":"Botswana Daily News","published":"2025-11-20","sub_indicator":"exchange","why":"Q1-Q2: systems not interfaced; link to Botswana HIE planned"},
+{"url":"https://academic.oup.com/oodh/article-pdf/doi/10.1093/oodh/oqag008/68178086/oqag008.pdf","title":"Developing a National eHealth Enterprise Architecture in Botswana","publisher":"Oxford Open Digital Health","published":"2026","sub_indicator":"exchange","why":"Q1-Q4: systems operate in isolation; architecture with MPI, SHR, OpenHIM"},
+{"url":"https://informaticshub.ucsf.edu/news/botswana-ehealth-enterprise-architecture-standardizes-information-systems","title":"Botswana eHealth Enterprise Architecture standardizes information systems","publisher":"UCSF Health Informatics Hub","published":"2024-11-11","sub_indicator":"exchange","why":"Q1: HIE investment, fragmentation"},
+{"url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC8379582/","title":"Interoperability opportunities and challenges in linking mhealth applications and eRecord systems: Botswana as an exemplar","publisher":"PMC","published":"2021","sub_indicator":"exchange","why":"Q1,Q4: not interoperable, no unique patient identifier"}
+]

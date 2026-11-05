@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Country_documents/Botswana/BHDC_Roadmap_2020.pdf",
+  "title": "Botswana Health Data Collaborative Roadmap",
+  "publisher": "Ministry of Health and Wellness",
+  "published": "2020",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q3 DHIS2 status, surveillance not integrated"
+ },
+ {
+  "url": "https://afro.who.int/countries/botswana/news/european-union-and-who-support-botswanas-health-data-efforts-districts",
+  "title": "The European Union and WHO Support Botswana's Health Data Efforts in the Districts",
+  "publisher": "WHO AFRO",
+  "published": "2021-06-07",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q3 IDSR officers linked to DHIS2"
+ },
+ {
+  "url": "https://dhis2.org/botswana-supply-chain/",
+  "title": "Adapting the Existing DHIS2 to Support Supply Chain Decision Making in Botswana",
+  "publisher": "DHIS2",
+  "published": "2023-01-30",
+  "sub_indicator": "hmis",
+  "why": "Q3 supply chain data in DHIS2"
+ },
+ {
+  "url": "https://afro.who.int/countries/botswana/news/botswana-strengthens-malaria-surveillance-systems-accelerate-elimination-efforts",
+  "title": "Botswana Strengthens Malaria Surveillance Systems",
+  "publisher": "WHO AFRO",
+  "published": "2024-11-22",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q3 DHIS2 mainstay aggregate reporting tool, malaria surveillance"
+ }
+]

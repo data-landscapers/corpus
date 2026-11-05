@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system",
+ "fact": "DHIS2 training was extended to all districts of the country in March 2022 after a five-district pilot.",
+ "title": "Revitalisation du SNIS en République Centrafricaine : Focus sur DHIS2",
+ "publisher": "HISP WCA",
+ "published": "2024-08-07",
+ "date_source": "source",
+ "why_not": ""
+}

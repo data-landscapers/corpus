@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://lexpress.mu/node/557690",
+  "title": "Questions parlementaires : E-Health : Le ministre Bachoo promet une accélération du chantier",
+  "publisher": "L'Express (Maurice)",
+  "published": "2026-05-07",
+  "sub_indicator": "exchange",
+  "why": "One Patient One Record in service, LIMS integration"
+ },
+ {
+  "url": "https://lexpress.mu/node/553204",
+  "title": "Santé publique : La transformation numérique via le projet eHealth prend forme",
+  "publisher": "L'Express (Maurice)",
+  "published": "2026-01-08",
+  "sub_indicator": "exchange",
+  "why": "OPOR removes data silos between establishments"
+ },
+ {
+  "url": "https://www.undp.org/mauritius-seychelles/news/launch-digital-health-architecture-blueprint",
+  "title": "Launch of Digital Health Architecture Blueprint",
+  "publisher": "UNDP Mauritius and Seychelles",
+  "published": "2025-03-05",
+  "sub_indicator": "exchange",
+  "why": "interoperable national architecture, national patient database"
+ },
+ {
+  "url": "https://www.undp.org/mauritius-seychelles/news/undp-supports-launch-one-patient-one-record-ehealth-project-enhanced-public-healthcare",
+  "title": "UNDP supports the launch of the One Patient, One Record eHealth Project",
+  "publisher": "UNDP Mauritius and Seychelles",
+  "published": "2024-01-29",
+  "sub_indicator": "exchange",
+  "why": "health information exchange systems under project"
+ },
+ {
+  "url": "https://digitalhealthfordevelopment.undp.org/upload/documents/Roadmap_for_Digital_Health_Transformation_in_Mauritius.pdf",
+  "title": "A Roadmap for Digital Health",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "interoperable architecture plan, master patient index"
+ },
+ {
+  "url": "https://implementome.org/en/projectdetails/fba74c15e496449aaa78a7b1f4d38251",
+  "title": "Mauritius National eHealth System",
+  "publisher": "Implementome",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "interoperability services"
+ }
+]

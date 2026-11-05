@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth",
+ "fact": "Morocco's unemployment rate among 15-24 year olds rose from 35.8% in 2023 to 36.7% in 2024.",
+ "title": "Activité, emploi et chômage, résultats annuels 2024",
+ "publisher": "Haut-Commissariat au Plan",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

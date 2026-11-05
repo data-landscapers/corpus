@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://ilostat.ilo.org/data/country-profiles/sdn/",
+  "title": "Sudan - ILOSTAT",
+  "publisher": "ILOSTAT",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Labour Market Panel Survey 2022"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/8d32abd00b0f836fff98648b5cbf876c-0140012025/original/Sudan.pdf",
+  "title": "Human Capital Brief Sudan",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "ictjobs",
+  "why": "Youth NEET and adult unemployment"
+ },
+ {
+  "url": "https://fundforyouthemployment.nl/wp-content/uploads/2025/04/Country-Case-Study-Sudan-002.pdf",
+  "title": "Country case study Sudan youth employment",
+  "publisher": "Fund for Youth Employment",
+  "published": "2025-04",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment 2023"
+ }
+]

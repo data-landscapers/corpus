@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "A digital-environment assessment of July 2023 to February 2024 found 124 health applications and a missing interoperability layer, the health information exchange layer on which a longitudinal patient record would be built.",
+ "title": "Rapport final BF (évaluation de la santé numérique du MSHP)",
+ "publisher": "CIIC-HIN",
+ "published": "2024-06-29",
+ "date_source": "source",
+ "why_not": ""
+}

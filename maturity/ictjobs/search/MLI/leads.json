@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://www.instat-mali.org/laravel-filemanager/files/shares/pub/bulletin-ind-travail2024_pub.pdf",
+  "title": "Bulletin sur les indicateurs du travail",
+  "publisher": "INSTAT Mali",
+  "published": "2024",
+  "sub_indicator": "ictjobs",
+  "why": "2021-2022 youth unemployment 3.6 percent"
+ },
+ {
+  "url": "https://www.instat-mali.org/laravel-filemanager/files/shares/pub/rapport-genre-donnees-emop-2024_pub.pdf",
+  "title": "Rapport genre données EMOP",
+  "publisher": "INSTAT Mali",
+  "published": "2024",
+  "sub_indicator": "ictjobs",
+  "why": "Urban unemployment by age"
+ }
+]

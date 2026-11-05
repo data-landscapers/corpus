@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "A June 2024 MINSANTE coordination meeting discussed the DHIS2-BUNEC interoperability experience for transmitting births and deaths to civil registration centres.",
+ "title": "MINSANTE L'Architecture de la Santé numérique se dessine",
+ "publisher": "MINSANTE",
+ "published": "2024-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

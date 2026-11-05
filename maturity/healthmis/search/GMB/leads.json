@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://moh.gov.gm/wp-content/uploads/2026/05/FINAL-NATIONAL-HEALTH-POLICY_28-FEB-2024.pdf",
+  "title": "National Health Policy 2021-2030",
+  "publisher": "Ministry of Health, The Gambia",
+  "published": "2024-02-28",
+  "sub_indicator": "hmis",
+  "why": "DHIS2 as national electronic system; LMIS uses DHIS2; HR linkage planned"
+ },
+ {
+  "url": "https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/2023/Documents/The_Gambia_-_Marketplace_Poster_HIS_Status_and_Priorities.pdf",
+  "title": "The Gambia: HIS Status and Priorities",
+  "publisher": "Health Data Collaborative",
+  "published": "2023",
+  "sub_indicator": "hmis",
+  "why": "Timeliness 75.6% and completeness 84.2%; DHIS2 main reporting system"
+ },
+ {
+  "url": "https://journals.theunion.org/content/ijtldo/3/3/138",
+  "title": "Transitioning to a digital TB case-based surveillance system: DHIS2 TB e-Tracker",
+  "publisher": "IJTLD Open (The Union)",
+  "published": "2026-03-01",
+  "sub_indicator": "hmis",
+  "why": "TB tracker linked to national DHIS2"
+ }
+]

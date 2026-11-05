@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://doi.org/10.3233/shti260468",
+  "title": "Implementing an Open Source Hospital Information System: Lessons from the OpenClinic GA Pilot in Burkina Faso",
+  "publisher": "IOS Press (Stud Health Technol Inform)",
+  "published": "2026-05-21",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2: HIS pilot with HL7 standards"
+ },
+ {
+  "url": "https://ciichin.org/wp-content/uploads/2025/01/BF-final-report.pdf",
+  "title": "BF final report (MSHP digital health assessment)",
+  "publisher": "CIIC-HIN",
+  "published": "2025",
+  "sub_indicator": "exchange",
+  "why": "Q1-Q3: states interoperability layer missing"
+ },
+ {
+  "url": "https://link.springer.com/article/10.1186/s12911-024-02574-4",
+  "title": "Current status of digital health interventions in the health system in Burkina Faso",
+  "publisher": "BMC Medical Informatics and Decision Making",
+  "published": "2024-06-19",
+  "sub_indicator": "exchange",
+  "why": "Q2/Q3: no platform interoperable with ENDOS"
+ },
+ {
+  "url": "https://doi.org/10.1093/oodh/oqae001",
+  "title": "Does investment in COVID-19 information systems strengthen national digital health architecture?",
+  "publisher": "Oxford Open Digital Health",
+  "published": "2024-01-01",
+  "sub_indicator": "exchange",
+  "why": "Q2: One Health interoperability layer connecting ENDOS and others"
+ },
+ {
+  "url": "https://doi.org/10.3233/shti220070",
+  "title": "Design and Implementation of a Unique Patient Identification Model in Information Systems in Burkina Faso",
+  "publisher": "IOS Press (Stud Health Technol Inform)",
+  "published": "2022-06-06",
+  "sub_indicator": "exchange",
+  "why": "Q4: no unique patient ID in use"
+ },
+ {
+  "url": "https://community.dhis2.org/t/complementarity-between-a-clinical-decision-support-tool-and-dhis2-the-case-of-ieda-and-endos-in-burkina-faso/43029",
+  "title": "Complementarity between a clinical decision support tool and DHIS2: IeDA and ENDOS in Burkina Faso",
+  "publisher": "DHIS2 Community",
+  "published": "2021-06-07",
+  "sub_indicator": "exchange",
+  "why": "Q2: IeDA-DHIS2 interconnection"
+ },
+ {
+  "url": "https://doi.org/10.3233/shti210275",
+  "title": "Current Status of e-Health in Burkina Faso",
+  "publisher": "IOS Press (Stud Health Technol Inform)",
+  "published": "2021-05-27",
+  "sub_indicator": "exchange",
+  "why": "Q1: absence of interoperability"
+ }
+]

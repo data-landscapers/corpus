@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;breadth;identifier",
+ "fact": "The report on Rwanda's health information exchange says its client registry is integrated with the national ID agency NIDA to give each patient a unique health ID, and that OpenHIM monitors transactions between OpenMRS and the shared health record, which is in production but not yet fully operational.",
+ "title": "Rwanda Health Information System Ecosystem (RHIE): Achievements over the last three years",
+ "publisher": "CIIC-HIN",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

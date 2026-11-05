@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Ghana's DHIMS (DHIS2) and LHIMS, deployed since 2017, are currently not interoperable, and the lack of interoperability has caused duplication and data inaccuracies.",
+ "title": "Digital health interventions in strengthening primary healthcare systems in Sub-Saharan Africa: Insights from Ethiopia, Ghana, and Zimbabwe",
+ "publisher": "PLOS Digital Health",
+ "published": "2026-01-02",
+ "date_source": "source",
+ "why_not": ""
+}

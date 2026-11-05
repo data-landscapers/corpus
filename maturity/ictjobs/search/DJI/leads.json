@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://firebasestorage.googleapis.com/v0/b/instad-dj.appspot.com/o/Sociale%2F0%2FRapport%20EDST_T3_2025_VF.pdf?alt=media&token=0ce8e0f4-899f-4ca8-9575-c25e6c17e0e1",
+  "title": "Enquete djiboutienne sur les statistiques du travail (EDST) T3 2025",
+  "publisher": "INSTAD",
+  "published": "2025",
+  "sub_indicator": "ictjobs",
+  "why": "Quarterly LFS: employment by sector, unemployment"
+ },
+ {
+  "url": "https://firebasestorage.googleapis.com/v0/b/instad-dj.appspot.com/o/Sociale%2F0%2FRapport%20EDST_T4_2025_VF.pdf?alt=media&token=ed111d3f-350e-429b-a718-4ddbe0d2dbee",
+  "title": "Enquete djiboutienne sur les statistiques du travail (EDST) T4 2025",
+  "publisher": "INSTAD",
+  "published": "2025",
+  "sub_indicator": "ictjobs",
+  "why": "Quarterly LFS Q4 2025"
+ },
+ {
+  "url": "https://firebasestorage.googleapis.com/v0/b/instad-dj.appspot.com/o/Annuaire%20statistique%2F2024%2FAnnuaire_Statistique_E2024_VF.pdf?alt=media&token=8b8ff01b-c4da-4737-a11d-6e84c87ff00c",
+  "title": "Annuaire statistique 2024",
+  "publisher": "INSTAD",
+  "published": "2024",
+  "sub_indicator": "ictjobs",
+  "why": "Employment and youth unemployment tables (EDAM4 2017 base)"
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://pt.linkedin.com/posts/saudigitus_saudigitus-dhis2-hispafrica-activity-7356329085226123264-sJJl",
+  "title": "SAUDIGITUS trabalha com o Departamento de Sistema de Informação para a Saúde de São Tomé e Príncipe",
+  "publisher": "Saudigitus",
+  "published": "2025-07-30",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: interoperability layer with civil registry, Processo Único"
+ },
+ {
+  "url": "https://extranet.who.int/cpcd/sites/default/files/public_file_repository/STP_Sao-Tome-and-Principe_PNDS_2023-2032.pdf",
+  "title": "Plano Nacional de Desenvolvimento da Saúde 2023-2032",
+  "publisher": "Ministério da Saúde, São Tomé e Príncipe",
+  "published": "2023",
+  "sub_indicator": "exchange",
+  "why": "Q1: fragmentation of information systems"
+ },
+ {
+  "url": "https://www.who.int/about/accountability/results/who-results-report-2020-mtr/country-story/2020/implementing-the-dhis2-to-accelerate-universal-health-coverage-in-s%C3%A3o-tom%C3%A9-and-principe",
+  "title": "Implementing the DHIS2 to accelerate Universal Health Coverage in Sao Tome and Principe",
+  "publisher": "WHO",
+  "published": "2020",
+  "sub_indicator": "exchange",
+  "why": "Q2: DHIS2 linked with social registry"
+ },
+ {
+  "url": "https://www.unv.org/Success-stories/promoting-digitalization-health-system-sao-tome-and-principe",
+  "title": "Promoting digitalization of the health system in São Tomé and Príncipe",
+  "publisher": "UNV",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q2: linkage between social protection data and DHIS2"
+ }
+]

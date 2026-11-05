@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://dhis2.org/pt-pt/climate/country-profiles/mozambique/",
+  "title": "Moçambique - DHIS2",
+  "publisher": "DHIS2",
+  "published": "2026-08-03",
+  "sub_indicator": "hmis",
+  "why": "SISMA adopted 2015 as national HMIS; disease surveillance and logistics on DHIS2"
+ },
+ {
+  "url": "https://sisma.misau.gov.mz/docs/Plano%20de%20Melhoria%20de%20Qualidade%20de%20Dados%202025-2029.pdf",
+  "title": "Plano de melhoria de qualidade de dados 2025-2029",
+  "publisher": "Ministério da Saúde (MISAU)",
+  "published": "2025",
+  "sub_indicator": "hmis",
+  "why": "Only 340 of 1886 public facilities enter directly; data quality index 70%/63%"
+ },
+ {
+  "url": "https://sisma.misau.gov.mz/sobre.html",
+  "title": "Sobre o SIS-MA",
+  "publisher": "Ministério da Saúde (MISAU)",
+  "published": "",
+  "sub_indicator": "hmis",
+  "why": "SIS-MA national platform description"
+ }
+]

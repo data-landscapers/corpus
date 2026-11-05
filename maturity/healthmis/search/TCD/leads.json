@@ -1,0 +1,6 @@
+[
+{"url":"https://lesdepechesdutchad.com/lannuaire-des-statistiques-sanitaires-du-tchad-2025-en-validation/","title":"L'annuaire des statistiques sanitaires du Tchad 2025 en validation","publisher":"Les Dépêches du Tchad","published":"2026-09-22","sub_indicator":"hmis","why":"annuaire built on national DHIS2 base"},
+{"url":"https://www.afro.who.int/sites/default/files/2026-05/Rapport%20des%20Resultats%20Biennal%202024%20-%202025_VFINALE.pdf","title":"Rapport des Résultats Biennal 2024-2025","publisher":"OMS Tchad","published":"2026","sub_indicator":"hmis","why":"DHIS2 Tracker, GeneXpert interconnection, reporting tools integrated"},
+{"url":"https://www.afro.who.int/sites/default/files/2024-08/Rapport%20Biennal%20WHO%20Chad%202022-2023%20.pdf","title":"Rapport Biennal OMS Tchad 2022-2023","publisher":"OMS Tchad","published":"2024","sub_indicator":"hmis","why":"DHIS2 in 23 provinces and 139 districts, completeness 93%"},
+{"url":"https://dhis2.org/fr/chad-hmis-transition/","title":"Améliorer le système de gestion d'information sanitaire avec DHIS2 au Tchad","publisher":"DHIS2","published":"2022-12-08","sub_indicator":"hmis","why":"DHIS2 launched nationally Nov 2022, 96.4% districts entering directly"}
+]

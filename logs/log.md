@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-05 22:31 · **REBUILD** · 35m · ictjobs ictjobs: 54 reassessed, 0 moved; 54 searched, 51 staged; ~32M tokens - ok
+2026-11-05 22:31 · **REBUILD** · 35m · healthmis hmis: 53 reassessed, 0 moved; 54 searched, 92 staged; ~32M tokens - ok
+2026-11-05 22:31 · **REBUILD** · 35m · healthexchange exchange: 50 reassessed, 10 moved; 54 searched, 99 staged; ~32M tokens (three shared 96M) - ok
 2026-11-05 21:54 · **BUILD** · 1h29m · catalogue 37,384; 518 sources, 53 units, 0 moved, 2 minted, 57 status; data centres 3; maturity 1,002 arrivals, 31 worked, 6 moved; monthly 37; 348 deals judged; finance 0 waiting; register 9; prose gate 7; message 93 - ok
 2026-11-05 20:24 · **NOTES** · unclocked · closed 85: messages-for-bill is shared with OSINT; blocks name their sender, lint-messages counts it from 90 and reports OSINT blocks over the cap - ok
 2026-11-05 06:16 · **INDEX** · unclocked · research index: 326 added or changed, 0 removed, 4630 chunks, 6.9 min - ok

@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://ine.st/",
+  "title": "Instituto Nacional de Estatistica",
+  "publisher": "INE STP",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Employment by branch tables"
+ },
+ {
+  "url": "https://www.ilo.org/fr/publications/preparation-dun-programme-integre-de-promotion-de-lemploi-et-lemployabilite",
+  "title": "Preparation d'un programme integre de promotion de l'emploi",
+  "publisher": "ILO",
+  "published": "2024-10-07",
+  "sub_indicator": "ictjobs",
+  "why": "ILO mission on labour market statistics"
+ },
+ {
+  "url": "https://housingfinanceafrica.org/wp-content/uploads/2025/03/STP.pdf",
+  "title": "Sao Tome and Principe country profile",
+  "publisher": "CAHF",
+  "published": "2025-03",
+  "sub_indicator": "ictjobs",
+  "why": "Unemployment 14.2 percent 2023"
+ }
+]

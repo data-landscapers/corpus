@@ -1,0 +1,6 @@
+[
+{"url":"https://fmohconnect.gov.ng/wp-content/uploads/2025/05/The-State-of-Health-of-the-Nation-Report-2024.pdf","title":"The State of Health of the Nation Report 2024","publisher":"Federal Ministry of Health and Social Welfare, Nigeria","published":"2025","sub_indicator":"hmis","why":"DHIS2 as nationwide reporting system; timeliness"},
+{"url":"https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-May-Bulletin-2024.pdf","title":"NHMIS May Bulletin 2024","publisher":"Federal Ministry of Health, Nigeria","published":"2024","sub_indicator":"hmis","why":"national facility reporting rate 93.5% in May 2024"},
+{"url":"https://dhis2.org/nigeria-vaccine-logistics/","title":"Nigeria integrates last-mile vaccine supply chain data in DHIS2","publisher":"DHIS2","published":"2023-02-28","sub_indicator":"hmis","why":"vaccine logistics integrated with national DHIS2 HMIS, completeness 93.1% Dec 2022"},
+{"url":"https://fmohconnect.gov.ng/wp-content/uploads/2023/09/NHMIS-May-Bulletin.pdf","title":"NHMIS May Bulletin","publisher":"Federal Ministry of Health, Nigeria","published":"2023","sub_indicator":"hmis","why":"reporting rate 87.6% May 2023"}
+]

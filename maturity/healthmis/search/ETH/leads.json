@@ -1,0 +1,7 @@
+[
+{"url":"https://dhis2.org/climate/country-profiles/ethiopia/","title":"Ethiopia - DHIS2","publisher":"DHIS2","published":"2026-08-03","sub_indicator":"hmis","why":"national DHIS2 HMIS covers 30,000+ facilities, PHEM surveillance integrated, completeness strong"},
+{"url":"https://www.ghspjournal.org/content/12/6/e2300513","title":"Early Effects of Information Revolution Interventions on Health Information System Performance in Ethiopia","publisher":"Global Health: Science and Practice","published":"2024-12-20","sub_indicator":"hmis","why":"DHIS2 single national system, interoperability problems"},
+{"url":"https://ejhd.org/index.php/ejhd/article/view/6302","title":"Strengthening Ethiopia's Health Information System: A Journey to Unified DHIS2","publisher":"Ethiopian Journal of Health Development","published":"2024-10-24","sub_indicator":"hmis","why":"unified DHIS2 since 2017"},
+{"url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC11316158/","title":"Maturity Assessment of District Health Information System Version 2 Implementation in Ethiopia","publisher":"JMIR (PMC)","published":"2024-07-26","sub_indicator":"hmis","why":"national DHIS2 at defined maturity stage"},
+{"url":"https://dhis2.org/enhancing-healthcare-in-ethiopia-using-dhis2/","title":"Enhancing Healthcare Performance in Ethiopia Using DHIS2","publisher":"DHIS2","published":"2025-02-28","sub_indicator":"hmis","why":"over 95% of facilities reporting, 90% completeness"}
+]

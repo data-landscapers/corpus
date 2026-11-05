@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ilostat.ilo.org/data/country-profiles/sdn/,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+2,https://thedocs.worldbank.org/en/doc/8d32abd00b0f836fff98648b5cbf876c-0140012025/original/Sudan.pdf,fetched,,scripts/.workroot/study/ictjobs/cache/SDN/2.txt,472,pdf,¨
+3,https://fundforyouthemployment.nl/wp-content/uploads/2025/04/Country-Case-Study-Sudan-002.pdf,fetched,,scripts/.workroot/study/ictjobs/cache/SDN/3.txt,1953,pdf,

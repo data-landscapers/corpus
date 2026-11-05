@@ -1,0 +1,6 @@
+[
+{"url":"https://doi.org/10.1016/j.ssmhs.2026.100235","title":"Five-year trends in routine health information system data quality: Evidence from the Democratic Republic of the Congo, 2019–2024","publisher":"SSM - Health Systems","published":"2026-05","sub_indicator":"hmis","why":"Q2/Q4: DHIS2 completeness and timeliness across 121 health zones"},
+{"url":"https://data.gffportal.org/sites/default/files/2025-09/DRC--COUNTDOWN.pdf","title":"Analysis report, DRC Countdown","publisher":"Countdown 2030 / GFF","published":"2025-09","sub_indicator":"hmis","why":"Q4: national DHIS2 completeness 99% in 2024"},
+{"url":"https://www.countdown2030.org/wp-content/uploads/2024/07/CHARTBOOK-DRC-2024.pdf","title":"Analyse des indicateurs de santé reproductive, maternelle, néonatale, infantile et des adolescents","publisher":"Countdown 2030","published":"2024-07","sub_indicator":"hmis","why":"Q4: DHIS2 completeness 2019-2023"},
+{"url":"https://dhis2.org/fr/drc-data-use/","title":"Appuyer l'utilisation efficace des données de santé en République Démocratique du Congo avec DHIS2","publisher":"DHIS2 / HISP-UiO","published":"2022-08-23","sub_indicator":"hmis","why":"Q2: SNIS is national DHIS2 platform since 2013"}
+]

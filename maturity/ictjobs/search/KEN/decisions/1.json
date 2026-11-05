@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "jobs",
+ "fact": "KNBS Economic Survey 2024 reports modern-sector wage employment in information and communication at 145.6 thousand in 2023, up 3.6 per cent on 2022.",
+ "title": "Economic Survey 2024",
+ "publisher": "Kenya National Bureau of Statistics",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

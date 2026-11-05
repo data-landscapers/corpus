@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://doi.org/10.21203/rs.3.rs-11014186/v1,fetched,,scripts/.workroot/study/healthmis/cache/CMR/1.txt,1464,html,Restructuring national health information system software to improve malaria data quality: activation of zero values and ninety-nine validation rules in Cameroon's DHIS2
+2,https://www.minsante.cm/site/?q=fr%2Fcontent%2Fenregistrement-des-donn%C3%A9es-de-sant%C3%A9-des-registres-am%C3%A9lior%C3%A9s-pour-les-formations-sanitaires,held,held as raw/2025/2025-04-08-cmr-minsante-registres-ameliores-dhis2.md,,0,,
+3,https://pmc.ncbi.nlm.nih.gov/articles/PMC11825121/,fetched,,scripts/.workroot/study/healthmis/cache/CMR/3.txt,18,html,Checking your browser
+4,http://onsp.minsante.cm/sites/default/files/publications/345/20230320_BEC2022_FR.pdf,held,held as raw/2023/2023-03-20-cmr-minsante-bulletin-epidemiologique-annuel-2022.md,,0,,
+5,https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/2023/Documents/Cameroon_-_Marketplace_Poster_HIS_Status_and_Priorities.pdf,fetched,,scripts/.workroot/study/healthmis/cache/CMR/5.txt,510,pdf,
+6,http://onsp.minsante.cm/sites/default/files/publications/306/CIS_Cameroon%20DHIS2%20operational%20Plan%202022%20to%202024.pdf,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked",,0,,
+7,https://stophpv.org/resource/informations-et-donnees-sanitaires-pour-laction-cameroun/,fetched,,scripts/.workroot/study/healthmis/cache/CMR/7.txt,179,html,Informations et données sanitaires pour l’action: Cameroun - CHIC
+8,https://conflictandhealth.biomedcentral.com/counter/pdf/10.1186/s13031-023-00504-1.pdf,fetched,,scripts/.workroot/study/healthmis/cache/CMR/8.txt,46,html,Client Challenge

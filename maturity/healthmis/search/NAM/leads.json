@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/NAM_Namibia_National-eHealth-strategy_2021-2025.pdf",
+  "title": "Namibia National eHealth Strategy 2021-2025",
+  "publisher": "Ministry of Health and Social Services",
+  "published": "2021",
+  "sub_indicator": "hmis",
+  "why": "Q2 status of eHealth, paper records"
+ },
+ {
+  "url": "https://www.afro.who.int/countries/namibia/news/namibia-launches-national-digital-health-policy-advance-equitable-people-centred-healthcare",
+  "title": "Namibia launches National Digital Health Policy",
+  "publisher": "WHO Regional Office for Africa",
+  "published": "2026-02-06",
+  "sub_indicator": "hmis",
+  "why": "Q2 digital health policy"
+ },
+ {
+  "url": "https://community.dhis2.org/t/transforming-data-into-insights-namibia-s-national-data-warehouse-ndw-implementation-with-dhis2/58642",
+  "title": "Transforming Data into Insights: Namibia's National Data Warehouse Implementation with DHIS2",
+  "publisher": "DHIS2 Community",
+  "published": "",
+  "sub_indicator": "hmis",
+  "why": "Q3 DHIS2 core health data and data warehouse"
+ },
+ {
+  "url": "https://informaticshub.ucsf.edu/node/116",
+  "title": "NAMTAC",
+  "publisher": "UCSF Health Informatics Hub",
+  "published": "",
+  "sub_indicator": "hmis",
+  "why": "Q3 data warehouse and PTracker exchange"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.adiac-congo.com/content/sante-des-cadres-en-formation-sur-lutilisation-et-la-gestion-des-donnees-sanitaires-143668",
+  "title": "Santé : des cadres en formation sur l'utilisation et la gestion des données sanitaires",
+  "publisher": "Les Dépêches de Brazzaville (ADIAC)",
+  "published": "2022-12-07",
+  "sub_indicator": "hmis",
+  "why": "Q2 DHIS2 in all 52 districts"
+ },
+ {
+  "url": "https://hispwca.org/hispwca/?p=996",
+  "title": "Renforcement du Suivi Vaccinal au Congo : Mise en Place d'Outils Innovants dans le DHIS2",
+  "publisher": "HISP WCA",
+  "published": "2023-10-25",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q3 DHIS2 52 districts, immunisation"
+ },
+ {
+  "url": "https://centrafrique.news/audit-sante-les-coulisses-du-big-data-congolais/",
+  "title": "Qualité des données sanitaires au Congo analysée",
+  "publisher": "Centrafrique News",
+  "published": "2025-09-29",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q4 DHIS2 all districts, data quality review"
+ },
+ {
+  "url": "https://sante.gouv.cg/wp-content/uploads/2024/09/PLAN-NATIONAL-DE-DEVELOPPEMENT-SANITAIRE-DU-CONGO-2023-2026_VERSION-OFFICIELLE.pdf",
+  "title": "Plan national de développement sanitaire 2023-2026",
+  "publisher": "Ministère de la Santé et de la Population",
+  "published": "2024",
+  "sub_indicator": "hmis",
+  "why": "Q2 SNIS status"
+ },
+ {
+  "url": "https://dhis2.org/congo-measles-vaccine/",
+  "title": "Streamlining immunization data management for effective response to measles and yellow fever outbreaks in Congo using DHIS2",
+  "publisher": "DHIS2",
+  "published": "2023-09-30",
+  "sub_indicator": "hmis",
+  "why": "Q3 campaign DHIS2 integrated with national HMIS"
+ },
+ {
+  "url": "https://fr.linkedin.com/posts/hisp-west-and-central-africa_hispwca-dhis2-tracker-activity-7466147547125006336-0-78",
+  "title": "Intégration du module Tracker de DHIS2 au Congo",
+  "publisher": "HISP West and Central Africa",
+  "published": "2026-05-29",
+  "sub_indicator": "hmis",
+  "why": "Q3 surveillance Tracker"
+ },
+ {
+  "url": "https://community.dhis2.org/t/dhis2-national-expertise-congos-opv-campaign/64886",
+  "title": "Dhis2 national expertise: Congo's OPV campaign",
+  "publisher": "DHIS2 Community",
+  "published": "2025-05-08",
+  "sub_indicator": "hmis",
+  "why": "Q2 national DHIS2 team"
+ },
+ {
+  "url": "https://www.adiac-congo.com/content/ministere-de-la-sante-du-materiel-pour-renforcer-le-systeme-dinformation-sanitaire-134442",
+  "title": "Ministère de la Santé : du matériel pour renforcer le système d'information sanitaire",
+  "publisher": "Les Dépêches de Brazzaville (ADIAC)",
+  "published": "2022-01-27",
+  "sub_indicator": "hmis",
+  "why": "Q2 DHIS2 deployment, national bulletin"
+ }
+]

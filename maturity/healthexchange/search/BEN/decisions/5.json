@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Benin's eSIGL logistics system was synchronized automatically with DHIS2, with national rollout starting in the second quarter of 2022 and month-end LMIS reporting reaching 95%.",
+ "title": "LMIS and DHIS2 Integration in Benin",
+ "publisher": "DHIS2 Community",
+ "published": "2022-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

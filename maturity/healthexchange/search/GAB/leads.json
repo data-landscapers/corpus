@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.gabonreview.com/egabon-sis-la-banque-mondiale-et-le-ministere-de-la-sante-saluent-les-resultats-obtenus/",
+  "title": "eGabon SIS : la Banque mondiale et le ministère de la Santé saluent les résultats obtenus",
+  "publisher": "Gabonreview",
+  "published": "2026-02-12",
+  "sub_indicator": "exchange",
+  "why": "hospital information system in 13 sites, interconnection planned"
+ },
+ {
+  "url": "https://info241.com/sante-connectee-le-gabon-adopte-l-identifiant-unique-et-le,11069",
+  "title": "Santé connectée : Le Gabon adopte l'identifiant unique et le cadre d'interopérabilité",
+  "publisher": "Info241",
+  "published": "2025-10-25",
+  "sub_indicator": "exchange",
+  "why": "unique patient identifier and interoperability framework bills"
+ },
+ {
+  "url": "https://hisprwanda.org/dhis2-officially-launched-in-gabon-hisp-rwandas-pivotal-role-in-transforming-health-information-management/",
+  "title": "DHIS2 Officially Launched in Gabon",
+  "publisher": "HISP Rwanda",
+  "published": "2025-06-03",
+  "sub_indicator": "exchange",
+  "why": "DHIS2 national launch"
+ },
+ {
+  "url": "https://wiki.ihe.net/index.php/GDC_Special_Presentations",
+  "title": "GDC Special Presentations - IHE Wiki",
+  "publisher": "IHE",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "CI-SIS interoperability framework published June 2019"
+ },
+ {
+  "url": "https://www.sante.gouv.ga/9-actualites/435-projet-renforcement-du-systeme-national-dinformation-sanitaire/",
+  "title": "Projet renforcement du système national d'information sanitaire",
+  "publisher": "Ministère de la Santé du Gabon",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "SNIS integrated project"
+ },
+ {
+  "url": "https://theses.hal.science/tel-03484751/file/MOUKOUMBI_LIPENGUET_GAETAN_2021.pdf",
+  "title": "Thèse Moukoumbi Lipenguet",
+  "publisher": "HAL",
+  "published": "2021",
+  "sub_indicator": "exchange",
+  "why": "hospital EMRs do not exchange; no national patient identifier"
+ },
+ {
+  "url": "https://extranet.who.int/cpcd/sites/default/files/public_file_repository/gab_gabon_schema-directeur-strategique-systeme-d-information-de-sante_2017-2022.pdf",
+  "title": "Système d'Information de Santé du Gabon, schéma directeur stratégique 2017-2022",
+  "publisher": "Ministère de la Santé du Gabon",
+  "published": "2017",
+  "sub_indicator": "exchange",
+  "why": "target architecture with shared patient identifier"
+ }
+]

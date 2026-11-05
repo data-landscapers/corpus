@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;identifier",
+ "fact": "In October 2025 Gabon's Council of Ministers adopted bills creating a unique patient and health professional identifier and setting the interoperability framework of the health information system.",
+ "title": "Santé connectée : Le Gabon adopte l'identifiant unique et le dossier médical numérique",
+ "publisher": "Info241",
+ "published": "2025-10-25",
+ "date_source": "source",
+ "why_not": ""
+}

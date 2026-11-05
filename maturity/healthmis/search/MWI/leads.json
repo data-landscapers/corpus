@@ -1,0 +1,6 @@
+[
+{"url":"https://publichealth.jmir.org/2026/1/e72029/PDF","title":"One Health Surveillance Platform in Malawi (DHIS2 eIDSR)","publisher":"JMIR Public Health and Surveillance","published":"2026","sub_indicator":"hmis","why":"Q3/Q4: surveillance DHIS2 interoperable with HMIS; IDSR completeness 97.8% and timeliness 74.5% in 2024"},
+{"url":"https://link.springer.com/article/10.1186/s12911-024-02802-x","title":"Towards improving district health information system data consistency, report completeness and timeliness in Neno district, Malawi","publisher":"BMC Medical Informatics and Decision Making","published":"2024-12-06","sub_indicator":"hmis","why":"Q4: DHIS2 completeness and timeliness against national 85% target"},
+{"url":"https://dhis2.org/malawi-logistics-integration/","title":"Integrating HMIS and eLMIS systems for better decision making in Malawi","publisher":"DHIS2","published":"2021-03-02","sub_indicator":"hmis","why":"Q2/Q3: DHIS2 national HMIS since 2012 integrated with OpenLMIS"},
+{"url":"https://iris.who.int/server/api/core/bitstreams/06722d13-845f-4ce6-8b3b-140050de9777/content","title":"Malawi, linking data systems and insights from non-health sectors","publisher":"WHO","published":"","sub_indicator":"hmis","why":"Q3: all IDSR data collected through OHSP on DHIS2"}
+]

@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.zenysis.com/news/guinea-bissau-ministry-of-public-health-and-zenysis-sign-five-year-memorandum-of-understanding-to-advance-national-health-intelligence-and-responsible-ai,held,held as raw/2026/2026-08-27-gnb-zenysis-minsap-health-intelligence-ai-mou.md,,0,,
+2,https://dhis2.org/pt-pt/hisp-to-strengthen-guinea-bissaus-national-dhis2-system/,fetched,,scripts/.workroot/study/healthexchange/cache/GNB/2.txt,436,html,"O HISP irá contribuir para reforçar o sistema nacional de informação de gestão de saúde da Guiné-Bissau, baseado no DHIS2 - DHIS2"
+3,https://www.zenysis.com/case-studies/guinea-bissau,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+4,https://dhis2.org/pt-pt/guinea-bissau-covid-surveillance/,fetched,,scripts/.workroot/study/healthexchange/cache/GNB/4.txt,1319,html,Utilização do DHIS2 para digitalizar a resposta à COVID-19 na Guiné-Bissau - DHIS2

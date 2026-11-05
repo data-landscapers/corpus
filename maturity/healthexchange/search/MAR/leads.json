@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://aujourdhui.ma/societe/collecte-gestion-et-echange-des-donnees-tout-ce-quil-faut-savoir-sur-le-systeme-national-dinformation-numerique-de-sante",
+  "title": "Collecte, gestion et échange des données : le système national d'information numérique de santé",
+  "publisher": "Aujourd'hui le Maroc",
+  "published": "2026-08-07",
+  "sub_indicator": "exchange",
+  "why": "law 52.26 integrated system"
+ },
+ {
+  "url": "https://santemag.ma/sante-numerique-comment-votre-parcours-de-soins-pourrait-bientot-changer-au-maroc/",
+  "title": "Santé numérique : comment votre parcours de soins pourrait bientôt changer au Maroc",
+  "publisher": "Santemag",
+  "published": "2026-07-24",
+  "sub_indicator": "exchange",
+  "why": "24-month interconnection delay, national health ID"
+ },
+ {
+  "url": "https://lobservateur.info/article/119215/maroc/socieacuteteacute/sante-numerique-le-maroc-lance-le-dossier-medical-national",
+  "title": "Santé numérique : le Maroc lance le dossier médical national",
+  "publisher": "L'Observateur",
+  "published": "2026-07-23",
+  "sub_indicator": "exchange",
+  "why": "fragmented systems today"
+ },
+ {
+  "url": "https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/",
+  "title": "Santé numérique : ce que le projet de loi prévoit de changer",
+  "publisher": "Médias24",
+  "published": "2026-07-23",
+  "sub_indicator": "exchange",
+  "why": "bill: shared record, national ID"
+ },
+ {
+  "url": "https://www.lodj.ma/file/240262/",
+  "title": "Livre blanc (partage des données de santé)",
+  "publisher": "LODJ",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "CNSS-MSPS DMP/FSE interface convention 2024"
+ },
+ {
+  "url": "https://medias24.com/2023/08/04/la-plateforme-amo-tadamon-sera-reliee-a-la-base-des-donnees-des-hopitaux-et-de-la-cnss/",
+  "title": "La plateforme AMO Tadamon sera reliée à la base de données des hôpitaux et de la CNSS",
+  "publisher": "Médias24",
+  "published": "2023-08-04",
+  "sub_indicator": "exchange",
+  "why": "AMO Tadamon linked to hospital and CNSS databases"
+ },
+ {
+  "url": "https://www.lebrief.ma/sante-numerique-le-gouvernement-adopte-le-projet-de-loi-sur-le-systeme-dinformation-sanitaire-100160944/",
+  "title": "Santé numérique : le Maroc adopte un nouveau système intégré",
+  "publisher": "Le Brief",
+  "published": "2026-07-22",
+  "sub_indicator": "exchange",
+  "why": "bill adopted"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.afro.who.int/fr/countries/benin/news/benin-accelerer-la-transformation-du-systeme-de-sante-grace-la-sante-numerique",
+  "title": "Bénin : accélérer la transformation du système de santé grâce à la santé numérique",
+  "publisher": "OMS AFRO",
+  "published": "2026-08-10",
+  "sub_indicator": "exchange",
+  "why": "Digital health, interoperable environment"
+ },
+ {
+  "url": "https://openiaso.com/modernizing-health-map-impact-of-georegistry/",
+  "title": "Modernizing the health map in Benin: the impact of georegistry",
+  "publisher": "Bluesquare / IASO",
+  "published": "2026-03-03",
+  "sub_indicator": "exchange",
+  "why": "Georegistry-DHIS2 interoperability status"
+ },
+ {
+  "url": "https://santetribune.bj/st/2026/06/17/promesse-de-carnet-de-sante-digital-au-benin-outil-de-renforcement-de-la-qualite-des-soins/",
+  "title": "Promesse de carnet de santé digital au Bénin",
+  "publisher": "Santé Tribune",
+  "published": "2026-06-17",
+  "sub_indicator": "exchange",
+  "why": "Digital health record plan"
+ },
+ {
+  "url": "https://lanouvelletribune.info/2026/05/benin-dr-josias-sohinto-expose-les-enjeux-de-la-digitalisation-des-cliniques-privees/",
+  "title": "Bénin : Dr Josias Sohinto expose les enjeux de la digitalisation des cliniques privées",
+  "publisher": "La Nouvelle Tribune",
+  "published": "2026-05-06",
+  "sub_indicator": "exchange",
+  "why": "Interoperability absent in private clinics"
+ },
+ {
+  "url": "https://community.dhis2.org/t/lmis-and-dhis2-integration-in-benin/47766",
+  "title": "LMIS and DHIS2 Integration in Benin",
+  "publisher": "DHIS2 Community",
+  "published": "2022-06-09",
+  "sub_indicator": "exchange",
+  "why": "eSIGL-DHIS2 exchange in routine use"
+ },
+ {
+  "url": "https://www.les4verites.bj/une-application-mobile-aide-les-relais-communautaires-a-ameliorer-la-gestion-des-donnees-au-benin/",
+  "title": "Une application mobile aide les relais communautaires à améliorer la gestion des données au Bénin",
+  "publisher": "Les 4 Vérités",
+  "published": "2021-06-30",
+  "sub_indicator": "exchange",
+  "why": "AlafiaComm interoperable with DHIS2/SNIGS"
+ },
+ {
+  "url": "https://sante.gouv.bj/index.php/bibliotheque/document/DO00002859/download",
+  "title": "Stratégie Nationale de Cybersanté",
+  "publisher": "Ministère de la Santé du Bénin",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "No national unique identifier; EPR pilots"
+ }
+]

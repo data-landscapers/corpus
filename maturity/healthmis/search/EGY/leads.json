@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://dhis2.org/egypt-launches-dhis2-in-health-information-system/",
+  "title": "Egypt officially launches DHIS2 as part of its national health information system",
+  "publisher": "DHIS2",
+  "published": "2026-01-27",
+  "sub_indicator": "hmis",
+  "why": "Q1 DHIS2 launch, scaling"
+ },
+ {
+  "url": "https://www.hisp.me/blog/news-1/the-deputy-minister-of-health-chaired-a-coordination-meeting-to-launch-the-dhis2-health-information-system-6",
+  "title": "The Deputy Minister of Health chaired a coordination meeting to launch the DHIS2 Health Information System",
+  "publisher": "HISP MENA",
+  "published": "2026-09-02",
+  "sub_indicator": "hmis",
+  "why": "Q1 launch, gradual expansion"
+ },
+ {
+  "url": "https://www.unicef.org/digitalimpact/stories/egypt-deploys-dhis2-emergency-and-humanitarian-response",
+  "title": "Egypt deploys DHIS2 for emergency and humanitarian response",
+  "publisher": "UNICEF",
+  "published": "2023-02-14",
+  "sub_indicator": "hmis",
+  "why": "Q1 pilots"
+ },
+ {
+  "url": "https://english.ahram.org.eg/NewsContent/1/1236/573309/Egypt/Health/Egypt-digitizes--primary-healthcare-facilities,-la.aspx",
+  "title": "Egypt digitizes 265 primary healthcare facilities, launches UHIS pilot in Minya",
+  "publisher": "Ahram Online",
+  "published": "2026-07-22",
+  "sub_indicator": "hmis",
+  "why": "Q1/Q2 EHA HIS"
+ },
+ {
+  "url": "https://www.cairo24.com/2195460",
+  "title": "وزير الصحة: نعمل على إنشاء منصة موحدة لتبادل المعلومات الطبية وربط جميع مقدمي الخدمات",
+  "publisher": "Cairo24",
+  "published": "2025-04-16",
+  "sub_indicator": "hmis",
+  "why": "Q3 HIE plan"
+ },
+ {
+  "url": "https://www.ehealth.com.eg/ministry-of-health-and-ehealth-collaborate-to-operate-the-national-digital-health-system/",
+  "title": "Ministry of Health and eHealth Collaborate to Operate the National Digital Health System",
+  "publisher": "eHealth Egypt",
+  "published": "2025-06-13",
+  "sub_indicator": "hmis",
+  "why": "Q1 national digital health system"
+ },
+ {
+  "url": "https://www.banker.news/152347",
+  "title": "مصر تدشن منصة ذكية للرعاية الصحية",
+  "publisher": "Banker News",
+  "published": "2026-09-14",
+  "sub_indicator": "hmis",
+  "why": "Q3 platform plan"
+ },
+ {
+  "url": "https://gate.ahram.org.eg/News/5887648.aspx",
+  "title": "نائب وزير الصحة يبحث مع فودافون مصر و STM تعزيز التحول الرقمي",
+  "publisher": "Ahram Gate",
+  "published": "2026-08-12",
+  "sub_indicator": "hmis",
+  "why": "Q3 information exchange network"
+ }
+]

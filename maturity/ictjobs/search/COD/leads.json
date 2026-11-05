@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.onem.cd/fileadmin/contenu/PDF/RAPPORT-QUINQUENNAL-2019-2023.pdf",
+  "title": "Rapport quinquennal des statistiques du travail de 2019 a 2023",
+  "publisher": "ONEM",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Job losses by branch incl. information et communication"
+ },
+ {
+  "url": "https://www.afd.fr/fr/projets/au-congo-le-projet-mosala-pour-renforcer-ladequation-formation-emploi",
+  "title": "Au Congo, le projet Mosala",
+  "publisher": "AFD",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "ETVA 2022 youth employment and NEET"
+ },
+ {
+  "url": "https://www.ocdd-gouv.cd/storage/publications/Rapport%20National%20-%20Emploi%20des%20Jeunes%20VD.pdf",
+  "title": "Rapport national emploi des jeunes",
+  "publisher": "OCDD",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment rate by ILO definition"
+ }
+]

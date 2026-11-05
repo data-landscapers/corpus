@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://realequatorialguinea.com/salud/el-sistema-nacional-de-informacion-sanitaria-de-guinea-ecuatorial-mejora-225-puntos-y-pasa-a-nivel-satisfactorio/",
+  "title": "El Sistema Nacional de Información Sanitaria de Guinea Ecuatorial mejora 22,5 puntos",
+  "publisher": "Real Equatorial Guinea",
+  "published": "2026-08-19",
+  "sub_indicator": "exchange",
+  "why": "HIS assessment, data integration"
+ },
+ {
+  "url": "https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial",
+  "title": "Lanzamiento de la herramienta digital en el sistema sanitario de Guinea Ecuatorial",
+  "publisher": "PNUD",
+  "published": "2025-03-01",
+  "sub_indicator": "exchange",
+  "why": "DHIS2 launch"
+ },
+ {
+  "url": "https://www.fundacionfrs.es/continuanos-junto-a-ehas-colaborando-en-el-desarrollo-del-sistema-de-informacion-sanitario-de-guinea-ecuatorial/",
+  "title": "Continuamos junto a EHAS colaborando en el desarrollo del sistema de información sanitario",
+  "publisher": "Fundación FRS",
+  "published": "2025-03-10",
+  "sub_indicator": "exchange",
+  "why": "integration of tools in DHIS2 platform"
+ },
+ {
+  "url": "https://ehas.org/que-hacemos/sis/sis-guinea-ecuatorial/",
+  "title": "Sistema de Información – Guinea Ecuatorial",
+  "publisher": "EHAS",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "DHIS2 pilot Feb-May 2025"
+ },
+ {
+  "url": "https://dhis2.org/equatorial-guinea-malaria-lmis/",
+  "title": "Deploying DHIS2 for eLMIS to improve Malaria stock management in Equatorial Guinea",
+  "publisher": "DHIS2",
+  "published": "2022-12-08",
+  "sub_indicator": "exchange",
+  "why": "eLMIS in DHIS2"
+ },
+ {
+  "url": "https://www.fundacionfrs.es/wp-content/uploads/2023/09/TDR_DESARROLLO_MODULO_AGREGADO_DHIS2.pdf",
+  "title": "TDR desarrollo módulo agregado DHIS2",
+  "publisher": "MINSABS / Fundación FRS",
+  "published": "2023-09",
+  "sub_indicator": "exchange",
+  "why": "lack of data integration identified as weakness"
+ }
+]

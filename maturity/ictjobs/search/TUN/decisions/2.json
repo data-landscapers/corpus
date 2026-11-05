@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth",
+ "fact": "Tunisia's INS reports unemployment among active 15-34 year olds at 29.9 per cent in 2024, from the 2024 census analysis.",
+ "title": "Flash Jeunesse (RGPH 2024)",
+ "publisher": "Institut national de la statistique (INS)",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

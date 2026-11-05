@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "A 31 July 2024 openIMIS discussion noted the need for an interoperability platform such as openHIM to connect openIMIS with eCRVS, openLMIS and DHIS2.",
+ "title": "2024-07-31 Bhela Discussion: openIMIS supporting integrated UHC scheme in Cameroon",
+ "publisher": "openIMIS Wiki",
+ "published": "2024-07-31",
+ "date_source": "source",
+ "why_not": ""
+}

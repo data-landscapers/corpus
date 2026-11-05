@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The Institut Pasteur de Bangui was trained in October 2026 on DHIS2 Tracker so that laboratory results entered there are shared with investigation and care teams in the national surveillance system.",
+ "title": "Surveillance des maladies : l’Institut Pasteur de Bangui renforce ses capacités de suivi des cas avec DHIS2 Tracker",
+ "publisher": "Institut Pasteur de Bangui",
+ "published": "2026-10-15",
+ "date_source": "source",
+ "why_not": ""
+}

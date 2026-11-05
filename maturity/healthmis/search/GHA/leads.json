@@ -1,0 +1,5 @@
+[
+{"url":"https://moh.gov.gh/wp-content/uploads/2024/03/HISSP_2022-2025_FINALVERSION-1.pdf","title":"Health Information System Strategic Plan 2022-2025","publisher":"Ministry of Health, Ghana","published":"2024-03","sub_indicator":"hmis","why":"Q2/Q4: DHIMS2 national platform, completeness gaps, links"},
+{"url":"https://www.countdown2030.org/wp-content/uploads/2024/07/CHARTBOOK-GHANA-2024-1.pdf","title":"Analysis of reproductive, maternal, newborn, child and adolescent health indicators","publisher":"Countdown 2030","published":"2024-07","sub_indicator":"hmis","why":"Q4: DHIS completeness of facility reports 89% in 2019 to 96% in 2023"},
+{"url":"https://afro.who.int/sites/default/files/2023-05/WHO%20Ghana%202022%20Annual%20Report%20.pdf","title":"WHO Ghana 2022 Annual Report","publisher":"WHO Ghana","published":"2023-05","sub_indicator":"hmis","why":"Q3: DHIS2 integrated with other data sources via API"}
+]

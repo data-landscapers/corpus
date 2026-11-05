@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;breadth",
+ "fact": "In 2024 Zambia's SmartCare health information exchange platform was reported integrated with the DISA laboratory system, eLMIS, DHIS2 and the case-based surveillance system, with SmartCare Pro deployed to over 750 sites in 2024.",
+ "title": "Home - Resource.SmartCare",
+ "publisher": "SmartCare Zambia",
+ "published": "2024-07-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

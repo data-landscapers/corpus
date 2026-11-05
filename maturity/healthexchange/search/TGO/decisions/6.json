@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "In March 2026 the West African Health Organisation held a regional workshop in Cotonou to begin automated sharing of routine health data between national DHIS2 systems and the region, with Togo among four pilot countries.",
+ "title": "WAHO initie la mise en œuvre du Partage automatisé des données de santé de routine Phase 1",
+ "publisher": "Atlantic Infos",
+ "published": "2026-03-08",
+ "date_source": "source",
+ "why_not": ""
+}

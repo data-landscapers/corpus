@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;breadth",
+ "fact": "The Ministry of Health said the Health Information Exchange, including the client, provider and facility registries, had been fully deployed as of December 2024, sharing patient records across health facilities.",
+ "title": "MoH: 18.2 million Kenyans registered under SHA",
+ "publisher": "The Star",
+ "published": "2025-01-22",
+ "date_source": "source",
+ "why_not": ""
+}

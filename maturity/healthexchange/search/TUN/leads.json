@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/",
+  "title": "TeleHealth Connect Tunisia 2026",
+  "publisher": "La Presse de Tunisie",
+  "published": "2026-09-29",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: unique health identifier and digital record target end 2026"
+ },
+ {
+  "url": "https://www.lapresse.tn/2026/07/21/numerisation-de-la-sante-le-ministere-sapprete-a-lancer-le-portail-dacces-unique-sahetna-tn/",
+  "title": "Numérisation de la santé : le ministère s'apprête à lancer le portail d'accès unique Sahetna.tn",
+  "publisher": "La Presse de Tunisie",
+  "published": "2026-07-21",
+  "sub_indicator": "exchange",
+  "why": "Q2/Q4: INS generalisation, shared record"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/0411-143092-sante-numerique-la-tunisie-explore-des-pistes-de-cooperation-avec-l-espagne",
+  "title": "Santé numérique : la Tunisie explore des pistes de coopération avec l'Espagne",
+  "publisher": "Agence Ecofin",
+  "published": "2026-11-04",
+  "sub_indicator": "exchange",
+  "why": "Q2: 16 hospitals on shared system, AFD programme"
+ },
+ {
+  "url": "https://www.leaders.com.tn/article/34602-tunisie-il-faut-normaliser-le-dossier-numerique-du-patient",
+  "title": "Tunisie: Il faut normaliser le dossier numérique du patient",
+  "publisher": "Leaders",
+  "published": "2023-03-25",
+  "sub_indicator": "exchange",
+  "why": "Q1: lack of standardisation"
+ }
+]

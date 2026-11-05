@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The HMIS team developed an interoperability layer to share information across Mozambique's health subsystems, and a national Master Facility List with an API has been made available to organisations in interoperability projects (OpenHIE story, 2022).",
+ "title": "Master Facility List Experiences and Lessons from Mozambique",
+ "publisher": "OpenHIE",
+ "published": "2022-03-17",
+ "date_source": "source",
+ "why_not": ""
+}

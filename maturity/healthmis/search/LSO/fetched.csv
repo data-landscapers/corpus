@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://doi.org/10.1093/oodh/oqae021,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://openknowledge.worldbank.org/server/api/core/bitstreams/cef30410-108d-4f8a-a725-2842e5baaf84/content,held,held as raw/2022/2022-03-01-lso-transforming-health-care-in-lesotho-using-digital-health-to-overcome-h.md,,0,,
+3,https://bmjopen.bmj.com/content/13/5/e071414,held,held as raw/2023/2023-05-01-lso-effects-of-primary-healthcare-reform-on-routine-health-information-sys.md,,0,,
+4,https://implementome.org/en/projectdetails/6c79dde7-9061-4ff6-a02b-578552e76414,fetched,,scripts/.workroot/study/healthmis/cache/LSO/4.txt,218,html,DHIS2 MoH Data Warehouse | Implementome

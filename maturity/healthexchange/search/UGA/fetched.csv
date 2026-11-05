@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://library.health.go.ug/sites/default/files/resources/Final_HIE%20and%20Interoperability%20Guidelines%20for%20Uganda_13042024.pdf,fetched,,scripts/.workroot/study/healthexchange/cache/UGA/1.txt,5547,pdf,
+2,https://library.health.go.ug/sites/default/files/resources/EMR%20System%20Implementation%20Guidelines.pdf,fetched,,scripts/.workroot/study/healthexchange/cache/UGA/2.txt,16881,pdf,
+3,https://hie.health.go.ug/en/interoperability-layer,fetched,,scripts/.workroot/study/healthexchange/cache/UGA/3.txt,6,html,Interoperability Layer
+4,https://dl.acm.org/doi/10.1145/3786176.3788341,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+5,https://www.measureevaluation.org/resources/publications/fs-20-443/at_download/document,fetched,,scripts/.workroot/study/healthexchange/cache/UGA/5.txt,837,pdf,
+6,https://doi.org/10.1162/dint_a_00170,unfetchable,ConnectionError; no usable Wayback capture,,0,,

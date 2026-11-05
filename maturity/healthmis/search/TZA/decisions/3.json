@@ -1,0 +1,1 @@
+{"select": true, "sub_indicator": "hmis", "aspect": "system;linked", "fact": "DHIS2 is used at national scale as the HMIS and is integrated with the health facility registry, eLMIS and the human resources information system.", "title": "Tanzania Health Data Ecosystem Mapping", "publisher": "GIZ / DIPC", "published": "2024", "date_source": "source", "why_not": ""}

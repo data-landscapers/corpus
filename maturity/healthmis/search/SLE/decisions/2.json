@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;linked;completeness",
+ "fact": "Sierra Leone's DHIS2-based eIDSR surveillance system covers all 16 districts and over 1,500 facilities, with weekly completeness above 98% in 2023.",
+ "title": "Assessing the implementation of an electronic Integrated Disease Surveillance and Response System using DHIS2, 2024: Sierra Leone's experience",
+ "publisher": "Journal of Interventional Epidemiology and Public Health",
+ "published": "2025-02-14",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://cms.nsomalawi.mw/api/download/649/Labour-Force-Survey-Brochure.pdf",
+  "title": "Malawi Labour Force Survey 2024 brochure",
+  "publisher": "National Statistical Office",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Youth 15-35 unemployment 21.6 percent; 2024 LFS"
+ },
+ {
+  "url": "https://cms.nsomalawi.mw/api/download/650/Labour-Force-Survey-Factsheet.pdf",
+  "title": "Labour Force Survey Factsheet 2024",
+  "publisher": "National Statistical Office",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Unemployment 19.7 percent"
+ },
+ {
+  "url": "https://leymanck.com/malawi-marks-african-statistics-day-releases-2024-labour-force-survey/",
+  "title": "Malawi marks African Statistics Day, releases 2024 Labour Force Survey",
+  "publisher": "Leyman Publications",
+  "published": "2025-11-19",
+  "sub_indicator": "ictjobs",
+  "why": "LFS 2024 release"
+ },
+ {
+  "url": "https://ilostat.ilo.org/data/country-profiles/mwi/",
+  "title": "Malawi - ILOSTAT",
+  "publisher": "ILOSTAT",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Country profile with LFS 2024"
+ }
+]

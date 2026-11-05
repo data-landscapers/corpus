@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Uganda's Health Information Exchange and Interoperability Guidelines (January 2023) say HIE use cases already exist, including EMRs exchanging data with the national Viral Load Information System and the mTrac surveillance system exchanging data with the national eHMIS, and that exchange modalities in use include APIs, ETL tools and OpenHIE architecture.",
+ "title": "The Uganda Health Information Exchange and Interoperability Guidelines",
+ "publisher": "Ministry of Health, Uganda",
+ "published": "2023-01",
+ "date_source": "source",
+ "why_not": ""
+}

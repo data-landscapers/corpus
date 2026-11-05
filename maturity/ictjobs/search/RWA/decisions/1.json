@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "jobs;youth",
+ "fact": "On the 2024 Labour Force Survey, information and communication held 0.3% of Rwanda's employed population and the youth (16-30) unemployment rate was 18.5%.",
+ "title": "Labour Force Survey Annual Report 2024",
+ "publisher": "National Institute of Statistics of Rwanda",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

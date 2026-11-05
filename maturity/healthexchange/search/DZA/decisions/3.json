@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;identifier",
+ "fact": "Algeria's hospital system is interconnected with the Interior Ministry civil-registry database, identifying patients by biometric ID card and creating a single national medical record around the national identifier, with national roll-out of the electronic record set for summer 2026.",
+ "title": "L'Algérie fixe la date de la généralisation du dossier médical numérique",
+ "publisher": "Medica Magazine",
+ "published": "2026-07-20",
+ "date_source": "source",
+ "why_not": ""
+}

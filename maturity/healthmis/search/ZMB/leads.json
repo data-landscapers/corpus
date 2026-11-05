@@ -1,0 +1,8 @@
+[
+{"url":"https://doi.org/10.21203/rs.3.rs-10358037/v1","title":"Leveraging a DHIS2 Based Ecosystem to Improve Health Data Management and Reporting: MORE-ZM System in Zambia","publisher":"Research Square (preprint)","published":"2026-07-15","sub_indicator":"hmis","why":"widespread DHIS2 use for routine reporting; fragmented ecosystem"},
+{"url":"https://www.linkedin.com/posts/ihm-southern-africa_ihm-ndw-onehealthreporting-activity-7393910532577095681-ADdk","title":"Zambia's Ministry of Health convenes One Health Reporting","publisher":"IHM Southern Africa","published":"2025-11-11","sub_indicator":"hmis","why":"DHIS2 official aggregate platform; SmartCare Pro integration"},
+{"url":"https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf","title":"Zambia Digital Health Case Study April 2025","publisher":"The Global Fund","published":"2025-04","sub_indicator":"hmis","why":"SmartCare at 877 facilities; ~90% facilities on DHIS2 for surveillance"},
+{"url":"https://data.gffportal.org/sites/default/files/2025-09/Zambia-COUNTDOWN.pdf","title":"Zambia Countdown data quality summary 2019-2024","publisher":"Countdown to 2030 / GFF","published":"2025","sub_indicator":"hmis","why":"DHIS2 completeness 99% in 2024"},
+{"url":"https://wiki.ohie.org/display/CP/Zambia","title":"Zambia - Communities & Projects","publisher":"OpenHIE Wiki","published":"","sub_indicator":"hmis","why":"SmartCare rollout, DHIS2 expansion, interoperability pillar"},
+{"url":"https://zambia.knowledgehub.health/attachments/download/40/Digital-Health-strategy-final.pdf","title":"Digital Health Strategy 2022-2026","publisher":"Ministry of Health Zambia","published":"2022","sub_indicator":"hmis","why":"iNHMIS on DHIS2; systems inventory"}
+]

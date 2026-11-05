@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;linked",
+ "fact": "In April 2023 the Ministry of Health was training central epidemiological data staff in DHIS2 to bring COVID-19 data into the ministry's DHIS2 information system.",
+ "title": "Direcção Nacional de Saúde Pública capacita técnicos para reforçar vigilância epidemiológica",
+ "publisher": "WHO Regional Office for Africa",
+ "published": "2023-04-17",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.republiquetogolaise.tg/sante/1305-11891-amu-un-systeme-d-information-integre-et-interoperable-en-preparation",
+  "title": "AMU : un système d'information intégré et interopérable en préparation",
+  "publisher": "République Togolaise",
+  "published": "2026-05-13",
+  "sub_indicator": "exchange",
+  "why": "SIIG-AMU being designed"
+ },
+ {
+  "url": "https://www.togofirst.com/en/health/1305-18963-togo-plans-unified-digital-platform-for-universal-health-insurance-management",
+  "title": "Togo plans unified digital platform for universal health insurance management",
+  "publisher": "Togo First",
+  "published": "2026-05-13",
+  "sub_indicator": "exchange",
+  "why": "SIIG-AMU, unique patient identifier needed"
+ },
+ {
+  "url": "https://fr.linkedin.com/posts/sirnoumon_clinicaa-dhis2-sant%C3%A9num%C3%A9rique-activity-7366398179514208256-6A4B",
+  "title": "Clinicaa interopérable avec DHIS2",
+  "publisher": "LinkedIn (Amah Noumon)",
+  "published": "2025-08-27",
+  "sub_indicator": "exchange",
+  "why": "hospital system exchanges with DHIS2"
+ },
+ {
+  "url": "https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/2023/Documents/Togo_-_Marketplace_Poster_HIS_Status_and_Priorities.pdf",
+  "title": "Togo HIS Status and Priorities",
+  "publisher": "Health Data Collaborative",
+  "published": "2023-11",
+  "sub_indicator": "exchange",
+  "why": "EMR with biometric identification priority"
+ },
+ {
+  "url": "https://ahofiles.afro.who.int/afahobckpcontainer/production/files/Rapport_final_d%C3%A9valuation_du_PSNSNIS_2018-2022.pdf",
+  "title": "Rapport final d'évaluation du PSRSNIS 2018-2022",
+  "publisher": "Ministère de la Santé du Togo",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "lack of interoperability with third-party data"
+ },
+ {
+  "url": "https://atlanticinfos.tg/2026/03/08/benin-waho-initie-la-mise-en-oeuvre-du-partage-automatise-des-donnees-de-sante-de-routine-phase-1/",
+  "title": "WAHO initie le partage automatisé des données de santé de routine Phase 1",
+  "publisher": "Atlantic Infos",
+  "published": "2026-03-08",
+  "sub_indicator": "exchange",
+  "why": "Togo pilot automated DHIS2 data transfer"
+ },
+ {
+  "url": "https://liksoft.tg/projets/pnsi",
+  "title": "PNSI : Plateforme nationale de santé interopérable",
+  "publisher": "Liksoft",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "vendor platform"
+ }
+]

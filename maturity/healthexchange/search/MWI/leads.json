@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://mwnation.com/digital-health-records-system-in-pilot-phase/",
+  "title": "Digital health records system in pilot phase",
+  "publisher": "Nation Online",
+  "published": "2026-09-04",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: MaHIS pilot, unique identifier, interoperability layer"
+ },
+ {
+  "url": "https://health.gov.mw/storage/resources/Digital%20Health%20Governance%20Framework%20Malawi%20Signed.pdf",
+  "title": "Digital Health Governance Framework",
+  "publisher": "Ministry of Health, Malawi",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q4: MaHIS integration with NRIS"
+ },
+ {
+  "url": "https://m4health.pro/project/eregister-malawi/",
+  "title": "Creating a digital health architecture for Malawi",
+  "publisher": "management4health",
+  "published": "2024-07-31",
+  "sub_indicator": "exchange",
+  "why": "Q1: MaHIS kickstarted"
+ },
+ {
+  "url": "https://www.bmz-digital.global/wp-content/uploads/2024/10/MALAWI-Health-Data-Ecosystem-Mapping-DIPC.pdf",
+  "title": "Malawi Health Data Ecosystem Mapping",
+  "publisher": "Digital Square",
+  "published": "2024",
+  "sub_indicator": "exchange",
+  "why": "Q2: interoperability layer 2018, OpenLMIS-DHIS2 integration 2019"
+ },
+ {
+  "url": "https://ohie.org/impact-stories/developing-an-architecture-building-foundational-registries-and-exchange-components/",
+  "title": "Developing an Architecture: Building Foundational Registries and Exchange Components",
+  "publisher": "OpenHIE",
+  "published": "2023-01-20",
+  "sub_indicator": "exchange",
+  "why": "Q1-Q3: OpenHIM layer in place, MPI core built"
+ },
+ {
+  "url": "https://dhis2.org/malawi-logistics-integration/",
+  "title": "Integrating HMIS and eLMIS systems for better decision making in Malawi",
+  "publisher": "DHIS2",
+  "published": "2021-03-02",
+  "sub_indicator": "exchange",
+  "why": "Q2: OpenLMIS-DHIS2 via OpenHIM"
+ }
+]

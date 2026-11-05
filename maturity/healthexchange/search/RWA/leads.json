@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://ciichin.org/wp-content/uploads/2025/01/Rwanda-Health-Information-System-Ecosystem-RHIE-Achievement-over-last-Three-years-Full-Report.pdf",
+  "title": "Rwanda Health Information System Ecosystem (RHIE) achievements over last three years",
+  "publisher": "CIIC-HIN",
+  "published": "2025-01",
+  "sub_indicator": "exchange",
+  "why": "OpenHIM, SHR status"
+ },
+ {
+  "url": "https://ohie.org/fr/impact-stories/creation-dun-systeme-dechange-dinformations-medicales-au-rwanda/",
+  "title": "Création d'un système d'échange d'informations médicales au Rwanda",
+  "publisher": "OpenHIE",
+  "published": "2022-09-27",
+  "sub_indicator": "exchange",
+  "why": "exchange OpenMRS, LabWare, NIDA, DHIS2"
+ },
+ {
+  "url": "https://ohie.org/impact-stories/creating-a-health-information-exchange-system-in-rwanda/",
+  "title": "Creating a Health Information Exchange System in Rwanda",
+  "publisher": "OpenHIE",
+  "published": "2021-06-14",
+  "sub_indicator": "exchange",
+  "why": "exchange OpenMRS, LabWare, NIDA, DHIS2"
+ },
+ {
+  "url": "https://ohie.org/wp-content/uploads/2024/08/RawandaHealthExchangeArchitecture.pdf",
+  "title": "Rwanda Health Exchange Architecture",
+  "publisher": "OpenHIE",
+  "published": "2024-08",
+  "sub_indicator": "exchange",
+  "why": "UPI and NIDA linkage"
+ },
+ {
+  "url": "https://savics.org/interoperability/",
+  "title": "Interoperability: Savics",
+  "publisher": "Savics",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "RHIES with NIDA"
+ },
+ {
+  "url": "https://wiki.ohie.org/display/CP/Rwanda",
+  "title": "Rwanda - OpenHIE Wiki",
+  "publisher": "OpenHIE",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "unique ID linked to SHR"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;linked",
+ "fact": "DHIS2, deployed in the country since 2021, is the central tool for health data; DHIS2 Tracker training for disease surveillance case tracking was run by the ministry's SNIS directorate with Institut Pasteur de Bangui.",
+ "title": "Surveillance des maladies: l'Institut Pasteur de Bangui renforce ses capacités de suivi des cas avec DHIS2 Tracker",
+ "publisher": "Institut Pasteur de Bangui",
+ "published": "2026-10-15",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://instat.mg/documents/upload/main/TBSE_Analanjirofo_04Dec2024.pdf",
+  "title": "Tableau de bord socio-economique region Analanjirofo",
+  "publisher": "INSTAT",
+  "published": "2024-10",
+  "sub_indicator": "ictjobs",
+  "why": "EPM 2021-22 youth 15-24 unemployment 11.2 national"
+ },
+ {
+  "url": "https://www.afrobarometer.org/publication/ad999-plus-instruits-les-jeunes-malgaches-sont-pourtant-plus-touches-par-le-chomage/",
+  "title": "Plus instruits, les jeunes malgaches sont pourtant plus touches par le chomage",
+  "publisher": "Afrobarometer",
+  "published": "2025-06-16",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment survey"
+ }
+]

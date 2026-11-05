@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://publichealth.jmir.org/2026/1/e72029/PDF,fetched,,scripts/.workroot/study/healthmis/cache/MWI/1.txt,11575,pdf,Untitled
+2,https://link.springer.com/article/10.1186/s12911-024-02802-x,fetched,,scripts/.workroot/study/healthmis/cache/MWI/2.txt,46,html,Client Challenge
+3,https://dhis2.org/malawi-logistics-integration/,fetched,,scripts/.workroot/study/healthmis/cache/MWI/3.txt,1234,html,Integrating HMIS and eLMIS systems for better decision making in Malawi - DHIS2
+4,https://iris.who.int/server/api/core/bitstreams/06722d13-845f-4ce6-8b3b-140050de9777/content,fetched,,scripts/.workroot/study/healthmis/cache/MWI/4.txt,2808,pdf,

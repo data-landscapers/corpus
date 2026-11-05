@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.zimstat.co.zw/wp-content/uploads/Macro/Labor-force/2024_Third_Quarter_QLFS_Report.pdf",
+  "title": "2024 Third Quarter Labour Force Survey Report",
+  "publisher": "ZIMSTAT",
+  "published": "2024-10",
+  "sub_indicator": "ictjobs",
+  "why": "Youth 15-24 unemployment 41.2 Q3 2024"
+ },
+ {
+  "url": "https://www.zimstat.co.zw/wp-content/uploads/Macro/Labor-force/2024_First_Quarter_QLFS_Report.pdf",
+  "title": "2024 First Quarter Labour Force Survey Report",
+  "publisher": "ZIMSTAT",
+  "published": "2024-05",
+  "sub_indicator": "ictjobs",
+  "why": "Youth 15-24 unemployment 37.7 Q1 2024"
+ },
+ {
+  "url": "https://www.zimstat.co.zw/wp-content/uploads/Macro/Labor-force/2023_FOURTH_QUARTER_QLFS_PRESENTATION_23012024.pdf",
+  "title": "QLFS 2023 Fourth Quarter Results",
+  "publisher": "ZIMSTAT",
+  "published": "2024-02",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment Q4 2023"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://www.vie-publique.sn/documents/10434/enquete-nationale-sur-lemploi-au-senegal-enes-quatrieme-trimestre-2023-ansd",
+  "title": "Enquête nationale sur l'emploi au Sénégal (ENES), quatrième trimestre 2023",
+  "publisher": "ANSD",
+  "published": "2024-03",
+  "sub_indicator": "ictjobs",
+  "why": "Unemployment Q4 2023"
+ },
+ {
+  "url": "https://www.vie-publique.sn/docs/be6dfb05-2a00-46fe-96a5-c25168134da3/enquete-nationale-sur-lemploi-au-senegal-enes-troisieme-trimestre-2023-ansd.pdf",
+  "title": "Enquête nationale sur l'Emploi au Sénégal Troisième trimestre 2023",
+  "publisher": "ANSD",
+  "published": "2023-12",
+  "sub_indicator": "ictjobs",
+  "why": "Unemployment Q3 2023"
+ }
+]

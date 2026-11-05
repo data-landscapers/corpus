@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.moh.go.tz/storage/app/uploads/public/661/fe3/71d/661fe371de96f490413146.pdf",
+  "title": "Health Information System guideline",
+  "publisher": "Ministry of Health Tanzania",
+  "published": "",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q3 DHIS reporting, interoperability"
+ },
+ {
+  "url": "https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Country_documents/Tanzania/Tanzania_Monitoring_and_Evaluation_Strategic_Framework_2020-25.pdf",
+  "title": "Monitoring and Evaluation Strategic Framework (MESF) 2020-2025",
+  "publisher": "Ministry of Health Tanzania",
+  "published": "2020",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q4 DHIS2 reporting rate over 90%"
+ },
+ {
+  "url": "https://www.bmz-digital.global/wp-content/uploads/2024/10/TANZANIA-Health-Data-Ecosystem-Mapping-DIPC.pdf",
+  "title": "Tanzania Health Data Ecosystem Mapping",
+  "publisher": "BMZ Digital Global",
+  "published": "2024",
+  "sub_indicator": "hmis",
+  "why": "Q3 exchange between systems"
+ },
+ {
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8086308/",
+  "title": "One country's journey to interoperability: Tanzania's national health information exchange",
+  "publisher": "PMC",
+  "published": "2021",
+  "sub_indicator": "hmis",
+  "why": "Q3 DHIS2 and eLMIS exchange"
+ },
+ {
+  "url": "https://doi.org/10.1002/isd2.12193",
+  "title": "Avoiding pitfalls: lessons from customizing and rolling out a national web-based system in Tanzania",
+  "publisher": "Information Systems Journal",
+  "published": "2021-06-06",
+  "sub_indicator": "hmis",
+  "why": "Q2 DHIS2 rollout"
+ }
+]

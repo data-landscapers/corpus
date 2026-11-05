@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;identifier",
+ "fact": "A November 2023 poster lists strengthening the health information system's interoperability, including a unique identifier, as a 2024-2025 priority.",
+ "title": "CAMEROON - Marketplace Poster: HIS Status and Priorities",
+ "publisher": "Health Data Collaborative; Ministère de la Santé Publique",
+ "published": "2023-11",
+ "date_source": "source",
+ "why_not": ""
+}

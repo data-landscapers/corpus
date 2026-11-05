@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;completeness",
+ "fact": "DHIS2 was rolled out in 2019 in all zobas, and reporting in Eritrea was above the 75 percent threshold WHO requires for data.",
+ "title": "Consolidating Achievement of UHC in Eritrea: WHO Biennium Report 2020-2021",
+ "publisher": "WHO Eritrea",
+ "published": "2022-07",
+ "date_source": "source",
+ "why_not": ""
+}

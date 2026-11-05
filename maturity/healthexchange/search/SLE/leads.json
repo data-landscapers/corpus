@@ -1,0 +1,6 @@
+[
+{"url":"https://mohs.gov.sl/download/68/digital-health/18150/sierral-leone-digital-health-roadmap-2024-2026-2.pdf","title":"Sierra Leone Digital Health Roadmap 2024-2026","publisher":"Ministry of Health and Sanitation, Sierra Leone","published":"","sub_indicator":"exchange","why":"Q1: 81.2% of solutions do not connect with DHIS2; national EHR planned"},
+{"url":"https://formative.jmir.org/2022/6/e29930","title":"Digital Health Solutions and State of Interoperability: Landscape Analysis of Sierra Leone","publisher":"JMIR Formative Research","published":"2022-06-10","sub_indicator":"exchange","why":"Q1: solutions do not share data (absence, 2022)"},
+{"url":"https://mohs.gov.sl/emr-system-to-improve-health-care-delivery-in-sierra-leone/","title":"EMR system to improve health care delivery in Sierra Leone","publisher":"Ministry of Health and Sanitation, Sierra Leone","published":"2023-10-11","sub_indicator":"exchange","why":"Q1: EMR pilot at Connaught to integrate with DHIS2"},
+{"url":"https://amref.org/wp-content/uploads/2023/02/ICT-Consultant-revised.pdf","title":"Consultancy to implement a Viral Load Sample Management System-LIMS in the Republic of Sierra Leone","publisher":"Amref Health Africa","published":"","sub_indicator":"exchange","why":"Q1: interoperability layer between Open eLIMS, DHIS2 and eTracker to be developed"}
+]

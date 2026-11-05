@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "DRC's national DHIS2 transfers LMIS stock data and selected malaria, HIV and TB aggregates hourly through its API to the external InfoMED platform.",
+ "title": "Improving DHIS2 interoperability performance in DRC – a case study",
+ "publisher": "DHIS2 Community",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

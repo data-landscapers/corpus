@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://dhis2.org/hisp-centre-completes-dhis2-system-strengthening-support-in-madagascar-with-data-fi/",
+  "title": "HISP Centre completes DHIS2 system strengthening support in Madagascar with Data.FI",
+  "publisher": "DHIS2",
+  "published": "2026-10-21",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2: national DHIS2 work"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/mtomady_digitalhealth-interoperability-dhis2-activity-7381257757754150912-s2DE",
+  "title": "mTOMADY platform is now interoperable with DHIS2",
+  "publisher": "mTOMADY",
+  "published": "2025-10-07",
+  "sub_indicator": "exchange",
+  "why": "Q2: mTOMADY-DHIS2 interoperability"
+ },
+ {
+  "url": "https://dhis2.org/fr/madagascar-hisp-uio-one-health-initiative/",
+  "title": "Madagascar et le HISP UiO s'associent pour lancer l'initiative numérique One Health et les systèmes d'information de laboratoire",
+  "publisher": "DHIS2",
+  "published": "2025-05-22",
+  "sub_indicator": "exchange",
+  "why": "Q1: interoperable LIS and One Health platform being built"
+ },
+ {
+  "url": "https://www.msanp.gov.mg/upload/documents/PSRSIS_2023-2027.pdf",
+  "title": "Plan Stratégique de Renforcement du Système d'Information Sanitaire 2023-2027",
+  "publisher": "Ministère de la Santé Publique, Madagascar",
+  "published": "2023",
+  "sub_indicator": "exchange",
+  "why": "Q1-Q4: CommCare to DHIS2 interoperability, X-Road, unique identity"
+ }
+]

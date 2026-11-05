@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The Comoros immunisation programme moved vaccination data from the DVD-MT spreadsheet tool into the national DHIS2, migrating 2019-2025 data, with real-time access for 79 facilities (HISP Rwanda, May 2026).",
+ "title": "Strengthening vaccination data use culture: Integration of DVD-MT into DHIS2 Comoros",
+ "publisher": "HISP Rwanda",
+ "published": "2026-05-21",
+ "date_source": "source",
+ "why_not": ""
+}

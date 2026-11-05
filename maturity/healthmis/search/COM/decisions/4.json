@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;linked",
+ "fact": "The Ministry of Health's health information directorate held a national retreat to prioritise climate and health indicators for integration into the national SNIS/DHIS2.",
+ "title": "HISP Rwanda accompagne les Comores vers une approche One Health grâce à l'intégration des données climat et santé dans le SNIS/DHIS2",
+ "publisher": "HISP Rwanda",
+ "published": "2026-04-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth;jobs",
+ "fact": "The 2023 census labour force module found information and communication at 8,164 jobs, 1.5 percent of employment, and youth (15-34) unemployment of 44.1 percent.",
+ "title": "2023 Population and Housing Census Labour Force Report",
+ "publisher": "Namibia Statistics Agency",
+ "published": "2025-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

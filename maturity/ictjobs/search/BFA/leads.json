@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.insd.bf/sites/default/files/2026-06/Bulletin%20semestriel%20sur%20emploi_ENSE3_0.pdf",
+  "title": "Enquete nationale semestrielle sur l'emploi (ENES3)",
+  "publisher": "INSD",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Youth unemployment 16-24 from national labour force panel, H2 2025"
+ },
+ {
+  "url": "https://microdata.insd.bf/index.php/catalog/70/pdf-documentation",
+  "title": "Enquete nationale semestrielle sur l'emploi (Deuxieme semestre 2024)",
+  "publisher": "INSD",
+  "published": "2024-12",
+  "sub_indicator": "ictjobs",
+  "why": "National unemployment and youth underutilisation, H2 2024"
+ },
+ {
+  "url": "https://microdata.insd.bf/index.php/catalog/61",
+  "title": "Enquete nationale de base sur l'emploi et le secteur informel 2023",
+  "publisher": "INSD",
+  "published": "2025-04",
+  "sub_indicator": "ictjobs",
+  "why": "ENB-ESI 2023 with branch Information et communication"
+ },
+ {
+  "url": "https://microdata.insd.bf/index.php/catalog/61/variable/F1/V766?name=Section",
+  "title": "ENB-ESI 2023 employment branch distribution",
+  "publisher": "INSD",
+  "published": "",
+  "sub_indicator": "ictjobs",
+  "why": "Information et communication share of employed sample"
+ },
+ {
+  "url": "https://www.insd.bf/sites/default/files/2026-01/Annuaire%20statistique%20national%202024%20VF-31-12-2025.pdf",
+  "title": "Annuaire statistique national 2024",
+  "publisher": "INSD",
+  "published": "2025-12",
+  "sub_indicator": "ictjobs",
+  "why": "Yearbook employment tables"
+ }
+]

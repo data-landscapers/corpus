@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "In May 2026 Togo's health ministry held a workshop to design the target architecture of the SIIG-AMU, a federated integrated and interoperable insurance information system connecting existing platforms across the patient pathway.",
+ "title": "AMU : un système d'information intégré et interopérable en préparation",
+ "publisher": "République Togolaise",
+ "published": "2026-05-13",
+ "date_source": "source",
+ "why_not": ""
+}

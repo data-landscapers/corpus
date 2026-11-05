@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "jobs;youth",
+ "fact": "The 2024 Labour Force Survey counts 13,261 employed in information and communication out of 3,972,883 employed (about 0.3%) and a youth (19-34) unemployment rate of 18.4%.",
+ "title": "2024 Labour Force Survey Report",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

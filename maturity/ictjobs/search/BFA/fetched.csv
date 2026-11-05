@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.insd.bf/sites/default/files/2026-06/Bulletin%20semestriel%20sur%20emploi_ENSE3_0.pdf,fetched,,scripts/.workroot/study/ictjobs/cache/BFA/1.txt,4843,pdf,
+2,https://microdata.insd.bf/index.php/catalog/70/pdf-documentation,fetched,,scripts/.workroot/study/ictjobs/cache/BFA/2.txt,11430,pdf,
+3,https://microdata.insd.bf/index.php/catalog/61,fetched,,scripts/.workroot/study/ictjobs/cache/BFA/3.txt,1882,html,Enquête nationale de base sur l'emploi et le secteur informel 2023
+4,https://microdata.insd.bf/index.php/catalog/61/variable/F1/V766?name=Section,fetched,,scripts/.workroot/study/ictjobs/cache/BFA/4.txt,362,html,Enquête nationale de base sur l'emploi et le secteur informel 2023
+5,https://www.insd.bf/sites/default/files/2026-01/Annuaire%20statistique%20national%202024%20VF-31-12-2025.pdf,held,held as raw/2025/2025-12-01-bfa-insd-annuaire-statistique-national-2024.md,,0,,

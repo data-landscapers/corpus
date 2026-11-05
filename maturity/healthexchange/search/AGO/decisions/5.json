@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Interoperability between the HIV community information system (SIS-C HIV) and the national DHIS2-based SIS-C, which also took in malaria, nutrition and mass drug administration data, was established in February 2023.",
+ "title": "Estabelecida a interoperabilidade entre o SIS-Comunitário do HIV e o SIS-C Angola",
+ "publisher": "Saudigitus",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

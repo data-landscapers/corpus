@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dhis2.org/climate/country-profiles/ethiopia/,fetched,,scripts/.workroot/study/healthmis/cache/ETH/1.txt,370,html,Ethiopia - DHIS2
+2,https://www.ghspjournal.org/content/12/6/e2300513,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+3,https://ejhd.org/index.php/ejhd/article/view/6302,fetched,,scripts/.workroot/study/healthmis/cache/ETH/3.txt,257,html,The Ethiopian Journal of Health Development
+4,https://pmc.ncbi.nlm.nih.gov/articles/PMC11316158/,fetched,,scripts/.workroot/study/healthmis/cache/ETH/4.txt,7999,html,Maturity Assessment of District Health Information System Version 2 Implementation in Ethiopia: Current Status and Improvement Pathways
+5,https://dhis2.org/enhancing-healthcare-in-ethiopia-using-dhis2/,fetched,,scripts/.workroot/study/healthmis/cache/ETH/5.txt,2617,html,Enhancing Healthcare Performance in Ethiopia Using DHIS2

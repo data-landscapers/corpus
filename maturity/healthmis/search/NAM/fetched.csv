@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/NAM_Namibia_National-eHealth-strategy_2021-2025.pdf,held,held as raw/2021/2021-01-01 Namibia National eHealth Strategy 2021-2025.md,,0,,
+2,https://www.afro.who.int/countries/namibia/news/namibia-launches-national-digital-health-policy-advance-equitable-people-centred-healthcare,held,held as raw/2026/2026-02-06-who-afro-namibia-launches-national-digital-health-policy-2026-2036.md,,0,,
+3,https://community.dhis2.org/t/transforming-data-into-insights-namibia-s-national-data-warehouse-ndw-implementation-with-dhis2/58642,fetched,,scripts/.workroot/study/healthmis/cache/NAM/3.txt,516,html,Transforming Data into Insights Namibia’s National Data Warehouse (NDW) Implementation with DHIS2
+4,https://informaticshub.ucsf.edu/node/116,fetched,,scripts/.workroot/study/healthmis/cache/NAM/4.txt,879,html,NAMTAC

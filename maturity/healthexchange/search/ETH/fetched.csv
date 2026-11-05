@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://interop.moh.gov.et/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+2,https://dhpi.moh.gov.et/storage/external_resource/December2025/1766133552.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+3,https://solicitations.jsi.org/JSIInternet/Documents/_download_sol.cfm?docid=1025,fetched,,scripts/.workroot/study/healthexchange/cache/ETH/3.txt,1025,pdf,
+4,https://ehia.et/wp-content/uploads/2024/08/Ethiopian-Digital-Health-Blueprint.pdf,fetched,,scripts/.workroot/study/healthexchange/cache/ETH/4.txt,16418,pdf,
+5,https://ethiopiadup.jsi.com/wp-content/uploads/2022/07/How-Ethiopias-eHealth-Architecture-supported-health-data-exchange-through-interoperability-layer-for-COVID-19-digitization-response-.pdf,fetched,,scripts/.workroot/study/healthexchange/cache/ETH/5.txt,686,pdf,PowerPoint Presentation

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;breadth",
+ "fact": "The health ministry's piece on the World Bank identification mission for the MPA Sante & Emploi project names DHIS2, OpenLMIS, e-SENI and other platforms and makes automated exchange between DHIS2, OpenLMIS and the others a national priority; OpenLMIS is deployed in 5 national warehouses, 7 regions and 26 districts.",
+ "title": "DOSSIER SPÉCIAL — MPA SANTÉ & EMPLOI (SUITE)",
+ "publisher": "Ministère de la santé et de la Population",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

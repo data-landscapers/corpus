@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://applications.emro.who.int/docs/9789292741716-eng.pdf",
+  "title": "Libya Annual Report 2024",
+  "publisher": "WHO EMRO",
+  "published": "2025",
+  "sub_indicator": "hmis",
+  "why": "DHIS2 100% geographic coverage by March 2023; reporting consistency a challenge"
+ },
+ {
+  "url": "https://lana.gov.ly/post.php?id=344809&lang=ar",
+  "title": "وزارة الصحة تبحث مع منظمة الصحة العالمية تطوير نظم المعلومات الصحية في ليبيا",
+  "publisher": "Libyan News Agency",
+  "published": "2025-11-07",
+  "sub_indicator": "hmis",
+  "why": "Ministry reviews DHIS2 and expansion to pharmacy"
+ },
+ {
+  "url": "https://moh.gov.ly/pages/centers-offices/health-info-center",
+  "title": "مركز المعلومات والتوثيق بقطاع الصحة",
+  "publisher": "Ministry of Health, Libya",
+  "published": "",
+  "sub_indicator": "hmis",
+  "why": "DHIS2 national platform description"
+ },
+ {
+  "url": "https://applications.emro.who.int/docs/9789292745325-eng.pdf",
+  "title": "Monitoring Libya's health system: national health indicators",
+  "publisher": "WHO EMRO / Ministry of Health Libya",
+  "published": "2024",
+  "sub_indicator": "hmis",
+  "why": "Indicators sourced from facility DHIS2"
+ }
+]

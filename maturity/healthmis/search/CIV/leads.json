@@ -1,0 +1,5 @@
+[
+{"url":"https://measuremalaria.cpc.unc.edu/wp-content/uploads/2023/07/Cote-dIvoire-Data-Quality-and-Use_FS-23-619_508.pdf","title":"Malaria Data Quality and Use in Cote d'Ivoire","publisher":"PMI Measure Malaria","published":"2023","sub_indicator":"hmis","why":"DHIS2 completeness and timeliness 2022"},
+{"url":"https://www.snisdiis.com/wp-content/uploads/2022/03/Rapport-Annuel-sur-la-Situation-Sanitaire-RASS-2020-VF.pdf","title":"Rapport Annuel sur la Situation Sanitaire (RASS) 2020","publisher":"MSHP-DIIS","published":"","sub_indicator":"hmis","why":"national DHIS2 completeness 100%"},
+{"url":"https://www.measureevaluation.org/resources/publications/fs-19-380%20fr.html","title":"L'intégration des systèmes d'information en Côte d'Ivoire améliorera la performance du système sanitaire","publisher":"MEASURE Evaluation","published":"2019","sub_indicator":"hmis","why":"DHIS2 national, interoperable with eSIGL and SIGDEP2"}
+]

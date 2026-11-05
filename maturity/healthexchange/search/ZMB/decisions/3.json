@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;identifier",
+ "fact": "Zambia's Digital Health Strategy 2022-2026 says vertical information systems were not designed to share data and commits to an interoperability framework and a unique patient identifier integrated with the national identity number.",
+ "title": "Digital Health Strategy 2022-2026",
+ "publisher": "Ministry of Health, Zambia",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

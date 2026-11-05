@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;identifier",
+ "fact": "The 2018-2022 strategy records vaccination data from three health zones made interoperable with DHIS2 (VAX-TRAC) and says electronic patient records lack a national unique identifier.",
+ "title": "Stratégie Nationale en Cybersanté 2018-2022",
+ "publisher": "Ministère de la Santé du Bénin",
+ "published": "2017-11",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth",
+ "fact": "Gabon's youth (15-35) unemployment rate was 30.5% in the 2024 national employment and unemployment survey (ENEC 2024).",
+ "title": "L'emploi, le chômage et les conditions d'activité au Gabon en 2024",
+ "publisher": "DGE/DGS Gabon",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

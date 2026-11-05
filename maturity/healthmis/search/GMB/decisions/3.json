@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;linked",
+ "fact": "In The Gambia, TB data are reported monthly into DHIS2, and from June to November 2024 eleven TB treatment sites piloted a DHIS2 case-based TB e-Tracker alongside aggregate reporting.",
+ "title": "Transitioning to a digital TB case-based surveillance system: a mixed-methods study of the DHIS2 TB e-Tracker system",
+ "publisher": "IJTLD Open, The Union",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

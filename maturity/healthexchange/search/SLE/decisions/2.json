@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "A 2022 landscape analysis of Sierra Leone found that the different digital health software solutions do not share data with one another, though aggregate reporting data were sent as necessary, and that no respondent used any health care registry.",
+ "title": "Digital Health Solutions and State of Interoperability: Landscape Analysis of Sierra Leone",
+ "publisher": "JMIR Formative Research",
+ "published": "2022-06-10",
+ "date_source": "source",
+ "why_not": ""
+}

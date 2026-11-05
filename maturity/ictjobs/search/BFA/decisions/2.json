@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth",
+ "fact": "The INSD's H2 2024 national employment survey finds a national unemployment rate of 3.5 per cent and 13.8 per cent of 15-24 year olds not in employment, education or training.",
+ "title": "Enquete nationale semestrielle sur l'emploi (Deuxieme semestre 2024)",
+ "publisher": "Institut national de la statistique et de la demographie",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "As at July 2023 Zimbabwe's Impilo EHR transmits patient data in real time from online facilities to a central repository with a client registry and deduplication, offline facilities upload manually, and no national identifier is mandatory.",
+ "title": "Unique Patient Identification in Zimbabwe",
+ "publisher": "OpenHIE Wiki",
+ "published": "2023-07",
+ "date_source": "source",
+ "why_not": ""
+}

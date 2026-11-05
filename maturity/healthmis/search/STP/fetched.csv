@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dhis2.gov.st/,fetched,,scripts/.workroot/study/healthmis/cache/STP/1.txt,342,html,SIS
+2,https://minsaude.st/sistema-de-informacao-da-saude-realiza-sessoes-de-formacao-de-capacitacao-em-materia-de-dhis2/,fetched,,scripts/.workroot/study/healthmis/cache/STP/2.txt,600,html,Sistema de Informação da Saúde realiza Sessões de Formação de Capacitação em Matéria de DHIS2
+3,https://minsaude.st/tecnicos-e-engenheiros-do-sistema-de-informacao-da-saude-sis-receberam-formacao-de-capacitacao-do-dhis2/,fetched,,scripts/.workroot/study/healthmis/cache/STP/3.txt,112,html,"Técnicos e Engenheiros do Sistema de Informação da Saúde (SIS), receberam formação de capacitação do DHIS2"
+4,https://minsaude.st/sis/,held,held as raw/2020/2020-01-01-sao-tome-ministerio-saude-sistema-informacao-saude-dhis2.md,,0,,

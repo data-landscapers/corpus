@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The March 2023 evaluation of Togo's 2018-2022 health information strategy lists as a weakness the lack of interoperability of third-party data (civil registry, insurance) with the national health information system applications, and a non-digitized patient record.",
+ "title": "Rapport final d'évaluation du Plan stratégique de renforcement du SNIS 2018-2022",
+ "publisher": "Ministère de la Santé du Togo",
+ "published": "2023-03",
+ "date_source": "source",
+ "why_not": ""
+}

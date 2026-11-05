@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "An Amref terms of reference of early 2023 says an interoperability layer between the Open eLIMS, DHIS2 and the eTracker is to be developed in Sierra Leone, following a April 2022 laboratory systems assessment.",
+ "title": "Consultancy to implement a Viral Load Sample Management System-Laboratory Information Management System (VLSM-LIMS) in the Republic of Sierra Leone",
+ "publisher": "Amref Health Africa",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

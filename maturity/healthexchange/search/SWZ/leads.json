@@ -1,0 +1,7 @@
+[
+{"url":"https://eswatinipositivenews.online/eswatini-turns-to-digital-health-systems-to-improve-healthcare-delivery/","title":"Eswatini turns to digital health systems to improve healthcare delivery","publisher":"Eswatini Positive News","published":"2026-10-17","sub_indicator":"exchange","why":"Q2-Q4: interoperability of systems, national ID numbers identify patients"},
+{"url":"https://www.jembi.org/post/from-disconnected-to-integrated-how-eswatini-s-healthcare-systems-now-share-patient-information-saf","title":"From Disconnected to Integrated: How Eswatini's Healthcare Systems Now Share Patient Information Safely","publisher":"Jembi Health Systems","published":"2026-01-30","sub_indicator":"exchange","why":"Q2-Q4: MPI and FHIR HIE on OpenHIM, Population Registry integration"},
+{"url":"https://www.ihmafrica.org/?page_id=1854","title":"Eswatini - IHM Southern Africa (CBHIS)","publisher":"IHM Southern Africa","published":"2025-09-18","sub_indicator":"exchange","why":"Q2: CBHIS interoperates with HIE and CMIS"},
+{"url":"https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in","title":"Even on the rainiest afternoons in Piggs Peak","publisher":"Data.FI project","published":"2026-04-07","sub_indicator":"exchange","why":"Q4: CMIS in 233 sites, unique ID"},
+{"url":"https://www.eswatinihie.com/","title":"Eswatini HL7 FHIR Implementation Guide v1.0.0","publisher":"Ministry of Health Eswatini, Strategic Information Department","published":"","sub_indicator":"exchange","why":"Q3: HIE with MPI and SHR"}
+]

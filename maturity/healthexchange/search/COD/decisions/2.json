@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The April 2022 digital health investment roadmap lists ensuring interoperability as investment 10, with a mapping of existing systems, an integrated health information system and a registers platform (MAYELE) still to be built.",
+ "title": "Feuille de route chiffrée des investissements en santé numérique",
+ "publisher": "Ministère de la Santé Publique, Hygiène et Prévention, RDC",
+ "published": "2022-04",
+ "date_source": "source",
+ "why_not": ""
+}

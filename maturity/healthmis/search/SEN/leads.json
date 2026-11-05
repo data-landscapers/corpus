@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://community.dhis2.org/t/partage-dexperience-du-senegal-sur-lintegration-des-sous-systemes-dans-le-dhis2/47612",
+  "title": "Partage d'expérience du Sénégal sur l'intégration des sous systèmes dans le DHIS2",
+  "publisher": "DHIS2 Community",
+  "published": "2022-06-03",
+  "sub_indicator": "hmis",
+  "why": "Q3 sub-systems integrated into DHIS2"
+ },
+ {
+  "url": "https://www.sante.gouv.sn/sites/default/files/Bulletin%20trimestriel%20du%20Syst%C3%A8me%20d%E2%80%99Information%20Sanitaire%20et%20social.pdf",
+  "title": "Bulletin trimestriel du Système d'Information Sanitaire et Social N°54",
+  "publisher": "Ministère de la Santé et de l'Action sociale",
+  "published": "2022",
+  "sub_indicator": "hmis",
+  "why": "Q3 interoperability SENCAS, iHRIS"
+ },
+ {
+  "url": "https://www.countdown2030.org/wp-content/uploads/2024/02/Rapport-Senegal.pdf",
+  "title": "Sénégal rapport Countdown",
+  "publisher": "Countdown to 2030",
+  "published": "2024",
+  "sub_indicator": "hmis",
+  "why": "Q4 completeness rates"
+ },
+ {
+  "url": "https://aps.sn/docteur-tidjane-gadjaga-le-niveau-de-completude-des-donnees-est-passe-de-30-a-80/",
+  "title": "Docteur Tidjane Gadjaga : Le niveau de complétude des données est passé de 30% à 80%",
+  "publisher": "APS",
+  "published": "2025-06-17",
+  "sub_indicator": "hmis",
+  "why": "Q4 completeness"
+ },
+ {
+  "url": "https://www.countdown2030.org/wp-content/uploads/2025/09/SENEGAL-Chartbook-Report-CAM-2025.pdf-FINAL.pdf",
+  "title": "Sénégal rapport d'analyse CAM 2025",
+  "publisher": "Countdown to 2030",
+  "published": "2025",
+  "sub_indicator": "hmis",
+  "why": "Q4 completeness"
+ },
+ {
+  "url": "https://transformhealthcoalition.org/wp-content/uploads/2025/03/Landscape-Analysis-Digitisation-and-Health-Data-Governance-in-Senegal.pdf",
+  "title": "Landscape Analysis: Digitisation and Health Data Governance in Senegal",
+  "publisher": "Transform Health",
+  "published": "2025",
+  "sub_indicator": "hmis",
+  "why": "Q3 interoperability gaps"
+ }
+]

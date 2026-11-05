@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "jobs;youth",
+ "fact": "The ENH2 household survey (fieldwork August 2022 to August 2023) counts 6,946 employed in information and communications out of 496,965 employed, about 1.4%; national unemployment is 13.7%.",
+ "title": "II Encuesta Nacional de Hogares de Guinea Ecuatorial (ENH2), informe definitivo",
+ "publisher": "INEGE",
+ "published": "2024-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

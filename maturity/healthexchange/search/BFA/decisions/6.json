@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Burkina Faso's IeDA tablet tool is interconnected with the national DHIS2 and automatically transmits nearly 60 IMCI indicators for more than 1700 health centres.",
+ "title": "Complementarity between a clinical decision support tool and DHIS2: The case of IeDA and ENDOS in Burkina Faso",
+ "publisher": "DHIS2 Community",
+ "published": "2021-06-07",
+ "date_source": "source",
+ "why_not": ""
+}

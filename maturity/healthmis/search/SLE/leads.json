@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://afro.who.int/countries/sierra-leone/news/sierra-leone-sustains-digital-health-gains-through-nationwide-health-facility-device-troubleshooting",
+  "title": "Sierra Leone sustains digital health gains through nationwide health facility device troubleshooting for eIDSR",
+  "publisher": "WHO Regional Office for Africa",
+  "published": "2025-06-27",
+  "sub_indicator": "hmis",
+  "why": "eIDSR on DHIS2, completeness above 95%"
+ },
+ {
+  "url": "https://www.afenet-journal.net/content/series/8/2/5/full/",
+  "title": "Assessing the implementation of an electronic Integrated Disease Surveillance and Response System using DHIS2, 2024: Sierra Leone's experience",
+  "publisher": "Journal of Interventional Epidemiology and Public Health",
+  "published": "2025-02-14",
+  "sub_indicator": "hmis",
+  "why": "eIDSR completeness >98% in 2023 across 16 districts"
+ },
+ {
+  "url": "https://data.gffportal.org/sites/default/files/2025-09/SierraLeone-COUNTDOWN.pdf",
+  "title": "Analysis report Sierra Leone",
+  "publisher": "Countdown 2030",
+  "published": "2025",
+  "sub_indicator": "hmis",
+  "why": "DHIS2 facility reporting completeness 2019-2024"
+ },
+ {
+  "url": "https://npha.gov.sl/prioritydetail.aspx?PriorityID=1005",
+  "title": "Priorities",
+  "publisher": "National Public Health Agency Sierra Leone",
+  "published": "",
+  "sub_indicator": "hmis",
+  "why": "DHIS2 integrated with e-IDSR in 1,567 facilities"
+ }
+]

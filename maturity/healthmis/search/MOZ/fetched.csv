@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dhis2.org/pt-pt/climate/country-profiles/mozambique/,held,held as raw/2026/2026-08-03-moz-mocambique-dhis2-clima-e-saude.md,,0,,
+2,https://sisma.misau.gov.mz/docs/Plano%20de%20Melhoria%20de%20Qualidade%20de%20Dados%202025-2029.pdf,fetched,,scripts/.workroot/study/healthmis/cache/MOZ/2.txt,9226,pdf,
+3,https://sisma.misau.gov.mz/sobre.html,fetched,,scripts/.workroot/study/healthmis/cache/MOZ/3.txt,1425,html,SISMA

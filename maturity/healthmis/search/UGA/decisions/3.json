@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system",
+ "fact": "Uganda adopted DHIS2 in 2012 and has mandated it as the national reporting platform for health data, which has enhanced district reporting completeness.",
+ "title": "Barriers and facilitators of the effective use of DHIS2 data to improve program planning and monitoring in Uganda: a sequential mixed methods study",
+ "publisher": "PMC",
+ "published": "2026-01-14",
+ "date_source": "source",
+ "why_not": ""
+}

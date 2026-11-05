@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "system;linked",
+ "fact": "A March 2026 joint WHO and HISP UiO mission found Angola's DHIS2-based national system serves more than 4,700 registered users and is functioning as a national platform, with work on integration with electronic logistics systems.",
+ "title": "Angola to partner with HISP UiO and WHO on health information system integration",
+ "publisher": "DHIS2 (HISP UiO)",
+ "published": "2026-04-07",
+ "date_source": "source",
+ "why_not": ""
+}

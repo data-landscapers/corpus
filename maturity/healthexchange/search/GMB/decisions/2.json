@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "A World Bank project document of June 2023 says the Ministry of Health is establishing eCRVS, eHRMIS, eNHIS, EHR, asset and eLMIS systems interoperable with DHIS2, and that the eNHIS pilot (openIMIS, June 2023) will be interoperable with eCRVS.",
+ "title": "The Gambia Essential Health Services Strengthening Project, Second Additional Financing (P181161)",
+ "publisher": "World Bank Group",
+ "published": "2023-06",
+ "date_source": "source",
+ "why_not": ""
+}

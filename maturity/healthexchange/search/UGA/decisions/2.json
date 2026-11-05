@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;identifier",
+ "fact": "Uganda's EMR System Implementation Guidelines (January 2024) require facility EMR systems to push HMIS reports to eHMIS/DHIS2 monthly and to integrate with the National Health Information Exchange registries, including the National Client Registry.",
+ "title": "Electronic Medical Records System Implementation Guidelines",
+ "publisher": "Ministry of Health, Uganda",
+ "published": "2024-01",
+ "date_source": "source",
+ "why_not": ""
+}

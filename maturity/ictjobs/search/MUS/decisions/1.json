@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth",
+ "fact": "Mauritius' youth (16-24) unemployment rate was 17.5% in 2024, down from 18.2% in 2023.",
+ "title": "Labour Force, Employment and Unemployment (based on the results of the Continuous Multi-Purpose Household Survey), Year 2024",
+ "publisher": "Statistics Mauritius",
+ "published": "2025-05-20",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Malawi's Master Health Facility Registry is complete, the OpenHIM interoperability layer is in place with data from partner demographic systems including EGPAF DDE, and the core engine of the Master Patient Registry has been created.",
+ "title": "Developing an Architecture: Building Foundational Registries and Exchange Components",
+ "publisher": "OpenHIE",
+ "published": "2023-01-20",
+ "date_source": "source",
+ "why_not": ""
+}

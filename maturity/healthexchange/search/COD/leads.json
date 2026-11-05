@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://link.springer.com/article/10.1186/s12982-026-02918-7",
+  "title": "A scoping review of DHIS2 implementation in the National HMIS of the DRC",
+  "publisher": "Discover Public Health",
+  "published": "2026-10-05",
+  "sub_indicator": "exchange",
+  "why": "Q1-Q3: interoperability partial"
+ },
+ {
+  "url": "https://anicns.gouv.cd/restapi/uploads/documents/feuille_de_route_sante_numerique_rdc_final_may_2022.pdf",
+  "title": "Plan d'investissement PNDIS-2 / feuille de route santé numérique",
+  "publisher": "Ministère de la Santé RDC",
+  "published": "2022-05",
+  "sub_indicator": "exchange",
+  "why": "Q1: investment to ensure interoperability, MAYELE registers"
+ },
+ {
+  "url": "https://anicns.gouv.cd/restapi/uploads/documents/pndisii_2020_2024.pdf",
+  "title": "Plan National de Développement de l'Informatique de Santé en RDC, 2020-2024",
+  "publisher": "ANICiiS / Ministère de la Santé",
+  "published": "2020",
+  "sub_indicator": "exchange",
+  "why": "Q1: interoperability plan"
+ },
+ {
+  "url": "https://jhia-online.org/index.php/jhia/en/article/view/239",
+  "title": "The role of interoperable health information systems in improving health outcomes: the case of the DRC",
+  "publisher": "Journal of Health Informatics in Africa",
+  "published": "2020-01-08",
+  "sub_indicator": "exchange",
+  "why": "Q1/Q2: iHRIS-DHIS2 exchange"
+ },
+ {
+  "url": "https://community.dhis2.org/t/improving-dhis2-interoperability-performance-in-drc-a-case-study/47518",
+  "title": "Improving DHIS2 interoperability performance in DRC",
+  "publisher": "DHIS2 Community",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q2: DHIS2 to InfoMED hourly transfer"
+ },
+ {
+  "url": "https://github.com/MSF-OCG/LIME-EMR",
+  "title": "MSF-OCG/LIME-EMR",
+  "publisher": "MSF OCG",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q2: OpenMRS-DHIS2 sync in DRC sites"
+ }
+]

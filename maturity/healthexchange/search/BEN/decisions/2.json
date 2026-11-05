@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "As at March 2026 the IASO georegistry's interoperability with Benin's national DHIS2 was not fully implemented because the project ended early, and remains a strategic perspective rather than an operational reality.",
+ "title": "Modernizing the health map in Benin: the impact of the georegistry with IASO",
+ "publisher": "Bluesquare (IASO)",
+ "published": "2026-03-03",
+ "date_source": "source",
+ "why_not": ""
+}

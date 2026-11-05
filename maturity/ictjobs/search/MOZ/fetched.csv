@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.mtgas.gov.mz/sites/default/files/public/Boletim%20de%20Estatistica%20de%20Trabalho%202024%20%281%29.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+2,https://www.undp.org/mozambique/blog/youth-employment-outcome-portfolio-intent,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+3,https://omrmz.org/wp-content/uploads/2024/08/DR-293-1.pdf,fetched,,scripts/.workroot/study/ictjobs/cache/MOZ/3.txt,4125,pdf,
+4,https://igmozambique.wider.unu.edu/sites/default/files/2025-11/Armando_Wilson%20PT.pdf,fetched,,scripts/.workroot/study/ictjobs/cache/MOZ/4.txt,1311,pdf,Juventude e exclusão laboral em Moçambique

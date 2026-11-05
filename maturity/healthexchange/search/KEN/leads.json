@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://peopledaily.digital/news/duale-unveils-real-time-health-data-system-to-fight-hospital-billing-fraud",
+  "title": "Duale unveils real-time health data system to fight hospital billing fraud",
+  "publisher": "People Daily",
+  "published": "2025-08-04",
+  "sub_indicator": "exchange",
+  "why": "Q2/Q3: HIE operational across SHA facilities"
+ },
+ {
+  "url": "https://www.the-star.co.ke/news/2025-01-22-moh-182-million-kenyans-registered-under-sha",
+  "title": "MoH: 18.2 million Kenyans registered under SHA",
+  "publisher": "The Star",
+  "published": "2025-01-22",
+  "sub_indicator": "exchange",
+  "why": "Q3: HIE fully deployed December 2024"
+ },
+ {
+  "url": "https://www.kenyanews.go.ke/kericho-digitizes-health-facilities-under-taifa-care-rollout/",
+  "title": "Kericho digitizes health facilities under Taifa Care rollout",
+  "publisher": "Kenya News Agency",
+  "published": "2025-09-16",
+  "sub_indicator": "exchange",
+  "why": "Q3: facilities linked through centralized HIE"
+ },
+ {
+  "url": "https://rupha.co.ke/ruphasoft-leads-the-charge-in-digital-health-reform-with-groundbreaking-khie-integration/",
+  "title": "RUPHAsoft leads the charge with KHIE integration",
+  "publisher": "RUPHA",
+  "published": "2025-07-21",
+  "sub_indicator": "exchange",
+  "why": "Q2: HMIS integrated to KHIE"
+ },
+ {
+  "url": "https://cr.dha.go.ke/",
+  "title": "Kenya Client Registry",
+  "publisher": "Digital Health Agency",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q4: client registry linked to National ID records"
+ },
+ {
+  "url": "https://afyaconnect.dha.go.ke/get-started",
+  "title": "AfyaConnect Developers' Portal",
+  "publisher": "Digital Health Agency",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Q2: FHIR APIs, live HMIS exchange"
+ }
+]

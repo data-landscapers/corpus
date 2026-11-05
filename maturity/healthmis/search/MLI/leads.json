@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11260052/",
+  "title": "La gestion des données du système d'information sanitaire de routine en période de crise sécuritaire dans le district sanitaire de Tombouctou, au Mali en 2023",
+  "publisher": "PMC",
+  "published": "2024",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q4 DHIS2 adopted 2015, completeness"
+ },
+ {
+  "url": "https://malihealth.org/sustaining-data-quality/",
+  "title": "Sustaining quality: partners earn recognition for health data quality",
+  "publisher": "Mali Health",
+  "published": "2024-05-21",
+  "sub_indicator": "hmis",
+  "why": "Q2 DHIS2 national HIS data quality"
+ },
+ {
+  "url": "https://doi.org/10.51584/ijrias.2026.110200144",
+  "title": "Evaluation of Data Quality and Effective Use of DHIS2 in Monitoring Malaria and Vaccination Programs in Mali, 2024",
+  "publisher": "IJRIAS",
+  "published": "2026-01-01",
+  "sub_indicator": "hmis",
+  "why": "Q4 completeness and timeliness"
+ },
+ {
+  "url": "https://www.measureevaluation.org/resources/publications/gr-20-114-fr/at_download/document",
+  "title": "Intégration du SNIS malien et déploiement de DHIS2",
+  "publisher": "MEASURE Evaluation",
+  "published": "2020",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q4 near-complete DHIS2 coverage, 80% reporting"
+ }
+]

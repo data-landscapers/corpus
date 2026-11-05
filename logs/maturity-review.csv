@@ -55,9 +55,9 @@ gendergap,gender,include.access--gender-equity,2026-11-05,35,36,14
 gridreliability,outages,infra.energy--grid-reliability,2026-11-05,35,36,32
 health,hmis,digital.rural--digitalisation-of-rural-health-clinics-hmis,2026-10-11,,,
 health,emr,digital.rural--digitalisation-of-rural-health-clinics-emr,2026-10-10,,,
-healthexchange,exchange,dpi.exchange--interoperability-of-health-systems,,,,
-healthmis,hmis,dpi.mis--health,,,,
-ictjobs,ictjobs,capacity.training--graduates-entering-dt-ecosystem,,,,
+healthexchange,exchange,dpi.exchange--interoperability-of-health-systems,2026-11-05,35,32,99
+healthmis,hmis,dpi.mis--health,2026-11-05,35,32,92
+ictjobs,ictjobs,capacity.training--graduates-entering-dt-ecosystem,2026-11-05,35,32,51
 ictproduction,production,tech.industry--national-capacity-in-dt-related-production,,,,
 ictstrategy,sector,gov.policy--ict-strategy,,,,
 idcoverage,coverage,dpi.id--registration-of-entire-population,,,,

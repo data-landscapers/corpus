@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Malawi's OpenLMIS logistics data are sent to the national DHIS2 HMIS through an OpenHIM interoperability layer, after a yearlong integration project.",
+ "title": "Integrating HMIS and eLMIS systems for better decision making in Malawi",
+ "publisher": "DHIS2",
+ "published": "2021-03-02",
+ "date_source": "source",
+ "why_not": ""
+}

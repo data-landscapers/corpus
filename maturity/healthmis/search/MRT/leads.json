@@ -1,0 +1,6 @@
+[
+{"url":"https://elhadeth.mr/node/31262","title":"لقاء في نواكشوط حول مراجعة بيانات النظام الوطني للمعلومات الصحية (SNIS)","publisher":"موريتانيا الحدث","published":"2025-07-22","sub_indicator":"hmis","why":"DHIS2 used nationally; data review workshop"},
+{"url":"https://www.countdown2030.org/wp-content/uploads/2025/09/MAURITANIE-Chartbook-Report-CAM-2025.pdf.pdf","title":"Rapport d'analyse, Mauritanie, Chartbook CAM 2025","publisher":"Countdown to 2030","published":"2025","sub_indicator":"hmis","why":"DHIS2 completeness low vs target, 2019-2024"},
+{"url":"https://feddai.com/files/suite_contenu/pdf/4-16_1716904513_annuaire_des_statistiques_sanitaires_mauritanie_2023.pdf","title":"Annuaire des Statistiques Sanitaires 2023","publisher":"Ministère de la Santé, Mauritanie","published":"","sub_indicator":"hmis","why":"DHIS2 primary-level, report coverage 97.5%"},
+{"url":"https://www.feddai.com/files/suite_contenu/pdf/4-16_1709049750_plan_national_de_d%C3%A9veloppement_sanitaire__pnds)_2022_2030_vol_2.pdf","title":"Plan National de Développement Sanitaire 2022-2030, vol. 2","publisher":"Ministère de la Santé, Mauritanie","published":"","sub_indicator":"hmis","why":"SNIS migrated from Maurisis to DHIS2; completeness 95% baseline 2021"}
+]

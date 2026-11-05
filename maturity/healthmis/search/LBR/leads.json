@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.countdown2030.org/wp-content/uploads/2022/10/Liberia-draft-report.pdf",
+  "title": "Liberia draft report",
+  "publisher": "Countdown to 2030",
+  "published": "2022",
+  "sub_indicator": "hmis",
+  "why": "Q2/Q4 856 facilities report through DHIS2"
+ },
+ {
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6675580/",
+  "title": "Integrated disease surveillance and response implementation in Liberia, findings from a data quality audit, 2017",
+  "publisher": "PMC",
+  "published": "2019-05-31",
+  "sub_indicator": "hmis",
+  "why": "Q3 IDSR and DHIS2 harmonisation"
+ },
+ {
+  "url": "http://moh.gov.lr/wp-content/uploads/Liberia-Early-Warning-Disease-Surveillance-Bulletin-EPI-Week-30-2019.pdf",
+  "title": "Liberia IDSR Epidemiology Bulletin Epi Week 30 2019",
+  "publisher": "Ministry of Health Liberia",
+  "published": "2019",
+  "sub_indicator": "hmis",
+  "why": "Q4 surveillance reporting rates"
+ }
+]

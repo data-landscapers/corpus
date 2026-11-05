@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "In March 2023 the national patient record was described as not sufficiently fed by medical applications because of a lack of standardisation, with some institutions still on paper records.",
+ "title": "Tunisie: Il faut normaliser le dossier numérique du patient",
+ "publisher": "Leaders",
+ "published": "2023-03-25",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "system;completeness",
+ "fact": "The monitoring volume of the 2022-2030 national health development plan states the SNIS migrated from Maurisis to DHIS2, and sets SNIS reporting completeness at 95% in 2021 with a target of 100% by 2025 and promptness at 50% rising to 80%.",
+ "title": "Plan National de Développement Sanitaire 2022-2030, Volume II: Plan Intégré de Suivi Evaluation (PISE)",
+ "publisher": "Ministère de la Santé, République Islamique de Mauritanie",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "The document carries no date of its own."
+}

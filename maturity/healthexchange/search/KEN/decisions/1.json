@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;breadth",
+ "fact": "On 4 August 2025 Health Cabinet Secretary Aden Duale said Kenya's Health Information Exchange is fully operational across all SHA-contracted facilities, enabling real-time data sharing among hospitals, county governments and the national health system.",
+ "title": "Duale unveils real-time health data system to fight hospital billing fraud",
+ "publisher": "People Daily",
+ "published": "2025-08-04",
+ "date_source": "source",
+ "why_not": ""
+}

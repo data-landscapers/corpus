@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://smartcarezambia.io/",
+  "title": "Home - Resource.SmartCare",
+  "publisher": "SmartCare Zambia",
+  "published": "2024-07-15",
+  "sub_indicator": "exchange",
+  "why": "HIE integrated with DISA, eLMIS, DHIS2, CBS"
+ },
+ {
+  "url": "https://smartcarezambia.io/smartcare-integrations/",
+  "title": "SmartCare Integrations",
+  "publisher": "SmartCare Zambia",
+  "published": "2024-06-06",
+  "sub_indicator": "exchange",
+  "why": "HIE integrations"
+ },
+ {
+  "url": "https://zambia.knowledgehub.health/attachments/download/40/Digital-Health-strategy-final.pdf",
+  "title": "Digital Health Strategy 2022-2026",
+  "publisher": "Ministry of Health Zambia",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "unique patient identifier integrating with national ID"
+ },
+ {
+  "url": "https://hapi.moh.gov.zm/content/ig/zm-core/en/smartcare-mapping.html",
+  "title": "SmartCare Mapping - ZM-Core Implementation Guide",
+  "publisher": "Ministry of Health Zambia",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "FHIR exchange mapping NRC"
+ },
+ {
+  "url": "https://wiki.ohie.org/display/CP/Zambia",
+  "title": "Zambia - OpenHIE Wiki",
+  "publisher": "OpenHIE",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "IAF 2023, INRIS unique ID"
+ }
+]

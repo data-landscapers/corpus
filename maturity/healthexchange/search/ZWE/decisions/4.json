@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "Zimbabwe's Ministry of Health adopted a health information system architecture with a central interoperability layer, based on OpenHIE, for Impilo and announced a nationwide rollout.",
+ "title": "Opportunities presented by Zimbabwe's rollout of a National Electronic Health Record system",
+ "publisher": "Techzim",
+ "published": "2021-07-12",
+ "date_source": "source",
+ "why_not": ""
+}

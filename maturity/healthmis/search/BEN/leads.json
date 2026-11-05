@@ -1,0 +1,10 @@
+[
+{"url":"https://www.openiaso.com/modernizing-health-map-impact-of-georegistry/","title":"Modernizing the health map in Benin: the impact of georegistry","publisher":"IASO","published":"2026-03","sub_indicator":"hmis","why":"DHIS2/SNIGS interoperability with georegistry"},
+{"url":"https://www.enabel.be/app/uploads/2025/10/DP_BEN23006-10231_finale-1.pdf","title":"Demande de prix DHIS2 SNIGS","publisher":"Enabel","published":"2025-10","sub_indicator":"hmis","why":"SNIGS on DHIS2 in service; data quality"},
+{"url":"https://www.benintenders.com/tender/support-realization-interoperability-between-dhis2-and-alafiacom-709b5aa.php","title":"Support for interoperability between DHIS2 and Alafiacom","publisher":"BeninTenders","published":"2025","sub_indicator":"hmis","why":"interoperability tender"},
+{"url":"https://espen.afro.who.int/sites/default/files/content/document/Data_Workshop_Slide_Deck_Day_1.pdf","title":"Integrated Workshop on Data Collection, Reporting, and Utilization for Preventive Chemotherapy NTDs","publisher":"WHO ESPEN","published":"","sub_indicator":"hmis","why":"NTD repository in DHIS2, interoperability"},
+{"url":"https://community.dhis2.org/t/lmis-and-dhis2-integration-in-benin/47766","title":"LMIS and DHIS2 Integration in Benin","publisher":"DHIS2 Community","published":"2022-06-09","sub_indicator":"hmis","why":"eSIGL-DHIS2 link, 95% reporting rate"},
+{"url":"https://doi.org/10.5897/jphe2020.1215","title":"Performance of the routine health information system for epidemiological surveillance of road traffic injuries in Benin","publisher":"Journal of Public Health and Epidemiology","published":"2020-06-30","sub_indicator":"hmis","why":"DHIS2 national warehouse in service"},
+{"url":"https://media.path.org/documents/Benin_PMIDCHI_French.pdf","title":"Benin PMIDCHI","publisher":"PATH","published":"","sub_indicator":"hmis","why":"SNIGS DHIS2 and interoperability status"},
+{"url":"https://cdn.who.int/media/docs/default-source/documents/ddi/score/country-profiles/who_score_ben_en.pdf","title":"SCORE Assessment Summary Benin","publisher":"WHO","published":"","sub_indicator":"hmis","why":"data systems and reporting"}
+]

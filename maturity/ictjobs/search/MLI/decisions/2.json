@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ictjobs",
+ "aspect": "youth",
+ "fact": "Urban unemployment among 15-24 year olds was 19.2 percent (24.8 percent women, 14.8 percent men) in the EMOP gender report.",
+ "title": "Rapport genre données EMOP",
+ "publisher": "INSTAT Mali",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://gffklportal.org/fr/staying-connected/healthsystemreformsinniger/",
+  "title": "Réformes du Système de la Santé au Niger",
+  "publisher": "GFF Knowledge and Learning Platform",
+  "published": "2022-04-21",
+  "sub_indicator": "hmis",
+  "why": "DHIS2 deployment as national HMIS reform"
+ },
+ {
+  "url": "https://snis.ne/wp-content/uploads/2024/01/Article-blog-reunion-de-vulgarisation-PS-SNIS-2023-2026-_VAM-.pdf",
+  "title": "Article d'actualité: réunion de vulgarisation du PS SNIS 2023-2026",
+  "publisher": "Direction des Statistiques, Ministère de la Santé Publique",
+  "published": "",
+  "sub_indicator": "hmis",
+  "why": "SNIS strategic plan 2023-2026; low DHIS2 use, interoperability"
+ },
+ {
+  "url": "https://snis.ne/",
+  "title": "Système National d'Information Sanitaire",
+  "publisher": "Direction des Statistiques, Niger",
+  "published": "2022-10-19",
+  "sub_indicator": "hmis",
+  "why": "DHIS2 DQR module, trackers, training"
+ }
+]
