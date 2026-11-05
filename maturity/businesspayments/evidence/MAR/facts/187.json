@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-mar-al3omk-digital-vulnerabilities-bug-to-economic-social-security-challenge",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "An Al3omk op-ed says the precautionary suspension of the Treasury's public-procurement portal in late October 2026 forced tender procedures to be rescheduled and bid deadlines postponed.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Public procurement portal of the Treasury (TGR)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public procurement portal of the Treasury (TGR)",
+   "country_label": "Morocco",
+   "class": "procurement",
+   "platform": "web portal",
+   "owner": "Tresorerie Generale du Royaume",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

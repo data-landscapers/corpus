@@ -22,10 +22,10 @@ The AfCFTA Digital Trade Protocol asks states to enable electronic transactions,
 |---|---|
 | 5 Leading | 16 |
 | 4 Operating | 3 |
-| 3 Established | 7 |
+| 3 Established | 8 |
 | 2 Nascent | 16 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 6 |
 | No evidence | 5 |
 
 ## Countries
@@ -63,9 +63,9 @@ Figures for government e-procurement were reported in 2024.
 
 ### Kenya: 5 Leading
 
-Figures for government e-procurement were reported in 2025; no source found reports the value and share of purchasing through it.
+All government procurement went through e-procurement from 2026, with about KSh 18.3 billion of contracts by November; the share of all purchasing is not found.
 
-- K24 Digital read off the e-GP website that 402 tenders had been uploaded to the system by 21 October 2025 ([source, 2025-10-21](https://k24.digital/411/new-procurement-system-yet-to-award-a-single-tender-4-months-after-launch)).
+- Cabinet Secretary John Mbadi said procurement contracts worth approximately KSh 18.3 billion have been processed through the eGP system ([source, 2026-11-04](https://ipfglobal.or.ke/ipf-and-treasury-review-kenyas-electronic-government-procurement-e-gp-progress-as-reform-enters-second-year/)).
 - Treasury Cabinet Secretary John Mbadi said in the 2026/27 Budget Statement that all procurement by government entities will go through e-GP from 1 July 2026, a platform covering the whole cycle from tender advertisement to contract management ([source, 2026-06-11](https://www.the-star.co.ke/news/2026-06-11-all-government-procurement-to-go-through-e-gp-from-july-1)).
 
 ### Liberia: 5 Leading
@@ -181,6 +181,12 @@ A single government e-procurement platform was in service in 2023; no source fou
 A government e-procurement system was in service in 2024; no source found reports end-to-end use.
 
 - ARMP and the digital ministry launched the national public procurement portal on 3 December 2024, carrying procurement plans, tender announcements and results ([source, 2024-12-03](https://emergence.mr/2024/12/05/lancement-du-portail-national-des-marches-publics-en-mauritanie/)).
+
+### Morocco: 3 Established
+
+Bids went through the Treasury's procurement portal in 2026; whether it covers the whole cycle, and how much passes through it, is not found.
+
+- An Al3omk op-ed says the precautionary suspension of the Treasury's public-procurement portal in late October 2026 forced tender procedures to be rescheduled and bid deadlines postponed ([source, 2026-10](https://al3omk.com/1205193.html)).
 
 ### Sao Tome and Principe: 3 Established
 
@@ -307,12 +313,6 @@ Not established: Nothing found since October 2023 says an e-procurement or suppl
 Nothing found since 2023 names a government e-procurement system, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether government e-procurement is under way or in service. Every row is dated 2021 or earlier.
-
-### Morocco: Unplaced
-
-Nothing found since 2023 names a government e-procurement system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether government e-procurement is under way or in service. The e-bidding arrêté (MAR-003) took effect 1 September 2023.
 
 ### Niger: Unplaced
 

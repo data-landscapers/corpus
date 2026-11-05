@@ -35,6 +35,7 @@ COD,SIGMAP (Système Intégré de Gestion des Marchés Publics),DR Congo,procure
 COD,SIGMAP,DR Congo,procurement,,ARMP / DGCMP,,2026-03-19-cod-armp-dgcmp-concertation-sigmap
 COD,SIGMAP,Democratic Republic of the Congo,procurement,,Ministry of Budget with COREF and ARMP,,2022-11-10-cod-coref-lancement-sigmap
 COD,SIGMAP,DRC,procurement,,Government,,2026-10-01-cod-drc-moves-to-expand-public-procurement-access-for-msmes-and-start-ups
+COD,payment file tracking platform (Ministry of Finance),Democratic Republic of the Congo,other,Ministry of Finance website,Ministry of Finance,,2024-11-18-cod-public-finance-dr-congo-launches-online-portal-to-track-payments
 COG,DigiTransfer,Republic of Congo,other,Android and iOS app over Visa and Mastercard networks,DigiPay Group and Belmoney,,2026-05-28-belmoney-digipay-instant-transfer-app-wearetech
 COG,National public procurement dematerialisation platform,Congo,procurement,,Pagir,,2026-06-05-cog-aci-validation-dao-plateforme-dematerialisation
 COG,e-GP,Congo,procurement,,ARMP / DGCMP,,2026-09-22-cog-la-republique-du-congo-s-active-a-reformer-la-gestion-des-marches-publ
@@ -75,6 +76,7 @@ KEN,e-GPS,Kenya,procurement,,National Treasury,,2025-06-01-ken-ppra-circular-02-
 KEN,Electronic Government Procurement System (e-GP),Kenya,procurement,,The National Treasury,national and county,2025-04-09-ken-treasury-launch-egp-system
 KEN,e-GP,Kenya,procurement,,National Treasury,,2025-10-21-ken-new-procurement-system-yet-to-award-a-single-tender-4-months-after-lau
 KEN,e-GP,Kenya,procurement,,National Treasury,,2024-06-14-ken-imf-forces-kenya-to-implement-itax-linked-payroll-and-ifmis-linked-e-p
+KEN,eGP,Kenya,procurement,,National Treasury,,2026-11-04-ken-ipf-and-treasury-review-kenya-s-electronic-government-procurement-e-gp-progress
 LBR,e-procurement reform,Liberia,procurement,,Ministry of Finance and Development Planning,,2026-09-28-lbr-bet-on-liberia-payment-switch
 LBR,instant payment system,Liberia,other,,Central Bank of Liberia,,2026-08-16-africanenda-liberia-instant-payment-system-73-days-webinar
 LBR,e-GP,Electronic Government Procurement (e-GP) System,procurement,,Public Procurement and Concessions Commission,,2026-08-07-liberias-e-gp-system-becomes-regional-model
@@ -99,6 +101,7 @@ MAR,Fatourati,Morocco,other,,CMI,,2026-02-18-cmi-fatourati-agregateur-fintechs-e
 MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 MAR,public procurement portal,Morocco,procurement,,Trésorerie Générale du Royaume,,2023-05-15-mar-worldbank-blog-dematerialisation-marches-publics
 MAR,portail des marches publics,Maroc,procurement,,,,2023-08-30-mar-lematin-arrete-dematerialisation-marches-publics
+MAR,Public procurement portal of the Treasury (TGR),Morocco,procurement,web portal,Tresorerie Generale du Royaume,,2026-11-02-mar-al3omk-digital-vulnerabilities-bug-to-economic-social-security-challenge
 MDG,e-GP,Madagascar,procurement,e-procurement,PREA,,2026-02-17-mdg-prea-e-gp-impulsion-banque-mondiale
 MDG,e-GP,Madagascar,procurement,,ARMP,,2022-10-12-mdg-armp-e-gp-operationnel-exercice-2023
 MDG,SIGMP,Madagascar,procurement,,,,2022-10-12-mdg-armp-e-gp-operationnel-exercice-2023
@@ -136,6 +139,8 @@ MWI,Malawi National Electronic Procurement System (MANePS),Malawi,procurement,,P
 MWI,MANePS,Malawi National Electronic Procurement System,procurement,,Public Procurement and Disposal of Assets Authority,,2026-04-10-mwi-govt-rolls-out-digital-procurement-system
 MWI,Malawi National Electronic Procurement System (MANePS),Malawi,procurement,,Public Procurement and Disposal of Assets Authority,pilot with 32 entities,2025-06-26-mwi-steady-steps-to-public-digital-procurement-maneps-onboarding-launches
 MWI,Malawi National Electronic System,Malawi,procurement,,PPDA,,2025-10-08-mwi-ministry-pppc-take-stock-of-digital-malawi-project
+MWI,Malawi National Electronic Procurement System (Maneps),Malawi,procurement,,Public Procurement and Disposal of Assets Authority,,2026-11-03-mwi-ppda-tough-on-registration
+MWI,MANePS,Malawi,procurement,,PPDA,,2026-11-02-mwi-ppda-warns-public-institutions-over-maneps-compliance
 NAM,e-GP Portal,Namibia,procurement,,"Procurement Policy Unit, Ministry of Finance",,2025-05-27-nam-ppu-maps-and-e-gp-presentation
 NAM,E-GP portal,Namibia,procurement,,"Ministry of Finance, Procurement Policy Unit",,2022-10-14-nam-namibiadailynews-e-gp-portal
 NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
@@ -231,6 +236,7 @@ ZMB,ZamPortal,Zambia,other,,Ministry of Finance and National Planning,,2026-07-1
 ZMB,ZamPay,Zambia,other,,Ministry of Finance and National Planning,,2026-07-10-digital-services-strengthen-zambia-finances
 ZMB,Electronic Government Procurement (E-GP),Zambia,procurement,,ZPPA,,2024-11-23-zmb-zambiamonitor-zppa-egp-sanctions-tenders
 ZMB,Zambia Public Procurement Authority e-GP,Zambia,procurement,,Zambia Public Procurement Authority,,2025-07-03-zmb-tender-for-the-provision-of-an-artificial-intelligence-enabled-ai-endp
+ZMB,electronic Government Procurement (e-GP) System,Zambia,procurement,,,,2023-11-09-zmb-zesco-ifb-oib-110-2023-opgw-three-330kv-lines
 ZWE,electronic Government Procurement (eGP) System,eGP,procurement,eGP platform,Procurement Regulatory Authority of Zimbabwe (PRAZ),,2024-04-21-zwe-herald-10000-register-egp-platform
 ZWE,electronic Government Procurement (e-GP),Zimbabwe,procurement,,PRAZ,,2024-01-18-zwe-herald-egp-system-revolutionises-procurement
 ZWE,electronic Government Procurement (e-GP) system,ZWE,procurement,,Procurement Regulatory Authority of Zimbabwe (PRAZ),all public entities,2025-02-04-zwe-egp-system-upgraded

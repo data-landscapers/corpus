@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-04-ken-ipf-and-treasury-review-kenya-s-electronic-government-procurement-e-gp-progress",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Treasury Cabinet Secretary John Mbadi said Kenya's eGP system has onboarded more than 1,500 procuring entities and over 45,000 suppliers.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "eGP",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Cabinet Secretary John Mbadi said procurement contracts worth approximately KSh 18.3 billion have been processed through the eGP system.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "eGP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eGP",
+   "country_label": "Kenya",
+   "class": "procurement",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

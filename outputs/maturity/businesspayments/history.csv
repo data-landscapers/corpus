@@ -111,3 +111,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,ZWE,dpi.pay--b2b-and-b2g-functionality,fact,3,4,ZWE-005;ZWE-004,"PRAZ's early-2025 upgrade put e-evaluation, e-award and e-contract management on eGP for all public entities (ZWE-005, ZWE-004); raised from 3 to 4."
 2026-10-30,TZA,dpi.pay--b2b-and-b2g-functionality,fact,5,5,TZA-012;TZA-002,"Daily News, October 2026: PPRA says NeST handled 397,395 proceedings worth 40.4 trillion shillings by August 2026; newer figure, stage unchanged"
 2026-10-30,TGO,dpi.pay--b2b-and-b2g-functionality,fact,unplaced,unplaced,,"Togo First, October 2026: ARCOP recruiting four consultants to prepare the future e-GP system; not a system procured or built, stays unplaced"
+2026-11-05,KEN,dpi.pay--b2b-and-b2g-functionality,fact,5,5,KEN-013;KEN-002,Treasury said in November 2026 that about KSh 18.3 billion of contracts went through e-GP; stage 5 holds on a value figure
+2026-11-05,MAR,dpi.pay--b2b-and-b2g-functionality,fact,unplaced,3,MAR-004,The October 2026 suspension of the Treasury procurement portal shows bids filed through a portal in service; unplaced to 3
