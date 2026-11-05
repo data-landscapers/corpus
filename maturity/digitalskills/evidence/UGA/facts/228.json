@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Ministry of ICT says 6,270 farmers were skilled in 50 districts, 5,225 participants trained under the Community ICT programme across many districts, and 2,339 women and 927 elderly people trained with partners (Zawedde, via Business Focus).",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Community ICT programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": "No measured share of people with digital skills."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-tza-tanzania-accelerates-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "UCSAF is running an 'ICT for Girls' training initiative to build digital usage skills among young women, with no number trained given (Daily News).",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "ICT for Girls",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ICT for Girls",
+   "country_label": "Tanzania",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "UCSAF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
