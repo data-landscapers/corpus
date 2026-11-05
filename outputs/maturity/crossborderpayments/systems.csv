@@ -126,6 +126,7 @@ GHA,PAPSS,Ghana,crossborder,,Afreximbank,,2025-06-20-gha-onafriq-papss-launch-cr
 GIN,PAPSS,Guinea,other,,,possible future link,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
 GIN,NimbaPay,Guinea,crossborder,Mojaloop,BCRG,,2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
 GIN,Orange Money,Orange Money,crossborder,USSD *144# and app,Orange Finances Mobiles Guinée,,2022-12-12-gin-guineematin-orange-money-transfert-international
+GIN,"CIPS (indirect, via Bank of China)",Guinea,crossborder,,Ecobank Guinea,,2026-11-02-tgo-ecobank-togo-cips-payments-to-china-faster-cheaper
 GMB,PAPSS,Gambia,crossborder,pan-African payment and settlement system,Pan-African Payment and Settlement System,,2026-04-01-papss-list-of-live-commercial-banks-april-2026
 GMB,Yonna Global Wallet,Gambia,crossborder,mobile wallet,Yonna Group,,2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app
 GMB,PAPSS,Gambia,crossborder,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
@@ -145,6 +146,7 @@ KEN,PAPSS,KEN,crossborder,,,,2026-09-08-techcabal-kenya-payment-platforms-changi
 KEN,Sendwave,KEN,crossborder,,Zepz,,2026-09-08-techcabal-kenya-payment-platforms-changing-rules
 KEN,Wise,KEN,crossborder,,,,2026-09-08-techcabal-kenya-payment-platforms-changing-rules
 KEN,M-Pesa Global,Kenya,crossborder,mobile money,Safaricom,,2024-10-14-ken-safaricom-enables-m-pesa-transfers-between-kenya-ethiopia
+KEN,East African Payment System (EAPS),Kenya,crossborder,RTGS link,EAC central banks,,2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de
 LBR,PAPSS,PAPSS,crossborder,Afreximbank,Afreximbank,,2025-04-02-cbl-eg-saamoi-remarks-papss-rollout-financial-education-launch
 LBR,Orange Money,Orange Money Liberia,other,,Orange Liberia,,2026-06-10-lbr-bnb-liberia-and-orange-money-launch-cross-border-mobile-remittance-ser
 LBR,Lonestar Cell MTN MoMo,Liberia,other,,Lonestar Cell MTN,,2024-08-05-lbr-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services
@@ -239,6 +241,7 @@ RWA,Airtel Money,Airtel Money,crossborder,pawaPay,Airtel Money Africa,,2025-08-1
 RWA,Airtel Money,Airtel Money,other,PawaPay,Airtel Money Africa,,2025-08-07-zmb-airtel-money-pawapay-enable-remittances-for-seven-african-countries
 RWA,RSwitch,National Payment Switch,other,,,,2026-07-10-tza-eac-intensifies-efforts-towards-a-regional-instant-payment-network-as
 RWA,TIPS-RSwitch link,TIPS-RSwitch proof of concept,crossborder,,EAC,,2025-11-11-tza-eac-begins-building-regional-instant-payment-network-with-rwanda-tanza
+RWA,East African Payment System (EAPS),Rwanda,crossborder,RTGS link,EAC central banks,,2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
 SDN,electronic payment framework linked to Saudi mobile banking apps,Sudan,crossborder,,"Ministry of Finance, with Ministry of Digital Transformation and Telecommunications",,2026-08-30-sdn-businessinsider-saudi-remittance-payment-framework
 SEN,Sendwave Wallet,Senegal,crossborder,,,,2026-10-10-osiris-sen-pi-spi-orange-money-bocoum
@@ -302,6 +305,7 @@ TZA,Airtel Money,Airtel Money,crossborder,pawaPay,Airtel Money Africa,,2025-08-1
 TZA,Airtel Money,Airtel Money,other,PawaPay,Airtel Money Africa,,2025-08-07-zmb-airtel-money-pawapay-enable-remittances-for-seven-african-countries
 TZA,TIPS,Tanzania Instant Payment System,other,,Bank of Tanzania,,2026-07-10-tza-eac-intensifies-efforts-towards-a-regional-instant-payment-network-as
 TZA,TIPS-RSwitch link,TIPS-RSwitch proof of concept,crossborder,,EAC,,2025-11-11-tza-eac-begins-building-regional-instant-payment-network-with-rwanda-tanza
+TZA,East African Payment System (EAPS),Tanzania,crossborder,RTGS link,EAC central banks,,2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de
 UGA,PAPSS,Uganda,crossborder,Pan-African Payment and Settlement System,PAPSS,participating bank: UBA Uganda,2026-08-03-papss-uba-uganda-joins
 UGA,COMESA Digital Retail Payment Platform,Uganda,crossborder,,COMESA,,2025-03-01-comesa-eu-partnership-shaping-a-digital-future
 UGA,EAPS,Uganda,crossborder,,,,2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%
@@ -309,6 +313,7 @@ UGA,Airtel Money,Airtel Money,crossborder,pawaPay,Airtel Money Africa,,2025-08-1
 UGA,Airtel Money,Airtel Money,other,PawaPay,Airtel Money Africa,,2025-08-07-zmb-airtel-money-pawapay-enable-remittances-for-seven-african-countries
 UGA,Bank of Uganda remittance dashboard,Uganda,other,"dashboard, also on RemitSCOPe.org",Bank of Uganda with IFAD,,2026-04-01-uga-bank-of-uganda-and-ifad-launch-remittance-dashboard-to-strengthen-tran
 UGA,Exim Global Pay,Uganda,crossborder,TerraPay network,Exim Bank Uganda,,2026-10-31-uga-exim-bank-terrapay-cross-border-remittance-costs
+UGA,East African Payment System (EAPS),Uganda,crossborder,RTGS link,EAC central banks,,2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de
 ZAF,CIPS,South Africa,crossborder,,CIPS,,2025-11-21-itweb-standard-bank-cips-live-sarb
 ZAF,CIPS,South Africa,crossborder,,CIPS,,2025-11-20-cips-goes-live-standard-bank-sarb-inauguration
 ZAF,CIPS,South Africa,crossborder,,China,,2025-06-19-standard-bank-first-african-bank-cips-access

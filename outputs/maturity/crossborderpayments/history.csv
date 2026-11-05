@@ -33,3 +33,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,SWZ,dpi.pay--cross-border-functionality,fact,2,4,SWZ-005;SWZ-003,"Eswatini CMA directive 2025: low-value transfers run through SADC-RTGS; MoMo SA-Eswatini corridor; regional, 2 to 4"
 2026-10-27,SYC,dpi.pay--cross-border-functionality,fact,2,4,SYC-002,"Governor, July 2025: Seychelles active on SADC-RTGS processing cross-border payments; regional, 2 to 4"
 2026-10-27,ZMB,dpi.pay--cross-border-functionality,fact,3,4,ZMB-007;ZMB-006,"SA-Zambia corridor live on SADC TCIB since March 2024; regional, 3 to 4"
+2026-11-05,RWA,dpi.pay--cross-border-functionality,fact,3,4,RWA-011;RWA-003,"Uganda's EAC minister told Parliament on 3 November 2026 that the East African Payment System links the RTGS systems of Uganda, Kenya, Tanzania and Rwanda; question 3 met, 3 to 4."
+2026-11-05,TZA,dpi.pay--cross-border-functionality,fact,3,4,TZA-007;TZA-004;TZA-003,"Uganda's EAC minister told Parliament on 3 November 2026 that the East African Payment System links the RTGS systems of Uganda, Kenya, Tanzania and Rwanda; question 3 met, 3 to 4."

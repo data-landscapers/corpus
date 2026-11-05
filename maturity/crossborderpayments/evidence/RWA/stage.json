@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "3",
-   "corridor": "inservice",
-   "regional": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-003",
-   "gaps": "No source found since October 2023 says the country takes part in PAPSS or a regional payment system.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "4",
+      "corridor": "inservice",
+      "regional": "regional",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-011;RWA-003",
+      "gaps": "No source found since October 2023 gives a figure for cross-border digital payments.",
+      "note": "Uganda's Minister for EAC Affairs told Parliament on 3 November 2026 that the East African Payment System links the RTGS systems of Uganda, Kenya, Tanzania and Rwanda (RWA-011), a regional payment system in service, so stage 4. No figure for cross-border payments is held, so not 5.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 12 |
-| 4 Operating | 25 |
-| 3 Established | 8 |
+| 4 Operating | 27 |
+| 3 Established | 6 |
 | 2 Nascent | 4 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
@@ -240,6 +240,13 @@ The country took part in a regional payment system in 2026; cross-border volumes
 - PAPSS CEO Mike Ogbalu said Nigeria was the first chair of the PAPSS Governing Council and continues to be a leader in its rollout ([source, 2026-09](https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with)).
 - Remita's consumer app, launched 22 September 2026 in Lagos, supports instant transfers from Nigerian bank accounts to other African countries through PAPSS, per Remita's managing director ([source, 2026-09-22](https://thecondia.com/remita-launches-super-app/)).
 
+### Rwanda: 4 Operating
+
+The country took part in a regional payment system in 2026; no figure for cross-border payments has been found.
+
+- Uganda's Minister for EAC Affairs told Parliament that the East African Payment System connects the national RTGS systems of Uganda, Kenya, Tanzania and Rwanda, letting banks transfer funds across borders and settle in regional currencies ([source, 2026-11-03](https://www.africa-newsroom.com/press/uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-dependence?lang=en)).
+- Bank of Kigali, per its own announcement reported by KT Press, became a direct participant in China's CIPS under an agreement signed 2026-09-08, giving direct renminbi clearing and settlement for Rwanda-China payments without several intermediary banks ([source, 2026-09-08](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/)).
+
 ### Senegal: 4 Operating
 
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
@@ -258,6 +265,14 @@ The country took part in a regional payment system in 2025; cross-border volumes
 The country took part in a regional payment system in 2025; cross-border volumes are not reported.
 
 - PAPSS's live-banks list of May 2025 shows eight commercial banks in Sierra Leone live on PAPSS ([source, 2025-05](https://papss.com/wp-content/uploads/2025/05/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_19052025.pdf)).
+
+### Tanzania: 4 Operating
+
+The country took part in a regional payment system in 2026; no figure for cross-border payments has been found.
+
+- Uganda's Minister for EAC Affairs told Parliament that the East African Payment System connects the national RTGS systems of Uganda, Kenya, Tanzania and Rwanda, letting banks transfer funds across borders and settle in regional currencies ([source, 2026-11-03](https://www.africa-newsroom.com/press/uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-dependence?lang=en)).
+- Connecting Africa reports that Airtel Money Africa and PawaPay launched inbound remittances into Tanzania on 7 August 2025, letting licensed international money transfer operators pay into Airtel Money wallets ([source, 2025-08-07](https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries)).
+- Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets ([source, 2025-08-12](https://finhive.africa/news/airtel-money-africa-expands-pawapay-partnership-to-supercharge-imto-remittances-across-seven-markets/)).
 
 ### Togo: 4 Operating
 
@@ -307,24 +322,11 @@ A cross-border digital payment corridor was in service in 2025; no source found 
 
 - Thunes says members of its Direct Global Network can now make real-time cross-border payouts in Moroccan Dirham to bank accounts in Morocco ([source, 2025-09-09](https://www.thunes.com/news/thunes-launches-real-time-payments-into-morocco/)).
 
-### Rwanda: 3 Established
-
-A cross-border digital payment corridor was in service in 2026; no source found reports a regional payment system link.
-
-- Bank of Kigali, per its own announcement reported by KT Press, became a direct participant in China's CIPS under an agreement signed 2026-09-08, giving direct renminbi clearing and settlement for Rwanda-China payments without several intermediary banks ([source, 2026-09-08](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/)).
-
 ### South Sudan: 3 Established
 
 A cross-border digital payment corridor was in service in 2025; no source found reports a regional payment system link.
 
 - ITWeb Africa reports MTN MoMo in South Sudan, with Onafriq, now offers inbound international remittances into MoMo wallets from 15 countries including the UAE, Uganda, Kenya, the US and Australia ([source, 2025-05-29](https://itweb.africa/article/mtn-momo-onafriq-partner-on-remittances-in-south-sudan/kYbe97XbmYYqAWpG)).
-
-### Tanzania: 3 Established
-
-A cross-border digital payment corridor was in service in 2025; no source found reports a regional payment system link.
-
-- Connecting Africa reports that Airtel Money Africa and PawaPay launched inbound remittances into Tanzania on 7 August 2025, letting licensed international money transfer operators pay into Airtel Money wallets ([source, 2025-08-07](https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries)).
-- Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets ([source, 2025-08-12](https://finhive.africa/news/airtel-money-africa-expands-pawapay-partnership-to-supercharge-imto-remittances-across-seven-markets/)).
 
 ### Libya: 2 Nascent
 
