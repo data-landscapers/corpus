@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-10-27
+compiled: 2026-11-05
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 170
+sources_cited: 171
 sections_written: 39
 not_established: 3
 acquire_lines: 39
@@ -205,7 +205,7 @@ In revenue and justice the constraint is administrative rather than technical. T
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
-[Mauritania's Ijraati portal, launched in February 2026, centralises more than 800 administrative procedures in a single directory](https://www.ecofinagency.com/news-digital/1902-53059-mauritania-puts-800-administrative-procedures-online-in-digital-reform-drive), under a three-phase roadmap that moves from centralising procedures, to keeping them updated and reliable, to fully digitising the most-used ones inside the Khdamati platform — which places most of the digitisation itself in the future. [Already available online are university enrolment at Nouakchott, company registration and investment-code approvals, criminal-record certificates, and vehicle registration through the Digital Road Traffic System](https://www.ecofinagency.com/news-digital/1902-53059-mauritania-puts-800-administrative-procedures-online-in-digital-reform-drive) (2025).
+[Mauritania's Ijraati portal, launched in February 2026, centralises more than 800 administrative procedures in a single directory](https://www.ecofinagency.com/news-digital/1902-53059-mauritania-puts-800-administrative-procedures-online-in-digital-reform-drive), under a three-phase roadmap that moves from centralising procedures, to keeping them updated and reliable, to fully digitising the most-used ones inside the Khdamati platform — which places most of the digitisation itself in the future. [On 28 October 2026 the digital transformation official put the services fully online at about forty, against nearly 900 targeted](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne). [Already available online are university enrolment at Nouakchott, company registration and investment-code approvals, criminal-record certificates, and vehicle registration through the Digital Road Traffic System](https://www.ecofinagency.com/news-digital/1902-53059-mauritania-puts-800-administrative-procedures-online-in-digital-reform-drive) (2025).
 
 Three services joined them in 2026. The water utility SNDE's [transactions became available remotely, without a branch visit, from 4 August 2026, with its services integrated into the « Mes Services » government portal](https://ami.mr/fr/archives/300346). [Digital consular services for citizens abroad were launched on 9 July 2026 with nine online services in a first phase](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad), and [the Riyadh embassy put the consular platform into service for Saudi Arabia, Bahrain and the Maldives later that month](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/). And [Mourchid, launched in June 2026, brings public employment, vocational-training and entrepreneurship-support programmes into a single portal, though it functions mainly as an information and guidance tool with no documented API integration between employment services and the Social Registry or the National Employment Agency database](https://www.ecofinagency.com/news-services/3006-56949-mauritania-unveils-platform-to-improve-access-to-youth-jobs-training-and-support).
 
