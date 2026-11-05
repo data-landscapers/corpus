@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-03-dza-mesrs-sixieme-reunion-multisectorielle-strategie-nationale-ia",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The higher-education ministry reports that its minister chaired the sixth multisectoral meeting on tracking implementation of Algeria's national AI strategy.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The ministry reports that thematic commissions built around the strategy's main axes presented their progress at the sixth multisectoral meeting on implementing the strategy.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie nationale de l'intelligence artificielle",
+   "country_label": "Algeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

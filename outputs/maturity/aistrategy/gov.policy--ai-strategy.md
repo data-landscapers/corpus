@@ -180,7 +180,7 @@ Angola's national AI strategy was drafted and awaiting formal approval in 2026; 
 
 ### Botswana: 2 Nascent
 
-Botswana's government was still finalising a national AI policy in 2026; no source found says when it will be adopted.
+Botswana's national AI policy was a draft submitted to Parliament in 2026; no source found says it has been adopted.
 
 - A Parliament of Botswana researcher writes that the Government of Botswana is advancing toward finalizing its first National Artificial Intelligence Policy, which the brief calls the draft AI Policy ([source, 2026-07-28](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7263340)).
 
