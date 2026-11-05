@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: GAB
-ledger_rows: 31
+ledger_rows: 32
 not_held: 12
-record: 65372625a8af
+record: 0c60ec95d233
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: 65372625a8af
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -599,6 +601,28 @@ Libreville city hall officially presented e-Taxe municipale, a platform for decl
 **[22 défis, 36 recommandations : la feuille de route de l’IA gabonaise prend forme](https://www.gabonreview.com/22-defis-36-recommandations-la-feuille-de-route-de-lia-gabonaise-prend-forme/)** — GabonReview, 1 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identitysecu online complaints against police officers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation : Identitysecu, une innovation au service des usagers et de la Police nationale](https://ethiquemediagabon.net/?p=15389)** — Ethique Media Gabon, 30 October 2026
+
+Police inspectorate and Group IDENTITY sign MoU, 29 Oct 2026, for 6-12-month pilot of app complaints against officers.
 
 </div>
 
