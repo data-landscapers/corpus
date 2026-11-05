@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: CPV
-ledger_rows: 9
+ledger_rows: 10
 not_held: 24
-record: 8c95e2e44dd8
+record: e1ec1f077d17
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: 8c95e2e44dd8
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -199,6 +201,28 @@ Cape Verde scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 **[Uni-CV assinala Dia Mundial dos Correios com debate sobre comércio eletrónico](https://unicv.edu.cv/pt/fct/arquivo-fct/6037-uni-cv-assinala-dia-mundial-dos-correios-com-debate-sobre-comercio-eletronico)** — Universidade de Cabo Verde, 9 October 2026
 
 Cabo Verde's economy and digital transition minister, António Baptista, said at a University of Cabo Verde debate on e-commerce in Praia on 9 October 2026 that his ministry will run four national programmes, including digital and financial literacy. He said the Carteira Digital and 5G are in testing and a single government portal is in preparation.
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Labour inspectorate portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nova plataforma digital da IGT permite apresentar queixas laborais e solicitar serviços on-line – ministra](https://www.inforpress.cv/en/nova-plataforma-digital-da-igt-permite-apresentar-queixas-laborais-e-solicitar-servicos-on-line-ministra)** — Inforpress, 3 November 2026
+
+Labour inspectorate portal launched 3 Nov 2026; online complaints, intervention requests, declarations, AI features.
 
 </div>
 
