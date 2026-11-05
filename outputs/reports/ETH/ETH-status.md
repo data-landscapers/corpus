@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-11-04
+compiled: 2026-11-05
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 227
+sources_cited: 228
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -253,7 +253,7 @@ On declared arrangements the country scores well, in [Tier 2, Advancing, of the 
 ### Digitalisation of sub-national government
 <!-- digital.localgov -->
 
-[In July 2026 Addis Ababa ran 11 one-stop service centres, with more than 150 services from over 25 institutions in one system](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/). [It is extending access through mobile units under its Addis Mesob programme](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/).
+[In July 2026 Addis Ababa ran 11 one-stop service centres, with more than 150 services from over 25 institutions in one system](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/). [It is extending access through mobile units under its Addis Mesob programme](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/). [In November 2026 the national MESOB network counted 114 one-stop centres serving more than 2.7 million citizens, and preparations had begun for a centre in Mekelle](https://www.fanamc.com/english/mekelle-city-set-to-join-ethiopias-mesob-one-stop-service-network-as-preparations-advance/).
 
 [In July 2026 two integration models were reported: in Addis Ababa MESOB has absorbed institutions' systems, and in the regions it stays tethered to them](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/). [Users in the regions are bounced between the platform and the institutions](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/). [MESOB began as a federal pilot of 12 institutions and 41 services, meant as a model for national expansion](https://id.gov.et/mesob). [The interoperability framework's Regional Cells, acting as chief interoperability officers, are its route to regional administrations](https://thedocs.worldbank.org/en/doc/003d76985cbd41c53cfa9825d2464495-0460012022/original/I-3-9-1-EeGIF-Governance-and-Compliance.pdf).
 

@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: ETH
-ledger_rows: 23
+ledger_rows: 25
 not_held: 5
-record: f3acd6698986
+record: 115e13edc9ac
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: f3acd6698986
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -367,6 +369,42 @@ Ethiopia's Minister of Innovation and Technology told the Space Science and Geos
 **[Re-advertisement: Request for Expressions of Interest - Selection of Technical Lead/Chief Architect for the Integrated Tax Administration System (ITAS)](https://www.getchereta.com/tender/85995)** — Ministry of Revenue (Ethiopia), via Get Chereta, 8 October 2026
 
 Ethiopia's Ministry of Revenue re-advertised on 8 October 2026 for an individual consultant to serve as Technical Lead and Chief Architect for its Integrated Tax Administration System, funded by the World Bank's Governance Modernization project (Credit 7619 ET). The role covers system architecture, vendor oversight and integration with the ministry's data warehouse and e-invoicing systems. Expressions of interest are due on 29 October 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Oromia Supreme Court smart court tools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Oromia Supreme Court partners Ethiopian AI Institute to modernise judicial services](https://techreviewafrica.com/news/8120/oromia-supreme-court-partners-ethiopian-ai-institute-to-modernise-judicial-services)** — Tech Review Africa, 4 November 2026
+
+The Oromia Supreme Court and the Ethiopian Artificial Intelligence Institute reviewed their joint projects on 4 November 2026. The Institute is building Smart Court systems for the court's operations. The two bodies set frameworks to extend the partnership.
+
+</div>
+
+</div>
+
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MESOB one-stop service centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance](https://www.fanamc.com/english/mekelle-city-set-to-join-ethiopias-mesob-one-stop-service-network-as-preparations-advance/)** — Fana Media Corporation, 2 November 2026
+
+114 centres and 2.7m citizens served nationally; Tigray capital's centre head appointed from 27 Oct 2026.
 
 </div>
 
