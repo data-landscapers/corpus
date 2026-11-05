@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-17-nga-six-months-to-presidential-poll-inec-raises-preparation-tempo",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "INEC's chairman says eligible Nigerians can now register as voters using phones or tablets, through a newly introduced online voter registration platform anchored on the NIN.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "INEC online voter registration platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INEC online voter registration platform",
+   "country_label": "Nigeria",
+   "class": "eservices",
+   "platform": "web platform",
+   "owner": "INEC",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

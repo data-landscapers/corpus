@@ -29,6 +29,8 @@ BEN,Portail National des services publics du Benin,Portail National des services
 BEN,service-public.bj,Benin,eservices,national portal,Government of Benin,,2026-11-02-ben-digitization-in-benin-criminal-records-now-issued-instantly-and-withou
 BEN,service-public.bj,Benin,eservices,national portal,Ministry of Digital Affairs,,2024-11-23-ben-e-services-publics-au-benin-ces-chiffres-qui-temoignent-d-une-vision-s
 BEN,service-public.bj,Bénin,eservices,,,,2026-11-02-ben-benin-comment-fonctionne-le-portail-numerique-des-services-publics
+BEN,service-public.bj,Benin,eservices,web portal,Government of Benin,national,2026-11-03-benin-casier-judiciaire-instantane
+BEN,eservices.anip.bj / ANIP BJ,Benin,eservices,web platform and mobile app,ANIP,,2026-11-03-ben-modernisation-des-services-d-identification-au-b-nin-l-anip-acc-l-re-s
 BFA,Service Public BF,Burkina Faso,eservices,service-public.gov.bf,Government of Burkina Faso,national,2026-05-07-burkina-faso-central-portal-e-services
 BFA,Lanaya and e-BDT,Burkina Faso,other,,Public treasury,national,2026-05-07-burkina-faso-central-portal-e-services
 BFA,Service Public BF,Burkina Faso,eservices,service-public.gov.bf,Government of Burkina Faso,national,2026-02-20-service-public-bf-lancement-portail-v2
@@ -103,6 +105,7 @@ DZA,Portail national des services numeriques,Algeria,eservices,Centre national d
 DZA,Dzair Digital Services,Algeria,eservices,,High Commission for Digitalisation,,2026-07-11-dza-transformation-numerique-des-services-publics-le-portail-national-pass
 DZA,ANIE electronic services portal,Algeria,eservices,web portal,ANIE,,2026-04-16-dza-elections-legislatives-l-anie-mise-sur-le-numerique-pour-garantir-la-t
 DZA,Dzair Services,Algeria,eservices,national digital services platform,High Commission for Digitalisation,,2025-10-15-dza-lancement-prochain-de-la-plateforme-nationale-des-services-numeriques
+DZA,Dzair Digital Services,Algeria,eservices,web portal,High Commission for Digitization,national,2026-11-03-dza-high-commission-for-digitization-trains-officials-in-electronic-verifi
 EGY,Digital Egypt,EGY,other,,,,2026-10-12-egy-technotime-ehab-said-digital-transformation-beyond-services
 EGY,Digital Egypt (منصة مصر الرقمية),EGY,eservices,,Ministry of Communications and Information Technology,,2026-09-20-egy-alnahar-hendy-240-services-400-by-2030
 EGY,biometric electronic-verification (digital identity) system,Egypt,other,telecom operator smartphone apps,Ministry of Communications and Information Technology,national,2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch
@@ -153,6 +156,7 @@ GMB,MYGOV - Digital Gambia Platform,The Gambia,eservices,,Ministry of Communicat
 GMB,Government Web Portal,The Gambia,other,,Ministry of Communications and Digital Economy,,2025-01-01-mocde-data-governance-trends-gambia
 GMB,one-stop-shop government service platform,Gambia,eservices,app,Government of The Gambia,,2024-09-09-gmb-standard-ceesay-govt-building-capacities
 GMB,Online Information Access Portal,Gambia,eservices,web portal,National Records Commission,,2025-01-01-gmb-national-records-commission-launches-online-information-access-portal
+GMB,InTouch revenue platform,Gambia,other,payments and monitoring platform,Ministry of Finance and Gambia Revenue Authority,national,2026-10-31-gmb-senegalese-fintech-intouch-signs-10-year-partnership-with-gambia-to-st
 GNB,SYDONIA World,Guinea-Bissau,other,ASYCUDA,Direcção-Geral das Alfândegas,,2026-10-13-gnb-alfandegas-dga-bad-pagap-sydonia-world
 GNB,Kontaktu,Guinea-Bissau,eservices,web/app,"Ministry of Finance, DGCI",,2021-06-11-gnb-rtp-kontaktu-pagamento-impostos
 GNB,Portal do INSS,Guinea-Bissau,eservices,,INSS,,2024-10-29-gnb-seguranca-social-projeto-de-transformacao-digital-da-instituicao-ira-p
@@ -241,6 +245,7 @@ MRT,Ijraati,Mauritania,other,,Ministry of Digital Transformation,,2026-02-16-mrt
 MRT,Khidmaty,Mauritania,eservices,,Ministry of Digital Transformation,,2025-12-17-mrt-ami-somelec-services-linked-to-khidmaty
 MRT,Khidmaty,Mauritania,eservices,,Ministry of Digital Transformation,,2025-09-25-mrt-ami-tasjil-online-university-registration-khidmaty
 MRT,KHADAMATI,Mauritania,eservices,,Government of Mauritania,,2024-10-30-mrt-le-conseil-des-ministres-fixe-les-modalites-de-gestion-et-procedures-d
+MRT,Khidmaty,Mauritania,eservices,web portal,Ministry of Digital Transformation,national,2024-11-12-mrt-decret-2024-154-portail-khidmaty
 MUS,Corporate and Business Registration Department online services portal,Mauritius,eservices,companies.govmu.org,"Corporate and Business Registration Department, Ministry of Finance",national,2026-01-01-corporate-and-business-registration-department-online-services-portal
 MUS,MRA e-Services,Mauritius,eservices,mra.mu,Mauritius Revenue Authority,national,2025-01-01-simplified-vat-registration-mra-e-services
 MUS,InfoHighway,Mauritius,other,Service Oriented Architecture publish-and-subscribe platform at the Government Online Centre,"Ministry of Technology, Communication and Innovation",national,2024-01-01-infohighway-leaflet-v12
@@ -279,6 +284,7 @@ NGA,Government Service Portal (GSP),Nigeria,eservices,Galaxy Backbone government
 NGA,Government Service Portal (services.gov.ng),Nigeria,eservices,1Gov Cloud,Federal Government of Nigeria,,2026-08-18-nga-nigeria-launches-services-gov-ng
 NGA,Online Citizenship and Business Management Platform,Nigeria,eservices,,Ministry of Interior,,2025-05-15-nga-fg-launches-new-citizenship-business-management-platform
 NGA,Online passport application portal,Nigeria,eservices,passport.immigration.gov.ng,Nigeria Immigration Service,,2024-01-08-nga-immigration-unveils-online-passport-application-portal-today
+NGA,INEC online voter registration platform,Nigeria,eservices,web platform,INEC,national,2026-07-17-nga-six-months-to-presidential-poll-inec-raises-preparation-tempo
 RWA,Irembo,Rwanda,eservices,online portal,Government of Rwanda with RwandaOnline Platform Ltd,national,2025-01-01-irembo-rwandan-government-e-service-portal
 RWA,Irembo,Rwanda,eservices,web and mobile,,,2026-09-04-internet-society-rwanda-digital-parenting-training-karongi
 RWA,IremboGov,IremboGov,eservices,,Irembo,,2025-05-27-gha-dial-adli-data-exchange-exemplars
@@ -372,6 +378,7 @@ TUN,plateforme nationale des procédures administratives,Tunisia,other,web platf
 TUN,Tunisian government portal,Tunisia,eservices,,Presidency of the Government,,2023-11-03-tun-arp-commission-administration-audition-e-administration
 TUN,projet de gouvernance électronique,gouvernance électronique,other,,Ministère des Technologies de la communication,,2025-11-24-tun-le-budget-des-technologies-fixe-a-plus-de-197-mdt
 TUN,Dalil,Tunisia,other,national portal of administrative procedures,Presidence du gouvernement,,2026-06-30-tun-tunisie-plus-de-3-000-demarches-administratives-seront-disponibles-en
+TUN,e-People Tunisia,Tunisia,other,web platform,Tunisian administration,,2025-07-18-tun-tmo-e-people-koica-upgrade
 TZA,Ajira Portal,Tanzania,eservices,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,NeST,Tanzania,eservices,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GovESB,Tanzania,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states

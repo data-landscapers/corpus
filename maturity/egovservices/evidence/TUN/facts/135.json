@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-18-tun-tmo-e-people-koica-upgrade",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-People Tunisia",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "web platform",
+   "owner": "Tunisian administration",
+   "tiers": ""
+  }
+ ],
+ "note": "e-People is a grievance, suggestion and corruption-report channel, not a service completed online; EGDI score is not a service count."
+}
