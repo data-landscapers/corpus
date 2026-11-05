@@ -113,13 +113,13 @@ Neither of the two 2026 agreements that name artificial intelligence attaches an
 [In April 2025 the European Investment Bank lent AXIAN Telecom US$100 million, US$40 million of it for 4G and 5G in Madagascar](https://techafricanews.com/2025/04/11/eib-grants-100m-to-axian-telecom-for-4g-5g-rollout-in-tanzania-and-madagascar/). [China Eximbank's CNY 337,998,700 concessional loan of February 2020 runs at 1.5 percent over 30 years](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf). [It funds a Huawei 4G eLTE network across public safety and government agencies in Antananarivo](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf). [In July 2026 Indonesia's Indo-Aid released more than IDR 3.4 billion for a Maritime Single Window at the ports agency APMF](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/).
 
 <!-- derived -->
-Eleven digital-sector commitments to Madagascar are held with a start year between 2017 and 2026 (November 2026); the European Investment Bank and African Development Bank loans to AXIAN Telecom are held as regional operator financings and are not among them.
+Thirteen digital-sector commitments to Madagascar are held with a start year between 2015 and 2026 (November 2026); the European Investment Bank and African Development Bank loans to AXIAN Telecom are held as regional operator financings and are not among them.
 
 <!-- derived -->
-All eleven carry a dollar amount, and together they come to about US$419 million as at November 2026 — committed sums, not disbursements.
+All thirteen carry a dollar amount, and together they come to about US$420 million as at November 2026 — committed sums, not disbursements.
 
 <!-- derived -->
-The World Bank holds five of the eleven and about 85 per cent of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (November 2026).
+The World Bank holds five of the thirteen and about 85 per cent of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (November 2026).
 
 <!-- derived -->
 Connectivity takes the largest share of the money, about US$190 million, ahead of digital identity at US$143 million and digital payments at about US$53 million (November 2026).
