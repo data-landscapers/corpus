@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-20-bdi-wb-op00476457-pafen-portail-e-gouv-rfp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail e-Gouv",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "Ministry of Finance, Budget and Digital Economy (SETIC)",
+   "tiers": ""
+  }
+ ],
+ "note": "A tender for a contractor to build the portal beside ministry staff; no statement that systems are run by suppliers."
+}

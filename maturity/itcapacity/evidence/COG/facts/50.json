@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Treasury sheet says the tax system E-TAX was built in-house by the ministry's information systems directorate.",
+   "as_of": "2024-08-30",
+   "date_precision": "day",
+   "system": "E-TAX",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

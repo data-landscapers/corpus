@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-nga-3-84-trillion-in-government-it-projects-yet-62-missed-expectations-what-is-going",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "The article reports NITDA's director-general saying that contractors often write the project proposals that ministries use to get budget approval and are then hired to execute the projects, and that institutions may lack independent technical capacity to assess them.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "government IT projects cleared by NITDA",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

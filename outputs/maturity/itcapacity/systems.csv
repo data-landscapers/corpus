@@ -6,6 +6,7 @@ AGO,SIGFE,SIGFE,other,,,,2026-02-11-inteligencia-artificial-coloca-incumpridores
 AGO,CAPI/CATI census platform,CAPI/CATI census platform,other,computer-assisted interviewing,INE,,2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos
 BDI,Système Intégré de Gestion des Finances Publiques (SIGFP),SIGFP,other,,"Ministère des Finances, du Budget et de l'Économie Numérique",,2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp
 BDI,SETIC,Secrétariat Exécutif des Technologies de l'Information et de la Communication,staff,,Government of Burundi,,2026-10-16-bdi-setic-services-institutions-publiques
+BDI,Portail e-Gouv,Burundi,other,web portal,"Ministry of Finance, Budget and Digital Economy (SETIC)",,2026-10-20-bdi-wb-op00476457-pafen-portail-e-gouv-rfp
 BEN,"ASIN electronic signature, encryption and secure messaging","Electronic signature, encryption and secure messaging",staff,,ASIN (Agence des Systèmes d'Information et du Numérique),national,2026-07-08-dgpr-asin-formation-300-policiers
 BEN,Programme de Renforcement des Structures Centrales de Gouvernance (PRSCG) national network,BEN,other,,Government of Benin,,2021-10-05-numerique-gouv-bj-assi-prscg-formation
 BEN,National data centre (PRSCG),BEN,other,,Government of Benin,,2021-10-05-numerique-gouv-bj-assi-prscg-formation
@@ -223,6 +224,8 @@ LSO,National Security Operations Centre,Lesotho,other,,Government of Lesotho,,20
 LSO,National Computer Security Incident Response Team,Lesotho,other,,"Ministry of Information, Communications, Science, Technology and Innovation",,2026-07-31-lesotho-national-cybersecurity-itweb
 LSO,LesComCSIRT,Lesotho,other,,"Ministry of Information, Communications, Science, Technology and Innovation with the Lesotho Communications Authority",,2026-07-29-lesotho-lescomcsirt-launch-national-cybersecurity-forum
 MDG,e-GP Madagascar,e-GP Madagascar,other,,Government of Madagascar (PRODIGY),,2025-08-14-prodigy-egp-redesign-capacity-strengthening
+MDG,i-Fanagna,Madagascar,other,web platform,BIANCO,,2026-10-31-mdg-lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-nu
+MDG,e-Pasipaoro,Madagascar,other,web portal,Ministry of Digital Development,,2026-10-11-mdg-2424-e-pasipaoro-online-passport-test
 MLI,Government Intranet,Intranet de l'administration,staff,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,Single-window portal of public services,Guichet unique,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,Government messaging system,messagerie gouvernementale,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
@@ -381,6 +384,7 @@ SYC,Integrated Financial Management Information System (IFMIS),Seychelles,other,
 SYC,Electronic Government Network,Seychelles,staff,,Department of Information Communication Technology,,2025-06-17-national-assembly-dict-egn-visit
 SYC,SeyID,Seychelles,other,,,,2025-06-17-national-assembly-dict-egn-visit
 SYC,Digital Human Resource Management System (HRMS),HRMS,other,,Department of Public Administration,,2026-10-14-syc-statehouse-digital-hrms-2027
+SYC,SeyAlert,Seychelles,other,mobile app,Department of Risk and Disaster Management,,2026-11-02-syc-seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app
 TCD,SIGPTS,Chad,staff,IDEMIA,,,2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report
 TCD,RNBP identity verification mobile application,Chad,staff,,ANATS,,2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report
 TGO,ATD low-code/no-code integration platforms,ATD low-code/no-code platforms,staff,low-code/no-code,Agence Togo Digital,,2026-09-04-togo-atd-cadre-digitalisation-services-publics-gouvernance
@@ -451,6 +455,7 @@ UGA,Education Management Information System,EMIS,other,,,,2024-03-01-moict-digit
 UGA,Electronic Government Procurement,E-GP,other,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
 UGA,ECCMIS,Electronic Court Case Management Information System,other,,Judiciary of Uganda,42 court stations in and around Kampala,2026-04-23-uga-nilepost-eccmis-training-42-courts
 UGA,eGP 2.0,eGP 2.0,other,online procurement platform,Ministry of Finance and PPDA,,2026-08-05-uga-monitor-firms-lose-out-egp-online
+UGA,National Backbone Infrastructure (NBI),Uganda,other,fibre,NITA-U (managed by Soliton Telmec),,2025-04-03-uga-utel-to-take-on-operationalisation-of-national-backbone-infrastructure
 ZAF,Microsoft Sentinel TDR solution,Road Accident Fund,staff,Microsoft Sentinel,Road Accident Fund,,2026-09-14-top-ict-tenders-sita-activity-surge-itweb
 ZAF,SAPS incident management solution,SAPS,staff,,SAPS,,2026-09-14-top-ict-tenders-sita-activity-surge-itweb
 ZAF,Votaquotes e-procurement,Electoral Commission,other,,Electoral Commission,,2026-09-14-top-ict-tenders-sita-activity-surge-itweb

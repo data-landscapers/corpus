@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-30-nga-nairametrics-galaxy-backbone-nictib-5000km-28-states",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Nairametrics reports that Galaxy Backbone, Nigeria's state-owned digital infrastructure provider, manages the NICTIB fibre network connecting state capitals, federal institutions and MDAs, and runs a 24/7 network operating centre and security operations centre.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Galaxy Backbone",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

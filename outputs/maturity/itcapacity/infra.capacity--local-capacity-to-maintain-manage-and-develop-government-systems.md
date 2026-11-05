@@ -175,9 +175,10 @@ A government technology body runs systems for the rest of government by 2026; no
 
 ### Congo: 3 Established
 
-A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
+A government technology body runs systems for the rest of government by 2024, and one tax system was built in-house; no recent launch is known.
 
 - Congo's Agence de développement de l'économie numérique (Aden) is stated to ensure the technical management of the government's official web portal gouvernement.cg, per Les Dépêches de Brazzaville ([source, 2024-12-27](https://www.adiac-congo.com/content/numerique-laden-examine-ses-documents-cadres-161959)).
+- The Treasury sheet says the tax system E-TAX was built in-house by the ministry's information systems directorate ([source, 2024-08-30](https://www.tresor.economie.gouv.fr/Pays/CG/le-secteur-du-numerique)).
 
 ### Djibouti: 3 Established
 

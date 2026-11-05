@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-03-uga-utel-to-take-on-operationalisation-of-national-backbone-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "Soliton Telmec manages the National Backbone Infrastructure under a 15-year NITA-U contract, in its 12th year; the government decided to move management to UTel.",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "National Backbone Infrastructure (NBI)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Backbone Infrastructure (NBI)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "fibre",
+   "owner": "NITA-U (managed by Soliton Telmec)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

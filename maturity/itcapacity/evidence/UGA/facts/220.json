@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-28-uga-dubai-firm-takes-digital-deal-from-nita-u-s-jaws",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "The Daily Monitor says NITA-U hired the Kenyan company Soliton Telmec in 2018 to manage and commercialise the National Backbone Infrastructure, a contract meant to run to 2028 that the government agreed to cancel.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "National Backbone Infrastructure (NBI)",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

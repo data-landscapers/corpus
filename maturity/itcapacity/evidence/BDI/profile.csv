@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,inhouse,inhouse,coverage,,,,,nothing held
+BDI,inhouse,inhouse,coverage,,,,,nothing found
 BDI,inhouse,agency,coverage,operating,2026-10-16,BDI-001,,
-BDI,inhouse,built,coverage,,,,,nothing held
-BDI,inhouse,cadre,coverage,,,,,nothing held
+BDI,inhouse,built,coverage,,,,,nothing found
+BDI,inhouse,own,coverage,,,,,nothing found
