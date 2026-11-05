@@ -134,10 +134,11 @@ Lesotho signed a Broadband Infrastructure Sharing Policy in June 2026, but no bu
 
 ### Namibia: 3 Established
 
-Namibia has had a National Broadband Policy since 2020 and a National Digital Strategy since 2025; no source found reports money committed and results published.
+Cabinet approved a revised national broadband plan in October 2026; no source found reports money committed to it.
 
-- The article says the National Digital Strategy launched in 2025, with the Sixth National Development Plan, charts digital infrastructure through 2025/26 to 2029/30, with a target of raising internet use from 53% to 90% by 2030; the period had not ended and no successor is named ([source, 2025](https://www.telecomreviewafrica.com/articles/features/28266-towards-a-5g-enabled-digitalized-namibia-in-2026/)).
+- Namibia's Cabinet approved a revised national broadband policy and implementation plan at its 13 and 27 October 2026 meetings, announced by minister Emma Theofelus, and directed the ICT ministry to begin implementation ([source, 2026-10](https://neweralive.na/cabinet-briefs-15/)).
 - Government Notice No. 189 in Government Gazette No. 7308 publishes the National Broadband Policy, which the Minister of Information and Communication Technology, Dr P. Mushelenga, signed on 27 July 2020 and issued to the Communications Regulatory Authority of Namibia as policy guidelines under section 7 of the Communications Act 2009; the gazette is dated 14 August 2020 ([source, 2020-08-14](https://www.lac.org.na/laws/2020/7308.pdf)).
+- The article says the National Digital Strategy launched in 2025, with the Sixth National Development Plan, charts digital infrastructure through 2025/26 to 2029/30, with a target of raising internet use from 53% to 90% by 2030; the period had not ended and no successor is named ([source, 2025](https://www.telecomreviewafrica.com/articles/features/28266-towards-a-5g-enabled-digitalized-namibia-in-2026/)).
 
 ### Rwanda: 3 Established
 

@@ -1,16 +1,17 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "plan",
-   "stage": "3",
-   "standing": "adopted",
-   "delivery": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-002;NAM-001",
-   "gaps": "No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-broadbandstrategy.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "plan",
+      "stage": "3",
+      "standing": "adopted",
+      "delivery": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-004;NAM-001;NAM-002",
+      "gaps": "No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.",
+      "note": "Reassessed 2026-11-05: Cabinet approved a revised national broadband policy and implementation plan in October 2026, so a plan is adopted and running. No money is tied to it, so not stage 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }
