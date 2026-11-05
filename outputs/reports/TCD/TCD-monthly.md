@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: TCD
-ledger_rows: 15
+ledger_rows: 16
 not_held: 22
-record: 251967eefa19
+record: 16d9b54dc2f5
 ---
 
 # News, Oct – Nov 2026
@@ -173,6 +173,20 @@ Chad's digital minister Haliki Choua Mahamat told German, EU and GIZ representat
 **[Tchad : Le plan de connexion au réseau internet mondial présenté au GAIDS à Séoul - Digital Business Africa](https://www.digitalbusiness.africa/tchad-le-plan-de-connexion-au-reseau-internet-mondial-presente-au-gaids-a-seoul/)** — Digital Business Africa, 20 October 2026
 
 Chad's telecoms minister told the Global AI and Digital Summit in Seoul that the country has only one active international internet link, through Cameroon. He named the World Bank-funded PATN digital transformation project and the Central African regional programme CARDIP, still being designed, as the way out.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet exchange membership listed in PeeringDB</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXP Tracker - Tchad](https://pulse.internetsociety.org/fr/ixp-tracker/country/TD/)** — ISOC Pulse, 1 November 2026
+
+One active exchange, N'Djamena IX, 9 members; 11 active networks; resilience score 28/100 (Nov 2026).
 
 </div>
 
